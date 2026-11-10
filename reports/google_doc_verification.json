@@ -1,5 +1,13 @@
 {
-  "paragraphs": 41,
-  "missing": [],
-  "document_id": "1D2oONWv0jaM9RBpK6ak79ZqeVRC90CnHwukn5x4e18Y"
+  "document_id": "1D2oONWv0jaM9RBpK6ak79ZqeVRC90CnHwukn5x4e18Y",
+  "verified_on": "2026-11-11",
+  "pages": 9,
+  "figures": 7,
+  "tables": 9,
+  "table_cells_match": true,
+  "table_header_style": "Pale blue background; bold black text",
+  "caption_1_exact": true,
+  "pdf_visual_review": "All nine exported pages inspected; no clipping or running headers/footers",
+  "rationale_pages": 1,
+  "native_user_edits_preserved": true
 }

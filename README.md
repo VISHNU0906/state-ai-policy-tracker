@@ -8,6 +8,8 @@ This project collects reports of AI-related action by Indian governments, groups
 
 For the result, open the dashboard or `data/out/records.xlsx`. For the method, read [METHODOLOGY.md](METHODOLOGY.md). For the reasoning behind the choices, read the one-page [RATIONALE.md](RATIONALE.md). [SUBMISSION.md](SUBMISSION.md) is the submission report. [RELEASE_NOTES.md](RELEASE_NOTES.md) records the final corrections.
 
+The illustrated report is in `reports/Submission.pdf`; the one-page note is in `reports/Rationale.pdf`. Its seven figures are saved under `docs/figures/report/`. The report uses pale blue table headings with black text. To build a portable PDF copy, install `reportlab` and run `python -m scripts.render_submission`. This reads `reports/submission_content.json` and writes separate `*-rebuilt.pdf` files, preserving the checked submission exports. If the report text changes, update both the Markdown and the structured report blocks.
+
 The unit is a reported action, not a distinct policy or a successful deployment. News coverage, headline wording and source access affect inclusion. A larger count is not evidence that a state has a better AI policy.
 
 ## Files and row counts

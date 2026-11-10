@@ -63,7 +63,9 @@ Deduplication compares reports from the same state within five days, gives rare 
 
 I kept the dashboard simple: state, time, category and stage filters, charts, and source links. The full dataset, rejection reasons and method are available separately. The most important limitation is the review boundary. Earlier screening and pair labels were produced by an assistant from headlines. They are not independent human verification. The next useful step is to check official orders, tenders and budgets, then connect announcements to evidence of implementation. More headlines alone will not resolve that gap.
 '''
-    write('RATIONALE.md',rationale)
+    # Maintained submission prose takes precedence over the original draft.
+    if (ROOT/'RATIONALE.md').exists(): rationale=(ROOT/'RATIONALE.md').read_text(encoding='utf-8')
+    else: write('RATIONALE.md',rationale)
 
     readme=f'''# State AI Policy Tracker
 
@@ -167,7 +169,8 @@ GitHub Pages serves `docs/`. The weekly discovery workflow collects a recent 14-
 
 Headlines, excerpts and source pages remain subject to their publishers' rights. This repository does not grant a new licence to that material. The Hugging Face card separates the tables, describes their provenance and links to the originals. No private writing archive, credentials or personal email correspondence is included.
 '''
-    write('README.md',readme)
+    if (ROOT/'README.md').exists(): readme=(ROOT/'README.md').read_text(encoding='utf-8')
+    else: write('README.md',readme)
 
     report=f'''# Work Test Submission SAFL Vishnu Kosuri
 
@@ -257,7 +260,8 @@ The Google Drive folder has one current location for each deliverable. Start wit
 
 The code ZIP contains the pipeline, tests and caches. The Git bundle preserves the development history. Follow the README to rebuild offline and serve the static site locally. A weekly GitHub workflow collects recent candidates into a review artifact; it does not silently add them to the published dataset. The dataset card describes the separate tables and the limits on reuse of publisher text.
 '''
-    write('SUBMISSION.md',report)
+    if (ROOT/'SUBMISSION.md').exists(): report=(ROOT/'SUBMISSION.md').read_text(encoding='utf-8')
+    else: write('SUBMISSION.md',report)
     hfcard=f'''---
 language:
 - en

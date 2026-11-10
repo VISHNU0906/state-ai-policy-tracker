@@ -7,3 +7,4 @@ collect*.log
 build.log
 data/interim/
 data/raw/sweep/
+reports/*-rebuilt.pdf

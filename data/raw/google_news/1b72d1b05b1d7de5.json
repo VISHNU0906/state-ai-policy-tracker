@@ -1,0 +1,109 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh has cleared 480 acres in Visakhapatnam and Anakapalli for Adani Infra, the primary notified partner of Google’s Raiden Infotech India, to build a 1 GW AI data centre cluster. The state order dated December 2 confirms the land transfer after the",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE00MUJsRnRPRGl0OUZ2UFhlME9meGVURldSZDJDa2hTRkZXUWx1MDE5cHFLdTJLSTZoQ3VTQTJsNU1TVlRPRVFDN181akV0VzhNN0wtNG5hR25qdjl0OE5nMkZCNmtNX0ZwcTJ0eDgtd1hwYjVWV3RuUWRVSF9rSjY0YjVmZmFSS2VBZnBOeTBCdjg5X3FNSkhVelJ0T2VjVklRMk1lOHFJaldFeURXM0UwLTRRbkFhMEo2RE5zRmt6S05FcUsyQ19UNzQtYk1sMDZHa2JOQlNMVDg?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra set to lead India’s AI revolution: Minister Lokesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGcxVkVTRTI3MFBlZ0dDUTBxMXc4U09wNkgtem9oZnBCREUtUmw4TWZkSjN0RFRidzF0NGFVN3YwcTBLRm9Lb1pDa0xZV1VXVFFwazQ2N3gyUzFvQURDelBsbGduQndxRGpHLVBkWDN4SlpDR2YwX19abmVIQjV4R3d0SS16UlA2OHVXT1lkdlVtNy05VmlvLUlHblNLT2d1QmJmeklYT25fQ0VHUS1UM21nSTJhYS1DYXFZam5Md9IBzAFBVV95cUxNMTBva1dCdkF5d3hjS2dJdy1YRjhuRDgwcm4zdklsRHpDc3BZN2hIN0U2WGVVWkJDLVFPODNoOTNCRFd1X1pFVmZlNFlYdk1Tdm1Da2hZOFdJSDBNOFhadUxBR09kXzNnSm0xQXR0SVRKSU5ZQThlOGNJLVNZLUVhb25CVmQ0QTNualRxc29fdlhnNk4zYU5GUDlGSTd5WmFRTTBrMHYyY2p2RWZVSEo0dVNOcEk4azF5TEg4a3M1ZnNoV0xOcEdJQmhTNHo?oc=5",
+   "published_utc": "2025-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI emerges as game-changer for Indian farmers: Union Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaC1lek9IUHJHQ1VuOGF0OFA3b2Z0QnlXSkp5UTczYUtibTdXY0Y5ZFExbS1DNE5oTzdNTGpSYUxQMHMzcHluS1pYNlc4ZFJSLUJiV3RBZDh3OEt0V3RjdG1Xd3h1ajlKZTEzTzY4aktoY3RSTmtCZ20tSU9aZFdQQXpDUnFQcmpxdGYtQXhmOXdFQ3pva2xZLWdiaFFwU1c5ekVMWHlWcE1WTmFraGZfZEs2NXZHeUFiT25iandDd2x5RTQ3N2F6eHN2OGpnWTjSAdYBQVVfeXFMUGNMQjFwU3BvYmg0OW5PcExQdXpWTkFvWGRkRlYxR0Z4cmRwS2tCZmJPLV93SFFGZjBnaUQ3cWZaOGFaemRvWTIzbXM3UmxCOGZqcGJlbzBOTU5WVWJKWk4wODZyQktqN0pCZGhZYm5EbDdTd1dMaVdDOVNWYllYT1phaUtMVkloYlVxdUlkbHBHbFQyVW8wSXp1elcyd2NPYmJlZGoxTmtySFB2cFVRMWlWdHB2UEhEclQ3YXdGeVFnYkR3NW10dmNzWnNyOWI1NFNFYzh1QQ?oc=5",
+   "published_utc": "2025-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra IT Minister Nara Lokesh meets Union Minister Ashwini Vaishnaw in Delhi",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1BmTHlRY2hfTXBBR2NiNVN5eTBCUVM1UU53X2xxV2FTcnVFSUlMV1NqZ2lLbjJBVjYzWTEwcXZvY016eGU4WWtaY0w0Tm1zVUVOcXBrV2pWdHVmRC1TaXl3VjBaWENWbnc5RVNnVHNGNzlQOE9PQnAxUUZQUm15VGltSmZEdzU2OEpQLUQyZFB1dmlYV25CVVBiWk5MVXJGMFRfWjB2SVFnRzVOOTlIdDhjbVRTdVQtQThKRGtvRjBPUS1fcVVPUE41THlwaEhlaDU1Q0Eza2o?oc=5",
+   "published_utc": "2025-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Allots 480 Acres For Adani-Google AI Data Centre In Visakhapatnam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnBCcFlQT2Vuc1JGUFJwYzR3S0lnYWpwcFFTa0JPQWhJNEVRMldMTHQ1bnZaUDB5SnBfNDhCWDBUN3RLMkFkQzFWV0k4Szd2MEdtYXZIM1JQb3RXS1RUQnpnekkxSlhCR1dTQ2lVazNPaFRKN0RCenNiUWJhWWJmcUhTckVva0VBbkNOQnh1NUduMVNSNGZWYThDRnVNd2RhemRfTVF6RHNVOVFTRDROQWFB0gG6AUFVX3lxTFBMckxIQWI5QWtRRWVlZHVaLWZSRk80c3lNYU5JN2pYcDVsdXg2ajIwc0hhakxtY3M0ckdQeVlIVlUwa1hsWk1uMkoyQURfdE1ISjd2SHgtRmc5M0pSRi1YRWphR0RZZ0RuLU1kNmk5aVlaM1dWSVVMVVlrVVMxLThBdGI5SllmT2xvc3dkQU9ObURNalBwNEVqTDhPLVVEakRCWi0zRFVRZk5pTENHcFR1ek1JTDhMNlZaUQ?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh clears 500 acres for Google data centre partners",
+   "source_name": "The Economic Times B2B",
+   "source_domain": "https://b2b.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWjdNcEl6VXpldFF3Zm9uSkk4NW1vejNZQVQ1UktMY2stallXNmtzdnVnMGFMdkstNUtVeVlTVzV5cVhsX2VoWTAyeDR5QURGRlhnb1FFVXI3QS1LanU3ZXhuRm5GLWdmeFVpZkJBRVJEUEJFa1FOdXV1dkd0a05aS284U2JzNWkyQm50WEFpZEVNbjM5bkY0VHZLbDJFN3BMbXFwYjZuTm9USnhoTFFsSFh4U041NjNRZFFxcEhMZExKODhWSUlwcUVCa1BXUdIB0wFBVV95cUxOeTNtX2hOUEZBQnMxR3NPRzEzdDI1NmFRNDVlZm1IMWRWS1N0ajNKTDEyY1F3Qjd6dWs1SnVxSURZLXNGaE82UTdhaW9VRDdyUjFIS3poT09ZaTF5ZF9Hdi03ZngzYndzMV9sNlFjNC1wRmZ4U1NCQ0h6aGpXVWpFZ2ljemROTU4wdmNkRV9weUFpLXJwN05kUzkxTFBkRHlTN3ZLYU9YbWg0NVU3ZHllOGd6dV90Y3dUZ1Z1cENxN0s5MlJqRnJQMy1aMU9SemdhV3ZB?oc=5",
+   "published_utc": "2025-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lokesh Promises Efforts to Give AI Tools to AP Students for Free",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM09MNkxfUkhTMVgwQndlOV9IY2F2ai1UVVl3bmkxM1dwYTU4SHhQU19rSHd0U2twVlU2RkZvNVdHYWVzWWFhSHpYeVEyRzh1clhzdXhuZ3daN2VCTXhmbkVZTEZLX3djVlVjbGNBNl9lbFlPc2pOM3NXaTQ4cFhKVmZ6SmtOMDJjTlFyeThlYjNBSXRpOWlPZmN4ekR2ZnZuZnFqZi1YVm1DdUZUNjY1MG1QN1lyOVlxN09yVzVJelkxUUlVaEtRVGExWlNkTlBh0gHWAUFVX3lxTFBBeTgtWDhiQ1gyOEIzWFRKRHNmTGxQNkV3eTFXSEc2SGhjekVPU0FwNnR0LTZHYUZueV9MQ0c0ZmFoMFk0WEotaXEyX2U5ZzMtcUtUQnNHR2h5LXkzQ0JUelB6dWhhSF90R205MXdSZjlaaTN4eUFhTmZWQVNpQTdlWm56TkM3UjB2SWxhanVXbUtBaUR5Z01KOFRxSUJ5MURUQldoczNQa29iemdmYUI4MFVHWHJmbnpCSHZXNktFQ29OV1gtZDNvN2VhRktfOGt6YTZrTHc?oc=5",
+   "published_utc": "2025-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lokesh discusses timeline for Vizag AI data centre project with Sundar Pichai",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc3FNRkV3RWoyNWFsNTJrdFB2QXFXbHg2Zk0xMXRCNjBZQndUYl9hc01SdmJtNUNMZi1zb2Jpd1BCNk4wRnVkSlpldjVnbHVfc0F1TDJWQ1h2OG1ZZVYxSmVycWNMZjBQTk5EZGtCZG9JNklsOGRzb3I0dlRfVl9MaUVaSGk5NmFIRDhvNzBTeVQ5LXNxc244NXVMdDZ4Mld3MjJRSFJCejBYWGNjbFM0Tk1Jck1HcFI5ZklfbDdNUFgzVjVkTG9PbXVFcV9DaEJUbjRSOE5EUHRlQ0k0bVdsY1hyUTRzUdIB7AFBVV95cUxPd0tKUjUyWFFnakxYbC1fLVdxeE5TcHU1MG5hVHpnZ3c3aW1WZkdVTUZPMmlFR0xnZGxEUVU2bXlCVDRSejBwU0liaS1Sdk4zQ3FXaEVRX3FQazQ5cFJCYmNsczNNZ3V3Y3ltS1FiUXNxMDM4ak9LYW96VXQ2S3QxVHZJMmhwQTljZmpWbDBMNUxXN0lOQ3JHLTVidkM2eXhWTmtIbktKYVVNbVUwN0RVT2M2TU9uTTByNDhJeURMUVhTVUkzYmZpSXVQbklSai1Pam9aMy1OZTM2MXlFN3hlREtTTUFyLXhrUHJpWQ?oc=5",
+   "published_utc": "2025-12-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Minister Lokesh pitches Andhra Pradesh as global tech hub in Canada",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLV8zT2ZCTzVFOHpCNVZzVm45c2p4X3lVSEg5eGstZ3dPbkZDZXAxNEl4YUtMaWM3SkFBSWZqSlVTeFhvZDFsXzVVUTdadEF3eW1VTUtWc0ZwS3pxaGF3dldUb1gtbmMxX2lMUUZEX1Rybk1tWmFDUlpMN0NkTXB3MUx0LVpDZnN2aXJoUGdTYXJWa3RJbDBZZHpXRDRLbW8wRTVNN3A5ZjJ4Q3IxRmpCb21DRUstMkpUbmFMUmNlMTRCS29BeEZFOWU5aWtNRU3SAdwBQVVfeXFMTkFra01tb0lmLTF1eFN2cXA5b2doVS16QjNpN0MyWnZ1dER3a244LUFsTjZXZDBNMTFlVnhyYUd4M25QV1BQdHg5QTBNQmZNaGcyM0h6RGNzRnVRSVN0aTMxOF83ZEdmVjlMM0daUDRqS0hfR3U4akFIdEZDMjd5LUYyLTJXNHdESTRXZjhFYVZFS2p6TFNMWk00c19NbWNLYzV6R0NINmNyZHhqRW4tU2ZkTHZia3dWUzRtcjJiUVBuTGhqdUwtV3FNWTZRNEp0RGVFbEFlbmdvSHphVA?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh IT Minister Nara Lokesh meets Google CEO Sundar Pichai in San Francisco",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQnNlbzJaWVRSX09ycEF4WDlCOVVSMUYzbVdHdzBGcDh2RWVRWG8wYnFnNzF4ZWNuNzdmaDVtNlB1ZnVHaFdnRklWTWFYZmVDbktPbFMyVGg5RHRQVV93NXZJR2hPVzZLckRKMUxrbDQwR09xTG1qclZ5UWVTVHVMRnQ3QjJ4TG5KNXZiVFJVc3JmUkdWekpScmJfX1h3azFDT1lwSlBpREZxVkVkNElvZjNTNkpSMkhDXzhldk4yY1hpSUpVU1FpTWhjZmVzcmhNSVBZVHh6LW04bEtrOXV1M0RDUFRiT2JjNUI0QThzYnZmeVMyUlJreXlR0gH_AUFVX3lxTE5HSHdjNHZFbndLVmF0VWZEcVlHVkRtdXNpWkRQUEllc2NTVjhqZElhYVZLQkFDbXMtanlOdk1GSHhXbG81RHRacmEwQkJGZnl5cXA0MTBOV2tRN1VpX3ZlUkwtdDJUTW1ha09RTjJOT0t6UW10UFdxMWc5M2g1c1lUaGNTWENzSTI1VUF0NGczMWpxM0pvT19ZQjY5QTVNYXBFcDhSaDR0bmN2eXNQYVlVWjFwYmpyaHlmTzNrRXBHZ2NidHk4LTJKUDNvWDczaXRhZkx4aVFQeXlJZFBzQUJQWUJlNldscUJzN3NfR0tGSDVBQlNDWXVTVUgycC0xVQ?oc=5",
+   "published_utc": "2025-12-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Finance Minister Sitharaman launches Cyient AI & Future Skills Hub in Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVXhkU2dRSHp5V21oaHBKUEFOTFJDQzdQNWhPYlRyRGF6clZTeG9kWm1SckFkakRua2Joc0pZNVhReHFyYVhudTRmWGtuVU41Q2VFeWhBdDl4QkNxUTAyWExicmFQNVZaZWxFNFNGbGJwSDRaVmpfSExoV1pCSVNsUHA4Rl9GeVJLRHNOVFBxMFFPekdIbEl4b2l0YXlNYmtFNkRWaEpMQXdfMHNWazJOZmJWbXc2dko3SzJ1aE5Rd2pFbUcySk5wR0tyTHpOWlE2d0J3bTczYkJHWFlzV05YdUpuMnVpY255c3VF0gH4AUFVX3lxTE9uSGItbDg2X3prRS1FSGxCMkhIck5yN1duUVkzMGpDcjlGNTlsbWo5a2F4Y2VRcEVKcEpsOU14ZEo3aV9TQkdnOC1lNDZDQ0huZHRKNzg0RFBIZmFpX3Z5YjlqXzgwVWo5bW9sUlc5Mkt3NkYwMFZ3QlRrckgtZ0dSMng2dUFsUF9uLUg0Q3hadHZKM1A3QUlSeVd5NldpVC1ldU0xd0ItTlRpdlVZdTh5UkNGVVFqM2NWZF9GNXltTnJTdTJ4dnBnbTNyWGVma09fTXlLZks4RWViemlXcDhGb0w1dTZiemFTRU1MZ09HQnNRNEV4NUgx?oc=5",
+   "published_utc": "2025-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Minister Lokesh pitches Andhra as hub for deep tech, investment in US tour",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa0UyOGhDYVJkMldCby1JenRyaFFGVFFhNms4dzZpUWdBNkNFR0J3NEl6WHZPRXRSZzFpTHVzNEVmbmNJZ3ZrcmNYekFzaEZNTVE5TnpxOGU1UUFmdDVxQW5odHUyY2hhLU0zSWM4LXJ3V3E2WVFtcFQ5ZEE3ejJxdWV0TVpRZUR6NFFNYTBxbTl5SGRVNWJCM0xBdjQ5cWJncUdFTTlwVG1KcmlrMmJjS1FvN1FNVFFzX1BMY2RpWXV6YVotUlM2TkVWUkNTQnJCem40anJFVdIB5AFBVV95cUxQWGNaejRoRG9hQmhIR3BYQVRORV9NNWpKdUJOYU5DUkRaTVhmSF96SXJDWHU1MnhEUHI2QzJEMDc5OEhINzVKREpJMXpmV2JtSWh4RHoxd1ZXVUJacVdTYjRNczNPdDNZcnN2WUx6d2VTOW9WUkNXN3JVTzh0RGh3RG5FMmJhdUFqTTRScXVheGV1Ym1oZksydGhPeFZtcEZ3bXBhSldqeWR2VUhFWGU0QUItVm1nVkQ1SmlMRXNFcDI0RTlYVWx1LS1KUGtTajA5N2hjTzR0a2JSMnF5eFNMY1NlVlA?oc=5",
+   "published_utc": "2025-12-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra clears 480 acres for mega Adani–Google AI hub in Visakhapatnam",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3FieFdGeUhyMXh5UzR0TWdnNFFjS3kzWWFtVXc5V0t1OVBmdEt5WU11VG9ZSzZ6TFM4akhLU3NoTVcyVlhyWUcxazNmMFNzT0R1bXpzTmtkLUVwMzJQLVhnalF3OUNzWUhqOUhGUmwzNnhoRmR3SlVYaVJaR1FPeTJhR1JuN2w2RU5OZnNFWVZjRUhRMVhpdGdNWUpQOHM5Q3pBR3ZrU2RORndVSTlVT0VTZUhENXI4UVdDajZ5RdIBzAFBVV95cUxNeERFaEw0NTY4cUZfY1MwQUpxd1BkSXlnSjByek9HaUhEQnJHSzQxeVU0dzF3NjZySTRKVjQ0OWFRelE3Y0ZKWG1oMWFoTWMxMi1hWTFzdlhXbGdnSi1nLWpWX3MxYXZWaUVnQ0pGN19rNVhpRzBHQWlWdkNzNFlfTGpNeVRWSzRMdTl2dTlVWXFINElkaHJxZkd6Y19VeUNSNDVZN0VwUGJXWXIxWEh2WWI3ZWJNMGtybWg2MV84MWtSTE0zc0x2Q0diUkw?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

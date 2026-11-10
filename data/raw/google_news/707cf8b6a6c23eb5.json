@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "Green data centres in India: Policy meets practice",
+   "source_name": "International Bar Association | IBA",
+   "source_domain": "https://www.ibanet.org",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zMVJuNkt1U044NDBDb05ReGpwRUVGN2lKOUFkNlBmT25CSTQzUFJCeFo0eDVDY1FES01PZTM0R3lfbVZaQTkxclA0LUUxR2Vud1JsQklJOFhfUHNJaDY5djdkX3B4NU9WbGVJSTZQQmNJQnVUSEtZZTlDRjY?oc=5",
+   "published_utc": "2026-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra’s Data Centre Race is Headed for a Flood-Driven Blackout. Its Mangroves Hold the Clue",
+   "source_name": "TheWire.in",
+   "source_domain": "https://thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONE5NbjZfMjdzYkJDM1NPMDJvUkZhTFl0MGUyaG5NQjNtNUNaYzFoRGFjdG9vcGp6eTFFMlEwVWdOMEN0b0FVSnU2LXNwZ19GNjRWMjF0d3p0OE16Y1Q1UmJXbF9yT1F2RzNkd3c5QWlnMmZjZzJ2NkhGTzNaMGxtdmM2MHFVd21fUjZNZklyMlFTZnc0VDN5b1otcnAxeko5MGVMQmQydURtOHlIazQ3MUNBVEhoUTItTnI4cGVjSUtuMjM40gHXAUFVX3lxTFBHa2pmX1A4YlBxLVBZUjBMNDJKVDRTci05c1hGbWZlbzllSVFIWTY4RThoMnpuWU1GeDM1bkREeWVma1ZFY1dmbzlTM3JJTlNtbTE4aEV6RTlENWM5RG5sTS1LS2ZHMHc5Z2g4dlBYNGZUTVhBc1VFUXdLeFlBM1hnM01fSEI5UVU1MlhxSnVwVWhHanRWeTlnelVWN2lVWkdMdm5oLVpsVnotU0NaVC1TMVl0aTVvSGN6MDVmcC1iMEJUZWxNZkNGcndMcmdYM2NKdmpSdGc0?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Thane Residents Are Opposing Amazon’s Data Centre",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGtPWDBEMjNRUnFIckpQRzJ2a3cxcndZa3pBRUd5UHZmcVdjQlNiX3FfVGVLbEtHaHRSazRwZU4weU9TMGhFQ2lzcHZuVzdOdlJxRVlDUUN4cTNxRGwzWG5HVHpsUEhIb3pvWFBGb3RPenZiVFFzeGZXU1l4NDhtQmV6dFlVeXNPbUZGOHp6dUszaXhZVlRSNWhOZzBzZkxVYzhrVWlrS2VhRWZLSExn0gG2AUFVX3lxTE13VFhSY1k4VnFnbDJWa2tweEFwWnJfOHFVanZjZ3hta0wtbnRSbWlvRGJLU2tvV2s5MDAtU3NrZHdORGNnN2dOZXk5bVR6Z3R3Mmp4VUxaZXpzaFFiYnBrQVRiR29jdDAwRGpZa01vRG13b1VuLXdtN2Y0UW9tNXdmUG41NTZxOVNpbVFBd21LUnV2UGVnT3ZIcFloaFlBdjJqLUlGdlZPY2hDeWxwdjJGR1dJOUVR?oc=5",
+   "published_utc": "2026-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vertiv Expands Data Centre Skilling Programme to Maharashtra",
+   "source_name": "The CSR Universe",
+   "source_domain": "https://thecsruniverse.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmFDZ0dZMXR0SFBIVHhXbXdKNnltUzhhMkZvRVNHWkZwWUJKSURaY1FOME1MMWNwbTNCVV9uTTVsQ2NBN0pSQjJIUVdSRUtXZXJYUk1PazlfWDhtRVhmWDgzemh3QXQ1R0w1SV9ISDFQdWhHbkxsVUU4N0Rkb2NXZGQ4RHg3SV9ReXlSWGdFcEIybXEyNWtKYXlfaEJOTms?oc=5",
+   "published_utc": "2026-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s AI Data Centre Boom Heads For Water-Stressed Regions, Raising Fresh Concerns Over Resource Security",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM3lJX2ZLNUhlMWc5S1NKUTBTSXRObWdMOEtkUXFBMmJaRU9tMThvYXJyWlZKeDJ2ZVBoaUVmS2lQem5jOW5ESERON0o5aUw1d2JJN1h2aWJ6eUd1TmtmZk5SM2VKdWhZSUdtT3dUcGFBbkFCNi1VR2I2cThiTUtZYWVzSFFJTW9fUktZdjhuemZHV04yWHpkeEpOOUd5alpzdzFUek9jdzEyUXd0ODh4OHg5M2J5WWNZQVNzUFFEYXU0NUpSQk43Q0RUQlE4LUdNMmx4cGluYXhkTHEyOVpPMkNUdGgybDdNSGtv0gHwAUFVX3lxTFA4b2JSQmhLa2FZeDV1Z2ZrcERGbDNTRFBWdmluaTdBV0NXdF9XeWR3QnZ4aDBoUlBiWFZRbHBkd2daSmlwXzRKdDhaT3l4aG50ZzYxUGg5akZPazRFRXB2cU9rM0NRcFRkdURSQkJiSnZBNHpCRU1tbzhfckFCWjdfanhzVGQwZlNLUUY2bUlpcEdTcE1SSHJoRE5USEExcFhKYWJxU202UV9CQW9DdFZyQ0FMbkpadmZodGxsbXAwOU4yT0k3VjVDdDNkbm5Wd19FOTRJaFF2UWlpWWJFb1RXZ1ZmR2tPc2RncUlZVWVGVQ?oc=5",
+   "published_utc": "2026-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amaravati to get India’s first dedicated Quantum and AI University campus",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUM1RV9zQUt2c1IyVmZYUm16S0RXVmllOExHUmNHbC14Zi1rQUYwRlp5XzVCQl8yWDdISHI5ZkxMNVFab1hfNFpsdWNGOU55b2ZiblFhaEItMEpQOThCVklLMXUxcTNlMVdVM2kxMldHQi05bEd0VW93c2ZTRE5KQlRTSVFTcGVkUkFQN1BJNzQ3OGYxOXl3b2lvc3Y0WkN1VHVVR1JDOGlwZW5rTlBiaVRDdFpjSHBJVFZaOThLQW5NNENMSWUxS3VoYVdLdllrZG5tT3JoYTFNdGhB0gHiAUFVX3lxTE1zd0VkU2kwcDJ4SE91U3Zuc19wRVdOanMyRjBWcVBTSDlzTDNla1dHMmthaXM5OUJuXzlKSTN2WGE3ZHp1LWZoWDRpMmlEV3BEVlljLUxDZ1FFX2N2a2R4dXo4MGFTaHhfdnlEUGFoSk94a0tFYWFHOFBVYmU5SzJSdWY0VmR4ZjZyM094SjE1VDVHbUZqR0NNSUltMVJueUVDbmJCVHA2c2RtQllxN19fR0ZxcWYteGxUSXQzLS1pNFRNX2Q1d2VfSnZIY0luMEMtV1ZIZmt5LUdXNkVNUzQ0VGc?oc=5",
+   "published_utc": "2026-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra signed data centre MoUs worth over $300 bn; overall capacity will reach 5.7 GW by 2031:...",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGFsRkd2S1IyUm1hd052ZlJBZmF3LVZPZkFxODhCT3lWZWlHeVd0M2F0OVJMRGF6T1NiZTlIZG1yY3NhWmNzY3d3RkhBODl6QmVCNnUtdDB4VU5hYmhzWnA1QkRGR2VtWUhod0pLd1pfZHd5V0sxYTJMY0l6aGJkUHVBUWRfSUVOZF81QVFxbjFpSjFHNDhQQWtoVVJSYlJUaG85akRwSmhMbEVfbHRVUHRicW96d2x1X3lkZjFXUFB4d3psVnRjNXpuNU5mcHduYnktdUxudlY5QWNZOElKREpoTWlZcjVnVVdqOEVrYnrSAfYBQVVfeXFMUE9qejlxVnAzZU9jYlVFRkFxTGl5LUtGWXBDaGdwb1hUOFRZM0pxdnZXTm16a25DWGo0RUNXR2w1T2xuT1JmYzVlQTFyZVVrdUxrQ0NrWXNkZ3pfN1M5SDhramRabl9UbVlnT1JaSXBKbURBcWN6dTJwVVBmVzUwdENDV0dTS1dmdncteHA2UHEzSjZqRlpSNkVvaDBOMUZGNzhwRjh4N2JiSFpveHFVQ19ja2tsSXlqdTQxdTgxeEFDeHlfZnkySndvM0x5Vjk1NkIwTVVEdXk3RFR5R1M0aUFjN2FYOTJNX3BKdENFeExMSm1Ea09B?oc=5",
+   "published_utc": "2026-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s data centre capacity hits new high as AI powers a 4x boom",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2NwRXNLQUc3d0NFdWNuRm1MbVRkWG1NOXY3cHNDWWZGVnZleGNGZW1NYWVUQ01BNHpKMXJiMDZCRUFZa2xrR0llbS1MZHJjOHdfU2lyajRnTFMyUnFzSDZNc2RRWnhCaHAyMHNVTEI3dHFmR0Z6NGoyUjltUEx6Ykp4Uld6eFJnT19LSjNWUC1kUGxFYl9KbWdZQ0d3WWZDRHpzeWtFbEFlWXJsVm90Ym5SQnV0T2xKQXp6WVJ1Mnc5V1JPX2pLSnFKZnVMV3Y3cGxBbW1HSzJPbWQzdkVSVk9R0gHnAUFVX3lxTE5henZKblQ2UWJmLWpaa3VoLVl4b0F4VGdjb1IwWUh6eXVxcmZ3Tm9sMlZVcEViSlJRZmhjNXlYWUMxanpRWER4Z1N5bkpKd2dTbGcxTGdHNWxlQU9YbjgtUEZrbGtkTV9zWC0ycFJEbHBXdjQ2Y3NBVjFsZjBfNHZMWjhIT1c4b2NMRXkwTGQ4SDQwU1VmWlJBUG0xcjJudVdfbE1OSVhnTmVqcU5PMFMyaXphbFdyd2FwSjR3aTU2T3Y4aTdnLUc3YmEyRFZoV3RuenpZYXVpblkwWnNBVXRYLTgzNGYtaw?oc=5",
+   "published_utc": "2026-08-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "$300 billion data centre bet: Maharashtra government signs MoUs to hit 5.7 GW capacity by 2031",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVGUzVm9LbXRKc3dlR2ltZndqRDM4VEVzTm5iWjJNdGFWSWMxVkpJRXYtNFdMOU1FbXZ0RUlwRzAzS1pJS0JoY0R5UjhUU2xqWlRRNVpWekVwZW15RmtKekxyUFFtYUI2NG4ySVRzc21jMG1TTXc1RG1EUzR2NlFlUWVCdXhBUVlNb3R4eFc3aVBfR25xQ2tVVFlDU0h1MEdDUVp3SW0yR2hyUklsM0xDYkRxZHNYZVNfdnMxdmNQZlAxNWtQWXNfTkpzLURKai1JUXc0LWlSY21YZ3Jfa2tqcjE5Wi01LUlCV1lSaG02OTF5bzjSAfoBQVVfeXFMTjEtUUl0Zk1iOXF3WDVsQm9iU0pTU1ZDRUJtUFNydWY1WFpMRDZMWFA0NzliaW0wdC02a3pibGVWbEcybk40S0ZlWmRqS2dmMkQ3cnVOT1k1c1RSMjFUdm1Lb0tET2VsMlg4eFFaS2NIZXZfR0pHYWhRdE9OOVZkRVdqdTFJX1JUUVlPYkFsS3kyQ0ZYUjQ3M091bGRieHlsVno2SjFsOU5md1QtQlo2LTVVQ3hoY3YwQkY2T1FkemdsZGsyTXp5b2xBV3ZXOEJTWWRJQ2pZR0FtQ2h3c2NGdTJ4Y1V6Vlk0Zi1PYU9LYkhZVUhIaHZhT291dw?oc=5",
+   "published_utc": "2026-08-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

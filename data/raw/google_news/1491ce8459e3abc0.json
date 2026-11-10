@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "Microsoft has launched its global Data Centre Academy in India, responding to rising demand for skilled talent as the country scales up its digital infrastructure. The programme was rolled out at International Institute of Information Technology Hyderabad (IIITH)",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXNXSG82cjZhVUQ4ZEVBWjc4Nmt3eDVyUUY5SGJhWDVzVVZyY1BKSmVaQzVtZlQxTFQ1SWpGOS0zMng4ZG04NGdZWG1haS0ybjBmWjRtV1dQWWFhQ0lCUHA1Sjk2WjFiN0dTVWNnQ1Q5bEVUclQyRlo4a3JNUDJfQkFZUng5ZWtMdU5nUDVfQ3c3SGpha0F1SUFhM0FzekZ0Rl9RN2NUUzN5dlRJNWpfSjhPYzVDbUphNF9jWjdLd2VDdzBfUlZxMm4tTFpqZXZl?oc=5",
+   "published_utc": "2025-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From key data centre to AI township, Telangana attracts Rs 5.75 lakh crore investments in global summit",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRXgtMUYtLU5oQkptQTJQNklxMkk3NHhPMDl4YzdnNVhuX3NWVllFSnd4V3dvNjg3aWxFQmExbVF6cUlSU1RpNnNMazFwSW81a0s5STBQcVFkNE9ESGRaRVhHaW1fZEp0M1VQTE5lNzNIX2pEeHhRb2E2aUE5T1hCODZkWG45OWJTVXBXdXlreGtsNzRqcF9odzEydVA3UTI3WGVFQk8yN3doTjJHQ0dlY3Rjdmw0M1ByVzN1Y0xjMnBKRDVXekdITXlHZlNZMzA1UXNEZGVBRjJJNVhDSVZ1QVJBVjI2VjjSAe4BQVVfeXFMTnVneUFnYmNwRnhCWVphenduZG9DY2R3MzJrekRnOVRnN21PVFdvSV9UcWhKakU5aGVTVDdkUVVlSXZkcGFnRjZObEVHWVlQM1dvM3pzYVVaRXdiNWZHNUpfc3pJQ2hZVUJ6aHJ5ak93Z2dMVlVoZ2QwTEZqRWFyaW9PQXVLUlNDaDFSVGE2X0lCb0xmOHVSVEI1MTNWVS1PYTdRM192a0kxb1lyd3g1OVNRSV81STNzWmx1alVoZ1NBMDBmcVA4SzJrbjN0MWNOazk4Z0FabWs1TmFqcDlIN2Q5RVM3S3l2TW9UbTR4dw?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amazon to invest $7bn to expand cloud data centre in T",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWjVTeHU4Vm9vdmxTSU01aFpSNS1NLU52VWZOLUx6bnBPc2pINHRySVBqUEptNEdoZWtlZ3J5eC15Q1lxbGxtTlhBeHhaRHAtNUFrRENnRlJnTEltWjBlczk1eVZjYVl1Zm9BdVpoVHY3SW1hUlhCNnJmcENkUEdkYjZyeWpQZFRPSWJwMnVGLVBRN21EcEVpMjBYZDJBdFc0YlVxVkhjUVNVSmRMVjRFNVBoa0xCb2F0RDFDeHluZ2d3RmhWNkxNTktR0gHPAUFVX3lxTE44OHJuWHpzV2JJZnJHUjVpWjJKd3p3TWIxWks0ZlVGYVg1dkJQZkE4VGhoSFQ5UDl3WDE2US1ZRjNNT0VQd09Md0c5WEpsWG93QWo1MURqRmg2bHlxc0xwalZMZkR2eUdEUTdGSW5rQndNXzZTUFhHMGN0VDBwaWgzMWVMLWlzeFlkZTRVNXF5aUJOaWlscjNPU3p4bU04SjNTZVhhdWJ5QzF1NWZnZDF1MXByOUY2M2l3TldEMWNhSHYyc3pHVVdic2VxRUpWVQ?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS to Invest USD 7 Billion to Expand Data Centre Expansion in Telangana Over 14 Years",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOTg2SmFkVVl5T1Z3UGtENW1TT1FzQnhOeEIyUml0ejZrblBycHZmb2MybEhEeEo2YlpoN1hOV2JOYXFpZDhEczZ0TEg5RkNvQkpGWFFTWU1EalpKaGE3eXI4M21rNXlKSHJkdU1EdXFPclN6YmNoOU9BNUpiRzRWRVN2M0hORnBhWGVwbk5aeHZONkw4dVNPZ0NDMDRsSzFlMTV6MUtyUG5JRExINXVkNmxjNmxTWjFKeGVrVDNDOUtad3R5aGlvR2NEcVRzZU5XSjB6NS15OGM2RTU4RTF1LTBRd0xRVkHSAewBQVVfeXFMTmhtdjZHd19zblR4eC1RdGEwOWZjU2N1cGNsZEwxRWYyY2FzQ2YwZjlMb2FveExrclpLRzF1VUZfdk5xM3JVcy1NOW82aEl0dE5kRGoxZkUtMGh5UExWcWNzQkptX2pscFVRNzJsakpCZkllbjRMblBiSmRGMnJZcm5aZU9LMVNWanRGRGNteW10UjlvUG9TUlh3LUFpcDZtOGl4V21kZ0tKYnpHZkZQZ0VKWUdaOXJCZWtLM2RITVc4ME5CUnpxWWs2dVNCVHNYR0gwZTYxYmlKYmhQaG1lRTNPSjRVMFlGOVZvSTk?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS To Invest USD 7 Billion To Expand Cloud Data Centre In Telangana Over 14 Years",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlhMM0VDbFVTSjN5T05KTjM5OGVGSEoyaWJnY2ZyYjBfaG5sZlBDSktnUkpoRFl3MlZZLWlOazJxS0hzbWlPeC03WnFVQzE4LUtIUGxKdGcxU1h3eG1ZVlNGN1daRUFFRUF5V1REckFyVUh6Z2ZCRWtnc2daaHBrNU93ZWdtNTJaZUliR3Awa1ZHdV9pUjlOdnVwSXJGMkEy0gGmAUFVX3lxTE50QnJ0cUR0UWR1ODdfMU1FVHBNeXNVVHhuQUZ4N3J0WF9oZVV2QW8tN1JLaWg2MmRHVTZJN2NXT1ZhMXB4a0UwRmlpYUMzTUdmQjlEQ2pRTXZycEtucTJaY2ZRQ05nYjUxMWIxalpNbWY4M0tGWlVRTll0Y1hBMloxZFllUE9CbmRiOUZKZ2tSRTRpZUlZZUlNeFZlc0xwR3VteU9INXc?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Connectivity, climate, cost: Why South India has emerged as data centre magnet for big tech",
+   "source_name": "Storyboard18",
+   "source_domain": "https://www.storyboard18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcndRbTByNURIbFJIeFVQUHliUk9OZ2pDU3lQeVhyTmFRdFhsNHlpdlZKRXhPS2h5RTIyUktReHBYM21jUGR3Mmt0VjdxU2k2M0hQSjU5amNRUE1mQWZNcG1oblBaZ2FybmFIazgyUHhFbTF4bnV3UGtOcGlvSDdBdGt6UENCcWVyUGdydF9BYkllbEwzMmFFWUwxbFJPaFJDd01RS21HbjNPZ2IzV0hjUTdDRXBBbTJWQ1cyVDNVaHZWamtTZ2JMVTdMbjlYMHp1QUtSV0xhNNIB3AFBVV95cUxOX012MHZiVS1qSmFmeVAxMU1YMGo1dlRmRl9xU3lYSkVrdDFEd09Zbk9GZXhER3FJY2tIVWZVQnNmNEdENXZLZ2dHZUFuVzRkYkJKRjhseVNpdm8yN1J3UlhzU2hLZ1BoMFFMUEFFZnNnTDJOVnBPTlgycDFqSV9kNlhlM1dXdTVVa2lURFRxRnpFaXBxSFZzV3hUOUxfSnA5TFBKWXpkbEZnajlscXVZTDBtZGZ3RFN1dFlYR2NSbUdBMjlCTHRlTGY2cUY0RU5EYURVc0xVN19UemZO?oc=5",
+   "published_utc": "2025-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI university to begin within two months: Minister Sridhar",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPak9yelVneFNPTGtOQkNUR1ZTcHAySzZTZ3FkS0tjUkYxUFNkajhUbFB2WGxvbElNdm1nZ29aZ3dqcE9EVlRNUkxrcTF4MjYxanlZY0k1eU5ydmQzajJ3Y0YzNmEyRGNwN25NVE96VnV5dWtEemcySjdMTlFxOWxzdGNoa2N3QUs3RUMtU1Z4a3VpNjZjUmNDOFRUMVRCQXNlWlZZTXNNRlRQZlV0dlpfYVBuWEJWVnl0b0kw0gHIAUFVX3lxTE5NUFZBM2FhLWkxZjF2WjBZQlZneWJzRjluS0FjU1pZaXhTZkhfSW96Rl9JT20tMUt5V2RmVWNsNlVOLWFVR1FLR04zaUVZbTQ0ZlFsd0R1RTBHakFrR2VCaWdjLUdJa29pRm5WbEdYcHRNOXpBRHltVm90MlM2cHFZU1ZybEkyS1VJbGMzUUl0TXdpYlhsWFhfZU9HUEZodUlMRTV5R1JMamYwUjBfMW9RelR0ZjhyZ0k0WXhPM2p5QXVZMERSakpR?oc=5",
+   "published_utc": "2025-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana's AI University to become operational in two months",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSnRzZTFiN3pOSk5aalkzZGotYXlaaWtKR0JZNDF6eUVKeHVBdVRqd3dwS3BPazdtNnlxUkxuRWdqOWhaQ1E2ODRrM2czQzJLUThBbnRhRVdXYVVxMFN5SGVQTnpyblJFU2xLM0FjRXFOOWxuZXVHT2t3NDZoUURnd2tvay1TSUtwX3BXZ1lJeTJ4amRLSlh3VFh6LWg4c1VQZTRQMmhoeS04VTBFcDlXSDY1Rlc4Q0M3Nkl0emRBQmd1UXlnSGFfZG9wX20tLTRreF9jQUNR0gHaAUFVX3lxTFBGand1WTNlc01XYk9lNy1fX3hGMzdsOEs1RHQ0QWt2Z2hvYVNWZmd5M1Q1dWIyZlA1VVRVdm1zZmlmRGRuN0Z0VDJEQXl4bldqd3pjTlIyM3E3Yllzek5YRFJJak4yRjliSUhmdV9oa3lSM2tleUNGd2xtdF84SGVmX2o3aWhlV1l0UWZlZEJ0ZUZ4cnhwdlcyZG5XQkY3em9yc01lbS1HMTJmWWE2dVVJX1lZaWxDdVY4aWpPVEtXeHhORlRkYThZbC1VUFNxWXZmb0RNVEFRMFZ3?oc=5",
+   "published_utc": "2025-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Telangana Advancing AI with OpenAI Partnership?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDM2R01EZi1CNE9ieWZZU1FwaVRIa3JQYjlibk5CLVFjMkF3ckdvVTBPeDlPa3pQMThocW5pbHcwZHBqdEQ0Z3VnWk9QVW1qSVZtUEpFMUNkbDRaS3ROdTlpRVNNTllFNzVLUWxxeHlqeEgxXzBBZUJRT0diUUhqbUtWZVJZUFZtYjJJRzFoNTFJcjU4dzVLQWJmQ1BnNkZLa2NB?oc=5",
+   "published_utc": "2025-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana govt signs pact with Deakin University to establish AI CoE",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMk5VQ3ItbGhOU3N4T2tCZEZRSUcxUExaS3FLaFItRlp4bDVzZ2VJWlZVTUlQd2RHWldlQ1VFbWFjQXMtajVnbmlvalBUc1R0NXlMWlRVMUU1MDRxa2RrX3VPSGRhdEhVX2J1d2Q5S3lPcTFYWWZSSDM5a04tTG1sYXFmSWVjLUpFdnQ5MEZTZEZUVlJOdk5sMUcxbXRvQVZxMEd0LVVLY01sN1RnZnlWTVR5NkUwazNwQ09hYTJfVjNtZHhGUWd6M1VDc1dGdUtkOHpwcDlNcUFRZVNtaEHSAeMBQVVfeXFMT3RONkJjSHFaOTZObTEwSmFBQ1poZWh4OXRqdXJwRmo3Z1pKcnJ0aXg0TXF5aDRjTFpqQTlWMGxxclhnREpTUUo5ZDg0MTJHenFrSm9tRFJobUhNNEJxcUpNYng0X19hejQ2UXNKRWtUTFc4b0hLc0FaNG1sZjZXUlR3d1JuVEtwV0xOb2FGVy1xVVlpNlM0YWFBYUlMTE9zakcxZllpWTRHWGhwUnBJRlhzaWgtbFFtWUloNTFZRGRqUXVQWFhFMndVcWFhTVgySnIxNFg1RzVIZXZDYjNxWmFHVjQ?oc=5",
+   "published_utc": "2025-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

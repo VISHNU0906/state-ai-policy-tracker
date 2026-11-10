@@ -1,0 +1,29 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Odisha plans to set up PACS in all 6,794 panchayats in state by 2030",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRENIUTVsZG1iVnFnajlmUGlIZVBRYUM1YUN0ME9wUDBncG9KQ25SZF8yYkRjWk8xWC01YU5YelpNMUxkdmpmOG1FaWdSZm1vWGV2andJMW5oV2hLbnJWNV9Rb01rcHQ1YXdlWHVVbDdtaVRJOG5LN2xFd1RzYWZXQTVCa3RqUl9HOUU2RWw1YXIwWGZ1MU9wTjdSaVhXQzJ6U0RQSFRKbm1ZazBncW9mQldzQXJ0cV9hNkpCREtfMkdkMTNl0gHSAUFVX3lxTFBNdUtieUgwSXg4XzFfelJqMUh0WHdKTnE2UE1lT01TNDdiLTEydE42ZzFiR2hseGxrcVVVcUtvOExvN1JBZl96dmpuR3ZrbHd0d3JrODBsYThLVDlONXkwOEpqRnNsN0NEdGFaRDVSYmRtQlh1ZDVOSC02M0hldnB4VWpyaE5zLUlqNWhMRmo0bnp2bTlxb216MWxJU0MtSDFub1JaYzQycHVwWEpKTzFaenp4WC1PeEpJSGpKSjJqOG9WWWN5eFFNRThfSnhxQ2pEQQ?oc=5",
+   "published_utc": "2025-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC India seeks simplified approvals, regulations in draft data centre policy",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSGh4eVVmQks2OThXUVJPN0F4QWZLWThhY2JqMWx2VWt3Ykh5VVd0UThZNXdKcGcxZmJwNkx4UXByMEtiRWRnWW5UenA3dGYxSDNGQWVOTU5LVDZ6bHhNMG13aUkxYmVLZ1JyMU9Ld2FWbWo2aVh5MG1hdjZObS1TaklXcHpLRUtDQkFLeld2d1lJZlgzLWNIRlY1Y2ZkNGxMUVlxbTg3NDNGc2E4YjlkNmE5czNIQURfbW1Scm5YYVR2MFZidEhLVkg2OWxkUkxoU3RxVV9QNU00VVp2cmt6UUtOS1I0TnlvMEFFYmJPdHBhY2hxRTRnamswcWhuUdIBgwJBVV95cUxORXM1cnl1cjg3OUNsSWtkX0M3RF9ocFR0SVAxdUpsVjRFVXpuMW11dlJ6VXVLNEJsUXZrWEdlWUt5MUh3Y2l6TmNFZlI2eVFtR1A3azZBSDZkM1ZnR09LekJobHRqLU0yTFAyN19td1g1Nm5LUWNYU0pTbEFKTm1Iajh3SWdabldRTmtnblpSbm56Yk80dnFaaXNWbXFMVnF3S2dPWUVVcFF2QkFKa3o1NnZhejdrSFVNUlN0X0E0eUxLRWpxcjU5am9oQlU0dElQVTgzSV9oUzBaS05lN0p0dGhWWFdGanVjUlFUODZQTm1Bci1JQ0paQ1lSai1RWFdaQnhB?oc=5",
+   "published_utc": "2025-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India data centre capacity to double by 2028: Report",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2lzcklCdDZSQy1oMUl6NGlyTzdYWnFpcVhEbm8xbEN4YmIwQW5rNWc1QTVOcXNTdVBvMUFwV2NORE9kRnZCYzRLWkVrdFNuTVBzSm9FbHFGT2VvbEl3Q1oyenpYYk5Wc2RRSDkzd1pBNUNBakZnWlpJXzgxQ0VEcS1SR0k2c3B0Z3Z1TkRndGJRbDc1MWplbzN2NVk2NzQ?oc=5",
+   "published_utc": "2025-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "Karnataka’s new data centre policy puts water, energy in focus: What does it say?",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRThmV1oxc09zQ2ZEaEJoTnhYQmNCeG1FTGxvS1E5QXZZUTR1UTB4V19OZFZLVVljN3F2S1VWMjdlWU9LUWxjMXJOam5BVzFGX1d1WWxFUVp3UzlOYjRnMlZUS1RQTzBkQkl2YnMzOU5zaFNJVy0zUEpJZVFnem92T1VRXzZvVUcxUlZueEtrMlVzd1Z4UFNBY3BhcUlIRHRMaEVQYzVDQ0FjV3ZGVXAxeVpFTWFGRknSAcwBQVVfeXFMTXM2aWVFM0xRbk5uQ0QtaklYQWQ4OFoxSHFvSDd3Z1MxZ0tfTlc3dFdzd010NVo5dGh0NTNBbDVZSE0ybWFGN0lfQ0lUV3ZJajBlQlJsNVVGN0RCbEw0Q0lRLURNRF95VWNwSkR3Sk50eDBXVjdMdGZVanN0U1Qyem9DVlh3LXg3blBoZ2ZsZUs5R2VzMkNlamhkbGd2YjdhbENIRU4tRDAyX3N4bFk1aFhGUm9JdGlkSU95Y3ZTc2VsY1RTLVFmYkUtWkxr?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka’s drive to green data centres",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTJJV1F5ZlVsRVh0WWVCdmNiQW1zcU5SeFJ0QUphNkkyelh0ZmJ2cTA4Y0dFMC1DWlpFVE9WT1dZVDVfdGlKeXZSX0RaYlBHSTFhdGpNRXAydGhRMlJfRDZaTzFrTk1mU3NQZEk5NTk2X3pJVGVqalFkSmxsb2xfazdqeEd0U2dNMy0zZnZ3czFjT3RCMm9WMl8yQXZYQUN0c0NNR1RLbFZaemfSAbIBQVVfeXFMTTZhQXQxNzVCZXpwTy1LNWMxMzFMUXkzNUFqdXpfeExKVktOcUlkR0ktVFhSek1ncmZvck9DekZ3TjFJazRiZmFKc3hMQmNpamY5Y2JmWFdsY2U2STBob2t6QkhIQkwxLXpWWXBYRVNYUWhfZDh3Rm9Nc0JnY2g0RmJPTWRQSWszOTk3SFJqeHZlSFZUWXdHeHlmaWdVcU9XeFI5N04tYWpXWmpuVU1WbWRndw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Opinion: The thirst behind the cloud—Karnataka’s data centre policy must put water sustainability first",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWjBEaUxHR3Q5d2RRRUtqSzZHdWFGTTRId1UzY3ZCaFU4d1pPTE93cENGSms5LXI0czFEZWhmbkhmZi1pajdwQzljeW9ZU3lBTGpQZ2cxZFc3S3NvUHkyNlcyRDYxd2xleXltZHBwdGluSFh2U0puMzZCSmZuWkZCclR0cm02bzRQeXg0bEp0Q0dUcW00WUlndWlKWEs2ZFpxaU1iSXpVYkNUZ0dQM0ZBU0hjYW9iRVNrVHB2ZW0waXNhaGxGSXJv?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana, Maharashtra, UP lead state rankings in data centre policy attractiveness: S&P Global",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEpOZ3piYUFyM2tYT0FWajVVVTZQZlRVdDdBTWFhWFBkeUxXUjRHaTExa1hQUXBjNlpxaFZ0b3ZvakRJMEY0dmcwbjBOTk41WGF1a3dJazZId1ZYNmp5LTF3ZkhPdUJIaW1faVJSRGM1c0hEVVNwUDhxR0ZkRndpNTN2M3ZNSG1EVmRrbDBzTm5xd0VMQkpmbUNCcXJ5YzNOZWExdFhBZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka's 'AI City' Is 2006's Failed Bidadi Township Under A New Name",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVJEclZDemJOMW11MmFLdzZhNWZZbE1sbGZsMmRSR3EzbmxDWjZfTklzWGJZelc3MTZtaDZpdHlsc25fdGtYVTMzU1VObDc1dzluN0tqZU1vdG9VUlFMeWtOeGkzVFFiYm9TV3RGdDJnYUFOM3hTQ3REaF9qbDBMY251X2daSWxPU2x6LWdRRlYyQlEySERkVkNsSm5Xa240bXMw0gGzAUFVX3lxTE5hNW1lUlhoc0FfZGVhLUZhRnpyRGxtTjBwNkI5NUFVVy13ZUhkWWJlb2Y2dnE2N1FtYzF2ZVJmSEVoX0NzUFp3QlE4Q2N0eFV6Y2kzUEN0Q1BfVC12V3Jtck5wbHdhbG1IT0ltQThPNzJEcFVuLWpWN0pXSzQwREVqVlNxeWw3dWZIc3pfV1RObUVQbnBXX1ZzRzJVb2JrT2R3azU3dHdUQWZ1X21hZjJyY2I0?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka targets 50% of India's space market: Minister Priyank Kharge",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmNwRVZQaVBHdzhINVZGRnpkSF9UOXRQQXJhWDJTel9DZmRaMk9rMlRvaHh2bzIwTGlFUUtfZzlQWkFXVlAzWHNYX09KN0N3b2s2ZUdncFJuMnd2UEE2RmczandxTVFYTE10VW5BMnVUN3dZU21TRlFLcHp2U1JVTnhkWm1LMlYxT01FejBxb1JQNkVCa2doNTJNMDZhMW5hQy15VlhXQ0FhSjNuVFNUWU1uWEY4TTZtZHU5ckk5NXJZX2lwa2FuTdIB1gFBVV95cUxPbnNuRXdhQVpQRXQzUlFnajlKOTBvTFRaa1Q1NWkyai1ZLTI2SC1xWkFnU3ZVdVdmUGcxVmJIT0JVZDFQMFgweTZqTldIR3RNR2toOXBUVzNNVkY4enhWWlZGajVNcDlGTG1mMkdmNHdhYlBYTW5rVXZMWkx4bVZJUG5WcENrM3lKMmNMWlhwdUhHM0xnQVZPNHM1RS1SSUxPenBRemRLNzN0ZGRyRFEzdWg4Q1NYRXhYdWk2X0NYNDc1RnFHSTlUTko2bzVzLU9FeVdKMW53?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka plans nine industrial townships in Bengaluru region, 13,500 acres identified",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd0s1Y2J3X3JBTW5zLWJnalcxbzVNZ2g5cW95NUhweVJNQXJLMEVaTWdCOENidXRNVTFDYS1vYnJGZG56TkVPME1IR3Fvdk0tek5BZVVLOHVEOXVKNWJZR09JaXR5Uk4xY2wwM0tvWXp0M0loRnVlWHphUnVWekVYd3djWVRmZWhXMmdLQTY1WGI1aVlUUkM3eHhacWU5U0hlMjBOLXRuUG44TnNoRmRPUlh6anh4U0ZVU19rYUtoYnQzUdIBzwFBVV95cUxOVk9hbkdJVlhBbVEtb2Vac0lqZEd0bjhqWHRhT0JWM2ZlVldPNnNibGdINWNtTHBXXzR0d1FpRVVvcW9zVHpOZWRGSF9NQ21HYWFBR3QxOUdpM2ZRa21NeXd2LUhwbW5SQ09oemUxenJQMlVfT1BLUnlCcHdPUm04VkFRMVRQTGtOUXgzQTE3dDNxWUlIQXBlcXc3aGlweDI0RUtxeEZkRmRvY1dBcmM0NlR0eG51Q2dlWk8yY3hiMmE1bmRCdzNrWUgySlBRUk0?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka government schools to teach artificial intelligence from Class 6",
+   "source_name": "Careers360",
+   "source_domain": "https://news.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVg2YUNPWEFnRDMyZ1JJNml3VWdVM2hnSmIxYllsMkRsMVJ0SUdoeDZpMXBqb3VUaWFETFd1VDk0TDY2U1I5Tm85TWtZQ0RpMTl0TnFnSmFaWGtfQXd2Y280MVRvVUFXSkwtbmJGZTNLSjhPUDJGUnNsSk9BWVdHQ2VPVEwzeEZoRGE1NnNlWjJwSDBvTTJ5OVFn0gGfAUFVX3lxTFBPM3FWZnY5WDZ0VEVfU19xYTZPdzJqazRnTHRkc19yZURpN09WR25nWXExVENlUWQ4TFFKU3U1aXBsMl9QTnVuQkJ5SWlpWGY1VjB6NjBzZ1AwOWo3cl9ZRUVTdGJrZnR0RTFPXzVBNHJNWWZvejdVNllITmtZUlBjaTN2OW1IRzFlQzdjTV9WU21rMVBkVjREdzZSVkE2bw?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "10-15-year plans on cards to develop BMRDA areas: Karnataka CM Shivakumar",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXZaZFFEeVFDVmFCZHhSNEM4amVjR1EwaTEybFpDYVRmQ2VROWtQV3V0dkJ3Ung4RThEdG1NUWZSTFF2V3k0b3hocXRJMlU2S3FrMFJoejR6UTVBRnFuS1pBVk5sMFJZbzQ3TzR4dWlpS25pVFZSek5Jc1VJejFQNUs1b0lWQ3hIUXEzU0E4QUpxeTJub2dmdzNWS1lWRzgtUHNsY2xuZ2xVSzJyeGp5T2ZJMjE4WXF0ZWpWNlVVbVBiWlVWT0FUS1RzTmsycWPSAdwBQVVfeXFMTVgtMjVoaWExU1JSekcxSllseHRySllnRGRoTXNqRzBCOVFfcUk1OV9rVW9STlo0MGhaWVJSaWNkN0xYWFhrSW9rVjQ2aTRQbHNKVEE2WmZJSXItTzV3WmV2MWEwejlxeWFpUWdqS1VjbkF4V00xcVNqS2otS3dvWFpiam93YmFDN3pra04yc1dnTGZadFRKY0FWOWpHemdpVEpsRUdqMTlyN0dJNnVJVTVTUzVmUGhSRUpLekJKRmJXUjIyYWV2UjFtS181RDRiNGFPRldTbVUyNk1MUg?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How will Rs 704 crore push transform Karnataka’s judiciary?",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTVzbFFLV3hIWDFJS3VDbDdkQVNpWEo1b0pDdm01LVFVMU9ibkVCYUd5cXVMRXRSR3B1Nlo1Z1lDYVNQeEhtODU4X3phQWgwck00RjQyblZkSmR3M3V4UjVxckpLeTlhSG1WWUg0RGE0azNTa2FYdklzRWRtYTJla1FNaDVnZ0ZnMG9UU1lCS29CMTZPNGxvNlplbTN2ekVXRUxqd2k2aFNza2JvSmfSAbQBQVVfeXFMTlhTUW01YURvZWJNWFJXeDJoRXhESGNzOW5uN0VkT2FrY0xFM3RlNjYwLVBCVjJ6MjBZdjZiUzdhUW5JM1VKTUd6SFdSUDlPTlREREQ2NE9FWlJvRWdENFdFVlVYMW5DUDVraEgyZkJqRU82VGVrRzRMR1ptdDNhNUxzTDA0aUtaaHNFTER3WFJwZDI5bm9jWFNnVTFYWTA4dlpLRmVvOElWWjU5eV9YcWdNU3Fy?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

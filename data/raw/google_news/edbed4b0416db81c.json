@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "State cabinet approves policy for implementing AI across different sectors",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMi1pMWk3M0hTNGRVREE1MGtaT2dfQktMc29GRGRVSk01UXVyNTZMSEE1SzdaVEdtOUJYX1labV9zWGNmQzZtekpCYXdLZGRuejY1Q2pvV200T04yYWV2M19YeWFKZnpQX1pnQlcwOGd6dE1GRVM5NkR3dWlsY244bEpHY3plYXRDWWdURmNMVjNyOGw0S05iZWhBUjl3M19mV3lWNW8tV0FoNS1nRldZYzB5X3N0TU9UazVWbTRqWXdVV3huLTZoM1VjdHA4dHBySWJjV0dkUEJ1aE94dVRkdGJmcXMyN3k40gHuAUFVX3lxTE5lNkgtU0VFYzQwdk1WVzVzdE00WkpvMDY1UlI1a3NGNHMyQUpCYWh1Y1M3dG9XYkoyNW1Ib2ViTlVYNkVudDFKdGFZbmdseXpZLTVlRHUxWHVmbUszLVVNV3kxZ3d2aXZCQl9HQnhVSHFSTXliUU5rYy10NXlQVnVJR0NFanM1ZXZ3b1F4NkdUWVRKeFBNWkdhd0ZORFBjX1IxaHRIb2YtLW5Qa0h3QWtJZThyckpOOU5PZUpEeGxUX3hkdWhXWFRvMTRSSFJ0d1cyQ2JQNDZsMWhPMWpoZ2hreU1nZk1teGQwdk5vSlE?oc=5",
+   "published_utc": "2025-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha clears AI policy to bolster good governance; approves Rs 171 crore Joranda project",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWk1Zd3pNNW9ZVW5IMlZZeGJPSWdrdU9na2hBYVE3Yi1JdmZIRFNWUHc3VTZ3a01HbUVabHplekczNGNnMHZ3bW5IMTlJRmMyMnVhWTlJakVJLWRxVXRyQm9HR3RkVHBTZy16dTlmeGJzVzFWWnE2TVlSN3JwLU5aTWR6MWxjajFubng0aFU4bzAzUHcyeHJGcTMwWjlUeHJIRmpjdXJBaVh6NW5kSXVKUE8xbVZsZ05lX2s1ck56YXdmRmFnX1ZCZnY3OTItSFR4c1kwUEE3VlEzT0VhNmNsUdIB7gFBVV95cUxNZDhIbkdvSUk5VmhHdXZ6bXFzMXdzMEstU0IwTUdSRnhUem5NVDU2SF93WlZDSFhtN2JIWkkwYUpPbUFwRk5UZmJNM2dDdlZsanVUMGNLZnhDakp3ZHFKQ2NvNzdNcXBHQ3JjN0lBTFBWX0ptVzIyZElTM1JjMXA1ZFFtMEVZSzQwSmE4c0VpY1BldnBHc2ZZQ3ByTWlxLUVZbS1vYTVTb1pjOEJtZnkwNXNvX0QtbEhkWDBqV2ZGWTh6QUhCMGY4eURTaE1QWG1DZXVVRmhQTE4xcW1qQ1FGZmY4aWNfaWhRRnItYlFn?oc=5",
+   "published_utc": "2025-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha increases upper age limit of government jobs from 32 to 42",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjEyci1oNGpyYVk4aHlFUFpHaDFWLXF2WDZ5T1hSMEt0M0F2eVlPYmZwUF9OUVppeWZCTWwzTURackYtSkVHM1NiZUxCMzlnSWxkbXNxdVRUZGg2c3JHR3B0My1DUXJVVm5Udkx4THhxclJRZW92bm9MOE9acWR0Yl9Ua0IzQkdPb1VuTGRpbHJnQWFENjRMZ1JlTzF0MWtQQkxtMTBfMTAxR19wUmp5bVFzRmpWUWo4VWtRTGxYN05TaFlZLXpUdE1tRdIB0gFBVV95cUxOS0VNRGhHTUR5eWtHajloaXJJWHdDOUxJejRwaDEwa05VOWxYM29IQzBfZ2FXaEw1ZVNSWVV5cllRTFAwTDNoQjhYTlJRS1ZOQWVfU29la1hhRVh1RVZyQXdZbkU1VGduYkhQbHA2SGV4WkVLTURfd3NZZl9YcHlodUtRRGF5aUtEWGxiLU03UGpPTjd3Tnp3amV2VlBHR3lnSzBYZGJ5LVJiNGZJYS1NazZtUjlPYWtlaktJa1Q5cExGS0t0VjdVRGNIQWtpS1JRaHc?oc=5",
+   "published_utc": "2025-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is AI modernizing Odisha's financial systems?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeV9MRHdqZ2ljNFdlTWJ6U1pYam8zNmZUMlczZHFCS1UwZy1LTWo1U0xmYmx6R0lwdjZtNlk1SWlLY3VwczFFM0pGcjBRVFBTX0xoNGZMM2toX3VWUkpySjhWcVpYTXFCYkQwWS1oRTdfZkR5c2pWZnA5X0F5NzFiM0VGVFc2NWhMZFYwVUptcldYMTV4LXp4WDllOWluSGxlTkVoNnZCcw?oc=5",
+   "published_utc": "2025-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Meets Agriculture: Odisha Farmers to Benefit from Smart Farming Solutions!",
+   "source_name": "Pragativadi",
+   "source_domain": "https://pragativadi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFTeWZ0N0xSVGpqWnBpWjBMS2MtWXo3aVZncDRzclVkTGRYRHBmamxMY3pKUEtfZU1abko3ZVRtRkZOTktWQll3V2c0aUR4MnduNTFsdnJqelB0Zmt2Q2VkUWdyLWhIRFJ2OHRBRGgxOUZnQ0pBeXhTVE54eWU0cXRjOUkwNlI2U0RSaEpaWnpXZGk5ZUFlbUJ2SVQxSGJtY3c?oc=5",
+   "published_utc": "2025-05-06T11:13:44+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt transfers 3 IAS, Sanjay Kumar Singh appointed Principal Secretary Works Department",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGl2WWdWcWlsWUNMaUgta3ZMVTdZcXdhVFQwY3Y0ZHYwVHBfcENQVXIzMUJ4Q2psWjFBU2Y3ZjJtTjZ2SU4tQUd5c0VQVXpISkNyUkVMUXZlRzg2SGI3aEJsQWp0bUpFc1hIdGp6dUpELXZGa0tBdmFERktobEZCT0pMOVJQQm9hRHROOERjRV9ULXBKWnc5dHNaZF9ZUEdFcXIzaFlLQTlKejNsbnVETFR0Nkp5WDhHSS1raGp4ZWtFc2o5Um9NVEtGWQ?oc=5",
+   "published_utc": "2025-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt Launching 36 initiatives to achieve 'Developed Odisha'",
+   "source_name": "OdishaPlus",
+   "source_domain": "https://odisha.plus",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTR0RC11MlZPOTViVFFIOWE5WmtRQzZvV2VveXI1SzJ1RjZ1bXZndXFhNkVueFNNb0paMHNxWDBGS193bmlNb3lmZTlDMWM4VzRMX20tTnFVb3pZQmdHOUNQUWJkbFFic3JYN25VM3ZFQm9yN0szUVRtaVhNdFdfWjB2TUNFTkxDLTcwZEpQNmlFam1mcVdEV2UxdVR6ZndRenNMUnNJMDl6LWNzdFE?oc=5",
+   "published_utc": "2025-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha rural students to showcase innovative ideas at global summit in USA",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT01PLWVOVHJDM0U3bWpkZFBWX29VZ3p0Q0NEckgwM3ZyLUdqT0RyUl83SlVOUXR0Q1haOTRiLTNnNmI0alNSMFpieW9HTXpKQkdjU3VBaG81UDJjVUZyamhpWEtZR3EyX0l0OXZHUkVTOTByMk9xazhENGpScHBuY3VaTUVrc28xbFBvd3JkbjJ2eFJLQ080S1ppTHktZ3hFWnlBSWVXV0dBY01OV3c4blRiTnAySWtmQzVWZEV3a2JyaVhSWVNuMXBkbXlmUklhclVIRld3NVdCcTFtTnFWR3lOZERsUFV60gHuAUFVX3lxTE5qZEd2NlBtOThleFZMTGpsVFVGMnVKSHhGdkY2SkJ1azJQSkotcFhjY2FDak1tQ1VJSFBuTmxNQjNaOGJBLThIZ1J0aWhzMEJaZVI4dkdWd0RBRTBRTmY2TDdVc0tHdlJKbjBrUm0ycUJGRjl0bW9INk40OUFRTk4tMFd2NnNOYzdockRaaDlDX1VuOUxNQWJmVUlFckZ1aGEzcTUyQ0pkaE14ZFc3c3hXLWRpeXk3cnBRbWhCQUo0X3NPUzlYRy15bUFtb2d0QWYyMDByR19yMnA0X2lzVWJMYWhQV3BuYkY2dWhuVHc?oc=5",
+   "published_utc": "2025-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Odisha Yatri Transforming Ride Booking in 2025?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBN1hFRWVSNmdDVC1XUGZBc2prY3VjY3ZrWnpzdnBEZEFPMkQ3YWFJQ2p3eTNUeGprdklreUpxaXVBN014TG9scTlSZm1oeFZXQWhENzVDamc1NzhMU0pHVkFkZWY1YzNFNnBjc0txUDc0UFZKMVZsSTVCRQ?oc=5",
+   "published_utc": "2025-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Over 96% clear BSE Odisha Class 10 exams; Gajapati tops district rankings",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcEgwc09CUExQUGVjUkVtMUlQRUhldlNTd09ma05lbnQxNmhJUWdBMzlVcFFWRE9vall5c1ZyczlLTDVZOXJpRG8zR1YwUXhzWkNRazZvdG0tMDkxVndxVE54QUxCZU9ncFYxbTl1MHlEelBSYjlJQ09XbmtTbkZKUEdqZzVjWm1HMTBVSHh0MGExOV9NSmZ0U0NOMUdvR2R2dEFkNlVEN2M2YXphTnQ1VDIwdlRBSXZIenpLNXVvZ29jZTFHRkE4S1l0TVUxMC14cmpJTXBCZGUySG_SAeABQVVfeXFMTVhYREhMUFBweWdJRFNpNW9LTDlNRDRMMnQ1cVVWY3JZWC1VeDJxbnh3QXA4c1VfNjROSDR0elgwUmlBMzlPRjN4dE1HUTQ5QlV2TWFSTTJWd2pKdktpX3FVWFEyTm9qeThXWGJmZEhKalhGZnhDQ3dvVHdXZ1pTV0hJbVQyUEljLVY3SmVTaVVrTFVFQXYxUXhqMFp2QUJZUlFlbUp5TVFjUGtZZzY4eDdHd0p1dU5uRzVma1A3V3J6bFQwc1RWUVpWdGMtaGhIaGR1UlhJcHNOaVZxQ2xJSC0?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MCG turns to sensors, data centre to fix Gurugram water woes | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaktHOUdHTVFIMEtMX0hHcmdmRWdmN0N6MDZNTUhOQlBjMWZORGdQMlJ2QmlERGQteHJvc3NYYUNna3ozeWZDT1U4NFJpY19NZVZMOXhnaDJJX21NTTZEdzlydEZXSFJXMUxIczBCVV9QTElzWVFwOGVlSS15UmJ2M1J0UFdKajRLZDByY0lGQXBOSnMydW9PUWVIT3BCLTV6Y1ZOSkNYbWstekRwYTRQbF9wYkpNMUl6X0Z2YXMtdDJsVXJpekx2MXo0MkPSAdIBQVVfeXFMUFVObVp1VWxtcW5CVktjdDR2WEpRVFp1QmFWSERHTFBYVk9aeUZTT0dXQnBWemM4QVhrTDBvX3ppb3d4VEJrNXZCUGN5RnB1cjJqeUtXZFNsZkFYUGNaQ3FNb1BhSllhYnJadDFDeDBIMnFVbHRETnFfd2JvRFNkT2VOd3lIWktiaG1EekRXM3RMd1BTekd4dnowSjZVUEY3NzVZWUxqdnJZZVRjZEN5YjFyNHcyVHRHckFOZEhMcjhPTGNDb1QxdE5LOTZJMzM0UHJB?oc=5",
+   "published_utc": "2026-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s AI ambition: Why budget support for data centres is now decisive",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVFGRFJDbnFsYTJod0FRUmdtZmpFdDNhNFE4UXJiS2RJVXYxb1M4OUVGajhXaGNaMC13OWZQcTFjVXZ1NmFHTF9KUTNIdkpVYXQtZlFFNHFhZ1hrU01lZkxSVTJMRVVpTG52TzdfS1lCZm5FRWg1U2I2QzNhb2Z6ZTZoeHJjZUt5TlV5VUlnSzdJc0JfWTF4RU9yQ1R4RVNFNTg0V2Z3eVluQlpaTjRxa2Z3Nmh1bXRMQ1pHNVVGdHhqbXBO0gHLAUFVX3lxTFBuX1hIUllLaklFakdla3Vkd3A2bU9qME5QR1hQZkMwZ3kyWDlKV0JEVmZJcE1RY3hJdElRRlBBTC1ZbC1kV2RVODRtYkxHQ2lnNl9aaUtkYUlNcmVxcWdnU2NQUl9kZmREWllQRUc0alMzMDJTeVJ0c2MtV2poYzZETC1CbWhFMWE3QlExXzIxR0I1MmFOdkd0RDBsNzZwOTFlNm5QVXlweTBKZFJaQWxaX2t6YTVZazZhY0RobW43RTBtZkYwTFJORE5F?oc=5",
+   "published_utc": "2026-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

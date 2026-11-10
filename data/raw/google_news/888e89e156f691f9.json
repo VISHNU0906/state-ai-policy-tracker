@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh’s AI-Driven School Education Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3JWM210dEg2SWtYcjRqc3poQ3pDaFVQVTdtcUhVdm1CVVJlMEpReHdpODNnZVVKTWxVQ2FmYVJBSkQxak53OGdXeGZ4NXFFQkh5QzFnbTdINnJuc2dxZ2VGaGZFTXR1cTRJeHZzdmN2WVVjS0xiOEh5bFBYaVd6VlB5OVoxZ0FzWk1zdXRRUQ?oc=5",
+   "published_utc": "2026-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "When AI Marks Wheat As Chana, Tomato, Madhya Pradesh Farmers Pay The Price",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSm9ndG42bzZnckpsTjlOUHJpeW9iVnJIU3BiZ1V1bGFXbkRoZGU5Um5sWTNHLUJWTXlyQ2lqVk1fcHdiZEpOVGFaZGVTX25jbC1fd09pRkV5NDBreHFIVmNvZnV4c1hZbnRmck01bHBDSG9JRndCaEJtTTBCbU5IeU95elYwZ0JfN1FuektDUjhlaTlNOXhqUnhzdFIzMEl3bzBvZ1cyWTI3R3JzMVc1c0o5Z9IBuwFBVV95cUxPY2dtZVU3dnlmcWFMUkVpYUNvdFFqTi0xY3RqUV9waExHYTMtRkF1NkM0WmRVYVZpSlJuTGFVakEtanZQNVBOSGw4ejd1X1NONUV3ZDlyV0docC1qMkhBcUx6YVo4RGRYc08tN3BDdl90Qy1HalMxQWhLZExVREhjSy1vSEJVQ3dxaTRiaFVIOWZsVDViak1UR0h0cXV0T3BkUHhmQno3RWFQbDlEb3R5bUNrNnRvem1XdnZ3?oc=5",
+   "published_utc": "2026-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "mlHealth360 partners with Government of MP to pilot AI-driven radiology in public hospitals",
+   "source_name": "Express Healthcare",
+   "source_domain": "https://www.expresshealthcare.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY29YSEloNktCLUVleS1HZkpUZmdKUUhPMkIyYXh4eUtuOTQ0TG1UY0cybmVJWXRXNWY4YTZ3djFQNGwzUFJoNGF2bjhpMFJ5aDdFaTlmeWdXcklNcWdWNE9JY1Y1aF95ZjdZV2JzYkZiU3RTaVRRbU8zMmg5eXZOWFhJNFhhSXZKbE94bjhaV0NSeGR1Umd5b1lKbXNpbWM3SjF5QXkyRDhObU9wZHBSYzZ2am15NTA4bW1nQThZSERKd3pGN1VIcEVnaE81UEN2VXRV?oc=5",
+   "published_utc": "2026-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Can’t deny livelihood’: Madhya Pradesh High Court bats for longtime contract workers, orders minimum pay scale",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnhuTW5wcHVxZkJsakpybTlWWWUzeFJxQzZUQkhaZ2FXd0JCUDluVXA1RmRKRUdFNTZPNEVlVERvMF9SamxURERfSlB2ODVCbmVQNE1ETEZDbklDVFpFUGs2ZERJb3Y3MHpwNHJ1emc3LW41azNEeUM3SVplSUxHOFNLVy05bndKWE1yaEhIWGZWcGZKR0E5c1lGSkRZTzVFbHdaUzRBc1hRU1lFY1U1bGZIYkJaQkhlaGlJ0gHCAUFVX3lxTE4yd3NtaWZnU1hIN2NIc2RpN2V1SkNpbWZCaTdQNHRPUVpDbGJQcXluellCX1I3ZmJLTnlJeUFxRVZEVHRJU05PcVBzbE8zbDJna25KbjU0akppZndjSXJCaEZPRlhobHMzREtMWGQzb0NhSmQzcXZUb3Bub0p2WE84NTlQSGtZcXlOS04yMXAySUFUR3AxbUZnS0NScjN4ZENoUUlWTjFfNGFmVnZUMmQwX3d3YlBHQ3FmN2tfQm45ZEdn?oc=5",
+   "published_utc": "2026-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 5.7 Crore Looted From Bank In Madhya Pradesh",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnl0MVlZT1BHQm9SSENDN1BQbS1CQmFDSDN0ZUtYM1kyVlMyNVNQb1JaTjRlTU5XcEJrVEk2WU5xMGJrLVV1Y3Z4dTNjcGc0ZVBkT3pLeS1WcHdqS3BNWnMwRDk5dGx0TEVJTWRZbVFsdFcwcUZVc0ktYWZ0Yi1sUTVVVlFUN25JWU1fRGhUcnJ3QjDSAZYBQVVfeXFMUENqTDR5TWhFRHRnS2JnaEI0UF84YXAyZExydFA4azhBMHJqNU10dVpNLXZwdEVJcTZHNmlneER1OXJOM0otcVRNWEVZa0tKZDVLOGN0TnlsaWREcXlja19yZUFFdDEwS3lQLXhQM2lsYTJKZU1uUUs5S3J2T3V2TjNmdXFnS3RrS05xcjhlVklxN2hKUzV3?oc=5",
+   "published_utc": "2026-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dozens hospitalised after chlorine gas leak in Madhya Pradesh’s Jhabua",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXZ1WVRsRVJBeFJPRW9WUzFCVVdyc1AyOHdDUEtuSVdGMXRSSnFZQnhpV3NrRUgwOEoxMENJZktVbzdIMVlJYWpYVlhWNmlGaFN4Rk1DR0ZzTlI3emx4Q2ZxOS03UDlRdU9iZ0Q0UEU2aW16RnZxdl9PQXFVQUVCcFJyZEdpa3JESkZrMFJPM0Y2SGdQdjVqbQ?oc=5",
+   "published_utc": "2026-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How MPCA president Mahanaaryaman Scindia is using AI to overhaul cricket selection",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTGlpZDRtZFJoSEJiLXNfV1poUDg1Zi11ZXRSOGVZdlFseXVwZF9GV1Q1dkJUWFIwZHJqTWF5ZWo0M0RGU0Q1Nkpya3lpbTg5REZhZ0hvUkRHZGxXdDdkLUpCV01XZlgyT1NLS01yTjlqUjFyM1czUTYxZV95WXhsanhSTEFsamc4ajR3X1dldmZaWWtnVXFtU1NMNDAzNGZyejFDVUEwOEgzNi1kYkVYd25Xcnc0U3J3UFBxMjgySVhvZkZ2aXJCbjhrekloTTJKcmFzMnA2U0xmNkJnWFF2R0JR?oc=5",
+   "published_utc": "2026-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves ₹133 Crore for New IT & AI Department to Drive Digital Governance",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTlE0Wm40Sjl4S1NRVkxjcG5KRWpiZDI1S2M4TDNWWHVIRXJBRVJ2OTBQT2hycy1GakZ3M1FxalNNN0dKUlNCb2tKLWFZNEZsa0RKWHpqRDVmMXlWMllVUDdOcm95ZjhCalRiWVlqQjNIUTVCUE4wMTM0dkRxbjAzMDg0N0ZMWHdDbHpXWEdMOTBjZ3hTay1MSTdkRUVFczFBdXBKZk9jOF9Fbko3R3dOc01kbWtMNUNLWC1RSmx3?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘No regard for law, life’: Madhya Pradesh High Court says sand mafia a ‘systemic danger’, refuses relief in truck seizure case",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3pUMVRFall2V1BueG9rMXU5WDlrUW9CNEJQV3ljRVFPN3pTcjBHTno5NDJmdjFOTmJuY3FJM3JXYm1aU01FekJlR1NzM21xdVNQMjliTDRYT3V1N1I3VWpVTm1IUnRlUWYwZWRNTU5YUnhwSzg3Q0lJWkVZcExkallaTTBfMVEzMGszNHM5LXlaMS05alZYZ2J1NnlwTGtld05iTnI4Smw3bEpUZ3RuM3pXR281cmxi0gG_AUFVX3lxTE82S01fS291TWRuNnpKSU5CZ1FSanhwMzl1T2xuSzdlMmdsZU9OUE1vY19HNmZrXzJzeVI0MHRJWnp2ZG9xbFFpcHZWcFkxV0lQaktmUTZBS2pmVE53aFBKMnN0R2M2cHNGdFczbEhhUllaWUpwMWtYcVlVSTJKSHFiME5MY2dIX1dFSEV1OE9WQVhfUnNhd3pMRk9DcnJCbzNuQ0ZHdF81cnZEM0hXTjgzTDN0UFhtUnJ6NHZHdXRv?oc=5",
+   "published_utc": "2026-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘No sudden crisis after 20 years’: Madhya Pradesh High Court denies BSNL compassionate job to engineer son",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGdvREFBUml5bFhLUEdWbDJQTkUteGxqOXZGMDhHYzc4Tkc2WDNXMU5SbXVfTHhrUHJFcjhhaHRteUdMS3BKa2lRU1ZuYzZubEpKZ2lNMUF1akdMRVB4NmlRSzQ0Qjl3T1lMSVllOVhSR3hPa3VmRlZKcmM0X0JsYkhEZ2FHTHo3SlFOYlQwUzN0VnU3U19QYzBCU3pTTDlmV3dTd1I3akllNC1ybGFRcV81RU1QbldDdkJGetIBwwFBVV95cUxPUEVJSlpUdVdyakY4eTBZYk9lMXo1QTFsZFUxemVqQ2RTUUJOdmJ4YS1mRlNNU2V5RU5IdWs1Y1paeldqSzhsazFIdHQ2R3pOYXBYR1VXQ1ZQbXFMODdYZ2Eyc3lITmRLa05rRG9hMXFscmJNak9KVkg0emw3OEZxenVZWVdlcVdFMV9hWkFlbDFfU2Zab2FISUhyQXRhTldpQ0RoSUd4bEVORE11akVtb2d5b0J2WU8wWVlvWUVDNDJQMHM?oc=5",
+   "published_utc": "2026-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

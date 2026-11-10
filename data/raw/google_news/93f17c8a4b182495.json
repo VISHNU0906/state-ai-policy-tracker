@@ -1,0 +1,69 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh emerges as a pioneer in AI-driven healthcare innovations, says Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdXlLdkt6YjNnZ1lyaThORXhlU3lVc29hZEhqS3J4NlhUMk54cHMxb0NOV2lRRWphZjgzMElWWGJRdEVyNDMxNHdJNlVwWlpvY3V4bnVLZXE5V1R5Y1BkWWVYb01FbGhnYjV0RWt0N2tUeVlfZU1McU5qY3hCWE9NS00tMWdNMG1taHY5eWpfLXZhMWxYRHczdUR4X1BUV2ZMUXFpbkJCVm9XbXZna0FlSHQwdmdNaDVBNmdTYW1HUlhIVjk4NG1hSUdiNmxqMVdrM2Qwa2xSOTNPR0FNRE5haGIwMk93Qi1TT1ZxTG83VnnSAfcBQVVfeXFMT0xlN1htZ3dQVVluQ1ZpSDUzNG9SVy1aRGRab3BYZVJybzZuNWlsNW1RSGlma25EZTJkdDlnYzRmUG9BZkFGUFdnc0lTM1lYVTVuUktvdzE2VWx1bUxHcTNjVldiT3R4eEFhSGx3U2l2NFNlZm5MRDdPXzQyQnN0bWFZXzB4ODl5NVVxOFFCNFJSNDB5eGNWS01lZjl2NmpkOVgyUnJUUmNuOE90aTVtenNNUFkya1BrRE1ySjNKbVFNU1BHcUx4eTE3ZnY0UDkxTGhOcEE0VmVDbTNtcGdlOG16dVI0SjZiVGViUlFSMmJxTTBjYkxRQQ?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Cabinet Clears Rs 1.4 Lakh Cr Investments Across AI, Clean Energy, Manufacturing",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW56bDlLSWZuNzBSSnZxcTJLbzRtRkRxWUt3VHFiUEdQZllfSnhuMU9mWk1Cc1V4cl9YMDZJM0ZGV24zTVdxcHZJZE9hNENielBjblRrYl85T2dNcUpzVjB3N0c4RGJMal8zTVlIYV90WmtLdjNrVTYtak5PRzhqRG1zU3VrRTFsbHAtYU5NdEJhbGVxMEo5ajJGem9laVA4LVR3S19sWW1lUVpDb0lKZEM0cGtncWJyOVBwazlYSTJham82R0phX2dn?oc=5",
+   "published_utc": "2026-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt clears 800 acres for RIL's AI data centre in Vizianagaram district",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMzdScTRBTS15QmswNVJhTVRYT1NlNGlIZGprbTEyVzdfdVl3b0xxbmhfZ01oNXdNNnFwZHdVRlBsd1FteHdWTVlzTWhOaDFqOG5DZmFzMWFwQkU4VmZQS0szUHhadERVNEdXcUdFbGQtQlVTOGNUUEZSbTljcXFkTFlLWnEtODIzRmd0bDRxbWJpTVQyRmVBVWtOQnRaSEFwdmoxS09YRGY5ZFZSb09ZeDRBczBCMXpSZ2did3VHRi1CWWRBLVRPUEZpT2czeGlxRzBBNlJxMC1Qd19fYTBMMXlmY1JYNkV5aFRZV0t3SUszZ9IB9wFBVV95cUxOT3prV1Y5aE0wcDdnak82ZmwtR2VjVVpULWZmVC1UeFVuekc0UWdtb2tqeEZab1ZvRGdYaGJoVERxWmZpR1k5TWk0eGM1Q1N3cnFkMllWMF9nbnEzVXhiTlF5SS1xclg4eThPUjFESUZPOG1zZml3VnJMeS1CQUJFTlVRTFFVX1UzakstLTF3dDBOYUhtenY1R2h5WGZ2VmhidTdwcUp4ekNNQURIZENIUW0zV19RWktQZGlYbGhNa0V3N2NGN3BoMU1mNTc3MTQ2VGdXaGhOZV9TOTJCN1MzZEpfcjBlVGVWZHdHbjRDUkcwcU1LdzB3?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI enables high-quality diagnostic services: Minister Satya Kumar",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmduXzVXSDh2YktXU0RSMGtIajJjRXFSZzBkNFhLelZqWlE2Qmh0YnBiV091Q2QwUmlZb25jamR1N1BCYzBZTjdJR1hIXzU3d3JhRHFremM5aHlianI1dzNHSGVlREx6bVNpUW5yUjF6OE5NaXlIQ241cVVubjlKRXRadDBsSS1qVHJVZzVkSkstVzJZMng5VmtQMWY4ekdvYXd4VTdoOGdoc3J0R0JOTkVnVmEtUUlaMXg1dFMyUHJGNU85clc0NVRNONIB2AFBVV95cUxNc0xON1ZzNGxkY0F5Tl9qNFhjdk1uMHlqYVFkWm5XSnRlTUFjMzI0aTlqaVJ6SFk0NDNoUVJJZmc3MEhMYUwwWnEzVFpkZ1dNZU9CNUFWeHdxQXI5czV6ZTZZWmg3YTY0a211YXVNNk5wSXRmSnNyUlNnbHhoeWJuUmEya2FDTDJDNWhEeUNDNXVtZ3FiTXRiSE5zTGNLYjg0eWJKemlVLTY5aHA0cmE1eWlTLXItb2NvTFNLTkRCdUFpbTlHNlY4bzR4eU56dGZEQUdQTzBDSHI?oc=5",
+   "published_utc": "2026-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt allots 855 acres to Reliance in Bhogapuram for AI data centre",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTk01dFMzMlU2am9QZGpLQmRqdXliejVwdW1oQU5lbUthUHJickJ1NHVYSzlpUS05c2hZZTBPQWVVT0NtMHhJaEFycGR3Wk94QjV2ellXZ1JiUWdReVZnVUxrZ2VuYTJsNUxYR0wyWm1MWVN1eFZ3dkVoN05RYURBd09LZlZ4akUxSWpwaHgyZ3hqWEJKT1puQkp0SF82VnNWWDRRV195cVRLWlo0YmF6SUxkSGZidkxZM3lmd0F0LWdBOFh6VVhUdnVWMNIB0gFBVV95cUxQZXV0aXMwYjdCMUhDQkpIUk40LUlDLUJ2c2xYZjg5SkowbmNMR0tXSVBqbVI0dUxzaUdBVzlrbW14d052RWNqclZmQUI5c2ZkMkRkdEpZb0l1RllrWE5yNjhKMks4cVBzZk5iTnV0eWczVjQzSC1jNzhEX2xmNUx1Y1g0d0JZeTdNTmNzN0tNbUVRQ25QczBoNXlZRGdnY2c1T0xzUUNBd01mTFdYbmlZOXJ0YkNwS0E0eUxyV2dMbTdULWs2NERjSlFZOG5vOVRhdlE?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Giant data centre over land belonging to Dalits sparking protests in Andhra Pradesh",
+   "source_name": "The Business Standard",
+   "source_domain": "https://www.tbsnews.net",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXFHdS1BRUN5TVZTY044LXd3QU5GTUVHU0tVUlJCeXN5STRDaWhaWFk3QnpPUkJwRjVxNzEwbDh1OG14MEVER1VGNlRlcDhTbEtPaldLeWVqblJCOS12V2FQQV9fWnpETmpMY2RISXFDS2lyNGhrWnRtTzBEaWVyUndHSzRjR3VFcTlyMlRiUm1UNHV1RENiYVQxTU5LdWR4OUdGS1pibzlDci1UN0lFNmpIc3NCNE9pVkE?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bharat Forge signs pact with Andhra Pradesh govt for India’s first private marine gas turbine facility",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYVNVeWp2cDM3TUhnb01LbTFuaGxkcmtlaU0taVM2Nk9ad25YdFBuQmJ1OGtPSGxmLU9EeGYzeFNka1VWTlJyWURveGgwcmQ0eTNTU0hrTklmcjdwLW1ISWlTN1lZSWZQZ2R6MDI0clBmQzBVQW1Qc0Q3SFprbDhIVE5OcGg4X2hqNUdLa01xUE1UajR1OW9UZFBEa0pDYWF0OXcwbDhWak1paFlkVnpZbVhnTkFydWlSN09Ga3ZtdmZQWGd0S1JVVFk3Z2lxZFR5VEFjR25Hd2VrX3pDV1d4VERIZ1J6cWpPY280T0VPZEczWEg0cVFpVlkwdTh3Mkdu0gGEAkFVX3lxTE9qX1I3a0g5cG9RT2JLWFk2eUFNVnNXNGtVaUI0VnlFV1kycGxEcXVzNWNmbHFYVVlGY0N5M0ExajUtTDN1czBpeVJqRlczR0JRb0prRHlteEJKUlFhN1N3VzBfV1BkYThRdjltb04tN1k4MXhVcC1hWi0wd0MtRlpOaTRHX0luMEN0a3JSZWt0UEx5eThXbGVRX0J1N2l5dWtUMllRMlJwTHliUFVIMmlKUy1YbUg4bWd2S0J1bm83U1dDaEZVQlRiVHdYVUM4YUItY1pQUFBiT3hPczRncGVIWVZ6aUV1ZFNBZlBRMVVJQlhLaU9DQ2xnR2VNRGxkUENSOEkw?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh minister Lokesh lays stone for Rs 1,000 cr Carrier Global unit in Sri City",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa0xBcmR0UTZjdEtmREljaGR2MlZCb3M3aTF5ZlpnTERpNmJpQWF5Z3NxWW02MVVrYWMtZWZiWFJjY2p6RDFJNkpCbGU0SWdrX0dSdlY0eVQ4MFFxamhRRktLOVh4ajZCUkJ6dWRKaTN5Z2V6bi03anNoSV8wcWpITUs1RDhUSkljRTNGUk1ocGN5Rzg2LWdxVUVNdm10STlGOHpRS3lwYTRWLTBkTlRJTjdjYXBoNzRHeFpFUTc3R2JTQmROMjZ6RjFGSUpCQmdSdTF4OUY1S0FSUW5RUWJkV0hINnhFY01iSG5F0gH4AUFVX3lxTE5CTmVkbWhqZWVEOERDQ2lqU3JHeDViUU8ybkE5eDBhbmN1MHNXOE1CY1NiNUMwUjNIb3ZBOGxNQUt5cEt3cHhPdXBwMVFyc3ZqYWNCMDJKNnFWY3RzYmJ0TGp3cVpkTUcwZWxwMnlTOU9WckF2TUpxYTFrcGFuYXM2NHdaNEU4T2IwUjYzNXY1ZEVPLW15c2VSU0I0WGtGRG56UFpTOGZsLWpiWEMzNTJObGtzVTV1a0lxTGRuNmp6RGh3SkxsZW1sSE8zMEVqdDlqNDRKS1RPWThtR2N3ZDNqb1dZdk1WNmF6MGI0b0pDZ1pIZF9yQndM?oc=5",
+   "published_utc": "2026-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "India’s digital thirst: Data centres are rising in water-scarce regions — and locals are paying the price",
+   "source_name": "Down To Earth",
+   "source_domain": "https://www.downtoearth.org.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU0JrN2xWQmlZX215SE9FeVdCVUdhVDQ1aUlFOTFBT2FtNGNqbmxpbGpES2hhN1UtOWJPcG9xMDVFSHFlR2NQd0hyaFJMRFpUUEhzNG9qeDhmcTE1OWxWNTlUUWVkS0tQOUdOS2l4WGN0dDkyUm1OczNfRk5jSmNTTThfZlBQdDB0VzZPamV3cmtwQURpYk1UM3dia0ExVVRla3A1OVYxWHp1YTNSWWJoQnJmQ0V3OVVTU3BZZGY3VTRoSF9mdFBNZkw5WnUzLVM3MXAxWEthN3lBVUZ2OEpmblB0UXZaZ9IB8wFBVV95cUxNZ01wMUhVQmFmX280Z1ROLUFrQUY3Zkg1RXJ5QXFWS01GdVphb0d2S19UOTBfcEVjOFB4TU4tcGFHazZicUR0Z0pUckZCWlVHTVZCRE8yYmZYRHc2eWV3SHBrSW85WHNEYkcxSnZGT2tDVC0xamdXTzRRTHhPRVdLNUh6NmhaYlRzY3U1MVpUX2xZQXc2WVZnZjRiOEpNRVdRSVE0cHFfZ0wyZk5Kc3F4TkVWOUtkMUpqRTEwME4wWGV3Z0hIYzIwQU9MWWkzV242QTA0cWhWWDBGTlhra0JzODNDaW02UGh2a2ZJTmN6bl9tc1U?oc=5",
+   "published_utc": "2025-11-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "67th EC of NMCG Approves Major Research Projects to Strengthen Scientific River Management",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vZHFRd3lpazRDZEhhMmpzNEROX3BvYVFQLVNBOTZYVjBkM0hKellCNkVHTlpUbnJPQml3ZHIxalQ0VHVnaHhHYWRUejhRRndweHRnN2otdl9yOTJSQjE0dVFJMl9VTGUx?oc=5",
+   "published_utc": "2025-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A Booming Data Center Corridor in India’s Uttar Pradesh Is Running on Empty Wells",
+   "source_name": "Earth Journalism Network",
+   "source_domain": "https://earthjournalism.net",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnpCeFR5ZC0xbzN2VWs3Ym84MVZOU1c2OEV5bWVDZGktVmVfSlY4QlF2cy1ETDJIWGNaekRHcGF3bW9KWjhZSFZFMlJCNEQ3SVlTMk1BZDZQOGp5VHluQXRDRnhDNW5XejJzSF95NFkwblRHRXhMRGVqVlhpeVF0SzRSV1JlVDZzeHhIY2stbVR1dTM0ZFVZMjJpVHNmd3FNWXprN1BRdG1kY1JxT21MajFRRFQ5UkU?oc=5",
+   "published_utc": "2025-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State governments: The new kingmakers in India’s hyperscale data center race",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQk94Y3pzbDU0MTNDRWU1WEU0cW8xWmVUREg3UFBiYkJxakpqNWdpcS1OOXZkVXBXSm5veVU0OG54bFQtOHJuV0pSdlR2ZURDX3BEanpLRE9SQzEzRlNVclM1NnRnaVFETFNzVGFEZExZamJLZWJIRFc5Q2lmUTBmWmFqWktwMDZxOXRlTHV1S045ZGNBbFlERURYZ25KM1lKckZjT1hjMXQwVjFlQTBxM1d2M3pqSFpseFQ2NjFHcw?oc=5",
+   "published_utc": "2025-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This video showing the accident of a money-laden truck in Uttar Pradesh is AI-generated",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0Q1WWtwV052cWhBYks4aFR5WldSMkNWZ0xXYWg3bGdGMjYtbWJHS2tHYWpHM2MtZUlrNXNXbnYyY1hOb3oyQU00OGszTkVvTXpBeElTeENVa0JGR2FXT3l4YU1HZTVhcFc2SEdDai1uank2alRtZ05KNGY1ZTdyZ0pKaDZVemd1azZraHMtSG4tbXU0c1l0MW1USElSb2FpZ3E5a3dIVlk1dw?oc=5",
+   "published_utc": "2025-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "6 women, girls killed after being hit by train while crossing railway track in UP",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWGtTZU9SbkxyejhfN0o4VVNVMzgtdW83aTk5a3czR2NzZE1CandpZ2hIcG9xZVNuZWlpQ0tBNWw5QmdiaW1peFBwWDVMVTZ3U2luMTVId2J6MUtpRWpLWjVkSnVSeXB2VXRJLTg1a00yWm1QRFJDQ3ZLZHBqOGZsSmpxaTRDMjJVYTJKWC15STdaZ01NX2RUQU9wWmdiLUY4RmxVVEVUeHJzeHVfdEg5MlZBMzV6VTV0X2Q4VHFlbEgyT01hc0RoXzJfYnA0cU45bEQ0Q3VKNVdNem40SVHSAeMBQVVfeXFMUG5ySmJvQ0lJOHRmaW1ab3ROM1MxbnpfeXRXdk9xelNsVmpOR19EbEUzZjhTRjhhS01PemFEUXJWQjFBbXgxa3VEalNIWGJHWHV5T2gzRk9ENnhtZ0FhLXJHNjRRVEZaTnBtbDlTRUV6aFVmQTJnQ25ub0cxT2E1YVk1c1lyX0dQNXhtZkdXVy1DaW5KdUJIb3JURFlGZkl6bjB5SzhySU5GTGZ4QWxLMm1qSnZwbVhYWVIxeVBXSWVES09EUnd2U0FBU2g3WC00ZGNoVUlPZXNoWF9JRnhOak1uOE0?oc=5",
+   "published_utc": "2025-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Public draws red line on AI in Parliament",
+   "source_name": "Brunel University",
+   "source_domain": "https://www.brunel.ac.uk",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU194VzZqVTVZYjRaQ1pMbGVaVGFSbi1Yd0RNbkNuR2RYWXExMnAtNVhqbEtkdGxxeWtsb0JGRlduYVRkNEtJYWZ6bFhMTDVkUFhZTGMwVWJSX25KcGNTOGlqanMxOXB1SVhfc0pHREc5WlpFRmNQdUJWRDF6X1FuX2xmRVd6QTB5M2d4a0tDSW1pYmhqTWJDUDZxdU8?oc=5",
+   "published_utc": "2025-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Big relief for tenants & landlords in Uttar Pradesh: State govt slashes rent agreement charges by 90%",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMS1Md1cydVpaVHRWTWxqMXhsU3ZzWWxiQkN1Q3lTa2I1VlNtaEtTTFhrYmJKeE56X1VkNVBYX2NZeXJ3RTQxZDE4c240eGhlcE9YdkwwRlFiaVo5NTNKTnJuWUlHZnBUaEtIT2ctb3Q0UFZETE84SExza0d4MXAwV1JKSDNkbWFUODZ1eERkRHB0dEVydmRDNVVNb2R3dVU1U0hoRTBxakxaNmhmSmxhbzM1OFdHdE1WY203VGQwN1Y3SXRCRTBnSlo3bWV4V3pPM2FHUG1EX3hrdHdUYjRWRWFQcmdFOTZPbUJaVUdkTWJPeXZi0gH6AUFVX3lxTE5KTHZ2SVVDTTU1YWNYQ0hJcnRVUF8wdzRFTnBVbmVTY0d0akcwSXFudFAwaE8zRGdGZEUyekt5TGtFbDlFcHRONVpwNmhhUmt3UnRhendMMm9vb3FEM0o0cTJQVUR5Z08yb3dLUnRjMmNfSTZULUlhY1JrcWFBUThXcnNrZ2Q3Qm15OEtxc0VRLUJMNUFLQmNiby1BZ3NXZFVoRGtFaXFWdUR6djZmdEt5LUxzWF9MaHZrQ1d0STlEb3c0UFdLX1lDdy00VHhyVFJzckl0TmlfR2doNkxaUVFvczdtRzlueGprUmNGSndwcXVOaEJpT0pqTnc?oc=5",
+   "published_utc": "2025-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This video, showing a train falling into a river from a bridge in Uttar Pradesh, is AI-generated.",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQak5fanl2TWp1T2VUVmd3SXEtTUZDU044Q01QaElJSHdsX0s4N01CM3VZS3E1QWZZX0ZydUtfMkVZWUcwRjBlS19uQTl0RG04ZFFJYkpPLVhTck9ZdlBoNGV1ejByOUxWVGJDRFJYWkxtTVhoUGVlWlVrMS0xYm91bk5HT1Ytc25xWkRMWU9ISGtlZlFQUzFaR2xVTkNmT3VXYTlEZVJoWlN0STktbWNWT2FJWQ?oc=5",
+   "published_utc": "2025-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

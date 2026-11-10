@@ -1,0 +1,37 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "Karnataka govt. to set up committee headed by Chief secretary for water management",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX282bnFHUFM5a21IN25laFRKdDBYR3Rxc28tN0YydUZKTVA2OEV0MnNJZmFvSGR3Rmx0eTI0dWR0Y3FpVkQwUnNvbFhEVHhlMkJ5MmFmZ180S2FWYkU1bTBJMHoxRzg2eWZZSjQxbWFGc0hscER0cVgxOXVabWpaZy1jM0FYeDBHQU5oMFphbWJyWUM0ZWtPY1VUNVcwbk1pMjAtUXZSQUkwRjB1bXpveDV6ZTVWMWhMYXlrREI2ZWtVY2R3NGNIeHJwLUE5ckx3ckJqeUI2NlBjQmxwX1VSOFhzMTjSAesBQVVfeXFMTUZ0MXlvbGN4VndPVUlDYmJHUWZLTkE5SE9Tc0FkOWQ5SlRlaVJNQjMyaHpiS09ZcWd2VkxlbnlZOFFSS2pqRk1VRXQxMlR1SWFMTXRTSkVGdF9Ua0JCVXdSX3VGaUZfcV9KUERsbDByNTh3QnJTeHNuVUpTWWZlVTZSWUt0UHEwZjdWVG0xRHRTbVhtbkh0TlBGRFhvb1FzS1loQV9iN1dIUmFocE5Oeml4blh1dlhWZ2JmTDVBNElSQ3B0bjFpYU5LMDdhT0pYQ3ZQSGNVVHBEZVpDZmdsOXFMczVHSmxEcS1uMA?oc=5",
+   "published_utc": "2025-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What are the benefits of NTT's new Data Centre in Bengaluru?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUUxQVk0NEF5bDIzaXdYb3JxZHNxUHJvVTJuY2I0cEZsRm92RjhxQW1EMWpSWndhQ2VtRkl6SkRaTkpRcVdncHJaT2EzSjg0bC14UVIxOU1CV0hNUFVqN051TWFTZWVWNGNPbXExUjQxTG1MSWFNQ1hEdExrR1pWMUJIZzJKNnBtMnczcVA1c3NvU21YX29TNDM5OWFmZw?oc=5",
+   "published_utc": "2025-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka reports 12 deepfake-related cybercrime cases in two years",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd0hYTjZhOEdmaFQ2MFVTdUpEZmhMUjMydTlHUWFWWTFZLWpUUk8zVWlpVFZ1NHBQa0NiLTFpN3FJY2d6WXAtZVRvaXVqNmhXSHNRRlBnUElHMTdOek1LTnlCZzJhZGtHZ0k3eWZDQzl3ZXpmZ0RnSVZaRVlsak1nXzhaTVlNc3J0MndoczlDNGg5VC1RQkRFRDJEb3dSVXV2bWQweFlWcVFRdUlDMjl1dEZ5QUFOeUhFS3poMG9vQ05oZ0tjd0R2eGpWLWduRW1UTEHSAdgBQVVfeXFMUGlOYmEzMFBDREV1d2VmOFVqOVBQWmFjOUxVbE5oY0xKcDYteGVDZFNsWnBzakpyZWNCMXptN0dFalBVQ1hPR3U5Y28wTU8xc1Fna1pOcWwxYXhyX3BBejdlckRXWlR1ZG0xZG53VmVfeFFESnU5aENkNUNVR25yRThFQmY4MHFmVjJfMmlSNTMyN0lEenNzT0labzlHM3NsczYzM0taejJrUkZBcVRtTnowS3BQZ2MyZV9SYUpvVnRPRGU2XzhBbUtsalhQeDN4S0N4bm9CaWsy?oc=5",
+   "published_utc": "2025-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "One-Fourth Of Telangana Budget Allocated For Congress' Welfare Schemes, 200-Acre AI City And Two Industrial Clusters Planned",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc2xfMVFRelAzc2lVRXNDSHVYVjhLTDd3aW1EWm5GQ0w2ZERINl9XQnBIQU9aR3F2N0xsYWtaa0xILVA4WVJPVzMxOG1TWWZ3TDVhdS0xUFpMeE1zb1lXN0FveDRIczEtcWFGQXpEbElYSllCMnlKRi00Tlg0bXdVdDFMdS1mVmtLaVVaSHhDS2UxSU5hbXZNODVDN1dSTnFKaUozZXRnOUFRbU9NbW9aWGgzUDlnaGdrMGZhaXdDWnhtU280Y0o1OW1VOTVJclppMFFHMUE1VlFwb1c4dm9TMVI5dURNaXVMSXNPaGlB0gH-AUFVX3lxTFBsaDQ5ZVJvWFBfUjAySUwyX3ZiSzY2anFkS182TlQ2dHBwc2E4OElyVVNJa3JjcDF4MHhVM3g5ZFlRd0tnSGxzYjhmNmdzWC1zOUpXbFcwWkZHTXd5bHliR0xGM2hUZ1I2VWt3YkxnZnFDNXBWMDF2bmpIWV9vVEN2bnpDTXZ2UXFKdUFVbDBoX0lHX1ZOcG9ZMlRKSy1zVVNfMTN3Q0c3SlBqanBPaUxkQXRBcTd2MHl4ZWU5dE5ud0cwT21Pa3NxczlrR0QyMWg5MTc0RzdCMnhxeEJ1b3lCTFlNYnBIZGh0ZlBhR05ZQzROWW92SFB3dVNGaVN3?oc=5",
+   "published_utc": "2025-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Bihar Targets ₹5 Lakh Crore IT Investment to Drive AI and Digital Growth",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUxqWlJicjhSWVZqelg2SjVZZ2pNREdIeWpvZWplZS1ybmVhdG5TRUc4M1ZrelRfdjZ2TEI2aUdwWWFpQVduQ3R6UGo0ZGlSRE5rNFJDTS1BdDNkUUhWQ19SY1ZvYVNEdnM5V2xOb0NmREw0WUZEVjFJcVZINTFMbXBnTVc0NzdCSzlmN0t2aWM0bXozTGhfLTZkbm1xU2ZGbGttMVhSM1ZVMDE3aVE?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhopal to Get Rs. 10,000-Crore AI and Knowledge City",
+   "source_name": "Realty Plus Magazine",
+   "source_domain": "https://www.rprealtyplus.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTR4ZnJMNzU3VEpNN05GS2ZHZDNEcmNIMXk0VXpkWEotWERGYU5wbVR1OGRMbHhOalBFZmt0T2VtU3Y2YnNfTnVQWGdMN3JXMXgwNDRpU3FLcFpELU5CUjFGejNOSl9qV0dnOHJOVTV0UDdLZnl4VHluVnRjWkxTLUk4YTAyWGRfNDE2a3h6OVVCRnpsNlNrVlhSYlc1Wl81Tnpaag?oc=5",
+   "published_utc": "2026-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Haleon Expanding Manufacturing in India?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzlFY3hvTVhRVXQtNi0tUkpQTERnZmRYMDYwOUFkYmp3Vi1vanVRcElhbzRKS1NGREpRTWdubFdQeW9LTHcweFh5X1h4cHlqbHM0YTBzRnFRcjZsLVFySzQyLTBObnpxN0RyNlRwUVhzV2RYVTJVS1p4WHhzdXNZXzdhcGN4X09SUHc5bk4tSXVNS0FoYXRxazNwSGw4TFM1cmZ0b09JUTNMNVluRFNVUTBrUUh3M0M2TFczc2xB?oc=5",
+   "published_utc": "2026-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government to roll out state-run bus service",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbVZFa2FoS3NpOGVHQWFBQVV4Ny1UNUlINUNVekZnc3lBejllSnlEbnhBWW9NWG1IRW5UcXlFWnZHVVFsRzBXRGtXVjFjR3RsQUxFYy1tRUdZNThQNlZZdmF4MDdvQ1RZcjkyZlRUY1lxYTRNZHJEV2t4R3ByTDVjNXc4WTk1QmJ1NUhVdzQ5Z3NHT0puaDNRN2V4ckJVc3pSYnVPNWExbTlNQjZ6UlhXY0VnOHNLMUNBZHhvc00zY24wQWxCdVM0X2twLUhQd3FNY25nbWtCRkN5UXR3T0xtWV9JekpwcC1lTWRyaNIB8gFBVV95cUxQd1FYQlRaYm9CN1lySTJiT1JiWkI4WWlZX0VfSUtSdUJFeFJ1d0tITmh6aHNsUkVSVlJ3U2JCVDVjRWV6dkZDMThQdnBoQzVvYXBjbFNFOGUxTjFhdndMUjFDbmdhOVU5dUVnNDlZZTFaUXozUHQ3STRwaWZ2ZURyOC1kWkljMjdmbmFyRGk3dHJlbHVhakNDMC1SUURKVEhQVHA5cHB0U0wzdGFNR2xxeHppdmpSRTJqemZFWUFYaWlScDZoSFZURTdpb0ducm5Ub3dBdzBPMGNUTmNYVnY2QWYtS2JoVzJkX3ZjLWFXSl9odw?oc=5",
+   "published_utc": "2026-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Removes Two-Child Norm For Government Employees",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb3ctMXZJWlJFWjRnVDlYMjd3ajdzdXJjZ053cmNGWF9STHdvN2ZCa18tVFN6am1WR3p2c1ZTdGZvaW5vZTlRaUl6RXRnVkxNM1pIUVptZkItREw5dVhaVlBGUWpzRnZUdGE2ck5hT09mQ19GVExaajQwTThMYkxJYVl3OS1lVXZnRWhXQnZLb1MxRzNqX3JoQi1nVVhsSVJYNTNILXlB0gGuAUFVX3lxTE54Y3NhQVFXS3g4c1VsTnlnZnVvcWo4TE1VREFwcVFkZ3hJR0lycmhvNGRWRk80ODhja2pnUUdmS2Nkam41OWE2R2IxWktIMFFTTUlSeERtMXhnNjhIUkJJXzZkVXU4YmFqdE5XaGNFMV9WbC1wVGlYekQwNm1uUnNVSWNQeGlHamxXdXlONXlKR1dzQzlsbm1YTTZydlNKcldLNTFJUVZOa3hQU3dBZw?oc=5",
+   "published_utc": "2026-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haryana Unveils ‘Make in Haryana’ Industrial Policy; Targets ₹5 Lakh Crore Investment, AI-Led Growth",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHNyY25oT0NhQWdmVVJkclpQR2lpOEhWaXg1RV9RNGRtTXVqSnJrSlNsbEJBY0lCYkJuaE5MQzZLZ3RjeDh4UzgxTTVva1dQcDNXUU5qdTFieDhiMzFBWWdTZnFHcnVoakRacjJXcGtYN3NBZ0M4dVBuQzNUQnU5azdIU1VocjlMd3c2dkh3a0E0VVBqUlNlb3V5YTBsQlRfNm9VUHpOZndzWFhaaTZ5QTlQdnFOZEtfREpBc19rNFJIMWp2ck02X3FwWlZvUQ?oc=5",
+   "published_utc": "2026-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "Building the Future of Technology with AI city in Lucknow",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkhtTXJlYVZTZTV5M29NOE5hVmxUSW5lMmQyaExTYkNnRXBLZ3lCU2R1V182OGRsOU9VTE5fV1ctVnZ1ODhjaTlfVWxIUENXMTgtZ25pTGQ3WTJEdDNieFoySTJpZVJHS1IwSGpxOGZpT3o4akxNYWlGQUg1ajVYdGJZM0ZySzhjSlpfNmVNN1dzVjNuZVJlUk1Ddw?oc=5",
+   "published_utc": "2025-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

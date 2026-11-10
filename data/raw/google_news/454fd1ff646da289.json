@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "How AI is Transforming Farming in India: The Baramati Experiment",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmtaSDFPcGdwcm51a2NIdEJQMEpXaWlRTmdkNE5tQmJ5aEZNempDS1A5WE92OTJoTUZnZmNxai1TTWpwVTJPdUc3TS1vUy1qOUtOSTZpU1R2aGNvb1R4bnFzV1lHU0EtWXNxclMwWUs1dHJOTGp4ZTB4XzQwaXZHdlNyMzJKX3hEQ09LR1ZDRzN2UWVvYy1tU3poMkFWRDdGQzV4R2lWY1pmZzVNbVh0cmFCclU4RHFUSVZBbtIBwwFBVV95cUxNcC05SFVneXpfSk1QdS1JbGxmMlNiNmplMkJZcWgzYzVESW1VMThCdjZIWlZUZnNRNi1fZ0p2VE9RdVRtZ3llcDNJSFloMk56RnRob3FLY1FaSVBxaEVmOW0ybkNnSFNTZHVRSElSYkdOODRtOEc0WUk1T3pCYTNtN1NfQkZjcTdaMzhrTmxpc2lTY3h0RG9oZUJjTEp3VVVVOVRFUmVVcm5YUGhNRjJpTVh6TGlqa3BrVW5TWm9iYmZHcE0?oc=5",
+   "published_utc": "2025-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra : AI technology boosts sugarcane farming in Baramati, expands to 50,000 farmers",
+   "source_name": "ChiniMandi",
+   "source_domain": "https://www.chinimandi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmthOEVaSjdhaHhMbnlQdGxwcm1jMjhjSU1aNmllVTQzUUdIMlc5N20yODB2XzJnUXNoZEw2NTNtYVEyNmR6T2RtbDZlblgtVThtajhyWTdkX2JQc04wZGtnLU5wUkFJVENmWHZvY3ZiVEVjWnVvU19CaFhaLW9FTHZ6NEpzcnlDX3B5QVZMeWlPR3djTDlFeklxNGRNa0JSQ3V6VGx6ci10d2VVTXplVW5fQWx0Zw?oc=5",
+   "published_utc": "2025-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft and Gates Foundation to support Maharashtra in AI-driven digital governance and women’s entrepreneurship initiative",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNaGZ3QVZ1elUwMHVNQ3JGZGVCaG1qM09lYThrdUQ4ZXRNNkI1WHIzLWJDb0ZxcFVmR1hTeU5yZTlaODQxTHZSc1h6dVN2LXEzcW5KYlFpMThuc295ZThhNnoxZ19OTXNDZGVTeVd3V1JrQUxmMzhISGJrUU16Rmx2ZUNRV24yM0hIeWtpUUg3bVJOOVhXaWRoLXVjalBWWGQtc043X0dCVm1UbTFoNU5OT1RSei1KSGUydFVidWRfcUxXUmhGYlNZOE5JVnZESUN4ZlhMdl80M051MlJIY2t4ZTNIR3lFXzh0Q0t3SGM2NlVEOVNQcWNYOVY2SFFuelFzendhVnlkUXZmSERKeXdLWkJCRmV6bmJCTTNVVXhVeGnSAacCQVVfeXFMUDloRkdoYWVGaGJKcklfT0xRTUV5S28xZHI0UUtPbHFWVnZxSWNzTDlCbjJLSVpJQ3FKeFpJZEZJSHpiMDJjanRDeHpHM2dNc25TdXE3Y2FlaE9HUHppMDJaQi1oWUhEeTJvM3RBU1BDSHlSOW14MDNBZDkyOTc3RGljdmhmWWV2WlBHay01Q1NaZk9iZTkwWGttV3I0WmJYajVodnN1aG5LbGM1bmduMVFPNkY2cnZCcFRjWWRXajdwZ09HTHNxSzg3SnM4V1hnRVdNeFB6dG81eGVxM1ZrYXNFSElwem9qUGs1TUROSFpsWmFjMHkwZ0dTY1JtY1I0QXhUYUU5dUlXV25hWnFZR2VHOTZqaFE5MHpCVHN6Q0tQcFNaQXZJZw?oc=5",
+   "published_utc": "2025-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: AI-Based Sugarcane Farming Increases Yield By 40%; Lowers Input Cost And Water Use By About 30%",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUzZaanBvRnIxd1FaRC1zbzliWDhmOER1ZVc0S2dRN0JUWG0tM2ptM0I1SXV5X3VUNjdORXFSRjZjdU11YVBQVHE5cG9OM0lsZ0VHN3NOR3pIbjRHN1pCODgwTzJvZERDeFZUMkxzS2JjaEN5YU00bWI3WW5Uay03SjZJN3dydFdxMzY0OUttZWNiSUtvVFZGdlBwUnU4S1gtalBxTEpDY05TNHhkWk4wMmpmV0hQWURVNG1adnhTc1FsZXdNc01TN0laelBpa3Z4VWVNVnJSUGNSeDZm0gHiAUFVX3lxTE9FRGczUnd0aGFZY0VTOWdpRi1xeGhjUC1XcVlRblAyWkVrMTJ1M2xDVnU0MDRNVHJxTHBZbFQ0LV8taTVGaDJzMlRFMy14QlhLY0lacUo1d0pTRGl4YzNpeWFfM0dEcXJQRGdoWTl0MXdDdmR6MDhXVEpPZ0lGXzhjLXNXYjNja3VPLXVFdTFuV2tFMmVpU285VHQ3WFlLb2lHaGdFTG83VkZRRDRhdkw3bVI3TzhjeXlmOEFxLUtJb3hFUG5BSjZVMzVWUFVNWW1mSWdXMzFUcThLalBnT3lvVHc?oc=5",
+   "published_utc": "2025-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Empowering Governance: AI Innovations for a Viksit Bharat",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1hVREJfS2FhRFVfS0tYUG1uMExrbVpYY0RDZjJFRXhKTHVwT0xWZThDX2htN1lWTVRQc19TZnM5aWRHREc1d2xyUnBkZGQ2bWZzVXpSMXkxNE13TTB2OEJRN2VSaGFHVDZSODZ6YnVLUHVuRm5jQ3NWdHFsMGZXOFkwdHctUktpLUJhbVZpR3RMaG9iWF9MaUZhMlhMS28zNTdObGVrdTJlQklLcHVJTmpJcWFKV3BQUFZwNkxuaFlDOXlRV2J0VmZn0gHPAUFVX3lxTFBNc1hzYXdHZUQ2SVZtaGlnemlIM2FTZGMyWjVIQ0JSQkZSZmpCX0szYlRXSF93TnZ5V1Zucm80ZTVmNk9SelRRLThwcHNNTTlpbkNER1NkN0Q0bUJYX1RwYU9sUlVzQnpKQTFyRDE0OUV2RF9rU3hGd2hYWTk1WkJqVVJLRFMwdGJseGNVXzZfdks5MUdLWGFDRXM5YkJqSXctVi12VEtySFYybGxVT2NkRml1djNBU05uN1lnbDdQWVRBLUF4NzBVeXlNcHlHaw?oc=5",
+   "published_utc": "2025-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Fadnavis meets Bill Gates, discusses use of AI in agriculture, health",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmtuR040Vjk2UnNoV0ZMdldKbVJleXJnZllDRXRDQWc0dGl4cWcyWFo5ZWE5VktuN2MzcFdkbEFQbUJham9EZFJYYURYMTBBbTg3SnpfSDliZlVYbkpQYU9KWXBiMXBHVmZIV09kUW5mZkM0bkxLbFdSMjRVckV4Ym5LWnlfRjBJeUIyS1VGQkVNSE9Hbm93OVk4UF9wZGZOeGZpMFdjNHlpTzhKMmZJMG5vY0xaNmZhVXIzWnUzVGRxUkRsdGxfNVYyVFFUbTh2TWI5SUhOTELSAd8BQVVfeXFMTm5aZGlmbWpnOGoxb0VrTmVQREhYU2tfS0REV2RpSUFiY2llckdBUTVZb19lamp3M096djcwcU14T1dFQjhyTUNNYVJlZUdyZ2VlS2ZqanFnMUkzVjNkSnJZNnFTZ3lZTDBMMHl3MkF0V18yM084QXBUYmpkSDlwdGh6U3QzTDVsbUdpUWVySzFCb2EwX1pEZFAwN1E2aEJVQjdwTHFFSUcwSnQySkE3bmxSd1A1V0FHeFRYQTlLRmR6YWlrRU1HWGthMHpBZmNVQVRFVzlLY09aUzU1ZjJCQQ?oc=5",
+   "published_utc": "2025-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI and Humanity: A prudent approach to growth, equity and progress without job losses",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVTFjRDNITXgydUh0TlV1anVHcnpuRG1aa08wRllLV2prUjd1UXJYcnVtQnQ0NTl1RVNNd3NwRU9EdEdxU1BLa1NjYnNNSjVyTFNmMnR5SjNqdy1RX0tIX2M4M1FqR2hVT0pTc0dVc2Y1Z0FYeHA4Z1M3UjJMY0NvMnhPbUJKUllNdk9oSUpqTVF3MnloUV9POFFGVmswbjhrRkY0OXBwaGcwUVp3ekhIV2s3YkMzVWY4T0tDMDBaQVMwNHZVWlU3OXVyRW02WE9KVXRselh0TGdHRnpWZFZQblYzNnbSAeoBQVVfeXFMT3hfUFlHdHJjWjZJbEVrLV9JeTJxd0NUaGMwYjdZcjdYbEFVN3pNR0hxQUk4RnRsX2QtbnpFQlpkZFJsOUxLYkstd2xPUzZIcjFwR1FtRGV5M202S0FLdnpvVmNHRzBHTE1HSHVybVJ1QzBfRUpfZXlKRnB6N1FHQjI4MGpCREJKbm5WdTRqSVdsQlkyRE9pd0tPdllwSkpUQmk1V3ZQVVZTb1pSNURvRzNOMmowNzU1LUZVZzZTbmRXV1JBemhaU05ZSk9wVzdkdXIyWlJvNGViN1R0bkZLem1MQXE4SjEzRUlB?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-powered Sansad Bhashini initiative set to revolutionize parliamentary procedures, MoU signed",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWU45cEwtNVNOMXdCSU5ZWmJXYk5LM253UHBCTG5tZzgwR1BSZ2lXZndZd1NZcTlRR3V6V3MzczUyTzBrbHJqejBuUnVQcnpIWnpSS2lFV1RQQ1pqcW5DcnNDb1UzUWtScThYcFJoblZCTUd2YkRoTVJsQ2h6cnVQRzJHcU1STko1ZWVEVFZTN3o4V0N1NFhXRXZkWWxrVk1mbnYxbzM2dGhlUVF2ck1raUc5VDZ1UF9GYmJqdF83bVlwWWt6OFdNaE1GUWxTOTNEbXFDVV9qdWUwY1Jkam5aQzB4elhfWXQtcW5jNW8xb1dwREhtak9wVGFuNi3SAYACQVVfeXFMUDFkSXJLRWFpQjdlTnRqMUdHenBITW1taV8zak5zancxT2x1NlZ5YU5uWDZiM3E4SmxsNG5fWW5Hdnp6dTc3cU9DOXJFODJCZXNmWFR5c1RTNWZJSmZVaWQxVkZwZHRWVGJxQ0s1ZFkwWDRSOE1SRWEzVXVWWVdvZ21zNjJxcXpfMldacGpDMTBLVnRUVW12R1I5QVBMZWh6SUFfa1JNblFXdF9sSkhieWhKeEpVSWk1czRfMFNsUWs5UnZmbkdJT2tnV05NSjQ1WGtMcFZkQXdkLTFTQmdTREJqWmpCdjdhQ2ItSEdZNTl4SGJQMm1BeVlsdzlraS1ETw?oc=5",
+   "published_utc": "2025-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IndiaAI in action: Lok Sabha launches 'Sansad Bhashini' for AI-powered multilingual parliamentary operations",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONHhaajhkbWgwMmFoNVVLenRYcDY2Z3h6SVdTelF3ZjEydFpkV3B1X3ZxQlFQeWc2X2dWYl94aG9MaC0xUFJsSzZ1R1dYY0hwVUVUQmxkdGY3WnZVb0o1VnU1WWdVS0EyNXBqUmxqUXNOV0FYX0VjOTZ6RVpteWc5eFBnNEF1d3I0YlAyOG5vSk1YRUdyemptUS1Ic09XbWR0QkMxTDZXdWtreExxZnVpY2NMNEhiYlJDajFTQWJQT0ppTGJocGlyWEVHbGdIbnBFUXJkV0JjS0N0eUR4Z1k5QzZLTHRRdk95dktTRXAzRE9sWmhxSFJpci1YNUtuLXJkNERGWdIBiAJBVV95cUxQMFBYREVmMjdzMUt4M2tlRzBDZ3dQeGdfMl9PcmkzWmlhVW0zTEdjMmk0RHYxUFRxZ0xnY0huTFNTbnZXQzlTcFZhQ2JHNXdnNmczVnBjYkRMczc0ZU0xQnZzM29JTVh4ZlZ1UHBveFNZc0h4YVdFNW1aWEduMW5xNGpqTHNXRnRtQk5aeGU2bWlzZWZDeDc3ank3OWZhaXhIWHhGNXBTOGh5cTNBTFdwanNyOVdfNlJ0MmF5WDFuOS12VU43S2hhQU83cy0wbXNTU1RtVm9keDhuTkFKSTZqeUdaUktCb0hSYnNnNzFSU0lTTGdKb3lMdzhPdkhoNUhpTjRBbm1YQXM?oc=5",
+   "published_utc": "2025-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Politics: BJP Invites Sangli MP Vishal Patil To Join Party, But He Declines, Calls For Unity In",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0ZwZThPV1pibUhid2UtV3M5QkgyZXhCM2h0RXBYRHpPbGlKRVJ5Q2tkMTFQRTlRSVhvQ0xtempJeGxHYXNhU3JwT05DbE5HN09NQW14RnlxcFlualo0czhMbjNPZ29ZSjktc0lwdDdLXzRiUnV1alpPOFF1S2p3SjVqbzlZY0lnYkpOUjBmQ0NWVnFZRk5KcWF3TFY5OG9sUFh6YllXaGZ5dFZ0aFd2YUhSd1pWUVRuMlp6LWh3VFRBX1RVTmZ4czZJU3ByWU5nMTN5bGxiM1lpM3FNeTBWZzJFWEstOVh1X2FN0gHwAUFVX3lxTFAydEJsakRoeXc5em9XanAtUkUySXVNem4ydXktRS0zVl9NU0wxZ18zRExRZE5vSll6NGNhWmp3T0dCLWRBT0RhU0lQbXlBU1VNWVFOV0dGTm04WEN5UVBYcThJUHAwVTBQM3p3R0tjUnRFOHdNdkdGdE9fc2xxMFZiVGduWlJpbk44dVBhdVJYZHRmcHFGWjI4dS0tRjlUeENWaVBHS0tPb1l0RW5ibHN5Y2NIY2ZfZnRhVm5pQjNpaEd6eTBwcU5Jd1Q5U0U2MGZqMHR2d0xHRzdHeVJyOUpBaU1GMnpOc0tkZU51WFpfTQ?oc=5",
+   "published_utc": "2025-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

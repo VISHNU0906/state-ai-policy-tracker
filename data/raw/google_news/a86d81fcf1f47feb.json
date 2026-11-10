@@ -1,0 +1,61 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "MP govt partners with Google to build AI-driven governance ecosystem",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1hXUWRaOW5zNVRZelBGaDlTUE9zdEZDem9UUkt2cnBEVmQ3c21vOTU3WlRxR3VOWl9IaTlzcXhGYjhXdkV3NThWOGk0Rk94cS15bzV1WmpQU09FTjhVZVVfY05rWS1HVlR0QjFITFhpaUVfSmRvdUJDMXczWHRlNjVoZXR2LWxBNndTSjNmUTFUMGVpWTgtUURBUmNreDQ4aS1Jd2N4QUhMS0xIVERmVU1rSktyRlBJcmtla3JGSjUxNHRTa1BER0pTeHhxZWJBOFllQkRtTGvSAd4BQVVfeXFMT3lZUVVxbkpZSnlKejJGUjVNaUFURUZWOXBNOTBHMEt0YVdMSGtITEs4eURMbXBXMnpCRzI2QndlNmJhaWZXQ2dObTRLdjRuTXZNaWw5azg0WVlDVDZKLWdzQWhJbzlWQ25nUnNMSUl1Mk1qeUNEUS1HdHRPTXlGRGxLR3ZHUFkyVWlkcVA3WXZiMFVOdkd0TEVVUEsxbUE5Zm5EZXpHcEV1d2ZCeGUxOUg4VEowWGtudnZQdTlMRXdWdXo1Qzh5Zzg0QXVrYnJac1hjc1RQSjd1THRFbF9R?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Enough is enough: SC raps MP government for delay in prosecuting minister over Col Sofiya Qureshi remark",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc1hMb0JlbDYtakhwQWl0R3pxeW5MMVd2dGZMVlRTZDlxTVpVdVFfYnh2SXl2Q19XTTZYeGZuWVZVaG5JcFNPUjlDVkFsVmVOUk03MXNBd1Fkd0tJeEtISVdGc3UyOFNxMXpudi1ncGc4ZExuT1Bhcnc2WWR2MDVsT29BU2JfV3VSSG5EbUliWEZXYl9waU9adGw1eUJIdnhGWEFsNGk1SGE4Y0dzZUZMS1BlUnNZNGIxMjA1RWY1amE4THpuQnhRa0lIazVTVF9KQ1p1bW9QMmoyNVNjNlBQVUhPa1J4ZVEwRWFMdFF4NjM3UkJqN3ZWQXdUTFLSAYICQVVfeXFMUGh0dEZ1LXpyUl9hc3d3LTFUNXBKX3d3Y1RUMzNJVWYtQlBXdUVPZTBLZEdxLVNOZThMUHFzczQxSk5DaXpQT0h0RXV2UTRVaHlFbFJIcy1XZnFoanA3U0I1Y3UwRkdVUWJCT1dCSThSQ3ZTX0RXQjZIX3BUUWY3Qml1NTd4MDBPOElUZE5oSi0wUjJoVTZLQzlhaVQxdDFjLXAycUFEMVMxUDAwbmRsSWV2UjZDU3cxTDVxV1Q3eXQwRjIyV3VDQktyUW5FS2pVcUxaRXNRRTg0LUpuY0NHZVUyQUVVTXdzbkM1RGhmaUxGR3lIWmFWdmlOeFpWcklCVy13?oc=5",
+   "published_utc": "2026-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Partners with Google for AI-Led Management of Kumbh Mela 2028",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW9LNVpEOFNDVWdwcVA0bm9BblpLa2FrcEdSZDM4VmxlcFFFT19lRTdwaG9IMEVTZmJYVzRaejJYUHhpQ1A5VHllSWRPSzBpTUc5WE5XLWhsdlRwWDczdmR6WmhQbGxSNEQxZGNUZkYwbmo1YmlPX1k1Z0RNQ1hqbTVSZWtKakVCbUMtZEVyME5FR1RKUU1NMXBrMU5aT1E0S1BlOUk5SW9PUQ?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Naidu calls for AI use in citizen services",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDFQTjhsbjR2bU5FcUI2YmZFMERkdWZzRmxoTW04bXlUQ0FRR0Zjemw4ZjFIaWJCVTdKOTFSa0EyZFBiRURFMGtwMFV2b19PT2M3WkhNUG90S1JTSWtFWEJPWC1LTUpkR0lOVkVRU0h3dFRxZmVFVFEyQ1EzOVBNdjZRZWc2Nl9xNDZNUnlzTWNDSkRLQkdVY3RDdkFER3ltZTZWRHVLUTdaaDFJcnhPU2Rn0gG_AUFVX3lxTE5wYmdMWFFmWHFxeWdJWHpJRmFPTHRiYllQTThOSDJmQUJ3TnJfN2NqSG1ZRjU3VFdldGJvWGlyM0FZeW8xbGVsaTVEU3RITUlMOVdrTGZsbTNiV25qVXQ0U2s4SFF6LU1LNUJrdkEtS1lHLWV6VmVUTGZFcVdWendqQ3JNa2MtY1NLaS03QllHT05tU3JHY1JBb1dkUEQxdzUyLUNoQzYybUpBemJVZDFRNFp3dUNfUU1Qa0JTNjRz?oc=5",
+   "published_utc": "2026-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan agriculture department, Wadhwani AI sign MoU for AI-based farming solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUmxMVlRvQVl5OHFSNG1LejMtZnFaajhFYlpzeWh1WWo0bzdneDNncXgybi1hN0laNEdmTWl1NmpNaUt5VTN5dE1ZZU8wY0pXdXR3ekRpMDFaaGJLZ2ZMdjlwd1hSTkFxY3ZjcXVWWnpLeVhhcFZJdDVBRm5DampvbXNmUVh3VHVWdUZUb0N6a05kY1NZOFVUS0xRLXJnd0U4OFYtQjBCOE1PcmpqbG5OaEdVQ3U0ZTRGc1NIT25ZTGFOMjNSdzZ3MFJWaGotSkZ1cWhvU0ZsSkJiQzVvOThfYXlUWW16V1k0NUVlOXR30gHzAUFVX3lxTE5DTlhTSndoVk81VnU0SGJmS3BSNjNPZURKREh2M0lSMEhCbDlfR1NuWkxIQXJFNklLaWF6dzdGYUlZeUdPYkxIWEZybGk2SjRyQlFJZ2IxbnBNVnRVSmt5R2VLbm9GTmJwTmpreTAxa1ZIMWZHYXNTSnZQbENyYzRjbnkzNTNxbTd1cm90NFJvUVo2OXVzVUtIbC1YdzUwdEUySklwWU5kZURKMVFWY19Fc3dsb2M0ay03aTA3TXdfWE9yRm5ocEhMRWpmZFp1VG9EdVpPbkZjRU1XN2ZWeWtXdUpLSnN0Y1kyMEVpSm1XWWJRdw?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh CM lays foundation of Indore-Pithampur economic corridor",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcnh3X2lXVHpqd29ndXdqWTBhaGlsZS1KMVRIcVFTTUhzak9WT3FEc3VSSVJtb3Nxa3JnYUgxZ1JkU1lzeTNacjF3Y2xRc2o1YVF0WWh2SzQ3dmdtaGRIZnBhTDN4Mm5SdGNYaWN3WlUyQUxZLTY5bjNfMFAxMXpETTVsRFQ1azFwRDJ0VVR0N2xXS01pWE52bzQxTXdsTkFJNlhiU05ZQV9haVdzM094LV9ObTZGU0IycDNXNUVzTmgzdjVTeDNsS1lPQ0hRVVc1TEh0bTNmZnhrVmdBUmc4dVhVc2V3eV9kWF95YjAtZVotNmNo0gH6AUFVX3lxTE9oQ202bTFMOXBVOExQQTg5R1lETEVOdlVPTWRYZ2lkNjc5eks5QUJEdndVdlNhTU05b2JFcGhTUHJ2d0MxY1dNeGJNT1dnc3B0bWpobERyY0hmbEFLQWtlNTRpaEVCLVVSUmpPOFRfdy1heU5pVW00ZjRhNjJoQnVmNUdnWU1wSVFIRDVrWmh4QnF0dm1xYzFTajBjSFVEazBrSGNYbmJxd2sza25GMW1rT1ZBV0FDNzRCQW43bXo4SHdmN25fRk9YcFdFelFpOHYwMVp0WGFlZGI1X2NmZnh3YkxMaVZSYkdRMS1EX1h3UGpSRk1WYWxNYUE?oc=5",
+   "published_utc": "2026-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

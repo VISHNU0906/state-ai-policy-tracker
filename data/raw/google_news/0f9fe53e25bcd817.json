@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "T.N. in the process of identifying site to build AI City: IT Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObTgzT3YyUXBPdzhJY2tfVHhXN2NnQlZLdG5ka1otdGRjQWVlSFJoRTB6NXpxQkdNVjFsbGZpX3ZIQ2c1Y3BsVmFYYzFESUwyd1NvMGxyaGszWW5YM2FFRjNsQmJpbVc1OXRkNy10QjRTSVprRHpsazRhaUxGaFUtMmM3a1g2QlloV2NGMUllSUdta2h2UmJQWDkxSlhZMkJocFdPU0NUUm0tUEtvTGZEMGpvT1hLdm1UOWJvcWlvQWJtLTdkSG9laW54NFZsOFM1ZURSVExGMmY5QnhSUG10aHJiRVBxUdIB7AFBVV95cUxPTWhMbF9MLTBfWG9KbFNQcGt2dU9Ka3J0ZUFOcmo2SDhPTGFOYWZ3NEE0RURfT3l5RVA4T3NLTjFVZVc3STlyV2NWa0lITE5qMkY2OG1fZXR6dmZiQ1l1c0xBbVBzN2hmSDJlMmlwMWwwLW81a3g3TUJRNVhIVzlxbEZ2TXg4YnNVZzdKVk1oSlNxMGt5QlZXZTk3dVJHQzJWQklvc0NDZjRaS2hXeWlCNkRhS2N4Nm1GSjd3Mll5LVV5N09QNUhPS0RKaFFON2NnWkN0czRHU1dLWHBxanIzY0V6ZFFHVk93M2x0dg?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From celebrity fandom to government in Tamil Nadu",
+   "source_name": "East Asia Forum",
+   "source_domain": "https://eastasiaforum.org",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlU4LUJwMnBHVEJpcmxLM2ZHNmJjVjR3b3BvVENMeVVvV3ZqSlMyb3Frb3VqRXRhYVJ6Rk9vOTdxMF9BM1ZJWHpXeVRSSllBZDFnaVZxQkdvV3lDRmRkdWJWdkVVRzNJcWE2UjJLQzl2aWNOTW1UNEt5YTRzeGlOd19tU3pONlpLZkUtLVNTVG4?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu plans AI city, AI curriculum from schools to universities: Minister R Kumar",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLTdpb092V0ZaVElVRnhQQ243cW9TWktoX0ZMa2pkb2w3Y0RxM0R6UnZvNXIyQkstTFA0cnFSY2NZcVlmMUljR2Y3SldIZ2RPeDVZZEV2M3QxMXNyeXV4eUc1ZXdSbFIyQWhZWHQtaVhWdDFxbDBGNkVuRUNMRk5QSjdFdi1qeEVXNERtR25hWFJDSTRGX3pjaEhhZzlWQ0ZTRG5oai1lMWN1S09xUjlnR0VHOEdxV05hakFLcjFWYkZXTW80bHRsRkgzQ2VoSjdIMlpINlFVTmxBamRsakFqa9IB7gFBVV95cUxNZkt2bkRJamJiQXBfOV91V0FYU1VUcUN2bXlDYkdfZzFRRlZ6UDZOZmVuWjRZX0d0OWlPV1JmZ1duX1M5S2w2VEh3bkRLbU5lU3BES0dwa3JXSEVIaXU2ZlYtLURkS0w0bzB1cmROZExlRlBmQTJjbHk5cU8wQk5QX1d5OUN4OUVMUFlmT2lJVFJ3R3NiRGttWFVfd0tOaXhWcVFPNE9lY1Y5TXJpM2QtWWsxbTV2OW5Td2pfRlVmNjZUZzVlbTBwNUloSDE3NzQ1LVVLVUMtVnlCT3VUbXdObEp1NGRDWW1EVkhPb2p3?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to build AI city; announcement likely in budget",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORk1jc0xfWkEtS0FVTGkxX05jUkd1dUR2cGdYZlN0bHJ1TkRST3NMajdEelQ1YUlqWVlUSmJDbHhwZmc1RTh5UURpODZSNmROQmZRaFlrWnhSZlhJNWl3WHJMNmU0TGhkeDU3RVprei12eURGaGpLZk5GdnlMYVhpdkoxZHpEMGVwZ01zWE12WGl6Z2lnaUswUFpUZ3g1U1RTcXhpcDRYdHNrVnVVT0lRaHQyOXRJZjBOdGZiNEhFU0V3dWhWT2NOaHpyb2xkY0x0RXFB0gHYAUFVX3lxTFA2RWhHZDZSOGt4bGFxdjd4Q1BfYlN3RkdqVENiZjRxTUVtTUJ1QjZrY0ZmOUhMVERnb29obW9TT2xYZ0RVbGpjZi0zTFI5WVpZdmlvNkRWVzY1dHZfakdaeVN0VXdNRGdGV21idUZqUVhNcThPTmFtTFpBY0sxRU5tV0xJdThlQm5tRGdlUExrS2FZa3lfRlBmM2JsbDh3dkVWYVBxUkRFaHR2THBBc2k0dV9nTFFDUHc2enhrM1dXZ2pfRmZfaWRyTk1Bc3MycXh6ZHMtcThUNA?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajalakshmi Engineering College Creates World Record at AI NEXUS 2026; Honble Tamil Nadu AI Minister Applauds Historic Student Achievement",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUkJacUJXZjRhRVM5aWRHOWFmN0FOZ05KeFd0ZHBuM0otdXI2NVplU2N1UzFiWktNNHl4Vjh2MWhuR0hDb1d5OTFlREg3ZEROR2hBaGRUeGtYMUl0ZlF6Sm03RDcwYnB5MGpTcTBzOTZLc3RqSlFFeTVEYjA1aWZQb2ZmTEthUkR3OGJTbllmTDZqdU9GdTJsRFR3d2hoVHptYUdRU0FmbkxSdmxCQ0I4MXNDdEVvX1NfWFhtay1ydFRteTh6eGU1V2o2V2lqUENfVF96TkJER1RtaEM1b2o1eFNVUkd5X3h0eTdXMTgyOWVVRUtYcVhVOEo2M0Qwb2NjZVdHbXZZd9IBjAJBVV95cUxQWEZtSXRJUWRmZWdiWFZsQWc0VGFUdVBhLVlJNTdneVhObU5QeXZUeDJ1TktONmJ4NllJZk9qNXlZeFRMSU1lZndZaE1TdlVGWmh4aXFxWTMtRWdnNEg1dVV3cUtIR0VqcDJ5X2xHQXlCekk5M3VkOGVmNU5mbkE3bGhpTUdZYUhodGRUdnE0Q3BuTGlvaEQ4bl95ZjdtSWU2WTA1czl3ZEpUTnc2VDNJYllyWVlIVlhhX2hCU2ZGWm9fYWJxYUFrblJ3WWFvUWFoa2lFUDZaZlV4SnZVa3oxbGZhbEFMY0hVY1hjODVxbzQzcUEwVWQ0eGNxRThOS1htU2VUMmpsWDZQUFFO?oc=5",
+   "published_utc": "2026-07-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Vijay launches Nalam TN AI whatsapp chatbot for online OP booking",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaW03WkRaQjdvT0FYS3VJNGZCaFluMDFsX3NvLTF6Nl9ibFNYZ1NuQUdRTl95WG84VjNiNEdjNU51Wk1iNnBCSUlIeFQwMXk3aVJCVWxkWkhMOGxlN09NV3g5QlFRM2hxRjVwZnlsN050bDBmR0ZxQWtRYzRHUDFMaDFNVFZuMl9UTTAtNk8wclJjRTdrTmpsZ3VoRUV4aFhhV1BRZ2t0X21zdV82OXh3Z2w3czNkWC1TQjZQeGl3dFl3d9IByAFBVV95cUxQOUVaaVFHSm5jWjFHandQbGJOOHNmTlZPczJ5S0tndUc0bzgxelhYdktLTTR6Vmhia2RxTGFpY3BQdWpzc2dhdk9rU0pHdndfbHVZMmFuMXFma05uUS15S01pQ3RtbVRQcXgwRjlnM2lrek5UZlRDYW9PU1A5czVaMzVIcGNETnFXYnZSVTIxNXh5RTQwM2I0SlNFcWFhZUNfQXA4UDNCekxjRGlsSjhia2k4REJGTzRDQjdpenY3NTR0RndLRDJOTA?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "T.N. govt. to ink pact with Centre for AI-enabled grievance redressal system for PDS beneficiaries",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZUVZdHpybVlYa3NCZzNGOWpOYnNiN0Y3cFpac1dyMlVodm1mM2ZXUnZRMHJaUXBSdTN5LUVBQ0tHYTBrVktvMkRrWHYzZHVtRzAwSFE3WW5BaC05WmdPUzJiclFxdU5pUFYwTjRUallNX3FTcUxNWUVXOHJxcklUd1lHaTU0ZFpFenhCNW9BVTFQRnVUR2g5dnRLajNiV1BWTE1pMm9ZWGxmOF9abkZfekZZYnh6UDZFOTdEV1A4VU43dWVXbmJhSFRvSU1TX2VYdE5nWjl6c1puUnJUSGxTQU9GNGVlakZUWE82OGZGYUVXMWVFLW5QUtIB_wFBVV95cUxNcGw1eWxJc3FsUTFZWVdUaG9uWkExQXp4ekx2cDJ0OE9ydTdWdTcxNEM4a3ByYTV5dXlPeGpiVFU1VWFGejh2NHNyYUVfV0J1X0xaeXc4UEV5aWx1dWF2NjFKNzVyRjQxeFZacmprTlBwYUIzSkEwSzdYOEgwbE1OUmV4SDdqei1Zb3FBWE1CaWVlT1NZdTZPY0FNcVFtX2FWSm1wSFBTS0lQMjdGQVFuWHJ4WTQwdGd4dXZQZS1MX1RRenVyMXhzR2tkRFUyVk5FV3RONXpWQmJ2YThIcjU2eXBKQnQ5UWoxa0VLRFh2cDlueUFwWmtFd29NdXN0Um8?oc=5",
+   "published_utc": "2026-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu charts AI roadmap for government school students",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXoyZHZVak1jLTZvazI2d084alROS2lUZktsa2tFU19QT3ZmTExzcmlrQWdpd2puNExEcXpFaWg2LU40S2hLanNmQVZzaU9mTl9sX2Z5Z0Q0ZWRtR1Q0NjJKTmtDcjU3TThZeGpMYnZ4YTNWcUthc2MxTHM5NHRmejliMEN6bUc2RG5TQUFjOGpQam9wMVlWbUpTRWdhVEQ4aE83c2V2SVJRcDJfSUtNelBZbEw5NDV3TVBWWkRoY9IBzAFBVV95cUxOdWppQjYtLWxlMnZLQ2xBUlRESmRldUdNbkpaQ0RmaXozeXJUel9hb1Zld0t3bmtEU0dEdEJkTUZOT1U2MTFtekhGUDVLN3Y4eG1SYUJ6eTNJZV9VbXZRNUxGVlRPN1FHM2I5cUdlTm5RQlpobWZPTm5UejYyTGJOdUFNaWNkMmlENnBKYjhDVUhNYlVhOWdlQkVqTFREWUJJcjU4eFloNWhnSDNhRHdQa1JVc09wVDI5a3NDS2ZKb2lXSHVzZWozeGtwNjc?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN plans AI, emerging technologies curriculum for all govt schools",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGNMR1g0NUxYcGZzZUxnMlFNYlFYYkNxcVNoNW9xMTJIRXFZUExRazhpcVhUdE5DelM2akVvSmUwVFloSlVKcDNITDFHNDQwdERDRUpmMnhOZXZfY0tjYWxCVkp0TGdybHJlQS1uTFJoS2Z5YnBOV1ZKd0JCWUg2ZzhDNHI0SDhsalMzZndiOG9ub1JvSWs4SE4wSGZTLS1yLXY5bjk0TTZpMGxUc1N0TmFKNjZRajNSbW9LODRuNk1uRVZkQl9QSGRTNkQ5ZVNBbTIwTWY3ZDJXVWgtZjhV0gHkAUFVX3lxTE93U2ZDdjA4eEM1alV0RzdsbkR3NnpVOGFibzBlcTlFb0xFOXg5bG8yMDlaWEVvOVhDZnlOdGdobUpTWlNRODlORlVueGNpOFpEVEhYci1vUmxhWFRaemQzVkJRT2VYajRTU25yZGd4clJIMGpHYUxQMjVuMExPbHVseDdxbGphQUgxMHZFOFVEcGZ5WmtOdkFsMzNxaFI1Q1ZPUURNdjluZTZrTmlYUGNycDZFUjY0RzNPZ3ZuUWR0cVJtUlY1cHcxQTRWdkZ3Tnp4Qk1VQjFwRU1GNUpiZktXeWVMUg?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Launches 'Nalam AI' WhatsApp Chatbot for Government Hospital OP Booking",
+   "source_name": "LiveChennai",
+   "source_domain": "https://www.livechennai.com",
+   "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OMVFTNno3UzVEX0lXcVNieGNqbnRJZ3RSVjJaejY5SHBrMkE1RTNRUWhTalhNOThQVkNucEk1aXZLLWNqTWJOUXE3aUJKckdhVDQ2X3pyZjJrdVhjb0N6V25ZYy1JSnczem56MFRCVWN1NjA?oc=5",
+   "published_utc": "2026-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

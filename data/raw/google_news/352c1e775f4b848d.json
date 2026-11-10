@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "IIM Sambalpur Inaugurates First-Ever Batch of B.S. Programme",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90cWcyTGFmS2lPejBHNHlKcEY3ZUFoVF82MVZnaGx6RjFpQnE4YnlGY3c2ZnV3UVIxVlRjVDh5ZWczNjRWVDhvb2Vzbmk0WXpRaHlSS0NMTkJiVmJ4R1VfYjdJSW55Q01Y?oc=5",
+   "published_utc": "2025-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From JAM to AI: India’s journey towards inclusive, seamless, secure, citizen-first governance",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeFVYQTFTN3B6aUNXNHNFZjlfQllLdGdsZFRpLWxMMERBOGlhOW84YThoUG9ERkN5VzZEYmtNTjRnUTNuaDB4SVozUXJYMlpaTlJ3ZEd2UFFxbENEY2I5SmZaelpxa0VkYVd0eU9PWjR4SHhyc3JDdDNOQ1N5b1Q4R21lM1UxVUZxeVRUeGpENG9BenBmWjhlaWlYVThObGpiWHBuaUNZTW1TNnRaWjVoY0RrYTRYVGVqVEJwM25kSUtZSnJCUXh2Tmt0VzFXX3ZmNmtNSFJkUEbSAdwBQVVfeXFMT3pFQXN5ZENDejZIb3hxZ3lhcThhRWh1YVQ2VmJxU0hmaEhqU0RoTFczRmhYMXJvWXJRbVdJcXBLUVJBcnk3R2RzY0s5UmNaYk52MFNBTEdjRm5rclU4WHBPV0ZqYW9KeHhSd3ZHUG1QeC1QSE1lTk5KbFB5Zm5kbWZSaG1leXZoTGhMVmJ3akdfYm13MWY2TnFPakxyWE9KbDZaWE5aaGVHN0JzV0JEVERNQjI5UWhIMF92WEE5dFVNckdkalJwT0IwN0JUaVJudGVwaFlTWjFQVHdRUw?oc=5",
+   "published_utc": "2025-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "People propose AI-powered holographic guides, cultural tech festivals for ‘Viksit UP @2047’ vision",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV0dsMGUxTmM2a1hfQVNQTlpwdnVlWmhBaV9FaERpUk11a2RsTmdOTkh5Y0dPeXA3Uk56N2ZOT0dfU2JNRFMxTzB1T3pOLUN6ek1GM3ZCV2RMd3k4MmNTdjZoa2NFdVZkMWR2MlM5eFRzTG92NkhGM3lNVHJjVnZDNXpPOUVDaXpRUmN4aGI2TlhDVlN4OU4yTGhPVmtKa2h5aGNVX2I3UWk2bEY2MlpHdWk2cktmMUU4NS0ydzBSVFhQUEhqMU9WWDlTQ3Y0MTNGdGRYZEtGOXh0eDYzWHfSAesBQVVfeXFMT0x4NnA1YTNVTGFqN3BCVHVSSUZjZDFoeEp6YmdBdDZpdW5MWjVrclpnQ0g4dmhWb05JUWFkTkhEX0ZFM1B3SVVHYVJ6WHFhVDZzeE1EbGN5VnkxQXNnYlMzMHF1cUkxVGI1SnRqcmFsejExRjMwQWRaVnlkSHBFZ0FvYjBFZjlETFJMb1AybDVtVnNlckZKWTF1TVpsM3Rxd0lwZF83cFZhMGE4OWRVbXUwTG5idWQzanQ2MlJJcFlEM1E5STBmRjYyUEdKMktvVTd3c3BoaXBYc2NFUUtOYzR0bTAtREwwR2xZZw?oc=5",
+   "published_utc": "2025-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Will IG Drones Transform Defence Technology in UP?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNks3Tzlpclc4MlNCVUFEdmJrT29BMGxVMmRPTWpUeEYza0o4Nk44ZlQyRmVNazBCZ2ZadXdpNkVZMXJkcEU5WjR0cHJiYUtoNDZYSzJmYmFZY18xRzdINEZJdHlIQ3FoTVB5bm8zZWJoTEtObE5obXlyblgtckR2WC1kcUMtTGpMS0FYcXp3WW41U2tqVk1GVWpDa1d3ODZERXhFTkZZbV9vUUhfN2hYOUJxZzA?oc=5",
+   "published_utc": "2025-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Samsung Innovation Campus Will Expand Six-Fold to Train 20,000 Indian Students in Future-Tech Domains During 2025",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzB1ekVOMzNzVUpGa1J6andtQXZxT244STRiN1BQWGF3aGlNS2xzZjNnYmVWWTlqMDQzdW8yTFcwWGdWNVJDNGcxWWdiaHV3LXFoeDBYc1pDV2IwNWdvYk9oU1dQR3dYRzZ1TDc3T1lSOTh3cUVJUjFhMzRlbThYZUVIU2JxMmlyMGIweXZBd1ZhV0xmTkhiY05tVkt4ZHdXV2I5XzFMMkZ5Nk41Wnlzc2FoNmxJczh2T1FuX2FjQ3BZVkNUWVkxR25TUEFoVDRzN0M1eGRzaw?oc=5",
+   "published_utc": "2025-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "To boost AI skills in UP govt schools, IIT-Kanpur, SCERT starts training programme for teachers",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa1lxNTJpMUpsdzR2SEQtZGkwNk1XeXVsZkptdDNLaDVxSjQ5dUFISnpWODhOMlk2ZGRwbTNGZVpwWDdKeF9DVEpMa3VqNTdDcWtDcEYwQmRnUU5Pa1JvQ1dRQ01XXzVPMlZoVWRlTXJnTXpSME9RRmJiTjRQMS1vNVVLbXVHX2FpZlBYcEo2UFJ0M0J4NjlWYXpDM1lMYU94U2Y2YUxzLWJ5ZGlvLUZrc3ktNUVnbmpoVjZialFReUdrZWxuUWlOLUlYamxta0RIT2NYZjhSZUdiVl9DaFNaQVJEWmZXMVhRRHhNTzFOZGJMTFNYQVJrTEh2Q1nSAYICQVVfeXFMUEJQbTVscVFZWTZHTGUyRXBpQnI1S1F1OWxuX1RTdWhYNkpsMWNETTA5QW9wajh5ZnFqc2hQUWpkQTc3Snc1dE9RZUxrMlAzbHpZdXRrcEc2dWpLSXh5WnMzSkpfUVEyYjVsSUxObmU0anhBMmZKMVRyMVB4dWlUMDFwMThZUVVJVUNoY2dOalJyRUNjdHNzcXB2Q01WYmd0RERsYmlaTkJMcUIyUXhvVDVuUmVDRVZFelByM2NiQkhTdXpsenRzV01xcWYyOFRacWw3V1l5YmJkd3k3Y24xSmlZRHdydzR3VThEVDA3SmZNbFEzdzYwZnR2ZDRYYjZ3VUZn?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "WATCH: Democrats reject GOP funding bill, setting up government shutdown",
+   "source_name": "PBS",
+   "source_domain": "https://www.pbs.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMEp3LTVwckJjRndoZHA4d0REeWNwZkZvX3RPUk1OamdOaEdvdnJGRnFwYWVoRHNwdFcwWThYeWxBbk01RjZ3ZHFJZElMSmpGWF94NW53Y1RjWXpNNUsyYmEwN1dFTEZjMElaSVRrdEREV2ZoVWtQUlN4d2J4WEt0U0pkeGdxaDQ4d05yY002a2MwMjJ6QjI0bXdrZ2JjbllFaXdaQXdxUUZmb0Q0dl84c1hSdWRidVZPaFljYlBpc29sUmc?oc=5",
+   "published_utc": "2025-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hearing Wrap Up: Government Must Be More Transparent About UAPs",
+   "source_name": "House.gov",
+   "source_domain": "https://oversight.house.gov",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2NfTnhJWmJXazd1U0hPbUprWEplelRoU1o1NDl0aFZHY1BLVzVhTzRkVjVJUTRXV1VTVmhoRHA4WkJZVE91Y21yX21TVDlNbHhKR0FMVVZUQ3JtRVlDbmU5UzFCV05MOTRXY3RWYlhnUUFDQzNMQmxjSXpHNXJjbm4wdi1wSklIN3FlcDdleEVvWUI2MWlQdFNaUV9WckxF?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves ₹1,296 Crore For Road Repairs, AI-Based Monitoring Introduced",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXFrNzlXbmdMM1o3a1lORWU0c0dLMGUxODlweDAwa0wyWkFQTHUwc3FjUHplX0RkbUhfQ2FNRDZyLUhmRnNLTzhMb1BCQlQwM1l1dS1tWk9oUW5nZGpVNnQ0ejZjbUdMbm44aTJhSVpfR1l1LVljMmlrd1YtZjBaZzhjSXNHejRaY3IwNk94ZDVkREV1NnBtYUJZd0ExSkNaWXNNWl9rdTB1MHd5U20yNTdfbjVuUDg0eGfSAb8BQVVfeXFMTS1TalczZzIzOEZxTmxjTnVUYThiQTBzNHNpQktDaTRIaW5RR0R4bE53cmhfV0I0M1hlNWp4c0tORE9LV0tzT0xiTzJmRkZ1TXNVZTNjN0hBRjNrUWVVcnFpbVVhNk1xS3lhNW1wSDVLNzk3WTFPN1VRSFFRNUdHMWRiMGt5LURCZmJhWmNUVE45dkQzaTItSVZEZFIxbWpkTFdVaEdpcUdXQzhDTlF4cHl2S2p0TWdta1NiOWtUeG8?oc=5",
+   "published_utc": "2025-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Govt Enhances Education With Transparent Teacher Appointments & Training",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVF96LWx6cVNBSnhsUGx4WE1mWXU3dFpROHBnX1BkUFlqbVdrbVJHcnpHWlZXNzk0bGQ1dHhuTVlFVEJidHFyWGhsQUxXdEJlT0FYa1NhN0tpWE9ORzYyNl8weVFfYmtxMXhjOVVKOXNjN0dqTHFobEotTEQxRnZtSThQcVJEQ3JGXzlYeU10dm11aDRYUkJ4T3FDMUFoNW5MSUY4eG80cUI5RTVxdzF2TGdsV0xicXhnNno00gHAAUFVX3lxTFBLX1hnbnVuTzVDYXRsX1JYNVdJWDJnc1NNVkp2M0dEZklRcWpPWXBzbUZrbEZlc1VPTlA1ak04NEpqRmJZY0REY1RQSlBZQmtUNjhuMVlyaE5MZzNGcTg1SzZ0c0wtbjZXYjI1a0FyUElidGpJc1FsYmpBY3BCWGYzZEJFQzZfbUZMdWI3WGR3NHI0NnRORnNLZE5IZGZCODVVWHRINUxYcnZYak9VTzgwNHVlQ3RkODByMWtnYVhxRw?oc=5",
+   "published_utc": "2025-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

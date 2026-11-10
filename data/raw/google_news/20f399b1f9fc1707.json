@@ -1,0 +1,21 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "Henox's edge data centre launch marks a milestone in India's digital evolution",
+   "source_name": "capacityglobal.com",
+   "source_domain": "https://capacityglobal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNblJveEVEeThBMDVMY05tUWk5aEpvSzVKekJzTVNRU0ZBeUNFYy1wdWZoSlpGV29COTJDNzJuNHRoZmdtZGhHZU40b2xMdno4dERpaEVzSWR5c2FYUEF4SGJNeTFOaFNHZEh1OGZvVEZ2X0xVTXhZQmJta0I5Mm92RmZZdnc3Sk9mMkd5aUllNGtZSmxFRHdNTWpOUXVUdk5IOTh4SVlkcGVLc0tvdkE?oc=5",
+   "published_utc": "2025-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group Plans Data Centres In India With $10 Billion-Plus Investment",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3R4dDVFaUFLbEdHNTZHdVp4ZW1GMjhlakRrTkFGTXYzV0wxUlFvMndTWWQ2NkI4Nm1BUmJOTVZLVXlxejV1aGNHQnhLUlRNUjNtZWh6YnNGem96bWVfVFQxZmlfMVpEaGhtZkw2TUxVMTZVWm80ZWE5LWhudXV0TUpVOTktSk9pak9ENnN3LWhaQWdEWTIyblFucnpKQUFHX2NqN0RyR0NCY0xHVEpfd9IBuAFBVV95cUxOTE1Od2ZHVGdfN2RtcWlrc3ZpaFFmdERHd3p0cThPMDJQYUh2MFZyWVNkWG4yVXhmb216UERjTmdCZ0hzNEZPUGQyTml3VFJROU96cDV1N2FQa2tOSWlOSXZheEVrQnlqVEo0dmRKSE5kc3lCNkprRnhjRzVCdDdWQ0ZrZml2dW1hZkxUSWUtZTR1T1ItMTQtSWJYN1laby1uZU01VjhoOS1lWG5aTEdsM29XM1NtNHZt?oc=5",
+   "published_utc": "2025-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

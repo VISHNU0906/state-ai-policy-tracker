@@ -1,0 +1,53 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Kerala to set up Rs 40 crore twin AI centres with Centre’s support",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDZqMmRtOGpEdDVIc2NfQ0hDSThCTXZFb1hCQXR2UFF3czRnaTlWSGZLc1VvSS1hT001cmxFM1RIelduOUZRM3VDNjhodDJsb0l4b0NhdVZwWXpGU0ZrVV9ITFJqd2QyVmZ3QUFlVnAxMDg2ck9zWWo0YW5vYnpPX3I3eGhKN1Vad1RPbk9ldUxMcUtGaEdB?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data centres & AI: India’s strategic imperative amid geopolitical concerns, environmental challenges",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM0lOTV9KNFd4VkNVRktaVkdOYzByMTVuWDhJM1BPVVVEYlAyWkJtbjUzei10R1Z2TUNaVjB6WkU3d19HbXpzUkxndjllSnVUd3RvN0UzVFAwRUVxaGFFdld6VS1rTm9LdWxXUEgtUm1LS3RTNXFKY0RDQ19HUUszZE9KVHlPT0NHdG9aVmFFemdPYTVWYWthUTlzeURYNlFwS2ZVQ25uY2FyUmxaUVg4TnpmYUhvZ1lHS1R6QWZha0xrWm5LR1lYUng3TktmLUJ5S2hIYXlteGMtbjVQMDlDTlgxRm5DZDViQ1HSAe4BQVVfeXFMTkY3d01Fb2QycW83cDJGVjhCNzhkc3FhLWxUa0dWejJsV3pGNzJRRnpkUExjN0JJSzFxR2JQVXNfeU5JekpoQ1ZvWGpVYl8wNTlmMk9QVzk5X3loTnZocksyek1JTzl1OGVoSHFTc1k3ekZfMFFYOHcwMllMamlfMG1MWjA4NU16b0FaNEowbnVuOVpwNHAzSG94V1dHTXlNVDlKYlJzaU1OaG91bzJYWmJ1YnRHNW5IRFNPNF9FY3U0OHM0TEdrQnUzMmtld0dlNEd3Zk5KVFIwQURkWnZ2NFRPSTRNejRrUmlfVm92QQ?oc=5",
+   "published_utc": "2026-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Creates India’s First Dedicated AI Ministry in a Landmark Move",
+   "source_name": "Telugu360",
+   "source_domain": "https://www.telugu360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmxRaDJPTUtVeFVPUWx4Zzl0TUtnakdSeTR1UDgxd2hmUWF6QjJKLUlFUkVxZzNuR3hPMlNsQk5TUFRNbEhvU3NkWW1ic1pMZ2NvNWhaZmZyTC1EaDdqaDdVS1dzcmVLcHh0d2J6eG9RSkVsMV9YMmdRVDFaN0Vnb2RjWHhvZ2JNajI1UUt4Vk01U2ZnSFdKUTFmMA?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala first state in India to appoints Artificial Intelligence minister",
+   "source_name": "Gulf Today",
+   "source_domain": "https://www.gulftoday.ae",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVV9kTDVPZFdlelpXZkhqcGFKNnZmN3JMOF9XOGV1ZVBJYmtlSGY4dGlBNk5QQlFieXNVaUM3RXFnaXNMZlJXV3AyUGtxbm9XZmRJbnM5VktLY093TVBPRFpLa1hIellyMnJiaWUzbW04NHN0SUQ2WlV2b1otZFM0STFoVUMzSUJtSWFVckY1OEJSdGlSeUhuSmhVa3pteVl0RWstVTJRMGhnc0NuYTZ0eUc4UQ?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP CM Yogi Adityanath proposes data centre cluster for Bundelkhand region",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPazdIN2dwaFpsWjRTYW02M1lXOWJmVm9PME1BV3Q0a3hIMWwtRjFWTHRhVFRlVTBGMmNxMU5VVWdWYWVaeE9MMjFJS0Zsd05NdGlFMlgtclVlSVc5VjEyMmVzY2p0YmJrZWtDUHVpSEVzSXBfUE0yS2JjTUpybERsV0JqM181Z1BETjBsdUQzSy12QVpBeVJBN2VhclItNHVyZHZiSmlaLUtyby1vNmh1RkxQWUdrdDJxcnVDRzl3WTdHcHA3WFpEU01hTHZ5V0luVzNxYVd6cl9pMFJi0gHgAUFVX3lxTFB0a1BMM0MtOWpIZ2RuaTlvQlZ2Mkd6TTc1S2hvdnRiZ052amNNZXVnTWhYUHVYSEhyTlRlWjlQdGd0SVdKdjVZeUpPOU9RQTMzNk1WNms4VUw1M3BULU42WWE3QkFtS0JNM013Q3ptV1hDemN5VW05azNnTTBVaGZRUXJlWmtDUG9nV3dTUXVqVFZNcXhxWDBsckZXNHhCNVdraUNKRGRTN1RtaVNWamJocnBTTkFWRks1R3dtZkFlSUR4NTNMa2R6OGhGQTU4cTlpYWlPcVN6MHF4eElTTmdj?oc=5",
+   "published_utc": "2026-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan clears new industrial policy, targets semicon, data centre investments",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXhEWFFMUGZTSHhWRkNpcXltZDh3UThHSERvWHFua2xDTHJ5LU5VSHpwWnQzMndUUjNhaDFhTWMzUmQ1ME14clZPTXEtbUN5YUJ6YmhSTm1BeXFWWUNCR3REQmoxTkttRXNzMmwtZW9udkk0U1BiQ3cwc2JYWnp6RjBOY2RnQmdJd3duejhXRDBOQU15Qnkyc2R5cm1KdU82MVMwMGMyWGRqWDJ5RWMydWZncmF4V3NUWFNzenBTaFMwclY2d1NfRGQwZk9raTMtMTNYZVFtbHdjNHFTZXZ2YV9qRmNyLVhLOFHSAe4BQVVfeXFMTVpURGVDMEh0enBOZ2dLQ00xMGxDdkFfaWdaMV9PY1M2RDNMZ3pNUUhFY0gxT2pQM3czQzVyZElWem9pcF9ycmRCMTZqU3J0MXdjWHU4QTN5cGd5WHVvWlFValBRdDI1OVRRT0pXSU1rdDNXRDVwXzZIbnV1RldnM0dXQlZ1UHJRcmVfTjJkS1RUZEF3Wnk4TVVnMFZabWVMWEcyYVhjZjhYWW42U3kxX3Z6UldqNWVrUHYyREJTT0N0dHRMOW9XTG5UUDFWZEoyM2gwTENZdnh4LVpZdEY2U0hPVl9PS3BhaS11aUprdw?oc=5",
+   "published_utc": "2026-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

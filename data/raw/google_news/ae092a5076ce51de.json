@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Madurai to become ‘Madur.AI’ soon?: CII submits proposal to TN Govt for ‘AI Centre of Excellence’ in Madurai to make Madurai city a tech-hub (Part-1)",
+   "source_name": "Lotus Times | Madurai",
+   "source_domain": "https://www.lotustimes.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZDhqaVFuSVhtU1JXZUFGM2FLSU5pb1RGTWJVa0syMzQ3cU01U3hFY2QwY1pPOWZNTFlTMk1BVERjUXBVb0d6Vzl3UGQ1YjZiOTc2U0ozaUljRUpneUZ6Y0ZyY1NyNDkwQlptNHpJaVZBanE1RHpJaVctaV9jMzhsVThzQ1BvWS1fOVI3ZnVvMk0tZk12aENVYkk0YlpWbWh6b0pvNkZaRjhNSHVJcWNHcUNZOHR5a3h5WEx4cGlVWDNPR1B0ektJdWo3cmFzZDAwQVVmeHlVYlJfZmhpWWJkaTVFQzFwMUFJbWx4c0VYQzdxek0?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sridhar Vembu asks how Tamil Nadu lost ₹70,000cr AI data centre. Blames DMK rhetoric",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXBhN2JhOGZyZ3A4Q1l3OWU1c2ZoYzlyOWp2SmVLR0xnWjFld0xaOWF6aU00eDRaQ2M4elNiOU5NREZKMGZQMGJ4Q1Nmbnl5UkUtbWdQVUZLMGxJQXhHdlg1UXFNV0t4NE16U3E4Z0Q2a2VqQjJvckFHMm14UnEwSENqdFM5YjdUS2YzbEs5NFV4LS1nNXNoeUhsS2s1V2NSTmQ4VzdDR0tFenJPcVZsLXRxOE5Gc05LeDRYdExVeEtBYWF3emfSAcsBQVVfeXFMUE40a0dNRnJrakZpaXhkVmhsSjRaZUpPMFVjbUJPVm1XNFFUaXRnMVRZWEVUd2NtTW1kcHNWSTR4THVKMVhHOFE2N0xrYjZ4ZUhUbm9uMERyX3BJdXhyNVNuSHlOaVlIclJtbE1Ua3pheHZ4WW1uSkNjYzZBQkFiVl9ZM09URnFreXlJRWhxN3c4TXBQYWs3M3hJNnpKZWY3d3NkYng3aGNHS01zb1d0UmZaUnMzR29kd0ZRMld1N0s1a1RHa2oyWThNOTQ?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Railways approves Rs 4,178 crore projects in Tamil Nadu, Andhra Pradesh to boost train operations",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYjEwU1h5OVVzXzBQLUVNbTMzWHNEWHpDMGFObVg4cDZxdGVMdnp0MjRSRWtGeU81VXZRd0d2WnNVLUtvSjZjeXpQcDVtUk0teHhndDd0Z1NPc0VrSmpYMUJQZFVSQTIwS1NZN25iajJRRkNRemd2Y3ZITnp6WnpsTlphQThBZDlEY0dUX2tmTmllOXdKblZSdm1MX182aklySl83YnNmTTl3c0tJdndhVUFCcFA5T3BzMnVERlZnWUtyekhRa3FQRjBwSHhocWU3NGhSVTFtUk5UYllteXNIbkEtLWNjQ1nSAe4BQVVfeXFMTzZaQkhzbU92UWczUjI3OXBBWFNaeHlHYzVfLVFoWnhnX2NYYmM4UFJnSS1rM1J3OWFNbUw1Q0xRYmtMT3JWQzU2a01EYUdfMGVVb3U3ZUgwaGhqOV9razBIbWVjMEVPY0s4Zjc3WGtOV0JPbWY3SUxFeVdIVkY5VVVfNG5Da3E2Z25jZUFGNlBKWGpDX09jOFNjV0k3REhTWldkZVJVUVl3a044SExRNFlkbXVldnktYk1RWGo2SjRia3AtSExiYThCcEVrSGlFRzhMalJLbkwwNzRqaVNkUktadVhBc3VVMEpCeWcxUQ?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: AI to help track status of CM Helpline complaints",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckc3bXNoMlVGVmE5OFNiR0lrSjdWem9QSGh5OVZCZDlISm84VFB4SEJQY2JBSGxZVGVCQl9uR2t4NVdVQklFdXJVY0xQcFgyb2tNUDRCZVNNcHBmMHdhcTZibTlhN18zSmt3a2V0R3pmb3gyQUNncjYwQmotU0VmVWRTYlJxN2lVaF9Ca3NGS252Z2lJM2tFSXZEVFl4d9IBqwFBVV95cUxOR3R4VU9iMU9LXzJlNVctM2dzdERobXNnU1pmOWE1bEluN0RKWC1IU0lmUGpVdmdLMDgzU1VnTnZvbUJONjJrSUxNeFJ2NF9HeEcwRi1TbG0zX2FLLUdFXzZBa3NUSVhTcEltSU9kYS15YzhDUmVCa3VmM0pBQWoyYm5NQVJyRmtYWThjaHBCVGVnMGItTkJ0UWdUb0hUS0pHZzhjVVBOejB6T1E?oc=5",
+   "published_utc": "2026-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Announces ₹70,000 Crore AI Data Centre in Future City",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnA0NS1iZHNhRDBlbTE1bnJiM0FveE9YUXZBUTFJci1qZ2NwaHhMTm8zWC11QzhwVWVNVW51UlFWYTZBWENXMVJzdmZPYmI4NFlOSEw4cnd6c1ZUVU9DaXotejlIVmJLRU9nQkllME43WUFrS3hqZGVjSjRCekJ5QmpWa0xXNThXVEdDeTA2bTE2YUFUWjJtMGxLejdjTXVjQ05VNjFJZ1VubnpL?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nabfid sanctions over ₹3,000 crore loans for data centres amid AI push",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3I4dWtlSTBJTDV4S2tsWDc1VkhHb083dHFjYmMxNGplZF8tWTB1UFFoQWRScmN1YkVfTDFCU2dZRlJmQm5sMGRrMDFpRkNVSjVvUzBYZk9ESWtqT29Zcmk3RUJnR0JVNi15NjNJWmM5c0xQUHRFZVM3UnlsaURTdWdKN29RS2pJc1doTHN5WUZhX2xLZ1g3UEV6WHRxaU9SWk5kcGpKNEVRN3FtTURlR09KTG5fUXJxQ2ZJVXkxVGRPRV9LbmpaTEtfTkNYYVljbFHSAdcBQVVfeXFMUFRraUJXdjVscXlnYkNTZWlxRm5QQjktY1BCREp6Z0V3VHVhUVpTaUhSUkFLcjRjdmhOYlAxUlhNLWpwakx2bHlpTXlfc0tBVVExZXZRZDZINmZ0dXNQNEExaEcxRlc4ajkzNTdGOTduWnloRUhRbThUVllYSFZZaEV4OEFWZEtBb2lSZ3VRUTlVRUJUZG1NaDdHQ1FYMVNFQWZfRXd0eVc3cWZsYzd2V2RXbjJSZXpoNVFqTzNJLUJ3MVc2Q200Sl8tZUt0TzRLWXVhWWxocW8?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "C.N. Annadurai",
+   "source_name": "Britannica",
+   "source_domain": "https://www.britannica.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2anNmSDE4TTAwYUxqMUZVbDZHdWZMYm5leDZEQkhBVUQ4WkxuNGUtdnJZcDFSVmpKZFVuM3I5bW9VWHR5NXFtTWtEQXFsbmR2TUxCWkl4S1RHNGdobXVB?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Tiny Little Stint Arrives at Thoothukudi Wetlands | Videos",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUVFSm9pS0prUVZyLXVDbUEwTFlUYl9tMzNTeG5BWDFnenhLcEkyLVRrTlJlMDhUWHVMempGTWxSZXVEOWcwMGVFa19jZ3g4TEZDcDlWOTFVWndlZnRpY0M5SzRWekNtOHVGY0hlcFE0S0gxU19jcVd3TGQ2cG1wNVBFTHBkSUFnZjg5OGtudUh6MHk5TkhXcWY3cFkyRWxWdENWZWJUQnNkWHdLZ055ZkpFeWtSR2ZuMGZN0gHAAUFVX3lxTE1hU1VUa0UyMHF3ZmxFa04wQ2k1QTFCNTAtU1dCZmpGQVJ0VXN1VUFWbDhaQU5naG5mbU9RVVY0SlY0NjVBNlh4R3J3MEtpQm1pNGFvVWRTSEhqRFYwSm5McnkzQkdCakpCNENaN1ZzSGNwbmMtVWdQcmFNeXhTVzM1VElkNnZFVzhKbGRlMVNJejlmdjdxeWN6YVpKNkZ6Y2FBZ1NZZHQ5dlhrcmZBdThDN2dEaVBfbW5qQlFuXzRPLQ?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CII submits proposal to establish AI Centre of Excellence in Madurai",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMzRrZ1daZmR1NXVIdE9RX2RaYnpzU2pRa0lEVTUwZnNuRTl0UVQzOGtOaUw2NXBpYXVIT2cya2FaVk54WmVJWVdBTTM4OVlTa0htVXgycERMeEpHai1xZjNHSHpEcVR4UURpbU56Y2M5MUxqVlhBOHdkQUxjdXdnZFRFRnJCZWhRWEFuWU5YeGgzWTFZYzJKSnotd0pJR1lycXdOaWs3OW3SAbYBQVVfeXFMUHppYVp2RjBuc3lUdTVsbEpHUUNlaV9rRlRCTDlmNzZuaTJyN29wSmZRU0M1MjJlUW5nbjVjamEwZ1ljYzFTVkxjVC0ya0VPRHFXa2NsNlBXVGs1VnMxMTlTd0ZTUkc1bzdlWG8xaktDWjFLTUp0WHdSWXJpaHhDRnExYllMbldjbDZlc2EyVWh6Y2tzZTh0XzRfaVowVHNXbFpPeWYtUm1RVzU5MFFQTWItOThWY1E?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

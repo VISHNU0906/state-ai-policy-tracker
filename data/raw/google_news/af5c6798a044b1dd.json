@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "AP govt. moving towards AI-driven approach to governance, says Lokesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWxYN0FrQ2pKWng5OVItYlVqaXp4a1cyVWFNb3l4SVN6Z1ptWERrdUUzU0U1UFJmN1hMc0oyZThhTXo2RERqOTVOVG1aQ1E3REkxcE81a0lJRmtHcl9Na083RGttTzl0VXVDSGprbnRiR21EVVlyM1B5Y2VPejBocjZjOFZab3VMTm5XbjhQTTk5MHlBOUd4Vms0MFFlcWdyZ19pdWlXTi1QTV9fbjJwalhJY2RWRzM3c1JyNlJGWk5Ld21OdmpFcjNZTFhJQ3Q4UkdJU1kybnDSAd8BQVVfeXFMT0dMcE1jUno2RnVWLTctaUhWOEUweERoUV8yVnVUa3lENy1TVmJGZTdBQ2kyOHluYzE4dnFrVkotaFZwVUFBR2NTMzIxM0tRQlhacC10T2RnWmJjNGk2bnZTYThwb1FoOVVacmlUUnBLT01OTEpYS0tfVUZKaW53LW9CaUhLd0U2dEpvU0hFcVYtTG42a3piZmVOUVNfNzNDWE5BMVhlbExHNURDLUM4NDctS0d0Zmh0dUpDSG80SzRlejZUbGpyRHVTUURveTVkbTc0ZnF1QW9WSUU3RmRoWQ?oc=5",
+   "published_utc": "2026-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI boosts care in Andhra government hospitals",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1RZTWZ1OWZ5NFdRRUxtMWRzbnJwVmdzNUNfeVpSQk5LNUJQdmcxODZKd0VYQlBtelY5S2tiWExuREZNbnhGdS1wcVUzUk5GX3ZsZElJZGdYcVBBQXhUb1hSZzE4S2pNUWxORGhmVUFlQlFuZUZDOTU4TG1WXzhaNjF0NUxMNUx2cHBqeW96LWp4OXJRRDJuSFNrYUo0TlM2WHkyYkZEUjJZT0FXN2VkbHZn0gG_AUFVX3lxTE5lZDFtU25tSWZFRlNqZF9oTm9iUFRBZ3hnb3JzSEZTb3BXYlA5OXprM0czNk1PaDhKX3R4eUstS2dnaWpKeXlhcTJPelgyZ0dMSTJ0UEUzREJobFFIVDV0SnRzWUUxeS05LVhrOXBiU3RFdEtibExKVDVKblVxWll6LVNBRWJoQW1sTEI4bk5qOVVER0NyVTJaUWJHSC1fUHVqSExIZGdoMi1nM08zOFluTy1rbVc3NnJPZWRtVmd3?oc=5",
+   "published_utc": "2026-03-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra cm orders use of AI to boost Govt efficiency",
+   "source_name": "Daily Pioneer",
+   "source_domain": "https://dailypioneer.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1VxNFUwbW5yQ0loSHdzbGhvWUN5Qnc0a0thV2MwNE5yVDJIRjJvc1FzQ25TWFZub1JzQ0FsS0toVnV3MG9BMzFZemlDN00zbWlPcjJZNWUtMEg5Q0tDX3ExUVpuNm5ReG9FZ284Z2M4OTgzX3dQbGMzcnFrZkJzZXdRMU1XVC1uNXfSAZcBQVVfeXFMTUdyanFaN3BaWW1yTG5TTzVOSVhiUUY2UVhmc0hCYjhwYkVUUVhfZTJ0azFnSi1zYWdhOEtoakZYcGtGUzVYanBtRlpZX0N2MlNFa0hQMk1aQWFjay1IMHQydmxyb3FLMzcyVS1hSG5raUNZN1hEb2dOWjRha3lfU3FpcS1fOFBZZ2xKZXN4UTZ6WWQyTXhFVQ?oc=5",
+   "published_utc": "2026-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh pilots AI tools to screen TB, anaemia, cataract at primary health level",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1BOTXNjVERURUE1WVh6TmU0QlZYTkZVZld0bHFoT0wtX2Y2bXQyR0NIS2Yyb1F0VHo1MmFkc2hFZFYyWUhRTHpKSHF3eVBqTWZVWk9kOHROX3A5S3pkVEYzemJvaG1yMlJBWEM3U1BTY0lmdEpVaFNXYzg0Ym1qOUJHT0xGTzJ4QnA4eXpMV3A0bXR0dEctUHpxQnB5R0F2NWlYLS1ycTBWQmVYUTNhUVd6U1lERjdtS3dkWG1WR0oxTE0?oc=5",
+   "published_utc": "2026-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Govt To Launch ‘AI Doctor’ Across The State; Free Digital Health Advice For 5 Crore Resident",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQThfbVEwR19wVm42SFltSEdUTE9ZRWhQWlAzTFZyd2l2U0g0UE1Wd0Q4dlBpblhzSWpqZ2JZTEh3V0pJYW84a3A3aDVhM1hoSjR1VGhNLWU2QzIzclVUOVI3SnBZbGNBbWliZVJQek9FY25DWlJodVAwWjZNanhiYVZvbTRpZDlsY1FUY0I2Z1FkYmk4b2NQYWZ5M3JONlpfLTh2TjRNRzcyR0dZdURnTnYyejJJYVU5THJKS1RBSXVGZTFvbmRLZHBkNVRweUlFRTJQR1FxVkxnUmNROHRuZUNwZWNXMlA3cTJpc2tGUTdYbE5UZFF4Mk1ocmRzODFPU3pn0gGIAkFVX3lxTE0zNDJlNXlzNGt6TU05aTlYVllkemVtcjc4SVhpaHdheDNHejEycGkyZHhSbWdITHdzdVk1ZUo2UEJ1M19ldWVvWFBSeHcwUHBQVzJzTHl1dWZHekdEYTFzWDNOUGlRTThVdEkwV2dHZG83YkRVaXkyTERKM3JmdUpBVEtWenVOR3ZDZlNEVTRMckdxOFVUejRVUGlkVExqckc1d0IxVzVXRlctZDd1YnI2dFFOZDFNaTFBdlNSbm92cHM2ODBlbV9JSVFXanZMLXRnQ0VzY0tJSmgwWDVXSUlPU05ZNERzbENKUTlrb3VvcmViRVg1cjEzWHl0Vm9RUVJrRldDZldORg?oc=5",
+   "published_utc": "2026-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP to Roll Out AI-based Facial Recognition for Student Attendance",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjFwMkh0YzR6WThjNlJIenl1WE1RcE5laWx2Z2ZrUE50NUV6cHZYa3lVbUx4c3djUW1QUzFId3c2d3NrZUFOOFdQM3hWVG9sTl9VNU5lTTV0aE92ZXJDck40X2prUEcxNGtmcUY3S0U1c05icUxwY1BYZndTX001STVVWXZndDduUG8zZngtWkNfS3RSUERvd0NKbUJxUkJOWWcyTk5Zd0lJRjJwZk8wX0hKZWloS0JlMzJzZUN3cU5TTXA3N05UYVBDSEp5cFlrM2fSAdcBQVVfeXFMTk1UUWFORktEZGM5UlRTRkZob25BdXFpR29xLXpUUUZfUGFsQmhnTW9IQUdDczVNejVCbVdVQ0NHX012UkIxUlJIUXFweG9fbU9Da3RtbWVuQkR2cFUzazE4cnZIZWtGSkdPU1NaRzdDZ05zUE5nUk1qcHJOMEwzVFNNbDhPd3FxclByX0ZCMVI0RlFTdWRqRV9NMEQwcnEtOUNqV0RRWktBWTZIaksxOGZWRUl5M19STTBLX3l2Ry1NMlpWS0pscXl3NnpIQmZvbTZxU2RfdFE?oc=5",
+   "published_utc": "2026-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Integrate AI to strengthen governance: CM Chandrababu Naidu to officials",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeGRsZWl5ZlRLUk5QV3NzTXpycmFkMFVLM0xWdy1vb3J3WGd0aUR4dldYcTg1TUlxdlMzZTdvYkZiWVhzelJhS1pXSk40XzB6LUhDQ1M1aWtDdDRONmtTRnhFZlhqcHJGY3loX1NrLTBzWEdROGFXVW5tTVJmaDl4T0F1RlZuS3dPeUo1c0dKZ3pDZXk0SVRYM25kQVFTUVNQZlRMd0ZmNnpmUGZRN1REMXgxVkt2MmVJWE40Y3JiRURZOTI0amxqNmh4N3paNFRQVC1Xd9IB4gFBVV95cUxPM0cwd1JtZWN1NklNM25uM1dfMGJpbVZPMjZXQVZMQzlNLXVnNVUzQ1B6NUJfZGhPNkN4QjBEVVY5SERwdnJtQ3F1VDUyU2JiMU9OMGJUV3ltZEdNZ2Y1MzZrV3JIYlRsTmlRQmdXaHBKRkROMFVEczA2VlppOXRaQ0dQSnJZRVgxRFNhdG1pdlYxLVllYXVwdVFwTC0wZ29oQ0dObzN0TmowV2Mxa0pzWHdQVUM3TGhfeTFOamw2U2VfUHl4WFZuSDhjNi1FUFF6bDZqclh3RzgwQ19OVThTT0lB?oc=5",
+   "published_utc": "2026-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RNIT AI Solutions shares jump after winning e-governance project with Andhra Pradesh government",
+   "source_name": "Alice Blue",
+   "source_domain": "https://aliceblueonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2h6NURXSUtTbnc1ajgyYlQ4LU1fek5DUkF6ZnZXNVRORnlSeXZ2cGo2ZTloSVVTQUVPUFpnaHNyWUFGb2RLNHBDdlYyLV82ZmE3LTRwSFpfNkJiLU5IclI5YnBtQkxmSUpDczJBOEIxdVBsS0NlY3d1Sm9RYjRlOGNUYnlnU05BLXFxV2FQS3J2ZmY4eUsyel9pTWFTN0RvYndYQWQ2bHUxbVAyLXc0MFM3NDFzTGpTUHNEVzNlRFh4MmhiNGkw?oc=5",
+   "published_utc": "2026-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BITS Amaravati to be the first dedicated AI campus in country",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdUFsOXp1OV9FcmthRXFQWDZid3hLSzFvbml0LXgySG5CdDdFcHFmTDg0LUExUzU0cENXbUpfMlVYRzVXa2l5VUVZSFRWc3o2c1FBSkFCcFRiZVRSdUdFZ0dBYy1rRllwUEQ2WWVYOUs4Q1pCSkwwMUhac2xBU09DXzljWGYzOTBjX0dObzNhT3RaeFJhRmJTSUlkbFpNM0FuaEE2NlpXSU1JNmJmcDh5YTFlbE9FUU43WVYwenl2Z2NkSmZYekdIU3A0a0E5Wkln0gHXAUFVX3lxTFBuWWNzX3c2R2sybEpXdTh3Rnc1MWtnRHd0OGM0dmliNkxZS1Q0X1RWRlh3M2R5MElQSU5oVVUyd0xsUVNpamFjWG5YS0l4RjM4bkR4cXRiUzhvcHFzOE5za1gwWWhya2lwckxud29tMDFHLXdwTGZjcm1ua2hMbm5NdHFKUjQ2LURETjA4VUdaakhRZEhqS3FnWVAyUlVkZTlkeGhTMV9xbzNtajZMejBSeHZEdHlPSXdTMGFEdGdlbmNhZnRIeFJYVzNfM1Nha2dJV1NQc0Fr?oc=5",
+   "published_utc": "2026-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Be ready for major changes in higher education: APSCHE chief to varsities",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ2p6QW5hNW5lRTlEZHFsZ19peWlQaTUwQ25YWC1JTVJlbmZvazF4bXZuSF9xdGQ3ZlUyZm1WNkkyczloUWp0b1JHWkxJN0RzbXVpb1Q4ek1GTnN6MWRudndtN2tnblhIYzI4emktd0U5N2d5WlhmNzJGemFhaUVQd0pKQzFSeWxBVHZwU0NGeHd2Q3J5Z1pOckhfUVJvSUprZGo5SHdqTmRtX0tBRENEMXg0YXZKNVZaMm81aHBjZDRQMFZRU0wzQzEyZFVEbFJXOGZrMldn0gHjAUFVX3lxTE5PTFMxdC1xbzIzX252dEo3N1c2TFhFU3J1T2dUbVV0SGoyWV9aYlRnQS1UNEtiMEJEMzgzYXdRRjl1dVRyWl8tWXdvaWEwWWo1Ymg3cjI1Y3k5eC1BcGFwS3psMlZzZ2hZd1FvUjFlLWFMbUdBVDV3WHJvRkhqVEdPU1VvX1RhVlhpcUl2aFZKSGNBUlE3dE9aWWRMbWh5aWR5SU1mOGI4X0p5MXJHb0JvSzAwWTVEYVlrRTc5aUw1R3VSNHl2VEZCVXEzWUpJU2hRYkJIYzNjejRmMnF2Z1F6bm5j?oc=5",
+   "published_utc": "2026-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

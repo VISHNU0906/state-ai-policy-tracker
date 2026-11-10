@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "M.P. CM says Budget has new vision for innovation, AI; Congress slams ‘no provision for debt-ridden State’",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSDg0V0V5R21qb2M3OHI0bFBKZHZGY3BCNzk0blh1R1Z5UWItWllTRm9TNG10djJjVXEzVkVhN19NRWluMmpic0l6NEdzMEhtWC05Qm5SVmdXaUFXX2F1eEdadDNJUU9ObWRocmxGQ0dsMmU4ZHRuWVV0V3IyY2tHaUxzU2Z4ODhiYk5LNHZHNXQyUGRCSWh1RFVwbzB2aUJ1MlNvcXJfeDd5Z0h6ZmNkMXNvS3RtaTBaVEdWWHU0ZGdrSElDa2pKOENNYUg0TGZ2VS1ZUjZWQURxT0I3U3h3dV9qY0RSWDVIZGFpWkRyMFJpMHJRZ0dvS1gyMzYySTFQeGJDTdIBiwJBVV95cUxPS0Q2R21WMl81VnlNUFNwVTc3UjNvbElXTWVpdXNpcEVwWWpJYWtjQTdhc29BUTA4b2dlOGYzNk02dUFiX2hwbEVESl9naEw4VUp6dGkydlZBSWtkQWxrdnpOSGFVRVZEZVBIOGhnalBEN1dwdFhKVGVURC1KeWdIbTl6S2RfVTNfQTlkVzUxNGpWLTllODhGVVBqZjM1aE9MNzBVVDNKaXJTOTh0cjh0VjR6Wmp5cGdqWkZsd3QtLVpkVnlUcEwzX3JraFRtaGhfX3czVHdpTGJlN2JLSl8wZUgwalN4T0N2WkVYdjhpN3RvM0hoYjRaLW85MUFrN05zQzVELUowZ0dVM3c?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NEP 2020 is being implemented effectively: MP govt",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONkNFbGhNN0JOZU5wQ0VLdGZ2OGEtUS1IaHlwakhQQ2h6bDg5S3ZNQUNCcmZVRmZuSE1RVTVOdXc4Slg5c1Z1LUFsT1JabW1LcTdrYVktRUotellSVzE1cVVUS3VNa3JjUmVIUTJyeldOVzNOdzU3aVZpNUdISUlzRzlkdXFPWlpnMXRwUUJiSVg0bHRPV0NXa3VNQ29BUHB0VEtUdmNBRlUwdlFaOUUzbmlZTUdKRndyVmZPTThXbjRNNUFJOWpmQ2dVONIBzwFBVV95cUxNNzMwb2tXQld2bUptYnl0aHh6dnB6SmIwLTVkZVYzb3JQc2tPdTFZdWxZRkFYcVYtZnpXamhRQjR2UTRyaGJYUzVpbmZkSDNRS1MtZHc1X09vbDhYOVhud1dUWkhuaVlFRTFnLWltb1AtNGItSVppYWdFSlo5bUNOZjItMVFpekVvNExVaTFSTHlRUkRyMG4yZkYzUDNmUDM4Z0hvRDZUZ1VWd3hkaTNOR1RKWlEtS3p5WUlFNUN1bmJPSmJsb3hydGRhblhWVnc?oc=5",
+   "published_utc": "2025-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh looks to become drone manufacturing hub with new policy",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjhZUk9TUjEwX3Z0NE5Gc3ZWYWhtcUtCNnMxY0kxNGRBTkp3OGktQXR1eGdOME9oU0IxQ2xhRVlBVV9BUW5zcXBpbnRnWjVEclZPTm00cGZHVmtkMkYzZ0JwcHVpZDdvWHpmVjM2SFF6SENmclBqQWNFWGFUX3hEMTJRdFpvbDNCVFllOUxoWEVreE0zSlVUMEwzbHpFTGNOaDBKWEw3TDEwTHdaZnVqb2oxc0JOUTlVVk81aGRxUGdKbGxVa0NLdW9TNWhGMUxz0gHWAUFVX3lxTFB3R3ZlZEExVzR2U2RrZ3prRVhHN1dIMW9SM0F5ZDkwWmxFZUo2WE13MUFjWUV5WXNlbF9CYS1CRl9qTllPMkR2QXhJajR3TU1rRjFTdnkzVHB1NHJobW1TRXBTWllNeks0WjlXdUZvOF9WWDBRQTNWWFlnZ01QU3hNYXdOUzN2LThsQXBCUDFobTFnbkgtTzdUTkxmcEl1Zi1fN0plQjR4Mno0OXNqOEdPZGdMSzczUnB1T1NzWkFpLTJYaTE3aExrR3NmV0t4U2Z1c2pGU0E?oc=5",
+   "published_utc": "2025-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt. Transfers 4 Senior IPS Officers; IPS Manish Shanker Sharma Made ADG, Rail",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclVEa3Y4UTVYd1g0bElwSEkxeUp2Y0N1dEJLRnlQZ2JIcUNTeVAwMEZueTVuWHNvQUtVWi1mT3dfeDE3bHN1OWdtbU1ZVV9Rei1OMy1BRzJpYTYyR20xSWZpdXF2Q0c4WFppeHFKU1NDRlVoMkFQSEhmSmRDZ2poOHRsY2RMMk5CdzIweDVyaFhLSGlHb2JTeTlWN0FkQzhtYURodENsT1p6dnI0RDJNNXFrNkZYNkk?oc=5",
+   "published_utc": "2025-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh govt targets one airport in every 150 kms",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmpVX3c0WExTNndCQjQ5dlFINXhBcEhQQ0dSMnF1dlpNb0gzSGdLVWZZRnlpUWxGUTRIWl9hWEEtbU9TcVMzLXZhUmZTX3JlUnRiVFdBRDd2NElaaWRMNnlrdUpqVFdHYU1pN2xZNEhheXFiM3V6T3NzWER2aWQ4VjJWazY2YkgzUmdKemJ0RDdfSGtYdUtYVGN2aWtGQ1lRUk5faFBod2owV0lGdGdNNTB2VVBvUTY5aUNMTGxjSdIBxAFBVV95cUxOSUVPM09ZeHB2WWpndGNKYndlZ1l6Wm15d3YyX2dSZHNNaXVrRTJRYllYclNEbHItdkh1eWZKSUNlTXBxendvNHlsX1hNal92RmpQRnl0M0kxTEJESVp1eDJscnNMVU84aFBpUmgxTUpoWjBVNGdTcXRoalJOb0JHd1h4a1NJRlYtR1VMbFJlZ0RyQmdFUUZMWGZVakRNcWlJTVo3STZJM3V5Rm5SUThITk1HdVpIY0xPaVZhNjJTN1VJT1Fx?oc=5",
+   "published_utc": "2025-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP to offer 37,000 jobs via MNCs: Amazon, Walmart, Microsoft in talks; govt to provide incentives up to Rs ...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlF0MUVRM1JPYlZsVXVBQU53V2FKTmZwNHBxUUR2WDlaMmxoVTktN2liY1J1WXh3ei1Fc3o3OGhnWGVTb2hxRHBCbG5tSVRZRl9CRDNjVkJlbEZxQmRNazA1SGRJelpadER5SU5xT1FOU19HX3dwUFJEYUpRZ2FGZ1h0WjVNdmoyMjRGOTNuVmMtNkJa0gGaAUFVX3lxTE5SN1NvQzQzWURaMzJLbEJKaGNUeDQyVGtUU3JnUzVjai1iWUNPMzdpaWFHUk95RjBnalI4Zk9kcGQ5dXZtdzMybV9zTjczRlJWSEc3el8wVDdVLXpUMXZRYnF5aDZKQUt5N1RHTk95UG1jZExEcnpyV3NYYUtmejduNE9PaGlqekN2MjJfUGlTd2xpb3cxOGllT0E?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meritorious Class 12 students from govt schools to get laptops, says MP CM",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVUtUM3otRzBScVNwTVR2VWl6d05SSXdHWDZ6bXpBWFRXdXp4MVFCVFRlTzZiUHBkcHl5dWdjdVV0cC0xRHpibWhHYy1nbTVpUldRcHl3LUg0alFwVzRVZEhMUEZfZXZhMTZMdkdETkNhOUpVTF9IV0ptenJZSy1TNXhlVm1oLWkzUEFXY0RYWjVFWURHdzFmdGJ6RmNoR1Jwb3hZV0MzMC0yYkdfSGtMZ0gyR1NwSzluR2NuMW9vZ1R4QU9BTlVfS2RSY1MxaDdaRUsyZHpsUkdueXdEWU5DNFFDbEdqUFpsQ1hv0gHvAUFVX3lxTE1PRnB4Ukx6ODhGRXpnXzJ0d21QMUVkc0NqdW9VWHZOalRsX0ZWNEF1M183cWVjZGhyRGRzV2ptdVd6bmVWamg1WmZmSHZIbnFXZEN3S2xKY0lMNG1EMHpZQWxJV1FqNnI4dF9RUG1yYUFtYzdXa29md0txQ2lyaEg3TmxFRGEwVDVFUVR5OWFObkdFYlpIbDRYQUFuaS1MRVI5VXMtdFJPWFNjaEEwd0JQODZyOTRlSG9ndDNaVXNOdFdpclcybzF6TkF2UnpaM2NySHVIenp3cGVZV0JBREVlaFI2ZWNrRmJKNWlOaElv?oc=5",
+   "published_utc": "2025-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With robust policy framework, Madhya Pradesh seeks to become next big hub for India's drone revolution",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdTVMS0pCTnBtZUp1ZHpEaXVmeUx1LUhmOGpDekI5VnJYVDlMNkFJR253X0liVHh3NWp3LTUyWHZ4RW5uMVBKUm5qR25IMEtrYW5QU2o3bWVzVmxpaW45SXFibGQyVGZEOUdOZGpJaHM4YjM1MDBGT2R2djdLcElCeENxSmpUQ0N2WWVGOTZFZkFsTzZWdDZFOWp0UHhGVlNtMmVPSHVPYmJrN28tWHoweWRMci1jVHBlQnFCcWxUMlY4ckl2eThnR1VSZmJyMVBoeTExUk5EQ0ZqSWZLcjNRYnk4VnBMbGpnb3pYMnNUYWh1WEJNVXN5WlFXVlJsdXPSAYMCQVVfeXFMT3R5TV9xeVZFUndwLWhHN2FqQlF3a2lZaGZPWWx6QTNUMU9ENEc4RTRSd2sxTHlvWDZLRzlfTXJrbGlmRWhhT3BHTTNGM3NrZkFPdWEweUl5TnBqRnBEOWpRMWZ0djdoQTF0ZzBzZnZGUjdrcVFtTFRDQjRzU2ZlLUhvYmFGT1dva0Z0R285Rk5nRzFoVzhOMEpQc3RTQWczaFVWdnVXT0RrZ3VGV1dxLVRKNXdsNlZEYXIxSEc5bHR6eExpbWRaREdfRzloLWtpRXJlOFRxYmxLMFA2NlNuZkFiblBybTZnRVpxa19qUzNyX1R4ZDY2Q2dKWWJwRk1nSXdQZw?oc=5",
+   "published_utc": "2025-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pucca helipad to be developed every 45 km, airport every 150 km in Madhya Pradesh: CM Yadav",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTGJrdXp2ek82cW5HM3F1OHVLNDJKNEdHel8xd1hFeVZxX1NpYlhWRlF5ZU82RTBqSzZCVkVMNzh4X3hKdjY1UDVSdmFwNW9iWlJSQ25lSWNDUTdsZG1rV0diLXU4aG5vaTVacDdWaGdCVVFfNlQ0cmJ4WkxiSEhOek1TOGFPaTVIOEp3bXpDVzhiNzkwa0czSmZnbmhXUVBNMTY0eFJjNTRqX08xaEhGQzFZa29lOVpRajM0N1YyNG5ya3VHQWhoYm1qUTdYb3laRGtnb1I1Nnk3a2tIVFpBTlI2TjRDcU1SdDVDcNIB8AFBVV95cUxONklTTlRoRXNCRldRdGtUSmZxNl9uRFk1RHN2aERRdFFxQ2NNd3hrMl9ocVdMWDFnLVpGY0E1bjhJN2stM2xqN0JnVVp1OFE2Nm9DSzNLREtNMlRQY1Bza2N4QmZJYk8xV09tSldOUkk3MVJtT1otYjk5LXo5MUVKU0NVcHpwX0EzM1UxLVhwaDc2cmZjdzRJd3NZWDdhZFhUaDBqaVB3RkVsc2V3aWlhWUVSLWJXTm9QM3ZUaDRxV25ZN09qWlo2VlZ5czZQbDBOeVM4Z1FZZXNJc1VMTzVvRHNEeGFfaG01TTBPZXZIa08?oc=5",
+   "published_utc": "2025-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Godrej Industries to inaugurate new factory in Madhya Pradesh later this year, says Chairman Nadir Godrej",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMy1oOXZpejQwTHZjX0hFWHZ5djNqVGM5UzZLbFFDUHdVUDhlbHNJcmVsSTdOMElaWGJfNFVkVlgtcV9yV1R4U1NPOElmNmh4OWNFM1AxclI1OEs1dURSblJmWmE5Zl9TaDB6NnBCNzhuejdDeU9rajVsVzNTU09ZLXdVTEExZGhlMWYwOHpqRHdvclJMMkNBOHVVVXFTU3l4TmVWUFlla1JUajhoaFlOcERzNVdrbXlocW51eTktXzF1RS1OZVlBYU1aaUZ4Qkd4THFyUFBraEdZVVpacTZOZGhGamVPOEozT0piTUZiTk96ejlHYUI3WWNsdkJReDBfTlHSAYYCQVVfeXFMT21sYmxIRXlRUzNzZm5vYmtuZ3NSekVSeXQ4TXFOLWFDNGp4YTR5ZVpjQ05EeFRJNjEtRjItRWtwRTVqS2NEeVZOSDQ1dlppYUEyNkR0SUpmZEsyS1FGSVo2SEMwdGQzajBGMjFRLVRGU0VPZFFwTkg4UXRQaTFwd3ZEUTl0MWMwQUJaVlJTa3hFT0pGT0pZTTduYzZ6LVVwUVhDNnd4TXh1Y0gwcmdQQ3ZBWVdCX0dSdTZkVERoRmxxRjJrOHgwdmh6MjVpV0FFU3A1NzAyNGJQR3FTei1TamdCT3IyTzVZNWk5MnEwRUN3TGRfWlVIM2ItNURncnZYamE4T3NuUQ?oc=5",
+   "published_utc": "2025-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

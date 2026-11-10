@@ -1,0 +1,21 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "Assam’s 2025-26 budget focuses on AI, green energy, economic transformation",
+   "source_name": "The Meghalayan Express",
+   "source_domain": "https://themeghalayanexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnJrbFVRZ2dNaTJlZDJEd3VydTlieTlHM2czZ3R3M2l3azlNdUkycC1xdkxxX09MaEVxQklXbUctWm5KakxuaFFMN0xLbmEtN2Q1RnRLVllzdTdRazNTQ3BWU0U3VVRodzNFbXVYN1g2dFhCcmdjVFdVSWhfTjY2NzgzNDllYVhHLXJuWHRRWkNFYXotSldWZzQ5QzNKZVJqbmtCTHVQZDNRQQ?oc=5",
+   "published_utc": "2025-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Budget 2025: The Good, The Bad, And The Ugly",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFNySkFycHFwNnFuM2dfZ1pfMDNrc0o3X0x1ZXJHeHRQZENfSWI1bUJLRlozSkJIdW1LR0Q1c2ZJYzBzWE5TQ1p1TEZ4N2VJX0JaZERucENvODVqbmhkNVRadG1hZEpqMnY4YTVxdGhTekJ6MkpDN2lFVm1sSUJrV0pfalFadUJIM3fSAZoBQVVfeXFMTUhITFE5S3pHbl9iekxYX3BPUHZGNDZsTmk0OENCUTJCeTBjWFBqQXNVS1hZdW1qRV9XV29CMU40MzdUV3lPOE04ZDBLOGlSSng2blJ2Rk1QMkc3aXgxa1laNGhIcHFZM2hfbjFPaEhVMnFTQjBnN0sxLThNYzFoREFseVB3YWtCVlRoaTh0eExxWmNwTEVZd0d1QQ?oc=5",
+   "published_utc": "2025-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

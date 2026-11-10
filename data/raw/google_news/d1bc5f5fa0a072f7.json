@@ -1,0 +1,77 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Health Department’s AI-driven medtech pilot yields early results; 12,677 patients screened in 37 days",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNay1CbmlEWEt2MkIwd2JoYUp2UkxkX2dfZHE5SVNRcFpwTGlpUE9NTUtqZ2ZkYjFBQWxWU1BWRW1mZmhvbW1QcFRZeUZGTlhDSUVlNS1CU1FTSkd2dHNZVGNMbWlhTnJDajlkRk5NQU5sQ3R3ZUI0RjV2em9VWTg1eDd0em5oYTkzY3ZuS3QxMHctd0piUjFoT3FqTkRna0kxZ1h3MmNVTU4wZ0lPY2FYT2hHRll6OGQ1QmRWYzhqTHVxMGxpb2FPVng4ZDNuUjU4T3RZeGlVQzVCYjA0MGhSWWVVR0s3YXJlTG5SRDlaWUYtVlFQZENTbTRqSUtCSXkwNmhmYTB3WFBWNFpUb2djbnN2WlI1UdIBnAJBVV95cUxQakppRjA5bS1pV04zcmpQb1BaXzROTEszejVRX3hRTlZFc1cyMzBBRHV3NzBUcmxNdlA4Nl9RRFVrRTU4Q0FPakZMNDVGdDF1d2o2d3N3bWMtV0N4OXlXQ0MzWnJqdkFCVFNpUWZCR2xJNGNDZ204NmdJQUlEakQ1dWpjV2NGSUZhdXdGVTVjUllnYml2VHNJc21nOVNFX29lZGFTdUM4dEhwSjJiSkZQN0FFQjBPYnVldE9LSjhxUXpXSTV4VEJvQ3RGLWRURlpBSW5pMGIwdTJTZ0xKaEJHTVV0a0tvWDBtbllTckhUcG9ublViSmVBSUZqSElseEhSTVRYZ2JoVkk5YW9fcEpLVVM0bFB1dmIta1dLeQ?oc=5",
+   "published_utc": "2026-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Integrated Rural Medical Centre opens in Andhra Pradesh, blending ayurveda, allopathy and AI",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcWF0aktzdGM4S0R2d29TRXJaMlc1R09FNEI5R0QyeGw1eEdnWTVfbkZFb1hQS0I5enE5ZmZlbHA2UUh4ZWdiMUpuSVptUmp4MWFlcnpRc09ocEZYMlBjalUwLXpjTllvN1ZiYjlmOVl3QWREaDkyVnBjNW1qZWMzbThTVVA0b2pndmNvdFF4Y3d0QnU5WWQ1SHNQZXBXWWdVaDhOUDc3eG5OeXI4dTBYZ0xJSjlOdGZFLXg5WXR3b3NfeGJ2S2c3NFQxb2FFQldVckpLeTRHX0xKYS1KZjVsTmt2MUJnLUdFSU5wVWlNMNIB9AFBVV95cUxOcjFqNWdNNnBFNkdlTXNHUE5zYlJkY0o5MlN6d0k5cVFxUXlVVmFZRWJ4TVRFZ1FQb3JrRzRvS0dvM19RSTRSLUREbzk0Zk9fT0l2RG9iVW9VTlY4Sm9mV0w1UGNUQlNFajZBVHBDYUM4elpubEYzNndOTEFTVkRJb2RrMl9sV3JBNjh2ZlpaSXh1QlU0TU80TmtyNklTTk82Y1BzR0RRNEhodFRpZHFrbGFjZ0VfSm8xNzJmbUJQMk9OYURYdHNiZXhSRzEyYlRBY3ZNOVpTcFctc0RWaVdCaUdNVFU2YzF6OHN4TXJ6OFJBQWMx?oc=5",
+   "published_utc": "2026-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Naidu Asks Ministers to Make Use of AI, IT in Governance",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTEctd0tabk14elpQTjRmV0hqaG9LR0RIbmc1RUhybFBOR3lFd3dzSlZXUUdKVzhWVDRoVTdXd0pyUTVTTlFsY2NLclJ5TkVDX19nbkR3REZDU0hBUlR5TzdGTWZub0R2V2h5TkNPMks3VkZiTS1QS2xYOXZEX050emxGZUxLcWZweUMxWXRvWjVQTEdjS0dMZThVV3ZoaFZvS3hiTmJEQnptRmpscW9zYThyWmlOZmUxdXhIX2t6VXLSAcYBQVVfeXFMTTFzSFJHNmRDZEcyNjdhemlfbnBCQ0FBd25na2haLTRtb04xQk85WWtScTRqYWw4ckl1N3M5SWpzTmlKbnZ6bXlfcEtxUkJvZjNCNWtqX1VCYkFVT21TdTQ5YmJPVG1IOFhtRHh5X2s0bUV5RTYwTUZRLVVhU3Z5U0VFSThOT1RtRW1yM3JzS1daMnNaNnpxMUF2bUF2VEVFOW1TYVJuX1VfWGRlcC1jZG94LW9HZ24wbVZlQkRtS1BvU0ZVd1NR?oc=5",
+   "published_utc": "2026-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra to be 1st state to give discom license to pvt firms outside power sector amid data centre boom",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNV9vYmxoTGNDQ2RVVTgwQmczUUpJd3ZVMzNfdjhEOUJPLWFOS2NTQzVfTzVDMTNTOGdZa21ZTm85eWJHWEVhVVJESUNUOWRwdGhTOVBzTmN5M1VpaXo5RVBXbG9vQlVjZTRwZks0bnA5SlppbXNnclQ0S3Rqdlh3dkZHR203Tmc2dnZ3Z0VJVkgtLWUwcTA0YnRLOXVHaFZCN3RGdXpqS0RJYW03X1BJNkxWLUZmTlNsS0w1aWdNZ0lJaDk5OW1Nc1FxQ0NJOGtGNk50VkZmWHN4alFZLVBjRtIB5gFBVV95cUxPclBFcEt1X1ZTZmpuVGFfdmdxLUwxVnAxcG1UNUFYZmhvNGJFWUUzaUFNSXdtcnBEQVFGUnktWXFaVmpWVXd4UTVSZU1vV0syT0dQOVVCNExjUXZ6bWM4N0lrMFZlZGxmclpOU25JRnExMUN0YzJEbFdGSmZxWGZPNk1vVEpDU0pJU01lRHZTaU5ZaGt0MS0zOGNnc05FeXhqYzR5dy16c1FlcGdwdUxfbWc3cUZPeHR5b1d5ZkNzUzlJTFFxSDJUaHhrYmJiYW5FUEtndzFSVXFoTmdfRFpvS0JvbEVJQQ?oc=5",
+   "published_utc": "2026-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Cabinet clears major electronics, IT projects",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1BCYzJ1VVVLM0hacVg5NkczWGlqdjBuU09sSEtoT2daT2hxWGxRM1lXbHFlR1J4bmNubW51aUhtVzl2aEloMm42bm1zbm5RYlhUb0dKT1RkTHNUS1NkM2ptNy05SVN1V3BpMk1IWlFwQ2hpYS1zYVNncldSc2wwU0J3Zm9OdlJrUkZRdHI4bkhnbExYLVdrcWFCVHotRVR4RkRKNkxZY2dzNWVfaFgwbXVYSWtkYVhYSVHSAccBQVVfeXFMTjYzNkQ4S3d6aGNOeC10WUtEVUJRQnJRZEx3bVRhOXFFVTJjMXFib1BmdzZqejQ2ZHhIOEE0QU9qQWdCVEh6bnA4bkhvdzJ4bnc2QWQyVTNfcm9XZE5ZV284TENiOGVwZFpWVlRUZzdWR1NkYWR6bUNWX1Q5SlFJb0F6SU54TW4xTVpuSzUzNXJVdWh0X2lwejZQSXlfOTQyWFdFNUZvYWJXaFZQTi0xUDJTZGdIRDJhSTFuYlFKUWd6QW5CV1FVMA?oc=5",
+   "published_utc": "2026-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh SSC Results 2026 Expected Soon: Check Likely Release Date And Latest Updates",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVR6R2JPaFZRQ3pFclZJZWhFLTRDRHZudjNnbU95RDRSanVCNFViUDVDeEhROFYyU1BsWjhJbHJGcVJ3emYxd3FHb0J6UmVEakVSSDVzNTJ6NURicUQyZ3NZZTlPTFFoSVozUnM5Q28tSzN4ak16eTEzTmdDVmZJOEMyMnJrQlpMZ3R2Z0d1NnZ4VE5Pd1Y0cVJEbUNqbGJRREhDODBOMGNjYi1rdXlLaXg4WVREZnltYXdlMll3dVNWR3RFQXBDWHNB0gHSAUFVX3lxTE11ME9SZEJlRFB3bTVmMUVtLWhkWnhEemNQZFkySENDdkdwR202VUxOQXVZTTRXZGt6eE9FaTc0aHp5NXhFeGdHWTdGNlc5Mm0zdTVwUVo5N0NCeFhUay1WOVN2cm1kTGpIUnI3T2p6NjFFX0tuMWJuMlpUZ08zLTdENVRndlhyRUJjR2hHS1VONFhhSTg0MGd6VE15WnRGRldDS0ZVNy1QbVVuQTh0SGlvQ3hNRWVnMFE2ZEhHRFBmLWVjUk5icHJIRXRwRGE5M3VMZw?oc=5",
+   "published_utc": "2026-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Summer Holidays 2026: Check State-Wise School Holiday Updates",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnltUFVENUdMSU52a3hBbHJ3LVRxOVpRVE5SWVRSZjVMa2p5dUR4XzRnZTUwTGlINmxUQllxT29LZENJYU9WZmJ1RGdaRW1MenVsZ2hpZzI0N1hxSnRxd3NEWkRxZmRFS0lzUnVKeTFPR1lTNXZKbVBISmRWUVB1UURVUm50WE14WU5pNTFBcFZjc082Wkh1SkcxX1A4OE5YaVUxOTJqNFVZQ01KbWdNbjloSjQ2MFdxUDEwZmgxUQ?oc=5",
+   "published_utc": "2026-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Launches India’s Most Indigenous Quantum Computer in Amaravati",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUFFYVBxOFdzWndIS0RXWEtpS1JBdDJ3TFFyeHhINmZURGdUamJkM0lJYlNneGF0YXViMUlwTTNiZ05lamtjTVBJNFBIakRLTjVyUkxLdnhPaEtIYW1TemZsVzNxdHJleEMyMy1rTXY3eVRGSElqS0ZHMk9SNHRTQlRZOFBnWWZKVERRT0FCT2sxQ3Zic2RaTUlPUEVhVkV2NzZR?oc=5",
+   "published_utc": "2026-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "$15 bn Google data centre to transform Vizag into AI hub: Ashwini Vaishnaw",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb05QVWx3S0VJZmJ0NnFsd0hCV0RZQmtPd2ZTaVBPVjBNOUNWNXFhN3JxNUZEMzNvT0hqbG9oN2h6S1BCSUd2TVFNaFdsRlNadDRYbGJmZHEtUGRoRXh1bTNNcUVEekxsVzJWQmRjc254RUZ3NHo3SjR5MUF3ZkJ0Szh5Wk1YTzNXbmNwbjFiZnlBSmlrQzVRbkplaW1MbDg3RndrVXVHanRQY291Z2RlMWlvdXRfRVFXcE9KVGFuakdzdFdnYU9yd0ZkLVcyS3NWYTU1VzhhWjlfT0dJaGowZXJYNWxVMXdTUEtDOE8tNWLSAfYBQVVfeXFMTUFkYW43TzI4eThhUUtiN2htSG53Y214M2FITTNWc2NBc0hhVmtaTzRMN3RlRHdQaF9JRlpYVjhrWlRzYTRxOFFzdWxfNGZKQm5fN3VaeDBlN251VUJHdjFBSFJPbDFRTkptUmQ0cUVYRXFrZ1lGcDI1WG9KTDBHVXZpaWVFamNaMGx0TF9paG1yQjRwLXJNM3k0RUx1cEZyZjBGNmNYX1JueTVkMDduMFFQSElENENoYWtSMlZVM2JQY3Y3TEVZN05xVmNDakpOcGVtY3ppY2t6ZkYwSUtxTU9GLWhqbHVKcnNMWmJkTGJZSWljc213?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

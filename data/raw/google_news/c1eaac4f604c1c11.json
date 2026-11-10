@@ -1,0 +1,77 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "Inside the subsidies for Google’s Vizag data centre amid Andhra-Karnataka spar",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUUhYd3VUWFZGMmo3R09JZlNvWnA1cDN2ZEFKRFgyTGYyRHNST21jTkNwdEhvMU1iTVpkUHJyX0JfV1dZdUpYbFhWV1I3SlR0S0Q0NzBtNXBPUTR0QWsyNEtTRWkxTjcwRW82a05salc2TVlQeDRuTTE5SS10TjJNdTR2amRuTWhUS0JpNWFhNnRxNlFqdDR6SGxBb1Z3Q3VhSm1pNEt3bkhLS0NnVVlwSHU1TlMzSVRnOUZmak0yTdIBzAFBVV95cUxPSS1pcTJYRWhRNDJxVE5iWUxQSElIUUxkZVF6Q01HOTJKQ1oxV2JlVzdKekhxU09qNG5JSEhaS044anNndFFBMHB2c1M3eG0zRGQxQzBfRTRWY1hxdlJsMWZaeW84cGR3UUN1aElxaTRFU29oSERWS2czU2I0MmtzVTUyXzNHWl94MWV3QjhLbkhSMVhUc3lDU0U5cmxqQ1o4NTNzYURRQVlJWGxsdHBYa014WGtPSGNUYVdtaVRpTUF5QWJLYlQ4NkVraEk?oc=5",
+   "published_utc": "2025-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka To Set Up 300 Acre Data Centre Park In Tavarekere Within 18 - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFIZDk2b19WRzlEWHVuSDN6eVl1bW9kRUlIekhYYzdNMEZkZkZ2eHF4Zl9BTWUzNWQweGZzVzI3X2JOenZyTm9LX1lRdmwyZnVTQUFVM01uRVlYSkZXa0R4cWhqUGZvVUkyVlVPb1hBTkxuZi1UdXVpTjQtUUsxR1B2Y0dOdDJ5UWtDNGxySGFuY2hWMU9vdDhkTEttMTVLNVNQcXR5cUFEWmphR0l0TlNPeXJraW9EOUE?oc=5",
+   "published_utc": "2025-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to set up 300-acre data centre park at Tavarekere in 18 months",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZTNGYk9QWThPWm9ZTG9uM1RiUUxHUm1YQVEtWk83dUV4N3Ewd1JTX2RWQ1ViUHBMSEdjRlVNQ21adHVhdlJwRkVZb3I4TjZjMHdXM0phNHYzc3RkNkg3SWxzaGJEdDV0NmVfNEJSQklDS1d1aHhaSm1INktWcEw4N2RxZ3NqNHJvZFJ4Y2R4cTdUV1dpOTZsMDE0WEZPSVlPZmNzUmZTejNKZDBxY1NXWmxoQTVKTTlWWDNQZzNiLTlBNDlCdnEyXzFMNkcyNHFSd3paZUE2MNIB3gFBVV95cUxPbmNVeXR2dnRFOW92SmxJeEs1WTA2WTNzMXVnc3hMS184aTAtRnlMbFI4Tm5YbWZLY0ZUTExfLXI5LTVoYkFPcWszQXNpdW1wajNzNVVnSFRGVEE2WWlyUzNmTzlNRE5qV1pzZmhSME80NjNJWXh5N0phTWdETlF1azYxWXVFYjV0VHBGLVFMQWlJUjNhMF94MDVVRFdJQVFhLXI3UlJWbHNYbUM3WnBaN0FWZGJQMXBoSDM2VnBEOHFjOE05cVdrdmplMjAxWVIxV1N4TUJWcEJGSTZ3RWc?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Visakhapatnam Google Data Centre turns into flashpoint between Andhra, Karnataka",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSE15UVJYU3Q4bWRSdTdYZzdiSlZyUEl1OXgzbEw0VG5rd2NqVXpnbFNCSjhwaWtyVDZYQ0N6bkNQVmd0ODlFMWxUUjAzY25Fdm1hMURCZkpLVjNoU1paUjVZb2JBSXFuZDFVYXgxVFVmZk10d2JhSUZJa3NOcTZRZVN4OGsxbkM4dnBQYjlLVTVVY2g0QmZZVlFrSjkxVnJuU2hjbmZuMDdUVmhwREJYeFg1ZExiaWxBQ1BmdThiTHljdHFNT1J2WEI0Q01TS1V1d1V2V0xEV1dXZkVtNEFn0gHsAUFVX3lxTE04eHRHZFRteklyRHczaGFSUExJay11Nm5FOTNGSDAzekFDeGhSdGRUbkJNeHllaXlUSmtXTnN6dW1YWDBIU2d0QUZ2THFzM19lcUhyelFfVDlWU0RuZEJkV1IyS2NWZVN3X0JHazlyZ3NvZnVheGprTldaelBJbWYwS3dkN2hRSVJETEVhQzZFTW4ySTZRMWpMODk0ZEU3aE5UQzAtSjVwYTBtN29yR25uUWF5U1BGYlZid2ZWX05FRzNwR3AwSjlEUjQzM1k3bVJiQkdIelVmRE42V1hLeDdQSlFCZjdHcnZzYldH?oc=5",
+   "published_utc": "2025-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI city vs agriculture: Farmers rally against government’s 9,000-acre Bidadi township project",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmlXTUhlbjhfY0NUSVZzLUdqSWw5NTNPaVlPRkVuam0ycE1VMm1qS0k2ZVpEeEVIWDhpSTNmRGZabTBhV01YSGxobGhmUFFnVFFTdHZmWEs4dTNhVnVlLXVLUEEzUWh0bTBpWnY0aHdQNzZGd3NWSnpkaUU3NVBkZVVpV3I2V1BVRm5ocFBidUVURElNc1NrX24yNU9VQmhtMzc0REhHeGFWS3BfTG45Q2p6b0FXTTJuQTlBY2g4QWxSWS0tVXc?oc=5",
+   "published_utc": "2025-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Did Google Choose Andhra Pradesh For Data Centre?",
+   "source_name": "analyticsindiamag.com",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHFCN2czWmNMZjZ6UVltTWc5YjR6ZG1nZEphQlhIZ2UtdWY1NTFnVmt3MVJQOTVscmQycnU5RmFrRS1QNW9TZkI2cEZkNk1xaXdTMWxiN0pORkc4VDlzWlZxWjdGSmo4TTd5akIxOUU2QnZZbUVvS21XcTR2M3BydXJ0SmxsRElnT01uQzZtVGQ5Zm5lS3FEbjFMSU82d1lsYlR1MGo5NVc1OGE4bzYtd0tXSjdxemFZenhFRDMycHl6a2s?oc=5",
+   "published_utc": "2025-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Consultant to study potential of Mangaluru as a data centre hub, says Karnataka IT & BT Secretary",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTjk5N0R4QWNldXhEMEJHM0o3V200QWt0cnNGZjRwS2VsR2FMNlRkZTR2Wkx1LXF4VjVfVHFiRjkxQ3FhbzRxV1ZtUkVDMFQwX1FaU3hyNm9xZnllUTVaN0t0anVfNVFiY1prMnRHTjZsUURneXNNY1JPQldBbE9NQlhHWFBSdFlXV0lKeEpWMDQ4WkE0dWkyQ3JKbUlWMlVCVDlqSlphaDFJaFk1VFZ3aHlZczRlWll0Q1p6VVJ5MHpONl9zemF4RzcwZ2tYOWNCZWJOakVsb3hnU1gwbU1xaXRpQmtvM1pQeTJNVW0yNjRDa0w5YmlrVjE5dy1VUzZxZHVFa2d30gGMAkFVX3lxTE9uMXVPY181anpCak5GVjV4dEwtRVR4VmszLVhOR19SdUZFRE5PLVZsMnpTUHFHUE9Zc2ZJOFI4d3J1WTF3WS1BQVI5dVZ3Z1NzUU9nYkIwdGZ2MHRyOWYzRF9VV21pZ0VES08wSU1xdXl2ekZjWnFBQ0d2VFM0dXVra3VSbEpySnFqekNwR2prd0pjVy14QnExMXlpZFVTbTlVS0s1OEF2cmtJUTJyM1pmVEFuQ212MDFWYWEzQUF0aW5GUS1qajE2X2dYaVlHdmcyZVNyOENQQWhkU2hBOE1NY1BhckJRdVNWdTJlTUZNb3Y5Z2JCSm5wNVg2MDZoSngyaHl1RmVrZk5jcHc?oc=5",
+   "published_utc": "2025-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "KWIN, SWIFT, AI & Quantum City: Are Bengaluru’s satellite towns futuristic hubs or real estate...",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0N6bFdGRE5QQ1dES3JOVldNV1I1ck5vcXB0WWNVR19MVnNtTzF6SkhzZnhCdU45YVk3UFlibk5lZ2pzZXJlQWxXTFJPTk1DVWh4Wkc3bmRvZ2tVWHF3MDJhZEU1TWs5c25hR3V1T3V6TGdYSHVpS0YzM094b0x3RHlyVENwREFOTXNwY1dpY2tfcEJteTBoVjEyZlV2ZGdJVDdZQTMweUZ5Ni04ZDlLTGg5QWhRdXl0SHFKSlZwX1JhQnNKbmNLR0xEdng4aTJzQ1hrY1RWa1N2X2tRaXlNSjhsckdmVnBt0gHuAUFVX3lxTE9qTmhaX1BuZzQyN0NYWHo5b2c3TjBLRjB6dGZfZ0N5RVkzVU1KVFJMNldoOVA2a1pGUE0xQTM3NzVPb2t3VlA3c3lmWWtYX0d0WEFuZ2ltV0ZBT0pCQkhuQm1oaE5tLXRZY2lmNzVZcGRrTXluMks4YzlCZ181TFMxNjdDdVV5R0VDMEZMRm9ZU1k3RGQ2NUtaejdmMHNHZlNyMnhzd1hIRzhjdV9qYUpXM2EyaUU2RlBIaFp1OEJ5a1J4dTYzaHRmQV9yaWJFRUhuSjU1UWFtLXl2R1VIZlEwejB1RTBSUmNYS0ZGRmc?oc=5",
+   "published_utc": "2025-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka To Upgrade Power Transmission To 750 Kv For Data Centre - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVJ4dWN6cG8tNDlXeXI5N1NDWUdqSDFjNWVjODNhNjJkVkd4SU1zLWlPdUVNU2hBMWtzcDVaemlabTcydHBfTFB5NXo3OUhhZ0ZncDZfc2tyeXJZZ1A3RWJkVzM4WkZjdy11SEpkSWV2LXdJYUdmS014RlBBMG9wZUVNdWVGZm1wVzItdW01Yl9tWGRxZlQtdndEWWE2dkd1WmFkSUFVTnJhbGhXWTJLNWxtWQ?oc=5",
+   "published_utc": "2025-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

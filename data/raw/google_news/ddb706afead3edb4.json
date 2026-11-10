@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "PaddyMitra Chatbot Launched to Empower Odisha’s Farmers with AI-driven Insights",
+   "source_name": "International Rice Research Institute",
+   "source_domain": "https://www.irri.org",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNanM0cDNEb0ZZMGFQVUthWXhWVWhscFA4aFkza3kzeEdkNFFWUzlRZERweXZoRXplNDBRYTNhNGJSVGxKdHlwRmF1ZTFlakRwYWRIMVlwak81Nml4SjhNQXBmczV0TmVQZDFLWGhfTHZXYTFSbGVrX25YclVRajY0MUI0bmMySUFTS0VuZVJkb01TeUJuSDlXWWtQZkZzWG9fWTRyMUZJN2pOREZBcG5NREp3?oc=5",
+   "published_utc": "2025-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta ties up with Odisha govt to launch WhatsApp chatbot ‘Ama Sathi’ for 120 citizen services",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUFNSQ2NqX1hHVS1xQ1V1OWhSdm5PcXBBYm4zOHhGN29vbTlqTWlCZnVIWlVROGFzQVZId19yYzNNeGNaYUNOZFE2TWdpNnFhQ19uYUJ3SGhEYXVBb3J5Q1o1RnhDUWt3THFQTzVXdnJRZUZ4MTBSQmM0cmxfOG11ZDlmcFJuN0lLOHZVdlp0M1BzblBueGpkcnhWakF4T1RndURsQjVUYXJzQThPMlQ0TWVoQXV1czFNVkwwQms5eU5LcThkS1Ztd091TTJTX3FJYUFpRFBqXzhiaXd1eUlxd25BbXBBZzV2X2lSSVFyS3hWSFFQcURhVtIB_gFBVV95cUxPbWl4cFRCbUFwY2s5M1ZpTTZzRklReURSYUQzV1FRUDZZNWgtME5PLUhfVFUtVTQzaHVJWWtaME9OLVV0U3ZDc1JqMkVUUE9KbTM3eFgyMWNaOUZVOVpUdVEyb1hqdl9GelB3U0dKbDlnN2pCMzVMb3VER0JsVHNoODg2Y1V1TlhURnRYcUxfaHByWlZvVWtnZXJwck01UWhrZldvZHNabzBUeTg2Q3hLZDYzVTdocDdNYTNSdXVQdGtucUV6TmViMnRrYkFyZTVFSGNHSEE2b1lWQlZ5VWtxTmgwX3hBcFZBdTRjZjZwWVZaaUJpb05KMHVKR0FnZw?oc=5",
+   "published_utc": "2025-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Cabinet approves ₹4,182 cr-scheme to give wings to aviation sector",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU28xaV9mX2VlVGI4RFBWaVY1TW80UTN0MDZmQVJxOU5jcjM0X2dDNkhQcFFObUN6QXM4UkVxM0I5Z3JyTU1xWDZqUDFoWkJ0MjFkaVY3ZTRSb1lmTlM5Zy1uLTJfWkFjNnBwZndKbEdtVDhZQk9ITnlhMU1UR21SSnhxWUZGYlBYUTBuanJWUWRGeEJYOVhIV3QwMnNXUkRsQmI3Wi1WZjY1MUU2OTZKYUFrekF3eU1XS0ItWW9MQXQzMTlKTkZGcHE2clRqVmNDbmFr0gHaAUFVX3lxTE1VNFowTGdmVk9EU3dscVR3YzcwanlRTHJMZ0JkYWV3WDhpUEhZOWNjdnJIdWpNdUVnV3RsZ1QtNEFXbU1pd21TTG5KanZ1dk1tc25CWjlncm5IYnZkbURsMFlqLS1FTDU2UldIVDdYTU9RdmdFUllEU0x4a3lGekV1QkhxRzM2bEdrU3NWVVJHaXdqRGVWMUNTdmhhVU5TOEZnQjFsdDFSQkhfUmJudzJuUTFtWFBCNjlmTTl5ckZOdnNxXzRoenR1VVdiUkRQUEdXbDctaU11WG9B?oc=5",
+   "published_utc": "2025-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister Shri Ashwini Vaishnaw launches the NIELIT Digital University, a platform designed to democratize access to high-quality digital education",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81OVdRRWhUc295NWpDYlVHSk5CNU8zSDMyTHJ6NTFnTmhIZnpBRTljeXN5cGkxT0lOVVo4eDZqd1BieFY4M21EWmFfQndkeFFCT0dYLXNwZDgyX2c2dk83YkZad25CMFp6?oc=5",
+   "published_utc": "2025-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha IT Policy 2025: Accelerating Regional Digital Growth with a Forward-Looking Vision",
+   "source_name": "Nasscom",
+   "source_domain": "https://community.nasscom.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFFkWFZiZFk4bWRmangtWWI2UE5QLW1DVkU3UGVXc1ZDWFYxbjdaTzVmb3NDckhuUHZHS2tKZ21HX0FHZWtQcTlmQ2x2dUVCYm9ISl9nQVNnQXR5R2xFQXBGOVdTZ3NsdTI2QzBxZ1VTVjRsMHl4c2VBMmlfd25wUGp6OE1sNk1CU2dJc2p5dnJiN2p5anQxNTk5TFFGSDQ1bGF3M3R4RndmRmgzQzVjdy1EalpWOVRYY241UGhn?oc=5",
+   "published_utc": "2025-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital Crop Survey - Powering Voice Agents to verify crop data",
+   "source_name": "Sarvam AI",
+   "source_domain": "https://www.sarvam.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tRXVhT0Yxa2l0QXNKSi1TLUxmTDNFNEhUMzJfWXE4Q3g0bERoa2dCdEE3M0djMFdyZFFoT3dSZXkwM1hQaHY0eQ?oc=5",
+   "published_utc": "2025-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt Sanctions ₹7.01 Cr for 1,085 Durga Puja Committees",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekZ6ZWFKZXVMX3NSWm9EVUJaNkF5Rnk5Yk42ejMxalA0S1dNaFF5MXFpNldrUFZnTlFOT3lmMy1FX2dXamdIQlJnQVo1Tm1QVENQTjM1b2tfemhhVmp4Qk9FeG1neVRlV05iMFhscHlBbnNwZDRlX0lSLWhVUXQ1cFlrb3pjZmxTQ1YxalowNFdlS2hzc3l1bDJ4bnlBRUJxN0UyQ0NhNNIBrAFBVV95cUxOYVgwb25BVm05WEphbmNtXzFqUk9aUGg1bXIwYXAyQV81RFJ4YU0wZG1Hak0yU1dRaGFuWm5QMnhCNVFUSndHTEFMUzJmOGEwRW5nLU0wZ3dvSEdJUzhGaEh4TG1fWW8xb0syaDFJTGlJcVBaWHJseERxRHl4QnVRUU9ZNEZQNXdHZEJfeEtuV2Q3NzZZWlFwSkt4RzE0SzROdlU4ZVZxX0lEZ2pf?oc=5",
+   "published_utc": "2025-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No Subhadra benefits for students getting scholarships of Rs 18,000 or more in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQm80RFlBNm00OWQxYUJFU1liS1pHSTVmSE9Fd3hsV0UxcDFLMWdpS2lJcXgzVm9SV2dJMW1JQ3NhZFFwcjJKdmRkc25yVldEMFVXTlFFMVEwRktMQ3oyWTRURU1nVjE0UEpfQ2tYU0JPWF9DOER0S255X0JKQ0R0MUN2ZTk5UFRNbWVrOXgtbEx5blk2SElvX2F4RURpVWMzdGEwd2J0UEN2ZDlheGJpWFppeDhrb2dOZTRzcjlhQjVFTjBpaUt3RW1yaHQ5MVhGSW12Mk1sNWlNV1nSAegBQVVfeXFMTnhlQy1DRDRFdnoxREdHODNkVUNUcy1PU1g5azFBQlJkazBWdmlqR2FfSWhGWDdwSXRzakxnMTRpbFRlZ2hUNXp4SEVMWGU2Y2g1YzdNdzJWcENlMTVybEVJLWxtUWNJTWF4M1dwaktrcTEzM2pUN2pZV2J3M0dwSVVUck9QT3FBRVdKV3dpUFBqQ3U2Wng3Q0xPRUI1XzRDdVlIdVBTb1hGbGlHc1otQWZ3VDlOdjdiamxHNzlmUXdYaG9QeENwdDI3ODlRTEk1cndpdm04RUVKbFhJM09fZ3E1TXNHTXIzWg?oc=5",
+   "published_utc": "2025-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sundar Pichai's Andhra Move Hurts DMK Ego, Is Foreign Investment Shying Away From TN?",
+   "source_name": "Open Magazine",
+   "source_domain": "https://openthemagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTdJSTZUb1VEQXp6Z3BVamRiZ1FnZG85VW9MVnBmdEg0QVdzLThNQVFmV2lrbVUyQXpCMGtZTFZrYm5SMVhmd1VIVlFSdDlCeS1veFRLTk13WFIzb3FzbE1palMyTE1YZU43d1JRNXdqUkIxSGtNUHNlekpHTzdGUm5rMmJqdWpRSEZmdE5raXUtNG5ndXdZXzBjY0dWeW41SFd6SFRlWXhRV2lqM25pSUFNX0trekE?oc=5",
+   "published_utc": "2025-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt offices to remain under CCTV surveillance across Odisha",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXA4d2FEMU14SGJ6b056czZfaUNqT1pheWxUdXQ4WFpGbTBTMFlzaktscThlLUdjZDdsOVJvVlpKbndxUW5PQThWTk92VjVmclRoVVdOOFMybkZTX3pNNVNoZ0psdVA1bExvNXhqWm5XeW1EcDUyYkktSUx4cDNqY2d4N0tMRzN5MGZkdjBwVVIwR1o1WHJJYUJ5RU7SAaIBQVVfeXFMTkp4YUZKN1RZSnZVVFl1bE9Vel9oTjV1cmJJTVJLa0E1TmxjQ0tPLUtzeWVFbVRxSjMzajB0ZUJESGRwc2E2NWRPLXRYQWlRLXdRaDUyWHhLM2dtcHZ4NzhHTDBFcVRjalR6Uy1WWFZvcl9kcFliTDM5c3p5OENqRElDd2lCZzFYNkgzbmtUNk1RdWhDRHVoTG9fVk1sQWprOTFn?oc=5",
+   "published_utc": "2025-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

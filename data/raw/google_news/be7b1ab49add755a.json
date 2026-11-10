@@ -1,0 +1,21 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Telangana CM’s deepfake video circulates online; public warned against believing it",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQXJpLWdEYjdUXzJDX2x1aUVTWkVSUjN2NEdoU052Ui1DY0xLZHBYc1FtYjJXR1dtbW5rMmF4XzduMnpuVnlIMmdYZUVjeENLUm96bHZES09oeTg0dEVFLWVtQy1xM3lROHBoNTRpQkh1SUVJV2FiY3liV3pHMlhiLXRESGx2eEZjN0l3SVpwVmJ5aUI5RWh0UkxseFcxZHJKRm9raU00RE1xdDA1Wk1sQTh5R3RtUWsza1VuNy1BeFJtc05ZZ1VjemNUM3VxSnPSAdYBQVVfeXFMTktMZmI5aDNQRVdzNTZfNklldnZZa3Z5d0JidVg5elpEeHp6ZzZidDlSdVNVSWdtV2Z5TW43bm9lSHludHpDOXdmM0tnUzY3WGFVdHBGU1pLeGE4TU9JZjFRd1FnV2VWUW9wYXlNSnRWcDNNdE1tdDFvVkdsY3JueURRTE9QSW5iV2gxaG9RcHduLVlwRDJlTWRZZTZ2V2dNRlRhTFpfUTZqU0JEelZTU0RsVmVlbTFKX2pCYi1rbzdFV21Lc2tMMFotd3ZWaFgwZTdTYTc4Zw?oc=5",
+   "published_utc": "2025-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to invest $6 billion in southern India data centre, sources say",
+   "source_name": "Reuters",
+   "source_domain": "https://www.reuters.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjBIZUtCcXd2N1VncjQ0M1Q2YVJsanFubG1LNHREWkxWb1hNQ1dyUTcxNlNPMlhkekFlZktVa1UwMFBuT0Q4Rk52ZEVuR1E5SGgyUmF3ZzNOclpaZVBURWpRQ2JLU0lXLWNBcWVDUVNDQ3V4UmtJNGlPWmp3aHlXUXpreVBjZzVtc0hjcS00MUI0dkRSMVFZWGJEbXN6U1E5ZlVwTDFDVmJOdDVXR2JRLUZtUk1vZ1V5MEp0ZHZOcHlrc0QwUlhZbEJlTFVWSnU2SnF4aQ?oc=5",
+   "published_utc": "2025-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "AI Data Centres in India: The Race for Energy, Land, and Water",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1lDWUNsNE1NSmtsQ0FZSzc1WjJiZHBPOHVMM2dtWTRUSXg1aFJxcWdQVDU5T2VwWm93NnFxRE5aX3dxcXpCTk1STHF2YzZpOF9qdG1vakt6NnJLTnRpSnlMaC04YjQtbkdaMVRyWVgwcDFiTnJESUhHTkFxSmJyT3BLdG11eFh6TnJfWjlFM24zYlR6YWFUWjZtczNXeXNpNEZrZ3J5X2VOWWfSAbIBQVVfeXFMUEg4ZlFFRktjOFRTRURoelpTQWlTLWxyNXlUR1l5VFRmVUhsajZXWFkzVnowM2pWMkFKOFJTQlRqdWdDWWJnUTdQY2tpTHRKdjFvS2x6cDhTRWl2dWJwclpDbG5qYU1iVHdxQ093TVBESTMyX3RNa1V4Zk5qWDNLMlBCd3l6QkN4MTFlelFDQ0pMR3ZUanFIR0dpZ25WSkhUUFlFbjVyc2tNMmZPX0N5Nlc5dw?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata’s HyperVault plans Rs 70,000-crore AI data centre in Telangana",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVpDdUJsVkE2X29ZejdCU3VSNV9kdlNVOUNVZEJ4QlJ3T3RNanVCSlEzZXZ5aVl2RThmZ1V4ZERXQURpTkRWOVJqSFhiUDhTS2U2Uk9UVXhsWHFfMWlWSkJsNy1xQVNhMGZCdnRrby1NeWd0eFFack1ZeWdUbGRTSlBLM24?oc=5",
+   "published_utc": "2026-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India is welcoming AI data centres aggressively. What do they owe host communities?",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkZWMkUxUmk1THEydlpCR1p4aERjVF85bFdlNF9OOW13Y1plM09TM2F2QllrUHl4WlB2SU5OS3J2M2FkRE8wYzJCRDhnTzBJSWVTempVcVN1WVJmZENPYTdFOHBPSjc0MVJ4NU1DczVaRUZacV9pR3liTW4zTzVPRFlGX1FtN3dXOGdWaUZ6SmMwMDlIYU9UckRvX18wSkRqc0loTkJsQWdyY0lVSlV6LXZTR0tsUmEtMmFz0gHIAUFVX3lxTFB4SUFtZ3B5R1ZVQkdjY2Fac2M4RWJrTzBBbmpVMzFoa2pkYTBSY29hSDJSLV9XM1NReDVTMklRdTBZbzFKZVd0amk4dUU0dHdla3RBQllyWGRqYjBzQjNkRnBtci1kTDdHQ29iVDdWNEhuQnZjMzdEaVlpLVdHQk5XTlZlRzFYWW5PckdERzhpODY0WEJqTDNmX19aWGwwMDc0NUplSWtEU0h0YnRJdWFlYThxUmNCRENaaDRGZVJ3eWRlaUhib2Vi?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Railways approves Rs 4,178 crore projects in Tamil Nadu, Andhra Pradesh to boost train operations",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYjEwU1h5OVVzXzBQLUVNbTMzWHNEWHpDMGFObVg4cDZxdGVMdnp0MjRSRWtGeU81VXZRd0d2WnNVLUtvSjZjeXpQcDVtUk0teHhndDd0Z1NPc0VrSmpYMUJQZFVSQTIwS1NZN25iajJRRkNRemd2Y3ZITnp6WnpsTlphQThBZDlEY0dUX2tmTmllOXdKblZSdm1MX182aklySl83YnNmTTl3c0tJdndhVUFCcFA5T3BzMnVERlZnWUtyekhRa3FQRjBwSHhocWU3NGhSVTFtUk5UYllteXNIbkEtLWNjQ1nSAe4BQVVfeXFMTzZaQkhzbU92UWczUjI3OXBBWFNaeHlHYzVfLVFoWnhnX2NYYmM4UFJnSS1rM1J3OWFNbUw1Q0xRYmtMT3JWQzU2a01EYUdfMGVVb3U3ZUgwaGhqOV9razBIbWVjMEVPY0s4Zjc3WGtOV0JPbWY3SUxFeVdIVkY5VVVfNG5Da3E2Z25jZUFGNlBKWGpDX09jOFNjV0k3REhTWldkZVJVUVl3a044SExRNFlkbXVldnktYk1RWGo2SjRia3AtSExiYThCcEVrSGlFRzhMalJLbkwwNzRqaVNkUktadVhBc3VVMEpCeWcxUQ?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mazagon Dock Shipbuilders to invest ₹15,000 crore in greenfield shipyard in Andhra Pradesh",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVldXcW4yMGRwTzNjZFZ2N1RUZlBib0V1X2JSMHFXUjlqamRXbndFbkE3dDlKUlpyMGpvd0hxR0ppbm1oTktDX20zbmpERi1rZ25rWVFIV1ZVSVJZdmRYVk9uTml1a2VwSHZqVjlDdnYzZExuQ0FETVRVQUc1anFJU1FMemJiU3RPQVFNRjdmUjk0bHM4WTk2ZFNOX0VfeGIzQUhVVEJ3a1g1MmFSSmx6NEU2REJ0dEJsWmZOLXdwNGRVTFo1bW54Yk5QUmU0SDd1WmRvQUZvMGpGTXc3SndBeFNReDVNVDBuWjNSUlNkTWs2Z9IB9wFBVV95cUxPVVY5czRSV05CVVRNdHNtODJPUnZPTVBoY1FSM0RhZ2I2bk5ycEdNZ0I1c0lFekUzN3dKeEFQc1BGZUhDWDJMT2tnMEZmVkNqYUkySnJUR1RhUVZYdWIzY25LUmk4SzVSbFZDdU1wY3ctM1JXRVBmQ0NhMl83d2NDN2l2Y0JDeWYxTkxJZXA2cHh6QUZwZGhEdXdzcnpfSjhmb3pkLUpzZ1dhTFo3ZUhieWc0QjRtemk3elJEa0F4Tk5Qd1g1Skp2YkZMbWhrLTlGVmlXNV9za2J4RzRHX1hXQjhCU3BSaDV2RmxFM2tQak5xbUpSbFlj?oc=5",
+   "published_utc": "2026-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Cabinet approves investment proposals worth Rs 22,177.84 crore",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVVNfUmtleTZHVmd0WEtNWWp6aS1ta1pxbmVCU3hCaXllU2YzSHZLeGE2SU5taUJ6V0g0M19ESm9rRzFCOG1pSDRjLWF6VWVCSmNBTDlWTnBjYTNzUGhlR09mSjhDS1dGaGo1OTJmZGNrRlNycDZsZ3JlUlUzWWZfYzUxMFd0R3hHOUg4T09SOG42d3pMT2xFMGlEcVQ5ZUhKWGFUNU5hSTNIakNxNlZPNTkwNjZZUnBVTHVZcUM3cGRHeFdPRkJ1VzY0cG1WTm1TdndKOWVkTEpid9IB5wFBVV95cUxNWkpvcVNGdnd2SUFWNTZOZUItTHdlQ2RJTEs2NVZPdzJtU3kyVmRmak8xd1hITFA3T1NFbW5YS21sbFpONWZJSnVWVzUxaWZtWUNFSXhCLUN2VlVJdGRTUFlPa2VJclZNSnlCV1lhZXd2aDM4RzhjckZnci1lNEpSZE1obnJkMk1vN2JmdlR4bG9pYTlYXzA0ZUdBWWFYNUMycUhNeXozNWY5Z0p2Y0Zyblc0TFVaMWd3Y2NJOEdsNmN0dHUyRlZha2RSb2I2Q19Qdm41QUFSYUxTbnNtNUxISFNlaDROdms?oc=5",
+   "published_utc": "2026-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana CM Revanth and TCS announce ₹70,000 crore AI Data Centre in Future City",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaU5xUjJ0SEw4TXRDUThYVkNQcUZGZ204QWJzWGM5cDZwOHA2cWdNWVhPSUxIakJCc1BKbWZqdlNMSXpqMC1WU18ycEl2bmNXZnNRcWgtSFlwQWEwMDk4dUtzOUNLTVI3Skp2Q1pKRXJ4QnF5aWhxSGliX0dqM01GT2MtVFlfVHhZaW1Kd3J5SkJfcGZkczJJaFEwdDJNR2FfZXFEVUN0Q1hEZUJsT1p3S1NTVWIxOVBtUmY1WDBib3FIeE5MMmFxM21fZ01hM1lCYmdKQmdsOXY2SEpaV3d2TnU1eFllVVZEWGIwNEhrbldvSlNkQU91QU930gGAAkFVX3lxTFBuMVZ1T3FRR2l0OGtpdy1jY3ZFQ09ncDJpOTNadjJsZjd1MzlRX042S2xBalB2ZzFTdzdfVjRWN0hkYVBLUnViM2owYXVyUlRDeENCXzZ6NTJPZWlmc1BOajg3bnA0Y3N6cmk2WkNFTkR5NHhRLURHbFluZTR3QWI1a1dKMVRrdnpKLWR1UnptdTR1TUxsTEN0RlptclJfX1JfYXY1Z21JbnBUa0l4azRDYk5VaGU4dlVocmpWYThqcnZPaHgyZ1RqYVRBMVBKaWw0NVhteFZpYkdxbDZGT1VlQmRTNWhZTHB0MTNsVmlVanVVXzA3RG9HN1JJM0xuUVk?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Railways approves Rs 736 crore projects in 4 states for safer train operations: Check details",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcENEVWM0Y0czeHFjWnNNbjhvUHNHRnJCdGxGUGZOeDUyTHV0b0N6Rm9pdGxhbktfREE3Zml4VWpPQlVwMWQwLXBxalRkNGoxXzltczN4eHpmRTM0cE9PWEozS21pY3hpbS0wZl81TUZxcV9DN1J5cnZBdXh6UklzMElkT2hLcUphYVBrMHVlV3F3aElTQnpreGlveC1xdFVJemRNNDVhSmU4MDZEcmfSAbQBQVVfeXFMTnp6NkJjb213emZHOW5Vc2dQTWRUbUJzQ2tsbGZUcDJmeGNfOWdsR3Zaek5uaThVeGEwNWdCWHVOamJRVW9Id1M4ZmlRVDhjdXNpUFV6ZUdpSGVUd1NuZVhDVGlxZi1RSXVTeldkVTh6ODZ3dzByT0xMOWl1dURJaTNGUmtwQ0hZZFF2LUF2RGI4OEY4WFZ6QjZxeTBmTDV4ZFFuckNFSk1fTnFEc2lTRzlzQXdy?oc=5",
+   "published_utc": "2026-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mazagon Dock Shipbuilders To Hold Analyst And Investor Meeting On September 24",
+   "source_name": "Sahi",
+   "source_domain": "https://www.sahi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclhmVV92b0g0eG0yV0tqbGRTRDRxX21PemNyVU91N1hKZUJfTERuQmV3NW5KS0tTVTA1SkRkNEg1VUNYWlFUQ2FiTy13cW5tOWdTQ3ZMemRZNlFzTWtzNjRDNUNvdkNNMGRTdFI1dTh4TkFQYXYzNGtEOTdqcnFXXzlNOXRrcEI3bXNwUFpTN29FUjBUczBSWDlRRkhyOFFOd01NRkJEWQ?oc=5",
+   "published_utc": "2026-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh targets chips, AI and quantum tech with Rs 22,178 crore investment push",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQjNhWGp2enFqa3h5eVRFbTZRZXdtQ3F5SFgzR3dVYS1KNlJqcS1ScVhzbDFQSWxBdmdxRHZNTXBXcWQxZFJPSWxvMXp1QzJjcUhSOGJwcm9YamU4bERYeWlIRW1uVUNNUlA3dDdHbjJCYkpHUk1hSXZ6MG9qZldDdC16aVU1QlNOQUlxanZrcWZRaXFvdmdBb0plV0RRdVRLenpwX0hiLXZJZnJhaTN4a3ZTSXZzd2I4UXhHc3hIaDgxWndySFh4NFJOSVh2cjI5NjIyMmI4eU9DRnJa0gHjAUFVX3lxTE40LV9jRUJNQVVfVnhlVDVzemp2TTlzaUhNXzQwU3hXdnpoUUY4YVA0aWc0ZHF1eGpyWVg5RnRvWWs0V1NyQmpzNTduRFlHbl9FUDdUNUxMY0x5WndJZUtlTXJuc1NFaGg2ZTJRTDVUNm9meXZUVk5VV0MyRGRiQnRNTlJ2WE8wbnhERkRzTHI0c0RfajdEZmJRZE9LcnpGdmNZcGEyb3YxcTFmN0lZSkZFN01YSjc3MWZVZzlOQ19ieVgyam1QcWh3dWIzbXJjaTd0SEI5UEJFb2M3SlRUSHNtLU5v?oc=5",
+   "published_utc": "2026-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

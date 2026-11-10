@@ -1,0 +1,37 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "AM group, Invest UP sign MoU to set up $25 billion AI data centre in Uttar Pradesh",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaFVPT2R0VXFzeGhMdGgwQ0Y0dWxPVnlxUDNod1lHbm96LUNTNVBkXzhBWmtrUmY5SG1SanFYQjJJTlZTcW9uU0h6VmRReXVIT25sXzQtbkhFaFlmRWRUQno3bkFUejBEWFc3M1ZyalJpbjl1WlVCVVU1SDJwTURILUlFTHRDOERUbGVSb1hUd01GWGk4SmI1UkZ4STM3TlZFVnZsaGRwUnRqU0Z5enFhdUJWZHcxUFZIa0tqYmp2clgydEZRdEVZb29hVlY4VHNhbFF6bXhnLXBfZlNFTEx6TFYtU3lFdGtUWkHSAe4BQVVfeXFMUGhIUnJMUlRYc0hsVFlISlZtbjRnNW1UaV9GZm5xWGJWWkVVdTRDYWhtdERiOF9qcnVISmFCS25PTkVNZm1WQ251MWxfb3BNMXZNT3RFVTRsYnhTZktQNlg4b2dYcTZ1QVg2N0ROeVBScklqa0lqQTgtbTR2QzRBclYxNVhkaW1XYXZreVBwcnMtNHYydkFjUTlkU2ZxSGV2SVNyYmgteG1JYlJTZndqVTcwTHRFTzFLSEJoMXdNaVVHMTluNzBkb0l1OElxSW5ITFdBYUVsVkxlamNJazFDMW1SeUNMOEtrUTV4Qjd4Zw?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STPI Bengaluru to Provide Co-Location Services for Karnataka State Data Centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmFGcTNXc2Jqbi1IZEZtLXNpLWxFYWFLUVhCSFFQT1gzVUx6SmNZaXFRT0lrVy13LW92OHpkUjlveFhPUEFiSHpoU2hyaXNSVmhzNHNQVVVOSC1GX3JtVFFLQ0V3c2piSmU2RFg1X1htSVVRLXFRWGd4QlpwVmU0MVM5RmdlNlBjMFF1WExEUmlrRUx2VERVZ0dvZWpZZjNJc2ZEc3kzaldaX1h1NXUzLW81RkswcXM?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s new 3-hour deepfake removal rule: Experts urge strict compliance",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzFoWUs3bHdFZ1JZdmI1R1VQVHZRMHk1WEtHeDNfOTJINDJjeWVzV2FTX0wtVS1xSjNVMVlVREhNZUFINlM3M1J3TWlJME9fLXJHNk9xMkdUb29pWDNZZGEwc0d2NVFIbGhJczdReTdaUVN4by1mWWxXOXlZcFBKbHpOaDBYU0NDbVNiMkM3ZDJxeWpJYUlIU3NDVGhBQW5EeUxTRUtKN3h1OVB3eWpBRDRJSjZtOXJvUHJKMzFLenhFTXPSAcoBQVVfeXFMUEhoVE9JVlZsOG5VUVM3aVY2alVoZjVyVWtJZTNPVmdjb0dfSHpMVHZJNnJWSDZVQ0dWbVhzYTVkOEFianRwVTNIQ181cGJTdVVnWnN4M1FPam85TU52ZTlITk1OaEFXMFR6UFQxOVFSbFlzdlVKaUNvb3o4WnlSVmlfQ2tDUlV5UVNHMVhYY0Q5SUpJdDI2MFRPM293X25Pd2tlWThlb0xhal9aNE8zMkRlXzlCNlBNNS1UY2hPbnBRSFNZQThEalZqZw?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP signs MoUs for data centre, township in NCR",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObE5qa04xNUpLWWpZY3VSVWpmOGlNSXpRbThROGJJcjB0X0dSMENkQV9vbUFaVl8wczRzR1RUci1RTkIzRjNZNjNSdWdfb2YwYUozSU96OVlnVk5kYzkwcDQtYVdhaV9wa0MzU3JFZ2dvSEVtYnFoMFRzWUp1TmppWl9yd1lSMTdITlctakIzOWtNdV9zakpSSk5HSjVUTDRKSGlQUnFZYmlBVjdGazBlWENpcGZLdTN3eHfSAb8BQVVfeXFMUG1jN19oU28tNVFsU19qZVByeXJTZF95a1BQaXAtTk9uY2tRMlJHV0xhX0ZDRnRKbVdmb3h2d083T0RrZVB0bXhiVldTdjZTWG5RdEt4VURlUzYzSU9vOUZWbTJ3aFI3MEhhWm56WDN6S2Mza3NaYVp6Rk1mRkxaM09pTmZ6TFIxcDJ1amVzUHZBY3ZfUjAwQTVaUG9rSHRwWGxoM2diNXVGQVNHeEt5dVhXY1FTdHNJQ2VITTRVQ00?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

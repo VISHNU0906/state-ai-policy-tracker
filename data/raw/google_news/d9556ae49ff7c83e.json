@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "India AI Impact Summit 2026: L&T Vyoma signs MoU with Gujarat govt, to carry out feasibility study for AI data centre in Dholera SIR",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGRNdmNMOEZyYTQ4RXNwNWQ0cWlmbC1UZERxZ05hdzU3VzVWYVR3N2k3bS1ieEl1Z3hwWkRRYXl4eF9Ob2lTc2pvdEIxeWxDOFU4ekh1Vk1tcGZFR1pmbTJOZFRHUXI5bTVQTzZTa2ZqUWxGWWNOcmFDUHlVWVFVd05zdVlkTGx0X01ZdVBCejZZQWFELS1pa0JEc0s5UlBhSmFVUEVfVTJ6M0xzdl9RS0JuMnAtWlpZZ1FjN0h30gHEAUFVX3lxTE1GSjFnQl9LNk9ocTF5U0VUMHRiNHU4dHdCYzFpZmlqUzdJR1BFdmNpdlFrVXhuMEtVUVpFWWdmR3JYdnBTRVZScEFpWFN5S21BaERRcFM4Mlg3MmpHMnF5OHRzc0xScjZqM0xMMUJXTTh3ek1QcGtCbE9UaDlJV3RKSVFRQV9Hc3JXVHI0UVVlWnNWakR5XzdubTYxSEdfMFRkMzFnSnB6aHIyczk1N1ZzU2JsMnQxTDFYS0Z0aVY3Tk1iVnY?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat signs Rs 25k crore MoU with L&T Vyom for 250MW data centre at Dholera SIR",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkVGSlVLUmF2NkZsdjFiN2lEN0hPV01wSE9VdDNFSWVWZkFydER0X0JEYVFQd1VVUDNVdVdaOHN1YUxYSU5ZZ1FkM3JZTDBnaS1tb0hBbWEwNS1VVWt3M0Fxc0ZVWkUzYUZlQjI4VTRjRW1ucFc4bVJQUlBvUm9PLVRzc0U3YlRZb0FXRGxlVDRRSmJsZi02ajRVQ1otQ0N1Q0JyemVhTnU5MzlMLW91bXJXMi1oVDJBbHBjRi1jOGlvSmpIVmp5dUtINW1YWDhjTGQ5RUhFME5lSDVfYzFLNFJiUlBYRzhQSlBrSC1R0gHzAUFVX3lxTE1PQUxHclJjZlM4VDZYTHlfREgwdFBoOE51QnVzcExEVFdYT3pXNWxGS2lCUHF1LTlyNy1CemxfckZSUzJuWGZUazctRmVSbEtoNDEwdVJNc0h2NVVNMFR5X1dFUl82TTg4Tnlxa184REZOUW5rRjZjcS10LVlOTks1cEFQOGNkbWdVOTQxYjlNRVk3bmlmS2RCNGZhR2p5bm45ZkYtbGNfMWNlTHVkeFZZY1Y2ZkdMWWNpU3lKWm0wT0NTQTN4dnpyQnFuQ0pWblV1WVFEbnlNSGIzMWdVWXNHMkVhUzhyTnJwdEF4V0U5T1U1WQ?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Data Centre Infrastructure in India Shaping Power and Water Use",
+   "source_name": "CEEW",
+   "source_domain": "https://www.ceew.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2tNalFiRU1qZURuTTdoVXg0dHRMTVdKUm9MX0xKaUgtLWxmM1pSUDhweTAxR3VteW1FYkh3OU43RDlqakp5dmVFbDM0dDZmWG00aFRkdnRvRERzVWJMazk4Q1Fad0gtSkJ6X3FxOEhJM2tTV0RFd0xRN1U4aGQwSnN1M3QtMkkyUy04VkE4VzVCS0U2WEhjRmpTU2Zxa2lEZnpFbVJn?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T Vyoma to invest Rs 25,000 cr for green AI-ready data center campus at Dholera, Gujarat",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaGRFanpaQTFTcEh1Tk0zemZTMlIwTFVNUDZGMGRzYng4czNXWTdXSDE0ZWNlU3lhT2Y5X2F6bVBheHNaOXFxY0w4STZVd3k1WW0wRUY2S1ZINmhRT3hnbW9jZHl0bHBDVS00SlVKRWpteGhRaUgyNkpDeVdfZ1FVTGNMRk0zR0Q5TmlFRGhLRDdGY2VaaWdfODAyd3VjLW9fTUVYeWE3SkhDbXZGRHVpWlNMOFdOQm1NNm5nb0hyM01WT3ZCQ3hZMkVUWWROUldKbW13T1JmcUJBb2poZUo1dHlTaXg2Q0ZMSHFfQ2ZyU0JUSGc2c3NfbDNlVVV1ME1DdXIzN3NKcy1uc2J3UGV4S09B0gGXAkFVX3lxTE9FQkgxMWdORXY0MUVldW9IRWxlTVNfZkgtS3hJamdnUmVla2hJUDNBdDNidjhmNTJhUmNZT3F6MHhHdEo2b3Iwa1VEcTNGSmpGOFVHZUNnalVGbmpscTV3NWs0UXdsdDAzMWMtR3lybzhmUmYtQkNtcHhfNy16bUZCbTJWbUMtbmEwZUtvT0ZzZ2xJUGJiSUZBRzBEa3JVclZpR2ZrRVdjbzBJbTF2b3NidVB6V1FjOGhRRWFnenFiSDN6dzBCQ2hiekpxeEFOYy0telY4NXBNWlJCOEdWWW03WmRBZVhqU2dkb3EwV0s5ZmxnVmt5QjVUU2RfeEJ4aGpZU3pzcGI5d1dHQ2pXNUdXRVloUXdRZw?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake Deadline: Gujarat HC Orders Centre-State Response by March 20",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vZlVCclVFeExRVVB2d0RPd01oemQzN19VaEZreU5NS2w0dDlROWdPNkEtMVAwQ25Cenl5eFlsb0hYaVJGbU9KMTc0dFVCUmNXWFdIYXFtUlAzbVh0X3JjRmtxcVJvdXhndnpYOFZuTy1jdXRNNjNNTWJPcU8?oc=5",
+   "published_utc": "2026-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Signs MoU For Rs 25,000 Crore AI Data Centre At Dholera",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXQ1eXN4Ri1Za3BNdWx0dDM5VzZSSGtXUk5NSUUxeXJidzBJTjludlVPX2hSdnExVTBQcmFEVGd1NU5YeUpLN3RVeXo2dndNN0hocS1BcENabkdzMV92ZWdjVzE4dTZiX3IydjcyVlNvS0x3VmloaUdSOG1wUjZKazZsVXJqMWpPaXFyeXNUSldDMWtCZHJNWEhZb21RZ9IBrgFBVV95cUxQdVdRNVVfbzZ3SHptQ0RPcEdjTEpQZWZfWXZzaFNwbEM5OUdqM2dzdTVISnZRWVU0LVpxQ1pIYXE5LTNfTTNNMFlzV3d3NjNiSlpYMUVqVUJuRXZXakpGQUk3VTEtZVBJbEZpdkctSTQ4Y3p6UjRiRTJZNlgtN25ySkhncUJuSFNZZ0NBZmlTRVRHamxvRFNXV3N3ZmpWX2p4czBYcjF0dklfY0QxSUE?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat HC seeks responses on PIL against misuse of deepfake targeting authorities | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON3lYdFJ2VEN0cnM1ZWxwc1pPWEY1RmVnNEg1QVlzZy1pSmNjUTRnUXZBM2VSQm1PY3BGa3dEaW5iN2FiMzhFNHZXZl9USVFncW00cWU2TUxhbDZNcGR6SlRiWDJCSmt2WkJnWDdhMFdyYU11bWNaOWpiOU92akhIc1lSNXdCTEpmR0RVa0RmZldibW5QYWlGblVBaWdzSDRvVmF1Q0pjdnZsaXRVQmVaVnJvYm5GWlZVSzd3SmVuN1ltdVVRQjVLLXF3YU9SUnlLdno5M3lQbmZpYmk4czhvbXl30gHnAUFVX3lxTE5zekpNeDA4bzM5Mi1Xd2hhZy0xTUZNT3g2T1U4ai1fUW1DWGVkdUtHMmpwR0ZkMDhtZk5rbktzNkF2Qk5YZ2pSUTRTMWhsUS1WQll6RXlXWWFmZXBTSW1lVGs2MURrTU5CR2VHQ19GNDlJMDNLVWc2bGtlNFZVVVpBLUZGU2ozNGp3OWZyY0xQdUZ0M2VtbS1CcE5TUHF3WlM1b1ZtQmFDeG1CV3ZsVTVBVjZjV3pQdUxzU2tEclJUUGFIM2RXRkh0NUpuZE5FcG95RVl6TnlRYXUxTXBwcWowU0M0ZlViMA?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Days Of Deepfakes': Gujarat High Court Rejects PIL Filed Solely Based On WhatsApp Video Alleging Illegal ...",
+   "source_name": "Live Law",
+   "source_domain": "https://www.livelaw.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmtMS3VRZXhYUF85em5KQ0cyZ0ZrQWdWMHVxZGlKdTJNcVFBMmtNM29FcUhaMWJDUUxoOGRnZmJFUEF3NHZ5dmNoYnQwUHp5aFJXM3hsaGdCQTRrZHhtbHF0V1NvN1JHMVl4Z0JPaDdKQVBvVVRMNzRhSjBmWnVhSkFGSExDV1MxN2VidmNKUklXeGxoRVRiZmJZWmppWnpzbi1sVmF5YVc4T0RQUm94WDg4N1d3MTJUb3EySlpPMWZ0bjV2c0pNSzBB0gHPAUFVX3lxTFA4c3A1bVpBVWZsZEtaTVJQYmNwNnhqZkxCNl9DVnpJU1d5U1pmY0hwWDJ6VklnbHNDV09JQ0JRdURPU0NJS241b05xbmxnVlBsaTZRWWJ5OXN4Q2tKekp3b2h0QkNSVnMtWDBrUkpfNzNBa1hSYmtkZGN5OWlKVTQ0LURPSm84b1ZETnNBZXBwUGdLVjV6Mk04Mm82NmNvbWpYMmNhWjJvTXFRc3F5TjEtOTJTdm9Fa2ZxX0FOWXhsTlVjX3FoMlFiMkRXOUsyVQ?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STPI Bengaluru to Provide Co-Location Services for Karnataka State Data Centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmFGcTNXc2Jqbi1IZEZtLXNpLWxFYWFLUVhCSFFQT1gzVUx6SmNZaXFRT0lrVy13LW92OHpkUjlveFhPUEFiSHpoU2hyaXNSVmhzNHNQVVVOSC1GX3JtVFFLQ0V3c2piSmU2RFg1X1htSVVRLXFRWGd4QlpwVmU0MVM5RmdlNlBjMFF1WExEUmlrRUx2VERVZ0dvZWpZZjNJc2ZEc3kzaldaX1h1NXUzLW81RkswcXM?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Safeguarding public trust’: Gujarat HC issues notice on PIL seeking crackdown on AI deepfakes targeting constitutional authorities",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDVKRDhhSlVLY0VZS3FsQjhRZm04SU1TaHpCbXVjbXAtLXlrUVQtcVJodFNucTFjSXRSOHQ5ejNwQTkySzJ1bmU0ekNoQWpwUmdYNE02MEdsTThNbjNkOE5iVVZScWxOcmlBZEdGNmtvbkRUYUJpMW9ZV0piRVlQRXJ2QmU2bEIzNEJrVldodVhoVHEwMnpDNTRfM2lya3h0ekMtbTF1SUtCZWFyVm1weTZVSHZDckswb1ZB0gHCAUFVX3lxTE53S3poSlYwRmgwWWtIZ1pnOGxzQklvUG5Rb2tWb3R6eWlOSWJObF9wVTcwcC1pY0dMVkR2OW9aOHhocFlVcVBxQ1ZjelVLUVRxWnYzSm9GUHV3a1h0TkRKMlBJRTZFLTFmbXhKcnhjZU9wWXlVcHpLblhUUzUyS0JrcFJBblZzVXFaQVZ2MUU1d0tFeEhEeHVvNVhaajFac2VUa0tpRnM3YmpGTWhvaUNuUWJCT2pKX1BnZWhTRnpRdjd3?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

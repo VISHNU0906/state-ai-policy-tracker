@@ -1,0 +1,45 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "Zepto Logic signs ₹250-crore pact with Tamil Nadu to set-up fabless chip design house, VLSI skilling centr..",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQa2I3dFhSZ0k4SHBFeC1CM1dqY1dCcy04R3o1WDhUelRySmRWZUhhdnZCalRXNkRVLVVOTEl3bEYtWk9hTmsxQ3dYVHZxUWJNSkJMazJ6SXRJZXc0Vmt0VjlGYUhDU3V6bjZHbmdUQ3RnQmh0Z3Y4ZExyb1JrSG9EXzJEMFdsdG43WHlGTDgzTmpvZE81aDZ6SUVLR3ZmOWRMX1RmOWFlbDBYcVVwNWw5bGRQX2RYNFppQmNKNEJPM3hvSWdtcDJFcFdWU29UallyZ0tsVWIxQnZOMEJEMFdwdlBjSlBTY3pZTzl6Yk5uUzY4dGtjd0g5bDl2Tl9hQXQxNzM40gGIAkFVX3lxTE8wSVFQVnkyUW1WLU1lNWd6Y3ZlbTctNWhQMVpUcXVIclFsUGxGY3dtUzY1T2pxQ0tTVWVoWlNvbHh6VnhxSlhEdkwwZkVZQUJsSmdBWTlocloxUVM1Q3o3V1I1aERyMzF0bGRsaGI3Rk5VQVkyRFE0dlNaOFNTSVNvTVo2c1RsOTl5Q1RETUZQQ045VEdqWklfTzlMMy1BQ2lSdU81UnNTci1RQTQ3MjVsanJjaWdOMVE1VHZFTXU1NHhWeVRBeDBLRDZOMWh5V1VvY0RUZWVkT0VEd3FpT3FOR2QyeUd5eXJUcVFvNXZjTWt4U2pEWHBMRk41dDRIYUFmV2F4bkIzTw?oc=5",
+   "published_utc": "2025-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu 2030: The GCC Revolution Powering the USD 1-Trillion Economy Dream",
+   "source_name": "Cyril Amarchand Mangaldas",
+   "source_domain": "https://corporate.cyrilamarchandblogs.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWVobUFLeHFBa2xpd25rMHl1em9ZSlptMkRTaFBaX1BaTFVzN3pRT2NQS2pCS2Z5bXhsOVhvVngwa3Q0WkV0Y3lfQnFKNEVROXA3U0czdTdyemNncFp5SzczZEFidWFEQmI0RjBMNTB5dVhrVE1kaEJILVVTRExtN0tXRk1TbHpnaTZIRWdNX29hcmRKZEg0dHgxNkxJSDVqamZfNE45VGhJSHo5cS1lYjNYZnRMOFg0a0xqSUFFc1ZfcHU5R0E?oc=5",
+   "published_utc": "2025-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu inks MoU with ANSR to accelerate GCC expansion",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0FSU0ZralRDb2o5QXhXdy15dnhBWU5Yck4xdmtiVzdiNDRjUlJGcFlEMTFyVTlaVWdhYnBaMXRQNjdZU0pEMG5hRjVKUTdEVGhOTmw1ZmFNdzBRcHBsaU80QVdUSjVkdmtYcWNwZlFfdElVYzlWZlhQQXh3RlRwdnNpUFVqWkJ5a2pnX2Y1Y0ZWT0N4WUtwSWpNcVBFWk5rU054UU5vQlE4T1YyZFpfZW1Ka0xXNnllZ2tTc9IBygFBVV95cUxPdHczV0pGeml4WFVZY3JDMlBGOWhfM05HVVp0bW13SW5OVWRXQm1uVmVhTnRyX0dkRjlETkNJYzZTQkV4dWppR1BkMVlZSDNQX1JZeGpOQXN4bUd0bFUtY3lkdF9ubU5FRmU5ZmREbktWdVI0dFk2YXdDWmFwNzdoMW9GNVp2ai01NlpyemJkeE1xdGxHNnpsYVZQNUE4YkVmWlZSRXlJd1VhM1JyREs4SXM0M2tPUWE4NEFjNFZPNXBnbFpGOG8xRG13?oc=5",
+   "published_utc": "2025-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "List of current Indian chief ministers",
+   "source_name": "Britannica",
+   "source_domain": "https://www.britannica.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyYVpRR0JvTFNLWjNrNmFwdjJYTEMtR0RhTkxNTUV6Zm95NnB0c09JNVFkMUQ2WGN0MTdTUG52Z3g5Z3pXNzh2TThuVDJnVU00WTl2V0JkS3prZ0xpZGVwanpOY1dpdGNJRF8yZ3JUZEVHampMX2JGaTd2Zw?oc=5",
+   "published_utc": "2025-11-11T23:12:47+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI tool to offer career guidance to students",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOUJZai10VmV6LVZKUVNzbGFEelNIYnI3RU9uc1FGVEx0d2JWUTR5cTBIemx0bFJ1bkNxc0dOUGhweWdLRU1qSTdlVm54U3UwR1JFMmxzMFNTQ2FOWXVWTGk3b0NhME43X2tHaUFDQV8takl2RFYtMHNEMUNYSWs3OUpNSnRUVENCV2l6bjl3UkF5dC00cTUwNmZkc1otRTBrUk1vdTREQVRtV0d6RHJhTWRWLVRGa05jZ0NDVUVyTVhXYlFKMlNkYnNnWC1HWTZGclp0bHl3U1k1VklNOHV1bTRqYjPSAeoBQVVfeXFMUFdzeGdxVmMyc3FoVW53aXZ4aWhEOWxxVXRvVmZoN2RhWTl1Y1JIQTM4S1ZzQlNPZ0dnWThoSENYdnQwRnNybVlCb1lMNzg4Qk9QTkJTdmNxRnBPc29MOVhUaVpKUXlzbzY2NDVXVGNtOEJoUTZGX1lUd05JTWVEUFRUTm1najZwdE9UZmk3bnBlNXliSkVtU3diTnE1bWtzMGlLSW9hc1Q5SHhJakhnOVI0eS1QMWlzRkwtazYwTTVNSHROTUhjX0VFVVdHeWlYVzJlWjExNzFia1I0Qnp5dWNhNllrdmxuWEV3?oc=5",
+   "published_utc": "2025-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

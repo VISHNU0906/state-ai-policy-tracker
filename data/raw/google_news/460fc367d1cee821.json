@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "MP Govt Launches India’s First AI-Based Real-Time Forest Alert System",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2FmSU43dERmU0tOQ19EX3p6OUZQYmpaLU9aUXlGQmozZ3pPSlQzOHN6aFVSLVphZVA1LTJKN21fWFJlbTgtMEE5cERVbDhRVVNDMUtTaGNVZkYyRzFCanhsVm41SDk4RUdWTHpWQkN3RXNKQkxoRnl3dmJEcnF1eWFEbGtCTk1teWpOLXdVNkx6UmZqRl9CeUl1SkFCVHZTazEyTzMzaFI?oc=5",
+   "published_utc": "2025-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From sparks to scale: How can AI be embedded into governance",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEtHNEZrUC1hTnpZZXZyVDRJeHY3Nk1ITGJpb3Zwcl83UGZJZ0RxRFJDbm5mdmhteVRaLS1Ja0RHRkMtYUxxWTlWdmNCUHAwRVlYbDFlcXhaMl9sbTVwbHc3ckNTdGNSSWE0UVdsNXVmRjQzZFZPWXI2V1ljTmVJek9BMG1MYm0zdFNwX3ZrLW5oTTB3V0JObTJYQi1JMmRKNUVlR2tEbFZPM2V3QXNJNUJiUVFOeFliUW96QUNUSdIBwwFBVV95cUxQanFrTjZCeW5wV2h3cEFsWXRZY2JkQk1neGxDbk5WR2x5dnRpbmptQ3ROZV9qbVR0bjAxU1hKRjd5U0oyMW9CQ2RvaHBlbHV1eEZYWjRSbkVidElLZE51NmtQVmhod1dCd2tITkhBcENhai1qLWl1Yzl1S0psYkxYLXZNTlBHeHY2N194QUhHNnZPZW1iUUNjeXg0bU4xT3NsSWMwby1JbDRMMHNKY0VibWw3dVFfZU9HOGlUa3o2Q1NoSTQ?oc=5",
+   "published_utc": "2025-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Damoh: Man posing as UK doctor held in India after fatal surgeries",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HWlNZM0Rjams3VVVKU2k1aHlSTzYtcUt4ci1zX2U1bzJOdEVKeVltRW5vOXhFY0gtREVXVlF2dWFyWXFxM0Q0RjRxTDFpNTRkYktHUWNaNXV4Zw?oc=5",
+   "published_utc": "2025-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP first state to launch AI-based real-time forest alert system: Officials",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcmQ0c3ZaRG9xQllWUmp3eWx0X1ZteWY5aXBTb0FiaGpTaUV5Y3RMZ2o0MURGTGQwRmhGTmhtNnRzem5jQkc3MjMtX3VKSXF0YjFDYnF6VGNTWDVmOFNpVWNpOE8wM01USzFSdTFiUms0aGxEdU5UVUVLSzRTTlBERlhRMnQzaElIX3lGYzVZeFhRSzdVYkxCc2llWEF3TUVUVk4ySzZZWFFycUNPMkFfN0tuRndnYjhNZFpmX1pWYXFDR0hsZ3R3VV9vaTJobUtnTXVpZ9IB2gFBVV95cUxNWXFBMFhuS1N4aVhlampqNUVubkZPbGdDZDl2a2p0SGlIR1l6YTQybFhmU1ZlcldHejZqekdhaUl2OVdkT0U2QzJFU09YaUN5RUdUNG5td0hqTDVVNEFSUHR3a1VUOGgyM1NZUU02RkU1RU9WdHhKUk9wMnhURGpmXzQ1bzh0anlNd09vMFpsUF9VNnZuLUg3V2ltSVNSckZia09vRnI1SWFGUDl2ZUZZem9VVGZBN2pVemdDOWZYakJjdXRDT0Y0aTJhY2xXdjJqNzllS3pia3RUQQ?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Becomes First State to Use AI for Real-Time Forest Monitoring",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmZXQmJRd1B4U1RuYUZURjRQZ25CdEg3U2c3dmVTVndNZHZSUlR6bW1vV0NULVVHTXRhNFJVdFlzTTd2SVlKQWFnN0diM2gxMUJ1YXVlekJVR2wwbDh0VGNNYzVXQWNZTmZHNFdGTDJPNlhXaXlIa3ZzenF4a2VvX1dNNUhHdlRQWmtka19JOC1WY29GVFlIdDJmMzd1UE1odlBCcGh1dmtWZFBqTEJ6am9jVUQ2Nzd0Q3BV?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A 2020 video of Madhya Pradesh police beating a drunk man is falsely shared as being from the Waqf Bill protests.",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXlab2hOclVIc1dTN1ZzdlBLQ1JDZDhhSGZqaTNxY0dmOE5VLVlCdUdkbnZ4aHVucndmTDMtVlpMOVZkTGZRRXNmWkx3QTkxS2lsdXZGakwzRU1sQlZnMGw2U3JOMWFzdF8xV1RHZzE3WE5DN1NUamhzTzFyUjNyNUQyTjJDekQyTFlMaHNxdi1vQUJVMFdONDVpRFZtcjJRRGNhSGU4emZjeUxZeTdUNjU3RWFUdFMyOVBWQVByVXFhQUtwOEltNWRBQQ?oc=5",
+   "published_utc": "2025-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Rise School’, a hi-tech education facility with ‘smart classes’, in MP, undergoes name-change after...",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ0lWWklXcjNPcUFpUV9wMHhPc0JXckFkcmRaTmJpUlJCdWhYbmZUb0xlMXkzQWdXUnVOX3Q3WGI0QnJudW52OUFUck1zeVZ1NkZTSEJVN3RFaGZGUnZoNGpUblJqVG16V1NkbVc4eHJGYTNZQWdrb2pxNk1RM3FSWTVGSHAxSVdQMzVFXzNyNDRuSUlXN3NGVUhWUmYzS3pkaEI2aHBjTDdQYm1NR05HandGVzNpRkdjbi1xY0pwM2VkdGJOUFlIcUJrUVgtV3dndEdjS2Rtc2xKOUZkRmQ0S0Q3dzBqTXZrZm9ZY0pkRzhyNE1ZNmU3SHFRUm16Y05oSlHSAYcCQVVfeXFMUDNnUl9WOUdGUHRrWDYzMDY5alpadldUVFBoYVhicGZxbG5kcjBfY1V3eVhoaThXVTM5Q0MwWUNoWnc1YktvODd1c3BmZUI4OFBfcGdYU1RUQkVZYjdMZmhyN0dVVENiSG8zRmI4V1k1VjV1VV9ybU9QdjFvSjF1cmpzaXdVc0diWXJrMFRfcW5xakpkSnU2cXlueExmRFRCcjljdk4wcEFvWkNLcW5Lb19uRWVIdXludy1sWDFvT3NVYTBmTFV1MUQyWjdoNUo2NXYwN2pWU0tkd0I3bXpvMGFNWHEtN2U3RjRnRkppbFcxRDVDNmxKN0JDeHZXT0JrZ3V1V05MY2s?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "155 Engineering Colleges Shut Down In Madhya Pradesh, 60 Alone In Bhopal",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3pHcXFkN29jNnFjR2x5UWkzeGFoVi1YSHU5c2h3bkxsdzNTRlEwM0xlZF9MRkdWazRFVFNBMVpTS3RkQUxKRTJWeU1oOVRKSFBNTHJ1ZW1tcVB4LXBFaGNVUVBxUERwSHBOOFNJSW5rZ1ZQU1ZWNEZ0dFp6SGlNX3NOU0ZJdnpWS1pFWVV4WFhMUWc2Y3ozR0duODA3SWlWN21zQW90Z2xkSVJwRFVR0gG3AUFVX3lxTFBuMmN3amFaZ1NMeWZVdU1LU3FhbC1yRXN1V21FSWJVYnN6QmZvZ3EybkhWbDhIbTd6TWc3TFdLY3FMMmhyNFBGVjJJc3ZNRUFMZDZFZjR5SU1vNGlHdWdkY29jSzMtVkpKclJlZVcwbXdJcEJ1Ql96bEFXYlRuT2tVZXhoWnNRWmVxMlBTY3dGMkhrRlVVRnEwSk1xSGVMM01fV3VFVUs1V1BCbldoMXFjeXpSTWptRQ?oc=5",
+   "published_utc": "2025-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Modern Technology for Sustainable Forest Management",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0oyMURaWjBuUVhBeFJYaTdXNjh2SC03QnR3S3dZMDZzTXZVN1Q1MUgyTUVNLTFGaGluOTF5cS1aMHM3VmJSV1RiYVdnRVdsenc4cXM4V3hDRUwyQnZnd013SmJSb19yS3h4c3pNS2FvUnV4eF9sQ2RrMHhkTWpXMTZXakNDeW5hN2RUZGpFQVNVMTBqYktadFBxclRUZkFnUUFTdXc0WEhtdnd2WXZMUkFn?oc=5",
+   "published_utc": "2025-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt. Reshuffles Several IAS Officers; IAS Neeraj Kumar Singh Made Additional Secy, Health & Family Welfare Dept.",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSFUyaUhraEVPQm5Nck9jbUNKazRSV3ROSkp6RUpvZkJIeUNJR1M3ZWEzbzQ0YW0wZWprUWcya1ZHMmhCUW1KTjlvREpOUWh5cDYzcGRxb2NjYUtQXzZ4dUthWS1UaDZYelBjRHRqYmtXZGFjZW95T1NUZUtTTkVYMW9pTkt5SUhiUThIQlBkQ3JHV1ZLWXJsX2hEc1pBT2owc3p4cW90dkIwY0VqVmhhcE83V3RCdkp2enlVWE8tM0JiMWpsOS1GaGFDc1RSQlhkRE5kaVdiclE0OGFsOXpXag?oc=5",
+   "published_utc": "2025-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Maharashtra: Row over language turns violent in India's richest state",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5idnprQ3MzcHhPU2pRZzN5WXk3cS1SVmRNbU14clpZME5nbjlMRzB0T1JnUzhBaXUtUkNPS2FHQTVnbjVMQ2JyZjB5SEZlZno4R1YtSFdLMzhuUQ?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government to encourage use of AI to increase sugarcane productivity",
+   "source_name": "ChiniMandi",
+   "source_domain": "https://www.chinimandi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaElYemZqajVNakFaUmN6N3dUQ0ROQnY3WElaQWRGVktyRzlJZ21XYkM2d1hzVnQzb1A1Qm4wcW54NFk0ZmlWdlFkd1NodUowRFpHMy1nTlQtTUhDMUZLSmxSSUFucUVOM08yQUd1VmQ2eU5menk3czdXWnNUOGlaTUd3dGdiYm9mWndTakhvVWtGcE1Da2tfLWlDbmdXSmNpWjdfLS12RHJ4NGJN?oc=5",
+   "published_utc": "2025-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt inks 2 MoUs to enhance school education, promote math, science learning",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObUZNSGd6NWxvZVdtcS14LUR4c3A4TTA1QjZYN2Z6SU9DZGF0bzJ0ci1BbVlmelo3ZlBQWjQ1d3VqYms1Q2d6Qkx3Z1dVc2tqZWxlMVZfcEw3QzB2RVhvNl9BMXNOTDM0ZnIyRWR1Qmp4U05hN2JQcUVfeXBYY3dyYl9WRlNPVm1paHhmT2RQWHFhQndZTmlSSzRPdTl3N2lNeDRDZTg5MHpkNlR1VHBVS1d6RXNfQXBoang4MHpkM1pfUkNHWGxnY3Zab0MwdXdfOGU3clNfWUFZTnJQeS1MM0FlM0lxRy1BdWYtRkJJNnpJUDB3Z1Y0VzdBV2htelBZTEhKN2FuWVQ0czhQUENOVzRBWlFTUdIBmgJBVV95cUxOYmd6N2xHQmVvTHRKV2JSTUk1b2tPRnd6WEJwdlM5TTNacFQweE5kNkhVdWpaTU5aaTc2UE5rMkZfSzB5YWpfTTdrTVhhQmhWcmtydUwtZ1hNZXlJMkF6RDhlaEFvV3dZY1pSQkhMQ2I2R1VwU1o3ZE8wX0lZQW5BMUtBS29LUlkzdDhEUHNtazZoRmFHb21vWmUwMlRYZjBHV1VZUHppVmtOV3N1UjRqeFNuSkRyQllJbEF5Z0FERzRIWG9LUFFUMVg4NW1yd0VEQzh0dDkwRXY5TXpYcFZxU1psd3hXMkhEZWNSeElMU043aVprdGdldERiOUEwWGJRVW9Bem5aS09SVnBtamJ4RVd2MEtaWHZwRXc?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra deploys AI-powered MARVEL system for wildlife tracking and surveillance system",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaU1CSndpYUdwVFJXUW1ISnRhRGtBZVNBS3NoZEVKTDYzN3JtUm1BLVFQZ0cyOTlyWFZvOGtYR0FQREtyTm1XSmpTeHZaSlRZcTlId2ZnOTByeG03ZGhmRGV6UDdLU2hBYzNXMkcxdkR5Y3VFZ0hNVlRTRTBEUF9wcjBsbl9KOThSd2ZockdiZVpTTnlLaGdWd0lEMjljcUM1UUtGcHpvdUJjd1lTMUdkTGxUSzAtMFA3a3RmQ24zZkhyTlJUMDhxTjJEOEo5UHRqQjhiTTVzUXhpNThnZkJtVmd30gHoAUFVX3lxTE9hLTBwUWRURUZON1hfbEhoZ3BvN3BTd3V3MGJyR3lDRWI3bTg0LVB1LVZIOERrRXM1WUtFeFN1YUQ4bmRaWXdlWGMzcElaOXJ4ZlRCOFJlQmxWTWxETHUxOUZFX1J6TUtFalBJcEctRXFIblBfaFFPcGlZT2NkN2tPZ2RPMUl6c0pzMlRqaDB1Z2F2SzJiaTRnLU5YYllYMDdab3QycWc5TjNxaUR2S21ndm94M1d1R0tqTjVCWkp2X2tCcGVQTUs1NFJWYTBFa2tGMDRTV3RLMV95MGhpT29kaWhFZWpXX3k?oc=5",
+   "published_utc": "2025-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tiger Warnings, Using AI: Maharashtra Reserve Deploys New Tech To Save Lives",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkVVRFJkWi1ITGh1WTViR2MxaWR5RTRUU19LdXBLbVZBLXEtQVdfVl83ZGZrbndGUDA2WFJfZWFqUG5UbldCRUQwUGJObFRwNVFWWDlIdFVJS1FRWkphZXRJMHNWY1hzcUs1dlBxb3ZieXoyUlJ1WF9QZ0I3bi1mZkFaVjVoTW45Z05JYjk0QVlKX1gzSUhJb2RaaWU5Z3JSVUF3LVdsdzFFRHNScklGRUVmd9IBuwFBVV95cUxOUWtBRnVsZFV2cnROcHpDcUl2RGxjSWdBSHRvM2hUajBYbU83Y1VtRkg4dWJoTTRhWEUwUUQ4UngyNk1XWGlIcWhBUlBBVENrT3JzbVFuWW9WVUJZdkJFdWRiRzRjcnhhWGdCbU5CUENpRHgybDZ4NnNEQk1WMTJMQ2lDWjJvbVU3UUtPWjZ5d09Tb0J1ZHVFWXZfNjFlQ3FHelFPeEppQVhEMWt0eTlBYkFDX3ZDZWxubVpV?oc=5",
+   "published_utc": "2025-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra declares October 3 as classical Marathi language day amid row",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFZ2Zk90OUplS3NKTTBNanpOU1c5LWw2ZHFEakVLRjlCb3gzZzBsaDF2VHBRX3YyQXR0d2lNMFU5T2NGdnVGUFpqTW1TWmM4QmRSbF9xaldqQ2EzREh0cldsN1BPUTJTUVJHTFYxQkljWkxQSEtoc0NRNWZrMkRubEtuVjJlaXo5ZkljSFRDUER3d2gtaUoydEdhLTdZbEp3MW5aZWZKT1JsejdnZ29MWVBUcXJvbS1RWFhrcWhWb3BhV21jdTgxTXpkdmVVczjSAdQBQVVfeXFMTXVfMll0UVJWOTZOaWVpeUVnQlB3d09DR3hncG9KSDA0dnRIYUk0czZlOU1HV0Nmdnp1UDBzUlJtOGY4M3lja2xfNHdDaWY2MjV5am5MZkZKS28wSFBUbFpjTGhfYVJ3MklXZkF6RzdYZUF6SzVvYUNnMTNNNkNEZVdsVXN2dU9tdDUwbVU0MDB3VTJ2SWs5bnZiRTUtNDBROExLZHEtdWF1UDRjcDdDeUp0dWstLW9RVlRCdmdwNkRDLWpkQldobXBFVTJtVXBaWklsY1I?oc=5",
+   "published_utc": "2025-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Meets Innovation: Samsung Launches its Future-Forward Business Experience Studio in Mumbai",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXk1QXRmdkZiYm1tend3cG9GcUhlb21TN0lTcTVwMXBybXdoRFcyT2UyZ3RNWDExWWpDVzd2c2dpRlpQVkZYQmNUdXVWbkc4UmpvWDBISTdiWmh6SUluMXBzT0ZNbFVFbUliTzBMS1JKakh0bG9WMjhMamNZeF9wRm91b2wxTTZUUGt5SUpYX1FMTnltdlhFQV9TcHM1YVpEcTBEaDI2dHZrUFJaLXF3VHRiNFZEeXBfcnZnZg?oc=5",
+   "published_utc": "2025-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government to legalize subdivided land parcels up to January 1, 2025",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkwwaDdHNE1Pd1MtaUhoZVlnT2pvZnJCV252RURsOFo0Q1hoc2FJZVRwNHhfYzhTVE9aNXhpS1JCX2VxQU4yTzZWUWpROU1IaHN0X3VrZnlkY3dMTy1PNFdacnU0WlVjTjkzT3doWmlNeUNKTkZKendqVEY2eVdWdVhqTkdkVkdGS3FNbTNaQUZtZElLTnNTd05sbnVuS21BTldQNEswdFB4M1lLaXZBcXZ0UE1Mc0hCQVBpRGxycHcxREtrZ2h2TDkydDNONmRZbXfSAdcBQVVfeXFMT2VteHBjbnQzMHZwUTZSeFZNZ3RKaHE2TGlYdjBNbEI2WHdWTG5ZZFRVUE1UZXJmRDVLS1IzQURya3BOVVFGcmszaUtjQXBLcDZqeUIzWWZpdjhpVkJyRnNZUnNMbW9rR1lXUXptTjYyS3ZnalJZblRLNWwweFlXVXFkbDNaWjduZXpTU2RqUVF5SU45bk8yRmRmLU54QmlzX1p6MjhkT1NnQ3Roc3JEa0pKOXhQSEpWc2NsR2dCTEdUTlZBXzVmOFM1Z3JKdl9oT3k3M3YtVEk?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt tables bill to amend Slum Act to enable SRA to recover transit rent dues from builders",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbkVYN3B4Tnk1Y1VRUlctdjZFMzBhcE14WEhrX3ZsZzlwcVB0TDlhVTNZN3d4V0VTU0FDVGVMQ3ZuMnhyNWExN3hROGNJZERnQmJsaFlrVUVYbkFmZWJfaVFUZUlUZUVLZlUwSENqb3BMU3VCU3ZwcGZVZnQxcC1XZ3RmNjlHOTFpalRIdUVhREtLc1cydmNwbXBaMGwzZ2FYaWZTTDFHQTg3RDJrQ0U0czZORndTLUNUTWNCZXVBMm9iSFhPbUo2UDlWdmV2c2NreHlUUVV0bmxzSGdYNklJVklFS2pFd0FXYWlaUWRHMkTSAfYBQVVfeXFMTUc4VFdyTWtxRTdBRjdDZlRKOG9vSlZ6ZXY5MEVucUtPbm1zT0I3NEJ0VmZRSmlaVTdmYjhCVThEZHJuNjNIek12VDlRRnl0WllhMEZlTDRRLWt2bi1mY1owS09pOTVMd3NzczNyT0FOZmZoRlBOVjItQ21GMzF2YnIyVC04SWlYQXZKbjNEOXhtMDNwX09tVEFwUElVODdaRE1rUzRRWXhMWWN5TUxZOXZ2VVpFcUFyQzVnWjVZUVlTZ0V0SXNoYnZvbjQ5cDh3Wm5QQjBuVkRWZl92UXRHVDlJMVR4RmxfTGZsT0NXakhIZFdKcGt3?oc=5",
+   "published_utc": "2025-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM Launches India’s First AI-Powered Anganwadi in Nagpur",
+   "source_name": "The Bridge Chronicle",
+   "source_domain": "https://www.thebridgechronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVF5UWh1bF9WV3dRV0VaZmw5N0xDbjIxRGlqMEw5cWx4NjIxOU9GZXQ1dE54cTZTM3JOOVRzV3lFTzJNWkpCeVpxaE5UejlxMGJNODdGV2VTSmd1bmdzRGJDbUV4UDRxVzV1QmdmdVJLc2dEV0NrMlNyV0xMOGNaekx2ZWJXeG9RTGfSAZcBQVVfeXFMT3hCd2Z1VnRvU1lsR2RMQk50c1hZUjdDMTZPT3czdDh2cHNUQ2l1S3EyLU1IZUh0bnF4ZmNndjNDQWJCaWtNSmJvY21xeDE5MW56UTUwcFROYi0zeVpqSS03VXZudHRuM0JqLXpjVHdpVmxsNEpLYlNmX2IwYXNiX2pyLU9ScHJuZ0RGamFEQkxEOWo1aVVROA?oc=5",
+   "published_utc": "2025-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

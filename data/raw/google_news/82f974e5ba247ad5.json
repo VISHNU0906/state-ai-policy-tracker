@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "Maharashtra to get India's first AI university led by industry experts",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWFhc1J2VE9QeU9BeW1NSUl6Q25PME5QbUVqalZIZm1DSWtuVDRTeG43eUhJNVdQSUdsV0FXU0FwVHh3TDlwbVF4RzFNYWNxVXhSNC1ZYWQ3LUdYOFctYVhacTMtdnNPdDZxZm9qMDZlVld1N0FkX3ZwUzd2RHh0cnZ4Wk5hR2ZTU0wwSmRxUHcwQzNsbk94ckJ1TnhjWGJJTU5fVkVXMHJENWpYMUFERjMzZmFVUlBrTTBOWWhJeDcyTlJBVTFDcGNTYVBtbW1PTVHSAdcBQVVfeXFMTTV3M0Q5WWdYWXdZXzRaNjZka05DWE1KRkY5TTlDdndVRXROZWM5Q3UwODdqbEotT01tY05TemZkcFBqNUVCZHRWa21CYWZBQ25aVmFad3Zhc0lyeGk5LWNqelVfSzdVbm5fOWc3RTJyNVRWYmtnSXdvblpkNnJkZlhZbmlRRWZKNzY0WFFyRVVPSnFiT2gxblQxZVRWNl9seWE4SnFGY2JHYWg3d09wZXB5eVhUd2lSaHZXZWtPSDhLZUplYWY4cVFIal8yVi1WaXJnRlJpWTA?oc=5",
+   "published_utc": "2025-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first AI university to be set up in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUg2VGtwOUVnUFFZc05NNWU5VlJteDg1OURXOFo0Wnh6dVN2eHNCQlYyU2p4VkFJR2NoLVR1UWJCT1FJUWlJclk0Vi10MFRnSHJkVUROZm1LYVpXU3I3Qmw5N1hOS3RxeFM4ZVFtSEhWQXEzWlJNZTYyS1l1cWRwcEl2ekNUNWQzbDlmcUIweUtKX3JEd3Zfa0lSUzU0bHFqV2R1Q2xR0gGsAUFVX3lxTE9NRnBtdUNNX1B6ZW45ZEZ6VjJrRDROUWRzLUJ5VzlmUUtLV0hvRkdKVHJBOW5HcUtOelJ5RHRCQnFhdTAtMDYyaDctTUZmLURwdTNPUmpPcWxoSVlZME41Z1ZVd3NRNGVsSGxBVWJlQXJibUk0ZGpETFQtWTNnMTk4T1J0SXR3dnR4ZDNhaC1DMnZzTzdyTUR1dXFTdzRZM3VKOVcyR3NyQ2lGY1k?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "60% of India’s data centres around Navi Mumbai, Maharashtra will be leader in AI: CM Fadnavis",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT2hJQnN0X2t2RldfcTZPQzNHdENYVEVZOEJHaHp0MHdxNGZqTV8xTWJiRjAzbHRPNks4RVFjNW5aNnRMai0tUi1ENU5YN3dMVUt5ejVwSEd5OWVJZ25JNmJUUU1ZOVlpOFhibklwdHp3LWZlR2tqSGJfZk1DZjBmTW9Eb0VGd0VVLXVTVm5QVTRBOHh1Rk1qT01KZkJJOGl3M2I5eUJyUnJjZk1YQkNIRm5pM3FIc05BbmpvdzRhbC01bE9UTGRGS0pQRzYtNmp5UWV6aUhyZmxybUxkZ0ktUGlpVFNJUXfSAewBQVVfeXFMTzRXZ3c4R2pWNFNtZHhhdnZZZmxNY0lXZTF5SHFoQ3paTzV3TG51cG9GNGNIM2JxOUhQaFFSX0xFckdRRW9EZy1leDZ6REtXV2JnQ1VpRnNNSFk2eEhBOXdFSTlzYmtZSUVKeW1FRDFkYW5nYkNfdmhSVks5SjJNbTRCZy0wWVB2c0UzQVpZVWVIZzRTMXc4cEdRdjdoNG93WFBtTG1Xb2ctcWJmRm9DejlXMGN4LTdTNjBXZVF5aGdyOWo3QVQxY3ZqaWZDNGNaQVU2QWRSa2pRbHNqTElnQVRzYWZJSnNLaElUMkg?oc=5",
+   "published_utc": "2025-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra plans TBCB route for power transmission projects",
+   "source_name": "T&D India",
+   "source_domain": "https://www.tndindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWZFeEd3bWZySVRfSU5JTEtsMVNxRkFiQXdQOTV4T0dvODFoeWl3azk3TnR2eDQwREt2Qm1aOXFUbXlTZ3dJMEo0cTNsSEhOQ0c1QVV6WUxoVDZLaGVIYlVQZzlDZEg3VVFyUzlSczZqTlp6VVk3dEo1OHg4Wi1YRW9ybE1lZ1drenJkOG55VdIBlAFBVV95cUxQQ3JWMkd6MGIxY19Zbl9jUmlFU1JVZU5rX2pSb1FaTmkxWE1pLUtoQTN4b0FlZUpQVUNrWlYxYVpjLTNqc29oVHNjLTBsdldJdW4tZ1Z0X05xdjNBSHpaTy1zQXRZRWJYeHFpdkJ4cnM5aFAtTEhyczhRVGRqTlBKVllLblh2cDNCNVJ5c3FYRm5FLUxN?oc=5",
+   "published_utc": "2025-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Basic Customs Duty Rate on carrier grade switches: Reduction is a step in the right direction",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU2VsdDZ4aEN0ZklHeEdkZnVlVG5KWHFDN3RobDgzTmI3dWloOXBYd1ctMHNkeFJ1Y1FucEVXVmFKY3J2TUhoekk1VldsRDdTYzlJMmhwcGIzbVNmNTMwSlg0Yl9mODJ5XzVJcGFRMjIwdGlheTh6RlBLeXZ6OVR3QUhGdTNwX2dFUWw0am5WNENSbWg4NENKZ2VtejFGcVRwRnFvOUlPU1NSQm16S2FvaVJIeEwtbWxrVEN6Q0lsN2VzWm1wWk9SaHdlMzhtOWZXNFZJaW83V2RucTBCZXdJMl9wWnV1SEhualdN0gHvAUFVX3lxTE5RNEQxMVd1U2hGaVBnOTBLbldTZ2xpeG85b2R4bHJqdldZenpndWxHWmFRSVRuRFpyYlZNeEs1SmZBRkhpY1pnLXhXTjhBR003cllacjNqUnp0eEkwZlV1bHN1dmR1RnNwVjJ2VnhJYXdXRlZpTTZnNnVodmJBV1NfVlhTdzh6MVRDbTMxeTdoY01DN29OSUs4V3dSZjc4bXp3dTNzeGhlUTBaLVZscGJMejl5U015RkFEUWN6OFZtaFRlMFU3eFBVQmU3VTUzbDU1UGpvZVRsTHFMbjh0cGFYUWFqdTNGWm5ydGFSZG5z?oc=5",
+   "published_utc": "2025-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Blackstone and Panchshil Realty to develop India’s largest hyperscale data centre",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQNDUwSkdTZkxuUlhCa1EwNFp3SC1jeUhocU9PTndwaXJnWm5IcVMzR0JydzJZVGRxUzZYN1VwVExKMzdxQWJFVV9pMll2VXFqcl8tR084ZzBTYnhZdVphNFg4blVLc0ZSUDF6YmZYN3ViTVJMcFg3cXhTVWQ?oc=5",
+   "published_utc": "2025-02-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First AI University to Open in Maharashtra",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHU5UnR4UktFbGJKMDJCbmpFZ2FtdjZVNUlOQTRkWmdfMkpYLW54UU1TNVQyOHRCVlk1S0ppLXZEbm9pdFo5OGhPQmlMa1FIMWhfcUQyV19WTDlYcEROX09yeGswT3VSTmNzQXZ1YkowbjhFWDg4a2hIcU1MRUMzMG1IRUNDWHpmMmNzYjdB?oc=5",
+   "published_utc": "2025-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai has served its time as a business capital, time to build NAINA city, says Maharashtra CM Fadnavis",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb3BqVnpVMlVtVlcyWHIxdlNoTUQ2YjMzT3AwdXAzR0NodndMRmVNY2pzX3hTb0NDdTY2RW9oeV9HR1JUdzVLT28teVNiQzN2RU9fbk5KTk5sSFp3RDZ2Qkh2OUl3b2Zsbi1fZ2VkZXIyMnBRWEtsdWpJTkZLbm5tWFBRcjBHYUFKeHZTSWQ5cTdVZXdUaHJwODZNcGdLTXhjYkxCSHhSUVBCdWlOZXhpU2kxalR6cVRZcGFyZkRKcF9lU0JRNC1mcjlLenotSl84RDd3N3JkQUZBeGRfU3hIY0VHcWlPYi00bHBnSmJMQm85T0FEcHd30gH8AUFVX3lxTFA5aUIzN3BCNkFud0V3MlZycHBjQTB6V1dNdHM3Tlh3STRKbEdINXlvMUNuT3FGUGFVRzRON3RPaXF6WFVFNWFpXzl2am9YUWlSNDRKNGNnM18yaldxXzZQc3BzcllFM0dJMk5MTTlMbEVubmtzVVNCYTE0WWY3aDg1dzdWUjlaWERqX25UR0lqTk92UlFodG1rd0dwMlhVU1Zfb1dqSW5rMGN2WWppM3RuNUlYUEx2dFJuSUI3Qm1fMlkyQTR5SlFVTGp2a3JRTzFaZHBqRzZPQlRnNmxQb3dveXR2X0NMS1cyVlJQa04tNzgyWk0xZ1VDdFdEYg?oc=5",
+   "published_utc": "2025-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's first AI university to be set up in this state -details here",
+   "source_name": "India TV News",
+   "source_domain": "https://www.indiatvnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnlTcWdiMGYtUEVDQnI0al9jSGJTdXd4M0JuN2lDTUdJRmllYXB1RXExMk16emN6WWNieHN0cXA1aExjZjM3ZThGd0pFNTRRNW9JeGVveUNVNGVTclc1LWxRQkh5SV9GZHF0elB4SzNOeHA3WGNURWd5SWpiTEZnaVR6VWhDUXByYnNLZUJYN0c4SzhoSUlMa1hMcU1iUjZlaGlYbnFNaG5aREtnazBvNmo5UFRIRHZGUUp0UU12OHY0Yk1PZWhB0gHMAUFVX3lxTE82MU13cTRuOV9Xa2VTV0xjaGpiRThNNFgyTnl1NkliWEVSQlFVc242eGlRTHV6ZjVxVldVZUlOV0NrQ3dOSVdEVmkwR2pzYTBZLU5Kem5GekNQNWk5MHp3X0NaS3B1TVRWRmdVaGhRR2tyX3dxU2tuLTJnM0Z4NjFQbkp0aXdLRHNQY1FRMVdUTm1PNkhGZ2owVW9yVlNTTndOM1N6UmJzYjRINnNTWjdIUnY2MjlZWDMzeGhaWWkwNmZmVl9qcmRWRUFkdw?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's first AI university to be built soon, will open in THIS state, it is...",
+   "source_name": "DNA India",
+   "source_domain": "https://www.dnaindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOal9zai14cVplblE5SkMwQmFrZUoxV0ZMMjdNb3pfZXAwR1pxSWZDekJrdHpoQjdjb2g4RUN2MEdEaGEwZ3ZiWW53YTB6SFVxLU82ZGZZd203LXA1RVRmbzg1V0lQaElUY3BRb2VpMGtLT21oNC1XdkNsaWJmT3A5RFJRV2toRXkzYklRYkZmSjR5OWJlODg0WTFNMEZvTXVIb29LYTB3ay1KeGlCREJtLV9VeFZnbldvYlNKWTRiMl8zY21ZWVBJNTloRENLaGvSAdQBQVVfeXFMUDgwUHN0RUJlUUNZWkdENGhFWjR0RlpKdW9uelVIQ012cl9ldUxUM2ltbU9pSE43cDVKN1o1ODdDdVlUQlc3cGJ4QmRUcEpaMkpiOEduSTk3MnNUdjc1X3h2NE00MDNmMkZIaGdnRFZibFg4VERkSnZKUEhrWS0tTG9Tbi1odU82VFU3YWxhMDcwMTF4UXFqRWRWRlRBeUd1Zld5aVgzRkdZZW9NVkpsb2w4SXBzMGhDMzRCRl9tcHRCeUlGX3dLTTQ3WDBGRTF5WkZmdTc?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

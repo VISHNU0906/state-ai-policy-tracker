@@ -1,0 +1,53 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Analysing the Data Centre Policies of India.",
+   "source_name": "Nasscom",
+   "source_domain": "https://community.nasscom.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVdHMGhRQ3l1TFpUU0FjQTdoOHYtVnVGSGo3YVpBUEpnV1dhVUJxUk5fMXdrRWxrMUY4MmxmNUNHa1NBSEZwaS03S2dXY28tOWR5NUN3Rko2c1B1WEIyblJ6WFJoM1NGUjRzeXhISVphYzNmNHRjZ3RGeHdwdHUxNWJFQUc0ck9BT3M5dmltQkFPQnRoUVE?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The News Minute moves Karnataka HC against Dharmasthala gag orders",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjZzeWJXZ3UzWnhEQlZwQW5TUEFaY3ZRREdaZGx4M1J1dnU5eHdaWE9iRjIyd3ZVOVJ5SmtJczVFamhwSnFWNV9takV2YkZMYnVTZENEeDB6bEUtd2pBRlFOeEU2Wl9IaEpWbVFGRU1mOGpMekFtTk5jZUs3QzJjQlVlR1ZBNXNzbGVBbi02ZFFCSTFxWDQ3c3lNWlNYWnVJYTAxNjhXcV_SAb4BQVVfeXFMTnJ0WGFXVkFEQzJnRFhZZkoySTlvZ0dwZ1hUaFE5eTRIY3N6aGJmZ3NzcG1INTVRd2RGd1R6Y3VlTW1OdTFJRnhHSm5KN283emlUTVZSaE53bmJiQWtReHRtUG1lRi00bXF6SkhaekRkUkNaSHEzS1QteWZrLTA4THlzOWlxTTFyVzdSc0FBdE5YSWdpV0x2eW5BdFZfaWUwUXN5UklzeUdqTm93aU43ekhOLUNjZFBSSFpRTTBmdw?oc=5",
+   "published_utc": "2025-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra and Singapore review container port project, inaugurate data centre and announce industrial p",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWU5ybFRocWRhMlpDOEQyNVhCa01oLUdPemVOTEE3cnl1LVJFZUpNckwtcTdBVjlySVVjUTV5bDBTLVVkOGJXT1pvemwyV3FuTjZ0UXlwZ0pCclRCaXhEU0xxLWR6RFZzdHVzWmhDQWVJX1dfOG01bkNnYTJjTXlCTEJpRDhjNTAyYnNjeW9DREdOQVBHaDhZREZmb3hNV3BvTUU2OUItS0R0a1BnTkREZEhCajY3LW82cUE3cXFvdV9ONlZzam5rOVR5QUdYcDNkbC1QSEFKWGxTSjRBbHQ5MVpGampMYjRyLWtOc0JjWlF1NmNKTEpEMlFJb0UyRU1IQ3dxdE1LMWc3enp2SkRj0gGUAkFVX3lxTFBjbnpINGVkMVd0alh0cWhaOW5hMkxZSXJfX3BYY0drVlIyLXplNkd2Z3c2ODFNZ0tpZTVXUHluWW4wSDRLMlNSN0xBZGhzVlR5dVYyd0FCMUc4aHVwWW9IMXB0d3Q5NHpaXzVMVFAxQ1F6N2JZX3JDTGdnTm9HWEhGazFQc0tUV25OcFFhUU1mVWJIREJlbHg3OG5fbmlrX3ZHWGNmclNEVFg5SklMajFWcGZ0NFRpTTFrb2ZDTnlRblBpNnJLUHhiQXFyOUE0dEI5Um1SNEx6aVIxcFRfN1ZxcDV0dTZ6OUJCWVVjYkthUnlCTF9FVVNBdWI2LXFzX0xsb0RhTDI1cUF2R09OUWlzdmkwcQ?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Drop facial recognition system in schools: Parents writes to CM Siddaramaiah",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUxWYVFlSG1PVURHMUNiYTRnSEN1M1B1TTd4SlFleUs0elFWdm5kYnNzdW9qSVlQZlVpbm5JWU9jMmpvNmV1ZlVvYklCZ2l1bWVXMjliSTFLdDM0cDdtaDZUbXU1VDVuUmZ2YmJsYnRUMWc2QTJ5aHQ3Ymd6QlRDbnA1dTZ0X3h5b0FPcXJhcHhjck1yQVdOVWdsWElYdlBSX0hfVUZhXzJLRU9FbWFLT1Z4NTdCUE5Obkk3clRfTEcxcFZRcTdWb0NGcFRBcDFHc1dF0gHgAUFVX3lxTE1Halg1aFpGbnFSUDcweXR4QndZODRObG5INHVUQ3N4NVVDWEVJNmg0Y0JzREFybzltaFpjbHpWNWV5WVB3c29YbWF3R1JYZGJOaERpM0J0eWJxRmRNZXI1Ynp6ZnhPVHRqZ3lTdExRSjhtcUkwcjFzV2VLRDRUNjRBdXZfdXVOVlJPS0VGdlhNTkVScDJnRlhLdWFXNjFLX2hKTWJDS3ZnSzNJTDBhOG95dl9BWlpwcmRwaVNyZlpESGpBMlhIclJUSWhPdjdKWFBoNmVQUTRBaGcyeTBuZF9v?oc=5",
+   "published_utc": "2025-08-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global AI City Index 2025: Bengaluru ranked 26th; Singapore Topped",
+   "source_name": "AffairsCloud",
+   "source_domain": "https://affairscloud.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ245WlczNUNTQ0pPQkpsNWswbldMcm93aFFWWktjb3drVTF2eFM1dXl4eDZwQ3lqYUdobGd0Znk1SWhfMmx2M2daM0N0R004czQ0ZzZpVEJaTS1kd3VzMjN0ckstY3R4cE50U1ExWldQQ2VsSmJ0MDRBMjdRUHdLSmlLdjRpOG1mTEdFTHBUTlFkMXVy?oc=5",
+   "published_utc": "2025-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Minister Zameer Ahmed Khan Faces Probe Over Decade-Old Financial Dealings",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnhKWU5GcHl0aUJiNWJxbUtUM2dkYjZLaHZNc0g3Zl84WFFJUXlZbl9qS2tQam1fSHNlVXNfS0RzMEV3clRFVVNSek1xWkdpdmVSUVR0c0x1QmgzSHlwUjdTeUpUODFGTkVtS04wVWVDdU1wb29CQkRVOWlCSFdERjYxZ2h2U3Z0OWptV2lvYXhwNFZxalRZekM1c3BjbnNtOFlzOVJTeDF2Wk9ROFhsbF9YWjYxTFU0S0NBYzd30gHDAUFVX3lxTFBJR25uMFJRUDNIa0ZCdUVFWDFjN1ZDYXJfNUpORy0xM3F3WnEwTWlwdEhLS0tpWG9oWnNKSDBubUxZTjlDMHpCanFYNk55Yk42YmxwaVdGV1AxWjVHZlBzR1B5QzRHeXpzUjgyTnVQdzZPbHF5cG5fX3dPc1FGSDVpMXNrRnVBcjl1SHdkWm02WEgwMlNhSzBSTFlRM0V3ekhuTENYdnFSbnJjZ3hQVlRfUUlZXzJ6VEVDUFdLSU1pU21Cdw?oc=5",
+   "published_utc": "2025-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

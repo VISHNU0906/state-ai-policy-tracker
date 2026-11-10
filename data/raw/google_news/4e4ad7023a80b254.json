@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "Maharashtra govt to pilot AI-powered farming project with 10,000 farmers",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUG01cVBnV3NiUDRGNjlOemRBM1I1VHhoWENQSDlnSGFlelBVTFQ3SmJvTGdldFVOazl1OE5KZDhCd1ZZYUYyN0xQMndQNnNjOE42WmJFOTA1amE3cC1OZzduSlE2eTFVRTRfa1JRbG1FdFh3bnB6Q1BOcjZrRUlqUjRCMmN2V2pieExPVjVEMk9FeDFNS2NKU2lvYUx2NGJnWVFORzJJU2pXZ9IBrwFBVV95cUxNcVJRekVLbk5oYXR4QUI0dTl3YTlOeXRPTEVybTlNb0lpU3BpWU5iLU1tSml5U1VYOXdfZjdJYkxyZXpMaVY1OHU2LVNJbWoxWGhEWjluVWFILVFfRW1INHlHUmdsYkpYR1o2MFZUTTBIUVVoV093djZ3SnkxSTBCaWkzUXluY2J0M25qbnh5dDNqcWZJUFhETTRfd2NzWG9xVmh1cktBOURDcTFZQXRZ?oc=5",
+   "published_utc": "2026-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra’s AI advantage: Building the future of Indian agriculture",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0FuSG8yMWhfaVQyWGhoTjlYN1J5RHYzeEY0QnR4M19aRDlmQ0VQdGxZZEppc0gxLWhPd0VBelZrR2dadlV4Rm50b1FiVl9VTzJQaURRMlNPRFQzaWoyNk1uTDg0TDFPaURIZDZfdEJWRnRfQnJZQk94eEw4bElvSGZ2b0JpdFREeklLTDFuNUF5b1ZiMmJaYUVGQkFodlhVbFJ4M1QxWjZZMzkwcmNHT2hzOFloMnQ1eGZWLXpwWG9vcDR6WExmbmJfVjIyMlV2Ui1VV3BtbWQyREhYNmM00gHmAUFVX3lxTE1QQmpLek85X3o2UktSWTFqWGJZVkpjSlVxQmVjZDNiSXpOaElYQlk2MWx6aTQxQWZVdU9iazhRU0xDZms5R3h2Z3NvQm04Y21nMzFfMDlmV3hzR0N4SjZsSzA2TU1vNEh1a29xZ0J4LXp1eS0tdVI0WjZmcy1aRmdYT1lhNkpHaXRPMjlTR2tNbUlaM2wyVUFHYWZHdWUxNXQzYTBBZ0gybWZiemtQMHUyck9lRmZNSHpLdjJDUndNV25tZlZVd21xWDZmVTYtVXhCRW1pTjFzYUhQWjFPcXplcDZCRzlB?oc=5",
+   "published_utc": "2026-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Embraces Indigenous AI For Digital Transformation",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVJjSWw5M3NyMTlPMThDNjVpSUpuaV8wcnZtY0ZOVW83Z2hjOTQ1VWU0Nmk0amh1TmVkcU5acEVfY3BXNGEtQ005cy1qYjhfa2dzVklCc3ZESDJ1Y3g5emRIbEJVV0hCWUIxbjk1WWR6WktwZFdJbURCbmFmZ2RLYlN1MXM4VEV3Q1FxYlVWRzYtVnhLYTNWWTdSTGlJQ05RcGJjdlM3YlpOeHNHNUHSAbABQVVfeXFMTm1XaGVFTTBkZ1N1UTVxZW4tYmVSblY0bHp4T2JzczdOVWdZYUJWcFpwQzV1OXBJQmYxamIzR1JyNWtGNnZZcXlBaF9NUjctNWtEeV9sRzJ5ekpEZ1VtRmtvU3I0cXI3eGtmbk9RZ2xrQ192ODdxZkhaSk1NZUd0NUN3M1FrNTBOUkNaVk1yaTZCdFF5ZWt5M3dUaXU3d1hWZk9oV3c4TTNCaHpLd0lPOVY?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to deploy sovereign AI across state departments, 2,500 officials to use Sarvam's Indus",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblFQbE9OT19aSHM4ekdSMEt2V0ZLNkNETExxUXdmcHp3ZE9FTlRSUjI5R2tFR0lTQTA1bFJ3YkZnLTNGZGVjRExvejRTT05JaFdxZC1FRmhzWDMyUUFkZE5nYUlETmdDdC1uY0hfZ2JfekdYc0hFYV9lVVdZRFhsemNKTG9VekQtYVNsUTRpQ1dxbU9tSVFZNXgweEtZTDBNRUstQTZaZ3lJbWlUcGc3MkNZc1UxTVNwLWRXaUFkSDNYVzlWdEVOMi1Qcm9uZHF6TENBTmVfVXpwYVJUcDROTXJmWl9xSkYyamM4anhha09BajUwX0tqU3B4bkJUZ9IBgwJBVV95cUxOeElJd1F5MC1nZTRKV3NJOFEtRXJRdDZFQlVia2JVeHJ5UjVEUTdGLWhIWjN3b3h1Ym1TTDFaNC1HSkd6ZjZhcDdqQXdMbjZhWFRMRkliODVCQVFJa3FXLWgyakstSFdrc3NjWkpaSHNheFN0ZWlxcG9BTm4wRmRDaE02MXBPNnIzM1duTEp2cEdFVDc1S0lEend3X2l6eGhQZ2hsZjZLY2Fxb2lEN0xHM05ZWXA1cEpsRV9rbm94MmhYZUUtbEhJVUVINnVtajRPQUFodTAwbWJxUFN0OVdmRURlRmpvVTFMeDRjNldYX3dlSWRHSjBXemd0bkFtT1U5U1Vn?oc=5",
+   "published_utc": "2026-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How One District In Maharashtra Used AI to Make Public Services Smarter",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1U2NDFRbi1iaEVzR2JvVW9ielFwSlFhcDZncjdhUUxTTS05dm43V19maGhBQ25KaHptem10VHRnbUtwSzQ0OFlWUVdrUm41OUVMZkpuT2g4VHhWbWN5aVJMVnZuX3NGSlFsTUE1U2doMl85NURDYmFIRGVzaTlQYndKcGI4NjhhbGdrSFJPa0J5Z1daemlzaGUyV1JwMG1OaHZ3U2J4MWRNZmdwYU5ldHFUZnI1MHpjNVE?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sarvam AI Takes Indus to 2,500 Maharashtra Govt Officials",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmpFNVQxLW1uNDJzcnpGZTk4MkZQMTBsVllZOFZfQzc1aVdPYWtrR3FxNFluQUNyb1VMY2U5X2ZsTGxNWkQ5a0sxR25nc0xwbEJNVFhLNUlMeDVaWE1tLU5TeEM5NmIyMzRXOHVndVZEUUFBeFpXS0hpd1JXb3VST1k3MFBHWHgyWE9jcWdCZThSZl9rMnY0MUV3?oc=5",
+   "published_utc": "2026-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra's Vinoba platform benefits over 31 lakh government school students, says state",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVnRMT0pyS3N0dHhqdFVxaFNIWFZzUUJZaFRqNzhvZk1IYmRFcnAwWk9qSkZTa2lScUNsNUFrT09TaktPdzh5a093QTBLQTg5QUZBU3VJQjhYc1FDc1J2LURSMXRKWEd1MnFHUG5lZ2VSTjkyb1VaeEZ1bkRhRlhIQVZVSnZDdmVRSTVQQVdTcHgxeHlJbEZJUGdFY0pWQWZGcTBkQnc3em1FcWZBckcxeU1EcWhMRjQtRXNEYkxWLWdib0tWaC13enZmT21VRldSNDhXOGd4cUN4VVF1WXIySTJB?oc=5",
+   "published_utc": "2026-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra police book Congress leader Bhai Jagtap over AI-generated video, which falsely shows Delhi DCP 'resigning' over Jantar Mantar protest",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb3N6bVJka0xGSG9rWVpFdVlEYkJ1WGNDc2tQRDdPTHRVX3FBdjdKYlYxTUhtS0hOclllUEFWTlN6UW91RnczZ282aFgtTUlQTTJPSWlQUktiWUp4eDVacnJUMklUdUhWTkRtMU1pRzlzeDNJcXRCWFNRb1JfZWhiN2YtRVp6eVdYX0ZtU0RWUjlmM0JZdlgtbWNKeWpGMjYtRkhVeWxiQW16ZUlVV1puTUlpbE1nRDl3ZDZETkh6R3BJbmtRWEhFMGFlSG1Tb19PeWFoYVBKdHN2VWsxSTdmMkQtbFUyeXR2ZktmUmpnTnpTTnpHMGRMbG8zc1NvRVhtWTEtU2oyeEIzUmpO?oc=5",
+   "published_utc": "2026-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Samsung Innovation Campus is Inspiring More Young Women in Maharashtra to Build Careers in AI",
+   "source_name": "India Education Diary",
+   "source_domain": "https://indiaeducationdiary.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDB5c0VRRnc2NkRMRmJvZ0I2NW9LZjZuaXBpckx3Umk1SWpfMFRYVGhzdXB3bU1VVEFHenEyTWhsX0swSTVvYWZhT2xBQjEzVV9aTE1DSVVKTUtUNjliTjh5cXdub1k3Zmt4VXdGMjZVYkNRZFM4eXJBRDZBS1NmckR5N04tNVNNanp2NXhpWDdKMURqeU9UOGZDTTFNYVBtNzBmRlpWcEM2Ry1ELWc1elNaMThyYlBsaTR0UVhzR3BRZ2s?oc=5",
+   "published_utc": "2026-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From 61 Malnourished Girls to 20: How an IAS Officer Used AI to Monitor School Meals",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUktQZ1dwaEZWc2wyTF8yNDZ0Q0lSTG9TYWxtTTNJWFhNVDJGdVQyaWtaWlQ2NHZIZ3FrTGtJUDJwbVhyV0tkVE5sN0pSVUZnSV9LZW91T294Tm5uaC1BUmI3Yml5NUxyYWxYb2h3aTFBaDZDYlF0R2k1bl9nWUhndXFOOW5rWk0wSU8zQ1pnZFRpQ3RWSERzWHVubXF5VE9lbURJa1RpSnBlOTZRd3JPVktsUXNJeEnSAbcBQVVfeXFMTlJLUGdXcGhGVnNsMkxfMjQ2dENJUkxvU2FsbU0zSVhYTVQyRnVUMmlrWlpUNjR2SGdxa0xrSVAycG1YcldLZFRObDdKUlVGZ0lfS2VvdU9veE5ubmgtQVJiN2JpeTVMcmFsWG9od2kxQWg2Q2JRdEdpNW5fZ1lIZ3VxTjlua1pNMElPM0NaZ2RUaUN0VkhEc1h1bm1xeVRPZW1ESWtUaUpwZTk2UXdyT1ZLbFFzSXhJ?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

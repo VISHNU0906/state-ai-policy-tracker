@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Maharashtra Budget: Government to set up advanced ‘state data centre’ in Nagpur",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQTZfcm1zb2Z1anJUTFJ1Rjh2NUxBNms4VVQ2UW5JVTAzYTVGZHhkZTQxWmdBWjdvTk83SXJQSENkY2Q4dWxqNEdVSE81MGtCZ2xlLTdSSkIwdGFUbTBEbWJ1Vm5CQjRMWkdaTktHSzQ0M3BKNldYbEs5WHk0eXJQc1FjM0hSdkk3Sl9fMVNDdkJucnotN0FCX1VBTEhrNkUwNlBNUmVkZ3hiakJYdFhlajdHcjVjcXVvejVtakl6QnVHUFVVc0JKUUNNSExnVkplbVVWQdIB2gFBVV95cUxNbDRMMmRzeUNKcnpiN08xaVN2N0xKRDRXQ01kcTU0ZllKQ0NBWWIzMWRpNHRNWHo0aElnc2tjRTRnMmRUQ2t2em93VmotNzZKUVJicDNFeTgtR0NQekNDLTRUZVdyd1ZCY0RKdmRMSEI2RXNrUUhrZ09nTzY1QlVvRVVhWnA4eXpoODR5VXlvWnM3UjQ4UHZWVWp4dkZnelZvMmltdG93V1lyV1psN2hUN2lWZUoxUzlSSi1BRzkzSFRQRVJqcFBNZ0hua09ibURfS3BiRDBQc0N0QQ?oc=5",
+   "published_utc": "2026-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra eyes five-fold expansion of data centre capacity by 2030",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNnBlWm1FSlBXb2toZmV5WFFBUVpSWWV6WXNMalBSbEJIYnJGRGVNN003ZjZnR001UEVXWGNtaUR4OU5JUFlabHoxT1J2ajl5azRLLVVNalowZEdwVWtCeHlXYzVUUy1UeHpfaDAwdTJSOVl0akFibHhodjRqT00xVGR6OVI1WEpvQ2JFWnZMTG5ocTFmLVE2TzFfWVYxVTNaYVZCWkxIaEY0MlI4WUtQbl9aYVN3TVJTVGRuSWlWMTlDX3liYmhUa0ZfcjZaWmZ5RXM2M3B5dVlyQmhPeXVjX1B4Vlphd9IB6wFBVV95cUxPNmE4TUt6ZWx3SjI4Ujh4N20yblg2eFBvemljdDNlN0N1Q0pGMTEwaW9hVjc0aVJWNElVbmZlOWpPSFMzUXptRU9jTUhxbE93SThrbHUwVlpab0ttYW1fZlFPQVQwaEpJNFBvdUdTVk9ySHBEVlUtMVF2RFV1VktNN2Nzb01pRzljT0JKMzBCUG1FNUNQVlVrOGVIcjc2SDdmRGpqUFNxRkNwTl8zTXU3RmZMZlM5dVZ6OFJIQ2VLcVJEeWNpNFR2U3BIMjV0MzhGMnlCeGsxUXJzOWFYRzJSTjYwa3EtVWpQZTdJ?oc=5",
+   "published_utc": "2026-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "#WATCH | “Maharashtra Is the Real Startup Capital, Not Bengaluru” 🚀 CM Devendra Fadnavis says Maharashtra leads India’s startup ecosystem in absolute numbers, investments, and unicorn count The Maha CM also added that the state is emerging as Indi",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWtrZERQUUxWU1J3a0pqWVEwTVNZV01nVWtwTHZjNDhHbVRVT2xEWmN1eGlNQXRWWVFlNzJ2LUtZRkl4cmlGSWZmdmdPdDJvODktV2xvYW5tQ09uc2IxNXBmQmpXWkwwcV9WRUdYeVlJZEJ0eDhra1NfdHBycXBwY0Q1dGFfWHc3MGo1UUxTZzhFU1RHeU5VMEJHOU8wVGFUcTZ1bkY0aw?oc=5",
+   "published_utc": "2026-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra hosts 66% of India's data centre capacity: Maharashtra CM Fadnavis' advisor",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjU2S2ZUdUt1V2ZvSDR1TkZoUHRJU3hFd1ZxamIwZ0Eyc3U2aE5IMjFIQ2pEU0FWbVd2ZGNMLVIwMWFLa2ZEUklzcG9LNllsalBmZkJiU2pTY0FHUUlKWEcwM19xQVJZNEtQeDVsUFFGUVQ1U19oVzlYeU9ycW1aNHZjY05QVVBnUFVkX1dWN2JzNy1yc1RfUGlvV1NGVXpyd1hKSjkwVGJRVmJVMk9wLTZvMGpzZnJVaDZ5MkZ5OXBLTklhU0pTR0tFTEx2NjA?oc=5",
+   "published_utc": "2026-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dubai-based Solstice Data commits ₹52,600 crore investment for data centre project in Kerala",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORXBPZVFvNWpYRzhHb0NzOWYtZDNsOTJuNTZBMV9ZeVRsRERfOEFqVS1PZDRLTmVYYUNUQkhmRkdTNXNwMWw1cFBCeXhvWWs5UFBVQmwzLTJRY1dMMlZmUDJGa2VvMVZiSjJzUGpKRjRMdEZ6cHlvdXA2b3FReDVaWGV1eFNaVHRpQmtyZ3hUb0tsTnFkTTdIS285aEVVRUthSkVBZGFscDdaSF82NnR3eVEwVlFRNmQyY0dUNFRhOXlkQW9KWXBKLVBjUTBuSkNTcVHSAdcBQVVfeXFMUC00aVphU1FhYmRFR3o2ZWpoOFZVYjBKM2pnRXY1RGllQUZoZzhSc2RoY0xXZFRyQWhGb2FvZ1dIem1jTzBRT0p3WHJuLXMxbUVJcGg4ZVMyZjBTOGZEd0NJaDNaYzdJWEdGZHhmTEpsa1ROemxvYmFWenNkSk5odFBNblQwc1FJbUJXZ2RaQVF3YlFLeENhYmFuejc5TlU5Z0pqNldQUm1QTkxiaUQySG1EUHlFLUlTbS1wcFY5SGJpN0gzR3JvOUJNOTVTejl2cXQzWFIyb00?oc=5",
+   "published_utc": "2026-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data Centre Capacity in India, Government Initiatives, Significance",
+   "source_name": "Vajiram & Ravi",
+   "source_domain": "https://vajiramandravi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5ZjBOZFJ0T21DM0FRMjNmSFR5cW1pNnRiOG9SWWxPY2tndWlVbTd2RTkwRW9yMUFWYjVwVVRmRWhKbUVXV09EcjVWNjhMaWNPaDhsQjJZZzNQR3dxWF9FY0lJS2xYV2JRQUJoTU5LSTB1dk93S3U2SGpIYVhwQQ?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI in policing – a formidable challenge and a powerful ally",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaU5UTUVEYkxjQkl5U1dGZmpuQUlyWktmMEJONVFMV1FsYjg3bmFMdXMxUFhtRExhMkxBemEtY29PNms1THRwV2J0Z2NEUVhaSnFoTE5xN3pKamJrMHdWYkE2RU1lQWJ1bklBU3JjTmRGbGoycnJFeUg2MG53dUxaSk5UTlY5U0ZiMl9RX3JmNjNnckVpelYwSVB6YkV2UUdyOWhzS29aOW91LVNkSHA4VVVud9IBugFBVV95cUxORm5XWkRZSUZvbkFuNzE1Q3FaSzRzU2R2V0lETkVwUE40dFpQdlExcUctZUFwNjBYZVlZMzJsNTZkQ1hxNzd0WGtEc0MzdVdDR0txNzR6VVU4TFhHNDhJRnAzQU1lM3NTamFJVTFDOU54cjlwVlU3RklkUGI2bUdhM0x6WmdwUkpMd3lzMWlCTG52Y1VBTTVrQkpEb0lvb0VZZW9wWkc4TTRwSkFZMVd0LTlPeUtKTUJrcXc?oc=5",
+   "published_utc": "2026-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra power surplus, ready for rising industrial and data centre demand: CM Devendra Fadnavis",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQldCNENBYUU0Z0hCZFMzQjJtc1FVaFNCbGp1OVdsYmlFN0VzcUVBMUZBODhfY0xvUmkwX1FOOVRqdHdUaEZZeU1kQ3dyTTd5UkVLT3BlM29kYl85SFRteXdiTElEa19YZmJRSXNmOUhVVTAtd1M2Nmc5LW12bVdRUUw2NkpWTWZONTNDRkNoYUxqLWptNVhSejFzQnluei1saGN4eUlVTm91RGJvcnMyR1dXaFUtd0U2Y3dRMWtCTHZWbmZMcUllZnk5ZEtodF9Fd0VPY0Q2TjVlaGpyemxZbGhjNDZBUnRVYVdVRlJn0gHzAUFVX3lxTE5xOG41WlBCcWpKSGVEa0J1TlhIT051bHNmNTVESWxmemRLcFRPbDJFUXJRc09OTHF0R1hkY2lla1hScmQ0dXNEZGo0MUdMUklkOFZSNWxFOTBEMnhPUUNYNmp5dk16MUNucDV5UzB0anZ4UmN2dXUzSFZHSGZ1dkFvYjgxUEc2UlBGTzlkVUJxRjllSEpWYlRKNHltMUxwMlZ4RGhyZVEwR2hGazdEc0VsXy1BRUVYNGNFZjgyUGhrRE9VU3Q0NWV3dS1wc3FHVmJCUDVQSHl4TWVuS0FfODlrRkJ1OEpLc2FGdThLeHdaWl94Yw?oc=5",
+   "published_utc": "2026-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India is Betting Big on Data Centres – But at What Cost?",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREV3dDMxVWRpTF94eDNrWjEteXVHVzdvdE5ZRDJJaUhPNkpYUTl1MDlPUGx0QWljUU9lZDhmUHphdW9kZ1pWRjIyZHdJd1NjNzB4dURNLXlyX3g5a0c1OGd1SGM5ekVDd0NOVmh6d3J2cHFIcS1MSDBSUmR3UHZZOTZVYUVqSWpNTDNUanliR2TSAZYBQVVfeXFMT095cmVFY19kX2xkcDlfMHZVR19Xb1p1Q1otMm1qel9abVRvTVM5dWNsV3EyUnc5bW5kODlJNGl2RjVfbDU1ckJRYWdGUExZek9EclFib1Mzb0RlV0xyRWh0ZzQ1VGVWWk5LUkZzdmtocW5rQ1puVmx5WndkN2RYbkczVnJiNU5WMFI2Zmw1SUFIYWNnbnJB?oc=5",
+   "published_utc": "2026-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

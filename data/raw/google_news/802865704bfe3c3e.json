@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "India’s first AI university to be set up in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUg2VGtwOUVnUFFZc05NNWU5VlJteDg1OURXOFo0Wnh6dVN2eHNCQlYyU2p4VkFJR2NoLVR1UWJCT1FJUWlJclk0Vi10MFRnSHJkVUROZm1LYVpXU3I3Qmw5N1hOS3RxeFM4ZVFtSEhWQXEzWlJNZTYyS1l1cWRwcEl2ekNUNWQzbDlmcUIweUtKX3JEd3Zfa0lSUzU0bHFqV2R1Q2xR0gGsAUFVX3lxTE9NRnBtdUNNX1B6ZW45ZEZ6VjJrRDROUWRzLUJ5VzlmUUtLV0hvRkdKVHJBOW5HcUtOelJ5RHRCQnFhdTAtMDYyaDctTUZmLURwdTNPUmpPcWxoSVlZME41Z1ZVd3NRNGVsSGxBVWJlQXJibUk0ZGpETFQtWTNnMTk4T1J0SXR3dnR4ZDNhaC1DMnZzTzdyTUR1dXFTdzRZM3VKOVcyR3NyQ2lGY1k?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to get India's first AI university led by industry experts",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWFhc1J2VE9QeU9BeW1NSUl6Q25PME5QbUVqalZIZm1DSWtuVDRTeG43eUhJNVdQSUdsV0FXU0FwVHh3TDlwbVF4RzFNYWNxVXhSNC1ZYWQ3LUdYOFctYVhacTMtdnNPdDZxZm9qMDZlVld1N0FkX3ZwUzd2RHh0cnZ4Wk5hR2ZTU0wwSmRxUHcwQzNsbk94ckJ1TnhjWGJJTU5fVkVXMHJENWpYMUFERjMzZmFVUlBrTTBOWWhJeDcyTlJBVTFDcGNTYVBtbW1PTVHSAdcBQVVfeXFMTTV3M0Q5WWdYWXdZXzRaNjZka05DWE1KRkY5TTlDdndVRXROZWM5Q3UwODdqbEotT01tY05TemZkcFBqNUVCZHRWa21CYWZBQ25aVmFad3Zhc0lyeGk5LWNqelVfSzdVbm5fOWc3RTJyNVRWYmtnSXdvblpkNnJkZlhZbmlRRWZKNzY0WFFyRVVPSnFiT2gxblQxZVRWNl9seWE4SnFGY2JHYWg3d09wZXB5eVhUd2lSaHZXZWtPSDhLZUplYWY4cVFIal8yVi1WaXJnRlJpWTA?oc=5",
+   "published_utc": "2025-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Deputy CM Ajit Pawar chairs review meeting on use of ‘AI’ in agriculture sector",
+   "source_name": "ChiniMandi",
+   "source_domain": "https://www.chinimandi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnl3SzBpalQ3V2E0T3VXQ2pLa1RBVF9lVUQ1NzduUmxGWjlYOFdjSGRDRVU4WWI0QXhXRUFnbFdFY01ESXJhVnBVZlllMWlUZE1Sb0M4b3poZzVVa0ZVb3VyRUFPeWdScTdwWDNCUXgweUxBMWRaUVZjUEFCX0hsRE5nemRLWGhtX3VKV1F2X25RNzR6NjRqRzhMaUhnUFVLYThPRGZQUU1zOFlYZW1Sem5SRWwxS3FF?oc=5",
+   "published_utc": "2025-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Explores AI In Agriculture To Boost Productivity & Cut Costs: Ajit Pawar",
+   "source_name": "KNN India",
+   "source_domain": "https://knnindia.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3lKVjhLcVpLbGZEOG9rMWdFaThKZDdGWmNXdTJzUEhOdkhRaWlZaFp1QkpTNzZESTdGaFJkS3J6SzdMS1A0RkpMTk5uenBxZW5pMVFBSTY1UjhtWGJRZ180b0dVOXlOZWtnQU1sa0FtMlk2VnJMbkZMeXFlWlVta1RoTXFLOEl5dVdnbWsyeWZtY1ROMTBkVTBYNnp4a2g0ekt5RFZ2RmtBUFBIZ1hRdFpacnlpUXZWTUtNMEpFU0F6SEQxVzN2cWs5YTFaRzNPZ2FEVlVn?oc=5",
+   "published_utc": "2025-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Satya Nadella shares how Indian farmers use Microsoft's AI tools to improve yield: 'Phenomenal'",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbnZmNFdOYU5sR3Rpb08wZVI2cWxEUURKeV9idGxJUEN4MHNuQ091RTIwRXc3bGg2dm5zMXJGT2M5X2ZtRFoxSHZuRGJ5Uy1OZGtFWkwwUHFGQnJtSGdfUVVCa2hMZTNaUzMzVjY4Zkg0b245djBac3I0WVJqNlJ0Y3RGaVJUSTNZZmlHMWUySnY5N29fQzBQZEI3UmxaZmNPc2lUZ2tYQU1Za0VKRmIzUlhKVGhVaDFDVm1vTS1ya2ZwSm8zRW9XR25HTHhMWHlyNGZqZkF4WkFDNXlHUmtiQ2NkTmVMYzZjRTBXd9IB8gFBVV95cUxNOUpDMmpWbEFDRXRDZEdremxGc0d3WjVpOXdRSWVpRTFvLU1YQ3ZVdVJJdG8zdzlCWndBVlNCUC1VbzJMbkYxWnVpdFpBYjhsNi1DOWNaVGt6MGJicENEUkhVZGhEbmZmQV90SlFCRG1LSWU4RkJ2SG5xSWowQVZIWkJMYmREanlaVGpIM0VyeGpUNzB0MExHOFVIajJENUxXTnU0SDFfZW9GSjNTai1hQm12NlR4S2dneDhsT2NBQ2NaUEs0TjlsWWxDSDUwVjA5YW1HcUl2Skw2LUFOV2duUTFTUXdHdGhlUDZmYktuWjcydw?oc=5",
+   "published_utc": "2025-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Based Farming Across 870 Acres in Maharashtra, Tamil Nadu",
+   "source_name": "Farmonaut",
+   "source_domain": "https://farmonaut.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNclBONFprTzBaYkZBOFpvSVE4bG1uTUY0UnlCM09GNGFXQzdIYTBNWVFaaDlzdW02OWRDQUJMWWc4ME85dm9la0JiRUowU0RBVWF3cjNKQ3hnaExXMG1nUkx1QkpYNDVtcXNYYWh5SUxvbjc2eUUwOEQ3dG5EZUZDZjBlWEI0OWtkeXgyM0RXSWFMR1RFeUhPU2ZVaXVHZGhuUTdUVUpkVDFjWU1vYTI3MUg0Z1B6NlJsNklVM25YUmpaNkY2bHh1SlBBX0J4WEp0OS1sQzNvTHRkc0dCc1pFQzF0UW5IbzNhZkstZEMweHFSa2lKNmlueEhvZ1ItYzd2RVZ2M3hLVVJOSGs?oc=5",
+   "published_utc": "2025-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First AI University to Open in Maharashtra",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHU5UnR4UktFbGJKMDJCbmpFZ2FtdjZVNUlOQTRkWmdfMkpYLW54UU1TNVQyOHRCVlk1S0ppLXZEbm9pdFo5OGhPQmlMa1FIMWhfcUQyV19WTDlYcEROX09yeGswT3VSTmNzQXZ1YkowbjhFWDg4a2hIcU1MRUMzMG1IRUNDWHpmMmNzYjdB?oc=5",
+   "published_utc": "2025-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's first AI university to be set up in this state -details here",
+   "source_name": "India TV News",
+   "source_domain": "https://www.indiatvnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnlTcWdiMGYtUEVDQnI0al9jSGJTdXd4M0JuN2lDTUdJRmllYXB1RXExMk16emN6WWNieHN0cXA1aExjZjM3ZThGd0pFNTRRNW9JeGVveUNVNGVTclc1LWxRQkh5SV9GZHF0elB4SzNOeHA3WGNURWd5SWpiTEZnaVR6VWhDUXByYnNLZUJYN0c4SzhoSUlMa1hMcU1iUjZlaGlYbnFNaG5aREtnazBvNmo5UFRIRHZGUUp0UU12OHY0Yk1PZWhB0gHMAUFVX3lxTE82MU13cTRuOV9Xa2VTV0xjaGpiRThNNFgyTnl1NkliWEVSQlFVc242eGlRTHV6ZjVxVldVZUlOV0NrQ3dOSVdEVmkwR2pzYTBZLU5Kem5GekNQNWk5MHp3X0NaS3B1TVRWRmdVaGhRR2tyX3dxU2tuLTJnM0Z4NjFQbkp0aXdLRHNQY1FRMVdUTm1PNkhGZ2owVW9yVlNTTndOM1N6UmJzYjRINnNTWjdIUnY2MjlZWDMzeGhaWWkwNmZmVl9qcmRWRUFkdw?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Budget Integrates AI, Digital Tech To Transform Education, Boost Students’ Future, Says Maharashtra",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT1ctWlhaYmV0ejNNOHRoS1hRMEUxaGE4WDQ5RC1xR3ljY19rYVFXX0c1cGEyQ05UWlBNZEZaYy1hNEJuN056MGhob193MHZzZ1BoQWJXQ3VEdTJDcDQybndNN2haVEgzZ0g2Yi04emtqWWIxTFVjRmsxMW1UWWJPUlZPXzlmUWF5cFZEVVBxVUxXZ1VZeWFLZHFRb3NVR2pUMzg2dWhqYTB4Y2pPRWxOek1pMUJzS1VWVXM5cDAwME40S05jR0liLWZLN0hkN0pOY2tNX0phSy1hVDJFSVRfS092S2J0UWNScEJhaUxrY1lQSDd4Mjk1ankyOVM2SEXSAYQCQVVfeXFMTk5qUS1Ia1ZWMUZtUDNxdTJLLTNfTThKUWVWMXg2QnJzUVhBWUQzZVYtTzlBNmpyQXVWX2ZpbFMxcEFPazRpV01NRXRfZzk5Q2VWMUNVU00weVRLRE1tYWwyajdaWlF0T2p1VmVINmNVTkZpZF9uR1ljNGM0OHgzWGJoU05qZUJUdmVDQ0pvM1Y4R0dTYWlQUThjSUh4NUpISDVnNl8wZ01FNDFYalo3WmZiYWJPR2hiamg4UXlWZVdMM0U5VHQ5SVFNTUlqV3pROGtPTEFXZ0pnRnpfbnRKLUhFYWhuVGdWN0oyMmo1UHRUU1BHVjFRLWJoaFlzNEtUMVZjM0Y?oc=5",
+   "published_utc": "2025-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Mandates High-Security Registration Plates For Vehicles Registered Before April 2019; Check",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU0c2cnRBeEh6cW5sOENfUFJQMFdYbW5rR1FVelYyRnlqTncya1ZZM2k3OXd0cHZacEhZSnRITE9OV3o5Q2RhWDBvVTdxdW90YUowUjBJTnZZWDlYX0pqZjNSd1JYb19GeXRja0pqY05nWjQ0R0dyMHZkVkRUVzA2Y25EUlVZcUxzcGZKMVRpTlc2TFpOSTdZRGVhWjFsU2dSaXpuZnJJM3YteFllRTZFUHhEdHVUTjhZdXMyMkp5T3dqWlFZLU83WGJqRmUya1FBQnpEbjFiMFdJVGt3TGg1R0hzZmh1ZTlJV0dXM2VQRUl1UknSAfgBQVVfeXFMTkVRNnE3NF9kdkl0VElWOGhKVEtJVWFuYUxjQUJZNXEwV284VnhZUFFyenhnRTc1a2xXX0Uzak0ydFpoVXRBQWZmRWVCd0xWUUx0cHBXUFg5YzlMbU9lUTg1SkFRak80eXlRWGdXeEU5R2FhbDdGNmlBekFvb1pwbDdCak83MGVfWXRmN0ZjU3VkTlljUnVockhrNkd4aUZDMExZMS02RnRGazNpMUtpM2gzSEZkS3o1bXJyblRmUU1qN0UtLWFTRFpoMFBrY2lwR21COFV2UE5Oa2pBbFR5bXNFUjNMeVRYcVZXTzdTSlpaZVF6Y0N6Zks?oc=5",
+   "published_utc": "2025-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "AI tools not for decision making: Kerala HC guidelines to district judiciary on AI usage",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkhzVFU1aVNXR2p5cXQtSWpLb2R4OEZPeU1OQUdZeUZQWHNYdWkyRzlfeFRtZXh1b28zRmRiaF9Yb0VoZkpOSVoyQmdiSnk0Q0xvVzB5VGQ3Z2JYdU1fY0QxSTc1bWJoT3BIaEtiOXRlOUl2OWFRYVVKOXpjMW45cXhPZktKLTI5eVkyUWJvX0RGZmxDcUdUaWhTRGxzNWN5NmItNFhSb0t2UlVTXzNYdW9RU2t3c0Q0QUxjSFlhOEhtSFFZTzhVUFZ5WjlLdzdqY1dGb9IB2AFBVV95cUxQYnFTM0xkV210dGNCeG9ONi1MNHhFUjFKNFZ3QWNieU0tVHVRbExpMmZLQlFIT0N5eC14QUIwSVVTMlRxRWthZTFsVmFQY0Z5TDhudS1oVWpoeS1ld2hyclI3Tk92UjNBSjBlUlltT0RwMFVvTzRrN1BDSkp2S0RqS0tXX1ZvLUh2bHdNTjJnRkJKb29FSmJjM3dqa1JPNFc0ajlRVGg1a2RxSmEzQno4c2dfTEh2dVRjN012RVdxLWJlanYtdUhuZGpERFNaallQeEpJNnFic0U?oc=5",
+   "published_utc": "2025-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data centres face physical climate risks, report warns",
+   "source_name": "Mongabay India",
+   "source_domain": "https://india.mongabay.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFhHLXducF9pRjFKbEpDeHRFWWowTUdSOTY3QzNlZXo0TTlXOHJ6OHNiemJwWm1MOHBveXVKRG5hbnN5b0wzX1BLdUt5QnZsa0l3c2ZXQ3JzM1Zxd0poSGJKWjVGYThFQUdEQ1RqSlZ6VVU3SjB3dUcwWEh4SFd0U04tS0VaZ3BrUzBKOFBvMC1KV2tYWG1OMHl4enVDcnBuWHduS1B3?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt signs data centre deal with Spanish tech firm Submer",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnFqMXhTQmhuVGJDRUwxVXRoZ0ZuMlRWeWJGV2ZyYWpDSS1FX2t6ZzVoRWszR2VDSHVSUE1UdVMzR3V2ZjNZWFZlRmV2VlE5WnBFX0ZvWEFTaFJFQ1pYSE92S0hzci1OZDRrajBocFNBeENfY29wdG1RX0E2YTFyVUEtYTdZZzFOUGNhdTRfelRILWF2QWxNeEZ6TTZsazI0Rmp1Znp2cEVEYU5IdjZOUnpBdEdaZmJ0YUFkeUZmSWJ5VERScm9zdVZfTdIB0AFBVV95cUxNRE85a2xrMTA5clhCZklGMUlPYjBHUjl3YzRGbzJRaXRjUEFOU1gzRUFFUWxhS0lwb2dGVW82MWdvZDF0OGtwT2lIbjhUTGx5QTVnZFJ4bnltNUxraDlkMW5aSkpLR0t1RnVKRl9IemdnS3ZYaFh0SXpORk14LWdOU0dQYmIweGw3VHFCd3dRc2lHamk5MTIyMnJuVDFITFhTMGpLREZuS3lJR2xKR1doTmJyVHIwbFR3UFhiR0M4ZFgzV2IzbERVMFF0Y0xBOTFm?oc=5",
+   "published_utc": "2025-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MahaSewa: Maharashtra Draft Housing Society Rules Propose Equal Maintenance Charges For All Residents",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRVFNWFI1SENDQXVlVEhpM1J0MVRvblV3NFF6dFFScVd5V2VQQ1pBX01VYVg0eW5QOXEyY3dsSXhKYWFDaUhFc05QSXVqYWJjNmlCeE5aYjNteEZmSUJwdWVjUXpsMXNLcldFM3c5X2dyM1N4WnRfT1dnSE1XUmIxZEZBeEdXTlBMWkZUa1FuVGFHc1FDQ0VBZ1RmS3dPRlZaUVNRenliSVpZekpkVVh3SVI5V0IyYUdIMnZ1dzZQR3dpbjNkRm1Gd2FjNUZLc3Q2MWV1OWxSZDNNMEQtZEtkSjhVMUNIalZRNExZbzlILTRaalp6eXp4cdIB_gFBVV95cUxNbmJ1ZkNyenYzZ1NUTmVwVFNrS0pXeWZiOHdHQWZFOEMzOVBxS1B1bWlEa085VFROMHd1Qk5tR0RrczQ1LU8yVktBck1WZFlGSndNVkFGSkxGWEZBd0xfTEdRQmk4eXRoaDNmWUhqNDIwNHgwMk9IaG9GY1h0TTk1SVU1aVQxOW1IQVZ5QzVUeDRmNjNzX2NiQ2d0OE44V21fVHhZMGRkMGkzeHJjSjJOcUpoYV9kSzhGQWdWRU1DTjZobklEQy1EZk5PM0NfNkxtV1RSejhQYm50MHVUd2ljUlBRMzBVc1J5NGRDN1F0OW9qTFJ5cTdhY0dqQk5uQQ?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "AP govt. moving towards AI-driven approach to governance, says Lokesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWxYN0FrQ2pKWng5OVItYlVqaXp4a1cyVWFNb3l4SVN6Z1ptWERrdUUzU0U1UFJmN1hMc0oyZThhTXo2RERqOTVOVG1aQ1E3REkxcE81a0lJRmtHcl9Na083RGttTzl0VXVDSGprbnRiR21EVVlyM1B5Y2VPejBocjZjOFZab3VMTm5XbjhQTTk5MHlBOUd4Vms0MFFlcWdyZ19pdWlXTi1QTV9fbjJwalhJY2RWRzM3c1JyNlJGWk5Ld21OdmpFcjNZTFhJQ3Q4UkdJU1kybnDSAd8BQVVfeXFMT0dMcE1jUno2RnVWLTctaUhWOEUweERoUV8yVnVUa3lENy1TVmJGZTdBQ2kyOHluYzE4dnFrVkotaFZwVUFBR2NTMzIxM0tRQlhacC10T2RnWmJjNGk2bnZTYThwb1FoOVVacmlUUnBLT01OTEpYS0tfVUZKaW53LW9CaUhLd0U2dEpvU0hFcVYtTG42a3piZmVOUVNfNzNDWE5BMVhlbExHNURDLUM4NDctS0d0Zmh0dUpDSG80SzRlejZUbGpyRHVTUURveTVkbTc0ZnF1QW9WSUU3RmRoWQ?oc=5",
+   "published_utc": "2026-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI boosts care in Andhra government hospitals",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1RZTWZ1OWZ5NFdRRUxtMWRzbnJwVmdzNUNfeVpSQk5LNUJQdmcxODZKd0VYQlBtelY5S2tiWExuREZNbnhGdS1wcVUzUk5GX3ZsZElJZGdYcVBBQXhUb1hSZzE4S2pNUWxORGhmVUFlQlFuZUZDOTU4TG1WXzhaNjF0NUxMNUx2cHBqeW96LWp4OXJRRDJuSFNrYUo0TlM2WHkyYkZEUjJZT0FXN2VkbHZn0gG_AUFVX3lxTE5lZDFtU25tSWZFRlNqZF9oTm9iUFRBZ3hnb3JzSEZTb3BXYlA5OXprM0czNk1PaDhKX3R4eUstS2dnaWpKeXlhcTJPelgyZ0dMSTJ0UEUzREJobFFIVDV0SnRzWUUxeS05LVhrOXBiU3RFdEtibExKVDVKblVxWll6LVNBRWJoQW1sTEI4bk5qOVVER0NyVTJaUWJHSC1fUHVqSExIZGdoMi1nM08zOFluTy1rbVc3NnJPZWRtVmd3?oc=5",
+   "published_utc": "2026-03-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Launches AI Pilot in 18 Government Hospitals to Improve Diagnosis and Care",
+   "source_name": "The Indian Practitioner",
+   "source_domain": "https://theindianpractitioner.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFhDTlE1aTk4M051alJHUTEwMmsxZnMwZ3BweVBvZFozREpZWERtOWlSNUY0QlQzYWpsRzBsalpqNzdVcGxsQXNTVlFqNllPTU12RnJHT3pBTkkyMEtQN2F6eWZJbTl6SEVkWDdZSXlKYXpqVlozTlpGMER3bktoZnkyZDBOSDhMSkxzYkhCcFp4WHN0bUZPSGNsMkl0UjB5QTFQRklTNjNPZXE4Wmd0My1ON3FMdVhrMk0tTFFpa0NtQQ?oc=5",
+   "published_utc": "2026-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI in Govt Hospitals, Andhra Pradesh Tests New Technology With 18 Startups",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSlI5MWpWN3N5S0JaMEVTY25UMXFGN1NmZ3E4UHdWNHZJOFNaeThySS1FQXJFQVJkSHRtclNvTkdKMzEzc3o5RDdSbWtmWFFXSDl6WU1kNU43VFdGaERkS1FhZ0ExMmg5RjhoUDIyMm52alQwLVJoN1hlN0FtNmFHb0hpZGlmVUdSTEd3U3h4em5FbV85Yi1rUzBUdTlVbGdVU0tWTzk1VUtaNU5aa3lSbjZWVTlVZWhvWGMxeWptRWTSAcYBQVVfeXFMTk8tbGtrcXBXZ0J4V2llaHJ6TEU1b0ZIbEVLS0Z2TUJ1QWxoTnNtRG1KemNBZzdEdGJRcDBFTHVxZmVodXF0ME9CZW9iWUN5bUNsYWo2MV9VTXNxWVJDd2Q4ODFLY1RWdXBaTUlSSGdxTFA1VnNQSWxzcDBjVjZXSEhKTHRtdzRQSnliWWpQRC1vSDJHSzBhelJvM2IxS3h0X1BiLS1laDZTZFZCWjRfMF9VZkJJQlF3a2hlQ0VqRUkyV09sU1VB?oc=5",
+   "published_utc": "2026-03-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra cm orders use of AI to boost Govt efficiency",
+   "source_name": "Daily Pioneer",
+   "source_domain": "https://dailypioneer.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1VxNFUwbW5yQ0loSHdzbGhvWUN5Qnc0a0thV2MwNE5yVDJIRjJvc1FzQ25TWFZub1JzQ0FsS0toVnV3MG9BMzFZemlDN00zbWlPcjJZNWUtMEg5Q0tDX3ExUVpuNm5ReG9FZ284Z2M4OTgzX3dQbGMzcnFrZkJzZXdRMU1XVC1uNXfSAZcBQVVfeXFMTUdyanFaN3BaWW1yTG5TTzVOSVhiUUY2UVhmc0hCYjhwYkVUUVhfZTJ0azFnSi1zYWdhOEtoakZYcGtGUzVYanBtRlpZX0N2MlNFa0hQMk1aQWFjay1IMHQydmxyb3FLMzcyVS1hSG5raUNZN1hEb2dOWjRha3lfU3FpcS1fOFBZZ2xKZXN4UTZ6WWQyTXhFVQ?oc=5",
+   "published_utc": "2026-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Govt To Launch ‘AI Doctor’ Across The State; Free Digital Health Advice For 5 Crore Resident",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQThfbVEwR19wVm42SFltSEdUTE9ZRWhQWlAzTFZyd2l2U0g0UE1Wd0Q4dlBpblhzSWpqZ2JZTEh3V0pJYW84a3A3aDVhM1hoSjR1VGhNLWU2QzIzclVUOVI3SnBZbGNBbWliZVJQek9FY25DWlJodVAwWjZNanhiYVZvbTRpZDlsY1FUY0I2Z1FkYmk4b2NQYWZ5M3JONlpfLTh2TjRNRzcyR0dZdURnTnYyejJJYVU5THJKS1RBSXVGZTFvbmRLZHBkNVRweUlFRTJQR1FxVkxnUmNROHRuZUNwZWNXMlA3cTJpc2tGUTdYbE5UZFF4Mk1ocmRzODFPU3pn0gGIAkFVX3lxTE0zNDJlNXlzNGt6TU05aTlYVllkemVtcjc4SVhpaHdheDNHejEycGkyZHhSbWdITHdzdVk1ZUo2UEJ1M19ldWVvWFBSeHcwUHBQVzJzTHl1dWZHekdEYTFzWDNOUGlRTThVdEkwV2dHZG83YkRVaXkyTERKM3JmdUpBVEtWenVOR3ZDZlNEVTRMckdxOFVUejRVUGlkVExqckc1d0IxVzVXRlctZDd1YnI2dFFOZDFNaTFBdlNSbm92cHM2ODBlbV9JSVFXanZMLXRnQ0VzY0tJSmgwWDVXSUlPU05ZNERzbENKUTlrb3VvcmViRVg1cjEzWHl0Vm9RUVJrRldDZldORg?oc=5",
+   "published_utc": "2026-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government of Andhra Pradesh Partners with Calibo to Advance Business Innovation with Bite Size Use Case Leveraging Data and AI",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPdmFQQmZ5YXNTaEpaOGs4RlJleXc0WWR5M29kcEZHYWRuazFMQmFQa0hBM1d6TmY3VHRZUk44YmpJR3M0Y2RTa1dXNnhtUDQycFE5N21KNnZpM0dWZVVVdjFCNU8zcE9iSU5Gd0dra3VaZjJIT0RhT2kwdEs5Q0VLM2xzZmZLTzVZbXo3ZzMwYk52VW95WUVpbnptdzgtZlpELXdKcnVEa0VoSDJfYWwydlMxVDVyYmIzSGFQSFM3MWVFbkRWU00tUTZ0OWFiNDFMb0FQdTNSZFg4OGNDa1BuUk5OaE5tNnlkbnl1SE5lMnV3SzMxTzc4MFJMemo2V0lDWjJ3amt0UnZ1elhyU01WNnFZcUhtMDVqSGdEd0hiZkR0bElFNVVWbjVNN1pvOXhlUHfSAbcCQVVfeXFMTUVIZG5mbndLVUx2dVozLUtPeExWX19aTFQ2d1VuTlNEVWRtTThnVkJLelVkNW9xZ0VZVFQ3cVlUOFBaanVhRk9kMDF1RjhESDhsUy1VNWNySzVkZ24zLWp1NjBfb3VHVDI3djFIQkVsdzBjTHBfNXhHbXBOQ2t2ck1kMnJkNWlrS2g0bVQ3UERuU2MwWWdrT1NxLUlJS1VjMkhhclRLWU9vazlKa1RIeFJQeHRicWRSVll4OXk5ZkVKSmhYTmZxa3dKYVlmZldRdS1ndktkRElZZEpHTDJMcThWSXVlN0hqalNSTDctQWZjZ19GMWhPcDA3V0hoWHYwSUZGV2Q4MExpNDd1Y3NxeEVNLVowc2dCVm9sZGJNeXNwSnhkMnNYOGVCY2hJS01JbHppUndfY1U?oc=5",
+   "published_utc": "2026-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RNIT AI Solutions Secures Government Order for AI-Enabled Skill Development Platform in Andhra Pradesh",
+   "source_name": "scanx.trade",
+   "source_domain": "https://scanx.trade",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVTg5Nllsb20zNUp6SHEtbGxoYk10YUFaVTY5NDcxNVQwS3JSMFRNazZxc1VHc2x4YUpBWE03UlJHV2J0ZVpfN2JydXl1NkRqZ2dvQ2wzSXdkN2Y2R0E1ZTRRUkQ3Q1d4RDZ2S2V6a1VqRUlYOG5vc2xqRkItdDJiSzJkR3VUS1RBc01XZV80U2kzQ3ZDN3RqTllrQ1BCT1ZxUHRpVnBwM2RpZ1FIQzk0RERoelFKTUVjeGY2Q242ZFMtdUswMHdRWm1lM0JYamZKYzJRRWh3Y2J0THNjTmt1UlhtNXRsMkRiY2tpRGVGMlM?oc=5",
+   "published_utc": "2026-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RNIT AI Solutions shares jump after winning e-governance project with Andhra Pradesh government",
+   "source_name": "Alice Blue",
+   "source_domain": "https://aliceblueonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2h6NURXSUtTbnc1ajgyYlQ4LU1fek5DUkF6ZnZXNVRORnlSeXZ2cGo2ZTloSVVTQUVPUFpnaHNyWUFGb2RLNHBDdlYyLV82ZmE3LTRwSFpfNkJiLU5IclI5YnBtQkxmSUpDczJBOEIxdVBsS0NlY3d1Sm9RYjRlOGNUYnlnU05BLXFxV2FQS3J2ZmY4eUsyel9pTWFTN0RvYndYQWQ2bHUxbVAyLXc0MFM3NDFzTGpTUHNEVzNlRFh4MmhiNGkw?oc=5",
+   "published_utc": "2026-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

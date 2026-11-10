@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Rajasthan agriculture department, Wadhwani AI sign MoU for AI-based farming solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUmxMVlRvQVl5OHFSNG1LejMtZnFaajhFYlpzeWh1WWo0bzdneDNncXgybi1hN0laNEdmTWl1NmpNaUt5VTN5dE1ZZU8wY0pXdXR3ekRpMDFaaGJLZ2ZMdjlwd1hSTkFxY3ZjcXVWWnpLeVhhcFZJdDVBRm5DampvbXNmUVh3VHVWdUZUb0N6a05kY1NZOFVUS0xRLXJnd0U4OFYtQjBCOE1PcmpqbG5OaEdVQ3U0ZTRGc1NIT25ZTGFOMjNSdzZ3MFJWaGotSkZ1cWhvU0ZsSkJiQzVvOThfYXlUWW16V1k0NUVlOXR30gHzAUFVX3lxTE5DTlhTSndoVk81VnU0SGJmS3BSNjNPZURKREh2M0lSMEhCbDlfR1NuWkxIQXJFNklLaWF6dzdGYUlZeUdPYkxIWEZybGk2SjRyQlFJZ2IxbnBNVnRVSmt5R2VLbm9GTmJwTmpreTAxa1ZIMWZHYXNTSnZQbENyYzRjbnkzNTNxbTd1cm90NFJvUVo2OXVzVUtIbC1YdzUwdEUySklwWU5kZURKMVFWY19Fc3dsb2M0ay03aTA3TXdfWE9yRm5ocEhMRWpmZFp1VG9EdVpPbkZjRU1XN2ZWeWtXdUpLSnN0Y1kyMEVpSm1XWWJRdw?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Cabinet Clears 20 Major Proposals; AI Mission, 400 Electric Buses and ₹15,967 Crore Road Plan Approved",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHlwTWx4U3RjUFBYZFIwMkE4dmVMeEJRWEdIcHFuV3lNMFp1QTFISVpEMlAwUG05ZDBpbl9lUEdOQlppM2NIRk54bGkzNDdhVUl0TDRVUG83RV9rZ0xzZVRHWGljeVBDYnREcXZjMUFUTVpwbXgwWkJzVGV5aWlVSktMdG9kdzBTalAxT1NlNmdhcE9JcUt5SnZ0My1TV0hQeWhnV1BmdlNEQnlNRzNIZnYzdHZheWdDdHRLX1dUUy1sRlZwNUt6OHo4ajlkZVR0REU2TFdPd0ZMZw?oc=5",
+   "published_utc": "2026-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Judiciary Should Work Like Hospitals 24x7: CJI Surya Kant Pushes For AI-Driven Courts, Faster Justice...",
+   "source_name": "LawBeat",
+   "source_domain": "https://lawbeat.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSHdZenpWdXR3Q1g0anFiQnNMek41RWlNLVEyMjdVOXhUaWVhUWtUdEU0dVhzMG1QUUtPa0hGN09JdzdYd1h1eFlBd2p1LXY5VjJGdUxqWldFY0tweU42Y3NRZV9UMTU2Zkw2aWJ2UG5SN29yUlItUUhad1JaREY0YWNrYUJJUzlaM2NTaER1WnJBWVUzQ090TTVtTnYxYkpwSHkwcUViWjhmLW1Fa1RiVzR2Wjh5RnZua2VpQ0lNOWZybUZYeUt2dko4ODdlY3NOdUpMMEdXRE5QaDRNd01EWNIB5gFBVV95cUxQcDBwWGp0S3hhR3VHNXJ0YXFYZ2VqNVB2dkVqMzVoZU9VZGFLOGRXUGoxWTBHdEF1V3BURWJmcHRXYUxoVV96MktkbWlvbE1XR3JXSnRDMVNpZHFSWG9weUg3Q29vaFVCVjRrWGRaVGxkbEdwQ2pyX0dacDdJdndOTUNieDB6QkhQM1NlSHNFZHZoVzQ2eXd6azUwcXloc2g4MjUwNzR5YjFoNm1xNkhMREoyWkZlQlp5cGdrNWd3OWRqbndwZEZSWG8xaUlUUHFqWV92ZTJyTlZCSi1fdzQwa0Qtc3AwZw?oc=5",
+   "published_utc": "2026-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Naidu calls for AI use in citizen services",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDFQTjhsbjR2bU5FcUI2YmZFMERkdWZzRmxoTW04bXlUQ0FRR0Zjemw4ZjFIaWJCVTdKOTFSa0EyZFBiRURFMGtwMFV2b19PT2M3WkhNUG90S1JTSWtFWEJPWC1LTUpkR0lOVkVRU0h3dFRxZmVFVFEyQ1EzOVBNdjZRZWc2Nl9xNDZNUnlzTWNDSkRLQkdVY3RDdkFER3ltZTZWRHVLUTdaaDFJcnhPU2Rn0gG_AUFVX3lxTE5wYmdMWFFmWHFxeWdJWHpJRmFPTHRiYllQTThOSDJmQUJ3TnJfN2NqSG1ZRjU3VFdldGJvWGlyM0FZeW8xbGVsaTVEU3RITUlMOVdrTGZsbTNiV25qVXQ0U2s4SFF6LU1LNUJrdkEtS1lHLWV6VmVUTGZFcVdWendqQ3JNa2MtY1NLaS03QllHT05tU3JHY1JBb1dkUEQxdzUyLUNoQzYybUpBemJVZDFRNFp3dUNfUU1Qa0JTNjRz?oc=5",
+   "published_utc": "2026-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ken-Betwa Dam Faces Protests Over Displacement",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbC16SThBb2ZTaTVFZ18ybXpfZGRNVVBodjNGSDNXR3RBUkVRNzZmaUpFVzI4dmZreEIwZWxnMzc2WURaYjZoZnUwNVlIaDBBQ3NNdXlhMG1CWXpza1kxN09MUHVwTWxraTdqUTZQcTlpSk5uNC1RbXQtZ250Tzdzd3I4WGx4Q19xdDA2NFNDLVIzR3dzRExXVkN0NUhsZGFkQl9GcFBZRFBOSXcyTzBEOUxqak1qZ9IBvAFBVV95cUxOMkkxMjRaeWtfYXREZXUyWk50ak5fZVFFbkZtWEtSTjRJMUplUFNYc3JyS1l0a1RUSjRHZzYzNzFRcUZYYXJKbnR0QWRab0swbGNzVnRyX2JycHBpNTB4RXotSGNLWVNzWmx2QWlHOXVHVnlGWnhzeTh3Ym52UVlEVTJpeGE2OExtU1YzSzRLbkxnNUQxWVNGSjV5WDR3YmpvOHc5eHk5WFRIQ1Q4MlNDSHVWN1IxSklPSksyaQ?oc=5",
+   "published_utc": "2026-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact-Check: Viral Mother-Son Photo Of Jabalpur Tragedy 'AI Generated'?",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV1RMbklmZWduRVZqY2ZKN0l4UjFOXzJ5S0pud3U5TGJjUG1tRUJRNzhyT0VwVVZkbUw3QVJodmhGWjdkbnlidmVudUphamdzRU5vTm1PcWJVWnM0T0ZwTi1VbV9kNk5ra0RzM3lLZ2VONzh3THJYSnY3endlSVU3blBZSFpXWmFmRV83QW5hUzlhLTJZTThISGFmS2dVbndia2hKQlYtclJIc1hrRzljWmNmR1dLVWxHenlkdkZVdnBnWGVmZUNEWURpUDZrRk9z0gHYAUFVX3lxTFA5LVAxNmF6d1g2bkFRUHUwLV84d2JMSzh3NnVCN3hWRVlPZ2VmTnRMb1c4cWpKUFVVd0laS1c2WVd0WVlMb1Z2UnBaUGZDVHNva2FEOTgzWElGUnZTSDFOZy1GVHhMcDFvZ1o3dzQwOHhRTHJGbU1LdDdpVjhONTF1YjNkR2VtcGtHekRudlZKNW5SQmtEX0stXzFLUXk5QWFWWUlMU1JMel9ONndOOXRHRWFLbUJaMzdjczZObjhleG1SRDhlbnA4Q2R4N3h3cGV3eS1SWUVKRw?oc=5",
+   "published_utc": "2026-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: 50 IAS officers purchase argicultural land on same day, approve ₹3,200 crore bypass project, reclassify land as 'residential' and jack up property prices 11 times",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdmNpTl9fYlJpRi1GU0pxUEpjYU5qcmdOWXlUV2VDUHBLNkV6UzB0WUwtWDd4TnNXaU5aM0dKOGlxenZKaHk5ZHRqb09nRi01dy1OZk1GNE5YQVR0S2wyM3pjN1hzZUg2X0FudHkyOXlaU2M1VlNtV0NiX1BvdmxLbGFGOG5zTnFnVFlaV1Z3dThJYkdveUJPTWxwOWtzMEFrRlpPM29QRFlYY1JaWWpYSi0xQWVtYkVfYV9DbVBzWF9oOU50VFVPTzhIRFJyODhXQk1NOTJhYjFVQTByV3R2MFNBY2N4cmlVREtnVVllZGoyMDRQ?oc=5",
+   "published_utc": "2026-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haryana AI Mission 2026: Driving Innovation, Skills and Sustainable",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3N5bjVCS2M5b3UzSVRPNk9NcnJ1bUZVaVRrX3BUYnI5VEhQX2xqcFYxWlNWTU0wMU81M1h4VE9kZkgzeFFTazJaenNDWk51VGF6dGs1eXhQODlaeTlRSlZncFBGVkRHVUx2UXJ4Y1ZaSHZzVjBiZXp4UzJuQ3VxUjFCelJVQ3NFRHVFNmdzOEZtcHhvYVJEdE8wb25MM3pNNWZNVXF3?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

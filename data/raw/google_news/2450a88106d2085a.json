@@ -1,0 +1,237 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "AI Data Centres in India: The Race for Energy, Land, and Water",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1lDWUNsNE1NSmtsQ0FZSzc1WjJiZHBPOHVMM2dtWTRUSXg1aFJxcWdQVDU5T2VwWm93NnFxRE5aX3dxcXpCTk1STHF2YzZpOF9qdG1vakt6NnJLTnRpSnlMaC04YjQtbkdaMVRyWVgwcDFiTnJESUhHTkFxSmJyT3BLdG11eFh6TnJfWjlFM24zYlR6YWFUWjZtczNXeXNpNEZrZ3J5X2VOWWfSAbIBQVVfeXFMUEg4ZlFFRktjOFRTRURoelpTQWlTLWxyNXlUR1l5VFRmVUhsajZXWFkzVnowM2pWMkFKOFJTQlRqdWdDWWJnUTdQY2tpTHRKdjFvS2x6cDhTRWl2dWJwclpDbG5qYU1iVHdxQ093TVBESTMyX3RNa1V4Zk5qWDNLMlBCd3l6QkN4MTFlelFDQ0pMR3ZUanFIR0dpZ25WSkhUUFlFbjVyc2tNMmZPX0N5Nlc5dw?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05anZEd0J0b3o5Qk1HTU1VUDRvSUQyRElSTllnQmZhWWlpVWcwWDJtZ0c0YjlBei1QZTA1alFubzNEZmpSUzRreE9aN0Y4NldoM3hTbVE1d2lsbl9EZngydnIzUkRkU0lLa3NjblBtQmFzOVR5ZUVuclBUNA?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre backs Andhra Pradesh rail, chip and AI development plans",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTA5OENHbEdKcTMteUt1Z2lteS02UXduU096Wjk0UkhCc3hLRDllczJRUzlwOHhpSFBQSk1rbF9tRUZoc2RKUGxvanZsUkpFYlpjQmlMRmM2QlFuVXpjUGdTNEk5VVNlSlZ5LVV3V2lRQnNDdWkyT3F5TUF2WGlCTHFXOW45aHB2N3Y2QWxZc1cteVVaS09Sd0h0aXIyTGlXeGVBZ19sR3ZzeTdud3JhSk9WeUt0dFU0WGJXTEVLNGNVa09fWExkQtIB1gFBVV95cUxPVUY4TDBmbmVFUVI5NzgwcDdnS2tVUzRwWGI3WGN6RVNLQUJGVGZTWTRycVVaLWhIcV9FSWdUQ3FqLUVZemNNcmpfbXFra2xUZUExSUdtSF8xamVSdUx2R3VMWmNWT2FXY2F6U1Z0WldpZmdDZXd4SzlsYTg2MEdZb3NGMGlrdWdvSFVYTFdLOEhvQnM2TzhLMm5UQ0NfaExpR20zQUpFX0Nfb2pnS3hJbDBBdHBMZndXYXZHbHh6VW9LR0RpTS1mcmx1dGdmSzJlYUtzQVJR?oc=5",
+   "published_utc": "2026-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CureBay Raises ₹100 Crore to Scale AI-Led Rural Healthcare Network, Eyes Andhra Pradesh",
+   "source_name": "eHealth Magazine",
+   "source_domain": "https://ehealth.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1BJZjYzZnE2UVZUSkp3SXZYVi1LelNCSUNoNWxoOE96OWRhdFBnV3pLdmstak10bDlRZXJEbDlld3hLVG96MlNuWGx1a2tLeWVrbEF2M3lpdl9ZQ2lyNUVHWDM0Vm5KZTFsVEg4WmU3Vk9GRWtEd09ySUhMV2J1Tl9QVGVCX1czMHNHS0EwSkQ3WnlfZjdoLVNMTDJHa2l0WWRYdVpjWkhzMmRrZVE0TTR4c1hhT25wcGdvTg?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Use AI as a tool not a master substitute: Andhra Pradesh High Court",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVBtQmhJX25FcnFfVU1nLU5QczNYWUZtdGJvLWRteHh0RkwteFBqTlR5dlpGZUQzSHZVckZtODZLWEhJWXdQRE1MV0hmOEppSzhGbjdJSUxvbGxIRHlKNnoxNmlFVV9QRW52a2F2b0ZzSmFUMy1hOWtCMGdBdXRZZ0k1cWRScHFOOGtLZl9XWTNuRGN2MHJVZjNQU1c0bVduSm1qa1ctLUxCRmkyWTNfTGEyQ0Rua0dlRl9NaF94cmRSbEhUUkHSAcwBQVVfeXFMTmY5ZVFObDQ5OVVpUnVfal9pMG1kRmdibVBjSnZCU2Nxb0hvT0dVVm1BLVRrcDhPb2RVZm5iSGQ2MWxNTTh6VXR4dHVoTHgtdnFvV0hsT1hkM3JNQmNRMFNUUkJuTjJKR1ZnTEdkWGRqVGhrTE5sWDdLdlJBODVJWTdjVGpoakVTYk5McVk5UU9fcnBNZExSVDlEVXNmNi1jdWIyVTRmdWJScHdxQUJtaVdrelk1UUpxYU5LTk1GS0w2SlJhSHBoR1pwcWwy?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UltraTech commissions ₹2,650-crore cement plant in Andhra Pradesh",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTBaSTloZEFKanB2THh3d2paX1dZQ2NnRGxvallxWTNuR29jajJjZUxsUEJ5Y1JzUEIzMTM5b25NaHJiU1RuekduYlVGMjhIcUd6XzF5WmZLaV9ERjZnWDI1TlRHTFNZTUJvOWRtMzFObVJ1RHc5bEI0ZHZsN1pWWGlFNkJTNEVFYXZyUmhaT2ZVbWlSMmNteHA3TFdxdDJxSUZfSnZ6UDBpRWFXNzNtbzA1dHlETWxGNi0yeUxvenBqTU1kTXhIZdIBzgFBVV95cUxNMldqUmJ6Y2gyU2VCMkFLTTk4TzFGeVJSWjRJRE9MQzktU21VRE5lTjl1TVhIeW00Q000QXlJR3g5OVZnMVFnZlRieWdyV0xpcWlmUzR1RHV3NjRucmQ1aUh2V1pTekM4d2UyZGtPUllUdkFJVkl4c0NqOG5Rak9JWENUZmU5d2RoZ1hfM3g3Nm9URG5udjRMOTVDdnhES0lkaFEwdzI2Snl4VnZyT25ZY1ZlbUMzdXQtelZRZnd4ZFUwZTBBN00wbHprNmk5UQ?oc=5",
+   "published_utc": "2026-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TD Defends Vizag ₹1.5 Lakh Crore AI Data Centre",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2sxVjhtcVktRVk5eUQ1MElwcUpsUWpNdzBmeGNXRVZyajA4SThfb1VwaDRDbHowRGJYQ1MzaERBQk1RTzFpX0NPaEluMVpMblp2aXF4TTVwWmJvWm1RNDJfeE8wemVOcTExY18tQVF2UFRiNXFRZWQzY3p0eWJzU29sMDZteVo0RURNVU1hOE1zS3RLTWxYZ0ppY05vZEF4ZjlRMHVEaWpWSVptclJyWFlpVkd2RlnSAbwBQVVfeXFMT0JSTkdnRWotdU93ZzhSTGNpUHpjdzNXRTY3cE8xYXhqX04tSEQ2Zm1EaVoyczhGRHpCM09FZnl1T1VORGgtV0haVnpHbGVIQXFxc1RHZnNCaGVheFZBVlJYSlgzRXZsME9MUERWbEs0T2lGN1NaTlFXZG42Rm0yMHdCUHhRbUlGa0hUR2VkMmxZVzdxMjFfSklYSkJIUXlISUFGRXpiTnZsSHN0bEpXRlI0R1JwM2o1Q25waVE?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh attracts ₹22.6 lakh crore investment in two years, says Naidu",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHNkYzYzNk1KMDRFUEdZSXY5Smd5SjhSUFBMYU43dVUwZzBMWXJYWW5ydUpQQVNDbTRWUnNfZzNWVWlUTHJMa3llbzNJUDRhTnJMNEd2QklhdHBSSGNTVjBYYXFDMHFPSC1UekhKNEsxbDQ2Vkl2MmdCNng5S0Z4aXp0YmhIZkRlU1BqVnEtMTkyNGNsXzBMTlREb0s4UjdYdGdsbURsRERBdmpiSVo2andxa0pWaHUtQ2N5VFZBN3HSAcYBQVVfeXFMTjl3STBtOWFFaUhMS3JJb25XU3RxdlpUbWxtMml2Smd5Z0lfeXVJUWIwZFRBSDNYNGtXWDRpRWpWSHdkS2FDMkd3aGxobWl2OE0zWkFtaEZxd1ZIR1VhZmhTcl9heWRYQlFObFhzSmVnZ2oxQjlydGVEZV82WjhFVE5pdlAxZUJDNDA1eVJvMXdLRlFGZTVPRE94aTlZRjBycEVKSkZUS3BmcVFYeHBoaVdsTmJMdS0xZWVqbXQ3WDlLSkI1Wmhn?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haier India to invest ₹7,000 crore in new facility in Andhra",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTkJkVFhrVVlRVUx4a01ZeENHRHpQVmhybDFiWXdXYzJ2Vm1fMnJ0WWRvV2ZYd1ZUUVNLeUNscU5EeUtFZ2tuUjlpbFdvZW9Na1RNQXhZNGpTNXhIaFE1RWI3WU9vdkQ4azJRb2hYaWNoTFQ1OVdVVXVMcGdZZ1BpZktOV1NEZDVSVi16alhSdEt5OWdGYUJHaFZPQmh0aUZWZ2ZHblVsVGpCVXBFWmxHaGtGT0twUVY2TFZ3cXlzVmtLUDNVOUMyVFBhdllubjdOTFJFcm1wOWpOTWJTUWViN9IB5gFBVV95cUxQRjVQY1poeW1lLXlzd3JvSnpULVNoXzVLUm80ZGoydDNXQ2t4Q3lNS3pyN29VbldsNWpsMVpRQmw2QmZPdUtVMDRBVlZyS1V4TzRyaUZ3VWxSSTNrZjBoMVRqNmVFX0tBd1I1VndLTGREY1U0VmRkYmFrYWpZSkVHLWtHTDV2bjFOVkotdTZ6bEJnSE9iNExsVF8zVmNxSVMzS09CS2hqeDR4Y2ZOZHVhZWtzdXd2NjlLUEhGQXBWeUNYTFh3Z05lTWFwaktWN2JDN0VVTFhwTWdMRXlXcXFtSW9IdHRKdw?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: AI voice agent to provide agricultural advice to ryots in Telugu",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMVplZGpRX3RBR1h5SVA2VFZ3bWZSVjh0Q0VuOERUWmE3VFlzTTBhNHVabE1FZWI0dlpGUDdOaWhlTEJ2dUNEbUhzeVJZU0NaMzJRUS1GYnlFZTk5U0dDOFVIbVA5cTZhTG5BTXdjMF9xUFdJS3Bndzh4dmtNMVZ5bFdCX3lDb09iZkRxZjBTbXptNzlQQ2RhczJraGlwZVpxNmtfdUdWRTBzcXRSck94Z3h2dFR2T3dfZFRveXZJNjVteXI0ZHZlRkVjSm5ZZjk1ZGpPdUk4eWhuSVhDQjlV0gHsAUFVX3lxTE41emRHX1FpLW5HVkx3ekdOcDZPNmxLSUo2U1V6RWRVb2xPZXN2cHlCZG1xbDJpb1NRQ2U2Zm1FQ1dWd042NUZlYjkzcUd1U2lWRnFpaXozbWJnN1NfMVVLZ0JFVHlRQ1R4OGN4RDVYd2tSS1hMQVZtc3RGR3ctVkwyVGhnWDRRbVZHQVUzZHFSSTBvZG1IX0FWU3dOYjlZRTB5NDNyTnVySEJZanFoR0ctZWIyTkZWZ25helRENGlucnBEUHhCcmRVdnVDWERiZEZjMFdzY1BVWk1BZGVORWExVHNXWWtzYWNvN09F?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Chief Minister launches AI-powered Venkatadri app for Tirumala pilgrims",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd3hGYnpaMU5fQWcwb0dHaWNnSUlYRnZRcmJEcWdiWXZYRVkwNXc4cWx0QngwUzNXRDc3X0xvRHRKXzY0VkxpbThRRkhoQURmaEdEZ09ld2lWTXFxTVN2ajcxZ0tPSC1RUzhTc21QWmk3V2NHTVVoU21rUzFhbFZtbnRBc2FYZ3lkQllwZGt1dGFmdkFMZTN4WkpQZG0zSHBTbUt3aVZqQS1mNUVRRGtEeHAtYU1VckFiRl8zaGs5YWtTdEVla3Rjc3RCV09OTHZlUS1fSWNsT1lFdzNWcllDM1cxVUIyd0pQN1d2a2c5UkZ2Z9IB-AFBVV95cUxObE9mVUtPYzVwZ1o4OVNFYjBXX2JkTEIxNFA4RHNaTGNJNzltWklLX3BicU1oUGlaVU1URUtWTE9wR0xfVXlOUEY3QkI1Z3BMVDlxNVVqWU5QbkpSV01JcDNnbHg5bUhOc1ktUWdqMkFkV2hTQk5JY1E4eklhRVhyOFJUcG1oOWVBajRfM2tVLXB2cDJTSjlXTkE3N3pnRUpsZU1rbTZjWkZVSXNyUk5zdEsyY083ODFYRm5uNmxGNUxhMS1jcElQeERhNVZ2aGhDNmRPMnNQVHpqYUtmWFlxeDlmSGJUZzJ0ZEoyNXNYNGJ4TGo4a2xEYQ?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CureBay raises ₹100 Cr pre-series C funding led by IvyCap Ventures",
+   "source_name": "ET Entrepreneur",
+   "source_domain": "https://entrepreneur.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTzFYRkg0UjNzcG5SV0doekIwMnZLcXN4dW9QYlBzV2hibWVNU1djOVlhZWlhZlk2YkRfcWRPWXFndmZNTkxDa0YyaEVoQmZHRDRLZ1gzQ3l0SW5jR21Gd0NHYmpuS3k5dnNidEVHeHptMGtiR0swNWNvTm1lSnpIMk1PNkNWMUtqSjhDMXcyb0pDSVl5YUs0TF9MLWU2ckdLQUdFY3hpU1ZhVWhEdDBEMk5LRnRzTTU3QmU2ekJoanBkQS1BNlYtbnI5dEdaQ3lQS3pfVdIB2gFBVV95cUxNUUJSdXdiZmVINzBVazZPSEptQl9CN0NBVzduZmNBdXAxcnRYOTZVeFcxQVlyaE9GTUVUQ0dJRlp3YTNtS0JWNGJWdFQ2bkRmaUhuN2lSSG9zcW0ySjh5RXRYX3F3SkxVVHBSbVI1dVZyczc1TFA5Vi1ib2JqNUxQZ1lnRkcxM2M3R0JUZFJOMU9hT3g4RHY5Y21NTUdCN1FZbTBCYWkxdG5OWmRCQlVyY3NTSklhOHhzSTFBSW83TlNUeUc4dWpKOVlwTlVOeEMtUjZMZzV6dUV4Zw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra government declares drought in 21 districts; 283 mandals ‘severely affected’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzBmb2FvV2E5UVNhM24xZi1rUm1PNzk3aWJJUVFfaUttdWR0X0VQWXdxSGN6ZmtUcTRwWl9LVkt4ZW5pcVJJeVRHNEI1bDM2TkhzNGI5Y2E2dS11eTFXdmdxdjlxQnhkWDlabVJteGVFcXB5U2tVbDJmYTE3RkxIS2VTUWt6U3RuUldFSE51N09JNXZkX1BmRVRxSU5wdjVSbkHSAagBQVVfeXFMTVFtS05iemhIMndKaXRrVzM2clg5WkE2THNla2pYYWdlYkxoU05aWnFmNFMyLUJFclFFZlhOZEtCZHR4QzBjN1N2NkZGMWRIcXdXcV9Rb01Ub1g5YnNialRaLUxxeXhkaHgzdXQyNl9MdGlqUEpxX3pnR2ZkNDEtLVNURVFJN3lXWnF3d0dUdzJENmNWLW9vRnlfTXlkRDdiWmJCSmhlVGdl?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra: Pan-IIT Council to steer higher education reforms",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVVUWjNScnkybTFjcXV0eE5OR05wdDdKMlplQ3B5NFNuTHlsSDdMRXhDYWhReFBEQ1BxbzdyMkNBZUViWkNsRlpLcTlJYzdsTkRaZ0JpdHpkWHNmaGNVTlFNNVNsZ3NQN3h0akJNczlnT1Q3ZnIyWnFvTllEYzhYSlo1UV9pU0plLW9LS20zdUducWxyeWRxR2RhU2Y1QWU1VzJ0Skk0SmhwZWxUa0lXZkRjd1dDNTJpLS1LcFE5bDnSAc4BQVVfeXFMTXdVRlRIRzVaSzNaUFczektpLUZHd0lTOEgwVl9qdUFpdEROcjdJWjVvU3MwbFFYV3A0VnBfcVBQQ2ZTU3FjWHNYZGJKOHNJWEJOMmkzVzRDRExEUkRaQTh1SmNtcEx3RmpsczdNeTdJcUY5WUFXaDlFZDNxWTMzN0ZhWS1icVhqbGxfUEtfRDZEWEk3b1RGYXRMOGtnOW9YT0p5S1dhNWIwTHRiVEdBTmhQMEhUYzRpRGVXbUF3d0IyM29KN0ptbmZiZDh2YXc?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-powered services set to transform Andhra Pradesh tourism",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnVBWV9vUUNJdzZuSHNvOWZ6WExENkNMU2FTMUVmRDJrOVhFMGhwYVRhbkM3Nmk2OHdHYnFwcFBMRUxYU2tZcHZJbTNTZTNFTWgxbl9vYVB2NG1PUGZMYldnWXo2OGZmRjVMVWtSc3doVExaMVpQY2R4WEd6aG1PSjJjTWE2d3dIZW1zcEE4NzBzeHJWOG05MnI1TkVrU21mc2NiUjZKV0k0YTdTYk5EQ1lpYy1tRVA3Q2FtNzlKMmllMG940gHSAUFVX3lxTE4xVGNhUnk1SThkVlRTbDdHNlJicE10bExZQTlxbUwxY3E4ODlCQW51UUFsbVkxVVZSR2FkZlNRdldYdkJxWjhRUkRlLWY4SXJjSl9KVFAzM0psckNBZ21aSGlobE8tSDZkaVlUeThmMXk0Z0dfX1Eyem53T0szcUFVblpudUxkUEJxVkJiaTJLNl9FcDRPSWQwdkJyWmFaazBKa2xGS08wTzN3b0JHX3dEbDM0NHNKYmVzc1NlT2lEQndtT2pQakRUdzViLWFvT2VjQQ?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP registers 14.10% rise in September GST collections",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnRCRnphQzRVUEpnX1BlUDZBYTdkbHhDLW45clNnWEk5bDZtNEFEN3NIYlFnbXBOcFlrTUhiclZyc1lWcGN3ektwZjJ5NjdnU190a0F4TTVtUENla1JUbHdOdVphclhmRDh0Q1Rwc3VzZ0xQejdYcnZZWmx4N05pTDBFWlRfcTRONW9TMXIzSldIMjJmdko0UEdId3VZaXpiaU0xUkd6eFFsbkF6TGV2ODBhZThLOFA3blHSAccBQVVfeXFMTWV0MzBGS2RKenFlTEdJd3RwcTVLX19zRDVocDRsUHRsb2c4bzMzbDlkNGowTXpGV1FCMnM3cnJVSXFqS1hsRTVuNTlPS0tVRmxYZUEyMXNQbFNpVUtsZUEwZXdhX1p1SnVhdmQxa2RmR1UxQjliNjI3WWRCNnFRc1hEYk5UMG9NZy1hdHB6U29wMTdSdWZpOFo3RVE1dW9naHVzcEZYOFo2ZWtzNFpmMVpVak82bWdyMHByVFFWZjVnODAtZ0tfbw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stone laid for Rs 1 lakh crore worth of Global Horticulture Hub and ISA in Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGxONWQzU1NFYXFiQTVsT2RXZHdEdzlqY3RWS3I3LXNaTTg0bDJObjh5Z3Q1dGpIOTBYSGJSWVNwWW1mU0dMS1VzNHA3N29jeW5yT3ptU3E4MTEtY0xrR0doa0d5ZnNpSlpKZXo4VGdSampZaVhZX3E2U1lyUmtTQ01ER1dOWWotOGJJVTlDVEI0S2drYllFU2xwVmJvTDhQRDhnYmZ3U09xdmhjQ1I5aTktdDdHeFNEeVpSYWdBUURlX1F4a3J2WGVYcl9hX1hzVjMxeDVRSXdWVnFOMjFjVmM3eEotb2FoUFljUdIB-gFBVV95cUxNeFhHZXlVOFdPZDYtWWYzcEIxN1lTQ1RDSGFBYnVVdlZjRExhUjF1a2NKY0tiQko5MmNHT2lFUlJfUTFYc3VIVk1xWUJKbEVHbTl6WTFVMGpuMlJYRlYtMm1JR3RHajJ3THcxeVVYLXN2SENuVThNSFhoVFprTzBNVm51YzJ0VDdaeU1MdURNZzY5VmNfdGtabWdkbzBrSnZfU2pKUDB3QXB3MG1ybTNKdzhucGJ1WTNnRFM1LThZR2h5TDg5Y3ZHLUNHQmhTeUpJOXNmSTNPaXRXWUVpd2xoanNmdmhaemk3dllsU1BWQWY1MlRpSVdTUlZn?oc=5",
+   "published_utc": "2026-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Road network revamp, major national highway expansion on anvil in Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMDNjRXBLdG1JM2xlZHllWVlOVFJtZjlJQV8weklGelJ5MTlBSmhQTlRoMjVDclpXU2hscGh4V0Z0VUpNdl9aTzhpU0o1Ty1YVHljTWZvdDJnYldUS0xNemRoaW1kYlNjT3JfcUVyS051bXBwRUN3Um5GUGgwNzhRXzR1d0t5UldtQVd6Z3BaTTR3eFZYM3g2dFhpVG9XN1liSWRtV3BfaWJ2WEdvNE1LaU1ROW1uVEZDV1V3UlFVeGk0OEpBRUdtOVVkZDQ5dlAyX0RUbTZyQldPVnR2LWlZ0gHsAUFVX3lxTE1HbUdpNVY2Wl9qTlV5YnI4ZGFiWXN2cXdBbFZ0RFNXdXc2dGdDRXdaczVpdlhWalQ2bHRxSFM4eXJ5TllpMHBlTWQxQzU3cmRLTkcwTF9ZREZocXVzTWI5aXZ0ZVBJT2xSWm85cWI3RzZPdF9PUWtxWDRVRGpaZVBoZFFVVS1iSzQ2YXd3SXgxandlOUdlX1hkTkFYbXdQd0ctdEtmZmpXa19rWEN6SnhwNERpNW13d0cxX0I1U21ocmhEWGJyUHdoWUVxeWw1NWpHWjVWQzFJbU8tN2Y0YVhoZlJNeVhtdnZqZ3Ry?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Coalition top brass vows to curb rebels, deliver faster growth in Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0F3UVZfQ2djY3ZRaTZ0c2RPckFNLWJTcGxVY1NCUFFNQndGczdZUXBudzNzYU9IX1V5TnR3VWEwd0tHU1lQNXFua19na1Fsa2pkZ2treDZkT1ZvQTFOeFdzS1FHWHRsVExfQTRpeWFEN3VVaUtLWTZveGtnTmhsaHZoS1NqbjZ0eTVQRURWTi1DM0VVNldOMzZ6QnJPNHlIR1dMbEdtV0tLNlVmMnNuRkhaZk16NTZrZjNpamZxRzdNYzR1X2xLZDA4X3lyQl9pZ244M1AyZG5hbUY4NXBz0gHsAUFVX3lxTE1JeDQwNlhOakdiNEtlQlZsNGlXWnpQYlZYWlZ3QTdtejBZUkpFQVFUTGEwMkRmaURPc2tRVVYwZTZEa0VFYmxRTzlvQTJMUTh1WGlLZ1JOMDVRc2FFTmNBcVFBR1NQYjQwTlN2U05NcmN4a3lHMEh6dHVtTXVHbEJGRVZ2a2VLNEFhZllWTHc4NmRnVmdmamZMcVFSdXlHMF9JdFotR1RyS3FDNGM4T2tTSEZKVHB5SWljWURMeUY4Ql9VckNBa3lSQ1BZTnFWU1pQdEcxTUJNSTY5dXdLZTBJVUJubmRQMGlYYkV5?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Days after Arnab, Andhra Pradesh braces for another cyclone",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE5keTEzM2pWbWR3Uno4ZWhXaERtSmYtZWpNYTQ1Vzd5SW40bmFsd3NZTDdTYWRFSjhoaWNsWU9QWHNGanR1RXRTTFd2NHRyNGZRbDlfR3NCdlRlT2FjakxLSWhKMl9hV2N6R0dvTjc3TGVldjNNbWx4Qmp2SmNxTlNxM0RBUjYydzI4UmRoT201cnhocW42X0RpTTljZlpBZEp1ZnlqdkxqQ1ls0gGzAUFVX3lxTE42UEVvQlJsZExfMkE0cUF6WTlnbXFwX1hWLWtnd214a1JyNnh0YkdUZm0zY3NoUGhvTUdCeU5nWGc5YmVadDFYOC1tQTk5dzhRczc1NXFielNoRmVXaUQxZnBIb2RoRzJoRERGVWVzNm5VQjZPS2hLbmRTYS1EckVtUllXY2lPOXVycllpSjgwSUNCNlByZDJxa190TTVjREpPLUFMNUtiVW5Ed2lBdklWb0l3?oc=5",
+   "published_utc": "2026-11-01T00:10:54+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance plans Rs 1 lakh crore investment in Andhra Pradesh, says Anant Ambani",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUxlVnNoV196aE5oeFpIUUVCblN5aG5MVGlTVG9fZXNTdm9XZDFTOWhnRUxuaXVrNTkzQWtDbWJJSFA4akF5V29iMGVVQlBnQVF5NW52cTRTalVaSEQ5eXBXQjBUNG92RTBrNlV5bDkxamRkckZ1WFZsWllnQjd2aV9fcnB3MlZyMTZqMWd2SHZwZ0lqcDJZM2Y4RzhqZ2x3MldhbEFmYTJvZ3U0aTBiYTQzZGRnY0xIUHVFTk1SdWpFdWdKMDF0VzFlR1V0dUtFWUdxdFJPQndGdlhLbzZvNdIB5gFBVV95cUxOOWVnekJLUnUzenA1bXB1MmJJSzVqNUhja05kZ05OdGh1djkwQ0h4ZWh0Y1djQkItMnAyUGJvSm9rLU1tZTdZdjh4X0JFYmhoNTdUcEF0UTFJM0t5ODlnNjRXTVhqMXpWV2g4YzFfVm13Z2JGWU16X3BVM1hRVmdhTXE2SEl0bFdkTVh0dDRPNnBBNklpRVowTzZLOUFMcFUyMy1RRlRXRDF4Qzl3MlpnNTNodFpZUFF6RW5vS0dWYVdMM2xJLXR1QTRWNEU5ZHVCVWlYcnQ4NGM5OVF5Ukh1Sk9LcG54dw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T wins large orders worth ₹2,500-5,000 crore for Delhi Secretariat buildings, Andhra Pradesh office towers",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYTlZalBlNDlkNWFDYXNwdkF0YUQ3VV9JeFpkZDQ0aDM0a3ZnZHQ1TUJfQUEtM1p1MlFrbnVBRklSR0tXZktaYkxoNk0wRmJSTHNLWHNlRnlZR2g3NmszTlp5aG9YSnN5ZFJMbUJVTVFZblZWaGE5SVVieVU2T3FXWmxieUFvb1k4Y01kT2ZoQ2s0Y3dGdkxYNDhPYW90cXZuUUN4VnFCWmZmaWItVDF6by00Z010aVdUQWsxNkZxWVU2YTE4akdLa1hOVHlOSG13My1TdmNGd2xqUEFkQlRRSFNFWHdJOHJEVnNKaW1sMl9Xd9IB9wFBVV95cUxNQmJ5bkpIRnNoZXljRWxBYVYwU005ZUxBRkJLamQ0bnF1OFdoNm5QVUk2aThEbUJEOW9kUy1OX1Q3aWxUTFZldmVKcmF2ZzJLbV9Obi1mNnhObU1xUkJwZWMxNTJZN1E4SU9PdE81dzF5Z0gxYXBlSklVcGdqbWxmVF9wQWRuZkFjSThOQUZ6dmdsLUtpcEVrWkJNelFZUmFPQ1pUUHZwQnFTRmZxeTdMcFV1VWJSMzVuSTV2cF9nbmdpWVhaaXF6SGhEcmZodXJGd2tuUnVRSG5Kc05Bb3RidjlBWnhiZWNvbnF5YmFuVUphdGE1V3hV?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 50,000‑crore investment drive to create 45k jobs in Orvakal industrial hub: Andhra Minister Bharath",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVGljU0M1Z1pMNjYyTFIzaGtCSUdOeWlyTXV5Zl9qVzFKUnRfMXNISUs2RDRZd1d3VGliWkk3MlNwVERCZVY3WXRZYzlDSEUyNUFFSlVZUzZCXzR5N29vQS1jYnM1WU1BYjlQSFlzUm8yODBpT3Y1N3RtaFdISXV1RTRIZklTU002Mlo4VFFwWGxoa0tTa1Vsa2lqOFFLbmNBRFNKMGVpQmYyblZabjQweUR3bUJTSENYcmdiWVhNRlhfZ0RaUG04WlBGZzZKSDl1RzVEODh4bnRidTNXS0xrN3c4c3dEUmlSMU9STndRUDNmTWdBNGNaZlpR0gGHAkFVX3lxTE94X19BQmpXenNDMHhEQS1xbnFad0g3cUlhRTI2NnFwWXZQWUNpUGVPaTNiMVhPZEt4VXJyMlk4NUswLXRxSHNXYW9LeUlBZjF5eVNPbWdLN2RpNWY0akw4MHJrRFo5bDRyaGltcWpZTzh1cE5rQlZNb244Q2xQWkZ5VFo0X0ktRWNPV0x6d2h2em1SVW0wMXA2dWpPTDRyZFZYTEh6RXIzOVp4ODYzeVhDOE1Rc3Bmdk5aalFYaDNuRVdsb3VZSUREUEtxYTdPcGIwWi1TdlVJSmwxOHNIdDY3dHB4RklWdUlNMmZoQ0Vra3lsYUIyOEoweUwzQmlheGtBOHd5bWhV?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh's ₹27,370 crore power transmission project gets Centre nod",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDBRQ0FvczBRQmdCLUlqOE1SRC1VYkN4NXlqd3FaZng4b1dPOEZVVVZBZ202QzNKbkhvaGpaN0FGVWZfMU16OUEwN0pxRkNaUlJoZ3piNFYxN0JCLUtGdU9MN19XU3dtVlpwSXJMM21ncFNmeUxVYVdHbDlxVUh3Z2hQeUNNVy10SjBJRlFaczV1eTlhbmFSTFBTUkdNZjkzR0VoWmRaX0NfNS1sRUtkUGg4d1pZSWtNYXJ5TnBwQUpxRXAxTVJKQl94TkRRampJcWZURlAyUdIB3AFBVV95cUxOSWlzOHJZNEtOVG1QWHJpQ0h6NzhwdFdiWERDeVN1bXA2LVkwV2E4NjZKcktLRi1uOG80ZW93eXlob3o2S2ZFb05rV3hHaHdQWGhPMUlaU0hiQWZoZU9mZkwxNWNKQnMzY3lETkdyODdNRm9KUWl2OUJ3LXdnNHVEcjhNcnZZbkwxMXIySC1fOEtfZzRzdE9SdXpiUjNuWGxheVRCNk9vVHRzTVpqVWN6bi1PanhsbGhvWE5NOFpvODhYWWRmWWpYQXZhdS1keHM0a1VfYTBVYWhfSWFZ?oc=5",
+   "published_utc": "2026-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana, Maharashtra, UP lead state rankings in data centre policy attractiveness: S&P Global",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEpOZ3piYUFyM2tYT0FWajVVVTZQZlRVdDdBTWFhWFBkeUxXUjRHaTExa1hQUXBjNlpxaFZ0b3ZvakRJMEY0dmcwbjBOTk41WGF1a3dJazZId1ZYNmp5LTF3ZkhPdUJIaW1faVJSRGM1c0hEVVNwUDhxR0ZkRndpNTN2M3ZNSG1EVmRrbDBzTm5xd0VMQkpmbUNCcXJ5YzNOZWExdFhBZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Google’s massive $15b AI data centre in India has sparked protests",
+   "source_name": "Gulf News",
+   "source_domain": "https://gulfnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzc3WEtKbXZjZnNzX0RMaUh1SkVYRGNWV0c3ZjJrVFZwaWlxQUt4ckNfUU1wU3JtcEg2c0pRVUw1c21VWFNKQmNhY2gwY1lDWVVueW9CMXhyaC0tenlVS1gxZlJvaW1kZDdqZms1SzkwM0R2VHdWcDVOQ29SeGJHQlNpUm10QlN4TnE3amJSd3R0YTJ2S29jMW8xY2NBbGNRNWwtU3lLLTJHUmRpbF9iVXlIUWp0QQ?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NHAI’s Rs 30,491 crore outer ring road plan for Amaravati: 190-km six-lane corridor, 4 construction packag",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNSTV6Vzc5UXc1ZzRRTFVkY0wyMVYzUFFFc1pRQ1BIWXFveGJfQjFJTWlYNDFSeDEwU0hiQ1loRjZISDhZbzBXUS1HNnYxc2kybWU4TVhNOXYzY0hZSEp6OUI4cWlrVUtTbVZhNHNrMmEyWWp5WlhsZmFnLVA5d0w4NVZ3SnZPV2JpaWtDTUk2VTJ5REsxaFFiZFFrQkRnYlp2V1dPRm5Vd2dsQjFLRWg5X1hIS2hIN2Q0UUpPUkliQmRTYnpxbmY1NzcwNExIbUs2X2pFdENOMTNCdWhNbThBeUhFTm9GZkRfc052RlpvVVl5UzZ0OV82cENjZmVHa0ZvcDJ2dFloS3ZMOEVNSTdxYkloR1FERXdvZWoyeGxJeFU3TjdrRW90bTVTQUtOb05NNVdzeS1aMDluQmlGeHA2eNIBxgJBVV95cUxNMHIxLS1oQzRjSXctTExURDFNYVAyeVNqN3RVUzg4RnloQVJmUHZacU1EYXk3Qk5LSUR6U2hFTlJZMVpwS05NWmx0S29lTG5CRGRqOUJzTDdNZXZSV09XUmNjOVFhb3J1cnVxMmg3dkVTVUFUMkdLaWlwTTI4bGtDa01DcFhBOFdKQlZXYVAxdWZoc2VHWDZ0c0hDOTdSeTBCZTJzbFNfeWY1bW8zMWVuVzh6ZkQxdGlJbW45Q3RqbWJ6ZzNCMFJJYV9Tenhua3NobHBfdDhKbnBnNXJaZXlWaF9VLTBHbEZZcnE5NV9qcVJZTFFuUFAzTkF3THNySmQzQnJPS1FDdTlIVzRuQ2trTDdoUFM3dlAwb2tFRGtqYklTQU9tcm55TXhjZHg4dEgtb2tGZjZ4TVNXbmtDUmdFRDhIQzlqdw?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Class 10 girl was attacked at school with a chainsaw. Her family can’t understand why",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVVuX3R4VWFLaExyZ2l0Ry1QSVJoRzNVUGNkUTJyM19HY1hMX0lNNzBpeGl5d0lhMWNUR3FLTENTazNhcHV0bFF6Vi1XWmpkcHhEUUNkblVKcFpnMGF5S1NTWFRHRHIzZHBZaDhCUmpnRFo5OExqV201ZlBmOV9TbWVlbGxiRzFiTWRFTUxnWmI5QjJZV0RtUWw4dDNrMXhSblZ6YUpQU0FUZ9IBsAFBVV95cUxOVmhyX2JMNzd5bzdUdHd0MjNqbXA2VHBqNDJlQ1ZHUVJsX3p4Tzkta0dKbi1pT25kZVZGT1o2M0dGWTVuamNJcTUzNW1QcUMxS0thWEJHSkpRbGtNbWRDVW9sek9qcU1fY2F5Zkc5R1JPOS1BVEVESlZPZlFqOWV6SF9Uc19XeGxPZDllb01nNHlBWkVvQXkzaFp6VjBzYVFXcUlXMk5YOGdCV0tqZDJBZg?oc=5",
+   "published_utc": "2026-11-01T00:48:15+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian School of Agriculture should help farmers become CEOs of their own farmlands, says Anant Ambani",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU1M1SFJHSG9vX0dESlBOa2c3Rlk2VUtwa08wcTJjbDM1ZmU5VlI3YS10S0ZDc3lzSi0ta3NiZnlFQzlsV2J1VEFUbS1icFpFTmI3Ty1rclV0aEFIN3U4Q0hWWVktcVlWTUc5TEFaSDhLM3RYeHRkZ3lHOTN6Mllibzc4eGRrdE5PVUsyZmpvRXpBZFI1RHBIeXdyMmxOYW5VYVFfTnRXUUlQXzZqR01zN3VWUnAza21YaFhMWWNLN29vR0hic0xQLUk0VXEtLTU1YkpYYW5HTlVkc2lTY25CQzBZWWhrdFI3OTZpV242Y1J3R3EwYW5LSjdpMzFJOUdnN0xwVXVR0gGMAkFVX3lxTE5mYWVGSVhqdU45R1VyV3h0RlBCUWMwV1hkOTIxRk5tczgzemkzLURNMUVMcGYyM1RteWhER0QzMnZzQXpLZng2NVcwWlozRG5LUmh3NkF3RTZvQVd0ZW5BNzZiSE5udTFaZ1lpa0dLdmtlQU5hMlpPRWlXeFhMNXJIdFRKQkRXS3llQ21zeDBhcXJ3M3RRLUFMVWlMTUt0UnVLNDU2SHYxQno2LUQ1YmVXNF9rbkVqV1diY1hOMlltaUI4V0FYR1NHZTF3VjNWSGpyX1NmRjhudUpCMVVoTEl6WDhfYlh2cUhHWWhUdTBTNmRNOEdPODVLU2F3RzF6QWxBSU1yY3JSODNUeUg?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

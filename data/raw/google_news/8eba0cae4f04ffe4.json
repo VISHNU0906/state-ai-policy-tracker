@@ -1,0 +1,77 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "AI to help predict employment, health, disasters in MP, cut risks",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQa3JONngtRVNwaERITUcxR2NwSmRyejJ1Rm9zUkFoVzRDQlF1cXU2M2Q4YkdRcHJfTFBhT25UclE1dFQ0cW9pUmF6Y3R6NWFaVldiSjVQZ2tzZVRINTh1Z29zMFV4NVFfVEV1MTZibDNrYjZJZ3FNOHROR2hCMVlvTEdXYU9rY3RGX0NPSWMwUFFzRWVlSnVwa3RoUGp4UnVWamN6SGtOeTJ3ZFpFN1QzUlpoWWRNZ0tLc013RTlFQ081R2ZZeW9ReTk3ZGJHdmZhMFZLTl9yNmJocmhmNTJ2TVNENDltVWx5QmJRR1ZNM05QendIRXJIX3d1eGxwVGdqcVU3eDZNQ09rMGxSOG5lQdIBlgJBVV95cUxNejFiWUJpMEd6QlplTzFETWEtVkZLRG9yTXBpekxZV2ctN2VDdDM5aFRBdkZ6eElNYmdmS3VFd0hheGFMa3pLZ0pjQTR3TExZaDZ2d2prb3lwWlVIM09jLW1pMi1nOUtMNnFJdUVBRzI2Q3lFeTAtdnZqOHl6SUFlNC04ZWxPTzFXbC1OdHZqNWdsdzRmenN4Ui1Tc25RSWhPNEhBM1pSaVl1aTNkUUo4TWs5Tzg4QjU1SlRoeW1OUEpYRTF0bUo2eXFNUnA0TE5HZ1VtdEFNYm40TkJYSjFkSDljMENDOXhPOTJiMG1DLUtDejV2cDBIeDJpMTN0TjRmX2kzRjRlMXFTZkV5VzRCSkdYNEpFUQ?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence (AI) Transforming Rural India",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zWmtfRXNtYnB5amZ3SWRaVWctOHZiZkl1cUVfaDExZWpSSnRvNFgzUWJvMllCWm1fQmtUVmcxZWlFRkZVOTZJWk01S1hKblRCSVZXSlpfSzBaQTFucHF6bEFrdXZQaWRmblB2SFhWWXQxalZSMVVOcU5n?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP, Congress workers clash across Madhya Pradesh over AI Summit demonstration",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOWdTMmREUUlON0hJbzlFQV9HamlTN3NSNkhrZjNaVWFGejZRVUptb0hiX2lHaDdHN2psVnJJR0dLd0J4ajdvNlBJbUZvYUJObHAtUXVqd3NDNjdOMXE1dTJuUUc1YnZUaXZBMnNJQ29NalcyMzlXRHRNbldaYmFraUtXZDctSTBQcHNHWHhuMmFHMGtJZGFjX0N1NF9nLXhFMkJqMFVyUUd0QnpweTJOSF9PcDBLcjhSc2VxeFJFSjkxWWxZaEhheVRHRGhmN1Z0SUZkSENLS0hDMGJsY3FKODVyQS01Y2NQTlRVb0VTX2ExeGdHdGRzQ0hn0gGAAkFVX3lxTFBKaG80d1JFa1h0SWJ4bkhjRFplbGdxdlA4a2pDTWhsR3Z5MEM5Yl9mazZjZm8ydGlCRnp6Vktadld6THk4MVVkUlBrZUhBVUpQcXpqakFZSmY5NVdhRlZackttQ3hadFlhRWRSSVpCaE0wbXVRenNrUVcwVVZBNkczQjZvZ1FhVGxnX2V6TC1Gc2VJTE1DU0FIMkZVSktlRndfRTREbjkxeFlNUF9hUS1jYWF3c0JZUzc0bWlVQS0wQWJDMExzZkhvb0tvdGx2YUgyS3pqcnZSYkpRMEdkV2pydF9aREY5MmRYMV9OU2xRQ3AzZmZVNXN5WEIxYVk3aDc?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's AI Revolution in Rural Development",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXdmSVJxTmV6RWtQT0k4VzFsc2YxWmFOY0FZb2w4dXl5Z3NkVkt1bWo5WXZwT3hDZG1ZQ0tUYVR2bkNkUWJTa3VfNUhBV0ZrUHdLT3VUVWgwcDMtcmRCTXhNTlpTWDdKV1kycEZUTUJCbXBVOUx5MUhhNldRSEc5cHhYMHVLcFFWZ19wYUVTMjhWaE9ZUkZDSFFtWU1URl9MdTZmYw?oc=5",
+   "published_utc": "2026-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP CM Mohan Yadav Showcases AI Push in Agriculture, Healthcare, and Data Infrastructure at India AI Impact Summit 2026",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOa1cySkxmeTJUWnFGRnRzci11dmE4ZG04enNyRGl4ZTlYZENsUHFLdF9hM2lsQVpzOGc0VUV3VXAwd1ZGRWRyZzN3LS1vbzh6QzQtNXNHQl9EN3ZRYl9IdVRRVVh1S1paU1FPcmw1Yng2UXRkVXM2NUlsX1ZwaEJCZHlDSXJfN3hkWG9VNnhLc1FHMkJobnFfRjJhSG9EQjhzdnhwSjBlV091TnRIQlB4STlHNmY5MW1XR3Jub1ozZkFxTVBTM2dEb28xbVJBRW9NaU10eWpWMlRWdm1vdGxfVjYtVFRwWlMtbnc?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cultivating the Future: How Digital Green and OpenAI are Empowering Farmers with FarmerChat",
+   "source_name": "Digital Green",
+   "source_domain": "https://www.digitalgreen.org",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nYThOVXZiS2JIWXJVUEVHXzd4eWJ3R1RuRkZJX3FkaUhhMGY5SGJEMGQ0VkNXQ3Mzam81d3B6ZElPODNaRUFxTXM3QVE2eTNHQ3NkYnBmZExMSm5GWndFXzItQ0N4NFZ4QzUyUnhzWXBBZWd1TVpUaQ?oc=5",
+   "published_utc": "2026-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From States to Summit: Regional AI Conferences Power India’s AI Vision",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PU0w1R0xnWVBHT1NTZEVJNllHZkgzeWhNX2pGMVI3VHU4Ym5vcEpKc1ZZRXVpNXVGb3ZpTlJBcEk0Q2VDNEE1YkVyWDU3YVdvU1hIM29DUDY0VGRTVy1CR2RRbXJDbVAw?oc=5",
+   "published_utc": "2026-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Supreme Court: State Police Have Jurisdiction To Investigate Central Govt Staff Under PC Act",
+   "source_name": "LawBeat",
+   "source_domain": "https://lawbeat.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQk1JZm90bUs4QkRNSzR0OVN2TWpYTGJQTDZUZWEyOFFIVWtpcjlDMVR2WlM0bXFleXliTHM3Wlh5VklKWlUyRG5RUDJSTElHbVF1Vl93cmpnZVEwaTVsVUlHUmhxT2ZSaXRQODNSSHQtTUh1WU1nRmFYUmlOMWM3Qy1Pd1B3eWZtQThVUnlsLUdaRUtBN24wZUZNakl0Q2xydVdjdzBqV0dTT2tqczJLSFIyUmVjb3doRmVubnJUYXBoeThMZ1ZPRWNB0gHPAUFVX3lxTE9PM3JnRFp2SHJ1NS1odTc5WWJTaGtpNGJFMTlLT2hNb2F3emtvMTM4azQ2YWhSQi1NLVEyelJlVXdwQ2dRSDFWLTA1Rjl4WElIbG5VUWhGekFfMW9TRXN5Ylk0SzZ5RTZzVVp3S2M1VEN4TzNaRlVob3NzVTd4blhnRi1odjRWbVFpaGl3M0FKMmFfYWsxSmpRSkFHU0lTYTEyUTgtRVdZem42dkVuWWt1YjY4YkgtWGhLVW80MC1YNkNjSGRTTUE0UUk5dEM3TQ?oc=5",
+   "published_utc": "2026-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence (AI) Transforming Indian Agriculture",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QbWE0dlItWVZ0Q1FrMk42YXd2czFFdTlBWkk1QjY1ODhzZmhWVXFjeDlmUjBrMjkzT1lhTUp2ZHNMa0trdTNXUFRZclpDMHBMTlVqdFlfR1FSSFFxc3BaSWVaU2NxbEZPd0JLeGdDVnBCeWpYTzJxRjc5TQ?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

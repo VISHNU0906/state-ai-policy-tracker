@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "Kerala Cabinet approves IT Policy 2026",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSU5pSGhzdkR3eDJWamFTUmpicHBHZUxtOVl2OTBwSE4zVjNYdXBQRFQ4TE5KdUJkc1VDRFJ0ZDRCeUVFU3Q2S254THpuSVFtS05YODdhY2JfRlp5ZEZHWTNJcVdpcXIxdkRaQW9BOTJmaGJDa2VmdmswaWl6Tm9iby1MNmNKcGJUc0p4aFR4djBNQWFKQVM4N2w3U0htSVJqN0QzNHRpMNIBrgFBVV95cUxQTm9DeXE4bmRRb0VBWWdtNU85N3UxRkNMczhuWEtDelhmRHJXQUp3WExiN2lzTEJKYnpxc2l5WE9Eb3o5LThBU3JaaFdCN2FoOU4yb1V5MjV6LUQ0VEwwZVl3cHVFZVdLbE9pdlczUW90X2pGTUhuTF93RGwzLUZDa1hCenlVMGdvMnhQelVjUlo5bk5wWkFTcV9Sd0Q0QjEyUUVlUHl5SS1zMG5vS1E?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘AI Kid of India’ urges young people to embrace technology",
+   "source_name": "UN News",
+   "source_domain": "https://news.un.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yalgzdm9IbkRkeEVlb2xtNXpyZnVjRUt4RUV4eDRqSlY0andLZm1uM1ZMR2cxdmpMbDVyc0V3aUhJYkJDLUVDMWtJZ1NqbjBNdUpJY2tnTQ?oc=5",
+   "published_utc": "2026-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala rolls out first AI-powered free entrance coaching for 8 lakh students",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEtkODNubzlyYU5SLVpUY3VfUU9mU2hfenJuZWNfdVZIQ01tdWRYMFdWQUpEWWh3WlZpaW5TZG5hQjZtQktpYnBuNzFXRmlOeVNQSHc2NllfbzloZl9sRXplVG5hNUtGbzltYng0VEhBT08wd2t5MXhtTlRKZHQtSGJDMVpzSmF4ZXNSdTA0RnFheXpEYnJ4VzUxelRITE16QmxwSjU3M2R5LUozdU9aUXVPONIBwAFBVV95cUxNQTJZcVMyb3c1WXNPTXYzSHVfWnJ5OFZSN1QyMi1vSmxVMmRDWFY4cmk2cnNTZ1owcGZGY3lvQ3RrcUVSN3FVWDIzamNLNFZmNTh0bG1lR2JmRlM2TFNkVVp2a2lfNDR0ckVfWVNVLWlSTXVoYVdjVVp1SmRSblVmSFdOUlpyUmtNNGZEck11czl3NVFCRDNfRm9LUWxMa3N0WEZwcFJialRULW1rWFFxNzJXNjc1Y3l2N21uaE9XQWs?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala launches India’s first AI-driven free entrance coaching for 8 lakh students",
+   "source_name": "Education Times",
+   "source_domain": "https://www.educationtimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzI0MzJQeXJjSVJ3SXYyZlhPUVVaVXJjM20yR3lNbzhPVnpHUXJCVE1CNnRfU1d2a1I5bzZNMjM0bGUyYkVCZHNDc1FqdkVmQXVOclRWQzMtblkwNU40OWlZV3lyVHBiQWpXeFUxUEppbzBJdzk5Z3ppd1pBS1VFcnA0cEJhV28wd09TZWhzQi1WU3E1cEthczcxSUIzTlEzclFfUmwyYkxvZDd1NGxwT1NlUWkwVWMyREFRdmVxMnFGUnZNVjUtV1lVelVmNU1WZzRGUGhn?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala govt. to launch Digi Kerala 2.0—the second phase of its digital literacy programme",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb24yclNKM3FvRGdrU3I3RHF5OThyT0FHTG1WX01uTHprU0V5VENUOERTQllNWTluUlMyOXRVTU8wYlRVT3NpbHM2ZUNxbXNObVVVRGpzMnVfT0VtdzZxbkZvY3MtSGFEc1B1aTZmWk9MalhjT3BDRWFzNmNQalF3UkVrV3pocWd6T0RxaWRzYzJ0X01wSUdYd213b2xTY2M5VUxNTW1hN2x3dktXNHBKbHBQSEVoRlVHU2tSZkZhV3Q4bXE0WFotMHJRampTaXlja2JmTXB2STl6eTNyZEwwbGZxV0R4aG_SAe4BQVVfeXFMTzVrekktREx1YkxucVNyWnNILW9zRXU3NHQzNS03UVBhclF4QzZJMjByTzdMdHo3aV9NX19helBSWXltSEZDOVhEaTVGemdRZENrLU14YWlWc3hXcnM0VGNQTE8xeFpkR0pSVEZsdnhJVmF1bGMzWkVOVmVnejBwQ2lfa01fRk9xS2FOeU5OVHZjbXZVemJLVjU3T2Z6REZ3WFdqVjlkR240bF9rSTYxcnhSQ1hDQ01FZEEzRzZFSFk2STZLNDZCTWg1LUpRc3Z2N1JfNU9yYjU4QWt4SUE0NURZbVpiQnRHSldRcnhfZw?oc=5",
+   "published_utc": "2026-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala signs MoUs with central PSUs for ₹2,000 crore Vizhinjam logistics plan",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNDRnNFptVm5TS1BfaXRTNEQwMGxwTDJNVk5qend5eDV1ZG5lOFBsTkxNeGNNWHdIcFpucTRyX05PZFNjenJ2eHlnd1J5bVVicmlXanVkb1V1Mkc2NWJqek1fTURVWk5HZF9kUUFBY0dLZEYxUmRDY1F5bjhhbkFOSm9fMDQ2bURPZ3FwRUVQNzVHUUFTQlItZ1JDRTdKbjN2WngxS0hiLUhJRnV6YjgtLVFtSVhwTElQeVZnNlpqT3pyaFdJZ0RPSVdKTWthQzBsRUlUQnNzY1JkWXcwamlIZdIB5gFBVV95cUxPaTBDQmpPd2RLcEN4bEctSmtJRFJhalNZV2tkRG9aLUpDODRETmU5R2tfeC10bkgxa1o4elIzT1dfQldXMW43TUk4UWs2OGphSmZQRjJXVkpabVZyUmhYV3ppb3lCbnV0YW1Gc096RExXUVQ2bk9QaGQ5U0xHT3l3dGpCYnFLU1NOYlNBRklVWkNCSlhucDU2elJwa2RqdlQ2TjdnVlM5Y3pJOUhRV3VoUHd4NC1BeTB1bmtxQ09yRk5OV0luTTRIaXFOZXhpaDMwbWJjNF92ZExtQ25VVzFISDZ5eTJ1QQ?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala to Launch NeophyteID App for Invasive Plant Detection",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEFJcFJxcUh5c1pkVTh1eGRLb3RocEd4Uks2clJQNVMxbjc1SjR0aUY2WXhfS05WMjRMTW95ckFXRHVHRXFjNXRxOTlOWFdsSzFDNl9IQlJZcVpONWEtU2FJTUJ0c0VLNk5GNUg0NlNFeXFTQ3ZUZFZVYTFNQ2xvSHJYV1NjbkdmanhweQ?oc=5",
+   "published_utc": "2026-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Cabinet Approves 2026 IT Policy Targeting Five Lakh Jobs",
+   "source_name": "Deshabhimani",
+   "source_domain": "https://www.deshabhimani.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXRRVEx6aTVtOWZfaGN5Uy1kYWxOOU51ZmRzVFRpUlBldTVod2szQVV1MjZmMkdKeEFZd2Q4ZEY2SDZGb0JKdGpWb1p0RDdadS1xbFVjMjdLTUhlR3pYdWd6VEhEckpwR1ZESm4yaWtwdUhoN01JVkVGd3hTc1V4Wm5MM0ZSTnkwUlJudmxTN1hoQzVBY0pLSlB1azB1OGNkTEtES3JIVmg1TVBKcTZtMTVOOHRKWEhEZVYtaVFidw?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala cabinet clears IT policy 2026; AI, startups, tech parks to boost sector",
+   "source_name": "Onmanorama",
+   "source_domain": "https://www.onmanorama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVd3OS0zR1BZZmhHN2kwSHR2UEVsSVRJTWljNWx2X09XOGMtUXZjMTE1Z1Mwc29hcHRZT1hzTGNqYnI1aF9RSm1uMldxUVdETkJPQ1hndUFFbHFlQllteGJPOERhVk43dnlCTm9GLWtBVlJIYjM4STZoQ1Brd3pHVDhFcHJlTy04ZlRhbDNB?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Beyond typing: Kerala's e-office now powered by AI for seamless document processing",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaklYdjN2QlJJVnZ5cEkybVRJMGFUZmJ0VWN1TS1XSUFFVFZicHJmZzFWdEhadmdRSXN3SWc1VGdhN0Rvd0hVbHpleWcwZEhpNEtpMGhWdHNjbVBUZlRsX2hic0JPZXhJVTZhdVB5OHNfazdKZzhJNTFEbkFiczB3bENXWkFkcFMyWlRNTGFqbGpLR3fSAZgBQVVfeXFMT0dUZENmN1RCMlZqS0F1WHk3d3I2SjVnVmpJZkdETzZtS1RJUW94YTNfMXVOVDZ6aUpxZnhUMVZfTEYzYWFORHRoZFZJQmsxZkhkVW5ScHVNNkdBUFdRcGVzZ0V3WHAzTC1hdW1uLW95ZlJCbmNGZmVqejZqcVdSRDJ4bUNkd0o3SE1lenl6Mm9HNDVFQzlPV3A?oc=5",
+   "published_utc": "2026-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

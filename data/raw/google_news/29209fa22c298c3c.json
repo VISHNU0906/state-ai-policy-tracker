@@ -1,0 +1,157 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Chief Minister Lays Foundation For $15 Billion Google AI Data Centre",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMVR1bktLM1h3WXJEMXE5YnZBOUIyRVRZWEtCN1dlSWprcWVGa2dKY2MwX1N3WUVhRktoZXNRVERhS0c2ZXF6cFJzUm80dzRyMU5XcE1YZ2gteDlSQU14WHpEWHV5SU9YOFpaMWZmYWE0NDEzazhHdWxya0cxSGVOQUEtOHRKMEdfd1RiWXVvekpEMkdsZDBQSFMzcWRhODhXU3VmcWlvNDBRczEtaGxZTHE0QXdpWGVxMUVXbUhwQnc1UVZOV2NLazBNLTlFR0xIb0FYU3Q5WlhpbS1DcDRfR0JFZWFBSWvSAe8BQVVfeXFMUDVIaVNrU05uWnUxWHNFU3dULUJ6aXJmS29Za05IcnN4TGVMQkIwTTFxQzNvbE9ya1JxTHZaS0FGNzhJU19zTHlIWFNHeDZjSGJ6c0huZzl6czZ2c1JjcDdjR2VfTklNWDRTS1dTSzBTWHZ6Y1J5d3dQZjd3c2pNQjRVRUNKSmhkWFkwaUNkQlBER1BjVlpIUXZUSTA0ejhwSThHMjRhR2ZUellWTGhBbFE4Tkk4QzVqOE9xZ3lyU2k5Ni1PMG45V0cwRVd4NExYUk54ejdfRjl3bkVjT1NTU21DcHZ6RUpzemRIM3RFZnc?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu lays foundation for Google’s ₹1.35 lakh crore AI data centre in Visakhapatnam",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX3VpaHdqVU1OUVp2ZDczdWNuVXBqNWtsTWpVR1hrc1hTRTFoWWd1U2R5Qmd5aFlQeUdEQmhpZmRHVjAwZXFhOE8wZDB4STFjaFU0OGlIMU1ETDFCSDJMNFFUOXVOQkZxeVBrTGdlMXRpNEFOOUJ1NnlkWlg5WDV2U2p4TFRGUzE0d3BRdzI2Vzg3Q1JkUVRrZGg0UGlTV0V2MWdOVmZCdFFCUlZTT3I2NFRDeDBmSTZQN3YyeW9TaFBKMXRTTURZSVl6NGp1alZBVEdkZUh4eXNESHlHVHpuUmJ2ZzZ2M2w5YlpZREpFMEdlb1VqdDN3OW130gGAAkFVX3lxTE9TOC15WmFxSGlkM1JiOTEyc1JCYUdDUWV2YzRfeHhNY01ZOVJGLTl2RlJKcnh3czh2WFFyLTdVQkNsYVlBOVhCeEtjN2tHLVBXRVh5Z1hzd0d5cktPUVRXZ0Y2ZkdlTFM1eFBLeDFpenBuNElTellwbTFfZ1EyWFpOWkF1YUV6WEE3NnZRdVdyOFdlM1JxWF9fNkhkZDNLeUNLRFVuVWE5cUp1cGJuZDBHUFdrU2YxWUNraEVRRnlldUZXQWx2bld6UC1IZ1IxTkw5eXIydFloM1pJY0UwdDhrQjMwN2YxcnNQWHpVSzZacGNFM0tMUjByOEp1OTR0M0o?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Job creation is single agenda': Andhra IT Minister Nara Lokesh on Google AI Data Centre",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYUtpdnQ2OWM5Z2paMGhtM2VtSHVlQjA5RzkzTXJRR0owejh4NmdqLVF4OERhZ253U1NfbHpuSFhlTzFqQ3dMamFUUXZxaFprazdqVGd3N0tObFI3V05RcVNGVVJRa2p0bGpaNkhsSDU3TmEybVk2OXpsX3YwY1lTTmJtVHl0UGNuQWs5SGFHR21OSkJKdl9ENm5UWTZ2OUxJLVV2ZzJMTzBqNlJhUVFDWE5hekpGTzM1NWxiNDdQTkpLRG9uaGFxVE12NU1WVHVaWExOeFlKZFFCTXNlbi14LWZRVQ?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google lays foundation of AI data centre in Andhra Pradesh, partners with AdaniConneX, Airtel",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUnc1NDZpS2hENTNGa01JRHdiQUd0R0ZDVGdWRE5LNFJVMmhOaWVqZFQ0NURUOUZoZTZuamxhSURHcjZnSGduR0g5TzFLUDdfZXNidWFlWGRTZF9XYTY1Zll0TGtHMFprR2o1bkZCdk41NVBQd2NaQU9SS05CUlRUbGhkamVFVWx6Y3AwNnZ2ekQxUXRzcTQyTFUtekw0dURkUm1QQWVvSFdxb1Fra2ZjS3RvSlVaSE44N2lBM3QzRVNQOURGTVRYRFRQTFE3Q09zTGFqdkJub0RjSEpjY1gxWHhQb1hNVGdGejZvMG5rLTl4aUhlWFBubEFXQTl3dTDSAYQCQVVfeXFMTUh1V3d6OTlhTVg5MHJkVEVNOFgzUHB1ek1LUjF3OHJmcWlqSWt1bTFXSGw1Y082TUNZVExBdko1dFlrLWp4ekp1cFVSR3RYMHBjTkdIX0pyU3pBcTJzcDlYUHNVWHp5MUpFOTEtV1Nlc2FSR2tOOXU2b29LQzkzVmRvTWVZMWJnbV9QemlrbHYzYUNMUEJ2NU5xU1NWazVTTDAtN1c1ZTdpcWNGVTRBZHE1U0FuS2hMVlZwUWFzX3k5WUFpYjVOdzZ6S05DVUNmQXJTYXByN3FXZS1UbVZSa25BblRJcl94MDhnVnBiU2Y4TFNwcWhWaW1SblVrc2lsVmZfVk4?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vizag Google Adani AI data centre: State govt rushed environmental clearance, activists allege",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHRMeGFwWlpEUlpxR0hBUWQwY256b29nVUNUTGJzMGREUlhQOG9RMk1rNGVWLTJwT1hVa3pfMjBJbXc2Y05VWnpGYUlscjJTMFlLWWZ0ZWtZQXdOUkxzRzdSVmphSXV6azNnMzJNVzdUcUJMSjFRU1BkbERTSGxJcFZJZzNCRlpVSHZnUHd4MF9nU3k4N2FGZTA3bGVoZzZ3eTNDWVVkTnNzdDZFd1QyV2dBQlZWZXBDMkFuS1dXX3U5bG5ybWR3cDJkMWFJdTNJS2VJ0gHgAUFVX3lxTFBpUjVDT01oV1NSajNxVWlIb25IRHdES1RNajl1NmhGNmRXR0U3czVfcmZyRHdIYzg0ZVJMc3E2UWNFY2hXUnRHZkxTNTk0VWtsalJ5T1ZzRlVZcE9UaUdUVTBmOHFBWmJlOHZ3bmdrbFJtdGp6NnFUZU1VdkdULXAxTWxYR2RBWG5OOEI3MU1CLXdXdncydGtuX3poSGUzaWhOQW1JV2s4M3B0N2tadzc1YW1Vam5adExNeEtqLXRQcEZ4d1hZSWtyck1uVENlT1hmSFRsRTJNRTZNbVAyLWpS?oc=5",
+   "published_utc": "2026-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM N Chandrababu Naidu Lays Foundation For Google Data Centre In Vizag",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQkNsc3c1d2FpeFg0S0gyTG5neUVDYlpYbWtKNzloQlZabE5mUm9scTZRSHlGUjluOVNXR2pHRUpXUjJPZERkUG5pOGZWZkNVU1dxM1NrN0FOdFpoRUhJWHZKaTg2c0tOOWc4ckNkRHhSLXJ3YTVYUENPVm9RdnBwOFgxbnJNMlZhVGdQQ1dvcmJOOEtrNW5vdW1wT2ZiME0zWW9OQXROdkVGbUJRbTJzaWZDQU9CcHFPNHB4YmNVU2ZCRTM3eVNCNzNRWkpybC0zTDlueWozcVNpSVJPdV92TWhERlVOZkJHcFZmVdIB8gFBVV95cUxQX3E5ZlRUWUh1UEE2UlUyVWxyYmx1NUpVTGZxeWN6N2pZOFh0cThRbEl0VUs1Y2JhODFZc3lMU0NLWWlUTF9OYjlQakFlbFVsTDdQeHp5Z29NMHFmYlZOeVc4MmxieS1vRDY0T3YzMHJUaUF1S0l1ZF9iQkhaLXkweGFBd2NuM1lVMUltY2RKdWZzaHhRNnpmQUxmWU1XTDNNaUVTN0JTZ1BzNklWbEVKN1FhTG8yWWtBM3VLVmMwcUtUYmtpYlJQSHlLUy1Ea0tFSW9yUUdSb1NiWVFLMGlXdmM5dVpQeFlrSFd1ZHJrUThBZw?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Chandrababu Naidu lays foundation stone for $15 bn Google AI data centre near Visakhapatnam | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNajRjenRySUpQQzJGbThtZG93ZmU1RWE0QzZaenlvMk4tZ3VuSHRsV2VKN1R6M1lQTGVLTF9ZU0MyZW9PRE9aaFh1b0QtSktwQWhoOWVPeEFHMGdlUFp1Ty1sRjEzRm5mR2pOZVFvZVl4VmY0eGdtbXZkWUVaVjhBdGhhT0FGVjBwYlBvSVZNZzVsTUt2UGNxMHpaMEZaYk1XMHU3eFlockNYaGE0Z3ZwOGVVd1VzelhDV3I1Q3lmVnRrS1k0RkI0TUl2N3laZHlhUjdGb0RlUHlEckp0OG1xdXJ6WWNGbTJ6SHQ0dDNqZml6eHlFcV9od05idk41a2fSAYQCQVVfeXFMUHMwbi1lcVl2NnI0WnE4cUhlem1KUlpHT2xGTXJ6YVRJOGZEa0hPMl9EMEVfQjZKMGJwYk82V3hwc1pTQTYtczlfUUtmRGRWaVh0Qm43WEE4VFNzRlQtZWhVOVJsZk9PS0NrbWdCWXdrVjVXRWUybTVDazRlVkRPc0hqRmpQNWRMckZBRGtOaURndzZUcTlrak1fWk16dWtCcEVvUHYzQWxLTW1lS2dWa29jVjROUlZ0UUFXZU55WmpoVjdiYi05Q3haRi02bDJVS24yaGtncE5qeC13aU1rX1pqTm9HWTVlUFYwM2FZMW1TRjZjemtNdGRBVGhiMktrazk1ekY?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chief Minister Chandrababu Naidu lays foundation for $15 billion AI cloud hub in Visakhapatnam",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXU0WG5WQ2hSY01KWGFUZk5aeEExcFpZVi1jQ29TUkF2ak4zT0hMOWVRdDM0enc2b2tMVlB0MnhLQWhiMnN1dXE2d0I2SzkwWkg2OUY0Nkh2R3FhbkN4X09IWXJ4NnRURkFhcjhfcXdIOVVSUFRLRjBmSXkxQWJZSkVCcUk4ZS13Y1BhTU1SSHEwbFFvd2dVVkh1LV9RdDlIMmd0clh1Vmt1RmlVeEhEWHJmRHRZMG81Zk5UcWp2QnRrc1pXOFBCaVByOFVOMkk?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Naidu to lay foundation stone for Google AI Data Centre on April 28",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0h0VlVWNFlHQmtFTC1uVFVnczZhNjRaWnNnY25yMGpyd1gzajNaeWhRelU1Z095S2ZYTXltd2VoQjJzX0hGZ2FYU0FscGFISHBCc05zcVhlMUFvaVIxcUY0VnpoeDRaMjQ1UkxvMno3R1J3TmdhNGFmSUJRWWs3b0hQYnhiOEdaZ0p5NVVxOVp5cGlLMXlMWE41MGtjVDRYRHlSSHZvSFU0Y2hJUXNzOUhpWFdxeDYya3NVZ0lwSUhmX3dVOG1RaHYxVElHLXotRVZR0gHgAUFVX3lxTE9QTEFudjJtOG1NQ1IxMnp2dUREUWZWZTB6YTF5b0htRVZHVjdYOXFMdl9BUHV4Smx4b2RhNVJQbDg2SDVsTlpkc3hVTENNaVVMRDlobkxqY0Z3Z25FWFo1UVpuTk1DTFdoQ0QtdG9GTDJmeUdZRkpfT1FmdzlUZld6bURYSG5pNU5UXzN3RWpSa2w4eWxhcS0xbDBmRW5GVmo2V0R2blRyRmdlTWdCb0luWFE1b2owZTI1SUhoQ2xsS3VSNGx4ZFhsbTVvdHB0dnVxSDFKQ3A3RlljU0tEWkdW?oc=5",
+   "published_utc": "2026-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Photo of the day: Google Cloud AI Hub groundbreaking held in Visakhapatnam",
+   "source_name": "Forbes India",
+   "source_domain": "https://www.forbesindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxONTZ4b1BDcVd1YUtpanlzbWJqQWR0MlU3VHBrQi1QQjZMaGh6MlhQNGpldFN3ZmFwMVBTMlVOenFHZlN4OXROUUhwaThKWUY0RjhMU0dtVnRfYnlKOUtJNXUxQVo5RDJfTDZNcGJhVkU4WURHa0NkMVpwOHVzeWRuYUF3VmR1dkFQME1yWGk3LVYwcm80Y19VRUJtOGpkYjFuaC1qLVlsR0dXbVZ4eGFMUURjOEt6bWU4bTZnNXFhUHF3OVRRUnVlc1h4VE1ISXlNYUZwZG9vRmFXTzQ4OVdmVE1neFRCN0FEa3llQWlDLWJpRlY2Ui11STBLX3JQRldYdTdyd1lnbU1uOTFhdzhFZFIyb9IBmAJBVV95cUxNdVVFeDk5ZnA1VjdUUk11LVVqWkxrSnNzLWtqcGswTmpod1pOejVNM3ZjMXR5RzhxaFlYNlNJYkFZdHhiOE00MmJMcXZmeUxlVnlnV3Z0VFo2T2xlU2Ixal9jby1VaF94WmtPQk9NdjZKWjhXMnlfSXp2amxYM2ZjRUE3UEhrMkFSd1J0ell5TW95VTNyU3pXTnk5NE1LZFg3RmE4LTNGc0F1N0FHQkprYVczOC0xOVpFbnNhQUVqQjdtVS1OWFdjVGoxRkIzcXEwSlctaTVUVTBoeHFmcFpyTG1wemtydFZGSFBsZUpibzFZWnd1bDNnX3h1MFIwTW9QZGgweUp5TVRnemZCWW1UNGI3U0VfUmZG?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google Breaks Ground on India AI Hub, Launching a National Industrial Ecosystem Alongside India's Digital Infrastructure Milestone",
+   "source_name": "Google Cloud Press Corner",
+   "source_domain": "https://www.googlecloudpresscorner.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORU5IZGxtTHFULWhiS2RmOEppYm94dm1JbE40U3FLTG1uTVRISTl2NE4ybHE1R19qcHRsY3N5NVRjVVRNQTZVWmNRX2NHWGlxak90cmxzaFg1RGp5YkpYUnM0b2xKNGlSUU5DRHh5M1dMZGxPNVJlSVRVMWVHQ0VUU3dCYUlhd0lPaEtrMDhmd2tYWGR0MTUzWXVISGpJQ0YtRmxzWk9jbDdzaW1FSEhONHdqRmFQeG1iWmVaS2tXSXU5ajFheUlBQ0pQbzEwR202aWZIWC1ueTFkcmFIeUlnb3Y0UFBzSG5NWW5xUDgycTg4Z082WFI0cVJocjBiSXhaR2xNbV9janNKMWM?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Chief Minister Lays Foundation For $15-Billion Google Cloud Centre",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmZFWVFSQ1VCZlFnZXI0SEc3TU4wb1ZuSlV4U0xxNjFxUGZSc0tTZFhJeWhCY05Ddjh5MFg0MEo4Z1VJY2NVRC1LUlpZTDQzLUhKRUotSGMxQUZmX0l5RXJyTlFYZGlLZHY0aUpNQTRKdjljOU9CZUFEcGExQklvdEtWMnNuYlRJUTdZQU1Za01namJRc3dGanNtcnJpQW9lTHlCV1gwVkZjNnBhRDcxOGFvY9IBuwFBVV95cUxNb19aQ1ZkWEd4cFkzTjcxX1g5NDRBdHBiOEdwVE1ja2RBeDduWTdwU3RubkNNQ3BVc2dacXlyMDN3M2piTDhjanJUUHNNZmh0d1QxZVg1TWtFc25EeG5WSDFnVHpxM3d4dWJhSDRVVWkzb0YwYkhhajN4enRVVlJheHhmekIwb1F4QjUxYVJrWmhOTW03RE8tMXdjMG5NWnU1TDIxWWxZT19KOWszR3RWdHRsRDZFYWtLVEVV?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Health Department’s AI-driven medtech pilot yields early results; 12,677 patients screened in 37 days",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNay1CbmlEWEt2MkIwd2JoYUp2UkxkX2dfZHE5SVNRcFpwTGlpUE9NTUtqZ2ZkYjFBQWxWU1BWRW1mZmhvbW1QcFRZeUZGTlhDSUVlNS1CU1FTSkd2dHNZVGNMbWlhTnJDajlkRk5NQU5sQ3R3ZUI0RjV2em9VWTg1eDd0em5oYTkzY3ZuS3QxMHctd0piUjFoT3FqTkRna0kxZ1h3MmNVTU4wZ0lPY2FYT2hHRll6OGQ1QmRWYzhqTHVxMGxpb2FPVng4ZDNuUjU4T3RZeGlVQzVCYjA0MGhSWWVVR0s3YXJlTG5SRDlaWUYtVlFQZENTbTRqSUtCSXkwNmhmYTB3WFBWNFpUb2djbnN2WlI1UdIBnAJBVV95cUxQakppRjA5bS1pV04zcmpQb1BaXzROTEszejVRX3hRTlZFc1cyMzBBRHV3NzBUcmxNdlA4Nl9RRFVrRTU4Q0FPakZMNDVGdDF1d2o2d3N3bWMtV0N4OXlXQ0MzWnJqdkFCVFNpUWZCR2xJNGNDZ204NmdJQUlEakQ1dWpjV2NGSUZhdXdGVTVjUllnYml2VHNJc21nOVNFX29lZGFTdUM4dEhwSjJiSkZQN0FFQjBPYnVldE9LSjhxUXpXSTV4VEJvQ3RGLWRURlpBSW5pMGIwdTJTZ0xKaEJHTVV0a0tvWDBtbllTckhUcG9ublViSmVBSUZqSElseEhSTVRYZ2JoVkk5YW9fcEpLVVM0bFB1dmIta1dLeQ?oc=5",
+   "published_utc": "2026-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt lays foundation for Google’s largest data centre in Visakhapatnam",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemQ1bl9pM2NZR0FJVkhoZTV0SVZFMjJ4LWxoNXJOSjNQV0RxR2ZmcHVDVmxVMXpwZUI1MUhhWkNSMFpyTkVZS3hlaVkwdWhzWEhNa2JqRjdRWTVEX2NEUGlscTl3NU1MRXBaSXd3VkpFdjZEV2JrZmg4T3p4eGl5YnFQYzc1OFhTTVh1QjB3TGk0U2JDOGE2U0psTXQ1ZnNYUEZxM1pBQlpVTVFJVzN0SWdrMWxpb2FjMXdBZ3Vn0gHLAUFVX3lxTE1fbVZNdjZjajM5MDNfWG05ZDJYUlRBV29kVW9tMG1ES1ptdTVmbXE1c0dhTS1UaXpXeU1qNXZCMk9mTHUxeUFiWVl4b1Eyc1NqUTdMc0xSalhGenA4TFRDTmhnbjNEbHZtM0JKbGN3UXN3cHQ3UlF4VmtkSDhQcnIxUlBPeUZtX3JIUW1OMTZUVVlUS1E2bnhZb2dOeXJlZWtua0JCajhKRVB1cDAzMF8tVDJFS2lQSVg2djFjX0p6cFU2ekhja2pqaTg4?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "$15 bn Google data centre to transform Vizag into AI hub: Ashwini Vaishnaw",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb05QVWx3S0VJZmJ0NnFsd0hCV0RZQmtPd2ZTaVBPVjBNOUNWNXFhN3JxNUZEMzNvT0hqbG9oN2h6S1BCSUd2TVFNaFdsRlNadDRYbGJmZHEtUGRoRXh1bTNNcUVEekxsVzJWQmRjc254RUZ3NHo3SjR5MUF3ZkJ0Szh5Wk1YTzNXbmNwbjFiZnlBSmlrQzVRbkplaW1MbDg3RndrVXVHanRQY291Z2RlMWlvdXRfRVFXcE9KVGFuakdzdFdnYU9yd0ZkLVcyS3NWYTU1VzhhWjlfT0dJaGowZXJYNWxVMXdTUEtDOE8tNWLSAfYBQVVfeXFMTUFkYW43TzI4eThhUUtiN2htSG53Y214M2FITTNWc2NBc0hhVmtaTzRMN3RlRHdQaF9JRlpYVjhrWlRzYTRxOFFzdWxfNGZKQm5fN3VaeDBlN251VUJHdjFBSFJPbDFRTkptUmQ0cUVYRXFrZ1lGcDI1WG9KTDBHVXZpaWVFamNaMGx0TF9paG1yQjRwLXJNM3k0RUx1cEZyZjBGNmNYX1JueTVkMDduMFFQSElENENoYWtSMlZVM2JQY3Y3TEVZN05xVmNDakpOcGVtY3ppY2t6ZkYwSUtxTU9GLWhqbHVKcnNMWmJkTGJZSWljc213?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google lays foundation for Rs 1.35 lakh crore AI hub in Visakhapatnam",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVZBb2plN1MwdE5VQkFpaDNSbElNNEFJZkZPR2JpeW5PNUFsWWQ5eXI2b09mbGRvOEcwUkV2MnZEVHBwQlZMaVdKWElKS3ZKVlZmZFB3Uk56MVY0Ny1mSnBLbUszQUJjUmJWZkdMT3kxSW84REpfTmlqekJlZDh3blljUVYwX1hlSTdoRmx5dDNaLUNwY1ZkRGtfelVvZmNUZ1cxMk9OQnZEWk810gG6AUFVX3lxTFBkWmdfUWdLdmdmRkF4Z2RxcEFzLUV1OFBPYkxlUDFYRkxaOVZMWVFrblNhQzgtR1A4bEwzWDBsbkdnUW90dVk0UmltRmlWUlkwNE01NW1KeHdmMW1NLVF6WW9aMzFFM3BWblFteGVUM3BEWEtyVi10alRmdXEyc2xyb19EcHp2RmdlQjl2bl9JeUxqNkxrMG1WTzVHWEtDM3h0UEV4S0x2dHdmZjBrd2dCUk1QN1ZMMjhpUQ?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google's Rs 1.35 Lakh Crore Data Centre Project In Andhra Pradesh To Begin April 28",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUtTd1hJTjBwclEzdUZ4WmR3cmZ3RWJBbW5DTW9WakNObkgxMkQzdTdpYUppcEhCa1VQdVp5UzZWSy1jUnUzZVJkWjZwOGw4R010eHRnSk9SaU9BeVhRcWx4NXpFOW94eFZOM0JSRVZ5YkswV3ZwTzBFazJtNjVMZUgtWFpscGcwTTBlMHZHUXZtVUk2OEQ5U3liZjQ2cGRKcElzbUNwWUNzSnFzZHF4ZEtlWjRqVEZ1R2FkdXBHcG5EQzgzNDByUnVQRE_SAdQBQVVfeXFMUDdxQ1FlOXlsREtkNDJsTTNZSGxDMExLQTdMY211UjVwb0dGN2NuamdmWEFKZHI3SF8zSnRiTjN5aG9aM25hTV84TTNiWXlYWnI4V3B5ZzlKMTdtd0RwanhOaXYwT0hTXzd6ckFZWkZmRC1TMy15Wmt1NXZldlFCX2pvR2hsMFJkVWhfdDhkdzAzTVRLTGlFSU1WbnFjczItNnNSS2s2dUY3STdhOTVnNnY2eEhrTGRaRkw4ZlBxVmNNMlpEeUx6bHoyTTVsSXNlcFNlUzU?oc=5",
+   "published_utc": "2026-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Cabinet clears major electronics, IT projects",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1BCYzJ1VVVLM0hacVg5NkczWGlqdjBuU09sSEtoT2daT2hxWGxRM1lXbHFlR1J4bmNubW51aUhtVzl2aEloMm42bm1zbm5RYlhUb0dKT1RkTHNUS1NkM2ptNy05SVN1V3BpMk1IWlFwQ2hpYS1zYVNncldSc2wwU0J3Zm9OdlJrUkZRdHI4bkhnbExYLVdrcWFCVHotRVR4RkRKNkxZY2dzNWVfaFgwbXVYSWtkYVhYSVHSAccBQVVfeXFMTjYzNkQ4S3d6aGNOeC10WUtEVUJRQnJRZEx3bVRhOXFFVTJjMXFib1BmdzZqejQ2ZHhIOEE0QU9qQWdCVEh6bnA4bkhvdzJ4bnc2QWQyVTNfcm9XZE5ZV284TENiOGVwZFpWVlRUZzdWR1NkYWR6bUNWX1Q5SlFJb0F6SU54TW4xTVpuSzUzNXJVdWh0X2lwejZQSXlfOTQyWFdFNUZvYWJXaFZQTi0xUDJTZGdIRDJhSTFuYlFKUWd6QW5CV1FVMA?oc=5",
+   "published_utc": "2026-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM announces ₹40,000 lease per acre under Amaravati phase II land pooling",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUFNjcTNERF9aZHNTVVZzMXJoc1BJUk1DaUJSRUFHVWxHZXNMX21seUptQlJGUVVrX21Kb3MyaHUzVTZ1NmJPTnFOV3J4LVFHZm50MWRRWjAxdGJJUWFYcTZWN0g5d0lJRW1hMC11Q3pORzZMYVh4UGtVeGp1ZlhZd1V2VzNvT3VlWFItbWZ4WmFKOVhPNWt6b3oxT0tmdnNVQjFiSm93R3A3M2tFZ3JFaUNlZGtNUDBsMWNpeV9UUU8zV0dnQnV0ZUJUYTcwOUZQcVhmZmlaakRyZ0RFcXhxU01WRFQ3cXhLMUZ6a9IB8gFBVV95cUxPUld6c0FRc1NZbGpscGdPUjRPMk13T2NKNkNQemhOTXZfZEs1YkNJRHZuSkdEemlXVEY0ZmhIVFJsRkFFUTJLTlNZUXZTangzRi10XzAwbUNEdmFVNm5GVjBFbHBwb0FONGF1dFV4NGo4STV2WExHS292Ump0MkM4ZXFueUZnclQwbFNWa1NOWHBrdW1ZcnpHRFVGWHBwVVFHUGRzU2prTGFIV0tRZUxYM2YtVnlGb0tJNDNXQ3g2Z19VcV9taXN2YVFRc0FHNTBIRXZBREFERFFTSlZoN3A2Y3BjcTB2allWYTVXX3lTUF85UQ?oc=5",
+   "published_utc": "2026-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "UP Data Centre Cluster to accelerate state’s AI Mission: CM Yogi Adityanath",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc2wwX0ZnR1JkV0VROUNzWUVnbFNfek5FcTBMMnNoSE8wMmt6NVhFMU5YX0lINTJNR1dweE5nVHlodmZIUk8xNnZXaExHcWdqdXVWMXBJaFViVV8zeXVGamxMTG5YQ0VsNEs1MnVNUGR6Y2paNnR0dWo3R3hWamxkWmx4aWUyLTlzbUIzZzVXcFRwLXhyc0JoeGRnN0YxQkxTV2QtLWkzOXN1c3NFZ3dsWGtyOGxkM3Z6RXJFRUF5ZnBUZ0UwbngtdmsxZDk4ZVppRmE4ZVd5OEFLemxMQVFJWUNFcEJlbW5ZUURNNC14ak1LeUlqMVBRei14X0jSAYICQVVfeXFMTUY1UmVnSmgwQ3RyVDFneFo4cUJ0RUU5WXpCRHNoZXJuMkdsRkNXX0ZDNzFkTWVFWURIbEI2WU1TTDQwcHE1WGo3bXJtREZMS2hMRFdTYVQzSTlVSjhHN1ZtSk95NGlmdVd4QzlEQzBwVERicXF0VXNSekhIMVBQVm5KVUdTeENGOGlQVUVHazloSThhYTBVQzNiMjZRQjh3TDNCX1ZPSDZTUXhWeVVlQmF2YmpvSDl5T1g5dzhKTzVwY0QxemNpRl9oLWZzMTZPS0gwOE4wSGRRUnVFdTA1Z3VJZHg0b1dkTXBnVWdtRDRvX2tMMjhjVlFmTHBmZjJ0Z01n?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt plans nearly ₹600 crore investment to strengthen AI ecosystem",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVJwaW9BTC1vTE5RSzB2RlRnTUhzQW44cmY4bG5TdVBnZFBrRVlpanhSdENzVHpiZDBuZmRDWXNvR3FaZHg1dERtUmo4NDJ0VV9DWExsY29BVXVnOVhGMGY3dFlCRi1YdkZUcDc2WllIUENFV1hRVVRfaUxlTjlvY0VmQllHSV9ja1VhbTlnQWtvMWhnWW1hMy1ZVFBHc0xQNGktZEpKN0RUOEUyT1BVNHFkbk5DeU04TUQxcm42eG96VEFGZE9pTllMVWJQQWJDM0HSAdcBQVVfeXFMUGNBalZpdFFUVXB2LTNSRjdVN203RHYycTI4VkIzVzdud0xFM0xFN25hMWQ4OHpkM3FVUzlIS0hQblIwZzhfS216OHNHQUdBbU15cTF6T1ZlOHhuMUpVdnI0ZV9MTXRpY0thM1hVbHVtOE51U002LTh6OURSaGt2dzRyOWVTV1VNaFh1UFh4U09rSXBOQkwtWlZqYktqeGVXMEc3MHlKdUFqNkZDaDZtNEFfaGRHaHpHbTBTZWJUSlptalpyZmhpNFNmMjVGdjlyRUJJTWVncGc?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Yogi govt pushes AI mission with ₹225 crore budget and AI city project",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOURaTGIzZEhjUkZneFVWWG1ZQkJPWmRzbWR6dDVCOHZOcHR4TEhRMU1kWlpYQjNzMFBWdWRGSmhVM1ROdVo0UG5WdGl1SFR6WkMxVmlmQXhMeWJLZHlkaDdydDFMOExFeGl1bExiTzJ0Nk5MOWFVRXo0SUdtbFFRcUM2RjNIWkpzNElleUl4aENHZVAzTUFOemJvLURRQkVhMFdPVUhZOEdoVGRpV1JhVjIxV0thNUpYWkM1TWVVb1UzOXE4dVpMQmpR?oc=5",
+   "published_utc": "2026-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haryana AI Mission 2026: Driving Innovation, Skills and Sustainable",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3N5bjVCS2M5b3UzSVRPNk9NcnJ1bUZVaVRrX3BUYnI5VEhQX2xqcFYxWlNWTU0wMU81M1h4VE9kZkgzeFFTazJaenNDWk51VGF6dGs1eXhQODlaeTlRSlZncFBGVkRHVUx2UXJ4Y1ZaSHZzVjBiZXp4UzJuQ3VxUjFCelJVQ3NFRHVFNmdzOEZtcHhvYVJEdE8wb25MM3pNNWZNVXF3?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt proposes 2-day weekly WFH for IT firms, startups and industrial units",
+   "source_name": "People Matters - HR News",
+   "source_domain": "https://www.peoplematters.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQemd3TDkzelNLWk40N3NGOHRuTzBPc3psOXFHQUVkZ0lraXNxa2pUTkRVb3dHUEJpQVExNEJrNk1oT21WLTFJYWdZdU9nZWM5SEViOWhjLU1tVVVaWVBxdlQtakZ1UktwMzYxYzludS1JVUZ5NV9QNTZWVFJXMXIycDF4d1pTRnNVbWg3NDRQMWY2azVfY19vQ3lpQlVNOENsVEFYR2o2UVhBb19sY2Y5Q1A3QlBGYS1kSTlVOV94ZGJnY0xLTUdMcXNLUWhFc3pa?oc=5",
+   "published_utc": "2026-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IMD’s New AI-Driven Weather Forecasting Systems",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenFjM2tXSy1TLU9oTzZWSmdCRHNtSjV4Q2ExbC1RUDBnbnYzS0h1ZG9uR3ZwendfdXVnV0RXWUI1R0lxUk5HUDJCRmlJZWpZNnRQc3Q2dERWc2RoSFJzb1lFLXMzbmJpRGNMb3AzU2FGMHBTdGhtRVdSd0V5amt1N001dl8yQVBDbnZIUFE3T1ZQQlVCekh0T0p6Qm1Hc2ZjejhFbExxeXhRQVk?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Reveals How Claude Helped Him Trace Ancestral Land In UP: \"Excellent Use Of AI\"",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYk0wWnNpUmJmUnZvY1VaYWUxTUdoTlhaZmRPTHBMaFRFS19xNUN0ZGE5QlpwaUplUmpsS2k2bG41b0JZYjItYjRBUEw2QTZWUGdrMzgxYlFwZmdENTAzd2ZsZEVvQnB5eGdIbUxsY0I0Y3lFUVZEQmpQeUxBb0U4dXhKVUtNbzFibGFxbGtHaWtqa0NGeF9DOXM1NXh3NXA1YW5nUl90LWwzT25NWEc0akJieWpDTnR5Z3MwM3dNalEyTHV1TVZNa9IB0AFBVV95cUxNUDNRNktlOVd5Vzg5eWNOWXhzUDFNNWx1Q0xrUnEyMTB0UnVoVDhNRGhjVVlmUno0RXIxWkNJRGtRTGM1M1duR3p4ZWlEX3A1ODIyWVB4bjVBTHZ2TUt0UndyaDlpY3FtbVFjaVZublNSYlAxLWhpd1VtZlZWRjdBXzdoeG1za2ctSjlXU2E0c2RpeEJsYlhoS2JZOHJRN0ZCSkJ3ZTEzc3pLSG9JdEVzZDVkemlmWlA4RXZfVVpLSVpqWWFlNll3TkE0Mi04STUx?oc=5",
+   "published_utc": "2026-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh saw 17,043 police encounters under Yogi Adityanath in 9 years, says govt data; Meerut, Varanasi top list",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaE53RFg2QXVMVk5NcUJIR3YxRXFKTm9NbjZCNy11ZU12SF9VbjJPLVc4T1d2aXYwYzZaelhhaXVOS2lLVnRMakNwdXJ3a20wYTJrS3RYVHNwc3k3TFliMjR4N1FYaE96aXlVVkgtM2JuSHJCVGZ2dXlsckRoUENESFMxUllFYURSQXRXQ3I1a09oNmJPUHYtRkdlTjNGLUtuVlkzR2pfSlJVeWVxUjVBenVsTDJBamtmX0NRYk93Nk5OSDhGd1JjNHNseF9XQ01ITmE5WlN3RnlFck5mX29LSEhYZDRrVlFOd2k2cjhrRFdyUjFPNGljaV85NTlZSGhB0gGGAkFVX3lxTFBKcjdidlpLd0RSX3M1QXBVdVhPWGZYU1owSTQtdzhoekY4RElmRmFJNGpqYkJmRlZQVTBpVGcxRmtzei1yM0NsVVRCcFhiT1J6aEh0Qkcyd1VJUUNocHNHTTQ0dzVrNmFZN3Q3MnlvaUJQQ3lZOWNvVG5RQk1xcldBX1NfeUlfdGd3RXV0MlVnZjdpSkFLYVpKZUo3VUYwSTUybDZKTUV5OF9PcEgtcHhCQk1TcjdsM2pBQXh4Y2Jzak4wemJueW1WOFlXR0JJQjJDRHR6TVhZUVF2UFdDM3J1dTBwOXJDcmk2WmRMbDQycl82N2t6STVQVXRQVlhBdzg1bG9PLWc?oc=5",
+   "published_utc": "2026-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Cabinet Clears 20 Major Proposals; AI Mission, 400 Electric Buses and ₹15,967 Crore Road Plan Approved",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHlwTWx4U3RjUFBYZFIwMkE4dmVMeEJRWEdIcHFuV3lNMFp1QTFISVpEMlAwUG05ZDBpbl9lUEdOQlppM2NIRk54bGkzNDdhVUl0TDRVUG83RV9rZ0xzZVRHWGljeVBDYnREcXZjMUFUTVpwbXgwWkJzVGV5aWlVSktMdG9kdzBTalAxT1NlNmdhcE9JcUt5SnZ0My1TV0hQeWhnV1BmdlNEQnlNRzNIZnYzdHZheWdDdHRLX1dUUy1sRlZwNUt6OHo4ajlkZVR0REU2TFdPd0ZMZw?oc=5",
+   "published_utc": "2026-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Govt Pushes AI Mission With ₹225 Crore Budget And AI City Project",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3ZfdGxvSEJraE1YaF81T0NnbmJMU2pzemdQME4zeTBva0F6SEwwMnNMSzYtZGFBU3ZFOHJzX2ttRVR3ekpOVklqSU5oLXRRamFObW0xSG8xUWFfUFRlSlpWY2cwUGc2WnB4U0FtSm9kQmRFU0g3WVVyNkZpMG1QMGRGWkZQT2lGQTg3SDhma01SQ2VyM0ptWEtmRW9nZ2dXWWFzemk5T0NBZGJxRWctSkdENNIBuAFBVV95cUxPVHJ3eFFOUWF1WjdjMF9jSzZLQlI5dk1lZ215ckNNZm5ubm9GVVRWR1lwd19GQ084NWQzQVNOWnItOGgyeG5fdVFuRDVNRmxKa0pMMEVvT1FMQS14dkFTUkV6UTAwbk1ZazR1Mnc3elRuckpieDlLVjFNakZpRmp6WWJMR3VDc1hjU0xycWExemh6b0k4bHdzdHpVVjZUVHBvU2RkdFVvYjV1VkZJcXZDb0ZReDdVX1ZI?oc=5",
+   "published_utc": "2026-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

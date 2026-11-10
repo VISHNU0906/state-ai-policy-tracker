@@ -1,0 +1,53 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "India’s Data Centre Boom Finds Its Moment",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "https://legal.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlFXOTdyeE9zTk5CN3Fvbmxvc3pVdHFuNVpRQ25BQUNicjFWOS1jcFhPZnJBano4dWxuUFNVRkdhdGpaZF9nN3I2U3JZVXd6dE9rUzhTQm93MG94bVF0SF9mR2MwZkdyR1czWWFHeHFfaVFCZF9rTEFFeFBnbi1jTHVGZEY4QTM0a0VOSVRCQmgwczlWYmtxUUhYckxIaUdyZXRHalN4VHQwSGJZM2fSAbIBQVVfeXFMT3BIdmJfWUNOVTFPYUszQkNXdFhJOTB4clY2RkdIdGxMcXBMMk9aNTJXNXAwMVducTM2dG9rSTkzZkdnUjFiWFhfWXFDaFVXUjkxT29aWnhOdll0a3YxdVdBZFZQazRkVFF4MlkwX0hoUGk3N2hFTkdZdVVrYWlGWlJRc2hjdnJwMzJjVFFEZndnanN4YllxLW1wMEYxMGhmMy1RakszVEpYOXlUSEV6M1BlZw?oc=5",
+   "published_utc": "2025-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Online Crimes Against Women in India: Deepfakes, Doxxing, and Digital Abuse",
+   "source_name": "Centre for Public Policy Research (CPPR)",
+   "source_domain": "https://www.cppr.in",
+   "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jcUpINHNvbGRQNnprdVZrdGdJVWpXc3A1RnVWUnc1Z2pJZ09PQmZkUU03bWhCc0FCb1BBV1JhcmRvcnJEUExyalltckdKbWlOd0c5eFdtdGJJNVZHcHhNWGVXR1dMZmZCMmdYNnZkVmhXZw?oc=5",
+   "published_utc": "2025-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Infopark Phase III: GCDA opens land-pooling office",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTA1ZDMtVFVXOXJlQ3NfU3JfOU1vaFlxVERWRU0wZmJMbEZxbmQtZTlYZTJkczBRbHRETDhOSzlob3RsUk9oRUZzVktGTjVIOGJDQmdaVkt3azB6SWRFMThFUWJtX0xuSGdtSTNOd1ptSE9RZklMa3lrNVR5QjgyMHQyMVZyelJQWml1QmtUNlAya29NUXBWYk1ZNE9SQWx2OFNzNUJSeTR4NGPSAbgBQVVfeXFMUFhmQ2lIbk5SODZaWmZ4dVlacmJFYnNoV2p0RnZIbVMyUU9wZ2F6X0xzdWluMC0zQy12d3VVcXVXdW5PUVlabUo1LXpHREdYQ0ZMWnUxbDJxMlMyeTZTTl9SRklNTTg1cmEtTTNoVTRTaWsxNk8wclpZUDNZWkhya01uRGJZRlNmNVI5NE9uS2xzR2kxOHFGeXplbGQxc1F2WDcyM1hQbDNmNTRkSmlTc2F3ck40U01pQw?oc=5",
+   "published_utc": "2025-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Airtel partners Google to build mega AI hub and data centre in India",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQWwyT3JMcHRHdW1HNk1XUWw2eWxmVDNKVkpHWmtveXZVa0QyX0kyWmc1eUM4bEFZZkI1dVl5dnEtbkJTaDl6ZnpweWpoTUJjdkpKM29yYk9KSGZ5M01tRzc0dnRISUJTS3U4VGdVU0pHU3duR09WSlVnMDd0U1dNV2hFUHZXSUpOeTFjREFoVUlJQkNQWTRMSDlYOVJPb0o4WmFsdmtCbktNNjN3N3R6TEdxZXNPWF93N01PdUtUams5RzBHQU9ta0RvWnh6YkRZMVctRXFPSVItblF0bkltaGJfdG0zN0N3NUJBWdIB8gFBVV95cUxNQ19RWHRrOWthSktBeDA4aHhDRjdQazNXMlBrbWlseXJnankyR0Jlckw0c1RCc1ZsX3l0TXlxdVNoaFBWRVNnRWs0ZUhiTmI1eTRzYTlwTjF4X0NCNnhwM29FTUlxN01fMDJOSm8tMS1aUUtGbUhoY3gyWjVramYyeDhFazl4WUl3ZmRVYVUybzk5TlVlN2dkcnJpRDQ4X19mWW9DN0VSQXdNMmUtdjVGMnd1bXM0Wi10NVlLcFNMakVnaWdUSXRqV1ozSFYyTmxlcXE2VWR0QTlMalBUVmg3d2U4MHhEZFZKMHhMam84QXhYUQ?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HRF calls Vizag Google-Adani data centre a ‘looming environmental disaster’",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUFmazZTWURnSWVpMV84UG1xeWNINzdtaWtuT2I3RlN3OTY5V3JzR0ltT3VOS1hGbWhXYzAxbWJQUllQYkdMVV9rN1RsYml4SEFvSlhFRmxOeXhiN2RSQ19CZ1hfUTVCR3UzaEZ1bXB4Ynd1akdNQ1hnNDBMNlZsV004NktxMHlXekllOGdObUpOSDNKdWhkMWdxMjFSSGsyMnV4OWd1OGgwZWUyRXZKU2F5RDFfb2lHRHc?oc=5",
+   "published_utc": "2025-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's first AI-controlled city, with facilities that will rival the best in the world, will be built here,",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWVhodFlnQ3pfdHozeVoyZVR1bUhaLWh5V1daeXpVaS1IT2hHWmEzWWtNV1NmdjJyaXJFSjd4X2dqN1U3QWRUenZnY0tHbURRUlRFTnlfM3l3OHJKUGl6ZEJfQVBaR09PMU9PbDdJTHRCMHdPZXk2Z3VKcGlwWWlTVk1pbFFYXzJoYlBOaE91dUEwNmZZNTZUcnBIak10MFN2VmZ2Y2JrcXkwSGhBSTdCUTVsLVJQeTRtZU50VEg2LWdHSWdLbjJLeV9vcVE3UTk3Yk4ybVVmOXNldjUyRDJVNUpVN1pmZlotQXZhR3VpenJab1VDUFJqdXJKR1BJNDYyNlJseHQ2YkhqdGhsTmliVW9SX2c1UUtyQ0NKSzA3aTNydVRTb1BZVnE5NmJrVXI1Qzh3RUVzRXJUS1V1czFHatIBxgJBVV95cUxONkhxbU04TkYzWDYteTFrcUdxaXpBSmI5RHNiVlJiQzJfVGxqVU11eDhxMnVkNFdKOU5PT1pmRU1Oai1yYjkzN0oyQ1RUdXQ4cWFxdWdUZ0JlVHplaU5vTFVma2NJano2UDJ4MWkzTjlRLWNsZFc1ZXlyRjZsYUZLVUo2LV92ejJoemJkYTZxaUFHakE0dnliclFoZExYTkliODZRRHBpdjI0N1p3NWlmSTlTTy1nV2pvSGo5WjFsWHc5TEFUd1B5ZnJZYkd3cjZhYkc3MTIzd09hUm14TFIySjFIOW1zMjNJSmtDbFM1eEI3REFodzJMRWZBYlZtUmNZWkw3dDNMVUtOTk5iUGg2bzBLZ0V3MjZERElvX3JHODhrb2xvQndubVZUakNWYlg2bDZPbXlZbEoyUUFZaFB2WVFkT0xVQQ?oc=5",
+   "published_utc": "2025-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

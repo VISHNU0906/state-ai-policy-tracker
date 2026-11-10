@@ -1,0 +1,61 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "Karnataka attracts data centre investments at Davos",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejQ0ZGZ3WGRtQl8wQnBMRmloMTROZ0VFdTdFejZSYTZDaU82b1A0RXhoYmt1QWkzT3B0QmZFdm9lNy1ScFRlUDlTYUNrNWxpWDN2Y2g1MDczc2M2RXZubVhGWGdhUS1wT3RDN1VNeWpGdWxPZGlTRy1EWUhlVUpiQlR1LWw3RlVSTnZpRGJPNVlBU013TW1sU2tuWWhHY3BRZEhxWVMyMUVOeG1PaTFzNGcyQdIBwAFBVV95cUxOOGtIelpBajV0QW9pRDVQaFNoemtIeVMzSGRnb2xGMm5BSHBheHQxZVBWY1M5Q0cxQ1RUWFl6d21Ic0E5X1BIand5V19EYUdfNlZsS29oVGJLTXVTa3FQN0tSRTRSM0owYjJVdHhzZGx4Y1pOUGFoODNNV1dUeFZBM2xPb0t4eW5zSG8wUUdDSHFPR05zYmRxVzZHci00QVZIdmh5ZS1rTExMYm9uM2tJZUh6V1l4SElmb3NYMjhRaUo?oc=5",
+   "published_utc": "2026-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Economic Survey 2025–26: India’s Data Centre Capacity To Triple To 4 GW by 2030, Backed By Accelerated Cloud Adoption For Faster E-Governance",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRjVxNXpXdFRaVUMzQWZ4SVhJLWl3UXVxa0lVY0lndUd6SU9lMFhwd2tyQ1VYeTJsekRUTXhFNVdoY3NyUk0xSFI5dHdxd082UGEtNTdHaE56NTRZd0o0NGpqVzBwZW45eW01eUQta0hGLTZwczZHLTBQeS10R1pXUkpZTml1R0RrUjVOdE0wX19mNkVER1pXaU96UUNGeW5WRm5xYUxSWXNNN0duVGlRSVNyRnNaSGVLM1dfQjRCR09qR05fMG1QZzhxQnI1YkoxemdqeEtJaWY2eFgxRlNWRUN3MFVPUnNGWHlJSUlmVERrZGFvMXNKY1VGNldVeGFNUUHSAZICQVVfeXFMTmVCa3NDN19xUGdfTWljTWlzcXRqVlpEUEpjbHZVbHJ4U1NpdVVrLUUxRmNxMUoyU29EdFhQd0VjVTBjLWRnUW9ieWpucG8waXRpbWlPX2U5SDc0am1IVDk0WTZCcnFBSkhOVlZfYzl2T05lZnZBaVFMc0EtS1oxblhncHBxaE40eUlXMjFIa2dXLU92UGVZeEpLUUVHb2wzNHJaeGViam0wS2ZZM0hPRUZ4OEJpaC1tVmZfSUxBNHFtdWlObFdLTFVaanJPSEl5aU5xd1M4NUNicjhwd0dKSUVTNW54ZndJcjdUU2kzbUtxN09qSllCLUc2UDZzMmNtMkQ5WTdfQ0xRcFpTRU5NV3p6QQ?oc=5",
+   "published_utc": "2026-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What Went Behind Building Techno Digital's First Carbon-Zero Data Centre?",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXNPY2NxV0FvQlRuZDNVMHZNR2VWckhuU0FheFVJclU4dFg5SWZJN0VISVZHd211RjFLOVEwbGhDYWMzMVVqb0ZfOERESHRYQzdDWGdwd0NmSmVBd3MzVUhwdWNHalJvVFRONmhWZW5pSF9EVG05X3NzdFNnSUJVUkhkLVpvOWlrZHhjeWhJZHpLRDlia29TS1dueVQtWDBaMEJKenBQTFViWVo5ZDVzblZkeG1OWXJFUEhLOVIzU3Rfc0U?oc=5",
+   "published_utc": "2026-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "D K Shivakumar announces mobility grid in all cities for future growth",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGdGUkx6bGZENkxuWi1DWXRZcWNnb0dmaGVNTTdYdkJEVEdqRE1maDBUYlROVW5sZVgyQ0ZQWjVOUFdDcnkwYUpvOTIwR2RVcXB5TW50cTdyOUZFVmQ0OXl0WjVla1V2S001VEhTYVp6NGE1WHlXZzZvRzh2RVpJcXY2Y085VmVNbkJxWnB1NDAyb3g3dVQ1a1NMT2hZSTRIV29pYm85ODlxY3hBVW5veVlR?oc=5",
+   "published_utc": "2026-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Davos 2026 — Bharti Enterprises expresses interest in setting up DC in Karnataka",
+   "source_name": "Communications Today",
+   "source_domain": "https://www.communicationstoday.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3p6ZmZuaFZoUEtIWURjZVFIbmYtMVZpdjhQOTdfQXJyTHdOSXl3ZE9sN1kzNWJ4T2JrVVhRYzhDazZuRkFWbVVMR09ZNkVMcExKajgteXl3bmU1MFVId0FwTF9xcVh5R2RkTnQyUTh6alJSNWtVeFh0Z3pacVRBaEVuVjBjQzM4YVFfUXJPMl91THpEdmpRQW83elN5Ni1hdEZUdUQxdWU5bXVGZlpIVkw2RTNnbkJF?oc=5",
+   "published_utc": "2026-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bengaluru’s ‘white water’ revolution: How apartments are powering IT parks and data centres",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQnFDalRQeE02RVVwa1duY0VBazNwU3RRcFF0S2RGdVk3SkNRMDVQV2FrQlhGekNJUnN5QjNRR3lucDV4R3JYQTdMMDBNODllNlpuVFBzeWp4dTY0a1pRdjR2S29acXk3bklwWFFJa2FPd0dBZEktcjVhdDNzLVl0OEV6a3drTDN0d2l3dTdTcnZrODVjaEhMUmlTSGVnQWQ2bGQwdkJCSlVUeGdtUERPbllqZmRjTFM5MU56aHlfZkVrdXhFRVVXUzF6WDUzMUJsNExhckU0Y2pTMXNnTnhmYk1nVVM?oc=5",
+   "published_utc": "2026-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

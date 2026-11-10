@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "AI-enabled classrooms in 80k state govt schools on the cards",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZHZDMlppZ3RFaHBtOEEzSzVCaFVkMWszcDJrUXh5NkJtdDJvZTVMZTJ5Z1p2Y2FLY3VNcjlQckpza2xFV0d5Y3EwTjJvTEtUNVJnbnZ3aWoyYzJ2ZlZXa0hINjdPQTJPWEV0Ml9yNV9ISXE2NlFFRFlGUGxwOTFCc1ZqeTFuYkxTeEVZS0xIcGh3eXJCb1dDWUlXcWNSbjBscGtXdGxscTZiajhzbzZoLWYxX2ZnNnNZLWkyd1piNmNhSFdpU1RFNTd4QnhNUm5fLTJsbF9tTE16aG9IcnpKaHVR0gHnAUFVX3lxTE9mOWFWeHdwdFhRaDEtQjhhd0puaFZyRjh1Rm1HMXRrQTI5cHgyQ3F0NnVwQWhaNnJJTHloR1cyRENLbGVuV1Bid2w5aF82enJ0SG1xdndmNVNCeHNwSnlHYjNOWEVNeDFWM2x2VVN1LXByZmhoUmhEWlZiN0RPYk1CWHlIVHZhaElqY05NZG1iN1BoQ1cwem1GN2NSaXk5RTJvdTBaNG5CWWVzYzFETVJ3VGFodFplZ2owV2MzV0FWXzViVkZSNmlCQlpmd0VlREU2Z0c2dkZnTWRDMXh6WlhFVnpUdUlfNA?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra, Wadhwani AI to deploy AI tech in public health services",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV0x5Ymx4YmxWSHRpdVkzLWVpN3o1WlppX2I1SW0zRmZOZVlaX0hsdFgyMDBIZFFSVlFkN0dIbWNaTlVTeGhubmQ4SGpJUmhDOGVIUVZ0eUk5UnRzNkxJQzhxdE1tSkhGMnZucWFJaFc5S1RDUHRvVEFfenZuazdtSEFfcURKXzh6OU04VW5fd0YwcUlvaEhaWmlXMVFENm82MW5qUHhEQVg3N2RHaXpxRmZ1V081VF9fNmdrN1VCcXRCRlJYWkdvdV9aVjNjbWZqaDJIaVoxb29YX205eGRKb1ZCUllUazhLUTFNMUpCeS1kTG9qYlZr0gH-AUFVX3lxTE5ndzFHWUw3bUVyN0lVLUFFLWdqWTNfYVJHekZ0aXRldGxUZkZnV2U1VzhLUjEtS0ZwVnZoR25na0RENkNxeWkySTlhRDBRSEVBTnN2ai1TNXJ3NTAwaTJaZktJdW5BQkZvaWpRcTFUY2M5dTFabUZ0NDJaT3d1SjlOMkJ6VXIxc29Fd2hrSU1GcWY4Smc5QlFyNmN3dldfbWcwUDBqWHBSejE0ZTU5NjJHR0dSTVotcXBJS0RsOTlCblpXVDR4N2NnczVMd1pwTFM3TktHLUZjLXNwVm1BSHY1QjlFLU91VFdkVmhreXZtVF9TUzRrVnJpNE9abkx3?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra budget 2026-27: With AI-driven agriculture a reality, farmer leaders wonder whether it can tackle farmer suicides",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHJ5M2FRWWFLQ0FnQjhpUkRwZi1hTXEyVTBpLVFyclNPNmNwRW9QbEI0UWVGOFBMNkZza3ZoUHd2Y2ZBemJ2N3pjcllaaFl3V1Z2Y2FrOEZWTk5xeG5mcGF5RE8wOENNazE2RmdqdHR0cEZWRzM0RnQwbnB6a0ZhMmxtMHJBcVhTZy1CS3RCejRKQ0ROdXFkWEFBTmhqU2puUFNtOFRmLXhjM2JhczUyUWpR0gG4AUFVX3lxTE5YNVhSUS1vaGJaQkRBN2E1YlplQzBLRldvZUNJcE9ObTEta1p0OVJweFZMUkc2bUhLMzlkR1VSUXhadnRXNHRKQndfbEhJSmg0S2dmR0JIX1J3Qmw5Wk1EbmhMMm9adm10NzBhdmhlU2J6T2laajRjdm5nand3SUxXN1RaYWJnR2ZkWU5GOUlydng3MmFFZXNjSUFWdTVFcFNORFNibVB1VG9NbFNvUmFqbGdVWkRaMGY?oc=5",
+   "published_utc": "2026-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Budget: Government signs MoUs with OpenAI, Sarvam AI, IIT Bombay, BharatGen to boost state’s...",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjQzc0x1S0FQMjVUVHQ2YVpJb2NnRURzbjc1MmFDcFN6MHJmMHhNaTRIRHZzY0o3VGpKMUlXSi1scllUcWpqcVBBaWl0VjV5SVJfU25aTUNyT2RiUWJoOUh5MUVGdVR5dnpsbXlncm0ySlh3MV95ZTFrUlFTbVdLWHlPNHlyZnRhdUQ1YlQ2cHh0MzVaTHVaQ3JGQ0pNczN3WG9qSG9ETWZjTlF2YncyanplaTR2SVZTY0NvdlphZy16SlNYUDgwMGZVcURtaGJUSnJVelZuWHdhNHJDTF8zZUZiTnNmOHRuZjVFeFVKT05QdVp5Umh2UjYwTk9mUzdheXfSAYcCQVVfeXFMT1UtVWlrQUFBdndwY3A5T2Jwb2U0NHNETU9rMFJUNXZUcGdxaUlrUlFkamY4NnlBZlVWV0NFd01Xc0Qzd3RodFUtdm92MnZDYmlyMlk5b2JVNUl2VVlXMEgyUm12T3JIZUpjWmF6aHhsZWU4Q2xVWXp2WDhzb2dtVGRiUVpKRTFGRDI0eWdxOWxOd21Qd19hMmdmdEFHRkNiZ0ZJV3FWODA0T01uY1I0WmlidmtHSTB0andiZjl3aTU1MXl2RTlhcnpEVlhpZk9JMzRELTI5bTdNbzNhbm1lcnRBemFjREdPZFFiWHdGRU93M2FkZkoxelJKSlM3MGVjcEpPbzY0QTA?oc=5",
+   "published_utc": "2026-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India Is Using AI to Police Identity and Expel Minorities",
+   "source_name": "Tech Policy Press",
+   "source_domain": "https://techpolicy.press",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFJrQjNJbTBkRE1pdVF3ZTdvM2lnR3dwMUVFTVlmdS02WUJyWWY3SGlrTnlQWTlVaXVfUURyaG8wXzFYSHpuYmg4eXlsRTlheVh6cDRPZnRWcmx5enJDLVQ2bDE2S3hPYkJTVV9pWHdSM2VLWDllUUg4TUZOMWNtU3dJWWVMd3IxdVE?oc=5",
+   "published_utc": "2026-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra partners OpenAI, Sarvam AI to boost state’s tech ecosystem",
+   "source_name": "Indian Television Dot Com",
+   "source_domain": "https://indiantelevision.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0dydU5HdkVaZWpzRXVKTmtGd1kzWGs0TmNWNzFQbWluMEF2MVNQR1ZMMVk0RlRsN2Rlb3RmN0M2SDlrNWlMXzFfVEpIY2xGZ2NOeGJpRmlYXzdha3VoNzZPaHAxU243cTQtTTRMelp0b21NVDN6Y00yVlJsc1hxZnU1cHZyN09IcWpwQWdfZEtTRl9XeGVQRjE0MDBjbzlvczREWQ?oc=5",
+   "published_utc": "2026-03-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Fadnavis launches Maharashtra’s first AI-enabled industrial park in Nagpur",
+   "source_name": "Nagpur Today",
+   "source_domain": "https://www.nagpurtoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzMtWXpEanBfTVV2a0lQUEt6Tjl1N3haWEEzQXdjVUItOFJyb29sQTE5bWlJWFlnckFOa0xVTTU1NWdoQVJkNzNpbko3MWdxeEk5RHJnSG5zbTRhUDFObkI4SmR1RUE0WXloZEdJemRzMVBaNl9sN2xPaXhzUmZFYUIyUS14c21kdUV1bS04VmxpLU8tMWlLdEtCazVFQ3JmajFOTnJBZw?oc=5",
+   "published_utc": "2026-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra clears ₹6,000cr loan for Purandar airport with strict riders; land acquisition to start from",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTUNUZFRLLTg1YlRBemRrREpSRHpRMWlLOEk2VE5fVU5LOWM3TDJMMmsyOG10bFhsRDk1OURzMGlCc04xZWpOTV9LLTBLamVLT2d0TmFNOE1xMExkN0RLakVIVGJqdEhsbWY4QUxuU3kxTG9fS1BrR1loaC0tNkpQa0Jjd1JPLTJQS243ejAtSlFFUU83SWpRek10LVNJMXZqblJSUDVSNG4wYlEzT2lVU0lVWWZoOWR4bm1iYXJoLWVCbEEySXlPNGhvcnppenI5RXRJTUpPaTZ2WHF1T2xENWxWeDRnQWpJUXBBSEZaSVk3WWE1TFk1N21tcFo3bXNzc0lidEYybmxkbTN0SkNz0gGUAkFVX3lxTFBwV2FNQjNZWDBtaGZJQWdUdFFhc1NLWnZsaHpOMnVJZWFWT3Z5T1ZtSnRja0JqWExidU5tdk5GeFB2dmZUMHQ1VHNqQjd4SVNmZXFtZU1hQ3JNZlpWWXJ0cVB3TEpRZlFBcDRCdXEzRWFDa0ZBNTJmTktPcjc0QzQ1N25GeXA1Q2MtOFoySUJSV1VMSGxhbHM2WWdUQ1ZfUWhacFQwaVRVQnlITXdMdFZEbVdzaUZhQko3c2VpcEtNb2xmY21ZTHZIVnhORkRXdi1jdXpxV04xVTdtOWg5anEwQTVUWGt2bG1iMGQ1R0VoN0dVZW16eTFHYV9wbzlsdU4xWC1SWTlMOVd2WFprbzZEeGwzdQ?oc=5",
+   "published_utc": "2026-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt May Recover ₹496 Crore Over Alleged Navi Mumbai Airport Excavation Fraud",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmRxdUpJdThDVTh1ZEJia2JVaWV5UUVsUFZlS3dlVmVBY2c4RHhFNUtUSXo4QzBobWZjbEZKX3NoSG9ycHNvZkF2MWE0U0N6Y0pkV1BYVjBjRThwdjZkQzdsLXA2NVBYeTdrTVdJbVozcFhGUGtYYXVrckNpYXp6aGgzOXoxSm8tUmhVN3N2VGJGbGRWVldHWFRaYmp0SW5GaHQtdUg3dnVidEYwZjROZDFyRHNFTEtCWWtXdmJMZUhXOUd1OUHSAcsBQVVfeXFMT1A3T2RmaU55Z3MyUnNNam1MZjM3XzhLYlVLOFI0MmcyTFl6Z2dsVmFEcXM0ODV4Zlpjd09abk5HZ0lRS2c5WlF3dzctLUwxbzkzaFBQN25pYVg0ZWU2MXczSnNTNjk1RWVvQldYWEpDU21ZU25xSGpaQTdDdlIzMFlDcGd4RGFoeG5iclU3MWF1cllvZ3ZMbENMUmZfVTc0cUpCM21oUEh3dWFRNDB2OXl4NnZOWnpGMVoyNmNPMjNTVDJoZUlTZGF4ZGM?oc=5",
+   "published_utc": "2026-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

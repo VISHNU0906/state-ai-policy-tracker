@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "AI Centre of Excellence Launched to Boost Andhra Pradesh's DeepTech Ecosystem",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV9udTdCWnRiMEk2MVktMllTVFgwU0hKT3Z1MFVvZkN0YmNuakdRSkFpeXJ5MndXSVhQZ0JjME5xdVFYSzVuZktFX3k1UC1OX1dNNHd2UUpHTTVKX1RFTVBvbG9rNFg0UTI4UzJMd0NMZlJWdS1scHJ4YVU3OTFlWXFFUHAzUjZPN1FzVHlDd2FOemp5Z0VwYTA3VXNka3d0Q29rRnhmb1M5UGpTYmx1eU41OXZpdkQ1ZmtwVVJJa3BocGNiamx0OTZBcDN3alpiVi1rUUxsbGFKVVdWd3B2LdIB5gFBVV95cUxQbXBBMG1Xd2JqN1BXVzlmVHpTc21OZnpoYkFIbVZhSXhGSXhQSmRWcGFwZDR3M3JRX2lRSjZyQkZ1Z0loSVVnYm8tWFJFVFBtMFVvSEZpUFhNS0NuYU5KNVc4aF93Vnh5TmRQMUFYOFV6TVRVMVBwQVAtSE1PNEM2aHQ1NFVwMjJJTTRoNExLeFUzMFZiVTFXRDUtOXNmY2I2dnpWUDllZmlURjl5eXcwcFJCR3NFWFVSbFNSSFpCVGFiNW5TMkgxTWxLVkgwLVdQV0Myak4wVFhwMnlHakc2QWRZakZCdw?oc=5",
+   "published_utc": "2026-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to integrate Artificial Intelligence into core of governance",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbkt6VmR6RU8wOHVnLUVtREl3dlFpWWg5RGlJQndrNnd0R1ZDc0U4b0doR1hlb25YdExBaHVuU21NLXJEWEVHajJQYkt6Y3FKQlVOeFF3c3MwWGpRalhCQnlXaG5XQ3FpUF84aHNHanhER1dPX3lsWVY4U0lXeC1fRGpua05uUDk2aDQxc09laHNqUTk5SlQtRzd5ZlluaWtZanl3c3FMYlZZVUFlR2E2alV4al9RUGpnZ0lualVWYTJQMXhGZEVtT0JUeGNlclhQVVE1UE93SEhuQdIB5wFBVV95cUxNMHQxSF9FUTBnVFFKaGpHZl9QWnJVWWxNTmQ5cTdObVNjWWNKdjZGeVp5WFNXTDgwcy1rSnR5cUxlWmlsdlRRbXJvUExldm53bEM2cDd1ZGN5aDhNSk9zQUlULUwyb0dWd2xvLWtaVzN0bzN1YktUYVp1bEpiMjQzdkJGVnppTkU2Y1VjU1gwLUJSQWt5bDVmclkxQ2lXRVA4QWdXSm02eDZHX2dXU2ZSbnhmbFZxNXJZQ3pEa2syZkJaWUp5ZmxMRVhaM3VveTN0MktRVXR4MWNTZEF1a2xJMGNNTHpHU2M?oc=5",
+   "published_utc": "2026-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to roll out AI guide at over 100 tourist sites, says Kandula Durgesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmhjazlUNzVCZUJQN3h5TERRem0yLVFBNWkyTTVSYmw2MGVJU3Z2a3lVdlVNSGZ1OVh0MWR3dVJCVEE2VkxNZjlJbXpfVVNmTGZyZWQtSXVMSk8zTjRJcHB1U1FHY2lCejYxMnNIaTE2QWhWQ3lDdkdnVGNUZmJicXdYS29idDk4dXlpazRDX2h2TWVncXBQQlFFZ3QwNk9rbXFwVjZyTnh5V1NWTjJRb0xZd3JuR3VQQlRSZjFob2VyOWtsN1owbjJjUzJiTmxZS0dLYnY4UHF2bXpCdkVGNU1YUnlXUGtOWmw5N9IB8wFBVV95cUxNVEdrSm5vVFNaNVFGVmFNM2JoSEh0YTNEdjFzcDM0cGh0M2lNNjFPSGI5Y3NsY1U2X0xyTGdMVVpxYmh5X2RpWWItaHJUeE50bXpPX0JqazJ5WVoxUzc1QmRubHBmdkdrQ2NrV2ZCMXdGWHoyaW56UElPUGQ3WWNZY193ZXlWT242cklRSkxfS3p1TzI0aXJ6cG9vaGQ1VjJ4aHpXeGRxZnRtclpTSWViU1NvSEZkTWdaajBVMzNuME5pWmhkanBrNDRWbVNveHBObDhyOHJ2MDhzVnFnbDF3TmdKSUlTdXFadVRJQ3JDb0VENDA?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh signs MoU to become India's first AI-powered tourism state",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenlTUkhvM0hOZXY2T3ZNcjVWTWxJUG03bHJ0ZElwdkN5WlZKZDJJVnVFd1V0S0NjTHF2VzRXNTlrdHBRbDA5dFpDLW0xcGQtNC1aMnIxcmZCMjFoVkNLc214X281TUVFel9uWHdSLXY2Q0ppdFdQUHZQMTMtRDhkMWJiUmppYmg5UTNQb2ROOWhCek5pZW1VUjhtYTBIekQxUE9uZGhFT0R5dU10MGhpTnV2ck9MNTZoMC1Ka2t6WGZBbjEzeklVdDZCSFlxSkJwZm85X2lSUk1rS29lOTU1ZmtLZ9IB6gFBVV95cUxQTFc5eVNQS25NMDFBMU1LRjVBdGozcnhYLTFKTWpGaHBZQ21wQldFcXY1WnB6T3A5R2JVWnJSdEM4aUxoN2lmSXpDVnZiVGthbUFBT3gxOGZ2QzBYSERqb3FSdnBRQzR0ZmxUTTB4QzN5cEYyekpBVE1lSkQ5U3EtVnBxc3JSQUtsaDlfbHdNZmlKeG43c2lfRVJraDh4dkNveE5odXgwN29hSThtYVk4Y05lUndxWEpTdlNPTGZidEl5aEFqVkxWRzM5a05MZnRSYmJRaHREc19VTWtNekllUkFGQ0U5cFlnaEE?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TCS Secures Land in Anakapalli, Pune for AI Data Centre Expansion",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeVdvbnRiNGZQUkZnNThoeHVmbE9nQndvSkp2WFIyYldiNXhaQm1Xa1pDMzctSGdZMy1ZM2E3Y1pPQW1PV1MxTFQtMVJMZUhYNlQ1bUJUYi15enNsaVZnSGNiN3ZwY2ctQXlPMFpEVlNRM3o5aGwtWXI5a2MyS29OMmNFd19ITWl5d25SWXlaSDMtUVd1SXZQQXhldHFSN2dXb2RaOFkxR0xWYlg0cVN2R1FMdXFoM1dMOC1fZUtiVnhxM3VxXzNFRmVjRVpjUk9DTHBXN3A3QTJZcjUxb3fSAeMBQVVfeXFMT1FGck80eGVSNldxSnE2cUtETHVIUWhYNVhnRmp1eWhWMjNnMEV2dGs5d2pFOXpyWnFDOGRaMWh3TEQxd1ptcXhVTmRvUWRTTWNHX21WQl95dHRyTVFETXZpbUJkcmVYOThYTEhaT0dMVjUydFV4MlhoUGVyeWZZVVNvbFo4VXpQWEdMX29lWFhJaEZPWmU3TzZNalJaZEpvRTEzdlF1U09ON2V0Y3RESmxPOHBiSFB4UFVVdVZmSTN2SVJHa3B2dVl3c09KQktEZzdkM19xMjJjWlB0dC1sdnV4N1k?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "States step up AI data centre push with new policies, project commitments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWZCVVA0cUdXQk92YnpDQmVhaGI4OWc5NElYcmFIeTRSRHNIVEJDaXJlX2phTFZ1Y1VZMjdnMkNGck1qV2JqX3hKdkNZcDhkMVNjczJqRzRzN2FLd2FqN2tpME41NW02OElaOC0wWEJoYzB1OVNUdndpSFk5WVFKRmNPaGFEazdrQ0hqaHRrN1NhaWV3ZkpwVTRFTlJkX2RCejZrc2gzdV9SUEZPdF9yN2FyQVlHVlBROGVSYWZickxqUVhH0gHSAUFVX3lxTFBTSnpTSkh6VHBwTmxfdTVQNVlWcTJubDJ2TjlVUVhhN1BYOEJmeWxKRW1xV1otTV9PekxBZlhGbWJwQ0ZpRVlGMVNzUV9MWEQ3V3JoYXFxTUFOYURLeFlNWFlORTlYM1ZwTWd1Slp4c2lmNVZMek0tOUZXTkdBTmdRVVZFSElnUXhXOTNlMzRpVF9rUUVwWWJaSkU1bGNaUGttTmNaN084YTEzbU1GTzlwTi16YzFrMHdnaTRpdUNNOGs4WG1nQktLZ296dHAxUktTdw?oc=5",
+   "published_utc": "2026-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "₹5,640 crore transformation: How Alluri Sitarama Raju Airport is changing Andhra’s skies",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUldUT0FMRElsMldUTGZYcng5cEN6V0ZqQlF0dlRiM1phdF96UjdhbnhKNjUyVFVlX2Ezc2lrcWlodktIRGYtV1VuMHJKamx3a0l5X044MVkxdWIzR2NNSGxQREN1VDg2M1hnd0VJNmh2ZlVwYUQtUUl2dUUwOHVsX2MzRjFDNVhCam1Kamdfb0pjbkJZSXkwWGV2Ri1WcHNQYlRyU2tVdURhWnhqNEUyVjdwVlVVUGNUT3hUbUJlY1plTHdwaklUWmhiVl9OMkhWdFBSVGhldm5JdVFBQXRJ?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi inaugurates Rs 5,640-crore Alluri Sitarama Raju International Airport in Andhra Pradesh — See pic",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQenNsV2xadDYzZ3RqNjdNQTJKX1RNVGRWdm5sQmprYlBoQVA0LUtaVzdRUTBnaTdZVFhvZ1pGdG1jVWtkOTc4a1dSZXZVYlVXRk5fUmwzZHVDTVpuZ21uRnRSSnA3VE5GbGduX05QaTBPVGNkeGhuTHhuVDVpbVVZZlNyYTNpTHAzRUlmcWFEak9hQjdncmxzVU5fZndveDVSOG9FQ3hMY2k1YXBJT0VvenJyb0V2czk0WmF5d3M4bENwVUZNajh3SkxmUVBqMHUzdENvUkMtWnNqclBmZVQzWkJqTGthTUNGdnNuWGFScWl5VGFSbjZCck40MDlPaEV1ejBQV1ZSbFNpcmJJWFgyZWEyT3RETnPSAZwCQVVfeXFMTU5mM1djbTFxWWw4SllwSjFtRGhsODlKVWc4WjBxbzVuWWQ5Qk9VeHgxRE93VnUwSERwcl90ZmhWRm1sdktHdExHYm13Wm5QWXNDdzhEeTJjVUhFcXpacDE3YlZfSlkyYUhLWlJPMkZPOEJCZ3hvWGV5d0dpaERZRXdwd1pLR0tLUHhCNnNFT0VlZUI0UFVnX3JQczg2RVhOamVNYWtzaHZjVVRyYVJvX1FxaDEzRVVPUUVadUNBM2d4OHZTQ3pwa21saVZsbE1JOHc3eklrenJLT0NmYnB5enZzWEY5M3dUS01fY3BoRmdkb0JxN0NNc0ZwMF8zOXIzNkZPTUFqS1Vxamp3TGxIY2FIcHZpMVpFT1d1MEY?oc=5",
+   "published_utc": "2026-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government allots 91 acres for logistics park supporting Google’s AI Hub in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbVI2ZGpyMUE5dWZXSHNTZVVHWDdicHZUVms2cEU2aVFrWmdGNnpjanJMYVJlYVNSdHZCSDBfRV9pVk5YNHo5Qi1NckNHREs4bjRYYl9mVmJsSXNqTGNrejFhdk90Q2hUZUxYX1Z3Vk5sMEtVRm1ETHRPaDBrd1BmS3lRQXFrRDZQeXlRb0V0U0tPcDdMZVE5YnJ6WWMySWpSbUFHVTBXdTJOMVphZTNuX0RncDlDbVZaTFdNYTh5Q3lITlN1eTdsZUl2eW9aWklPaEFKQm9MZlhmNWxuZC1OcHRGZk1ONVExbFRxWl9IU2VsUEFI0gGCAkFVX3lxTFB2ei1IMDlvTy1qNlRwTmM4RlZqcVNVaGlnT1RFaWljeW13dlJielpoZE1FZlVkUU8wYlVPNWRkRF9rMGFQQ1gyb2xaQ1M0Zkx5dHNPbEd1bUhjNmlTdUVMcVR6YVBJN3pZNnlhNFdmRzVZczQzMDc4OXN6Mjk3SElDLS14UFBpTFZIRVNNdDlsUDZtWk51b2Z6V3BQR2lUdFUwOThrR3g5MXcxMzJWZlFGOWNJeVhrSDV0MTlwVlprcEcwa3hlTV9LaGxLbFVBaHRJWlpObUtKLWFUZ1NmMHV5MXVUd0pEZjhlWl80SjhZTVhEemRNTUhRTFEzR1BuMWstUQ?oc=5",
+   "published_utc": "2026-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi inaugurates Bhogapuram airport in Andhra, lays foundation stone for projects worth over Rs 17,900 crore",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2VDZzQxUmltX2YtUlFZUjBBeFlsMngzalE0YUgwZ0VqTEhGVEY2V0xBaHY5TG1LdFRpVnF6MVRzOG93RDZHYTFCcGdITnBsellESjRILXdDVEMwemxNSTFVb0dfY0czUGdDVUE0RnZrNE5wNTdtbkl5Z3VMOGtYY0NEZk8xUzI2UVRDb3gtcDBKMG5Jb19yNnBUYmFNUnk3eFQtRHZwbGF5bmV4ZjVkaUhENTBRTlZDVkVfV0wzekhXT1ZkUGkwU0U5UXo5WnhRbkVjenBaaFBzRzhrRFHSAeQBQVVfeXFMTUhtZEtkNldHdUE5N1pYWTBmNnFWcllENk5uMzltQmF4Ulp5MWVtWFpaWTRqcFNfeW9mamhSTW9yWGIySDhIZG1zWWNmazAwV3Fibk9abTFaZS1DUTZWVDVIU1RfZWxnRkJUZFlTYlRkbFR5bjlHODVWWFR4X2VlQ0xFYktGVXhPcjJQWGUteFVoRGJRbE44eWVWNjFreExwRTZURzQzbTFRXzBPbzkyVUZzaF92cVV0TkNtemtMQjJCRDR6ZHRPS21fSERPalJwWXQ1Q0E3WnlzVUhldE8tV24zbm92?oc=5",
+   "published_utc": "2026-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

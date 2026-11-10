@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Odisha unveils AI roadmap, to set up mission and labs across institutes",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZGxVVnI4WXN6MXRXaHZBTTRWUG9pTzN4SGJkVHNPc3RaMGtUNVpXUkIxdUhvSENJRFBtVkV2YzZwcHlYd2E5S3JoRmthbFh3MUZ0UmxsZVJ3cUxSbWlIUEFjUk9QeHQ1ZzBqNDF4Qm5CWVlmQjlzYUluVTBOUmFhQUxmTU9rUWdBUXo3YTRQcHZYZ29paEJ5YmhvbFdRdElUUzJXZE5SUDJsTjdJdmlfM0l6MUVHQTVBT2hmUlQ5U2xUTlBqX1ViVnU3TU92R1nSAdQBQVVfeXFMUDJsTm5RanVNUGZKN0tUdmFrb0hoQUhWZjdEQTdQeFVjdGp4RWh4dUZEWER1S0dNUVFYLU5SbDQ2dUFXUVBvOGNwR1pFRUlvcGlkOVU1RWJ2Uy1iaTNWRUZxLW1URlNrV0JPWWJKd1RMR2hXMWpndWdEcUtmYUNONmVwS2RmM3VvZ0NRZktPblAyMXFiejBTTmhWSUQ4YndHTTR5Y1VSS1JYbTR5V2NQNWlpNk5LcmZKQXU5bEd3RmdJZnV0cFItSFUySElsa0NtRXJneTA?oc=5",
+   "published_utc": "2026-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI for Scalable and Inclusive Governance The Odisha Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVV2djgxQVM3ckozUl84TTltRFFBaVppdnYxYkZVWUJ4cF90YmxpVy1za3FaeUVNOFVIaU1xLTZ1cnQyemJrRG1PMDU2MVp0VF9SQVlGZmxFU3RkeXZHQVVhYkVWRUpydkszRVJpaF93WjZKV1pyNXBjY2UyX01QaDVMdzBTZTROekdkWmFKRlNuXzRsbGVlb1pxcw?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AIIMS Bhubaneswar and NAMS Organise Regional CME on Organ Transplantation and Artificial Intelligence in Healthcare",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bVFXV2R1M1FmMEtaX3RNWEZnN0VKS0lDVXBTb2NuUU9MT1dxZzg1aHVXdUI4VEhQZFpEMGxYa19ya0JBRFlNd0hoZlVwY3NhNkRqRkNyd2xFVUVZTTFBNFJMTXllUEc3?oc=5",
+   "published_utc": "2026-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha plans AI pond monitoring system to reduce fish mortality",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkJTRWhEUUhyZEtSR2NSNTdRMkJHcmxxaDk2c1NzdEdaVkZIcTBfbE9RSFQzemJFTkk1UVVPcjJSSFdIc0hrZ2pzdUJ1ZU5tOHRMcEJQcEV6SmVhNTNyaWNXdXpYY19JYTdReG9NbURnZkVmR1FjTTZzYmF5ckx1aUpyaDZsR0VWNHgwd2FZMG9nTFZOSUppYTl1S0hSWTd3ZXVWXzRHWXoycmRnX0JZVGsyYzlMWUtxbHdrU1hQa1kyblN6R1HSAdMBQVVfeXFMT3dTZnJjZ1RSSUFkZVFjakxYRHBSVHRLZFQ1QV9PUFo3SFJyVGZEUzlLaE9iWWJkUEpiVFl1SGpzVWlnY0plajdTM2o0a3ZpSndIaDZXRlM4ZUtzYUswWnpOajREVUUzaUNYb1NiY0xoeUxwWjVjWWNjRGhCcEdkNzEyWVc5OVhvU0pXaWkybmJ0VEg3OW5YemlKZE9IaVBlM1l6WkdZRWF4Ty11LTdVMm9FMkphaUd0dkpkUWZmS2NOdjJrNGk2YXBNcEVHVGVFSXpSbw?oc=5",
+   "published_utc": "2026-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Ten killed in trauma centre ICU fire in Cuttack",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WnlEMzRNM2tDY1YtVUEzakxfLWpUVFNlSG1HeEtXTEFDY3lCcnFyOXI5SEZBSVp4MXNPNWJkb3ZoS3dTRmlUMmR5WEhlZjlGNzdXME1nalRGdw?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt regularises over 13,000 junior teachers",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXZlXzZUQXV2UWlVT2MzOWJxNmhkaHozTHkwelB2WUdlajA1eTNTa3ExdXhSWVNMSVNXeUxhZk9KUDNzWlB6aG9nQURNRXdkbXNjMXM4bXNTOW1qNXUwSjEzM09GVXh3Mkk3NnRraE83R05IdW5Ud0ZyWDhVMWU5ZFpZWk5VMVJGaEM2OXotVWNBTzZMMnBIV2ZBNUoxZWZKUjUtbzdMZVdlblFob0ZxOEJCZHdTbENlOVpyVjd6UE9HcW9Uc2RFV1ZnbXnSAdABQVVfeXFMUFFEckYxOXplcXpNUTgtQ1FfS2lIUFRUdjd1SlExY3BieVllX05zSDcyMVpnWDl4TXA2UW1ERk40N1JueHJUUW5UUnByOWI0ekw2WW9qa0pnbG80RFJETjBtRy1zejR1czZwTzNTbGVjVUdnbnRhTlhYQ0QtLU12bXJpaUFCOWdfUjdzZkFXQ1JSOWdyMVVlVk1pR2g2MTZfVXVMV0ZEWmg3S0Njb3dnVWJvUURWdXJuanVrQXViMDZtSld6dGZDZ2hZRVg5WC1keA?oc=5",
+   "published_utc": "2026-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government Rejects Allegations on Smart Meters, Power Billing in Odisha Assembly",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWJ3TVFCbkplaGRHV1dRZGFCRjNvYUxnWG5rd0hLT21zSlFMeVM0ZmNoQjBiZlJGbHc3cXRSVmlYaXp3ZVgwOEQ4NkVhcTBfc09wZklMMEFiVEh6b0JmSzlkdGszUFJoMll1cTFQZjBFTzh0RkNZSldsUW1HV19UYkJ6dVZlc0FlaFJhUzNWZzg3UmhoRndJUDJiaDhCRGhXWnZKaDQwS3V4TXY0RVVnaUg3RDY4bm1fb1huUnlsbTJoMVZw0gHKAUFVX3lxTE5mSmJWWEtKZTk4NFptT09UOU5tNkQzY1FsblJPd2JPc1I0WDlOSmFvUzJiRlQwM0NGMlRhdk1FcHkxbGFYc2xPRFJlUkdwQ3ZTeE5iSUxFZDB0Vzl0b0QyZEw2OEU4MVI2U3FrSktGN2Z4MEUyZTlYaWp2eVVRbVNFX0IwdXZOcUJTTTFObW1rbkxneDk5enByaTNWeDNtN3VSZ0tkckY4MGtmU09SM2FWeHlKdVdMQkcweV82WG1oNjY1RDd4dDBGREE?oc=5",
+   "published_utc": "2026-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Speed up Budget spending, Odisha chief secretary Anu Garg tells secretaries",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkVwU3EzTmU1ckZGb25NQ0pDSTJyUVhjRHc3RjQ5XzRsbFExRmZyc0lMbFB6MlZjTGhZYkh6YzB5ZWpOOFEzc0NycVlzRm1TZEoxb0NFS0ZiaWt1ekJSNjlyNzdxbnBGZmZhaHRLZUs1Y2E3d1BwTjdCbTN4TTlvcWdtUVEzaDBzTHhBQ1VJMXdWWjNjNVlwMTRUM0h4SVBWbkpNYU5YUHpxZS0zOVNxYXgtZEUtQUNfNTVkbEFCQ2NPSFIydG8yMVdFVnNPZ9IB2wFBVV95cUxNcGRmcUZBeWFrVEQ1VFR1c05WcTBjOEs1d3FPZHV1bEN2S0h3bGtIUVNfWXByMFpLNTJtSlJWa2NfMU5kMEdvWDk1eWQ1YjNFX3ZCcHZ5eXZmZU1ha1dMVVZDeWpsR3VUVlpQQ0ZVc3pUQk5uTlRvV2R6blhScU9KcXpmMWFySzV6VFBSTWpUYVJtQlEzNzVYMFMxaVZmam5TY29JamNhYlUtQXY2UzdsNXI1TFA1cXZ4T3RDQWY2OFh5Q1RISUVYNU9sYjBuQmRWSjhVTURReS1JZWs?oc=5",
+   "published_utc": "2026-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha unveils new three-year excise policy, adds de-addiction cess",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVFOV1BnTnlVWUZGRy1XaVI1QVFsWXlJWi1oRUJMYWI1MVkzU3JDRXRNRDZOSzhiQVF5T0VtbldRWWwxcmpLZS1yYUxDZWgtVmZwLVB0ekZSaTNlTjBFR3BBVlhWVnl0SW9RYl94d3N3X3B1MFFDTVVqLW9HOW5VVTA0YWlvVTFIV09rRGZmTl82b1lENXh1a1gtVmhxNEM0SnE5X3pKcTlVTm5fdklrRkJVS280bTBYSXJsNUk0VlZseVFfUDl6dTln0gHPAUFVX3lxTE45N1VVdnpJNjVpUHdvdlVUQ1N2aHptSFVqLV9oVW1TWURndUtJRXNaUm1xekoycnJLanRQV2tsX0dBWHhzN3JJVUVMOG0wTmFaMjI0R3g0ZUVSekNwMHBnd2dXemx0M3FMR0dBRU5FTHNvTjR2MmFJZVRNYkpSZlVtZmlPMUVGYTB6SDB5WlZTZFFESGhRLVZ2d1dyLUduLVJ6c0VueUtYYzJxVnA1VFdRVzdwRVFSUkYzaVJ1Q2c4RWZHT0hUTWd2b25IUmFFcw?oc=5",
+   "published_utc": "2026-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt seeks Centre's approval for forest land diversion for Tata Steel’s iron ore block",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRW9RYkVmemRIcGpJbGhFLVZrTktSZFFFN3JoLW1OMmxqM1RhREQtWnBlWEs5NFRYandmNHU0MlcxWV8tOFcwY1hZdDUtWjNURktSVzBVcnJuTGhUTU5KeUxnNUdMNlZ5bF9BNlI3czBtLXhicXkycDR4YUUwbVFZY09JdU1fWndHMGY0REphc2QtNVFHTXpqQjR1S1RLblJWeXdGVWs3N29mUURRTWFvdVhvWnFTQmlSQklsSEdJMUx5QWU5X1HSAcsBQVVfeXFMTmkwVkdHRC1VcmptRlhydFZSOVg0U1BVdmNYUFF4ZzdFVlptaUpBcC1qYzd6VmV6c2UzME4xUVkyWE1CSV93LUtzVGx2VFptOFpXanZXdHVQOWNFV2xWODJMdlQtbUpZYWJTOEZ5Y3R6WFFvV3JmbFRZNEJ6SzB5OVMwTHd3M1BBWHpwWHZQQzZtNlNQbWs4QnFObVlkT1liQkluUGtKaU9ZSHJWMUlSUjljbWxoMUN0R3FiYnNxX2NqdkY4Z2VoYUJNT0U?oc=5",
+   "published_utc": "2026-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

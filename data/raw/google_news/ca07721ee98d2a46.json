@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Uses AI for Mosquito Control at Low Cost, Fewer Chemicals",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2tWcXhVb1ZWcWQzZ05oT2gzV2FhQjl0MUlJaW1oQ2EtWndkeTFPU0d6WnlhaXptcnBqNVJUaS11YXFkeW9XZTVfMVhGNWlvM1htSDk4d05haGV2d0VlbHV4bWQyVFk5YXBlajI1WjE1M21qX2lqckZ2eWpuelFWNTdZQ3VKaThzbVBRaHZiZ2FlRl9ScGRqWUhxU3g4NnBDR0VJ?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt launches BRAIN programme to boost AI-driven affordable healthcare, medtech innovation",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOem1yWTZ2Q1lXS015QzR5VTVwLVVvRDg2V005VHdCcWl4a0hMUEtjQ2N0TXFfUVc4ZzExT1l6UTVrOXhkcGdYLVgzR2NoR21ubHZVVHRxMi1wWFBCTTVSOXpsUTlWZEVETEliRUltQkJGdnhxQW5wWDVUajZ6anZVblF2cXM2UFNVX2R3OUtxLWRiaXg2YU81MW85b2lScDFBdVRkajAwYjdKRXA4M3h2UTduQ1VEdnUyQlNUbDdhdGoxMlNfdm9QUjNrdGJVOGdubmU2MVNuQmTSAd4BQVVfeXFMTk5pZlZiZFlCbGlVUUl5MlZYbEwwdDQweHZpdlByRE5YODZUN2FHYjNHNEpMTU5vZThmNzJnMmxRblA1RWQ2YXRvOEIyRFY4N3RrY2dSOVJPSU56czNvNDQ0VGhxTVFWa0M1a2luSjRtRlBWWEZLVXFFVzVKSEhlVEpneUF3VTJWSFN0UGZ1XzRIN2g5NkotOVJselNuSF9ZN210aHZwNG5kdkpHV2x0Q1hyY1ktUzl4ZjRwVVFnMkFjREJ0bmlTT0dUYkVEeGtMYU9JYnRPZHZNMEVQaXNB?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP sets up AI, STEM, robotics labs in 50 govt schools; Lokesh launches Rs 8 crore initiative in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa3VNdnBoRGx5QlNXQnYyX2RfdGV1a3dhRVozNEI5NFAxWkpBZGpQUmZGRHpBNUY2bmNYbUItYmRXLVFtQzhOdWF4VTRvYzVWSnloemNFZGlrd2Nlb3d4UTc2ZWZ0SmkzN0Z1SlJ0YkU5dk1lakxFOVhfQ3I3U0JVSHJHdDBYWGNjZWVKTDZTOEljQ3pIQmtuWDdxZXRXYWNweWh1ZFMtalJzSWNaaGtLZGZBYlNOUG11WHlxbXJ3enY4WS1JdHFKdk5zY3VBNnJUeTFTWjhVcXlSQS1jTGFpcVZwMW9qa21SZVc2LTliNC14MG1SMEJncNIBhgJBVV95cUxNY21idnA4MlR5UkI0QWV1UGgtSUIzdkpwTHExN2Z6NXlHX1ZReF9pZFpwTWxBYklhU1gxeWZkLWVhX3ViSFpGLWVxTFN0MXRuTC1ia3dzNU9XNkpOV200bDFvQ2xxbk9XN2k2S2FLYTB2dl9qRk44d21wTERDMFk5RlN2clFCQVhMRzRhSHM2TDhoN1EwLXBfVURnU3Bjb3I3ODdyZXZNc0FvU1djcXpsMzY0eUNnbENhcUNmZFRleTVCSzhDanlWYzdzcFlJODBDTERKNE9lZW9VVDBiWkxhUHMxd3ZOX25ZUU1HdUlxWk96ZmlLc2t1ZTN0M1NlakF5WG1OTi13?oc=5",
+   "published_utc": "2025-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cyient Foundation Launches AI Labs in 50 Government Schools, Empowering 25,000 Students in Andhra Pradesh",
+   "source_name": "scanx.trade",
+   "source_domain": "https://scanx.trade",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUl9PY3lmeTdvU0pDbDJFZmIzM3FXaXN3NzRDZElhNGFVbW1OU3JBTkhqSkVTcXpER0RkY19sNG1pRWdBbE9XRGFZMlN1aGJsMUp5b21SM2VaWHc2X1NiVnd3cnNRRmsxWTNlMHJLcGlNQndQYXlXNGdNXzBJaktSa2hvWDQyck9vVG1raWpVcXo4cVR3Rm1GNlVvQzlIdHdtLXc2Qngza1JPUWhjc3o5ODVWNkRjZ1RvbXlueGkxQTkzVlhiQ191ZEM4RXYyc29QX1RON002QnlFU3MyWGV1TThfdDBxZmdwek9rWWZRSGQ5S1VUSkcyVnlqMUt4QQ?oc=5",
+   "published_utc": "2025-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI unlocks secrets of rice yield sustainability after 50 years of continuous cropping",
+   "source_name": "International Rice Research Institute",
+   "source_domain": "https://www.irri.org",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXZxcWo1WC1JeDI1UV9jR3VQNWFmd0FaeWh6WmxXaXVXX3JPNW5tbmNMZURvWmdjMW1FaVRaTW5IUVF3S1hlSlNOTGZNYzJET0k2ZFU0MV9Pczg0NEVyeExIMkpERXBoaWYwRmU1ZEdDX3pPdDY2b1kzZDhZZDJ2SThRcXVzWlFpX2NIazM3bHA2Nk5sMjVTbGdnWVRiT3ZKZ000dENvUUJXdEZFSXYtLXNR?oc=5",
+   "published_utc": "2025-08-28T02:59:11+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra, Kerala, Andhra Pradesh among top states in education loan uptake; SBI top lender",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTdITFI2T2FVWW9UTElvck1XWjlOQUNGVjZkS0lxNmhtVjBSQllaLURrTmhoMm5WVE8zeFJlUDRGaVNtNWxEbUYyZ1V4aVoxZUg3T3F6NUM2N0I1LTUtTTJWY0tLYmNzajdfZG80Nm5BemJhdVQ0OUxqdmxrRVFzOTFhN3gyZ0VaSzZXWEctczFCTFp1Zkh3bTJFS3Q0cGFKX1hqNE16N1hHQ0Z1a0xGVWRzVml2S3ByQUNMU1ZJN3RKUjhqQnE5eXJKZklablE3aFBjTNIB2wFBVV95cUxNOHA2UjVVaEtzZzNYbmVLUTBza0NXMmFERlNNQ2tJZWhBZnFYUmpDU2Y1RnFfdkZxX09FcDRkSEZ6Vjc4NXhkamxnVXNqSUFTc3FvUkdCMzFrY2VfbWV3QnN4SGY5eS1IOEFwS21HUE1neGdGS3Axd0V0RXFkVGR4M1BzZVEtVFZ6M2JVMkE5c3ZaWlA3dFdXYjJBdmktc0t0YkpRdTZQNUN6WDJSeFVVc2tRVGVfckRUcy1tRVFKaEFqSkIxQXRKOTZiV2VBTFU4bGdRVkNTbVlsUzQ?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "18,839 CBSE schools offer AI as a skill subject from Class 6: Education ministry",
+   "source_name": "Careers360",
+   "source_domain": "https://news.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc2liYmdEcGZEbGpXN1lyZmQtbGJhWWU5OUlJVTJMUWF4YkdKdUZOQ2JkVk9SMmlGXzlaZl8yUTFXOHJnRG81U0Y3XzBtdV95UWZmZjV5SG5wSW5oOU5ZM2RmOWdwS2c2U2dZRGFVbUNLam9jV195QjZKb0F0TmhVdnBWMUw3aWVuV2JoYmtjTW50bV9vcmVzRXV2TmJhUC1YUHYwM1FycTNQSXVCOXB5S1JOdWRoZjB6dnFxQ1NQLW9BREVoQzdmOVNXMHZjMTR4TklvVU5uclJqT19RTmd1TmZpOG56T0nSAewBQVVfeXFMTmI2NHNUbnZvRnk5c1ozMTYycUZTdlNFOXBlOXBoNlJnOFN1M2F3cjdVVWxKT2hBTWtrYmwxWWtteTl2VnVQSHc3SnhoLTRjWlJzTEJwNDFteUY2QldLYVo3U2F4R0luYWRUZUFSb0pZbUFhTVQxanY4cXlkd0hTZEVGZHBkNkJhdnhlbU41bk5DdW94ZjZrOTY0cUFUTFJCZ0puSWEweGdfUHpleU93MXBpTlR6YWpoMW9neUE0X1BVMlJ1dFZHYXVBUld2Zm9kNlhxdzRHdFBaOW9VTEhvSlpZd3ZSZHNzS0dVTVI?oc=5",
+   "published_utc": "2025-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "3 Days School Holidays in AP and Telangana Due to Heavy Rains",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFNvZ21UUDVGall6YWE5UTlKZklYdHhyNEtuYkc1ZWdQUHhiRkRDMlVuVGhQTXNoMFhUMTJ4WFFIamV0VEI4ZWl6WnI0cWtoQjhxYzFuVVJhYWpiYnRqSHplYmNIMUdxd1hlbVVSdVJMMXN3RHNGLUo5U1JtVlp6NjB6UTNmV0ZhcmJlZnRaLWlQTDVzY2t3V1h0R3MtU3hSellXVUJxWGcyV3NiZ0x1YkQ2Q3JETWNt?oc=5",
+   "published_utc": "2025-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh poised to be India’s major IT and electronics hub",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2VaenpjSi1yTmNWbHpvUEpHdkt5S1p3dWVUT2dtX2k5MjFVSFJEczVPR2NidW5WVnk5aFA1SmVUSDdQZHFDMHJGVmZRNkl2QjQ3aDNDdGtSUnVucnJKWkhZWG5wY2lNb01kZjluR2tNUjUxZ21WSVhqYlc5dXItRm1DTnFqQ3JqMWFlcllyVUwySUhZZnZQLVRLcFUyTkhmTk1xdGtmYVpTTHNUbVROZjBaR2RqLVBOOXNiSXB2Y05LMUtOTWJYb1930gHXAUFVX3lxTE5KM0prMFotbzRUWGVDTUdoc1U1ZGlJVEptRm1PN1d4V0ZsRXNwYm5nOWV4RHkyUXVubEFsWG1FNDBSQzlVRnVOYXFrS1daWjJSeUpLdGE4RlBzdzBMeVlrcXVEbVltYjd5TmlNZHE3S21MZVplcVRqT2lBcXFtVUdsNWtRQWpCNW5YRndVZVpPd3JNYjlUbS1CdEFNZ3NSNVRwb2FvQzcyUFBLZDFCVWVoazdkaFUtbDRSeUxTX2lrSWtyd3IzRzFmT3F5ZzRNMFgyMi1ydjNR?oc=5",
+   "published_utc": "2025-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "School Holidays Due to Heavy Rains in Telugu States: AP & Telangana Schools May Close",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ05CM0RLbHNEVE5Mc1M0dmo0TG90aHBwVDhrTmk5d1hyNUktbG5PVnlObnMyNjFaWUZJNjVCY1BKc2pRU2pnSHVoS0s3V2w4RUVqM2FtQ2sxd3RrLU15SWRwUWdMb1oyT0QyOG5BUGowQ2piTTgwd2YxZFBUTGxWUDNoZjNseXMzT3R4WGs2aUhDTWRyRVlKRDZXRVc3NExxM3BmWmJqU2tkbUt2cVA2ck5Hck9vZlR3dTZpMXBIOFdXYWpfQVUxc0JJUnhEbmlVU203QQ?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

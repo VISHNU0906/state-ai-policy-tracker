@@ -1,0 +1,77 @@
+{
+ "query": "\"Bihar\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Bihar govt finalises MoU with Google to train teachers in AI tools",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEhSR2NzSnNtR3lKRy0wRVVLNUdOZVpLR3lXVzljdUhQb29UaGhPdFpKR01yNExVcWZFZmVQbFNvLWhsTlRlTHZERWhpUHBnZld1WUNaTzVfbnlpU0s0WUIyR1Vjamo3dmJiT0NEYUJsTGR2ZXlGTmxmVTNCeTdSMVlSMUlmcXNzYmYwRWlKYnVqeXIzNHNTRmVRMjAyYWlmemNJ0gGoAUFVX3lxTE5HenM4b0t2akhDQTVSY2Q4eF9kcmNwQmI4TExMeVhlamhtRTd5bFRjTEVKejA1ajlJSkhqVTI5b0RCSi1WSDU2aFRXQzNTcGE4ZU53N0Z6b1lZV1h5VWFreWZVekZNRW5DbDZrTFVFNmdKWGdyeXowNzA1OXo3OTRKeDRXSnIyTjNxemFKeEhXaUNMTTFiMXp6UnBjbWFoNWxDSmVZVGZfbg?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar to Set Up Teacher Training University, AI Ecosystem with Microsoft, Google, Sarvam AI: CM Samrat Choudhary",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPel8yaDYxckhKb0pHWTdRMDVZb1FjUGFQLWljQUllNFBBcm9FbVczamhDM0dsbjVFWVcxQUJUSUNGNEFBd3JGQlNFNVN3TDJKekpQb1ZNVHpUSDNyUWNQNHZEV1FBZGZpaXQwTTFWZ213ZTNRckNXazk1VmJJTTg1Y2xwU21sd0JrTVF6cXZCR2U1VHRMUjhEX2pOSHBqZFc1T3ZDcFYwY0NTVE40R3o4YzZJZlJjN1hManZNRmNDR0lOUXN5RktEbW5YTWVxZEMwcm5XcG5lWlZteW55ekRVczRaN3BzY3k5MWtIOWdLSFlzMjVPdE1qTVo4NjN4WHU1WHR0SXpCajJkeUxwZW01ZENBcU9VdjdraGc?oc=5",
+   "published_utc": "2026-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Bihar to SEMICON India: How Shweta Suman is building Swadeza for the world",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUZUbDY3NFpWNjNwelp6emxGR0FXZWZENXNyeGZ2OVZEbnJRSFBrSjFKdHQ3VTBNSmNqNkp5ZUpPcGhLVmxCbS1kUXVWWGZuUU5Zb1BPbnYzeTRuMVZvYms1X3pwRTZybEdtZkxZcEpOOUt2QXpKa2pIVUhsQVFyUkhMLV8?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Bihar to develop around 700 model schools for NEET, JEE preparation\": CM Samrat Choudhary",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXcyeVFpX2tIMXV5UjR3b0Q2YXpfelZaWk9jN1BIOU9YOF9fMk84OEJERlVPQVh5VU9oallGSTZ4aEpISVdlQ1U0UTVfZENSVHpmSzJUcmxfY3RwMEFLZGJqa2hqcW1qRjlwMnZnNzJFNEhrQlltWjh4bzVpbnFEem1sQlczeGhBRWZNM2RMSXJVanpyelppaUVBVVVKQXlCNWlPWXlTak8zZTRTUGpRREw4U01OaFB5R2wwRWdYbExrbk45MF9pakZiVUNvaUpqR3VyQWpJc1VIT0lMRkg0?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar partners with Google to train teachers in AI, strengthen digital learning",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUEpWUzc3dmd3Z1ZGcnYyOFc2dk9CdV9sNm1mVVVXMnJSM1lJS2JJT3JoVmppUFNnS3d3TXh5Qkc4TTZJUTZwYVZtUTB6SG9VX1VTemxoelZnZjB4VmlkamphTDlDZzZuNTZlVDRjQ251MFBlRVJVYk1MSzh0RVdUOUk0SnJFVVN6U0hJRzVjLWFtLUV4UGlNUzcwenprSUxlQ3BXcDQxNVZ2aDdCbktmTUh6NWVnZVdSZlpRTUFGR2lNb0tJMUM0RFhXeGltMWJWd1l5MnRwSVhsTU5QRnVEQ2l2Y0ZVbndUTjB6Y3pSRUZ5QdIB9gFBVV95cUxNdWJiQzAwb0l4LTE2UkZRRkZCM1dJVHVDSUJuUGt3ZWtQZzRfQWltZ1lTRldCa0dDZHVsUlp5STAtTmlFUE9aTjNLbFJXNW0ybE9aWmRmUlpUemVSaG4wdkFwQjRyN3Z1QjRORnRreTFBOVJoQ2pXWXhyRlVFQXdzYWlCa3FBN2NCeXdmSU5zOEJxT3ZUVzRzZ0QtMWpOcTZTOWNoQ0xuT2NEMWlnUVlBMEpkQ0I3S1J4V2FsQlNoaUhha2U4UVNoVWFhU2dYdUtjdUVQX05yRkptWlVDN0dtRElnUThZZHl2SkNaM3RqYl9zWWlZMEE?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Retirement Age Of Bihar Judicial Officers To Increase From 60 To 62 Years: Patna High Court",
+   "source_name": "Outlook Money",
+   "source_domain": "https://www.outlookmoney.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnZuRjFHU29EZTY1TmhSaUNWZ2ZVbk42M2Q4R2V6ZHZYSnFsSDVwTmgyaUMwR082WFMycmtlaVViX0N5cU96Sjg4ZzE0S2JfTVF3ZUhSMEtoUEc3NTR5amhrMWoyWS01MFZUNnhxSGotSFlIb3g1cmRjU0NYRVhieVpoRTBuVmVGdl9Ja2RtQVdxdTg0TW9ic2Y2RmlyNkZCd0MyWjU0SXg0UmU2Qm1TNk9Ob1ktdzhiWGF1UWl4c0Npb3BuZmVxdVRR0gHXAUFVX3lxTE94SUIyQlQyUC10VThKaUJlQlE3WThzVFpEVDJQcGpZLWt4RUZBZ0R4Tms2M045cnczSVk4Z0hkQXdkWlVYRlRnVTdsMXhHMHpsdFBrd0QyaUZjRThlN2lrM0xLWmlQVm1XMEJKVVFpWG5tSmV1QzZyb2JzeEdmZ1ZIZllwc1lzVC1EU0c0R3NnVl9ZWk14MlZ1OW5MNjZFekpuS2t3R3FReXFPR0dkWXBZekluOW5ZVjhmei1STHA0dGQySHVLMS1XRjBXT2drMDFIQUMxTTRR?oc=5",
+   "published_utc": "2026-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar To Revamp Vocational Education With AI, Robotics And Other New-Age Courses",
+   "source_name": "Outlook India",
+   "source_domain": "https://www.outlookindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUkwZXJsZ0lzZ2k5aGZ5QXI4M0RMRmlINFpVSTJuQzBWeEt6SGtCb0RQZFEwUkNyc2xsSUhJc1FsaUoxWGpKU1dXaUw4ZTVvSk5wZFFDalg4NmdzT2hHQnNHUmxCb2RWZlZrYlFoQkZiaGdYTG9fNkh2S1RaSnNLaDZaNEFnazZIV3NGb29QZXJrUEo1dGg4cEsxeUxBLUtjeGdGajQwV0U1RXVXd3duc1RiTUpuUm430gHGAUFVX3lxTFBlUHlrMWw2dVdsaHBCOGY0V3c0N2QxT3lCeVVlSmVHaVJxNXdhVDRhTF90LW96enFMdkxGMHdkMDd0YUdObU1WU185d2JRRW1lUmlzenFsSGtYZ0RqWktoODZDTjI5NUNoS3RpRG1mbDIyVnNVMjJzbDYtYlNrcU00TS1mTEtqZXFDM09nZk9xdUlxVnhxaFh5d0s1RDVEc0lXMmNBelNhTGxfd2Q1dmNxb2x3YWZPSXE1R0ZYZlFrcWJnSlNTZw?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI tools to translate Bihar’s ancient manuscripts: Minister",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUdxeXVUQ05RM0w2UGRLY2t0UzJQMHNldllRV3pudFZhMy1ZWjBncnp2b1dmUmRsQkNhdDFtM3Bha2hVTHJqUGlSRXlSYVMtN3R3UGpqWVo1cHh3RWJVXzZRMlVNbndzWTNNUExmRFpMSmRMOEo5NWswS2lpQVB2SlYzOXhMcVNfdDRFb2lCWFN4aWNIWkxwZGFxcHZ1Y0FUVVBHamdzbFdWVmpiMXRKZDJ3cUNPWlFIWVJKY19JOXJHd3hMeEQxSFR30gHPAUFVX3lxTE1obUYtdUZxWmxSVFB6Tlp0S2tYZUh2YlplMHJxUXhkRTRaTEgwX2xMNWRtLVpfQmNWMXUtOEpyVUFhdVBvQWdCMUJaMEFNOWNkRjJodFhXbmx2WFhwYWhpcm1IcmpUUVJaSXdHanpOLVk1STA4VDN6RjFDMW84Z2dRMk5nU1U1N1prSkcxTElJWml6TkZlQzFoT2ZSM2E2UUt6aWRFVFBGQkYtWTItNG5IVlV1S0s4WFFmUVpFcEY2R2sxenZIVGp1OFhzR25hYw?oc=5",
+   "published_utc": "2026-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar approves ₹3,516 crore for Son-Falgu river link, Vishnupad Temple redevelopment",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTUZTaFhCb0hnTUFGc3paY3VnWGh3bGRlOEtXTm0yMzlkNExzWUFUOWRSTWI2ZG1Hd0cwOERYcnkyWHRIMTdVbFc2RV9WMlR1VjZBbTc3LWxTemY2SWRJcGZlZmpQX1M4VVQ3RzNodjRrM2Jjel9jYnplalZJLXZkdjFVWnRQS0pEdFpxa2RnWnRGTUZmSDdDUENEYzh2Z3lTS29KcDliTHpJQTkxcnc4MUpNcHZHaG5FOGtDb0JXdnZhQnhWazg0VEJsZGY5V1ltUFFuSHZQZlVidUczZlBqcmhxMDc3QWRiekRyXzhtRkFkZ9IB9gFBVV95cUxNTmh0TDdlcWJWUlpwVkpZRklMNThaRUEzYUZMZVV0RzIweDcxWmtST2JlZjR2dmhtbE1wVDNGOFVCWm55WTdtUEtvalVDNXRERHgxdXRPVlB3UDZKaUJyZEkyZDdlbGJzTUd2WE1kNFJPdEVuM1FMOFdpQ202cXVSSElaOVB6YVpPbG1pQk03Ym1fc3Z5MXc3cUhhM1BIcU5uNGxoZGxLa2NHZDg4ZHBWczhFekNuRUYyTFdRaUVtOHZxRkNsY1dILU1uZ2wtSDh5RFY2M2ZLYVYzOTVxWGZsVWFMdWhaQVNsNi1aWDd2dDB3cFlsT1E?oc=5",
+   "published_utc": "2026-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

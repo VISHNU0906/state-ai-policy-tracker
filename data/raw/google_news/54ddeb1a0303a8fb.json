@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "Centre & Uttar Pradesh Strengthen Skill Development Ties ₹60,000 Cr ITI Upgradation Scheme in Focus",
+   "source_name": "पीआईबी",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjS04tRVowNUZlYi04cUg3Y2xGVllBQmZEWEE0Qk5mN0xoNWNCS1JOZm1sdXQwdWxqOHA5TC1jc0I2czV4d1pzdXY3MDNfcmQ1dFdtenl0ZGZYWVIzWDllU3ZjcVVmYU5L?oc=5",
+   "published_utc": "2025-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 7.20 lakh crore budget tabled in Maharashtra; focus on use of AI, maximising land under irrigation",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUjZobTFlblQ5YUpucnN2TGJEa1NwdmlBSjByajAycWNKeW93MUQ2bGJoSjd6a1UxNW14dUMyNnFXandtWE9RT0JLMUpuMU5fb2w1bTRCWS1DSDlEcWh6dkNDQmM4S3JZa0tsVjJ6eldYRUNyVVV0dE1fTHo3ano3M01SVU5UMmo5Mi11WnVFaHY2YnItRzd0bklKOE44dDJRZ3RpYzJWYkJYN0xqSU9QUlA1Qm1RZS1NTW5lTkZhdFppWGJneHQxazBIZlN5d205SlF3M1VqUEw4cFJzekNPX0VaNNIB8AFBVV95cUxQNEF1LWV0OC1VelNyamd4cjRVcW9Ia3R0SEZzZDJhbHZTVHJLaVZWSDg3bExhMVR2bk1PMUp4TTZrQmhqVlg2T3BtVWtONTdUTkl1YUlPSWVwQjNLME5idkFZcEJYTUNCUHVFNEZnYlBBT01FQ0RBNXdONml2U1pvOExwS1VCQmZFNDhtMC1vMHRfM3NMVjFKTEw5TldjYkk5X3pyVy05aVlSTzRxQ3Y3b3RKQnJVYmRheER5bnpkTlNuVTlzeDF0cFl6eXd0YWdBN0VxaTNVdGs5X1drOEtvQ0phNkxDWFJKZUh0Sk1wTnI?oc=5",
+   "published_utc": "2025-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh govt's market borrowings may reach Rs 6.43 trn in FY26",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUhlTkh3c0JOM1JHSFN4ejJMUUcxLXRXeDBoczl4RWVmWG5oR2V1RVFjVUNQbTN5dC1tLTNGNDJWZlZVdndEaEVQVnVNcGJCX0NjemZTbmF1OE9ZRHhscXlfZ0F6V0Q2ZFg1YWE4MWMtOTJGSVZjMnVSaHZTdV9nMm9aaGZMa3dqNlhUTUNEeU55U0U5WndKaDRmX0RtdkttbTZWbUIwLUtsTUt3QVBkVG9CRWRaenhJQWMxOUFoQ00yN2ZCWVk2azd1blg1VHJJ0gHWAUFVX3lxTE5wNnRNazJWMXJYVERWbkxKeGlhTFA2RXc0dWJiRFJLaW0wNV80bnUwSXpQRkIyNnRJUXBaQnJfNDVDdTR3b2FtbDNxYUVYVWx1bjJLZmw3ZkhUenB4bEVpV3JFdFV1MzNfWnZfLUtVeThhdWkzNThKaTlTejB6MnNjamdUd0dmaDN1R1B0UklCMjR3cHgwRGVMX2pSTkZ1T1lYd0dIX1JScW05X18wZVJNVDZKS0xQc1VTckNlVjFQUzFJOFVReUF6cHQxa1hnMC11dG80Unc?oc=5",
+   "published_utc": "2025-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt scraps MoU with VueNow, blacklists it after founder’s arrest by ED in Rs 3,500 crore ‘scam’",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGYtMXRfREZUcEkyZjJERkRjNTVXaEYxVktNbXE2OTF3aERtbFh5Q0dYaW1TWkRyV0UyMFhMdFd3d090SG5mUVl0NjdRQXo1SU5YZkhneGMwNnlOWm1PNFY0bWJHQ2p2MmxfRlpEMXFEVld6cGREWjQxdlVfMnlUOTRLYnVub2xZOE4tOVNER3V5VkxsdWJYOS0yd01tbHhzT0o1cXNQUmx0WEFIUGlocnA0UklKRDR2VG9sOU9na1BZVE9SdWI4RNIBzgFBVV95cUxOZERUMHA3Z0k2RTRieVVtaDhvNHZyX0ZldVdJRjRObUJycHYxNU0wVWtzOFhHOXM3Qkl6ZUdtek5ENEc4X2hxRTZKOEpOUS1Qd3ZNSFpnTEhsNEtzdFplLW41Ui1vMVAyX2czLXlWSGt2Q3JzOVVobHlXZ2hvZnlvU0cxRUlLN0Q4LXhRLWYta3o5QXlGaFNjSjV6M2xjem5uaU5QVnZ0Vm03TzQwMWtCREpnY1I5aUYxSGoxN2xRcWt1bDREdnhJOXJFVzhJQQ?oc=5",
+   "published_utc": "2025-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "VA TECH WABAG secures Rs 340 crore order for advanced water treatment solutions in Uttar Pradesh",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORkxDdXppbS1uclZ6QXdPWi1tYXBKRkxyUWJ1QVRmZ3ZUZGZma1pJWGdSckk1UzNvQ1ZLdklPcUpDbEZneEFMYVVIS1dVcHQ5cG00YWZWcHpWTXlfN3dVRVZDQ1BVM2E4RU51bmttdUktZWt6M2VKMFlCUUladnkweFd6Z09aOHp4YVJJaTVaTm5FS2RNNmhPQjVQeXVWZWY2R09jMGtNUGd3NmlWbG5USXB4OVhCbjJpdXVaOFJxWGQ5a0tvci1uSTJVaEo0QnpaZnFxNzVBNWhzMnpwYlF3eFlpbk5vdDVlZERZQTRKeDnSAfYBQVVfeXFMTXg0S1pHR3BmNUpnRElzR19McjlQalFvdkwzNzFYOFVXSVdPdmJiWFJsVnhWZ2JOZThvY3Q1RXF4SlBQOXhXMVE2cnlpM2JDbmR1NkhFVnhwSk90TjFXRVdVM1I3aHpldENRUGlMbDBlTFZtSERrNzlJWWtQYkptQUhtbjMzUFR2MHB5NUV6M0ptTF83Y3V5bzd5MEJuUExYSlZ0VHUxQ2tzYmFrci1rYzJnQ0tMSHpXVHFHaE9jakJ0NTNFNjJmMDFQOHdJNDB2OWNRUTNwYUdIMldONjVacnF1YUxBbDc1aGR6N2t3RXVXYWk1bkZ3?oc=5",
+   "published_utc": "2025-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "66 Crore Visitors, 30 Dead in Stampede, Why Govt’s Maha Kumbh Numbers Don’t Add Up",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1pQS25kZzIzdy1xWllCci1lVkhMV3lKR2w1MjJLd1FJZk94NVVJeEZkekE3aE9wQjdiZTZGZnl6QTRnOVFVNjBsenNmOVpIeERfcVlZVzZvNXAxOTg1Z0JrV0NnQnlxQi1RdkVvNVphb191SnR3dmVKYTF0ZEczYm00MG9GODJQYWtMdWpNWk94VF81V2psUW56bl9zREtpVzhIbTNKUERaNHdWUjhST2ZqOGVwMUFNR0HSAb8BQVVfeXFMT1R6enVNX05aNGNvcUVTLVZLR0J1ZlpaSnlkVDlDbnhUd01DczIzTFNCMDQxWmt0N0gzZHpsUl9pMTFZUHpjdmNzT0pMd0VBMS1BM0k4QVFxb3FEdGhnNjJjak1BVGdudDVQdkFHSEtVb0pUVkZNYU55ODdwZDVkUWJlclVOM1luZlRSTkNSeWtSR2R3bVV3UWk2ZTNoNjZpb3BBOWdMcjB6QkhhbmQtbkk1WUZyY1V6ZWtfWVhOTms?oc=5",
+   "published_utc": "2025-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 3 crore per month fine? UP govt cracks down on Noida airport delays, sets fresh deadlines: Check detail",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNcjc4b3RBdGViSk5sa1NBU2J0dW92QU5aSEpkdkh2d2VHdkc3WVh6ZjRBLWw4Yk1EVDRJUDFsNThZVHMtR0ppMDFPTmliNzB2TnJ3Nm1PcTZxR3I5WXpDaVBvejNneGVwS0VvVzFrMGQ0QU1keUg2NW1sRkNCVUN0bUszeDJuQW5yRDNBcFI2R092M2pKdkFQN0J6Q1AtMHMyRWZpYTdpVGpVV3VvdUZzX3dCek8tbHNRWW10aVpRRkF6bGZQUEFfVUtJNF9mTldKdE9RcEwwd3lsby1MWEN6d2kteWFQUDZqQzFmYm4yVGpLQ1BOX1N0bVRfMjdZVlBYQ0tnQVBZandLZFZUaHU3aE9qMlkxcXpoN2JZd2RoRWFxLTdVNThMQzVacEdHMkkt0gG2AkFVX3lxTFBoMV9US1NRdXFhNVFPRGRmZHVJQm1tdE4talh5Ql9aOUN4cFhxS0w5UE0wdGVEeGwtT0FpdXBDOWp5Wk9TUENMelBDT1N5aG9qTUJpS2pFN0RraklEMEdPdDNYeE00T2RweGRQcE5CMEphSnNJZzliRnU1Q0V6dldzWjJ3SmFnOGNPbmFKWGZZVFJaaVFhNjFpT1B6T1FGVF9MOVJFQkZiRzRnSlA1TGFaUXpzbW5GMkJoUXUyZnhVUFUtZkZNNVkxLVBoamVOLWJIcDhHSDQ4OWo2M3Y4WmZYYmxTT1Z5TTlpSHpuVHJFYzBlbkNZdGZMNnlfUV9GMmJ4TWY0VUVYTTAwcHpNMXpQXzNzX2FoTTZvR3YxYlR1TXpCWGotcjgxRWtPSW1ocl9yWlh3WWc?oc=5",
+   "published_utc": "2025-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Gujarat-based HyFun Foods uses AI and IoT to process potatoes for frozen snacks",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3YtSU9wWTAwSmlXTXBhclRIM1hBY2VlOG9pb2V2d2RPTmlHeUlyZXVSSFdPdWdUeF84U2JPYjhYWGxLWThzdDNDaGYzT09QaFFVcGc4QjRqOVk1cG5HWXhfVHJteVc4NjQ1Vm1LSFNEZ3B4dEJnQzUwNjdWWjlpTzVoRmxDNUpjVnBJRG5ITGhQSHV5ZmZoNDItbjBTRDlBbzcw?oc=5",
+   "published_utc": "2025-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "8 Years of Yogi Adityanath Govt: UP’s Growth, Development & Achievements",
+   "source_name": "The Times of India",
+   "source_domain": "http://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRktKVkpqeDJqVVQzeVRDM1ppWk10RkE2V3JNUzdLQkJKSi16V0xENmRMSVk3d1dITDNxOXBqbEdvVGtNbkhJOE5vb3VkQXl0dlZxbEo1N1BkeU5fZXBTVWZtYjI0aUU?oc=5",
+   "published_utc": "2025-03-12T08:05:38+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Inside VueNow, now under ED lens: Lavish offices, MoU with UP govt & Rs 3,500 crore ‘ponzi scheme’",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2szaGZ0OFZNYkE2NGs2aDFOMUZkUG0xRnhKbU1lT1pUdUI1SnNMYkRqYko3TEhpOXVJS3oycmNVOUloVk43MldWSHVNT1ZXWkpXTm1Mb2FRT2NBX1E5a0p3X016V2tfZ3Z1bXRidGcxV0gzc05vbDhYdXdVVUxkbXRLTC1HZGE4RHpfZG5ES19LcXBoUFRLeNIBngFBVV95cUxQRVh0bkJJcFp0TjlZR19FNXB3WmcyM1oteC11WDlyYmhiUzFzM2xBb3R6dTI3XzJaaW5lTGkxVjRmQjhQWW5OS3FSNW93cjNVQmdldWJNT1RaQlZndlpIRUc3bnRxSmVNTWNyY3ExVzliNXVwRjV2OFJTNW13bV91YUFIMzN5S2tXaEF3cjV4TjFMQ1dsMUtod0FCbDNhZw?oc=5",
+   "published_utc": "2025-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

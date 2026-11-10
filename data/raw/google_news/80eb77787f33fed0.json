@@ -1,0 +1,61 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh govt to roll out AI mission in phases to boost governance",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2Zrb0wyYmJzSTJ5UWJVUTF6WUg3c0l2WFF3SW12YzVycU1DMFpwMUFCaW5FTmNYMUd2XzBXZm45b0hGcFdWaHl4cHBnMTF1REZreEc2cy16cGJaVGxEUFg0U0l0c3dCclVocWNsTWl3U25oczJSQjlZWGlRTXhiUzRGNjFLWXV2a3dMVFZvU3g3ZDU2QU15Y0hhZlpDdlE?oc=5",
+   "published_utc": "2026-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Beyond pilot projects: How Madhya Pradesh is turning AI into a governance powerhouse",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1Y2TnhYdlFjdjEzdnRsakpaR0tITXZlaFpNbGFraW1GUkxvQktjWHBZUTE5NC10RFhsSm9lMHIxZC1UMG5CUFNiOGYwTDVxQ3dkVm1YcU5oRHUyY0Y3Unlwam1TcmVQWWFFOGtEOS03VnRpS05Qc0VRSkdpaVVOY0djOVFKWHhhXzBEQjhhbEc4OEI2dkN1aG5JYnFHb3U1V3hwc19RZEl6TjBjcnE4SFZZZWdqNE9BenNMNGdCYzBpTDRrbmROUzY1azFlMzlIalo4WGI1X2vSAd8BQVVfeXFMTWg2WUJiU2h2UEJDeDAwNC1WcVN4T2hhM2FUZ3BKeGZFUFR4U0hfal9wUWgwbEVKZHZOaGxCU2dyZHhHR2tQMTk0a1E3cjNvdnJlc0t0YzQwWk9yNE1Jc2loVUtMWVRRWmF3MUdDVExlWnhIaHZuNHNzWFlyd2xjbTZKNk9sdWsyOV9tMi04djJCaXhqcTFzT3EyU01pUmk4dExKNmJnQ2o5TE5JUkQ4NmV2a05iMHBoWHhfTlpvREZ3cXVjekFBLWJqT3BtOVpmaENiYVdtSUdDYnJ0Ym9Taw?oc=5",
+   "published_utc": "2026-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP to soon launch 'AI Mission' to improve governance: CM Yadav",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVXY2X05yVW9vaVUySU9WUDQ3RVlzUkdXcEpHa2stN3pidUQyaUtGZnNpZEpETzlneVk5eDg1ajFDM1VlMkdGcjBQa21IdzRxOTgwQmF1YTVGSllhQzRHU01pcnpIQ05tSDVNTnRYZWZLSVhDU2FoSVdDa3BreDROUHRJZWNsdy1jd3NlczdwRzVSdTkwYm90R3cwdUxyQlpPc3BiVzFpVW9zWWM1X3Z1QUpHQVctd3lXd2dSQjkzR3lBcWVuWVBkTHh1NGVDYnJPcEE2STBVbGhjdw?oc=5",
+   "published_utc": "2026-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI for Scalable and Inclusive Governance The Odisha Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVV2djgxQVM3ckozUl84TTltRFFBaVppdnYxYkZVWUJ4cF90YmxpVy1za3FaeUVNOFVIaU1xLTZ1cnQyemJrRG1PMDU2MVp0VF9SQVlGZmxFU3RkeXZHQVVhYkVWRUpydkszRVJpaF93WjZKV1pyNXBjY2UyX01QaDVMdzBTZTROekdkWmFKRlNuXzRsbGVlb1pxcw?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Teacher Suspended For Mimicking PM Modi Over LPG Prices",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYzJIaEFyYjItZVJMMUxXYkpRUlFPcEhWeUtpUUotQTFqelBMaGVpajVRU0k5ZzgxU21pUmNpOW5GVzdib09md2Y1U1pBVlBmTmRlbFhQaFJkYWxIQVlqa0NycFpsa3ZFbHdqcFBRM0xSaXdoYzItZFZmNVZoenBvVjhjNW5zYjNnUDBfRnh6TEo4OUQzNURpTGF2N2RlbWFBdlFEbkF4N2hURklpZVdzbFJLaVZlRzF1T0pKLVBNdXNrSGNPYUszSFdhMzlJR0hScUJWLXdmTTdWbkxXNHdz0gHnAUFVX3lxTE80X3FYNmJKcE5xNUx2VzlnRjB0cmNxRlVhSmVDZFBYd1ZDeExTdlctSnFqbWJIMDdoLVdsV3JtYkFPbEdycDRzSGFOb0Z3dU9DZHFQMnVFUWNrYTA2alJfLVFHSjBkLVR5NTBscU1nNjZWd0czWTZ3V0FkZTF5cDNuQ2xSSERQdGpPYnpzaDRFTVVVYjlSa1ByWUg0MFBlLUhzeHFhdV9zRURVUDZfR2N6b3JNRzQzT1JMVDBEQ3FsSTJuNEhfa1c2X2Y2V1k5a3JYNlpfSzZQeXQ3bENWV2JYOHR3bFVuRQ?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Powered Urban Mobility: From Reactive Transport to Intelligent Governance",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNXEySkVVdWlOVG91TXZYcGxvT2NkZlJwUm5yVk5reTVQNk1tVlRBM1dOLWdWNzU1TVZkdDJpbnBqNkpWZ1hRa0dKOHJtZGRaSktHclVieUUzQTUwbzF2Mm85QWpSWjBWRVgydG1nb29QaS1IMG5zUExoS1BRZmZ1R1gwcl9BT3BqSlI2cXZ1cGFtOHlfUlRaTlRwOUtGcVYzbDIyN2RJZk9RRGw5RmdQVmdxTQ?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-FIRST ASSAM: Reimagining Governance for a Digital Decade",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb21RQ043M0VWWV9RS25OVFNtZnhCZ2JqdlhUMEFSNEh3bzZKU0E1NzVyZkp1UGNVUjJ2bW52c280OFl0c18za1FVQ0lmVHJDazB2UHc5ZTU5WU1iVHA1SHBoM0pfUVdMWUE3NVRNb2R6a0RBd1BOQ2s2cTBlTVZXVWUtMDktY1NMTktTRWJmblM4MjNFekZmNFBMZWE?oc=5",
+   "published_utc": "2026-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

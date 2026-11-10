@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "CM Chandrababu Naidu meets Bill Gates, proposes health and AI partnerships with AP",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUi00bVhvT28wY0J4eENuaG42dzJraWw3cWZERXhoTExYc0pRWVg2ZGk0VUE1NmhCbjNKVERMS015dFZGTldCZTc4X0xzV2RtODhGMmR2T3UxM2w2akpvdUc3cDNPcXFCMUlqTjh1aENPekh6d2UyTmEtbnEtTUZmbnNjLUl4dURzakZaNlJfU3VqTVFWU3NsT0NKS2k5eC03V2NFa0lVSlA5QzNVQUhvbVBFdjVqVkdURXZjbnlSaHdsZmVuWkJQWkdxYUZhaHlxYU53UUs3dDBkV3lSOFRNWGh30gHvAUFVX3lxTE5Sb1A0T2w1aGwyeU91UDhib1FYenRCeHNQekd1MmE0UWw4M2pkUnFmTkJPM2xWQ1JIVU8xM0tCd2dWQV9EUlUtN2dCQ1JRVXhPZ2w1a0hRUWNLbnRibzhzM3FSVFNTNXliMDd2Z3A2R3I2RmxBUnpScjI3Q0xMWnI1RGRRbHRIN29VRkJ1c0FoaFhFNlBrZkxXTTV5RmhOU2pwTjNzMXRHQzN4dkkyNmpjWWlXaU5QdjJOY0M5aWRBSHpyUFpUUS1XT0xzMGMwbVhMeDU5a19XQXNIUlN4OTQzbDU0aDRoeTFZMEpFeGhn?oc=5",
+   "published_utc": "2025-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to Establish AI University: Nara Lokesh at Davos",
+   "source_name": "AP7AM",
+   "source_domain": "https://www.ap7am.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmQtcXVjaEcycFlpaTI1dElfSl9GN2tHcDJ5LWxHUy1aZVdBUllteGdlNHlJWnk0eUdnU1BmdzZVc2pWSEtTb3FVTTlyVEE4eEwzbmhyUV9OSTEwbTgzUFE0eEU1ODBlaEl3Z2dHYWhieDlVdThkOGtLZTVuX0NtdExXV3VCbG5LS0xWQkVWUW5RMTN5clNCYtIBngFBVV95cUxNSW1qUzFOYkpkb2NYaThnZVRTUEdXaHYweU5HVDJRLUNOcU9HMVpKREhnY3FaaDFvOHU4dFlCSEh6NlFBNVZlVTdsQUNPY1ZIQW1fcDVyNDJwMHRyUWRXQlQ2QjJNR3RzMU1VYUg5dW90NnRDT0poU1hIRUx0OWl2c1dNVVotVGlqamFPOHJJZDFKQTFlb2tuODdVVTMxUQ?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government to develop 500-acre Data City in Visakhapatnam for data centres and AI hubs",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUm9UQXlyaEN1bFlINEVnWUx4Z01lcjhkdjdOb2Z2RU1mOTZHUjNiQng5SWFNaktOY3RMWUhFUldGRy1lQmRTWVNETlJnX013ci1vN3RDNmFaMGV6ck1TblZaYkNQSnBJS0tsNzUzWk12QlNtUktWWXoxb0R0V1oxMjJ1a3RFejREUGYxdEpOc2xBam1ueXo4LXBoWWg2SEZLRmJPOGUtekZ3V0J5OVVrcGJZUGRpYUw0ZG5ZNTY0MDBtajFMb0RaaUdFSlB5a19GMmdFaE9PNTVmQQ?oc=5",
+   "published_utc": "2025-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Infosys joins hands with Andhra for skill census of 35 million people",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONFhPSHMwR0ZSRVQzckQ3Qi1ydkhPQjNQaV9OZEUzWXBtR3QzeVRYZVZRc3lmNXpBbkpVZnpyQ0ZKU1pmVWYzTFRjcFppZGN4RVZDVzl6WTIwU29PZ3dRNVZucWtxdDZ4N3pSY2RtWmZnWFo4djN6U3NpZDRMZVp2MldYU1dET1htSHM5MVI1OHNBckwxbmFIVnZNWFIwbkFQYmp1dkZqcndDeGJOYTQ3VXlSUGtOR1hlYmwzOWNVNVlYNTZvRmVHYVItcmgwT18tTDhPVDBvTW_SAd4BQVVfeXFMTVNhMlFmdmVGOHpzbnVCRWQwSWgyeE9vQ2FQQ0ZibExRQ1VxX0tLUU01OVlzNXcxNU91dlZxc0VQS2VCa05LanYtaFl5MjkzQzN3LWY3R1Q3M1dhSEZxRDZyR2l4STZ6cnlwQVJDc0g1UTBQT3dVUnRjNnJ1YjJCamJEYkRoWjUyam15dDVqd2FYX21XalpXSVpmN3pTc2ljOE9tUV84X0NhaTlZYWthVE1KQzhrRVJ6MFdEMEl4cFI3a1hKeklYVHoxQ1h5Yy1KWkNGTmwxMjJ5SzkyRUZB?oc=5",
+   "published_utc": "2025-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu wants everyone to adopt Artificial Intelligence",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcm1XME1tQUN6OXpuU2d2clFGTFFtQlY0YnZwYUdPZ1U2T2tlS2V2dG1tT05sSlVycUtEWE5yS0lEanVweFhRWnZNQkt4a01NWGFWTXVlbEhyYklqdm9USURZbm9HR2JBZWRuR0ozbkpXUzlBblVTY3VycXB1Q1ZtWi1qa201N08wQkJVS2QtVEV2Mm1tci1Z?oc=5",
+   "published_utc": "2025-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP CM Launches One Family – One Entrepreneur Policy for Economic Growth",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX3VSYm9vcTNtTnBHaGJOek5NXzRIVHhHdlJ1SE02b2U5MmpOblhHZHlRcnJORHY0bEd5dmhwS0dQc21MMnl5c2dmZW5oQ0NwYkFPdVZ0b2g2QmREdVBpMFMwdXBOcDgybWF5S0J3bXdaVzFHYzBfbDhadW52UUZVTWstQ1V4UnBkLXZfTkVlNWVUSzU1NG5fX3hheWRza2F2T1RDNmwxeUY1NmRHWTNqWkZ5TURxZnFwdkVva2tTVnJPZlM3WVR3NktIT09pM092M0ZlWkJIQdIB3AFBVV95cUxPNHNwaDVSemFScjhuUHF1V3J1cVRCamYxVFdUbWRfV3UyZlRqMkt2RXdSNmpmOHgyWG5pdW9NRVRNay1jclpuUDZMaTkwTlgwNHh3am5PZXpjTldQVlh4VjdKRnZzSlRyWlgxS044RFdoU1NNNFFBemRCSnZJSUM0Ql9fUkFRNFJadDFtQmNRaG5tLTJTX3ZjNXgtTExTUjZpOWlydnpJX3dVcXNidEtmT2l5cDB3alVyNnZ6azFXdk9fRV8xdXBxemU5NDVaRVI0R1ZlWlRGRmJXTW9o?oc=5",
+   "published_utc": "2025-01-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amaravati being planned as an ‘AI City’, Lokesh tells delegates at Davos",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRkFITmVyZGQzbzBlbGVyMmpBRHRJdWJ6TThaQm1uVnBTdlFQRFdEOWpoQXB3UlNDSzY4THh2c2ZkZkMyZzFSUHVNSl9WZ0JpSnZXTVh0NkxuYnhxX1FyNGhEQlZCaVNqSDdsRGRTV2JMM2Rxam5DYm01cnliSGNodlhmcFFORlg3MlYzS0JWeW5haWR2OGZwQjVGWHY0aHoxM1JPRlE1bEx0Z1prMnBvaV9EZ0IxbEhBTG5fTWFFRlhtSldXMVpfZExUU0xEZjFFNDVkcUxNd3RtNVVEXzVPYtIB5gFBVV95cUxNT2JKdWRtX19uUEwxc01ZZERTa0lNaFp4bTJOdWpuU2xhMXV5UU9WbUtUbUdpZnZHYlBUTy1JUDRFZDhQaFkzUm1QN2xEWGo3NFlNX1J5LXhFSmh0XzF1MDczdDZxbVpZRmdSLVpmMTJsemhDdTdVeUF1MENTU1NtVURITjktWmt1SWlpck9ndjIwNWtkMVRZd2pkbEp1ZHNuZDNFXzJEOElybFNvU2E4V3h0ZFB6ckQ0WFN0M1hsb1BjXzdUbENGcWQzMUswSjBjenoySlBDTUFVa0tHQlEzb0xXbmE1Zw?oc=5",
+   "published_utc": "2025-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to develop Data City near Vizag, create 2 mn jobs",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVplMWVSR2NWVnIza0NnWFhkNUktamRGdjJvMzc3dkFIaHFPX3J6TWFaeUh3dlE3SnZldUFDZmU4QkxqcUk4T3hKRFJQMVR6QVRVeDdRNGFNUjcyTlF5MEExWUxiZmlCbU42Nk9hWktBVjhSUHZMek5zdk5RZFI0LXB5MnA0NWJCSGhsQTBmTnF4UUZ0RUl2UzlKcjVYZmI4elZBajBQVkdiY0ZPanVrS1I4SnlCRFdvNXZHU0k3OF9hVEpOVm9mWnVITUt0U3ZJ0gHWAUFVX3lxTFBfSG5LYjFEWjdab29palRxb0hlakRwdDlPUVJfbGlWZDV5ak5mdUo0bFFJckhJVnlEM28wNFVwb2VnTXV1WDFvaktQWmtiV1JjVkRRTVFNU3ZRNHJzSVJ5MDZjY3oyN25uUFh3VlVvdHZCV2FscC0teUtOOFhlcUxLQnRKOThLdWJRMnM2VzRleWJqajBURWl2bGRLRmhKb2VnMERmcU5CbFh5V1Exa2dXQWJCMkhDNkRaTy1SR0RiWHRNZFo2NXNVenhtU21odVFWaVVQUlE?oc=5",
+   "published_utc": "2025-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indichip Plans Semiconductor Facility In Andhra Pradesh",
+   "source_name": "ascendants.in",
+   "source_domain": "https://ascendants.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY2tSN1I3a0pvV3lWMzNFOTFTWkU1ZElqcHQtYnQ0d0pKdWQ0RFAxS2ZXZVlZMHJGTkwzQU05X1hlZnlFRFZHSGdnLWdNUW42Ym9IUkg3QXFnT1d4RTREb1RoeUU2MThXMnFNQmNaSllJM2RPanlTcmNCaEdFTUVXZE5rMUM3UGZLZ184SXZB?oc=5",
+   "published_utc": "2025-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat and Andhra Pradesh aim to develop shipyard infrastructure to supplement Centre’s efforts",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZDJWajdLZFJYWmZEZDYyVWh3UHh2S2oxRDhJQXpyUWljakJoVjNMS0VSTU9LQzZUMklMX1VibGs2WVNIUTA1R0ZDelNnY0V1ZWd5QVFkYzFtaGNZZW5pNXpFX0gyc19UNHRzQzFZVmRuck9aZV9KWWZ0dXBvTk5fTUw2TEdJYlhqdG5zN2xLRV9CdTBreENnTG52dVZGOHdsTGlnMkdmZ29jV3l2MnQ1LVg3OFlJc0VFOFRCQ05lUXlmTjFOSHRGWTZvVzFlOXFhVXJrZ0I1ZG40SXlOdDlxdXN3VGxUU3NGNmF1Mm5SMVRMU3FlVFJzVDNZX27SAYACQVVfeXFMUHE4c2ZWd0NYNFphS3lGcGdYS0I0STJaWm5iVThsejhfdU94MUhwRWpKOUlCckxwdG9jRVVtVng2UUxSR1ZJYmxlbnRfSFZiYVlLQVFPRU1sbVdmenNhOWFaZEhLQ3FONlRHelpGTE5tVnA2QWRpZVV2b0U1WjE4QV9XVzIwLXNoUXA3bWxMTmliMzBiaHFndzhEWmEzbUllMlhNN2FWVXA2UzVSY0c5aXJENE5GRGF0TkdJSjhhcmphRHlvZTJmc0pqYnZzTmZoVzQyV1BFaEFXTUFyalQtTTJqYjJXUlR0ZDJCRWtreENBaTdabjY5cXNEWGM0UDhRdw?oc=5",
+   "published_utc": "2025-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

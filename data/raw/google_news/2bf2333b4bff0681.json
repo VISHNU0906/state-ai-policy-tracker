@@ -1,0 +1,37 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Rajasthan clears new industrial policy, targets semicon, data centre investments",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXhEWFFMUGZTSHhWRkNpcXltZDh3UThHSERvWHFua2xDTHJ5LU5VSHpwWnQzMndUUjNhaDFhTWMzUmQ1ME14clZPTXEtbUN5YUJ6YmhSTm1BeXFWWUNCR3REQmoxTkttRXNzMmwtZW9udkk0U1BiQ3cwc2JYWnp6RjBOY2RnQmdJd3duejhXRDBOQU15Qnkyc2R5cm1KdU82MVMwMGMyWGRqWDJ5RWMydWZncmF4V3NUWFNzenBTaFMwclY2d1NfRGQwZk9raTMtMTNYZVFtbHdjNHFTZXZ2YV9qRmNyLVhLOFHSAe4BQVVfeXFMTVpURGVDMEh0enBOZ2dLQ00xMGxDdkFfaWdaMV9PY1M2RDNMZ3pNUUhFY0gxT2pQM3czQzVyZElWem9pcF9ycmRCMTZqU3J0MXdjWHU4QTN5cGd5WHVvWlFValBRdDI1OVRRT0pXSU1rdDNXRDVwXzZIbnV1RldnM0dXQlZ1UHJRcmVfTjJkS1RUZEF3Wnk4TVVnMFZabWVMWEcyYVhjZjhYWW42U3kxX3Z6UldqNWVrUHYyREJTT0N0dHRMOW9XTG5UUDFWZEoyM2gwTENZdnh4LVpZdEY2U0hPVl9PS3BhaS11aUprdw?oc=5",
+   "published_utc": "2026-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt issues AI data protection rules for schools: Student information use restricted, parental consent made...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEl1Um9qQzU2MUppMHZOLTl2bDdtcWpSaFFrbXI2YkdJQ1AtdzF6NnhIOFNacGVIOHJrTUE3SnFic0JYQUN5SlQ0cXRHQU52MW5YdzNoT3VOTGNub0JyaUdxZE90Wl80WEptZ3J2elV2ZDh4dVZ2UTFkbUp5VjZtZWFaTDhJRXh6a1A3emNXbU5qMTRKVEpRbndCbHBHR1UycERiR2h3d3ktRjYyVWFBZlRCS09uUjA3Q2FiRDVB0gHDAUFVX3lxTE15eHNfX2YtS2c1N3NNR0RubXNIdG8xY0ZfTFdIc0g0bE94NndCNlliV3lYVmdiYlBQMERsNnY1ZzNNVnBBSGlaOGh3M25FTURBckZZWkNHMWlYUG5sSHhWRVdScy1vb2ZvMWE2R1FnTktLVE1tOGhXWjN5WDdzS2k2TklKdDhUNV9OYnpxc3NoY3Rob0wydHpjTlV6YzU1Um91SVVJQkZxTDhjbWFGeDZBNlJOQ2tKMGxDUE8xRGlkb2F6SQ?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Police issues alert on AI, deepfake cyber fraud threats",
+   "source_name": "Cityairnews",
+   "source_domain": "https://www.cityairnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3VNNmxOZ3Z0SjF4REJhaHhxd1dBcXllenY4QzdvX2h4TWkzcGt2MDlzTm1IaGUwQkx4YkRLdnZPbHVYNHdIcVlJb1I5ZGd2ejEzNDlkQXJmOHp1OW9iRWtCNm5ESk9qdjlWTWhZbWdMZ213enZlUngySkc4TmxqS2g0OFdFVVdvVEFVdVd6QzROOXFkVmxXZ0lEdF9Cazg5S3c?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Respected Public Figure: Delhi High Court Protects Personality Rights Of Shashi Tharoor Over Deepfake...",
+   "source_name": "Verdictum",
+   "source_domain": "https://www.verdictum.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3R6dVVlck8zelNRZll1c1R5T1JXRDdmWUg0T2NVVUxScWRZSFBYWXhhTW43MGxDWTI3eTB5MTBibkJWa3ctMi14eUtqZC1vU1NobVNfMno4b1Y3WlBwa2JOT1dIclJYOG5IOUhNVkdyNkdSajBHTUl1cXZJRlVKeG1mVzlCdUt1MUZ3NkFDUy1kcHlQSGpZQ1RVQXltcHF4STRFcmNhQXFNeWczSnl3bEdhM092aS1IWHNTWHlsTXMzWFJZNW42T1pFblnSAdIBQVVfeXFMTnowa1Q5SHRSUllzRFU1QTNMNWs3d1FoV1M5QkFLc0J0bzNGcGtNa2g4YXE0bTNLM3pXQmpubDVCWE1xMzdhRjN6dk5odlNraEJ4NlF4aU0yeGlGemxRWi1UdzhRNEJWZFgwOGpUUU1XQVB0UE02Q0tDSXRFZERpWnFKMFZmT1pyRk5STG9DNElET3d0S1M4c0lNQVlXYmF4alBabkpLa25LNFBQVElZeF9Fa0ZSQ1pObm1xbS10VHhrWWVLbFRpM0VXaUl1S3FFTFl3?oc=5",
+   "published_utc": "2026-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

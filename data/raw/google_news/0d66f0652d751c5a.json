@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "Puri Stampede: Odisha Govt Says AI System Failed, Pins Blame on Seven Senior Cops",
+   "source_name": "TheWire.in",
+   "source_domain": "https://thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3dZUXNlcEdWUmdscGVsY3hJX2kxLXdUR01HdVVIbWVyMTBKSnpBNkdzdF9TY1ZQYlQ4bXZUc0s3ZHpuUkx4a1RYNVBOc2xxVFNqUW1ZZ0FMeWtRLUFKZDFlN0JUY01EdERFVXFQa1hMa19TblZQZUVRZ3VLdm0tSFF4RHI4bE90YVFjcEUxWFEtY2h5YVpqQXVGbGFaZWVhS0VoSEFONTYteVRyb1HSAcABQVVfeXFMT0lIQXBRN3ZPSG1VLVAxNmY2dndBR1dwODVleXpaUEJzeHRqNUxDRVk2QVhwajRmbHZHREg3T3owVXFKRWYzV3V2Y3U0eVhKV0lzdlZXNXdlYTByWmFhYXVXWGFRWkVMckRtZDNtNTlpUFRtU0FWWF9RNVQzOHpnQV9FbThzaE10TUstcHA2R1JxNTZvU25sN1lFOFFXU3EwbDllSDVpM29FNWZrT1BXSk9raUNsdDBfTzdiMHU4UXI5?oc=5",
+   "published_utc": "2025-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha vigilance launches AI cell to combat corruption in public administration",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejB4clZzLUh2SEQ1OGVWcnRIOVJnWnVndkxYdHZNcDl1c2lJNFU3aEdnb2N6SFdjR0hZejhUemVEem1vZkREdmVrZ015MEt3RzNwaXBGQ2h2NGI4TjRzYndBQjVpcjBya0pJS1NvQUcxYTNjZ3JLb0t3ZFlEM0FmNWZxYU01aXpHTnlUbGUyU1Q3NG50b2pXajNIeEF4d1JpUW5XbnU4bG0yeFROZ2xFdk02LUZ4empCa2JESFdCdGw0VXhRNjNjNWNZR3dOM1I0N09mMXk5RGdEWk1WN1l6aXlYYVp4aWVQWGFBUTRpRdIB9AFBVV95cUxQN013NXU2Unkzb2hyajBiV1VEYXp4Mzg0TkliRE82SDBaQnJzT2hqaEQ2SkpreXJUcDhYTFRiY3JmTEh6enp6MXczX3BjQkNQZE83NDU0c3FSUDZnY2xOckNORVZhZF9JeEs4OTEwc01XRlJZdXNOclhCX0NGN250MXVnOGRJZERMZF9VVXNXNVZlWnB3c3ZBZ1lBaHdfQVBDdDI1TGJrQV9lQlFpdFA4ZE9DTlNQZHFhX0hJcnluV3VKeUNEbnd1UFVLOG5wcmN6dklJVVVFM3RZMDFaRWdEOEdVWElYdml3MHBfTGVGNG9aaHdS?oc=5",
+   "published_utc": "2025-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha needs 26,237MW of total contracted capacity to meet rising power demand by 2034: EY–ASSOCHAM report",
+   "source_name": "EY",
+   "source_domain": "https://www.ey.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMUFiNllLb3ZVNHVNck5qa3VfLUFfR2RRcnlHQ0F1WVEzXzlfLXVDdjIyN0o4eEdUclpJWmhhRGJWWlBTUkdxYWJ3elloSnF1TGd0clBVM3NNMmxSVUt0S2hJem1sVHRlMXl1bGdQY2d3RVowNlljVE9jajljTXk2Q290N09FeEFxcEFnb1hwaXV0TmNWTTdQTm43VU9mQUV2NjdOUGxNLUwwejJNVUx3aTFzcXEtQTBhQWNwZWtXLV9IU01WWlFxLWNmdDRDaHZGVWV4V251SFd5M1JnSEFCV2JR?oc=5",
+   "published_utc": "2025-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP formed govt. with stolen votes, alleges former Odisha CM Naveen Patnaik",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejF4cDJ1dG1tejRZM0Nuamh6c3h3N3ZZSDN5eVBKbnBEU3hQUzBjcEpXTzFzVGVfVWplckFPSEpxVUM4WnFtazdxOGVLTXNzN0dGMDEycFVSOG5kN05KQWlVMGNqU281SmF5blY3T3dtaE9ucWtEVmJvWTJWZnBZZHhqOHZOLTRPVGF1S3RmVS1pNC1CWThVSEtlU3NYRlNhRHo3VVU4NmFGb1l0bHYteC1SaFlURXhsaHdmUW5GQnkzOHdrcXZMN2U2R0ltZE5pUHY4MHl30gHcAUFVX3lxTE05U2VMMW05THN2Mk1MOTNuTXk3cnBJendqVHNhaF9GWnRuNzVQNl9NYVk0WTJwcTJpUkJnLXpadnh4M2ZfX3BWMUJqeGtoWGNvZEFsR3Z1U2UtN1l4NHByeHl4U1paRnVDLTFieUhLcUhxdFNCWHhrOUx3NVZMSlJUeVRNT25sVldjZ0VqYzA2MGN5Q1NOQ3c2aENTalJnaldwYWw5OGxuUVZpQU15bmlJenpmMENxN3I2Zm5YMzFnclBLRFdwTnFYeGlwX3JUamc0cFFlRHNBTTdwaTg?oc=5",
+   "published_utc": "2025-11-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Bengaluru, Odisha emerging as new IT capital, says CM Majhi",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGJ5SEpRdFhnMzg2al82TVNlOGVDeUJERHM4YXF0LW5pOUxuM3ViVFVYaFpibmFzYWVKY0QtcXZLQTJNX3h1cEVEQkhvUEhxakhMQmNubkJiLXZmdlF6aFM3cWE1T1o3WWhSdm14QlRCWVdubjVDcWthS05XWURzODltVUFzVEpaS2lFX085Zlc4bENYX1p5MW1GSF9HSHB0bC1ZWkdpVXRBOFhCNGtKcVVSdlczNkZ2R1paZUhfaEE2TWRG0gHSAUFVX3lxTE1NLUxMaEFmN3VsVGdDUl9xRDFab0NnRHVWZk1tZ0FuVHpMcGVXdElad1UxQ3lfZVVlZGt2VjdId0Vud3dOYnJVamtJUFZZR2lVSm5pY01mNWp2TFFqS0hZUGFHSnF0Z3pSQUVkWllEUTJoMDF1S1g5RGNFM01VNW43QThGUU9NZkVIbURYTlJlVHZsSV9zX2tod2NOc1JoMEVOSy1pZkhaajRSR0VSUUlVWlNBYXhnRGtYLWY4RjdMaWlFWTdrRXhRVDRoanNSNzdIZw?oc=5",
+   "published_utc": "2025-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Over 1,500 Govt Schools in Odisha Still Without Electricity, Minister Tells Assembly",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTVoZm9sMHkzZ2lhOUlDSENwOWptaC12a2NWXzFZTzA0TW5NZmtidVFNa2RHRkh5UzVIbnlVWndLUWVxQkRUZERTU0pfZndmX0JDZnBwMnFDbTViWE0wcnRsSks1UUlyRmplZ2pJTkMwY2F4NjZhYzZ2SjVhSmI4ZXdRZ1FRajZJaWRDUkwtVmxzdjJQNnloSTRzV1NBeEh2dEMzaTVsYUdza1NDVm4zTXB4R2ZIbHdjdmNwTjZSbTNNWXNzSUR3b9IBzgFBVV95cUxQNFp6dDVQTllRUGU0STJXWFNJWEhxWmxmOWZGbTZ5N1d5Q0daZ2hwd0hTcWRNMGJDOVAtbURxWHhTNWdkVjhLMzVSMzJCVGtyTmtYN1JMN0w2cnVseEpqR280eGpuTGdWaElvQk5BME1PSVY4V2FFQ25wQUZ2UkoycjY5SEZJdEJQMW1aY0NBUG0wTFZMV0VOSEFmOFhXYmc4NlNWTUxpSXRyVE91ZDEydk9XYVItWFZkeGZJNWFxb1VwcXlQMkdfdEFmNDBJUQ?oc=5",
+   "published_utc": "2025-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt makes updated property statements mandatory for promotions",
+   "source_name": "HR Katha",
+   "source_domain": "https://www.hrkatha.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlFONElhRTRNWUVJVWlNYkZfVmRSUXk3em1DbnRwM3c3d0JHbDE2U3ZGMW85cnRua3JuNUtKYV93ZVBKRnAtT2ZxdUF0Y1VtX1NZdjF6a0xRRllrTWlyckZxbndRXzNZcWJzOVNvaUpFR0hNbVZsRzlhQ3VxOVdqT25IWXdEbmNMcTZ2M0c2dy1ackRRZmFKWndsbkVUWnFqc1E?oc=5",
+   "published_utc": "2025-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Vigilance Directorate sets up AI cell in Cuttack to fast-track probe into corruption cases",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNXVCZU5sX1lkY0d6c1lQYm4xdzN2ZmE3ejVfRjNycHJRSklfNlFKWXJyV3NkMFdyY2l0Rm5odEhxYUFFdi1KRnJSQzV3TVEzdWNnUzV6eHRQaEN4MjNrSEh2SFB4OExOOXRuQnpQT3JyZXgzVXlsSEY4eWZ5ZHRNWTl5ekhUcEdab1Z4WVZ1N2lBanpNV0JWN2NOWlN0TlpIM3c0ckNWWEdSRDF0YXZBYmd2QlBBZ0JsQV9xdHRTNGNfZkg4ZHQ1ejgxUzN3NnZ6M21KX2tXR3hEOG4wNGdxbkJxaWV1MlpWbGt0ONIB-gFBVV95cUxPcEtxemhITXhQa3NOU3RDWXhQY2tLeWNRM1Z3aGNYU0s3WkhYb2JLZEpQNW9fSFA3OE90SE5DNlZtX09teDBqaWdGZGV6NUlObHZiVC1MUFphZ25udm5XbElkQzR0LXdsa2hFbVBMUzZoWUdoTkhTV2ZQQ211ZTVDSjJPQ3RXWDE3VnE4UC1qZ0ZOYkllOTl3NFhULXBuVE82QTBlVTktaGZzQ3VTUEpHOFpvY29TLWFHMEJsVU5hdkpETGRVbHliMm92VTdoc0x4V1ozcXZRMERwRVV3S0toSnVmekh4N3A4ZUwtUmRHdEpmUXBhNEl6VVVR?oc=5",
+   "published_utc": "2025-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SiCSem starts work to build country's first end-to-end chip production project in Odisha",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUzBGUE4wS1Y2R1hNSXdBTjNyODZzaWdhc0FPZEE2R1EtN0txdXdVR3pqZlAxUFVHclhPUmdLNnBIZDJqbkphNEw4eVdMU3l2eHFCdlpYZmlCTjlpT1hCUUZjaGVhZEdHcmwzVUJfX2xmWEN5NEExamtXTC1lQUVTZFFRUnpCdkxDY3FxUklBZXFTdFhlRHJsRkR5NmRKSXlqWDl4Ty1XX2Y0V2ZtR05EVV9qOG5YR0huOU91bkJRZnlQRUdMUkFCN0FkWEF2N251WFM5elNXOXfSAd4BQVVfeXFMTTQzYlN5Y1FkV0k4WnlNQXlveW44UF9LTzNRT1MweXA5dThBMk52dnYxYW55V25GRzBYTmNlZWlEcGVCRTdsVFB1NmdiWnR0eVVTLWxvYTlreXpFVXFWbkUzTlVOa0VqRVJqeXQwX2k5cDlJWXR5YXZQZE9qQmNJNW5heFRiT3BLdFlmQVI2X3AxeExUVmsyY3F4LUlpeXh6QWJtcnZvNTZpS0p5MjhTTGRQZ1FrLW1CbUZPZGZEU2F3MGNySGlBdHBOWEk2bVdVQ1hOajJfSS0zSFptSnFB?oc=5",
+   "published_utc": "2025-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha plans to develop Bhubaneswar as a Fintech City, eight tech hubs to come up in tier-II cities",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQXl1VDA1UWRQLUsxTFNDVGpmWlpMSmZYWkpwUUhpU2M5ajdvb1J3a1FDQ2FKczNod0RaY0pUR1VGUXVkWlFSb0RZLTh4MzVqUkZ4NmFocjB5dEpVWURuYnV4MGZuWTBTM1dIbzR0Vl9SdmZRWXBZblA3MEtROGRpcGd4MzlBVUVmX1JGdDBfVlN6MnNaRUkzaVhoaE9CdVNTck5FclI2RTYteE9Ldk94Q183bUxMQ2N1SDN0Mmo3dHBFcGVsdXFETG9UelV0WWpOUDRacHdqVUY3QWdBVEpJTzZOWG5tR2lYWmNBU1hB0gH7AUFVX3lxTE16YUIteHRReEhCWWRxaTFCQjM0YkJxbVJrYmpmTWJtb0RQekYwMHhHd0NtazBnZ1BoN2JMTXZ4aWFTRlc1Y3hzdEtpQ2pnRHQzSGt1dnpOWHBZeGZUZDlyWTdkN3BvSzJITXZiRU1PeXlfWHRrRTd2cjJCOU5iUVpjVFRpeFY2TnNqM25jazNhU1Z5Z1NRTHhPQXdKVzVfSExBenl5WVA2T3F1UkZzb3IwSF9kaFlweXVETTlSZmVRUEN4bXBWVEt0MmFqazh6dGNLVzdyUHVibGxqdGpDZmZNcGIycWp2aHVkYTJPYWVqa3V4QVZDclFjMUlv?oc=5",
+   "published_utc": "2025-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh govt to set up India’s first Transmedia Entertainment City",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFBxdl9zcTkxbkhESlh0ZnJPbXJQTkZqaWJlUmR1NTlremU3UHM2ZFByOGZhMzhTY2h3Y2VpdlVmc2lQVEVDeUVEbHg3bWR1cUFrSjc5SGJzZ2tnbGYyM1NvZGVTaFhzdjZYUVdKUW1vN28xeHhGa2xtSVVSajViUzQ4RmFUZ290bFJZQ1R4Qm9jd3dTYkVJb0h2NHhfNVU?oc=5",
+   "published_utc": "2025-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to host India's first transmedia city 'Creator Land'",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWDVWeENSdGt5bTRKR0tZNEFFajlTNndBZmY0eWhncWZNVTdTZ0MwS0phejYwVXVUazRBOFRJNF9DWUcyUktpcVhoU2tUZDVEbEp6NFlWRXM0RkxKSXZuTzU1WFp4VC1KQ1hLZjlONnNrSzJseTR5bjkyTUxHUkdFeHY3bTYzZllaSU9aNXhYWWxGZVJlQjhRQnl3ck9WR3BLeEVLOFZmNzhZMFlJLU9UZDhBSllQWVNQQWxiRUR6RG1FNC00akd5OGt1cUt0MTktNG1KaGJtcEZ1dnhZNVk3SnYwdVLSAeoBQVVfeXFMTlVUUmtiQndyTEs4WWI2RUhibXVUSVJuWmUtdzI0MWhoUzlXbmNzdjIyU1lkRlYzU3U0VnNNMUZsQXFETUhaWGNyS2Q4VTVYUHNJeTdUTDU4dlI1b01zb2VfZG9RWE0yMFB1dFRvcklnSXVNTDlYZXNZQy11aUx3MHVGSWdQUXJKTmFtY18zdzU0UEpxU2Y3c3JtRkpoSndvSUtMcDN5N1FGTHdxMzUwTFdyLWF1REFXTzJhRTZoREd6ZkpQMEFTcVQwMzNCaWNqMnJQVExWTlFCWVN6RHhHY25CTlI4MUhmLUV3?oc=5",
+   "published_utc": "2025-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Naidu underlines role of tech in shaping future",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnhnUW5tT0kwUEdTZ0EtdXIxNi1lRnc3RDdtNDZPVmVfcVZzckdZeWJEdjJiS1dSdVQ2ODhpeTJJTmtFS1ZVdVBucWhoTXJYa2dUOG1wOTJGSUp3MGhxSE52OU1CS25VSGk2RWNfWDJqaUlFMlU2bFhlcjctUUhZNVduQ1k4dmszN203M1VVSXZnTHhZWUZnMUJNdERvYlV2amU5TVZSWG1QMGxmWHBjOUFJQklpZ21GNlpiSGpNY1NuZ9IBzwFBVV95cUxNTFhKRFd6VkoyakpOZTlhUG92eDIwekREWVJOLWNTbFJ5TTVuV09yalplOXBCTmZoN2x1TGRLRlhKbUE0UHlhcndhZU1VMC1la2JKdVplLUtKREl2V0tFLTdua3MzNVJuZ2ZFUW02cEFxUjF4SDQ2SVk4eDhjS1haVzJIdUpGS1ZFVGl3YnUxdDlQRktWaUhjaDh5UjI0c0JXUlVLUVZLNENldEM5R0szTl9tZ0pqcHQwZGpuY0puRy1pRFhSbjVRakx3S1g4S1k?oc=5",
+   "published_utc": "2025-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IBM, Tata Consultancy Services and Government of Andhra Pradesh Unveil Plans to Deploy India’s Largest Quantum Computer in the Country’s First Quantum Valley Tech Park",
+   "source_name": "IBM Newsroom",
+   "source_domain": "https://newsroom.ibm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQS3BBVG1qY3UwVGszeUFuVnpLSzRScjJxUC1GVlZuSlZwYVRDZ0V2RXJRUWYtTjJhVUIyMk1KUGZYSXd0VDFwc19LNmxub2lnWEw1ZjdDLWpDdGZCNmdEMUNDaGxPa2ZtSjRoUWM2WE0wbnpwT0hOekpuS2JKd084ZGhVNUh4aFVsaTFnTDBBclp2UFo2NmVKQTBzTHdlaG0xa0lFZGZQZ19BYWJzRTl0Q3lzZWxmMTVRVTJ5b1FxeVlsVEl1MkZ6OFUzZzRXbkhDNmxPVjdONzQ1S2dBTk1QNGlsLTFfZzBueVlBLUVsQU5PbFVmUTFrQzMxZEV4SktxQlNpWk12ckhFbjdUdnNHY1NmNXItcE9NQl90VVNMSHdEWUdPNml3Xw?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Approves Rs 10251 Cr For 281 Amrut 20 - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtIdEZSVTJ5MU9rNFFzSkl3WkVBVWJYTWJnOE9XMHJPcjE2N3VjUVlGN2RKMEhtMEhQZ2FVQzVaS0lTT084bl9tSFVlVEExNWQtNWJObDZobkg1YlB3R05VS0xVUjRiTHZuMXIwOW1GMzNCT0d4SUNKQTdCYzJRWXpVOHc5dWpYQk5qNFlkZk51djFCZnVwdWJIWFlidExjTEg0WFBR?oc=5",
+   "published_utc": "2025-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP to be a Modern State with Amaravati Development: PM",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNam92RjBQQmVoV1RkcGU0MTMxY0wyNDgwaUdFMGxsLVpHZGZ1NmN5YjBwUUF1NzdPTXV2V2l2Wi12cllMV0tzSUdwX3FWMENMMXdsM3RNY19sRUR1cmYtTkFCc21aQWJHanN5YnJPak1FdGtsMTFOTVJpekd0MG92RUNFTks5LXlUY1ZTbnc2RHp0Q2pPT1VPT0FveFg0LTNSWFhLSjdLTXc3S2RrTWVjM0c1WkFIRjZRMTZHeDZKcFJ6b3FBT2NIamFGTlBQWnRCX3FPYTNpalDSAd4BQVVfeXFMTllJd0ZGSkJMX1hvQkhyLU5Dbjh2OWhmNXZhNlk4cE1objAyVTRobGs3MC1ITlNkTWJmQms0R1F1SDBsSWYwclEtUm5BWGZMQ3FEeTltdWRBU3NLaWRzNVpsMkJmSDRKZ1Y5STRrWklxQ2N0VjRzMHBBaE9GX1NqcXd3R1BIRDRWOUxhV0xDSk5xWmlhT1VLbzFGS2NxVjNzR0VQd0NFT2plZW1mMkd2eG9zUzNqYTdKUDF3eVBaUS1tdEVtVF9EMmE4TklELWg1Zi1FZjZSSTA5bUZBeUNB?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP’s Creatorland in Amaravati: AP’s $1.2 billion transmedia project to create 25,000 jobs",
+   "source_name": "Gulf News",
+   "source_domain": "https://gulfnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRERtdHhlSlZvS1pKWG9LSDhXc0RpeUF1M1Ntb2NCc2ZBZjRGU2Jfb0ZBZHpCNmV0VUdHdWlkMjBCTHJhSE9zQm5TeWx5RFVuVHJCSFpmWFQzckRaOHRyanp0VUxHbTVDQjF5cGswM0dWOHVnLTN4MUZqR29UUTM0c3AzM3ZCb1JaZlFDWVFOejNvbjRDOFdTa0RlUXNhZlhNQjNKclY0Nmx3aDVncTJwQ3pUcjhuMExCMEM3VDRwNU9yR2k4SFV5MEhrb0gyTHBqTDBJ0gHoAUFVX3lxTFBmbjkxU2stT3FfS3lWb3VmNUF2X0w0N2FYQXNHUHFGbXljOV9xTEc3UXh2cjJvVU1Rc2MzVG5KZV81U3ZFQ0VEZE5PUTYyRnhpQ01WVUlUTzJnWDdZWERpN0N4ZDlkT2lFa1FDd1AxQi1sRzhHYzF0eDVLdDdxTWZybE82Sl9RZkt5b2NXSDN0TnZKTXE0cmEycmNkWm1VdnhIN1pLdUtyMm9EdndvdThhVmY0SUJuMGdiaFlqaE5OamlLSTFUTUg4Y3paNGtNQXB5OTZ5R1ZxeXVZeGpUbHdpaU9Va09ydUI?oc=5",
+   "published_utc": "2025-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IBM, TCS and Government of Andhra Pradesh to Deploy India’s Largest Quantum Computer in the Country’s First Quantum Valley Tech Park",
+   "source_name": "Tata Consultancy Services",
+   "source_domain": "https://www.tcs.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWDFuVGlTUkNyaHBUQ0ZTbllENjU2LTh6S0lJNXF1NGI3SExhYW14YXJwT1pNOGdLVWgzUGotNTBuUkZQd0I3WWJWbkh3WjNQNWxZM2ZMRkp6SnZjdkxfUVJEVF9LTlJPODlxeUxSdTlMaENuSjhSQlVpQmJPMFowM2d1YWUxMWM2WWtPVGhodno5dHJ1UklpdFV5OG8yRE94dk5ETXRlbm41V3ZQUEZMdTRDaEp5WG9oMGRVV1hZNEtVMXZoRHdFTld0U2NmaXJWbWFzNVpLQ2FDekRVV21peV9mLUtFcFp3cWN0U1E4ZEY5Q2FJTWhwa0V2VHRWT3JqdlFiYVd2RGJPZDdPWl9tVGpzSjR1Tnc?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi lays foundation for Amaravati’s revival, launches Rs 58,000 crore projects in Andhra Pradesh",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQk9aVXVISl81R294Nmtzek1oOFI2V0k4c09OMFVhVG9tWV9KbmVGQnJkSUdtaXVMaWd4T2FwazJLY2tER0YtUmN1NlAyY2FiWkYxdkt1Z1BoSGlFRnZzSEt5cEpHNElQeDNyRjN1RWZQUDlKbzdvUV85b3ZyUmZzU3F4YzhrdXlRYXV2S19CWk12QjhvSnlTbEdLZHg4UWtDVldTTnRQQUw0dGRsTUF4aUpFeVh1RHR6eWwtdXRmajM5MlNUNDc5cGpDYVk3cG9SeDJmZGFVNzVnVWhvZGstd0MwdDg3QnU0OExJbFJ0ajBLOE1yUzNERtIB_gFBVV95cUxNbEpPYUJjV3k2V1BRdXJIdmZ1WElpNkVvM1NzT2pMOFhXNllPaGI2OHBOU3VnS29VVF9fR2FHeTh1SUJEUXNUcmt1QnFQMVpDVHdGNnpYdnZkMHdrWk11UXA5bG1XblJHNFdmWTF6bDFPZnZxakVZTklKcVdmcTJ3bFVkSjBQOElwUEUxeUc2R2ZWQU9ZTzU0ZDROU2drQjdpQ1JHdVluMEhCNTRtN25sUGNkVFNiaVNBYzhaZDRhYV9ITktvWmQ5VVpZMHhCWnI1SnRNVklpb0xDcktXNkxKWUxORzgyVEtJU25FVUJuR2NUMnVEYUZ6MWVOVm9jdw?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jupiter Renewables To Invest Rs 2700 Cr In Solar Cell Facility In Andhra - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmU5SnVVbFg4bUlPdUhLNGxDSzZpMENPRjR0S28xRl9oUmh6dGhfbDJMMGpERUgzcGdoaXUwdE9ZemNKVm5FblllZWJSZERmWWJQYUhNZW5YZWExZ1hjSG5INk90RXBPZWFVU3pfSDJKYTEtOXd6eVRCWkJKRkVCbHdhNC1fTW8zNjhyRktreHVMWGdueHAxMTZrTFhycHI3UW9wb2xaSFlGZEhiNWt2ZlZVZUZhY3JhN0hNSnVmTQ?oc=5",
+   "published_utc": "2025-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

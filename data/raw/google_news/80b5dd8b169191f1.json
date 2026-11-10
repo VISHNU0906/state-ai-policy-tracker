@@ -1,0 +1,77 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "From civil servants to college students, Indians are getting trained in AI tools for work and life - Source Asia",
+   "source_name": "Microsoft Source",
+   "source_domain": "https://news.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMUdNdXdYMVpfSzhsRzFST0xDUkM4ZEd6ZGY2WnhRdi1VOXp0RlBSeDhMLTFRME5TMTRub253QUNJUkZLc3A2QWpITUdxUzY0ckJTdGVOdHN6Sm9rRnhISk1fNDBuLXFNVHhoa29iT01Cek1NbDJXbW9UWFVsTWExYjNBUDJlZGhFTHUzbS1DZXRqMzlQZGxDdGNoSlROdjc4d3pid1NwRk4xT09YNjd2eWd3WmpDcnpSVG9wYkZOVFMyVWwtbGZPek5lVU9iSWUzd25KeWtncmVqNTFQdWo4?oc=5",
+   "published_utc": "2025-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt, Google Cloud sign MOU for launch of Gemini-powered, Beckn-enabled open network for agriculture",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOX2stSDZyc2RzMG51ckg4dnNqYkM3aDJJdWF6RFF5azZCcTFUaGIycFM3SVktTEhubnU2TGx0ZkV6cHdBODVPaklZV0o5QWlqT0hLYjlkemRzQUFLTWhlMHFVRklyUUVkcWYzdHhnTUpLYWM2Z281UVFEOWxMRFhqZ2wyeWNvX1BSa3BvT0hDX0dac19rUDNybVFNcG9scS02a2hZVVdTNWxDcnFDWk9mNXhaUkhJRXptbGF0MURKSFQ5OXFQT01ZOUVaa1BzZV9lNXhIb1BUMDFOZnhtYmZCQXRIMmtBNm5ha3pRaTFkMEJwajExSEt4aDQtbThTV3NNMmtuQV9QNS3SAY4CQVVfeXFMT1hsNWdkekhndjVHc0RWMWg0dWoxNGZyMnFtMF9ZR3RKRlVaV25uV09VVEFiTHRjWm0tUzVneUdZUFFsbE9LSFNzcUtBN3Z6ckFwMXVzRHlHMDNBbVlhekpFYkdtc3lqLWlmR3g5MkpHeHZpS0Nzdks0N2hqNWlibzlNSTF5UHRMLW9SYzktYUMwRzdZRXR1REg5QVI2M1ZoU1BFMXM5eUE4Z2xFdVl6YTVIZlpZbDl0NU5UWUducnc0SGJuc1ZhQ1V3ajMxLWtWeXUyaG15T1FmOG1JQnpMc0I1MDFocXhtSWF0NGRrcExqTThxUzNuXzN2US1IUjZZWEduSzFmTlVTMENtZDVR?oc=5",
+   "published_utc": "2025-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha Kumbh 2025: Authorities employ AI to handle rush, predict crowd surges",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGJOanNEaHEzaFJhTEpBNWtseUVPdlk1V1lFWm0tS0dHQTJNVjByR2hHQ2MzZk4ycVB0Y2VhUnhoWlh6aUF3bVRIYVNwYzRhVElYODluaFdrYjR2dHV1WHlsSFBYbFNCaGp4Q0pxTW8yZ1JDdnRoUlRoZ3ZNdTZlbUdqQ0dHak1hQkR1ZWRLV3E1aWxITVBUWjc2bC16VDNDRUMwaDZQbjVTQ2tOdHBhOFFURHpmZU9iQ2M1RUhhT3o0ZjdpS3p3WTdhZU92MWZ0c3VHczhiSTc2WXotUHFv0gHmAUFVX3lxTE5sTk1CZWlBbVo3OUZhTl91eUlfZUFybEJmVGoxUmlUR24zeXRDX1RmdUN5YnRWU2Z4OUFOWG0xR1Noemw2ai1vQW9TOHlxN0gwekx1RnpSTU5PWm5XWlpkWGlKUzg0aXJzLU9HZ0lOem9DNnIzU0ZvUEVoMlppeTVIQ3RKd3RxQmdIeWdoUmZiT3JBczdjbXpBNnM5cjA4OXY1UjBTX08tV1dYcEtfMjg0S1dkY0l2aGRMSTRMV2lTdDFKQ0pyeEVGWDJCUk1nalIyeVp2RUlwR3pmX052RWE2UUh0dHN3?oc=5",
+   "published_utc": "2025-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Security at Maha Kumbh 2025",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaVnRJX0pDNEFpYzZyRlB1WnM1bHYwSm5Sel9VSENZRlZ2MjdDTzZETVRIUUVNOElDb1JkZEhrQWgwODFYc3AtbU1henVyUmI3bnlhVE5BbGZ5c2dGUjR5MzJ3MHFjbnJGWVVPQkNHa3k?oc=5",
+   "published_utc": "2025-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt, Google Cloud launch AI-powered agri network | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTlmMUVoWEN0X29wcUlaREkwQ2pSRTRpN01xV0RIWERwOWRFc3VnajBBOU9zSjBja3k3c2JOYzJ1YUlNUDRiNTJIZkJmU1VhMFFTbkhZSlNsWUhMYk1EYWZZczJCQ2xhUkh6aUlsN0NVajJDeklYTTdKRFFHTThsMVpLTGc0SkkzbmU3YkdvdEpHUDlQR2JQQUF3TVJKZ292YnN5OXMtbEVKZk01dzdwOGV6bW9uMmFzUGtOazAwMG3SAcYBQVVfeXFMTU5LLUl5U1QwU3lrMi1yTUgtZ19fQzhvQ1Y0MHQ4T0R0enJQaUFjRmdheE5uSWJuUkQteXFmejd3NlhGSWVJQTIxT2VCbjBZZXgzbFdVLUVGYWVCTlBKdXFLcUdmNGl2N3R4enJlalpiU0d4WDdEV0VaRmRsdWZPYzNyUHJUb0U3NFBrR05VSFUyd2syMzZIejhmdzVkNERUbWdrNHctd0pVY1pOVVlqUjJ6VlMwOHFrSlBRd0J1cDBDeUNJMzBR?oc=5",
+   "published_utc": "2025-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandigarh University to establish AI-integrated campus in UP; announces scholarship worth Rs 40 crore",
+   "source_name": "Careers360",
+   "source_domain": "https://news.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmR1VnBPUDhfczdfU0ExcmFMbGdkTVprRFZnNXVpQ3VndDJWZHktLVUwbVVEUlloTDRkSE40TDlXM2k5YlJjMFJkQzcyWFYyaF9ZM19KT2RkVnQ3U1ZnaDU5X09kTW8wNFllWVEza05sZ0k2RkEzOUtqLW1fbUg3VXdRclpHazJvZW4ySVY3SDRrQmVUZ0lDVG9fUUtrbm9sQXNrQ3d5RXY3cUdVSElORWJ3bWNleG1Fc3FVekIteFBaVlBP0gHKAUFVX3lxTE0yaUlOdUNFLTRnOHdENWt1SEdkb0lYQnZpZ0RCMWhvOVNlWEE4a2h1TlI0UU9mcUlNM054U3VBcTNKLW5JLWdXbFBoS1NoaTRidVJjOEFlblVQSF9UOFVDQ1lxSl8xV0p6aVdOZ3B0eHBhVHFBa25WOGxvdXFtQi1KWW5ieFJGck9vTFU4MlMxTE1kS05rSHloRENrb3hKMWluWUJfRW9TZV9QUUFWbXctOWV3QUpNRWZXSTk2cXFvR1ZwXzJGOXBUaGc?oc=5",
+   "published_utc": "2025-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ab Inbev To Set Up Rs 1000 Cr Manufacturing Plant In Uttar - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDEyRGVZdzZfcVhad1pMNDBhNGdPSVZobnZISHB6X1NnVk1YeFZUTVpWWTRHdnVRdnlMd3lzX29ybmdwLWlpV2hkRkpFUUI2NTVIazJLR3JYZ2pSWG9rWkhYSDJvWlZ3eHpDVzhMYlEyNGtudnNMUUhPYk14aGpJOTJwQTIzQTVETk1sdzRwX2x0NDd1WmRjWmstenVvTGJNV3c?oc=5",
+   "published_utc": "2025-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandigarh University to set up ‘next-gen’ campus in Unnao",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2dLLWN4Vnk3Q0lWMHowZDdnTE5UUmRRYUNlZHRnTklCaU5XZlY5ekJZeDY0X3lXUk9oblUwdGJvNFp0Y000N2ZsOGp2R0pFRDRfYVptX2dvbjZmdHRvMGFtUXRlMDBrYXdkYmVwZkpYNUJmR3lMd2FvREJES1RFdDR2VnVOV2VBTFNQaHlETFdTTE1xa3p6dm5PY0kzSWp1dHlMcEtlOG5IM2JuU1QwcU9ORXnSAbsBQVVfeXFMTTFQMkhKemxVOVdjb0dLeVZxTU1NUFl6eWd0VEx5REREWlo3MDRacGV0TmxxUXFkLXJCUHJEVUtZNWl2ZTN0TWR4UFlWQm5UbDc5ZVFxbVY1NWFLUTJXNFJaMFphVlB6a3FRZ3hIckNXQ1ExMkFqYmJyYnpMTUt4QzN4MHM2ZXFCWkVHX200MWdqU0pabWlwSDd3NnpHRzFtY1ZBbEljc1hlUDNIMzdEYzR4cWthQ01fdkgzSQ?oc=5",
+   "published_utc": "2025-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt proposes 'no helmet, no fuel' policy to curb road accidents",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWt1cmlXbXVBNkNLY3VENHBVRjlCVkxnVnVnamo1VFpWMW1xRGNPak9rQWVGZU5obTVzNGFpc0NsdGhsckFpOU1lbzVtOVhlb2ZjUjEwVkZzTUVhWHZsUlF3MVM0cGlrMWpxdFA3VC1kWVRmWEVBYm5XRzlQWnk5RUxVY2IzZU9ia21Xc0tfZW1tQkVnajFUM1d2cFBET1NpazJYVlFoSHIyakxsUW5XOTlBVS14dExHYU1UM1V4dFpCNGvSAcgBQVVfeXFMT0o2aEV4T3FYdGpLaTE5Ti16TlZGQnIydG5qYUpXRVVULWdFQ2d2Y2JJUWVmS1BiWUlEOVBoVmlFZWdyT1QwemVtNVAtQ2hKdHNxQlVwN2Jab1NhcnptT01ZdWVpeUVUQjBHQXRfUnpqNHB2bC1GcXhMbzJZZzFjbnpKb1pVYnpQeS02OUd1OTBfakJtWVZzMXllbzh4cmtmWFNmNjJ1aWZHeUZKemkwNzJQNTRlckRRZmMwWUZTS3Bab21LRk1TV3c?oc=5",
+   "published_utc": "2025-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "Adani Proposes ₹1 Trillion AI Data Centre in Odisha, Seeks Land",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDhaZkY2dXgydmRsX2d0a29GbjRZVDNRSW85MHg5WVdnOFBJMmJvYUVTRmZ3eG5BNEZtMlhqcXlZcTB4Njg0NFdGLXRKYnhXWWJ0aHQycmczQ05SR1EyaF9ZRG5ueFNkTGdnbkpqd2lwUjdmZlI5U1hJNjV0MThvc0RVZGV1OWRJcG9FOXVxNVdWbUswaGM5Um8wek1qUUpKYWg1SUFiNkhzNllYdTJvMG93OHFaYWxpbTA5eG1RcGRIUUJHMVNVLW1BVkx3Sl9Hd3Y5ZW9NdmxiUdIB3wFBVV95cUxNc0NhaUlaLThlZXhaUkxuLUFlN3B1NEIyXzZ1ZEljUWV0ZHlMcTNNejYtUDJ0OTREN2ktMGRXQ00wRGZWQzVrN3lXVWJpR2pta29ScHJLR1QxZi1QeWZaR3BjYnVGOFZSeXFyb3ZUR0RWbjgtbmlSTVlFWlJMVVg2MkJzYV9VUkRMTkdWcWJmZ3BBWVJiZ0p6WUk1cVJROUdCZ1FqWnYtYTdabE4yajF5bFE3cEVMSXhRVWZtYlNkTTExRjluTDB1eDhpaUNxR3FtYzZFTERSbEJLMlZDSjNz?oc=5",
+   "published_utc": "2026-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Can Odisha become India's AI data centre hub?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWGhEZ2NNR3Nudmc1RHJlelYwTjdYa3pCaTZPQnA1VnZ3MGdvUlVoczlXbkdHc3dLZW9JU0F2c0FGVWw5WGRKeDZzTVZsWTFZQlpUWGc5WU5YWVlnVWtyQkVkMGJSLWRDSEpkbW9qRjJnNXRsWU1ENEV2X2tXTGpfTVlCZkpUci1rYkFqYk9wa1d2TUJ0Y0NEaWtfdk1pVkJnU0NUTk5zcWRfelduRnppN08zTlpibWhqa1pJeWlESQ?oc=5",
+   "published_utc": "2026-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Plans ₹1 Trillion AI Data Centre",
+   "source_name": "Maritime Gateway",
+   "source_domain": "https://www.maritimegateway.com",
+   "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WcDJKYnRnRWRIVXlsUks4bUtlbUVGdU9hTDdlc0hXaWZUNURUUzRIWExHdDVJUDZRQ21rWWgtRFgzX0xZTnQwSUY5dTdWelFXakdhcndlZnR5ZlJDaVZRbDBaVTR0dWJLYXBwcw?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani eyes ₹1 trillion AI data centre project in Odisha",
+   "source_name": "Communications Today",
+   "source_domain": "https://www.communicationstoday.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW5mWnFpRjZZbWdwcHJRY3dEbWlkbWFDSmVfd3ZlVi11RGVDRXVRenVYVmplUmE0Y2xJOW9MQUxCWU0wY25FZUFfSXhCbC1fQVFEcnJrY0xBeURBTnVPV3FkeVBINnBNQ0twcHVpSzloaXBxR0ZZUnJPdWUxN1E1SVdaT3M0THlGeDRTcGx2ejBsaWRJZ0FWdXZJeFotMzc4NG1ueA?oc=5",
+   "published_utc": "2026-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group proposes Rs 1 trillion AI data centre in Odisha",
+   "source_name": "tele.net",
+   "source_domain": "https://tele.net.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmY2VjRSUGFiZ1BpUmZNaFc1STJIaDIwYS1UQl9jM2Nid1lOSXR2OGdQY0ZBUVBuekFPdlRxWXZNaHhKUFJDWXl4YkRsbURPaDlySGNRRHgtNzRWcHZ0b3hFbDBZanZ4M2Y3M0VVTTJYMElfYXBObVJOcWMxMENtcmcyXy1KS3VLUFo0V0xMcHpjZEdsZlg0UFVJV2d1T29qVlpVXw?oc=5",
+   "published_utc": "2026-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha’s Gigawatt Gamble",
+   "source_name": "The Statesman",
+   "source_domain": "https://www.thestatesman.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcU1HUVhrUnVLaENXLW5ma0hsNk5jTml3SEZmdms2VnJJTEZqdWM1SGJ0Mm1SQTNSUWgxQnhVTlkzVk1HUUFlWERMcUk2eUx3QzdXd3pNVGtZd1ljLTNlZVRPajA2YnhQTVRBSk51bzJudW93ODhMT2FNVktPU3FuVWRn0gGHAUFVX3lxTE02cTNoVF9jNmlYU3ZEMF80NXBIelRhcE52b0l2ZEt3LWIwRGdVdkNjaXY1Qkt1RVlRSkhyWTlUMlJMSENvLU5HRFNteFZxbFVaQWw5MHZIZWhFQ0wxSUFQN1IxM2U5cjEzYjRmUUthNlEzdTNMbHVVNVBidXBQT1NLRHhPV2t6aw?oc=5",
+   "published_utc": "2026-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani group proposes to invest ₹1 trillion for data centre in Odisha",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjV4S3FncjRPYjgxR25DeWZ0QkJBdVUwbDIxUTRNYXpWQ1NSclpjZ0RYaC03OGNMZ2RMa3ZHTjlCb1lFY2JHeG05eElLRkljV25XOWFjbTVwaUo3QjJaTUlsZmk3b0hoUTQ1QlQ5NUo4UnY4dmZpZW5FRkJYVm9lbU91Y2F5cU1ORXN2U3ZsUEQwN21UOTV5c05ndnFDMHdiZloxR1VicHBQemZsMHdkUGVMdnoyWkF1Q0lSLVhtOWpQZnVlanhpcHFheS1RaXZYb0HSAdcBQVVfeXFMTkl6VzczMDhNUUlQcF80UXJmRUx2ZWdtUGROT2NfdWZhTHJRbFZ6SDNMdTc3TDk0cFI1SUdrdWxzeVMwZjA1RHNvLUkzV25ZRnVuZDFnN0xkTTlIenVaY01OZUY2YjJkbl9BYUMwZXlMYXVNMFJXcmo1bXJmT2ZjNF9tSnRmZHU2Rmcwek5uS3h1VDFQVmVKMnl1VHZMRzA4OFFHbFRQVTQwU2MyUkdYbWIyb1BVVDk5S0ZuYUFERnFsYndYdk5xN19rUGtNcldUZzVzWUZ2TUE?oc=5",
+   "published_utc": "2026-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group's ₹1 Trillion AI Data Centre Proposal in Odisha: Why Cuttack Is Being Considered",
+   "source_name": "Liquide Blog",
+   "source_domain": "https://blog.liquide.life",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNklmR2lCbHpOOHFhSmEwSUl5R2gxcFdXUEp6clFvMWFWZTZPdU9qOFl5aEVpRVR3WTU4S1VKWmQyLXZaejRYcEJPTFQ0b3BmcEYyZ1Noa2JjczU0YkxDaFEweGRLeDcxOGxvRXFuRWJIMHozY1hDaGw1QV9PNVpIaFVBM2pPWHJFUnlaOVpQN1ViUlBpOWlUX0kxMFpBZllmN3FoZ2xlVV9mQml6dDJPRE1SVlNRZE0?oc=5",
+   "published_utc": "2026-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group Proposes ₹1 Trillion AI Data Centre in Odisha, Seeks 250 Acres for Mega Project",
+   "source_name": "Convergence Now",
+   "source_domain": "https://www.convergence-now.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYkFXTklFVGNla1dURkwwVy1aenVIc1FqVFk2UklvbWN2MnhoWXR0bEFOTXd2eC1na3VHSnZ6clVybXM3LUpEM0pmZDlaVlVrTXVtbzZ3b3FUbXhaSVctX3FkZm04a2YyVXlQQVRrTzNSZWxCYkladHo5WVBFMmpLdGd2LUJyNUM5c2xad2xxRGd0bzRCWUZVaWt6NG5rcnNuWDRjUF9EcnBzVEctOHpOWGZWa0EyaHd5cy0tUXBWRVg5SmlqMXNoY2M0cmE5dnNaVEJ1RmlibmdCTVVVVFpDZTZCTVFvdENGQzBz?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Eyes ₹1 Trillion AI Data Centre in Odisha; Which City Emerges as the Most Likely Site?",
+   "source_name": "Trade Brains",
+   "source_domain": "https://tradebrains.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3FWUnZyRHVLdWhqUS1vemVyNVlfSkV1aEVHVnpySzNqRm8xWTJRZnhJX0RWS0VWWVpZa0JLV2J4bHlSNS16RVZDanhFb2c4TFVYbF91QWV4UVoxazdERzdVbWZ4ZXdqMUkzWlp6MGpnRk1LUGlKa0cxalYzYk5tM2N1d2drcFhTSElZWmd4YjVWeVFJTy1iV214WVU1dHFaMGR5Ty1jSnUxVXYwbkZlOU45empKeF82SzV3?oc=5",
+   "published_utc": "2026-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "Maharashtra Govt partners with Microsoft to stablish 3 AI centres of excellence",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjV6ZVN3bmg2LWItT0pnNmtObzZjeDk2dkhVRzR5S2VJR0E0WTByd2IzYnBtMDBKZXVKMzZZRy03UGRfaEJMcEhqZVJuREZBRFN1S2dZZWUtc0JncTc2UGM1aVZya0w3cUJRUGctZzYtSDlfcE9SeTNyemdRamo1ekJtbFpQc0Z0VXFWSFE2dkdPT3UwM09kelkwbXBhdWdjS0tGUWJmb1M?oc=5",
+   "published_utc": "2025-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Taking a major step toward AI-led governance, the Government of Maharashtra (GoM) has signed an MoU with IBM Technology (India) to establish three state-of-the-art AI Centres of Excellence in Mumbai, Pune, and Nagpur. These centres will serve specializ",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVRVLTNIcEFNMlk3aWhqV0wtRVN5YkZOT2F4azZNWWpQRkdXODhPS3RTMDBNejNpMlAtQndaeHZncjRuOER4b2k3YklyRmZaNXZRZ0FRaFNrSmxrMTNMN0s0cVI3XzhMSUwxdDZwQjFSSWpETTV0ZHhMRHNhRGRULVo1bzdNSGJiSWl4WVdLRWs2azdkUHdBVF9iMUJXbDVpMEtmZ2p4bHpSM2pwWThkMVg3dVpaWXpmZ0o2N1ZYTGVNSEowZVE1bXNHYTFucWM?oc=5",
+   "published_utc": "2025-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MoU With Microsoft For 3 AI CoEs In Maharashtra",
+   "source_name": "fintechbiznews.com",
+   "source_domain": "https://fintechbiznews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEpuMk83Tmp5RmJCbEF2YzdPNkxrUGYyU1JHNzJwazB5bE83dG9ndUxXdnFfX0V3RFFGaHpMa1pFeC0yb3QyM3dRaWxSYUl5dlR6Rkk2WGFFVDRmRW81SG4xWW5LZWZMRFU3eE5MZ3pKNFpYaVQyQ0FNVlhaOHcwUFlWRU9scTdmMF92VHkxenVPeWZSQXpKYg?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra, Microsoft join hands to establish AI centres in Nagpur, Mumbai and Pune",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVlFWeFFtRFh2ZTYzY2lDVTNCYm9JT0JnTzNhMnVBdmdQNlJHZktGZ2hpam1DM3pzU0Q3YjY3T3FpSVpfcENrUkQ3TDdhVnBRWEJFNU54OWhjQWdRanRfdUZ2YnpHbW5ITmdHb25PNkNJdDdLTWxLNVNCLURFYS1lZDlQUXFwdlZXeXh4di1pZGUtVER0OERfMjlfUGFfSWpiQjFUMjRZYW0tSmNHNU1IMGhvTkx6NkdsY2ZOVnBqWGp4WU91U0tNR1R5ckxhWUIwMVR6VDNLQkQ5NGpwQlHSAeMBQVVfeXFMTlU1aXJFQnFPY1JJQXkyZnZ6UGVndEhXdkxUamtGQ2tYN1gwVWtoTUxhS1dXUDJTUnpJdm1DMXRrQzIwWXd0ajQyTnM3V21aY3hJWl9TeTFEdmRLZVp0NFZZVm1oV0ZfcDVIZFNZR0FSTVhMZ1MxaldaSjJOZlhEeGNhYXBhNG9rc09QUy1sWlk0RDJxbGhCc01qM1E3a21NaFdqV1p1MDBsREZUMmpKY0Y3NFoxamRwNjZxam9PczFQYUlMMFlzWVNTU0J3X0tObkpVQWc1WHFvSDdpTm5uMlhVWUE?oc=5",
+   "published_utc": "2025-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Make Maharashtra’s NAINA as India’s ‘Science Data’ Capital",
+   "source_name": "orfonline.org",
+   "source_domain": "https://www.orfonline.org",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmxXdTh0V0J1b1lpQUR5OFp2SVlfdTlSZUlEWHpZQmJjV2V0TmlWVDhBclVVMlBDVlR6aFU3VllpM0Vjd2h6SFRUcFNmQXBuU0h1N3ozZWJrYTFXeFp2WW9hc0ZXWkNvTWdFMjY1Y1FEZDU2b2otRnF3bUtVQjhEQzVJT3FrVmVuSFFXWWRiZFZEZHF2QmZ0NG9FMA?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence Proving To Be A Boon For Sugarcane Farmers In Maharashtra",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmVSa3VJRTBITGllUU5NYmJZVklMZmw4U1BQbk5fcE5aMkgzRm5PbU9vam9ac1ZuM2xmbTh6MDUwcDZvSlVLYXBqTko3Q1hpdTA5dDdzQkhUaE81eVU4RGdLa2gzRDcwT1JleERaTk5xQWJpS2VtMzhUOGNDdEwzNDJSYTgzUGE2U09NNEhLTERSRC1ZREc4THlKOEtlV0VNTENHZU5WYWY5WEZlN2NDcndMZWZPb1NS0gG-AUFVX3lxTFB5UGFjeEZFMnRTaWdzM21oS0pGRW9FTWJGM05OUTkwTEEtYWswMG81VUhaX3VRZFBPWllKcWE0TUFzd1BrX3B5LVpEQkdocWpwRlZyZmRZRDU0RUZUVVF5aDk1TUVJaTVtZi1nZ2ROR2FzSzJJTTVHbzV3YXpZa3g5ZzdyaVp2UDlmZ1RGTFYyNmItOVhYb1hoUjBNYmRlczBxOUdoZy1xOUUyYnlFQ2dPNmE2bnJOX2NodXgwekE?oc=5",
+   "published_utc": "2025-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Free AI breast cancer detection now reaches rural villages in Maharashtra",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHWjNQWXMwU0packZvN0k5M05nR1dnYU1MTDFrODJBaDA4SlRRZHpsOWhaTEVCb1htY3JjV2NSV1ZTNzlTbTB0VWl4NEhmeUNWUXNaVjY0Zld5YVZFcVJGdlBVQmtQVWE4YmxqdU5TU2JoNHRwOW1jaDhmYTQ?oc=5",
+   "published_utc": "2025-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5 things to know about the newly inaugurated Amravati Airport in Maharashtra",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWFI1VFU2cUp2dzdnbU4zdm9YdXlOWG8tdklwbVI3OW52T0YzVm9hYmhyakxCdXpPU3ZtYVA1RU1wVTJ4WEZzZEpnYVRReFFvRnVyUWFKVW01clVISVhDYjdVVnpHMkczTXhoVklUbTVsQjdQeUE2Nm9ldmhpZ210dVRKOGtXRVc4SzRQUWFJTzM2bjZ0ZnJhc1Qwc1BkWjN6VlF6R3h2UHk0aHlvQTRDUHFaREtvVng4UFI4emlYTmFYTUx0bWhsbU8tT1d5U1Z4b2NfU1liaEIzQUk4My16VzB4dWw2V2NuWDN5X1NhbGNVaHJ1QWxCZFU0c27SAYQCQVVfeXFMUEMxUVB6WmczU0VGN1d5ajFCeEZlNmd3TFl3WkpPTWtGYkdIb3drNFhxNnBSZXctS1k1RWJiTHpXaVhfdlJCeDdqLU9oMUtUX3FvRFVWUlRNVVh3b0o1SXR4V1ZYazYyZU9fZHlZX21tbFN3enAwQktyMV9Xb0E3Qzk2TzV1VG9ReWhobXF4UU9YaVREM24xZWs1ajByV2NtbzBCWnJTUmkxbDRvZnNocmtjMF94QmlKcHlCRnJ4cWN0NkZkTV9KZWN1RW56U3NSTHctc3F2UWNBNDk5ZFE3UHZzOHBEN21NaHU3cWdQOUF4bE53T2pBUnJfUlJ6aUhEeXFZSkg?oc=5",
+   "published_utc": "2025-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM pushes for expansion of Amravati airport runway",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWEE5elB4YnBpOWtYNFF1ZTlMX0tHRktMUkVYSlNSRzBXc3c3WWtTX3VidkxaQk85cHpQSWEwNnNtM2xETGF0R2F1NGdGOHYxYkxKam9MOGlUUWxUVng5UzhQZklteG5pUVV4UHBmNGZCa2RVNEJzYWZxVXVjX205UGVPbkUxaU5ZTzZRVEhRTmVWWTZEZGItU3pNUXItR0s2Z2FZUzNxaFdTWDVUWUFaU2dzRlJYQmhJc2g1ckFQbTNPZy1QVUpXTNIBzAFBVV95cUxOWnNtTHM0bUFOTFNNN24wMHNZdlZXVjQwbzY3MERNeWprZmNVZFBCSU5jVUFZZkRraGNBZWs2NTFmdE1ISVJHdDZVRTBGU0hDd1dybTR2OUFJRG5pRUtLay1TS1Ridmd3VW02MFh3WkkzYUlHbjhILV9icG1hbFNmWi0xbHhFNUdHN3JHNzA1SmlIOXBzS3NTRkxOTF9qZXBMTGhXM0JaMGZVVkZwLUdmNTNCRFh6d2YwWnVscDNJTjVnQ3pndkxrdFVKOVA?oc=5",
+   "published_utc": "2025-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former MBMC Commissioner Sanjay Katkar Appointed MD Of Maharashtra Information Technology Corporation Ltd",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS3h0X0J6ZWRUQU1BSEYtVldtSk05aW9HSDJtQ1RsX3ZieEFncF82N0ZkM1VHSUlPeDY2LVJmakh3VmJscmVXWXhkTDRCY3labGlDZXBQVy1WRmdVZ0ROZlY2T3V0VExyelJXMVB1ZmE0MDFRRU5JTUlUVHFRUWtPRUI0Y3ZjRmlNbm9tNGZxeFYxRWZRaW5zY0o0c3hPWGRvRWNWdUx4YnNHenNkSmtodkxCNkpwcUNBTk1BTk9NdjUycDlvR0toN3h3Uzh4OURibVdseWt3ZklueWVo0gHiAUFVX3lxTE9UNVc2LUhQRFp1R3dncHlMWmV3R0NiTTN2UF9reGFqTUlLREx2bnVRaHl2Ui1RM3dDZFhoVTdBNHFCWm5XMzg3cGpkRTNjNElQdTBCbXF6ZWR4MFJOWlhtVVdqMXRDN28teXZIWGs1UmhPWkM0U0pwaFZMc1c0T2xQTU1KTVB2MFN6UUZGVFcydVdGYkU2TTRrajAxYTFLVEkxSXdBaHAtUEs2bHhLeWRLYjNZM1NrTXhVU1hSSnNCZ3Q3VW9hV1ZOZUxSYkVHamJISGsyeEM5eXFfZ3JuR3BaZXc?oc=5",
+   "published_utc": "2025-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

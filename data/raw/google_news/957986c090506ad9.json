@@ -1,0 +1,61 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Analysing the Data Centre Policies of India.",
+   "source_name": "Nasscom",
+   "source_domain": "https://community.nasscom.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVdHMGhRQ3l1TFpUU0FjQTdoOHYtVnVGSGo3YVpBUEpnV1dhVUJxUk5fMXdrRWxrMUY4MmxmNUNHa1NBSEZwaS03S2dXY28tOWR5NUN3Rko2c1B1WEIyblJ6WFJoM1NGUjRzeXhISVphYzNmNHRjZ3RGeHdwdHUxNWJFQUc0ck9BT3M5dmltQkFPQnRoUVE?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt Invites Bids for AI-Powered Legal Petition Drafting System amid trust and safety risks.",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMC05MGFQeFV3dmRuc21CcEZhdHJUem1vVXJIZmsxOXFGbnVVNTZWZWJXMU5LdnREbDlpTTBWR1N0ZGkyNmhwRF9jOFNLX0oyS2VnU3RKeHgtcWxfTjZ0b0pwa0tHZ19QUWVOU2Fma3RhUEdEWDMwMDlwS3g4Y3pObA?oc=5",
+   "published_utc": "2025-08-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha bags lion’s share with\nbig-ticket projects of Rs 4K crore",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2N1M3FzOUtSSFJ2SVhTY2pqSzh5cHZTUGx6UFZxXzRNVVdOckdOSEFQeVFDYnRJOW9DSTNUUnNnZjNFYXc2bGpINlZIeTNvSW1uYjU5bGxzc2tvV2xKVVU1OXJ6OUpId2tpMUd1Skw3bGYzbGtlSjNLeFNQcFpoLUxueEJvQl9CVVZ2VXNUOVE3bzBCajI0NUFVZFhOcGlhZHZFUG9Ra0NOOENmNHl6aDNkRS1ELTV6bXliVW1n0gHLAUFVX3lxTE5iN1Q5QVNnZTlVb1ZSOUtvZFRZUURCWl9Oa2Zlcjc0amJFNUJzRS15YVdTdDZoTUI5YUFnRWJhZ3FZb2hyQmEtOWphLTRpRW5FajRHNWtCWWdVd3g1SnF1Q2RFZ2hBTmdFSk9qUk92dnp2T2Z5WFVEQTRPNHFxampNSTBSaXZKTlNia2VOUjdpaHBRajZ5OXJYT3B6QW9HRklrNlJ5Q1JzYndXc0c0MF9DMWRfRzNCcHNQY1Yya3BsaXVrdWNvSDR3RURR?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Cabinet approves 2 semiconductor projects worth Rs 4,009cr for Odisha",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYjVHc29sM191SGFsbEd3LXFpUTZOdUdBSTcyNDdia2VfeVNZbTNYV0Rrc3Z1MnVqNEUyc0xCNHZnb1ZkUnJFVDJIZzZDVTB1OVctYlhpZVB1b3FxTkVaNU5mckNfRU0xQUNYMjVUMlA2eXljZ091a0RRbGNhbmNjSWV0MkxGZHVKUHpDbk9tdko4cjlOZHJrSkxzYjVNcXJaNWVKVnN4MDZKX0dKNFZ5ZVFiRDlVcng4MDBvc3BjRjlFTGVCVlFnSzBBYnFfd21QNDBvTGE5TElFWlFXNHdEYTdGUlh1dGlY0gHuAUFVX3lxTFBONUxVNkFZMEJsRTVGUTFuZE1BcThXeFhEVHQ5RHU5ZDBmTFNQeEtWQWJtaGlneDFxSzVlWE5PSTh0Ni11SmYyaFdzRlJHM1BsODBhbk53Vi1QTlFzNXljMklZWTF6alhIZ0VRaEZrUE1FVDdPYWZnaTEwSS1tbDVMcElfQlFwNnVqdEdLaU9TMWVkLUdjR0ZuNDJhN01VVWlYdWl1TWFMMG5Da2dVejRBaDRGOHd5aEJ6ZXlkMGtiazFwQ1poVmJsVWY2aHE2M01tTWFWTnhHMHcwRXYyeWozOEg2VXdNa0VnUmZEd0E?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AECOM aims to make India centre of technical expertise for data centre development",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSHNLTXBaN2ktNzZ5cDVGMl9YVWMzWnNTbjNheXBvQ013bjNpeWd1SElTT3NfZzJYRzBMQ2pWNlItMmJiY2V4Z040UDFlbkRZVFNtanY3VmxidmxxYkQzVzY0M1IyVnZTQmRzeDZUbmhXbUZTWU1iMkxXZnBKcHR5ZGlNYUdhWjBEVWlsSk02WVZzNDNHZmR4cEZLc3EwU0liWUFhaXBiOEFoZTEySGdJMWZzVE1Ob3hvLWZ5MkhnYkl4dktkTTVFR1dIYkMwb3J5Rmw0YzlUSDRMNmlvNzc5N0p0enVlVVFOWnFvWmVVNHNEd9IB9wFBVV95cUxOLXl5UERwWUFmZk1rR3hUY2N1aGhxWG1EOHd6b012Y3RZbkRMc0tmZ3kxbGV4QXMwdHNJaTlpOXhpcnF4bWZwUEZkOVdkYW9mMGZycC1qbkxxMDhrVEZrTDdQYVFyaUJWYmc0N2lRSHpuaDR4aGV0QW5KNDZlcDAwXzc5UmVfTi0xMmxMeFhqN01IcVI0cWhoN19fTDdCWnRFQjlZNjBfQlpHdlRDRVhlc0U3RHVJMmtjUEJGSkRCU0Y5V19BQm4xR3Z0Vk43YTYyTXdGUTN3Y3ZQdFZMNjQ3MTM4RjFMSmxJb3RvN0FNNkVvbUt6OS0w?oc=5",
+   "published_utc": "2025-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "EV, hotel and green energy projects get Odisha government's nod",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnpTSzFEdkZJZUIzRGhzdWVTWG9WOC1xcmswd09FUEM3dkZ3Vnc4WTR4Wl9DZDlmclBlZVhlRDZDbVJpczNGcXJGQ09pUmxfM2dOUUpMX2s2V3JPZVJaWmlHMkJFdDEtd1FBN1lpbFROLXZ5ekRpUHpqdThET3E5aXc2M3FoNDRTbnNCUnFtV3lNX05keVEwLUVlczg3ZWtiLUZfaTc1UjZyX3BUSEZwdVBNbEpRWGs0UnlIVERmeE5NRTDSAdABQVVfeXFMT0Q3b0ItdkE5bFhuYVVTRWUzazhVSmxJUHd2aHM5amVTanhZT2tzLVRzV0xfN1VDUXVzVUFQdWt1aExnMG9SSVNFX2NtcWxEQU5PWWlSUUJuSEJjTGQ1Y3pQbUtDdGxVMW1vSUczYno0MlZTM2tzN2plaTVSMlEyM3VaZDItQkw0RHhpRUx6cjVXU2dnOXp5SEdfelBhbzlLYTZHbHItcHZYQ205SUZYd2x4ZkpramtTaGxDVjViX3I0TG1IcjZKSkQtMU5DZzhlSg?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt Approves 18 Projects Worth Rs 4,515 Cr; Six For Khurda",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFFDYU9RS01uTnlVTHFFY1hIaktKZHN4Rlh3d2ZBbGFYeE50RHc5ZVhnZ0tiWUM1ejVtbE0tRllLMjV1b2RoNk9pVWdZUkVka19zbXEwZlVraTJUQjFnYTlxVFBhRDlfYWcyWWd1OTZPZEtLM2dEQ3FpSFVwaDhwS2pGTDZCSmZrdTBsaWpFVkJQVWfSAZgBQVVfeXFMTjQ1Wm5MdHNzaDFYenVaT0JGMExDbWFoNFJ4UW9wMXJ0WVdxZGdXUlJpdEVlaVB5bXlDMGVpM2RVMnB1WHpmN0hRUTg0dENYX1h5TXhMclZjTEpVWnVHeUdzUF9hREJqRmVGdUsxcGI5Z1Z4NkpqcENyRGctR096aXY3akFQTmo2TjJKaFFxYl9LVWE2ZFUtRVg?oc=5",
+   "published_utc": "2025-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

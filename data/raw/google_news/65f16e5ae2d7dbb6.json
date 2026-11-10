@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "AI for public good: India’s ecosystem approach to innovation",
+   "source_name": "World Economic Forum",
+   "source_domain": "https://www.weforum.org",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXFZbm10MlZ3Z1NVeHBsYXhESUhRLXVzaDJSU09qRGZKVGc1NFRHRkp6cUFySXFERTJsVnBiNlR5VFQtZG04WmZTTW5PTkhTQUE1VkdVaTNfRGlnQlVuVW11MUE4OFBUVUYwTko1eGtaNldTb0pYME55dXYwWG92WHVrSXVoLUh3OFBIbWx5dGZ3NndRVEtra1lFQVY0RTBOWklOMUluUVBwVGtmTFRn?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tech team formed in DGP’s office to drive AI-based policing initiatives in Telangana",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2RsdEthWU05UDZpRDJDU3phZm1Ga1FfNnRETjRrRmpiUHo4YjJrS1F3T2xBOUpWTS1adDhVUUhaMDM3VHdudHl3aER5NXd0cExMV3JkUkl5ZDIzb09GQy1uT1V4Ym1xSXAxb3VQbm5vOW1sOXdPUTd5anlnWDltSmIyRi1QTEhKR0NsdE43ZlJGblp0OVFPbjI0OU5vNmp0NjRHSDJCUjBQT0JCdXpmMGgxTWxseUMzblNpek0tMlNaOXA2SWJ2TVRpejFseTFIcFFKX0NYQmJ6SlpueWF2SXNOYmVpME3SAe4BQVVfeXFMTkx5Wjlydkg1eGtrc09GS1g1RjlMaDdUcUV3NjZ6dEc5VE53NWs4bDdqSmtOOE8xSlM3YThJZmk3dGV6MUdfWXF1cVpqd19LeGdXQkZPMk9GZk1sZUhBOEFwS0htb3hHeDNpS3RNMG84R29kX0JBT0MwWkgwNGZydEM0ZmNkc2tVWmhFOUNWa3RVdUdHd0pDQkFMamMzZVF4bnhrNUxyVDRSR3Q4cDF2RnNOQU1DbzJHZHZReHJCcXB4cUFtaUhkUEFBU2hkNkhTQkJrLVlLSnZMNURNVC1MaHBxS3plX29OR3hKcEpYUQ?oc=5",
+   "published_utc": "2026-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra signs Rs 1.14 Lakh Crore AI data Centre deal",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2JncmI3djJrckRTeWRBamlCQ0oyU0pNd3NuTDQ2bV9Sa3FrSmF1V0tSall6QkUxS3NuQnczbWpqQ2dHVGNHMy1TZzROMWFOZnN0bkluTzgtVXVzc2ZPeDI5MXBMTzFxLWN4YXA0WE01ZzhKUDVfRzJSb1h0dS1EdG9VT2ZPSGdFWjFB?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana police to launch AI-powered ‘Tech Team’, Marvel-style task force for smart policing",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzBxU1diMk95YTZLYnZ3SEhyMjRhQ2JWOGxKdjluRDhrSHlLdFllTnZZcmpWME5FODUxWnNodWJCb01aNHBoemJNeFVNTDZvNmhLSVQycFZaeDRVZUxNS2VtakViUU1kcHJaSHNLaUwtUG42OUdVV2d1ZngxVEJuRFhHSG9qbjdxSVpRRXVLVy1YdWc5Z19KMzFsczZSRk56OE92WGxUVlRZcXdpc05LNmh5SGhNZUNQbmN4TmpQQ25SdWt3QWd3cHdB?oc=5",
+   "published_utc": "2026-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana to roll out new AI programmes from 2026-27 academic year to improve skills of school students",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVHhaUEhDdXE2Ui02SHRaV01BRll2cl8xSDBlZnlralVOcm1zWWtuOW1YOVJoanlYYm9vVXh0a0Zaa0kyT0oxV1U4VVdTUjhmdGpRa3R4dFV5SFJpTTRmcHM2YXVSaFpFUVdySU1HWmNvb1dZZ09QYTIwRVlEODM1ejNvR3JjTFI0TngzT2RBOXRIWk0xSU1MVWl6c1lna2ZwY2F3S28zblgydU9JazNxS1FsUENhUXpQSlFFTkZHYy12N0ZpdC1nSFhaOEVHQWotS3Rvczgzc0JtRWF6X2EwZWZhSFo0c29jVHNHUGJHRjc4ZU5Qb0llTdIBhgJBVV95cUxQYmk0Y211dHFkWmlHaW9XQmNVa1M3NTlvdHduVFpaNnVuRklNbnVOYmh4VUJKOHh2RFVUZ1FMRElFcEdlM1hOc0djZDhtUzFDRk1rNDh5MnpfRjQ5Znp1UWNBcXVGd1ZsTnU5YnE0TEV4M01BUlA5VVR1R1NtVzJad3BBbnZJcjc3RUl2S3g0X3hMOUJRLVFISnVjNHExSEw4eDFHa2YtSm5fNFo5SW1LZ3YxZUdVNTVwVWNrZ3hvUlVrbnk1MXg5MWZ5MXRZQ0NTWFF4M0RKME1rcVhjVjVBRGExamtIdzM4emZUemlZckhsWHdRZGQ5ekphdHRRN0VYODl2REVR?oc=5",
+   "published_utc": "2026-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Case Against Hyderabad Engineer, Assets May Be Worth Over Rs 100 Crore",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUTJBbXYwNlp6NGpnT2o4aTZ4US1EbS1GdHNsVWpiS0JGUWxIVnhyTGZQTlAzOWhRaTNJczQ4UjVKOU9raVlQLWpQTEZMRkdCbC02bVl0ZjJzUWZPckZNazNQcGdxNlMwMnRrdzhFLWM4cnp1ZHFDZXpTUWNYZzN2ak9IcmVqSnRTU1pucjE1LWdJMTF5dkE0U0NLcXdNR0huV3M3S3MwQ01uNnhTanVnQklSUUTSAbwBQVVfeXFMT1NkVmlKcHh4TURrcHRaZTZGZWlSTzRYa1JGVTl0U09oZTU1Y3hsTkpqY2VXLXJuckFlbldQTjF5ZDJPS05ZSWt4MlcxaFNwNkRLbDA2YlhhUUk5QjhabFhLcE94QWV6dW1XdmRER0sybWJrTU84NUo1Wk1IZVA4RWY0Z0tpWWFpLUFDUE5RZ0U0RC05czZmNkFreXoxRnEtSTZBLVdwSEdmR2hSNzR0WHFPTEg3LWoyTEs0WGw?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "86 pc Indian employees use AI, but ROI and governance lag: Report",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFdpVkZFcWJ0eENpWHhQZGNvdjZPdTdLdlVqZTdiY2pxa1NvV05XNkVNWk80NnpqelFTZExILWtJZFYzMHNiUFhyMVlEWGI2WXVmU3hMekxKbnBObVc4Y0xEVmE0SVhXWEdnRnZOX1F1ZG9hR09VOThDZ3BjbnVjQTJ5b1JiVkNwUFJLQXc0amUxUi12?oc=5",
+   "published_utc": "2026-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIMS to integrate AI tools for advanced patient diagnosis",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlAycmd2TTg3TkQxSWYtRVRuaXltd1FQQzRPb3hYY0NnM3BsRS10YlJyalh5Vk5QV2wtQXpGSkFfUmxtYzhxV2Z6cmFmN1pJYWVvT1ItUGFnYWNvMEZOa2oxV29jeU9FMnhOcndMeE5LMHBkUWdsQ1Z2WkNHSFV0NFcwc3BOMGY5RDRmOQ?oc=5",
+   "published_utc": "2026-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala to set up Rs 40 crore twin AI centres with Centre’s support",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDZqMmRtOGpEdDVIc2NfQ0hDSThCTXZFb1hCQXR2UFF3czRnaTlWSGZLc1VvSS1hT001cmxFM1RIelduOUZRM3VDNjhodDJsb0l4b0NhdVZwWXpGU0ZrVV9ITFJqd2QyVmZ3QUFlVnAxMDg2ck9zWWo0YW5vYnpPX3I3eGhKN1Vad1RPbk9ldUxMcUtGaEdB?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani says US legal issues behind it, bets on AI-driven infrastructure boom",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWhhMGtFcVVfNTRRMWpUbUMzUkhINkR4V3c5bTFLQnB3Q01LQXRSYjFYOE9jS2ZZQ080TEpwaDBGSVNaak45bnd4aGlEZXBKVnlqZGVwSF9hM1RNVWxKUFREQU4taEZlMk5DQ3ZlQUI5YTFBaEMtdzhJMXlGXy1xWnAyTF95UkdZN0tRRGZDYjBsRERYVlRuT2JCX1N2QXRYbGxr?oc=5",
+   "published_utc": "2026-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

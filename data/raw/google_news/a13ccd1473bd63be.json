@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "Why India is Building a 500MW AI Data Hub in Andhra Pradesh",
+   "source_name": "Data Centre Magazine",
+   "source_domain": "https://datacentremagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXllZEg5N0tOOTFxck43M0V0aGhWUmZRejJLdVZOTzNIUkdHQmZyREs0UlUzRDhIRmFlcllLeGNtYkJOUVVwZ2Vhc1lWNW1GRXNNVDF2c3I0eHZaOW54dUFMTVZLVVU4VmI4cXJ1WmlXUUYzQ3d3dVZVZnY2MERWRWk0d0Qtd0VydWMzeEJoaGRCV3hxS3BpSGpuWQ?oc=5",
+   "published_utc": "2025-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Visakhapatnam is the gateway to global trade; key for steel manufacturing, semi-conductor eco system and sea food: Union Minister of Commerce and Industry Shri Piyush Goyal at 30th CII Partnership Summit",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VX3I1UzZRTTVvT2RqZ0h2azRONWNtU3lXczYtWGJoZzBfY0FTcXJIa0EtY2tRQTFZRHZXSXAzV2xoTFFLVjFwUTZtdE9NME5GbDlwb0pIemUzSHpLcVZ2TFNsNWwzbTFT?oc=5",
+   "published_utc": "2025-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance JV to invest $11 billion in AI centre in Andhra Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0IxN3ZyTU1lMmE2aUhjRENDTHFVRFRJQUZIQUpreVE4ZTNQZGdGSWdlcjlsTXFMT2JycFRuNWcwMWxrU3Q0dExQak1scVpuRXpnRUs5bzRuNVhaeXZON25VZklMX0p1b1pQamNVLUEtZ0xaYmtvOFozTFdJLWdFTS1zTGRLeUxrVGhfMTZYeTY3YjNDR1JDZDRXTURIQUJiQWUwbnItWm9Pd3ZOVVdtTmdWeEFFTTU1Tmk5T2hxRENfdWhNdnd30gHOAUFVX3lxTFA1cVl1Y0lxMnFTY3dGbjZiUnFpSm5lamFGb2RHTG9ndmlSVTdsWHZJS0dwSEFQSURhWHdNYm9GQjJ3WUhvRzF2VnU1S3JjWXdab0lOOUxBLU1mOTF0TjV4eE9KaTRUV0hEdlVmTGJ3d2dERG9MRjJvMVEwRG5tN1gtRGlTS1BTaGpJSnR2bVAyeDRXaFdJZ3F3VG9SWHJRbkVrSWxEalN3b2gtcm4xN25FOUo4TVBaNW9GX0RjRjNQakVKellfTzNkUWEyak9B?oc=5",
+   "published_utc": "2025-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance to set up 1 gigawatt AI data centre in India's Andhra Pradesh",
+   "source_name": "Reuters",
+   "source_domain": "https://www.reuters.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanF3RHpwOGxNb2w2OHpHZTZTeFJEOF9rQ2dEbXdna1NWWEE5dnVubFFfNWVJRnRrNlVFejFGdDNZR0l3SFFCRGZRdkpKaUpheUp1SUg3QTVqbUhoUDM0dlVBaDBHdE5uMTJfOTlzM1pHQ3hGQnBiVm9UYWlRekU0eHYtV0Ffdk5LcFJ4Yl9NOFlVNHZwSUQ1UHFEb0xhY1ZzUEE?oc=5",
+   "published_utc": "2025-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google, Meta, Amazon: India’s data centre boom confronts a water challenge",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FU2paWlhsSWhTNzNQY0xsSWxpdFVwcTlVa0hLbnl4dHVmY3M3a09Zek1ZUGZhcng1LWNQbThHVVhIbXp5WktDU2hOU1hZMC1nSktpNEFHSWdqQQ?oc=5",
+   "published_utc": "2025-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance Industries inks MoU with Andhra Pradesh govt to set up 1 GW AI data centre",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZVJYM2VnWTYya3VJS3J0VG1FRHBTTl8yUk00eXhVY3E5cWh0ZlpEbXNKVk5NdkZIOUtPV3lYbS1WVGlMemNYWDNJQ2IzTndLbVUyS0VnWVk5NEhxUHRoQ3NETjZvUTNpT0hqSDJ2SWo0Z0w0YXRSc0RBd3NiM2tLdFlHUlZhYXNtb0d3RHpBMWtMR0FSVGtrb19IOXRCU1ZUdnRYWnZpOEtEcktzdi1JWWN2RFVNNGVjelpMQjZDeGRwS2FoYkQ0NlQ4Zng0WXZIUGJmNFUtWDdJQXBZV3Y5SWdOa1rSAeoBQVVfeXFMUGdfaUh0TFRBSDVlUXppNk1MZG0xOTlqVzRhMmRxeENXVDB4WjNqTFRPdHNZLWhqWGN6cWhYeHNVLXQ3YVljOEsxQzhyS1Z2X3NMd3J4MFZtLUJZRVRjYWxiMVAyc1E5NmkzVzRsLVV0ZTROVXg2TjY5ZmI2dzRDVVYyN2FPbUhoN2RKWVlKRmFRZ2s4NEJqcU1IYlRRZDVxa2ZQZ1dfVlpWR3o4Smp0M21XckpoamdHa0dldzktc3JuVFNuWW5CSVliX1V6bmVGSDh6cmUwV0JDelV1UEtXcnFuVTUtemNjWmF3?oc=5",
+   "published_utc": "2025-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chief Minister N. Chandrababu Naidu has announced that the Andhra Pradesh Skill Development Corporation is joining hands with three organisations — WISER, Qubitech Smart Solutions, and QKrishi Quantum — to offer quantum computing training across t",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeEJLYmdXbGJNbndtWVBfT2dEQWpkeHNsblQ0RkdrZ1d6cDkxQ3hGN04wcWlWUlNnTUNoTXN6Ql9FQ0NQZzNXT182SFVqOXNFc1dEMmdtNHVfbzgtdU1DTS1BNVVUeTNoZzd5VV85UG84Q05ONjJ6YTNZVU43aGNZVjdTbnNWSW10QVlMc204eHcwNDdiTkUwdGRRODBVT1RIekRHZ2ExR1JVSTk1Mjg5SURQRFk4aVR6ZGxhYVRzM2FITjhBZGtvTFJwdVBlUGVrSEZmLQ?oc=5",
+   "published_utc": "2025-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital Connexion to invest US$ 11 billion to build 1 GW AI data center in Andhra Pradesh",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWkzZ19MR3NLdjdZT3o2bGQ5MTlKd2VBRF9Ed1p2djBBc2FWSkluUkVFMnBDT2t3SmJObDJjMTZFc1kxcFlXdnJEZmptWVdkUGJvWTNuYm1EVXQ4OWV5ZWNmbTVJNEE4T0RybUYtbkFwdmJzQk1nYjljLURxR0h2emQ4OHQxalcyYUVpNVhYYW9Fakc4MmNBLVZIb09hemRVRWxuaThNVlY?oc=5",
+   "published_utc": "2025-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s chief kingmaker sees Google unleashing $1 trillion boom",
+   "source_name": "The Japan Times",
+   "source_domain": "https://www.japantimes.co.jp",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXBkQndkWUdMaFRQY2xJeUZCVm1HdGVUMHdVSzl6cEVtNDg4MkM0bTFGbGJfY2Ewa05XOEh3WEtpWEVCb2ZLMkZGbENXWVAzQnRkSWFFWkVhY1poZWl0VnBlY1ktTjRuVEJJaHU3SDcxUFlaWVlTSGJuTDdlYkFMZmYxVk0tY0hB?oc=5",
+   "published_utc": "2025-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Industry summit drew over ₹13 lakh crore investment pledges: Andhra CM",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTEtTX1RWaUdYWURNM3VwaDJreGpHa0UzU1NJRHZNQ2tYY0N3akZEbGc3LXlMaUVxektLUzk1Unhod05YUmpuYkpZVmNkOXBDSGZsRFlza3UtNnRSUzh3ZU90Smc1SGtwd1VscVEzcjd2QWdDRGRlNFI3T3A1YU1jNnJBbmx2S0pVcjJyYkdsQUZiR3EyeG02Rm5MSXNPSzlOUkhiWFJVdDZoT2psdmw2eGV0dzdIUkJiTGNfNk1MRkxWTnRxVFBXOWx0cy1meXNRRUlFN3J4YlNpd9IB4AFBVV95cUxNWXJHTWNNcW82cHpfeVcxdU5ra0FuYXZxWWMxaEw0dzBRLUt4X0tEMjgtREo2UjRUX0NqUkhVcW5ldUdvQ0JWaXpmYXZXYy13SC1xQlp3YVRmZElseVIxWFYyQmxycDFYU2tIa0FfekV4UFp5ODlRZFJ1VXphZTYxd041ZVFzS2tDYzJmRFVaakNjZ1djR19tbUJjMHZfOUI5enZjYTJVQVhGN3JPbkEtazBRTWJFVkxxS09RMTQtOUJ5cHE0anBzS3lxVURQUEV1ZzUzV0VVQWpfZTcyVmlDWg?oc=5",
+   "published_utc": "2025-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "\"Bihar\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "IIT Delhi to train Bihar engineers in AI-based bridge design and health monitoring",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGVIaGFWajNrT0pSclBYNWx2TlBOSzBtc2RXRjhXX3J5ZlRFV1JJeDFZRGZKLWtKZ0ppSFpEYTdnTGtvTU94OVFDOXEtYXZvOWZGS1Y4WS0yMThnTWVVa0ZLNm11OGkzVDZaeFItQWpsMHdJSDNTeERhaHVPWEZlZzZ4LUs0aERfdFVjUGt1SU9OTjhLY2JQODVLd2o5SDlDVlVFSmM1d2UzQVMyMkQ0YVhISnc3M2pUWmMtaHBfX0ZXQzhsSUVCRm9CTUxnMnhkdHdwOXhkU1ZqWC1CczNpMnZCdlhGSWx5TEFJ0gHwAUFVX3lxTE54QVFVeW1hVk1LUGZzSlFEN1Y4LWpXMFpfcnNaU1hCRnFyT0RUS01OQVd0enJlZ2JVdlJkNk1nSkQ3ajU2SlFqNlVJeXVfRUpSN2ZfdkZucVM3dGpXX3NTdDdmREV5TmJWVkQxdURyR0ZlZVp3c0hldDdhOVdhUG1Lcl9zZFdKZjRyX21NWTJxRWpWczRKX3haNEZjSjlGWGx0ckhZYVl5VnUtWllTY0ZNOUQ1UDh2REEtZ2o1LW9IOWpBNkNmY05BNnZZMEE4dHJLSXk0bzJkMk1TQ3M5V3EtcHBKZ3ROcVV5eFh0dlktOQ?oc=5",
+   "published_utc": "2025-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar govt to use AI, ML for bridge maintenance after series of collapses",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNangyNF9hdW91QjYzMnRLN25vOF9zTV9uTmVRcUtkOXpQQzZNM3cwYjhELV8xcVltWVdYc29qOGJ2OUJnMlIxNy1tMlo0Nkg3Y1RFMzZISHhFcEc1VkdhdUo3bmhOa0ZSVXFlbGpaamJFYjRUWFNWd29QUk1QMk1sb3pVMWY5T0RWRG9UaHMyTlVwcW1WQ3dKcjlURXpWemlzOW14cW8yMUIzbEl5WmRKejdTSWJ1V0FXbXhBLTI1ZTBBWGlTY25ySTlHQVlhUG9CdVo4Y004MUNiNHE1UkHSAeIBQVVfeXFMT3VUYU4xQ05JRmdob3QxWU9aeHFBMklzT29JeFlESWIyVWRaN19iY0xNVWtDWTNKMk0yWTYwYV9ZSUdoWXhwMVVWR0psNGszQVAxT3phU2ItdVNEbGtDcmZ1QW9zYWdDaU0zTmY3NE56ZzE1eEdRd1VZZFlfVl93bnVHd2VRTUhWSUhjbDNIaGg3bEYxVFM2alJTaGtxRnBpYmJfcWVrdWI4Tk03MV9nUjdWN1l3NVl6Mm0ySDl6cDVodmhseHAzQXg0aUVOeDBDWGRpM1hDMm5TOENGWkJRY1E5QQ?oc=5",
+   "published_utc": "2025-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "10 IPS transferred in Bihar, Jitendra Kumar appointed DG of Bihar Special Armed Police",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnB1X1MwRGxCSmI5MGxqTHNjX3FXZzFhbUxWemZEN2hLTUVmV2luVXJCY3V2ZlZTZnk3TjcxZS1LNW5LNG5OYXI3aXZST0JtdFhDZ1ZNZ0pyZG1lTFhkNzJPSXFJYVlNdkRjNENaNXRiRk5UNkxBM0pWbDI4b180NGFYeXA2R1NKYVZldENzekJobmRnZHlwVmQ5alNZbFppNmQwM0xuQkVzZ21tVnU2dEtOQzB1UFBiV0VoRkhycEM?oc=5",
+   "published_utc": "2025-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Physics Wallah to provide free JEE, NEET coaching in Bihar government schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVRnZVd5MnVUdlg2d0ZXMEppaERNVmh4M2RETTdsQldlTUFJNGRRRGZzUFRsQjNpQ3dmc2p4clotZXNYV0xlVkU3SFFQR0VPSE81dlFaajNpZ0JoYldoTmdocVVFNUd2cWY4Q2JEMTd6VjctRVpiVWxSb0FDd0h0Z2ZSbldYYXRDZWJ0R0RvX3dFWHRrcjFOWDlxN19HNGdvV2xxVldJMjBpdi1TcHdGTThPbmhEQnM2QVhjcHMwSXF1WmpY0gHLAUFVX3lxTE56U3hOdk1UNi1NNnNuZGkyYzZpNjBRYTZWUnkxUWtjRkFNTWZsY1ZiUHRDMzZPQ2N5ZGNLblJod0RSdU1LRFg0eG9IQzVEUWxZcDZRR3J1Znc2aDM1OHJydWR3TE9KMGRWMDVwVkRkek53Z2NFQjJZRXJ1SElBdUZzUFluUlptMkxBT2tFX2lmcTQtZW52ejZqWEUwc0Jxb0EtWDdXZEhvODk0X201eW5aTmNUblduTFdZRUozWW5KMVp2MUFDZkM2V2Nz?oc=5",
+   "published_utc": "2025-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Loudspeakers To Language Models: Bihar’s New Campaign Worker Is AI",
+   "source_name": "Decode Internet",
+   "source_domain": "https://www.decodeinternet.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1cxeTR5Z1ZuOXpuMkJ0TFBuUUNtOTJwWS1jekV6a0RLdkpqUENIQTV4ZVNmUm11QnFsem9sYkoydDdxeGJoRXlySzhBYzRtSzdidDJSOU9ydzVqNkg5NHRsY1lKdkU2ZDdoZGczWmJELWtHblpmaGhBTkw4ZEFnTHBlQjVqNXRXaDNrUDRHb0dtRjNOU2hpUG5rUXBjME9LWlRIRGo5R1pGWk0?oc=5",
+   "published_utc": "2025-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Can a Secular State Build Temples? Bihar Poses the Test",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmlSRFdJeHFoVk9fRjdDWkl6SEYwTUhkNDJnT2p2MWxJZF9jNlRrY0pfYlZZMVNFbGl2LVFYWTVaRmdzeUZqcUkwWGc0UVVibDh6NkFfNk94T1dLZll3Z01BM1dpUVNyV3BEOFhkbUpCd3F5TlZhaWYzcVl2aFlHQjN3WXFzejEtUTNHSDdaVFNrNEx2cTF0dGY2VzZjSWJJa3lHaTRnN09iWWd4a01Kb2Jn0gG4AUFVX3lxTE9CQmlySWpPT3NiMEFPZDZCZXhQWVliRVpRQWN3YUZOWHVQNFAwUmMwSUp0Y200VzdnMW1Nel9ZeXNxWkxPN3pCNUtMV3VlSWhsZXVSVHdObmxZZjl1a0RhbkV0VDNYaUdOcGRaUHBvZFdzenFyT00teTVOVHdReDhYSm56T2dTQmNfSEdLaldJSlk4NkVEcWZnV21ITlJjVmE3bTdZSlU4UUhDcWFyM1pmX3FKVThGWnc?oc=5",
+   "published_utc": "2025-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar is a state of opportunities, not challenges. Land record portal to water atlas",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmdzS1pSNk1Xb1ZpeDlMaUxDaDl3aGhfVFB0TGZabUVvVDlqUE1lMmE0WEU2d3h0RlpHR3dXeTFHQVMtQVliMWwxZE03bXl4Q0p3V2pwTEZrUzdVaGwwbmJqSnMwSGI0LWNEQWpBWHN3MXVqTlNQVFFYel9IdlJyTnR6OUdEcmNQMHVqTzdsNDNuSkVSdDQ0UDF3d1Fhek9kNVM5bEw0Ujg4bDVy0gGyAUFVX3lxTFAyeEdXbklON1dObjVYaVR0V1VFMnR4a0d2LU82eXBFZlUwaGdCeGhabXQ0TXNTOG81RkpfZThYR0s2X09Qd25GeElDQ2piOEc1Y2liTk93RTZxcHF2R3d4Tm04d3RXbmhFU1FfZnY3WFh4a1ZHVzdlQ3VLelhsX1JFVkZYWlU4TDRyWmU0NWxUYU5pQ3hGTUJSYWFxbW5FeS1qa0tLcjJUZGltRGd1dTkzX1E?oc=5",
+   "published_utc": "2025-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This govt school in Bihar has four teachers for nine students",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaUlhN3pXNkF2RjdpSXFfNjRuWlY1ejdxbG1VTHJReFlYX1JHZTBKbHNMZlFCV2xlRXNJbzg1VG40YW92ZXl4WDM0b2pSb1dwdjBwTVRkcV9WWDVya0x4bVM0UmFpX0xqZnJyb2JscFV5aU9pb0lqZWxXSEdQREVkRFpVTUx2b09KXzYzQ2JMdHBSZEN2dnB6VHFjd25wdGFzQnhBSkVhdVRRQUJQbjZMTnBKdE1oR0trWHlZSUJDV1B4d3FFWnR0RmhFSE5rdU5ac1lVUGdB?oc=5",
+   "published_utc": "2025-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar polls: Nitish Kumar rolls out fresh sop; education workers' pay increased",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZm51R0pLaUIybjZveHo2SUlOOGdHUGdpUlJWTEx5MHkwYURIRDd6WkxUQnpQQXNYaHBsbmNtUDNaYW4yUXBsRVdJTTFtRHFzenR0QlBXUExIcHg4T2JJMEV3YS1OSTl5bnJ2bmZlM0hMamlDTDEtUTdWMUtrdkZ2WWtKNGYyUXhhNEhDWHBrRTdqdGFsdWRDZ2N4Qm1SdGpWUjBnT1doZ3lyMTRNZ0p0NjJOVXVCN0dZQ2tTX2VpSXZJZU52Q1d3RklFc1RtclZGSmlNZWJrYkladUVr0gHiAUFVX3lxTE13MHhOUGE2b3psSUs2ekxHNE1HWUV6Y2U4OG1ucnREaTh0bTFwU0Z3T1V4MUd0ZjVOT2s4cXYtYkw5bWYxcWxfVkV5dG5mSC1Od0R6bmZHZGh2M3J3T05zY01pTEFiSmtteW5lRXpYb0VoV0lVa1p5VmRXc2p3UmZlLTd3dHlFY2FqRkhLWGZGS3JkMGFxck9Hc2JkcTVYRWVCQzdmNDdXWDFFVC12U3FLZ3c1NlRvQktVX1FVV1BXblh2OWZ0T0pjX000NkptNGxQMjRFdmNpM0dnLWZhYkY4VVE?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Spirit Air unveils flight operational plan for Bihar under UDAN scheme",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV1hqYjdFbWcwNGxmR3VVOXpMNGlpUVdrVUhVNkxwb1oyLVBpWjdLN1dDYkF6a1BsaVhua2REQ3ZseExPQXZ6N19OdGI1azFKSjFWcFBRZEVleEgxRTItVXJ2Z2ZZRk9nSWVFVUhHa2Z4S0Y1aGV3MzR1dENsdU5Gcy1PbDJkMzVJMG1XV21IdFAwcUJkbUhkTEVfYU53clhiei1YaWFVYlp0M3pkZk5vVjc5NXh0ckkyamtuSXFYMTVUTTV2ZjVLek5EMkZ2cUFNYlExU1RlRndBNTRPdFhpdzdVdldSaF8wR0RXY9IB8gFBVV95cUxQaEVLRTQ4WFBvZVF6Wmh5QmpaQ0Q1MTdCZ0o2VUpnN2ZoZDAtSUNIRERTWlNFc3Z6V2s2VF9peEZYVUdfakpoQUxfZjJsWEFWV2FPVk5Mb2VNaVFrdnFoSVRIRF9XaEtCUHRXa3h0dzJORFNhVE1MTE5pRTlfMExBbGczSWx4cE1aWjczUTIySF9may02VnIxa3kzRWhfTTUxLXY2Qk02dUJmdTBBUGV1VnBIaEQ4dFZURmpXdXhHWkxxMFc1REMzRjZia0FwV1RLN2RmWFVwMEhGclQ0SV83bTEtVHNOT1A2ZUg5a09fSm1adw?oc=5",
+   "published_utc": "2025-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

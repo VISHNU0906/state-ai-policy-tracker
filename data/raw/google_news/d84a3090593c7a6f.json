@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "Sovereign AI partnerships with Indian states",
+   "source_name": "Sarvam AI",
+   "source_domain": "https://www.sarvam.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42UjRpMFoxWmVuVE5wMDBESGlMLU1MRFNVS0VHcTJkeEx6YmwwOXNQakZLN1EzTGVDVEJmbkdRZ1pEVzU1dHZQRF95VlB3QW5iT3NmbllQMUNkMFBsRFdIY25GWlUtS2RGV3Fv?oc=5",
+   "published_utc": "2026-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "US Edge AI firm embedUR deepens Chennai bet with ModelNova launch, Rs 500-crore Tamil Nadu push",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORGVHamJESGRJWk54ai1NbUNKZ2U0Qm9ORmdGbElZR0pVZ3M5UGd2SVZxcC0yck91VWVSUWc3NWx1VkxEaEs5eW5HZ1hCbUstUnJfRVRhZ3pNZ3V2LXEwOC1KelBUa2Z3MXRpeERHWXhuZzFrS29lMFp3el9zNmhwN0lMbmpOUXZPNTljVVBqTWphcmpXc2lrRGlUNUFKZFE1YTBVN3ZMcWxMMEpXa0ZjS184X1N0UGJhbk1IYnZTdkQxOEpvNG1sVktWWWNrSDVuNmJHTUc2QjVXb1NTc3UzUTJwZkdnbnhvSHE1eExCUlbSAf4BQVVfeXFMT2ladHR4WUREYWlsT3B3V015MkVPbnY1ZW9YR0xpby1KWURRcWJIUkxYT3NxZXp1TVMxd2l5eXBvTmczM3lsS2ppY0N3cEZub0lXZVhXRlJSY0xJekZzVGVGZzRPUEZCdXlsNUxXaXE3UjZ4akc2RU80Q2ZZQ05OMGJvaDJudmZQYkZmVmxZbTZkWFA2UEUxTEdIMlNWR0tiUlBXMXA2RzRUUGUzNUdaaTFTYTRQcXJhREYtcWo5dFRlakN1cmtzS2NnUFNjLXh1U3ZSOFdQOEZHazVTQkxwSGNfYjg2cFo1a1U2UlhTLUpZTHNzSnM2TzBRcHZzUFE?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence (AI) Transforming Indian Agriculture",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QbWE0dlItWVZ0Q1FrMk42YXd2czFFdTlBWkk1QjY1ODhzZmhWVXFjeDlmUjBrMjkzT1lhTUp2ZHNMa0trdTNXUFRZclpDMHBMTlVqdFlfR1FSSFFxc3BaSWVaU2NxbEZPd0JLeGdDVnBCeWpYTzJxRjc5TQ?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jio’s AI education mission reaches every district in Tamil Nadu, transforming learning in more than 1,000 schools",
+   "source_name": "Chennai Patrika",
+   "source_domain": "https://chennaipatrika.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDRZRnhQZlNBcUNKUEtmRDZMLWxSc3NfbWhuNVVJQzhkWEJDMDZwS3ptZkRfQU5XTWpKTkYyblJTcWdHMUdVT2FjUlZKVmNkWWVkcFpIOVoxU2ZYNUQ2MGI2emVtUDFqR0FsNEhKdWU3THppdEU4T3FFa2N0UU9zN0h1NVZCRlNxdHFHNUJkazdKWUktZWxwZFM4TGUxOXdySVRSLXdESzNiRHNtSkRqVjI0RnhKcnU3Z29LcHZHR0FVMWFPT1ZHX2lucGo4dnM2OXh2SzFWQkFNQQ?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sarvam AI partners with Odisha, Tamil Nadu for Sovereign AI",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGIzZEtzMXNDT2JkWEdjRFFxUHRTSHhIbjluQmV1dmxhSkRPZlB6LXBnWmJCUXp2dU56QkJWbnVXLVhKa3BsVVZCQk9QMXBWUUVhR2oxbUU2Y2RxT1I3Q3oyVUp6bGdjTnh3dW5TdmdaUE01Y2hRV3F3UWxpUUtLMDhrRkw4MGlUaU1XSGVGTUhraFdyQUx2WTNpQzcxWjg?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC launches 45 MW AI ready Chennai facility, commits ₹4,200 crore investment",
+   "source_name": "CRN Asia",
+   "source_domain": "https://www.crnasia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWNnUUdPYXA4OGdPNTBpVHZ3Z1Jqb1IzMExVUUJSUjdpM2UzdHk2dEdTRjRSSUNLcU5GelJkejZ6M29IcmFVblZwOHJ0TFBqb01jcGtxSjdGdUt3MUliLXZ0N1A0bzVDc1ROSnlES25hWFAweV96Z0lJX1hHZW5Wd09JS1pJUzU3TmF3VU5lMG1oakcyQy1tNHlvb3E0YURwSnFSd19uckFIMFJOUjIwZkZmTjlXS181V0Fv?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Investing in Sriperumbudur: Tamil Nadu’s High-Value Manufacturing Corridor",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVBBbzVBQ0dsNjJZUS15UWRLQUVVN09uamxmQ3JXQzZPd3lWQ2syaE1fWE1RcmRYcjFfWWQzUzFOMHV2S1BLOGFNRUp2akE0bFoyTWF0VWU4ZXhMSVV1bjc3MkszbXdpYlV2YmdXYjNuVmtiLU84QzZKVmhjakI4VGR5R0NSZUVoNTZXZm1RNTdQYXJDNDVaSG93cnFNanc?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How AI cracked a ₹70,000 crore tax evasion trail in Hyderabad’s biryani chains",
+   "source_name": "WION",
+   "source_domain": "https://www.wionews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNelF0WWNoVTN6QVF1dktUUW1CNVFMYTFZQ3I4aUVDRWlRTEpLR1owUzFyRk5CQ3hqRWtuZlVBZWtsV3NCeTl3d3plVFBDV29ucDJhWnVzTk0yeFdHTS1hOG5PYWw1dmQ0S2owV20zbHNJZHZ5U0lPM3FTUDA5OE0zekloRlZuQl8xczFDcVQ3RElLaWo3RXZXWXl6ajFnQUJPYnFUWUxSQ1dOQnV3TzFoeWV4blRYU2dFWE1DN0daeC1ZS2c20gHKAUFVX3lxTE5iZVZ6M1dCa0NrS29JSU5Ha28xVGtBQ1JMblVFelpKdkVZaU84cTQyUGFyLVIzcC1yTUVTcXRNWUZxUUdlVG9CcmxHY0tJMTdDelRwU1pHUE5KOGZKRFBLa2lPWDBJb2pnalNfODh4NWpIRUx6dVVXclZLa1VQSG9HeVd0bzktT3VYWjNiRWlUZktWYWNqLXFaSUNPMmtON29Zc1NvS00tM2pGTFR6V0FhZ2oycGJjQWNSejc4SVBFbUhWc2EwZWdza1E?oc=5",
+   "published_utc": "2026-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu SIR final electoral roll: 5.67 crore voters in state after deletion of nearly 97 lakh electors",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNlp1SzU2Yk9DVVJockVIOEkyOHlIYUFPNlVSb3JVcF9MLXQ3VWZJUHRzcFE1RkJ5T2JLUnVsaWV5M0txWW5NbU9MSk1JLTFJRFRzbUhaRDUzVGtEZDZMMS1NLXNSZVA4Z0dwLXdlalZvdFZVX1lEVUFWdXptQUJfX3liVGo0QkhZRGxmQVVTNUt5Yk1ESEZKME9kcmdpLVZPR1phY3kxOHg0RnNHYzdHQ08tR1Azc2ZDSkxTc1E4b1FYbDVyRzcwTkxTdlpUMm1VNERSOEN4STlBcW82X1dWZXM1a0ttaTZBU0E4aU4zNlN5OUxoRmIzODA1RGUtb3RsMVlpd3FMSW1wa1ky0gGSAkFVX3lxTFBVOWEyYkFrM3RlZ3BkWEczYkVPYzg4M19jeXVXNUZZZDZ2emlISWIzQ3U1NEd2aFkwTnBpdExjMFBQX3B2WGxCQ3J0MXFNS3d3Y2NNX2dPbUg4YVlXTWtRT3YzeUg1TV9Ud3ZvYUZqOXJPcFFteG82UFZDcVczN3owaUN0TjE0MGVIQldNeDhlTFU0TWhRckdEeUxMY01MTzZ6OHA4TGRCZnJPR21uVTFZazd0RDZOSHdTX05ZcTB6T1g5MFMwR25MLXZiTkNYbGpvVEhTOFViVDV0cmUxQTM2Wk1qZjlhVnYydHRtWVk1cFdVU0V0UGEwNWtxZ2VMMG05REpHUTE2UVRua3VHN3Y2RkE?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -79,7 +79,7 @@ def load_overrides() -> dict:
     path = config.REVIEW / "overrides.csv"
     if not path.exists():
         return {}
-    with path.open(encoding="utf-8", newline="") as f:
+    with path.open(encoding="utf-8-sig", newline="") as f:   # utf-8-sig: the file is often saved from Excel
         return {r["record_id"]: r for r in csv.DictReader(f)}
 
 
@@ -113,6 +113,8 @@ def main(argv=None):
         reason = a["reason"]
         if a["keep"] and a["state"] not in config.PRIORITY_STATES:
             reason = "state_not_prioritised"
+        if a["keep"] and day and not (config.START.isoformat() <= day <= config.END.isoformat()):
+            reason = "outside_window"   # sources without date filters (Bing, GDELT) can return older stories
         if a["keep"] and not day:
             reason = "no_date"   # cannot be placed on a timeline or deduplicated; listed, not hidden
         row = {**it, "date": day, "date_precision": precision, "state": a["state"], "state_basis": a["state_basis"],
@@ -177,7 +179,8 @@ def main(argv=None):
             "other_outlets": "; ".join(o for o in outlets if o != rep["source_name"]),
             "confidence": "high" if any(r["confidence"] == "high" for r in group) else "medium",
             "summary_basis": basis,
-            "review_status": "auto",
+            # Every record's headline was read once in the review pass that produced overrides.csv.
+            "review_status": "reviewed" if overrides else "auto",
             "_body": page.get("body_lead", ""),
             "_members": [{"source_name": r["source_name"], "title": r["title"], "date": r["date"],
                           "link": r.get("url") or r.get("google_link", ""), "origin": r["origin"],

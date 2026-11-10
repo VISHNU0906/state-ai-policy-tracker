@@ -1,0 +1,77 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Govt To Launch ‘AI Doctor’ Across The State; Free Digital Health Advice For 5 Crore Resident",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQThfbVEwR19wVm42SFltSEdUTE9ZRWhQWlAzTFZyd2l2U0g0UE1Wd0Q4dlBpblhzSWpqZ2JZTEh3V0pJYW84a3A3aDVhM1hoSjR1VGhNLWU2QzIzclVUOVI3SnBZbGNBbWliZVJQek9FY25DWlJodVAwWjZNanhiYVZvbTRpZDlsY1FUY0I2Z1FkYmk4b2NQYWZ5M3JONlpfLTh2TjRNRzcyR0dZdURnTnYyejJJYVU5THJKS1RBSXVGZTFvbmRLZHBkNVRweUlFRTJQR1FxVkxnUmNROHRuZUNwZWNXMlA3cTJpc2tGUTdYbE5UZFF4Mk1ocmRzODFPU3pn0gGIAkFVX3lxTE0zNDJlNXlzNGt6TU05aTlYVllkemVtcjc4SVhpaHdheDNHejEycGkyZHhSbWdITHdzdVk1ZUo2UEJ1M19ldWVvWFBSeHcwUHBQVzJzTHl1dWZHekdEYTFzWDNOUGlRTThVdEkwV2dHZG83YkRVaXkyTERKM3JmdUpBVEtWenVOR3ZDZlNEVTRMckdxOFVUejRVUGlkVExqckc1d0IxVzVXRlctZDd1YnI2dFFOZDFNaTFBdlNSbm92cHM2ODBlbV9JSVFXanZMLXRnQ0VzY0tJSmgwWDVXSUlPU05ZNERzbENKUTlrb3VvcmViRVg1cjEzWHl0Vm9RUVJrRldDZldORg?oc=5",
+   "published_utc": "2026-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SC Says Citing AI-Generated Fake Case Laws Is Misconduct",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHBxVV9pX3lScGNjRTVWODlzN2NET013MndkcUdOV2h0cnRIR3EtZjlHdlFHUWV3Unc3NldJMTZLa3BGM2Q1VUVUQ3JJTVJwSVVCRTV2X0tqUnZncGlmY3BpdFU1anprY01mN0RDRGlySzA1TzBMUG5FOVhTNmhVOFZNR2VRODdE?oc=5",
+   "published_utc": "2026-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI boosts care in Andhra government hospitals",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1RZTWZ1OWZ5NFdRRUxtMWRzbnJwVmdzNUNfeVpSQk5LNUJQdmcxODZKd0VYQlBtelY5S2tiWExuREZNbnhGdS1wcVUzUk5GX3ZsZElJZGdYcVBBQXhUb1hSZzE4S2pNUWxORGhmVUFlQlFuZUZDOTU4TG1WXzhaNjF0NUxMNUx2cHBqeW96LWp4OXJRRDJuSFNrYUo0TlM2WHkyYkZEUjJZT0FXN2VkbHZn0gG_AUFVX3lxTE5lZDFtU25tSWZFRlNqZF9oTm9iUFRBZ3hnb3JzSEZTb3BXYlA5OXprM0czNk1PaDhKX3R4eUstS2dnaWpKeXlhcTJPelgyZ0dMSTJ0UEUzREJobFFIVDV0SnRzWUUxeS05LVhrOXBiU3RFdEtibExKVDVKblVxWll6LVNBRWJoQW1sTEI4bk5qOVVER0NyVTJaUWJHSC1fUHVqSExIZGdoMi1nM08zOFluTy1rbVc3NnJPZWRtVmd3?oc=5",
+   "published_utc": "2026-03-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's top court angry after junior judge cites fake AI-generated orders",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IZEJNM2VQQ3BlWnVVcFo0czNKak5vWnVfeTBoTmcxc3NvZjBTc2I4alBVeTdaNWJCekZzTFNnT1JmS2M2UGN0NFh2MU1aTFNyQzRhajhhYTg5dw?oc=5",
+   "published_utc": "2026-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BITS Pilani to set up AI campus in Amaravati with Rs 1,000 crore investment",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNU9tWVBIZExQa3N3ZXBlX3NmUS10dGdtcllnYmJWampnTVV5dVdqaVhCckFWeE9ZLVZFQ2ZaNi1CRHRzalpRa2tlamo5cVUxcElQR241NGxLZWcxaHhzTlRmd1ZnSjlXSU9IXzNqWnROUzE1U1k3QjYzZmd0cXJrUkRrNFVHb1ZjblZvc1Rwa2lvZU5tNVF4dDFfNHk0MGRSOVNN?oc=5",
+   "published_utc": "2026-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BITS Amaravati to be the first dedicated AI campus in country",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdUFsOXp1OV9FcmthRXFQWDZid3hLSzFvbml0LXgySG5CdDdFcHFmTDg0LUExUzU0cENXbUpfMlVYRzVXa2l5VUVZSFRWc3o2c1FBSkFCcFRiZVRSdUdFZ0dBYy1rRllwUEQ2WWVYOUs4Q1pCSkwwMUhac2xBU09DXzljWGYzOTBjX0dObzNhT3RaeFJhRmJTSUlkbFpNM0FuaEE2NlpXSU1JNmJmcDh5YTFlbE9FUU43WVYwenl2Z2NkSmZYekdIU3A0a0E5Wkln0gHXAUFVX3lxTFBuWWNzX3c2R2sybEpXdTh3Rnc1MWtnRHd0OGM0dmliNkxZS1Q0X1RWRlh3M2R5MElQSU5oVVUyd0xsUVNpamFjWG5YS0l4RjM4bkR4cXRiUzhvcHFzOE5za1gwWWhya2lwckxud29tMDFHLXdwTGZjcm1ua2hMbm5NdHFKUjQ2LURETjA4VUdaakhRZEhqS3FnWVAyUlVkZTlkeGhTMV9xbzNtajZMejBSeHZEdHlPSXdTMGFEdGdlbmNhZnRIeFJYVzNfM1Nha2dJV1NQc0Fr?oc=5",
+   "published_utc": "2026-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Maritime Board, Visakhapatnam Port form SPV to develop mega shipbuilding cluster at Dugarajap..",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcGRyVEFHWndJRnJYOWozaWctYThva3d6bU5fOXQ2ZEpKT3NLM2U5cl9hTW5Ta1luN3JRQjVtTWxkWjM0eDNPcWtWd2J3RTc1Y29LUHhITkd3UkpMQlNLTktRZU50UmNvTE81T2RFTVhkaF9VMWVYRnc5TEpSMWhzd29UcWpFOWpRSG8tb0VhUFBZTUVtNm42d3Zac0lvQWdTYVZnVlVXOU9acl9ncXBERVdrbnFKc3NKQjVmNm5ES0EycmdRUE56YnZ5YmZsTjhFbjNiWVNGSUZJNTZNME9zMkZfMjFqaGN0SThHcU5FQWZ6TFBZbWFtXzFLZXZ5TlE0YmRqazNZejdDOGpnR3JCTnlR0gGXAkFVX3lxTFBHaHpZMGtpQ1dlWmdaUEVWTUlzNmM3SnBjSWJlYTdIYndEUWdER055Z2pDbDJwa2ZYZ1BGMDJRVHFreUVUVEtNa2h3alRhUzJ5UXl5Zl91MWk3ejdaam5zcWJISUZ3SmF2UHM3Y0Y3RTJlcUVpc0hqLWREalVYZlVNb2F2Zkkyd1R3cU8wRXllLTlCeGFIbXRUSUtDQmVXR1pDNHFaU2FXcVlyOFdCeTBUNDc3MHJGR2t1cV9xclR0dFhVOU9aZ29GN1BfYW8ydUZ0UkxQdkUyZkVFb3RzNUpSSlVxWi1PSFQxNTJNMkk3RmVvSEpwN3d4YjVJSmMtTmZCMmJGM0JpdmRkWTJ4aWJqRWlnVzdqWQ?oc=5",
+   "published_utc": "2026-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ArcelorMittal Nippon Steel India to begin ₹70,000 crore Andhra Pradesh steel plant next week",
+   "source_name": "domain-b.com",
+   "source_domain": "https://www.domain-b.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenFyS3pjbDBVeFpyUkxkVHFIZGxNX3VYNThrclJiNFJMd01ETC1qQ3VuY0hoNDFtZjBpN25BZFJfVVNTbDRNcnNKMWxkNjBVNC1LZXNVbEY2UUhIWW90WDhvckpoN3N1YUVRVFJrdUNPb3FlU0NDcUFqek1MV0pqcVVLZWtSRXBNWDVzc3BzcDYtQ012cDQwNzY2dDduakhfNXfSAacBQVVfeXFMTVhtTkZDM3UzX0h1NUxVRFZCMUpDZ2stS0ZuMG9UYWtqUHYwdV9iYVF0SmJfTTYzYWRjejVBcVpFQkpGMldmTkZhS3dGRnpWV3FYTEc0QzlaTEJhTm04V2J2SVc3bmFqVnhsUld5X3Zua2JWdzVENHpWUmhWa2ozNzUtOVBlaXU4SDNENXg5eUZxcjc0Uk9vdU1ZYjRqSmVMamloQnl3Rms?oc=5",
+   "published_utc": "2026-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "South Indian state Andhra Pradesh launches third-child incentives amid ageing population",
+   "source_name": "The Straits Times",
+   "source_domain": "https://www.straitstimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMG1HTmJ5UXMwRUwwWkdKV0NKT3pZRmRtRlV3UHlpVktXUmQ4UkpmNFJaQWhqRTN1aEVEWl9aY0M5ZHRIX05wQWVYaGtzU0VsX3E2WkV3b2VXTUdYa1RUM1Z1NG5mbS1aN3lnNXQ2dFVhdHlZQW5PV1hDM25CMEtBLVJfRUhpMkVIaFNtSGk1VF9jMHlWVnRWSWhUbVp0SlpWVHlySV9xbjFyWTNmRDZodldGZmRGem1ySmt2UmVDVlR5WF94NVFZMU04V2xRQQ?oc=5",
+   "published_utc": "2026-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

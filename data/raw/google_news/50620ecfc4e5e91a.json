@@ -1,0 +1,93 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh: AI portal MMATRIX to track public petitions, government decisions in real time",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVG9BVlRtMmtyOHpCUm1GOWZJNzdIT255OGJSTXZJZzZRSGwxY1JzTDRXMGV2Zk5wcnQxNFV5VHpoMTZYUW1JWDNGbHk5WnJuUmdqazRhTEJzb3BsU1BHLWNSQ2Jlb3RncFNlMzM4di1XQnU0di0yOUkwZ19Ebl9lSXZFSm5ycURWNEdtVUh3anExa1hQMHdxa2JRaWRUejFUdHZrV1kzMFVVdzYxVEVrR0NmQjdvY0prcWdXRDA0QW1TYzBzLUJ5ZHNhQ2JlbUZyUVo1b1FuWTVUcnVEM1FJc0xhSEFDMDM1NllQZHFrZHnSAf4BQVVfeXFMT1p3RmNtZzU1UDJYR3lvUk9sZXE1dXEwTS1OLTU5U2szUVlvSHJyb2djbGpvTXZzVDNiZFhLbUhOWkVOeHdldHNmMHNHcTI3ZjJRQ1JTbWNMWUtTV0Y2d1o4MXYxUGpZd2xyV3VwS0lhdXo4cWJsSm5feHZtdk5WSnFwQ2gyUW9leFBxOXRvV3lNdmFFaW44UmVJeXhNMldfcklRUmZIeVE2N0wtRkNpTktCb0JibFp3bHNTWmU0UkdTY1JUbmVVUENDN2l3TW1LeGlXYm5FQ3pYUzBwSE5zQk9qVU52WGJlaTNqUmtiRmZGY2U2QU5GNDA3SFhtTlE?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Broken promises, confiscated land: the hyperscale AI datacentre being built in a tiny Indian village",
+   "source_name": "The Guardian",
+   "source_domain": "https://www.theguardian.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGJHYzBnQnBBekZzTEZWTUxZYWJXcXBIa3d6bUJCOFpMTEQzRFk0OFdrc04yNGNXeUtsR2dwSVdRQVY3MEdPb00yUE9vRlRraHQ3YW5IcXBZRFlXNTlZaEpjNHY2QXl0VWFUREpfYU5KX1JVank2TTJ5VmZSaHpwT2k3WktCcE1MVnYwc3BWdWZpWDdCdDA5WU5Kc09tU0dNS1NsT190SXo2LWNxbDNTQ1JSaGV5TE81eHFsMDkwdHY?oc=5",
+   "published_utc": "2026-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP buses to run on Andhra model: Connected cabs at stops, AI tracking; mobile tickets, route-change alerts",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWFB0RnhyYjJueGZicTZKRnVZY0F6YkRWaXJWdmJ6cEctVkFoMjZTSWNWUW5qY1I1V09UblphZkFHa1locVlOTUFuaUZoN3Z4OWdZU0p5QVYtMnZLdWE2YUZONHoxV0dKV25iNXBRTWd2SVg3ZTVSRzdCUGdwYjZGOTJUcTluQXhqWnRIMGlhOUdrTDBYTGJGLVdJLXFOU2M0RHNBRXlJNklyQ180T2JfN0ZLWF9teWI2V2FvRWNZRlVsMjlaMFBxQzlSbkVFM3fSAdQBQVVfeXFMTm5ncFM3RFNwYmpWTElpY1NVU3VlVU4tNEEzbG1xRTJEMVFKeGh1WGgzN3FNcXFSajY1TFZyRE4wUkduMEY0LU9vOHZUVHlkRkMwbU1UTWlPNzcxNERPQm5Bd3ltUWlBQy0wYW5YMW9jR1laZXNDY3ItSVJZOTRpdS11RHpwVUtJaC1HWTZYR24wUElDaXNGaFMyUFNOd3hGa05OTGpfVVBGeDhyd2JFak1xTGVCZ3ZJcC10S21HeExwSkg0aVM4Y0ktTDB1eW5UWncxdC0?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Kanpur’s AI family score aids Andhra Pradesh welfare targeting",
+   "source_name": "The News Mill",
+   "source_domain": "https://thenewsmill.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHFOSXo4ckZuYjFZZXFmT0hKaUR4YnlwMkstMnJsNVo0cklVTXpYc2pBYnQ4OThtbFpIRlFsa3Q0TldYWTlDX1R6eEFfY0ZEWGVqcGk4NUhKejFvWEJzQ3F4d3V3NDkySS1KUGE4bDdlNG5oMnNHZ0dYcUFPeU9vRHJSS0M4NkloYWtjRVUxQVRBR2J1Um9vYU5YSmJFNlk?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HRF condemns restriction of ‘Stop Vizag Data Centers’ Instagram account",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbHNvcUMzMmhoWXZFM25Wb2tjdWxqdHlqQ1hVSnYxVW5qbWZ0MUE0ZVdDNzl2a0FJUTJiRzNBWFpKTk43NEFXWEg3S3BZRzUyb2Job2NDYThIWDY4UXdjSlh4OUNXSEptYWVqak5LaWdjckdrX1hRa080OTFoWk5yUHlGbHU2RU55bVhNNlZ1aEhuM1E1MVl6VXlBU1NXbHVETnZaV3hORGpKdzBCdVpF?oc=5",
+   "published_utc": "2026-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How IIT-Kanpur's AI System Can Revolutionise Welfare Delivery",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3VsTzVLZVhZVUVWVnllTTN6ckY5ekZfUzEzVUhOLUJ6ZjRldlhtcVdidTdsSWtVLXpsNnl4Z09KelB0WkxMUEw0ZmxScEctSkpXMmhQWG1xN0hRTUJ0TGFmWmMwd1U3eGVJcVF6eGV2Mmw1TWQxN1hHcy1HdGw2WVAxNUpPaDlfcW5ndmdnTmxCVGpLU2lETzYyNFFMVy05bkRLMW1OMGxrcW5rQmJr0gGyAUFVX3lxTE5BdnRCVnlySUFJbVppOHZGTTFua3pndUZBUEhnSDgyREpnSXhJd1o4Q19fZ1RDSmdYZVcta2RCSzY2ZjVoSzNvZDR5YTZSRFlXdm0zYlNIbExPeDBBd1FxWTh2R0NQcGhOQnA5UnZSZWdyTkJmNVRMVlhKSTJIbzhIQ0F4aHB2WEQxR0xtcFNrVVAyR3RZOWN6LTEwZ09IV0l6Ukw0NjNHR2M3eHN1eTZ3cUE?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Announces 12th Pay Commission, Pending DA Payments For Government Employees",
+   "source_name": "Outlook Money",
+   "source_domain": "https://www.outlookmoney.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb3VIZmJ4V0JrbV83TWg0SlFNaWhxN1hhZnZZX09SbmFKM3J6ZDVLdzdMMG1wWG5KMHJGVVIxZnp2QnVhekljMXJMMHZqOEpELTgwMkNvVXd6cGJJOHIydkJHVGdLbzJLUmtPa2k4Xzc4aHhWZmprX21EX24tNlZQaHAxSWRGdWZMaFdGQVFCemRqZ0dpWElYVGFsWVMxM3hoQWpZM1JwaEltbjhqS1JON0pVU2Q5czZ5ZlJYdGdCZUtRVGxqb3h1RTZoZ0tySUc2SDFr0gHgAUFVX3lxTFBmbV82TGh1VnhqcUlTdC1jaUprUGs0MmxXcjBRbzhPQ3I4bE9VR0Y3Y194QWp6MDBhbGhoeEs1Y2lZdk1SNzBEbHM5T2tYMTJIQzJnRmhQR3VLdmxJVW8xd0VJT0J5SmxWVkp4cDNpVDllOVRBNGR5RzNVelVSc0JwMUJHRmJEaVFVZVUtUTNBbC1mcnJZbUdwWk5GdzRzZzljV0dFeHpyMVR4T2tXQVEtWmpfQ0NzQ2NXVTBtRkdXejBoeGtYVnJsRzhacnpmZktNdlFlQzFod2pvSE05dVhj?oc=5",
+   "published_utc": "2026-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What is AI-based learner’s licence system for drivers? How will Andhra govt conduct online test?",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGVIX1RKanhiRzlZN1cwTWEwNmNfSnlOQ252YkxDUXUzQjB1Y1hjaXpvRk5sZ3dOeVRDemI0cy1JWnNKWTF5TFZWWS1TU3dDSmZkVGRkSU1WR1Q1ZlpPTmt0RlVVbEUwc2E4WmxvVmIxQ2NxQkZMck1OUFFaMXJia3R5TzVuT1ZmQnpEckJ3UHNvcGZnTUNMUE5ZdFZIaWF2WjVrWlJiX2M1dmhBTWcxUVdaQV9LckNDc3UwbUVmaXJ0Z0dtS0lKNjA0WmZxdw?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP CM Chandrababu Naidu urges Collectors to embrace AI, new-age leadership for faster governance",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeDNGdmhTcXJGRjlkX21rWjRWUVVYRnVrV0RKeTZ2Q2syZTZpVUdLOG9Jb3hDa3Iyekk4WWgzUUdsVzNnMUh4VVh3bGFCSHRFNFcxYmoxSkNTMEZYZUp3QUJqZndJSW1qOHU2VEhpTlR2amFPSk90bXZDOXBVQ2F5bHF5TWV0YUpuNHV2RlV4VjNTaG0yemdZN2ZZRTZIWFJwWEJfX1picm1mY3hjUjBUM3JTUFVVUUdUQkJiSmhwY0FWN2kxY0V4VFNUZWd0bFB3YnJHazhrc0lQNmpPZGZhNnJtUWVzTHA2ZXFvWWhLeHNMem1p0gGCAkFVX3lxTE9waXVjaldDOTFNNEFpTE1iQTZrdEFNd0NrSUhPYldyVElPYjRFRmlmOG9JSmdzT1B4ZDRtRm43RF9TODlIaURmdkNuZG9pX09GLVJfQ3lteGViT0VKUWhrSmtJbmFKTVdYeXBYTlo0RnZpdExINjh0TWJjRmh5YmpncW9oZVhyQkt5UkptMkJSeW8zeVBEUWlQYU55YU1zb3JSLXZGV1ZxQlZIeFQ4a0hMNXYyZnhvUGxLYXlfbTVnNU9VUVBLMnZGUk00Rm1ocWNfdGxxaG1XeHA4UDc5bTZwQW9TUFhGMGVqbjR5dDhXb0tJRjZfNTdKc1ZRbjN3T1pZQQ?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government schoolboy from Andhra Pradesh achieves global cybersecurity success",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3JsSGlFRE1JMzRyb3l5RTd1bXRYWlZLMm53M0lwRE1FNm1mWjNzS3c2Rl94MUNIU1ZDVlVyeWF1d01mbEFRNkFOeE5jVTJDb0UweG0wNjhIQ19wWXlfdkhMMzNmR2JZZkVwTjJUZEdaVmNvaC0wU1d4NW1xczFSWDRVWHBKdEtJRFQzaG83ODBoODhnWXI1OHNlSmVkbFFwUlQ3NlFKMlRpS1pyTmcyZ0g5bTRRSTV5LTJYNk5uempJb1ZzQzMxU3VWWU00QdIB2wFBVV95cUxOMlBGdk45Yk5sMnhUYXNlUUg4UFc5T2hLNzlTTldrdDR5dWRLa1V6dG9odC0yVW1nWFc2VW9uSTZaQ3FScjlPU3J5N2Z5M1ZmSlNkNkVWOUVwd0ZJWE5WTVF0SDRSUkNlbnBmSDhnWkEyakNSNWxabC1iUGZoR002eHJJb09FZ2o2cW5BbExCMElxS0t4dXdrMC04OHBxcUw3WGdzWTJuOTU4dmtFWUtuT01sQUJOc2UwYkQ5dWlCVjhtSEZlRENQZksxb2h1OXFVaUtqYXBjWEZKWGc?oc=5",
+   "published_utc": "2026-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tourism offering job opportunities in Andhra Pradesh: Minister Kandula Durgesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0c1MEgyX2tCUlpkLXdLUXRoaXlpd3I0NHZUcGxVeFptaTRKc2ozZVhhUHplTFJnZ3NfTENvM19rU3A5WTJ5b1pvWHdGZW5yUWQwd1dWeFR1M3p1Rk5selNJN1JqWDBORXcwcDNNRVdfb1M2bHRtWExhb1B3QU14QS14ZkNWY1R6VVI5bHdISVB5VjhINFJsTjMxQlF1TVhibWJySjdRNXhPck81Y1VvSFFQVk5wVmhSZVBUVUcwQzgzRU5Nd2xhUExKRWN2aTRLRHlSR0N6dDhfYjY30gHqAUFVX3lxTE4tREZLRDlzV0N6ZUZmaXZoU3cxS2VpWVpjUDRDMHpHYURGVVBxZUxCNGF1YW1UektNWkZOWnlpOWZ3dDJLeFotQk1XZ3I0U0xSbjRTMWxfMHN6NVptcVRLMk9YU2hNQThSam1rVUtJZGJZTVFPRng0WTY5VnVjWnJCX3d6dmx1V2dHd290cVhETE55WDVFV3FnVnEzb0ZWMmUxcGVNSXdQV2ZQRXhfSDJZOVNoYzdxVUVtNTMyM1J5QjZ3aDYteW5hdmZNNEhlY3Awc3duYWMxS3VSUVpBeE5zaEtLeEFyaE8wUQ?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

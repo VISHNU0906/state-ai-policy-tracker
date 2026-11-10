@@ -1,0 +1,69 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "Children recommend lessons on safe touch, life skills and AI in revamped Tamil Nadu school curriculum",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYXd0d3RPc3ZNV1NfTEFIdTNhaEdHWFluVGJsTktKdi1BUk1NTHRQaVZYU1IyRWlsV2NiZzVEeFp6SkZfZ1FYUzhNM3RtemdGVjl2ZmhXVEtWanJoQk5PdFNTaE44S3BVMXlGckR0Wm5yRUJva0Q0NWpOWDROUE5RTVdrUnFQOF9kcXVwMG9ySVVrTUMyYVczVENuTjdGa0Z2Z0VoajV3VVhLbDl5YWwwYlI2RjBhTWlXYU9rUVJYTzAzY2pDTko4Z19GZjNaaFpRX3pXMVlBTUZONXNjc05EZFVVUTg5Q0lHZjhLR3U5aGMzaUo5M3BBUlJIZUlHYTjSAYYCQVVfeXFMTkpoYzNGd29hTHZZWXVnZXVkcUp6V2JWRFN1LWRTSVBIOU1rQlZKUEJsWXNtVDN1QmRURjVncmI5cmR2Q203S250NGVqNkRBaVUtd1ZHSTlkNWhvTFBkSmh2azNPZFVobjhqNFlLX0xzMEl2eVlhV0w3c3NlMUV4OVdiVkwydXJxZ0lmSU5NWXAwdTRPT0VFQVM0U3N6RmVVVVNqQ1BYLVRST1huZ2h4Uks4NkU4VjJwTENZQm5SRUQxMTktQlpJcldsWUF3RmcteUVUY252TW42OGNudjN6SWxvMTBhMVVxUzdudFNkNVJRMDF1b1dscGJ3VjBPdmE4blBlV0xpQQ?oc=5",
+   "published_utc": "2026-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jio’s AI education mission reaches every district in Tamil Nadu, transforming learning in more than 1,000 schools",
+   "source_name": "Chennai Patrika",
+   "source_domain": "https://chennaipatrika.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDRZRnhQZlNBcUNKUEtmRDZMLWxSc3NfbWhuNVVJQzhkWEJDMDZwS3ptZkRfQU5XTWpKTkYyblJTcWdHMUdVT2FjUlZKVmNkWWVkcFpIOVoxU2ZYNUQ2MGI2emVtUDFqR0FsNEhKdWU3THppdEU4T3FFa2N0UU9zN0h1NVZCRlNxdHFHNUJkazdKWUktZWxwZFM4TGUxOXdySVRSLXdESzNiRHNtSkRqVjI0RnhKcnU3Z29LcHZHR0FVMWFPT1ZHX2lucGo4dnM2OXh2SzFWQkFNQQ?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence (AI) Transforming Indian Agriculture",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QbWE0dlItWVZ0Q1FrMk42YXd2czFFdTlBWkk1QjY1ODhzZmhWVXFjeDlmUjBrMjkzT1lhTUp2ZHNMa0trdTNXUFRZclpDMHBMTlVqdFlfR1FSSFFxc3BaSWVaU2NxbEZPd0JLeGdDVnBCeWpYTzJxRjc5TQ?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI trial in Tamil Nadu aims to spot silent heart attacks before it’s too late",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0xmcXhYYTdYTWZiRm1XdjFqUU1CdV9hUDNzVTFxVDhuekx0SllyZS1VTVlwWEpKdkJkc2FSSUJVbl85WEdSVVdVRFVpZzRiRkxaQUR4VVpCZ2xmamthMll0aDJoeFFpTTFZaWJXTzNYNlpTaWowOGJNbnZDclJGVjFPN3NZeHZLbEZ3SllOZzEzOUhUSm1hYUpTdE9DYXRtNmJzMzdCS2hLZ2tLWkltb3hFQ01mUlpxU1ZjcXl5T2tKQXRhS3h5YmJleWVIeGIzd1c4R9IB4gFBVV95cUxQbXNaaGgzOENwc1VyLWNYTHRMTGJmb1FYVWpaRWg5MXdKVWF2TktGejdLWEgwbkhueFE2MTN3R2c2dElOY1hQeUljSGVPVVZLTmZ4WFFvbzVHa1l3Y1dPYjUyeHc4SndseFJvOGVxZmhhUnNkYlotbk15VGptTzdKZ0pRTnl4OWRvbFJSaTVOQ3Rqa21JVHpVM2tNXzNvNEhUTGVOQXZIa2JIal95S2o5THdSVXVLUUJmQWVzVXROTWJoOVQ0YW1KbjVPaUtoMjNqX0xTM3B2dGctRjhLdDRod1RB?oc=5",
+   "published_utc": "2026-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An innovative AI tool to improve health care delivery in rural India",
+   "source_name": "Penn Today",
+   "source_domain": "https://penntoday.upenn.edu",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDhlTWFpTmhUSDBZcGhUdndDc090NHZGSk1aM3FHMHhkbXBEUG42aUNxXzRZYWJjbEJaSEgtaDUxYW15d1NzX0xNTUtoeU1iSmM4OUc1RXpYMTNob1FMSHpaLWpLUlkxRTE3eU5SODlVd2ZOSWN2aFhMVGJGV25yREdiWV95dmg5V3dQZ2xUQjZFM2dlSi1J?oc=5",
+   "published_utc": "2026-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sovereign AI partnerships with Indian states",
+   "source_name": "Sarvam AI",
+   "source_domain": "https://www.sarvam.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42UjRpMFoxWmVuVE5wMDBESGlMLU1MRFNVS0VHcTJkeEx6YmwwOXNQakZLN1EzTGVDVEJmbkdRZ1pEVzU1dHZQRF95VlB3QW5iT3NmbllQMUNkMFBsRFdIY25GWlUtS2RGV3Fv?oc=5",
+   "published_utc": "2026-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "448 govt school students from Tamil Nadu shine in JEE (main) exam",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEY4eHZqeWcxRUZTWmdCSk5fbnBGNE5GRGsxVk1IY1VWaE5KUVJIVjJfUTFlSWZfNEFrQlFlUGlzMUNwQTV2OWJ1cHlSeE9JaHFjd2dzZUhpc1l2TFIySzgyVlNVNjI3bklpTFpYVzR4bDFGZHlwRHJUWkxfeTBHTFgyNWtzVWFySDQyNDNTWlRVeDFTdmpZMzZWV3pSZG1iVnVpdGVxUW1McTdqQndCWUQyZ3kzdFdMUXZZVmhUYlFZZFQ1TGljdXBPekFnRWEtZXl4emx4YkXSAd4BQVVfeXFMTTFLT1o1OFgwbWhleWg0TFMwWEJGbDROQnhWbC1fMjdNbGNzek9QM3diYS1MMDBUQ010TnZUOTFYUlBlUmJDRmhqVUdRVXBPQnpheC1SMXpVZE11WGE2VkRqN09Nck5ORFYtMGNIZ2ZtTG94ZzI1Y1hhT3R0OVR5c2hNN2J2NUxtUHFnYm1HcDg4a29jZ1F2VExOOU5pQ19STmR4VXQxbGJBX1F5a1ZVWjJKbHZYVG1PbHE4cDNnV2VKRHRBak80V1c2aDRHbU9weWZQN19ZemNORnB2SFN3?oc=5",
+   "published_utc": "2026-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With 11.2% growth, Tamil Nadu eyes $1 trillion status by 2031: State economic survey",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTG5JVkVUdElGcmhpcEItRGtpanBXd1RXR0NFS3BzTEREWXc5a2F0bEdMQUdodTRmWl9JVW1CS1pocFM2Q29HMXRkVy11MVZzbjBQR3k0S0w0UVd5VGdtd0lNR09zUkszeWtOM2tNX3FURk9QTTBjb0dfM3NJWkV3QnlGeDJ2dUNhNVZuYmxaeC1rM3psaFlxcDFxV0pLa2JReC1fZHc4ZGZfbXYxckpEdWVUQ1Y1dVJOaWFEZzByVFYzWnpOUFhPYWpRWXFsdnp3d0RzVFNJY213azc2a05DM9IB5gFBVV95cUxQakRndDRmdEM2M1JpRHgxNFl5YTJGSHY5a1UxWHhQUTFTVl9nZFhqMXRJaHFOQVZVeTdpQjFIRmh5bU9ZM1hTeW1HbFJTdHg5M1IxYUJ2a1ZmWDMzZGZ5c09sUDkwZWVuaExwU2VrTm85SVpLWWxTLUtSM1UzNFZNTVh6VUc2aTRTdzM2ZGNyVjBLYkZLbi04ZFdaYWduTlFYWTNOd0xzMEZaOHlWZFh3cG56TFVuMmI2VGZSVjBjWUpCeWIzUGlNRmprUngxN1BLMGNiMjlhclJnNWdiZnJ4RGNJQjR6dw?oc=5",
+   "published_utc": "2026-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

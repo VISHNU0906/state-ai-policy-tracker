@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "MP govt partners with Google to build AI-driven governance ecosystem",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1hXUWRaOW5zNVRZelBGaDlTUE9zdEZDem9UUkt2cnBEVmQ3c21vOTU3WlRxR3VOWl9IaTlzcXhGYjhXdkV3NThWOGk0Rk94cS15bzV1WmpQU09FTjhVZVVfY05rWS1HVlR0QjFITFhpaUVfSmRvdUJDMXczWHRlNjVoZXR2LWxBNndTSjNmUTFUMGVpWTgtUURBUmNreDQ4aS1Jd2N4QUhMS0xIVERmVU1rSktyRlBJcmtla3JGSjUxNHRTa1BER0pTeHhxZWJBOFllQkRtTGvSAd4BQVVfeXFMT3lZUVVxbkpZSnlKejJGUjVNaUFURUZWOXBNOTBHMEt0YVdMSGtITEs4eURMbXBXMnpCRzI2QndlNmJhaWZXQ2dObTRLdjRuTXZNaWw5azg0WVlDVDZKLWdzQWhJbzlWQ25nUnNMSUl1Mk1qeUNEUS1HdHRPTXlGRGxLR3ZHUFkyVWlkcVA3WXZiMFVOdkd0TEVVUEsxbUE5Zm5EZXpHcEV1d2ZCeGUxOUg4VEowWGtudnZQdTlMRXdWdXo1Qzh5Zzg0QXVrYnJac1hjc1RQSjd1THRFbF9R?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP to introduce AI from Class 8, vocational courses in schools; CM Mohan Yadav unveils education reforms",
+   "source_name": "MorungExpress",
+   "source_domain": "https://www.morungexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1QtVFNlMXdZTmNyX3ZwWTY4XzN0YmxKQUNLQXBtZFhfUDRMdFNIcDB3UUx4YnFKNXZlT0Fybm1VZGcxWWN5Z0RYQ1pTU25uSWl6MEE0dVg4b3FuaW5GZnJ3NG9FMkEyS3JZTFpPSElPdWFKSlo3eFpBajhxNXhZZV9KRkZjb1hJRFJNbmxvWjRHT09QOS1mdVRkeHAyQ1MwODBtaGhVU3BiUU5aVlBGQU5zS1ZmcG5EeXVpRHJYTnVYZGJTbDQ5WWN3MEw?oc=5",
+   "published_utc": "2026-05-21T14:36:25+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Judiciary Should Work Like Hospitals 24x7: CJI Surya Kant Pushes For AI-Driven Courts, Faster Justice...",
+   "source_name": "LawBeat",
+   "source_domain": "https://lawbeat.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSHdZenpWdXR3Q1g0anFiQnNMek41RWlNLVEyMjdVOXhUaWVhUWtUdEU0dVhzMG1QUUtPa0hGN09JdzdYd1h1eFlBd2p1LXY5VjJGdUxqWldFY0tweU42Y3NRZV9UMTU2Zkw2aWJ2UG5SN29yUlItUUhad1JaREY0YWNrYUJJUzlaM2NTaER1WnJBWVUzQ090TTVtTnYxYkpwSHkwcUViWjhmLW1Fa1RiVzR2Wjh5RnZua2VpQ0lNOWZybUZYeUt2dko4ODdlY3NOdUpMMEdXRE5QaDRNd01EWNIB5gFBVV95cUxQcDBwWGp0S3hhR3VHNXJ0YXFYZ2VqNVB2dkVqMzVoZU9VZGFLOGRXUGoxWTBHdEF1V3BURWJmcHRXYUxoVV96MktkbWlvbE1XR3JXSnRDMVNpZHFSWG9weUg3Q29vaFVCVjRrWGRaVGxkbEdwQ2pyX0dacDdJdndOTUNieDB6QkhQM1NlSHNFZHZoVzQ2eXd6azUwcXloc2g4MjUwNzR5YjFoNm1xNkhMREoyWkZlQlp5cGdrNWd3OWRqbndwZEZSWG8xaUlUUHFqWV92ZTJyTlZCSi1fdzQwa0Qtc3AwZw?oc=5",
+   "published_utc": "2026-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan agriculture department, Wadhwani AI sign MoU for AI-based farming solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUmxMVlRvQVl5OHFSNG1LejMtZnFaajhFYlpzeWh1WWo0bzdneDNncXgybi1hN0laNEdmTWl1NmpNaUt5VTN5dE1ZZU8wY0pXdXR3ekRpMDFaaGJLZ2ZMdjlwd1hSTkFxY3ZjcXVWWnpLeVhhcFZJdDVBRm5DampvbXNmUVh3VHVWdUZUb0N6a05kY1NZOFVUS0xRLXJnd0U4OFYtQjBCOE1PcmpqbG5OaEdVQ3U0ZTRGc1NIT25ZTGFOMjNSdzZ3MFJWaGotSkZ1cWhvU0ZsSkJiQzVvOThfYXlUWW16V1k0NUVlOXR30gHzAUFVX3lxTE5DTlhTSndoVk81VnU0SGJmS3BSNjNPZURKREh2M0lSMEhCbDlfR1NuWkxIQXJFNklLaWF6dzdGYUlZeUdPYkxIWEZybGk2SjRyQlFJZ2IxbnBNVnRVSmt5R2VLbm9GTmJwTmpreTAxa1ZIMWZHYXNTSnZQbENyYzRjbnkzNTNxbTd1cm90NFJvUVo2OXVzVUtIbC1YdzUwdEUySklwWU5kZURKMVFWY19Fc3dsb2M0ay03aTA3TXdfWE9yRm5ocEhMRWpmZFp1VG9EdVpPbkZjRU1XN2ZWeWtXdUpLSnN0Y1kyMEVpSm1XWWJRdw?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP CM Yadav holds meeting with Google Cloud India officials, discusses AI support for governance, simhastha ..",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcFFFdlRiUG5yVDJ3VmNZb2ZhcTRoc3FaSGJuYXZzaTZZd2p5cFhwdV9OdW9hY1Z5VVM5UGR2c0lLSFBrRmNhb0JWSnVhQ05uQ3FmNzRrVDhWZXkxTkpPMjl1R2JXQU5PeDh2VDFhQUFtaEVnZkJRV0ZrMVIxYmljcVdfWDJUSmo1N1h2TWlOaENEQjlDX1pMZ1ZFOTVUN0NJUU8ySTlWTDlQbG9MMmpJeHFSaHJ3YlBhLXV2NEtXRVpNZXEwb3Q4a3pCUTVFOU5lTFFTMC1heEJrc1RZWHlfZWJXMzgxNDl2YXMtY29kWXpnMlFkYk1nUDF6dUpQVW5INWFQc2dWb0Q4R2l0TGdDb1R30gGXAkFVX3lxTE5LUXp3dzRkT3FwMXFvcGw1aTZhc0FEbXA5cFpaZWlqNVBPd2J2aG53T0lQX0w4TW96RGdfaV84cmxiT0hRY2dMMU8tZlh0Z2lKYlhXdGt4MTI4WmY5aGpQVHMtdW5tRGNPWHlJX2ZtNUdVMzJBNlF4aW56MHZFMlp1U2NuNjc2VngtdWZULVgzRFhFRDlkTndHc2dvRFVWNnZiejlremZCWUw0N00xQW40N191TGRGa2QtVTN4a3NaLS1RUzNZR2lZeW9FUWZqNWV1NU8zQVNfWHFvTmF2WEZTeFhUTnM5UXJ6WHNKSC1TQldScVNickNvenY5eGprX05tUUFUWjcxZ0EtNFhyZ2NUUkN4bEdFdw?oc=5",
+   "published_utc": "2026-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Powered Spatial Governance The Andhra Pradesh Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmdhcDZBMVd1Ti1JSW5HSUJrWV90SGl2T2xjOERLSXg4OEVQLUpDLW5DRi1TbmlQOFlTU2JhbjBhQ0Y2Y0llbWY2VlZTd1ZKeHFkMEI1aHhVUGJTS2VULVZLSG1IRXNnVzI2ekNkUUtlU0pfTHQ2cjZtQUljUHhvSUJRQ0pPT2pUMXpkY3c4a1JJMTVvQ0FJ?oc=5",
+   "published_utc": "2026-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Launches 40+ AI Use Cases Across Departments to Boost Smart Governance Under GFTI Programme",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHRPZzUtOEtKR3I5QTRlLU5CTExKQTBpTWpJMmVhZHJUUGEweUtndEE3MmYzcm5yR29Wdmg2UDFjdlBubnM4M3NTeThEN2xzdnVWcGhleFpaT1g4VTJKdzBNUFdDVXB3d0JyUm12VVdCX19ISzVtdE9jTDVOTDk4MlRKQUZDS1hEdGlsUGJzM1hzVTdkX3QzZHNKYnhkZw?oc=5",
+   "published_utc": "2026-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

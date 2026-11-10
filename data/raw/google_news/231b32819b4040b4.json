@@ -1,0 +1,37 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "Experts see next wave of data centre expansion in smaller towns of India",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlVFd2JBcm15SWNuLXJWNXFVYktsZ1FKTHZFRkNYbktVQW5PT1dzdmFXUElRUFoxUFdlcVdhRzEtSlQtSVIxcUhfOUxsX2NYSWdPaTJQUTRwTllnQzhIdGJWSm4wU2lBdExfUUg2WC12UngtcjVUOXZsdVQ3Wlp4THFVLUtIcnB1a1hET3JYN3hCcm1FQmlUTXgzTkFock5QRmxjbTNDMkRodFRwTmJtcjU3YzA3c01yU3c?oc=5",
+   "published_utc": "2025-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Henox's edge data centre launch marks a milestone in India's digital evolution",
+   "source_name": "capacityglobal.com",
+   "source_domain": "https://capacityglobal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNblJveEVEeThBMDVMY05tUWk5aEpvSzVKekJzTVNRU0ZBeUNFYy1wdWZoSlpGV29COTJDNzJuNHRoZmdtZGhHZU40b2xMdno4dERpaEVzSWR5c2FYUEF4SGJNeTFOaFNHZEh1OGZvVEZ2X0xVTXhZQmJta0I5Mm92RmZZdnc3Sk9mMkd5aUllNGtZSmxFRHdNTWpOUXVUdk5IOTh4SVlkcGVLc0tvdkE?oc=5",
+   "published_utc": "2025-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Block Swiss encrypted email service Proton Mail, Karnataka High Court to Centre",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1YyZHdITjhmS3JhNXZyN3BEQkVfWTFoZ3FuaWlGZHNLTm4ySS1ONm5XZDF3SlRITFNkNDc2MS1xNEpmazBLZG1GdDBWQllqdXUtcDA5YUFxVGI5QXp2ZWNjZTZ2X0s0dTR0bDNLUjJ2bG5KSzh5R00wZWgwcnNvNkg1UUxncl9PbnRIMEFWU3lxWk5iZTZBc2NONW1xQzjSAaYBQVVfeXFMT0FEZnh5RHBCcUxsZEU0cUNFOW11eVo4TUUyWmFURE9iU05PX3doTTN6SjJNMXlSZTRxVm5mby1nUVhtNnlPcHNJdXZXODBwWmYyNGRURTJRUFF4bzRIYjVUaXVRTmNFbEJ0RlNtM3JGX1c0blBvbmdBQWMtTnRDeWV5ZnpzandELW1iRkJROGJHeTNoaUtaY290WlFDRi1iWGpvZUFTUQ?oc=5",
+   "published_utc": "2025-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Court Orders Action to Block Proton Mail Over AI Deepfake Abuse Allegations",
+   "source_name": "The Hacker News",
+   "source_domain": "https://thehackernews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zd01WOV9FQmZpeDAyZHdVYktzVTMzRzRHMTBOallZNEFFbXlrUG52WXlQVllYY1g4dEFKOFNQRkVXaFRHbnRQaHlLbXBCTFktNnFza1l5T3BvM2lsY3N1QTlkRmVsZ2UydFZrVUZmVUIxYlZ3Z3NSQzhmSDVYOHM?oc=5",
+   "published_utc": "2025-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

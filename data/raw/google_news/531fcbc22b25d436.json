@@ -1,0 +1,37 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "Maharashtra’s Data Centre Race is Headed for a Flood-Driven Blackout. Its Mangroves Hold the Clue",
+   "source_name": "TheWire.in",
+   "source_domain": "https://thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONE5NbjZfMjdzYkJDM1NPMDJvUkZhTFl0MGUyaG5NQjNtNUNaYzFoRGFjdG9vcGp6eTFFMlEwVWdOMEN0b0FVSnU2LXNwZ19GNjRWMjF0d3p0OE16Y1Q1UmJXbF9yT1F2RzNkd3c5QWlnMmZjZzJ2NkhGTzNaMGxtdmM2MHFVd21fUjZNZklyMlFTZnc0VDN5b1otcnAxeko5MGVMQmQydURtOHlIazQ3MUNBVEhoUTItTnI4cGVjSUtuMjM40gHXAUFVX3lxTFBHa2pmX1A4YlBxLVBZUjBMNDJKVDRTci05c1hGbWZlbzllSVFIWTY4RThoMnpuWU1GeDM1bkREeWVma1ZFY1dmbzlTM3JJTlNtbTE4aEV6RTlENWM5RG5sTS1LS2ZHMHc5Z2g4dlBYNGZUTVhBc1VFUXdLeFlBM1hnM01fSEI5UVU1MlhxSnVwVWhHanRWeTlnelVWN2lVWkdMdm5oLVpsVnotU0NaVC1TMVl0aTVvSGN6MDVmcC1iMEJUZWxNZkNGcndMcmdYM2NKdmpSdGc0?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's data centre market rises globally; Mumbai leads: Report",
+   "source_name": "Awaz The Voice",
+   "source_domain": "https://www.awazthevoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUR2SGpCQ3Bkb3NzTUJzeGNTd0hoam1pOEI0c3lZQmRlYl85Znk1amVUQm5Rc1dNdkpOanN0Vkd2MUlZaGJvZ01yMEJDYmpSeFVPNlFzZkYyLXZXTFU1MFVCWDliUVNiM0hLRkMxaVQwemF1VERvX3Bja2NpUnRLU2RKMk1xZVRzaHRMTHJlV1NsRThvQ08xNkZFdzF6Vm15Z255UkdtSFZEdEdCSjdqV2dRajY?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government tightens deepfake rules, mandates AI content labels and three-hour takedown timeline",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGFHYUFBU2xpcEtMMlZCYTBSR1RuR1dWM1dWZnhvdEtoaFpZOTVjZE8xN0l6TzZtSzFLZmROUXE4aVBfMmN2NGhUTFAyV2tQR3BoeXBjSHBVY2ppdjZsYWFURVdPNTJjRlVvMjNob0JZUGNYMzJXalFHSWowY2hCeXhCbEdwbzFfdFNBTXd0ckRhMGFPcDZGa2twcDd2dExfVlRhek50U3kxNEhmQ2MyT2JFVWdFTG5NS0l5LW1BV3puclBiY3F0MWk3THQxeEM5Sml3T1RDTjFReVU4X0d6Z0RhRDZnOXU3TDVDM2d1am7SAfYBQVVfeXFMTlNqMTdPVDdxU1A1TV9BLTdZNVFyd2drYkJJN3lhNk0tQ2stTjVvbXNsTUR5MWNNNGlCa3R4OENQNkxMQXRYbUY0WjVPNktrb1NUYzhGSm9kRHByQjhZMFFEeVlYZ185OGxuLV9QYVlXcng0WE5Lbng5bkNheFhyNE9XWmYwUWZXRDNFTUU1b3k5LS1qMjdQZ21zOFBjS1BSM3h2eS1YVnhYRWhzd3pZc2ZNRTZodXJ2b2ltNW1ZRDdvN0NySmtnUHV4NndxOUMya3NYejU3ZV9UeVpkcU02MzJ0UUs5NFEyUHRCdHhVNUo5LU1ETU1B?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt crackdown on AI deepfake: What are the new rules for social media platforms and AI content?",
+   "source_name": "India TV News",
+   "source_domain": "https://www.indiatvnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRENqNXVOOE5aZDduTS13aDgtTUo2NjY2dWVJaUlacWFXU2k3d1lwRVJldHBMbWxLOUJXZ1N5VG96WXN6enZiVUh2d1R3NFdmdUtRNkFMa2l1U2xDek9NdTAwYzVBQzZsRW1KSF9JRUNFX3J0MlcxMVozd3QtVFgta1R0UHY3QnppcHdLQmh1ZEk3YngtY0JwZVBxRlR5d29kTk9nMFVfR3p1QTRXVFRYOGUwakZ0MG9TdzFtbWtFaFBlZHRERUIza0dZUkdpZGttM1hIZnIyeEZKU1hOLWxDTUdn0gHnAUFVX3lxTFBxQXMzM28tYUhOWm03aVMwRzBEeGVlVl9XM0ZzajJSQkV4WU8wVnd1a1Z2ZVYyem1nNnR6N3RJUHZPdjZHWDhSVmpKeGRQc2lUTUVoU2ZGN2FPdFlaV1J1Z0Zla2VtM3cwRm1TTm1JM3pwQm9iNlprbUhVRVh6TUV2dmdBdnRCRlNVTU44NGxHRzhnNkxmbExsVGFkYUF5M00xU0lWal9QUXdFSDVBRDF1Zno2N3JLZjFBOFN2RkhZcTZsWHlvQkxETXhNMFN0N29FcEtGZ3JEal96ZGEyQUtablNHV3dXbw?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

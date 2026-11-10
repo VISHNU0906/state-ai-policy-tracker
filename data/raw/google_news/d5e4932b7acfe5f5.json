@@ -1,0 +1,29 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Bihar signes MoU with Google & Microsoft, two other companies to promote AI",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXJZdkh4RERXdFpraDZGS2VLcVlvMl9aSHJLbnM3dUliZTVETlV2RWhtMlVJMXhZZEF5SEZyY0lXbmszckZzSUc2bV9ZMGNudUM1UTdzTEVjLWZ6aUZFNDJWOWxlSGZ1WWx1a2R5SF9LSlA5V0FnZFhHQWllUnY2a3RBajViVldjSTBMTU9yT3FQRS1lYWRVd2RtMHV1LUREanpyTVdmNUF0dnIzWC1BWjFEekZzdmJmMzBJaHNZOUZXcG82WUppdFNB0gHXAUFVX3lxTFBPUURYZW9ySmVkVy1BOFlVbHlOaUtnaHVUOFhPeUxydEE2ZUtNYXQ4Q0plcGZXSXk3RlYyRHhYMmdJdHFndkw1aWZhc0ZqX3FEYmtlV1FndzZuWF9tTEN1NFozX0NYTFg2RE8xV3Z1UEdabE5ZeW56RnljMGpXd2c1SnZ0UFI1bVFSUjNvSUtheHA5ZXp0Z1c5RTdHZHg5N2dYMVVGOFdCVkFBVHJkeURDMktUUmo1d2JvR3hiNkF0WDdfX3FsWmJ5RkVTQVB5YWRuZTVPVlM0?oc=5",
+   "published_utc": "2026-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance and Meta to Build AI-Enabled Data Centre in Gujarat’s Jamnagar",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkZaeWlKTnZ2QVV2YndrTWRVQ2tGanZKQWRlcTFnaDk2aVFFSUhHWVBUN2Zqazd2WnZMcVRvUHVfWlk1ZlNBRTlSeEJRWXJ4YWNrZHYwRl9kNGgycUlwbHIzRmJZbDY3eWhUbU42bTZRMzJLampoUUJkSkVZMXdVTHBVT0tFZWtGZm0tZTF4eXZOci15cE9TSnFPWjBWdHpMV0pjeFdsUHRPVFFs?oc=5",
+   "published_utc": "2026-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: Bihar Boy Didn't 'Hack' Google",
+   "source_name": "varindia",
+   "source_domain": "https://www.varindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Sd0RXQXplZWRtd0RhVVdBU0ZlMFBzRmE1bHh1TkNJRTJHZUpyQTB0NzVxUllxd2hTS3hwaU11LWFBV0RBZUtVbm5USXpUcGJ1TVJrTkVUVVYycUpCbE4zeVNsRXVwV0FjaW1FYU5RQmtRVU13cGc?oc=5",
+   "published_utc": "2026-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

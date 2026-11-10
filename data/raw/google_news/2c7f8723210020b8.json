@@ -1,0 +1,109 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "A race against time: Maharashtra police get an AI copilot to fight cybercrime",
+   "source_name": "Microsoft Source",
+   "source_domain": "https://news.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXFiLXppM1Z2X3lFNFBBd1RybmZUU05XcnhqNnh6UmZnS1dyMC1udkM4cUhOS2FTa3NSOHVuaVVqd1hWb3licmQyaEJpMXhzMG5NbEhfeE00dENhQ1JDak5qVi1nWVNpVE50b0NGUU92MHZBWkxXYWpTSmxUaVlCVURVWk5jd3ZFeEI5dmEzZm02YUd4UDROZVZaN2VucGJGNTNBLVp2Q21XS1Z1cFIxSmpZY1FoRl9Tcnh6Y2VNazY5RGc?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MahaCrimeOS AI: How Maharashtra Police Is Using AI to Fight Cybercrime",
+   "source_name": "Vajiram & Ravi",
+   "source_domain": "https://vajiramandravi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUF0SVE2NUNkcG9ZNXdXTFhNY2RZZ3YxUTZhVjhtME1uWV93MmxBY2JNeUMyaFNOdmU4ZnA1dF9xbVhVU2JwZlRKbHJFeWs1aDB2QWxMazM4NUZwSjZqQXExNFRFS0lIa0ZkNEVxYlh0Y2wtc0UyUmRybl9jaDJfWXE3Z01LdHZVVzZKc29xQU9jdVBCckg4SUJxekpscGZzUk4tQjZHMjFsQlZ0OW9QNnIzcw?oc=5",
+   "published_utc": "2025-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MahaCrime OS AI, built by CyberEye and Marvel in partnership with Maharashtra’s innovation SPV and the Microsoft India Development Center, was launched in Mumbai by Satya Nadella and is already live across 23 police stations in Nagpur. Chief Minister",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjEyUnJYQWFZRW5SUUVwVTZXalRINFFfNVRiTE42RlI3YnM5aDZEUnIyNTBMYlExRjBtTmtPOGVMQkRtSFpWNGNKcUtDdERKNXh0eXlFR1N3bFlVTkdpVGVOLXZDbWc1QXNLR3BrNlNwLTB0aUZrSGtucTdGOXdnTkQzYnZZdHdlMEJMd2pwby0ybVJ0VUcwaTNKa1pydXhTajVxcjdVdE1nc3QwRV9YNEJyV2NWb3NOZ2U0dkdTc2hKcjNUWWVOUmFKeExUanM?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Satya Nadella launches AI-powered tool for Maharashtra police: How will it change crime investigation in state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMDIyYUthcmxwRm9PVzJ3OG1MZ2gxY1NROVhsWGRycFhNbzRaVURsS3dpOXFhdkNDVDNGTE9ONndNYUhRUmJNcl9VeUV5WEJEVjZNNGoyM0tNcWNyUHZ1SnRILXZzWkN2NlNtTmU0TDBiNzBmOHM1VWpTc1BUSGdXYU5DcWE0RUnSAY4BQVVfeXFMTXhnemhDZkVGRDg5bHhPTmZRRGNldm9fQ29pc2o0cjJ2WVczQWxqbkpoN0UwcWI0eUhrTEJvM21TLTNSeTdybjhMaUljeXN5SktIcE1PaWV0WXc5TXlNX0VTaDNoRU1lWXhral9iQkJjSEEyN1N0TFp2WEJqZWt6dXBXb3ZOZ3N5YXlIYmd1Zw?oc=5",
+   "published_utc": "2025-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra leads India’s AI-powered cybercrime fight: Microsoft unveils MahaCrimeOS AI to combat cybercrime at scale",
+   "source_name": "Microsoft Source",
+   "source_domain": "https://news.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWERXa29wLW13VHphQXREbXpGQXFCUmxIM3ZtNENyalNxMXVlYTM5U01yVW1UMlNROGRlM0tZcHdIZ1F3ZG5OZ1l4MFlkT1M1dXRvblgyOUZlOTRfbE1sZjFpakI4aG1mb0dSSzc2ajRvMjY2LXRPdjFNeW8wdDM5UWFnRDBsc0RuaFdadmNTaF9zNl82S1BkMFNVZUxMOTljbGJleDJIN09vdEVFWXotSkV2TTJzZ0ZvU25JcEtfc2YxV2xWNS1nZzJDVWE4TVpkZFkzOUZvcEc0NlgtUW1jNGdmUEtGajFJSDBqcTBjb1NYaEM3dFg5Znhn?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra expands AI cybercrime platform: MahaCrimeOS to cover 1,100 police stations; faster investigat",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPX0JKMFVkRHVybFhsNlhULVgzMEJrSUk5dUtUMVN6SHBiMlFvRGcwV0s4YmpIaGVCUVZzemI0M3VUOTlKalJWRUdEV1NEbncycEVLb2hsS2FVMlZ0Q21xZVFPRm83d1RLRVUtaHY1MjgtaWd0S0R6TVZaYmZmX1BJeHMtQl9FVXFBSDhXYi0yWGZrVm5IcGJvZ1ZZdVdlLXhadGYtMllZdjlIbTA3MUo4bjBPT2tlTGVCcTFuVzhWdUY5eDZBNEhRLW1yYUJHa2JuUjR3cmJFM2ZlVXJmYTdEZW9PazMyU052U0ZhWll0alozb1Q1NmllcjZOaHo0X212SFNkTl9BLVA4OWc3WlBNWkROeFdIcG41VnR1dnpwQWl6Z9IBpwJBVV95cUxPemR3a0dUeF9GNmlialptbTQyYlZhMjNYazU3WnB0LUxDY2hEeXZVRDdOejNRN2ZBZHZxNXBmMnR2VXNtR0w2dVBJSC1Xc1p2Z1R3TS1hemQxVHFYaDIwLTU1UkhkSDlpSkdKMmpKb1NWRXBxck42akRHME5pV0JHTTdjN3hCblAtSV9GR093WGU3VHR1a3NmTkI1bFdUWEM3d2xKQlJRdmE0ZDA1X1NlLU9TakNZSVAyZmxzQUdPMUt6NC1MVE5XX0NoWE1BeTFvbW5RM0pabkxzY19rOTJ2OFdkR2JialRKVC1EWW1mSkxfbFZxV0dlMzh6MzBFZjRsejBfck9wenUzRjdSem9HWGZ2SXNLcno2LXd3STdFSkdELXBaSE1V?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ashish Shelar Unveils Maharashtra’s Ambitious Vision for AI-Powered Governance and Growth at WHEF 2025",
+   "source_name": "HinduPost",
+   "source_domain": "https://hindupost.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTEdqenhtSnNjdVl0UnItVE5Wc2o1NXZnUGpfTUY1d0ZkMGtTVnJrVkcyYmZVc1E1RWtzZ0s1d2c4TTllR3Znczh2M2RSY3VWNUdTcFJHTGVyU3ljdG85cVhiaHdSR2NYWHlXZ1A2WUR2dWZ3ajZoSlZXOVh5Z1hSTXdrODJxZ2pGbU92UUxNVTUwS0V0dWpwaFBZUE14R1cxYlFOMmJieUk2VHlGWVBvaXhsNkhFa1lqZm1UNV9fUE9WalpDZmQ4ZzF4SnRTQlpEeFVaLXNQaw?oc=5",
+   "published_utc": "2025-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra wants to adopt AI-driven model and adult open schools to prevent school dropouts",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMGpyMlA5VFZKUWNNbTV0NnN2Sjd5eTRNVDhRRFJma2x6b2YyTC15d0dtRW9vdGRCaFgwWEhicFZHVU5iaWU4YUczVUF2Y1Rja1BCZjVKaU9yY25OaHV4OXNHa3VuQTRZLUZUVW9kWVBjNkg3enl3UmdUY3FDLThOZzZ1eW9hOU5qX2dRZEhXQkpIeTVudVpMdUhqb1lKNGhxQ25BZmN0ZFNYOUJ3cUNEZGl0UTFwSU9xQnMzSnpzOVdWYkVycjRLdmxPenE4a3JhbGV6Vkc1NGEwMXk1NDR4UHFYMnFXUjNBS1HSAfABQVVfeXFMT1k2WkVfYmtVUG1kbU9hUklLWWl4bHFmOVV4ZG5EakJHZ3djcl9SWWRpdERfYUVaeUk4QlFMaGZ5aG9uZkNLNWo2LXlEb3FoZHpWNE1UY3dsN3ZpN0E3blZKYzA3VzNpR0c0blFSTEFhY3hlcFcteWllaXRTckpXWmxvMnJyS0ZNVHRQZy13Z1JjdmFFbEVQSVlOUEgwQ19HRjlKWVNpRW5NQ1pVOUpPWFJHM0VhMWgycWRRQnZfdy02Q2gyZjhFa2sweHdhdXZjWS11TE5ZWlljVFQ5cU9LODE4MS1hUUo1cVR4dnJZVjVF?oc=5",
+   "published_utc": "2025-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gautam Adani Unveils AI Centre In Baramati, Says Youth Must Lead Age Of Intelligence",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOGxzb0xKbklXZzEzY2tMaGRZZ0czZ1prREExY050VWtCVGdpTWV2YXg4dWJ5cURRcUtCWUhPSXFPaXRxeGY3VUVjajc3VGRnZE95RWNjLWQwalg1X1pIVlBBMmstVnF1Znh1eFNmaGsxQ21RcmtmZU80RHM0ZDhDdlp0R3ZhaEVrZkQtaGoxSTNPaG5xVjBGVWtwWE1rd0o3T08tR3dkMlVvZ2M5N2lmWVExMkpjVF81ZUNTNklON1VqQWFsZ0NiWlFqS0RVSHZzSDd4Z0FnZjhtV0NLWGo0X1RpMmFsTmdTcnVWbGxzRGdERFBGcV9YZ0JwbURveWxVMm5TN3dIWUFJd9IBkgJBVV95cUxQU0JObDBnbjR3R2F2NkNBcjd5c3ZnR1hnaTFKazNxVEVwRUZJT0xycXZXQVRibDA4LVdob3M1RTJVSVRYNXZLZG9iZFV5X3JVRU55bExFSjRzYXFsOXNncWhKLWVrQVJkOW9sLWJGVE5MODJBZE1EaS1QYzZ1bWRLV010R0dGRFJQdUhLUWxrR29HYWFWdlNqNThWLWJ2c0FjeHNkWVYxdHdMcVhic2tpR0dIczJrT2gwRklhWmxoVFotNmNWclJ2aGl2UnFMY0o4eTlZNDhqOGNXaUc3R2tzMDFrUDV0STFJT0wyUm9Na1R0ejlPaGczZ2Y5aTRhUlc2emgtTF9rU2hHWGJRSUNPYlBn?oc=5",
+   "published_utc": "2025-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra police use AI platform to combat cybercrime and support victims",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWI5N09JS1JIbVVDd25UUkZLZXk3bVl2dVRvY25zamRNZ1lNUDE1N1BWRTBLS2R3Snc3RXVyUkp4WmxoYUgyV2pZS3BycGxXczFvRjhaZzNZN0NLMnJRNkt0OXJEN3NOYlZmeXBwMkhxeXN6MXlGWWVBYWxENVlOVmstMVBRTVRYd0VhYURxZ2tjU2o4S1RPVDEwZE9oSmhqay16NUFscWx4dkc0b1lsMHdPUWJBOHA2eGVBZTN3VVhTQ1N5alRhc2tmY3doZWtLbUZMdm5WUkNQUGFuQkVYaFRhd9IB6AFBVV95cUxQMDVBdVV2c2U0RkN3ZWNObllaekxZWVlVbE5DTEFkUGdFeEdMN0lxaW5EV1dFWV8yX3JBRnhRc2RhalY1bHI5cE52b3FzUWpSS1ltR3dLYnp2dVh3RVFHM2ZxS3hxOE1mV2VnelM3THRzQmZKSGlTVGNBM3Q1UHRWMnlWMnh1V2xKLWMySTNwQzFJSEFZNWZPZ3lzMEtOb3MyWnhIRl9iRUladHlOVFBYa0tWcTJFSUkxY0c4clFOdzlwV2xaTC00Mms5OUFVUmNrb0hMdFVEd1BMRG9UR3JNMTZ0X3VuSWtv?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sharadchandra Pawar Centre of Excellence in Artificial Intelligence Inaugurated in Baramati",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkE4dGJrSjJkWXQyM0RZRXplUDRVczZTc25hekFSZEsya1c2ZEJldm9pQU5wejZvcnRNd2VxM3B1aGYtczhhMEJXNzgtWWFxamhIdi05UzZyUUZaS3NCcTZqWmtLZXRFZnBtM3A2T01sLVpTU2I1bVJPNGlSeU9RY2ZkSXJTYWQ0b0NobXBHZHZKNDNKTlhWaU8yNF9hR2NlY3dFSS16VzZEY2I5ZFBSYnZQTWdQb3NsYVd3eWctcmg0RUpiLWc?oc=5",
+   "published_utc": "2025-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Double-Edged Sword In The Education Sector: Educationist Calls For Ensuring Data Privacy",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDR6Qy12WDRwNHVFaXFCRFhuREtxZGZIOFlKcFhtb05zYzJSbUVxNTU5dnBEWUFBM3NvdFUxRUZCeTFzTWxsQmNpNU1QRFkwcjBmRXNaNzRydkhlTUdwdlYwa2Y0aDdoSnBDcFhvSzRZdHFWc2ZLNlVMZnBneDdza2lPbXdyaDZRd3ZITi04WU1NX05TLV9RV25SNGMtV1d2R05xT05zd1pHM0ZWbnp6VjZlVm1yVGhXVHVIZE5hTXNWSDI2andncUQ3UjLSAdIBQVVfeXFMTjlObEJLdER4aFNySE8wdjNiOHVQUXl4UTdRakRsMGl2XzJUa1dLajBpMTNwYkFNd0dldXFvampOQWRMbjRhYnR3amt6VVl4V1JqbFpMWjBHb0ZmRms2cGlVV0pHUks2UmMtVEpGV1gwV0pUZHVJWmtDc0hMaktqcnVFRnQ1bnZhX2d4T3dMSXdJam1lS3hmNzBRc1pqQzRWTDV2ZzJaZzBGekRvS3NFd3VZeUF0U0k1R2ZBcjBLVXNNS3NvT011YmJGQWtsOUtTQUZR?oc=5",
+   "published_utc": "2025-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra NEET PG Counselling 2025 Round-2 Seat Allotment Result Declared; Check PDF Here",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONmhyVXdKSDJkN2p0WWdqYjlpcXQ5ZmhLNFdkQ2lGeThQYkMzemhBRGFFQnNLYndJY2liU1VLcl9jLVZ2RE9DWnFfNHBXakMta3I1ME9STW53Mjd2RTdMcXdWQi1lbkRHUl96VHppWjgzbl9JVDlpUlVSS0gwTVpRTm9NQnpSNGxFbzE5TGpSYXE1UC1halJ1bHdsLS1fQ2hiZUdhd20wLUo4UnAzWFlxb1FjLUQzZXViRUhZOEMtVU5zWl8xVTFESGlTVWLSAdIBQVVfeXFMTlppdnREVnZmNnBuNXBLbk40dk55c1UwbFRLOS1qTUx0ZDd2bTVNanBQMXhQNVlaOFF1T3lTNk9wZWowMUxMT1ltbmtVa3dqYzNJVk9TVjNlb19hZE0zblQzWVVyZkNvOU9TZmlpNFRnN2RHaXIxV0xUOFhLT3Z2QWgzLWNrNmFxRktWNjU2Y3dHelFaS3pHemdYTVNBNzFqd2p2UVc0WDhkcEFQSVRCcDc4SXNKQnRHUFZ2TVBQWGZvNUM2V1pQbjUzb0lnMW5MUmdn?oc=5",
+   "published_utc": "2025-12-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "Microsoft roped in for skilling youth in AI in Andhra Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzVtcldzUVNUenlCdkROUzQ4ZGUxenUzNmM1ZEMycG5BcTJIS2U1cVlicW03c0lHQTZtNEQ5WUdLZVRjX21zRkVFeHhQTzJqbXBlQWd4Zzc4V3Q1UHJDSVFhYUpFbjVod00xbEs2M3NGc2RJQUo0RW4yM19qbVczRXo0b1UzNUs0OGxIankyRzAybHUxTl9HSjNUQldjeHZfektPUWloSmxNSjc2VUFaeGZEQU92T0ZSamJNTl9JTmp0Z3VhUTgyWjVnT05RYThz0gHXAUFVX3lxTE5pZ1RZZUlUYWV5WlBQaVY0V2k5Mnp6YmRjcHQxcWhOeTU4OVFxMFkzWk02eFJIMjZqMVlBY3Y3YW43X0UtaHRaTVhFU09DS3BWSHFQeGNCbndyaWVGMmVHUkRSenB2aTVoUDU1ckczdE1Uc2JEX3RxR0RweGpPMWNTb2FZa25uUUJHOGZMUUNyYWJObTkxWmY1UFk2T2YxS1VMSjVIa2w0S0lhNTNmc29BNFh1a2RYTlNWNktJeW9hblJvLTktLUNiQnJTYktJd0V0TXJlV1VV?oc=5",
+   "published_utc": "2025-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Goa Shipyard Limited partners with IIT Hyderabad and technology experts to revolutionize shipbuilding with AI",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nUlpNSWVMOEtaWkJUZHFORmY2QjV2aUlIWFVYZmE1emhPUEkyRDU4MnA3MzVRaFpENmdsdHdDbnRjSGxqR19LTUhoMnl1bHhmaU15VW4wM1AtRHZ5ZGQtWjR1UEM2OGZw?oc=5",
+   "published_utc": "2025-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government signs MoU with Wadhwani Foundation to boost AI adoption",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWGRCZEFEcGo5djIwc2FzYWg1cmk2cW40WldBOENfWGR1WU9TRW5hR0MwZjRWanFacXNQQm9sbTVMdDRfMThTTTZtRGc0bFdOaDR2MHo0QUxIRzZ6SWU2NHhMLWt6V2NRck5nUU80ZU1rYThjS1Z3VG44bmtQVW9CLUtsWmZYY3c3NW4tVVJEMnU3XzFZNEtBc2E3MDFnZUVqb21hN2R6Nnl0T2FlMmVCSXVXWFB4ZGhFQ0ZrOFg4Um9MbVBUYjVxNVlsY0Y0ZFR5LUdUSWpRNkhDeVlMbUxpVXZFNVJiM3lpQVJmbDk0R3rSAfYBQVVfeXFMUDlPbUx1SThTT0VrT3dLUDZUOHl1M2R3bHJRXzl5b28zWnEyREVjQXpXY3NqdVk3bGY5c3E0QmdPS3Zaak10VUk5S213ME5GUE81TTRNZ3dfWXJvTkRqSmlrZDNDeXZlYmNIM1Z3Q0h4bmNTWHhDWTk3MHIxaDY1eW15Nnd2djNYMGRJdEM1d3FPVFlFV3RvbVY2bEpONkc3N2htRXlQd2NJQXJMbUJQaW1Ma29MVDAwYnpsemhEWFNGc1prTnEwdWJDdnFESUJGOUU5dDBOVWtYVkFLZ19TWGE2aUVzNmRiaVlTcTQ4VGpDTGR5S0RB?oc=5",
+   "published_utc": "2025-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh signs deal with Microsoft for skill development in artificial intelligence",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZExyTmllSldDMzZ2ZHlvc1VhNWU3VDdtYjhWMDh6RFhWXzJhMWdRM0NJZ1JLUC1HODA1QmtmZEtMcjFBeEZqY0FtSk1pN2dKX3FmVmRpXzk3aXJxVnZXanM2QVdmOXFLY2dnRXhocDNxVlljOHFtaWZTc211eUFwbmpmWmNSNVFLMWhsSUZUWEdTZVF0LURmdFUtODIyNk1jRmY1eEEyMy1pZ3BteHZ0cmlXNERQcmFhQ3dBWdIBwwFBVV95cUxOVXNmaFRYWHFoUm13T25hTGVVUS01UnZPZ1F6LTBsalFaWUNmTnRzYjlJS01TNk1ZV3o1NUh0dFhwbjRYVVkzbEkwY0h5VzdjcDdDbDZwb09rczIzVjVoc0Z0SHZQbHRtREx1cDZtbzYwUG1OYjhPLVpBV0hFX3EwVm5BdUpjTHE1VFFSbmpwa2RsZkFuaVo1WkNfOTg2QkpGUTVFVWJBNVpmdHhKSUE5QWRPOVAxX0UwSE9JY1U1ZXp3RGc?oc=5",
+   "published_utc": "2025-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Chandrababu Naidu tells officials to develop AI-driven policing model",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlB3bVNrWDRqYWV1Szd5VWdNZ3d4WUo2cmd6NHlpeVJ1c3ljTGJQSVQ4d2pXcXZTWW9sQUtOaVphUHBiVmJsU0s2Ukx1cGNoWGozWk92b3haTkZHSURMUE5YRGE3R3JLeGdoNC05WkdHTW1HZndJLXIxVnFfN0dWdWpDcXlERFV3TlFsZUgycmFpTU8xVWYxeXlyYmsxZGhzTEEzMmllOWFYb3NwSVRqclFNWHRUYWF3S3hfSGdybVlpRG85YTFJb1RUMFpUTHVFamlNUlNpLTNEbHA1SEVN0gHsAUFVX3lxTE4zdDZGdUY3OFluSU5keXliVzdLbjNTamhHZG1DUC1QM0tEeTlYUDNCTm5tbXBzNmF0cEhLVVpteFZuc1VuSXRrNnlXdF9aX1RBc2Y5eE5IWTU2ekIxa3NIZHMwd3dwX1RCeVhOLVJ0bnpzRVhSanlkeXVndEdYTUkwMDNnMlFsalNjSDZ0S2xUVllzOTNoZ050R2hmRGxKaEx4Z1N2WG1UT3RrOXhpaURKSFpGT2tXZlNrcmQ5ejFxcFF3OXBkdnN5YjVuNFU2cGtjbkJmemJ6Y1dzeUtQTWlCaUpQQ0xtYXhBSzEz?oc=5",
+   "published_utc": "2025-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP inks ambitious MOU with Microsoft for AI skilling",
+   "source_name": "Telugu360",
+   "source_domain": "https://www.telugu360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHQxendEcUxadUNFNHBnVU5NTEtHakR4UUVUWUtDVGpPRXRLSU0tSUdHd01jLUVsaklzVGRtdzBaOW90WkEtakF6Nkd0a0cwSFJqc2dJeDEzQlU5em5TWnZGdllHVFFRXzJLWWZOYkdZMEFJZllSdDFEbWdqNHJ5RTlTVThjQQ?oc=5",
+   "published_utc": "2025-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What you do after 5 pm boosts your market value: LPU student with Rs 1 cr package",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0pDemEwYmJJNWNmSExwelZET0xmQTFneE9VQ3pKVGxnM1lGeXZUazBxTHpBczdYQWJMVHNlNWRfXzU0QUcwcVhiUHhkcXhDY0lQYWFEcTYwc1R0dEhaR1o2T0pxbzRUZ3JadWJVRVBZYzh6bkpPaTU5YkUxMGsybTF5TzNzd1I5WjZ5X0Q1cTFvVzh5LWlxWnA5dmVldHFVcXQ5dnU3VEhhOFRBY3BoYlN5RXpqWVg0OXBXMlJqelRQWVdtamRQWUVYQk54U3BLN04tTDNqNngwSWlUdGhwU3Bn0gHnAUFVX3lxTE5pTVhoT3JoenB0X3RKWkpMMWVESzc4WVhNZTI3OXgtSmxMNHY4MkJGRm9DR2FKaWZCMElxM3FiV1VqSDlpUlZ4eEhwMlVjTWx3WVE1a3NWUGZzRWtaSDVrd3A5TEVRcFVPcnR5V1I0RWlOa3d6d05ZMXNIZzVjR1hnLVhKUWJuVDlfdk83UjBmNXBrT2RXcEk4Wk1YQXVoMWp4WGc2MGhqbFR3Z1M1cXFUMi1UWENBMkh6RFlNSVFzdlJRSVFIOE10cnQ5S2JXQkttcTd1b1d2dzFOZUhlLXJxWl84WU9MZw?oc=5",
+   "published_utc": "2025-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government unveils startup policy 2024-29",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjZfdjhOWVZHS0J0WF9vRHZ6UkQ2SVl1MkNhNmMyY3ZVeVUwQ0hxWmhlNUE1MGFYRmVKQmEzWFNVU05sazFvNUxkQ3ZnQUVNd05GV1VzT0taMFJ6M2lJZ0N3Yk12cUlIWkxvbG9SUExiMjZkRXpNUXBIVDlOTHdiYVJpQUJOYWRuQ3ZjYlFCSFpxSmJJRDRNVHl1ME1kMm5hTUxwd0lVMHBuYWJGZHBuTHdJdWJldWNNNi1TMV82YTXSAc4BQVVfeXFMT2N4RjlMbHUyckFYWTlXM3RaaE9kNWQ4YzBpZEk5cTJaVG56dnNfNWpGWG1fSW5NWFhON01yN281dUR3UTFBN1ozMlBiMWNwTW11Q1cxVktqekVpU2JrbDRrdzNJMmwtTUhab2ZwYnZhLTEtaG1iVUszSnF5ZlBXeVZldjk4a2NEdWotYlM0UGZFa1U5Q1RhTnlqVE5MTy1TdlhaZFNLOHppcVZ6MkZ4OC1jQ2xnbDJ4QTVNU2lWcnZRWGdtTnBCMVp1WGwtNlE?oc=5",
+   "published_utc": "2025-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Demographic Gamble: How Andhra Pradesh is leveraging its Gender, Silver, and Youth Dividends to shape the Future?",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUnk0V0Y1a0pOcEN6RWM0d3ZwaWIxX2I5OGxEb0tIQU1PcUVoRXVfVzRjeTRTUGIxNWFCTTNFa2xNU0oxU0VhOTBSQ3VfMkxnOHVpYmw0b3Bac3Z2UTM1OFQ5Z3pnYzFJQ0hRLXAwOVZEelhXVXB2ZFo4Qk4zREt3TjFqWHJoSWR5cEJUYVd4ZkMtYkJ0Q1NyR1dBMVF3TmYtZXVSYmIzMVNqc0RCemE4d0NHeHFtd0tRUzNFbmREUUxVb1Q2TVB6Ylp5clcwVTJaZUpGUkw1ekRQd21mNE9IenVIOGYyc29QY1dMZ084QmlvRFB6UU5sRXBzNDRVS3BlWTNUdE5pMFNQbnZWYld3LQ?oc=5",
+   "published_utc": "2025-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Bets Big on Quantum Tech; Inside the Plan for ‘Quantum Valley",
+   "source_name": "The Bridge Chronicle",
+   "source_domain": "https://www.thebridgechronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQm05bjBOUVM3dmxmUEdTSzg3ZTRmc3Y3aDB0X3Vselo1Z0JDbjRoTjRZWTkxYnI4c01pd0FkUHN0RnE3YVJaSWtYOW1Ma1JGSU51S2NhWnY3dlQ4SWxOV05jWmVWRU53WU1oel83YTF5MzRNbms4aGlCZzdObV9ELWY5Q0RXZ9IBkwFBVV95cUxQWVBXZmxVeGhpRXN0YkpQalNSVFF6cjNuc0ttYWFtZEtERWhIRHZFMnVDSGhIUXNBeTN1RFMtVWgwdlI2bkFVX2VaaEh1SlZPRVZMLUQ4UzJ2TE1iZXBSa0NzMmphSU41b2lkTTU4LWtwSjl3UUJyVkpQWDVJV1ppUVM1TGZQUENpTnc5aXd6M0dmMGc?oc=5",
+   "published_utc": "2025-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

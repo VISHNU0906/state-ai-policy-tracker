@@ -1,0 +1,61 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Hyderabad emerging as major AI-data centre hub with $10-20 billion investments in pipeline: Official",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUlpMWcyTUM5UXJsYURIRlB2b2lQbkI0YWZJWjRMcTdEc3o0Uks3MmVTQ0JZSHVhTV9oeGNHdUp3eXRaWHE3YXNhNjFSaUZuZHlpZ2tCMGJnTmVNelVGQTM0LXI3WmdhN3czVXpCaU51cHN0WWh5UG53cTJvbVNpWkFhWUczdmhJM0ZEZGRUSktlYnZLWW1UdDFtWi1Mby1aZy05NENlYnBDRFVTdmh3aUFuUm90Y21qN0RrN2FVZTA5UHlw0gHKAUFVX3lxTE9xWW5KMDI5U25IV2w4YWphVE82Zlg0c3NjenZmZGlOYlZkLXZjQVg1RG9ZOThSNlhCSExFd1lhQmZFU2lVQkFIU3RjZVI1aVAtSzlFQ1ZNRkdCMElpWExHSkRSSDhtNG5kSVBOV3YwM2dZanBzM3BvQTU1OWRWaWRRRXdEVWRmX0NUd3RCVnFnbHNLVi1hQTF4X1B2N2FkQ2pnT05BdzUzQWR4RzEyZDdWSWxzS1dZMkZ2UFpXbE9vNjVDOGRxV1ZqVEE?oc=5",
+   "published_utc": "2026-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Editorial: Address environmental concerns over data centres",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZklJamtONVZHZjRjSUtjYU9LSFJJTXdkektldDFVU3ZZOVdwV3BlS1gyNlNzeXl6b1VMR1ZzcFNvWnJ6STV4SFdZYVV0SWw4NmY0UmY2UWRSRDhrTE5hbGJCQ044dDFrRm9Sa0VCYU1oM1BBRUY2VzFiWHhpODZlRExLaFJGb01LR200SENn?oc=5",
+   "published_utc": "2026-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana govt unveils big push at ASSOCHAM meet to turn state into data centre destination",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSEVtd1VubXYwQnpoc0Y0LWZOalNfWnAxNjlJd0dkVWFkXzZ2eXdhVjZ1RFJtcnpya2lJbDZscWNWTTRCaWt5TEhqQkt3c2lBVm0zODRtdzA3NlFKU3pkXzZYR2VVcm5CUUhCY05RT3R1YUsyYWR6RE5jU19nRTZIazAxRHh2TnZtNnEtd0pRczRSNWlSZjVzR2J6VU9BMkFpMVVQSTFxelh0bU1nemFrSmI0M3Ffa1BGNEhTTFNrSUw5SzE4NU9R?oc=5",
+   "published_utc": "2026-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra signs Rs 1.14 Lakh Crore AI data Centre deal",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2JncmI3djJrckRTeWRBamlCQ0oyU0pNd3NuTDQ2bV9Sa3FrSmF1V0tSall6QkUxS3NuQnczbWpqQ2dHVGNHMy1TZzROMWFOZnN0bkluTzgtVXVzc2ZPeDI5MXBMTzFxLWN4YXA0WE01ZzhKUDVfRzJSb1h0dS1EdG9VT2ZPSGdFWjFB?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In GCC push, Telangana eyes growth corridors beyond Hyderabad Core Urban Region",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHZKdHM3T0s4SXFNbUw4WjJhbEcwUzNvVjN2NDBjV0RxT0J0WkJKOEVIT2RqZWNaTlVEcmFva3Q0MGJ1VFJwS2xENDYwZUpPR2ppYmpHNE9NZWZ6NWNiVTQwYWRxZ1d1RXNibmlyalFjUjhPVXYweWtVcTRqd3ZQaE1rUHN2M2NsSXpuSUdjVWctUGNHTVVndmhOZFk2WVNrdURfM19qek5GcHZsVVE4NHprQ29hc1Rnc3c0STdBMEw0dzFtRjBoV0VuYkFqeUZBb1djd2Yyc9IB5AFBVV95cUxPeDJ5QkFnYnBUbmN0U2M1Wk9IR0MxQk1nTGEwc0htNk9YNG94TmhKQ1lkaWxtNGVqQmNuRkp6eDlBTGRRU3htNy1aWFRvcmY1YXNGSy1EXzU3WHN0b21lMGRuU0toS3VIUHV0Y1NvQjZJaC1zRUNUR2kxWEhyaUtqNVY2ZE93dUxxVHNxdWVvakdIUG5jazdoTlRmZGdvajd4R1M5Q2ZqZlhfVFpnMkZiQ21PYmJ0c3F3a1VkUWxnbmNlREV6OVF2dzM4enhxTDFUMVJtQXFzeXZxZWdSR1U2UWZIYzA?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Expecting almost 8-10 GW data centre capacity in and around Hyderabad: Telangana Special Chief Secy",
+   "source_name": "ET EnergyWorld",
+   "source_domain": "https://energy.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZVZPT2l1SUVNR2h2UGRxZU40djF4ejhiUGFybVFJQWpnY0hoMFNNeFFQT1BxR0p3ZzJMaXBiSHBXSU9DLS1ZMS1pQWowN3RYQXVycU5KendPTzhLQUVxd0wxQzhja2g4cXY4SHVPblJOZmZldll4anNyYUplNFVxUjFWS2VSUXk5REFGWmJaVmtLcUdKdUZ3RzFuaUFDaUJBczRDNXYzelBHMFota2FYXzJ2VXV1Y1pVTnp4eDh4UlNxekRQOExxX0NYb0NucEFmVkFLdUhoNGhZTFFtZHRaN2hLSHVqNDNlUTlQN1hNa19rUVpYSnfSAfsBQVVfeXFMT25fbURpcFlTMWpKUnhPcnBVQkJ4UDNYX3FiNlBUMEhsWmI4dTM0U2dZZkZDbllwOWtFVXBQeTZpTU1zZGlrWC1wUnEyY09CbjNBQU9zclVTc0Jqd3NjdUdXWjFwYmp0elFUU3p2aE1WZVd0Ukp2UGVWU0dQbl96YlFWZU9ZeExxSTlQdkJlVTFQMDl1TC1yb3NQRXVqcjZyd3gySlVtNU9rVUxfc3gwaFBtRXZxa2VWdWlsTkYwM2otT0M5RkgxYm4zV3RwWGhlZ1ZzYTA3UDdvZmw2VDg2Z2xmR2I4V1pRRzBHazFtcEkwU3BaTWtETFJxWmM?oc=5",
+   "published_utc": "2026-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt debunks deepfake video of Defence Secretary, blames Pakistani propaganda",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlRseUYwbzIyU016emktU2d0ZjFjNGpISjZYQ0t4MXNQZEttTGRYaFdxYVQ4N0FiUThZaThodDlJSGtCTVAxRWdZcElqWnBXWTZ6QWlYcUpkbFQ1Nms0Tms2cXhScXZhNThydDBtUk1MemZTN3h1bWxaNks3dWR5bWM0Z2VUbnJTS0VmdG9QTFBDTXNvQ2wxaGFCaTVDc1JCS0FBRk1B?oc=5",
+   "published_utc": "2026-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

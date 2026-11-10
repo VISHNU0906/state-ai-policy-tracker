@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh Plans Deep-Tech Hubs with AI Data Centres in Noida, Lucknow",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTHU2cnk4WXVUMW1Rc0lCUGZQQUl2SVpoYlRKSXJ3d1NLYXpJT3I5MmM4SER5b2lmUnhUNWpPc19RUzBCN0w3NGo0TUhVZ0J1TlV0V2EzT3hyQVJVMjhZM3dqVEFydFh4QlFFR3ZyNzIwTUxiT1pNNzlRWHkwekJTV2dCVWlRQjgtQWJqOEZxVXlab2JoQjZsN25Ib2lIVFNLTkR6RG9XSGhrOTN6NVdzRjRlWEVJUUFuV25GQnBhRWt4Qm9RaTBCZDBBZkRZaWVDbUhyOERqQWh4a2tJdk5CQ0VnWjJBMlpDa3FlWnJnNWtGelHSAfgBQVVfeXFMTUF3bEdDMWtHeUloM3l5MG5oRG5GWVp5ZmN1alVTVFBrWGZzbjdHSW1uYld6MW8ydzI3aDJVSU53YWJmbTFnMGZ0OVhGQ2pPVlVqSnRsX053NHdNZ0FESUJKVTA4ZkxudmZPTHpPV0Y1MHc4eWR2bkdhc2FhU0RvWldpZW9hbElXLV9lZnRYMVVYV09JcEFPWW1TX2hTdE1MZS1xQjhQZlRvN200M0h6cW1uRGl3SGFMa21WRWM4enN4VlozRW42YW1PZTliaWpSbDE1eVJMdVYwVmc4V2hSM1FUUF9BNzBhYURCM0M2ZDV5aU5ncUM5cVY?oc=5",
+   "published_utc": "2026-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gold loans take the lead, Uttar Pradesh makes ₹2 lakh crore AI push, and more",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWRhQjZNWnZMeWQ2eW5JdlBfcTZuaG5aNnhBOUo2X3UtRS1MNmJuOTdoV2taLXVuY0NVcWFhVGpabUc1ZDNQaF9OeUswd2RUMWdQX1AzS1JJLWcyMGtsRHpjNG1YYjFKYklfcVp2OE5YbVFIb0ltN3FXMS14aG8wclMzMHBmZnRWcEZZbTRUbm1XcFFnaTZDV1E1VFNKb00?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "States step up AI data centre push with new policies, project commitments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWZCVVA0cUdXQk92YnpDQmVhaGI4OWc5NElYcmFIeTRSRHNIVEJDaXJlX2phTFZ1Y1VZMjdnMkNGck1qV2JqX3hKdkNZcDhkMVNjczJqRzRzN2FLd2FqN2tpME41NW02OElaOC0wWEJoYzB1OVNUdndpSFk5WVFKRmNPaGFEazdrQ0hqaHRrN1NhaWV3ZkpwVTRFTlJkX2RCejZrc2gzdV9SUEZPdF9yN2FyQVlHVlBROGVSYWZickxqUVhH0gHSAUFVX3lxTFBTSnpTSkh6VHBwTmxfdTVQNVlWcTJubDJ2TjlVUVhhN1BYOEJmeWxKRW1xV1otTV9PekxBZlhGbWJwQ0ZpRVlGMVNzUV9MWEQ3V3JoYXFxTUFOYURLeFlNWFlORTlYM1ZwTWd1Slp4c2lmNVZMek0tOUZXTkdBTmdRVVZFSElnUXhXOTNlMzRpVF9rUUVwWWJaSkU1bGNaUGttTmNaN084YTEzbU1GTzlwTi16YzFrMHdnaTRpdUNNOGs4WG1nQktLZ296dHAxUktTdw?oc=5",
+   "published_utc": "2026-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh approves AI-ready Data Center Policy 2026, eyes ₹2 lakh crore investment",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEFsbHdZWDZXUDEyQS1mb1RMMlRJdmE1V2F5RzNzMVc1emhBV1Azc0dEOGNHZnBQNXk3dzJoX3p6NUhKbU85TUdReHd4bUVRSTNmMTMyQzFpNlE2TEdFU2NIMTR2VUJydnQ1ZWpELWcxLWltTUlaZVQ0UEFlS21EM201VWNEbGpQVW9UVUZ5VmFrUEprTHM3NHJ6YXljNUh6MlZKZ0hwNVFDdXhrT25HOGdEczNBTHJ3VXJEd3pYSDJjUTVzbW43SURFa9IB0AFBVV95cUxNQUc5MFF2b244dlBYT3JPb1dXcC1mT0xvNkVaSkNTZGFrSURNOUhlY1p2d05DNkZzR1YzTklseUR0THk4TmVlajRPRUs3dmRxTVozV2Y2aVhVejFpVEtON2JvVWtZSlFlNjlaU1I5OTgycnBpeTU0ZnlFTW9fOTEzMW1lLTVGa1UzSng2aV8zcWFWZzExZkYwU0NucnZiaS1kcFhPT2FiUVhzaVE4M0pFN3Z5SWV1RnB1WVBLbVp1UVFDa2lRcjhMTmEteGJ3NkRr?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet approves AI-ready Data Center Policy 2026 with Rs 2 lakh crore investment target",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS3ZoakEtVGUwMjliZm5kOTBZNmN3QzVlTmxRRmpVN0xjXzVaaEdUdWpXLWd1UGJHWUFrZnd4TjJlNS1Xc0FRa1ZQVDlPOWgwTTZTdldEWUhrNFFxRjBFeHZKLVcwY05fTlVwYjFuaHA1N0gxWkhhNGtYM1JOLWd5TXBkZUpfOGRtejlDNE50MHR2ajM2eWZlRk15Z3BlWGQ5aVU1NkYtYWsyZzRGWFdrTXBNMDZKa1VocktXRFRlenNkd1ZOcFozYkVmTnhlWm03Skc5NDhkVTdJMm9JU0HSAeMBQVVfeXFMUER4SUVHaUZpY3o5NllGazZlVXF0TDRZOWRKZ1VadFM0TGlld3pHaERlOWkwbjNjZUNFaEFKS0hDMk1pOFNPR3ZXX1VJbThTaUdnSXJoOERpS0NzVTREenBoeFY3aUpjdmRaZ01EaGVyR1FLTHRldVVwWXhWVkg0STh2V3N6Wl9GcnRSczVxa0NwRHlKTnI5RDZpQ0h2bnJmN2ZiQmQ1OUprcU1CR1F1em9kQXlyQTMydUxQYTJqNVFTNEJGMkJ4YllTUGJqMEdVanRCWVJjTG9sdWdUVGprUjlSUjQ?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Approves Data Centre Policy 2026 to Expand AI Infrastructure",
+   "source_name": "www.dqindia.com",
+   "source_domain": "https://www.dqindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGsyaHF0RVozTFhpRnZlT1ZyUE1KcjlfMVhJU1Z0LXlMMUxHc2o1SlJobU5GX3JTMmp4STNxOG1MNGdNa2tyc1RNMlpKSW0xaHYyeHYtVXNYczI0SUdXVUlDZVRfTEM3d3FNdndYWmpYV0lES0JfZVVBVjhBMDVzU1BlTGcxeGsxdG1jbWVyQ3V5aXUtWDlTR3JJOA?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Approves Data Centre Policy 2026",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kbHZiWldEUnFDOE9ZYXRqWERwRnJMNENBMXBQZ3JKU3JTVEU0aWpQT3dKWEdUOGIwMUVVdUtETTFvaURCOG9tYXJzLVVKLXUzajY1ZE15QTc3cXRER3J6a0gycEdXOXVTVldOVWpCbG1ScHhZMVVvZEN3?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh plans robotics, AI and deep-tech hubs in Noida and Lucknow",
+   "source_name": "DQ",
+   "source_domain": "https://www.dqindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmlWTllsdmlSSjRKbC12bXk3djhWUEJjdnVEU0ZYSjlCSHJJLXdjLXh0a1hNUzllalFRYzcxbHlYMVNaUVZUOFJ0ejdyN3EtM19wTk4yNlZPLTM4dC1EUkFYZVhoTDliMW9iRGU5Z2hmSHJCOGZlWF8wQ0kzS3JjU1drLTZicVVnWFpZZk1BQ0xMWmtBdGRNai1aejhnVmRnS0NENzd6SdIBpwFBVV95cUxQQmlWTllsdmlSSjRKbC12bXk3djhWUEJjdnVEU0ZYSjlCSHJJLXdjLXh0a1hNUzllalFRYzcxbHlYMVNaUVZUOFJ0ejdyN3EtM19wTk4yNlZPLTM4dC1EUkFYZVhoTDliMW9iRGU5Z2hmSHJCOGZlWF8wQ0kzS3JjU1drLTZicVVnWFpZZk1BQ0xMWmtBdGRNai1aejhnVmRnS0NENzd6SQ?oc=5",
+   "published_utc": "2026-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh approves new Data Center Policy 2026 to attract over Rs 2 lakh crore investment",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa2xnV1o3bEdCeUk0Q1RyOWpqQ2JBUlo2V0k0Y195a29Xa2pyVVYxNWw3MjRrWEZUWFhLYUt1WWxSVmRWSlpERm1MUy0tS1I0U0hrSHFndEc3dzBVSmFWUktDY3lTT2U1bjdjY3RyQ0F6RktORS1rTHdZUjhZYkVNcGl6RlExVEJaYUduWTBvaVJtMGZhdWZLYVRIajZUV250a3puSnpFc0JLbXFXaTktckVzOEpJcFdmM2FPbDNwbVIyRTVJX1VlSVo3bDJxVG9Jb3ZvN2FMLVdVeGZUSW53Q09kYXBVOG930gHvAUFVX3lxTE9VYldXdmx2TFE3SXBwdUJIVHFwdEhvcFdTU0t3dTVTZ0N3dzZMM2NBUnN4M254UGVuWUFMdG5QNDExMDFNVVZhOUJTZ3ZJZ3UyMGdScFBmcktfSzVTb2ZrS1M1MFhzZWdETHUxU2MyZlI0QlYzVTlLRmxwSFJ1LUdVbzlmMGxSNFp4a3NEX1hLYzRXeVRmZ216S3h2NDF2aXJFWEZqbVp5RjVFbjF2SVRrMWJwbTFyWmxLQUU1Z2Q4RTVZdkFfVUZnVnFPVE9PUmNnRDJtMUtGbWY2ZjZVY0xEYmhGdlRjcFZrTWRvbWIw?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Maharashtra, Tamil Nadu and Uttar Pradesh are poised to power India’s multibillion-dollar data-centre boom | Explained",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQS3VkTkdkYk4yQ2gyQlAtX2pJTktCQkJmTG92allqaWtGNHFiZEdCNDY4UWR6RWYyMzhpaHhkSnUtMVUwYWxVck8tU2l2d20yNlVHeFVEelpkbkloY0N6SUF2c3hBZS1Pc0VnSklxWEpleC02V095WkR2Rkd5UHNQdWtQYXpmdzZSdXo4b2cxTzJ1V0E0dXM4VzkyLWNjNnlsa3JkRHhWYXFNaXZ6bHpDUG5vNnRVSkljNXBMZWp0MnNkMXlXNVNwX0JaemRMdlZyZVdheTNnWEFhSVBJN292WlItNnBBYzVjamdRYW53QlpQSThnTHZiZEk0ell2TmMwS3YyWWMwSlcyWmlodWN4NXV1eUw2eGJYZ0pybDBnbzhkRDh2Y0hXZ1VtazdHd9IBtAJBVV95cUxPekd1QjZfQlVHM0JETnpwb3cyeTVPNm1qWWU5Q2VLMzRnMEJzVjQ0cUpOSmRic0VQR3F5Y0dVVmJzS1F0d1hzZjlIVHVnNUh6bTdVRmwwbWY3ZFNLWW5XSmp6ejUzYmRVMnp0NzkyVnhkRTgtSElHRkF1NTRjVEpYVU5qV20zSWRvVnJUNjdLaTdwUTIwU2MzbzJneDNjbGp0TEdXZHplS2djS1B1cThQSV9RYkpDMGRNbnJpb1VLRTVBZWliUHc0MnlCYWRrZ21NNWViSXpKNGU4VkZldF8tbjV1UUdYRGJyM1lkb2t0V3BtcVcxaFNGaVdTQjRhMy1yVUduUXRiUEVIMmo0UXM4RW1sZW9yU3R2YTF5N3RQQ2RhYzd6UktjNjRLTlNtZXE4RExuaA?oc=5",
+   "published_utc": "2026-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

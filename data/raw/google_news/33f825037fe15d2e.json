@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-06-01 before:2025-07-01",
+ "items": [
+  {
+   "title": "In Madhya Pradesh, cops are using AI to modernise: ‘We need a new type of policing’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMG01VWNqbWh3Y085Q1BKVGlTVlY1aXJfZ2hUMWUwRk5VUUhtSWV4S201QUcyUDZsQU1HaFRNTDhmRHY5WUFnc2tYMWdTQmREVGxNX283bFlYaEFEMkd6c3NEZlhoSEdFQnpaU0VyNHdPQWJJWWtiZUF0eFU0LVQza3l0UnhTcXgyNmVlTkxEYVdkd9IBmAFBVV95cUxNVXRtcWlsYlVzbl9jQk9nSGNlRnRWVnEtdnhlR1hhMTBkU0hvXzJudExZaXBtZW44MU5na1ZzcDI5RF95dDl5T0tGYUQwR2tWSDY4dU53dUkxcW9vQzM0eG4tQ1Z5YWY1RlFmR1pCcGl4MmtfOWdJQVlRby1EWl9KdVN6SGJqemlyMDQxNlM3ZXdEQm9EU2daZA?oc=5",
+   "published_utc": "2025-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP awaits new Dial-100 vehicles after cabinet passes bill: New FRVs to be laced with AI, dash cams; staffer...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3dXUG15eXJBd1FJWFMxODA2RDNWQVVyeTlaa1d0ZHpTdzYwUFpwamtYYVNWanlLWGJ6ZE5BRzlaYzlRVGZFZVNDdkdwSnMwcnlCbU9HWGRhT05QUGhLQi1MSmhGTURNZXBCdmd6NnZpdVZPTnlzVFN3M1NnUVZ1Um55VHprYnNFTUdYOHdQUUNldkE2SlVqVXo0T0hSMk9KYVA5cWw2NGNqVzNacE15eDhtaEQ4NjBfZFhkb2d1bnfSAcYBQVVfeXFMTjB2M05WY3UzUVhtVGhDSnZvbU5uOEw0bmR0VUJLZF9hTXZsTVlqWVlZamU2V0YyT3RuSWI2Y0I4OHMzQ1lsWlFYNW9uZEdaVFZONFYzRDMyLUY3T09vbW02blQ5NWNPdlppNVhyb2gtNWIyOENhcFNOMDFLREhocW1JamtfX2c2amxRMEJUTW9hclVEc2QzeW1ibkZpTUxraTJNd0s1cl9KMmFsRDRtUHNzSjdwV0p0YkdtUDRic3V6c3lHUFdB?oc=5",
+   "published_utc": "2025-06-28T06:52:05+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP govt takes action against 8 engineers over bridge with 90-degree turn",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTVBPSjg0cG0tR3hZUkFxQnNwM19VanZKa2lxQWJubV9Pc0prTGc4cS1Zck9USVVrcGRrdlc3TVowUkVXVldHUnlURnlFcURJTWx3bjQ0QUNYeWRqeVg4U19fT2JHNm8tY2xqcWRBczd1QUVzb05FcDVjM3RDenI2U3Z6NVM3eVVPU1dFWGI0Nkx5SkxKcjB2Y1dfQzdzcGlMNnh1N204Q3RtWGdIam1PNlE1NEdJSEZaRGcxMTZ0cjVIMzlpbWxJOExDaVF2SmlmaE5j0gHYAUFVX3lxTE5xOWQ1S1d4R1hrcEh5aW85eVVwVE9vOE5ZV3dpbXFEOEdYbC1WQzFqYjI1WTJlUVFVU09wd3Q2Ulc1ekFLMnVUcTV2dHNYV3d0TUl4ZDFXRmlDUkxEOF9qd0lFRTJwWnRCbHY3X0xUcnVoNlZ2cWU4dnk0Y095Nk1Lci1yOU9zM1BrMnNTSVkxRHAyVkZOSHQ4bGFQaEd0Nm9HbmNyT25RVEwwclozeDZKR0JFWlQzZGxVNE1JcjlNbDdLcTE4YmZWVXZYNVByWWp1cEVyUDVFRg?oc=5",
+   "published_utc": "2025-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Reshuffles 10 IPS Officers, Sachin Atulkar made IG Chambal Range",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHdJYjdqVVRxRnI4eEtKbll0anJmTzdHLTFDUEx1ZEwzd0pkWnF6RFBmNWZKWWg1QkhVNEJSeFJuZzNUZkYtS1cydW9ycmNsNFJmT3Z3UllnaWhhTVg4a2JiRDkzRldFMTgxN1EzcVB4OVkxbG5JY2JQdXBUalNaZzJhOE9PVHNidzJESXRrSEV0dkxDV3NPcjh5akNqWEtRNVlkckxFaWRBWFlIZEE?oc=5",
+   "published_utc": "2025-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Teaching beyond textbooks: How CSF is bringing joy and AI literacy to Indian classrooms",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzZLeGx5Q3NTMHdzaEdON2hDWGkyTXg3d0FIV2x1SVVEdW95NXh2LUE2QXkzZF9YQXlxU01IOGtQNHhFNkhWM1BKS1hzZkh1aTZSNm9vZTBhRENzYlQ2aDVNMHJBS1JMMVlwNjV4c0puTFJTZ1kyaUR3TjhOdWU3RjRJVVdlalozUHNLOG1ubWZVQmtWbVd1OERMS0d6Sk42TGl0Zw?oc=5",
+   "published_utc": "2025-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Extensive work done during 90-day Jal Ganga Samvardhan Abhiyan, says Madhya Pradesh govt",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzY2VzBRUWdDekp2SVI3Qk1vNG5aM0tNNVJXMjE4QWRwdmF5TkNMRDc4elFuNXMwSlBtYlhtODVLYmlURWpMVU5fNWNjLUZXS2lVRXNSRDMxRnNoWnU0X2xIZEJXUGNad1k0Wl9jMnN4WkFZUGY1c296eXljdlVXY3I4OFFRTGV2UzR1OWF0UmRzeW9mY2R1RDJyNlFNNmhESi1GLTFWVnBKMGhIT093a0c0eE5VdnpfWUxxakVURdIBxAFBVV95cUxON0pHVS1EMTJkODk3UnFuVW8wcnRWX3JndEJnY2VBR003UkR1UWpfdmlsSXFPcjJ2UnA4OTJfeC04ZlZhNTNLQjVCeDY5QXVKVEFYcjhRdEduUzMzZ1pYbkJrcUJCb3lpREVyLWxncVh0cHg0N3M5NlJ6bkpzUlVTNmRobmJZc2E2NDEtZ0FnZGJwNkNZanFsY3NuMHN2cFk4SGFqNXVsREpHQWRvV3hQQ1JrY2F4ZkU4TUlWRkdlWGs1MU5s?oc=5",
+   "published_utc": "2025-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "E-Nagarpalika 2.0: Madhya Pradesh first state to bring all urban local bodies under a single portal",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUMzMGZEdC1uanJoTm1HLVd1Z2Y1M2JtU2h4TmFtS255dkRPWWItdlAxbDdiNFlCN1p5eFN6dlZjOWVWYVl0VzJqRm84RElBc0o4dF83NTUwZkFxeUJfMDdDUWYxWGJobm1UQmNtYnpyVGtCRm9yOFZBZ3JzMlNES0tadXFyWXFxbVBGRUtZSW1uT3FnZ3lwZlhybjhYQUhzT1lGU2p2Vkh1ZEd0STFPaUVudUM1MktxUDJPVHctWVo4VWFRZjY4YTVjYzJHamFzNzlrLWl3UlNaRzJrTjE3eG5GemttLWxwT19NbnUtUlotSjTSAfgBQVVfeXFMT1ZJOVdNcHo0NlB0LXRQRVVaLWJwYU5HOUJQU2NBOHlLdmE5eGNKSzFEbXF4b193UUU4RFFRUHI3MTZHQ2NodkpQVWhyM2xERGFmUHY1ZnF5RXFaSFN1ZDMxSFhwNlZYajFxMXBJU01LeHBwUFREUzdWV21mdWNOSGx4dTJVbDlJUGtiRGtpaExISG00VUdPNk9QWnI0V0Y4Zk9DTzBWbjJVQ2NOb3JmNmcwc0RTT0FtNlBjdlppS0I5SDFkWnJFbE9uQ3ZMRjNFZjMzVzV4YnJVZTAtWm85ekxSUTJtWVRVaDc4QUZzVFVrSXYwcFZIeVo?oc=5",
+   "published_utc": "2025-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "50,000 govt employees ‘not paid’, Madhya Pradesh begins probe",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXVUZzFsRG16YWV1WFR0R21aay0tWFRNRXRFNGVRelFDYnhhVEthbGNvdEUyWXFZaEdBRGNNZWJsRm1keW4wOWdCSlZWc1l6TTNDQzFtQjQ4bTV1cHdBQWtldTJZWUdSTWtlbklUelZRMThWT2RHNnNnak9sazBzb2pUTF8zeURCOFV6Mm80ZGkwY2tEeWZURk1fenVoR1hMcGlBNGxMUTBkSlnSAbIBQVVfeXFMT1ZNWURkNVBhRklfdDF0TDNYSlF4YVRxQ0JzcUg0ZzVOZXBKV2hiZk1CNllTZURtYTFjWlNpajRRemRPRzZfc3M0a05WTzd1anM0NnN5aVdpZmlES1ptM3VwWWJsOXRyRTFDbmdseXZyb0lnSExQeG0xbzJCY1Z1ejRTeWdob0NhQW9qYlc2MUJwWm5CZHZEOHlWOF95UUZjZkZmQy0wbElxSy1EVy0ydVpsUQ?oc=5",
+   "published_utc": "2025-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Transfers Seven IPS Officers; IPS Himani Khanna Made IG, Sagar Range",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWdOOXo2REdVOVRjVVJCdlJhdFNiT2VrUWRKb3RFUTBqNmpXMmtqX0l5UUZqcWlNNFo3SmtscW9ycWlwN1R4R2J6UG82XzlaMFhpODd2bW40a3o2SWlaMUd2clRwNHRmVmdzdWdDZTlleTRwdlRrejFSZDdTLThDZmlFN2xRbGJTWWZQd2d1SjVTczVKdG0tWTJfWDctcW5EOXp1LWVBUElrNm1UZklZdw?oc=5",
+   "published_utc": "2025-06-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ladli Behna Yojana: Madhya Pradesh women to get Rs 250 shagun for Raksha Bandhan",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkpKckFyMWFfRUhieXB1VlhaOXk1emJSeEU4YTQ3dHd2QjFDR3JPOHFNVklnT29uS0tka01IUW1ZbjUtWElwaXFfR3JJZ0V4R0htX0xScTAxemdHUkU2MEd5akZkT3NUWHN3Qzh6aWtsRlhZWHNtUlU1RmtNS09DREYzRHQtVVp4Qk45LUdlN3RkZVVDNDVpVHhLZTdKTXRTNUpYbTBWeHV2MDFCT1hrSTlkUHdBMWdxUmFsZl9kVm5WZkhpek1GTlNrWUxPQjNsdG9pZjBvbzZkVExvMVHSAeMBQVVfeXFMTkMyTm53ZnVRSFFxNlAwWndnWFhyd0c4cnIzVnBNRTE1Y2I4S1JFWnI2LUpBNGVtM0cyVTNCcmI4dmhfSWhocUstb3dNdVpZdW1pMUljS2Z3Q0RnVFplSzRHSEhUdERwbVB5Rlltbk9FM3lRc3pyZEtnQ1BmX1BlUFhiZnh3RnVON0VpbkV6R2d5RUtGYWNpcUVhbTByalJpSkpkVWszQWZsTVc5V3hNcG00MUxpVUVxaVhPREgtUjBTM0lxbnVQb1RPck5hSldGWGlzcHdSWGhaOE9qSEpRVGtaYTg?oc=5",
+   "published_utc": "2025-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

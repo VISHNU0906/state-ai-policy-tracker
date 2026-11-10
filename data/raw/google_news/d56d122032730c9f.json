@@ -1,0 +1,53 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "ThinkEdu 2026: Thoughts on education, public service, dissent and AI enliven TNIE’s conclave",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdWJXcDVzOGhVbm1aY1F3UVFPd2U3bDVUSE0yQ3RNenNWNGo1Tno5N3JnNjlqWUVkN1lscVJLSEpKeHRyQ3ZXbDU1NGRhSHdzamhqRzYwYU5TUjN6cnRPWjZDMzVERkFDQ1FVa3RseFd1TEsxaGZwYXJ6Q3RJbWJQVWV5SUUyQmEtVm5TdnVST18waFJhNHBBel8wNXpJczY3TndOWFFYbVdzR2VQSkp6ckxjdEdyeTh1eUpiUTlIdUdpUmlSazFYLUNBT0VNa2dCdS1VQUNodXhvRm1aNkRUWHJmSGxKd9IB8wFBVV95cUxOUG1xZmFWMVdtWE1EWWQzVENUTFpHei1DSms0T1BNRWhubjdZWkVOVGFFOE9UUXg1eE1xdlpBM1dKRHZQRkc5aVFUVXR4YkttX2ZuaHktbEVtVFVrUW5WaWtscWljYUl3MWs3azFyWHBTZ0dObnJiQmtjNWpsWkNpeE9NR3hsVHktcGNMSzlrR2hRV2M4dkFQM1hNZGozVTlfNGFwZFVnWS1xQ0U0T1RYeHNBbVB4Tml4VzdMS2xhZDZZOWlpSTF1TlgyUF9vTFVqRGZLaGNOcGpyS2hHZnZuM2NKSk1QbGNQNGt1UUZlbXR6ZkE?oc=5",
+   "published_utc": "2026-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI for Scalable and Inclusive Governance The Odisha Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVV2djgxQVM3ckozUl84TTltRFFBaVppdnYxYkZVWUJ4cF90YmxpVy1za3FaeUVNOFVIaU1xLTZ1cnQyemJrRG1PMDU2MVp0VF9SQVlGZmxFU3RkeXZHQVVhYkVWRUpydkszRVJpaF93WjZKV1pyNXBjY2UyX01QaDVMdzBTZTROekdkWmFKRlNuXzRsbGVlb1pxcw?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu restricts private schools from conducting political, ideological, or communal events",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONTJfeEwwc1hQalBlUF9EdUVneG5HTkFvRTV5LWdoLUlKSWp2WkJBcVBLamUxYm1BaXNQSkxzMEVoSWo5cVZpdnRyVXFfYmsxaEM3ZDg5djJlUUd0TjhaeVloS2dnSnUzOWExU2c3MFVzMkdRYU9XZ0Z5U2NmSnpWSm5qQUhfZGdYNllUTHF6UnFNUW5aZnBoSTUzZnA5WEVSTWZOMlpEM1VGeTBuQ0JLV3ZjNWlCNXA4MFhlSVRxaXdVQ1dFZnNEZGdjbHhPaGdrbjc5enRuNFNZM0x0SHFWVXhoU29acjdteDRZ0gHyAUFVX3lxTE96YlZmQjkzVmdEQnp3RGszbm1qdGJoTGdGdFJyRERYYlBiWkwydDFEeXNBZXc2cHFaalo4UkQxUkk4YWIyX0U1STZXMWFVNW5LeWFzR2g4Rk1qQ183MFFkNTZoaGJfcnhETGpiNzl6QmJpVkplZFBYUkloV2JMQlBfTXo0LXlsSWFxb2ZxbVVlQmQzMVdLSDUtNWhVWktjREhlcDFJVmxHTm0xbmh2My1vV3d1a0RlSjBLc1E4dmFSWWVTLTR4N05KWE00aFZKUWkwbmZza0JXR3ZhVUxqeEZqakZSMlNIdVhid19TWGFlTThB?oc=5",
+   "published_utc": "2026-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-FIRST ASSAM: Reimagining Governance for a Digital Decade",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb21RQ043M0VWWV9RS25OVFNtZnhCZ2JqdlhUMEFSNEh3bzZKU0E1NzVyZkp1UGNVUjJ2bW52c280OFl0c18za1FVQ0lmVHJDazB2UHc5ZTU5WU1iVHA1SHBoM0pfUVdMWUE3NVRNb2R6a0RBd1BOQ2s2cTBlTVZXVWUtMDktY1NMTktTRWJmblM4MjNFekZmNFBMZWE?oc=5",
+   "published_utc": "2026-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Election 2026: Opinion Poll Predicts Razor-Thin Contest Between DMK And AIADMK-Led Alliance",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVk1lNVJ3RUNjN1Q4QmtHQlA1YXFWMlNVajZNOWNkNGNOVktRMHNLcXRfRGIxZmF5RUgzdVU1Z3lXNjZPTWhWdjg4aXEtRzJWa001LUkzXy1Sak1rT1FYS0RMS0dOUnBZNURhRzdTd1AwbmFuam9CUk9KQ3N1U1N5N1ZhWUtfZFBEV3lpSlNvX2EtUmZSNHZwUzZ0WWtVS3NHclpQMG1VMTVBc2FjTHJoS19kSUlTWGtSX3kzMEkySG1BaTdpdTJFS3laMFlkOVZHNWtCTDVfUGRjMjTSAeABQVVfeXFMUDZuNXpYTmRTN1pWX3dyMEJKN2x5V2JNM2pSSUttRVMtb1BvWlh5cjhxdS1YNWVrNzM5MnNqaGR6UkR4OU44Q01ZMWFtM0V5U0VWMWxEN1oyUkNtb1Bzc2tqSzlXV2ZVYkpYLVUwZDF6TU9XX1p1d0h6S2lhLVNhYmlSTzFoZURCcGg3TUNRejNBNVJyc1h3b0RoVTZWQWE1eHBjTTM2TGlpWlV0Y01aRE5mWmh1aW85X1p2VEwyTmF0ZDQ5X29UT21haXQ0ZVhJVTJLMkxSY2ctalNBRlFyNmY?oc=5",
+   "published_utc": "2026-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Powered Urban Mobility: From Reactive Transport to Intelligent Governance",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNXEySkVVdWlOVG91TXZYcGxvT2NkZlJwUm5yVk5reTVQNk1tVlRBM1dOLWdWNzU1TVZkdDJpbnBqNkpWZ1hRa0dKOHJtZGRaSktHclVieUUzQTUwbzF2Mm85QWpSWjBWRVgydG1nb29QaS1IMG5zUExoS1BRZmZ1R1gwcl9BT3BqSlI2cXZ1cGFtOHlfUlRaTlRwOUtGcVYzbDIyN2RJZk9RRGw5RmdQVmdxTQ?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

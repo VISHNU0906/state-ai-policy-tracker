@@ -1,0 +1,77 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "STPI Bengaluru to Provide Co-Location Services for Karnataka State Data Centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmFGcTNXc2Jqbi1IZEZtLXNpLWxFYWFLUVhCSFFQT1gzVUx6SmNZaXFRT0lrVy13LW92OHpkUjlveFhPUEFiSHpoU2hyaXNSVmhzNHNQVVVOSC1GX3JtVFFLQ0V3c2piSmU2RFg1X1htSVVRLXFRWGd4QlpwVmU0MVM5RmdlNlBjMFF1WExEUmlrRUx2VERVZ0dvZWpZZjNJc2ZEc3kzaldaX1h1NXUzLW81RkswcXM?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Plans AI Data Centre Cluster In Dakshina Kannada",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXhDQVpCS2dMZXRTTHVEdjlRQzFOa0FBbkFncG5JVk9sRjhSR1lvdUlyUzlhaWh3WTJFeVZOeUpzVGN6dl8wa3BaQ08tQktQdFBpTHo2THc4OUlMY1owVEZTRzU2YmxQMHlUVWd6NGEyZDFnOU14OWlUT2M0aFI0clNiMi1hT01GelZXR2trV3N2Z1E3XzZSZEM0MmlGcGdrTEZIMi16Q1lCZ0tqX00yUlFVUGEwY082R0pIRzZtMzhRd9IBxwFBVV95cUxOWFhENzNwSnNaSGdRaXFaSGo2aDFhYVJpY1hvNUNjN192Q21qMUlzX3IzMG9ka01jM0NPbTlnYS1qeURJOGZiTmpoSkRpM1BEeGdrYzdWaHdmRHpJQVI5b0w1M0U5RHg3ZkhZdUwxdVczNHZtbTE1aGNXWGpTTFYwc08tRWdQcXZscjRYa09MMlJMSTBSeF9DajVRT21BSDVtWU93cVZ5M0J0MWtiQndwQS1JcHNFWFVBSW5HQTI1cmEyZjRoSm5n?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Data Centre Infrastructure in India Shaping Power and Water Use",
+   "source_name": "CEEW",
+   "source_domain": "https://www.ceew.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2tNalFiRU1qZURuTTdoVXg0dHRMTVdKUm9MX0xKaUgtLWxmM1pSUDhweTAxR3VteW1FYkh3OU43RDlqakp5dmVFbDM0dDZmWG00aFRkdnRvRERzVWJMazk4Q1Fad0gtSkJ6X3FxOEhJM2tTV0RFd0xRN1U4aGQwSnN1M3QtMkkyUy04VkE4VzVCS0U2WEhjRmpTU2Zxa2lEZnpFbVJn?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bengaluru’s data centre boom deepens water crisis",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeUN6RlpsblFnVkhYbzN6VTZrMGFoUlNYelhyLWhscUwxc0ZvOXZmTnVnOXlCQVV1NXNoTWhYMFVxODgxVFNfWU1VYk9qdWYtSzRfR1BWektSRUd2MXIwVUJweDdFVGk2aW9Ja1VtSHB6eWhqVkFaTlhWdnNoZkdlZ3g4a1d2TUNZc2JPYW42bXNHYzFkSGE5d0tmNW42UmZCRWFEY2Z2czBfOEppRUMtQTNuRldwZzlWUmtQclJYR0hnT2vSAcgBQVVfeXFMUFNpaHV0aktFVzZZeGpvRzlWOTBadUYxNzJpcWxIdVZqN011YkE3NWFqSWlZWFpDYVliLXpaaUg4NWd5aVU2LUl3Y2tBWGlsU3FKS1c5ZG9XQUh1bjhJYTVsXzJ3UEdBUXgxbGJtOEZCaHBqVGZkNmQ1bkhNWmE0VGJCc1E0LUhBdnNIalEwYmtCNlRnem5kcU9BNEphUGdLRm1KdHAzT0VERXhjdWw0RWtGUDNPdGpCQUUydjZJc1A5OXdZZFlvUWs?oc=5",
+   "published_utc": "2026-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka plans 500 MW AI data hub in coastal region; clusters to come up across state: MB Patil",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONHlpdThWR3BhMHJuSzZUN2JMQmhCRFRSMUVWelF0RHo1ZjRBUzRhcDhULTRNR1FGSXdlWmcxaWh2NHAxOV9PSnhwXzFkSmJqYkNJcks1YXIwUEg5aDNtdm1Rem9xWnlJcGhhczdVYUMxT0NpODIxdWgtS2VCVVpDWWpnR0piRS0wRmM4N19LS3Rzc0pFSU5DblB3NkZuTU5VX3lCYTVnUzZyM3RzaUs3d2NSMktXdkFaZ1lHQ2IxN09jMVFGTnBIanZrdGZNaDdUNTQ4emZwSHFMY0x0SlppNTdqOXNvVVZuVWp5Vw?oc=5",
+   "published_utc": "2026-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mint Explainer | How India's data centre boom could strain its power infrastructure by 2030",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHp3RnpSRFI1TmZkUzh2R1VuZGdEMklncTl6Wk1yaWx2M1hDWXFmTnZzN280WkVGdFNHX3NYT0l0RVpMMWxGaE5SbS0zaWVidEZPcE5yVWNSekkxRWoxVXhkU2thcjM3WjQyQUZjR2Z1ZGt1M3BUc3VRdi1IcDBidkJCTzRLeU1YLWlfVk5SZkIyMDFERXJ0djNKNWhJQUtEWmFsc0JzS2NQODFkYWYyWWh1aGhKTENJWXJSYjlWTkVlSkk4bnoxV2xmM0xSdGUtYXJURlVqbHZiTFA3Z2tF0gHkAUFVX3lxTE5PTnpGRzVmVnp2RE9Ra3RGRkdCNmtHeHJhTXFlTmRRLUV2SlZybkVYakY0Z0VQWWJBOWcwQmdIelctQW9fY3JjNVJXWDljbWpfX0pWV0ZPOEQtRTFCVDBwMWpfVVE1c21fYWpUSWdaWUxuNTBSWFAtNWM0OVBlSUxsT0dBdXZIQWxoTVFXdjE3cEJmR2twekxRSmhTZHF5WGRGVTl6bG9SMWlZWGlEV3FqTlZFVE9tOFExdGVWU3oyYTlBYkNHMjRVZklEUjRzVlE4WVRzT0VpRHVYeDV6MWkta2FQVg?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Expands Land Allocation For Google’s Rs 90,000 Crore AI Data Centre In Vizag",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEJpT1lOcm5nTTlmZ2FRQ1ZoSzNCSVR2NlVaSE5RcGZzRXZFekhDT3BEczN2Z2RCLUdHZkRIQ2RKMi03SjVsNWRWRnBmTmxCV3lJX1U5S0ttT0xpUWxTTmZkMk1kamNramhtOE9MTHRkTUNKeFJxbHl3VHhwOTVwdklGX1UxeWM0VV9LMzY5Q0VXY0tJT1dnYVo4RmlmZUkxMV9NNEhhUEZCRy1BNmpLRFJGZ3hoTlZPQTZKUkNCMNIBzwFBVV95cUxPa1duY0FsdkJXekZMOGR0UTNIdW95a3J2MHhjSGRZaE05VmVuVUdtVENUVTd0d3BSX1UxYUtLRDRKYUZvbGdHdkRqenk2bmpQTmtUNGotRzVWRTZoeF85OUNVbktGX0QyYmlYeHhYYzV0dkh3LWFaX3lSV3Fia05HV0I3bmFHOENxUF84OTZNenhsalJhbzNPcDEyR096RG1IaDlXWFVsdDlGTG1OalVTaXVkNFRSNFY1RWVvczVvSVp1UEcxWFhrTHNodUd1TUk?oc=5",
+   "published_utc": "2026-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP executive meet slams ruling Congress in Karnataka, hails Centre's VB-G RAM G Act, Vande Mataram move",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMGJpelA1eVU4QkVXR1NZQjhEbnVmNkhYOUU2V0dXUzF2TEFPZVlPZ01vTW5GejEwNGx0ZHR5VFVzT3p4N1RmMXlqOE93cEhZUGdjMlpPS3ZMRmkxYnE4MUN1RUlRUWxzWHozWVJkRHlEbk84S3ptc2FiRWZwbVkzekRJNFRQTTFLSjZxY2g4Z2hXcUZPTmJseVJvT25fRU9rRU1KVkFKbkkySlFXT081M0xHLXBPNkFqR05Dc1pKdVpTcEJ0bTF0X0ZWNG1XaEJwR1VmTXVOZmJZTTkwOXRPUVpTc2NLSllHNEpwR1F3RjVCb2JhT0HSAYMCQVVfeXFMTzh4Nk5BdkdCWTFpUlEteTZnOVVrN0ZTejFhNjZ2ZVppaUs4cFVxRzVXMGdVVXB6MzR6ZTE0TnM3bldZcGViQndMVVVva21lQ1Q4cUZDdmNnU1owcUVaTlZGZHVib1FsZmhfbGhYdGJwQWxfSmJvMW4wMXRHZEdDOUxpTmlRcndKZEJ6NUN0U2ctdVVZRjB4d0pJV3ZqaU9TRFJwUjZ0LVlvVTZYaHQyeC1WaEpJc21UakVuZk5PX0xNNl8zR1plTU9kR3ROOG9lWkVtZ1hLWE5QOWdHeHJONlB3YWQ5ZWtwaFRWUTNQbHpsSXIyQXExaVdkWVNteTMwR0MxUQ?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s data centre hub potential: Power, grid challenges and renewable integration, says Deloitte",
+   "source_name": "ET EnergyWorld",
+   "source_domain": "https://energy.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdFk3b3dEemFHWDI1Q2hWVVVkaGdrdmFVeDFHWjBrREZuaVFpV05MM0NGTzN5R21UcWpDYndfWkNzU3FuT2pSRW5yNGc1YUZoaDkxaTVibnFfMXZ6c2xjRzVCb2FMTVdYZnByYW44RDlLa1R6bnBZUFlWV2RKcWp4N1VKOGRBal9JT21nbC1mNUJ5eS1GSGxfdk9lRllEenN0S044ZDVJaEw5Y1BrVS1JdGQtYUgyOXFJQ3BiSTBNZnY0bzF4NFJMVDNNb1JEZnV5WWRIVXVzbExTNWNTRF9FQ2dFWXZpQzc2WEFaalpZRVYtTUZU0gH6AUFVX3lxTE5KN0R3VEVGR1RIRi0xc3pJeUJQSjY2UWQxRzlTTVl6NGdZRXRoN0pNYmxBbE1LU29zNUd3SWEyYzVLNDI2SVRSZFlDUk4tQzM3UlVGc255NmZaUHpiZ1dBOXhCWjJDeFJUYzRjVW4yZXEtWmFGejRjVW1nWDRBd20xWFlCT0dkVlQ5cmU3TzlDQ1E3dmdPMDRGR1pyWm1tXzA5S1c1aV9pREY1bEhfcFltZk5VRmdHT2IzTm1sX2xUb2hWemVJWXNEN2Jkc2M3S2R2RlowSkpObWpiTGpTS1ZzekdETW9nam1iZDF2S0FpS3dsZFlaMlRfSHc?oc=5",
+   "published_utc": "2026-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

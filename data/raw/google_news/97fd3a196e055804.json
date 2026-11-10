@@ -1,0 +1,69 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Maharashtra signs MoU with Google for AI training of over 4 lakh teachers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmtGTERkM3QtRjhNMGp2X2liNEFxa0JBS0RDb0RwMURSN2xtT3RxZWViUnZLcWRncWhnc2dmaE1sYzdlaXlHNkR5dEZlWXpya2E1VTNlUTExY3VXekd1ZXVCZnAxVDUxQ1F4aWE2YWJ0NVVkWGlMT0VFTTZuMEhFTDBUd0pvRHRBWk1aVGZmcWVJZXFSSEE2SmFlMjNtcmZVY01nd2lwZGthSGJDdzBUbjlya2tuWUtDdl85dlZJYWdtdXBjT2fSAcwBQVVfeXFMTzdDWkRaMU91MVV0S19xUFRya0FHNFpMS3AtUHZIZ3VGdnVtaGhPUGdVR0ZzVmtmb1lYNnNzd3Yyb0EzUDZFb2IyN001cWxJd2Rqc1VrUHgyeWJUc1NQcV96SXlxWVdyeDFSc2F3UDFjX0dOcWJ2UlhiWkROcHZmaFdwcGpYelN4UEt0LTBPWUVIdHk2WFhDNlNOUzZWeFBjdU1ZNlhQU1k2MVZ4Tzl5S0NaVUtlakctMFEyZ05IQWhSYzhfbDVkTXcxa3Nn?oc=5",
+   "published_utc": "2026-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra signs Letter of Intent with Google for digital technology training of over four lakh teachers",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTBzbG40TEFPV1JJSG85Vk1JWWk0RlowamZ1YXNnZGdQdzA2OFdkWE8wdG5QeVVsekFNTV9BZFVheUtxNnRTOFEtRWxSa3BNTFZDZXpVM2hrVFlwd2JkSHRJUUtxdVdTV3RIdExGZS1KNE8zVkdxNXphVm8ybHc2UTk5ejdtSU1BNTIyOEtjNWRidW1NcXhDRlkxSG5LaEZDTXZEeERSY1Zycnd0b0xPQVNRWDlZTnpXNFgtWXJEUHNvY00?oc=5",
+   "published_utc": "2026-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government signs MoUs worth ₹4,080 crore in logistics and AI manufacturing push",
+   "source_name": "Maritime Gateway",
+   "source_domain": "https://www.maritimegateway.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHRubWJVU2FVa293WUFvRUtheWs2Umw2cWJLb0trejQyYVdSMkczQ1JOaC02YTFuaE1rcm4yRTFUN291NmNOZV9UYXBvRGR2X2Z2a3RMU1RvUnhhcHQxT3ltVDJGOE4wdFFEdnhVNGF5MDFhQVFRYUpuUkFxcWlOWElQZk80WXdMLS1xUVhVcUswODU3R09FY1IxUmZ4eEZqb1YwWDg5NmJ6REpQMzRlblh6ckx1MFVydWRkb0hwS2NtQWZUenFCZEowYw?oc=5",
+   "published_utc": "2026-06-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to Form Expert Panel to Regulate AI Smart Glasses",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkcHpEUHU5SXZXMTJiOGxQcElIakdHaFlXZnFfYzRkc2ZNb3hoUGFjTlRqazQyRTFUUDZUeUhsNFpadE5JNmIyQjhSOTY2RGs1Z3VBSmdlZmVETlJpd1J2Nnh4YjVfdUx0cGRwSlRXWVVNbzE2ZVE?oc=5",
+   "published_utc": "2026-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra bets on AI to solve Konkan’s oldest mystery",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkVMY3JWWFNBV0pUUzFGQVZCUGc5cjRMbDQ5WTVBM1I5aTdMOVMzcXJoNTQwS25XRXAybFk5X2MtdEd1N2h3cG9CdTljemhiak05UUtWYWNacm96SmE4ZE80NXRSd3MxU19pQVNGZGV0Q1o3SF90ZGJCSHFEZXpNR1FZM3NSUmpPUGVXTWM2RU1IWXV0NHJUdVRMaE5RbWdvSmfSAagBQVVfeXFMTS1mQWtGaG9hMm5xYThuekg5b09QSGpOQzhMWU5YVWZSWWdBd2hHUHZQNU9mUy1aLWVYNFEwUXRieGRHYkdSRkpNRUF0cTZlMFNFdWpoR3BTQmdRcUZMdG10bmtCdEhjbjJhSncwOV83NWZhQVV2aWl3c0dPamY1MVYwR3AtNmQtaW9VNVdtQ3FuQ0tnTUtGdktac2wzaUJqd0s4VkNpQWhG?oc=5",
+   "published_utc": "2026-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tripura: Rs 1.68 Crore Cash Seized at Agartala Airport; Two Maharashtra Men Under Scanner",
+   "source_name": "Northeast Today",
+   "source_domain": "https://northeasttoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNW1YVm1XWjNQSE9XWVlDa0dUXzU2dHlBYTVVVXpoR0tJdE1WR1BZUFdCc0l5Uzl0Y25IZ1hENzJsSkNZX3VQZF9Gd0NZZXRLQ3pQMng1VG5jempCeGRwanp2MUlBYXVmRHRYVVhqenM3M3hYd0xLVHBYcHk5QzBsVTdVTl83M19nc3BCeGVhNjlTcVVRZWY4cmZjTXB4UVBfLVZKd2Q0cUowMkRDU0tTRDItcFlKc3I4SXR6RGhBUk9lZw?oc=5",
+   "published_utc": "2026-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Form Expert Panel For AI SOPs Within 30 Days; Opposition Raises Privacy Fears Over Vidhan",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVDRoX2RmTzZ6d1Z1Wkh5cE4zLTAxWWYtTlRuX2NQbnpFV0Zmb2dZVzRETVQ2MzROV3NQenpNeFRvZV81Q01fMFBTeHBwSWNXTjhxUGFDME8tNzdEc09iQmRqX3JGMzZ3SWlqRDFWM0lZTlpaZVBxZ3RXRXozUXc3VEN2OG5ORkhGcC1zZ1ZxYzJXdTFTV2hHTVBDaGt3Q2xnNm5RMDc4ZFhuTm5RR3lrUUlJbnR4UGR4UmUxclcxWG8tYnRpVlJlaklaMWdpRjl0bjhSWGRsTFBiSjVjQTZtUzBEX2FrWV9yR2NLYklzSWZ3Ym9MbjhsSy1pZDjSAYICQVVfeXFMTUszUk12Wnk5V0Q4a0d0RUhWNHhEcWlKQnZqcEx6OVJpbmdEQ0NhZnZPNVNzLUw5QllleXMzZ2doYVhGVl9LbFRvcU5BYjZINkY0UHJ5Tkx0NGhiekltOWtqenVCRDY4VGhlenR5bVZ0dDhuZzUwTGlxNjdJRFEwOC1xMzBzdTFjMlh6UVR2Tm13WDNZTHc0QmhHX1VhVHNjMVhZS0J0anctTXpxMlhsV3BhVWFZcUNpY2M2M2xUdE1NOHM3UXlUMTBXS3hTLWhUcWdDX2IwM0NhVmxyTkR1aXkzMUw0R3l6T0s0RVkwc3NJOHRpNGRxQlZjQXlYQ1Y4YWpn?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtras AI-Powered RAIDS App Helps Police Identify Decomposed Bodies, Trace Missing Persons And Track",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcVR0SXZTNm1FTG9aZWRCQklXVVZiSFFrWkx6VjhnSEdnRlBnY012dGRsUmR1Y29tam9Db1owVWMzRVFCbENaOFE2QzU1T28wZUExVmNWZ1N2TFhKWVlqSkJQV3JyaWFfRHdhMW4xa3VBMmlUeXZPbWgyN280Q3JLb0JwRGdlakQ3ZnZsMjZpYTRhUUl0SEhCVUlRNm5pajlkNWM4OWV6eTVQZDlTeFlnSjE1MTFaN1hsWWE2aUZuYmRrSmRDZFJTU016bGVrUjF0LTJ6WFVBSnN1WkZSODlxZmhLMmRSYVnSAewBQVVfeXFMTU5CSFRnNXZYc0ZPbXU1QWpHOEstd2htQWVlSXVURGpnNGs2eUpZOUNZNHhSdlJtaEwtRkxKcTVkZ0Nqd1lTVGpSWW52YW1YdDdrQUJ0c0tlY0RJNHNhTkt1WEh0UzB3bjU2djgwOHA5bWg1SloyTmJCRlA3VDRHOVpTVXlpVDRuV21jM0NDMEZ4YWpmM2NXYU9PaGNwWUpUZHJYX1k2QmJndU1OT0RqZlJXR1lXeGs1MnBIM0tZcFZ1TGpUOHMzZERPVWtnTmlLUWNjTXlKbWRKM3JSd1FWUEJVUW1BOEM1a3REUHc?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

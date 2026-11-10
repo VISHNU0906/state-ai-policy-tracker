@@ -1,0 +1,85 @@
+{
+ "query": "\"Assam\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Assam unveils artificial intelligence roadmap to drive inclusive growth and governance",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3J4Vnh2aHJIWjBiTzBCdmJkdlgzUkxFcEpVRlBMenhlZVpHMkdDU1p6bjJXbFZzMEpVWWlGWDh2RjhzeWlzMHMteGVhb2Z6SWF4SU9FZzFMVHJvWmVaZlZ6WUNfM3NmbE5ZZXZmWnNQZnEwTlkwdjFhNDFwMVd2ajdiU0FnWTNWWkZXbkVaZWdFVTJwVkZhdHhUVC1fV0hoa1V4S0hvcF91UkFYSkpuWmR5OA?oc=5",
+   "published_utc": "2026-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam commissions first govt-owned GPU cluster to power AI services",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcDhfV2ozOVZjVTdUQzlIenJuemxvem15RnFHa2p6S09ZN1FEXzlEaGZPWldNbWtsLW14UmxMa2dpRXFoWm5DM2RaZWNURnhLZUprVjRYSkZuMWliWl9tbzZ4TUJoRnJ3YU5tbms0Z0RNaXBERjlVNTVRdHVUNlhuVExaX0h3YTBDTnNDZG1TakRFdWN1NTZ3cUFtWkdPWTBBenQwWXZ6cGtJR0phMVNQWm05bFhVcDlSVzV4b0Z3T0plaVp5UmhYS0piNFcyRTkzQWtjR3YtVjhNMTTSAeABQVVfeXFMTjZKd1I4ZkowQzI4TDRIa3ZJbW95TUMwVW1nVTNPNHJFSkN6SjFRODZDZ2M0cUJCU3g1VlR5dVJ3WHBFQWZSR2xpUFZITWpDRGp1bnRoclpPREJQSEszOERKMDVKb1FzTkQ5ZURmZUxiLUVZYWp4eE41anhqbl9fRlB6RmtWVWg3S0thRkpkOFJqZFIzYlFiSWVDR1NvNXJNQWhmSzh2elJoRFpVZVdHWkVIMjRqdXJmNC1jajVSekwxNFNJMnpkR01LVHpOTGZ2ZVNWRHc1dEpwVkRITzZtOWc?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Commissions First Government-Owned GPU Cluster to Advance AI-Powered Public Services",
+   "source_name": "Konsulteer",
+   "source_domain": "https://www.konsulteer.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHlrS0t0TnpRYWJNNTNEWS03a1draThXWU0zZXNMb1V3WHN0MEZlZEJveUM3WUJTaldaQWdqdXVCMHNXSDJEa3dRYXZpUmF4RVVEVDlzTkl3VDBCM2lpb1dDUE5CT0tPTVU4SHhxUVZWXzl6M3p5VXhuV2FHN2pKWTZUc21fUlVhUzFuSkVXMHlVemoxaVAyWkQydFBBZjVfRjdaaWxPNk1Za19SYW9WY2NtaTktbHhkTHdsUDlQQlhxWlU?oc=5",
+   "published_utc": "2026-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Police Becomes Northeast's First Offline Aadhaar Verification Entity",
+   "source_name": "guwahati Plus News",
+   "source_domain": "https://www.guwahatiplus.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHhLMlV2OWN6T3RMNndxeEIyQl9sbllBQlRSSngwUUR6N3hnQTN5N09kc2lwcEFnME5VVGNmMEpvYTd3Qkp5SVVCRDhFT2JWb2NKTmphRDB2Z1dHcUpUc3ozUFl1WUFHZTQwdnJsY2p5Y3hmZldCNmcyaGpvSjd0Nl91ZndHV1hjS2wzNjNvdVRMMW5KNHRlSzVGaGhFVDFiYS1JcU83LUpNaUdo?oc=5",
+   "published_utc": "2026-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Police probe AI use by 'Sansad Chalo' protesters to counter crowd-control tactics",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM25LZDFsUDFLUDAyaFVmSDV3VnVoRVFzdVdvN0tmQ2Z1UnllRU9lN3JvNENQaWVwcUJOX1UwTk9GckVqM2pMTUs4Y2EyM2ZGbnNzZ2RudllVWHAwVURIa04zVTctcHRBWWJoREpOUE1DSnRDc3NNTWFDUkFaM2ZSU2VFUUFpR1hueHlKS2R6LVBxNW94YzZfNFhnLXRocmxtUzlIOHdKNFp4Y2hpWkxBNFZ5SlQ2aWhPOE9QdUNB0gHDAUFVX3lxTE51TnJsTTRlYU51NWFtQmVkMGMyemwzVDVNMHpualV6d1pxOFZLaVpOblBvOFRRa3NSQktOZ2NDa3UxTkFVQ3VTYkpBUVVrVkw3amY5VnhrRjBzZUVQVmpWVEkzSHVjaC1BazRTYm5vY2ZMbnd0eE02dE9KVEY3RzliRHBPTmJGV0p3cEo4NGdtaVoyR1dXQ3FrWUppRmJWT3FTQ29RQ3FxcTdXamZGRktsSWJoc1l5X1JOXzBUcXMxdEdNQQ?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | CJP NEET Protest | Assam Minister's Daughter Joins Protest| CM Himanta Says 'Don't Blame Her Father'",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXZYVmZ0TjdMMmcxNXpoUjdGU2wyd0puMWZhSEdtSkxzQjN3VlpfWnVHT0xHSjBnaE9BOFNheVhLaXdjaW5iYTBWeWFZWmtTZzdteTdkWmdVcnVEQ1h0OU13YlNJR1c2XzBiXzgyVm1Lc3BIeWtFU1hKLVZYT19OLVg3NjRlZ0VkU01FWjBVNGt1Q3ZjQlRxelh5ei1ucGljUnd4bHl4R3k2dHJQZ2xIQXI2Zw?oc=5",
+   "published_utc": "2026-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-morphed photos of students, teachers spark outrage in Assam's Samaguri; one detained",
+   "source_name": "India Today NE",
+   "source_domain": "https://www.indiatodayne.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcEE0YlpkZEFobmZOcFZHNUxtYWROc1pZT09wMjdIcjVUTHBIU1I4VDR6UFRNa2xhLUZLaG5DclR3c1FXcFpOdjVqLXJXTDE5MXRJQ0xMVDhQVnk5VGQ0RTNZM1JhS0gyc3BpM3A0M01EQ2QxMWY3S2VIVWJxX1NSUkJfV2sxNTVHbTMtQ3BQLXVzRlQ2UEo5TVVRazBDZXRoRGljaGhGZWRwMF9BRG11M0pRUEp6QlFyM2Z2UnVDMnJrMk5zNUtIOWFDNEg1NTM1dFpsbVlXbUdkSDjSAeABQVVfeXFMTVRoamRsUDJkX2JiSldkTGRGcF93V21NS3QwVDBpMG1yd2RxUzZFMmxQeHItemdJaUZfVFdvYmNhSmRCUjFJakNqSVdHeTVJR3dsZFpVLUp5czRxSDlRSms3SVBETnFSaEtqU1o1VW9NeDFRYkRRYlpvSTJQdmdVQmJsRmdwMDNOZ0NZWTI3UngyQ1FLYXl5b2NIWFpwemZvdmdaNTVmV2RsTjdiNFVXSnFMSEN5TTZSZ2tkUTVZb3VHVFJpZDUyc2xrMHh1MTFvbmFhV1RTOWN2ckRZZkRvLXQ?oc=5",
+   "published_utc": "2026-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | Assam Floods Ground Report: NDTV Reaches Ground Zero As Sivasagar Drowns, Villages Underwater",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW1zWEVsOFExWlltMG5ZMHRJQk9VVTVTM05ZR3REZDZoZkYtbUdkbDJiYms0ZlBUQWlWQ1FSOUV5bkZPVlY2VUFOYlVLbWlObWgySjlSR3NxZm5DOEdBZ1JBQmhHMUVlbWMwSFlXM2FCMzNWQl92RFhyVnJFM2ZyRmxvU2lHNVN1Xy1uZ0pBUmlWbV9WWXZPdlJqSUhzNGhzcTFSVlF4Z0VXZVU4TW1HeXV6YW4tQkk3TjUyaFNIcDlvM09w?oc=5",
+   "published_utc": "2026-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | Assam Floods Ground Zero: Sivasagar Town Underwater, People Struggle For Food & Water",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWR1Unh4XzJTaFRjMXhhZm9WOEZQR0ZJR3NRN19UNmNGdktqWS1aNkhaSVI5RHc2UXNjaTByLXpxaU03YzZ2bWphbm1MQ284UnNwTGY5TkhkM2cxa2Q2MFoyM1FNZk1PVGYzcko5alJWaHBoWjlmd09EZ05WY25yNUJNdlo4YjdpamE1VkZ1TWV6VlBpbV9kaWJlMW1paVNqdUkwbTdyV21mUnFINzVKZlVOblNjNFU?oc=5",
+   "published_utc": "2026-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam govt invites applications for Internship 2.0; DITEC Director Ashwani Kumar outlines programme focus",
+   "source_name": "India TV News",
+   "source_domain": "https://www.indiatvnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYWlKQVZYVzRBZzNUUXVQQW5IckdKNVFlTVFzYXFDcXl4dFhkUVNEeUctX0ppTGgzaHhYamc5T0NjT2huLWxRZ1RXZ28zWnF0MC13UXBOSzA4YXh3Vktaem8zZFFVWkxYX25kNy0zdEhPWWx3M0drdW45MGlYeDdnTTdleU53WlhpM3U5OEN1ZTR5ZlRwdDBidHBiNGhOVWlIdzF3dW9ETmQ3MVhtNVJUZ01CUFJDOUs4X3ZwT2o4TmdiZGhfLVBpOHBrY2FXdDhxZkpoRlBKNi1ZWXZDYlFQeE5EdFRyT2xfa1NwdkF1MmdybXBsVlpYd1VKYWcyNkp4NjN1X2pIUG9rYTFSTE44UkJSb2hZdXPSAZwCQVVfeXFMTWx6TTNlWkdLN21YTExLSm5SVUJWTms2SkpCSFRsYlhIa0ltRmxlQkpsS3ZrSXA3M1VFTE5FUmZDX0VJQVBISTl5NmhFeERrN1RFa29fUW1LZUlVUFBNWlJGSDNsZjdMeEZ4Uno1cHVQSGNrc0NXV21XUl9ZdEd2R1Uwbk5hS2tnRWx0S3djOVl3Q2pIUlZyT0RxUmROOHdVQ092QXJpNlo3LWFXOWhtb3BkbmVPMFBwdTlXMzV4UTh4LWZnSFBIcUYyakxCUUYzNVpQLW0zT0JuZmhldXZ5ZElVV2s4WVp5RzhRMndaTGJYZkNkemY1a3hBellfc0JUQ0VzN2N5YlJrVlJtY25nWUZmcnRiVnA3WlFWRXU?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "TN plans AI, emerging technologies curriculum for all govt schools",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGNMR1g0NUxYcGZzZUxnMlFNYlFYYkNxcVNoNW9xMTJIRXFZUExRazhpcVhUdE5DelM2akVvSmUwVFloSlVKcDNITDFHNDQwdERDRUpmMnhOZXZfY0tjYWxCVkp0TGdybHJlQS1uTFJoS2Z5YnBOV1ZKd0JCWUg2ZzhDNHI0SDhsalMzZndiOG9ub1JvSWs4SE4wSGZTLS1yLXY5bjk0TTZpMGxUc1N0TmFKNjZRajNSbW9LODRuNk1uRVZkQl9QSGRTNkQ5ZVNBbTIwTWY3ZDJXVWgtZjhV0gHkAUFVX3lxTE93U2ZDdjA4eEM1alV0RzdsbkR3NnpVOGFibzBlcTlFb0xFOXg5bG8yMDlaWEVvOVhDZnlOdGdobUpTWlNRODlORlVueGNpOFpEVEhYci1vUmxhWFRaemQzVkJRT2VYajRTU25yZGd4clJIMGpHYUxQMjVuMExPbHVseDdxbGphQUgxMHZFOFVEcGZ5WmtOdkFsMzNxaFI1Q1ZPUURNdjluZTZrTmlYUGNycDZFUjY0RzNPZ3ZuUWR0cVJtUlY1cHcxQTRWdkZ3Tnp4Qk1VQjFwRU1GNUpiZktXeWVMUg?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu charts AI roadmap for government school students",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXoyZHZVak1jLTZvazI2d084alROS2lUZktsa2tFU19QT3ZmTExzcmlrQWdpd2puNExEcXpFaWg2LU40S2hLanNmQVZzaU9mTl9sX2Z5Z0Q0ZWRtR1Q0NjJKTmtDcjU3TThZeGpMYnZ4YTNWcUthc2MxTHM5NHRmejliMEN6bUc2RG5TQUFjOGpQam9wMVlWbUpTRWdhVEQ4aE83c2V2SVJRcDJfSUtNelBZbEw5NDV3TVBWWkRoY9IBzAFBVV95cUxOdWppQjYtLWxlMnZLQ2xBUlRESmRldUdNbkpaQ0RmaXozeXJUel9hb1Zld0t3bmtEU0dEdEJkTUZOT1U2MTFtekhGUDVLN3Y4eG1SYUJ6eTNJZV9VbXZRNUxGVlRPN1FHM2I5cUdlTm5RQlpobWZPTm5UejYyTGJOdUFNaWNkMmlENnBKYjhDVUhNYlVhOWdlQkVqTFREWUJJcjU4eFloNWhnSDNhRHdQa1JVc09wVDI5a3NDS2ZKb2lXSHVzZWozeGtwNjc?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tech education: Tamil Nadu's AI bet: Dividend or divide?",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTJQcVNES2ZKX3MwMHdMdURnMnRTSlB3c2V0TzY4bmZ4VE5Rc1ZYbVhJRkw5bFkteUhTTmhEYW13dUlMMWZobXU3VVBXLUhSTWNPQlE5YmpyT19HNVpiNkgxbDFTV0RaT0lIbFI1MlNZZVpLbzRyZzQ2UE9pb3NJbHVSNTRvUdIBkwFBVV95cUxObE1yVnYyUHRkWWJMX1FZcE1hbjA2NDdOdUhYY05MNGJFZFA1dElNMk9QdTJsVExHS3NlR1hVZ3BUZXEtc1B2WUJXdkhSa1lyQlBmTmE1QVlXY19KREgtUV9UWUEwQ2I3a1M0ekxoMEE3d3hFYWQtVW0ybjBwcE9Obnh1ODl0cWx1bmtKQXd1dUVybEk?oc=5",
+   "published_utc": "2026-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Kanyakumari Police expands AI traffic violation detection system",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDVYZUtDWVZIajNBYldEOFFiQl9yY0FaOEZZT0xQRThjMGpLbWFDMEl0dWZfcXVWbUREbHNRNi1jRGc4aHhUSC04d01aMFhnTzZ5WWNtSnlGdTA5SW9iU1VMN0VxTnZpU0VCQTdpSFdVUlQ5TXdEY1BZS0Z3NS11VkN2eTBkZG9CQjdqUjkzcDdxMnFKV1NEdWwtYXFTV1pkVURV?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-ISRO scientist and 'moon man' Annadurai to redesign Tamil Nadu school syllabus",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSnh3MlVwVWxYRXNtczlRSHBmNGVWWGdFUU5hdFpqMjlCRHpFYmxrYVdsSDJVQWZqaUV1OXozX0ZtcWpIdnIweF8tWWFzTnVMMWNzVk9OWmZGelBLemVNSm1fV1l3dHNuLTFJX05CMlZUUFBvR19DQjcwd0d2RVMtdzZXbXFYaTZKX2tqaGxTVmduWUtYTGRqcFBwUnBCVGFBWVJoaXQ5X2c3SENadDhvc3FaYTg2dHdZT01leEFzWDZZS3RYZl9FQTEzSHhXWUc0NXl3M04zam9WdEJtZkMyVkRSWFctTkQ3WDF1QUNLdXRVdnBSQ25EZkk5bFNBY3VMX3pPekpIZkRqdTk4WGfSAZMCQVVfeXFMTXI2WjJWSUVlTkYta1ZQSUxPcEZidDVMZkFuSFRLSF9VRWxLZ3loOGp2Z1lrZ3NHallRZkFGR0tISGk1NEFGcnJET1BCd0IzNGtraDNUX2M3MU5ZRjk3TkhvV3ZSdnpxM1MwakZDVlhNMUZNM1RUQjFldy1uY01lMkI3UjY0UGFRekFDazVkV0N1LWhjMElIZmpGZ0c2SGs5VFdUektEbXdHUF9PT1p1cnA4Ui1TM3hLOW51Q1VHVzNkLWEySmhYTF9odG5NVFplTmJrcWtVNnIwcC1WcnZRTEJqeHNWZ3BaaFlwZzgteldRbzFhRFZLV2ZNXzZEczJxajN6VFZQRFlYUk91aXVpbVR6MVk?oc=5",
+   "published_utc": "2026-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Vijay launches Nalam TN AI whatsapp chatbot for online OP booking",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaW03WkRaQjdvT0FYS3VJNGZCaFluMDFsX3NvLTF6Nl9ibFNYZ1NuQUdRTl95WG84VjNiNEdjNU51Wk1iNnBCSUlIeFQwMXk3aVJCVWxkWkhMOGxlN09NV3g5QlFRM2hxRjVwZnlsN050bDBmR0ZxQWtRYzRHUDFMaDFNVFZuMl9UTTAtNk8wclJjRTdrTmpsZ3VoRUV4aFhhV1BRZ2t0X21zdV82OXh3Z2w3czNkWC1TQjZQeGl3dFl3d9IByAFBVV95cUxQOUVaaVFHSm5jWjFHandQbGJOOHNmTlZPczJ5S0tndUc0bzgxelhYdktLTTR6Vmhia2RxTGFpY3BQdWpzc2dhdk9rU0pHdndfbHVZMmFuMXFma05uUS15S01pQ3RtbVRQcXgwRjlnM2lrek5UZlRDYW9PU1A5czVaMzVIcGNETnFXYnZSVTIxNXh5RTQwM2I0SlNFcWFhZUNfQXA4UDNCekxjRGlsSjhia2k4REJGTzRDQjdpenY3NTR0RndLRDJOTA?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s JioVio Uses AI to Detect High-Risk Pregnancies Early",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVC1HeDhfRURPcjhWeHdsb0dWOHliS0RQQ0pPVHlrMVRkczV6YVNidGNNdVhSalptYUJVV2RSUldpT0xWOWVlaUlaUmhrOFZKN180OVVmTHRwdi03MGJKVnhqQl9SLWZJZlJ4M2hrTDBSZkg5Q0ZnRlZqR3lxNUZrS3hubi1tOUhReGkwQWZrT1lQNWk1NVJERzBZc0ZuNm5hU0U4SG4ybHFBTVZ0OUlSc0hn0gG3AUFVX3lxTE9JUVhyM0p1YjBiVFdsUlRlckN6QU5rOVNFRnd4akV5SUFhLW5qcEVFbUx1cmRqbnV5S0xaWGdlSVplV3RYSnQ4MG00dncwR1BucGpBZXRtN3Yxd0NLeHIwLU96MklydWZmR2JTYlFqS1BmR0Z0S2hxeE5vUHliNEFRSGF3UHFxUTZrNTgzSzdoM2FJbFJFZ21EMzU4elJXczdsUU5zb29SSEV6Q0NWRElRSW43WWphNA?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-ISRO scientist ‘moon man’ Annadurai to design TN school syllabus with focus on science, tech & AI",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeUtWSnFMR2tKYl9fYW8wU3psVHNrb1lhY0U1dlB3Y0VwOVhoQlF2Rldwa0lPbmR3d0hSLWZ6TjA1UDR3N3JPME9rVG5OOWZxRHllZVFnZUR0UFJrWHN1RTdTckw4TkdRV3FlOU02T2FNSTJJckFaQkFtRFB3cWlrbjZCaXVyNFg0SldUTGQxTGxpQV9GZm1wZ1phaFR4VEV6eUVXVl9Wb2lNcTJoS3l4S0lGY2hUTUl5TUR6ZzlLR3R5cDkwUUtBcGVzc3VWdTlPNFpfbGNjc9IB3AFBVV95cUxPNzdVY3M0OFVsbHVmYUZxVmJ0b2N6d045Y2FMR2phWXVPVEwteEVBSkJpSGFDM0w0U2YtTG1uTWRrS2YzcE1BMVZueGZzUm52amFLaVhBa1dMWXhVWDlBLUFyNFhTOXMzVWtwZTFVczNESTRQMW9DU3JGenVWWjc5bl9nNUQ0cEZLRkZ5VjhuVk93TzZ2QXhZT2dnZHNLUURrLTNobTBfYXRDTndVTnBKVGdvZGpOT3ZqY1U1Y3VJa1VNZGk1VFozOGRLYUJuTE9VT1g4UndMbXo3bmJ2?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Rolls Out Nalam TN, an AI-Powered WhatsApp Platform for Seamless OP Registration",
+   "source_name": "Digital Health News",
+   "source_domain": "https://www.digitalhealthnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVN1T1BKX0oxU1hnOFZOd0x4YkpEQjNWNkJ4UlNwNFdkM3QwYUxKb1MwNDJERjBUVkY4U3VuUFNVbVpTZGY4UTUzRWdtM0tmTGNTYnRpekM5enZlMXJ3cDJwYWMyaVYtaE1BV3RIUlUzWUMxUDJrYnh2Nmk5LTQ3M0w1bHA2dktOYjNkbExMMmtmSjFPMlR2NGp4WjZIRFN4S3g4U3EyaWU5cXFnUlBGeDFrTW4waGwxWE1DTUM1MnhfUQ?oc=5",
+   "published_utc": "2026-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka: AI now vocational subject in classes 9-10 at govt schools",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVlVpeDNBRDljZ3E3bmFIZHRlY19zZUdpX2lKRy1GU2ZUQVZ2cWN4eDc2VzhrM3dacDZoLWFzTjhXbjNPSXdsSjlhT0d1QWp6OWhCTWdpZEZRVGFJcEQzNEg4dlpBWkxvVjRnRDlQSWF1aklRYjdaZy1XaFNETjdNN3E0RnZncVdNSkxBUEZGc1RSdlV1MXNQNVctSHBLZV9TSzgzQUFJZGpjUVFJVTg0Sm5Cb3hWc0MySi1qdDNXclpVR2RKTU10eHBfTGlnb2xISlVUeF9wcXFETnJ2Y18tOUJB?oc=5",
+   "published_utc": "2026-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Launches 'Nalam AI' WhatsApp Chatbot for Government Hospital OP Booking",
+   "source_name": "LiveChennai",
+   "source_domain": "https://www.livechennai.com",
+   "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OMVFTNno3UzVEX0lXcVNieGNqbnRJZ3RSVjJaejY5SHBrMkE1RTNRUWhTalhNOThQVkNucEk1aXZLLWNqTWJOUXE3aUJKckdhVDQ2X3pyZjJrdVhjb0N6V25ZYy1JSnczem56MFRCVWN1NjA?oc=5",
+   "published_utc": "2026-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Anantapur police launch AI voice-complaint system for efficient grievance resolution",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRGZsX3Raa0UtTTFUZUhYN3U3WnVJamtnLTUzV2FJS3RyUFg0emY1UTFqdlpvY0d1SmNDTzZFN0xvQnRWN2RXWFZHTzU5RDQ4MkxST051cnB2cTFDRC1yNkV4WjRGZ0R1ZHVseDd2YlQ5LXpZamk1MHFCU0t3cmtMWGk2VUVKN3BpZU0wRlJLejhEMkRCeW1TYThKbVFaUE95a3lERUVNaU03VWJRRXhmejlXNUJvaVBZRWpxYXZjdEt4MzNrbmNXQW1WYVRRalJsM1HSAdgBQVVfeXFMUGZ5MGVBQ1FteHJLaXhtNWtLcmU4THd2WFNsd0NZODBOTGNhZzVFVFlyVWNIclUxRDNVc0E5N3U2bmxOaHk4V1FLejBLb3ZZRUo2dkRqOVNqQWtGMldWb3lLTkhQRzF4WFFSdWNCeTFwdmNkYWl0d2VUN21sck55eFpQbV9XdEF4R3VvdlpXZkNhNGJjNXBidlpWWXBqZUIxT19yWG9tSXNULW9SVWxDUFdGZ1V3ejZObTJTaDdpSVlSUHJQM2hpLVp3U0RRTElqX0kyMExvMU1J?oc=5",
+   "published_utc": "2026-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Pilots AI-Powered App To Measure Newborn Health Parameters Using Smartphone Videos",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRDJFRW50WWU5NWxKOEhicHZnTHNwazcxMnNCdGhGSEF0aVNwVktLZVNlLWFkYk03S2JKXzFpNTN5SXRMZFRrQjh5TFhSSUlQMEhULUFUa1hpWGM1N3p6RjA0d3BnRmtRYXg3ZW1WeG5jYkFxUURxdGRlTFV0VmQtekl4NnlmbUZtRDI3dFJob2xiOUdVM0dSV0NsVkNDLVFmeDNTU25tbTFTUGFXRjV1WlNERTNCbzZkRUhQQWZDeExHOVRlLV9BT1UycU9WSkpHanhVcmUyeVc4VUNBLVJKR9IB5gFBVV95cUxOeTBVRWRLRzI5LW16QmlicWlVNDhLNlE4c3h4QVZjeUVjODF0dURJam5UbEpCT0FKTG5HWjNTNGhKN1JqM0w3Y1dCWGNlWU02MlNNd1Jsc21wVkQ3c3hEUnhYOHBZRGk3NlF3T0g4RmpBcFRiWGs1Ni1jbk1DT0Z0ZGRqVHU1ZWhYWV9VNWQ0TFVvTWNfdS1aeFJWVWU1b1hieUpQWDlqQkJZZzgtT0tWSVZsSlVmMW94czRrZGJPSklEc3JJajBaTHJqam5aLUdHTElVbDNBejd2Tk5jQ0R2dGVIdDkydw?oc=5",
+   "published_utc": "2026-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-guided OCT stent implant performed in Andhra hospital",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1lEQXo2SnJOb05VUDhLU19FXzFjcThxZGg1c0lxdXl3NkhNVUZaMjRFUm1hVVZtdVZreWlScGVFemhONUR5ODNIQUVmUzZDUzIxcUxNOTZFTmRGeENZc0hRMXptZng5Q0d5TVRLMVM5OGtsZ0tmc3BLSjhCN0tfand5LUpiMmUydEFvcE1KbnpENnFIRFRwOFYxVXZnT3psUnkxYi1NVjRUTUgtWXdqMGtJaVZyeVJ1cFZiZnBLOFfSAc4BQVVfeXFMT3VzRExkTklneU1uZWF2RXJvSzdTQU1vWGdGT1ZzR1BoS3ZpejN6UjRDdzFNWEsyRHBJSjFReWxjYzlvVmdJOGxNWHBEWV9LSFdTMmRyWHc1ZzFoa3NyUXF1SU1hNTlhSzBteDc4VHY3TjktNWJEWmUxcXZLeU9OSllpMzEwN1JEcHZWdjZLM1lpWW9tTkY4UVBaX2ItMU00Q25tVzd1dTRHRW9hbGRFVDh0dUZkZWpqVjJqbmdyZEhNemMtWmI4bWJubEJIV3c?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP to join hands with Google in AI and digital governance projects | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTN1N0VkODg1YThscEFFNTRuZjVrVzhMLThjUFR3djVVZmVhUkJ3c1E1bjdDYjlaM0hxbTlxLUdxTlZVcnNZd2ZGZ2U5NFVzZU1nOGliQWd2ZldQcUxmU0cxNU9Oc1Fud3Y5enVlVTJvSHcybE9OZk1fOXRFZTFJTFFLQ1hkc2Vwam9ueEtYTTk1NjdZbEwyLV94U194ZlhFTE1Nc1JYVHcxUWVZejFxLVJYNzJ5VHN4Y2lCc0NNNXkzVzl0VHN1ctIBzgFBVV95cUxNRlViU3FPRVQ3cUx3YlpSZUJnZzVvcjFBbk5FMTkzbnhSZHlYdFpRek9OSko3eFNHbURaT3J1cURORHNzLUVNOW11cVV2SVJkWlRoYmN4c0pwc3djb1ZDbVJTQlVFSGl6NDZYTTFSbTBQbjRpLTQ0Um94OGdKS29hSlBtUUxlYmdhdFdBTzZPWXYxWU4yeDBNbXJmc0psbGJyX2FuMFU0aWpnSEZ5SjhPdTR2a2sxenFuR3Y2RGdFU0VzaWU2LXRWOTA5cXVGUQ?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP, Google to set up task force for AI, cloud and digital governance partnership",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHNINk1TOVJkeGdidFprM0ZLQlVOclFKTE5zbVo5aFZVUE5ZUXV4Q2luVmVkbEZxdFFibGt5ZWd5RjFhMFZ3RHNfRzVGbmY0NWVIN09ReV9UZUhGUnZpRlhpaDdMQTdHVDk3UTlfOHp2bkxDeUNfa1JZNWpqSHR0c04ydGpqWk1fTW9mdWJkMWVCWHVHMGtBQmtTdUptUkFCcko0aTQtUXNIVl9FWUJrd1VTT01lTzA5Q3VNbm0tMnlmUV8taTFwNzU0cU5kX3F4YWhYVzA3U3FIeXJVSVc0eXp5ZlVrVnRPV29rVdIB8gFBVV95cUxORzI0c1lrdks4UGo5UGExMFhrRjU1T0lXRFpoU3dCT21tYTZFVE1yUFV3VjBZN1hFVWxvYnY3NGdMUUx1bGhBMXVUVWY5em9mOTJ2dnVybDBTZEloM1FEV3BrN0dsZFIxX051WXVqRnJRX05hVk5HaGJBcGlzbDJKN0xrVmh3STk4RWZQM09URXdrXzR6N3hybVhCYTQxQlFLM3YwcGhldHhxY0JVWkk1Yk1OeTFtaXliVkJtTTBYOXZiMUpxZ1hmZlNHRDJkcXpWb1NGc0ozY2JqTzdoT0VJeWZRQVVab2NWdGZfLVducGNSQQ?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra’s Data Centre Drive Sparks Transparency Debate",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3JQUjJEZU1IdXZHLXQ2SjktYnFtMVIwOThMaE1CU2FBTE1rLWs1T2FDYVZsTzZ4V2NtSkRXS0JIeW4yMElhYkpfVG1nX2F4Mm9JNG9RNGNWQTU1cGVDaGlwSE5XRVV3ZEFJVy1vR2U5Rm1FMmEtdlFmSHFxSGpfT29xTmtkdjFNWkxvbzFQTDU3R2JqRWdWU1JrZU9tU25RbGxWZ0tYUnVZZTFNYmpzVUFTQTQtV29zNzAtdlVId3gtbzR3M21WVUN3akXSAdMBQVVfeXFMTjZWWWJYdVRJZVp3NlhQOW9RN0gzOTNRTzRZX1lPUUZxcTFNRmlza2JHSTNSaHRMNTFwTUFxNE1OQVl0OWdTS0FEdjJoTUhMeFFHcGQ2T3dBSm5SVDdraHhtU1ZPS1pSQm55LUFLREx0V1MtZlc2Z2tZcVlVa3N3bkhnbE02a3NxUUkwWjM1VnhpbnNoYS15SkRYajYySkstTmZoMUI5eFNreE5IWE1DX3RsMWpGN05vOUFvOHdTWUxxZFBKVkhJbHdZSmtJSmdnVVlKaw?oc=5",
+   "published_utc": "2026-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Naidu’s Singapore visit: AP and Google to create special task force for AI and digital governance",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY2I0a0hGNk9NdUJiRVlsM3Axam5sZkVtSEk4OHM1WXE4WjdXNkppU1NUamNORFhtcnl5S3QtWmZocVYwT2RhTXIzbmZ6VHZzektJaVo1RlV2R2NSTlB5bjAwQUktN01JN0toV0JZeTZEUUg3eE1nT3dUSENIMzJuOGh0TnJ5SzlGMG5kNjNwMjZuZUV3M0tWam1LeTlHQzhJX2Q0Y3RBbW44cTQxUXQ0MGRxQVFHdWVmVWZNaTlGQzNkVUd6TGM5VTNra1pXMDZNeWtMOU96TQ?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Focus on attendance & learning in schools’: Minister Nara Lokesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXlLVFJnZGZTYUNsbXJqUnRmeHRvQVpFN1VUNmUwZ0p3M2tJdlpiOFpEV1BpOWVSWEVLbndkaGJXdGxoV0hmZTJwcXc1b3N5M1ZqVnFuR2h5N0ZrcnVBZGxaWEpqekRQNDVFUnBVcTZYSDZpOWNPWUYweDB4UWp6b3lQSmMxdllkd1gxOFA3U3d4dFVMblRFdmJzWjZmeDBWTEpmOXBiU2F0YjNXMHdkMjM0STV3MWt5T3NUUEZrZmtWZnozRHfSAdMBQVVfeXFMUG9Oa0tEekFNNkFGWkhfT0o1Vi1KZFg5LUlTdnJ0Yk5WVjZEZHJibFdYNUR0QkxBbmIyX196dzJmQmplZ21vZVdlM1NvRjlZWWNrMm9BQzc5TUlKc2VlTF91QnpwVjk2Qk5uZWZ5VzIzWjhGOWpOeE1VV3RKbFJNVkJXUGx4TzZpTmxQcnlReWxHWG9BNnkxYmZpb1p1eGJYbEQ3a0dEbGZObEkxdFBjYnJlWGlEcndwQ2o5eGVDWmkwbWtLSFhQeWk4R09sVTVkcVZKaw?oc=5",
+   "published_utc": "2026-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP launches AI-based pilot to detect diabetic retinopathy in government hospitals",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTWRCaV8wUXY3ZjN6TE13TmpxOUdhLXN3OXNYclhmRldVMWwzajgzY2VCdHNKS0JpY213eU9TTHUtNGJDek5RREJ5cEZoSVRzTnVRbzc3aFhXLXdKbi1VeU1pbUdyclhGMVRMOG1mRUhtNGgzRFpQTGZHbF9kOUY4RUs1SXQtOEJWRnB6amdkNUkzTGw3NENxTnlvcThUZklzbk9yRnBxcF9uOUhhQ18yUGQ0Ry1wLWZhX3hTSGptVWZmcklxTGZ1R3k1N2xPRFRfN3Nhc0xhaVh2YVBvbEFhWHF30gHvAUFVX3lxTE5vOFVCbEQtUWlVVDBiR3VSeEN2VnV3enFXMGtUYlh3OG1lWVpLbV9HTThER29TNzZWRDdCSnlCUXFVRTZyNHNlNzlodGhkQU1QcGlfVnJsc1NXeUU1V3dlZEI1eHF2S01KS0R1ZC1LQkZTcDhqdzlGWU5Ha2hwcDB5bXExbnFsNWZqeDVJdnczQzgxU0RORldMRXRzalpfZmxDbm55N0hBWk9DTGJTRUlwZXZ3UloyQ0Z6ZGgydlRvWl82TnFvQmIxeGd2X2tDaWx1QW9KcjR2NGZWYUpzUTgzV0cxdWhGeG1XX1BnWEMw?oc=5",
+   "published_utc": "2026-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Nellore poised to get first multi-company AI park",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFJ0cnlONGVYVHdYYk1zQTJLRHNpYTc0Vjh1VlR0SW9sRkNjekhoZHZIVTZoRm9OMzg4VW45WjJTbUNMTGdNMW9LcE1UdEo1V190bnFhMnlOcXc5MWZXOGRMY1RUU1VqTjlpY05UUXduZDJjbFh2c0VuUnRqT3l6ZG1XcG0yR2xjc0NkZlBTMjM1WnZPTGhHcEVlQWVnd2hHd2VRRnhsWnQyWVRIOTVPNmdoc09VcTdIMzNQSTZ4WktXZU5JOHF1SW5sb9IB2AFBVV95cUxQSllWa2J6T1FlUUYyUTd4UTdBeVZlS0tuZ0FfU0lMTk1EN252aWxmeTI0Yi1ySmVLSmxfSUh3dnZ1V3NWWFdQU01Ta0RHUlpuSmlQVGR5ZjFCSWJWbDRxbEVHc3Z4VWZ6S3o4VWJ6c0R5T3pGdlJSM0xSdHVDSGRocEg4OVhfYW5SRWZTQmxLMTdHNlpNT3JZYjFvMmRLZlhXV2RBWk01VG9PYzBpOU9FVGhTMXBMZHlLV0Y4NHY3Nm9ib3B2ejI5YTliTzFSbXJmSWlfOFdxWC0?oc=5",
+   "published_utc": "2026-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

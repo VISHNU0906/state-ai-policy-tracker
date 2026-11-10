@@ -1,0 +1,21 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-06-01 before:2025-07-01",
+ "items": [
+  {
+   "title": "Indian tech hub’s ‘fake news’ bill sparks free speech fears",
+   "source_name": "South China Morning Post",
+   "source_domain": "https://www.scmp.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2tRcDhFT0JUQy13VGRSa3Qxd2V4T0JEelZ6X1drbEtnUS15QTBXYktUMWZpYWlVOHVNS0FoM2VNMGlRazRXWDZCSlpnVlVwemxRcjhReU1qY3lUaFNNb2VrR0hZVk1CamhhMGlqV0ptR0NhMzJXZ01NWUxKeXN0LXZXZGROSmdxVDRMV2ZkSDFwNGhBUEVoYlhpYlJKMEoxVHNVdkhjX2k1RV9Vb2dNMmJuSWjSAbQBQVVfeXFMTm94TTRxRndybFhjcDZ0ZS05dC1VZmZIR3g3R2hpa2IwNFhkNkVza3VOM1hFZHhxNG9OM0pQOHRGNjRDVkNrOVlJTzkyMlhzOVFFUnByNFg5WXVoRlBVblFrTzRPejhpNy1QVGpHRWtCX0xXUUtBbTVtcnVjV05ZY1hvX0hHY2dYd0szTS1CWGpzcElGQWMzejQ0U3hkWjZLMUJIdUE4T1M2dS1NSmlJM3I0T1NM?oc=5",
+   "published_utc": "2025-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nidec launches ₹600 cr manufacturing plant in Karnataka's Hubballi",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeW5wNWVBRDBJMXZDUFVzLXhSUkRoanF4aEQwRVhOQk95SElLa201VTFWTnUxdHBRSVplb1hoRmhMZGpObzVNNE95TlJCZUpkT3p1cWxDdTRUWUVQNjZrMEp2YWE4SWFUNnFGdS04TmlBSDJJeTdqUFlIR1pJVmxEZUtadktZZEgyaHFFMkR2Z1lTUTF5TmUzZGJsLUdpZkpFZHU1WGp4cHpScjRPNWxBLV9EaXRZZEp2SVk1Y2RqY1hNbGxFOHE2YlVFOU1QRU1pMldrU9IB2AFBVV95cUxOLWZSVG1RWVdFb3E3bm5SQ1FaZTJrV3hqbFJRMXp0TkRVWW5HQURXNDQwcjhSdmNQY1ZXc3c3cjJVV21YLUtEOEhENlJETWZOWkRxeGxYMHQ5RTBIR3FtdkR6OFltMEhQNUFMTnpJNUUwdTNkNXMtSnYtTF9ILWVXUHljMTVQWTJodURvOTlhN3pZOHdhQTBMWWtHRl9fUlJOSEdBdnExVVp2WkZCWkhpNnhPOTBydW8zYmxsTHB1QXZ4LVB5MHFWLUlyYkswUloyVXVyaHNPTFg?oc=5",
+   "published_utc": "2025-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

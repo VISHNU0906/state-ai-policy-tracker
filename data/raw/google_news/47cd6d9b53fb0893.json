@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh Budget 2026-27: From ‘AI Mission’ to ‘U-Hub’, how govt plans to boost jobs for youth",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeG1nSDZjaFlSc2xZQVBuR0F3cklwS0loNjhhY2Z0NXJxeG4wTGRpNUx4UGJtTm5ZNXFZbGFHenVQcnFvdmtoRmdHOWRFNkJsWFl2bWpNN3NfOHg2b016cTBxQkg1WDE2T1VDYUZyc0M4ckVYd1lEZ1FOWWpZOExyOHl3a3puTm9HTnEwZ29HTEZqQk50LWxBTXA4eTlHT255Qndkb3lERVVSaDZfd2Vn0gG2AUFVX3lxTE9WUWZ6a3I1QzlIU2doN0lCdHh5RjBiYkt4c3hCSllsMzR5NWlzNDBicG15NENiMF91TTV0VHVYbF9zU05KaTF0OW93NHZxVUhTa1lSQ1JsU1lZVlpPSGdVWGtLQW5qQ3lnZ2FuQ09xdENtSXY4cVpVYXFwYlYwMHRyNW1VdU1XSGp5RmdpeGVKbXhrMFFLNkxCSUNMYW1QZFdlLXc4VlZOT09VbVFESGVMY29yei1B?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP raises IT & electronics outlay by 76 per cent to ₹2,059 crore; unveils AI Mission, cybersecurity centre",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYXlONXNNdUxkU2xYczBsb3lpY1ZUN2VidkZSZG5LQ2pwVnlaMjZZNDE4emwyaExUV1hYT0lxU0FSNS0xYjJqZ3ozMlVEODVJTVA1Y2FDYkp6aUJkSlZ5bktzVUZsaEtyUm1BV205UVRMUG43UTczMUNiVEVnNkI5MXY1eXVrcXFKVmk2cHB3djBWUzhUc3NFemc5Skg2NHg5ZFBVQnpoRkViYmdjMGlnOENPMkhDM0ctU0QzTVNMVDVuaUFDd21na0ZVYU1wQnZJQlFCVUFnUG9sWWVSNzI4ekpNdDU5cWl3VDlDYkItMVk3aFFDczlON1NocGs3YUZ0amRKWNIBiAJBVV95cUxOa1VURWxnQXR2c2I1RU5xbVVBZC1iYXdrZzk5dTRVbm0tN1VLR0p3VXRyMXlGVjRWZ25FeFpUamlreHMzNmw2aGlJWmxhZmN3RTNhX3F0UTM3MFhVdW1PWDh3d1gyYlYyMDM4cFprRTlqTGtTdzdzYVFPdUZPQ2RyQ0hkaGUtUEQtNXRmMW1PR1NURTRibGE1QkNoN1pSSjVxVmx2TGI4ZTZGVGVHazF1LTFqdlhjU2ZqeE9mWlBJZ2RxUW43UXgwVmh4Zk1LU3ZwQ3BXVHRsVHdtU2dYLUh3TDJwQ2ROZkZnNWRpbmVPaFlZLWJzUkRwMjFaME5jZ3hrVk5LR1ZzVWw?oc=5",
+   "published_utc": "2026-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TryfactaConnex Announces $7.7B AI Infrastructure Investment, Signs Uttar Pradesh MoU",
+   "source_name": "Bisinfotech",
+   "source_domain": "https://www.bisinfotech.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWV8tcGwxM0xyVVdzbzZiZy1RejQwekFsZVEya1FhU3ZxT2dJbk1XaFZQWU1mMlFfZVNJbUlxYklHWElJamFXaFRZYkFGbVBlempBc3N6WTVFSC02anFsTTJPUWwwMnV4YTZzamRVN0lTRC1hM0ZGem85TWY5Y1V2Y3NENGV2MTlMeTBKRnJhYl9sNlBSZnYzTXFCQTllam1NRU5KNUpubjhRTUp0amJOMQ?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Press Note Details: Press Information Bureau",
+   "source_name": "pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWxkeTA5UmVyaHp1eXhYQ3MtcDZHWEtjaEdxbVVqOEphb1JPVnZhcGNZV0wyMFY5TkJRMFhmUmk4dmJQTkFmZG1KYzhxeU5KcGFJaXhWME9fVmhycGlnZmI0WE9VVjd3U1hYM00xbU54NWFpaExOUERLbEVPdHhYUE1jUlFSSjdDUVE?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TryfactaConnex Signs MoU with UP Govt for 1 GW AI Data Centre, Announces USD 7.7 Bn Investment",
+   "source_name": "Energetica India Magazine",
+   "source_domain": "https://energetica-india.net",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmtoQ0R4OHJhVXpEMjVsSXlZUnl3dGVidklCbElVdFBQWk91V2MzY0FHNm14WEkzQWxwNmFmV19zM2c4Y2xBSk4xSm4zR1hsR19jSlZJd2dqdDMxV0xxQ0tnUkVQN0hzMzlncEJvQkFKNmc0NWRPcGNrWnRMQnhHbFBtOEgzdVgyRHBPRFJTd1pZUldTWGFReU95VW95d0l5MlJWWVo4U0lLRmVDUTlxZThUUWNhRzVDYTRYNjc1Z0puZnlvU1E?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Data centres and AI mission to make state a future tech powerhouse",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT25rbFpIelJtZVJ2R1RXd1JuMmlmMU5DQjRnbWVmTmRSQUdWdThzRnVhR3VRYlA3ck1yLWhLUG16X00zemxIbDB6OFdMMGpqcmJ2V1l2ZTNVWjN3bEoyY1NPQlM2STBfTEpvdUFERWRtbzJtcHdzQjZpRVRPOFMtWUhHMnhvcEZPX3A0WTJ6N3RFVU9kdWNkNndoSlFHeFNkNUJsd1pMNTJOTmRkTEFyTW85cU1oczZ2Zm1TMlRsQXVWZnVOS2VF0gHMAUFVX3lxTFBOanFCS1A3TlZUVzBJR051czZKTUV0b3BSZ1pfUXo3YUFZQlRNeURuN293d2p4SDhzTzVHSGVmVkFYYkxyQ2UxUE9iMGtUUUhvZE9PM1JRbVNFN0xtVkVaREFpZ3REN2prMFo5bnNxZzdYeEpNM05ZWDlKR3oyTWhLZlI5M2d1WDU3d1dsWEJYbzVhckFhSlBmM0xQcEpHUG1nX0FnOHRONEVEVjZPZ18xcEE0Q185T3dwNVNVOFplY3V5NjRvNFhwTGpHOQ?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh poised for a decisive leap in science and technology",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFNoeFByZ0ZKNFVoYzZsUktaZ1VkQ2hTYVkxbzctM1pjV3lrMDg5ejl5Z0M4RktiU29DM1VaNURNTjBnMkw5T3Bla0RqMmpiYmtscllTUFAxalF5RFNqdXNTU3B6YzluSThZOVJ1RUJ0dkRkNGdzWnFwampDNEhZSXNod2Z2VENQU2F2YzhKbG1SZHdpelUwM3hrSUVTWF93UnpWZUd0UmZnM25mSEhwbmZqR0FOS29vc0Z2RDV1Nm9SeEE5MkHSAcwBQVVfeXFMTjFBS1pZTmR5ZzdHZy1ZOGJkbnl0VV9iOFQtRkhyTlJBUFJmNV95cElIM2RYNkhmcmJCbDNlX2M5bWJpVHBzQ0p6UHlsS0Uwbkx1MHBDdFBvTTFkZWZNQ1ROcjRHOXkyWFVaYXp3QXVfR2llR1ZOZ0ROdG9ocDZjeVB0a1RsMFRFYy1MRnpOVFVXSHpMZ3QtenZ0SEtFSEItQi1oQ3BNYWlDQVMwS3RmWWxIaGV6cjFzSWwzVWJ6WXMwMWh3M254MUpWbTNn?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Budget 2026: Yogi govt bets big on capex, rural push and AI mission",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ24ydXVNaUZGZk1YSWlUa0tzUmU1MFdVS0pBR2F0eWJYd0doQ1NseUZZRTU0cGRWM0Y0a2pDam1qRHdpd2cyaDJwSms3MEZwZDBwOE1VV3JKOWFYdmx2c1NUOWtqY0pRMUZkU2NIRG5NbWRJalNwQ255ZEV6M1NuRW43VE55SjEzTkVGeVVqcW1tdHAxRVpMRE9YTTBrVUhjVlZjM3FXNzJQRy05blFUYnFyNmJhOERpUkpMRWlzaUVJeHVIZl9lZC1EMkxOZ1hQd0dsaXp30gHaAUFVX3lxTE8wOU93eS0xTk1RZzJ6OXlMLUhUakRNSFNLTmpGMjNpMkY5NGJEdldINWppbk9tS2VsREpyLUJTVktYcHJZZU5GbDY3d2xsamwya3RJMTRKZnB2OUVFd29GUjZMVGpMdUJzVEFsN0pUWk4zMU1YT2RmYTR4ckh4X3pKektZT3R6cTBwQUx6My1wdWZSMHZWNW8wM0VvWmZIUnpWYnZtT0JJVFhWMk41eWpWbno3Z0JLOVBNQ29EM3FDTEIxNUQtSmM5RThqUkpxOXdIZHdMdHlzQUtn?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digi push: Govt allocates Rs 225cr for UP AI Mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXFSVmZPVV9zUmc2cDhZUGFGenNTVktxMHVRZmI3U0dOXzhSbWNMVTZ1MndCWGlsXy1YdFlDWE1OZml2dERwalI5NHVxZ2JRQm5OTmo2eVFCU1NvQm5MMTNhOFFyaF9Mb24yb0dGWjdrdHRJWWc3amtQblJfZU90OWtZbS1kaWtuVThmM1NxX1RzOGRXd0JlS09qQ1NfeFdLazRVQUU2a0M3MzhEQUdYWGgyM3lUR3pyOEFUX3ZtRk9JZFZk0gHKAUFVX3lxTE1iUGRBeVZNbk5ydjNNdUNLZGdncmVXTTFHWUhDU2FNWVdIYVpTSE9TQUZzYVRkeTd3SF9ieE5ZeTZhYnB3V1AzTFN5STZ0OTZJWlc5enZia1hDd29JUGlGRjd1TkgxUnJvVkhrUmlEQS0taFkydjlVQXRycEllTTQ1eDFwN3RONW5HbnNGdFl1MnR0dFRCOEM5QUk1dzZZRFIxeVZQcVVLeXZueGxuZnZSd0RUUmUwZTBoQ09lNlFnM2FmeExKOG5Oamc?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India AI Impact Summit draws $250 billion investment commitments; Vaishnaw signals AI Mission 2.0",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3F1SjdfM3hSMXg5V2dvRW51YWFfdi0yZVIxR09hTUtlQThfRDNIV25ESGdJWHFMVi1NQml5bDdoZmhwaXdVbXdpTG1uVkFGVWR0SkltWjk4ZUFmRTJHOUNsZWtzOUdOb0dBVEVXNjc4YjU2RzVOeUF4MWdUcTNaLW5QWEhBYmVaRzhCNmljNklNcFNWbTNKTWpvSlFtcTRBdUU1N2NDX3dwaU1RV21rVFNTMFZXM2h6eG5LUHctM3Nlc2llZVZsTnJoU1RKTmQ5cHdtZHh4cHJHYm9XTnp5cXVUWjhtc2hEQ1RLTUVMT1Z2YjRGT0HSAfsBQVVfeXFMTlJ0OFpNcVhoQ1VjbDVaVzNkNzlXamtQWUJIYk1ENEJURFhHRHdoaVMwdWFyMThzRUg5UXRhMENRM2ZNazBVQVlJdFFKT0dXZTNHbmVvOUdqRFhnZUk0cG1ob0NaUHowRkMyV1JPYWhEVnpCdDZQcUszZzNLMFltSDI4emdfY0tERm00TDlLaVQyZDQ1MXZadjhhd0swYlV3Q3V1aXJIaVBmcUNjeUhRZjVXZ2ZKZEQycVp2Z18tby0tdmVfOF8ydmpqZk5pZjhZUVBqV3BwU1hXYjExT19ZMlBkZGxOUXpFd0NGd1hNRzZ6TGMwSWRJYTRlWXM?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

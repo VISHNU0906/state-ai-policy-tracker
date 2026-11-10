@@ -1,0 +1,277 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "TN govt joins hands with IIT Madras to create AI Data Centre for the state",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOE1LeTJFNzRDR3FEWUNoOXpBUTdIend4Q1o0OGsxQ3QwNzBlQkNzbnhLa1hTcmRfTkFXSFZULTNSZHdkMlZsVUhJeWl4NUZTaFhyOFh6cFJjdlBGeVNHOG1aVnBtWWlfMTNMZXVsUlhHRmRIWklscGFiVE15UTZlUHdoUUpPc3lWZkpUQm5jRnVVX0N6bVplbEVjX2ltYXhUSVdhSkpfbXExUUV6WElyY2RSQXk5b3JBdEZ0TUpJTERHZURud3ZaUElQOWRRMWRNc2hrRXJGZ1dmYUlZLWfSAeQBQVVfeXFMT3FxcUZmNkhiLW5oSHRYV2gyUmJSbW54eEFnc1BlYm1wS194QkZlUy1iV0VFeTRtbVRKMk94TGR5bjBHVHpqOXlma1gxbjhHUDlsYkM1ZVAydmtVRDZ6d2l3T2k3UHpfQmhibzFtWmhFQUJpRVJDcFRBOWtaSlFGVmVhUGhkSkpqSFlEM2ZvS2VCa3FFZDBfUnN6SG9Sd180dWxHa255aXVBVFYwdlZxbUxUbDF1NExndkR0bVZGR3VHRkEwOENIREpVOFF2bjFxZklfVktqaGJZcy03cDRsUDBHbndl?oc=5",
+   "published_utc": "2026-11-05T16:08:46+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to build AI city; announcement likely in budget",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORk1jc0xfWkEtS0FVTGkxX05jUkd1dUR2cGdYZlN0bHJ1TkRST3NMajdEelQ1YUlqWVlUSmJDbHhwZmc1RTh5UURpODZSNmROQmZRaFlrWnhSZlhJNWl3WHJMNmU0TGhkeDU3RVprei12eURGaGpLZk5GdnlMYVhpdkoxZHpEMGVwZ01zWE12WGl6Z2lnaUswUFpUZ3g1U1RTcXhpcDRYdHNrVnVVT0lRaHQyOXRJZjBOdGZiNEhFU0V3dWhWT2NOaHpyb2xkY0x0RXFB0gHYAUFVX3lxTFA2RWhHZDZSOGt4bGFxdjd4Q1BfYlN3RkdqVENiZjRxTUVtTUJ1QjZrY0ZmOUhMVERnb29obW9TT2xYZ0RVbGpjZi0zTFI5WVpZdmlvNkRWVzY1dHZfakdaeVN0VXdNRGdGV21idUZqUVhNcThPTmFtTFpBY0sxRU5tV0xJdThlQm5tRGdlUExrS2FZa3lfRlBmM2JsbDh3dkVWYVBxUkRFaHR2THBBc2k0dV9nTFFDUHc2enhrM1dXZ2pfRmZfaWRyTk1Bc3MycXh6ZHMtcThUNA?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Budget: TVK-led government announces India’s first AI and innovation city ‘Arivagam’",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR183Q1lRQW9lSUpvUEVqWTdLTUpuTFlaSF9ZVEdVZlZUeDVabGxIUThPS1JSY05SN2sxVGtGTWVtQXYzWlR2UWFnZ01BQVR4TTZ3V1JnOHhTTnRSTmpuZVd1Z1NCbkNIN2g0RjdsZG54UWtrWGtTMXNFTjY3NlllQm50enpGZXJOeHVVUUxyQjdSNFp3Wk9zeTBsVzQxYjUwUHlUVzR4NzZDYm5ONGM4V21LZ3oxQU9ZUGFmcDhKNFFfVWVEcFFPMF9qeGV1ODR1TXlvbnJnRkR0ZXpKajhOelRrQzU2Y3FBR3dLX3RHczhWWEHSAfoBQVVfeXFMTWw0Ui1Mako3bVdvcmYxcUpBUWczaHJWMkRLSS1PaHUxNEVkRGNLN0o5VGU3bEpXMG92cUlDeDdIVnJLYkU2UDlxQm5PYmZuaVZURjJocTVhc01OcExrVFNMUy1yZ2Vaenlwd1VLemxGeG1aNWpBdDVYQlFENXprQWxCYTQzTVpwSEVoN3RrbzZJLVR2WVRGa1F1aXQ0YjdlLWQxckF1eHBlVDNUcVJzWkZ2T3FsdlNyb3NHYjk3VnJGeEkzWm5fQk0wSmdVME84cHVXdXRhNkI4YW9wQXROd3dLMmszdFQ4RldXdkVEM3RaX29yTmduSVc2QQ?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu unveils Rs 4,414 crore industrial push, bets on AI city and space investment zone",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaVhjUTlyOVc2YTFhM0o2d01QaU56Y3dVZzNFUXRMSVFqRzRKdjBoSUV4VzQ4VEtaTlpWYmZYaTFGTjRRZnpVYW12eFhmT2NqN2VoaGg3TUdNRVNKbkxvNXBiWm9QS01sVmhpdWU3Tmg0RnBZUUZmSXdJbGo3bHhBeTVMOTVqUDFJVmtTR2pCLXBUVWRSMEtWZ01PRDY1bVRRUTVYbEdlWmM5ZVdRMDhqOC1qUFpPYjRqOGgzdkVRWXhQZ0tPX3J5TkZMZTRqVDRYRW9TcFQxV01rXzBpVFdBNGhONDFkTnFw0gH2AUFVX3lxTE94ODAzVDNrbmk5UDY3S3FPVkFTQmpseEJKU1lhRDd5VVhsYy1yUk5FeldidXhNczd0NE1RZEVncTd0MXAwU2N6bC1rVTI4TzZLanZZOThReTJPVmZVd1RLMnc5S2txRHktOHBReUlUNERyU293NWdwZHZrOElwSk1CT240V3BJWmJBb2RVbE14OWdrLVRtd3lhRVpfYlZmbDlOU3dCZGJXTE9KMmhHQjEwaC1YRzFxeEdhYndDcXR2ZUVoQ3hIcU9FZ3o5RkRKcmJSLXl1RndKVUxDWmV5ck9JeE1HMUMtbVY0XzJwSlVJWk1SLWVYUQ?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Man Arrested Over AI Deepfake Videos of Tamil Nadu CM Vijay",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjc3UjRkSm9wWGlsVGlfN1BCYVdjUmdrVFlhV19pUXo3VUlnU2U2RWdlUXF4NkQ2aU9rYXIxM05WbWVSV2JiSFRVVWZJVUpJbmliMGhNeUxNU0tFaldNX2pJTXJBRERwLVpqSnlWd0RMVWFUVFYzS1drNkFMX2JyUGpTVVlNaV9VaEZHVg?oc=5",
+   "published_utc": "2026-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From AI city to laptops for students: Tamil Nadu’s Budget focuses on future-ready youth",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVk0zc1FFZmdrUUctQWoxdl81d19PUTZkOWxlNmlnZnNqQmcxTlhjUjJMcnZnVWN3UDNlMHNkSWNHN3k1eFpNSDJjTVRzM0t2Rjg5NHMtRlBLc3RvcVE1c0NJT3h1SUtJMTd0bzd1ZnA2djFRUjNJeWxja0ppSnQ1bGU5S3VvQUhYY2dOcHVXb1FIdFhwMUlNU29kZnVZNUJhUWVSdVl1STJGQmtkVkVGZ2VoN1VNWkFsRGoyY2Vod9IBxAFBVV95cUxQWi12Y05acHl1cW9CSGxRUHgza01lUUFhMmdITGpPM2lpNmFGTDYxXzUteVlNMnRqbXFuSmZncl9aUWJWN0t6SUNORy1YWmpreTh1Qm1ad1VlT0U0NV81Q3ZqaWV1blJFTUVUbjV5N3lTWGxWeV95WVN1Qm51UnhIMEpxZV9sSFdnUV9ZUU1WXzZ1TFBrWXVCZXMxTGFIeWdEeXBXWlltb0hCZEhIZ2d4RVR4Zm11Y3NWMXFDR0dvUzhzdUJZ?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN Budget 2026: Space technology district, AI city announced in Tamil Nadu Budget",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTy1ZWmxlOFFSS184X1F5SEdHNW9JSUZWbm5LUzhQMnBTS1IwQ2ppWllQMnF5T1hxMjc2SDB4Ym1QYXRlaktJS0ZrR2RNRE5HcGlIZTlEOGVhUWVCMnZyNVBob2FOWTBfYWU3UW1Sa1RJZEMtV2ZJbWF2TmlRT3ZTMmNiNGg2S2I2ckRjMlBUY1dCZGtBSXYxckJ0UkJlSUJTYmEyOWFjWjBSUEd4d3YxdjZ5cm52UUXSAcQBQVVfeXFMT21ETk00S2NmcFVpY1lSUGxnakZpVWpURzU4Y0lBTmEwa0xXYmY3ZExkbkxOeVB4Zi16ZWFSZlVmR2c0MU95QTIybk9KWDFFWHNNeV9aN1NaWGotdVI2ems2NVBqdG54NmVtOEc4QkY1ekpZUmRzSXJLb1RrRTl5RFl0TmdDZ0lNOU15QWV1VGNwU3hBMlFYeTdCNmFUZHJSbEllcGFZNUdVNkVhMTR2bXJEOHF0ckJNUWdoX0RoMjU1dmZmMw?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu signs Rs 18,600 crore MoU with Larsen & Toubro for data centre, shipbuilding projects",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTjREZHpEWEhIdFZfbFNHNndIcXF6OFBUTFJjRmpqUDN2cEY0dy1YVVY3ZWtVQ0Y4Y0VUeXRpWGwzT1U3S21Sd3NUVXRUMVhVX0JGYUdlbmI5ZTVadElxRXdiQUszcjNlTUo3WWZNV3g0azkwejVUVklCYnh1Tkw2QzY0aXNsTjNRcUdvSWZkUEZTN0ZLenVZWTNndUhiYmp4WGJaV2s1dXZoV3NNTG5LQWphTWFNdWZQUnhxUjVRbGduSXZGUFAweFpSNVNwMXdUbXllVDg0OEhZd1JvVkRYTW9ucThIa25hZ0ZPSGlhNjlSc3AyUmNiNmNn0gH_AUFVX3lxTE5fY2hCaF9VaDBYckY0TXZsNVhQWGpQc2JfLTctaHpGWTBKRU1BSVlBN1cxbnAwb3J2TWpBQnZ0R2JoUTRaTjVJc0ZNRi1QYVpCUE5VakdzdEp6Z296ZUYzSnNfZkhZQmZPREJnalF5MHI1WHF3cGU0RTRKUENoazAxajQxR3dKdGowUUd5Qzh1TVJmejhveDM0YnhiNHp5NTdtN0RiSWNBNW5BX0lJYkstY19YT0ZVQTVENEN0Y0NWaThLbEtaejAyMkY2MmxtOGFEZ251MWRndWkzS085YkdYYTU2NVd1d0JfM2lTeEllNTZ6ZmVrcjc0dmx6S21uZw?oc=5",
+   "published_utc": "2026-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Singapore Deputy PM, Tamil Nadu CM Vijay Unveil CapitaLand’s First Chennai Data Centre",
+   "source_name": "Open Magazine",
+   "source_domain": "https://openthemagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkhMaHRCZm5IcUNMM2NxNEtyOHZmOWF2NDd2cTliaTRwZV9HS2VNU09vLVNPNGxzNG1wZDNFbnE3VEZ5MGFqX2VsaVRLSWdrVVo5eWpuVXVwVkViOHNoSmd1UENfVDNKOExyT1gtZ05xY2ZNZnFrUGpPWEpjaW9ibG5oWDRLN2tKZTRLU21Pcnpma0h0TzRDanFadl9NSTdBMGhFM0RWWkRvNFdHb1VFbDc5SnhnYmRWamc?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Crime Branch-CID registers case over AI deepfake videos portraying CM Vijay",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVlvYi1hcy1iRmcwa0VJUFg3b3BXMFYxMEZfWmMycTFCNENCd3pVcE1mcEZxMFZ6S0FwLU1QVWwxQkRDeklvSERHVXc5MDNFTUx2OXNJNklXN280RE9PTHpuWE4xelUwbWwybEZGM3VuWjBBRGxSUjg3NUZuUExlWkFqWFo1OWJMVTRjVXpIbUFMWkQ5dzVWdHBNRkpjUFVsaUlpcGFxR0hudWUtOThwNXY0Y3Z4TG5aM3pXeWd30gHDAUFVX3lxTE9XTm5uWkhvOGpVRlYwUlVpSzh1X0VObkJqTkNFYS1NS1h2VFVrRGRtOHB4UlJWbGFuekFyVnBsdkRjTmNSbVBmOWFhNzB1Q3NKdTUtcDhnOUpORHNibjhsbW8zM2xWdmlpajRpNU5JY1V1TFE2VWY3MXV4WlBBdm55LTRUTkNsZkVpY2VzTVdkZUhDUHNoeGZic3FjUENzM3pLemdJRy1fc01fVWgxY2Z2MTRHQ3Z1MmJfT2M3cGQxVVhKNA?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CBCID books case over AI deepfake video impersonating Tamil Nadu CM Vijay",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNEFhSVR6NF9nNmM0ZDl1ZmVyQUpKZnBNdWlpc3JyN1ctSDhDXy13QXB0QlN2UjdhMGVhNUZXZC0zMEtvSVNHak1BZFVwaUVhbF9ROTMxM2VZWXptQXRMTVlQU0FiY3E4SW1EY1doN3lZb3B3Nnk3U3BjdHRQOFFYdGJpejhJbTZkVTJOeEQ4S2JaYWtpTERXYVhCUzQ0NlJiU3RCcGtpcEVSa1NZVGR5Y29fZ3BJd2taOEhPWUhWX3k1TFhGaWpHSUp0OGc4SjJPVjI4?oc=5",
+   "published_utc": "2026-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CapitaLand unveils Chennai data centre as Tamil Nadu deepens digital push",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeThwaUhFQzd4cExGSlhld0E3OGpPRnVveDdxc19yanI2dFRkRVJWWW5xeklDYi1UeXZfV0VhMFBxUDB0WUtQdWdGVklSd1lXSnpEMHFkOFdUM2JmNGJ5OWd6b3JpVDFoc1lSRnRNZXNyTGJsZ2tWbUVXZWR4OFB0bG4tVE1OR0dZSlNQeFN5R01hN0VhbU1haUpldE91ZW1fMVN3V3ZiTlZ0cGdDYU14SzVEcU1XRkZwUG1zX3pWdVpxeG5tSzVwcXJRNWh6UdIB0wFBVV95cUxPZkhFLVN5WkNqamhSVTlHcHppek10azlvWDczQnI5cU5KSmZEeGUyamlOb045WmNoekRSLUszOHBDdXlXbUJkZkR4cXZxN1htTmlqdVp5ZVJHQkFnS3hienlHaEl2eWgwRURISDhrT09GR2UyRUE4YnVkVktHNTFiTDRxdEM5cnNScWdLWC1CaVNfODhiUDlTWEFuSlk4d0pYMnZCTWJpeHVvdGVSNmZITFZoQnVLZVRiajR0NWpJd0JkWDhqU0pFUXN6NDJMODVrVU9n?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CapitaLand Investment reaffirms long term commitment to Tamil Nadu with unveiling of new Chennai data centre",
+   "source_name": "CapitaLand",
+   "source_domain": "https://www.capitaland.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNHB0RGhVNGpHa1E3S3drbkJUdURKcFBMQ1hmNktVTlNXX0UyOTVUc3k5Z3BNbFlSRWYwYUpFQnFBcFZzS2k1ckZmcWxES1d4RTFqUFVRSWxtTUM4Z1VFSEFPU1FYRWxKSkF5dFhadXNVYlFSYU5MV0cwLVBranJIU2JoSG40eVJETWl5aUdTMDFqN2hxcmRzYVdGeTJzQkM4STN4R3hLUkVlN0JfVVBlczRPdmhqRWlya3lKUzU5VWlob2xWVFdkaktueWRVZm9CcHRuRG5QYzRpR0VEX09EOHZ3M3VWNHdseWp0SVhsTEk2WGRxSmdXV3lISTI?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu is set to attract over ₹11,400 crore in data centre investments announced at the Vettri Tamil Nadu Investment Conclave 2026. Light House Green Data Center will invest ₹10,000 crore in a hyperscale, AI-capable facility at Thoothukudi, while Nxtra",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTTjdjbGlFak5CQ213U0F6M0lmLWtSQm9tb1BMV2h0V2xRMlJHem52T2FJRkQ0WC1SaEE1SDBkS1ZqSVpfRGNYdjF1Q3JGT1pCMEE?oc=5",
+   "published_utc": "2026-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to set up India’s first AI, innovation city ‘Arivagam’",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeExuekVIZzdSd0YzR0NGNHU5LTdKbERtQm9TVEZNYnlIRXhqYmhzZjNIaDBlQ1h6SGNRVzJ4LUlyZHFTT1hHMVVHWGlJQV9IVnctc1JDZ2F3aGtodUM3THA0Ny11bUx1cldfTTkyVm43N0tLNTNRTXNPNnZJQ25odzV0SGZObkE0eWVKeHM0TS1LY3BwWUtTMXFQNzV1ckVaQUhUaVNVZ2ZzTXJzZS1tMVJxQkdkWXNBdy1nRjFSTUtuWWtLby1YNVdPRUFMMmlW0gHWAUFVX3lxTFBqWW1oTWI4UXZKX2Vqa2UxVVpyY0I2b1hEdy05aHdmeXpST09ndUFMUGJEa3JjdFB4Tm5uYl9rMWlaVWJhbXEyLUtFcnRONk05cGVsLURTVmdrUlNLOWpLTWE2V3kyRXljT2t4bjdtSnhXbU4taWZTYzVCMDA1cjk0b0RnUnY2T2FONHYydDBSX25BVU05enFPT2lmRFV1blBEbjNEU1BDVjVSMzUyRTZGLTJLOHZMRmJjbk9Rc0xWMTRPaTIzc1Q3UnZwZW52a0NVakc1Snc?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN eyes Rs 50K-crore investment fund, AI City, automated welfare in vision plan",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc0F0aTJyNC1ub1l0MjlubFZTNHRUenZPZ0xBejlzUjNkTk5sMFk1a3ppem80bEZydGdrN2R5TEU0cGlscmwzOXpTa3ZtTjY5UzNMeWcwUFc2QUNxYW4wYjB4OWk5YzlTa00wUXZRQldIbkZSQ1NJZ2ZCaGJCMV94RzRSOFpjLTNMTnV4ZGdqdldNX2tVSWx6cEFGZTZJLVF6VFpkNE0wSUJwazJGRE1KazNjRnJsZzVibXVDdGM5U1l0MWFxaV9xT0VmLWVMRENJUjNwY1hSTdIB5AFBVV95cUxNT255dlBvT0N3emRKYmhfQVd0V2lEQzRYQzAzSXdsQkw4VDBpRHVOUzB0akxlUDhxY1dWSmwxQ3lxUzR5eEs0X0M1RHVweHl5X1VwV3hIYk45UUNhTlpfSnJXUFp6THRkX25OMS11Y2ZvYVpEOTVVTFo4RV9EZ21hSEVSZnR3bjBCdFQtY0FxdVlrT1lqUUdMUEF3aHNTN01rSHdUaFFpN1hnVzF2WVpadTltbEo5NHg3TGRMSVVKMUI3WjIwSVRyS3Ywa01wa293TDN1V3BvLVl2TVNEVFNOWnVMbVY?oc=5",
+   "published_utc": "2026-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sridhar Vembu asks how Tamil Nadu lost ₹70,000cr AI data centre. Blames DMK rhetoric",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXBhN2JhOGZyZ3A4Q1l3OWU1c2ZoYzlyOWp2SmVLR0xnWjFld0xaOWF6aU00eDRaQ2M4elNiOU5NREZKMGZQMGJ4Q1Nmbnl5UkUtbWdQVUZLMGxJQXhHdlg1UXFNV0t4NE16U3E4Z0Q2a2VqQjJvckFHMm14UnEwSENqdFM5YjdUS2YzbEs5NFV4LS1nNXNoeUhsS2s1V2NSTmQ4VzdDR0tFenJPcVZsLXRxOE5Gc05LeDRYdExVeEtBYWF3emfSAcsBQVVfeXFMUE40a0dNRnJrakZpaXhkVmhsSjRaZUpPMFVjbUJPVm1XNFFUaXRnMVRZWEVUd2NtTW1kcHNWSTR4THVKMVhHOFE2N0xrYjZ4ZUhUbm9uMERyX3BJdXhyNVNuSHlOaVlIclJtbE1Ua3pheHZ4WW1uSkNjYzZBQkFiVl9ZM09URnFreXlJRWhxN3c4TXBQYWs3M3hJNnpKZWY3d3NkYng3aGNHS01zb1d0UmZaUnMzR29kd0ZRMld1N0s1a1RHa2oyWThNOTQ?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu leads in tech investment readiness among Indian states",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUUNBZTY2R3ZzMkpuYTlibVN1bXVFZFNDYUI5TUliUl8tVFRUUmdUNmZlbW9JVTBTOVBFandndUhVenNCUVlHOXBJMWNjZWo2amhqZDlEYjlhTWxuT2MyQU5jNVRpNjVUZ2p4UXFfTXpRbHN3eDdNNnZHYWk5ellNWjBUOHM4NjBJVGx5UVlrS1ozQ3htWV9lbHVvc0N3QURvUm9VbE5UbVZGaERIbjEweENST1cyRWVpcGdXQzZMSUswZ3RYaURlN0dwd1lFNEFONDFLTEVIUTRUanhIMU040gHkAUFVX3lxTE85MUFUWG9YM1E2amxzS1JoblBhaExEWThITTRZUEhlM0dfZmNET0xuUDh5S01UX3F6YU9BbmNXZGVSMjZXTEhGWG8wTUg1enM5YW5MNkZUS1pDRE5pb1VWUnJJYlJxZld5UG1CdE9vS2ZQVU55Wi1lbFYtcjYwTTlCcl8yQmRZWXVvdms5OUZPa1VtUHFIZk83UHVPWG9LVHZwRmhHRkFMVGtEZjZ2MGdzTGlMMTVWZF9Db29nUHZSU2k4MEI4WTMzUWdTWlFSaWRuM0RIdTl5VmEtMlVUNjZhVTdnRA?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "States step up AI data centre push with new policies, project commitments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWZCVVA0cUdXQk92YnpDQmVhaGI4OWc5NElYcmFIeTRSRHNIVEJDaXJlX2phTFZ1Y1VZMjdnMkNGck1qV2JqX3hKdkNZcDhkMVNjczJqRzRzN2FLd2FqN2tpME41NW02OElaOC0wWEJoYzB1OVNUdndpSFk5WVFKRmNPaGFEazdrQ0hqaHRrN1NhaWV3ZkpwVTRFTlJkX2RCejZrc2gzdV9SUEZPdF9yN2FyQVlHVlBROGVSYWZickxqUVhH0gHSAUFVX3lxTFBTSnpTSkh6VHBwTmxfdTVQNVlWcTJubDJ2TjlVUVhhN1BYOEJmeWxKRW1xV1otTV9PekxBZlhGbWJwQ0ZpRVlGMVNzUV9MWEQ3V3JoYXFxTUFOYURLeFlNWFlORTlYM1ZwTWd1Slp4c2lmNVZMek0tOUZXTkdBTmdRVVZFSElnUXhXOTNlMzRpVF9rUUVwWWJaSkU1bGNaUGttTmNaN084YTEzbU1GTzlwTi16YzFrMHdnaTRpdUNNOGs4WG1nQktLZ296dHAxUktTdw?oc=5",
+   "published_utc": "2026-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CapitaLand to invest ₹1,940 crore in Chennai data centre, targets 2026 completion",
+   "source_name": "DQ",
+   "source_domain": "https://www.dqindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1FsM2RlQ3NwMlZfNnJ5OE4xMVBTUkNiTnN4M25heHU1NXdyU29kOHJ5cW5OZ3VRZ3MxZi1SdU5PYmVDZy1DRnBPT211M1FiQ0YyeHhvTWVFSVdVN2FMd0N5elZyQUJDZF9LSVBqVEdwNmptRmkxT2dGNjVtV2Y4SVpXSmxRYkRobTRVUWg1bmcyWTRtbDJaaWtqb9IBmwFBVV95cUxOM1FsM2RlQ3NwMlZfNnJ5OE4xMVBTUkNiTnN4M25heHU1NXdyU29kOHJ5cW5OZ3VRZ3MxZi1SdU5PYmVDZy1DRnBPT211M1FiQ0YyeHhvTWVFSVdVN2FMd0N5elZyQUJDZF9LSVBqVEdwNmptRmkxT2dGNjVtV2Y4SVpXSmxRYkRobTRVUWg1bmcyWTRtbDJaaWtqbw?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Rs 4K-cr industrial plan for AI, space, sea",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE1SaVd1VTMxNXJyb3VmS2VzMGd3am54MGxNemRoYWtJcHdvWnE3YURobVE4cXRrTG02T2dIYTl0b1h5OGFueFlXOEFtXy15NEMydnA3WmV3cU9wUWlka0M5Tl9KU053Y3FDSDBtRFppOU5DdTRGNTZMLS1ka1ZrV2RwR3pyTlF0eDhmYUVnTVhMQ0M0VEZOeE9xZUtfZW9iYzlPR3FSRmJfLVRuSzExRGtZa1lqQdIBwwFBVV95cUxOU01PNE1XcU1zc2Zfc2RMcFhkZWtzd3Q5emtCMkEyS21vNDhQZ3VIZnhtdk02amFzSlVCWVFzcEE1R0F6XzBHNW9zd0haOTJjUldhQ0F6TGVBTW1pYlJaNHc0QjIwdnhfcFg2c2RZdWJpTGdScVZkN1dMSHRRdUxYMzJSQUZLSXFtT1BCTXRlcmt6TjEtSkFtZGc2WHVLZ1FXMGRIbWFzeE43dExqSEpUbllUa3U4OFoyeHNGa2UwUURPZ3M?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu cops file case over Hindi AI deepfake impersonating CM Vijay",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORjgxanFYZG9VcU9jMVBnaXZYaU12aml0Y3ZNQjFhZG9XdkNfYUtSUnFsWWFXM1RhX2IyMER0YUNOdkhOUFVfNzJ2eWtSb2tZb1FyS2h2M1NCcUo3UF9GZS1VZ0JlUmlVN3JqYWY3WlRaU0EtMVpWQ2gzczJTQ0szdzZHOHdkNUxtWFhrejlZRlhFaE5nUFl3OHFGaWlUMmhpXzlvMHRZcVJxTmg2RkxoeDRlVkVXcjNNYURtdXl1UDhjclBwZHhGT18wbHhoejdOS21zZjR2Q1HSAd4BQVVfeXFMT0FHOHlYY3UzakE0c0FWNlNuWmJSNzd6QllhUHhBMG13SFhBZ2lLTmV3c0dGNDRDazVORFN1aUlKZXMyNF82blNEdVNXaFd4OTNIQy1mWHh0d0tYdlFjN3BzMVNzMkxaWjV4QUlBVkx6c2VzbWlOdmRvbmNHRU4xRElzTXpPSXJ6YmM4TmRIcWVYUzlsRzlRVmhtd3F0d3hMSWFLWE8wU2Yxb0U0WHpWVmZncFRmQlFnaEFVanpaU0FZRDhwZzFuNjYtQm9OdGlIUWRzbWZJR2owbGtwUW1n?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai woman loses Rs 12 lakh to deepfake video of Tamil Nadu CM Vijay ‘promising aid to the needy’",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZUUtUTJ2UnZIeDBhNFpfNlNTN2dZY3N3RU5KWGFkUUZPNnBOMGk2b2N0Xzd2bHJMREhjMXNFWWl2dk1sQ3dQMHZWVFp2Y2QtdkdpeVlnRnRIbWRvT0hwbWRfN1N4bDVrNW4wZWZrcG1ibU1NRm5sZHh0Y1Z3N3c0UkJrb2VLRmRMeVNCU01UVjQtYS1oaG9kSExwaDFsVy1helhCaVo2S2tHWmtlNXptOExfTFhjazg1aFlId01pZjk0bXVGX2ljYVJobHNfdndqUFluYnVFVlBSRzlLTV9kX1JTMW9iaUR5aVNXdm9wTnRkeTYxOURYMWg1TjB6elNzMm42ZjVZQnhVdjFVTzY3ZNIBlgJBVV95cUxOOXlyb2QwTDBXaEJlYU4yVUIxenVFbDY0QVVncms1VS03MjM5SF95S2pCRzlMMFBHRkJOcjJsZ2syWUY3SVd0Y1dXTnZ4dm5jckh2YldXOUg1dS11X2pZWnRTeFN6V2h5Q1dQaXFKaWNNdjVFXzd1M3lORkxPLUJyZmpDaHR4V0dWZ1ZwMWNwbnhycWFWM0FCUFo3QTRiQnI4dWZ5bmU0TzdHUTBpY0tlaHhvUEIzTzFtckxFdkE4dEsyWi1zWGY0Q2V1N1l4aVlpRXJCQkJhU3lFdW91eEN1U3VVZzBBa0h6azZTRUNmUnM1OWpXN1F1YjhmeXpiMGdmajhtc2d5bkJPYVB6akJuZFU1WWNhdw?oc=5",
+   "published_utc": "2026-08-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CB-CID registers case after deepfake video of Tamil Nadu CM Vijay circulated on social media platforms",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa0huWlNlbVlIQ3o4bDFHa2FwNnc1STliYlpQT3dPeXp0dHN0MEJWRlZ4b285NWpiemNWTEV4a3Q1cFpOVFhVRzE4R2dFSndsU1Q3U3pyZ3k5VHluZzRoNHhSY0tVa3hMcm02dEN6OXBab1VaUnoyZE9GSjYyckd1a0ZteTNDSmhORHYzUFZaOERqclpBc2VBdmowMWlXWVBxQjhaNWNJdU5aaWh2dEpzZDlNOEhBb2U5RFNGT09tQjFUQ1ZLZ0NobG4xVTFweFRvLWFMQkhFcUdBSlRmSGFiekN6aTNzUTdGWkNMWEFTLW5sQTVnZkpQZGs4VkpiZkhIck1Ra2pMTEzSAY4CQVVfeXFMTUZYUDlLYXdsQ3V5aFNHTXBwNERzOXhpRzA2SXNWOXZvOFh3VjdNSXdidmxydlZkREFNUGR0WmJhOXctWldVVTE2LU9CMldYYzRSNG96dEVHR0JrTTgzQ1c4VTZrN0p0Tmd5U1E0Ylh1WUhXS25EUUtMSkxUU1FWMzgtM2JwVU9FR1NxSUpMM0huM1ZJZDZvWFJtTFBBWHJLdjJNektWREhlYU5RdXZibWdvYzZXeHlEVDA2X1ROemJqbDJlem5Sd2E0Qy1VRlJGc21BOHlidVM3MEpnVnhvU2o2NXJ4WTR1c0ttTXowODVfS2ZrN1BLY0NGRlUtdXV0QkY0UzhJTFlJbUVrek9B?oc=5",
+   "published_utc": "2026-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI cities, space corridors and a bigger Chennai: Vijay sketches Tamil Nadu’s next growth model",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGNVSXpaNkxYU1BpMTBUdlREMGJOYXdob1R0WGtrVDJBRzM2dl9mYWVHQWE1cXZaVnNEZmFUZHBfSTlWaThoOVZ3LTVwTW5FcHJtYWNqWlJidVprSFdRNWIzbzJfdWQwZDdCZG9WNURSN3hLUEExUUR3Zml4X1VLSUhfMXJ6M1dHU0VrZWlCN3owanh4S2pvWTVQOFpaVU5LMWg5WmZB0gGsAUFVX3lxTE9QWEE5d29XOG9IUEllZkRGcHJ2YWE0cU9GRGFqRVE0bHZPakM2b01NZk1RM1hMRUxmXzlsczN6U0RfUFVvUGxRYnppWG1ZTU5KRTF0NUc0aXowR0kwU0JEY2Y0Q2ZSYnJwcUl0QjhMXzlvaW9IMEtnVlFBbG1VcXAyX3NzY2IwcmJxRTVXQlk3dnlTNHVNR1oyYTVJd2d4a2lWNEh0TlFIVzUtRnk?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu government signs ₹18,600-crore investment pact with L&T",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXFfM2Y2b0t1MFF4UmZ5SWhLQXBhbm1wb3pMZGFFNmJpbEQzNENDUzE1X0lWanVVTHlHWW5tZGx4MWp6Z3l4cDBWSWRNajNMcnFWckdTTk5MS3RUOGMwckh6eXNRWkFJaTFNV2FxTmxpZXE4SU5tS3dZRUJLS3RDdm1ZSWRFY21qOVUtU2FFb0xjSFg4c203bnFsQnQ0UGFPeURqdDUzRXJnVkljMFQ1NlZXLWdPTmwwNEpCOXVRZFNYdnhRX3JUOVlDNFdEQ0p6ZFHSAdgBQVVfeXFMT2JjSi0tQzN0XzJPZ0ZLb1ZUeTZZbTJLWDdVU3FlZEpxbk1OeDRKenJVSXhPeXBYRWdIY3NFTDdvN0U0ZXRJaWFsSXdiUFJjSXRkNDZyODRMWE03eWJxbG5tOEdYamkwV1I4N29XSlV5RmxIOUhlSlRIQWFsLUl2OHZWSUtXNDVDaTNXRjFBZ0JTTE9BNkpac211VkViWERkejItMHZQa1NvZnBFMjd3V2xoNlpkSTJrZ2RFeXZsempWRERZajFtd1I1dzVMaUtLUnJaN0hiTHQz?oc=5",
+   "published_utc": "2026-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu secured a planned Rs 1,940 crore data centre investment as Chief Minister C. Joseph Vijay and Singapore Deputy Prime Minister Gan Kim Yong unveiled CapitaLand’s new data centre project, Chennai 01, in Ambattur, marking a significant expan",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VLVA2Q3E1UkxqZDJ6WmpKc3Z2akhXNXpUVzRwcWhCTzYzWThuMlhDVHUyZkxqd29lQmNtY0FLUGZSRE1tMmhFclZPdFR3YkprRHc?oc=5",
+   "published_utc": "2026-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TVK govt in Tamil Nadu starts work for AI-led governance",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkhpdVJvVXZxb3VKb2k5SW1OS1lBLWQzMk9FWENDUVBUOW5rRVRYMHdoTmdhTWRSRTFUa0F2RDNCRDFhMk9XcW00YUs0NGtFSVpmclRPY1ZnRzc2ZHhvRjFRaWRsczVETTEzcUxNVGdweFFqVERweEtjSVB0Y1dVMUN0aUxKcGlCakx5Z3kzNXRqZ09ZaDMwYkFHQkx3ellfUS1OX0dIVWtRNU9wSnZkSXhXTklXZGp0WHZ30gHIAUFVX3lxTE8tVmgzT2xKVHVPZXk4dHdNdjAtanpMSXNUMjA1YUpyaFZHc0VpbHdrMEo5SEIzQUYtNmxidG4xUXV4anhzRHloWGpxN2lFeUIwOWtEV0JCX2FIc25lRFRWaXdNRjBSNWVWOXVRMFJGR3BJNTRYM0xpN3VmekV4U1hhejJocktOT3V2U1JIZm1wUTg3UG1abkFJeGdiUndWVGN2cjNWclAzNlZQMGZBVTFEbEtwUHp0RWxCU0kzcXpVT1IxcG8wTFE0?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Tamil Nadu Expanding with ₹18,600 Cr Investment?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2pjUHNxZ2JMYV9tUUIzc2Rjd3Y5Qkd1UmxfM0xWWG9wVERoSjVBdGlNb0EwMDVidkNiYXJ2T2JHWWhTRmtwazBHc3AyS3JaVVFvNDdMV0s4N2RHRWJGX1lMUE9EWkFxQ2dzMG1tT1VEaFRJNTE5YU1nNzBiVEI3bDdWUW5mTTc1dFJkanF6QTMxQXZYZ3ZSN2hIWmVCV3VIU2xYRVd3UGZRdzhhQU9F?oc=5",
+   "published_utc": "2026-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Data Centre Infrastructure in India Shaping Power and Water Use",
+   "source_name": "CEEW",
+   "source_domain": "https://www.ceew.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2tNalFiRU1qZURuTTdoVXg0dHRMTVdKUm9MX0xKaUgtLWxmM1pSUDhweTAxR3VteW1FYkh3OU43RDlqakp5dmVFbDM0dDZmWG00aFRkdnRvRERzVWJMazk4Q1Fad0gtSkJ6X3FxOEhJM2tTV0RFd0xRN1U4aGQwSnN1M3QtMkkyUy04VkE4VzVCS0U2WEhjRmpTU2Zxa2lEZnpFbVJn?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vijay Thalapathy poll promises: 8 gm gold, 6 LPG cylinders — what's in TVK manifesto for women, MSMEs, govt staff",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOeE9YZnVUeDYyUzZuUjFFbHRlcE43MUdsd2lEQUM5eTdUY1RzRzJHZUIyekJya2RpbEVMTkQtU2U0dGRPZkROZnpQeVdacFJieXFRRnQyODVJcVlLSlFtdUV6cW92Qmx4QjNXQWtLM2VYMEtMUElrQk9qVWlVajJuOFVzU3Y3Y2daVzBnSWQyRzJWM3I0VkZpTkg2TklrNnRhSXJIUjZqUGpBWjFSUmRWSFBIMjNRZl9rX1c1OGU1TGU0djJWSFg5dEQ5YklfUUlqNlEwQ2FwNUNhX2htVEgyM2tyaE50ZTM1ZHdKV1hNQVRvTlpXeDVNOHVYVlY1Q2tEVXl2MmlYUGFDaVNXV2FlOFRZRzBDQdIBmwJBVV95cUxOdmtRTG1MQjhoZjd6R2dVVWZJMkg3U1dVLW51T3otaHdNdklGcG96ZFl3MmFQdVFYbWtGZmdWSnBsN1NmdlU4VnQxRk1ia1NvNlExdUFSWTVITXp0alV4MHZXdnMxaGI1ckxyUWp3UlNUc3VIRnB2a1BLZFJZdl90YjZSaXZwQS12QlRMNF9Gbm9lX0pWcWVUd1ZEVGdCelVaTlp1TVYwNFJDUEozS0t6TXp1VUFKMzAwdFZOSEw5UFNfY05JbkZxVVhYMkQ0cXFnXzMtZGgtZ3I5M2lQc21SdTF0ZzlQUGRtendJWVJqSlpfY3VjZGhTTWZtbThkdnBvUk1VQUJsQkJDd01YNnVPdUVpSk4tdTRjMy1V?oc=5",
+   "published_utc": "2026-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vijay announces schemes as part of ‘TVK’s agenda for 21st Century Good Governance’",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcml4MXk1TC04cDVQYkQ0aGNZT3VPTll5Si1xTy14RHBscmJfdU11XzZiSGw3cDZMMENadThXbnQwUWRwWnpFSzFZNVJnREpyY1gtSlg4SmZIY2lNekNXZktXeGR1RkQ3SXhsVWd4TnhyNXNoSnlfMmFoUVhkSTRxNDFscjBWQkVhdFhvLWFyQTFIeDBWZ2JJdlRTWWVZc1hLZ002ZDQxUXlBWl9yUkpWVUJSSnkwMW00bEt3YmFhM2oxY1BHSHZUVmhkcDg0bE5iNUxnazkwUWVwakpJSG9CXzZvTW1sNlBuYlHSAfABQVVfeXFMUGQ1YXByUU0tWVhya1NTdkdlbGtLOEU1N21heDJ0dlp6ZXduTmNGV1JLeGtMQmpMRnRaYnJCMnBsLXV0dDJQZG1mV3FaUW5CVERvdEExQ1JFLVFKWVFwSFVqckktNU9sQkFHOWVsZGhLbk5YMUoxVlYzaTNuOEtrWEJ3Rkdxc1BDb3FTRnZTallRVmx6YlRRcFFFWTYweC1ERy1BMXMtbHBsMnNSdk1td1BxbDJWYy02SDZ2eGhORW9OQ1dmUGhuNTFoYkhRNEJVd2xZVkx5UmhBTnlOeWhMcVc5V1ZKVUNSUGNOSXBqS3Ey?oc=5",
+   "published_utc": "2026-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chennai Opens 46 MW Data Centre in Ambattur with Tamil Nadu CM Vijay and Singapore Deputy PM",
+   "source_name": "LiveChennai",
+   "source_domain": "https://www.livechennai.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kNDlLeE56bGtqbTYtX2Jsd2NVbjgwM1RibWRsR1dmYVRLVmk3TkE2Zm5JTnVGZTMyRllEOUFWVUFUbmJtUTcwaDlwRTk4NUt3LU51WGhQLUNjVk5LelhkS3laaS1Sdw?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Maharashtra, Tamil Nadu and Uttar Pradesh are poised to power India’s multibillion-dollar data-centre boom | Explained",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQS3VkTkdkYk4yQ2gyQlAtX2pJTktCQkJmTG92allqaWtGNHFiZEdCNDY4UWR6RWYyMzhpaHhkSnUtMVUwYWxVck8tU2l2d20yNlVHeFVEelpkbkloY0N6SUF2c3hBZS1Pc0VnSklxWEpleC02V095WkR2Rkd5UHNQdWtQYXpmdzZSdXo4b2cxTzJ1V0E0dXM4VzkyLWNjNnlsa3JkRHhWYXFNaXZ6bHpDUG5vNnRVSkljNXBMZWp0MnNkMXlXNVNwX0JaemRMdlZyZVdheTNnWEFhSVBJN292WlItNnBBYzVjamdRYW53QlpQSThnTHZiZEk0ell2TmMwS3YyWWMwSlcyWmlodWN4NXV1eUw2eGJYZ0pybDBnbzhkRDh2Y0hXZ1VtazdHd9IBtAJBVV95cUxPekd1QjZfQlVHM0JETnpwb3cyeTVPNm1qWWU5Q2VLMzRnMEJzVjQ0cUpOSmRic0VQR3F5Y0dVVmJzS1F0d1hzZjlIVHVnNUh6bTdVRmwwbWY3ZFNLWW5XSmp6ejUzYmRVMnp0NzkyVnhkRTgtSElHRkF1NTRjVEpYVU5qV20zSWRvVnJUNjdLaTdwUTIwU2MzbzJneDNjbGp0TEdXZHplS2djS1B1cThQSV9RYkpDMGRNbnJpb1VLRTVBZWliUHc0MnlCYWRrZ21NNWViSXpKNGU4VkZldF8tbjV1UUdYRGJyM1lkb2t0V3BtcVcxaFNGaVdTQjRhMy1yVUduUXRiUEVIMmo0UXM4RW1sZW9yU3R2YTF5N3RQQ2RhYzd6UktjNjRLTlNtZXE4RExuaA?oc=5",
+   "published_utc": "2026-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

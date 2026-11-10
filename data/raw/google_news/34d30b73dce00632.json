@@ -1,0 +1,277 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "Maharashtra Govt Sets Up 3-Tier Panels to Oversee AI Policy, Approve Incentives",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnBUeGVHSmFXQS1pNnZQcXhQa1p4SF85ZHRjVGo5SVZmeGphN3N2VUpTLVYyc1B6Ynl3OWh4TGRxNFZITEYtbTdZZ29OSGN1bm16QnR5ZU9uam96NWl0TmFuZUFVMzY2M0dNb3VEdFllVUpWaHlGLVF2UDBqRXRhM0ViU3BoM3U0RjMyTEVtVGVGMHVDeXdVMzdvY3JJM3FWR1Z4SlhXcGpQQmZWN0NMRUN0aS1YRFRGWjBNU2tzd2tJdTRXTFRiQ1U2WlBFeENaMzlaREduSVJsZ9IB3wFBVV95cUxONUR1MjhwYjFZQ0U0RGNRakY0eF9wdUZfSlBrNUtoWFA0bWhhbmtrNmFzM25ld0VtUzNsdXB4MFh2allzWUlyY1VQRTZQYmN5LWIyUWYyM01TakxrT2g2SE1malBxVnZ3V056QVZ5OFJLLTlJWVNsZXlnbU5PaTh1U09nb3ptRDd1eGF3V0xIQ3VjaldLU0R3djQ4LVp6TGtTd2xnZ3AxRkJQX3ktUU81dHZ0Xy1Md2ozV1dodm5oR3NqVGVsV1pjZm8zbUkwS3RxMllBZzR5RHd4UmxDM3B3?oc=5",
+   "published_utc": "2026-10-28T12:03:52+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra sets up three committees to implement AI Policy 2026, approve project incentives",
+   "source_name": "Prop News Time",
+   "source_domain": "https://propnewstime.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnhKWERvQ3ZnVWxNQ3F3SEtfbklCdUZ5Qm43TnBPbDRDTDBXZXZOZGJlV21ZRUdMb2x4Ykx2QW9pWHJxRkpaajhiZTlIUTI2bnhIZjk1T0UwWWJxUi1MYklJZEpyM3BZRjVQUDgyck5EN0dqcVp0eUZIenRnUC1nb1NlRmVKd1VaeEQ2Y0NmQ2RISzVJVWhoU3lJeXlDTEtLNFM4TWY5UGVkTVVRalA0eGVOa3dCdmZtQTc5LXJtazdPaHpRcmtidkMxMjZmMmFRMFJCOU1ZbWFieFQ2?oc=5",
+   "published_utc": "2026-10-29T21:56:08+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Adopts Sarvam AI Solutions",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczlNdGdwRnNlVExWSWpSMWRscUluRUVKYmt0bUtrNHFWZG8xSFJOQ29LOUsxQWFiaGtNX1JPUHJ2Tm9NZ29wMG1VcmtqN3ZxT2dYendsczM2NUZMTnZtYk9UR0pDQ1hUcjFhWlJrTnRIY0lKa1JJN3hwdGRCLXpoZWFOZjVrRlpWem5JLWN5OGFvMDZqMWZNNVdfX0hpeG9nZ2pPaTRhd2k?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar Plans ₹30,000 Crore Maharashtra Data Centre for AI and Cloud Workloads",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qNzRNdXptWExZY0ZKVmdoZ1JjQV91QWVINHkyVVFrdlR3d2l0T3NnMWNyWXAzUmFFaW9aN0JOem84azNIS2NlanVwS2piS0VRcTl5Z1VuZ3pzc1RyZTliTHhST193ZWtTdVctX19BR0J4MXZGWHdYRVA3NA?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State govt launches Invest Maharashtra with Rs 8.5 lakh crore MoUs, promise of 2.9 lakh jobs",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNUZwTEFXWEhuM1dQSzdwY1JqSmEzdGUwNVJrSExHVG5aWGpYWERUSjhSWUJ0UXByN1c3VlN0MUFRMzlvSng0aTFPNnVtZ1Q2OGtHOWNWU3RXWi1obnpTLXZqQ2tYWDBXb1UtRXlTdUczTjFaUzZiTHVIU0E5MFJJZHlEanBoaThjdS1Pa0ZGZThKTnJmU3MwVjFZdjkwbnNTYlFtcEdnZDRCUGhuSjZvRnFRX2E5NHBONDVQNzZuTTg0VzFCQnFaaXNlSDd2clJBd1Bud2pSSENYeDlnTzl6ZHZTMTlaa1k5NFdqdlE1c3VMMXJlYU1Yc9IB_gFBVV95cUxNdWJhUWxaNnRQelM4Q2FnMVdST0twQ0szd2swU0hLN0ZLUkhoNUE2SVd4ejFLLTVRZ2xpYlVsWkV4dVFMZnN3V09HaVpmYzR1d0RxaEg2Zkx3VTV4dS13dk1QTUZ4a3NtMXdzR1FHYUYxalc4QWZ0Q3FhMnZzclBKeUZwc19yeVZzanlpc2FCd0I4cnVZeEQ4Z0VNeFctNU5XZHZWc0tLMU5MYVAzNFpXQXZHWi1JZUJSOGl0N1NxWE0wMFNQMXZUWmlNVHlJcEQwRW8xcU9SX3FxQVVVVDNVUW9NemR5ODAzV09ONzN4RjZTY3RfSkpvV2VnNkdEUQ?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra launches ‘Mission Murghas’ to prevent fodder shortage",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdDd4bEMyaHpDOXlGRUhjQ3ViQkI4YjJjU1RRRVoxZ1AzTEhQd0c0d1JQT3k5R3F6QlE3SXJYUjA3Z25YbVM1c2RBTjBHclJEZVY4VDg5b2NrTXdSOVdVeWFGS0Uza3Yxc1RPSGFDdk5lWGRULXZwYjFkSHpLckhqZXZHM20xd2h0UHluMWZ1RS1wbnpaZkh0dDZPV3VzNkJsUXFZbFlQMHNFa0Njb1UwOENucmV3RV9vb3U5LXljZGJrNDDSAcoBQVVfeXFMTkxwZHE4LXo5LUZMWkVKWEdRODNCZkp6SjZxN0NySDN3bEYtQW5tVVZYUVVaMXZOdldreWJSUnVFTDdDOU8xUkxoMC1UOHNkVzEtOXRjaWtORnBnYktqeWxFRUxHTUZGalBTeFZ1Q2JseE1hNXRSNDVEbWpIVldzZlZCWkVhbDJNcy1VNmVDUTBFM0Q2dGwtSDBOZnJxWVdRZEN3RDdiLUUwdV9VQlpaMjBySnNYYzZ0RTNEREZxRXNjMlFyZDZ6VWo0dw?oc=5",
+   "published_utc": "2026-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Plans Air Ambulance Service on Three Highways From Early Next Year",
+   "source_name": "Avi-Go",
+   "source_domain": "https://avi-go.com",
+   "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qMDhhYmRqcE1GajhjYVVORm5zaUZneDBlUkptcEZoWWY5aEFleFZNU204WlltX19YVHE4WU9ya2RQandzMGdPOG0xRGxZOTNlRGFhdDJjXzRsSjRmS3VUUU1ESGxDRXZldVFkbUY0Rk1xZTA?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Launches MahaINDUS Secure AI Platform for Government Work, Rolls Out MahaDBT 2.0 and Aaple Sarkar 2.0",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0o5dk9pSk1PcXV6V21QSTJqZFhnczNZS2tBQmNULXlmTFFmNFlfLVlaR3dOQXZvbFpOZVJWYndqTndnbjN1UG1DaGZKN0RINy1yNVJwc0VQdGdJSjJCY0hzVmMycFNzTXRMX0NKVUdidExHa2JDYm5WZUhFUmFHZEtUZFlyUmU5b2RROTJCREFEM09ISTAtR2llRjlsbkFidnRjbHVfc09VQW9vZmZaMGpmeEVuYnpvSUhJ?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Festive Push for Maharashtra Housing: MahaRERA Approves 435 Projects Worth Rs 23,719 Crore",
+   "source_name": "Outlook Money",
+   "source_domain": "https://www.outlookmoney.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHo5Vmhlcy1EaDMyQ2RxUGszR0dUREVPajdJLUZ5bTJ6M25sS0NsMnVmcUZjSkxqQkJTVjQzZ3Y4dE1nVzZmWWxOdERnSmh4QlpQZWZVcDRaU1RrLWMwOFA4bHFKWUdicml0QVdCZldrXzF1VXJUZVc0ZzBjeFd3RWNrZE0wbnBRUjBrWF83VU9iTWlMWDgxbkdSM0VPVDBibF9iNzBDcnFTQnRaYXdycTdsR01MdWFwR2RmQXAxVHVMQdIBzwFBVV95cUxNZnhLT3dyTjdCVG5QeWpwTHM3WWQxMzZNdjdyY0J3TGt1R0QzZm04LXgyQ2lXeUZNaUdsZ19JY1ZWcTVyTnVoWWQxQktvNkc4enM2Q0lfcjktLUd4RFBjdHBKNlJ4cWlXS2VpaTFLVjc1NWtHVUVHWXVoY0NUTjBVOGdRTnNxdUZQUS1DbTZuREJxUTJWTEJwOVhVUFBGN2V2TzR5TGdkUkJ6dVl5cW9uRWtJZkYtbGhwNUsySTF3NzBPWXpiSVpITHpnT0hjYmM?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM Fadnavis orders AI platform to monitor app-based taxi services",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDhGd3lJN2tEQklXSERndldpQUl0Y3hFazJCQXo5TDREdk1JYnVKLTVXWXM2OEtIajl0M05NaWVpUFdGd09UY1VoSXE1NzdVSGdYcXo3MWRmRFJPXzhQNU1UbndEQ0V1WE5FSkJ3aEZqazEtVEh1ZzBTQUFBSUdCSVNJUXZXbUk1NEVEcllmODdMbWU1ZkZGVlh0Sm0tTU5yeTZvTjRhN2lpV0JiMWVFMmVRdUEtc0JWeC04T2NBV2wzd2w2TzdsN0RhTUNuTmxiR2JxVjZycnN5T2RsTy1lS3o4NHg?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oswal Pumps Limited wins ₹235.92 crore Maharashtra solar order",
+   "source_name": "Multibagg AI",
+   "source_domain": "https://www.multibagg.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0MwU0sxUWM4TE41Zno0VnNDbkpEZDRSaEQ2dzIybHlWNVpFRzE5dUs2OERSSlliRmhSQXlXaTZld2haR21rTkRJa3E5bkRHcm56cnhLOHM3a3hOaVBDc3VMNDlpQkllZmJ2Y3A3Nm1TRktkVGFlaEQyMnNFM1B4SFZJdTQ2aFd0VXBnbUZLU2ljdkJ0SmhTei1iSzI4aWJ6MmsyTDUyUUJlUTFy?oc=5",
+   "published_utc": "2026-10-30T06:34:26+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana, Maharashtra, UP lead state rankings in data centre policy attractiveness: S&P Global",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEpOZ3piYUFyM2tYT0FWajVVVTZQZlRVdDdBTWFhWFBkeUxXUjRHaTExa1hQUXBjNlpxaFZ0b3ZvakRJMEY0dmcwbjBOTk41WGF1a3dJazZId1ZYNmp5LTF3ZkhPdUJIaW1faVJSRGM1c0hEVVNwUDhxR0ZkRndpNTN2M3ZNSG1EVmRrbDBzTm5xd0VMQkpmbUNCcXJ5YzNOZWExdFhBZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra plans AI-based platform to monitor app-based taxis and ensure fair trip allocation",
+   "source_name": "Prop News Time",
+   "source_domain": "https://propnewstime.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbzd0MWtYMl9WNHNGeGJVVElsaUdKRXpHZEs2NFd4bUhLX1Q2NUpXRU1aZHNUeUVpUmtFalQyZjNKMnF3VHY5cTVTblNuZ29IbVdUSHdEa2wxb0tuWnpDNVdBbDNBWGxra1NxNHBiaXNvR1EzUzU3aFRnVndzc29laW1WSUpmajNHMmVXOC1BejJsRW1QS0gta041MjlZWGVwNjNCOVZoZFdveGFVb2c0cXNXRUxBMC0zTG9YVzNMRWNNV2dOVjlURDIzbjNmNVZqak0wUTdGT2xxU2hNQUpr?oc=5",
+   "published_utc": "2026-10-30T14:33:55+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra plans AI-based platform to regulate cab aggregators, ensure fair ride allocation",
+   "source_name": "ET Auto",
+   "source_domain": "https://auto.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHdQV2xLODNaUVFOdS1ubk5SeEw3cTl5RERzU2VCSHJNekxFWUFTcDZ0UGdPVnpWVWlHdlNvWVZZOHRkbFp2LUZJbHpGV2xNVTZqR2lieTJGY2dqUDh1cjVnd0d4dFB3cVhQTXNPQWM3dHBHcVJkcXFJaHc5MU42V0RnRUJaU1FLdWU1YUhuak9lV3o2eG1kUHdmV2kyNG5iMUN3OEFxRGhjZ3k4NXJyRHZKbnloZzFndmNoWTR5TmYwTDkyN1pxQnZuZWl4emMyTFJUYjBnUURNY1hwRGpxclh5M25RY21ySTlwYmIyNDd2aEVXZ0w40gH8AUFVX3lxTE9lWi1OM212WklCV0M5UWRWamVHVzhZM3hnRGFlYjVpcUxFNFhCSWF4d3VvWlRYTHhGNF83RUV1V3AyUENaTC12UWpqbFlWNFJCYjdVNlJaUFBGNEZqRjZIa0dZNUhLTEN5ZG5vUUdKYV9YelJDLUtlVjE2RFZlekRRVzRjQkxDbXpLQjdGSFhJVDZXaHIwTXA1YVJLWjI2RlhZaFlUT3F2SEl6VnByUHZ3UkdCbUo5TDJnel84WHNWcl90VV9YT240aEcwOVJmdkp1bUFLTURGLWZ3TS14dFlxMldoYjhLUGY0dFJ0Yi0tZVotUnZib1FPY3U2cg?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra drought relief: Who’s eligible and when will it be credited? All we know",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2tUcnNxZlhTdG1EYUhFWDBnOWU1LThaTmo5Z3dWT1dSZ0VHS3duZTRXd2lqNGZmanlnZFJ4aVR3XzVNY3RPblE2R01mdHpKZjU5ZVdJM2R6bWczQkYyQll2aGszYWl6MjlVc2VURF9makRTdFZsVGJPYmQ3eXBDNFNtNWRBWmZGMURwU1pobVkwRlpzbVhHelRvc2ZaWm53QmtxR0xSVndFV1VKcVU3MU9pTzJpSnB3VmZEZjFSWDdWNzlDanlzY0FVX3RxZk3SAdYBQVVfeXFMTzYwRWZDSFBpYVl2TW9ndVFzdkh4OVk1WVVnUEEyaTVtMGgxSHJEcWdqcEZHUFVxR0ZjbHotWHktTFFTX3NzenV3WTNBN3hBZmh4d1dCMWc4aTAtSjZkUERiWVFsdnViZ0lqRllrVV9YWEFfazdDRmVCWEtadmdRaGJaZ01VeDJYa2NQVzdJbGFObEt6OUhGSEhjb3IzMDlqRUpIaEdCSlZETEEtazYyOEVmQXk0TVNPNnozVWVNSjd1V3Y0OTZpT25WVTVKX3lKWFVkYzNiQQ?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to pilot AI-based job platform; Skill India International Centre planned in Mumbai",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa3JOT0JSbGVkSG9lSXI3TkZHMWpCOER4Sk0yVjFtTDhMZlBZaWJvekVxT1UySXladldiQkxYTEU3VmFQN0U5bW1xOVpnUUJVLWtWel9vSVZCczJSYXZNTklTbDJkLWV4c1FOUWZ4R0Q1N1EtYmdTdjJDbndtdlRjWVVNcWJUVjk2LXJlRGZoYUJEZlV5TkcyR0VUdk9ObUtlc2xTT2M4T3NoYnZvcVdHY2dhNERUWE93QkUwWHA4OU8wS3dwakF0b0d1VldLLVNhYU4zdWdvU0pSLWRkdTJXT18yeW1TaXlp?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI to boost security and fire safety, says Maharashtra fire services director",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSHZGQmFmOEJyajc4cFhDSl9Id1R2aG5yV0ppYktjQlFCWVg0SWdIdzZ4Sy1PeHltZ2lnU0NMYVJFMEZOMmxuY1V5aEVVeG9CUEFVNVVnZk81RzJPalZadHBDSFNSTEcwdDBTR0cyQ1pMWWdDVGJSb0diaFcxMm1HeUhTTWd1VGhFb3Yzd1p0WVB6NGZBcUVxSnhQb0JQLUtLMlJTc2RFRmtoRzROdHhULUl0WkFfWVBNOFA1U1dGb3lGc19DbXNTYlVqVkxzb1p0NFhKVW5LUEc3MURQbEJvWXBB0gHnAUFVX3lxTE5hVTRXc3NNYVowSktqYlhMbk5pbVdEc1RTdGE3TVpONHFESUh3VEFrSjVmVjRVVUZHZl9iMUVIcHVVejZERjY1aTluaGFScHV4N2FtbjRaQU9CN2VuWHd3bGFWdXVpLTl3Rkt5QVVLVHNxMmMzNXV2dE9wNkFLTnBvNU1kVTZycUVWalhKUklUU3dyX2o2Vk1zUzFaeFNwZU1NeTZ1ejhnMXpfcXpXdTNENk5mZmp4RHBCd0c3Si0xbml3ZGVQblBtQ0toM3dfYXRkTGJOVkFxZ05WYjF6SC02dWNjOWVvaw?oc=5",
+   "published_utc": "2026-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pune Ring Road gets costlier by Rs 10,502 crore as Maharashtra’s bills pile up",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeVFIa0kwT3M4VFRHY3JxMlJld2ozT2Q4WTBlNFowSVhaUkNlWVhqb0JIRlEwMml2M1diVUcwdEVHUTJWWUVUZWd1SnRaSWNmY1RHdE9wQ1A2S3gydVluUkZUeVVjanM4QTRYNnZKNEFWWHMzQmJQT3R4aUNNRGhMODF5b2tUVDluNHE5SlZ1ZTZyU2VmR2Y3Y3JfX0QyZWlVRGVZRTVLQ1JXbUh2LWFHUXFCdVY4VXotLUJoaFlPZ0xvMjIxV0l0TWNTOTNsU1nSAdYBQVVfeXFMTXJXNkpZWTEyY3VXODlXRmkzUkVNM2o5Slk4bi1OemY2Vl93OFozQWxZcjJpcS0wLXkzZUNlcndyQjZtNWRmQVpsaDhJMjM4VzdLTVR6RWtWMzdBZ0c4YXNmQUZLaHg2eGpUb0FrNHdqS0o1ZTllYXdHdEtYblBwYjV2U0VmSF9Ra1F6YzVFSUI5dnJuUUZMamIwQy1yTWk4eF8zTmEtSFRNUzk4MUN1djRUbHp3WUFwS25VNnhHa3oyV3pmSVg3RGRKTnBsTFVhcE1DNWp4dw?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Jarange rules out Sanjay Raut link in Rs 500 crore audio clip row, challenges AI claim",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeURkR1RvLVRFQld4QXRVY0t2VVZ4QklJZU9XaG1tM29WVjlDblpYYkcyZm1KNFJGTVk1T1oxTDc0TGZxbno2WmYxQmFGUERGRmhiVE1OVFVmUmV0X0U0WC0xVTBSNUdqVWZUT1FLWDNWM2NmclBIc2RKd0pxU2lrcXdqekFjOXlDWktGTFBucjBiNGVUUU1tb3hBdEloUGtHRDU1VGdGY18tMFBVVGtfX2d4b20weDhVcmpLOFhfX0JWU0V4c1duUjlqbHJqUVY2VDNlTVBzUVZGMVowNTE1LWxZaEd3T2ttdkE?oc=5",
+   "published_utc": "2026-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai’s NAINA to generate 15 lakh jobs, locals to get priority: CM Fadnavis",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdjFhV1BsMjRiZ0VjOGpoUjBQQ3R5ZzVaMmF6YWM5Rm9mSjVzb1FXVF85SmltNWQ4RGhKWFo4NDVNYXU2SEhlS0V1TEZkVXVsUVRTOEVzbmRacjIzYWxxTHlpaFFVcmxpbDNqaVRnV1dwSWo0Qndka3JHZG9nNXFCTUN0d0dUVFhhZWxKYWdHbVR5Ylc3WGlBWHdPekQ4cnlSVG96QTFPM1RSMllwQkh1NzUya0NjYV8xd1FvYlpvMTd0OUYyd09xVURVVjVqZkpwMFpNcGNwTFpBRzRtTEFnRWNORHk4MFJUcmMxUdIB8gFBVV95cUxNNU5SUF95OVROUTJocFhOTS0zMHdfeE41R0RfeVVidHAwY21TRVRnb1ZTb3JFYWtCT3FIVzFQR2swN3NJYUYxMVVFQUJ0ZUtrdTJrNUNWVy00Q2pLQXZ6aWVyV3F1dUtwZllVUnN5N0V6SGVYOFZnazh1ZmpZb3RYaDU0LXVreTFhcHFhanREV0VheW9xaXE0ck0zeGtYUEYtSjNDeHY2TUVUQU9VdHd3R0Q1elZlQXQ5SjJMMng4bVc2cHlvOS1WTk5uWFhKaENLLWFMa09JTG9HNGw2QkN2T1NQOFFpRXQ1eXc0YXV6VF82dw?oc=5",
+   "published_utc": "2026-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "9 months after Ajit Pawar crash, Baramati airfield set for Rs 65-crore revamp",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVBYWHBjQWFXZG52alcxQjNDb0VBS2xTSW41TFl4TUwzRmVUdG1WSmxERzFQcXI2WnI2Q2Z1SmE4aVNnd29MWF9Nd1RtajU2SlBoQ2NNVlRONmI4VWV2cXZSQTdBbGlrR05ILVVsdktUa2p3cXlmNVB6elRzRVd3cWpTTDRqeFhCdmxyTlRTS2xzTElRMGFlUGhSZDR2WTJMSFZoWk1ubXByNmJHTWfSAbQBQVVfeXFMTUtTMUxiQ1FKdmFxVkVPM3Z3MkxnbGxvb1R6bUQ2MzR3NHhMSy1mb3F1eUt6WVpCSmp0OHpwaTkwVmRrTldrUnFFc2xhNGVOWVp6SHh6cldxOU4xbHRlRnNCSHZILWhLLXNQcFR3em9CR0tJMURlQTk0WllpaGhIM3BxOFozek16UlEyV3dXM0w3NU1kM25mQ2tQSk5GRE90NWRHbHo2MExtOHBuRGJSNmU1ZXJC?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra FDA seizes unsafe spices worth Rs 13.60 crore ahead of Diwali",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX096NTV6VkpKSktqc1FHaDBxa29XWHQ1dFBxd1dwd3Y0VU9obnJHZ0xlRkZrVWFlc3lrYWJ4eHNxRXNuVEQwWHQwMHJBWlYwWjcta05xTFJUeXJUVTFVbjlUVTU5Tm1ta0NITE82aWU3dTdXY0hfTFRYU2ZWV0htRlg0aTg4NExfWWxoMHdPZXdJTi1URVVWWmY2eGxubWxGbm5aMHE4WnV2MzBvT29vOG91Um9heERpbm5JVTUtbVVtbzdiUmRnYldNUjRtZkhLUW90Ni1yZ05sYkhnbnl6d2RyN3Q?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI + IT + Culture: Mumbai Can Be the Engine of the Global South Creative Economy",
+   "source_name": "TICE News",
+   "source_domain": "https://www.tice.news",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0FwUTJlTHJQZjBhTGVyV2NjWmpwdDFZOGhITE5xWjlNd0U2Y1VqMzZRWWk0SXIxbFVfQXZXSUFoeTlESE5ucUV0alo2X05NQW9ySWRzRTFNSmVNRmIxcC1SYjBkVWMxNVlFa25feGozdFVENXdWeGlZTkJUYnRCZFFaNzRJWXo2UlpkdHFDMm9oaUcyMDRuYm5qbWdyVkFYUXFjNDk3UGN6UjRUcU1hNkFHS2pjNDNWV3d4QmNKeElIYjYzTm5EQXUxZlRXNEk2d0HSAdIBQVVfeXFMUHNBcFEyZUxyUGYwYUxlcldjY1pqcHQxWThoSExOcVo5TXdFNmNVajM2UVlpNElyMWxVX0F2V0lBaHk5REhObnFFdGpaNl9OTUFvcklkc0UxTUplTUZiMXAtUmIwZFVjMTVZRWtuX3hqM3RVRDV3VnhpWU5CVGJ0QmRRWjc0SVl6NlJaZHRxQzJvaGlHMjA0bmJuam1nclZBWFFxYzQ5N1BjelI0VHFNYTZBR0tqYzQzVld3eEJjSnhJSGI2M05uREF1MWZUVzRJNndB?oc=5",
+   "published_utc": "2026-10-03T07:28:22+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Sets Up 3 Panels To Monitor AI Projects, Approve Incentives & Subsidies",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTNFRGpPUG54T2p2ODZyUTJxWFRQNk13a3FoeTltUlN5TzhaMVo4RmdzMndnN1oxWkpMNEtiWWh6VzBrRFdRVTA0aTJRYWZHR1NPYWhodmxlMTUtWTh3RExZSzAxZTRGcjJaTXh3SmxaZHZuenRCM245M1VSZU5Jem9aalg1SW1TNW5zQ1hSU3Npa0xIYlhBUW94TC1HWjB6TVR2X0IyS0JxNEtrSWwtbzcyWnRMMTZ0UmRLeEdn0gHDAUFVX3lxTE1RRThaY1hIVG9HVEdub3lSci1kdHQxemFad2UwSWlBTXBzWFRiTVFYc1hpU0lIOVhmRjNUQ0NhOXR4U0VXN3AwbXFSbXFINzV0Q18xWF9pLXVrLVByRGxVcVhHcE5OVHVOd2d5S0stdDY4SVRXWlB1SnJrUHBsS1VRb00yemlKVjJUQWdybENHV0J4QnEtc3paRVIzbjQxVTBVdGNoZ1RocjJqMmhLa1pvZmRDd0VfcExMRkhPU0NaVXd5UQ?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Baramati Airport Revamp: Maharashtra Clears Rs 65 Crore for Runway Repairs, ATC Tower",
+   "source_name": "Lokmat Times",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZk1GcnJQYTZ5ckVmX3dCNUV6MDBXNjBZT09kMTdlOXBkdHdPQXM2Ukh4OUprUk5aOEhSaVFjMjJvd1AwLS15QUxwaU5oSjYzU1BMV1l1RG4xY05NbS1GTzJaZGdQdUN1dGdRajlaY2UyWWl6ejdNM1JvNWJJS3NrZ0NZWlBDM1FCWTRHTXFhRmpJVl9IRGtOOE9xV0E3ckZEa2kwOGdZRUtFUUVWclFyZ0ZIODEzaS1WSmZIbG56YW1pX29sUTItTNIBzgFBVV95cUxOWDNmbXJ5R3lOUVJlSlF2Z3Q0Rjk2S1JkVWpwZzZWMGZKcW1weW1YMFlLRkFGZGRoQmRaaEtxdGJ6ZHdRMEJuYmc4UVIzV09Sa0lYMTJ3TVhHaS1Ma0Jsb2JLVWJ5T0diQVhmbXFIWXJKOGN5TjVndElqNXl0ekJDX2pBMzFyb0FJd1A5UVVCNkNUWGZqbi1JSGJNX182WWFxd3dGZUp5dFI1MzNRcnBXSjhzZno5ZXJkTy1DN2hNTmpDTjdEUmgyYWpHYU1Sdw?oc=5",
+   "published_utc": "2026-10-29T17:51:30+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves ₹65 Crore First Phase Of Baramati Airport Revamp, ATC Tower & Runway Recarpeting Among",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWkE3b1dIVlNqYU9hZUNqM3I1SHVXN05kY0s2Y3VkN0c2anJzbEhVcE1VVHVjQlRhcXJVMlkzWF90M0tNODJ6U0dXVEZmTi1ORnNCTnRxSW5rTk54Z0dYQlFBQ1daeUdYa25HaGpyeDQyX19FUURKdW5QQmE3R1lVeHdSOGFhMWVtSFZIY2g1dUx3ZlV6aEFsNTdVM2tWY1R6MWZUUTNqSEw0d1FibmZ6eXg5d2tRakE4dU50TkljSlFQSHhWMmtyNF84YmxZanhaS1hnalBkVXQ1Y3ExaWpINUVVV2EyaUxlS2JXVXY0SkHSAfYBQVVfeXFMT0lQc0ZrVnJjQnB1UnFSWDN4eU5JcDF2OV9qSGFTRVV0TER3YTBTendoaFJySklkOENFdGJ0VVRQcnNXaEFnUmlVUERWeDdsY2NEeXNvM2JjTVAybURvaXRrVEtRU1pDMXdFVFVBbnptS2dSVWZTdUFFbmNuRnJLWnFiM2Z5MkNSRnhwaDRfb2hQeXZhMFVIeVU4WFA4UkhJLTlrNFUta3Ntc3R5bU9xZVU3NFI3ZHptaEtGS0JmMDV3TkV1RnFVSDRkNlRXUS1vTXZrU3pEaVBIZG5oU2h1M3ViZGtha0hBdmVHRmlnaEJBYndvSjdn?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Launch AI-Powered Job Matching Pilot In Mumbai Suburban, Chhatrapati Sambhajinagar;",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLUJYeGJnbGF1TEJYS1pTaW1NOWJ6ZmlVWDBnMTd5N2xxNmdEemdLQURIdi00bENaM1hObFVWR2VtSWc0ODd1YTgwaXdQZmFGYjYyNFg4NXZ0ZnFLeVNGeFE0dWxCNDJ6ZmZsQ2t4SGRWU1ZtLUllZFBCTmd4V1hEaGpOaEVjZ1dLaFdDVWNYVHZqUVVqUEhOWUJsbHBmREtBUF93a3p1dG9ZQU5mdURIbjFDM050YmgzZUNKTlk1eVAtc1RIMlo1dkZmVy12Sm5xWU1RZGNhanR1eURkQjNOYS1Wa3UxemI0eWkzcUdocWJLdEdrM1V5T1o1LUpBZ2fSAYQCQVVfeXFMTllXaXlHMXR0dWNQM3p5VnZkU0Naalc5Z254X1E4MzhERWN1TmJ4Z0NGZ1ZSZGk0dVV4MHotaTB6ak4yRGgtMDN3TnZHbm5qS2tpLXo3YkFvVGIzVVFGY2VtTnh5RmRTeXhWMEkwX0gyLWhaWXllcnpXaGpsSTRFRVBxdFpJWHVRV0tBaHU1WDZsSlRhVmdvRkJuZDhGaWJaalJELUJKa09Va2tneU5tUzh3M19HRlJ1d0RRSFRuZDNtSzctRlQ4cjlHTHA1cEV6TjFiaXlJRkt6b3FhY2xrMzhuZURkSkRHdl9VTThQdDdGYlRJa0dScW5iN2FLeEJuTHdaMGo?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM Devendra Fadnavis Invites UK Investment, Highlights Opportunities In Clean Energy, AI And",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORDFkZmg5cWZfck1jWFNHR3hoc1h3OG5Tc3Z0djdXWEZfNjR0SUxWQkJCOTJ4eDNSdF9sR3lCc1B6dmdZR2szVDJOM1paWm93UFZEVXBMbjdjYUxQLW5iODFoTmVJWFc3RmpiOEZSZ3liWEx5Y2l6aEQzSVV1X3dyWUpSVGxUY1NmZ3o5dFFRanBFcndUd0E5eUNzcmlPOG1wVWplbUNLRU9mZ1YxQ0NxZ2FCcFJGYzJmVmpjM3YzTHdEbUFtQ2RobGJVVHU3QXJVTGhyWWJaU2t0WlJsNFNXbTZVRG5uSFB5SUMw0gHwAUFVX3lxTE5zaFprZVhpNm9qcXF4UUNLbTAtWjBpT2JuNGlpNEdrQ2xPckxaYlUyS1N6dE9ZMXIyRUVHSG0zaGxxTS1ZYjF0V2U3OENlR0RBWVVvcWRXSE5mWDdZbXRCWi1qQjZsSDZZZTVVaWxETUhOdG1qY1pHM1lJUW5VSEpnRDhmSWRhRThjakhNWENyOHRsUjVxTE80Mzhsa0R3eTlrZ0JXYXZ6WGxaSFZDdGFTbXhNTC14VWtPU0wtcFI5WDVEMkw2ZnludktzUWtqX0tkUFdwSjA4aVpHTGV2S0NTNmVONzVhR3lVWUk4SUI0Tg?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Invites Swedish Investment In Defence, Aerospace And AI; Pune–Nashik Industrial Clusters",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2I0Uzl6VUM4QlkzakM1eEo0bW9LTEdfYTFTdTNpaUVMeUhpNm1qUE45TjBLeHFqVElla0dNSmp0SDFCcE9ZUGhEZEFnNmVLMXZuRlhTVzhZbGtzWWxjR3lZd1RGVWRwOHA2Y2UtMDduSTR0UTh5aGYtcGFqQnZYenF1ZVZrUHgta3czbDFNT3RmOTZ2all2ck5qbXBoSE8zZDBRMll2ejQ5SHgyMXFDV0hoTlVjenJDQTljX2V4RmxzM1BqYjYxZ01EeGtCN2w1d21MRlo2dDhMZ210cEHSAeMBQVVfeXFMT3BUaHpCLUFaM1NZZVFtSzVTR05OM2pTemJ1X1NIdWVlcFhqUk1HejdYdzU5UnpjSzBFbFRGU0xwbzI4Qkt6SGh3Q1lMWmZJVnUwNFJ5OHota2tIeVNTRl9wY2dzRzJjczNCU0hwbWYwenBVMFczOFFQU2dvbFkzU0ZBR3FaUFZ5SVJiaGUwb200cU5TcVl5dGdBYkF5ZW9KdGMzRlV0dWNYZTFYa3FYSGc1cFpfamJwb1JLcDE1dzR0cUZKNkdqbVVBVE1WNzFHN0xOSGlpTmdNVlNrN1EyYm5rdzA?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Launches ‘CM-SRISTHI’ Scheme To Boost AI, Quantum Computing, Semiconductors & Futuristic Tech",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU05RaUJDU2VzTVJRXzg3UE9vdjY3YkxvLVhqZ2kxM3VkSFJHNG9BQnlhS19VNlQ0cUhqOFJOYy02VEFqTWxQb2lSZTczNWNSMU13RnY0ZE8wMHJQY0FUdjc5LS1oejFTMjdoQjktOW1Sel80RHd4Y3VmM211b0RTRTVRTEZ6VGM5b2NEdlJvZXJGVkNwbkI2eE5NMDQ0YXRXQTlIYUlCbnh1ZUttbWdjZ3JZZ0l6V2xPWWRsQ0R1TWFvR2N1dlhwWnlsQkRnQ3ljWmVqUi0tbzZaeFg0LVhWS2s4OW_SAeoBQVVfeXFMTW9Pc29ZNXY0Y0JCblZla1VhblcwMXR0MmU1QWR1QVNwcGVVQm4tY0VNOEptYkRBVHEwclFwU3lSbkR3WGJGU1lhVnMtSnpyRzJ3ME4xcm5wdkJkUkp4djYwME11R1dlVGV2RUs2XzhtSU01TUlycGZhYkJOOEpsX3E1VWs0bl9uMkNqcWJGVmE2VUdocFRsR1pvYTFQMTVoQ2p4QlBkcGdmdTRRSnMzdXhzQW83Q3dLWkQ3NGMtRUM2aEdKbmt0b1MzampLYVZSODBHNUNVT3RCenRGYm9uQXpJeFRGOTFzeW9B?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Sanctions ₹9.73 Crore For Separate Transgender Restrooms At State Transport Bus Stations",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmFjVmJZTFZIR1REZlp6djZuME9ERG9JYV80MndlZEhvbHdETGhwYXFNNU15MEZFaUNnOGlMcUJacUN6WEV5eklaVVpqeHFvTHItZzJvQ3hXV0pqYjdXSTVFX1dIc0JZbVBTaVY3UnNzNzZITE81LXRRYTZhNGc0ZlJxdXJxMDktZnI1bDBud0ozY2xhU1l6dWhZa191c3hrMjNRQzVvOGVURWVJV0V0ZE9vSUZ1NldtRUFycEowQ1JSUHFXalp2TWdfUjNSZUNMSWpuanR6WkM3d9IB3wFBVV95cUxQUU1nV2dGRnAzUFNwT3JFSWZyb09lbkF0V3BYVmRxTGEwU1JVUmVJaHR0bU9LdEVFd0NqTFZIaHE3X2ZSekwwcHM1d0UwRWduczBjRkZFVFRHNGpTWVBsdlhqdUNKaGJERHhIRlFMaGt2N2dtdmlJQ01JY1lpc1pCN3pBT0o3ZUprUTZHVWdVUnQtdXFUb2tqOHZmVWk1UmhsVGsxaVVkLTYzcWJ5dVRhR1k0T3gwU09feXVJNGlxcm45RGVWM050SnVBbGRPTGlucDdEajVvRElyVERRRG9v?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: MADC Installs New Navigation System At Amravati Airport, Paving Way For Night Landings",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTE01dHhTZjEzUXFJUHJ2d3RHZUlFdkZDcFJUNjM1eWhTd1RGMldKTlRDTHA3aER5TWFpZUJhR28tSHpndmRHSTFBNFBJM0lJb1pXWjVGaFRfV2FmdWFuYkM3ckdSeDNvX2djZkZ1SkNyTTRPMDA2dm5RY1JFRkNXVjNLX3loRHVDaGVEVjB5QUdoYWdYV01sM0lCSTlmVHIwanZ3NVdsMmNyRkhIcTAwd0cwdXEyTTFlcGtTYmNhbjhBWkRBcDRSM3NmT3RKR2VuX3fSAdcBQVVfeXFMUDdOVm5Mb3Zxc3k5YmdSbU9EVWtGWlRIMVRSMTU3Zk9LWDNFY1JBbmZ1SEhkRDlCV3BrRzNjajRIYVdfWU13WldiNlBqWEZGeGxzdGZ3U0UwWHEzZ2RoN2hiVEFvT29yaEhEckt0R09DUHR6cXBUTmtHU0hfTURiaVBRYlFyZEVJN1dGcmpCNkxndEZSYjl3VmlzYjhVY3BNaHE2YU1MLW1fSG5RaDRSRTFDV3FkcG1wbFZiZm9VWWRVbi1MazFETWlNcXJ4aDRWWEdza2VnM2M?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Marathi Is Our Identity And Pride: Maharashtra BJP President Ravindra Chavan Stresses AI, Technology &",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQlZTQkRMNW5Ga0xpRW9HclZGdy13bGp6aVljZ1VZbGthQ0otaVdZNlJCMkRaTnZqNTc3VDFjTW9SMm1vTzJ2UnpjNkp0MEhJcjFFMnZRbldaNHB1ZUxCeXZuR3VuM1M1OExQLUJQV21UQkp0SkQ5MjI4TnQ2ZzVadzZXTVdBUTZDZjhtN1g3Z3BNOFhzMG9udF9FajdSa3NrdnJqUFI5Q2NOUEgzd1JxRHRnTjN3b2xjMkVvWFNuNnNZMmV3V2Yxb0NPNXYwOUQ0UHpsYkFzVFEwUUgwOW1Cc2xwcXZ4X2MweFA0c1lyWFYzYWpjOHV0OGg5VFpzVnVKcDZEU1E1Z0VkSVnSAZACQVVfeXFMTlYzNnQ0QlFsd3JhNWpySnNvaEg4YXVsVWtpbDhYYU9tclhjVVZWTUhUTV9iR0xWQlRiVEwwLVVmd21zSHQ4aDduNG03b1RzMEhLSzJDVzhfRnJBZ25CRG5yVXZ3NHJ0T240S0pVdzY0clRZeTRpeERrTjl4THJZNl9KMkdpcHRjdUh0Y1Vlakx1NnlIZ3FEbW5hMVJJV2lyUVBVMzBNajdKbzJWTzdibzRKbTZRLW83MnVkRUVKSzFUcEdsZGJBdURvZ1hsWE1ySVlkOHZZSm1pd3NfWkY4YlRTUHBzMktHbHR1NEY1bmk5OTdiVnpPb2x4cE8tbHdkdWpZbW9YaFB6S0ZJVDVYVTE?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Politics Erupts Over Manoj Jaranges ₹500 Crore Audio Clip, BJP Claims AI Manipulation, Shiv",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PbUpKUXZYaXlJYXU2OVJnWVJtWGZaSTVEMXE0LXo0eWZmN2ozV2xZdzRNaEJ1OFhiVWxHUUxsSEdVNmpzcTVBa2lfM2RsLWVxTHJFWFM0dHFPWjdhbHpZY3hQS283bWp4WWg5UFYwU19KUdIBd0FVX3lxTE5seFFJYVcyX0JYM1B2azlGTFBzRURkMEU4dC1CZ1NKMTBlaWswSnU2Y3N5ZXQ2ZFVXVENlVWxidXNORGNzQUd5UzFlR1BrSnhnV2k4SzcyS0FHU3RrTHZTZnJwNjNKZUQ2NWg3UVlTZnJxX3FaZlQw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

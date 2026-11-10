@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "Karnataka to shift State Data Centre to Electronics City to build AI-ready digital infra",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGJhbGJ5bkVVOGdUVGlIQmlMdHpkQzVDQU81LXlQMEJsYXRvaXlZa1psQklrb1A3UHJIaWhxcHFqRlJaSmx3cGRGcHo1amRxTDNQd0hTRDluTDRncXBsU0cxNUZ4WHlueEpzaEdPYWljVUdkZlNwZmEwM3JjdHJ4bFVXbmRPcWxHUUtxZmxlSVhnVHotdml1cFB5TkptVkNVbm4ycWQtNWlwdWVzandrdERFczdWUkkxWWs2OUZtbFZRZXVIbC1rdno1UTJhUHFWTm9jeHFqWVBfd9IB3wFBVV95cUxNeG9iZjFMdGQ2d2JCRnVLZHdmaWRiUGdacURzY1lKQW1WWTVvdExFal9pc2hWcWlIb3NpY1RpZ1V2cEFlaDIybzNkdVdRc0trd01icGJfS2Q1U1hHbjdTcVE4QTNGTXFPWFMxRGw4aVdmbld2N0xBWFoyZkhQa3BEcVZFalotNXRkUHVmQ3NlaVlYbHFUbmxjcTFLQTA1ZmZHR210TEJfLTk1cVp0UVdnbURzejg5b2FGNk1IQUFlUVZPOEdxcnJsTEdFRzNhSnRBZlFITk9pYi1sMlotSFQ4?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IPC proposes Rs 17,000 crore green data centre in Tumakuru",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTlRdDZfZTJKU0lDWE1fcUFZWWlWak1OR1N5SG1Mc2ZtTDJGN05NeWo5cU90SmZmZTNuaW9oR2FkOUFZUUVsYlVBM2x0c05JZnBIWEhaMTAwTkV0WTdDcEhWYjRSLUI2NzVubHFtOUdXNkx1UUZydEJHRk5nTkRGWkZIeERRWlUteDdRb0h5bjNtU3cwVjBLeGFkRzRIYm4zbHBMQWZ0bzZoMEVXYnVz?oc=5",
+   "published_utc": "2026-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Thirsty data centres, thin regulation: Who is watching India’s water?",
+   "source_name": "Down To Earth",
+   "source_domain": "https://www.downtoearth.org.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZm5kOHRLRzZpVXA1MEtWSEtzMG9DTjRjb3dKRnJTNlNKR3FidnhVN05CMENHVkZoVGtZSnh4b3JhM0pBUGpmQUEzMGlMM2k3YkZkYXRqVzQzSm9GZ0pLYk5wLS04YXVjOFp6WG9jeGpxaGMzdlU3X1ZodXc4b2lYaUEzZTNtd0pyLUZDWmtrNWVXNjE3aEgxTUZaOGhmX2JGVXhLclZ4M0J3RlpSQUdyVXFTM2t6Z9IBwwFBVV95cUxPTEI3SmV1ZHZPZVZvTk1zMDdjZTRjUXFoaE1sRzhuZ3BWOTRjb05odVpaa1JlQjQ3YVBSaHlTR1JwbWdCUVdMMDZoU1gwNmRBNjYwOHNLa3RkYVZmaDZFWXhOQ1BpNE5CMG5odFNBT3J6aXgwWWRDbTUtU2pud3RzY3RHdW1NdVFLVXV5cVYweFQ5dlFFM2Jza2RRbHpYalJxZkxPUUk4eVRoQjRrcEIyUTNWMWJwM1NPZk04ODdtNjI1X1E?oc=5",
+   "published_utc": "2026-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian states are in a race for power grid dominance. The prize: data centre expansion",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFNHT3RCWHRlMmhiM2VvYTVoc1NZUGlUc0dtQlZkS3Q5YndPTklBQkZURUJ5UlVTMzA2M1FHUkFkVkVsQ3hmV0IwZUJEc1JZVDRHMTQ4SkRnTlhpczUwNXc1VWEzTmZlcWpTdlRIX3otQ1ZTcHB2RnROVExaaldoNEJvQ205V1oxVS1nWExldGdvMmpNUWs0OHd5UkQ3dlhVWllaYWtJWWdHa0tCdEEySjN1a29ZWHlMTVFv0gHAAUFVX3lxTE1KaGwyU3NfVFVVeU5nemczeVpZM1djVkJ4VF9sN3ZuaHE1Ti0xVHFUN2h3UnBSeW94MDlMMzFFUEFhNndudEZSc3JyMWd1c3puUlRYZkdYYkZ6QUlMbTlNQy1sWFJCMGlXX1psZGZWcTZaMVVfYVRtaTRac3JZVkNxWlhubUxVOGFtTUZtY3dkY1NaTkhHN2RubklkZ1FjM01HR3FKdF9EMmRBVFBWVHVUMG1ycTZaNVgxeHh6b1pETA?oc=5",
+   "published_utc": "2026-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Luxembourg's IPC Proposes 1GW Green Hydrogen Plant",
+   "source_name": "Fuel Cells Works",
+   "source_domain": "https://fuelcellsworks.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNME85MzJBZkM4VmdkQ0tHNWNXSm1XQ1NmMGhXUk1xVUFGNmxfM3VvQlh6MXBUMDBFUnpvVHdGVmE1ZkpLVjM5b2xfNm1wbV80VFp5cnJHUjAtOU9OME1kVDVvVGVMaFktb2ZRRFdVaUxwalhJUWZmVERJOVhBS3gteGNFX1lwNk1UWDZxbFdlV2o0WmdLTmc3WU9XNVY3bG43endoNFFfUk5XR1ROa1czRFZnQzFmMVF3YlpLLXl1MFQ2UkRvMVY3NlVTNURNcEMyZDRzcng4RHJnSkhYekNCV3dYVmN1Z2pZU2dfWDZJTl9oVVdPN0kzZw?oc=5",
+   "published_utc": "2026-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt to table AI University Bill in winter session",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzQzX2xFczBmbjVBek52OUkwTjRmSVJrblNwQTRpcUd1N25yelR3TlNIa0c3X3M5TThHeWFweHE5VzZLOEJmNTZEU2VIUzAtdzFZV1NCUG90QWJpRHpBakljclFoc24zM1RLRjdxdXV2bklDZjE5cnhWSFdHa1A3QUlrQ2hFTDBxR3EtVWJ2UHNKR1ZWT2Nxb0JMdzU0dVpnUVktWGNKQlVvYTJlMnVqWEw3RQ?oc=5",
+   "published_utc": "2026-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bidadi AI City Project to Transform Bengaluru’s South, Says DK Shivakumar",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWVidHR4ZEpzVzZMMFo5STFkYXdGY0Q1S0JTd0NxZnd0cDgyUXFNanJja3BnaUxnMkdwX2E5SG5OZDQtT2RlelZFbV8xMUpqallwb0Y1SGpXem1uZUtjdG9kV3g0c1hLZHdQR2hoN3NHbTA4b1Q4b0E3S1RJWjNESXFTWlVSamNoYjhqeGNlWWt3QXA5dTlmdFhNUnAtT0RuYkhiVHlSWWsxb2lRNUg5N0FpYnM3TnBOWG9SQmRoczYySGN6RFFHVGVtM29xNHJtVmcw0gHYAUFVX3lxTE9rQjZObnNNRnJxZ19YNDdNdjk3SVFITzJEZUtyQmVoV1MtYkFVSFZ4MGhmWGgxZVJNaHBPN2pNMlpGcXdlWGJONEJZZGdyNWZGcG1SSUxQTTU4a1gySHdEQ25zMXhObUZpRzdJN3N0QTd4STVuOV9iTEFYMlA3LUU4Qk93RTZXX3p3VTFhRW9zX2p3TUdqTzhCdGR0ZlNwTnVxaHg4djdQOVZoTzBNVEdSc1pXbE9TMVByOHpHT1UyWG9HMUtNNWpDbFo1QUMyaUU3QVdHeDVRNg?oc=5",
+   "published_utc": "2026-08-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 83,480 cr investment for Karnataka: Luxembourg firm outlines plan for data centre project",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVThQM21LVnFPUnpJMEhFMEMyV2hQbTFrMWdUcFFUams0cFRodlBuMVRVckM0dUpDakZrbEVzYUh4TmxhTFpXWGxBeHR0djEwVVV0RXhWSzEtSmxLeDNobEVxUC1fOTBERU5QSWxkWGJhMmNlUTZOSnFxMFB2MjJxRWdiejlkaWZQNnlMZWUxZzVjR0xjTEgzdVVUWHQwZmU5R19fTVR1TFZBWXVndEY0QkVqNDlqMy1oWXNLMGo2clRkTmVsRkRKc190ajl2YkVRQkIwalhtQzgxekRZVkxFUjhXUnlLR2RGcE5aYk1iXzdJbmM3UElXTlNZUlpJWVhhNTdMSExueGJNeTTSAZICQVVfeXFMT3RXSzVRaXpDYy14ZDhoeWF2UmxSc1E0LUp2eGw3YVJPQ3dtcmhOWW9MUW5GM282TW1WU2R5Rm5iVXB2ZldkX0VYVEFFaE5iUHB5bTRibUxSVjZObm9BQVFrY3g0ZHhyVjRKZnJGQTY0Z3VUTXJ2RzgzcS1RY2hGYWlsUk1qaUkxdkttOWZ1c0V6UGJjT3BwRnpLZlpmTGtleTZPSzlNc0JTSHVmSzE5dkxrWjdlS0ZQeHRtaWxCN0RJa2VJS2VNTGtxY0prcm5LbVhZSkJrRW9iTUVSbU5neUJmdEtjbFJvMld2STVCcnh4OHlrZVdnUzh0LTBVaVVTQ19SYTJqUmZ1LTZobGlmcE16Zw?oc=5",
+   "published_utc": "2026-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Luxembourg-Based iPC Plans ₹83,480 Crore Data Centre Project in Karnataka: Which Corridor Is Set to Benefit?",
+   "source_name": "Trade Brains",
+   "source_domain": "https://tradebrains.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2VmYXdGTHV3eGd5ZWRsMGNYREFGM2ExX2JVTU9DS3h6MW9Fd1poSHp3YTIzY0xldXVzTkNYaTlLSHladWVfLTRibGEzMG9wUGZ1Q3BwLS1kRzcxdDNsb2xvUXF0cDV3MDVocGwteGQ3QlFVNktDYnU0UHlSalZfdVhxMnB0NGtNaGJkbnpKc1U5TURiVkExQjhqY29Md3JIcF9ER2VCTXFReGVneDd6Mnh3OEpUd252ZFI0eURsQm9QTk4yOWdPNXhhY29Cbk0?oc=5",
+   "published_utc": "2026-08-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka leads AI revolution: $153 billion startup ecosystem in focus, Shivakumar govt plans India’s first AI university",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdWRUcWpFMTRyVUUxODcybVBYUHB3VmtJa1BKdHdGTkRQb215RjR4MC05dkZhQjZJeHB5QjBwM1JHOUNoVjc5YlZrWnEtbDlUMHlkWEsxQ2lPQmZxWGx6UHFBSXExX2h2REZ2aXJLdlljS3BmekZ1a252Q0hVRl9LSTlnOE40SDRiUFRQUEp2eHNkVTEtcXFNUWZpXzE1UXIzQnBNVGp0WEQzMUdIcUdFMi1PQ3JIWUMtM2lCd013ZnJaUWh4WXd3VVk3UjFkSTRCM1BfRG9SVm44NUxqaUpQNENkSFRSVmdrei1iTE1nWTZkTTNlODJzT1FKYm9ucGJ3elo0ZUNVQW5PZlBaTWfSAZQCQVVfeXFMTlpTZXJpT09WRzR6aHNRcldRVFE0WDFxWW5lVjNMeVpsZGEzbDJWWkxUUVFKVkk1cGE3ejhIQjBqRXlTS1JLcXNoZ3BfbE5LU1VWeldWUWwyMlZ6ZzZFUFdNZVJQQVlJVjY4OEFhWVpwVnFBQktRM0xqWWhsMENpekpTUWNmOUhTczZCVzliOXQ1RkhsNktDcHNfSndRbjE3cjdNVUhiazhabEMzeE8tdjk0eVAzYTdEcXdXQ1lEdnlXaV9VN0ZvcVBLV0dXLWVhZHU5bkVSRkNBOXdFUVpNNC1oY1o1ZzN5WWpGYk50b0s0aS15RUxLelJJSjlySWR5TXo0SWMyVzNzN1lGV1p6MDhTUW1T?oc=5",
+   "published_utc": "2026-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

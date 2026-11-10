@@ -1,0 +1,93 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "How an AI Voice Assistant Is Helping 1 Lakh Farmers in Nagpur Make Faster Farming Decisions",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOampGTEJCR3FLZjNaVTkzQm1rMlJFQkJzTGk1d3dmcHhadnN3SnkxSGR2eV9jVjgwd3NJbGxDcGpIM3JjTUdvbTdDWjRDdDNyVUNqd2hSeEEySWkwcW9TX0d3ZEdnb3NnS2lCUERaeE1pZU5ma1JlaWJCMUQ0ZGt6bjBiQ1ZWRko3b2VHeW1pakVIQ2PSAZgBQVVfeXFMT0xBV3RxbEgwLXpHNi1iMERrbUNWM0MxQzl5Q2pld3o3THY0ZzE4RHJFUF9rdWlPbHJHaFBzZXYwUkg1TVRPbGhoYndhLTRDdEVpeGRnTGNEWjdXMXZsNVBkYW44R3c5OG5CZzhGd1ZxNHh2RzBGTmZ4bXVoT2RJNzk3NGVpbWNuaUJGYjZOSGhDNGUteUZfbU8?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra signs MoU with Google for AI training of over 4 lakh teachers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmtGTERkM3QtRjhNMGp2X2liNEFxa0JBS0RDb0RwMURSN2xtT3RxZWViUnZLcWRncWhnc2dmaE1sYzdlaXlHNkR5dEZlWXpya2E1VTNlUTExY3VXekd1ZXVCZnAxVDUxQ1F4aWE2YWJ0NVVkWGlMT0VFTTZuMEhFTDBUd0pvRHRBWk1aVGZmcWVJZXFSSEE2SmFlMjNtcmZVY01nd2lwZGthSGJDdzBUbjlya2tuWUtDdl85dlZJYWdtdXBjT2fSAcwBQVVfeXFMTzdDWkRaMU91MVV0S19xUFRya0FHNFpMS3AtUHZIZ3VGdnVtaGhPUGdVR0ZzVmtmb1lYNnNzd3Yyb0EzUDZFb2IyN001cWxJd2Rqc1VrUHgyeWJUc1NQcV96SXlxWVdyeDFSc2F3UDFjX0dOcWJ2UlhiWkROcHZmaFdwcGpYelN4UEt0LTBPWUVIdHk2WFhDNlNOUzZWeFBjdU1ZNlhQU1k2MVZ4Tzl5S0NaVUtlakctMFEyZ05IQWhSYzhfbDVkTXcxa3Nn?oc=5",
+   "published_utc": "2026-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Launches ‘Maha AI’ And Digital Governance Reforms To Streamline Public Services And Welfare Delivery",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNam1WOFQwRkgxVDljSUhaNTdLTTVZN2RPT1Uxb2lLTllQTUtKM0t5SDc5S1FnQXFGbDE4MExrSERmWExFblhVaUtZbnpWSUFMckhGM01SeGJpTHBCMUJJQmQzaHZtU0otY1BTMHVnN1VfQVJMRngzMEp0VS04aFBQYS1nNXlmSHpSTGlHLXVmN00zMVFiNWlnaUdjWkozRnFRWHJyM1p5b3lnOWJkUTNoNkhTbXVUWW9SR0Vjam5qYko1cDVhV05NUmlyNm42d09YVVBOUGNwNkJiamRkbWfSAe4BQVVfeXFMT0RDbUxDVFFiam1ya3Q4RGNHR0h5QWFJUkQ3WGFob0NFTWpSLXRkb0EwWTBicXBKc19fWmUweXI2dlp3N2hPQmtweWtNcXV1VE5mUTlfQ25fOWNibGZEOTBwcnRNRmFuZmJabkJrQVJtbjVIS2lkZXlSSmNqMGt5S0pjNXdsN0F3OWlETUlHT29ISnVjVUV3OUhNUFo1ZFNCQ19zY3hmMUVxZmN5V3pUZGlsUDB3ZUNwWGdYa2cwaUJEWGxrNkVnczZmQW9STDE1RklSZWFZUk0wcHgxTnFnUnZ1bENpVHVYRGpLMFotQQ?oc=5",
+   "published_utc": "2026-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Education Department, Google Partner to Train Teachers in AI, Digital Skills",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFBYZFNuVndxTXVjaDYyUXh6TWJkeVdPT2RIYjBoSVNZTzlVTWlSengyQ01xdWR0TEdaa0tZemp4ejRuZ1BKWFZKNUlIc3ctZzY3Z0MxSk93Q1lQc19rR0ZpVHI5cHRMQUNNeUlYNzF2X0JIdTRXZ0I1TTRka05KLTVsOGtCNzhkdl92cDB6b3JWcmU0aVdGUXpLWFBNMVdQOW5XSHlrZDE0YWxoM2k2UE16a1JrOVVWV0RLZjNHTWk?oc=5",
+   "published_utc": "2026-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fadnavis launches indigenous 'Maha AI' model, rolls out digital governance reforms",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSGdaZ2tDZjl4NklvY28waDJWbTNGVkh6SmMwYzNhekFrS1k2TDN1OFYyYUhqd3JXclBxd1RTSURHRVlFemc2V2w3bGM2RFc5UUZLbzI4Zmp3SkxJTExrOG1tbWRBN2kwSnZjNENtTWpIWE5jWll1UURYc3piSFlLSk1aMGVIWWp2YW9zV0dBbERIc01VWFU2ODJNd2dpWUMwZzJrTUt3UEZMVHNjYVh1dWFqM0hUNllWNldGYk1vT05zY1BoQVFIU25iSGZIRmd2S3U3NE5Sc0VJWkVGMXMzMmlBbG56LU3SAewBQVVfeXFMTk5HTWhqblN2WURaRkRIN0N5bGlMRUFXQXpGNk0yR1lza1NsWDhuSjBfMXgyQzBDN1NqRU80Z0p0bGZ5cWNVQzdBMWt5R3B6STJCVUVpNjBDNGlTQ2RkdWlFSVZnd3pXbU1udThEb3dyY3NsOHNVdlV6cXFWWWJzeTlja3YzTHBlZFEtc09zQl9IU2NXV0RnLWJTdC1ZUjlieE11REZuc0wxSkphcF8tZkZVeE9KWXJ6MmRZczlmWkpyR0g5YWlTT2QwQ2QtYVg5OE8xTEd6Nl9IUDFBMnR2OFBscFF6X3pZM0lWZGQ?oc=5",
+   "published_utc": "2026-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fadnavis launches indigenous ‘Maha AI’ model, rolls out digital governance reforms",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcERsUC1DWTVpUzdTbjY1aDBHYjBxMmtxa0RweFl0QldDYzdHMXJsakxZZW5YQjJGZ2tMbkdZSHQyZzFMWVFrcXgyMnY2M0RWMGw2ZzZfMmptdEVBZDZ6OFk2TXcydXgydm9haHBNbFpRN1d6b2pERWNyd2ttX2pvN1lnd0ZHUGRKaWhMZWQ3UTRzSmpBcTEySWNrbUdPVkJaVGJQS2h6TFpLTGNMQ0dXdkt4U1rSAboBQVVfeXFMTVQzRlJTNnZZcVAtano4eDhIVG54N05KQXJud3N6SW5rSnFZQ3V5aFctaVkzNmdpSGxYZ0lLdmVyZUJSNERISXdvc2ctLTVGX3p3c3dfSnlpMXA3bVZMenJibDJtRHpHd0I4X1ItZzlQYlROc0JrUWJ0ck9FS2p4VjJ6ZlRnbzVwZHI3NTVIZ2tuR2hYMnItSXhjOXpiUWZBcnpObTVBNWEtclFxTWZrcDZMMzdaLU5nWHd3?oc=5",
+   "published_utc": "2026-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Flying Squads, AI to Help Detect Frauds in Maharashtra Govt Health Scheme: Minister",
+   "source_name": "Outlook India",
+   "source_domain": "https://www.outlookindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGVVZUs4RUpVeTRPN1ppMTBtZWhlandhdWpIY3Zwd0pZTXEwTEZ1OU1QLVZlaUV5Y1g5ZXYwY2d6TkZqbWRrSlE0YVFBS0VSTEhnVDRqR1RVc3B1OXYwdXRfSGRjcXBXZzFiMktVaUdkaGhucVFwZ2ttUEVoNFBOUUVWS2hoU1hNNnh6LWRFYmVHN0ZTYzdwV1VLYmJjd3RpRFVXbzBLbTlCcnhDZi12RlFHYVY2V0lxZUcwdjV30gHLAUFVX3lxTFAtMGVNN21lTURYTFJMMEcyMWFrX0ZEWXpOSWk0VVJKZnBLZjc5UHBnamhxLXNjWi1uYWdMMFVVTWYwZU5WS3BKc19XTExtZ0ZhTDAxclktZEhMellCTXRqY2d3bWxYNVYtclk3c2dTOGJZb2Y2ek84S1M3UHNrazRVS0Q4MkpldGpKTWNUMEE1RmxHYXZuc3EwSWhTaWZDaW5ULWQ1UWRJemZ4bEYxYnptWEpaLWVEcWhHMFlVMWl5OUQ2WWhaSmM0bndj?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra partners with Google to train teachers in AI and digital skills",
+   "source_name": "Education Times",
+   "source_domain": "https://www.educationtimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY0ZEVm1rZjFvczRYQy1xVW1yZmxrREN5MGNrTktxZ2FnUzlZVURlWFZ4d1VjclplcHNjNVc5OTFGNzZyZUFEbW5pNTZQX3JQT3dLWDhPT1RsbGdRalhYbEtrb25OSC1NODFfYjBmek1LZGxVdjNTRGNWeFFxTzA4bG0wUHgxN0hVVDJSeThteVUwVTdXSU1pdEZIRVVSU051eHdHRFY2NnAzZWpfckhJb181encyYjJsQ3U5ckN1SkMzelRxTnc1Qnc2Sm0?oc=5",
+   "published_utc": "2026-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Get New Private University With Courses In AI, Law, Architecture And More",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWlSUDc2SzJPQWMzQnc4V1VVc3dPdk1kVkx5Zmtma19FZy03cXAyUnF3T0hkcEV2VWI2OEdJX2dVNUo0UksyQnkwRUtOalZHWXFBeWVwR1I2ZXA1bDk3aEx0WXNwZ3VBYUdLUEhyNEhVTm13aUZnZ3h1X2F1R2czZlh3b1F0akNONmtFTVNFQ0ZKbnhxNlhBcmtydi1hSkR3OGFFMWFRRC1ib1pUcjA5bUc4RnYycHJNa2s3ek1BOWVqUnFEY1N5ZlRhYVpHRktwV0xNVDBvd9IB3AFBVV95cUxOSTA3RnVIRnV0MkN4LXJQaEM2X0M5Zjg3eW1mdXE2cE81SGVVN3NKS2VHeER4b2ZpZllHeEl1Wk51ZndYZ1FTcTBnMUJkcmkydzU5MkFhUF9aSW4tSGtDQ3JjclEwSnBRQXR6MFZoRXJRWTNsaFUwWFczT3BFOTB2MTFiUlhQTGVoMExZc1ZCaWJfT1kwbjA1VDBNbUtYSzBWSUszVjVTTDNGWVZ0aG5sZUh1dzF6bl9jZ0QtTU1QQmsyeU5NdVFTMDlkMm9JYzdvZkVzWDRFVTZ2WlZK?oc=5",
+   "published_utc": "2026-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra approves Reliance University; Nita Ambani unveils plan of 410-acre world-class campus",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSG14Z0Nxc2FrSEU4OFZvQnEtZzEyZFYyUGF3NVAybTFhM3UzRWFweUVadUFwVERZNHdwS3o3Rkl2a3dReU94UUhvYWFUQUh5OWxWVFVCWGZKcktRaVRIWkt4SFMwUGtZWVFBUVItcjlaT2lQSU5HUVZWSE1BcUt3UWVDNk9KbWF5TVg5cnFNdXZjQUhFcTFDN043Vm5adXpZSXpob3hMTnlJdFpKLWFZRmFRTHNCU3c3azNIMHM0RWk1Rm5pQWJsSFpuQ01hTms2U1UtbXQ5cHhUeVc5dHRVaHNsV2PSAeoBQVVfeXFMUENvQTB4SVJ6QUVxQlpiNmE0YU0xZ1BZYTB5RnBYNHZoYWtFbUVTUzBoTEF2UzN4S0ljT29BQWlzay1TLVJOUGh1NXduZ0ZMdTYwUm1nOWJJb1BxYmdHRC1sNUVuanRLODRrVDZWMHZ0LXcteVJPSnRMNkxGdW96M09aRHdWVjgxTGU2Tm96MmVuTWNCUzQtS1libnUxLVRMdnhlb2xPdzJVSEduZ0dvb2s3a0ZYUlVyblNIbVlYdVhMbEx0YlVueVlxT012NjdSRHBRTTZWRG9UZXpETkx1dHZ4NmhDREpCY09B?oc=5",
+   "published_utc": "2026-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Signs Pact With Google To Train Over 4 Lakh Teachers In AI And Digital Skills Free Of Cost",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWk9QT2tLRE81OU1SSC1rTHdaMDNWaHczQ3pHM3RnbHlPSk5VaWZVTlI0RlA3TF9hRnYwT2ZFZkROdlJMNVRSQjhJcHFuMU4zZ0VNbEYxNHlDOTlYY0ZlMzNuUnNmMnh4bWw1OXVIbjBmSG13S3l5VmxneEplbWxIUFZkWDU1amM3bDl0NkxrN09WaGRHUm94MjhNb2pZNkt1dV96VjBZcGY0T2NOdUxlWjhPUmdZMUV2QVc4OTFXS05CVHYyaDgyeTFMUHlORHJJQzJiVUxVSFhSLWJp0gHiAUFVX3lxTFB5MEtibGV5ellmUGdHZkR0bGFKcXZtbUdDWFc2b1NzUkZ3dk1qMDV1TTVoR1E0eXJ3Vk41WXdDeXdkZ1F3WTBjd191YkFGdHpWdGJHZW1aYm9IZUd0ZDlvMElGdnNrUi1FX0lrZm5EekNFYkJtYzFDUGZPTFo5Zy1YeUlnUzBkWjVIdER6d013RHBhYjR0OUc5bTA3cHlobXNMWFpfMlhHSWNMaThPRVQ0dE5Od1l3dmR6b0w5VzhmM3RYdzV2ck9rUEd5OGhjenhqLWtnX3ZEel9pS2Z5M2I5RHc?oc=5",
+   "published_utc": "2026-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

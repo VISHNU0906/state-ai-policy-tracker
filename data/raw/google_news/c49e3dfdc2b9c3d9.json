@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Why the BJP’s Tamil Nadu Strategy Shifted to Rajendra Chola and Tamil Pride",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVU1LWVvZFpJb3AxaUdLTk1IeEg0SnVLQUxWSzdTbUl5QnhZc3FSYnU3Ty1IbjRxN1haQXZrcDc1MHBid3puandzaWhHYnI2SmxFMDIxWjh4Smh4Nzc0d182NWlobHh3Njk5akxtWmxEbVdvb3RNaXBTQlBEV0c0X0lna0RJMnhvUC1uM1ltRlVDSE9wVGpmRkJMVkNOQzhJSGMwNm9IVHhBUzjSAbIBQVVfeXFMTW53VkZIX292N18zQkE3bnVJQldEN3gwNDJuUVdTSmhFWE9nRUNjREo0X3R5dlFCQy1zcDkzYUFYT2g5MkF3VUt5OFNWdUVBSWJNazhQdE5FQThnNWpjbUh6dkk5RkJHYzA5dVN5QXBLcXVWU3g4VGpzY1VkbFRqUDBGVVQ5NkFnSXE5aGswUktqLW9COGhlSjhSWHNXZWtQZE9kTlZQVF9jT1hxN01kRUJoZw?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu To Launch Scheme Today For Doorstep Delivery Of Government Services",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWE4R0VsdERpRzViN3NBZVFnQnFQX0hIb2I1WnFWdGxtRHZNOFhvUVRJTlctTUtIaC1uZHJrVnpqYUxnSnVDakt3SzVkdC1KclpZeThlTXNaMUdyS3VzWHByUDNBTkQxZnpaSkttcXlUWnVFZnJScVd4dlpNNFJaUzlOeV9GWWRfckFWdnRmeTRlN3FCejV4Vnc4SdIBowFBVV95cUxPeHQtdjV4NjlWNlRwOXJzWEpSeDI0VWlVbjNodGNTOUxTY19lNFJfY08wWGpWbmYtaHFTUUVCazZlQ0dUQ1F5UGNja3pnMXdldHpCRy04RTA0aDBLRXUzTm82MUFiNnhwTzBuVWJ2aXJYY0FnQzlSSkszYk4ycFM0bDdta2VoVjNVeWhBRkhmNmVNY0stRzA5UjJ6dHc4cV9NNWhJ?oc=5",
+   "published_utc": "2025-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Keeladi: The ancient site that has become a political flashpoint in India",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNmtxSVNoZndSRVRmYlBFNVYzQUtwdzJGOUkzeVY1U3ZCMnFtRjh1ODFyalE0Y281RkdqR0tIdXk4NkpBOUY3T0RRTjk1SDZWLUd5enZPTTRuZw?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala falls behind as Tamil Nadu eyes Vizhinjam port windfall",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY25TTTc1UGhCa1RGZXRIUFN5cDFmbzNzMmd3dGxfd1d4YVljb0tvMVhJNk4yNjF2NnR6YVZUQV9teE1naGVES3NzSFM0WFlST2lEaGR6V3FReXpiNXRnWnlDNVVubWRHLUlfdWZON0NBbzB4TkpwZzU0eTBwNFg3Tlgyb0JwcmlqMnFNY0NzdnN3WGpUYUE2cTBKa0NrR1FIV3AtMEVNaXNzN0lvdlNENm05cXliVGJEOERsQi05LXMxUUxZcTBTSzZIX0YxcTA?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Stalin Discharged from Hospital, Advised Rest for Three Days",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmpqb0RUUkhra2VTVFE3RmRaS1VDRHlCcUVmVG9TUFMwV3F1OHZhLVZhbElIQk0zcTRvS2NkNU1VYTlxMUdQWWE3bmg5ZmxDUWEySFNXcmE1UkJtb1AyOHlYMnRreWRJTDNZVEtYVDZMT0lGcWQxZ3VPcTlta0dqRTJtVmxOVHloNlEtUjNhazBwdFoxeU5lWUFGeHR1OTlCanZrWmJvaTZCdXQ5eXExZjdTUFZiNWlPaURrQzV2NG10cDktMVFmb3dDY1pVSnlONnV6a1JkY9IB3AFBVV95cUxON1FJZlkwLUEyd2YyU3Rzcmd4R0lVMFRfVW5ObC1SbGJKRXhtSGFOOFNOM05BaWRZeE4xZzkyVEpCd0ZVdjRGYnRBS0kzNkRGVkpjQlg3OUp1RF90OGlicTljcDF6c2dfVGJVbHphRUo0Zkh1ZzJJZnhGYWdYSlJzd0FWWFMxWHV2eDIxMDk2c2pUcjBJUHJLSXRqYVlEbmRmQmRwckd3bTEtWVdxUUF4aHY3aUF3N3h2ajBqRjd0SnNsX2hJLWVNd21DR2hVRUlxemZHUm9xeFlBb2w2?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu 2026: National Parties Push for Power-Sharing, but Dravidian Majors Hold the Line",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOci1Wd2dyR00zR1pYVnRpM2FvdnRORUVzZndIVFd4dEEwSDU3dzQ0TG1rYVFZQmtyWlNha0dNc0NYZVNRSTFzcXA5OWdHdjQ5bUpBaW5sYzZZZ284ZERhZ2RqZV8zR3JNa3hrM2pGQkt3c0k3ODRfRk1sM3VsMWM0dDUzQW1UelA0MXdZM2RaSU53SENRVzhGSFpBTFVSTnoxQTBGb2xiWENHZkNQUS1QNWVEZm5sWlRWcV9SUEkzNFUyQdIByAFBVV95cUxQLUJNZmhIOWh0em1TQU9DMExNX21iRWp0ZER3Xzh6ZFR5U0NGc0c2SmJzTFBqN3BpMmh5dVA3TGlaa0g0Y0w4TU9IUnpSdThMby0xVDVzeUFlYXFsT0J2YkZSWFR1Qm5qbDBKOFRRSlFwZktTSEczam5FVnVsTGhvMk8xcEtvUE15c2ZoWmM2VkVmYjkwaHFhaS1INk5pYnVEN1BiSWtDTm1rYm1Uemx2NTZoMjhVUWUxX1JRMC0wNFNtNjFTQW0zOA?oc=5",
+   "published_utc": "2025-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IAS officers as TN govt spokespersons: Smart governance or political optics?",
+   "source_name": "The Federal",
+   "source_domain": "https://thefederal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXp5T3hTVFdLUjZCX2gxWmszMnBIQy1mb1RydExSTkdnS1JqbmlfZVRfaS1KbkxFUW5pNmx1T294SkY1anN0dFlvM3hBUmNvcUY4T2NVaHh0b3kwbUJWMWhXS2FVWnBUR05sVHNyZVJ4RlB3QkI4Z2hFMkFWdElyNGZnRWxRQ0Nnbl9EUHhIaHZzUTd4Mk1nX05UcXprd3ZwamRRLTd4QWtBVWM1SV9Z?oc=5",
+   "published_utc": "2025-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Garuda Aerospace secures govt contracts for AI-powered drone solutions",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTzZvUHlVclFjV2IxUkVQM3RGUWlsQ0pOTmJTUGhVcXEzZ3RHS3ZQNXU4RjFPTFNuQkJuNWJkeFNvNUxTNWpPd0xwUE1PS1VxdU03YnZQcEl4NFZfQzhZeXVzckZrTzJlUmpXbEk0VHdmVEVBd1NhZ24waHZqNjkwUU9WZ1pHRzBtcGVMeFUxUkNPZ2ZOLVlqcDl4eFVRY3Q1aW1QSFR1cnBfV2ZvQU9MMWd4eWFRZFlBNUZuVVE1RndKX3NsdW5SRFpUUlJDUXFNejk2SVRQTU9ETFVsT2pwUGsweDRrNDVHeEHSAe8BQVVfeXFMTTgwV296Q2pjVEVBUmFVQVp1cjNFSmNGQnZpM3VoMUN2WUVaVjZ1Q3FHLUpHVnl5YTIyeU5YeGhleUhqTG1iMUt3TmEwVHRELTY4SGczWl9tT19tTjFXQWV2REg2NHp3clZnMVJUUzN0Qlc2RmJMWnh5SGpKZ19uUEU4STFxaG5BS19kT2FRN01rMkRoUDRGbHNlZnFBV3NQLXZPd0hNcS1HcEdfSjBYTjAwWTlZUXBlTTR4M0VST29Xc0ZjNENJV3NFZ1ROdUd1ZHhocW5wWnRLQ2pIWm11eFM0SFV4LWNjelVXTndEZEU?oc=5",
+   "published_utc": "2025-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "As Quarries Multiply, Tamil Nadu’s Courts Struggle to Impose the Law",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW50VWNGeGFjaW5jaWZleUlqTVZrdDJvN29aTWpETjNxdXZTd002d1ViZjNkOE9uQ2trV3NrbjVzdGpCS3VIWFd1X21WaHFIQndYS1M0azVqRktSQUVzRWxtZmpSTkRzTGJUQ1VuTkl3cXlwZnloSXJfcUJRbHQ3R3ltME9qR3RXdnkwb25ac3nSAZcBQVVfeXFMUGZlREt5djZDSUs1QVRJQ2RwN0d3cTV4NVdoVVYxOGFEZzZ2UlpwcjNMVXlvblVkdUMza3dqb29SMGRVcC1RRkF1bnFxMTNBUHNHZDd3X25udktnQ0V2SUltMDRtZ0lrSTVteEEydGtFVmRiLXp1eGlabHRDMnpRREJHeHZOMTRqMk9sczF1dTJDRzBvbzUzVQ?oc=5",
+   "published_utc": "2025-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Railway Minister Promises Level Crossing Upgrades After Children Die in Tamil Nadu Train Accident",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWEg5dlpiRnhOTnVTZXNJdE96RlhTQkxKMV96RDJOcmtEcG1NYlJPWU5vRXIzOEhOeHBUQzBfVGZubFBjUFRHSEYzZE1uaW9KbUxiSnBYdzJyMlRqQ0plUWVLaTZreGN4b3I2VU4tVEg1bWtwZjlDSVJlU0tRdFlVc2ttOXJfRTNJMmxIWFlkd0xVc3FKeXdySWgzMF9ZVTB0M2FFcThGODVPLVhMWkF0WnItUHNDZ3pISkpjR18yNXZ4U1JDWWxTRGdsX0Y4dllRU1HSAdgBQVVfeXFMUEw2MkxYblozU2hRZ3E5bDBUdnBuakp0NzhHMTUxRE9DMzh1MzJSZHIyUk5CWE1qNTR5MTJma0czcG1GekR1ckFWTUJKRHZnXzBST3RtY085UDRHS19oa2h2bEYwY3p5UDhiUmtKUC1rUlZBWHdIWEdvZUd4UDRMaHhqd1V4OUhIbmRFVlJQYTRzQUh0bHRncEZxYjlvUmQ0WC1kV05ROGREZXZZcGxNWGpJXzVkVG9ZakpZa3k4RnhWdk9FbUtCc1N0dVo5eWV6Y1JYQVRYVVhW?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "CM Shri Bhupendra Patel Unveils 'Gujarat at 75: Agenda for 2035' at Mahatma Mandir, Gandhinagar",
+   "source_name": "CMO Gujarat",
+   "source_domain": "https://cmogujarat.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGJDZDRqdkIxY0cxaDVPYjFCbmZEZ05oS2w0a2h2SW5uek1jcXcta0hTZnBSb04ybFM2WUs1emF6Rm5YOXpUVGM2Q3AyYVVrOHZLMi1yU0RlX1UweUlaYTljaEZIMVVxcFhfZkFIQ09URmlnYWxPOEdONTM0cTdxMkw1NDVnWGo2OEU4?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Pipavav Port signs MoU with GMB for ₹17,000 crore investment plan",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa0RKU0N1cVhKcjU4eWV2TlRwQ19FZTdSM1dWNjNKcDRQVGdHVDJuNG9YUm52eUxjeVFDVFA1OXZLU3NvSGo3YjJCUmU5WTlNcDBUcnEyWEdzM0I3WkRQRVNEQldPZTJHUjEyYXdGUkFlbDBhT1NTSUVOdzJRT0ZkR0VrSnVFaHdvc25RNmlUX0NOTnFhREh5ZmxMeUx4bTFVQ2FVZ3pqTDAyWTBGTFpHdVVOd3FxNzk2UzhyNEV5MV9yZVBKUjlJaDZaeDZMVHV6QXB1ZEgzdDUtdFFPRHpmQWJYZzBJNnlOVzFOTHUzQmw4YzjSAfgBQVVfeXFMTW1zRjdnVVBCX1RYSEpvSXZ1SVVkdDRMSGJuWkEySF9QS1A3Z1h6MmUxRXRGcVdydXlXcTNRM3k0MFdocE1yWm5SRHdaYkxGRkhMZkpOZGxDVl9EQllmS2RqYjBsTHhhY3NpOTg2QVhsLXUzdldHcEFQQWtLemRpaElnOFZlTU5Pb3pHRVBWb0ZteTNuSTNPcEpqSVp6dTFsdGszZklFTzBkbjdFWnFLS1MxOXlHMy1GYUhvdnhqMnJnaGx1bFlBTXkzcUJXQmR0Nm1BVmtiamFpLTY0cjlHYS0wUFRYaTFTQW9VMG1JM0JpVkN6cE9iMjQ?oc=5",
+   "published_utc": "2025-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ministry of Minority Affairs Establishes Centres of Excellence to Promote Heritage and Classical Languages under PMJVK",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOVhLWjVnX01hbFQ5VW9paC1hUEJfMXlBS0YwdHJxOEVVMzd4RUtLNkhXbjVVeTlSeWFjYXRBVkJPQ0xyNkFSanQxU04zT1pNNmZ4OWQyTHc0MUNZZEt3WjBTbUZGMjFh?oc=5",
+   "published_utc": "2025-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Ambuja Exports Inks Rs. 100 Crore MOU for Plant Expansion in Gujarat",
+   "source_name": "scanx.trade",
+   "source_domain": "https://scanx.trade",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXNIRThyYXp5UDJVa1Jldm1qaWJESWtscGR1Z3IxeWNYZ1NrS29ZNTJjQ19UNEtmX0pmbWhtcDhKUVduUFkyTTRpb2h6bVhxN0ZrYmh2OUtYU2l1a2xGREprc1RabE9IalVpX2Rad0hSeHg2bW1kWnU1eDZiV1VtWWNDZXVHVXpXczJDbVZqNUxFT3V4Ymdna3F6T2Exa1FmdkpCUDNIOVduTWx1RncyRDVzZXdGLWZOOGtMa3dnZVpzX2hNYVpEZmpCa3FhTUhYNTJkNkdTWQ?oc=5",
+   "published_utc": "2025-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "GMB, APM Terminals Pipavav ink ₹17,000 crore MoU to boost Gujarat ports",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdjlJYTB4d2kzdVY5SlI0cks3dFJ1ZFI5WFYyYUdrOHI2SnloaVJJSVhzTkZWT18wNnpnM0xvaWs2LVBGSEw5Q3RLXzdzbDlnVE8yQkppMWx2VWJkRUUySjZWc3pSczZQVFlZd0ZPZ1JPX0JPY1R6VWZzUnVzOThOcS1zS1ZPVWhXVmE1dkRhYlROLUJadVlwVXhOc0xJbTY5b3lIMDAzYUhyS1c0WEhDYVN1c0VtR284T21lTWJvTGdSeXV6NGlzdS1FZzFSdTlvdGkxa9IB2gFBVV95cUxQNndUcG54c21heng1WElDalBrV2dXVkxGSk9xeE85WUlCY2JBdDlVQzktNVJIZTVTaTlFZXFzc0RiTVdVUHVjc1dRc3V5cHBKbm9ubjF4akNXLXNfaHhyS214VTdMTG1ZZy1ZRFJub0xWN3B0Z3l3SEdjWkhuM1NYYVRXcG1sU2ZheG9FUm5QOVNaenAzVlZmcUFGMG1XSEZjWU1RaWhxVldlREhuLVNKRXl3NTdob3o2dDZ3c3RpOEZ2elA1TXlrLUt6YXRENXcxZl92a2xfTy1xZw?oc=5",
+   "published_utc": "2025-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Crores found in dustbin: Gujarat family discovers late grandfather’s forgotten share certificates, sparks",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOT2ZQbExFZmdHUzJyb2ZhbEJPdkwtMjVydUUyaXY1YVV3U1l3STRueG91NXJfdG1YbzROOWJQRllvbGtOUGp2REozb09BYk1xT05uYU9xN0IzaGdmMjBXN0wxOXpoNmhQcTNpRHUxV0NpN05DeF9SV2FzM1hLZmNCaDBlVDJ1ZHY5RXh1S0liaWd5Z2tuX0dmZ2F4eDVkZG1lUWZqYTctMGRBWXlHbi1LLUk2VkVKbDZ1OWN6ZzF3ejc2cVlWR1NPcW5FNm5WckdGQ3NFRzVXM2gwZExJcGprbjlhR19VMFRBWVNucWZhc0FzUmpmQndzZE5qM0RGRTVYZXZoSnYxTURBUHNmNkxDaU5CTmNaU0RkcjJMTERnQVRuTk40OFYtb0x6MjZ2VWstZS1naWxKa9IBvAJBVV95cUxOMC0zaWFLWkFCNVhreVE5YnlYQlA5SmhETmRvRjl0Ym0xb2lWczNjUzdXSlNleFFreHNzVFdXUHRjZXhxLTk1LTRuV1R0ZEZPVjBNM1pMb1IzMHZLc1hrYlltZExXMC1SZ1RwV2l0TkhKaWJsU0E0YV9Qa2Z5a1o0cDdoYXlnb25OUEh2S081WTB1bG9kS1dWcTgxRGlMNnRyZlZCQ3FiMXJDaXZ4dnljVFNMbHVYTW9ZZnRhTjB2Q1ZPMXlNd2taQW9RRXFzamZ6cmpFdUpjZVdGVVl1QjNfY3N6V0d4bG56dGJSTmNDV2ZKOFc5YkJxUkRpNEVPcmlxWi1EOFQyYXYwV0owazU0QzFsN05xSW1JYzh3Ni1xMmk1N05KLTcwaW93SFI5blJpakhUekhqaEtMS0tn?oc=5",
+   "published_utc": "2025-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Filmmaker Rajkumar Santoshi’s jail term suspended by Gujarat HC in in Rs 1 crore cheque bounce case",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVUhoNTd1TFpjYWR0UVJjX3MwVENkaGZBekJlODhRVXFaWDkyb01OMmZmVzJnN0VTUW1uWkhFMFRhQld2MWViY2k0R0JCb0ljUnZSdHNTTm5YMEtkNUhPQ1VRa0s0clNkUTJyNDFkSzhJUVRhck8zY1lDUVk3MEg4QjRuSzdhY2tuQzhfYThDSTN1X3o0RXNNTmY3MFlLSGk4X3FqMUVKMHRWMjlVbzdJZER5alFyT1R1aHkwd3dWbnVscXgxZTNjc2ZRMHJLSlNOdVRpemExVUZIM0k0XzlVdk1Lb3VSSFdKM1VjZU1pMDLSAfcBQVVfeXFMTmtWel9EMUM1MVJJMWtIbzNzbTJVN2tiaU9HRUhiSGZWQ1JiOTBnV1ZJbUJ3X1VqOG8xdDVnTkJNekRZS0RIaEtYZ1VMSGFHeHNHb0MzQjY1MVh2QkZBTGV6RmZIZHo5dFF5SHhqc0U0MDRqZmFlcGtPYmdLWGV6eWFMa1RJYmtUaWZQVzl2bHRyLTdmbWdkS3M0RXBYNmgtWTFSSC1oRzNRN3ZHQkx6REY2WDJlS09qX3FuMm5WQUFBci1ySEVEc3l5b2xIbEw2T2JmMUIyc2N6TlZYbTMyeV9yZlJweHVjcDhuRjFxRGtYMGVJNnpwZw?oc=5",
+   "published_utc": "2025-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Big win for single moms: Gujarat HC's landmark ruling allows passport renewal for kids sans estranged father’s consent",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcWRQeFM3U1Etb3FMNzNJd3pPallUd0ZSOFQtenpBM2d2ZTNzT21xWURzc0ltb1UwRThtM3BYeHdHQlB0SGFOeXlPelFmZnJ0QWROczJIbXd2djE1N0Rrdm03dEMxc1BRVDJMT3VVTWM0Vk40Vmt1aWVaYXJwUy1vbXo3TjZnWk1WeVRac1N0UTM2djhPSWxHTGx2YUJWWkNNLWFLNVhYbnZBMUpvT1pwVVZJME9zbTdNX1JIbkFvMG1CMl9YSm5GUlVwaktLbDltSlZHVFF0M0F6dUxiUjdKNWNoM1VQWURNS3VqMDZxR3FNeDZjOXZMX2Fn0gH_AUFVX3lxTE5RQkc3ODdDRzJlemdTQ2pwYm01UjBwZXVIV0VGakd0VGR5Z3RYYm5LcXBMSTcxUXRKTDhhbmRKOUhXUnZjNjhXSW9LWDY4U3FGdW52M2tDeDNpQ3hhd2IzSjFCNmlGRXlxWG5hdEUyZ3pfb0ZVdlhpXzJHMVVRc0JYM0pwaGJzT2F3eEJaRW9mRlg0QXdWbEllNXFYQ0JlbGVsb2RSMnpzS3hnaEJxdTlOYUFqSFNUWjFLemQ2V055eHpIZG4ybUFhNDBXN2RocWhZdEEtb1RtQk5pZV9JcWxwd1VxY3VvRnRKTmdWbFMzUi13OUpFaTJRemV6M1Fmbw?oc=5",
+   "published_utc": "2025-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 1331939829000: Google to set up India's largest data centre in...., not Gujarat, Bengaluru, joins hands wi",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdVdoS0c4VGQ3Z3NjQ3E5THJXQW5LaTdPTGVhOXFreUZvbFhDQ0ZEeUpPaWpXbjVlRnQzQXZuaW9Jc1NXaGtZQmZlSWJsbDBELU1odVhIb0ZDUUZmSWxJVHd4NFlrZDZ1WkNseTdZSFJiUEZyUU8zNDhDbVp4RHB3TVdjOWNJbThpaDRxaUtJY2YtZm9ubTYzLXIyTzFFQUs0T3EwSmFlSkJsbll4M3haa2dvb1F1ZTRIYXhZOUVvV1gxVzFSS0ZUU0IwcG12QTlqbU8xeE1UMk1jcFVfZGxQY2lYbGQ5UnVPaVVqS0tSRjZPeW5iRHUteGFRT1LSAYICQVVfeXFMUEhLb1RTX0tKelM3QzQtVFd4SkNneGJGNlBtUGd2VDRYdVFPYVpXVGh4SmItZk1qcnkxNXNYWTRTMnBGS0tHLWpVMUd2em9lNXJaMzFWNW8tZzZJWU5zWUw3YWxEMWVKbklTQUh1blRLMlk5RHN5ZHlPb3Rfdmw5Tm9xblpuUlRBS3FhVG41LWRVTUc4RlY3c2RTdUxpTms2d1U1WUFXUVZfcVExUk1ENFdrbG1XeXRiVzZXVk9xSmp4RXhWZ2ZzaFVGVENBeHRFYS1KdUI1REdoczdWTC1fNnZkOVVxNHIyS1JmUkpETlBoYnpEOEZZSDdPM0xEblZUSlhR?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat: Jains join hands, buy 186 luxury cars; save Rs 21 crore",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORkxQZ291T1BfS1JFbGFjNWlON3hVcEVjcDY2NGxZcXhKT3ZWaWZBRm5qVlhocHM5NnZXR3ctUTB2VUZjZ2JvNGZxOWJhWHhUYmtpZ3doMm0wNkpMYXBQVC15clhHel9rUTJSWnpaSVpGenRmRDUzVVZsMkdNSDVTQ2NEZVhJNGhFNmZrVlEwNlN3Y2FGWUN4akNndmZydUo1bUpsbnFTTEVVVnJvQkV5dTc1emZVYXl1MkhWTVVyT0dtYng2SDR4WGlXNUwxRFptSFNqY1RXMEV2RTTSAeABQVVfeXFMUC16Q210QjMzSU1FLUlSdjlIM3FlMkNmZTBKQ25CaWV1aGZMYU90S0V0WGltNHphUE9jRUlXdTExTWFJLWV4WEJ3TVBDTjhseTdwRmprNmo3OF9JT0dkRTAtNDhGc2lBNzNfX1RoMV9GLVU5aDg0dllvVW1xNjlhaXdaa0w5Qm95WHdOT09fUmxRWjFnUzJFc0lDY1pqcllPUm5GSk9yVmFoOGw0ZFgtRVdGVWcyT0tQak92QXlJXzg4WTZWNUgyLXQxSkR1dzMwTExib1VMY2lvUFV5YnRQUU0?oc=5",
+   "published_utc": "2025-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

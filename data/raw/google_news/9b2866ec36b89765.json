@@ -1,0 +1,29 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "National Science Day celebrated in Bhubaneswar",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORC1BUUQ0YmtKajdDazdzb1pWTVA3MTdBOUpVZ3FvQlQ4ZUd1LU8yTk1pckpPeFp3RFRpRVItbkh5VTdOdDlISTd1aXRyUnFDamN0b0xhYldVb3ZnRGt4U2l1R3JHSWFlZjBwVnNERlBXazVuRDNGNlJDa2M1RkJrS1I3OEZFdVRXU24talA2Nk9NX1JHcUxKLWIxaGRLVldTaUpYMzc3MFNZYm9mVmlj0gG8AUFVX3lxTE9oTzdFQXZLRER1TUNkWXFPT2dDbW5GYm1OYWdZeWJZaEtWMGpyOVYyRURza3JYVF92d3hUZkJTRHVoMTNWUmpFeGQ5bEtIVkZlNFZZMmg2VzBCaF8xaVlnVkxfZjJPSmNUYjhxeFJZVlBYbGtPeWtFaHBPeWkyaS0yZ2dLMzZhRVhuSWkxMzhNS2lfNjlQOFh3UWxXOThzenloaDU1QWNCdFRKQ1ZCSFZKaFhxWWpSblhVeUFN?oc=5",
+   "published_utc": "2026-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Solstice Data Signs ₹52,600 Crore MoU to Set Up AI Data Centre in Kerala",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFlVejBXMzBGUFdkaHlNbzVTSlJjLVZUNzU3R1dEc3l5WG1lV201TmRTSC1EWUhseFh3YXVHbnFobEpiME42QnZZeXo0TWx0Y3dXLVIwNm1yc014clpJZEtoLXFLRnNEaVpHczBqY2JOUjRfNW5sOFVLdzVTbUtUV2Z0cFBLRFY2Y09YMXZqLUswc2lGeWVPY0J0eUtEZ0VOWmtubVFxTnNBVHVk?oc=5",
+   "published_utc": "2026-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Schneider Electric backs India's data centre push with a significant leadership change at the top",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQak9aS2hVUGZVdXBjcWJ5OGF0Zi1WamE1RTBjaWp6MlVZRG0xXzRWUEVIbEZFQnNTLVJjRkNlTW9ySzBXYm9pcGg2S2VucUdsVkVBQ2NvRk1USU94UkJCRDJ5aDFTSkV3SHd5TUZqa3N3RnNFcG5pakdFRHhJWmp0QWJrSG1CV3hqMkt5YTBONUJ5c3JZSjlKTzI1SVhkclhCRi1WY0VzWWdmTDFtVHkweTRGNnNmTVlqM1RHWEtOQWNVTlUyalBlSlRzd1J3eGZO?oc=5",
+   "published_utc": "2026-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

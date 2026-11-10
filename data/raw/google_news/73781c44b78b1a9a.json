@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "Coming up: Next to GIFT City, a Gujarat IT-AI City",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGRKalZmR1ItM29vb0g2SFFBeG1PdFh0Ym9IZE9VakNpelJpazR3ZVljMV94VXVwaWJTNWk5Z184b3JSMnpyMG9VR3JKajA2b0tJVy1NalZhQ05vZXJTaGJGQl9nT0UtWFNuSDVSZjlSUUduMTZrRFQ2LWZMQ1QwYUliSXlfSEsxckJ2TkFBeU4ybDRPczIwUDhmUk1lbE44OTJzakNnYW40WGFTZmVPZ21rc3JXdjRRRXhhdEhyeFdmYlHSAcgBQVVfeXFMUElxSkZLZzRMRzJLbUY3YllzVG10ZlBRanJMalZsLUVpZWU2ZlBZMlF4TUJSUjJQb3QwQ2EwdC1jSU5ybF9jZ2Q4SXk1OEphSDRENnM2OVdick43a1NnZm1yV3VpQV9BWmNRaTFmMk1kd05WTElFNF9TcHhCVzMyUkVsbURwMW9oRGU4Y0swTFNlRTN4dWhsRVdkZ1drUEtNc0JwX3V1ZFFnMU1TUlhXX2VfOVY2ZF9vV1FRd0RVSnVGSWdNZlUzZHQ?oc=5",
+   "published_utc": "2025-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Henox Signs MoU for Gujarat’s New Cable Landing Station",
+   "source_name": "Capacity Media",
+   "source_domain": "https://capacityglobal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXdKc3E0OG9UVFpaQmlvMUNVRzRnSEJsUzNMWGhsdTJOb1NBdVlKQ0Q4NmRhUWxxcmhnaC1ia21SZ3I3MGZRU29FSWZtSUJndWFVX25jSUcyckc0SFpMVWFlNXpxY0I5WGIwVy1XQ0RmZ1p1OEh0RUtlNU11cVpkVllRUDFxYk9CQmNsMkhGenhCemhW?oc=5",
+   "published_utc": "2025-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt signs MoU with Sharjah's Henox IT and Data Centres",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmJNUlZrcTM0cE5TSHMzZTZGUXBVVThwTF94b0llZU1rYmh0bTRHREFlQk1lbmdzcDI1bk1EQ2c5bE0zT01KWmFjdW5IVXVIVlk3cGdVUEdPYUxrQkpteWtSY1UyZExyTElscXNKZHdoVkFZclhwNUFNdzM3dUVoSDZOVjZqWTVoNFhWWDlYZkRNZzJ5UkxYVXRhNjR2MkFPQmhFVnVUNDQtaU1iN3I2RWRueHVpSWNpdW5qb3R5cVZOTm9Q?oc=5",
+   "published_utc": "2025-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Govt To Build Dedicated Ai It And Ites Cluster Near Gift - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjlFcC1yeVpWSnhOMllSM0N2U0N1MHNaa0lHN1FqS0MzQTBsaXIwcTlYT2xRTVpzUXVhYkkwWUJwVVlCZUNyZEtzRXAzdnVBWlA4R0M3Tm4tVkVKMHp2V3ZZb3IzV2FFckcyaXRVMmFhcTRSdS03a0I0RXlWc3dDQWM4S1ZMN2FpLVRmWEQydFJ0WFloc25ERFkxYWwxVDJrbXNTTjhQdDhLME1Ga3FQWg?oc=5",
+   "published_utc": "2025-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ahmedabad court orders removal of Modi, Adani deepfake videos: Civil court issues show cause notices to Jai...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOV2tDU0JCbWlVd1lCTXoxMk9uLTREMDJrQXNhaXR4WERrRlBQUkZWZ1NLdFpiUkhiREsyUFN3WnNWcTBWTkFnMjQ3NHZlVnRxT1ZxTk5vQnByZEw4QmozTmJPMkFScHlYenUwNGtad29MNWtzaUFDYWFldmVVeVBwMHNrOEd3UXJfNlZRZGdSU1dhaHhiU1RSaG1ZVUhNZUoxSXZVR0Uxak84aUZsVlhlbkFCYUotbHNDalZKQlBLN0dyVi10M2lPTG5ybDVETVhGYmFlWVN2T3NnUXJlNG9DVTQyeFdiWEZfQnM0M252X2VyUmloYmtvcEpZNnZBMmxDMk5feFVnRk1lVEnSAZACQVVfeXFMTTBual9JZmUxc0JtS1dTaXF3cEE2VnQ0ZmFJcXcwUEhKTU1sY2RteXNNTmhxZ1I0OElybGVUejFxR2laUnZMYWJOQXRnV0VvZzk1ZGstdFdsQlZIZFhjM2pkNk9ZY2JwOWpXVDZiUVRLOG5JLXllQnh2RldRUy1yTWxiRmRqT09hVURVbXVxRzdBdW9iRTRnZkFPcHNWR0dYTHRsQ2NJOVJMU2dyQUZOMWI0bnNZbXFGdEhyazF2YTFXZVA5SGtxUGdGNFA1LXNKbm40bExqRXhIZUhaWFJSemNlMnZjVWdHZzl3ZlNZNjh4VXRGcl9sMVFRbXZjbDNVaGExa25GNUJiU0ZCU3R1blo?oc=5",
+   "published_utc": "2025-12-20T04:05:10+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Which Indian Data Centre Projects Are Trending in 2024?",
+   "source_name": "analyticsindiamag.com",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sM2s0UTFRTkZsT0JIbTRrV09Td3pHNzBvQVVVM1c2bkNfeWxWeG5QTm8xWi1kTXdCOHR3RTJmel9na1lQU2pBNFozYnQyU3ZPdG5keGx2TENNVWttMkJPN09VTDdnZlRFWDVmVzY4b2dBOUd0TUNUd3piUXNvdw?oc=5",
+   "published_utc": "2025-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maverick Investments and Henox Announce Phased Development of 100 MW Green Data Centre and Cable Landing Station in Tamil Nadu",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZjJKWkM2MGRuVHJkYmd0LUtQM3JydV9LMVVhMEhWU25YM1lvdHYyeDU0elRGYmoxanI3MXlLbGlPaDE1dE1Bc3VrcHpuNFY3S2Zpb2p4UWw2R0lGNUl6VTRkdE9OTm5iSktxX1Zjb1QzdTB2b2haeFVuMFVjN0RrdUl4M1NONjk1Z1JaXzVYRnlzLVJHXzhaUndkRzMxbkNNY200bFpHTDUyYmxlM3VPem8ydzhjMDE4UnFYMFBQQlp0aDdGdlRxQzBlYmh2QUNLUHB2SVVCLXYtWFMwa0QxNWotRzVHaE1icmpQRWxRdmVqRUtITnZlM2R0QlltQXZrZExhZUZFcU4?oc=5",
+   "published_utc": "2025-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cable landing station to be set up in Gujarat's Dhuvaran; to generate ₹1,317-crore investment",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQzZfaVhVYlRqOVNlbEl6M01iT3Nnckg0UkRKaS1uR0Nzczlrc29HT08taXNxdTJ3VzhxZGlDN1hMLVJrSnQ1SklYbnNOSUpUaW9BXzJEX2lNNG83Y0Ryby12V0lQcVNYN05rN2t6elJPNVFRV0lSdEp0UjVMRkRPeFd4NlVjU2laRUhLakRZVFFxWHUwQ0pHTUNVR205b1V3RlJ3YlNUdVZSUnNCbG5ucGczYVo5N1gzVXBJWUNRZzZmbm9jVEw2SDMzTWJ3MVJISmNnV01aY09qb0N2c1JsREpaeUl4SjhWMnhLU2JtONIB9AFBVV95cUxQdVlOQnBibmpza09XLS10dnNOUDhxcHY2YUhld19ZTEctN1pNQ2t0Z05WdEloaGFwTFJTYTJIV3UxOHJ2WkVKNWdTUUF1VEY0R1N6UmYzQnVHZlZ0dW81WkVfNEpNNmwxM2xnNVh5WnFvS3pJUnZuOThhTi00Si1VM3g4VjB5Y1I4QTB4dDQ4ZUM0NXI4UjEydEZtcFE2WFVDMnpZenI0ZnktNzNZdU5WNy0weU9SVUVabEhtaVFTUWtCYWhTSmxXbTJOVGNxclNDT1NaUmRhZUhIS0VaTkJpUVVXUHlraE92Q25uTld5ZU5Ebkg5?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This viral video of CDS Anil Chauhan allegedly stating that the Indian government surrendered Arunachal Pradesh, Ladakh to China is fake",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeWRXQUpNTjd5Y3pvczZzMDFmd0JNLTFKNkwtN0JYU0w1b2JnaGZxZHo5SExONW1lcVQyNUlQN3B4Z3V5elNPOWxRSlRTb1hqYTljdmlmaHpLMzFNNGxCNVJuSXgtTWdITkJLV2pieXp3MDdIV2VPM3lYWXYxaHMxb1M0bUtXY2R4Y0hyaVZPaVpfU1ZGdk9ZckM0VWhGMHhmclJQZ1Y2eGRBUjRlQmNfLVk0am11NnNhNGlEWmpmdm1aMG5MLVYxRmlScnA1MmpRVXZpNUtCalowMGU0dGNIbFdVOTNhMzczMUE?oc=5",
+   "published_utc": "2025-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ahmedabad court orders Congress leaders to take down 'deepfake' video of PM Modi, Gautam Adani",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNkRaMEpmMU5pc3M0R2FGb2lQR0ZZZk5YeUx3aXNsb0tEMXl4NjN5YWp2aGplR3F6ZmR2Q0pwdDhIekRNbllsRGdhc3BuRy04RUlITE5wTlp4N2YwTDd0eDVoeWpzcnNkX3R6NFRQLUpFQUV2V0g1dmRvSFQ3aDlxTkdtMUdLYXdpR2t6aEkwSmRwSldWS2RWRkZDRkR0aEtueWJyZHU4ZDQ2VVRWSURHOWFZcVcyeEp1RWdJRUtQTXRrSDNvb1FZaW1rRm5fSTZKekhvY0VQZHExR2VfR0tfb2pScVhfY1ZEREdj?oc=5",
+   "published_utc": "2025-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

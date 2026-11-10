@@ -1,0 +1,21 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Solstice Data Signs ₹52,600 Crore MoU to Set Up AI Data Centre in Kerala",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFlVejBXMzBGUFdkaHlNbzVTSlJjLVZUNzU3R1dEc3l5WG1lV201TmRTSC1EWUhseFh3YXVHbnFobEpiME42QnZZeXo0TWx0Y3dXLVIwNm1yc014clpJZEtoLXFLRnNEaVpHczBqY2JOUjRfNW5sOFVLdzVTbUtUV2Z0cFBLRFY2Y09YMXZqLUswc2lGeWVPY0J0eUtEZ0VOWmtubVFxTnNBVHVk?oc=5",
+   "published_utc": "2026-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TCS CEO K Krithivasan is very upbeat on company's data centre plans; says we see a huge…",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPS0NoQ3R0Z2pDQTNLTkFlcUFRbXY4azV2NkQzUWtzUFU3d1VQTDhhOUs3b1psODh4Y3NFNkhMNjNqQ2g2MEY0bXhndlVPTEJBVkVKbVFRSGxkVFlwTGFROVNRdndoa3BEZlpZVHNUZ1I2RG1mX3NlbUhkOWFWNmd6UW91NDl1WkdxRFl2SE5WOW9ESHY1NHNEbVo3OFoyX01nWklvdVRfLXFINkxWQkhHU3pvNmc2b19xa0dqaTM3OXNiMmM3bENNYnRVb1JaSEdVWnNFZDRjLWFCWExNcWo4T21OUGVvcHNtWS1iZ2txX2FrYVBHQjJ4UVVFU2_SAYICQVVfeXFMTjF0dUFXNXBNTkZTU0c4Z1VPQk1qNjdKbUt0eEtxUnhZb3dPLXowOUIxZU00VWVUTGZvS0NfSS12cDB0WXdabUZyNnBDbENDcU9EeFVmcUE3ZDQzUzBqQWRUdkc1cVpzZUpIREJLS1Ixb1lVMEJHaFBpRllNTzR1WGY0MW9xZ25ZdDNBaERuamNvb1RVQVVkdk1JdXBBZkIyWnRjN1BST3hTMGR4YmRjVmwzUGUybDBsckIzeUpjajNSRXlhb19yZ1lUNlFBSkt0YzY0UC10WVdmcV9kbHpWa2ZJbVk5NTN2N3ZOeUNmZzhFM0xOYVRkeGNYYXdfQU1Ea1lB?oc=5",
+   "published_utc": "2026-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

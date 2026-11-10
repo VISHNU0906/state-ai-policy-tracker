@@ -1,0 +1,93 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "Maharashtra leads India’s AI-powered cybercrime fight: Microsoft unveils MahaCrimeOS AI to combat cybercrime at scale",
+   "source_name": "Microsoft Source",
+   "source_domain": "https://news.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWERXa29wLW13VHphQXREbXpGQXFCUmxIM3ZtNENyalNxMXVlYTM5U01yVW1UMlNROGRlM0tZcHdIZ1F3ZG5OZ1l4MFlkT1M1dXRvblgyOUZlOTRfbE1sZjFpakI4aG1mb0dSSzc2ajRvMjY2LXRPdjFNeW8wdDM5UWFnRDBsc0RuaFdadmNTaF9zNl82S1BkMFNVZUxMOTljbGJleDJIN09vdEVFWXotSkV2TTJzZ0ZvU25JcEtfc2YxV2xWNS1nZzJDVWE4TVpkZFkzOUZvcEc0NlgtUW1jNGdmUEtGajFJSDBqcTBjb1NYaEM3dFg5Znhn?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani inaugurates AI centre of excellence in Baramati",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVRWZ3lHNi1mWWVjU0t3VWVnZ1VYZ1FqOGxVTVVKNjdBSWk1WF92RHREblB0SGxaVmJiekZaM1dGVTNWQzlCMWJ4bTJIVEhkZDdEcjB5WlROWUhXTWlMSTJBeXAtbHZXVGp4U3dxWEV2dnpOb0NjNkJTUlVYMEZST3NOSEJ6clliWnM0WG04M3hkTkJ0OHBrM0J5ZTNOUVdiMXZkZmwwR1hMT0RsOEpUaGNyZGZuTDVTaGcxODNMWUVhcFIyM3fSAcsBQVVfeXFMTXdqM3czcHhNMFZUU3Y5Y2VTcm9XcXZ5QXUxNUdrR2NPUURLZ010SzBBMmpUejd3bk5aOXVYbzZybHZoZWM5VnhvRkhScEVSUnJ5VkdraG8wUXpGMFVHWndmalc5aEhRYWZBaEJ6aWZ6TWxZczhSWVhXa3hrQ01ETGpkcEVfbFRreHo2SU1RSVRJcXpOb0VFUnN2QXB4ODB3TGtUblVveG1rcW5FYmlqYUdxQzZEYVY0MHVTSEtsUFFpWjhSM0stcmNvMDQ?oc=5",
+   "published_utc": "2025-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MahaCrimeOS AI: How Maharashtra Police Is Using AI to Fight Cybercrime",
+   "source_name": "Vajiram & Ravi",
+   "source_domain": "https://vajiramandravi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUF0SVE2NUNkcG9ZNXdXTFhNY2RZZ3YxUTZhVjhtME1uWV93MmxBY2JNeUMyaFNOdmU4ZnA1dF9xbVhVU2JwZlRKbHJFeWs1aDB2QWxMazM4NUZwSjZqQXExNFRFS0lIa0ZkNEVxYlh0Y2wtc0UyUmRybl9jaDJfWXE3Z01LdHZVVzZKc29xQU9jdVBCckg4SUJxekpscGZzUk4tQjZHMjFsQlZ0OW9QNnIzcw?oc=5",
+   "published_utc": "2025-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ashish Shelar Unveils Maharashtra’s Ambitious Vision for AI-Powered Governance and Growth at WHEF 2025",
+   "source_name": "HinduPost",
+   "source_domain": "https://hindupost.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTEdqenhtSnNjdVl0UnItVE5Wc2o1NXZnUGpfTUY1d0ZkMGtTVnJrVkcyYmZVc1E1RWtzZ0s1d2c4TTllR3Znczh2M2RSY3VWNUdTcFJHTGVyU3ljdG85cVhiaHdSR2NYWHlXZ1A2WUR2dWZ3ajZoSlZXOVh5Z1hSTXdrODJxZ2pGbU92UUxNVTUwS0V0dWpwaFBZUE14R1cxYlFOMmJieUk2VHlGWVBvaXhsNkhFa1lqZm1UNV9fUE9WalpDZmQ4ZzF4SnRTQlpEeFVaLXNQaw?oc=5",
+   "published_utc": "2025-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to get India’s first AI University: Minister Ashish Shelar",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDdBeWgtSmpYNW1yb0hDeFlhaWgtaXFQSm5CUTFOSm1fR3RYQzVyUFdpNzZZX1F2aEVZYzFVQURWRm1LdzdqcmNOZlZpRkdKdGFoV2hRM0dvQlZOTUZ3dUpsMmhzNzlnQmJ3WkhhOHVNbVI4cmYwVXFHY1JLTm5tekk1akJqVlFwYldnMVUtZTQwOFlCc2lRS1g5YXNFUjFTaDlvV1BQbW05SXRvSDBScXgxUDVCLWVEVEpNNVRVX0c?oc=5",
+   "published_utc": "2025-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Satya Nadella launches AI-powered tool for Maharashtra police: How will it change crime investigation in state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMDIyYUthcmxwRm9PVzJ3OG1MZ2gxY1NROVhsWGRycFhNbzRaVURsS3dpOXFhdkNDVDNGTE9ONndNYUhRUmJNcl9VeUV5WEJEVjZNNGoyM0tNcWNyUHZ1SnRILXZzWkN2NlNtTmU0TDBiNzBmOHM1VWpTc1BUSGdXYU5DcWE0RUnSAY4BQVVfeXFMTXhnemhDZkVGRDg5bHhPTmZRRGNldm9fQ29pc2o0cjJ2WVczQWxqbkpoN0UwcWI0eUhrTEJvM21TLTNSeTdybjhMaUljeXN5SktIcE1PaWV0WXc5TXlNX0VTaDNoRU1lWXhral9iQkJjSEEyN1N0TFp2WEJqZWt6dXBXb3ZOZ3N5YXlIYmd1Zw?oc=5",
+   "published_utc": "2025-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gautam Adani Unveils AI Centre In Baramati, Says Youth Must Lead Age Of Intelligence",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOGxzb0xKbklXZzEzY2tMaGRZZ0czZ1prREExY050VWtCVGdpTWV2YXg4dWJ5cURRcUtCWUhPSXFPaXRxeGY3VUVjajc3VGRnZE95RWNjLWQwalg1X1pIVlBBMmstVnF1Znh1eFNmaGsxQ21RcmtmZU80RHM0ZDhDdlp0R3ZhaEVrZkQtaGoxSTNPaG5xVjBGVWtwWE1rd0o3T08tR3dkMlVvZ2M5N2lmWVExMkpjVF81ZUNTNklON1VqQWFsZ0NiWlFqS0RVSHZzSDd4Z0FnZjhtV0NLWGo0X1RpMmFsTmdTcnVWbGxzRGdERFBGcV9YZ0JwbURveWxVMm5TN3dIWUFJd9IBkgJBVV95cUxQU0JObDBnbjR3R2F2NkNBcjd5c3ZnR1hnaTFKazNxVEVwRUZJT0xycXZXQVRibDA4LVdob3M1RTJVSVRYNXZLZG9iZFV5X3JVRU55bExFSjRzYXFsOXNncWhKLWVrQVJkOW9sLWJGVE5MODJBZE1EaS1QYzZ1bWRLV010R0dGRFJQdUhLUWxrR29HYWFWdlNqNThWLWJ2c0FjeHNkWVYxdHdMcVhic2tpR0dIczJrT2gwRklhWmxoVFotNmNWclJ2aGl2UnFMY0o4eTlZNDhqOGNXaUc3R2tzMDFrUDV0STFJT0wyUm9Na1R0ejlPaGczZ2Y5aTRhUlc2emgtTF9rU2hHWGJRSUNPYlBn?oc=5",
+   "published_utc": "2025-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Dy CM Ajit Pawar receives Gautam Adani at Baramati Airport",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmhtQUdCOGJaYjMtbk5xMkY4czJBaEVjc1YzbTh6ZUFMU2R1Y2RMOXQ0NlA5S1NxUjFoTGJVR1NtQ0g1VVg1LVBuUEZYVkhTaXJGdEpuMVBOS2I3RV9yUXd1UV9vMk50M2NfUk40dWxoRGZFUmo5cTQ4UGtHMzdjQlZlYTMwVEw1NkNqc1NLbXRDRmZrWGwwSHJja0FhdjhLMXZROExrUG9MeGV2bHNjMndzUkpHdFBPRDFRYm56Z3JpZWptRUg0elh3aHpuaEE?oc=5",
+   "published_utc": "2025-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Infrastructure Boost: Rs 1.5 Lakh Crore Highways, Expressways, and Urban Mobility Projects Approved",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcnJzZGNXUnIzdTJxTFJWNnRfT3BDX1hqNWZuTFljckcwOGlLY01wRnpNcmo2eG1pd0Jpd3ZTT2YyeW5hUTQ2V2JPMHJIUWhlSjFxTFRvckNqaFc4NUthczhYVmFSa1lSaGJrblNLOTU4d3BVVkVNQTNYV19JV1FMMXJxYlFUNWRwRTdGenVmdVQ2X09Ja2JnaFEyWmQ1VlZ2OF91QnlGdVd6LTJiTE1oLTdxamFVcWg5a1VjdzB2bl9zclZ6WnI4YTZLaGJWdVROTWFqeEpnVU4wNnNxdlIwN2RoXzNWQ3VpZ2hQRmpqYWxYY01leWFIaWZBaXJHaTRDR0twOFVhendYZlIwZFHSAZYCQVVfeXFMUDNEaXowbTkwYjZCN3MxQWZvNGxLdDRudVViZUxJRjVpWXdSNTg2VVJUNXBIaS1nbUhCWmUzNzQ0Vm8wSUxfSzgwX1BhWnVKWXNxYXc5WHpsNkFPSVduM0doOXpYWHZiM0RDc29kNEhwTTdrbHlvRjlfbXlySVN2UEVzd1YzMXZiY29TX3BnbjdhY1o2c0tVd2RBcVozYVlvbXZzbzM3UW1Sc0FlRkpSV1I0VHRmUW1HcHpLdHR5UHNYZlAyR3JuMXl1WnFDdW5mYTlnVVJxOEdiLTMweEJyTmVwLVJjbEl5cXlFekxTWkVTd1U4alE5c2xOMzdQeFBjbmtId1U0WnE1NUhSQ29wYVpyYVRpM2c?oc=5",
+   "published_utc": "2025-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gautam Adani Inaugurates AI Centre of Excellence in Maharashtra’s Baramati, Says 'Seeds of Tomorrow Will Be So",
+   "source_name": "Times Now",
+   "source_domain": "https://www.timesnownews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSktZSmI4TVZ1OWZPWXVCa09CT1VlalVKVUJRZUtPZEE3YlNzYXhoY2JfUURiWGhiQnNQME5MV2JXbVRoZGdybllFbmk2MXFzSnYxR1M2R0dOOEJCd1VqRUpiUHVrbWxTWUhLbFRoZmM5VmF1TFRsZndUcjN2WVFTYjgxQmxBMy13QWR2Vi00WUwtZ19IU0FMR21MeHdld2txRjhHVjN0dGxKWHdWd3laWHlmUV9CeHQ3V3AxRjNhY21jeEpNcFE3aUd5T3R4eFFtQW95cmVyZDFVTnBFbHVrdVJCWWJERndpdE1GMjZzRXNxN2puRDYyV05XUVUyblNfWVh4a2lPT3Z6X1RrWG5ZY29ud1JPUdIBmwJBVV95cUxNVmc1V1JuS2tSaG1TQ2s5amh6dFluUjh5dmthZGs5cEc3VGVvVk53Z2VjdUVYc0FLTG1xZktrRUg0NFNPOVl2ZFR6TnVQV3JEVnluZVQ1UmwyQXBjaFFsZzRTa19ucWs1a2xTLS10X0pxQUN5dkZkd0JDcU9Fcno0ZnZqVWNfN0diNnN6Tk1iZ0lLbU0zQng5bGxteXk3NG5uWUtIU1FwTk5mN21CWXFKZnhqdVdjQmx4TzlibEZhdGNpRkg1N1pYOS03MWtBQmRFTkkxZEpOLTJELTNELWQ4YjRUTzcxNzV1M2t3RzRpZTBfbC1MT0xmaWlFcU9kZnZld3FyUlBBME1qd1o0M2MySmk2cExNWGV4bWhZ?oc=5",
+   "published_utc": "2025-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Plans ₹6,000 Crore Loan for Purandar Airport Land Acquisition Near Pune",
+   "source_name": "Pune Mirror",
+   "source_domain": "https://punemirror.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGdsQklzeEo4V21TM214OWhaWGtHaEFBYmF3a1R6QVc1TFZ3NFkwM01oTHg5VlEzTTg4X21qUktfcm44M19PaU1KeThCZk9hOEF1VGtfSDQ3XzcxeVNpWWNHMy1DNG1oamFrMW0zNHNHVk1jQWxFQ0lrVFpWLVhlZWNtVzVuMk53eVlKemNMd0pHQQ?oc=5",
+   "published_utc": "2025-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

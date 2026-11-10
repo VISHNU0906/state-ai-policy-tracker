@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Maharashtra: Nation’s first AI-enabled Aganwadi school in Nagpur",
+   "source_name": "WION",
+   "source_domain": "https://www.wionews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NiZERfX094bEI4NndvejZfYTZxRXU1M2MtTVdNcm50VUJNZFhHT3h2ZDdyNzJwRlFBZnNzVGRHUU5sd0NvQ0hXRWluZTk1ZVM5Rmx0YTA1VjlpaWgxVnMxdTE5RVlvM0RqZVpLTHRKdEZzSGZSOXczT2NLcDZHeGZfdW5uVnZyVUVxczZOMXd6YkMybU9zcGlxNElzQTEzdEtyUG5wMDJIYTMtNzQ1XzBB0gG3AUFVX3lxTFBnYUVjOTc0UnZkRjM3ZGp6T1drR1VHaWtPS1pMcDBJRVNrZEk0NEdoUm5NU0trdDh2X1lnVVBXNHh1V3ZpamlkRmlpMGhOVFJvYTJQZ2xEbVBOdmYxaldoNy1IQ2dRYk5nOEozQWlJdlVHbUNRbkw5UnpPRXpYQVF2aENPT0VhLXNGaXA0SmFNWVNWRHRRbEtXajlfTVdXUFgxeHNpWG16bWRZVF9hdlA4T2FqMF82Zw?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Embedding intelligence in agriculture: AI’s role in smarter pest management",
+   "source_name": "kpmg.com",
+   "source_domain": "https://kpmg.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVBwYUFJQmFXMUZMMGRZajZTYlFpN3VYZWJROHJfdjZSR3hxMjRQUTkyVlFDZHp2YTBEbHNzZHJhcHNWT21zbWdRZ1lxdklKbllvSkI4WXB3VTU5aWRjUmhkSVRsYlg3dkRWVGRpTzJEQzhvcXFubFVfRHozSjZhb0c3UnFUd2UzQUJiYWJNMVp0Z0Qyb0FTTWRGODdWemxYejVCdG43dVVHRWFwWjZHNXBuM2RaZw?oc=5",
+   "published_utc": "2025-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra deploys AI-powered MARVEL system for wildlife tracking and surveillance system",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaU1CSndpYUdwVFJXUW1ISnRhRGtBZVNBS3NoZEVKTDYzN3JtUm1BLVFQZ0cyOTlyWFZvOGtYR0FQREtyTm1XSmpTeHZaSlRZcTlId2ZnOTByeG03ZGhmRGV6UDdLU2hBYzNXMkcxdkR5Y3VFZ0hNVlRTRTBEUF9wcjBsbl9KOThSd2ZockdiZVpTTnlLaGdWd0lEMjljcUM1UUtGcHpvdUJjd1lTMUdkTGxUSzAtMFA3a3RmQ24zZkhyTlJUMDhxTjJEOEo5UHRqQjhiTTVzUXhpNThnZkJtVmd30gHoAUFVX3lxTE9hLTBwUWRURUZON1hfbEhoZ3BvN3BTd3V3MGJyR3lDRWI3bTg0LVB1LVZIOERrRXM1WUtFeFN1YUQ4bmRaWXdlWGMzcElaOXJ4ZlRCOFJlQmxWTWxETHUxOUZFX1J6TUtFalBJcEctRXFIblBfaFFPcGlZT2NkN2tPZ2RPMUl6c0pzMlRqaDB1Z2F2SzJiaTRnLU5YYllYMDdab3QycWc5TjNxaUR2S21ndm94M1d1R0tqTjVCWkp2X2tCcGVQTUs1NFJWYTBFa2tGMDRTV3RLMV95MGhpT29kaWhFZWpXX3k?oc=5",
+   "published_utc": "2025-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jaslok Hospital adopts Maharashtra’s first AI-powered heart disease prevention model in partnership with AnginaX AI",
+   "source_name": "Express Healthcare",
+   "source_domain": "https://www.expresshealthcare.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeThSZ1NWVldDVmNadmVNaXpMVWU3S2t6d2N0VUE3ZDVFM0czTDBHXzk1YUhsSkVTTlFKX0p6RkhUZklsTm1pcEtuUXpxQWQ0bUc0VkZ0d2dvS0J6cjNhMnU4Wjd6SHVfc2d5N3JzakFVUzRRd2EtUUxCRU9oNzZmdEtPa05OU0FoZklyemVnaHV1NU5nakNKVkxUdTU4cktaMDg5enlLckN2WWl2S0RMem1ZQWs5dldmMkhXdzZCVU5oTlRsUklvVk11NjVSb1Q1NkVpbXpiS3RVdm1GTmdHWkZQQzgxM2NIWEVnWWtxam1ldw?oc=5",
+   "published_utc": "2025-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh emerging as an AI-skilled state",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUjR0S3h3dmJEMm54S0N1OVpFdTBrd3dtZ1pZRlAwVDUwZGQtb1BoSGJRamlBN2IwNUxvZmdtNVF1SWJBZTZUOUdkT3psY2Qzdk9BQXZkU1BFRHlKTHVjUkxDRUxlbFROWFdUU1dxNmpyRFRyekZUNjRQXy1GcXNveDA0VHd5ZlBDc0dmN3FmbW9hcGxXdmVwbHNoSmZkbWhkSkJvQmhzMnQ0Y29NZ0Z6V0hlUFB5YWFwV0poNnduUGpGaHFlSU45ZXVLTHlFalZ0LVVXZUhyODFHUHM0UTd2bjNlQ2TSAegBQVVfeXFMTXBDd1cxMjNhVWZyaXltNnhQc19Pa2NGY2c2Mk42WXBNRGY0QWFCOE8wSXEwOG45RW1ubEljaTNwVjZkZWhOOFRRb0puSGV3LXJlN0lFR21EODRxWTNLeGRnVlY5aEJLSGtiWHlHa2czdFlzc1gxaEhyNUFoSTFOQktCSV9feXlHZlZacnhfM05GaDZqZHVnRFl4a3lySlVKejg5ZFlDVExPOERJb25OLUpZYkVCN3N1cWJZMU9ueWJIN20ybVlLTVIydzBlazJsY3hnRXZmRTlpY1pPUGcwMjhKdF91ZldWOQ?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2-language policy or 3?: After Tamil Nadu and Maharashtra, Karnataka wades into debate",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUUtNVRJVEQ5REh6Q0RvOWg4WmI3NE1RYXdTOFpxZ2dNNmFKMzFMRnBUQ1lOU013R3hMcC0tYkZkYXlQSGpWQUtNczFzaVppM21IMWxVSkhEMUlScVB1UFhqaUxGOFRDOXhlSDBuVFQ1WEl6b2dMS09vNlV4NW81ZHFieDZCNEZyajR1RWctU3JXUUZXZk9udkp5OFg4ZUFyZ2MtZWV3N3Z0c0psOGZFdGtxZjZXQdIBvAFBVV95cUxPcU9acVR5dWtlWG5MTkxvWmt3OUg3X1ptd0FUWFZ6RXNldGFoQ3oyekN2TXJBT3hEMEczbjFpajNPcDdmWG5rb3gtb3Vvdy0xSmhfeGJFMnJtNWl1SDBjeWt6T0xrTnUwalFZU0h5TmJHNjQzbDNXZGJlSXpiWW1OLVg2OUl6OW04UFFpWEFLQzQwWlBDTUlpR1JrdzFNbDl1ZFpXWEhMWUVsYjIzeWNlVEc2bUR6TzkwVVB3Qg?oc=5",
+   "published_utc": "2025-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, Access & Ayushman: Gayatri Rathore on Rajasthan’s new healthcare frontier",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNFNvcUdLUmtMSWszN1k2eUNKS0l3ZUZERU8yT0tjQ0IxMlYtU1NnZHhPTktYYU82X2FhTXpwUGlqa0w1R1UwWEJkQ0F3eEFTa2pYdGNqOE13NUFwTVNQM3VIXzZVdThiQ25ZUkowOWl5WXY0aGpPbVpjalg0OGdEckdTU2dDODhEa2dLQVdMZG5NM2F4R192SUZHRm84NW8yOTBoRGdXM2M5Rlc2ZEpYT1hXMTF3WHNiNFZSa0JoWW9GTlpTUFBnR3VOdlRRdF9VWk9va0VMdndaMHfSAeABQVVfeXFMTmdpNjFEdUcxUmxPNWFPYUNsQ3NzREJwbTlkSVdHRFdYN2FwWjBKeUl2Q0x6Rk1yUUtad3F2Wl9pdkM0di1vWE5zNXZXUXYzMGZVSE8xUWFpSmZocWo2QW5Tdld2cFQxMzFURGpKckpyQV9oQ2w2OXQ3RFlRelNMakNuTm9uZGdzZkNpVmlBU196aDNVa2tNNUx6dWpQV1pTMVZsT0tQaDRRTDBFV282QmswdWRxV1VVaklxd3ZwOVJmOFJMR3FJYTBYdFgwZUhJMmotRnBmOUhOZXYxSEtocU0?oc=5",
+   "published_utc": "2025-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI tools not for decision making: Kerala HC guidelines to district judiciary on AI usage",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkhzVFU1aVNXR2p5cXQtSWpLb2R4OEZPeU1OQUdZeUZQWHNYdWkyRzlfeFRtZXh1b28zRmRiaF9Yb0VoZkpOSVoyQmdiSnk0Q0xvVzB5VGQ3Z2JYdU1fY0QxSTc1bWJoT3BIaEtiOXRlOUl2OWFRYVVKOXpjMW45cXhPZktKLTI5eVkyUWJvX0RGZmxDcUdUaWhTRGxzNWN5NmItNFhSb0t2UlVTXzNYdW9RU2t3c0Q0QUxjSFlhOEhtSFFZTzhVUFZ5WjlLdzdqY1dGb9IB2AFBVV95cUxQYnFTM0xkV210dGNCeG9ONi1MNHhFUjFKNFZ3QWNieU0tVHVRbExpMmZLQlFIT0N5eC14QUIwSVVTMlRxRWthZTFsVmFQY0Z5TDhudS1oVWpoeS1ld2hyclI3Tk92UjNBSjBlUlltT0RwMFVvTzRrN1BDSkp2S0RqS0tXX1ZvLUh2bHdNTjJnRkJKb29FSmJjM3dqa1JPNFc0ajlRVGg1a2RxSmEzQno4c2dfTEh2dVRjN012RVdxLWJlanYtdUhuZGpERFNaallQeEpJNnFic0U?oc=5",
+   "published_utc": "2025-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Exato.ai appoints Dr. Omkar Rai as Independent Director",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFVMaG9obkMwbTllR1c1VWtIdXk1NDVJZXNHM1M5aXVuZ1RvR1V2SFpEclgydUVYdXB3YTY0LXEtNVdGV0lpSHpJckljaktKS3VNcXVUYy1Bc0JESjZiNVltZkxRTy1yZmZzT2VaQW5PZXA0a3B4OE53VTlWd1g2cE94RGpfUUJYdmhWVEJIOWxfQk5MM2c3MmE2RURWM0JkT1VCSDNmb3ZjQTZ3NG5CM2xMbXN5c1NQaUhFcUJWdTZfSHBNLUHSAcsBQVVfeXFMT0N6M01tdVo4NmFSa2J0NFEwaXpwY0dxWExLWXE1a1IyZE1lTFJOTXVPVmN5Y0hVZmI3ckw0LVpqRWxqZkdlLUc0cFJfZEhmQ1hYZUtCeUpubDUwS3pMdTVTOFBIY0tUX3dmVHVrNTZ5VVhrZjdPXzJnRkdDWV91V3VTTGhESG9ncFVCYUlUaUQyVEhJQWNXQVZSZ3RCTFpkazlETlFYVjhhM2d1aTZYdDlGMkpKaGdJaHZTcEx3UHJmcnRmalA5cTRMcjA?oc=5",
+   "published_utc": "2025-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First AI-Powered Anganwadi Transforms Rural Education in Nagpur, Maharashtra",
+   "source_name": "The Logical Indian",
+   "source_domain": "https://thelogicalindian.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlpmRmxjc1owOHdNc3YtcnNVSEVpRXNybkpXMl82UmJ6RGdPM3pFMjhyY0t5R3VUUm16ZW5pUG5vYjFSN3JMZ0Q4VGsySDNSSnVLQnBKN1FETXdta21nM1IxLXBmVHkwSnAxdFRxVEhPUG5PZ2Qya2k0TXFIbWhUZ1ZCYzNBakpQZVFUOHQ3WmFiUkZ4Ujdjblk5MnVEWVFUam92UlhnOW9kOGNONFBFYUxR?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

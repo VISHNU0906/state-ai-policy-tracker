@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Rajasthan targets 200 GCCs, 1.5 lakh jobs in five years: Chief Secretary V Srinivas",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVHM2tnUzh3d2h4dTN0MmJGRTBYaGltYnZKWHRyTjg5OHRnM29sNjZreXdGNlIzOUpFR1NYVGpicG5KZWVMdDV3dkRjUHN3S0Z4a1ZnYUxQdUJXNnVCU0o5eFJIMXJhdl9hbG53V19WeFFFLS1YSjNBT2tERThEWFcyVy16aUM0VEtPa0RpMDcydjdQQzdmZmNycTRoUlJKMGZWUi0tVHJybFJlN005N3VKak5kTVMwTEpiS0hYRG1lN2hCc2E1bUtWYWRaRkIzLXY3VTRoSGRsbGszVEZjVzR30gHnAUFVX3lxTE9hV1ZuT0pkNzB0ZTlDc0dTLW1iVm85S3J2QXQtX3A3RWU5Vi0yWC0tdFVEaThpOEJJZmxNZ19lWnM0U3ItLTJHempUTlZ0Qy1QSjN3WHNOMnZURFpVZE1zT1dZQUc1YVJ2M3hZUEE1bGE2RTkxS1pjckhkQk9RQm42R1J0N2ljVXZrMXJubjdoM1RkN3NrUVZmeWxOMktXWHBkb3V1aGpqN0VzeTJJVDNpdHNzdnhJWmlWTUJLbVlDcTdxQnJFc2tGeHktMFF5LWp0MTNzeE5mMmlnWHpqYVg2Q0phVWQwRQ?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Solstice Data Signs ₹52,600 Crore MoU to Set Up AI Data Centre in Kerala",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFlVejBXMzBGUFdkaHlNbzVTSlJjLVZUNzU3R1dEc3l5WG1lV201TmRTSC1EWUhseFh3YXVHbnFobEpiME42QnZZeXo0TWx0Y3dXLVIwNm1yc014clpJZEtoLXFLRnNEaVpHczBqY2JOUjRfNW5sOFVLdzVTbUtUV2Z0cFBLRFY2Y09YMXZqLUswc2lGeWVPY0J0eUtEZ0VOWmtubVFxTnNBVHVk?oc=5",
+   "published_utc": "2026-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

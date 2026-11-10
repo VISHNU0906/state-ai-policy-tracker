@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Maharashtra govt, Lodha Developers ink pact for Green Integrated Data Centre Park",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcHpZTFpUNi1JNFJVZkxHUmdwZjlWSThfeGRUaTVRbjlsZlpvcHVkNXFXZTEyRDVpazVFUHFZZ2d6VkpGZDJHazRGYmNwcVo2VzRlYWFseUdlMGhRa013dENNbmFHSVF1b3A4WHluUVJIUkduNVJJM0tGQ3JXNlRELUtlbHZOZkd6SzRqUlhhMzVRZjBkOWF3TDExRDVFWTBWZ1V4X1ZoRjFOLTNrdEJrNnVLbEdJMnFNVFhZb3p4U1AxMmRFbGNSMGRLdXYwVHZrWnd2a0VucUNDWUUyTk9XNlEySWlfbU9vdkdPN0k0azlkc3JpSm9HbHJBYjdtOFZVMHRVYdIBigJBVV95cUxObXJ4UmlyNEptbnpVbDFtMTNISWZoQXd0NmpZU2FSR1R4cE4xMVczT3FVXzRMdVk3U1lqRm1ENjRweVhBRjZmUnNBNTU0QkF3czlET3ZkSVJZTTh3ekhkQ0ZSY1FwS1YzSi1rblVobHNsUE5mSTV4V1JwMVpSU1RfWkNCT1ByRWtQTGcyaHBSZ2s2SzFnMzV3OUVEY3l4eUVZRlc4WkFDZUs3cmQtbmlHYWQtZlRkaUpQbUMtS1hsMTRRM2MzdERuMUNYemtLS2dQQWdyWXgwZFFyQkQ4cUk5eHBKTzlnem9OZy1FS05PV1A3dGVGOFlZWkFtNEFob3Vhc1pUbm4xRXlfUQ?oc=5",
+   "published_utc": "2025-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Lodha Ink Rs 30000 Cr Mou For Data Centre Park In - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2Ewd2JCYm5VV2pjTnh1WVdIb2tjRzk4dXdPY19RZXNuYk5ieHFvZEJhbUxaTnkwaTNKQ3lYQnJ0c2ZDSXhHYzVsUGVWbkNzTVV2eVFBQmpiTVBaTGFmUEJQVFBzZDQwUkFmOEd5Vm9xYmdZeVVaSGxlRHBzbWpucEN5NlNRVDNvaE1OTlE0TkV2X0dqT3UzaWxFR2JmcGU0SUdpX1JXeTRJZy05R2ExTnBPY1hYdw?oc=5",
+   "published_utc": "2025-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India data centre capacity to double by 2028: Report",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2lzcklCdDZSQy1oMUl6NGlyTzdYWnFpcVhEbm8xbEN4YmIwQW5rNWc1QTVOcXNTdVBvMUFwV2NORE9kRnZCYzRLWkVrdFNuTVBzSm9FbHFGT2VvbEl3Q1oyenpYYk5Wc2RRSDkzd1pBNUNBakZnWlpJXzgxQ0VEcS1SR0k2c3B0Z3Z1TkRndGJRbDc1MWplbzN2NVk2NzQ?oc=5",
+   "published_utc": "2025-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt, Lodha Developers sign ₹30,000-crore MoU to set up green data centre park near Mumbai | Real Estate News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQVZJamtYUWdteUhBdEdnd1FEeXRTQm03VlluVnlZbXNxZ2RPNW5VUlpUNGJJaEhlUDRfTUhnSUVPRS1yRmNsODBqVUNjeHA1RWpWSkpGLVdMczBDYTQyUlVpSHh6bzBaZTZ2cFRsMWZaZG5yMkZPWkQteldIT1VLUE5UVkV4Vmx0SFpDMEJkSENxS2tpZG03UlBURUNTem5rdkt6aWRWQVdTQkRhZGJTcHBYczdUQUhCRXFNbjFpYTFHR1dLZFBWMF9JS3YxODRHR2ducDlUb0VZOWR4aHpfVlJoQjI5cFFnSFVUTUZlcmIxTjBhMUxV0gH8AUFVX3lxTFBEM2V2SzZWeW9BTUpENWhRb0FtbDFDbWhQZE1jY25aSFRyY19SMmQyOWhNckpFVlZyMmZtY2xManNuWXZIVDRaTWFPN2ZEY2pTLWF1cTVrSmdqQ19IVGdLR0VBdjhDTE05emlkZFphYmVMZ0RQX3c2YTlxRl9xYVVsVDQwUmJWcmR4ZWdZSmxFMHB3NlRGSHM4NVNway1oRHloc0wtMzA4WEtCZUxWQXNJbnYyWWxJcjkwdTdWN2ZOWFYyeHo5c3Z6eTJXXzBKVDd0eDBTV3hEaGVOS21UQ2FDSUd4OVJseXl3WFBfNHN0VmNfWnFmUnZGMDNtVw?oc=5",
+   "published_utc": "2025-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt, Lodha ink ₹30,000 cr MoU for Palava data centre park",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeXZvOW1lclFmNE9FZ21nQTA5X19UcEhlSEc4aWhJcUVUSGVmcHRuSi1sQlJyOHRMVHU1QzduallwOTQ5S25lcEp4by16T3hxSVItSHZiVS1XQVpuOElNRnZMeWJqc082a213M3FiNEpfZVdUajVpb0FMUllDcHNWTElxSktUbVoxcEdCaHBRYjJhZmZZRmMtajdoQkkyN2xKdjkyNjlYWnNSSnlIb1BtZ0dJVmFoSGpfS08zQW91T2JrbndSeEJCV1R1QdIB0AFBVV95cUxQSVNCY29UdTJfaU1mUDZHal9Yc2VyaUluWlQ5blhYSFVfTXE3NW0wRGc2U2hERzQ0ZXMtWGdMYkdyRWFQdFlBN3lLN1c0R2dYdVpKMHlLd0ZKMXdORlU5dG1YZVVOMTVjY1lBMVZqWWlaT2ZrZVhTNlV2WVV3XzczWExiNE95YVpua2liV1lJM0FfSXBhX0wtOU5BZXFfTVdnc0FDUDlvQjBONkZia0dKc1J3bkxhcHZwRkpjdzY3bC1vRF9wby1aTHAwbGp2NVVZ?oc=5",
+   "published_utc": "2025-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt, Lodha Developers sign ₹30,000-cr MoU for Green Data Centre Park in Palava",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTJxbGlzLWZ4aWw4UnAxYndVN2hPZ0lPRTVWN0hORkY3WG5DMjlyZXdPUWdaOGhySlVwQVNYVy1LM2RwQkpHYkMxQzZocVhHT1Jmdjdfd2tSaWpHR3JkYk5WMktBLWJ1UzVPb1dma202d3ExZXZhallXbkZKRTlwc01wOWV3X1plZDlEWmhsMU1MTklWMEtXd3RsXzZUNWlVeUNxVWlndkp1TS15V2kxN2w2aXl2aVFNSWJ1OWd2SGxWRUJDQ0QxaUpDZGJNOFNwSVdnV01JNFfSAd4BQVVfeXFMT0RFd2F4OGZXTXZPNE5HbVJuTHB1LU93enBOWUZGdGt6MDJUVFpLay1rTUNka2NzQmtwQlFNUDQ3RDlyZ1hCeFd2eXZybkdjMWM1aW9Talp6Mmh0M21Db3BsV3V2ZlV5ek9LNDZMZ2ZtZUNjOXdBXzhEbC1PdU4zenp3eEctZ1NHUEcyX2t2aHlhRjlTMXlzOEVzZFU2M0VXbm1raVVZV3dRSDM0WVBreEw5LUtNM0RJSGZoQWpLZ2ZiNXU5MVZaWVkxRzVVTmN3TGFlZHVoT21kNkJyTk9n?oc=5",
+   "published_utc": "2025-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha Developers signs MoU with Fadnavis govt for Rs 30,000 cr worth data centre park",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYXMxT2NfSklGS3oyQnNaSmpUcUVlU0lEbmxWSUFWQXhRMHZXN0p2eXU1RmNSM29rS19yS3g1aXhNRFI5WmlEZWlxZzFwdVgxM0d3OUZDeEtGZWJVeDJ6WGdIOWFZNHJoMXd5eE5iQVg5cDVKQ1paZDFtQktsakljWXhLU3VqaHA2UWtmNmhhX1o3MHpOVm9qNEpuVXY0cXNOeHF2MVZTYTFxaWlpTDZCVDY5Ry11bENEdXVydEROSzE4NjZOTWR6cmNzNVVaMmhYLTNnT2JhbnAzblkyb3FuSkFOT2Q4c2Iwa3EyQUZ6RW5ROGVZanBlS3F5RHYwbEpOQ1dwZi1jeHhBUdIBjwJBVV95cUxOTDdSTm1CWlFoenl1dlpwbkZYLUZJWE5RRy1zb0R4MEdTUzdfQ0VmVzI1bEJXSVNzNkt4SUVtTFE4cDNfU2stdmlZQTkyamY2QzJPWE5Hc0NIWGotOFZEWm5Sa1o5S0NmWU1UYmNGWUF2d1F2Smg4eUJwWkVvWU55VnRPeWNsbEVYcUpET2N3ZHNhcXc1QjFPTV8wb2NwSk55Y2hsajA0RVlXcTVYd3NnWkQ1NmlzZW5pMEl0Zk1la0dkVldjVkVHOGFVQm14VXFaQlMyRDY1WjNLZXNhN1hBTGdBSVk5REs1NS1FUWxTUUg1ZU5DeXZPUkRybWhrRWEzamp4ZTRmeW1EclZHSmNj?oc=5",
+   "published_utc": "2025-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Fadnavis lays the foundation stone for Amazon Web Services data centre in Mumbai",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdjhCaXlhcXdYSk5aLV9BZzZhc3JaNXFNa1JpdEFiNTFGZGZYM2hwMl9mYVB5dnl5WVpBclBNbHljMEtRMG5XWnlJelVTSGVORkhXRklhaE1VTnlGRExYSFBIanB2QkY0cS1YZTdnSTNZM1dHUm1WUk0taDlfNnNxRHBnczI4UnRwa1ZibXota0gwejF3SzhYbE5ZMHhqeHA5QUN1TXllOFdERmRlaUpYQWZhRmtBUnBZakNmZnhXSnp0bXN6M1JycExESFYydHNKcjN1TDdJRHM2T2ZOS0YyY1JQQ2oxTHRVMG1mN2dZNXdVdzR1?oc=5",
+   "published_utc": "2025-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt and Lodha Developers Ink ₹30,000-Crore MoU for Green Data Centre Park Near Mumbai",
+   "source_name": "PUNE PULSE",
+   "source_domain": "https://www.mypunepulse.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkxjWkVYaVpUdi1Jei1OdndVcVdpdUlWU19yWElpZ0hDbmZGY0FULW9zcnJRSHpIZ3BHZnJsalFkYkx1U2lkcEg5dmtXT01IelI4dzU4M3l2OU9DMFJBcVlic195WG5Rb2NYNURPNS1Zb3hLM01faklsclZGS1N0cGVaTmh3dkVLV0t1aHNucjRELUJnQ09kZHg2eFE2ekRkempZcjE0aHRLNmhuSmhfYjlmRDV2MGEwY3Jnb3BSbWVBNGk5amY2aVNTMl9CQzQ?oc=5",
+   "published_utc": "2025-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Devendra Fadnavis Lays Foundation For AWS Data Centre In Mumbai, Flags Off Mobile STEM Lab",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTFB4dGZtUzhULUdjSlRJaWtyVkNycEtGdEROelFSSS0yVlRaNG9aSHhEWTE5OWpiMWVLVF9HWE1EOEJlMUJLVXY4Ym5IOXJOYUpnRUIwY1NfT2puX2tPLTQ4cmhiMHJGNlBQam83QzJnQm9xOFo0ZVhmU0xzRy15eTBaRW14T0RzcEJ0cERpZ3NmOUdETWduSFg1QkQxWE02U3hHMGhON09XdHc5ZW5BeUFFRnc5SFR6d2hOU3hpYVNOenVYTng4VlFZd9IB0AFBVV95cUxPUGFqRE1nNlZIQy1aaEQ1MENQc0xuOHhzM09ySm5Nd1p6NmwzVlhmTE1MNW9GWlZjTXdrYXd3LU9jQ2NXdy1UZUlGM0xQRTljOGpfY2N6R21qbnh0LWZUYWRZeFQyTWFLamVvVVRaYnF2dmM4V0NhVXMxZlRLdXRhZ3FWZkQyUnJPTVUyY2tzbGFpR3ptTldRUGxNQUpFTmM2N1FSZkFmOFZRZXJ1UnZabDA0eGFoX0Vzc2RYNlByc3BUb0xpUUJGcGxPTDJvVEZE?oc=5",
+   "published_utc": "2025-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

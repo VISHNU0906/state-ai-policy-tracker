@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "From palaces to policy: Rajasthan’s strategy to build a world-class tourism ecosystem",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVkwzTFg4NURVa3dRUTF1Zk9uTTJlT1ZzcEV4Qy1uN2cyR0xhclBicXJPemxUNWtfZWVWUmxZOElSYVVNN3dTc2xhaTZEOENGTktCTTVLUXRHclIwTGhGUDhLeEQ0UWJMQXhINGFHaU84RXc0ZW9xNGtrTVBNblN6aTRERFppeFBTbkN3UlFZaExlamgtOXMtWGhmcXQzXzFzcjhLSGU5S2pWYVR6TEljZktaazJ2Rm1LdnFIakZGNUt1RXFwYTRhWkRHcWFCLUZ1eVd3NVYxeWFtQktJUlFr0gHjAUFVX3lxTE9QUm9weUdYYkdtVkd6UjN6dmxGa0huelJXZUVJenBRWUU2dXRhLVphQlVnSGVnSVNieUxhMWxDelRHR3YxMmJiMzc1SFp0THA2WUdQQ29kNnZOY2I4dUNjdTU0clFXTm5rVVU2VGpobGFOcF9DTWdvTTZiYzVDZVJnNTRTS2tTVmFsZ3FnUkxPYU1iYkU2NXNkQ2Q0ZUV4YUx3bVZZNjhsOGhDNS0ya2xZbXBjUmxITDR3VG1QWFQzd1pSSFFXcGhaWUJZU28wVnh6TWJZTld2UFVsT2FHcWd4LXFv?oc=5",
+   "published_utc": "2025-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This video showing a tiger attacking bikers in Rajasthan’s Ranthambore Tiger Reserve, is AI-generated",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0owbGk5V3J5cE9lQjMyYnhVbkk1N2xqWGNYMmFySmZGSXJZdVBxdEtJUlNCZFJXNXhzdEJwcFJWZWVKLUVCRWlubTdsVnlJTHR0UnpnQXFCZ3VLTHJ6SDNJYjFwZG0wYmx2Z1RVdWF5VzRZZjBZQmdHSGJtT0hPVkQ3WWJjbUdLaG9KSFhzVDVtaE9CZFZuSUl3NzlfMXQ0bml6WV9PWUVua182VzJ6LVFEaHp5WDJFY2c?oc=5",
+   "published_utc": "2025-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

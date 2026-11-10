@@ -1,0 +1,61 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Central Water Commission (CWC) Organizes Virtual Workshop on \"Technology for Efficient Water Management\" as Part of the Sujalam Bharat Summit",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iVGMtMDJoaUJvVkVNRVpWejFWZmRxS3R3cTlLVVlhTjNpOGlwZjdLYm5jQ2ZDZmMxcGg1R0lVME5ibUVzTFZYZVI4cUVQNUhGbnNxYnYtRy1kRFUyQkk3V2xjLTYxeUpL?oc=5",
+   "published_utc": "2025-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Exclusive | Ambitious plan for cheetah corridor between Madhya Pradesh, Rajasthan put on backburner",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlFCODVPSHlSRHh4UzlLLXVIaGx3bm9XOHg3MlZocE9BT3poS3VjMW5VNTRlTm1GcGtJQkd3NDM2eXIzc0QtRjFWd1dIdk1xT0VDWkZUTDVCT3NNYXdsMTd6eGFvQ3FRTnpMOVFrZHBWeUhvZFNtMDdjWDJVZzBSdW1rOVlHWTVwdFRkWnNNemNUYVkxU0NLeFVCY3BtMkh4Z0VJUlQ4XzEyTFNEeTM3LXBaQjBkcEtBR2J4aWdLVDIxeFXSAcoBQVVfeXFMTThwLWxMZktvT2dqS0FmUmtvcHRTTW9sNWlHbDZOTFlGSjBzUndwbGpEbEF1T09CZzFteEpvUjlGRzlHNWlTMVRNSWZLNWtfSWZ6WGRzM2hrdDUzaUZpVmhxbVY5S3llQUVldVdaTGN4ZHh6SVdNLTUxaUdINEhmU2w0T1NEQm1xT0Mtc1BEVWZJcVAwTEZxdWU5S05VOGFfZWVHa3BIM3BPTG82U1c0ZXBxbjlLeU83TDh2WDluOUN4S1pfbWxfTW1PQQ?oc=5",
+   "published_utc": "2025-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cook Earning Rs 10,000 Faces Rs 46-Crore Income Tax Notice In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHo1cU9vdUY0Q3gtc0lUM01ReUtUaXgzUGZQUk92Ti1UdzdRdGhmYUdJV2pLNmhJUS0xNkJaWS1NNEtSVTI3MUo2UkZ6bWpIY29rbTNGTE9fbnRVcXZqZHV2eEJqdXZVcW9TN0JXTS04eGtPWDhCekRfUktjQ0xTc1RsU3ZqUkoySS0tQkxlaHoxU241TUZ4V2FMbVAwY3FrbmpMZlRLZHkwYWV4U2FQeUk0ZVdpTUnSAb8BQVVfeXFMTTJ2dnBFUnZQdWFHZUFQckxwZWRobWlhY093Ui1hRG1wb1ZSWS1ZUHUxTmhNejNWMFBveVUwanVtWTFvTFpyeklaeFR1NG55bzJkVG9QYV9RY0dsdVNYSloycVRVeHhNam5sbi12U1A1dWdjNkJHT1hJdXBEWEVNc3VFblJVUUJPTFNlX2Z0ak5iSU9LS3M0Y2tZU3laNjdCZnpMeDE0QWtYSVZKUXZaSnNmNG9RVVVHYmhZc3I0T28?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government approves promoting vehicle scrapping under RVSF to control air pollution",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUGx4aTR2RWhhUEg3SjdKbi11X2VNWFhpSEJsWXY3U3RvOEx6Qi1SUkxLTGpCRlA1SkJ6WENFSGhqY1pHdFlqT093dDNEYk9JcGRDbTFpUXFZRHhMZU9CNi1nU1Fic29FVUNRNGNMbkJlNjlrRURiUzU4VHBiN2RBSTNoVGhjWmVhX3R0LVBsZ2ZJWWV6dkVsbk1OVkZVYjVkUDFWbWZwb3pZUks4LTVpRWJpLVUtZGpuaERlaWpNY28weWVTbFM4YzdQOU1SQ0FGLTIwRXdVLTFwUHZKLWJjcXdLZ9IB8AFBVV95cUxOT1l1YVZRSlpZXzh1YlpmalJ3NzdFN1lUam53d1FnbVRyb3d2UHBYVV90bWg3QTFTVl8tRVdxQm5wZ1lsc1lwRkpId3RJUUFXcXhURWF2Ym1FV21vaG1aaktGWTlaa2UwbWJvSU95OXA4czQxY1ZnRUpqZ3pNMHA4TTFJZWtkNXY0N29haDBGNm9LSGpZWVAxTENfNWduMmNLbjFoLUxPYWZqWjRVeXlfdUZmZjJhQlRWSzhZYVJ2eWlscG9qS19DNlVTYVhYdGRUMU1MQW4xcTJSQXlheGFKNFl2VkY1R3p0QmtOalVrNmM?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP adopts AI tech to ensure female calf births: Govt targets 50 lakh litres of daily milk production; cattl...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOHlVbGtqU0RSNTZySTRMNGFyd3lBT2U5LVhHNHR1SFFYWHZKbUk1clA5NFVRUFQwTURQTzZlQkN4NV9YQ1pKMkJxSmJTaE1CRjkzWXo5czlUZGlWMTlrNGZpRHFWTFBYLWZNU09HQzZ6dGl5d1hRdl9mRHFfd1FKZmd5UkNWMzNvdFNZek5uMmhlUHFzaHVPUk1vdUNGRmhJcGpxRXU3WGZTN1dNcEthcUkxVHFyN2dRTFJqZGFnYm4yT1VmNnEzd0g2ZUs1VUVOX2Q1RGRLTm5Qb2dyb0VnWVZaRzJjODBLUzE4LWdhZ2ZIR0JHdG5hYTdid0E3ZWxXMHUtSmZLXzFWcWYxeWlSSmVIV1dlampw0gGeAkFVX3lxTE0zd3NkS2RfcVl0MkZocEM3REJOX0c4U2tlci1oU29JZVQxV0lULXUzNHJBR25ZUlA3RnNQRlhvcHhpSHhiYzJrNmZra2RJWHFKdy11U29ubElwaU5uODBMbS1FeVNvVnVMRjJuX09UWnVGeWhkLU55VmJnOUgyLUR0Y3JuUlBmcUFyWG1vdEw5WDc5X1R6aDl1d1p3VGdvb3JlLUEwd2hlUzFYRHp3dUFWY3BlRElKczNjejZIekk3dlRfSHBUOGdzTVEtLU1Fb1QxOHNjNG11Z0ZqRnRubE4taFFqeDY5cFVNdVFlSTN1dTdUZ2FWMV90TW8yMFJMVi0weFZOTzBKMGFTZ0F2Y3cwN1RtMDk0bUYybzlGN2c?oc=5",
+   "published_utc": "2025-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Torrent Power Acquires Land Assets Worth ₹211 Crore for Thermal Power Project in Madhya Pradesh",
+   "source_name": "scanx.trade",
+   "source_domain": "https://scanx.trade",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUV4QVIycjl5dFFjaXNDcXdZUWFpX2MwOW9sZHl5TTYzUy1IcVJzbXJVZTA2ZFkxaFdqNXRYZEpnQ0I1SG1kN0RPaXVwelFLUkpYY2hYR3o0Wm5uS1NVQ3JBdVZsSk5kOEstbzM0ZW5ib0FGLWZJLTNpSm9qRkhSZ3luVzRHeG9SMW1TRW5Wbk5teUExSUJHTGUzc1BmNnBzd1pyNXI2WmdnSDBQVUdrMUFCcGNGZFkyeDhTeXhzWW1YU2o2elBmWDBPUWFqZjJxd1MwOXY5bGF4bmRJMjJCNGtIcVJsTjJ2ZU9EYmRDNXQ?oc=5",
+   "published_utc": "2025-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Exclusive: TCS says Bhopal office only shifted, not shut, jobs intact",
+   "source_name": "People Matters - HR News",
+   "source_domain": "https://www.peoplematters.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjFyLXpmeDlIQ1VpdGt0VDJoYnhoQ0dXbkJhYnVQZWVNclNCa01PUXp2WnJBRU9iMUxSaE1TS1VncHpFWWJPQ2JycVZKTFdqOWhuSXFKZVZMUjdKdzQyUEFhMy0zdW8wVEpJcmhjMjBTRmtrcEtfcFNTdzFMYmsxLVp5dFNKRzZ4LXJxeXFvd0xUZ2ZNZDJJREV3Y0E2c0JjbTYzWFJVSHhjd0h4LTAxRFRpNVFuU19hXzRV?oc=5",
+   "published_utc": "2025-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

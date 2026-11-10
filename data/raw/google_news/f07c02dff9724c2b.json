@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Maharashtra bets bigger on green data centres; expands policy to entire state",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZVVMVEJyWGZNM0FrZXdGektvakxHMEdhbHpjTWNoNTdjZHd3Q1ktNVEwQUVZT095MGEwYkx1VHMxVG54ZUw4TE9FMnlGNF96d05TQWZDNXdLQzQ4QmxkN3g0YXJ4MkdQajNmb1lyWVBrU3UzaFRaNk92a1dzZk51Q25hUEFSbWMySnlwQldZdXpnaGt2QTVyZTRJWnpnZGEtb1pGV3VFQS1KRDY1TjZsaGUwM1kzSXBzMWpoLVdxWkVBeTUtN1VoUjA1NFBuLXlXNVR5Z3ZaYTN6aHRLNmRGZFUxVGkzYkJfR3NndWJNUk9pZ015cXFLR1o0VE5oSzjSAYQCQVVfeXFMT2JZMGdkbDRNcTFFcmh1dnJSSlJ1VW8xRTR3Q2JONEJGanJoLWd6SS1hcU9KYll1SlhPajM4cE44SVh2aDBUeHpYUjdjVU1iZG5MQWF5U01HMzVCQW5ibHozUGZEdndHUV9wTW9QTzA2czZuRjJrWW9EdnhzOGRTQ3pZUlY2TFhaWU5yWlZOSEk3QkluOEdRVV8wT0tNamJQYzdiSUN0eFBlNXNCWUZpVnQ0WE1xVnprNWFBSGk5eVdfR3pCeG10bUR3N290elpibW1IWmtGOUMwem1lTXdHNTh0ZnFyXzZuc1lvajVqaTF4LVVicTBXWDBtWWJBTUI2ekRmN0U?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government bets on ₹16.7 lakh crore data centre push | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzVka0I2eEl0TFhidmNoVHhKQlFnTEJRVFB5NkZTUkJza2s3U1lDTmJJclN1WVcydzhqaERjZzd1alRYSVRMWWtkZk9VOVAwd2lkZ0d6QzR5X1cwRDhJc2owVU10TDVLdVB6LW91czlIcGdXUEUwbHZETFVqdThjRElYYnlQYzFFeXJsanFMS0xacTZJeUxuUUtfeS1TeEdzTER5MHJycDV1UEhnaDlOamwzV2M1NE81bmVVYXJKamZkUkJ4NXVZ0gHMAUFVX3lxTE5FWUZ3NGpyVUkwT0lRTDBSOENLRXlyTUZ6dU9heFZqMU81c1ItTFFhMkJxUG81ZUJELV91MFNMRGUxZUlScGZVY3B1dk9PWTcxTXpIek9MZ2RvOGJZdmJRaFV0alpLc0tGVFBQU3A3Y3dMTld4X3pHQVVKdGpJWnFBaGprek1zeDJQX2J3azg3c3Nna0RoWDFLMVNmdmZzWG95cXpwLWlvOU4yQnBHMHZIR05YVVNvVjA0bEJ0WjhlakZ0VGprZ3A1cm5MNQ?oc=5",
+   "published_utc": "2026-06-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves Transmission Infrastructure For ₹1.3 lakh crore Data Centre Park",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjNpMVdpUzgzbzhtbGdZMzZHRFpIbldHQ3hSWURsdXNpTVJFUWxfcDFBaXMzcnFQazgxQXhEcTBONzB5bTVCN0FqYnBqZklyWEd2Mnp5dEVtNjJXUDIwLUtsdkl6S3JmOWdNd2NDQWNWSk5XRTRIdXdGakUtdHRCTzJvVFlaY25QTndQYjE3cDJ2Q2FxSmNiM1dKenZVZUxTWnZXV0EwTjF3OUU4U3hra1hEanVjVk5xbDQzalFhaGd4LW1mOW1XXzVOLTRsZkJZaXlB?oc=5",
+   "published_utc": "2026-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka readies green data centre policy, eyes 1 GW expansion with sustainability incentives",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdUpEanNYRC1kVnRJNHA1ZUx1LUN1VDlZQjVPb2NWZjA1a2l0NWNVdi1OODcybnVsWEFNbmk5dV93RlpQMTNQenB6em92blJIZTUtcEJ0V3p1UVI1Q2FoUjZzaGpFOFpialRzcmxxTGU2VDk5bjNXTkRwQWNZcDlGV1ZhbFlkNTNWWXJ4akE3NTJGcHMyLV80OElfRG1aQVNJUHhuaEk2aFNoREprYUxGMkI2NjlnaVdVdWJ2aHZKU1pkNVVIZWg1SjhLcFVjYloxczQ4UkxjRW1wSDNfVlYxOGVMMnpfNDMtS21xOWM0S1BtNGxY0gH4AUFVX3lxTFBYVGo0ZTQ1UVktNHpBUUZndm9qU2NSaVRIYnlZMmRNUV8xMGZPMGc4NVQ3MFY3QzFMRGh4eWluSi1hTVJKcVlIaWRZNW1iQWlZRHlZWl8wMFZxYm5BalNtaDBQa3VTUmNPR2dnMnlpUnljTDNjcFJIVkk3dWlMMUN3cGRpX29RMmxKS2E2RlNVUW1jOGdwakVlUWQwa21TeDhycWFISUt5cTR5a0tFaU5oeDIxcG0wdWFJc2cxMGhGUS12cThOVTZkY1BqcHFqZ05Jek5DRU1vcnhwa0Q1U2RfV3gwMmZjODJmLWxQcEtiQlpsdjBTeUJf?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AirTrunk Announces ₹2 Lakh Crore Investment in Maharashtra; Mega Data Centre Project Planned in Raigad",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNazdvYmdZUXN2TnotaGxUbHAxZ2c1aGQ3RWpTVktMdUM1N3JRQTFoS2k3VFFDUDJuREJscDBCWnJQc21VNjd4T3pqb3dXVnplZTBHUzF1UERXYUR2ZEpMdlZ0V2pFUUt4ZUFsRDg1dUdTU2lHVW54aFREVXhQcjAxMDQyc0dsNkhQN3dtNGlNcnd2QzNfcV9OV2s3ZUIzbmc2Y2k5SV95QVI2VGdfcXN5SC11NGxvazNFdVkxbHdxYTBLUm1MNzhHQk5FWjZIdVZEWUFKSg?oc=5",
+   "published_utc": "2026-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra issues Letter of Intent to AirTrunk for Rs 2 lakh crore data centre project in Raigad",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeVdqUEFZenk2aUxwTU53QWRYTWJuU3pVZ0FpWHJRc0t2NU1MekVvSUExYmd0azc4TW1yb0p2T1o2NExBT2ZKVDJySlctbVR2Ulo2ZHJhWEh5OVBNWnM5bW84TWJIMnNxN0lwU1FyYjZ5aWxfYzZ5SVh4QVdQZXBleVZLZlBwSzE5NlF4b0xrMktPSVd2ckpjME96dFp0QVhuSjZyMi1jTkxvMXc2ZFFGYlB2c2E1aEVmLUZRN05pa0ZuMUlKTDBubHBRMzJUQXFZYXViLXZZRVpDNmpBTVo3Vnhn?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘A city short of 30 MLD water will use 12 MLD for data centre’",
+   "source_name": "Mumbai Mirror",
+   "source_domain": "https://www.mumbaimirror.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2NhU0lYMFFVQkwzQ2JQMHVvdTJnVzJiYlpIc28zYkk4OTB2eHRsZERUb3Q4MHBBcDMtREptajQzWGdHczZSM0xxeTFCX1ctNVBBMXFtQVZVUmJMeHY0UWFHRmFEazRQT2NjbzZxRVJLY3dPc21WcUp3bWwtaDlyUlhCbnVTeF93MnA2OWZ0T3B5akFESGNMWWp2VVRwV1BiSzd3ck9WREE4anFKYVE?oc=5",
+   "published_utc": "2026-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State expands data centre policy’s scope, incentives | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzVqZkRReUZvd1dEd0NNNTRRQ2RyY3h6NFpaMUZZTUJoRFVsSXlORmFrcjRfOEJwUzBPOC1qM0poNWNYdXpYallpWlF3bF9TS3dGbHgySVhGYzlvR3EtYzZEZFA4UXZ6SUVYVDMtZDEzMjBaN252ZUV1MzFkNVFOaVVxVmlxajdITDlMRi01ZTA1bkpqSUNjZDBtLVdSQXc0U2ZGaDFWSG52VWk5LXE1RWRpRmxNTGRmdHNUSm03NNIBxAFBVV95cUxNSFpvTlhudTlGN0paWGZNYlFKU3B2c1gzdlJ6QUlRSTZoWGFCVWxBM041NU1YY0hFaWZrOXA1SDlZUlBNUGtWMkxYUGl3aWllajBtQ2xjaTZEZFdmdVBXeVJnSTZlYV9PUlhjZzVadXVrY0RackJ2RFN0ek9oeDRPM3g5Wm5hblNNT29ITGhXanluSld3ZDNEQkxPY2paandZVlFuMzlQOWpFYUstNmFJbkpjd0RKUzhqZ3VyTXNKVTRFUWVy?oc=5",
+   "published_utc": "2026-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MERC to boost power supply for data centre corridors in Mumbai region",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX2ZTaFQ4VWZLNWZtSXJnalR1UnZmT0twT1lOcGJQLWtKZEhJaXcyNkI0VXo4N21WYkNTYzlvQ1NZcmxacmswYWJ0bks0MjczZ3ZjTl9aU3Zzb0JuQzN2UVRkbm5zOGk2enVKRWVyZjNHYzJCM3E0N3pPTlRKYlR3THBVVklnMW5mNVZSejZrQklrN3FqLXNFeTRhbW8xZ2RzbWVaNkF0cW9oSldUX3ZvX2Frb1haR19YXzlWOUUzSVVTN28tSWh3cTM2dHZpdHhYMGxVVExLRU9IemPSAeABQVVfeXFMUElkb2ZtTlJKN3R2Wm1JS1BOMVBOMy15dkV4ckwwWExOX1M0NGZqdVpObWVULVMtSVJETkpDcGVsYlA3NHNUblczU3JsUDE2a1pYMzJSMzJYenk3RjJfOUhjbUlLQ3M3aHRMV0xqeVViTTZjMmlSdmhUSlIxNGF4WnBIcDA1TWV1UWZNMXp5YTNjbUtvYU1PTVlpdFlFUWNWZFFLMmstRDBwbFZFckZUNGdfcWxBR3pFMXNzYUVoQWFnRGlRRGtTQjk2TWhHLU1vb1RnZEthcVBJWEM2TGxySy0?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

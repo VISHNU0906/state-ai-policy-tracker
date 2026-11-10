@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "CM Fadnavis meets Bill Gates, discusses use of AI in agriculture, health",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmtuR040Vjk2UnNoV0ZMdldKbVJleXJnZllDRXRDQWc0dGl4cWcyWFo5ZWE5VktuN2MzcFdkbEFQbUJham9EZFJYYURYMTBBbTg3SnpfSDliZlVYbkpQYU9KWXBiMXBHVmZIV09kUW5mZkM0bkxLbFdSMjRVckV4Ym5LWnlfRjBJeUIyS1VGQkVNSE9Hbm93OVk4UF9wZGZOeGZpMFdjNHlpTzhKMmZJMG5vY0xaNmZhVXIzWnUzVGRxUkRsdGxfNVYyVFFUbTh2TWI5SUhOTELSAd8BQVVfeXFMTm5aZGlmbWpnOGoxb0VrTmVQREhYU2tfS0REV2RpSUFiY2llckdBUTVZb19lamp3M096djcwcU14T1dFQjhyTUNNYVJlZUdyZ2VlS2ZqanFnMUkzVjNkSnJZNnFTZ3lZTDBMMHl3MkF0V18yM084QXBUYmpkSDlwdGh6U3QzTDVsbUdpUWVySzFCb2EwX1pEZFAwN1E2aEJVQjdwTHFFSUcwSnQySkE3bmxSd1A1V0FHeFRYQTlLRmR6YWlrRU1HWGthMHpBZmNVQVRFVzlLY09aUzU1ZjJCQQ?oc=5",
+   "published_utc": "2025-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Looking Forward To Working Together\": Bill Gates On Meet With D Fadnavis",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkluUjIxODlob2FYYnkzTzFRb3U1OEwyVXFROU1rQmx5QXN3NlBMRmlRM08yN0ZpbDJBbHNlcGxWM1dDaXBYNTFfUUVMM1FVNXpUS0ZOdmQ1V3FxV3AtV2wwamd1RHlXcUdNbW1FcUVjWlVRa0YyTTBKcXU0VjRnTy1yeWtkeWN0UzlhNFZVUmlBX3l2dWZ6TGNHMlZkRHkySWF3LWV0aFd6YnN2T0hMT1JFS2lmalQ4bWF0djhoc0kxRGVaMFhZStIB0AFBVV95cUxPMDZIUlpCSTNEdW83RERta0d4MmVvM281TEdrakZHbDZiU1pVVzMwd2h4eXJxSGtNaWJ5d0tFQ0FUNnlmcExILUZJTmF6SzllMl80Ny1Mdm1mbHUzd0lKeVlzakc4Z1hzR3lXbjVzc20yWUw1cG1FVHVFU3VsRFNTTVhwdUxsZjNPbnJyRi13dUdTNURCVjVqamRUd3ZvVFVpS3VwQkFtT3NnQzluTmRSYlptM0dibWxMN29NeFhBM2lKbHI5cEpvVVdRVDFaR2xk?oc=5",
+   "published_utc": "2025-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 7.20 lakh crore budget tabled in Maharashtra; focus on use of AI, maximising land under irrigation",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUjZobTFlblQ5YUpucnN2TGJEa1NwdmlBSjByajAycWNKeW93MUQ2bGJoSjd6a1UxNW14dUMyNnFXandtWE9RT0JLMUpuMU5fb2w1bTRCWS1DSDlEcWh6dkNDQmM4S3JZa0tsVjJ6eldYRUNyVVV0dE1fTHo3ano3M01SVU5UMmo5Mi11WnVFaHY2YnItRzd0bklKOE44dDJRZ3RpYzJWYkJYN0xqSU9QUlA1Qm1RZS1NTW5lTkZhdFppWGJneHQxazBIZlN5d205SlF3M1VqUEw4cFJzekNPX0VaNNIB8AFBVV95cUxQNEF1LWV0OC1VelNyamd4cjRVcW9Ia3R0SEZzZDJhbHZTVHJLaVZWSDg3bExhMVR2bk1PMUp4TTZrQmhqVlg2T3BtVWtONTdUTkl1YUlPSWVwQjNLME5idkFZcEJYTUNCUHVFNEZnYlBBT01FQ0RBNXdONml2U1pvOExwS1VCQmZFNDhtMC1vMHRfM3NMVjFKTEw5TldjYkk5X3pyVy05aVlSTzRxQ3Y3b3RKQnJVYmRheER5bnpkTlNuVTlzeDF0cFl6eXd0YWdBN0VxaTNVdGs5X1drOEtvQ0phNkxDWFJKZUh0Sk1wTnI?oc=5",
+   "published_utc": "2025-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to issue social media guidelines for officials: Devendra Fadnavis",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUEk4Wm5pZFYzSnVxYkMtRW1hUTktOTE1UVB6Wmd1a1JUc1l2VjlRcVdWZlZYWlhBTk1hVnA3M2VRVl9NZzljQ1N4dkg0cFhHbEtlbG5yY1JILVB2MWZndzI0RzdTc1JHcFhZX1ZEY3VJcDk2ZHNQeVFlQ2lteWROMjk2cXZHU1I0X1VMcVFvSTBsRnVna01tLVlWRk9aWUl2UUJzV1pYMDF2dklHWHp1SEhZNXJxcmpxM3NWV3NnUXpPUEd1SHpENGF6VdIB0AFBVV95cUxNRDUwSlI2UExyVzNJcUdrZ2hleV9YTjlwUmFha1NwNTk2dGd0TFJ3SUVEQWZFRlVJZnBPYXVYbXVpTUIwdmpDdHZXTkxIY3Bkek5QaFd6VFZLMmVaTi1lVGYyX3NlMzlOS19UbzlETUdVa0E3bGQ3ZzlhOGxzaWYza21kclpWQ2N3a255VXBuZl81aUQ3VXFHOW1sNlBVV0I0MTY4UjJoSDNNaDdURm1yR0l3ZHItcm5ZcDN4am1ZUktibzRJRnA0QVhYcGw5ekl6?oc=5",
+   "published_utc": "2025-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Dashboard launched with info on all govt depts in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmFYSXFQU3ZDNGdMdGJtT1ptWFdlRzNMc3puUUVhWFpXYktTeWp0d3hQSXV2eFNhMktfaXN1NG1EY09lTFE0T05HRTB6STJzWVBPTFdwSzRFU2pjbE5saHM3aWM2TWludWRCS3BWT2RzVy1GTHFRNzNSOTZCUTVXMEdDTHNFNGhoMnE0cTl1VENHRjdBUXlnaVNnMWVNUWk2Tk1XekNrMzMwamlGcU9oU25LTnQzampXVVl1ck5R0gHEAUFVX3lxTE9HMXBWbldpNnp0c1FTVDlQSXJwSHZZb0R0dlV4enBNeW1GaFQ0d1praW4wWmhjZ21HVjhndktPbnUwdldvc09vc1RkSVhKSlVRZWVsZUY2bnYwMGpMY1dqX1RwdzU0Y0hHcnEwUTdwQ2wyb0tXUG11T0FtbzdLOU5VZjZDZUxUajVSa3lQVUhlRVc5X3ZVajJvWklYQjlBckJNNXY4TF9qdjl0ZzJBRmJhTjk0YTVfS2Y1cnpNWjFsclo0WDU?oc=5",
+   "published_utc": "2025-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt transfers smart city projects to Nagpur Municipal Corporation",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQXRPNkFIZ1JYSVk4YW9fWXo4Znd2OUZvdWs3enZIREV5MTUwVTRDTnN3ZWM2VmQydlF2cDVLclh2RW1iNVdnUGtOSWs3ZFp3S05SUGdibEt0eXY5RTh6elEyWG1ORV9LaDZ6Znh4QUZMZHZzWkRFTDFGYkx1OFZKX29odTN2MkhjZTBhRXQ2aG5maFI2Rm5feWZYUUVEQnBnOHRXMFJmZEV5Y25pWUhjcGk0bVRaSUxsRVRVOHZvRVhfcTBzZWxIdWNDY0lGNjRYTF9EWUlKSi1mZUxIOVRmRFZoNHkzemx4dzAxM2J3?oc=5",
+   "published_utc": "2025-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tiger count in Maharashtra up at 444 from 101 in 2000, says forest minister",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUhRYnlZSzNLR3pzdWw2QXJfb21odXMtTVJrRkNIQzlpbzFPNXNvay1hNWJFOWt6RTE1NUVCTlFLaUdfOUlhMDU2Rng5TURHbmxuUGJmRWZlQUgyTlNnNVFfdXhBV2cxLUZNRklFbGJ0R0RDdzBJelRNSjRjRkZpTmU4cGkwYTRyMXd3VGFvTUF3WFo2Z0VocWY2U2hnVFZJOFJqOU13V01nOXRiME9MenI0ZFYxOWtmVU1qaE9vUm40NWJ5QWRWYklHR1N2SVpHNTRCWXl30gHbAUFVX3lxTFBaZjFWOFhQVzF4RmpaMWZvVThJUy1TRU12dEFIZEV4S3pZQldtWE1nbFY4SVpWcmxUWkdxeFBHcmkteklkS25hcTFmcFFCLUgzSHpyQ1hGcFA3Wlg5MHZ3N212dWJrZmNkY1hVTWtJeXoyM3BWMk9IMHQxTC1NUUtKZ1hQZ1BBc1A1dEFpRk5GdlFDQWU0N1JNQlpxOXVHNm9BdzM2YUc5aGsxSFpfMEVxLWdGNmFRQzh6c2hVVDBHZjg4OWxJd0VPcTBQelBIcFdva3piNm13S1NLdw?oc=5",
+   "published_utc": "2025-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The rise of AI in healthcare and the need for tech savvy medical professionals",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZmVTQWFHQmhiMDFxblcxNlZ0UHJvOGNPUzdvRHRNSWZTd2ZEaXUtZ2pIR0pzb1VUd2tjcnRqN0lTUUlBbTFKU3llUGlWSHpjTlBMRVg5R2xpeGtjcW5rZFdDLS1MQlFwS2NJNGt3eWswMnp0QkRyMzM0QUNsTVlEQjlsOEU2UWRiaDdvNTBteVpwRDcyaEhYZkh2RlU3ZVl6d0lfNzlwTlEySDJONE5nUUg5bFVkYVZwdlc0TGhvbDZkWHJLUE1OUHQ2M2praUQ1RFZabDlhMDbSAdwBQVVfeXFMTkFoTjQxbjlsbkIxTmVMUHpRanFfVlBkbWRaSS1GTlBSdmV4TTBsX2VCWjlUTkJrdkE2STdwQlNPODE4QTdIT09RTGJCLWdzODMySjdJcG5UNFZjX204T3pNZ1RYMWpqVTFBVG9sMmkydC1adGxCa3VLY3U4SVlrQUlGNmswZWhkX1BsSXgwZ1o5TXV0RXEwb3lkbzZrTWd5cGtiWlZXMGdYLThqOHlqTzFRYm1fOWdZQU1sNUlvakRFMjIxVzFRVXZ6ZjlFZTM5bEZxMmRIaHhFUmtvcQ?oc=5",
+   "published_utc": "2025-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI and Humanity: A prudent approach to growth, equity and progress without job losses",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVTFjRDNITXgydUh0TlV1anVHcnpuRG1aa08wRllLV2prUjd1UXJYcnVtQnQ0NTl1RVNNd3NwRU9EdEdxU1BLa1NjYnNNSjVyTFNmMnR5SjNqdy1RX0tIX2M4M1FqR2hVT0pTc0dVc2Y1Z0FYeHA4Z1M3UjJMY0NvMnhPbUJKUllNdk9oSUpqTVF3MnloUV9POFFGVmswbjhrRkY0OXBwaGcwUVp3ekhIV2s3YkMzVWY4T0tDMDBaQVMwNHZVWlU3OXVyRW02WE9KVXRselh0TGdHRnpWZFZQblYzNnbSAeoBQVVfeXFMT3hfUFlHdHJjWjZJbEVrLV9JeTJxd0NUaGMwYjdZcjdYbEFVN3pNR0hxQUk4RnRsX2QtbnpFQlpkZFJsOUxLYkstd2xPUzZIcjFwR1FtRGV5M202S0FLdnpvVmNHRzBHTE1HSHVybVJ1QzBfRUpfZXlKRnB6N1FHQjI4MGpCREJKbm5WdTRqSVdsQlkyRE9pd0tPdllwSkpUQmk1V3ZQVVZTb1pSNURvRzNOMmowNzU1LUZVZzZTbmRXV1JBemhaU05ZSk9wVzdkdXIyWlJvNGViN1R0bkZLem1MQXE4SjEzRUlB?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Can India’s $250 billion IT industry survive the AI revolution? Is AI an evolution or disruption?",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0Y3dmRtWnMxOXQxOVpycldjV2k0N0NQc0p4R2cwbGxtYlkzUzQzamVDbEN3R2JoZThuclQ5aDN2MEs2MFlGdFFfV1JpaERTZGNtZ0NPZk1CRlg4UEd1VDAtbVBUb1h1bFVSZlgxVnh1X1hlOHhvZ2QzbnFJem91cHYxbEwxcWJHZlFvWkF3c09pVldOaUlMUXBvSUF1XzJNeThLc3JLNEgyZ3VJMnhXRmxmd1BxUWNvMWI1WlpVTk1KSkF4QVBqMUNrSmRfYXA2T2hnaTZoWlAyVlZleFI5WU5TTzdEZkhBSXR30gHwAUFVX3lxTE5FRnpvMm1tWkF4bmEwUHRCUjA2WHpzZlRsTUZVel9QaWxSd3VNVHltaW1XU3JtakMweDNkY2VIaE5qTkRBOGhhaXFheDRYVlBtdXhXVjcydFJBQ2FnRnVMdHZQMUlHMFpIenc3ZEJQVXFEN1ptY195dmZBTjNKcEI4MXNUR3d4SVNndUF2Njljb2FmYlEwdnhQT3phdGJGODlGX2NOYWdrTElfQlRObGJrT1ZhbmkwbjF1UGExS1docE1OMjNtSUl0Szk1YW1sZ1RUeG5pcjU3S0JZczVOQVVtdlVrbDZPeGFqTEpDZGhfTw?oc=5",
+   "published_utc": "2025-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

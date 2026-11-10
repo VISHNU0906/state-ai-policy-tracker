@@ -1,0 +1,61 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Quadric IT Wins at AI Hackathon for Police AI Tool",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHJHRmVwRDhsRnB0bzJQTVpsYlpocW1oYzk1bi12MFE4UHphdG5lcHQxV1AyaUZlX1JhNFgzSTFGU2RuS1RxZWtiNUIwVEd0SUpTTEhlT1NGd2I4dEE1UVMyYzZsQlNoWVdfNUtPZkVsd3kyOElLbURtUFFkMUkwdWRVY2lmUWtUYWlLLS1OOGZxUXVZR09DeVo5dVBnNUM5ay05YlBqSjFBSXJkVklqcHRIY2JlSDdnVVZfRElR0gHDAUFVX3lxTE1NRGhPTkwtMDQ3Umw5cWpJa3lNRUdfS2xiZUVUV0M0bmRHYUZBWXhGdFZLQnNlWV9vVUxBYkRvbTQ3cHA5cm5IVGdyWVpZamtjTkxOVkl2U0VyTHVEbmdzT3VTVjdEZGhWVDhFVkY5QXJ5TW5TLWN6aXM1NjN2ZGZDTTFwaWhHUDlrZWRmMXR5X0ZvN2hNR1ZlYzY3d0NjU2M5YWtoUXJPTGFQQVRGLWpiMW9JUUhxVTNYUVdEYVVldVNwYw?oc=5",
+   "published_utc": "2025-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BITS Pilani to have advanced AI+ campus at Amaravati in Andhra Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXd3SzhpcTZBY2hTd0trWGNTQk9XZ0h3aGNlSzV1bGJiQ0sxaFhKcFFoakNvODJWeDdBN29FTWVnM1ZvX0dDWFNjUF80NEVqS2VaSFRLRmxiaVdEVm5iT3plMjNIejFJZTk4dFB3X3BpMm5lUXY1QWZydzRiUVFvbGJybEhnNF9yOFItSGhRMHdaSDhKVVlGVDN2RllhVWRPQUp6QTN3WFo0ZjRwa2pBUkQ5OEJadjJjWmhZUFBxVG0wZXdpLTVqdWhDYmZqUjJpNU5SaGVoSUtCeHPSAeIBQVVfeXFMTklqTktKU2I1Y2VSMVZ6Y1J4T1ZpZTdac2FIZEU2TEtCbk9EZC15S0xTZmlJTzZqYW9PMk84Uy10eEFMMFJKaUN0dGE5UHNoUFlxdWl3cHQ4b2tiM0M1ZkhFdlVoSjZjYThGLW9pNUd2ZUxGMzNDeXozMWxKUmlteGxJZ3dySE1UbmZtdXdLYVEydWxtUlNKRUw3Q3dCdkZDZG9JdmJZS3A5N2h2ZGY4Vzk1Y2JQanFaM2ZfaDhmOXVLYkJKSnBPWXBpV3RyREd2NkVJVnNYWVpGLXpHaDRFNE0xdw?oc=5",
+   "published_utc": "2025-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh has become the first Indian state to officially declare a comprehensive roadmap for quantum innovation with the launch of the Amaravati Quantum Valley Declaration. Led by CM N Chandrababu Naidu and IT Minister Nara Lokesh, the initiative",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb180bVNyYTlBb2MyRmlLQ3JDMDhYY0lBdEpYMG00S1FIR3UxV3hKY1htNmdocWQxQlNfUWVwSGd4b2E3Q2xkeFJRbkxVYmxSZDFrcm9UZEpjVHRuNFFGb1pBQzRrV191OGx5cVNQWThwNlJhdUxDV3ByR2htVlJFdlRlTXdDVjRKYUtuSHliei1NYm5Sems4NTZweUdDUE55aHFzTnBHNzc0NVU2TlRNMEtiWEdVQkYzT1MxRWRmWTVpVGVwSTFvY2Z4N1c?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First ‘AI Plus Campus’ Coming Up In Andhra Pradesh; BITS Pilani To Invest Rs 1,000 Crore",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2V6d2hBclBxMGtTcUxBd0lIcTVWVXVwX2pyR2xDd0Z3ejVwdWhqblQxbHEwZ3FGeHpON0ktb3VtNjh6V3EybFlLZHRqLUU2UmdyRklLLUVPZ0JvTFRscGpJTUdVTkFqYkwxNmxpRTM3QnBTaHR2ZFFJeTk3Q2EtRFhLZGVwUDlXZ1hLa3Bhc2tYRzQwcWx3djJaek9tSG5SVWRQNk5aUkRUVEtRMUFVaXlLaTFxTFhUZEhLdWVkRV94eENESURJaWtVWUNxb2pqek0xdUVqdjJ2QXPSAeABQVVfeXFMUEhMbFdCbFpHNk9kR3ZleVE1V21YNjE0clNUdHdEQ2dEa2Y2cmY4ZmI0OHkySXVucTI5QVB3NjFXV0ROT3lKUTZMdFktQ01IUzY0TDg5dnp2N0VPeUR2NW1jbG54bDM1V0U1VnV6a1RhOS1zZjF5Z1hxVmpraWxOYkFHZE9aUUk0Q0d5S09BUFVGLUQ1ZDMzYmpjcGpCcTM0MzJvbUJQZ2otaTJaWC1HNlZ3SzJzMk5xeTlxbVphb1Rzc2hybGhNaGttNEV0c2x6Z3VRRTMwMXkxWnoxMEh6VWQ?oc=5",
+   "published_utc": "2025-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BITS Pilani to set up ₹1K crore AI+ campus in Amravati, says Birla",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFdCWkZIRTZkcEFyV1N3bFNJWG4taGdjaGFWM3RNZlpJMW02RnZpNWRUS24tYjlzY3BuNmMtWl9ZM29PbnNQRjVVZ0czSk9paXZNaExuQ2kxT0sxbG1fU1hJMUh2bDI4QmV4V1RJYXJvLU1Jbk5PTWxpdnBaM0JKdWYwVWRackZqY2pVU1FxYjdMWll6Y2F4Y2JCc2xLOGJIV1NMMlR5NnZtcGRyR0dhSXVfQ25MaHZhd3c5SXB2eV85cWRzbUhsaFg5VmNramlqbFHSAdcBQVVfeXFMUGduN0V3UTJBOFEzNDE1UFk1Z3lmUGp5VVdZa1RWN0E2RFJRNzRBNWlwM2pqUHhTVVhBVmc4RmJIYkZEV2pJLVluZktaS2hMZWdCa25oYjRlLTJ5RWZBVzlxRHNnMFJYY1pnMmpqaUY4YjN0SlJXOThCREc4ZzQ0YjQ1MzZzb1VQb3FqU2xmVmIwUVpkNmZRbkJ3OFFVOE0xMG1zMWR3aW1HSUdQei1zZnUxRW5jVzlWNWlVb0VMT3JUQkNtT01sbk1sZE84bDVZTTQzamFjWXM?oc=5",
+   "published_utc": "2025-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh farmers endure ordeal as burley tobacco prices continue to head south",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0phSHQxNzlYNzMxQXRnenVRRmE2N0lSNGFjZVFqa1MwWEhvVEZkYWlrNElxYnRpR3pwNDdpcnhrTVMySnQwdEVIYWp2am0yNWFlZGIyNzk1cmI0MjlPendDUGZfbS1MT2tEcWVvR3BFRHJvQnViY3JfQ2JxZ2MybUtQMDVYQWFuVW9MVmRKOXdhR3pOalRSbHRlNVlwTTZZWS14SEFsYVpnTW92QU50RFVIT3RVc2h2dEQyV1A2a01vQzQ?oc=5",
+   "published_utc": "2025-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Mega Parents-Teachers Meeting Tomorrow: Important Notice for Parents",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDRpV2pMLV9NLW1qUHUyX0ZlQmF6NThIcFBpazBjam85QmtWTTViRzVkbkhCT0NncXBfeUNua2h6RjJqczQzZ3A3STMweFp5QTRUM3hzclR1WWJDamRKcGREcVlhQmI5R3JEVjI5VmNtZ2pJN2EwSHo3eVVPM0hFcFJfUWZxQkxsaFRxdFd0dnJyQlZ1U2tLNUZnVWhXWUY1dWVCdWdRYU12ekJ1cVJyOGp3bFlZYzFidlpHUlN0NFo3Y2FLalpR?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

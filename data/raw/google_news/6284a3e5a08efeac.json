@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "Nagapattinam govt. school gets AI-powered STEM innovation lab",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHZ2WVhFY3FUMjJyUGRpSlJYS2lBbnJGVTd3dC1BcmQzbDRBRWM0c0QtUjlnWnU4TmxydEVGa3VRNUVvbXBkdDdEM0h3SXdOX2lhdlRWNkZFaE9IYS0wQ0tTQnVod1NmeGRJbWV4aVh0T1p1NDJqNlNEZm5VNENKelpHUGRpVkp2b2psVFZsdnZCX1VBTzFkLWpyM29GYXdpdWFkcnhUOUxlakdPZVQwZFFtOGdvRDJBTGtvUHlxY21xc3o2Y0JkTEE4QmjSAdMBQVVfeXFMUGpCdjJiLTZtSkk0dTBZaE45cHhpSW1lbDBqQXlKdnBVR3hlX1lBdHBfSnZvZElJRkkxSDg3Zk9Bb0NQZDdFOHgycWwyN25ZclcyRUNIZ25KTDREWXBDWVVZZnpzdHJaVFRjRktqLXJkNUktdVFLanRxdEZMaDJ0R1ZtUXByLTB3YVB2Y1RhenVnX3lCYUtITVBiZGNIclJ2VERnMmo4b0IwdlZxZ0VSRGNZTGJKSWV0MEg3M0hBYWl4d0p3a3NtNFJjU2laMGRSRlE0dw?oc=5",
+   "published_utc": "2025-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin calls all-party meet on March 5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWQ5ekIzb0RUVXhTYmR3YXllWTY3OXFNb0hnZ0hRX3FrWE1kTUZEeF82aWdYcnRhbmVzODhyUldza0syZzBvZ2hpVzVMLWgtZlFlLWROd0ZweXB3ZjBPUmhWY3U1ZTVmcmJPUnU1ZXE0WDRGWDgtcU05bzdoQnZjZXBzZDNWNk1EamlrV2FvNUJNNUZrLWdFX05XdXRoaHNnZDhOYUNqT0FYT2tSUWlBbWlOQ3RYaS1OOEtzVUVoZi3SAcYBQVVfeXFMTWljYzR4TVNjbVA5UGM2eW1tSmFYa1AyOHZIYkNtbGZ5WkJpc0NCdE15T2JhdGZ1WTlhT3pMNDVZaWlIYzNFVFVkQ3JoQXRkTVl6UlhMWVhFMEZhVTh2dmFiN18tcUMyRkhiMkl4S0xTTng4STFRaW1aU01NRDBhRFZSYUY5a1RJdzhUS2cwdkZHeXZTamx4cEtnSUFPVTQ5dTJuMUZhMFNicHlHRXZTZ0tkdjJwcGhRWkMzMW44V2syU01FYTBB?oc=5",
+   "published_utc": "2025-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MK Stalin opposes Centre's Hindi push, says 'don't challenge Tamil identity'",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFI0RHhGQU4xQmE0UlVBRXFYdFpBVDdFYW9ycWEycEp4SXZLeldHOXp1ZUhxSVR4ZmpveUlBX0R2QUhvUi00ZHFaNFREeHlhRDJ0SUpwXzNZaDFmdVVvdnNYa3k2N0YzZ092UGZrU1lqQlFlWmxYUHlTLTBPY2NhS2kzclZyY1lqUm11SzFBbERmcUNFMXl3MkRNTVc4YUU3akpsc0hGWFBxLTliM1BqV2NzbjRMenJRY0ZkUUNQbEFfX0lPU25PZWZBQ0pCU1JhTzFRWG5ZV2PSAd4BQVVfeXFMTlJRT1Q1emtTUjZuYmd0MUl0VnFwMnF1ZWVReTNMWXVNME5rTVc3RXplNnpJRnpFeHJpWmJWV29ER2RocEhBTkdpWlc1VHFRMXBkRm1UVGZGTUVyX2tXSDcyeWVpZzV1Z0VrYndqMWVBdXlPcEk3c3kyLU9acm9vTkM5bGdzVWF0LWlSdTFvUTY4QXRzVWIzY3ZPNmZVcmo3ZHlKM1NmTGh3Y0Ztek5XVWFMTmQ0dU9aQWJpczF1RHFKRWRTaTBvOU53MGlHOHdxaTU1ZWRJRXlma1hSWVJB?oc=5",
+   "published_utc": "2025-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Based Farming Across 870 Acres in Maharashtra, Tamil Nadu",
+   "source_name": "Farmonaut",
+   "source_domain": "https://farmonaut.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNclBONFprTzBaYkZBOFpvSVE4bG1uTUY0UnlCM09GNGFXQzdIYTBNWVFaaDlzdW02OWRDQUJMWWc4ME85dm9la0JiRUowU0RBVWF3cjNKQ3hnaExXMG1nUkx1QkpYNDVtcXNYYWh5SUxvbjc2eUUwOEQ3dG5EZUZDZjBlWEI0OWtkeXgyM0RXSWFMR1RFeUhPU2ZVaXVHZGhuUTdUVUpkVDFjWU1vYTI3MUg0Z1B6NlJsNklVM25YUmpaNkY2bHh1SlBBX0J4WEp0OS1sQzNvTHRkc0dCc1pFQzF0UW5IbzNhZkstZEMweHFSa2lKNmlueEhvZ1ItYzd2RVZ2M3hLVVJOSGs?oc=5",
+   "published_utc": "2025-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s Education Crisis: DMK’s Anti-NEP Stance Is A Political Blunder Costing Students Their Future",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVpDWHV4b1c0VlVIWGZWWGtEZkk4R0Q5Y0tzMmVlYV92a2xqcktmTklwamhxcWF3Tzg2TVhVOGRncllCdkI0QUdjTHZOUXV0aXNjdWJva1IzSHpOUFR3eTdPSThUOWhMOWRZQXhXcXJJU2RpeDZDWFhiV0h0aThob1hRUHBRSzJ2dHp5MkItdXBkRklSb3ZXVGoxVHdNaFBhRGM5OHA4cTRUN0dMSWQ3amFtTTlvYTVuMFYxdERjY3UtcVp3SnpkZ2x0bDBHQ2RUSDRV?oc=5",
+   "published_utc": "2025-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Refuses NEP Language Policy, Risks ₹2,000 Crore Education Funding Loss",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0Q5UjlGbGNhUVNFZ2ZJQndrRFAxRkR2YkphS2pSNnJSbWhkdzdUQnItYTNzOHdsbEJ3cWtFU1Z5eEc4S3pPOGtzV05jblVoVlNTbGVqMjFST2tmTjNhUm5GNG40UjFFOHJzYS1BdnhJZFpWQ1Z4Qnhqb1FXRkcwQ2o2ck9OWFJFZzJ2d21ZTldKWFJWQ3ZxNTlWLXNmeTNubkYtNzcxRzhCa3hkME83d3g5TUJOSGo3VzRlc2JlWnBHYVnSAcoBQVVfeXFMTkZQSE9DX2xZOW9QT0pLSHcydHU0ZmlnNnhpcFkwRVg1YktfQU9SS0FvVDBoM1lWNHJWUVRZNER3bDZoT1p2ZEtHWDRvN2pCdHBxUEF0cF9WbHRxTFhweW5lVXFpTVVTb19SaWN0T3VFNHBHa0luVzNpMHlUNzMyelZMMXNZaVhSR0Nvby1PbjM4R2NVc3BFX3l6c2dMYjVyV3JGR25fN21IclljZFcydWdwT1dUenAxUzJJUmt6TjAxLUhBVjJBdUwwdw?oc=5",
+   "published_utc": "2025-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TIDCO has finalized the master plan for Tamil Nadu Knowledge City in Uthukottai, Tiruvallur, scaling it down from 1,424 to 870 acres due to land acquisition challenges. The state has reached out to over 300 universities worldwide, inviting them to be part of thi",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HMVFRVHBYX01oRWRKR0E2VTY2SkFYNER6US15WHM2TnViV01NUEVraHlsa0FURDA2RUkzVzFTSHdTLTRnUDIwQkExZkdjaE1QcHc?oc=5",
+   "published_utc": "2025-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu will regress by 2,000 years: MK Stalin jabs Centre amid language row",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZzVhQlJtbTdra3RxUl9md1d2YmZ5d1dYeThLb2FRTWlPT3pOTjFRaDk2YkRMUlY1VE85eUh1MGE3ZGdrLV9Vb2tMRG9nN0paeDZ0b1hiUmxGSE1BQmFmcEZJWGZBMlV6SGZRRUp0X0pERXZ0LVQ1ejJrbjhCMlo3dW9xRGRNVzhjTjkyS25TVUZBZ2N0M21XOFFEZEduQXlpZHk2RkRCR1lMbU5iOE1wcVVnYUFNbFlyOHdFdFBnOTF1LTV2dHFBZ3NfZG5jZGwyWTg1bk9iNTh2NXVPV0pXaFBMcTFrYnZVTkpyedIB8gFBVV95cUxQOUxqSFdmN0NpaHJWTmRFRWlPUzlKanJVWnR1eGd3T3Vsb1ZRS3hoVFJIVmVpWXpmX192QXg3ZUpYdWJtQzBYUERUd3NFSjdSZ1dfcjJELXBJUE1fSmJxblZodXdKNWIzeWxiZC1pZFR5blpWbWd0alJLcERQNVFrYmNzUUpJUXJnWWp4VktKYlpRZjNEZWlPWjRPS09fbTZDSWM1NDR3d203YXdGVXRkS09ROThzdHVnX0luYmtvaVB0c0Q3TWpyV2xtWS1RUFVpSTdhdENHbnNRU2pvUjMzWWxuRVJ2c1o1bTJEVm8xUEtTZw?oc=5",
+   "published_utc": "2025-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin: DMK Won’t Oppose Hindi If Not Imposed on Tamil Nadu",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEpCWXVmVkozc2VkQUVXQ3VPRVNUbEVZM1hYeXcxcjd5UURaMm90SEh0N3ctdHVMZFpPeVZPMWdQdmEyYUpWX0tyaE1hUUl6THJUa0tEUHRoaGVjZkxQRkZGM2R4d2VyaEZobGF4aThmQzBnYl9xdjFtRTlXMktIYlFiYnhxUFNJX1lRcE1rWFluWlB3UkU4eTMtaEhoN05YUHZYcFJ4cU1uaktQU2RRRm9wSWxrZG5PMkk0WmVlQVIxd9IBxwFBVV95cUxNV18yMG1DWmtycU5BOGowLTl5clNoS3VSWDdfbEJSZlpiYTlZZWZucXR6eHZJbkJWMEFoZ000SEQ0ZndCQlFPa2ZnbS01V1NnSmRlZjh1U2VaMWVLaW1hTDdwWXVVelZzYkNoZ3dwX1IyMnhWV2tSeFVQMGl3d1FNX3duT1ctUlloek51WXFTYkJnQmRzbUliVkRfTkpKRFV2WnBuRm9HYW94WlFHU0FPdXhFVVhGMmRwajJPN2JrM29QUzBQTG5n?oc=5",
+   "published_utc": "2025-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

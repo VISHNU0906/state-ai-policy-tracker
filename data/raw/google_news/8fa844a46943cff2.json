@@ -1,0 +1,69 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-06-01 before:2025-07-01",
+ "items": [
+  {
+   "title": "The G7 Summit Missed an Opportunity for Progress on Global AI Governance",
+   "source_name": "Tech Policy Press",
+   "source_domain": "https://techpolicy.press",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS05ENXhkZlR5bXlmOGlzS1hvOGVaSGVEa1RKU2VHdzRzX1FXTmJ2YnNuTlREWm5nN1Y1SUxka2hoRkpyWElBTm8zWTFlNVZrNnJ6bFRzV0JUNnBaaW9JdW1CNXZaZjBxTnVDenFFX25SblpBU2ZYdXYtUjQ5MTVOS25kSk9qN2s4aktpb29VMWF6T0ZSQm5iM2dxNC1fQQ?oc=5",
+   "published_utc": "2025-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "National Conference on Agri Stack: Turning Data into Delivery",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vVG5pTTYzRUVhTGg4U0xUNjFYeFRHcnZsc0VXbDNfRmFJdlMxbldQaUlZVHkzY3lUQjRyRlB6dTVEaDEwbzdxVll2NnJlamdGUlpIUFZXLUE1WmdfWkh0RDJCUGNMbDc2?oc=5",
+   "published_utc": "2025-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandigarh University Uttar Pradesh Launches 50 AI-Augmented, Future-Ready Programs",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjZDdV9YQTNsM2RtYmFWTE1ZWk04dVp3NWRRYjlaSFZJT3FRc25HS2RvdlJHR0xEZ2d2eVlIVzdvbl9VckkwQTRSR3NtQXRFX05zdUMxREhCY3AtMWRUNW5MUG9jRkRST3IyUmtLcmdJUFNpZWVWbVhMUVBrV19iRV8tYS1laXo4WGZoSUc1ZEg0aUxNUEk2S2g4djdWWEhwWUU4WHY4Q1JWODNSM2Z0X0NrZlNRLUVzUU4zUDVNTnJGWUxCTXEyMXVIYkQwdw?oc=5",
+   "published_utc": "2025-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Future of Indian affordable housing finance",
+   "source_name": "EY",
+   "source_domain": "https://www.ey.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3laNEFhODBEQXlMMUFIV3VJclFQdEtab251SV9XM3hLVkVNQUcwZy1BSksyaDVVUWViSVAtMUc0b0o2R3VOWV9JaWh1YmlaMHRrZS1Jbld3TkZuWlEwTC1ZWkJtWFcxaUliQXFBakF2VkpkRUQyM3FTR3QxMEd5ZW82c2RIZUdNNmRhWWMwWEdPalJxMFpKQ3BScnRTY042TWRTeGY4elhRb25IeTZlMkhHTkl5SFkz?oc=5",
+   "published_utc": "2025-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bareilly Diocesan Educational Institutions Empower Educators and Administrators with AI Skills",
+   "source_name": "Catholic Connect",
+   "source_domain": "https://catholicconnect.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVNDRzl5OGhEdDlNX1g3UXlhT09FVFloNDlscnplNG9IZjE2S2d3TzgwN3pGYzhNM3RUOFVtakQ4MDZEYWdVOUVvdHRtdlBjZmt4NUY1a3Rwb0dqQUJHWGhCTEtKbHRHWjBYdHI3bUY5cV9uUTg0bklXNFVmcVZUVHhNN21HWGNhZmRsTmUxUXhTWGtKUFlncFJhcmdPdVk1TG42bmtrNmNNcUJjY3JNQVlRQ21tT3dzNE1MbWgzLUJuTDJt?oc=5",
+   "published_utc": "2025-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP DGP Rajeev Krishna to Focus on Crime Control, Law & Order, and Cyber Policing Through AI and Technology",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWtZbHpfa200OVhmc3B2Zk1LVXlYUENSWmV4X2hnNXNHS0llYlJ5T05xOWVud2JVS3ptWXE3elR3MEF5elhqTUVoMEV4WkY3cklCWmpUeWNqamFhR0pMTnprS2JQcmZVTTVJanRvZkFCd3dqc1cyd1hrOGJ6YkYxRDNJQnYtM0Q0YWRDTHZCVS1QUkNUNUNXOElqVnQ?oc=5",
+   "published_utc": "2025-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh's Khalilabad-Bahraich railway line takes shape",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVo4Q240RVFEWHN5WGdoVzduWUMzaXFsY1dhaTNQakR5QzBiUnlEb1Z2VkIyRVZvbXNscjhTblNwMTBKTzdoUlJvZURtUVUteWktaUdJcTc4a0QyX1dpTnhfWHVhTUUxWXZGRkVBdFFjdjRpLXZ5aEpMbUFQUy01SENYS3VtUk94VUd1dzJCRzJmanZBYVN2R1Q5NUZiTFlxcFAtc3ZRanBzUklKdEhJMU9VbjM4S2NpdUxLVE1NbVg5bVXSAcgBQVVfeXFMUHd0emxhSVcyZ05jemFlRExrQ0NrWUQ1ZlRmektHUmdpa1BMTFBNaVhSTHBNdXdydE5JYWtTZW5La0ZFRVpfWGZmdmZZOExxdTBMeF9iVjNHWDdsNjFmbTV0dzVmOXNWa2JlQzdZeTRpZ0tOakFSQVUtQThsX1pOdE9mWWxHS3d3QnRhempDV3VFU1lqc0k1ZVRLd2VyVHpkSVV2S0VFd0dBa1dhT1RWWXByM2x2anMzb1pkYmpMSU9YUlVfM1BBMUU?oc=5",
+   "published_utc": "2025-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "At 16, Pranjali Awasthi built a Rs 100-cr AI firm, now she's making 'ChatGPT with hands'",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR1BwM1dJQ2drY2k0Y0xqR3VhNEZSN3g2VVkxNE54Rkt5OUYzc2xYOHN1a1hwQ0tOMGVURVdVa1FGYWZXd2JzRjEycDIzT1Z4UDRUalNvUk1oQWNuam44ZzBCS3VUVUJQYldDTkdIc1M3UTIwU0VldzhjbUQ3R0JKOG5NQXVEamhBdjdBT21kTDhXZTNCdE1Jcm5rcTJPd2VHN0k5cTZfSklHR1ZMVk44RXppMXlybUZyeDZSc3BDRUNNaDB4c2ttQlYySVR2U1l6QnM4M9IB2gFBVV95cUxQUUtWbDNBbHRfNnF5dV9xRmJWbEZMQXhDRmduMFhiNlFXSEl1TVdQRUxyWHBIem1FZ2ZITmdiWV8tVVF5ZmxROWhUeUY4cmhFS2JxVDFjS00zU3ZlOFBxLXR4cUVJREJxV1JqNmRhTk0zMG5jcDF3aThsM1NndTJ5b3A1cDcwSUJfaEJfLThHaDB1RFVEWGI2VzlSSTN0WEI0SW1WQ2ppczgxWkc1RFNNMDY1bTkwZDE4Sjc3XzRabmFhckNaTFhNX0NXYzdQb1pTbFpabVRJWHlpZw?oc=5",
+   "published_utc": "2025-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

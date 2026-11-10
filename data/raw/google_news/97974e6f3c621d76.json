@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Pilots AI-Based Disease Diagnosis in Government Hospitals",
+   "source_name": "The Indian Practitioner",
+   "source_domain": "https://theindianpractitioner.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzV2OWVyZHFiR0NKa2pORlBxYlgyNXd3dlMtTk5ZNl9zS3pMTnBJZ0J3dDlxU2F3dlA3ODE5V2Fqa2w2TE1VekZReDBJa01TS1RIMjdVY1dmeGZCVDM5QmduNUEtaUxoUXMwQkNWNmV6cEJkN0xxWjUyMXFaeVdOSnBxLVJueXRVQTRNTTNENnNhcnktQ3dMUFNJdkVmZw?oc=5",
+   "published_utc": "2025-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu police launch AI-powered security network to boost surveillance",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0tfYmU3Ql9YSmdIRmJYNG92ZHhCVXFXdDFJMXZ3d3B5c3czOFNiTklMSVIzdWdKNGRyeXJVTDktUFpBcG9pUWlnQmYzX1BYWHNOWUphU3NDOXI4UUVRQm43VFZxY2hiUDJvN2Z0LVJ1YnExbk05bUJwTF9XSWhZc1hQYlFpUUJWZFEwcGF5TVNQc3FsMUNUUWt2dDQ0MFdDdXdEMDZlV2tqNmNUdGVkQllzUkdOU0NRNGI5d0Y3OFhhR2hvTGFOS3p2Rk1WM0IyaTEyRF9CUVdwS1I3MXRaYTduQXlzd9IB6wFBVV95cUxNV0NsdUVJZ2RyaUNRQ01qN2lMc2JCUEpBWXZFZ3g2ejhNZ0doZjRfN0Q4c05MMUZyTHFPcjFCVUgzV2hlYVFlX0lpT1UwenF3TUJMcWVpR3R0RU9kT1VqWEFNLU9EYXBTY0ZLSzd5MUlod2lPM3V2eEFxT1FaWjNXTTdYMkJPY1RoTmFBMFRQakpZZTBuVHJmeTVnZ2xSQzByWGJsdEJhZ1pmSk9PSGt4WEkybm9Kd1Faa2lOZ1pwbG42MTVrZG1UZFNrOVdURGhZa20xenFBTHp5V0c2UXNqWlBUSHQwZm0zZ0lJ?oc=5",
+   "published_utc": "2025-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Coimbatore emerging as tech hub in Tamil Nadu’s AI vision, says PTR - India Today",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSlJ6U1BmNTZ4Wk50R2NpQTJPcGJURW1JOVZVM0x4MDhlOFRvbW5KQWhtSU9xaGtXVHJlM0hBTU1fOV9lb0dkaF8tYjQtRWwyVTdldGUtYTdkN0JOQVQ1Umo4N1JSZHFpRlZaNjBkQ1F4dU9BMnhianRGdnJjaG13OW9wdjlxSG9nakZXa0RTVWZoZzdLTGJIbmhtMVVmazI5RndsNlBsaUNCQWF3c1F6LWJNSUliZlV6OFE0ZkZkNmstZXRreG1mbUxJTDJGVl84WW930gHYAUFVX3lxTFBhU2thODl5bDlGVnNQWUwxLUVhT2d1VU5pR0thVnFNOGQ0eDdsMzZ6RFA0RXlocVctTzNiME1hbzlXbHZUNF9kZ2ZRaHRLYUtNdWJLc2wzSXI4eDVFd0NEVlNPNEtBYkdMeHJxbldva09DZ2VGOWt1Q2tuM05HVElBNV9yRFRsLVBDRll3N2FuNTJ5dlhtdmpNTy02ZEJ4cGxUMHFhMzRzQjRpUHFoMHp4YTJSVHNKdzJjU3o1b0p3SWc0dm13WGRKMzlkTFFzOUFwbEx6T2Zxdw?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rewin Health opens 8 AI- and VR-driven rehab clinics across Tamil Nadu",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNEhCX0xjdWZNdjlWSlM5dTBxS0I3VXBRV3BnQ3JQcXVzc2wxVW5TN3FuejRNelF5NmZfNFgzZHFyR2l6NTFNcDdwZ3piMndLMnloNUpiV0gwQ3FhQkJ4cl9fZXNXd2FqVnJIQ18zQXljbnVwSzNVNVRKdTk5bEFfZ214b0VEeUw1NEp0bkVHNDFRYlp4R0U2Ul9XSGhab1UwS3NjaWpKaHZDTnVUeVZvLU5FODU1RkFETkRlV0dMenFsTER5UlR0SGdGc1VQN3VL0gHXAUFVX3lxTE55NlpIRUxRaVQzSFhGVXJCVUZiaXd6VjJkTFpRdUFpdEVMN25OLXVxT3Z1NnJKUDB4TzlIWHFGcVdMc2d3bmlMVU95bExPb1NuZkJXN2hyeFdwb1RkUlNKRXBrZWJUc3VHRTl0aVhuSmM1TWV1ZVJyaExGcG5feXZWWTA3VlRDWWo3c2tWb2k2UHpVVUh2NFN2ckRCMGNPS0Vxb0tSVXBLbXcwSVJfblF0bTloVktLMndxTWlVMEtyZUc2dmhXUHRaZmU1YVQzNXBLb2Y1NFM0?oc=5",
+   "published_utc": "2025-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches TN SPARK to train government school students in AI, coding and robotics",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQy1CNktRanM4ckg4TDFLcThEcDZmWTM5eldxRDN3dzFvalB6ZlQzYjlqWnZOLUNtc3E5M1o1UEJPUnhIeUJRM3liTFZmWjJURU5VRjNZdmJBTXNzNUplM2g2YTZheDNVMnJuWkZLMWt6MTJEczBielZILTRVTWZNNXpubC1abnFCbnhua1c1SXAweXY3M2lTdlc2UVRQUExydTBKQTZoLWJoUXFxQzVSOW1wT2dYeFllcE9ZRDY4eDRLaktBT0ZnNl8zOUtvNWZMM2JVWnlrMjIyajk5RjZTR2N2VC13dXBmUmIxV05wYnbSAfYBQVVfeXFMUGIwQ3VoUWthNGZUTzJsaHhpakMwR3R6MzZqWmh4WHFlVWtTS2tMWUZSV1UtaWpaRjR0SVpzeHlOVVJFUE5TQUJGQkpWRGNna2pMRjlPSFVtRXZuNkZyUGxTb082MUZGT1MyYnkxdHlaNHVheHRWUTlkUWVJdTJFVzZSNFZpLUxlWk5CYWM5aUNKbUdVWTlZOHY4TFo3MzF0d1B6bzdZUHJ0Zml0Y2RHSnVlLXBtcVEtenk0dFNfWERkODVGWjRYUjBSdzFuRWR1N1A2c2RjMHRMMW81RGFYS0k5akdVdTlDS2Z6QmZqUXlGN1BNTHFR?oc=5",
+   "published_utc": "2025-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Officials pilot AI-aided tech for diagnosing diseases",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWszTzFwOEQ5T0NkVmNMZlJ5MXhuOTNpZ1hOOHpTOUt6bFZHYzZzcHVxQWo2RG00Y3NGeDA3NXNlYjJuVDlQUWF4VFp4cjcwYlBkaFZDMTVpZ295NENoY1RDc3RUZXBqU21jbEc4WV80RTM1TE5lVGU5STRNTjJfUGx3LWxzRi15YnBXa2ZpdFl0d2tTQUt6d0lSRnc1blBtdUpUYUpzN0oxTk4xUVVaUkxuY3Y3MnR6WG1mNkxtQUFzb2JD0gHKAUFVX3lxTE5nazZVMk16WUhoRHR1aGY1M3l1XzlhTFdXcWtSa29aU3pZbTJUNzJkbGxwWm12akFVOVUxc0VtMVRFeGFkY1pyOWFzTi1rUEdPT0NMUTdpa0JjWlBremNIelg3c2x1ejRGNWpXVDB4aUd4blYzN3dheXNsbTF2TnJQYmd5dUg0N1c5dm9VZVh3SHJfVXlSYmEtREFHeXRrSzJCSDRYRV96akh4S2g1V3VxWlloWm9SVE1vd2FvNFVyT19pWUh1aWYwVlE?oc=5",
+   "published_utc": "2025-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Coimbatore is emerging as the new AI and tech startup hub, says PTR",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdlNSUE93eTA3UG5MTGo0bW05T2w0R1FYWVJaWUEwMzZVdjZwbHhrRXZYbzdyUFNEazJJcDRQR0dQM0VPc05rR1hoNksxZXRtYWxGTTVrbW5qcEl3WTFwejRQN0VqNnJON2dRd0dyVUd6ZXhJbklFcVVENGR6c2NPZGlJTHhLYWJranBJVEJrbXByTlBlUTYtVV8yanktc1JzM19QTGd0c3NsMXJiUVU4ZXJlVDlZenN2c3cwa21ZRnN6bnplTkxxN3BKRTNiQzlOaDFBddIB2gFBVV95cUxNQ3JXNlp3d3o3MklCVHZsM3o2QTh2cC1vcGxhRGZFeThiUkR5Rjl5ME1YM2VPQnZCVF9ZUW9nM19mNnZPRVRZT0ZMZ09UUVZhNlN1SHEwNVJRQ1p5cGpvTGthakdyQWg1bnJkQzZ4M2RocVBlNDl1X2liV04tcFlKNThWUG5NTDVjMmw2TUZWeG9aUlEyS25raGpNdFA0cTE3REd0RHd1VnEwNmoxUmRUb3NsMDNCSnZGZ01oZkgwdkJfZnVDeFBOVjlPTUctcjRFRjZhMkN5VV9UQQ?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches TN SPARK to teach AI, robotics in govt schools",
+   "source_name": "Madhyamam",
+   "source_domain": "https://madhyamamonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFVuNXp5UlZvVXZ3QWNuU2FwTy1TQ3NEX0FZT0psYkk5eWNNYy13YWNreGdrWENCTkFEVEIyTmRmallZM04yaUZWNWRBNnM3cU5USEFwcGR3SHd0OFp0SXAxSG93eTVIOXhmT2lWazhkSnNtVHQ4MW4wMGpuRnV6RjBYYjRYOWpUUUxHUkdJanhudi10UXJEbDFJS2pFNEZkOUFKSUZrOC1xY0llcjYtUDhpaUE3UdIBuwFBVV95cUxNSHpsRnl4NVhOOXp6T2l6c0xGSWZHbjBLMXBjdXFrUEdGMk0ybjlhRkN1V2RxNUhDTkNta2dvZHY3T2FSWVFDRjZYSVJiWTlvbFY0MHFsaGtCSmV3dFNSeHktU29QMkRFZVljQXduWWd1QWhtejFtTFNjS1RIQjgySmJ6MFBxV1FVZlc5ZlBHNjVoOENTXy0xY0NVMFBON1pSbWxfQkpDWWZ4ZS04UDJlN0l1VXRyQS1Od1pJ?oc=5",
+   "published_utc": "2025-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Govt Launches TN SPARK Initiative To Train Govt School Students In AI, Robotics, & Coding",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYnhxdFh3aHNodGRNTUdIVDFzb29BODJkWG9mLVk4MXQ4ZXUwN1Y3eTZDZU9GT1NoaEF0M0hBT3BhOTc3Nk55dERUajJxeHBVekJIOFp5WVZyOFhfN0JuZHhXTVY4THV4NU5TdEhxcWNhWVN6LVItMXdxeDRTNG5ZNW45R1J2aEJNOERLV1JCN0I3QUd1dWhWeVNiTDNqellsSGEtWVdKeXE3bExtQjA4Uk1aaUdEUjRZOXZuMG1sREN0N3NzOVVaazJpcUZfN1l2MlNJeNIB2gFBVV95cUxNX0g0RGVadnd6aFUxSVZpUHc1bnI0dHQ1TzhzOHRpUmFXa1Yza1lEZm03UnA4cUpHN1hBaTc2NnM5ODB5ZWpsd0ZRSUdoeGQ0am5SUDk5Vzg1MzBwT0wza0JEZlhjV05hY0lnZ1M3cW9td21CbERlRDE2d2wtMjNBQlJJZjZqRWw0c3d6M2ZnWlZDRjF2aTNfS21xXzZad05zOEVIUzc2amJVWHZUa3RyVWhkTmxROHQtY3hiS1JQbFBscmItWlRaX1VFTE0wQk85MmR5RFRSNDJHQQ?oc=5",
+   "published_utc": "2025-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

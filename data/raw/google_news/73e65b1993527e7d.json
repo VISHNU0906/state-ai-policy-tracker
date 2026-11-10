@@ -1,0 +1,37 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "Why UP set aside over Rs 2,000 crore for cows",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWGEzaklCdnp4TnRPMjFiVHhZQXJ5RC1wbFFZSVdTTXgxd1h4Q2JzQ0QtdEhqcTVWN3RpcWtrckZ6aXp0bWY4NEFMb3FVaGRmelJTVW95V01iR1RCeVFHVVJiWENDM2NpZjVSMmZfbm5aaldaTVhaY2dTVTVqSXpFZjBxT3dQWk9RNzBCTE84QzFfQUg3eEdzRmlNeXo5SHVVRUt6bzA0MHc3Sk5JV1ZQNzB3R3RuNy0wbWRVb1JXQ3hKeFlsRTZ3a0NDUVA4Y3JLQWFOd2RJNUN2LXA2NXVlRGpISDJUTDBkMktr0gHwAUFVX3lxTFA4RHozQmVIUmtFZWlyVkIwZmhRQi1vVDNFdzcxa2RGbkxYS3J4ZGY4ZmZrLThDZ0IwS3JRdG9wY1hUMkkyQjJsVE5aMVctN3JoUjRIdkhjUzlBcldOOWxJcHhXTDZrTTdkZk5hSWJBeC1jWkpkdzhTQ3J0bW5qWmUzS1lPNF8xZFBqYnhvRmVmdGxoWi1VaC0zdGVxVVlTVlRBb0pZWHZmWjRzU1hFMW1HeWFwQ1FzcHVxQlViV1RrVVVReVN1SkJ2YlRkTjZ6NTJPaFJ6RlBiYlkzNHRKQUI4LW5kV3g4OXlVUnI3OG9Bbg?oc=5",
+   "published_utc": "2025-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh achieves 15% growth in infrastructure development, boosting connectivity with Nepal",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTU1TOEhJSVJqc05QVHRLVDVBc2UtM2VCcWdGR21SZHFnR3ROMlg2MlpfWTlxN2pUSkNhcEl4OXVDYjhXU1NJWkM3YndVWEh6R2FiS3RWa3FMeEVMZnVBaGhlY3Q1NHhwbUp5NHQtTk9rVE5YbHZQc21wRXZHWGN4N1c0M0VKd0FVQnItc1huWFhTalAxb2tlanVydnB3ZnZjM0JKSVppT2ZJWGF0WXY3SktSSncycGt6YXVkZW9fb254NUFwRS1WNkxEUlM1bXFrRmdRYmdNc2h1emp4QTJVOWdtMHgzaEhVVll3WHRxT2RhUGphYVpmTXEyc2FXU1FaeV9F0gGIAkFVX3lxTE92bUNuck9GeFlGRHdvWTV4bV8zaERNMnd5eDdDcmt5OE1CXzAyVzc4NnEwZ01LSEpSSjVrbEl6ME5FbFdveWliRTZabi1JNEtvbHU3UmlsRzBQTXZ5Q0Q5NHVRRkI1a0RqSVJPU0x3S1pWeV9qR0M0dEgtNlBacEprV21FN21ZT3R4Ukt3ZVU4VkE4Q1ZweUY5cDlHNHVWUC1yb2pQcmRaUWRueURpZC02WFNLeWRGakhUbU9OVGNWUm1zOU9KMm1XSmxtVlZOeUZiZkRheE1xVWV3dm9qLTdLMkx1ejlqM1NhR2hmZkxpdTROZmR3cExsNXAtWTFuT1FBbHRPMW1abg?oc=5",
+   "published_utc": "2025-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh restructures Invest UP to Woo investors, ensure clean governance",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdDNuWkQ5RmNjWkhLWGtTRzhBN0hFdk04OGM2N2RpM2xRYWFQNXVNYUFTa2VQMEN6UVBhZ1UtYmlkZUFlSXk3Q2tkbk9OaGJJX3p0T3Bxek5VVGJMT1A3dDNtVldzaHhHOUd2X204VW1LV2xhdDBReGsteHVleW51WkJoUmFiVEk4cVlpaFlURTVhUHJacGFJVFFjb1RxQmc3TXNGM25JNlFVa0lGNThJd01Qc3psVTBKa1lUMGNCUzB0WlHSAcgBQVVfeXFMTjA5NHVlZ213endfeGhSbGZ2cGpyUFhhSVpWa1Y2UEV4eFRsRktkaE5IcGRsUTlWZVo1RmdiYVBJNGN2Ni1QeWt2b1NOWEFERnNiVHJNOTdIcUdTb3puSWFuelVhUkt5SXdBYXAzQW9PSFE1RWcwTnAteURkTFJCWnhxQ0xZa3ZJYnVCbzJxWXNVaGdURy1EaEFOWGhMRHB2dk9pdVpLOHFIbFZOZk9aOGJGTk1lUjJxam43eTlLNTBWSDBUdFRiMF8?oc=5",
+   "published_utc": "2025-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IBM to set up a Software Lab in Lucknow",
+   "source_name": "IBM",
+   "source_domain": "https://in.newsroom.ibm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeTRLc21PdGk2M3BlcDdqRDRrMXFKMkI5ZEFhNk1RVTAyNDBjNXZGeC1VcGRWNDByVGJma0g3LTZVby1tcmVLY3lCUTNxdng2UWFuT24zUkNpZFVRaVhuTDM3UGpfT1dzNHBCbS1rMzhpX3JFc2VpOGhFSEsxMi1lYw?oc=5",
+   "published_utc": "2025-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

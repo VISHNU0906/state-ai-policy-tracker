@@ -1,0 +1,53 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs172 crore cleared for emergency response support system building, police data centre",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeGtwSzd4NXZ5ZWgzV1ZwaWhaemk3UUpsNjZPeWxEY1N1SWN2UmwxVElaOGoyOTRtRUNzd1gxYlc4ZTZVOUJmdXllZmhxcy1pUUlyMFQwQzhvMzNvbHN6Q09RSlZ4cV9FRVNBMEVsbF9XZThWVWp5amxibXlsZ21ucFVFYzQ5VDh5eHRTTE1zeF9fZVc0RjNxQ2ZrN0FHNzdoT2ZWdDRxUzNLMXRaLWd5X3hnQXYyc2R5UHcwQTNUUEF0ZTVGd2p5QzM1VzhKTkcwMzhrSldZUTRuWUkxaEJpTERXTzZJbFBuNUtFM2RZTdIB9AFBVV95cUxPTmoxVkdkN2NGZ2E4YlZhb0szSTdGWVc3RDZ2RlNyd1pSRU1GbTFVLVJ1eXlVbnBVb2FfbjFUTXJJMWVES0RTQ2tUZkk0alFuenlpajNRbGVheDVCNUVKU0dYc3lPdWtfNy1ySjFEdWhqcTdnVDNyLTc4V0hVQmhBdW9LNnpGeml4OXdhRWR1engtU1NGX2ZzY0JQMndiTUN3S2dZY25Ib2g3bG1DOE1DaFJ5dGdKS2xQWDJUaTdWRF9hSWZic2hjUC11em1WRmFFblFHOWpycDdPdzlUME45U2k2dWdSQnVwcEc3aXN3aWloSFAw?oc=5",
+   "published_utc": "2026-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar man held for creating AI deepfake of President, PM; cyber case registered | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaktkSzhqMlRBVEFWcTAzeUtiTkFPV0RMU2xDWWhXS0dZX2IyTXJoMmNISmxxRVpFbVctRURKNlFwYWc5VmNrVWhSS2lkZ0dCWU5WTHdtQ0p2RWZ3eVcxVEJMaE5kdWNTX3pSSTJiNDQtRWJ0UHdwNVBUczZZOENtVmZBa2hLSklMSVJ5bmNjNV9JU2F4Mmw0MS05bHBuNDV1cEpCZ0kwLTlHVGNHTUNiRFE0bW56UTJJUGdEb3JpT1AwaEZOS0xVVDY2aEstOTBqMDEyeE5zb9IB3AFBVV95cUxPOWdHc0VBQ3c3SXBpLXI0Ry1hd0JMWUgwZGtzNUY1R1dvbjRpUXRzM1c1eW5LTFBTSENfcXdRdFdaMV9Odk9vWWhPb3ZkYW9xQ05DYUlWRWxuRWNRb3pZMG85ODFHR3U4eUkzbVE3S2ZwbnBBU3I2Z1V2dS1mSHBEUjlnRlQxeHNLaUhvaEQ4cW9XSWV3NGVoWGo5emJnclowaENlVU5XVXBBaEJGWmRTbXpta1NlSGtDOEFHaVlpV1JPZXhOTzlILTJhdDRnX0V6YnBUeEVHb2xOeERi?oc=5",
+   "published_utc": "2026-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Arrested in Bihar for Circulating AI-Generated Deepfake Videos of National Leaders",
+   "source_name": "OECD AI Policy Observatory",
+   "source_domain": "https://oecd.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcFpvMFl5OHViNXNJa0pZUjMzODNMdC0wM2Y0eVlnZHQ3LU52ZlJTZnlMNjhrQ055MEcxQ0k4Wk5mS05qbGlmX0NhLXVWRkwtdnpGcHNaRQ?oc=5",
+   "published_utc": "2026-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hafta letters: ‘Solving’ Bihar, personal data theft, Barkha Trehan’s interview",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHRUYmVCZlZIY0ROcWFxVjByVjlGWXo0WTlNbnZ0WVU5UjR1aGN4aUVCVnZmTWxaNTU4X1JDZ01RbTdKRHotVjFwSmZYSUlHdldHTmhFNEY4b1FsblNRZEpwM0pfdGNNOVR1S1FyTVVhMWdxUXhnWDFaanZIRnZ6WW5hckplanppOVloMHlVNFhwOTI1alJBbmJpenhfWUhhNW1lVXdtS0I2NkxzQU11N3VjX29pSllob3h30gHQAUFVX3lxTFBNVHo4TXlCRFN6WHFyMm53aldRTkZNWWxlVktfc1RUOTZIUmRGXzk2bi1naXFEZGlVTHRiY1kxZ1FnYjlaSENubl9XQXljNXJyVEx6OTlMb1RpUFFDZGNXZTdXQjlZMnNzZ045U09nTnE5bDNiVTdaSnFHQnk2M0NyZll4TmItX2w1OXVsdDZqbXpzSkRPemRUalVkMGpKd2dHVmRQNkFyaExhaG5xWG5hbG1uaTAtZGRwQ1lnUnZpTkNvWXdiTGY5eGlaSUM5VEM?oc=5",
+   "published_utc": "2026-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP signs its biggest MoU for 1 GW data centre in Gr Noida",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQy1YRkk4X1gzUzRVUVUyTVIxa1hoR2JZVWFXTHpvWUw4cnJiUk9fSTB5VExPLVBHOGFkZGJ6M0ptUHAxZzA2MlZ3TlpWQjdLbEVtdjZFOXcxeXJwY0hacU80Mi1Cbkw2N0F5bGY0RnRzRjhickdSU0RsQmFfaXc5eVp0d3ZGRFV3OThRRUdXWno3VHptcjNVMFBKVldYWF96UFg0Z29HNHVrMkdKTE5RXzM2aUQ4MWZ2b0dZdzVDbmk5MGFaTDM0QWQtdlc?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

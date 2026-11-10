@@ -1,0 +1,69 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: AajTak DID NOT publish this report about Assam polls. It’s a deepfake",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckEzRkxOaV93aG91ZXdXdHBpSWozOUZIWGxURk1sdU1Ia0N1ZnhpR1F0RmJmamhoMjRaRFVKa3BYMGo4LUhDSGlVUDNabFd4MXBXUlFjMWxjaWtZUmpZX1FSTGNhVWJ6WWtRb2wxbi1ZNVh1Mlk0WHJjbE9oZ3JKZEFKZmJQZE42UThNUElWeVI5RzlvQTJ4eHo2YWRfNzdEeFdRU3pZQVpodzdDMUw5bXBmelRvVzhHXzVwNnZtclpBU3I2OTlTTzJKMUdGc3NYa1Q0dktUMA?oc=5",
+   "published_utc": "2026-01-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A deepfake video is being shared as an Aaj Tak report of an intelligence leak predicting BJP’s defeat in the upcoming 2026 Assam elections",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUXpsOTFjcTFucWFYaHdNRlZkLUFkbzZaaHJFYUVwR3BiVWplNmpJNDV5Zl9GSmdYWjV0M0pJUjJxR0M1V25QQnVNY3JPZHZuUmlzbDFkdXhLaEpfSDAzTC1PNk5Fc0NYLWxYM2RBT0ZPTjdPWE53ck5aMDJYMWd1QWo0LXpFbE52RTRPZEotU0RoQjBCb2Z4TUZMYl9PRlFnVzhkbGdQZXVpWDlKNVpPaUh1M1Y5Mm5obHhRdFg0ZGlyMnRVb0h0a2dYcGNpSTFrUUEtQkZiWjQydkZ2UEJvQnlPNjlxWUlaRXJVVw?oc=5",
+   "published_utc": "2026-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: Viral News Bulletin Claiming BJP Defeat in Assam via 'Intelligence Report' Is a Deepfake",
+   "source_name": "Vishvas News Fact Check Hindi",
+   "source_domain": "https://www.vishvasnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRm9QOVFqTUFIYXNnTUJDdEN2SWhjSldLcTNGemRzLVJFVDZsOFl2dzhRQVdDalpZZkpfU2NGU2trQmxuUGZWYTQ3SnoyaExxNUhJQjJrSk83MGtBZlBJbnQ1UkxiTVZJR3c5RzJsUzVTYTZud1laWklXT1Vxa3F2eFc2RTIwdWR0cUk5VWNjaWEtNWdsdkZxa21zdDd2SUJxRmpoWVB5ejFxVXJmLTBIOFg1U2duTnp5SDdvSGpOYTEtdWhqRGhZZFN6UlZpUC1ieml0NDIwa3hqWmc?oc=5",
+   "published_utc": "2026-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eight data centre parks to come up in Uttar Pradesh | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDB0SmhFYll4WDgyaGNuZEJ4dV9ScXJxZnJyUlJtdkFBc29zNkFBMWdpek5xLWFLTU5RYzZIQThZQlBzQmtnSXgwQ0VLeHc1OG5IMDk1eS1mX0hJcFlLYm43T0g0ZlBUampER29UZXZ4eUduNFBoVUJDcDBRRFhxLUsxLUpEQ0w3NVVmVVhCMTBQcno5bjB5MTNiSXE1WEJUSjNQY1BZNjJKZ3hzOXRsRDRWam96aTQtOGMxT0tqVkbSAcYBQVVfeXFMUE84aWtBeUhaS0otOEZhdkpmdE9HQ21NLTVQSlBxcDlta0lwbUFyeFp2U2lST2x4NmM2S1VtY1I0QUpWejVMOFpackMydXU4eGpGMGQ3U2lrUGxDZDhZdGhheDBHN2tpTEwtTjVTd0MyZjcyNHNRbEp2c3Z0aF9IVmREeXVhcDZuTEJ0QkNoVnBDNXZsbjhFbG81eW5LaWo5eUR2cFladW43eGNpejdvZUk2aDZXYnhiYmhvSlBMNjYtNDlybTl3?oc=5",
+   "published_utc": "2026-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Generated Clip Viral as Aaj Tak Report on BJP’s Probable Loss in Assam Polls",
+   "source_name": "The Quint",
+   "source_domain": "https://www.thequint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGJNTnJUSGU0eHdhSVZZU1lndDRLc1hDbGJidE9QbXFrVHZ0V1Z1TlpjcWp2OWF0YjZja2ZxRUdwMTRtM1Y3cmRuVGt5ek91TGtOWHpkS3ppNGQ5MXhxZ2x4SU80MXM0NVg3dUV1R2VJNExkRnI0YVhtdlNUZVViMGRQZm9xb2hab0dwLWJOVXEwcnh6LTlwSjNVS0JpNEx3TGhLUEgxbmhYWi1Z0gG6AUFVX3lxTFBBT0o0Ylo1RW0tZTdUNXkwNmJ6WUIwdGNjYVVIRVM2Tm9XSE16NUZFZHpXVmdQbS1FWFFGcUNyRkdpd0Y4aU9RWGZCc3pFSkZsb0J1ck0tZk5iS1BVMU94bW1hbmhhWTUtaG9raGdSYmNfR3poNm5VQWFuXzZjVWgzaWRGWm4xX1BNUWtyLVpDNVNIa0JEWWgwVWJQTWt3bTVjaVFCT3lvVkdoT1lUMGQzcmYtZWVuekIxQQ?oc=5",
+   "published_utc": "2026-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: Viral ‘Aaj Tak Report’ Claiming BJP Faces Trouble Ahead of Assam Polls Is Fake",
+   "source_name": "Newschecker",
+   "source_domain": "https://newschecker.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaW9fX1JNWTZYQzBKXzBNVVFEaER1WjBjQllTcktQYU1SNnEzSFNaNWYzalpQZ0tubzh2SElZMDkwVXNBc2VEZ041VE1hazUyR3ZkZzVYSjZrN1dYY1hmNkJBc0c0U0t5MVlxQ1EzV0RLczJjLUQ2allGbXFzTUp3dVQyZFV3ZWVjaE5BeGk5TlVYbi0zWVRVaU5UMUx3UU5tTWVUbFRMa0Via3cwQWxz?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RailTel bags Rs 56.71 crore HMIS project in Assam",
+   "source_name": "PSU Watch",
+   "source_domain": "https://psuwatch.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWRhdFJCTDZZYUNieHh2VVNJQXExb0VXWFBtYnZtc1BDd3VVbWtUVENybElYYnFWZHcwTzJpTldoTW1kbEhrQzRwUkRoNzk3dFBZYW9kQklzcDRGSXF4LVFZa2xYaXB2X0VVbi11UGRlYm1vMHF4U0JrOGc4THl3OWg4OHdyd0ha0gGWAUFVX3lxTE1wMTNrOTdCUjJoSlh0eUI5bElzc1M0MVFMNGJCOG9QWWNtY1ItaG5JWi14WlpyWjE3d0lLb0xHN2R1T0FZb1RXTGdhcHFkVkoydnpqQ0JpenVuU1JLZ0RDZVBfVGg2WDB1cVdTVzBqRE81RlBHWEp3U3dNc1QzZWd1VDVHYnhDTG5qTm9KU3MzSEFFX090Zw?oc=5",
+   "published_utc": "2026-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

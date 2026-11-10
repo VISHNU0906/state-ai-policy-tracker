@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Telangana partners with Australia’s Deakin University to advance AI solutions for real world challenges",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNXYxaTRTM0lHY29XRHYyYmlaVlMtY1V0QlhEbHNZaVJSdEw5UFZRSmQ4UjZEcGI0bldETHZrTnBkc3hfMEdnX25XWVdKU3ZlMVN3MVJiMEx6VnFBXzl6RHE0QmY0eE1oQTZ6MkdiWkJxUV9ZeHFicHVpdkZ3UzZRRkVES3BSNzdqZXUwMDR2WTA4TjRnN2t3bHh0bVZZbEVHYlgtbjV4QTJEOHpJUnVpQjhrdXpYenZlYlZuaHNBdmRsT2xoa2pWSWh1RXhVRm1mZXpZNFJNYXBJX3pjOUdwenZDRFRlaFZiZ2pwdXZLVjFySV9WMTZzVVZzSkR6VFRw0gGHAkFVX3lxTE44VEsyR2V1T3BQTlRHVmN5REZvZHM5MEpkeGtjRW9RYmYwbVpTb09LQVk4RU5QbG85ZXdhUVFJNVREYzNfTEdkbTVPZWtlWGNic0JRLUdfVEx2cXNCaWpBVXJVREsxOEloQk1oN2NKQmZMYlR6Y0FoTlkzeVFnOFhINkszOWcyeUN3Q1lKeEhid0d5WlpZZzJrSnRTblJiOUQ2QnNyS0VlaklIbVBfbU1IdnhNeWM1V28yS1V3YlNMQWNYeFY3MGc0eG15VjlxYklzWWR5VnlvME1fZFE3eFg3b0FJeXIwVnptUTgyaFpsa1EzOFp6ZHJSNUsyTExCQXVaZEVQT3FR?oc=5",
+   "published_utc": "2025-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Class 6-9 students in state govt schools to get a taste of coding, AI",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGJtRXlCTVBmS3VEMTlHY2lDX3JYdUZzVl9Mb2h2el9tQXdpZ0QtcHdZSU5oUVd6c0VYQk9YNFhPNDlLZmxONzZIWnlheVhFTS1RSFU3TTNxbmQ4YWxyYjBNZDVTckNsUjk0VUdkSTAxeUYyUng3aDkwRmZKWEIyNWc2X04zbDFOaG5EWE10eldJd05kWVFIT1pua1AySFVkcTdiZ2EzcG5lS1ZJbjlISzJtZGFJWm5Pd2d1SlRPZGZWYUhQUDJ4akFR0gHXAUFVX3lxTE5XX2dxSktnYVp4ck9VaEFpdkJJYmxyTDJCNnpFMFJwaDhGc0V0Qi05cmVndm1uUmdTTlZ6NFZUQndqLW9vOEN0aVJqaXVnb2p2QS0xb3Nfb1MtMGtFczFKMWFTNElzclJwQlJtc09oMUhtcTdINENJd2ZQNjI1NUNjdzRCb2g2Zm9oTjBwLVFxbWVIb1Nyd0hMUUthRWZDSGVtcERhLVNNbmxyMWlDNWJYa0tJd2tVSGZFLW1UWXBGeEZRQmJMeHJ5Mk1SRHpsR2N5MnJpeW5N?oc=5",
+   "published_utc": "2025-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad police bust AI-driven extortion and defamation racket",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1U0SlhNd2dtZXYzVzY5ajlZS2F5bmFOa1gtN0dfRFltX1kxR2RuRVpXazc3eGc2ZW10MWpmR1dfMDNiaHBKZjBBemg0bklzYjJxN2hrRHRxSTR3U2Vlc19jeElsc2pOUms2NmxpLWc1LW1PNThPdDc1NGRMb3NMNG9hSnJaR0JoSFZVelJCb2c0LVJo?oc=5",
+   "published_utc": "2025-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana rolls out ‘digital learning’ module for school kids",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlROMjczVE1xbHg1ZldnUFhSWEktNE1rWFcxXzM5a2h1T3ppUVhMSnJfSGR0cElZSzhEbll3d3pjc2RFUHZINDNQQVN5cEtqU1hrcEY2UWlPY3BYaVB0a3kxa0lRdVNETVdaRkkzTU9lZjNRYlJ3ZjV0YjROS2psbkY0bDlqelVteU1ja1ZzSQ?oc=5",
+   "published_utc": "2025-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adavi Srirampur becomes Telangana’s first ‘AI village’",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEIxSUxFSVJqQ290N2tMSkotQmUwVXczLXdmUWM4TDNQTmdqV1B2ZXJDNUNnTTg5ZTZleVB5OFlmTHEyYzVkNnJmYW5JRmxjN25qLW1UY2M1VnZoSExCc3VvNGpYd3RwSU16WDBBbkJJT0FSRWxjcGhKcWZlaE9HbGRzNEVtUjdad3MwTy1YSEdfNHJkakJiWnFmYk12RUpRbklGbW0xcjR3TGVqNTZTS2hSSdIBwAFBVV95cUxPS1ZIaERlUEYzQnJXZ0JYdndNR2k4Z25scnlpSlBRTmQ5V2VjTGcxSDVaNUc1VzhodS11VEhjR0FrX1pjMjRsalBwaXQ1ZEJ2Rk9OZXUzSUNXV0tzajNGeHcwTGlENFpQWXYxSk5sOWRVZ29lc0FTMGlDdTFaMVZuY3BuMlVxWlpLR2pxUmtlalhrR2REVzdMVXZRaWlrdHI5bnBpZ3RuWlloVWc5cVVocWRKb01MeWdmVWhXMTNRSEg?oc=5",
+   "published_utc": "2025-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dussehra Holidays 2025: Telangana, Andhra Pradesh Schools Announces Holidays",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM29pcjBybExQVXJ0dnNDdTFSSzhzX1pKRkVON2M3QmJTTjlnLWo0Tk5YZEN4X0xsdXV4a3llSWp6MU43eTV2MmR3clZJd3N2cjF0a0ljaWxNdERiMF9QTnJyZFEwT0RrbEVwSUN2WjlCUWpTNDR5NC1Vbnh3RlBrU3ZQV0pfRGlxR1N2UDZ3dWMtbHZnZkIxV0lRb0dBZlFGamtrLVFpekhOc1lrRzVKTlJxZnItY2lQU2lpUk5VbEUyank4RVB3VVBMZ3BIeGEtVGc?oc=5",
+   "published_utc": "2025-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sridhar Babu meets UAE AI Minister, proposes joint innovation hub",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWl5QTdXeDhRdVlXY3RIVzU4R3NYSnVDeHFDNlZ6TDUwNEtBRlJESWhCOUpGMF9OZWl5bnZGa2NMblZfOWNKclp5aTEzcVRoOHlsakJpc19seTNGWHlhdmd3Q1VwaFFGWjlwWDJMNklIOGx2ejNYZldXdGI5a3dxb2Y3WmsxYzFUVVhIblR4OVF1bE9zZklPaC1ReWpHU3NkbUExSFFINUo5eVJPclpR?oc=5",
+   "published_utc": "2025-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TGSRTC becomes India’s first public transport body to adopt AI for operations",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa05ucWNZOHh4djg2ekhmX3JUY29LQjRPVE82bkh6UUJzYjhBRXhwUUN4ZGxjQlFVazZ2QlVRSlpHZURsOWs1LWhtdmhDeGVGSm1FY2Rtc0YyLUg1ZXNiVnpQa09mYk5mUzVyMEx1Y2NTNDdxaEtLM0hQSGMtSUVSRm11UzRYMEVxaThyMGhtU3dQNkE0Qms5U2o3ZnNtUlFLSnlEQnZn?oc=5",
+   "published_utc": "2025-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN launches pilot AI, robotics programme in govt schools",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVM4T0FfTVJXV0dMNUl2NmhFMnE4VlY4OG1lZDEyX25SYkpUdC1mS2lKVjk0SEo0WDZPamxSYjBBZU4tSThLZDdCVFpnYzk2elU4WXMwM2pNTy1uZTNRTVNZSmY4djUzSWJZTmpkR1A3aTczeHh5VGtyU0YtS3pVYWF4OVFnV1I0VXc?oc=5",
+   "published_utc": "2025-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-AIIMS team uses AI to improve childhood malnutrition detection",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzJHTGQ5M2FTRHpnOFZ4UkNsQXBWSkFhX3l1cDMyeGt0MlozLTRfU25TR090VGxhTHprTFBfYVBSOGN4eDVlV1RIQzRZRzVLLUVTT1ROVEc5U0R1NUJGaVZoWWotTXpXZElTR0RHY1ZWMU1NeEpvc1NwRlJjRXFjSTdZRy00bXc1MjlMbTJTS0hpR3VDcm5rbw?oc=5",
+   "published_utc": "2025-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

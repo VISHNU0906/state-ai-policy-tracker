@@ -1,0 +1,69 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "AI-enabled classrooms in 80k state govt schools on the cards",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZHZDMlppZ3RFaHBtOEEzSzVCaFVkMWszcDJrUXh5NkJtdDJvZTVMZTJ5Z1p2Y2FLY3VNcjlQckpza2xFV0d5Y3EwTjJvTEtUNVJnbnZ3aWoyYzJ2ZlZXa0hINjdPQTJPWEV0Ml9yNV9ISXE2NlFFRFlGUGxwOTFCc1ZqeTFuYkxTeEVZS0xIcGh3eXJCb1dDWUlXcWNSbjBscGtXdGxscTZiajhzbzZoLWYxX2ZnNnNZLWkyd1piNmNhSFdpU1RFNTd4QnhNUm5fLTJsbF9tTE16aG9IcnpKaHVR0gHnAUFVX3lxTE9mOWFWeHdwdFhRaDEtQjhhd0puaFZyRjh1Rm1HMXRrQTI5cHgyQ3F0NnVwQWhaNnJJTHloR1cyRENLbGVuV1Bid2w5aF82enJ0SG1xdndmNVNCeHNwSnlHYjNOWEVNeDFWM2x2VVN1LXByZmhoUmhEWlZiN0RPYk1CWHlIVHZhaElqY05NZG1iN1BoQ1cwem1GN2NSaXk5RTJvdTBaNG5CWWVzYzFETVJ3VGFodFplZ2owV2MzV0FWXzViVkZSNmlCQlpmd0VlREU2Z0c2dkZnTWRDMXh6WlhFVnpUdUlfNA?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Budget: Government signs MoUs with OpenAI, Sarvam AI, IIT Bombay, BharatGen to boost state’s...",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjQzc0x1S0FQMjVUVHQ2YVpJb2NnRURzbjc1MmFDcFN6MHJmMHhNaTRIRHZzY0o3VGpKMUlXSi1scllUcWpqcVBBaWl0VjV5SVJfU25aTUNyT2RiUWJoOUh5MUVGdVR5dnpsbXlncm0ySlh3MV95ZTFrUlFTbVdLWHlPNHlyZnRhdUQ1YlQ2cHh0MzVaTHVaQ3JGQ0pNczN3WG9qSG9ETWZjTlF2YncyanplaTR2SVZTY0NvdlphZy16SlNYUDgwMGZVcURtaGJUSnJVelZuWHdhNHJDTF8zZUZiTnNmOHRuZjVFeFVKT05QdVp5Umh2UjYwTk9mUzdheXfSAYcCQVVfeXFMT1UtVWlrQUFBdndwY3A5T2Jwb2U0NHNETU9rMFJUNXZUcGdxaUlrUlFkamY4NnlBZlVWV0NFd01Xc0Qzd3RodFUtdm92MnZDYmlyMlk5b2JVNUl2VVlXMEgyUm12T3JIZUpjWmF6aHhsZWU4Q2xVWXp2WDhzb2dtVGRiUVpKRTFGRDI0eWdxOWxOd21Qd19hMmdmdEFHRkNiZ0ZJV3FWODA0T01uY1I0WmlidmtHSTB0andiZjl3aTU1MXl2RTlhcnpEVlhpZk9JMzRELTI5bTdNbzNhbm1lcnRBemFjREdPZFFiWHdGRU93M2FkZkoxelJKSlM3MGVjcEpPbzY0QTA?oc=5",
+   "published_utc": "2026-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India Is Using AI to Police Identity and Expel Minorities",
+   "source_name": "Tech Policy Press",
+   "source_domain": "https://techpolicy.press",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFJrQjNJbTBkRE1pdVF3ZTdvM2lnR3dwMUVFTVlmdS02WUJyWWY3SGlrTnlQWTlVaXVfUURyaG8wXzFYSHpuYmg4eXlsRTlheVh6cDRPZnRWcmx5enJDLVQ2bDE2S3hPYkJTVV9pWHdSM2VLWDllUUg4TUZOMWNtU3dJWWVMd3IxdVE?oc=5",
+   "published_utc": "2026-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Transperson’s brother booked for circulating ‘doctored’ video of Maharashtra minister",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjdaYUV5Vm15WTAyVy1zcGR5ay1HUlFsckd6T2RZRmlzeTZ5dUc2UDFlV2dpdTFLbll0akY1QTFRV0xZUzlyN0pQTnZybGNsdFdRa0Z6bWJiNjhuMEJpV3JFMUFNZzZRRnpzUnp6YXJqR0JkbERIVVN2MVBYdnEwZ085ZlFYWTQ2cjhCaTJUWUptd25PTE1iUzFsazZYYmlWck1TZFNvNmRxaXRQeHc?oc=5",
+   "published_utc": "2026-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Budget: Government to set up advanced ‘state data centre’ in Nagpur",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQTZfcm1zb2Z1anJUTFJ1Rjh2NUxBNms4VVQ2UW5JVTAzYTVGZHhkZTQxWmdBWjdvTk83SXJQSENkY2Q4dWxqNEdVSE81MGtCZ2xlLTdSSkIwdGFUbTBEbWJ1Vm5CQjRMWkdaTktHSzQ0M3BKNldYbEs5WHk0eXJQc1FjM0hSdkk3Sl9fMVNDdkJucnotN0FCX1VBTEhrNkUwNlBNUmVkZ3hiakJYdFhlajdHcjVjcXVvejVtakl6QnVHUFVVc0JKUUNNSExnVkplbVVWQdIB2gFBVV95cUxNbDRMMmRzeUNKcnpiN08xaVN2N0xKRDRXQ01kcTU0ZllKQ0NBWWIzMWRpNHRNWHo0aElnc2tjRTRnMmRUQ2t2em93VmotNzZKUVJicDNFeTgtR0NQekNDLTRUZVdyd1ZCY0RKdmRMSEI2RXNrUUhrZ09nTzY1QlVvRVVhWnA4eXpoODR5VXlvWnM3UjQ4UHZWVWp4dkZnelZvMmltdG93V1lyV1psN2hUN2lWZUoxUzlSSi1BRzkzSFRQRVJqcFBNZ0hua09ibURfS3BiRDBQc0N0QQ?oc=5",
+   "published_utc": "2026-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Set to Become Global Leader in Data Centers by 2026",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2oxNU5rZDBVcGJoM3lDOVFXVUhucmU4aWc1UjFROTh3VUFPRDV2eHhDdkdsWDY2Tm9yVVd6MHZCVnB1TExwSjVRdUtnSkhDR0dVUzZzV1Y4bnJVblNkemxxSTRRNlpfcTFSY2toZndzM3lyRFlfZzJjZVRBNkEzbkhQWkFNWWd2T2x1MjNLSk9ub0M3dGkxeE96S1dUTTFpcVpoUTJLSXpXcU41T3IzZjE3Yy1qaFl0QlpQbkZpaUZFNWxNTmVFTlh0S3dweGpKcjRj?oc=5",
+   "published_utc": "2026-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Narhari Zirwal video controversy: Transperson’s brother booked for sharing 'doctored clip' of Maharashtra minister",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWjN1ZFV5d3A5eWFyNm1wX2xwNUFzYnV6Wi1FQUcyQjRhUnNoQW0tUThMa1VXTmNCUVJ4QWc1YURfRVVuUXhVWWM1WXJaQjZNSWQ4UGZPWmFxMlAyelpSOXcwa3JmNzQ5ZUVzaDNQZTJEcXJ3ZFVOTGZaZHRuUkxybHRIM0JkZ3ZyQUdEVnMzVlBicE11TEJ5QXZJM0I3MHFzcEYxMDFKc1dQQVBqVlB1ZjVDWkttRHYxSk5NOE1ocFdCbW9lTE5GOGFvaVRtWGlJYUNIdUxhWUZ5bUkyVUFTT3RGVzU3bXltd2VValVaZkY4MzRFUFc2VVpkajlRVHBEbFIzbGNNelcxNnNGbTRmaHQxUVjSAZoCQVVfeXFMTWRMQUhtRHVpa19qU0l0SmJpaHN2Z3lnMDQybDB1ajF5UzAweUZ3MVVxMndlbHU4WXdYcGEtVTgxSTZtU1M2RTdjcmt0bDVOcTRFX0NKQVRfMWxqeVMyX1NwWnRCVGxQeXNDYlJnRWpYSU5aVFBqWkZtTDFVR2o4TVg2N01jNmYyUURjUHdKcGJrWmF4bVphR1pPUVdBcVlyM09uX1J6RjdieWo3aWxsN0k4VHFlR0VkOUk2eEQ2azlkaFAtaG5GYy1DUUdDWTUyOFZSckE2VkFjNE16bWJDQ1A4OEttX3k5RkdpN29FZlRNY3FuWGZ1Ukl4MVEzQ2djVzVybmpYSWpUdXNMZmZOc1N2YU1EYWN6U2dn?oc=5",
+   "published_utc": "2026-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to emerge as global leader in data centres within three years: Maharashtra Minister for Marketin..",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3J4OUF2T0w2ZDN6cWpWSjZqQ3Y5X2hmNHl0SHFaeEItQUFhQWxfaWZhQllUdHlhVV9qMEpoRFFSRHUzT0Y2eFl0bHNGb1dYQWoyTmE5aV9DMXdoMFp4bk5rRW9ueV8xelJ5ZkRPLU9GYTdtLUpfc3pJak9faklHNGExdjFjRURVRzdteDRkNFZhVVJTa09tYjZjUzNfaG5fZ29wdmRPZTA0MVUyOHdTb1hWcDhLQTE5NnZZbkswNmFyeHBZb2RaTnpGbVhTcnZublBGLWtNZHNLQdIB3gFBVV95cUxPLURyd2pyS2JKYkJrTmMyd0xwc2RnYk1WMU8zV2I0MzRIXzZJSk45MVRlMGFPc05SUmxBaXEwdkVFb3EwYnJVNk9mdE51ZzVTWG5SWmJKX3RfOWJYbXIzQVNqeEJjX05DRm1ENDQtVE1KWFhiWTJHNmNoQ3pYT3NRQkdCaTd4UnQ1b09qTXp6YlpSYk9ZOC1qZi1VZS1YeHVhMWlUN0dDSW1tc2VpRjJ0ejJPd3RvUHJ5OXpMc1gwTTJtbVI3OEVwUDdlT3RFQnBrTXZMdXRvNk5kTzExY2c?oc=5",
+   "published_utc": "2026-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

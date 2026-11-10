@@ -1,0 +1,253 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "Trentar seals Rs. 30,000 crore MoU with Maharashtra for 500 MW green data centre park",
+   "source_name": "Indian Chemical News",
+   "source_domain": "https://www.indianchemicalnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb1A1M1czcDZZZExnbHFXaTVPWllmaGZDRlBGY0UxeTl3RF9scGFyamVPRWo2a0RjOEV2NFo4U3BEd0VYZy1XS2xJTDFuNlhhOG5kbWFKMjFnbnQzbnA4UmFqZUdqUVR5QVhTM0hNcXlnR2JPNEZLSHphSXowcDU0ZjhGX1FSbUdDbTlJa1pHeHYtWGtrZVpuckxPUnJITER5NUUyMUR6ZEFhTGlxLWJia1B2M0J0OUxfWnNjc2ZsQ28zQkRQUDkybTBLZXNSU2p0SzNZ0gHaAUFVX3lxTE9kZHVxc3MwUUNJR1dEazF6WTYxNVNOMmlEaVpZSXY5aFZNckpCeVZUR1FVeUxGVkt0bXVxejZya0VpeDQ0RHlDU2R6RWhTMjhOQUdURnRxb0x0UFpEay1zcmRSN2d2X253ZEtUTDRtZkp0X0ZXbUFZU3dIak81eFZRMElCeTNyUmlOLWZTY2NBT1RaOFAxTjZhYm1ENld4TWUwbXMwYk5kZkNDajRKR3V2Ym53aFllZDJQNUZDR0c0MXl3SklMWVkxamZ1RVdDSzlJRDhKWGtjR3R3?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data Centres, Sugarcane, Drought: Maharashtra’s Water Problem is Policy-Made",
+   "source_name": "The Quint",
+   "source_domain": "https://www.thequint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWdqMGh2d0Y2YmxtQmtSUk5ia0Rhc1ZiNndGcUQ3LTVNdER5Q19OdTBsV1Nfc01CVVpqcUNKV0ZQbTExYjZBYnlHMmE4MGZIc2hybVJiQjdJNzFoTUtYcFhmaS1VWVIxd1hRUkhWU1diVDdmQUdRMWFmZGRCdVhHbjh5YWd6dVZKMUdjVndmSnV5el9pazhtc1pwONIBqAFBVV95cUxQblpwY1NFOENQOXBTZTN0VlMwbHh2YjhtcjhiWkNHbGpIUnZWLWpGOGpIZ2N1Z1BoLTlsY1F4eWFBemRXT3hlUUV4S2dobWRhTzJ1ZmFDaHhpN013SGVrYmVMTWQ0WGdrWmJReW84VXg5Y1NGUFJjQ05zdGZwX0FhbEJPVENPT2Q5eUNMU1paQ01VMHpUUUNIcEVVelBTb0tENm5fT0xFTzk?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dorf Ketal to invest Rs 30,000 cr in Maharashtra data centre space",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnprdnBEeUFzS3pPM1NTTHh5NkVQbmwwejluWXZuRWYyaS02TUF4UFhlcEI4ZndSUFRrYmZ1ZldOc2ZuU2pUMGx1cV9sZnotbmdXMXBUWkItTjJGa3M4R3VOTGd3T2RHckQwV2s5Y2xBMWJJZUN4eTZNMUNDeE9QdlVueUhQQ2N0Q2RGQi10OXJNMDFDaUpJZ0NHRHpvcUNfQWNObdIBqgFBVV95cUxNUTFtZDJpM1lzc2FJQTFBX0xFVnpscUlkS2VjZE8yTXNydmZ4Vkh1cjQ4T1laSDlHOG1GQnBfWkRRTDNzb3p5WWN1aW83b09wRzE1V2pHaF83MlpXSTBjWkJ1VXBZX1d3S3Y1RGdaTVdDbG9QUUxoaU1LZDBpRUtfWFdaek9vYWJXbG9zaGtwblp2UERoODBlUTQ4V3VISXI5RG5vM0c3YnZUUQ?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra forms Anil Kakodkar-led panel to assess data centre impacts",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHBGQUtPa1FPdThuWnNkblo3TE44YjFfakxqcHA2NE5BNlZ2aHJrd29MZkV6c1VkdGxDal80eHItVEs4T0I4MjRyOGlWTFBPb1ZlTTlxWlVoX2Y4dDFTa3Y0djdhRGlYazlqdWptenBiLVQ0N2l3ZGNCeVNRdDh1WEtKMUt4QlZFcEdqODA1WXBGSU0yQ0VrX3FyNjdtVXM?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar lines up ₹30,000 crore Maharashtra data centre bet",
+   "source_name": "Indiatimes",
+   "source_domain": "https://chemicals.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFJZbXJzbVFNRTVFZGNWZW9Md0hfZFJTSFBNTlBmSFR6RldpcGVwTXFBdmNTaW5yU0dXSTEwT01PUkNiSXpRRTZVdjZjclVHV2lyV1doT1hsUkwzQTItS2t2Z2tDdUoySG9FUGhFVlB0ZHB3MjczMHVTWlhXTWRFcjBQRmRQV2ttRnAwVGFlcHEtWmwxZ3BmSTRPVVhCeml6Wll6dXRBSnA5Z1VGZzJZNmJoOFJVeEg5OGVSckV2Sm12YnliVlZ2SEdyNHdiMHFXakxRadIB2AFBVV95cUxObE53RkFQbUl3cmgyUUV6al9YTXZJc3JIYmdrekZvT0VZSDIxUTd6aUMxR0pWNDBWVU8zTnpRSDBORFNQV3ozS05KN2hFXzFUM0d2YTNlUkhGbnNvSDMyWGptemJuSFgweEZURHRhWWRtVEJNa1hpLWtTZGx3SkxXdXZLX2lFMEpnOTdGTGRuaWZsZjNlbzA0ZkYxeVBqQkdGaDNVcW5aTnpqVG15QWlwRlFzMEpQc3B4NFZvZk9vcFZ2MUMxOVhka3Bsc1VVVlFBaUhZS0pIS2Y?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dorf Ketal arm plans ₹30,000 crore hyperscale data centre park in Maharashtra",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa25YVllNSEducVBxZ1hVbXdhdFd5TThLOFFHYmFzOWYzT214amtMUTJ0UFlGQzUzQ2dFaUhOcU5JQUVUWWlFQU9OdER6TzVVcFlla28wcmlOTjBEZVBzTnNLUGg2bW01cWh3dlNhQXEwQ2w4a2JvSTVBM1JTQ1BRYmZiSEliN2N3YlhPbHhuc3JRV2JnTEFRT3lwZjI3bVpYbjRLckFvUlVyNlBHWHFsczg1bHV2SXdfeW1fZThRenV4NW1PRmYyRTZRU3BfYmZCWUxycm1IWdIB3AFBVV95cUxNbWZ3Y0YxbHlSVUlEdEN5MVdfLWtXeXhBb2ZNQVM4MThzY0JpREkwa1ZvRENTNjJIU2NndThjQ3VsUGhMckdoYmZDNlNTb19GS19MUndiN0Nra1VGTlRxMzQyLW15OWU0OHBMN3dMc2tKdm5iWnIyM3F6S05iUmdQdnJKN0stSlRsM3pmWnJLV1ZQNFMzTk4ydm02VGpveWNvRS1YMkZyX0c2YjJCUnJuTk84eW1fZW1FN01PcU8zeUtOdS05eTRtOHR6WTRIRW9PR2M2cThsTjNMRE9f?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar inks ₹30,000-cr MoU with Maharashtra for hyperscale data centre",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVU5YMU5GZWdMNDktT0ZKWlRvMTVCNU1qQk5Wci04bW1TTllubWtKaHhYX1NmYndMaDJXQWtnN0hndno3Mkw1TVd2ZGwxeXdZY3lJY2Ftd3JFLVZvSHVQeS1uR211VWVQWGZJSzhIVlljWFpQTmt2VTdsSlkwRHZkZmRLZHVCU1AtTk5ZUUIzTDdaUkhiaERFVG13RGtOVU5JaUtUMi1fUlFGTXJkclJtaTNSUXI3cUxhMWs5Vm1sRF85dGc?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew signs MoU with Maharashtra for ₹70,000 crore green data centre park",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzBJYkg2eWlCX2d1NnliY3NKck85RlNJa0FLd2I1c1JhSEgzZVVkZE1lTEVoVXc0MEotU096NUN4M0RKLW1FZG9WeTVKVy1kRkxFY0pGbE5JaTVtZU83X2dhY3h4cjltS1diSzBjSXdGZjUwb0lxQVJTNGNaVmpLbmtiMndWaXBQT2Y4d191SjJPWkpuNmJfU2c3LW95ZzAyclZHaVFrMHdEUDJxdHlUUVlqRGtaX3haYUFFNkw1d1BORDROaHI0cFNxWXJILUxxS0xWS3JDQdIB3AFBVV95cUxQX2YwanRDdUpPeEtTTk5EUy1pRV9HQkl1QnBleEVNel9mSnR4aE5kX1lkRlQ1S1JiMlNJWXRlOExIbkJ5dW9BVkV6RTJyLTZiNG1jS0Rpc3JkTU0wSU9DOS1zTHFWbWdtR0lUZ2kxa2dQZVktNmx2OWtPR3V0R0lfdjJFYVE1aDZzR3VRSnFTaUVCdXNGVllMY3RIbm9qQ1czcmRzRWpOQVJ1c0Y3VmpEZi1HR2syWXcwMGpQa0QzSng5cWgzZll4Y2FVRjVhb2FHSEp6Vl82YzduVFg1?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew Signs INR 70,000 Crore Pact for Green Data Centre Park in Maharashtra",
+   "source_name": "Energetica India Magazine",
+   "source_domain": "https://www.energetica-india.net",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVZWUEZaTkdXX3FkT3A5cHNOZlJLNVB3U0RvcjVsbDM0U2NYa0FfaHNDaE9fbnV1S205Z3E5RTljTU9SSy13ajRQMi0xU2dRTVdDVVlRTnFoNlB5YWFsWlBUVGZkak1QRWNrd2JPM2RULTN6c3FaaHZVS2Rmb0lNbzNVYlh3cXhCdXp5ZTg3OEtvSHZQbEw0UnAxS19DSmdNanRfWG1yZW9BWUxLYVRtdVhn?oc=5",
+   "published_utc": "2026-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana, Maharashtra, UP lead state rankings in data centre policy attractiveness: S&P Global",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEpOZ3piYUFyM2tYT0FWajVVVTZQZlRVdDdBTWFhWFBkeUxXUjRHaTExa1hQUXBjNlpxaFZ0b3ZvakRJMEY0dmcwbjBOTk41WGF1a3dJazZId1ZYNmp5LTF3ZkhPdUJIaW1faVJSRGM1c0hEVVNwUDhxR0ZkRndpNTN2M3ZNSG1EVmRrbDBzTm5xd0VMQkpmbUNCcXJ5YzNOZWExdFhBZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State expands data centre footprint but appoints panel to probe environmental cost | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX0RiZ1E2eHFROEdaeXNnNmdQZVVFNEp2b1VkdUFUVDZkX1FFZUdNUTAyajRXcWNJMHU5VnlCeGFHYm9vQ2Q3Q3EtVWJKMFpFTEU5a21ZMnc3b1I0UEJCRzNFTGVMWkNWcGQ3ZVFlaVdTbk5lQmlvQnQtYm9xZ2wwc2hzYUpqcTZrZHZuNXFoRWRwQi1nS1FtMWdxcmxjYy1QOWNVRExNaTMxOW1hZmhIdXp1NUxBeU5uNjljRkRsSGVTc0ZfYmpXUmJVcThDZktEV0pVakhIN0o0b1U2VDkwN3lyMGFqTG9E0gHuAUFVX3lxTFByYTJhaVRYQkx3Yjh2TkxYRHJ0SlhXMUlHcy1hVnlkN0tZV0ROcG4wYV8tNXBVc0NBOWNUa1VwN0l4R1h5TzVTOFZFZW92dVFkcGt4ZmFxdk5MTWdaU3JnQ0JXeEhJclhSV3JWRFE4cGhXWDJYUU1fQ190NHlJeVRRVllMTlJOenpLU21rT3JKMmNYU1Y1a3JEZkdBTnhPd1J2TXVBa1VyU1pwNEsxUXlHT2p1cmNPS2lvdl92bl9xTWF1djZuQlFZaFI4X1VIZWZEdjRUSy1kQ2hzcnE3bVBrTlNRaXhRVHV0eUtCdHc?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar Plans ₹30,000 Crore Maharashtra Data Centre for AI and Cloud Workloads",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qNzRNdXptWExZY0ZKVmdoZ1JjQV91QWVINHkyVVFrdlR3d2l0T3NnMWNyWXAzUmFFaW9aN0JOem84azNIS2NlanVwS2piS0VRcTl5Z1VuZ3pzc1RyZTliTHhST193ZWtTdVctX19BR0J4MXZGWHdYRVA3NA?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Renew Arm Signs Mou With Maharashtra Govt For Data Centre - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWpPT3JOUnlMQWY0VFFGUzlCSzBFUlBSbnJ5d1BSODhlTzFhQzRCLVdlMjAtQVJBZkhCbW9ubEYwa19XNzRPaWdLWmJjYW91MHdnSlk2QUtNWE5GMDBCbkJidXdTN3BTRmZ5VHViOXA3VjNSdC1SdDQzQ0E4dDN6Vk5WYnBBU2N1VktOTGVrTlJvR2Nza0w2NUJOWVRYV2NCUUFNOFVFMA?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew signs MoU for ₹70,000 crore green data centre park in Maharashtra",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaXM4STJSVHBMdFlBUFVFTGFzcTQyY01vRTNHTWZzTHh4LWhKXzZOOERRX0h2RVFXbE9YcTJGbVhsRFUwN05kOHlnUU9wQVlMLVZlM0MyU2hOOFE1bjh6b2dxenVFMEt1MmhTNWFrNkdsT282TExHQ2ZaRGdoSGFDQ2NWQmxWSjZnc0JERUp6TF9vVFR0QWdfYUYtLWJxS2ZCSHBEQkNfTHpxbDRHdWcxejBXREh5VElyRDFxY05xRXlOUFVWZ3VzVEJmRWpTdTBFelpaXzZIZXBKS1lCb2NmUU1DeVrSAeoBQVVfeXFMTWloVEpUV3Z0YVNjdDFMNmRUcklqWU96THdVV0pfbHpIU0hVSnNuVmdMVzJqZktOck15dFBXbDNJeVc4dE91cGFTTEcyZTZ1U1RFeUN5V3dQVjcxOW9FSWoxMkZBdjBLWjN6dzNGM3Zkd3NEOGU5eGtZdWJFUEM0N2hESFNUYVFYVlNDcExLSXlES3N0MXFPQTJLNVZVeWtFRFZaYlJ0U3MxSS1nYnNoY1R6dzdPRGpveWhsVTM0MlN2VXhkc1dYMzN5WG5GSE5ITTFOM2NvdVdKTjl1eWw2ZmNUcGJ0aGxVOFdR?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar Plans INR 30,000 Cr Investment in 500 MW Data Centre",
+   "source_name": "Energetica India Magazine",
+   "source_domain": "https://www.energetica-india.net",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWFSb1NIZGktVFlxRXV5Zm9rcTNsX0RXZ3FMRmRMQlc4OFVwbUxVTmJmd1NVQ0lKdU1oNUU1NXV2N1hDZzdKTHdPUGQ3Q3dOblBlMGtlRWpyWmZYZ1cxWHF1TFk5cDVsY2w1Vk4zM294OXZXaUF5NG1McjR5S21oWWRld1p5RzhjV1llbGw1SDJqUklCUGF1Y1c0WlVKUQ?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Astra Cybercity to Invest USD 3 Billion in Next-Generation Data Centre and Technology Campus in Ratnagiri, Maharashtra",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHNBT25oZDhNOTM2bVEwQ1VIeWYyVUdVQ0JleTZxRHFvSEtxSF9wbGo2WDctTllLYXc4QXdRZ3J3SE8tV0tfTHJzZGtEZlV6VHRJYy1wbE5xTndoTHo2VVBqZXZNLXpvQVZ0TVBwd0VVN01vTFR3bld4T1NjejZuQzdBTHhaSklUZ3JVTDdqanZRaE5hQVhpS3JmS2FBaF95d2oxWTh0ZG1FNldubmVYWC1qWmJlVDJDOFBRUHRkRmtsLXpTd1BtTlpBU08xbVhHM0hrMkFiWnFWaEVzeFFyREdrMEp6OFdpenZqR1VXR1VYbmFDY1NpatIB_gFBVV95cUxOTkgwT0FfQUVjY21MdEd0QXhMRmRyRWdTYXRVWF83UDFQbEpUZW43WnBtRGczWDZZTHNQeG5PVlhCaEZHZy1VcU1uSHkwOU1DT0Rpa0tLRjdZQ0pady1hYkhSa2NFZmJKZzFlUUFDSmVNdmhkaGhHQzZadkw5Wk9aNWpDbVIteHlIR25aUXB0WTlUYzRkdm1EWklYR2kwMENrV2lWbl9zRFByeVlVM2F2SXY4OEVFMW5kc3l1V2xZUU1VeWVXRlBLbUNvQ0ZKakw0RWhPQXBGWm1ZSXAzUF82MlhXWUUwSUhNNVpSMnRSU0s2NUt1TEFtcXVrMXVmQQ?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar inks MoU with Maharashtra govt for ₹30,000 crore hyperscale data centre",
+   "source_name": "ET EnergyWorld",
+   "source_domain": "https://energy.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ0tOQm1mdm5DRmJGVVN1T0FmVzNKY2xSYURJXzZtcnhucjhqM3ZSUnZhMkw5WVRnOW8xMkRsX3kyVHVIdnB2YzRlaUNMRUwzN0NfZzBJUGFGTGRfTlNFcHpDLWFWMloyVWtvbjlFZVJNRWlDZEZUS1JvbFNBY0lvMkNOQVNjWTZNNVFSZTduVUstV3NXRVp5Mm13WVlFaHpjYUFmazlPQ0RGVzdRRFl4ay1KUXhpbkd2YmdYWTJHQjJaN2Zha3VCczQ0cXowYzlHRXpQYmdPUzZKdG92Y0800gHkAUFVX3lxTFAyX2FHclh4cnhYZHRqRFp4VlpydHBzajV6dFJXd0dSSEg1TGthXzJ1N1BlLXFORmw2ZmJsVzM5NzdWZ3JiSXVieXlYT3RmbGdFeFpFLWVoRUoyR1EtVmlva2NFbFhIR21vZk84bm9leTEwYzQyWVdIdnVvalJyajFpR3gwWWtMN3NOcGYyQ3pQd3NBaVhUY2NlTzdYdzhsUUpiaVVteklTNVdNd1JTSzlZR2dTa0tIM2tabjcyOU4yZ3c4VWJvRDU1RlBjYnJySU5GQnROeTBnRENmT1FoMjZvdEVaSA?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew arm signs pact with Maharashtra for ₹70,000 crore green data centre ecoystem",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb2dGdmNnLTBJNVB6NFE0WFFXU0E0XzhxdVl4cmJEOUxUR1ZFRWpvNDM2NFV5ekVWY2hqd0x1Mm5PY0EwaGlwQk5FV3NiWFROek42aUNtdjMwSW9DUzBROU9tRFV5TnRtdzlZc2tnLUVkWEc0d2NmZVUtOTVYVnBCTWVHMkNyanZPNFJFTU1aTHozNXRiNk02V1hYWjFzcEFWcGRHWnRVVlhkUWlQVjhNSU9fU2JYNXNYcy1XVl81bGhuQnllaGRyUkZmbFB0UGltYVg4WlduV1h2SWdvdUxKY2ZCSlBkMGhIMmI3cmxmNmvSAfQBQVVfeXFMTVRubjk4b2lTOWRwMDlMRW5tZTVIQTAtdlFHZ250Sk94UTdkWVNmZFd3cG14Q2FrbzZlam9WUmQwWnl4Ny1YdkF2RlFHTkJtbGlyeW5POVdteENtUi1Ia2tPZFEyeEZxS0RRLXI2NC1fT3VfT0xFLXZPX3cwaGxaYmFtNXRwYVBaRE5FMUJRd3NBdW85bkNTUDhBMGFROVNGaU5fU2pMRHE2enh5VVpKWC10aWxqQVYzTDhIZzJQTWdYNElNaVF6VXJXVVdGQnpscmFobkRjOFZqZkVBcmdGSDNPSi1oWWl3UXpXd1RDWG13RUxFNQ?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dorf Ketal arm plans ₹30,000 crore hyperscale data centre park",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazZpMHJISXUxcnYxTGNEa1lYMF9SMmpEOVVlS01hb2E2ekkwZDZETHpIU0ZCVkxaNi10VWtwdFFrblRXbHd4Mm5FRW9zal82Mm9iZjdha0V4U0Nya1pQLVpEelRGVXk5LWxJVXE1eDJ2aGVYUE1YLXJfRkZxbkFyYXJkaEpCRkE1MXZmMFZBQ3pVV2hJOWVpR0RCSmZHVlloMzgtTmhDSnoyZmRpSGxFc0V0T3ZhNHlRYmNwQUxnNlVhUnNlZ05KUEFZQ2YtSWRzWDRjVXFEZHrSAd4BQVVfeXFMUEJzbHUyRE50Vm54d2Y1QzRGVDQxZTlFd3k1RHJRUkctU0JwSzVYZDhBS0ktb1FSYk8tTVN3dGpZaU1LbjRpelhfZHZYd25LczEwOV9NNHF2dnhhQmZvY0M3dGtvYno5OVJTaktQcDJLQTRuMDNSaHQyTlhPWm1tT1R4Rm9MamJzZkwyY3RxMHc3MVlKVFR2WGZ0TldsT1h1Tlhya0w1N1gwMGQxY1BkNi1mNVU0NHRUN1huZmdVaGg1Szl5NVh2aUV5MExXdUYyWFRYSWl6TVZLd1JvYW5B?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aaditya Thackeray Seeks Pause on Amazon Thane Data Centre Pending Expert Review",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnB4WjhoVDdEWXlBczREZDRibWZhQ0Z1dUVfQU5vNGltUi1lUXNQd1NsRHFrTWZJdGZGU1FpRTRReDdxdVRWUmVHdjdoRTZSb3VkLTZjUXVFTk1aSWg5ZkRTWFhPT2ZROWJQVmRqdEtqTU5lckdaOTRwdGw2TXIta08xMUE3UQ?oc=5",
+   "published_utc": "2026-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar signs INR 30,000 crore MoU for 500 MW green data centre project in Maharashtra",
+   "source_name": "Prop News Time",
+   "source_domain": "https://propnewstime.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSzByZTNLTlhhUmZBTDZiYmFuNmp2dENOVzF5YXhadzlORG9Ob0N2TVFZYzNzcXM3dndUcG9WN2ZPQlNMbkxnaTczN2JRWk1kUGc4NjhXSTJ0a09IVG1oWVRJUVU4cjI1bjdWSzRsTVhqbDlnLVdzRDhldUYxRGlBRmVoWnprRHk5WDZpLVp1UkZnSHNlNEtjZWdNWnEteFlTZk5Bc1dhbG1oYjN2Zzcyb1loejNFYjFTN2tUajJRZmxra20wYVhaWmJkcTNCVllwVHFmZw?oc=5",
+   "published_utc": "2026-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew signs MoU with Maharashtra for INR 70,000 crore green data centre park in MMR",
+   "source_name": "Prop News Time",
+   "source_domain": "https://propnewstime.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXp1MFBIaC1PQmsyS3gwWFMzck1LM0VWWGpjZ3hlczNEeVVVTWNSR1NadDIzTmgwLVdmSXVyUmtYOFNRVkJ6QTU1VlpXeTBzT1RpUHJHM1BhZjlsd3RmNEVIajBGUVJESjkwRld6VFVCa2QwaWJQYmt6TEV0MkhiOGVESHc0NzVVTVNJTEZXTmZWTlFheUo4ME54MHpQVlZQYTJ5YW1WTE04N0JFQXJYQnhNUEdkeWpYVFgtT0NFUjByYU04d1M0elk3SWt1R2tR?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar to develop hyperscale data centre in Maharashtra",
+   "source_name": "BigInfo.in",
+   "source_domain": "https://biginfo.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0hFS3ZhQklaaWQwZmRITTRQMG5IYkp5VHBkZDZnSlBhZFF3ckZESkFlc1JKZFpIQWlWUUc4MXRxVlRBdkRTREZFc2FVbFpsNXliMnNiUi1KYUE2VU5nNk5lVGplQzlwRWJULXN4WkN0LTc4dEZiTWthTjNMcE5ieGdCdkl0OXM?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew, Maharashtra Govt Partner to Develop 750 MW Green Data Centre Park With Rs 70,000-Crore Investment",
+   "source_name": "KNN India",
+   "source_domain": "https://knnindia.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc3NSX2d5OVVtRjUtbzhUUllSeDljVTJkY1AxNzByd0JySldWN3hncjlULVlrZ3VqaWNlZl95eTN0anYyT1dnUnBaRlJyTUhQTE1QcE1HV3czYkJOLWl0Wm9ZVkVUSHlKakgyaDkweWRVSmRwa3lBZ2w0Qm03aU1WeTZYRGFnNlF1ZndqODVhelFRdWRLSmlTakZTWmMxN3N5Tk5pa1JzcFJVLXpFN3F3TjFHVDRJVlhrbk5kVTYxZndtdlNBYWh0V1JCbmlzdnlOZ3J6OVdiWUswYnpvemVfYThibHN5UjY2WFFrNTM5LVI4QQ?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar Signs Rs. 300 bn MoU for 500 MW Green Data Centre in Maharashtra",
+   "source_name": "Construction World India",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVHBrMFY3a3I5cF9ETksxZUZSSVdfMGpzel95aVNlamdvdFoyWDJaNXRXLVdfX29XSVBLUXU2RVpDVjM2VXhKS3R1NU5IMDFBSEhfRXNHZGZGcU1OQ05jLUlhRWRtTktPWjNkakNjLWV4b2gzZUtjZ0JWVXI1M1N4YUJqdlBaUzRVUERDXzRTbzZCY1R2N2FyaWNvTEhIenA3TV9GUVM1emFPX1lvd2VuX3QwV0pqd2lpVHdTZWswaERlSUw1VkVZeUJkZDgwRDROT3I1UEZHa3ZpckFU?oc=5",
+   "published_utc": "2026-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew signs Rs 700 billion MoU with Maharashtra government to develop green integrated data centre park in MMR",
+   "source_name": "Indian Infrastructure Magazine",
+   "source_domain": "https://indianinfrastructure.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORlp6YUpMMUJ5azBVMFFaS2poWWdreWVfZ3E5SEltOFNhSFM5QXRjNXMyaEtYZHhCYUJQMk9DS0FDMXl6TWpYc2xMX1ViS1E0VmgzNUJjOUZrdURIYmhtZmRzUVBKUVRyYWlIRWgxWm42NFBxZkl6ZjJtcVBqSW44Z2c3VUpHNWI2a2pmMUtPdDhsSW5McWdmNmFYTWFvQ2JJYUUydllnYnhXb3ZTTGJsZjFkZDd2SmJ2aXRvR1JnNnhMSURhR2tJWEttUGMtWEFfbFV0RTB6LXlKdFJzcFhjbUs5MWxvSDRBMW93?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trentar Plans Rs 30,000 Cr, 500 MW Green Data Centre Park In Maharashtra",
+   "source_name": "BW Businessworld",
+   "source_domain": "https://www.businessworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeWtxSFRTVmZYcE5ZMlJVSmppNUdGV0tQU2NJNFViQU1LMFpRVTY1cE8xVjV3bHRvYzVKT2ZpWTRmZ2xOTzBUQ3hBYlBqV3VWQVdGVTBxUVM3RVRBTWpQSXBIdWpBczNWcHhNc3FEOGpNQkRtTjZncUt3RUxocUJ3OXprMDhsWFFCdTgzVURpS1piUDFkN1otVVVoREM5M2JkVE0zQlZMYmhQVGo5eUhqNWJwSU9FQQ?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew Arm Plans Rs 70,000 Crore Green Data Centre Park In Maharashtra",
+   "source_name": "BW Businessworld",
+   "source_domain": "https://www.businessworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORU50UWdOUGJCODVGLV9RdVUxTFdnUGEyRWU5R21HUUVXUkZhbmxPOU1VM3M5OC15YjAwX1VUTEpzUUFHRW5JWHB1dGpxTW5xUkx6TGFLUnVrR08yT2dUOXFYTXhHdHltUUVpNlEzZy1OS3pnRUc0Rkd3Q2Y3ZmtnWFFscGdnZjA2b2wtZF96NlhrSUtxZkZSeHJ5QUFJZGFuQmNvdjN2YnNHaGlJcUltU2ZB?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Balkum Data Centre Raises Thane Water Security Questions",
+   "source_name": "Urban Acres",
+   "source_domain": "https://urbanacres.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUNvTW5rQkdQdnZZU0JNOG42VmVlN1ZZQXZwdUdERnZicXJ5b05VMHp5Yy1ZU3NJQWlXNy0zOGh6Si1CWEtjWGNSdmpwQ1FaRGRWSXhVbEprMGNUN2sxUTVJSVZXRkVOX2ZFOWZReHJFeGdOU2lEd3Zidk5NQmluNS1pN3FnUWUzWlE?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Power, land, faster clearances: How Indian states are battling for data center investments",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc1piUXVhZnowc2xCTWd2XzdnUTVPdXJCYkVzVkc1cHRZajduTUIwdENHYzR5TGhPVExqV1FTX3E0bWh0OEVITWZaczUxTXRPb1FNOVZPb1pUekt2eVdnbVE4U0pLU2RyeHJqRlBrR0w2RXFLTDQxQzRoZ25XVkRQVHRMUTlhYnNQS0J5dHdndl9qQjNNYWltYkpZcmUxb01vV3JRMGVlN0taVVF1NkNVeDk0a2JKRlJheGtjaHQxcUhBa1IybWlzM1VLTmJNNzJzdHk4SFFXRkM1Tm_SAeIBQVVfeXFMUExYQjBBZXNqRG9TMHFHSDFoU1ZBVmRseHVfTk9JZzlZU2dGTFNYbE9RWS0zWlVSWkdJdmJMaEJ5SmdnRm9ZQzQyWXVBT0Njc3NZMjZxVGlWbUdCMnNFaXAyUHRuMURpbkpYOUx3Qnhjb2ZRTWtHZXJDb1RLRFRicU9ucU41aU0zYlNWWkdOcUNfQlFpS3VTQUdDTGQxLW9PV3hyOHlMZDU3dXVFV3YwV3Jxbm53SmJDRHJoM0U0VFZmRG5HZ3AySFplMzRUc2Q1MHpyT1F0NVZPN3pxbUV5UlJGQQ?oc=5",
+   "published_utc": "2026-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Leads India’s Data Centre Policy Rankings, Maharashtra And UP Among Top States In S&P Global",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1lNdUh2V0I2bTNWVWxncE1hUXUwM0xXYWc1MmhpRFlvZ0VtUUh5Ui1jMS1HOG84bldXRjI2bVlIRVk5RC1JTGRHdFdSOGFEcnpQcGU3THJodEtPd2didms4WnlfVnhUcFMtMFJHWXQ2U1V2Y0dyeFJtSjk5VFpTS2hhNjdoSnV4aDUzUXQybFIyNlZ5R2xsaWJoc2dYQmo2bUtwWmd4aW5YNV9MQVVsZm85dUpPUUlRQVlObXllNHllb1RUcE0xYjBaOTZHejd2QzYwdVlpc095SXpxaWg2eNIB5gFBVV95cUxPVFAydzUtSGNxNWRZRGRSanQtbUExN2VybWxzMmFjTkhzZ1ZnQUhfRjBfRTU3WkxtRWpMVExBUy00ZVVXRnJ6eU9lTWM0MlR3U1VQMXVHUFE2d0FmTWk1VmpTMGZLOXdrVXZYY3ppWS1XNGU5eFdSME9ZZU9hc1dKeWpyQ25YLUNnWkZDeVR6eWdRNzBYTUtNUmVHQVBNNmxUYW1oTHFhZEIwZFE4NDdiQTJjQUZOQVlua2NodldhUkJLTXBCUmtwcnZBUUZuSHdFOHVzT0dENkRJcERZTHhEVkppVjhLUQ?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "Odisha initiates unique ‘Work Passbook’ to document details of works",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGpRS2x3bWVyLS12OVI4aGlwQ3VQNndoODJNanpiQUU5c3VvQ0Y0LUItNnlKenRvUlhTc3ZnaG1oZnRqOWsxQ0w1YWxJb19NZy1fOXE0Q0pSYlBXZ1VaSTZsTXA4a0c4OUprYmdJTml4SGlLTTQzUVNRZ3l2RjJfQXhHendxQUo5UmxIX0ZhanJsampTQXFyTTlhdGxMdmxONFNwMkd3LVowa09YOUVkSVdhVUw5YnBidTkxc2RoeXBGejl6UUNiMTRkdG7SAdMBQVVfeXFMTWpibjdDX2xnZFVlUjhRZXhMaVcydmRsSGZZbC1YVnNqdFNQSjJCd3VTWS1sWUJMdlFKanFBaVpkWk1zb3V5QnhIOVZzREJCdkhlOVdXR0hMak05dDdkVkVvbEU5N1o1SUtBVjBPczhNa1d5SmFVMlBoZS1RVDFFaTBVNFdOajNkRTRGaEV6d2tYTWxfZFoteWxYc0lJOFdPcnJqeHl5M2VxZmszZzRGUDlqaUlwbk9WRHZ3NmdRVGZIYlJNWmhfTlNJRVNQVkdENkZWRQ?oc=5",
+   "published_utc": "2025-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Forest Fires In Odisha: To Avoid 2024 Rerun, AI Cameras Now Keeping An Eye On Fire Points",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVWpSbnU2aC13NVN2QWU5ckdqMUhXekIxajFDeE9xbktKR1MzMzZ6TGtObUx4OXlKSjBVMVRMS3VPWU9PVWVkOGROeVBpZ1JvRWliaHBqdlNwdGNwWjBCaTNOMHFLTW9CdWNNcFBfS0NBTU9mRWprUGhmSnVKWlYtUVlQcmFxNk1EX1ZIWnl3MVR0SHl2WUhHeC11Y1BVMklOR1dDck1PSWE2RU94ZjVoaFZDeDhFVHNQVU1NS3Nrd1gyaXBwb2YxSU9RUjg2WXA0ZTNIQ9IB2gFBVV95cUxQbDFnZWNTUUZyZjVQUnVXSU9hdl9uUko0ZUZ0YThTSTRFVkM2UkhFQ2d2TWkzVHRZeGg0M2kyRVNXYVpSNmtxR1BRQXhGX1VULXdEdGpFYVVNVDlxaGtIcmU4cG53dnhDeHZjaGo0OVFNd3F0Vi1SRElMbk9HZXFDaWVHTGI1UVlvQ1FRTF9DcUpGWkZsX2tGX2dpa2JEOFJCalBtbG9XOG9laVJSODc5N1owZ3pnb3N5WnFjUXM3OVZRR2pvSk1raXRYQ3lvMkE5ejlFdFhlZTRBUQ?oc=5",
+   "published_utc": "2025-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM dicusses railway infra develoment with Ashwini Vaishnaw",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMWoza3RHYlhOb3c1aVVhajJTTWp2SmVpa2U0T3M0ZWxNWkpZc1NWbDlORTdpNDl2b2ZOZHpfVlFnZklrQzJjYWRNakZjaDlvVEFnWk9vcnc4YWFnc2dJTkJMZUlySDRIS2hyclVMa0I4aHJBTlgyc215QkJtQmgzTE13Z3A3R0NrMTlrVTRfaEFFellJdkR2RmItXy1ldFNyZG5NZlM2THNJMEliSTFGTzlreVV5bTA1NUpkMEJDOWhPc1Z5TTBDeXktc9IB0AFBVV95cUxOLWZNSXFnREZraC1IQnpKTl9oVXF1Yk94SkhvYjBsRmZoVkNZVHFOX1lnV3R4Z0NnNTc3M0NOMGhJdVQ5LTFmVi0xelZaYmdnUVBCWmRMTHM4TkM4ZTRRdW1LWGJseHRMVlhYUlQwblpTYjN0WVplakZ4eGdQVTBNbm1jeU5ydk9uRDFZWk05MkVxQTV6RkhxdGVLZTZ3S3A2NFJxd0hoQk1ndUxVTzZNdXRyVDZrcElMaWg0QWEwb1FQRXpIbWEyVlBVeHQ5aE1s?oc=5",
+   "published_utc": "2025-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Strict Action Will Be Taken\": Odisha Chief Minister On KIIT Student Death",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3drQjNMekZnQU5fYnEyOEJxeHdVS3VfSEVFakFSYWo4SzJUbHo4bmlaemJBTzN3cVFWUm1KMWF2UDZVNTNKWXVIYllGbFh0R1dYcFhsVklQeHpJQ01aYjktMGtBbnNPWEd4NzY0QUdPZ1NKNlFQQlEwX3g2bUlGUHpreXJyRHhTcDVCR1Y1UlhpU2tDUEItUWs2T29YdFl1WHMxLWd1RlRUSzNaODZEcTlFYlp5WXhDU1RJU2FLc0Z1YjRUaDdOWjEtN1BTV25lbkluNHpvVjJReF95NDU00gHnAUFVX3lxTFBWSzBOZm9ucUpiLTN5dmN0RXJxNW1DeTYtQU92XzczYlR0bkFvTGtXNEZ0OTVYaHRNc2R0c2s5UDZ3Y2d4M2EtdGRoMHBfYTFLSTYxb3hLNndXYnVzMGtOdWFKMkVwdGRzYm9EelZ6RDdtM1FnSHdJQWVRZjFQWXlFSjhtRU9GS1Z6RGZhZlV5SUFCZXdMNllBWXcteXIwWlhWVE5TZ3QzSDU2c0J1RDctOV9mSUZHOEVsSURTQWpIdmRvUV9JM09YQTRNM25Za2RfUWpBa20zODR1ZmtzV2FTeWtUUjJTVQ?oc=5",
+   "published_utc": "2025-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ODM schools in Odisha launch Cyber Square Coding & AI Program",
+   "source_name": "Education21",
+   "source_domain": "https://education21.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXRrdmtJUXVGMzZrTUEwV0Z3UmJMY1NTMm5ZQ1E4Q1NESXRpcVMwYXp6TFExVmFLSFVJZ2dHenhwU1A4UEZMWmdQTXdMZFJnMUh2NUVmRjI0cWctNVJHZUo1ZFNtUzNJSVRiMGp6akxQS190UmV5NmFYZ21qejhxcWhqNUh5d1Y1aTNR?oc=5",
+   "published_utc": "2025-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha BSE Gears Up For Matric Exams, CCTVs And AI Cameras Installed At Centres",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcC1GOC1sLTBLT1pVNTJETFhtVW95aTMzaFdTck1Yc0lMcmZWM3M3cVBUNmI1dDVHYXFQdEtoNzFVTVgwRDVCSnFUcGIzSFZrTnRpRmdXbmFQQTQ1TTZWbDdEN0Jkd2RzSFR1Wi0zSXFEOVJqMXR3aE0yWi1iYkdFMXRQR0hEMElxZlVUeE5QeE5DUW1ESUxPVVNhSE5RZDRrNEVXQVVja01lUUF6V0NLLWp6dXJKNVlJYTJQVjJRbHZSdDV5dDFhatIBzgFBVV95cUxNSnVZVTVHRUVFYW9wMnYxSGh5amtxbDVORVJVbG9pMlZ5WkxzM0otYk55WmEtQjNhUkV2b0xHelh5bEtReTdxMGh4VkhJOXYtaEl0NXBNd1RoSkpjcW1wSmV4a05CclBnazZOUC1sVEZxU0lNQ1BDMEJ4QUVyblhKVFVNZkNVaUd3WEVETlczOXlUazVSOS1YOFlwY2JvVTV6VXlVandqNU95dHVUZFZlU1NTOUhaRnZVSVNpQkRVRWI4N0E0QVByR0l6Rk1kdw?oc=5",
+   "published_utc": "2025-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt summons 4 more KIIT officials in Nepalese student's suicide case",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZEFuWkYtQ3NEN2t1RHhVRlZ0MFA1NjBCdHhhSDlGbVdZSmlzRmFrbUVuU1BINzRNclduUjlOc0JvR3A0UU5EOFBQYTlqWnMzZ25DTm5ha0g1bWFSRzREanI2UEZ5d041LTI4aWZzV052UE8xOFVsTHlBdzl4WDVYcmVoQk1ualZyRHR2RWlnNjlvU0taWFJHYkRzeFBpZlNDRW8xREJiRHhlVjVtWXZERXRzRjZobDNYbnlMVWc2WktPY3Jzc2tEY3U1blpGOXYwVGxSeTlydkNHMWVpQ1Joa0dQOHFOUFNtTEHSAe8BQVVfeXFMTkd2aGVpOHhTZGptVnpvN2VBNGJDWWp1VWxnU1ZpczVmU1l6U2lTLVh4V3UyV1pTSXNiMzlHeDFOYzBxT0xURmhtcEdwZ1BBVEtsVzNpNkYweDVoZHNHcWxSUmNpTVVUVDJKdnoxaVNEbDZ4VmJSREVlWTVLLTdYMjBXSG1KZ1ctT0VvS3pBejRNbjFDbGppSUxNT3B6VU1wd3lHRFAyVFl6NzV4VVUzbXQ1WEV4TWhVU0lxWnh6TlRJOTlzQXlLVDR6SC1Wdk5CaDJZRUFGZi1MbG1hbXpkRnM4MS01WlRlV0tlU2xMamM?oc=5",
+   "published_utc": "2025-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Chief Minister Assures Justice, Urges Nepali KIIT Students To Return",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONkppTVg1RmNEQ2dCWjZyR2pvRk52MFlTWGtWVUtpMUtMaEFRaWxoNy1ENE44cHo3Nmg3dHJ3TDZBRjJrSjFldmYzZC0zUHNKc2FvQ3hBc3FXalhyWkdOZTFjU3VGMmdaUnJyUVBPVi1sWFl6VWtlV1R4Y3dhQXlReGpLNmVmdEtHaFJ2Sm9jVGVPcy1SNUQxMzZEQ3FIZGdtUUZjN0VPOGFYMElCTnNrb2k5OHLSAbwBQVVfeXFMT1hQckxLUVFZcmZHRkNPSnFma2ZCZERsOFA0dF9zcGRSMnlodjlsOV9ZTERqRTV0Wm5CRllZYVBRTElOVm9Qa29UNUhITzAzV01ZUFY5UHJYR21RMVpwRTVYZW1KYnlSTmFYRUhXelZMT1dGQzlxOUtLcjM4amd4U1FpZkxkZWNSU3FxQ181Yk95aVEtNFdxOHZZQzZkQVhRZ3R6c0Q1Q05UeVFjLUR3NDhrd29YbXJWbEpfU2I?oc=5",
+   "published_utc": "2025-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM presents Rs 2.90 lakh cr budget; special focus on agriculture, infra development",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY3pUbDhpanZXSHg5bDEtNER2dV9MZmRDM215NjNhQnVpaVJGaWpuSnR6Z3NzWVBWMzVrcTI1Q2FndTlCMUxsZ3pMRnVRNzM5QU5tOVBja2NPekpxSjY1SVlnbDN5NTZJelVVd1k4TVUxbFhNRUFlUDMtQk1MRG5SZGpUbHg1SUNGMWZFV0Rna05MVXhjQi1ibUU2dWxUZVZPV1hoV0U0bnBzcW5wWnczT185cmpFMVFKOXFYcV9fQTZLS0F6a1RQaGpTcWdMMndtSV9WRnZXSUZuTF9mTHhJZk9CamxKaVFPSkRWVHBad1lTVFpvR3lPOW0zRdIB_wFBVV95cUxOb2E1Um93aUdBaFBLSFVmYTRIVmNTSzk1UUxETUtXR25IZ2E5S1RCWEpldTlUemQ4akduampMWGNHR0x4Y0cyaDVGUU5nTDZOTF8xNDdMTUlNTlp6dWhGUXNUckdEekJmVkZFQ3lJYkVPODVtaGlEeWwxQUxnNFF4OTF0dEtIRTV2Q09feXFVWGJQWFRQMlNNOWN2ZHNqWVc2b1M4T2NEU0k5RnRVVDY2OFhCenFMXzI2UGdQMkVEcklLUnlCNUhsQ3lPVXY2aDdfSnE1d1RZMW9BaWVQUEtFOHVxSWlZOElUN19vWnJqQ0U2UjNmQ08tM18yYUtnZ0U?oc=5",
+   "published_utc": "2025-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

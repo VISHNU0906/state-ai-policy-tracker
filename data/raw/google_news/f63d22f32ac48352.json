@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Maharashtra govt to create AI Innovation Regions across the state",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUS1zWWdhX0hnNGNQbVd0M09JbVpsMUVMNHluNndHaVZvSjcycXJRUnFseXdGSmxHbE9XdjI4UVB0dG9VdUVXSUZpV0NmNEQtT3JSUTdyc0JoM3ZJaGZib2Mwbkdma2hQQUliYjVRQmtmVkQxaFlfdHprOHNkTmVGV2VidVhGeXFaRVJOVUxsem1qdWpoZEF4YzB0SldIUm1PcWtPcG4tLXZtaGI1UGc?oc=5",
+   "published_utc": "2026-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shri Saurabh Vijay assumes charge as Chief Executive Officer of Unique Identification Authority of India",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KVGNoQVJnOEZEX3Q5aWFwTTlmdXhCRU92cFJOUVhKdHdEUkNUUlB5c1oyZTRmNFBSU1JkcWlTaTBBUTNlQ3RWTm9lQVhyREcyRjdteHFhYzhEOVduVnQxVXR0dXgxT1NU?oc=5",
+   "published_utc": "2026-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Devendra Fadnavis says, 'Maharashtra to develop AI-based disaster management system'",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVllFWXdiV2ZXazIzUE1kWlZSOVJ5MFlTMnhtemEzUHJxVnk2Zlk2emJKVzRVSEpYWkNrY2taQVU3X0xDdl92TTZKdGJNc0xnYVNmQ0pQZGZVNFFoUkhtZVpNaERvdkJybXhqeF9sNXFkbXJGaHptN0lGSHpiUEZMMzREUHc0emxIM1hTWmx0clZaTHd4UGtCeENsd0VQelRYTDN5WXVoR19udmE3VG5fVVBHRTRvY2dMRHc3eXhOdnAwN1NUNm1IajBpbG9EUHZ3ZjdTRWYtT2luM2Vf?oc=5",
+   "published_utc": "2026-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Approves Rs 89,731 Crore Mega Projects in High-Tech Sectors",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmkzX0tvT1NoZ1Q2c2VlT2ZweVVCTjU0bnFlTlVaMThwOG5YQWc0STJsMThrV2doUGRjWFJXeWg2T3I0YzFTUHV6aGFZLW02VWdvVjdpVm5OWEVkNy1fY2JxUlE5ZndZVFVNbjk2ak1LaW1FTjhHeXJSOVZKTU45VXVIRW1XVGx3TGNSUjhzd0VFNWU5WktBZW1mZVk4TmNKTUljOGQ2NFZxNDVxMTVOeEFrQVRwNVUySG9uNEtHRzV1TlQ5cUV30gHMAUFVX3lxTE9ZRHN6eC1rdUVvZk9xMy1zTWFoc2FaRTNpbjhRT1NwQXluRDVxU0FCYkw2OHB4RVNXa0VkbVdsMWlnam1EMGJKLUZaSjItQkZWczVNeXdjQm05Y2J5aWZUejFzLUNjM0ZyeGhjQ0NrWkozUzlOSkJBSDBnaVlaenAwVlFtYkZCdFBYelRjcl9uOGIxVU1CRzY0dDlZeGhjN0o2YkgwZk1wT1VPOEs0N0pudzJJTlA5RG1DZEpvWTdLc3FtZTB5TUNSTFY5OQ?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Paneer or substitute?: Maharashtra govt mandates disclosure by restaurants",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmtJNG84V1Zpc1FBbnR2bkdWUmZQQ2hfdnZFYzh0bDc3V2xUNm5BbDlZQ2pCRGdjYnZ2ZFl4aWFLZ1o5UU9TczZ1SXR5emZFcGk3aGh6V1NiQlRpbU9JLWJUVXBCWUdjTEstMVd5QnZhcHdFSGxLeTZFdl9Wc1dYWW01dnBjVnFMRTU4QlpGa1lsUmNkRk5uNVltYjNBRXk1ak9Rb016RERkRkZVVl9hTjVPbng4Vk8tLXZFeUVjdGx4Nk43eTR0WXFISWg0TzRVSFQw0gHYAUFVX3lxTFAyTGdmcERMVUtnY2FCazhfOFJZSm1ZNE5KUjlEWnlNdEJYZEN6NVgwM3lHc24tMV9xMVpWT04zV08yVDFPVEtMLVB0VFdNc19CS3JTUFBjVUwtMzg3d2VaVzdhUjNoZWlDaHNkb3dTTl85RkhWRVM2X2JZLWs4WVlZT1d3OTBnbnNHeVUzQjR4VHNFRmREWEYtZWZ3ZXF3eWV4NmFyNWl5M0FNZEpkek82T1dJQjFLTjFENl93eWh3bUlMeE9iWS1kamw2ZTFfQ0NUcVEtZ2xDZQ?oc=5",
+   "published_utc": "2026-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra minister directs mandatory service roads for farmers affected by infra projects",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaGY2aTA2ZkNvdWVzaFNGeHBaeGJLZzdfVU9nVG5Nb280Z0U5dGswQ1J6SjF4NHR3eWQ0alpJMUNyaFBRWjlmamMzR2xsWEw4QlRWc3ZZaXRuUjh6Mk0ySXFJeV9hZFR4MDA3bzc1dWpqeDJpVk5HTTZLOV9vRC1ieE9xai0xdEszRGdFb0xSdTBYaERXMUdpZHRlNkJjWXVUMTdjZkU5UzlfY1BkbEdiajZPWjZTQ19nd0dUaFJ4TnhnRXpJTXE5aHJHYTR3eGFGQ08zUS1jTTlISzlnUlpXZWdxTEFNR2hHc0ZHdXE3YzhzeG5IQ24w0gH7AUFVX3lxTE1zdkd3clBsbTNrekJvcGxhSlBtZnJVYkp3Rk5yRm8yS0VQVW9uTGp5cGFsSEM4LXVOUlAxeldBN1FDSXowNHMtYWJzS2trTzNSSFJiN2t5aWJwdkNIZDIwWFBtZklzX1ZxYzBUZnNvUlZadXhhakgxODdNXzZTS0tVOXdCdU5QVjE1ZElSX0MtLXcyOUNQLWVxZWV4d25OaXhlaFZYTzUtaThndVZRcGtlaGhqTU1IczE3SDV4Z0JvUEgzY3RKMG04cVBPX2dxRmZ2WkYxRzRCUTRpbGF2Y19GQmd5NXVfU0lkbVVjandQLW0zYmI2QVZESVlr?oc=5",
+   "published_utc": "2026-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Revised NPS optional for Maharashtra govt employees: From 50% salary to withdrawal rules, this is what it covers",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ1VzYnI5bkVFWWtOZEVPVE9Ha0ZDVnRuaGxyRThxZW1lWC1aTHowRDJCcXNza0E0TjA2dV9MZlJUbEtOUUp4U0VVNXVkYjlIQk8zNVpjUldUNkhEQ2lONkt5RHVQR0FuclByRUpyUmQzVU5BbENYeXV1bVdIRWpEV1FnUmYzbzNXTXF0V1YwVEJ2eU9BblpCeHN1dHYwb0poa3N4eFJHaGEzNXN6bnZraUY4Z0VBUHV5clhjVktZWGx3OUZlWW13a2lrbkdLWXFzUkR0SXV6Y2VQeEQwYWQ1ZzhmeTdWT1RCUUxFQ0RqdEZiU2VyNW0xdUFSM2hlNkZsXzFZTVJaajLSAY4CQVVfeXFMTmdQZ3ZXMF95NG1VOXFYdEQwWHRiN29wYXZWMVBvVHZqNFh1YmdKcFgtYTNaWW8zdmZNem8xWmNQSEZzYjBKR3JjV0Zmd0pGQXBYQjhPcmdSa1JjVE1lTGs4WktrY3ROd3phSHdJWVBpTU92WVhrQzR5cTljOGpvcHF3c05ZQTA0a0hBaURxVEUzRGlQdkNhNVNhYkpQSzlXcjN4NENabUdVUVFVVlJ4RER3TTZqSG9IZFotTGVhTjYtWWJkTHY2Tmkwa3JfMGhZbGstSC1ra09abnA4SjFWdk8zTjRobWZCMXpBX2lVQmNoaVZMTDhVLVBneHp0YW1IdzdSRGRoMHMyRzU3UkJB?oc=5",
+   "published_utc": "2026-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Defence Minister Rajnath Singh inaugurates artillery shell manufacturing plant in Maharashtra",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHhNVmN1WVRfMFVlOXA5ZEowbEhWTlg5eU9fZ0VUUGxUTUNRRzQ3aXZra2ZTSjF3cUVMdm9vVS1SN3cxUlI1RHlnS2xlT2dZNnFiOTB2V1lGNTRsTXVfcUVMTk9aaDFtUGlWa1N1dWZ0U1RGeU1aMVBkdjVlUFhCdEdic05DcVp1MVVjT1U1c3N5c3hmV3p5ME5KTTZlRzBCc1RoOTVHa1NNZG5fc2FBUFo2VDA?oc=5",
+   "published_utc": "2026-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai-Pune Expressway ‘Missing Link’ Set for Inauguration on Maharashtra Day, To Cut Travel by 30 Minutes",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORzVFTk1WY04yTFJSclpnekNZUTFXbzZSaHUtOFAzQzEyRmZ1b2UtZ04xUjNxUndHSERQanFOSmo3NGo5TlIzdkx2YzhDYk9fU3ZGRkUtN3lWeWFsMGZ5UXZEN0JvLXo3UHhYbUdxV1B4Qk0zd2c4cERUc0FDSjd1eTdkWEJxR2RuZ091ZGktZzAxUWw0cXcyM0FfRzNHSG8xcEMyRlU4YmxpVGNsdzZiM25XQmFGMGVyTWdieFlKX2F6aERFN2ZWRVFua1pZaUhQVmFtUUxjYw?oc=5",
+   "published_utc": "2026-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Signs ₹1.14 Lakh Crore MoU For Green Data Centre And AI Hub In MMR; 8,000 Jobs Expected",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjNnMEZjcy1lMUY5aUhFSmRMdmFSZU1MdjFrUHVzUHFEVnNxaDZGelpEWi1nTUQxM20wQjN5bTFxZ2F0X21SRVBrRkZwd0tja1V0VzBUcjFMTWxhUVhaVlRWOEdlWTNyQ2hDeGFCRFl4SExWV2tNNzZVUE90dk1ydjk2blJ1dDJLTVhma1VjeUMtdnAtU29yOFVaUmJ3M1NqWWNiMEg1OUZ1UHpjOWk1NTA0VWkwazZVZk41YXoxbVptUGFDaW9IMFN6aTNzdkNuZXY2QkdB0gHbAUFVX3lxTE5TdHFGRENMZml4RXIyakJpWDFsYTU4TV9kLUpIWlB4RVd3RWljenFxSDFuZHIyclFBYW80VUNiQzBXZllyTXhWMTRLLUlGMkxlRF80dV9qdWVMSS15WDBtMmI3dzJHT0ZiQ29xMlU1QTlqTmRPM1RVSFNjeldZTXR5ZUtKbFoxWXY3VU1fTURvR0tCWkJQSjdxeFRqdTJiOWZXYmtWVC02Ui1PTTNxN0RxTnhTOEdoQTRWVWFhSHRVaDhDUmhTdUx4b0pXSk9fY3V1UjJyTUkwLVlMTQ?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

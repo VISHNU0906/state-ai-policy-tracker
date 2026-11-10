@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Karan Adani announces Rs 33,000 crore investment push in Odisha across data, power, cement sectors",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzROV0o2em5xYkhmM2RpeG1Gc2htQ3RDMmJzTkpDZmlGNUlranlMWDFlSUdZSXZQVkJNSDdMTm8zVVgwZ3RxU0NEM0w5UURPMWpLMnJRckROanJ3djV2VUpZYnY4MHIzY2xDalVRSzhWaVNaaEp4Z1VhZkJiMHlZb2pia0hlYXpBcGVQWDRZZjQwZ0cwY3VURVBNRmFqdktmOUZleWhiZ0lkTmtjZUM5dVhCVzdtcVkwUXlrVkVKWFVGb1VXSFhwQkRPNHRjbFQ3ckRTbndSN3BINXduNWtXcW1XRlBCOWRNR0HSAfcBQVVfeXFMTjhoUTdpVFJiN3F0QVNQaURBbExpZndidHBGQUk3ZFJaS1E5NlRhNWxkNDB5dFczYnd6UUFQeE5yaEh5VEhJWm5hMk9rdVFDRWxFV0FfcE14ZnZ6TlZVMlg0YUo1clo1bzF5cEhBNkdnWGV6Rk9Fb2NxMlJsRXBYc19DMUpZUXhVelBSeTZuTGRHMlEzT1M2Q0N3LWtyUjE5RjYzcHhBeFRWMVQxcUFoeFkwMkNYQlpMWXJ4MncwbGtCSmp6M3d0eTN3VkpJNS1Nb0NmbEdndzBSUEdCb0lWUFRBQlRQSWRTbklCc296akp1b2p0WXZzNA?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu Lays Foundation for $15 Billion Google AI Data Centre Near Visakhapatnam",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUVRcVoxdE9KTjFYZHM2UFUzUldUSDNjV0d1aDBzZGVhcHpQUFRaVGpJN1d4R0tuanlxZGxHY2xaOGdGRzBxYm55LVdoeWE1T2F6WGxGYURPSHhDWEprOEFMUk9mckp3ZlZJUWhoekQ1d25oQ0ppc0UyTnVhVGk0VjhqVTFuN3BSbU83STZtREJzUmJxWEppdWpfcncyV0VBQldKZk9TeW90RXJMcUZhVW1xTFlNZUdUbjhjaWNLOGYyZXpfVUE?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group To Invest Rs 33,081 Crore Across Data Centre, Power Plant, Cement Unit In Odisha",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUVPNWdjWGlPUjNXOVQxZ3VuZWptQmNEVmU1NS1SZi1tbkVOQ0NUUTRiZ2tjMFUzanp3Y1lyd04yR3RKbGVJbmlpNVM5NDM3aGtPYWRVc0tYMjA4Z0J3YXVZSnNadUExZDdDdXJ5TzJ5d1ExQ2x0NDJEZEdVOTlDMTlCYlBiZWdsbHhISDgzWkNoTTRPZGlUM25nRHpoaGFVVjhQY2VZd0xub3BkNlFkbjFqaTJndW5lVGMxcndPTdIBzwFBVV95cUxQVm45dDJJN0VRREZRZ1FwYlFuRnlJVVlUZlZiNFZud3E4SGlSMVpRMWU2SEl3VkVnajZOTk0xNERPMG5VbkZfN0ZfeTNHTWtjdlFiX0N6ZDk2OG0yT1FlNXBJb29mcGRETENlQk10XzVscmdUWUxYejVWNC01cUVyR1RaZlRmQWVSSjhZQ0MzQ0RyRV94YVJWYXlUSGgtQ3o0SFBSQXdGdTVoSFRxcFp1Q2gwX1ZONjBYa3ZnNFI2UHBoLTJfaHpVUUo3bGI3ZTg?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to launch $15 billion 1 GW Vizag data centre hub, eyes 2028 commissioning",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3lKUEpDVXhIaFRxR3NKTU8wN1R4TlRfb01nQ3R1OS11VE0tcTNTSDBSVFduTGJoSVlpaVZSaVJpLV9tU2FDVG9Pay1XeG04MnBXMGQ1em9uRDY2OTJtV3ZkMlJxVGYweWVLR3lMUkFIa0d0UWFpWktFVjYySS0wbVdicWVjNjJQVVJuY1Rvc2gzTkdBVEV3VE41aTFhWWVfUUpveEg0Y2M2RGZ3MlpWOG5PNE43Q2xsZVE?oc=5",
+   "published_utc": "2026-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group plans to invest over ₹33,000 crore for 3 projects in Odisha",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYkNod1MtVjBBUGE5UVUwT3ZoYWo4SHpIVktjVXRyWjB2V0dnakRGWjBOTXlnUzdQS3RPb1k3SWcyQzVtdUFJQXFTckVaOHBYLUtyUEswbWZ5Y0dUMUdrc3JacWVJZ0ljbzNBRy1qYUxSMi1OS1VYM1VmNklIVXFOczlwSUJnaHdKalNyNmxjdno3aFl1RjVoR2E3Y3k1NVFjY1pwUk80NF9MRkJnMWU0dHZIcWVFRF9Mb3VFQXZUczJpaTdVWFoxSmFhcl8xQkc2TmfSAdgBQVVfeXFMTUJkelNrNGZrU1BJU0xSbW9oenF5cEdsNU1UbFMtOXFoMmlDTlh4WnFwQVZ6MUdPV1pvVy14WkV5cGV6UlROS04xWEZjSVV2OTVuYmIxbzlPZU9pWXdSbTJYa0lUYThvN0c4TzNFWTV2cXRxcjY2ekx6UlZXYmdxX0I2YS1GVjB6NWYxS0dnV2VROGkyZVg4bkJJQWliNmtNU25iNDgzWkNOSzBYYzRLQ2pHTFJBTkMwb3pGMzU2bjNmXzV5eWhBY0E2VUFJWGZrUFEwMm9vY0RF?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group Commits Rs 330.81 bn to Odisha",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU9fTkxrZmptQUpkeFN3MFZwQjRmSFhaTkN4LU1QODhXM3I3TDZsZ2RxbkpfNXpQem9PRnd2bGFXakhEeGsxbjhsU25HMWJYVEZjTHpMNTk1Y2NQcEZnSm9Mbkk2anlIaGw2Ri1vS2VYUHYtbDctX3ZoMzNoRko3MHNTa2xWdUFYMDlBNjVhTVl1UGZGNXgxQVJ5SjZQVzlnalk5QmRNaWY3d3k5Mk5tbG11akk?oc=5",
+   "published_utc": "2026-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group to pump ₹33,081 Crore into 3 new Odisha projects to generate 9,700 jobs",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSndtOXRzSDM0WXNTRUNGWXZmWDYxbTRyMlpma0MwMEFOZXJZSFJweEdFejlaM1Fia0hjTXpTbzF5UVVyMkNwZWZnYkVnOWNEUF94bG40cFNhLVRMRzVua1JyclZMOXo4WU9hSEgwUkJ3aVNtLTR2aWhldTRHUV9GQ1NLTnpYLWxQSEpQV29ZdHhEZDVBdUE4WEhadmtxY0pDRkZoem5lR1dNVnpkUFM4OFJtZ2tvR1VBc0RTdDVBONIBxAFBVV95cUxPNnRyYkVDTmc3TEFScnVHR2ZONVlBb3NzT2NsdERoejNyM0tJY250SE1DZkg5TE84TGR1Qm5DWWgxVUdadDIySHZxcC14aWhnQWtnakhxZGF1bHpMZjlhWEw2VC1uTzVkRnoyZnB1dnRqaGZodWptQmFRRGt5QXJBVkFJNVdLNXc4aFNWS1FBX21hNUgySU44STFwMEdqTzY3YWFNM3dWNS1IS3IxT3lXb2F2YjlsRzVPazlueHYyREx5cjhn?oc=5",
+   "published_utc": "2026-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group bets big on Odisha with Rs 33,000 crore investment in 3 projects",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSVlhWkpIcWFJcV9TQmJJd3RNSzMyQVlQYXJLTDVYeE1wZ2RuVGFSOC1xMzhuUXQzTXFydmVmY3lITXJBUXRQcnRpNVgzQ3E3MTJ4SElDNnpoMHNpV1dmSHVmUGw4NW5DRFlBRTdacVM1UlNxQXlxbXJYYWZTajNhcV9CWGFFckJnbm5XY1lNSEtCQ25mOGtlN2I3Nl9TU2RKQXFObEIzMlBtZHBtd1BfM0ZKcWFuU3BvR2ZWZjlwaTgxaFYzM21pZ1FXLWZPbzjSAdwBQVVfeXFMTkJNU1ZFMmpBUGFqNTlCZFB6SW9kT3dvQnVhbWJ2ZW1uTlZNUGc5b0xsUHdWX0hxVE9WWGo5bGt6d0ZxX2k2RjJrSHdrSk5nS1hjRVkzY3hLRTZMZjBvVGZ0T2FTUmxHbkNjWDNXMHRJVXJpcG52WmIyVThzdzlQRzNja2lWQlFNdnlFbXh6QVBUWm91NEhzWkRwVWplUU5pZTlrUldlazk5NnlLX1VUd3ZReWJ0clpIZG5uWTEzUTV6VjkyelpKbnczc0ZncndFMExGbXZ3bnpNQlNhdg?oc=5",
+   "published_utc": "2026-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "School Assembly News Headlines (April 28, 2026): India-New Zealand FTA, Kanha Tiger, RBI On Monetary Policy, Deepfake Regulation, UGC ODL Admission, Delhi Metro IPL Crowd",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNWlJWVVlRTXpjeWF4dWtxU05UTXV3MWdlNDBhTjdUa3V3QWgtSTdOdmdtNkQ1WVg0UWVzU01sS0ZLX0ltbG9SM1NKT1NTajY5TVFNdk5YM3Y4SWRCbmU0UTVUeEcwdzNWYUlyYjRFLUZMUUcyVVdZeWlZdWJSSDFpVGk1M0VGUkM4UkNjSTE1eXZZa1VoNW9xbGV0Vk9MZFNEeWtHRXpLdXZRN0VQS3hQc3NXUUNPZmQxSWJ3OExWWmdRZFNGRWpmNDBDT0RnU2NTMklPbjlkUDVlRUt5ZTU1NzhXclBHbUczT29tU0lyY2JWR1l5Z0c1eU1vbDMzTUY3ZFRNRGJHUnRYVlI4YUplWHVXTktseEhaQmd4MVpQUFhfb2dsQVZTR2FPLTVVcWJvWTVNbGVRZmU5Zw?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

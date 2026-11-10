@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Government to start AI-driven maternal, child health monitoring systems in Rayagada",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXQzaW5xemZZOVFLb29QNktPRm44YWhmUUd4c3dXMll6UUZDQnRBVzJiTTVxWlNOd3VXNzFpSE5CbnZybmN6RFMxeTV0WWlkSWR0SjMySkNmaEhubWNqMzFIQjVEOVV1cGFXNEF2eTViYVVtc1YzVWVIWEJ0UzBTOU5mNWxKMjc0RkVNenNpWkdMZEQ0SFdYdXQzcW8wR000OG1WUXBSNHN6cXFHbFpQZ3ZtbEtvb0VYWi11d3lWZkRkd29YeEdJakh3dDhJQWdBQ25kZlVWQTc4ajU3anBKTHdDaw?oc=5",
+   "published_utc": "2025-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-based drought advisory tool aimed at enabling early action",
+   "source_name": "Mongabay India",
+   "source_domain": "https://india.mongabay.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0VmVzg2Rm1EZUV0bWowdkE0ZkV6MlJxYXB3YmV2Q3BuRzdzSFVGMlNHcnVZM2tBRG5LUHZlUUxJNlU1eFhBSmM1eXktd0tDVjBVLVdVZ3dhaGVyZEkwNERfUnFTa1BjMC0xX0lncjd4MWR2eTFSbFQ0LVhJT2JpQnZNRFVJcU1Db3E1NEplbE9pS3NidEx1YnZrOUlxUkR4M0NYQmNjV21EYXhTcGd6SA?oc=5",
+   "published_utc": "2025-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Bhubaneswar and Jazzee organize Odisha's First GenAI Hackathon",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pdUFuSDlweVNzSFEzVEl6RlcxRk9nb3drRGY0RTVyNFNpR0hSdFpPN1I4cHh0T0UzYk9oUWctWk90dS0tNGNCQ2VNSGdubXdOTVQtY21TTmZVQmRuMFBBaU1QWDZncFo1?oc=5",
+   "published_utc": "2025-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Poultry deaths raise avian influenza alarm in Odisha, India",
+   "source_name": "aviNews",
+   "source_domain": "https://avinews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFB4Tk9hSjBJVW5zX2gtblIweEtfTjFOSHRHLXZ0dmRuYXJpeFlsZ25jQ1FPeTBTRlJSeURmZDZ4SkY4bk1JM1UtR0VOcFB6bVRRZVNPbU44U2dkai0ySkt6elFLWlNTQWdJbm0yWnlkNmpmel9SdTEtaF9aTzhLdHVHQXhOVFZvM3c?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha’s First GenAI Hackathon Unites Student Innovators at IIT Bhubaneswar",
+   "source_name": "Pragativadi",
+   "source_domain": "https://pragativadi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWJGakVkb1I5SS1vSDdFeXZmY1VBa0FReUZUX0R1SmU2UTh2NXVOMnljakk2M21nU3ZEaDVST0VDMHRPVXdJY3Y4WXJVNHRlM1FQNHNJNXNIcGc0S2UyS3VjbEdLT1U2MmxzMTVEU25sTEFWazdtNXdPZWFnQmlhVTdPMF9xZXJlRUU1YW51aFJpZmRZWTM1aDd5LVk1R25w?oc=5",
+   "published_utc": "2025-07-07T10:18:25+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha FM college student battles for life after self-immolation over inaction on harassment complaint",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaDk2SW5OTjJ1NU9BWFBDUFdMeVptM1MzalBhTlV4VjAtU1hqQnRnOHAzaTFkTUtQcU1XOGJ6czI3ZGxmeXF3TnBVOTJvaThUUXo5c01DaWZOeUpDSkZIOEdKTnZ0R3hmWEhZcmdCNDgyaVVuU0szZXBNSWhhaHhwNDFDRFUwT1UtaDByMlZ4OWFTQ3FWWUV2RzVHX2ptLW5EejJ5aEk2M0JuaGtKOUNlT29sMk1nc3h1Qm9vQ1V2UGRrcGdlbmpTVlhhX3RsbTZtVDhRblNJTEwzazAyQmdaa0NvOW1URUl2QlZHSk5wZW5qeDjSAYACQVVfeXFMUHN3Y1pkNUJsQzhjdGVoeHk1VVNNZ2VBMHA5b1ZrOEhhcldDb2ZuazY0MV9YblZPZ1pNdVQtaG8zQ0RlMmYwOHdrSzdWbXBSMnpxWVpQcXR6dnlYZ2hrWlB0NE1xWi1MMGh4b1ZRaG9ma3ZqbVBpeXh4SmZ2YU5XTHRic3czc3pxS1RlSE1Fd20zYjBMci0tRmt0NUdyS3JwWXdNcm0xZGVkRDVmdWJwc2tUN1g0U25Pbkg1Zjd4M2NzU0FpQU5qRXdxQV90TkdFUFM2NmtzZExXVFhRQmY4WHh4bXRINVk2SnY0emhQVU9mRDJQdVotMEtDckh1YVJTNw?oc=5",
+   "published_utc": "2025-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt introduces fail system at Class 5, 8 examinations",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbzNfUVU5VkdqQTllMV9lVGdiektlMXpteklyVDZBOVZVTDRzOW1MTDJreU9VOTI1dlhLYlZ2anlGb3o2Q0FwTmF0UmpVRUxueERLUmtFQXdkeWthWTNwcW9zdFFjTmxjVnY3aWpySXVUNHRfYkJJdmxpZkhwSFB2MGozb19vczdjektGdWMyS2JraEttZ0J6X3FaU21jVFdfdk12Q0hPZDI1QlVRdDFFQ2RtX3hrRVEwZWx6VUxTY3JVaklCOGw3T3Z5Z21nekdzR2wxV2lmY19LUdIB3gFBVV95cUxON1F0Y2dxZ1V1cjN2VDhJdXBXUWZXemxCRmZUV2Z5WHZ2QkQ1dDZkc2NEbjVWcVgtQXl0cjFDZVpjOUpLTzg2SGpxSmRvZ2JmWDYySVNXVGNNZ3ROWWJmTkluOTJYaWhUX3dVU1ZwMHY2UVNEcXJudVVhenJ4ZVBxWEZsX19VY1l6dDRTRHFSbXU2ckFBN2E0Y01xbDlyb2NScFRDX1RreDRIRGt5N0hhYlBTb2RUZFlGdkN3dzBlRkpiVU5iMEtfZWRDQzZEZDcwTzZ4UDN6U1Zsbk0wYlE?oc=5",
+   "published_utc": "2025-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pass or stay back: Odisha brings back detention with a second chance rule for class 5 and 8 students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0Vmc1VuT0pRQVFnenk3djFPSmJNVmV2MjNiZFU1Tl9Ma3dTVWE5Z3BxZHBlYkRld0p1SnZoMk1PWXRNMjJJOE03Vk14blNKU0xxMEx4MnJZZTljc2ZLRTF4bjg5elY0X0RJQmhjTEhmcGpkaEZ5Zng2VXBKLXJXXzlvcllJZ183T0ZYeU9fajVhTU9ZNk9XWmhTaVd1RWk4UVF4WWFkSjh4OXhOLU5PWXBWV3pDT2hORTd3bjVPU2JQakFrSzlnd0xOWllVRFlnOTNBWDlULVJsNEoxRFJnVm9mYklYLW1VbFhMa0c5LXE2blBtM1U5eVZTLTRzZFJzSWVBRkxwRdIBjAJBVV95cUxQRDI5Q295NjU4Y011NTVEMXNjazFGdWxVMVA2ZDRDQzdsaTk0ZjAyT1BDRjJlbXc0cEM0VkZCQ0thejB0YUx0SkJBd29XN2tfTGgxT0VMcG1xazhLRXBYeHM0eE1RV3o3YjBkX2x6cGpWU1NrcFhKMGlSN0VOOGFVY3R5XzFod2hHMDI5RV81NDRaYTFMRmRja1NGZUtOMU9yOF9EcEdwSjVNNFNkM2pmWUNWOVpwbEVFY0xoQXhjZlhhS1pWMWp5U2JMMFRoUXFpb25zTmQ3NkZseG9BNWo0Mmw4TERQbHJxOGNuUlZ6WHoyaVdxdUh3aFZKRlNaUmdSYVl4Z0dyQnZyTzB3?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: 342 academics apply for 13 vice-chancellor posts",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdWY0ZHl3MHZ2eTJpc1Y3YnRkd0Q4NC0zcnZteHFYMTdORjJ6b292eW9QdzFqOXl5WFhCODB3QlM3Z0VkbUJjaGVxb0UzX0RPUHpFb0t2UXlTbjlMRGZqc2tUQ0xkbGhaakZMcmpoN2ZIYnBHaFZvajlzUXEwVW1WekJNS0lqUjBZSGF0WDJYQ1VURENiOW5hdk9qMzh0bFQtUVpqc2hLMXdXZHJlV1dYTGhQZ1V5ZlhieHRGcWZwcURCc0Q5OTdJeHVfcHk5Ymk1Q3R1NlZ4WHdPUmc2cjZaal9TWWVQamp1TDZ1bA?oc=5",
+   "published_utc": "2025-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OTV’s AI anchor LISA completes 2 years: How July 9 Was Historic for Modern Journalism in Odisha and India",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEpZVkJLd2xxX21na1JDRXJvUk1FV1pMZGV6am5RamhZVnVYRHppQll0b0VVVWxZM240Y3Y0bWZVMHJrWkFfSkcyUjNFaFNJRDdkRUo3Z2RfdkZuWFBLQ1habFhMSnBuT2s0NC1LMHoybkpSQ0tvRlV1amxCZDBWMWVhOXktTUZSSWppWjhRbE5uR1Q3U2k3VE1uSWZxYWRwYjZ0TjRoWTBNY00wWFJ0cWhZQ3owNGxmTTlsRUM4SGN5Z9IBxwFBVV95cUxQcW5mT1BMVHdGdDZUSmhQeXVuYkhPS0ROOFdEOTdIcjVvcjIyZm9YcGRTd3QzbXNVeWltZGpSNmdzQ09jMFRSN0llUkY5MHVoUVptQjRSUmJpeTVXdlN3cVhGNWFmV3Z0dGdoRV9fdHgxZ3FTX3d1NF9fNDNrSDhuZ0hhMFBQQUtNYV9wdXE4cTdfSnMwSi1BcXFtdEJ6Rm9sUW5jeDJrV3FIcUlqTi1RbHBMejYxZC0yNTcxNTJYYW41WWFDNjFF?oc=5",
+   "published_utc": "2025-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

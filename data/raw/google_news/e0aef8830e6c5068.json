@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "How UP is foraying into AI-based governance",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTZuYkVYS2R6WWQ0N2M0dTl1eHhnRzlQQmlfQml4eVA4VkgxbDRjVjEtbHpJYTJoaWcyeHBvVE96Z2FFa29pRmctMEcyMk1WRzdGN2pxbGl4ZktMc1RpZ1pRNUxWaW0xSnR5ak8yem1oTzJsZ040ZW1pOUtVQ1BHWHJRdDltRnlUV1Y3cUdMeUNKS29kLXNfLTBBYmhubHZtc3Juc0pKeGgtRUhxMDF1cXJvbWPSAboBQVVfeXFMT2N3NEN2Z0Y2QlpTVGJFNkE2REVZYmRwMmNDN1ZyVU5wV3pwczEwMTEtWjdNTzEyelkwMGxJV1dkRnpSeURnbXBwbVMybTh1X3BkeDVzcXVkeEo3MldyNjR0X3kyNmdvOXdWOUkwaFNWSlA1LUJ6WUNNbXlXcGVXSnhVY0RBTzRCcGs2WFBLZTdjMW8wQmFJaW43S3ZEZlZuZ2t3N0M3SzdXV1gxdlJ5RDRTQnUtckVBSUJ3?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ANNAM.AI-IIT Ropar and SVPUAT Meerut Launch Agritech Innovation Hub to Advance Technology-Enabled Agriculture in Uttar Pradesh",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MRmthcUJtdVpSc3lWSjJxR0RvYUVnQVZGQk5lQ3hpeGxMMFZPT1p3YTNwR1BqM2JHWVhXZjhQWm1DYVhyTTY1YlRsTnRDd3pjbG9zUzVKYURvOC1KbGhxM2JjT21WRkFa?oc=5",
+   "published_utc": "2025-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first private AI-Augmented multidisciplinary university sets up in UP’s Unnao",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR2hiTnY5bFhiVEkxZFMzMUE0TkU3T25BV1dFM2VkRGR6a2tjaFk4UGZvQkljcmYydmJ5MGZvWFg2RU5nVnVUenNyeUJ4Y1E1c1lIeEZyaUFfbnQtMmUwNkpIa243S3c4UUJQa25pV1JrRzhsT0h1LV9lRmVwQUZTMXRWbGVfY3pJREl6aWNHQW95d2h2RVRFQ2RpTDFfTXkyY1hIaEZsNVFWYXFEQnV6MzRYaG5NZ2ViRktncXlpQ3p3dkUwWUhxMFZqNzE3c245S0I00gHaAUFVX3lxTE1CUTBDYXczYXpiUUZSeWtTSExZOHBwbGJjVGdaaVFLSDN2eENuVFRoY3dIYnZXbnNDdmdPQTJlNm5DYmpad2U1c0tFb01pR1h1LVlINXlRYm05M3RnWjFpRDhabHRDOHdCNEVQNHdnbVgxaEJQOUtVMUpkamhxYmd1Y3pvMTZfVm81SFV6eDNPdngxRlM4YWN6SXBFdU1zVzh6LVhnYTlYSGxBd1h4VnpIVF95UjU0QktWTnR5RklqbE1jeWZDWGtxZ0t4SzcyazhOQ3ZxOEZ1Y0FR?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Plan to develop Lucknow as India’s 1st AI City gets ₹10,732-crore push | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTGVSd0RiNE8wQnA3UkFRanFyd1dFd2ZtcEpDb2FrUGhVcDFfVzVNSjN6N3MwQ0V6eW9HZFZDd0NBSzd0X1J4YWluS3lYNXd2R005TGo1Ym1QcHFfSlg1Z2RRTE9ydGozYWZYNFRRMjJVSllRT2taUGloVVVmLVVjR3BOWnA5NHhJdUVaUWlVUXM3T04xUndKQzROaFIzWEVRTDhrS2h5ZWZHenY2N3FHeDhraXFKTzNZcm1qTGdzNzZtZUM2QmdxeE5VelFPZzZlQUhLcTFVVk9WdzBf0gHiAUFVX3lxTFBVZFBNMzFsenBYNXZPczc4WXllOWs1dEdWU25NT29SdHdKMkRtLU1jbmlaaVNPSTJrZFc3Y3RoM2ROSzB5WXZGMzF4N0ljT3dPN1lXOFhrRnB0UVVnVzMtMFhEaE9Gc1dOcGtmVGdMSVROMWdsRmd4ZXJ0ZlpNMm01cXROVFJhZUJYR1lXWEV3a21ZSVpBN0RDWUhXSnhEcXZINnlyMmZqclc5YmcyRTBHREE0dWNSWWVfRW5tQlZjYmpFRlFjMTVfRVY4dWJlX1dRNGhBLXNzMGlKazJtU3F2UUE?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bareilly Diocesan Educational Institutions Empower Educators and Administrators with AI Skills",
+   "source_name": "Catholic Connect",
+   "source_domain": "https://catholicconnect.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVNDRzl5OGhEdDlNX1g3UXlhT09FVFloNDlscnplNG9IZjE2S2d3TzgwN3pGYzhNM3RUOFVtakQ4MDZEYWdVOUVvdHRtdlBjZmt4NUY1a3Rwb0dqQUJHWGhCTEtKbHRHWjBYdHI3bUY5cV9uUTg0bklXNFVmcVZUVHhNN21HWGNhZmRsTmUxUXhTWGtKUFlncFJhcmdPdVk1TG42bmtrNmNNcUJjY3JNQVlRQ21tT3dzNE1MbWgzLUJuTDJt?oc=5",
+   "published_utc": "2025-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "True Power's ₹100 Crore Solar Factory in Barabanki to Ignite Uttar Pradesh's Green Revolution",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQUtldzRuN0hXeHhkTzVRQVNyLWwzNFlETkh6Q29PbklPOXhpVnFnOHlVcjl6Rnh1d2hJUkQtRjdIN3FuOU1lRnJHZkExanhlTmZFNW1sd0x4Q085dmF0SVdmU0pLLWJGQ29VbWdLc3E1bkNQcWlaR0pFTWtfY3JUWHRLbm1mZy1wMF9CV3ZoOEM4WEpDTHBSQXBsdzdmOUdXN3VGcnlGZWZhSWo0WDd4Zm5xU18ydEZEUy00WkV1S0cxM010ZW4zc3pOTTBRX3hyRXV2WFRMMk9rR0xUZjd2VC1SYjVTOVFyVGdlVXdWMjVjdzRsSWfSAfsBQVVfeXFMUEtEc2NwQnMyZXg2YXpja3o2bndLNVVTRVFXclFxRG9LanNfUVZuUFJHSW91Zm9EQVdMU0V5WVlTZzRQcFNsZUJsTWZWTm9acGY2eHpTcjF3d1FNY01ybG9GSEtHb29nMWdXZnp5SUJScnk4TUtab2ZNV09QM0QzU1dCcFBhN0oxRERUbHJITE1OVGEwQTBEaUtrQTNvOVVFX2ZvRzJ2MlJKLTM4RjQydGxaREtiWC1JVXI2Wk5kR3c4bDh0X3poSmFEdGx4OWdseElhWXFHVDF1eFRrU2NjN0hPZkN6NU9xQm9QZEZHSUtiRnFRdF9CUlFTU3c?oc=5",
+   "published_utc": "2025-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's first private AI university launched in UP, 1.5 lakh to be trained monthly",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZTRqWXZiM0cwTU1RSi14cjI2SmVkY080TVNIdXp3ZGMxX0JLOFBSU2tuVGV4N1BrN2JESHVvcTZ5cG04QzZzMG1oMDhlOHJ1ZDN0MXRMeGQtTHVmaUZ2c0hySU5EclhTc2w3Rm5oTHl0NlFvTFU2ckQ1VnVDVnloU1h1NUNoTllPSTdNYzBaR25NUmQzLTI1MndvbkNteTdoYlUzZlM3cDBRWmxSSWV6d1g2Z1ZTcUE2VllWZXRQZHBRbG41eEpmVV9XV1hDakduOWZzTURnYWJ5cTEzSWpISkh1bTVaQTc0SUhtMUNJTmc5RnhzVVMtZV84U1VZbHNxVkJtclB4STdiX21PZ1RWb0l30gGXAkFVX3lxTE1zeUZiVVNxNnBvM1R2QnhyZ3pjUlVSaHMwd1ZVU2hCV3FDNTgxeFk3cHp0R3VmQ1dYb1AxdzJiczB0SWpWelFVZm9hSjlSU002RHlSYjhXaGhDcThXaVhJZk80dUV2cHA1MXFzSXBOdUNpbDhTUWlZTTdsMDZDLUJWUWdWSjBTU09LUDk1N083YlpRWVF0NTJHSUNxUFNWZ1ZxenI2dE02MGVfeHNtenpPaVFmejJiZm5GWGtGcVpfdjc3aXBMSUFRaXJJRHhGSFlXaVNkbm8zMjNlLXJWbS1PWHV4ZTk4V2ZGS1BkSjJUdVl6dDZXaVBpc1BjRWQzendTZklaOTVMV3YtU1VnamtmWlR5NE1ZZw?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet Trapit Bansal, who got record-breaking Rs 854 crore job offer from…; not from IIM, IIIT, NIT, BIT, VIT;",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQVldPTVhFdVVFNFhHY3liRlZtWmxJUHFYQk5MMjRVelk5Ql9KeEo0SnpodFlXNjNhQXVOR3V3cl9xQ0Jub3AzWEtOOUxrMTdkQTRKU0tIYnIzdWJGbzF4ODY3M2h5ZHBNQm9tYWhNREtSWjRFa1dnZ1RlMU1md0sxWXM3VTRtSVlqOC0zSTRNU0R5T05vdXpFQlpvX2lxeTRYSDVHaXRjZ0l0aXZYUm5yZ3hySUpVd3ZkMW9ad1YwaGw5UlF0SXNUVFlzX1lwVnBWbDhCU3dYUUFpLTJpOHFFcVVsYTVwWmdjT1hJdTBOc1QzOTU1OHd0ekNWSzZsenpyY0tPX21NX1g2T01pMXYxNW9lUG05NGk1Njk2WFJTYXFDV2dXZW9FSE9GQ0R5Z9IBswJBVV95cUxPVE1jWDJMV3FyRmp6TE4zWWJBcWYtempMVlZiUjVWd3NpWmNadHVOM3ZpODB2bVR5ajZ0Q05HMFpMX1hCVkxjWVZFbG0wVTlIZmJFbHExUTlUUk5jX2lMU3ZQNGVXb3ZtRFZ4VHdRenpwdUxXdVRmbUhrQkNXcEliUWpGNmVkSktmRFA2dXltR1JsbUdxcHlNbHpWMk1pcjBFaHZsT2xJZENQSzBTa19ZdkJ4NWNEazA2dW5GeXZ3WnR5ZXRadlhFRUNYb1B4S2Nyb09iZUJMeXE0LVBjdkV1ZUlZWXFUR01uOEhlZXI2RGp3NGFCRDNpRmt4X1VHX3hfTFhZZmZJb19xNzY0R3NpTGRxN1I3SWNyVk03LVo0MzEzYzBHVGJKdm1UZHpSUkJwQnZF?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta's top AI research engineer earns about Rs 3.76 crore base salary, data shows",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbkd3NzZHREo0RkVxRUx0bHR6ZThfSmgxbXMtUERsM1ROSF9wMU9jZ2tVRzVqMkdZSDhlVjRIU0FkdkhVMkpRUVEyaUhyNmNTdVRhQnFGcDVYUFZybW5WQzNXVDA5TlhuR2t3amF1MVFLejRJVWxLRXpqRWV3djRKZ3BUVEY2Qnpoc1FDRnBIcjFUZUxnZE1xWnBvSDM0RDB0TVlHM2VDMy0zNE1jY0pPYml3aG9aVzhvVkhfZWVzdnR0MVgtdThoUVhFUGZDU0prSWU3RTJpMnFsRmpXNlHSAeMBQVVfeXFMT0pqT1lDUjNGc1VwUWpYRnA3OVFTQUw0ckU1TDFEVTg4RTFCZGxGMXB0VC1XdXJXdUVSVEZveVJjX09uOUUtWXF3RHFCWmozUlM5QklZRFZzSEV1ZUpNMTMxY2JVNVkycHYxOGZvbWNYT2F2VzIzdWZxY3U4blllb2lYV2JSMHExUmdDUHJFWDFqQmx5MmVaUUgta1ZfX2ZVclI5bm9wS2xTY0daTmhWM05maGptV3poc0Q2WUQ0emhfQ19hYnlWNU9qazhrUVhMYXR0bUJ2ODZuel9KTFVpZXpsNWs?oc=5",
+   "published_utc": "2025-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 800 crore joining bonus? Once at Accenture, IITian Trapit Bansal joins Meta AI superintelligence team",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOTZLb1ppVG9qbHE4MURWRXZVVEstQ2pzUHI4bERGbW96d1Z3ekZZSnd6Nlk2TjhSeFNJQ1FraTF4SWFzWUVKRmRXaWxLVjI3aHBONURfdk5hQWpMNzdkNUd1OUV6ZnY5eXZVcXZYTzZNM0NjX0QzWWp3cVVfbVgzaUNMWlpua0NSZnRNbG8tUms0eVhUQ29vUlBCYm1mNU12VHZ5MUZLOUUzcTI2djNqVHY1VXNYb3FiUE5sLWhIZHhWaEF5OGdJaFBJa2F5ZVY4S1JvQ1pvWktDR21qWGFwNGwtNzJ5cVNxb25DRnFnNUZYa0doY3Y5TWhwdTVJN2RfNlZPLWR6YzVoQdIBjwJBVV95cUxNLTZhUUk2cHltb2VFbUFXaUw0MDh0dmdIN2VHYUtKNGM1SndZTGhpYmV3TzVVUnk0QWh2S1RFSi13ZDFLZGxQOHJjTXgtekc4YXNxMi1zU1JVNXl2TnF4aG9VSG5QLTdRTGlWU3FZVVNPMXl6SEo0TVlfWUUxZE9HMjl1M1dONmpvblhvQ2kyV1hqY21oX2tmdkVGRzZsdi1oU3I5LVlJZXl6N1dyd2JjekdaLXdEaDRqVXRVa0lzeFlTWG5USkRFVGxmalNjVmtpOFBEaFJ6b3FISmZmalNQa2JUS093ckt3R2lZeTl0cXZEc2lQckY2UGtjQVZOZm5TaVZvVmF5QTB6WmZxd28w?oc=5",
+   "published_utc": "2025-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "A new era begins; AI must power governance with a human touch: Andhra Pradesh CM Chandrababu Naidu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRTVXTTI5ZnFVdmc5UUxBQ3FNN0NVYnNtUDROM3UyMlhrUFFDYjh3aklHWlNhMXBMWFB4a3F5NzV6QUdDdE5nN20zVlROQmhuUnZCVENRaWlwdXNHQVN0STdmMk8yMHdCckhUaUJIV0JtRkh6TjVnZEl2N1FUT3BfdTl4S0VXbDFLQW9TZ0tndG9yNFZMSm5pSGxmak5BSmR3Rkd6RVZlRG5RYkU2QnZUQThOcGhnY3BhYnhGT2pibGpqZFpQMmNmbjhvRVZXRDI0MU1vMWJYLXV0eFhsY3ZlUjJtQlZ6NDdVTGRiUk1mRGxZakx4b2NfQ0drMmdwdE3SAYYCQVVfeXFMTmlhM1pMbV9ZTnJLeThqOE5iRC1oTDZMS3B4NXFET2xvRlNPUkdIY1BpSFg0a0RlN2hEU0x3aXJwb0R1MUhzMGN0ejI1OU5vdjYyUWo0ZVRUcGt3VnRONEV6NlBCc2txOXVEekpVcUVWSmJEWFRqWHQwZ3JZd3REQmJ4UWYtWWctNXpqRXVaVkczT0p5Vm1fRFVOV05IaWJJNVczdlZPTjFKQWZlYlNNT0d4dUlvdXFoYlVObHRWTjIzVGhmdk5XWjJKNG55SHlORFNTQzVhYkUtTGRabTB3amNjcllaM09oRGEzMmtQTTlYQk9MTUl2QkJlUldfLVJoSEtBOU5uZw?oc=5",
+   "published_utc": "2025-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt identify AI Champions from 20 state departments during an AI workshop",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWhYMTAxWUQ1aGFBSDNiNzJVLUtsUnBvYXBUUWhJOExZMDB5QnRyUWJvU0JKYjRCdDI2TnFLY2lTSUlXdmJDNVBBYTQ0UUZHMHV5NXFqQTlVT3g5X2RKbjE5YXpxWFJ3allVRWNqaVB4Mm0wYU1UbGhnV2NsVEVCQ2Y1Yl9zWFZDa1lKTUxzNkFOV0RDQnZxb3huQUxNQnVfY3lQYVhxbw?oc=5",
+   "published_utc": "2025-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI must power governance with human touch: Andhra Pradesh CM Chandrababu Naidu",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWXlUT0FkdjdMT2lFQThzTnFBWGFBY0FPVDlzVjhZY0hFeXpEUzR0RHpzODNLVzh6Q0E5dW9vV2lSd1lXTk9iRUprS2ZzYUpOcnZmcTBxRUpLenZ4SnNicWlveE54aTZkU0N1YW1BOU1Udk9aLW9PNzFtU2xmSmJ1YWQ1cGZybjcxQnhScjZzM3FTVHczSjh1dXcxS2VNdERVemsyMGQ4NDNCWGpicVBrTWgtS0RLNEtOV0lBSy1NNWd3V2t6NlhmemhtR3Y2Y0liQmNHc09qV1BvNnVIRU02VVAxcF_SAeoBQVVfeXFMUEh0V3VzdWZMRi1oWjF5SlFTSFZRYV83SXNrVTBoaFFsOTNBWEJObW9mc0NQcmVvTEhMeDVISVhvdk1OdjRtOG51VmtOZzRPQlhIdUJELTd6LUhuczJ2OVdUOFFRdExnMWZQY2QyVkc4ZU8tOWV4OVFrb21DQ25abmotS1pCaHBpNjBXRXdMN2M0TnBiSTdNaGdrRFRTOGFkbTZCb2dQYWE1R182QXJEblRKV0k2YThaZko4eTVzb2V4SXFMRUxOeEdtWEZMWGwzNjBwVzVQMWJPQzRLQW1IaFM1WkIzcExnaEhB?oc=5",
+   "published_utc": "2025-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta Using WhatsApp and Llama AI to Power E-Governance in India",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXpNamxobmR3clptaGlaSXpUalVxb1lNaDNJWk1qOHJOZENVYVVzSmNlNDhJN3hhUE9hMVRmS2YwUmpJa0ZQUHRlOG9lcGptVG1RbmFNZDRWd3ZQWTJSZm8wS1pJX0VzTHV1UGVmTmhzSjhLZFRHNWtDT0pXNlFDczg1aEtYNEE?oc=5",
+   "published_utc": "2025-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-driven governance key to future: CM Chandrababu Naidu",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObUFRQTNJMXd2RllKMWJVNVpua1ZpUnVIUmtCZjM2a0VGNTFXangzRHlsdmxXSnhtYXRWbHluaDZLV1pwZU5pOGtqOVB0RHRSdDZmckkxcWRMQUZmeWd3VUNHaHZKOTFsamZmRUczT016Zkl2Y2xGRzZWWUNRazBLdDVjM0REQVI4NUFtZFNsV1NYSEszS3VFeWE1MUhiN1ZBOFFlcmdXR2xsRWVTb0VfNkJRUlB0RDZWMDZwVFRqWdIBzAFBVV95cUxPWWViNFUtVkZTVXdiRW92T0dRN3RRa0p1M0xaQkZ6RW54MDgydmFvXzRoMGhaVHF0SUdqd3BwUzBXRkZ1N2pYN2ZfdGdRMW5WN1pEbldZWEhtTldYR21JUUNUSjlfLUxVRWJhNmdBdFhlZjJyVWYxQURqWVA0WHpEY3J6V3FEVExneU1YOXZyQ2Q5TG4xeDFqY2p2XzN4aVdiMUxNbzVrNC1MV0NRNzFRWTJVMDlOYnhIaHFZekE2UkxLRnJ2MmV4YkhYaVE?oc=5",
+   "published_utc": "2025-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Accelerate grievance redressal: CM Chandrababu Naidu directs officials",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWEJ1Y1ZIclg1S3hIcnhMSkxVQVAtbkFha3RjakRqekRIY3JEenR6MVAyV1RuaUIxQkNFTEMtUWUtTElGcG4tdXFDRV82OXU1eFdKSlJKZTN0WlRlU0hZV3k1Q1kyazdZemZKRG1IZ1R4cDhJUHhhX0F4Z0RjYkx4RE1YejFvdzluc3gwMlZ6R1hVeTFybzhvTlhsbnJMdEhMNDFsTnVmbUp5NWxwWXZGNWtGNTkxMTRTNGVqVXo3T0I1TG9rRWhyWQ?oc=5",
+   "published_utc": "2025-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "21 Acres For 99 Paise: Andhra Pradesh Allocates Land To TCS In Visakhapatnam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEliUWZyeVJ2YWlwU2tLcFgtbVBqazRkNGpqLXk3OG5UNzh5d3JNRXFUWXVMTkdCSldDUTlBdGxOaVZrbWZsaWQzWlVfZ3RsOWx1Nmh2NUZHeE1NWGVNOTNNRDA1TGdlaHJFblVLdld2UlRqb3lQSTQ4VzBTVHdxSVVUc0RDMVFFbmFDejdlQ3JxZ3R1NnJ3c29LV1ZER1dsWG9SQXlfWGE4MGVUTkF4MHF0RmtZOW9rbWFfaE5VMG3SAcgBQVVfeXFMTWJxY0lWWk5jSXB5TUJlVE44RUViYk43enBQX1F4S0ZfTnFyYTV2NkE1ekRKYTRKNVU1bnZvMjdYRmJBU3JWbVZYQVNFZlJQeUxUdUEwZThmQW15WTJ2WXo4WFRBRTNiWjdUY3FQSzl4TjFNSkROVmpRc2FlamdPcDhPdERMWXJwUlNLRWt5cDltQ3Q0TFc0TWdORVoycmV1aF9Uem5YSklVMVJrSGVSOEkwWHhBVFNya2ZEV0UwcGF4UUZJSTUycUw?oc=5",
+   "published_utc": "2025-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to launch LEAP model for education revamp",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmN0a2trZWllMnFOMV9JUWp4TFAxOVprNnljdkMxdXdWb3NFVkZ0YkhJTXlwV2d0VnZ2ZkZuckJ3UERwclB3OTNOakhzaGMzdE9hYzBhNmpMVDVLcHNFcFh5cUdqbUUwTUpJTWpwRkVTOF84R3BtTzlMOXFWc2h3VDR5Uy1EZHZzOHVNMnBTM21PdVJjb21yRVZqUXZLQThrdGR5Zms0WWpDVE5qclFkY3N3UlduTHA1X2hISlFrTzZTcWhyZVdqUmV2elNlcjE1N1hzVdIB2gFBVV95cUxOZXd4R1hhYzVTSjhsZGlRTmZOR1J4SVkwanUzY0pPZ05NZnRFZEU2clB6S2VUSFdHVVVLaHRTTkluRWM2YmhhaEZNNlhDNWZxMFdLcnNhVXQxRFJpLV9YRmtLOGRWV3R5NjJrd0w2RzE0bFNNbkwzZDdmZXRoTkx4NWNkX1JteDlQVVR3V052aVJfR3hVS0pPQmNBZ3RwUVZQaWZDTVJmYVAzajVVTHRCR3pRaXIxcFJ4UF91VXphMVdlSmFRMHU0QjQ1UVRJY3dQa3c5Ym9NaEFRUQ?oc=5",
+   "published_utc": "2025-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dr G Satheesh Reddy Takes Charge as Aerospace and Defense Advisor to Andhra Pradesh Government",
+   "source_name": "CXO Digitalpulse",
+   "source_domain": "https://www.cxodigitalpulse.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmpyT1lwOHNheHU5Q0tvc2NyU1Vzd0ZfWTZLT3k0bFBrX2J1dl96ZGduT2kyNjd4blBzSEpwSkdrN0RJemFTa3pobjZ3Z0twbzc1UWxTenN1Zm1jTlp3b0hCa2F3RVhCZzFUWWJ5c01INE9jZW9QYWFVN2Y1ZXh0cTB3ajlhc2lMQzJDS3hZMkE3bW1ERUlRS2R3ZGlXbjJzVXZzZ2JZcEltQ21kcXRCYjlfbjIzLVM1RFYxOVpmQTFBLXc?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Cabinet Clears Proposal To Sub-Categorise Scheduled Castes",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSF9QQXA4SWlOb3lWVW11WXpTbm5XQUxUWkxCS2xkb242TWhjSGFIclFtQW1pMWo3WnRzOFp1QjQybnR3bVM3SWRtbW84OGR3cHFyeUtISGpESExEeWxaVnQwQmFhdnJGSWZoYmZwV2FPM3lqR0VWNkFZZTFYRG55MXpYeHdqejNZRVVRclFKNkRVbVRvVFRuZ0daekNoN1RRZkJwT0tGY0ZCUlBMaUhGZ0JkWdIBuwFBVV95cUxQOHVWdDJWQkFsOTVpcnZxOU5XVVptZmJFUmRRVmo3d0VuMFBjLVN0cWEzanZFcTF3cUdiSG5BRm9TeGtrZkcydXBydldBX3plT01vU21lYmdKWlR0ZnM3NC1uWnc2S0RhRlZGWDUzTjZiMHFnMzhaaVNYbjBOVUUtR2Jzb2ZrWDI4dFZrRE4wTVh5blEzazdVTjJDUzFVTXVLaVpORnllaWZWZTZzRzhpZWVYY1RIYjYyMGg0?oc=5",
+   "published_utc": "2025-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "Man used AI to set up illegal booze operation. Now he is linked to 13 deaths in Madhya Pradesh",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekV3bjRDSFJNUmp0ODVtd0Ytb19sREcteXhrTkFKUHRBRG1HWk9fMkxOWjZFUFo2Q3UzZ3FWVXJiRWtNSFktQTdsSUZoNWJBcFZkRHU3QTFINTVYQ0Y3d1lFTmlremRvMkpHdDNRdzBiWGtEVGoyNVhoMzE4RERjbXE4ZVNLQUdJeVpuUnFJVUIwNkhYV0HSAZwBQVVfeXFMTnVoWDhsVGVHV04wQmpDeXBWSGxHMmZqNEE2MFRCSlJHQUdvQW02b2Z5N0t1WnpEUlRNSUdDRlpMSnFhNnpiZVhUS19NVU1YUGxlTnByOFpkdWRIb2NBS1pLdFg5UmJkOEtMMmVQSFlmd0Roa185MjJjMnpRS2NUVUJVYnRMT2pNbndNMTZjRnpKWl9VM1FPX05FZlJx?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hooch deaths in MP: AI used to brew spurious liquor",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFoxY0lOekxsRVZCM2F6RThmd1hoY1NZNnM0ZXRjLU1leTFMNl9XaWMzZFZjb2NwU1NoMnM3YjFibHJfMnhoX29zaFpoemEtU0J2UjVqSWk5WUp3Qi1lb0JDYkFEU0JqUlF2b3NtZ3lPa2JRNWYySGtCODdVd1R4VElLdmVyekc3U09QN293VHNxZUM0ZWpyb1g5MjhnYkZFYkHSAaQBQVVfeXFMT2UzS0JqWHVDTDNJSGQzS2xHSDRoaGtTTnYzM0ZLT1NhbXBXTlIzbTFuQzY0WkRYdmlrUlVQREc5d3lpUWh1U24xZ2htcEZhUE5HMFNFWnlVRHFFZWRsSVdVcnFUVEx4dGtFU1dPQWpIM292VU0yaG1JbTZtSWpGVXZDRndOYjJ4VHQyV25mazhFQktBbjRqS3doZ2N2M1piQ20zOWk?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP govt to provide free competitive exam coaching, hike research scholarship: CM Yadav",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVnJzVmc5UW1hTXBIQW1IVTVlVGNnZ2ZMd2g1WVhteU1JVTMzbmJIVXpYd3VQTzBvM0FhZjBOT3VvbVFkdjJ1MXAyOVU0UUprczR5bmkzVndaRGhEMTJrbEE3SG9ZbmhuU0pmV0wzT2hjUy1FeHUtMFlBWWFZc292R2NsOVJUdERJZmNkYk52RHhwZ0Y5SzNhSkdTaVgwOTlSV2NDdnJITDdrcHlBZmlXWllNUkhqSTZMRHFNVmpwaGNxOFBXRTFZZVJ1Ym9lNlJMcHRNRzByVHlrMDZZRVFkR3RTZlRLUTlJWDhn0gHvAUFVX3lxTE81Q0VzZ25EdDBNSWRsaUtCRmVSUTVEdFgxMG1Kb1h5NHdvTFR0ODg0bGo2ZHM0eEtud2s3S2lDbGZkT0NXYXZ0RUlRX2pMbjI3YmhIdE1vS1dYMU9jeTg3SGVvaDdILVByNkUwNlN5N0gwSHByeDFOeFg3bGlON2RtVmVqR2N5YUZ6Y0pVamZMVEVlYXZQYmVVaERGdUlGdERXM2RQMzlmYjV6aEJoVkF0VnJURnZNcDVwN25fWXpqUDRqdGcycG1hMF9lS0R3di1ocWNYeGdBZzdDSHVmTFlfc01QaHlLUFJyZDcxTWI0?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP ULBs under scanner over huge price differences in purchases; ACS warns officials of action",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUTQxeC1RekVUOEhVcGlxZjN1MjZQU2gydnJPZjFuVnJtZnd5VnNWcElubDBxZUpGdE9SRmlhNHZuYWs0VlFSbHI3Z3lSSjRGMHR0ZW5VWTlDMUFrTU1DMUYxV3pwc2pNeXNveFZ2SmVUbWlxTlVvRWxyX0RmVU9qSlBwTE1kS19sMGxrYWNkQ3Zuc0pYUndud1Q4QmZ2c0ZsWldNQlFqSEZJaENyYkxMaWU1LTRTaWlCOGlkSGxRUnRaamZ2MDNJSS0xZEJNUTFsWVVwRy1xLW5EWE9FbXN1dTBaQ01xZko1bFVvdzBNY0fSAf4BQVVfeXFMUDRxVjlUU0RITHpMSWxKRWdLMDAxcXU4V2NaQ2Z2eHVHRXc4MG5PNXdfa040c1FXMEFOWVU5UXgzS3FhNFlBRUkwbXhYTWZBZzdzaVdnUDBndUlha1pvZF8xVDNoaG9Oc2gySjRucXdaR09HR1F6eXRXQXBYOVpBZFpOczVuUDQwZ0lxeVQ2STBJclpLWkVtT3RQWnh3enkxUjNGTGVoTjUzUnBCZld1Qlhabm5RSnZ2OGRzRFlHVGZfSEZTbHlMVDI3MTRwbGtCUDZRRWVFYS1SS2pxV1A1M3Ixa0lRQTR4bUVvZE1hMzd0LUdmYW9OOHNJX3QtQnc?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global Initiative on AI for Agri-Food Systems",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWRXSmRpbEhNR2RLYmJRZ1hkWVdmV21TaEliVERaSXpwaGNOc0NaZHJPZWJaRHpUMmttSzBlZ01SWHF3UE1vYkx0aU1vMmdZbklvQWFodTM1dTlYSGxnc29PRjlUR1BUVGZoYXZjMUQtcFZhOFlLYjBFaEJDams4NnVqMEVYSE51d1EzM3ljVHVYaXUzMGw4ZVhXY0p3cGt2dWg3Ymo1VGNPZw?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP students to get free competitive exam coaching, research scholarship hiked to Rs 25,000: CM Yadav",
+   "source_name": "Education Times",
+   "source_domain": "https://www.educationtimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZlJOelVSQXc1ck9XaHhPWktKZU5qU2Rmb3lvb0pNUXRTU0dVQ0RxUnNLZm5qbXB5a2JWNExaOXBTTWlKSVJlVGwzYktWWnBTRG1XSDN2TnE2TEEtajJaOWIxZ0pENHdHVUZ3YmtRckozN05PYXZBdTlKdXNvUjRxR0ZWaGR4VFBvUHk5eVJhVGdVWVY4TFdmY3NZNHh6Q1pzaHp6QkFtNjdXdldKYWhZNmZmMXNMMjdUSEd5QjVNbmdiVER1Qllvb21KMEE0RVRHeHM3SVRlb2xWMHdmX2d2d0hVNXVKUW9iRFBramtxYmk?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Board Changes Exam Pattern For Classes 9 To 12",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0RrTWd2WnNaTmFIM3dGVHZaMkRoczJ4N21tQjZuVmVLR3l3aUF1YzF1ZFIwZDVzYjZvQ1g2X0wyUkJjajNzWXdjN0czMVl6ZEJ2eXJwbXgtTV9NdFhPeF9pV0RnVTFWbVl4ZWpVLXdLOUFVeEhSQVZaOU9fc3E3WFFIVURxMFNLbUdhYUoxb1JQT0t3czFlSmhLc05DUlRWcnFJ0gGrAUFVX3lxTE56YWJSMlVzQV9JekhZcmVPbzRMbkJwS0xISjVKT2tRUzdjM1hZelAtRVM1UFBhbzhERi1LYk9zdEJ4aEE5QmR2NndOODZkTG10UExEV2EwNTIzQllyZUplMnY0YnVwY0xJWHN5NDN2QXFLSlZ3M0tla1BxQVJGd3VIOWxMTE1ZZmVtY1kwRkFkeEhLcF9MejFwZDhMRmE3SW5DTGRrVy1qTEVTUQ?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Anshuman Raj: Engineering Smarter Governance through Technology in Madhya Pradesh",
+   "source_name": "STARS OF MP",
+   "source_domain": "https://starsofmp.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96UTFVbkd1aWNOUm9DQ05Fdng0amtQdDhPTEg3YlBzcnNwdk43WG5HYmRzcnVFTVcxNnZub2VzUjA2WGc1dmpyejFjYw?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh CM Mohan Yadav releases ₹318 crore for crop insurance; here's how farmers can check payment status",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLVc1d044Ny01V1VMbU1VNGdSQWhoQXowcXJXYmY3Q00yWmFxTHJhQkpVamU1U3dlZ09oT0NLTWdmMS11SXhUTzRkcHhOVW1oby02R3ZwZHZ3UHRSek81cTV4MTFPdV9wdzVDdVB6TXVDTnIzakZVZzJ6V01PdXRYdUNFME90a0c4MzZtNktrc2JVTkIwM3RlTk1vTFNxUE9UYlF2MUZHMC1ucFV1V2g1OS1qY0tIVjdsUjFHQWFqYlk2czIxTThnekZ2N0JVWFo0V3Fjb0pfNmM3b0tRS1FnNnJVTVM5cVg1cC1sd1JodTdGYTjSAfgBQVVfeXFMTjg3dWZKb04xX1JpcGpSTlNXcF9VOHVIZEY1WWNaU2gtbzFmSmh0ZDYycWZiTXBiVWpXVFM5eGNVZWw1b0xyQV9kN1BUa0JYRVNnTFpwY2dLTUNERG9BemZ3a1N2UXo4Q3IzMkRGQ1NzSTZ5RGF5NldpTkI4ZXlwVm9rQjltNmpsQXNPLXN6OGdLUXplYTRDX0ZUczI2bGlxNHpYOTJ4T1FJSThsSkk5NnhCZUs0NGNGUzlYRnFSZmQwcFJVMHNSYTJSRFZkX2VEVlpINThUdTdMemphQ0Y0TGl3Z2w5X3NCYnFHVlplOGNDdHB2NkRkNDE?oc=5",
+   "published_utc": "2026-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Congress leader's son arrested in spurious liquor deaths case",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzhXVGRjQVktWm1nUWVJeVNZbGNmTGNHYlM5cTVGeXFFTmVtS0E3M0FEUThUMXFFU1BCRXp1SGU0a2l5amExd1oxMWltSDlxdklqd2ZlLTJBSHF0UDBmbDBVNlEyNTEzRF9lV1hjck95N2hxYXVzWC1Wb3VaMU5zeENvZ3VvYkFCR2loWDk4LURZUTRKSHRXakx0QXF1M1hNZGVlSmJMOGhhN0lrVzNCU2U5QlBZVTFtZFk0NzlnM1lKRTRTUDB4aW41cEt3S2FTUHZtVlB6M0TSAd4BQVVfeXFMUHNlYVk0cHZ2eFBPbTBHbFlpbmZRc0xqN0Z5UllKTjB6a3RPUU9zWG5LNU9WYmtoZnRYM2pTdG9hRnlCVjFQRVAwelFPaHJmWldJQ2w2R0wwWGpsN1NiRFlIWlVWRHl3UlRjR0pxVE96QkExZmV4R3NkX1hoemd4RlEwWGVuYWFnb3czNUFJbTg1aFJJTVB6YmZOeFNMTjJyMGJRRDhnV2wtbmZaQ2MwM2d2TDV5Rl9qb0FtdU45cVZxVk9GUmN6VVVmOTA3RzdFSEw0TXAxRmViU0RLbXBR?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh to develop Jabalpur-Bhopal-Indore industrial corridor with ₹100 cr initial funding",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTjlrcW1Zb3JKUTlia0FVV19HNWVCVExyNGgxOElCS0owNUJQcF9LY0cwNUtkb0l6NjZwSEZ2dW1Md09FSm1xMXgxNVhEcXZsdWJydS1JQlF6QXBTTG5UVVlHTG8wcDYwak94OXI0T2VUeFJXWWZiNzd5UmdrSzJqQldyUEk3em9MaGZSWnhJQlhWTE5od3pWcl9KSHNaSjFwV1p2c0c3Z24tYnlQOG4wYWlDQ0w5Q21jY3VOYTg2WEJOMlFrd25MZ2d2RWJqWFE3MGNMWFU2V3RhcjhleU9iV05WTjhseFJFTzlEeVpPS2xaQUd0QnRDcXFjelFlbTAtM0pOSNIBigJBVV95cUxQUE1ybTJEN2pFT1lLeDdOTXUtNkdZcmRFbTJjSnJfaFZ4VGtIMGxuLTF6S3VvX2d6MFBJbm1OT01sTHlvVGpPTE5tNlFSamUtVVZpdE45ZWhDR2NFRlpBb2JTMU1Sb1FPaTZCZlpMS29RdEVmb1JTMXlkdUZPejNKWDFRNjhBVFlIMHRIdnVvbWg2dndJdWVRVDlYWUVzLVhyZHlHTFYzSkE3cllSbndrZ0llM3ZsQlJ6di1XMWdkb0JfeHhEbWNOWnIzVTdOZEN6cDlPSFlUbWxZWTZLYWZVcm91RVB3eU1sZGk3S1FwZ3VXQ0tkUWt3TTVxaDRRSUZEMFhRRlNtRG1vUQ?oc=5",
+   "published_utc": "2026-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP CM Mohan Yadav declares 2027 ‘Year of Youth’, announces 12 medical colleges, universities",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPenFZNjU3Y1VQSGhnNGktT0RCT0xfRVd1eGZDYWtfR2laQVpIT01GMWxGOFJvNnZCU1ROaXdZR1E3aUJ4QVR6ZzlVZEhJWURvZTQ0aVQzZDc5V2Z0aUgzTEg2eVh4bGV5MG81RVNjcWJBRTYwXzdvc0xfUnJsZm52ZXdBVVd1ZUpwM3c5SHlpUDR1NEJXdGVxM2lsN0hRbTBGSXZYVkExbDNFSVFJNWlYdmpDRUZpMWt0Snp5X1Z6RGhDV1JMSTdQS0VZblRLN1pGSWN0V3NLSXFEQTJhSFh6OHFwVjk0clRVcXpV0gH4AUFVX3lxTE9takFWV0pWcEdyZ244VVUyeHhqWl84S1doRXJua1NHbXhmeWVPR3VGazI1ZnJyVkhHS0dZUHJjWm5CNU5mLUZtYlM2SVpmRjVjU1BrUFhubUViZTZ4NGFpLTBrZlQ2OHNubzdBQUZRRm1TSVhuNmt2aWplc1R3bW1YYlFMVVJwRlpBVWJ3OEgweGk2RnFsYWZldFdnUksxalVZVzFSQlBfQmlvMGp1ZmtseWJyZHB4cXlUVUlVU1ZkTFNSWmZkWTJ3ZndwVVc3LWNWV2piazVlclJBcFEzMW9SdUZhV0pHVW9ubl94MHBzcV9abmcyTjN1?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Learned Spurious Liquor Racket: Congress Leader's Son Arrested",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVBzRXI3NHptbnlYM2hLY0pMWVQwZDVQRzZTUFlxY2JUX1NBaXA5SkM2UWdhamdaWFhxY3YzblJnZl8xU2pfTWpOMEF3dUVlQ3ZoMjhHOUxaek5EOHpjR0NJYjN1S0hXczlwTEhGUzM3bllmMnlPWEJ3Q1lZTTFmalBkZGx2THV5T1BWQmJ6NXEwZTdKRUd0bjVIcS13UdIBoAFBVV95cUxNNndENHVZYm53OVJUSjJXdmczM3BrakVrR1M4QTYzQVE2NFU5TGo1b3NpTS1xQUVST3JGV29pWC1CVlBQczRrOVItRlpVT01memJGOWZaWkNZS2ttd0t0U0FRTXU4UHFuVGl1ckpTUWwwUEdMY1ZvWktLOWxJX2E1b3VocmtvT0pfa0NKSGRVNUxOSWxrQmNHOWE0bVVQUEln?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hardeep Puri Files Nominaton For Madhya Pradesh Rajya Sabha Bypoll",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnpTaFg2aWhZTk1MMkN3Ql9nVUZDOGtkYkJzd2ZlUXVCMEt6LXNzLTFmaFBHaGdIbmY2bUVTbExScFZTRFRlVkt1OWZ2X1RoN2ExWnl5R2J6YWFmbHJZM1FNQmJDRHBVQWpieEF4UV9fcGZoZjh4d1N1LUROZU1RS181TUJfcklqU3pvZzdDOVhaY3hNc25SU2tNSzhYeE5yZWhPYTUweW1FWWfSAbMBQVVfeXFMUENQVVpnejFHd1BKR3dhYllWUXcxSlUxZnE1bzJjT0Iwd2FvR05hVGZRSURONkFlQk41TXlPcFJpWEIwMGtXZmdDSlEwVVl1eEQ1SlI5LVFjZFI2eTFsN1FXejdUdk11NFdhMXllcGMya2QwLVBZdzRBZTZkdzVuWGQ5SUU4bVZ6X2Z3YlpCX1hILVFtSFk0bF9QNWh1ME9ibmtvcmlRQTJfeFlHOUc2YkZzN2M?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "For the first time, Madhya Pradesh’s Sidhi gets train connectivity as 118 km of new rail sections open",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGhoOEstUHJUcmpGUFNPN184MmhmR1ZqTXdmMTdBVXhHTjNEdWVlWDZXal8xc0xrYmliTk5IaDBtMUVBYUdWSkNseTlQZEtpSFVTNi1rTVpiMGF6WEliTG1WTzBydlZxbE9mSVU0bERyZzZZNUg3R19DVHZqdFJxVS1QMlprSmc5aU16bTN4RjA2LWMwb2VUR200UWl3TUdELWVGVk83azNmSXdnX0RreUphaEE3bkZIRjhn0gHCAUFVX3lxTE01TXBIVWFwTjdMZzVIcWVOVkVSVDhQallydGh1T1VQUERHM2llbWZTVGYzdHhWUFNIcVRUYURIcVY5X3dkNVF4XzJFc1JWSy1JeTI1azRWRGd4NDlHQ21Ta2s1ekowSFdaRmZYOTRfZVBZN2lZajB5ZWFuUHJOak44TFNIcnV1djVnN1g2WE5EWW1JWm9Ic1hDX2FJTGRlZGFHZkJmOGc2OERMOU43SjgySFBfbmV3WHhTalFILWNyYkZB?oc=5",
+   "published_utc": "2026-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google expands free AI training for teachers nationwide; deepens educational and research ties in India",
+   "source_name": "Education Times",
+   "source_domain": "https://www.educationtimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZENocnNhZzUzODlvVElSUVFyeWVsUEZCc2dHek0xZnhOZDJLeTNpWVhZX2pWR3p6Wl9lbzFicHVyZkNsYWhPVnJGaGh0RUJrSkRTaS0xZm5kT1ZiblhCYmV1WEdGaFNjLTVsTGZDUUh1aVJ2ajRGU3RVajJaX2xPRlpldkRXRkV5ck9hY3NUai1PamtaSmJEd1hQamloejZFOXhwekk5Z2JxZ2FKOE9OOGNzdVBoWkpWZ0wtTDZfN2NYLWJrQnZQV0VHaGtGamRoR0lMLXNUNEJSbmU5b1BCQTdQSmxkUExXTnRnZHExSnJ4dndKbkpV?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google expands AI initiatives in agriculture, education and small businesses",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmlkdVV4Nzg0QVBjODlQOVJVUllLLUVmMW5uQVhjWndHWXhMazlOMUVnRks4ZjU0eGdUclBmdGJWQVZLVms0VmN1eVB6c1JDcW1aWmEzdXhHZktYNFBMMnlXTHYxSWpxcmRQeE5YM1BFNU90Vm5zYzNNVUY1Y3JzOTVhUXB2eF9EOWltSkFkcGVyUzBVNnRrdWYyRmotbzhfeFNLWGExMnlmcjRxSXlabnJrWTVHMWQxdWRtVmg4MWNUUURYTlFXVHhwd242MFM3Q3lz0gHgAUFVX3lxTE1SMmh6OEJ0dGVqU3ptVm0yb2hZZHRiSjRCVUVSU3dreEkzQ1dSTHYxWllTZ3R1bmhIcXRFX3RUMUU0allfaG5LaS1EQzFpb1g1UW1qMUZyT3hRMWlmdHRPTFczOFFaZC1xNmFjSjZ0dFhmUW9naDFnVU1uSFNFMnpwd3ZNYzJkVUhxTzhJWVpOek1VS1ROU2dNV1puZWlNbnpiMTBBTkM5c0ZnTkJpVE5qck1pdHVfY0p5clhsdU5lamd4TUFfQk9nOWhsYkJZdHdsR0JVNkMyOTk3Z2xKckFK?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu introduces AI training for higher secondary teachers in govt, aided schools",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVE1aY0hRd0ZtdVpDYzVLcFhadENia2ZzdkptdjhEMnlDNjN5ZmJBdk9UN2VBSHZHZWNia3A2UGx3Y3A0Ry05T0M1TW81RVJMUjFTQW9MRFlmUm40VktSOW1nNXFTU3VUSTAtWUlUTXZZRXozMFkyQ2hLWUhEcVhZYXU4dEp0YS1Bdmp2dnBrc2FTamREelZPSmNIUHRFV3hpTEZyeXYtY09BZTUyOTU2cVpEWnd5dTlYTUZkOGxRVVNBSDVMRV9hV0RFcjkxZ2JZbkZBZkFvMnlTVnV6c2tQU2RqbzJPZHMwb0ZhMW1UVmNjS2Fadkxv0gH7AUFVX3lxTE5KOGNvZWZZVXVBZ2xKUDVkMWZoSHNZZHotZzNyNEFGRjNqRlNORTF3eHhqRzMxZU5aSDRvbS1ObUh3d1hOOFRJU3duNEZpcktVb19xOTRQVmlLd0NrdlItdVV0WFNaNDZOYW55bXBWM21NbkV5VkF3emt4dHFKcld1TzlTNFdhYmRNT1RZaDlKR0RzcUZaSTlnM1QzVzVUMDNRenQ5ektjMXpocHFKRjBxeGlEd3NzejZOZjNNNVQtYXliMDVuQkJFY2lzWEVJYTRzUnBVRUpmRmhLa0NmMlVITnR1LUFmS1RvN2dKUU1iOXJVdlViY3BGVHRB?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Lokayukta Books Two For Alleged Bribe To Clear Hostel Bills",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEVWRERCTnpBTGZFb0hZc0xSR3U0enJfWC12SkpubTFiUTNlZmZBdVE4T2xyRHk2WTdGcE9SVUFnRHpXeE02cUpoZ0x6OWRKV04xZ01zVW5kX1JUZ2I5N3Y5ODNoQmg3RjU4MG9Zd1ZaQnp5d2F0MVpGQ21UMWtBZ2VxaG1KbGhFc3dmem1ZODdVaThGUWJHMndvdFdjTWp5SmZYYlBLU2dyQlBx0gGvAUFVX3lxTE4xSmpTNmNWNTBGQVFxQkJuTkJOa1RySjNrMzBlVDNnelNMN01GVno2X1hqNEpSbEp1WDk1cy1oYjBTYWNwbWdxMm1Kb2oxRDhVSXJpWlpYcWwtYTQ1MVgxelNFUUEyc2ZYajVvbGJYVFB3Q2NpOXlfQnNvU0F6eVBLYmtTZVB3bmxEb05QMGpia09wTnpDQ3otd2xwdmFSNXFMUUNNMy1kSEVFSHhIRlk?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "15 Killed As Truck Runs Over Devotees Near Temple In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2VMODZ4dHZfdzNLZjdKamxrUTFiY3I0MS1DeU95TU9OQ0p3dTJqM2R2S1FkQzEzREstR1NBTXRvR3M0dkEyNjFYZ2x2S2xVNV9mYWJiZENTUzhGVmpDRlFEVXJKMjdxZHZQQjUwZllsYlM1QjFRWnotVUJ2bVNVN2VNSl9wbGVHNmZzZzc1ZWhITUFacTdNUjVmel81YU4wLVRPbjdpSzJvNlpSMC1XUUh6azUtdWw5YzN1ckd2ekNkRW9hQTdldjdpRzJpSFMzMU5Jc3VLRHdOTXZESjBvRk130gHqAUFVX3lxTE1xR1paY2d3cURaZlJGS0F6ckRkWGNVdDFwcG1VSktxZ0hWd2daMzdwSlNQbTdfSy1oMkViMEFlaWlpTnIzbHBPRGc4UV80S2pUTkY2NTFYQTUxRzBjdWRWTnBaUFM3MXVWYXItN0swTlI2N1BaMTUweXFNa3lzV3phR1JqRzIwS1ZCbE9qbHZQWktMazFkZUxVMXBBZUdRTlVldkI1dDBjOGI5N0dzLVlYcGZuNVA2Y210M29SdGN5ei1DUDdzalliSC1KbzN4SjdMb0lBS25RbXBoaW9yeHpOVFVHYmwtUk5mUQ?oc=5",
+   "published_utc": "2026-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Important Summits and Conferences 2025-2026, Key Outcomes",
+   "source_name": "Vajiram & Ravi",
+   "source_domain": "https://vajiramandravi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnRNYkpQY0pMUUdtOW8yQnpGdmZ6TXJqZHA1eWQyS0pUUS1NcFpDajRIUVp3TDU4UGtadEhfNU1zOTZ1Sl9GRVJwUEU0SC1sUWQzUjZEVFdOb1BlMjBwcjVJdkRQN2dVWmx1MzRwa3BGa3BKamVmNW1oaGlmSGVNVmFMVQ?oc=5",
+   "published_utc": "2026-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 36.4 lakh fraud in Post Office through NSC and term deposit: India Post employees convicted; Madhya Pra",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPQjR6eGEyeUYwbFQ3ZElpV25GZ01EYXlXUC10RHlMQmkzNi1tWHZXZEJHcFRpUUU2RkpMVGFtbnhZVXoyekJmTE5JX0lEeHBtSU55azQxQXBsMUloelh5VTQ3cjJ1cUM0Y1BVVm5rb2JxS1VuUWFMa000c2NDaDVmcHdWNFAxLVVudTNmc1Y2WkpIc2k3S0pJdUZndGJoa2NWbk55RlJVamlaTFVGVHhmMEVpNW9fZGNkU3psWDkxZTM1RXhvZ2k1eUZ2c3BseXlESE9oV2ZRSHZHLWUxblk1UlRUeFZLSUZCRXFVU19yRzNvR1FWM1ZfQ19qMWpkM0tZejFiQ1V6bUx1YVpRUnhLNFpXUGE3Z1ZraXQzc0FxcUN1dGZZTWYtWXJxY0hiRXVxN1ItZTBR0gG7AkFVX3lxTE5NX3BpbzRZTENHeHVCZm16RndYa05hSjd6b3NJc240TTI5czY4QkhnOVp1bkVUSGpnb1NFaVlfeW5weDctbG1QbVk5cGJkdGVJWWtjclJ2c2hZLUlXbEpBTkh3TDFJNmk3cjNmWWd0UngzTS14UEt6OFVZYlFucUwzRXhneG1XT1JsbEwxS09SNWIyS1cyVGNGdW15QnZXZ05tZ3RZb2lDVFdtcUJqc1BQa3BicFZBZHZhRWgyeHc4UmtZdkRaeWhLbmZHcVZZQW9tclBPdGFOVVh6U3Q2Q3FWM3FDSDF2U1lMREw4S1FTamF1Sy1qZzdGamhpYklZcTFoelNKZktncDc3RVJPSGpEbTUzWkNBdG91VGE4WWxMTDhld0ZnZl9RN3JISW4zUklzT3JEYnZad1lFaw?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad egg donation racket: Srushti Fertility case accused among 8 agents arrested; 48 women rescued",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWklUTUF5QmhUMkJWcTV6alFfOWhGdDRoY2ZqUmJLVWpPWHgxaGc0U01PZnFwbFhUNnFVbWRtTHIwYlN1MzJRREFjSmJ3RHlOZWlqbVRXcTZvbUVncFM5dHZock9DdlJqbmFFM0FpaGhiTXY5eXdCWnJfUzg3M2lscG1DbFRrcFUwMjkwY1dqWFJmYW41NEdMOEVKbkxIbWpJYi1tQTUxZWt5b0ZKUnRZOUtWYUIxSHlLeHVneUNHWHNQOUplVC1HUUVDM2JvQW1jUTVWZ1VYR2FZVjNMekHSAeMBQVVfeXFMTWVtNXo1c3dsX1lySy14MDJpTG41OVJRQWV3a2lKRm5qX0JLcE5VaFZiZl9QeHFVX09NanVLVzlHejhWU3VhRTBWVnAyWlVsSmVTM3pGMjd3SE1tekVOcnlkRkhtY3hUeVRlTnlwRWdwcFVOSW03Z0NqbzVQeGlyeXJCc2EwX2kwNGNTUnBhR1hxbWRxVGVHWVBSRDVFQXg5VjBGckRBT20wMTNHdVNmdWFqMDNDeUhPa2dDbmliRS1TSl83dkVmS0lhTlVZSFo0eUxtNHgyNUxHV19Tb0E4QnROQnM?oc=5",
+   "published_utc": "2026-10-31T18:47:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gwalior truck accident: Minister Rakesh Shukla visits injured at trauma centre; death toll rises to 14",
+   "source_name": "https://www.indiagazette.com/",
+   "source_domain": "https://www.indiagazette.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUROYTR5VXdJbHhrcjN3eGM4RC1Dek9xR2p3N0FLSnRoRUFfYjlZSXJtZzAzcVl3bjA2a3AzTXRQY0g0clliZWhlMWJwbkVpR0NWX1BuM09wTWhaTjlua3hDQ3ZSZ3QyUWtfVEVqdGVyOHFSd1dET2FzM0FJSTdHTjhac1A2WnZ4ekw0U21CTDhILUFUTUIxNGFvOFNWUFdNdm9wS2hMQWMzTG01RlNXR0RlMkJPR28xaEptazFxeGdqTXNKaDQ2MUx5Vjkyd0hiVDR6amU1R3pMM0xr?oc=5",
+   "published_utc": "2026-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, Startups & IT Parks: CM Dr Mohan Yadav's vision to empower MP's entrepreneurial ecosystem",
+   "source_name": "Zee Business",
+   "source_domain": "https://www.zeebiz.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVBid1hqaXlvUC1qXzF6UnFjRW9UdmFVRVJHb3lGdzhDb2JaaWNQa25Ea1ZrRjFKejJxWkRoU3ZTem5xRFlIY3JwREtwMFZFSm1SZzVlaGpfWDZlczJuUFNLYndKQ18zSGxVVDUzYk9tUlAzZ3c1SmtuTHR0MVpEUDFCekw1dmw0SnJCYUFxd3dhT0tRM0dOdE1KWkJ6eWhTN2tvMTUyNDVrVkdtbmg1MVNCdjdJc1FvaFVVZHNGaWRPR0dueWxn?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

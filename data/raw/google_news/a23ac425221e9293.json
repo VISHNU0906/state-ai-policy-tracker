@@ -1,0 +1,85 @@
+{
+ "query": "\"Bihar\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Delhi Police arrests Bihar man for sharing AI-generated obscene images of PM Modi",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYkMyZnBVNjFVTUtIdjBvdm9nZXk4azM4WldvM0VJcHZnazZkbUI2TjRWMVgxaXllSUdsZXlCQ3RvMnREbURydExmX3FCOHQxRjU5cmsyTUxZWVkzM25SWjlYeUpuc2MzQUxIVVU2Q0FsQV9iMEdpVlF6c0J0SVcyVFpyR0E5SExFNnJ2YVg4dWVBNXJ2MGVlMm1id21FZDdHdk1jRjByaURBLUdCMElvRUhyTXE0Wk1OdFRtWTFMM3oyQV9vcUtLV1lZT0NNMEhKZGc2X2pR0gHjAUFVX3lxTFB5c3BnZkdjOC1IN0hjTkZ3S1lyVGVQT2w1Y2RmT0pxN0NrdThQR2ZtQzdjOFJFYVQ2Mm43M1N6dDBQbG95U2RUQUFsbmxCQUlEbTJnanB2cS00cUNONGlFeElGdTNodTh1TXdxencwYWxyVkNwdlhCN3ZJSHVfZlFXVzhLalA4N195MERvbGNsQ2xfY3A5cFI2bnB4TU42d1VxNDlWMGp2TnJEcGJxaFBfXzF1UFJZUWVYRGNOekNXU01RclZNWDdDQks1ZGpwQThzY0QzT0J1cDlMbU1Fa2tUSzkw?oc=5",
+   "published_utc": "2026-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Delhi police hold Bihar resident for sharing AI-generated images of PM Modi",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLW52T1UzQ0hGLWF3dDVRMFpZa2ZRWWExX2l6XzRwcFdYU3hZN0VzR2JQYjY2MGlLTUpxMVFZd3hfZHU0ZnN6eFBWVUR3TjZnRWZaQlpVRWpRNjBMR2tMUXFQNWFHZHdLSVhSUTJaMlR0ZExMMjJZMUhwSW5Sekp1TzRpSDNvSlM5dEhXczZ2LVVlNVBuR1RiWERVaUREUTJ2NERFT3pTRy0zV3Fva3JOT1VKS05QWFdfR3BGc2o5eGU0VnJZdlBLTjRqcWRMWnQ1dDBwLWVEQ1MtTUptS2NqcWhR0gHnAUFVX3lxTE1wRkJmQUpnSE1Ua2RjRnEydjBUaTl4RnE0NzNleFVFWWx0YUxYaEdyTVN5SHl5WldIRW9kWWhDMk04ZE1Fb01Pb1pWNkdCTm1HSGczRS1ZdkkxX0xXTUtGdXoyem5zQjZwdHY0M2RzTlg4c0VnbmJ6MFV1dVh3aVN0b2xJOThoRkp2ZkRldGMtM01XeHVNNy1XcUE4dERzbHQ0UHdNZFZyN2wwNjZ5R0JCU2NTY1A3dFpkczJlWVpyc1g5QW1ad0c1eTJpZVAwVEd5UjEtS3NaS1pqMmNhVWlYNXcwWjZ4VQ?oc=5",
+   "published_utc": "2026-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Establishes Artificial Intelligence Center of Excellence With Academic, Industry Partners",
+   "source_name": "News India Times",
+   "source_domain": "https://newsindiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMFA5cHo1ZTFhWkM3aDVjMXJpdm9kYmJsWmE3U0VzLU00NjB4dFNPcTV6VzctX0hldmtqRXpIVXUtYzlzLXBwY25WcC01b1N2QlZWTHFuemg0cDdpZTZJbW1DUlJqbndRdEFiMmU5YVZYR3c5TlN1TzFITGNuT2xuNWVGRVlfX0JwQ2UtQmgwM01JRWwwY0NyRW1YUFZ6LUF2UTNFM0RzUDNnc3hjd1Vub001cmp6WnRvZXU5MkJicw?oc=5",
+   "published_utc": "2026-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BiharOne project set to transform digital governance in Bihar; Rs 87 crore contract awarded to CIPL",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFZCRnlJQ2Y0bDFFUWc1ZFJqWlNmR1k5MDZEbTNNeVNlZjR6S0ZOQkxBNEFqUjhaQW92ZEF5ekZCZmRwOXZKTFZhajhtVVdDLUQ1eXdSZkxoRnNVbWFwSVF5X3FxQWI3NWJLeTZhU1RfMmpHUWxMVzFRcFFhYUd2U3hCTnhSRzVOQ3QwcWZpWjBpdWNYazUzRDVIWDJWVWxLMGwyUHB3SzBvMjRYTVdGVUQ5Q192RERnTmtLY2FwOEwyZw?oc=5",
+   "published_utc": "2026-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nitish Kumar: Veteran Bihar chief minister to step down for move to parliament",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82NlV6UFp3Q0psTkx1ODRCemJuZmNrQThac0s3VEVpMTFyOGhwTmd1dl9xb3Rqa2pwTjBieE1iY25iR0JaVi1sdWw0dk81SnFrdGlRYVpjWmRTZw?oc=5",
+   "published_utc": "2026-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BiharOne: CIPL will be driving the next wave of digital governance in Bihar",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUVXUEZwbTJPS0FBa29oZ2o2bjVJbDlRekdaT1RtRjFLc05ta2VodGk0M1UzZktHendDY0pMUGVVV25aaWIxT3psTDJCa1lvcTl1X25GdmgwTm0xUUFpVlkxZzd5M1N2ZWhaSXFpTmZmSVhGb0hIYmJYR2tlbEFvZkxYY2JKcE5ObjJxakJFbkdKUXQ0b203VWxwQ2VhZ0tNWmNUTHhJb1BYcVVzVzZDVWs0UdIBuAFBVV95cUxQTXpramZUZ2d5NHFaNlBvSjRVTlFoM2pxbGNNbEU5dW1VWFEwOVVxc1NnZzFybjVBcWNSbWo1WjFDaHR4X2pXN1J0OHhydjM2bFQtVEVRQUFrUjFOblFuRkxsMVdaQjF6czRVd3NHb294a2RkZkhLNEZWeE1xSTk2dF9NTWwzdF9vNmxxZ3NvUjdBRS1OSHNlTWRtcDVIZTRuNk9Ddi13Q3FzbFdoajR0dnZCRl9SNXlH?oc=5",
+   "published_utc": "2026-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Board Class 12 Result 2026: Minimum Passing Marks And Evaluation Criteria Explained",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUt5bGVlY0ZURGtwWU1FRzFQWVJZTHpIeDY1ckx2UkVkMGVuUTNnX1dkZml1bS1xc0loMTFiUHNlTE9QTEx3MDBGZW03RGVkQV96TjBTZVdvMUdzZ3BDbUZMUld0aU10M0YtOVF6OXR2cG5qY3Z3QmU0eVRnZEh3Y01NX2RvekVQU09IcGNZZ2pEYmx1UnFlSEQ1c3g2VmdHNUczTG1LZF91YVFTQ08zM2hieFhXY0txNEczVjg0T0hoRktXRnRv0gHPAUFVX3lxTFByTV9CcVhsc2YwVUJFMXJqZ1ZVUkJOMnNYVTUzQXB0blBxaHdJVm03MnVreEJUbkJJcFh4TFNTb1czNU5oM3hJRndEQk5mdENOYmZjSEg3cVUteC1iWmhwRjNadTZXejFVRlk0Nll2ODY4T0dKUW5PTm5tVElDMmJhU2t6dlJjMUx2bF9NWkxMcEQ0NlItMEFVN3NkX0xwUWVuWGRCN282NTBIQzFxY3luMnk4MlNobnd2dGZYcWhrTGFjVjJkR181MnRYNWdRdw?oc=5",
+   "published_utc": "2026-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Education minister urges academics to help revive Bihar’s legacy as learning hub",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRThiZnZIbGV3WjM4YWN4OVRZd2l2Z1Q3MEUxYjBsWllkRzNYWjl1M2kyQl9PRzVmX3ZHQ2c3bm01S3JhYTJnam9RMTZpeWRFOUs1RHk0UmFXSTRwTzBiLXhxTHJPalVqdW9zeFdOQjRNelJRTnlXMndZbkZaa0psYmhvUjhGeGhkZzUzN3Y2VkJ2RENoNkJJSWJYR3RGZXg5Xy1QMTNhRzVNT0p6ZWVMSGRrN0k3RzFxUHd0ampkbUpGalM1eUNQbGtFYzA2REl3M1E2SDMtamZjOHpqV1F2ZzQxM1VyVDTSAewBQVVfeXFMT3FoOTV6YU1PbWZHRWpIMEw3NEVyX0NFM0JWYXBvc2VwY1ZhYUJBSkhjaDB3aVFnUWh4YTN1YnZNX29MN3NTQWpxVHg1ajY4TnJEUlRZUkM3WjctVWxhOUQ0dmJWeUJ0b1d5SG9rdDh4dnM4VVgzMnB4LUxnR1NHdzQtZk9VZVZuT01EZ0dIU2JIYjM2UUJkeEZTZkdiVTZjMDM1b1UtZTVubGNBM0xTS1o0WUpFY2Q1S1Q4NkVERHI3UzFraDZXZk1BSU5XTUE3bGF1VHJobnpXZ0NST1VLNkpGLV84bDl2ZEtmZ3U?oc=5",
+   "published_utc": "2026-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar BSEB Class 10 Result 2026: Tyre Repair Shop Owner's Daughter Sabreen Parveen Tops With 98.4%",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd2kxNGNVSWhaLVlFbnNNcV9VLVRBVjRlRUpGTHhneXdaTWRnZ0szdUJpRTRLWG4tMTBIdzdGd0VXcDJfaE80cFpPMzR4MFp6VHZfbWV0V3d4aWlUZ2N1NTdvY1hyQWw4ZkJvR3RldWJreng1SU5nSE9WOUdxMC1scmtrWm1ZWE5KR2hScmVwSV9LdDRRUnhsUHFCOXpfU2czSkktQ0thTXhoaEx5REtkeVJDa1UyMXFCdzVqTHBIVEc4aUg3b0pIOVd4bUZqclhrdk56RWloV25udEpFS3ZCZEliVkU2X2x3aE9wZTYwVdIB9wFBVV95cUxNYUVJbElTeG9BcFpoNUNMXzhSb3hkZEJ5RTAwWEF5aUJ2TGM0Z2lpUS1aVTJTeUR3NkVWeW15WW9oOGdIdHd5ZzBJTlRyMXNHVXRRVnpTZ0hrV190WFc1NnpTcE53VjhDd2kzS0FEQzJhUVdYMlBrWE1xdzl2MTZ0YVFqckJyS1k4T2NQMkh4eGlJRlM5Ry05akprYjRaYlpsbTlOZFBlbmdrWlFRZW03UjdhT1oxMElZTk8xalVxYlJpcml2Yno2b0ZOWEVkVHZIX29ONnFuM0YyZjRvWnF5N1NNa0hOV1FjU0pTQTc3Qm9odWNYaEZj?oc=5",
+   "published_utc": "2026-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar BSEB Class 10 Matric Result 2026: 139 Students In Top 10, Girls Dominate Rankings",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjlBTl9waEJIeGJUbzRoVEx2N2VUbEtiRkxzYnNUZDlDdXgxaHl4MXNLRmpVbVRjelRZQWhKaTBWVFU2TlpqZjZiaXdTbzBBWXFwRTkyb2kyaFlCb2pFU0RTMDE5VkFBS0NzQ09MOEJBVkJZN21CLWFXQ1l5cDVkcWZwdnNtZVpJNDdqeG05SnhmanM4M253cFZKczFpdXhJNzRkY1Q0Q2VUY2t4MWhGeTc0VmxrVlpJaEktNDZsbnREZEE?oc=5",
+   "published_utc": "2026-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

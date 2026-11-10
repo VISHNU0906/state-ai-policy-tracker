@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "UP Education Selection Commission enforces zero-tolerance policy with AI monitoring for exams",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVDgzaVVXaWJFcW1CaHQ2eTBBdVhaT2FFLW5hU3dTOGhiUmtWY1ZhSTJmZDdpcTB3c2FZZEdVNFZiZVJYLVdLSkgyWEc2aFBGVWhHalcyUUEyNkF0WjJwYmY4d251UXBhNzhaaGhDdHExU1daYU81NE1KbU04cE1pWUFLblUxS0U2TmdrM2dTa0lmMnR6U2hhVHhGQjFiMmlRTWUxVF80dTBHZE9yZG84c2E5UVRrY0FQQ1lRVHhQRncyOFo4dHBqa2czRUVQQ3dyUUd5dTVB0gHaAUFVX3lxTFBSdDlGNk1pTnQ1djRyMjNzRmU3bXhSeTNpREVyaHRnRVhMN0Q3cHIybHA4b0dxMlc0Yl9BV2o4bXIxSVo3Sm0xOXJrVS1PSmFGV1FwRXR5MXBjVVdHOG00YVcxa1Q4LUY2VkpHUXJjTGwwOUp5UDlEVXdtMG5iTDR6V21xam9aVjdwRlpCdVhZS0VpOVVQSWx5Q0dIQTFHMmVXRTU0OGx0U3JDM2pnTmxQZ0V4WFR2b29GaVhIamtncHpwOEM4TkFNcVU5eHFBRlRRSzgwMUhhZk5n?oc=5",
+   "published_utc": "2026-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi inaugurates AI-based Centre of Excellence in Gorakhpur | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHNyTUJ3c1BKR0pJb3Z6WmdGaEU2OTJNNWV0bFdPdzZpWXJqTXNoTmdkcldIaDdLeWxUWGlVbXpLYzZGcUc0S0V4eEE5Rjh1MjdyQnFBbGdvOXhBQldycEF4UmoyMmVTVGJnaFVGOGNuWkh0UF9ZX2NRSllqRmt0dTRwTTRCSEdVN0djWG1FZ2U1cE9mYlpvX1JDcWZINldEUVY0akZtRnNGTHdoR0J3eW9BbFBnZnRGd01hMlhHTnE1a3RiaWRSWDk2MNIB0AFBVV95cUxOREJrbG5BTkhhdzYzTnhVLTBmSDhZVDZzdl9WUDhXQ3ZrcEVUYnBaVU16S2NaQ2NWZ3pBY1FwQXE0RXVqVlY2WHRZbTlkOFFGOGh5MmNiTTN5YlFhU3lzNlFJcHVnOFRNNkc1UnZLLUZzdlFfWnlvZFZpVnlOcEpKOWFqWXdrVEVncjExeWRXWGVHQmh1N2E2ZUM4ZEsyVnBNcC12SUdwNTlQVHBWdUFXbnA5NC1GMTg1dXNncTlld09MVGxZMnlxdFRpMUFma1Bw?oc=5",
+   "published_utc": "2026-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Rs 368 crore AI City project to transform Lucknow’s tech landscape",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLThYN1U4S3ktUjZqVWNmbEgwdW1JUTMzbnltZTVXZjBJVXhEMHRWdkFnSHBCak1CdU16SDlYcTZBSVVYQUJ5OTdjUFo4eFBubmt0c0trdWRnbjlwMFJGYVh5QXZsU0NvQm9CMU1LbHpjZndGQXc5SnVJM1FlVC1HMlIwZVNTV0VRZ3pDMVBWR1RPOXQ3bXFCeVBpcFRzOVRiZE5PZlRmOUNmTEJSNVhZQWNiWGJkY1ozZldYRHFEZkdJLUZRVFHSAcsBQVVfeXFMTTYzdlhEc0pHLXVpZFI3LUxVQkZsejd2bjcxZmtsR2JsZWlPS1VtSnpiN0kwMmVpMVVaaWhPdjdtTThkazdLanljMWtuS0dZZW9GaTVMZE5ObUk5bVBXMWdURnJUWkJDN1hWM0Zmbm5ZUmdwSDdYeE5taU84V0dsamo3bDI4RHRWTVRZVGh0MFVOZFNGc1JXVnBETHVwZnliMWN2aFNqd3cyaFBGeV9nUGM5T0pPemFKeWV6LU1abEdSaTByeG8tSUE3WTQ?oc=5",
+   "published_utc": "2026-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Appoints Alok Kumar to Lead IT Department After ₹25,000 Crore MoU Row",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZGpmb2dOLWN6LWp6UlhfbHBCWUF1V3lMdDZrOEJ4M015N2xBUnFIRjhoclF1QzlQdGxhblh2VXNNVTV5RGhHT0dXb2ZEaVNqQmwzTE5xZVpFaGk5bS1tNF9LYXBCQVh4U05FTnhBREw1UTdQSkJHZEhyenZYNUtTLTFkNk1FTG5WV2tuV0ZiNk1TZEo5cXfSAZsBQVVfeXFMUFNiZUR4dFM5XzhRN05WRzVPaUpEUnRIelBRRVB6RjBxcmcxT0lBNi1ReFpYRGtqX2FKeVRqaDV2RHFWUmdlZmR6S0JqSXZqcDNwMnFjd1ZfdVg4a0prVWRteG9PWHhFTlNUejNnREl2WFFHSHhVcnFkOGhFdWVDOVowY0o3OFdOZWh0dmVJdnFyVDNqcFNaYnA2RXc?oc=5",
+   "published_utc": "2026-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Education Selection Commission adopts zero-tolerance policy, deploys AI surveillance for exams",
+   "source_name": "Education Times",
+   "source_domain": "https://www.educationtimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZWR4Rk5xSzdZRXRMV2Q4Z2pPd0F3a21HMndfc09WWTFZaTNSeWJUSVR2T0VoMFA0WnVQRmcyQTJKMVltZ2dwczExNzZIdVBHbGVyYzZVMHpobTRIZFd6U3RYVEZTSGM1aXNJLVJBMnd2VG5vOWcyZlVpYVFFQUxKSmlyY1lRWDJkUHZCczhWbmJmTTRHRmE2SDZVaUM2Tm9nT0ZvVTlwWlJQQ1VIWGZCc3pIaEtjeFR5Ni1xTlVmQk1HS2k1WXdpTXZXcUxMWmU3T1lNNVhUeWhOMkhuRm91Z0hZS3BnQVph?oc=5",
+   "published_utc": "2026-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh to Develop 8 Data Centre Parks, Attract ₹2 Lakh Crore Investment",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYV9VLS1rT1hpU21YRjZnVXRjQmkxT0w5VnhadmJoaTVXeGVqR0xtUkd2aUVzTWE5d2NhZjYycVlJdzhGSEFwUDA2em41dWFsbUZWa2s2dmRQZzM4cnl2MWtLYVZtNWViQUN0QjUzcnhOdWdTTTB1cTlEdnlqVXhwNmh3TTVWd2QtVUd3Q0FDNUlvUWxLaWdTazFIdHIwXzNjY2hwNUJkZ0JyTDk1OEhzbWJtNVNtVVFiM0ZuTGkwWU8xYnBRY1B5eExBQ21uX2Q1SlNYdzcwWGZMWFppSVZtZ19YQWo3ZFE2Y0RvbHJSTlNLNXE4WUVVZk5nSGkzd9IBgwJBVV95cUxOdllQbVZ6SUluMU1wTFdJQWhWbnBrcmNudjFKUTVOLWlhLWxEdGFGaUIwUHV6VzdLeHpaWG1LVU1xTWhKTDNqQTBfalNOQkEwTkYzUGJrS1VIaS1VV0hWR1Raa2pGNzdVa21qZ290Nk9vMTNwcHBCbzNHU25MaW0tZkx1STRkcWU4cFFtRTA5N01MaWNJcm9kYjBvNzZVSlZCcWpFTzMyckcwdk91MjFOUVF6RDNHQUJHLXNoOUdnRUs1aGVaaFhUbnBhb0otZ2dfUThIZlIyWDJ0QS1OWjZMUlpBdnA3bWRqazg3MzI2V2ZwZDAzU2xwOEZaLUpOc0d3NmdJ?oc=5",
+   "published_utc": "2026-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt plans 8 data centre parks, eyes ₹2 lakh crore investment: Report",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNEE4WENsLWpHSDcxNWgyajV3QnlSUFpJZzBOb0VMWndqZDhLRlppYzJqSi1qblpFME5VcDYxT2t3NURYcU50R0x1NmRSU1N1Z3ppSTZKOHF3UkpyazVtQ2hmSEdoYXJyTW9uRE9UU3Ata1NSTGZxUm1VOVFLSVdWd1VyYjJSdF9RYVgybHQ4QXlObHUyS1ZtQzE3X2x2RU1pcWhMdC10SFI2akEyMXAzemk1VXkzclZ6aDVLcnM5akJRQmJGN3pIZ3lraWNrZ1FWdjZla2dQSTZVS0oy0gHiAUFVX3lxTFBpREZwRVFKNzRQUDI0U3Q2M09MR3hmZ3JXSTIzSkxHZHZTOXc5UmNSc1dheTNGOVNLMnJsN0RnQ0d6R255SUNlcnRTbHN0NVhwREU0TXVjallkajhQYzBZZVZQMFlKMUFvemJmdk04M1lNTURaWnQwcFhsQUptdWZNZDgtR3o4azR0YW0zSldZS2ZhNmhIVEliNDM2TXNFSnNUWHZSZ2NXS0pjdVFTdEZROUdTOFQ2c0s3dXFFQmlCWU12ak8zS1hYbDNLTl9zendEajlGY3pGM3RtNGllRmJwSWc?oc=5",
+   "published_utc": "2026-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh CM launches projects in Agra worth Rs 6,466 crore, says 'Greater Agra' township to come up",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONllXRVBVTWxKcndBeGFucHBoZFYxNk5QVHhFNFVuNUw4djBxWDNsREpLU0Z5U3p4SGxnZVN0UEIzSjc4OXRCeERvQ1ZybF9SZTNFdlFxY1dSb1ZjQkN6bVhEWm9leVhjWENJblg4bjF4ZnlNLW1oM1RVcEI5Z3FfVTFjRVhFdFpzWGhzSXlvcWV5UTNKOW1aNXMwVzREeTFZdnFBUEpxOTlJZUtXMWh1eGxieXNpU1BXR3RKU093czBoaHhFSUpILW9sQkFDbUNIV25YcXNkRG9VVTFUVHNHMmFWTGhmOW1helRjN2F2eGY3YnRuQ3lrLXJZRlQ0ZER5alNPU9IBigJBVV95cUxPS3dEbmhYS1F3NE9XZGw4UFNJZ0o2bnAxVzRWc24ySFEyQ09zcG01M2JSRnhQcTVHRXFJeE5uUHhDY2JsRExTbFRaQjFMd2JxcHBfUE95dnJGTU9FczQxS3JGWXlUTWI1ajlIOWtxQm5vRVN6LWo0RGdUZXlNdlN6bE9OWTdIMDQwaVFoWGRPLTdZTDJXNmxXdmw0Y21hcHJRRkJCUTI3NW1RdndoZ3JBZG0xM29LV3RiQUtiSHZqRjFneHUtcjVOdDFWaHFSYTdsMjZBWDFPS0Ntd3pxOHlINTdUbG11ajA4TDZHRmhhNVB6RDhTSjVIQk1zT1lRcjhzNDZnLW1fNlBvQQ?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Zero tolerance is non-negotiable, we are using AI to stop paper leaks: UPESSC Chairman Prashant Kumar",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSUJzS0lvajIzQVV6SjZJZnYyTFpSXzFZeDZsTlI5dVNGNHFzMUI2ci1aY2dqYVZ3b1d6eUdReDBIODlndmxjRWVzWjZJOE9XdHNZck1XZFFnaUo5c242RHhGV1NMN09zN2NCSS1lOHM3UjIxbmJDekM4RlJhRkdkN1ZQcng1LTRvV1oxY2dUMWFvS2RoYzVCN01XVGZOTnJWYTBWTUFqX05ndmtnU2JvYzJpRXo3cXVTVjFOOXJZeW9DLU9oeTU4MHEyTjJXNm9YMTM1c0VFdnVpQm9HRGFwSmRGdHVTaVVtV0VWWktoUDRlSE05YmNBWkJtanlJcDRDQUZDeU85WnJ1UdIBjgJBVV95cUxOY0ZPQUREWEFOaG9QVG5RR2lKQ2ZRQzZsSHNxT0FjTDYtb3dwandKZnk3Z3lPQmlQUXhkbFpGenhoWHJkSXJmZzZQamh5U2dlR1pGeEdCS1lkd3I5WnRHa2MtWlFla1JPSWdWUGxpQlJtcDJIUjdSVHB3eW5VMk1WZ0hnUk5wVlRQWXNLaEJhQWd4ZF8yT2ViOFBxVm9wclJwMnRrbUh0NUNuajJsU0Z5TWgtaVBRQUhNYnR0M2JOcVd4emhudGZJOTN1WVdZMkl6bHlxYXpYWFR6anN1REpTV3c3YVVJNncyZUg5YUdPOTlreWFFQkozSVNrSE9VVmM3TU1jUDdFVGxYR216WVE?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Yogi Inaugurates First Centre of Excellence in Purvanchal at Gorakhpur with TCS, Focus on AI and Future Tech",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1gyMDdGOG1rQnpwYS1YVGgzWEV6c09YakNVeFAwZDRLMVBERDdCMFJqdmFhdlNHUDFwZDNFUGcxMW40U1VuTC0yVHY5U1B5a3ZYMzh1QXFsNjZaY24tN2h5UlNVSW5jaXR3cmlQVDE0WjY3YnVVa3NGSHBQYTFpWEVFLUpwZGQzTDRqS0NLSDk4cTV2NVI2bXZ2elk?oc=5",
+   "published_utc": "2026-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

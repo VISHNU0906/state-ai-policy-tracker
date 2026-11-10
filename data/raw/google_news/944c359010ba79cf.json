@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh to roll out unified AI dashboard to monitor real-time governance",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTXh4ckZjbWpXOFdzLVBzb0JPNnNndVE5UTcydS16R0JHdDVZN21CSkRfM1FnbDcyVWxhOGlKZ0JQVnhlSUN1OC13MkloNnVPQVV3N2dicXcxNDNNRE1PWC1nZzRQa1NjX0pDT2Y2SU1aQ052TTR1bHNMRDRZd1A0NjFkZnFySHE3YVd1QlBYUzFKblpNYzN4MGVmRHBTWndiUWh3U1NYeElqMklWVjNOSVJBSTZxRHVJZENJc2JFWHoxWXI5TUc4WWlSMWMtMlNRYm1NUzAzV1hYcDIzUFhqS0dpSEFZcU040gHvAUFVX3lxTE56YVdSOGNVeDB3QXJNRjZRcFJheGsyV1VUNDRVMkdJRi1QWlB5amwtWU9OcDRTVG4wQS12VTFzTXpwcHp0MVUzQUNGTVZPbFljS1h4R0lMbVJqbU1PbWlMUXFGMnhSaE9ybGF4UU05S2pRQV93cWdpMlhZVmUyREZiTzJkT05WSy03NHNoZFRnVkkwWmVpU0wwTEFEM09sS2h2SjNjNi16V2VOejlLRzI4Q2Z1SzJ4MWgyUTZ4SjJrUk5PMVVfTlNmUjlPSlpwemJHTEs5czdWYjZWWlhhZGNPRHFQcVJ1WE9sYThMYWdv?oc=5",
+   "published_utc": "2026-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Powered Spatial Governance The Andhra Pradesh Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmdhcDZBMVd1Ti1JSW5HSUJrWV90SGl2T2xjOERLSXg4OEVQLUpDLW5DRi1TbmlQOFlTU2JhbjBhQ0Y2Y0llbWY2VlZTd1ZKeHFkMEI1aHhVUGJTS2VULVZLSG1IRXNnVzI2ekNkUUtlU0pfTHQ2cjZtQUljUHhvSUJRQ0pPT2pUMXpkY3c4a1JJMTVvQ0FJ?oc=5",
+   "published_utc": "2026-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-guided OCT stent implant performed in Andhra hospital",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1lEQXo2SnJOb05VUDhLU19FXzFjcThxZGg1c0lxdXl3NkhNVUZaMjRFUm1hVVZtdVZreWlScGVFemhONUR5ODNIQUVmUzZDUzIxcUxNOTZFTmRGeENZc0hRMXptZng5Q0d5TVRLMVM5OGtsZ0tmc3BLSjhCN0tfand5LUpiMmUydEFvcE1KbnpENnFIRFRwOFYxVXZnT3psUnkxYi1NVjRUTUgtWXdqMGtJaVZyeVJ1cFZiZnBLOFfSAc4BQVVfeXFMT3VzRExkTklneU1uZWF2RXJvSzdTQU1vWGdGT1ZzR1BoS3ZpejN6UjRDdzFNWEsyRHBJSjFReWxjYzlvVmdJOGxNWHBEWV9LSFdTMmRyWHc1ZzFoa3NyUXF1SU1hNTlhSzBteDc4VHY3TjktNWJEWmUxcXZLeU9OSllpMzEwN1JEcHZWdjZLM1lpWW9tTkY4UVBaX2ItMU00Q25tVzd1dTRHRW9hbGRFVDh0dUZkZWpqVjJqbmdyZEhNemMtWmI4bWJubEJIV3c?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta Restricts Viral Reel About Google AI Data Center Project in AP",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEtLY045RFhWZ2hJMFZWM2JxVXRKdTEzS2wyWW5GUklMQWxQRE9GSU51MmloZlYzVTNZQzhpcExKV1pVbExHZkZnam5EbFNqcUU0Y2xERDNLS1pWQ0hkUEI1cWpuamlHRHBIdTdNY3g2czFnT2ZDamV3OXp6ejd4SC1OYnpRdU5HWU9NT1ZNYWpBeXprLTJkZWx2dUJVMDRVZkNJYWp6S2l3STJ3elIyU3dEakxkVzdGNFBUTHc1NlV5UDRsOEo0?oc=5",
+   "published_utc": "2026-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Data Centres Are Displacing Dalit Communities From Their Land",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUZwZFJCSDRON1ljLVRZbU9FdW5qOGZNUXJGTGVSWERVV1dpUGlhdUlxTmRwa2ZtbVYwS2szZTVPcE5yTFU0MDlKWTVjU1NTcXVpOGN3Q1VSNU4yQnhFb3A1VzYtcnEzVTNWLVFRenR0c1B5NGxTTEl4aldScmJRcHZ2MU8xSjdWQmkzenc3TXUyZ01EM3ZteEdRRDNyeFhvRlHSAacBQVVfeXFMTUJzenk3QVVjajRvU0JUWTdlS19TY1dYMGJvRkxDRmpMbXRzS2VoallYeU1rYzk0TDlfNDJGTmFVaVZ3Y3E1d1Ixb0VQQV81MlhCbzNpQlMybGFweGVFUFBvMUhUVTJjWmNfM01McEY3dG9pYW05OUJXcFBPYkc0UEMtTG5Ba3ZpUmlIOEhGZ1gzUVF2VGNNaDIyNi16cHNiVFBZZFdVcWM?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh investment approvals include Reliance Industries AI data centre in Visakhapatnam",
+   "source_name": "Goodreturns",
+   "source_domain": "https://www.goodreturns.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2dGV2N3X3FpWXllcVR2c0NTZUFRYk41akZFdE1keGZRejRUaXRJbXdsNV9wZ0NMSmFlb2NGRWJ5cTVVMlkzTnVTZEFfUTljLXI3YnBObHZWOEN5aUJ4Q0l3Z0taNmtBa183YXZrUHZveEIzUGFGMXJkSGdQMlZpM2tZaW95Y1U4azl2aUFJVUVfc2lUZ1NJOW9PMUxaXy15d2FXZlJTQURXTkVIOFI3ZTZ1dkVaUkVIOWVJUU9LNkVTZw?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NUS-ISS and CII forge strategic partnership to advance AI governance and digital leadership in India",
+   "source_name": "NUS - National University of Singapore",
+   "source_domain": "https://news.nus.edu.sg",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOC1meW1Pd0dJMG1lb2dYdE5vT3FUZmNweUZFOXVEcVNZV2dBRFJxRnk5UEpIOVdETFBhNGxmQlR6S0prQmVPYWJSc1pGVjRfQm1oNUNWRXVGZ3JjRW5qMUJlS293WTBXMFJtQmhCQ0M3MEVVOUpXbEVCNzZDbklPZTNqYmJHcktVVnlqd1Q1VktZRlEzeVRNb1Z6Q3NXeC1NdElpVXV5WUVDNEloR1k2SmxmUGpNdWhzbS1VaEVraF9PRkE?oc=5",
+   "published_utc": "2026-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra data centre push a lesson for rest of India",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ19VYVFNWEp5d0M1azJ2VjFsblVITmtOZjQ3ak5pdktMX0U0bUZ4dTR2Mnd3azVtNEVmTzROSi02NEhXNjh3dFZzVk56ZHJIODJvR2Zpb25hT3pxQUlFNExaWjhtQWttaXBzNXJFbjRxN2RPZWFzYmRkYk8ydERnYXAxanppY0dZaWFTYkFmYWxGamo0MGFZMjRmcVhtRlY5VVJQZGNrRUPSAbYBQVVfeXFMUHZKYkxXQ3JrSGU4eW5VdDRPUWxsaXR3MVZyS1BXZTM4WUlkN0VQUGxVbWdtcVJ3blhZMnE1UDFSU3pyUXhaU2lnN0R4UURjengtUERaRC1pcHBCSnZVUDhnZ1NuYi1rUkRxOUFzb1FtRVhzdUFmcjUwX0hpblBuS1VwSjJ1cHdsTUVQOXlubzRIZVFaS3ptc3hCbWRvWllqdHliSFQ5cVlYNnpFMDdLUmNXQWJxcWc?oc=5",
+   "published_utc": "2026-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "855 acres allotted to Reliance Data Centre in Andhra",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVVEak5vS25fcGltcTl6dlBwM2hSWUJyNU9aYVlXUU44a2JLVDBWWFJkaEw2cEYzTDVZaXJ3ZGpvVjBvdFFUM1E1UWpZSlAxYUdVVXRlNXZxVVo4UzVwWHpqYkFpM1ZEQ2VvaFZRWUlNMGp2Vk1vc0d4OWRVYlZ3M0hHSERPRnZ6LXB3RFc2QUVxVmFONzlPcnFGNmtIWGREdDl3YlBkOHhXblVvV0RQUGVXZmM2aEJHWHJr0gHIAUFVX3lxTE5UczdFT1Z2Y2piRTRhdUhfcHRpVW5Zck5Sa09ua0dWLUNNcHdSYnl2cnR1c1hnTXNRVFZJVTIxZ0hYR2s5WkxDclZ2LU1JbmJ0UTlyU0pGWVNOTGIyV2VNVzV5XzZyekFDSXJ1NHBtRjF5QWthS3l3NGw4N1NjVUlVbEcxM2JGMUNuaF9mLVdfVlFUcERyNDZfcHBIbzdyb1BmYzY3SktnalJDalBqYzJUQVJ2UXJ3enZmRFNLS2VUSHpPSkNzV1E2?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

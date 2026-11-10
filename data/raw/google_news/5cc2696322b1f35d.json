@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Karnataka readies green data centre policy, eyes 1 GW expansion with sustainability incentives",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdUpEanNYRC1kVnRJNHA1ZUx1LUN1VDlZQjVPb2NWZjA1a2l0NWNVdi1OODcybnVsWEFNbmk5dV93RlpQMTNQenB6em92blJIZTUtcEJ0V3p1UVI1Q2FoUjZzaGpFOFpialRzcmxxTGU2VDk5bjNXTkRwQWNZcDlGV1ZhbFlkNTNWWXJ4akE3NTJGcHMyLV80OElfRG1aQVNJUHhuaEk2aFNoREprYUxGMkI2NjlnaVdVdWJ2aHZKU1pkNVVIZWg1SjhLcFVjYloxczQ4UkxjRW1wSDNfVlYxOGVMMnpfNDMtS21xOWM0S1BtNGxY0gH4AUFVX3lxTFBYVGo0ZTQ1UVktNHpBUUZndm9qU2NSaVRIYnlZMmRNUV8xMGZPMGc4NVQ3MFY3QzFMRGh4eWluSi1hTVJKcVlIaWRZNW1iQWlZRHlZWl8wMFZxYm5BalNtaDBQa3VTUmNPR2dnMnlpUnljTDNjcFJIVkk3dWlMMUN3cGRpX29RMmxKS2E2RlNVUW1jOGdwakVlUWQwa21TeDhycWFISUt5cTR5a0tFaU5oeDIxcG0wdWFJc2cxMGhGUS12cThOVTZkY1BqcHFqZ05Jek5DRU1vcnhwa0Q1U2RfV3gwMmZjODJmLWxQcEtiQlpsdjBTeUJf?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State Data Centre to be temporarily halted for 2 days: Karnataka minister Priyank Kharge",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblpSd3c1cmNzM0lqOUlIUXRaeUcybGw4ZjA5TUxwcFd4S1UxVFZmRS04UXRvdmxsUzg5aWtLRmRJaGRhVWgtRzN4eFpIZ0h4ODFlMGluTXE0WkxKUXdsMzJFQ0VadHpseXVQbTBfbXBqTGtyZjBRVERYRlVVZ1QwUHlTand2Y0t6VXB5czJKMUJYLVYxRkJWQ3hYWk1mQVVOMUN0ZUJzOU5mSnVlUjd2SXpIb2wtclV6TWZXLUlweFZmVVgxUThuclpiWEFFUXdFYk0zZk5JUQ?oc=5",
+   "published_utc": "2026-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "KSDC’s 24-hour shutdown on June 25 to hit online services",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUxtNmVEZFl2MlBTeWtERlpTOEtMVEo2YUZDempZRGx3LS1RVmp3bWpuaC1wVUhuZFJrdVIxMl8yOF85Z3hBQ2Vpa19sNlFNZTN3SzhIeWxWV2xVNVhCRF9kR1czWUJxbUlOdDFjdDM4aXExaFF6S1Jvdk1KUktreUFYWWJIZEtrV1plckwyQzVyX015OFByTEJfbW9IVE9JRzZEZXdERXpCQjF6MG1JQnlCYUZjWVNNTnfSAccBQVVfeXFMT29vYURtVVhENE40MzVNd3QteGVYbHVkcWpwaThvbko5amVQYmRhWUlLOE9NMHAzZWN1OUJ3cmJWUEc3cTdCUVdOaGlUaGo3THd6NkZFWDZkdl9ZZTQzUHZ4X01wOWV5b0xVUEpMTzhjanl6ZDNQa1FoYTFSb0RFVm1naHB5SE95RkJsSEp5RXFlWHlabjVEYkJvRHN6cHJualVrVGw4MVdVTnhhV01Sb0N1TW44Qm0wclQzeFVoMTczV1F5U3czMA?oc=5",
+   "published_utc": "2026-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt websites to go offline for 24 hours over data centre upgrade",
+   "source_name": "The Federal",
+   "source_domain": "https://thefederal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOellwUlljU0Q3cmNTZmFTODNFNUN6TjFsT0RkSTJFZTZ1aFJBQTVwQkJXdnpkcnA1cEdqQ3RfQ0VZaktSN193bUdhRW5SYmt3UGFSY1p6allDZ2gwRkw5SGdGZktTOXdmS3BTTFJrWjhJUTdnUy1UeUJwdGphNmdLOC1hdGVEckpZbVpxNDJaQmpZQlZRRzVNNkR5V1ZScE9vNHF3UVJzc0tkSmlEWklrQVZn?oc=5",
+   "published_utc": "2026-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka State Data Centre to remain shut for 2 days: Kharge",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTg3bkJ0MnE4OVA0cDhIZHpnNDRzb29meWZtYUJTVDg0ampCaENlcnp5TUlzMF9BUnR0Nm53QVI0YlIzc282SHljaWhnQXRRbGNaZHMwRVlUbTZfMWNCSFFFZ1RHTVNwUDJIdUo1Nks5UTlVVElSdU1lYmZHN2liT1lpWWx4U3ZqVVJ2Y1N3akV4dy1TTlZ5bFhRd3RNdENYeFBNclg5ZDFNWklpVDAtcmNMMGU3cEIxYm9GaV8xYlNrc09mRjJCYV9SUUoxYmxsUG5WM3RTVGJsM2x2?oc=5",
+   "published_utc": "2026-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | Protests In Karnataka's Bidadi After Government Proposes To Cut Trees For ‘AI City’ Project",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2ZuekhPekNuR29ldnlDbG5TRmFpTVBxX0QxY3NqLTVmWkFtNWlGMTB2d2NFalJsM0t5a2s2TUVOWWFHTWZOaFIwdW5ZQ0gyWXJHU0ZFVmhVTHlKc0JIZndQMGpiTjJ1UWVaOGZsYlZ0VGxXZEJrU0p2NWRhczhQUEFmd19wQm1LNmYxYlcxVmdCUFUxeGVmYXZGaGszeGVwTGdadXVIT3FOS3p0TWp3T0hsSlpma245bGc0U2dmZEpaQQ?oc=5",
+   "published_utc": "2026-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stir over Karnataka's AI city grows amid land acquisition concerns",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3puVnFHRkF4RE5MdFE2VG1wWW9GOXJWbm8xQlU1bi02SWxzM3pfdHcydmFBbnNMNHRCeXlNaTdtRXduSmxnVUlIb1V3aVZ2OUVJcllReFRWZGl5TkV3NF9kdEtVQk91blRteU1EYjJYQ3d2NUlETDJJaUVrYWZvUWlENHExdldVbEo5TUpRTk5RUm9xMjVqcE1vd3R1NkVtbURsTFpvdFB4R2xlUWxxMkkydl9uQ2kxeksyNi1VQlpQZFdRa1FXMy02VmI0NWtxYktENzV30gHbAUFVX3lxTE92YThtSzRHQWpwdlNQb3JGZkNWLW0zME52aTFPdGhyODlRV3R4M1VhM1FuSkhjR0cxbnRVQzh4T0lyRHFuUmtEdWpERkF5UERzdFpjZG05T1lQd08zZ0FIT0FnYmhuSmgxbmlUTzJaUXU5Y1lVYkVVOXIwVzBFUTE1a19JLUVLVWxqMXNsNGR5aW1IakdzS1NKT3k5U3F1djZRVkp5TF9jUmlnbDhOZU5hX3Rjb3ZFMHlfcm9DckZwTWJJM1V2WVZ4Rlc1SjdDTktOODV5LXJuV0xGZw?oc=5",
+   "published_utc": "2026-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ground Report: Bidadi farmers resist AI city land acquisition after years under red zone",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSGlFSGMwdDdTakwwWkhwRl9jRDhNVS1qQUZNZURjUzVzeFU1RXJRd1dETkx1VF9lTVdiczNFWERLXzZJcFRsNUctUzdWTnNwM0VlVHR6aWUyUVkzNElia2piTDkycUhQd2dEdWhOTC16VEJmck4xaUREc2U2WnpQM3BiZllLX3F2TWN6RDBMVU5pQkRZSmZYX09PeTNfdDYwZHQyejlPVl9xNk9jcHo1WmVDaHdZbjRMRE1wdDV1bElEVjcwaUHSAdMBQVVfeXFMT0o5cHRrMl85RWFoSnVvSmd0M0UtNE9NOU9TdWQ5QzlvMzFMaVZ1bW9Sb0h5dUZXNEdpRzJmeE53aGN0RV9WVTlXT0E0QWh1ekF1OURyeGt3TzQ4WXhoTUFuMW1aNzM3dVhUMUI3bHdsNDNNcjVJTG9SLVJDeXQwZmhpN3hpNUVvdkIyaDBVZk1uaFloMGdQajViU3Vzem9fMWpZRnE5VzVldHZqYVc5cERqLU1udXFPNGE1OEQ5LWRWRUR5UXo3MmFpMkp6aWo3bVBrUQ?oc=5",
+   "published_utc": "2026-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka's Bidadi AI City is already a land test before it is a tech test",
+   "source_name": "Startup Fortune",
+   "source_domain": "https://startupfortune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNU9NaG1kTEZPZWJUN2M3N2c2MU04SG9TMjBITmU5a3V2MmRzYVpudndlMjV1RnV4M29DcUJidjhUanNZakdXeDV2OVc1T0xid21yOU4yNkE0bllOc0o0STN5bzIyTlZVYmpVaUw4WDhGZUZaeGRRdmFGSWd0NzJmWGs4N0VXdEhjZ0lkLXFVVTd5ZDRnVE05SFhTVHZJd0c0dHNn?oc=5",
+   "published_utc": "2026-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bidadi AI City: Karnataka's ambitious township project — and controversy around it",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQekxtWEN1UnVmUkp4cFBvMVdyRGoyMzZXWGdoNnhYWTA4MEFzaF9VZldoeV9adzJSb2NmVmZDV1NWSU5wZ0RjQk1JLUhxZE1DZGhoMk5iSDdfcjBPeW1YbFBaR0dIdnVQajQyeDBTXzkzWFA0RVhlZnNROTA4aWNvMkMyMTU2elAta2s5U2Y2akhrbHE0RGFib2FCVHc2UlRnb0VFLUxIX2RWTHFfSlhPNW5GZ0hTcVJhc01tWkFPNVpZLTVGQW00dUJiQ0lRWHZVRExUSnc0TE93ZTFGNDhN0gHkAUFVX3lxTE01TExGVnl3MGxzWXpJQkpEbFdaZENsc1pELVp6Tlo0bjlOZ25CR0tYQnVoYzZOUmxmaXNCRC04czU0MjZMUXhEY2MxbjBWbjZBU29tYkI4cFlDcGNTUW4zRU1CQ2Q4Z3hVMzdPcUFQLURhS09hdnJtbzQ0TlgyRjgtallYYjNlalVremN3YXlCRW9wODdCM3d1NGg4djIyam04Y3ktLTNSYkxPNG55VXZlNEJIdVVycldoZGE5TWg0ZkFPc0VWM1FUX1kyOWVQN291YzA0eXdfbExoNG82QkZXQW5pbA?oc=5",
+   "published_utc": "2026-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

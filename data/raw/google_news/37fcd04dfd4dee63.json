@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Andhra’s Data Centre Drive Sparks Transparency Debate",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3JQUjJEZU1IdXZHLXQ2SjktYnFtMVIwOThMaE1CU2FBTE1rLWs1T2FDYVZsTzZ4V2NtSkRXS0JIeW4yMElhYkpfVG1nX2F4Mm9JNG9RNGNWQTU1cGVDaGlwSE5XRVV3ZEFJVy1vR2U5Rm1FMmEtdlFmSHFxSGpfT29xTmtkdjFNWkxvbzFQTDU3R2JqRWdWU1JrZU9tU25RbGxWZ0tYUnVZZTFNYmpzVUFTQTQtV29zNzAtdlVId3gtbzR3M21WVUN3akXSAdMBQVVfeXFMTjZWWWJYdVRJZVp3NlhQOW9RN0gzOTNRTzRZX1lPUUZxcTFNRmlza2JHSTNSaHRMNTFwTUFxNE1OQVl0OWdTS0FEdjJoTUhMeFFHcGQ2T3dBSm5SVDdraHhtU1ZPS1pSQm55LUFLREx0V1MtZlc2Z2tZcVlVa3N3bkhnbE02a3NxUUkwWjM1VnhpbnNoYS15SkRYajYySkstTmZoMUI5eFNreE5IWE1DX3RsMWpGN05vOUFvOHdTWUxxZFBKVkhJbHdZSmtJSmdnVVlKaw?oc=5",
+   "published_utc": "2026-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra government to launch AI Tutor soon to boost learning",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWhDUENWd2dlc2FwbHZsMERkbHBObzhxWWk4T3c3VFBMRFFNRHkxWnVMSFpyNzhLRDZ1VDZnYklWMDFIbXBhQ3Nqbk1UTkFTeS15UjJKaTYydndodXJkWU1HanFDY1BHLVF3QXdPRHVFcUFXdUJwQ1FKdXNYbzZOSzNNLTl0NWd0NWUzemd0SjJOdlRqSzdaYjZfLXh5dGZfV0FmRHl6OFptT1lyclBYTmhtUURRMTJsTkh4ZWp2VdIBzAFBVV95cUxNU2R6ZGx0c3RmNG9Ock53alNrQ3RzT0lDbUV0azQwNWp0YWkxRWJ2THYxRTZxOFZqbENHZllXVUhMS0Y2OVZESVgyQldPaEZZb1ZUelNCRGNRM0w2VDR0TWxyZ2pxUnJGRmt6QmVkMk5YVHRpYkUzc2RXSFowNlMyVVNpNlRjQ0lsTUY2V0owZkJZRno1MjJpYzVjWFBYU0pvUVJEM0o0RkVyVHFBYXBtamZJb0pWTThFajBfVnZhNC1YRXhtTWxlTHZTRFI?oc=5",
+   "published_utc": "2026-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Chief Minister meets Singapore PM, seeks cooperation in semiconductors, AI",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRzV0aGRhTHVOMUJERDhLVWN6NEEwUmlMOGNRbVJaS1l0a1l1bGNmT1NPclpRWTRKdEpQR05TZmJCcGZGcXJ3TUQ3endzc3E4eExFck5ULS1ESVg3OVQtRDJnUG9mLUs0OXc0OHFKelRObVYzVHpIOUo3YWpNdmEydjgzX0p0NlJPZzZBYmhhT3NTUlZ3S09nOWlKcXBRSkpFQk84YUQ0UkhWQUVRalFnRGNnOEtZdkdwTVUwY3RlN0lEY1hCRjhOZHNYRnMwWElOWFlmUzBKZktxLThyVDFnQ01lYlBQQ1NiQXM2MXdOa21NbnJuM2lxbjA5elhoMWVPWkNVNFFRONIBjAJBVV95cUxPdXdvbWh3WGgybFpzMVYtMVpuTkVEMmphRFVQS3BtNEdwRzY4TElpLUFrRWtxZmd5ajRhMllBX0ZKLTM3dmVUQmJBczZJdUUyME9mOVhoZVdTY2hucFlHdFNKd2pWWFFsTmhFeWdobkQ3OHlnaDFMbjdRZ0hUVXI3ZC1zeUlzSGNIeEo2ODQ5YVF2cE9CQ3NLX3FSMDBINnY1LXIxMjVscEYxMGM1X21UYU5VcW1BVFVLYXIxcTNuQTVUOS1TVVN6aFdoU3p5MEI1S3Fxa3I4THFGV19mTEdZcDVva1ZBRFg5bS14cUFYX0Y0NGRmRFhlbmFfVUxtX0ttX2VYLWluSmVtUTZB?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to launch Amaravati quantum and AI innovation centre",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbTNzQ0Fsc01LZ2ZsQ1paekl6QzBEWlFyWVl1SktFSmFUZEpQNE5JRWtjYzctR18zLUVCaGdjaE9OV0ZJaWNITzJveXloVng1dUNTNXlTS09oNGQxTTJ5d3ZXOFY4ZnVjc1VwWWlUOC1CRGhyNDMtLWJITURXUVlrY2xHR0RYMnBUVDRLbXptODZTdmdIRi1vQlY2WXNjZzltZHY4dHV2NkxSV3ZtQU5RU0ltTVR4eVVPcW93djBmUVRQWW4xWVluVGE3RFBMR3dBTENOdHN0S2VIVHdzYnJnRC1B0gHnAUFVX3lxTE5TNlFoanVUU29SUEFUcFVGY2xyYi1ibk4zYy1mM2g0R0xYRU5iT3J1RmV3QzUwOWMySm5BcjRXSGhid3VHdkNzSUNvZmdqeGhxWUJ1ZnhINEM0QVhFNFpjUFo1QkRUZ05IelgwbkNEQ0xkYWRPa19NUU1qNEdqSlJSYzBVOUl3ZXdZWm0zazE4S2dNbDVvVnBWUTFRbFRjYXNBOTMyOUZ2Y2JXQ0ZmQzlmMjZzaHdVbDBocGtpNXZFNEswNU43djBIbWxzSDlhNU5YenpUZXVHaWptTE1rb0lYaGNreXVtWQ?oc=5",
+   "published_utc": "2026-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Giant data centre over land belonging to Dalits sparking protests in Andhra Pradesh",
+   "source_name": "The Business Standard",
+   "source_domain": "https://www.tbsnews.net",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXFHdS1BRUN5TVZTY044LXd3QU5GTUVHU0tVUlJCeXN5STRDaWhaWFk3QnpPUkJwRjVxNzEwbDh1OG14MEVER1VGNlRlcDhTbEtPaldLeWVqblJCOS12V2FQQV9fWnpETmpMY2RISXFDS2lyNGhrWnRtTzBEaWVyUndHSzRjR3VFcTlyMlRiUm1UNHV1RENiYVQxTU5LdWR4OUdGS1pibzlDci1UN0lFNmpIc3NCNE9pVkE?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP to join hands with Google in AI and digital governance projects | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTN1N0VkODg1YThscEFFNTRuZjVrVzhMLThjUFR3djVVZmVhUkJ3c1E1bjdDYjlaM0hxbTlxLUdxTlZVcnNZd2ZGZ2U5NFVzZU1nOGliQWd2ZldQcUxmU0cxNU9Oc1Fud3Y5enVlVTJvSHcybE9OZk1fOXRFZTFJTFFLQ1hkc2Vwam9ueEtYTTk1NjdZbEwyLV94U194ZlhFTE1Nc1JYVHcxUWVZejFxLVJYNzJ5VHN4Y2lCc0NNNXkzVzl0VHN1ctIBzgFBVV95cUxNRlViU3FPRVQ3cUx3YlpSZUJnZzVvcjFBbk5FMTkzbnhSZHlYdFpRek9OSko3eFNHbURaT3J1cURORHNzLUVNOW11cVV2SVJkWlRoYmN4c0pwc3djb1ZDbVJTQlVFSGl6NDZYTTFSbTBQbjRpLTQ0Um94OGdKS29hSlBtUUxlYmdhdFdBTzZPWXYxWU4yeDBNbXJmc0psbGJyX2FuMFU0aWpnSEZ5SjhPdTR2a2sxenFuR3Y2RGdFU0VzaWU2LXRWOTA5cXVGUQ?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nara Lokesh Meets Sberbank VP: AI & Tech Ties for Andhra Pradesh",
+   "source_name": "Rediff MoneyWiz",
+   "source_domain": "https://money.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUjRJOFRQY1ZZeXNydm4ta1Z5aE9tX3VKYTNiNXpJaVB0eHFabW9mTkd3RTVfOWZ4d0pwZFBmemcxcWpaZk5sYmtEUHRleXBWZC04MTlLSkdZZzQ4MWQxZDdBWGkxa3hwZnNGSUhncTFSSzI4djdRWXlUbktGcHpqUkpkSEtrVERBLVNSYldVaFdnQzNIUDVaam5ONnNuaENNYlJJY3JjOXFEc3JIdldNc1ZURdIBuAFBVV95cUxNOXlDbnhsOHdIOEp5RkVBT1p5V2ViREl4b1VSQlBFSW5CQnZfcXdzQzBjc2tyb0lwS1JocmhLVW9ZLWJvMHlGQUtzX0ExcnBobkNieWN3MXplVE1XSU4zV0dGS01SWVFKQmxzbHZYdWdYTnVnenl0MWh6VC1ibzZ3Z0NNRmhtWmJKLXBubmpaQ0xYYkduR0dvcHNCOXhlaU9HaTNPdnBUSUIwVlNHR3dxTjF3V01xX05N?oc=5",
+   "published_utc": "2026-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra is emerging leader in AI: Nara Lokesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODJCeWhZSzRnMnkxSHFNeFBUY3phZ1BPMVNwbjY1OVpFb1haZExxcHhtR3FyclRnX1JCb1NxbTdydXN1RFp4ank5RG9Fak1yUzdsTkgzem16aTRJajJOOU0zZnRKWVpSQ1p2OUZfWTVfX25HeUoxV042RTVYOEQxd1JjdU5tS2JYVWxZV3pubHpScm5MWm1qOWxXeVpwQ2FTUHk3ZHRGQmFiSy1GZlRF0gG8AUFVX3lxTE1wZnNfZzdGdkpXQ3ZyYzA1R0x0X0Q2aFpvTlBaN1JGUzJrRWZ6bl9rT1U5V1lYbWQzcDVnYmN4OTl5UHJMa1RqQm8wNUE5emE0Wm1nb29FU0F2djRZb2Q1Wl90OWxtSE1KdlM5X0tFYWpMc0xlOG9UelY5Qm9Xcmw4WGFjVUZTVUgzVlRTRzJqa28wTDBab3MzQTFtemRYc2gtUXh5Z2xKVUVYelpUZlcySEZkRWcza0IwQTJn?oc=5",
+   "published_utc": "2026-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Focus on attendance & learning in schools’: Minister Nara Lokesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXlLVFJnZGZTYUNsbXJqUnRmeHRvQVpFN1VUNmUwZ0p3M2tJdlpiOFpEV1BpOWVSWEVLbndkaGJXdGxoV0hmZTJwcXc1b3N5M1ZqVnFuR2h5N0ZrcnVBZGxaWEpqekRQNDVFUnBVcTZYSDZpOWNPWUYweDB4UWp6b3lQSmMxdllkd1gxOFA3U3d4dFVMblRFdmJzWjZmeDBWTEpmOXBiU2F0YjNXMHdkMjM0STV3MWt5T3NUUEZrZmtWZnozRHfSAdMBQVVfeXFMUG9Oa0tEekFNNkFGWkhfT0o1Vi1KZFg5LUlTdnJ0Yk5WVjZEZHJibFdYNUR0QkxBbmIyX196dzJmQmplZ21vZVdlM1NvRjlZWWNrMm9BQzc5TUlKc2VlTF91QnpwVjk2Qk5uZWZ5VzIzWjhGOWpOeE1VV3RKbFJNVkJXUGx4TzZpTmxQcnlReWxHWG9BNnkxYmZpb1p1eGJYbEQ3a0dEbGZObEkxdFBjYnJlWGlEcndwQ2o5eGVDWmkwbWtLSFhQeWk4R09sVTVkcVZKaw?oc=5",
+   "published_utc": "2026-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP launches AI-based pilot to detect diabetic retinopathy in government hospitals",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTWRCaV8wUXY3ZjN6TE13TmpxOUdhLXN3OXNYclhmRldVMWwzajgzY2VCdHNKS0JpY213eU9TTHUtNGJDek5RREJ5cEZoSVRzTnVRbzc3aFhXLXdKbi1VeU1pbUdyclhGMVRMOG1mRUhtNGgzRFpQTGZHbF9kOUY4RUs1SXQtOEJWRnB6amdkNUkzTGw3NENxTnlvcThUZklzbk9yRnBxcF9uOUhhQ18yUGQ0Ry1wLWZhX3hTSGptVWZmcklxTGZ1R3k1N2xPRFRfN3Nhc0xhaVh2YVBvbEFhWHF30gHvAUFVX3lxTE5vOFVCbEQtUWlVVDBiR3VSeEN2VnV3enFXMGtUYlh3OG1lWVpLbV9HTThER29TNzZWRDdCSnlCUXFVRTZyNHNlNzlodGhkQU1QcGlfVnJsc1NXeUU1V3dlZEI1eHF2S01KS0R1ZC1LQkZTcDhqdzlGWU5Ha2hwcDB5bXExbnFsNWZqeDVJdnczQzgxU0RORldMRXRzalpfZmxDbm55N0hBWk9DTGJTRUlwZXZ3UloyQ0Z6ZGgydlRvWl82TnFvQmIxeGd2X2tDaWx1QW9KcjR2NGZWYUpzUTgzV0cxdWhGeG1XX1BnWEMw?oc=5",
+   "published_utc": "2026-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

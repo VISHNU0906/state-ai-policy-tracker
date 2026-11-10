@@ -1,0 +1,53 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-11-01 before:2026-11-11",
+ "items": [
+  {
+   "title": "TN govt joins hands with IIT Madras to create AI Data Centre for the state",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOE1LeTJFNzRDR3FEWUNoOXpBUTdIend4Q1o0OGsxQ3QwNzBlQkNzbnhLa1hTcmRfTkFXSFZULTNSZHdkMlZsVUhJeWl4NUZTaFhyOFh6cFJjdlBGeVNHOG1aVnBtWWlfMTNMZXVsUlhHRmRIWklscGFiVE15UTZlUHdoUUpPc3lWZkpUQm5jRnVVX0N6bVplbEVjX2ltYXhUSVdhSkpfbXExUUV6WElyY2RSQXk5b3JBdEZ0TUpJTERHZURud3ZaUElQOWRRMWRNc2hrRXJGZ1dmYUlZLWfSAeQBQVVfeXFMT3FxcUZmNkhiLW5oSHRYV2gyUmJSbW54eEFnc1BlYm1wS194QkZlUy1iV0VFeTRtbVRKMk94TGR5bjBHVHpqOXlma1gxbjhHUDlsYkM1ZVAydmtVRDZ6d2l3T2k3UHpfQmhibzFtWmhFQUJpRVJDcFRBOWtaSlFGVmVhUGhkSkpqSFlEM2ZvS2VCa3FFZDBfUnN6SG9Sd180dWxHa255aXVBVFYwdlZxbUxUbDF1NExndkR0bVZGR3VHRkEwOENIREpVOFF2bjFxZklfVktqaGJZcy03cDRsUDBHbndl?oc=5",
+   "published_utc": "2026-11-05T16:08:46+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "WBSEDCL seeks two-year AC maintenance contract for Newtown data centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWxRbThnbVE3dW82YkhYb0lVa0lKWmV2Mlo5Z01UTTV5V09KTVM3LThSeHpZb1FRN1B1RnAtbkZPeDU4U0lTRFhSdTNLSFEzdUUzZzJyYldpM2d6SmEwVHNSc2NuWWdZTk1RWEhjSndkSGlMYXRzbWNwU3BJZHdMSkVWbmhfemR3dl8wZ05ZWjk4RHAzY3dkU2QwdXBCNDRuMVc3QlI2amFaXzF1?oc=5",
+   "published_utc": "2026-11-04T15:53:10+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Rs 1,614 crore Korean investment was never ours’: TN government denies losing out to AP",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjZGcldlMGtyYzlzRkxINVdUNWxmRmR2NF9xLTE2UzB2M1hETEZJV2k1MHU0NE5iRlBLYzl5T1VLTHB4a1FTOG1LcjZsdmRMTHA0THJsV25kVXJCY0RtS1NBQ0xkMjYwZEZhOGNSUkcwLXlZWFotcDhOU2lRZVRVcGsxLWYwd1ltUkliOEFEeDF0NUdGTzFvLTk5Q3hVSTcxVnNfRWZvY1BQazY4TUJBdWU5WktoblRfVk0xd3NTc1k1c0MxMFc2eEVkOFlEYzNfY2E1T0JiYWpiTV9Ea09IctIB7gFBVV95cUxOOUcxVU1jaWNKSG9QX3Nzc1RCaXlBcnNQWEYwc3h6UUtQdVpzMmRyUXNYTnZWTkdaNVJfYnVpMVpaOTloMWtQQTNqb0FyR3NsYTNSV1BoV0pJbTNsYUNubi1HLXYwR1Nvd2ZDVGZpbURrZWR0TXdYODM1cE5FdXVsRGZ6d2kxdUQtYm5waDBLTzAySTBHSkl3SmNYbTVyMWRvdzdCckc5anI1b0c5V3N0Y3RvM0h4ckZ4WXdNbC1jZUczb2NseWxBakg1akFmRE5tWnE4RTBxSDFqV1JGaHhLaXdHc0NvemFvU3lWcUxn?oc=5",
+   "published_utc": "2026-11-04T02:03:03+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data centre biz: What’s in it for India?",
+   "source_name": "TradingView",
+   "source_domain": "https://www.tradingview.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXoxa01tUDI4a1hQTjBxUjRxbEtSVkpySE1qVFpZME5ya0M5eGY4cTRNeXJRR2RrSXF6ZFhIYVltU2VvWlFqcEpCcm1DcVlpOXBkT0dTMHAtODZIXzR4cDZ4QzVMY29lS3l1QzdPMk5relphUGVVR2NVdHJuWHV5ekk3SnkzZGFDWnVTdlNzMlBnUkxXS01hOWJGYw?oc=5",
+   "published_utc": "2026-11-02T01:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fake precedents and hidden prompts are pushing courts towards AI rules",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXIxdXU2dzZ1QUJiSEFrY0pSZEY1V2NEakhlZTZLTEJodHVvc2Q2VUxIZ0d3aXhKMzFfRjVYQWJfTEYzSzVkOVhoSDRxX0xLX2VYSGJRNHI2RGkzNVhtLTVtM3JqcUdmMXpNR21sODl4ODFhUVczU3FYajd3WWJpZmwwTlg1cVhRckZIV2xId19zVjBkdGxia1RyUjZQUXc1OWlaUjkzTWhPalJh?oc=5",
+   "published_utc": "2026-11-02T10:54:52+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The story of the search",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXhEaWs4clJhc3Q0Q3o5WHZudHdndDBxXzZBNzZqdDdoRi00R2E3YXMzVnJVTUhNNU9rREZrRkwwMERraHl2Z1JMU24xX3dmM1pnMEc2RGJDU3pyVll4a0pmMm9qeFptQnM0OURxOFZlb2hweXN6a3JLaU1NSnd6bzQyOXBRVThKMjc5NC1JTGlwbG9QY0lkbdIBnwFBVV95cUxNM2ZQb25KanpDU044VXlSVjRGS1RNcUtNWi1rb0lJYVJjSFNNWEdrZ2xrQWJoWUgxNDQ0YnE4QUNrNi12bFdzcll4clFqem1KVkxNSlRmWWJURDhPQnpSSTdKVkx0S29WYWwtNU5YMEVFdG96bEh1d2hHWTRHS1ZHbXNSM2lLRU9Ed1lxS1hKTmp2ZEZ6ZlludDk3TGFUWTQ?oc=5",
+   "published_utc": "2018-06-30T02:25:10+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

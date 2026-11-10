@@ -1,0 +1,29 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "CIPL Signs MoU with Bihar Government at India AI Summit to Establish Core Development Centre and AI Centre of Excellence in Patna",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRnBPcUwxcXEtSGtkdFlsZ0s3eGY4TWFGdnVYTVYwVWNxWXNzTzY5dVVscVJXQkV3ZjduVUxQaVl2NVdCRWRhbGJ6d0FHb0pxeUpSd0xXcWdRb3FFREhMa0hNUmVQNTNUMTdDcEhESUlqSHVxWkxOMk84RUN1c1Z0RFRfNEg2SWxLZ1ZCX0JIdEk4VGk1TnI3bXdfeWVpMXluS3I1NHlWbTFQcTlSa2lNaXlIV0VjV2sxZW55elRORXNKTFRQVFF2a0dhcXRpdWJkd2VMR0ZWUk5nZzZXTE1JeWU1bWJRV2xicExZ?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STPI Bengaluru to Provide Co-Location Services for Karnataka State Data Centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmFGcTNXc2Jqbi1IZEZtLXNpLWxFYWFLUVhCSFFQT1gzVUx6SmNZaXFRT0lrVy13LW92OHpkUjlveFhPUEFiSHpoU2hyaXNSVmhzNHNQVVVOSC1GX3JtVFFLQ0V3c2piSmU2RFg1X1htSVVRLXFRWGd4QlpwVmU0MVM5RmdlNlBjMFF1WExEUmlrRUx2VERVZ0dvZWpZZjNJc2ZEc3kzaldaX1h1NXUzLW81RkswcXM?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP signs MoUs for data centre, township in NCR",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObE5qa04xNUpLWWpZY3VSVWpmOGlNSXpRbThROGJJcjB0X0dSMENkQV9vbUFaVl8wczRzR1RUci1RTkIzRjNZNjNSdWdfb2YwYUozSU96OVlnVk5kYzkwcDQtYVdhaV9wa0MzU3JFZ2dvSEVtYnFoMFRzWUp1TmppWl9yd1lSMTdITlctakIzOWtNdV9zakpSSk5HSjVUTDRKSGlQUnFZYmlBVjdGazBlWENpcGZLdTN3eHfSAb8BQVVfeXFMUG1jN19oU28tNVFsU19qZVByeXJTZF95a1BQaXAtTk9uY2tRMlJHV0xhX0ZDRnRKbVdmb3h2d083T0RrZVB0bXhiVldTdjZTWG5RdEt4VURlUzYzSU9vOUZWbTJ3aFI3MEhhWm56WDN6S2Mza3NaYVp6Rk1mRkxaM09pTmZ6TFIxcDJ1amVzUHZBY3ZfUjAwQTVaUG9rSHRwWGxoM2diNXVGQVNHeEt5dVhXY1FTdHNJQ2VITTRVQ00?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "query": "\"Gujarat\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "Gujarat drafts AI mission to train 5 lakh students and 5,000 teachers",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNG5IRkEwQnlONFdhYm96clFVc1paNGZGOGlxaWtIQ256SGFFUXV1LWdZd2tEN1NRUEdWLVctM2J0dVJnVUtEckRCTU0wbm5INUFINjBUVXN2M3JLaXJ2UUJBY29jc3BNOGJreVdOaWJwdmx2TGVwYkhpOXgtTDJCLU1aaXNkZ2s3T2lNZ0dVeEtpWW1WaUpBOGRaUjVnSXg5TnlaLURvZGhkXzRxUXl0aEc1T25BNUZaeUJPUV9GdjJNQzJ1eG9WWHMxYnhvRTl4dTVydGZvQlFtM0ZOM1RiY0JTdFbSAegBQVVfeXFMTkZPXzVaQ2NfTExhcWozdnNwY0FFOVdXcmw0TWRtcnhVX0NBZ28yU19ZdnNyc19RRWFxZjgycXVjSEVkR1lySk5rN0tqRll2YUhGal80MTRBb1A0UUJTMml5bzFKZkNPVEJtUHJNaW1hM3dXeXBieGl3eG0tTk10aXBta2xlNDZySTktYnQyTUU4QzFvT0RCeGRaTTFobEJObXFxMnA0M3hXTmlqYVZhZFptR1ZpNERGZHJiVXpCUXkzRkR6bG1YeVdBLUZlSlc3MjZ5c0JpamZBNWNUQkNwYjBmZmtwQUVxMQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Plans AI Training For 5 Lakh Higher Education Students",
+   "source_name": "BW Education",
+   "source_domain": "https://www.bweducation.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDFrenZVdjJpOG80ZTNRQlVYZ1RuaEF4YlZfZDZHcUc5cmtQenU4emxMeWM5YlZMd0lpWGNqNFNTODl4eVp1LTBzUkdhQVo1LW0yelIxM3ZXd2w1QkJOaW5XVWMyMDFGelNqc1l2azVjRnlkeUZDT0VyU1pVQ1pEQXBOdUZZNlQyNFBheTIxakFXcG5jSU8wYVFkX0ZvQlZla1RNZVN2OTM?oc=5",
+   "published_utc": "2026-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Plans ₹20 Crore AI Education Mission for Five Lakh Students",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2hKNWNkS2lZSGl2MTF5d19faE54QU5Md0s5UzVyaGxCWTBOUk1UeWtUbUt1R1FSd2hRMDk2d0VHRXRQYzN6M3QyMUo3U2czOHVsSlR2a085dndKLWVaR1U0OG1rMG9SMWlaRkFpdWVwd09TZkpGbUYyZF8xNURTLVotSlk?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Police Innovation Challenge 2026: Winning teams awarded ₹18 lakh; focus on AI-driven smart policing",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRy1pemU3QmVDcEFDVWJjMmlqS3JTc1huT2kzTHBGMUhXOFA3ZmpfY18yUDBFZ3F2czV1SEhlMGpvWlI1RTB0QTJZbHA3XzRpY2FoR0gyOUxuaVcyeE9ETExPYXltODJfVDhJWVQ1dS15eEkycVFhWkI5N0tMX0pkZDQ0aFpnd3dodmVCS0UtWGlpcmltRWw3N1k2bU5yUXpJak5zR2Ezanc1cndOOEFVZDN4eUZ0YmxMNWlaSGkyY0VTekdqdDJveGl4YU81dnVCRlhSdkl3?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "52 teams to compete in ROBOFEST-GUJARAT 6.0 Hackathon in Bhavnagar",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORlZkdWhubDVsbmNZVXQ0WE95WFdvSm9HQmtRQU1fQk9XQUxTRjhCai01RE1ieklBTFJzZGZaSVNMaEVoWDR4WUNLQVdhUVoxWFJTLVUzYXNfRUhXb0tzV1E1WmxVdDBfZWVvTGxWd2plSVpCX2JoUWxOQnkwMWRQZUlRYjZtcnhDZ0wweWpxUUxaampjMjV2dHMwMVFWOUdsY1ZCU2xMbkcyenFVd3VibV9kNGI0OVZ2ZTJKWWgzMmVGMkNWaHRadg?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IAS Officer K. Rajesh Sacked: Gujarat Govt Orders Compulsory Retirement Over Corruption",
+   "source_name": "Gujarat Samachar",
+   "source_domain": "https://english.gujaratsamachar.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUEVZY1haRE1JYkdweEhJRV9zZjk4R3c1aTYxcWJjRlFlX2dXc1BXbHlkbDRjTTNMZlV1N2hNUTNSLVg2WEJPakZNWTZLQy1Udmx3OUQ3MExoTDJOQTJDSzU0emc4QWRYdDNmNjBiM05BQjhPejludDZOMGtXQ1hCOTFsSmtuUzJSR216V0V4QmFHWVl5UmdmbHpaWVlHRWhNMWZiRjdUaDVhS2ROQ3RyT0s3Sl9wS3Bicl9kbC0zWVhwekNsODJlblpWblgtcHNjQ21SX0RVRWZBUWpiN0x3?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat offers MSMEs interest aid, power subsidies and support for AI adoption",
+   "source_name": "tennews.in",
+   "source_domain": "https://tennews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXlpQzdmeDNVQkw0SUFydVE4ZFlVX2tjMnh4Qm5uUnNMeHZLcHk0ekZpRUpVN1BsbFZSaE15dXp2bERlbzhxaEFaam43V3BXR2owaGh3VVo1M19uanNXWjNmNWo3QjlsaDRLU2YxaUxwSzFLQ2pYZWY5aGczRXUyQ2NHdGdZcTdHTGFudzUwWEd5SFpaQTBpay05TzllQQ?oc=5",
+   "published_utc": "2026-10-09T15:19:39+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat government withdraws Diwali poem with Mirabai mention after VHP protest",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3RZZXB5cFRodGdtSnpJVFpQaGJzandueldhdm1uRlBzcm9FV0NyZlhGRERnaTR2MEZHUjczcXdnZ29sWHRyeHhUdmZLekRYc0JpcnZNY3ViUDF2RW1SMkRLYTlGYXpHUURmSHpydUxnNG1uMlo3eF9USmQtTVk0RFh4WmkzWFpxR2t4REhDOUh6ejloSFY0UHJCMTV6TVlNUllieG5LM01SbHY3VnQ1NFd3Q1ZYNnhYeDVQcFd1S0NQTGpzZU5j0gHOAUFVX3lxTE1fTFNXNzE1OWlRVDlMcVE0TW5hOWFZcEE1WnM5NzBUWVcyLXhIbE1QYW52Yk1QR1UzTFAwZTBWdXJ1MEVUOVVicWZzMTZRVUc5Qy1jakZfeVJLcDNZSlRCR1VNWlUxMWpDZmtFbnJ1OEFldHMxanRHbTJDaEdGNDY1eEY2Ri1PM0RSb1FHSl9UNEhRbkhqb0Y4djZzVFJqTFFjXzBHVV9xZTVhMHFwUWJKdVBxZnZfUHJPVkJncVp4NWNUV1VabUFFOEtGTTZn?oc=5",
+   "published_utc": "2026-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Gujarat CM Shankarsinh Vaghela may return to Congress 9 years after leaving party",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaFF2LVM0dVhMY3VyVXZOUFdWdlhpbk4yXzJLaG55ajhYeXJ3bThmeTdFNjBGM21FMlJkUjBRSlVmSm1QTmdtMldid2lMSTVVTGthQjVTb2F0cUJMZmxuTTJBUHJjeTgwUGRVUzRxeC00Ni1kczRyQnNrdVcycGJUcXlUdGlMR1JXZVlUSkoxWVk2UG9nZkd4aS1QVlljUnk5TmtnMWI0U0NwaGtwVG9XcUI0ZFpINmNGNDQ5TmFfR3FvU2Q5QzdSSVJhOHp4enJJRUtSMVNQVHpHZWU3dnRVU3BjUl9Ob2hpNmxEaEE2X0pTa3VsLXfSAfsBQVVfeXFMTmtTcTFwWVRXRFNnWGpZakRRYXNkZzF1NDhjbEpMcHU0aEhtMUhLLWhScHhfWWQteGhDNFplRDhjUTlKVTUtbzhxanNYZlVPRGF2dXhVVXZtYm15MWlsOXp6YVlvZzdGbzVXSkJHajlRMzk4c2FnMUhzLTIxOEpzUk1ObFBhTVgxdlR6dnYtZlppeEZ4bUJNSk85MjhmU2Iwbzd3NmNheWdLd3Q1OERYSy1yS2FrQkY5LUhzN3ZVTVFIcFBEaDVBVmxXSlBRbWVEWWt4Y2dycnNJTTV1M1E3YzVjQ0o5UlF0WldaUnhiZG9FYzBTUjJKdFhRMVU?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5-year incentive package announced for MSMEs: Up to 45% capital investment aid, ₹1 lakh for AI adoption and...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXlDbWhFRXE4ZG9uZWNteGFUUzdIeTRuLTFGWjZGSElYeUlCRnJMRWNPVGhZbzVEVXJjUzFPWnBXTWttVFJrZ21hd05pYzNoME1QeC1BdS1leVlmMUpWZjRSVVhidzZHcUFTT2NLUzFXUnhFQUxZdXFvc3RkZWRTMmxBZVdUSHJjdlpEcVJ0VmJNYldpNHAxaWhvQUlHamMxNXRFbk0wNlJKZXVXTXVRd2puZFoxNDRXU2VLOHZmemlQZ9IBxwFBVV95cUxOWnlsb0pvZGVnX1c5am9ORzlIWGFKT24xV1Jib3BrSnRwZllsZzJ6M0xwMG5acUh4VzdQajI0NGtzSXpEb1RGM2JoNnhXRnFfWVpMdnZwQjctajNoaEQ4Rm5JdzVid2F2MDRnV29Rd0ktaFoyNDNhR0lxTmRCSHJ0S0VlRUxmRnhXZjZOZjU5WW00cklqczRsb2g1V3V3N0JIMUVROUFmbXZ1WDFrUzM0ak5WZ2tlelhBdWg0RklTbkFiSXZGcFpJ?oc=5",
+   "published_utc": "2026-10-10T10:59:32+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat UCC Bill 2026 Gets President’s Assent, Says Govt",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObHloeWV1ODZZRUFWcDNOXzZUNlNDV01hNFA5YnRQcGJtR3FseEJwSEZMTWp3VmRvRGtuNnVrNm1CTlZFOFpPWjdPeW1Ed09Bb2U1YzlEdVZRa0RBMF80OEVtX0UydUhsYWszNjBfLW5yOHg1Uno4MTlGaHB1dVIzcllEYXZaY2FTcklyUzJwWWsxbGhOU1diamhRckphVzF6Q24td3o1T3VXLXgzelVwcUU0TzZIbFlRanRFZWlYWmZsZ9IBxwFBVV95cUxNY3VSbVRjLXo4NkpvM0ZJT1FIRkM4Ui1BWUUwNkN1WEJSQVN0VTh2aFVuMnFoYlA0XzBub3pBU0k0Qlo5bUlhbDhlcFdGT0VyR3h0eUtpeXlkUTBvZzZ4MEhtSUhEMGw2dnhuQl9yN3llNDVTVDZZc01YZl94NXM0RHJ0Q3FkTUowU1dKTkd1bnVMU0J3WnotbXBmVDlFbjE4b3NGMEhxUWxJVk1HSUcxaGwzcXM0dUZSUHRrWTgxSHZsUGh2OFVB?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bharuch Mosque built with Jain temple remains, says government website; HC issues notice",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWc4NF96WTRQcjNEWWdEV2dqMks5T2ZBOE9YdXQ1WXg4WjZNUFRnVVhxcGEybVJKbTFvbE5oUno4b3plN3d2RGNCZlhIWlpLbF84azNuSHdzR01rOEtaejdwZ3E0NEdlbWhUUTZpblRiRVRQODF3ZlFUcFdBUG5rekpvdUFLWEhYZUdxZjNZOV93WDAtRTd3TE1QU3BzZHNvakNuRlAwYmhfQlRNVXUxdW96SlBqUmZCTG9abEtRNFpwaGxVNTBQdzhFMNIB0AFBVV95cUxOaVU2eml5Ny05OVZHZW5EVnFkcmxPOEctM3dYTzJhY0NDeExSRHRTXzVZbmpSNy1uNGNKSjRQOFB5bzFuWUFIc0RSaTZHbVhiSlAzZ0hNR3pZTUVDUnd0VGY4M1B4Y2pyUXRoNUcwd19Fb1pxaTJGSGJFSWJ0NVBYLWpoSGUwRFFCZldWLXVZdWY5UVVnWkVmWk4wNkZKbThrY2tHdy1rOHROUDN1S3NTWGE5Nll4QzBkemh1bWU5MXNtUGdLRm5DNzdxUGRselRi?oc=5",
+   "published_utc": "2026-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Proposes AI Training For 5 Lakh College Students Under ₹20 Crore Mission",
+   "source_name": "BW Education",
+   "source_domain": "https://www.bweducation.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkcwUXlYNVpyMndUTG8xUFF3QjIyUm1wUE9OeHRzVFZRWElGOThTMTktQnpIaVNXSmJkZmVLSXExRnhNT1FMaVVvOFVya0kzWnJzNHdXR0U3Wmo5d3ZQYnE5bEdjY3RQZV9oMGNXQU5MZE9JZ1ZuUUM4Y2FJUXpFMnJzVThEcW5HMTlRckJoaFpaV2xhelp1ZkNDckI0eWIzZllYLURxckxiNlctVHJfTkhfQmhRZXlvQWZaUXZTSQ?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat: AI lessons to have real-world test drive",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0lzcGdkY0JwV0FlbThsV19yNGt1TlU3ZUpjSzM5ejZZQkNMb2pBVV9UV1QwNDZyZ2dsV01mc05wdnd3Ri05dmRGVnlyVldQNWoyeDFMWVFUNE5ob3pENHQzejVJdzNfZ2tMcG9qYzFnY0hLNkpCbVZyZWVhSk9JblBSYVlRN21VRnFISmh1WEJIUEF1Y2d0WW93ZTFuRkNGUmpTdWZhY0g1VXZXcUlCdnM3SERVOFFUS3FQY3FMVG0wWk3SAcgBQVVfeXFMUG9vbGlOd0JsX1Q0YlRWTnBfWm0xNG9YMDJvMDkyRUpNTHdXNHhtaTR3OEVQUzJQd2toTU0zUHJoMG53VjFoQnBKakFvZ3VaSDVZT0lxM2tTVGFZcjd4THlpY09NOUZqRGdla0tHS0NiZ3VqWHdkRHN4V3VCbUItdW15SzljSW1UbUluNndVak5CTENWWTMtM1Q2WWNuTl9fQUdWejcyNGxMdVltM2pyRmFUc1ZvOUplMUNRdVhiOUo3dV9TczRobUg?oc=5",
+   "published_utc": "2026-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat government to bear Rs 147 crore tax burden of Surat’s flood affected",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFc2MVhnYW9wV1BqdG5EVk43V2VydU4wQ3UyYm5iNVF0OEtqY0VzMm55N0laYXRFWnliLVhIZ2d2YjYwdnk2T0J0OHh0ZFdRLTZaYmpqelJjZC1LNHo4am5UNTRUanF0R3pNdDc1NjRVcjMycllxc0RPZExqdjBiN1pHUW1CYjNsdWd0V1lwZno1UHRMcHpkY3E4ZXNpalBnaWdHQVU3MXZBbm5IVy11UGJxZk5yQ1ZnZ2x4VzF3U043cW9GRVRISWdqeXBnSGtMWnfSAdgBQVVfeXFMTzFZWklab2RoZzB5al8zRmRwWTdEcF9JWnpZNU40WTVRNjJOclF6OVM5Y2h3WGFwblpBTTFIeTRrOGVWdWxRWGVLWVM0M2JuTENUZDBod1lJQjVveGhQY3BsLUxkWFVJZWF3dF81RmxXbzNmX0pDZktOcDU0SE5CSFB2RVJ5N054SF9WQWg2al9IR0hncC1FTzdoTWJBTGNZbzJGVWtJVDliNl8tZnYyd0JEV1p0NTBKS0Y5VERoOXJtM0NkSXlXbU45SUI4ajNfMnhJMXhKMnEy?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Revenue Tribunal President Atulkumar Raval Axed in Major State Administrative Overhaul",
+   "source_name": "Gujarat Samachar",
+   "source_domain": "https://english.gujaratsamachar.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV2NHcFpZUUdXRWlSbVZfUkpEWTZUdUZYcHNYcWtlTENvX2ZQV1FQX1BUanR3SlRJSTRpbDllLTZidll2R0Zwd0pULTJBeU16MndxZXV3TGhRdzI5WUJpSUdIa2lpVUJndVdvbGlUanNXWTcwUGROX0pic2h0dm1SSGN5MWl6Q0UyNDVYc2F3QzFUOW93UklvdjFxMjFSQ2NNNExnMmZyOXZTWWhpODJ0eHBaRGtibXM3TGtuMFRwTjkySlBQSXY0LWFRNzBMT0psWFg4cmRzczF5SjFNZGw4NHpydERwQmVyMGUzZGZn?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat: Experts guide BAOU students on startups, innovation and AI",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOE4xTlFfV3ZmV3VVM3JUeHYweTBpNENsOElNcm9jTkw4WllCTGFzOS1pOC0yYXZtNU53RTFYY2l0SmRNcWE3VDgwenVfbTRPRlFOdkYzREQ2eXpwbTRKVl9lS0JoOUdfVEt1ekdSbE1Db3FyTXZtN2oxTzJ3U0VVWHlXRkxkN2xUVklwRWcyd3ZXNHlfTFluT3B3Y0htQ2JVTVEwT0hPZFlhQ2ttQWh5Q1JXS1JUTFpyZWhNZ3Z1aWVtanlYUUROUk9RSEVTYXJZalpRV1dpZWQtUdIB3wFBVV95cUxPbGZLYnVPNUduUEE5a3FobDBIcWJ4ZmcwQ1RJNG9OR2FpdnEzOHRRVzVsVHhTN2l1X3h5YU5aZW1IVXhFd2IyUFRvQTRGQXhuNFdRaXczeUFrUUdOUl94Z1V6WkcxMEZrZUxVM29aZjJtRk80M09hbmpibmhVYzJMUERaSGVxY1lZdUpfbDViUm15blktdDFQXzB3dkpRbnpFaG9YRnJGSDlVYkZxV3RqVjVuRHhzbjRyeld4VG9hMElBZEFJYnpCOE5HbU5XSmRVZTVXVjFpWlJBaFBhVWFv?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 months after he quit TMC, Gujarat gifts Yusuf Pathan the plot he long wanted",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWo4aDBhWlBJWDUtckRLR2FRLTVkcms3X1RnQy1Ia2FQakJIRzYtTS1oTjFuMVZSSTBUTTkxX0J6M2ZxQjM4UzRDZ2U4Yk9LLW5jRGVaUExGeW5qXzlXUjhIQjdkQW56bDM0T293VUJESk1saXI3YWxTN3E4d2lrTjMwX0taRWxEV0hUNGxzQkdQYUZnX04taXhkYndCcXM1ZE5XQ0FmRjhKd1JlUkZNUVIxSXPSAbsBQVVfeXFMT1I2MkxVdUs0SFhFdFY2VzV3RWRRX2pteXllTjNfNEdPYm9xcFRBdWU5WjNLTjRFdXF5eFZzUXFxeFRheFEzeExNa2t2X1Rja0JRb2JHYlFOUGhyY1NxR2E0Szg5LTJSRGdtUDlQUUtfWVZBdGktZVlGbkQzX25vQ3ZGZ2VNMTY2ZUE3cnZBVHlsODRkRGktRW8xUkJzVjFpX04tZ3FEXzE2X2N6OUJ5ZTBOQ2JLd0dJYTB4WQ?oc=5",
+   "published_utc": "2026-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat issues operational guidelines for Global Capability Centre Policy 2025-30 implementation",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPck5sSTh2ZVltd1dyazNuQ3RmTlBZNUZINE9KdUVieDU2dzNVdFRUZTNjTVVLVmw5bHFLOUo2ZG5JODVoYkdqUlc0UzlPMVlocnNXUHU1em44S1prZWg3Qlo1TmlsMzB1SGNFMTJUZWhtaDN1ZngwOTR0bFNKMUdRTzBKYUx4X0wwM2x6alNzRUc0R3dWS3FIT3JGbmtQckhob2QzVGI5WjJNYWhfWXBydU5PVm5VTXRhYTJ0aFpoS3lURGR1cEZZa3BXU2hReHNTNlBaVkxSUTFiV01uYVU5TFJOdXFmZnUxMk5hSzl6V2dCQzl0SGF1UGd1eXhUUdIBgwJBVV95cUxPZ0s1WDJ2Z0wzNFhDQ3dNdWtTNHZDc2t2WU9KWVM2Y05GSkR4STNvRDVfMEZueUVmMHFDNS1RMjNxRTdfem5XbkplSGRWNVRaYVJFQXlwVVBkUlVNOFFvT0VXZHAwSWhwdjZoZ3N5X0drQ1dUVVlxYmFHSUZwUFNqMHl1NE9FRjJyeXZVUE1xa3ZxY19oLVZfSnNkS05Td3RFanpXaUJ4eENoLXV0ZXF6QzRzU1R3MjRUbGFlcjN5V3pCZDdTczh6M1RVRHk3R3lFWS1EbUJscFptUHA1VXBrdzBlM2NaMUR0d0tZUWR2NjB6V1d4MzRic3p4YXBLaXdXLWVN?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Majhi flags off special train from Bhubaneswar to Gujarat for National Unity Day celebrations",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT0N0SGpmVkhib1NDVTZuSXpLdjlWV1RjeVZzcVg5aDdDejZiX0VsNjN5OTRzaXlxRHhidmNoRnlDWjZMU3RRQXZwUFBSeVhPWWlNb2M4ZklJeHRjQUVzOWRGNFNiU3lpN05RYWY0eEcxVV94VFk0ejJ1d3pjZ040NG95Mll2SXN3VDNBNkpZMUozckdFLUJIemw5RVduZENMS2xhN1RXaTBYQnlfc0V2QVpFWURCSV9WQXE1MExBM1N0TEhFSGdFYlhvVFBZd0drX2NuRDc3M0Q1QnNCNmMzcXJ6Y1hLR1dTekc3N2xmclLSAfYBQVVfeXFMTWtaemZRTVhnVDRVcjRMN1ZSOU5sUW8wejJ0UF9NVHlaSlVDYlgzblM5d1RXQkljME0wbF9ZaHA3RWFMYmNJNEZmbFFPWV9NalF6ZTZtazlwWTQ0LXNJbVlpMC1ubjNCZG5WM2RlQldFMzNidTE5OHZNNGxwMkRGVFVKTFpkbVEtaTVid3RYWjd0dHRueV93aDVicEk5OW13TTNVN0d4MEs1c3J0bnpMdVl2M1lsZVMwWkZJZEtLcVZUaWtQOG1VcTdPOTIyY1dqOWdaSTBIVHRzZGZhOGI0VVR5ZU8tUlpldGxZNEthSGRzY2lDSWl3?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Energy Minister urges industries to reduce power use: Asks them to save electricity for 5 hours in ...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWDZEa2tubmFLMXFNcEdFZjZyZHYwMlBXZ2hwNjM2aVVLTmZfcVZfQzlqWXhxYlpxQ0lKLWo1MDhCeFZqb2E4dWNsdzdtV3NPLTM0T1BaNGtzZ0dLRjJKZHBncGU4aXNLQ1psREg3c1JHS3NhS3g4VTVwRDdSRXZRbFBYSi1nalJTZ0JHYTNhYUhoOVItdzZrZ2ZyMDBCMHYwUG5NODBLX2dfeEZJRWQwODJxekpMczhyR2xCR3Jfb1QyQXfSAcgBQVVfeXFMTnpGOUNBMDVweDBzM1hWT09kRnFBU1pMRTdZM3NVNjZYMi03blJpTGVBaW1CYTQxdTNFdzlKT1I0V0Z1XzJ5U0FBV3kyZUJRSG1OR3BjX0tObjhLLWQwUGdqMW5Wb1lqazdQQjZJUmNhanZfdjlBUy1tV2xnYUYwMDJvdUNCNkNMcUpSUlQ3ZGo4elBDd3BhRnppU1c1ZjBOck1hOTFJVG16ckoxQ01qRDRBcEJHWFNCVllrWFdjam56SWNwZUFtODA?oc=5",
+   "published_utc": "2026-10-18T22:21:28+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi launches projects worth over ₹14,000 crore in Gujarat, flags off two trains",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUGtmZ1Z3VUlxaVY3RjBQSTE5TTN2clQ2OEZ1RTRYcThtZGpId19sdmY4ZjRSbmxjZzBjUUxucWxyOUNUWUpNRXowVXM0YW45VG1LT1V1d3AyNndZMEJ1WVloTVNCRXhGYU1aQ0VGRXFrVWd4aURwaHdBbmNVUHN1NklmSUlfdjlUZm5NUXVBX3FOU1pzYTFaMHNXQ3U4bk53N2FCSUxzaUlQajgza05XLWtudk9vZTR2aDRpTXdCLWdweHVEMHRZRjJxQV91ZndhWDJmSVdkTV8zZHlOUDRpTkxTWi1PdFI4SzVkTE1NMNIB9AFBVV95cUxQZVJRNEhTc3F5Uml1b2dobEZ5MkYzN2NWdWM1RXhiV19pOWtpT2IzZmlQNHBfZHBMY1NJZ1FFQVlLcWoxR3J2SDVONlNOUlQ3bGt1R0dxd1UxX1ZhcVFBcjNBa0RGVnJueHlndnExU3Zsc1NRVkdDVmlJVXd3bExaZVE4R3dNUXFaenNRaVhMQWp1YmZ0bUN0SWNZTTRBc3AxQXIzeVNOMTNIcDhoSXVGQ1JDRUtEamNWVWs1MkhYMGdLX0E5U085X0tLR09hVEhXckg3amRvYWZSd20yakZkbk0tMF9tZ3FuZVYxOWYzY1hpbi1P?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why are banks closed in Gujarat today, despite it being 5th Saturday? State-wise bank holiday 31 Oct; PM Modi in Gujarat",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNM0FhdWdGUzkyRlNRbjJKc2t0ZURYc1ZFVTZoYWk2RTRiS2IxZk1IeFdpS1U3U3pTakw1UnFlT2xpeXFNeFhKdy13SDVwMExzRTJ1OE1DMXBsTnZkYzZQSEE4YVJObjEzOWljSGFmZjJ1dTl5THltSTFacHRhTURUbHJfb3BPN0w4QVY2RnpNWk1KeUFrT3F2a0IybmVOTnQyUUVkWi12dEs4TUEtWGFwR1B4d2hRUFR1dHNZUlFfRkJrbVRxX0M5dkdFMjhkWW5hSVlVamY3WjEydVFJTWdVMmcwaWRHRHFLdlE2aTh4cVN3ZTJsdGktUGpOV2hjeWhMcFJuVEpUWVNSUVd0QmxkYW50Y9IBmAJBVV95cUxOREtoODFabnhVZjM4UGVDd1BFVGhBSGtKQWo1U3FyUUp6RjQ2Mk5RdURXbzVLMG9iQ0ZmM3E5N1FSaXV3bGNhdjgta0M2MGp6NnpOZmZBVVNjQmpkNjhROWw5dDR2djhaXzhKOExDMjA0dlljeHlJUjFUNm4zZDZRVHlEWU1iQktSaXExcld5bmVDNHNuc3VRSjBFSUt2MUhuZXVmWXhoU3lDTFA3c3g2ZGhFT1RrWlE1MnV5c2ZmZkI4VkMtNXZZR29Za1NtYVZ2eDhYd0ZlUHZXTW02WVBJTTRzQVhZOXhqQW9xWjdCSkRHajVhcFlsSkNvdFk2Y25Nbnh6MDhVNS1YVVdXT096djZRb2JLSFpr?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "52 teams to compete in ROBOFEST-GUJARAT 6.0 hackathon in Bhavnagar",
+   "source_name": "The News Mill",
+   "source_domain": "https://thenewsmill.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXNHWUhrMGMxSjBuOWZmWUhmR2hGX2tYQVY2eHh4RVY0eVNsZXhDdklFWFFvTkI4c0dXbnFYdG40XzlkUUhYdXhBYXV0ZGo1YkhBb1E4VmRjbVYwMzNMWlN1Zk5vM0JTVXdtU3lJTGJVOW1zckhlX3RrTVV2QU8weE5LNnNuMWlUVUxRT0tudVBGZEpnQlhUYjQ5b2VKWlFp?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat government tightens school entry rules; outsiders can't enter without permission",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmJrc3VmYjlwOXh4Y3ZIWU5XREFZdFBHeVRkSjNOYUNfWDN3V2VLTXZ6cVRGSWhwRWF6anBKU0R1WmV1N3pOUXFUbVkxclBiTmNWTEdaUEwxdURDcDNhTGw1bTFnLXY1VlVob0VhbWVIaFNhNVBrUHhaXzAyYUtqMWtobVFvOFJQcG5JQzdKTUxfa2lpVUN5eGdMcmtzeGhjTTF2NlhjcXJiX3p5bWhiUlRjYzFKeUlBT1UwZlptQjVIa0ZyVGoxMDhB0gHPAUFVX3lxTE8waXJfdzlvcllfcHJIV1hEa21zTU95X1dOOGdKVnE2WmN6azM1RTRXaWgtZnAtbldqdHVONjBwOWpFYlpoX0dZWWxWQ3B5eHY4VE1EUmh3akFqQVlkVU9hb1hxeWZDYXdhYXJ1M3dhSDNqVk0xcFpOeVFLNGhKQ1JSXzhoamlxdnhqV2ZwQkF6SnVqVmR2RTZvVVM5T3Q1U21UeE5pRUJNVHE2NGVjWDl3R1dibHBXZ3EwMUxYVll4aVpCTnd3ZzhzN21SYzZ0MA?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat begins building Rs 80.25 crore Yatri Niwas in Ayodhya, 308 pilgrims to get accommodation",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRU0yWm5LU0wwNmV0NTBGb3dvYW1WNHJ2SDZIeWRscllOY2VETDB4TVpNRVNMaUJ1ZzIzZUttaUprYm1hdkhZWEIxbDVOOXhqbXpDSFlBY0xvRnNYVWF1WlpuSnhMdm85dFVlczJubzY5T2ZzdGYwVXk4MEZqaHRNWVFhWnhPOUwxTnZUWlRjczdVYzF5dFRtemV6bld5U2dQTElBMTIxU2dEcWNfb0JBVDkxWnpJNjFrLVhoTFNFRTdVX1NiclZtanU3OWdKR2FMV1pORHJ4TzdSMzjSAeABQVVfeXFMTV9SVlFlYjNuUVdxTVQ5VTBSUV9zLWRwVTg0blA0YV9VdTNGaktIbDZfOGZuNTZBelltU09JemJFcE4wYnZpaTQ1N000VGZoMHZTRU9SNDh4SVR3TnJRc1lpTC1ETTJjSTRxWURqbkswNkdlNkFxSWdiRU5ZNE5nY3cySm5ibkFwYXEyZ2hZSS11ZGhXNVRjSy1DdDBGVzB1dEdTd1VkaWF5eXctQ2x4ZVprSEVOb0RYdW5WSHpPZGQ1aVZEQ2hmQ294OE00VFkzUkI4eDJMMWd0UzZrY0swUFI?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Police awards ₹18 lakh to AI Sentinel Hackathon 2026 winners",
+   "source_name": "The News Mill",
+   "source_domain": "https://thenewsmill.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXVhTTBlYmZFMTBmWmxaSDlIa1NQMDlUR2pRVV9fNDcxQVlScFpDSGljM3NaMy1MVS1JOHRpbmtzamo1QjdHNG4xLUV0dDVsUHY4akZ2QnVDd0toQ2VFYTB5UnFiYW13SFNJdU84SnFHS0pSSUdncUhDRjlQbnY5eENLMFBpb0ZDbEJzczBSU0sxb3p0d3R4Uy01b294NkM5SHhXVzlCQ0F6UnRRQ0E?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "GMDC pays ₹224 crore dividend to Gujarat government as FY26 profit rises 44%",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbm1naGZlUVBqTG5XcWFkSHlZWVlZeFdBTU1XMnE4Z3lNRzRiMDJsTTJKWjYxd0luN0V0cktXZE5Kdm9lRVF6WTV3LU9JcUdYeV9RYWk2LUNkZUVaenNIMDlRNkVzWmtzTlJlOWI4VDFzLXNqd3RfUV81NzVPRDdoVUtBQ1FCbWFEMS11U0pNNjhEZklYNmhoYjkzWVk0Y1EzcXFvOEVsQlRuTy1IOGRoaG9lSEtUWExTT3RCSEh30gHDAUFVX3lxTE5oZURqd3ozTzV6TUEyZU1mcThONS1BQU5LQllaWV9PNklMN0l4aDdSdXNiYXFqM01aQW5wS19uWGdzdW9wZ1dsaGRwWGVlTW80UjhmX2doQzFHUlFpUG9HUlZ3UmZuek5nV1ViZXRpYkZTM01HVjJyenFpcGw4dG0wcEZ6VFBtdWR6QWFTNnBldmc2UWt4TUNYSkNZQlUzcjNIZE1SbHR6c1ZtVFQ0dG8xVFJCWTRTbXFsNXgyZXJYNmxMcw?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Govt Announces ₹21,840 Monthly Stipend For Foreign Medical Graduates During Internship",
+   "source_name": "Gujarat Samachar",
+   "source_domain": "https://english.gujaratsamachar.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkRtRGRscE1EeC1XTEwtcUpnT2NERzBqVlIzbFJ5clBiT3otVEdRSEFHczc3ek8tM0VaRnZ1YUVUWVA2MUFlV0I5cldMdmFsQW5BNzZCUmZ6TVdKZjBaUnM5ckVQYndZS1o2RkYyYkkwbURZTnAxbDltZE9QTFJodHNPRkU3Q2xQby10bVlZcWFOdHNaSUpNUzZxSmsyRlN0OU8tYmVfYw?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

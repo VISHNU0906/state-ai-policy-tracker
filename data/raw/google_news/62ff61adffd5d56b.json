@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Tamil Nadu government signs ₹18,600-crore investment pact with L&T",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXFfM2Y2b0t1MFF4UmZ5SWhLQXBhbm1wb3pMZGFFNmJpbEQzNENDUzE1X0lWanVVTHlHWW5tZGx4MWp6Z3l4cDBWSWRNajNMcnFWckdTTk5MS3RUOGMwckh6eXNRWkFJaTFNV2FxTmxpZXE4SU5tS3dZRUJLS3RDdm1ZSWRFY21qOVUtU2FFb0xjSFg4c203bnFsQnQ0UGFPeURqdDUzRXJnVkljMFQ1NlZXLWdPTmwwNEpCOXVRZFNYdnhRX3JUOVlDNFdEQ0p6ZFHSAdgBQVVfeXFMT2JjSi0tQzN0XzJPZ0ZLb1ZUeTZZbTJLWDdVU3FlZEpxbk1OeDRKenJVSXhPeXBYRWdIY3NFTDdvN0U0ZXRJaWFsSXdiUFJjSXRkNDZyODRMWE03eWJxbG5tOEdYamkwV1I4N29XSlV5RmxIOUhlSlRIQWFsLUl2OHZWSUtXNDVDaTNXRjFBZ0JTTE9BNkpac211VkViWERkejItMHZQa1NvZnBFMjd3V2xoNlpkSTJrZ2RFeXZsempWRERZajFtd1I1dzVMaUtLUnJaN0hiTHQz?oc=5",
+   "published_utc": "2026-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s workers are training AI robots to take their jobs",
+   "source_name": "Al Jazeera",
+   "source_domain": "https://www.aljazeera.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVBFN3BnSTVsQkZUcURvUWQ1MFJCMXZzcDgwczF0VmxIY05jcDhGdGhFZlZxd1A1cGFBSTdKNTQ5ZWlEampqa2JwUk1KU0lrd19RUko2UW1WTkNET1dYNHgyOXhQQzkxaXNaSmNNbmsxdGFxYkkyMmx1QTNqMi02eE0zTmhpbHgzeVVZcGp5V1hiN20zSTlTbFI5b0hZcmtnUUlJODNXWVZIUVnSAbABQVVfeXFMTk5Yd1ZOS2RuWFdHcDRLSE1yMnNZclktWndxRHNqeVJ1UU9nZ0twa3Z4Q3RzX2hFUmw5Q2xBd2poWUprWlpqVlNvZzl2Z2YybjU4VndhMi1ObVRzZjFTWDVaY1VBODhsUkI0NTRSc1V2Q0EwY3FfTklodHBQeGN1Z1VHSlZGZkNMa2FIajJYQXRDdmlZakVYMjliM3JPT1cyam4tckFlZW9UczlpSWRlZEs?oc=5",
+   "published_utc": "2026-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Targets ₹5 Lakh Crore IT Investment to Drive AI and Digital Growth",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUxqWlJicjhSWVZqelg2SjVZZ2pNREdIeWpvZWplZS1ybmVhdG5TRUc4M1ZrelRfdjZ2TEI2aUdwWWFpQVduQ3R6UGo0ZGlSRE5rNFJDTS1BdDNkUUhWQ19SY1ZvYVNEdnM5V2xOb0NmREw0WUZEVjFJcVZINTFMbXBnTVc0NzdCSzlmN0t2aWM0bXozTGhfLTZkbm1xU2ZGbGttMVhSM1ZVMDE3aVE?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 13 Lakh Crore Debt Burden On Tamil Nadu: White Paper By TVK Government",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEV3TmROVjRsUU5rWnpJUzlPUXVmNFBVNlNSR1Utd1gxVTI3YzZVRF8tdlNCd01hU0J3OGI3NVZOX2FpeEM4VGU0NDNKanRuNHA3OE1id1dUaEFoLUdLZWQ0UGpoZHh2SHhGV3NRWWE4OVJhQjA0MFJnQk1EV1I2aVNQQ0tmUmFkSlljenBSdk82bUJ0emxaN2libm5DSkZHcWJ3ZjktWkpmMWdvVHVEVEYwc9IBuwFBVV95cUxPaGxsdDZQVW1BMkYtUk5tOFo3QmpKUnB5RHJWRXpxbXFRZ25zQm9wZ0xicGFPVmhydkxQZ3VOVVV2YXpvLVJCZjlMN2hJbE1TZlExMGN4U0RMbWRLcjV5YjhWajlQeXNMcG1IZ0pxTmJueFZrbU1qTExocy1MbkQtbWowLWZVcDlSS0M5RXhNSkFDR3dKTHBfcmlLWTk5UmVpbDN2ZTNiTUd1RVdxZkZERW02d1FZcVpmV0tZ?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T signs Rs 18,600-crore investment pact with Tamil Nadu, to create 8,200 jobs",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1M3OGtsTDdCZmt1QVRDazQ1Z2JTVXZpcTluWnlUN1dpQ3NuUVpleHB1UnZucGYzOVNwZmRZYlFETG1aNG5jaV9GRmRFS1V0ZHN3OVlvVUJRQldzVmN0b05NQ29TWGNOdWl6WXpNQmU0c1ByNlIwRDU2NW4weEFsMV9CejRWRkRKemRDVmRNbkp6VHJiVXJaaTE5LTk0MXdFdlZ5SDlOVXZvNEh0VklfWWdtYlc1bFRtMWotMElYT0RSam52M0J3a3dncndDbnZhWHdOUdIB4gFBVV95cUxQa1A1eXVkU1BOYzRFOUxRS0twNmtXUFpwUE5mLVdwNU50X1oweWx1b0did2dndlZRS2ZjWkhyNlp6V2h4Q2xvNFZraHIwcjlzWnlMTURlOEhjTzVFQ25OZlNjTVkzQkFUTFVKNmx5MzRCZGZYZ3Jfc1cxeC00VFZOM2U1TDdkbmJGcWlvdU0wa3N6cGlISnRfSU16aVNDV0w2YVhReUhfeGdjenFsZmlIckM3dG42eU9jOENWMFEwLXNybWJiT2dGMndDTjU1Tl9DaV82RG8wTWxTclJBbzdWeGNR?oc=5",
+   "published_utc": "2026-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre, T.N. govt. sign MoU for Jal Jeevan Mission 2.0 extension",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDRzc3FVWTBhMWlxcmg4VEtZLUE5dVc3R1pkaXdDOXpDd0lvanBuZnR6TU9HbGZjOFA5MVZqZWlYcnU3b19kRnJDaUx2Z0VmTDhhTnRuWVJiMGJiWFFCSF8wVGcxV1N5TE5aUjVEMGk0dUxkRGl3bmdmb0hONjhna01qRk9rTTBVeVRWT0xLUWhvVWhQUW1MbHo3a0lkanQ4eG9ZemhSbzdsc3VOdFA1d2R2Smg1amsxeHdYU0ktZ3R1d0drdlM5cdIBzwFBVV95cUxQaXI3SG5IZTRod2Vlam5pWGhpMGpybTdISkxjaWxMYzYwZGlYeHFEdkNON3ozZ29nblR4UkY3NEx4YjdLcTRRRFVvNGJfQ01xMnl1eGNMWGdoamRyU3I3Y1h0a3lYTDZ4S0l5dDZZWklXNjBLQ1hIOThOdGprd1FQT0hESGd3VjNPZkREeXBVeXh2dW9xSk1GVVp4X2dTa19FR2dDSEJDNkdQRkZoRkhvbkxHcVdibGhmZzRPOHJEa19aUnNSQ2NDWmRaWS0zUnc?oc=5",
+   "published_utc": "2026-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haryana Unveils ‘Make in Haryana’ Industrial Policy; Targets ₹5 Lakh Crore Investment, AI-Led Growth",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHNyY25oT0NhQWdmVVJkclpQR2lpOEhWaXg1RV9RNGRtTXVqSnJrSlNsbEJBY0lCYkJuaE5MQzZLZ3RjeDh4UzgxTTVva1dQcDNXUU5qdTFieDhiMzFBWWdTZnFHcnVoakRacjJXcGtYN3NBZ0M4dVBuQzNUQnU5azdIU1VocjlMd3c2dkh3a0E0VVBqUlNlb3V5YTBsQlRfNm9VUHpOZndzWFhaaTZ5QTlQdnFOZEtfREpBc19rNFJIMWp2ck02X3FwWlZvUQ?oc=5",
+   "published_utc": "2026-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Tornado-Like Storm Hits Tamil Nadu, Causes Major Property Damage",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQWdCbTlSRmhmbG1qYmZDRDZyN0xmQjAwVm44emFzcUd4cGJjX0ZiZ0hCVUJacWlMckZTM1ZVcUE2YXRycmRoNklvREtSVFJkVENoU3dNYVVzdHJuaFREcWcwdXc5ZXEzbHF4YUJqQXB4Rm1QTTYtOWdmeGtqQ1dMb3R1T3cwZGtoalhjcDllandudE1xT3U1Uk1RdFI3MGlMZEY0SG1kRHZaRWQ2emd3UEhId3pENXNrR0ZUWlREUHpSM29GV0RHOHFuX2w0Rm9lRUNmRDVHRG9XSWxvZUsycFZoLVZudjU5LWpj0gHzAUFVX3lxTE5PYS1RNndrdDdTNXE2eTZfMTBJT3JaOFp3MkJRUnVuT1lUT3pKR1V0RENKMDJJelhoYTVyR1FjTTJvZWsxc2w2VTN3dWRvWnZkbnJYYWN0UXJsRWpIbUJTU2ZsTmJuY2R1ZUZsREdaZGgtS1pFaFBrWXBVMk92cXdTenRudFVpOE1Wak9nNEs3clZmZ3ZBc09YcnppTl9VREtrQlVDbkVlZV9QUmJNTHFYTDlkRS01dkRfeEQtdzhRSE9BdXluZjRlMnl1VUtGQTBHa2djaEJxc2FVR1ZHdm9YcmtwV1lWUEFqN1hFU0VyRE9uNA?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From AI Parks to Semiconductor Plants: Tamil Nadu Attracts ₹68,817 Crore Investments Set to Create 60,000+ Jobs",
+   "source_name": "Trade Brains",
+   "source_domain": "https://tradebrains.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2F4Qlg5bVk0Z2xSTWx3MEJ2dXZrVjIyYUZkMWktODA3ajcxN0xsVnJ3QngwTHpnU0l6NzVyeEhDREhGUDRtZmVUekNQNGtjV0V4Nnk0UnEtT0xVTU0zSG45b2MycnBYSnNubW9DeU1nU3lPc3RGYUU2a0ozQUVUZFdId05Ja2tpRS15NWxwdUt0dzFJU3JWRFUwZkpVZjRuWE9tdEtPTVBzR0REaU0yMHZrMEt1UERWNzRHNmVQMURqT0xFd1hsNmZMOTNIV1pRaHc?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyundai readies made-for-India EV SUV to challenge Tata Punch EV",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHBJTkpWMXhwMVZscFFRQkNmX09SdDVlQnBDUDAteC1HVDJ1eDl6bW92aThXOHNMeGNsTURkYXN3SjlqeE5sZzgtVTNMd3RScFVaMy1iYVBlcEtzcEkxNWlFUGNxT2w1Y1J2YXFhY1NHOElINGtyZlZOZkNKNTJGckJaR2xHQ3pzTTB1X194cVIzN0lLTjVGM3hhNTEwUXVkWkFFcjlYQWMySmd6dVJJRk0wQS1LYTNjc005edIBwwFBVV95cUxQdTMtTi1wSmp3UzY1X2FWcGZxVUNiSHQ2QW5HaURjZWZMMzVLMFg2NFZxYjUwQzhQUEdVbDJfcXZlSk04WkkyeXFtS1dGZk1EYjYtRDdCRzUxR2Q2QWxsdDVIUEh1ZHVmVG0zcVp6ZWJGam1ITkQ4SVptUk1PR25KYWhXVzhUUFdjQ1JaRnNkSXBZcjNfcUIzVGFydUg0MUxvWFBUV3JMcDc3N044SkFxRzZ4R2F5LXFscmk3WXpLdVJfRjA?oc=5",
+   "published_utc": "2026-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

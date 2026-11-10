@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "‘Nation’s Army, soldiers bowing at PM’s feet’: Now Madhya Pradesh Deputy CM lands BJP in a spot",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNjlqV3gyQkNoV3BGOUN3Mmd3bWF4dmZYYm5KdDFKT1d6MzhSSFR3VFB6RFJzR3JHWnJ1WU1HR3Zmd0RJRGs5OTRfMWgwSkd3ZWp3dGJvVVBsWV9NVllaMG1rcVQzWEVxWHZmMHhKeEk2TWFEVG5jQTdqbnJPQ2RBV3FpQzJjVGtfTU56eGNaQnVlYWFibEtOeVRubjA2Q0kta2Ztd3ZMcm9SWjJSX2JzV2pUMlJiM241TXZv0gHCAUFVX3lxTE16SHM0N3NNc19IWmRnNEtUMFVqcWFBY3YwU3FoZHJwU2U4MENDUENnU2hLem1aaEo2RTY1c05xQjFHNnZNRzJLWFZrVi1YOHh6dDNBclhNOGdGM3Y3Z1N1QkI0aFdtVnFIcUJLMHE2Q205WTRYRTlWX1E3U2djU1Yycy1NbVduOElyWGJvYUk3VXhWVXJMTXlmcFdZc0ZVS2RqZi1KZE04SjZsMlF3WlUzTXhaV3FxUXNBaFFFMFd5T19R?oc=5",
+   "published_utc": "2025-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Bhind is dead’, says MP govt howler in death certificate order",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ001dHJSSmRkVHJfUUtheFk0S0JOdjBSVkQ1cGRSaHJtWjlJT0tyVm5XUzl6ZGRaTFR0QklEamtPZ2lqYjRmdGhGdEIySDdzcTVTX1o1MTVFLWhXMUphMzBYY0JVcjBCblNyRHZhTUdhWGtnZ1BacXc3Tzlkd2x2dnE0RmRsWU9TeWV0NzVSTnZUQ0RMNUhWNVVBVV9kZjdRX19pNWFLZkE5aEdZTE40dC1KNHhlM25hckVzazNDbVNrNThHN0UtZDBXVTNhdlnSAdQBQVVfeXFMTnl6MHVtM21oTWJKVnFXVENNTEFDNTNYcEdZWTNvcFpkeUo0dTI5WnNhVl8taVROYUxmMlMzN2FrSTJyVHo0Q0tBOUxSSlRuS09ZcDJuRjIyc0wtOG5idmEyeEVsMG1VMzhPMFJ2SThaeGRDMW9JMU5KS1Q3cVpyZXdMYXk0d0pYY2J3TmJJb2pFRUJOaWJIeGx3X0pMaTV1dmluN2x0YWt1cy1oNUJuVFZuYUstZVZHcUZEZjh3Uk9ZUUVuOUNxZkpVRk9hcFVHbEtXWUY?oc=5",
+   "published_utc": "2025-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Launches ‘AI-PRAGYA’ to Train 10 Lakh Youth in Emerging Technologies",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnlwUTVLUmVZRUh4OHQ3aUI0a0xHSHNhRnItUUEyOVk3TmJnV3k3ZmpPdjdleS1ibTR1TGV2VkpoZzkwY0FYb3hfaHR2aU1pczBpTGZ1ZHZWNEhkOHo5Ykxhb3lGc2lOUnNlcU5Gb3RlamNLUEhIVlFpUVUxYzNoSU1oWjJ2em9vclIwQlpLMzRPNFdfbDJJcWdXaFhLY09vV3NkalpXZXhkVmdkWjZ6ZXAtQi1yVDFGS2c?oc=5",
+   "published_utc": "2025-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh sees 66 forest fires daily; AI tracks, action still lags",
+   "source_name": "Ground Report",
+   "source_domain": "https://www.groundreport.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb21vRFMxajhBb1dJNUxmbm9VYlFDbXY2UmJUaWZkVXNQNktDWGRyRk1FNnFPdmFCVTJFaFotSUFjSlRhblVPa2l6bzQxeEF5RV93U3p5cC11ZWZWa0JINzRQZmIyclhOaFUxN1lHOWVjWHl1TGVTZzdJd3lzUWZORHRrSk9MTDVhU1FlbWNkUkZkV0NNYmJqd0J6bVBKOFk4MkNOaE15Z0JyeU54bm96dkZTUWhpMmJqLUtvdDVsYw?oc=5",
+   "published_utc": "2025-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Linguistic error: Madhya Pradesh Minister on remarks against Col Sofiya Qureshi",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2l6dDV3ZFJLN09ObEtTOU4ybXp2ekE5UlE3MTlWeDg5OGxONE4xMEVqdUlaLXdtLXk1YmJxTmZpbUN5MlZ4NWdxMUwyUDlZYlI1MHU2ZE5OM3JrZTJkMnYxUDUwaGJTcVhwczVxVkl5eG1nTG1wa0FqV1NXZzBtcVhScElHMlpoRW5FOTN3OHJzQ2JCcDlXUExzQy1MM1pvMDhJU0E2TmlqNHQwQWUxQkxpZGlKbGNSenIwSWFQa0VxUm41eXBxZlVxTTcwdFJRU2xzTjBIWk1Ia2M0Zk5zS9IB5gFBVV95cUxQcHBDcnV0TDB3anoxMEFiU19wZDZNYTk2VmwzckFZVkNrZDhtajRWUkdhb08wTllha3BYY2M3dWdrTm1UT2YyLVpld2tqWkswNXRSNGh3bWVoNUJJNEdPV2hyaHJFTi1GczloYnowX3UybnVXbHFDeTVmRGp1bTgzS2FSWWlXSDEwTGsycHRhaEo2a3N1ZTliX0g1YU4tOTlJSWI1eDM3NUZSMU13LWxsUFJYck5rNFRNc0RHSFZ1ZUFGdTZtZnhMMnY0M2FWcTFjazB5MDdSUVNIWWdyQW52Rk10VGtfdw?oc=5",
+   "published_utc": "2025-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Remarks on Col Sofiya Qureshi: Madhya Pradesh HC says FIR against MP minister ‘subterfuge… doesn’t inspire confidence’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmNVVVcxa1NmaTM3NDkzNjVqMkN4Zi1TMl92NEwySWcwc2xmN1UwcWlpSDYwWXJtd3F0MkE4RVY0X0tTZWNwdVZoQlk1eHhtT2lVQU5JcGoxVDdKSDVHRE9CbFRSZGFCdnBVcTdCVE9uMWxVamUxNXdFTTJhanVHcm9RbFJIY0dIT2ppSmlpbGVoMzhfVER1alh1MXNIYlpCdE04Sk5MSGxHM2c1cEZ3YW5Fc0tzeWFDUV9JTE1RSXlnQThmSWsxQ01fNlhva3B0TGZpU0s5M002QdIB4AFBVV95cUxNQVV4SXRTaGpVUjJOM0NPVHMwU19kcGlCY1ZCOWpod0dYWGhtSEtMU1dPTGdzMkdmV2NDN2ppa3NyVUZHWmNJQklTLTE0RHRxMlp4THQydDVrZXAyQW9EUHZHSjM0cTJGem9abkZxRmtHc0VLZ1ZDeUlzUWhOcTR5bGQ2R09WcGZ2TW5ITEJlZXU3TlZkR1piQ0tRcWRON0NYbnF0Q1pNRGM0UkNSTGQ5QUx2NUs0eUVQNzQxaUdKZXVLS3ptTFQzUFJ0Z2tOZDF5UFFsSUJRa1BaV09nOG9hNA?oc=5",
+   "published_utc": "2025-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: Viral Post Alleging Arrest Of 11 BJP Members For ISI Spying Is 8 Years Old",
+   "source_name": "Vishvas News Fact Check Hindi",
+   "source_domain": "https://www.vishvasnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXlRX0hweHZjelpoM0EtSHdVNGhrM1FNc1pTNGI5MzhTUHR1cldrUUc1eGFVVVRUNW5idVhETWpUaVJ3SVRhdnZyZjF3QVY4X0lzMGgtMzB6bXdEb3Jwc21YSjVVam9raDVaSXItTlNNVzhmUzMzSmRCRVpoZ2thSTd6LUJ3bG1DeC1wckJkN1FQX000UVI2Q3EtT0VDTThLQnhPTkNrMy04ZHd5YV93YXZvbmZaNFlJSmxwRXFiUUVHa3RpbHZDU3Y5Yw?oc=5",
+   "published_utc": "2025-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No cold water, no AC for entirety of June nights for this Madhya Pradesh Minister",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ1V5UU5QLUtiRXhQLVNXcEE0NHRvaTBpU0Z2UWpLZFV4VVBCNjJISkk4WDk0dTRHdHlvS2pfeFBSaWZqOV82ZDEwakdtQWtKMElLRENKZ0tOU18tZkdKZTYzT0ZHaW5Yb3R2X3RGNzRaTktaamw5Yml0ZFI5ODh6RDE4YmFWVVJNT0lkTV91ZGtYcjlDTkdXaF9KSk9nZFhUVDJoR081Y1J1V19KbkZrOHZ0Z1NLQlp3V2RsRGkySXo5OFF0YnVZODNDQUcweXN3dnY4RW11T05Kak9xU1hHajcyRW5vdVdseHgyQXNfVEFuQdIB9wFBVV95cUxQbjBqY0VkcTRRSUZPd3V4V2QxbHdBV1htZmUyeEdpa1k2eEZ0SHlBYUxicGVzZ0xRVHk0ZW5qZ2R3M25CR0Z6ZXM5V3hxa25PS0o0SFdsVy1QUXRmTDczV2RtQThZTWdwOEZDOU5rX054TkxrZTBqVkdrQ0d0QWVneWhWUERvcVU5a1pzZS1Xc0pGT1dzeFZha2UtbzRMaE1mYy1wcC1RMk5yRnNKYXNvMFY0Q1RSOTNuWE1UMHZ2eWw4SlpwNDVISm1VdGxRU0cybDRhNWRia3hNWFJCaHhqUmJCakNROUM5NHkxcEgwbnd5cVFvcjhJ?oc=5",
+   "published_utc": "2025-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indore Zoo now hosts Madhya Pradesh’s first pair of King Cobras",
+   "source_name": "Ground Report",
+   "source_domain": "https://www.groundreport.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JQ1V2bk5Ma2ZBNEdUZFVNS04zSlEzN2JHVGFubTJLVlBGUDBHaFNIOThHOUF3Qll6bm04bFB2UnBVR0V1NzliZ2NDc3FtS2RnOFUxbld0VjljR29HWGUxQUJsSFFaVFZmRVZvX1FPVy1wVTZwRWo0YU1pb3U?oc=5",
+   "published_utc": "2025-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Introduced India’s First AI-Powered Real-Time Forest Alert System",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHpBdEt0Z0l4ZmNWZlVMZDBKQlhnNThXZXRMMk5TQ0tXUjk0OTdxVmd4cldwRWpKMEdJZF9FcTBPemxnNk9pWmtMRjNWRTRwNjZnVklLcnRkRGVBb0FlblcyaWZYc1ZUMmxtc3pLRFFXM0xMYTFSRk5zc3RaQUJRMVBmTHVuWGpZb0tqdmtWWF9VSnlGbnRhM1BBS2MwUlBNVXFPbDNoNXZMSTQyMWs3VUJWUXVXUQ?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

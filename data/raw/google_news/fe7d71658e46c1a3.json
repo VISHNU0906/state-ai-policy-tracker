@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "Vasantdada Sugar Institute doubles AI subsidy for 5,000 cane farmers in Maharashtra",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGxKMXJrRkZSeThXZzd2MHdFcVQzZGdxcmpLM0tnWEt3MG05RTFVM0FVWnpwNlRDWUxsVXU5Z2g3Ylc0ZnJJOURGWE9Wel9TU0xHSDlteDhNUWZSUzRlVzNhYm5NMlB6eVdjeDh5UTlGSUFZbXZCTWF3b2d0Tk83eTN1eUJIa0VvYmtacTg1UjV4Q0xIV2o2d1MyVnZfV1ZmSGE3S0NVZmJXU0lnYlc5OVVKWHVMZ29MSmtBUjBrZzdxdk1tcmFjMUlmeHA5MFg1WXJaeVNGWURWVE4xU0lDVVpOWGVPUVc5Z1HSAe8BQVVfeXFMTWVJVlROTlZKSVVIX1VLUGpmSHZUd21YTUNsaU1qOVVOTFE2WXpTTUZZaVJMUjVrSEs5Ykt4UXBaOWxDYnpFajhUZDBQUGRSV3NmcHNQdzJleUdDaWdId3VlOXJSaGFJZWwwUzZfU2x4ZExVS2JFNkw2azdPbmR5dUthUlJUQXRSUGV5eDJMZEFsanNUVkRlOV9QTEtkVUdPbGk3Q19wdEl5Z0J3YnQxX3o5Q2pUZ3h4aGZrT0t3YTE1eGRGRTloZWxyYjJTSThYempXZ1ppQzA0MmNuZzZlcGhNU1h2T1NhUnJray10bVU?oc=5",
+   "published_utc": "2025-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government announces ₹31,628 crore relief package for flood-affected farmers",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQmY4VUJXZENiNU1fWjgwdjRWb2RqWmZkUW5JTWlpb2tpNmtvSkhuS2x0bkZqc2hJblpoSVVqbFFJNTg3RTM4NGpIQlBhaGE4V3BSX01SU3FHM3hTTkdaTDFMVFRqRFU5UVFpNHN5d1Rld19UdlRCNnI2ZzFQaW1hb08wc2dhd1BlWGtDVzc0NXk3eUFZRzljeWt3cllLYy14eUlfT2FYYkxxNUFndk9vZUR3NVZ0NmxhNWRZRnhfN1UzWXVsU2tMVFB1bEdxY1FYbjYxWUtlTHdKa3BpZm0tTXp0RU5LTUNSZ2RVXy1R0gH0AUFVX3lxTE1kNzZXMWx1VG9Fcm1yQUVtYVNrWFV2VU1tQV9DNmdoN1hxNlBraWpiei1Ja3VWYlpVdzFoM29PQUg2ODhZQTdOVUdhSVptbkpBRTRsd2ZLdWhESDlYTEFaTFhTWjZUUF9mcmVCUzRQRE8xclYyS0pQdVVNTEJfUTBnQlg0U0t2ZmFRTVp5a2doRzVHbnVIR0xRTnFVT2ludnluQU5KcjNhMUcwZ3FRMkVwd0cwOWlmYTR0RnFEaHVqYXJ1N2tLM3FvSGZseHF1VHpXYWotanRTdC1Sb3hCNnhaS0JYQzlmZmYtWTFRdVdkSm43RWM?oc=5",
+   "published_utc": "2025-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Project Trinetra: AI Predictive Policing",
+   "source_name": "INSIGHTS IAS",
+   "source_domain": "https://www.insightsonindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWFpbVM5WjNINUhrMk4tM2ZtbDhMOV9rbUduX25YVWQ4NzlhQ3pFc2hWcmtacXM0MWhmRTZ5WDdsZEV3U056WnUyOEhzeWgxb2xlYlgtMVEwRzZWZXBMY2FaQmFjRERfT2NRWFF6V0hwNGZWeGR5dHFDekFJY2FUWnhkM0pTMlplZVZj?oc=5",
+   "published_utc": "2025-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Government’s Comprehensive Strategy against Naxalism",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wYlNwUFV2enFxR1M3TFNkTFVibGVNR0pmVG9IMkpza3RLTXVaNVFRbFgxWmdOWXBvcXN3VzJXR0k3bGc4S09IVWY1QWFiZkZ4WUhLNlpMUEV5V3JhSldmbFU3TDcxSXJF?oc=5",
+   "published_utc": "2025-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM addresses the Global Fintech Fest 2025 in Mumbai",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEtFVjJ1ZlFwbWtJRElaWFJmS3BnbzNvODhGcWNObTNQdmxqT0o1c3BiSDNpUWtXRzB1elZUOU1wUkxnN0tfUjZ2VS1MWndsWmZDMFd1OW0yaUhZeG5yaWdsZURxZEo2eWJpSGg3eklKemVBWjFGeWNnUDBkLWNna1J3UjJGaHo5SzhjSzhOek5MZGZxYVI0SFhtRQ?oc=5",
+   "published_utc": "2025-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra introduces new scholarship exam structure for classes 4 and 7 starting 2026",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTV92eHBmYXpzSTdISkZxc3lhSW1MRWxDMHNzcnZDbFZWYmNkOHdRY0lhVjkxRE1kSFRJR2UtSzJMWVJUX19DaFVmZWdnSGhvQ3A1TGZYS3dVc1l6XzlyRU1YX29HV2NhVjV6c0hnM2EyOVd0ZjNrTXJGSGgtZENsZVdCMi1mbUhtOVJVTVYwenU0aGRCY1Qtd2U0MTFIQUhQNDdBTHRWX19aQ2diZWdyQVB1Ym84cTJmandLQU1jdGtleHEwc1pkRDFvdWRsNjlhSzN6XzZiS2lKek1ZcXBZ0gHmAUFVX3lxTE0ySlBzeVZmVXExVVMxSkZQaGNvcFVhMTJVWGNzS1FENlMtTmZXWjlXcTRuS1VwQkwzVS1GMmQ2UkxINXpmNU5WWHRqT21WMTdONXpVb25OWmpQamp5YVY2OHhxY1VteGJyLXEyTk9pWkdoTFUyZS1tWU9yeW5kdUZKeDVpS3VnRjVJTWpmLUZKNmNTLWZPUjNsQkUtek9iLUljMVE5MGswcjJMWDQ4TEVMNklqcnBRU21vZkNaV0JUUWNTUVMxZlU1M0h4Umo2eGhrMEoxN3Bkc3FOVTMtdTVQOFFZRFBn?oc=5",
+   "published_utc": "2025-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Are teachers ready for AI, coding, and drone tech in classrooms?",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ0NTSm5icVBIQ0dmVFVCdE5jU3ZFMWk5Nk10SjFUVklHbXd2Sk9oWVRnbDkyT2JXaTZPSHhzRmx1cjVINVNMQUJldlJKUEpXTU1HMEZGOUtQTVQxRlFBNkJMV1A3QnMxX2szWDNVWDdLUUNkREhybURXMXdGbnpjUjVNXzJCTndsYnpJM3BYLTZneEd2cFMwaHNOb3dWejg4NU9wdE9IU0RBMTNodEUwRzE4WThfUmU4QkktYVU5ZndJZWVBUGFnZG1sZlYwai03Z0JBTlA1LUlqbFItZXVFUlIxM2J0SDhudmNR0gHwAUFVX3lxTFBBbDVJVUdFaWx1dmtaMTRVazBZVUMzWG9DVS1IUExOTGlXN2k5WE5PMGx6MEZOcVRiS1BEa1hJY1Q3cVZJajE2dFlUWTBiR2pIZWpWSldUb1NpRHU0ZG1HSGRWaXRhOGNrdTd2WEtOdzloNk9TZVpUby0yeU10Tzl6V29lZFhPbUR6Yzg3SEhGOG9KS2JLSEd4TmZDVi1MSk5LOUM4UWQ1cWNJRlRRZ1Z0SWhraWlwcWVlTm1RUWozT3FKaDBOR2Z0SGpoajBoOGNKQVFKblF6Rk1xbkQ2S3lYdmlhUWFFX0pNcEVNQ2JaTA?oc=5",
+   "published_utc": "2025-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre to introduce AI in school curriculum from Class 3 in 2026-27: Here’s what students and teachers ne",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQenVoM3BmMWFZYmllUWxCeXV6Z1lDQ3pxa1dGdFZ4eTg1US1TWFVYYlRsUVpKaWdSUEVEcHJRTmNfcTh1MXZ4TzdVLWN0bWlhYVRka0U5UDdELUQtc2hTSEpfTXgxUGgxSVRzUUhiZnJMR0h6UFpIMF9QWlpBM1NiT056R2Q2aFM5UXZlVWl3OHRWSm80dGJFT1BNX2pjRjR5TDlQb1lXa2hvbnpFVHF4Nm04Ul9LZHZQTm5GTmFRVW9fMDFEMVIyd0FaNzNzcFc5SDI5ZHdhNENKSXhDS3RvOFRKc3BwSFNDdnFwQWRkaTVOcnpGajNvM3R0Q0tEN1ZXc2xrVm5wSktHaUtNMEpEallRS21uSFVIZGfSAZ8CQVVfeXFMTkx4OW01ZkxnNzRfSGJ6WG11dUJhbVV4RHNfeXF1LXdMUzR3QnA3akREOXRBbnhFUlJ0RWxEeURYMmNqd1pIU1RSNDBlRHZjRHMtaGhUeTJmU1ppZGNnbXhPUnQyNWNSdm1kYTlZY0hVV1JRa3BYWmQzdzhxU0pMclBDS1JHb295MnBGeGs5ZldMMUMyTGI4TE92bjd3cE5hVHZ5YTRiREFaMExlU1pOMUc5dGR5eHA5b0h2eUdjVVM0LTdUSHNOb3ExSHM1ZEs4dnBKdmJ4WjBETXluT1UtSmgyWE42dmNtYVNGbzJScHFUUzc2dXdHbW5fZGhxYzZjSkNoUzVmV3Q4VUVvX1NjQjlHZzRGZEpoQm9XSGIydnM?oc=5",
+   "published_utc": "2025-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Board Class 10, 12 Date Sheet 2026: Find Your Exam Dates Here",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemwySHhzUjN2N3BiQlAwZkdLem0tVDZDdDBGS1BKZ3BRYWJ0ekJkOVlkR0FUdFBsVnZyOU1VenRHbjVreEFxb1JqSmtUenNvYS1QTjRucXR2dlh2dHFBMkpYeE5fcHVhQXoxX3Y3WUxDOXJMbWhBc1JpTWVhMXE2WWp2cGZSTVFMWEJJcnZDSkFvRnlJOVlLOEJ5RnR3eGxnMnd4VmIwUk9TZlkzdl81Z2duSdIBuwFBVV95cUxOaHRDRTVzdURlR29KTGplWmVVNzY2dlo5Q1BjWXNYS2hSWlhXSWFicFBoOVpXUEFsU2F3NFRJVm53TmYyZ0VXUXhvaUM4c3R4Wk5GN0FZUnVOR292TnV4aDJNSHlPOWNfNkVBdXNaZnF5TGlPU09Uc3BmUE1HdnkweENweThVSHhaZXNELWJSZ3I0dlA3WXc4NUNfcmRLTnF4MFo4NGs1TnRLdmlLYmpqbjRmd1dxNTVMVVBN?oc=5",
+   "published_utc": "2025-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, awareness, action: How Rajasthan Police is transforming women’s safety and governance",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSW5hN0tKNFQ1N2l6ZEx1MkhYR2tOdzlILUZtSC04TXo3aS1rMXRpck9TQ05KdjhLMDE4eWphVk1ZRE84bEd3UUtCWkc1WER5MUFCcFJmaVhrWmRqQ2pmZDZVSDU5MWF2Uy1pNElJSlE3RHZfUnBmZXJubmlkNXpSZG1HZ1lOSFJOQkg0bkJNSFhINnpvWXhyZFlWdVpmendrV193Y2xuYUk2S19rckh1WTZ1LTVBNm1IQlBQOFJaaTRONnk2TkQwSVJB0gHPAUFVX3lxTE9Ic1lLc1hocHkxTzNsTHBYTDU4NmJhLUdPd0F4V2d1QVdLZG9jaVI3MFlZU3lteERWSkVhX1NDdi1lbGNsbVREM2IydzZhZGtjTEJSRHVOSE9uT3ZkWmNuTm56eXFSQ0tjdzZzY1JvaGx6OVZNeDFHTVFUZ1ZFUHQ4MFlFc3IyNzZWQ2RwS1M1SGxCZmc1NTRWd2JuSEpTbDNFUWJWc09Udm12UmprbVpCUFhBV3ozTWhyQmYtZGpJV3NkUG9MaXh0bHBhS0V2Zw?oc=5",
+   "published_utc": "2025-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

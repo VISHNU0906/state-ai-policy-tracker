@@ -1,0 +1,69 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "TG eyes more data centres with advanced infra for quality power, Data City",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOGJ1cnhlX3BUbFZxbk1rVVVGbjNneXpFVTBIczMteG93STBVT3p6LXVTWVphcWJ2MzN1V2ZCejZIbUFPcDctd3dfdGpiNDl1Wnp4dGRaTk9lSkRlU21yU3NvckVEeWdSMjZnVW5jS1RqZTBVYUpKTGZDbDQwMVVYc3VMNS1zcG5BUGczak9CdXh5eVlXOGFyVnBHd2syNUE1SHNxV3gtWW9MZER5VUlSdkk1cGJ6V0N0NkRKUnNjdlBZazNRWC1hcERfZ3NvWXNNb0huczkwVdIB3gFBVV95cUxPbFVUWVhjaVNBcFlaUHVEdjRMMkVIbGF6ZzBIVWJHWU44T2xSRkREbE91N1Znc1M1WE9BcHNPaW43dnZBZHNmNFl1LUxzSVZMeGV2dUxqNE9DVG5iWkhSaHNCdFlueW5vV0hTMUhTRHdQWXlpZUhXU2J5WWZoVnBYWnRMaTZzTFBaLWNIcE1nYnlRdVhGc0F1cDJmZjNTT2JaWVZyWXRmVEJTVkd2VS10WkFpcmgtdTB1cjNGLVRPWXB1M1JCLU5IQ1Bzc0pYcEp1QnVrUnpqSDgzZTVUNWc?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Analysing the Data Centre Policies of India.",
+   "source_name": "Nasscom",
+   "source_domain": "https://community.nasscom.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVdHMGhRQ3l1TFpUU0FjQTdoOHYtVnVGSGo3YVpBUEpnV1dhVUJxUk5fMXdrRWxrMUY4MmxmNUNHa1NBSEZwaS03S2dXY28tOWR5NUN3Rko2c1B1WEIyblJ6WFJoM1NGUjRzeXhISVphYzNmNHRjZ3RGeHdwdHUxNWJFQUc0ck9BT3M5dmltQkFPQnRoUVE?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State data center hit by outage in Hyderabad, India",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanV2Y2tOdUh5WU5xMXhsLWJrTk9jRHhadjZzX3FpX2dBQzMzbjNpU0Q0YUM1YUhRZUlzRFJRWFp6ZmFsNHFYeVNwbjdkbjk4UnlQUGltV1Z0a3VUeURscU82d0c5X3Z1VW9nWjFFcnQzdXFrQVM1Y1lLY2NIbjByby1CSGlnWDR0ZmJob0RzUEo3NTRKVk44NUdB?oc=5",
+   "published_utc": "2025-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Govt To Set Up AI Innovation Hub; 50000 To Get Skill Training, 10000 Jobs In Three Years",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVV9qX01KUVlMOUpFazNCRmJiSE44d21oU1NYTlRrQ1dzMHN5SmhpQnBiNzY2Y2dlWTVfVGlaeEFFc241Y0ZkVG5RNFRBcEtzMFU2Ul9RRnR6a0Z3V1hINUE2ckw3YzNRLWZWaTJTck02MG1xak1oZ0FPWnZQNmluN3FsSUNpZ3lMV0FWUHl1ZzFhUHJlWVhCTzUyNENNRFo1RnJJMjRNY2RRM0FPTXExb2h2dU5MNllHOWFVNUJrOUFsRlV5ajlIRVZwU1ptZlhwcXZNZHE5QmQtcGVtWHBHTtIB5gFBVV95cUxQYUE2cXFDUTVhRHFJSEQ2QV9jZDRBeVR3MEdYa1pCWGlZVXFjbmZBRkJMSmktanQ5VWpfOE55aFF1OXg5ZXpwVlo3OXZFWkoybXhNaDFjdVBKZWJramRUaG5yVEk5SUhLNWJoMFp6c28zZ1ZMWW9KRkxoLTVLV0NydEp0MDdYaTZjUUhVN284b2xXaEVZcmU1N3NYWEIzNFktSHFOU1AyTGcyUDhxaWhtUjJSeFIxWnltUmh4X0FYUm5VWFQ2VVZLdkVCZVEtWWJzR0hwOTZmaTVBRE5MdGpabHJFSmd6UQ?oc=5",
+   "published_utc": "2025-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Consumer services remain disrupted in Hyderabad with water board data centre malfunction for third consecutive day",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYVh3cXJkdEpnYnA3NlJmVGtNR0JJUG5qRjdncWh5RjBNODBXSjlYS3FyVXl0VGtSbnpPUGRhU2pHb0tWM1BJa3FMNG51ME9leXcwRzZmY2hSOGpubklCdjVYam9xdHN2ZU9ld2ZDOVZ6MzVqbU0tSjlnajRQYWJtTGVhTkJSa3JPWGVLTHNSTVlJSXJwbHZ3QUUwa1VJU3BvaU5iTWE3clBYcFQ3TkNrYXMyMHdkVm9ETkI2ZGMycTFDVjY1aDI5TG53Y0VvWXhBS1YxaWQ2YXM?oc=5",
+   "published_utc": "2025-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CtrlS launches Kolkata’s first rated-4 data centre",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LRE1BWnRGZVV4elRpSFROSDBiN255emE1T1J6S2NvUGhhZGgxQTVkRHRIZmZpdHJmUWdYb2YxOTljOTMtS0pUWTV1V1VORE40LU91Ri1tQ2tQRHBidVIzcDFRYXZfMkJJMDQ3ajNDdmdBUQ?oc=5",
+   "published_utc": "2025-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana govt faces legal hurdles in pushing Future City project",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2psX0VkdUZva1hxM3dLdU5WR0FQc3p4bEJYSDhLd0dJa2FkMWMtUGVtUEZZQ0ZPa2lwYkxDRlhuS0ptbjI5OTdBa3IwS3k2NjRjZmdRODAxR3V4VHo1OTk1Z2s2SlpGdGprUnROLUZ3QjJ4WHllQTdsdWd4SGFIR0NyNnVrQ0VPN3N6bHlDNE9jdHFJLTVmbE5feE4yTjJJR2dPOFB1WmUwMl9pczlXZnJONU5uZ3d0cUpwV0NuMXpqZUZHNmw4UzBiZm0yQm9VSE84ZFlNRlVaZ9IB3wFBVV95cUxOeUNyN0ZKd3NUUWUwQXRlMjA1TFNHSU96dnlnSDZIOXptTVNDdWFiVmlmY0ZaM09CWEZlRk5UMHJtMG91RER6S05hazhJenNfaTk2dXJwM2NGNW9RZF93M2g3TlRpbEFfMkNpQ1o5Qlp0d2FmR2lTZnEwRGN1WWN1aFlEOE5vUVBmdWMweVAyWG16LWJyN2J2MmZnNzk3S2FiODdyNjBNMWpkakVTWXhjalFVeG1zaWVnemN2bHN2QXRYU0xfend0b2NaWXJNNTBWREdpR2o2UTZpVk16U3hR?oc=5",
+   "published_utc": "2025-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Committed to delivering AI-powered citizen services to one crore people by 2027: Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV2pSajNSX0hjX01OTFgwMjVuVDJzYWxwUmlBdFFmSXJtN3B3b3BxQlY2bzg4VVJ3WVJGY3VZa0NicUc4Zm12UDlNc2JZck9DeWp1Uy0wSUI0UTJId3Z6RUtQekxDTUhGeXU3YjJ4ZzhwMi1jOE9WZWkySGd2UUljMVlHcWd2Uldmb2NWRm5BcHhEOTVUVG9MSG5RY01rckllZHZLWTFVcE5rSzk0UnNDNGJyVUQ5aFA3WE1XaXY5SUJLMEFuQnNiN3FJVWF3WTNnVnRwM3Y3U28tcW96X05DTnlfLTJncUx2SjZMVVdn0gH0AUFVX3lxTE1OTm1RUzZJNTJrb3FqcEZoUmNqQ3o2U1dETnJRa3J0Ynh6Yk1iRmNfSkNraC1hSTF3a3RBUkVDTE5BbG95ejd6ZzRwS0IxTENTVEw4bEdIZHVBTFVZc1YzcHc1c3V6VTczMmJqMHd1SlVSMWpkSjNtZmtCMDduS3ZUQnpvRGYyVzZKVElQOWpJbzh3cnY0aUx0bVBNTjRVc3R4NkJCRmJpRHhxekhLc0dWR0pJUXhnUGJoQ3ZlLVdCVXp4OTlzTWd2WkpLeFZQbkxRdElzazd4QlN2dUUzanVocDB2aXJVRjl4VnhBZXJCVEY5OGw?oc=5",
+   "published_utc": "2025-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "ELCOT inks MoU with Perplexity AI to train college students in Tamil Nadu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYU1zaUJaWDBiR193Q252Nk9hWWhWd1E5TnZzVDJaajZIOVRtMGtvTjItZmFqX0o0NTRfLXdYb2F3eWhaaUxscVhXVE95Z3FrVmlpLWJDblplaFowb3JaQUlSS0NETEJ6MUlKRWlSVExhY2pTSTRnb2k0eGZyZlN5ZjU5bjhaSHhUOUJpLUtvc2VBZzBSbDlVdDZ2cjRWQmJjZFhOcFh3YlFxQnNUOFoweEdoTXlwOVI0c1lfMDJrQVB4THJXZjg3ck5UelctQmR2RGZwRnlPY25yUFHSAeIBQVVfeXFMT3ppWjdXOU8yYXBqTFpzYlFQbV84VHhWSXo3bFIzWTNBN3phSVNWMU56dVNGUmlDSHpHZWFtRGQtZWpDanU1WWNMR0hJbTJmOFdPMUdJeXBCb1VOaVNWYU51RENxY2EzTTktSDJfU245ejZKVVBsREtaLWdFUnVxSjhxbDdJTlREbWg4REhLajJ5Mjh4M09haHJNMWxiU0Y5QXhPM09VekMtZHNIVi1sUFJjcHQxNnZyR3dmUzdXTU5QVXdBWFpwMHltU2h4c1p6S0tEX2J4bjRRdENPZEN3bTlVQQ?oc=5",
+   "published_utc": "2025-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Innovation is not a privilege- It's a public good",
+   "source_name": "Unicef",
+   "source_domain": "https://www.unicef.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWdua25VeHRFUkRCczduQ2ZmN29tMURMQVBKVEkyRlh0a2RKV0tZRmdoNkdpUVBKdXJCWG5odk05STRmaTV3eVRpUVZKX1VBWWRHNjhqV25BV0JHRUI1RUxzSmRpU1F6QnRoYlNtaXhWZS1MYjNCSEh1VkVpcWwtdWg3QWYzOEh1aGc?oc=5",
+   "published_utc": "2025-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI to monitor wildlife in Tamil Nadu forests, reduce human-animal conflict",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkpnbTRKZGxyQUYySUw0a0hPRGpyRkFUUXR1eUs1eThIUUgtZnF3cHp5bzFqdHBnS3BLTjhxeHg2c1VwWGZRVk0teTNHdE5PVHNuRkZfSFB2VGhUeEZDX0ROSVlialBWaWFlbnh2UmVpSFo5WDBueWotb05UMDAzWmR4dTJWZnNHV2xfYXA0dHFiUXNXT3ExSVA1LUpTOFpSeGhRTS1KV0NUODkxTFpRLUF6QkhRdGxRVmlFY0JmZi1yaTl1ZXJZNW1YVENQRzVZWENISW96ekN4N0hNRXcyZmVMRDRWeEtkSWV5WVdkc2NaTFJERUYydk15dnk4OEZGVVHSAYcCQVVfeXFMTUtLc2hkZlZFWnpwUUlldDdIbW5SZDFoeHhnRW1mdXRJeG5SZGZMYTJkeFBGUEZleGdKdFZkMXdNNjJGTC1pNV9wRF9XbzN4WHhFX1lXckNuOVcyOFNCcTNQNWtZSW1CSFVLWE0yaVBSX05QZlE1Uzl1c1RJVmpBWXVZYzVDa1F1SzdkeDIzdEk2YzBaVW8zVmpDdlZDRmZQZXhEQlRRS1lBcHJaMzF5bHczQzRnLTRQM0o4eUt3T2NaQWNWTGdtMWY4c0JUd2dINHZ5NVpjazlXdUFwTEJiWExZWHZuWlRObFVWUTRoNGtMcEU1MHJOOXBmR01mSHpBN1p5QW80QUk?oc=5",
+   "published_utc": "2025-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PTR says human capital can help Tamil Nadu become $4 trillion economy by 2047",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdE50cE5XZjB0QVd1NW1kY2JwdE5vQV9qcm1LMFAtNE0xd09vdDVZMWFWTE1vVW9LVFZHREdWSVNibEFPNDFBS0M1TjJ5N0FzS1hzV0lwRG5MZ3pDTWRFUVA5RXRHUUVaMXZKd01QRTl4bUVaNnFUUW9wcHBpelJEVkVCcElXd29KT24wREp0ZWZyZUR3WUNPLWJBSnlGVk9yV2hWWnJLTlh6YndvdU96UXplNTg1dmVFS3hmZ2R5N0M3UjVfcGtQVzVWYVNGd0V3YW1Ib2xR0gHjAUFVX3lxTE9zMFI1aGdJbFlMbGRtZ29ab1RYb1h2MWlnck56YVdGMjB4eDFOWXM3QlVjdVh1aDFWdDRaMXdVUFM5RzdnT2YtNGhpNGVBNXhlZG5CNTVtZ3hXanJTaXZ2bGJucE5QSDRFZFVod1VwNjBTSmttR0JLdHJ2ZnNsUVZjY09BMTJ1X0kxdUFxMk9FMlRCeGtoUk1aTXV0aDZXRlpkc2tVQ09DcVJ0NjBiTkViTzJPZk9RRFRpR1JGd0UweTdSQ0M3ejNpeGd6Q09XWFNrWjhWQnBoeVFfa0xyMmNkRXhF?oc=5",
+   "published_utc": "2025-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt forms ministerial panel to hold talks with JACTO GEO",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONWFaLUpMSkxsZjZScU5ZaE1sUG9lam11M2phelBEMXV0aF9CTS1SV1hqalU0WWhNS1pZbnBUdkdKeGFMYUt4OFR3R3JvU2laVXVDSGpUYUR3RldhcHNPM1Z1NVBuSGV3Z3hVaUNZd2Q3SVh1dTNtR1JXVnVpS3BHeElKazF4cTQyTmgxS0hmTEtLaGNUQjZWemgzcnh4YlBWbUQ3bUFJN1g5eHFMUlZYdXB6VFRYdTQ5b09GdjJlRm5MRF82Y1RnN2M0UzVzUlpC0gHWAUFVX3lxTFBrNHczS0J0enpfLUFWNUhpUnhKa1ktX21KWUM0WktHRlgteHBzSVp5bE5uSlhaakcxQm0xLTl2VFJORmo2VTRkY2ltTGVqenhmOUJVVWlWUUx4ek1DUVc2c29ITUFXaW9QdTZmRVI5aFFQdm5SU2FfcllhWUNsQnpoTll6MmVEX2loV09hX25jX3NFd09PTFpKS3BvRklaZ01PMmFYbFJfejhTanpuY0lmN0hyTHlmeV9lamR4cU5kbXhCZFNFMGo3TU4yY25XYkI5SnJiYVE?oc=5",
+   "published_utc": "2025-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Govt Undertakes Major IPS Reshuffle Ahead of Assembly Elections",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRUZ2RnlvSFRiZGVmVVVFekdtX0c2Y253bmlXQ29Fdm56V1ZLTy0zNW90VFMwYmk1Y055MGZLaDJOMXB0T0dXSTFZQjhwU1E2UmZhZ3JoWXZXNHJJaG1EeHRDWUxjaHpmTlMyOVRCakRHU0dxaFVva054WlpGbGZUZ1VtOXE0QXgwZDlmWFB2a1Baall2dTZkSm1BcEdWWXZqTDFDdmJBVzVWSVI4czRoUF83Sk1yRWR1Uklwc2VZQzc4dXJvV3BfU1U2SHdrV3BmTEJWeTJxR2zSAd4BQVVfeXFMTkw4RTRuRExiVkxkNGktbW5oTGl1V2UtQ1lTVmZVSVY2NWhROVhkMkRUZGxDa1p1OU50NFo5VW9oc2paOEx2Q1Y3WDdEdkJCc055ZkwyOGJCOW9JRmdqYTJUUkdXVDhUalRwOGNkVVpZR3M2Vk1iSnc2QnZ6bmNIby1MUS1pR1A5OFdGdXJHeS1jZGZjc0QtSWlaM1FlY1hoLWxVZjZ1VnI3ZVdHc2tGb2gwcW9iVkNjdzBpRGlERTFzUGdvUDFJX0pCbXBOZ0NkLXBWbGJ0UmpFOE9QR3pn?oc=5",
+   "published_utc": "2025-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video of Udhayanidhi Stalin using computer ‘without switching it on’ is AI generated",
+   "source_name": "Alt News",
+   "source_domain": "https://www.altnews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFhaWFF0b0I4MGZnV1pWZ0tFY1djS1BsTFBkMERjUGE5LUFHYzN3aHIwbHl0RzFUTmlLWlZSQms3MEVlUHdnOElVSkNtOHRHWGpmRUFmdDU4amRTeGVlTFVJaGdTcXZLUW9WMHNla0k1TERaSGQtV3JtVUhPNnYtdUo3Z1JMNk0yUTRtNlN5M0JsaUpDbE5LaFRCNjR6MWV4ZDUzbnc1Ymc5dw?oc=5",
+   "published_utc": "2025-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches new CSR and\nAI-led land-use data platforms",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEVsd1hrRU1pQzU5djVBMDJwLXlMckVjV2RmTmFBZi1OcFV2aDV6SDByT2xuQkJCRTQzZmpld080VFdMd3BHYTA3c3dNOFViY3RkTEdtSlZWTVNlVE9LcUxBUXpWemlQdlJSTTdDbjhRRmVxWVJqdk91RnhaM0hhbFdjWS1YNG5nOUUybVlheGZKMEo4Z3F1Q19pTWZkYUlNME9PVWpoUllaMEhvLUEyVUFaT1ZkZ0VMSHlCcGRuR2d0UdIBzwFBVV95cUxNYWhuZVREMUZ5eWVfUzJwNUk3aEhKeFFOUi1FQWZpRE5CdmQxWmw4Zk9XSFY1blpGdmJ4bEpBMkVNQzlDaXNCcTlNRy1hS0VDcDRjZWJwTlJ0bTNiYjZWam4zd3liZTVKVDdybWlJeElXN004aDd1MExXc3JDeUtNWVZ2UlAzek1ybllTWGJ0dFhrNnFNM2IyQlFZd3RXa1JKd3B2dC0yb2xIaUp6bm1PNGVzNlNudXRSSHJEalpTY3RTNmp5bWpZOGptc2x1TEU?oc=5",
+   "published_utc": "2025-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "All roads lead to 2026 for Stalin, Udhaya, EPS and Vijay",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkZtVXZ3UEpqNjNlTEtDVGZiaDE3WUJYelg3M3Y1UDlteVhMcjQ4WnNlNGtiR1JJVGNCT0lxejE1NWdrNTRWcVk2MkVqSmdPZXY3dVdrTGxNRkpyV2pPNkd3TUtNRm9yNjFlaklnQWNuV1RwV1BIdi0td0xOLXZpX2s0LTRkLVFWaTdnbnRKVWhwTHVVLUw4ZFd0TjVwM0h6dE16QjRDeXl3ei1oeXpySDFha3dxZWZOQlR2b0dB0gHDAUFVX3lxTE1JMU1adnI1LU1kX1Q3UnVPU0d2V2g2U0FMX1daYmFLNXFVUjZjUjVVQVE4OEFzUVZBbGRady1YcXp5YUZfQzRiR0trSl9CT3g2ajlvMmNKMXlJRXp0WWx4OXJ4MHh5eUJra3NXLVlqcVU1aXEtd1AyR0pndkhfeDk1R1ZrMXBUWlBSOGY1S2ljNk5kZVQwYUhYc19TazVpM0I4bG5uQ1hoeUNkNDNzMklucmpaM01pb3JkcjFtZWJmMVEyZw?oc=5",
+   "published_utc": "2025-12-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Free laptops for Tamil Nadu college students likely from January 5",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWJUSEVpUV9PbHBMTWNmOEFIS1MwS19PdjdZRlQ4XzZzVHBmZDF4X19zQkpVaEVnSDU0c09OUFFyNHRKZWVGckVZX1ZmbUl5YVFUeEtpQlI0ZTNZZ2QtOTNEQWxSR3N6RkU2ejBGaTdFQjlmU295bi04XzFadjJoVzdONnU0RUpUemNsSDhRNXJReF9aNk9ldm1MLTROdkNXVmxtX2pKY3J0WUt2cDlubTB6MUo4SW94NGVpb284eTFMM1VYc0ZPRdIB1gFBVV95cUxNM0tXU1pFemMxaFktUVU0d0MtNWpRNnE4bUIxa0JTQ0ZBZk1Xbl9rSmlYZnEyamt6UDhZVVlVUmRfUUcxaC1DUVktRWhjV1B1ckFRa25fc0RtbXk4ZmxnWHU1bG9UWTg2VlhoWU9LcFlfUFV5Q2dZdnpETkxRRG5xUXVhbXY0TXFkY0gxZDBmeE9JSVFyaWMyNW9QdHBXbFQtZTdNRkNSSGxRU2tEV3ZLYk9teTA4aDBVRUZGN0FkRmEzWGsyeExLVkRrYWtDbzlCa1lDdlVB?oc=5",
+   "published_utc": "2025-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

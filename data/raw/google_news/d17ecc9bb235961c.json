@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "AI tools not for decision making: Kerala HC guidelines to district judiciary on AI usage",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkhzVFU1aVNXR2p5cXQtSWpLb2R4OEZPeU1OQUdZeUZQWHNYdWkyRzlfeFRtZXh1b28zRmRiaF9Yb0VoZkpOSVoyQmdiSnk0Q0xvVzB5VGQ3Z2JYdU1fY0QxSTc1bWJoT3BIaEtiOXRlOUl2OWFRYVVKOXpjMW45cXhPZktKLTI5eVkyUWJvX0RGZmxDcUdUaWhTRGxzNWN5NmItNFhSb0t2UlVTXzNYdW9RU2t3c0Q0QUxjSFlhOEhtSFFZTzhVUFZ5WjlLdzdqY1dGb9IB2AFBVV95cUxQYnFTM0xkV210dGNCeG9ONi1MNHhFUjFKNFZ3QWNieU0tVHVRbExpMmZLQlFIT0N5eC14QUIwSVVTMlRxRWthZTFsVmFQY0Z5TDhudS1oVWpoeS1ld2hyclI3Tk92UjNBSjBlUlltT0RwMFVvTzRrN1BDSkp2S0RqS0tXX1ZvLUh2bHdNTjJnRkJKb29FSmJjM3dqa1JPNFc0ajlRVGg1a2RxSmEzQno4c2dfTEh2dVRjN012RVdxLWJlanYtdUhuZGpERFNaallQeEpJNnFic0U?oc=5",
+   "published_utc": "2025-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 700 Million Sanctioned for Kochi-Palakkad Corridor",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMXJqcTBQTlQ1TlUzMlQza0dSejRaYTllNUtDMEk2c05TajJyUUhUclNTT3B4XzFmR24tXy1nOUNqM3B6UTFCcnpGaEFHVk02LTIwWlRPclVSSDJHVXU1RHZMdDMxT1RGbzkxOHB1NUpzclVFSHBBSGhULVRoamlnUFVrak82RnJOZ0dYUXRlY0VrcXBQOFVjZWZiMFYycVZNVGt1ZGJZUW5tSlhuaXJ4eUdVajJsLW1pWnR2U0swMWN6V1pCU2kwa2hwQXdieGd5dWhwZGx4dHBNV3BXUTRMWXE3eEFQQQ?oc=5",
+   "published_utc": "2025-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

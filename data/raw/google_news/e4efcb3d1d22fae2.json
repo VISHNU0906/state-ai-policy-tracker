@@ -1,0 +1,69 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "Architecting future-readiness: How Uttar Pradesh and Sify are building an AI-ready state ecosystem",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVV8tZ2JHdnZ5NUszQnRVQnBhXzBiVF9jYV9OcS1YY3BBR2RodzY1U2loYThCQ0l5Rzk4YWJKTjlGU0xUQmVFbHBaRkJQQnI4YWtwMTVaWVM1U2gxekhUelJCREJoVHhpMEJHWGUzWFREZDAyRk0tc0YwX3JiOE9SeXROaUhGcnFPVWZMcmVaQUJ1aUtKbXc2OHNSeDlBMFBqMUQ3RXE0alVSM2JHMnFEc1VwQ29QZkRkS0JKYm92NXVJNUJHUkFZT2FFYnhSM3pTTXg2N2NGTHUwQXJmbVF6LXVjb2FGYmYzQlQ5Z25OVk_SAfYBQVVfeXFMTXd1R3hiNjRoa05NMVB3MVp5WGlUcE91NU5TSmlZeTJ6VmQtekR4OWtXZlNQSE9Ldnc2NFJZVHFPbDJQUWtrZmFVYW1BQTdjWXJabV80V01mWGRjeFhKY3owalpvbHpqRVkzSHJfeGZuTHAwcklNcWNFel96U181QXU2c2dwdjVERkdnVkhMbFd0dWRUVmJrMjEzNFVrMHpKdDgxdjlEQVl0c2U4TGY2SDlWSFNEQ0duYWpkaUUxWXI2cmEtcWY1cm04Sm9aNUhaNGN4ZVgyby1KVDhrcDhZNUdud3FocXcyUk1JcUNsZUxfWkxuQUl3?oc=5",
+   "published_utc": "2026-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Builds the Foundations of an AI Economy",
+   "source_name": "Outlook India",
+   "source_domain": "https://www.outlookindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDAwWG5aOEd0VFBudFFvQ2hmVkQ5NU11MURNaGpsU0xuWlZzZWp1TUdsZ19EVFpWZFVmYmhHQkcxdTJtSnloakxKblNLMWdzUEJUcWpuLVJ0Y09ERTJNWnlDVG5SZmhpVmI2MGRFUjduVmtGLTE0dXVmcXF5eGQ3SWVqUDZXNldPTV9kNGNid0YxZ1FjY2xzeHc1ZGgtSm80Zkh5RFBvRWk4eFl6RWppaXV30gG_AUFVX3lxTFBZYzQ5TVJONEdRajFJT3ctaW5xa1p0bnl2LXZBdHFxN0RjMFpsNFl1UkhBbkh5SlA0dVlNVm5sR0dQdFg0c3hXcjkzYTd0ZnpYWjk5MjRUa0YzeURSbTd1cWRRLWFMR1BEaEk0T2tfUC1MY0J5SXhyMFVKbEVvS1ZTU2FzOXZYbnU4UGNVZU54V0RfUUdoVWo1a0NuNDQ3YmV0WjF2cHdVVEdVdVlia2lMdjAyVkNfLVljaHpJV1FR?oc=5",
+   "published_utc": "2026-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOXdBWjhSYTByVXI2TjNPSXg4b2cxZE80M1FhX19HSUNFYi1Pd24xY1FZVnd3Tk1mX3NReUYxV3B4MTlZcFJPYWdnS01jaGYyVVBENE1LckExclAyWGdCNXNmdWhyd1VxejUzNG40ODE4TkVKcVBiV29CN0Z5b3FKTXRmbHlMQ0ZieWdOTjVpaFpNUzdoSGNhREJ3UVJsTE1PcTh2LXlvbExwSEp0aU8tdVVYZ0x6bmVVTFFkOUFXeDN2b0NaeFVWUllRSmZpcld3MTJwSGRVTm1ZMkl1QW1LdVZBWHN1bmw4bExTb0s2T3UxNi1venJteDViMA?oc=5",
+   "published_utc": "2026-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amaravati to House India’s First Quantum and AI University Campus, ₹730 Crore Project Approved",
+   "source_name": "Entrepreneur India",
+   "source_domain": "https://www.entrepreneurindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU1B3MXBhS1dhUVh2NjhPS0otTnFpSW1EYnpxVGpKejR1cVB6TndVczBMdGRHY0JIc0tMYVpaeEpIdkgyOGxsSnB1OGVlMm1MeWVOWXpiTnhUSnlFNDQzLUItLTlwV1JuUXluaThvNktORFZQalhSYnJUYlF0TTNtV3Y3blR1aVo3bzQ4cHYtcVQ5Q2JBdTlGSTNsRzR2NGthLUZHUnNBcEdfczl1OUpIVnVxR1pibVRBV0NncWxibkVua2Q1eDRYM2RHMy1Jc2QzNllOeE5FZmNSMFJY?oc=5",
+   "published_utc": "2026-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "As AI speeds up government software development, testing must catch up",
+   "source_name": "GovInsider",
+   "source_domain": "https://govinsider.asia",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVm5WTjRXbUpISnBCZk1rQUwyY2pVQ1RPN1dXUnBFNGdPdmtwT0hVZmE2RzVzakRvYjZPaG01R0ptQlMtQjhOallIODU1YVA1dHdpOUlCMjA3TDh5Skl0d3E4WjVtQlJZYlV3emhCSHA3eHV5S1hENlhJLTFnX0ZBZTA0R19Vb1B3QzJNSmlTN2ozbmFkR3lxWXBleEFtS2FsR05DVlc5aEY2SFpIT2c?oc=5",
+   "published_utc": "2026-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chhattisgarh approves ₹500 crore AI Mission to set up 100 data labs, train 7.5 lakh people",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNenlHVHMzdjhOZGxSeHhBa2hna3VQbk5KMF9sMnZTSkx0cmJ4cF9pMEFaeGg4eENTRFc1bU1PekJ6ZkRsSll4UGQ5RDVZbFlnd2hMRVh3WVV4Q3BiYXhfVlJKT2syVGlWbHJuV0JqTkFUWmRLNUpSYXRuSzV1TWZrUm1YTlhmQUEzYm1Gel9Oa1I2ZlVBaWc4UkVjZFdoSG5vazZ0bS04R3l5TUpyQXh4Z3RsSlNrYUVLSTVzVWlhWnlES3JlV1hKQzh3dENtSFdnWUtqX1VoQmo2ZmhQYVZRc1BYZ0pjSWxQTHdneTk2Q1EydHo4TG5N?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields",
+   "source_name": "The New York Times",
+   "source_domain": "https://www.nytimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUW5BM1JyalVycE9mRmNLa0xnaUE3emw4cE1XbjJwbG5DOXhwYmRwNUJ5MHN3Si16QlFLeUtZTUhDYTBrUHJUbjdxS1J1bzBLSndOM3NuS0FlM0VRRXdURWlPeFp0eWRPZl9CRzA2dHdlSXNlcldWbXEwZE1ndw?oc=5",
+   "published_utc": "2026-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh’s Jewar to get 384 MW data centre hub with investment worth Rs 26,910 cr",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaDJ5NWxUVnhzWTdhM3ZoR2s3YnFWRFJodTdTamhmVzNrT1dqZkJvQjZQQnJRelR0QUQ0bGNBMUdmLWF6Tmw2cjZmWHBZd25mZmNTNXpYXzI1VkpRTFdDU09OYVZfWFJWTzlMTS1MTndzVXM5STlSQUFGWVktWnFHMl80MUpRZEEzcUpORjg5NHJCX1Z4aEQwZWRWNnc0eWRIcktCblpwYnhsSjJ3TVJrSUJuSmYzck1pcUpPaG5oRk1JaUR0bVZ5VndVR0M1M0JCS1c4TDI5V0RMTENxOUZEMnJiVlJteFpseWZNQVI1czh6eHRC0gH7AUFVX3lxTE1ubV96ZTBQNnRmMEl0LUxvcXc2SFRUckNDdUpBYkt1eUNZZkdYUEhpdkVaNG9uRUpGNlRnWFhxV25OZjJyMlVDUWFta08tX3pBbTB6bFQtTnhVM2pBdUhCaTdQOVJlYzVacTV4THFxcnRxTEs5T3otRjZVbGs2ZndPeHd2R0ZRSFFBbjB6alR2RFpaUHA2V2I3QzJKNzNSOXZaQlBxcXdxVXlOd2U5TEx4OFVmZ0U3bnMyOUtzUWVsVG9HRUswZUdtSERUWFFxZzVTWXBrc2NPNHdvVk5lSVp1bDlUWUNUMllJeVlsZWktcURlZDZ0Y05WMDZn?oc=5",
+   "published_utc": "2026-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

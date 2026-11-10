@@ -1,0 +1,85 @@
+{
+ "query": "\"Bihar\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "PM-KISAN completes 19 successful installments",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xckpVSEJUX3ZhOVN5YURkMk1aREFIeGxIMi04V0s5RkxsS0hrV2p1U2NBNnpRX19VcFZxM3NKLXRLWlM5bGpWaDVEbklqRUV5UTBUaWVWSmMwa3BkdFhqMTIwUXhSOC1K?oc=5",
+   "published_utc": "2025-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nitish Kumar Expands Bihar Cabinet, Inducts 7 New Ministers, All From BJP",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkJPanpXZDRIVW1sVWJsc1l6UV82NmRVWEh3MFc3eDVhdDdsZ0JSekRrV0RWcTBWaFNYc2hzc1pnM3ZEaHpuR2ktRWN6SWE0b0ZBc3lBTVdVUUtlSktrM1JySXU3RXl5aGRDWmhOeFRicEIwVlJjRE9CRUxNLXJMV3duRnRka21GUzY4NEZKLUJSYk8wV1VVbmdTc0l4ZVoxOUszdzNxV3VhMHBZbGt4MtIBuAFBVV95cUxQQU5NNTZ0VWNaeVVaX3VrTENuTnJvblFpVTZ5YnU4LUdaXzhzemRZNU5pUWxnbkk0TlJ1M0NFcmFPYmtTT1FFdlhfbDdaQm9mekFwbW1LUXdRZUs2b0Ffb0l0R0FYMExValBQUGpvUl9YcjRocUJYWXc4X01mLWRKRUZMQ3psWVRESXU3OUtFeWNVbDdIUGRidzFaUFhEWVNjMXVjb29EdVRhbV9lbUZTeFhHT3c2VnBH?oc=5",
+   "published_utc": "2025-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP Minister Dilip Jaiswal resigns ahead of Bihar Cabinet expansion",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTU1Id28xSDBMUXV1WXM4cF82OExmZ21fc1FhSkNfQkhJV0RzdV9Ea0VyeGVTdHp1dW9kN0cwcUpRVl9sNnItdXJRMjRjRmMwQXFkM0Zpc3lOQkxtdWtpOS1Cc2NQRFZkT2IzNlBkekg0WFRodkJRUVNlYS16TUpFWmtIUE9hS1Yxbk1KYm9kbEVZdHd2ajVsOVplQTQzSmo3em9XSlBiVHpUbW9XVzFTcktTNURpbVRjNU5zQ1pXMFpnTW81VzhhdXBqWXXSAdMBQVVfeXFMUGVHWU9lVmg2N0Yyc194SDU5ZWswc2ZsT1cwZEc0NXpMNElYd2pDVTQycWowNnVHd19pR0ZSbGNxTzhRbnNNdDU3YXg4azU1bXpsdm14cExkM2NralVmb0FXUHJoLXBzeDJ2ZWNWb3A0UWhPbkpPNHlTckY0b1F0Sm9GTWZBbU10TjhtTUo3RVlFRGNHNzZ4ZXlSbGR1ZzJjb1VhamJPc0J4djFPTURhTzZTY3IwMEE5a0RhbHgtLVNTWGM5c2ZPVDUyRHdrdV9iMUY4Zw?oc=5",
+   "published_utc": "2025-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Cabinet expansion: CM Nitish Kumar allocates portfolios to 7 newly-inducted BJP MLAs",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeEY4MWtDdEdjRGhjT2tBS25iaVpuWHYtRHd2Q1RnQWs4bVFVTTZtekhYT210dkkzRVQ0NHcwdDRpYW13UVhCZ3dGMjJmQXA3bmJaNDZ0RG50UDN3eHIzU0RSamduRHlZcjVVaDVxeHA0TTBLMkg4amxSNGdEM3dQM3FXTl9RYWMwZndhbHB0dllrVXJpN0lpZ3RibHpkbU1VeXdxRHBDamxKMlZkVXZ5endRUVJXLU1hLUFWRi1hMmZkVnFnSlRCMWVhTXpid0ZjbFRJZTAxVlNtZW4yUkJobnpBSHE0cGxFZEZad0NR0gHzAUFVX3lxTE8zZHlvWTJ3MEZQYVpCaWYwVklFTGVrWFB3b0hOUUNaZGRoekQtLVQ4RVl2c1NEZUhIdENJekNwWV9TdExFeEs4SG11TkMxbmpXd2pId3Q4aF8yMEdEeTR4RUNyOUhnYTZNU2ZGcUtTMmE5cFpuTGVOeDN1UlQ3U1JpRjdOcFhhNzIxekNQZWR1QUdXM2ZJOTg2dy00YkVaNHdKd05Ja3k1S1dLdk82UlN1WUFNSk9fRjFPUG4xWU43OEdLcWxlZTlTNl9MWlZRTVZIQW80LU1FT0xZWl81cDlGdU9CT3doei00MWNhenlqZVowdw?oc=5",
+   "published_utc": "2025-02-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nitish Kumar expands Bihar Cabinet to full capacity, all seven new members from BJP",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDR1RzhyQkdOcEtZYWttQ2VwaDhzRzVMTzFwRjhva29vR1pGR3NTVmFDXzJsdldTQzlOSVNtQWZUZTBaNm1BcDcxN1pOZkl0R2FpWjl3T205cTNTbkY3aGdIUi1naV9pWDV5VlIta2Rta3c2RzNSdFZHVVlsVl9xNk95ZmFiTldjUHh1X24zdjZWYzcyTmpuWDNxSUJ3MDFNQ2fSAagBQVVfeXFMT0FnWWwtQUVEWEVKeEFxOEZ6YTBheThnRWpianBBSDR6ZTdBNjZNTjZ1THRkdzlaR3djN0c4VnAxYWtNcnc1X3RObEh0WTc1VGRaZDNBeFVLWnhlbHl2WF9KTnBLand0NTlIM2ZJa3dDTjlDQzctSDRpanZ1OUFqOGoyUlFKRFJ4b0ZqWkt3Q2gxcXFFUmcyVGp0RUFpWDVfLXNqNVRHcV8z?oc=5",
+   "published_utc": "2025-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "South India most curious about ChatGPT, Bihar & Northeast the least, shows Google search data",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGloX1BTaVNMQ25iMUFvMGZ0V3ZxelR6YTBiclE5VDF1RWNkZlU4VmhEampCMVNlRGJtMDVsZmc3N1hubTZINV9mQ2YtanBhTDZCZUVnb1QtMWNOUnlVUEtEZ0JoTk5nbmVtQ3pWVU1DdUdMQ3o4TWc2NlFmR2dadVZ4Sktjd2JKY21GVUdPWDBwWWRFSFFhLVR4WENUYVF6SzRNMVE0a254VnRYZm5kZXlNWFkwN0dMYlpqN3VrT2FpZ9IBxwFBVV95cUxPWF9vdHpQcFpHOXNORWF3dUtIck9jMHNBN0dncHNLMk9lcjF2MGpxWEwtOEJoX0NiN3MzZXpTQ1NGTDVtZHI2QXppTFJYYThtS3doSmliQmZIdWp3RVp4LUljNWJHNE96UmRLd1RyMVlJc1k3OTloc0RnVW9DTXVKbFZncUJ6UXkyTVZGeXpZWDRTQTNZckNJZDdHT3JSXy1DQ3dSVzQ1aUtLTnNpYXNXcHJoYlFCRW9iTlctZEpQcnBMaDBFaXRV?oc=5",
+   "published_utc": "2025-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Industry & Tourism Minister Nitish Mishra honoured in London for driving reforms",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWE4WTFhZnFiNWJleXREakJCSHA2ZHNjRXpCVXBhdmhZQXpDNy1ScElZR2dLOUNQejhYQUlzZUVZbUZGSkxBUU9pWExUbkQycm1KU1JlUlM4OEFSTGRmaTNTdklYc2Q4aWIyUTRCQW1Mb1J3amJ5bWpXR2xubWxxa0R4Ml9zT2hqbkI4UVNIRXJDdw?oc=5",
+   "published_utc": "2025-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s Budget 2025-26: Key Announcements, Tax Cuts, and Political Reactions",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHdSZXNOejNVS2ExOHlzR3dfVjNqZ1dnSjFjRUtnemF1QnFydUJ0bVVudVFzU3RWN25DLW02a3pnYWhJWDRRY09GenQ5WGF1VzNRZklWWDB0NVYxMlkxNEFMRDBEWnJNaHJfTVVSamV6SFhaV1lJZWtrV0FfakhXU295RDFPWlExRXZXWko0OHp0ZG5zN0hMNjRHOTVjMG5XbHo4cHJORUU1Y09YZWN1WGpTU2ZZMHlmT21fdnlVY2RjS0lZLTVleXJhM01PLUc0WW5aVFpxb2tOclpYR0HSAeQBQVVfeXFMUHNnUVhJNnl6MWx6c21xMVhjUW9md1hvWWpLQzlMYlZVcWlFRDZncXBUekRoNk5WSmlrVTNZY0hFc29sNXRIQXhOZWN1MTJscVdQZURxcEg2aVRCUUd5eVVtWVlzSUV2UXVqa0JvbHFGZzRaNTVqOU9IQ2xvOHZEdXZrd1JlT2U2MHI0R0QzQWpDWkczaWtQSGhxM3h1RlFQRFo2alpXQ1QwX1VVdENiRFh6cks3LXM1QWlKNGpKQWJsMF91Z2FQWjhVc2I5eWJaWmd5ZXJaT2RmRFY3QkUxcDk0NEJo?oc=5",
+   "published_utc": "2025-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM launches major development projects in Bhagalpur",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2hxTzUxZHJHSUNQY19RMnNVdHVuRmpvSUVjeUhvTktrelppQ1FXSXdlS0o1Q1B0dHU2bGNpMjh1Wk16dzZyOGFGWmkzMl9hNThKdjdGb1lDS2xBdThwYzBjNHEtcmk4M2pqNTlfSk41UTV6b21UdnQ0MGR6MjdQUzIySElCYkREWWozbGxBSEtKYTd3b0FXXzhnS1ZWRGpweEo3bnYweV9SeDVSSUdzNFU2Zm5Zd0lUU0w0US1sNXFGSVdUMkpfRWNn0gHOAUFVX3lxTE4yNDY0c1NjalI3RXBZd3NfeDMwTGs5MWxNdVg3Nktpemc5WkYtR0FJT1F2Z24ydkYzYnV0bi1vNTZLRlE1d0VCLUhaQllrUGozSkY4SUhZWldCRFRRNUtHYzFaaUNyNFhrWE8xeDYxM0hzbmFNUW9oOHVUdExDaUl5aHYyQ0VhM1FhbkJfYjk4WTVZZnk5NEVPUlBvRnIzam40OVVES0RfVmlGZTBpVm83cFRJUW5SN2NpbU84bUMwcWhHSHJYWFZUVXlReE1n?oc=5",
+   "published_utc": "2025-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Powered Eye Care Initiative Launched in Saran to Screen 10 Million Patients",
+   "source_name": "Patna Press",
+   "source_domain": "https://patnapress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVdlamRzWmVLdFdhc2t2VEFtSER5d1E0YlRnS2ZJcXRtWVo1TTlUZUJTMEg2RHg0MXdXUERRWnA2aDNyd3JtX0JnVUJHaGV2Y3lZakZyZnpHcHludGtfOW5yak1OenRVNFVPQXFCTWRDNklSQ3ZqT092VWVxNy0wWHZiYTdyRHBtNXMtMGxTWnZKMlY2eWUwdGQ0SUlZLVVoeTVILQ?oc=5",
+   "published_utc": "2025-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

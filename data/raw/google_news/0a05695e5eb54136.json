@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Coordinating Tamil Nadu",
+   "source_name": "Phenomenal World",
+   "source_domain": "https://phenomenalworld.org",
+   "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdFNtb180WGRjV1dTbDVwazBBS2NNa3hrdjIzcGxmcF9GQjZUNDJZOGNHc3puR3c4X3JFdk5tZnJKZllfR3BBeEFFbHdkYUFSajN2cHIwemhTdXhzUWRpcThiNG9FSkl6SVhDTE53?oc=5",
+   "published_utc": "2025-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Maritime University organises Thematic Dialogue on Port transformation and signs two key MOUs",
+   "source_name": "पीआईबी",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90VjN3RUZHZlFVNUlTSVBxLThOWDNBRkJNelFhblNzOWlmNVJ6MVBHM0JiOGp5aVJnZWpPLVlqMWpDRk1SYUg3bk9jWHlRT21RVFc5NXRhaTA2LWpzV0xwUW5iRGpQVUlU?oc=5",
+   "published_utc": "2025-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s water policy: Between scarcity, reform, and a sustainable future",
+   "source_name": "India Water Portal",
+   "source_domain": "https://www.indiawaterportal.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1VSZlBIamN0bXB3czJZRWwtcVU1SDFVWGlJdV9GdHJ6VWFZZ0IyanJXcmxINjFQRExaakQ0V0Z0VjlSelVJT3BoQUdPWnQyampabFUwYl9PbE1oVy1YM19abzJ1cVpZTkp6XzJwd1lCX1pJcWJXV3ZXWW1meGl1eGhPYnMwb01LOXRWaUU5Y1pILXdzUXhhZG5JeWFsZUFTZXZIR09xU3VfQkNBdlhJaFZPMnduLVlRSWNmT2JwSXDSAc4BQVVfeXFMUFJKb1p6b2IzTGJMTjF5UVNGNW9nVXJqR1ZuLXhYV0szVmNpbWFMbWlnTTJRSUlxTGNsOF9nVl9XTmlGWkkyVUdra25nbXFRdVR2NnNaZDBiMEdERXhFMHR0cDM0MTQ3R2dDNGhFRzlZcFZvdG9TQ1dKbzgwWWczdGk0MVJlcWtJa3dwRWI4cG1JaFdxUHV6NWRzbFh5WVdEbEdMX0tUV2hvWVoybUFnSTlqNnFVMENucnFQZ2RWNnVtd0VCazhSOF9Xa0d4aFE?oc=5",
+   "published_utc": "2025-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India revives national datacentre policy amid AI push",
+   "source_name": "Computer Weekly",
+   "source_domain": "https://www.computerweekly.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEx4bTNSd1U3QVdfVjh2OEpiZ2JhTEltc3lMdXFuN1Eyc080T2ptaGhCcGlRUjd4VVJsaTJ3MXFMSkh5OU85QWJ3Z0FWX1h2MmpKTGhNbnRFQnN2ZGtZaWtyMm5fd3U0Q3JiTGltQ3dSdGpuWjlEdHlIM1NwTVRKS3RuMFlaNUwxdXE2WnpHSWtXNU5MRVI1MkhNXzh5eWRL?oc=5",
+   "published_utc": "2025-08-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI saves elephants: 6,592 safe elephant crossings on Tamil Nadu railway tracks; no fatalities in nine mon",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMVRuRG9MTnN0SVRMN01QbU9JR2JoamhQaUlVNW82VEZKZ1duTXNUV2dJVEZpd2lVWXYxWnVSRUFLV19iNzhxTWpHenFRbE9DVnZGUVdxSUo3WF9xS2Z1NkJSaXEyNncxVUhfX3h1TjllSGJKS2RBTHJaelhvaWswdmdtNjNxcE5tcjRER0k1ak9RVmpFWEVHenVUbmF4bjlWbkhId3pRSUYwWEJEMGplMEs5RXJVNS12QjVBbERvRnppRV9MVnIyLW45RDhySXZpbzc0dzRDem8yNnVndGprYVNXVnZoemlRUDFMT051TS1ad2V2VGRESzhyejlnZjVBMGJj0gGIAkFVX3lxTE5yd1B2dlNuVnBRUXJXSkVqa1B0OXlnTEh0d3J6a1NoeFdjVHpJblAxR3Z1OEtxc2Vfc3V5aHdja1VPbWVfeHRmM29iZ0lseW5JVkRlakNWVEs0aHV0UTR1LThVNXFMTnlFT0xHV21TQ1hUU0JBSzJjbDg0cHlHZkhEekFoV2RsRXYwQTF4Y1BuWm9zNzdhZkJ5dzlGWDBjYmx5YmFhS055cWo3bzQ0UTZGYlUzV3ROUlpLT0dtb2xhQTFxMzl3UXJGbXctajdNNFlsdXZSMi1WY1RzT3VINUhyc1I5US1zV2ZXMTdoYlBsQ01NeFltbDZKUWoxNUwwbHdsNmF1aDNodg?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Brain drain to brain gain: How India can reclaim early career scientific talent from the US",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1FFOGpJOVVXYjFGeHhmbVpNRnp6Z19lOGNEMXI0c1pjeVpXWko0SkRURW1fS0ltQkg4ZmJKZ2tWVWtVM0JPX24xakZ2Y2oxTHo2MHdfb25Va2VSTEJxbXRtZVNyMjhReU9OUkdTclRBa095M0UyQ3V3OHpXRk5rcllaajJDTjJHRnpvXzVKdHR0M2E2NTM0aW9Sb09VQ2p0MF94YlhHX016R25xc0FkVWlOVXd1dXg5MzgyLVNMbTFwVTRrVHR6Q9IB3gFBVV95cUxOSUZkSm1saW50cGFFNjgyLU5aT3RfcTh6NnNSMkJBd0lVN2JEMllVQk04NjRETHF4WmR6NGtudV95c2VaNnFoZ3J6MjQ1UVdNd1o4eGx3em5LVGdBaWFYYXMyUTBkOVJsOHJpOHVYaThhTlRFUkstbmFnR3U3UEJvX2JjY3ZfMWwxQmdmdnJNcGJ3VzVnVmxKamxaRVptdE8ybTNfTkhMeXdVdmxDNER0R3JTMm5YZjM4NzM5MHBUUTVMbUJIbUZkeWZfWTFFckFPdHpZYXJnN25zOUltWXc?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu brings Bovine Breeding Act into force; mandates bull registration, veterinary clearance for mating",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdGlNSzNpQ0c4Y19JRVpXZ3FMQThYaTUtRThJMExaUHIxc3daWjFIODVub2NjUzBKOUlMaVFuaGd0LUhnOUVnNXJoZERJLTZWYTNHNFFhT0RrckdFVXB3QzJLZDZWRGkzc1lSVHdlQUNyYXdpc3JGS2lwRnI3clhyMktERXBrTEgzYW92U3gwRTZSakNQUVBpbWEwRXg4RTl4Y3BiMUFWMUFoaFJoR1A4cmZ6aFRqczVPWS1BVFFRUVFyWjhvcXAtWjU2dTE2WVhtTHp2Y1p6ODUzZHo3cUw0U2tKcjRFT013VEFDQ01XX2NtZHh2REVuZmllYy1kSDTSAYwCQVVfeXFMTzA3MDBxdnQ1QUF4QjFKMi1waFc3aEJyQ2NEcUM0RklMNkhoUnA0ZjVPdkZEM3I4QmlNdkhKOGozNHdUMXpqakJnVnFIVmN0NWdiZ2FmajFldlY3bVZUeVpIWGpXVWlrUWhseENnVGp0T3JYeVNTdjBid2xROU5KamxWeWNta1NQRWR2OUNZRnFlS1BJR0hGMHR5TExPM2dHb1liUDAxdkpCOTRzX3k2REF5NC01NndBU1lWOUh2UWdSWUxtNjd4WFNyak90SFUwdWsyZERYR0p0U3dWdms3VW1tUjc5UF9oQmFod3dyY3EwUm9ZYTZnYURfNXpfV2NZS3hjX296OWY4V1RUSw?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vietnamese auto major VinFast inaugurates EV assembly unit in Thoothukudi",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVlKMVRqcFlFSnNWb0tJd3JCLXJDejhlRzRpR0VMTWhqWG00WUUtU084UTVqbVc4cFBkLXJCdTh3aDkwVHlIMHVLMmI0ak5wOW10bUs2RldQanhXTFFQYmdXQ0stM09wLVdRV2Rmc2pzNzV2amJxWGdXVHIzeURuRXVJaFdtR29mOGZGV1VUUmlKYUhQbVVVaW5jMXdsLW83Z2R1YlF5OEJsVERyZDRXS1RWaGFIRy1RX1ltYjNCTWloVHk5UnhvUXdIOTlfaEFBcnAtetIB2gFBVV95cUxQTjVGcVV1cVhTUTVYVDRDckhHNWVsUlRjR1pHb0VaU3JuZXMyNTBLSXVZVGZsbjk0eGJlelRjUjQ4OWM0THFDRmVzWDZabjNmUnpJOEVzRjJ2N2Q5OFNnanVub1RLLUJRN2tlcFU2bndYWnpINmROYVJHWWZQTjlLTEkzNG5mLXlDSXg3d2RPSWpGSThJSHBXTFd1XzdOd0N2U0drNUhaN29OYnRFUmRtUFZTdTRyR2h5OTN0R3YyQkJRNExWdkJoalkyekIzYkE4NzlTX081MFVzQQ?oc=5",
+   "published_utc": "2025-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "38 trains in Tamil Nadu to get additional stoppages from August 18: Union Minister",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZTVrN1NwUUhlNlZod1RHWWg4NlpMLUVnSXYtdUlwdjRTYW10WGp2WXd6VC1YdTMxV2hJM0dqbTllLUlYdTMzVENQOWZhTDhoVUFlYTExcGNQdTdMN1hzV0RvZFFNU0pCSGhrWmMwQlAwT2dYV1d1TGZ6Sm4yV29kQVpuQlA2T2ZrRUV5VmtfZjQ2anZlNEdEZ05FUVZ5eGRtTDN0Y00tazJCX1hxQV8tV3BWTG9iRUFJRmk4QVFWLUIwM19nbWVrbUMtYk5OVFZmenfSAdcBQVVfeXFMUF9WV3lQY25HV0ZyOENrZlVHYUp1Z29DNmtCN1cyMXBUdDhnTG5iQlgwcXQ5VG9BeDVnR3VqQnN0VWFFUUJjVTR6SDFkQlloWkZ5Ry1TWEpyZkZ5eEpPcUJwUS1EbHl2Rkk5TWZ5b1hTUUV4dWo2dUVCLUxoN2JSYXd5VFJmcThJUUFOV0V1SE9jbWFYRHBzLTVjaW1WZFVFZkU0MVROTUNxNC1icUdIc1dvM1RxV3BWYjNjUm1sUnVTZDl5QjhLaDZkUlQtU2R0aVgxQlJVckU?oc=5",
+   "published_utc": "2025-08-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches WhatsApp-based chatbot offering easy access to government services",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbzdINVRrRmltdUVQcGRqNFdIRThvZGRSMlY1Y3FaZzFDY0gzTHRoWWFiNXk2N2twWmZJbExZN285YjJ4TS1YMmhCT25wN2lsekRxLTZLaDZ5M3hZNEl6WGxxa0ZBVWtZN2dNeDdfSWxOSlRIZXhGNEpxbTBKYmRrbHA3OU11WHBrOHl3TEdKMUZPcllNdGpJM1hxakFGUHg0bUJSZ3g5MTYyb2lEMkprQXp0ZXRoTTdXcDhKWVczOWpJLTFWTmNvTExnSENfeEs5QmRzSzNUeFN5OHZsWWVyUEc0WDJ4eExoVGxpb0dvVDZ4emlKTkxzRDVhenBIZ9IBgwJBVV95cUxQZDlLOVlXX1JDZTk3RU9CMzBlNE9UdkZtVWtaRXVzZ0tmeHZ5TVJ2dVZYUDdUZmtYdndtOEdKRHlsbFRfN1ZvY1NJRUwxdXhNRGhOUzBPQ1pWakdfM3ZJX1pOZG53NHJ2al9YS2Iwb0ZtUHlPZGdtaWFQbWdUbXVwdmhiUWxRTmRzX3J1eklsRUcwSnNtOVVzM3hZZzk4MWZQdGJFRWFxaDBnUWNGY0cySVNzdEJBNTA0NTdrWmo3a1lKWlVJeVZaaDJNM3p3QXNzejJ6eEFvMGE3LWRPT3ltSkR2dnczNXlsVkQ0RzhzU0w3c0lrR3NNRlptQ3pLWUc2WEln?oc=5",
+   "published_utc": "2025-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

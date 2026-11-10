@@ -1,0 +1,69 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Maharashtra signs MoU worth ₹1.14 lakh crore with AM Intelligence Labs; can create 8,000 jobs",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMGZpRmpxY3NYYXg2MkxTbHdEYUgwRGRSenIwYmgyeHllaUNNTFYwNkJjYnYtMjRpWjhOaDFNbHlrUmxaS2kxRUw4WnJBcHFQcE5vekVKelNjb2tuRFZ5Q0JZN09GZi1nM1ZOYXVNQldwS3ViSTM2YXdVNDhoV1ZSRDBhOU84VXdBZ0FueFZiSWYzSEhVSnJpc3hOZ3I2bDBFdldXUTJlUVJlT2dKbnZ0OXV4MWM5QnVYQXFnUEg0QXVrMGFjcVRmLW9xRDB2SnB6LTktZ3dSSndiZ2VXblEtSUlUODlOZmdnOUdaenFncjF5QzhJTGVF0gH8AUFVX3lxTFBicWNhaDFvSm9GZEFiMXRVdXVLNHRiQTV3MXROQTZTWXk4RWg4SS1KSzU3XzNKS25OU1VNeHNEZVctamU5SnFHcFoybHFnNlRvWVV5YnBLNUhySHR1Tzk2NEdlWDNrOTVhdk5TU042UGpWZDRIaHZoVDJGV25mYmhzOE01V2JPTDVfelNVay1NUm1CUWFTQW1jcmZwVks1Zy03OHByU1YtT1N6UjVPYmNobWRxUlo2WGVZZ1FpVTJGZWhvTWhUUno3c1VhZHRqV0YxUUhFXzNucGg4ck80Zi05dHp5bE1QQm9ZWkt3T05hVW1iSHhjRjZ0QjNJWg?oc=5",
+   "published_utc": "2026-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra eyes major data centre hub status",
+   "source_name": "Marksmen Daily",
+   "source_domain": "https://marksmendaily.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVJWcnVucXRPSUdBRVFWNE1yVGlqUXVXb2JuVG1WSHUtczRKUTFYdTFFU0dqSzJjcml2VFdwZDhBTHlDZjJ4QUVCNkpZWFNsMW1XOUZGVURIdkU4ZC1tR2JCWlQyT1p1Wi1wVUtLeENqQVQ5U0U2anBQVjR2dmRheFVUOHZsVmZxS3hr?oc=5",
+   "published_utc": "2026-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra issues Letter of Intent to AirTrunk for Rs 2 lakh crore data centre project in Raigad",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeVdqUEFZenk2aUxwTU53QWRYTWJuU3pVZ0FpWHJRc0t2NU1MekVvSUExYmd0azc4TW1yb0p2T1o2NExBT2ZKVDJySlctbVR2Ulo2ZHJhWEh5OVBNWnM5bW84TWJIMnNxN0lwU1FyYjZ5aWxfYzZ5SVh4QVdQZXBleVZLZlBwSzE5NlF4b0xrMktPSVd2ckpjME96dFp0QVhuSjZyMi1jTkxvMXc2ZFFGYlB2c2E1aEVmLUZRN05pa0ZuMUlKTDBubHBRMzJUQXFZYXViLXZZRVpDNmpBTVo3Vnhn?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MERC to boost power supply for data centre corridors in Mumbai region",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX2ZTaFQ4VWZLNWZtSXJnalR1UnZmT0twT1lOcGJQLWtKZEhJaXcyNkI0VXo4N21WYkNTYzlvQ1NZcmxacmswYWJ0bks0MjczZ3ZjTl9aU3Zzb0JuQzN2UVRkbm5zOGk2enVKRWVyZjNHYzJCM3E0N3pPTlRKYlR3THBVVklnMW5mNVZSejZrQklrN3FqLXNFeTRhbW8xZ2RzbWVaNkF0cW9oSldUX3ZvX2Frb1haR19YXzlWOUUzSVVTN28tSWh3cTM2dHZpdHhYMGxVVExLRU9IemPSAeABQVVfeXFMUElkb2ZtTlJKN3R2Wm1JS1BOMVBOMy15dkV4ckwwWExOX1M0NGZqdVpObWVULVMtSVJETkpDcGVsYlA3NHNUblczU3JsUDE2a1pYMzJSMzJYenk3RjJfOUhjbUlLQ3M3aHRMV0xqeVViTTZjMmlSdmhUSlIxNGF4WnBIcDA1TWV1UWZNMXp5YTNjbUtvYU1PTVlpdFlFUWNWZFFLMmstRDBwbFZFckZUNGdfcWxBR3pFMXNzYUVoQWFnRGlRRGtTQjk2TWhHLU1vb1RnZEthcVBJWEM2TGxySy0?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data centres & AI: India’s strategic imperative amid geopolitical concerns, environmental challenges",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM0lOTV9KNFd4VkNVRktaVkdOYzByMTVuWDhJM1BPVVVEYlAyWkJtbjUzei10R1Z2TUNaVjB6WkU3d19HbXpzUkxndjllSnVUd3RvN0UzVFAwRUVxaGFFdld6VS1rTm9LdWxXUEgtUm1LS3RTNXFKY0RDQ19HUUszZE9KVHlPT0NHdG9aVmFFemdPYTVWYWthUTlzeURYNlFwS2ZVQ25uY2FyUmxaUVg4TnpmYUhvZ1lHS1R6QWZha0xrWm5LR1lYUng3TktmLUJ5S2hIYXlteGMtbjVQMDlDTlgxRm5DZDViQ1HSAe4BQVVfeXFMTkY3d01Fb2QycW83cDJGVjhCNzhkc3FhLWxUa0dWejJsV3pGNzJRRnpkUExjN0JJSzFxR2JQVXNfeU5JekpoQ1ZvWGpVYl8wNTlmMk9QVzk5X3loTnZocksyek1JTzl1OGVoSHFTc1k3ekZfMFFYOHcwMllMamlfMG1MWjA4NU16b0FaNEowbnVuOVpwNHAzSG94V1dHTXlNVDlKYlJzaU1OaG91bzJYWmJ1YnRHNW5IRFNPNF9FY3U0OHM0TEdrQnUzMmtld0dlNEd3Zk5KVFIwQURkWnZ2NFRPSTRNejRrUmlfVm92QQ?oc=5",
+   "published_utc": "2026-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP CM Yogi Adityanath proposes data centre cluster for Bundelkhand region",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPazdIN2dwaFpsWjRTYW02M1lXOWJmVm9PME1BV3Q0a3hIMWwtRjFWTHRhVFRlVTBGMmNxMU5VVWdWYWVaeE9MMjFJS0Zsd05NdGlFMlgtclVlSVc5VjEyMmVzY2p0YmJrZWtDUHVpSEVzSXBfUE0yS2JjTUpybERsV0JqM181Z1BETjBsdUQzSy12QVpBeVJBN2VhclItNHVyZHZiSmlaLUtyby1vNmh1RkxQWUdrdDJxcnVDRzl3WTdHcHA3WFpEU01hTHZ5V0luVzNxYVd6cl9pMFJi0gHgAUFVX3lxTFB0a1BMM0MtOWpIZ2RuaTlvQlZ2Mkd6TTc1S2hvdnRiZ052amNNZXVnTWhYUHVYSEhyTlRlWjlQdGd0SVdKdjVZeUpPOU9RQTMzNk1WNms4VUw1M3BULU42WWE3QkFtS0JNM013Q3ptV1hDemN5VW05azNnTTBVaGZRUXJlWmtDUG9nV3dTUXVqVFZNcXhxWDBsckZXNHhCNVdraUNKRGRTN1RtaVNWamJocnBTTkFWRks1R3dtZkFlSUR4NTNMa2R6OGhGQTU4cTlpYWlPcVN6MHF4eElTTmdj?oc=5",
+   "published_utc": "2026-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan clears new industrial policy, targets semicon, data centre investments",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXhEWFFMUGZTSHhWRkNpcXltZDh3UThHSERvWHFua2xDTHJ5LU5VSHpwWnQzMndUUjNhaDFhTWMzUmQ1ME14clZPTXEtbUN5YUJ6YmhSTm1BeXFWWUNCR3REQmoxTkttRXNzMmwtZW9udkk0U1BiQ3cwc2JYWnp6RjBOY2RnQmdJd3duejhXRDBOQU15Qnkyc2R5cm1KdU82MVMwMGMyWGRqWDJ5RWMydWZncmF4V3NUWFNzenBTaFMwclY2d1NfRGQwZk9raTMtMTNYZVFtbHdjNHFTZXZ2YV9qRmNyLVhLOFHSAe4BQVVfeXFMTVpURGVDMEh0enBOZ2dLQ00xMGxDdkFfaWdaMV9PY1M2RDNMZ3pNUUhFY0gxT2pQM3czQzVyZElWem9pcF9ycmRCMTZqU3J0MXdjWHU4QTN5cGd5WHVvWlFValBRdDI1OVRRT0pXSU1rdDNXRDVwXzZIbnV1RldnM0dXQlZ1UHJRcmVfTjJkS1RUZEF3Wnk4TVVnMFZabWVMWEcyYVhjZjhYWW42U3kxX3Z6UldqNWVrUHYyREJTT0N0dHRMOW9XTG5UUDFWZEoyM2gwTENZdnh4LVpZdEY2U0hPVl9PS3BhaS11aUprdw?oc=5",
+   "published_utc": "2026-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Signs ₹1.14 Lakh Crore MoU For Green Data Centre And AI Hub In MMR; 8,000 Jobs Expected",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjNnMEZjcy1lMUY5aUhFSmRMdmFSZU1MdjFrUHVzUHFEVnNxaDZGelpEWi1nTUQxM20wQjN5bTFxZ2F0X21SRVBrRkZwd0tja1V0VzBUcjFMTWxhUVhaVlRWOEdlWTNyQ2hDeGFCRFl4SExWV2tNNzZVUE90dk1ydjk2blJ1dDJLTVhma1VjeUMtdnAtU29yOFVaUmJ3M1NqWWNiMEg1OUZ1UHpjOWk1NTA0VWkwazZVZk41YXoxbVptUGFDaW9IMFN6aTNzdkNuZXY2QkdB0gHbAUFVX3lxTE5TdHFGRENMZml4RXIyakJpWDFsYTU4TV9kLUpIWlB4RVd3RWljenFxSDFuZHIyclFBYW80VUNiQzBXZllyTXhWMTRLLUlGMkxlRF80dV9qdWVMSS15WDBtMmI3dzJHT0ZiQ29xMlU1QTlqTmRPM1RVSFNjeldZTXR5ZUtKbFoxWXY3VU1fTURvR0tCWkJQSjdxeFRqdTJiOWZXYmtWVC02Ui1PTTNxN0RxTnhTOEdoQTRWVWFhSHRVaDhDUmhTdUx4b0pXSk9fY3V1UjJyTUkwLVlMTQ?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

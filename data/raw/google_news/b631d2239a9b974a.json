@@ -1,0 +1,261 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "From Meters to Machine Learning: Building AI-Ready Utilities in India",
+   "source_name": "CSIS | Center for Strategic and International Studies",
+   "source_domain": "https://www.csis.org",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemJ6Q1lHdHlzcDAyakcwaVlOenlnZEVpcEVoTThWQ2Z4MkVpS05xdE5HakhTanhYMlNlOU9ISGdiWE16aFdhTV9BcVlwMTNvV3Y2N3h3T1dndFBHbVBMbWYtcmdUMENQZHp4VW9WZmFvU2FqdlBxM3ViWGpCRDgzVjF6WnJHdEduYkNDTVpnMWg?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-Madras announces research projects on AI, seeks to study feasibility of small data centres",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQamtLV0hmZHNqZ25nZTJ6RXFNSTZqT2VpeVJlbl9RQ09XamRaS3REOGt4aEJXZUhPdTBOMlhIZ0s4bDRiVm1yRnN4UW5oZ2V3SFdMbTNNTnhxODZJcktJQl9uLWM5UVFYTlJEMGFJbjZaZXY2XzlXNjFwZGFmUzBMZzBqdldQMExsTHFtU2ZhcTR5cnBQbWQzdl8tUWwwRFFTc29VQlV0OGloMnpTdlhDY2hTUk1iVVpjWnJYUTd6dU1EZERxODg1VVNyeWZJXzNKZlkxUXYwM2VUZ3ppcjIybFVJS0tkZnl4RVZ1WW1qX3lXLV9IQXfSAfwBQVVfeXFMT0thSGQ1X2RWMU9pdWt2NkNhMmh0ZXA5MnBBMUFzT2JUU3l1S1dsc3VtTGhNYjJfeFVoOGlXVWlDcV85OUtucHZ1di0xekltVk5IYmhsQzhXLVgxYlRpM2xQZHpvZzF3YTRXaGRxQ2tMNVpidjNPOXlOMXpLSHh0OUNSM0J5S1B3SDdTLVphRzJ3VnZ4c2p6bW5iSmhQeG91VHYwQmtPaUMxWk1TSGUzdDBxUkJ5WlNaN20yZUwwZ2o1ampzdzJMdE91cnlyRldtM1djcnp3VEZuZjBFd1pqWGR6SHFiZ3l6X3NGTTRUaXhoWnROWDY4Y255M1Jt?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suzlon investing Rs 550 crore to set up 3 AI-powered wind blade factories in Gujarat, Karnataka, Tamil Nad",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdmhwbzhxWmJNX2RvOXRCV0dPdjhJbEtWelBTRy1fYk5wY1l3YWRxRlZ6YnQxNTJrTmZqcHRYS2dqcU00MmVNRXRTRXZsdC1HSUMwcHJodVliMGdmTTFaNDFsNTR1QVdEaXE3ZHF1bEhpNDBzN0YxaFdkd3JlRHhlaG1obC1jNWFWMjcyZHZicEkxSGUxTnRkRklBdmFFMGJaTXV5cXVremZPc0lvdDZYYkNTYlhSN3ZXODk3TzhNRkgyell3MXNpR2VOWmVQRWNPWDczNzNVeUowcUxBTTd4eHQ3TWh1Ry1rMk9MMkZzM2ZYb29POU0wMXp5TmtmZC10OVZxdFVsRGkzSlXSAZACQVVfeXFMTS0wbHBvMldGYlk0MXgyWXJVbFh1ZURHRzBzUmQ4SFhxRzJBZWJjd2tmVkM4MEk2OHVMY0FVeDR2TWFTUjVOQTdtZG9zX2tNNjVjc0FPME9UalVmT1lPSm5EdWtLQ2I2cTFud0pSa2ZzbmNHaUp6M3h0UkVacGRyNWo3OVBGMVVoZWY0UzIwT2hsYjZFLTBvLVEwbzdRbEhydUIzaDVKb2tvd1FLRHY3V0JVanpWNlQ1azQzeV83WTBwa1BIazVHS3kxNWM0OVpiUE9uYTlNcUpBVnhrWTF5SUFqN0xsaUNUblZIc01LQlpnS28wMUdlQVRTZTRzU3VtbkJKQ084OGhKdDV2SjFBMDE?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Rolls Out AI Assistive Devices Scheme",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iYU95VXJKWEt6aTgwS2RNNDJUTVRNM1Fvb2tieWY1REk0UVNjVEEyampHODJrSXNWUG1EZENtZnNqZTRiSnRhRWViaXU3TlNUd1ZNckhreGlIcEFydzdoZWU5bWxlaU9mVUM0TldTOWFXOGVUT28zTzJ2SGU?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat drafts AI mission to train 5 lakh students and 5,000 teachers",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNG5IRkEwQnlONFdhYm96clFVc1paNGZGOGlxaWtIQ256SGFFUXV1LWdZd2tEN1NRUEdWLVctM2J0dVJnVUtEckRCTU0wbm5INUFINjBUVXN2M3JLaXJ2UUJBY29jc3BNOGJreVdOaWJwdmx2TGVwYkhpOXgtTDJCLU1aaXNkZ2s3T2lNZ0dVeEtpWW1WaUpBOGRaUjVnSXg5TnlaLURvZGhkXzRxUXl0aEc1T25BNUZaeUJPUV9GdjJNQzJ1eG9WWHMxYnhvRTl4dTVydGZvQlFtM0ZOM1RiY0JTdFbSAegBQVVfeXFMTkZPXzVaQ2NfTExhcWozdnNwY0FFOVdXcmw0TWRtcnhVX0NBZ28yU19ZdnNyc19RRWFxZjgycXVjSEVkR1lySk5rN0tqRll2YUhGal80MTRBb1A0UUJTMml5bzFKZkNPVEJtUHJNaW1hM3dXeXBieGl3eG0tTk10aXBta2xlNDZySTktYnQyTUU4QzFvT0RCeGRaTTFobEJObXFxMnA0M3hXTmlqYVZhZFptR1ZpNERGZHJiVXpCUXkzRkR6bG1YeVdBLUZlSlc3MjZ5c0JpamZBNWNUQkNwYjBmZmtwQUVxMQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Approves AI Mission to Train 5 Lakh Youth and Support Startups",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3V2bW1iU3l5YVNqRTRIb21IRXcyMnMwaTB3Y3kyWlhHeHpfUVFzQkFFNWg5NWwwcngwODhoYzZyOEFlYmJhSUdzaE9tM2JYUng2TV9Pd3o1eDZtb2JfanRQZmZKeUhUSTBzMHNwRkQ2T0xONFMyOGpRM2xyRmViRS1OSWw4RUtyWVcyNEFKdlFQWWFKZHUwaWN2Q2FfNXJ5ZVRQNG1B?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu kickstarts IT procurement for Phase-III paperless e-Courts project",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQUx4SGtGX05WUG1JQ0t0cllIWkl0R0hFSTA3VmpFeU9PWEZOeTlmOWZWVWwwTVhIMDJsUlhqNU9hLTdTMm4ydHE3Y0hWRjlLWVY1aU1KY09vcURtOEpHMUs3WU4yTmZpcDlmaVFkQjdfNjRYcnRQeDZLU1ZpcURpX3JBS09RbUhZNHVVa3NTN3BlNklYeUtudzlhUXRDV2Q3cnFCSnFFN21XMUp3clM2enFHaUlJZGVvZEFHc3VHcUstVWtheEthVjJvQzE1OWRSTWpDTFBxVdIB5AFBVV95cUxPMm9QX0FPTHhlN3p1bjZuQTI1QXZFSXV3ZjJaOUV6QUtncXFKTS1COW0ycnJEOXRVZUhlTDNsWTJScWNDWTdidHZzUFFNS2dOWTJtamlJRkV4QjgySUJENTVuNDhrQUw4MmFMNzVRNUdOZXcxemRDYkJlZVM0X3E4WExJOVgwZjZOTHV6RWJVcnlDeXE3dWlBdmlZTUhJMFpxbThWZVEySDhxTXpzOGR4cUNpODJZQXJQMWgxRmlkTUFleHpzamh0SWstX2t5bTY2OXhRSWdTS2JEcE9VUUxqYVZfdzI?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-M Pravartak, Medhastra Join Hands To Develop Indigenous Defence AI",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaEN3Z0dMeVhKTWlhY2wzQjhvM0p6b0hUWTBmdmpSNE03c18zcFgwUmlQdjYwNWV4c1NOcWEtUko2R180MjhmWlg4S3hleExvRmY2VUg1bzl4M2pyeVVDMXhnU1IycEtPNll3MkpXM2VHQk9CWWk3a1M1VzVpWXoyTFEyZzVQamxhWUoxam13X21QYkVsRkdvVUpsaUdUY3Fib1FHTFNBdk1ReW1NMjV6QS1sOU1ieXhwRGZCYzJlMXcwekJHWUNIYTZBZkhmMVFrSHfSAdcBQVVfeXFMTnBiamktNnhvOEszN0tMYmRmVzVZdzB4Y3FVUTRTTzEwTFUyb0lpVkRmenV3N1J0TVU0bjNMQ2JIV0JDTW1RZGVPTmxFUjF0cHNyVkMwWHRXc0ZZY0l3eTBXU242OW1McjRxdzhoSDNxbW04bmFrZFhicVhydF8xdld1cEE5ZzFmTUFiTmp0VmMxUG55aVgxRF9mMWdvYmFMZUVKek5zZHlqQ1pNNGwyNkpNV2hfQWVTTFVXN0FMdDdlWTl2V2FFX3M0RVFIXzFDenlkYzZRRGs?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to spend ₹180 crore over five years on human-wildlife conflict mitigation",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeElid0RPbkhxLWtTZW9pR0hKbU9FYXZhU2ExSWVVa3doLWw0SEJuY3dCTld6ejBUSUtETy1tXzBSMlJjTUE5c256X3dNUnBZRUpaWVdWcFpRb0lFOHlOM2FGcGUycGpRWG4tbGxBdTloZFVBOWNNNjhfWEZ0WFZ1RmN5QXpFYWNCVXpxZUgtclMweDIzRDRBMEJVV2ljRDMxY2I4eVh4MFU3TWZPZjNjRVlTdVhPYThoWVRQeG55NFVSRGhOTG0tNm03UDRMUmxJc01DUHFfc0VMam1zU1E2akZrbDFNVTBY0gHvAUFVX3lxTE1Da2o1Y1AxSjdoMmJyZlpFNVdlZmRCdEl6V1ExcUN4QWFROWx2OFY1RXI5NldJZmlVeUtISnZtaGpHaDRZTVlfbjZwc0FRS2dwcjBvRV9iSzB1YmdvR2g3dkdFQlE1Z0NFQlVTTGJlQm1zVWFJQlBUU18wUl9tX2ZySEFGdzhfNUNnNE9HSWg4U1B3SHBEaTVNeHhxZk9yQWZWZXNlN0NtX0FPaXpVanQ2LWxhVmdndHJjY3h3endidFNJZHZaV2JQMGp6TmhJNlZ4N1JCQWFRMUFMTFZ0VEl3VzFBTDJYSVJRYmZRdFZz?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suzlon to invest ₹550 crore in three AI-powered wind turbine blade factories by 2027",
+   "source_name": "ET EnergyWorld",
+   "source_domain": "https://energy.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTRnN09wWVk5UkpxSDNNZ1c0OEN2TDRzUHdIZ3FJSUg1UXFmYTduRWhFU3Y5QjhXaEVjcWpnTnE3Mi05T21wZ0JnWW9Eb24zXzl5V2tVeW13cTlJbU1HcUE4LWhvWURsUXI5REdvM0dnN3h4amF0VVZPMFBUekpCbi1hVDBqOTVIYjV3UlBoVWhUMDEwWm9KWHp0VWdiQjQ4VUV5ZWQzQUlRQ2VXcFIyWTI4WnFlMTZFWmxJZ2pJT1lNRnc2OUpTdTUtNmlSU09oLUxNRHF0eF94dGpCbXdKc1BfaXJUdzTSAewBQVVfeXFMT0NUVTV3R200SEcxNHcwSmdocHM0YlRpUGdLdG9JaHNvekE3dHRsTXJNdnY0NkdUTFlLejdKY25qQ2t5T2FLOXJPZnhSVXUzdFVoNTNWQzNqQ0hiYWVUYk5VUEhnVjRFLVhGaHBRSXlRTTdwUWFtZ3FMN29ZSk16ZTVlZ2FyOFRVTjdoT18tRWpQWEYxcGk1cFp2UjJIdjduV1FWTDkwTkd3U0VyZUhxLXFyREQ4cUVQaWtkbGx4MW9xeUtEZ0hBdUwzZzEyQ1FYLWl6RHZHeThhemlnem5MQjV4TlRrZnIzSW9JY1A?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s push to spread industrial investment",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmw4YjlHd09EYTJqTUNHR2lPN1lwLWRPd3NWU1RCTXBUM0wwY1hWcGtoRDJlZzhPOFNiaWIyOVRXVzllX0plVUVmUDA5dTZ4R1FTR0ptV0FGNUF6N1cydGQxZERzQUF5S3dJMWhYRmtjZlRTX0tNcnBVclMzbHhRblBkSVZ3eEYzN0pqajlHVFY3VVpVcUZNVkNsRjJQMUJ2Njg0cmp0QdIBtAFBVV95cUxNMUNYT1pEYTZtZmwtNDJXU3cwZVgyZDlmTUZ2MWpzS0NyZTlvaER0aDZaVmo1czdKM2JuelJOZFFIQVBtdWgzU2Z6Rks5WmVuWDFlbWNDRHJUMW1XM1JXSF9VTWtsUXhxNDg3S1BxdVh0ZkMtUmJSdDZOZU1nWTJ4WFFVUlJWSEh4MXVPT2I2TFFSZkc1bzU1cDBoZWZYdTRwLU04bG1PQV9EZDZpckxqdnZuTzc?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PMK Urges TN Govt To Allocate Adequate Funds For VB-G RAM G Scheme",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ0F3cjNfMmJnZEx3dlFDaDlwTmM5c2NDZ3NPdU9YbV9wbG5mS2ZTMmFrQmotdHBCN243UnFGTHhURm9ndVFCTVVxcjJWWTZBLXdpSUpZWE5pZ1VNVkdLQ0U0RUZ6Tl9VNFpEVnJRS0J0QzJCckYwYXhBVlBTdWRMT3NGcnVPQmVPdTl6UnI0TVUxZnVvUHYwd1NiR3Bla01qb3lSVXdfRGxXd1E5U3p4bG85em5Xczh6RmVIOHdoZ0x6RUhTbE9xdm1pTWtfZ9IB0wFBVV95cUxQSHRfN2J1dVJNbWdhZ0tQSkFpdzhXQy0wZ0tZclJfTHFUbjZHNElRNVpGVm91d25GT2RfR0llclJHVWJYSlNIQ3c5WEtNX09sZE9YdjMzazIxbHJvLUpkNWpIeXhIcnRJOGdkTWxkTGc0cU9uY3ViZmJCNWV1MzhWQ092UzlWMVVhOUxmZGlPdDhDRTNsamhyaUhNeGJ5bTNQYktFTUxHUGdnYWFDTFp5U3V6a3BqVTNSNEg1NWNGWUxKNVc0T0hIQW5VRTgyTW16cWNB?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Tamil Nadu school education minister arrested in alleged ₹100-crore private school approval scam",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTnM4YThqVVNYLUViMjdBRlFWeE5ScG5yVUs5MDlUQndPZm1QcHRKclAwaTJLWE9LM2czUF9Pc1E4UHdOQjBNbDcyTlgwZmJRMHJNQmVYNjBheHEtcnNkeTV2LWp2WGl2RlNsZm5tTVJQalotSENjTExrMVBnN2xMQ1VwM3lHZHY2SnRsYTlNVzUtQjNULUdtaF9LaFRoTHlVXzZLMjREZjd2MVJvNXJSR1FLMkZ2UnV3dnpaaWlndW5rclluUlpwYlIyOEFQSzh5OEJKQWVES2p3WkZxWkp2djd6SlQ2R2dHZUR4SlJYQVRLOW5YZ2RsRmJPZUxvVHQyaWfSAYcCQVVfeXFMTWE3Um5Pd1FyT1VOZEh4bTNmUnppOEZLSzQtTDdETk9OWjJZRGhVYjFmVWo2UVVzQS1sdnJNaS1maml0RnBCQWRGVjloc3lCQkRVOTlnX29lbllPaEl6eE1DVUFMVVVWYl9PdHhCbV9faWpTZlY2N0xfbE9RX0VINnFPUXppdndkNmxSbnRUdHZ1VHFxLXZqcjdRTXAxSGpMX3ljdHJZNkpJWFl0NlBLN1JydGRQRmplUXZQbHAtR1F3aGFXSl9nMGwyZWgzR0dwQ01DSVU4d3JobHlhcm5XeEliVGs0bm0yWG5XeW54N2dld2VGNFhTdGNNeGxER0JkRlJ0dFQ3RG8?oc=5",
+   "published_utc": "2026-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu man claims ₹30-crore Thiruvonam Bumper lottery prize",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlZvbjVSckdsVEZQTm9jQlVSaVBDWHlLbTZEa3YzMXUtM3ZjZlo1OGRKbDlaZzNHb1F1SV83Q1NOOW9hVVRvTmd6NERBQ2FLelBwOHpJNHE3N05yOGc5a3k2QTdIQ1BvOWt5eFdKX0NoRUw2NmNQdEd6RkJWVzFJQ1RNcDJOV0RvaGVxUloyMU1aNlJtSnVTRURGVmRFS3psNXU3ZTh1VHQxMXJvZ0kyM25MSFE3eUFvNEhEQjFHY0pIQ1BGb0lB?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cabinet meeting on Thursday may give nod to battery storage policy",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNODNWRk9nVWdsbzgwbzVnaFJjZXV1akV2NzJ3dnR4cFhjcDRnQzUySEJGbVFjNTVsM01IZ2RLZmFwX1hrbUV1M3gxSTNDMTlNWjJuZUdmRHAwUE93elNYN3lkdFprV0MxU3JvODdBd3Y2RVVQbGhDWFd5d2ZqbTdDek5qSkpCVjlpNFZjMlVsQ0pEX1Vqd1A0SlBvSDlJcXBzMWZvUk1FRDVubm16V3NSckdhWDNfVzU1WXhYWUJBV3NZR1ZxZjVzTElCdHVpQXhyYUVyLUg0VdIB5AFBVV95cUxOcHota08xUTNvcTNIMjNJdFl4S1hTUkI3aml1U1FLYlZtY1FETjVSQjY0Ukl6TExoZzZtdm9FYW5RbHNGZXNSQndpRG8tU2s5LUo4ZG51VklVYWVWcUZ4Y0MxVEpablZRd2FQci1qMWI1RF83SjlqbmJpY3E4aS0yWHJRWU1pdEsxdDIzSXhnbjRWOUpQbVZDMTg1YkY0bUR6UGRpMXUzTHNFS0YwVWdfd0VOd1NQelMwdS1COFVSY1piWGdwdDdRSEtWOHNJTkMxUXQ4d1oyZVB4NVE0Rk1mbC1seDE?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AIADMK Sends Defamation Notice to Minister Nirmal Kumar, Seeks ₹1 Crore",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGQ3a2g1b0p6cXNWWDc2YThEMldjUTFxWlcwZERPUU05VUNMYWx4ZTlFMkJHMDBpZnIwZldaRkVYN3JZOFo5YmJNYkxicWRUVl9oXzNvbS1RU3ZYdTlRNkxuVjhJR1VHQTdsYzk2cDFZdGRLcHRxOWFicW9DMWpyRWsydTN0TVAzOVJnYmZoaHVCdEJyU29oR2JtN002czFrbXg4SFg0TVM2ME5MUnN1dmZmYndvSEFKTXFmRkgzalltd1BPQ0tndWMtNS1HSEwwSlHSAdcBQVVfeXFMTkZyV3RTQ2xBMkc0UWhVMjA4ZlV5YzYzeThNMnJ4OXQ3bk9WbUJJUXB6ODZrbkFwWi03aDBNM0NvaUxQajdZazVQNGdKdElQNlEzcUg2SGtIczZDTVEwV1AtbjdXM3VlSm55aXBwaFNTNGhoUVZ3YldTWHZaeDg1N3BGYllNdDJUck9kczdDY1hwdjZIUkdyV21VUFhlV05aZnFBNTl5Q05FaFNyYTlnVlZSRnBDc0FMbnE2ZW5sUWRhNVNTUGQ1WlRBYkVwN2JwRE5RQUJYZFU?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India, HD Hyundai advance plans for $4 billion shipyard in Tamil Nadu",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcm9FcHc5THpqX3U1dDl0YmNYa3d3ZzhaTWxDdFN5U3VjRzZUcmlqeTJ1X01JQi01SUJEdmV6TUNvUGNKNzBXUzluVEZocFNoMFFKZmdWX1dnOTJyQ2VQUHFHZmRfV1p3MkdxUUlZQlBsUjdiRjBVdWpCd0QxazdXVVA4M2ppU19uWkpNRDFmQ29yYVVOaHNLU2RBLWFQMnJQWmhXM1RUaFVZOC1iV1Nia2pnUFh5bVpRZjdPcVVSWGVwR1NMZjlRaDlCMTN1dm85WjVJYzJB0gHbAUFVX3lxTE94bHVtdXJVSHhNMl9LdWJtc1Q5MmRmbWNDNHhVT0VqVXlRVlJzWjVBckJYOWxzRzhrYkI4UklJaVA5YU5RUG13VWNoUmcxMV9VTFFHMHR0ZXk5NjRRQTV5OUJfYVlHeXRPVzBWWUwxempuODFvVjdzb3F5R0U3eUR2MTRobzNZYmhVZmp3ZmNsRDd0MHdpNXE1UHR1MFJQYUdKc3U0ekNsMDV1bEdaOU56dmkycnlrTFk3bFhWeXVyUkNuV3FaQ2VLdnl2SWdJU29KN004OXM0NEdDOA?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DMK Questions Tamil Nadu Govt Over 137-Kg Meth Seizure",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkdYQlIwbGJ5c2RqM281aGczd05Ga0JkVGJjaVdqbEtuVEFWa2Y4X0cwTUxNRDdyZzFIVVF5VVl1bFFNbmQyX3M1N2tKa3VLdThJRnAwdHNNQlpqSFRQOEhndGpDMlJud20zWnBMUXRhQmg3c2dKQlY4bDBzUlAyOTNkb205aDFHTEVTTkRXRWdVNEtORnNrU2RSOFE1ZHRrMFRQZXQ0aklLYnVyVHhwM3RmYWxaa3AyaGFmWnFR0gHDAUFVX3lxTE9qaXRYWEVkRWw3QWFrTmZRZ3NlbFgxQ3UxcnZ6eXAybUVod1JTNXVoMWhTektWSUtmQ2wwNmo3X1dSOHNReVlXZnk0ckpOSzdiUjZWWDBRckpuUkhSNWFFb00xLTBtTDQ2NVpRQjMyV1FrNV9TVkZ3UDdiUnJZa1FOX1lfM1N5ZnVQTk11NXgtQWctYW5UbkdqbmJwUkJLb0ZsYXlyek9jaTBmcHNtWXlNa3A2a01TUGVNUFhnZFpjY3pJNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI could narrow entry-level career paths, pushing universities to rethink graduate training: IIT Madras pape..",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdTlhem9RNzV3WENQSUl6VVd0UVRfU0pJVnlGS0lKelYxOHF5SERoN1VHQnF3NEZJRUgzZnNRc09KSUhTUEowbHAxbVNlU2VSX1h2R0dlTXV0alpHQWd6Zlc5WG9wV05LRWFrb2FzWGFncWtJbWcyUVZQdkJqUGhMSGtBQzFPVzRFZVBjVWhFMlprYjdyNkNTWTRkWnJhaDBxaEtmcUdOcTJzSU9IM0pILUtwOHlDMVJPRXJEZW92WGtpTnJPWlhnb3RsSlZVT2tXYnVUMWppZUNnYzRIb24zQ0JZdnFkUXdBX0NBME1aYkhBd3dRa1pNSDJaazdXczkxeW95blNuTWEtbG1YeTJtdmJlQdIBmAJBVV95cUxPdjNRQkdJMnB2eXhKZ0VVNEJkeV9jcXNMdUZ4MldHM0F5TG92Rk54MU0tRlljbHpvOEZGUmkycDVRa3hoX1BLS3FKOWUtdi1jc1BDMlJyWV82cExEN25NYUdfZkhfV3ZpbV83VkEydGlLRlltOS1EQ3lhVlRLMlZoaUIxVUJkR2ZEeXFpRjVrdGliM3hKRzE3bnNLanRmdmdBQ3FzMjdsQU5jYjVGMUNrN1lLZFRRS19lZXpBYmVPUmhtMzh1eGc2dWlSS3ppOGc4TDdsN2lmbVFPX1F6RXZMSEc4cWh2MDJlLW93Nl96RUVkWTQ0eDNSNjJCSUpfb0p5OHpwR3k3OXRmV05xaXQxRG80bUE1VURt?oc=5",
+   "published_utc": "2026-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Tamil Nadu’s language policy is worsening a class divide",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNkNCQzhIS0FJem4tSkJ5TU5IZk51SktiTk9PN3hDa285czlVcU5DTDY3RFZBdXMzYWtDNG50SEFfbVAtRXgtSDh2ZzVESGxPMkNtdWh5VUJPblc3czcwWloxQmE3bnEtUGsyRk1adDBvX0VRWlpjTk8yV1NaLVFKOTZQUTZBV2dKWHJiaVR0aDRYVUk0ZmVFNEVYWU8zSTlZdXo4bG5YZnh0aTgxWnRBQ0VWTGEyZWhSTWRndzFSdVctX3ptQXBZZ3NEVXlEVDDSAdQBQVVfeXFMTkF6OFB5aVJFRWQ3Qk1CelVEN3N2aF85V3k0SmJwV1hrMTg3aU5QbU1McGRrRWh0QWtyekhvREFlMkE4QnN6Yy1NdmdiOWVXZkRnMUtmbHpNelp2c1VwZEQ1ZjY3YmVxMVNFaEFFcFRaRXlMRjNSQ3RGVmpEdEhyckwxNVFpTVhYWnVXMGdZeTN4ZGtDa1hnd01UOHpEcTNLODZpTHd0U3c5QjVXenpNNWpseXItb3RQSEJhb0pFek1ZUm1vYld4RTJuQ3JCXzRVaTNtb2s?oc=5",
+   "published_utc": "2026-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "West Bengal legislative assembly election results",
+   "source_name": "Britannica",
+   "source_domain": "https://www.britannica.com",
+   "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVcC1CbUdmSFpmeEw0U0RQOWJ1V3JnS2p1NGZQQURSVTZxR0tFaTQ4M0ttcFRVYk9EZG9HS25NUlVmNTl6Wk9UNlk2WFlWUG5XVHFteHNheTJzQi1kUXI2V1FCSk43ZTl4eDV6d1RsSQ?oc=5",
+   "published_utc": "2026-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suzlon to Invest ₹550 Crore in AI Factories",
+   "source_name": "ESG News.earth",
+   "source_domain": "https://www.esgnews.earth",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZnc0eUl0ZGhXVzVPdUxDVExWS3ptRW9rMHlya0RCZ3pKY0hJc216eEhGU1dNUTdMdk00YktQcHh1SlNLNjlqTVRQa2NYZUpzTVIwY1dhS1dFdzZuaVo2RDNDUEN1MVo3SmljVU4yUjBsT0R3Q0JyV19hSWdKc1NwSFJJdnpBUkdwWDlEZWJCNkU1MWN4R2FUZWM5NV9LM2l5ZVE?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | Tamil Nadu Power Cut Row, Kerala Accident Case, Karnataka Milk Price Hike | The Southern View",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOER3Mk81TzBjWWFkTkR4SnhoeVAzODY1Mk1pX2QwcDh5RjhnNXAwRGFFRjlHV3pFbkU2MXFPakgxRGFxbURtOUhnMEpkc0ltQ2tQZ3Z2eGFEbVdWVUZfc2JjLU1OamV1bXAxakJud2dhQXdYTnQ0ZGVCNmQxMGJLcGxVU29TWFh0Uk05VUYyRDFkYzVSNEZuQmY2a0gySnBEek5pbG1FZlhzV2JfLUItLWRpcGFLNnRhMHloUWd3X3Nfdw?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Vijay asks Centre to release Rs 5,110 crore in pending education funds without conditions; c",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQOHE2NDJxZlRwMHFtTzFpRWprbzBVVV9tUGJyUmdZRFNmbEZGYjhlc1c4TmxOQW5mZUo3UkFBUjlGaWdvSTVqUTdUT21za2lCVVRKWXFHVllYcEpXelJXaTdCUGc1SGJNT0VnRUJwaXExbzFOV2xHTG1fZ0tzdjItMURyNWZzRUJGQklDckpfYzRpQS02QmJQbl96THktXzlhRmh1eHZSLW0zZjFULWVRbzhEdTJKSmdIMF9GeUhSRjFJcVJBT2VEeXl6Nm1XZnFka2FsRnQyTTU1T1ZCQV9DTVc3ME1aYVFWNUJMcDc5RnFYbnFrcWFiVHh4YmsyUnNmaldxb29NYUVGZVRrd0lOeTQ2bER3ZnF3Z190WERQOXE5WUZfeU1lY0Y2Wmg4NVdXTEo5UnRuLTnSAb4CQVVfeXFMTlE4dmdMVktzRVNxT3AyenF0b0dPUzVPMDE4aDRablk0WGtScWdCTDBrZklHekxwZjdBaEt1NFhvVldSMkFVbUUwSFUxMHliWDVwMmNwSWlNWEJRdkhTN055M0puSTMwbzRhVGNMT3BmMW1tYVJtYl9vamFiV1M0VWx1UlVpOUFTN0dhbmFBYU5lTGRMTmk2eGp5ckVqclFqZDFJVmt1RnpPN25mTmJfRFpVZHJUdTh6Zm5vUWZDN3Z5R1hCeFZvcFc2SXZ3VlhFbGVIRjZBdmNWM3V6LTNMNnIzRUJ2WTh5SkJ3Z0dTSlVpMDN2YkN1WnNTR251Sm1mUnBTMUZtUTROYlh4OU1rMkNxeVJFeGJCOGFRNTFfSklvOC02ck5hcXJWb3lVWW41OEVTSHdWUEp4bTZfQ0p3?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Modi Reaches Chennai to Launch Projects Worth Rs 13,000 Crore",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZjFZXzdUNTRhWjByMllSa1BQNmo3Zk11aW52ckJHa1FZQTVqaW9CVk5SbFppSjZkV08zM2prQUdMZnVhOXJRaVNwQWhYNUY5cHVfYlNHU3hSX18zSV9XREdkY2w0V2FRTzB3THVjR1lHT0ZpUll0MWltS2xqTDRBZVAyN2xGbmx5VERqWE1xR2llOEcweElXQUhYMUFjWmZGTEFLQTY1NWFJalBkSTV0NkN3VDVXUXdrSlNUcE8xUVN3MEZ1c0HSAcsBQVVfeXFMTi1wWUJRVXF3VEdibDZtMGozenU2MHpjNDFoYkxIYzY4ZXNHNlJSSXd3NFJ1M3gyRG84NnFNS0JUX3lqbk0tQXJjLVpBeUZ1NkRMWVlfajhvaldaRE5zeU5zdVFyQU11S0tnUXo0ZXB4UUU4TTE4MVZDNlZvYmpWLUxNaVdIMjA3TlE2d05xUV9HVlMtNU85NjhDVlE5d1N4LUV1LWQtWWtvMkhXWmlDaFpJVFBBN3J1NUNTQ0Y5SGRMSFhJREJCSmlTek0?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Theni, another jailbreak in Tamil Nadu — this time in Coimbatore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFpER1d1SmlsV3BqSmpIVk9QbWk1Wl9GR084WEc3TTRqMGVVVm96bmhhX2N1bHI4Vk4wa2l2bmpocDFEOENidklneUt3U1RKU0J0UGEyWkV2LVNidmlHLWRhSGJQanJ2VHppRE8tZm15MHBGY0l1MEdfSXVnUHNueEhhYVZTdVI3cTB2dDZtTjN5N19oNHpnQjdLQmFsdzM0a01PVGQ2VDBkYmhHbkdTQtIBtwFBVV95cUxOOUg1T1BzZm4yRkZLU1NJWjI2dkFRbUxEd0hCUEI0V21Oc1FOaGxjdllMLWd0dVNPMzZMS21KYkZjdHktcndYNWxoUGlzODhDZl9zX18zRjRwZWM3bVloTUVTQjZEd2U3ZEJmQWpxNld2cHRtXzZvSGFRUmtvUnBlMlI2Y0dNUnZBRmN6TlRISExkbzFZeWY4UE0zcjgyQk5TWWlBTVB4UUpqbWIwT3FDVXlWUHowX2s?oc=5",
+   "published_utc": "2026-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No pre-arrest bail for ex-BJP leader in sexual exploitation, morphed video leak case",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU5mdUNocTVaTTlwVTEwVHZyS0JHQk4zSzBKUFJKNkxEeVI2ZndlOE11S0tZbFVXVUhKVWsyRWk1cElMUVZ3QlNUUHl4Yk5ZM0V0cG1yVmFpN3pMNW5ZZmpuaVFPa0NtR2FKRnRfWDg4UU5PQjVMdzRCcUFmZUJKTVF3Z2tjTUlEQjVrMW44dUVoZXZGM3IyTzdXY0dTRGFDT1I3QkZxLUtEbnRRc3p1QktmUkZQdTNpUGtr0gHCAUFVX3lxTE5ENDdHcGRYZ3FhRnkyWkpjdXJkN1lkakhneDBCMHJ5M3dCTGI1NVJRZzNRdmtCaEpvZFg0cFQ4N2tVQkNxeEJSRDVTd0gwX25LNUNCVjM4RWtGUmVNd2dKMnFhWlB1bGdCSzFLWEVVbzVOcVJPZklQeF9XZmZyc1l1d2ZYWWUzd1JyeUJhdGdtZHFIaEpPOVprOXg2Nm9MX2ltNV9hN0d2eEdyVmZUNUFSRGZlSWZYV2hFLUxtbkJrQzdB?oc=5",
+   "published_utc": "2026-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "​₹400 Crore Deposit Scam: ED Attaches Properties Worth ₹85.19 Crore in Tamil Nadu",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlYtTk4waVREWG9TZzF2WGpiYTZmU3Bra0dha0xMNnRBSWh3bGNzN2hXU2pQVmZRNmpDOHNiY2VWQ0xTU1hPQmJEU3BKeW5BcDM2V1EzSlJ4M19sb1VJeWY2cWxsTFZiMU93Qko0SjY2RlNybGd1d2NMRmd6ZkY5LU96U2MtZUNkeEVRWHVxSFhKQ2J3MUVZemVUUTgtRzA2SG50VWZUX3ZRaGxmei1uLXdpcGw?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ooty, Tamil Nadu - 9 best hill towns in India for retirement with good air quality and access to healthcare",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa3FNQnQ0dDh2RERqbDRhX2hQNmNyRTZBQUxFUFZacnpqTFFpbzNwMjZnZzdGQzZvbFVKZE1kd2d2dlhuYUxta2gtZGU0My1vRjRKN2RldG5OY2t6U3pvWnJ2R3hYaUd2cmtKaDFMUHZsWklKaUl3M21UVjJiaV9HZXpEVjJLRkw0dVRIcUg2ek9fUmc4d29ZR19HWWdfS2hNV0sweWFDOHdNU1BxdUtBWEZFay1fOWgtU0p4NWRSOEVlbHJlQzBNdFhtb3VOeHRua3ltQktLNVdIRlJPVGFvN2ZxLU9rT29MRnA1VGFFUWVoTS0xV2lMQ09TSQ?oc=5",
+   "published_utc": "2026-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suzlon Energy to Invest ₹550 Crore in Three AI-Powered Wind Blade Factories by 2027",
+   "source_name": "Sahi",
+   "source_domain": "https://www.sahi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3NUeFNYYnpmSi14Tllha21ZeEFFUFZlUGxRVjQ3Q0xUenZFaDBObjMwTG5jSDQyQm1LRkNQOTJtcFBzV0Y5UlI0VjZEZVpuU0ZkMjE3bjlvdWFMc1NLTUprYVE0bG91VTg5a1EzZEQxTEZibkdpbm00WjkzMllYN3VFN0xuUVVicHEzNy1pU0FhV3BTQWhnODhNVmY0eGtYZnJCbFZTT1IyMi1X?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suzlon Bets ₹550 Crore On 3 AI-Powered Blade Factories, 15,000 Jobs In Pipeline By 2027",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXlPLWI3Tkx0dWpVVnJQTzdnczExZjRyN3RJcVF5dzVocXA1Vlhfamxfc0wzczBVQ0ZFUW9WUERtRVFZd19tZnR1aDZ0ejFwMGlPQ3RfRVItZHM0dERpbGxNNERyYUYySndQM1liNzFiRzhOUFZSQnhzRHlzRC03WnVSNTRzWmhsODJhakZ1VndVYmNGRTRXMVBtNTBSOTZkMHRIaFNSVktUdGNydGlZWWRoMllTYmpaQVFxQ1FsVkp0MmvSAcgBQVVfeXFMTUV3dzlqSHVjbEtyZzc3RWdNQmJnbllYdUZfeVNoTUpLazAtZTNkci14Z25MT185TzJBLWd0R1N2ZVZ6MFdFVnNEdDEwZEVPM0xnRkxZQU1KdXFaVnhiY1hsR0pSb2hOTTBZbmlkTlk0czN2TmZJWkxZeVZCWWFBZ19HYllKYUhxWGdUbkduaGFHMjU5emhzRThMckx2TXUzY0pjM3NKT0JhVHRzN24yd2ZRMzFUTHNUeEJaY3NzaDRHNEhmNkg0ZlI?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to Provide Free Hero Cycles to Government School Students Under ₹390 Crore Scheme",
+   "source_name": "LiveChennai",
+   "source_domain": "https://www.livechennai.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tT2t5QnAxbVdOZnBhNUN0UE4tT1NGYmJWdXpYSHcyVnVSZ2lpNGl2cWNDSThEMzJqNjRFcXdIMlp4VHRyWmQ1aUlSZ0VmME9HX3pYQ0VFM2p2bm5BU0ZDcENibHo3UQ?oc=5",
+   "published_utc": "2026-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-11-01 before:2026-11-11",
+ "items": [
+  {
+   "title": "Airtel Nxtra plans to invest ₹220 crore in 10 MW data centre in Prayagraj",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUlDQ0VDS1AyUGxlSGNxQmhKa2xNbmliY0NMMDJNckpiRkd5SlNlcmY5ZjFlVWJVUFVmcmFRZlA5NWtLWGN6V29hWmZlcXVqUHFCZzZ3bDVlQUh0b05IdEJNOHY2NXJJZVp0V3Q0cHNGMEpsZjU1Z1FsQWt6MGt2ZGpMZ1ZmRUo5UDhoRTV2NHJ3X1ltUFJsb05qbnB4eGRTa0hrVTN5OVloMW9ITnpwWElFai1YUFRzVjRCdHlTQ0hBVXNQRmdqYmZXd2k4VUw1MjJXeWRiSnh2djVVTUNN0gHkAUFVX3lxTE1XUjNqdVJ3MkMwZk9KWXVvc0dGLXNFeHhNTEE3RlpabWhsd3RCLUdKWW10Y2hzeTdQSXZFQ3BWUDNNMmxBVHg2ZjVvSnA4dkE1a2ZWUzV5OTl2UVBfSVZjWmxwR0JvVDEyd2tkd1ZvaVNkMkpoT0tzLTFQY195MEVIX2RCWjV1dEFEOVFlMHI1UFNGWGdzd0h5SFp0M05hak5HSmladEhHV0FkRU8xZ0lpN2FlaU1vaWphc2xrd0lIS0dFT0VvZFVUVFpmYTJvX1pTUnFzT3NiLThDVzJudXBHbWZnNg?oc=5",
+   "published_utc": "2026-11-06T19:19:22+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "WBSEDCL seeks two-year AC maintenance contract for Newtown data centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWxRbThnbVE3dW82YkhYb0lVa0lKWmV2Mlo5Z01UTTV5V09KTVM3LThSeHpZb1FRN1B1RnAtbkZPeDU4U0lTRFhSdTNLSFEzdUUzZzJyYldpM2d6SmEwVHNSc2NuWWdZTk1RWEhjSndkSGlMYXRzbWNwU3BJZHdMSkVWbmhfemR3dl8wZ05ZWjk4RHAzY3dkU2QwdXBCNDRuMVc3QlI2amFaXzF1?oc=5",
+   "published_utc": "2026-11-04T15:53:10+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suresh Gopi says Karnataka, Kerala free to test petrol for ethanol content, warns against politicising iss",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbnJjWnNKeHZRNUEwMGFZRzRIM291N09TNVpvejNnRjVfejlKbWVwSFFrS0htLUVqSTlrWV9QcDVwdDFnVHlzM0JhRU4tQzIzRERlYjd3dWRYUERhM21vNy01bmRLekpkQTQyV3kwTEtQRHM0ODhqODJXaEhqTXhmYk11UU5EaUJVSWVValNmQ2RVWW41anR6Z20waExtcHV1N2l4RjJJREY2RHJRX0pwbW05OE54T25pR0ZIemxSU196WnBINTV3Nk1jU0ppbkVEOXRfZDFCYW5ucnNCblVyUGpLcGRIcXJERVlOdXduMEpLTVpCbmVUcW5WYVYxV2JVVjZFSzBfZVFsc19ibWQyR1NZY2ZhRmpH0gGYAkFVX3lxTE1ucmNac0p4dlE1QTAwYVlHNEgzb3U3T1M1Wm96M2dGNV96OUptZXBIUWtLSG0tRWpJOWtZX1BwNXB0MWdUeXMzQmFFTi1DMjNERGViN3d1ZFhQRGEzbW83LTVuZEt6SmRBNDJXeTBMS1BEczQ4OGo4MldoSGpNeGZiTXVRTkRpQlVJZVVqU2ZDZFVZbjVqdHpnbTBoTG1wdXU3aXhGMklERjZEclFfSnBtbTk4TnhPbmlHRkh6bFJTX3pacEg1NXc2TWNTSmluRUQ5dF9kMUJhbm5yc0JuVXJQaktwZEhxckRFWU51d24wSktNWkJuZVRxblZhVjFXYlVWNkVLMF9lUWxzX2JtZDJHU1ljZmFGakc?oc=5",
+   "published_utc": "2026-11-09T03:01:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fake precedents and hidden prompts are pushing courts towards AI rules",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXIxdXU2dzZ1QUJiSEFrY0pSZEY1V2NEakhlZTZLTEJodHVvc2Q2VUxIZ0d3aXhKMzFfRjVYQWJfTEYzSzVkOVhoSDRxX0xLX2VYSGJRNHI2RGkzNVhtLTVtM3JqcUdmMXpNR21sODl4ODFhUVczU3FYajd3WWJpZmwwTlg1cVhRckZIV2xId19zVjBkdGxia1RyUjZQUXc1OWlaUjkzTWhPalJh?oc=5",
+   "published_utc": "2026-11-02T10:54:52+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why OpenAI has pledged to pay data centre power bills and ban NDAs with officials",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVBxZWlrOU85NFQzMzNuWnJiSjBtQTNvckExZzl3ODNWYVNKWHVJdS0zQzl3ajNHbVBKZkEtYnNGcm9OcTZ0eHhmdjd2YlE4M0t2Z0pmMGZDZEw4VTVzcjU5aE8tdVFEQW5ZV01iekFlM0k2VHc5MVRfWlNjSnVEQy1uX2FMc2FHUTFMcXF0c2xuWndIckJGNEdPSHFoZkw2YUdabWctbzQ4SG81OVpFYnpYZ1Q3bm9ZMFhHOTEwdnY3Nmx4RWQ0Qk9sWGhzaDZ4ZzJMSkpkbExFd9IB4AFBVV95cUxOOGNGTUJRYVpEbXdmZzJlN0JZMzloZHVWa0dzb0M1U1BIZU5BYnl5NFZvdDVFNjVONGJDV2xMT1RNUVpySVhiN00yWm5HQ1VGek92MXU0QTJuY0E2YndLeWt1Q19jTXFJLTJhMzRFV1VuTjI4SW5zYTVNN1JueXN5NTByc1ZwQlR6aHNHNjQweWtrYzZ4QUx6TTZKZnFsZmIwdmhacnRObTZaeklJakFOa2xFdTBiWEVzanhXSzQ5enlFRFJWaFMwYW42WmdVQUphWmtwTExNQ25fRHg5cDdqWQ?oc=5",
+   "published_utc": "2026-11-06T03:15:32+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

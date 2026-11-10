@@ -1,0 +1,77 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh govt to roll out AI mission in phases to boost governance",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2Zrb0wyYmJzSTJ5UWJVUTF6WUg3c0l2WFF3SW12YzVycU1DMFpwMUFCaW5FTmNYMUd2XzBXZm45b0hGcFdWaHl4cHBnMTF1REZreEc2cy16cGJaVGxEUFg0U0l0c3dCclVocWNsTWl3U25oczJSQjlZWGlRTXhiUzRGNjFLWXV2a3dMVFZvU3g3ZDU2QU15Y0hhZlpDdlE?oc=5",
+   "published_utc": "2026-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Beyond pilot projects: How Madhya Pradesh is turning AI into a governance powerhouse",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1Y2TnhYdlFjdjEzdnRsakpaR0tITXZlaFpNbGFraW1GUkxvQktjWHBZUTE5NC10RFhsSm9lMHIxZC1UMG5CUFNiOGYwTDVxQ3dkVm1YcU5oRHUyY0Y3Unlwam1TcmVQWWFFOGtEOS03VnRpS05Qc0VRSkdpaVVOY0djOVFKWHhhXzBEQjhhbEc4OEI2dkN1aG5JYnFHb3U1V3hwc19RZEl6TjBjcnE4SFZZZWdqNE9BenNMNGdCYzBpTDRrbmROUzY1azFlMzlIalo4WGI1X2vSAd8BQVVfeXFMTWg2WUJiU2h2UEJDeDAwNC1WcVN4T2hhM2FUZ3BKeGZFUFR4U0hfal9wUWgwbEVKZHZOaGxCU2dyZHhHR2tQMTk0a1E3cjNvdnJlc0t0YzQwWk9yNE1Jc2loVUtMWVRRWmF3MUdDVExlWnhIaHZuNHNzWFlyd2xjbTZKNk9sdWsyOV9tMi04djJCaXhqcTFzT3EyU01pUmk4dExKNmJnQ2o5TE5JUkQ4NmV2a05iMHBoWHhfTlpvREZ3cXVjekFBLWJqT3BtOVpmaENiYVdtSUdDYnJ0Ym9Taw?oc=5",
+   "published_utc": "2026-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh govt announces 3% DA hike for employees and pensioners, benefits 10 lakh people",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ1Z1UUM3U3lUQ0lQZ0xSc0QwXzVoZ25lYVpTaUlWM2g2ZnBuNVFyZ3hEZi02MThNSjI4UnRlUWxfd2FjLXdNQVJDWWVMRldYdXJQd191OW40endMNFJraHM2dmJObTdaekFxbGMwTnQwRlc1czhybDBkaFVkYVNWNEJFUzA0U3ptcjhKVU1qRk5WdmtucWt4b002aVFFNV9CV1NJNmZhcDNzRUZRRHZYalBmeVhzYm9YRVZ0TlJvQlBtMTdrUjdNQldJNjhVMkxUaUR5UVhRamk2UmdFdlNUZXZn0gHnAUFVX3lxTFA2eTEwNk0tUjdha2g1cm0zR3E4Uy1yRVR6SUVvS185OVg1M0FNbU5DaHZmU29nc01TaF9BdXJXRnp6bWM0VVNKRWI1cHNZMDhJOHdXSGNIZUw5cHdaR2szTzg1VWw5QnFBeXBkeWlNa3ZlRWx1ZzNEZFBCMEE0VnNUaDYzOUx2aUxuN3VOUWVrcXp4c2NQRU5CN2RfcF8xd2E2a0R0TndHb3JTbG1jMXREb3RMbUFmaGdmWDFWb3Y2ekxCYlhvcTEwU1NyemtjQ1lvbXlxZ3NOYngzbjUzb3NodkhvZWtrYw?oc=5",
+   "published_utc": "2026-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 125 Crore A Day: Madhya Pradesh's Debt Belies 'Performer State' Title",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxUTzdrZ3BaOUdBMkdBdlVUczkwOGVGTEl0WldxNHROVlZOdXVrZ0p3S3VEZExqQjN3cVhaMG41Zk5wcVhBdUV3OHhhcWNyeFo3UUtjeEpaM1RFS25fUExMRkNOcjNZaVVMU1k5cDNFLVQ0VW5lSmVHSHNzeXVBSTI4dWtRdGlrUHI0aGRWcWNlQnJfbVFSa0UxM09weGVDUWUtMGNkdEgwc1hFNUHSAbYBQVVfeXFMUDhoeDFHa3prZTZGUDlkam40elZvX25rczdZVi1sQURQc3VyczJxUDIwZm1YelNaOFh2NlVfVU9wLThXVW1JcFMyTExoalJ3Qy1JMG5tVVNXYTZGNW5SOG1wdHdHbExYeTdTZ2JhRFhQUFZObGJ0bU9SMHFnamVWeGF5UHFUZjdxSXo1LVRWekFLMzJydXBIdTZSMEJaQUN2dkl2T2lDNWtDMjJXM19BQlF1VFRTTkE?oc=5",
+   "published_utc": "2026-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh DA hike explained: When employees will get higher salary, arrears and how much pay will inc",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMzRCQzl4VGZEbG5teTk1TmVZTzJ3TTh3OUNwZzRUeWw1SmV4bW9hWDAyd3JLaEJtWDYxOTFqcHpGZHRYX0N0b3VlWXl3czNkRW0za01RWnN6cDVQWE1FWDJleVQ0UW0zN1A1SDhZS2JqX0NnaWN6NDR1YmtTQm9qV0M5bFdEZDRqWjZFWXVkV24xMm1jN1Vyb0RlMzlBQVNOSnMyZFVBR0hwLU5Yc0lYSUxDcXJWMEVNa0IxX0xWV01aX01nSFJ6aXhsbFRQSEhldWwtc0gxUldIcFgzSmZqSFJuM0JRejdqWV9nMThtXzlhSF92Rk1QVlBnTDdRZS12dFNEV9IBigJBVV95cUxNRE5nS2M4V3k5NEVpWmhxUWdXbWRwWENNRzRYcFFlUV9IdEwwQ3lOT0pmTkQ5TkR3SlgxNlYwVnBEaHhLcUlScFNlUDUwYzNrQnhQUTdnT2E1RlhZWUtQNGJnWHN1cTEwSmxOY2ZPb1NmQkJTR1JZb3dnMkRSbVNGNTEwekR6ZmtPUzlpaG1vbDA1YVR3UkFOTUpCRWZfVi1tZm1sZlBqSmlhM29HSURoMWVjdzVtd2dpZ1p0YlcydWdBcERiOUxsdGRHd3lCaEVHZ0tUbmhKcDJRQkh4Zy12cWtVbWlKV293MjdVSi04OS1lMHMwWGlQYUJlMml6NjhONEZJR0VjRjF2QQ?oc=5",
+   "published_utc": "2026-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Hikes Stipend Of Junior Doctors",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQam9iWC1nS3dSbHgyem1MTTJCejZkZXpOamZELThQaDhmUjlWWVNpWlNqa0gzWGZET1R0akNreUR2cnNBbEktT3ItbFBqVy04bGw0MC01RlpFbFEzX2psRkdNaXAtbEo4c3JPcG43cER2TWVuUEM4UGl4ZXpnWGFmWFBncGFZd1lBcV83TFpoVdIBlAFBVV95cUxQRWFDMEQ3S0twWFFPSndyUE9KaElXanBVaDFnbnVyWWU0ck8zQ3AweWcydkdBR29nd20zLUNpUFdzUlhRN2RPREJVZDNxVFppOG1BX3RrY2R2eTN5X2hMdHNFckVkZVNDNjV4NXVqMXN4Qm1Cek9rU0V6eHRtZDVydVU5NkNNNXo0QmdDRUt0Wm92SXQt?oc=5",
+   "published_utc": "2026-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OPD Services Hit: Madhya Pradesh Junior Doctors On Strike Over Stipend Delay",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVQ0YlBJeS1EM1lOWUdOTmlyR0VXSjVrSG5kaDlxSUdyYVpfT1BXMVVtNWpEckFJV0RvR2VXT1UweWtmd21sa2pBdGpTS3VGRTNKR2tXeGI5empYOXE1NnVvenZsWFl4empHcnEwenc4WWZMdGZmS1ZSLU5vS2hNYkVVWm9hZS1oQnZpMnM2dHRMTE1FV3o3V3ljZHBqbXdSejI4ODNDeE5sZ2NRN0FydkJURHh6YVHSAb8BQVVfeXFMTmhIWmZVd09CdkNxSVpvMVlfY0g1TjRvTV9jcTBvTkRDNTFvQUlmdFAtNVRZa2Q1a2ZPNGZQQy12MzZ2YVVOQktmV21oWjI1UTFUOFNCbVZycFk1TzlucDRWVzhaOXlicnlEbTVZODU3Q1J1blhRT1Ntcklab3g3Wjl2dUVLN0FfNEg2aWRGeEg1VllCRi00OWVyTXJuSUZmSjZLTlpMTkw2V0FaM1MzVU51b2pGR25nZ0lDdjZ0azg?oc=5",
+   "published_utc": "2026-03-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh High Court Cancels Congress MLA's Election, Declares BJP Ex-Minister Winner",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUlhfT0N6SmRnbVVUZ2tTX2ljdG91c2h0b2dQOHA3RC1Jems2b2h6ZS00aTRXX2VCZkdZZmIzaGRXUFJYU2JVN3c5Qjd6VUR0WjhYWFBDZHhFeHpzcml6MUdNTmxnUDNkR1NyQzVIZ0hKUGlTWkdEdFVBUGo2SlRFNkthSlRSb0hTQjg4R01pV2kwSFItMXR0UkFHYmFEb0tDVl9XcC11Zkg4NXdjeExrdlZMd1hha2M5TFRZTEJRckpxU1R6NGtWZzAxNWx6cXV6NDVmV0RjNEVHMklBdjgzcDRjM1A5SjV4YzBKNW5TSG8yd9IB-gFBVV95cUxNeUNxdFZpSHMtcHB6cUFMNUxibS1NN0dUNHJ1MzhYYXdBbmloSnpTQ0lPV0tjWWhBV2h5dTNBUVBkTlMwWkhRM0dDTXFNcHNpdElaeFExUzVJMnF4bzI5Z0FxWWR5REFPN3FSS0hESjk1LVpPeVJyaHN1WkR5amdjTVFRMHZqVDdBNlIxREJ0a3dwX09zcXY1YXplVXZFbU1URTJtdlAyWFJGWmJfMkhqVEg0eWpHNUJUeWcwVnRWV0duZ1JPVkxBcUV5dUtabnRFNzlNM05SMVRfVkFpV0IwYVNTRTVMOUp0OTl3R0dtMzE3bFo0MGFmdm1n?oc=5",
+   "published_utc": "2026-03-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tricycle Given By Minister Breaks Down, A Replacement Follows Within Hours",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOclBCU05jeUMxc0NiT1B1TmZ3Y3hvTGhYMmpCRUVZbGdLMjJHVzJiR0pjTG1PblI3YVhzX2psdXl0N2dBbkdDcjhpaWxSRkdnSlZQcXVaMm51T1E5ZmdsWWV4eFUzWTlJbXk3Zl8xaXR1d1VlTEdWT1hiZEh0U19mc2ZBcHdVUWJqX1V2RFV0a05kUmhkRHc0RDNLNmItWlM1ODBjWHp1aU4tSDJ1T0Z1U01YakEtWXV4Snl5cG5LMkVVeks3R1RF0gHPAUFVX3lxTFBycURsUHdkX24tVnNQS2JPT3htQmgwUjc3U0dpaTRGMVpxMkZnYkdaeVNsVjBheUNvc3VnTjd6VlhsSzdudjlLem9PWGE1LWVKRHpmYk51cEY0OFc3RWNOd0pYVXgwU3NpWkF2MWtTLW05RTc2MkFBT0QxVlBYOVNlb0lDSVpmNkNGU1Ayb3hPMElWcFlMRkNRc1FXcm1tM3BfWVJNbVpaTGQycXlLZ0thaWRfLXVtbUhqQjJfMDRWVVBqaU5qRjduT3lyM2ZMdw?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

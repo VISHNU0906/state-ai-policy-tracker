@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Andhra CM inaugurates AI-powered pilgrim command control centre in Tirumala",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFYzTVVfaVhtUHdNZmJ1RjFWdjFMRDFYVzU4aGM0N3Nva2VEQWs0aGpOU2NUVVN3RnIxSXV5WF9sUkItTTFiUWlyUVlKN092N05YLVRQWHYzMmtUdzJpNE9aZ2RVMFVSWF9yUkVFeXRoTEFaWlJNTVc2NEpvVUdCN3l2Q3RNdlVLZjREd2lydWRlOWp5MFpGWnd0MXlvczNJYm9yZXdad21GZElHV0VoZGJTd1Fpa3Y2aWdSckpJNUxlMXpZY1dkZUFuSTRxVVNkUDlvOFV4UnF3NWMzaXlfbjZ3TdIB6AFBVV95cUxObmR1UkpuYlZMMUVESmxwWjFadVNsZGt6bkgzdndfdDNpR3QzX0ZQNUVHRWl2NzlsZXVMUWlNSTNnLURMTGFnNlhFTW1pbGh2aVA2ZU1uOE1tUl9QeWE2aDc0RWFtVkNITy1kMHJXODlNZ1JtLWlEREh1YTJBUkFBVGYtTW5RYmlrWGxEVlhDcXp4TjRCcG90UXhSVjdsNThLdEhpeERnU1dGY2ZtbkRaTnhIN3U4bnZGR3pfdml3T2pUYklwMWNZdlF0anFzbDBDZ2Y5OHRoMkFqZnFaNWZNdUJLUnpZc254?oc=5",
+   "published_utc": "2025-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Chandrababu Naidu inaugurates Integrated Command and Control Centre",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTW5nd3JPSVh5d1ZiVkwyejl0M1Q5U0VubUxBZ0wwT0tnR0RlbHd1YXNtYm1ZdVBUWUh4RFM2MHJ0eDZUMDhXUzF5UVY5ZXBVeFhCWnNwTkw1elprc1k4TkZaUlF2dllWV2Ntb0tVSDdJUzFXTER6cmM2cVFwLV9FcXlnbEZVbkZ3LTFRdC1OZmN5dmd6QnJoenI3Mkdvb2VZZy1yTnhBRmdWbTFHRFRJSW5YZ2JXVmtHa3NPbWw4cmtXSmx0ekZITGhWd0F1YVk4cGU0cVNsMU43a3M0QnYwNEd1WGdCV2kyUFVUTkhqTVjSAfcBQVVfeXFMT29GeTNwYjRnYXYxWGtLbVJFa2FuMVpMTWx0dVNVZVE1Rk1jb3JXWGdTZ1RKaUpsTnNlTy16TWZrSmlWOUYyenk2SVFnbjhTbEVDSmYxc3B4TWR4RmhWNEJwZUIxS0xTSkZkMi1PY0ZiYmdJVmxIWUZSektxZGZkM3dLQjQtOE1CZGpRRFFyMmxicG5US1dMWDhqYmxTcUg0d05YcGRjUmsxTkFzZEdEcUVrcFZpZGtLSkZEY2dsVlkxeVo2N0tyTVZsa2tKQnRIUEdkc1RwRUppV196emEzMlBKOEFfS0RZNzFoemZlVnVwLURfTklQNA?oc=5",
+   "published_utc": "2025-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tirumala temple inaugurates AI-powered command centre for crowd management and safety",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXJKZm5nQk5PTlZieXZjTHdYYWlfbVhydzRLVTBNeUdiQy1WaU9fVnZONC0wblRwUG03c2s0MUgtU2p1dkxVcUU2QURYcmYxQXRCRWFqTktOSWhkWTV4dUlic0JSV3hPUUhZdmhvTUIwY3lZLW1Pa3VvbDkySlFsaFFvN0tnNXE3LWszYTJtQ011X0ZBSS02UEdoQW9YdnpHNnpCRDZvOTRObkFKSkNKR1J3?oc=5",
+   "published_utc": "2025-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TTD launch India’s first AI-integrated command, control centre for pilgrims",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZkhHODRaUndpRUYzUXBvaGlGZ0xFLV9temJ3NUZVSjRQVmo1ZXlyWFZFbnRxUDdqeFR0VzlLbHVCZVpsLWdIUk9FbDhOTDBvaUhYZG9uajJrR1M0OHBNa3BhZG55aG41Y0x6cUg5bEpJRU9xYUhDODZnaFJnUXJEdFBqX1RqWmcwTkMwMW1JczBOYzBfaXNoYy1tM2ZmQ0lRb1kxUFNkSTh3c2k5Ri1ySUdyaVczVkRjYkh2cF91U2RvOXFJQlVPMHhHRTZYejFkd3d6Qi1aZ9IB5AFBVV95cUxOSHBVZ256QnhOc3hiMHdjdDBna1dzY2hiUlEyWVRFQUNPTWEtUnhKcE1MS2h5U214RjA3eXlWSy1Nd25oSWdTd2c0RVczdXpBTlJoWW1MNGgtWWpPX0lXMjVRRy14S0RHb3c0OW1TeXBBak9tcFp6b01FOE9aZ0pGaXNSOUtXSjdBZnMzb0VZbGYwRXFKZ0VvdW5McG1iRTFabUZUMmFjRjg3QlpPVkNXMjJKMmNzcVE4TTJSTEJJSERkb3JMazlUYWJFczNBNTNBeXR1ZXJaR0JJMWFhSEw2WmlzbG4?oc=5",
+   "published_utc": "2025-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh and IBM Partner to Establish Quantum Computing Hub in Amaravati with 133-Qubit System",
+   "source_name": "Quantum Computing Report",
+   "source_domain": "https://quantumcomputingreport.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTU5WXJYbndBVTFWNWZWQ3ZlOVVQb3NHWDVPSVJaam12bkZrbm5MLS1Yc2dJVlF3WGliMndhMWk1ZlhSRXNad2ZsQjVfV3hZLThnNkRNekI2TEZjaUN6c1Y4NjdYcVFrZHdyT1hWNUZoRGgybGNCLTk3akVKT24tUlFuQUtFX1NnYWh6MmYyMzdSUk5QRjJ4aTJjakROLXozcW1tTHE0aENwNnRIb0k5NzhINU5kQ2NkRDZ6cVhqVEdueEtZY2V3aTlNUzdJcEh4ZXfSAdcBQVVfeXFMTkYwZTU0WXJOaFVabkd3Zzl0MHdmV1l6RUlGX0p5MmN0MGszZFJMUEJNMjdROUFzc04tWWlIRUdDVFVZaUdwYk5pbUFhdnVtUVV2ZjVlYVdzVDZjYVRJb0l1LUszOWNjYVZNQklLR0EzU09kOXNCNVpxaF9QNTRUOGxzUjZ3Mzl3dFhWaUxIOHRTMV94Wl92TTVMYy0zNm5GRVNueXJ0cWxZZy1IYlYzSVNWYy1pRi1WTXdjcFptTUsxVWtQOTFmUVpIMHVyLU8ydjN2X3o3bTg?oc=5",
+   "published_utc": "2025-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Accenture joins TCS, Cognizant in Andhra Pradesh expansion drive",
+   "source_name": "People Matters - HR News",
+   "source_domain": "https://www.peoplematters.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGZzNW03ZWJnblN1bi00ME9ESEI3ajJXTzl4OU43MVA4QnJ2SzhTUEI4UU9PRVdtYkZjVGRHQW53X1RPQ0dXLU9iLWJ1cTZ2ak0yZGtfYXcweDQ2bmNYS3UydEhPMEM3bDNpNFNodklIVVNQOWRidVRaYzhCV2pvQWRXUmt5UWxWU1JjYW5nb0JzdlZSVTlTZnBROTR6ekhUbnpQQlNTQjJXSVM3UjZQZGVB?oc=5",
+   "published_utc": "2025-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh IT Minister Lokesh to visit London on Sept. 16 for roadshow on Partnership Summit",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUE5HNno1d1AwQ3ltWlZ6Q3dTenFEd2QwUGxVM1FzMFRaN3ltMGZ6QVFpX1lTbFF3NksyazZOM1k2Ujd4TS1pRDFHcVRRMGpGN1V2bzJFV05ncENPdVRhWnU1cXpRQ0ltSHJiQ0NKVmlFQjhWYkNldWZuOE5hcFdmMk4wdU1QdzFZMThrWi1uNEFXX1hPeWVSd0R6RlZRNnpxbGhHU29DY0F4bXFoYjloUk1qREZkb0duY2VubkdkWnl5UmotWUxvV2lRc2l4QmpKT0dJZVdPMWJCNzQzelBWRzdiRW5leXQtb1hpcmxhZmRBeUN3V0RBUTdrNGdlZ9IBhAJBVV95cUxPS2VCdWpMYUNrRDJUREZaRFl4Q0VCcU93dkQwUHZzVVVCXzFSbWlvVmQ0TTI3MmtCd25NLUhFSGpDSG1kUE5Vci1RRXkwc3pDcXNrcGRKRlBzbmR5VDN1cmk3UDI2bXBubnhfWEk4WTlvQzYxazlsZmhRYUtpYkhvUzNvTl8wMWFZaXR5SFhUSm9adUhiNm5NVWdoRjRRM0JWRENyNVlSVFZDZUZaMzk1eV9DQjlzbnpPT3hBalUtY3l3YmFXNTFsUG4yUU9SSXNwMVdFMHhNdk1INnZuZ2E1RW9xR1VLeFF5U0F1Y2RMOUZwNERmc3BLeXpWMTNKTTN6aFVzUw?oc=5",
+   "published_utc": "2025-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Advisory to farmers: CID registers case over Naidu’s deepfake video",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWNtV3VDUmRENy05TGlBSEZlR3hoWGVlMnhjX0lPaFAzWXYyWDJnaVRoYy1KbHhSYkNoZ3hFZUJlTlRsdkg2UUZFTGVkR2Z5VDFxWVJGUzcxdmM5MFZwbzllcDB6S1RGWTA1NUxsQXAtaGkyejJTeHFOUXctekpxcHByc2c3SDFGSmR1MjQzaWswbkdNRGdrbk5RM0ZqSWVaRm5OdUc0b3M3dDJubW5XMHF3RFpMaWZfNWNDaTBCQmJYYVVCc1d0ZV9raFHSAdoBQVVfeXFMT2sxTXNwVVhqdE1MTkJvX1BzWlVBQ3M5bXlNcklRa2dSdDEtV3JPZktBQkdLUEM0SUIwRGpnUUs4ckc4NUZSZ1ZDQU90aV9sNmZGQnNjZFk0amd6VEZPZ3g1WlNDOGRzdkdfZm9STG0yOHAxdmpQNHZYS0tjVGdOTnlaLTllakRFY3B2LWIzWTV2V0tSbk5DbTBLRTlyaU8yV0xPVndXN3Q5VWt0blhFNjM2OGc5aVdLZEJUWFR6X2QxUW9hU2RjTzM2ME1MeWpsdnJCUEh5Q29rVHc?oc=5",
+   "published_utc": "2025-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Opposition Controversy Exposes Erosion of Institutional Democracy",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0pQWVFaMF9tcURBSlVJeWlhUFZ4aV9YbU9QdlJYLS1Ia2VBUDdfS2FvRmxRSkRkTlZXc3B1cDBLZTRzSDc3dUdBSFRwRkdqZXc5VmY5T2tsNG5qRkVfaFB3Q3JVUFNab3Y2cWg3MUlZVklrZVgzdThBQ1FoZFBFYUd3allJbXlWNEd4empNSW1CeXRScDRQWV9zWWdVdUNfVi1tX0hVZ2ZmX1JzNGpfa0EzMGFzM2ZVd0xranlRNjBuX2NuVTRObk9mTVlYa2dT0gHXAUFVX3lxTFBDMlFLWl8tbVpBYmJyRzFEWU5WdHZFcVFieTdCbW01ZkdwbzJLT1huWkNpYTJzSHMxSHFpcTBZeURtSEFqSGszZ0k5NklGV2VaUm9JOGVzU3BuTEViT2RHMzlvQkFNVEYwR2otMmRRNU5SeWlGUDJSV3BKcnNuRTEyNEhWeVI2OTY0SkZkZko0ZzZGUm0wYWZjOGJfN0dRMkppYlhJZ0loYjNISU9pTlIybWhTVHFwTUVzdmg1bFJucjZtUm5INWNQeEIwQjBjVHhRaHgwcWFv?oc=5",
+   "published_utc": "2025-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MSME Minister showcases Andhra Pradesh’s potential at Global SME Summit",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWFmcGF4VWNrcUVtaUhfZk9hbGhyS1RQZWMtZk9RaFk2d0laelhlZUNRWFJXeFFNaDVhU1Z4WFZOOWY5VlJGSVliZEVZYzlxRUJZZWs0Zm9HZHJMVnVMVGJ3a215UktmdVZyRERkN3EwNUpEWnlqaXNVLVlibGdJMlFnM0p1LTJ2TXhTLWtuSVVCZWVSdG5ORDhuUTRkbHRJV2Ntc2RPd1p2RE1EdUpuVXdRQWpfcDI2Q3JQb3pQNTdRZERPci1vVVEwS0h0UldCOFNJ0gHgAUFVX3lxTE9CTW5BaW0yLUhIdHRvdlcwSFAtM0h4R29QVXByd1hCNFc0Zml3VkNHMUkzWlJFQTZiN1pTRjZtZ2dBYWRmNXgxeXl5UDBrNnIzQ0JUYTlYYUFMX1N2M1VKRWphbVduek5TcVdaZy1jYmpQSVI1WE5Nbk9FNVo1dFlLLUJLcWpsZkxKbUtFcGo3dXROMEd5WUFTOWwzcU42OWJZN1NucGxlM3NGQ3B0aGZJSXR6aW1GWU44ZWR2YWlWNUg0MGdhWnY1Y1JYTGpwdk42bTBzMlEydnRHRVNuUEpZ?oc=5",
+   "published_utc": "2025-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

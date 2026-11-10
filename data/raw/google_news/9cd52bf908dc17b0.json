@@ -1,0 +1,77 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Tamil Nadu leads in tech investment readiness among Indian states",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUUNBZTY2R3ZzMkpuYTlibVN1bXVFZFNDYUI5TUliUl8tVFRUUmdUNmZlbW9JVTBTOVBFandndUhVenNCUVlHOXBJMWNjZWo2amhqZDlEYjlhTWxuT2MyQU5jNVRpNjVUZ2p4UXFfTXpRbHN3eDdNNnZHYWk5ellNWjBUOHM4NjBJVGx5UVlrS1ozQ3htWV9lbHVvc0N3QURvUm9VbE5UbVZGaERIbjEweENST1cyRWVpcGdXQzZMSUswZ3RYaURlN0dwd1lFNEFONDFLTEVIUTRUanhIMU040gHkAUFVX3lxTE85MUFUWG9YM1E2amxzS1JoblBhaExEWThITTRZUEhlM0dfZmNET0xuUDh5S01UX3F6YU9BbmNXZGVSMjZXTEhGWG8wTUg1enM5YW5MNkZUS1pDRE5pb1VWUnJJYlJxZld5UG1CdE9vS2ZQVU55Wi1lbFYtcjYwTTlCcl8yQmRZWXVvdms5OUZPa1VtUHFIZk83UHVPWG9LVHZwRmhHRkFMVGtEZjZ2MGdzTGlMMTVWZF9Db29nUHZSU2k4MEI4WTMzUWdTWlFSaWRuM0RIdTl5VmEtMlVUNjZhVTdnRA?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet Approves New Startup and Data Centre Policies to Drive Innovation and Investment",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVudmpLdzFEWkNLcFQzMUFDbDZNU3l0MldCYnB1eG55ZHBnN2RiMXpPaFVlSHV5RkliZFZ3S0kxUkstclpvbDQ3azFjMmFiS0c0dDF1Q2tIQ0V3dkxOam1VampCZnBrM2lYMThXRXlLbVZCYXlYdWdzbGlYbTVyeWhYS2d5MWw3Q1pRRW1GbmhSNzYxb0hTRk9kZUhyMHNqR1N3WjlHSUk1Mk5nU0ZKem44Rjl2WlljVjcwTU00blAzZ3pwTzFXUQ?oc=5",
+   "published_utc": "2026-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka finalising comprehensive Data Centre Policy to support AI infrastructure",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ0twbUluZHBmdloxck1WaF8wWmw5UjcwcC13QllMVzBBeFJKRzlabnlkeFVUeTl4NHpwVUF6V3BqSlliUmN5REFNdmk5UWlZYTNLQmxYOFphZ2d1a2RzejVSb3l5a2ZRdkhkYWJuNWNhcU5qYzZFOUw1ZEJFNmtod3EwUGtRYVdoc2lJMU1ScGxrVmk3ZWtpLUhHZTM4eVo1Q0ZiY0V1Sm1Kd1FyVFpNWk5pUmVMMlFFX2ZURl9oVkxTQmp5REt6SXhCLWFQYjRmSjdVUnFDdDI2eVNTekdUVdIB5gFBVV95cUxQYWZCQjdFMC1WUkJPM0R1Ym14cGo1T1BURHUxODdUblBWaTdlbnNJMEJWQUtaVUFpX20zUXVqdFFjUkRudE1zY3F4NjhwMEZCU3VYMnM3dWxHZFhHWEUyT2pncF9VZVpfRklQUXdqbXo1M0pKNlJ2ZXA4b2pJMzdkdE1pQXlfcFl6d2FSRTVDZlVUZ1VNRXZHTDRCcmRPR2JxZ2NDZzlkaEJ2UmJBRmxxVjV1U2ZRcXBHQklKS2lXTllMbGdWNW9qQmJxVHZ2WU1WWEVaeTZtXy1KLTczZXdabHpEanA5UQ?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "4 States, One UT: Where India's Next Tech Investment May Land",
+   "source_name": "DQ",
+   "source_domain": "https://www.dqindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZndEbG5VYTJlNVdLWmowa2NfOFBDVmlBTE5DcTB0UjdGMmg3bnhlRmhYdTdTYVZoT1dab3BTS3RtaFF6SXNuUXlGY1dsdDhIdUhtYlpKMDdEekZRUUVqN1NMbU9tbkhMdFBrYXlYNWFDTnpmMGxjMk82dnUyNTB1MzdQLTFLWFNnSjRyMjl0dndncFlZSjVwajNqeVRTN083UTFVN2tRY0I3SEhUS19LVmhISXlBeVhvY1VSWtIBvAFBVV95cUxNZndEbG5VYTJlNVdLWmowa2NfOFBDVmlBTE5DcTB0UjdGMmg3bnhlRmhYdTdTYVZoT1dab3BTS3RtaFF6SXNuUXlGY1dsdDhIdUhtYlpKMDdEekZRUUVqN1NMbU9tbkhMdFBrYXlYNWFDTnpmMGxjMk82dnUyNTB1MzdQLTFLWFNnSjRyMjl0dndncFlZSjVwajNqeVRTN083UTFVN2tRY0I3SEhUS19LVmhISXlBeVhvY1VSWg?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam commissions first govt-owned GPU cluster to power AI services",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcDhfV2ozOVZjVTdUQzlIenJuemxvem15RnFHa2p6S09ZN1FEXzlEaGZPWldNbWtsLW14UmxMa2dpRXFoWm5DM2RaZWNURnhLZUprVjRYSkZuMWliWl9tbzZ4TUJoRnJ3YU5tbms0Z0RNaXBERjlVNTVRdHVUNlhuVExaX0h3YTBDTnNDZG1TakRFdWN1NTZ3cUFtWkdPWTBBenQwWXZ6cGtJR0phMVNQWm05bFhVcDlSVzV4b0Z3T0plaVp5UmhYS0piNFcyRTkzQWtjR3YtVjhNMTTSAeABQVVfeXFMTjZKd1I4ZkowQzI4TDRIa3ZJbW95TUMwVW1nVTNPNHJFSkN6SjFRODZDZ2M0cUJCU3g1VlR5dVJ3WHBFQWZSR2xpUFZITWpDRGp1bnRoclpPREJQSEszOERKMDVKb1FzTkQ5ZURmZUxiLUVZYWp4eE41anhqbl9fRlB6RmtWVWg3S0thRkpkOFJqZFIzYlFiSWVDR1NvNXJNQWhmSzh2elJoRFpVZVdHWkVIMjRqdXJmNC1jajVSekwxNFNJMnpkR01LVHpOTGZ2ZVNWRHc1dEpwVkRITzZtOWc?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Protest held in Thane against proposed data centre over 'environmental threats'",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS19Td2FGVy1jMm1uQXlGUDd5Y1k5Tnl0dlo4VGpvU2I1ckRzd1RVRjE1eFhsOGJOa1ZBQlNYOU0xdjc3akpCU2ZvcGwzZ2ppSjhTaEwwUHhnZGoyUmFIRmNSb21EMmo4QTEzMmJvNndOQjdHOGZkTlZBWllBdWRUY2lJaHdyQkx1TmRwd1plaVM3YnRpVWVFc3FGak1GR25rOXQwU25rVVFwYmJNbVEwZjRKRENlUHduYlRjNG53ZlN0dVFLQ01DVVdOaDUtN0RPZmhCbXZfVk9FQdIB3wFBVV95cUxPOHQydTlHZUJraU9nZXdKY2RybDhYRFctR1FUYTVQaVowOTVkVGJKT08yWVhRWE84ZlhOcGhpVHZTM2VwbUR1czBCU28tRkVsejlRSm1Nd0VHdkxnSHRxSmxrUmh6dnNZdWVMS3FZVEQxY1htTjNqcFJOMlpuZ0xjemFPVVRHNDFpN0JMczF5S0dhWHJYU3dZYTRxT2puU3l5VU5JcGw4MXJOYV9SWE1CbUZQVFZSRVVpc0dUWlRienFZQXFNVnJPb1lUWDdBNmYtc1JIVTZWMkl4RHZxQVFz?oc=5",
+   "published_utc": "2026-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data centre project: Will take farmers’ land only if required, govt tells HC",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTV96LWE1RkpCNFFoZWJxUVVOVU11a2c0YnhqdmZRakl0WFJnaEg4SllqSWtkSHUyeGRUM1dKUXRweWxCS29SZ05CWmlfV3poZEVpZ0xSNnMtVi1yaWJZUlFRNEVJR3ZndHhRNGFlVGRxSXJSNlp6ZXpQcUZDUU9SWDVMZUtaVUl2Y25KdTZEbmR0NlIwSkJkLU96MGVQWlprQVdZSDk5NE4zSDU3eFNxT25nMkNMZjFNVUZyUmRfNDFTcEtFNG03d282My1TcUI0cFRaSlVfc2ZrNUoyWkxmNkpWeHJ0UdIB6wFBVV95cUxNRmowc2o4bzVMd0RNVnVRZnJ2T2R6WndxSTJUTldnOUtLNXE3TEtsQnlyMGR4bDdOMFlDWnVLZmlucVRxVXFLSFFMb0o5bF9kREdwdWhvbERJZVBtWnl4MGJPLURqWXRxZzRTRTlBYzlSRTJwQTEwSzVMOHZ5VTVzZVQzMDNQaVFFR1JpUUVXbVNiNjktbUk2enVkdndPWlZtcUVTVHZLVFdMWEtTMXhxdG80S1JETnh3SV9GRVVmVktrV1hxTFQtVDd2YlNtZjdqejE3S2ZlaFpFYnZMVE9STmhQTm5vNmM2TlpN?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to build AI city; announcement likely in budget",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORk1jc0xfWkEtS0FVTGkxX05jUkd1dUR2cGdYZlN0bHJ1TkRST3NMajdEelQ1YUlqWVlUSmJDbHhwZmc1RTh5UURpODZSNmROQmZRaFlrWnhSZlhJNWl3WHJMNmU0TGhkeDU3RVprei12eURGaGpLZk5GdnlMYVhpdkoxZHpEMGVwZ01zWE12WGl6Z2lnaUswUFpUZ3g1U1RTcXhpcDRYdHNrVnVVT0lRaHQyOXRJZjBOdGZiNEhFU0V3dWhWT2NOaHpyb2xkY0x0RXFB0gHYAUFVX3lxTFA2RWhHZDZSOGt4bGFxdjd4Q1BfYlN3RkdqVENiZjRxTUVtTUJ1QjZrY0ZmOUhMVERnb29obW9TT2xYZ0RVbGpjZi0zTFI5WVpZdmlvNkRWVzY1dHZfakdaeVN0VXdNRGdGV21idUZqUVhNcThPTmFtTFpBY0sxRU5tV0xJdThlQm5tRGdlUExrS2FZa3lfRlBmM2JsbDh3dkVWYVBxUkRFaHR2THBBc2k0dV9nTFFDUHc2enhrM1dXZ2pfRmZfaWRyTk1Bc3MycXh6ZHMtcThUNA?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Unveils Data Centre Policy 2026-29, Eyes ₹6 Lakh Crore Investment In Digital Infrastructure",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2prMUVlMzkxdWU0YjlnVzliNEkzR0paZndLX2h3MXhMNlp6bkUxS2hlS25uX0p2V282bEpaZ1Q5MHVVN0h4UDRxQzBnSUFEZ1dOcHV5QnJ3b0c1SnJKbmxyT04zTmJKLTh5bjZTV2ZzVVlfTmJYMXlmemJWM0E5dGEyMDJpOEhwUll0QUhNNE40TG1kVHRDcmdlZHFMNmQ0UFdaX1JhRDA2TVJWLXJ0bV9iVzMwVExqcDNLZ0NkWW1SSHlmREtYbFVOMEZ4ckFW0gHWAUFVX3lxTE9qa2w3R1IyUzVjZkdxdU0zdHo0aHJpa2FrRzVxSWFLY3E5b3d1YXQxS0xwaWtyczRsWUh3Y3FRR185cVBOYlQzemV2NGs3eGtmNUlKcUczR0lvMF82d1otaXB4ZWkwSDkxM3lOQU03ZTg1cFBJNDUzbnRZTWRzQ0wyYUw5MTVXZ2dSZlF5b05tYndYaG91QzRaLU9uYkotSTNXZ2xhaXZ5MlB1TkJYRGFuUXJiTTBuMVA0ZUdhY1Q4NkIxUUFWaDRjcGwyVGEycGc1YWFReXc?oc=5",
+   "published_utc": "2026-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

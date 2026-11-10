@@ -1,0 +1,61 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Rajasthan emerges as major data centre investment hub with proposals exceeding ₹43,000 crore",
+   "source_name": "rajasthan.economictimes.indiatimes.com",
+   "source_domain": "http://rajasthan.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWhENjQ3c1dJR3pxaWtRR3UyTnpxb3ZaMWRudmV5RmhucFczR1dkT1o3SVY2dmUtOC10ZjZQVEtlY1Y2TmlfU1FNdWhwMDZiajZUbjlQQzNuTWwwcEgtNXVWZEdDSUl2VUlXcVotMmRtb0tRclMyTHdseVFZWjRJSlpTTWtjemdBVEhUX3N2VEY5eW5LVGRYZ0FkcGU5STZZMEh2Mnotb2ZCaHdKSVFqOWJuZXhOV0o5RklhcVc4NUxMMkFIWnp3Y2ZqVkRLbGUtbmFyNnl0WmpEb2JQazQtcTBYb2ZhT3Fnd3hqWVp6ZVFGanNW0gH6AUFVX3lxTFBrWUVxMHBXSW56U090bHNiemRFbjE5a2Y3cGRTOTZkTDlyaExYZGdLdkV5ZDFvTmhUd3pVZ0pfcy0tcFJMSjlKbEJUOVF2Y2xJdkZtLUlLdVJ2OVgwMDNHaW9NemtNaEY2ZjJwVjMzMGw5RzVVRDZmcm1MUXNjVlZibGJJNkZraVlOaVlscGtPWC1TNjZlVExLMHhnNlNqSFE4NGo5aDBIOTZwZktoTEpoTmlPSjY4UW5KN2NweGZtSG9HLXcwTDlYLUpJOWlneDlvRHdqTk1kSVRFWDFqRnhsUkJ6WU5lTkM3X3JOazJveWFkMEVSZjhTR1E?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC India Expands National Footprint with Jaipur Data Centre Launch",
+   "source_name": "The Fast Mode",
+   "source_domain": "https://www.thefastmode.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT3hXQzhvZWllU1JRRVg4N0pPbTNJR0I5VEd1UWItdm91eFpFZl9XYjA1LXJaV1FVeW16eWx1Y21tRXNncGE3eGh3cERCWHhoQzR1VnBiSWF3TllRdFlpVVRLREFBUUNzNHhwWkcxbWFWWmMtTTNOUGxQeEV0TFB4am9SM3hWNV93SDJNQ0FTaDRheGVaZEVOMWZ6N1R5MjdsbFNYSzhoZ2FDWGFWWExsT3dJalJ4aEMzQ0FKMGU5bVJlb1NU?oc=5",
+   "published_utc": "2026-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC brings Rajasthan’s first high-performance data centre to Jaipur",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVJETDBaYi1mRms4YU9DbTVYMlllM0JDTHRabjItS0xfdDd3LTV3YktlRVZkQTFvSjRrUXJQcG5zR1RlYW41QlltaVJwWlZsdDFkUm56eV9TMmlFM1Bib1BSUjNKRU9VUkVqejVfeVF4MHFBSVZhamJkLXhOWENHNDl0TDRkYlR0RzFOQjVIMzNnakQxSG1oak5fVGNlcXprRWYyVVViRGNmaVlPQTdr?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan receives investment proposals worth over ₹43,000 crore in data centre sector: CM Bhajan Lal Shar..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWE12R1UzN3JXcmVhZXZfTzh4aXpRSXhxeEhmZkJ5QTFlMUZzdU8xMThJbjZIZmJiVTlpdGZkMjcxVjNJZEtEQmg5WGdzdzhmMWtycHVkenoxV0JKdHB2OGd2VGFfdHpfWEs1TjBmU0JncDdRMVRaNk1CQ3JjRWx5aUxtd1JHVmF1X2hSdy1FQzR0VkYxUlJvd2pZSVhlWFlSalhqdDRueDdUcDBQVlpPUjhkeloyQkZqRFJTX1pDM2NGV3dTd0QyUWJVU0duRDFVdDFicnFCZktWaTZUaEtaakJ0Y1NRcUtnRkw3SUpsV2l4cjRoNUV0MzFNY2Nuei1yYm9UbVJLUVlNYWPSAY8CQVVfeXFMTXdJdVUtREtDdHJTOHpxZFVUS1loUURHckJzb2p4aGJ3ZmhiYnd2UG9oalVkSHFNbDZBWEY3VWRyQk9vTlZMQUt4dl8xbkVwdzhVM3lMUXhhbUIxak5FNC1nZ1M1bGtMZmtCRlV6bW5qVjVTNlhVcEZBQVVhMENwS3R6R2ZiaFFSTm95MkFtVml0YWFDUTVmMURod2xiMldBbVJIQ3dNQ1A1dGhydjZYZGhhT0lJNVFibTNfN2NqalBCSGg0S2F2SEwwZ0k2SDhFZnhZV2hUUzltUDJ4MHptandmemN3UllfRlJ0OEIwN29DX0p4REpiaWF5ZXlfbW5ZSzE2cEhPOEtFc0lrdFZabw?oc=5",
+   "published_utc": "2026-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat introduces Data Centre Policy 2026-29: Targets ₹6 lakh crore investment; aims for 7.5 GW capacity t...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1VFajJHQUxqWWRidWpDVktJRjlQSUx1QVBnQXBIWjNfcktqQzZYZmV5QVF3UHFzSFBjOXNBTGIxQmY4LTR4eTlkR2M1ejVGV1UzeEYyRDNyZWlkLWRBNzFVbXVqY0lnUG5oaFJCQUZsMXJ1bzd6SkFFOVBfWDlOOTkzZnAyaUlSaHZGYWpJZWttTUtRclEweWh5NWs3WVVnaXFsLS16OUxtT2F0N1R0RlJxNFhZN2tyRi1jMTFhY0ZHanZ5NGF3ajFfd9IB0AFBVV95cUxNSTdOZ3Z6QW9KZHZzQVZTQlBCWk1Ic0lEX0VNVERId1BUVHQ4YUR6YkJuWXJkQXZ3c3Q1VWlKLXNIZ1NJR3lNSzRZMG53cm03LXp1LVQzVWZ2YWJ6QVpscG5DZGt1SllQQXFfSUhyLWFjRUMzVkNwRFg0Y2dQYzd4LTNMSTQtVmtIcVNuRUJBeW9PQkJSRjhwcFhoQ3hGMm5pVUJzeTFWTFVXWXRheU5uMFB5cUt4M3R6MDdPMDhOeWtVQ2J4c1dUMVQ4N2FES2VD?oc=5",
+   "published_utc": "2026-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC India Launches Rajasthan's First Enterprise-Grade Data Centre in Jaipur",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON0ZFQVBQMndfLURsSV9xcFpnaWVtTmkxMTltLV9kdGJqbnhqOTBtSU1aOFl6SHNrak5HOUo0dzNXdlEtcVNQLTdmVHRNb2V6eHZ3NGJGTm9QZENBTkRzU2U2VEJYa1NpX2x1YmYwbm9kNE51Yy1kamJpclF0YkE3MlRrNFNLMUk5ektIZE9oRUY3TnFid3pKaGl5VGx1SG5fMVZ0aUJlQ2xRcGw2YXRNcVJnWG1KREk4TUdWQnBkTjBvZk9OWGRsRE9PR3Z3NUZCUmdGLUluam5aaU40QmwzWnBlMm1NTzcwOTh6alRqU3LSAfYBQVVfeXFMUFRELURKVWxuc3Y5NHNEcmtXUlVNTGdWUnk4MDFVX1BVVmhIUWFRWmFjcS1GcFlyX2NDSnJKbTVqR0tZWS04a2s5V3pIcjVIOG96Ni1TM21LQmlvcWw3U3hSRlBZb1hrV1ZIeFp3ZUtEQWtHOFpYSjRDZXlFcHBSWFNnLVBRR0FpVzhYYUgyb0szUEpvY2toaEZFT0FRdVktWXJpRHFVWjJKV0pqbzBmWkpvbXZUdjJQSXhnUm9ZRG1IbmtldEpaOGQwNzRtRFo5OVRaT1haeWRxaXlBUC0wVUkyN2xBYW0xTEJ3NHhNQXJyQ0g3N1pB?oc=5",
+   "published_utc": "2026-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC India launches high-performance data centre in Jaipur",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3BXZ19TdG80ZHJObmRiXzdqMGVrd1R0dkJrQzVDVkpTNl9oYndrQ0VlcWk4QnAtNHpncmJ2a2MtcW8tMkVtOVZ1UnNvdFRGMGVUV3BqM1JRN1BnNXk1UWliQ3pqdlFjdUx2SV9MVEFJa2FQTEZvUHQwQ0hzcExMd1Nqa2w3Y00xMlljLVQ1VHJVeC1zUmlTMEl1UHlKZXN0OFY2SXNtN25tTjd5NmVCQWRaZEt5WS0yT1FXdHRFcjNCYVdPQjhvbkpB0gHPAUFVX3lxTFAyMF9Id3BpY2JkMkVpTkJyblFiaXpEc3NhUDh4VXo5UmhQMlVQX0JHRFAyeGhJeHFZRGlrU21jT2ZvRUY2dWJ4TVlBNDkyZVJDSEpJYk43TUJGQzc4TlBkX0hJcWdwaDJHZ2pMQzB5N1JVX0JmUDlKR1lDUnZnMEZoU1AySTlJWF8wVlA0Y2tGV01hMTR2VWt5aXh1RUhpenQ0bGcwVlNDSlB5dDZvNGJUYXBjMTZWYmdMMVc0ME5yZnBEdWNZbWRIYjRBNUFDdw?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

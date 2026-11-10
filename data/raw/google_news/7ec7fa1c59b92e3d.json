@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh has cleared 480 acres in Visakhapatnam and Anakapalli for Adani Infra, the primary notified partner of Google’s Raiden Infotech India, to build a 1 GW AI data centre cluster. The state order dated December 2 confirms the land transfer after the",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE00MUJsRnRPRGl0OUZ2UFhlME9meGVURldSZDJDa2hTRkZXUWx1MDE5cHFLdTJLSTZoQ3VTQTJsNU1TVlRPRVFDN181akV0VzhNN0wtNG5hR25qdjl0OE5nMkZCNmtNX0ZwcTJ0eDgtd1hwYjVWV3RuUWRVSF9rSjY0YjVmZmFSS2VBZnBOeTBCdjg5X3FNSkhVelJ0T2VjVklRMk1lOHFJaldFeURXM0UwLTRRbkFhMEo2RE5zRmt6S05FcUsyQ19UNzQtYk1sMDZHa2JOQlNMVDg?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra clears 480 acres for mega Adani–Google AI hub in Visakhapatnam",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3FieFdGeUhyMXh5UzR0TWdnNFFjS3kzWWFtVXc5V0t1OVBmdEt5WU11VG9ZSzZ6TFM4akhLU3NoTVcyVlhyWUcxazNmMFNzT0R1bXpzTmtkLUVwMzJQLVhnalF3OUNzWUhqOUhGUmwzNnhoRmR3SlVYaVJaR1FPeTJhR1JuN2w2RU5OZnNFWVZjRUhRMVhpdGdNWUpQOHM5Q3pBR3ZrU2RORndVSTlVT0VTZUhENXI4UVdDajZ5RdIBzAFBVV95cUxNeERFaEw0NTY4cUZfY1MwQUpxd1BkSXlnSjByek9HaUhEQnJHSzQxeVU0dzF3NjZySTRKVjQ0OWFRelE3Y0ZKWG1oMWFoTWMxMi1hWTFzdlhXbGdnSi1nLWpWX3MxYXZWaUVnQ0pGN19rNVhpRzBHQWlWdkNzNFlfTGpNeVRWSzRMdTl2dTlVWXFINElkaHJxZkd6Y19VeUNSNDVZN0VwUGJXWXIxWEh2WWI3ZWJNMGtybWg2MV84MWtSTE0zc0x2Q0diUkw?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NDA government in Andhra Pradesh sets the bar high for 2026",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS0o1N21YZFdsNVpzVUZVWDFwbGhCbHFTOGhhRk5BaEI3QXgtZWdUUkUzVFVKVDFoUkViMDB3dlpqVTZFc3UwOE1zUzByQ2RLaDAzSF9YSDRfM0NpODBDTklLMFM4NFVoZ3I1bHZYSFNEOVJVUjQyLVQyQ3U5UGF1Y09oNUVlN1IzZXFnSEtOTk9GRjYxNmxQVkRQZ0tUdnRUTzhpVHN4dUdpaWRUZW9lZ0t5MlgyX04yTW8yTWhhdWlTQVZCSlh0RlhGeWpkQdIB1AFBVV95cUxObUttdjVrX2FuY1R1ZURLeHF5eFV0Y1hCQXVReGo1Q0dOdDlPc091U3ZYTXVMWmhsLTB4NWtLNGVwcUhJRXlXd1lLakpBR2FKQ1hrb1VWREhuUVVROXdleVVEUmZ4Q0VKSDhwNUM2MVJuQnVfYWh6R21IYURpblBUMEo3OUxsTGJHQnhUOHFJQUJVbzhSa3NmalQtWWx0WGF5T0dqVF9fUHVGZ3ZFbFdCUXNZVS1sRHBHOERCdHhZNlE4SXRnZU44VjhyY3ZDWnItUXI5aA?oc=5",
+   "published_utc": "2025-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Allots 480 Acres For Adani-Google AI Data Centre In Visakhapatnam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnBCcFlQT2Vuc1JGUFJwYzR3S0lnYWpwcFFTa0JPQWhJNEVRMldMTHQ1bnZaUDB5SnBfNDhCWDBUN3RLMkFkQzFWV0k4Szd2MEdtYXZIM1JQb3RXS1RUQnpnekkxSlhCR1dTQ2lVazNPaFRKN0RCenNiUWJhWWJmcUhTckVva0VBbkNOQnh1NUduMVNSNGZWYThDRnVNd2RhemRfTVF6RHNVOVFTRDROQWFB0gG6AUFVX3lxTFBMckxIQWI5QWtRRWVlZHVaLWZSRk80c3lNYU5JN2pYcDVsdXg2ajIwc0hhakxtY3M0ckdQeVlIVlUwa1hsWk1uMkoyQURfdE1ISjd2SHgtRmc5M0pSRi1YRWphR0RZZ0RuLU1kNmk5aVlaM1dWSVVMVVlrVVMxLThBdGI5SllmT2xvc3dkQU9ObURNalBwNEVqTDhPLVVEakRCWi0zRFVRZk5pTENHcFR1ek1JTDhMNlZaUQ?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh clears 500 acres for Google data centre partners",
+   "source_name": "The Economic Times B2B",
+   "source_domain": "https://b2b.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWjdNcEl6VXpldFF3Zm9uSkk4NW1vejNZQVQ1UktMY2stallXNmtzdnVnMGFMdkstNUtVeVlTVzV5cVhsX2VoWTAyeDR5QURGRlhnb1FFVXI3QS1LanU3ZXhuRm5GLWdmeFVpZkJBRVJEUEJFa1FOdXV1dkd0a05aS284U2JzNWkyQm50WEFpZEVNbjM5bkY0VHZLbDJFN3BMbXFwYjZuTm9USnhoTFFsSFh4U041NjNRZFFxcEhMZExKODhWSUlwcUVCa1BXUdIB0wFBVV95cUxOeTNtX2hOUEZBQnMxR3NPRzEzdDI1NmFRNDVlZm1IMWRWS1N0ajNKTDEyY1F3Qjd6dWs1SnVxSURZLXNGaE82UTdhaW9VRDdyUjFIS3poT09ZaTF5ZF9Hdi03ZngzYndzMV9sNlFjNC1wRmZ4U1NCQ0h6aGpXVWpFZ2ljemROTU4wdmNkRV9weUFpLXJwN05kUzkxTFBkRHlTN3ZLYU9YbWg0NVU3ZHllOGd6dV90Y3dUZ1Z1cENxN0s5MlJqRnJQMy1aMU9SemdhV3ZB?oc=5",
+   "published_utc": "2025-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra fast-tracks investment push as CM Naidu orders all MoUs to break ground within 45 days",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPenNTbnluU1FYcTlDV18xYmdXalNCQllpVldvS2tfN0tRTkxwTEFTY3dWVlpNYmd2RnVJQTNJRlhXLWh3MHl2d1FwTFBxSzhta3NCcTBGQVpxbnhzdUhJeF9CZ2JyaWprZWd4SjlZV243dDZZdXJudEN4Q09MbmpsNGo3NC1HZWdrOVlMUWZFYks1M2o5Y3lXb1hDYVJJYnM1LXNnYmNDMng5bVJDNkRsQlJyQXJHRGlCczRDWnRqbW4wd3hxdTFtNmpvQXpxWHc?oc=5",
+   "published_utc": "2025-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Win Nobel in quantum computing, get Rs 100 crore: Andhra Pradesh CM to researchers",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV1I2Q1RKZmQybVpXU3YxdEh1NnZmOWQ3cWhlaTlDVHVFZ2JVYTlYRUxFOUJONEhSQ2FRYmRKVHJPbldmblhMZnE0VVZEcmNsRW1lTWZ2bDc4ZXRTZG9JUzZXSGZTUElnM2hlTFN4ZXFiY2diNGJMbUxOX3kxa2xmbDB0R3Z0Nk50TzJtRUlmQVFJamVaSjZfRzFhRjNiMXFoaE9xc29mZE9lbXFDSHFRczhRWndBcWxfdGk0d2NsajNzeXBMa3FSNW9waGMyWEtIc0hDRWp3UmVRb01takNEdTNMVE0tWTNRUjlQd19FRHJsLTNy0gH6AUFVX3lxTE51Y3pEMGZOWnltWng3ZjVSc1NaVTZvRzdhMTdnTmRhSFB5RkFScUwzaHdjcjNUeXpkZHU1WXozOGRXNDE0a0tXWUd1dTBHRUU5ZUdUM3QxTWlBXzBOQTJlakUzNFhYa2lvM0xVY1E3ZUNjdDhzVUNQMkRVRHp4clRZci1CbUs0bUpQOVlpVk9XbVhkR2VzdkprYXFINmJBLVB3QXA4Z3lJNEZDQkxxNWRqYXIwSWdoa05jcVZvT3ZpYmpKNC1sekMwZGY4dTZoblRNT2Z6Vm5IQ0lnZVRmNm1aRHkyNXVoR2pkRkx3SmZFRG1TYTZrQ2xQOUE?oc=5",
+   "published_utc": "2025-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh approves transfer of 480 acres of land for Adani-Google AI data centre",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbUZ4bTd3X3BqUTh4WWc3VDdxa0tRVDVrdDgxemV5dHR1M04ycE5MOUJ2LTFPT3FrT1NDSDZacDlkYU5uOU0ydHQ5WUQ3aGNHZVhlS2Zoa0lGUHFEWmM1SVpJQXNHTXdXSmdsM2tQU2VFdmRIR0NHb0k4TkRVdUFVU1FFcmYySUVXcjhvcFNqal8yUzhqVFJqRVBhcmtiNGpVZmRZYXhOSlFvOV9LVVg5cW81RC0yNjVRRmx4OXQxVGdkbXo5ckdoLWYxaGI1N0ZER1Q4THB4R1dhZDRtcjlZeDhtQklNZjZ6ekx30gHwAUFVX3lxTFBqY21XbWx5MFA1dVFyeHRsNm5TRkZ1TTQtVlNWWVpvQ0Q3bGdNQzRCa1NKbklVUVZaVW9JdTRMa084Mkc0dGNkRGkwRGtGbHZHYlU3SnViS3pKb253Zmd4cE5SMjJ2VEtyV24tOHM4ZTRVb2o0cUgzVzZrQ1k5NWxPTXhZRTItcnFiZlBFZHpDRDFQeWFRMlhEVUVNZEd4UV9ZRm9xLTFGZkpEdW5OcmxMckJnLTB5cEZHQzR4dnk3RFVlLTJZU0Y2eHRtMVJLd05ZTVNDU3dIZldwdFp1Y1VrektGVjdZMGNiS0Rxd2tXUA?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Landmark year for Andhra Pradesh’s investment journey",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX19HeGVjN1d4SXFpNDhkcFBVUmFDSHhTTlJBcnJZQllycjd3SUg3RnppblRYS1BEWHM0dnAycHE2TVgwWm5UT01Pbl9jLXc0U2N5MktFOF9JWEVvcnAtRXVFUXNqa01XZmtfUEFGS1BldmRhZ3hPdjhQMW1RRThNVXBEVVdBeTVhcHo3UHVhbzNXdDhwblROS2NlZW90YnlreUNTMy1WaTRYd28zdHpKRnFpbHg4ckdUV2xV0gHIAUFVX3lxTFBWMWw1UU5jTXJlaTZKSEJ4QlhiMm1EQ1VSN2JNMzVqR09YZ3k3V19ZRElNN19EOTJQTDFKaV9SeVZEZlAxS3ZoSGdaZ091TUdZUWNyV1B5ZDJJNVpDc3RYZkZWQ2lkb3BHcWRmRUYySmNUdmpINXBjLVFHZ3JYOVI4M3BMSndCblM5R3g3LTJfc3EycDNLY2FTQ2pBMkp3cGRRNERHSGNHR3cyV0pUUmtxZm5uUEtiU21BYW5jaWZOdU9rQ0VDbEYt?oc=5",
+   "published_utc": "2025-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5 Cities of Andhra Pradesh with Mega Investments that are Powering Growth of the State by 2030",
+   "source_name": "Trade Brains",
+   "source_domain": "https://tradebrains.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlNrRnZoWGlWMFNac3REY1hhbHEwYkNObzM2aXBQOXpiMlRWcTFld3dBdjNPOFJaV2dXcVlxSDdxNzZCR080bnJQakhUMDFQaVBtbWNIX2h0QTlwVHZERWdrV0dTWTQ2VnhpaXZQQmlkSEN6dUk4OEd4UmFoc21DRXBEUjJnQ2JZRGdOX3dBWWVqQzVUMTEwc3lLUUEtZjd5SDlMLUZmdjVRQXFWR0cxZ1JyNzBJSnZ3RGFZdGhxR21RZw?oc=5",
+   "published_utc": "2025-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

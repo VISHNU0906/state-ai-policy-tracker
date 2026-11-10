@@ -1,0 +1,61 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Bihar could host up to 12 data centres on existing power surplus: Report",
+   "source_name": "Down To Earth",
+   "source_domain": "https://www.downtoearth.org.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzlUQmh6X2lqUWNJT3U1LUk2YkpwcGsxSXV1cE1GX3IyUURpbXFvQWIyWENmRC1wQ1g1dG5peUdtZzhMbkx5VEk2TXk3STFBamxCeFYxak9iTkVEMW5hbzZtWmJpVHJBanNMZVdvZ0trbG5zcXE4V0hteTRhOEQtZzhMNGdGSW9JT0h4OHd5Q1ByM01xeUVGakhkblJVQTh3ZHg5bDBLMUhkV2Q5b1HSAbsBQVVfeXFMTm5CNndaRWg4aGNjWHRYYzVya3RiREdJSEdIVmFGTmQ0Z0lSeC16UFlRS1RpYTJnNWlDaERQSl9VSzVSY3JNbFp2bEUzVXpsMHYycGpleXBQb2VMTy1JckJBMmJsaW1kbXlwZGZJQmtKeFhiZzJURlZmbEZsajZWdkltbkItR3JmZWVTYk5EZ2lRaEpLQ2xIb09LTXZDb1NKXzV6YWZfcGs3ZTVOS0pKeG9Fd2RzWmczVzNUbw?oc=5",
+   "published_utc": "2026-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM announces AI and Computer Science University in Bhagalpur",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYTA5NHhxc21ZMzJDVk1fMzBDSFVtY1ZYd3lYMkZnejhaallBZFI5WWVKbGpNM0xXbmR4dzlPWThTTFdYd3ZTTTYtMVpGdkhMQ3h3d3BydVU4bGZEb0MyYmdXbGpDaEdKYW5YMlRnaGNsTllKREpqNC0wNk1xLWs2M250VERhcEpTU0wzOENRdjMwYUJvOFhyQUtMcGtQVVRISUViZHNybHhjVVlpeHBLOG9jUHNiUDMzR1BqZnF3TkR3N2NsS1ZVMHFLcU9EQdIB0wFBVV95cUxPV09kQnlNOENlNk4tX3RFUWplNU1ZZjcxNU1IWTlNUEtJeHhWM2ZEUTAyWmc0TjMwdlRNVW1QdWdiZ2NUMmxpd2h0aVEzX1Bya3g3OURXdGt3SjRVWFZEV3ZpVzJaU05qeEN6bXZuNHF4OE9qdG5OeFFoMzlWX1FHazRFdnMwOEtpWUMtV25JV0tKRzQwUENFM2NoYS00MnBNR1RZNmd6MkVfeFNXQ1JSLU5mcW12QkJScnBqaTdHWG5Hc2xaUUdCbUxqVS1pYmlLcFgw?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet Approves New Startup and Data Centre Policies to Drive Innovation and Investment",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVudmpLdzFEWkNLcFQzMUFDbDZNU3l0MldCYnB1eG55ZHBnN2RiMXpPaFVlSHV5RkliZFZ3S0kxUkstclpvbDQ3azFjMmFiS0c0dDF1Q2tIQ0V3dkxOam1VampCZnBrM2lYMThXRXlLbVZCYXlYdWdzbGlYbTVyeWhYS2d5MWw3Q1pRRW1GbmhSNzYxb0hTRk9kZUhyMHNqR1N3WjlHSUk1Mk5nU0ZKem44Rjl2WlljVjcwTU00blAzZ3pwTzFXUQ?oc=5",
+   "published_utc": "2026-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat launches data centre policy, aims to become hub for ‘hyperscalers’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUoxcVUzMDc3T2hzLVJ1eHZKTWR1cEZQRHU0V1JreExmeEVfZGp0YWw2OVRFZG8yZTFEZzU3US0yTWNWZ1pzMGhmQzVRdDBma08xN0lDUmRySFpmcU1tT0F6MG1reVQ2Vm9PUzV4Q01SSkdWQUVKSkY3eU5VOVdjTmQ0VjUtQzJVV3M4d2JKSmQtY09odDVRellKRWozWXFyX1hMeWNkOTB0MjYxNnNUTDhDUdIBugFBVV95cUxQcHYzcGZOV19aYVNqWnZNcWxQLXp1ZjhMVUl6RDBFbnJhNnFycnpNWFZSSGpONGxNbWFQelMybl9xVkt2QXdpZlJZalhYVWEyNzdRb25XS05aZG9aUTNFazQydzROdmxIaXRab1ZDblhZOGlkSjRsTl9KbHpqUk9kTllBLTBjZzhlSG9NcHZxSTZNWTBJNzhtZnpIWFZPM2VORk1IX0dEWkswS0JWbzJwYjU5bzFaYjV6UkE?oc=5",
+   "published_utc": "2026-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Bihar Advancing AI-Driven Governance?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZy1Yd3ZOcXZxZnYtNERmb2NKMXI4MFdtTDhYTFdLWDVMekpXTjBqbmdDeFZlVUVqamxCVVh6SkhWclBWLWJOWklsTjRTbEVNUjEyNy14OFFGWVBIakpDZ1Q2dE9PTlM5R0lyNnU4UzVlSGo1NHhNRnJEeGtkWTFRUGpwc2pqemxlYnNhMTNzUFFKVjZ2ZnZoaU81d1ZOSEdId3dYNElldWRncW5IVGdfUjFqanBqSTFE?oc=5",
+   "published_utc": "2026-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta puts Gujarat on its data centre map",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0t5dWtuNkJraGNxY2hudEU1VTBUSUVDYUNMRjhyTEdMVTJkandKelRteVBnSFNJQURXcXV4bGVKSXhRRGlMdW5DWDl5N2NHdURJWVBwdFpSaW03VS16SFc0bkd0UFpfdmplb3l3Q3JXZ3VXeXJJY09qMlVwbWxFVEg1OUpuTWdvb2hjY0YxVGx6UU53NE5RTTl3YmlZWUZ2bnJKLTc2VTU4Wk92V0FlVERJZ180UEdv0gG-AUFVX3lxTE1QN3J5M1R3XzhsR2pwTXRpU3NtRkhEWVA5N0hINHo2ZGVLTGJtSDJ0S0dSeGZ0c3hVRnFfTDRwWUdfUHA3OFBETTZoeEhPMHZEa0J4VURHb0JodUJwVlpQNjBKQU1PTUFqX0w5bHF4YTEwT1lPSndFaWRlNkhPNkx5UC1KSG1fUEhmdlJGZllPLU5tNm44Qm9TZ2RVcnlUZ18tTkVHTFZ4bElpdW5ZOWZmOWRpRW9odzh5d0hwM3c?oc=5",
+   "published_utc": "2026-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Cabinet Approves 28 Major Proposals, Revives Data Centre Policy and Clears Key Reforms",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEx5dzlka1dwRmNacTNMUHozd3pMTmlYMDNpYWN3bFh3eEZOdTZrQnJYbE5CcmdxVkE1bG4zR1ByeFVGQjgtMkFjSURQYlFJRngxTEZzZ3VDcGd5aEtkYUpiOFJUbFI1YVpweDZ2dG1VZmpoV2F6c1ZPQjBxRDBPdWZCT21jM3dHUGFCamV0Umc5T3F1b2tScmo1ZVYzNnJlZTRjZjVscFQ4YUg3S0dN?oc=5",
+   "published_utc": "2026-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

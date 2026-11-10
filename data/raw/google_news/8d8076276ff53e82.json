@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Maharashtra well placed to lead in AI, 50 engines created to focus on governance use cases: CM Fadnavis",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3BscjdVVkl5NEFuSkg2NEdEd2R6UXI4WEtUZzd1Vkx3YkVvcjJPXzl6MTNuNHRNbVM2TUVWNHFlcXQ4cFgyR25OdTFTNWgtNG9odXV4TVpvTUNGdFFnVXJmeG8wQThWaWhOQUhVSkd3TUd1TWQycWJXSlBjWU56VFQ0MWZobTN0UkdRSlNBR1JkVGhHSlZNOENaaGFoRGJWQ21ZM3I5enctTHhRNUtsS0g1YWhIb1hIbUtMZWJ1MmhKVnlEOVpyUGkycEhRSmIycHBoUllUbl9rbTktT2dIaDZsZlRZVi1pUDROUWJoR2hUOFFrOTBCNmxn0gH_AUFVX3lxTFBXU2dQaFh2d0ZGazR6S01ReDlCdUJfeUl4eDBkWFA5MzEwSmJhVll0MUthc1FJazJTLWtFdWlrTk9PZ1FYTUZncHBLQWhpc05JRzVKRFY1eUljaFl4MmhYMDBFeTcxREE5WUZNVXVaMUdlanlxNGpFSXlORnN3N3hfSkc2eHduMXAwd1RpT0tSWWRfNjVuRXRtcGhmWlNIU0xVaG5aWWlPSWtyTVNlN1l4NDhHM0s1Y0x2ZTJqZmlySzRCUmoxbTNHWGowMF83NkUtbG40SERVbGhtN1BTNmVzbXhkOFhBbi1lMlJhV1htcXY2SHdxb2NVWHVGRExCMA?oc=5",
+   "published_utc": "2026-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google announces free AI training for school teachers in Maharashtra, Assam, Punjab and other regions",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc0tRMnRNeXR4SEdfTnpQMmJoVHJic2lRd3RfLVl5TVZuaTM4bXUtLXVYa1VpMnhBRmFrN0o3ek1GOXQ4cURDdXJ6SHNSajBRdlVNaG4yTVJCcmVqSmxpZ2UzbFhiRHZyalRuTDVXQkFac3pudVA1TzBhYXd3bHRDNU0zbVJCMnlzTE1LVG1GTnhuY2FVU090SHFTUWhCb0JsT0FXSGV5emFfd0JjTjV6Zkl6c1J3akkySHpyOWk1NVZ1Y1RVME5yTnNRN1JtTkNWMksyemV0bFNoVTNNTGx4Q3k5S2VveEx6VUhuUHl4b0c4NV9rbGV2Y0U1TEFkT2vSAYYCQVVfeXFMTk5NZzJfOHRVbmFkcHVuN1h1Sk12cWFFVmtOUXYtM1VNVG03UHFBZ09zQ2U1cjM4OEYzbnI5LXlUYUJMRmwwNHNFRm9fTnRFUDlZSk94aURXRVpFZTBBWUtQREwtZWJBMmhiVnFINUFXclJXVkQwWldHd1ZOSjV4NjZkU20tOGhOZFdFZzIydG5rbk8xRGtBNjhFZHdaWVNJcGxZQ0NfM2RfMGFqbmg3UzlEbk8zNEtmeWcwSnhGOC16NzNYTlA5V2xHaDhWY0piOXRsTlZhUzN2MExvaGltS3ZqQUl3VDBpckY5X0plVUh1MTZVOHNVZ0JiZTV0V1prRFhGbGJSUQ?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan agriculture department, Wadhwani AI sign MoU for AI-based farming solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUmxMVlRvQVl5OHFSNG1LejMtZnFaajhFYlpzeWh1WWo0bzdneDNncXgybi1hN0laNEdmTWl1NmpNaUt5VTN5dE1ZZU8wY0pXdXR3ekRpMDFaaGJLZ2ZMdjlwd1hSTkFxY3ZjcXVWWnpLeVhhcFZJdDVBRm5DampvbXNmUVh3VHVWdUZUb0N6a05kY1NZOFVUS0xRLXJnd0U4OFYtQjBCOE1PcmpqbG5OaEdVQ3U0ZTRGc1NIT25ZTGFOMjNSdzZ3MFJWaGotSkZ1cWhvU0ZsSkJiQzVvOThfYXlUWW16V1k0NUVlOXR30gHzAUFVX3lxTE5DTlhTSndoVk81VnU0SGJmS3BSNjNPZURKREh2M0lSMEhCbDlfR1NuWkxIQXJFNklLaWF6dzdGYUlZeUdPYkxIWEZybGk2SjRyQlFJZ2IxbnBNVnRVSmt5R2VLbm9GTmJwTmpreTAxa1ZIMWZHYXNTSnZQbENyYzRjbnkzNTNxbTd1cm90NFJvUVo2OXVzVUtIbC1YdzUwdEUySklwWU5kZURKMVFWY19Fc3dsb2M0ay03aTA3TXdfWE9yRm5ocEhMRWpmZFp1VG9EdVpPbkZjRU1XN2ZWeWtXdUpLSnN0Y1kyMEVpSm1XWWJRdw?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google announces AI training programme for teachers and students across India",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX04zbjJ3UWhnYTBfajc0NVlQVk50Z0V6RGRFVkxxQXJHMlY3S2tTSURKUjFDZW9jYkgtOVBiUVRvYWs3UlM3aHNlbDhkdWZSUXlKYmZDeTNPbENsVk8yQTVyQjhTTzJiVVFzeXl3dWFmc0E0SDBsc2x0QlBRaXlQS0hFc3VzVHBycnZTNlJHLXI1bHBRaDdXWDRUd05XMlkzbmdaOGp0OFJZWXByMUFVc2p2ajg5Tm90NTBCcE1xMlRabl9TTFhPa3BlVVluNHUwVTBZYXRWMWU1aW9pZ1NZMXliVdIB6AFBVV95cUxPY0V6WjlOVlBXVm1oV0gzQ1hkcWF1eDdfbzZOT3pOeTNsUEVGTVVVZW1PMXZ5NjBqbVVpOGhtMUU3MjR1Z1BOMWRrVFY5X3JFR0pxaW9SZ1lVeGhPUWxodjgtcC1ITm82OElzMmZtZGg1cnpvSV9SLVFReTNMOHJCYU5aSjZ0S0tRY01SNzFtMDVVRW1uX2U2Q2EtNWk5ZEdlZ1ozakZ6SUl4SURUSjVWMVJxaTlpWVlicktaUzhhMG1yZlhFN2ZxbDRjd3d0LW95QUlaXzg4eTl3cWlyMnJJcVlHQVBnSERh?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP govt partners with Google to build AI-driven governance ecosystem",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1hXUWRaOW5zNVRZelBGaDlTUE9zdEZDem9UUkt2cnBEVmQ3c21vOTU3WlRxR3VOWl9IaTlzcXhGYjhXdkV3NThWOGk0Rk94cS15bzV1WmpQU09FTjhVZVVfY05rWS1HVlR0QjFITFhpaUVfSmRvdUJDMXczWHRlNjVoZXR2LWxBNndTSjNmUTFUMGVpWTgtUURBUmNreDQ4aS1Jd2N4QUhMS0xIVERmVU1rSktyRlBJcmtla3JGSjUxNHRTa1BER0pTeHhxZWJBOFllQkRtTGvSAd4BQVVfeXFMT3lZUVVxbkpZSnlKejJGUjVNaUFURUZWOXBNOTBHMEt0YVdMSGtITEs4eURMbXBXMnpCRzI2QndlNmJhaWZXQ2dObTRLdjRuTXZNaWw5azg0WVlDVDZKLWdzQWhJbzlWQ25nUnNMSUl1Mk1qeUNEUS1HdHRPTXlGRGxLR3ZHUFkyVWlkcVA3WXZiMFVOdkd0TEVVUEsxbUE5Zm5EZXpHcEV1d2ZCeGUxOUg4VEowWGtudnZQdTlMRXdWdXo1Qzh5Zzg0QXVrYnJac1hjc1RQSjd1THRFbF9R?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Powered Spatial Governance The Andhra Pradesh Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmdhcDZBMVd1Ti1JSW5HSUJrWV90SGl2T2xjOERLSXg4OEVQLUpDLW5DRi1TbmlQOFlTU2JhbjBhQ0Y2Y0llbWY2VlZTd1ZKeHFkMEI1aHhVUGJTS2VULVZLSG1IRXNnVzI2ekNkUUtlU0pfTHQ2cjZtQUljUHhvSUJRQ0pPT2pUMXpkY3c4a1JJMTVvQ0FJ?oc=5",
+   "published_utc": "2026-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Future & AI Led by Nivedan Rathi Expands AI Education and Networking Ecosystem Across India",
+   "source_name": "Issuewire",
+   "source_domain": "https://www.issuewire.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdE5Pa3lnOFhWTllWVHBxZVhWTHExQXBsci0wRUVWUkZKa3RIei10aUVLRW5MczNJYlhXZjFuN0t0U0R2aGdVU2dUMXJHUTBDRHVYWFY1ZDJOd1d2Q2piYnlVM2htUVZiV2pKLUdJTkFEekNyLUQ2bGdUOE01Q01YUEpnMk5lQm5laHJ1RHdhbzdpMXVocFhVcDRDNDVidXBReFI3bjFyNC0zOTNBNVp4dzN2ZXAyR0ZEVUtLMGVvQUtmT0ZBR0FPYmdnMnI?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka using AI to power welfare delivery, cybersecurity and citizen services: Centre for e-Governance CE..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNLVVBUUtRTHJweDVfQm9rY0Q3TGdWZmNRR2I0bTJ0YXctckhMOVhGZVdnaERPSlJSUkQ2WVBMLXhHR3YtV1pfaXk5RFZ0aHhTWUdPSDhIaWV5YmpCZl8ybFNCOUhJMzNhWlJ0RFhpWHZhMjI2dlktWUVBd2Mta0xONzI2YkRia3A1ODVJWWpJY2hRbl9VbUlyeVI1TDZCOHZ1Y05kdF9pUDNjbHZzc0VRSENaTGlnWl9GbjVaank1anRTZUZQTHo3QTE3TVlBYjZNMm11UHZUSW9rV3lCd1IwNlduWVJMRjlFTGprTU4zUVBhN2VWNk9MYjAzS1NNX3ZWWkdpVDdYVkt0UnB0T0HSAZICQVVfeXFMUDNxa2JMUmV4QlI2WVRxMFJqX2p5N2JFenhXb05KcDluakp3YWlJM0VJRVEzTUZXc0ROSWlVYlZrMWhwMXdtQjZTcGdyU3doMmJ1b09kZE9PSkpzUUtDZjRMbG1XSDgyVHNqbVJpSzV6ajJnOXpBYWwtaEI0Z3VuTk1RaVVEcG93b3JTSWhJeVVFUy1NRTJxTDdnRmFhQWQzYnpUdnFmWVg2YlJoSEVKUHBoZVpKZnVvVF9wNnRJeUJSMDhEbDJhMHBseF9zTFRCdTFwbVRabG1IYjlJUUJNRFBFY3NzYjk0czNHTHJQMFE1N0d2dGk2N1JmakN0YnRoNTdlaGhPa04wenhWUFpRV2ZWZw?oc=5",
+   "published_utc": "2026-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Strengthen AI Adoption Across Governance And Start-Up Ecosystem, Says CM Devendra Fadnavis",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZEtyNVBwanRkcmxXd2tJbk1xYi1IZlIwMl9iSVdFbkVMTC01dHJLY1lTYmRnb2RwX3drODdTd0thNUlCM3FCY1N5VkFxMmRvUk9DWVkycHBpM2NqZUlLXzl0aEJCMEt0TW1RSUVVbUdqV1hoTU9qYi1FVVZCQzJQRVFjMlluckF1SFVXaTVUaWtESWh0OVd2MXQ1bFRSdnBmYUpMRWI5X3FicXN2UVhtd3ZVMlhuUm1xZEpCY0ZHZEJ6a2pDNE8zaWVkaHNxUEtGdndSNlRLNFYzejTSAeABQVVfeXFMTnJiQklOZGZrbnZZX3VxaXZSOUJXMjdVMXJwLWQwdmFfSDFwM1hUUnZRSk5kUE92SWJaQUVXUGxuTXV1eEVCMDR0Sk9pd21nYkppN2lpWlpRSlBqNE1UdEp0TE5RNldxbTZqdUhxclNTNUZzUDh5cDJZc0lnalY1NW1PUmhTTjhIc0habWhvbjBVSXVnV2xtVHY5RHk4X0JFM2dhN0t6emJQODk5Q1N0UzBVRl9SQnV0TGhjMUctS29obzktTXU3UVF1X2hzQUJnXzdQRFRqcDhDWjhXcmplZEs?oc=5",
+   "published_utc": "2026-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

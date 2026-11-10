@@ -1,0 +1,69 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Odisha begins new journey to build India’s future semiconductor, AI & digital infra capital",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3p0eHhrbXVZM2NVcno0c2xvSVNIektpblJYVWJQVUNiOUR5eWNyZlExckVnaXEwVjBOaWxTa1pqdFpKTnVwczJhMEVtX2xrTndmTjFqOU1nc0tYbGFGNmFmWW9nOThBdHRZa3owT2N6REpIVWdVOWRpZTlTQmJLd2tBUElNVXZvYU01RFRyMHpNZTlTanpwRFYyajFpQ1prZi0tTVlIMm1vbEgxVk5uZ01EWGlkUUJmRkNmNTVkZ9IBxAFBVV95cUxNdTB0bjlwdGFRM0xXUWQ2YkdGNkZQV2F1NldqRS13cjBsR053OXZRX3d3NFRRcTRGZlo5cE1Gb3hJNGh0UzFlQjVxSk1wUHRrVmhpSXdtcmNGQ2xqSG52dXoyXzhSVENQSGl4LV80TUI5aC0wSGhPLTBJaDFNWUlVNXFBS1hSTHVMQnJJVGx5eGxUMk9rQ3IwdXlkQ1ZhWlBMSUJIMVNaa2tZNGxmS3phZl9QMzJzT2xSZGdJLVdnVWlhMmpL?oc=5",
+   "published_utc": "2026-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha plans AI-enabled handloom hubs and textile parks in 3 districts",
+   "source_name": "Apparel Views",
+   "source_domain": "https://www.apparelviews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHc3NWNETVBBQXlMR1lQeHJHR3VOMlJwNjBMMlhLaUVpbm9nTFNnd0l1MG9pZjhWMmkteS16Vk1CS21FU1lYckpUeUJQa1pXTUduRFQtMTVSbExPSmdzUXVkMmRVanVaQjg2LXV6cWd5VExHbVpDVFFWbjFmUGhyaldPNVVMaVFRS1N5MEg4TFd1dUtfS1ZGVklSYWsyUXRiNWc?oc=5",
+   "published_utc": "2026-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: DRI Seizes Hydroponic Marijuana Worth Rs 3.5 Crore At Bhubaneswar Airport",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXQ3NGFSczNueEJHWlRadklwSlVDdzZ4SW5ZQkllS1NvMVZSbm4tcjJWblV6bTYyRXJ4WGxXMVhTUnFZZ2ZKc0RKMGlkWGFxS3dKVk5jcXdoRVVVd1oyTWNHc2Y3dXhFYy1IQ3RLY3VTenBvNXpQWWFLWVVUbGpuSkxOSmpOZm51aWZUYkhJSEIwVHhzOGRHenN0Q3E4TXNBRS0yaWtUNlVUNmVNb2FnXzAwY1pES3A1MU5HWEdWU2I3SDY2R1hzTtIBzgFBVV95cUxOaDZ2LTZoT2g0Ulg0bEkzWGx1ZG13U0FSWEs1TUpnb1pfWFVac3RXM2lfdFNuOEZwZVFkYlFxdHpidWhhT1haRWpWRzNCbDdzZlNpQzZFWXd5ZkdIV09qWVRBQkZNeEJRUnFia2Y0cl9vWVJDTWFVS1FMVnNTV0V2YTY4MkJRem81WVZPNG9JTlVuXzNmblFIcTNvNmVwX1dWRlZPSmg1RW01QWJPakhDaktSX3ZoNzRSdFp4NzZWVzhZN1hDdlRJMTQ5SVVzQQ?oc=5",
+   "published_utc": "2026-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha signs Intel, 3DGS semiconductor MoU",
+   "source_name": "EnterpriseAM",
+   "source_domain": "https://enterpriseam.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjZOWHpwSFhRVk9RcnpXVmE3OHNyY1FSUko5QWVfUVo3NnVCU2NhZFpJUHJXYVBSSlg4YUI2UHZ5czBxX09WSy0yMXh6aVBkWHNqenZIUGdPQWVsemdoWkRLMFItZFlaSkNuYmxYM2dUZUNpSzk5b25uczFfb0pXZUxlVERmWm5KeEYyWTk5T0hhNEk?oc=5",
+   "published_utc": "2026-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Intel, 3DGS to set up $3.3 billion substrate facility in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSnVLRDdkT1NpLW1ySkJRRnI2em9QejdzaER1bUd4cVFSS3hwR2stbGpYZ2FVMTRlUk5pUHV3Y09ZVGhwR29nMTRZQTZuUWdXaWx4WDdlZmFNRWgtaGhZbHdieW15anA0WkVMaFFRMzFZV25GNTF1di0tZVRRajNXU2xPSGxSLUdvSWVmVm92c3BhclFSZzFUUENCeWMzZF9YZU1CN1pDWlNJUVdfUFRDT0NsaHpBM0tJZENz0gHIAUFVX3lxTE1qQmwtX2pLRkhYc09WVk9QRDN4bmMzbVJHNTlJZm9MRFJ4UlVFalZQdXJNUnR1a3hZQUp3eENMQ3E4OEhFNWxZeDVPenZkMWhWOUh0UjhZNlJRcFhhSXcxWTBldDJLUlpsUnRNMDJzU0k0ZEUzalRwUHBFd0VWM1ZhWmRxZC1nNnhZc3RyOTVrRW1HbHVvWG5neTZoN1JwdXVHOG40b2pZME55blVBQklEODdGMUtQNHVadDNkQm5ZbDVDV2FUOERN?oc=5",
+   "published_utc": "2026-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why are garment makers betting big on the Indian state of Odisha?",
+   "source_name": "Fibre2Fashion",
+   "source_domain": "https://www.fibre2fashion.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVgtQmtjZmtpNUppX285YkFwN3k5cTBVbWFKcHhKZnlEMjNYd0lJb2EwVE9SOHpxS3V1bXp3a0JmdGdUTmRDUVp2OHp2c25zVVlOSDBhd0hfUFE5TGNqcnAteXppYkxOU1d6NkRHanhfUDRpNGZzNm9kUWZJQTZhRkFLLXprdnpxWXBITldoRWZXWXZTQmMzSDNBRUNzdUtwbzFFWS1OQTNoY3hjWFZETEJOU20zRldIeGhXVUpSV3BZRHRON0Fta200M1lHcWhHZEJ2NVNJNmJ5SXRUSFhR?oc=5",
+   "published_utc": "2026-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T bags Rs 2,500-crore coal-to-ammonium nitrate plant order in Odisha",
+   "source_name": "The Statesman",
+   "source_domain": "https://www.thestatesman.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkdhOXNMdnBvN1p4RG01eFVqcmFzZzdUOWpIbGE2OHBmbWkwLUhkWF9lNktMeFpQZ1VQajh5VXRqYlRtYzQ3cGQxYWxDdGNEczl5TVpRb3dNb2lNV2lHS19DR2FGb0FsalVZdzRMak9FTVpIN0dhNVZMMVRWRHJ6dmpzby1WdGF4U1cwU3JOcDRONjNQV1ZQazlWWXc3MG5SeXJ3dlhKU1NHZk10NFN1NnBubThzeFlBZmFkWlZaVdIBxAFBVV95cUxPVDRWQmhVNllTUEFMVXpaTHVrTWw1S1RnaE1GRTNzTDE4WDd5dnFobWZoN0JSRlczRU9BVGNmLW55WnB1bHlHRVNSWmZJbm9pRTh4czdpLVdWY3B4VV8xbVZHd2paejQtUHRjbWQwcUluWVZQN1lMa3F2RFpuMlVlUWR3aUllZHZGamdxTnJ4dlhxVE5od19yak1hU2FsenY4VVpXVGlqMTRGYUpmdkRBX3hITHpfbmI0dm5XNXctM2ZCM3Nk?oc=5",
+   "published_utc": "2026-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Envair Electrodyne gets in-principle nod for ₹137 crore CCL project in Odisha",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOTREQnh3YzV3SG1RZGxsVDJqT21UUlY0aUJuaVJPSS13UmJldUdRbEl1cWtmd0owS19XcEZuV2lPVUZTRTZpaVFvS0tyT0ZoQnFSUXRndW9pa0xnR1lfRFdmdmFkLXd5eEI1U0Y0NEQxSVFJMW5Eclo5cENBVEMyNnA3am1iN29lVjl1WlZDdm5PNmNEc3BneHVXSVdWV2E4WjdJTllJd1pZUnlTSzYxcG9DQTNQM285U2laVjRIejFwV2NwMUUzRDN0clpWaEhRUlZhOHBJclplR3ExZ1puOUpLeXJIVGVHRWNRb0M2c1IxZ9IB9wFBVV95cUxOVHpGdnN3TVNENDNSSHBzRWVCMzY2cGpONUVPcU5jOG03aDJoVHhReFk2b042UnNaa1JfZEo0YnNRWnZOakhRQTF2YlRnQ1FSejNkLXc2QmRMUWdYcFZCN1ZqQnZhSVhNeUFsNWgxTzE5RzB5R2otT3VtaXc1QU54SUhfTDM5RnkwdXd2M3lrSWxaZGo4Rm8tQkFEelRmeUM3cHB6a01ROHJRMUVod3JQdjZVdldldkpjdEVON2hxSlJtbGNvdVFmVTFfaVNNME1NUjB5ZWwzNkhNd1d6ekRYenRfMFVSZmxqNnRVbkwtVTd5N0ZZeUR3?oc=5",
+   "published_utc": "2026-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

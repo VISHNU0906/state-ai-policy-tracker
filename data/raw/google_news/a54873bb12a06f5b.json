@@ -1,0 +1,61 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "India’s AI ambitions need a data centre boom, but power and water will be the test",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMmN3WFRramVBQzNQcVVCbWdIWlpDUXFwc1U2SGdzM2N4TWxRSWVNeWY4YXhlN0ZXNlMzcWRCV3RuZjBOZHJhS2ZWdlY0a254bnU4UHJSanRiVTRmb20xUVVlZk5UX3VjeEozOWpySkR4Q1BKeUJaS2MyaFhZT0hoT0VOUGQzaTlrRkZPRWJtemtramtfMFBYdF83bUNpWEpDbzFMOXhiYmxLbjVBTHFGWlR0cHNUNC1qR0dqUmwwYXQ1eldsZXAtYTZXSk5LdjlzaHE4X2s4SDctcGk2eE1uanlJZ0lVWmE1Z2phNtIB8gFBVV95cUxQN0t4QXdsb3ZlaHB5WTRKMWJuNDJycXlDM3djbzRfVXNhUExkaVVZSWF2TG5peVAzNW14YUlodmZPSC1wekQySFpDNHU3Qk5Xck54MmdNaVB1SDU5bzNoNnVDd091TDBodWxBZFFFUHk2ZzRfUm93WS1OM242M0xETkQ1ZHhCODVfV092MFBfZno2TC10YVI4aGdEdklRX1VMUFFqcDFCVlNjWDFqQ0pXWWs2bU9DQTB6WkFkR0F3THRFSWgxM1VnbjdHRUkweWZ1cDBQSlNXRlN5TEthTDh2czZiQ3B3cU4yMjlfUE92Ykprdw?oc=5",
+   "published_utc": "2026-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala's K-AI Initiative: AI For Governance Under Kerala Artificial Intelligence Mission (K-AIM)",
+   "source_name": "IMPRI Impact and Policy Research Institute",
+   "source_domain": "https://www.impriindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdG00eGFpbzJOZVpEVHFhVzZTVVdZd19nRWpac24ycUp1Q1FRLXp3MkhqZXhEb2JoMzdUYnJpd21QZXNic3g3ZE96M1Y4TzZmSUh0YzlkdkRWTXdXLUhVWjhqSi1UYTZfYl9OV0djQjd3QlpCcjhWUTZPWDVrSTNUd0tuZndVTVRmV3R6a0p5eFZ2bm9sV1FuN2xuemlzZDlNZG90TWFab3NaVnF0SnJjN3VHNFZSU09FOHdpYkh0QjdSVVB5dDdLR21YamgxSkVMMDMxV204RzdMSDQ?oc=5",
+   "published_utc": "2026-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Announces ₹70,000 Crore AI Data Centre in Future City",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnA0NS1iZHNhRDBlbTE1bnJiM0FveE9YUXZBUTFJci1qZ2NwaHhMTm8zWC11QzhwVWVNVW51UlFWYTZBWENXMVJzdmZPYmI4NFlOSEw4cnd6c1ZUVU9DaXotejlIVmJLRU9nQkllME43WUFrS3hqZGVjSjRCekJ5QmpWa0xXNThXVEdDeTA2bTE2YUFUWjJtMGxLejdjTXVjQ05VNjFJZ1VubnpL?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s data centre boom to support digital growth, but imports limit economic gains: Moody’s",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdmlERVFDUmtGRmYzS0xFZXhSdENMVW1sZnZjZnFaTGZRdG9WRU1tWGVzY0hJMWFQc0V5SHZvTVVNaGRQVFVJc2IxcmNzNWhYQmQzb0k0ekFiX2ljUmx5TzNfWWxycEF4UXFDYUdVWDh5TS10OWlYOERKbVpqR1dOb29ZUGc0eEpvb3lQTTBZQ1d5Sm80UHhOUEdLMzVDa3FoRVVyQjc3Mk80MzktVkN2VHhvOEdfTFF1WDh2RUFST3BiZmlBOXhZQ0ZwMmVpQzhjamRZMVRwMEY1R2dtZjVRbFpGdW91aVBQQ0lLT0Zvdm7SAfYBQVVfeXFMT3NnZFlzUWRwOGZ2UG5iVGFYM0pKS1RvdE12Y3Z3eElJVHRXX2Z2cHNZWHBLM2Y2dVREOWJfT2xTRDZsWWY5VkdRdjZVbXFpMjhocnJjSUROUWVGa21IV0ZUSVRjUVZBeHFPUk5XRDY0Ny10V1dRc3ozeFhQa1Y4cEdZblVpRlFqMGhTVlF1alkxZzl1NzV4X0d2UWoxX3ZneHA0Q0x0YjM1MkE0YUZVQXJ4elZmSnRTaUlsUHpkZW5CbmVPVVdJb1VhNzZhYk1fZVN5X0dZaFRCdnoycUxUbnloWHVKZGtrYmFhZG9QQzdZUDBuekNR?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake that made Keralam CM Satheesan dance better than Mohanlal pushes him to ask if India's laws can keep up with AI",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWTlCV2FxU2V4R1ZJXzlkY0J3MDlYYXdIMTRGLVBmYWNCYXlqZ3ZhNjJSWk5BWmxHTDYydlVUUGFmamRCU1Q1Y0dkY0gzTG5rVjlFVlpNN3RVZVNOWWhFanFDbUNfVEd0ZlpKQjBXRDFsQ0hTNnJtRy04eGdKcGpqcEItUVVqaU0wbzcxSlBNVmw3Ri1CSHFsU2Zsdzc1UklER1NBS0V1X3Z3aTdSZ2xXeXF5aVZsWHR4S1pOM2tYNW5BYXJEd3RfSU94UFBHbjRLbHRxQ0psa0lhc3VWNDBrOHRkcG5lUFk2U3U4TjBudDN3UWtyb3NNRFBxSVNXTlZDSXlMUmM4MWZ3QmMyWG5PVg?oc=5",
+   "published_utc": "2026-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Legal seminar at NUALS hears Kerala Chief Minister reflect on deepfake copyright risks",
+   "source_name": "EdexLive",
+   "source_domain": "https://www.edexlive.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnVXZ0ZZaXpYOWVGYVBacjFlZHBuUmJZTWNiVnhMZWQzWnVhNzFuaG1ISVIzSjFabjN3Y19vd1pTVy1ZQzdqN3M5OEVtWC1jRWdSS2FiakZJYk1UNy1MeXhEblZkWlQxaEItek5acXVzVEdIcU5VUzRoSVBETFZIYXBRNktiUE11SF9LejNjN1JZUGNweHZCTVNkUXduSDRrY1Qxdl9DS1dNanlSVlFHUTdPWkJZMlXSAcQBQVVfeXFMT2N6ZWQ2dXNaVWtwc3p4NjBlRUpoSlVhRUNPZ3VwY2hQemN0dnVvR1U0enBLNjV6XzZ6RkZreWtaV0kta1NPQno1RFBNT01PbTFjZk1xUVQtWjd5RHBnUDRFLWpDdVVmV2k0bnVIcG03TVE0TW1IYWNBNGhQaktEeDlLYjZLVHd0UG96aHkxMkxRamQzdmtXYlB3TjVZZnBxS0E2WUhhMVYwel9aMXhNY29Nc3lRVkFvRWRNTXVtSWlsdDBMZw?oc=5",
+   "published_utc": "2026-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat eyes Rs 17L crore investment from data centre push",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbU92Q094ZWdZQU9VVEFzSnpMU25UbHViRmI0REYzWWlsYXhPRkRiOC1DdWppZzVrQ0g2MzlpODVmZDZpTzREY3pwTFBfRWpjVm53OWttSUR1cVlvR0FHdnBjcVJMZlFnNlo3NWhOX3hMeG82T2tnYVptZ0JocTU0cEI5X3NhdnlfTGFTci1vR1hyV1UxS3pHc1c2c1Qwa3ZLRVJucnQyMy1Wc1RXNlBMWG5oNllVcEwwVWtLNXk0bDk1NE45bE1mZ3Z5ZkpCT1dR0gHWAUFVX3lxTE1JbVo0ZFZQRmFOWUJzTUYzYm1GRURYSEZyTnc0N3E5RERydHUxd0s1dGc3Y1lIckYySjhKY1BhQkNyNmlQM3NKYVBWY3lIVVNkOTdubU5obGw1Z0xwUjFGdUVaQU1Dd2xqcG11UDJlclJvYy1PcS1OR2NadzdnNDUtbWFHNXFRTEVIcHVENnhiclhnUlJiT1hQaTJvRkhNZGk2NDJZd2IyNndaVXJwNm9tX3g1WnNpTEV2aHFwdDhpV1VBLUI1TTBueTdEc2hWejJKb2l5aFE?oc=5",
+   "published_utc": "2026-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

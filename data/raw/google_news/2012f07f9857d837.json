@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "How is Data Centre Infrastructure in India Shaping Power and Water Use",
+   "source_name": "CEEW",
+   "source_domain": "https://www.ceew.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2tNalFiRU1qZURuTTdoVXg0dHRMTVdKUm9MX0xKaUgtLWxmM1pSUDhweTAxR3VteW1FYkh3OU43RDlqakp5dmVFbDM0dDZmWG00aFRkdnRvRERzVWJMazk4Q1Fad0gtSkJ6X3FxOEhJM2tTV0RFd0xRN1U4aGQwSnN1M3QtMkkyUy04VkE4VzVCS0U2WEhjRmpTU2Zxa2lEZnpFbVJn?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Budget 2026 Explainer: Tax Clarity and Incentives for Cloud, Data Centers & AI Players",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVlTcXRBRGNHWGVmSGpHOVlMa2VMaUxHMHJzdVNldElCMWgzcHBKMjNiT1I0UE9FR2Znc3FPc0lrQVhwX1lnazRUVTNndkJPUlVGZDFVZHZublpMc1g2R2lzbUlzc1BxVnRqbmh1SHRqblRIX3g2VXJ5VFpMbV81NGt1MUZiajZ2dHdFNTNxelhfMHNMY0JQaWFBb1prSllBeUxJZVZGNGc?oc=5",
+   "published_utc": "2026-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt grants nod to shift state data centre to BSNL facility in Mumbai | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUk4xc0dPWXRaNUh2TjN0NXBwZW1MRTB0ZkttV1kxa1lqTTkyMk8xRmxXdTBLamIzT0pCQlhONUxqZVNLZENEejBZYWFuT24xRDZEVDdkSmlUUjdma2NmNjJKNGJSWUdXQzRLNzVEUlZzeWl0aUk3RUdIdjl2b1JyVFR2SnhJQktZRWlwbVhENkRZbUxVS3VKTkRmZTlVUFc2bm5CUmVPMUZBWDFxQThSbjRGNVpBRDdLLUF4RlVFNV9WREpDbVZNQVg2TkhsVG5tTjhBbUw4QlJZQl9VdWgyaXVoVDZQSDDSAewBQVVfeXFMTjlkTURnTFg2d01YS1ZxMXdOUVE2aXd5R3Z4aXF3UVJNSEdhMW1rdHRiQjltbzNEN1dPc3VGMVhzbG96eEI1X0xjUVYxODlfYTRFVjVWMF81aTk4b0t5MW9FLVkyXzRQc1p2ZDViZWlEejNpVlBvMTRGYzdPR05vSTZCNzBJX2h3TXhpUEFTLVlZUVN0OWRkN2lVZUVQUkJfenZlZi1vY3dZYzM5eDVRQXltT2sxaFRYeEJKVElZUmxncnE3RHpXTGx3dTFUZGMxWlNwdGkwSHd0MWtadUNVVDZ2bXVKUHFUY1ZqWjQ?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AM group, Invest UP sign MoU to set up $25 billion AI data centre in Uttar Pradesh",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaFVPT2R0VXFzeGhMdGgwQ0Y0dWxPVnlxUDNod1lHbm96LUNTNVBkXzhBWmtrUmY5SG1SanFYQjJJTlZTcW9uU0h6VmRReXVIT25sXzQtbkhFaFlmRWRUQno3bkFUejBEWFc3M1ZyalJpbjl1WlVCVVU1SDJwTURILUlFTHRDOERUbGVSb1hUd01GWGk4SmI1UkZ4STM3TlZFVnZsaGRwUnRqU0Z5enFhdUJWZHcxUFZIa0tqYmp2clgydEZRdEVZb29hVlY4VHNhbFF6bXhnLXBfZlNFTEx6TFYtU3lFdGtUWkHSAe4BQVVfeXFMUGhIUnJMUlRYc0hsVFlISlZtbjRnNW1UaV9GZm5xWGJWWkVVdTRDYWhtdERiOF9qcnVISmFCS25PTkVNZm1WQ251MWxfb3BNMXZNT3RFVTRsYnhTZktQNlg4b2dYcTZ1QVg2N0ROeVBScklqa0lqQTgtbTR2QzRBclYxNVhkaW1XYXZreVBwcnMtNHYydkFjUTlkU2ZxSGV2SVNyYmgteG1JYlJTZndqVTcwTHRFTzFLSEJoMXdNaVVHMTluNzBkb0l1OElxSW5ITFdBYUVsVkxlamNJazFDMW1SeUNMOEtrUTV4Qjd4Zw?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Impact Summit: Indian Startup Pi-Labs Draws Visitors' Attention For Its Fight Against Deepfake",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzhJUHlQT0tuNDRoY0IyWWpJeGgycjlFNHRPTTdaRlNKRjNtZjJBclB2LTFvdE4zSWJEMGs3MnpwblJCQnBnYnNUS2FjWVljaGJwTFdLN0NFQVpNSzZYRE9qTnBFcGpJSGhNdlYwZVFlbWVrazl4SWs5LXBFd3Z0OVRXbUVWOUVtbXh3UmZRdWJNZElTMzQ5dXZNYWI4TEV6MFBvdG44TFdvRnBlalQ0Y0NoWlQwOXI4MlNrV01fQWxrZU9ENV94QUtJSUU3M3ZXVC01TFFha2FHeXh6QVQydUJUWXbSAeoBQVVfeXFMT2RSUmttZHNqMjNYSW9KNnpkX3RJR2FxQ2pnRUVLZHo5cGkzUk40S0NKWlJQMDVvSW1vUDdMUnNSTmtQUmFPQnQyd1JXNVprS2RPWGRNdVlRZGR5R1ZFZzVHbS1kVFFSN2szQmh1dlNBXzUtWTNtbjdTYXI3cGhPMTJ6LWpsS3MtVHE1Y1E5bDFIOVhHTWdYcjhiVzdiT3BQTmJRVjVKdUJQRHhFWlpPTzl3dDJBT1J6WWhHMXphY3M0WHhncXVHX0JkUkF0Y2NVWDFYN3J4R2JhN18wbHhFYk9wUkZpNXRsTFFR?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STPI Bengaluru to Provide Co-Location Services for Karnataka State Data Centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmFGcTNXc2Jqbi1IZEZtLXNpLWxFYWFLUVhCSFFQT1gzVUx6SmNZaXFRT0lrVy13LW92OHpkUjlveFhPUEFiSHpoU2hyaXNSVmhzNHNQVVVOSC1GX3JtVFFLQ0V3c2piSmU2RFg1X1htSVVRLXFRWGd4QlpwVmU0MVM5RmdlNlBjMFF1WExEUmlrRUx2VERVZ0dvZWpZZjNJc2ZEc3kzaldaX1h1NXUzLW81RkswcXM?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake, Content Labeling & Safe Harbor Risks for Global Platforms: India’s 2026 AI Regulation",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeU9odHVCajYyQnBfVGZsV2pKZzluZXg2c1EzZXJveE5WOTFxNXY4ZUZZdk5odEttTG1RY3Q0dW1UUGx0MEEzU0EyM005U2NaLWRVT3B2aTFsclZCMURnSWRPdGduaUpFbGNmTWxMYXZkV0RyUlU4cE5EYWFSZS0xbm5OMHBrbHZ1YVpOT1ZSWXExVG5uU043dXRUQ1lNWFNna0E?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s data centre hub potential: Power, grid challenges and renewable integration, says Deloitte",
+   "source_name": "ET EnergyWorld",
+   "source_domain": "https://energy.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdFk3b3dEemFHWDI1Q2hWVVVkaGdrdmFVeDFHWjBrREZuaVFpV05MM0NGTzN5R21UcWpDYndfWkNzU3FuT2pSRW5yNGc1YUZoaDkxaTVibnFfMXZ6c2xjRzVCb2FMTVdYZnByYW44RDlLa1R6bnBZUFlWV2RKcWp4N1VKOGRBal9JT21nbC1mNUJ5eS1GSGxfdk9lRllEenN0S044ZDVJaEw5Y1BrVS1JdGQtYUgyOXFJQ3BiSTBNZnY0bzF4NFJMVDNNb1JEZnV5WWRIVXVzbExTNWNTRF9FQ2dFWXZpQzc2WEFaalpZRVYtTUZU0gH6AUFVX3lxTE5KN0R3VEVGR1RIRi0xc3pJeUJQSjY2UWQxRzlTTVl6NGdZRXRoN0pNYmxBbE1LU29zNUd3SWEyYzVLNDI2SVRSZFlDUk4tQzM3UlVGc255NmZaUHpiZ1dBOXhCWjJDeFJUYzRjVW4yZXEtWmFGejRjVW1nWDRBd20xWFlCT0dkVlQ5cmU3TzlDQ1E3dmdPMDRGR1pyWm1tXzA5S1c1aV9pREY1bEhfcFltZk5VRmdHT2IzTm1sX2xUb2hWemVJWXNEN2Jkc2M3S2R2RlowSkpObWpiTGpTS1ZzekdETW9nam1iZDF2S0FpS3dsZFlaMlRfSHc?oc=5",
+   "published_utc": "2026-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UAE issues 25 new AI guidelines for schools, prohibits use for under-13 students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdW52ZEZzZE5RN1dwU0lWZktqX0o3Nmt1QXRKbGM2LVA4UjRCUS1YYVdGeVJNcDlWQW4wemkySWFoN096MEJoZEpOWF9oWTFsd0xKTFlyQnFadmtBSFlQUUVoc3VKTHY4R2phSjA2ajg3RldDeU04Y3JULVM4ckdLdXdLR09IeExKV3V1dTcxam9URENGYnBkc21aZmM3alVOZG5vQWNVb3FISTZLQ1FJb2R3S214QlkzX1pTSkpNSHhMODdEOUpoTzN5bUZ4LTBYRlZoQUptLXpOOHVTWnN2ZlM4M2l1dl82WklqU1dHMGzSAfYBQVVfeXFMUFRjVGl0Vy1yeGpPQ29PVHh3S1pjMkdzRGx4S3BBSFlNd1UwRTNzZUZKYVhvTWVRWUxRczc4M1YxeUtNT284Vmc3NFV4OGtqdXpNSURGbWlIN1AtUVpyU25Ca1ZZVFRZZ1pFNEhJdlBjZHZyZUp3TjFEbmhfaEtMSTRGcTN6MlNIYkFySXI0V2h0V0pwOXd0Sk9lWFlNb0Jlc3JKSHVEU0hZZl9lSV9mdFlFV3p5eU1TRmFtUklhMG1USl9Td2lHLS1TVi1sWUR3UUp2clhEd1NkbDQybmN3NlRFaEFKUkpnd01xMFdzeWR2U1ZzSWtB?oc=5",
+   "published_utc": "2026-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "How AI and voter rolls helped Tamil Nadu police crack murder manhunt from 1994",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFFaRXI1MzI4TEhRU2hDckF2anJzUDlLeGJlWXBDSy1xQTBMUEM2bVRJbGYtdEVvTThqRXFDdTJMVWxEdWRBdlZiWGg1NjBpNU5uYl9kNGFvcGpsaDV3WDJ3bm04a1UwazQwakdmdUZ5ZlFiMmhzUnRZel9KbmVvYW55SXRnOWtpSE1fMDVXanJUeVMwUGwwNnc0WE9QTmRzVm9lU1FfcVFOQzZFNkdOdmhxN0N0cXVScGdsZTVlalBQM1RsVzFtc2RvWDN1MmNPNlBBMDY0dzLSAeYBQVVfeXFMUHZFN0REQzhuSHZKNVprbmM4LW1wMmFuMEtPUUR5SHcxWHhJa1RFeWgzLVgxNGpOUGZ4dTlId3Q1LWhfcFlEbi11VjdkSnlIOXc1M2pFWGt1NkZ3UHZET3RMWXcyME4ybzRTT20tZlRBQWlKZlM4NVBfR1YzdVBEak1fLVBZMC0zVUxXVGRMTTRYNzRTYkh6dEE4Rlg3bjg2MERHR212Mm5BWlFDQzZBSWlYem9FN1dVRGt3Z3pzMjlLUlpvZzBwaExTNmN4QWpQQlY4T01UYVhCVXA4dWloZVlMelNqeEE?oc=5",
+   "published_utc": "2025-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Voters' List And AI: How Police Caught A Man Accused Of Murder In Tamil Nadu After 31 Years",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOFV5dVJ0QW9LNHVFbWJCNllpaE1PeE9PMThicHRtbnRuQy1WdGZfR1JrSnpkemctQ0hTYmFVTl9hVV9kTERsWEVGcEdxSGNva2xOYVJTRm9GNGZXaVlvN0M3Y29feGwzd0dQYU5sOFphdDJtZHhxOGo4TDh4RFIwZ0R2alhNeWNoSlkyYXJDQ1NNbDE0WGJWUlVtZTVyRkQ4ZTZRUno2eC1tVVRmVXNJNHl5YjhLREdEUWVLUzFhNVZoOEJ0WVA2NGdjckNWMFdaWGVuTXZsTdIB3AFBVV95cUxQbGhGUkdIWkM2Tk9wQjFCb3A5VjM2Y3BDNGxzZzNxd2p3MWdIRjRyZW9CRzRkSktjYUpWNGZXMTM1cVdDeU50VWhzVG9xSk1VZ0xVWkV1YkVMYkNpeWlnMGwxMU80NE55czA5MTFnRENwSmNoWmotMEp1Zk1qVGRUSHAzNDZJa0Y2ZUo4cXZYTDM1QjhjVnRQM2V5LU9kTmFHMXBwNlc2c3JIdG1rM1RMVElNN0NSb3FvUzZqZEhGWWRBekhGMFVmTmZjTWpTaUplOVh4S0FvYk5EX0hq?oc=5",
+   "published_utc": "2025-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu cybercrime police warn netizens against Ghibli scammers",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTJGZTQtbW1BZVZ4ck5JMXBBSjFjUk1NSG5pODBEaFVNRW92T2JWcjlWM25jYm00d2N2cV9ONlJUVnd0Q2xBTkhGQ3lFbUp2VWFnSVhvQ1BjUjhMZ1lZcXU3d0Y3cDJCbFlIaG1OMU5BRjJTZTRuU2hGbTFUcGVYSTVPeHVzb01xN3phc0M4YS1GclRDMmdyNEgxWmlweDNLZmFobXJ0OV9Ka1dqZXVNMUlyNXhYWG4tWXBJdW56aVVDci1jSlZMbHhTV3l1Z1M3bFdGNl9JV3dIM3BZcmpRYnM1azhSMDNqOHpMdWpyM1TSAfYBQVVfeXFMT1ZxRUw4Smh5QXFzYklhX0hiX3Q3cE5BQk5RSjhwRGVPTmlRUE1aT0IyUFZ1NnUtRU9xUGlwWnRMdjF4ME9rZ2F1UXg2SEFaZGVGVW0za3FXMGpJcTE4VG5nS2pBaTJ2b1dPRmxxMzlkcG9jR005TzVPLVRqaElzQ3A1eWdSNHZ1ZFZ0Wm1FTU84LVNVMXlySm9HSm5MbWhPQXJ5OU93dElVOExJdUpqWHA4M0V4SFNtUG1YUXBoTjBaYlNfem1nbDlNNUpBSFZURFpEMUlPLV9QVFRZT0JMcjFWNlpLQzdYVEZLazB3SEgtVERvTGZn?oc=5",
+   "published_utc": "2025-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu police warn of potential risks in generating Ghibli art online",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOURXLVExV1hqQkZkNVpfc0tYMWYySDhlSnp1d3h5ZXhqRzdKYi1Db0NUNHVqQTJmcVZoWHNKNlhFWnJQd1lHeXJHWnVrVWgxcXJLSm1FT0wwN180RlZKeEtjdnpEeG9JM19WTWdEbUJSQnhUel9FYkpHVlZtQnhyZUc3bG5qUXRHRFhxWm9kcUhPa18yNkJacFotWXFkODludUNGaC1WUm5PTk5DSGlFNW56QkdZbnVzVmwyWEFIaFJaMmc0YXh3aEJWRjlWUjZaVDY2Z1lSQkVkYmvSAeIBQVVfeXFMTm84NWhRbWpwTTREVzFQd0M1dWVWWDhDa2pIX0RPZkltN1JrOEluS2JmRllSNTB2NTY1bGpzaVl2eV9xQmpkTUVHcm1qWGNmcDBmN0huSUFmSndTaGZFNjN0S3hGMHFPdVREQ1NwT0hTWElmZ2JOdmZJV0t0VUw1Zll0X0JPYUQ4RUlkejBDbnVaYmF3bTk2OVBRX0NSZmUzUVdIRklUNkMxZE9NbXN0UTJMUkpOU3E4UUJseDZCRGZWVHA5UWpJenE2WkhYLWIzWTdoTXlXWVVFaTJYTjRQYlVxUQ?oc=5",
+   "published_utc": "2025-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Enhanced Education Technology Increases Learning Outcomes",
+   "source_name": "ICTworks",
+   "source_domain": "https://www.ictworks.org",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ES3JtRmxHOEJYMjVNaXBlRFZ1bF9vMTF1cGc1Z2Z3c1RvNU5ITHNKcjJzMHFreUNwV2NOek1PT0ZxZmliU2V0Z0tUaGU1cTBuV1RYRS1xbDItMFNzV3dWV3dJNkVaZkxBeFpWS3VhVnJ5eDkxMXhyZU85R2luYXc?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajiv Gandhi Government General Hospital now houses Tamil Nadu’s first Teen Clinic for adolescents aged 10 to 18, offering care across six departments including psychiatry and dermatology every Saturday from 8 am to 12 pm. It aims to address issues like",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LcDZfRF9DTW1pOEJhbVdHbktvUTR4a1dMZWVxWFlqNm1GeVo1aldJaFVuWm8zOXlKZjVtOThYOFI1SDh6MG5PYWxlbGdRT2tOVlE?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nasscom GCC Playbook- Tamil Nadu’s Blueprint for Growth",
+   "source_name": "Nasscom",
+   "source_domain": "https://community.nasscom.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGF4SDRJdy00QUFmUEVIYkxJWU1vMllfbF9yN1RFMzdUNk9Xa3o3UDF5WUl6al9uSXoybU5vUTdzajViRTlxTy16MVh4eFhsYW05MkZfZHFBQlJoaUlyU2JvV3RzSTRVajNfeURIbWhoM2FzZVR2R1ktdDNNVGVTU1N0Tmt3T085bFBwbUNJanBncVMwRm95cDFKNHRJVzlmYW5CSVNRZUE5bTQ?oc=5",
+   "published_utc": "2025-04-11T09:34:52+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI learning tools helping slow learners catch up, improve attendance in govt schools",
+   "source_name": "Education Times",
+   "source_domain": "https://www.educationtimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVXp1QlBlM1dhR0ZWNU82OU1lQU9TQkp6dWN6UFZLZUhRdF90T2tvSHZhd3Jrb2JQSjRxSGRHRVNVLWczb25PMFRNR2V3bWRFLWVMVmV3OTloX1c5eElTTnBWd2xoMXkzdEFQdGR2UjNMX0NCRVBCdWh2b0YzVHhnajh0UmJEdmtsVGtoNWxXcFFac3YwTU10UVFZbk1pckVBNEJWVTl3MXphRV9SWWR4OUN4cFVMdmFDSHQ4M1ZqVGFwSHNpWDRSSUkxWjd3YUFORjlLMGNpUkswMmdRWnpNeEJlbW8zWkxhUzBBcA?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Administrative-cum-Instructors in TN Government schools yet to get salaries since two months",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYzZKWFpBT29TWG1MS19uYXd1Q3Vab19LZzNUUEZmeVRHTDZiZEExckluMlBWWFdOajZpVHZMZWxyS19LVU5jWTBMRHhnVzN3Wmt1UDhNR2E2aGJTajFDVVJfRFZESUhtY2pYTnQ4WDR6Q2NpZFhpQkhsSWJBREU2VnhBTFJsdXhHSFFLN01lTlB6bVNNYW5JRzY1bUtnMWh6TEpJcWJ2SGowcVAzLUxsWHA3cUpFTWpKd2tJcXJ0ZGF4Rk44U0JKOW9FSTJ2YXl4S3pEUC1raldWNkpsNHRCNkNIUHJ2cjRWd1RN0gH4AUFVX3lxTE53SF9VUWdWZUFvM0Fmc2ZfUUlDdXd2MnNpNjRvajR0WmswcklfWFJCblNObVFzWmRxSHFhYjRleTJodnR5Z1FLZldvYjl1cDhESjlsbjlJTW9nU1NqdXgxWlN4bnI4NjhaaGlBdjhnY3pGdjhCRTZ6V1JNcWxEQ2FzSUdsQVdHWGlCR085MTVjSnZWeVUxQ0twVGNWd3hYSGVVLWdZOHAxNlotM1FNNnVCYWtPNGp2dG15VW9mNHF6NHNaXzVtQ20tWWFkOGdnLVluOFlPSTBEQ05NS1d2U0VhcUUtbnhCdWNENHliVHhsdWVTNWFiOWFF?oc=5",
+   "published_utc": "2025-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Tamil Nadu School Education Department has issued safety guidelines for parents as summer holidays begin on April 25. Parents are urged to prevent children from swimming in rivers, lakes, and beaches to avoid accidents. To safeguard against heat, ch",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iNkMxWDlGbHh1UnlmTXB1Z1dqOE5xWkVKdmJVaWhSQkJjY3g5UkMwWENBTWFjTnBXZFA2T0l1dGZETC1oOWtLcVc1d3YwX3Q4X2c?oc=5",
+   "published_utc": "2025-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

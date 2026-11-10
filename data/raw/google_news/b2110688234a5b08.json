@@ -1,0 +1,21 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-06-01 before:2025-07-01",
+ "items": [
+  {
+   "title": "An AI-generated video showing a lion entering an under-construction building is being falsely shared as a real incident from Gujarat",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVlodE11VDZnd3d0aWJDbHhlazduRUE0TDM5OEFhazh3eElIOFRDT2pTbjlDUWJ5RTh6TzFGQ09nUU1XNzg2UV9XWnN2SEZjTzc0bk5BVDVsRmVuN1YyZW4zUnByTDhEVFJ6bGQwSjh3UnhmcmpLVjh2dElGT2N5dTVJVUFZbmJFRDE5dVhqZ2pWQnBRa1RSWm9jMHZSUVI1cjlMUlVWd0ZRN05KSmhUZDgyc2cwTHhBd3NDZHNHdUJPYmNJYS1xcGNkaF9RNEpS?oc=5",
+   "published_utc": "2025-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: Viral image falsely claimed as the last picture of Vijay Rupani before the Ahmedabad crash",
+   "source_name": "Lighthouse Journalism",
+   "source_domain": "https://www.lighthousejournalism.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSHZOUXRtWlhwbmRXWUt6MS13cFJqQ014WU9sX3pTQjhpZFpYU2F4VnU1WGtFVXVVdEZ2TTZTWXl5dElUNmpGQ0YzZlYxaGRiVXdMdVAtbmFSQ28wQnpQbW9RMUFGSGE1djktTE5Xams0TFUxV0Y3UDd2UW9KRjdfZXJfYmFqd0dyeEdIS216aFFidXBIN0tKd3RsZkJYMDhiaDhvMm84Ykd3cXVfRGtrdUExZk8tMUhBUF9NMXNMa3hJcFZUWjB5aEE0R1R3am1FaEZYQ0pfV3RydldVTWNiMW1MMi0?oc=5",
+   "published_utc": "2025-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

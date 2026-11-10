@@ -1,0 +1,53 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Debabrata Saikia seeks moratorium on new large data centres in Assam, flags threat to tea and water resources",
+   "source_name": "India Today NE",
+   "source_domain": "https://www.indiatodayne.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdzNqZktqVWZ5dTNQVl9TR0RQSnR4TzJhR0hzODZuQmRyblN4SzkxcFp4Y1paR0ZjdkdJaEd4Y1dLdHZFQUc1N18zNDN4dkYwZW0zVmlyY2VpUVVyQTA2VXRWbDVjMDA1RWxvUGtMRWJQVEU2QXRqX3h2NjM2dVFKSTJEZXBzQzlCYm9pNHRGU01Hcm1jOXQyWTV1UHpUY1RjN0tvaUw2dWpIWm1oQ2ZsMVJ0TXhnemU2MGhVVjZyd2xjaXhkMlNUWjVuQ2tmMnJhSkRkU2N3Y0Y5Q3BDOEJydGZPZGFCcHBiY0Rsc0VscF9XOER5TlhpMDFFNNIBgAJBVV95cUxPQnd6R3NOOTJNRnExRldsTzdUY01WaDBCcGVsT250RlFBRXJXbS1GS3FZY2JpelR1d2JEQU5qNXA3dWhqcFZtZ3RtNVZYQzRqNjNUbWN3TUExRE1FNWwzTWVrWUZSZVRRNmtKLVBlMGU2TjVsNmw3d2c4VVBHa25Ia3ItRk5kUzhiZHJCREZZZnR2V0ZiSlNlZGtNXzJoV1Y4MWdvZXlRZDBhLUhCVElQbnlwTWpVanBWS3NwUTBOUTIwakpMTUpUTzhyUFVqcDg4cVhXazlJUTBFVndOM05WV1VtelJBalg1TFZqMjBBT2plbzhHQkFObUJ3NkhKYjgy?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The four questions India must ask before its AI data centre boom outpaces its grid",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVERMY2RyNHRrOWpEOXBfUmRkZ184OTZlSnRzZmVUbXVHVFpHa0hVUVVJaXZSUjJ4a2U2bEpaaDZBLXhrSDZqTXlOS084WE0zN3ZDT3hUUUVmMjBzZ09vWU5qaHVGQzJXVzJCbjM1S0VVeFA4NFhsZlEzQWg1Y3E1WTFlOTV0bFpDMkJLUzAxQTJVR3FXbzlBTWRFc05CUzMySVpJektyS1k0MGhHcWw2R1ZuczQ3TjAyNXZBQWwzemhHWk9VWV9MOVhLcmlVVjNQSzFQZWtyOVlzRjFSWjF2Q0wxYThyaW1fck5HdlVrTdIB9AFBVV95cUxONHdQQmhfRjBDS2Nxblo0RzZUZFBWaWF4Y2lqUnBlQ0JVdWU4aGJpNm5Mai1tb3RWOWVrYWhaYWtVbk12WlI4TVI3N3RiLVlOMG16QzVsQlRhZ3lWMVc4bFRvdlAweF93c1NMVXVsbkxYaWtseEhLX2dVeVVRRnhtMWdYbVhDbHUySEg5cDlNUDY3YnZFUFItcF9GX3o2bENxY0NQUzlSaU9DdVBCeVVaWDYwbURfVXM3OFhlR1pJU0tHM2l6b2tMaE5ad2ptMmtXa1RKNzlFWml3VkJsYnh4UEh1RVVaT0pOY3RwR2hrR0xiZV9w?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft launches fourth India cloud region to expand AI infrastructure",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTl8yQW8xM0ZlcjNkWW5COXdZNGNSX3VtQUp6UXlid0QydXdDWkRVdFAtR2ZUbEZ5aEszYjEwT3d5TEEwTWpSb0twdHBvZ3hya1J0dTIyWG1OM1p6M1BnM0JmS0tQSFVGSUVWVC1xSUdVS2tESUpaS3ZTeUpURzBWQVVPYW1JYjZBUmJvd24tQ3dyMWJkWG9FSGdmYnZXRS11VV9wcF9OT0RoLUVFZVRlSkphZWFoLWdYV2fSAb8BQVVfeXFMUFd4OTNZY3ltWFJMdV9acnRPNG0xNmlmcWdvdEtIXzhwalp4RFFVaWIzd3BVSGgwZEFFX254Yzg1VUowX1pKV0g3MUV0S3R6dS1XVXBpWFg0VFVUZDlqNERTVmhLVGpSVmxxeXlzNGNTMWZFSnhpWnR1S1Y0N1V4d1Q4Qk5kV3lpZXVRalZ1VXg1UFpXeVFzYWJqQlZyLTYwbjBEcTI5ZUhDNUp1T0l1S3hESV9uUWNyaWhkZTRST28?oc=5",
+   "published_utc": "2026-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Govt Schools to Get Modern Makeover Under Adarsha Vidyalaya Initiative: Himanta Biswa Sarma",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbmdSWHMyTG9JRmpFNlduZm9pd2l2WFBwTjBaOVJUMVRKRzZQUUM1M3pDdWlkbERYVmVpS0U3NXNoLXFxWVk1OUVFNWc2cVdiYXZGS0xSaUdOOVNSSlJwT0laMVVTaldTVm5CSDJSWGxBeTBhbm01ZXNpN2tzS2dRVUdMUWM0RVYxbEJpMnh4NGphZzlNNThHeHBUV1BEVlpkdl9IUC1JZWdWXzlDUEdSUGZWSjhRSzNZczloWFk2bkVrWVBCZnp6T29FVTA4VWJwQWlpTklfSzNWd2ZFMFNRQ3pGb2xYalUtRjhPRDZTQzQ1cWRvZmMyUDQtN2tWRU9yT2xMRFBYSDnSAY4CQVVfeXFMTVczc1p6ZW5HU2F6bmR1WUpqRUlpOVBaT3BmY0VEcUx6Nm5sRU1LbkpZWTRBbFA1c0gtMkZLTTlmQjZQRm0xMldsV0ZwVWFoanR6U2JZRXNOd3hYN0IyVmlGdXN5RHIwZk1RdGZJQzZBNnRGQVpCU1VmRVJ5N2RfOTkycE1uRHhtMHVQSDFJMlhsN2NJRXNyYmJrUEE2blRBdTZlVU9ndFoxMGpvLXJXTkQwc2dZUElNcmg3Y0wtVzdYR00zWmFyWVo1aVZGeENaOTd3N3Z0bGd2ME45anZ4WEtrTkZaeFhuSEFvY0FZU090M0xyUXhITWhMSS1mT25RbTVxSDVhdzZ6SmRHdEN3?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Narendra Modi inaugurated an infrastructure project worth Rs. 5450 crore in Assam: How could they impact real estate?",
+   "source_name": "The Realty Today",
+   "source_domain": "https://therealtytoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUl9CMk0xR3hyNjlkMjZRTDgtWE5HV08yN3JsM0d4dUhvV2wydVh6NFRCUEd5UWJpSnJvQ0NVdUg5X1pDNHRlaVRTRENZcjFURGZBVGp4Mmh0TmVTSXVHN2htV1E3OGNROFUwV1JQOExsZ3hsSWpjLU16c3BsN0twRlBMS3ZuT0ctMHlqWkhoQVIwRzNLX2FvbjI4ZkUyMkFfem40eDRCQXZqRjF4OVg0Z2V1T2FVczZNdDFoWkQ1bDVWLWRPXzBsRVNnQnVVM09mQzFrUHZGX0NPVlJlWC1rc1NweXdFN09BQVE?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cabinet approves Karnataka Sustainable Data Centre Policy 2026–2031",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVWsxT2QyRDFvWVBUTmt2N1QxM0d4clV3LXVKaVB0QWdtVmp1bHpkNVN1dkd4V3VyM1pvOGE4ZkRtQ3JZb05WLWRPZm00VUJ4cUZMM0FaOHBzR0NKQ0Y5ZEwyd3A1WGZhdXd4aTNpRW1NY3VwZmNQWlF5UWNjLTl6VnJaRGtJamY1ZTFRWWUtN3ZXWDZlWEtxcXFGQTMtMXdmYWtyNDdwTWRJaWZLTW5vOUpFUThGbUdvVW8xSmZLb1ViTUhKRGhxNldpU1BQem51bzJKeWdCNmJMQmfSAeABQVVfeXFMTVNqZmMwVDNFZ3QzdWdJSURlZjZxVV9idXNEUW5FdXpDb2pJQkFURzZSdWdpT240X21vbG5vdnFBNUpEcmpHbVpmekh3Zk1aQUFqMEd1bWhJWTN1SFVadVItSE5Lak81WF85V3J3SERaODc3UjZ2cEJjakI0emRWbnNxM01uOEVBRHY0ZGp3OWxTVDh5SENuRU80UXpYT2RpUjRkaTlONFU2MDVHWHVpdG0zeXA4cFg2d2I4dVUxdGZzclFSWUlBZmhlUnl2OGhTejM0SW83NXBldEpvcDlycXc?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

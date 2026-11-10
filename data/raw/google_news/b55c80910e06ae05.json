@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Tamil Nadu launches ‘Level Up’ programme to improve English skills in Class 6 to 8",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaTNKNml3OFlubXdYMFlSaTRUcmlnTHdnbWYxdm5Vcllja3NQalJHZVdZckxpcUk4c0dQaDU4MEVITkE3d2xvS3NvZzg2aVQ5WjZkQ2pRRWxCSTBuYlJjLVhNWVVnS1hteGdNZjNnNHdZdnZlU0Q1YVc0MFRnZzhFemFpcUc1LWpSS1EwdW5BRFZWTDRYUlN1azBwbEtvWE5xZnB6Q0FpSk1tb3hNWklkN2sxeEx3Y3A1UEhZVHpPM3hrdTh6VWdfdU1FdVgxVEZ6M2NzZGVsS243SFQ1S2xDV2pqa0R1T2x4Vzd2dVhDNlDSAfQBQVVfeXFMTUpwZjMxRUpzSmRodDBYWC1vR2pSSzNCTzFkRGRTczlaTmFVXzh4SnZTaVdCVnB3MG5PbXJTZE1nX3RMX0dXZzVVbm9kbEVJUVFiaEVfVDVBSU1rQ1UzcGhrZVBEUW9ybmMwSy0tNFhZR3hFZHlMSzhjRllOMkFKRWI1ekdtMWNiQ3BXemJDUHBScVpiLWJ2eGlndjhsNFI5aW15cVUtMEpWVWVlOXp4Nm1ZTzhlNURHVjV4bTIyS21HaERnSHJ6NnNrNEh0WThzTWRKVno2UDk0eXdKTDgzekk1MVV4VEd5OGdXTG9BRWNrblpRaw?oc=5",
+   "published_utc": "2025-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "As Quarries Multiply, Tamil Nadu’s Courts Struggle to Impose the Law",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW50VWNGeGFjaW5jaWZleUlqTVZrdDJvN29aTWpETjNxdXZTd002d1ViZjNkOE9uQ2trV3NrbjVzdGpCS3VIWFd1X21WaHFIQndYS1M0azVqRktSQUVzRWxtZmpSTkRzTGJUQ1VuTkl3cXlwZnloSXJfcUJRbHQ3R3ltME9qR3RXdnkwb25ac3nSAZcBQVVfeXFMUGZlREt5djZDSUs1QVRJQ2RwN0d3cTV4NVdoVVYxOGFEZzZ2UlpwcjNMVXlvblVkdUMza3dqb29SMGRVcC1RRkF1bnFxMTNBUHNHZDd3X25udktnQ0V2SUltMDRtZ0lrSTVteEEydGtFVmRiLXp1eGlabHRDMnpRREJHeHZOMTRqMk9sczF1dTJDRzBvbzUzVQ?oc=5",
+   "published_utc": "2025-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu school students forced into cramped spaces, parents blame state neglect",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaWNLeVE3UERRUnZyU3FaenBVeTFfV1FuRjNaSXFjZlltTlRmNzdfV2lpOFVieEx6bWpGWjFSLWlQTEkxSi1aeS1ITTJ2MzRNcUxCY2U3SWtKd1hacE1LMXpkOWRkNXhBYWZ2cUtnTmpraWtKS2dGZjNMWXZlUzJPNm9kcV9hM3NEV0ZNV1o4dTYxYU9hOC1TMGJzbUN6WVdlY1ZtWV96SEQxa1VuMXBOSDd1UmJQZ1gyZWxFSW82R2sxMnRvN1l4TEtfU3VqY01QdGZLQjc2WG92T0tMOXhpcXNFOW1LblU5bFg2TDhPaW5vdmR3d2M3VWhqVjE3alZKRThUUU1JMHVDQ05wR3JvOExCUzV5anhM0gGeAkFVX3lxTE43X0FlOUd0Z0Nfd3ZyNUJMYWZ1dmVQTS0xc3J6VG1SMzBpWWJnWERWQXRlaFZya0JxdFppTE5pMUVMeklnS2RhWnhvTEVNakdteDNPZW1ReHhVWFluRmRvZk1YTHRsTTBteWtjUU9BN1o2SXFoNXpSRkhnTWc4QmZPLW5qeE1xUUpHU0NXNjY5Z2pGU1pGVkJodVQtbnZqZk05WGU3QnFWZnVnbGZuUmREX1JPbG5YNnlXRzRVcTliNkJGUmlXWjQyQjJ0aFVROUhtYUVMZG93OVh4ZDhqbGhxLVYyYjRqZkhEa1h3VlpWZDhWWGlqT256c2cyNEw0Um1ITjl5YktZNFgyVzFXWUZXN0l3Q1hNNVZWQUxjRXc?oc=5",
+   "published_utc": "2025-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Stalin Discharged from Hospital, Advised Rest for Three Days",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmpqb0RUUkhra2VTVFE3RmRaS1VDRHlCcUVmVG9TUFMwV3F1OHZhLVZhbElIQk0zcTRvS2NkNU1VYTlxMUdQWWE3bmg5ZmxDUWEySFNXcmE1UkJtb1AyOHlYMnRreWRJTDNZVEtYVDZMT0lGcWQxZ3VPcTlta0dqRTJtVmxOVHloNlEtUjNhazBwdFoxeU5lWUFGeHR1OTlCanZrWmJvaTZCdXQ5eXExZjdTUFZiNWlPaURrQzV2NG10cDktMVFmb3dDY1pVSnlONnV6a1JkY9IB3AFBVV95cUxON1FJZlkwLUEyd2YyU3Rzcmd4R0lVMFRfVW5ObC1SbGJKRXhtSGFOOFNOM05BaWRZeE4xZzkyVEpCd0ZVdjRGYnRBS0kzNkRGVkpjQlg3OUp1RF90OGlicTljcDF6c2dfVGJVbHphRUo0Zkh1ZzJJZnhGYWdYSlJzd0FWWFMxWHV2eDIxMDk2c2pUcjBJUHJLSXRqYVlEbmRmQmRwckd3bTEtWVdxUUF4aHY3aUF3N3h2ajBqRjd0SnNsX2hJLWVNd21DR2hVRUlxemZHUm9xeFlBb2w2?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2-language policy or 3?: After Tamil Nadu and Maharashtra, Karnataka wades into debate",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUUtNVRJVEQ5REh6Q0RvOWg4WmI3NE1RYXdTOFpxZ2dNNmFKMzFMRnBUQ1lOU013R3hMcC0tYkZkYXlQSGpWQUtNczFzaVppM21IMWxVSkhEMUlScVB1UFhqaUxGOFRDOXhlSDBuVFQ1WEl6b2dMS09vNlV4NW81ZHFieDZCNEZyajR1RWctU3JXUUZXZk9udkp5OFg4ZUFyZ2MtZWV3N3Z0c0psOGZFdGtxZjZXQdIBvAFBVV95cUxPcU9acVR5dWtlWG5MTkxvWmt3OUg3X1ptd0FUWFZ6RXNldGFoQ3oyekN2TXJBT3hEMEczbjFpajNPcDdmWG5rb3gtb3Vvdy0xSmhfeGJFMnJtNWl1SDBjeWt6T0xrTnUwalFZU0h5TmJHNjQzbDNXZGJlSXpiWW1OLVg2OUl6OW04UFFpWEFLQzQwWlBDTUlpR1JrdzFNbDl1ZFpXWEhMWUVsYjIzeWNlVEc2bUR6TzkwVVB3Qg?oc=5",
+   "published_utc": "2025-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Agricultural Schemes in India, With Tamil Nadu in Focus",
+   "source_name": "Farmonaut",
+   "source_domain": "https://farmonaut.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUl8zVjBvY1hMeWxrd0pubndaMHNuWFJvSDYxZHRlVjB2TmdJQ1NfbXROWHJwb1d6b2lvbmkxQmw3U1dyVGxfb1E2NV9iUVZWYmhvc0lfTHhoYTZtVlBKOTV1RlhyNEM2QXVaREVqY1BFcUdrV3p0c1ExNXNHeHhUeG9ETnA?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu HR&CE minister defends use of temple funds for education amid EPS criticism",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTEFseWlWTkdEZ2pvajFCMnc1OGJ5U25VRnowUllheVFkVjR3OVA0QWlYQnRBOWV6Nm5SRWdYeENpZHptSkdXQTVvVUl1dGdvM0NTdFdMbzBQdDQ5M21URDJ6R19qQWY1VVhhblE2dmNqNm45X3lhaUs4NEgwTTN0elRvR05iZ2E1eml6UVNJbFI3OE9DbGtxY1dDLXpDWU81MnpOa0ozTGxjdjRsTGEzaEJ5eW8yUElqOHRReGdjM0phYnVkeTlsU291STRIbmFSdFllaHpsRXlIRnhVcTVMMHoxSDFsVDJObmdVOFkwUXJrNC1G0gH6AUFVX3lxTFBNN0xrSnp6Y25EU016NGRGOHp6ZXRfd08xMFJDd0JkZjUyNThBTmN5eDNFVVFxWmpHXzdPblktd2tYU3d0Z2l0UEp5dWFCbE9UdjRVUEllS3JSMUc3cGNUbUdjNlVmRWR5RkkxakJkUFdIWlFOM2Fyel93aHlPNlhvMzFNazc4RUhXMkNmZ0o1dXNmTHJ6S2dFMVIxSGFXdlRfOUw5MWlLSVZhZkpSRUZCdXdfSTdYd3B3dzZYckp2bEd2VmtPa2NzU3Q2c09rVjhGcEtrckRCYjBMbnIyUHFBVldhcXRWbFlvTzBvRTNxdUxkd3lGdkU5d0E?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Railway Minister Promises Level Crossing Upgrades After Children Die in Tamil Nadu Train Accident",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWEg5dlpiRnhOTnVTZXNJdE96RlhTQkxKMV96RDJOcmtEcG1NYlJPWU5vRXIzOEhOeHBUQzBfVGZubFBjUFRHSEYzZE1uaW9KbUxiSnBYdzJyMlRqQ0plUWVLaTZreGN4b3I2VU4tVEg1bWtwZjlDSVJlU0tRdFlVc2ttOXJfRTNJMmxIWFlkd0xVc3FKeXdySWgzMF9ZVTB0M2FFcThGODVPLVhMWkF0WnItUHNDZ3pISkpjR18yNXZ4U1JDWWxTRGdsX0Y4dllRU1HSAdgBQVVfeXFMUEw2MkxYblozU2hRZ3E5bDBUdnBuakp0NzhHMTUxRE9DMzh1MzJSZHIyUk5CWE1qNTR5MTJma0czcG1GekR1ckFWTUJKRHZnXzBST3RtY085UDRHS19oa2h2bEYwY3p5UDhiUmtKUC1rUlZBWHdIWEdvZUd4UDRMaHhqd1V4OUhIbmRFVlJQYTRzQUh0bHRncEZxYjlvUmQ0WC1kV05ROGREZXZZcGxNWGpJXzVkVG9ZakpZa3k4RnhWdk9FbUtCc1N0dVo5eWV6Y1JYQVRYVVhW?oc=5",
+   "published_utc": "2025-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu schools to display ‘oil, sugar, salt’ boards to raise safety awareness",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT3ZlcWZHdVJxRDRvQVhXNW1YQ0Z1MHZwREUzd0FmNTh4VzhsbDVIRWR4eVlqSm5fZmwwLUUyYm14QTZ5RTZ1RjNDMTdoaEx1QVdiT09Md3h0Ykgwai1iZ3VBWmhLcW1SMmRnTUZ6eml3UUhIaWxOdFJ0WHN5bFVxdUJmbktMaTM2b0NGcnZVeGZXV3FmaTNQaXFETS1tbGtIWEo1MTUyT2Nfak1rTHZCNTk5dUI3WUxVT0Mxcjc0YzItUDJ5dmU4WTN1WWNTYVk3ZV9HN2pLcGM5SDdUODg0UXJRUDBJd2hoZndaYjloWGRILWxXQ0VkLTln0gH_AUFVX3lxTFAyQnA3NWRybW9RaHIxVDJlQ2F5UXJqWlZhSF8tUGdDWlI5MmVBZFF4OUQyaWlJREh2X0lqbnN3cUI4WHZsNEFVRk4zcGRsclJNb2Z4enJOYU5wZTU3a3d3UmwwQjNuSHRLcEdNNW9lS1dVU0llRElYeWt0R0lRZ1BsRHh3UXhYdFEyT3IzcWRyMUtiMjVTbnhkWnQwSnNSSi13UlZTN1RLTjBtMUY4ZlNTcW9GTHlFZ0lDZTNWRGRYMXpFN1MxdE5YZTVwQjJCbmlWV0hPekp6UERpanl1aUs2YXl6ZU5pdVF2ZXJ1RW9ZLUpnQWxxWmdteWs0NTFhdw?oc=5",
+   "published_utc": "2025-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Delhi launches new online executive programme for AI in healthcare",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMURNNEVvalRvaUdQSjRfejFEYmtraXRtU1ZDT0xndnJCb0FyVVI5NVRSYkxfWXJrdEVTNXN0RFpWQ0YyYmRPRHZCS1RzaWp2Rm9KXzVuX3NPc0s5QUpzWEV1TkVZTzFraVZCajZkZ19BV3Jsa1FaTHNjcS1URVd5bkZFQ0hDbV9IR0FPbUhtQmNFdVVYV3owLTVBNzVtNm5QNHlLakFYU215U2pXZlJrTkszQ25maXRsQlRTOE5qU1VzSUhmOVNOd2NMS0TSAdABQVVfeXFMUGYtYlZvYzZiVy11czRNV2tmNUc5V3N0ck1pX2QyOG5id3QyX3lETmhMUTVoYkdqcTA0TTRPVXVzalhNTEsyM29fTmRCRG5VUEUyclNQTkVLakJTS1ZBeG9XLXJSajVWakdYM2RvcVBFV1dpa1FQdk9vZlExZDJYYy1YaTNkWnJSWWxfRDBLZklsbkhxMHJ2MkRpaUREeEE4THBFWXVhenhQMklhM2xUaENGbmlhSUxpc1F0TG1LQWVpX0s5eTItendidTNSbGRUdg?oc=5",
+   "published_utc": "2025-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

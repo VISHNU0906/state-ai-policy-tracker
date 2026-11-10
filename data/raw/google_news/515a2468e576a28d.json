@@ -1,0 +1,69 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "MoU With Microsoft For 3 AI CoEs In Maharashtra",
+   "source_name": "fintechbiznews.com",
+   "source_domain": "https://fintechbiznews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEpuMk83Tmp5RmJCbEF2YzdPNkxrUGYyU1JHNzJwazB5bE83dG9ndUxXdnFfX0V3RFFGaHpMa1pFeC0yb3QyM3dRaWxSYUl5dlR6Rkk2WGFFVDRmRW81SG4xWW5LZWZMRFU3eE5MZ3pKNFpYaVQyQ0FNVlhaOHcwUFlWRU9scTdmMF92VHkxenVPeWZSQXpKYg?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 7.20 lakh crore budget tabled in Maharashtra; focus on use of AI, maximising land under irrigation",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUjZobTFlblQ5YUpucnN2TGJEa1NwdmlBSjByajAycWNKeW93MUQ2bGJoSjd6a1UxNW14dUMyNnFXandtWE9RT0JLMUpuMU5fb2w1bTRCWS1DSDlEcWh6dkNDQmM4S3JZa0tsVjJ6eldYRUNyVVV0dE1fTHo3ano3M01SVU5UMmo5Mi11WnVFaHY2YnItRzd0bklKOE44dDJRZ3RpYzJWYkJYN0xqSU9QUlA1Qm1RZS1NTW5lTkZhdFppWGJneHQxazBIZlN5d205SlF3M1VqUEw4cFJzekNPX0VaNNIB8AFBVV95cUxQNEF1LWV0OC1VelNyamd4cjRVcW9Ia3R0SEZzZDJhbHZTVHJLaVZWSDg3bExhMVR2bk1PMUp4TTZrQmhqVlg2T3BtVWtONTdUTkl1YUlPSWVwQjNLME5idkFZcEJYTUNCUHVFNEZnYlBBT01FQ0RBNXdONml2U1pvOExwS1VCQmZFNDhtMC1vMHRfM3NMVjFKTEw5TldjYkk5X3pyVy05aVlSTzRxQ3Y3b3RKQnJVYmRheER5bnpkTlNuVTlzeDF0cFl6eXd0YWdBN0VxaTNVdGs5X1drOEtvQ0phNkxDWFJKZUh0Sk1wTnI?oc=5",
+   "published_utc": "2025-03-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Most of them 50 years old': Maharashtra govt offers transfer of development rights (TDR), other sops to",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeVEtQUx4YXZwR0l2c3VNX3JWRTVFZUw2cndNeElhbzY4RTQxUHZzcDJuTThFWm9OVmJGaFBpOGhKU1dHd0RYbVZPVzk1eExKb1lVdEw0M21vY1F3Y1hBT2lEZUJ1OTQzWFlma1MxbkEwRnZFQWFJSHNmLUNzUnZzWTI3NkJZM0wwQ05jbDA1dmFJbFB4aFFMMTBiS1JhWWtkUDZhSmE1MV9CaEttZ3dWaFpPWFJhUjFTeGNvcVhxZ2E4YUtHa2VtcFJzQkFBTmxQWmhzVUp1Z0c2RFMwYm5uUjBXWkJkSlN1NGfSAe8BQVVfeXFMUHNkVENaQnlVeFdFQlJZNkpnVS00dDYzOU5kRjRXM0VWOExKSXc4dktOV1ZuNFZ5NmprQmtURHRvNzRha3p4M2o2N2k1VkhfOVJKU1JhMy1meko0MFJENjhKdWVMTDV4NkJ4ZEFpMGRFc2xIZE9QRUpxOVcyTl85azltMGZnZ3JSRWxlb25jOTZrNjVLTXRiQ0JKUTFZVzBaSW5BdGhsZDVObU1hLU9PbHhBRVhRRkowWXRVX3RNTktDUEtQcWpTR29CTDNTNmQyU08yanFHdFUwRWstUFpvYUZMZ0w5Q2hjSkVOanNDSW8?oc=5",
+   "published_utc": "2025-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Here’s Why Maharashtra’s Plans for a New AI Policing Command Centre is Concerning",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWJlSUFQaW1zeE9sZ0h4S2VlQTlfWnlwZEUyRUFPc29mMzJnU25TdlJoT2lmdVF2VVVVb2ZjTGJ4NzNHRXE3RkR5MFZzRXIzRlQ5RkZ3QmU2WEtQQWY5VW1kZUJRM1ViT2JTeVZCNE9Oek1jNzExNjhXMHFrWU00VUlBRQ?oc=5",
+   "published_utc": "2025-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How AI is Transforming Farming in India: The Baramati Experiment",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmtaSDFPcGdwcm51a2NIdEJQMEpXaWlRTmdkNE5tQmJ5aEZNempDS1A5WE92OTJoTUZnZmNxai1TTWpwVTJPdUc3TS1vUy1qOUtOSTZpU1R2aGNvb1R4bnFzV1lHU0EtWXNxclMwWUs1dHJOTGp4ZTB4XzQwaXZHdlNyMzJKX3hEQ09LR1ZDRzN2UWVvYy1tU3poMkFWRDdGQzV4R2lWY1pmZzVNbVh0cmFCclU4RHFUSVZBbtIBwwFBVV95cUxNcC05SFVneXpfSk1QdS1JbGxmMlNiNmplMkJZcWgzYzVESW1VMThCdjZIWlZUZnNRNi1fZ0p2VE9RdVRtZ3llcDNJSFloMk56RnRob3FLY1FaSVBxaEVmOW0ybkNnSFNTZHVRSElSYkdOODRtOEc0WUk1T3pCYTNtN1NfQkZjcTdaMzhrTmxpc2lTY3h0RG9oZUJjTEp3VVVVOVRFUmVVcm5YUGhNRjJpTVh6TGlqa3BrVW5TWm9iYmZHcE0?oc=5",
+   "published_utc": "2025-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Get Its First ₹4,500 Cr Greenfield Expressway From JNPT To Navi Mumbai Airport, All About It",
+   "source_name": "Curly Tales",
+   "source_domain": "https://curlytales.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZzBwc1p6dWZFMlYxcEp4ZTdXRERieDVOUjQzaXNlWnhQMndXb2x6WmRJcWM4cFVOb0RrOEQwejZMQmc2MnpuZHh6RDZ3NE11MUowRGxyQW4wM1B6VlZuR2NueHItR2tLakh4US1ncGFrYjlnNGY4cGZWTVd4WWVhbmo0Q3lXRGV3RlpVSE1Fejl4TUUtZ1VQMXNLX0dNWkFEUlJTR0l6b0VKc0x6bk5fbnRRb3FBOWo3dDk2N05TeDlHS0xiaGEw?oc=5",
+   "published_utc": "2025-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Fadnavis meets Bill Gates, discusses use of AI in agriculture, health",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmtuR040Vjk2UnNoV0ZMdldKbVJleXJnZllDRXRDQWc0dGl4cWcyWFo5ZWE5VktuN2MzcFdkbEFQbUJham9EZFJYYURYMTBBbTg3SnpfSDliZlVYbkpQYU9KWXBiMXBHVmZIV09kUW5mZkM0bkxLbFdSMjRVckV4Ym5LWnlfRjBJeUIyS1VGQkVNSE9Hbm93OVk4UF9wZGZOeGZpMFdjNHlpTzhKMmZJMG5vY0xaNmZhVXIzWnUzVGRxUkRsdGxfNVYyVFFUbTh2TWI5SUhOTELSAd8BQVVfeXFMTm5aZGlmbWpnOGoxb0VrTmVQREhYU2tfS0REV2RpSUFiY2llckdBUTVZb19lamp3M096djcwcU14T1dFQjhyTUNNYVJlZUdyZ2VlS2ZqanFnMUkzVjNkSnJZNnFTZ3lZTDBMMHl3MkF0V18yM084QXBUYmpkSDlwdGh6U3QzTDVsbUdpUWVySzFCb2EwX1pEZFAwN1E2aEJVQjdwTHFFSUcwSnQySkE3bmxSd1A1V0FHeFRYQTlLRmR6YWlrRU1HWGthMHpBZmNVQVRFVzlLY09aUzU1ZjJCQQ?oc=5",
+   "published_utc": "2025-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "1,367 cr likely to speed up Shirdi airport’s new terminal, night landing plans",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSUdHbkFqY2Z6YjB0cEhKc3FUMWZpWHMwNEdTYnRzS0lMX0NKTkNhRkJ1akZmdWJxQXkzaDk3SUFCd0JqSmwxRUJsOHBWdUtoR1lvaEVic2ZoS3VJYnlCQUtQN280QUg4UGpsQjMwamI0MDNFSW9qc0JvbDJVblNFTnh2aGUwdW52RThHbUJLTWtjbUowZEpaWEltOGxPQzJydW9DYXd4SHBVNTV4eFo1UUI1eDVCRGtWcjVIa0M5dWExdml1ZXg0cUtBTDJIX2hEa2kwbHlvM3ZCdmRvMTlfMdIB5gFBVV95cUxNUUhTN05TV2NfZVFuOWh4SHFBSDZFYkYzZDk4NEczOXFRbGhJWGdnZFdUdU5xYmdlbjlhUVdkQlpHaGd3eW84WFQ2NW44eU55UTNucHVhdnBBWGdjc0pFS1FveXAtNGItRzdfczFVSzRQdUE4MXY5LXY4VEpneFlqcEpsY045SlZMX3VjSkpDbzAteW1Rc29OYnREVDlsbmQya3hnaEUxMW5DTXFESGRjMWxoUEpsZS1Bd3dsWVVHTG9NTU1pdUcyS1Nnd01TTlo5RFQtMlV4cDVhOWdCRUlPaDlpU3B0QQ?oc=5",
+   "published_utc": "2025-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

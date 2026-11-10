@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh High Court Raps State Government For Shielding Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGNmZWVrTTBManZ0N1NmaDI0VjI3Q0gySngzSXlETGV0VTlOdnNKOW1wR0VwcWd6UmZVNGJDaXI5amE4QTRfUUtTYUpXQm9pMXZxMW53MlpsOU1kZGp1TDM3V1ZGaW1kTXJTdzNYNlJtNGJKLW5GQlNaeVhnR2RJQTNJRUJGWmdaQm56SmN6MG1uUk9GNkY3NzU5NjN5T0ZJSHU0VllkUXMtNkxWR0FiT09ETnlWRVlNWXdUSHo0a0QzcGdHUW9MRllR0gHSAUFVX3lxTE1JYngzOEdpQW1mUkFHYkJJNjg4cGVFUzFJRUI0ODRrNUxKRmFyOUROYkxsUHNrNVh5ODFuNEFHYVJna0lGTFlEOHNNZmhUVktMTzJOR3Y1LVhlQ3kzRVU3NTk4eWlQcEVCdU5raEdaV3RscS1XSkh4c3JqVGVVZF9PeXpmdUQ1X0V0TFdqaHg5VWVmRkxXbnc1Njl3MGE0Q2VjaHd4LXloNmkxMThLN2ZSemtaRjB5SGlubjNmM2RIV1E2U0IyUFhYTDlYRWc3blFMZw?oc=5",
+   "published_utc": "2025-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP to give '4th-time pay scale' to 1.5 lakh teachers of govt schools in state",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT29PS3dya2JWak1hbTlWS0FaVWFkUWRSUnVlSGFmcnY0eG40bnhLcU1PbTFPRUVyZ3FfSXo1aEIzMTFBNVAwVjJOR2RyaWNoSGs4d09RWm1xMG1zNmVtNFdQZUVyUmJDdDZYN1F1dnpiQU5UMlJsZldpTldwVnZNSGZHRXNKZ2ZoQTdROXYtUGdTbFlsdkJDQlktbE1ER1B5dDZqUWcwaGVXWkM4YklMdWU2N2VqYWJObUVqTTFQQ1NCX2pUM2NVbUVWVS1SRkhfNkhONTlhdG1SOGFyREZXQTVfQ1I4QVpSeVVVRVZR0gHyAUFVX3lxTFBBZnVFcXR5bVoya1VGeXVDUVVlX1ZLLWoyWlB5T3E1NXNsaG9RbW1tZEFSaTJZRmU5OTliWnJzYWdhNkVFYkw5UDlJTjVrLVlobWxRYTBjc2hnckROdGVLTENLR2g4elRNYVRCRVhMampTVVo5RHlIVi1VcTFCdVNZOXQ1ODVjLUduOGtGQzJwVjcxem11UmlGejVmSGM2NkpaZThXaUdiLVJSVlBjVG5IZ3d3OHZ3dG8yWnJaOUJsV1BacWtOcUxfNFpVNGc4QUhxMDNLREZ0RUZQMEJ4NmZaV2FicWUxdFFSU1hsaEF0MWRn?oc=5",
+   "published_utc": "2025-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Central Water Commission (CWC) Organizes Virtual Workshop on \"Technology for Efficient Water Management\" as Part of the Sujalam Bharat Summit",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iVGMtMDJoaUJvVkVNRVpWejFWZmRxS3R3cTlLVVlhTjNpOGlwZjdLYm5jQ2ZDZmMxcGg1R0lVME5ibUVzTFZYZVI4cUVQNUhGbnNxYnYtRy1kRFUyQkk3V2xjLTYxeUpL?oc=5",
+   "published_utc": "2025-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Transfers 20 IPS Officers; IPS Mukesh Kumar Srivastava Made IG, Human Rights Commission",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMC02Tk13VWVxaC1tbFp2bjVXLUoxUkw4VWpmN1NaenBvdWpkNHNkMkdhakM0N0xWVnB2YjI1VHlOUFhWNHA5SXllSTJzam9HdExPUTJZN3RIa0tCSU8zME11TXhrellsb1A5clg3SlFJemk2YkhTZU5RXzJBZlBua0I4aXpiXy1PQ2Z4U3VPT0FQUHVmSk1TTUN6dE9xWWplcEpHa3ZEZUVIdloweU1FVGUyN3BpUGpZdmNZOVZ1SzhlaktNZnhjUUFB?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Mohan Yadav to provide e-scooty to 7,832 meritorious students of MP govt schools",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNem1Gb1d0aFY4Q01hNGJUc3ZSaS0wbGZXU29nUjJ1dS1haTA2eWphLVdmRXhQOFFHVWdQd2NXNmpubUNOOWkzYlBXaFp1N3RFR2tZRHh0cm1yMUZIeVFLSnhRRks2Q0RaWG44bnB6Y0F4UE1UZmx4U3d1elNKd1Z4aVo0d210Q3BMYjBXMFYtQVhYbGFNQWZoSG1HMWFZbGU4N2FheU5qX2RuVjJnQmxfa09rOGJ1d0NSYnBEU1Iza2t0Q2o5QTd1RmpGUXpGbmRSVzlkeGtpbkF0SjJwMzktaktQR0J2ZndBSXhQb0daYXRJSkprZ0HSAfsBQVVfeXFMUE1FTmMxM25yXzFaRnptSzUyaVlwZW8zMU01LVNEWU8zWkYwNnZIdFJLLUVPbnZYb0k0aEZDVl9UU1ZIeUdjaDJmdnI0STlnLWNjRGdUci1kc1B4RDBTdFlXX2llVi1MUW10R0lGUXNLSTM2aEIzSXh2akRrbkcyN0pWZnQwa3JBLXJjMDJzUTQwOVNMN09yYnRlYWJFUjJvdGxpb1haX0FuVmw4TnByc1hBYlBGQlN0bWJVQWVlNXpiTGJBVk4ySkR5UVI2Tmw3SjZQbTFxejlSWmlxamJKek4ybHM1NWpuTG5LMEYyWjFKbUJCd0ZReTNqSzA?oc=5",
+   "published_utc": "2025-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TCS to shut Bhopal office after 13 years, around 1,000 jobs at risk: Reports",
+   "source_name": "People Matters - HR News",
+   "source_domain": "https://www.peoplematters.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMElwMVNxcVAxcGFia3ZHajJuQkJCdmJIR0wxQ2VXamoybjJFdkctY3FjV0htX3B5M1VlLVNpOUtTekVYQUtUaHNUZ1hrVjFvX2VoRmRXQTFFaXQxZ0Y3bzFJUllVYWVxZFVGWHhWSTFPb3ZYVkFBZWQ2dGtaVzVMMmdZendYLURpM2pGRkNWdG9BMjZvZWNacWxBMGFicjVKT2lSaVI1SzdMa1IzVW9yb2NIVnhwMVpMQmlfUW4taw?oc=5",
+   "published_utc": "2025-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi Lays Foundation Stone Of India's First PM MITRA Park In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFkySVBFck1TWEdaOURneTYyLWItVXpWUVFZekVWN0NudDlqbVBsTjRqNkRXZ3hxaGVSVUxGN1FjdzBoaDk3ekQ2YThhYlpTVEZ3OHZUSWU4OENDeTlmVDF4WklBM05vdmxWOHBOWDhERlUwZkc3V1h3b2tTUTZpOVVfOW1oYmEtVkVZd0ZaRkxnNkxRQVhUS1JHQ244LTBjRVhEdVBGcTZCRDJIY3Zmdjd2LXE0M3ZrdEpsZnlod0R6QnBFUExfQ0xGRWhRc25FTV9jLdIB3AFBVV95cUxOVkhFdWw2UVFmVDhsN3pHYnYwazctLTNOQURXTDY3TTZseVZRbnZReUhuSFloR0N4ajRabDdFTzVVS2txOFRUb2pndGtYQ0ZsSjRvZnplU2p1Vll6R2g5M0REM2p3Nm1nRGFtMmF0RUlydWlJcVdDWHdqOWxtWnNIYzRTXzBwNlFhVlp5cUVQSWpQSjdnN2N4Rnh6dVI5NWRMY05PTU9lSjE1WlVTXzg1NjF6aWlFcVdEX043QWxPTGU3bzdmdHVlN0tnVnhiVVUxVFJObS1lM25UTGYt?oc=5",
+   "published_utc": "2025-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Transfers 18 IAS Officers; IAS Sanjana Jain Made Additional Collector, Maihar",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdi0taE5WdHN6N2NQak93QjdsZHFBNXU1aVl3RTJieWgzVWU2bEdncnJJcUs1MzlEUzRzLUpFLXJHYVRHMHAtZHAydWtDNndZd2RCdGw2MlRiaU9ZUkFZaDByTkNLMjZtcGw0LV8yd2JZckFyaXNxVW5QUGNGOERjWWNPeXNUMF9EeFR1ZVI4c0dzczJQVVNCZUViMHJyRlpXa2pRZzNVVlEyNzJ3NDFXTWRLZjdxanFHbUQ2RA?oc=5",
+   "published_utc": "2025-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "“By 2047, India must be healthy and educated”: MP Dy CM Rajendra Shukla",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYjhlRjk1R1RTZlVjVTlBT0hPSE0zOWNIdlZXbXVfYnR1LWg4Y3B0ZW9OSm5tcXhOaHJwQmxZejZjZTk2ME1TRGtKN2pqd3RoNXNvMThOM2JQQ0NfMi1lQmFUNnNmdXlES25aUFgxMG1DR0ZMblhYTlAyQmVKcDd6Mi0yZ0Z5TlJkdEktUzVzVk40MVZiMkFPS2NScFVIZ1h4aWwxdDZxeF9FZXJMUTNacmZOdmQ0cThCN1hVVEZPbVZMdWJxTlVzUW03MnU3MlFvZEprZ0M4YUNNV2lCSWJkNmsxczFCcDjSAewBQVVfeXFMUE5nYnBUZksyRUE1SUlfWEoxZFpzWUxEX2tVTWZBRWpMRVp4SVlDelJEbWw4Z0dzaVNKSkQ0RzN1T0ZMd2twSWc3eENuSkVoTzh5MDVMUHltaUltanpXM0pEVmpJR1hwc3g0djVJYzNlZk5VdnRoVVRKWWE1bWZtWEhBbXNCZ1VoUzdtY1c0ck15bjFVR0duMDk4OVQxZmJ1TjQzVExUWWM0TWUySDZYLTVpQWtSbG5DekhQbTNlUlgyMVc0MzhPckQ0M2ZoQjdYamlqSjkzeENyeUpsTzdlb0NJdzRWU0Q4aGFRaVo?oc=5",
+   "published_utc": "2025-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Government Hospital Sent Body Home In A Garbage Trolley",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmdWZnN5UThSQ3BqYW9FdzZHUEltamNna0FHQ2VyZFNfX01EWEpiNlRkd3NZR1lYYUc4ZDlSelFZc3NaczgwT0ZhWGlhcFdONFlhREJFUDNsNzZDTk52ODZHU3pGMVg3b0dTWHVmcTZxaWRmZDVmbkJtX3NQVWNtWHNiUW1QUXp1TGxyd01vczA0MF9BaXl2VzZ2RmZ2SVcxZXVfdnBpMkVFZEJvazkw0gG3AUFVX3lxTFBTNFdwMjZ2SHdwWUJWRG1GVGhfdl9lTmxDN2N5a0pFYzl2QkowRjlhZGZlZkF5MV9EWHR2b21LdWJZNk1sS3U3MFNEUkNmcm9Tc1NUalZTeXhXbGZjeWVHMXhSQWxpTTU1dFZwdV8tSzBWYTVFSTZMZzBVazlhMGtvRmJNQjNld2FBazlqSk9JVkg3MGVVaVVtNVBNOFpmel85N2RYbjlUSy1wVnZ3cFVzNHdLeXM1VQ?oc=5",
+   "published_utc": "2025-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

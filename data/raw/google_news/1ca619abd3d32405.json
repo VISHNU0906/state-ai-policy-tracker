@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "Mukesh Ambani to build world’s largest data centre in Jamnagar",
+   "source_name": "News Arena India",
+   "source_domain": "https://newsarenaindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUw1MnZXR2p5akQ0dnAwV1JaaU1VTUg1V1NQbkxaQUZ5eDZXcFZCVzB5TDZqRUFVX0U2WTRvdnVKVEVIaVFzUWM0a2dpcGl0dzBOMHB2dUNKSk1MRjJnX1FraUtYUWJWMjVxSUdneUp5WGluOXQ5b0JGMVlreDA0U3YtVXBoeHhleV9sUVQyODFxbU01OTVhc3JqUGVpNFFZN1RNYUpn?oc=5",
+   "published_utc": "2025-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Building the Future of Technology with AI city in Lucknow",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkhtTXJlYVZTZTV5M29NOE5hVmxUSW5lMmQyaExTYkNnRXBLZ3lCU2R1V182OGRsOU9VTE5fV1ctVnZ1ODhjaTlfVWxIUENXMTgtZ25pTGQ3WTJEdDNieFoySTJpZVJHS1IwSGpxOGZpT3o4akxNYWlGQUg1ajVYdGJZM0ZySzhjSlpfNmVNN1dzVjNuZVJlUk1Ddw?oc=5",
+   "published_utc": "2025-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

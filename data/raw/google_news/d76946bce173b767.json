@@ -1,0 +1,301 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Karnataka CM announces India’s first government-driven AI University",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnZvWEtUTzVlLV9rZFZiMFhFQm1xWUdNRHc1NWZKSUJpUmhhaHkwbkZjTmpBWDFCcVpTRDBpcTFjSHFuU3gyTU05Ny1aZnAwejZDdHhDb0trLTZqX0E3Xzc2TklGWF9Jd2o3NjBTcV9TVUhaU0Nvbk9PZWFsemtRRDlyYzRwSk5jUW43RDFXeWxFMEllS1Jwaw?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to roll out comprehensive data centre policy to support infra requirements of AI",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWtNQnEwSlEwUDN0Z2pWcjFmQ2N1TWZlNWRzaW5OZ2ktQW1EajhxWXJFY2draVh5U1JrR19iRHJneFl1WkVXdmRua3gwN2E5VVlWWlMtQ2FaSjhRSGdncENPNFNyOWtLZm55TmU3NXN1cV9lcEdCbmxIdk5FR0p4M1Jlcm9fbkx5MDNPVHhrLWhsMXZFVXFWbWI2V2hGd1dMeW9USlR2dmVUWUU2bWhnWDhkeVJ6YXlySlJXeV9xdUE4ZjjSAcgBQVVfeXFMTy1RUjZYUjdaNmZRaTRNaUlZLV81SlI3SFREQmZsb214V0UtZk9Qa2c3Q1RWYndlbHNaeGstSDdnZVh6OE93alBQWmV4eUVKZjlkT1liaGQ2QVlYS09HWXVrQ21menF2T0FtakV6cHRNNUJkLVoxV2JvTkpFYnNOYW04SHAwN0hFVE1RWUFhUEd1Q19XZkZWbUk1dVVaU2FOYXU3S3gzWlhiSUVGVkhpOWJuUVN0NU03cFpWT1gxT1pSOWUxTFNrQ2M?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka set to unveil data centre policy",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU0dzZ1pzUVVCV05BNnJqaC1jd3dmTHBBQ3FIMVpYcUhqUjlDc2p2MVNvYzItbmNsSml5ZGlrMTJQVFYxQWdleGVsazB0VzhaaUdoQjNCelVXZ3l0Zl91R0FKekF2dldEZW1lYnlfbEJwYXEyakd6cm1TR1g4dzZIUGJYUl9fOW1lLUcyRTNsR2kzQVZLSm5BWHVQQThwZDNONzRZbjYtSdIBtAFBVV95cUxNajc0emdncUZUTWNLXzFTUnFJZ0RZYmk1OWpfemwtUFI1NmZja2dSMGtWRU56SEFGbndqM1dhcUVQbXNVMEk1WHNtWi1EUEQzYU9OVkJoTDI5S2Y0ODlJVUlORzVnbGQ0OEVFXy1VazhmV3E0bWlBVTczRTBYd29FVDYyUmJjQXpGWi1rTzl0LVRLQU5COGRiT2NoLXhPWWhGWDh1X0dZUDZBQ3ljbkZuOEFHWGI?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka eyes Rs 60k crore investment under new data centre policy",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUlVcG91ellxb1o2em9mT0dTMHN2ZmhNYjdvQ2FMcFpXbzVEUFJWUjhKLTVjcHFxSE5FNGpVend1SGVrRkhFWFhNRmZIY00tMWhXQy0xY0UxMXprT1hsVmg0SUZma1c2LTVsc3JtVnk1TDREYV9zOG56TEtxYl9BdU5xWWZ4S2x3WDFUS3RYZ2RwT19aNHNkSUR6dlY0d29XQlMwTnVncnhiaE9MdXVQU2tzUQ?oc=5",
+   "published_utc": "2026-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka CM announces green data centre, plans AI university at Google I/O connect India",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdm1PQUdmQUNHTHpERmd4b0NfOTZSUWNvdm5nMDlrb0tXcGhYWW92My0ybUptajlHUnhzY1R2bXJORzhSTlpXNzVYTkRqWGQyV3JJSlBWd2ZYWjhFa3p2bk1YWFltWUwwOWpsUlZWR0VGS1FXS3dmd0FiSHgtRGZkdmY2UHAxVlY5UURhVnh4STBkaGp6ZEEwN3BsdDRURUk?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka will establish India’s first govt-driven AI university: CM",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQkpydGxPNm0tcERGNGpoOWVjZXVSMUZGN1dHQnBqS2JfLWpVSkxvWjlFS3ZxbWE2M0RrZVp0NzhzTkE4alV5eGF5TDRGRDJtVmhsUmxlQXB6V2VBNk9Ic0lwQmhRZF85ZjhZVU56by04eG50N19kUHdPSjdJV0xONWloVktad2hIRVBpcVdnNTJJYk1RaWt0RHVhUTFBTWN6WkVLX0JOT29qYWE3N2pZWmlZcmh4MXdjTFhXSm5hOWwtQWdnUEZmR1BJVktnS0hWR1FGNDRIcEw5VHFIWGxzUTU3ZFJZWnFtU3VUdVVrN01mcVphb1NlNWFDRmdnaWNPT3fSAYgCQVVfeXFMUE45U1ltMGZ1bUxQcDlteXRuOENRemhDcTJ2alFLVy1OeURFV1ZpMjFnMG9Jdmk2Q0NpbHlUSk8tcnhpOGUxd0xabnI0RDVZb0lqamxWYWpfN1g5NFlQRDRIamdKbUVMYzB4ZlF5Smo5MnRXVVFJUzgxSUV3TGhTZF82Q25mY3dMY3hBbGJpTG54RlBYSEMxQXA3OWphNTRaZk1aWHRrMi1KcVdaVGdhZ0pxak1Ka2tPS2tfenJ4WWdneTRiV0Z2RW9kdF9DeTBVa2hqc0N0R3pVVUo3aVlyU1ByWVFOeXotNUJ6NW02UENTWU9jNU83M0hxZlFsenFuNGRXWEN4VHBH?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka planning green data centres, India’s first public AI university: Shivakumar",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3lIejNLTEFsVHkwS3dHRFNxTHg5bjlQb1NYTDduTHI1WGpoWGRKUFhCSWM0R1hpbUNCWjUyQ0pxMzRXTkhtOU03Y3BLYnd6dGh0UzlGMEV6MThPd3dzV0l0c0lqdVFVQ09SU3BTUWJaSHFLYmNFbDFRZTJ4akRQNmNXN041MzI1VmRaSW5nX2hxanVSWHpKNVVwTU5GWnFqVTFUMTIyd1RUalctOW9GcXh30gG4AUFVX3lxTE9Ma25WSXZ5MlM2Vy1SdFl6VVhLR3BDNVA1QzZvemlIbWc5Y0h4clVubTU0LXkxdnVBY2l5VjhXem93M2gwQWxJa3dsaTZnelE5eldMdkloMXBhY3NKVV9rVVRmTHkza3ZDUU1MU2hjM1ZYa182aGNLS1dZSmJ4aEJ2Wkg4VDFEQ3FaanBqWURrLVZ4dFhycERmaTJxWFc3Wm9yOFV4SWtsX1hmSjVSb2x4eEVzUzEyM1g?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka CM announces first govt-driven AI University",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjdYMW9jVW1ONzBVUjFNdVRQQ0JxV25jOG1id2hHVi12TTBkRTlTR0FzWGRTVDNpZ1JxUEV0bkROc3lobjZaYk1KU1d1UGhQckh6RXJSVnF6VTQ1Y3ZMM2EzMWxERk4yUlNKNXU3RDBlR3MwUzZvZTl1Q2h2a1FlREFTNHZNaDRiODYzZg?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to set up AI University, to roll out tech expansion policy in 100 days",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWhKUVJQYmVDTGl1S3dLSl9fVFpxOXdxaGVjaHNGVUU3Y1g4RnFFY0gxTkRTZUQwRU5LU2pHSmplM1RoYVRCWUtNZ3I2MVMzaWlfNzNLSGhYYl80TzBwMUpiekFVbEJWN01VUGJobHhraW9GVWh0WGRtSlRkcEFTd3FaUHVaSGo5WTZIRVp0UFJPVWpxV3daeVZtSkx2d0RqMmJiazRFdC1XUmFDcG5FMjY3aDF1SS1OZHRsdHNtNNIBxAFBVV95cUxNcTZ6cUpQYUp0eDJrdkZXMV9mSzlHQnc1ME5ZWGVZNkRaa0k2OHpibkdBQkVFdVV6b2RlUkhSbVZVanlnaTctak5nWS1YQjF0X0hHVU1YeVJpQ3Q4TmM2YUQyYVlhUzlaZlVDa0k0V3lmZFRwMzN1SzZsSkNZMU1sWU95andMUGFWVVJiYWk1UlQzcTJIY2dDeGZfRHBEcGdGYUJpbE8xMEM1Y0puSGFjUVc2MWZPMFV0bHAxLVhIamd1aWpu?oc=5",
+   "published_utc": "2026-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to Set Up India’s First Government-Led AI University, Announces CM D.K. Shivakumar",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDVXOUV4cF8ySTEtOXhrTThvT0ppN1ExZTBfeUllbFdGdENuUVVTS1ZGVGJudV90T0JudE02Tno2dV9WOGRwb2xKczdTM1NmQm9falFza1ZzdDVxN1dUZENkTWg1cFo3MngzV0VqejVfdTF1WWt5N0hJMDFCVGlSTXc2dVhqMzJDXzQzX05acXBwM0daa0dZQUs2MW5tcXhvNmhMT2J0cGVGbW1vMVlUWEJ4MW5hcGQyUkM4Ql9LeThlX2J6ZFE?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka announces India's first government-led AI University; AI education from Class VI",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQjZxRHFvaW9hQXM5OFFlMWI5bU1YYmVseFJhWnhZSFJEREVwMXhIMmFoTmVBcy1vRXVkcGpSTEVNcWRGQkdNbVRVdExsZ3hSTFM4WXZqWUhWbUVUcHJSV05DMnZaNFdOX3BDUGFFcnZBWTNPWkc3UjlrZmJybHN0allpRDQwbl84WUlhdE1CUzdpQnNFbEk2dURJR1ZvbFlIcEdFUktRX2g5TWg5dmdSSC1zWnJjeEx6Nk5pWGREUEZrX09uVlhzRXBfWXdYMm1aT0tDZjBSUVg3c0dkdnRtUjlZQklpTUROWDhndUtiY3NZMEp3NHd1VWpPSjNXVUU?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to set up India's first government-run AI university: Details",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNlEtMXRiRVNtb0VnWldabU01X1g3UHVFR1lRZnNhamhjOHpqZHg4NFVVTUNCLXFhLWdBLVdfYkZDQTVwM2hqOThkN3BLZC1zWGV4MTdDNFRLaGVDYS1PcFhhTEJ3bVRYM1Y0WDdWY3lwNUNTalZ3SG1kYkE1QTA1SHNoOGpwRmV1RjViUm5MNGFzU3c0LVdJeWM5cG1zaFpwZjVjNEdOZFhqRjNiZXNiZE9oRHhzd19lSkJEdEZVUUd6NFBrV0w3SzBmTHl2UUZSbEJXbnNKY1lGOVM0OUVNSzVnNi1ZUjZOREd1T0MtZW9XbTFuT2Nma9IB_gFBVV95cUxOenhNTlVLWFRaa3dsRFVfbE5nTF9jRWJ6UXA5a0NfM2p0UV94UW10YmZLdjNxSHFzdE5HXzdvMGJFdEVCV3FSQ0N0WnFmLXRIRVFKbEUwOFJGWFRaNE0wZldrRU9BYzJ2VUNnNDdYUG42eGdwc0RKNzZWZTBYNlVCQ0V1T052dFpxdm1zd2RxanFWZkZjU1FJTnZDaEluSGh0V05PbFZUSl9PVUsyN1pfOVF3NDFRb2VmdHlvM0VLRFQyaHZlTUdmSlRXSDZGSGZ6NFViMTFVQ2JVclpGbk9Takh2WlR3UzgtZXV5YlBLZlh0VWdIVDVodDRRNGtsUQ?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka C.M. to launch India's 1st govt. driven AI University",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOczhUSUY2YWpQb1RPblNzY3I4dUEwMGsxcFZUQjkyQVV2X2NhSHJ4UEhyREtCT3d0TTdjcVpUck9qSXpHd21qTkt6b09vdVRSdzBIMGpWVk90cUZEc19QVGlvUDlsRU1qVUlJMVh1dFM5WFIwb09sT1pkSHNJYk1YTUM1RGpjSEVadS1HbkE4c09sTHZaTE1UeTVkcW04cFV5VE9jQlNhdDk0S29hWmVWenJjNk56clk?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Announces India’s First Government-Driven AI University",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODNvbFBLS1dUa2V5R3ZWcVAycDBnd3p2WW4za2ZzUWJSU204RmtUZ3BQdHJXd05CRVE3WWs2dTNPQkdQTFk0MmpqSFc1a2k4OGU2NkoteDlxY3NaMmhPVms4elBjVWFqZEZoSG8xMndxLTE4ZGM1TUZoc1hpS0loVmlxYVE1Um5PLXBzTTVYMFB4QQ?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka finalising comprehensive Data Centre Policy to support AI infrastructure",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ0twbUluZHBmdloxck1WaF8wWmw5UjcwcC13QllMVzBBeFJKRzlabnlkeFVUeTl4NHpwVUF6V3BqSlliUmN5REFNdmk5UWlZYTNLQmxYOFphZ2d1a2RzejVSb3l5a2ZRdkhkYWJuNWNhcU5qYzZFOUw1ZEJFNmtod3EwUGtRYVdoc2lJMU1ScGxrVmk3ZWtpLUhHZTM4eVo1Q0ZiY0V1Sm1Kd1FyVFpNWk5pUmVMMlFFX2ZURl9oVkxTQmp5REt6SXhCLWFQYjRmSjdVUnFDdDI2eVNTekdUVdIB5gFBVV95cUxQYWZCQjdFMC1WUkJPM0R1Ym14cGo1T1BURHUxODdUblBWaTdlbnNJMEJWQUtaVUFpX20zUXVqdFFjUkRudE1zY3F4NjhwMEZCU3VYMnM3dWxHZFhHWEUyT2pncF9VZVpfRklQUXdqbXo1M0pKNlJ2ZXA4b2pJMzdkdE1pQXlfcFl6d2FSRTVDZlVUZ1VNRXZHTDRCcmRPR2JxZ2NDZzlkaEJ2UmJBRmxxVjV1U2ZRcXBHQklKS2lXTllMbGdWNW9qQmJxVHZ2WU1WWEVaeTZtXy1KLTczZXdabHpEanA5UQ?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka CM DK Shivakumar unveils AI push with first AI University, green data centres",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcUtzQzJ5bTFoT3VvN0d5TmI1RGpsd0otV0ZNRzRMV1RxQ3JhUXhnQ0d3ajZZNE5iSmoyOTc0UjZTRFE4QmtkSGRGSkNfdktMaDlrVlBDUl9CU2FjbEhpR0NvbmxodVdKSExkNmNoUWRMX3VlZERKN1hTU25HMXJjaElpUWc4T2NsWFpoYi14RWFhQ2NxUjZYcEF5WkF0WmJxM3lFNTJIUk1jUlQ4aTlBUnVLbm9MSjB4b2xuTXpJbURzNzhfS0xXQWkyWXpjeHVJak1sMGpaM1g0d9IB3wFBVV95cUxQU1VxNXhMWGx4SEk0MEdLSl9ERXEtT0w5VVMwQ21OOHQ0N3VtWkE1VE1Rd01HeG1qNlctdmNacFVFVVZ1U21udk9MLXhjSERWM0lYdnJXYjE5Y3I2dGUyUk1LZE44dzhSeXpvcUFmblh0ZjdrWThxZXMwQm9KYV9DVS1sRnp3OGlZZUswR1hTQnZQa0lyVTlQczZWMjEzT0llRXZqY3V3ZjBSTV9RcmQ1R05lQzV6SkJnY3VGb0M4ZVlZMFhzN1h3X0VVZ09FdngzdGNKNmVrZjJzeTQ4aGF3?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to set up India's first government-driven AI university",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORzlGZWljb25LQklYM09ZVVlOdDI1QWpWUm9UN0FOSXpFZkRMMmFJZ3Znb1NHakVqcEw5dTE5ak1xU1dubmJLbUF3clJtOUFJZGQyV0kwT1dQNUkxb0pUUVF0N3g3ZG5rMEg5YlJoSEs3dmZOVmpiQ2hFWVhhcFVSVVhobW5fREVIc0NPMWZWOFVfaHI2VzZ5dEVnaXh6RXVxY0VmbEZ2cmM4OTg3SGlRYVBIZ01sdjN6d3ZtQnN4VWJZVEdCN28tMV8zSHN0SC10VGQ1WkFHT21oS2kySlFnSjRPUWpNT2_SAewBQVVfeXFMT251Uk9BczZjTXFIRkVtSW15OHRCVVExcy1KSGlyMUdQLXZmM2NnYTlGRDJQblV4aE9Ybl9ZeGR4b08xMWxfNk0wSUJWWE5MRXVHay05YWZuQnl4TjY3aDZBQzAwTlFFclkzektuVDlzSDNiTV9ncGZHaXFNZTJOOVVfeThTMHZzS21JaVVIOEJUdUpYRVlfNXlwOEt1dFE1VHl5RHNTZ1VTVkNRbHQ2cy0takFBaUktWjJGcWhObHNsN0o2b0UtRDZFOWFXV1BCdFQtVGJHTFhrTU5mbUVnX2p0aklZcnRMc0IxMFk?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI university, Google ecosystem: Shivakumar announces big plans to make Karnataka ‘AI-Native’ state",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeDYyS3VHXzJTVXhEWFIxRVlsMkl2MHByRWl6SzY4TWE3QWRlRWpId2x6TWNXY3NmUU02QUxpOEtuOHFlMjBkOUxaZnBwNWdCY0tYUkVmWXF6XzhFQTV6Vld5cGpoNmxzVFlkZ2ZBYjZwRTY0WW1LSVBVR1hPRlc0ZDd5SlVLS3EwN2c5X21weUNMMmEtZkVSYnh3S3JheWtQNEJwU2RSOVZJRV93dENJQlh3OGFEWktJTmdtUVVqbXhJOHRsMUZ4dkV6ZzBsVmc4TEY2bTNoc1HSAd4BQVVfeXFMT0N4dnNlSmVHd2huaDlaU2FxS3hMVGhEZ2VqNHpBSWxMcDIxSFh0bktVbExDS1ltTEwtY3lCM09YLUJfT09Eam1WZU9xSEJJdUdLbVVsZVdRbkNkaHpfMlNERlVpVWJKWUFGdi1ZMTRTY0FFQ2VFOFJSZHRrWl9oSURKMnFKdTB5Ny1lcC1xSktNSERvczk2UHlGSEY4RGxXY1VGbnVBRDJVa3ZWTDhZTlFFQWpmMEZpcHFoQ1JhdjBTTTNGZWNKTmVvZnVRRzBrMnRxd2F1bFNVTVhsYlNB?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to Establish India’s First Government-Driven AI University, Announces D.K. Shivakumar",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFJPVkZycjVoYThDS2l6UnAyVzNjYXBjNWZJbXZNelNYbDVrU1VMUDZ5R25kczBkQlJQbjA3bEZINlhHU0hfSS1fYzQ0YkJxMWJGemQzanZrMUh3OElxbGduMmNzZGNBbjJNMEE1MldCV1BPc3EtMENfU0FKRTJUU1hISWZxUHE0OE9GdzdkSHB1aHE3a2FQNjNodl9SVTVTZ2RCc2o2YnBrNXRSREJwVzd4MXFqdE9UR1JqaEZBYW5yNlVpa2w5Sg?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google I/O Connect India 2026 | Karnataka government to set up first-of-its-kind AI University: CM D K Shivakumar",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU3pCbWFKbGg0bDdlNkNXZFVXT2J4V0F0V0hubUc0UTBLaHI5N21yalcwRGc0VS0zQzh5Ukh4eFlLUWZuVWMzYTZQWTRTMzUzSWZ2T2RQN2FZUU1ndlN2VDc2VmRERGtDWk5HaTlrNmxnSVFLclBhZlFJWVVmNUstUXpWekZmY1NqUXRTZENLQ0dIaDFDM0RVUnhPU1B0dWxRMVNFdDZzZnBVdVE2eEpfY29nMDhoRTkyR21GLWJmdV9YVjZDNTdBcmVGNUtUNzJNbHFJeThjSXJ4R3hNQVFaTklKT29iZ0sweGJGbURlMU1EblZfNDNqeW9wT3JkV2xydDc1cFZ3?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM DK Shivakumar announces India’s first government-driven AI University in Karnataka",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTdHLXRWUkM1V09mVXFSMGx6d251Yzd0VEFTMEF1d1JZXzllN2VwZEhQWkFCazU5YnZPRnVsT3RYV2FqVlVmXzFVYzNqWG1pWE0tZEhGVE9hajBMWV84NlpNcW05a29LenUyUmxpOEpWVS1hMnM4aEhrSGx3aFhiVThUczA0bTNXZjl3alp2NS0xbzRuWUZlS2RESlBjQjdBbG5lR05ISmlaRWZPYVdNQmZxQk10VkpJMFBTQW9MWjhMdHNHTkJYYThYR2QzSFNldU9XenJybXVpaTRHYUo00gHsAUFVX3lxTE5uQVBMN2xscHJCS0w1dnpDWGtxazhLVmcwZG1mYldwa1ZTSmRrT29jNGs5TFVqdTB2c1pIU0pHaGdsdEJLSjVuMTJnb1RMMWZUY3dpdGxVNlJkcU9NQTRGWFN2eHJDS0NkVmlROHZxTzBzY1dsWWFqVkZMakRuSW9vQXVJaTZMX0RIdXZITHhfaWt3WVRpRHplVmJwNjQxWVQ3eEpkLWlwZFY4dzhoY3NPSTZVMVY0bnY0OGRad1NiTVQxUWxJeDB6UExrdG15MWF2UlR5RWNrdnZzMWRRdVdBd2ZXei1yMERNOVBS?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka announces govt-driven AI university; pitches state as global hub for responsible AI",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORUwxWkcxUGNkQWN3OTRHcTVCbDZMa0lIc3ZtZmFOTGowMHNYZzFtZFlpNDdoOUtlcXdEenZVQ1k4U240UF9Vbkd3MENOSVZrcG9zVEJPd3Z6R2VYN2NMRTNvVm5kZUt5U3dXczE0aGJ3MnRSYzQyckZpUjJqY09mLXJ5OExmOVNmX3Ywc0ZJTWNzdWlmdm1uTE1UbHFIakJ3ZEhuY1p2VFpkQWd0SWtZbTRiTmlLOUJoZEpmNkxxYzRTZVgwV3BFX1NPT3N5elhkQkhxR0ljR3FVaWJSUWVfZEFCVlplNlNRT1Y1QlVQUVE5dy1CNnfSAfwBQVVfeXFMTVR3eVoxU3NtTjJCNjZtOGtSUGhTOFdzTXd1SWh0azNsSEZJLVlLM2puVjI5b0szYmU2WTZjXzdGQVI3NDhJTS1wbUlpNG4yX05fcEhBcUlpa3VNWmllN0NrTDh4TzdFQm1vZVBBZ2JNZFFjVzgxY2cyQmNVR0YwNGcydVdfaEJOSGlVdHRkdmRFSHpYRWxDamhST2xLcVlpSGk1Z0ZMMlVocmx2ZzJVRHFkLVdVS0o5MnFrVXZ5THJRYnc2OHNmd0xMZ3VHLTRrbzlYTjkzakJ4TXB1ZFAzcHlpMWI1MmthVUxzUE16OExuQW80ampma1ZBei12?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to roll out AI courses before launching govt-backed AI university; full-fledged institution in 3...",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN3hEQ2tGWDdQUld1ZnN5RHJoVnRHdkdFdVZ2SWI2dHY5M1lOV2tldnFWYWxWc3lDaEF4MXdQQ250RHhoSFJDRldsMl9LSzVidHVGOW00bzliNWdGQU5KekNPT2JEaTJ4NU9iUXR3cnJJZlhJVlVLTERvNHRVelVISlR0eldSRWlXTUJEdDFEMFdPODVhV2xBWGhhQVR4NVpNNkVOQ0lrcE1EeXZocHZrb3Rub0NwczR6Mi1OTnQyMDYxZjRxVFNCd3ItMnBaMDBRaDRnWTJiYVlVQ00wSExKX00xSF9qNzY1SHpiTjktclFxS2dINHUxWtIB_gFBVV95cUxQT0pDcldrWGVrY3k4UXRXak9rVTVyRk9tRTVHczQtazhYNmVWbnJhTHR2UUh1REx6ZHJvQS03clk2bVRBelRVSDhFbUJlUXdxeEtaSVR4c1pfRG5HMlBSMGtCMzRKeVVwamp0OGdCY0w0dk92V0pVM1lMLVQxcGlvbjdqY2s0ZDZlaVZrX3FZeDJMV2RiRUtlR0RVeXhadDlhR0JjVGlMVEdsZXBXSW1LQU5OVXJwbzBnVUZCUEQ1RHBXcEV3RnZtaWhKMzNFSE5HalQzeENFdzd2RXhGZmtQbTl5cV9ZTXdfMERSTkxXQzViNkg2RkVkR1lXSVI2dw?oc=5",
+   "published_utc": "2026-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to roll out policy to expand tech investments beyond Bengaluru in 100 days: CM Shivakumar",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV1V0Y0JfaWlGa3J2UDNsRWg3ckRldGdEM3hvM0Y5V3VqNDBZQ1dReVdZUTFVNUtlVjJxeGY0c0tOMzZYaFJXbjk2Z1pIZkE5ajVydks2WkRtS0tVdF9pNVM0Zmg3THdLZTR6RllTTUtZSmx4VHdOX3lSOHBlYl9BMklQb0ZNVHdVTjgxR0FZbWVGUzg1NHBISWpzLW54SHRYbThyTmFDaVpQU29rcmFVeVdOdHJERi1WN1ZxamlYNmxDdGZ3Tm5XOXIwaEhaVW1LdTRGVnQxTk11aVlBUlhDMzJHT2N2UjJFOFAzaVB5amVsWjI1REVjRWtHWFFwVzFNVmfSAYYCQVVfeXFMTWlUYkFKMGQ4cEtsRm04eUZnWkRYZzRuTVFScHBvVEh0RE9SdmVFZ2dzbFo3OTBPV2ttVHFnRk1fUGxIN0hNbDluR21ZZml3YVRRZFJZM3EtZEhBZ08xV1B3NWo2aDZJYl9VMmhCUFhuNnNoUHF2R1o1RUxwaF9NM25oYWZ4Z0kyN095b2UxdUxRMXpDMWxlNFVrUU1LdWlZNzVUN3F5VjJIOUFudGlzZzNiN21rOWF4UV9fNnpVcmNhVDFCWUVCZUNpeldZX3h0X3ZtWVZSNDhCXzU5Vk9BSHlzOWhfWUFLcG0xV3FpS2R3TlFWMlVzSUFfTU01Qm1MMzM2TDVhdw?oc=5",
+   "published_utc": "2026-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to set up India’s first government-led AI university, AI hub",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX3NKSzJrXzFyZHdWSGc1N0wzSkh3aFdpWlFJbHZwSFF1MkEweGFTS3RsZ3BtS1pXdm9GZlJONTExMGpLc0dWWV8xYi0yaFdoTC1WUGE2ZUZVcTRmWENucmNZLVRFTllfMFRfbmdoSFZ4OVhLeW81dDlUNHpFMENTZjlkX0tUZ2U4VXBBcmRSbUhPU1VtOElOOUJqX3gxZXpTZ3QzRkVIcmRLZERKYkFRSGttYklOQk01ZEZkRGl0X2UzTTZHdS13TFNJaVZVQnBTTHZOMFJLcHRVNDJsSFBHWlBGekswQdIB6wFBVV95cUxQYVN0d0Nqa1N4MmFZb1VwdHE4dDIzdVdJLW42XzdPQUlTNzJIYm5pc3NWd3UycjdJdDg3d2dHMmlvM0UwUjRuS1lvV09DOWE2VHp3N01oQ1hWa05FeVMtWTBKY1FveDl4S1FiRmg2S2xzdGhzem1ib3hRRVpJU21aeHpfZkYxMExkUExfQW9taHhtcTljTC1VR1M3VW5IVFlsanZtbEpFcWNERHhjZWViY1l5S2JVcjBTRm5MaEMxY1p5SnFhNzFHVVl0bFFlS0lOaDIxVDVfLW5laUlqN2xnS3ZfdDctckJqWFJn?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Plans AI Education From Class 6, Announces India's First Government-Led AI University",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0l1RmNPTUlJVGlKa3haek9TMkxWaXF0b0hqSlRaT29YSk4yMGpVTW1RdGNCT3phbGlRRFQ3OXRwZHRrOUNXaDc1NDFCSE1IVEpqUWdSak5iMFdRdzlucGtXUEFWeG9JaXFmSG9rZThJZjBIb21lU2hzMEpZVGlFUDdWWlkwbHhZbTNJN25NSFZDOVhqS3E0WmpXUFZtc25Cd0hNamFOUlcyWkpmU2l3WFVkWGdrQ0FYcUtsX2xpQXVFUGpObm1teUgtSTUwZ9IB1gFBVV95cUxOQTJhdHJhaEpCRWRHdTdiODhHakY2cVhUc0FtMi1UNF8yNHJaem1oTTQzRGFzMDd1RTU2ZzBRMlpvWGpqdjNvcUhQdDBwcnVxRllDYWJPa3VqMk84a3lSQzJXQkRLWjBxNVFLQjJYOFF2ZVUzNFpXcXUwVEYwcWdwa1NxdW8ydkZ2cEVBdmozV1lEUHJQQXNtbVpqNllYc0JJQURDMjkzOWZuOFZ6WHlDOVllSk52bV93NG9qclpVZm1ubmFpSzFZYUd6SkR1VzRHR1FiNzN3?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s digital future is drying out Bengaluru",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWmJlRkpHeWxWTkRna2ZDVUNtUWc4WTNNdlVvaDM2VFJnb2QzMnpPNWhoaVQxbHRDM1JES2lEdktWREdyTUNuVmM3S2FSUEFnb2VDT2otOExlV2NpT3NRYUwzLThqbjBfd1hYMmxNck9oS2x4YW9OZWx6NDdVd0JqTnl5YzNlb2c?oc=5",
+   "published_utc": "2026-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to set up India's first govt-backed AI university: CM Shivakumar urges developers to 'build boldly'",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMldMZFdaSW9tLVZZRGRLSFAwWlIybHZXX1U4c2ZXNGkzaFdWTFl0TWlUSFR1WHJEVHpfWjVHblVrYlFTYzViSnMyWGVHV0Q5WEVPX2owNWJSOElHMlNEd0VONEVGNENkdVJhSlhNeWJxa19sNjFjRENYRU9NUGxiVEZjUkRjLVZqSE13emVkd2E3NVZmMkdBTHN0UHVhR3c2ejg0WUdiMEFHSXFDZDFocEs3SFIxSDRzc1Y0Q0NkZkR5RmF3VWlBdGUyYl9kZTU2VGNOWFpDYldSN3FoMFItZ0QzTDF4S3ZiUjRRMFg5enFpN1dhRFg40gH8AUFVX3lxTFBiQkp5WFJTZnBuczFuN1U2a0FpVGx3SDhreDR6XzQzbUx0UDlPTWdGWmpCY0tKeGcyc2VoU3U0RWJVVGpuejhqOTRuUDNCMkVURkpDOEdHTnVHN1R4b1gta3FIU240b0g2TlVSQU14Sk44QjF1ZWFJZUtUTnBPaTFncUUxeUVsS0VqX215cG1DVVl1c2tsVVNPeHJqSWRPRzNnTHNnSXZJeDEyMjNNOS1KamlTMEgyM2ZnTU5WTXVkdlpweXpKTDVyV2V2YmI5YnNGVXloT3luMHd6WTlRRXRjVWFzVDFrWUtCbmlrX0NTb1JZZnNaYU5paE1TTg?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Announces India’s First Government-Driven AI University",
+   "source_name": "www.usthadian.com",
+   "source_domain": "https://www.usthadian.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT05tVFpvWDhuSTBTUkZ1WG5WYTBYN1pSSWRfSkVSa1R2Y1BoYzkxZ3BhUXc5NUI5U0d2M0NMbXRKWnBGRUMyby1RQllXaGN1akRVT2JPMEpUNV9sdEgtNUhtSnhqa1lCQzQ0T0tMS1VxdGs1eG5aTk1RVkJZc1N3S0oyWUZEbVV0dkZuSWh6NlQ0UVZEYWc?oc=5",
+   "published_utc": "2026-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to Establish India's First Government-Led AI University, AI Hub",
+   "source_name": "digital terminal",
+   "source_domain": "https://digitalterminal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnRlT3phaG5YWm84bWh2dUFoc01GOEpLbGp5LVl3MG9XZUN4aGQ4M2g1V3J1bHAtc2Z1T0ZwUXRFTFJwRDRObGJVeEFKQXdWVVFpVFA1TGhFQzZLeHpUZVplUFo5VkI2R3RocEdGSjdBOGhzNmE1TjRFUTdnckZpTktGUkxIM015NllqcHZHbjRGcnY4am1HUUEwR3J0dG15WFpzOHdtNldfR1JEVUHSAbsBQVVfeXFMTnlRV2gxM01vc1htNHl0SnVzd3lsT0ZyOUxNWnFUMlZnRUlVajIyZTBJYU81cEFoaXQyekhHMmRQX29jOU0xUjFLUzJqTERMdlZaemV4TjhLU1FIYXhEYmloX0FIYXVDS3VXX0V4RnVZUFpSNFRObXhzSlQ1QW1MVEdqdldCdDhjX21vS1ZVZ3QyZXZYRkUzZXVOMy1taV8zZG92UnRLT3lfX1BrWU5XeURrX0lnZnVpcWlfOA?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka considering setting up AI university, seeks industry suggestions: CM Shivakumar",
+   "source_name": "Careers360",
+   "source_domain": "https://news.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDk4ZEpqcXlXU09wTFVJS3F3SWNmTW1DY2x1M3J0bHpwd1VFQW9FdEtPS1ZuTHhvV0xacUNBWUI2T1pyX0VuVkhkb3VMQlIzaVAzSHJ3YmZGcUQ3RlVZOUFMYTNCQ3h4VjBERTdBUmVFZU5aRURodTdIcGxWcEF4ekI0d1N1UjNxWUtpdW5VR3BxeUZSVlhfeVZzMHJQMExCSVBLbDZxckFiNUgwNmRZVzhRdUNhbDZxM3fSAb8BQVVfeXFMTndGM2tNZ2hROVV5bl9IWjktMDRIdjBsRzRDZTZPTjRuQTI1dmptTV9YaU9qejd1MWlyQjRVclhBbDVRNFhRdjJoU1F0M05JNWtnbnM5Y1MwZlMtSUNqbThudGVNZXY4RkxhUzN0akVQLW1ub0FkNUdpTnhpb2FJY1M1WFh5X3dzeEczVDNnbFVuVHJUa2MwdEU4UjJxdHEwTWxkSVVtNWxqRk13bVNHWjREMzlhaExQWjl1TWlmWjg?oc=5",
+   "published_utc": "2026-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka launches Bengaluru Tech Summit 2026 with 'AI & Beyond' theme, unveils AI University",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHFKcHBxRlg3VTFzTUdIdk1DZV9rNmxCZVhNZXNsSGNxRVBZRzJ1MHNwWlZ1OWhvNGg5OXY2c2duQ2NDNU11N0JEa0dxeVFUWnZuTk85WjU1UkxWU0xaeGhTWTlWcHpkdms1T2NJVUx4aTFoUWhKam4wY2dCOXp6amxWeGpqMG44UExzYXpidVdLSDFMLWJJWXIzWFNCS19jbV9qVm9EYzFZX3hTdDRBcGNUTGZySUZKNXktdnU1SUo0d0U?oc=5",
+   "published_utc": "2026-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to Build AI University & Innovation Hub, Announces CM Shivakumar at Google I/O Connect India",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ25XSlIwbk5aZmI2dUlMMXdzbmlVa2VGVlJhaEhncG5xeUpNMlZFalNGZ2ZzMzhEX2VkeTNseWFOd3lDbW1wZHgyUmNCXzZrV3ExcHNYQi1tbEFudjJybEM5VWVJS3JXeTdQMVYybzR3bUNZaDZmTUI4R1JISUJQUFlkcmxtcGZPSW1ydmNpckJoeGFxOHZSX3RSd2FLemxZSmpiWDN6NVU5VXZ6U0t2WW81RzR6UXJPMjJ6NVhLbUNDQ19XWWd3Snp4UXRsd09Tbnc?oc=5",
+   "published_utc": "2026-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Announces India's First Government-Driven AI University to Boost Innovation and Research",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc21QQlNrczVGNFA4OUVleWI4R2dnRVp2akhDaXp2SmxFZjl6U1E5Z1BIejJPc1lDU2hIdWt4TFFFMW81TUVHTnM3T29QenNCVGJnOHBSUWRqbkZjUHUtNno0QTctQ2xTRFkwSWx3OXQycnA3b3pCRlFha2hzaWlTN1RoUkVVU0VOR2dlMmtnRS1FQ0dOMVhSRGFBc2FxS0pzaWJmVDE1RUk5OE1Qc1kxNjdSLWFDeVVWM2NwVGVMV0U2VlJTT2d4bklQRE1Jdw?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Launches Historic AI University for India's Next-Gen Tech Workforce",
+   "source_name": "Analytics Insight",
+   "source_domain": "https://www.analyticsinsight.net",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFY2TmV1b3ZhUlB4U3lqQTQzV0dZTjF0MmJhVHNRVTNqREpxMXo2MGttM05MNUlUUEM1UzJYTHo2T2gyNDNTQ0hCZnd6RFNkNVdfRGlOXzFObzhBbUQxdW1jS3V5dHVtd3lCRlpPYTRSTzNuUndPNV9KZW1QbzM1LUg0d0k5X2M5NjR2R1FBMFVIRmF5MDlkMUhtT3p2aFBFc1VzaWE0NGV5OVhyY0JxU3kzeVnSAcIBQVVfeXFMTmd2SjNyTnB0SmNvaUJFNVJwdVdIQTZlaHFWSUE1cXJzT2lyaWhWT3Jsa3d5a2lZUnNGa0tuekdlYlEzN3FBZXlScnRwaW96UXViaVQ0MTE3MjdUYTNSTDZlc3c2NE8waTdLRnk3TkNuQThHbl9jSVJuYjhKWV9hX093Q1VuYlJJN1Y5czdVZWJBVXlLRnR0OUJSMHR4QUpUYnQzX0ZFU2w5TUxYd2JPdWJ2ZUFzLWlKbWRLV3RpM01tamc?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 green data centres to be built near Bengaluru, Mangaluru: Karnataka’s game-changing AI move",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdWFkU0RPRHZtVWdRSHYtNUpCdDBMaG9KQVRHOVd0NWlXeGNQY09manR6T1RXOFcwXzl6dTF1b3NFelpUZUJaOHh0WXpyY1B5eW4xUXBScURjSlFOa2UybFdVVDhqSTFCNjdhNmt6bnFxQnZZbGZrenE0cmtiaW40OUI2N1lqOHJFVjhEZW11UzM5dkdVcTZKWnQyOVQxWURkRzc3aEc3ZEtlUDRrbWk0bExpWV9YVVRNZFFUVmRENmZZWEpqYkVDM0FWLXM0aUVCUzBzdmpSQ29NbC1MRWZsMkRSOHnSAesBQVVfeXFMTTltUmNZc1B0em1ZbXJJdnFFQTVzOFhQVlFncVhpX2FEMnc1VXZvcEEwNjFUTnFzXzU5b2lwNk5mS3JaR3l6dHNCWGdoUlR1ZEcwNzN2Q2RfbmhDZzB2Vjh3WmNpOV9PcF9BRWVWR3F6NTl3bExlUXYwb0NwWTVjbmRJcGFjd1RMQXd6MXQxcE1MTGxUVEJhbDdCMGI1QzVHc0wwd04zZzRaZmNaQVJfTHh0VGp0VDBGeEFfZjlYWXhZWWJDTTFjYjVINUdtLU5hUTk2Sl9UeGhZYlJHbXhMdjAxZ3NIUGtTVUtsQQ?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka To Introduce AI Education From Class 6, Plans Indias First Government-Led AI University",
+   "source_name": "ABP Live English",
+   "source_domain": "https://news.abplive.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGdzX2dWSmpxWnl4aHRaY2xYZlM2dmhwTXNSeXVneDJZSVBiSDNBbkdQNFNTRTAwNk5HRXNXY0RXNVJUVGRNZ1FOa1d2Sk1WQjVPeUVpTFNicFVYdENRWEN6NzhEVzBsVUNFTjNJXzNjY0JBVWhsZjlCb3lMam45d0laQU9DejlGNVRNWlBka3lyeDY2VU51aHNZcWItVUNlVzZzVmpHcVVnUzBo0gGyAUFVX3lxTE1FVzJlOGViYmxYeWVDYmpBWXphaDQzNGxpOFU0LXJHN21NX3hiUjBWejZ2dURtbGNWZDlhV093Vl9IMkxTM2x0eGU0X2dpcFZqa1dLUm9QODE3elFhYmVzT3J1VVJPbVVCb2hSVk1iTFgzMUlnZFVva1lFNHVDMnRZbVhwU1lPdk4wUVFmRnNXbXNEVURIalU4aUs4YldKaTc4ZjBRZEFBcVE4cGM2d2tDZ0E?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Analysing the Data Centre Policies of India.",
+   "source_name": "Nasscom",
+   "source_domain": "https://community.nasscom.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVdHMGhRQ3l1TFpUU0FjQTdoOHYtVnVGSGo3YVpBUEpnV1dhVUJxUk5fMXdrRWxrMUY4MmxmNUNHa1NBSEZwaS03S2dXY28tOWR5NUN3Rko2c1B1WEIyblJ6WFJoM1NGUjRzeXhISVphYzNmNHRjZ3RGeHdwdHUxNWJFQUc0ck9BT3M5dmltQkFPQnRoUVE?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Clouds, chips, and power: Can India compete in the global data centre race?",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3JYTU1qbzR6QkhuU1RPbklqQ0o3OUVFMXV4NzlrTFJ3dklkVjdXT1RoMERmcmNpUUJvNWt0SXB0X05laDhVbjl2cGcwQy1sZi1nbnpMSFpQZXJtZ0FnMXZ1NkF4MVNubjVQa3djTnloNE5kM01UWlh0VF9jN1lHdjloOHJUYnRlZ1FZRWh5VV92VWg3MHN5TENlWnZfYUFtWnhEYjdfX0J2a3l3SWFzSzNuR2FMeGdEdHJmUlo3cGNtWHNBQkZHWmNjVHYyUjlSaHp4aVdwd1rSAdwBQVVfeXFMT2l4Z05KUWZYWmlBa2l5dVRPT2VrRGJONHZzVDdNMG9WTGo5VGJ0SW9XbzBQS0pvaVdjSWV0QWdoQjRnMVM0TENiU0k2Uk5vSHhJc1V2NmZqLUU3clhQOFRidGJFRTVJM0hsTXozNHgxbFVHM0VGUDgtQktwZ1B4R24zNl9RYmxZNGlja080UEZWaE1mZGo2Z2MtTDYzRnhyeU9UblktME9rVDFGYmRvZWZib3BSNEhBeU54TXNCZmNDSEE1WmZLdDlTbWpQM2R5bGh5LTJJWlZSVldROQ?oc=5",
+   "published_utc": "2025-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Prestige Group to develop data center in Navi Mumbai",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PLUwwWThoTk0yR0RBakNOZDUza1NoY1RYVlNXM1ZVNjhVdnVrY25lSWt0VjFQMXpXXzhNZmxWZGNXcmhOaDgteVdqVnd0aWNLblR4M29WVWtYNmxFNkhJSmh0WkRDZXQyWFo1ckhsS0FQTmxOVEZxaw?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt inks MoUs worth Rs 42,893 crore; projects to create over 28,000 jobs",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVmxJMUdVenJUdnNNb2JOZ2p5eEdINER5Nmw5S240WmpKV2hTalJVR3BKWnVDbUxrOWFxSVU0VTltWUVTR25ERXNoRjZTOTJicDVscVFKaDVIYjR3ekthZmluZDl0c0hpd3FLWHowQWxocEpJVmZWclpCMjBWYzJOTHBRNTBLTUdrU0JNMkU5VkZHUnpVYWhEeE1XTDJNSWNleE5vRlE3LUMzS2xYazIyM1o2RlhBVjRkbzYtMGxZRGcwRmtlNDl3eDNlYzM1b1NtbUhNZHp5NzdQS0Z0MEJfddIB5gFBVV95cUxPQTJpLW9EY3J3OTQ4Q3h6eTByZnFhSjJrS2d0Nmo2clNuWFd5TF9CWklPOGRYQVlLcENXYU1fZmtkSDE2RW0tVzZWY2JQZ3JQeFotTEdKVGZOcndBU1Q1MUs2Zmx4SDdTMWNYWG5KM0xYTFNoV3hPQldhWmJ2aVFMSkFscHFxSjd1MGZlSUhSOEhSQkxqZFYzNmVhczRtcEt2dGxuZ1M5RUxkLU5QSEhwamZBZjVvQkNpVmprdXN2bzl6T3hXRG5aR1pyNkdHQXFkTmNDem9zQmpjT0EyYzRjT1ljSVU1Zw?oc=5",
+   "published_utc": "2025-08-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "New data centre to bring Rs 19,200 crore investment to the state",
+   "source_name": "Newsband",
+   "source_domain": "https://www.newsband.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlhDQW9rM0k4ZndIMlZoOVVSaTFuaVdiSk9EU1lRZjl3RktZeXdYVkF2bkxObzRINGJuWURLaE11a0l0Z3Azd3RzRnBtS1RSM2I2WnhaQ2JJT1NtSVBoQzNOamY5Q0pKa0VfOWdCUDhFa1ZickV2Q1FvZjlNY19FNDVJVEZhbGRUUWZGZEVkWjNOQVc2QTZ0SUlLQkRvYmU4RVUxeg?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Newly inaugurated CapitaLand data centre in Mumbai keeps India ahead in digital revolution: Fadnavis",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeTFaWGZWZnFZVE9MYUltYy05LUFGaGFybEh0WEFJOTdQRHFGMGNaQTZ2MDR1alZvdVRQbXNkRWtLWmIxQmtTRUNNTElRblNFVF9BSklhOE1GOWg5b1hta25kYi1NbnJkSi1mZjJaS28zdDBKUDQ5RDhKUkw2alRRM2RjcXZxLTBhOUZQUGVhemNrRzJoQ096cjJOVTJ4bzFmOXdTcGN3Z3Q5Q2hQSGotSzl2VHRVMWppWi1jRzF3TmdVNkl1cndQU1U3VVJaS2ZWSlYzclN6QlF2dHF2UEF1aVUxbnVvUlRwbmlpaG5DenplT1F4M1E?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Devendra Fadnavis govt bags ₹42,893 cr in MoUs; 28,558 jobs",
+   "source_name": "India CSR",
+   "source_domain": "https://indiacsr.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVXk4VXgyVnBnUkpqckZPdTBIS3pYOWlWN2pveE1FcTg4ZFZudVJGWVRMMEZlYnZlODBka2xVZnczelFkY0ItbGphT0JuSVdiNDFVVU82M3VBLTFTMXNEcVZ2amZabWZhZGNacFFuTFZRX3V0QXYxOURqRFpxUUZ4clBB?oc=5",
+   "published_utc": "2025-08-20T16:44:23+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra and Singapore review container port project, inaugurate data centre and announce industrial p",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWU5ybFRocWRhMlpDOEQyNVhCa01oLUdPemVOTEE3cnl1LVJFZUpNckwtcTdBVjlySVVjUTV5bDBTLVVkOGJXT1pvemwyV3FuTjZ0UXlwZ0pCclRCaXhEU0xxLWR6RFZzdHVzWmhDQWVJX1dfOG01bkNnYTJjTXlCTEJpRDhjNTAyYnNjeW9DREdOQVBHaDhZREZmb3hNV3BvTUU2OUItS0R0a1BnTkREZEhCajY3LW82cUE3cXFvdV9ONlZzam5rOVR5QUdYcDNkbC1QSEFKWGxTSjRBbHQ5MVpGampMYjRyLWtOc0JjWlF1NmNKTEpEMlFJb0UyRU1IQ3dxdE1LMWc3enp2SkRj0gGUAkFVX3lxTFBjbnpINGVkMVd0alh0cWhaOW5hMkxZSXJfX3BYY0drVlIyLXplNkd2Z3c2ODFNZ0tpZTVXUHluWW4wSDRLMlNSN0xBZGhzVlR5dVYyd0FCMUc4aHVwWW9IMXB0d3Q5NHpaXzVMVFAxQ1F6N2JZX3JDTGdnTm9HWEhGazFQc0tUV25OcFFhUU1mVWJIREJlbHg3OG5fbmlrX3ZHWGNmclNEVFg5SklMajFWcGZ0NFRpTTFrb2ZDTnlRblBpNnJLUHhiQXFyOUE0dEI5Um1SNEx6aVIxcFRfN1ZxcDV0dTZ6OUJCWVVjYkthUnlCTF9FVVNBdWI2LXFzX0xsb0RhTDI1cUF2R09OUWlzdmkwcQ?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rovision Tech Hub to invest Rs 2,564 crore in Maharashtra data centre, creating over 1,100 jobs",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRFUydGlLaEdPSi1LQVpDSWdUR0Q2Y1Rncm5iQ096RS1GOHEyMEV0QW45T0Y0YWhhNkczLW9DT0lzSnZhRUIySnYxdnZsYVJiZkI0UFl2ZGdoY2ZOWVZ0ZFcyNzFnMkxSTDE2QXlqRnU5Y0plQ1dRcy1aUUJ5T1RYbk42VVEtNzVqYVVJMEs4T0tNUnlKQjVaVW5EUUhsOENuLXJNck1RZ2pCZ0tBcWh2ZmZ0QjVFOHZtTFR6MDNDX1hUWTJMUE00dmlRdFAyamlSc2lNSE1rYm1XVlNteXd1bXZqcnhHYVNyQUItcGxSXzJabl8z0gH6AUFVX3lxTE56M19PRFc2dFE4ZEZiMTlaQVJDYUcxbkMwRWM2VVpfbDlUU2Vvb1F0YkpxOEtqdEN5bG1wV2FjOWtKRUtQUUM2eHNpTkN2ZkZCMDJsa3BkZTNkS0VsaFcxZklmdGlOWkhjWElWQ3NNVS15VVhUR1hlUjc3V2luREpGdmtMeFA4Z2RIZms4bXVlUkpnNWdfbElGcDFSd2VXVllUTy1VU3otc3J5UkppU3JmZUpMZ1ZYU0RqczlwRXhEeUhWVGE5MGhjaGdrdUV4dDd4R0FZUVhtX3ZqUDlfcUZwOVJoN0NIQjhIbXJtcEhyR1hJdVBaa21kU1E?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DPM Gan kicks off India visit in Mumbai as Singapore firms ink investment agreements",
+   "source_name": "The Straits Times",
+   "source_domain": "https://www.straitstimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOejIyaFpULV9yU0hnc0I1d0dMMl9rNnU0TUtqNjRFbjNDMVVkWnFfS3V0dTZjNXJxZXA0RXFock85X3lOY0ptRjhTZ1p5azdsazl3dXh3dTV6MUduTW5WUnF6MVJVa2NQekNrVmNhVTRqbVMxbVV1enBJQ2k0T0ZlbGtpa2JRZHdOQzZIOG1WeWJuRmt5RHY5ZDl4LXNjT2RiNDB5amZyRWNUaUZlSmQ4d2JBMG5LcllZZDM5STZiUTJXRl9waTVtRA?oc=5",
+   "published_utc": "2025-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

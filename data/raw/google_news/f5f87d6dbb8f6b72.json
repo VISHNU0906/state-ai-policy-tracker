@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "Maharashtra Government Clears Rs 208.76 Crore Package For Akola Airport Runway Extension",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVjZfd0gxeUtqYUN5amtvMGNCbXFNZEtxZDlVX0xwNUtHYkJaMk5jN2pvUnViWjFRWFUtXzBRRjd6cklWamlpU0Y4b3pkMHp2dFU0RlF3MEpPXzhoelFjT3hwZVpiYzdFN2NSTTJETUdNS1NxS0dzNmF6bGM2V3A1bGswYWJEeFJ4aTV1alBPblRfb1ZxcjFyNFpSY29yZmZoWnRsVVNvRmtxbGJMa3p0c0pyWERZY2t4RFVyOTVRSdIBzwFBVV95cUxNTTZTN3k5TU56MGZJU1Q1ZjZpWXlad3ZBWUdsSThZRHI5WTRZZ2F6MndFUEdXSUNSSG9JQ2dDaV84VXpITlRmdVBhMVZYY2swWjBFaEFYNFlJeU42LXRBWUZDbXo2dXBWdUdlOERxb085LUt4ZkcwV1dRZHNaMjlZOGJwNnRjdDJoQXRlbVhhV3VOcjZwWHBFQ0t1SE04SWNrWWVOY3E3Y2tzM0d0N1BCRnUzb1ZTM2NxMi1VNldNTFpScG4tNDJKdVdqd1pzb0E?oc=5",
+   "published_utc": "2025-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Farm-tech at scale: Maharashtra’s Agri-AI shows India the way",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOE1hZGYyMDFFaWRJMUgtM005VVNFekdtbTlmdy0tQXFkbGF2QVNEeEtTd2lUcklWRDhIeGJ2TEVnNDVibFJ0SDg4eE5XZDB0TTNpWTctdEZqdFFVMTBJa0xqWi1RLVZpYmhaZ2g1Ny1ZWG1KdmlXR1M3bngxYl8wSzh2SGZwZWxkSS1SeHgtcDhWOUJiRl9FcVF6UW1hYzdjdHRGT2lUMGhUWTd1T3JITHlzQUhvcnhzNVh5Slp1NHc5NWloaHFGMXB6VDctajjSAdQBQVVfeXFMTV83eGlJMFVZbjdPY1MzOWhISkFYclpibTkxLUE4aUpSMVdNem9PcjF3Q2QtU3ZWWW1uMHQ4ZklkRFY4aUJMSVE5VzBRVGNwRDRMY3NBQlJFNzR4UE9tUmhFa2RmZ0FVeWZXQXJWUjBGV0dTWHJZZjFwZk1nZVlCdmZqcGZNVXdKMkl4bGR6elBTRjhLdHVSYW9Gc2E2WkpvSnRlUDdZZUx2NDhFSHM0V2Z3OU9oT0RPeVRQUGJYUTV1aDc2Qm1faERHOXprUEJ6ZnVBQWc?oc=5",
+   "published_utc": "2025-11-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Use AI, Drones For Surveillance To Curb Leopard Attacks",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWtGM0Z0eDBFaWZ5SW9UUzJ0OV9IM3p3Y3FWeG91V1FOOWRKdDlDWWFiLUl5R19icFdRbWJ0c0hYa2czcS1LUWwwamc0b1VQakVJX2VEZ1UxdFNlYVZCeWdkSWFneEN4S25STWIxRlBIejBkZkRnb1BpRXllTEF0NDl5WnFwNXcxUlJkVUhWTkxsTHh2SnAyX3ZsNEJsTHl3U2lMdThjZk44R3JNakHSAbYBQVVfeXFMTWNVZ0lvNUQzZE8zWUxxNE1ETnZaVjFoQ0J1RHF1ZmEwUElZckg3WTdiQnI4T0tRRUlfZG9hWHh1UGthWEZlMnp6eEVjcDZBMEFjRk1EWEJsWFdjeVZrc3dDZmRjQmlIWkdYeXJaUHdsNnFFYWx4eDdXT1ZmYVJnWFhWQmxrY2ctUWhoNEdOeVd2VDBxTjNRTEFzWF9XR3VnalhjQjViLVZGc2xPaFB4Mm5Ua3R6S0E?oc=5",
+   "published_utc": "2025-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘GreenMind AI’: Maharashtra Pollution Control Board launches AI-powered environmental information assista",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcTRpRjc0MDhVR0dUc1Q2bVh3VllvWVBUdVdHQ2lwNW1aTWxEeS1FVEw4eVJsMWJpQU1kenVUeWpNcU96enVvT1M1ODNIb2k0SnpYMzZuS0hCV19wejdFRlJ6Sks0b2FGemIxLW9aX3lRbXpnUXBNMHlKQlo0VkdmdWNEcGJSVDVoNWU3Um55Z0ZLZDJXZEl3SnNCSTJET3pwSVZyZVVqcHh6c3VCUC02eUNNTU53WC1VVGNfaGVrSHYtOW12SlhBeGs3b3duYUZQY1hOaUt4NC1PamYxZWFDa01oYmZmekZUTkhuSHVOeTdpV2dDVFItWGIzR3BaTE9BSGdmZlNiZ3J3b2xfN1lSaWVjNU5rem1u0gGeAkFVX3lxTFB2UEE3QXBZQ3dJNTdncXI1V18xQmY2dDh0cnBVNUVlY0J4Wk93MklMVkJVSmZSMERZY3cwbVItYlhzUlZZeS1xVlhwVk9BVF9NaXAwNS1iV3ZPTGdYd1dLdjVlckxOOUtmSThRcVB5M0REMEFfX29nOXJtSEpSblVmN2ZLQ201WDNrMHoxS1Q1dG1GekVwdzRXcFNoaGdyOHdTN3pub2xrUGNnbzdGcW5GaDNEWEF1eVJnWGgxWDN4X1o5TmRwYXZFS2dHNVF0SHNxbThoYndLUGF1ZUJPR3c0UXZFc2owMWFxZ2UtMnJtU3FzUktpTlNSVFJqR0x6cDBTYVNLaWJYN3VBTEoxbWhSQkNKM0owU25sTlZINkE?oc=5",
+   "published_utc": "2025-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Generated Fake Tiger Attack Videos Cause Public Panic in Maharashtra",
+   "source_name": "OECD AI Policy Observatory",
+   "source_domain": "https://oecd.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3eWViekR1Mkt1ZnFueVRSVzZnNF9YOXJUMkY2VERzUXRGNzczWFJIaUtWNzZZM1hkLVFuY3V6dnlNMmxSaXAzdWdlcy1KNXY4VWl0M3N3WQ?oc=5",
+   "published_utc": "2025-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Students Use AI to Democratise Tennis Coaching for Grassroots Athletes",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUkpzWFN0UFRlalVWcHpMZXdPMGtIcTlrN2Fkb2F2dVVVaUFEa1g1dUJWNlJLN1AzT1NPOEJCbF8xN0JBSW14Q0R2cW1wNFRoTzJFWV9WNHFlN2NyYkQwLTVURUZ2ZjhPNHFVMmF3NGxKNjJwakNtQU5USDNfbC1FWGhxbnFhTzQwRHBWNkowUlc3cUVINGw2NzhyVEg3SnRjUWcyYTViUQ?oc=5",
+   "published_utc": "2025-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kolhapur Airport Expansion Gets Rs 290 Crore Push As Maharashtra Government Issues Fresh Financial Boost",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa25CbFR2ZW9WaGc3QW1GX0FQbzhsVmIyTXVCekhUbnlLWFNtd1FUY0hWWGFNMjd5ZF9OcHl5cHdoWERzODZFb0RSbWhnaDd3LUd2S2Y0RlE0TmhDRVI5b0hMZEcxVEYwREY0dDFPVVBFQVhqQjJTVkVuTDlEZVFER3MzbHlsNUtOQU5ZS3J1RVZES19sRl9Bb2pUMWVYZlM4d1N1azgyVFFGWXEyTUNGanVwTi11aWRyc2w2X2VkekJtWllGdzJPUFNCSG5taWN2Si1xRXdB0gHmAUFVX3lxTE1FVUttV1VsaEx6SGhkLTlrSVRjM2ZuaXFreWhleUNzTkdZVXlNTlRlRXRnalFBMkoyQjQ1eDdkSnQ2c2F4X0hZMUtPUW1lNnlNRFJwdXhfMHF5U2FDbU0xeHVBMlMzTXRIWkRvTWdRTG1WWXhRWnhQSXd5T0E4U25kZDlMdzVoaDNSTVFLWHFoQ2dXVGlCMGhwR0ZldjdnbVpRcGpKNDF6dVdpeE82d0g4cW1ISEVHMlNMUGFsMTNXbFU5Tkk1bnJEVTZrN29LdkZtSFlTX0pNZno0MXBWemVwWjdGT2x3?oc=5",
+   "published_utc": "2025-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha Govt Sanctions ₹209Cr For Akola Airport Expansion",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmRPMUZQOG1uYzJPOVh1ZFEyWkJxTVN5M1pEWFI1ZVJFQ25wZnFiV240Ung2U0F3ZFJTd08yUTFrQmF2S2RSb3ItRjZyT0dyeE44QTlGRmR6a0FnUWZZYUhobkhkQ2l1WHBvTUpuMzdhS21tOTZtbFJNTHliSFVieGJXTUpSOUpxaXkybjVLWU15NG0wQlktVnIzUndfU0lnUENxRHJuT2ZQSFVQVlhiSlF4WHdBbVRnWTRuR2Nra3dGZ1hER0HSAcsBQVVfeXFMTzhBVHRtSFlKUFJwc3h6OFJaMjlMS0dWMWFFNU1sU2lIemlOVWtNb0h3YU9KajhvZmtCSUxDVjc0cGdxclNVRFZLTE44aGZKNk9ESUFQbmFVcjhnbWZ6NVJPYjNkcGxraTR1YkZWZ2ppOHpWRlFCcGJiaGFjMTBoMk1vRzY0bmJjTEh3MHNnc21qZ3ROUXlDQk5SRGdybTIxeEh6cGk2VlF6TkVCdW4tVG5fdzg5VkJrQWtiTXpBNW1fMFNDbHFENXVhZkU?oc=5",
+   "published_utc": "2025-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt to sell up to 6% stake in Bank of Maharashtra, aims to garner Rs 2,600 crore",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQVlNaVk1b0l5akZmV080OWFPZTROdzkwTDNpcVVFa2tCblpxYWFmZjNQcklBSnVXQ3N5djZ6YjFLWk11SHZFbzFvZm80TGw2TGlOaGd6eFFudTZWM213YmpRVXJyb19yR1VfYXlHaU1mT1FXME9rWGhtcnRSMTVhcWZucl9UaWhwVGdFbXZWcEdreUVVUGg5aFZXdUxRVmRWSWRidE05eFNfVHNQcWtFX3EzMFVZd2w4TEo0MlZZN0FTbVVteURkRUpVWU9ORTB0ZlU3VmFoNHRreHdEQU11dDNEY3lhOTjSAewBQVVfeXFMT1FhUUNJNlVKOFdUYXk0ZUhSczBPLTc0MFNON2s2dVVoR3J2U0c3R2pKYWVBTDY4TXRTZXBFVWlOODNIZUlDaERQNG9YTEZJU2k2WC1GTmROY0FzQ2NMX1F2YzR1MU1UY0picHNPYVZXNlNWUFpGT1c2LXIyRXk5eG5maVkwMDdobmF2Z1Q5WGFIVXRIZjBhZmpldnRwSnhWMGNFM00tcWFRSnRQcVYxU3ZuZkVPSERveHR0WWd3eDFHaTZSYXYyYVNLTmdkdlhvdjc2MURzNmp4LXRXS2JieFFUakJGWlRBTjk0cVc?oc=5",
+   "published_utc": "2025-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "All in 30-mins: The game changer airport-to-airport Metro Mumbai has been waiting for",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelNRWXJUR0V6cVA2VHR4MFo5Z2xfblVlYXJUdXp6UW1WbkJ1SWtNRnE1UkxvbWRtTUZEU05FRXFPRzN3NWxHYVBkWmp1alVkcHhwNTB6NWJ3Um5HNUZRenlsaEhVemRTMlhLaWFWYUI1dmRSTDNoYVc1am81Q0xQSExuc3NnVzI2Y1RsS0p6QdIBlgFBVV95cUxOT1Itcm90bkhnZ016cDJzbDVUYzRULXhicDdoQTViaUJfOWJzUmFxelRMdlBtUmo3d3NoTzVxa3lobkhZeFlrT3FjSU9RMkdLNFd3MnZyTEZabHRtTFhvdVhGaWs0RFBFM3ZuaTBZRGQ0cTh6RS1WRkRmZlBXQVlmVXBXOEk0ZlBaSkNjNWRlTlZDMF9EVEE?oc=5",
+   "published_utc": "2025-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

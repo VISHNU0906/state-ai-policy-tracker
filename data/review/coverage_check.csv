@@ -7,7 +7,7 @@ od-2026-hcl-sarvam-data-mou,Odisha,2026-07-24,Odisha signs tripartite AI data-ce
 as-2026-gpu,Assam,2026-07,Assam commissions government-owned GPU cluster for AI services,False,in_dataset,AS-2026-08-01-103e0a,0.84,Assam launches its first GPU cluster to power government-owned AI infrastructure,2026-08-01
 mh-ai-policy-gr-2026,Maharashtra,2026-05-06,Government issues Maharashtra AI Policy 2026 resolution,True,in_dataset,MH-2026-04-29-0317a5,0.59,Maharashtra Approves AI Policy 2026,2026-04-29
 mh-ai-policy-cabinet-2026,Maharashtra,2026-04-29,Cabinet approves Maharashtra AI Policy 2026,True,in_dataset,MH-2026-04-29-0317a5,1.00,Maharashtra Approves AI Policy 2026,2026-04-29
-rj-gpu-tender-2026,Rajasthan,2026-03-24,Rajasthan issues GPU server tender for state data centre,True,not_found,,0.03,"36 Rajasthan police recruits sent back from MP training centre over AI-doctored posts, smear campaign",2026-03-13
+rj-gpu-tender-2026,Rajasthan,2026-03-24,Rajasthan issues GPU server tender for state data centre,True,not_found,,0.03,Illegal mining transport to be curbed using AI in Rajasthan: Command centre to get alerts if vehicles devia...,2026-03-20
 as-2026-appi,Assam,2026-03-15,Finance Department issues AI procurement-platform RFI,True,not_found,,0.00,,
 od-2026-operational-rules,Odisha,2026-03-12,Odisha notifies rules for AI procurement and implementation,True,not_found,,0.00,,
 KA-2026-01,Karnataka,2026-03-12,Responsible AI committee holds its first meeting,True,in_dataset,KA-2026-03-12-55ead6,0.87,Karnataka govt sets up committee on Responsible AI,2026-03-12
@@ -62,6 +62,6 @@ tg-2025-google,Telangana,2025-02-13,Telangana and Google sign cross-sector AI Mo
 gj-coe-inauguration-2025,Gujarat,2025-01-27,Chief minister inaugurates GIFT City AI Centre of Excellence,True,in_dataset,GJ-2025-01-27-452aff,1.00,CM inaugurates AI Centre for Excellence at GIFT City,2025-01-27
 up-2025-google,Uttar Pradesh,2025-01-07,Uttar Pradesh signs Google Cloud agriculture-network MoU,False,in_dataset,UP-2025-01-08-8eb4a4,0.67,"UP govt, Google Cloud launch AI-powered agri network",2025-01-08
 rj-ai-draft-consultation-2025,Rajasthan,,Rajasthan opens draft AI policy for public consultation,False,rejected,no_government_actor,0.38,Rajasthan AI/ML Policy 2026,2026-09-06
-mp-ai-datacentre-support-2024,Madhya Pradesh,,State-backed AI data centre project announced near Indore,True,not_found,,0.25,"Ministry of Electronics & Information Technology in association with IIT Indore launches AgriHub, AI-Driven Center of Excellence to revolutionize Indian Agriculture",2025-01-29
-mh-sarvam-approval-2026,Maharashtra,,State approves Sarvam AI package for government departments,True,in_dataset,MH-2026-08-14-2a72cb,0.43,"Maharashtra to deploy sovereign AI across state departments, 2,500 officials to use Sarvam's Indus",2026-08-14
+mp-ai-datacentre-support-2024,Madhya Pradesh,,State-backed AI data centre project announced near Indore,True,not_found,,0.25,Indore Police Commissionerate Becomes First to Launch AI Chatbot ‘Safe Clicks’ in Madhya Pradesh,2025-10-03
+mh-sarvam-approval-2026,Maharashtra,,State approves Sarvam AI package for government departments,True,in_dataset,MH-2026-04-07-f87991,0.43,Maharashtra Cabinet Clears New IT-AI Department,2026-04-08
 AP-2025-06,Andhra Pradesh,,RTGS reports AI search across government documents,False,rejected,no_concrete_step,0.32,Andhra showcases AI-driven RTGS governance model to Rajasthan IT delegation,2026-07-28

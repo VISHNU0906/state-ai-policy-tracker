@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Gujarat govt introduces state-wide GPUaaS framework to strengthen AI infrastructure",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd1d2ekZkVkR6WVBzMjBlU2x0ZnZUYzlxaEctN1pMdGJOUndULXdGMmQ1QVFzbUFXSnc1Qi04OEZETl9FWnhJd3ZJdlBzYUg4WUgxSVFtVy1TZjQ3Y3gtMlItWFlwZV92UThNQ1NYTjNicG1PX0ZGeVFQcTNaUXNVTGUwTkpCZno5Sm5ZYXZZUV8wSnRlMEJfSGFxdm5XR3dabjRMdmJIczMyMnoxVy1rS3FvYWxCV0FuLWNEOEFLTmZQUkxnMW5lNW53bmE3UUlkMl91eTZ4Qi1JUnF0QTVyVg?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat begins using AI to test quality of paddy procured from farmers under MSP scheme",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTnoxVGowVlVPNVY0eWd4LW45TU81V2luME51UFVEWDRpWUwyUEdoWVdsc3c4akZsQzZCNmMtejNRNE1kRkhsOVNCSzBiZ2g3SmktM2VIX2stR29MTTZLY1ZuNC03UzlqcUxsTDl2VEVOTzl5Rkd3QTM4NWFCSjFGTEsxMklaUWtkeUdRenEwYVBIX3RHR2k0amtEZEsxSmlmODBWV2t3T0czVjY4TllMSUJ2ZVdTUmxRbVljQUZSMHdZZnBEQjBvRVEyYTk3dXB5Y0psY3c1ZlNobllKSzFuM3pBMEp1MHNXSHNLLXF30gH0AUFVX3lxTE9pWDV3VTZTbnFMVjBqSmJUb2FmQl85NjdIQzM4bUZyN3Ftb0MycUpEY3E3eDU4emZUQVYxVWhTdm5qTnFuYVZyZWdsc0lFZE5mZXoyTzBvVTAtNHVRdUpTV1BNOTQ3dXQtU0M3TXlOaEZ3Q0tvYWVjb0xRb0VLQ2NEVlFtQXpzb0NfWmpMYjNsMTRtQm5FMDdkOEgyVV92dlIzUVpWcFNtb1JFV1E4MWVSWXU2U0pHS0RnUDRlZEZOY2RSSFBDZkpOdHNCejFuR0hzcmRmNHJpNEhaTHJ2bnVmeHlhMmRVZlN2WFk3aWJERXhXNWg?oc=5",
+   "published_utc": "2026-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat's Centre Of Excellence For Artificial Intelligence, 2025",
+   "source_name": "IMPRI Impact and Policy Research Institute",
+   "source_domain": "https://www.impriindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmNlN09WQkxUcmRBTkwwUFJnQTk5OC1WN1J3WWJEdDJweTVscEh0QTlsNkkwTXlSWXk4R1VTa3dDM244aEpwY3pjb19SdXBEWmU3UE9QTmFkakNuNjdWSThVdk1hSG1UeHVFa2lWOWJ5RF9FWWI4MjkxNjdweHhENUxuNjJRZ28?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat’s Rise as a Strategic Tech Destination",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1dvYVBDSl9YMllpdkhYUnZQcDFRZ050VklwaEtYcDdjcVdjRjVUZWo2ellpZHpCSVRnM3F3Zmw1ZXowX1MtNWJqLUNMRVBLZjFNUDR5TXR4RjZjd3JnSXpFa0VtSlliNkNBWnFKblYxSHN2aVRscDNPeDBaMFpINnBrTXZxOHh4VGs4?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat launches GPU-as-a-Service to boost AI infrastructure",
+   "source_name": "The News Mill",
+   "source_domain": "https://thenewsmill.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHpyeXA3bUFSSExkZlNfVnIyZHpScmdRNjFjZE9sWXJZcTY1dzNBZTN2YkY2MTROV0JGZzktT1NqSWowUFp0azZaT04zeVNjUG1NdVcyZkEtUVBob2FLUVBhQnYtMTRfUlc4V0lVREJzTURkYWJ6WHYxNU5PUGR0QTV5MEJscmFKLTRZOGYwdU5kNGNudnFyMQ?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi launches AI-powered BJP office in Gujarat’s Navsari; sets service agenda for party workers",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcUMxV0labWtvMTIyV1p1dFVmOXJYdEdoaFY4Nm96cTY5OU1fUG5lRkVxaXJObk55YlljUkE0TjB0U3JfZlU1UVpkdHFtRmJja0VNU0s2ZndjN2xrT3F3OGpScjdaMEFLb092NXNORk1KZTZ5NEUxMG5nMk9nNmVOZ1dGTWRGeDFTM3A0X3huY2YxcEJNbG51LWxJVXZBRnU1VGpRSHd2UHF4eGVxNnpHNVd5eUJUcFNmT3dwWlBRYmtyTGxCNzNrQnRNRkVoUTdyZEZFWDltTG5qSy1lSEtiaXlWcUs0dWd6Q3dzTdIB-gFBVV95cUxPQW1NbVhEMXhrNmpIY1g2NHB4SjNqb0I4cWRoTWFIUF9ubUZ4RnlmbTdtMTI2NkZpTDF1bmZ4OE5qYUFtTWQxZGRScEdQeXdZSTBOVVVHV1pBTThOMUJQcm5Eb0V4N2lpMDA0NWpUQnFJcTg2dE1Lbjk5RjhsaUE1Tk1WRXJIQjF0eUNRQUNodVlPekN5UnlmVGZUZmU4VXdKdDVHYUVRZ1doSTZ4ZFp0Z3Y2V2lsa1RiakRWVXlJMjhrLXVxRVBuTmJ3US1wX1VHSHItNUsyV2lldFM4WDE0bFNNWERMYkM5S1JIYVM5S0E0X0hzR3B3WjdB?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat launches AI Green Citizen Score app to reward eco-friendly actions",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnVqdlpBWWs2U3lmNVVmRGZIS3V5WE9fQUs1Q2R4U1Y4SnlQYVhjWWRsUFZ4RkR4Wlp0cDVwd19sR2ZFYUs5RjR1bXVNVEIxMHZfSXJVWFNLSWkxdnlOUS1sbWxMTWN0TWFQVU9GcWI0LVhvNkRoRXV6bFoxamZBczd4dWlZWk9Ndl9rVVJRQzVNWG9OVGx2V184cnZkZFBMcUhKNVFmd05xdWNzSWVLUDZ5dzNvYnhyQlFvVHlSOHY1cWY4TUFQU1lscXRxb03SAdwBQVVfeXFMT3E1OFI3cGtUa0t5WWxtMmNqMWg2bkNHOXFhUHd1cG1oZ253R2VDbk11Qnh2cFg1a3JGT2ZPbjY1bDdURFdaZWx2SWRiZnhmazl6SnQ1QUVXVmhVOGJvRjgwQmd1OUxuak5wZ05pTXd0REs1WUV0d2l1NTYyS1RyelBNRDM4cTN1dkx0bGVJRlE2TEM1Y0ltSFQ0clBsdVBTbGh5d0NXM3FyZkh2WkpVekZKY0JKdnlBTDIyUnBWNFZ2c0lOUVpLQkxRaDdQenVudXVJS3pyQnN4ZEFYVA?oc=5",
+   "published_utc": "2026-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat deploys AI analysers for paddy quality check at 10 procurement centres in 4 districts",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObjJYWlVndThjb3N5LUZFMndoVTA2dTJaQ3prUVZyaDM5dndyWjUzSkZWem0wTGdhRGQ0Yjl5aXlWNG96a2Jyd1VsVmFZQ0Q2UW9SLW4yTk11QUJnZXM3WlJHNTFLR1VBVllRT1Y1RVphMklDanV1RTl3MGpQRnJvZFYxRS1KcGgzUmlIMFNhREFHenU0M3lnQ2RUZ3VjSGpGOWhKMWJZZ3NuR0liNG8tV21EUUZ0cWpaeW05STZsZkxVU2FFMDFKSjFWQU9ac0V3WEF3S243cUh0YjFYTDVVOW9lak5ta2dIcXVpb2dR?oc=5",
+   "published_utc": "2026-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Rolls Out Statewide GPUaaS Framework to Power AI Projects",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDcyTnRHSllZYTgycHMyamhPcW9XeTFSdXFvS2xoVE8zVXlfVUFRQ3lGTTdtTVhESUpRdjNHVThLYVNVdkxwV1lvZS1CQWYyM3RfZ2l3RHVtb2lTWHZnajZhU0U4VUFtTm9DMExqdW13N3RDOVNDZkY5QjRmcU5KMDB6dzRrTFU?oc=5",
+   "published_utc": "2026-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat’s Dholera Set to Become India’s ‘Semicon City’ and AI Hub",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnRHY1hzblpIcXNCczhOTzgyT1ROalN2b3dNZTBXNkwxdDRsTllDbGhXLS1PM3B4aWxPTDFmdjBLaE42NU9BM2xQOFFQRWVxUEZLMHZtWlhnMEdwbmtlUU5DeEVDaVVtbWJ5NjZvanI3SWh4U1ZEM2pQRE0xQ09GQWpjanFVdw?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

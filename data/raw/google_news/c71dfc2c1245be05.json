@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "Wadhwani AI deploys oral reading fluency tool in Gujarat, advancing Indian language AI and LLMs",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVnVmZUJ4UXVRUWFZdVJNVk1Xdnh0aE9ROG9NN2tQZDRLU2hYYlNwbi1zdWhDbXhTTWhFbS1EUmJzc245LUVHc2oxSWJ2WGY3TGdCcVNlQ1BmQUZrTUZHdWliMjJzZjE4bndIa3diazJVd2RZMm41VmxnakFIaU9zTEprbnFkN0M2aEloam9DYzNnSjJZRUJMT0hlWDZTX2dSVTIxNHBUVEpOdldqZVZMZmxfcmdZcmFmYS1yS05maDZTeG53aWZaV25LTHlDbU1STlJWZjVFUzBNUmVTLXpaRDQ5ekowRXJ6czkzYWtkem84UdIB-AFBVV95cUxQYXZWUHhma0h0OHRGWjFGeFQ4QndETE1ZLUdNYTN1M3dONzdWVkVOMTU1TmxsRkVsaUs3MHFaMnBqOFF0NkEtY2xKTkhEQzFvYUp6U2otRDVZeVc4blA0NWc1U2Y3U25MMU5lOUZCYTRtTVZ6OEtBeFlBeEtwYm1OM2JaaTZUVmY0Z1B3Q0Z2a2FxUVdvMjh6ZklndEx2ckc0NGJiRmlvN18xemk5Z21KMmtidGFwOVE5TXdUcUExVHI5Z1g1X08xVjJ3c3NwZ2N2djB3a2kxNjJtOHNBYlY2anpacS1vRG9PcW50T21ZYUNld1paQ2lmMA?oc=5",
+   "published_utc": "2025-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt unveils 2 expressway projects worth Rs 96,240 crore",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVW85M3pET0ZDVjVBS2F4X3NSSUR4aUF4ZWl4a2xHS1VveVV1QjV0aTBWWUVxREZnQklMX1RPWnhBbEhIQUZWX1A0ZE1ialduYl9vVFNzNk5maEg4clM4dUpXSGwxU1VlZm8xN19jVE5TdXNjTHN5T21HaXpURVpBOGlRX0pLT3FEMk1GTTVaYUNiMmsyQjFlNVgzTEtENzI4Zkk5bnpKYkd4djJhZmxlbm80ZVVwVG5oYlhkSnh3V2NHOG96MTh0VjR2Z09WZmhVbVHSAdYBQVVfeXFMTVVxamxkSFptQ3ZqRlJ0Rk1IbEEzaGtCQTk5T2xrYlhLM0wzdi03M0FiVVZPSm9aakZlanpmX2tRMTNsMm9XTFVwbllfWk1zMm5kRExrbU93eG5PaG81eURhTzFydzJnR1FqbHVNZkNfcFhVMW8xSUZteVdHelp6aXc1SGIzUXdFNDVoNXVaYkRRVUs4TWRtWm9WM19oNnpnaTZpVG9iM0xSTWR2UC0xajlNUnVqaUJTVWRSLTRRNTc2UEFJM2JXLUl3TFhmVEZCendZWU5XQQ?oc=5",
+   "published_utc": "2025-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Gujarat-based HyFun Foods uses AI and IoT to process potatoes for frozen snacks",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3YtSU9wWTAwSmlXTXBhclRIM1hBY2VlOG9pb2V2d2RPTmlHeUlyZXVSSFdPdWdUeF84U2JPYjhYWGxLWThzdDNDaGYzT09QaFFVcGc4QjRqOVk1cG5HWXhfVHJteVc4NjQ1Vm1LSFNEZ3B4dEJnQzUwNjdWWjlpTzVoRmxDNUpjVnBJRG5ITGhQSHV5ZmZoNDItbjBTRDlBbzcw?oc=5",
+   "published_utc": "2025-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Infineon opens first Global Capability Centre in Gujarat to boost semiconductor R&D",
+   "source_name": "digitimes",
+   "source_domain": "https://www.digitimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUppY2IyR3Ryd3RucENoUmtvaFd1WmM5MlN1RGxiM2RKWVlMaVBxWDdESVo1Zk80QXBIWXNnV2VKMWF3OXdramtRUlBzY0ZFWXBWbkZqcUVZNjNhNmlPZlh6d2JoTTFHSzhPcHJQN1NFWDE3WVdhTkxfUHBxejlhMnJKSTE?oc=5",
+   "published_utc": "2025-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI drones to combat mosquitoes in Surat: To detect breeding sites, spray larvicide & live monitor ground he...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMjRDbzU2aGFZaXFWbmZERmEzbWFia3hrb3IzaEdBNUlTMzM2NzI3STdxdnNlTXgtWVF5Wmsxd2NIOXZlN2E0RTViU0gwOVdOSGtCOUdnOWoxd3lPRlFpWjRrWjFVU1RUbDFTZ1FJbDVxdXc3SER2THVyRjhMZGRCNWxnd1hmMko2bF9mUjktcUJFUUNkLXY4dnZNVkR4VjQyYWl4NlFteXpjcE5PbGNWakhjVkdJNm0yOVo0UC0wc2o4aTNtbmlUVzhOUmFsQkNfMGFHSUg0X0RJN1pFQ2dmNGYzaDQ3VkZlaGhfUVg2eFhuYnhMLWlvTXVkWnY4emVqN2xlTjNrNklUODV2QldOR0k2YkY3ZzI0NzNJNjdR0gGjAkFVX3lxTE5CS2FLUExTcl9MZUg1X3ZaeVFVYkhyNVNyMDNRNUU1RkZjUTdYSHMyZ0wxWGdGWTAyckhRX2hiUnBPZDB4NnNGRjlDNUY0b1hwRlRZRGpKT21sMHRUc1Y0Vk1VOE9VRTZZYzlDM3F6ZFU3QWw0cFZSSURJUUVweEZ3UDJzWW9zM2J2LWRqUG5sbldTMU5IYl9nS2YwVlB5OEQ4M1NNUUd1OWVhTjZNTERPV2w4MXZnMmxoelQ3SWtVdEhmWGxEM05ZdDVBY1VNRWx6cXlJaXFSRTVWUTQ5dWJ5Vkh4ZnU1MWtzR1I3aG1rT1pCdVZYbDcydkJQYXJPMFRIRE9HX0syR0pOY0tJUnhJcDZQMkxLY3lkcXl3eEtNTVhpcw?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jabil Announces Expansion into Gujarat",
+   "source_name": "Business Wire",
+   "source_domain": "https://www.businesswire.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUlZY0tvMl9STVhLM3VrOTBDWUV2V1NWV2cxMDdsOTFZVng0SnZkd3VMVXcyVFRfSGtkbjR1VXVTT3FiVjZOaTNTVldFaGtVeHdvQUpCdUk0WWl5QjZVbXlkSE5kMDNJbnF6a0JrN1NHbXFsTzFtX2IzMXo3aGhka1VQOVp0c3NfLVZvVzRVdlFyNmhGdzAzcU56MA?oc=5",
+   "published_utc": "2025-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Electronics to build India’s first AI-driven chip plant in Dholera",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXdTUHhWSWxDWmpjRWNyQUx3TC1mZWxQSXgxdm9yWnR3M1FrM0hfcVExc0VEWUhwZmp6R0F1S0JjckpuTzZ6STJDUFROb3ZCay1qeXJoNEhLaTV1UENwNVo4bTVZTzI0NzdoVDlUOTFDbUgwMUI0LTZBZUVSTmpmcXNGR091b1dabDF1cFpERkR1OEJiRnFxMlpzUFFzY1lfU241UXVfV3NOOFQ3d3hWcGQ5VTRDWjMxZS1rYjhmNkVWTUZkdHRHTFpnVzVzM25jVy1KadIB2AFBVV95cUxPNGhjY0ZiR1g5UWhJMGpsaFFuYTNKcHprVE1NbTQyd0NwdlZ1cVZaYWpzd0N0S3JyOVVwOERfNGVmQW1jY0ppUVNaMXBzUEFJZTJRSTk1TXJIV1dtUldqbTVwbDZMMEY4M0d2aUUwMWhnXzdOM1NLc1hKN1VET2JLVjFOcWRnRWRXLURSZXB1bnFJRDNxRTVhRDJQSkxWa0MzanVLSE1YZ1l0alVJLWFkTTY0amlwcTBTbWZkdzVjMHRPcDJDOUQ4ZHd5THQya2Rzd3g2NnlEM0w?oc=5",
+   "published_utc": "2025-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Electronics, Himax Technologies and Powerchip Semiconductor Manufacturing Corporation Form Alliance to Revolutionize India’s Display and Ultralow Power AI Sensing Product and Technology Ecosystem",
+   "source_name": "Tata Electronics",
+   "source_domain": "https://www.tataelectronics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQdGEyTER5VS1MQ1N6UTZMQnRZOFIzX01KLVF1VHdXaGdOQnVUUTVFdWhnaGRSQUpIQWVya2o1ME4zRm85WGFERmFJaGNtdHZPNVNDbGhCVXNQUlhxbHRSNWpHbWFlMnEzWWo1ZFc4d04wdEVPSmdzeHlmY1lWWS1qc2d5NFJZdVlLaU1oZVlJUDhLZVNYZl92TkZCTXdEcTJFTXdhVVh6ZmlMcUFCTldBVTBwcUdIbGdqeE1zaGktUmJRaHlVeGRfQmhaR3BDT0Y4UkV1LXNtaVdVeDRzVmYxZmk3THN6elp2NXpBZXkzT1U3cmswUUJFRTg5ZkdMWUthS3ZWa3EteEVFYTNZMmktc2czUzR1MUJtTGNPbUFtVHkyWHViTlFNRXpVV0pYdXlqMHVtMlYzS1YzRVBwbzA3dW5tam1HRnRSM2ROaXRDblQtLXM?oc=5",
+   "published_utc": "2025-03-06T13:00:13+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI robot teaches more than 550 students in Rajkot: School develops AI robot that teaches over 550 students,...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXVwWXoyM01rWXNFOHVsd2FNa3pVSUtLVVpCeFNtYzBPSWp0aWtmUS00bHdkbHF0UE9URndRNTE3OVVDQU5ZNEpsTzJTSDltSlo5U1dZcWpmRmZKUUNOYXlRckdiVG5sVTZZRWZBdUJQNlkyRVhQWU1jY0JIUUhFY3NaVktBQzE3Z3VNeWY3eFQwTkQzZnMwT1A1alNvdVhuTll4V2MxcGtmejZ3Z3BYS1ZDal9SZlFEUk8w0gHAAUFVX3lxTE9NZExHd3NkTTRkREZMejhvWmw1d2cyWVJrNjVtMzZVZ1FIVU9kbHpaMzl1YTQzYk9pNWJicEJBUTZrRW9vbDFaWllwMWY1SGM4QWEtb3cyZ3VzU3dpMjZqekpOQUpJblRGaDluRDdKRERjLUpVSFMzdHRjUWZlTUZzZ1V5Z1UweUpFaDQ1TVVoSXdNaUViYkFqX0libnVmdTBxWkx2b2hiWEJGSHZWc0o4R0J6dm9ncWwzU0Ixd2RfRg?oc=5",
+   "published_utc": "2025-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jabil to set up Silicon Photonics plant in Gujarat",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEtmUGZZVTBCZXFpaWpJNGxzdl9Kc1Y1c1pfaG9EdlAzdjhrUHVocjdHbG1zUzNENnJOckI2a2RFMEYtaUhGZlBkNGVwdTFUdm9NbVJsUi1KSlFLOGFab2tNLWJiTG9YX3NBQkpnVVp6M0x4OXQ0RHlsT3lwVVVwM2kwUHZ2UHZrLThyX3k0a2dZSWpJTkJoc1lyS2lVcGtxWWtDZDdzMWo0RVptVEUyWncyWkU4VUduU1HSAb8BQVVfeXFMUExQVXI1UEs5TldET3dGNFR2WlU0U3VBQ3loZU9uMWpfN1dfeXI1UkU5VVhPNmpERTA3Ry0wMnZmaEFfQ2V1VzZ5S2UtNWdHVW40QVU1VTBMZGVGMkJBRGtSNk8yUnZzdmRiS0U2MEJsQXlPSVV6S3gtNGw0Rk9sanR0ZnRYeUh5MFJrczVxZUFOcnU5d1RMNW01MklZWFVSMU50LXcxZ3FKNExzek9RYWs1T0xQb0o1X0J1VzEwcUk?oc=5",
+   "published_utc": "2025-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

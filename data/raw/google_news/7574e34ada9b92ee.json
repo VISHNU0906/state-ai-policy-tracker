@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "Ministry of Electronics & Information Technology in association with IIT Indore launches AgriHub, AI-Driven Center of Excellence to revolutionize Indian Agriculture",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NS3haN21zamdWaS1mNXNuVEIzbXA4dVFNVXE1YWNKQmM5a2t0QjBiRkhNZXo0RUZSMlVoT0k5OHpTNmliRUVLY0VBVkY3eUR2OGwzSWFDOTVPbmxnOUQxUUszMV9iMFRa?oc=5",
+   "published_utc": "2025-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt enforces liquor ban in 17 religious cities of state",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDdPaEkzc0pYanBwVlJxXzVubklWQlk2MFZyQmNWNWtvc0VOTEsyOVVTNXJ4eUxxcUswLU1hRTJmNm1qLTdKX3VuX0dpRnJBR1QtS3B0aG9tVFhmTnY2SC1HcDdWUS0yRTRjR0oybURuTEZWZHdxbWhUV0Z5dW5iUVM5dnVWeC1XdUdScEF3ZVc0R2t2Q3hvTDBCNXZKOE44cUh6VGhLTnhuMW9IVTZrWU52Zk85R3dUbTZMRkMwMG5ZUdIBxwFBVV95cUxQRU5DajJJZ1EwOTB0eVNCWXNlLS1jTEItUjR2ZWFYZ3l2bmRPajBnUGlGN1pscFVqWXdRRnEwMnpkenhTSjZkN1VHRXdmUkRDYTBneXR2X1JpR19JLTU5T3BRdDhMZmZUSjhpZTFYTUxSNmwwMzk0dHYyamdLejhCUXRLYkRCYkdBQ2I0dDF6aDIxOVVwUjdScEN4dEpCeC1FNXhSbkZTdkVUc0pXZFZQazJOcjhkT1duYmNqb3NDN29BT0lpcWRB?oc=5",
+   "published_utc": "2025-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government aims to attain 100% pass percentage for Class 10 and 12 by 2030: CM Mohan Yadav",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSWhrYnY0SVlzdVExbVZuTDktcHVhT3NycDJJMGtiOGl0NDl3eHc1QXFkU2FWRS16M043LWVReEloUXlxS0lpSXl1aU9UQWFRYXVGRnNkZGJnZVQ3RFFuYWNraldJcUZqZzc2SklFUXhOUTEyOWRjQ0RqMm1uUHl1Q0daNHZkR0oySmxqWWJOTnl0OWRfMXVGdUc2NEF3bi1FMjA3Wk1RTXkxcGUyNC1WYjVmWGp2TDhSTUhHcXE0X1M3RE0tSkZHdHRZcDYzUFgzeTRwRGhNM0owbmQ3QlU2YnRWQkFBdVVzOXk3azl1aUNoZUdsSWoxU015RWQxV0s5aDBaOWpES2I5WjdG0gGSAkFVX3lxTFB1QU9HVkgwV0t0cW9CY3Q5ZFZQVElrZXdNc2I1YUt5V0hKMTY0amx4cWdrYWhBQzhOS1A4TlNob1lObjl4Uk9ReU1KVExIVWUxekxSdklkbWh2REt0VTJVQmlnb3A5ZUM4UkRXdFdRZVg5Snl1RzdvWHJJcXBqaVQ4a3VXeEphay1hb2xmcGI0X0ZZTVZuMzdXVEVGQ2Y1TU1wUXdwRU5ySHZuR1k3b3FLdXVHSktWYUM2U2hfVllXOHctM25neUc2MlRnSHFsSnlfOENod0txZ09WczM3Yk5vTHVzcU9pbDExQ3BVd2tXNVFGejNPX1JXUFJBVjlta2oyaW10NTVSN3E4YW8yYVQyd1E?oc=5",
+   "published_utc": "2025-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Introduces E-Office System for Government Departments",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXVfR1I3VGNvYTkyTHp2QUhVc0Uyei1STjY4SWlvRUlIc2dVQ2ZUSUVIU1BhLURCT3JBUkR1T2VabkhGcExWNnBFUVdRZWhCbkZBNWtlaUN1N1BneWNnZmx0MGt0ZmlTT3daYjZwV3dXdFYzT1FILXBKcGxRZWQtTWxHb0EyaVVCVmZ2eXpFZnFCQ0Vscm5EcXNIdm9ZUS1BVjdTVG5xUUE?oc=5",
+   "published_utc": "2025-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhopal gas tragedy: Toxic waste from deadly leak fuels protests in India",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04OHhPS0xoTHBOTmFXVkRSQl9WQnpFUVZGbEdobVpqbzRYVzExTWlCM1N3RW9JRTFQOENsb3lJbWMyWnJjOFg4ZmVCTGRwOUU4SUNreE5TaHJRZw?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Government To Invest Rs 1,500 Crore To Increase Milk Production In 5 Years",
+   "source_name": "NDTV Food",
+   "source_domain": "https://food.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1lQdE5wMG1KSkpxYl80THpvemZyWTQ0SDg2Z2RaTmFVUTR1X2VDanM1SHRtT29EcHV1R0VaLXk4aG4wandveG50blcyeHVQUElQYkhTUFI2Slk0ZU4wZEkzcEVCQkRkZVJMQ0laakI2VHlWSy1ZUDNBTUhzM0lFTFZKcGZ6X0o0YXZYSzk3SHpRNEZVVEpNNWFpcktIU0RFbTBYbHdQcXU4UdIBsgFBVV95cUxPQmVVdlRfanN6UkZVRTVDdDE3RW8zeF9CTVU4RFRxOXdiSVJmN3pXWnZDc0pELVZVQ1duTUNhN1JEbmJES0JCT1V5cjhBOUluSTFJQVdONVg2N1JZQkNPbTljS0xvUGpaeUlMX215V2FoVkQwVXIwZmhXNl9jYlYwOUtVSjhJcmhJc3FwVF9JT2txR1RGSFZiZ1dvM25IWVMtN1R1ajdpTTlycDh5YTQzZFFB?oc=5",
+   "published_utc": "2025-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Explores Introducing King Cobra for Ecological Balance; Experts Advise Caution",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3Nza01SVlZrZ1NDczVjZi0wSVJPdkcxQ2c5YlZyU09vWWFYYWliT3lMekl6WjRxSExiQXBMZ3JRUVNTOVlIbXVPbzR1bmZ3Q1hzaTl4X3BRYXIyQTBRY1FCYnNCQkJxMEROUHVWTC1rRnRhMzlUeXh3ZF9US2llSURJNVJXOEJMSUo1dUF3NUZXMGpIZzFCUmJjZ3NONHVXZ2RUU2o3TEd3Y1pTNTBxZnFrNnZaMWNhSHRCQWdPVXBOZWtZVmctWWIya0Z0UDNOZndoRTdBWGV3QzU1dW9kQ3VUSy1NSzNmZE5xcmp6SjBKdnJOYnVHdWJB0gH_AUFVX3lxTFA4STQ2bHh2c1NScDBvb3BwNXd4VWdYUmZkT2VzeFRvaUpWRUtBazk0UHBSb2RwN3FRRHpIQzEwMFltM0FSMkRTVXVBTGtyWnJxWlRlZUl0UGNVbGFIZ2Z4WDdDckY2QmVXd240bmUtc2diQXFmaV9kdS1TWFQxY3d5RktSa1JVWUQ4SS1GUFd0TG9tTW9hLXBlM2pWVFhnOFQ4RUlZUURScFZYRExILTlYY1RpYmYwbjcxNm8tRUlJS3BxVlVWbUV1U3RZUkYyX1cySVJSdk1ObzYtQVpRVkY3Vmdmd3NaNjduZ1JMMUV1TVNHdjFIajlncU9CNnR3TQ?oc=5",
+   "published_utc": "2025-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "100% pass rate for Class 10, 12 Madhya Pradesh students by 2030: Chief Minister",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUEI3dGpIQ2RRWV84dUwwczk4clEtd0xUV0gtdHZCTUE3VGU3bG1raTBVQzJlOFlzakwxN0kzZUJIZlZZYmd2MjExQk44TWF4b0tlYk5LNUhhaGtMVmxfYy1HcFBHbmZPYUxMdW0zMTB4V1ZnVU14SUM4MTBCdm94TFdaMXNnLUZnaE5IUktzWXBleFk1WVVkX1FfaVZRUmxJblJ0VWxIeEs5OW5Xc0gxSU5qVW9nZTBoWHh1ZXgxNlV0bFJTYnBoOHR0STVSYm1HQkVKSEtYT2V4QjlrWWZmaGt30gHnAUFVX3lxTE9VeGQ3Y0JFR1VqQmlGb1h5ZWpWNGwzVmdOMnNUWkRKb1d1aTNkLWtoMUlvTUFma29LQzdzRm9uWnVvU2hpN2hSOHN3WnFKdmZXTDA3Vk81NmVxVUszTFpPUmJmV3VFZXRGOTZfSE1lZ2d2NU43TDNhLWI3NDlWWkVSUjh4dnNwYnphczl1aWl6bTYzV1ZITUc0S1Jwa2R4d3ZkWGRhb2NiTVVjOFBhSmVVWVZHeGVnakc1cmw3VDRPSXJKU29IMDBjeGlsbktua29lZ1hRLURuRUd0bFpvMTV3VG8wa1NDMA?oc=5",
+   "published_utc": "2025-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Building the Future of Technology with AI city in Lucknow",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkhtTXJlYVZTZTV5M29NOE5hVmxUSW5lMmQyaExTYkNnRXBLZ3lCU2R1V182OGRsOU9VTE5fV1ctVnZ1ODhjaTlfVWxIUENXMTgtZ25pTGQ3WTJEdDNieFoySTJpZVJHS1IwSGpxOGZpT3o4akxNYWlGQUg1ajVYdGJZM0ZySzhjSlpfNmVNN1dzVjNuZVJlUk1Ddw?oc=5",
+   "published_utc": "2025-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Chief minister Says 2.7 Lakh Vacant Govt Posts Will Be Filled",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0hGZUFPd2k1TE1yRHRmNUpjZWg4R2tabEFxMWlIcGJ3WUNSZHo1bjFSLWlpV1pRLVRjTm5JSG1pSVVNM1dtbXNQdlhvSHlJNjZRVVBYQWRId0hOQmJoYXpWUWE4RHUzekpEcTZCNjJUcXd6UnRJQ0U1VlZxb1JqZGtJU1FYRXJXZjYxSXBjeDVGaEc2a3lkVzFVejEyR1BtbG1OR293UjAzYTln0gGyAUFVX3lxTE9fRV9Uem4zLU1fd2s3MHpaR05DYWRheHU5SzU2cHY1Z1VmeGFIQWY2QnYwekxjMVBZMkctVzZWdGduZEhUMnRzcHFuX1l6cUhWeWlpcmFtdmtoalg0eGFqZEtZUjJ6UkZKVXFuT3dMQ1dSTTQ3R3d0U2NZX05nM3ZDYmhaYUZiYUR4ZG8zam95ZHkxUFJPXzViXzQ0M0ZDUC1zMFF5ZFdrSmh3cmEtSmNDQ3c?oc=5",
+   "published_utc": "2025-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

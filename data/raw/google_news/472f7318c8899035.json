@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "AVEVA and Government of Maharashtra Sign MOU to accelerate Maharashtra Vision 2030",
+   "source_name": "AVEVA",
+   "source_domain": "https://www.aveva.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTF8yWEpkelZVanQ5X1QzWlE0NldJRVdONXNYRFBnbEdGNERnbjE1SWIwRlh0SlBMekswUGdjN3AzZDNsZVVQSURYQVluRzUwYmRlRE94TG9iSjA5c08yVl92Z0o5YldSNkktOHRDWTZWSG5LSnIydWw1ZnNOaHM0YTZjYWloWWN4NTQ1Zm1sZGlTcFcxb3RhUS1RSC10M0htaFpMc2Q3dUZCYXZpMlVMOUhyUHpfRk9ZLWZOVnB6ck5HMXNVZUNPOTAxUVhaVm1UdjdYQlR3?oc=5",
+   "published_utc": "2025-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AgriTech 4.0: Making Maharashtra the First AI-Powered Farming State",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWlh6bHFGWGNxRU1tdktfNWpoYkJrd2VLU1pBSDI5VFNLVTZOMmRQTzF5cnR4QTJMUFFva3p3UFNncWtBS1hmRVo2Q2Z0YVlsaXNvamI3Z0d1eURsbTVVWXVtMHNyUXpFQWo4WXFmM1NhQ01lU1E2QWxWNTVmT2l0RjU0dHZ0RnJJLW1CSDBCNllNNmVVd2h4SDc2WXVxT3g0VEtGT3p5dFUzeEtVMXNpcUdLbFRKS00?oc=5",
+   "published_utc": "2025-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI in classroom: Can India bridge the gap between ambitious policy and patchy practice?",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjFoRll6dFlpaTNqNmVKTE9XNUtfWUUzRGRTb192MF9QdVBaX3RUQWwzSGxzUkExU1U1RTFpZFNabm9zc3dRNE5ha1B1S25XOG54S25RNXBwUDJUcUlwYTlkRTBXOG5OZkVLT3Iyd0ZCWmZYbzVRbWZpY1lpZllrZjlXOU5DS3pMVnhMNDJXbzR1SS1zQ25nS3JyRWZ4a2JRNGotVXRR0gGrAUFVX3lxTE5pTTNlUDY3ajNhSElCcXBpWFVkSlRpQ0RZclBJaTRFMVZSYm5uRGlRS2drb2ZZaU1jZFVYbkhuMVVUQW1Cc3JpQVpiNXM0eU5wN2dVSzd3UmxnTUZpZGxCUTZXRzhIdHFqR1FzX0p6TmJXb0Q1UEg3bEJ1Z3NoUGhHd0M4bl92ZXJDLW1GTVk4clMwU3d2WF9tYnp2WGpwaUhYamJWaHFFZW11QQ?oc=5",
+   "published_utc": "2025-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Signs Rs 5561 Cr Mous With Graphite India Virtuoso - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGl6VDZ5YWpSV3pKOERRaHZHdmpHaHJZd0k4X3ExV09xTTdrMjVCYzBaR2thWHRya2tjYmVzbzE3dkxLUXY2UEtfR2FqSHdDeTdvV1R6RXp5OUJTSkZWLU9FalZwQWkzVnhUUUVULWg2VjFSY1pTeGQ3eVFDMHhJTW91eG1RZWNJLUNGZDFMeHhwYXRxNUdOdGwtekkzVUd2ZnZ3UENxdnhNQkljamFnbXhGMF9nX0E0?oc=5",
+   "published_utc": "2025-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt, Lodha Developers sign ₹30,000-crore MoU to set up green data centre park near Mumbai | Real Estate News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQVZJamtYUWdteUhBdEdnd1FEeXRTQm03VlluVnlZbXNxZ2RPNW5VUlpUNGJJaEhlUDRfTUhnSUVPRS1yRmNsODBqVUNjeHA1RWpWSkpGLVdMczBDYTQyUlVpSHh6bzBaZTZ2cFRsMWZaZG5yMkZPWkQteldIT1VLUE5UVkV4Vmx0SFpDMEJkSENxS2tpZG03UlBURUNTem5rdkt6aWRWQVdTQkRhZGJTcHBYczdUQUhCRXFNbjFpYTFHR1dLZFBWMF9JS3YxODRHR2ducDlUb0VZOWR4aHpfVlJoQjI5cFFnSFVUTUZlcmIxTjBhMUxV0gH8AUFVX3lxTFBEM2V2SzZWeW9BTUpENWhRb0FtbDFDbWhQZE1jY25aSFRyY19SMmQyOWhNckpFVlZyMmZtY2xManNuWXZIVDRaTWFPN2ZEY2pTLWF1cTVrSmdqQ19IVGdLR0VBdjhDTE05emlkZFphYmVMZ0RQX3c2YTlxRl9xYVVsVDQwUmJWcmR4ZWdZSmxFMHB3NlRGSHM4NVNway1oRHloc0wtMzA4WEtCZUxWQXNJbnYyWWxJcjkwdTdWN2ZOWFYyeHo5c3Z6eTJXXzBKVDd0eDBTV3hEaGVOS21UQ2FDSUd4OVJseXl3WFBfNHN0VmNfWnFmUnZGMDNtVw?oc=5",
+   "published_utc": "2025-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai Airport inauguration not happening on September 30: Maharashtra minister Ganesh Naik",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSHZXSTdha2FtQjhXV3kwckdVNjN3ZGotR3JBdk9GdU53MTlhd1BMU2pfR1JvUldpNEQwclBEZWFLUExITmlzODBVb2g3cmxUVmFSNmZIMzVubzRDM0x6ZEEzVmswY1E3X0VWUmZ4MU9sSFh0YXd4bHF2dUNNWklvMHVfYThxYjZ1cUNOSnhJZko0ZjR4S1BQT3BMX0owZlNJQmpreTRWZGtNRjBUMDNhWGJmVmNkMXhrWUFoMG5PQ1dCaC1PX25hNmJxeGNCUmhVSHfSAdgBQVVfeXFMUDBHclR0OVBqZG10SDhQMVVSY3FKV0N2NEtDTjJwdURxdFNoOTFHNWZTaEhlekJrdC0wbFAwRFdMNkZocy16TTlZS05USnVXTmlpQmVKR2JUUUxwcmVKbUhJNVVhaGxFNHJSbHI1dzlaYlQxcmYtQUJneExvWVVlYVI2dGJuVUJaLWN4Q1pSMjktR0xXckVyM1pqNG1JVHJwNUl3eUllMThDX1lZSURBcUtodXV0cWhGMEt1bU5ab1BiZkV2OGtVNDBMOHlKcllFTUNBQkRDN2Vh?oc=5",
+   "published_utc": "2025-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai Airport set to boost MMR air traffic to 15 crore passengers by 2032",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTThMZnNYU0MyT2VfZzZUdllwYy00MndCUWRZSTVVM3JSMWVBR2s0LU84c3RORjlVSDVwRUpDUEMxT3hrS3J1aVJBX0FDRXFrU2NEWG96akJYY1pTbmp4dG9UTGlVU2tWdjBlWE1UQWgzemVsd0lpT3FXV1N1bTdjdTY5a1F0cnI2S0VocmdzYW5PLUFfRGhuRmcxRzNlclRQTXV5T3RLQlhwSTgtQURteXRKc0xxcnBEdW4xODZzalBUVHlVTm02VmV1WUdRYjQ?oc=5",
+   "published_utc": "2025-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Clears Virar–Alibaug Multimodal Corridor Linking JNPT, Navi Mumbai Airport, And Trans Harbour Sea Link: Report",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUDFtQUg3NlkyNkt2dUc0eXp5WkowMG1yRXY2NjczdWFPQTJuNkcwbHAtUW9WZmxzRFZ1WnFESTE0YklEMzhMaUFLVHB4V2ZOenR6OFpkejYtUGUxMXYtVGRrWEh4MmF0LU42Tm5aTlJQNzRQNVF6TTFaejJEWEhzWTNyWGFiWl9qRWdRMlJBMU5OWWJjc094VDJiSmZxT1BfeF8xM1AwdHdoUm1Rcmd2MUVzeEF1X1JTS0lONUhZMmpmeEs3dGtQdEt2RlkybzZqSDFsQ2tKSG5lN1RSYW5QaklQTzN1R2U40gH4AUFVX3lxTE5ZblZyVEVzZGMwQVpQaW5JaDRBT2h2YzltQ08yX3pCaVgwZ1pHb3UyT3Fib1Q1THV4MGViZ2phUGgtMUQwNHU3Rnl3TGxyVzNaQ1pDcFVPeUxsV210NEFXZGZMS2I0Y01XSTc4cTJlVmtsU2laNzF0ZkQ1cnZHX1NWNnVsQzJFTlBsb2FBaXJ5djVQbUxQclRocEExRnVkbXp1M3ZmdGgwMDBySnhzZmhVaVk1MkhPbU9YbWFIelAwVXJDNUpQNkVsY3pDaFFEeXBMV1NkVl8yTGk2ZGxSNU1LS0xRMkpKR1daQUhrMWQyU2h0eEZIeUk4?oc=5",
+   "published_utc": "2025-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves ₹1,296 Crore For Road Repairs, AI-Based Monitoring Introduced",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXFrNzlXbmdMM1o3a1lORWU0c0dLMGUxODlweDAwa0wyWkFQTHUwc3FjUHplX0RkbUhfQ2FNRDZyLUhmRnNLTzhMb1BCQlQwM1l1dS1tWk9oUW5nZGpVNnQ0ejZjbUdMbm44aTJhSVpfR1l1LVljMmlrd1YtZjBaZzhjSXNHejRaY3IwNk94ZDVkREV1NnBtYUJZd0ExSkNaWXNNWl9rdTB1MHd5U20yNTdfbjVuUDg0eGfSAb8BQVVfeXFMTS1TalczZzIzOEZxTmxjTnVUYThiQTBzNHNpQktDaTRIaW5RR0R4bE53cmhfV0I0M1hlNWp4c0tORE9LV0tzT0xiTzJmRkZ1TXNVZTNjN0hBRjNrUWVVcnFpbVVhNk1xS3lhNW1wSDVLNzk3WTFPN1VRSFFRNUdHMWRiMGt5LURCZmJhWmNUVE45dkQzaTItSVZEZFIxbWpkTFdVaEdpcUdXQzhDTlF4cHl2S2p0TWdta1NiOWtUeG8?oc=5",
+   "published_utc": "2025-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: AI Surveillance, Parking & Safety Measures Planned For Navratri At Kolhapur’s Mahalaxmi Temple",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcHVBc2p2Rkxib180Z3M4QzNGYnEzS1R3OXlaTTQ0V25JZGxSeFZBekZickFTejloYWZydm5sWHhYUi1aQWI4NW5QQTA3OXZYcTZPX1A3SVdwdEF0YUROS2M2aVYzMnhkV25WbGxEVDZlN0Jnbk9abVRKNW9nbUg3LVBiNmR5RFpmWWF3SGFZczZERHExLTNEaFFIbVlLY09VOTRGanVKdGo4T0hnQTBTaUg3cHk3YWJzOHNVbWVoLV9BMTJ6bl9ZZXB1NVZ5X05xbHo3STd1bVnSAd4BQVVfeXFMT2ZjQjNvbHVUc0FsN0FqSlhyUW1xQW04TVJkNFFXMkdWQkMxX0hlXzc5MkJ4TGZaOGVjT1F2ZTRtSzE1Z3NZUndhR0g3UVVpbmJ1OHFHWkR0QzdCRjBMNGFFLVBXbkNmNVAxRnNvYmxDTVhvN1I4YV9rSXdNUDBDRngzUXNiaG0zdGdvR3VhQzdxd3R5MUlVUGlhakZCY25IeUMtV0Z2Q2VfMjRhanA4ZHJ1UUt5OW5ZSTI4TElWN0ZBR21DTW8xX0VacFhPMkFrc0lWZ0o1T25TZVI4dlBn?oc=5",
+   "published_utc": "2025-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

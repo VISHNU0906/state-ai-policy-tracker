@@ -1,0 +1,61 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-03-01 before:2026-04-01",
+ "items": [
+  {
+   "title": "Beyond pilot projects: How Madhya Pradesh is turning AI into a governance powerhouse",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1Y2TnhYdlFjdjEzdnRsakpaR0tITXZlaFpNbGFraW1GUkxvQktjWHBZUTE5NC10RFhsSm9lMHIxZC1UMG5CUFNiOGYwTDVxQ3dkVm1YcU5oRHUyY0Y3Unlwam1TcmVQWWFFOGtEOS03VnRpS05Qc0VRSkdpaVVOY0djOVFKWHhhXzBEQjhhbEc4OEI2dkN1aG5JYnFHb3U1V3hwc19RZEl6TjBjcnE4SFZZZWdqNE9BenNMNGdCYzBpTDRrbmROUzY1azFlMzlIalo4WGI1X2vSAd8BQVVfeXFMTWg2WUJiU2h2UEJDeDAwNC1WcVN4T2hhM2FUZ3BKeGZFUFR4U0hfal9wUWgwbEVKZHZOaGxCU2dyZHhHR2tQMTk0a1E3cjNvdnJlc0t0YzQwWk9yNE1Jc2loVUtMWVRRWmF3MUdDVExlWnhIaHZuNHNzWFlyd2xjbTZKNk9sdWsyOV9tMi04djJCaXhqcTFzT3EyU01pUmk4dExKNmJnQ2o5TE5JUkQ4NmV2a05iMHBoWHhfTlpvREZ3cXVjekFBLWJqT3BtOVpmaENiYVdtSUdDYnJ0Ym9Taw?oc=5",
+   "published_utc": "2026-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP to soon launch 'AI Mission' to improve governance: CM Yadav",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVXY2X05yVW9vaVUySU9WUDQ3RVlzUkdXcEpHa2stN3pidUQyaUtGZnNpZEpETzlneVk5eDg1ajFDM1VlMkdGcjBQa21IdzRxOTgwQmF1YTVGSllhQzRHU01pcnpIQ05tSDVNTnRYZWZLSVhDU2FoSVdDa3BreDROUHRJZWNsdy1jd3NlczdwRzVSdTkwYm90R3cwdUxyQlpPc3BiVzFpVW9zWWM1X3Z1QUpHQVctd3lXd2dSQjkzR3lBcWVuWVBkTHh1NGVDYnJPcEE2STBVbGhjdw?oc=5",
+   "published_utc": "2026-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Brings Foetus In Courtroom In Rs 200-Crore Case Against Maruti Suzuki",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0RxaUNDWnFUcjI4WVFtYnVtRG9qWm51ZXZtR3NidVo4MDJkOGU2RUQ0Ym9YNmpkN1JGY2VhQ282dmtocy1FdHlyWW5va0ZPYjBVa2pXeXBCM3lGWnNpUjBWRjZybEM3Z0tOVG94Qi1BM0UxbjlRdUJ5R3BQaUstVEFuUl8yU3Q2WlNCYUoxRlRZNlk4bkM4UkJJZ2dsbGNVcVVOdnIwWHlSYTJCanZ0OXEtZklramZ2TC1IUVhZVmFMNGZQeWfSAc4BQVVfeXFMTmxYMUpaeGJLZHczdmdaMTdKWWw4QkNJV3dMRFNab0RYek5WbjNSZU84UWZpdm4yWFVNajNKM1ZaNnY0QUVBNFlTWFduMVc4VURkSm9TNWNab25OeTFqMDNlU1c3OFZxaWU1ZmJRVkI5d1NEYUxvUzJQTkpOS1B2SXhMaVpMSmNnaUEtLXJrMUJJWTlvNmUzTnQ3TTdMUVJpekViTmhyZktZVlZkZnhfaGx3Q0dmWlotOUtpUElteTZYN09iRFZWS3pWTkV1Nmc?oc=5",
+   "published_utc": "2026-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Solstice Data Signs ₹52,600 Crore MoU to Set Up AI Data Centre in Kerala",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFlVejBXMzBGUFdkaHlNbzVTSlJjLVZUNzU3R1dEc3l5WG1lV201TmRTSC1EWUhseFh3YXVHbnFobEpiME42QnZZeXo0TWx0Y3dXLVIwNm1yc014clpJZEtoLXFLRnNEaVpHczBqY2JOUjRfNW5sOFVLdzVTbUtUV2Z0cFBLRFY2Y09YMXZqLUswc2lGeWVPY0J0eUtEZ0VOWmtubVFxTnNBVHVk?oc=5",
+   "published_utc": "2026-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 125 Crore A Day: Madhya Pradesh's Debt Belies 'Performer State' Title",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxUTzdrZ3BaOUdBMkdBdlVUczkwOGVGTEl0WldxNHROVlZOdXVrZ0p3S3VEZExqQjN3cVhaMG41Zk5wcVhBdUV3OHhhcWNyeFo3UUtjeEpaM1RFS25fUExMRkNOcjNZaVVMU1k5cDNFLVQ0VW5lSmVHSHNzeXVBSTI4dWtRdGlrUHI0aGRWcWNlQnJfbVFSa0UxM09weGVDUWUtMGNkdEgwc1hFNUHSAbYBQVVfeXFMUDhoeDFHa3prZTZGUDlkam40elZvX25rczdZVi1sQURQc3VyczJxUDIwZm1YelNaOFh2NlVfVU9wLThXVW1JcFMyTExoalJ3Qy1JMG5tVVNXYTZGNW5SOG1wdHdHbExYeTdTZ2JhRFhQUFZObGJ0bU9SMHFnamVWeGF5UHFUZjdxSXo1LVRWekFLMzJydXBIdTZSMEJaQUN2dkl2T2lDNWtDMjJXM19BQlF1VFRTTkE?oc=5",
+   "published_utc": "2026-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shocking Courtroom Drama: Why a man brought a lifeless foetus to a judge’s dais in Rs 200 crore claim against Maruti Suzuki",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjlHSERvbF8xLTFuZlhxek1FOW9UVGZPZVNidkk2Y2REUjNBdHFlRW9RQmdCVW1sVFhQTzJLMWZGMFJ6VmVra3ZkTEExa1duYVl1ZmN3MHQ4cUhLYzVQd0EzQlRXazJtQ0RKMVM2MjB3ckxvdWNETW5vaURFbWZiSjFhYjlJdEp0VkRwOWJzbUdwTGpnOTd1Z1FVUVdscXdFM0pidTdaYndoMkMwcnM1Y20wM1lUZ9IBvAFBVV95cUxPVFAwQ2gyZzh6WklndGhWZEtIb2FWNGNLemdmNy1aN2ROYVU1dDBhd3kxamJJRnNPMGVMak55UGtKQ0kwMmxLZ0pWU0pkVEdWVG9IbnRlRE9OczhsSzFoNWJhVlJUR2tkY0V6dzkwS0k5YmZnb3JTYzl4M3M4VWN0X3RYS0hwNnlyY1dyZHVHZkFlZXJOc1FqZUdWS1RjX2h5aG1QeWtWR0pzV3FMRlotU0UtQm1jWHpzcXNiUw?oc=5",
+   "published_utc": "2026-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Official, Who Won Rs 50 Lakh On KBC, Arrested In Rs 2.5 Crore Relief Scam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOblRXczU2aXAyNld0WUZKTUVocjdGTEZwck9QQWlueEdhbjF3Uk12SElKbmhPOHpEVXZVbWpSNFVOdnloUy16T3ZnX0pUbHJBcmdpejlKbkdncWFrb3NUUTB1SmM3UFpPU21wWTYzRFFabHlIZTVvMms5RFpmSlJuOFZWU2hfQ0RRZ0trckVvX0piTWZlLWROTmp5TDNrSi0wQ2J3b3N0Q2s2dUV3ZFl0SkJVLUpaTXZFeXJzbUsyLW1HRDVuZkHSAc4BQVVfeXFMTWpXX2tfNlY2M1FGM0VWSW85WkFiLVV6TFdibWEzYl93VFlwY3NVV0VVMUhCanlGazlyVlVsejhTLU43emhuTDg5V3NZR0dUQW1QQzZBT3dIZmI4ZHp3M05ubkwtcllSNGVFaVJ1SE85NzJhTF9SaThLWTlQSTNtY2d1MV9wY1lSUmZwczlfZ0E2V1l6N2pDVzlNSDRmN182S2dwRnJFT3gydVpFcERTUWwyb05OZDFocDhDb3QtcUowalczX1BkdTdxMmx5VUE?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

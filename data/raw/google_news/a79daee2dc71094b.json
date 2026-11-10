@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Naidu lays foundation for USD 15 billon Google data centre near Vizag",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnFPcHNTTEktYUVibTA1TXIydWRLcnc0eWhXRmhIVG12bmtzR2xCcDVJdXFVTnBWR3o5MXN0MWVJV0VfLWhBcTk3b0lMREVxeGtNemp4UFFGWlpobnJlRmZxUVNPd2VrNFFVQ3VpUGcxakM3NWpDdHRBNTJjOERqdE9qMERtVERUZWdva19nSzdHZXhaclNmc0V6RVE?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data centre gold rush risks blackouts, central electricity body warns states against tripping grids",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRk1JbVljNy1iaGU0czdwWjlUS3VlYmgyeWszb3lPVGZBYTdMempZalp4dmxkQWhmcV9VMTROYV8zTjhQX0o2SERBaWtQWm1oZndfcm5JYjlQeE96NHFnSzRrXzdGQWRlVHBqZDhYS1hLQ1NKdlBHR0Z5czg1OGpmbG1McVl6UDNVcUNscDVYTk1udDM5NlhPSEFxSWdRdUVTR2pQLXJaeGZ2bkJubVlJWXl3ZlhzMktfOVhKWDctUTVsa1UxR0FzOXRyRm9CU2400gHWAUFVX3lxTE9YbWJPdVVTZ2ZGckdmZWUzR1pldS1LekJKYmZuVHFFbUM5b2ZueVJXR3h4UVo3QWFIaWRnbnBYOHNBT3NzQVJ1SHhlcU4wWDhEVzJFVzJ5a1NyNElCTG1iYlBWcUpjQ2RRVmhUcTM5SEZJQ1hybmpSMHlCWWZvdlhJSTFQYk45THFxY0ktZkhjWm93c1VKMUY3YWNnbUxVNmR4ZEdDck94cHBfNlNFRjA0Z0NOT2NzUmhReUN3U3pkczJjWWdDc2RVeUY5MVExUzgyckVxNnc?oc=5",
+   "published_utc": "2026-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data Centre Clearances in Andhra Pradesh Challenged for “Fundamental Failures of Science, Ethics, and Public Responsibility”",
+   "source_name": "Countercurrents",
+   "source_domain": "https://countercurrents.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXFuRk5VTWFFMlNBT1EybFlWYUU5UERsa0wyUlZYeWdsVk5sTGRDVUhQQm4wYTFueFpDNDlxalAtVGhxMHI4VEdWNkpLWGpqbmZsU1hKSVFmMkVOODRacFBEV2FqT0NwZ1gtajhtX0w1LU9BWTV5UnB5Z2RSR2IzLVdnbnRVUDZ6WDNOZFk5dF9mUEFWdFlvRUtDMklpZGgzTGNSQ1M2YzA4VXBscDRoajdUdDlOVlNBN3NCUVdxY2dnRXB6S09fQ0I5M0NvSWEzT2ZhOENQQTVNV1l6UndpekdhRjNkSDJVYkhyNWNn?oc=5",
+   "published_utc": "2026-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s AI data centre boom is real, but execution, not announcements, will decide outcomes",
+   "source_name": "CRN Asia",
+   "source_domain": "https://www.crnasia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0dhMjdzcUNBNWtlOWJoZ29BN1l1b0NCX3NuVFFjc0JkaklMb3R5LXhyVGZhM3gyNVBnWVpFREswYmRJaVhUUzVwbjl1bHdxUzc5bUNscmhRRW1ldkJfVzVYSUZJRDJKaXlYT0hma1JGODUybHU4YTZvSlJHWFVVa2dtZ2dscmVuTnEwQ3dFVlI3bnZkc0J5NEpDMXk0aWVWUXBaR1hvYklJOUwyUzJ6SHlwWFdiOGgxYkxPU3liTlZXZzBIbkRv?oc=5",
+   "published_utc": "2026-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With Rs 6 lakh cr investment, Vizag set to be India’s data centre capital",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVFZmV3Q4a2w0X2JuajB2MkxBVlgxNjE1VHFWT3BYRUU5TnBBYmNhcVdRNTJQcHlmZVZSLXliYWJBbTBKQ3doUjNUR1lCa3RubVJwUkVLWDZvdWhoelZzTTAzeU5majE3RXhKU2N1YVZDNUZhdF9DZERBSHR3YkVmMVhtSFBpb3hGRG5IQWhPN3RqQ2lDTmNoWjZadHpNRXZTNk4xSDlHZTZkZVNka29CcGo0dlZQMEh3LUpXWWRVaEhEeVRCVVNFV3FrVWd4N2hOOVFPbkE1VjVBbm5NbEFETF9IONIB6AFBVV95cUxPNE5NZDJvYVQtOFdqemxBUTdoOHc3TjBOeXBhRjdscGlxNzVJSEJqbl8wOWtVMU90bHhSamtkVHZEQ0RvdERoaklWekZSUjctZndJQ1pUTVZmUHN5c3BpUHlKMDI1VkIzcXZpX19pYXFnZk1WdWhQaTNqby1leFVnX1I5aW9LdS1kMFAtSThYdnlXWmd2NnA4cHlpVkUyTTZ2bFJpdlBOTUhFN0kzYWs1NUMyOUNpZ19zXzNSbjBNSjJrUl92VDc2VU5kWHNDaXNzYkttTmRWUHFNTFVGS1BBVTlIRlhDa1FC?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Operationalises 40% Investments",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajlZaFpmTjZVeHpLT2NvV250T0hiQXNqS1g0d253eGFSTnR4VjNlUnVXVnh1cExJc0ZBQWZEUkRiYmYxeHNHbll5R3kxZUlHOUtXelZBS0VTZ3VNelZaUk1TUlNvY0JnZWQ0VThhRF9PVTVOb0s5ZWJQVDlzUlM2R2NobXpqLWQzb2k3ZFhWWkpaSTk2Z056WV92YnczWEM0OUQ0VlhOM3Znd9IBrwFBVV95cUxQRVBpNmgydFQ4VVpMN3R5YXBWUHpGMEh1eVJ6b3ZscTZxR3VGNzBmUnQtZXJDV19YZG9yYmo4d01oTkxkekZuVzh4VVdKRm5wbG5BcC1xRUxBOTJxVmI5R1VfS2gwaHpZYzZqeTFIUTBLSTk5enZRU0N5SGRqQmNmTFJ6S0d2TUtycHdHWEg2LXc3TVEwNDgtSl94TWQ2N0RMYkd6VXZuZXptU2sxdUFV?oc=5",
+   "published_utc": "2026-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amara Raja ramps up lithium play with telecom, data centre scale-up, eyes 80-country expansion",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPenExeVZjdkRTYWNnQjE5eTVXZmsweEE1enpXTXhGcWxaN19KOUJVcmFRaGMyaUlPcGpQVkJpZUJiOGJGQlpSSW9aZFBjVFFNVHZRbjhQeVpCcHltN1pTTk1laUs0eloyZ2dVN29jeDJDQjJHZ0huUlpSZzByZDZITUxOVEFBbmRJelBvcVQzdzM5VVVJYmNIMUU4V0VyTEh5OUdwYkxNMzM3a09rUzQ3RFlXMVNHXzJyVlVxUXZxVk1NZFlsR28tYng4bTN4RDM5aGZHS19mV181TVRRckI3Zkg4ONIB6AFBVV95cUxPM0NVTnhUTTNnMTE4Y0c2ZEhIc1ZhcnEzTmpIQW9jZ21naEhlaDNYUlhSMk9TZkd3dEJLRkVmSExnMWlPSW1LaThYd0o2MzdDSmNvQm9KdlVtTkxrUGoydkl3ckxmcEFlM1M0QnJhbTRfTTlzNXhheUI1RmFWc1I4TzlwVnRENTJERklDZnhhV1U3Q05NcWMyWEZkRThWRWZQazJ2eG4tWEJCajd5YV92ZmhQbUxTRWtyNGlRVC1LeGxRQ0pxWEw4U0FTTHdueHRlZjB1UDNIbUlzMG5XNHNuWjdtWl9UeWZB?oc=5",
+   "published_utc": "2026-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "APSEIAA Approval for Google–Adani Data Centre in Reserve Forest Faces Legal and Regulatory Challenge",
+   "source_name": "Countercurrents",
+   "source_domain": "https://countercurrents.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZFBhMFVPTkt2bnhUYi1nLTh4eVFEdVJfOW0wVTZOWUFKU2tlOFRUTng2UHQzaE9yb1FnWmE4SmdOZFliSXJ5cWw4eURZYjM4d29NQncxMXFkbDRfQ05jdzFxQnRTcFdHNVN4YTBPak9BVHRjWWRsV1pna0hCV1NKUEl6dTdQR2toQXZxMHpvcDFNdEpZOUVhN2F6UzV4TE9jNGhiNXVOYTVQOGZORnR6N3ozNzIyNlV6ZUgxWDlqcFByZ2ZKQUFGQi1oNU1CeUlpZlhr?oc=5",
+   "published_utc": "2026-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP unveils deemed discom policy for large data centres",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR09RcTZ5UTJrVFhTM3dQYS1vVkREV0FjUEhiZFVNdnREVlJXNjBOVF9nWS1NakhzanFKeURna1ZqQWVJNFk1T3dyeVlSOXVuZlduYkw3bmVRWDJWUWdyX0VjdDlNRlVCdEtqb3N0dmdCbU9GRXJHeUZmeU9GelNvakFIVENWTmtaeWVSVXRvMWtXbjhXRl9XcVZIa05ydkZNQzktdGpHdkdKNUQ1SDlrdmYyNXJkUlBvNWJ1d3dZNzNXczd3MnJ2dUlad1PSAdIBQVVfeXFMT1FOZ2NSb2FJMlQ2QTFXVFVuSHUyMFNqdTdERXRnTXZ2TENBRzI4ZEdjODlXeW53eUdOWnVCbE41SFo2R3BLb2FvZl9KdTR1bVA1SE5TNWJXb0xac29HX0tCOGx6LW1ad0FBSkJMb1dzTHNDOUwxSHJ2dklGT2x1dEZsTnpqNGhHWkVlNEptMmktbkNLOWJ0RnUyWS14dDg3RXNWc2FQcjhXV3NsenpfOWktOEx4YlpBREF6dS1mUXdET0FaY0FXajJrdFA2RGZBYUdB?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amaravati proves land pooling model successful: Chandrababu Naidu",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQnBENHpNaVh2THBNTGRlMGU0R3BpZllPS09BZVhUbV9HTTF4N1Bvd1hBb2k4cWxXdHlqT1dncHhHd1gzWmZrWHZKUnBUZjVhWURZYnlMdWtKOTFUSDBfblBlMGR1aFplSXFtTnl4Z25xcFRwOVl3ZGhkdVgwdFhhTElFS0VlWE9ZMjRvZ3BEZ2RsLWtYNEE?oc=5",
+   "published_utc": "2026-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

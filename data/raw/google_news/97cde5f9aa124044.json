@@ -1,0 +1,29 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "India’s data centre capacity hits new high as AI powers a 4x boom",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2NwRXNLQUc3d0NFdWNuRm1MbVRkWG1NOXY3cHNDWWZGVnZleGNGZW1NYWVUQ01BNHpKMXJiMDZCRUFZa2xrR0llbS1MZHJjOHdfU2lyajRnTFMyUnFzSDZNc2RRWnhCaHAyMHNVTEI3dHFmR0Z6NGoyUjltUEx6Ykp4Uld6eFJnT19LSjNWUC1kUGxFYl9KbWdZQ0d3WWZDRHpzeWtFbEFlWXJsVm90Ym5SQnV0T2xKQXp6WVJ1Mnc5V1JPX2pLSnFKZnVMV3Y3cGxBbW1HSzJPbWQzdkVSVk9R0gHnAUFVX3lxTE5henZKblQ2UWJmLWpaa3VoLVl4b0F4VGdjb1IwWUh6eXVxcmZ3Tm9sMlZVcEViSlJRZmhjNXlYWUMxanpRWER4Z1N5bkpKd2dTbGcxTGdHNWxlQU9YbjgtUEZrbGtkTV9zWC0ycFJEbHBXdjQ2Y3NBVjFsZjBfNHZMWjhIT1c4b2NMRXkwTGQ4SDQwU1VmWlJBUG0xcjJudVdfbE1OSVhnTmVqcU5PMFMyaXphbFdyd2FwSjR3aTU2T3Y4aTdnLUc3YmEyRFZoV3RuenpZYXVpblkwWnNBVXRYLTgzNGYtaw?oc=5",
+   "published_utc": "2026-08-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Making AI a Strategic Foundation for Uttar Pradesh’s Digital Transformation",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXNDNWREUFFIM1pGblZROWI2VlpId2FTbnZkTE5tbnRCWVVfS3ludFI4N2JmQ1BNWGYxalJaMmRJZ25VOUt1SlRUQUdjV3BlMjlhOWxwS29vQ0ZaMHRlY3VZdERxRlNOaFZHVWp1TkRReWpUY1FhYnk4RDVfd1VpLWRkWFpnR2ttYWl6cng0RXVQTlZTemZSWnhtQUNJdGRQeGI4V3Z3TnJTNmk0YnhZOEZR?oc=5",
+   "published_utc": "2026-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Deepfake Blackmail Claim Minor’s Life in Patna; Cyber Extortion Ring Unmasked",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lMXUtN1k0RDZDWGFxLVlDZFJ4U1BWeWtBYlMxd05qeWRZTFhSX284QkpkQThyY0x6ZUFVeTlIbnE3ak5IcUpXc1lhOG1kRmhDSU8wLURKdGtXOXA1by00VTFGUmNGOURhYzNrSVZ3V1hZSy1iYzU2UWVIQQ?oc=5",
+   "published_utc": "2026-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "The Andhra Pradesh IT & GCC Policy (4.0) – A Bold Leap or a Half-Measure?",
+   "source_name": "Nasscom",
+   "source_domain": "https://community.nasscom.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXVlcnZyZEpIOWRTMVlDcDZsNzcwSFlGZFpNMXg0WTA1X0oya3NYYjNjTUhQcjRCNnR6akJPcG5LVlpRT2NIbkJnTzROU25rY3pCZG9Ja25JNlM0UUhsWmtSeVpiaURtX1VVYXFBZjZ6Q2V0MzZjMFZkb25aWTlWOVhyVEtUMVFpYllIcFY4SlU3Y0dzOFFZd2NJYVFuX3Y4UFBqVDFTS0R5bjhCX1FNQUNNNnpQMHVqN3EydVY3b0luUQ?oc=5",
+   "published_utc": "2025-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India Budget 2025-26: Full Details of Major Policy Changes and Allocations",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHNGMmc3RkUxOXpORXNRZDNFZEpVM01lcVBiSHdqRFVwVGdnWmh5Uy1Bd2lUUkQwLUFHWkhRMnpuRFF2TTB0TFBFWWdlUjV4MjVIOGdKczRWMFVYOFJfbUZ5cXcyM1E5RXByZVRhNUZCbzZMbWRhMGhsb0JkQkpyTS1mZ0FaWm5oWEUxZFphQUFSVENrNHBEYVEzRHZiWWRpdEg5OVI1blBnMFk0R3hZZUUxV1pjcjBhNHZjQy1VMVJHbmZnWDVNT1VlZXJ4QdIB1AFBVV95cUxNWHJJeVdsY0IyQW5DaDh3aW5sUmd2cDBBcTNTOGJVRGZidi15UHMybF9ub1ZDaU5xOEc1Y1RqZ2I2MlhQVHZKZmFtSHFNbVlBWTlVenQ4OGwtVXRyNU1fNHFSZHJ4VlhYNnpDcmo2emhmSVJvcWJCNUNndnhkMXNjeW5fMjV5VkNMZVEyVS15RFVUZGxDbTZvSUdJTmwwbU1TU21MT21ob0hic0tqdE1TNWk0TEZscUhqc3V1WEtNRFNaTzRyVGt2ZEItamtkMmFwRlh3cA?oc=5",
+   "published_utc": "2025-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Japan’s largest shipbuilder Imabari eyes opportunities in Andhra Pradesh",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdlZsaUlfQlVBMTdtWHY5bGdMTzZUMTkxSnYyMngxNUMwdk1BSFltQVNXVFdSSk1WTnlDRjZ1ZUxEckw5c0x4WE5TX2NqN0tQYlpwMkZYcXlaZ3J0Z0VYeU9nM1FPOVJmc2ZXQ0l2NnhYdkxWSEMtU1dZcHJOMUtvVmZETnFjcWRlR0s3bzl0dzUtU0R5NVJsanNIbllKWUg0Szh5WUtSZXJoeEFfRVZncWJtaXhKM19GZ29WSEcwdFcxQW5jb2kwaEN6RGE4dm85UGMwNWRWYkRXZTDSAeABQVVfeXFMUDFNOWZudjhrNzZaUEtEWjdOMTRGNjJyZllhV3BlZGcxc2FtVzJFcDEzRnZZSlVxTjdXV05LeWo2T1dMdkZscUFqM3JzQTNvRmNoWjNBTFQwQkVTZ1lYTnZOZVk4REN4X3hyQ3FaWEltWWpidGpUWFBHbEU5cFFCRXdkcGFld01VWnNZamx1ZXdtazVVTWEtOFVYTVpmV0JNVHRKS2wtY0NoSzJ6SG9IaGEwVmIzY2FfaXZIbXZTbnduVjFYWTZkRG40LUZnaXB4aUpob2h0WVc5N3BZYTZ3Zl8?oc=5",
+   "published_utc": "2025-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Govt’s RySS Signs MoU to Boost Natural Farming",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2s1QzNUMWoxRldFanZaQ0h1RXVrNkpMMlVaUkRLSkNxaHdxTXZHaDl3bVQwXzQ5TlhXRXl4SW1VcHRUTWJqcy1FTmZtNW1MekRLQ0d5NUxTUUlDa0NsZnlnTzJnNVFVZjJvVDZoTFlQRU5yU2U3b3lmSmhuRnRMeVp2MEQ1YXVsNUVnMjdBTnBoRExCN1Blc9IBngFBVV95cUxPZTQwblNxTGxXc3hLaFR2anYxNktXaXVyVm92ZW9BNC1BV1V3ZGR2bmJ0Y2JZVVo1NmdLTThlOUJJWm95bjBWRXdJcmFCRG9DYU5oY2l5S0hQUVdVd0J3azJ6dTVVcy1vNzlHRHRRZlhrby1SUUN4Z19xUEVrXzdyeUstVzY5TFhWSU1ZNEhwSXhtaGZsNHRXNkZfeml2Zw?oc=5",
+   "published_utc": "2025-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh back on track of growth: Governor S Abdul Nazeer",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYkx5MU5zeldNbWpFN1RZWWhESWEtYVk0SE1sMHdKQkxHak56SnRONE1DaXhtVlc1b0o4N0dVUVYyTWswRTJ0czB5MURwd0Y4TlNoV3M3dU9tS09VUnBhZWJhMmE2NnJZNHU5aGUtal9FbHlUYVF6aVNlZnB2akhJWk1nX1g2cmdqeGlLdkRQZGZVdm1CZVltMUNpUVhmMmVuWmtvN1B1a3Z5alpZYVhualBOMGhUQTA5OWJCazRUSUZ6c0NBbEc0ZtIB1gFBVV95cUxNdFVTOVFTNEFuVC1Bd2w4QTcwNmowVkx6THpwSXdkVjdFWk4zSkZYVzdRRkg3WTZVTjVVSnR1YktrNTBKWWtBY0w4MERoX0o5Y19JTUZIZml1LVM3TVRudUFjbnRxSHB1U3AzT0ZKTklMTFIwX3ZSVUlWdHZjTlBwTHlvb1lKeDQ3TTdOczF4UHZCNk9OY0F2ZjdpbzJpdzBXdW9OUkJxVFNrRjNHYjZxY0JTRG5RNVE2VWkxbGloM0stcDNJck9zUHpoZWdRRW1ndlFoRFdn?oc=5",
+   "published_utc": "2025-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India pulling factor for global economic growth: Andhra CM Chandrababu Naidu",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYk9kdzViN1VfdWhzemM1R2VfVFpuLWwxazRXYUhZRkt1MjJsT09CN3VOa05pWFBJYldZQXgydnhQV0ZEUllFa0pEa3ZjZC1iM21Jemt6SHU2M2pudGRxQkJZTlh4QU9SblhmYXJwNnBXTjFrNEFfNzNSSndHQjlGUkNlc29ZYUZDbGxnQlk1Qlh6VTBuWE1DbXZjbE5ZZUI1WGxEYQ?oc=5",
+   "published_utc": "2025-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Temples major sources of revenue for development: Andhra CM Chandrababu Naidu",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlpTLV85WjAxaERlSThHcU5ya1U2QXM0djlBUmJFOHhqMERkaUw3Z2U2QjVRbW1rVlN3LW1MaUtIeldtQUdBSm1tTzZndnFORmc4QUtMdzNhNlpVbHJQTzlQa1ozY0R5MjBXUE91Y01JYk9DVFR3d3hubmhZNDMxcHJYWUx2dWlQMDlrcW8zb3czdWlVOGpyN3pmTG5VODQxcWFOU2FWMG1fc001Zm1Rdk5LSUxEcUYzcTBpV0pB0gHLAUFVX3lxTE1mck1xUmdoQWk0eWl0Q2p2c0lCck53YnpEOEhndWxHZXEtU2FXajM3dWtlUi1ZRnA0U0wxX0hwZEUtZU9NczFPajBfLWo5M2pKaVZCcnBkWDdkdjNsRENFWFdIYTlsUnNBcFBkYm52X2QySlNsOUw3c0w5LU1CbXhNZkRQSmFoQktLRmJyb2R2RE1sYmM0bk11R2U3anJQZExHUnAtanNGeFQzcmZZX2hSNTFiS3daeUZHV2F0UzAzbEtBSHM4Y3V0eVJn?oc=5",
+   "published_utc": "2025-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: No Mention of Turmeric Board in Budget Worries Farmers",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUotcTlzTUYyM3VxeTNjSWVFQzJGUVhDMHVoQTRDelYxeDdpamloMXpmand3Ym8yXzBjT0t2MHRlUG5Yems5RWVzbFM1UW9idGhZRHZsSGFyWjlYYXJxWktzV2xyaGRYeGtIY0UyV0NXSDZWaWZIVGdIZklFWlhfSlNYc3MzWmw4QmtlSXdjODhTMWhkbWl2dFJ3V3RmZjl6UmFBcWtaVEpERXA3NTgzXzUzWXFjQ2g3WnJXQ3VFSFdhVkZ3MzJENGpJejRaTFdG0gHWAUFVX3lxTE4wbkhYb0ZwYy0yc0lJYUlyR2xlaFJDMGRiUWNLenJ2d1FhWl9sNWhZV09oRjJKRXVBVUZUYW1sZ2JaSkwtSWlaSlc0M1YxYl9ZN2VSNDkwS0JtQlg4SUtSRGd2LWRyRUl2ZjRuYzZkbUZyV0lSZTVCcTVOUkp2N2d1X3NUeWpvQTJoOGxpVURJb0F2RGNPaU5sV2ZqblF3cG5IOXpQZ1NhekFxN2tvUzFETlJGalYzVTVXWEIyak5zdWEwTkdzV1Q5OTAzWFQ3S1M1RFZtdHc?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government releases ₹45 crore for honorariums to imams, mouzans",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSXlzeGtlcEg5SFM2QjlrMy1QMVNMMlJmSkFwSVExU2pycDZTRzg2d293VUlJU0ZSWXlLMTZmSVNSTE5Ua2ctTkM1ZDRwbVdibjN6WkJlSTlkMEtLaUpqeUUtZTJqLTBDVnZUSDh3UURROGFDNWIyY2RmQ0I1dFFrSkRrUUZPd3hET1Zua3NMdTE4RUVtSmU4OWRXVV9uWDJoeFJvbTBIcmctM05LdHfSAbMBQVVfeXFMTndIb3EwNkowSS0tM3NJNjg2bDdMaXBTMklOQS1qM2oxTkZ5OFB2S2xMMFMyX1pLZ2U1UkwwalgybFpEbGI0VEdvSFNVXzhUQnhxeDdjQWxCODY5QXRyRkhiYmhDVGdsd2hrUTZOUUZoU3p6dmJiak15dTVRYXBPSDdtakp6VXNfM1NweHBDMUQ1TWJ6Vi0wbnJzTEVncmthN212RG5mWVZuOUIwSjZGR1djU1k?oc=5",
+   "published_utc": "2025-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Skill Development Corporation signs MoU with SkillBee to enable nurses get jobs in Europe",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc3ZURy0tQjVxclk5VHVpX3FmNGdCMnRVZklFNVlHQXpKcXBMTU1CYmtYWDdEM3VTYTJ4Wjhia2ZjZGxCQk5kUEUxaXBrb2lNbTQ5aTNTY2ZtLW5rcWVQQndxb19xeXZmTWFXRFFLcURrY0hlNUNSMEJvVldGaEJVUmJNWVRVc2Nqa0lOcGV5c2xfQUdSV1hjRHp5SmVlbUlPdGRUajl1MEgzWWVKSDJFOVpDSGVubmo3MS1hbThQX1Q5QUNmRmg0c0xVYnJ6bzdFczdpQnVFeTR4R1RKRXNVN0hUNExYUjUyNDE3XzJpRklhRVNuRnfSAfsBQVVfeXFMT3RRN0o1bmtaQk02QlBESHV5R3VGQzFiT2dLaXF1bGcxQmk4MkVQMWcxczVFbWhZWkJlNno5cUxHUmZBaTVaM285a0h6RXhZTy1rdmo2LXBEXzllOUI2OW5uZTJGUG8tcG1nRmoyUTBlSmx2bEM0eFlxWkFYcTJpLXpTNVQwVjVJc3duU3dYd3ZNRUJ6dXMxWGwtVTExREdNTFNvc2ktY0pZSGtpT1ROUnB2eVRWcFpiZVFaV3pySEdyajJYM0hWY1VzcGxUY1JFMThHV1U2bmktZjFxY2tLVWRSZktVNGFsMEhGVGNPdlVicjNmRWIzSGZqXzQ?oc=5",
+   "published_utc": "2025-02-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

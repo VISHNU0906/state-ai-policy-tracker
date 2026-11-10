@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh allocates 800 acres for RIL's ₹1.08 lakh crore AI data center",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUmlMS3psYlplS205WGFjSmdxVGhCZkc4UnRYZlJVZXRzenZHMXVhYkE5RERJUkgwaXlwb192VW5YYzVxdkdQVnRLaHl4M3BhSUZncFpMRG1Pa1ZQUm1QTHJ1blAtWU81RTBhdjNsSG1ER25WV2t3cGJQdnBuQVFRYmtpN2NiWWZnX3p3RkY5Z1U1OWVsdmR0ZzJ5VFgyQ2MwWTAwOWJORjZsRldidjRFeUlDVTVSUHJpZjgyenpJSWF2bGFZakxMT1pjQklQYVdMR1F1VlJxcVR5MWNDWjhTdDBONXozajkwOWREakt0NXM5b2M4OWFicy1IY9IBgAJBVV95cUxOYXdvb3k2SHdMRzFlQS1LQVdiMGZKWkI2bTJQWWgtYnFMWUwwMlp2RVNVbkF5bDJKVTVaRE4yY0hLdzFBbkZSSjBSMjhaS0c1UGZ1TjNPQ2JiaGhTME9YWkdpUXhyUmtaYVcteXQ2ODlaa1RfVjUxamNMMEdWbnFJUTRWTmRiZ0xQekF6WFNlVVhQNHhtV0dmbGM2bXVsd0VHczNHNFVCU2ZxU2FNdGZob1RkZ2pFMXZhN1Y5aWlCLXk1LTBPcG9oQzlNa29oSzctZjJSclFhNHNsZ3Y2eEE4cjVYQlFwYjh1d2ozaGRVNEY5QWdnSXFpZzYtcHVCbEdJ?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India bets on data centres even as water, energy-use concerns mount",
+   "source_name": "Mongabay India",
+   "source_domain": "https://india.mongabay.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzJrOFV2SE9zek1fc3VrU3NYVHdLNWVDU3BLMU93d210TXdtSlNrSFdyMmRRdzJ2LXBPNWJOTkxidnczV1ExRzBROURIYlRxUkthQk5uZ2F5T2luNEMydVR6UVZvV3k3MG1YQlBXSFJxdjhrUVV6ZnVhMnNwdk12Q1piTDJxaUNGZ1NUVWZacWpjLW9WWGhWVVNIYVhzQzhYcC1TdA?oc=5",
+   "published_utc": "2026-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mega Investments Worth 2 Lakh Crore, AI Hub, Green Push",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZDdieDNFR3EzZ2pyMEVaMFR6enNaTUZYTXIwNmdIVUVBUGxxNFdXaVdQTFkzdzA0ZWtsTTBSMmxwN1g1SlQxRVRlWmpiWUdQOXVIWFdQeVlSVE0tcjlXMTFhNnBzRjQxYVRfb1BLUU5ISHBmaVpGYWpfWWc2UzAxQU1lOC1DNUplU2hsNE4tYVhvMWgxbmlZb2FIWGNJWWF6NDZlRVRKekdOZ1VjMk5xRmtUTWlvTmFwTEFVTlIwTk5jQdIBxwFBVV95cUxPRGtuTGY0YzdnSUctZjNmVzVnNnVaX3MtZl9YN1RJUFAxVVlESFdzLXFZbEQtWEdCTDF1SlpZYlhoM2k2Z1FxUDZTZjNHSFphdTBOYjY1RXhrOF9jcGhoVm14NDBVa044V1BPNTlMWjRMMnA0U21JMjBBV2dXb0RFcWg4QlE2LWZMZEQ0VGRoYTljSTZBdHNaV1VMenF0dUNIcXNYck9Qa1RhU2FBaDZuS1FVRUNSSlFwalNKdW1mNUs3Vk9kZkRR?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta Restricts Viral Reel About Google AI Data Center Project in AP",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEtLY045RFhWZ2hJMFZWM2JxVXRKdTEzS2wyWW5GUklMQWxQRE9GSU51MmloZlYzVTNZQzhpcExKV1pVbExHZkZnam5EbFNqcUU0Y2xERDNLS1pWQ0hkUEI1cWpuamlHRHBIdTdNY3g2czFnT2ZDamV3OXp6ejd4SC1OYnpRdU5HWU9NT1ZNYWpBeXprLTJkZWx2dUJVMDRVZkNJYWp6S2l3STJ3elIyU3dEakxkVzdGNFBUTHc1NlV5UDRsOEo0?oc=5",
+   "published_utc": "2026-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "855 acres allotted to Reliance Data Centre in Andhra",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVVEak5vS25fcGltcTl6dlBwM2hSWUJyNU9aYVlXUU44a2JLVDBWWFJkaEw2cEYzTDVZaXJ3ZGpvVjBvdFFUM1E1UWpZSlAxYUdVVXRlNXZxVVo4UzVwWHpqYkFpM1ZEQ2VvaFZRWUlNMGp2Vk1vc0d4OWRVYlZ3M0hHSERPRnZ6LXB3RFc2QUVxVmFONzlPcnFGNmtIWGREdDl3YlBkOHhXblVvV0RQUGVXZmM2aEJHWHJr0gHIAUFVX3lxTE5UczdFT1Z2Y2piRTRhdUhfcHRpVW5Zck5Sa09ua0dWLUNNcHdSYnl2cnR1c1hnTXNRVFZJVTIxZ0hYR2s5WkxDclZ2LU1JbmJ0UTlyU0pGWVNOTGIyV2VNVzV5XzZyekFDSXJ1NHBtRjF5QWthS3l3NGw4N1NjVUlVbEcxM2JGMUNuaF9mLVdfVlFUcERyNDZfcHBIbzdyb1BmYzY3SktnalJDalBqYzJUQVJ2UXJ3enZmRFNLS2VUSHpPSkNzV1E2?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh investment approvals include Reliance Industries AI data centre in Visakhapatnam",
+   "source_name": "Goodreturns",
+   "source_domain": "https://www.goodreturns.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2dGV2N3X3FpWXllcVR2c0NTZUFRYk41akZFdE1keGZRejRUaXRJbXdsNV9wZ0NMSmFlb2NGRWJ5cTVVMlkzTnVTZEFfUTljLXI3YnBObHZWOEN5aUJ4Q0l3Z0taNmtBa183YXZrUHZveEIzUGFGMXJkSGdQMlZpM2tZaW95Y1U4azl2aUFJVUVfc2lUZ1NJOW9PMUxaXy15d2FXZlJTQURXTkVIOFI3ZTZ1dkVaUkVIOWVJUU9LNkVTZw?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP clears ₹99 crore AI traffic management system for Vizag",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa20xYjdkQTh4UkN1dW1IdFJvOFY5UXNSRk5oUHJ4d29ybGU1UlNad2kzanZhQ2ZIVTVKU1ZxR210enJpVk1ES0hVUXJsWk5ON2FLR3dZa0lZYTQyNTlXZmo1a2hkY2pXTFhGNk05RnpDYjJCWDhnbDJWQVB5aVUyVmZoeTM2TXFnaWFnaUhPQmlWTUtFS3FYR2xrR1gwRmh2VnlwVGtDemdHTUJnRHpqWFBBZzh3RnE3OVdWY1VrVlA5X1p6Q005bm9kbGVQUWda0gHWAUFVX3lxTE13UHFJVXJnaXFaZGNRTXBCRy1lVnlXUlEtNDFfYndkUFZ3QlU1eVh6TlNSQkNtYUlzSzFDa28ya2JENDdkZ1dyLUgyc0NBREdkTFQwcEFLT0xfTFRnTi1HenVMQlM1eVlwMXJncHBubmRqQk40SHVUQm5NS3pzR1ZiV0Fvb1RBakFQNmE2ZWdYNHBmTFBrYmRFbjNxVDJiWUhXaWJDVGtjdV9lanVPTWFDbTR4V0psd2xlb1pFdTBvREZ6cndpU1g5TUI2Tlk2Q0JlNGswV2c?oc=5",
+   "published_utc": "2026-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance To Set Up ₹1.08-lakh Crore AI Data Centre Project in AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcW9yWjhOclRRNXhhTEhnRWdfM1dJR1lraWxOMll1ZWR1eEQ3ZU1GR3lWdFJEN18wa0l6ZVptaUtyT1RJcXc3YTV6al9XWEFuVXk0UWp6bHFHQnZXNmVRczk0c3VhQ0NsQ1A1cFM4SzNYbGJwd3FfNF9leFBfT01RM1Y3WnM2YndoUWc2Zk9NX2U2SjlqU01QTlFrcjRNWG9vVU9FSFNmOXVwS3B6YXN2MUlMUHBrMDZJMXpWdW4ySXZWUWxKX25ENEsxMXBVQdIB0wFBVV95cUxPWG44M3RCeGNNX09oTjU2cF9xMzRjdHgyWG9MSHJBc0dHQWRXWTNXV0tDS01nV1M4N2lqaGgyNTVkcEQtTW5WT3QyVEdYMGhldG9PZ1YzNEZzaXYwSEJzUVlyR2hxeWsxd3FUcFNtcVVBUEJEcWVNSkpPOEd3bXdSamx4TU1FSWpjLXZHeUNzQlI2V3ZwNW13WWc5Uy1HdnhPZE02aU9FU0xZNlBKM1Vab0t2UnVHdVRQcnFRYVJnazc5SFdCX0U4SDdCZXllTjBNX2pN?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: AI-Generated image shows Tamil Nadu CM Vijay with YS Anil Reddy",
+   "source_name": "Telugu Post",
+   "source_domain": "https://www.telugupost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGN6UkEwTmNwSnNqQzdUM01GbHVEMmp4aEpmWlZFMkJxMkxqcy1ELXNlbnNyWW5mWDFnV2owWHdxdGRBZkVtSUVfb0dRUjd2WG9ZOFlqb1Fucy1KM0pBaE5pOEtFcHhZcXdISEUyMlNjOXlmZzcwU09HVG13Vmk3MkpDWExKM1BVTHhJU9IBkgFBVV95cUxQUHdnbzczUjFPMGdSb0ZGa3JQSzdEd210UUFqU1lIVkJWRHV5U1RNdTlGRkxyS21HT3JzT1hnZkthQVlURmN6RFJYMmJzNnhhZTRrZVpvblBkZUdnd2VXX1RNYm9pVWFMb0V0NS1senpnQUdsUU5WTFgzN2tyajF4SURXck4yVnR2OXZtbktLRldDUQ?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra data centre push a lesson for rest of India",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ19VYVFNWEp5d0M1azJ2VjFsblVITmtOZjQ3ak5pdktMX0U0bUZ4dTR2Mnd3azVtNEVmTzROSi02NEhXNjh3dFZzVk56ZHJIODJvR2Zpb25hT3pxQUlFNExaWjhtQWttaXBzNXJFbjRxN2RPZWFzYmRkYk8ydERnYXAxanppY0dZaWFTYkFmYWxGamo0MGFZMjRmcVhtRlY5VVJQZGNrRUPSAbYBQVVfeXFMUHZKYkxXQ3JrSGU4eW5VdDRPUWxsaXR3MVZyS1BXZTM4WUlkN0VQUGxVbWdtcVJ3blhZMnE1UDFSU3pyUXhaU2lnN0R4UURjengtUERaRC1pcHBCSnZVUDhnZ1NuYi1rUkRxOUFzb1FtRVhzdUFmcjUwX0hpblBuS1VwSjJ1cHdsTUVQOXlubzRIZVFaS3ptc3hCbWRvWllqdHliSFQ5cVlYNnpFMDdLUmNXQWJxcWc?oc=5",
+   "published_utc": "2026-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

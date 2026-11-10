@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Vijay rides on AI plank, rolls out TVK's agenda for good governance ahead of Tamil Nadu polls",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOckRNeFZ6UnFDRi1DSFdKQlB2ZDhIeFgzUUdBaTNJdi11Q1B6a1V2X3g3RThVU2c2anZaNlJreEF5Y3IzbjY1SzZFV1R0NzdTWVFKQ1ZpRlppNWp2NDk1RXRfUFJpd0I2bDhkU2d2ZGZDLXZNcGIyYkZvXzJjWElOQ0ZsTElvZmh3ZUZDSHEwbkFFTWsxNmdHSkc4c2dXUHNQVkw2M0daVDVjdmRQUkdzR1RwbnlJT1hGU1JRVkJSa1lzcmRDamw3QXA2ZjdlNkg2STVCMXFUV05uWGk0akZv0gHkAUFVX3lxTE9zRUw3OFpBYlBrc1N2MjZUT3NWb2RUUVgwZXBTYnZNbWZUTUp6YkNvRDdkRl9JYm1ra0pjMnhhOEpva3dNbjVzRGdjUUFNUzdiU0h5a2puMElNQmxSZnN4bXo0WUF5WTBHZENwSXk0QWIzVVowdTZTYlh2Z2ZGbmJXUWFUTkxDbm1MN19iLVNjVGdsbjI5WFJQUzMwazF6Y2RIelp5RndwMXp2enNiTHRrVnNhMXNLY3lqUk4tWmNOdlI0Q1hWWXVpQUI3ZUxSYnFRRUJBMXhkMnBHVFNmN25SZ0hXZA?oc=5",
+   "published_utc": "2026-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Citizen privilege card, AI governance: Vijay unveils reform pitch ahead of polls",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRUdFOUZnb240ams5aUFGUTZRMDB3SjhBb09BMFI2OTktSklYeHhWQWIwV0E5N0RiN0p5UGFieW9rRUZMVmd6U1NXMU4wbmZsNmVvcHFtZDBtZnlOaTQxMURZZ0RvRVhTTGI2THJmX1V1SFRzVGJ4bkg0am5ZNUkyZUhaMW5GcGFoLU4zN3BDV0RRZFhFMHZyMmtBWUxTTGl3ekNlek1QWTBWV3ZBN0t3bE9SeE40X1U1NmpoeWgxYTNhTU9ESkZLV21HbGZSZDVDZHfSAdcBQVVfeXFMTldLN3hIVzJ0YkcwVDhRV1RWSnJBRmdoT2RkY2d6VjVtSWVBR2JkclJFb3dOZmNjakNDS3ZZWUFxRVVVVnJ3cVRzaHAta0tXem02bFBscGQybWEya21OVGJyN0NtTFdTa01uWFhsaGJXSU05eWVablZFOXh6eHNwSFVMMVMycFRmQ1ZyRDhFd1hCY3FVNExyYTVkUlNadE1veURWT0l6MEowQmpRT0t0SEEtWGt5Ti1CLWpYRVd0R28yVlVIUGhzU2I4NE84SWVWUTBUTHRfR2s?oc=5",
+   "published_utc": "2026-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, welfare and ‘super app’: Vijay’s ‘25th century governance’ pitch to Tamil Nadu voters",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXVJblpqMkFKZmZoaHY1d2ZTNHJ0WW5HUjhhekRBN2ZhY2dGeHh6dl82ak9PU2UzZmd4Sl9UNnJtbWUwZmY0NjJOcFZOWDZrY0hkV3RVQk9vck9xR2dEV0lSQVdmOFlRUVpKOWpSYlpwdlpqOExleHFxUkR2OTdELUNsakdWbTlkOHZEWF91LXJLMTIyYnl0ODdoeE1zeXVrRmJibHdMMWxNc1pFaVd3V0dNMDY?oc=5",
+   "published_utc": "2026-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vijay announces schemes as part of ‘TVK’s agenda for 21st Century Good Governance’",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcml4MXk1TC04cDVQYkQ0aGNZT3VPTll5Si1xTy14RHBscmJfdU11XzZiSGw3cDZMMENadThXbnQwUWRwWnpFSzFZNVJnREpyY1gtSlg4SmZIY2lNekNXZktXeGR1RkQ3SXhsVWd4TnhyNXNoSnlfMmFoUVhkSTRxNDFscjBWQkVhdFhvLWFyQTFIeDBWZ2JJdlRTWWVZc1hLZ002ZDQxUXlBWl9yUkpWVUJSSnkwMW00bEt3YmFhM2oxY1BHSHZUVmhkcDg0bE5iNUxnazkwUWVwakpJSG9CXzZvTW1sNlBuYlHSAfABQVVfeXFMUGQ1YXByUU0tWVhya1NTdkdlbGtLOEU1N21heDJ0dlp6ZXduTmNGV1JLeGtMQmpMRnRaYnJCMnBsLXV0dDJQZG1mV3FaUW5CVERvdEExQ1JFLVFKWVFwSFVqckktNU9sQkFHOWVsZGhLbk5YMUoxVlYzaTNuOEtrWEJ3Rkdxc1BDb3FTRnZTallRVmx6YlRRcFFFWTYweC1ERy1BMXMtbHBsMnNSdk1td1BxbDJWYy02SDZ2eGhORW9OQ1dmUGhuNTFoYkhRNEJVd2xZVkx5UmhBTnlOeWhMcVc5V1ZKVUNSUGNOSXBqS3Ey?oc=5",
+   "published_utc": "2026-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Classrooms to Careers: Samsung Innovation Campus Certifies 5,000 Youth in Tamil Nadu for an AI-Driven Future",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUlZya3cwaGpaLVlLZEdyMEZqM3hyWm5ROWVsdkhCTEV4YWF6THJJYjNnZHJoWFBla3hTV2s2c3VxRFhCN0pkTmRnNnZkb0tKLWlCb3J2T2g3N1ZoTldZM3VXYWtrNm9ESHpwR3c1bURhaXZ1c2tNNWNtempKeUlyREtNZ1lfZGhKWUpmZ012Wm9RMUhySW5VVWpBOXR3ZmRVSHk0Y05DT0M0dWNaUG1ldXBId0xpZVlHOU1VRzNqV2JfWEZWSFVZUHRSLWQ0U05ndjhRXzdn?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh’s AI-Driven School Education Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3JWM210dEg2SWtYcjRqc3poQ3pDaFVQVTdtcUhVdm1CVVJlMEpReHdpODNnZVVKTWxVQ2FmYVJBSkQxak53OGdXeGZ4NXFFQkh5QzFnbTdINnJuc2dxZ2VGaGZFTXR1cTRJeHZzdmN2WVVjS0xiOEh5bFBYaVd6VlB5OVoxZ0FzWk1zdXRRUQ?oc=5",
+   "published_utc": "2026-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN polls: Primary battle between the DMK and TVK, says Vijay",
+   "source_name": "Daily Pioneer",
+   "source_domain": "https://dailypioneer.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSG0yZFIzMUNTdDk5UVV3ODVVNHE1RW54a1d6SzIyVjdESHdnTy1Ydmo1QmlGeU5nUVdaR1Fmd3d3TkJqcG1EMC11ZDlvSGlOeXI3RGk2NzAtZngta2FpV2VXWER0WF9URXNqcDl2cU8xOEVla1dEUHBib2FEbGhpTGpiemtRcC03NUc3dXMxNnB6TE3SAaABQVVfeXFMUDFaUWVFSVg1X3dHbnU3M1hWWmRudXFnUksyU0Y5VVdHX0Z4NHJkYUV4RHFXWTlOM3h0Mlp1Vk9VcjBfdWJ6YkEyampYcGIwZDlHaElJcHdJZ0t5M1g2ZEZTWnN1ODkwQm9ucUFGaW0yUldpbl9hdTMzcU1LVWFBX0g1cnd3YVBON2gzS2J4QWRmVlZicHRkbGVQZHpnWTV1bg?oc=5",
+   "published_utc": "2026-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HIGHLIGHTS | TVK manifesto promises Rs 2,500 monthly aid, interest free-loans for women, and AI-led governance",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSkotNXVoTFlMeGdjdTVRX1JzTlpnbnR0NmRTWU5HWE81bF96MERCaVlWR1psbzkyWkVMbUYzUUdDZEtmNzhiWjhUQklGVDhpcWlEU2lXVFYtb3JBR2FGM1VtalpyX3JsY3lfNjc4MVAxWkMzRUJSNWNPZEt6MWYtNjljOVBWbzh5UjlqUGRwZkl2aW4xblhWM0FLemwtc3FIcVUyekdrVDl0V3NkNDBOY3dHSkdZemVwR1pwYTlJUENiZHFSXy1Ud2VwRHVXbWFLVHV3ZEZPbkHSAeYBQVVfeXFMTjFyUlpESkxpakdJOHVqNThBVUNhYVFEblBVN1Y0Y3BXWFRFSkpkVXoxRFNXV2xVdGpJMTYyRjFMQXJreGYtS21CY1NWTDJ1Sm05UW1BWE1EdHNFaGNUaV9YTUNGZmNRcnJsY1BHUVIzTVg1UGRxM2ZhNTJpSE50S0MzYzNaSXhuUl9qc3NkZEdtMVJOVWdIUkNkQzJ0Q3NROExHajlxR0I2Q0I4N3ZwX0lTUENnM2U2ZjIxcmpIUWhTbkFjQWJlNHBFbkVVNk1QUlFmSG5JNFhQMG5zbVZQakhzX1VUSkE?oc=5",
+   "published_utc": "2026-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN polls: Vijay unveils welfare, AI governance vision; targets CM Stalin",
+   "source_name": "IBTimes India",
+   "source_domain": "https://www.ibtimes.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjZIVnVSM3ZBRnI3Ql9zMVVlbG1FWDl2NGJOMTB3MHFZNXNmR21MM1ZNdFJmNDlvQzZWLUJ2VkdHMTY0LThmRU81YklMdEk2SFcwR2x0cVZPcktjdl82QUVuTlltQWVIZHAwQ3dhWmNvTnlFaXphMWRLdmxfWW1ockNfMDlSblhsdFZUaElJckVzWld6b1JYYWRCcFhQRTNDdzduYw?oc=5",
+   "published_utc": "2026-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

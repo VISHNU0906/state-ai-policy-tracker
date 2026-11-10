@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "NEP vs Tamil Nadu's SEP: Key differences in exams, language, and admissions",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZU1EbDgzMWFnSmYyQnZxZC14SFZtM2libXIwaUZSR0xUeEkydEFsZGpCVXgzb2FoTExlTzZIeGx0cWlMZzNhNGhZUTFxQjYtblpMa2swT21KOEJQZ3BDeU9ILUc2UE5oVVBMeWJsQ25kY0h0blFjQVMzQmpJRGFDTUIyWFliQWFRc09hc19DLUZIZGRYaW5nNEdNdUp3MFRqeVpxd095SjVKdGNJZkRaQ2dXSjRoVG51VThXNXctTzJEM1B5SmdUNmFENUZ1MnZFSUdoaFBKa3A1WlXSAeABQVVfeXFMT2VSQUtTaDVPMkd1OHVpR0pNOHR3SUlodFNGSzEybldKNVBqV19sXzdYN3k5bTVhMklfSk1IRDNvQ1l6V3pTdnNsX0ppbUxhNGNUSXdiYnJmbFNVcEt2QmV1Tks2M0t6WHlaSHhmWENZZ3FTcFNrRmluWmlXeER2UzBzSTZ1LXhOWUUxS2RwcXAtekJQaWlsaWZTVGw5SFFwNG9HNTVrZGplSEtTWkZ1ZDFqUmQ5ZS0xd1pRZDA4eVBTaHVCb2JISWI1SDh0MV9rMExNTzhBXzJITVpuemR5alE?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s water policy: Between scarcity, reform, and a sustainable future",
+   "source_name": "India Water Portal",
+   "source_domain": "https://www.indiawaterportal.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1VSZlBIamN0bXB3czJZRWwtcVU1SDFVWGlJdV9GdHJ6VWFZZ0IyanJXcmxINjFQRExaakQ0V0Z0VjlSelVJT3BoQUdPWnQyampabFUwYl9PbE1oVy1YM19abzJ1cVpZTkp6XzJwd1lCX1pJcWJXV3ZXWW1meGl1eGhPYnMwb01LOXRWaUU5Y1pILXdzUXhhZG5JeWFsZUFTZXZIR09xU3VfQkNBdlhJaFZPMnduLVlRSWNmT2JwSXDSAc4BQVVfeXFMUFJKb1p6b2IzTGJMTjF5UVNGNW9nVXJqR1ZuLXhYV0szVmNpbWFMbWlnTTJRSUlxTGNsOF9nVl9XTmlGWkkyVUdra25nbXFRdVR2NnNaZDBiMEdERXhFMHR0cDM0MTQ3R2dDNGhFRzlZcFZvdG9TQ1dKbzgwWWczdGk0MVJlcWtJa3dwRWI4cG1JaFdxUHV6NWRzbFh5WVdEbEdMX0tUV2hvWVoybUFnSTlqNnFVMENucnFQZ2RWNnVtd0VCazhSOF9Xa0d4aFE?oc=5",
+   "published_utc": "2025-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches WhatsApp-based chatbot offering easy access to government services",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbzdINVRrRmltdUVQcGRqNFdIRThvZGRSMlY1Y3FaZzFDY0gzTHRoWWFiNXk2N2twWmZJbExZN285YjJ4TS1YMmhCT25wN2lsekRxLTZLaDZ5M3hZNEl6WGxxa0ZBVWtZN2dNeDdfSWxOSlRIZXhGNEpxbTBKYmRrbHA3OU11WHBrOHl3TEdKMUZPcllNdGpJM1hxakFGUHg0bUJSZ3g5MTYyb2lEMkprQXp0ZXRoTTdXcDhKWVczOWpJLTFWTmNvTExnSENfeEs5QmRzSzNUeFN5OHZsWWVyUEc0WDJ4eExoVGxpb0dvVDZ4emlKTkxzRDVhenBIZ9IBgwJBVV95cUxQZDlLOVlXX1JDZTk3RU9CMzBlNE9UdkZtVWtaRXVzZ0tmeHZ5TVJ2dVZYUDdUZmtYdndtOEdKRHlsbFRfN1ZvY1NJRUwxdXhNRGhOUzBPQ1pWakdfM3ZJX1pOZG53NHJ2al9YS2Iwb0ZtUHlPZGdtaWFQbWdUbXVwdmhiUWxRTmRzX3J1eklsRUcwSnNtOVVzM3hZZzk4MWZQdGJFRWFxaDBnUWNGY0cySVNzdEJBNTA0NTdrWmo3a1lKWlVJeVZaaDJNM3p3QXNzejJ6eEFvMGE3LWRPT3ltSkR2dnczNXlsVkQ0RzhzU0w3c0lrR3NNRlptQ3pLWUc2WEln?oc=5",
+   "published_utc": "2025-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No Board examination for Class 11 students in Tamil Nadu from this year",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMmdaZVJHc2FvSVA1dklBVGNzNElWcExIdWhOMG0wOTVfUXFLaGZaMk1UXzVXQm1FbjFNd3MxMzVkVEV5MVRZNk1vZVRmLUU0TDMwTVl6Mmx3NWdmUmI3UmsyTnFFRmlhRWpGdUxZc1V5blZEcHlkU2hDbFNCN2VpY0tnMlZJTlJmd29hcE9wMzVzb2tmdFRUTDAxNGRyT0VZMC0xbm1OSVBnalh0dDFoNFFaSE4tcnZtb0hvWDV1YzJ6ek5IUVktZzV3OHZlSmhES3NpYmJXeFXSAd8BQVVfeXFMT3Vvb3dIdWFPRjlGdDZuU2FhVHI1eTlHb3NOV01rV0hHSkVQcVJLSTJHZGlfOW9oX05BLV96N2tSQUZmVm5KaVU5X2pXTjMwd0ZNaUxFYzlZQnhjMVVhQm9abTV4b3dKTjN1aUhGWHZwMnhDU2ZMbFJjS3BsS3dqeUdoTjAxeWdQdUxDWnFlTXFKVUVhcGlZRGVIYU5fYkswbndMX3cwWUt6dWt3eXpmRnJMQ3NveUlpT2k5VmhYVkdEZTdvX20zdlRlUTJVVlBtekZxa2Fzbm54Ql9QclNzaw?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Unveils Its Education Policy, Sticks To Two-Language Formula",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGNyR3JHS3AybW9LZDhxTDZtMVp6YkZDcDM5Qkt1U3RGMEUxV3BHTGpzOEJhdlNOOG82MXEzUllCUU1RalczQWxfeDQwV0Y5NnlsMzV2SmxhdEVYdHE2SmZHYXlDVy14M0hqRjM1aFluVmUwNTJLOEtXaTZabGZHWVcwSUJ3T2taeDFQZ1FmNEpXN0piMFpZNlozb0cyeGYyUmJzSkd2ZzVIMVZPRFZhVzJkc2hjUFlzcExHcS1sVEdRWknSAcsBQVVfeXFMT2F2SHBPLXFvaEthTTFJb1FFNUVad0FHZEhfSW9hQ2llZ0hXTi1XTG5qMHJxallReEhXSHFaZFF0cXhYRDFNa21DNzhneWRZeW8tQnB0WTVtWk9JYnBGSVlHS2VES0U0VlFqbEpzZjBlLTdXMHl3Ri04RzVzOWJzLXJ0UEx3VzAxc05hX2ZCR3lRaHJyUWR3cUxSTjJiS1NPRUtGSFAtUWFuNUotVmFWSS1hRUtsbHNVNlhlVWVKM2Y4WFJKT1hfOHlTYWM?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu scraps Class 11th public exam under new State Education Policy 2025",
+   "source_name": "Careers360",
+   "source_domain": "https://news.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2xTcThiUld3R1l4bzZCMktaUDVPMmt0c3pQNWl1T0xNNWI4bUZ1ZldaamlnRW4tMHBNYThrZTNNekg5V2puTlZLbldvQmxFMGtLZHBHM0lDdmF5NlFqcU9pWFZhbmpRdXJybzJMNGVKMUZCYXpOWnZPck1jc01RQnpWWjNKRHRSbzZwa0thTTJoLV9KZlUyd200R1c0MFlrWDgybFN1WUhCSHQ5b0xCMUhvZlBLRDJx0gG-AUFVX3lxTE4zcmZzMTdYZmR3ZDNmLUR6U3FHQXlpVmNKQzM4NlkycDRHVzRsSTJkNEhnUnM1ZnpDLWRoMnpQcTZreFpCOFU1SnMyNG1tdGZ1NmFiTmQ4bGVLVTBHXy1ZV196NlZQdFl3WHlyTkhPSmVhdHBQZWdDRUltWTRKWmxLZ19sZ2d6VWdXVy1lWnpfVjdpbFRlOXdRTldqZlRJZWlXMG1sYTlKYjRWaW1rSmt3US0zNUdDbXlEdkVXZmc?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN Spark launched at 96 government schools in Kovai",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWY1dnRzZ1p6T3dwQUNvc01KakJfYm8wT1Y4eGxKYWMtRzhqNUQtRXRhY2VNaERlVUdnZ3V5S3JtaU5nVkxPdVZ6M3RzQkpyMWZBRlJOcWI5bHVEckpjb3FQYlo4QXpqRjRCVjJ4Z1NRWTREdkhzTW5xbDVzR0x6Mnk3bThEMU9ROTRvb002cTdJNkY1V3pna2ZKUTVVaW5rV0t5UGlvRzZCbFFuamc2c2ZfRHjSAcIBQVVfeXFMTkYzdGVHZUZpcHdjc01qWkFVa184Z2tpajhKWWd0R3pCZkNCNERiRjd4cV9ELTBLQ1RydkFmZXYyZmVMazdJcG5OSEhLV29MemtpRWVMQWxVaU8teks5VS1KRHhiMXJ3N29Lc2pwNlgyYlJzVmZYUlZ4c21xdFEtSTBKdGJjNlFCdm4yMlJaWTVvalB3VUstcWRTdmNVWjVDengzWnpuVXROLUVMSHpPbmMxOG1mbV9MVkdMYjRMV3ZzYUE?oc=5",
+   "published_utc": "2025-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to upgrade 20 govt high schools to higher secondary",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWl9kbEtOM01Cb3VXd1dweUNvSEdPV3VOdHFVYmdkUkR5bmN0YVo4NUhVdmZtcktZRjc2UFpJaWlrQjItblk1OHA5NlBxdENZSGVmZnhmX2x6MDZnc29ubFo1SUNtTnNLa3N3OWtDbHZCSjFlZk4zMHl4TF9udDZkOXRzeDhyTWpBWkZ2OWp6Tjl1ZklZWDliQ0ZFVUt2d2w0RTVQeXFBeHNkSkRmNzFkUDhwQ25scFJCNW9RUjEzenpSN2dzZTNhYlV1Q1dLT3JHd3FtVF9zSV9XNlJZV3VEV2MwOGlJZVBB0gHsAUFVX3lxTFBNRkc5ZmN3OXk0MzRXcUFxSTNKY1d0Ny1zV2xJbUwzcGhaaDZIY2tLSndUSU9lYk5idm9zbzNoTlh6OE5BX0pNSzNlODVkLWh1OXljQk5UM0pya1VLemFOOHlNUllaUGI0SVJUTmVTeHpIWXhRcDlJVGNhVDRra1Rzdk9KV3NBOEJBb1J6bDhpbkUwdG9ncnRjdmcwR1RUQS1NMHlRYkpsaHJ6Ri1va1JCaHJrUlZtQjJUQlZYNlR0X3RHNXU1NkhtNjdFZm9DWjdwYzNMOVl2T2NFa3FFSFlHR0JaX2dfWFFnaFY3?oc=5",
+   "published_utc": "2025-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu brings Bovine Breeding Act into force; mandates bull registration, veterinary clearance for mating",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdGlNSzNpQ0c4Y19JRVpXZ3FMQThYaTUtRThJMExaUHIxc3daWjFIODVub2NjUzBKOUlMaVFuaGd0LUhnOUVnNXJoZERJLTZWYTNHNFFhT0RrckdFVXB3QzJLZDZWRGkzc1lSVHdlQUNyYXdpc3JGS2lwRnI3clhyMktERXBrTEgzYW92U3gwRTZSakNQUVBpbWEwRXg4RTl4Y3BiMUFWMUFoaFJoR1A4cmZ6aFRqczVPWS1BVFFRUVFyWjhvcXAtWjU2dTE2WVhtTHp2Y1p6ODUzZHo3cUw0U2tKcjRFT013VEFDQ01XX2NtZHh2REVuZmllYy1kSDTSAYwCQVVfeXFMTzA3MDBxdnQ1QUF4QjFKMi1waFc3aEJyQ2NEcUM0RklMNkhoUnA0ZjVPdkZEM3I4QmlNdkhKOGozNHdUMXpqakJnVnFIVmN0NWdiZ2FmajFldlY3bVZUeVpIWGpXVWlrUWhseENnVGp0T3JYeVNTdjBid2xROU5KamxWeWNta1NQRWR2OUNZRnFlS1BJR0hGMHR5TExPM2dHb1liUDAxdkpCOTRzX3k2REF5NC01NndBU1lWOUh2UWdSWUxtNjd4WFNyak90SFUwdWsyZERYR0p0U3dWdms3VW1tUjc5UF9oQmFod3dyY3EwUm9ZYTZnYURfNXpfV2NZS3hjX296OWY4V1RUSw?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI saves elephants: 6,592 safe elephant crossings on Tamil Nadu railway tracks; no fatalities in nine mon",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMVRuRG9MTnN0SVRMN01QbU9JR2JoamhQaUlVNW82VEZKZ1duTXNUV2dJVEZpd2lVWXYxWnVSRUFLV19iNzhxTWpHenFRbE9DVnZGUVdxSUo3WF9xS2Z1NkJSaXEyNncxVUhfX3h1TjllSGJKS2RBTHJaelhvaWswdmdtNjNxcE5tcjRER0k1ak9RVmpFWEVHenVUbmF4bjlWbkhId3pRSUYwWEJEMGplMEs5RXJVNS12QjVBbERvRnppRV9MVnIyLW45RDhySXZpbzc0dzRDem8yNnVndGprYVNXVnZoemlRUDFMT051TS1ad2V2VGRESzhyejlnZjVBMGJj0gGIAkFVX3lxTE5yd1B2dlNuVnBRUXJXSkVqa1B0OXlnTEh0d3J6a1NoeFdjVHpJblAxR3Z1OEtxc2Vfc3V5aHdja1VPbWVfeHRmM29iZ0lseW5JVkRlakNWVEs0aHV0UTR1LThVNXFMTnlFT0xHV21TQ1hUU0JBSzJjbDg0cHlHZkhEekFoV2RsRXYwQTF4Y1BuWm9zNzdhZkJ5dzlGWDBjYmx5YmFhS055cWo3bzQ0UTZGYlUzV3ROUlpLT0dtb2xhQTFxMzl3UXJGbXctajdNNFlsdXZSMi1WY1RzT3VINUhyc1I5US1zV2ZXMTdoYlBsQ01NeFltbDZKUWoxNUwwbHdsNmF1aDNodg?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

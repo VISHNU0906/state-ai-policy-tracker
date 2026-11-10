@@ -1,0 +1,69 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Do not allot Simhachalam temple land for Google Data Centre: CWC member",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc21MZk5YdVo1ZUlyTUVrM0EzSmdkZHZYaUtXZzBURkhYTUkxZ2ZVUy1sTFNEQ1Q3clNIOFRzdE9KeURzR0hpUTBfODNJaUlHRXE2YXZxd3RPTDJBYkkzeVdsZTByNGd1LXQzUm5PQ2l5dEIwWHh4QVdQM3pBRl9wdUlocUdVQWdJVG9ncWRweC0waFZsbXNjSjJ3dXRCUXl1RGp1V0ZyaXVSb1k3bW5lTzdUOHZDb0pBOGlwSlF4WFVTX3R0Sk5wNnVkV0F0OHM5TGIwTEZZc1E2QXg30gHjAUFVX3lxTE9VdDVDTFJJOFJyWEI1YURrU28tR2hNZVIzOWVubXFFOW1yVkhUdTkzUUZtLW81alBOYkM5MEdBaGVBQkVwVEdFY0FYdUpLNHJBM1FudVZvR2Njb2hHY0VXWk1fMmpsSXE1dFJWRmYyVTRVeGR3X3ppMjhRT1pYc3E0V1dZTkxkWmVEc3NxY1JyNzVJVEFsdlhpa0t4Y0tEN1M2ajFqMzBYaXJOb25lRjNOMDcwenJFZDVvYmJGZkJIVFNQLWczRWJRMndFWkg5RElKamxlNHAzSkNIc18tQnp4MG9F?oc=5",
+   "published_utc": "2026-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data centres & AI: India’s strategic imperative amid geopolitical concerns, environmental challenges",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM0lOTV9KNFd4VkNVRktaVkdOYzByMTVuWDhJM1BPVVVEYlAyWkJtbjUzei10R1Z2TUNaVjB6WkU3d19HbXpzUkxndjllSnVUd3RvN0UzVFAwRUVxaGFFdld6VS1rTm9LdWxXUEgtUm1LS3RTNXFKY0RDQ19HUUszZE9KVHlPT0NHdG9aVmFFemdPYTVWYWthUTlzeURYNlFwS2ZVQ25uY2FyUmxaUVg4TnpmYUhvZ1lHS1R6QWZha0xrWm5LR1lYUng3TktmLUJ5S2hIYXlteGMtbjVQMDlDTlgxRm5DZDViQ1HSAe4BQVVfeXFMTkY3d01Fb2QycW83cDJGVjhCNzhkc3FhLWxUa0dWejJsV3pGNzJRRnpkUExjN0JJSzFxR2JQVXNfeU5JekpoQ1ZvWGpVYl8wNTlmMk9QVzk5X3loTnZocksyek1JTzl1OGVoSHFTc1k3ekZfMFFYOHcwMllMamlfMG1MWjA4NU16b0FaNEowbnVuOVpwNHAzSG94V1dHTXlNVDlKYlJzaU1OaG91bzJYWmJ1YnRHNW5IRFNPNF9FY3U0OHM0TEdrQnUzMmtld0dlNEd3Zk5KVFIwQURkWnZ2NFRPSTRNejRrUmlfVm92QQ?oc=5",
+   "published_utc": "2026-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu Lays Foundation for $15 Billion Google AI Data Centre Near Visakhapatnam",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUVRcVoxdE9KTjFYZHM2UFUzUldUSDNjV0d1aDBzZGVhcHpQUFRaVGpJN1d4R0tuanlxZGxHY2xaOGdGRzBxYm55LVdoeWE1T2F6WGxGYURPSHhDWEprOEFMUk9mckp3ZlZJUWhoekQ1d25oQ0ppc0UyTnVhVGk0VjhqVTFuN3BSbU83STZtREJzUmJxWEppdWpfcncyV0VBQldKZk9TeW90RXJMcUZhVW1xTFlNZUdUbjhjaWNLOGYyZXpfVUE?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt lays foundation for Google’s largest data centre in Visakhapatnam",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemQ1bl9pM2NZR0FJVkhoZTV0SVZFMjJ4LWxoNXJOSjNQV0RxR2ZmcHVDVmxVMXpwZUI1MUhhWkNSMFpyTkVZS3hlaVkwdWhzWEhNa2JqRjdRWTVEX2NEUGlscTl3NU1MRXBaSXd3VkpFdjZEV2JrZmg4T3p4eGl5YnFQYzc1OFhTTVh1QjB3TGk0U2JDOGE2U0psTXQ1ZnNYUEZxM1pBQlpVTVFJVzN0SWdrMWxpb2FjMXdBZ3Vn0gHLAUFVX3lxTE1fbVZNdjZjajM5MDNfWG05ZDJYUlRBV29kVW9tMG1ES1ptdTVmbXE1c0dhTS1UaXpXeU1qNXZCMk9mTHUxeUFiWVl4b1Eyc1NqUTdMc0xSalhGenA4TFRDTmhnbjNEbHZtM0JKbGN3UXN3cHQ3UlF4VmtkSDhQcnIxUlBPeUZtX3JIUW1OMTZUVVlUS1E2bnhZb2dOeXJlZWtua0JCajhKRVB1cDAzMF8tVDJFS2lQSVg2djFjX0p6cFU2ekhja2pqaTg4?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact check: AI generated image of PM Modi shared amidst Kerala polls",
+   "source_name": "Lighthouse Journalism",
+   "source_domain": "https://www.lighthousejournalism.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVNJanJJLVlBeWc3T0ZYMEk0WXR0a3BUb0QzLWZlelgyVVlSb1BCb1poOE9tc3NtSjlja2xpYzR6TU9Mc3VNSWxwWE90bDQtSWM4cXFjODFDQ0pJaExDcm03QUxUT3NrYm5qRWRuM3ZIV0xqVHdCN3F4UVdjMTRmQTMtWWhuZWo0bGxya3hTSWlQTmtJY1c3RG9PT3VNYjJJR2lhRDRRQng0djkwYzE1WWlTTE0tbEE0c2RF?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake Crackdown: Gujarat High Court Issues Notices to Google, Meta, and X Over AI Misuse",
+   "source_name": "Law Trend",
+   "source_domain": "https://lawtrend.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWk1CSzVrdWdkWW5aQ05Heno2bTBxeldaMXd3X1BWYzlGd09aV1Rua2VENlY2UjBBZVZGamVMM0tEcloxTThjSjZqREstTlpGelAwT0ZWdlctdC1ieDlUUk9yVGgzT0U0c1BpV2ZiYk5Tdy1qVUNtcVN1SE5BdjdoeFo4Y2JUUGV0elB1cmRFRkVoR1A0VGZEX2Q4SkZGcHVQOGdMbDYwQ29rWmUxVnc?oc=5",
+   "published_utc": "2026-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With Rs 6 lakh cr investment, Vizag set to be India’s data centre capital",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVFZmV3Q4a2w0X2JuajB2MkxBVlgxNjE1VHFWT3BYRUU5TnBBYmNhcVdRNTJQcHlmZVZSLXliYWJBbTBKQ3doUjNUR1lCa3RubVJwUkVLWDZvdWhoelZzTTAzeU5majE3RXhKU2N1YVZDNUZhdF9DZERBSHR3YkVmMVhtSFBpb3hGRG5IQWhPN3RqQ2lDTmNoWjZadHpNRXZTNk4xSDlHZTZkZVNka29CcGo0dlZQMEh3LUpXWWRVaEhEeVRCVVNFV3FrVWd4N2hOOVFPbkE1VjVBbm5NbEFETF9IONIB6AFBVV95cUxPNE5NZDJvYVQtOFdqemxBUTdoOHc3TjBOeXBhRjdscGlxNzVJSEJqbl8wOWtVMU90bHhSamtkVHZEQ0RvdERoaklWekZSUjctZndJQ1pUTVZmUHN5c3BpUHlKMDI1VkIzcXZpX19pYXFnZk1WdWhQaTNqby1leFVnX1I5aW9LdS1kMFAtSThYdnlXWmd2NnA4cHlpVkUyTTZ2bFJpdlBOTUhFN0kzYWs1NUMyOUNpZ19zXzNSbjBNSjJrUl92VDc2VU5kWHNDaXNzYkttTmRWUHFNTFVGS1BBVTlIRlhDa1FC?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence in Trial Courts: Promise, Peril, and Prudence",
+   "source_name": "SCC Online",
+   "source_domain": "https://www.scconline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVRqNlBoWmxzbVVGdFMzaUc3MXZlYURHZG0tUGltU25ybzRaSUJoU3pmb2o0SUxhRkZLN05XSUVZOVB6c3VhSHdYdzNQLVloenMwQWJzOXRBLVZwUWJBVzYyZnRfcnZTajNLWTQzMU5mUl9DZ2tMcEktSjFtUi1IQnFkLU5kODd3RnVkODRxbWs4eVZFT3VndVRLTFRDaXZj?oc=5",
+   "published_utc": "2026-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

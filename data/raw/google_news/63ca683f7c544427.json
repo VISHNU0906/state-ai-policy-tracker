@@ -1,0 +1,29 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "Infibeam to set up small-scale data centres in Mumbai, Bengaluru, Hyderabad, Chennai, Gujarat, Delhi",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOURwRFIybTJWLVllMDNUMXU1SEl6bW1nNmJIbTlWbDBycEY1NVJCX0hrWVQ2QTU2VEpYRUtHelVaZFZrQ05PeHl3NUVrT2FCUjJyY2x2c3ZrcXlyRDA1eFd0bGY5LTdQLTZkbUJQbVd4d091TWEzZ2ZZMm1wbWFkUzA2eFBYUXZWVkUyb3pUSl9kUkExR2dIYndWX1BiRTRRWlFPTll5YlFkdjRNclFVaDhVblNvYklsYXlwTVNsd2UxdjJONUN2R0lBTnpBM3pHMzhtYzB3RdIB3gFBVV95cUxQd3g0dm9vMVZ3SWlDdGZiTXNVVVdzRFpBNmtKR2gyRWozM1ZqY3ZvS21EUUI3aDhlYng1WENodFdSNHI5X0k1elE2LUVTS1h6aDZtTjBPdDItMEdaVk40WHhUTkc5dWgtUHZqdnQzVFFqRXNLWTZCMHBqbHk5bjdwY1JqWFpTQUdLQkFqNTI4Nng2bWhMZjdpcV91STZYSnk0eHNCR0g5cjl5Vmo2b3VFUjhOM0otLVNydTY3emFheUJhZFlydmotOUMtYVJJQXFFUGJxUGhNcnppaGZUc0E?oc=5",
+   "published_utc": "2025-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first AI university to be set up in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUg2VGtwOUVnUFFZc05NNWU5VlJteDg1OURXOFo0Wnh6dVN2eHNCQlYyU2p4VkFJR2NoLVR1UWJCT1FJUWlJclk0Vi10MFRnSHJkVUROZm1LYVpXU3I3Qmw5N1hOS3RxeFM4ZVFtSEhWQXEzWlJNZTYyS1l1cWRwcEl2ekNUNWQzbDlmcUIweUtKX3JEd3Zfa0lSUzU0bHFqV2R1Q2xR0gGsAUFVX3lxTE9NRnBtdUNNX1B6ZW45ZEZ6VjJrRDROUWRzLUJ5VzlmUUtLV0hvRkdKVHJBOW5HcUtOelJ5RHRCQnFhdTAtMDYyaDctTUZmLURwdTNPUmpPcWxoSVlZME41Z1ZVd3NRNGVsSGxBVWJlQXJibUk0ZGpETFQtWTNnMTk4T1J0SXR3dnR4ZDNhaC1DMnZzTzdyTUR1dXFTdzRZM3VKOVcyR3NyQ2lGY1k?oc=5",
+   "published_utc": "2025-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A TOTAL 56 IAS POSTS VACANT IN GUJARAT 30 TO BE FILLED BY OCTOBER 2025",
+   "source_name": "IndianMandarins",
+   "source_domain": "https://www.indianmandarins.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUMtd0p6bGRQeUlpWFo4OG10anZhaG9Zc3lqWXg5QWlpLUlkQ0hLdUFBa041TFNoX3RMNGMweUdJUmpCS3RiQnFNTkN1RldHbklVODBLeUVjZExGcU5jX2hfcHRaTXdBYm91SnVuUFVUeDlsenItR05UeElwYnJ1UGVIdkpRM1pPdVM5Q1pocnRtNXJ6OFhMbzlZT2g1VHR5OW5WUVZxeFZZLWR3RnY5S24wQQ?oc=5",
+   "published_utc": "2025-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

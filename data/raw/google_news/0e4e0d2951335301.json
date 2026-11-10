@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "UP charts roadmap for Lucknow AI City to anchor India’s first AI hub",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPanMzTUlSaTJGU2wyUkxIbFl1dzlXWTFlRk81Mkl4VEpTb21hbHBWd05OVjNwTzlCUnpnVk5jOFZHS09QWWVyQlVQU3Nrb1IzNF9teFJVeXk1UmM5NkQ5a1hnaDFCVXoxN21RN2QwTFRBXzZXVkFueFg3RHRiNUZnZzdxeTN4Ri1WMkVCc2ltTUtGNDFvRFR4eWtubWtROXNSR2c3X3VjMFFvS3ItV1VXMENtZlExTXBka2tOYWN1Z2RJQzlEX0JaQXc4bE91UDVZTVo2Z3d5MXczSlhoZHBVVERVUzZTSU9LYTFhZzNFTkzSAfYBQVVfeXFMT1VzUGg4OElBdkRXdjJtWTRCZGhTUmZya3ppdUJGWHpDcERJd1UtbjdxQkk1cExYdFNPb2VaMV9EbE9NUElqWllDTE9uTEU1QU92bjA5Q0RFOWJDVFRmWDhDb1ljbTBFWjg3YTNtcWs2VVNDRV9RYjdTS1hXYjRaWnZuQ0NucjdWY2FXSk5GdGEtaTR5cnA1VmgxNjZ3WlhCOVBaeHVncVlyRXlSU2ZqbmFVdmpLcjkwUHl6emxYWGY5N0RLM0ppU3BvdWY2b0o5UGdPOW5ES2x6LWpWUlAtbENRbWFUa1kzcGs0WGtnYk5neHYzMWNR?oc=5",
+   "published_utc": "2025-11-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s Data Centre Capacity Set to Reach 9 GW by 2032",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEwzVGVFLTByeGxvVkU4MmtnVGNWellGX0U1b2ZySUVRR0NDbEROVW9CYTJOUHZYNFVtemZXTDl4ZElVeFVZVFJreUJHcE5sS3ZsVkpVMDJuTVhJeWIzdWZrTXNkdXZfdDVUYVVOSHhIRVFtd1lTa3dyUFVaeGI1aDg0NXRVQmE1X1FMSEhtcHNyOE04eWdLa0V2TXNPLVZuRzRXMXRCNzFRaW9kNlY0SW5Wb2ZEQQ?oc=5",
+   "published_utc": "2025-11-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India data centre capacity crosses 1.5 GW, Mumbai home to half of it: Report",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONzBWQm42WXIyVGxMTE8zTnl6aDQyM0NCMGE3aWIxQTc1Qlo3aUZpVjdhYldleV9ZU2lQTFRheGNhMUYtb1VKWXNaMldKbGphSDhHZ2pyVkdnMlJObnVsN1kzRXhDa0dMNC1aQ3NoQndady0xTUZ1UXh1SWVXSjBSOXdyZS14VWliRXAtbUdQVXBIekQ1cUhfOXE1YUxtRGVXcTRhdTg5bS1PeVg3c0tQR2o0TTgyUk0yemdXUGlLZEJtY0JMdlExQjJZSWdfRk5sRVVxbGVWV2FxSHlKMG5RN0FaeTV2WURGUnh1cEVn0gHzAUFVX3lxTE1FMmx5WDlvTHpnUGtDTjhsRkhTYUsxSUFraUNTZ3pxWXI4YVZKaFhJMDBMMDlnUGFsSkxIcWlKNVlOYWRCZnBIUk5pOU5ETlUwaE1LaVJCMlBDT1ZldTJUZDdFYzY5aUxtR3piN05KVjJVQjExWDhHMU1iRnVjNWtFZnA0S2U4RHJNZDhEcm0xalQxMWp4dWtBVGdURlM2YkdOSWItXzVtSkZsZ1h1LVRXVVRjVWZYME1ORkZoV0wtWDh3M19CdmdfbXdhUjZHUERqWWVlOHZ5UXVSY1B5SlkyLTc1cHNtWUkyOW1kSE9fVXVDUQ?oc=5",
+   "published_utc": "2025-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Partners With NPCIL To Join India’s Nuclear Power Programme",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZW5HTUhZT0tzbGdtYVpDYkxwTW5zeGFwMWNMaGlXN3FOYUVOT3ppODI2TGlOR1dHRHBjUHhKaUtCdS1Ka3YtZzl1Q0NtM1JwT2ZCOTd2cnl1X3FzMzhvd25tLWFtWUYzUGY3ZWpmUnhZRERCN0RMRThRWEtIX2tXMHd0SHFHZjQ1R3RpU1dQaXZ4UlAzaC1MblZ1TnJ2NmhlOVNDeTBzQ0fSAbgBQVVfeXFMUEVBd2ZLMkhWeDhFZUNLY2lLbnNpNndLWWlkclI3dEZqdURRTTRUQmVFajZxd2o1X2xDdy11QXNDakFVWjk0YjN4cW5QWmFDbklqY1Vnb2FOVjNFS2QzWjlWc1k2NzBfZTR0WlQwbWpUaHRvcWcwSU5Xa0tKcThaNHhDUEhBc084VEtEaXlkTWRYY1FQeDEzTzgzUld1ajNIU19XNjNnVmhNMGxVMzdwVXYtUHA1NVFWVg?oc=5",
+   "published_utc": "2025-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Inside India’s AI data-centre boom: What it takes to build one",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOV96Z2hIUHNvX3lQb1M5TUdDVmhsZGxIRUNKTDQ4TkNCQVR5ZWNIelk0eENSRVpfOXJRSzdwb0JvTlBlbWl1RlRzdHc2VGVRa0FNWllkT0VyYktGTjczTDBOZ0xLV0FuZU1ubkVxNkNodEgtbVJZcWZBOGhrbHhhbFBxQS1kcTN1UDBhMEtXbE1wTlAyQmxuaHFobmU2UHJnSmE3cXRialBhNEFQbTVCNWRvWlFJbFZrMmhiRnczbzVUVnhGRS13VGQ0VVBJZkduWXfSAdcBQVVfeXFMUFl4Sm5WYnlJbHZNSFh5SDNxbDJ2c3d4OGpUY1otb0NJR0ZxZnlpRnZBN0ZDdmJ5cjJNYnZlb2lXN0NRWFBSd09JcE5oSTBDdWZheTgtNzFqeW1XQ2hBLWV5b0lWZGZkU3VEeVJjd2NJMkJmdWZIdWQ1alFjX0JuekUweDJmMlVCSDBXWE1XaVdZYW00d21pZTk5eVlVX3o0cVNfa1hNdjltclJ3Yi0yaW8wWFJ0TS1GS3dNdEh1czczNXRBb2RaanIyR1N1NjRQbHhXVlZXUzA?oc=5",
+   "published_utc": "2025-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s data centre capacity crosses 1.5 GW, Mumbai leads with 53% share: CBRE | Real Estate News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQanVpY01ENEdTRk9VbXF1M2ZxdjFaMjhmbWwxNWJrRGRhX3BkbGNPbjVnRnZreldKYk5QcVM0X1ZaVFZjTkFvMzZlY1JfQUtfaFlZWENPRWI3NkhKTXd1Q3R4RGRaUXpEcGRHTDZJNk1PZ3FEaFUyejJwRXhpNnMtWFQtRmd1RmRXUElOY2h5RUZwSlc4TkFaRnJZX2hIOGFqSXR1eldXa05mVERjNHpQQXp0OUlwRnhuRzVNazFURll1V0c1bzlfQ3dSSFZ6b09veVRzQdIB2gFBVV95cUxQN2xZdEpYM2pRZVBRcTY4N2pxU2JZZkFJSGtwcEVQbE84NG5qN0FZRUdJakkyZnJLeEh1ZmVBY2IwcUl5azRBeXh3QlRZaFhTLTIyNFJWWE5QbE94NFdSZVBESVQzMGFNMV9RVWtXeFZLaDQ5cFRhVGtNQXEyS1JxOVNDU0FwdUFKbTdWamx0NXdVTTd3Mk5GSHpaUEpTWG9FUG4wVnZLTUxBR3d6cHlXR0p1bUU0cldqbkVYRC1ta01NQ09keE4zSVBpMlF3WFRQUTNUTTNVOFNVZw?oc=5",
+   "published_utc": "2025-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhopal announces 2,000-acre knowledge & AI City, advancing its position in India’s tech landscape",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWExWbFhrOEx1eGdDYTFidkg0aks2RFctZ0VwcG8wQ1JGSnlfSGlpamRxV3JXOEczRE41TjhFeXhrUnNBaHZuOWxuYVVpbGlUUzd0VXRyVndjZm5HU0lDVWlXUjBVOUpEdnNQTDltZUJCb1ppY0R4VjBkQmZJZGIyUUNlSHI4b05MQnBYSVF0RmJGOG9ZYTY0S09QbVpJaGhBNEtGSDgtMndad1BycFJBcmNaWDhoLWE5dUxfVkxuQVlXLWlxMlZleXpfcTZ5SkdnV3F0dHdaVWtFd2haNFgySFI2MjdaYzI1dGhz0gHvAUFVX3lxTE1XQ3dacUdTQTAwUkk2Tl81TDRQU3pTT3JIM1pvZHFWMzRlYWxNSFR3VVNMcldDUjl5bGRoSDM0RWRmb3ljMzU0ZzFxbEZrTnhMVmxqT1QtbjQ2SnJjcVAyNk43VFdVX3o4X1JhUWdYaXZEOE9zb2xIX1VVSVo3UlJzYXZEQW9jYzBjbFBpZW5ZTF9PMmVrLXBZbmxoamdYcXNfaUJSalNSa1gyTjZQc2M3WEx3dTNSYVBob1lDYl9aa0hWaGI5R2xRZFp5ZTZ6d3ktbVY2MUxLN1lOTDB5YnNOY2ZsOEpyUVYxT2xNb0Fn?oc=5",
+   "published_utc": "2025-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata, Reliance, Adani & Airtel — The behemoths want a space in this multi-billion centre",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNWJySVRiLXdncDZVVFB0eG00VVdQellHRm02ZGhNcHhMd1VVVHBzbTlEVGU4eDM2VDhaU2pEMV9CRXM3aGMzNGdtTExMaTY5SGV4VFl6SVBuZ0ZVM0F1cW5GMk9aRUdlOTI5Tl9VOFhaLW5aeVpmUXNjRWdaVWM0X0pIa09mbUF0QjZMNkhUZkdsOUVUSkV3TGpqZjBpbmcyU2FTcDRfS0h6R2MwMmEyUE1JS2s0UGNpRW5JTTFWdUdrNlhzWWV2RkJmOVQtMlZfWm1FbHM1QjZkQjBsR3d2TnZB0gHnAUFVX3lxTFBKeG9UamkzYWxMNTFKMTc4Nmp0anZRVWRKelBYRTRXT2dtYWgtei1lUU1hN3FMQ1F1bHVZenFUWXBZUVMyYW9sRnplR3ROVUQxRWo5N3pYS2x3ZllrZUFKWW1hVmdSU3pqYUJ1YWVZaFdTX0Q3QlFYZmFhaUlKY2pURkg0ajBBUjlYYXJudWRVMl9iSlJ2ZnpSU010dVZMQVpyRXlGVlg4Wl83cDlFcVZIOHpDLVBtVXZyY3dHR0g3YktveE5mVk0xT2VvSzJYTFptdnFzMkR4aVo4TkhvcXpoREd6c2R5UQ?oc=5",
+   "published_utc": "2025-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet Approves New Policy For Concept-Based Iconic City Development",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3ZmYkRGalVUdEZBelZuR1ZLSzZZNzZ5ZFE3Zk9QTFNEODcyLWw1aGVzN3EwUXJFbUQ2VDBLS0lVWmpja0o2VWFGY2ltdTZTM3NGUkYxRTNwZ2Y3VzJhUHdIQVFjX25vb2NFQ1NmMllLU1phc09PbHFLZDhDT0tFZDQ1VHVRS3FscGMwM0N2RE8xTm9LOUdSZ0hSX2N2NUFFNWRHYVRMWWJaeFl0M1g0VXVwX2pvaC14UVJPNdIBwgFBVV95cUxOeVRYem9pbnNiN2tsS0dvdnhkQjQwX0tjRFJyak1obWpXXzRVQVo5QzZnLUxXdE1WdWR0MjJQVHFEa0xTQXJTWHphYlFDQVFjVVhIakNwbVp5NzNYajJwaEhSWnNhMVB1UkYxX1lwbjBSN3Y3VGZKeF9mM1Bqb1h5TTg4eU5ZenAxTmkzNG5URmRzbkswWU9VN25KTFZYRE9fYVAxX3NldGd5SFVFS2NKclJJR3BDdXRfc0FuYmRBWHJSQQ?oc=5",
+   "published_utc": "2025-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

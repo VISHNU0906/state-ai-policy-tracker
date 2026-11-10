@@ -1,0 +1,69 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "M.B. Patil blames Centre’s incentives to Andhra Pradesh for Google setting up AI data centre in Visakhapatnam",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOGRhUVFFTmxyU0pGOUpxTHhpM09sQ2hJcjJZMWQzM1NuVzZ0TGwySlhIU3c0NTEtbEFhNDdvbFlVa2NHU19VQ0hkWkVpV3h5cWQyekRqOXZEUW91aTAzZzlxMlN0UXBIVGxBZjZ5S0Q3Wi1KVXFSR0V4LTFraGlDbmliRXZjQTlVTnpUb3cyMUxQaUE3ZlRuVHk3MDZMeTBxZWduTnFOYkZHUkNibVMxSUtKVDNTRV9VeUVpN3ZuaGQtNzM1TGJxclFhVXBXSXFsdFFoTUtjenN5T2dPcDUtQVhHMkVpMW90Rml6TnF6VGt1N3B6UkNENkcxVm14WTRzUENLamZB0gGMAkFVX3lxTE9IMUJHaDBrdkFqalhlaUJSS1phYlJ3amwzbG91V3YwdWZCWWY4QU5zeXJic2x2blJaSWlRcEN6Zks2YmE5WGNMMkZMeE5UUFdlZ09SbEdqWHZ4VGV1OHRWeUdYMV9OWVFkaWlzclZiYThfekdFbS1CZkdsTW9KekNpRDZoRG1uaThDU2lNOHp5RTIzTVFoR3IxXzh2N2VBSnU2Z3N3a0dKYjJ5NnNMT1YyZnFEMHFNT1dvbWU4Wk9mT3JwWUVyalVmTHZrT2U2VDZEVzVEdHBkdmppNTQwVXNPVENKTC1zNzRIR0tKWlZVQk0yTHBwMGFtY1lCRzBEcVRPZjg3U2M3VFBOaHA?oc=5",
+   "published_utc": "2025-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s Data Centre Boom: Adani, Reliance, Bharti in Fast Lane in a Crowded Field",
+   "source_name": "Outlook Business",
+   "source_domain": "https://www.outlookbusiness.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHNKTGlvTU1aMW5mTElGX3VRcGE5STZTYWY2VG01eFBhc3UwTmhHTW1RUTFCSFRlbTFCQ29nakNjVFdWeF82Q1R2X3BOa185V05jUFdtOXBlQ0hSd1BGUnplOGdGZFVjVHVvazA4eUtsVUJGR2wyaVFDMHZyM0dhdXF4YnFKdi1oVkdOVXlIVXpnWmowTXRMb1pqa0xlX1l1amhXVDF0QXMtM3VKNS1DUlYwaG4yVUdpMDlybdIBygFBVV95cUxQaTRNSi1QSTR4RjMtZ0VzUkxrSzVZd3cyT0x0VzltLXJWVDJLRWRDT1ZXbVNCdEF0VzhZV29lT1dpV1Y3VTFpMWJnbXB5MnJzeFRQazFZMmdKS0FIVnNQMTZZT1hLNUJXZlhOODEzLU5yWjNvV01kcEp0OFZvTWNhQWVPWlhQeUJVRlBBV2s1M0s1c1Nxa0JSaGNDNXo0T0djSmtrY2MtVDVzLXVOMUROZldzeU55djc1dXdPa3pGWk05S29iQjB3eEN3?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What Google’s $15 bn AI hub in Andhra Pradesh means for India",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHRXNnRoZm8tQ1pjMXNCbXhzaHROc0h5ZG9GN2h5SWhUQTB6dFczMmk1Y3VCNmdDbnZ0YUNxZHVtWU1sQnptclh6R1Jha2dVVmJFdGRwU2RVTDBfelpuOWxLclFWbjhjSjBGQVZTN2VRVlhhaE9yMzEzNE11Z1p0NUtDQVNReEpUNU5reTJHMnF1cHBHQzF0MUVwOGh3Wkk2dWN6SmpOdGhRY0YtNm5nUDVXLV8yMUdkZUFMOUJTaGFfeWfSAcoBQVVfeXFMTzFuWVRpdzRCZnlzcE1iSFdCS2Fob3RPMmtQTEhiXzJLQUY1dTBncUxKTkxuWERDb3VoTWFfbWVpZDJ5bC1UQm5HRVpCWXl0Z2hNeFFNT2V2NklxUVY5Z2p3R1dUeXJ0TDlLM241RnpCNXJhUDlmYmpPdHVMLUUzcmJjM0ROYmxFUG5kekxoSl9OTEEzWkliTFMxYmxyM2hZMlJfMFNJNmpjYmJYR1RDUnlkS042RUdodEstd1ljb3R6eF9UMllFREZkUQ?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mukesh Ambani-owned Reliance's investments in AI infra may top $12-15 billion: Report",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV19SNGRFREFHcmt6aGdLMnAwdWNZbVZFQ3FNT3RWSlN4TzZtTjI2ODRpM2hnM0FleS1jMG1UMVBlRTBjakhpYXg5M2JKSTdnODZKWUtXU01Yd0xjWTh6U3JHd0hkVGhtdjNtdmtVTjZvTFVtcmd1T0tSblNDUWpqY3VLU0tOQ3ljQlVXR3Y0UlVHN0g4MzVHeG12dUJrdG1CNnExOGpLcFJ5aDhFRkt6N1VRdHNiTTUzZWpwMDBkMFNuUzd5cnRUdkxuZU9xd0V2X1RIR19CSUMtcDkz0gHiAUFVX3lxTE1JWEFKSVpJMWlkV042QkwtTGl1MEdvUEwzdkZZa2s5U3NrVWtyWm5IYUFVLW9Zem9nNXNhd2dsNmxyT01JOUJ0YU5FaUdYVmh1NjVJTzMwdUxSQ2lYZWVWa3VDRk12bXV3M0dTVEtqY0hBckZjSDBmV1JVQzktNml3WTVMNFpLbThwRTJvTGUtcGNkd0xZeDJLRmo1REkyQmN2MTlWQWdfZXpzZWw0LTl1MmxTN0I0b2VSQ2ZKRFdGbU9hN0Y1bW9uRFR6SVlLTDJhdnlZdWlBR3hCbmVKUTdfRXc?oc=5",
+   "published_utc": "2025-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fire breaks out at ISRO’s IT data centre in Ahmedabad: Major infra, data loss suspected; four tenders contr...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTEE4aTBRQUl6SU1adGxCdmZSUXNIdTBlS2lhZjc5UExnMEdldm5nMklWNjVoZXhOMERZWWpRQVBjVW5IT2ZWOHE3T3BELVhvZmtzRW9WRFNnWTNFMWlWc25YVnhVeDZ0WVZxdnJOeHl0NXRRNTJYamRIOHVMQWtBcEJ3aWdSb0tab0NXRmZIVUdyQTloOWlfaU1tbDA3MVpBemdhazNqT0RBUzhoY05USGtTcEZNOGpKczhteGJ0U2xwZDVMWkltY2NhRUppaW5GaHlZMDg5aXRFbHRvaTBBQ25jWXhMeUgydV95RjctS1MxaUhCajFTdW93d1hDLVNVeklFY1RhdnhEalBkVnJ2LUJ30gGXAkFVX3lxTE9waFRsQ2RFZWlrOWQtV1dycDNUOGVEQlhmRXlBMzFIcGprakFLcDc4VThZWE5jNTFXRkxmdmJNRDUyX1l6cWFDcVQybGUxRWNPZzJyVDZuaGp6NGsxYmlheFRzS0RDYnRjZC0zVW84WHhYS0N6V3N0QlhVXzItdlRCQ2tJY2dzMHE4QU1idTNqVkYtMXY3NWZsc0F3aVl4ZUpGX284VWNYVXNvTWpscFZjSEJEZFdoYWVtREtNUXNCd0ZueVRUTjBIbVRFcEpaRHpBeFlaVGNERGhwdlBHb2FKbmpZU2RoNm54cEwzT2MyeHNPeEF2VGN0M0d1U3FOcEdBdHJWQ3p3dUhOVE9SR0Jza1ZIUlMzSQ?oc=5",
+   "published_utc": "2025-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 1331939829000: Google to set up India's largest data centre in...., not Gujarat, Bengaluru, joins hands wi",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdVdoS0c4VGQ3Z3NjQ3E5THJXQW5LaTdPTGVhOXFreUZvbFhDQ0ZEeUpPaWpXbjVlRnQzQXZuaW9Jc1NXaGtZQmZlSWJsbDBELU1odVhIb0ZDUUZmSWxJVHd4NFlrZDZ1WkNseTdZSFJiUEZyUU8zNDhDbVp4RHB3TVdjOWNJbThpaDRxaUtJY2YtZm9ubTYzLXIyTzFFQUs0T3EwSmFlSkJsbll4M3haa2dvb1F1ZTRIYXhZOUVvV1gxVzFSS0ZUU0IwcG12QTlqbU8xeE1UMk1jcFVfZGxQY2lYbGQ5UnVPaVVqS0tSRjZPeW5iRHUteGFRT1LSAYICQVVfeXFMUEhLb1RTX0tKelM3QzQtVFd4SkNneGJGNlBtUGd2VDRYdVFPYVpXVGh4SmItZk1qcnkxNXNYWTRTMnBGS0tHLWpVMUd2em9lNXJaMzFWNW8tZzZJWU5zWUw3YWxEMWVKbklTQUh1blRLMlk5RHN5ZHlPb3Rfdmw5Tm9xblpuUlRBS3FhVG41LWRVTUc4RlY3c2RTdUxpTms2d1U1WUFXUVZfcVExUk1ENFdrbG1XeXRiVzZXVk9xSmp4RXhWZ2ZzaFVGVENBeHRFYS1KdUI1REdoczdWTC1fNnZkOVVxNHIyS1JmUkpETlBoYnpEOEZZSDdPM0xEblZUSlhR?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Several fake videos of mine’: Nirmala Sitharaman flags deepfake threat; warns of AI’s darker side",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGNHV3VWRHhQcjRZODNtaGRJWDhwSEZRUEUzQ3VqOWZCMnZ0eXJYX282cDJ3dzE3N2xwOG1tZFJBaU9mbmtfcVNyX3BwMEdRb0pYVXBMWHp1UEdQNFVremRNUHl3di1sVkFWdERwMU9JMGJCbHZ4OEp2LWZmUmNES1JaLUZmd2pfYkRFUV9vN21uMVZITVdEQjdHenBTcUd1QkNoeXNkZzZJeUluMkNJaVNxQnVJOGlMLTY2dTlhcDJOeGVwM25lY05NTnhKc0RDbEE4aEtOUWhSbkppWmRJQkU3M19RU0tuSHV0X2U2S0lPQjjSAfgBQVVfeXFMUHUxMFYyNkF1d2tvbm1DWVk2LTJxYTN0U1I5dU40blo4d3FmaThQaXhLMVRER1Uyb09oSWZvcnRJMmg1UW1fZmRRWUFnYUtRb1c4T1JlZkFFVS1QajVrZWJnMHRld3l1WHdxbXdpcnh6TXd1Z0thZWdmc2w3ajQ2SjFlakxROUlPaTZJampGaUZ5ZGZveXVCcXJGXzBCRUFiLXhxb1Bpc1JCWFhRWTFSRXN5VTVmdDBmQWxMUHJUNmhzSHdEWVFNUlNRakNRUllEbGY4b0tuVy1QMDZKLXZiSEl3UWlEMXZydnRDcWJHek9TZW4tWlBfUnE?oc=5",
+   "published_utc": "2025-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt drafts changes in IT rules to prevent misinformation: Guidelines require uploading platforms to clearl...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZ3kzNEVTMjFCWS1pajh3OTNQWHlaX0Z6dTU3VEQwQXprcGRrZjBnWkFtY2tWQmNmdnZ5V1dMampFMHY4VDBxcnV4QmE3SDJGYVFiN0FiOGhvcFplZlE2c21SOXY4Z1JtNk51RDNiUXd0VFY2VW5rVUVXT016bTZIdG5ycFU1SUtrVXNZeWpRODF2cnZ6WklHU0N4V0RhaVVVQXVnUFFxTmhMRWNIVWFldDJYYUtkY1I2aWhHdzdWenlRZ0FLQjlwVXB3UVl3cTYzS3RYWEt6N3gxS1FvQ2dIZ3c4M0JZbjRlYzNkNlR1enQ1WjBnV2hpZjlrMk96b0M1ZnpiNHJ3Tl9sWl9WeC1KNklma24wWlhX0gGeAkFVX3lxTE1QOHNMNjZIWk4yYnpqX2VnR3RadXBKOE5YWE9zSndVdDJVclQ3OWk2eUE2T0FyRjlicUhud3RLR1d1X1BZclMyM1A0SVpELUZyLTN1VHkzaUI1b2wxajNaNnpISlRqdW9WalRwOVY2SHo0U1hvTmllZEVKNjJjMDliNllBQVVtRkw3VGpSX1hTSHBpOWxFMmxySXdnNUgtdTN5aHN1eU83cGUzRUo1R0QyUVJHX3pnQVlieG5QcVlFNTVSUXozc0FIWElrdTVud21qYmxWclM5ZV9EbFBJMzNMdUUwdXA1S2JwalVGU1hybF93Snl0bFEzOW81YmJnT2c1Y3ZtSDZSdjhwYUM0bUFWbFdPOUg0X3lfeTNJNWc?oc=5",
+   "published_utc": "2025-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

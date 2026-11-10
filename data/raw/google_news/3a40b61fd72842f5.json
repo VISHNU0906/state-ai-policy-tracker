@@ -1,0 +1,141 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "AI Technology Helps Tamil Nadu Police Trace Fugitive Wanted In 2007 Murder",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDktZkZLeEhESURPeThLWmpwbHBhV0VIdVYtNlIzRS1RdElZUGpXMEVfTUQ2UzlCWTA0eXItZ2xCVjRtTHZpTmFnb2syX3dJWGpWUTBhdDNhSjJxb0xtUEh1WmI0VS1ndGZENHpiZkJXdXJPZDZwWGtERFhncUxLMXBfS1U1TEVfZk5EajY1cnhyYmVBX2pkc3ZBTmFYT3N5SEdVdlJrM2hFc05Zb1o5MnREWlBiYm1KT2VLUXZ5RmhTUdIBxwFBVV95cUxONGpLLWNadV9LT1dfdlM0bk5zUGxhemRXQ2M4bllWOS1CZjA3LWJMODZQSnZNdF9OZDU1YWNGWVhxRGZkQl9yM3pYcXc1UEhzREhjemdDcWNLTmFkUFNiYWVic2EtS3JmSG5URkxaN0d0YjNHRF9DdTloSG9QUUZWQzBYU01JbjZ5TzdGa0hNR0JFSDlnOVhPOWFEVGZZVkhHQktvVEwzdm5xQ2NZcEd0aTJsLUI4c3BQQ3g3eS1aaDBiMkJqQ0c4?oc=5",
+   "published_utc": "2026-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Engineering education symposium in Chennai explores AI, industry needs and future-ready skills",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNGc2VkNMZEtqZ0d5M1lhZzVWbFdrY29wMUdGZHVPRk5lQVZKNlFtT09mQmpPTFdKbW84VGhCenllcF80NVA4OGZBeWp4WHF3SE1OVTNONnZ0UE93ZE5JbDJ6amdZM29YUFZqY3lIeU9aaVBBeG9ZVzlPbkhKeFV6eXc0YnY4ZFh6QndJckJ2WkV1bFF6UExHeE1ZcmFjV1BtTTVHeWhjSmRQNFgxakJWaEpyeER3X0hDQllsNE12VVdyYVZhNnNvbmM3WU9rUGJwSm1iYjFXQi1MNGxyZTRldl9pTlIxeHhqZ3FuYnV5S044TUl0WVHSAfwBQVVfeXFMUDJ0NzFtWXNTVnJYV19WdS1KcFV5OWFhN0dMMkJuVGI3QTJJMGR5ZzBiMkdiMXBaV0hmMjFxYmFiQnowcTM5bXdhcHZodGtqTE9DQWF3WGZMY2YtU1p0Q0tHTWFVNWhWVG9GcTZWV0pBT2xIcGhZZF9wZnhVT3BRWjZJZXg5VGI2NnMxWlRWZVhwWktRR0I2LW42SjhSTWpxaFZ1Ulh0eFpHSmlCX2dobWZCLW5GVkhSamQxZDQ2cEViRzFkeE05eWlMTzVBak84MERGdWt1QVZJcjRkTVJubGJad29BMHd6WTBxcWdkeklTcDFFYXdHQTlhbktX?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CBCID books case over AI deepfake video impersonating Tamil Nadu CM Vijay",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNEFhSVR6NF9nNmM0ZDl1ZmVyQUpKZnBNdWlpc3JyN1ctSDhDXy13QXB0QlN2UjdhMGVhNUZXZC0zMEtvSVNHak1BZFVwaUVhbF9ROTMxM2VZWXptQXRMTVlQU0FiY3E4SW1EY1doN3lZb3B3Nnk3U3BjdHRQOFFYdGJpejhJbTZkVTJOeEQ4S2JaYWtpTERXYVhCUzQ0NlJiU3RCcGtpcEVSa1NZVGR5Y29fZ3BJd2taOEhPWUhWX3k1TFhGaWpHSUp0OGc4SjJPVjI4?oc=5",
+   "published_utc": "2026-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s First Agentic AI Campus Launched at SDNB Vaishnav College for Women",
+   "source_name": "India Education Diary",
+   "source_domain": "https://indiaeducationdiary.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEFFdVBCQVFWR3ZmVHNNbmpGZmYtdFQxcm04VlpGVGtFQWxaTVJ0V1ljSTk4dzFJbGpnZy1kOWZucFZBUEpEQ2swZ0pkblBtUlppVVBieHU3M2JuRlhxRURHZ0NGNUp5UkpRWjljUTVfUlpQY09ROXRJZUNacmpDY0tJYzJGbjdENTBvZmdrZlE5VlJIWDJzZFcwMHJSdml6aFF0OTRSODJOU3QyLUJQVA?oc=5",
+   "published_utc": "2026-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Special TN govt buses to bridge last-mile gap for 19,000 kids",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjNvU1BFU2ZFNnZhN3lIcnpUanZsRXg0Xy13bl9zQW1PQ2dscWstcWw1WWM4MDZ0dTZ5ckNsQVQ3Wl9HbDF2WjZadTZraWJxNll1Z2pnN2V2dGMyRXFFR1JaMVJJdFFfZmJZZFlLcGlBZllYOXlBRE9RanJadGh6QlE1WlFlY0wwTE9pNjA1LWJFalpDNTRCM0ttWk1BZEktYmw5SzVkZ3FEVzRJeEtDdGpYZmFrZ2VTYXBTeEdsSUvSAc4BQVVfeXFMTW9SbTJTX19EYmZOamVzWnpERFQwUHFaRmxlLXVfd09mS212X29NWUw1Rk9mcFdBTTZlVi01Tk40RWx0Ym5YWHh0aUtDb3RmYkowSUFra1c2b012Z3NteDItVGxTd3BDTjYxdExCcUtxOEtpa1hRQ3YwQ193YzkzYXJiakM2M3hTN1RIdVBxUmREZFQ5WEhjaExvUktseFhvaEhaanZJeUFNOTVZLXRXSTFtcUs1dnNRY1c4SThRNW1Ha1JrRTZOaHdJaHF3QVE?oc=5",
+   "published_utc": "2026-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sridhar Vembu asks how Tamil Nadu lost ₹70,000cr AI data centre. Blames DMK rhetoric",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXBhN2JhOGZyZ3A4Q1l3OWU1c2ZoYzlyOWp2SmVLR0xnWjFld0xaOWF6aU00eDRaQ2M4elNiOU5NREZKMGZQMGJ4Q1Nmbnl5UkUtbWdQVUZLMGxJQXhHdlg1UXFNV0t4NE16U3E4Z0Q2a2VqQjJvckFHMm14UnEwSENqdFM5YjdUS2YzbEs5NFV4LS1nNXNoeUhsS2s1V2NSTmQ4VzdDR0tFenJPcVZsLXRxOE5Gc05LeDRYdExVeEtBYWF3emfSAcsBQVVfeXFMUE40a0dNRnJrakZpaXhkVmhsSjRaZUpPMFVjbUJPVm1XNFFUaXRnMVRZWEVUd2NtTW1kcHNWSTR4THVKMVhHOFE2N0xrYjZ4ZUhUbm9uMERyX3BJdXhyNVNuSHlOaVlIclJtbE1Ua3pheHZ4WW1uSkNjYzZBQkFiVl9ZM09URnFreXlJRWhxN3c4TXBQYWs3M3hJNnpKZWY3d3NkYng3aGNHS01zb1d0UmZaUnMzR29kd0ZRMld1N0s1a1RHa2oyWThNOTQ?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam govt signs MoUs with 6 organisations for introducing AI in school education",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSHlyNFdTYUl4Z3hrdkxhTm1DT3JOX1BySWFkbDlvWE53S01hcV9fTlVINjRQRGczaG04TnE5ckIxSWYycEFGbnQtMi0tMlYtcnJWSDlheVdRLVNFOWlTc0ZUUFV6a0k4amZud0lmUkFCS1lEbjdlN0ZLZHhITld5dW5yRUx2WUd1eEhnMV9zRTM5dDBiakE4VmxLT0QzVHlsU0Izb1JrdXpNa19MalM4NDhVVlByX1YweXdnM3VWcnZsR1h1YjVRWUxHTVNaaFRraUx0NDVRLTBad1lJNzFfYTNKVjRzZEhEYzF6NlpNWXV3UdIB9gFBVV95cUxPMlF3RHhLdHplaDVma1V5UFl0N2NsTEJSTmczZlVXOFdmbEhTZzd4OHZwNWdwcmM0T29IWUd2ZFZvTWpOajVLR1NmOENKdldrMVVxVXV3WnFpVlpLVlZiSWhFOXF2T0hFQ3EycnViOVMwY3NzNWF3bG9ybVZrN3BvQ2FtX21BQ25GbkgzQWNzX0ItVTgtazBtenhCYmRPN2FuUmFNZVJyTEE2d1BBMHZUbko5UDV1SE5oa1dscW5LRkppekFEaW50Vi1vbm5Hcjl0U0VDSmR5ejBrdVlXU2N2OTNWSjBqMW1ka2J5QWZSS25haExaenc?oc=5",
+   "published_utc": "2026-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjNIRm5qaGtkQ3lFR2JvU2tTS21mNUZZbnFqVmQ4bGYzNDhkX3FOTnpka3plS0tWVlozVFd6TVVfR0w5LWg0bmQ4eEh3VWpQLXFNYTZkWjA1XzRUT1k3ODNvOTQ2YVlSWTlnRmd0WllpeFJ1MWFGZ2NNLTdFMi1qX1h1Q0JfRUt4STRHSzJZdWhSdWdCRUk2NFd5SkNBVWE4OWozdGU5V3BKMnZxNnU5ZUUxcw?oc=5",
+   "published_utc": "2026-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India needs a human- and farmer-centred model of agricultural AI",
+   "source_name": "Down To Earth",
+   "source_domain": "https://www.downtoearth.org.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODJiWUZrUVpieXlpakVHY3NZV0x5R29Zb25JVTNUczRhU2ZqT1U3RjhnbjZhS0ZWT3pQWnNydTFCSzcyemRELTNqVC0zbkp5U25sZmdORDZzYUgwZnEtSzQwLWpLQUFCb2JpelBfYlFRdXJsTTJnejJkMXZDSnpjN2lPa3kzTnJ4NEh5TEFwTzVCOXlSVnBpOUxKNVl1OUhpVVRqdEdwcFk3QdIBtwFBVV95cUxPajFSby1NV2EtNnpYVHBwLU9laEFLZ3RXSWZGTzNsTWRWMVM3b0VOVm85UmxQdks4OEUxUmlwb1ZtbHZ5bGVoTzBIRHQ3b1RDWkFWNFlXaWo0MjVBU1ZjcVFlTDFxT2dzY3Zqd1dudDVZeFVNSzY1RXBIR0hhM0J6bmhEWVNGblJoRFVNbzNBdGd5N1U4eWRtUWpZZ1N3eHNabFZ2SkpfS3NhbHZBSjVobHhsNWV3UFk?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Tiny Little Stint Arrives at Thoothukudi Wetlands | Videos",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUVFSm9pS0prUVZyLXVDbUEwTFlUYl9tMzNTeG5BWDFnenhLcEkyLVRrTlJlMDhUWHVMempGTWxSZXVEOWcwMGVFa19jZ3g4TEZDcDlWOTFVWndlZnRpY0M5SzRWekNtOHVGY0hlcFE0S0gxU19jcVd3TGQ2cG1wNVBFTHBkSUFnZjg5OGtudUh6MHk5TkhXcWY3cFkyRWxWdENWZWJUQnNkWHdLZ055ZkpFeWtSR2ZuMGZN0gHAAUFVX3lxTE1hU1VUa0UyMHF3ZmxFa04wQ2k1QTFCNTAtU1dCZmpGQVJ0VXN1VUFWbDhaQU5naG5mbU9RVVY0SlY0NjVBNlh4R3J3MEtpQm1pNGFvVWRTSEhqRFYwSm5McnkzQkdCakpCNENaN1ZzSGNwbmMtVWdQcmFNeXhTVzM1VElkNnZFVzhKbGRlMVNJejlmdjdxeWN6YVpKNkZ6Y2FBZ1NZZHQ5dlhrcmZBdThDN2dEaVBfbW5qQlFuXzRPLQ?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "C.N. Annadurai",
+   "source_name": "Britannica",
+   "source_domain": "https://www.britannica.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2anNmSDE4TTAwYUxqMUZVbDZHdWZMYm5leDZEQkhBVUQ4WkxuNGUtdnJZcDFSVmpKZFVuM3I5bW9VWHR5NXFtTWtEQXFsbmR2TUxCWkl4S1RHNGdobXVB?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vijay’s Gold Ring Scheme For Tamil Nadu Newborns Launches Today: Who Is Eligible And How It Works",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX1NMV0c1MHdVeThxWm5BT0NzOTZwdjh2a1FIWmI1TEpjZkszeHkxQlFUZTYzRkp3aVlIWUViOF8zZ2xrT0xCb3MzbnQtcmJQRHNESXQ0OGl6d29nbUJPWGt5MFZ4T0tnYVJNU0trNEhOQ1FpdlpBT1VhbktzZW85OVlpVmE5QUxJMmhOcmJJamFSQTBRRW84QmJxMnpSQ3ZwNVFBOGlSYkpua0U0dlB6SnkxdUpvck93OUt3a3UwdC1ObGlMRmYyV0pZbF9FSWxjOGp0SkpVTktpMy1qRTl5Y05CRdIB6AFBVV95cUxNSVZBUno1UDdOZU4zdU9xZFYwWktrRU13T1NaNVpoXzhnTnNHZGh3LWl3RXNHakNhV214WGxJemN5NzRfbFdyV0ZGd3hzaXN1Q05CZ25yRXpnQXlKTFY0N0NYR1Y0bmJpZkVnSlFiZlYzQW4xOENlUnhPcGFvTk9zUjRSdVd4QTFXM0pxUWVjZ18zQmFSMmo3NExTUThrNktHbnF4RWtnSVhBcXNTZGZNeHEyZWtuM3o3dXhrbTBYLTIxdGVJZHp3N3FlbmZxTTNzTFRQLVRXRjZpMEt2SnV5U2dDVkhTS29E?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Private Universities Amendment Bill will attract world-class institutes to Tamil Nadu: Higher Education Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTUZZcE1ENjFJUDllNS1EbEFxNW8zWUtCSk5jRUZuOXpPOHRTWGU3MzA1VzBXdVNtQ0NNQzc3YmwxejY2SUJqM3VITDE0MTBORG5WbEJMSGNsY2VENndwLU52NENnSERReTNWSzF0cHByeGtodEhZTFR1a1hqengxcVllZG03a2tISzZQRENpT1FfUmw3XzZmenZMcDBRRDVxdVd3ZmIzUGNXWk55S1BFYXFVTGxULXRnanNINVp1Vi1mOERmUDQ1dEV4bjUySmhvdkxhZGlwVzg3OGZ4LXFKVEdrdEhtZHFWOEVuSnNEUjJvWlM5c1pYa3FneWtYWmhOUjVfSWZFeGZtbHVLekHSAZQCQVVfeXFMT1VHSE5vSEdCUXdHS09aU2Myek1aY3d4a2RQeF9hbkstcklMc0dZMUJnMlp2NzZfT3hob3hfUDNXNVk2blE1eURxLXRfbnpOTlNRZDNONE01aVhLUkZ0WWRDR3hxUlVvSkxrLTV0QUdOd25neHI1ZWtRaFF0Y2hTR3VYbGw1bm0wbjFfTlJMWkJhdWdnUzBMbkNENnMzcGJ0XzQ1TkVZcU1MeHhpYlF3bGROcFJPeTltY3EtZ3JNTjNRNWxwVXRIRWFKWndCbWFnVGpMbDd4MTR2LU1ZNEJVQU82b1VxdzZ0ME9pNGVUNmtCUlpYMjdWbUszZ0tfVUVCcXBCZlFYR3VOcGU3YjNsNVl0VzQt?oc=5",
+   "published_utc": "2026-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "36 Young Indian Innovators Take Their Ideas to the National Stage with Samsung Solve for Tomorrow 2026",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEpPZHlQai1tUkVwRXk0T0ZYdEI0aVZpYkxqTm1DVXpfSFFBN1ZUazcwY3VFNzE3MzBSc21JTEJuUndpZm1KR081YU9wT0VJMW8yV280eFV6cDY4UG5xSlp0Y0pjcm90NEc5TzZyNFRYSjF0S0RZRXNmOEtkbkJoQUV5ZEl1dGdyQmlfanNiMXhmZ3V5cElBMVhhX0puSGVQMy1sZ1Nhc1YydVVRdzFOZ3lQakhxSkhTN1pSMmd1UlBuZTZvWTRYejB3?oc=5",
+   "published_utc": "2026-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar partners with Google to train teachers in AI, strengthen digital learning",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUEpWUzc3dmd3Z1ZGcnYyOFc2dk9CdV9sNm1mVVVXMnJSM1lJS2JJT3JoVmppUFNnS3d3TXh5Qkc4TTZJUTZwYVZtUTB6SG9VX1VTemxoelZnZjB4VmlkamphTDlDZzZuNTZlVDRjQ251MFBlRVJVYk1MSzh0RVdUOUk0SnJFVVN6U0hJRzVjLWFtLUV4UGlNUzcwenprSUxlQ3BXcDQxNVZ2aDdCbktmTUh6NWVnZVdSZlpRTUFGR2lNb0tJMUM0RFhXeGltMWJWd1l5MnRwSVhsTU5QRnVEQ2l2Y0ZVbndUTjB6Y3pSRUZ5QdIB9gFBVV95cUxNdWJiQzAwb0l4LTE2UkZRRkZCM1dJVHVDSUJuUGt3ZWtQZzRfQWltZ1lTRldCa0dDZHVsUlp5STAtTmlFUE9aTjNLbFJXNW0ybE9aWmRmUlpUemVSaG4wdkFwQjRyN3Z1QjRORnRreTFBOVJoQ2pXWXhyRlVFQXdzYWlCa3FBN2NCeXdmSU5zOEJxT3ZUVzRzZ0QtMWpOcTZTOWNoQ0xuT2NEMWlnUVlBMEpkQ0I3S1J4V2FsQlNoaUhha2U4UVNoVWFhU2dYdUtjdUVQX05yRkptWlVDN0dtRElnUThZZHl2SkNaM3RqYl9zWWlZMEE?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN CM Vijay launches Kamaraj Breakfast Scheme expansion, joins students for breakfast",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUl5R21PV2JCbzU1NlF4Z01TVmNLRklkcU0tQ0N5WFdSTHJob1BuVlRQc3YyQzFqalFFOG5wUC1xaTYwakpBdm1fTjdFQkhrVVdULUlRbkd3VG95Wm9ETjRlcllMTVc5c0p0MVFkV29OekR4VDU2NHk2cDhPTTJtNGpGcFphYU1iS3VxRXI1NlV3V0pxYzZqT1FNZmlRdVFIUlAyRmYzZlZHVThLRlBWSF9sSGUwbUFnX3EtUTk1Z0JObnVYS21BbGVBbDFRNkMwaE5WQ0FCRHV4bkJBSWdQeNIB5gFBVV95cUxNVnBPTngweDBYV0lNSnNOYThZdTd6b2xpSy1uYndvQmY5c3hudzVSQmpLWGFUSFozU3dIZElTT1Etc1JUa1N4cnBlQTZmUXdFdkZtdzh6QnN6ZWdPaWJaQjUwTnFmb3Noekh2R3Jydl9OSWRVVzRtQktyZXRtVGpGOHBTYS05VzFLSTJoaWlTRW1kUWZTcUc0VDdCRTBhZGI1cGgxd2RaaEppUWhtOVpnellYd0hFLWxjbkJMUTJ0UEFlWWs1SHBCRTFtNFBLaTF0RnRiVDh4VkRZNnJrLXRDMlZrY2Z1dw?oc=5",
+   "published_utc": "2026-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adobe expands AI, digital creativity skilling to 7.8 million students, teachers in India",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS3VkLVFEZ25ENTIybm41MldvaFk4Z1lTd1V2STBvYUZvWDAtQW9vY3VNdlBPalo4cVZRLVZacWlDQ1ZQV3E0MXpqQ2k5dkFJLV9rM1NzMEZSZHN0TFNlYTRQemw5WmFtRUFBWnY4M3F4UjIwS0FOS1ExVVpzUFVoY2ZabG1yaFpxWnBzVWtiQmtLNHVWVlBJSjVvSEtCSlhpeVZ5YVFDNXlVckRxWWNUWFpSNXlRUGhFS2w3ejZaV0FaeF95U3ZZVjRiRGZ0MnFtZzFfRTNWV093Zjg0aTZURHNMUDRBeHZKNVpoZnJR0gHyAUFVX3lxTFBhRU5lNEpyM0N1TlF5ZDNQVmE0ZkhraUVtcUdlM2t0cVltMUNqYzVkaU1sWmR6YTZnX0tuY1g0TDlXSkpWSV9OdjlhOWNYdXhZa0tUcjBjYkEtSFRvTEFxTXM1WU9ma0FWSzRVRlhzVE85cVlyODlUUFd5THdIZUJsRU01bjBYdHAtejd0OTZaZ3M4R0hnTnNHaHNnX1NtRG9NMmhsdUc2MjQxUFhQclpBLXlaVEFNSkN0cXlrMGlpY09FTXVic1owUFFfaDI2eWk2OXdkenY5MEZWNDJkcXZxNDlqRjItS2tjUmk1MkN0bjBR?oc=5",
+   "published_utc": "2026-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

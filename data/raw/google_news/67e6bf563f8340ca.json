@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "In a first, Tamil Nadu police deploy AI to manage crowd at Tiruvannamalai for Karthigai Deepam festival",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVDB0c2tjdThUVTdMaTRpSHc4SldPWFg5S1Bsb0FoQVNJemljVXcxZVF6LTNJOVdCVno4TkU3ZnJvd052SmUxcWtDcWNBMUxQX0JaZTJ5UTZEczZDTlFZdEcxaUFJLUFTbFZVdzQ2LW9FVk40STdlM1IzcEc1bkY5S2RFTkJTcnp6S1lEQjhibVZ3T041V0F1NUw0LXEwa1o5aV9OVmFYZVdpT055V0xYaFJ4N2VmOWQ2NDBZTF9OeDJMa05scTAyaDdzajVlVzJSMW1xNWg1WnVJVUNtNEdfcFA4eVZOZVo3SExNSGJwRVJSWi1Vajl4VVRfaXN4MklzMnfSAYgCQVVfeXFMTjBmOEpJUFpvMmU5VmZnelFKYlhtbDg1eVptS2lDdFBVeHRNdkxJVlJkWmpBdGNNXzZsQUJwSjhMdFZ0M0NSN3lSUkZSd1lNbVJ6djhKcGMzWC11cktPV2xySXRxUGdIV1JPSjlZZF9iQ2FlSzNKYUxCVEhvWDc0TEw5ay1GUXRkaVR5ckhHanJlNjZhMEtLQllBdWI0akk1WE5UZjJxY0Q3Tk9MV2M0aTNOZ3EyQWxzOVRnOWtJWHYwcnlNakVtdXE1NG0yUjJual8xNjJmU2FYanZyT05JR2R3eGlSUTEzbDkzN2JwNjFZeGRxSWN1NnZmamVENWp2SEVsYW8xVWds?oc=5",
+   "published_utc": "2025-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Innovation is not a privilege- It's a public good",
+   "source_name": "Unicef",
+   "source_domain": "https://www.unicef.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWdua25VeHRFUkRCczduQ2ZmN29tMURMQVBKVEkyRlh0a2RKV0tZRmdoNkdpUVBKdXJCWG5odk05STRmaTV3eVRpUVZKX1VBWWRHNjhqV25BV0JHRUI1RUxzSmRpU1F6QnRoYlNtaXhWZS1MYjNCSEh1VkVpcWwtdWg3QWYzOEh1aGc?oc=5",
+   "published_utc": "2025-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MahaCrime OS AI, built by CyberEye and Marvel in partnership with Maharashtra’s innovation SPV and the Microsoft India Development Center, was launched in Mumbai by Satya Nadella and is already live across 23 police stations in Nagpur. Chief Minister",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjEyUnJYQWFZRW5SUUVwVTZXalRINFFfNVRiTE42RlI3YnM5aDZEUnIyNTBMYlExRjBtTmtPOGVMQkRtSFpWNGNKcUtDdERKNXh0eXlFR1N3bFlVTkdpVGVOLXZDbWc1QXNLR3BrNlNwLTB0aUZrSGtucTdGOXdnTkQzYnZZdHdlMEJMd2pwby0ybVJ0VUcwaTNKa1pydXhTajVxcjdVdE1nc3QwRV9YNEJyV2NWb3NOZ2U0dkdTc2hKcjNUWWVOUmFKeExUanM?oc=5",
+   "published_utc": "2025-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Engagement opportunities in India (early 2026)",
+   "source_name": "British Council Global",
+   "source_domain": "https://opportunities-insight.britishcouncil.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1ZvU0NGUjR0SVJtbC1NMkY4U1k5V1JkSzFjUWtlc3F2amJSRjJJSmRiZGZwRDNCekxOLUxMSGZyUHEtcjc0QVpxTVJZaExtNjBHNVYzWXdlbTRQMkxFRXA4MjNNaXdxNmRHRXc1N25TNnU0Sm1relRqRzEwQWJlbUJRelBDcHpMbFpsQU4taVFmNFV4R182TS1OSEtjNGhqTnNTRHBIemxBcmhQYjVJSkJuczhvVzBETEhr?oc=5",
+   "published_utc": "2025-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI to monitor wildlife in Tamil Nadu forests, reduce human-animal conflict",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkpnbTRKZGxyQUYySUw0a0hPRGpyRkFUUXR1eUs1eThIUUgtZnF3cHp5bzFqdHBnS3BLTjhxeHg2c1VwWGZRVk0teTNHdE5PVHNuRkZfSFB2VGhUeEZDX0ROSVlialBWaWFlbnh2UmVpSFo5WDBueWotb05UMDAzWmR4dTJWZnNHV2xfYXA0dHFiUXNXT3ExSVA1LUpTOFpSeGhRTS1KV0NUODkxTFpRLUF6QkhRdGxRVmlFY0JmZi1yaTl1ZXJZNW1YVENQRzVZWENISW96ekN4N0hNRXcyZmVMRDRWeEtkSWV5WVdkc2NaTFJERUYydk15dnk4OEZGVVHSAYcCQVVfeXFMTUtLc2hkZlZFWnpwUUlldDdIbW5SZDFoeHhnRW1mdXRJeG5SZGZMYTJkeFBGUEZleGdKdFZkMXdNNjJGTC1pNV9wRF9XbzN4WHhFX1lXckNuOVcyOFNCcTNQNWtZSW1CSFVLWE0yaVBSX05QZlE1Uzl1c1RJVmpBWXVZYzVDa1F1SzdkeDIzdEk2YzBaVW8zVmpDdlZDRmZQZXhEQlRRS1lBcHJaMzF5bHczQzRnLTRQM0o4eUt3T2NaQWNWTGdtMWY4c0JUd2dINHZ5NVpjazlXdUFwTEJiWExZWHZuWlRObFVWUTRoNGtMcEU1MHJOOXBmR01mSHpBN1p5QW80QUk?oc=5",
+   "published_utc": "2025-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Free laptops for Tamil Nadu college students likely from January 5",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWJUSEVpUV9PbHBMTWNmOEFIS1MwS19PdjdZRlQ4XzZzVHBmZDF4X19zQkpVaEVnSDU0c09OUFFyNHRKZWVGckVZX1ZmbUl5YVFUeEtpQlI0ZTNZZ2QtOTNEQWxSR3N6RkU2ejBGaTdFQjlmU295bi04XzFadjJoVzdONnU0RUpUemNsSDhRNXJReF9aNk9ldm1MLTROdkNXVmxtX2pKY3J0WUt2cDlubTB6MUo4SW94NGVpb284eTFMM1VYc0ZPRdIB1gFBVV95cUxNM0tXU1pFemMxaFktUVU0d0MtNWpRNnE4bUIxa0JTQ0ZBZk1Xbl9rSmlYZnEyamt6UDhZVVlVUmRfUUcxaC1DUVktRWhjV1B1ckFRa25fc0RtbXk4ZmxnWHU1bG9UWTg2VlhoWU9LcFlfUFV5Q2dZdnpETkxRRG5xUXVhbXY0TXFkY0gxZDBmeE9JSVFyaWMyNW9QdHBXbFQtZTdNRkNSSGxRU2tEV3ZLYk9teTA4aDBVRUZGN0FkRmEzWGsyeExLVkRrYWtDbzlCa1lDdlVB?oc=5",
+   "published_utc": "2025-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India Takes Initial Steps to Integrate AI Across Governance Functions",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnM4THdVVGoxazMzdEpyWWhPV3FhbnlJVEdmN0hmTFBEb3dhdkFUZFFZOFNWd2hva3hDeDJkaWtPM0tJYlF2emhyVjFON2V6VmdUTjZHME1qZkNoeHVHSU1ocUVEcmZUbEhnTkZEU1NBNHhnU2tIZE5EX0g0akZ0Y0xsMlBZY2RpREdkSzM1TXhaUVcxc3VfVkJGa3VGdUpFbkdjVXk5RWVkT28?oc=5",
+   "published_utc": "2025-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu announces 12-day half-yearly holiday for schools from December 24",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMDRMOURONHhGM1A5Zm5jUHY0Z1BxRXJ4Zng2VzFFZ0NGTUdzWUdQUENlSHJPc2k4QjU5MkQ3blFEQXo5RFNadXF1RWs4S0ZSdnFwQThPb0dqbWlRNU12Mklwc01JN2N0NFVRbkREa3JzNGJCTm1qdE1LZERqNDJtenVTcUxPY2ZVdE5NbEJBVnE2cVhUVXRUR0dGcjVhM2FjNW9HTTNxaTRpTXlBU0Z3Ym5hU3QwbW1BcVBJMzlMa1BKcFQxeDJQNG9EQmFpdmxpbzc3TDY3X0E1aXExekZDajFjY0F3UlNfdmJPMGpn0gHzAUFVX3lxTE90a3phbkNzNkRDa1p1Zy1HSTR1UnJCTWpnU2VMLVRjZEhiVWJHS0VoRVA0bHZwaG9pczc5MWlva3JpNFdlblpCUDRfaVE0eUNTZHdlSnhMVVZiWUpmT25mR08wQUMzdVQtbUVDSlZxaHh2SXZHSTNCdk94UmcxRzk0RklXTXozakRpdlE3cmwzZlg2aDktYVBXaThydGt0OEZVcVVLMDJ0UmctaG9CcEtuRUMxcDFGTElnUTQ3bmNIV0pRNXpmYk5TRW5CcUExSEhQTXZtU0tqQm80YjJadnVZRUg5UkVmSVV0ZVVUMk44dzZNVQ?oc=5",
+   "published_utc": "2025-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s No-Contact Orders Set New Standard for Women’s Safety",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGxhUDNkOXNlY0t4UVFRZHBHS2huWFF4TjBZQmYtcUVhVUFjX2lGX3R6VExLbk9xdjh1MEh3T2s0UzJZbFR0elBoUjNmUmplelh6dm0xNUlGQmJtQTdJMXg4NHpXU08xeGtuOHZ2SjNXRVJJcXpDUWhoVk5PUjM1cEtMamVuN1JVZlJINUowdzQzT3NhMkJZaEU3YmJMT0doTkJPWTVBQnQ2ZVB00gGzAUFVX3lxTE1ZUE5Yamh0MHQ5ZkVDQU54aER1ZHBtM2doM2dVQ0M5WFZmR1Y2Qk51Y1B6T1ZMaW5TUGVCUnNhakNEeVktVzloMG8zRXZRbFZaODRLaGVRWlRpd090d0RyQWt4TzZJc2o0cEVjUkRMWHlnVVFQOU91VWdEaUhUbmFJbjBuSmk5a1BOWWZpNzlwVFpDY210OE8yZjR1ckIyUURvdTBSMjdxS2hnQmJMM0dSRVhN?oc=5",
+   "published_utc": "2025-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches new CSR and\nAI-led land-use data platforms",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEVsd1hrRU1pQzU5djVBMDJwLXlMckVjV2RmTmFBZi1OcFV2aDV6SDByT2xuQkJCRTQzZmpld080VFdMd3BHYTA3c3dNOFViY3RkTEdtSlZWTVNlVE9LcUxBUXpWemlQdlJSTTdDbjhRRmVxWVJqdk91RnhaM0hhbFdjWS1YNG5nOUUybVlheGZKMEo4Z3F1Q19pTWZkYUlNME9PVWpoUllaMEhvLUEyVUFaT1ZkZ0VMSHlCcGRuR2d0UdIBzwFBVV95cUxNYWhuZVREMUZ5eWVfUzJwNUk3aEhKeFFOUi1FQWZpRE5CdmQxWmw4Zk9XSFY1blpGdmJ4bEpBMkVNQzlDaXNCcTlNRy1hS0VDcDRjZWJwTlJ0bTNiYjZWam4zd3liZTVKVDdybWlJeElXN004aDd1MExXc3JDeUtNWVZ2UlAzek1ybllTWGJ0dFhrNnFNM2IyQlFZd3RXa1JKd3B2dC0yb2xIaUp6bm1PNGVzNlNudXRSSHJEalpTY3RTNmp5bWpZOGptc2x1TEU?oc=5",
+   "published_utc": "2025-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

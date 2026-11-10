@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "STT GDC Commits to AI Data Centre Growth in Telangana",
+   "source_name": "Data Centre Magazine",
+   "source_domain": "https://datacentremagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWgzb1ppX2x2MVd6SXJrSjdOZVpRb1NOMzd3VmVtYVBJQUJCZEptZFc4ZWVmYm93QU9JalNYN2J4TVQ1cGRmZWU4bmRPWVFJLUJfNmp3RW9wVEVHLXFDZEFPTWg2dkRzUEhEVkd4MkJRV3g4V1hPU3ZtQkt2em1ueHVxXzZYMHlkQW8yV2hWYm4?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana government signs Rs 3,500 crore pact with ST Telemedia for AI-ready data centre in Hyderabad",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVV6LVNVT1pyWTUtSzdwam9aUldGRHloUjkwUmhDb05LekRsak4yWm14dmRLR0xXX0F3X1ZNRWlxLXVwdEhWcjhRaTh0MDBjNE8yRjFvaTEtMDJ0alBpV1lvS3ZIVjdydGItVk1oY28xb2pxUlRHSjFDcXlfNXVURU5HOVFoN0gzQVN0cXppSFlkc2ZfU2JoOTZTX3UxZ0lNa1J4cHlta2w3V0JXVUNMSThzMDZCV0hGTTgyLTZfWk1uUVpVcF9iTDdMRXUzUy1HN0swWl9MekF4NFVhN25za2Q5bVdwZXFSZFFLX1g5SVJGZ1lvR0dR0gH8AUFVX3lxTE9mVkZacU02M0ExUkx1bVRhaVFpeFQ5bkNnLUFJdkZkWWZET0MyMTFtcG85SUxaLTVlYW5oNENuV0RwNTROakVvV0QwNFFqSFdFeGZ0X1Z0RmcwS1UtY0ZlMmVPSl9QS3BHZjNKaWFWVm5SNWhhcmxac0t0U2hYaU9FSzRGYmFYNnV2MTRMeU9EaWNNYjBaV3lNdTRidDYwTEpBYThzY29fRGtqdWhkWnVDOXJpa2NGVjd0eFlLbnF0WVFhYUx0ekwzMERRSWF1d2lwQzl2MDA0aEQzcEpocGNYb3JrWXlTNGctQ0VaVDNpX3ZpZ2pUWDFsUWY0Mg?oc=5",
+   "published_utc": "2025-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Blackstone partners with Telangana govt to develop Rs 4,500 cr-Data Centre in Hyderabad",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWWdZZFJaeGlrdXJydU9kQnM1RDdOVjBwVW5waW15SHd4YzJaRHV5a0IzSW5CWUVIZmVETXExa1FFMlN5S0M4aWtWYjhydExqaEI1NGdrZUNwaFk5QVBJVE53YmpGaGtTM25ad1drMm02NGY0NGw5RWlwdGVzZTVsRVhaUDQ4VmpCckhQMTZ2emF5d1JoNHFnZHd3YmJHMWw3cDFHSm5ZdzRYdWZ5bW50MGd2WWFLS2N3UUotVjllSExNeHg0aDlmdkVhS1ByaVRQLWxlem11WVZ4RVJI0gHiAUFVX3lxTE1XN284Nkc3azMyWDlzck81cmdSUWZmTlBzbXZIb0FFNjEzUlFDbzVERmRrUGRBaE1xamUxWU1OalU2TFBLLS1Ibi1za1BwS3B1djZNOXpBeVZEaEI1ZXN5d2Rlbjc1M0xBT0c2d0xxcGhOOHNLTXBwVENwWVlTQnVLOS1qRUF5VHV2UVJJa0JBZjQ2VXU5RXNqcWwxaWVZR3hobmRHRmdGZmxTckVmMXlzODBsdUIySVFVekRjVDU4MVdkYnVJSm9ZWHhWeVd5Y3M2b2dVZDIxQi1GZDBTSThqbEE?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Blackstone & Telangana Govt Launch Rs 4,500 Cr Data Centre in Hyderabad",
+   "source_name": "Equitypandit",
+   "source_domain": "https://www.equitypandit.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjZMOWJLMTBxNnVSX1FMTkktWV85OVBxVTRHNzV6UU44eGtTVUYyV1g4a3Awa2tZbmhjcEdPMTd5elBMSEJsWkRJY1dQRDdpQlA1NUpieV9hNGJBQ0paOTVYRnN1VHNjOGZFZGNCVi1mS0J0cDR2Z3BzSWRPckFhZWZqQzBrTU9TWlprd3dOZzhjeWZqRnRhOU5xVHZvWGtnZ3YzblNCVQ?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT Global Data Centres India Pvt Ltd signed a Memorandum of Understanding (MoU) with the Telangana government to establish a state-of-the-art data centre campus in the Meerkhanpet, Mucherla region, with an investment of Rs 3,500 crore. The MoU was",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdjdqQzB3OFhCUVZwV0VLOWlIY2NMejVuT205NlNXanpSRFgtWFZZOW9vZi03LVNid1lvOXNHRkRQUm1IOVkxd0JuY1FhN2FaT2c?oc=5",
+   "published_utc": "2025-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Blackstone’s massive Rs 4,500-cr investment for advanced data centre in Telangana",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlRRTmE3ZTRaQ19LZ19oZmhsUGNfS0Y0R1JYeEZlYjRuX3RkU3ZqZGdSMG5WZTBWM1J1aXhlNU5aWnBrVllMeWlEMVJWS2ZaNnFrdHdGX0ZGZWMyZ0NzM0xNdEt4UUJJZFBkV0xCbnJlZFRFc2t3cGlLZHNGVmJDUHdBbW9LcXVNSndMcXZxNktIbHdMLVhsRE9VVEFhMnRrTW5ENjdCX1Q4Zk9YeUltbjRtTmFzZVBZX3dHbjVHRk9FbGZW?oc=5",
+   "published_utc": "2025-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT Global Data Centres to invest Rs 3,500 crore in Telangana",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjhoSlBUVEttZXk4MnBzcFhmNm15Sk1Gc1htRElaTGpZaTJwdHdfLUV1d016SVJFUTNCSTFPM0RnX2J1Mk9kM1VCbG0yUXpTbHd5VFRjeUJjYlYxUlB6QnFTM0lEem5YRVIyUF84cDlNUkpRelBMeHNWbWh4V1ZUeGdqVzZnTU9ucGw2Mmhlb0FleW4zOW93UmxfYlpzRXY3cHfSAa8BQVVfeXFMTm9JSEJDaWV5dkc5NjVjc1YtclJwWks4VWpjT3RxaW8xYUJ5eDNZSVZaR1NCLXZFbDQ1MFJZS0lGTkVmN1pSREI3V1N4cktybDdQZ2FxN1ppelkwWXVJWmNSSFY1YnprVUI0cVhuRldpRnh5WE1UWUEyM2FoanoxWGhtQWw3MU9YVV9aWXlSV19oX2tLZ3UyZE1ndDlfckFOcUhoTEp3UGkzOW4zaXM2QQ?oc=5",
+   "published_utc": "2025-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Blackstone partners with Telangana to develop Data Center in Hyderabad",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWV3WVFtN2dFU0RqYnlsMUZkSkV4eUJZVWhyLXhiLUY0SzF5bnZtMXZxSFZsVmF2VzhQVGxqLTZWRGw5WEM5VklfUVowNjVRc201bzdtSS1CSnlNQVk5eUdxR0FVMlpSbENfbkFLLXo3cWJNcUJuajdSY2FuSDJTb1JMaEE5dGlQOUZKa2pZbGM3OFB2VjJDeVRSemlydUZYWkxtOGdOYWd1QmRESnpNSGtIUHBod1o5ZUJOYThKdDlLalp6STUyZHBMem0wZEZNTXfSAdcBQVVfeXFMTU9Udmx0Q0lwYlNsNjRIR1JPRWM3cUZXVlZWU0wtcG54eFZTVmpNQktBR2pRZ2RHR0VLZW5nTVY3dUVIVHl5X01ib09BQjRwY3BfRW1wa0pJTlROeXhKWHJGM3F6UnR4UndzRUpUcHI5S01kSmpheHhPTXdZZldqZG9YR0pSS0FCN1pjaGRER2tLeDlDc240TFlCVE9yNVFwc0FhWDRGRnF4Z3o4MjhkVHVNbV9UWHVqWkpkNXQyZHhGeUxtOWRVZ0FDUWZLUmtfU2hXVnhrZjg?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Blackstone announces Rs 4,500-Cr investment for advanced data centre in Telangana",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3JWOEhWRTZyNGVZUUh4TDBxSGpwTWNHQU9TQWFWdEs2V3lZNkVVdjdhS2gwVWVPdlc3M3l1amp1UTFmcF9OOFhWOENEaHAzZ3pEV29TckRQLVVmWTltWEhaaFVuLWpGMEczNFFfZS1lT2Qzdms2Qm8xZW8tWGNBV3VHZF9BTVFzNUo3RE16cGt0bEVBUG9YT1R5WktrMjRLeGtiQmpRWUZNTkc0WXBEeXpPejhScWtDMXVfWg?oc=5",
+   "published_utc": "2025-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cloud giant Amazon Web Services (AWS) agreed to invest Rs 60,000 crore to expand data centres in Hyderabad, Telangana. The company made the announcement after a meeting between senior executives from Amazon Web Services represented by Mich",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQ3NKelI1WGNGaEdRSlhpc0ZWV211eXhZOWxMQ3lLLTFwSlNKajhiTlQ0MGhtaDd1bmpyaWZUUHlTTFpZMDNmR29yN3NpQjJ1NVE?oc=5",
+   "published_utc": "2025-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "Armed with AI, Congress plans to turn around its fortunes in MP",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWtST2g2ZXNRUU5BZUhsUEdreGxzSFEyWnR5Rm1lVGs1TXViT3F4MUhNVXU0VnBRQUZ5MHhHQUFHUklhemJGUWdCRkxReUQwdXFCMVVlQ29hSEZxVFYtSlR5YUhFRHRhWDBLemZXWHNuYjRQa2tXUXpYR1lQQ0VxNGJOelRNRk1QZVQxOG1oVnFWWG1hbUpwZ21LUGNGOFlvRmN2cVc3Q1kwb000TkJBM0hJLTF6anFldWg0RlFiODBMaGxWOVHSAcwBQVVfeXFMUFA0VG5xbmJwMUE1QzVySkc2QnN6YjUwdTl2SlJseG80Wjl3MVRKWTY3Mml2c0d5N1lfMkt6S3BzUE51dmQ3TnNobHhLU2RfVVBsU3Z3RHJ2VmMxdlo2aVdyd0hFNUV1dmdQYTJuUHF6RXdRMjZmWDFaZndQQmMyZkFwZDEtNWdyOWMyWDZPY1F2SERFYXV5aG1XZE16MWdWQ21VZzVfbmFyRE5VY3RUY1ZtUGlqb3NDZGtRVWdxOU1ENFlKUk9Ed3BBWVcz?oc=5",
+   "published_utc": "2025-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ITM University Gwalior Signs MoU with Lincoln University College Malaysia to Advance AI Education",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ3FadDctSGtOWE5VZmNwZllEakhNbWdMLVA2cU8wb0djZ0c2OUlrbElLWDRpUmhhdjNXQXVBbEIzMXFSZklnWDBNMlNVT1NXX3lwMFFyR1RDODFaUEFNM2RnYzcwM01velFuOEVQOUNGOF9FS3NsajVTTGdzLUt5b0tUR1BGa3BXMmJIZzZIbjNkY1hzeTRNeGlUaTk1S2hQY2JuR3dzaUxPLWE3VWVFUU5tRk5TQXdoYW9uNkhPZkJmWEQ3RmhYZ21uX1VKM2RlRWtEaXVwQUh4Ql9ENnfSAeMBQVVfeXFMTXJLaUszYXNTVmhYeGpTUUJYT2d1aW4xdm1MNl9KNEtTOWkya204cWNCV005VXVnSXd4V1BHaERfbXBtc1J4RG1XSFRxMi1abENVeU4tZzVvVmtNNUlRdUszcng1dHdObkpYY3kxcGMzWGpOQXE0bENPSDlneGVZVEwzLXdjR3FFQWdJSTFjdWtpbF9MZWZIUWtYUWJSNWtmMEt3ZHFrUTRWX0s2YkxyWGdsNTBJdmhJZHlZU3BWamF6bEl3S2xRSGdQSmRjTzlaa2tGV2E1T3hDQjcySHZETTNRWUE?oc=5",
+   "published_utc": "2025-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Population growth report: Madhya Pradesh ranks third nationally",
+   "source_name": "Ground Report",
+   "source_domain": "https://www.groundreport.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHJCSXF2RUdUeFhwbzFzZWNOeGdYWkVEUjhodlpFT3hJS18ya0gtTjltVl9rU3VlSzdnSEdSNmV4ZG41aXdIRnRyenNJTzdUMnhIdm5LbWZJTW5CdDdvWmhENl9XcnhKOURvTjFBZTlMWnFpMlh4UWxJN3FPNkFlVGNDZEhIVkpzLXFyMW5JQm5hWHdfdi0wNWpwRmhrYmxrVnZrU25qak1QZw?oc=5",
+   "published_utc": "2025-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Launches ‘AI-PRAGYA’ to Train 10 Lakh Youth in Emerging Technologies",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnlwUTVLUmVZRUh4OHQ3aUI0a0xHSHNhRnItUUEyOVk3TmJnV3k3ZmpPdjdleS1ibTR1TGV2VkpoZzkwY0FYb3hfaHR2aU1pczBpTGZ1ZHZWNEhkOHo5Ykxhb3lGc2lOUnNlcU5Gb3RlamNLUEhIVlFpUVUxYzNoSU1oWjJ2em9vclIwQlpLMzRPNFdfbDJJcWdXaFhLY09vV3NkalpXZXhkVmdkWjZ6ZXAtQi1yVDFGS2c?oc=5",
+   "published_utc": "2025-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Out of the Wild: How A.I. Is Transforming Conservation Science",
+   "source_name": "Yale E360",
+   "source_domain": "https://e360.yale.edu",
+   "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzYU5fT3duc2lHTnY5M2JkOVdsdXJjOWJieHVfVTdWVXJ0NUl3cnVmZEV4eVppSWFZRjIxdl80NlFCRGk3SHZZRW1VRTNOejdUOVFNbTIydTFfNHNTMTJpMVVva2kyNkdrU2M1Q2NiT3JNVC04ZkE?oc=5",
+   "published_utc": "2025-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Obscene Video Case: Visuals Claiming To Show Woman Seen In Viral Clip Are Unrelated And AI-Generated",
+   "source_name": "Newschecker",
+   "source_domain": "https://www.newschecker.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDZRUEJaWDMyQkxfYXFZWVp4VVFmTkd3N3lyZThxVmlmM3ZweEQtSWlLQk0yUXE0T0JFRVRtLWg5djdKRGYxRnJLRWZIYldwZXpUYnlTQnRGZnB4cmU3TlVheHk3WndVNjZzTnVOTHpvZm01ejlVV2tYNFgzV3NreEQ0bm9nVXg1M0J5VDVBVDZJU0stTmZkaVdYalM4bkR3X2ZWaWk4NkRqdkduRm9EX3MtOUZPNklXWlh2WHhZVTFqS0dTcDNzc3ZlM1NUdi1vd293WGpJNFQ?oc=5",
+   "published_utc": "2025-05-29T13:25:14+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's First AI-Driven Forest Alert System Launched in Madhya Pradesh",
+   "source_name": "Siliconindia",
+   "source_domain": "https://www.siliconindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXFxbFZ6S2RaaW0tdGExUXhVNEVwYzU3QmZZa1E0YmxUWlpPazF6enRBNWhxbDhKdzBoUHB1Y1lNcHJnWDNkUmtuNU05R1JrcWlfTTZiMTdhTUIyQjc1ZnFmN3Nqb0NkVVRjaU5Rb1poTmdVMVhtbzVBYjZaQUkzMGs1VFRYeGNiY1BIemVZa21INk9JbVZINkkwTUNidlJ4QldYU25uMTNwTGdPMkpXdmZOeWRFQUl3Q1RqY0NRb0hyemtwSFBYVEthQ0RHVnNW?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh sees 66 forest fires daily; AI tracks, action still lags",
+   "source_name": "Ground Report",
+   "source_domain": "https://www.groundreport.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb21vRFMxajhBb1dJNUxmbm9VYlFDbXY2UmJUaWZkVXNQNktDWGRyRk1FNnFPdmFCVTJFaFotSUFjSlRhblVPa2l6bzQxeEF5RV93U3p5cC11ZWZWa0JINzRQZmIyclhOaFUxN1lHOWVjWHl1TGVTZzdJd3lzUWZORHRrSk9MTDVhU1FlbWNkUkZkV0NNYmJqd0J6bVBKOFk4MkNOaE15Z0JyeU54bm96dkZTUWhpMmJqLUtvdDVsYw?oc=5",
+   "published_utc": "2025-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Introduced India’s First AI-Powered Real-Time Forest Alert System",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHpBdEt0Z0l4ZmNWZlVMZDBKQlhnNThXZXRMMk5TQ0tXUjk0OTdxVmd4cldwRWpKMEdJZF9FcTBPemxnNk9pWmtMRjNWRTRwNjZnVklLcnRkRGVBb0FlblcyaWZYc1ZUMmxtc3pLRFFXM0xMYTFSRk5zc3RaQUJRMVBmTHVuWGpZb0tqdmtWWF9VSnlGbnRhM1BBS2MwUlBNVXFPbDNoNXZMSTQyMWs3VUJWUXVXUQ?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indore Zoo now hosts Madhya Pradesh’s first pair of King Cobras",
+   "source_name": "Ground Report",
+   "source_domain": "https://www.groundreport.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JQ1V2bk5Ma2ZBNEdUZFVNS04zSlEzN2JHVGFubTJLVlBGUDBHaFNIOThHOUF3Qll6bm04bFB2UnBVR0V1NzliZ2NDc3FtS2RnOFUxbld0VjljR29HWGUxQUJsSFFaVFZmRVZvX1FPVy1wVTZwRWo0YU1pb3U?oc=5",
+   "published_utc": "2025-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "\"Bihar\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "South Bihar Power Distribution Co to deploy AI-ML solutions for efficient, sustainable power supply",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOM1hoblQwTUdjWDdOWVVQM1Y2YWdUam0zUkJseG1ZbzVYTkY2Zzl4bHN3VHZvUHNTcTBxUENaeHVxaS1Rd0FSR2pWcnJKbWRXZ1ZlcG5YZEN3QnFSNTdwNkhrckFxSmswT3hZMFFCTXpMTzRyT2VGMVpGa2w0NzRmVWluNURodEtQdV9GcG9JM3liVDc4R3FiU3FiWWZRUlFvQkI2U2ZvR2lJRUF2cHVDRE4yaUtjcmRLenFyQUtGbTk0OEFxWGIzS0NweVlqRU9lSEY1dFY5TGlOdEJwTHNiUHVmWlNaNGpNMmJpaDlGSEVUbUFoYmttRkdYNi03R0lNR0HSAYYCQVVfeXFMT05vYUpJZEdLNkVOSHkxUm1GUlUtc2Z4UVVZNmVEVl9IcjZCaUpFZldUTjlEVlBPdHctTHVJRC1CNnNRejdUNWJoTW4yY3ZTZ3JPWmVTOXZBUVJkaGJYdFg5aXdlb3h5dXN6MHZqSHdSN0ozQXUyYkVlMjdkbmV6bEh5amtVTlFSWmNiZTNzUkxWdldLOERqTkZXNm5zM1NWQ3JUUTU4Z1VNQnl3cGhJOERXQlNuQ2dyU2lRbXdYTjhYeWV5UkVtOHYtS0FPbGtKTHRBakxpR0t3Vk5EeTVXQjhacm9OMnYwNGJIRS1RZl9BN1N4Mmw1WTFJMzlnSmdXYW5NRjJzZw?oc=5",
+   "published_utc": "2025-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Cabinet Approves 27,000 Govt Posts, Major Boost for Health & Education Sectors",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1RRVkRteEd3UFQ5OUZjYnJGOGhLa09GT1EzdXBVeGlhU0JxS192NXoteTJZdEpUSE1vMHA1TUNnLW1hSXFoNU9SbjMxYzJqeUhGa25Tak9HX1E0T0RsOFhEQlItajJQbkpjMkx6OWY2NXpibkdUQ0NGV0RaZnJUeU5DS2JNLTBfM1NqZXk3bm5lTUMwWjU2VHBHZ1BlTHp3Wm5ZY1RhYnJUQQ?oc=5",
+   "published_utc": "2025-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In poll-bound Bihar, State Cabinet approves 27,370 government jobs",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFI4dGVXX29WZUNSZ1hXX1c2cTRCZl9JREtITTdsbHZBNktySXRXTlhtQm42LXo2a0F2Mnpid0dGVG83UWx2cTl2dTlkMmFDZmRRN1dQRlZHUlVTWDVRSmVKQTlVdFBCRFpZak5rRnBkUnJTTTFTWk5pTUpYUHF0ekZmRFBUUm9HSmRxc2NNNzY2TlA3bGZyTFgtbXd4dlZfeXFNcjV6ZjNRZlpIa0JtbGJuYzl5YVg0bS1sUk9rOXY1WV8tWXc0VtIBzwFBVV95cUxQWWljc1RYTFltUThnZ2ItbXJUYVFrVTFpUTFETUVkSjFkR3JpMGRBeXNjMENnMUw1a1dBWGprUEZqaGkzRXdPakw1ZUdOLUtqazdoR1Y4elk3RXJIclotcEZjcU16bnNGWnMtd3RvQTh2dkgtZTZIR21xZ3R4bFludkM0RG1mQ0ZvbmtBdDBfakNPRjZmQUpaOVdJOFRoekU1REZDdmRXaG5DVjFZMl9VT3hJSlNnV19KT0x5ME1hQlZEdW1Ddk5Ra3VqNkxZOHc?oc=5",
+   "published_utc": "2025-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Cop Shot Dead By Colleague After Heated Argument",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWFYVnNqSEhqNW9wbEFhMlNqZWNyd2MyVmVpSVFIV0Y2dkJnX0s3dEpEa0w3V084Q2tBM3V2b1M5b2twOUdQZWdFNkJwWmpjNXF0azZfOUFsNVNMNC15cS1MQlc0UzZscHZzUW1HODlFQWRYUWZhV0cwU2RlbzlWVXJRVUdzZVNzd2NocjB1RExBM3JFR2VjUGo2NGdXX253dlAtTFFaTVrSAbABQVVfeXFMT2E0b3pEdE9ieFhuQmF6R25YR3Y1Y284NXhzUk9FSWJGdDNQc19NbE84a3dwaWZlQmQ0QnkyTEx0ellfVzFkN0RxSTlNMmlYRDF6b3Z0WFhaWGJrR1pydl91M3RvOUI5RG1tQXdUeWtjaS1hcDVZR0VGeHZUYnEtZ1ZMOVZpU2lYTVRlUmFueDJYTUwycHlNanZ2M1J0bG96NXFXQ19vLXZrR21FYVJvczg?oc=5",
+   "published_utc": "2025-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RTPS Bihar: Empowering Citizens with Seamless Public Services",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEpuSzlReFlBTmFIcjFSdFJpSDZYS19NMHhSTUpnR3RuWWZPRmpLRXMxRWtFRTVsZWU4aVU4WWJRZWRlVXlCdHYxQ05nUHgtaE43X0RnMy15TXpKSmM3bXpBSFpLa3NqU2dCVTZiOFNvSE12MkZDV2FYSW1xa2hXbWM1SWk4WlNCQVBVQVNVM3lvUU5pT3FYSVpIclhDd3hyeEkw0gGoAUFVX3lxTE1oSlZUaThpLXg1MEs4aUxWVXhQcVhJZXVrVmpEaTlsaUwxMHJKNzhUeGZjQmZKYXJicHlXUFFKR0hnQnBwR3h2MVFkTmlKRFNxVHJhR2NGaWNHMS05dzk2OHh1TDNzNU1DcndwZ3kyV1EyTXhEWUsxeTlmVDlxcjFuYThDSTNxLTBONENUMHBTengwekxUd0g2YUlWM0x1VUlmZjJiMXNsag?oc=5",
+   "published_utc": "2025-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ED raid in Bihar: Officers count cash non-stop for 8 hours using 4 machines",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWtxMWdobjg4WjJNa3hWbWZuZTR4elM2XzlCUXpJeVRaSEl3VGRpRVlJZUxWSDl0dnZ5UTRoc2R6ckFBRFF5VG5IT2FSTEIwdlU3NGt0cVg5RFBpUFpyb0NVTGZIdGpEZFdkS3JEVGktV3FDMWxKZXlEdkhTZF84Mk5lLUFSWGVGMkIwbm1BNHlYYk5ZWFF1M1l0OUhMY2pNVmxGZHJVQlItLU5mYS1fb1BXMVQ2S0JQY0dYcjFaSTRXbDNsNVJCNmxfRkFrQy14d3VoR280TGpyaFho0gHiAUFVX3lxTE5wcG43LXlTVFp1WFRqOUFaa2RPTHN0R1ZpbUFEdE1QczlqbE5LMWUtb2ltNFNGcTdUbzk0R2t6MzV3ZHVvUk5UeFd5NTVfMVFyOHJ0b3J5RlYtanAtUnB5UnhEcV9jdlpRVXJiMVAwUjN0am9TN3EzMHBrUFlFZG5iOUpqQVFnd0s4dWlCdzJYU0tiMTkyRE9HN0pmOWw2UjFDVHQ0aDU3cmFzTDZBemVPMndlVk96ZVJBVXcwX3EyYWQtZnZUNUFTdHA1em1pdmlmcGRTNUdjYXJ5WnV2MDE5SWc?oc=5",
+   "published_utc": "2025-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Patwa Toli to IIT: Jitendra Kumar urges Bihar villages to foster education",
+   "source_name": "indica News",
+   "source_domain": "https://indicanews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc18tMlN0bUM3M1NTemhjZDk5TmdiWkhqRzdrTU5icVotWUpRWEV5TGhRSG1qZG51OC0wSDlKbWZ0RHNVOUtWaHVXM2VOU0pEOWhxQjRneDRZVGxLZGdTTjdtOXdWT2VfUTA3SlFyZlM1THNpNk1oUTFKZE5lVXFXeExEaWdUc2dkTjZZX0xrLU1JNlY3a1VzUkZKU0pxVVhfckY3RA?oc=5",
+   "published_utc": "2025-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "On Camera, Bihar Villagers Attack Cops Who Went To Arrest Drunk Men",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFVaTGN2TVVEQzY3ODU5LXE0dlU2MGNDSURvOWtxZU4yU2ZSZ2hncHhrLXZ0TkZIZzZFTGpYZ2VCZEZhVTJwOWY5ZmFOWXRWZW1BQnFKSDY3dXZWZEliVEY5OG5rQ2liSTlPRnpGdE1sV2JsTElYTGdIQXFrRDg2dlM1MmFNbGloSFlVWmY4SkZ0YXZPYmZJS2pOdFJoQ19yRWNxQUdoNkFtQXhra0hrLXBmNDdud9IBvgFBVV95cUxOc0RLMFZjQUlPd3dmZWZVdjE1djBZTUMzTHhNcERPdEVZcWFHU29EdU1vVXJmak91YUNNT0MxU0d0ZkFrTzY4U2pzTzdZV1Bidi1SVDA5dEtQbnhOSk5VdWFSMWJQeGxXY0RKNG1KZ3VuOFVLMmY4TnRLaC12WDN2d05XdVBHTDZTU2tFZWJHV1dmWl9WU0p0SnNhZVFsbEJOMVhFaHFjcXVnaDdDWmc1ZkNMY1lyMzc2WEZGcm1B?oc=5",
+   "published_utc": "2025-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar's 'IIT Factory' Shines Again: 40 Patwa Toli Students Clear JEE Mains",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzU5Ynh5Q2ZjZkd3cEJTbkhnYUp4X2l2dUIxdmxNVzdnVklDVFpsWFMzYzFpZ2k5WkZIWDM5TkxzZWwyX2Z4RkxnSUc4ZDhMeWNsaC1PN0RFVjd5SVhYdXh1V1pKTUlUWWZxLVI3OV9rMDNQVDh0SFlpQWZDRVRnYmpCNFVUc04ydDVrdGRZYkNKMlc3NFZ0cEE1b1h2dzFxVWhyQXdnN2I4YURzZ2EzNU5IMNIBuwFBVV95cUxPMHRRQWlNd2J5dkdhMXBJdDd6dmZEQ3BLU1pBTmtZSDJpMGd2Ums5eTFhVFM4TktmNGt0Wmdmbm9rQ2tqRzF0c1lidHpNVHZDeGs4VjYwS3FmSmNRZTVLQ1o1X3UwU0lXZUhiVXJDYWNiZlBYVW1SX2JPZlhtZFY1ZmNfcU1aczc4T0NfbDJ5elZVTGRoVlRVSmZReWxkR1ZsOUhJZ0R0VDJ0T1A3THU5VUFPRXFfbkN5d3Nn?oc=5",
+   "published_utc": "2025-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

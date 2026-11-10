@@ -1,0 +1,133 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-11-01 before:2026-11-11",
+ "items": [
+  {
+   "title": "Photo Gallery",
+   "source_name": "Chief Minister of Odisha",
+   "source_domain": "https://cm.odisha.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qeUdyZGFtNzQ4TDNkekVMWGhLd2kzOERMTnhaOGVtY3h6eWRnMC01akpYbUkzbHQzVnY2TFBiY29CektzSjREcFhJSGFidzd4ZjM0NklSMkxxekF4Qnc?oc=5",
+   "published_utc": "2026-11-10T07:04:40+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Photo Album",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tQU5PQXdzajBUdTFLWlRmd3BjS1A2RFFqNXV4b3ZBMWxaX0FfVlJWYTJDNUZNVlNYdVJIZGp4dGVZeDFfWmhjd19zLVU5SW1wSmZ5blNtYUFSZ1lCbmlFRnduRXA5ZTNsdUVGcmpFTnFhVUtq?oc=5",
+   "published_utc": "2026-11-02T18:56:35+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fake precedents and hidden prompts are pushing courts towards AI rules",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXIxdXU2dzZ1QUJiSEFrY0pSZEY1V2NEakhlZTZLTEJodHVvc2Q2VUxIZ0d3aXhKMzFfRjVYQWJfTEYzSzVkOVhoSDRxX0xLX2VYSGJRNHI2RGkzNVhtLTVtM3JqcUdmMXpNR21sODl4ODFhUVczU3FYajd3WWJpZmwwTlg1cVhRckZIV2xId19zVjBkdGxia1RyUjZQUXc1OWlaUjkzTWhPalJh?oc=5",
+   "published_utc": "2026-11-02T10:54:52+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Lines Up Rs 1.17 Lakh Cr Investments Across 11.7 GW Energy Projects",
+   "source_name": "TradingView",
+   "source_domain": "https://www.tradingview.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUMxeFFjTTZHN25nSzFvbTBRMFp1UFowTHVRZTNyMWlpbWJtZFA2TUdOUUltUmFFX2RYNktkaU9SUk1zNDg1UEFGRTl0YlNyRmcxaG9kS2d0LUh2U1lFNHpualQ1bnBZVGFGdWZZQUNzMTJzcnBhWW1OUHZHX0dGYjA0U055aU9WWE9rOFc5bE9rdjFlMlhQNkF4UVBXQ1R2UTUzak1WV3p3VGVETWNxQk9UckM3Q3U5LXNQVngwenRVbHoyWld4cjQxOA?oc=5",
+   "published_utc": "2026-11-03T09:31:23+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Democratic victories threaten to slow US data-centre expansion, ease bond yields: Report",
+   "source_name": "https://www.indiagazette.com/",
+   "source_domain": "https://www.indiagazette.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2h5c1RySk95WFFzaGNYZW5ZZnpES25iXzJEUHNaLVp5N2dRcE4xTVlRLXg3c1pFZldLTkJ3eDhOOG5VMHZNR0dZbXpmbm8tdnNGUnlscWptV3Q1cjB4d2ptRWVaUk80Wi1RQUJTN0JId2xOT0JTUUJDZnZMNkMyb0l2Njkyb2lQb3owOE9wMkh1ci1yNlVSLUhWd1l6c25mVUZKMU83X2dWMUcxTWtWbUlPT3ljSzl0UW1Db1ZkLW9mTmdueXVlYXFn?oc=5",
+   "published_utc": "2026-11-04T22:28:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM: Keonjhar Mega Steel Plant Foundation Soon",
+   "source_name": "Rediff MoneyWiz",
+   "source_domain": "https://money.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDhsZjRtcWZMazhLN2lwOC04WHlReWNyaDFyTkVyOU9DSjZkVjBYY0JrXzVIbnVSN3lyMXRwLTUtMXNxQ01mSWxLRHI5OGc0Ql9IZTJpV20xcFVCRzQwVU1GQVQwZmZ0Z2tqcHdoQk96bVZJeUpkS1dJNHlVZnpGVGhvV0JzclZTeklGUzF4S29iaWhyNE0wRGFuYkRTWC1RSENvRURR0gGrAUFVX3lxTE04dEY1QW5GUldXbW1yQkIyQkNFZ3E0QnlXTHZBd09FV24zdnlnYkxrR0hDbE8xbzlHZkFPY1c0YUNUd0dFSzYxSU5fejQ3VHdhaXIwWVY1OW8yaFBtc0ppbEdPY09fWWpvWUc2ZXRFU2EzbEJZa19NR2h4eXhnLWhHeVVNd2ViRFFpOTZrYkRPSXk3OGYwWC1HYmpSZTdMdGZ2eW50S2J2aWI5bw?oc=5",
+   "published_utc": "2026-11-07T17:51:47+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ReNew signs MoU with Odisha government for Rs 9,000 crore hydropower project",
+   "source_name": "BigInfo.in",
+   "source_domain": "https://biginfo.in",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckVUdy1VZ3RoZHpUREVhZWtJVWNfcmxrd2xZbm9leE9KdmhKQURkS0Mwcm1BRWczTGxRV0oybGpPemZ4MFBtdjY0amFzX05kNWRfWE1oYmdZbHhWMG50cnRaa2N3WnlXVl9wVTl5dVk4ZzdBOG9JWDQwUmY3SkxBSVc2ME90WnV6T1l0VnhiblpzdHRnTVQwWGFCTVI0Rkps?oc=5",
+   "published_utc": "2026-11-04T00:06:57+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha draws ₹1.17 trillion clean energy investment proposals at summit",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXozS3pZZlZBOElVTy13OV9IakpEM0lNSXFFNThIaXZkQURMZWMxUDFEVE1KdDlEUjh1Wm9xbWhQMUJrUG9vcVEwdGtaU3JZVFFpTmVFY2dkWWYwdXdNOWhpY3V5d2NDZjdmRVRGNXp4RFdTOFNldS1OS2ZDNnRWX0hTNHdlSGloMENwcFpseEhHNVNRSVRzQkVzQURobjc0RnJ6ZTl1QlpHaWVtQ0ZsdFJiYVJXU3h6bTdvY0loMTcyR1poWjI3NmFsU3c4cWk1QnBV0gHYAUFVX3lxTE1JN3V6SzM0SmdLTFRGMGdhZ0t5TTl5c0tCZ2tZc0w2WEhVTmlPUUQ4cFpnREs1M2loVUMyMmFnQmNVVy00Y05GVHJ1WTlMNXdGbUJKUEgzSUhCb19mTHpWOFc4V2thaGJ3d040WXN0RFl4WVV3TXJNMnFpcXg3emQwTUdVTXY1RS05NXA5bDJpWUxYbmlES1FlMTk2ZkVRODdicjMxTHhVRDgxN0ZqaDJUa3NpSFZzSWtUVUpzb2RVMlpIR1l0UEdNWTQzQkdBMmN1WUR0UWd4MA?oc=5",
+   "published_utc": "2026-11-03T14:51:46+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Lines Up Rs. 1.17 tn for 11.7 GW Energy Projects",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdFVkMTZhYUtfVEotTzZRQWFLRE03ZUQ4R2xBcXBZOW05YkRWeTA1VmRQR25qeGhhNEVlSjJLX1I2WDZ2M0pCajVXTHA1QnI0SG05V0QzbmVadHZULWVUUmRoYk5iZzhOaUtmdlI4VEJuMVIyNnY3OHk2WGxPa2NKOU81WDlMamIteG5NTlh3bjlUaVNUR0hlZzQ3dEllMWMxa0pYZlFZSXlTR2s4ZDFzQXN1R0Jmb19DcVVZMUFTUWpnZENOdDJPVTNmV2hXeC05V1phYUpuVFlodWhK?oc=5",
+   "published_utc": "2026-11-09T07:28:05+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global Tech Stocks Plunge Following Democratic Victory in US Midterms",
+   "source_name": "Pragativadi",
+   "source_domain": "https://pragativadi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR01zRlExRVpHQ2tiUy15X3dWNk8wVms5XzVKYjZrNU9WY0ZudTZETmJSZWN1NERaR2Z2RWctYmIwSmpmbnpIZ3pKMWNseV84aG5aYmpuUXBCUmwxZ0JxeTJUTVR4WmZhZHdWc0Q0SkdtY0RQQWhPTWVDMmxHT3llTg?oc=5",
+   "published_utc": "2026-11-06T08:45:08+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jharkhand High Court Gets ₹35 Crore Data Centre and AI Tools",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dHVNYmZfZnJRcFJhbGUtTzdrS292dTRaWEFXNkRxNHk2eEE2aHN5RDhuSEhrSGl5ckNiZnUzUDA2bWlMYWFaeGlhMWpwcFJVcU9sUEdwYWZUZnhaaV83QkYwNUl3cml2TWZYVmJ0WVFUTVl1cGUxVlBn?oc=5",
+   "published_utc": "2026-11-03T06:06:46+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Lines Up Rs. 1.17 tn for 11.7 GW Energy Projects",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEFWTDkzSzlLWFJmc1hEZlRFRHlfM2E2U2VnTDUwZm9IU3drd2RPMUZzN2tpN0lnUlh2VWE4alZGalpDTHdFeXJhanRvVmNSN0lvNGpxbkVaRm5IaGNpcmQyWUxtSDhWUXU0RTR0OXZsSzFuNWdzVnVOSUg5ODF0MHE1WlRsZGNJaDlPT1k0c1prN2VKVUQ0LWFaMG1BaDR6MHRHUnFRenh6SzN2c3hvNDhmc1h4NGkyaUNDa2l2elRsOUtUd0lWWUJJY1VNb0Zsak9OSFJyWjN3cFFu?oc=5",
+   "published_utc": "2026-11-09T06:54:28+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Asia Healthcare Holdings launches a new hospital in Odisha",
+   "source_name": "BigInfo.in",
+   "source_domain": "https://biginfo.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHJJdm5NMkZfeFZiMXNzNnAtcHlwdmZha1lTMzBrUVU5eEpCVElHVl9iOHdmN2Vmc0llamd4T2JXeXZYWmFUZ09BUllWSUx3WkRUaGVrOXY4aWpQWE1FM0lXRTlIc2pQck5QUHdsbjlfeFc5alhmdUR5THAzOXhFeWJLeGJ1cFp6M1E?oc=5",
+   "published_utc": "2026-11-03T20:16:25+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Odisha to Silicon Valley: Santosh Sahu Contests for Mayor in California’s Milpitas",
+   "source_name": "Pragativadi",
+   "source_domain": "https://pragativadi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1F3QV9aajRKYXNxLUxabzhnX3hXY21zSDQ4eGZkSXpSWjFnZlJpV3c2ZEt6eHFMX2EwVXZEemROdkd3bk10clNTcnVLU2I3WUZjSmVXRGU2VVFXY2hBYVJ1OWJaUWJXaGxHOEJwd3BCcVNNMklpeEx1aWstR2lvVklMQ2NoYURMTE9zNmtZVThueDFZZUpkNUJJa2RxbElpUm9HQ2E4Q3lSXzdWM3o4?oc=5",
+   "published_utc": "2026-11-02T10:46:48+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's data centre investments and trade pacts can boost growth without weakening rupee: Report",
+   "source_name": "The Hawk",
+   "source_domain": "https://www.thehawk.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdVdVaExweE1Cd0V1end1dlBhWEtlNFhhVEFpSnRFdDVZNW1EY0NUWTF3REVkMjh6SGZ3NTBLQVdEaUZyTHdPRjVPSnBSM1ZneWlOQTVoYnRIV19RNEVEaVRPdjBsVUJEZU9GLUpBQU5WNklVaVpUZXBCSy05QjlIMUN2UHVYUkMxTjN6ajZEXzdWaGhPTjJicy15VHVac1h4aXFiaGR6d0xWWXlyRVRLUEd4Z1AybjZiSktPbTJLZUI2dE4yVGdwRUZB?oc=5",
+   "published_utc": "2026-11-05T07:56:39+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government of Odisha partners signs MOU with J-PAL South Asia to strengthen evidence-based policymaking",
+   "source_name": "India's News.Net",
+   "source_domain": "https://www.indiasnews.net",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUQ3aldnSThNWEtwNW9uWGcxRFNnQm95ZnpXMFJibVRtUDNGT2xlRWdEX0ZqVlViemNoWVJSZ0lEclVFVlVlcWdzQkRNY3hRU3hsWC1PY0l5cThUSk5QRnVPNDcwdDF4cHB4cGxOdUVJUWZnSlEwaWVESEhyQnVkMGxmUlpxU0Q3T3hBX3RGVlgtV0Y1T3EyRGFMdUZjbWZsaFg1cWs3QldFTUQyWTJkUzFsejJDcXZLNGEwQTY2dVFKMUxmQS1LSzFLMWNRSTI1OE90NWJyNW9Lb3pBS2c?oc=5",
+   "published_utc": "2026-11-05T08:28:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

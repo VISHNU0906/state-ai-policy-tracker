@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "How a suspected AI deepfake scam in Kerala landed a school teacher in West Bengal behind the bars",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZzlVU1VyLXFrQ0p1V1J2dkIyNGFlLXp0cGxNT1YtU25ERDhHWnkxMmJvVjd2RUI0dkx5NEg2WkRJLU8ydXhRM2NwbGwzYy1tZGZsbE5jSklNbTBSbkJyTGdjTGgzS2paaThtQ0ZiSHFKZHo2ZVlEMnhMVmtxLTdTaDFES01CM25rZEhOMUlUTGpZSXRrLThmZzZHZFYtOFJNN29wQi10bi1GMmdjTG1GNEs5X29lRHNJaVRlRy13WlE4N3Bkemd1Z2JPVEtRREQydDFsU21SMm5CZW1fV1hUVHlsWXZUQ1F5QmNVN0NDaWtHWHJlY2fSAfwBQVVfeXFMTUtYWml3Mlg2UVN0WUlRUzZ1QkFnSko0c0E4dFdudkRDMHNHM3NGUXlPRzdRR0YyU1FSQlhWSWQ2eHQ4bUtuTU9HM0s0SVc3eWtzMm9rdjVSbWZSZkVhaHpVNC1VeERIWmpGTGlJSUZPc3l4ZUtrWTJfaEhDcVo2UW5URHRkLUNuVHByMlZSWHNScDhxQkwwRjRwT0JPTllqbjctRE9vNkJYZmEwWW9yYU84TXRGZTc1bUJSQUFqMlhacXkxenhhT3BpRTdQQnE1dmpiR1k0X2hZWnptWFBvN1RxbVNXY3R1RWJ3dk5zaWZNZmhYLVlyV09pelBo?oc=5",
+   "published_utc": "2025-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Building the Future of Technology with AI city in Lucknow",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkhtTXJlYVZTZTV5M29NOE5hVmxUSW5lMmQyaExTYkNnRXBLZ3lCU2R1V182OGRsOU9VTE5fV1ctVnZ1ODhjaTlfVWxIUENXMTgtZ25pTGQ3WTJEdDNieFoySTJpZVJHS1IwSGpxOGZpT3o4akxNYWlGQUg1ajVYdGJZM0ZySzhjSlpfNmVNN1dzVjNuZVJlUk1Ddw?oc=5",
+   "published_utc": "2025-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "Odisha plans Rs 4k cr ship recycling hub near Paradip Port",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHk4UEtGRWd2LXZDSHA3Zi0welNHLTF6VXhlWWtUZlkxd0dyWFB6NlllZXdCOWxMcl9PY2dZMFlndjZBSXVocnowblIxdFpEenZEQjFDYmt4b1VYUVFSWmQzTXFiaW1ZeFJDdGhVRFZxWUVWZFlnempldEJ3eDRta1Q0a3lSc1llRE1TZjB3TmtCN3VMaGJMX0RWb21xenc2Z1ZXT0o3OEJZeDdXNUhoNHVycENGR3BSQl9xdnRqcnFPcDFhbmNzRDJVZw?oc=5",
+   "published_utc": "2025-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre has a Rs 7K crore plan for Odisha’s IT hub makeover: Minister Vaishnaw",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcU1lZlJrTlM4bFRMbkxDcUw2cnJnMUpqOWVmRlJCTDJMRzlqTDE3M2VxbkxZcnZvNThRbFl0WXdhOWNYVVlSOW5vM2hsZTNnUHM3QTF1d0NRU0xpVFBlRFFuR1FaUXpXUzJfUWpYTlBtLWhWMEV3SVhzZDlPUjVBcmNaSld2TFk4eDVJY3lyNzJseFdnV193U2wxejQycTZwWVdJNTh2eDNsNHY1cnQwV05hLWJ3V3VubGlLOWdtSlhsTVVKYkVGNmYzdElSVW_SAdwBQVVfeXFMTldWbmdGU19kMWZVSEM0al9RSDRkbE9aUjlaekRYR0FrdlNEREpIbUZPN2ZjR1NWRTA0dEFZdHpJcEhxbnltaXJPRGsxYXgwNEZueDlZcDRsZVhGZk5MYWhGZHVUUjZLcG9fX18wWDNPX2RqOFRJVFc2azBuS0VvSGdndlZvUkZXMjlnSjZ4aUFuODduZzgwcWxpZ1RKM2k2SXN1TkxLREpadGdWRnZuTHZQTVVUeWlGTURyMENNeEVINW8yaE93M3ZEMWNLUk5rU3Q5TjNkRTkwNkFvSw?oc=5",
+   "published_utc": "2025-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Power launches Power Distribution Technology Centre in Odisha",
+   "source_name": "T&D India",
+   "source_domain": "https://www.tndindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHJmNi1nMjlvdTctemRjemdvaGhkd1RPclhydkozVGkyeXlvalI4b0xJVTVpcU9JWHM3aV9BYWNETjNBQkdhM3BSRk1oenRuT0ZUYk1WYWlDZ05qT0pIOTZ3azJmZHR6TFUtM3VhQmJRWEtNY3hKNzZkN0Y4RVV6QU5SN3ZUcnhkeDMzcnVsX0VMZFZTYnBJ0gGcAUFVX3lxTE94a1lBemhjWThEeWxScEcxaV9PMGZ2c2ZUclVBUHYzNDZOS0lmdEhBaFlURXI2ckJZMG5TWnNUS0QxWkE1QU50S3FieTdVWEYzZXNPSkY3Zl85NXl2Tm5Qb2FtTUVPUWRuT1J5aVlxS095Y2ZzV2ZZSDR6TnUybDdIX01RWXZGUnE5TzB2cFNwMjMyejNLQkZnb2Fqdw?oc=5",
+   "published_utc": "2025-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Building the Future of Technology with AI city in Lucknow",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkhtTXJlYVZTZTV5M29NOE5hVmxUSW5lMmQyaExTYkNnRXBLZ3lCU2R1V182OGRsOU9VTE5fV1ctVnZ1ODhjaTlfVWxIUENXMTgtZ25pTGQ3WTJEdDNieFoySTJpZVJHS1IwSGpxOGZpT3o4akxNYWlGQUg1ajVYdGJZM0ZySzhjSlpfNmVNN1dzVjNuZVJlUk1Ddw?oc=5",
+   "published_utc": "2025-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Dy CM KV Singh Deo launches power tech centre of TPCODL",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVVQeU91aWg5cENTeTM3WUg2V09heWI2OWZERk1kYU50ajQ3R3BxOXpTempmZHdHWkZrZWtlVjh5R3ljd1kxaklPdkl6NC1wV3hBZ0ZxYTZwU1hjbEdtVDdiaHRsMUFSV1hpNTNKakYxcWlnaWs5ejh1SzhsYjA4OEIxaWRKQ3Y2ZHlkNFc3NC16eEJDTy1KRFlvdXZVRVFEejBHbkNrcUp3YzFOOEhLY3gtOC1vZ2I2cU1veDV30gHLAUFVX3lxTE53Rl94SkRNZmE3Ukk3Q001ZTZPWDRpbThaMV9Sa1FXZ0NkVHNtU01NZThJR3BGSGxxMDdGU2tlYy1FN2pGQ2RXc2o1dmNVRVRpZ1I2TTRxWVpSSVlYRkVwbnZYVHVCQjN6ak94ZUVkQW1lM1M2R01oYTNESVRfd1RMdXBzZ2hOZHNsTHYwclk0OTFIUzROV2R1Y0FZNGhSSnRmSGRFN19VLTB6X2R4RGVkV0I0c3hTTHhvdG55VmxPcll2eTZPVFBRRzhz?oc=5",
+   "published_utc": "2025-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

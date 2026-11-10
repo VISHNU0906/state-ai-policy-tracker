@@ -1,0 +1,93 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Congress attacks Maharashtra government for data-centre industry expansion push amid drought",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX2NyandnREN0LTNWZVkyUjFGcEc1V0NZSzdGaWdseWIybFVDc1hGYnN6SmFoaGhhTld3akhaVm5zYzV2d3oyQXMwOWFVSzktbjZHdTY3Ry15ZWdNVTBqcDJsWHpuajlmVDFIMVl4RzB6U2g0ZzJsSV9rWnhZejFDa0U3UUk5TVJBM0dVWlZ1dHNwcmZvc2t0Qno1UlpwR0ZXX2FTVGNjc2RUYklzVGhuczhLY2ZicU1NMGVhcWhSYllrZEJQd2UxWjB4ZFBTSzEtTHJUa0hoZnNKOGVyTHlwR0RlRnVBcjFWWWpaTGZOSFIyQkpvM1HSAfwBQVVfeXFMUGw3T05IRU5MNm1BNmdBcmt0OWNfN2VjZWVpb2p3WUV1b0V1TmdTdTlqR1BXNFdEbHBmYXNJWk1iY0dmaVVTTGR0MkpmVGFPeEJjQ2RTekFoVW91TmoxdWh0aS1LUmRzeG4yVG1va3NycV95S1ZueFRuRjJPS19QTEZ1UTBfMHlZUnk1Q3BFV1JiYmZoTVQ1Ry1EREZZbUp2TXFBdmZ4TjZ4Sk1PX0Y1Wi1iMHIybDJTSmtiUnBfalJSRXgyNlJ2REhQWlNtZk8wYWFnbGVQMHpVZzdodV9ySUZsbUJVbnRuR3E4ZGpzOUpUcVlxMzd5N1JWZFFX?oc=5",
+   "published_utc": "2026-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra plans recycled water, desalination network for data-centre boom",
+   "source_name": "Carbon Copy",
+   "source_domain": "https://www.carboncopy.info",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHNvQmJ4ckMzdVRPdGhUWGIwSnBuMS1kU0dEaGctWmhBbWgzSjlvcWdSb0prQ205NVM5VkVrbkVrbzN4YVYxTHFfMGdPV0pfNjZvcmtIQ3FNVU9zQUZzelNHdjUyQ3dpWXpabWVvSG04LThRMm5qcWdDUTluS011UWpTZTBkcVoxb3JCejlibFZOaGZhN0pESXBaZTBocHRjRUtFcQ?oc=5",
+   "published_utc": "2026-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Targets 5.7 GW Data Centre Capacity by 2032",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTUM0bV9LUkxYaVNHczlmbW5sdm5hUWRRZjUyQ0xPRzdkYXB2MDFvejh1QXRqdkF6SWNDZGdHcW9raWYzMzVqVDZwb1E3MEVGcnJ5ZC1GUDJsR2JrQUpHUG5ETml3OGhCcjdYSDZDa2lDWTVCSFJoLXRuei02SEt4bUlaZU1YbXNWNUFreGVSZFNtalQ2MEc5TkpCMjZIZEZFMXJ0bzVaemxscF9kbDhEWlBaOWNlMEF6cmh6VFdrdGdEaEk0dzNzV0Q4emdhc2FjUlHSAdcBQVVfeXFMT1ZYMzVqQXpEcElmZ2p5NG1DYV9lUnNLNllOSktfeDJXdmtodll6QnBxeGRtb1V2RHVCaE43TGVBa09GQ2xFbEg1d0RfVlZ2R3Rab2FENFZYRV9tdEdNZHRnMTVtRlFEUGdWalNQQ1NLVHBCTjdsQnFDSV9rZjdBTGlyR0dYQXE1ZVJRekN5OXQ5YXo2OHRPSktfRl9HeFM2VXVLM1FmYkkyZlVrejZhd1ZFWnUyQlhBeEZjWmZKbXhLQThBbmdYaVhIVEx0SVB1RVl0SEhwT0E?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Says Data Centre Interest Has Crossed $300 Billion as AI Infrastructure Race Accelerates",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNR1Y2SWRNMjNWczRWcU1HYVlidC0zd0NuZW1nU2Ntdld3QXlrMWNMLVozX2F0Tlp6UWNrS0hiVmsydlI2R0xHWUpfeGFQZXRmbDZ1dEdfcnY1ckFKZXFxX2k4Z0hlb2dPeUdTMUdVcm83MmdFcVk0LVNoQ00?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra sees over $300 bn investment interest in data centres",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZk9mamx4cmtIQWNGLUs0bmxJVXlickRtQ0x3WTZaNW5Fc3N4WE9vMVRLMmFuMGFib0xDczZOUHBlMGJaZnRfOGhocFBlcU82MDZvb3YyaEV5T1RacGx4UmtfQ29ld2UtUHNGTHViQnBuaTVGdWdxXzRkSEdZSklSaS03VGFqZERycjhDaE96MGdIdGZKT1FZWGJuUGgxMC11QV9ESF9acFcwOW9jSkZ6X2g0LVd0T0NCOTQ0cGk4UEJKVEN2SjF5WWFXWUdiRW9Ua3fSAdcBQVVfeXFMUFBaOHZETlNDN3NfOGlWbWphQmhPSTZwTmdETm0wYldFT19xemVzcU80UHpYb1pSVGxtMUdmYmJ0QVJhNElGWGxPYzdVaThUWnpMcVcweGVMcTd3OG5udWJSbTVvb3JULXhwNDRJaGl6elBJZ2xkNWhtZXU1X3pIQ1BEc1ZRcjVSYWtzTXVZLUpCcm9uNDJ0Z2hxX0gyaFhmRlhOMjFEMWF5Um5faEFTYTVmbWJ1bWNqenYtTUkwY3Q3R1ZMSkZxOVNUM1Z1Qy10TGNaNUdOY3c?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress attacks Maharashtra govt for data-centre industry expansion push amid drought",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbnhtYU9jSUJOeExfTC1kcFE2UzJVNGNHV1FVUlFIcGYya3diVjItMHdRNFh6akF1d044eF85SF9Gem1NN1ZVSU9oQjBwb1Itc0o0VlZqQWZ5cV90N1N2cjRTeFhROGRNbUVIUUViWXNOUWxZVUZta0p6azg1SDladXpJTGx3a0szMUY1b2FDNXZZdWhXLV9NSkhsUFB5S3FtSVBCRUpxcFVVeThNckVfUFU5RUM4YUVvaG9Xb1JvTlIySkIyM3pzVk94SnBsVkQ0d1VPS0g2S3JPczBaR3p4MVhfVmLSAfIBQVVfeXFMTndORV9VZWMxQ18xcmJsODAyX2hWX3gyVklTamFPNkpVMHBjdmx4UlUwdWxNaEwxakY2M3RnczJuQTdha1QyLWpQazNUR3hwcWFIZ0w1cWZWVFgyQTFIdTVyUjQ1UlBXRS1Yc0J0dzlsaUItUU9fWGR6SlNud0I2aFdJNDNDek1PaHFDMkxsYWhiWW1VdkZ3blJkeUduUU9NcENPY1FKNFJJNFZEbnhScUpIWlhJZ0RiOFotYlBVRlE2UEN1RDZTTUN4anVQeTFUSEJtSFJEcnB5UV9IYTlzdGg1RWZ1ZWRJT1k0QkQ1U2JpQVE?oc=5",
+   "published_utc": "2026-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress questions Maharashtra data-centre push amid drought in 265 talukas",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT1NtaWN2c3dpa0R2ajE4TVFjVUR2NnNjLWJRQWJLSVltX0NiRlVVX191VHl6TWNIblJUTUx1SVNsZTlybkdielBpb3ZUVHRqcVFQUzd1LXdKRXBhT3FVUkJmVjl1S21jTGRRMDZ4RzVTVzJFeTFmMzgzeklLZHFmUXl4WmJmM0NPa2tvZk9fSllJVkNLd09Oc3A1d2czTDdfbWRSMm96bUJRam1ndjNPeHZtbHkzMlB0WUNabmlRUFQySkRGVHZYZ1VrUF91c0RSd1dfV1ozekVEbElqaFgtWXhB?oc=5",
+   "published_utc": "2026-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress questions data centre push in Maharashtra",
+   "source_name": "The Tribune",
+   "source_domain": "https://www.tribuneindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2hWelQxWTlFZHRnVVFpcVpWV2trWFNHSHRvSllrcWd0VkRVSVNTS2syZUpvcDEtTV9QaklvNmVqclYwUDFvVWR0a0VqMGZVYnEtR2djWHUyWTJmSkcwNnN5TVRKM3pZRkhUVm9iRmVncFF5Y1c3YjJGbUJjaFV5VWZvMndKQW1qQXRRM1NpR1padjVTWUHSAZoBQVVfeXFMTlF6MXo3c3REb2lOMldqSHdpZlllWHlIOVhGeVpnMUlud2JkU0lUcW9YWkxhQTd0SGpRWUxHMHZvY181REZtSXNKbk5RME9SY19BME5sZXlWLWxEY2UzWGFTLVdqZXVtaFpZNjdKVll4YXlpN2FNRjRqVlhvN0wzdTNXUFA5VFp1ZzF5VUJYYjljTnUwVEhoSlMyQQ?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt. Plans Data Centre Policy as Environmental Concerns Grow",
+   "source_name": "Mumbai Live",
+   "source_domain": "https://www.mumbailive.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHlVUWdmQUt2V2xWQ0t2Rk9GOWtDTXpCdXoybDBiWnBqZGh4bkFPbFd1THhPai04d2FVa29fWWNNZExWemlFajBmQTFXSVVaSDNEUG5YZGFLV0hyenpaZmp6c0FFMURCZFhDbnFTVWc0eTFzR3ZsVTFpSHloNVRoVS1EWVBENmZTRzZYd0xTdlFDN2JNMjJYcjAzYndteGUtbHlBbWFUY3hOOU83clhBYWR2VDg4WGZiVWZrbzBXaS1NZ0JKOGN4UNIBzgFBVV95cUxOOFlkNkdLdXlPaTdCTEV6bXJDaGRvZ1c3dENGb2YyN01rUmJzVFVHendSTDhhcTQ1dzB6ekRZb1BUMV9lNlJPNUs4ZFprRHJjT0hDc2VUQnF5eWFmUDR6NHh3VWVVYm9KTGRwdURSUjE4U18tYm05Z1RLNldzSWpJMFJMdklWN09zS3VTNEdRa3Fnd09vWmxrR1ZjZ0pEa3ZaWnpoMlZ3ZVNfMVlmbGdFRHFNc3A5NzhFOXp6RDc2NnAzcTRLUnNhNGpPbTQwQQ?oc=5",
+   "published_utc": "2026-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Soon Have A Data Centre Policy To Regulate Sites, Water Consumption, Noise Pollution & Heat",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNamFkUVZlOE9YNXF0SEtYd1pKNVNaTzd2bnVYek9wT2tvUV9Gb0RxLUZ1WDBHNm5vdUhEXzliRmNfQ1ZTN2tQQzlDRWYyckl0cGRqeFJESERMSW9GaXhYN29RMDl4ekJTbkNqbVRfZHBkcUM0Z3VoeVRDSjJJaVlDTXZVdml5MEhZNFBZa25QZjVZUlFQQ0hBUGM3RmY1YkpaVERsY2RZaWRrOC02VDRMV0NsVnBRTnlFRWRnTU1Wb3JrNjN3ODlDYy1yLWRPb3hGeHlqenFfOWRxcDBGR0p0OTlKaEJ3QUXSAewBQVVfeXFMTUt6UXhEdVhDVVk3eHNpQmhsaW1ZNWtEZHo0LUhyT1lyZmhzeDN1MjJMTm96RWVjeEdEMzBoY3NXOEFzemVkbmJWRGJkbVlieXZGVEM5X3dZRGNDRHEzcmtBOF9UWlMwX18waG1xR2FTMC0zNU1vTzJ6dTdUc2p5MURWMzJkazFDSHUtLVV0WGRtWEQ0NXlyOGxueFJiWEM0NWdac3lJa2FEaF9xb3NtTEk4d3VPNFdvd09KSmR6QUYzWFZ1ajFzRFkxZU8zYVd3WGNxbGJDREx3RkF2TnZURzZjOHRvVTVfQkdxYjI?oc=5",
+   "published_utc": "2026-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Maharashtra's data centre expansion is raising water concerns amid drought",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzZHOGFxb3BzeWdTdXE1Y1c0U0dhVEYwVFpkdFdncmZEbzRhYTFIRjZaM1JNZHc1blFmSERiUmhkanh5ZVBQTldNbUNMZ1poN3ZFbnFXMTNlN3VKRHVYNVBCRmgzWFpQTkc0MmpnN3RuTXhhSTVkTFRaZTQ3Q2FkVjZWYTFtZjZZTl80aGtDZjVwWmpyczFVbkUzMVB2anlfcWtjY2w1aTA5eUR2ZHFoY01OLUJOVkdBZ0xKY1Z5eUhpYzZyb25N0gHMAUFVX3lxTE5FZDJhVm9QQVBkQnQ0eFFUdFAydjVZbDFwRzgxQVRWSEVZVXZ0MzNSdnlRU1EtUXloazNmeEVCOS01bUNkQWpxX2F4TkRRckkxdWlESEVzVWFJN1podU9iT1JzMlh6QlJYenJmSHNnTFM1b3pYTXRxZ2FxZVN2MVRwTmdxa280bHkxS281TzJBelktaG5ZamYwOE9oenBCV2hNWTlreU1RM1hEOUtIeVF5STB5SVNsNXpMZUt6bV81dHVZZHZnbUZhRy1sbw?oc=5",
+   "published_utc": "2026-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

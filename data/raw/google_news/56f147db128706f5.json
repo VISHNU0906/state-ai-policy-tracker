@@ -1,0 +1,13 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Rajasthan clears new industrial policy, targets semicon, data centre investments",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXhEWFFMUGZTSHhWRkNpcXltZDh3UThHSERvWHFua2xDTHJ5LU5VSHpwWnQzMndUUjNhaDFhTWMzUmQ1ME14clZPTXEtbUN5YUJ6YmhSTm1BeXFWWUNCR3REQmoxTkttRXNzMmwtZW9udkk0U1BiQ3cwc2JYWnp6RjBOY2RnQmdJd3duejhXRDBOQU15Qnkyc2R5cm1KdU82MVMwMGMyWGRqWDJ5RWMydWZncmF4V3NUWFNzenBTaFMwclY2d1NfRGQwZk9raTMtMTNYZVFtbHdjNHFTZXZ2YV9qRmNyLVhLOFHSAe4BQVVfeXFMTVpURGVDMEh0enBOZ2dLQ00xMGxDdkFfaWdaMV9PY1M2RDNMZ3pNUUhFY0gxT2pQM3czQzVyZElWem9pcF9ycmRCMTZqU3J0MXdjWHU4QTN5cGd5WHVvWlFValBRdDI1OVRRT0pXSU1rdDNXRDVwXzZIbnV1RldnM0dXQlZ1UHJRcmVfTjJkS1RUZEF3Wnk4TVVnMFZabWVMWEcyYVhjZjhYWW42U3kxX3Z6UldqNWVrUHYyREJTT0N0dHRMOW9XTG5UUDFWZEoyM2gwTENZdnh4LVpZdEY2U0hPVl9PS3BhaS11aUprdw?oc=5",
+   "published_utc": "2026-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "Puri Stampede: Odisha Govt Says AI System Failed, Pins Blame on Seven Senior Cops",
+   "source_name": "TheWire.in",
+   "source_domain": "https://thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3dZUXNlcEdWUmdscGVsY3hJX2kxLXdUR01HdVVIbWVyMTBKSnpBNkdzdF9TY1ZQYlQ4bXZUc0s3ZHpuUkx4a1RYNVBOc2xxVFNqUW1ZZ0FMeWtRLUFKZDFlN0JUY01EdERFVXFQa1hMa19TblZQZUVRZ3VLdm0tSFF4RHI4bE90YVFjcEUxWFEtY2h5YVpqQXVGbGFaZWVhS0VoSEFONTYteVRyb1HSAcABQVVfeXFMT0lIQXBRN3ZPSG1VLVAxNmY2dndBR1dwODVleXpaUEJzeHRqNUxDRVk2QVhwajRmbHZHREg3T3owVXFKRWYzV3V2Y3U0eVhKV0lzdlZXNXdlYTByWmFhYXVXWGFRWkVMckRtZDNtNTlpUFRtU0FWWF9RNVQzOHpnQV9FbThzaE10TUstcHA2R1JxNTZvU25sN1lFOFFXU3EwbDllSDVpM29FNWZrT1BXSk9raUNsdDBfTzdiMHU4UXI5?oc=5",
+   "published_utc": "2025-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha vigilance launches AI cell to combat corruption in public administration",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejB4clZzLUh2SEQ1OGVWcnRIOVJnWnVndkxYdHZNcDl1c2lJNFU3aEdnb2N6SFdjR0hZejhUemVEem1vZkREdmVrZ015MEt3RzNwaXBGQ2h2NGI4TjRzYndBQjVpcjBya0pJS1NvQUcxYTNjZ3JLb0t3ZFlEM0FmNWZxYU01aXpHTnlUbGUyU1Q3NG50b2pXajNIeEF4d1JpUW5XbnU4bG0yeFROZ2xFdk02LUZ4empCa2JESFdCdGw0VXhRNjNjNWNZR3dOM1I0N09mMXk5RGdEWk1WN1l6aXlYYVp4aWVQWGFBUTRpRdIB9AFBVV95cUxQN013NXU2Unkzb2hyajBiV1VEYXp4Mzg0TkliRE82SDBaQnJzT2hqaEQ2SkpreXJUcDhYTFRiY3JmTEh6enp6MXczX3BjQkNQZE83NDU0c3FSUDZnY2xOckNORVZhZF9JeEs4OTEwc01XRlJZdXNOclhCX0NGN250MXVnOGRJZERMZF9VVXNXNVZlWnB3c3ZBZ1lBaHdfQVBDdDI1TGJrQV9lQlFpdFA4ZE9DTlNQZHFhX0hJcnluV3VKeUNEbnd1UFVLOG5wcmN6dklJVVVFM3RZMDFaRWdEOEdVWElYdml3MHBfTGVGNG9aaHdS?oc=5",
+   "published_utc": "2025-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha needs 26,237MW of total contracted capacity to meet rising power demand by 2034: EY–ASSOCHAM report",
+   "source_name": "EY",
+   "source_domain": "https://www.ey.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMUFiNllLb3ZVNHVNck5qa3VfLUFfR2RRcnlHQ0F1WVEzXzlfLXVDdjIyN0o4eEdUclpJWmhhRGJWWlBTUkdxYWJ3elloSnF1TGd0clBVM3NNMmxSVUt0S2hJem1sVHRlMXl1bGdQY2d3RVowNlljVE9jajljTXk2Q290N09FeEFxcEFnb1hwaXV0TmNWTTdQTm43VU9mQUV2NjdOUGxNLUwwejJNVUx3aTFzcXEtQTBhQWNwZWtXLV9IU01WWlFxLWNmdDRDaHZGVWV4V251SFd5M1JnSEFCV2JR?oc=5",
+   "published_utc": "2025-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Vigilance Directorate sets up AI cell in Cuttack to fast-track probe into corruption cases",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNXVCZU5sX1lkY0d6c1lQYm4xdzN2ZmE3ejVfRjNycHJRSklfNlFKWXJyV3NkMFdyY2l0Rm5odEhxYUFFdi1KRnJSQzV3TVEzdWNnUzV6eHRQaEN4MjNrSEh2SFB4OExOOXRuQnpQT3JyZXgzVXlsSEY4eWZ5ZHRNWTl5ekhUcEdab1Z4WVZ1N2lBanpNV0JWN2NOWlN0TlpIM3c0ckNWWEdSRDF0YXZBYmd2QlBBZ0JsQV9xdHRTNGNfZkg4ZHQ1ejgxUzN3NnZ6M21KX2tXR3hEOG4wNGdxbkJxaWV1MlpWbGt0ONIB-gFBVV95cUxPcEtxemhITXhQa3NOU3RDWXhQY2tLeWNRM1Z3aGNYU0s3WkhYb2JLZEpQNW9fSFA3OE90SE5DNlZtX09teDBqaWdGZGV6NUlObHZiVC1MUFphZ25udm5XbElkQzR0LXdsa2hFbVBMUzZoWUdoTkhTV2ZQQ211ZTVDSjJPQ3RXWDE3VnE4UC1qZ0ZOYkllOTl3NFhULXBuVE82QTBlVTktaGZzQ3VTUEpHOFpvY29TLWFHMEJsVU5hdkpETGRVbHliMm92VTdoc0x4V1ozcXZRMERwRVV3S0toSnVmekh4N3A4ZUwtUmRHdEpmUXBhNEl6VVVR?oc=5",
+   "published_utc": "2025-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amrita’s Rural Technology Team Expands AI-Based Elephant Detection System to Odisha Villages",
+   "source_name": "Amrita Vishwa Vidyapeetham",
+   "source_domain": "https://www.amrita.edu",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmdwNUhjTGF3Y2hWVUl5WndWQVMtdkdybHVYc0JfcjhralVCUTdJWlZVR1lnYThMNkFrdU5SalFuc1hpZmNyN2p1SFVjdm05a3VrZW5xTGptc2pVUjFBNjZrR0ZZZkR3Ym9aZVNzbWFHbW1lbG9MTXloZUpCT1NsWFN5ell0d21XSGtWY2RtT1VPVEJObW8yTkJVclNfY1ZTSjhGVEo0QnMzbW56R2s4cU1aU2VvWm9aYk5Gdg?oc=5",
+   "published_utc": "2025-11-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Issues 9-Point Directive To Collectors And SPs To Maintain Transparency In Governance",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWkpqZ0ppSzEwLVdzUWk1bjlYNTJmY3ZwY0pIR01yc2tJdENsSTdXaG5XWWlWcEVRaFNfU0dqbTBvQXVJN2JSYzU5OExyR2VUWEt1X1dzMUJKSDRhTXgwM3RFU2pUSkZPVll4YTVQcUJ6VUhpWGsxMEhpbHV2V0VLTmlkeWg5bGphZ2pEYmtjUWNZb3Y5UjJ4R1M3MF9UUTBGQ1hpYjF2MVhoQjVYUExybFU3YWNQRVZnYjlPVUhsTEVkclhFekhTZ1NEd1pyRDRSQXY1TkwtRzUxX0JseW9kTmFiRGFfR3BuM25nTFBqbExqMm9fby1qbGEwTUxwVlpGOGJ0c1NlVmtWOGtGcENhZXlZdzVQVnhsdGxENGpwMmdLWTV1YXNid9IBrgJBVV95cUxPTEJZVzNmUDBhWEM4X3BsLWQyWkJMRC1nZnRhYTNwUUR0RnhuUFQ4WHJGLWF0blE1TjdNUU8yM2cwTDdyU1VKRFQtMTZFLUtxZjBnX1NORnBlMDRFMXpsSkR2eUt1UU02UTM3ck5LeHQ0eExJQS1fMVpGUC1hRHdDN3BDNnh3TzBBZlVGSXp4WDJBY3gtcXphYUpvS3JxT2VxaDdTek5qVVZMOHh2OGwyam1fWG9oNmstOGUxdlhzdUVRcEctelcxY29QaDVFN01pRERkWFJYVVJxVkV0d3lCQ2tkTkRHY055UWJPSmNZYjhKSkE1UnZWNUlJeHd0VWZ1Z3djZktQRVlYcU91ZWZ3bmFCV3k4aWtLOVFvVjV1NjYwZFRDZHB6Sk5Tc2RuQQ?oc=5",
+   "published_utc": "2025-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM, Reaffirms Equal Opportunity for All Investors at the Samruddha Odisha-2036 |",
+   "source_name": "Odisha Barta",
+   "source_domain": "https://odishabarta.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa1dER2VoT3prLVB6aWFpbWcwaWFKRWJnd2dwb1dMQ3gzQUFmbndxV0tMdHpZMHNkN2xRVFp6V2xKT25jbm0zRVNkeHk0Y2RxOGNZRVFmbHZUbGctVGRPSWtDR1V3bEhaQlJlQ1F5T2liNHdNTjJ6NjNRdFNUMTZEeFEtejZ3NmlzZjlJOS1JZW1ZOFRlWjdEeEp0dmFiY3FmNGNaVDhBcWRoU1FOSlE?oc=5",
+   "published_utc": "2025-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt asks schools to upload students’ data on UDISE+ portal by November 16",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZVFoc2hzWXdRWU0tZXBSQVlMRGxIeVp6eTh1RllERUY1cTRGNnlfQWFfcm50RlN0VERQTVh6alpDbGVqRklCOVBvbDlseHNoejdaRWM1eTBOdmZCM1NoZU94Yk9jcTNmUktsVnFjMjQtYTdVcUo1WC1fX3YzN0J4SmEzV003QjlZNkJmdEdVQXRZZDlPcHlDUWxpeHNQRGhUQ0Z2UTE1SzBVUG9MUU1WZ1ZhUlp2TFhBekNIY2l2dG9JVUNYZl8xaUh5Y0ZyX3Jkb3B5SdIB4gFBVV95cUxNRkNLN3d3Sk1BdXlwZlNOZjEtbVZJUXVkemRDcXAtZTFrNkZXeUx5STdoNVBCNngzdDhySEM2SThDTi1SOHNvb3JtWmZCdnZxWVpacW1mVDJWcGowQ2hGcFRweUxpUmotMEFXc3huTHMwV3FTa01OTUs2LXdsaUdiTVF1Nlc0U29xOVJmN0t1SkxBMnF2ZGxGWW5FTHU1VTJydmtTMm1Gc2d1YjFYdDV1a3hiMzlaUjBDWGxyUlF5ajZrZk5qVmF6VXMwdlN5cHR6aW5TbTg2dVJlT2ZCM2hQOHRn?oc=5",
+   "published_utc": "2025-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Hands Over Appointment Letters To 7,293 Recruits Across 12 Key Departments",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFB1N3RHWmQzVDZUWF9OdENBZ1lKRm1Cb3Y1bngzMDVUckdhTWdBT2Z1TlpoSXoyeHhOYi1sWE4wZEFNSG8wVTBncm80bi1vVG9raE1pbURLb2l4WTR2YnBlNG56aDdEb0p2UnpkeUxleGVKcDNLTjRjRGZUUXMyNDlyWjFycHdISy1ubE90MnpzVnZHOWFjNU4tbDZjcTVYZEFzcVliZWRxVGxrZmhfbmFwUENGOWVOXzZEN2g5MGZkYlZEUFVER3N30gHPAUFVX3lxTE02TG1MUHltNzJ6QXpqaFJndmdVMkd5dEIwQk5mRmF6bTZSeHpzTWt6Vnpfb0RjQXdyN045VmJjQVBYQmNWSlJKTk8tSDFKQWhfTUI1YXloMnd3T3o0Sk5uSy0yQnhvTjhaVWRhQ0ItRWtYMWRpcUlzVmRRMWhPdWo1QUtHUEk3UEpOcWdlbEx2eTlwaDlKVm5sd3JNUkFLWVFQV0E4UkNyd04zc2hZMExxT3NqdDFsSGV2SGgyLXdSVXhoR2hUY0xINUozdG9CMA?oc=5",
+   "published_utc": "2025-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SOA University partners with L&T Technology Services to boost MedTech education",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGp4WGRSV2hBNTZweEV2cUJRQkdaRlZmdHJVc2IxSHY1TTBwbTJKNWNsVkZmQWVQV2Nfa0JIb194RXMtWGVLQ3dPUldTX3RNRW95Q1FCbU16cUpfbDBpUDA2c253amhkWHFadlZjbVg4TGJ1QnE3TWh4N01VNkpRSkJjQXNrUTkzdURIT0hURDg4MzBmaXNUWmVBSDlacm54aHVyX2lxZGwxakNBcGJRVEE2c1dDMThFWXNYb1BTTjJGSEU5bTItNkZySDhrWkt6ZXpz0gHgAUFVX3lxTE9TekVJanMzVDhQRWxpMnFWbl9ZX2k4WUhJY00ySUgxS0k0aUdEOEVvci0tQVdvXzRHd2NnQ25MZ0NCTnFXZ3lXY2FOMVhHcnJJdXdFeFlxbUtzU1FlelN2SDVSLTBjU3Rhc1gzSHhHLXExYVJhR19wbTRXV2EtOERFRE1ieGtUQXVwRWFNYzkzVUlxYmZYdHhWWFFsMkp3cG9KTjlPaGRQVW5UYUZoT3R1aEpHdlo0V2dxejhxTDl5cElCd1VFV1JBTTIwRUg4UFdEbkdfRjBCcUF2VGlhY2Vx?oc=5",
+   "published_utc": "2025-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

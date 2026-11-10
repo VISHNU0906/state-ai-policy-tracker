@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Rajasthan receives investment proposals worth over ₹43,000 crore in data centre sector: CM Bhajan Lal Shar..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWE12R1UzN3JXcmVhZXZfTzh4aXpRSXhxeEhmZkJ5QTFlMUZzdU8xMThJbjZIZmJiVTlpdGZkMjcxVjNJZEtEQmg5WGdzdzhmMWtycHVkenoxV0JKdHB2OGd2VGFfdHpfWEs1TjBmU0JncDdRMVRaNk1CQ3JjRWx5aUxtd1JHVmF1X2hSdy1FQzR0VkYxUlJvd2pZSVhlWFlSalhqdDRueDdUcDBQVlpPUjhkeloyQkZqRFJTX1pDM2NGV3dTd0QyUWJVU0duRDFVdDFicnFCZktWaTZUaEtaakJ0Y1NRcUtnRkw3SUpsV2l4cjRoNUV0MzFNY2Nuei1yYm9UbVJLUVlNYWPSAY8CQVVfeXFMTXdJdVUtREtDdHJTOHpxZFVUS1loUURHckJzb2p4aGJ3ZmhiYnd2UG9oalVkSHFNbDZBWEY3VWRyQk9vTlZMQUt4dl8xbkVwdzhVM3lMUXhhbUIxak5FNC1nZ1M1bGtMZmtCRlV6bW5qVjVTNlhVcEZBQVVhMENwS3R6R2ZiaFFSTm95MkFtVml0YWFDUTVmMURod2xiMldBbVJIQ3dNQ1A1dGhydjZYZGhhT0lJNVFibTNfN2NqalBCSGg0S2F2SEwwZ0k2SDhFZnhZV2hUUzltUDJ4MHptandmemN3UllfRlJ0OEIwN29DX0p4REpiaWF5ZXlfbW5ZSzE2cEhPOEtFc0lrdFZabw?oc=5",
+   "published_utc": "2026-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet Approves New Startup and Data Centre Policies to Drive Innovation and Investment",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVudmpLdzFEWkNLcFQzMUFDbDZNU3l0MldCYnB1eG55ZHBnN2RiMXpPaFVlSHV5RkliZFZ3S0kxUkstclpvbDQ3azFjMmFiS0c0dDF1Q2tIQ0V3dkxOam1VampCZnBrM2lYMThXRXlLbVZCYXlYdWdzbGlYbTVyeWhYS2d5MWw3Q1pRRW1GbmhSNzYxb0hTRk9kZUhyMHNqR1N3WjlHSUk1Mk5nU0ZKem44Rjl2WlljVjcwTU00blAzZ3pwTzFXUQ?oc=5",
+   "published_utc": "2026-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "4 States, One UT: Where India's Next Tech Investment May Land",
+   "source_name": "DQ",
+   "source_domain": "https://www.dqindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZndEbG5VYTJlNVdLWmowa2NfOFBDVmlBTE5DcTB0UjdGMmg3bnhlRmhYdTdTYVZoT1dab3BTS3RtaFF6SXNuUXlGY1dsdDhIdUhtYlpKMDdEekZRUUVqN1NMbU9tbkhMdFBrYXlYNWFDTnpmMGxjMk82dnUyNTB1MzdQLTFLWFNnSjRyMjl0dndncFlZSjVwajNqeVRTN083UTFVN2tRY0I3SEhUS19LVmhISXlBeVhvY1VSWtIBvAFBVV95cUxNZndEbG5VYTJlNVdLWmowa2NfOFBDVmlBTE5DcTB0UjdGMmg3bnhlRmhYdTdTYVZoT1dab3BTS3RtaFF6SXNuUXlGY1dsdDhIdUhtYlpKMDdEekZRUUVqN1NMbU9tbkhMdFBrYXlYNWFDTnpmMGxjMk82dnUyNTB1MzdQLTFLWFNnSjRyMjl0dndncFlZSjVwajNqeVRTN083UTFVN2tRY0I3SEhUS19LVmhISXlBeVhvY1VSWg?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Kerala Aims To Become A National AI And Emerging Technologies Hub",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTh3NkZDOWFSQzVmbmNmeWI3VjhWTTE3T3o5bGRnQmk1WmF5N01CLThCX1FyQmphTkhNOXdyQlZTb2Zyd3hVYU1uUGpOMjdhZmw2cURYOGJYaXMzWVVUamhqMTlYLVNrVmpyQVpvMEFTMjhZM1FSakdIb2E4Y1N3SVo1YmtMaHcyTFBzZG1BaFFzalRBb0E5Y3A0b1o5c2RJOXJhMHQ1N3lYVzdVVGfSAbABQVVfeXFMTnNxNkZtRFlUTEtGQmctV1NtY2NrcWEzUzBsSDdfbHQ2RmNTWE9ucW4zelh5RW5JNDZEQTFKRTl0RGM1a3VvUzdDWmpqNXN5VFdLZkxFdXI5d3hOTVRVa1RuaW5XQ0NmQlJOWUdVUlAzVjFjRVEwZlB4X1k4UVdKZEZoeVk5cWhIaUtzMG1INjNHSmxRdzJOQlFfR3JwdXY3MWp6X0diUG5tR1dPclFzYzk?oc=5",
+   "published_utc": "2026-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Federal Bank Lays Foundation Stone for New Green Data Centre Office in Kochi",
+   "source_name": "Passionate In Marketing",
+   "source_domain": "https://www.passionateinmarketing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2t3WXZNd21HN0F3WWVmVTY2MEVHVDN2S1JGd3UzWnVOLUJwQmZQTmFUX2dNX3FaNkhHZUNmMUpmcUVBZWZVX1hoWHpiZlhoY0ZZM0dDVDZkZGZkdnhBaFlFQ1dqYkFLd2w4ZF9JeUxNS0dnODg0cVM2VUJRNUltR1lDR0VINmJCV0szbm56b2J3aTNIVFVtdlBXalhsSnVvM3FPaWxibUh6eWl3VzJkVnozVUxPdw?oc=5",
+   "published_utc": "2026-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu leads in tech investment readiness among Indian states",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUUNBZTY2R3ZzMkpuYTlibVN1bXVFZFNDYUI5TUliUl8tVFRUUmdUNmZlbW9JVTBTOVBFandndUhVenNCUVlHOXBJMWNjZWo2amhqZDlEYjlhTWxuT2MyQU5jNVRpNjVUZ2p4UXFfTXpRbHN3eDdNNnZHYWk5ellNWjBUOHM4NjBJVGx5UVlrS1ozQ3htWV9lbHVvc0N3QURvUm9VbE5UbVZGaERIbjEweENST1cyRWVpcGdXQzZMSUswZ3RYaURlN0dwd1lFNEFONDFLTEVIUTRUanhIMU040gHkAUFVX3lxTE85MUFUWG9YM1E2amxzS1JoblBhaExEWThITTRZUEhlM0dfZmNET0xuUDh5S01UX3F6YU9BbmNXZGVSMjZXTEhGWG8wTUg1enM5YW5MNkZUS1pDRE5pb1VWUnJJYlJxZld5UG1CdE9vS2ZQVU55Wi1lbFYtcjYwTTlCcl8yQmRZWXVvdms5OUZPa1VtUHFIZk83UHVPWG9LVHZwRmhHRkFMVGtEZjZ2MGdzTGlMMTVWZF9Db29nUHZSU2k4MEI4WTMzUWdTWlFSaWRuM0RIdTl5VmEtMlVUNjZhVTdnRA?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh plans deep tech hubs, AI City in Lucknow to drive AI ecosystem",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM25zbldZWWxKa3lnTW5LYzhobDFNaGhoMTcwVkhvWjVlb0dIY1ZzSDQwYjh5WE9uc3R1ODhZZlF0OGhYb0tRT2dIeENMalMyR2NmczlaT2NyOXQzWk9aTmM2OUMxQ0pSMG1YSXUyRjBLVHVweVMxOU9SRThubkk0bmt5dnFHQjN1ekRTSGM2eElCM1ZzQWF0LVZxcnBCSWZHMl8ybnM5T3I0V1F1TDRURm8xMjRXWGI5YVZZYU9vZ0p5aXZ4RHdyMmt3V1BaNmJmd1NFNURWX3ZZM1VHaWxRMUtNc9IB5wFBVV95cUxNbnViOFJycXdWb0lPZkdubF9oUXM1aXY2SHdWY2N0WHRaTmF0aG9TMDkxTEM2VzBTME0zZk9ubHlSdW9qRUhWZ0xNaVpvX2NhYjZTempFMGZNT0JMVUkxSDRzMWRsNUdfR1ZpaFRnQlpHODdZS3NGRGIxZFVlYVY2YTdZd0pZaEdxb25BeHBQenZuWHc4MldPRjIzRHFjVGRVSmFVS0lfMVNEamhSb2xoS0VCM3l5bjZWV3J1alhlZjJDWkxMRV9hakRwYUVaQnZjZnR2LWJETy15WkRFankxQUtqM1E3WW8?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government removes links to AI deepfake of union minister Piyush Goyal",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU2hxVzVtR2JPUVJlemMxTW82VGVQSnpjbHYxWWh0REpaeEozX2dwUWpEdHAyYnZUbkh3b1RJU1RJZW5ibHVwZkZReXNrRTdHOHgtN2psdXVnakxwZmFxVVdoNlNTdHJsU1BxSldHSjM5TEI3aFVhY1kyYkM3cHRXM2QtQjZpeTItZ3RNdG9jbkxrZkxGbDBqV3VTRXZPbjhRTFViMjNWZnM5Snd4VXU5VWMtbmhoOFlPQmdlc0RKX1NmVzhCeXVDbUUzWkoxaHNVMXJ6SkJSQlJXczktZmfSAeMBQVVfeXFMTjZqNGUzaDFIV01Rc2FmV0tXOE5RaGg0Uy1IYk8zQkZXMmhDMTk5aG05ZEFBbmpFcW1ZNWowbTVBczJ4QUZEcHhpeUQwOHkzUW1rUjRLTEpRV3QzbG10Rmo5ak1DZExhNlh2cGgwMm5VT1l2cDlIcndqTEdKMDlfbmNUYnVRSndMOExObGRfZGJ3c25ZRWwxOVlJamVrVnE0MV9lSVUtSGctUENDNnZibmZBcElFVHdDZlNrZkJ4Ny1xOHVpWFZPS0loaDZGWE5HYmJuN0VRTTJIeFFkcWxxQzJERmM?oc=5",
+   "published_utc": "2026-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to roll out policy to expand tech investments beyond Bengaluru in 100 days: CM Shivakumar",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV1V0Y0JfaWlGa3J2UDNsRWg3ckRldGdEM3hvM0Y5V3VqNDBZQ1dReVdZUTFVNUtlVjJxeGY0c0tOMzZYaFJXbjk2Z1pIZkE5ajVydks2WkRtS0tVdF9pNVM0Zmg3THdLZTR6RllTTUtZSmx4VHdOX3lSOHBlYl9BMklQb0ZNVHdVTjgxR0FZbWVGUzg1NHBISWpzLW54SHRYbThyTmFDaVpQU29rcmFVeVdOdHJERi1WN1ZxamlYNmxDdGZ3Tm5XOXIwaEhaVW1LdTRGVnQxTk11aVlBUlhDMzJHT2N2UjJFOFAzaVB5amVsWjI1REVjRWtHWFFwVzFNVmfSAYYCQVVfeXFMTWlUYkFKMGQ4cEtsRm04eUZnWkRYZzRuTVFScHBvVEh0RE9SdmVFZ2dzbFo3OTBPV2ttVHFnRk1fUGxIN0hNbDluR21ZZml3YVRRZFJZM3EtZEhBZ08xV1B3NWo2aDZJYl9VMmhCUFhuNnNoUHF2R1o1RUxwaF9NM25oYWZ4Z0kyN095b2UxdUxRMXpDMWxlNFVrUU1LdWlZNzVUN3F5VjJIOUFudGlzZzNiN21rOWF4UV9fNnpVcmNhVDFCWUVCZUNpeldZX3h0X3ZtWVZSNDhCXzU5Vk9BSHlzOWhfWUFLcG0xV3FpS2R3TlFWMlVzSUFfTU01Qm1MMzM2TDVhdw?oc=5",
+   "published_utc": "2026-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala’s first AI data centre to come up in Kozhikode; ₹1,200-crore IT project planned",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWm5RRl9kYmlvZHYxTGo2VUlEX2tmVXhkX1dlTWltN3FEb3pBdHVqWkRqbzJzU2RpNXZLejJJSm4xeVVCZnVEQUZQLXNQRWEwWG1neGFOS0FNRWdwa0NWa01PZC1DTW1xUHlCLWxtd0pHdk52bHlNYzFoc0dZTmtzaFR0YTI1a3g5TllWQi1ZZlp5UnlqbkNSenA1X19EMXN5YTdPVUYycEhReDBYY2RJVUMwTWlZTjJVWUNOOWJRa1BVOUNkdXRsLVNSS0phMlk40gHWAUFVX3lxTE5qTWtkS1Z0UjhTelRBUkN2TGowMWhPZEtkelRxanRLTDFkRGQ0ZTdwRy1aNmtFTkF6NGZhVjBDTVhQN2NtMlBadUJ3eS1zcnVrLWtYdEgyUVNUYkUyN0l3YU1PU01KTmNqanpvT081ZkViQVY0VlVnSXFmWlVZN1luVXF3ZS1QckkzN0M4Sm56akxrbm9yY3hya0lPY1BCQnRzQjE3UVcyRWlKSHRVVkJ3d2FxdVV6V3RwTE1VV2dONHc2a3dLY3VSOHZkZ3JGbndhdXRoMVE?oc=5",
+   "published_utc": "2026-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

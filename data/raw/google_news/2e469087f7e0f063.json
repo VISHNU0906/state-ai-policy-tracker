@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-06-01 before:2025-07-01",
+ "items": [
+  {
+   "title": "A.P. Police will make extensive use of AI for crime detection, prevention, says Naidu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNME5xeUFzalQtdUtEV2FTRVJUNU51Qllpd1RXLURTcXYyRVRkdjhHaDF6WWpNSExiWUJhVmpScmRIT0VUcDFaSEpVSExLMUJTdTRRd1dwdzc4QlY3aFE3MHZXTUYtc1lpRThaaWtkRE85WmZCT213SFp6UHdPV1JITEpCckJPOUczNS0yTmdMRm9jQUhiUS1Lb1hWZ2x2aTN2a3BYeE1IWXdGRUVXS0p3UXZTOXA0SHNLN2VsNEVvbTlhNloySmlPamhMam9HdjI5cGFwWHotR2Frd25GTTlXTG5qNHRpNGt0RTU00gHyAUFVX3lxTE8weFVrVkpfdDd3Z0JfSF9CclFjeV9BRjJFc25hY0ZhRjJuYU5zemVicndBOHJGM1dfTU8yeDNXaDQ2QzFLUDB5NjVLQVNyZ1N3VjVrQzNrcERfdXRYalEzT0pQNXkyeU11algtT0hadWZpSTdLQkRiTWJTa0ZxX2dwNVNPbDVsYzVxTDE3ZXBldnNFUUlvRFg2T2JrUUJHX3ZvejZ5em9nUHRCRDFJVVh3TWlHUVV2T1RydFpvaHVjVzYyQ2ZKYVNVWnJsRG5FcXpWR2tfRVVrem82RmEwc0o0QkYtdDFRUmhqM2Rabk5HemdB?oc=5",
+   "published_utc": "2025-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Quadric IT Wins at AI Hackathon for Police AI Tool",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHJHRmVwRDhsRnB0bzJQTVpsYlpocW1oYzk1bi12MFE4UHphdG5lcHQxV1AyaUZlX1JhNFgzSTFGU2RuS1RxZWtiNUIwVEd0SUpTTEhlT1NGd2I4dEE1UVMyYzZsQlNoWVdfNUtPZkVsd3kyOElLbURtUFFkMUkwdWRVY2lmUWtUYWlLLS1OOGZxUXVZR09DeVo5dVBnNUM5ay05YlBqSjFBSXJkVklqcHRIY2JlSDdnVVZfRElR0gHDAUFVX3lxTE1NRGhPTkwtMDQ3Umw5cWpJa3lNRUdfS2xiZUVUV0M0bmRHYUZBWXhGdFZLQnNlWV9vVUxBYkRvbTQ3cHA5cm5IVGdyWVpZamtjTkxOVkl2U0VyTHVEbmdzT3VTVjdEZGhWVDhFVkY5QXJ5TW5TLWN6aXM1NjN2ZGZDTTFwaWhHUDlrZWRmMXR5X0ZvN2hNR1ZlYzY3d0NjU2M5YWtoUXJPTGFQQVRGLWpiMW9JUUhxVTNYUVdEYVVldVNwYw?oc=5",
+   "published_utc": "2025-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra to leverage space technology for real-time governance",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWFZbUZjaDN1d1g0dVlUS1RzMEhNNVIwWjh3RWdEcFByQ0p5Mm56V0JpUjJkdTdiQWhudXVPZkdCTUYxMVZMa2U5SE1BQkVRR0ZobjJydl8wY3duYWExdjBZTFR2dURsclgxS1FBYjF3WWdURHBWMjhEX0otVThzS2ZCdkpZZEZIVUVqbk5GRlpoeVczck4taVpZTUlDbk14NzhiMjRCaVXSAbYBQVVfeXFMTmRodFRUUjFSMUQ1OVFoNm02WU5aMUpVSkpMR2ZEcVlsaXcwYXc5WDN5QkZXOGptOUpHUUdiQXJadWhvWk52NC1GOXV4bnl0NXMxalpIM1dDWW12UnYwX3JoQklpTXEzbmZzLWJOdVJtU1NQZlNoU2d4T0tqbllKdXhvajJMaDBZajdZYjJYTXVXTjFQS3BKVUMyQW9FUHY5by1pU3BnOHZEdFltOGxURHNwWVRSWVE?oc=5",
+   "published_utc": "2025-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Chandrababu Naidu to inaugurate Andhra Police Hackathon on June 27",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWU4zYnBqcHNCR3pqYVZZeVEtOEJZUU1IZERfcGl3Z0dYMmJ1RUl1cXBVUEUzeHVrUWhhbXRvT2N6bzVpcFplUGQwT3ZvaHZUdTVCNnBETlBaYmpGTWg1c25UVlNhMzJIeFluUXFWcU9BNU9Bejdhamc2YkZodTRQS1BqTUo1ZDlreVZBZU1nZ0pGMlBqTU84aWFycTF3bFpPLVBNeU94NW9Lam85a3ZadXg3VS1ieHpSUm0xbG9mM1ZPWmV5V015VkZPQWZ3RFFKbUHSAd8BQVVfeXFMTk1jdXZIcjRFYW04Vnl3c0REZEFieEpUaXdUSlFTY0dvNDVqeHRPU2NZUWlyemRCNnlUMjQ5MG1xUlFfRFBTR1F2X0dLWlAyMENoRDZuUUd5TzZnZXkwa20yM0F0WFlKNUgxbHdGTndUR0h4SnpfazBfSzhib2FWcHJXT0ltc2lGcjZKVmZBbmZUbXBHWWFKRzdPNzJtTkVZVC13OElKa1VMd1dCWEhoWUtDSFNReFZOclFwakpLVVN5a2I0YkYxWFBlTlZERWQwVGV1Y0hQcXZVOEc3Um1ibw?oc=5",
+   "published_utc": "2025-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh minister Lokesh unveils bold reforms in education, aims to surpass private institutions in",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPR3I2bV9lTHdFQWlWTUNXQWlxTGU3MFJoZzZYc21rck5sQjRqYUZGZWNpcWxYRDhaWEwyQy00U3ltWXZtX21kRVdZaC1RVzN0WVl5YjFLMTd3QnpWVUoyR0xjRG04NklLT3ktMVBzR09FZ183SjZtc0paTEdqbU1SV0VzRFBaZ2FUZ0I4M1B3QjdGR2ZIejAyOVVibGhSNnRWWUtjbFF0Uk5HVkxEMThJYXFoMzhDN1h5c3BMdWVSckh5RVBnVVBOcmlmM1NtQV8wUFE2TmVIZ1RtZjU4UHRsQllWVTJBZTFHeEZUU2F0RGdkcXpqRzRIbUJTNFU2TnhaUzdZMzZPUW1ReHJVVWFWbFNvdndyRlVFQVHSAZ8CQVVfeXFMTm1EUVhaUWJjazVJakdyUlRrYnpicDVmN3pvNDFFUjFuSjlXYmRwZjhQd1l6VEdSUXh4aktpYVFXcGpoczQwdlVlbDlvZUMtVUFsM09xWmlsT0prdkZZMk9OVjliQW1zcUdXcC1WVmZvTG5SNHJPdW9DNTRLRW5xYWRrRFh1aG8tY0M1TnhZN1BrcXF5bUZLV1lvOFIwXzlJQU5nWnZmUDFXdjJXNGhMNGV6dHBaSTBNdGVNV2RHaURuTFNTXzdncjhrUUFnTGZreXJ3bVRleWR6VzB5WjZIZjh1WDYzNnhSY1Q4Z0xpZDdyQTNlSWp4UGk4Unk0WnNZSXVHeW4wMW0zd2ZuODVUT18taHpYRjJUbHozZTNidkU?oc=5",
+   "published_utc": "2025-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-powered Assam: Transforming Governance Workforce, and Business Ecosystem",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2N2Zzg4VnM4bkxkaGF1VGZyX1p0YTd1NG10ODZHdW5aRVNyUVVZTWVrUExURk54dDBGVFlrUW9Qdm0xQ0pQMUFpZjNSV3FQcG5OUU91bUk5SDNoczV6bjZOTGdDUjFPVTZjT1pnbzFwb2FzUERRdThnSGd2UXlaczVnMzhETnFHQ004SjFBYzZKVEF1NVZ0aWJpUlVvVEkySXNDUi1BV2VYZlNTWXgzTXlnbw?oc=5",
+   "published_utc": "2025-06-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A.P police to hold ‘AI Hackathon’ to tackle policing challenges",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3VDNHR6MnVicEZjeHJJQzdwV0FmMzZPVW5hOUYzRHJUVlNOaUNhWlNyc2lObUdacVJrVmM4d0xjNjhrR0sxZkpRYW94UkdZSWphcXBQR1NFOE9jUlhWVWpxRkZGVk9sR1hDZ2ZTUmhUUWlOanNBZmlEdlV0bFNHUlhVQ3JtTnVEbVlvNlBOTkpoMWgtRWtEeER5NjN2bW9VbHpDVmNmM0o0TXU1TWF0dVhIOXYzdFhPaklSMjIyNmk3d1F0bFZQU2hEejVHUTjSAdYBQVVfeXFMUGFpSmRyRVg3MVV4UEFBeGF1Z0J4VjQyTUM3SnM3QjVLTWF4OURVMTR0ZHhZRGlfY2tqWlBUcDIza1dtS2I3UnBuZnFTVnNKT3lmMVRGUERsRkQ0VDNlMFhWa3J4R2t2UzVqSVJSYXEwVVdtNFFRZThRZVhwZEZKTlRScU9hU0lESnE3cENSR2REbjdxQXBxdEY1U3NtMWtxZExSbW5pSk9pMThyWXprNF9qdlBEeGNyY2NWbGFBdGN4UzVKTndRc2UzdzY1YTlwd3p1YWxZUQ?oc=5",
+   "published_utc": "2025-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Geo-tagging of all citizens by November: CM Naidu",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3RyS1VOZG41WFQ1c0JaNmwwMEhpWEZHWWFwbnpUUG1JRjk4SHZLdEhSV2thZ19BZGpYVlMxTFVqWDFXVzdkMkEtUmJHZDI0SzF0SFc1NEs0WkVfOGU1VXBsZ29yNGJ3ck9iUXBPUmszVUtHRlNwSE5ldXJhV3NfRWNpaS1TV1pHSEdWSGM2ZG1WV3hLUEYzR3FMYWtOaERxZ0xNTVlTOExKME9zUkdLTlpVc1pkZ9IBwwFBVV95cUxOUWJpaFBhU0xOeVBmbVktMXNsUjAxZmMxaDI2R09lUkE1OXVpR3JJLVl6UG10UzEzZHQ1cGU5cXhKRjd4c05BUC1wWE1mekwyTTJCcXcyX0k5RFVZMVl1RWc2MmNoblU5RkswQ0VBNDRtekRGdWJSanVTVkRfWXMxbzRuczBQVWthTFN6QjBZUjFBOHJlSGJsTGcwRXJZRm9VdE9rUnNQNC1FT2NMWkpJMlJKcktnY0JWNnZZOTE2QV94Vk0?oc=5",
+   "published_utc": "2025-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajamahendravaram Municipal Corporation Introduces AI to Improve Efficiency in Its Works",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdVZzX0ttczFUSVQ2T19XY3pEODJaRVBfX2FmU3pIMHpxcl8ydEtEMGhkR0N6eGRVa0xOYkx1c2FFMXlGUWxzbEpPM1pENVE3TXlYRHg4eXRNamxkQ1VLOXUzempUN18wTG5oNHBxMWNEVHIza1hkTXBFNW9HakJoX21yR21TejB1eF9pRGhGb3Z5RDFlTGVrV29xX1NsZ2V0QjlWWHV3d04xT2FSMmYyLTFDejhmMkdkUTlZYjJlNzBIVHk4Z0wwVkx5UVJ3U3gwNi1ZQUpzU3BSR25iZ0YxaTktQUNKajdfSTFZMTB5clbSAfYBQVVfeXFMTmZWOFZ1Mnlqd2pJM2RXTnViNllPRGIyMDVnWkdUT241eTRzazZqbHQ1T0NlSlFOQWhLejNpckl3a016cDBMejhfUTdtaVlRMk8zYlZIQ2RFeEs1WEZaajF6X1didjVibmdKYVlRc2tLSGY3WEVkZ1JweXhHeGU5Q3pmczNkaklvcE5pb0FTdGJHMHFOT3pick5PQzh3ZERBVmhmUFRsZkRab1FhUVpCRTluQkNseFdseTRBaFFkSGFHeGRjSUFfZ2pZNkJfZXA3M2tVelBIMVRSZUY0SERhRUZZVEVnRnhyd0tQTHVIaDhNeVdqNTRR?oc=5",
+   "published_utc": "2025-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NTR district set to achieve 100% CCTV coverage, first in AP to meet milestone",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMjd2aUNJcXdZSFVxelBlbWpRQ1ZUOVhHOW5wcTQyeEltcnp3amlYMjR0SThWTGtBV0tOR3k0bTgwN2RkVEVyVUthbTJHUGhSZ3pHenVITGFvOVpWZlRmdER1akxGakg2R0FDWXhKQ1VjeWRYZk14ZEJQZkdmeUV5T1ZHQWtUWVJmZmpoS01rNUdWOG1qbVBvTENIdzY0YW8wSUp3RTZpYUdRdjRoMXVweVhCWlltMGNwNkNjSnV2VGVkZFdnMFB2dzJ5VE5zRGtzVFlvU1BqXzJKZ9IB5wFBVV95cUxNSzVYR3FWNzgxeWUwdWM2bXcyT1R1S2YwQ3JhZzRxWFgyOVl2MTNFWUQwbGRWX1hxdzcxbzJsaEZGOGhKTmVNNDR2ZTRSazNpbjFtRC0zWTZGV2JKQ1htcktfLV9kWC02Ykp6eDhWNTVnS29GOU9ub0ZDNllFVWdjaDg4RkJPVXNCMU43MzM1U3NDa0RDQ3hHV0xiMDBZMjE0dzhnb3p1d0tNcjZCNkszTGs2MDVLWFlZS3VwS0hQeVhzaEkyQk1SRHA0VHVGZVo5VFBCNkJNaVpib1lVU1BBdlFUajc3NHc?oc=5",
+   "published_utc": "2025-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

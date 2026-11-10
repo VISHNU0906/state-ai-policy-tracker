@@ -1,0 +1,29 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "Destination for data centres",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1U2ZGJrRE44TlVlTmRuem8wS2xxTHJyWjNFYkhOQlNPY0ZwaFF3M1A4VDg1XzJFbC1JZENZTDR1WDRJY005SzJPdW03dGRfZ3ZDalJySU91Y0dhR3JiN3pEOGFWMlBUNGt2NnpfX2RlcUEyRUlzOEZzWG90TElGX0xvTjM3Qm9CZmZRWmlMX0RvU2pK0gGiAUFVX3lxTE9sR0YtZFhmbWJLMFB5UjlpQkc2eHR3VGdLZXl3ZkhtT0dSaFFwMmZHZDN6aDNndDRNYWFqWG05RENYQW81NE1PemRPenFwUjRDQkhxbTBZTW9DQzRNQ2I1UExhVng2XzVidk14cHhQZFpOX1hkaWEtNDNiaWxuU2dQRURiU01IcUNOQmxYMU9KNkFDdUhuU3ExUmoyRDlBWTF2Zw?oc=5",
+   "published_utc": "2025-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nara Lokesh for $100 billion investment in data centres",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2hhY3FnNWh3bktJcGtpaEFYbVhZWV83clBZTEpLcTdYWEIwSENXVXZBWF9ONzNqTmlYbElDNU5ZRVJPZWs2YXRJYmNta1p5YUlCY0pCX29WX2VnNW95UTE0T3lDaEh4cW9nRzRiRWF5VmJYZi01V2xlcXk4VVVTNFJfbVpzX0lz?oc=5",
+   "published_utc": "2025-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft to set up AI centre in Telangana",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSjVtT2t1bHR2WWptdUlUaEk2V21QRVdHbXk5QTI4VWFFeDRvb05WOHozeGdEeE1wWEZPZU1WaWUxV2J2YXRfb0hjOS1SSFZIM2xTOUwyTFVmamk1YWhvRGVrdk1acVg1YUFnNDE3OTk3T3B4RWd3bkkya2N5YTIxandIVFJESFJaR2hPZUM3azI1R1hISGw3dUhXQkFnWmxtRnVKSTUyQdIBtAFBVV95cUxNa0xYOGxwMHNNMlB0bFh0S1l3bXlZM0xPeW1lX3M4aU5UX21DUGdJaFFpbDE3UEYwQmR2b0ZvTnRGMEpkeVZSX21WQ3VHX0xpMUVDQVVlQjJFNC1KaGFfa09VakhPWUszOG1wdmVDenpYUXhOdnJjRGgtb0lpdnl4VkJHYjRLN3lmc01GOVFJZ2hZUVlTdUQ2czdTQ080UVVzdGlBQThPZW9UdWVqY0lPYW5mTGg?oc=5",
+   "published_utc": "2025-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

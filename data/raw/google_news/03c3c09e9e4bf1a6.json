@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Techno Digital launches Mumbai Edge Data Centre",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WdkFYek1nNEY1V2FsWmdSVW40czR1eVhqR1lyLWszbnRJV25ZX2FaUE91am10bC0wc2ZUVE9VdVBmVFFuWkNOVUlrUG9iVEo0MW94UlBQWXNVc1pWV29uaFB5YVU3eDRSZW9MWmZzeVRNaE9FT0lPOU1XakNPUQ?oc=5",
+   "published_utc": "2026-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

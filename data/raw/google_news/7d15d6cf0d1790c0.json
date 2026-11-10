@@ -1,0 +1,77 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "Data centre with focus on e-governance, digital inclusion to be set up in Jaipur",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOEM4T2o0YUpWWnJVYTl5eXA0VEhmNnU5R0ZtbThaNW1ndXEydVNnRkNHM1Q4Z0trem1zcXkxNUdTWloyX1MzX0FXOTRhZDRrTG0tUl9wak00SzZaakFFSVI2MGtOd0UxLVFMc2s0amhzX1d1czhfcWVRQVJ2VnpTR3hrQk51aTdGN3loc0ZQYVhfR1VGVzRYWUY4akVYYWR2bm8tdnppcUZ0M3ExckZHaVBhbUpJbUFVUkp5OG9DSWh3SjhHaVhidHVydjNVakY1M1FESmFnMmp3LUhBdHhoSDFR0gHoAUFVX3lxTFB1ZHJhYkdpaW5lS3hzSU1lR1dZT2JiQVdFRkJhSWlOdFdFbHdSb1lzbjUtRE91U1N3YVpwdFMyMnhVMFRYS1pHTlV0clh2Q2JWSThHNFZOQXpVV2FpU0toR1Q2dXhQVDlnX2lzNG01VnhQalZaVDJaQWYwWmdkVmhiNlFRTDhmS3J1NGt6dzU0SzVXS21UX3RHX2VWclZ1SF9peFUwOHFiQVowLWt5WlFXTjZEd1E1YmU4Q3E3VU5pbmxlcjNtOUxuTzJHSS1keWxoVEphbXpPazA5THpjOTJudUN6WmhxaDQ?oc=5",
+   "published_utc": "2026-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ai Data Centre Focused On E Governance To Be Set Up In Jaipur - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzlBS202OHA4dFBLX1h2eHZwX2ViOXJ5cjB6RjFnb0JRZTNsenlETEJ3OXhGOEdZWEZ4WEVLRXg0TngxU1AxMWtmRFRUcW1ycUdXVUV1UXBnRE40eXBBc1ljOV9QbDVDVEp4OFlCVjlOelREVjVGcDUyMUpKajMtTzVGRHVUdnBBV04xeGhjUk96ZUZSVjZkY3ZMR1J3ekpVVDZBWlU5LW9JR1llODJoU0VUOA?oc=5",
+   "published_utc": "2026-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan bets on AI & ML Policy 2026 to carve strategic role in India’s AI journey",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXJTVk5UQ05BTklHaHZ1M2p2UG10LTAyMUtaTlZfWGRTN2dMa1JHcVVNemxicVJfSzd5cTlPMG4taklWcU1qT2lYMG43S3VxdFE2MXYtazR1Rkp6U1ZrSnBoNWhHRUJCUnpwaDdROTdXWEd4dWVYZ1pwNVNxWjF5LWVKb3h0Zi1DcWQwczJ3QmZUamY1enhycVhVUkNRMkFVcmRWRHVVWlBCcUROcy1TaGx1dmNGYWhUUTNHdVhjdGZ5YVQwYWRWQzlYei1qUjlqQ1c40gHXAUFVX3lxTE95dWZuR1Vzb19ja3FXbDViXzQ1YUFQTW9va3ZHVEwzb3NoMVlva0VDZWtIa2J2OXE5TlVTQWZnUUtjanhlQWdxcXhKeFoxSEgyUElxdG1ZVDBOZy14RXdqNXRrS2xjR3lnLU5rcHV2clVXdkpFMFR6ZlBHRmJ6MlpTNW95NHhPTThSXzQ2cG4yWGFYa1I1LUpXeGZwSzRURW5qZU5UYm8wTXBMTk1yVnFCZll5c29qcUdiUWRXQ0ZLYXBqbW44bDVCaXVIUGZNcVBwdm54WTg4?oc=5",
+   "published_utc": "2026-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's Unlikely AI Powerhouse In The Desert Sands",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1FSb1EzT3pzdDUzZnpuVElnQV9fYXJBSWJYcC1HM2ZrM1RFQnR0d1Fsb3JXbzFua292b09TWUlpTnVpYWo2MFZUVkNNZEtxdzRkdnVJVFdpOWR4OUR1YTR5a3RGaVQ1TTFCRGhvbDlPV1FaSUdQalFFb1JlMnNwLUxuSzR4MkXSAZcBQVVfeXFMTVlCY1VEMzN4Tk5nVnI4aEFPNkJvREJWck5QSTllb0lTOVY5RlNESDdHc3BwR1ktbUdLTVh6eXpnUTZ0V2ZfRmFCbGtIVVdKNG9LXzdMZmJXTU9yZ3REN2lXR1dqaU5ScU9rSWFSOHVIdUd2NnU2bkZQb19uRnBhMVBRWmNpVmE1OTU0Q1dxYlFsc1BRZ25oQQ?oc=5",
+   "published_utc": "2026-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jaipur gets major data centre project approved: Union minister says 'Bhoomi Pujan' soon; 10 lakh youth to r...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYmw0YzZhaW9TQ3o5TUM1ZU00aHhGYUhtVWd0WlJ2aXJSbEd0MzZ4OFpLOG5wb2hBY1VfLWxpNzJ5bTlHTi1aUEt0X0thVUpuQ1dFLXFOYkgxbVEwQWFwUTFZVzRFX2hUSGJZTThlV0NVSkpFcjhMY2hodW9FZlpNVm9OY0lMZ0ZfNnBNOTVxdXJHU3lodHp5dlJTcWRoYy1OT05SbGpJY3Jjb2VxUjd2bk9FRzA4dEE2OW9HaVRIb2tDT0N1NlRBTU5Uc0tDY3ZybVF1NmFOTklXUmxtSF91WEVTSVEtWk5Udk9uZUkydWVjV3BsdzctamtnT250SXdqb0g4YVJ5WjVEcEJnZmxoaDhtQzPSAZoCQVVfeXFMTTZvZlllREZmTlpoV0tmZTNlRGU1UFlNS0dBR2N1bU5JV0hSSkpYemI1aDdzY2dHSGdXdmEwZGxvcmtzWHhZOG5zMWlqRUZwUEx4UDluRU1QUTVibWl3QTRhc21wSkRBYk44Y19zWGM4WkhFSW81dVpjYml0eG5iOENpamdXbDNXamdnc2dOZUR1UGdaVGVnUG8yVHFtQjZ3VjJ1d3BIQVRSTUE0dktQQnhaUFdFNkRsaEZOUGRQNXp4ZnIzMFRiX3pKak5pVWwyWjItOHJpbDNibDBSMWE2ZjMxRU5tdFk4cEpSOTRCTnBTamVXdG5kbjJQZ2dRRlpQUDQzYlZWZ0NRNTdWNkxKbFAycUYwaWpiYjZ3?oc=5",
+   "published_utc": "2026-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No Match: Rajasthan’s Push for Facial Authentication on Pensioners Leaves Many Behind",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVlHWUx4eFUtR241b08wTVkza2pCZF9RdUNROExNVGR1cVJCQzlaUUZUVnR0V0d1Qi1yWkJNSjVmbVhVb2ItLXJfQkVXTkRaYVBIbko1ZXljYVh5MGFoNUl6UWpkN3g0a05vRWlIZnBpT0REdVVqUmtFeHhWVGROVWpmNlRjU3c5Vi1XOHBLdVViMmxnZ2pCM19MWkZBUVVfMmxyeTFyN3FFWUV0S2N0dktJeTZidFVxb2JnRGRrU0TSAcYBQVVfeXFMTU5UVTBQcDIzMUZncThyVExwRGNTNkRha2RqQ2VFNmpud1BtLUY0SDIzLWgwQUNZWFc0TGFQXzd6NTM4Q3JfU19obC1lb3MxZkUyU29NWGkyVTctVXVqbktENUVXVDhjNkVId01VcjhFa0VnSDRVTHRmUHFYWFlERkE1TGxoZklLeHJnS045NVN6V2NoZWFpLUlkb1hISksyVnhsVU9aeXBiNUtieUlaOGEwYzlGZEx3SGQyTWwwSndWTjVEUGRR?oc=5",
+   "published_utc": "2026-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jaipur to Get Mega Data Center: Union Minister Announces Upcoming Foundation Stone Ceremony; 1 Million Youth to be Trained in AI Skills",
+   "source_name": "IT Voice Media",
+   "source_domain": "https://www.itvoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcHEtM0FRcjlYd3JTellXYl9pa29WTFdyVkxmVjhzdzUydXZYZG5ESkZOOHJqYVlYOG05T2dweFBTRG40ZW9jVEoybEh2YXpBNmtnemU2aDlOd2p1Nmw3eXpyRElHbmNnWTVMeVVIbUcwTkVtSGlZNUZDSmctMENSNTBzNzB2SHloRlNIQXpxSzg4cUZUVVk4N0RSYTVFSHVWMHlTMEQxZWNyOVkxNGNkb29nMGZOS2lvZ1JjSjUwSkZ5T0Z5dDhIV0k3UTBlOUExbzRnaW1SRTFTV3liMjNMTnc0U3JOQ3NOZzNYUQ?oc=5",
+   "published_utc": "2026-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan CM interacts with industry delegations ahead of Rajasthan DigiFest–TiE Global Summit 2026",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQlk3TWJrU0h4VURlVUg5cWkyOWEtQ3VZZnpVekFuUGtoUjNNV3huWVppaERrX0NGZ044V2lRZTdJSHF5RzZ6d3pzRTMwbVVEZ2RSQTJYQ1V4TjBVY0xrek9NWnBma0dHMHZqTkY2Vk9UYUhIYmFiOG9fSjVaeEdsdERsXzkwRk43ZU1aZXc1WkdxWk5XeFE2UjN4Y2pBSVNSNjFJazVmYVZuVURaZ0lLdzNrUkF0QnJ2b2huOG1jNWlQLVJxeW1pZXlDaEhiTVVqTUVWSDBnYmNrS0lsRkdQNHJMM25nd29reWhSTndQXzU1cnVX?oc=5",
+   "published_utc": "2026-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan CM outlines AI roadmap for Rajasthan at Regional AI Impact Conference 2026",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVRBR1BLaGgyQ3dZNElZbGdDaXVDajQtNXNUN1VqNkVwaF9DTFJVZjJ0T3RMR0EwS0Z3S0xEOUxlS1VfLTV3c1VCczJuLTJ1clFIWm1XOFhCUzhoOG9ZYnQtX25iLXkzalBXS093VlRxbGViSGhnQTdoUk9YUHd1NzZVU2lRRUZEV3JMV0s0R3NVM2RHaDhWR3NfdXZseTRvTDhFT2ttRTlYNHE5QjY1WnF5N0VwTy1kQUc0SWxxRGdiMDhHYkRKb2R6eDkydzJXQWw3WmJsTdIB2wFBVV95cUxPTDFhYWx0MWQ5M0N4eXhJNlFxTE5LcFhhVjFjS1ZFVlFfLXQ5MV9kZ211SXdtdG9YeWd6RUZuRG1hbFo5SWtHeG9jTzMzOE1hc3hrb1c2U2NVX2FfNFF0Z04xTE05NFpWa09VUUhYdVVEVzdtMnMyejR6OEVTSXBPU2dkc25fd1FjNVRYRTAyTkh5OWl4WmUwYm5RaDVCNEhwZFF1TV9GZnEtSGRaWW00M0lQWHZWSEl3cXhrWFJtRVRMLUt3TnBRMkEyNm0wRnJjeTd1UlI1alRHRDg?oc=5",
+   "published_utc": "2026-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

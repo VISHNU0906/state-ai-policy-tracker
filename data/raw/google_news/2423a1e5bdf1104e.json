@@ -1,0 +1,101 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh partnering with Gates Foundation to drive AI-led healthcare reforms: Health Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZlB5eDM1ZGxSZ0hRczFhVDR0dzljNTFDNS1qdGNuQmx0SXBTcmRWZW1XbGJhb3FKc3Q4QlV2LVhNenhCMm1vUWJjTllKZGh0VDI0V2NCZTVjWENXOFlMWUhMbDgxRnJ5QnFHTkFjNFVfZkNWQk5Vb3RRQlY2SW8tTnYyZm9lQnRWWGdtZHBkWTRHb1BfUnhtbVI2c09IZjZHOUtJTmFnZ0JYUHZudTR5a1o5bVUzNVJkczN5SmRva1ROdnpOT3d4d0ljYjUyNmktcjB2R0tlZ0N2MElfT2htNFQ5NlNGZjZEdzI2SHRwRDJjQ2ZkemFTYWFFcXBGTW9idlHSAYgCQVVfeXFMTVd1a0ZOWE1SODJRZEFjZVJITTdqNlVmU0l5TzNhZDlOUkM4MGdlakxxeF8tTXViQnI2ZDloVW9ZcjVWM1o4anYyX3dHczhzRmlOZVRMNUxnNkpvRmx5S0UzZHpoa2dUOTR2TmJYd1RHVFAwd19lTUM2eVpGNTJjMXdGUFk0NmUwTjJXN1RuT19uTjV0MVVwdTF2dWN0RUxwLUtkSjRQeDlrUmxkekgyT0xTQnFZRkEwbW16bmd0dklzSnhDMnZ1aE8waGJ4a2k4ZDVYdHNsdkpsR1BleGhxWlIzc3Q1NjFBdHFjd2tlb1JUUUl2clFfaXgwc050dGRVNmIwVWxlMURw?oc=5",
+   "published_utc": "2026-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra inks 7 agreements at AI Summit focusing on education, skilling",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONUNvcTd1RkJLSHpQUEM5emduVGQwdzAxdmFDRzNqbU9HWTNVU3V2U1BMcUlxSU1XZ3EtdTlubm1lVlBIelJpRzRnMTFkNHJuUzB4bXZLN3FzZjVOd214MVUtQm9zTHBWcGFfZFFFZkpxOVlRZ2ZrYUw0MzJqTk1ZR1VkclJHNHc0LWVXbTJITURGdGptOUJxamNDVmpQT2J2YnI1VGxUZVlSdUlRbnY3TXB3MWJuRGR1aGpfNWtZbkpTZkhuMjkzZDJuajF4c21ITXJJQlI1NGZYdElFeHNPbFBkZ1JPSkloblhmbEJwcjlBYTFn0gH4AUFVX3lxTE5tU2JONVFKUEtET2pFdkxZa3NiU0xVMXd2elZLYkJfazBsVG1wT3ZKZzYwcHhJSjBLdElya0ZkZG00MGpUY3I3bHVPOHlzc3doVUJwbWZFQjJ1ZVBWd1QzM2dzemtwQVRMbUItTXZkVkVhVHFiU2FCcEw5emtnd2RRUlM4WFVQbHhGeV9nU2N3RUdGRjc3M0ZGQ0ZEcFdCX1kzekFaalY1V01NaFRZSmVIdTV4T3R4V0ptci1hMUZwajBER0l6MTlaWVBKUEVkLS04aXFmMkFTUEJBZDdVbUpvRTB1bnduWEtvcmp4ems0QjZ2UzBmYUY5?oc=5",
+   "published_utc": "2026-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIELIT to Establish India’s First Dedicated Quantum & AI University Campus in Amaravati",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iY05nbmVtRzFLTEJHX05oYnlvb3Y2SUEwQ2NHZ0h4d0wwWmQxRHFmaXpmZmxuWmR5QTFQamN4VzlOZHEzZ1U3VkFJOVVtRXM4aU0zdXIzVVkzQmFuN00yLWhwc18waUF3?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bill Gates meets Chandrababu Naidu in Andhra; AI, governance to focus in talks",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMENiLUt1SW9rRDh0ZlpPbWhXUmZMMmo1ZVZDZFFxSHdNcG9YcmRGVkxNZ1lLTlpIYy1ZcVVrZXNpQkZrSDAyNjIyczRDUzNteThtdjhFYzYtVTIzbnpBY0pBV2JzZW1hSWozTEk1eFVaVk5CMlpVT3gzSU9FWmxQT3J6VU1hNWRyV3F3MTgtZjlwN21MYU9iVUF4aktMX0Nvbk1MVENJT1JSRWRrT2M2cDRlaXBvNGtKanVySHdhOHViT1NULVBTUWFTUGd6R3huNUZ2SjhJZXI0U3NuTnBVd1dMTnFyRmVNTjhrc19iTXZ0UTVTRmJEYmpTelE2LUt5YzZBeTB3MUVUbVhsYWk1RDVVanAzYVZJVFHSAZ8CQVVfeXFMUHE2Y2pBT3hCX1FsNTFMQnJwdzl6dGFrS1ZweldTcFlqaTRiTHNyM1UtRVk0Q3VtVmhHZHdjVS1SaFRsS014S1REVjdoSE9wSl9qY2t2R1hDMDZabUllVU5hSHg5d2JDX3VRM2hZQW0xcXNTR3BlZ3p0N3lib2dQLXQxOU9mYjY5cWVpdjRtNkpsbFFCQlNaU3N2VFFZNlVZXzlqSjFzR0YwczZ2R1JzdGVfNlphZTloQ0prQ1ZFNXdNNDI0VXpUMmtfX2ZWMEcxc09haTE3YjZ0LTlzLW1rQ2UtakF3bmJwbUNudzFmOVlsQW4tSVNJWTgxQnNRSWlTelZEaGltNXJJdWM1MVpPSzc3TFRKbFFEbDlsZS1GMG8?oc=5",
+   "published_utc": "2026-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Police roll out AI-powered policing pilot across three districts to speed up probes",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMnMwODdqbEcyVGtWS2ZyOTdSNHlYVXNST3ZmdW1CbFJ6NlRjX3hodUVXeGdRZ2dxdE9qc1p6QzhrZHVqbWFvQkRudWUwVlRaY1AybGFXZ3dBNS16U3JUcEZkQWxUZjZmRjBJSV9maTZra0tNaUVjSWUyTEp4YUJrdG1IRUtMel9vTHVSdDdfYnN3S1BuMDRHYjZDRVVhMzQ1Y3NpOWVLZ2djR2lkZTJZZjA3SEdDT05mR0VCME5GNThnMlRhUFZFZmVYR2Vrb1ZEdHVqVVUyc09iQTBsV2NfMWtjZTVDYVRw0gH2AUFVX3lxTE9XRjd5bHZGbDUtUU5ZamNRMHVwQU13eU1ON1NHYzlXMGU4TV8waEMwOWJqSmZDMlNsMU5ZU0VMdE9GcU5GbXl2ZDJHaWIwZGVFdDBlM0plSmZaXzZyLXQzSUtpbGpmcy1mVFBETmJvQ3BSTDZLVTJoaXNpRnlleU5Vbm8tSzltenJPTkRiNlVadjItbVpLdUFLZk5RUWlvdXI3SDFjVkVTTm5ONklPbEsySThwbmlmNjc3ckZpMEIxRnU4MnRQZWFFWmRQTHl1ZWEyRXpXWF84TkZ4WWFMOThwZHRFdVhSUE9saVlkalE2ZXpmWnhvUQ?oc=5",
+   "published_utc": "2026-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government of Andhra Pradesh collaborates with IBM, BharatGen and NxtGen to scale impact from India’s AI",
+   "source_name": "IBM",
+   "source_domain": "https://in.newsroom.ibm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMmtpVzYyNTNBdEJXdDBVWFphZzFKVE1WMlNQU05oZl9SaFR1SmN6WGxyOGQwbVUzdTQ3bXNGM3hBWi1EZ2V3dUZMQmotaXJPd25uVzdRaXE1UlVPZ2ZwMWlOVXJNVXBTWnhfeC1WWHMxZ3JqUEp2dGg3YjN0Ymp0aHBvT1l6NkpyM1BZSnhSS0FQT1RkMElEOUhpa2tXTS1tY3h1M25QMWJWb1ZXaUMxSTVZYXZmV1RNYlRyV0JmY24xZS1zWk1SRUwtSl9XbDFEdEE?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Agriculture Department inks MoU with Wadhwani AI for smart farming",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa05YTS1qWnJLcUttWS1wNkdITkk0S0gyZnhqX2lILVhZVF9QRThuRmRvZTc2NVNtYW5WVEp5SGllcUtaSTZiU0pmckdfTU94b1pTaUxBejZvcWJnZE9Xcll0OFZGUVJkbGRkbTFWc2JqRXIta3RJbzB6dUc2REpsc2V4ajVWaVZjX2VwNXlTaGNmcHFZby16LWctbV9kQzdVeU9uamU2OUYzZHhpeDR5UF9zNzFITDRoRDNkWGYtcDNmWEt6LW82T3g1UWxLMElSTWY3ZC1JUGNHeHdHZ05nbnAwYlF3MF8xQnFN0gHyAUFVX3lxTE9WdHRseE1aejF4UVF4M3dqMTFNQzdtWTFKQ0ZXdVlNWldGa2YxbVE4dEdDYUxPYXdFWi1teE5XN2QxaTM3VlBqS3R1cTA1c1VMOXV1VERvRjN1MUdFdG9vTklqTnhXcWxxRGRwODJyUXo1TnRYV3ZQbGR3d0NWM21NN2VNdjlZZXZRRDJoNjBSdkI0T0pSMG9BbGJnQVBvdHoxeU5tYm5NajB1Z1NRNmVyY3VtbVVNVFJYbHA1eUc2Q2NhM2tjNHdUX21fN3FnZzJwcHpxMXJoUWg4UXFFUHRRNFRyT1ZfeVk2LUlQdm5QVXdn?oc=5",
+   "published_utc": "2026-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Education Reforms Draw National Applause at AI Conclave",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOakFjc2dIWDhLaDVVVFFhSlFJNTY3WjRNZWlRS2dELU4yMDJXYWNxdjZEN0VJVmI1OUNDRWk3dTFKQ3o5OWhoZHZVYUpGR3l2OGtNWGhjbzBXMEZtUnlfc0VRN3RGeHY4TWxUOVZSdzJMQjdTbGhnTUZlNU8yQlRKbnl6UHQ1MjlCUlFzY2VPOWlpNDF1N00wU3FIeW9mdFg3Rk9TZW93eXo3cXFlVEw4dngzVTkzSVBiUWoxQlRWV0JFcUZsUmNUddIBzgFBVV95cUxOYUpFVGY5Wk56RVFyVHpOdzEtc3VFcXUycXhCWFJ4VjVKLWd6a3gzYnFRSkV4akZPY1hFZEExY3FFWkVFak5sOTJGalZSNGF4OXhvSnBacmJXNS1XOUVLYld2OTN4TlpzcDluN0V1cll0a09JMXdLRXhkb2tEX0lfWlFZd080ejMyaEJyMWtHT0lxY2lIa1hnenlFTW9xbzhGNzgwOVBtX3VxdFF3em1tR2VSTDRzRnhFalRLMk9ZWHhhOG1ScWtaVXoydXJnQQ?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP CM Naidu seven MoU, Letters of Intent at AI Impact Summit focussing on education",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmhtT29MTV9GNWtOcTJzd3NKeW9MRXhJbXBCN2ViRzdhWUlkVlFrRS1uZ2hvLVBZdzIxUExIQ1RHUHpGLXB3cG03WEJtUWJhRk8xMTVpTjBtUV9pVXNrUzhhY2FnNVpaTHkyWlFaYXdXaEhnWTVzMWQ5cmhGZVhXbk9BZ280SUkyOUROOTM4S05LV0RTY3J2bnhPRXpDdVVveGtYb0NDY1J1WWlITDYzd2dlenE3Q0pWbFM3NUpzZkdFTTRjVi1LSjZTRTN4U0RWUHpBMkNWUFpWTUhwZHVwRV9yTdIB8AFBVV95cUxNV0ZHWWVIdTF0enZSSTBZbVptbl9DWGJOZUg1RGp2Y2QtdzE3d1lVazVXc2dlZ21QN1ZXSWw5V29zSEVLWkt3bl9BUlIyQXNjSUVSNzZrMS1MaGdhdWxwVzhINFVTMGhmVTh5TTFhejUwR3Ruam40b3lOamtzSHR3djEtUUd5WWVKUG80czBtb25nMnNvSklhazlsZ3F4LWlINjJNTkhzd0FzZnBVbUVPQzVTNXJHczBKN2ZhbFdURHNQbjZoQm5fS2VTX2FYbmRFZHN3VG1HXzMzN2dBcnJCcGhVY3pzSkR0VTU2RDh3RlA?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bill Gates to visit Andhra today, hold talks with Chandrababu Naidu on health, AI",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJVZlNvbG1KT0o5UC04TGpBenBFd0N2T3M4WXZzRWxHa0h4WVlRV0E1Ukc2T3lwRDBMbi1OSkRMa0tnUVRMQ0NBbDA0UGdTUjBaektsd1pIbjN0Nm04cWtWT1NxajJzb002VEpiU09TSkp6bUJTWFRSU0NsRGIteTFsZG9YQnhhY05IcS1aVFEtMnY4YnQ5OGNkTkZOVlVRaDVral9tWU1paWJCRzFib3R5UHlBVHdnamlpNFlQeHR0WkRkZFQwcUFYZ0xmVVhsOEHSAdcBQVVfeXFMTmZpVEtMSVloREhiQWVGNmhHSzRWR3Z4UjBxQXByZHViRW04OVdzR2FldG1KbHNMTjdTeG5YdFRXQU5ETllfWHlBVFVKRTV1MDlDWXlNSlJaZldEOWtUeWVDclVrMkYtcHJUWHV1TnpiaTN6THhlYTk2TEdxX0FCLTFUOGxvMmxnV1R3dnY0RzF5MTRNVUh1WU1vdWVSQ2UzNEpJTkpYNzZnYnF0U1FTMlBPMlVmWENpX0p0LUZSdGd2aHExNVpQNFhsV01iNDNKOUNWN2p0czg?oc=5",
+   "published_utc": "2026-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-powered Command Control Centre in Tirumala Becomes Reference Model for Temple Governance: TTD",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcHdRemsyQkxLV1pUTXpzNS0zdFBvRURZR0hVQ0pJVkpvOU00aG1IUW9tU19sTDYyVU1DWVNIdWJyS0lLUUh6WHcxYXF2NWE3Z0swdWhOR1NEWV9jM09wZUszaGxkTVU5Y2VSZkR0VlUwRWNVMVJsZXFmbTVEYmRfTDZGSTJWNWk4b3V3b2NUVXY1RFIzajMtMmdzRU1wb0NSNE1SUGtrQXRwYkMzRXdYVGJ0SEhLZzRSenFFOE9EMGx2STAxMGJ4WHF3R3I1UmduWUIzR19SbU42am9rWjVwS1ZDbV9EZHJBaG91WFl6ekRIeU9xMzBhMjZR0gH_AUFVX3lxTE1aV1FhbzYxZEx4aDlQTzlXd1MtZVMwM3J0TVFuLWI4Y2dkUERQS0JSMHplQ1dEdGFFWkNMeWl5WlkweUhabVlWYVN4RlQwNVVlMGhUZGczRnIwOGxPVVZzeURZUDdwSDJkNHI0dHByb2VnNkpaS1dteWZDVlJ5OHU2Q0N3YTdPUkxzMWI1WU4zNUc3WFQ3emZ1VkI3QVBBeEhnc0c2TmJKdlN6cUIxUHl6cHVRTmtjNU5RUF9CS3E0SDlRSU90MkNPSHViMUw0YmMwc2FZa3RKWWI4TFFadDlTUFZ2ZGxjWkhYbjRYOTlrNDdoNGFQQVhXTTNCczZuYw?oc=5",
+   "published_utc": "2026-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gates visits banana orchard, interacts with farmers in AP",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTNYZVFjamdCMndpS21mRTdSRTh4Z2NVeUVydWt1c01TcDlYck1hYU1ESkxNVHpYd29xMzI4Qk9Nbm8wb3JtdzVXSnhoYjloOXNjUl9YYnlJMHNyUnY3YjhJaVhLQkVHTll0b2pORFFUX2tEYUp2VWFHYVZJTFI5WXU5QjJYLV96TW1UOTR2OXh3cTFiZWdpdUhUcnFuZ3FGTWhrR0sycHlLNTFjMFVrcjJjNTV3ajdaWVUyVmNjT3TSAc4BQVVfeXFMUDQwcDhYdmpPbC1ZbFJsNHNLTUlmMk52UE5BZzRCN25hNXVTTUtjLXhLV1lYa29fN2pvbU1OVm1OVXloWl8zSzZzQjFBY2R4VlBHSGZhRDdQS2w5aHB1c0NpenRtUFo5bFBSRnJTVUFtQzFoNl85Q3RBTE51MEE3SllZZE55cDIyRFZIMUtud3hRWUNsNXJmWTI1U2JDOHZkV2tpRjVpcktFbTVvd1JBbUtORThhM2pOdXBrZTdMTUdiM0pFN3pSdjhwb0dJc0E?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

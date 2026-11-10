@@ -1,0 +1,125 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "PM to Visit Gujarat and Maharashtra on 8th September",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSjhmUVByTjZlWUpBTlpFVGlzUC1mX2poM0RrVzVrbV9kanF3TDJLSmNaR2xmU1RIeGdra2RnWWJrTFZwT2ozZVdGS1pTczZiOXFtMmdzaDF3YzhmT3lBa0JjMnBJaFI3LU4yZm15MjhIN1Z4VUZpZFd2Mml0Zl9IWFFvSHkzMnAtajBkZU1vT09JeUhMQ0o5ZTc3eEc?oc=5",
+   "published_utc": "2026-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress attacks Maharashtra government for data-centre industry expansion push amid drought",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX2NyandnREN0LTNWZVkyUjFGcEc1V0NZSzdGaWdseWIybFVDc1hGYnN6SmFoaGhhTld3akhaVm5zYzV2d3oyQXMwOWFVSzktbjZHdTY3Ry15ZWdNVTBqcDJsWHpuajlmVDFIMVl4RzB6U2g0ZzJsSV9rWnhZejFDa0U3UUk5TVJBM0dVWlZ1dHNwcmZvc2t0Qno1UlpwR0ZXX2FTVGNjc2RUYklzVGhuczhLY2ZicU1NMGVhcWhSYllrZEJQd2UxWjB4ZFBTSzEtTHJUa0hoZnNKOGVyTHlwR0RlRnVBcjFWWWpaTGZOSFIyQkpvM1HSAfwBQVVfeXFMUGw3T05IRU5MNm1BNmdBcmt0OWNfN2VjZWVpb2p3WUV1b0V1TmdTdTlqR1BXNFdEbHBmYXNJWk1iY0dmaVVTTGR0MkpmVGFPeEJjQ2RTekFoVW91TmoxdWh0aS1LUmRzeG4yVG1va3NycV95S1ZueFRuRjJPS19QTEZ1UTBfMHlZUnk1Q3BFV1JiYmZoTVQ1Ry1EREZZbUp2TXFBdmZ4TjZ4Sk1PX0Y1Wi1iMHIybDJTSmtiUnBfalJSRXgyNlJ2REhQWlNtZk8wYWFnbGVQMHpVZzdodV9ySUZsbUJVbnRuR3E4ZGpzOUpUcVlxMzd5N1JWZFFX?oc=5",
+   "published_utc": "2026-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt moves to fast-track AI Innovation City with Tata Group",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNENObm1ieV9OTGlFQ1N6Z0lFN2lJZ2RZaXAtc3g1X21jN1pHTWNXMUR3WnJvb0oxbTJJQkdBT3RaazhEXzBGdWFXMUp0WndwMV9PWkZoTUJELTF5dTlMbUFZM0JYYTlYVFlUeGNiZmVUSnRhRV9pUGV0dVlmOEVmRV9SenJXQjk4OHhudnZ2WWJJWFp3V0plSHhHQ3NTdWNuMnAzQjdadzZPYmRiWk8yTXhZaFFxbzV4SktqUVVIWWhCYXV5?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra gives taxi and tuk-tuk drivers a year to learn Marathi language",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SmxXRmU2dE0zVEVTNFNad2FFWm5vZnA0RDZDNmZDRUFJT3Zwb0lkMkhNdGNGcmFIMkUzS013N01iYk5wcDZLS1ZkeHNYcFhTSmNNWFFzck1idw?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt moves to fast track $11 billion innovation city near Navi Mumbai airport: official",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOalJEV1pqOEhEcjBodmR0MENzRkIyNldNdDJyYjJWVnEwRDlUaFJEX0tOMGlEaF9UZXVYU3ZhVlVSandaLVpsRnQwS1E4c0JqTWR6OWYtMGdieFFsdDBtd2tDR2QyTXVoVFBhZ2tTZUdSYmZUeFpxQklncF9jbzhoT2lUa0J5SWFzcjFUeVkwZE9RMGlHZmJHVUhvNlNQUnRCVVZmQzk0SUY5cVFYXy1BQS01T1BuOEQ0ZW9ObzgtbWExQXJFcWJIVkROTERpX2JsVzhJTEcxMEZkXzlFM3FvSHRseFdQTXIxM0t1eXdaSl9XdEVWRUJ4RVdWYm5jSnNFVHRiTnhR0gGLAkFVX3lxTE9tT1YwbnprclZLZnNsTk02RzhQZXVwTENNTHR6TnBHVzJDZG92c09TS2prU3RvMS1Pc0MyMjh5NjNsMnAxSVlIQ01HVlp2QkxpVVVhN3RUZTNSSE9RNklIa3c2aHRXaHZtTlJ0U3dEWDNGUENqajZCNnBrd0Zxb0R0ejFKQ2ZFSWUweks3V0JSVmVXVEI0blc0cy1UVmM5WUR5U1FUWnhjRVhUMEJwOC01dzRZSS1WOEpiNUZDYjlVR1A5RG93NlFsaWVlQk9Uc2NJUzl0NEZ4LXhyUEh6dXUxY3VoU0Z2VDlWTVcwcWtLMnY0Sl90bTVGb3V4ZEhQZXVUdmJrYnNkbXBYYw?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government to Fast-Track AI Innovation City with Tata Group",
+   "source_name": "Entrepreneur India",
+   "source_domain": "https://www.entrepreneurindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUXdzQzNIS2x6alFnMTJFdE82enhnaUhnNEZIS1U4MDNYSnpTVEZxSnJEUExfd28xdHpFekFRQ0RJMnc5NmJtYkFkZDA0VEdCM0RRdGRmNTdSZW8xUnA1dFBvYTdVTTdiaGRjWWMyaWxUWUkyRFBJSmloNUpXMjVwbjZkblNYTVhvWlkwVXhoQXJ4YjZDVndkNE9YSjhBVzNiYnJZNlkwVFliZmFuUjA3ZVZYQ1lFdF90T1d3cGpFVkhPdw?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt firming up roadmap to expedite development Innovation City near Navi Mumbai airport: Official",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb2x1cVRjLWZZYjktQTVvSUl1NmhrY0hpRE1lSldzYUVSa3BkMUNRY1VJWnA1THcxbXNDNnAza3ZjQnFRU1N0N1Y5d0gxZkNSdTVYRGpJOU9hWjNqTHN5REVmS3hxWWxmMHN3RS1McEhUTHNCQmVfLUhXZ1I5ZlhKTVh2SDJQMzN4QWQ0c3FCTHpHRW9aai10Tm1kTXdlbk0xVUNtUUVWTmZkNWpEbGloZWJndUpXX3lnNE1aZUlRZWNNYndPTC1DUTZzM2lFS2UxdWNiQ2R30gHbAUFVX3lxTE5ZMldPcUtmYWhYM3kzb0FvWWQtUU85SFZhLW5JUVRIS1R1MkNkTFF1V28tWUFFWkdfMTNpTm9OdG4wTjhzUGQtdlBMMXRqUEtMS0tGblhDYVlWc2Jpb1czdTMzNUtPdlhTNXQ0dUQ0LUpiMUlnbk5nMWpOTy1WOW5kR2U4M1JLaTFxNHExUm8xck81X1QtdElFZ1AwZTNrdml1NFpCUHl0SjlXZXA2QjFUaDNzUkZXdmx2aFNvUjdoTjVGOFFyTGRIWnFoQXNoYTF0QmxodDNXRW04MA?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Sets Roadmap For Rs 11 Billion Innovation City Near Navi Mumbai Airport",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYm80Tl91OG1UbWlENERLMkJTNS01c0laaDMyUU9fYTVlMC1maG1FbUZjMHFjZFM0Y1B5RVdCanhCbHN5WlZWc2Z0Z0pzWWRyckt2Wkt4TXZGZmowbVpqOUJ4LWE0bDRrNTBvZUhyZzRxal9FNEUtRk1HQUJCVXRuaC1YQkVyNm81NmlQUXZJQXFadWI2OVExdFJnN1VDOE13UC1Ca1phcUdRSC02enFKSE1IMlZKMHhRR2hxZ1VKUEJsd9IB0gFBVV95cUxOeFE4MzNEdnRWbjdzaXA4VG5icUdKQjZHZVJnbzdZdGtYaHdRVXRpY0ZkSkZvbzg1UFBkQU5Vek95UXJqejM1eWgyelZQTEw0a0ZhMlZ0c0RoTEV4T19lX3dMYjRiVUNYNFo1R1hBeFdIZDNvSTRiT3lRb2JvdjBjd1lQaXRrOHZJbGplcjdoZ1hmOGk2bmN0NE40N2lRSEtDUnBLWEx3ZlhZa0RIMW5PY0tCRzNqNVVJN1VtNEpyanRoSHZCdnVnRDZjVTZHMTZZRnc?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Fadnavis unveils Maharashtra’s fintech vision with Agentic AI, tokenisation and quantum technology",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMk96R1htZ0RhWU9QWl82YlpVNlZhWHhSaEVDUjFiV2FpR1VJSGtycFk5WVYtWjRQWHJ0eWFzOUdxMFdTLUlYTUhoZFhITGVsLV95WVdVckktWFJ1VzNrTHBaYTd3Q1JqSFZnNi1OVi1yNENrMDRWSzVpN2V3dnJwbzlZbjlVU2JHZ2hkbVFfcGlEZWd3d2ZwZ2Z5Y0J2TXZPU05lSWV0QzhQMWJtRXptbDZ6QjRJM2stNDFHRmhMT0dFZ21tdkx1V3FxMmxmcWhzR2ZVbFQ5Y0phMzFCYVlWc3dibk4xdGxlajNMVlFQcVlVejdhNVVNcUY2RFhLMloycXVMbWd0azVCN3c?oc=5",
+   "published_utc": "2026-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AICWA urges Maharashtra government to withdraw BMC’s proposed theatre tax hike",
+   "source_name": "Fortune India",
+   "source_domain": "https://www.fortuneindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjN1bkxjZURPaUE2Vm9uMUtDdU9scGZFUWEwYjc1bnlaTVVQMHJBMmFoTHVVVFZPWXBoUkczdjdOR1RYREdGMzN6OVVPTm0zVTlwVjZ5a0FlRlI3cW5jelh2cjNRTUdUdFFSLWRBWFFlRlBYTmk2TmVXR3RvWERxMktJNzdZekxYaVQ3NG5POXNXMnE2a3gwMF9lX05yYTJlaHdaRVlXTnN4ZEcteWtyR08yY0ZBczVhdXp2WWZyLXQ2QVBWVFHSAdMBQVVfeXFMTnIxVkVHMDhjN1RKZ2hNQ00zbW5LZmN2SmVnY2gzclJYaDJFM1hmc0xsWDhaanh2YXJUeUFLb2NtY0pILVU2YWlzNlhnemg1enFPQko3MDJTLTUxWHVBeXpEcWI1V19YVFNGSG9hUURBQVZmZVJkellucGVRc0UtWEFER2VDazR6LTIyWTJJeTQtOWRTUWVCQXM5Sk5oX0lSWlZLNGJ5U0xUREZnOUE4VkRLa3dsZ1FmdUhST1M0TmJUcWRUZ1lYNjNaRi1TQ3pfWWRRcw?oc=5",
+   "published_utc": "2026-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Panel formed for policy to regularise residential encroachments on government land in Mumbai, Pune",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTWc0emtQaFVUQkthaW9fOWlYUmNzdzkzUERYXzRIVFdPVDYxS2FFODVacGVjWTVQMTdGU1hwNEZfT2N2LTFVSm1GaTE5Mng2RlV2RzdiMEkzdjkyY2tBb1FDYUU4UkxqaXNDLVR2cnpCTUp4SVNLM3JrOVVNSGxRWXZSbkFOY0lrZHg1S09ENzV4OUZrYVc2NGo5b0F3aWFqbnlNSVBWZF9VRjVIVzdIMkR2TW9WVHN4NUtNQkpHYWliTjF4d01OWm1zQktqbW54alZWVWkxdkxaUS0xUkVSbHQ2alBOb1dKTkVSMk1NeVpLNXBaR1IyYTEtU2LSAYICQVVfeXFMTjNwX3dtbVpiSnM4aS1XVFlDSTBPWXJTZllJSEVzODY5OTROSXlDa0p3b1JiVEpRYVdEZkE5QlJNVHlMdUxQRk16Ym9XeVBJaF9wamowVHIxUW8wTHdjeXNBc0o2cjJFS2ZnbVVIVjhfY1o3THpEZUhXdzRKMFBDMGxIelJSQzQwOTZUZTJmTG9qdnBURi05QVh6T2QtR193dXpNcVJSM0RfZDdmMGRJbUd3eWZnVDgxdlhjX2tKRGhNczZybkpITVBITXp5YzJJc1lZY29ETjh2RXF3ekp0Q09Ta1RmZHVWMFI3SEltQTNLZlNxZ19sTW9YQXpsbC14X0JR?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM Fadnavis says Marathi will get priority, but no discrimination against other language...",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOUxFWDBCblRIR05VN1RXSzdHRUxiclNUb1ZuZk5FVFNYM3NsM0VBREFuUkpKU3VSdXZRWlJ2T3poLUNRdC01d0ZLclZHS2lsdk9fMUNXZmZReUMxbVhFNGlQT2ZSTG0wMFJoQUtQWUNTYzgwcmVkazB6Y0lxZGNNR0dEeUFvVVRTdENXejNpWmZleDRrSktFWHJaX3g0N3VCRUNXSmNrT2RaLTREWVpmSWVwTHBHVHNPTWMxRVdfcWVQeDI0ZXNFUUFTQU5jSmltbl9pWEctZ3I5N0RfZ21vX2NYY3NId0ZxQ2NubW8tUzlteFRWMHIw0gH8AUFVX3lxTE93TTloTjN4T2c3NG9xczFXaGN0V0toRUdlMzNuWklzQWd6VmlsVWtfZy02UTZ3bGhiZjRXLUIxRm12SVFIYmdqSldpNTBobHAtMDJJRk4tOFdSamhUczVMNlFCdmJwZHR1UUpRNi1UZEx2Z2E2TklyS1Z5MlUweWNRQnRmNlFYQW1zaUdLeDB2UjNaV19kLVhqVjJramdEa2xqV1hPd0xFZ0toamJtSTJxRjRjel9LYURxbEViM3FDbVpIOHdxTkZrNnpPQ1FvMllfOFpIWEtTcWt6WnJHWmFBcVFpMFBmaE0tcEFwRmFQd1U5TW4wOFFfb0s4RQ?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra targets $1.5 trillion economy for Mumbai metropolitan region by 2047: CM",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWF0T3V4U3V5cTNSTFo2a21DWjYwRTRRT1B2Y2l4N2luaHRfRzdpazlNZHVOc1E5UTVVZk5YY1hpNU8yMGxaT283SEswSGN4T01ZSG5abTFFVW1tQ3JEUjBTb0xTcExVUUppNzFDbWRUaHE3N0dyZXR3eW4xM0J1azNhcmlpeWxtMzZXVWFEdk1pSkhZSmZ4MzFSY0dnc1FpQm5aaXRNNHh0Y1Y3SXhmQ0JPaDJteVFobmFoYUdGRXBRenByRVNvS1Y2TFA2WWQ0ZU1WWC0zWV9ha19yN3FWbzliV3bSAeoBQVVfeXFMTkhqVzlDTmFVYVBnem9vNHlkc1FqRzZaT3hvd2pzOVpZOTlSbUFkY2JaYlU3ZTdCZHZtcURrWHEySWxFRzhQREMyMmVvYXM0UklUTHVIUjMzSWpoS0x5aUdlTEpNVDdHLXhLaU85anU1WUx4NlRTNTFLdmZDRlljR0dxMF8ydVhYUHI3Z1dEVXNFTFBYQzJsZlV0UUJTOGJJTURERTZXbnFnSDVBdzNBelYxWmMzMXVjeHNpNUpfQUUyZUF5bXZBYmhyY0ZyV0dKVVB3S1hnRDRmLXFiNDFWTE95b1htOUcyc2dB?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "New east-west rail corridor to connect unserved areas, spur Maharashtra growth: Railway Minister",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd1I1YUsyMWgxQlZrYTdDSjI3R0VWRk11OV9ybFJ4bmhzYWF5dUJfX3lfODR5a082cVlDWjlNRUY1bmlEeVRTcGVvdUlKZ1FjMTZHdDNOZHhNeGUtSUpmVTRVLVRUVVpzQmVHSlNsYTU2UHNraEg4ZDhsY1FZb3BURXVodmhHM1pCLURkRFZYLTRXcUFpS2s3Y1JzVVB5elV5enkzcHFSNHlEUTg4Zkl3a1F6N2sxQXRQLXo1YS1GdEcxVWlKbWtDOXhwdEFWcFVMTl90ZTdxWEZ3VlEtNVF2MEE5dGN1dFVPbnRXb3M0ZXlfc2PSAfcBQVVfeXFMTUxCZXIxNDF5cTFpaHZaTkxDQ25YUV9MREVqU0JGLVJTYVpJNi15dC15Z2tOUmIwWTd6NTlJamJfZW1pdXBiSVV0c0FiTGJmX1M5c0hIUlhidnFFd1djM0h6WnJjTlVKOHJKRmNGOWhySzNCY3hLVW1PbUEwVFJkQ3RpV0Z0VFFMcHBwSDVhcDdvTmtVYmpaNUFGVUswVkRZT1IxRlpUSmg4aGtwVV9WUkhSQjEzUUNQc3JWWHBjcTA4dVZNRUJoT2pnV3VQaUpBb1lVUk5wem4yLVU1VTBCWXF2eTRTaEI5bmtiUktPM2x0N1ZmM012bw?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt, Tata Group Work On Time-Bound Roadmap For $11-Billion AI Innovation City Near Navi Mumbai",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRFh4MjlaNTR0dzlZSTZsem5tNFhYYW9SeU5HVUxkZmxSSk9HRGNFZkl0RW5GZzJ2WGdRTXIyN0l5U19KNHBKVHB6UFVEVnNwb1BMd0w1ZTVBem5kdmNzcmN6a1p6azBXVjFMOHlqNk9Xbm5waG5sRDBWVzVWT2xyc1RXZDh0WTlyYzVEZktTd0xBRk1yTGdnT0FVVkFUTWhaLUJuUzd6c2xrTXVOay1UX1hxLVIxOXBXRmFHUVFyM1hoRFBtNHFuUm05NnBqbEdNUDBsYVJncDZ4aWcya3FOVVhXSWkwM1nSAewBQVVfeXFMTXgxU214U0lGTnlHR3VqVzdlZGVzMFpFY21mbVFXLUR3endmLUNJWWExMTc3eVFWVzA0WFcwaWRTdTRoczJ0QUZWcVZEZy1nLWQzQmFOckkzMEZZOEpmbEVSbGkxQk9PbnVTSzc1aHUzWjBMYjIxaFdVUmlOR2p5dmFkUkd6TzMwR29vbG9aNmRmSnJVR0o1b0VIZzNEUFJMOUl6cFV4Q1djeEFfYXRSME9xdVpnM1ZsaUgxcTBEQTl5elc5b29yNklOZE01d0lVNjJNai1KY05pSHA5TW1fMzVqZmcxMk1qNzhkOVY?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

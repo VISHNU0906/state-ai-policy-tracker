@@ -5,3 +5,5 @@ __pycache__/
 collect*.log
 .claude/
 build.log
+data/interim/
+data/raw/sweep/

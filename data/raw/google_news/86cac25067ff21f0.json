@@ -1,0 +1,37 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "Gujarat’s first AI data centre to come up at GIFT IFSC",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHZTT0g3bG80V2NRZUQ4ODR6TVdzZXVacU5aMDZGU21yaVFrMHl1a1hMRDRjc1dNM0Y4dnJTUmFTeGhndURHRmkwTmxoa2dKV0JZUEpwUGtlRDc1UVpDamFQeVkzUzNSLTdaSEhGUmt3TmxqX3k4Qi1ua3ZYS3B0RXNUUXdSVG5WNTBaUlA5bjd4X0tSVlotY19JTVFSTWR4azRHWjZ6cTBFR2ttbHQ2TEVnQjh6ZEV6Q0NQRzQ3enlmUXNiRjhSUkFB0gHPAUFVX3lxTE1pVVR1QU5yUDNaaUlWTzBJWDhFLU5ldHFpRnQ2SF9xaGJqUWY4ZUQtT2dKVFdkclBkS0VyUEZGa1Ixdmw1LUcyWUthTDI4NG84cEdNcXphYzFfVmlseTBGZ05naW9ZbGlNa0ZVT0t2SWJBcmFpeENPVDFjMHRxbXB1V3RnOGQzclFVbm5LRXFvdWZVaVlrX3REOE1kZE8xbzEzYUphQXlaR0ktS3Jrek9DeEhCbXJtU3ZiT3NQNFhpcHluN3R1Rm1CWGxIU0FDVQ?oc=5",
+   "published_utc": "2025-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance to set up 1 gigawatt AI data centre in India's Andhra Pradesh",
+   "source_name": "Reuters",
+   "source_domain": "https://www.reuters.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanF3RHpwOGxNb2w2OHpHZTZTeFJEOF9rQ2dEbXdna1NWWEE5dnVubFFfNWVJRnRrNlVFejFGdDNZR0l3SFFCRGZRdkpKaUpheUp1SUg3QTVqbUhoUDM0dlVBaDBHdE5uMTJfOTlzM1pHQ3hGQnBiVm9UYWlRekU0eHYtV0Ffdk5LcFJ4Yl9NOFlVNHZwSUQ1UHFEb0xhY1ZzUEE?oc=5",
+   "published_utc": "2025-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance Industries inks MoU with Andhra Pradesh govt to set up 1 GW AI data centre",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZVJYM2VnWTYya3VJS3J0VG1FRHBTTl8yUk00eXhVY3E5cWh0ZlpEbXNKVk5NdkZIOUtPV3lYbS1WVGlMemNYWDNJQ2IzTndLbVUyS0VnWVk5NEhxUHRoQ3NETjZvUTNpT0hqSDJ2SWo0Z0w0YXRSc0RBd3NiM2tLdFlHUlZhYXNtb0d3RHpBMWtMR0FSVGtrb19IOXRCU1ZUdnRYWnZpOEtEcktzdi1JWWN2RFVNNGVjelpMQjZDeGRwS2FoYkQ0NlQ4Zng0WXZIUGJmNFUtWDdJQXBZV3Y5SWdOa1rSAeoBQVVfeXFMUGdfaUh0TFRBSDVlUXppNk1MZG0xOTlqVzRhMmRxeENXVDB4WjNqTFRPdHNZLWhqWGN6cWhYeHNVLXQ3YVljOEsxQzhyS1Z2X3NMd3J4MFZtLUJZRVRjYWxiMVAyc1E5NmkzVzRsLVV0ZTROVXg2TjY5ZmI2dzRDVVYyN2FPbUhoN2RKWVlKRmFRZ2s4NEJqcU1IYlRRZDVxa2ZQZ1dfVlpWR3o4Smp0M21XckpoamdHa0dldzktc3JuVFNuWW5CSVliX1V6bmVGSDh6cmUwV0JDelV1UEtXcnFuVTUtemNjWmF3?oc=5",
+   "published_utc": "2025-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Down the corridors in the engines of digital India",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVBUZlRZYWNJZl81YlRDSXVkR1VGd1ZzOUU5TWFxaDFZZlh1QlVhSVhLRlI3a2JMY1l1MlYzYTRRT3B3X29pYTdxWU5hQWNGS0k1WDZQb3RzRGVrcG5QYlhCLWtuSl9ueE55cVBwTlZlUGtxNnY5cm5TYTNnSlBQN3BvcUVBVEVrVmJWWU94eUpEQ29DVTZfc19RQTVEaEZBb0dsVkFEdmVjSnprSmfSAbQBQVVfeXFMT0Q4Vk9oMlpZb19tbFV1N3hDa2RxV3c2YjRrMnBkbFpuV19IYzk2bHBRMEN4aFp2bW1seWlkZTY4WDFWdnZvSEtPQ29PWkRtVXFaSGhxVktkLVRRckhhdzloVWRsbzI1TkZIaTJIcnhLcVlZbTA3dkFTMlBJYk84TGotUTRVV29kdEJiZC1laExFbUdob1V1ajQwcEVsN1VfdmY2ZkE5SFBOdWVQcjYzNzg2ZkVK?oc=5",
+   "published_utc": "2025-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

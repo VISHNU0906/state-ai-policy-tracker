@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "Ministry of Electronics & Information Technology in association with IIT Indore launches AgriHub, AI-Driven Center of Excellence to revolutionize Indian Agriculture",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NS3haN21zamdWaS1mNXNuVEIzbXA4dVFNVXE1YWNKQmM5a2t0QjBiRkhNZXo0RUZSMlVoT0k5OHpTNmliRUVLY0VBVkY3eUR2OGwzSWFDOTVPbmxnOUQxUUszMV9iMFRa?oc=5",
+   "published_utc": "2025-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AB-PMJAY: Ahmedabad Hospital awaiting Rs 25 Crore payment from MP Govt",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeVEwUV8yLTFYc2wyR1RnRW9XRDhucFVRamtudXd5VnNvY3NfeWRzWVJ3WHVHQmVOa1dJNlZrNmFkSGlPM0ZITmhPNlcwR2REOVBKRUd4THRGMHFiem9sTnRtSUhDdjR4WUdzRGJIMTY5WHRJdjg4QXRWV0xsZDN2b3UzSldQWFk5UjhVX3ZnM3VCdkRaamtSaUtMQVNORGh2eWpvYzNWMUttVC03Y1JrSE9OQ3YwSXBFa1VYRGRwWkxqSE1sVUg0cWN1WnhEUlFMamw00gHYAUFVX3lxTE9HSVg0bG1iVVVDMWZwRHZzY3lRdS1oc29iR1pXdXpteW1sa2hwd2gtU1RhOGpiOU5NVWZMZ0hmaTZaTWpSem9XRnQ2YVpILUpBd3lTcG03M0xuUUNUVzFjbThrejJRVFItZS1SMmVKQ05udDJnTHlfUHdpT2lqZ0h0dzVacDZNYkIybXFXZ1J5NTJNZDJYRllXSUNPVGp0NE9vRFlHOXE3Xy1NeFV5VXpjZjl3SG5tUEJxS0dwRHhnZDBTMGd0dmVnOUJGem1GQXhxczZ3bWQzVw?oc=5",
+   "published_utc": "2025-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government aims to attain 100% pass percentage for Class 10 and 12 by 2030: CM Mohan Yadav",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSWhrYnY0SVlzdVExbVZuTDktcHVhT3NycDJJMGtiOGl0NDl3eHc1QXFkU2FWRS16M043LWVReEloUXlxS0lpSXl1aU9UQWFRYXVGRnNkZGJnZVQ3RFFuYWNraldJcUZqZzc2SklFUXhOUTEyOWRjQ0RqMm1uUHl1Q0daNHZkR0oySmxqWWJOTnl0OWRfMXVGdUc2NEF3bi1FMjA3Wk1RTXkxcGUyNC1WYjVmWGp2TDhSTUhHcXE0X1M3RE0tSkZHdHRZcDYzUFgzeTRwRGhNM0owbmQ3QlU2YnRWQkFBdVVzOXk3azl1aUNoZUdsSWoxU015RWQxV0s5aDBaOWpES2I5WjdG0gGSAkFVX3lxTFB1QU9HVkgwV0t0cW9CY3Q5ZFZQVElrZXdNc2I1YUt5V0hKMTY0amx4cWdrYWhBQzhOS1A4TlNob1lObjl4Uk9ReU1KVExIVWUxekxSdklkbWh2REt0VTJVQmlnb3A5ZUM4UkRXdFdRZVg5Snl1RzdvWHJJcXBqaVQ4a3VXeEphay1hb2xmcGI0X0ZZTVZuMzdXVEVGQ2Y1TU1wUXdwRU5ySHZuR1k3b3FLdXVHSktWYUM2U2hfVllXOHctM25neUc2MlRnSHFsSnlfOENod0txZ09WczM3Yk5vTHVzcU9pbDExQ3BVd2tXNVFGejNPX1JXUFJBVjlta2oyaW10NTVSN3E4YW8yYVQyd1E?oc=5",
+   "published_utc": "2025-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AICTE’s 2025 'Year of AI'",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTc2UzkwZE1qTGNFX051R1AxWC15ZUx6WjZKaDZqMEY0VWdKanhUdE1PcXJzVmlBSjFmUFM4bmFYS0R3aUUyQVY4UkhmN0lzbzJDNjF2TWNlUWJOd1lzcldndzY2Z0J3UnJSdXFyRTZoNHpJOWYydEREdlY0ZGMzcDFsUHJpVHVGNG40?oc=5",
+   "published_utc": "2025-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh’s Dr Swati Goyal to give presentation on AI in imaging",
+   "source_name": "MillenniumPost",
+   "source_domain": "https://www.millenniumpost.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcW5FdzYxQk1RZDNZRVAwLUd5VzNQaU41cEcwSHctaHBhaExxeDdicVB4bjZEaEtDcXlONVhicnF3V3FCZUFzYnNaNnF0VFBycHAzTzgyMEd6UHVrcmNfcUwyaFprTTVaam5mSGozZlBkN0pzTTFfT0pmNmlqdXItcFJaNjBveTB5dlJNTkd2bGlWZTJ4ck1LQi1lV2JoZFlOdDVDZHJfSXJLbnUyaktVLW5B0gG3AUFVX3lxTE41ekFPMzI1cXRvbU5ONDFqTlZfUVRUQnhqbl9jendQY1VXUnhnSmN2MnBLOG13T3hUZ1B0TkFSVXRLWTdfTGlOUkY5a2c3Q05IRVIybzdweVJBeGRXbkFUZFZJQUF3YlVhNV83T2tBUkRhdmpxOElyZm10ZEJVazA1SUFHVnRyYzZoVU82NE9VRHgyZVRPTVk5Sk5LMUhuNUY0OHJqaERHVGtEM1kyNmJvc2ZLSS1vTQ?oc=5",
+   "published_utc": "2025-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "4 officers from Madhya Pradesh honored with President's Medal: 17 police and home guard personnel receive m...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOOUdFYmlBSHNYNW41RXpLSFJjSEpFMEttaGcyUEhmVTZNU21GYktjYmg4SW9nTXJtaUo2TzZVSkgyT1hGX2I5b1FfOEwzU09Pc1V1LV9xV3lvVjY5UUwzT3RZUVFJQ2FmellBRlo0N1VibHItRVhZWEZYUjFEWFpqUExqcHJwX2lBd21aeGJBUXg4OEVsVEhSUWFxYTRydmkxUVRXaXFIWmNOT3hzTjVUdjRUVFRVRTRuUENDYjBTTWhIX3dnNHBHSWdfQWtSQVRVanoycDNHY2czUW8xbTJqR21fd2pIZnpCaUs0OHdUT0FwYnZWWk9PaHFVNWJxQ0hwTHd5d0d4WnR3Y3k2eHdmWFFyWDVFZnVUNlNGRjdFQW9WOS1XV2JlcFQ0WEJBTmRidU56YnpRQlJiUVhQQTJGcFJuQkIyckpwN2p1em4xMWhWd9IB1wJBVV95cUxObm02MlJiZ3lJODFVeDZxNF9yYW9MR3JmQ25udjdEMTZyQ0hSZjRZdW5XT2p6SXhqa3ZmbkN1WVdONDdJaHRKTWl1cGFBLWM2UzJOSTAycGRHOVN2cGoweDdIQ2o3U1RzQXZhdHM4elVLREZwQXI1Nmdza3NBc2MxVTZuS0dPMjF4dFV2Y252NDZEMV94OC1JTktfLThERFd5b0pON0dNZTFNTWktNzNoQnU3MjJsVnAwTzdxOUZJVzlvWXE1dUlhWWtodWZQc1pfVmFmS016MEhHMWRJZVZYQmR1RE56a2xmUWN1czByWUZhZ0sxTUtiNWFpX1RzWXNHYUFISWFyT3N6UDdPQ2J1OFAzU0tCN1NFOXFSY1RUZGdXZkVXYnB4Snk0OGE5WThNNFBBaWhiOUJCWFJKSUQzSTl3SGZsbVN5dkZBX3NiZWRkZmthY2VF?oc=5",
+   "published_utc": "2025-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ayodhya The AI-driven Vedic City",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VZXRIeFpaTHR3SmlRSVdvXzBVeGczclhiZ0hBdV9zdDRvSlVEZzl2d1dEV1FaZ3F3dmFVX2tweDJwSmxrRWdoWVRSZHo3X2d6ZXVfTWN5OGVEeTR5R1k4ZnhDc3Z6bTFtWDdNQkpCd1NISnVHWDJud3JR?oc=5",
+   "published_utc": "2025-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "100% pass rate for Class 10, 12 Madhya Pradesh students by 2030: Chief Minister",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUEI3dGpIQ2RRWV84dUwwczk4clEtd0xUV0gtdHZCTUE3VGU3bG1raTBVQzJlOFlzakwxN0kzZUJIZlZZYmd2MjExQk44TWF4b0tlYk5LNUhhaGtMVmxfYy1HcFBHbmZPYUxMdW0zMTB4V1ZnVU14SUM4MTBCdm94TFdaMXNnLUZnaE5IUktzWXBleFk1WVVkX1FfaVZRUmxJblJ0VWxIeEs5OW5Xc0gxSU5qVW9nZTBoWHh1ZXgxNlV0bFJTYnBoOHR0STVSYm1HQkVKSEtYT2V4QjlrWWZmaGt30gHnAUFVX3lxTE9VeGQ3Y0JFR1VqQmlGb1h5ZWpWNGwzVmdOMnNUWkRKb1d1aTNkLWtoMUlvTUFma29LQzdzRm9uWnVvU2hpN2hSOHN3WnFKdmZXTDA3Vk81NmVxVUszTFpPUmJmV3VFZXRGOTZfSE1lZ2d2NU43TDNhLWI3NDlWWkVSUjh4dnNwYnphczl1aWl6bTYzV1ZITUc0S1Jwa2R4d3ZkWGRhb2NiTVVjOFBhSmVVWVZHeGVnakc1cmw3VDRPSXJKU29IMDBjeGlsbktua29lZ1hRLURuRUd0bFpvMTV3VG8wa1NDMA?oc=5",
+   "published_utc": "2025-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Building the Future of Technology with AI city in Lucknow",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkhtTXJlYVZTZTV5M29NOE5hVmxUSW5lMmQyaExTYkNnRXBLZ3lCU2R1V182OGRsOU9VTE5fV1ctVnZ1ODhjaTlfVWxIUENXMTgtZ25pTGQ3WTJEdDNieFoySTJpZVJHS1IwSGpxOGZpT3o4akxNYWlGQUg1ajVYdGJZM0ZySzhjSlpfNmVNN1dzVjNuZVJlUk1Ddw?oc=5",
+   "published_utc": "2025-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP’s R-Day Tableau To Showcase Return Of Cheetah To India After 70 Yrs",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQS1JdFlRVjN6OFNYa1hlYm5FR2NIVHpQeTVneGtoVGpEMGJiN1UwU3ZETEI5Skdya0VRamxvSkM4azFHcnJ2dnowV3lJcHlROXhhemNkMjJzM09TdlN2VEl2cFEzOVk4MjFqeFVMM2hCWmIzNG1pRHhlX0hQcC1ITmFCOVpHM0dXUTZxczg0ejVJNW4zQWdiWWpLb1hGcFMzdERudGFWR2NnTGIw0gGyAUFVX3lxTFBHeHpXajhHVklJNk5FQ0ZOTEZpbVc5eTFHQ2NmRUZTb2hySlllYzdabEp5RmRuX1ZyNElLYkZWOGhHUE9LNmJsX1UtOGY0OUd3YTY2anpoWWpLbnV4cDZzRl9yVWk3aURIZzZpWHcycTljUDBvY1YyT3hvTVNqMWd3dWlCb2dGQ195alZQR1BhdktzRXh2YVVBRlhRLXRucnY2eWFBNjczVTJkNGNSWjhidlE?oc=5",
+   "published_utc": "2025-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

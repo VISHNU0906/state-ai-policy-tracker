@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "GoI and UNICEF: Peer-Support Critical for Adolescent Mental Health",
+   "source_name": "Unicef",
+   "source_domain": "https://www.unicef.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlZDX1RHa2JaOURDaTdOM3gxQVl0OGM5cl9ReGQ1aDIyaDR0LThGS25xY200RGhZYXFfRWxoRDlYLU93SDNOanJkSDBzb2Y2WXB4Xzh5bTZDaFUzMHNFSjJCNmRabjR4UllGZWx6TkwybkZRbUphNU5PbDRjMlJ3RkZ2X25WN0JvZjZNVldVRUhRRDR2V2c2UGR6bnIxeEpoX2xRbk5FelE?oc=5",
+   "published_utc": "2025-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "1 Teacher, 8 Classes: Madhya Pradesh's 'Managed' Education Crisis",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0RKS2RyVTF0ZTFRRDZmYzdvZWNfYUhKdjNFRHRSb05odjJDai1saU42ZWZKcDFNUEJkbnVabU15bmRzUmY2VTZxVm1LMHp0cEUxX2ZtNHl5WmVId2tIVUYtc1JOTnJYdloyVmk4Sm43REx3RlNxcG8yVDFVSU5xTzRkR2VWQVRLTERxcG5IUkNZQThSejVtcXRtUmkxWU5rNEHSAaoBQVVfeXFMT2VZS0M5T2t1ZVJzTEVuX2Ezc2ZrU3NwRTZRaWlzU3U5dmZQdC1LWnUxWWpUdUl3OWNUeVRnN0RpbzItVDY5dmRhVTlrTmhMV19tY2xTRFI1Y0tzc2xLU1IyWmI4TEJ4M1VfOG1mbG45ZS1kczJtbVM3QnEyTllSUUIwMTVReGE4Uk9ZbDZSSndLMkcwdEtCVHZUNTVqdm80SE52eFI4Yi0xQ1E?oc=5",
+   "published_utc": "2025-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh’s digital water mission: SCADA, GIS and community-driven rural supply models",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOclJBcHhCN1JPb3F6VDF3MUVMTEVQQ0g4TFFnMHk4ZVQ3dVRYSUFiVnpsMlhZeVJ3MU13cUlOMlUwVEV1bk9rT3QwMDdkaDY5YkxLVkF6OFpoTGRtOUZqZXB4ZVdqdjZfeW9OVlJqRGdwdXZBQ2tmYjhrOE83dGNxbk9JdEtjT19sOFlXSW85R0dCMmtBbVF4Y3Uya2ZRYW01bHg2ck1XRXFmU2NYOE0tTk5iZ3JqRk9qRnlrbXhPWjRqaGNGWXZDam50cHdrM0NHUDd0bEYyUWtCWXdzR1p0Q3NtdEZpeHhubGdIb285bkPSAfQBQVVfeXFMT1ZpSm9TbW12WkgyTXRmMXlKalc4d1NObTIwcldKX3lKYmU1SS13cm5mdDJQS1JLVmhCWHNCdHdKeTFGWVJLY1hpTGdJRk1rRjM1eFcwVlFaenF6YS04a0FZN2F5OGJmbkpSVkJVdXFvQl9YUUluajZvMkdEeW1WaF93R3BidUNOX1hmd3hBNEJFczV6X21jSTZYUEFMRVMzY0xEWTJPZHNGSGVNNy1BaGtseTk3WjlHN18zcDlPLUo0Q0V3Qi1GWUJOdmpJZXNLVWMycUxwSmQxZGFtejZlQm1EYWwyVF9wU3hzR2plUWl0S2pvWQ?oc=5",
+   "published_utc": "2025-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shri Dharmendra Pradhan inaugurates Akhil Bharatiya Shiksha Samagam 2025 in New Delhi to commemorate 5 years of NEP 2020",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QZ2NPRkd5WFpKcHdtSGw4T0k3RmVDQ0pJUEFXVkk1OFQxLWx5aDlNQm1EU1owMXl1VlpPd09teGFmaFp0M2M1eXZLamM2N2lEWFlFNndhbzIzNHBQT2NnLXJFRUpjNXVo?oc=5",
+   "published_utc": "2025-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mass suicide in Madhya Pradesh: Four of family die by consuming poison",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmpMSVNPcUlNOUZpbllzX0JTUDkzcU9ROUtIcTA5QjJUd1hwXzdtZ3pGQW4xU2lTR2tvSm9tWEVyMldGeVdmZ0x6UzAtdmxqd0RIcTBTVmswdHBPY2MwS1RIdHNkNzNGeWVXdTZHOENzaFdVR211RG5JTjZWSzlyWS1Pektsa1ZIMDh2eENSdDFCcGY1NmphTEFpbjZpaTF2MjJDaUUtRnUwTGpWVklWZm4wcVZaRk5udDNtRjJPX0c5bGYw0gHKAUFVX3lxTE5ZTGtzU0hUUFdZUUV0RW1reDd1UGdZOVZjYkJVZld4bTkyVThabWdObVQ2UlhIU3ZsamtONjI2YkthYUdaODRadGt6QnRGMENZZHlJZVVmRFg0OWdROGgzdWhzZ05UdGNib3NkQ011a0VOclRhdklrejJKbWQxM1owTmhvWENQRm1YSEgtbmdBQW41OXpGVUI5cW5nTHhkNTd4emx4SHJ6Tl9Cb0pXaGVoUy01Tl9iSGJrVW5qRjlxdFlwUHVTdkVwVFE?oc=5",
+   "published_utc": "2025-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Classroom Of Broken Promises: Collapse Of Public Education In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjBnemM2d0VaMjF2MndtRDlDLWdmcVVFdnZ1ODJDWUVvakhyamVvejNnamNLMEZPcUtTMTB1US02dHg5cnZiVElvaTBIaTQ2UHFpbnlQQzZITGRLWEFsRFB3OHEwQ3duN3JjaTdMaWRzVG1vMThBRHFTanZuVGhwdjJKZmZHeGctMmR1YlFIekNSd2FlOTBhVVVKVXIxbEVSTEpITnlabGYteEZVeHVXMk9rLUpCd9IBvgFBVV95cUxNanF1MFR1WXFpNTlJa3doTDFWSTA1MDZCaTFoRHEzRTl2Tkp6Yy00Rm9sUW9HbF9sc2x0eUNEaWNKUmVzOS12LVdTR1JPQkhRTGxaWGc0RzlmT1lqU3BoTUFoeEo3bDVvVzRwY0VBb09kYkJNbGRMRlVlVHUwcGtMX3ctNjVWM3NNaU1rV2huNDVBQnhTaXNJUUVmNi1yNkp4WG00b1NtUkFEMDE4VzJyLUt4MjRMVHQybjA0d3Rn?oc=5",
+   "published_utc": "2025-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Three Years On, MBBS In Hindi Slow To Take Off In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmVvbGtTbWNXOTlJV1dvaXBhSnh4NWR2NWRLZnFZTnl4c2ZKVzhJUlFsM0N3cEprbDdyMWhoV1FUQkVET09mcUE5WDJBNTcwcFJjSkdGd19VM2U4T2w2WG1WMUdJa0Jkb2VxZ1lsbFYxSXV1bWtrZ0NzSThQWE54NGU1Ym1WZGt4TnVLdm85U3dtWXRXVVFpVlVaemNOQTVXemxyam9OWldvNHNLQ2VSQUxNN29jYXBYcG1seGtB0gHGAUFVX3lxTE9vVmoteDgzcXF0RGhMdTFScXk3MjhBOGFGekhZbVNIU3lJT1pxWk9RSEdFRmtLRXpiM0czM3RNcURHdWowaF85RDdTVWJvbGxBdUpZZGdEYVlrM0d5R1N0OGtYVFppS2dDY3RDYVEtaWZINnJneGpxNUUwZFRSV1drT1AybzVwVmNmWWZvS01UdkRFOXV6aEI3MzVJX1kxV2p1SlBwUnd4ekRYT0ZVb2JGR0x3SnNNZFNCVExQZ0tlV2dvYUprdw?oc=5",
+   "published_utc": "2025-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet IAS Saumya Jha who studied MBBS, launched unique AI based concept for students in..., her AIR was…",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQjRfTE43WHd6WHlldm02YmRsWGVDeUxuMEhLUnE5amR6ZDh5V2Q3b1V3ck9MOERkUjhfQkN0YTBtNEhoSEpPeTA3SGl5WnJ2aTNoaVl4ZWkzRXNvVjB0ZHV5OThaU2NBXzV3RF9HaXhMVmxTa19VSS05MVh0VmVlQ3JySVBPM0tPQ2ZyUl9UOU0xTlJKWlI0clZYTFVXNDFfUU1TTDdLNXFIMWcxMmM2eERtTUc0di00NXdHZUR0dHBQTDZ3ejZVd0UtSWd6TjZDNFMySVB5MEtVZGxKWmhXUWJRb29KaUNZeGpxZk9FVzZkSVliU2hpVndhR2lDQW5nVmRYYkJTQlotT3RQV0FMODdtODJjM0h4djliaEZqXzVtblpXekHSAasCQVVfeXFMTmpyU3hNdWcteTZMbGRjR1pwSXhhel8yblBCcFJlRmE0QUE3ZC1nYUl0M0N2YVNjRWNjNnk5NEJaVEFCbk1lTnVGckI5Z2tEU2tWeExCcXVrMmQ2R01tem9vc1BYT1lWQU1UUXlRSERJakcxUmxad0xISVNfUVg1SFRCOE9xV0o2ejdXTGFhNngwbHl5X3k2VHB3UjF4M1VrV3RVVXIwNnVUbjB4dTIzNl85Qk9iUmdRN29tSGJKMWJPOFoxMXdxUUhUQlZYa1pTbVB5anFpRWx0Q00yRWl5bUxCaW13NkFheWFNT2w0S3ZKRFNORU1DbFdWUjZLXzI5dzJ4aVdwdFRJLXpVeVBZVm9zSVEzRFpwWGo1bXJqTEpqOWdjRWZqWXNYSkU?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "1 Wall, 4 Litres Of Paint, 233 People: Madhya Pradesh School's Math Miracle",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDZPUVJ5RUx4R0lJbERBV09uM2tSbVFmNWlfNmprWW1jNEs0X3AzenZYYjVZdXlMUC1WRjJwVWJzb1Q3T21rU3Q3TmVkcFIwaTBqb3dvZnd6TjUtMnR2VEFJWWZvTHBXM1kwQU9XVDZKOFJKNGNXZmUtbHhtWUN5cHVpbDU0MkJpR09MRkpaT1NmV0E5RVBVWVU0elo4RVdQZWpNN1VhWlQwYVQtbVZQM9IBuAFBVV95cUxOUE1UQ3dBekhPdjc5Qnowa1Z6Smlsb3ZMUXozd3U5YjFKR3R1RDljOWtWSTU2aEJsZ1Rzd09xazJIV0JNdHRJU2lhTlhUaUxTaGRxV08zSk1pN3FEX2tjOGJyMktHc3ZGX1g3eDNjLVU4QWpOand1cWFZUGllYmpVdl9GU3hHMlNtdkJfaUtZV1Azb010UFBic2lXRmlLcXpiU3N3d21wOVM2bF8wdEsyOU9taVBVdGJS?oc=5",
+   "published_utc": "2025-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt to Award ₹239 Crore to 94,000 Top Scoring Class 12 Students",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZU1uWDN5YTlCNm5lb252cWEyRURRX29tOHcybWhRYlBfX3JkVnBHTktYZk1BLWo5SjFfRjlURTNOcTdlODE2UkpSRjJQcURPaHpEQ05CejhDaTZxTmhTWGVnQmZuU3lWdmgxcG9kUGlzZGEtbFhKbUdvckVTTmhSRWxiZFZaSjlSdGVLZ3hhUk9LbHNwaUVaOFBwbHhxcVpsTUp0QUU4WmZsbW81OWpSQlRXODBoVDJQQWN3MWhodXVRcWJZaEE?oc=5",
+   "published_utc": "2025-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

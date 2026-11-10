@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Cabinet approves semiconductor manufacturing units in ODISHA, PUNJAB and ANDHRA PRADESH with an outlay of Rs.4600 crore",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNlVaQ2s2UVVVM29EZ1BUTmhZLWRZOUFRR0ZBdmF0dkdjZHJ6dm12bTg4Si1vdzJ3VkNfcHZwaV9RVmdqYkJITC1ZakdHWDE4dkpjT2JocjVkSEdPWEZISnY5eF9CR2pmbkZ0M1dqelJjanFCSTZkcWtEODBfcVVDNk00dFN4NTI0NWVYTl8wS1hPbUNUdDhjWklkMWMzTld3dTVhYURJcklQU08ySTQzNmFmVTFlVEpYQndZQ19kM2hXY1QxZGk4dGlDN1E1bno4TmEwMFoyOU8zV09KRzZvVzhwOUxLQ1lYQmh2N1RHT1hLWXNj?oc=5",
+   "published_utc": "2025-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt launches BRAIN programme to boost AI-driven affordable healthcare, medtech innovation",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOem1yWTZ2Q1lXS015QzR5VTVwLVVvRDg2V005VHdCcWl4a0hMUEtjQ2N0TXFfUVc4ZzExT1l6UTVrOXhkcGdYLVgzR2NoR21ubHZVVHRxMi1wWFBCTTVSOXpsUTlWZEVETEliRUltQkJGdnhxQW5wWDVUajZ6anZVblF2cXM2UFNVX2R3OUtxLWRiaXg2YU81MW85b2lScDFBdVRkajAwYjdKRXA4M3h2UTduQ1VEdnUyQlNUbDdhdGoxMlNfdm9QUjNrdGJVOGdubmU2MVNuQmTSAd4BQVVfeXFMTk5pZlZiZFlCbGlVUUl5MlZYbEwwdDQweHZpdlByRE5YODZUN2FHYjNHNEpMTU5vZThmNzJnMmxRblA1RWQ2YXRvOEIyRFY4N3RrY2dSOVJPSU56czNvNDQ0VGhxTVFWa0M1a2luSjRtRlBWWEZLVXFFVzVKSEhlVEpneUF3VTJWSFN0UGZ1XzRIN2g5NkotOVJselNuSF9ZN210aHZwNG5kdkpHV2x0Q1hyY1ktUzl4ZjRwVVFnMkFjREJ0bmlTT0dUYkVEeGtMYU9JYnRPZHZNMEVQaXNB?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IT Minister Sridhar Babu accuses Centre of bias in allocating semiconductor project to Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTU0zTklpakxrbVNoWDc4R0J1aGk4ZENiM05XYUhrWEZ4Qy1lSEtJSTk0UXhQMVBtSU9Mbl93T2g1cW9NbjlYT3FHbVJsOFVUYlg5cktMcXNTNndPdFY5WlZNVExLTDNteXdTTHZoRGlPOFc5UnZ1VVRJeTlpZWVyQ3F1M1pJMzFHdGdHOXlrUDNZN2JfdldMeVN0SmdNYUpUNjlRMi1Hby1kbF9vXzVpb0JsOGNNWTVhay1nU0tSVEc0QnhQUmFlZVhCaGd3dWU5UWdPSGYyeUdKdWllWS0tcTRfV0JXbmZPcTNiZTducTYwQ2dUVEHSAYMCQVVfeXFMTk05REwtaGZ5NHp5WlZLRFUtWkw2bGtzS3NfVmpIcUZBTndWWUgzYUlicUV0QWdiV3p2d0EzV1A1aVZrYWJwZ0N5M2t3TjVscUVJcnc4bEQyOXI1dVJxRkRRYTI1d1dINjFGSi1CN3JNNXd5LUY4QU1CdWJXbUVKSEZDaXowcFhXUngwLWVyTjJEUHJIVEsxallVVHdOd3B5Zzk1VHBlR3lldlFnYWdzdVpJNm85SEs1M25GcHJ1cERfbVZMaTlmQmtweDFPN2pTYTR3aWdIMnl4RjQ2UUMyWDB3eTNZalBGVmF2U1RvRTNnOXdVQnpnQ0FJT1pRM2s4TVh4SQ?oc=5",
+   "published_utc": "2025-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chief Minister Naidu hails success of ‘She Leads Andhra’ pilot project in Kuppam",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWTJSYnhjQ0Y5RWtYSHNoYlZJVjV0VHZqdmFCdGdfanlQaUtzejBBZjFXdnprNURjNVF2QnJPWDFibkl3bnJHTmk5TFd0MmxYQTdxM21MZ3lSTHdOdU1vMi1uRUlqM0J6c2xFRkdOYnp1dHo0VHZTMVFVNHZtWnFEeUtRLU5fUVdMbEZSQzU4YldsdUhDMkM4MTlyM04tUkxfN1JQZDBkeUFNM2V3YWlyOW9yTWJZbEdwZ0dCN3pYdmhxM2dkZk90ZUdnRmg5NnE3MHJybzg2Z0stZ2pKTUtMSWhQdDJhbXfSAe4BQVVfeXFMTnlBZlNyUHlnY3I1S21vTkFEamNjd3JGYVNodDFGSlZQSFpHdk9fXzB5UFpRWEhybTQ2UFBvY1ZwZ1FLVDZQOWR4OFJ6RVBoRkxIWHBtakJPZUFKbkxNc0dYaGZzQVpfN2ozU1lBYm5YVnd4cUVDR3JRWk9RRXFJUnB2bTU0Z2ZvNmtoUDh1X3dwT1dJbVhLM0xLMV9PdGJBdGQtczBpZUtOT1BFZGRneU5xSE14VU1QSXE4MDVIMVlVQ2JqMUV6LU11WjdqOU01em1Ld1RhOVl1a0V1ekJtVUZHNEpzTlFIVXdkNDhRQQ?oc=5",
+   "published_utc": "2025-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Health, Quality In Focus In Andhra Pradesh's New Liquor Policy",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2JaS0FWcTBXRlY0MFAzZFNEM0RGX3dGSExXVXZRM0VBeEtNRDF0ci1GR0hzMnprS1gybWMxb0VSSjBjQzNibG9OWWFabmh3SnJyMXZPYVlsUVBzT1hJNDdGQ3ZxRWNiWlpBQ3lreDM5cXdpdUpZbDVZOHBUX2pPVW40SWxKWW4yUjBRbF9tNW5NdVFteUs4cXZjTU1JcFR0ZDFIWE5EbTdNWmdfVnfSAbYBQVVfeXFMTzFFSlN2Rkt6U3YxSmVIM1hiU2l0NjVtMVpRMTFicWN1aXlUYTN5WHdsQWFkeUxyVmp5RGRxRklXbTB0ejFDRUl4UTVOZlZURkxlY1VTZVkxUmtaSGEyOEZEY1UtamV2UzFrc19Ubk1QU21HN1FybTROX0VNTnh3ckZQdkw3Tkc0NVVTZi1ENUlSNkhQb3VGZUI3V2JtVkROakRzNXpGaC1NSlhnNUE0bktuRGVzSFE?oc=5",
+   "published_utc": "2025-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh turns to technology and sustainable growth to close fiscal gap",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlJnUkNKQmlUNDJ3eHVXWFdIZm5GMEJVQWp2RjVLZ1hzOXM0SkdnUVlRRjV5OUo0Z0NHVUxIUXF3QmxWMEl2bG1VWkRYUzFQaE1Xb0Q2bTNMSFphMFlQb1JPek5qRFVXZFVVSUl1VnMzMUlOVVhMcGlOcUFqM1NwUUxXTFNiSTM0TlR0YlFzMHpCQk1oZmxLWmpsX1I5bUY0TWVCbFFUUzBSanFvWmU2UE5GaUwtWTJMLVE?oc=5",
+   "published_utc": "2025-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Minister Nara Lokesh meets Union Minister Jaishankar; seeks support for various initiatives",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY3JaN092RWFvVlNjS2lUVS1xYzA1Mm5FVmN2aEw0T2pEYzN3Z01iZEV2VTlzOW9uOXhjY1pIT2hTSlBKeXp5Qngwd2VnNmVUMHRHbDl1MlhtZkxjYk9tVlAxVFlpZWllZFM2OFpfVEwteHR1alZvdkczOW1tRVFxblJzSFhOVFpTNnAxb094a1hWcEFDVjM4T2N6dXAxYnVvTFBHaktZekhTRDNITTNZWktsQVpiaHZRY092dDZCUXFfbmVfYzF6MGo3TUZMcEVDV2swU1lwTEhyUEFGY0VSOVV1WnRySU1IS2JGcnQ4aXpjdDRQQU4xbDBwMVVDMzk00gGHAkFVX3lxTE9QLWloVTlhZEJpZ2E4Y1ZiNS1fTm84YlktVmhscEplcHBpNEMwZWQ0SFVxdE1hWHAwVnRpUEhPNTJTRFNqZTFkOU9JbVNtSDYzZjZ4MWQ3ZnVmdE1xZHJiVl93OHJnYWZWd3FkSzcyZkZWZ2llcFp6djZhbFpDU2thRUJWbHFPai0yT3lpaGJMU0Eybjk5NlVpaEpUeGhjWTZ6djMyUFlZTnV2NG1YT1B3eFRPM1FfQVlVS1J6R1lxQWJ4cUpqTmwtcnNHZ2FMdGotcDFFdExQTWNqSWZvVUZubGJhMF90QXdiZHJadnRTVE95Nzhsb1NkV1EyZURKTU9Tel85TTI4?oc=5",
+   "published_utc": "2025-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP sets up AI, STEM, robotics labs in 50 govt schools; Lokesh launches Rs 8 crore initiative in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa3VNdnBoRGx5QlNXQnYyX2RfdGV1a3dhRVozNEI5NFAxWkpBZGpQUmZGRHpBNUY2bmNYbUItYmRXLVFtQzhOdWF4VTRvYzVWSnloemNFZGlrd2Nlb3d4UTc2ZWZ0SmkzN0Z1SlJ0YkU5dk1lakxFOVhfQ3I3U0JVSHJHdDBYWGNjZWVKTDZTOEljQ3pIQmtuWDdxZXRXYWNweWh1ZFMtalJzSWNaaGtLZGZBYlNOUG11WHlxbXJ3enY4WS1JdHFKdk5zY3VBNnJUeTFTWjhVcXlSQS1jTGFpcVZwMW9qa21SZVc2LTliNC14MG1SMEJncNIBhgJBVV95cUxNY21idnA4MlR5UkI0QWV1UGgtSUIzdkpwTHExN2Z6NXlHX1ZReF9pZFpwTWxBYklhU1gxeWZkLWVhX3ViSFpGLWVxTFN0MXRuTC1ia3dzNU9XNkpOV200bDFvQ2xxbk9XN2k2S2FLYTB2dl9qRk44d21wTERDMFk5RlN2clFCQVhMRzRhSHM2TDhoN1EwLXBfVURnU3Bjb3I3ODdyZXZNc0FvU1djcXpsMzY0eUNnbENhcUNmZFRleTVCSzhDanlWYzdzcFlJODBDTERKNE9lZW9VVDBiWkxhUHMxd3ZOX25ZUU1HdUlxWk96ZmlLc2t1ZTN0M1NlakF5WG1OTi13?oc=5",
+   "published_utc": "2025-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Chief Minister Chandrababu Naidu’s Singapore Visit Aims to Rebuild Trust",
+   "source_name": "www.tabla.com.sg",
+   "source_domain": "https://www.tabla.com.sg",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUpYQ0hJTkRtZnJjTG9GbmprTEdPSlJEQlNFOGRUUmMtVHR4REI5TTZNYWxZNy15Z1lQY2dYeTkxVnVOSW9iYnBiM0RjX3VUcFVxWkNwX3JIU0E5WWVmZVJZYWg5TEVsV2NGTG9vcVZpbFZ3WGFtWTdsRkt0aUFpOUlTOTZkY0tSNmZxbmJLSFZKaHVFclNWVnVDRHFpVFhRbWIwcGRnRVVlQ0JxWGhXQUhRTk0tQWNIMEI0OWRIY2Q?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "700 public services will be available on WhatsApp from August 15, says Chandrababu Naidu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeEoweW91T0pqWHhWeks3MWM0NTNqT3p2YV9adlM3Q09XdTRFSFlabldjam1BOFB3U1gtYnhYX3lXYy1CLWh0VmtsLWVRU090aDdRYWlJYU9YMmdrWWJObWNBcHNkblhJcWp1bzBwNFZfcG5CTEYyMWtodDF0MHdvTWN0UnFxaVBvZGt6SUNtYXNrUERKdDBLVzBiUnZIZXIwdjVRbEhGa2FpT1ZuWGwwWG1IVmxXekhYdnNUZUtPeW5DYnBtRDhGLVFYeHN5Z0FBRVJqcVBIb2NNdzJpcE5HRjEyUTlDaFd6UGszaVdTUFN0cmfSAfoBQVVfeXFMTXhFMDQxbkVxSjNmbUR4WFlid3hQT083RHJnYTRsQndzSXA1dVFzRG5EbWRnQ2h3allTTWY0cTIxY0tCUlpzTVV6WHVIWGVndlNLMTlCZ1NkMi1fVjctZy0zRS1paUY4Q3NxVFEzb3U1UXV3dzRITllNQmt4N3Q5SXZ5VWMyV2hhbWNVb2xadWlrekRURWxoWmxjTDJIcVFuWTg3QnNvWXYtVi1wOWxKMkRhejJwZkpIY2VfU2dZMnN4UHVfeC1wY0RGNm00ejhKbk1NcWhvZ2dUempzdUtab2Q2cmpZVS1yTktTZTJDaGNuRENsMVJHVnBLdw?oc=5",
+   "published_utc": "2025-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

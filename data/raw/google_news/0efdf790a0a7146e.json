@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Chandrababu Naidu Lays Foundation for $15 Billion Google AI Data Centre Near Visakhapatnam",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUVRcVoxdE9KTjFYZHM2UFUzUldUSDNjV0d1aDBzZGVhcHpQUFRaVGpJN1d4R0tuanlxZGxHY2xaOGdGRzBxYm55LVdoeWE1T2F6WGxGYURPSHhDWEprOEFMUk9mckp3ZlZJUWhoekQ1d25oQ0ppc0UyTnVhVGk0VjhqVTFuN3BSbU83STZtREJzUmJxWEppdWpfcncyV0VBQldKZk9TeW90RXJMcUZhVW1xTFlNZUdUbjhjaWNLOGYyZXpfVUE?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "School Assembly News Headlines (April 28, 2026): India-New Zealand FTA, Kanha Tiger, RBI On Monetary Policy, Deepfake Regulation, UGC ODL Admission, Delhi Metro IPL Crowd",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNWlJWVVlRTXpjeWF4dWtxU05UTXV3MWdlNDBhTjdUa3V3QWgtSTdOdmdtNkQ1WVg0UWVzU01sS0ZLX0ltbG9SM1NKT1NTajY5TVFNdk5YM3Y4SWRCbmU0UTVUeEcwdzNWYUlyYjRFLUZMUUcyVVdZeWlZdWJSSDFpVGk1M0VGUkM4UkNjSTE1eXZZa1VoNW9xbGV0Vk9MZFNEeWtHRXpLdXZRN0VQS3hQc3NXUUNPZmQxSWJ3OExWWmdRZFNGRWpmNDBDT0RnU2NTMklPbjlkUDVlRUt5ZTU1NzhXclBHbUczT29tU0lyY2JWR1l5Z0c1eU1vbDMzTUY3ZFRNRGJHUnRYVlI4YUplWHVXTktseEhaQmd4MVpQUFhfb2dsQVZTR2FPLTVVcWJvWTVNbGVRZmU5Zw?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

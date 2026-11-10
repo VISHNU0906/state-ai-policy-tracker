@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "Gujarat Police launch AI-powered tool to boost NDPS investigations, prosecution",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnZFNkV0Qy14N3N2ZkJUdy1jVHdQOGI0b0dzVWNoT2RhSE5qcFdvWU83RFJzV0lPaEg2Zy04UXpYMW91OHZDUkJQVzdQSXFteVZSTVVKUV9UeExoc21iaVl6eDhLR0FaVnhVTmFkU0RIZ2lvV2VGWTdSb1VTckZOZFNia1BOTHBPRmlJbEVvSmtoVW1DUEZfQVVMcXVEVG93S0JJRjN0aHdjcEU3aHpDTXdVMkxPREJ4aHVpdF9HUWVBMTJPbkp3X0V5S3dKQ0RETGpLWk5FRUNMNDE2N0HSAeQBQVVfeXFMTjdvN3lfUXNBb29zdnFfTnpUeFhfSnJZUG1LNEV1UVprcXc2RldJRUppaFI4TExuOGRicEpHZkFYOWlQaXBXNUM2dW95LVZaNHdmT3dlYXVQUGM1ZkFjXzhib25vZXhQbFprcFEtdG1MYVpZODZEazBVbzRBczlraFJqd3hzZ2ZoWkxaUlYzalBHR3BtcnVzeW5oOUZCTFdEbElMVW1sd25BUTJwTk1xMkZobEVWSHJMUURfd0thZnEwalEyajhKN2g5Q0E5TXA5NEJYWGJXd1p6Z2VwMWFfMmY2elUx?oc=5",
+   "published_utc": "2026-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Gujarat Police’s new AI tool aims to make drug-related cases stronger to ensure convictions",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXRGWVNYaHlWTTdvOHc2c0FSR3VjTWw5MUlXLVVhV05XQjV6MEp6UDVSdGdqUThETmoxa1ZhQk51OU5YLWFoT09SS1Y0SEdlRHhjLWZRR1pzV3VjVmlIbXhCR0p5MVdJWlpPTkFPak9Rc2ZOX3hiRDlsOU5iZ29PVjgxbUR0NHNJMXNNYlF0MWNQTmJpclRmQjQ4NlRzaUpoMjkzTm9zNE5pNzNqT2dIOVZoeVJfbnZOeTFPb0tDY2dmT2fSAcoBQVVfeXFMTWc0YUZsZXlLQWxoRW5DYmJUaGlWNElhXzVIZ1oycHJWV3RrdkVkVGRiZ1ZNTFB5TjROYi1GdmpvSzRDREYzOTFGZlljX0F2enVGMnNqMEdzU2NRVEh2YjdfNUV1NjNoNnZDc1k5d1ZHeDZyTy1mMXZOb0NWRldwNzRuSkl3VnJ2dzMxYkxOUjlERFRqWVZjRDVuczFqUEhWc0h4SkpQQXJfU0lXa1FIek41UGh3NVk2RGdEQzlCZnZ5WGhtYVFQMHl6QQ?oc=5",
+   "published_utc": "2026-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi says, this decade is ‘India’s Techade’ & country’s initiatives in technology, AI & semiconductors are going to benefit entire planet | Akashvani News",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQU3lGdUtZcjFHdVVQMEU5endDdE9aQXhkMWFYQUVZV3Jud29oZEE4cERpUFVsQnZWTkFhWVBFR0U4UENaSEREQk92N1hHTGY1VGZLaXZDOWVnSTNjeFdXRFdaQ0tIdndzUFk4T0JEVjg4by1HX3RtQ01NczlXOWZTS1k2NE1xUGlGd1N0NWtydGVScjVySHVrTnNNNjBZdHJka0xCLXJ5bXhhWDVvN0EtVi1zckRvTGJkSWMxb2JycFhkVHJwNUxTYnlUeXdqSWxzMkFQVXV4TWR5TEZaT3g3VnhvSmRFSkNIc2dZMnlOWE1BemgwTGdCWDFGQmU2eGNLRDRuTTY4ZVZka2t2?oc=5",
+   "published_utc": "2026-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat’s AI crackdown: From FIR to courtroom, police deploy ‘NARIT AI’ to seal drug cases",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcG1vZzdJeFRHUV9MZEJvTWMwY3F3dGcyR3V4enpta1dEMTFBVDVZLTBONmk2eEpIVEE5dlNVUlg2WFMyWXgyTk9qdDA1UWVuN3QwU0ltZmo4eHg0NVd4aWJYWEdQc2p2azdtQWVYdFQ1Qm9sc1doRmdWX2xnOFA1T0otVFEySjY2eGRTV1dTcDFZUHNnb1YwWnUwNGE4SjI2RFlkcVp2OEoyN3FrVDhDc0FMaGFFQ0pjeGVGbXpxbUhPRjVUQW5aZTNmRFFHXzV2alFZUE00ZWtwbkptUEHSAesBQVVfeXFMTnFXME5mNE1CMXNoU3I2NlpwTjRTc0R4VGwtcVlYbmo4T004ajJERTBRRFlkOXVZRkxYZTRDTEctR3JPYjZsb09LSldaUjBRQTdOSmxqZkVackFJOUZ6czFlQ3dUSTEtVktzYTd2eDBOR3pUa3pyMUp6VHNHNWRpcmFyUk5IaExEWHhRa3hwaVRmNDNmUFZOeE1oeW8zVW9mLXI3SEhJS044ZUsxQ0E3S19nbkF4dFh5dzFCd2FxZUEwNWExOWhkd1JIWmdVUWQ3R0lzWUQyVzB2b0FMbEVza3NxREs4SzduOTJ6NA?oc=5",
+   "published_utc": "2026-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat High Court issues notices to Meta, X, Google over PIL petition seeking curb on misuse of AI",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdHBiMXJwRnNCLUFzWGpSWXVCY2UtYlZNUW00dHI0MGZNcV8ySjZtaEVfeC1HQmdVc2R5ZTBuakJFaVdfRWt2c0tVTHBjTWlsZ25MbndodHM4cElxZ2d4U0tkNU9nSlpXaUpfZjhiVkZwb3RBQjMtMGlVSmhocW5Bd3lwWmYtUllnOXVMakJ1SHU1TG5yREdmOFRvd1FLS0tqOEtmam9FcVg4dTJZenZFeUFLUzBoSDFSNmltYzQtZUNOVm03blJVdWRURldFekFvY3dLeGFFbmx5c1ZHVy10Y24xamdHM2tudXhrd9IB8wFBVV95cUxQdExONHZUejd2ZWFPSUVSbEQxVkVOWVVSS3ZhX1I4VTNSUjlvdGxkbkRISDZrWE9TaXllbXR0VTNxeUZ0cDZNSUhiS05TZ2xhRUxKenZzb25NbTJZc3lXZHdRSi10OFpiUUg1UkRtbmhaNUZ0TnNFZGpURm84QVFOZFFXTjk2REtETnJLdkRPaFJCclkzVUxtdlhKRVpVU3RpTHVId1lIUXVPRjFDOFlJa1pQbjFfZEFIX2UxU2toWXBWV2R2Y0cxRmtfOXdNRmxUMEZnNnRJMmcteTdfa1pSbWdJNVpIVHVTTDJ0eXZSREpudGM?oc=5",
+   "published_utc": "2026-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh’s AI-Driven School Education Model",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3JWM210dEg2SWtYcjRqc3poQ3pDaFVQVTdtcUhVdm1CVVJlMEpReHdpODNnZVVKTWxVQ2FmYVJBSkQxak53OGdXeGZ4NXFFQkh5QzFnbTdINnJuc2dxZ2VGaGZFTXR1cTRJeHZzdmN2WVVjS0xiOEh5bFBYaVd6VlB5OVoxZ0FzWk1zdXRRUQ?oc=5",
+   "published_utc": "2026-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat CM Bhupendra Patel inaugurates centenary celebrations of FICCI in Ahmedabad",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWE5QNmhEZjdFX2VnZjlsSF91SVkta0ZDbFRFN2d2NllQM2hhWHh2NktYNGRfUjZpTDVLdjFDcnBIRFhkSDd5aUdSMklBaEZNMy12bWRfaXdKVGhLY3BTTElhb0lxdXlzUXFEdWxqUTBXeGlvb0IzaFlpcWNCRHUzMEV1NzlBTS1EQ3BnZjEzNFFHWTBHVjItU0R0M2JCLWNsVEVVQ0ZpSHZiZnpWbnc?oc=5",
+   "published_utc": "2026-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake Crackdown: Gujarat High Court Issues Notices to Google, Meta, and X Over AI Misuse",
+   "source_name": "Law Trend",
+   "source_domain": "https://lawtrend.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWk1CSzVrdWdkWW5aQ05Heno2bTBxeldaMXd3X1BWYzlGd09aV1Rua2VENlY2UjBBZVZGamVMM0tEcloxTThjSjZqREstTlpGelAwT0ZWdlctdC1ieDlUUk9yVGgzT0U0c1BpV2ZiYk5Tdy1qVUNtcVN1SE5BdjdoeFo4Y2JUUGV0elB1cmRFRkVoR1A0VGZEX2Q4SkZGcHVQOGdMbDYwQ29rWmUxVnc?oc=5",
+   "published_utc": "2026-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-powered tool to help Gujarat Police weed out drug menace",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdV9vWlBMZjRDV25SOFBvR2FSXzJ3UUN1UXdaMzJZTFBIclNKS2R5UEhsNDFXeEdEcGhQSFk3a3BlOHB2NzcyZlBXeC14SmpwSGxwOWhFOVd2N3V3ellZbWt1dERDcjBUTUtYREdnUlpMVGp1cHNTYS1iM3QxdDNwWWJKeGxRdDBJdWJ6dkprTndlbUxtUWx2UTJESzlhMHFTQ1RNY2NPT3NXQUpsc2xwOGZ5MTBBYnRDRmZRddIBwwFBVV95cUxPdUdSdkJVUXBkZ2ZWNzJpREhFSXRCNUoxcGN0WlZmWFg4UlFrSWg0MnpVUzJ5SGZjakFpeldZTGhOMEVOdkptbXFQMHl2Rmx4b3B2YWRkeUJvSGtfTGV3dEhVMEJ2VHNWc2lnZDVlRUFMc1dnT0hqdUtVUGFHZlRKT200SDN0TGZWeC1oQXJuN1VzV2liM2Ita25qdVJlMlBGdU1Cak1OeVJxWWlESUlZalFLSG0yOUttYzBpa1RNSkZCVWc?oc=5",
+   "published_utc": "2026-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP Wins Gujarat Local Polls as 717 Seats Go Unopposed (2026)",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUlVMV9EWTRfMzRUT1N6UkJNcFQ4c3hyamc0WGctS3NYMFU3MFVQdFMzVzRWM1RzcXdzTFgzMEMtbWVJdFFETzB5cTZhX3hHZkNMWnN6TXNQTmtoRElpTGNWSjVTMW1OcXAydmxZem1XOE9tcmhYcXdGa3dSaFJIaFFnemJ5UHZLZjNQWEJGVnlyYTU5V2h4dm5Kd1Z5dVFNWXFFblFTeGxvd9IBsAFBVV95cUxOa3pXRkZXU0t0SzZoeGVmeHpDUzZuek1BNVk4dm1UamNVOWp1d0pSMFZqcmRGTWxadm1lODRleVBDTlo3bTdDUndyUndpeUpkM3hJZEpMSXZ5dGM5azNCT3ZtQ2JvN0ZDeHJhTF9rdFFhRVVrbFhXeUF0dU9Uc0h6SHR2ZnA3NXN5QTBWSVhyYUs5MDR4LUtYR0JfWUxGM1BfTVgwUFFJOWotVUJXZkxLTg?oc=5",
+   "published_utc": "2026-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

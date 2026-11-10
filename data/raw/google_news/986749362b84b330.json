@@ -1,0 +1,53 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-08-01 before:2026-09-01",
+ "items": [
+  {
+   "title": "Fortune plans ₹ 60,000 crore data centre in Telangana",
+   "source_name": "Hyderabad Mail",
+   "source_domain": "https://hyderabadmail.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHNybHdLZE9KZjBHYm1YSml3cUhxbW15TnJSNkpESkt5TngtTWJuS0tKV21lZ3NDMTlQUjc0a0NYVG9OOTcyTEVpVU5KWFZ6aE15MHo5cDJJbWNYQks2SkpMNU1LcS1FOUh3aWJnUTZka1FmdzNKTGt2b2FXcGJCSHdIakdhdjg?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s data centre pipeline may create 4.33 lakh jobs by 2030",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVFnLUx4VlZXX2lNT0t6em5fT29kLUczUEYyS056eXJvallRQVpYR1IyNGJYZlRmZkhPcDlhYzh3Y21CbHd5NTVxXzJScFBoc2RwSzRNY3dLTVltUzF1NTlkSFVmS0RLM0N4YUNRSEs5a0cwYU85cVVWMXZ3WDM4dWV4R2VCaktFUXhyVC1vU0hrdw?oc=5",
+   "published_utc": "2026-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian states are in a race for power grid dominance. The prize: data centre expansion",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFNHT3RCWHRlMmhiM2VvYTVoc1NZUGlUc0dtQlZkS3Q5YndPTklBQkZURUJ5UlVTMzA2M1FHUkFkVkVsQ3hmV0IwZUJEc1JZVDRHMTQ4SkRnTlhpczUwNXc1VWEzTmZlcWpTdlRIX3otQ1ZTcHB2RnROVExaaldoNEJvQ205V1oxVS1nWExldGdvMmpNUWs0OHd5UkQ3dlhVWllaYWtJWWdHa0tCdEEySjN1a29ZWHlMTVFv0gHAAUFVX3lxTE1KaGwyU3NfVFVVeU5nemczeVpZM1djVkJ4VF9sN3ZuaHE1Ti0xVHFUN2h3UnBSeW94MDlMMzFFUEFhNndudEZSc3JyMWd1c3puUlRYZkdYYkZ6QUlMbTlNQy1sWFJCMGlXX1psZGZWcTZaMVVfYVRtaTRac3JZVkNxWlhubUxVOGFtTUZtY3dkY1NaTkhHN2RubklkZ1FjM01HR3FKdF9EMmRBVFBWVHVUMG1ycTZaNVgxeHh6b1pETA?oc=5",
+   "published_utc": "2026-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai, Hyderabad drive India’s rise as global data centre powerhouse",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1lWeG9QdmVrdUViX0lHQlpQWFN4cVFJQXg3N2FGeTQzamtLTXAwVW4tYVVjdV8tVmNJWjQ5RFVVV0ZsVE9OTXhuTE83T0I2Z21GaF84MFl1WmlEOGJZczRQSkNNZGFTUWJoU00wRG9aYTBKa2Z2cm5OMC1sQW5WOVZCMlc2TzZBNmZsUDhtdzI5Tnk1THRWak1B?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad ranks among world’s fastest-growing data centre markets",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0ZuQThRQmpzbWZnNDcyM29TMVVDWUlPX1NCTjdkWTBhNFY2UU5Hd0swdTRSUUlvX0VkWDdqRnVJaHdvNmVEZFBIUDlXSE01clA0M2QySzB5ckNhM0s1X2l4d1hnN3ROX2ZBdWtCWTFFNlBYQ2NaeURHbmxCNXphaWJJYTgxTXVSSWlJdnpuaHNKbTNmd3c?oc=5",
+   "published_utc": "2026-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India emerges as top APAC data centre market outside China: BloombergNEF",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3lNcGNLcXFPRGxoTkFCSWVUSmMzNG15TXJLNlpVZ1phTXJ2SkFLekdvb2M1alREYVM2dGVETXNBanRBUW9YejVWVV9KOW9YejU5bllJUm53YURvXzRMTjd6SVFNTU5pV08wY1gxSExHa21Lc0QxNkVFcFlUem5xY3NHUlhTc1k5YUZibmxoZGxpZGpQQWpDZy1fbUpfUDg?oc=5",
+   "published_utc": "2026-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

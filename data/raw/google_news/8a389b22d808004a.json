@@ -1,0 +1,77 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-04-01 before:2025-05-01",
+ "items": [
+  {
+   "title": "MP becomes first state to implement AI-based real-time forest management system: officials",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSGtkNUpiSXNuU0d4M1diSE9IM3RYYWhnbFBPTU1tSVctVHBTaHJQdWs2bkluNnpIUUpXV2dkaTVoMGRYSm5JSGdvOE1kclVfSDdwQlRPYWxKSXRwRnVqUXgydlp0WVFMZ2ZBUzE1LThFZVVEZUNpQ2tiLTRRZHBBTkhFQ1RwYXlseGxNQUI4elExRFRadWxRenpzTzZxck5PZkRRZEpOMkRZdlNEajVQYi1DQ0JrNG1Ua3pHcEJma2NYd9IBxwFBVV95cUxNMmRHZEdJekNKT2kzY2RaMTNmei10NTJRLUZMY3JZVjFYYjBLSnM4ZzdIRVlnM0ptZ2VZZlJ6bVRJbTVuM1lCem1zVXdMczR4b2pVWk04dEFDOTl6Q3VLaFVCZ2Y0djZ5NXZyckk5T0txakd2cXdPQlA2My1GeUdSWFN3WXBud1A3OHp4N08yQlV5eS1RUnItNC1NdnBDNFhQdjNzN1BXMEF2NDdoWlo3dlVjcmh4NjZub3B2Y1BiMndkOEVjRVJj?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gadkari, Madhya Pradesh CM Yadav inaugurate 10 national highway projects worth ₹5800 cr in Dhar",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmptOUo0NGFTYkVWTldWNHFBaWRZckZlU2c1WkxNWG1fdlNlcUk1TTE1Z1FaODRfV2Y5V0k2SGJnMm43U3JtWjZudGFRWklPRU1rVmRGUm1GMkJkU3E1MTVtdnoydzI1QlR6QnBWOHdEaDBhUTcxSUg1OXJ5SG1jRlRGN0NDMXZRQWxxZVhFOVp4UjJvaHhjRjNCbzR0VnJmc2xVQVUtU3IzblBVOTFHQTkyTTBFZm5sMHluLWhUMGQ4c05UN0FOMTJHdE1zd25XT29yZkE1ZnVEU0RyT3VlellZRmk0SFRST05BR2hfQ3VyZWRJWWZZbmhWa1p1aC1jLWJR0gH-AUFVX3lxTFBOQ0JTS2J1N20xRTNrcHJtRkN1dHdpcWxJcUVweFYtVGkzLU14ZVliVVZNVnIxRlExYXdRVEdDM2JPOGx3b1JKRHF3eFZ5cm1FSXZ4VHpxMkhkWTJFdFBmc1lRX0wyMkZZYlJnd084MVNEYzFyY0tTM0Q4WkdoTUV4TDROMmtSeDdXWTZRMGx4VXdFT2tUSTJ2Vm5yY01rVTJkS1R6RWZ5c28waXBLZjBHNTM3Mk0tVkFHcUhHcVlISzY1MndOYkdLOF9SZnNFWTR5T1h3SGNGTnZsV3JKM1pyVGo4d084TWhXaFlIdklFc0FZRHlLdGxVVU5zSl9R?oc=5",
+   "published_utc": "2025-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CtrlS gets Bhopal CM to break ground on its data centre",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHF5VFlldUstV1lKWE1QOTl6MmplOTZFQjdERDNvemFXcl9lUDdFek42MVZOYWVjMHdKeTFlck5rQkx0cjdTdGdlQXRlM2hiUGpZdTJJejlrRl9uVERnWkVMcVE4OXNaRVlfOFl0SzJpMDY2UjJJcWRydm9TNjYyOWs5c0M?oc=5",
+   "published_utc": "2025-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Launches India’s First AI-Based Real-Time Forest Alert System",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2FmSU43dERmU0tOQ19EX3p6OUZQYmpaLU9aUXlGQmozZ3pPSlQzOHN6aFVSLVphZVA1LTJKN21fWFJlbTgtMEE5cERVbDhRVVNDMUtTaGNVZkYyRzFCanhsVm41SDk4RUdWTHpWQkN3RXNKQkxoRnl3dmJEcnF1eWFEbGtCTk1teWpOLXdVNkx6UmZqRl9CeUl1SkFCVHZTazEyTzMzaFI?oc=5",
+   "published_utc": "2025-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CtrlS announces Rs 500 crore investment for greenfield datacenter in Bhopal",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3REcFB4MkN3cHZsVWxqbHJFbmQwdURqdVh5SWRfMXNoY3k4Y2dqd2VIQkZoYnRHc1M0a3ZKbnE4TU9DdzYwQnlfQm9OY1ZXOTRLNU5KeFpEcGpGTFRKa184LUpwNVpBV2FoYi12dkFXQndlRGNrdG43MlZGd1JNSF81VWoxZjRkM01DSlgwelBTU1Z2VFI2TjlEV1pIamxpakZ4N2ZQd0szYjg5NFpFaW1teGM?oc=5",
+   "published_utc": "2025-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyd-based CtrlS Datacenters to invest Rs 500 cr for greenfield data centre in Bhopal",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUV1NW91anRLa3h3SjRvMHlWYXFURG1tTllONEk1N1YwdmZKOU9oN0lXREJaeTMtRFFoVHV0LU1ZLXB5VGNyVy0yNTJqbm0tMDZ5Q0d6OUJMSVRaUmgwMGVvbzY3S09DVFRRaWpxcXpTWF9qdXA1VTlLNEs4c3pkVGtLeHVFYjFTbnFJeVFLVHU5Tk4tWnZoX3pYNlNVUmU2NTlSQVc5MjRNU2VObWxzMg?oc=5",
+   "published_utc": "2025-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP's SADA to be redeveloped after 33 years, likely to see big-ticket investments",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1FzRndOeFA5bWpvei1iRW5wRkE2VkQxeE9HMklETGIyNXV4RXpYZTJCOEFYV3E4U05aMVlDUHQzMlpHSWNMOWtRTU93YnhqOTUyN1VvckhjSFJhQkhLX3h3VjZGa2xXTXJZTERkX0pFQ09YVXJueGprZDlwSGdnbjV3N0JYUEMtRFNLUkVlaGM1bzYxN1hPZGNRNFVuVmJnbjhUcC0tdUtNSTNvZ3FReGV5ZmN5bTZQRVE3SzRMbU11OUVwcmd0SUhiTF9TclJFenVvbnJiNXZZSk5rak5iYXJLNWpGNnlBUS0xbtIB8gFBVV95cUxPVHpiMmhOeXlhN2tEa1pHaU1KcUFQREs0REw0aGR4UjRBLUJBS2szREdnVWNMc0syQ09lVnRsNFBCUWNMWGtnQjlfaHBFcVBtdFJUZ1VPTklEemI3em1nWUduWjNEZnc2V2NwMGVlRTlYNWFkVXR5WjVGZkFuUkxVVVVuaFhjUV94cHJ5RzZ3bXBpOHVqbVFhQUFYbTd5NTBHQkNwS1lFT05qRmVCcDRxWjJWdDZ4Y1RIYURrMjFCdkNtVFJYRW1faWIwZUQxZExfbWp6MzZocGZvVHJQand3dl9SSnQ3ZFdFRk5MRDFOc09mdw?oc=5",
+   "published_utc": "2025-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Becomes First State to Use AI for Real-Time Forest Monitoring",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmZXQmJRd1B4U1RuYUZURjRQZ25CdEg3U2c3dmVTVndNZHZSUlR6bW1vV0NULVVHTXRhNFJVdFlzTTd2SVlKQWFnN0diM2gxMUJ1YXVlekJVR2wwbDh0VGNNYzVXQWNZTmZHNFdGTDJPNlhXaXlIa3ZzenF4a2VvX1dNNUhHdlRQWmtka19JOC1WY29GVFlIdDJmMzd1UE1odlBCcGh1dmtWZFBqTEJ6am9jVUQ2Nzd0Q3BV?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: New Tube Well Management Module Launched, Mobile Application Launched For Management",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUE4eHEtb0gxTE9zRlNlbHlDeGt3aXBWSVVEU05iY2VNSnR0YWFDM2dCYVFVQ3d3dnQwRll5YnlURXo2VUkybGRDbHBPekFsMTNaMmlfRWh3dGtoVDlXX0dIN1NNVDN4N0N2cXVrTjJnQjhQTjN1ek9mTFE3WGNDS2hURlpRb2p1S25DYzZpT1pZTVlPSzBVZkFTV1BWU0FCSEU4Z1BxcldmSjBBUU1PX1RnM1FqXzlXbzUwTXVSVTh4a2d4NEFvRXRWT0tEYTNaUTRz0gHYAUFVX3lxTE9sMkVNaW5idjdvNklabUNtTG5FN2lBTGtLcFJPNlFPc2JBVk40OGdWelp0VFI1UmIydldYU3l4dUdtbnJYb2cxYm1SSkg5S1JZZ1BrdHFkaHI0RElPaWRrOHlJVHh6aTRmQkVZSEtJd1JWcXJEemptTFl3a2UyV2NZUEJsZEg0anIyQ0dLU21JUWtJYjFSUjktbzl1U2NHbzk5aWxOSVZPOFAwWlg3OUlONTFJSWZTX3R4TUMyemprYm9GTzdOaWhIZGxYeG16Q2lCaXlqT1JhSA?oc=5",
+   "published_utc": "2025-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

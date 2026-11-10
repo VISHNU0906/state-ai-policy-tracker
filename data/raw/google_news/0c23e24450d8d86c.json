@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "GoI and UNICEF: Peer-Support Critical for Adolescent Mental Health",
+   "source_name": "Unicef",
+   "source_domain": "https://www.unicef.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlZDX1RHa2JaOURDaTdOM3gxQVl0OGM5cl9ReGQ1aDIyaDR0LThGS25xY200RGhZYXFfRWxoRDlYLU93SDNOanJkSDBzb2Y2WXB4Xzh5bTZDaFUzMHNFSjJCNmRabjR4UllGZWx6TkwybkZRbUphNU5PbDRjMlJ3RkZ2X25WN0JvZjZNVldVRUhRRDR2V2c2UGR6bnIxeEpoX2xRbk5FelE?oc=5",
+   "published_utc": "2025-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh’s digital water mission: SCADA, GIS and community-driven rural supply models",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOclJBcHhCN1JPb3F6VDF3MUVMTEVQQ0g4TFFnMHk4ZVQ3dVRYSUFiVnpsMlhZeVJ3MU13cUlOMlUwVEV1bk9rT3QwMDdkaDY5YkxLVkF6OFpoTGRtOUZqZXB4ZVdqdjZfeW9OVlJqRGdwdXZBQ2tmYjhrOE83dGNxbk9JdEtjT19sOFlXSW85R0dCMmtBbVF4Y3Uya2ZRYW01bHg2ck1XRXFmU2NYOE0tTk5iZ3JqRk9qRnlrbXhPWjRqaGNGWXZDam50cHdrM0NHUDd0bEYyUWtCWXdzR1p0Q3NtdEZpeHhubGdIb285bkPSAfQBQVVfeXFMT1ZpSm9TbW12WkgyTXRmMXlKalc4d1NObTIwcldKX3lKYmU1SS13cm5mdDJQS1JLVmhCWHNCdHdKeTFGWVJLY1hpTGdJRk1rRjM1eFcwVlFaenF6YS04a0FZN2F5OGJmbkpSVkJVdXFvQl9YUUluajZvMkdEeW1WaF93R3BidUNOX1hmd3hBNEJFczV6X21jSTZYUEFMRVMzY0xEWTJPZHNGSGVNNy1BaGtseTk3WjlHN18zcDlPLUo0Q0V3Qi1GWUJOdmpJZXNLVWMycUxwSmQxZGFtejZlQm1EYWwyVF9wU3hzR2plUWl0S2pvWQ?oc=5",
+   "published_utc": "2025-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "M.P. receives investment proposals over ₹11,000 crore from Spain and Dubai, says CM Yadav",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMVB3OS1tdk1DMS1GVENzYXlhUGJZRHhuSGhaWUNWN25DTjgxYjk3OXdsZ1pweXZWQWpYWmJxMk5xTzNsUlRBRHJyajgtTDdBclhtU3JzS09aWUZnMHdqdXVmR0dHMU93QmlndlZ2VE1tVDBCVkVhZUVfWUU1YTd2ZkNkWW90QVdxSHgza0k1dEl2aFdKWGdPRGhjVTVrTUZWbFREa29xLUZ3c3Y4ZG1aLThEQ1R2RVZ3d2huQUJ6alRtTmJnc0w4ZThJdmxpQjV3ZjJENWlYVFJadnFZQXpMVDMyblBwY0JsV3Jib3RBZ9IB9gFBVV95cUxPRkRmcTJtTkVSeWRKQVB5NHJoYWU0amYwNzVfMFh4ZkFGa28zQXRnc19teUZKanM2bjhoS1NiUTNzWEVKc1FaVzlOMWpMQnFvY2RQS2kxbzhPYzdvSzIwT0R4QllUN2NDeDhKeUdOaWhyTTZoMWQ1WEJyWlVVYWNYc1dzOUhzSnpabVdDakl0QlhCWklTN3dlYXRWQjh4MlBmMmhlRFRZMUJCNndNNlpYLU5GNE9Ec2xDOU5rcDlVUm9oNUgzb2lsR1FGYU04Q1R3dzZVN3hJdFl4aTRaLXM3enV6dHBMQ19qVFhURVpzc28zZDdueWc?oc=5",
+   "published_utc": "2025-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh bags Rs 11,119 crore investment from CM Mohan Yadav’s UAE-Spain tour",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3V2QTQ3bTVWazc5SVd3MllWaUtieTdsTTRRWlZ3cUY2SDJoMXlRZGMxNnFGRjcyVVkxRVM5V0hveFRxeGFPdXhxMlJCcW04TnNaTndPR3dyTG96U05PY3NhNXp2XzBFOXpFSHV0WUVDTE9CbXpxS3FsSm1BTkJJQkRtNFhhWFJXVnB0dWpxMFhmYkhLMzFPMXpydFJRUm5mX3hKSHlvRzhBSi1Qcl9nT0M0TDdQYnJDNXZIQ0NKT1h0cjlfUjdPRDVuMnrSAdoBQVVfeXFMTlduV0pQU0hCd1RfbHRPZ0xxLWpFcVB0cExUTmxQVDBLWXY5Nnl3VzBBNjgyOENLRjhNT21iYnNmR1l5Y3g5NzlWZ2NNYzJLdHZzZjVRR2tQVGpCSllzM0JfczJLc3BwSEtrbi16Z05neGNDNVdsX25xWnJMQVFXbmxDRlQ2d3BuV1g0Y3JFQXlrRk5RcVNJNnR2MjZ0YmxoLURrTmtJZ0JiMHRhTEVfMXpCZ1B2X0VxRUdiV294Y0JITWRyVVl4dXlWekRwX2s1WV92UF83c05sMGc?oc=5",
+   "published_utc": "2025-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kaynes Electronics to Set Up ₹352 Crore Manufacturing Plant in Bhopal, Create 1,000 Jobs",
+   "source_name": "analyticsindiamag.com",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdFlVVWdGSkVLSHlmSHRqTzliUERnMVY2RjhiNVZFOG5BMHlGdm9QdWZsc2EySU1RVGZJREJ0QzFWLXlQcUxPVXBNY1lCQmZ3OVVSSTJHQkNZeThnQVBIOWh0LTdIdVh5TjFPN1lrWm01LXQtcUJwSjQyNVVqbGhxS2h0MV92MjhlUGtTZzJvbTBzNlFHRWEwQm15WmNiWlNObGlZUkdrYUNfTkd3VUV3YkFBTjY1SF84Y1ZpN0V0YjJQc3M3WGtuS05pdkpmcDc1?oc=5",
+   "published_utc": "2025-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cracks In Rs 500-Crore Project? Airport Wall Collapses After Rain In Madhya Pradesh's Rewa",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0ZCNTdJWmVTQnlKNG1wQVRpLWZ1V1dSYjlWc0F4dmdOekxVcVBibVQ3eFRsdk1fR3l3UkNkelM2N1FHUnk3ZmhBa2NyMHhOb0x4OGRiZ0xGbTV6c2F1cnQyNEhrZUNiWFNWbHpjWGNocGVFWTZvd2hsNy1YTlhpZndGZzN0UnF1MHBBWm83M3lWeFJ4a2xlYXhWcEtqbkZ0NkVPQzg3UU5IeF9fdlRJM3pldG9GbGR6RzRGdmxuV1NoMFd0UlVJ0gHPAUFVX3lxTE9lTzhGNGpTX2JGa3RTMnVmUC1KYWtPN3BPai1YZjJ5emhrWDB0RVpDckxrWk1lcVZuYnBPc1MxOWxoWkxpSTEyOVlydnMwWVUxRjRpNXllWTFFUlZkcXh5U3FlVkFpYlZEWVg3TDhYQkpSMVgzeFpnYU5vb0F1TWk1WGlyaldWaGJXekJiODdUdGtiVWM3ck9KU3V0bHhYX3VWMnlSN2c0VW1ybUJtSGxQeUlaeW9aVElsY3BBcmxnT0pwdjc4N0FuWVRTLXhjdw?oc=5",
+   "published_utc": "2025-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Omaxe to invest ₹1,200 crore to develop 450-acre township in Indore",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb1JXcHZPMTR4cnRuVEFJVzN6ZmZmek44MlN4UC1pckNWbEdQRmVnTHQ5SVlYZmdyTnFndnBqaExjLW1KMkU5bldlby1DNU53UG9LNUlXUXMxVDFtb1FCWmhiRjBlSWRieDZHOEVmNHRHMURnTDVOUU1icHE2MFRDakd6VDc0TFRmNmszT2FGQ0ZlQkxUZ0k2cjFlRFpxejQ5R0wwTHMzdkp3akxHZ3AyeWltTWc4QUZVeTFBVlMwampFQzh4NFd6YnBEdDROUEVtNDVfa2RISm93ZGfSAeABQVVfeXFMUGt4ZExrMnMxc0VNOEJacllCc1p5WV9IZkpHUURHbTg1bGJNY04wWENsZmliNG94RkZ6dVJuUnRldGJxNmdNY1hSLU9jR2hTcW1aR0pZR2lVc25aR0N6SGRVY05MVExYRVJFX1JnR0JySHB4amVUUnp0d00yY0tFSHNZbTI4NG9DMzcwNV9aRzRVU0RfcExURDlrZVlEX0dhWWpLLXV5Rm9VaXgtdDM1OWR2Zk5IV2pZOWZ3bDh3dDF2d2RPMXpsZTh3QUhtTkxkb25VWXFuSkxmSHpBY01TVU8?oc=5",
+   "published_utc": "2025-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Antique Coins And Rs 2 Crore Promise: Man, 60, Shoots Self Over Cyber Scam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFRxcGZVNXJBS0F2QkdDbjR4ZlY4dENudHliME91UFNRNmctcU9FSFYyZG1lbk9rMXVYSVQyRHFwTUdKUlExdlVkS3hIc01fTDkzZGtpT3N3empqeWg2YnBlUkQzcGVreXFwOUJzWWFJX1ktMF8xb094SzQxMW5nUTZUZzdjSnROOUxTTG9TM1M3Ym1Yd0V3emFMM1doN09hdEw4NXlyS1UzT2VSOU5WTG9lSlp1TWlBVzdjVkdOaEZwUnhXY1BQMDB6V1d1d2ExWkk40gHbAUFVX3lxTFBaOUJCN3NseXNKWGpiNHdzQWNFSlVNYXlmMFdqa1JER0FyblZ6TzQzWUhRWnpMRVY5ekpnb1hPZG9aOU5zaF8ydTRMZXRGd1V6U0F2YjROR3BTV1hYMFY2UmpObGl0NUlkYlVTN3VBWmR1bTlxbXF3SHREVENjR29VZTNWQndmZmVMVTlZS2x0SGVuMWdhclBpaF9uTm9wUTF1Ynk5VXA3LWRCOTBGV3dYNHk5VjBtb3otRmhYRVVWRUJORHo5Y1h6eUQ0TDEyWkNibW9iZGJtNkl2Yw?oc=5",
+   "published_utc": "2025-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

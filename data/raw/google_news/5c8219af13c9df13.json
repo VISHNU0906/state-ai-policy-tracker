@@ -1,0 +1,37 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Karnataka govt. approves sustainable data centre to address AI’s environmental footprint",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX0N1UTFIMVhKUmNadzZIdjB3a1ozclg0ZHFxUzYxMkYyRmpnSFN1Z1ZZVU0wX3UyclhPcktOODVhS0tCaDcyUGFqNndUaE1SSzJfc0I5N1ExZENHVVhPSGRPMk5ReTBhSEJSdjFHYy1qek1ZVzJ0bVpIbElrTmNyWUNsSnVidEs0RHA3bXh4Ni0xZDE4Vzl4c0Z3WDRhb1dlbUFjS1hqY1BwUU5TN2FNZDcwbkZCVVA1SERWR0dhZGFNTHhEdk12LXd5X1NRUG9HemYyWnlGVE80QnlWVW1SYm43VkhmUWpC0gHvAUFVX3lxTE9xWTItLVpSR3FhQXZiS0V4aDJmdS1TWm5HQ1JWMDBEMHpFZFVmc2tZNm9kZnhHNkwyaEdWY2pOY0QzN21Jd0FfSDg3RDlZQUxtcGhzNXQ1cmlFVmxOa0xUMDFRcGo5ekFvT0JUT2ZtMVpuT2c4V192UUdZUTBIV2lHVGwtdy01NjNTM3djSmxBVnZQdm0zVFRlams0MWRsLWdTQVAyN2ZfaExTWVRTaWdfZTBLU29zaks5RTZjNUlBQlRxVUw4R2dPSFpwUGdvUEdWWVEzVEVhZXdXRzl1M3JYbUV0cmhQT2tpbjEzVzk0?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Announces ₹70,000 Crore AI Data Centre in Future City",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnA0NS1iZHNhRDBlbTE1bnJiM0FveE9YUXZBUTFJci1qZ2NwaHhMTm8zWC11QzhwVWVNVW51UlFWYTZBWENXMVJzdmZPYmI4NFlOSEw4cnd6c1ZUVU9DaXotejlIVmJLRU9nQkllME43WUFrS3hqZGVjSjRCekJ5QmpWa0xXNThXVEdDeTA2bTE2YUFUWjJtMGxLejdjTXVjQ05VNjFJZ1VubnpL?oc=5",
+   "published_utc": "2026-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka CM D K Shivakumar's 100-day report: 7.5% quota, AI from Class 6, AI university and 72,000 governme..",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdTdCS3UtbXZpNVh1R1RXaGVnZGhrQUdZZ2NQMDZ3blp3SFFqeEVhM2JVZV9jOUtKTmJpdUt5ZzZLQVBxTEpsZjc4SV9jQ21TQUhULVFyR2RheDMzRVUtY3V5WDNPTGE3bEVjSFBYQU8xZ2t3U1dxZGo4ckUzdG03WFVTX19MTjdyY3pLNjdjYzZoV0tLQl9CaEhDaEMxZTVUc1c0Nk5RS3U2TmtWV2ZXeGZZbURiZjVidk05OWEwaG4yY2hkbVRBQVRnZHRkS1Zub09oVnU0U2FTSU1RMkI0ckV3ajJmeTVvaWl5QWJhQjh5dGI4LXBhQmtqUXh4THdVUzBoU0hmWEswRHB2clZMSU9uaElXX2dBM1Qw0gGfAkFVX3lxTE82cldaSjZJNkFRazlwaHNrWnJjMXdzc1UwVGg5UVZOZ2hMZWhGVWdhU1hodER3R3JCaUVWejRSb2Y2aC1UeUY1YWw3cmYwSjhtd0lFNjk5dFlLS0Q3blp0NHdZM0tfa2RXRmFfUXlfVFlOU0xlTlRDdVEzWXJUYmJ6X0JNbXIyMGg0ZXBPaXhGUkpNTVFJMDdTYmRDX0twaWh6eF83VDg2ckhtcmFHSHVVTGt6LVpIRURhRkRMa1VrQkIycFVicFJJbXhoWVBuanJlUXVUU3piOFpfbWdhMDBRaGFIc29PWmRqWnoxeHp5STktY0N0aFphRnZjS2ZaSzhQVTgtaE1KdFY0Uy02a0Q2SWhOX1pBNnM1dXhsdzJN?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BEL Signs MoU with C-DAC to Jointly Pursue Sovereign Data Centre Infrastructure Opportunities",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGw5R1dmaFFBaGduZ0VuV0NNMThmVmNqaVNyMDZ1WTVUSFZDSjFQUXdRNVdublppRVc1QWh1MWRrSWVTZGo4YldpZnZfa3g2bG5iMWp2MVV1c0M0dTBwMG1feWFIUzlQallvUFRQNURYRnAzYi1nZy1WbWQ5VXlPcE9TYTRVdERmcUZ6YkxPeTV3NHd3WGhN?oc=5",
+   "published_utc": "2026-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

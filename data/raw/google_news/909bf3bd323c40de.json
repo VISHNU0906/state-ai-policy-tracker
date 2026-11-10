@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-11-01 before:2025-12-01",
+ "items": [
+  {
+   "title": "Huge Protest After Madhya Pradesh School Suspends 4 Over Principal's AI-Morphed Pic",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFpnMVJzRG8waWtldWNiRVlDOV9NdkhaRFoxTmpQTXRoQldGYlBCa0dqRkFnbFBaT21vMVJpbXVrczlUWXRCWG1RQTFEUnVOUGItOG4yalE5TlBFUUdFMDNOaXVEZ3gwWjNLLU9nZTdNem5IRWFIRkdtS195LXlfVVRwWHdRMUgtZW16ZzFtSGoxeW9MdXdRQ1pyQ3hJZVFxTERZVXhQaHRlTFZXQ2tHeHhmREtJSjZlNEgxc2pxWdIBxwFBVV95cUxQTjNaRDhtaGlFWE9lZWlsTkxpaDVnSkFZcTd6cHJRbnZRWm0zdHpWRGoyYVg0emN6V0Y2OHpONXFHMjhiNnFaNFNERDNFQmlYcENaWmo0RXkzSk1hX3JBNFJGaVk5d2lQMERqY1FHaHp2bllNd1NNXy1UazFzeE42TVUxTDdLNHpNVTRlYkVCVTkyeHJlLWlXRWh3bWhyMDltMDlaRkl0dnQxaEZpWTdiLXdmdWpicE5wYUR6d3ZYcWtrQ3hycHNj?oc=5",
+   "published_utc": "2025-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh at inflection point: Reform momentum, talent creation, technology adoption",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWjdKZWcwa0p0eTBfS3JJdXRvS2piMmVXZ05GV2FQYVVqamN6YVFlWUZpNjZtd3lKZHVvRUV4cUppV1huWk5PMDlTU0VGUGhIdWNrc2pNSFZUbDNhRVpnTTFSQU94c2ZucnR5ejdCbFpuNTBWNFVkU2EteERnQkxvck9rcko2N0M3TV9VX1BEUmZFckl2N1NlNExEdUJyNzdCMWRCSlB5OXJFVG9VdmF1T3hCSl8xOUg4NWJ4WTNnU01weDlVZmVNSUFMY0h5TFdwbnBhblBrNEhYNGhtbjc2dEFkcU9KenlLR3FYeVlJVHpSbF9NcGsxY1NBdmYtRUN5b18xYTV30gGLAkFVX3lxTE5DOGlmLV9USEppRnd3RXRCd3h1NzRwMzNYNW9uTHA1TnpQUTlza1VPNVU3Nlhjb1h1S2pBal96Y1hLUWdnd2s4b1paQlhZS1RvZklsZ2x4cS1rdGU0WVRHck1uYVRyLTNmc1dJeVk4WGkyYmstRER4cHJaUFIwTXpLSWM4azlGTjNvZDdUdFoyNGE3TnlvSllESDVQbUpLXzgxcmJjRFljSU1fX0EwVk9rLVRwcUI3d0NLc3kwdG51SW1hWklMNXR0V1NNdHNrNUl1OWFUcjZYLXlDdDdnR2g0dll4VVFZSU9kNmdEYXpNUllUZDhwcHJkNHV3Y2NaNVN0OFNkMlFDc2lvTQ?oc=5",
+   "published_utc": "2025-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Emerges as India’s New Technological Powerhouse: Sanjay Dubey",
+   "source_name": "Express Computer",
+   "source_domain": "https://www.expresscomputer.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDdyTGFwaWpLRkp1a1hZejl1aUtOTjlKNi1QaktEM3F0T0JiOE1KQ3VXN0pnSDEwUU82RV9YRGNobUdEdG9rZjdlUjFDenlOWmZ0RE5CN2RDTVBLY3I2a1NrZXdZX1ZjcjZTaUVjNnVUam1Ja1NxVG1rUGNjNDY4OExLQ19WNERzcGwwcW5ZQTlvZWVrWXU5OEJ4dEF6YjdIRHRhMmhnYUltOTA5ajVyeWRYTzVReTRTeFE?oc=5",
+   "published_utc": "2025-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Extends Paddy Procurement Registration Deadline to November 6",
+   "source_name": "Global Agriculture",
+   "source_domain": "https://www.global-agriculture.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkhWXzJZcERtT0FNWmxsTWRBWU1BMFR3LWhCNGpjZ01RS1o1RGQwOUc3WjR2bTJRNVA5X3F0RENnQ3VGZ2Q0blc4SW1BTmZxd2NQNTJJN1JhZE9RZVV4UmN1WG45RER2RjhSR2lvMjNNU3E5b2tLNm1vbVU1U3lQSnlmZXgtTm5OdzBqRExJdkZrSnZGcnl2M2hudVRkRVdvSERyLWotQ3l3RVNUSi15SWdnOVU1T0VQaW1qTlI5Xy1LM09DWWIweVpXMA?oc=5",
+   "published_utc": "2025-11-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IZI to launch VANA, India’s first AI-enabled industrial drone",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UeU9kWE1EYjZ2TXUxWW9NU3J5OG4xSzY0cEllaUV1TWNBTVBhb3JmRzJXOE95MjF2dWdDd2R4RmhjcWxRckRCQmVnWUFCMlA5bGJkZHRfMmlSWmwtcWJ6S0pZelo1cVdsUWc?oc=5",
+   "published_utc": "2025-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-generated video shows tiger drinking liquor; police issue notice to Insta user",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2R2cVB2LWtzNEtlT2hUdU5kb0l3MWNOV1JvSmduY012MktvcmwtUngxNnh3UnFPTmxjOGMyWTJwMzJWRFZOVXVSMWxzVFBQRmc1UVZhRUJ1TVVuOFlWTW55Nll1WUMzSmc5Qi1BU2hnWEp4b1A5SGVrNVM4ODBzZW1nQnRjbU1oN2xMeVpoQVlEVkR2c29qOGt6b2p4Zk1KdXZqRjF0c0VfNzQ?oc=5",
+   "published_utc": "2025-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Scrap Paper Replace Plates For Midday Meals In Madhya Pradesh School",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejJlQ1lJTUZBNWFfTlYtRW14dVJ0bTRUNC04NWcyazlZek9PT1hqUE1Pbk9HaWxIdU9FN2k3ZXlSc25OZGhKYlRpdHFhVWZfOEs4ZnlRelBQaFVrVm9TclJSWVJFdGRrR1FrLUZQbVoyVFNCRmNNY211a0pvY2lHN2dzcWxHR0dnbDBwSUpQTVh6MzBoOVg0N1p2NDZ2S2w3UmNMN2h3QzBvMHFY0gG0AUFVX3lxTFBBUlBkR3FkVWRqMW53VEJLc1FEdy1WNGtQZmV4N0FtbjlYTHVqUXprbTlxRnpiYUtScTJDTUViVjhlY2JQTTVKaWJqNHJ1RjF4YWdxZ0JRQmVVUHBielFsYzVZbmJ6MFNNM2FWZHBXS01DeEVvclJMWDNCRXRRM2VKam5wdUFqbGVvb2VDUWxza1NnUDJDMy10SktjVUY0V29XRHlvR3Qtc0xIUHFKQXNob21WYg?oc=5",
+   "published_utc": "2025-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhopal announces 2,000-acre knowledge & AI City, advancing its position in India’s tech landscape",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWExWbFhrOEx1eGdDYTFidkg0aks2RFctZ0VwcG8wQ1JGSnlfSGlpamRxV3JXOEczRE41TjhFeXhrUnNBaHZuOWxuYVVpbGlUUzd0VXRyVndjZm5HU0lDVWlXUjBVOUpEdnNQTDltZUJCb1ppY0R4VjBkQmZJZGIyUUNlSHI4b05MQnBYSVF0RmJGOG9ZYTY0S09QbVpJaGhBNEtGSDgtMndad1BycFJBcmNaWDhoLWE5dUxfVkxuQVlXLWlxMlZleXpfcTZ5SkdnV3F0dHdaVWtFd2haNFgySFI2MjdaYzI1dGhz0gHvAUFVX3lxTE1XQ3dacUdTQTAwUkk2Tl81TDRQU3pTT3JIM1pvZHFWMzRlYWxNSFR3VVNMcldDUjl5bGRoSDM0RWRmb3ljMzU0ZzFxbEZrTnhMVmxqT1QtbjQ2SnJjcVAyNk43VFdVX3o4X1JhUWdYaXZEOE9zb2xIX1VVSVo3UlJzYXZEQW9jYzBjbFBpZW5ZTF9PMmVrLXBZbmxoamdYcXNfaUJSalNSa1gyTjZQc2M3WEx3dTNSYVBob1lDYl9aa0hWaGI5R2xRZFp5ZTZ6d3ktbVY2MUxLN1lOTDB5YnNOY2ZsOEpyUVYxT2xNb0Fn?oc=5",
+   "published_utc": "2025-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Education Minister \"Regrets\" Calling Ram Mohan Roy A \"British Agent\"",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjVVeENHWnNsVVNrTHFsczdPZnd2VzU5a1RiQTd1b0hacG1VS0h1OVlHR2ZHWVFXZV82cUo4OTFVdUxob1BsNzkzYnlpNFJyNzVHRGxSZXdvaGNuVTlRSElLS2F0bC03UG1TbzU1ZFJaQmtHZ0JIQXVYXzJ0cHl1a3dBOWh0RXZ2VDZFSzJENE9SVWFWbTl6RURxeWdVbmVBaTBrejVhbGowaWVtZHRxN0VsNEZsNF9HM3hQZEM1SE45RWJwajNRdi1rc2tvUdIB1gFBVV95cUxOYjJZWFpKeng2V1ptaVk1TU02dUZfcGppbGZCaDhzQXdFTGN6dHFUR1ZaVTJVZEk0MGRUNFFfT2JhUFVLVWRPYlZhX0pWalZyN2RPRWRfRDA4ZUlwT19UTEl3LVRvUkJxWHBFN0t1cWxpV00yU2hmbU95Q1IyREYxcXFBV1RFN2FSVk9DT3M4eGFQOVJENVlyQ083S2J3UzdQUG01YUhkSV9rS0xTWEhfcUstZ2VreFlFSEdaMTIwZEw0M0QyTWthNlpMV28zYWVkendfWC1n?oc=5",
+   "published_utc": "2025-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ram Mohan Roy A \"British Agent\": Madhya Pradesh Education Minister's Shocker",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUowYXQ1SFV6WTBYVUJyV1dMaGZLd0IyZnQtVkhlUVBBMDJzUS1qT1F5ekNsaC1kZUR4eGlIcWIyNzk4RjJRSHZMRWV0OUlSdFZoUnIwZU1PRTVFV1J2VG5CeXlRR2E4cE5UT2d1cHVFQUx2QUdDcU9iQlpUTVoteGxJTHBUekkxSUQxSDJLS0FKV0U3ZDl4YnZxTkhkcUM5TVdPVVcwQmE3UkR0d0ZlczJROEl4QjhJN0pWSFRza1A1alZHREFfTFFxSjRsMEVDbTlz0gHbAUFVX3lxTE5XbmY2dWVwT2NnQnVWM1REUkNVZmlsNzV0RjZLVi1sc19qMEtCQTAwY3UwSXZJV1had0xNUGFEalpiVFl3M3AtTUx1QmNTVGRISThiSEhvT19iYjBUbWE2N21KMGQ2bnVYWlRmelhrdjdwWDFPTHNrMHd2ZDFqMTNhcWZPNkVMNDNNcHJqU0hFVkdpQWM1Z1oyQi1VU3lmOUY1S3VjMzFzZzlpXy1IUVVkX1RmNzE1RXRnWmtyV2RsYU9SNTI1MUZaeXEyN1h0UlNuVWdic0JSbGpqTQ?oc=5",
+   "published_utc": "2025-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Rs 3,350-cr MoU, 70,000 jobs: A Yogi govt AI investment deal is now under fraud cloud",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFJydnlGYzlGRjZvUVhDMEdjMGxpWDl4WXlvVWotT0RGa0ZwbUJzb1dUX3V4NG1yRkx3ZXRJbHh1cmRkWGZKWHRZVXlyc0N4THJBRVRYamU5U2ZWZnlJRUgwZ3VZYnBxZ2lMaW1yZkd1UnpnbGd4aENiRXVtbTMwcWhNVTF2QlJuSEVhYzVNS3cwX2ZlamF5ZGN3ZktlaHlMclZwY25jNXNhcDZKMUptemRnMGFDYUljQWFCOdIB0gFBVV95cUxNWV9LN3NaN3ZjVHREb2tKRTNvalhpWllqaGZVbXdhSTVYb2V1M2RkMVNpYUtqVGxxR1dJYV9kWFZfT21zUEFnTGR6UkpzeXdaeHFiWEdBLWJUd1hTaldlaldNZF9lbXhKaVY0REk3U3E5Z1JNcnpmaFcyS21GU2xxenRBOHlDWDJWRGVCS3FybEg1NVdIT18zOXNPb0xGREN3Y0dYZGZXYzZVVnJ4bnVLQXJ0Q0VYc0dEZjc0Q1hVeEpnU19iRUNhdjA2ZVVxbDJVb3c?oc=5",
+   "published_utc": "2026-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oracle to Train 300,000 Students and Professionals across Uttar Pradesh in AI, Cloud, Cybersecurity, and Data Science",
+   "source_name": "Oracle",
+   "source_domain": "https://www.oracle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUHMzVE52bDRhanA0OG1mQ1huaUdFLWhRNkpubF9BMm1iWVRxcGNQc3hLbkdJM1YyclFQejJKVklEd1U5U1VVbmhMNkx3VnVqbGdQbk9TLTB2T2VYblJsQUJJMTI4REpMOXBjZy10aURPZDBzenRBOExIb1d0dlVUQWhhWm03Tlc4ZHVMSnlfeUdWT2VDcGVQTVJEaDNNQWNvMnhTczdjWWxvMmZCbkRWNUVBaUJ1VFdmSXdpLWxMT3dJM0JzMWt1Wi1Qc3gwWUhNYWdpZTZuSHpPT2I1SENlRXNvUQ?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oracle, UP Govt to train 300K students and professionals in AI, cloud skills by 2029",
+   "source_name": "Techcircle",
+   "source_domain": "https://www.techcircle.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVZRWldGeTJRMlhIcjFtckhjVjRNai04dzR3ZE03dDU5TVBwY1IxN0dqMlBEbHdBLWxMQ2VUcmF0VUk0cHJNMGdrRmpEaGpRUmlDY3E2aWZUdnB1NW90U0xMVmRrUzFna1g4OFdSbHIzWjltQTBuam54U0MybFJ2czJZUjY2eWZDblYwU3pGa1lCUXZ3eTBvdHZUeXRCTnUzM3lxdy1rUFBJRGU5Y0E5ZlBYeE9RejBHbUVucQ?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "World Bank Support to Address India’s Air Pollution Challenge: From Strategy to Implementation",
+   "source_name": "World Bank Group",
+   "source_domain": "https://www.worldbank.org",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWFTMThSeVJ2TDRCUXpaNVAtUzZteUdFMlhlQ0hBSV9qcGNxQk5qclFFREQ4Z1N3b1NxdFd0RHI1OEhocXRoQWl1QzU5RkNjNkVuN0dVVUt5QXRmTmVGN25rTjNZMlYycExjdVNDZ1NJOExvN0FhTGpWX2VvUEFjUGxvd3BiUkVQamYzeA?oc=5",
+   "published_utc": "2026-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MeitY, UP to set up three AI Centres of Excellence under IndiaAI Mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTNqSk1DR0UyQldXNHBLSXFBOXhUOTFQb3N4aUhLUGhKRW1VSGhnMFBWT2RrNXdwdjc3YVVzNWQ1ZWxvT2RGd0ttcnZvWEZSTkRfNWlIeEpEVnc2Z1JvZFRKaHJXX2dpYXVXeHJOaDk5S0pyOWpycUlXQl9ob29aV2JkaVd1RUpyN2l2YVNJbTFHNlV2bTF0Zi1tLTBrWGptNE9HdWZGSVhvbVpHRTdZd0w1NVMtZk44Q2dMd2UxYklWRTg5SjBEcWhqVktfY0JzeFg3U01ZOGo2eW1raEdv0gHkAUFVX3lxTFB6b3pVc0pjaHBGZGFrcV9YRktzRFhxLWN6bUNUTXlFX21QUDFwNEpfNlZZbmdBai1YdlV4STJMS3laUXdZMGFqMnhjT2FTNE1ZN3k1WGpfbi1ZSk9oY0pxRXRjRkZwUWN6aU9Bbjh2MW9KbEVXOUVnZV9md1VvMWtta19odnZ4ejdyTjBLOGlBWkpJZHlyY1NtZzZ6cmQyOFpFMzk4ODhRaVdzdTdTUDRGdkZVUXk0akFyOW9iVGN2N1VMZG9KT3c4YW1Kdk1Gc3hWejJRX3Y3akN2bkQyQ3NqbzRmSA?oc=5",
+   "published_utc": "2026-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Wipro establishes AI Centre of Excellence for Claude models",
+   "source_name": "TechGig",
+   "source_domain": "https://techgig.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQekEzSVluRTlvV3R5X2tVdk0wdmNCTTJ4WVpJSmZYcFVWVnpXNHR1cWZpX29EVkIyS1ZEbkJjYnQ4Y0VGcWk4Vk5vN01yUi1oWFdkR2kzSTNPUGhBeEY1UXFGcWhrMi1PTXJqTXBiZ3EzZ2ZGZjAyZ2Z4U1prUkpDUUtjV2RjQ0NSZG93S0ZtcVBEWWxmeUlHOEdoSEp2c2F2d2JmRkxBX2vSAa4BQVVfeXFMT0ZCYjI2clhmUWFNVXJzaFpSUnR0WkFmNDdWOXdSeDdraW1vVm1DQ3JtU3pYRG5ZN0oyNm5RTnpOSkxBWk1NUzQ4dXhidnpKa3k3c2JMdGhhb1BfMlQ4SXZ1Mmo3N3hDdWY4QzVhLVZOV3o2RUpKZTY2VmNPUDRLX3RnSDVPak80MldRR2YzQTFET3I5elVadHRjNWJaOV9qd1pnSkVpMTNKTjFSVHJn?oc=5",
+   "published_utc": "2026-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Will BJP Lose Uttar Pradesh? Akhilesh Yadav on INDIA Alliance, Modi's Foreign Policy, and SIR",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNck90Z3FGYklvTUxoY2N3MmNxUlFlb2xzYjdheGNBSXJuajM1RFNBOEVNUlI2RDRaVjVjWkNSSDRvenpPVmJyS3ZTQmtINVd1U25RR0RHWktmVzFYOG9ldV96Q1BjTHZyOTNXX3plLVVQSFo0amJYZEdOdmVMc2NCc2ktVENlXzRWTkVhams5Qzl0dHBfeVY3WUhR?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Targets ₹5 Lakh Crore IT Investment to Drive AI and Digital Growth",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUxqWlJicjhSWVZqelg2SjVZZ2pNREdIeWpvZWplZS1ybmVhdG5TRUc4M1ZrelRfdjZ2TEI2aUdwWWFpQVduQ3R6UGo0ZGlSRE5rNFJDTS1BdDNkUUhWQ19SY1ZvYVNEdnM5V2xOb0NmREw0WUZEVjFJcVZINTFMbXBnTVc0NzdCSzlmN0t2aWM0bXozTGhfLTZkbm1xU2ZGbGttMVhSM1ZVMDE3aVE?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dubious MoUs, paper investors: The art of adding zeroes to UP’s investment story",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnpiWDhhajhub2pCSXhQZHFnQW5tZlgtZWVFQUN6dGs1R3FzSTJmTTJyd0VyMDVkeFNUXzdYNzgxVlVOU3dNR2xTenZJd3BBSG1wcENvdDRfNzA5OUNiQVJCdVM0VkVoN0NkOUh0bnpsMHEzME1mR2hyenBYVlMyUG80WmJGcEt5VXRlTWY5eDZoLUJ6LXk1bTh6cXVFajVPRlZ5bms3NEhzWUt2MkVGZnZwS0d5UFE?oc=5",
+   "published_utc": "2026-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haryana Unveils ‘Make in Haryana’ Industrial Policy; Targets ₹5 Lakh Crore Investment, AI-Led Growth",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHNyY25oT0NhQWdmVVJkclpQR2lpOEhWaXg1RV9RNGRtTXVqSnJrSlNsbEJBY0lCYkJuaE5MQzZLZ3RjeDh4UzgxTTVva1dQcDNXUU5qdTFieDhiMzFBWWdTZnFHcnVoakRacjJXcGtYN3NBZ0M4dVBuQzNUQnU5azdIU1VocjlMd3c2dkh3a0E0VVBqUlNlb3V5YTBsQlRfNm9VUHpOZndzWFhaaTZ5QTlQdnFOZEtfREpBc19rNFJIMWp2ck02X3FwWlZvUQ?oc=5",
+   "published_utc": "2026-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

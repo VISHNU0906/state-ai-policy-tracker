@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "How AI Helped Maharashtra Cops Crack Hit-And-Run Case Within 36 Hours",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3pHTU1nZThYTWxwM2ZTcXliVmlieTRsaXZVUDZyUE9kaDZ3ZnR1TU1UcUZ2VFhzRG1iWXBXX1A0aHc0TlFsR1dza1FQUlY4UkVKek42SmZZcUlXcVhxb0FpU3B0LWRnTmNHTF9JVDEtNzd1Q3JURDJFaHhrd19YMmZrc1NpZkJIbTZWaFl5azVPYzJTM3dxUXkzUG1vbWMwcmJfT2J5aWhFY0l2OGfSAbYBQVVfeXFMTURVVXZnSHRwNDRSV3J6SnVVVVBzWUJoOEhOTG82U0Mxdnpac1lIWFl2dmtZR1pqWWY1SUl6bGxDNDJLNnhWSGJNZWoxNkF4dlNZVXFQc183cEg4TWRSMzlLSlJDWml1OVFtSG45QjNZZnprSXcxNUZua3lrZ2o5VUZkUmdySndjRmdlOUpwdnNSNW9PcURuU0dOamVIR0pKb2xsUzlFZ2xhcEVCZTlPaTBObmt3UWc?oc=5",
+   "published_utc": "2025-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Maharashtra's AI-powered MARVEL helped Nagpur police solve a hit-and-run case in 36 hours",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGxvWURHWWt5b1pfMURwblVaQVhaSjlURnZlZzJsY0dqY2JNUTZwRl9rbGwtXzR6S2xtVk01WkhmZWxYM25YakhHd2tSQjkyWG9oLVlNdEpXa0R1bkxTS2VqMG80ZnBoaURVVlgzZFY2WVFGNFE0SU9CdGFUR2FCN0l3RS1wUjRvTHBLOWhMOTZVQW5JaTRvUjRTTWJDa1Y5b0lqUURoZEhRVzFmQjlUZ0hfbDc0T0FYU1RjNHA1UV9xN3JkbGRfZzFDeGw2RC1v?oc=5",
+   "published_utc": "2025-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nagpur | First AI-Powered Anganwadi of India Transforms Education",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTBQdVlJcFpEMWJNcFNzLTAyQmY1UGRaLTFwZ0xZclBJNjRPSWdmMERramlwemZvLXhQWWZSMXo3RkVGSTVHakJ1ckZ6THowejYtYWZmMXVVTWRJcndBSHMwV1VtOFpEQ3JZVGJIanNvLWd0ekRuQmFIVWZncU5rVklCRWE1dEYzMEtUQ1BxRHlJVkUtYkFoSDBKSEFpMFBMYXhPVzRJbzJBWmM1ZnlqTzQzM27SAboBQVVfeXFMUFNORDVhUGpfQUZHbnNOU2hwcmxITVQ5S0ZEOVBJV1FHTy1mbGpjSjcwTGJWdTR6Tmp5QWF4Ukk2M2hIWVExX2JYVE5iLTV3VC1GTTF1UWFYRTg5UGxmZGJnZ2tnand4RHlNTTdaR1ljaU1lNHlPTkZUbkZpRFJPaU1OOWx6am1rTzJYZmxXaTVPNUU4Z0FpMVdTZy1Id2J0d2s3eHUySEN0N19yblFhVUl4TFdvZGhlYUV3?oc=5",
+   "published_utc": "2025-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to develop 3,500 smart and intelligent villages by 2030",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTW9aVzBIZzNXWkhBVWIwYVFheGljbzR6QjhZanViYTQ1cXlKNGhvYjJ3RWF0cmxtYktjaEgyZ0NZWEdOak45cUpNcWk5QWt6TzhMLXRiT05oS1lhSWJkQmRwdG5EdjNDZWROT3dDbXJTbGtJMDNVMHFDWV85SUw0ZmpwZHlOUklUSmRlUjV6UVJxYkFkNDh3LUJSTWpqcENEMnpuOElmV3VjYVE0Sm54RmJCNUtvalBqaVlzUF9CMGR6cFhia3o1bmgxWnNaMFhlZ3hmcWtYa2c4cEJQSmpmR2xkWjVBSzZMb29VYVd3OE5pZTdGdmfSAfsBQVVfeXFMUG5pdngzWjFuVDEzMDRxNFk4YUw0ZmZ6cWQ0R19BdW83M01xV1ZOUWFrbmk0bThHX1VPR19fVEl5VmJJRkhNaktMNVJqaXJLV3I3SkdmQ3lHbWFtUnBCU19DOEVJRVJ3OTYyY1ozc09sb1VOTWtGNXp3ZWxTTGY1ZzBpZDd1a2RYNHFERTdTNFpPbTVZb0VUeXc0VURST2VfQngxeXFtQW9tTFZDQTlReTdDcEhUWXY0NGd5UjBwNTRSMWIyaGJ2RGRnRjR6dGtjang3QlBMNzBIV2o5Z2YwcEZNMmE1NF96MGdKLUc2MTFMeXJtcDkzbmNzcHc?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's first AI-powered anganwadi brings digital learning to rural children",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUlRhTVBRWlRKaHR2QkV3QlBKV2dUcmp1ZWJnTlQxQ1dROUZsZ1dZU2RMMHJuMjJFc0FDdjV6QUk2REZPcWpkSURaQS0tMzc3RGxENHFubENHOHVsYU5hbnVZMmlRV044QzhHMmgtbWk4MWRQNEFwR2FIWW9ndm94by1qeG1kZUZfMkFkR3hyS2ZzdEZoc0NsZkhIUmdFLUhnWG16V3BTUFdTdW1pUDR0UmxIazBSQ1VYejJlQVFSNzB2dmZETVZEc29OeWpPZU5vSS1CLTZLVlh1VkllbE1CSdIB5gFBVV95cUxOLU9zSEZVemJBUl9wTmVuOWRPTjdVSzcyOUpydU1rZU5fSm9pVFNza1VOUUxvSmtheHpVQWJKaXFlejJUNHdLSy0wVEcwcjBmdHZMRi1ldGdJV0YxWHQ4MzdnX202UmxqQWlqMUlaRHZNMjd3Nzc1TjVuTTRtM25qczFlc0NHaldRTVhvSUhFNGdhWkJrRHhlbUJjQVBUX2JteDBMMnFCaUtkRkZKN2djZ3EyUzJ0TUlwREpJVUNmZWlaWmdBS1hpZ19tN2VaZE9NX2tTZGZCVlR3RGtoRm9GWFRzbEJNQQ?oc=5",
+   "published_utc": "2025-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First AI-Powered Anganwadi Centre",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGclJ1Z3FPcV9fRm1pS2Y5anBadEMtN1ZxNWwyMkE3SFhLUnlFdTA5c21xQkx4TmZQMHFfQVJDenFvREZHX0J5OXQtRlFYQmdkQVg0MEptRnY0OERTLVJpd3J3R0RsbzBBUEI2X0RxMFJuZw?oc=5",
+   "published_utc": "2025-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What is the Smart Intelligent Village Project in Maharashtra?",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmNWbEpkYllJa2pySGN5bmxUckpzY0VEcmw4bWQ2LUpaRmd5YlJBQ1FHVTFMZGF3b2RNc1FaSkdRcTZob2ZKUnFianpwdTdKemEzMV9UM2VqOXI4QzJhV1FhZUhkejdJZ3ViN01Rd2o3b1BIMEVjMEVqa295Yl9ubElnaGpBdDVjX1JHeTBpQ0lPVVN0cXl2NUNnUEJzdWdSODY3cE93NTU5NGhiWl9iYW0zcVDSAbsBQVVfeXFMUFE2aGo1VG1UWkhWSU1OS0NJaGhuQ1ZTTS1QcXpWYXV6c0R5d0pFZGlKTFI3cjQyMDhKTXZrZUx4TE16eThFTnRIVUVDQ0ZPMG9mYWktU1NMODNNNy05bVkzSENXbjdFZEEzQ21zWWRpNWNTTHlSR1JEbTZMZlV6RTdjaTNLd04xZ0R3c2VIdGhBSGdIQlJDT2ZvalhIWmhFeEltMkhua2F2VVN0Xy1aOFhOTzNwSDNCV0I5OA?oc=5",
+   "published_utc": "2025-08-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Microsoft’s AI Tools Help Maha Farmers Increase Yield by 20%’",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcW40S0dlaXZIUkZ4cnNYNDBzREh5ek92QmJoaGRUS0dkMWpYMkc3OC05Tk5XU2xNaHg2bDZNYnRISmFrS0l2ZTRTR1VRVU8xczFPRWhZUm5tS2d3TjdWVElhT3hVWElJaWc4bjJyUFBFM2RtbzdCRHc4VVp6R0lEbFA4WFpsR3otQ0Q5aEJDTEJTQnFsM0VrOF9ybXZTVnBWOHc?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI era should not lead to breaking of link with our soil: Maharashtra School Education Minister Dada Bhuse",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUzNoR1VqRmlwWFAwN3cteTdTcEVDMVUwMWVVeFd3eUZEYU1VTXBhblZPeTlwaTJXSWFQV3Z0N2RDeEhaT0Y3SlRZeEp3TjdRaWFGUDBqLVdfRlVQYndRQkN0NkM2UGtucHlTQzdNTTlXZGgxZGJKUWNrY2hkR2Q4U1FiZE82QjBQck1SWFNyOWtTdk1ieWFlYV9KXzZoa3hiMnB6akNPZFhkNmp1MzZoN2RTaFJSNkVzRWhpOHVvdnhzQ1E0Z1RHOG9ENWYwU2FjOHQxaFRNUEI0X3F1ckIyMlQwLUZ1ZGQxWDVsQnN1OEdIRzDSAfoBQVVfeXFMTVJzejRkVmQwZG4yc3B5X2VaNHpjMGM5cDd1Y0RkYnlZZUtaRTBYMWRYTThpOWZReHJKMnBsUFplcGNjTFlBYWU3d3JFVi1RVW9iUmttX19KVU5jdXhFZHMtdnNsVXBQSk54Mjd6NmdFN2lCVV9fVlQ1R2NkOTBuanFWQVlCaHc0dUZxM0VSMS1MQmp4WVRTbWhOR3MyZUhsbm02ajFDdFpRUlNxY2htQnYzVWNxWWh1ckpReTVVTmgycF8tWnFiRUNBeVY3RG9OR3FHSDZwMVhaLThOcExRQXZidDgwOHlVajduZ2o1dlJnU3BVZG9zUUZxQQ?oc=5",
+   "published_utc": "2025-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Opens India’s First AI-Enabled Anganwadi to Transform Rural Education",
+   "source_name": "MyNation",
+   "source_domain": "https://www.mynation.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeldJbm1jUWgwSmtmVWQtWEM2eUlXeDgzUV9YbzE0dUpvWVgyWjdrandEMDlhSHcwUllxYV9PU3RnRVBWdlRXLU1DVUo1alp6Ny1MSnlneVRabzg3LTJfeDB6ZWJiVF8yWUNLOUE3UWlyVHVoR21CT0RiYmRBY1A3TWZDc0FMVmcwYU1VMkdRM2gwZ2lNTE8yR2VIRW1YUVp5eUpFUDBWV01yeEJsanZVSG1ha3hVVG9tYlNyZnFHU1o5Z000SGg5OFlyNkpHYUJnRWZn0gHYAUFVX3lxTFBKV29PNnhwdXZSa3Fma0pjbUtsZmVrRjh1ZUc3MVRCeUFQQU4wSm5jOWtISWIzUDdjY3lveXBFbEk3ZXlBeWNhbGI0ZE5RQi1ha0p3ekxIMHlfTTR1WTFzcnNWQWg4M2ZLdlpFb1ZZckc2MHBzRVFtdVVrZGozd0FTUEtoTVNRRXNHem1hREJ3TDJjN2FPV1NZdzg3TzE1cWd5eXloV2ZPYVVaRW1RMHp0Smg3aTVFbHk3NXVUbWZtSzdNa3JDNUFLMTZjTW5IRHdZQnRxM2szOA?oc=5",
+   "published_utc": "2025-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

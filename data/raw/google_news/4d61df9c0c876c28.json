@@ -1,0 +1,141 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Maharashtra forms AI, data analytics governance committee for higher education",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdGFJV3pFVUljVzF4bXVydlBhZ2lzd3hBRzJpbnhqY0RkR2pmdXJueHZ4MmRaMVJ0Y2JKU3BUdGxSZVpsV2dzQnE5UFIwSWpYaVJfUFFHNmhvZmZPajRpR2l5OE1GV0JyMGNKXzN0cTlNU0stWWV2bWl1RGFmQzR5YUVrd3EyVHZLc0VDSEwxUmYwb0NpaGhYY3hWUVU5YV9wYVJtUjJqV1NXQWl3N2lGcEF3ekpCTnpaa0pmMHlLS1drOFJWRHVrRTE3WlVTNXFYemQ3TUo3M1lkbnpBbWtqdFRnblFEakNNTV9SRVQ2NNIB9AFBVV95cUxQVGhza0ZqWWxsLXZqNTZmTkJxOEdaYXRtdi1IbzFtVFJZaVVfMEc5c2VUY0hZcXA1MC16RERmT0Q0bXI2SUh1c3lPT3VSNkxsZ3IyY3RReFEzUEV1aW90Z0Nvd3VPMFBBbGYzSlBBNVNkekxVNVkybzJ0el9DVlNOZmxoRWNJa2tld09zZm5ObDVhLXgzYlY2dlN5NktpelZpLWdYWnU5S3ZidWUtNVpPSU5RcndldEtKUmlrRTJJZFBaUTJJUnhOVThNQVlHamtERWlwTTZuM2ZBOVBvcnBxR3FHaGFKS3RoZE5qWlc5b25scHFt?oc=5",
+   "published_utc": "2026-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital India BHASHINI Division Organises Workshop at Maharashtra Mantralaya; Advances Multilingual AI for Inclusive Digital Governance",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JRTQzLUJKZTFFMkRXQ0wtNVNOeHJ4Z09JMnRWaTN2M3lrbGJEUVFfWXc3MkFlVlMtTTBQTVh2NlRpRzd1cHk0MmtHNFdMbkRmVDM0SktieHRUbDN6NGQtNXQ3VWxJSzRn?oc=5",
+   "published_utc": "2026-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Degree not enough, Maharashtra youth must acquire new skills to enter global job markets: CM",
+   "source_name": "People Matters - HR News",
+   "source_domain": "https://www.peoplematters.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTXVFUG5OSHZGdDY5T0xVbl9sNU9XSUJ2UlBwLVFYSHVyVzBWTlphekpOSVJuZUZoVEVwMmptSkpXTnAtUVlqRkFEQlhzcDYwcVVaTWVXRy03c1Y1Z2tld3pDeC1GMVdTd3Z2bzJNdU1sbzNRcmZ6S01ueXNxSmtWOVdwZFJpMlppRHNmU1M4NE9qRkZMQWpURGlOYlh4NmxWNkw2UzI3ZWI1X204b2txT3gwNGVpSWU2d25kcFM4WXRKWE8zTURNZDFVM2d4QjE2MGsyc1dkdm9xMjBlWjFSSGtMeUFKZw?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shree Refrigerations Supports AI and STEM Education in Maharashtra",
+   "source_name": "Machine Maker",
+   "source_domain": "https://themachinemaker.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkIzU1JkTGkwN2VMZWRxVHZtc3dZbi16T09vLTlEdk43NTk4MzZQbmpKSTBuQVAxcmxwejktWXNwYXZrYzlJQzVwc1o4Z2xtY0RJbDlnV2V3al8wMGcyYjQ2OG8xaHNQNmk1akk2QjRHVlNqY3pEdWZGb1RfTGY1QThpYkpXVVdzLWNiY1VJdnhvSE03VElfRTBzaVk3bC1FVmc?oc=5",
+   "published_utc": "2026-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "72 per cent of Karnataka government school teachers positive about AI in education",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSTlEcnpTWUhtUUhqQjcycVNvalRMRzFsS190T19nbVdOM2lDRDUwTE4yazBHNUkySWx3eXBJcWI3R0U4ZHFKSUkwTkFtV0dxRXdEeF9OVUxpYmNhcnpXeGJhcGRlZnRYcG5peTNWZDdNU21ub0xqaUV1bUxRWTR1ZldScDhjV1JvSEotX2R0dHdFUzJkeWNnekRsRU9IekZUYkRIV3dwUHJwSktVQklHSFZVOUw4MDhIRVhOVWdGRkI0NTl6MDl6VFJ4Q1RxNm9nWERxQTVTSHp3bWRq0gHqAUFVX3lxTE83T0FseHdYUG9FUzVUck9kYTNmSzE4UU1ud193SExucnk1MHh0N3N5Z2xWdDM3eldPQlF3Q0hXUlBJV2FWbHgzdWxaVE82cGRTdzdzdWwyWDlISC1OZXV1ekFSY1FsZUUyX01Qa1hfbkUwQTZHbXNTZjdJQk9uUEJxQUpaRFBXamc1MTJjaEZHdHFId3F1WnROQlBMenFObUhiT0Y3RGtGMk9NY1dhUnlBb1B0ZENEN3pHOGlXSm5ZdHp2M1BiV0t3eUlsYkVzNEZxVUh0UE5BV0tSbk14Y3dBOXJuampyZk4zQQ?oc=5",
+   "published_utc": "2026-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Thane Doctors’ Assault Case: SC To Hear Maharashtra’s Plea Seeking Cancellation Of Ramesh Mhatre’s Bail...",
+   "source_name": "LawBeat",
+   "source_domain": "https://lawbeat.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUDdDTFpjSUtSMDl0ZzZkN2JjY0lldkQxY1hxaEcwQUNxcjZqNE8wbFhTNTBSR0tEYkJYRHdRODl6b014eEVxWWVCMzcyU0NoZHoydFRIb2tlN3FGUzNJMmg1dUI0NnVRUEJLT0hhbWhKMV9RdjdXcDcyRi1BaEdoOXFvYnNuWTU3cTVrUl9zSGhsZ2hkWUczbE9QVDktdGRUSVJoSWVHaF9ySmdkUkhyYXRoMk5PLS1SSjJXTDBPblU0SWFyOXpKMkI4LUJ3TVFZMFFzZGNESGtQYk5PVXVjVVAzVkdRXzRBeGfSAe8BQVVfeXFMUDVjSmMtdExOVm1ZaWtiaUkwX0RQa0dTWGk4SDk5NjViUEd3MGk1OVl1U1hjYU9CVmhadFBwQThnUENueVRMMFdjNzB6aXNNZTFFdVlyZWJUY2NOT3lmMnIwVVd0Z0N2VTdPRVYwTnlFOGNNYXlDV25pSUdwMk9ZamFwbEtDdjFSVnZ6cVUxYlpEZVJqbUhiNjUxZFBPS3dSblhiS0pHS0dkTHZrTFg3dFJVNnlpNEdET0xKQ210WlNpeVdUeWJCQk9yT1dCRl85aWtpNTM5amtvaVJCM3I1c2hEWHFpc2h6Nm8zRmlCeTQ?oc=5",
+   "published_utc": "2026-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hospital IV Set Bought For Rs 11.05, Billed At Rs 325: Maharashtra FDA Flags 2,841 Per Cent Markup",
+   "source_name": "Outlook Money",
+   "source_domain": "https://www.outlookmoney.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa0dYdEl3M3B1WTdMblRRaUNPb2pQMFRTOFFiNkZULUFsZHlSWWZpUzFRa2ZHdjJ2bk85NmxidDlmTld5anI0OE53UWw1a2NFMDZrUXN1b2NEU1lRdmhGT2IwRlNjdS02QkhHLVpDanZTbGJ6Q082eHRVREhkRUVRN2ZNSW01RmRsby11RnlfWEFleWhfMWdIcXJ4TzlVUThmUlNwZVpsMmlpMmU5Mk9Gc25XVENqdHhIY1VsYkE5ckxmc1hSUDRnMkNQbnY3STE4X1M1OUVQY9IB5AFBVV95cUxQZ0MtSS1YQ0ppVHFDUHhFeTdTdk0xVG5hcU9hbXNSQzVPSFp6aGJhMkdsSDI3Y0loVGdHUVlCQVhLX3l1dTdxTmlIcWJqeDJqTmFJbllTdHp6MDZNMzBVUHNBVVIwcHRNNDR4c1JNNUR3UG83Umk2dWc0anRlaklwN0N0UWpmQThVT3lQN0tya2dKLW90R1ExdVpOMVJoVHo5WmhDVks4TGFOMHNTVnh1YTlUalZGVU9FSklfOXhqNkJlU2FnblVKRDQwRkZaY2VHeDNOYV9XTlJDYjctMTk5XzlLQVQ?oc=5",
+   "published_utc": "2026-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "School Holiday 2026: Schools, Students and Teachers Get Special Holiday",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0N5UkVKNXlsYW4zVnphZ0dDSlZHRkFvamZpZ3dhS3JGcnNTTVRSWHpiSEJBMjNndjJCd1NKVWNFdmhCNE9XNEpEbGN0YnZUVWJmNUJiVFNjTk5LSS1MZE1lOFdkbXlYMjBjNGhFTnc5TkloVG9JTGc2MzhkODZCUnpxUGkwbWNYV2NOcndUQW9maHNFb256S3JQc2Iyb2dudTBqNnB1STluN1J1M3RnXzhobmtUTlRWT19RR0FLZw?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra targets $1.5 trillion economy for Mumbai metropolitan region by 2047: CM",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWF0T3V4U3V5cTNSTFo2a21DWjYwRTRRT1B2Y2l4N2luaHRfRzdpazlNZHVOc1E5UTVVZk5YY1hpNU8yMGxaT283SEswSGN4T01ZSG5abTFFVW1tQ3JEUjBTb0xTcExVUUppNzFDbWRUaHE3N0dyZXR3eW4xM0J1azNhcmlpeWxtMzZXVWFEdk1pSkhZSmZ4MzFSY0dnc1FpQm5aaXRNNHh0Y1Y3SXhmQ0JPaDJteVFobmFoYUdGRXBRenByRVNvS1Y2TFA2WWQ0ZU1WWC0zWV9ha19yN3FWbzliV3bSAeoBQVVfeXFMTkhqVzlDTmFVYVBnem9vNHlkc1FqRzZaT3hvd2pzOVpZOTlSbUFkY2JaYlU3ZTdCZHZtcURrWHEySWxFRzhQREMyMmVvYXM0UklUTHVIUjMzSWpoS0x5aUdlTEpNVDdHLXhLaU85anU1WUx4NlRTNTFLdmZDRlljR0dxMF8ydVhYUHI3Z1dEVXNFTFBYQzJsZlV0UUJTOGJJTURERTZXbnFnSDVBdzNBelYxWmMzMXVjeHNpNUpfQUUyZUF5bXZBYmhyY0ZyV0dKVVB3S1hnRDRmLXFiNDFWTE95b1htOUcyc2dB?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Newgen CEO Tarun Nandwani on AI-first governance and India’s vision for Viksit Bharat 2047",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT0R6S01Id3RvbmxLcklqcHZRRUR4MnRoT0xCSFVhZjFBMlBha3lJRTlUeGROMVpLTmhrelVDR1lmN3lfOUNHcHFyVTNnUkdsVGZMU2d2eWt5eGJ6T3Y1azEzc19VXzZVUFVoVHZjRUI5N241SlhUZWpZbkVySHRLQmRmUlkxeGVzcU9lUE5RdDRRdjEwOTF3RDhKVGNYNEJCRW5wLVdVNGhVZzF4R19DTG43NUlsLUdSalJnUldhVzVReEY1dlVWWU43NE1wdTFJLVowSXJQWkFua3dVUXRuSmtYQmktWUlEaTN4NW9PTDlzMGJQ0gH6AUFVX3lxTE9Pc2ZWZ1VRRG0zRDFvaXJ1eWQwUUxrUTNfbG5sX0RIYUJCSTRibHJNVnlDYzduc1dSVUN6TEJfWlRuVzByQXZCdHJlNHlXUHo5SHFJbFdvQTFPaXFGc25ZdmV4d3ZGNWExbkNrQmxOaVh3TFlOeTU0clNQMVVTdEdVcUJKQnJLbDByRkU5SWVhbW5idHd5eWFnRVpHS2Z6VmJ2cHgxcDd0Zm5IRHlBck5GVERZYlFOYlhJMUdkVWhleDBTRVYzN0JFeEdFRWtZc2ZXOTU4OV9PMkZ1dUVBeGhLT0hVSXEyWW9kOS1xUUlaeVJXX0ZjZXJMOHc?oc=5",
+   "published_utc": "2026-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "First Indian to lead IIAS, V Srinivas on AI, public trust and the future of global governance",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVkZ3NDVWTlVDY1FpNTMwTG03OExNLU5JZ1hwcUxKR256cDd2WGhYc1doMFhvTnFBV2dEdlBKRU9mXy14V1RFRmRfLXM5bmZ1ZGxzOGF4SzdxRklrMGt2OXB4R05PTmNidmdDQ0tSQmhsTW1vZ2UwQkwwaDhMZzcxamM2WG1rWnExNy1PanBicTl5dDVTNVF6MnI5LUd5UFNIQW5OQjFabW16OG1sNDg0WkFndk5zODFyLTc0T1UtOUhzakdReC0tT2VMYTlOZDRjZUtHYVR4RUw1b09QajhNcVM2RGswTUd3bjdNcVlOaDBxVjRfUTZDaFlYWkRlQ0xHX2NWVNIBigJBVV95cUxOMzZwR0xzaWRBcE5BSWNIcDFjQ2FoX2lTazZPaUQ4aUp5WjBYcHZ0X1NsbUs4bzJUTzlKeFFTZFRHb3pkX3NTM1JEU3k0NEJwbzJHZ05FZHNNNkVhQ3lsa3pBU0FxbEZOR1h5LXlETGoyM2ZlcGpnNjRnN05ZNGl1aTJ1WnhRQUw1RFB2dF9MbnJnTWJhWU9wcWowQ0FiYVdkZHF3STRSdE1NY0ZyUko2NkJpSllBZ1hsMFFqMmd3QkR5cUMyRzJVcExTbWttOXpGaGVVWi0yZWRlYnFyVnQxZFFINVRjcXVrSndoSF9qNHozc1k0VHNyNUIzeTZsajk0NUNhTjRqSjFUZw?oc=5",
+   "published_utc": "2026-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Who pays when AI gets it wrong? The governance challenge of agentic payments on UPI",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR0JEakw1UkNEekVKZ1VTS2h2YWxFTmVXY3Q4Um56aG5qRDVEOW5VZTBEdW42NjNkOVFydWNZLU9qbjUxOURkZVAwVXZyaWF5NGRrUmNEdlI3RGs5dkhJZGpodkIyVjdDU2l5T05rMFlUajZBeF8ybVNkcEkxd09UOGJHSVpySmZNLUQzNlBRTWpNV0p0VnhiZXRyZm0zeEdVNG45VVJBR09fSnRCNDlxVFpXVFNuSWlpS3labDRpWm9JTGIxVjZVZFpzRG4tak0zUV9PZmJDZzFOSG1IY0xzZ0xtUGhmZXNaRS0zWGRUUFbSAfQBQVVfeXFMUEprVkQwdW1vV0RRMjQ1SUhvS2JGTzlVdnFfZ0xyLU1RQ2JGem0tYVBLOUR4azBSQnFlV3IxVEc0TWhUYkkyb0FJbmlPN1A2ZEc4a09hcDNuc25kZlAyUWRwQllCOGVHRHE5SkgtRnBuQTJLeFB0Z0xMcEFQRG1OWF9fTUpMNGNsdi1yRDFaVWFJVW53VWJLOVZSUWdjeXpZbGpMYk5heFB2NDlRTk04Wm42bHdLQlkwdTctZG13bXpaajM1OWNfZ0JEV1U3Y28zUmVDNEhPY2daNmI2QVNDTmhZZEszREh6STV0X0pGVnZlVUE5Qg?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BRICS Summit 2026: India pushes trade, energy security, AI and payments agenda",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT3dsRDQ0cmtNcXBQaHd1emFrUGk0S2xTZWRrZzY0aTBFZnc5bGw0ME1LVGRHcnhqbm5id1NjdFh4VER1dWJFLWRnZG56QzFVckFUN3YxdENjb0doZ2RuMjdjdzdTeldyVDVKNHVnNkFIY0EtWDNxNE5hMkRxcWRYb0NlRTh4QmtkTjNVSEM0TXZ4R3VaOGZVQU9tQkUwdk5fWmhwZThQLWp3QWJlUW5zeDltVFFPYUNhbFRaeUlrS0w1Zl9HSHN0ZDRzb0pYc1g3X25MdWp2OGoxZ9IB3gFBVV95cUxObHpxYVVIUWNoMVFwLTdBZjFLbC1nT2NVcTR6OWs0bWNXR2xVcTgzYWhRbjJnNnZzekNEYXYzYWdDaW5iMU9LN2QxdkFvenNheUxWRUVFMHFYQnRTcDdxdXRkR0stQXB0bzNKQnk3YkhjU3Y3ZHNTbVVYUnQyMXYxd1dubmVQcnZSb3psOUd5NUFIVjd2bjR3aklFSkxsckZzbHBEckktVXczZmpvdEZtUlpNSnQzNmJpTVE3YmFqMlBDV2ZSN1VVeFlfejdMMjdTa1oxU1VwaWRmY1BTOXc?oc=5",
+   "published_utc": "2026-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Forms AI Governance Committee To Transform Higher & Technical Education System",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGs4TGZCaUNLRDk0WVdPMVk4VkJKOUdQUXpyUVozdmtxWXNfeTBqVjZlX09xbnJEYTZyUy1Bd2RKblZ2c1hCOFdYNlRIclBLWlNtNjd1UWdfYk9OTm9FcnVVNV82WXBhX3pEeWJmcHJCQkZjQjFILXZUbDctalRGdlBPMTFuSFF3U0lBU21hemN4T0NTZFI4Yk8xUGdlU1ZuZjlvWWk1STVZbzJyeEQyUHZaQ1JfNXVZU3hOcXBqMjdPQm10N184QmVB0gHPAUFVX3lxTFBlRUQzWUxsUDNKQloxVUd5ak9zUm9lTTJuMkVfY05UVTc3UFJHaDNPY1hoZEtjUWpFNkxTQ1lhRVpvTGpEMU5ESV9hMzBROWlqUmFVcmJ1ZEhZMmlzSE0zZEktX2lrNExRX0VaNXNyakFTT2k4Rm45Xy1PMmZqam5qMTBtUll0RVdlSGhJT0VZT3dYWi1fNWVjRkkxWXpfNm9tQm13QWQtM3gySXhqWU1jSlFGbVpkV21XXzc0ZGt4dnlJR3NQU2Q1Y3JnSFZIaw?oc=5",
+   "published_utc": "2026-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Forms AI Governance Committee for Higher Education",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0JMMHJWRkJfZ1BjYUJPbHVHclZPRXpmUWlRSGo5dmFWX2xPUTFrZ0xxNWtfNEZvaUcwZFBPSGZ6MFc1b1YxRGpYbWxnTUJ2MTFzbXBINzBGRllNVVEyM1RfTi02YXh6RXNqNTVVYXpnMFJyY20wVGFwT0ZCVDlXamRybERMMnRMWWtFbktVdEc0cFZwUm1yNnNjNHBmd29BVVNR0gGqAUFVX3lxTFBzOXhySVJzeWpFRmg2RjM5azlMQVRXXzN2M0tPam52OFQxY19xOUZjNUZHQ3FubkJyektFb3cyeUlfZTFyZUxjSVVEellmT2ItOVhsUFFPbnA0Q3Q0bU5ldTlEWmtUR2RQTlV1ZmFyZmktd2RHdVF3bVpKaUctZkFaVmJLM0RQa29LclZER0RmcHVud3I2TGNmYnZvei1UZEpDOER6Y1k2eW5B?oc=5",
+   "published_utc": "2026-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra To Push AI-Based Skilling, Industry Training And Centralised Placements For Engineering And",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd0lmMWZsczBsZDJvRkpBUXJVellVTWZicnVqNzVzWXNoSVlRellEVU9IeUZvLVdUd0M3V25DMzc3a0ZpelRLNGlrZEtMYzZMak1tZ2w2eFpDQ3A3V01GTjdjSThKdGhySko3Tmo2WXlYNm9zZHlRa01NbGdKTS11U3BWd3F2aFlxNkl4TG1ZZ0N4V0tuMkc4bG13ajh1M1diZWZmMlRfZzd6TGtYeFhPOTVWQjZXYXN2RjFkNWlLYTZrTGlWNXgxbHQ0N0dTRTlfY1V4MC02NlBWZVRkSlBySTNOem9HVDNPYUQ0elJ3SzNfV2ZFdnhTcNIB_gFBVV95cUxNcF9iUXFXMVBOUjZONUVhWXRDVTJSaHlvQ2gzVnd6MHdXREt4Nk9rN3VrUmlZdWFqZnhZak0xWE1kdnpmY2doNHpHNUg3dXZpckZ5c1I3b0J4R0ZDTS1RV2k5SjhfTXNwRWxSVHREN0dfMldUdHZDbF9odHplMGFHN3ZvZm1LZ2lQbnpVVVRfUFY1dzJmdVl6am1leV9COFhoSHFVdTNTQTdLSFJLZnN5Y0Vid29JbWVfX2JteGpoaDhVeTRuTU9ENl9rNHY5TklkNnZoWGNDZUNIN1VSaGpDTFNDUWZ0WE5nWkxDcGxoMU5lZUZJNEFaVkRsNEFCZw?oc=5",
+   "published_utc": "2026-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Teachers’ Day 2026: State-Level Essay Competition Invites Maharashtra Teachers To Showcase Conscious Use Of",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVkR5R25QelEyUUNEM291WDZFSXpvb3o2VF9EMW52S2tyUDljUUk0U0c3YUNxOGt2Mjk0OVFueWlMbl9WYjhQc3FtYTR4TnN5eHVCb0NBMGowdWlqejczYXZmOF9Za0t1ZkdnLVFiVFdsX2VmOWxuUzY1U3lkdDdDWFNsSE1DWmVIMlFjemE3ZDBDZ1EzOGd4cEdSSzdEUUdsSEd1T3Q5aHEzYlFoWkd3VmpzWndsX1JJTkFhdTZrY3VhelpPaUlJa1BaT0FhVmFEMl9BSW1rZXBfV0NwTktaM3U3Z0sxM3pQZ0hQOWhRckhPNG5vT1HSAfsBQVVfeXFMTUJTQWJCWGJFV2pDbm0zT0t5NW44QXIzUFFlLTZCMDI3Q2otYUpNWjQzckJrUkRIVGtoT1REZ05sS0kxdUg3eWdiaHczX3pvYlFKajZuNVJJaUIzYWpLMWxtcTBpMmtvemQyQndLNm4zLWkxSE5BZTJVbkxrNDNhZm1IY24xR0wyUEwxbDhMdUk4UW9HMUhuV045SmRESW9ERF9DTG5va2c3OGR2MVZib0FTY0NpdXhCUEs3VzNRcHBncV9seExpNEhRckptQ1oxblppYUZ3TjNHVEl5bnNicE9JTlhzck9hOGdGcktfc2dXbGdRV1R5ejFFRkk?oc=5",
+   "published_utc": "2026-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

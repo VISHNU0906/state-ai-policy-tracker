@@ -1,0 +1,69 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "ECI Issues AI Guidelines for Bihar Election",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hX2g5TUpBTXl5dmQyT0k1ZE16YnJaRmtjRmdsS2djWmE5Y2xuY1U3MC1sU2NYTVNjekdaNXdYaFg5RkwzNVhPUExXOThYNE5QNVNaREROQUVRdTNmdEx2SFJDMXRGZjhlQWpiUDJZWGdCQmROeVBQaA?oc=5",
+   "published_utc": "2025-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Election Commission cautions parties against misuse of AI deepfakes in Bihar elections",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZkhyTXVHNEt2R3FobXlXLWM2blVhVDlIWVRNSzhzNVJjT3ktb0pGSTNJU0hfVnJSX3BZS1FkM1BHOTRLTU9xYTNDRkVUWU1kR3RERnBaMWxCQkhQTHc3SFpuNkRKQUlwcjNYbS16cTRMYm1NdlFjaXJaaWozYUY2NUpKdTFiaURyRWlONmNhTnhQY1ZhZHlVdHE5M0JFSWRkX01OYkczUEhfbU04VG5EVzVxcmpkdm1HZDNfelRxVW1kNm5lTTlHbGI0dUl2ZFBOR1gteFNUX2JDYWhPYUdwMmVnZ3pmN18zYndiTNIB8wFBVV95cUxNak1CMGpUUVgzSXhEUHZWOV8wQndhcXg5c1YtMWJSZV9xVWVLTmkxcUJ5dGt4UWFaRjJNc3FlRHVRdjJMekEydjl6U0huQWhMU3pJMEdiNTVid2x6QWlNM2RPb0UxSmZrdnRoa2lDMXQ2UmozRklaMTZTaExXaGdyM1pxZkZPcTJ3WDFJT1NnNUNWUGEySmpPNnBhYjNZZEVjRW1zc05YQW9jekNvVmM4MzdyZmpmZlhLR2FZVl9Ud1VvdU5vQW4tR0RVWWI5THFLbTNFV3VKa2x2XzlRbXlNLTFmQ09wdHppSzRDTXVvQjlqT1E?oc=5",
+   "published_utc": "2025-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Generated Deepfake Video Falsely Shows Actor Endorsing Political Party Ahead of Bihar Elections",
+   "source_name": "OECD AI Policy Observatory",
+   "source_domain": "https://oecd.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmM05adi1MZDZlSEJvTE0wQXlBVmhmamZRUnd0N3VUbkJnc2N4Q3h2dlhEc0FoUk1vRXBfcnlWUHFQOWhqWElhUWJpcUhDaFl6Q1Znb1duUQ?oc=5",
+   "published_utc": "2025-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh attracts biggest FDI after policy changes, tax incentives for Google data centre",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSjB0eG14NVA5cEVYVjljMlFldzNFeXk2OXFEOWg5d29TZGk3TjQxNVlnRkpyUXN6Y01JSWpBcFozZzh0dXBScXRRdld4eUdOdkRBdVQ1a1A4cWVQX1NuUXZlZnMxLWJqTjc3WnY2YlpfTnBpcFZyakRabmlOcFZvWkU5RndNdTlwNFAyQlU1clhIU2xmaTdHOG1ydWZHMWRNU0lRbUhFN0ZtLTNvOUp1SUVsMjFwcERsTDVOZnVscUdXYnJYRjRxOGJMdWR3YUNOZk94UEw4bFl6TUxpaXpjam5HLWFqNENNVTdwbTgzbDZ1cU1TcG9oSV9HUEQ2M0kzd0HSAYcCQVVfeXFMTmh6T1RfaEVLTUl5bUNvelpPbjltR1BhVUN4djYtRTdSeGpxS1RoRXBDY2pHQ19GMTZwdFVkdnpmX2JEaHN1QjdfODBtRkNKT1NWTjhJQVBISjlGNU0zc0JpaTRmeWM5M1JSOUpQMTdCVWZCOFFEblllOUY0cnNTbkVxTFRMWnBxTFR3LVVwbklDUkpMU1E0TTEwbG13WG81RE9ycjNEd3RTdm1NUktJUEFVaFJXdThoei11Vk5RNDdNaEhoOFlZUlRhMHlmWVZ0cFRBQkVuVVRaMWw5amQ1NURVbE1QWDRqcmFvOG1BUERsZDVQYkVVeTA1VUd6b2lxbERpV1liWUU?oc=5",
+   "published_utc": "2025-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video Of Amit Shah Claiming Indian Army Is For Hindus Is Deepfake | BOOM",
+   "source_name": "BOOM Fact Check",
+   "source_domain": "https://www.boomlive.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzR6bW5uay1idW4zNU9Sdy1kcndicUZ3WGVEbDVnLUkzbHAyeWxpS3V3RjdIV3hiVld4SUJhTWJTS2VGVzgxaUdwZHFEMnpWZ25JeE9IbENUbjlTd0F4M1YyV0dDVmdvbVp6dzhrTjg5Q3Q2MFhkWW8zS0d3bVlHemtrbFdMdk9kckJhZG9neTRINGkxTXFuVXZLazEySkJLYnMxRVJPV0Q2Z1h3dlBweFgzRXpGODdPNlpyQ1l2SEZhSENfUTRMZXBR0gHPAUFVX3lxTE1lVkp4S3JpWTU5TUJyb2I5LS05eXdTYVFoVEpEOUZZNXJQZ3N2Nk5BV0xhR1RKUEV6UThWcFVGdi03R2RnV3RINjQ4X3dzNnBjdGFTcnNnOHlneTF4RG8wdGdFcmpDOFlWS19VZEhGaWFEcnhDV2hsMmctRjJyMVJaUElzY2pvWFByaXFzdkhoWlV4SXRWejNIUHhLN3pKRUIxMUhWVzFpQ3hZMk5XZFJRdVZfdHFEU1h0Q005TkJQQ3dxazktOGJMdUwxZF8zQQ?oc=5",
+   "published_utc": "2025-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An AI-manipulated video shared as Actor Manoj Bajpayee campaigning for the RJD in the 2025 Bihar elections",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUm9odVl1OXByQlk1V2R4V0hyOHlEYUh4eHNCc2NiXzB0b1RzWVJWMEZCS084THdDSnZQM2NiQnY5Y0J4U0ZEdGdCS2J0VTdMTzAxdnZuUTJNU3pjZVp3OHNJcUJuSU5iMEwxel9TWU1GQXhnUW9IN2dPdC1FQmVlR2hUUVBVV1VzTlhoMWhWVUhXS3c2TEJPY0oyT01RekMtWkF6c1dvQlN3ZGtjUTZOdHBfVmZTN21YZmNLQjZwRVBUSm8?oc=5",
+   "published_utc": "2025-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake crackdown: Delhi HC orders Google to remove ads with AI images of Sadhguru; flags lapses in remo",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdUxQS2c5MzBJUFlJc0JDcnJVSzh6elJyUDdpQ2xaY3Raak9pOHl0aTBWR3N1RE41OTlYM3B6QW5RRktDNjcyQ0h2U2wxLUZnYlk0M3hMNkVjRTVOcEhDX2RWRTdVTkZPaXdIMmRTOXNKbHBzekJubXJfZDJaaFpXY0NjZ05EaThrQUR0RXFvOHZQV2pvWDY1U0l0V0VRdHU0akFMNW13b1N2bzFxZEprZ0xEc2xTMDJlOUVsbzlXd2hqS01JYVFWa2l4WFJfVFR5S3ZCNURzaFFsVGJLT2w5YW5wRU5ZXzVDV0hNNEpTUGYzTnBqbHFmeHJtUzV6VGUxOWF1dURMd1FxZ3FtVjY0dW9raEtjbUYzUnN2ckpLc2vSAaYCQVVfeXFMTU5kT3JoYXFHUWpwblk5Mk1lMTFIV2wxOGVMdFJaYVRrTEI0QUJJZUlsaTNsMjJqcjE3NzllWEMwWWdzWWxTT0dFeE5veFEwYWtfUHNHMmp6YU9vMTlRQnk1QzMwQUdlSDFxMUJha0YzOTN6MWtuWWZ0MDNFeWw4bFBIZUhDajgxenB3V3J1Q1Bqc21td0lzVFBMWHhaVXFla1VEcWFuQjNMbVF5bW9HeU9jRWFna1ZXaG81TFVDYkpSMGpxZndSWi1HczgzOWhwYzVJVkxJSlYwUVBKWm5rRk1UaWJucUcwZmNHUUJCb1owd0I4QWlkWnpIUDgzdDdubFB0SENLaFZoSGhVRkVsQW5DUXZBaUdHb1U2X2RtbFhlQmc0eWFR?oc=5",
+   "published_utc": "2025-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google announces world’s largest AI and data centre hub in Visakhapatnam",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVJKYWVJb2xSSVNETGJWVVhlbzBTUHl6SjdyRk1jTTJKTXV1MmYxYjZCYXdoOVpQTnpOZHhkU1NzbzNrdDBxWFVBcWUwTnZsMFVxM0tucnpFQ1d5dm51aDhmZGZ1enYwMG5IWENoY25CSE51eUtDc3MxUVlvSWJVRFFVTFFSb2VaQjF4VmlIdmp1R2llRTdPYkgxWml6UjlQd1hqMGhfWHRxaHVwcmJqZ09vOXpWNjVpZ3hOUUJKME1uMVpLSGhkT29jNUJmWjhLcFoyOFkyMzBYOFd0QW81T3FpSGx3UHfSAewBQVVfeXFMTUdCZTI3RG5aZ1diS2prc29vTWFkOHNDbUdxeEFWcXNXV2ZKSG5OS20yZ25KVHVPV0FmMWxuU09jZGhqLWR5dURQNENWS0JzR1VNN0k1UTVoX2lUOUV2YS1zc21SdWQ4bXg4QmRGdTNHeGNia2N6TGxTMFpIai1HdTVVSlZfRXp3bWJZUUxNLTd0Z3AzbXhMQXZxNGFIcUFuZGdLQUw4S05ZSTlXb1I3ckJyRHh2Zks5a3NaRFJGcWNDUjYyR3k3UTRadHluN2IxZ3dkR0ZyM1k4Q1pwbE5wX2lqbUZaUHJNTk4zYnQ?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

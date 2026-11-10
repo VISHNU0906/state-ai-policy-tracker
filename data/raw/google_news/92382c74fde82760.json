@@ -1,0 +1,21 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "Views of Manas Ranjan Panda: \"Odisha has become a key leader in IT\"",
+   "source_name": "tele.net.in",
+   "source_domain": "https://tele.net.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFBaNlVUalVTY1NtQzdBS2NmTUdNeC01OEhVOTFWT1ZzQzE0UGswdjktdUEzdVhva0FvUDJPN1YwSngxMTlVdkRkdFB5MERXSVExZzlqaEhpNUR2b3FPdzhmQlJTUm9QWG5VcEZibW0wcFF6S2I2VVBja2xGVDFVVzlMb1l5UnItMDB2OEV3?oc=5",
+   "published_utc": "2025-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Management plan, control room ready to tackle flood in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpkZVVvNDhSVnhhcDZSUUstY0ZEOHBFcDVva01sMkpMLTVHRFpUdXRmLUVOSHZkQk1xSG4xZWJER09iVjY3ZHEtczJ2WXAtZmExc0hMSDl4b3hmVHBiYXA2MmF6Ql9OTDQtX0NOOEVlSTdRVi1wcXlQVFRJMlBPZm9hTWhSZ2M0Y0RCdVVEN0RSZFA1Q1REUEd6WWJxcEt6bWMyblFib0wycmtMM3c1SmtJZmR2MUlsRjln0gHIAUFVX3lxTFBLQUgxbTNibjk2ZS1OOGdGWFBkUlRmcE1UNWNKU1pPOXpJckU1WXA3THFFQXF5VTBUUmxub1EtQmprYjRuekg3M3VKN201SzFWa2xKRW9SMWQtYlRvNHJZRWtWNWVhNTQ0N0syMXNYcFQxMGFGbmwtektFOUZnajNnZFlpb2VCaWpnc2d3RmV3VGEwQUhTQTlnYzNiYXJRQUQ3NWlKekNBREVtMmFmZndkMnZiZXZVZTMtdGZ3Z3M0WndTMGZoNDFi?oc=5",
+   "published_utc": "2025-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

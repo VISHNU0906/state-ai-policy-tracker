@@ -1,0 +1,53 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-11-01 before:2026-11-11",
+ "items": [
+  {
+   "title": "India’s data centre capacity to rise 5-fold to 7.5 GW by 2030: Crisil",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQXzFTMm51N3pKaXRyLVRVZ3R2ZU11dDFzMURFejU1RWtITXlBd000cHpWSDlFNU1BQ2lkS1NtbVBOTjdWdWlqdmxFMXJzb1FJN0thNWxJSjJEcHhGSWh1aEdyLUo0SHZtS094Z2ZfUVc0cE0zQkNyTG9VTnNnWkRzWnpfb3BvcXdoWFhFenFwUHQzNjhwcExTQXhBZG9oYlpITGpFNlFaVDJINWpEYXZPaU1naEpYTXpCdUpHcDRoZ1JtcE5mbGdBaVV5NW13MUZ1Mm9MUUdCNWJDaUFVMFHSAeMBQVVfeXFMTTV1UmRtcEVVOEpmdzhsMzNnYW5Sdm80cFhpSnpoTmxQbzFvdmNFWjZPUlNxQ2RqcURXQ0U3TzNJMkkyRGQxVzRoVi1YSldNbmtnT2pDS3d6OEJHd0dBdUU3eU1MUmxlMWhvTlZVY2w4M2ZMSGxVWGJQbXVRNFdFbmF1d2h5Y1laU3FRbk4yeWk4dWZkMUJKT0FfVFByVDZaem9vT2R0QWxQamlmSklaUTlld3BadmZwNHFodU44MlVCZlZFckRJRi1YMG9yU1ZCaUM4MEVxVGRBQTBMc0NXdV9XV3c?oc=5",
+   "published_utc": "2026-11-05T09:34:53+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "WBSEDCL seeks two-year AC maintenance contract for Newtown data centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWxRbThnbVE3dW82YkhYb0lVa0lKWmV2Mlo5Z01UTTV5V09KTVM3LThSeHpZb1FRN1B1RnAtbkZPeDU4U0lTRFhSdTNLSFEzdUUzZzJyYldpM2d6SmEwVHNSc2NuWWdZTk1RWEhjSndkSGlMYXRzbWNwU3BJZHdMSkVWbmhfemR3dl8wZ05ZWjk4RHAzY3dkU2QwdXBCNDRuMVc3QlI2amFaXzF1?oc=5",
+   "published_utc": "2026-11-04T15:53:10+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chiranjeevi and Ram Charan meet Amit Shah: Raise concerns over AI and deepfake threats to artists",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMW44V2hhRWY0ZmFzYTRTbk1PZUpNc2VjdF8tMzdVZDZ6cEpsTFNmd1BncHZsdFJMZm9XS1pkMHgtaS1rUEZPMnV1N1A3VnhyZFlZUHhGZGVsQVY3YjRlWF9MT0lFZGJnM3hXaTJ2UGM4OXNzWEpSVTVPM2NaUlBobmZiUHh4NVBYRUNzZDZWUGNwMVk2VEx3Ny1sZWlYZGhDOUdOdjNVQTg3dl8zT0hnRHdMak9xeUxGZHNxbUJ6UzJHYWdWN2fSAcsBQVVfeXFMTkRDeFdPOWI1bEJJTDhTSkUyZE9kZF9fbEJTTEx2V3ZvSFhWM2pRRWpYeENpN1JOT0RKX3F6WFZOQnM3dl9ZZmFUa29hejhqdmhEdjlBT0k1dWUxQ1JycjJSQXVKWDc0eEY2bkRrV0NXWmlLRlByZzBpemgyUDE4REtadHN3MHc2Z3pMcmVzYkpWT2JUenhpS3lNNE1icUxrLV9mQjJoRjdEZEpSNFdkUWNWMDFzd04zeEdDeE9hSjNTSXEzS19PUEUwY28?oc=5",
+   "published_utc": "2026-11-03T09:20:15+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Democratic victories threaten to slow US data-centre expansion, ease bond yields: Report",
+   "source_name": "The Tribune",
+   "source_domain": "https://www.tribuneindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVU9sQjc0dFQ4ZkRwbi1jVjI3ZFpOOFVxUFNlU3pKdG5TVFZaSHpoOU9vUEViWTVxWGVhZFVXbUJUamN1SGFmYVR0Wm5qWG1tdVRNeXN0WFJLR0ljdGR5d2FwRGxPd0J5aThzRU9jRTNZc3ZVRW1tSG5hN3ZDclVuLV9DOWpmVzkzeUdvdEVnSUI3YUZYQ3NTYWtxT05ITG9EZjVwMmxpX0xibkp3eG1tTXpuYWFXMTRoRW5aSXVDeEp5RzB1SU96bDFB0gHOAUFVX3lxTE1EVmRIemZPblZmb0ZnWENWa05xVmg2QjdNQXRZTkVHQXBFdEtYc1JLOEhyblJ3VUJsMFh2b0Yxa05HczFQYUNiQWxIUjlNVi1CNUNpZ0tyWkY2enRFRHBfVGt4dzEydmlLaFczSUpTZE9WVWlPcklyYV9fX2hKS2M3TzhXcE5oaEt0LUNzRW8zV3Y5RGR6ZlNkaW1oRVlQX1R2bHhxcTY3dURqWkgwSExPVDdDQURZSzJVUTM5TXZMNGgzNVZESHpKdDY2dXVR?oc=5",
+   "published_utc": "2026-11-05T02:42:37+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Airtel Nxtra plans to invest ₹220 crore in 10 MW data centre in Prayagraj",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUlDQ0VDS1AyUGxlSGNxQmhKa2xNbmliY0NMMDJNckpiRkd5SlNlcmY5ZjFlVWJVUFVmcmFRZlA5NWtLWGN6V29hWmZlcXVqUHFCZzZ3bDVlQUh0b05IdEJNOHY2NXJJZVp0V3Q0cHNGMEpsZjU1Z1FsQWt6MGt2ZGpMZ1ZmRUo5UDhoRTV2NHJ3X1ltUFJsb05qbnB4eGRTa0hrVTN5OVloMW9ITnpwWElFai1YUFRzVjRCdHlTQ0hBVXNQRmdqYmZXd2k4VUw1MjJXeWRiSnh2djVVTUNN0gHkAUFVX3lxTE1XUjNqdVJ3MkMwZk9KWXVvc0dGLXNFeHhNTEE3RlpabWhsd3RCLUdKWW10Y2hzeTdQSXZFQ3BWUDNNMmxBVHg2ZjVvSnA4dkE1a2ZWUzV5OTl2UVBfSVZjWmxwR0JvVDEyd2tkd1ZvaVNkMkpoT0tzLTFQY195MEVIX2RCWjV1dEFEOVFlMHI1UFNGWGdzd0h5SFp0M05hak5HSmladEhHV0FkRU8xZ0lpN2FlaU1vaWphc2xrd0lIS0dFT0VvZFVUVFpmYTJvX1pTUnFzT3NiLThDVzJudXBHbWZnNg?oc=5",
+   "published_utc": "2026-11-06T19:19:22+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fake precedents and hidden prompts are pushing courts towards AI rules",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXIxdXU2dzZ1QUJiSEFrY0pSZEY1V2NEakhlZTZLTEJodHVvc2Q2VUxIZ0d3aXhKMzFfRjVYQWJfTEYzSzVkOVhoSDRxX0xLX2VYSGJRNHI2RGkzNVhtLTVtM3JqcUdmMXpNR21sODl4ODFhUVczU3FYajd3WWJpZmwwTlg1cVhRckZIV2xId19zVjBkdGxia1RyUjZQUXc1OWlaUjkzTWhPalJh?oc=5",
+   "published_utc": "2026-11-02T10:54:52+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "How is Data Centre Infrastructure in India Shaping Power and Water Use",
+   "source_name": "CEEW",
+   "source_domain": "https://www.ceew.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2tNalFiRU1qZURuTTdoVXg0dHRMTVdKUm9MX0xKaUgtLWxmM1pSUDhweTAxR3VteW1FYkh3OU43RDlqakp5dmVFbDM0dDZmWG00aFRkdnRvRERzVWJMazk4Q1Fad0gtSkJ6X3FxOEhJM2tTV0RFd0xRN1U4aGQwSnN1M3QtMkkyUy04VkE4VzVCS0U2WEhjRmpTU2Zxa2lEZnpFbVJn?oc=5",
+   "published_utc": "2026-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NeevCloud, Agnikul Cosmos partner to build India’s first data centre in space",
+   "source_name": "The Economic Times B2B",
+   "source_domain": "https://b2b.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOenZMOGo5S2JYR1Bvai1GSU9LVnVMV3E5RWQwa3JBdFp0QVhrYUxyeG5qN2VCNFpfRk9PTXJwMGEwRG5SN3BTc09LdFdUWFU2RmFqLXY3YzIweWt1eHB4Z3JDTnpiNTJib0dzR0xwSWpQMWdiazAxbDQ1bnVwaGdBaVlRTlk4WE45TGJHblFJbmMwYmdsUzBuaElHT0U3eU5RdHdxWFRESkNZNk5ZZmZNYlVNaXAwcmhMUV9NLWp6bDBnQUVydUV0Uk1rNVptNkpLbVpSRzBzai02YUnSAeABQVVfeXFMTnQxNTNqS3hTNVZkMjV2RWNZNHM3V0tDaDQxWWE1dEwyTFhkZmp2S01yVDNadjF5YXlVT1k5Rml5ZnE4c0xUNDJ6a1duOXdwZ2lxYW5ZT3UwYUxJZXBmSXhoUDFaYzZsVEhPQVZ6ZDJrdzE0Z3JndGduWHQyZjV1UFJCdkE3Rm0tUWdRNnhpcmllNnVhLVF5cjQxbEE2Q2RIWGZtc0RhWU84R2VfLXI4SVpyWFN0OFBCT2RYRUJXY29MeGotNzRWeDdta2kwSjU1WWdKbFg5WHlpZzRTemdNa1E?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STPI Bengaluru to Provide Co-Location Services for Karnataka State Data Centre",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmFGcTNXc2Jqbi1IZEZtLXNpLWxFYWFLUVhCSFFQT1gzVUx6SmNZaXFRT0lrVy13LW92OHpkUjlveFhPUEFiSHpoU2hyaXNSVmhzNHNQVVVOSC1GX3JtVFFLQ0V3c2piSmU2RFg1X1htSVVRLXFRWGd4QlpwVmU0MVM5RmdlNlBjMFF1WExEUmlrRUx2VERVZ0dvZWpZZjNJc2ZEc3kzaldaX1h1NXUzLW81RkswcXM?oc=5",
+   "published_utc": "2026-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI content labelling mandatory from February 20: Govt orders social media platforms to remove deepfakes wit...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZGVhVEVGTnJKSXgybTRoN3JnYkVIRUpJTF9UU0l0VmVOWGJNc1FVeHNUM2FLRHUtX3o5UmZKajlHb2NweFRxQU12ZnVwMEc1UTdrcE43NWc3bmtOUVpVUGFDaTBDM05CbE5HU25FU0xWdTRwQmFsZy1CekpiYnd3NHN6UnpkenNHdVU5WWJoWVo1RHNoZlY3d1RzNTBpTHE2c2pOUWNDanp1QTNHendlZE1VMUxFRjNlTEZQd1NXVGhUUzZicTA5NXY1UlJZV3NwVlAzUnlPWGVESGcxeUFlejZzOXPSAeoBQVVfeXFMTXQzT2g4MHk0MnBkbER6U3UtNWNVZHIyRDlrODNwbTdoYll1N2dKSXRLQnJpQ2k3eXkxM2hTUDB4NWNlMC1zeUpidFZtTUFDTDVXWFNTVlZoRDV5Y0htcVBSUmMwSTl4LVozcVgxd1BFT291eGVSdWpHNy1qUXVoeXFFRzhteEpnRG9DZFhzUEU3eElyU3dyTVRBU0VqcS1TLUJKNDVVYzU3eHV1VFpialM1Zk5Ec0lvdHdyWDhTWDJpam1kSlQxUHM4c3ZwZk5RcVMxWlRGT0hHNkYxMGpqajdRQUVPcDZDekp3?oc=5",
+   "published_utc": "2026-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "All AI-created audio, video, images must be labelled starting today: New rules require removal of deepfakes...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHFORF9iWnZoazl6MktoWHlXNVM2R2M2M2pWTUs5OU1ybWVXZGpMT05RUmhnaU15S0RDQms5a0MzcFAzVk03V3NjWG1zeHE1QzdjV0MtNVM4MnE4em5GdVV0MUlZX2NuZUQ2WFRiUl94VlVXX2E4N3dsTlRPdVk0NU9XNXFvNDVZalg3bks5T0FCRUxwWGNKd2FUYmVpdFlnSC1xbV9jTlhyNXJsZHEtYXQ3RdIBuAFBVV95cUxPemMzTW1DUFA5MDRIVWRHa0ZMZ2VZMlZPM0hDRmtwR09PYmJ2emVPV0hTMWFoVmp6SEM3THBSRmdZQktpSXpUWkl0UC1pZlUtdEY3aWRBLWNwa0hRNUc0bWNIckpwRnlMM2FrdGdkeklwWFQ1WDZiMUpLOHZPaTQ4ckw4bjNGSVpHaW52VDJ6WFdwb29HTEV1dGVMLVkwQU1ZQk82cnZxV0dzNkEyVlFRR1NXZVdhcmV1?oc=5",
+   "published_utc": "2026-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

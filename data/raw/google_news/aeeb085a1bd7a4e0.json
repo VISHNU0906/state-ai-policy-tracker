@@ -1,0 +1,85 @@
+{
+ "query": "\"Bihar\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "The UK Cabinet just got an AI Minister born in Bihar’s Muzaffarpur",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0doSjd3UTBFZmFnUHppbjVDTXItWHJOcnRiTTVwQWpsbVpmZThZcGRaczlUaEctOE16VVE1MTN6czdJaTZyb19NU1FJSGg3ZEw0S3lGclJDR29TMzc3Zm9TQXhIckJDOEVnSFJUb2xfUTVYUHR2VTRBREtDYW5kemhnR296YXk5T0ZRVGVMaG1pczV1QkVYR0FodXRjS2Z2dkNuWk8xSmtGWmwyZFFPVjl5aWZZb3BCSTdLX2l3Q0x5UWNC0gHLAUFVX3lxTE9pak9FZVZseDVod3lIN0w4OTc5MzhNSF9VLXh6bVZ4TXJDSkpwUG9hQTdFNGVYTEpDajBRYko3MXk1UUtaQWxyOThxcXVOdUl4dG0xM3hEcUtqR2gxRWFHcjVmUUZxNjVucWptc0FGTlpWWFFuOERLa1JEQm00dFFLN3RVNUhMVVYxcG1MMlZSckJ0MGt3Zjl3cmlGQTBmcDBwNjJlSHFOR1Ztcl9JRzhGSkZ1RWFEdGVEOGRsM3hLR1FwY3I5aDAyQ2Z3?oc=5",
+   "published_utc": "2026-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How is Bihar Advancing AI-Driven Governance?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZy1Yd3ZOcXZxZnYtNERmb2NKMXI4MFdtTDhYTFdLWDVMekpXTjBqbmdDeFZlVUVqamxCVVh6SkhWclBWLWJOWklsTjRTbEVNUjEyNy14OFFGWVBIakpDZ1Q2dE9PTlM5R0lyNnU4UzVlSGo1NHhNRnJEeGtkWTFRUGpwc2pqemxlYnNhMTNzUFFKVjZ2ZnZoaU81d1ZOSEdId3dYNElldWRncW5IVGdfUjFqanBqSTFE?oc=5",
+   "published_utc": "2026-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Government Signs MoUs with Google, Microsoft to Strengthen AI Adoption",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlpDRzZVMU8yQWRRYmZGWHZnNng5ZGNyc2g1bHl1REtlMDdqM0Y5YTV6RWR1dWc3TGE0VGlYWGVRcWRSeWRLblVwT3NYVXp0a2tCRWtLVmdrVXNuc05iNjl3SV9GZGN6R0w0YTJNM3V5c3cySHJCb2JNTE5nUFNxR0trVjdVMWV6a2xGeG15czh1dWViWkx4aFROd1BNZmE3akoyTXRDdmxXbUh1VWg5WnRkTQ?oc=5",
+   "published_utc": "2026-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Partners with Google, Microsoft, CoRover, and Sarvam AI to Accelerate AI-Driven Governance",
+   "source_name": "CXO Digitalpulse",
+   "source_domain": "https://www.cxodigitalpulse.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2M0NG5uZ3VWRzh0cEhIa1NFSjMwVXlTdG9TcXpiSU1xWE9UX3pPTmk0cWJsSjFNVHVYcDgwTVJvVWdiVWtzOHVWc05DZWhBZU8yRF9WRG4zaU82b1NETjhJM19aOVRnWXVTREp4ZloxZXBxOUFEREg0UXhERGowRHczejJOWUxkN0hUV3hLLU45N0tDSEVYRWIwblNuNDJsS0lrc0FKc3U5RGxVMVFjNFVjWWV0Q2NXUWZ6MzRHQmh6NG14?oc=5",
+   "published_utc": "2026-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar to get ₹100-crore women's skill institute, Skill India International Centre for overseas jobs",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeV9mcVhTWlV5aEp3ZG9TZ21RRkFVczFyMUNzdmM2dy1zZG54WTVhZ1lnekdxbmYyT25DaEtvTzNveFU3S09heXd6UWVScUY2a2RaRy1MS1pjclB0TFY1OFpLeEN1RmJBbHZWdFZzNHVvZ2d4bG5Ma1dXZFFqYTBIcmxRaTJGWG95R1JlM01FTmY0MG53VWlmS1RpcTl3aThhUXNjOXVOdmRKVzh6c1djVFpVVVZvMW9MVmVkdXQ2MEd2Vm9FZ25CNUFCM29JRjRHaFFIUGlKV3ZNTHNMTzVXODZoaW1Gc1BBVlNLcU95MmxiTkxDRko1NjItUdIB_wFBVV95cUxQUUswZ3FvRUtHNjBFZ2RiZVlWSlFtcFlRaE5kYTJlSmxXRnc1c3ktOG1WSFJ4WVBOLVhzS0QwMWR4Z3JJTTduNzdPVnhtLWVUSEZMN0JIN041NVZMS0JaM3pRbEJQb1VRUVJHd21IaFZHNVNGdk9jd3FlTnlqb3c1LW9XSkl5eWo0RmNhMmI2UHhqMzNub0N2VUJzcHEzS2lUWktYUFpScFdmTHFaNWFvZXFKWmMwRHRtRVNaYTI3NngwMzQwb1VUUXVkUFNiX2JLOXRIWkRaY0oxaTZ1WGtJcHhzV0QyaUxpcGF2dEhpZ2tOa3NMSFlrVnFkQ1Q0aUU?oc=5",
+   "published_utc": "2026-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet Kanishka Narayan: The Bihar-Born Leader Now Shaping Britain's AI Future",
+   "source_name": "Outlook Business",
+   "source_domain": "https://www.outlookbusiness.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFVfNlhYSjJaWXJPTWVmZG93eDEyVlNSa3l1SkZ5UGs3TDl1MmpFN0MtNWQ1a2owc3hFa24ybWpRdkpGM29NRUR1WHVMSm85S1NFYVpJaEZfS3ZiTjBNWTg0T2NXNkxDUVlhSE9MbmxkOFhhZmd2Nm4tamJqWDRwV2MzNDlDMFI4WG5EZFR4dXFtblFnU0tUMjFvZFp0ZUhrRDVJaXE2dUd4YVc5ZUxzRtIBvgFBVV95cUxQcDlrRFRMZXIwSk1CT3pEWnE3ME9KV0c5X2tpc0pQaExlRS1GVm0wMjA1elN1Z08wNmJPNnZsaDdvcFBNNHU2MGRKZE5KTVFjVjM0M1RVWW5yN2VRWTl6QXIxZFJFN05MYXJ2YThhYjFzZlJsSnpOTjJPazN2UU9OV3VNVFFlU1BudDJkMTlrWXRBMVVnWG4xUU8wcTlHeXJDQUQycVRGOFBoWnY4UW91a3dRZHlLX0dYS3BhQXRB?oc=5",
+   "published_utc": "2026-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar CM launches live classes for schools, free online JEE-NEET coaching",
+   "source_name": "Careers360",
+   "source_domain": "https://news.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVUzeDhUY0lfQ0JpSlJCWGhSaDBUZjlnOTB5ZDBZS3E0UXNFQXBlc3dVS2FvY3pRRnVDMjJDZTNLSDdLUVIxQ2JSLUxTUnpvaWZPaHdSNFY0UnlQenBPbGJCUjE0U0tWUFFlMlNNZTM2Vi1ERjZ3WXZRemN6NWQtT19HRmJ1ZjBEeUh2TUt1MnlySnYtZFdKQ0pZYnUwbzRpQ1HSAacBQVVfeXFMTTBuckZhekdiTnFFdVh4TDd3MzNMNkJ1S09LYmpuWm52dEphb19GR0JaQ21UYzhMcm5XQnpMS3RXb2dPaHNVZkxmc01OR2s0OXdlNzhyZUdjX3F1NzdBYjc1Z0MxXzZ3bVFGdlp4MGhfdkl3SFloY3Z4TktlbUxySncyMHZJQjI5NURGcndvbF9Sa3JCUnpRQkdyNkNtY2xWUHpRS3R2ZEU?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Launches Live Classes, Free Exam Coaching",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUc3MmoyZHJwTWFtXzUwWlBnWUxjcWs4X3Z4d1B6ajFrdkE1RlhEX0o1b1ZGLXlFblkyTk5oRWNMcFJoS1dhU3lyN1kwWjliSjJkd3VxRk9INGh5WDNsclprMXpKeFdVTjY3UkwxT1Q3Wjc4ZldET01EUk5XOGJsaUxDNWJLRU9ZaDJvTzVkZC1kWlF4TTZ5NdIBngFBVV95cUxQbDJET0ZGNTNDdlhocnZ4QzUzV1Uxc25mMkRXSnIxeC04Q0FNS0dsOVN6QV9JU2pDS3MwY2VlSjJsUTc0ekREVVNydnJxUzNiLWRNbDVhamFCRUx3Mm84cVd3TElKT3owQlh0RmRhNXFlOTMxYnlyUzRTUXpYYjRaU0pYWTdKaVVVLWF4ejNKdDZxMXpnRjJzMzJNMzZmZw?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI’s promise in India will be judged in Bihar, through its universities",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXNhQXVkemJTQk12em5lR3F4blI1emN2Y0xMa0xZdEFjUDNpTmg3V2xlMDRhN3p2cFBMSmF3eHpuU0JkSGNuSG94Q2NsTjBobFFVZkNPLUpYdlNwUnVWcTVjck9ydmhpYzBPc282YVdxbHgxNXlwTGprNE4tLU5nZnphalc1eDVrTHFlVjhJNUpyWmM1NzNTS0NIZ3M4OGJjektMZGxLTThxUDJCN1NUQk0wOTBzMS1wenlz0gG7AUFVX3lxTE9pc2FBdWR6YlNCTXZ6bmVHcXhuUjV6Y3ZjTExrTFl0QWNQM2lOaDdXbGUwNGE3enZwUExKYXd4em5TQmRIY25Ib3hDY2xOMGhsUVVmQ08tSlh2U3BSdVZxNWNyT3J2aGljME9zbzZhV3FseDE1eXBMams0Ti0tTmdmemFqVzV4NWtMcWVWOEk1SnJaYzU3M1NLQ0hnczg4YmN6S0xkbEtNOHFQMkI3U1RCTTA5MHMxLXB6eXM?oc=5",
+   "published_utc": "2026-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Legislative Council Passes 13 Key Bills on AI, Higher Education, Employment and Ease of Doing Business",
+   "source_name": "Indianmasterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0pHSjZpb3JpeDEtT0FVQTZaMG5CWUdjVlFBRnBndkVlQVRNRzA3d1k2eHRQVmExWXNDaU5ueGo1OW1yWjZjRWNhcVJoYm5kZXI2S3REZlBNUVMxTjlwSWJrclNMTTVMSVI2SmpFX1BQR012MW5WUFA3OUxhTXVIN21JcVBSTzVoakF2Q2tNbmtVRWdyNGo4eG01a2oyd01sNnVzellhMmxoZjh6bURqYkJnSQ?oc=5",
+   "published_utc": "2026-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

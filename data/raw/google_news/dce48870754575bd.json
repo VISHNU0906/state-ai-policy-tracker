@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "Maharashtra launches Mahavistar App ahead of Kharif Season",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0wzaWg4N0FVWENqaWxYUngtSlY2Y293UEp6cEhBd3R5LWFZcVAwTHFkcE84eVNvUHZDek0wT2ktRlROa29QM2JhMS00ZWVLQ2p1eWs3UzdzamdzekF0eTVNWDMxbG5GX2lVODZwdGQ1bUFoMkV4Y3hYQ1d3RE9qRldvaGdsTm1KcU1aaHQ3YzVqVHhhclRYaElzZzFNY1R6eTZKQXRNVnZhY0ZoU3hVMkpsaWNiVkVlTEY5MjR1UVY3YzR0RWRNX9IBzwFBVV95cUxNajBvV1hlRjh5WExEc2pjd21qVUxJOU5IZjRrWFEwckVQTENJU1AzeFZselIweGYydXVVclh1ZXA0eVFuYTJieHBkQkp2TlZqbTZpVTNwQThoVEJZeVBuekQxUng2UkJJeTdXYTFSeWVlemZfNGsxek41TTREQXNBM3VOTGJiN0tpdktIRFVLZEtaWnpoQmZMRGFueUp4bUNyTW5BVFlYZzc1NXoxRGZEUXNpRk9UYlkzV1FkWVVvaG8zSFlLbGFYVzJQakh5ekE?oc=5",
+   "published_utc": "2025-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Launches ‘MahaVISTAAR-AI’ to Digitally Empower Farmers with AI-driven Services",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWZhYVE3Wm1zN3RkS2ZqZllHdXhWeTRGQTh3SFV2dGRnSHZ0SFBZd0kxVFMxU1hjcURKek9qUGRJeGdZTE9MaVBRdTIzRlh6TEFyc0hObzhJanFMakRMeXp0blIzWlhaaE1zNVhtd215RkRXeEJPZDFvRWNhT1BlZV9RUDhxX05OSURUWUF5OWs5MTlMMTVma1B3V3dHUVZOSWlMQWppNDQ1R09SdWRqQkVNQ1JtVUdUMEhGbEh6eTQwZ3Bm?oc=5",
+   "published_utc": "2025-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Inks MoUs Worth Rs 8,000 Crore In Waves",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWMwYUhJRndDQzM4dm1UeU5LOEtzaklGbjBVY2E5QnV1TVFVc1BKOVZTYUpxd3BNYUNsR25MNHRRNzA1RTUydFFWdDlKd1VENDYtNzc3cFEtUkZWdXFVODBrMVFYN2tjeXlKclpmcktYT3Z6RXdrRTNhWkNlWHU4b2dPdUc3U2Y5X2R2dVg5LUxKTTVPMDlHQ3plUUdPYm80eVYwajhYNEFTNldR0gGyAUFVX3lxTE5hUzIxU2dONnpFYXFEVnFPc2VPWkU1SDZYZFhsa0J4dm9odjRrRXJZVkt2YmVWZEtTUWxUWElvM2ZVbVJQQUVsZGJBdmlUU041NnlickZSZS1sblVDazFxM0ZYTV9aZlFIUjFKS3J5NWlVVTNPZ3c1MUNEcC1YT29oS1l6cERWa0I3WEJheUt1U3ZqVXdIZ3ZsX2w3TVdFNmRtdnk5MG8zaUE5Wnl5dHZGc1E?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt launches disaster management training for students at ITIs",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTTZvdVVDU3I3OXVUdlRLZUdvY3R0SzRmMFZqYTJ2TzNyVWdOZE9RbFhZLXVvU0ZETlNWT0JvR3pUVVZVX1pMTGozT1hRRVNHa004UEMtZ2FQSGtZdDFXbENYbFFQejF2YTg0Z2NFQVRXdVhpOFdGVjhEaE9IcDlLMUF2aW1uN3FmYmdaM3pLRUp0dHdXT0NoNldraEVEOTZEajJkQ0RCZDc0MmtHT09aLWRJSFRId0ZJMWJlU0Rab3VhOS1KNDF4SXRCZGhhNXBwX3BWanFxNWJ2aDh3eXI40gHjAUFVX3lxTFBqbUFLWW1pMnk1YkYxRkxMRTJodFFhTG1DS3owWTZPZWhjanBGY1FuSjMxZ1d0ZkhEWEhpZ2dvVlE0MjFtQ2c0NGxsUGlLSlhvc05VczNSTHA0dmUwMEQzRDNGcVRKRnNrdTJaR0M4WDZPWGowTVk3YnJILXVIZXAxSmJJeF9wcU83emFsYmRLRXYwMEVKUXdlQnZfemRLTnlOdEJYSWlCbmhobnU1ZTNtTV9zVG96YnByclhFY0F1aUJhQVFPUTdkU2p2SFo3MmYzVVRiUmZ1eVFGSmpiN0YwZnlr?oc=5",
+   "published_utc": "2025-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM Signs MoUs Worth Rs 8000 Crore At WAVES Summit, Govt Planning World-Class University In Mumbai",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMVA0dDQxM191ckItT3VoczE1NHhaNTJ2OUlHRHlpbS05bFg4LU4yZDVrR1A0MHJSX3VnYXh6TDU2cWFxUURQQmpzSDBCbG4yN0tJY0k2VEJyTE1rS1lNaFgxSUZ2TGJWU2g5anB2SnJRa1RZZ0hxUnFlSFlyTnhaNXFpRDdBMHRWemxGUFlJWXN1a0RsUHo4UGV0d3RZald5Q2o3UkpkSThRM0tfUXNidlVSQkdqLTIyOXg2SFRuQlcyYWV1UDc3Vjg3ZndBMXBvU1JhNHRwdldwOGJqdWNLUnIxLXIya0ZMcldpajdhNVHSAfYBQVVfeXFMTjBCT2dJdDVOWE5wS0kyeWVUS0dybG1XN1JMVUxlN2JaeU1oT1g0Wm4tNU0wN2FWbWdpZTFjb0ZBNmgxV0M4MW05U29sM09SbDFjMXRpbWdIUEg3QjlodmtYYkhCSmhoOFVndWdPV2plT2V2Z0xJTGpBUm5xWE4zQ25KTWYwQjNMbnRYakxDdHJiSV9Nb3VKUlVNUFZCampuM09yWGdBNjJxeU5tZlAwRFJNVVJsZ19KVW84UjJPa3I0RVdyV2hDVmRMWFhOS2wyREw4MjR6MEwyT2JqeG4zeU1kWTV6ZVgtWkxtZEdLZTJTal9CS3NB?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Prime Focus and Maharashtra Govt sign ₹3,000 Cr deal to build global entertainment ecosystem in Mumbai",
+   "source_name": "MediaNews4U",
+   "source_domain": "https://www.medianews4u.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdWJpcEVrYU43UmlsRlloM3JnTHFtMER0UGVpbGlIMklaX2ZEckFKVUU3YlFIWTNMeFJpMFFfeG5zem0yT0ZxbU5YdWJDR0RwQ21FelpqWGxXbnNGdWxEUmtSV3h2dmJqNWltTmRlUlJSQUwyTG1jeTV0cnZVUUxmSUpRNDlvSThGX3V4amY2bmJzT3pQenVVMmdjZld2ODlPV0xsU09DWTJPb3NYSFltSmk5YVk3V29taE5kWXQ2dS1zLTgxNzhHeEY0cy1saXJmbjZrQw?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet approves 'My house, My right' housing policy with plan to build 35 lakh affordable houses by 2030",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZDhiVUVraVBEcVVQMjlKNVR3c0ZjWEVOZUFhb1N3blhBamtKNVhQd1g5VThBMmJDZEpramFOQzVIMkFBSVdjOG4xWTlLM2s4NnRBSWdYV1UyTElDZXBjcm1iTTVQTFVtUDBYT3NoOVh3bGpEYWtHWjhQRmdUVi1tOHZCd0ltekJDX0hjT2RUYVZvTFdzcGgzMmU2VFZpNGxWMkM1WnVTcHVpVWtTNUtUOU9SNjZVRGlkMmZISHdlRjJ2OFlERUdXSi1zNENNYUhIb0FpNjF3U1ExVV9XbWdqajZMVzdUZHY1bnQxdm4wajdCR0tzQVZXWtIBhgJBVV95cUxOQkxibVljVzM5X2lTemFSbllPZnZVSjJBdGtLMW1PRGZBRDBjYmtXa2RoNENPYk9yQ1RGTkMxVlpwVWFrNk5oRmQwRV95RDM5MWJVREVsa3h3cTByelBqZ3ViSzNxM3hyZHRzcWZCQTVaZGZtT0J2ekNFSUpmQ1M3UGtxVGZZTnFhUWp2RUtQQklISnJ5Y0pOOExORFZLd3lCLS14dldYYzN0bXVRbUVfMmtaZkdDTklMYkdDYWtHMHhEZnZFN1pRaUtOZVRfY1o2SHM0N1BYd3F5aHdjZ0NDUWZfT2JGRXRWcXE1bHZ3UjB6S1d0QVVvbVljR0d5ZGM0OEd5WUlR?oc=5",
+   "published_utc": "2025-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi govt set to launch 'AI Pragya' to empower 10 lakh citizens with cutting-edge tech skills",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSmpiZTFaandwUmc0cGpyWlRWQWZFMkR1TW15MkxBYXBSM1UySWhqLW80LXhuSGdBT0poRFJoa2I5cko4Sm5KeXJuQmF6VnRlZXlQbWJlNTdQVUtTLWxETzFhQmUxZlhRck1XcEhWUVJ4VVg5MTdRbjE3eVhDSUFBUmY3OGNZNjhMZEc1X2ZxM2haNVdNSHB0bUFwYnNpdXlqaVBjWER1dEt3NG45MjRYRmUxdFFnMWxjSzdMRDlhLVh1RG95dFdGV0lnMzZSTmlUUjZVQlhtZjVYVXFlZDkxb1gyb1pFRXRrcnfSAe4BQVVfeXFMTWxWRW5TTVd4VDc1SjFMUjVqNm5WMGV6R2xWS3A0QVZwTGtBVmFqQ191VGtaZ1JLenU3SmtnOUp3UWxHM0J6a3dRc2w4Q0FnaXJXR1RiTUtHMk5tNGhmLVN6WFY0aHVOdXRmcDVlTzk4TVQtLTFkZ2pWR1ktYmRFSE84amRZc0tpc2syRlRDNFhkWlNlcE8yVENpdkYyRlY2ZmNRcWtoWFlJcGJVQnE4N3JiUjM4cFhXTkVkVVBiVF9yVGpWdFBWUk9rVVZvc2Q2QnZFNFFZb2JzenZrcHJ5b1dUWnN3aXZlU2NOQVJQQQ?oc=5",
+   "published_utc": "2025-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Minister Pratap Sarnaik Says Hindi has Become Mumbai’s Language",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTduYlEyd1RUYWtkVFYxRnpxTk5ienlKeFd4MWNLMkdoSUpDNEhMX2ZiQkhvMk83bTlyRHQyY3hkNUdwQ0JldFJEbkYyU0FBVWRXN3hncmsyOHZPTkswYlh6ZlFqamMwY3AxdmdLaFRGZkxSek05TERyU2xCMlFKeWZKNnM5QnluM01YUGQxc2JqeG1SN09kVTJRU1d4eEdiNGltTW1yQnlLSXRrMkRlMWM5ODV5N1JHaFZGandn0gHDAUFVX3lxTE1HQURPQm15M1MzQlhBejBhMjBNSHVia1FubkpOX21na0NtNFlMMmZCWnlwVmVOdXduMDhKc2FhRXg3Y25FQm1BUVgxMjJqY2o1NUVLY2RLbXprZ1VvZmp3UUZubXdnWVo1Z183ZFVXQkRDN3VZN01RN19NSEFUVDZ5WTNqRFlYUUFPT29CQVNmdXlJUk1iNnF3OFJyWmZFa004X3hwZTJQUjZ3UGI0YWpGTzZhUGdLYUJXaDhTdWNfX2FmOA?oc=5",
+   "published_utc": "2025-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First Edu City with Foreign Universities Coming Up in Navi Mumbai",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEx2UGQtZnUxTHd4T1Nac0VTdXVaajNtd0JOb2ZoSWUwM0NzYlA2a04wUnMwbmNfSzI1RFg5ZHZhT0tia0s3RjE4VWVNOGM1NV9aaEViMmI0cFZuZTBObVkzcXFxb1lpMGhKTVAyYUEyWndSQWJqSlBlOThkcTRTTHNYeVk2YXFEZFhHTzFka3hNYVNJQ1dubjI2OThxYXJvVG5QYkZSM0hJMzNT?oc=5",
+   "published_utc": "2025-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

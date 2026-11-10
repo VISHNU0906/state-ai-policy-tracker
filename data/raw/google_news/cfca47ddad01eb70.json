@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "IndiaAI Innovation Challenge for Transforming Governance (with Government of Andhra Pradesh)",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1FXRlVhYkVDU1VrcFZFVDZvQzVjNlQ3alFWWUJVQXhtbmlobWhMdGwzS0dHUGVxY0FTcFFCQjVjcTNXX0NnMXlpRXhPc3FXZXIza0RHeVg2djFsdEFLTEJISk1CZTZCYURNUWhMSHd5TlRscGt4dXN2dHdCU1NyRkhqUGV3c2VwUl9kWWhtSjY2bE4xLXM3VFJMRTlsUXBwNWxuSXRiMTVhaWFwMWxlWDRMT0VPUTcwU0FkenJn?oc=5",
+   "published_utc": "2026-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jio launches extensive AI\neducation drive across Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkcwbE1aMmVRcEFYaXNBQTI5bTA4ZG45ZFZqRGpXRjluN25zYjUycF82WFNmREtYZWJjbXVYRjZ5dm5ZUmxwNmdoOHlFM0Y3MnUtQzBMRUF5ckxPaTRxX3lQQnN1NEdTRm5mdno1dk4zck9FeExmMG9ldHZWeHFQMnM1Nnp0LU5heDdOR3lyaGxUMFVTQXhfTTMwYmNqZk9CWEVYZm9hN052UVduQTVvaTNMWThqcGtXa3pDQ0pGajNzUHlwSUxzRNIB1gFBVV95cUxOazhLZmJiYS1RNW9lbDNYQVBXUS1sT001ZThHWGVCMUxrRzVjLUpJaXB6SWgwMFotQWplZWdsMXhyMmhkeFNWb0xYRHV4R1ZxSThZMXFVT1FSc0gtdjN0bzdLYjIxWDNFZnBkSXVheFhoNGZ5clV2VlotVnh2RU9xT2cyZmI0QWFkTjN3dFV6aEdRWXJUSzlzTmwtXzYtcHk3VkJjY2VyYmVxaVVibWlPNlRDRi1WUWtXQTlSZlo1NlNSWmFoTU1NejZ3eGlLNU1pdWlVNEJ3?oc=5",
+   "published_utc": "2026-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'AI needs to be deployed, not only for business productivity, but for governance in the state(Andhra Pradesh), which I'll call AI powered SEWA,' says Google's APAC President Sanjay Gupta. S: Sarkar (governance) E: eSafety or eSecurity W: Workforce A: Agricu",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOF9ZcTFfeVBTeGd2V056WGx1Vy1vRXZGby1UbEpqVjRQQTdJY21rd3NIMnljbEllUTgwaWFPTTRrdkdSVVR3UV90MTJIRWE1NnVTOHlRSWZGMWkxNlhiTVh3TTc4bWRiN0V2cVlwZzY5WnZuSWY0Qk1rWDBFQUJUUEROTUFGZFdUazZkVG1fX3pqNlJQcWpzXy0wak1LVElEdmUwbVdfRWotSUlQenc?oc=5",
+   "published_utc": "2026-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra horticulture farmers to get AI climate smart advisories via Mobile App",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmwwbDBQY1BXR2Z5R3RweXFRR1g5dXdYcHBtem5TRXlXcDdQMTJLdXFzX3RMdkUycHdFb1lFTGVlQ0hGSGhUY1RYSWJlSnZ4eFJqalBjWUJ4d2N2cm9zTEw0a1BtekNnd3I0djUtYXJONmJwVmM0cUtFSzFvcExuVWE5bjhYN2hTRmdXTWM4STNIdmNNQ2Q5XzlDemJnRnZEVUd5eUdxZXVZbEw4WlllWGNBdDN1S3BfSkU2RjNCbVVyZjRZanBPUHQySGd0ZTV6T05UNUFjRVdZU1ZVS3hGN1NoYw?oc=5",
+   "published_utc": "2026-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "When Google Comes for Dalit Land in Andhra’s Eastern Ghats",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUJvNlFRaEJQQ1p6UmJYa0RHY2ZaNWNSdjZDTFRxd0Y2Z19XS2pxVDVWc1dqZTBJQUZCOHlsR0JtSU5ZY3U2QjJfUERtaFZQNVVpd2lVT2dBQU9QcXNKRzE4THZSa09rRVhXcnNxWHBsSm1CLWhDc0UzTkRCZC1uWjVQcEVNWW9rLXZjOVhBNnBRWTJESmMxYWd3X2hoSHZsNEhuSzdkblJIcF82bDdBdzNjRDhYcGNDbEHSAcABQVVfeXFMTWt0MzVadDVsTUgxSTJNcm54aHBUTVVsZGU3LXF2alpYQnZwNEhUcnRSR09CWnBlZ0pSbnFLYmxaNmZoX251Z2gzbmJnZmxkOHU3QmttR2FDUXlBVk5yU1B3Z1FWQjZaVGtPbkVPNFJGMzVfYzRPbUh3QUVtUXAwc293WTNuUjFOY05HRE13ZjFfNDBvRVFmZDVGTF9MY0kwUEFqbmktNHVkbkdCaVVYVnR4V1Vab3ZBaTkyWmM3RU94?oc=5",
+   "published_utc": "2026-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Business Leaders Discuss the Potential and Perils of AI at TIME100 Impact Dinner",
+   "source_name": "Time Magazine",
+   "source_domain": "https://time.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pcUFja0Joc1BMR1U1aV9MODdvczhxdS1WU21fSU10U3Z0cW9URGZxMWd3a3BxdTVqR3EtcGFBNHd0Umc2T1JheEJJd3FsMlgtTy1TMXhrZE1Od1ZBU2xkOQ?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, Digital healthcare to transform medical education standards: NMC Chairman",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTM0R1hIaVhNSU1rRXlFZmVJZ3JXT25TUU1KckZLc1JSRUVIbGpUWElpQlNsMFBydXNWNnR3VnNSVUNZYUdCVDNkZlJzcmJtX290cTV3UnBqSk5mZ2ppYk9sdmR6dndVTENOemZzUWFHWmFMX2tDRGtPdnFiXzF3UkhxemhuSXNEOEMtQ2hkN0FlYXMzRDVKR0s0R3Q0b0hvWno3bXY0VkVyc3lsRUUxWXJseGNhMExKNm9xcHhodmJvb2_SAcgBQVVfeXFMUGJzU2IxMXVKaGMwMHdyR3lBeDVFcHBXTk5rWEdEYUpBajFhREpLb29PenJ4QURrZ1RoNTFmaDZITG1OdnItbFJtRW5URnp1TERGcElRN2RFNGRIWmZ5aEhNRXlObldWYzRSUk5QY3JkWkZ1MVBXNHBpdUdzRVlidVM2NDBxUEh0ZEh0Z2czUHdYUDZWZVBhY0ZwZEJ2Q0taaFFSb0pMY0ZHTndVbmx3NzAtc0VhdXBxRkVVeG5lVE5adzMxSURFbi0?oc=5",
+   "published_utc": "2026-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Health Minister launches AI-based WhatsApp services for doctors",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRkVXbDQ4eVNRZUpmMVBDbHZXN0l3bnc2NmNOZUVRdlFjaHpBd3NEMWNFeGt1THd4am9wZFR1TE1YU1lENi16YndscVpzVEt2RU9GRzFXWE1JeENGendEVlBpcGdCZTE5cmdXb1pOZUhwM09tTVY3NUVsV0FLY2RXMWZEbTRIUmdHWU1MVldWWXBPeEh5VzRqVzljeWhxMXQ5a1RPNjFrXzZBVFBiRzl5UGgyUGt6WDVuTGhiN05BbjVXTDcza04tX0VFaldOcm92TGc00gHgAUFVX3lxTFBJRWRnT1BxUDYzbDg1S0k4RGpjenBQMjZWQ2pqV3FfbXJPSS10WnVHUWtrSGJjWGd1dWxKOUlzZmlqU25uNUpxMGpuaWkwRGk4SUNmeWNvb1VvZ2s3NlR6N3lDMWQza1dfWkhJNExLTUR3akM1bjNURDB3T3ltVC01eTRJQWxYREhhbnhCT1RNYm00aWVDMEtOOTRuX0VzVTM4eUVIV1BBZ1JPbmhtZFVBTW1TRDZ4blhPdU9Tdzl4ZzVOOVFvNDNKa0dEbU0wOUxIaDk3SHpCdjJGdHNOYUtB?oc=5",
+   "published_utc": "2026-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "January 2026: Andhra Pradesh Schools to Have 13 Days Holidays",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHRROTNLQ19mTUZZTTJuNjlRY21EbTZvZjlacE5FWkhTT0k2Zmt4MjZrdFJKS2RRcUJoa2Y4UlBkNjM2aHhQUHpfZVYzUzg3c3ZOZ2dXMWlELVI0VjlVRW52UVhlTnl2Wnoxd2lCdFotY19ZWUxiVkpPZjlpZ3B2RktWN0dGNjVDUnQ1MGN1ZmdlSXQyQnNNMGlWS0FZRk9RTlp6OEJKd1YxMFJ1dFA1Z1I0UDBwakRsWWtF?oc=5",
+   "published_utc": "2026-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tirumala emerges as a role model for AI-enabled temple governance",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnBxVmVxNXQtRDY2TWt1YmNZeXhFWUJ0OS1EZk01TG5CSnhDcGpTZFh2NkZpSlVkRElrc1FlQUU4ak1jcFd0ekhjZEtMQUNHaG9zZ3dnTDd1UHJOWUNhQ2dYZEEtSzZGeWRPMDhpZDA2R3BlT2pFV0dLeWsxWVhpZS1tZDVfclU5VnloSm40ZnRPZUhSanFOaTEyVldJVzdTVUdkX2JpUDlQTVk1MmFZYUlHb1BrSDRLSUx0a01Pc2pXWnM5c0FRUjZBNmjSAdoBQVVfeXFMT05aVm9TUFBtY1N0RzR6T0tqM1VjRjVvdWkzeEo1TXdwdTZsVVF2TUpVSGdEQmtpVzZFU1g1UHRmdGlMTGdTUFF2LS05OEJ0eHJhZUhsVFBqcU4wY3hrazNxZlhseXA4V3RWVXJ3eTRmVTBTMURyZGk5ZGhNYnZYNkV6M3lKYTJYbzEya0EyQXJNQVc3YlZjd3ZsdVdUcDh2U3ZGLTlZX2JxY0R3QUFmRTd6RVpjNk53bVJjLXd2QUFndV9zUHVUTUV0RTlDYzFlekU1VWo3TVVZMUE?oc=5",
+   "published_utc": "2026-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

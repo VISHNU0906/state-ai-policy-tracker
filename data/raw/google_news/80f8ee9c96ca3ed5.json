@@ -1,0 +1,77 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "AI to help predict employment, health, disasters in MP, cut risks",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQa3JONngtRVNwaERITUcxR2NwSmRyejJ1Rm9zUkFoVzRDQlF1cXU2M2Q4YkdRcHJfTFBhT25UclE1dFQ0cW9pUmF6Y3R6NWFaVldiSjVQZ2tzZVRINTh1Z29zMFV4NVFfVEV1MTZibDNrYjZJZ3FNOHROR2hCMVlvTEdXYU9rY3RGX0NPSWMwUFFzRWVlSnVwa3RoUGp4UnVWamN6SGtOeTJ3ZFpFN1QzUlpoWWRNZ0tLc013RTlFQ081R2ZZeW9ReTk3ZGJHdmZhMFZLTl9yNmJocmhmNTJ2TVNENDltVWx5QmJRR1ZNM05QendIRXJIX3d1eGxwVGdqcVU3eDZNQ09rMGxSOG5lQdIBlgJBVV95cUxNejFiWUJpMEd6QlplTzFETWEtVkZLRG9yTXBpekxZV2ctN2VDdDM5aFRBdkZ6eElNYmdmS3VFd0hheGFMa3pLZ0pjQTR3TExZaDZ2d2prb3lwWlVIM09jLW1pMi1nOUtMNnFJdUVBRzI2Q3lFeTAtdnZqOHl6SUFlNC04ZWxPTzFXbC1OdHZqNWdsdzRmenN4Ui1Tc25RSWhPNEhBM1pSaVl1aTNkUUo4TWs5Tzg4QjU1SlRoeW1OUEpYRTF0bUo2eXFNUnA0TE5HZ1VtdEFNYm40TkJYSjFkSDljMENDOXhPOTJiMG1DLUtDejV2cDBIeDJpMTN0TjRmX2kzRjRlMXFTZkV5VzRCSkdYNEpFUQ?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From States to Summit: Regional AI Conferences Power India’s AI Vision",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PU0w1R0xnWVBHT1NTZEVJNllHZkgzeWhNX2pGMVI3VHU4Ym5vcEpKc1ZZRXVpNXVGb3ZpTlJBcEk0Q2VDNEE1YkVyWDU3YVdvU1hIM29DUDY0VGRTVy1CR2RRbXJDbVAw?oc=5",
+   "published_utc": "2026-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP, Congress workers clash across Madhya Pradesh over AI Summit demonstration",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOWdTMmREUUlON0hJbzlFQV9HamlTN3NSNkhrZjNaVWFGejZRVUptb0hiX2lHaDdHN2psVnJJR0dLd0J4ajdvNlBJbUZvYUJObHAtUXVqd3NDNjdOMXE1dTJuUUc1YnZUaXZBMnNJQ29NalcyMzlXRHRNbldaYmFraUtXZDctSTBQcHNHWHhuMmFHMGtJZGFjX0N1NF9nLXhFMkJqMFVyUUd0QnpweTJOSF9PcDBLcjhSc2VxeFJFSjkxWWxZaEhheVRHRGhmN1Z0SUZkSENLS0hDMGJsY3FKODVyQS01Y2NQTlRVb0VTX2ExeGdHdGRzQ0hn0gGAAkFVX3lxTFBKaG80d1JFa1h0SWJ4bkhjRFplbGdxdlA4a2pDTWhsR3Z5MEM5Yl9mazZjZm8ydGlCRnp6Vktadld6THk4MVVkUlBrZUhBVUpQcXpqakFZSmY5NVdhRlZackttQ3hadFlhRWRSSVpCaE0wbXVRenNrUVcwVVZBNkczQjZvZ1FhVGxnX2V6TC1Gc2VJTE1DU0FIMkZVSktlRndfRTREbjkxeFlNUF9hUS1jYWF3c0JZUzc0bWlVQS0wQWJDMExzZkhvb0tvdGx2YUgyS3pqcnZSYkpRMEdkV2pydF9aREY5MmRYMV9OU2xRQ3AzZmZVNXN5WEIxYVk3aDc?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"A very good roadmap has been created to enhance India's image globally...\": Madhya Pradesh CM Mohan Yadav on Union Budget 2026-27",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObWlYc0Y2RkhHNng1NzFEYkQySklyb0UxeTMzaVZ6bGJ0TTZSelZoa1hVMGMzV2tHLVlyNXlDRlBwMTVXQ2hlRVpLeVZCVjRrTHVQcmhHRGlSSWpha3RyRlU3N3lrVUZrd0lZQkpXeVNRdVNqeDRSQVlKcmFTamRNOW11TkpXSlBGVHlzYmFIeWtKVzRhQXpFYjRWck15XzM2bXc2NkpZWHp0STVsb0ZPV2xRT3FtU3Y2dWl4WkFvQXJPdGxJeFRvcUZpUDZNdkN2Tks3aFA2WjJNQk5XdHZtcDRaQ0hRdW5JOVhVT1h6Nkg3NnlhMnJ6T2xJRU5rMWxvWEdnVkpiR1pDR3dWQnRHUmFOaW15Zw?oc=5",
+   "published_utc": "2026-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Abhyudaya Conclave| MP MSME Minister outlines vision for industrial push and opportunities for AI data centres",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeVpoSmdNbGctcXZPWVRxNEQyNm5CemoydldPMjlLdE1ya1lsZXBkWXNHcDlrdnItTWRFRWt3MHZqVnhnNGV4Zm9YblZfMGVoeGJUOThpYUZKOS1Gd1lKWjBybFVTUVNfdGhXdXFXd3l1eU4zLTZjQXJYblR0d1FldC1LbUVTWlN4OVRTdUFPdVBpNXYwcFJYSkhVSnRrN1EyVXBkVl9kd0lOOW5FOUR6LTNjVHFOYTRkbzZjcGI3LUJoYlU1aldEeTVCVFdyWGMzRjgyRXdBbUFpbEZEU2xOc0lLYlZEYWpRNktQNENR0gHzAUFVX3lxTFBkRVROWkhEUzVkMGdRakxUV3h2bFJKM2tzTmg3TVZWRUh2a3JWVzdHbXRfdkNsVmNtRC1RcFh3V3hhQXJkX0J2OGl2YW5DWVN1c0JRREktcm90VUZiY1R2WFZmQ21yYzdCV2FGaGFYNkNVSHZDcHhOVF9OVGJpbHRmQXFfVUxCOHFDZjJJVUZfa2Vtd29oLWphQ085MDh2T210XzA0TXUyZGFJLWFzT3gwOTh3cUl4YTVZWnYzb3NQRUlaOTlzLXF5b0tKZnVMc2toSnItREVxcm9RR3kzeFZrSU9RZGphY21xelM1aEM4TUwtQQ?oc=5",
+   "published_utc": "2026-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence (AI) Transforming Rural India",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zWmtfRXNtYnB5amZ3SWRaVWctOHZiZkl1cUVfaDExZWpSSnRvNFgzUWJvMllCWm1fQmtUVmcxZWlFRkZVOTZJWk01S1hKblRCSVZXSlpfSzBaQTFucHF6bEFrdXZQaWRmblB2SFhWWXQxalZSMVVOcU5n?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's AI Revolution in Rural Development",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXdmSVJxTmV6RWtQT0k4VzFsc2YxWmFOY0FZb2w4dXl5Z3NkVkt1bWo5WXZwT3hDZG1ZQ0tUYVR2bkNkUWJTa3VfNUhBV0ZrUHdLT3VUVWgwcDMtcmRCTXhNTlpTWDdKV1kycEZUTUJCbXBVOUx5MUhhNldRSEc5cHhYMHVLcFFWZ19wYUVTMjhWaE9ZUkZDSFFtWU1URl9MdTZmYw?oc=5",
+   "published_utc": "2026-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Transfers Several IAS Officers; IAS Abhijeet Agrawal Made MD, MP State Cooperative Marketing Federation",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUNmUWoySlVfRElpc0NaNV95cW1vRXJuOTV6clBaem95bmd4VGhONU9aZ3NGdHlQUzJwNUpRdWQxOXdYc0lJU0tHSmlFV0NqSkhDbTltSTdyXzZzY2lTZUdVN0VJaGY0OE5FYUd5bnlmSlNrS2FWeTZsOVpEbjJRc2owbnNkSFQ2ZVFmbHN4cXRiaHl6RUpzcHU0c2VKM1hOdkgzeUl2UGlDWlFLRm4zTmQwckRBa2g3a05jWTZudlotR1lTeDdnTzMtaTh4YlQxSUZUTjluZUQ5NHkyZzFV?oc=5",
+   "published_utc": "2026-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence (AI) Transforming Indian Agriculture",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QbWE0dlItWVZ0Q1FrMk42YXd2czFFdTlBWkk1QjY1ODhzZmhWVXFjeDlmUjBrMjkzT1lhTUp2ZHNMa0trdTNXUFRZclpDMHBMTlVqdFlfR1FSSFFxc3BaSWVaU2NxbEZPd0JLeGdDVnBCeWpYTzJxRjc5TQ?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

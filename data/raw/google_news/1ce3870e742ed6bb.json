@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-03-01 before:2025-04-01",
+ "items": [
+  {
+   "title": "Microsoft roped in for skilling youth in AI in Andhra Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzVtcldzUVNUenlCdkROUzQ4ZGUxenUzNmM1ZEMycG5BcTJIS2U1cVlicW03c0lHQTZtNEQ5WUdLZVRjX21zRkVFeHhQTzJqbXBlQWd4Zzc4V3Q1UHJDSVFhYUpFbjVod00xbEs2M3NGc2RJQUo0RW4yM19qbVczRXo0b1UzNUs0OGxIankyRzAybHUxTl9HSjNUQldjeHZfektPUWloSmxNSjc2VUFaeGZEQU92T0ZSamJNTl9JTmp0Z3VhUTgyWjVnT05RYThz0gHXAUFVX3lxTE5pZ1RZZUlUYWV5WlBQaVY0V2k5Mnp6YmRjcHQxcWhOeTU4OVFxMFkzWk02eFJIMjZqMVlBY3Y3YW43X0UtaHRaTVhFU09DS3BWSHFQeGNCbndyaWVGMmVHUkRSenB2aTVoUDU1ckczdE1Uc2JEX3RxR0RweGpPMWNTb2FZa25uUUJHOGZMUUNyYWJObTkxWmY1UFk2T2YxS1VMSjVIa2w0S0lhNTNmc29BNFh1a2RYTlNWNktJeW9hblJvLTktLUNiQnJTYktJd0V0TXJlV1VV?oc=5",
+   "published_utc": "2025-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Plans ‘Quantum Valley’ to Advance India’s National Quantum Mission",
+   "source_name": "The Quantum Insider",
+   "source_domain": "https://thequantuminsider.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaE5ybjNjWkdyZ0l3d1VfM0tyRzJXMTdDYmg2cXVPMGlXdzhKc0hmVkl0ZXlEbkRTWTdxc0tVQmVXazJiRE1GRXJ1WDYzNUhJekdQdmMxVE02Z19za1F2Qkk3aGR4eUNGMDdMdG9IOXRjd0MyekZ0YndNbG1sMU93ei1tRm16YTZ3b1hBY2I4TkJHcDBCbE1YQkdKMXUwaGJSQWZKNWtoTHNUYkhiWDQzSk1TSVI4U2pvSHpyWg?oc=5",
+   "published_utc": "2025-03-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu meets Indian-origin teen who built AI app to detect heart disease",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa2N2QkZyY25ndUlQeHdjUDZodnR0d2ZyM1pVNGNjVXNVN0hhM0N1WTRuYWh0SVM0TGJ6LURPX1BBQjhTc2pNektlN2NQQWtFZ0FySWpkVmliRXJwTEVIdTNXNXBhVXZfYi01dEI5MVR6ckpjNEpTMEJhWjBuYV80ZEtTWlk0ekkyOWFtRzEwMm1GQzN2WmZxRmdlRXBwNnFkR3JhcDZicTZnZnBnNVFxSHRHZ1J4Z3FfdzkyTVVCT3Y4azNRMkNrVmttbXNCNGFaZjNBY29vOXl2TkJwc0cwSUVQWdIB6AFBVV95cUxPaHZBbWJqSnF0RFA0aFk5T25QdUlnZ29jM25zWEJtQ0wxMlFUUk5TaDZrRFVuU3BtSDNWVllJY1R3R3FtbEc0N19QY2VyNnVOLVdVT0ZqdUpLUXRTUFhCZUg4OUlzM3lqdmwzZGVmZjJjandpUFVxa1IwU3cwUklzdmJvckZZcmVRUVl6ZEJXUUpFVXI1eVVYcktPNjByLWd2TEVMZkpCbHV4WWxydHMxRmdwSHhnTDJvSV9RM2NrTkNqQlA2R19Wc1dkVDlNLU5QcHBWejFWeVJpVXRxRWh6NG54NDZyU0pO?oc=5",
+   "published_utc": "2025-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Differently-abled NIT Calicut student, aided by Andhra Pradesh minister Nara Lokesh, launches AI startup",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR05ZTG16Wm1Fd05yM3cxc0NYdWxtck92QkZTTko2UkhtMzZDZFJocjFhX0xPT05UUWU1ejRwSEpKN0N3OGJ3RUZCQWVwTk1yVllHM1g3cm1kMzlNbmtxY3JNV2VmaUg0Nlg4VU5tMGJoZWdzV0drNzR3VmRBWnpibVBaUkR2WjRrUVpEYzZkck1Va3czb2dOb1VCRDZ1dUZpV2ZGOWYtdkRLVHBPbWJhVE5xMDljUnRKSTdIRUxzalRWUDdvcWtQTWxudXJMVW8ydTFheHlaWnJPbTR0eEVHMGRfMWpHMlU4RnVZOURPZ1BZdXU2U0N5ekM5N25NT3dycUpfaTlWem5NbXg00gGSAkFVX3lxTE5GbnA2M29jNDJXYV9Od3Zud2NCdWJlV1lJeHVSZkdZaFhfQzFHUHZHeGF2dnZFdERGSmhRTnpqbmhnejBIMTkwV0VpWEJCV1JZT3RaLXJNUzg0MFE3SHFxVTRlaDVla3pWVHAyM1g4N2VNR3lhTWI3Y2ZkdGFHYVg5cm1xcVoyOXNoaGJxNjhNaE9Cd0xPZG9WMTB4cmtrS2twYUZmckdPdU1jWVFQS241R3VfRFM1NE92SXFJR2ZON2JpUmt0TmtfUlg0eXFCNEFldGxTUUFaSmxPbVZIWGhjNVNYZ2E1cjg5cnhCTUctV0VmQl9SRkNxUVJObVZDTjlJM01XTmZNZ0F6NDBzbnE3OEE?oc=5",
+   "published_utc": "2025-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Chandrababu Naidu tells officials to develop AI-driven policing model",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlB3bVNrWDRqYWV1Szd5VWdNZ3d4WUo2cmd6NHlpeVJ1c3ljTGJQSVQ4d2pXcXZTWW9sQUtOaVphUHBiVmJsU0s2Ukx1cGNoWGozWk92b3haTkZHSURMUE5YRGE3R3JLeGdoNC05WkdHTW1HZndJLXIxVnFfN0dWdWpDcXlERFV3TlFsZUgycmFpTU8xVWYxeXlyYmsxZGhzTEEzMmllOWFYb3NwSVRqclFNWHRUYWF3S3hfSGdybVlpRG85YTFJb1RUMFpUTHVFamlNUlNpLTNEbHA1SEVN0gHsAUFVX3lxTE4zdDZGdUY3OFluSU5keXliVzdLbjNTamhHZG1DUC1QM0tEeTlYUDNCTm5tbXBzNmF0cEhLVVpteFZuc1VuSXRrNnlXdF9aX1RBc2Y5eE5IWTU2ekIxa3NIZHMwd3dwX1RCeVhOLVJ0bnpzRVhSanlkeXVndEdYTUkwMDNnMlFsalNjSDZ0S2xUVllzOTNoZ050R2hmRGxKaEx4Z1N2WG1UT3RrOXhpaURKSFpGT2tXZlNrcmQ5ejFxcFF3OXBkdnN5YjVuNFU2cGtjbkJmemJ6Y1dzeUtQTWlCaUpQQ0xtYXhBSzEz?oc=5",
+   "published_utc": "2025-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM pats student for innovative app that detects heart diseases in 7 seconds",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV1NkYm5mZ05OMEJnd3piX3hjbnpvNkF5UDhremhKcG92VWw5Y0JZTHNNSTVGVmJCUzgwT1FMSmpuUm42Mm9NT0ktOG5XNDJkb2hmbmdfOERjSF9BTnktRmtLWnlkc3dUYUg0eXMyZWkzcDkxUTRyRTFpbDhLcmwxdjRnbE4wRDNrcVdOUmtLdnR5U0EyaG4tOEd0QmFXbllxUUdxR0xpLV83ZXpyNU8yNi10VWhKcWt0VnRBaHdJc20ydG56U1dQWktMeGNTYTRNS2owRGpINXFIMURJU1VIam9Pb9IB6gFBVV95cUxQUVN6SExuSFEyLWRvcC1DTXN6dUZGZWtkb3JNZW9UZHNTX3NTNzNMcDd0Z01zTjNIS2ZYa0N0dmxaR2Z3dk9xZTBfNUlFQWNTRjV6MnA2V3Y1eW1ySlZjZUlmZ193WHlNRm1iOTNtdHE1MTJ0d0xQdE5rMmVvNGZsQjNRMHhWaTE2aVRhRkxiNGpOdkV4ZGREVGlFdzdxc1FLZ2UxM3YwbXNPWTFvdzZhTUdaSDlhNUdDR25qVkMxN25zWXYzQ1VwTVV4dWZWdmFfVmp6UDVEaWVfazZ5ZEU0a3NVS3BDMzFIZ1E?oc=5",
+   "published_utc": "2025-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Chandrababu Naidu meets NRI boy who developed app 'CircadiaV' to detect heart diseases",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMTYzTG1wTnVZVjRyOHB1Rm5yUmZXY0NWS29LenVaWmNCbzlyQnV5SkV2RFNiYmdhdXNUeVZQajdoUk84WEhTaW5EOTllNTV2U0pRMldONGJfU2dwMzJzZFVrNWxyc0Vadll2Z3Fvbm5mNnAzUDVsaVdEOXJVZnZpb0tsaV94TWtvaXVRM2VYQjR0YzZmVUpTVllZbzlXQklVWmRENXRUOTgyQURORUxKYThXM0tWeHlaTURBM2ZyaFlvelgzR3NQVi0wUXpBdDM2ZXoxa3RLRXNBRk5FUnFDSUR3MWJOTllOVGdOUnNVSjB5d3VFYVFFNXhQNDJxMzlZZ1lra1hxTW13NDVVVnMw0gGUAkFVX3lxTFBNNHFnRHBLeGhkcktPMlVoTll2YXdFSzAxWFMwYWhDRTg0UmxNSkMwaUFvcXFTa01jS1NQenVrU3RWdGx2anBsT1NVMmVyNGZ1QWlXdGVtR0NvMjExYmN2Vk8zRi1qbFBubDhPNURwSS1ISGdsS3FNSnJ3aGwtUWVpNEwyMTBSMksyYTZvVmxHZHBldXkzMVVVSUFMUjJCcjZJVUdRTzZqME5PLU9reDdNejVPUV82aWwzc05MbHk0Vm5DTkpGeW9BU3hGZjA5SXQyWnF1eFdGbkY0eHd5TlpGSGpGVnMtT0tCM3kwQ3FJMi1vczFyR3FRVmVFOGZlb3QwVnNsbjRlZkV6WXFRR0JHRTFuZQ?oc=5",
+   "published_utc": "2025-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adapt to AI or be out of a job, it is the next big wave, says, Andhra Minister Nara Lokesh",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0IxU29ndlpuMkZEQjlqQ0J3Z2RPZ2wyYnlTZUJXX0RSZkRsSkdRbmxnbGpVOWdXQkhXYlVRdFF1Y25CNWFpbTl0akhpeE5PcXJXbURKaDFzSWZ5T2VXYW42LXUtY284YUZJOGZINEd5dDJDaTlnVHpGc1ktNExHVE91WkRHQlFSUl9qaGdnLXBxNm40SWtQUHV4bFVGeW1NZFZreEhJa1ptUDNzNjFPMGlwUWg0Vy1zb0lzeW1qamJIR1ZHT1ZpVENQT3N0UWtSTGtRU3BQaUI1a1FWSk4tRkEtV1ZzcUhndTA5bXJZQm1PWXRkZTJ3SFR5QlRZemvSAYQCQVVfeXFMTW5yZmJhVGdsbTczVm5uUUMzRFdNRHJGQ01MZ3FDS2xmbHlNWTl5U0l3dUE5cTZmcVJIOWFhWENmWFNlaFFsQlFfWnl3VkRmN1YyOERKcFZZbjZnbDN6WEE3WGoxZWtGYUh5MUZWWjA5RDIyYWZRN2FVVWdrT1kwdEFrS29wZllNUVZOMTZQSWVmc2ZWNlMwallDRW1CLU5hcGN4ZVdBcDRSUzNtRGMyNzB1RXlWWWxpZTlEYWh5bXJOZzllTXpXTFZnNTZMZWpDbmxOZXpWcjA5ZzVPbkVDeUhPN3pqTDlaTjY5U014aGhRM2YtaUs4bnAyNmhKb3pGeThja2Y?oc=5",
+   "published_utc": "2025-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government unveils startup policy 2024-29",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjZfdjhOWVZHS0J0WF9vRHZ6UkQ2SVl1MkNhNmMyY3ZVeVUwQ0hxWmhlNUE1MGFYRmVKQmEzWFNVU05sazFvNUxkQ3ZnQUVNd05GV1VzT0taMFJ6M2lJZ0N3Yk12cUlIWkxvbG9SUExiMjZkRXpNUXBIVDlOTHdiYVJpQUJOYWRuQ3ZjYlFCSFpxSmJJRDRNVHl1ME1kMm5hTUxwd0lVMHBuYWJGZHBuTHdJdWJldWNNNi1TMV82YTXSAc4BQVVfeXFMT2N4RjlMbHUyckFYWTlXM3RaaE9kNWQ4YzBpZEk5cTJaVG56dnNfNWpGWG1fSW5NWFhON01yN281dUR3UTFBN1ozMlBiMWNwTW11Q1cxVktqekVpU2JrbDRrdzNJMmwtTUhab2ZwYnZhLTEtaG1iVUszSnF5ZlBXeVZldjk4a2NEdWotYlM0UGZFa1U5Q1RhTnlqVE5MTy1TdlhaZFNLOHppcVZ6MkZ4OC1jQ2xnbDJ4QTVNU2lWcnZRWGdtTnBCMVp1WGwtNlE?oc=5",
+   "published_utc": "2025-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'CircadiaV': Andhra-origin NRI Siddharth develops AI-powered app that can detect heart diseases in 7 seconds",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3JjVTlSR3RmRUlKaGNJMHJBZXVWd1lTaVlGTlp5ZUk4UDBkeXozWFpqaUFuMm5JNExVQVVreWxIci1nektJTVI3UjI1VFZhRld5bkpKMnpYRElIZWNlVktwRFh1V3BLQ1dyNlQtMHlPa3BUQkJoNzE1aUNvSjVzazBtTWNjWlJMeEtzT1BNNnFEWDZGTFpjdDRmcFNkOFIzbjZXcGVVV0VUUTFIanRGUXBYaHhERUMwQkhodnB5c1hlQjdldldySFBIdkg1T050TVpQWFhFUV8?oc=5",
+   "published_utc": "2025-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

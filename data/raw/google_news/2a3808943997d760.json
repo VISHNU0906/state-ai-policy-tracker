@@ -1,0 +1,69 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-02-01 before:2026-03-01",
+ "items": [
+  {
+   "title": "Maharashtra govt to hold Artificial Intelligence in Agriculture and Investment Summit on Feb 22",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZGVVZjNycGh2elRKY19wYWlFSmxQakg5OWxRd2Yyb2hram82OTFjMEo0a0xBNjNwcUhGcXJVbW96NDFFUUxiNXRCX0NXa0tjNk5ZS25RU0lwa3RGVGlxUE9jZWF5MUpjZ1JlTkg5OWVON1dOVWxkRlduMlZyWkpCamhkU2RudUZPNHNGRW1acDRtYUIwY3BCQVRLRjhlLWdobndMNU9qVE1zbGlvcEtFTi0wT1BXQUpJMFNoRU5nYzItXzRkWXo4OHhaZk1zSWN4OWRLMVBYZk9Gd2hINGlOaEJBSnA3RzNkX0tzbnlwUWXSAfcBQVVfeXFMTjdCNXRUWUg4SjBubHA0b2h0ZUpFUk9CWU10UkM5Tnd0WkFwRFdueDlTaFkyZHpTbkotcXBFWVA1OTZpTFdYOWpkbDNHc2NhOHpOaVRicEl6eTZtckRzcXduRUt2d01JSXJ0YVExRXp5U0MxcEZ6eGN3WmhjOHpnUXZyQzVmZjYtSlJKbUQzRmd2anJoT1pOS2tLMkJ6VGhIWW5yOE1pOWFPNmZNQXkxWjE2VVpzMGxqa2FKZDhmSVZRd3BGT3BPQXZSQkxLcnlhU09zSXhvM29rZlczUVdkM3Y1aXlTWUMxTFl5eUlPckdZaXc1MjNNUQ?oc=5",
+   "published_utc": "2026-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI farmer revolution to begin from Jaipur: Union Minister Shri Shivraj Singh Chouhan to launch ‘Bharat-VISTAAR’",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ldWZLaEUwcWVxMU5HN2VfTTBzLWZIWFJQQUg5T3gyNGRJWk9YSFd1YkNRTVdRc2Fnel9aV1VnRHpQM211TXpQd2ROdGdPcVgwU0dxUVFxeF9DMTU4ZTlPcEN5TUp0Y21K?oc=5",
+   "published_utc": "2026-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to procure AI infrastructure for higher, technical education department",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZm03aG5aUUxpdGd4SG01V1plVDR2Rm1aMm9CUElaZ05nbEZrcHUtTFNER2JtNW51QmdaVEpmcnJhd3NwYndmUTY2NndkVXdqZERNaWJybl9pdUJHT3NaUXhCbzlzSk1LM2RvTUhtX0s4cHlKMld4a2hSSlVyNzFoQndOdHVFdGIyU1VGaGpVdS1ZTDlXUjdhUVVRek9LUTFmbGVrMHhPcms2X2JXTTZJMEtIdXF1OXJNU25fV1k0aHF1NHg3M3Y1QTdpd2lWc2FhdjVZc0o0cm05SVgxWEVyWk45eFBBRzVjeFFfc254NW5iSnVqVWFMTElwdkFsZ9IBggJBVV95cUxQY2ZsU0JZaWFVNGM2VU5CT2h6UXJNcC1iN3p6dkZGTWk0YkpVV2hlaUh4M1pMNUZIclpzZC0wTWp2VkM3djlmR3NEMlZOUHJNYTAxc3hhMk4zeDRuSmdvUzJuRWVwVUQ4RGNXQkhWWU9xZkcyOWs2cWRrcWpadERFbFBIcXZ3a19oOE1FMlhGMWRmSW9OdFBkaUVERmpzNW9IdUxKRmlhMU5zbEJ4RUZsaF9WWHE1OGRqZnF6YllDVDRxc3dkeFFWQ2wyZmNxVjBRQmE4aW5sc2I5NFk2QlJRekJsOTJ3WFctOF9ERmE4R1F6MnlCbVVJVGNGdDFIN1J0d3c?oc=5",
+   "published_utc": "2026-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to procure AI infrastructure for higher, technical education department",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVJPeTlmVmdrWGNNUHdvNEVHTThkOW5TZkFvUGVsQUFKakVOM2k4T2JZQm0zMWtMQy1qY1dGUk1nYlFaNkttbjBHMGp1TktSWERsMGc1SGpHTDFNWGtJallYNlBsanVPRTJTSE85bVRBS2RYeVBVdU5LbVVsSGx5ZHZIeDdhNWdBRE1MX2xjNEJPdURCVFFfRE9jMFJYeE1Wdk8zR1JQRHNEd0VGaTZONm8xOWROM3gtNFVLYUNRb9IBxAFBVV95cUxPbG5WeGd6VFpoRFVqdDNhaU4xeWRBRTZIUFJLVFRQbWhpcHpNbURtVXZmb0ZEMjNSOVpReWE0YmJzUVRaRDF6aW5MR0NzcV9lZTk4b2V6aFY5eEtIV0VQd3JLZUlZSHNVdVBaUGxaSlN0R0YzWXdsbmVyY2ZvcjBwa2hLQzRWWG5ndXJXbzctNHIwMkRnbGFTdnBFdm5RazZ0X2lKbHlRMUVjcy03YVgyNGdGZ1B0ZmFmZ09LVVNxNkFwcTlm?oc=5",
+   "published_utc": "2026-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government of Maharashtra Unveils AI Education Tool Shiksha Saathi",
+   "source_name": "digital terminal",
+   "source_domain": "https://digitalterminal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUJtRWJ6UWdueW9IZmZIVWlaSE9ZSGxweEF6Tlo4UTdleGxrZzdnYUVEbmdlTThNaW9abmIwZGdyOGNjN2RQc3lkaElQc0p6MGhCTHd6OHNKVW5wWWwxbDIycE5YUnRoWUdURHIxbDdHQ1pBeTBydWRXd3ZadlZTcUlrQUt2OHc0SGJpaDFEWTFLUUY4ck1ydmRlbVItVHVQcGV3S3RUZ9IBtAFBVV95cUxPSVdPZTg5ZFdDbERnY1FHXzNEVjkwRzZjMkZRQzBGbWoxVWlxYllHQ0pnMUhYX01reUFhc21LZjFLN01YaGpMY2NrMHV1UFdsOUdONlJoRFB4RnhSVG9aY2FkekZuOFRFdDl2T3lTRDlTTGZjemtqMWhOaXp2VXhzTmotNlhnX0QxYUluR2Z6c0g5ZWVBYUN2ZDlkWEt5LS1IWnhRTUxsMTBTc0RnTEZMVHNIUWk?oc=5",
+   "published_utc": "2026-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From cyber hygiene to responsible AI: Maharashtra IT minister calls for digital discipline as AI-enabled cyb..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOM002bDVZUU9yUDRDUjJOUUhTNE0tbVN3SEFQdnY4anFhR2JINVl2RWFldGU2a0JtRUtpNFVpYWFYRTlkTEdiazhpX1FhS0lXZFR4b1E0TDFOUXg5eXJpS2pfZ2NGNFF6OGdrazBjV3F0N2liTjA2b09KcVl4VktfQjlwT2tRQjRESG1BRXNnTWpnS1NBNW9lbnc2XzNQVktNYkJqOUFUc2FoeDFUa2RYTHc1VllyNFlDUHpRcHN5S0ZkWk1lT0hYaTNSdnE1MmNPdTN1d3NfNi01RUF5NUVvNEJobDltTjZsSmxDSmpMMnBDd9IB9gFBVV95cUxPOUdMVkxHcnFzNTlkd3ZXLXJZZzVzMHZsQU51QXMxcFRmc2M2b2FBSjdtVHo5TmI3TGFPZktCU280VnFkS2NJS01wQThVaWU3c1NrZGRJY2xoemp5U2pDZjVTekU3QVRnLWZYbGhFZmNGRjZOUXBJS2haWEZuUXFVLUU1YWZZNklXVnJHYVVVYUhGLW0tOWNvR1VoUmc4b21tTndqRjRxXzlybENmSmxwRFZ6SnNmN1hpSHpFOFRYYmE5M29mZmtCb0k2NVhsandRZVpQbFh3RTc4TVBrc0dVLXBpenBmcGJVdGhOWlFDbUtmajBuSXc?oc=5",
+   "published_utc": "2026-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra chief minister Devendra Fadnavis directs Mumbai civic body to use IOT and AI to monitor air p",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOOE1VSzQ3Y2dUVmFhc3FuWkx6WHoyOFhkcWZsUFJKUllOeXo5RkxyMDAwTEEyWG9ZeVg4NmVmQXVkUFU4VXlPaWhEX0hzSkV6LVVjcDlHaUJ0LXBwSlgtdlJTVlZiWGxhUXNmdXIzbUN1dTVERkhKZUxWTGt2UnFlekxTeVVWVVVDTnotbTJoNDB1OVNQdFp3QzhhT0JTT2pDMkZnSnp3Rm1fRzlKWHFtaUtVZU5NaGhReWtvWmMwb2R0NHp2RzhzbUJXQVF3REsxZ0F3N3dBbkhzM2cyTjVEcld5bU80ZFpZMmtacm1aejFrNE1qV2VDLU43eW0tZ3JHM1c1VG1tcGRXeTNod2VCQVNJVTNVNi1OOEZKWFRnSmc5cTJIWndtSUpFZy1hT3JPWWdv0gG4AkFVX3lxTE1BNVQ5S0lpWFlhZEY0R2p3SHllLWk2SnptY25wcmtLRXlTbVg0c3FFR2ljMkh0Rk8zOTF6UUxRZmQzeVRoVUItckZxUHI3bG53ajJISXBDVUJVMjFaMFEyUGFVQzNVc2VwdFBFampTU3EwVmQ1UnN5TjBoWk9Td0ZjemxkLVRndkVobm4zdE9sSk45M2QzeFVhS0JmalEtZ2ctWlV3RElMQ203bXR6YmlzTTZGWEtvTzgwVmNlU3VlZF9TUFRlc1FqSE5IXzFxVFk1YjFBYUt3d0F4ZWlXbUd2akpzSjBwZXN0bGhtNWV1bExDOWVpVi1fSnFTdE1oQ1ZoTjIwbDB0WFEzNW11YnF2a0ZiQzR0SWJCQk1ORmZoT2R3NnZyWHNqeTBUVWRHYkVWVFlxUldxMQ?oc=5",
+   "published_utc": "2026-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet clears land policy for development of 'Third Mumbai'",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0treHV6MkRXbDYwUlRqYk5BaFhEa1V3T1JGd01PTkdrUGRQRWczVURVS09SYVBEZlRWbGxwMDhuc1FNdV9MYWE0VVlfTjNZQm1xOGdJc2NXazdkLV9UYUJMRE9ZTFcxR1dKRWh6Ui1pUExFMVRkWkVkbkZpQnpHcGNGbDZVVW1mcTJqVWtVS0ZXSVlGOVVjanJLel80bHcxZXRRWGhNUjFsN2IwVFhOTFdWVlNRdmRJbFBxdEE0RENoWkg4WUU3MlA3MndhUDg0QjZPanNCWdIB3AFBVV95cUxOd3BVMXRvR3JUaGpRbkJmZ1FqMG1IWjJ4VFpsUV9SODNEUWhtWXJ5V0otUHQ5dkZRbkhFTElVcUFSMi0ySVJ5WmhlM0VxdVEtM05tQ3JiWGoteTZOand2cHpOWWNmZlJIdXNCN3lCYjNVanN1Sm4yUHNkU2ZLQnVuZFJfdktRSHQtMUw1TGNLcGJPUUdHWEM5N0Zwa0R2bkppYzRyMEg4MEMtODFkU2M1N1dIUnl2VVlqQnk5cXF4SThuUXpGR3NmSVViaHBqZUY2MDBYeWR5NXo2LXBY?oc=5",
+   "published_utc": "2026-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

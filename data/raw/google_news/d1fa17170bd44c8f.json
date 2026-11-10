@@ -1,0 +1,21 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Odisha Cabinet approves Rs 268.44 crore for next-gen State Data Centre",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2djS1lScFkwWDVjTlZrYWhHNU1sTlU5UURzY216WkdlQWNFbTlaMElKdHNoOS1GWVJlVTR6UTNfdjM4dG9mVGphei01a1lBYnU1V3BrdVJ0YkJ1c1h0dktOS243RG9GNFpjSmpXRXNhcmxjdDRPNlZaclpWbzVaeVhseEN3TEZVNWNZeXBGbnpHX3V1bUNUcWVRUmc1ZUluZUZOUm5qWHfSAa4BQVVfeXFMTVRqWGt5NE5SZGYxME12aWdjWERTNXlQRHFBemxyaHZqd0hyc1ZzNHFJbFRXbldaOHcwbWJ5NzhtSFhkUUZ5R3M1eHY4QXEzMjhscjlPaXBBRU52OTRZOUhyblZlYWhDd05SczBWaXRQdUd6a2FJaGk0SmFPOTRpRlRZU0J5WjNPSU1CemMtVVhjb21xWXdwbjlGb1BKVlc0cDRCZzQwM1oyRkxSU3Z3?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha to establish State Data Centre 2.0",
+   "source_name": "Sambad English",
+   "source_domain": "https://sambadenglish.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNG9yamI5YTJVWVcxS2F6Rmxnd0RqaXFFYTN0eFAtZFBDQ29QOUFmZmVNWnFSM09nakF6dHh2M3ptdXg3UHZyMkdzanVpeTFNYmJlZnc3S2dSZ0U0bFpDeGFfQ3JpTTRTYXRWM0dzSVg5SXB0ZGVFNnRCbGlZMVp5MEFEZmNJMHJZRThVU3JwVmzSAZYBQVVfeXFMT3hLOEdqR1BSTWtfYVBHbkxlTzBPbHpWcENkcktna1ZiU2hTOWNLZlpaQTEwWmNwaWlXaVk1Z3I0U3lxQTlrMU1FalJHamY2a1RKYUxPZkt4Q1lqek9mdVppR2w0ZVZId1pPTkpYVDlkLS12OVYwSWtRRWN5ck43aml5SVR1d3F3blVMaExnc1NET3FyQ053?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

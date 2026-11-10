@@ -1,0 +1,69 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Government to start AI-driven maternal, child health monitoring systems in Rayagada",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXQzaW5xemZZOVFLb29QNktPRm44YWhmUUd4c3dXMll6UUZDQnRBVzJiTTVxWlNOd3VXNzFpSE5CbnZybmN6RFMxeTV0WWlkSWR0SjMySkNmaEhubWNqMzFIQjVEOVV1cGFXNEF2eTViYVVtc1YzVWVIWEJ0UzBTOU5mNWxKMjc0RkVNenNpWkdMZEQ0SFdYdXQzcW8wR000OG1WUXBSNHN6cXFHbFpQZ3ZtbEtvb0VYWi11d3lWZkRkd29YeEdJakh3dDhJQWdBQ25kZlVWQTc4ajU3anBKTHdDaw?oc=5",
+   "published_utc": "2025-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ICC Media and Entertainment Symposium Highlights AI Era, Regional Growth and Odisha’s Creative Potential",
+   "source_name": "My City Links",
+   "source_domain": "https://www.mycitylinks.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlJOQXRuVWhENkJGQkpQSmRkQ3BQVnN3T3pWWDRCMUdvcUstdmF3X3ltdmh6YU05MThGT0JqSjZ0d3ptaTRWaTJoN3BQMWdiTzlfb05ybFBScVA2cGFGZlpQSkpQQVk0dUUtSzBGcnZ4UE93TUg5cjNsR2h1WVZFZHFDS0Z4ZDlNLV9CV3QxNGtqSjBkUWxOT3hOeHViMmxOUS1wYmpOUFJzXzBHelB6SWVaejJKd0dzT2J4NzIzNm5lVWREYW01Mw?oc=5",
+   "published_utc": "2025-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-based drought advisory tool aimed at enabling early action",
+   "source_name": "Mongabay India",
+   "source_domain": "https://india.mongabay.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0VmVzg2Rm1EZUV0bWowdkE0ZkV6MlJxYXB3YmV2Q3BuRzdzSFVGMlNHcnVZM2tBRG5LUHZlUUxJNlU1eFhBSmM1eXktd0tDVjBVLVdVZ3dhaGVyZEkwNERfUnFTa1BjMC0xX0lncjd4MWR2eTFSbFQ0LVhJT2JpQnZNRFVJcU1Db3E1NEplbE9pS3NidEx1YnZrOUlxUkR4M0NYQmNjV21EYXhTcGd6SA?oc=5",
+   "published_utc": "2025-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rahul Gandhi Accuses Modi Government, Odisha Regime Of Betraying Public Trust",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcjhRNlc0SDFRM1p4dVJjU3FPRVFxZFNoMkFuVmNob0ZjRUNwS3o1eUhpVUZvWWtHRHlXM25lVjUzSVRmLVphT2ZkZVkxOWZzWnFoaWI1QzR6cDEwS05Zb0tNQl80VWkyVC1XQS1CSVRHX2VkT1NvaktOaF9IMW05bFNXR3ExV2VMdjZleV91NWxPanRVSENkYnhvZVhYbzlvd0NueS1oYWQyb0lQcUZOS0t4UDZNWVRNZTdLWU1PNjRJUEs2eVJDdG9R0gHPAUFVX3lxTFBmMXBRbWdlbFJfNE1sb21Da0trS2pqOTB5NktZNDBjdlZpTlVwOXJyemMzR2pmMFhMM2VNRUNObmxOLWJNTmE0alVKQVc2eEZkV0lCcFR3cEFqM2JnbHM4TDh1NnA4UGxQUmZJVzRZNXltcTdsbzZVRkw1WDR2ZGlUMXVTd1R6NVh2UTZyRXliMW1HWDJWSE5RbmZhcjNaVVZGZDB5V3Awa09jMlNVVVhFNGhLdnhoR0tjVTdOa1g1NEtqdXhkVm1RQWJDakwzUQ?oc=5",
+   "published_utc": "2025-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Poultry deaths raise avian influenza alarm in Odisha, India",
+   "source_name": "aviNews",
+   "source_domain": "https://avinews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFB4Tk9hSjBJVW5zX2gtblIweEtfTjFOSHRHLXZ0dmRuYXJpeFlsZ25jQ1FPeTBTRlJSeURmZDZ4SkY4bk1JM1UtR0VOcFB6bVRRZVNPbU44U2dkai0ySkt6elFLWlNTQWdJbm0yWnlkNmpmel9SdTEtaF9aTzhLdHVHQXhOVFZvM3c?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Cabinet Expansion Likely Soon, Hints Re-Elected BJP State Chief Manmohan Samal",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNGcXJTYV81bkhZWnNRdnhETVJFQWhTRm5rWVdnMWk2dmNncEdjY0xpRENjbklPdGhWYkJTMHg2dW5Cc09EakdqeDNLN042VnBEWUZmelBjcmlEZkh2OXhHOGZfeW5rQUdkUWJnMjl3aUx3d2tWZXc5UUNuQWQ3WWdLTnhGOHc3SnJ0UVh0U1FlZ3cyWWZSci1MR09DUUhsTklWQm45MHRQY2NodURGNDVYLTBVc295MEIzUkF0X3REM3o3Mm04djVINNIB0AFBVV95cUxPNU8weUNUMWJpcTFINjJuS0RWcGhvZlpDem9ocTRndk5CRW1ENlNwd1lRTm9kU3pYU3Jmc3hfanNCMmtXV0gzM1NSdzJqdmxFa3U2UzRael9IM2tPNWtwVGRWZGMyeDN6ZjBQMXdYbGRpQzRXLVdNLW5hbkN6M29SQkxfX252LW9yMXlNRWtxaEJpeC11dFBfVVZFcDJvZEVNdDhNYy00dVZ1bWZpX25IWTJGSEx4dkw0d2N4Wnk5dms2YTVPaGstcWdNVENKRHhE?oc=5",
+   "published_utc": "2025-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt scraps Bhubaneswar Metro tender, cites viability concerns",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTkRwVUliYXgzN2ZRTVc3SGlHU1RwTUJTd1BfeTRyZkU2Q3NQM1hJVDNyUl9xWktJNXlpbzNnU0RYNEFCcjBDR3JNZWV6S1FpYVY4b2tqdHZDRC1rMkNndjVseWJWdVQ1WUxLZnRHSUR2MlhNcDlIc29PbDNoLTRFNERlSHFtbzVNUTY4aFZNMkpBY0JfdGt3N1FkWnVZeVREM19qLWc5MC1Id0hUaXVFSlJEZzZGbHlic0d1a211Rndyb2s2R01FMUNyc0FPZVRiVXlKRW00Mnp1Vl9HcTdRSU1WM2RTcEdBREdhYWxDQ2s5b2oxVXZZZ2plVE9jTFVsQURCVGs0Njl0NGxvMUE?oc=5",
+   "published_utc": "2025-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Student death: Odisha govt tells higher educational institutes to display women helpline number",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYlhndFY4eTBYaTc3MjFHUTBadEZhSTJRSTFUYkpZZ3g1SExCTV9MM3VGS3hsUnl5ZnRGRGE1T2RnVV9uQWp4ejZrUi1pdE5VWnNqa0h5a3J4eGVaR05wT3ZLQ1hpNUpTV0t1TVBTMDBRVlJ5UjdfRUVXVUFlUE1YdkZsc1dyOUFiZlE4YW5qZFlDdmswN2l4OTFHUURyMVpyZ0JxdlAyUjRVRHRRRnQ5Z3hKaENVaEtfRVg3Y3BZZGE2aEQ5YUliNGhyRlpDeUlvTG1WdUVrSXZtalI4N3JhcXVLY0pZUC1tdDVBcnBRUEZKRHltY2laenVGR2xGQThyMXfSAYcCQVVfeXFMTnJJLVZYaHNXWlN6dS1ZZW9zYmhDV1FTUXJZTXJSX1hCaGp4RVNGTURrZ1ozVlNWaWlDTWJtWFp0S2ljZEZHVl83Yml0VnNucndvcDlHcDlEQ19abm05eXJyMk1Xd3E5am01emZzMUQyZ3FNYjBXa3pvSUU3SlFVdWFZTWJIY1JoMVljcTFYdHhfTzhRdUtmVktUekIxeDA1R0FQWTdOcGZnbEVLd0Vxby1NcDluOUk2NW1BR1RqellwaGRVQWRBTVU5NEdXQ2M5MHRXaWlsYkQ4WWNjSEpxZG9heksxTnBDMXRKNFlxTUMwR28tSU0wOW03d3dMY1NjOHhIWTE1U3M?oc=5",
+   "published_utc": "2025-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

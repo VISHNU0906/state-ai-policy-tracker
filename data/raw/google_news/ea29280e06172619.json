@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-09-01 before:2026-10-01",
+ "items": [
+  {
+   "title": "Gujarat eyes Rs 17L crore investment from data centre push",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbU92Q094ZWdZQU9VVEFzSnpMU25UbHViRmI0REYzWWlsYXhPRkRiOC1DdWppZzVrQ0g2MzlpODVmZDZpTzREY3pwTFBfRWpjVm53OWttSUR1cVlvR0FHdnBjcVJMZlFnNlo3NWhOX3hMeG82T2tnYVptZ0JocTU0cEI5X3NhdnlfTGFTci1vR1hyV1UxS3pHc1c2c1Qwa3ZLRVJucnQyMy1Wc1RXNlBMWG5oNllVcEwwVWtLNXk0bDk1NE45bE1mZ3Z5ZkpCT1dR0gHWAUFVX3lxTE1JbVo0ZFZQRmFOWUJzTUYzYm1GRURYSEZyTnc0N3E5RERydHUxd0s1dGc3Y1lIckYySjhKY1BhQkNyNmlQM3NKYVBWY3lIVVNkOTdubU5obGw1Z0xwUjFGdUVaQU1Dd2xqcG11UDJlclJvYy1PcS1OR2NadzdnNDUtbWFHNXFRTEVIcHVENnhiclhnUlJiT1hQaTJvRkhNZGk2NDJZd2IyNndaVXJwNm9tX3g1WnNpTEV2aHFwdDhpV1VBLUI1TTBueTdEc2hWejJKb2l5aFE?oc=5",
+   "published_utc": "2026-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Overwhelming response to data-centre push, says Gujarat chief minister Patel",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT05NRW8ydUtvYTB4Mm1XTmx6Z2VnaWVEb2ctZUhoZU9FTHBHZkJIVWpSdTcwWF8xanJqd2h3ZFN3SGx0OVFITFZPSlpoa3JHdVQ4LXBxdzRfcHpfZlJyVXdJY1o5a0FqWTFkOW1SSnFmc3owQUUwZmt5bkxEQXQwYWZhb3J2a0hWdnR3RVFyN203ZzNXRkkzYjhYUnh0c3NjOGpLa2tObEhQZ21TWTcxd0NGVFR6T3BBdDhIODd5VTlubE1IY0pocjRSamnSAdIBQVVfeXFMTWt2aEVHOXh6NUIwdWhEUWduTmtTNk9maVNhNk1OeDdpYmNSUndWQjljUnN2cmR2VkpUWmhCVHRZOHhIT0F6T1BaNXIxN1RGNTk2bm9iT1U4YmdCdDJKbGExeEVoZ1Y4bHFiTUpmR19BZUFoR1Bid3JIb2ZUZGgzbzdGM3FUNTZ1czFFUU5zemdkclZscEczREh2U0lHUk0wajhVUEdoMFhjbzZFYzI3dnIyOUEtSGQ4MlN5X01uc21YbFFDNmwtSEZUbVRqOTM3NWl3?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Supreme Court Stays Gujarat HC Proceedings In Plea To Regulate Deepfake, AI Content, As Centre Seeks...",
+   "source_name": "Live Law",
+   "source_domain": "https://www.livelaw.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZVFqMjZsUVVGN191b1dTTjE3dU1CMUExeVdrRjJoTHBpWEVMUHE1emEtcFhVWkIyQW42MVFnZU40dFhKUzN6b1ZDeTJ2bWptYU9kZXJ5ZVl3Y2c1bDc5bjdxMmlGSHVTbUh2VFhPM2ZTb1p4WG1BNzlkQXpnSW0yOGJjUU1lQjRBWEFjOFVVallXWHZ4UFI4Tk5RZWRJeVRkaGh4YTVaYUw4Q29uQXBzMVVWVUdpREVBME5xMzh2R2trWVJMZ0ktbFMyX0ZNOUpDa0d4c2dXSTFldXB6bElRQTFzME1CaXhFaHJzRjJqdjBIbEFOeTU1U2JIeHMtME9fTVZ5Y3VXRzMwWDJwQ2fSAZMCQVVfeXFMUDFIN3V3c0pPNUVCYjVyM0lUbWdUa0lBbm14M3dzRUJUWENQWmJYOVJjaTU0ZnFLRTF6YmtBZ09mb2c1eDBBM3ZoMVoxNHprT2NBUU82aGwta3lFOGdXcXNJLThzeVFxQU5lOGYxZkZGVVFVbVZQRjJuN0xxLXJWRl9qWi1DNGwyY2hEWWJUOVk2OW5ZRFBob0JNSU83bkdBeDhrNExzcUpNZDU0clFfM0cwMmFzeVR2Zm1aX2FMVFJ6aXNqZlNmT21XYUhfZEJpS010Z0pOc3pnVUlZU1ZPb05GQ1Q1NTE4QjJsaHdreS1LVnpGSGE5U0R0M2VaZU1qbmhKQ1JQN3BXNXlncHB2MnIydUU?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dholera emerges as Gujarat’s AI hub: ₹7 lakh crore investment plan could bring jobs for Gujaratis",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzZSa3VCZ2MyTTRYZXVnNDhGQ2p3anhXR0tHRGk5X3JIYTUyZzQ2NXZ2LWc4WmZnR2w1anZ5UzZ3S25pbmpfc3Y1ZklMZTBJb1lmVzdETjAxUGJpRDVxem05Ymh1ejc2U1JSMVNtams1cERrWW5fZ1FMUXRsNUhwYkdXY0FHVzNVazJPMlRJOTZFSWtHWWI0UTluLWZxSWgyd1EtYmZ0dW9XcGw5TklWYXFBVzJzbGJEbE0xdDkxOFNIb1J6TTdiTHVfb9IB0AFBVV95cUxQbDlkRkZrTkdUSUZOaHpGMG8wdENjM3Y5anJGV0VNd2s5UEhXQk9aQ2g1YVhHWktZbDBweDB4WHlyWGppMHNHVUtJYU9ZaGVsWkVadkxMUk92YVRNMXphT2FGT0xIUndObmhZQ05FU25hcVM2SENoYUtDSHNUNkF5TGRHeHpab01CaDE0LTNIdXMyQzd2SzAyMllGRS1hVm0wU2RYUFpPbVM2VWR3c1U2aHV0Vzg2bGxmRmJxUkNEV0c4MExka2lESUYwTExSN0Zi?oc=5",
+   "published_utc": "2026-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In Gujarat Assembly, Minister says state aims to become AI-era prime mover",
+   "source_name": "Investment Guru India",
+   "source_domain": "https://investmentguruindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXRSOThWWGdpOXZGSGVzR2l4LVBxajV0UTNRUDlUclo1SS1LY3J6LTlZQVU4NFoxLXhQaUotaGhBNkRYY040WXZDYmc1WlhfWm1fRzhpaTdrdmtVMnZXNEM5NEN4SUl3RGtIWk5uWXlfOXBqeVo4YXEzdmgyMUxmN3dybkEtb1VEVllhMFdOUlRmZUlVdTAyVTZJOWRlanluN1RNb3VadUlVYUUyeTRkOGlEdzU1NUtfbjQ4M0xoYw?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Supreme Court stays Gujarat HC deepfake PIL, issues notice to Centre",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmpQbkJyN0VpTDhpVU9mNUFfTW1GZks4blBpT2R1dXhwQ0YzcjUyWG9iVlg2dEw3SUdveUVZZmt0dlFOOU5MQVNhTDI4UFk5WXhWQ2VIZ2IyR2tCVHEzanRsZ3hTdTJGWjVVRGJON3JnaDNkZUNza2Z6REYwODUyLXpVUXppOUlqLVlpMVVR0gGTAUFVX3lxTE5Kc0dKMzdOSUUzNWZoMldyWnk0VUpmM3RRanNDWXc5TWdYUGZpV3gtQXhQREppNmYta1VXSkFheVl1aml6X0NIb0ZtME1wbHZ3QW10Z2xrRWVqQVprT2gtNjFHa1YzdWVZTU85QVVZc0laMTNnSzZUZ2Y0dnZsa3N6ckJsZWpmaHM3NXVDcWJhTEdnMA?oc=5",
+   "published_utc": "2026-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fortune Hospitality Plans ₹60,000 Cr AI Data Centre Park in Telangana, Eyes Gujarat Expansion",
+   "source_name": "CXOToday.com",
+   "source_domain": "https://cxotoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUlIMVl2M1BpOGNvaGpybGNOS0J6SHMwY1NBam5xT1ZfTmhGRlZSR0pGUXNndk42ODRSSTM5V2tpaTZ2V29PYjlrZ0JIVTF2a2FPb0ZuWXN4UmlBWVVEM21qcEw2eUpia1lud0VLeWp1amFrejVER1RQd1E2SGlzdWs2d1JKX1gzZWF2NmlHVjBwaVYtM1BxNk1LLUhaeWdMeURJbmY2eXBBNzJxdXR3SWwwUElSY1BkN2RxbW9vVmFvWTJveHZ2VTFB?oc=5",
+   "published_utc": "2026-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SC stays Gujarat HC proceedings on PIL seeking regulation of deepfakes",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeV9lb0pQMXNxUndIaFlack5ESXJfUkw1OUZSV215a2hVQ1BzdWozWE90amVjZUZ4Y3V3bHJjalJLZHBUQlMzQkJhdVhSRXJSXzY1VE1KUFV5UFd3dE5GWVJsSTRoQmREa3JjcWVWX2lQd3ZzTUFZUUJObnBmaGNmUGI2aEtNbU5LUm9mdzQzeVlweVRFQ01XUjN5ZmQ3eUIzZDBFODRmZGpmZnpXRUhnOUVWdzQ2TGFkaWZJVGZGZGRXcWlwNjNCWG8wN3RrdkEw0gHWAUFVX3lxTFBFcm5fRXNONzhBYWlBVG5JNWdCdTlZSEdkbWJsVTJVdjBJaFVRQkFPdUQxUHkzT2xXU0FOd0RJVTREZVNFZkNmNXFaRm9Qa0U4REcyQjlqOGVSV0MyVHNzNEY0RlRieHE3SEswQVZrN2NnZTlQNnI3QWdwNVdXRUUtbTFjLTVHU2k2Mjd3MGZ1Ymc4QjNCVW1oNkpVMHhyellvQjdMbVE4Tng1T0o2bV9UV1o5WWVMeG5BeE13eldZZXpLNTZRaG1UWXk2M0p4eS1mVmk3amc?oc=5",
+   "published_utc": "2026-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s data centre build-out is running into a climate and grid squeeze",
+   "source_name": "climate.economictimes.indiatimes.com",
+   "source_domain": "https://climate.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPajRLMHpNYl8yNkN2cndMVnlDcHdMUnRoQUJrc3l1VTJQeDRiVS04VzBsZ1ZIMmdUY09VVEVLdFNIZDJ6WnRzZUk5eW91aG16MXg4ZjVIT25JMjMzVm5wUURKOElRbVU5SmJUNTFzVG9vSUctSFBCV2hBMy1FUDEwcUlYV3dKb2VtdkRJbllXVmNtbk5iQ0hxa2xmaENOUkpwbmlqM0VjODI5SU9CdWVCOENrVlBuc1NOeTJyYUFBOVRsUzFiLWxXdUlUUUw1YlZmdGxKbHpFaFVJdlNEb0FTc3N6NU5rMTh4SFotUW52ejFEZw?oc=5",
+   "published_utc": "2026-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "17 GW Data Centre Proposals Received Under Gujarat’s New Policy: Govt",
+   "source_name": "DeshGujarat",
+   "source_domain": "https://deshgujarat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGtYRDhWSTBVTlZkRHJHdGQ1MTh1S2Z6eWRYcTI5Q1RMd0NicWhlalFkVk9zNnc2TXZ2MVlaY2VORUpqLV9ZaHNObGRFX1ZYOVdOajRVZTk2YWVWeGl4MU5HcmFZUWU3ZzR2VkZDRjlKTHl5WVg2ZjB3bXozMkJ3eW1FUi1OMEF6VXJ6OHRiOFFqQlo1c2dqS3VPeFFEdTg?oc=5",
+   "published_utc": "2026-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

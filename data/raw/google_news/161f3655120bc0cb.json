@@ -1,0 +1,61 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "Kerala Budget 2026-27: AI city, Cochin Cancer Centre among projects to receive allocations",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONFBSaDRodXZKX0RzZXBscmRCd1JCdV8yTjFXVDgxYzlSWnFvN1phVzBJTl93YXdBLXpVNlhHWGRTdC1uRHhNVGdGdnpjd1dEUFIyMlhneGd2a3NsSm1vTWlkdnV6VGZWUk5EZWtSZjkwX3VXcDduZFU1RWVnajVaQ0RneXV6TkszWG1zNWUtS2ZtMDNJVFcwSzhRUEVJc0ZmTVA3RmtjQmVNYV9ZQ2E0eWNBdUlFMEk4SDhQcFFBY2piZUlvY05FQWxWWmVhNVI0dTA4OWwxUEVfU0MtbUlPdUtfOF9tel9Lb3fSAfABQVVfeXFMT0tIRzlPbWhtWjJ3UTRjcUg5Z2VfQnZnMG5RYV9Ja1RvbkYwSDJINWpUMjdpVy1qN2JxSGlMNk41Y28yMXFBUlZ2V0dRMDB1Zkt3ak9HSXRaUEhQYUxQSmM5X3RTSmludDBhQXNhZVpmenpIYUVSbUVMS0d1YTBEM0J2MzZMenczWVU5dk4xSU1uMWJnTkpJaXBUd295cEdKM21laUN6Z0pKamZ2b09aTDduYnN3czZ5VGdEa0pha2lkMGpqNXBEOEk3OVRabjhoVWtkRGJCYnNnekRNZWlEaGV6b19fM3hNcmZrODkwNkNF?oc=5",
+   "published_utc": "2026-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt signs $25 bn MoU with AM green group for 1 GW AI data centre",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUhDTEpKNzRXUkNxSmEtQ1d4bi1HLUZkRG9wN0YxU21HRGZDRVp5ampuLXpVTHR6aGZMd21zdkNNUmdzckVNOW52c19CMzBKNUstNFQtalRsNlBmeEdJSHFWY2hZdjZpYmxJaVpQOWZkYUxwaXJyZmJ2azZfeW1QZ1IxcVZldWIwd29tbGZIczZBaDdIQ2xYWGRMUjJFM1dFdmRrcTFfUHV0aXdlSm5wYzdSRFM5SDMzUmJYSmIyRDlKd2J0Y0hQNUpOMFJ3VHhtMDNNRTJpeDDSAdwBQVVfeXFMTnRMVzJpa2c1cDFwV1phcFBVZGtHRzdYZ3JUR2FPb3lROFhVal82ZXAtc2t5ZHpzalgwUnlrR2FfZzNzV2hxSVIxRmw5b3JLYm5WN19TTloxUXo4QmZKSGNkYU9uMDVSQnNNemh5OTJJeV94NkNqNXlpbzAzeHJRUmRzM21Qb1RaN2FfT0xCMlJ3aU1jS3hmLUdZbGNwSWN5UW9oZkEzeHBTN0pNNU96cWJBZy1udE9fUjJnTXI3aU55Mjh4RWUtVWhVYXBlOWhRbFJsMTd3RjhCTjhVWQ?oc=5",
+   "published_utc": "2026-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala signs Rs 1.18 lakh crore investment MoUs at Davos",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE44Q2Y1cTQxUHFPOWRYal9KVUQ1VG54ZjBsMkV0NlJDdWoyMG5RaUN4eEhKeDhCUndwMFB0TDhCVG5rSC1XWkVPQWgyWlBuN1ZOWTB3U3NWejlRYTAzU1kzYkVRRDNmd2pqeHhCb292QTQ5dVpUalZpdTFFMWg5UERLU0VSaWFsLWhhcWxBMXdNc3lfLUNqU2J4SHlyWWphZjlrVUxrclJVVzR5WDlVdkd5dE3SAcIBQVVfeXFMT2NQVU5JeUx0c2NaelNBcXZfMC1vOXZGQTRfMExqNTNTMlZ6bWFhXzc1UndMZXNzVkhvRjY5bXloZFcxbGRCMGFyOE9DbDRPRzZ5SVlubGFGN2pjNlVpSkZwOElEOUNMUFNMY1ZDNkNiVUNjMV9Wa252OHFtN2xZSUdKNGJ6U2dlQWVEMmlqeThWS05vNm9PS1huTUU4R1E1Z1BHRko4M0dQRWFnU0o0VmpFZEVubDUxai1mNDh5d2NNa1E?oc=5",
+   "published_utc": "2026-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP signs its biggest MoU for 1 GW data centre in Gr Noida",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQy1YRkk4X1gzUzRVUVUyTVIxa1hoR2JZVWFXTHpvWUw4cnJiUk9fSTB5VExPLVBHOGFkZGJ6M0ptUHAxZzA2MlZ3TlpWQjdLbEVtdjZFOXcxeXJwY0hacU80Mi1Cbkw2N0F5bGY0RnRzRjhickdSU0RsQmFfaXc5eVp0d3ZGRFV3OThRRUdXWno3VHptcjNVMFBKVldYWF96UFg0Z29HNHVrMkdKTE5RXzM2aUQ4MWZ2b0dZdzVDbmk5MGFaTDM0QWQtdlc?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan bets on AI & ML Policy 2026 to carve strategic role in India’s AI journey",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXJTVk5UQ05BTklHaHZ1M2p2UG10LTAyMUtaTlZfWGRTN2dMa1JHcVVNemxicVJfSzd5cTlPMG4taklWcU1qT2lYMG43S3VxdFE2MXYtazR1Rkp6U1ZrSnBoNWhHRUJCUnpwaDdROTdXWEd4dWVYZ1pwNVNxWjF5LWVKb3h0Zi1DcWQwczJ3QmZUamY1enhycVhVUkNRMkFVcmRWRHVVWlBCcUROcy1TaGx1dmNGYWhUUTNHdVhjdGZ5YVQwYWRWQzlYei1qUjlqQ1c40gHXAUFVX3lxTE95dWZuR1Vzb19ja3FXbDViXzQ1YUFQTW9va3ZHVEwzb3NoMVlva0VDZWtIa2J2OXE5TlVTQWZnUUtjanhlQWdxcXhKeFoxSEgyUElxdG1ZVDBOZy14RXdqNXRrS2xjR3lnLU5rcHV2clVXdkpFMFR6ZlBHRmJ6MlpTNW95NHhPTThSXzQ2cG4yWGFYa1I1LUpXeGZwSzRURW5qZU5UYm8wTXBMTk1yVnFCZll5c29qcUdiUWRXQ0ZLYXBqbW44bDVCaXVIUGZNcVBwdm54WTg4?oc=5",
+   "published_utc": "2026-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "First Tamil Nadu, Then Kerala & Now Karnataka: MK Stalin Says Time To End Governor’s Address",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlJQTGIzenN2WGNZMGVwdEFRcjRyWVREMHZPTldFQklGX1lJQTUtdVZrWFFSOU96VGU1Y1lqWU53NUh1RTgtY0NiZUp6TG1UR2gwcnFUUWtLenNEZkJjWEdsTGp1b0RwdUpZSUVlU3ZZRDR5RVBLZWdRQ3JnUVhmNjJLX2FOblJObUR0ZkhxcmJPTHQzak5iNUJqZUNJT251Nl8zcTRhdzNGSUdZTlZHNnZqNW04ZFRYdFEwNHF3VlFNdWfSAcgBQVVfeXFMTml2aXVNdTJvOEhmRUpKN1Q4MnZrc2NiUEVIZ1hubHN4YzFOUTl3LV9GU2JrNlZKbnBlOW9KZU9qWWFkN2RhRHFGeW1CZW5xMGM2WVlsXy1LNkg5aGdTX1lVTnpDZjBnU2l6NC1aRHFVVFg2QzBRSE5janl5c1NtTW1MbFdHV1NlcUdwR0VvdzhkVWxDTGRyV0R2Tl9OXzlxdkd1YUJaaTQ5RVNzekZPTHhJTXlIWE1Wc0lnaVdwRE5yeFJZXzlnNTU?oc=5",
+   "published_utc": "2026-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

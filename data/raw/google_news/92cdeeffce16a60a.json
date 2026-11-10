@@ -1,0 +1,29 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "Fact Check: Viral Video Claiming To Show Bridge Collapsing In Bihar Is AI-Generated",
+   "source_name": "Newschecker",
+   "source_domain": "https://newschecker.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3BsekluejdjZUlEVFFrR1BuZXZobkU3RkNSNXBsOXdHZ3NjX0lMQ1duS0dJUGkwTjVINkJYOFg5akhoV2NHVGFkaUFNYm51Y3pGcDlvLUFPUjl4dkxaWHp0WFlaS0ZsUWx5cDFRYm9RQjRSZkVaT3doTkZMQnlBSklsaThqVDcxZlJJcDluSjJyLVk4ZmptNEpiS19RdF80dWZWM0MzQjI?oc=5",
+   "published_utc": "2025-07-23T12:25:42+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The viral bridge collapse video claimed to be from Bihar is AI-generated",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3ZRbVFoYTFIQm5nc2VlbTdyNTNMT21uXzE4d0hDcXlOVms1ZGN1TF9laGh6cnlYc2lYbkFQV0N1YS1iQWJvYVh6bDRGN3JmTW9leGRfdzhxeThWVm4yY2JhMmE4ekFUNko1aWpFekFEOGZiTGtvdnFFWUNaWWpRZmRzVVUzOWQxOGFzTzZLd09QaXNzUXc?oc=5",
+   "published_utc": "2025-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Elections 2025: Tej Pratap Yadav Questions RJD Over Inaction Against MLA Bhai Virendra Amid SC/ST Remark",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT2J2Sm5mMjIwZDRiYkZ5M1I4VXdSNEZEVEZwN3Bvd0ljbEw1VndrOVJ5UFJidkpUNWhsZmZpWmVLRVd4UG1VblZLTl8zaVdwZFlGaVl2NkNNbDV5TWNzdHZYWHZDcjJSX0VhcDdhTHVNNWZCYlBxZkZJcE1CcWVzejJTZ05vT01sZkxwVER3TjUzY2pkWGlXWXpRTmU2d3U0OHIzcEMwUnp3Y0I5dU1tUTZ2NmxibGpQQWVVQXUyUHNVbDBQSm9ZNzd4MDZfNkVVZjhQNmoxaUJUTGVZcHJrQk9HczJoX1hDTlNYYzhFONIB9AFBVV95cUxQZkhMVE5ySnJMLUduVUlnYnh6WFdJWmxHMUloTkVTTE1fYmpwcHhwcEQtLUlQZGctNENWVFBLY1RhTHdSbnhVeXVkS21oS1Z0RFdSS3BGWmhObjAtU2czQlg1RVNGYnlzZGdDME0xX0s4ekV3cTVhOTV1MnAyVEJsaFJPdnY5RU16T0dEc0hZVjhoMi1OVjY4SGZPTGdTOW1hd1MtQXUybHZTTm9rM1lwMFJtMHNldjVGMm5yRzhQdVVoYS1rZHpRN1g2MmZTb0pXT2xhTlFFdXY3bWp2TEJEU29BMlR5LWlGaXpLZkRCaWdwUHdB?oc=5",
+   "published_utc": "2025-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

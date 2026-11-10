@@ -1,0 +1,29 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "Assam CM presents scooters to students under Dr. Banikanta Kakati Merit Award",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZFJFS0FQbWRmNHV2SGtDbUc3NTktanVCcE9QS292dnhtdUU4ekN1bzJyX2M5Y3RfTm1INkdBSUcxZFlzRmpLaXVZZnlKRVJ0RGJxZWx4bldjUVJXMExDVGNLbnBUbk9zdGJsbGs4N3BfNEk4WnhsRkNmWkFrMzlFOUM3OHdZRWNpNDBQVFJKUWNNRTNNZTNzZ2Q5OUhNMDJ2X0N5MWVsR1hKQi1jc0NxVWlrZ3A3RHlTOG12QWxTWkZEUGUyX1hOc1FUMFViNF9KRlVWVGtoNA?oc=5",
+   "published_utc": "2025-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "As UK looks to ban ‘nudify’ apps, what does Indian law say about AI-generated deepfakes?",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXZuTXQwQ1o2VUI3V1oxbUZicmQ1eS1YSHh3WGJWSUdMQkY1eDdIUU5VcTFtNE1ZcE1WWHA2dktiOEVCeFYwa0RLYWYwU0lYUGlrOFBKa3Q0bmd1Vng0Y1NHWHFvZ3ZseGpNX2dHaVVGclBwVE5WVGtzTU1DUDF2eVVOMUl3YlB1dnRuTHlGdy0xS1JLUWtGSmJ5VTFsemJSb3Q0UG9xeE4zdXRpVDlSNEx1OEFuck5GUFhhcmVPQk9URzEwbnU5OS1B0gHQAUFVX3lxTE9GV1NTOHBaTjdiZF9XLUpWTlZHcHYwWGc1djN6OG1CbVNVeEdHMmN5VTlZU2d1RWNRSEJFTVV3MWhqOTdzUHg1TmFkd1RDMHcwSmpubVJGdk9tOUZSVGg4WkFxRjFIOFNDUERyX2h2U2hhQklMdzZyWXc1R0lQUGNmRHZESjloZTlXblFfTmxFTUVwMDhRc19ycGlnQllTU0IxdDkyaG9BSkp4TXl0aVNUMTBWMjB2YlJMcmhJaFk2cDZZUXMtODY3bl91Vk5fSno?oc=5",
+   "published_utc": "2025-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India: 19-minute viral Instagram Assam video sparks deepfake fears and cyberbullying storm",
+   "source_name": "Hum News English",
+   "source_domain": "https://humenglish.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeDAwTmtVWlJ5MHY2SUtlZjd4TndTZVlaWUpfRnQ2WlQwemtDU0lZWFplM2k5T2RmN0hFZkNFUFlEclhJNnctbXJ0RTIxNW9LZ0pxUkdtY3drSjFCQlI5TlkyQzdObXg2d1ZwdmZMT0hJWDRXZmNvSnFHOEUzWDRwTmxOOVBHRG9lY1pZOUdKa2ZnZ0ZUS0RUMUd0VlNqRVQxWUNPVEREdmFMQXdqV1NCZHJERnQwdzEzc1Q4dQ?oc=5",
+   "published_utc": "2025-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "ITM University Gwalior Signs MoU with Lincoln University College Malaysia to Advance AI Education",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ3FadDctSGtOWE5VZmNwZllEakhNbWdMLVA2cU8wb0djZ0c2OUlrbElLWDRpUmhhdjNXQXVBbEIzMXFSZklnWDBNMlNVT1NXX3lwMFFyR1RDODFaUEFNM2RnYzcwM01velFuOEVQOUNGOF9FS3NsajVTTGdzLUt5b0tUR1BGa3BXMmJIZzZIbjNkY1hzeTRNeGlUaTk1S2hQY2JuR3dzaUxPLWE3VWVFUU5tRk5TQXdoYW9uNkhPZkJmWEQ3RmhYZ21uX1VKM2RlRWtEaXVwQUh4Ql9ENnfSAeMBQVVfeXFMTXJLaUszYXNTVmhYeGpTUUJYT2d1aW4xdm1MNl9KNEtTOWkya204cWNCV005VXVnSXd4V1BHaERfbXBtc1J4RG1XSFRxMi1abENVeU4tZzVvVmtNNUlRdUszcng1dHdObkpYY3kxcGMzWGpOQXE0bENPSDlneGVZVEwzLXdjR3FFQWdJSTFjdWtpbF9MZWZIUWtYUWJSNWtmMEt3ZHFrUTRWX0s2YkxyWGdsNTBJdmhJZHlZU3BWamF6bEl3S2xRSGdQSmRjTzlaa2tGV2E1T3hDQjcySHZETTNRWUE?oc=5",
+   "published_utc": "2025-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Armed with AI, Congress plans to turn around its fortunes in MP",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWtST2g2ZXNRUU5BZUhsUEdreGxzSFEyWnR5Rm1lVGs1TXViT3F4MUhNVXU0VnBRQUZ5MHhHQUFHUklhemJGUWdCRkxReUQwdXFCMVVlQ29hSEZxVFYtSlR5YUhFRHRhWDBLemZXWHNuYjRQa2tXUXpYR1lQQ0VxNGJOelRNRk1QZVQxOG1oVnFWWG1hbUpwZ21LUGNGOFlvRmN2cVc3Q1kwb000TkJBM0hJLTF6anFldWg0RlFiODBMaGxWOVHSAcwBQVVfeXFMUFA0VG5xbmJwMUE1QzVySkc2QnN6YjUwdTl2SlJseG80Wjl3MVRKWTY3Mml2c0d5N1lfMkt6S3BzUE51dmQ3TnNobHhLU2RfVVBsU3Z3RHJ2VmMxdlo2aVdyd0hFNUV1dmdQYTJuUHF6RXdRMjZmWDFaZndQQmMyZkFwZDEtNWdyOWMyWDZPY1F2SERFYXV5aG1XZE16MWdWQ21VZzVfbmFyRE5VY3RUY1ZtUGlqb3NDZGtRVWdxOU1ENFlKUk9Ed3BBWVcz?oc=5",
+   "published_utc": "2025-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cabinet approves Rs. 3,399 crore worth rail projects to boost connectivity in Maharashtra and Madhya Prad",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMVk1QkxmMGt6eG15TGMyemhxSFlNSDB1cGd0am9nWGVPcm9xRGVRQUZULWgzVFNRWXVvMElHOE1JcFdsaEdHRFdhcUF6WjNoN1dxZ2tiRV9iMHRsWmVfbFlPSFVfWTFGZTRXcnNDcGcyMW5MQTA2U2s3Z2FxbkdJRmc1dnJEM0ZRQkFORzFTT0lidzdBeGl1Vk1zcnhrQm5tVll0Tm51M1dFbktoVFBETE1SWi1Xb3l1cWRIcncySGROTVJFMjRGd2pnQTNveWNYUWNFdXZuV0h3ZnAyOEFXM3JQaU1UanpQOTE4RTZrOG0tcUdYRXhGWk5MVHI4eGhNVGZ4S3BoRTlnWEVEU2tORG9JWmVUNUFrTHJyddIBogJBVV95cUxNMUxvbmVtcDhJOFlIMGstcDlCOThPcXYyZ294VzFNb1N0ZFNuRFdlWUE3eHU3TlI0ZkJYWkpJV3ZTcnVNbXA3U21WcWRVS2wtX0JVM1p4WlhLUmc4TWxjeU82VFlqejBkdndjb2pjaEI4QzRHaktqd3Q4NnJiTjZkQ1dNUjVBT01mTm9qRE1wVWt3ZFVNMXBRU2tFSkRCYmF2UXlsYlp2Z0k5Tmt6YURmT0hXUDdOUTlmSHJ2RzRsc003STM1N0dHb21iaGpFSWF2dXMwN0ViXzJ2LWVaS3Z5cDIwMnJ1T2IycDdYX0w2VkxUYnJ0bk9UU0pIdHhiUDgxTnNzS2Nnbml5TVplTE5YWVItcEJNZHV2aDllcloya1NvUQ?oc=5",
+   "published_utc": "2025-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh sees 66 forest fires daily; AI tracks, action still lags",
+   "source_name": "Ground Report",
+   "source_domain": "https://www.groundreport.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb21vRFMxajhBb1dJNUxmbm9VYlFDbXY2UmJUaWZkVXNQNktDWGRyRk1FNnFPdmFCVTJFaFotSUFjSlRhblVPa2l6bzQxeEF5RV93U3p5cC11ZWZWa0JINzRQZmIyclhOaFUxN1lHOWVjWHl1TGVTZzdJd3lzUWZORHRrSk9MTDVhU1FlbWNkUkZkV0NNYmJqd0J6bVBKOFk4MkNOaE15Z0JyeU54bm96dkZTUWhpMmJqLUtvdDVsYw?oc=5",
+   "published_utc": "2025-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's First AI-Driven Forest Alert System Launched in Madhya Pradesh",
+   "source_name": "Siliconindia",
+   "source_domain": "https://www.siliconindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXFxbFZ6S2RaaW0tdGExUXhVNEVwYzU3QmZZa1E0YmxUWlpPazF6enRBNWhxbDhKdzBoUHB1Y1lNcHJnWDNkUmtuNU05R1JrcWlfTTZiMTdhTUIyQjc1ZnFmN3Nqb0NkVVRjaU5Rb1poTmdVMVhtbzVBYjZaQUkzMGs1VFRYeGNiY1BIemVZa21INk9JbVZINkkwTUNidlJ4QldYU25uMTNwTGdPMkpXdmZOeWRFQUl3Q1RqY0NRb0hyemtwSFBYVEthQ0RHVnNW?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Tech Conclave in Indore draws big investors: Global, Indian firms unveil major plans; aims to boost IT, ...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdElSR3hkLUlFTl9aaEVfTVNsaGtKb1lCeUVqQmJ5VHg3aGxtYmUtbGJMdDAtZDlmNjI0UEJLMnZLM2gxbDg5dFFCNUwtSktWcVNIRFAtMWV0VFFOWDJlMzU5eVlMZmhlTTViN2t0aWNNM0R2VU5xcWY4UEUwN3JCMEZnb0xGUURKOGlQVElzQ1hFWVZyeVhISW5MRWN0cUJOeUdSNlRwMkxpWWZyaDE0Y2hHQXVEOWg1WlhIWE80X0RSZHlKY0FjOXMzbGhyRXZ1NnhxNHAzOERUZ1N2dDBFTHpZZkJuMjVCdFQ1MzhCZzFCRGxDc1hDeUFMamFqQkY3bUNEV2VvNzRMaGRraklsMHhGNm5yZVE1UVUxRHdCU1pMTmM5QW8zQTRGcVJhTENnVHlSYUFjYXhpUzRj0gHCAkFVX3lxTE9PSHRXOVhEQk9uRjVCcGItOXZENHYzaHBmbGczRVNyS05mTEpfaHItX1JPa2hsRDExMEVMWjF1b1JlVlo4SFpWWWtsMEN4Y3BtdnE3QUJVRk5mTDFnSmJEOHNpNWdtb3M5WHVWYTNHYmFvbjJRZUN6SnpnV2pxREU5OFQ3RlRSeUtOLUJMaGhiVTk5dlJQVk1kYnVkbmctVkdObWpXZExacFJCX25nMmlCc3YxUmJrX1dYcWUxMzdEeVotaWFwYUxERjVTNU95YlFMYk5udHpFdFpTV2RKMHdqQ2lxeXR5aWtVZjN5WVJWN1FpMjI3NVhiNW9vUFNrWXNQU05tdWs1WW1zXzN2WXNHSnpHdjdIaTJ5U3JIbWh0a1NmRFdMTkNPSFVGNzRPaFlIQkV4enlycHVPNUxDV0Q3enc?oc=5",
+   "published_utc": "2025-05-03T09:39:22+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First AI SEZ to come up in Chhattisgarh, RackBank to Invest 1000 Crore",
+   "source_name": "AffairsCloud",
+   "source_domain": "https://affairscloud.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEpsU1Z3OW1ZSmtrS1VBSE1DeEp2d1I4ZXlPaHRFaHQwRm1XcHYxQmhEM2ZONE1MYW9Ec0V6ekZ1VFFmOUFzUklkc3dOZmxwaHVhVDZQcUcyQ0Q1OEVFZ0IySGJuRHBhY25UYklyQThDd01KVk96Tjd2a0NMSDhsQTRlT1lOc0w1UTFpQVlCN0E1eUlXZVpDZTMzNDlpdTdFTUxWUw?oc=5",
+   "published_utc": "2025-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh official embezzled Rs 13 crore meant for Swachh Bharat scheme: Probe",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTWl6TzNIVUFJOE1fYnhCenlmdm11dDc3LUU4ZlZBMWltOWtYcldLWWx1Zzk2dTR5VDZtSndZc1JJQnBMdkM1V1JGbkNPc2xXSFNQWUpQeUpFM1lvT1BEVmxfLXFrX2Qzc3VzWVlHR0R0WHBXQXVtUEdpdi12NE9JaTE0d0lrdUhrODBQR1ZHNkpibTNJazN5VEh2SDR5VjRXdURBSTBTTTgySjNaMGxBMl9TRU43QTlnTkI2QzdiNEZJZThVaXdRdDdyYnlxZS1FVW5XN2xDamk0NnZ2Z1JNSmxMc1d2VmdhcnItLXN2ZHBkbUdXc0VJ0gH-AUFVX3lxTE1kbkNrMVpoc0wtNjM5c1hmRGUtQThnTFR3Z0ctRlJRMlBGZmtPOVV6SC1ONzlvVzZFM2tEc3JVRldQd09XNkdQWGhVS25WU0NxNXh1bGplQm0wMUdXSmR2bGgwWUFwa0ZObTI3eDJtaEtDU3MxY0FzRXdsN3AzbWlhNS1IR3dQT25KdWdBMTIzenE0TnFyMHUxY0NTVElkSVZESDRTRW9DV2JiM3NrSHdGWkZPRzlVay1mNTFHUzFYSzZpVVdaNlk0Z3VDNVhhOGJjdzFuYVhZWngwUVB6MHphMVYzay1UWTlUbHpLYVp0Z1dwY1NydEQxN0FMVVNn?oc=5",
+   "published_utc": "2025-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Introduced India’s First AI-Powered Real-Time Forest Alert System",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHpBdEt0Z0l4ZmNWZlVMZDBKQlhnNThXZXRMMk5TQ0tXUjk0OTdxVmd4cldwRWpKMEdJZF9FcTBPemxnNk9pWmtMRjNWRTRwNjZnVklLcnRkRGVBb0FlblcyaWZYc1ZUMmxtc3pLRFFXM0xMYTFSRk5zc3RaQUJRMVBmTHVuWGpZb0tqdmtWWF9VSnlGbnRhM1BBS2MwUlBNVXFPbDNoNXZMSTQyMWs3VUJWUXVXUQ?oc=5",
+   "published_utc": "2025-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

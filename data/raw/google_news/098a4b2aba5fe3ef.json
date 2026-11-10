@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "Mangaluru set to become India’s next data centre hub",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckpINXBhSGlyVmpyUmVKcDV1S0VPeXhqY2dJS25SS2wwQVI5X1RWQ2kwTjd1LUxZSHY0Q0ZJcnFNSkZvcXJIZDZnN2hXOWNXa19qT0dtWVdCMHVHeElDZS1TTmJ6cUwtdmIwc0txSjVBRWgxZU94UUJPa1hEVEIwM1hjZVNia045MjZBQzRhWE5XVlIxa0lTTFFhaFQxbnVLYVpnVnlseDhSUUZxbHdxYnZUNFVFOG5maEd5MXgwSFNNbm5H0gHKAUFVX3lxTE00T0lwbTA2SWlQQ0ltSzBBRkR1X1JqVmVSbVFWcFJyLTJ4YUpTMGwyWExvS2pUVXUxM2ZMM2hkZ0ZmV2Zsd1VTS0s1cUVmVXlxb19KUkxVamM4RVNUcE04RTcxa1pQLXU5dHhYMWZldTdrbGg4dlk0Z3lxZ3ZSclpac1pmX29uZVFrRHBqdTVSUEs4aTU4eEotYUtiek0xZWtfcmJESkE3T1g0eUp1dE11djRfWVdCdlVjTGh0Mkc3bE10MGpnZWZvQkE?oc=5",
+   "published_utc": "2025-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mint Explainer | Will Karnataka's AI city succeed where India's smart cities faltered?",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcnJYTWUtc0ZhSTh6M01pY1UxZms0ak9TRlRkWV9Sdkx3blk3UDdFY3h5YjZHNUxGZEF1V3FZbVh2d3pUTk1VSXY5bGVrcEhNbHNvc0VfSDVMclJsQ3JXQ0lEQW5OeDNqbmpUX2tlVHhudEYySmtYcmNUVGpTRVBQR21aeXFpLTBMdkI5dERpLUQyM0J3bFM3cEhMdUpOSDRaV2wzZFBwWmoxMXR1SkNlUGd5N3Q1THhlQUdYUF9aOHExTWIzY1dtZXVGNXB1TFE5VU5MdUpiamdDT0pJM2JBeEJYczM2LVp4NFdheUdOTUk4Z3E4SlBDeVU5aHPSAYICQVVfeXFMTWlPMjlMLThKa1pEa1ZVZGJiUFNWXzhpbUlVcnRZZEdaX3g4WlRhUERoSmhodmZRMW1BcUo5aFBPZHVtQ3pvTzdlbmxtZ1pEa2pRSTVfTTVBaU5XQlJIRF9BMmlyMVcwU2t3TXBKaUFnSzJOa0FtbUlpUnlrcXYxVDhrQ0pESFpRVmZSMHNzdVhNTFRhWW93Tnc2X3dxYkNsQ2psZ3hndFZvTUJLdFVSdTJPSE10eE1LU1ZNYjZETjdZR2VlN2U4TThGdnJfbWt1M3oybmdaYzlsMjBQYlcwVExfOURaNzBnTWxObVRpd3NoNzBnNjVtakZ2VkZyVVBHUnpB?oc=5",
+   "published_utc": "2025-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Advances Bidadi AI City Plan, Aiming to Decongest Bengaluru with New CBD",
+   "source_name": "Realty Today",
+   "source_domain": "https://therealtytoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOclItZ05Wdnl3R0ZQTEQyODl4cjZ3WnNXODkwNXlDNmNhdUt5eGNVQ2FmeDM4dEh0Y2FwcmdpME9LbTlmS3laenQ1RG5RYlc0ZzhzVW9iWFA0Y1l3UXFGQUgwNzVQelRtM1B2T0xnMTF6emlaMnJjZHVhWXdLZkFQMXNXb2gyTW1JcUFkcnY3R3k5MV9KS2ZGUlJHVUZBSHdEMDlMRUY4VkZwcE1mcTZMclVKQWFmT19tNzdXRHJqT1M?oc=5",
+   "published_utc": "2025-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'They can't manage Bengaluru, how can they build AI city in Bidadi?' say protesting farmers",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkkzVHJHUEtzZ3JydHZuZldIdzhEMHlsN1hDYVZHR3p6RTk1OFNVakNwWTZPMHR3Rmd1amh3MGNmcWpEck9UVTRDZmwzV1lFTHVVTXJyUFA2bXBkQzAwVGFMUUJxUXFyS0dwdzdreWJlOWQ3dEVYZ0JKOHNOQzVsRVViZTN2N09xaThVVkhYaDd1TGVOTXAzYkMwQ25PYUV3WW9NUTRNZ2RIdTZRUWNNbGlyVXJUSXpVdkJnUTlpOWNxaXFfMnNsVm8taE1WTXktVnBKZm5B?oc=5",
+   "published_utc": "2025-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Futuristic city in Bidadi to showcase tech, AI",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVV2WnNmdmFBZlpKc3VqNlIweTlkelByczQwam01YmNMUmpsV2FHNjhMSlMtWF94SmxVWWxnM1dDMm5UaTRqNEhjNXc5YnNoeDNiY0Zib0lqZ1VwSmUwdmxTcTVBRDF1WnBHYks4bjhCQlBwWVZvOEhQTU45NDktM1BjV1VTQ2gwUS1IR3g4OGRTdU1aYkJPNEVib21tbkNsLUdrSFBxY0RFclHSAbgBQVVfeXFMTWl5OGpxakR6TFlXdnZGVTBHUjBzTFBsYzQ3a0VYaGpFZUdCSGgzNjZKZS0zZnhQekpKcXhXUDBVbHVJM3ZzV3IzazFWVUZScjVXdlF5VF9HMXdPN2xjZEdXZW5oY2hKaWFfUENmbGx1WTJZaXJNTXZWbWpMeE5HcEhvb1ZOQ2ltWjR0LXNBZnpvbW9UMFNJMjhFS01CbG45ZkNLMldtVkdSX242ZTJwZWxzejZURzZmYQ?oc=5",
+   "published_utc": "2025-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bengaluru AI city land acquisition: ₹30K–50K per acre annuity for thousands of farmers | Bengaluru",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLVFFYThGaTA3UHI4UFZReFlnblJtaDdpYmlyTUFYNjkzc0xFMHgtV1daRzdnN21WZ1hZVTRtZ0w1eExwanAwZDJucjloNmh3dTFvMTItc1E2SlJuMi1XU2lySlNPNFQ2MVM0WmNPR2VBSlNKRTM0NFRkQ0VqNHZYZFBWQmpCTGRXOGRiX3NEUUxtd2tGQ3A0R3l6OHdRVGFaRjZXZW9NLTdxSGJOVlR3T3Q1Zi1VRDh3aUVMUGdMQVlEUjBJanlObHlDVUItUmNqWFNobTI0MU4xZzdValJ5aFEwWG9oanQ5TDBQTXJibFdkUFHSAfgBQVVfeXFMTjh1ckQ0ZG0wMzlCWDlPM3BHZl9CMTM1UDZkNTBqZ0tiU3BSdXh2LV8tSlBscnU2N3hiQzU4bkVYeHBndXRHcXhIdDNDWlhoemhCMEhHVThtOWpZbVhKNU83V1R1OUpnaDFJYkg3NlB3UEVDV2h5RXBGTmphYVllV0N5Xzh1Rm54SXhDSDZ1Z1piSkFWSUI2YnlLQlZKZXNyUlYyeUdxNFlPQS1sT2MxbTJ0X3pnTklpY1ItRllCUUpGZUpJc05KcFF0QlhuQjVpX1lYdzctM3V1MXhvVkJBTXVfeUljRDg2RVJEMUxHNHU0QURpb2R2MTk?oc=5",
+   "published_utc": "2025-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to establish Greater Bengaluru Integrated Township, India’s ‘first AI-powered city’, at Bidadi",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdlptZ0xzSXpMYkxjYXlQNnM3M2wyVzU2UWZsQkdkUTl3SWNOeGhYZjJ1SWJvX3AzYnJaR1hiZ2FHeFVyX1hmQV9FaUJRb1k4ZVZ2SFJBM0syZmJTcE9ETXkxMFoyRnU3cUJ0YVlYYkp2WGVaRnJmNEE2akI2RVZFNUgyLWlFREgxUGZsRWdVOTBSNnR3cnZQZVMxT3VvMWt1UVVseTdqdEp0dEVKeDVfLUxQaTlvVG9FMG13cjh2NmhJeHlJZEI3czVTQlhWLUdVMjJVdVJVVWRWV2RyM1FjblVBbjFBdTU1VlBDWjZyNWtTUdIB-AFBVV95cUxORWxZZDZMTVI0Y2JBVjZVa01vTHMwejQ2RDNwbGkteWVCYnE0RUdmU2xMaGFhYnFvSGxEQS11bldYY0lWc1VDTkJHSXRvRmtDalNVRFEyWGxQNHNVUjY2ZHc0R2tzMGVRT1Yxa19DZUhpZkZTTXgtX1ZRTjNLZHc1Y0FHQUJuOS1EeWdqcTkxSjZxTE1QcnRIR2FjNWZiSUEwUFlONW1CZWtqazJpZFJxMDhPd09PMzNkSTBuMjBHYXh1dmZuaUNDTTdlTHdGX0YtUDRyT2pPekttNk5LaE1aMWk5c2U5eG5CUlpqUGctRnVSQUppSFlRWQ?oc=5",
+   "published_utc": "2025-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Future Is Here! India’s First And Largest AI City Is Coming Up Near Bengaluru: Here's All You Need To Know",
+   "source_name": "Curly Tales",
+   "source_domain": "https://curlytales.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnJacDh2N01CYlRoMjVPNWh1alBoTko3amxOY3kzb3dxUjNiM1ZLY3VZZXJ6WlZ1WnBBcFg3Z3hvUXp0YmRnQWdoZno2Mm9Kbi1WRmM0NU5jZWRPTGxUMlAtUlhiSHpLYWFzUkVUWTNBY0UzNEJYeHNlclhGc0ZnSUw2Z05HbkZIbzNDY0RONk5sb3lFWjZWdWtlYkdzYW1Fdk9BdzNRTFJMSWgwTEc0REtMNmFfc0NvYlhtWlhmN2ZoT0R0VnFrejRLU1V5RFBFX01VRmFueHI?oc=5",
+   "published_utc": "2025-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Devanahalli redux? Farmers in Karnataka's Bidadi vow to fight ‘AI City’",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcWI3VDIzMDB5cEdQYk1XenR0ckE4UEZER2lTRUJGOU15NTVrSllCaFI0VTF5a0kybEZBbE96bVVKZmtFdHBBcmZsR2FzbFZ2MmZ3ZjVESmljSVQyclJzVUo3SnVXZmw5aW9rVkRfWnl4SFZEUFM0OWRYcmZOcE5ka3pTUTcycFB2S09xeTc4ckVYWWU4dGhzWEpQUE14WE9FMnpONmRPZmNNVkU0VElwcHNyX09QVWM5aU0taA?oc=5",
+   "published_utc": "2025-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bengaluru to get India’s first AI city at Bidadi: Jobs, plans and all you need to know | Bengaluru",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQVFuQXNMaEZvTlZsTzFhbi1qVTZpcmlUQmxFLXRMRWo4em8zZHIxVl9Fa19TWENVYUF2ejV5anRILWV3R05ZRVczN3g2bTBLQXV0ZjVDLXJQSlJIalluS3JZSVFhc19iejh6VU9tdGU3ZGtFYmx2a05CbkktTkd5bW1zVmYzZHp5Tl9vNE9iNk5BeUJPNDRXalU5OU5Hb0lldGxtcFlEUDdjWFRYRnFEeXFpVHh5a2F6dVlLYUVHRGRyZFVRUUI3bFB6V19OUzg5NzR1WnExU3JpV0RoS0wxV1RhTmRBS0hMMVhDZjBGRdIB9AFBVV95cUxNTzA1ZDBjblUwV0p5bVdaNmtMZjJndXVOYjh3YThUY3BQakFpUnB0aHlYeDdkWE9ldGVKX1IzM3JiUmxoMnpGQjNkaHFSLVVOc0Q4RGQxcWdWV3BkQkxZczBIQVBUUFQzNzRZblc2dWJZZGRlU0NDLV9jeG5HQ19TUUZ4Z3prblVWT3g1cTBwQjNCTFdfeC1GNmJya1REQ0x6SWlEREFUNTJrRUZVMzVPYmN1b2RPRUgwTnFRTnlWOWZNM1FCRjA1MU9GTllNeTFwbnNpNFAtZFUwVE0yZXZ0LXlRSVpDQWxTTEg0eEVLYktUeDNr?oc=5",
+   "published_utc": "2025-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

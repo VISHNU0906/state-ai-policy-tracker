@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Maharashtra government approves Agri-Hackathon as permanent state-wide scheme",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTk9FSFdWb0JSWmYzbjVPVktYTV8wM2lQRWI1dTZBek9pS0hoNzc5UzlYOG9XNmFsUV9ybE00N002bUM2UnZjQWMwbFVuUXdhcjJsN0gzV1NvMWlhUzhIMkNPMTVSVGNJaXBjN0hNN3AycHFwbVR6QUVvU1B2OFRKWGswNkgtZ0xwaU03RHplWDlIV2xYdFZvbGU5bEZtMXR5U21OWTlB?oc=5",
+   "published_utc": "2026-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Flying squads, AI to help detect frauds in Maharashtra govt health scheme: Minister",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSENwbkFGd0hwTkRFd2VWcENEdHFqN3pMekdKTXZIX1RvdXh5UmN3M0xvM3hTUHhXV2NJMkMwRkJkNm5oUGIzNkczR0IzRm8zNEEzbnFjd2dkcE4yY0hqR0lsZU9rUnRsMEozR3Q0Q0YwYTVVTDQ4UU00Tzk2N1NnelNmZnN4QU00N3hEVU1NRTNKd3VNNGJWdTF3UHZQNVFoU0lHaHltSnNBQWJzMFl4alN2dXA0R3J6LVVQMUlwOE15djFNbHVMLTBNX0dQT0s1V0FoR212TkRvdGFha2drTNIB5gFBVV95cUxOYi1wUTVjLTlPYXI5MlU4X094eERxdkhTUzFqZV9WS3pfcmgzcDBCNGpIRFdtbjRCR0F0OWZqWEdKcTI5bGV5ZzZXbXBPc1p5aV9lb29iR0hzakpBZDM2N1RIZTR4T2xmZ05abjVRcE9jVmszVFFEZVk5UlBpVTJsdHN6RmVoX2k5ODF3TDhRYzBFb0ttUHJoX2wxOEI1b2lwMW0wMjNia012WUhTWUhhdlAzdTZhdEhXekoxYVdOUWNOUnpGa18tVEd1VzQzX0U3MFI0aEhYOGFCak9VNU5rNzRyNFdvdw?oc=5",
+   "published_utc": "2026-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "GST has transformed India's indirect tax regime, strengthened cooperative federalism and enhanced tax compliance:Maharashtra CM Shri Devendra Fadnavis",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV1dxaDJYZkN6bTBjc2F1ak5mMjZLYWJhUFI5amtTM2tpQnBIUXhQTGdrd1lHNHNLYWcwbkFyeUhmVWRZMFNMaWZHMjJKRzBfSVFxT0xVdUJOWGV3VHBVUVZxWnZ5eG9E?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government to use AI, geo-tagging and GIS mapping to monitor urban development projects",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSnBwWk1sUnZMTVZRT3RRQlZ2OXczNzVqcGdqcDgtckRjTS1mNVFERjJYSGJJZERBVm9VZW5PSXlSWVloeC1YY2VQMEgtcTVaRUJHa1BGOWxRUUVZSkE5Sm5Ldmh4elA5SVBGRi01Z0hWeDBiVFBsWW9RejZmdGJhSk1RZlpubGhmYlZTbHJTVzI1VnM4b1JFQkxQNVRsbks3TldROUx5LWZxaHVhSFp0Q2lxSEo5N0E4ZjA3Y01yWHdrQlhOblRiV1ZERDExaTlnckpZeDRSRWt2SklmQkZkQTB4aTRRMEdyVWtWd2Eydw?oc=5",
+   "published_utc": "2026-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Maharashtra government has announced plans to frame guidelines for the use of AI-powered smart glasses and similar wearable devices amid growing concerns over privacy, security and unauthorised surveillance, after lawmakers raised the issue in the",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5idHZURGJzTDFvcVE0U0x0T2hocWdaWWtjWjh4dzFXR3I4WmdQd0FCSE93RGh0Vk5qd0ZxdldQNU1FM3B2dzF1dmtvYWMtTEdfNlE?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra's Vinoba platform benefits over 31 lakh government school students, says state",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVnRMT0pyS3N0dHhqdFVxaFNIWFZzUUJZaFRqNzhvZk1IYmRFcnAwWk9qSkZTa2lScUNsNUFrT09TaktPdzh5a093QTBLQTg5QUZBU3VJQjhYc1FDc1J2LURSMXRKWEd1MnFHUG5lZ2VSTjkyb1VaeEZ1bkRhRlhIQVZVSnZDdmVRSTVQQVdTcHgxeHlJbEZJUGdFY0pWQWZGcTBkQnc3em1FcWZBckcxeU1EcWhMRjQtRXNEYkxWLWdib0tWaC13enZmT21VRldSNDhXOGd4cUN4VVF1WXIySTJB?oc=5",
+   "published_utc": "2026-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's first AI-Powered bird sanctuary is coming to Maharashtra; here's what travellers can expect",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYkk3cjlHS0RCVEZTVDB0RFlmMTBaTWI1MDBERDZOVHRSTHpmS3daVXVuaHI5bWwyM0MxTFQ5UVU3bTQ4b2VVOE80bUFVSVB3RFQtUTF3YlBIcUJIaWNIaEdHRnVSQTNYSzI3a3NySi03WVZvWWI2M241T2hBckV2LUE0VzFuQVM4eWVJRVNQaFJyRGcyYXMzSDJxTkJaWGFlektVWFdjUG16T1VXYmFscnBHTWN2SDF2LXh6cU9RQkZwbjNIM0FoT2VMOTEzdllLV0I3LVdKd0Faclg4ZHlxZ19MS1hDS1FtT2drUmVKeFpwSHFBMVNMQm5vNmU5Y0w1WWk3RWhZT0lsaWxNRFHSAZMCQVVfeXFMTTNWelhvNC1uY19mamItVEtrTU1CTUVJODZ2U2FvUHBBLURJcFhjVk1iSkNhcnhZODNsSlFYTDh4YW04eWVYemhXVlc0UWdjcUExS1lkRTZRcTB6Y1RJa1FYOFBrOGtqaUZweThsOEh5NjBqSzBhcVFLbVk1cW55ZVJGR1M0UkgtTlVyT2ZhUzJtaE11U0FwaUp3LWdzTmJIUF9tMXV6YTg1eGZSUi1VTkhkN19meUNHYThMMmhRTEFSSWM3SWNnN2I4dGlPZUpMZVI4UXVyejBUYXJLMC1URl9UaHFjeVg1MFBiNmtCZ3llTTllZ3R5akI4YjZTTERvUGRZZjNMc3lpLXRzeDBpT1FfWFk?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt announces probe into proposed Nashik ring road alignment change",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMFJWVngzWGtEb0FoUHk3NGZaRnFDMTFyaWU4Q0tGQ3BYLXdNWERaMF9MYWJWTmdrb2NWdENlaGtWUmNwWHNRTDdVMjJ0TUVvU2t0ODdNXzBrVGgydkg3Q0xQTkRmbG5zRnFPNTNCLXZ4aTk5QlFyVTlIUkJ0eElsMjN5Tk51X3ZJZjUwZ3c1UzQ5Q19DMUFMT2NINFEzanNnWlBPQkIyb0Q4NXRvVzZvMWdBekpvemVmR1lmaDV5TU5CbGl2OEdGbThEWV81LWZ0ajZ1SzlIQnZVTDlWc1FfTzVjdnc0eXY20gHsAUFVX3lxTE9Tdm5ZckZpMDdfWFlOV2Z6ZXF6TE1LRlRuMFJ3ekcwellNNVJNd3BaeFl6dUNGUjhHVUFNSGxWVzV4b3pYR3pFRDlSUl9saWVFdUt6QnZjRUV3cGNMcU1vSW1lSXhZLXE3MWJGSVZBdkZXTk4tZmdCU0F1dHd2YXdmTWJmb2Rwa1FFNUlQczhnVmNHcmdjNlVPYXZNa2hTaHRaRjVFVWllOHgwYXdPXzdPc2tTQktWRzluWUR0NXJYRFhwZ3VyalRJZFVPMC1CakdnUzBfUlRkWHh6eGxaT29wbnZxUE1ETVNqZklL?oc=5",
+   "published_utc": "2026-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Coast Guard, Maharashtra govt sign pact for use of Ratnagiri air station for civil flights",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcnlFM0dFVWNUWVU1Ti16VENhQlhoSmREMEg2ZER6MXRUYUlMVEhxd2NuN3dtcm9NZ3NUMElScnd1MU1vcnZ4QTFHTVc3c3JmSTE0cWg3T2xFSmExQW1DMXNndTFPT2F4Z2lfTmh1WTB3QXRwQi1VTDZ0Wm16ZG9MQ05hczA0VTNraGgyaE5tM0JaUS1yR3g1STdwSkFEQTkySGFwZm96ZVR5UFdZTlEwLXJzcklMR0RjbUVzeVozTUZ1ZE5sUkpzcDBJdmNRTFRFRXBxR3k5SW44OGotenZaTUpaMGViaG1VTWtF0gHwAUFVX3lxTE1qVk5GS3BJOXR5SVhQTndjd1RfeHRWV0pudjA2UzFVNEVrMi1wYU0xcnVPbGVBQWUzTWJSSWYzeVprNzVZRUtBN2ctM1BnZUFrR2JxX09QNGl4OFJXMUZERUZEWFUxSEo5QTFubXprWW9nY3BEYnhDR3R3S3ZENmhKRXpVMWVxZTNFMGxscV9rLVNrSjVzSVFia1UtUS1MeDl2ck5ISWhGSlhpd1VuRVdWQU02WG9OQ0gyNUROQTNBLUVSemw3akxON1k5MkY2TFQ5YjhJSUQ4Z1BjcnBMUmZZdmFFMWZPaW00dm1QaXpaYQ?oc=5",
+   "published_utc": "2026-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

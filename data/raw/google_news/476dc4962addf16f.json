@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Maharashtra Govt Approves Rs 4.95 Cr AI Powered Super Portal for Labour and Industry",
+   "source_name": "KNN India",
+   "source_domain": "https://knnindia.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHJnQlJ6T3VTVEdyaW5uT3VRLWdQQklnUEtlZ1MtbnhpS21DTmFTMlppRkwzVlhZRGRzcUJ2TUhBUVJOb2djUzROWWd2REE2SE0tWkJmZlBrbEx5dTU4RWhlLXFMSVVUR0JIV0Vsc2RKUkllWkJZUlZMZWIzTFN3TTViaEF4M1kzbk90S1Z0UFh4a2lfOTZ5S29jcDdPYmszVEdvTUx1aEZwTTlFdXY3ZGVsWFoxWmZFZzNna0IxQUVqeVFicmM5eVRGZ1FIa1hPdVlqcjBpTG8?oc=5",
+   "published_utc": "2025-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5-year strategy to aid 1.25 lakh entrepreneurs: Startup policy gets Maharashtra Cabinet nod",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVRRcmlzODJjNnNOWnFrLW9NNklHRS0tNlRjaW4tUVVTNE9weGkyS19FSVV1c0RISVhqUHBuUWRMOXBqNVoxdmhXOWhINUdKTmhZQWtBQWwwOGdSOC1ER0lMZGNHOHBDY0VJSDlwb1hQaTN4cGZjeWZ4Z19aVk1ISUVHTFFYSHFSYkRYRThreFo1MFc0Z1VB0gGeAUFVX3lxTE92dW5KRnFoWlplWERXVFBBZ3hZaThnZ1FPWGxtMEVuMno5RHltN29hV2ZWR0lOQTRlMDhJd2Q5N0I0LUJVRWlrd2pub2NjS3d2UlZwRHJOQU9qMDV6YUd2WmlnVFlRZmtYSnd5cG9IUUU1d0FZRkNxNjlaajUyejEtOVVNZTYxVm5vNXU2eHlWM0hmRW9SdXJ3SFhMbENR?oc=5",
+   "published_utc": "2025-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rovision Tech Hub to invest Rs 2,564 crore in Maharashtra data centre, creating over 1,100 jobs",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRFUydGlLaEdPSi1LQVpDSWdUR0Q2Y1Rncm5iQ096RS1GOHEyMEV0QW45T0Y0YWhhNkczLW9DT0lzSnZhRUIySnYxdnZsYVJiZkI0UFl2ZGdoY2ZOWVZ0ZFcyNzFnMkxSTDE2QXlqRnU5Y0plQ1dRcy1aUUJ5T1RYbk42VVEtNzVqYVVJMEs4T0tNUnlKQjVaVW5EUUhsOENuLXJNck1RZ2pCZ0tBcWh2ZmZ0QjVFOHZtTFR6MDNDX1hUWTJMUE00dmlRdFAyamlSc2lNSE1rYm1XVlNteXd1bXZqcnhHYVNyQUItcGxSXzJabl8z0gH6AUFVX3lxTE56M19PRFc2dFE4ZEZiMTlaQVJDYUcxbkMwRWM2VVpfbDlUU2Vvb1F0YkpxOEtqdEN5bG1wV2FjOWtKRUtQUUM2eHNpTkN2ZkZCMDJsa3BkZTNkS0VsaFcxZklmdGlOWkhjWElWQ3NNVS15VVhUR1hlUjc3V2luREpGdmtMeFA4Z2RIZms4bXVlUkpnNWdfbElGcDFSd2VXVllUTy1VU3otc3J5UkppU3JmZUpMZ1ZYU0RqczlwRXhEeUhWVGE5MGhjaGdrdUV4dDd4R0FZUVhtX3ZqUDlfcUZwOVJoN0NIQjhIbXJtcEhyR1hJdVBaa21kU1E?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajya Sabha MP Sasmit Patra on Operation Sindoor, women’s safety, India’s digital future",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSTlYbm9fOS1qSWZLNTlWdWxKQkw0MmpRdVl1cGUyVkFmQW9VbTVWRnJUMk9SUHpTY1BJZXkzRElHSHZsY1RhVHMwVzJOLVZNWkpVcmxHaVlENHdkS3Y3YkpkdGZqc3NhLTJkVk9hcGFqbFZaeklGSUU3Yk1FMUE3U2JIOVZJaXRJYVpicFJtVEtQR0ljU1dHd2NuaVBlSTdFb2U1TEFtWllwOHZ3MjBPMGFhQWJ0T0NJWEVCQ1lJdEk5dF8wWnk5alF4WG9NejV1YVdBN3R5Qnd5YkhjMUV4Q0lhelpGa2x2dDRVWTd0VFDSAfQBQVVfeXFMUFhzZFJfT0o3TG1NWEZWZ0M2d3hSTUZLVVpNd29fc0lRTVZfN19PenRoMTJyTHRTQWlNM3YyNkR4YURqTUlEWE1fRnpQc1ZsWE9ub1dTUmZEeXlRMXowNkRWNnRZc1JteFJkSVF4QW1FUy1NV2FDR2NMODl2VGxyRUNLaUt4NnJNSGdiVU80LXlLTW12SzJUQ2szSEliSDk3S1Q5VVhZWDVkVk1fYm9WcnBCOURHSGIycjlGZWpFTElVb2w2dVRjVkx0UDJDZUxVank4T05iUDdwcExJLUFGTkczZ0d3dmJVcHFMdHBxb19aNGZzdw?oc=5",
+   "published_utc": "2025-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First AI-Powered Anganwadi Centre",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGclJ1Z3FPcV9fRm1pS2Y5anBadEMtN1ZxNWwyMkE3SFhLUnlFdTA5c21xQkx4TmZQMHFfQVJDenFvREZHX0J5OXQtRlFYQmdkQVg0MEptRnY0OERTLVJpd3J3R0RsbzBBUEI2X0RxMFJuZw?oc=5",
+   "published_utc": "2025-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IBM unveils new India Client Experience Centre in Mumbai and announces plans to support Government of Maharashtra’s Quantum Initiatives",
+   "source_name": "IBM",
+   "source_domain": "https://in.newsroom.ibm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWs5YnZHRGVZTXZtdmVpa1U1WHpHZ1RHOEIxeW1kZHdqVVJXYWRNVmdhcEFfNjNsVGRCay04U1VlRVV5UjRvOFFzM2lZSWxJQ2dvbzVqcWZwTS1FMHdfa3NUNGlMcnNnN045dGdNZ3lYdjlaa3hRakRRbkpvZmxNWWs2NWNPeXRnY0xMdlRUcFdVVDVzdWRaUF9SU2ttUWcwaXF4eUpDNW5lLVFzUDY1VWNzY2pJOWVRWDlGQU1ZRWlMV09UYWc?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai Airport Set To Open In October Boosting Maharashtra Connectivity",
+   "source_name": "Urban Acres",
+   "source_domain": "https://urbanacres.in",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGNGFzaVU1RkR2MGhINDE4djU0Ri1mcU9yemZfOUZZVjhPLV9fOW5RMTZVcjAxdkRLMzkzU1cxS2hRTVB3UF85WXFzclpNby10aTVXTnczWEwxc1k0S3YzeGQ0eHVfTjRGWU1vV3VmZWdGSTN4M0UxQjkzR3J1aVU?oc=5",
+   "published_utc": "2025-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amazon invests over ₹37 crore in water replenishment projects across 4 major Indian cities",
+   "source_name": "About Amazon India",
+   "source_domain": "https://www.aboutamazon.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZV93TlJzSjVwTXlCLUJhNjJiYV9mTjJRejR2dC1nenlOamw0MFJxVFctdk8tNU5saGkwQlRPQXQ0RGQtekk0SGhmdnV0Wnl0N3NNbE1vaXRIV0hIOTQzdW1PQ29UUXRPUE42RzF2NnZLay15VzIxelFHVXlyRVJpOWNFNEctSEZWZHd5V2RrMHhiVW11a2xEQmlB?oc=5",
+   "published_utc": "2025-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM Devendra Fadnavis Tries AI-Powered Cricket Simulator During IBM Visit In Mumbai",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ3BSYWpQYy10VXotakw1NVktd0VmU1htNmpPQ3RxNzBNd0FQdnk0ZHZ4c0JmS2hDMHJHMEo5VmtmQmdPVWc5Vjc3TGRMQjk3Qy00dDRPaTlTLVNybjU2bVZxZGhNLW9NUUhZS29ORzkyTkhJaG9lQzZrMXAyY2UydjZFX19pdXRUdy1pbzdGMmNQWjc5TlhFcUdDY0JoRDFCVFFDWS1Kc2NLY3FvenJHN3AtMVlRR2t6ZGdnMTQ0NkdWU1VMa2U2MGg4dlNoUdIB0wFBVV95cUxNTVFhRHNsaHhnQmdvaVdFYkdlOWRYLXJ1dmtrVkc0RlJpSUVIcnFNWWlSQ1JMSmJwVnBZT000NkF2dXl4TEVCNU4xQXFmVXVOaHhTSzFjOGpYNmZ2Mmp5ZEVuLVJBMnRIZEZtNUVkdXJ5NDl4cEtUaml6NzhTRXRRb1RuZnEyb2pnNElvdzNyeTdIU2pHakpaM29lZVd2MUx6S01uMTgwXzVXd1E5T0FqcHYzQjluNnJwUzZLUElTSGhFem4xYk1KMXRhUE9vN0thMUNF?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 3,240 per seat subsidy for Solapur–Pune–Mumbai flights, Maharashtra Cabinet approves Rs 18 crore: Details",
+   "source_name": "India TV News",
+   "source_domain": "https://www.indiatvnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNzBnZk1zLUNEcmhzTm5xNnpxREVoWnk5YmZSeW1kUi00bUNJbVJUYmE4UzRPRjNCcVdIMW1lcXVhWnl6dGhicUNJWVBUQmhQWGJ4UDhsMnI5a2h4b3JiUHg3aWtaNjZENE94WktLSmh6UFdlY3QtY0QyX0lhX2MzdEIyaFFKUm9lekoxRERKRlVJald2SGxCNFpEY3JUTTY2MkdUTXg3TENPbkQ0SGhPMWxqbDVCanplZzg0d1RPYUM1V0NqRFRwaVBRY2hTdnJIemZEYm03YWN2UGg3bkh2SUU0ODZRUENqTnU4NEpQRkZ2MGZaT0HSAfsBQVVfeXFMUHgycmNyR2k1ZUxPNEltSFA4eTBzRWZsNzhRa0c5N0NiTzAzZ3lMb004NGlPakVfVGpzYkNoQmgxenktdS1nck1COHd6TmpJNnJUazRJUjJLVWlrOXdVNzM1SFdVaTdwMVIzUTdRaWx6ZTdybC0yUEttdDlnZTI5SWZsNV9KamhWQnBSUkpjcGRIQnVIQzI0bS0tQk82dnlfVEl2Rkd5YVh2bENtS25VWWpkN2FKdklBb3d2cV80dWtZLVZVTVBVU25pNkRRNHVHWjk0dGIxeVZLY2xsYjhpaWl4RGZBUDl6NW5OemZXX0NmTlJHSUtPQXZfWGs?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

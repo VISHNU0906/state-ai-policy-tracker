@@ -1,0 +1,205 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-10-01 before:2025-11-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Chief Minister shares U.S. response to Sundar Pichai’s Visakhapatnam AI hub proposal",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPY2tDTS02N2FlSUo3bWlsdmJDQm9GNEtwMWswa1NIOS1FUHRfMTNUcnNTOWFmbHc0UzVYNUFLTW5HaGpEbUVOLUJEWUpVXzZmLWpfOHhZYlZabkw3QzlBMlo2WFFVOFM1TkZWdFhUb3Rpb1VORDJPSkJLWHRHUFA3MTVGMUM1WHdDNWUyODNGNUFkQW5vcHpLYVVuLTF3azdwMGlac2pDamYtS3dOejFMUXlUdjM4RmZJamVOSnFibU5NOGFvb0NjbkRycEo4akFxQVBpdHVGRzRJZHlOTFJDX2FkWlZTbUZGakRvdHFtSDA3UEZFeFU3bTk2TDZqN2vSAYYCQVVfeXFMUEZUTkxtS3kxMEJ0emMtYnZ2ZkhUSFJnS0l4M1JobW5oRldGbmJFRGt0SGVPai1WenlISTk1NzBnOHVUc2dxeWFUMWxEb3JWb3VwSU1FcXRJMmlFSXYzemRvaXN3b3hqV0xjM0YyNDBZM0tibk4zQWczOU9nZHRkX3BobzZlNThwVlRlOHBSMHY3T0RQY0lsOERKRzIwdWVFMXFvTElVTGNhQ2l2dVdYbUFmcHFpaXFDRjkwYUxsajVid0JaN2JwbUtNZjJVTDZhZ3lyQ0Y0c0lsbXRSUnFuX0xtelJlM21ObUZlZ1lSTDhWaFJBdWFBSXlmUzAwYzBmU3ZzNWxLUQ?oc=5",
+   "published_utc": "2025-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh plans India's first dedicated AI University: Minister",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUHdlSXdqRTgyRGNNYS10dXVyd0VSSHkxem15akptRGQyZkVFRlkyOGlEaWxaVEwzeXJZOHgwNl9YRXdCR0p0VzFGX0k3OGFPd1hyYlY0cGtNZlZzdkZpdkNXZU5ROGt3ME0xTkNBWUNTSklsOWpvUGdUbTYtd0x5OURYdl83WW9Hd2g3SGI4eXlzZlp5NkFoNXltaFZ3cm9wM2cyMkFHM3lYTDhuWkV3N0ZGZjBsRjVtdUkzckE3di1kUlp4VUkzcFpocGJlYlZPaWdnbDlwM0cwYzJFNUdNQWF30gHmAUFVX3lxTE9DYTBHQWpmOGlVUTdlV0ptVXR4YlJITVB5ZVJvMXNqUU00UzliOXctUGI3QnNYUUdObUs5NXNvMFhNbGM4NDc3OVB4ZDdmcnljVXFMcmxVbVc1M2NOWW1fOHFIOUJ0RDhCLTViTHlyRjh2azBKMjFURjJpclNfRUpFeXNnLUlJejljU041UDdNaDEwOUJLaW40T3pEdGlqUGo2TnNfdWlyTzZjQW9oSnNIUUE1ZmZaMHQ1WldjdjNHb2hVa20tWW5nc0VrN29Vd3pNR2hlS1ZUUzQ5NHo2dWt1c0JfRkF3?oc=5",
+   "published_utc": "2025-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to Invest $15 Billion in India’s AI Hub in Andhra Pradesh",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3ZLVUQ2XzhJWGtvWDIwRGpuaXJIamk4cXdUc1BTQlMwdElJb3BmX1hNNUZTUEYyNDF0Nk5HZnN1ckxoMEJBRnY3ekVrcW1iMmFNU0Y2QnZraDNaZTFNamhzOTZNVXVKMWlrMjROOVU1dzdOeVZfczV0cXBFS1ppQS1vdjIyakNDcmZqSVE1azNzdw?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google Announces First AI Hub in Vizag, India",
+   "source_name": "Submarine Networks",
+   "source_domain": "https://www.submarinenetworks.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0twdWRLZkpCUWhTRGxVQlhjV0hyVDllVUZucF9qbHE5a3lCVjdPY0xwSjhXSU5NQjdGTmxMSkRZaHNiaU5KV1FkUGRIdGpWQTVpd1h0NUwxcGlCalIzbkozTkRJSUNuN05TelU2YUVhenB3elE5Y0FES2ZkTTlGSVUxSlFaNnNHbDNCSW1zdDM4OXg0?oc=5",
+   "published_utc": "2025-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to build a $15bn AI data hub in India",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKb3VGanFOMjR2dzF3ajZ5MHhMbUUtWFVOaHJOTXJYSFNPRkRCelQ3XzhFUDBDRkRtdFlpNVdIVEgxNWZCOUtlbUJJQnc1bUttVWc2MmVUNUlDZw?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka CM Siddaramaiah downplays Andhra minister's remark over Google AI Hub",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmltMHFIdy04OWRjMERKbzVsaFh4X0t6d2FHYmYtMVNScXg5VTBRWDJBMmZXNUVCdHBUd3hjRjVGQXRHM1YwRnN5S3VoY2FFVzNJU2QyWDhqUFNnV3JBQ2JUclZNS1VfQWI2RmdFVjRzMExIMzhZd3B0bTlVaUxicjBUVzQ1b3NOcnltOXN6SkhyM1IwWFQzV2E4TnBCRkVOR1dnM05yNVFkMlk3YlpWeVBfVjVHWjJZbFHSAccBQVVfeXFMTklKSlo5UWFOQjVYWk1DWlJzblZVdjBwTkRHWE9CQW1JVW1HVkJKNm15LXRhVEdfd0ZaUzVJcTUtZjFPVExRWTY4YVZfcGNvdEFEVEk3c1N6cDM2UjV3d2VZeks5V1JJNE1qei1qZVVUTVhXNkFENFp1T0N4MGUwbUFTdWpnaThtVWdmeG05Z19FaEdYMnRibE1LQjB2V0lVdExral9uVjNJM01sS1Jqcm9VaFFfa0MzWGZmeWctWlNFUlUxc2o4VQ?oc=5",
+   "published_utc": "2025-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What Google’s $15 bn AI hub in Andhra Pradesh means for India",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHRXNnRoZm8tQ1pjMXNCbXhzaHROc0h5ZG9GN2h5SWhUQTB6dFczMmk1Y3VCNmdDbnZ0YUNxZHVtWU1sQnptclh6R1Jha2dVVmJFdGRwU2RVTDBfelpuOWxLclFWbjhjSjBGQVZTN2VRVlhhaE9yMzEzNE11Z1p0NUtDQVNReEpUNU5reTJHMnF1cHBHQzF0MUVwOGh3Wkk2dWN6SmpOdGhRY0YtNm5nUDVXLV8yMUdkZUFMOUJTaGFfeWfSAcoBQVVfeXFMTzFuWVRpdzRCZnlzcE1iSFdCS2Fob3RPMmtQTEhiXzJLQUY1dTBncUxKTkxuWERDb3VoTWFfbWVpZDJ5bC1UQm5HRVpCWXl0Z2hNeFFNT2V2NklxUVY5Z2p3R1dUeXJ0TDlLM241RnpCNXJhUDlmYmpPdHVMLUUzcmJjM0ROYmxFUG5kekxoSl9OTEEzWkliTFMxYmxyM2hZMlJfMFNJNmpjYmJYR1RDUnlkS042RUdodEstd1ljb3R6eF9UMllFREZkUQ?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt school students build AI prototypes",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT251RUM4MkVuLXJJY2llbFNVZmlLTTkzWEg2VnB5ZnFEZmFNWHk2aHNtcjB6X0dfYTQxdjFZTDNrM05hb2pHWUVKRTlNeWFkZllTUXQwSG5VNDBicV9GdXpaUW5mVmV3S2FyS05Jc1VSRkRLX2pvZlRyckpJekxxX3o1ZHpUOFp0MkN6RlVXclB3QWZEQUZpbWRMMDFXcGk1RU5QUnFCOWctVXJ1aktZ0gG8AUFVX3lxTFBDTVJlU3NGbzNfc0p2a1MxaEhxaHEtbnRXYi1QaXJ3ZkpDNF8wTVhXMW5GSGx3U21iYmNvdFBvbm51WUdONTNxcU9ZQ0hnMUZ3TmV6a1RKWnh2TklzREhPeGlZaVcwYndUR05WMmY3eUVXUERDWU15VWtZdUtTRWlvWkJzMHFEUWtPOGtYWTdIZDNLSmFpVDUtb2x2QUJiZk1NZC1HTUxUZ0hBb1pmZFpMemw0c0ludEJqN0Ex?oc=5",
+   "published_utc": "2025-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Our First AI Hub in India, Powered by a $15 Billion Investment",
+   "source_name": "blog.google",
+   "source_domain": "https://blog.google",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTFWTFRqblJvMkdUV2c5UGlzZ1pCWXpMZTk2Z2dhcHUwRmpiWGR5UFlyMDVLRXhVR2MwTURONTgtakhHV2NzbGFUeWxyaHRyRFlKMm9idG05cURzRXlzOHNWNkR2Rlc4aFI2SnhoV01sOTA3MldDUmswNHdmTjNrSk1ZbGhEb01hbjRjRTk1d2dJMlQ4RFRJU3pldjFsNzEwanpBZ3RuNWo?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt to sign Google deal for AI hub, 1-GW data centre in Vizag",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFVuWlJDeW1lUHFYN3dpSkpaRFlBRWJ4b29aSzBzYWRNWmFmUVBDSFYyYXVKM3FLc1ZCQWttMVBuR0YxSDZEcVhMbERsV2FoZ1RTSl8zVWpsYjY5amlNd2t0ejc0MzlUV1oxa25RVkU2NW42TloxQTRtR0M3Tm1Za3dFRmV0UXphaWZTckdxek1Za0J3X0xNa3duZHRuT3AzYU5RcTBHQU1abU5VeXV5UnhHV0lpOXo4TzZtOWNPdVQxcU8yY09LdTBPMjI4UdIB0wFBVV95cUxPanRGeTM2ZmJKelUzTi0xczhkajdFTW9FcGRqQ04waVhnNVlDakpQZkJBOGJ5bnd4MzBMYW00S3hPMjUzdmg5UEs0R0dUcXFPSnJFMVpsUjRKMzJHdTNsME53bGVtLVdDSlV2dVRsX0dnSVo0d3ZhTG5kR2hReTNZSDZqZ0Z5eUo5cGtpZ2VsOEthQkFBMWQ4Sm9pVzYzel9MdVc5cmNaU2xwU3htbWI4S1JvSlk4TmRxWUR5emNFRmtkM2JCRElRNjlfc2tqM0FZbC13?oc=5",
+   "published_utc": "2025-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sundar Pichai's Andhra Move Hurts DMK Ego, Is Foreign Investment Shying Away From TN?",
+   "source_name": "Open Magazine",
+   "source_domain": "https://openthemagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTdJSTZUb1VEQXp6Z3BVamRiZ1FnZG85VW9MVnBmdEg0QVdzLThNQVFmV2lrbVUyQXpCMGtZTFZrYm5SMVhmd1VIVlFSdDlCeS1veFRLTk13WFIzb3FzbE1palMyTE1YZU43d1JRNXdqUkIxSGtNUHNlekpHTzdGUm5rMmJqdWpRSEZmdE5raXUtNG5ndXdZXzBjY0dWeW41SFd6SFRlWXhRV2lqM25pSUFNX0trekE?oc=5",
+   "published_utc": "2025-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to invest ₹87,520 crore in AI Data Centre in Visakhapatnam",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaFIzUUhTZXlXUGNuTUlnS0VOU2lUdjdxME41MVlRc1NnRmhKLUFhODBJOXctbGJWcUFiN2xkYnk4d3Rab011b2lWRDhwVWYxa0VGbFc5TTYxclRFVTR6UG5mSHZzU1FxQnpQTXlTMExEUE9meklOeWh2Y2ltRllhX2UyRDFsMmg2SVVmU0NiOWdScHNkSVljQjNzYkhzSzdoR2Q0TzFjdzJXYi00MFZHek84c19peUlGcWZ4cS04RGFiMFlNTjZaWjNVd3o4QlFic0FBQjdBbTVyTTVLWFgwRjN4bEsxTHPSAe4BQVVfeXFMT3J4Y3BPeUJ0VDFISjBZcXN1aS1fMmNybm5iYXU4MnUyWXRobzdVS2l2ZkFEbnZscUNaaTQ4RF91NTl1OEEySDBuUGFXcy03andrNWhIRzVSX3ktQnZqaWtQTWZrTDNjTHZpMWhkNEk3T2hZTWUwMVJMLVJMQ3ZhZHNQcGd0RFgxdlJfWTEwenZYVmJzZktVbHFqaEVMSnFLd21ORzBXelJRbXhRclpJZFZHYUl5SHc4cDJMelZIbzJIS1lQYW5yODBUeW9aS0ZYZ2QwckRUYzBPTEd3S1VxWjgyakVQWFNnd3lfeklyQQ?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google AI hub in Vizag to generate ₹10,000 crore revenue for Andhra: Pemmasani Chandrasekhar",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNDhSME92NHpSdGpXSVozUzNxZnBOcnFIc0VsaDhxVG5ISURadHVSMGNtTHhCbWlsZ3pjYjA0M1VWT3kwV2N6a1lQNGNmb0RwUjlqcFVwVWlYSnpFbk1IbU5RQlBGMjJxdWZMN0daam9CU0h3NFpFUmxzMHk0MzlhX0JnQ1EwN0kwNlFPNlV5bjVJdHJTMW9Ib3pqVFFFVzQ3ME9GY0w5YXA3MVF6QnVydzVCRUpmanloSUVlakMxN1JNbjM1UnpGRFpFVG9Fb2lzVE8xZWw3N0pCMkhGTW9vOGJCSkt3eE5sUEFOM2NTOVRHUVc30gH4AUFVX3lxTE1XTGZUZ01WNDhieTZKanA4OEdIZEF3b2FCTUFhN3BSN1gzN1lmbFlFT1piYTBqbHNLN0hCZnpHd1BkM0R5SnZ5eWdLUnZ4VnYyOTJ6Y0p0R2JXbTh4WXFOZlVScDdoWlhfX2c2SVB1TzN3MTNKaHBfTUdGSjF0VGNlR3BROFFrdm5zd2w1MjBnTzJUZE0zVXNtaV90dktvTXR2RW5jc0hZYVkybWgwRGlFaDhJUUNJRmpBS3hkbjZDYV9pVXZmdmdVY2xiWFJuMlVLemIyel9uWURqOWxhQmxDR2czNU1pcld2dEVxQzlpRDA0OEo3bnlJ?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Inside the subsidies for Google’s Vizag data centre amid Andhra-Karnataka spar",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUUhYd3VUWFZGMmo3R09JZlNvWnA1cDN2ZEFKRFgyTGYyRHNST21jTkNwdEhvMU1iTVpkUHJyX0JfV1dZdUpYbFhWV1I3SlR0S0Q0NzBtNXBPUTR0QWsyNEtTRWkxTjcwRW82a05salc2TVlQeDRuTTE5SS10TjJNdTR2amRuTWhUS0JpNWFhNnRxNlFqdDR6SGxBb1Z3Q3VhSm1pNEt3bkhLS0NnVVlwSHU1TlMzSVRnOUZmak0yTdIBzAFBVV95cUxPSS1pcTJYRWhRNDJxVE5iWUxQSElIUUxkZVF6Q01HOTJKQ1oxV2JlVzdKekhxU09qNG5JSEhaS044anNndFFBMHB2c1M3eG0zRGQxQzBfRTRWY1hxdlJsMWZaeW84cGR3UUN1aElxaTRFU29oSERWS2czU2I0MmtzVTUyXzNHWl94MWV3QjhLbkhSMVhUc3lDU0U5cmxqQ1o4NTNzYURRQVlJWGxsdHBYa014WGtPSGNUYVdtaVRpTUF5QWJLYlQ4NkVraEk?oc=5",
+   "published_utc": "2025-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google's 1-GW AI data centre in Visakhapatnam to generate ₹10,000 crore for Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUExoNFNFaUJ1c0J5QWg5dWFIUUlXSU5yWk1IQ1ZnZXBpVkNWcG9zZzdvSXUxY3dYNVVmVlNUTnV6VW9GSEZ3OTNicFJVd2VJaUhwNjFxckNPRl9aYmJaQ2tKUU1WMTA4eUg2WWJEaURGRW9GLWVmVUc5WGs4SXFDdzhWM0pidk5rTXlkbUtkMVZ6bFZmMVYxbTY5MTExZlRCSEdTcVkzd0ppMjAwVEFXdkRURUUzUG1BaVJhOU9HNGxmLVVwV0FZTUhwZkdIVVhJeTN2M1M0ZE7SAeYBQVVfeXFMT3M4ejh4YjNENFBVWXIxZWlrQXhjLS0xV3FlVHNPdHRZZnZVa0JQQzhNbzFuVzVhdHVMMUdibkdGa0psTjZUYThUOVN4VndwQkdZbU9DT0NOT2lpMVFvbzRMLVdvYXk4Rm1GRXBSaDBKa1AwaDBmZTFHZVM1UnNQdFRqdi1iYWNOVW1ORDRaMkJiQVJuN09ZTHdIcXluQXA5VU82dkNxVUotd0lmUWM1eTRoTUF6TXRTLXFzT1BwMHNUX3VrU1h5R21uejVkNFU5Z0hKQ2JQYUgtcXlOLW40Z3VuNnRZRUE?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Leaders welcome Google’s ₹87,520-crore AI hub in Visakhapatnam as boost to India’s digital growth",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRmRIWFY4NHRFM3B6MmFBTVgtTXhncWJ1ZVpwQ2dwZTBJMzRuUnl3eTY2VEhCVFA1RzRzVmpIdU9sQllId1hqR1MtUU1HLVRSaVhZRWEtaFoyaVk4V2tEZFJQUm5PMXgzWE5fbFdqeUpVTW1icjhkUUVzc1RqeVlRN0hZTER1d2FoX3gzUXBsWm50X3F3NEZTd1RNRjY4U3U3ZU54cEVxMS1FTnZzdTZRdUU0UUszbDZxM0dYZlhOSlVXdWZTbU0tc2M2c19EVFFVLUtlZ3pGVGxRaGpLdm41V0RlR0RxUGQ5cmpNVV9nZGU0TWNEUWNlWUZ6UdIBggJBVV95cUxQRlJfOXpJTFM5ZVNoSmQwQzhac3BkZmFUdGphTnJDZWx2SmllNzQ0R29QVVJ5OS1TNDVlbmE4OEJfSW1GZlhTMUQtaU43M3dCS29PT0R3Q1EwQjJvTVdZajhSWktIemJwT2ZBXzFIVV9NMnhzSVI0Nk1FYnBkUjktT0lzUkFKOXhheW1FNjhZZFFGSzdaZWdYVGV2RGhMUEsxUDdNLWt4YU9wU3FEYzJlY3JRWVV0Y290OF9ibmJUOHhvUlRrRTYzWEpQTElJM0Rha25PajBjbnBhMDJZd1VnQ3hNZjAwSXFXQ2lYM2s3ZjZ5bjJ1Y25TQ0loRjlPVTgyeEE?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to set up AI hub in Andhra, expected to create 5-6k direct jobs",
+   "source_name": "ETHRWorld.com",
+   "source_domain": "https://hr.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR0lweS1tTlc2WXFXV29jV0Y1M3hGYjlJaG5MZm9Qa3U4bGR0MmFKeWRzOWxQQ2VqaFJmVERTR3U4RUdaMDhpUUVPd3M4NFN6cEtDekZfNE9GTGFOSnR0RTZZUkxMSWd3WEZjOWQyNzcyVFB3Z3JnVEwteXcyQktuWXlNMnhiQkphNS1HMkRXQnZaQlhVV3ctd0NJNUkwZHBYamFiTzVSemhTclVhZVBpOUpOQS1zZ0pCOXduamtpeVJYXzV5dXZpTFJiZHZqUdIB0wFBVV95cUxNUThSUmlOSi1NVDBucnFGY19JMFFzUXhTQ2FwcEFjTE9BT1RMVWhwZVNvN2pLVTRYS0lkb0wzeEl1aXZWUGhhRHVQZWFSS3FnYVcwRmpPR09Va1RrT2txYlQ5Zkw5cUFCdG5nRlc0dDdaUjFlNkk5SFQ0NGRwNk14bnZXZXVNN2Q4WXFxLUdndjVKZTZJNl9jSU1kbWxQRXV4VFg4N2xLMnE1TkhqOVhqWEc3U2Rod2hLclp6bS1mNnZXNnlMU0NOWV9kaU02cmNJSXdF?oc=5",
+   "published_utc": "2025-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh IT Minister Nara Lokesh lays stone for Vizag’s first 50-MW AI-powered Edge Data Center and Open Cable Landing Station",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOSXkyejlaRDBRREZLWEgzSk1yaF9UellDcm9sQ1N0S2REQ0dRcFdoRnBTT2lfOFRyRXdWdlIwamRzTlZpc1hubnBTN1A1VnIxRFFHQ2liTE1jQy1OV052YW9jNGJsRU9VY1RhSXh2ZHg2X0V5TEJnT3gtYkhzUE5hUjhFWFV1YVdlUzRTaDlPNW1GTUtKVVpLalFyOHUySldqa0hnT2UyZW5JQ3pHR19sNERQTGpHblpSNExBSVFnRXZtNXVwazVLa1Z0Y0lYNldKSlVkOWJVay1TVjZ1UHFuYTFfTTVmSW9HcXdhTEl5cHM4djdpSUI2RW44Z0FXc1BsNW82M3VhSW9ncUJvWTMtQ3I3NklPTVNyS0hkazEtMWp0ZTl0RmV2Vk9B0gGwAkFVX3lxTE9Pa1lheThkdkdvdGRlUzRxZFFPZFRfZWNUOV8ySm1KNTJDNUVhQWE1Njlfb0hhMHVoc21uQVFLU3V6N1RkM2pIU21Cang1Yy01NHhYUHVicWx6MlRIeThDeTJmX1JJUmNISE5xNXBnRG0tT3F5RTFyWjY3SVZLaVFiNjR4OXdlVEZPVEpmUjZMbjlSdTNQMFc4WENRdTFGcnZlWThfRXkySF9RZEhmV1ZqV1NmcnRISmprd1BPcUxLNjdBV0xGTlRmdGJBQ2JKdVFjelhpZjJ3QVNHNlZaNmwxeEt1MjFBbTJwNEFKbkxsRDE2MVRBR1JZNXRoVHg1c3drTzlMNXVnVHdSY0lpTFJfeUdWUFlqbFpYNm1MXzd6ZmhhODBZNkxjSnZoRWQxUlQ?oc=5",
+   "published_utc": "2025-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Minister Nara Lokesh invites Australian varsity to set up India Centre in Andhra",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUnFCZnFLOWxFZERQYWoyUC1RMnY4SlY3ZnFXakJWWHBhc3ZIM2pTV1BBWFJJUjJOSndJZEZGTHcxS3lqVzBmaW9ob1Zva3ExMGtYd200TERxQTZtS1RvUDlLRWRSczFGaFB3aWhPYjFVVENDQnpvWjZnc29nSHAtMWJzb2lmT0czS29QcWIzeVFWX29fbmthWmtsdkI0czZEd1JPRjY1bDlOaElmOVhJd0Z0Zlo2SFB5b2dUMEVtMHJJRnB6bHVzSWYtSTlXbkd3NUlhZ3oyb284cmVsRGY3dVNLUU1tbTZvZkhQUVhxYnI3S29CWlVpV0hUVlhUZ2ZWeHJB0gGIAkFVX3lxTE1xV2g1LXdSWWtPaFhhbzZVZU1KVXkxeTFfNThyajFsbUhQdGtIcnRCQW9fUXRBYVJiN1pNdDRuUU95ZUNpT0ctQ0E0TFpNd2hGX0JTdmY1Snczbmg4aHlnUjAtU0lVVW4wQW8xUXU3YzU3TVdxaTdqQUtMYXhUbjBEdEFHMVdpNHdtaWlLVWdXYkdDclVLc2RpVlh0M1dVVHY0RHlKbnBIT3RETlpfV1NPZWZOWTFxWUphSEdPREdVbFRGQ0prbWo3djZXMlFscGcxY094WkhELXlGRjZtUWJUUHg4eUxkUGJZYy1XTjBhUXh5UGFtZk9hTTRaSXVGOGUzUVpkZDNsTA?oc=5",
+   "published_utc": "2025-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh offers ₹22,002-crore incentive package for Raiden Infotech Data Centre Project",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbUVSaG1hcENHaXhTdlRyOEF1OUsyN2h0SVBWNVBPeEsxWEUxeWY0Zk5YRVRUcmlhUHpuY3F5OEJNbW90cGE1SDRjWmVZVWdKLXZqaUl5MHhMelJvTkxRSHlDQXFTa0J4NHp4RjB3bEtzRHRfNjZ3dTdlek1vLTFYVE1JQ0dXQ1hmSlJvbGFMdW5LUV9CN0RKTG1JZXBvUTlncDAyZGx5MDZqalVodVZ4VWR5Nzl4VE1EQ3FuYllQTUNPeGhyYUVKNjQ4Z2ZvcEk4QThKb2NDUEQwLWY2bGVNTEhiQ3l5MG54a2wwTTFnRDlGSnNvaGFj0gH-AUFVX3lxTE5yZlRXVnJzX3BSNGNqRjdrNlNLSWlOQmZhZllTVHltZnlWLXdCN3pINUpMb0JScFRTblN0VWRDU0N2NnFmY0xDZS0xdktvd1M3MDVQcU1YS0ZxbW9RUEdOWUlBZGNjNkRSVnVzS1FrVnRwUFVjU0EyZ0dmeHUxdFIxMk8yUl9hN1AxS3VJSGpVREo0TFJTbnVnalhCMXhKUUZDQTZOZjVkX0hLVTYtY2cwLVF4ajRuMnhxa0NTVE5nS2dJdWVEQWVQT1FKaXBial84cUNQYzJReVoxNGxEd3Z3T1JrZ1d3eG92ckViclJKQm1sc29FMFRCWDM2eWVB?oc=5",
+   "published_utc": "2025-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google's Raiden Infotech to get Rs 22,000 cr as incentives from Andhra for investments in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNellRT2lMNUprS3hLVDhSMjBSODJXMmpXemVIYUJ4dHNNaktRSDVBNTE5S0VzY1pTc0lQRkdfWnZaZzI1d1h0OW45OE5tNFFXTWxfUEpTSlJZUjFwQ3pGam85TTNhZGFtNWhBZExVMXUzdThWcmFJV1BTaW80ZkNlXzVEZUVudFExQk9lY0pwWElPcUdKMXVEWWxlWWRfVXVaNkJDXzkzYnkwYml3b2o0dDJyZDZCMWxhU25nbWhkQ09BYlJaVmxWZ2FaUWlVRkVEMXQ2b3U3MXBQTmpFQ1ZCONIB7gFBVV95cUxNSEl3TVN3OW10U2Q3WkRTNmNTYjBla1AxMVB0T0t3bkV5WjRPUmZGUVl1Wk0xU043cG1uZTgxNE8zWG1ITW9WdUJTYUZyNm9ESHpETlI3VGlrZlVlT0oyd1gtdjVlaFVRa1UxdHpoLUFvWWo1TUxqX0x3NDEtd29GOWhPWTRMb29mSllzWXlVZ3ZhNkl6VE43OXRoYVYzMmJzZjRBWTVJSmtIM3JHWjlnVjAyT0EwSTFQMXJaMWY0TGVXSFZlNmFhSU9LOFVaNnpFVVptT3VJOUV1VDBLdlVVSTBKbEhmTTJpelEweEt3?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google Announces First AI Hub in India, Bringing Company’s Full AI Stack and Consumer Services to Country",
+   "source_name": "Google Cloud Press Corner",
+   "source_domain": "https://www.googlecloudpresscorner.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORlk1RnF0eHc3VWJNa0dJdEM2cHdxOXhpUlFkR1pvTjBteFVwejdxSFNpYl85OGtqUDNGUTJrcmVMV2ExaXA1aXN5dFc2Nl9aWGVKRUNKaERYWURDSERkZm9GamU2RGZkZTMwcXhXSWw1Qk5IcndXZ0VTVTN6ZHg3Qk1WVVhqR3JSbk1BVEF3bmpCaVh3aElWQkdISm9WYXNNVXZxMEpCaFZWQWdmRDJvU2hEaGRId0lQTnlKODcwM1ZqQTJCRmhPSUtvamJnQ3ZaQWM2elNJNUZJUUMwRFZpaThwZnB6ZUNwWWc?oc=5",
+   "published_utc": "2025-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Naidu Brings Google’s $10 bn AI Hub to Vizag",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNk0wa3BuRXVaSEFVWkFoa1VqRDQyQ2JBYS0xeWtVUEJFaUh4UmlZRlY2V3ozVFZNV1lnRTNsQ3lSWTBKcVprQU5Kc2tGZTBCV0hONERieHZNSW91cmtVeEROYm1lN3ZweVQ0cXk2YmV5WHcxTjZRMnNCdG9xQ0xQUEF3RzFnaGJsTG5wV043ZHNlT0xVZ1R5TVd3eENybWh3NURBMjBLYUxaQy1GbmZLcGxzU2dzQ3RPeWJZ0gHAAUFVX3lxTFB6elF2Ri1zSmlneFZUbThFTEktdU1fb2Q2d2ZvdktVWFJSNmU1NFpKU2huN0hTQ0ktSXdqSVh6T01ac1RZOVJxSWFOdDZZeTBkVEZEX09pazNzaUhiQXlzMTd6VzhzRDJOXzVjdWowUzNhVFZEOHRkMFVYU3NNQ3ZZTlg0V0tpbHpXTTgzcXZNVG1EQmhfZmtFMTltbnF2MXBmNm83TVZ0eTBUZEk0Zkt3bnhoNGRubExHUjJiTDdqNA?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Chandrababu Naidu lauds Google’s AI data centre in Visakhapatnam, credits Nara Lokesh’s efforts",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUVHUVkxaXRDVGxJanlwTTBlTy0xanBtdFNNM1JNcWVGNUZJMG1Dck03ajc0SEtrS3cxMDVLWTBDUFBqamtReHZhRnRWNXQwelNlZXkwMjA4Z1lTQ1JWVjRqU1dvUmpIRzdLUWtVQzdENlNPZm1nYTB3bUZ3Y0MzVmhmWGc5bzVkbWhzVmhKS0JMMXVFSEEtTXBfS3czSDdZNGxuNklScTNIaWJUQzdoMkNSRFg0aUJ3X0RfcFlrM3hBcUFuNDh5Tktyam9QN3NjSjBMQVJVSkFDdy1kQkNVRXBOcFFaVXBVMlF1YTBhRDRoeU930gGCAkFVX3lxTE55d3hPZzFSR1RWSE1rbGNpSm44Y1VCMEtFbldHbXBBUk1LOVNkdDVBWVZ5SXNpRGdzZDZ0cnA2QkQtYklMOGlIbjBUSDI3aGFyaGN5MUtRRXBRdVRBa0REWjcxbXZnTnlDX1FuSUdqVWwzQ0FBS01HQXF4YTFxY1l2cWo1OS02bGJfWEhUdEoza1NlVzZ2T1Fydkt2d2VBWG9rQThhSUFjbGdnOWlHZDJ4WnBCWW5ZQW1MSjE3cGpQWi1uWkZHcVZ2QXJocUo4OXRibGM2MGdFVVBYN1FFRjU2YjFMMXRzN3c1WFFkTExiemlUREFJNXFkYWREWmRmTkQzZw?oc=5",
+   "published_utc": "2025-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google investment will generate 1.88 lakh jobs in Andhra: Minister Nara Lokesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ29pZjRIQV9zbjJSWlRFQnBJQ09sY1h5RzdpZV9DQktoWEk0ekl2emc3MG1JUEFZOUdpRFF6NXYzTWY1MWJUMWJrSXh5RGpOdTJxMDRwQ2c2NVlyTVNNcFBlM2J1YmNRZ1JtRjdVcC1IYS1OaEF4RGxUWnltUmRCeEYwZHNCdmViMFY2QlRxNF9QMTFqb3lyUURyTmhZZ29mQjROazR3QVYtQlRmSUZBdGxHS3RtUFFjS0ZIN1hqWU90NjNXLXJjMWoyUk5ZQWFjZ2ZDZENxSkFKTXPSAegBQVVfeXFMTm13aE1FZnZLbUtJYzZyc0ZPZ2hTcndWbVhLWjlIMFdFWE9rRlZ4MGY0Y1o0WDFSTjBaUncxWFFNc3FMNHVQZTQtamQ5VWo3Skdzc211c3M4Q1BXeUVFaE51S0lSaUN6Skw3bjRLd3FLcV9JR0pfZUN0WTR6eE9Fc3huRmdpMTFrTHBQeUZ1UFg0QlgzYUxSbmdVRzhjUTlHYnFKcVRrbmJFakY3Sk9odndzM3hVVDRzbjN6ZEVKak15LWVERjlmX0JlTVZqYUpDcG5YRHZhSTl3d0hXVFU2R1NXZW15N3I1Mg?oc=5",
+   "published_utc": "2025-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

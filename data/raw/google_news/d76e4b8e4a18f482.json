@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Digital Kerala project launched for efficient governance, service delivery",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREFKZ2FkNGN0T3JEZ2dMc1B5R1UwQ3J1eWs2N1k5T2ttZHFITWZxSjd5c2VEeDlWM01iM01kWWkwbkZPakVjVzF3Y2dlN2xSTjBCR0p0ZThZcF9XM005WEdWbTVrTUYwdmViVDlNb1BCOE9QTnRPVnlvUzdTVF9YbUFScGpHSHI1WFJrazJKUC1RQ1U5OTdRMDBydFI0UE80dGVwZGZ3V2pGaS1fdFlRd0ZrUUxoaENkcWRoUnR0UEc4YVpnaGxqMFVOX0cwcmNpZElpOG9B0gHcAUFVX3lxTE05Vzd5R205US00ZG1VRXpmZEFRcUxVYmJwMlBYT3UwRHFGTlk5aVVXbEEwMTU4c3FDZTZkN2tSb2FLMERvdFMtbWZXLWJVVC1NeTNjU3BSbnNGdnhiV21CV1hLcGRNQjBmQ09MZ2cwVGxEdzZQSXRNUnJ6MGZ1VHpKYWFUdElhcXpjTXFLenBfRVZwY3YtNV9vT0d6Mk13MkFHdW1BMHJfOUl5MHhzSEk3aVU0cGt1RFFzMm1qQjdfTHk0aHA1cXR2V0pvdk9TamJqZDd3ZUQyTkltTW4?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala CM celebrates golden jubilee of STs Development Dept, highlights AI for protecting indigenous peoples' rights",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOU0ZWdHE0akJ4UklzWjBYSEhmNlpBeURJQUFqV2t6WWV5UG9rMUZWUmxxaXVlTmxyR2kzUHAtMW5IRzJVcmFqclhQSGd3UVpjaWloWlZwRWdsMDBLV2pGQWo4dkI4cE5HVXZlYi1JY0JPa3YtRkxpUHR4S2NHOUhMTlEySnpXRDlPSE1RVE1qOUVGYTZrY0JnbmFUaWJsUW5weHpiWURHZThrTlpVUndkc2R1d1RMbjhoaTNoX1Y3QXV3bll1cUZ3elhLaW1fZmJRVmxEYjdyMWREWk5fVHpLRFd5RU9JVHE2V0d2RnBzZ0UwTlRRMXQ3YWZKZThpVGpxVkVQRDUxMy03UQ?oc=5",
+   "published_utc": "2025-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala High Court Rejects Congress Leaders' Plea Against AI Traffic Cameras, Seeking Probe Into Safe...",
+   "source_name": "Live Law",
+   "source_domain": "https://www.livelaw.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZERja3lDQ0t0clY4SEhGVE9Ub3lGT0hyYTlIZ1hObXl2STdNS1ZTVUhnVDctUGRZUGcySGw3aEVpQXFESUFQM1JGNDduWnphaElSRFV4d09XOXl4dHZOaXpTQkhTa3M3ZHFERmFkSzBQN0tRY2VnTHFEaV9SNzNJNS1Ecl83MC1qNnRDN1dGb05ETFJIX2RrelhHUEJoM195dXhiY2Fhb09tRGNMN05GZVJDVG1ybHZlbW9TNDllTUdIdWRN0gHKAUFVX3lxTFAxWmRVQ1RqMVdsM1hSOTJKb0FIUWxTaFdvTUl3SmxwczBJSTlxUHcwY0JJbm5nd19rc1NGeHF5aTZRRHgzU1JDSVlqaW1xU0RFcGFqNktXR1ZhdnpkMnlTMFFOdnJwYzdyRnZOLXMwN1FOWlhwTFZhSGxRblE4SDN2d3VtWWJZTW95WllidXQ4eVQyak5WOWxTTnhpaGJ3R3NIaUZscGtqYXJYSzRsbWlGMkQwSUJJWjRKblYwR3dhSTd5aEVMNTYwWGc?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In-house AI tool to aid cops detect objects, vehicles from visuals faster in Kerala",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVljSzdLTXlLYzZwZmd6YXNMRjdSbmVuQ2FPMWw2WWpTcjNJSWhZbnBubFVaTnJMM1RMVHVtaHZIVnBUcm1ud2RxMzFpOG9Ua0dDZ0FRRnlnX3BMT0JteVNEb2ZmTGJFTllCOTlFT2l1eDdFMFo2Y0pUOUJVQWhqVWZwN1gxTVhkZFJqVE1IOWo3dEtHRVFCUzlmUGhqUEtJVjFSVXJwY3ZYcDBRYzNWRmxqZ0dHRFhnaXN6aVFlRGg5NVNzd3NHcXVkNG9aREJFejI4aUNsVTnSAeYBQVVfeXFMUDhpSXR6Y2JaSzM1RVl0eGNVNTdubVBaODF3bFg1VG1kT1E0cjFCaXhHYmRUdFpfcGlPMnNFWnNxM2oyT1hWVlVhdXdpNUZ0THJqZWNsdV9Yamg2NXg1VDJSbVk1UHVFWXJqc3FfNmFLTTZJZURndGE1S3FqSkNZUml5V1pjN2wwMlQ0WFZmcEVjRklwRTBPN3BmRGZPcXRHNk1kR2JpRnJVSEdNaGlacGJoSXF1ajR2cW11SnoxZGxsRXVaYUZLT0JtaVJkTUJsV2o2QWxJaFFRbXlyMERtTFdReUdvYkE?oc=5",
+   "published_utc": "2025-08-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala AI Road Cameras | “No Evidence of Corruption or Privacy Violations Shown”: High Court Rejects Congress Leaders Plea for Court Probe",
+   "source_name": "LawChakra",
+   "source_domain": "https://lawchakra.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1T2VjWVF1QVl2UmVjSWZidVJEVUZCN09POUEzNTRueGk1cTFwamw0LTljbHVJOG5JUWs2andBQ201Y055YjJXRkNNclFTTWRQU3p3VkNhYTR6RGpiSWdoVFN3UUlPdHRyQ3NYWWxUcTFHM1c1ZVZSQ2NB?oc=5",
+   "published_utc": "2025-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pinarayi Vijayan hands over 348 flats to coastal families displaced by port project",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPazNrWDhXSlBaZmhwWnhpS3psSUZBeTd1eThEb2w0QnY1bGhuYUtTTDdVQnAyNHo2VmRhZ01mQ3MyOWJmRkg3Wl9yWjdRRXl5d0poTkdYSG5CSTdabEJPQlB5RWlmRmZKbzJWSTltVTB4SUJYbG5wV1R3Y2ZQTjA1UWZQNC0xV2NsR0RTVG55M1lmX1l4Vk1ra05lY0ZxRWI4TFVOVkNLQ1FwRFhKTm5Gb2liRy1lUzBpbFlYa19pUW81aVY4Z3NWZi1ZYTVGSzhheFhrMVpaMFNBWm84dVNxTnk0UkphRm11dmVRQVAzUTBmcnV6Vk5BcVQwWE3SAYICQVVfeXFMTmZNdi1CMF9kdWlNam9WM3NNdTFlbllUTm9Ia2xTU1V6LURlS25KWDdDUGFiQVloQnlURFZ5dUhpZ2FaV3pqVjZkaTNrY2JObW5fLUVWU21zM0lyY1E0cy12RTRGOURQSExXZ2cxVk5Ra2FCdGhYMFpfNjRoRENWMzVCX1ppR3k3SVllZU9iaF8yRjdXMFBlX3hBZGhKVzJHNmZnUGNpay1IaGpkZWUyWkxFcFlEdzdjTGZKX3lrUDB0YVlMdC1tUm9JMXJNTXRlaUdPenJxSWZ3VTZ5WEVvNUUxZkwxeGx0amRFaVIxMWRTNW9Zc0xhRVZ1SThwamZtekJ3?oc=5",
+   "published_utc": "2025-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CPI(M), BJP Clash Over Kerala’s Global Ayyappa Sangamam in Sabarimala",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1hBcDM4cE9WZDkwVjYtVFR5RGJHZEowajBKRUwyVTRQcjc4V3RadjdUenhwYVNvTngwUkF1Z3BRZndzUVhiNW1jckxYek9RU2t0RVQwZW5qc1pNdnM4a2wzRk5zcklIRmtLb1ZERGR1bzBmZkRhOGQ1VG9pMUVZZml5Yk9qdW9RMi1PcWhnNmZNV1RFMGh3REFiMlV3cnVkSkQ2VjNNazNKbTlncVNlczB4UXhvY3pMUmVKT3BRc3jSAccBQVVfeXFMT1cyNU14OW50bjIxUHQyZDhBMHhsM1kzWTh3S1VsVFROOHVZSjBQWjZXV2w1bzZSR1NTQk15SjNsdmFQdnZTVFRXUVNyUElydnViN2R1R3FmOVFJa2tkeUl0TktGTWtCYm4zbExLSzFwZklndWlNcm5BOE9vaThQLVREYmF3eC05WjlrdGJTRnBqb2VwbkVpeUpvM2FPV1laeHhtSFEtbnIxUUtfLU9CYlZDRnpyMDVzOGgtRFEzdld4SlZQTmhDbw?oc=5",
+   "published_utc": "2025-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "We are launching new buses for facelift: Kerala Transport Minister as KSRTC inducts 143 new buses with AI-supported operation",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZUNfOUNZMTZmRmNUREliWF9RQXdKZm1XZ09uUjRXU2h6bnVRMGpJRDJnQjBFZk5mVjAtajRVRzVrcXlJNFNRU0lZX0dMZTU2XzU4cWtKODZHejllNHdsSDRDZEhOcU43Y1JUYTJfa2FNR2lOZkQxZ0d4OEdwdV9KaGMwaC02OW9nRWNLMEQtaTVWcGhOeC1xOVdZQW9PY0FBZ1VfZjFsS24zejhFOU9GYnIwY1Mwc25MY3loTzd2TGp5aGFIa3hOLXhzUVFqa3c1WjlUdENsaUxCYzZVT2RtdmdEWTZMempNUnA0dVd2LUx1Y2FoNEJKZnBFaFM5bVUwRTdnT3hlWjJIUUJaWTUweDJZM2lqcVk?oc=5",
+   "published_utc": "2025-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Police's AI film 'Say No to Drugs,' wins international awards at two global festivals",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazhTdGdLWlgxM2UyNlJ2RC1id3YxXzNiUGc1dTA1YWtqOURvN0h4Z1lqbGlrd0NKdTM4ZW9VN2pwQm5COEpBVHRXRmM5c3FEUndzSU94Qy1PUmtJTVpCa1BhdGVjMjNLZmp2ak5RSl9SOElINWw4SWpRMTRhcGxDZ01LRnhfc0o3QTNwSWh4RHg0UDk3QWdkdTNlUy1ITnNtSTd5dG5MeFM0aW9ZbENkNjNPajRQaG9pcVFfS19fWUFzczR5czNsOTlpR04zUnN2eTJETGozX27SAd4BQVVfeXFMT3B4SDYwS255X2Nab1dfRk9jUW9rakJkTEI1Rk9ab2Y3MFNLdk00TGZWaThjLW9JN256MnIxY0hkLWxjUlVzMndPNXdzSHlLbklMNmcyR2tib1d5MV9FUUU1WU9JcHNLSTVRSnJCNTdmRzhpb1pZeENsMUJKbWoyODZGSUNaeXFuMURjdFpHLXNfc3oyVkFHSWVoWm1oRllsWkVBWTZJa0NSZ0RpRHRRZWRVRUR3dVh0R2JWVG9xeWw3OGFlVEY0ang3RWRLX1c2X3o4UHF0cnVtbGVXcmRB?oc=5",
+   "published_utc": "2025-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Let them fly like butterflies’: Kerala Minister lifts uniform rule for Onam",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWdERkFPRHBGc0FsdVFiS3A2S1BKV3k3aTdseTl4MGtyeWtGdjczMS1iUkJCaUNNY1VSQ1R4SFdNS1VHN0p6bER4Q2JGM24xcWRmUVRRUXhOSEhXV1pjZF9faTNVYXFMdGVNMUNaMWF3Tl9RQ3dtOGFfUVhYT3ktbGFqbXlFanFycFBreWVaQ3NIcHdBOFJEZTJJWEZmUFFFZlNiZEJvZjZGTUVNbG9Gc0gwYkpzb3ZC0gG-AUFVX3lxTFBCVndTTXJWc0llSFpDT2pfYzFSZmNwb3NXTGdkUkZudTMtMHV0cWNGeUhURWFaOXlrVkV6NHd1ZDFLdV9VQmdLeU5aZjhFVmw4SFI2N3R5MDZzM2tTRTFnTVFtOGhUSDUwRThMVDBPNFdyNTcwTzF5RnBhcXlHWFE2WVBnS0RLNmIzdk4tcWVhdkFzWk9qX1hwRi14cjMtS2xtbElXdnVLZno3bGw4Q0l1dDlDTEpKdEdPc1ZsVWc?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

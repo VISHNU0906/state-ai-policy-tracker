@@ -1,0 +1,85 @@
+{
+ "query": "\"Bihar\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Bihar govt to use AI, ML for bridge maintenance after series of collapses",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNangyNF9hdW91QjYzMnRLN25vOF9zTV9uTmVRcUtkOXpQQzZNM3cwYjhELV8xcVltWVdYc29qOGJ2OUJnMlIxNy1tMlo0Nkg3Y1RFMzZISHhFcEc1VkdhdUo3bmhOa0ZSVXFlbGpaamJFYjRUWFNWd29QUk1QMk1sb3pVMWY5T0RWRG9UaHMyTlVwcW1WQ3dKcjlURXpWemlzOW14cW8yMUIzbEl5WmRKejdTSWJ1V0FXbXhBLTI1ZTBBWGlTY25ySTlHQVlhUG9CdVo4Y004MUNiNHE1UkHSAeIBQVVfeXFMT3VUYU4xQ05JRmdob3QxWU9aeHFBMklzT29JeFlESWIyVWRaN19iY0xNVWtDWTNKMk0yWTYwYV9ZSUdoWXhwMVVWR0psNGszQVAxT3phU2ItdVNEbGtDcmZ1QW9zYWdDaU0zTmY3NE56ZzE1eEdRd1VZZFlfVl93bnVHd2VRTUhWSUhjbDNIaGg3bEYxVFM2alJTaGtxRnBpYmJfcWVrdWI4Tk03MV9nUjdWN1l3NVl6Mm0ySDl6cDVodmhseHAzQXg0aUVOeDBDWGRpM1hDMm5TOENGWkJRY1E5QQ?oc=5",
+   "published_utc": "2025-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Delhi to train Bihar engineers in AI-based bridge design and health monitoring",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGVIaGFWajNrT0pSclBYNWx2TlBOSzBtc2RXRjhXX3J5ZlRFV1JJeDFZRGZKLWtKZ0ppSFpEYTdnTGtvTU94OVFDOXEtYXZvOWZGS1Y4WS0yMThnTWVVa0ZLNm11OGkzVDZaeFItQWpsMHdJSDNTeERhaHVPWEZlZzZ4LUs0aERfdFVjUGt1SU9OTjhLY2JQODVLd2o5SDlDVlVFSmM1d2UzQVMyMkQ0YVhISnc3M2pUWmMtaHBfX0ZXQzhsSUVCRm9CTUxnMnhkdHdwOXhkU1ZqWC1CczNpMnZCdlhGSWx5TEFJ0gHwAUFVX3lxTE54QVFVeW1hVk1LUGZzSlFEN1Y4LWpXMFpfcnNaU1hCRnFyT0RUS01OQVd0enJlZ2JVdlJkNk1nSkQ3ajU2SlFqNlVJeXVfRUpSN2ZfdkZucVM3dGpXX3NTdDdmREV5TmJWVkQxdURyR0ZlZVp3c0hldDdhOVdhUG1Lcl9zZFdKZjRyX21NWTJxRWpWczRKX3haNEZjSjlGWGx0ckhZYVl5VnUtWllTY0ZNOUQ1UDh2REEtZ2o1LW9IOWpBNkNmY05BNnZZMEE4dHJLSXk0bzJkMk1TQ3M5V3EtcHBKZ3ROcVV5eFh0dlktOQ?oc=5",
+   "published_utc": "2025-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Delhi to Train Bihar Engineers in AI-Driven Bridge & Road Design",
+   "source_name": "India Education Diary",
+   "source_domain": "https://indiaeducationdiary.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2lsUDZtTTVCUzA1Y0cwZlZ6ZlFJNm1MNGJXQ1p0aFo2QlMtd1cyLUpIRHNORktHNjVoTXNMc2pNaThNMW81UXlpUDM2Zms2SUE3bjVxRUJMcmUzYkE0eWItQUctX0R1MXpLNHp5VmlxS3FxelpjcjJVUlFXSTFwTFZPZnAwdDBWN3BMcGo1ekdYMEtXdEVNd1dROEF1TkU?oc=5",
+   "published_utc": "2025-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Loudspeakers To Language Models: Bihar’s New Campaign Worker Is AI",
+   "source_name": "Decode Internet",
+   "source_domain": "https://www.decodeinternet.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1cxeTR5Z1ZuOXpuMkJ0TFBuUUNtOTJwWS1jekV6a0RLdkpqUENIQTV4ZVNmUm11QnFsem9sYkoydDdxeGJoRXlySzhBYzRtSzdidDJSOU9ydzVqNkg5NHRsY1lKdkU2ZDdoZGczWmJELWtHblpmaGhBTkw4ZEFnTHBlQjVqNXRXaDNrUDRHb0dtRjNOU2hpUG5rUXBjME9LWlRIRGo5R1pGWk0?oc=5",
+   "published_utc": "2025-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Govt To Establish 10 Cbg Plants By 2025 With Rs 1500 Cr - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkQ0MDBLcl9wQ3pkVFhJeFBNQTNua2o5X0RvbmQ0UHhTZW9EZ1NCYk5BeUdYTk03U3JEOUQ1SEc1WFZlX1ZmZFNlSVkyY0l6NGlsRDlQVnRKY0lQVkZTcVJXOGdabm44SmRVLUliVkc4dzQydWhDcEpRMkpfV3B5WXFNQzQwMUxlUVJsYzV3d1Vja1lRbU1WTWNGTDNYemtCcllEQUE3OFJIZk81TUVZ?oc=5",
+   "published_utc": "2025-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Free land in Bihar if you meet the conditions; incentives for EPF, ESI, GST will also be given under this",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd2ttNmdRVm4tWlBnekZYNWRFeXFtNGM3X1AtNVktNV82REdYcmI0NGdFYXNFSXdTbnNIc3ptZTg1VVZfLVFwOHBzQm50YlJ5eUJwVUUxX2ZGT2MwY0Z4aEhqUVFBbE56WUdlNkgxVkRWVGt6bk9PbWpsZFg0dWRXdXF3Rmg2a2diVU5sSzVXMDFwb3Y1TlRfSEdIc2ViemJUX05SbDNxNEVxTW5CREl3WUlST1dtVTU2dVptaks1b0RNVlpBbUktWm9uYzJnT0g5ZGZXc1ZpSW5oaHhTTUxGc3ZaMWxjUGwyUDE3cWtVT1ZDUm85Z1Rla0hnTGV6SzVZNHpxWGVR0gGLAkFVX3lxTFBTN2lxTWY5bjdnNk1oWXQ1T0FoaUpMeExyZkQ4X3hVN0lJUENUNXZmc0lUUzN0RnpRam1PWk4tS3ZaX2lDbXN5Z2pQczZFWjc1bFBBQWdHeWx6OW1PZGJkcnJGR2FodnN1cVpkdVg3UGtELThkUDdaQjdPZ2ZzU002TEZpa1kwdW9zbWdtaXpUNDJpRGUyZ3NUc0dHbFg4ZjVjQXUybjdkdVRWaU4wTTlwR0F0d0xTSTd3azNSaFVsVWNZQjRsMkhJREZyTTB2ZUN2RHFEZHNoSlBNLWtXYlpMc2Y0cXJTRnhaZEt0VVFQeFlSUklKOU1TUHJjUDJJcy1udDF6eEtUWXhJOA?oc=5",
+   "published_utc": "2025-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tejashwi Yadav writes: Bihar asked for special status, got ‘Special Exclusionary Revision’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0llTTBYbkU3MzJOM0l0d1FrejlTcG1XSks1MTN2LUJFR0R1WDlySzNpQ2duZUQ2eTVZb1J4SjZ5Y09VQzdpMjFkRlp4MTYzU2xNN2tUTjBhbW5aVVdFcUFCZWFPMlZ3Y2J1OXk0ZDNsbG4wR1NfSFc2NkluZk53WHF0cnhPaUZkbVZPQTFoNFc0azQ5b2xHNEU4MzctV0pldDBVemdOblFnckxXbEdha2l4VVFhSTFnNi1XbDlmY05aN1otZjloSEVn0gHQAUFVX3lxTE1zUkZtU2tCQkRfWUxLdUZkZHFGcjVGcm9SM2xRdkxjTXQtOHZvVG5BY2M4YTBpWnp2cWxKbkIyenR1M0llVU9pTmR3ZDM3anBmR2FJRWdNUmRfdnYxaTRjalpPNER3cHh4VWcwMFdmajZkTXlKVG5BSlZ4NzJmWm9qeXdLWlpENXZzelRpQ0I0eVg1Vm56VGxKdkxFY2Q3VnFWejZYU0Q1WjE5eHpLRFNsNmNjTlZ2M1ktLXh1dnBrZzcyc1EtcnhtTmNIcHpKeFQ?oc=5",
+   "published_utc": "2025-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mithila Foods, an FMCG startup focused on Bihar-based food products, raises Rs 1.5 crore",
+   "source_name": "Indian Startup News",
+   "source_domain": "https://indianstartupnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR2tkNFc4ekw4QkdlcTdVWE1wQ2w4ZmNNTlI4dFQ4TUl6LU10azNmTnhiUlBQSVRIOG5WZ3pyTzljZzJOdlkxV3ota0hpRHhuYnFaX29CRUpwZDhyQ0xUamUxdzhjN2FBVGR5S0NNeHpxUUhTZWxPQnc3UUU1UXR2RXA2bTZXczFCZUJPUFFwZ3F2Z2ZqUEJSLXVTanRIbU5zLVpKRldscEZjdEVtQXdfOVlXTEJkaUsxNnFBUEZNemlvZko4dlBsMWYwMNIBywFBVV95cUxNR2tkNFc4ekw4QkdlcTdVWE1wQ2w4ZmNNTlI4dFQ4TUl6LU10azNmTnhiUlBQSVRIOG5WZ3pyTzljZzJOdlkxV3ota0hpRHhuYnFaX29CRUpwZDhyQ0xUamUxdzhjN2FBVGR5S0NNeHpxUUhTZWxPQnc3UUU1UXR2RXA2bTZXczFCZUJPUFFwZ3F2Z2ZqUEJSLXVTanRIbU5zLVpKRldscEZjdEVtQXdfOVlXTEJkaUsxNnFBUEZNemlvZko4dlBsMWYwMA?oc=5",
+   "published_utc": "2025-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Inside Bihar’s emerging startup ecosystem; Parsi Dairy Farm’s journey",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY18yYlVsV0xsV2pSZHNpMTZTeHVpSnY5c3VwdkViYXJoMF9ic0pTWkpHWDI4eFRTTlhWa1lyMGZ6cTdTXzd0Z1lVMC1YcHJ3elZ5cHJGekduamMwbF9JamRSUF9pSXVVSVUtVnJ2aGZ6cXJkVi0zYnVYamhjQkpxZ3QzQmt0NGNNX0EzZXNneXQ5NmppVDJpZmpOMA?oc=5",
+   "published_utc": "2025-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar elections: 7.2 crore voters in post-SIR Bihar draft roll, against 7.9 crore before",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2FMcWpXbjItUml2WEUzNnVueVBySFY4VFR1UU9XS1FodHcyRk1LVlpIbl9Zdkc4UGszbHI4RDYyZm1sWVdKLTJldFZqTGJpOWNlMzhXZVdubl8zSm4zNjBJdHVyQWVpaWNNNG5nTHRZU29CTWdCOHd5d21WSjJiNzNJdk5NUDF1T3dBd2JJR2lGaFM5MmtMd0ZvYTc0NzdCU1JRbGExbzN1bF9ZOU5veUNHclRKTjhFbWlhUkoxdlV2ckR5R3phVFBR0gHPAUFVX3lxTE0xOTlnU2FpSEtPc05KUWdJLWk1ZXczQVc5YzVwdjFoeFpPRFF1SU1aRHM4M3Mxb09aeTBZekloeUFaMHoyeUhMLUxUZzMwa21yVkk3VlloUEhDdVVZY29Rdi0xWEJyWU9UU0tkWVVkUVBZNkVCV0NYMXZpS3NIdElUa2tHcnJNVFZVbDdYa0VYUzNoN2RNdWRaMUVKRFY4NDdzTnYwNkRfX1lJc0JSM0xiLWlDNmpFU2EtNmRXaGxYNnJUUXNUSk5aZThqbDhUTQ?oc=5",
+   "published_utc": "2025-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

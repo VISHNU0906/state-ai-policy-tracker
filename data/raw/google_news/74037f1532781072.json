@@ -1,0 +1,21 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-05-01 before:2026-06-01",
+ "items": [
+  {
+   "title": "Google team inspects Adavivaram site for AI data centre",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ3g5Ujc5TmtURFF1UmhXbkFQNC1VRGVJblZibGJ2MGk5ZTl0V0h4bXA5SG5ZaVIyMmtYT3I0X0x5SlBCNEZZU0FhUU5UbGRXZFNBaTJKVmZ2eDYwY3NTSF9TT3RldHMzSmJOb3liNmY1R0Rzb1dGekVpNmY5eXJVLVFNZU9hMmg5NGo2bUROM1BOLVE4UWtOekkyeWYzMVVJQmtZWG9LZ1FKLTZxNHNLano0V1JHTHdjclFUSnM5bzZmRjlEa1VUbVJSNXdyZ9IB0wFBVV95cUxNUjUtUVBieExZYTU4d3pqSTBJdXdJb3JLRHg3cW9lRWlUNlQ5aVlmWVhoOXRLSURzcUdfdWRjdllYcmZRWlFFSUtvcVBPVmtoTzZ4b1RWQWVVQTNfY3RaMUVEMGZ2dUk0LVZ6WEFDVEUzVTJaY2lXOUlIdkZGRHRnY08zaWhGS2p3SDNUbEpjLUYtN09LMnVhdjhLWUZyV013VlBETWY3Y1NFVXZhdEFMeDBFNC15bjlqb1NYNHRvOWVZTFNmYTFycEFzcnVjemZobGkw?oc=5",
+   "published_utc": "2026-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tripura CM inaugurates state data centre for flood control and water resource management",
+   "source_name": "India Today NE",
+   "source_domain": "https://www.indiatodayne.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejV4SWZqbl90Rk56Y2dsdjNiUndPYTJqRy1wYjktMEZtRDhqWWh6OE0ycTIyRXRHanJGS1YzOUlrMHA5cnlGanlyRFNVUlVQc2JrSW50LWhmaW9WR3BNQUdCaUhSTmd5dUtHT25qV1lhbkdna2VLWjlibmpTOV8xcUtsU1diU3Z2UERfMlpuYkVSbFgycVJUcWV5UTJkTVNSb1lLUFhNVnhhWFpiNEtEMUc5a0k1NUZyVEs4UE1nekgzTGxldm5CLXRyRi1pbUY1dWhuUHpzdmRnbktXVkRISndPSdIB6AFBVV95cUxPZy1CVTlHMU9kSkxnd0xUMlRTcFZPdzZBczdRZWlJMTdaNG1xbHZlSXJld3E1SGxQeXNmamZid3hjdWFSV1phVmVwaE42TnpUYXlmcDk4R1hpUlhFY3lleTdKVGZtVnUya2F0UUYwaV9ZVy1zYTlkZnlIWG1WYlNMLS1iQTQ3UUZVWlB4bEdqekFHaWR2eXJoelhlcDhRemFtTEg4QlBxOTR2eU9oaVJEN0h4WHo3RUdyMXFrR2Nnd3NzTUxsRFFwck1nUlNabFpLaEhPUXRzc1FNV3BOcE1Mb2RmRGRISHht?oc=5",
+   "published_utc": "2026-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

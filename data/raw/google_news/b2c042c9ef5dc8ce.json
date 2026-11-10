@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-09-01 before:2025-10-01",
+ "items": [
+  {
+   "title": "AI in classroom: Can India bridge the gap between ambitious policy and patchy practice?",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjFoRll6dFlpaTNqNmVKTE9XNUtfWUUzRGRTb192MF9QdVBaX3RUQWwzSGxzUkExU1U1RTFpZFNabm9zc3dRNE5ha1B1S25XOG54S25RNXBwUDJUcUlwYTlkRTBXOG5OZkVLT3Iyd0ZCWmZYbzVRbWZpY1lpZllrZjlXOU5DS3pMVnhMNDJXbzR1SS1zQ25nS3JyRWZ4a2JRNGotVXRR0gGrAUFVX3lxTE5pTTNlUDY3ajNhSElCcXBpWFVkSlRpQ0RZclBJaTRFMVZSYm5uRGlRS2drb2ZZaU1jZFVYbkhuMVVUQW1Cc3JpQVpiNXM0eU5wN2dVSzd3UmxnTUZpZGxCUTZXRzhIdHFqR1FzX0p6TmJXb0Q1UEg3bEJ1Z3NoUGhHd0M4bl92ZXJDLW1GTVk4clMwU3d2WF9tYnp2WGpwaUhYamJWaHFFZW11QQ?oc=5",
+   "published_utc": "2025-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Marathwada floods 2025: crops lost, farmers in crisis",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYV9tZDFiaGo1aHJndjVRSElJSFpsdTNtdkZET1pMT05wVG1tS2V0Nkw5T1lDQ0F6S2tiaWcxM25uZ2NJclFabGlPVDh6TlhMQ0lXMVQ4aVA0S0lLdy1fc0YyQjdLaURsa0c1bmNIbmYyZVNCVXNVN3NiTG41VjluY3NGQS1GTml0SFQwTE9fVmE3YnpVbjg3eHNzZzV0SWloN0lWWlp1MDJFQnVr0gGzAUFVX3lxTE5DQlZMYk84SXZoVGtIVXBneXBEWHQ2a0FBakJQZWNITTdOSk9OYmVFcHhfZDRaNzh3ejZUTkVhSEQ2c3NDU1hfeGZwUjBNRWdrZ2FsaUJhZHJyZ2VkcGhTcGJxLVh5R3N5RTFhcERmWlpFNkNMRGxSWjM0aElPTFgtQ21lUi1IbmNmVFdtN3JncHlDMTVyQlc4QkN5bzAxcnFBMjFuZEVnbHZQX1J3SlZzNWZN?oc=5",
+   "published_utc": "2025-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "1,66,746 students confirm admission: Rise in admissions to engg courses in Maharashtra; number of vacant seats up to 36,000",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdUQ1c1d4MXBtMEkzc05FRUx1eElIX3RxR0RKMXgxRGVqVm1WSXA2NjlZRmpiRnVRU0VRT3dMNVRwMXJxQXFNS2VZUVpjeFI4UjRvWTltYUJQaDRiNWZlY3ZBUU1UT01sc1VsZFRLUU0xVDJyNG9ORFVQT0JBd0tqUHpzZWl2Y0wtZjVkVVBIc242N0J2R016cVpLT2FuVmNkMGVOT2ZNaGRWbzRFU2lJUnJGLXUtRy1tWUpleXM1S2Q5Qk5GYldIUkdqQ2F4aEZGNDc4VXpjMlZGM0UyTmZDTUY0NE1ZZ0NYb2p3ZnZJUHltUUF6SGo2b1B3d0hpQ0NxM0xodUY4d9IBjgJBVV95cUxNZk54Qi05bDRabS10UTJQSEQ1T1BMWUp0S2NKWGJ2NWtDVjRzOXpsZkNTdTQyUklsNUthbWhOQ0w5bEtRWGdfd3V6anBpSHRtTkZjb0pqa3c5VndDYThRRHJDcWpDTFZ6ZkhfWHVRVXhvSW9IOEF0Yk9mMjUtUy1pVXJ3REQ4MHdNMGNqV095MWpId0lPZ3JBMkNZZlhsUndjbTB4VjFheFBTWFY3X2lSTkdfUDVBUjJocXpHUXZ0NEZCSzJ4bTJkNGU2ZUJ4dkd0R1BoZmJJVF9Ia3c2X0xSMEtiSHZHdDJQcHZrdDVMTmNnQ0pXTE5pamZvSUhZZGcwX0V6OVJfNWV4WmFiR2c?oc=5",
+   "published_utc": "2025-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Frontier Tech Is Transforming Indian Agriculture – AI, Drones & IoT",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0ZNQTRkSGxsNGhKTElsNElXby14alVRdTNRSEZxdVdPLUJqRnJzb0xZY3owZUZuVjlGRGpnRHBKMHRyY09nMTlYX0J3QTZ0Y2FoeFI3TVJ5VV91UVIyTGFZSWwzWlZDNlh4WloyajV3dDNianh0QXo0UHRFVkZZWXRoN2VSakwxWTN1andPNHo0X3JIRUJfUDVoRVo0cy14RVNOeExTUks2a0pGeDZQWGJEWWdBR3VmWmVGcnpQRjZ0d3o3ZjdsaDZUc9IB0AFBVV95cUxNeWhLUmY4aVJSbzhfYzZOb0hrLTFPVmRuY1AtaDF1eTM1WHcwa2NpRlR2VXIzYzZ6UDZMWWlIS1JlUzVrLVRDX0pjMWc4dkkxOGpNaGlpRTBqSDRwUGNOaGdXTkZJMjZKM19PVHJVV0FTWTF4aWdyZGltb2stYUFOQ2dYNWVfZVVuTWlDV01qclczZlJlNlNDQmNjZmVvNzhLbWdUay1PVHU0QVpfVHJUakc4bmZGYjFnanZXaWd5b2ZBQXVHTGFQb0c1TUZCWG1s?oc=5",
+   "published_utc": "2025-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "These agri startups are using AI to predict crop diseases before they spread",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdDRyMER4TXhxa2xpZ0gwUnNEMURKamJoSjhuUkJ6b2J3VzNFRDFMTEh1V0dGSWFmMnQ4bDF2MDdGLVJ2ekZFTDlPOEpIaXJwLW8xTVlUVDg3eTg3bWRWck5HM1p2cGNkZUpWSXlqTGk4RlV2RzhvLWNvOUV4X0E?oc=5",
+   "published_utc": "2025-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Are teachers ready for AI, coding, and drone tech in classrooms?",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ0NTSm5icVBIQ0dmVFVCdE5jU3ZFMWk5Nk10SjFUVklHbXd2Sk9oWVRnbDkyT2JXaTZPSHhzRmx1cjVINVNMQUJldlJKUEpXTU1HMEZGOUtQTVQxRlFBNkJMV1A3QnMxX2szWDNVWDdLUUNkREhybURXMXdGbnpjUjVNXzJCTndsYnpJM3BYLTZneEd2cFMwaHNOb3dWejg4NU9wdE9IU0RBMTNodEUwRzE4WThfUmU4QkktYVU5ZndJZWVBUGFnZG1sZlYwai03Z0JBTlA1LUlqbFItZXVFUlIxM2J0SDhudmNR0gHwAUFVX3lxTFBBbDVJVUdFaWx1dmtaMTRVazBZVUMzWG9DVS1IUExOTGlXN2k5WE5PMGx6MEZOcVRiS1BEa1hJY1Q3cVZJajE2dFlUWTBiR2pIZWpWSldUb1NpRHU0ZG1HSGRWaXRhOGNrdTd2WEtOdzloNk9TZVpUby0yeU10Tzl6V29lZFhPbUR6Yzg3SEhGOG9KS2JLSEd4TmZDVi1MSk5LOUM4UWQ1cWNJRlRRZ1Z0SWhraWlwcWVlTm1RUWozT3FKaDBOR2Z0SGpoajBoOGNKQVFKblF6Rk1xbkQ2S3lYdmlhUWFFX0pNcEVNQ2JaTA?oc=5",
+   "published_utc": "2025-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From JAM to AI: India’s journey towards inclusive, seamless, secure, citizen-first governance",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeFVYQTFTN3B6aUNXNHNFZjlfQllLdGdsZFRpLWxMMERBOGlhOW84YThoUG9ERkN5VzZEYmtNTjRnUTNuaDB4SVozUXJYMlpaTlJ3ZEd2UFFxbENEY2I5SmZaelpxa0VkYVd0eU9PWjR4SHhyc3JDdDNOQ1N5b1Q4R21lM1UxVUZxeVRUeGpENG9BenBmWjhlaWlYVThObGpiWHBuaUNZTW1TNnRaWjVoY0RrYTRYVGVqVEJwM25kSUtZSnJCUXh2Tmt0VzFXX3ZmNmtNSFJkUEbSAdwBQVVfeXFMT3pFQXN5ZENDejZIb3hxZ3lhcThhRWh1YVQ2VmJxU0hmaEhqU0RoTFczRmhYMXJvWXJRbVdJcXBLUVJBcnk3R2RzY0s5UmNaYk52MFNBTEdjRm5rclU4WHBPV0ZqYW9KeHhSd3ZHUG1QeC1QSE1lTk5KbFB5Zm5kbWZSaG1leXZoTGhMVmJ3akdfYm13MWY2TnFPakxyWE9KbDZaWE5aaGVHN0JzV0JEVERNQjI5UWhIMF92WEE5dFVNckdkalJwT0IwN0JUaVJudGVwaFlTWjFQVHdRUw?oc=5",
+   "published_utc": "2025-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Law meets technology: Why legal education must evolve with AI, ethics, and global challenges",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzFrTE92TXJrekhRbkFTN016RGQybVd0NDBPSEY2dHNsMFQxWHZHalM3QjlOTUJBMktxaXoydS1IN1l0VDlYZGVGZkFoMkc1Yk91Tm9jVGE3RTMxdkFyUjFiZ3V0QzZFa1pVWjhPd0dtYnpQVl9KSWpiRTZrMEdWazVfWVFCRTBtY1ZEYjRXLVRWd2xiQXpxdUlTLXZ6dVozNVVOZF8zTThkalA2ZzVLWGlXM3ZSMkxPSFpEemdWWm9DaGlYbDk3aV9lWWZIRWd0T2fSAdYBQVVfeXFMTUxSU0F6b0M3UWpHcWJhWk1BVTk5akJhY0RGRDNkQ2NWY1lkTzlFWXpxNTQxQzE3emVkRjRfRGtsdFhvRTMzMWNhaFVtYVozU096c1AxeDNBQTFFd0l6YnBiSEdBRjJhcmo4QkU2elJOZEh0WFBzWGRIaVpuZ3QxMEdDMVU5a3BDdDRPQ2gydEZDTUJSWnVXNjMxUDRuTXRkbUhDVUlmZ0tfaHIwSDZRTFVZMThmYVJTUmcyb1dnWV9uOE5VVENUbDhWb3pnc1p0VDhockxwdw?oc=5",
+   "published_utc": "2025-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reimagining service delivery: How CSCs are bridging India’s digital divide village by village",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVlNSUlUYTRBci1LZnBzTF9oM2NQYl9WcFk0YmxLbWtSVk40VVpzTC1SYk9jd1pOcG5GeGdrc01DTUpqdV9seU9FZFpXVEtNb0ViSzZDSFVpd090cmhOQ2F6dUlVQUVfQWxWRW8wYWF2ZmJzX1lxRThkN0dlakJRamN3aDZvZlFuMnhlWGk4Qm4zQXV3Y3FnUG40TjR4dDNfZWVjWTZwVnJRYjNGTy1pM1d0Q2JZZ2ZraGRfcDRacHZ3NV9aSW94SlFzQUIxYjRfcWhsM0YxQWs2RUMtNTBUZ1NfQdIB5wFBVV95cUxPSk1UcW42UmpnanBnUmhGUVlFbE5oVzVVc2ZNZkJuVk5UT0czWWpPbnlnbUYyRmZnMjBMWEwwR05EZ3M3UjdQQldQejU2OVY3dWdNd2FwaEQ2ZDl0UzlQcXZMWmdnNHhBNjdTWW1sSTVFeXJLNVdTcjRST1BqR28ycVRPXzJ3SFVWTFlpZjIxRmM0MHZOLThNQ3dOc2ZfVXZEbUVoYWRmcHhWRU9GcWhsVHhnUzZmcXdoc3ozbzI0bG9QdDNxRFU4a0hqX1Q2dkxLQ3ZOUW10bTZVVGowd0h5ME1hdk1rNzg?oc=5",
+   "published_utc": "2025-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "GST reforms to inject ₹2 lakh crore into economy, says Finance Minister Nirmala Sitharaman",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbHVNOWljdWQ3X1dPU3VTWjRoT01OR3EtVzRnN3NiZk44LXdzYmVqOVFRNFo4dlRxeVdCem1wUXp4Y0xFY2dHYmRucE9rdWN0T0dqMzIyTWliOW94cG4wd19fZTRyZUhiLVVDQmEweDBnb2J3WmdpY0o1Ym5uMUwtWmFhSzg2S2ZBLXBrMEhaLXU3TVBsVHUwX0hmOE9rRlNCMkYxU0U3Nnp6NFdxVDJXVG1nODdSOVlSc2x2dVVnT1YxdnhlYUFDVFVFMUtjZmF2Tno0VDdjX1RXUWtwcGhZRWdYM0dxakZqWG5fbklJUXhBR2pkNVg0ZnBVTdIBgAJBVV95cUxPdDVsVFJWdFlvNGN3X2d4WmUwQnEwMHBWVVNwTWY0cnR1bGJWX3dkVUtFTzFTYlJwRVFRTUxJeFZZMmRIeFBXMVhEUGxnQXB2QlFmeGFVRlJyZ3lKMnZBUEZiWm5YcjUzMTMzeVF1SExQbXRLTXpmN25wWThURUxHMC11WHo5N1N6TnMwRWJlQ1ZIbWFtRVZWQ1NlU0luNW5ZRlk4U05ycjBnak1WSmNUNjhRM2hCVjQxdUhIZmVOaVFub20wdTV1M3pPbS0tbXBmWU96ZEZFd1puWUMyb3ZlaDdzZDY1dDIwbmlDYl95RFRTQU1jVlcybjZWRHNWT1ND?oc=5",
+   "published_utc": "2025-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

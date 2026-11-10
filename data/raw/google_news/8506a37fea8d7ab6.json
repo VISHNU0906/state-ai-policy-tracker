@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-06-01 before:2025-07-01",
+ "items": [
+  {
+   "title": "Govt. inks pact with NVIDIA on establishment of AI University in Andhra Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaF9DektKaGhXX0ltSmJtTHcwTTlJUUJRQXJsVndoX3VEYXJhSUtmLWZhSkwxYmU0dFg2WE05Z1dUSmQ1WFlLUEtzS2Zha0Ntb3NOOVlGcTlvSUh3N1JhS2Zxc05pUGo1ekVHVDZ2RkV3cWJQekI4aWFNN3oxVG82MFZkZGZCblM1LU84RlRkVlVud28yeENJNlZIYW90VGppYUZib0hfZjQzbGNrb25FSzE5U1A2V2VHbjJwd2dxdGtUWmRTUnRIeHdFd2xMOEZ5S25zSndOYzBwZERlLWVTZHFIYXgwMlXSAe4BQVVfeXFMT0QxSlBOOEk3dVdTaEpkRXYtdXRQZEEwSk5XeGtNX3VNbDdWOVhnZ1lVWTBqblhaZW95NDJ2RGROVi1LREZpZnZJQ2dqWE1zTmdkVWZnbGNyWV9FQjhyWEQ0TnZMT20tdjZ1Wi1vNTNKdWE1ekdGVnZPdDU2VVk1bVplZWl4eGRBM2lDaTM5WGlBSmV1MzRQUW1FdE9zOXEzY053blFDMzlabmFTLTFob2ttYnBTdmlWbVhjTjRoVjdmX0NkakVwT1c2V3hiRlBhejZ6NkNXaW5MSkx4YldWckJJNlhSLXBXRmVtN2NXUQ?oc=5",
+   "published_utc": "2025-06-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh signs MoU with NVIDIA to build India’s first AI university",
+   "source_name": "WION",
+   "source_domain": "https://www.wionews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTVJaWlGSVlmSFdzd2FBWVBCbDVNTWwtbG1pS01HcEtzdy1sVlB0SnEwaU02MnltaFlDQWFzdzBiaF9pQ3RVdTN5aVZJRkxPMmhiSklkdWRzYnhJVXBiWFVyMEZPQ2xGUWdNSXN5UUQzZUowb2t6S2R2d3BvVFhraV9udkMxVFlYdmIxdUpLM1lZeEpMUkM2YkhvMWhtTFB0N1h0ZDJ6VGluVGpCVkw4WVEzaG8wQmFjSHA4cU1xY9IBxAFBVV95cUxPRnhNMkNIYU55eTB6OFVDaHFYSHBmdE41ekczNXJJejFEbTh1Vl9WVk44NTFqR0g1N0V1dkVWQXpVNFJhNUJhbS1WaTFxYTFKdnpMdTZpc3Eya0gyZC1INC1aQ0FxbFA3bXQtNHVQZjNEM1UwbGxhUGU3d1g1QUZzY0dxbENtM1doV2o2N21JQnZGajlVMXFYbmtIV0xnM3JMeXNGRFlNdnhaZEI0MG1pdUp4NGx0SnhGd01lei1fSzRLNG4x?oc=5",
+   "published_utc": "2025-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cognizant is set to make a landmark investment of ₹1,582.98 crore in Andhra Pradesh by establishing a cutting-edge IT and ITES campus in Visakhapatnam. In a move that signals strong public-private collaboration, the Andhra Pradesh government will allot 2",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc29RQk1ucUgxMF90V1A4WWtVMWh3Qm1kLUJnOUlINXNtZlFIMlJyd0gtLS1lREV4TzNOM3FhQ1NVb0haMGJVXzFOaEJmelhoT0VPMXE1QkZOVXlRcmlmQnBDZ0JYb1RWT2JpV2pSQlduNnAwMlgwaHY1MXJLMmo2am0wWVhEVWNjc0VBVzRjV0ZxRFVCQnZ0TEVsd2oxaWFCaldhclEtblBVU2dxQ0tiZ2xXSUJtTGg2THBGVUYyUThGV05TM0pXa3N2M3R2cE5kNnc?oc=5",
+   "published_utc": "2025-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP signs MoU with NVIDIA to establish AI univ in Amaravati",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMTRfSl84X3FUNGZSVEtZbE5IWVk4bUxibklOblJuVC0ySENyRll0TXdKVnhtVktQVkZWbzhMZWtSMzFhWEZSbEc3VFBhRGEycmxReUVuTlZPd0xqNUhoSEdlMTVWLXo3TkNlZ3pBYnRJTVdKV1FtR3JFY2tHU29iUjhxUy1YVUJwQmZuLUtGYkdvNEdsMV95dlJDcldnbGV1aUFoZXIweDVEdHltZWR5clAwYy1XUG1VV2R2QnlnVURKY0g0TmhfQzRRMlhtZi0wTHfSAdcBQVVfeXFMUGUtdmdsOTFrRk1zTjdidElFdERWV0tyeDlUdEt2NEN3RjlJU1FlWENBM3hxUU82RlhqdEdPVldqM2I4eFhybFkzUXJubGR4Z2J4ZC1oR1FDcTJrYS1VZjRmLWNlVlcwZnZaVXdSOUpRQ256SzZtbEMwS0JPRC1NTXlEZ3Rjd3RNdkxxLXlZM3ZTbGVCT3VCa3J2dlJQSkYxVF93NDhUR2ZIYzBGMVc1T0dFeEFsRjNUWW5FMzZwNTcydlVMcG5rd3VjaUNMcWFvbW1KRUhCSVU?oc=5",
+   "published_utc": "2025-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "14-year-old Andhra-origin tech whiz creates AI app that detects signs of heart failure in 7 seconds, follo",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOUzk1ck9WOENtLUFVbEdjLWcwTG1fMEdCTXZGRmV0ckx4TWxGMVhqX3lnTDFZT2VtRUZJSzNzWWJIbkdYMlNPN042UEQ4dHVfc1N3UmlodDNMZFNCYkFhbFdYbFQyY3hmc1hQeHU5MDFrbDlzQllxZnZIRFFBRTczRTlEQ0Jlbk1NQmpJMC1VcUVpMlllTmxJdGxOLUJtSm1USmMtSjFaMjBvYTl5dl82bFRiNl9FN2kwZFJHc1BMZ2hMRmR6Nkw5TXZQS2l4NWVEdDJxX056X0RpbEhkaFdydTRpeTJVRElnQnFzWnhhNzVzb1FVV2xuVGlwQ0ZVTmdjc2wyOGg3NnVtU2czNF9VN0x4NDZOUWJmT2NhdnZLUk1XMXYtMUN0VXdWVlNzNXMtVkllSlowNFTSAb4CQVVfeXFMTUM5UExuc2NVampUb1otRm5BWFBDbDlYM0h2MzJ4M0g3anpaeENrZ1M1ZlFwQ3BIZHNwb1UyVTdWdmRTNDJ6QmpEM3I4azdwM3JoYUxNSVF3QkNDbTV4aXJraF9oVFlxVERDNUpXMlpPUmZVMks1eE12ekxnVXNVZHFHUUFFRjZ3cEhtUXdTRTNYRnVtUmNWS0Z3WGZJREJMTzN3Y1NzQWpJcWwtekN6TlhUNzBhVTNZQ2VyNlFsZmpmVVdINkdwQkllam5CVGI1UE56cDVCMTBMN2lNX3pIX2VYQ0VSOHA2N0RMbHpReWlwdGFIMVZIWlliNDZ6azE0Q0oxMVg1c3htVWpIM0lkbGE2SzRRQTV0UUlNMWNJZ0xqT0toZmY3ZnVTM1g5M19iOFV6VHlQQVZSMVIySExR?oc=5",
+   "published_utc": "2025-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State-of-the-art caravans usher in a new chapter in AP travel and tourism",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRU9la18zZ1lwTWR5TTlyXzdNY1Rha3JNM0RqUWRpNXVEZExfRUtHbHdYcTdRY0hIYzhPNkpuV090UkZfWU01bnZFMUZkWXFqdktmclBEdzk5amppNURjb3JsejhGR3V2U2JUVGNnVGM1YW1MR2Z4VGpIUXVBOS01VWZ1aTBRbzNHa0pTRDBxRE5uNjFVVUlUWUt1S041ekswaFVZY1hBbG1rQktSQXRrUGNXVWpJV3JHaDVhQW45OUxaQjY5SmpqVTMtdUJvbWJ4QWgwaEJNSjQwd9IB5wFBVV95cUxPZzVyRFp1ZUQ2ekczcElCd0czUW9JZHoyVExzSDZjVXl3R1dpalQwMU5FNnVtVFNyd0dYRDlLVUJEYkdhMU1HWkdrTDFvc2NFSWlRblloaTY0dk50VDhTRTRKMjNBLTBEM0psRFN5MDFiQ3ZqRFdfaTg1X3BZM2tDVGZESmZWbzZfMEU0YllzekxoX3VMR3dHTUFjVUxZTnJIbzlYUUp4NzlxbzcwTFl0d2dVM18telF3NFo3Q01xVnRtc2ZZeGJwZkJWX0ppZWZJV1cySU1NaDgtY1RFMFNIMlMwOWEtVE0?oc=5",
+   "published_utc": "2025-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cognizant gets land in Andhra Pradesh for less than a rupee; here’s how",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUE9CbWNHTjU2WUduX2JzaWM1clFWdlNzRnhyQVpORTNLa012dm9iWUZ4eTducWdtOTZIS0pJRng4Qlc5SDhmRDR1ZzJuTU1fT3V2Y1g0eDVuQ0hZd2FrSmVfdFMyajd3ZXRnXzdPaVRWZ2ZaWTBVVWNNaFpUWFVrRjNtUUpPaHlobExTcGlhUkpMdFg0VW9qUnR6TVY1bnVacFlkaFBCa0xJNXVwYklrRk4xT2dSWG0zM2RjNmhvbVppQkJf0gHKAUFVX3lxTE5veDJwTHVtWDhhU1hlNHRzbTVuU1hISmlld25iTnNNSk1fNkdKRzZOemNmQlJBX2V4X25qeXRPVTdLX3VJd2Z6WXYxaTBJcm82WUZJYVhheC1yODdKcE1GY041QjJOQ0tnd25BNmlpdnRXcEZ5U3gtaUsySlFZMzR0QkJ6amxkSDRUSklXbDlMWnZxak13SURUVVBPdlRfU1hjMnpZQVVYTEZ2TDBsR2xVSjBLVzV3LXZtcFN2U2tKZjZoS21ZTHBNQ0E?oc=5",
+   "published_utc": "2025-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to Start Big in Amaravati",
+   "source_name": "Telugu360",
+   "source_domain": "https://www.telugu360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxMGFHU3ZxbEQwc1F2a1BadllNZG9FRDcwSVc2TU5Cc1lBMm1hSXFET0VaY0ZROWNqN1ZmbDNRUzdXZV9xYTRPS1JxQXJkUEhqWlJBcmN1WGpseVRvYmNEaTBBRWxFRy1IOEtJ?oc=5",
+   "published_utc": "2025-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A.P. Police will make extensive use of AI for crime detection, prevention, says Naidu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNME5xeUFzalQtdUtEV2FTRVJUNU51Qllpd1RXLURTcXYyRVRkdjhHaDF6WWpNSExiWUJhVmpScmRIT0VUcDFaSEpVSExLMUJTdTRRd1dwdzc4QlY3aFE3MHZXTUYtc1lpRThaaWtkRE85WmZCT213SFp6UHdPV1JITEpCckJPOUczNS0yTmdMRm9jQUhiUS1Lb1hWZ2x2aTN2a3BYeE1IWXdGRUVXS0p3UXZTOXA0SHNLN2VsNEVvbTlhNloySmlPamhMam9HdjI5cGFwWHotR2Frd25GTTlXTG5qNHRpNGt0RTU00gHyAUFVX3lxTE8weFVrVkpfdDd3Z0JfSF9CclFjeV9BRjJFc25hY0ZhRjJuYU5zemVicndBOHJGM1dfTU8yeDNXaDQ2QzFLUDB5NjVLQVNyZ1N3VjVrQzNrcERfdXRYalEzT0pQNXkyeU11algtT0hadWZpSTdLQkRiTWJTa0ZxX2dwNVNPbDVsYzVxTDE3ZXBldnNFUUlvRFg2T2JrUUJHX3ZvejZ5em9nUHRCRDFJVVh3TWlHUVV2T1RydFpvaHVjVzYyQ2ZKYVNVWnJsRG5FcXpWR2tfRVVrem82RmEwc0o0QkYtdDFRUmhqM2Rabk5HemdB?oc=5",
+   "published_utc": "2025-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra girl becomes first Indian to join NASA space programme: She is set to make history by heading to the...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVFdISHFhVldWMDlQZUw2SGZlXzRsMmNfR2lPQmIwUnZMb1VyWjRRQ1QtM2tDTWFkXzI2amh0WHRCN3dCMUMxVDFJdzJaMFFtRWRKbjBUYVk4UGJVYlZkR1hTWDh0bFp1cnplcl8zSDVXYl9JVUR4emxOdUVlcmYzNXdMbkNHd2RlRThYSnVpZno3R1F1cnFIRldGUlQwM1RfM3NjOFdwSTNVQlpKOGxIamFzVHNkc00xYlE3RWh1UmQxb283MlRsc1I4RjJ1M3RIWTFuOG5sSy1WTndRRzFmTERmbXRHcUJNbEczY1RodzJJTXhWMTZvY3VROXljZ1Fh0gGGAkFVX3lxTFBXcXFCWlJPcERMS3p4RUdtZHJvdVVvbm1pSHhyNkZIMmVqTWVZQTNnMEIzanNHamtEUmtyMjdCR3oxZ0UzRGE0X1p0ajNWWk9WMWdQTnZ5Uko1ZUlnS2t3a0NILTZ1a2dJM0ZOb2duQktxbUNmeU9hOTl1RmZ6ZFA4MkhkaGN3YkhQbVJDOHAzOXI1OUxDeTQ4TExjd3ZHVWRabF9kVmxKX2hGcThJT3Zsa3VyRU5ZRExYR0hCMFJzekpQd0tILVZHdnotekdnWFpBNnZUTm5oMVlOUFgxTm1GVENrN2lrdTBFUmp1ODk1dEJHenc2VEJSeDV4czZQY2RiVmdHRXc?oc=5",
+   "published_utc": "2025-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

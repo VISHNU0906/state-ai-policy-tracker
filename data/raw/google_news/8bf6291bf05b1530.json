@@ -1,0 +1,93 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "Lodha Developers to invest additional ₹1 lakh crore in data centre park in Maharashtra",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWZCZFhHSE16SWxsanNvVGE2UzlEVE1NX2Zna2xxZUkzRWFnX0w0bkhlR2hpNHVkZWhSY3dlbHJaNmpLZTRxaVBGQnFVSEJjcjhlMEJKMDdEX1hQVWpEUVZaUk1uLU5IZERqT3k0OXd3Uko4c29ZT0dGb0pOczlILXJqTkgzR1N4cWtFcTJhOGsxd1lSRU44RzZvWnEzYjlwZHZKVDdpbmp6a01hb1l0MUtXdGQ3Q3g4dm1oTVFXa0hGU1RzVUdMYXln0gHQAUFVX3lxTFBrVW5hY2JWN2ZPY3RlaEJiQ2ZOaldjYjYyMkZ2MzhfeTI5WkNkSVAtYzFMSS1COGZ0OHlHdGNFeGlWckxyZlQxdHpMWTBDMFRXQjdIcUU4Qkh2clMwdTZWNlRUQzNtRXdFLXVZblN3WDJJaGl5eW9nRlVhc25DaUJYeXViZ0hkME1DbXZtanVvX3Y4VERwU3VURGJkY1JmcGdObUhLQURNMWc2dURzZGdDNDFRZlJTMUZTQVZiU1drMlBfNXFmUUtVTjRMRGFFXy0?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha Developers to invest Rs 1.3 lakh crore for 2.5 GW data centre park near Mumbai",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM0IwNWdsdUVkeXNWSUlyOERlRVVxaThrcENaU2Z5Z0tOdEx3TVNwdlNYamJOZGZmODVJSnlQSEdBYXRKTDNQV21LaElCTS1vRGlVMEYwaG5xS2kxbzd4MHJLeXZzeHFGNzA2akpSU19DbkZSaUpzYWtRNTdsb2Uxc1hBd184TjlKN2ZEazlyTUc0SzdDY0NIYWpnWVF5V1JxQnl3VFI0b0NPY1JhcjJjQXVMRldoTEFlZ1NDVkhfUlJBYWFuQmhSR2c1bW5YZENrWTNyeXBwdXJxMEg5dEtydXozaTZ3WFl0REF6M2E5M05HQUtISUHSAfsBQVVfeXFMT3paLTM2WVVZc0JzbzgtRE4yelhQX2N6WFpYNUdKNGsyZzFtYkJMMGVLTlh2T2RwTnNpTXFJWWNuYkJ4NkYzSHdhYmdKV2p1M1JJOXZ1a0R1VWI3cVZSQl91bndlVldTVGxady00cGFReF9mWFdzQ1VJWDZHNklsSWc0RjRIWW9JczRscUVhM2h1bXlCZW0tZXZfRDJldkdhNENnNDY1cDVGWnNGbmNxWlJHaUpUVm5mQlFrU1VRYlVHeVNDeVNOZ2tXUkdLLVJjdFRHOGNCaURtc21ncWRrbWNJMVZWb2tsNVBibDc3OVVWaUZBdzFyTWxZVW8?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha Developers to invest ₹1 trillion more in Maharashtra data centre park",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYmJSZ21oLXlVQTFYOWRqbUwzbkxJR0JVdUlWa0dxZHNKaUdQam50X3VOVVNyYWo4aGlSdFg3ZVFJbUt3S2h1VlZkb1VYLUdrcmtiS1lldDA3WGk3aW12c3BfaXFKaVJXZTdHTUJUSmp1OC1yRjh6aXZZZlVfdjkxU3JVT0tXTkVMQnZHSFppTzlNZXZyWXdHRlc1NjBwbU5QV0diODBfdkVSMElSZTBuRmw3bTNNQ0p3a0xkSGRjQ2VOMWd0dFFIUkUzbXhucWpyTGxSbGNraXY4bnPSAeABQVVfeXFMTXNDVkZnMGREUjdlT19EQ3hONlBGZXQ3WE0wMmtYcERRbkgtUU1FUkp2SXNDaGI1UGtHUjdnd2l2T3lEUmJYdWpWd1VMUXJCbFJrUVpEc0FQWlFWc1M5R2RCVHpJRURPM1VPaVpVR2xlUTByTkdZYjRnNXFVYkl5WE93dnVYbHNvVWM4SW1odEtubVE1blBiSlMtOGhqMTBLMkpmZFE5RzVYUVczaDk1OVJvdFpjRVdhYlgxaFJVbGhWMnJDZnFxX3l2czQ4S0RfMUVTUVdXNTN5eFd1Z1ZtQXA?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha commits ₹1 lakh crore more to Maharashtra data centre, taking total investment to ₹1.3 lakh crore",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdDBKM21pQ2lvR3Y0S1BhMGtkYlVGSjlaVDc1bEgxb0JwMXY0VlJ5dy0xbFVRczR2aEV1aWpLNG1wLXdTRVEtaVdmcG90eTFoUkpkeV90SXdTYkVlX1B3ZExfX3kxS20zOGE1TGxxclVRVUh1SVNHSHQzdGsyRElfYWw2OUh6eG9vTXpqaFdrTi0wcWpGbkh6RGZENHU0dGRtU1Y0UEJYNUtTcklxREVhbWhUajBXa294RVg4STdiVjBIYllCTTYyUjZTaTNkSXMzTjFtZUFsVDBzWVZGdWl4bHNWZ2w0NDF6Um9uU2JaeUxjMGJPUnd4cGxZNDJMWHZqNkNj0gGKAkFVX3lxTE9ubHM0NmV1dERLMFZjd3NFbFdKRWdDWEdTLTlQTE5sUlE3Sm9wSC0yai1IbFhaRDUtcEpaal9TTHlaa1RIQ2dETEdqLUw3T0d1SHVMNUFfVFRfZmxoeDV3NklLOUh2ODBmTmc5S0RMS1FmRnR1ZUUxZDdreEJzVG5LQjZwOHpINVRnU0pudTdWY2F3bkdKRjFBX3d0MEZHQUc0NW0wY1ZVLTREQUtQay1XMnpZN0hFQ3B6dWZNQ0pBa0tjVVFPMTlFMHdaREtUSzg3UHJoU3ZXU2lCMFJPZXpYZjNoZ1VLNHBrQVI2clF5czF3SFdib1o0a0s3V1A4YVFGYUpKaG8xZ1lR?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha Developers to invest $11 billion to build 2.5 GW data centre park in Maharashtra",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSDEwN0x6VUlSbEpGNEI4dkZVb0gtRWZ2ZThQZjNDMTg1ekxkX1VsVjdNYWdMSmN4Z095SmxIUVgySjV1bHo2M1VKaVF5WWkzaVdCcnA2TVhrUFRIeW16VDRMOFU0WUFGdG1TSGd1MXVpbUxKOGd3R0NDYUt1NEhrb1lJVTh4QmExSFVmaGpkdE90ZzZaX3FfQzBDTmtKTDk0Z210aEIyRUFiSzl4eU5PZHJuQl9jajV5MFlVMmQ5bzh5VVV0YlVrenNpS3FDbnVvU2VRaHFkWVFZV1BM0gHiAUFVX3lxTFBIaTNkdFh2WEhnUVBEY3FuV0xIaGdSRVJCUlUtSHNiNUl5aUczTnBGSUtlREluSjBYTk0yVmhETGZEQUlCXzRFeEdVSzZNaTVtREgyUm5ucUZRaWM5X3lVdjNCc3l4RkZGOVhRUmxjX29PeTI5THg3bFNjblY3eExoUENITGt6dVpaZ1Zfd3QzOW5heVVlWi1iZUtndk5pYVp2VTJObGZYY0hsa2R0cW43SXc5VmNRbU1qSDVVVkdReTNXajB1cVRkSGxtWmdWcGRZZHFVaFZVZ3lnS0d6dEFfUVE?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tillman Global Holdings to invest up to Rs 60,000 crore in 1GW Maharashtra data centre",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdURybkdBSm9LRm5TbWFBZWlfckxvR19yRDJtSlgxUW1ZRnhPZ0ZTNFI5N2E2cUkzazlBemYyUlBrMVgwUUd3aWo0UkR6UlhOcGZZMmtjM0E2TXBiaTFoUTNwbzFGNVFQQ2FzMmNJOERVTWRtb2RCemlyb1NHZDhIT3ZOWURsZjlyT0l5VTFFaWJueEVPbTdGMjRocDFJRV9vRTZsRkhNaHJrcTdDRDRTcC1vUVpYdmNMR19YNW83c1BtTjZsNFIzMW1nWWNqRkp3QllNVVJ1UWpDTzBFVTd0QmR0VVBTRmtw0gHuAUFVX3lxTE91NzJieEtMSjlVemFKbXJtVXVjZWMteHRoVEJjWjRNTVJuTDVvUFpGUjd6Tm5BaXFDOWxqYUxjOWc0U3k1OWEzOEgzdG05Z3FGTVFINHphVG5MTnRxdV9BM0RvV0FMUV96U183NGh2YVR6aDM4QjQxWHJ4bmh0b0t5UlY5ZnJFZW1KcnY0RjlWMFBLdGVpbFV2dmZuT1BUMDZTcjM1eUJlbHBYTFpjOHhjSUtOOGIxWVl1ZFNvYkI0MFc5cmZxOTF5dkphUWFXRllBWW4yMVRhdVk4U1VmaUJzbVhBazluNWJ6LUNEMkE?oc=5",
+   "published_utc": "2026-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai-based Lodha Group inks deal in Davos with Maharashtra government",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0tNNVNYR0M0T2FkMVdBc2h6VkpDTkJsRHZmY3poMnNIWTF4eWpqUWtvVktJNldBRm5KbXRGNkFBWHhQYlRsemtkZ1F3dm1JbTV6SDJ2TlNIMHN4SHFua25Odm1kSVRlR2JzbnNlaUd0c3B6V1pzemhyWDJqenhXQTQzcXNVMTF1VThaX1FtZi1pVDBnRHp1c3Jlc0t1enY3ZE4yWEdwMDRKTDRNS3FtbC1MVGY2V0xB?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Bizarre event': Congress raises questions on Maharashtra govt's MoU in Davos with Indian firm",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXB3Z09zMUN0X0hrS25xUG1uSVlfVzVvVVNnQTdIcHZHQXktUGk4R2Izdy1xRktqQXhuMVBJelNCTXJBeC1uc1AySjg3aklmUVpwaDBvVE05cWJfM21BUkNmMVNVQWNXQnFZV2lweVozQTFMakJ6RWhFUmdLSW1lX3NrMWpRMjl3Rk1zSXQtSlhKdFpPV3ZZRm5aVExpTVpWU2FUNG9JSGxGMFA2TWRXakNQV0Fuc0RyR0FYN0xhbE1XZHFadDZRRzF0WnA4N293WS11VHBrWWbSAeYBQVVfeXFMT0plWkkxS1FVT0lmQldXT0hvNm1oRmRMNFllbXByUlZDcnhIUFc2Z05oMm5Qb1BLa3R0aGJDNWZLT3VyemVFME9vRVFGUG91eTJ4Y1dRbGlqR1B1TlJMNG4tLXBNekZ1SndYSFRhZXAzMDNtY3pfRE9mQk5BdTNfeXJmbVQwcFlBZC1KSUJBTlNuTVM1dWR6SWJHUW9mMjNOZ0c5OHJ2OHVMa2dWcWw3OF9RN3VsWGMwcV9WblNDVV9WRUxId3NtM3JBQnlzQnpaOWNONFZ2TThxaE5JY3ZGSDdfdVh1TFE?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha signs MoU with Maharashtra to invest ₹1 trn in data centre park",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVlrc1A4ek9VMDRSa0dOQUlHYmFxblJYRmtBUmdSNjlfekM2TTJ4VVdOd2V0amJ6cUlDQ0NwZFVsWHZfUlJwSlg3dWN2NUpZeUMzX28yb2YxTTJXSW4wM0JGZWdIM2F5clhPaVhPOHNIdGk1N1A2WDQ2U0xFREhVaVdBVmRLRzNvMzlsZWZGQXRBc1F4UW90dWRRSHNneTFjaW10UGF1VmsyNE1YWVdTUVk4ZFJPc2ZzVXZpcFRqQ3FieVduNlY4OC1seUNyTVFUSDc40gHYAUFVX3lxTFA5LWc1cVlWaHNLY0xOV2VROEFvcmhhSFpQR093N2l1dmp6UkRPaFMzclh1elg1djI4TDU3N1cxcXhBdnRYekRTQVJmUE14c0g0anI1N2U4SmRpdktMNVp2azNIV1hobXBXcVNjYkpTWDlJWFFnZERNZG5hQVFFX010WkV3TWhOVzNyQ2N3cEVlZ1NWcnRWYXh0WElfQWdoX0NEUmpuS081dnZuVHdzRnd5d3hkQmF3MXhtYXJJdXNLTlQ3dEdiTWNUdVVsQzlnRW04M1RhcjZLbg?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha Developers Signs ₹1 Lakh Crore MoU For Data Centre Project, Total Investment Reaches ₹1.3 Lakh Crore",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnF3TkcxTGJEanM2cWt1ZHc3Y3ZwaGZsUzlBN3FzUnQ4WnN4cUh3eHRBZXFkX0VJeHlRR3c4THViZDFUd21KRlZsV2l0cGZ6SUFhZWd3T1RTdjJ2LTRhWmJURU9IRmtUZUs4OXRiMTVVd09YcDBfenFnYlBMWEgyWkxmT2NodWRRbFpBd1d3VEFTR25UQVh1N3lpdHU0SjNpQUpKWjNPTnhpVlN5aFAxRXc2aHB6X1pxamNiUENQSnRsM0pGbmw3SWV5SHRKNV9FdWVuSnlJNWbSAd4BQVVfeXFMTjlDSkd3RC1rWU1zUEJBTU5BQmZmZ2hDNl9JY1RnVlcwOFZyLVJFZW1JQk94WXg3dnBnMlF2blZla3RYT0t6aHBzS0xVbGw5N1paMVJ3bmVlNzhneU5OcjctUlF5X3REdjZ0azNoOWIyTE52SGVkRUZVRHJTYktMcVRYNXZYX2taOFdrZVRJVnVSb3RsQkVpb3J5SlllUllVM1hTbGw5Nlk2bHZmOUd4NEhzZ3JpMUJJdmtXTWd6U3plemFDNjE1WmwyckZKdTRPV1NGbGxkLWVacF9DY2NR?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Lodha Developers see data centres as future with Rs 1.3 lakh-crore Maharashtra deal",
+   "source_name": "Zee Business",
+   "source_domain": "https://www.zeebiz.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWkJsZTRMeTgxSkFvR002Q3lvU3AxN2dkcFFYS1lwS0FyYVhadXVQLV9ObWgtZ3hlVkxIVUxYNjh5bV8ycDJhb1JBWWlseFZqNGJ2U1d2WmJpT2hKS3VKY0M2emRMdFVkYTc2NVItNUxDREdUVXBzLW85VkZXR2JJZ1drWEg4RjJvVjJwN2k2QjRUT2swcW5Ecm1Eczc5WXRXN1BvQUdxV3AxclBzanNjLWxjTDVkR0s0SEJUU0Rmc0RURVh1Qk1IN2Zmbm4tdw?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

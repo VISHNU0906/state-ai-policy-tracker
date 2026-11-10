@@ -1,0 +1,37 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-06-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Karnataka readies green data centre policy, eyes 1 GW expansion with sustainability incentives",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdUpEanNYRC1kVnRJNHA1ZUx1LUN1VDlZQjVPb2NWZjA1a2l0NWNVdi1OODcybnVsWEFNbmk5dV93RlpQMTNQenB6em92blJIZTUtcEJ0V3p1UVI1Q2FoUjZzaGpFOFpialRzcmxxTGU2VDk5bjNXTkRwQWNZcDlGV1ZhbFlkNTNWWXJ4akE3NTJGcHMyLV80OElfRG1aQVNJUHhuaEk2aFNoREprYUxGMkI2NjlnaVdVdWJ2aHZKU1pkNVVIZWg1SjhLcFVjYloxczQ4UkxjRW1wSDNfVlYxOGVMMnpfNDMtS21xOWM0S1BtNGxY0gH4AUFVX3lxTFBYVGo0ZTQ1UVktNHpBUUZndm9qU2NSaVRIYnlZMmRNUV8xMGZPMGc4NVQ3MFY3QzFMRGh4eWluSi1hTVJKcVlIaWRZNW1iQWlZRHlZWl8wMFZxYm5BalNtaDBQa3VTUmNPR2dnMnlpUnljTDNjcFJIVkk3dWlMMUN3cGRpX29RMmxKS2E2RlNVUW1jOGdwakVlUWQwa21TeDhycWFISUt5cTR5a0tFaU5oeDIxcG0wdWFJc2cxMGhGUS12cThOVTZkY1BqcHFqZ05Jek5DRU1vcnhwa0Q1U2RfV3gwMmZjODJmLWxQcEtiQlpsdjBTeUJf?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance and Meta to Build AI-Enabled Data Centre in Gujarat’s Jamnagar",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkZaeWlKTnZ2QVV2YndrTWRVQ2tGanZKQWRlcTFnaDk2aVFFSUhHWVBUN2Zqazd2WnZMcVRvUHVfWlk1ZlNBRTlSeEJRWXJ4YWNrZHYwRl9kNGgycUlwbHIzRmJZbDY3eWhUbU42bTZRMzJLampoUUJkSkVZMXdVTHBVT0tFZWtGZm0tZTF4eXZOci15cE9TSnFPWjBWdHpMV0pjeFdsUHRPVFFs?oc=5",
+   "published_utc": "2026-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala BJP files police complaint over deepfake video of PM Modi",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUZtZEI3S3hmQlQ2QV85aVF5TnYyOXNCVnpRUllPalZ6YmlRWnBjQjZ6ZE5OTXJ1aDU0RHdrYWxvQjFqc0dlNmhHd29LUTVzMjRGdWlYWFdnM25Gd0lsRjRpUWN2X29kaEdtVXMyTzgtOWdERmVFWXl2QXZhRFZWVkR5VTVMSGtRbm94c29TLUdqOHUyQmpHb0l3YnZ5NkFZY1ltNEpDb3E1ZmxGdzBodUFydFhyV012NEwxQW50bnotcVZ3TmNCdU9JOE5CbV92NkpwNjlBQmllVjhkQm9wcW05ckvSAeoBQVVfeXFMTTc3QzV1X012OXhiandPNWc3NWxILThJTmRGSkVNVG1jd1hEbWJkS1JjaEZDTHh3V2N5c2dZTm5TOUI2RmFzQjBicVBnWDRYQXF6TUgzMzFVeHBSa2Vfd2pEcTl2NGVqNGIzTVM1TlpaTVExTUdpYU5XYi1fckZsWkdWbVhUenVKYU9pUUtTU3pZa19ERHV5QWhreThYQWkteTR1U3RObWVnYmY4VmJqU3R5b1FTSi1HbVo3dnB3NVJYSm4xXzN4NUxzM0lyR1h4MFM5WDVqZ1laTUJBZnNtQU9DQW9LVnlab093?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala: Deepfake video targeting PM Modi sparks row, BJP demands probe",
+   "source_name": "IBTimes India",
+   "source_domain": "https://www.ibtimes.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTVqUW5tZ29RZ3JDQ1lFSXo0VmFXTmZEVjFZVkdMbGZHSlRGaF9uYnFxMTRob0VrZEo5WmIwS28tSkc2bkF2TzV6UXlfenh0dFdMV0xGOUFnSmcxb2Z5cmRLckVIdUg4OVhJd3o2anN4TFRLYXVScDZpUHFvaUVrcGo2TGhHdmJqNVVJ?oc=5",
+   "published_utc": "2026-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

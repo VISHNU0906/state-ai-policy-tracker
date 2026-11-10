@@ -1,0 +1,77 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-08-01 before:2025-09-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Scales up its AI Leadership: MoU Signed with Tech Bharat Foundation to Launch India's First AI Center of Excellence for Public Good",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPc0paanZEWHc2YUx3VDB2S2pncmJOYXRFbUl3bVZadFFMQWxqOHVheFd6d2gwakU0RkZlVk1NOTBWbUJDTXBmMnFmZ2ZpcDJQVXI3emhsVWoxTERMSXlCdkNjaWJ5ZEZLM3dYQ1ZGU2VSTzJiNWdfdHNVUU1GSWtWdzNVck1WT2cxVld2SW91dWNPb04xemxqLUhVcWhJSUpndUR2SWpjT0QzRjFrOWpVSy1HQzhuTThTRFZNWjhzNXJoOXdIVEJQVVVIak13QXJ0OEd5Y0Q0V2VNbjVhZmVuR2NrY3k4aENOYkFQdm9DcE1kQTA4cGx1Ui0yWFlYMXNSc09KYklsVk5ibFI2VFJpLVRLWGhieTNOc1RSa18tTHB4MGxwMVluSExoMm5aRm9XY3JEMVJKSk9OSGlfQTgtNk5mdlk1UGFhUnfSAc8CQVVfeXFMTVpxbTZpUmt5Rm5RMXN3dktqM3lDTjVMcHI1bnpjUUx4X21DTjdmQk9TMm5nYjdoeHN1WFVwc3IzMGxlYTNZS0Nma1FBTW1KakJEZXNUQW12U1c0cEhqZy1QWXlkb0xHRzBhRUV2ejJQc3ZWZmZTSjNlcHJhYmhQcjFWUms0aV9ZbTM0aG50ZmxCaGNxR1pra3FqVnFnRDZ1WEZ2RV9mOUhGWDNwYjJQUFQyMW5NSk41d0c1WFl1dktVd1NCMHdOQkVpNHVMc0pGbkwzeHB0Mm5ITU9wcTNUZy03a05Bb3JTT2thNDZmeGtCTjBubS1LZ3d0clljOEZvMjNmc0RCeXdGRlZ5RXJhX1U2NDl0SFZYbTJyenBYd181X19RNWs1VE5nQ0Rob0RhVklKbDUwRU8ydUp1VnBDQ182LURNYkVJbFpsZm9LNlk?oc=5",
+   "published_utc": "2025-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt launches BRAIN programme to boost AI-driven affordable healthcare, medtech innovation",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOem1yWTZ2Q1lXS015QzR5VTVwLVVvRDg2V005VHdCcWl4a0hMUEtjQ2N0TXFfUVc4ZzExT1l6UTVrOXhkcGdYLVgzR2NoR21ubHZVVHRxMi1wWFBCTTVSOXpsUTlWZEVETEliRUltQkJGdnhxQW5wWDVUajZ6anZVblF2cXM2UFNVX2R3OUtxLWRiaXg2YU81MW85b2lScDFBdVRkajAwYjdKRXA4M3h2UTduQ1VEdnUyQlNUbDdhdGoxMlNfdm9QUjNrdGJVOGdubmU2MVNuQmTSAd4BQVVfeXFMTk5pZlZiZFlCbGlVUUl5MlZYbEwwdDQweHZpdlByRE5YODZUN2FHYjNHNEpMTU5vZThmNzJnMmxRblA1RWQ2YXRvOEIyRFY4N3RrY2dSOVJPSU56czNvNDQ0VGhxTVFWa0M1a2luSjRtRlBWWEZLVXFFVzVKSEhlVEpneUF3VTJWSFN0UGZ1XzRIN2g5NkotOVJselNuSF9ZN210aHZwNG5kdkpHV2x0Q1hyY1ktUzl4ZjRwVVFnMkFjREJ0bmlTT0dUYkVEeGtMYU9JYnRPZHZNMEVQaXNB?oc=5",
+   "published_utc": "2025-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IT Minister Sridhar Babu accuses Centre of bias in allocating semiconductor project to Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTU0zTklpakxrbVNoWDc4R0J1aGk4ZENiM05XYUhrWEZ4Qy1lSEtJSTk0UXhQMVBtSU9Mbl93T2g1cW9NbjlYT3FHbVJsOFVUYlg5cktMcXNTNndPdFY5WlZNVExLTDNteXdTTHZoRGlPOFc5UnZ1VVRJeTlpZWVyQ3F1M1pJMzFHdGdHOXlrUDNZN2JfdldMeVN0SmdNYUpUNjlRMi1Hby1kbF9vXzVpb0JsOGNNWTVhay1nU0tSVEc0QnhQUmFlZVhCaGd3dWU5UWdPSGYyeUdKdWllWS0tcTRfV0JXbmZPcTNiZTducTYwQ2dUVEHSAYMCQVVfeXFMTk05REwtaGZ5NHp5WlZLRFUtWkw2bGtzS3NfVmpIcUZBTndWWUgzYUlicUV0QWdiV3p2d0EzV1A1aVZrYWJwZ0N5M2t3TjVscUVJcnc4bEQyOXI1dVJxRkRRYTI1d1dINjFGSi1CN3JNNXd5LUY4QU1CdWJXbUVKSEZDaXowcFhXUngwLWVyTjJEUHJIVEsxallVVHdOd3B5Zzk1VHBlR3lldlFnYWdzdVpJNm85SEs1M25GcHJ1cERfbVZMaTlmQmtweDFPN2pTYTR3aWdIMnl4RjQ2UUMyWDB3eTNZalBGVmF2U1RvRTNnOXdVQnpnQ0FJT1pRM2s4TVh4SQ?oc=5",
+   "published_utc": "2025-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cyient Foundation Launches AI Labs in 50 Government Schools, Empowering 25,000 Students in Andhra Pradesh",
+   "source_name": "scanx.trade",
+   "source_domain": "https://scanx.trade",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUl9PY3lmeTdvU0pDbDJFZmIzM3FXaXN3NzRDZElhNGFVbW1OU3JBTkhqSkVTcXpER0RkY19sNG1pRWdBbE9XRGFZMlN1aGJsMUp5b21SM2VaWHc2X1NiVnd3cnNRRmsxWTNlMHJLcGlNQndQYXlXNGdNXzBJaktSa2hvWDQyck9vVG1raWpVcXo4cVR3Rm1GNlVvQzlIdHdtLXc2Qngza1JPUWhjc3o5ODVWNkRjZ1RvbXlueGkxQTkzVlhiQ191ZEM4RXYyc29QX1RON002QnlFU3MyWGV1TThfdDBxZmdwek9rWWZRSGQ5S1VUSkcyVnlqMUt4QQ?oc=5",
+   "published_utc": "2025-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP sets up AI, STEM, robotics labs in 50 govt schools; Lokesh launches Rs 8 crore initiative in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa3VNdnBoRGx5QlNXQnYyX2RfdGV1a3dhRVozNEI5NFAxWkpBZGpQUmZGRHpBNUY2bmNYbUItYmRXLVFtQzhOdWF4VTRvYzVWSnloemNFZGlrd2Nlb3d4UTc2ZWZ0SmkzN0Z1SlJ0YkU5dk1lakxFOVhfQ3I3U0JVSHJHdDBYWGNjZWVKTDZTOEljQ3pIQmtuWDdxZXRXYWNweWh1ZFMtalJzSWNaaGtLZGZBYlNOUG11WHlxbXJ3enY4WS1JdHFKdk5zY3VBNnJUeTFTWjhVcXlSQS1jTGFpcVZwMW9qa21SZVc2LTliNC14MG1SMEJncNIBhgJBVV95cUxNY21idnA4MlR5UkI0QWV1UGgtSUIzdkpwTHExN2Z6NXlHX1ZReF9pZFpwTWxBYklhU1gxeWZkLWVhX3ViSFpGLWVxTFN0MXRuTC1ia3dzNU9XNkpOV200bDFvQ2xxbk9XN2k2S2FLYTB2dl9qRk44d21wTERDMFk5RlN2clFCQVhMRzRhSHM2TDhoN1EwLXBfVURnU3Bjb3I3ODdyZXZNc0FvU1djcXpsMzY0eUNnbENhcUNmZFRleTVCSzhDanlWYzdzcFlJODBDTERKNE9lZW9VVDBiWkxhUHMxd3ZOX25ZUU1HdUlxWk96ZmlLc2t1ZTN0M1NlakF5WG1OTi13?oc=5",
+   "published_utc": "2025-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CRDA proposes projects worth ₹81,317 crore for Amaravati",
+   "source_name": "ET Realty",
+   "source_domain": "https://realty.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUWlqeFdDX2I2dUlFVXBvbUdzc21JbVhNZkJhV054Yl9CZzlPcGY5YmJRZlQ3UFVwQkFYRnhKSDZzX2tkOEVYSVU3cm9Dd09VLXo1NEJzZUEyOVR1dmZxZWg2NWh0ZnhpYWhyWVU0Tmp1Q3lZenNpZkhhcHVNakhvVGhGejdvckppRzAwc3Rockk4TWpnWFFPQlZzclY4NkVDdnc5eUVlUzJPcjBWVFpDdW45c1cxMG9LdWNPcFU3WmdOYUJ4cXdwR0hLcW1tZmNMTUkxSC1Wa0pRSnFiUHByOVNYRG04UXdCc0ZuaVNMS2zSAfYBQVVfeXFMT0JMNFZOemFwLWFYS29VTUxaYkQyYlFCeEpJMVFxWU8xRF9IZzAwSkZxbzhMRmZZUVpKeG1lR2VUYVFUVlZfQzd2cjRmd2I2WkROdXBqZEt2ak5OX1dPSG5fX2NVVmtsZ0tWZEVZb1lfNU8tV2ZlMGtMbHR6ZzFNU2RialVnbmhJM08tNllnYUZNVnFzWmU0QkFqYzNEM3BHVUloVU9nVW9ITnYzVnBFNVpTQlZrUUgxX1JUb1l0dTNxeUZRVnhHZHlJRC1fM0ZtQ2dJakVYdVFDS3B3Z3JFVlIydEw1UzNQRkI2MzJ2ZC1JbUZUR0NR?oc=5",
+   "published_utc": "2025-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh poised to be India’s major IT and electronics hub",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2VaenpjSi1yTmNWbHpvUEpHdkt5S1p3dWVUT2dtX2k5MjFVSFJEczVPR2NidW5WVnk5aFA1SmVUSDdQZHFDMHJGVmZRNkl2QjQ3aDNDdGtSUnVucnJKWkhZWG5wY2lNb01kZjluR2tNUjUxZ21WSVhqYlc5dXItRm1DTnFqQ3JqMWFlcllyVUwySUhZZnZQLVRLcFUyTkhmTk1xdGtmYVpTTHNUbVROZjBaR2RqLVBOOXNiSXB2Y05LMUtOTWJYb1930gHXAUFVX3lxTE5KM0prMFotbzRUWGVDTUdoc1U1ZGlJVEptRm1PN1d4V0ZsRXNwYm5nOWV4RHkyUXVubEFsWG1FNDBSQzlVRnVOYXFrS1daWjJSeUpLdGE4RlBzdzBMeVlrcXVEbVltYjd5TmlNZHE3S21MZVplcVRqT2lBcXFtVUdsNWtRQWpCNW5YRndVZVpPd3JNYjlUbS1CdEFNZ3NSNVRwb2FvQzcyUFBLZDFCVWVoazdkaFUtbDRSeUxTX2lrSWtyd3IzRzFmT3F5ZzRNMFgyMi1ydjNR?oc=5",
+   "published_utc": "2025-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "16 crore cleared for long-pending Nagavali bridge in Manyam district",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlFLSWE5Q2JkMzhHLVBkeHpTZ3lkLTdBX050bnhnZzdQZHNkakZWWkhodmt6YnQ3WnRERGJsaXV3ZE9TZnpoc0hOdFJfLUN1TjdxUnlCc2J0QlJLSUpOSG1fRk1HSWxSYmwyNm9GTGp3aTY2UXVoRk9XWHBkWEd3Y1FLaXVhandCbElxSDd6XzVUNUZGcm8wckJTX3lRUzVIQ21jTzhrMzc1S0J1cVNUQ082NW45bmE5T2RNOHZQbHEyeU1VZnRHTm1RMlFQYnliR0FDeUdTZmPSAdwBQVVfeXFMTXFtQXRxZy03V3RRaDA0d1U0UjlITDdyTGRxTHZ1T1NwT3E5VUlRQlFXdUNkR0twUkZTV3NrWkd2d3Q5aU05YzJldE52ZGd3dG5ZT0x0Wnp6TVdSLWNRQVNreF9ZcEx3S0ZMTEh2djlsYnRPa05EZ2JiS0Z5Z0NMbTZLb1RyNHhLb1k0YXNwZWxSWDU3ZkJlYUE3am4yeC1kX1RyekhkWTFuMFFoT3V0aEdEWDVfakFFMDdXaWVFQzE2Yk83eFc2UEgtSW1BMlJBXzZXT0NzXzBKaXRQaw?oc=5",
+   "published_utc": "2025-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India approves four new semiconductor projects worth Rs. 4600 crore; first chip likely this year",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdzlSdjY0RWYyNElLR1M1WmoxU2poRGFHQmtDbnpHSUY2eDJ4T19JdG1WWHBrdjBRWnBXMVhjRzgwN19MUXJoUGVtb3hoOExJSkZCclY5R3VKMmkyaUl6dmJ5RUdhZWVzZFhoUm9RMHFIS0hGeURuVUdVbzRmaHoxdVg0a3ljaERxd09KR0JEV3FQeHB6anJ5eXpzLWZSMTh2WHZWNHpKOFdibThSNi1lUGhPVU92SXVhajVqeElqUUpqOGx1d1dmVVhmcUp0VEpuZEJnTGFvWjkzOE9kUzhFZGl30gHvAUFVX3lxTE1ZYTQ2WXFLTEcwZTloRXVxamJ1MFBfNHBscVBxS3N6X2ZOb19ncmFBTUVESG5xWmJxMnhzeW16TllxQU0tV21mQU9yUk55cG54RTg1d3M1TWhobktJQmFvR0xuZmNTOGppZ0M4RUFjV1JkVlhJZTRrZXNoamIwU01lVnhNNlRiZ2tybmRrY0ZqYWlfRkNPRTh0Y3pyUGV5UWM3a3ZnUHRmQWloTW1yYV9YYkFRQ2lmcEhERVpVSy1ST0NyS0tRS3A1WlBEcVBsNnkxQ0dGbGRPT19xQzNwZXNXcjlDN3M3N3ZiZXoyVXJ3?oc=5",
+   "published_utc": "2025-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

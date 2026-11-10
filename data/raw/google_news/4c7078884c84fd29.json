@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-12-01 before:2026-01-01",
+ "items": [
+  {
+   "title": "ELCOT inks MoU with Perplexity AI to train college students in Tamil Nadu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYU1zaUJaWDBiR193Q252Nk9hWWhWd1E5TnZzVDJaajZIOVRtMGtvTjItZmFqX0o0NTRfLXdYb2F3eWhaaUxscVhXVE95Z3FrVmlpLWJDblplaFowb3JaQUlSS0NETEJ6MUlKRWlSVExhY2pTSTRnb2k0eGZyZlN5ZjU5bjhaSHhUOUJpLUtvc2VBZzBSbDlVdDZ2cjRWQmJjZFhOcFh3YlFxQnNUOFoweEdoTXlwOVI0c1lfMDJrQVB4THJXZjg3ck5UelctQmR2RGZwRnlPY25yUFHSAeIBQVVfeXFMT3ppWjdXOU8yYXBqTFpzYlFQbV84VHhWSXo3bFIzWTNBN3phSVNWMU56dVNGUmlDSHpHZWFtRGQtZWpDanU1WWNMR0hJbTJmOFdPMUdJeXBCb1VOaVNWYU51RENxY2EzTTktSDJfU245ejZKVVBsREtaLWdFUnVxSjhxbDdJTlREbWg4REhLajJ5Mjh4M09haHJNMWxiU0Y5QXhPM09VekMtZHNIVi1sUFJjcHQxNnZyR3dmUzdXTU5QVXdBWFpwMHltU2h4c1p6S0tEX2J4bjRRdENPZEN3bTlVQQ?oc=5",
+   "published_utc": "2025-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches new CSR and\nAI-led land-use data platforms",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEVsd1hrRU1pQzU5djVBMDJwLXlMckVjV2RmTmFBZi1OcFV2aDV6SDByT2xuQkJCRTQzZmpld080VFdMd3BHYTA3c3dNOFViY3RkTEdtSlZWTVNlVE9LcUxBUXpWemlQdlJSTTdDbjhRRmVxWVJqdk91RnhaM0hhbFdjWS1YNG5nOUUybVlheGZKMEo4Z3F1Q19pTWZkYUlNME9PVWpoUllaMEhvLUEyVUFaT1ZkZ0VMSHlCcGRuR2d0UdIBzwFBVV95cUxNYWhuZVREMUZ5eWVfUzJwNUk3aEhKeFFOUi1FQWZpRE5CdmQxWmw4Zk9XSFY1blpGdmJ4bEpBMkVNQzlDaXNCcTlNRy1hS0VDcDRjZWJwTlJ0bTNiYjZWam4zd3liZTVKVDdybWlJeElXN004aDd1MExXc3JDeUtNWVZ2UlAzek1ybllTWGJ0dFhrNnFNM2IyQlFZd3RXa1JKd3B2dC0yb2xIaUp6bm1PNGVzNlNudXRSSHJEalpTY3RTNmp5bWpZOGptc2x1TEU?oc=5",
+   "published_utc": "2025-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI to monitor wildlife in Tamil Nadu forests, reduce human-animal conflict",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkpnbTRKZGxyQUYySUw0a0hPRGpyRkFUUXR1eUs1eThIUUgtZnF3cHp5bzFqdHBnS3BLTjhxeHg2c1VwWGZRVk0teTNHdE5PVHNuRkZfSFB2VGhUeEZDX0ROSVlialBWaWFlbnh2UmVpSFo5WDBueWotb05UMDAzWmR4dTJWZnNHV2xfYXA0dHFiUXNXT3ExSVA1LUpTOFpSeGhRTS1KV0NUODkxTFpRLUF6QkhRdGxRVmlFY0JmZi1yaTl1ZXJZNW1YVENQRzVZWENISW96ekN4N0hNRXcyZmVMRDRWeEtkSWV5WVdkc2NaTFJERUYydk15dnk4OEZGVVHSAYcCQVVfeXFMTUtLc2hkZlZFWnpwUUlldDdIbW5SZDFoeHhnRW1mdXRJeG5SZGZMYTJkeFBGUEZleGdKdFZkMXdNNjJGTC1pNV9wRF9XbzN4WHhFX1lXckNuOVcyOFNCcTNQNWtZSW1CSFVLWE0yaVBSX05QZlE1Uzl1c1RJVmpBWXVZYzVDa1F1SzdkeDIzdEk2YzBaVW8zVmpDdlZDRmZQZXhEQlRRS1lBcHJaMzF5bHczQzRnLTRQM0o4eUt3T2NaQWNWTGdtMWY4c0JUd2dINHZ5NVpjazlXdUFwTEJiWExZWHZuWlRObFVWUTRoNGtMcEU1MHJOOXBmR01mSHpBN1p5QW80QUk?oc=5",
+   "published_utc": "2025-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu voter rolls revised: 97.37 lakh names deleted, political parties raise concerns",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdF9QS3lzRjJabWxhb2cxS1dxREhaQ1k1YTBDZ1FQdmFDWWJHUjJqWnBMTnRNVEdaaTZ5WlE4MVJYa3lJLXNOeHE1bXEycGJuNnRtaFRJUWJqWjJJVVdXV1ZRX0RfQml0VG8xT0FjbzVxdzZobEV2M3VRUlBqZExZTWg0aDJ1eFlFT3A2ZmkyWVBXbzNKWkdsenZBcWk1bDk4NXg5N0xrQTQ3QVVIaDBIT1JhNFI4dkxTbjBvT003dURmT2JHMGZNNldfR3A2SldsSXdhRnJKYzhIQk5zTzRDcW9fODlRZzh1aG1CbkVYdW1hNDRvTUHSAfsBQVVfeXFMUFRJZzBnMTdQOGk3QlBqYjJfaHF0N1k2dGctMkRZTjN5ZUc4UmMzVWFhRmhuaURGbFhNYlZHWVpvLVVsUWRkY0hIbGFyekV0VUh0V195ZnA2OUVDbXlCR0U2U2VCZ1BpdDFXaFlPQWJZOXFhYS1YeHJoYV82RDJwZlRXLW82UTZkVlgyU1dFN3llakF3MVNyX24ydTltc3NEUzVUTUZ4di1jaHpYN3NWblRLcTM1MVZlbTdsaURVU2V5cEt6YUtmR1hFNG4zaldzZGxhMjZrbW5EUElBalpUOWhsUVFmUGV2UVdvT1JzVWNnX25mUXh2dTBRMWs?oc=5",
+   "published_utc": "2025-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s Industrial Setbacks Spotlight Policy Roadblocks",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE0yS3U4VzFSckxWRWtjdzdFRzFqYlBRS05oWmp2bHpfQWstdENfaFpBeFUtQWRHWjk0aUlkSjJob2NVbkFuM3R6dlRNZXVoTFVCUG5Ca0pxTU1kSWV2cWljNC1EQTdsc2dQMU9SRTlPNW40OUE4a2YwMHhRWXljWmtKa01YbGFwTWZ5WXZPamFXbWh0Yk04WGEzci1aZnRSaF9EdHVIUVlvWnFzLVBydEtMczN6UDVnYUVMT9IBwgFBVV95cUxOaFN2bFdPQ2lZSnZIOTJyZnplRVZJVWZrbUpFRC1CaHRLNlBnSHV3V243YW9ZaWdQVlJaakZnal82Z3l5SVBJaXlNRWFpSHFOVlhVbzNIU2RiVmJkTm16V2xUNkw1STRpbXZvZWxHNDBjNFRiZndWWkZEb3A1Z3JuZWtEM1dxVGF0RnhWQU1naEhGNlRNSzFCNU5MOEJBN1lBSlExMTh5dl9zcWZ6aEc1bmttNFlmeGpQN2JJUGlWMnA4QQ?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SFO Technologies plans to invest Rs. 2,270 crore for a PCB manufacturing plant in Tamil Nadu",
+   "source_name": "ELE Times",
+   "source_domain": "https://www.eletimes.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEhMcXVUSEl3QW5BOTdfcEowTEczTl9pd2QwLWRrUGFxbnRYT18zMGNGYlZLQjhEY0hIaXBpNEdmZ0Jtc3RvZlhFbk00SkZYMGxmNmtlU0VsSnIxdk9fVFBjUkVEUGRCT19CcnppRHdjOXFrZmRJRXRJOTZkNkh0Wkd0djJvdFFocERpY0FvU0JpbXBSajBiUE5BRGJzRkxmRkRNQjN5bVE5cGQwVXUwQVZ2c2s?oc=5",
+   "published_utc": "2025-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata, Intel deepen India semiconductor push with pact on chip supply chain and AI PCs",
+   "source_name": "CNBC",
+   "source_domain": "https://www.cnbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUNlQ3g1X2xYLVF4bmJWdDV3ZU5lX1NBVWlZa1VjTmxKbFRKZm5XUWE2bnhQVk81ZEppREx2NkJtOU9OMGFUV3A1MTRKRVpENEdPYnk5cDBuTUsxVWs3NzdfLUJQdUsxellwMWNkMUdPNTI4X1h2OXlULUh5TGtQQXVqbFhfNDVKM2xTZmxrWW9BQ2dmSU1YQ0E1dTZQOHhnZjBxYnoxenVWb0RBSzNpSU9OdnNQQ1E5NGZJ0gHAAUFVX3lxTE85MGxFTHRXQnJKQWZaZkxYUWhBYWl0cnNpam03RXluVjE4aGhfQkx0T0hGSFl1aGZ6aDJFSmMyejV6MFVwX0dtRE9SdThkTmcxOVlvZjliSW9lUXhvUG05ODdiOHVMcGhqek8zVUtqY3FyeTk5UjRIS1RkaDJQZHQzTW5EcW1MU1V2U1gtVXlpRm1FbDFEdExPZXZBY1NyRjNxTjRpWXgwTHRNeEtfcTVIYkI0OU5FRkJWQ2NEbjJhRw?oc=5",
+   "published_utc": "2025-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SFO Tech mulling Rs 2,270 crore electronic components plant in Tamil Nadu",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNzBhdDN6UXRuc3pod2xKd0dxaHByX1lBbGItRTZKOS1xM2VzTllCNEdrZi1QVDJqRG4wdFI5WGZOWHVtMVV1SEYtN3I1Q1RVQ0NYVFV0RWhadkN6LVk1TndvZkdHb2JFbnpsMXoyeU5oZ2g1MEN0ZExqZXoxN0NNWnBicHRrM0Niek5FVUVzc3RqUXlVWGhVODk4NjQ0UUtXMzNDeFZjZ3VVaS1fUWJOcld5YmlMWnl4Znlkd0VGaWdpQnV0ajN1VGlKRFpxUHhzTTd2VXVQVy1zd9IB3wFBVV95cUxOeHBVX295Z041UU01Q0xFNzdDT1gyMVBWNFJFcFp2OFFmQkNrNVlWTkd0cDZpQjBNM0Z1cU91WThDRWNraTZSUm9Dei0tNDRHMWQtN0NoQUFmSVQ0Q3BYc0cwT296ZXNBblcxWWNXUnJPRndJbWpJM25jZ1AzNWpadElsRmtjMWxXaE5QNGlJZ0JNSDUxWk1KU3Rtc2hlWlJaTW9faEdTakhFMGZYR3ZsbFFiaXdBVUF3VjVWQWVLWTVQT1lIRE5sZ3BuV0xrazhINzBxNHdDdkJaV2t5eWxV?oc=5",
+   "published_utc": "2025-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In a first, Tamil Nadu police deploy AI to manage crowd at Tiruvannamalai for Karthigai Deepam festival",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVDB0c2tjdThUVTdMaTRpSHc4SldPWFg5S1Bsb0FoQVNJemljVXcxZVF6LTNJOVdCVno4TkU3ZnJvd052SmUxcWtDcWNBMUxQX0JaZTJ5UTZEczZDTlFZdEcxaUFJLUFTbFZVdzQ2LW9FVk40STdlM1IzcEc1bkY5S2RFTkJTcnp6S1lEQjhibVZ3T041V0F1NUw0LXEwa1o5aV9OVmFYZVdpT055V0xYaFJ4N2VmOWQ2NDBZTF9OeDJMa05scTAyaDdzajVlVzJSMW1xNWg1WnVJVUNtNEdfcFA4eVZOZVo3SExNSGJwRVJSWi1Vajl4VVRfaXN4MklzMnfSAYgCQVVfeXFMTjBmOEpJUFpvMmU5VmZnelFKYlhtbDg1eVptS2lDdFBVeHRNdkxJVlJkWmpBdGNNXzZsQUJwSjhMdFZ0M0NSN3lSUkZSd1lNbVJ6djhKcGMzWC11cktPV2xySXRxUGdIV1JPSjlZZF9iQ2FlSzNKYUxCVEhvWDc0TEw5ay1GUXRkaVR5ckhHanJlNjZhMEtLQllBdWI0akk1WE5UZjJxY0Q3Tk9MV2M0aTNOZ3EyQWxzOVRnOWtJWHYwcnlNakVtdXE1NG0yUjJual8xNjJmU2FYanZyT05JR2R3eGlSUTEzbDkzN2JwNjFZeGRxSWN1NnZmamVENWp2SEVsYW8xVWds?oc=5",
+   "published_utc": "2025-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Free laptops for Tamil Nadu college students likely from January 5",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWJUSEVpUV9PbHBMTWNmOEFIS1MwS19PdjdZRlQ4XzZzVHBmZDF4X19zQkpVaEVnSDU0c09OUFFyNHRKZWVGckVZX1ZmbUl5YVFUeEtpQlI0ZTNZZ2QtOTNEQWxSR3N6RkU2ejBGaTdFQjlmU295bi04XzFadjJoVzdONnU0RUpUemNsSDhRNXJReF9aNk9ldm1MLTROdkNXVmxtX2pKY3J0WUt2cDlubTB6MUo4SW94NGVpb284eTFMM1VYc0ZPRdIB1gFBVV95cUxNM0tXU1pFemMxaFktUVU0d0MtNWpRNnE4bUIxa0JTQ0ZBZk1Xbl9rSmlYZnEyamt6UDhZVVlVUmRfUUcxaC1DUVktRWhjV1B1ckFRa25fc0RtbXk4ZmxnWHU1bG9UWTg2VlhoWU9LcFlfUFV5Q2dZdnpETkxRRG5xUXVhbXY0TXFkY0gxZDBmeE9JSVFyaWMyNW9QdHBXbFQtZTdNRkNSSGxRU2tEV3ZLYk9teTA4aDBVRUZGN0FkRmEzWGsyeExLVkRrYWtDbzlCa1lDdlVB?oc=5",
+   "published_utc": "2025-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-10-01 before:2026-11-01",
+ "items": [
+  {
+   "title": "UP Cabinet clears AI mission, targets 100 startups and skilling of 5 lakh youth",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNkV3UW1PQVFqc3pSdEV2UjRfa2xndHFIYm9iYThwWDR4RU04VWVINkpobjlENXgyN2J3WmZkby1SYWVyeGlTZ1AwbTZFMzFqRnR6R1RzaHV0U3VmX1pGeGhNcjFuZHVhX3NsNGZvWkFtWG0zeGNteTNWS0tzTEIxZ0N1M1l0S2JULU1VQ2NVM1M0NENJZEtLdmZSc3RVWWFCdDFETkJhRWJWTUVoSkNFY1RrSjNabTd3clVPNm9nOWR4RjQyQnZLZW9BMjdTZTFtaXBtWkFXQUhUaUVHUFo0QS12V3hHWTFrMEHSAe8BQVVfeXFMUDhXU3h4Y3hVOHBmeHhESjJTR3VBOFQzQk50Wnk0TnE3cWpvYWwzWGMwUXNUVFQ5ZjdUWWNLUHNlWHlyZEZkYzc0bWoyODdqRG9FSmxZLWhlNTFPdlVSYTNvTE56U3huMFpPSGJmMUp6UzduLUJPQlBrc1BCZE9naTZ1VDkwdWJURGNCLTNVWmF1cVJ1ZXM0LVpDekVLSTdsd3ZBVVpNcVJFVkxidVhLU0swYktSUmNxai02aV9ScHVOMDBBQ0ZCSTFIbVp1Y0UxN0hBZ3JnQ0VDRDVJV1FMTl9rSGZubUV0NmxSTGhZQlE?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh to launch state Quantum Mission, steps up push for AI and robotics",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWNUM3FJVnNXOTFEMVJOM0V4RDlyRl9wTnVZaUJjS3M5N0k3NkJkQ0Jwd3MtdS1jYVRFRjB3cFEzSzZLT3JBcEhCdDRRY2YxeXRybjFta0VNUy1nQ2FpT2ktRkNqWmpURndPUjI0QmM4RDUzSXZrblhwcGFyQ211cFlmR2E3SnFGUThuRm5ZYy1tOEZRNnQ3eFhoU2xOVWE2bUY3c3RFZnRyeDBieDZOZzVjMno2aUFGWWlodXRFOElXV3RnYTRaQnlrZUs1ckRHbllZeU9xWGE5LXd10gHiAUFVX3lxTE1nTkhZcEZTTzBWSlREWExlanpFT05tbjhDOGtENHpDaGU3UUlIMTR0UWtOQzQzeGNOSVR6cWxZSmtVYkpmWk5QRUFJYWVzNWR4VGQ2bmtTVEJwT0RHMFFNTkowTjJUNFNfREFKMzllclBDSGQ1dS1rcFlHSVZ3SWJ4cFF1ZmpHcTk5bzRTRWhOTjF3YVE5bXlfT2RiOEl4dXg4Z1h4OW53clIwbVZqaVk2SXVZRkRSUm1sNkZiUV9JZHNJWmV2MV9WV2RyUW9tZnVndmowdnFIVzkzeV83NlhERUE?oc=5",
+   "published_utc": "2026-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP clears AI Mission, SAF policy to promote tech and green fuel | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcnA5U2NQa0dvSEZhekF2VmdyY3F6LVh3bENYbS1Id3RIV09OSGRiQ2dQdDlhdUVtNEFvNFZYXzUyWks3a0NhTks0dlN5Vl9GSUcxUS14eXhPV3dOSmYxR3ZpVEYxcmRfTkdZUWNQNWxMQjRpeWxZSXF3NWV2UTM2SzdKV2N6MkprX2lYa1U2SHk1cFpoR21Qc0FqMnFTdVBWdjlNVVVXZjFSNm9vSjJqeDRwZXBNU1F3ZXFfV0hncHg4U2tWQlhpUU96emFkeDDSAdQBQVVfeXFMT2w3VGpfR2N6dEtCZGRXUk5sMGd0bWVnS0ctWDdWOUVHNU5GV1hPWnBZZXhoZ0xLd1B3YUo1MFV0MWdUbjhOZGx3SFVrbS16OE9rdlE2d0N2YXFORzhKWjY0Z0xXeDlsanlvNHVxVVlZdjVzN1UwM2ltT0REeTk2QnlvY3RsTlkxdEdORzlOQk9abDdvbUZONWw3VjViNTJVRU1zUkhab2tOM0RUODZ6VTYtb28ySTlBMUhSQTgtb1lfWHR3Y3F5ZmpwdGhjVF9FckIyZVM?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Launches ₹1,725 Crore Sardar Patel Skill Mission, with AI, Robotics and Data Science Training Across Nine Zones Covering All 75 Districts",
+   "source_name": "Elets Technomedia",
+   "source_domain": "https://digitallearning.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMWJjVWNwSlZFVlJiSDlOd0Z6UEEtM2xoMS1yaU9XVGM1SGtXRUJ6dHg4Tm9hcWlpa0dyLUlUcDRKemN2cnVIT09wVE9vazhobmZpdkVib251WXdNZy01ZEw1RUFhZk84b0NtcGIxNzVTYTVJSG9FNUw4RWhvZnBQVFZVOHRBNnRDM0JYck9MMmRrNjhibTVZc0h5T1ZZR3MzQVAtaUQwSTJZR1NGWWFYb3BjcHh2VFpudm4xeHppUWhnOXN3ZHRMVlAzZlRIRDVNcjBBekFINjAwclJBbHRod0FHZU92N3FfYm1waEh3?oc=5",
+   "published_utc": "2026-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP to back 50 AI startups in Lucknow, HCL Tech invests ₹500 crore",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0pIUGlnUUszZThNaFhsS05fbkRqeHJSdUJFbTlYWUd0M0JQOXU2YzlaVjBBZUctakRDUG9qX3ZJX2p3ZnViRG1LRFFGZ2M0NkhrR1djVWJRN2FNaVhpSWp1enZMdFFlQ3hqX1dfVWFpTnM0N0VuSDZmN2YtUVE5N2dUMXE2SEgxUFJJWC0xUdIBlAFBVV95cUxPem5oX0d6SjIwd05GOEhqWGoydVVBSGRqd0M4OHByUTU1UlBxQURJNENJSXFDdGVtUk9lT2liRDZJdnNsa2RHZmpvdGRpd1V3NjJQVlQ3dE1HRDdkWXZIakVlYkRhUjdnWjUweU9FRGVkdlYxSzhCcmRQYnFZN2VpZ1R2M0V4U2pLd0JxQlpRcHFWaEpz?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Government Plans Quantum Mission to Strengthen Advanced Technology Sector",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdFA2dmg0Wko5NEdPNGFHVWxFVDBqdDYtM3UzNlktY1Q1cnMzdmgxbGQwX3VIcjRxTVpLV0FZNXUxMDZ1YlpsUGJ2TEp2Umw1NTk4Z3BXQm56Rm1pQ0Zsakd0RG1pRGRRYmE5aA?oc=5",
+   "published_utc": "2026-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh approves 69.52-acre robotics and AI park in Greater Noida, targets 1 lakh jobs",
+   "source_name": "Prop News Time",
+   "source_domain": "https://propnewstime.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3RZX2pUdC01ajJnNWk1dE9KVTZ1N3dySXphNHZ6Z0NqZWlwZUNYamo4NWxpYkVRM2pwMlRPSnFPclhZT0pWT0JhREJtRzFkZ05hS0xvaFRKYkVEeFBhbjBuSEhRbExoakJVY2lrLUF6eGtXQWhuN2hJLTh6clNoXzVhUHFHVC1ieklVNU9SdUpNVXJDbHdXbi1EQ0VUSnl0MVUxc0tpTDFfdzM0cUFWTndiZERaNlVmUlA5TjBlcUJtU01vbjVUQVQ3RnhCbDRIcE13S3Bnb2tkeEU?oc=5",
+   "published_utc": "2026-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vision Conclave 5.0 | Vision Conclave Uttar Pradesh",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOeFZBMml6bTVKWEljSU9IYWlSbmZkaGpmaHVrWmNhMVhsSVNrdFFGTndja1dFM0lsMldRSXpJOUpsZy1qZVlsY3Y4NVJ2Rjk5dVZJSG9TVnhDOC1TR1FpclRkRHR5a2lxZmFrdWpkSy0?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Clears AI Mission to Promote Innovation, Train 5 Lakh Youth",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWdTRnRxNVVtdG1sXy1JbFdpcTVTNjBvMHZoMkZHYkhZei05WmJnaDNZNkNERTlyOG9ZZkE3bS12OG8wRW80SnMzejdPcjZIMVBHT2M1dlZ4bkU1eE1qS21ZMW84bEhYTDFyZU9idmRnSmRUTkF2WXRNM2lLalJ4bU93b0I1dEN4NF9uRlI5TS03WmJZNk1IX2owcVFoWEU?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Approves PRAGATI AI and Robotics Park",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeWVwaWZhVEdpRHA2S3dCb2pUS0FlOU9ZbEx3ZlhMajRRT3hGUUhzWXZnNURYbnp0VF9sMHY3RnZEMWF3MWljclZCNWxZZjlZQXBKQzQ5SDZ0ZVBjdWFUbWxORlJodnhBNmd1U2tVbXJFMzRzWVpHOVVrX01fck1zRg?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HCLTech Commits ₹500 Crore to Expand Lucknow IT City With AI Skilling",
+   "source_name": "Konsulteer",
+   "source_domain": "https://www.konsulteer.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3YxdGRuajJlTnNsY1JDdG1DWlFQY1dyT0xLdXBMUVFTNGRzOTJVMC1OQWllTTNqbHB6V05JZUdPQ2swbG5LangyZE4yX1NHSmJ5R1VKODFlYld6UTF4OGJEVWVEeEQ3bl9Md0NvUnItYU94b2hfeDJuMWE0VHFZQWZ4Nmxxb1ZselFIV2l5Y3E5MW1lVnNMMHZQU0h1ZW9nOHBObU9R?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Attracts Global Tech Investment With Pro-Business Policies",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlNWeUFZREpYUGo4OEY4MFd0WUxQTHpBLTJya3pnb0d3OE9lcEdCX0tCVWZJaFNuUURmQlhaa0lJQmtfbjRiVHA5ZVM2RjE1Q2J2VlBaUFk2c2FGWVZWMWpPTXRSSnc1OUJpX2lEMTVUbGNvTDFmUENCQ1JPY2RlTjc3ZnFIa0NEdnpRNE9CM0dhamw2Y0ItT09WQVNERlRmOGdsQnpkOXF6TTlvUWRR0gGyAUFVX3lxTFBLY21OUHJpUzg0Y0J0c29sRW04Nzc2QmRzampBcWFiUzd6Y21zZk9USkVIcXVrRkRQdG50aXVsZmNPWVY2VWFPMS1pVmZfZU9YN3V0aURPSEZ1TE95ZUNGODk3X2trc1EydHVQYkJSbTljWXpqVFM4SWxHMTloTjlMaHRGZmFFMUYyUnJHY3NXNGtZZW1hTXF3UmJ4bjBvR2pSQVdBbGtJMWRTUWNldDZBLVE?oc=5",
+   "published_utc": "2026-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HCLTech Lucknow: Rs 500 Crore Expansion and AI Centre",
+   "source_name": "DQ",
+   "source_domain": "https://www.dqindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUI2ZlAxNGpwVlE4aG5faUtkVFUxN3FvOGRiMy1BdUpTS3FHZ1BiTmN0T3FTa1V3RGpSbG9RMmhYWnNBUVlQV3dpTkFqNTJGeVg1ZG5neWFSd0NvaTRtN2tUUkE3bnNadlFveFJ1alZvMkJ3WWxueWFXcThuRHMwZHdpVHJkOUl5WjlrVEktQ05pN2pOSGhfb2luZHFfeXPSAZ8BQVVfeXFMT0FCNmZQMTRqcFZROGhuX2lLZFRVMTdxbzhkYjMtQXVKU0txR2dQYk5jdE9xU2tVd0RqUmxvUTJoWFpzQVFZUFd3aU5BajUyRnlYNWRuZ3lhUndDb2k0bTdrVFJBN25zWnZRb3hSdWpWbzJCd1lsbnlhV3E4bkRzMGR3aVRyZDlJeVo5a1RJLUNOaTdqTkhoX29pbmRxX3lz?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In UP SIR, ECI Software Auto-generated 87,127* Forms to Delete Voters Without a Reason",
+   "source_name": "The Reporters' Collective",
+   "source_domain": "https://www.reporters-collective.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDZhYkJoOVFVTVQ4R0dUNTBBbjNTdHpvNU5uQmVUbDNzbHJjUFk3VHVnWXB3VFRjWEc3R1RwZ3JEcUZwQ0VfRTg1R3VrR3hpUFQ0eEZUSTU2dEFqRTc0d2RjS18zZjh3aC0taFZkb3ZnVjNEMmw5dWRpcjFyTzRrblZpcjdMNmxGd09Pcm5ZcHE5UkRhVXc5U0VEUHdnTDA?oc=5",
+   "published_utc": "2026-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Approves AI Mission to Train 5 Lakh Youth and Support Startups",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3V2bW1iU3l5YVNqRTRIb21IRXcyMnMwaTB3Y3kyWlhHeHpfUVFzQkFFNWg5NWwwcngwODhoYzZyOEFlYmJhSUdzaE9tM2JYUng2TV9Pd3o1eDZtb2JfanRQZmZKeUhUSTBzMHNwRkQ2T0xONFMyOGpRM2xyRmViRS1OSWw4RUtyWVcyNEFKdlFQWWFKZHUwaWN2Q2FfNXJ5ZVRQNG1B?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ETGovernment Vision Conclave 5.0: Uttar Pradesh bets on AI to power its $1 trillion economy ambition",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQkFSa19rN01QZ3licXp4NGQzMTlpUGxheXBwejJ6R1FpQVp6TEVqQ01EeDNFR3ZoOWRVLXVjN2s1TWhraVVKUmFUYzN3S0x0Z1h3NXA0aktBcmR6aWs1Y0JTLVctRURLRDVMaGZ6Y1RTcFBnVXNUdlZHMVI4YXBiZXcwaE5ROW93ZzY0c09yTEJIQUMzNnZGdmRyOWdLU1dmTmVpdlNZWGxfUWFaODJEUEt3QmtTWmh4aHhjVWRPckVxcXZkZGhHVjZ0Q0ItWVJtU3VJNTk4cmphMTFJdm4tU1IzbkhaaG1lSWpIMk5WbW9kMFVYU0FmMXZLWdIBgAJBVV95cUxOVVZPbGtFc0F5bnJENUU5U2FnNmNnN0Vhb2NZTzBfMjh6LUZ4Wmw1UXVPeEc3eDJtTERjMmlmUUQyZHlvWDNlTGVPYjYxTWREZXFIVm1RXzVEeFgydzk4cTBpYVpqUDQ5OUJBY0w0TFBZSU1uN1RrWVNXSHg1ckRCcDFndkRnZDEybHlQMkFvSEg1aUNQdGxWX1VXTTFNOG1fOGpwQTI5dzZabDc5emlqYkpsZmh2UXZsdllHTG5vdV9OS3ZhRnlKbjgzOXZPSWx5QVQ3Wl9RR2NtaV9RaVBoRmptNzN1dUstcnFLbkZIMDRUYXpYUDJIdmJxRUJ3ak5q?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh targets 500 GCCs by 2030-31 as LG plans ₹634-crore investment",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObF9JMFhEQVRPSTBTT0hnOHV1dnlST2RBVzJEY1pBZ2tiaE45QW5NZ3hpMXVQTVROZGNpUVl1U1ZqaDFmMHJlYWFrSWJLR0w4RXMybnJndExDWWRWZk9FSjNFRHZCZnFDaFdXMEh4QmQ0MS1pQ21Jck9GU09pLW9LNVdZZm0zd0Nob1UxaGNJdkY2X3NlZUZ3MzBGY3lQbW4tLV8xOFgyRjc4SEJfSEtSR1JMOTNGWHczb0xqaWJfRnFlZTM4VTdYVzJOZC0tRi1WWmhqcWM2NEdLVng1UERoONIB5gFBVV95cUxNczRTOEtWbmRmRUIxbnRBZ2VoZGdmRzg0bkRkT3VxOHRPc3VSUXpSMjBTOVEtZUdQc191MFZOTFNyQWczUzNyTURQVzVCMlNDbDJyeVIwcEFlTkZ6aG8tNXZxREI1TlV0UEhNWHZNaGlIUUpkdmR4UURCT2RnRDRRTnhvSFJ4bWZ2ZGVfWnVlVkNfZ3VFRlF1Rm9KTjVhM3Vzcng1WFROYjdqSUxiWGtqdHN6Q3l3bElCY19razhvUk0teGh1aVhRZ2ZScUhDT0djdG5tRnRYWEp2ZzlsS01oeW5ralA1dw?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HCL Group to invest ₹500 crore in Lucknow IT City expansion; UP targets 50 AI startups",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGMyamJ2d2sxNmpLSnZuMElCOWExR0pLSURmYW00MTJFNHlibmttV3VyWEJSVGNCQ3EwS2ZoRWpaM2V0WXlyVnliV2NNamtjR0cyNTVjMGl4Q0NsaTFMdDhjZlRLWldPVXJNZFJtMlJ4d2JSWElkOEQxeS0wSG1tZ2lQcjJmV1FXLTVGaDRIMmJCRFM3RlQ5OWpKXzZkWmVtSGZXc1QwMWNybWpXU2ZxUEpzQUxSYzdBSndUZVRfdDdySWE0dWFwQVZhRWJuR0lRWU5McUJaZWt4ak92em1rWDRhajhVOHhtSmhrdXFn0gHzAUFVX3lxTE1EdFZQUkE0YTNyRGM0c1Q3S2Uwd0dXY1YtM2RVbVE2alQ0YUZTS2JHZlVBLTItX182U3lKcGIzLXppOHR2YW1LVlRVZnhfUGJzWjdpbDdtZFFSZEJlZ0JPN2gxbDVpcjZqNl9Jd2xMVHBuNXlyOEhkcjFHb3R2cUZfWXhwTlY3SHIzNVpQa3Q1RS0tcUxpS3VMMGRFb1dha0Y0V3pDWTl1azl2Y1ZyN0hBS3BGVGdicF9QUEJiZUF2M2FpNnIzaGtPMGh2cEpmTnZzeHVrVUd6VnlKNzlfMTFqcGpkMTJacW56bVhDcVlEbjNxNA?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh government looks to attract semiconductor fab unit: Vijay Kiran Anand",
+   "source_name": "electronics.economictimes.indiatimes.com",
+   "source_domain": "http://electronics.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUEQtWjFYcy1xWE13eXFVTkd5d3JKMjhmcEtXTlAyZ3hyWThZaWowT0VaLU41T1lGYnpxWFl6SVJkUmNod1QyVXlzZHNTVkNKLVlIWm1vek1iQ2VPTTFfRzRIaFhqaVU5R0tfRnlNVV95SGFCLXdoNHU0SnFvVzNYcWVqeWpBNVdSaVNiTkFmcHV0TlBpaDBGaVE1Z2hjaHRMMy16T3lRM3oxQ18zdzVkM0NGQ2N5bkQ5a3hKalpSc1J2RHhZM05Ha01LU2xqODlVWmZxWTBhZzFhdHlZazU1RWhTQ2tkdFJUeElLTUFGYVZoLWQ2M1F0d9IB_gFBVV95cUxNMTFSTW5QWGNsQkdDOS1RV2dQYUwteTR6MGx4Rk9RSHoyNm40WWY5ZzV3RzFPSmZoa2dMUUtBXzloVGg1S3JobXpReDh5RG0zc0ZjU3pJUDJ6NXcyQm5HRnEtU0ltZ0h5bmxiN2ZmUzlVaHNUaE0yNFBJUktGcmJpLUpKRlNPR19uS2ZRV3UxRWNOQzhIQXlFUUNVeFp0d19keU4yeElZX3FYdFNKOVNETWRRakU2Q05Wd01EckZkUHdNQzZsbUJPSjZFMUJLNHZpcjkzSjhhSnFFVFRuLXVhdnlDWU4wYUhoSURtX0Y5Qk9mNTZTVU1OTG9RM3hQZw?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet approves AI park in Greater Noida, ₹17,542 crore for four link expressways",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW1kS1lqMV9CNzd0SjJMNUIxRXNXUGJhOGFieTNZNHR2V196Y3pNekxVelg5elN2MndhZTFaRFV4UWYwd1o3Y1JuX1prMjJQS2hrS0w1bjZYU1RYaVJLbUlJQmdhZWJZWHVHWDd5ZTZrdUYwODRzRUktMUhpQ1oya3RBd1JoalphSFBMTk5xOTNPeUJmT3paN3M1VmhBWXVHMk01U0JsY3JPdk5TWHluSTJhY0J4UUVhMmZSUWxjOHJmZWFCTU5Z0gHMAUFVX3lxTE1ON3VZdnh6a1c5RlkwbU9iOFNhZklZTUJxRXdTSzVBZWFxcFB4N1hYdUQ5eTY2Y3d0SHlGVHhEREg2eEJteVo3b2o0NWVYR2NZNnBpVnlJbGY1T2cxbGNDNEtkMU1HNzJpWVJkNkFqRU9paEhuVDZpcGxkVHhXUG1xZlJBTGJjbUl5VDZrb2Y5ZUU0Y1hZLTI4ZjdQUU9DX29fdDM4SDR3bU5iZHJRWTctal9FUWhGaUJMMVNFeExWTFQwR0p0a3hremFrTg?oc=5",
+   "published_utc": "2026-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Afcons Infrastructure Wins ₹3,469 Crore UP EPC Orders",
+   "source_name": "Multibagg AI",
+   "source_domain": "https://www.multibagg.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWJneWU5T0dFX2NfbVJ4RUhCTlhNdmJjT2VRTVpmVDd0RHBXVnd0RzM2Q0J4V1liVUlEcWxKbmFFdzdiaTNQRXVBSGV2OG5USW1xckswRHFfUm1rUUNMNFQ2MGp0UFN5c0FlR0FVcjJ5cW1vQ3M4V0Z6U0d1NnZXa08wM3JTQ2VIbjNYUE1DUkJpa3VFQVV3TkdmSktsRGM?oc=5",
+   "published_utc": "2026-10-29T14:29:54+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Yogi launches Rs 1,725 crore jobs scheme, skill zones planned in 75 districts",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcXhWT01QNUxQRzQ0X0xZay1pRGw3Ukl2RUJ0OVFJdTh5dzNPQlc3YnM3ZWxFUy1XLUFhU0NCOVJjckxCNDVZSk5fX0ZmQzNOXzNZbjlxd0pjMEp6Q0hXcnFtU2dBS2UxQ2F1aGpOa0ZmSUMwS0llUlZpb0x5NzJOR3NPaEtyQmQ1ZmJCemNCaTlKc0xwSVFpQnJ4YW00QlhQNEQ0bFZVSTN0bC11NWVlaS1yeEJVX1NTMXdKcWpuN0VJSFRpRGZQYm5UblloTlRqSEpzVUZB0gHbAUFVX3lxTE5xZXhOTVoxVkdWVjAza2s1b2lrQVZqZEdsUnNJSmpLMHhHNm00T3RndXlmWldfaU5jcHBQT3N2Qkhvbzk5SkthSjU1RkVwUFpWSnJadU4tZVlWR1dvLWZkNFJqckdwZU1ZTk1zV28yYlpxeV9WS1BueWpIN0lRa1FhUjVaTW1vSXIzLWtrQUdCcjNzUjZUT0dtaV9oUzhtcjZJdkUzUnZHYzdfRm1haUQ0WjNUelpQNkFSc05seWQ5UDNPQ21zclAySExReXB6dC1ZVUlTMm1CdnlSSQ?oc=5",
+   "published_utc": "2026-10-31T08:26:23+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Secret lab in UP village, Rs 200-crore haul: Mephedrone unit busted",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVBHWDdBV2ZNbldtb0tyWEJJWmdhZmhPZnd2NDZrUWJwdEFGdDVrTktXazd1TV9sNHBOYVhHV1huU3VIVFNrYWFmUmlmUHNybDVRdS0wTjdVcG1mSkVKRzFlN2xhei1HYVhKbDQyVl9PUVZVcXhlMkZmTDFQWGlmVGxZaDRPSXNVeUlRSFlzaTFxZExIb0VlVFJRTlM5LWh3VzlLWkhvODV0dmJB?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Four Teams Win ₹2 Crore at Samsung Solve for Tomorrow 2026",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeWZJYkdiTkJFVHZ2OWQxM1E2LVFFb19Oc1dwWGNWZUNhLXhlOVdxdXNySGIxa3QweW1CcnRTYkRyeVFuR3ZzYVlLWHJkYURPcGFyR3lYTUNtN1NwNjV4eEk1eC1qVWlGeTMxdFNlSHJtdVdseUVWbm9RLUlfWVA5S3NXa19DOUdJQnVzQ1pULVA1SWp5YUN1NE9B?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Afcons wins ₹3,469 crore contracts for Jewar Expressway, Lucknow Metro",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTDY5Z1dHLUtfYy13ZHN0Uk1zZ0huUnJBLTUya2VYaXpuYXFKZ0VSTDhPMnFtTE9YMjJwYmFKY1pEWFh0bjZxMnl2TlFWLXd4V1pZcUxFbFlNRjJORC1ZTUpJeUtCekltendnczBTNlhuSUd5SThfQkM0UUZ0Vnl2aVhfRktGNENReUpoakRzSS1LTHFadWF1dXpUVkJySlYzUGlhX1haempZNWlnbWRRbUxlVWpPc3RsV3RFQ0hYRnoySGVzbmZ2Rm8taWw3dTRSRWfSAdcBQVVfeXFMT19sdVJyN3RqakVhbDg4ZmI5MVA1N0g1YVROX0lDSEtjRWhIVkZuSHlwdGY2aEliZk9WUHB4RzhaOVNfMUV0STdMeHR0NTZ4SGkzV3E2WGhhYVcwa1F2dVRHQnU0Q0pwY25JTmg0RlF2Z0hwQnAtbzVQdDV3UDFtMTRBU0JfVGdERGJxempPQUZsRDVqbGNzOGtDMXA5QTY4aWRuRnRhb1RhdVQ1Y2ZtV1JiSHYxbThYdEFTcVdYemdubm5DT0VJRE8yM2ROa2Q5U1k0a2R4aXM?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "​AI Matching Flags 22 Suspects in UP PET as 3.92 Lakh Candidates Skip Exam",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnFlaDY3bmg3VVppcklMUG40WTlINUVxU21pWjFlaFBmc0xOc1VHNzVJMHZoOWRHak40UGF5bHZfbVBGZG5pS2U4cmg0N09jQmVYZ2IzUk1XVE5FcDhUUlBuR1hWQ19oakt1aHFqTFBzMzJmNy14OUo5R3A0c2V3TTMxVDhFV0lzU1JMTWxqT1k4bnBnN0pn?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Kanpur to set up and operate Uttar Pradesh's Rs 104 crore cybersecurity centre",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkpoMTJJQWRsaUd1ZHRGbDQ3dEQ4d0hUV2xIWHNjNGd3MGJVZFRydjlVVEtsUTN2M2R6enNLcDJhUmcyU2xZMWNrb0hJWktaWDJnNjVKVU1nellDd1NwWC1nSmRCNDVQbTlDbkhKc196RkN3SUJkMTVWVzZTVDcya0ZrREFGY0YtUXBTbFNjc1FIV0FPN2w1U0VxaER6UU9vWkpNMG1NSUMyUTRkWjZ1ZmJCQWN3TXlXZk5sNlUwMUFrRUtEbnRMUzZsRlc0dzNJbldOYVlmSTkxWGNWU3pz0gHkAUFVX3lxTFBfbDR6bHBVcWpfUUJ1WnVzeF9YSzVnR1pyckxCV0FGTDhhUG5qSy0wcjVQYThrTk5yeHZYbGxyMlFvUTRVblI4QUpkdWtDam9sT1NfMXlHUWJzZ2NZME45VDlpYlZoa1RZaUY3RF9pN0Job3llX0pldWVDNk5ITlpubGF2VThzaDVXeVpna3R2TGVNdHdtY1lmbmw0UTh0OUFDQkc2OFBxM2J0Qm9vVjhVRmdrTVNNbHpzS1JPdGU4UFJRemhFZC00bXJXSkh5Y2hobEFBU2RkR3pvaGo3VnJFUEFfag?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Yogi Adityanath Cabinet Approves AI Mission To Support 100 Startups And Train 5 Lakh Youth",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdVpSZHZ4d0tUeGRkNU5OdU9kTTV2N1ZCQzlZaDNtZTU2MG5ITTdnWk1od1drOVlKVTkzY1ZteUIwSnVXQUhMZVh1TWx6bHJDcFhjZVY5aTNRb2ltSFhWTERLc2k2TjRyWm43OF8xMHFoRHRXcW4ySTdtSVJYVzR2ZVVoRF94bFJHTVRpSlk4eWNLcEx5dlU2VzRtS0dqUGg4QW5lNWl1ZkprdnZNUjA4dTBHR21JOEpvRTJtWWJiZ3BSU0xlc1I1WUNCOTh0TTBocFBZc0VUV000dTZOTjFMOUJIeWPSAeoBQVVfeXFMTjdSNTZNOFloNnlMTlYxWFBXSDZuZUN5MzlITHdyb09QS2VqMDNqUG13QkZ0UGhncjJoNUJlVkhlMUsxSDkwVVJwbTZ3MWV6QnVWczRwOFJTb2Nvak9zOVpXR0VmRXNPcnR2NTNweU15NFhPSmxRUXRuU0lSZUdoam0zM0dBTnc4QlU3SGljRi1MZ1BVWjFoVUZGeUpqRF9QMXFVdUotY2RIZVM5d3ZPYTZBUUl6NkNxWU9fZDcxY1B1NXdCeHhKWnQ3RThibHhnZkVfc28xQVdOeDgyWHdxMDVwOFdMZTRxOXJR?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet Clears AI Mission, ₹1,725-Crore Skill Scheme and Green Fuel Policy",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzZ1S0VjQU1yYWlwcUwzQ0tZN0hMVFpIa3lMZXlta2o4aXhlc3EwSVlyRU02UjYtR1pXN3NmcDVMRGVITXJnVG9vUE1Fc3YtR01lQWZqaUMyc3p0T3VZX0FEakJiN2JwYVdBODRaTEhNSHk0TWNMeHZVTDN2WnhMNDVSd19nOF9Dd2JQUlR2SVpIUnhuejJHcnBRWGdSS3hp?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Yogi Govt Rolls Out UP Startup Policy 2026 With 6 Key Pillars, Focus On AI, Quantum Computing",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMHRJZUVkUTJrUWpDdFhrUTR5VzZxaTVZWVJacEtrSEsxRGhLLWpGTEZScFFjU3ltd2laTVM3R3NxQjZ6X0dTR1hIT2pQVWpOTHdPTmg1d05nTFY3dmFzUDRfUldDdmhYRWEzQVhKcHEzNnRUNS1zdk16QUQxNmNHaU56ZG4wcnBmY1o2dGo3SjJMVzEySGx6WFBuYWktdXlzRDgxbHppU0h4NW1RRDJqakgyWlBRcXpRMC1TSlRRS01oVGZja1VManlMVjRUVnRtOEtXNGlmdjVPQkgxYmVDYTZ5T08zRUFuU0VVbHkzSXJhQndfREZtZtIB_gFBVV95cUxQM2k3WUVQUHFNMjlVM1VzN3FtTHJvWXJ4d0E0enZkb1dKVXUzZnhWUXBUX0hWbGJZS21GdlY4cmhSNTVaZDF6YXVBWGY4N1dka2xOZWI0R2lsd1pyUE1YRDNhUzN1ZmRES3FGRDRfcUxGbldmdzExTGgtSl9jSm1KYzdaOVJfYnUzbFFiTEhYeEZWZ29TWUw0YmxXc2xKVEYyR3c2LUhxQWNCY2J0eGNZcHVuMUJpeW1FczNBZUctQk40SWV2M3NYZWhqWkZHWVNLMlZDOHp3RS10NEpBd1F6U2MxYm9fU1lDVG5pdGJhWENHR1JweDRBaUd2akFNQQ?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Yogi Adityanath Sets 50-Startup AI Goal For Lucknow As HCLTech Launches ₹500 Crore Expansion, Eyes 6,000",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ0tqNjZGSGZ0NWNnUWc5M0x5bUplV2s5UENwUVM0bC1YS1N2SndMWGdxVm9RTk5KZzZmdHk1VlYtUDVPbTY4MnZDd29pZXpyWkZtUU12bHVxd3ZfeHhFaG5lVHlaYWR5eW13TVRZTXh2TmpvY1h6RmxoVUV0OV9RbXhVeHB3cEhnMm5ibDJPdkpJX3Blb0ZLdmN1eTd0LVM2VG0xRVlpS2ZOVGlwdzVOelREc1RGd3kteVZhRW95WkprOV90czVDZWp3SVFQZGJTWFdUbmlHX2xJU3l3cklfcjVxNF8tRmZ5RGQ40gHwAUFVX3lxTE9WYlZyc09HdG9HTThuV1RMWjF1WDJ1anNVVTF1TkZYYnJFczVRaGZlQnRwbXF2TUVoZ2ZSeDdjUlRnZ3A2Q1M0Snc1WDhlLUg2ajNsRU8zeFI3Q1N3eFJhb0lubEFocnFqSnVtX2Jxc1JiTFV4OENSR3dIRkJYajdIYVZ2YUc3ZmJOUTVyZGN2Yjd3WXh2Z1hxT3Q3UDJBOWRlS2Z1d0Fna0g2aXo1Y2xWdEJwV3ZzMUJUMGpEblBfU3JxZFBMYlZvVlhrSEEwck5LVkpUQVNNQ2RHdXNXdjF1VEtzY0NZcnhoc1lvNTA1WA?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Kanpur to Operate Uttar Pradesh Cyber Security Operations Centre: Check ₹104 Crore Project Details & Objectives",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVzJObWZHT0FGMkJCWW9SZDk0TmQxTlZ2SEFja0thWXRNeUJ5bFdQUGlUZHJZYnl5YmgwLTM3ZUtNcmFIdkVSTW93YVB3a092by16S1VBVGxDaFZwV2l4WWZhSkphUDl5TTVJX01mejVfbE1nZ2dMLUVZNVZiVkxNTXRiOU5HbTMwLWJwSzZLZC02d2dld3VLY1UwNUE1S09pa081clpEQTBIS21hVEQzQnhORVNoYVFPdVg4cHl1SXZKVmROLVk5WmFOcXR6NWE5SXE4R3FvbUg4WWN5WTdrNnN0RjPSAesBQVVfeXFMT0YtVS1nemlteFBFM0hnYTg1bXZzb2pzQTlYeFRJSGFrOURlX09sNnU5TjZtZG5XSDJrSU8zSGpjZGdfd25KVkxLUTZPbHVKSVRHQ3VHYkJUbzVVZWFMeWxNakVXZzREVnZCd1hEWVBoZ1oyaW1nMzkwZlA4dlNYX3BsM2wzV1BIVGN6cW5kRDItQTdYajU0SVBXRTNhdlFwSmtCVUZiQlJJaXFXWXpZajBYX1VlMmdVWnF0bW9qWTQ0Y0J3bTVYNXBMR1RjLWdsTjhqVFFLYktrV2lBOU5YUklQOWdUOXlMTy1IRQ?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Greater Noida's upcoming AI, robotics park to create 1L jobs",
+   "source_name": "NewsBytes",
+   "source_domain": "https://www.newsbytesapp.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEVncHRRb1FuLWJpb1ZTZGQ1VUtLQ0wxTU1CZnB6bDVOSW8zYjQ5ajlXQ2phY1ViVjJzNG5ia2t6eHdUZFNlcU1kc2dyYWVjVTlLczh2M3pSVnNtS1F0UzFsSm1YdVVXSnpVNUs5VjQ5T0VGXzNGNjJXR01KNHlRc1FsOExtZldDSVpxdUlBRzdObHN2UjFlZ293X1doZVFEcmc?oc=5",
+   "published_utc": "2026-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

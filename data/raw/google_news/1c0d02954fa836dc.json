@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2026-01-01 before:2026-02-01",
+ "items": [
+  {
+   "title": "IndiaAI Innovation Challenge for Transforming Governance (with Government of Andhra Pradesh)",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1FXRlVhYkVDU1VrcFZFVDZvQzVjNlQ3alFWWUJVQXhtbmlobWhMdGwzS0dHUGVxY0FTcFFCQjVjcTNXX0NnMXlpRXhPc3FXZXIza0RHeVg2djFsdEFLTEJISk1CZTZCYURNUWhMSHd5TlRscGt4dXN2dHdCU1NyRkhqUGV3c2VwUl9kWWhtSjY2bE4xLXM3VFJMRTlsUXBwNWxuSXRiMTVhaWFwMWxlWDRMT0VPUTcwU0FkenJn?oc=5",
+   "published_utc": "2026-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to roll out AI services across departments",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXlRbUt6OXRJYllmUVhUZmFvRlAydmhaVE5lNFJEZXRGVjIxV2ljeEZYUmtCQzZNaGlFeTlUZEVEMTYzbHZyRGVxWVNrYkhQZmZFMnViWDJVaThPaFBQcm5ITnh1VXJ1TVJnN3JBdVRwb1NJLTB5UUFqenk1YmhWaG9Da09wcHVMWjJ1YmRjWTdpOWFFczRMUlA0UVBHQmpPVFFHM0t3ZkNTQ0VrZzFfTndESVlUWkxkTEVyRXFVa1dJaTVmbDRXWXhUQVZkSEROc3NieE80SjY5YUsxbTNr0gHkAUFVX3lxTE81SzFoanFkWmlONkpIc0cwSlFGc0R5MUI0SU1yRFVEU2J1eHoxc2Z6bG8zREtmelJhbDFKVjlFanNnYWtjRVBWNE5YZlpVbEdNUUNSYktTeVRYbG56MFZsTU81eVVhQ01YdXE0b2g0QTN6UHlWUG9jbFp5Q2RCQnB1aF9xY21MQzNRVVQ2Rjk0TUxiSjZpOWpDOXdDc1ByR2V4anBDbDVqaF9LNVhhcEFMbUlHdWZjMGQtYzQwMGY0eWRSZFc2d09KWV96bEUwYnlwek5DM2F3NVNYU0toS2pMN0FGYQ?oc=5",
+   "published_utc": "2026-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RMZ Group has announced a $10 billion investment plan to build a large-scale GCC Park and a 1 gigawatt hyperscale data centre cluster in Andhra Pradesh over the next five to six years. The announcement was made jointly by the New Delhi based company",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWWRUNFpMN096YUFGNERuSnRkY091MHFlaWYwa2MzQUx1THRmV0ZLRjdzMjg5ZlVWb1IzNGQwM0VtUkJjRmpGNENKVTE0bnlxLU9tMkZfaTJ0VUtIWVFCOTh1ZS14aWphaUgtMzJ4WmpKbWVET2FPeEc3ekQxUUZ4VTVnSDZFSmV1MloybVEyb2czT3ZtRHBaSExnVHBPRW5jdkd2dHRDVG01OE96VHBWNHBId2xDaXJVUXBydzhaRWxUTmRXWEtwSmpNRmk1emFaRWVn?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Davos 2026: Chandrababu Naidu Unveils 'One Family, One Entrepreneur' Vision For Andhra Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://special.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLTB5TlREamxEM0Q1ZVY0ZHl0dFp3bzRld3VwRm9DR015eVBfbkQwWFRFSm9pMkhoWldJSWN4QVFScnB4WkxvMTBjdXduaDNMY0pva29wUlFwZ01MUkJYODkxYUJmN2ptcHhxcVg1czJ1eFh6MlNFeFdwY1FURW84cHV0TmdyT0E3MTUxSnNXRHU0eUpCMnZFUW5IYnFHcDRSMUtkSjA3Y0ZLQmt2WHNuTGt2ekgwV28wQnhiMGktN2dnNnZBdkM1ZFNieXA4X1lGZC02WkNGXzNEWm9vN1dhVnllQ25rYWs?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to launch India’s first AI University in Amaravati",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmlveG5yMXk1UFBUOWFkdEVsVmNOUENTczZZSHppQk9OTlZxTUpBTmFpbmZqWm45T3kyTm5qRHcybWhIanVWUmNkWS1aSUtURmVBMDBFa1JubDRDQnJGVXVjSzg5cmtZdkVZNjVhajBEbjRVOERjZklxczg5UEZaNU1mbHlhLWM0WUoycUNaSHczSk9XVkpldXJyWFFkNWN2SUVmcU01M2I2RXhoWUtsbEVWNXNjVmUwWk9XU09qM20wb250cThIZ3p5Z1ZfRkpp0gHXAUFVX3lxTE5tck43WGtWN1VQcExSYjNYZ2c5ZExmeG1WU1RfM3RHendSRlVULU9pdy1JMklPTWJnRlY1SndTSER2WlVuVTNZOWRPNF80eDBRdk52c0NKSnFWVXdoZzdFN0dpY2xNVm5WV1ZNNmt6WnV0Y1F2bGE3WDdzS05OVFkyZFdEOVl1a25kcWlNN1NETEtqTUNRekM0a0RWclRmRjA0cXl0Tk5CRE84dXJrYW03dTE5RGZEaGwxVnloR0ZKeXY3OUZMV1laQmdjTXdxd0o1aUpFQkxF?oc=5",
+   "published_utc": "2026-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Generated Fake Citations Won’t Vitiate Judicial Order If Legal Reasoning Is Sound: Andhra Pradesh High ...",
+   "source_name": "Verdictum",
+   "source_domain": "https://www.verdictum.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZThDeGRoeUV3dTVKdFpTem40TEtXejEwc29Cc3E0YVhLbExaQmdxZFM1Ym5iaTVBemZ3cUdkSDJ4bGJpb3lZYVNHYnQ3Zl9zck5WYlBFLXZPWlpXRXZwaDVJd1B3eVJPb29uSmdVbXRqZUR3aXNrRlZ6ODY3MWNoZDNpOEgxOWdUb3Q0TVBhTnVuNTlmSGJ4RHVqZFdOQW5udFMwaVJEWTlrQ2QxNmo1OVEtaXVxeHRGZGlnLWlzOGRLOWN2dVdqakotS2g5Y2FwSFZaazh2MXluT2p1VGxjenRTVktsVTY0Zll0Y3g2aUR6TUhIOWdqRHcyMjVmR005UFE1aXliZXBmdzhuY1JwT1VGSk4yb1FSb3FUaDkwRG1EdU1ublptdlJMZWRYMFRRLXFGSGp1dFM1dWts0gHCAkFVX3lxTE5NSVdLcHU3bl9YOVRTeEgtMFRYZkxlZzJoSEpFSFlKUDNxbk9nbDlBWWJPd3JzazdwZWM2WWpLMzYwQ2QyRTU2SUp6QTR4eEVGRE9FaFZVaEg3MVRaZ1YxeHZrWHRQcF8wRnIydG9FY0lfdVI0R19ZemJnR1o5UFFVRy12bEdlaUpFSTJxM2t3MjJtMXpadk5jYnk3WlJMeEJFeUZ4SkNjQlN2ZUZWdjFOTUt6SklTZjU2eVV1WVpISnFzZFVXaWRub1BQWktlT3dkUDhuaUo4NFlhNzZfNURpTXZLR2R3U293MmNad1N4U19JRVgyZk5EMF92M2JwaDZRelZEUVIwRDFCWFh6ZF9ZUmp4cXUzbWZjcVBvMmlsM3NDdERIck50dXkzaFc0ZUd2dkJUNHZqdmxGSjQwTDEtd2c?oc=5",
+   "published_utc": "2026-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NDA govt restored Andhra Pradesh’s brand image in 18 months: Chandrababu Naidu",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnR1MVFERlJQRHZkcFZvQjZWWXpScU50ZVF6Q0NFWjItYnAtMFFscW9Tb1ZTN3BDY1czN1BYQkNxTkdVbkk2TkY0TDkyNjBkOFlUOFlaaE8tXzhBai1QalI3b2tOdXY4czZrMkRLNUxodEhod0hnQnhPakpMOElFV0RITERxQkJ6OS05R3VtbnYySnhmSEVBM3RQQzAzOWFIQ2VPR2hvUTlraWJpVmNlNXE0UU45SV9FemxTTFdB0gHLAUFVX3lxTE1hc2RWcmpGY29EYzdHc3VhbHhmR3F4bE1ET0xzazVHcGtkZ3ZISTNNX01jSmRJZl9aRklROEVwd0U2NmxfMHJwak9LS2pOQzBlaE05aHlHSnpVTU5ENjU5X0pFb0Z5cVhsbTlIaFpWQ0xQMURpelVHb3ltZzY0TWlqRm8zejZjNE9IcUhhSmlCc1pSazY0ZkttM18zN1E1TTJEWXZrNURaM2NDSEJDeW4xdnAzemNHbmNIWEl5enBLOU5oRnNlaTNIYVhV?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra clears Websol’s Rs 3,538 crore 8 GW solar project",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1FzY2Eya2pjb3huTmhpUTZsNkxZUi1INkV6b1N0OHZiMUNyRm42UlJHaU54WHVyRnB4OVBIZGhzQmlKQUlpNUxOWTVmRXZCVGhJazZybEdLT2RuQ3hLbUZCVlpBYm9kUFpSemtlQWRnYXctbjA4X1ZDSFA2SzNmQ1kwYl8xQVp4NjZOXzFERlZfZmxrTFNyV1E5NzZSQVktU3hoUHVhejJQSlhCeG5jNURka05EUWFFMENxS2RB0gHLAUFVX3lxTE5MZDZPTUhWbXlQQlJmV2hrV0FoYjIwa3JDeHhZYmd5Nk51X1J4V04tSW1pUG81NDJ0SnRpZUZZU0tvVFJfVkhTVUZHTTZzZGl2ZFZKTlZRNFB0QmRKQ2ZuRWZFQzFSZnNyR2t3ZG5zMEtESU93TzRraHFXWW4zQkhjb0M3WUJhYmlSZkRYOXA4QnUyQnVkZlZnbXhRbUQ4VTJmOGwxeno4cTI3LWlKZXlqczBlSDFCZ0VTcTMtSHZMVlpHaDdJSUZrQjZF?oc=5",
+   "published_utc": "2026-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu Showcases Andhra As Hub For Global Investments At Davos",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMnRDa2l6MDhmc0g3Y1lpS1ZJTmtpRFpDTVJkQ2Z1OW1kWGRwRW5lWW1YeXVPZUo5Qk9LcTVEaWZNOTVPbjBnNGtQaG1ycm5LX3JFNjdqM0JoS1E4NFl6N3JvRERkd04tTmJ1S1JfRDFhX3o5YnRESzRNcTJ2eEhxUUp4Z0t3OFJ2Y05PZkVfTlAzTTd4b1V0R0NsZ0dUbnJ3b1A4dFpHeU90V3RBVlQzYmJVRGh2dS1Pd1FhV3Zqd0tBZ21VekRuazFUcl93NGVkbUo0cjN1MkVXSk1uSzhwUWNaYk5ZU2pyUHNrRjhjc9IB9wFBVV95cUxPWU5KUVBaQkVFUERJSnNNRDFZTHBKWnNNeWZyRDNKYXdBTTNTYjgxb18wcnlTMVV5a2tQN1ZYQTZKVGJRYnhDaWQ4Rm94d2F4V3EtTENfeVNZa2ZjbVhKVVVXZjJHMjBTc3VqOXV2QjBVYldCNzRNTEFtempkSE9EU1NUWUlKY01lNXlycy1YczZzLU0xbVhTMWVMU1JaS0pqZ25BVm9Ia2FQUXVrb1cySzlrX3piR25tazdoTzFRZ3FLS0pvY2t4VDVxREhmaG9TQmdiX3B3R3RQTHRiSXl4X2JET1RMYlJzTXFlWkVJU09acktMUmZr?oc=5",
+   "published_utc": "2026-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "When Google Comes for Dalit Land in Andhra’s Eastern Ghats",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUJvNlFRaEJQQ1p6UmJYa0RHY2ZaNWNSdjZDTFRxd0Y2Z19XS2pxVDVWc1dqZTBJQUZCOHlsR0JtSU5ZY3U2QjJfUERtaFZQNVVpd2lVT2dBQU9QcXNKRzE4THZSa09rRVhXcnNxWHBsSm1CLWhDc0UzTkRCZC1uWjVQcEVNWW9rLXZjOVhBNnBRWTJESmMxYWd3X2hoSHZsNEhuSzdkblJIcF82bDdBdzNjRDhYcGNDbEHSAcABQVVfeXFMTWt0MzVadDVsTUgxSTJNcm54aHBUTVVsZGU3LXF2alpYQnZwNEhUcnRSR09CWnBlZ0pSbnFLYmxaNmZoX251Z2gzbmJnZmxkOHU3QmttR2FDUXlBVk5yU1B3Z1FWQjZaVGtPbkVPNFJGMzVfYzRPbUh3QUVtUXAwc293WTNuUjFOY05HRE13ZjFfNDBvRVFmZDVGTF9MY0kwUEFqbmktNHVkbkdCaVVYVnR4V1Vab3ZBaTkyWmM3RU94?oc=5",
+   "published_utc": "2026-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

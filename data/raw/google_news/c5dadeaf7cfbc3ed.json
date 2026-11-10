@@ -1,0 +1,45 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-02-01 before:2025-03-01",
+ "items": [
+  {
+   "title": "Rajasthan launches three policies to step up industrial development in state",
+   "source_name": "The BuckStopper",
+   "source_domain": "https://www.thebuckstopper.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHFOMmMteE5Oa05XU0s0U1h3OFJxcnZ6WENTRl9yZEpVdGh5Q1k2NzZ1dkFlLTdZdGE1Z1Z3TUpjdlJDNjdGTktnd3YxdGNPZGpxanZyTl9rSVpqSXJKZDFmWnBMT0JhclA0S1FwQl9NNXk3cmQ1amhGYVIyeUZPdEVIQUplb0lpLWQxRVV0M3JnSmFoanQxeGpVMzRKNGJxMmF0LWFhaHR6R2pz?oc=5",
+   "published_utc": "2025-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt rolls out policies to propel industrial growth, empower youth",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN1R3LUFrTzV5cS1Oc3ZJNlZPSGZFd0pIVGRXUTBQUkFUSjhzVTl1VnJJaEY0WHByVkdhRkw4cG5FNWxpNV8tLTVFcm5CMm8xU2NZTVJlNmUxaHNDNFZKcEpob3FHb18zNXM4NjJXcXFMcWJGVHBmWlhtbm9BOTNwaE5ENzZKbERTT3BaMnczR1FZbVZYYlBfQUhJb1VMXzZpMWtOd3RUbjh2THpWSGxjazJEUzBid01zdmFYRnplTVcxTEVQOFQ0Vnh6Q2ExVmhrTDBfSFVR0gHbAUFVX3lxTE50V0NUaGUxZS1WTUFoWVVsUTZtejJ6eVdPdVJqUEg5VTA2YzZtLXFoQkJ5Mko3NkJIOFdRSnFrenpIWWtkSFZKdWhWdW1VSGJjRGk3c1Rlb2hDUHpCbFdCZ1dRX3RiNkYxNjRSWS1FQ05raW05Um1sM1d1WWtKSDBIOWZsdFpWbGpuZnJBU2phLWxqSURvOU9VdDBnMnBOeUs3ODRaWEI4ZFozS1h5alByLWV6YmdENUhhYTBmMW9sQ2xVRjRVUEN6WjZQQVNlSFpuWmF1cWFXODV6UQ?oc=5",
+   "published_utc": "2025-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan decides to rename Vice-Chancellors from 'Kulpati' to 'Kulguru'",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUUhXMlpfSGI4TUMxUTljeTBQSnRDcTRBaHRzdlBBVDBtcjlucWEyYnFYQWNyQy0wejJTQTRiY05CWGU3VXdTWEFVOXlUTmZxbENxYkdPQUIzWTUxNlJhMVZLc0Z3STM0WEJDcjFrak5Vb2hkMjJNS1MtT21rTFE0bTh1ZzdCUDVGbkZXbzdrQkx6aC1sQnJxZ1kzVzJCeXFiNmVGa0RhaW9PMC1CNFBZaEdQRUkzYjZFeGpMb3hLdndQTVVCcjBDa3A4LTAxZEZkRTFWWkV6TnBNeXJO0gHiAUFVX3lxTE0wc1Q2NkdWTlNaZHppMS1oYUYxdDI4UDEyNmVUUzhIQ3VDR1VPWTAxOVF6UEpEYnM5U2NmYWQxR0FtdXhCa2c1Wm83VXBIMVhyeTZvZGhBTnhXLVp5MWg3dTl1Z2x5UzlyR1BMb3E2UzlSemZPaW1NdHRLM09KYnkzaW9iMzVIM3Y3OHRxUVAwUEI0QVRqWmstbXhoSHppb3B6a2tfaHUwOXBjNm9uU0tNSVlSMDhqaDFKYldKLU83LVJmTFE2eGFBZHEtMDlaVUpnTmYzY005RHMtVk00eERFZ3c?oc=5",
+   "published_utc": "2025-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lucknow to become India’s first ‘AI City’ after Aerocity push: To nurture future talent, AI hub is progress...",
+   "source_name": "Bhaskar English",
+   "source_domain": "https://www.bhaskarenglish.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV01EZ0drdDBSb2xQb0haVVhlazI3dy1hWVFnVFdodnFCRE5sRmY1RlhOMzVJSTZLYmZjQ0NuRGdLMnAzMERsRDR0Q1dBdGdfeTVNRHhwc3VDTkE0b0xJRjRpYkt0aG5ZMzQ4Z0JocXZDdkFhZVVuRE9rOF9LVUFLRXREQzgyQXdib0ZsbE5FQ3dHbWp0bTFlSEl1TTJsTWZZU2pHU29jZExteVZvQWhWU3p0ZWhPR0s3UmpJS0gtMzg0LWtLczdBMmV1bEpUWS1BeDhhOWVzREV1RjhzXzg3ZmxWYUVfMXhzOGg5UGNGS1gxdXQ3T05qSHdjZGw4SXZlODA3OTNxNzYwZ9IBjwJBVV95cUxOSDR5MmZ4T21seWZTcU5pSWxjZTVjWTZYaS1CdWtTdXMzSlNXM1N5VXBPZ0JoUUxFMXh4OXVXYmNtdDZXdUtBNjdNdVZrOHVSNFlkak9TTlh5OE5IMTk2UDBDajhhTnRIa3MxNFV2UkFUbjlsY254VG5ZWHZ3dFRFZ3dnZ0dTWEo4OEE4eUlENlB4R3hBLU1QSGFVcHZxYXJWc29TT3Y4MndSeTI0NEQ4X2xrczhDZ251SFlINHRrZ2dRUmtIRHc4V0ZubDlUUExCSlJFWjd5MTJic3hqM01VUHBjcllMODNJX09aYkpQTXRwSFlyYklXNk1TVUhHSnNqdWF3Tkl6dkhHU2pvc3Zj?oc=5",
+   "published_utc": "2025-02-21T11:37:41+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad will become AI Capital, proclaims IT Minister Sridhar Babu",
+   "source_name": "Telugu360",
+   "source_domain": "https://www.telugu360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXdMZEtaYkVKMHpwSU1mSmNlSzgwUzlQSVpkaXhsQnNNQ0NnMkdiRnF6eUxiQnV3MlVMemRfZzZpeVRNZ1JTb0FiMjRwRnN3YTUzN1NzTDROQmpxNzRfanBEdkM0aklUaEUyc0NlNElOT1diTzRWOWxHT1FQVXFDczB4cC1FeHJZUlRoRlI0QVlFSmJfNE1SdEh3?oc=5",
+   "published_utc": "2025-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

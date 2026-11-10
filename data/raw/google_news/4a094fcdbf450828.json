@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2026-04-01 before:2026-05-01",
+ "items": [
+  {
+   "title": "UPES Dehradun to focus on tech-driven learning for Kerala students",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEFjQlRudnRERDlfSVZrZXFsUC0xMF9uVHZOVjhIbzJEdTRDUHFPNzRqUVlkMnhoV2RxOE45UEt2emJnMUxmSmNrWHVlOW1LRkJBSmdnaHo5ZmFXWkxTaGprR1F3eTg0V08xaEY2NlhYV2pfR3ljZ3ZuTzlsRV9VYmowY1FLUWZHTkdEOVd6VUVtUjVOazQ2RHRINHlZQTl1b0k1YjF5RThmYWFMVER2OFhIWmlqcEFFSlpYNnFYczZ1Vl9VWDJhQTRDQ0lreFZIdUxlOdIB2wFBVV95cUxPc05lWHVfcVcxc1d2VHFUSFJYSzRLUVd4Ui1Na2dKUVVaVnRtazE3Z0w3c3M5SHRuanUybEpZa0k2TFpXMjd1RVVwanZwbG1Rb09BcXdITXhvRHpsVFhwWklRaGFPdFVyd3Qtb0xJQmZRVjVja2N2eE1sTUpRVHM5LXdlVHh4ck10UjhDZEI2cVNORVFtaFk1UkE3U0ctLXZVR1NhZXRfUU5sMVdxQlJYNFZzSzRXX2NFV1NTb3BSNzZtTXdpSUxKRGZhdGxlbWlUTFZ2WEJ5Y1FSbGc?oc=5",
+   "published_utc": "2026-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ultraviolet Ray Levels Surge Across Kerala, Orange Alert Issued In 6 Districts",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0RPbG5SR1NZekFJQmZvTWxuN0ZVV3lld0tEQlJrMjRLZFFrSlJKQWtqTXlqMzZCb2haenFyWkllMS1EVXpyaWo1R3M0czhlR0Y1c0g5ZG9qYzFETlBVNl9fNHJBZ3hJeElEQXNWQ3NhNHJNOU14Qk4wdTRJRGpZNUtNeEpwdVFPSmwtU1V2dXVXekh6czhlVS02SUtUY2doRU41WXlTMUVPZFZpMjVPSllRcXc?oc=5",
+   "published_utc": "2026-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Kerala cops are using AI to nab paedophiles on dark web. And it's a first in India",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVhuYnVEQ0g2TGdfNjBnRWdkMlQ3VDdwUVN4MFBYcEVEMnl0bnBaS25VSDZxcmlhWEdscDM2NkNrWElVemRQNktwelh1QloxdldzLVVpZEpXSU56blRCTkd0LUFVVVYwc2IxUkNsWmlCYUgxRy1xVFpSNEZOTmNLUG53ZlJFekRGZXN0ZjNWS2VsUV9lNnV0bDY2em54cVZwVTJzbFRnVEFFNS03ano0MjVIV0hnV0RSNzdFbXhja0p1bTE4dXlybEU2WER3SzA0bzdkM0pIUk10YnE4dEtaTy1VTUnSAeoBQVVfeXFMTzY3YVozTXViOC1UalhoTy1SZmd5S1BTLUh6bUp4M0VSZjg5RWJJYWx0ZEVibVZXOW5NcjJkME5Na3VYelgtZHh5anJUVGxXbEg2NjFWaE1RZHFxMEx0aVJwYXRJM2lTbkRCbHp4M3VNWkhhNTRJX3JZb05zbzBkb3czaU9ndXRuX1JrUTZyOVNBYlRMYzFIbUlXSkpxQVc3QXhEb1NIN2s0U0w5Slc5UUVqcWppZmkwNVd2SS1CN1VtRXFpLTZaNWNNNUFlcktKQ2JDVWtfbFFzZXZ1VU5DcE04MFFueXZsWEtR?oc=5",
+   "published_utc": "2026-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Standout campaigns to get voters to the booth",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHdsNmNQTEd6Nnl2OC1DSjZGMVhQdFNIdmtFWUx4RDlSWEJUR3dnMXZGRWJpckNLd3lxMTM3emRsemNJRms5OVAyazVsMmc1X1dncHBWbGc0SXRSSWlxM0RscjNEWk1pVGRSZlZFa1o3bU9nc2N3bTlXRXB2c3U5X21uTkZyMGtqaHNveFI4ZXdTaFZiZy1fS2ktRGM0VFRl0gGuAUFVX3lxTE9Ja2NXMDNRcm1RSC11RDVKVFVUSERNakczTm8zYjlTN1ZNYm4yUXdHTWsxenc3ODlXWEJmLU1Vd1ZsdVc4anRJaUNYWHZlNU1wc0NjWEpfODN6R1VUV1lDY3FvSVpTMDR0OFA2YU53U19aWlVfT1NEZXprMFFMV18tZnlWZlRaRk5WdjkybzR6QVpEcDhlMFEzek4wN1BWaHFLSWZBd202OU9HcnozQQ?oc=5",
+   "published_utc": "2026-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Love Jihad out, micro-minority in: How NDA's Kerala manifesto reinvented itself",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEpsa3NLT3lLbUZiT3kxWk93WEwtTXp3U0hYdDIwMzk5QmpLdDYxYjAwc2RlT0xhQzBEWnhOQmtkcV9SWGVCV2lqMEdRQS1uMGZnMHU2Z3VFdUN1VXFiVmRYdnhFWFNNbVZoQkpzUkdEa3A0Y1dhTzJHdkZtaFNkdnl5QUZSR2R0U2JTRFVILU1rbXB6Y2Y3UHFLemd5TGs4a3BQRnVHVHJGcHRpN0ZHQmxzONIBwAFBVV95cUxNX3U3SUR3NzFUMkIyNkhITnIyYVlpOUtKeE5nWjVDU0ZYN2Z1SGhyem43akRtQ00zRm9sTzFWcGwyWm5vdGxKUFZDSG8wMFVwd3dQeHl3TktwTUNneFRPSHJDcktibGl4TmszWHZ1dmh0RXZ0bGVPRk1SZk9nVExHQXpWc3l3M2U2OHd1WXlaUThpS0pobFJkcG83bTQzX3BadWhPTXJvN0ZNdFoxMlNUUzZzY3JuanpHV2QxLVp2ejQ?oc=5",
+   "published_utc": "2026-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Police warns Vivo, iQOO users of fake ‘OriginOS Update’ cyber fraud",
+   "source_name": "Storyboard18",
+   "source_domain": "https://www.storyboard18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcE5ORkZERXZteG5KRDdlU3Jtdk0yVks2TV8waGlzSmdDMmIzb3V5dGxoaHY3WU8xcnNBbFNSZHhKMjRGUGo3Y3lYMkRHMGFQTGhRTEQwSHlPelo4WVZUVUU0VDhzQVFTM1Zjb1RkbEkxc0dwRnlIU3ZVMy1BZC1nNGRIS244WThOdWlZa01VTlRxUmhCMnFBekhNSGZsQ0NzT3BJbDFWZjhfUXVRdk1YLVJoUGpqQUxZdXfSAb8BQVVfeXFMT29Fd2RoTWdZeElSX1p6cnBKSmpDNlE0eHEwNDZWcTJmeW5YMzdsNURDYS1PcDM2RXVtcExFbkg2ZWdPcldPSUJsNFJoYzRodkZBQUFYa3F6UDlER3pXR0xCRkFkeXJYQXpYZURnOTRwZkxrTTZFV0kycjR2SUFkRHlsUGJJV2ZzX3hsTDBNMEJVdjk3UW5Fci1HWmU2OER1TVNpVEFIemRxUVJoQkllMXlGaVEzTmtpQ2l6ZUttTWs?oc=5",
+   "published_utc": "2026-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Health Minister Urges Caution Against \"Brain-Eating Amoeba\": See Symptoms And Precautions",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjJIYkFfWUxCdUt5cFozeTYxQ2RuWmEzNjlRVEUtb3kzRDliUlQxYkxSVFFtZm9jbU1NcUVTUFNCelQ1NEQtazVxZGRDV1pVc3p6Q0laR2xZVEo3cEF6NGMzUVd6Y3lmQWNVeTU5cFEwRXRzdk5qSFZHcTQtSHdfQ2ItZHNndkJKOG45a05FeENfVW1MVlh4d2xCb25TVXc2cFhjQ2ozVVFtUUt3OWxlUi1pdTA2ZWtmQVpFMUdUVnVCX1Z2SHFBeTZR?oc=5",
+   "published_utc": "2026-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Udupi school introduces AI teacher robot in Karnataka’s first such government school initiative",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZU1odDYwMUFVblZ1ODFvTlFKOHBjZVJCR180ZzVIcEt4RnJobzg2WGFBVHNsNTRVMUVrX3hpTGgtaTlpWTBvR0UwNEg4Q1pVeWc0ZEMzcDBndFpTUmtoYzJ6Zm9EZk5WYUp0UDhVUlF6YU1ETF9JTnAzT0ZyRTNmNW1uelc5U0FkcFhXY2FCcVVYa24wME1KM2F6OW96Wjk4ZlUxQjE4QXF2bkJuRElVeDJRVk1xY0wzUXhjaVdIeGNEWFlhbVVpWTV5TFB1RzZFaWJydllINFpNOGo1d2U1OVdfQ3RVSmEtZGZaU9IB-gFBVV95cUxNdFR0Sk9pMEt5MWNNVzZKNl81TWU1WmFVX0xkWjRtb2NCMW9XUG1pamdlUk9LYjRJaUZUMEtBY3o3b1ppYXdjeEJOZDR2Rnl3cXllb2Z3d3FqZWlMSDdkcHhfUFBVc3EzQ3dCOXFJUkxiREprNzFoV3BFWGV1YktGbmhYcmsyZlJHRjlyYmxGUmtjTWN6WjhVZnBpclZ0MmVjNWlRN01CVW13bmZrb09oNzN3UHhIdFhTQXJBWTloX284ZGNxTkx4a2hnX25uSnNvN1R2ak9FVDJicU15ZDVuU2dDSk93RjJNZzIzelp0czk3alZOdHB5dXZn?oc=5",
+   "published_utc": "2026-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI tools redraw Kerala assembly election scene, deliver mini-cinema in clips",
+   "source_name": "Onmanorama",
+   "source_domain": "https://www.onmanorama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdDdVeFc4OWJCNVhEdERGb2U4Tk50aTdVWHN1ODRIcmNmRzVRTUJRbHZhZkllS1M4cnNDVl9KeGFyNEx6MDlsZXIyRnY2RUYwX1d6NHo2ZXotbHhReVVjOXhod0tadVJSdjVueWFoMTVHbFFtWkZEbkN2NG5jeUNFNFg2bTZaakU0R3pJYUdBa040cnRVYW1DTGFOcE1ZZU5uNEdPcFZPRWtkZWxoSDZUN2w3eExrZWxRV1JvdnU2cFpjUdIBxwFBVV95cUxQbjNRNXpKLXVMZGI2N1NUUEt0YUVlT3VhamJoWVd4SHB4aDRtR2N5dkNQdXJRV1pBcUxTeXMtX3ZBd3V6aWM4UlFucGU5bnp0c0pMamFhN1VRU2U2eVhkVGNmVEY4VFY0ZmNlNk1YSElZX25ubTlOYURkWUlKUW5GUE1OT0hsTl9WYkdiaE5KOTJqcUJuMEpfWFVkUHZkVzI4cU5TNFh2VzJJaEYteXBueVFRZXR6Z0x6UTdqTHJkZ3hFcWZIVmtV?oc=5",
+   "published_utc": "2026-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Defects in AI cameras; Road Safety Authority freezes ₹34.8 cr payment to Keltron",
+   "source_name": "Onmanorama",
+   "source_domain": "https://www.onmanorama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2xzZmpIVHkzSlhISEhicDB0SlVER25Zem96Q3VJdVpFMjlxS3JhMHlCallrNXIydXNZMHBpakVVMzU2SlB3VmJIQUlvX2t2WkZ6UldpQlhWSVBUcHRHM3lERFpsZWRqYUxUUW1mWUJpVjgzWWo2TWRBYmRDWEI5S0lzaHdxSFZUNVdqaGx2SUtEU0Jvd0g5dTcwVGJmaG1TWUhpcndyMWdEWFRLNmd1c1gybHJ1Um04WWfSAb8BQVVfeXFMT1pPSWIzcVd2MnhfVDBKM0dIemljblJlLVlFVDNlNFNEYnRPNXRsakIxWUpxZW80UTZmcWNPQ085MDZtSEdMOVlrMHJ2WnRDMVRGVFdad3VHZmNtYVN3MW1EVjA5VGF3Y2RXb09rYjJvckprUnRCd2syTDgtU1dpcmdheDNVQlZfdWVpRF9DRTRCd1U3bVcyRkpoZlptYXNzeXJhaUlxc0ZvYXY3Um5oVWdESDlIcUJXdC1ob1lBZ0k?oc=5",
+   "published_utc": "2026-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

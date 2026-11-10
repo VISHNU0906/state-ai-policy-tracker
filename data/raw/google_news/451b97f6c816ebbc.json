@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2025-07-01 before:2025-08-01",
+ "items": [
+  {
+   "title": "AI-powered policing takes off as Kalaburagi gets smart drones for a first in the State",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORnM5dXdSQzdBYTNtNE5HaTJFNGVJYjVIaXZoaXpaRzJ1aVJiNTNlaklDLUZLTE9UdzZCNFZlVzI3QkQ3TTVpcEp4YzRBUDNjZ3JlMWZ5djVBbmtOZXNfYXRpNVFJUFpETG1QZDkzRV9IVHJhQ3R5VkcxLVY3TUU5T09lczVuSUMwQnZibVR0bmJMVHNuckk4NS12QzFkV3Z2YXJ1ckptV3NyOWZxeHZpUXB4V2IxTHdfWVFib0czbEZiN1NZX1lXZXItRHdxZFcwZjRLYmhVNnpGNndoRzEyd05jZ3RMUG96eUNz0gHyAUFVX3lxTE5QU2ZnREROakJ5WTFQSDhkRFV1MEJ0WFVvM29ZOGN2MlAtajZ0S1Q4U0R6eHhaUE9GMXlqWWpZd0tuaUhqd1Zvd05WT1NpemQ0VHZicnFJQTlUWEJiMWNlWWtNY0ZKYzV1ckVvdEd5cXVYZk9HOGlVNFVrbFFoN1dsMWR5Vm02OXIwNTlrVWFteUVrSTFwOWRhTXZfZDI0Sk9sTkM3MEVIOC1Jd2ZGN0Q1MmRkTEM2QmUxR3ctN1otZGRrNi1hVWViR05LNG9yWGY1QlAwVXRaX3lObmtPc28xM3BiQ2V4anZlMmhZb3BXRVZB?oc=5",
+   "published_utc": "2025-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka has launched a ₹1,000-crore Quantum Mission to transform the state into the “quantum capital of Asia” by 2035, aiming to build a $20 billion quantum economy. At the Quantum India Summit 2025 in Bengaluru, Chief Minister Siddaramaiah announc",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkh1bmxvV2RMU2h4dWRoMlN3WTJ6Yll4aGVfRzhwWW9fdXhydlhUNzhfQk56Z0pDZmlSUDlUcWl0VkcxemkxZjhweDZ6bGVtQWY1V3N5MHN2OEJUWXpNUG1FLTBiUV9Oc1h1enJ0a0dGTXdnWjJrQzBFcnc5OGw5UTc4ZTctTjJEc1NHdGxDR3lrTUM3cUx6VExWR25Ybk5DdzdSS1pNV2lmTFJ2WjRrRkh5d3N5VlNBZ04yRkx0T0dQNzhPNGw2cUpRTDJJUQ?oc=5",
+   "published_utc": "2025-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka School Headmaster Dies By Suicide Over Financial Stress: Cops",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFZKMm5vb1RjWmRQdE1LMVpKeWFnbERCSWZvS3VBQl9KSzQ1d3pmc0xFSVlRVmd1UjNqQVJOTDQtQTlqdzlRM0lwNGZ0S3I1dEFlM1Vjcl9hMkYwdS0zbjNNUmlyYmFJMVphWUlHZXF2cXNHUS1EaUctYURHOW00dHFWRUpJeDlfR1BLUHl6dG45X0gwalRLeWhVVmxkMFBrVDZPMFNxOXJTZlNtMDk40gG3AUFVX3lxTE02N0hMU0VsZjhvdXBMcTRRSElJU3oycGM4Unk4My1GLXNoQUlmUVc2eHBfR21fS09JRHNJVWs5dnVkWE1iaUVFRlNMNFlsUk85WkRwMFpxLTZoREpLUF9qUy16S1pKTlRoWm1TWnF1ZGt3cGtNbFpyeHp5VDBpSldINzlHcF9uY0ZTMzFhZy1STl82VEtuY3BGTUFjUkVQdExQT3BQM2tQbjNLSHVSZldBMHZnMWdaVQ?oc=5",
+   "published_utc": "2025-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka launches Telecom Centre of Excellence for R&D, capacity building",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU2NwR1FoQjdNTVFKT2h1azl3eVc1MWVkRkxKRkRzMndHYjVIRF9tRTVxa21nbjVMWFpmZU5lUHRBN0VHX3oxMng0a0Z6ZHdBZVZXM0VMLWxTZnhUX1NvWk9JRXdVWm5icXVjaGpFSU1SV0twMUZCekNzS3RXcDVqT2pMRUx5SmVRMTZEZjhkMkdSZmZkbTMyWllBVUhlTWU2Rm94VzhXOVU0bjlYQS0tN1BCQmlFeTR2UmtDSUFxUHJxUEwwZlprSHRNd2UzRjBlZk85bDBsYnNEampLMkNfTmpKbjc2TkFQS2fSAe8BQVVfeXFMTXJqMUdUZWhHMFB0RnVuQmkxWUtDNTdRUWxfbUtEUFBOSzAzY3YzWmZGcFNYWl9RT2NNVi1PQ2c3aGVOMjVqMDF6Z0ROM2V3a3FPdWFNNjc5Z096el9BVzF1YkpkX0hVMm1DVVRDNE95UmZobGZEUE1Ub1dFLXNQTGw1cjl5NzlOVHh1cmVjQTZnd0d3aWhLaklXLUUtX05CY3VjLXlFZkVSZzNqa2hxSVFMNVZzS2NnQlk0WjFlSFZvYkdUYWxaQjdzcGhPODh5OW9xZWYtZGQ0MTN5c2I5eDlwSDVTRDMwLVp4X3NyWEk?oc=5",
+   "published_utc": "2025-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government Announces Free Bus Service for School Students",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFMyMEs0a3NqMjJKWDVvVlR3Q0JjYlJpYTF2dHV0NVFjTjRiMzAtTHJQUF9HMnM5Z3NUUE5YbnR3OWNrYkRzT2dSSmd1QUllMUV0SFhmck1LbkZYUm90Z3RTSjM0T0NJM0FtWmE3SjhIU2k3Ql9ZUks5YkJtcE5xWG84S0dKMF9RZ2gyeXE3SjFjZ1ZYYkVMdzA5NHMzVDBCU2RjUU1XSUtobEJNYW0xR20zck53aDRfTVRr?oc=5",
+   "published_utc": "2025-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Karnataka’s Farmers Are Defying Land Grab in Bangalore Suburb",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjlTTk9jX2hDRElrVHQzU1JnYWJDd2dXV3FMYlZTLWNVTmhuVlV4WVRlSXRGdnFsRXRQdnZ4NC1FVXRPdG9vSi1BV2wtLW5pUEZOMk5NOHo3VWQzc1phR25sVkFuSDNrM1FsOU5XdnVhSmljQW5sZ0pTazVtN2ZocllaWmxoaXhPSGtBT3pveER4ZmhON0dkQTJGWTZoSWlOMWpBS0NnMDJSSVVY0gGzAUFVX3lxTE96Z1FLQ3dtQjFVM25YYjZORXVQQ0N6VkRseGpBSVNEVzQ0LVR2aXdiUmxmUW91SXc0c2VCMUVvblR2OE9zWkFhNkw5YWd1RDlBdG1ndHVDV0otTHltRHd6Sl9qSTJxWFVPSm9Vem9oemRwUU45VmJzSkw0ak1zN09mYUx5cU56d1gyQ3MtLVNSNjlJNldXT0J1YlRpTTB1UDJrQWt6Q0dPSnBVWWZTTGRkTGNB?oc=5",
+   "published_utc": "2025-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka is taking a giant leap into the future with its INR 1,000 crore Quantum Tech Mission and the groundbreaking Q-City project near Bengaluru. Announced at the Quantum India Summit 2025, this mission aims to transform Karnataka into Asia’s quantum",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1ROZWRFeEhtTXVURXVLbVBzM0ZiXzcxaXNJNlFTN0VoaFYwVDdkdzAxSktSV1BWVGZWbHJic1JJNF85UmQ3S25RMmpQdDFINWxPd0VOdGxJRXN0c09UNUFRU0JNdXVoODR3Wl91QkpOWFV0QWFaSFZ3SFdhd1ZvSTFSMmFSMjh1d1ZKOUVqaUIzX3lDYVB0c1JhWFJQTnVKUFJOaTJVcEdyZ3JvWnBQWFlFazZ4UHdYVHVRV1VPckdleWZiMGNYbW43dw?oc=5",
+   "published_utc": "2025-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Central University appoints enquiry committee to probe alleged forced hijab wear during field trip",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN0o5WTBrNmktRm5xT0lVWW9jcjJkZVVOTk0xS09CMkpETFItYjJCcVNJMGNzSHM0OG9CaTRaNVJfUE1uelFwcDkyOGRZeG9Qd2xtbHBuUVFRc1BWRXFXd1gyU20tMzNNQ3lwSlVUV3RMYjJYaTc5M0JValItTDdKQTgxeWNPYlh6V0FaanpScTVXMmtOYnJKMFk3ZHgyRWNtYjVKMzVheXRTTEJ0b2dCbWdtNTlnaXVHWHBIUmJIdWVhaVFBdjJSaHptMTB0UGJCM3hvNlZxX2JMdkdmbHNyUC1tdTFVbVZqNGZBMi1YRdIB8wFBVV95cUxNdnZXNkJlVUxVdHZsSHlYWURndzBheXJPZWduMDlHQnpJeGQ0SUdfampRTVB1akZ2elh5VmNTa1M0WGdfOFl4NW1QN0E0SFN2VFdwMWVrQkU0eTE1aWVScjZSVmhoZllOMnlyaUtCVHh6WFhRcjdNRmY3SXU0MWFSLUdrcm9BZEJwZlo1dFBIVzJoeDlZVVptOGtONWZfczkxMkcyNW13NUJndVFhOVprdXNwSUZNTHBvV2UtS0RkTURnTjVqVk9hU2VaZGdsTmEzRTVxRVBZV2Z3cGEteUJEanBJdWdSdFZqVURJcVlmYjEwNFE?oc=5",
+   "published_utc": "2025-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SEP Commission decides to propose two-language policy in Karnataka",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOUVrTkxNTFE3TXU4ZDhQQ2s1bWJtMGVSem1paldaSk13bVQ5UE9WYWRkOGVpMWNMM29YOHpzekhNWjdMajh1RVAwQTdtSzduWEhyQmQ1T1dyeHBGWTYwWlZRQ0lpbS15NGhqYk1XQlRRRkdXeWc2NDNuc1AwbDdxcDUxOHNLaHluRVMwRXhncHRiWlA4RnhFdzZHZVRUbjNDMGpxSmFmVDZQUHNnc3U1LWNfbDdjaEhNOEdGR1JVellTOTR6a2tUZ3RaaDFRVzUx0gHXAUFVX3lxTE5RX3dTemtyaHIyMmtLWDZzdFRiRERESHh5enhLRFBySnR3V2k5c240TVdkTF9XTlZhMWdRZklkRk44SDdCeVoxbF9tWE00X0xuLW5ncGEtUHJTbjJlUWRQUE5RQ2FJQ3ZrTS1VVk92MUp5N24zQzRXZm9JZkNJYlRZUFQ1YnFydGRhVlh5bndnUXFkTXNSQkc5dnAyZkMxdXoxYTQxUjVFOTNtZ1FXOVQ2enM0eHFyazNEYzBQeVRXZ3k4cC11ZE9xcVF1bTcyUW9Fa2JfNWdN?oc=5",
+   "published_utc": "2025-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedantu’s Daksh Tayalia secures Karnataka Rank 1 and AIR 15 in JEE Advanced 2025",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN191aktOQ3VSYkpuZW4xeFdrTjhvZG9nSjB4a256TTl5XzA1ejk3Y05FTTZEZHZNSm5ZcDlvV2pGS2ljdW13X3RGMVFrZHZMMnFQTTZieGVsQVFlVmd0cE96UnhpMWFoUV94ZDl6MFR0VWJMRXNzYVE3NEhpSE1obXVzeDNsZkVFRUZhbW5TMHJEbmR0QVJjN1Q4M24yZkxjd0x0NGVsTFRDRjlSQzdvWV9FWUVIRFRmSDJCbC03VS0tV3RiZzd6Wms3Y0s3LWJMbFdWb19KdC1zVHPSAeABQVVfeXFMTkVBTkU4aDRGYzZENVQxa1dIdW91Snk5a185YWRDVkI3VUtDa0pqeG10R3lGMGtSWjY0YjNDd1QwRFZOTTVFUDYzV0RLeTVxV1QyTFJyMnJ2RFhRbUdWMU1NSVFGM0szU3pvQTVZc0s2bGNjeWhBamVIMmd2ajZUSC1FZTNmZmNPV3JMb2Z1UVBOU3F5T3JfVGRWaW5nb1ZIdUwxY3NkTVBKWC01Q3pKLWVCekhIUWc5TmdUUTVaME4ycVRSbG1PallJam44d3NFWUFJdjJmemloZnRPZzUxcjM?oc=5",
+   "published_utc": "2025-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

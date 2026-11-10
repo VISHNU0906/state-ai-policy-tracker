@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2026-07-01 before:2026-08-01",
+ "items": [
+  {
+   "title": "Maharashtra's data-centre policy shift highlights limits of 24x7 renewable power, say experts",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUxlUkdvdktkMjY4X0Y1Z3BWVjM5VU1sd1dmVWo5dVVDY05BQXR5UG12QWxvdDdJOUNTSVdaOXhoM0ZDeDJFYkFIczNjQXBWbnpFd09vNnJsWjc2bDFid2RBMElObDBBbzkydHdLcHVhTXhoX3M4NS1PQy11bTNScDZqWEhodlhaa1c2X0ZJMktGSEk0ZkkwY3ZaOVMyUllnSmo4LTdfQm9RcGtoYjM4dzh3RjlIVE50STRSamhSeGxuallLdEZ0TUxnbnJfYkdPRnZqeFFYbmhhN1FxcndKWXd2MNIB6AFBVV95cUxPWUdvRnhWSnQ4am1mUTFodlRvQ3haVERPM2s5ei1ycl9WbzRVVVM3MzJzOHk0Y05qSTR4VXpQUk4tVUZGOTJHWnprWFl6TFlnMm1sd2tVYUptNWFrc3BYN01YR1BSRU5OZUYtbFdIUTBnWEV2QnQ5MDM1a1A1WWd6SHRXUkFGNmxrQVlyemNvRTBEOVFDdDRkdFQ4dnpZcGVCRC1hSGlCMXRvZkR6NUVmX3U4cGdEbWIxNkpJbWlzSkRSZmdtVGZWeDZpWDNCaEJyekhTMDRpZ2t4Ti1PaXQ0RzJrR0lpWjhH?oc=5",
+   "published_utc": "2026-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "States step up AI data centre push with new policies, project commitments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWZCVVA0cUdXQk92YnpDQmVhaGI4OWc5NElYcmFIeTRSRHNIVEJDaXJlX2phTFZ1Y1VZMjdnMkNGck1qV2JqX3hKdkNZcDhkMVNjczJqRzRzN2FLd2FqN2tpME41NW02OElaOC0wWEJoYzB1OVNUdndpSFk5WVFKRmNPaGFEazdrQ0hqaHRrN1NhaWV3ZkpwVTRFTlJkX2RCejZrc2gzdV9SUEZPdF9yN2FyQVlHVlBROGVSYWZickxqUVhH0gHSAUFVX3lxTFBTSnpTSkh6VHBwTmxfdTVQNVlWcTJubDJ2TjlVUVhhN1BYOEJmeWxKRW1xV1otTV9PekxBZlhGbWJwQ0ZpRVlGMVNzUV9MWEQ3V3JoYXFxTUFOYURLeFlNWFlORTlYM1ZwTWd1Slp4c2lmNVZMek0tOUZXTkdBTmdRVVZFSElnUXhXOTNlMzRpVF9rUUVwWWJaSkU1bGNaUGttTmNaN084YTEzbU1GTzlwTi16YzFrMHdnaTRpdUNNOGs4WG1nQktLZ296dHAxUktTdw?oc=5",
+   "published_utc": "2026-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government removes links to AI deepfake of union minister Piyush Goyal",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU2hxVzVtR2JPUVJlemMxTW82VGVQSnpjbHYxWWh0REpaeEozX2dwUWpEdHAyYnZUbkh3b1RJU1RJZW5ibHVwZkZReXNrRTdHOHgtN2psdXVnakxwZmFxVVdoNlNTdHJsU1BxSldHSjM5TEI3aFVhY1kyYkM3cHRXM2QtQjZpeTItZ3RNdG9jbkxrZkxGbDBqV3VTRXZPbjhRTFViMjNWZnM5Snd4VXU5VWMtbmhoOFlPQmdlc0RKX1NmVzhCeXVDbUUzWkoxaHNVMXJ6SkJSQlJXczktZmfSAeMBQVVfeXFMTjZqNGUzaDFIV01Rc2FmV0tXOE5RaGg0Uy1IYk8zQkZXMmhDMTk5aG05ZEFBbmpFcW1ZNWowbTVBczJ4QUZEcHhpeUQwOHkzUW1rUjRLTEpRV3QzbG10Rmo5ak1DZExhNlh2cGgwMm5VT1l2cDlIcndqTEdKMDlfbmNUYnVRSndMOExObGRfZGJ3c25ZRWwxOVlJamVrVnE0MV9lSVUtSGctUENDNnZibmZBcElFVHdDZlNrZkJ4Ny1xOHVpWFZPS0loaDZGWE5HYmJuN0VRTTJIeFFkcWxxQzJERmM?oc=5",
+   "published_utc": "2026-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bombay High Court allows Nitin Gadkari to sue over deepfake, defamatory content",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQm1SV3BtUV9ZRjVIcjB6c3FvamJueXpRV1VQdjNJM3BaWmY2d1c5X0hnbGRrYkpqNFlCOG5FcXY4Vzdkd3JSN04wSzFyYkxFNlI4azg2VjdPd2wyS2ZLTnY2a3Byb0dHRVd4ZzRKZm9vN0t6aU5xaTd6UDloeVNzYzdONkNhMGk4blVrSnY2MmpTNl9OWWxZQ1U0VDRmTVBXeTIwVERjeWVkTTN1S0Y5YUlzbWxWUmU3XzEyMm1PR2g4ZFlEd3ROUklpTmJzUQ?oc=5",
+   "published_utc": "2026-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why residents are opposing data centres in Andhra Pradesh and Maharashtra? | Explained",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXczLUdoLWxUdWRrYlhxdXZoZ00wSU1GSkdkdi1JcVZwMW5NT2hzVWFxNXlRVDdUekd1Q1I1eTdUMmVfZElIa284MWxIdTM5YU9yc2pvQWtOV3dKbDdpU1RPbVV4eUlUQy05NmNYZGlOdnFBU1o0MkpDdlY0dUtlcjhyRVNRXzNKNW9zeXcxSjItbjdGbzhleVNHTVZRcVNpek9VMmY0a0xZSHFWRGVsaDhQOUtnc0RzZmpHSC1RMXBDWFFKVW5JQjF3bFp3NzZrOWZhUUFyeHY1d9IB4AFBVV95cUxPa2RNckVzLVdpdGMxSXYxNTRmVERsZnRoeTFuT2VWNXJlcVhZOGt4YUM5d1FJdkZJdFh6VHRfTFdLdlZxTm5kUmR2d1NFTzlibGxfZEQ3N2NGejFsMGZsNGIzaDM4UkNOUGVjT1B3ZDFOR01sbE1MelI0TGVnQzgxOVk5MFgwQTZhZ1FuUmszclRYcTcxQUpJUkxXWlE0Y0dmRGY3SlAzOUF4U3hYYTlIai1Wa0Jydlg2aUp0T1ltdFUyNm5JVnRCNEVsMUFFWG85eEpUZUVaNzVMMlhscGtwWA?oc=5",
+   "published_utc": "2026-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh plans deep tech hubs, AI City in Lucknow to drive AI ecosystem",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM25zbldZWWxKa3lnTW5LYzhobDFNaGhoMTcwVkhvWjVlb0dIY1ZzSDQwYjh5WE9uc3R1ODhZZlF0OGhYb0tRT2dIeENMalMyR2NmczlaT2NyOXQzWk9aTmM2OUMxQ0pSMG1YSXUyRjBLVHVweVMxOU9SRThubkk0bmt5dnFHQjN1ekRTSGM2eElCM1ZzQWF0LVZxcnBCSWZHMl8ybnM5T3I0V1F1TDRURm8xMjRXWGI5YVZZYU9vZ0p5aXZ4RHdyMmt3V1BaNmJmd1NFNURWX3ZZM1VHaWxRMUtNc9IB5wFBVV95cUxNbnViOFJycXdWb0lPZkdubF9oUXM1aXY2SHdWY2N0WHRaTmF0aG9TMDkxTEM2VzBTME0zZk9ubHlSdW9qRUhWZ0xNaVpvX2NhYjZTempFMGZNT0JMVUkxSDRzMWRsNUdfR1ZpaFRnQlpHODdZS3NGRGIxZFVlYVY2YTdZd0pZaEdxb25BeHBQenZuWHc4MldPRjIzRHFjVGRVSmFVS0lfMVNEamhSb2xoS0VCM3l5bjZWV3J1alhlZjJDWkxMRV9hakRwYUVaQnZjZnR2LWJETy15WkRFankxQUtqM1E3WW8?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TCS Secures Land in Anakapalli, Pune for AI Data Centre Expansion",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeVdvbnRiNGZQUkZnNThoeHVmbE9nQndvSkp2WFIyYldiNXhaQm1Xa1pDMzctSGdZMy1ZM2E3Y1pPQW1PV1MxTFQtMVJMZUhYNlQ1bUJUYi15enNsaVZnSGNiN3ZwY2ctQXlPMFpEVlNRM3o5aGwtWXI5a2MyS29OMmNFd19ITWl5d25SWXlaSDMtUVd1SXZQQXhldHFSN2dXb2RaOFkxR0xWYlg0cVN2R1FMdXFoM1dMOC1fZUtiVnhxM3VxXzNFRmVjRVpjUk9DTHBXN3A3QTJZcjUxb3fSAeMBQVVfeXFMT1FGck80eGVSNldxSnE2cUtETHVIUWhYNVhnRmp1eWhWMjNnMEV2dGs5d2pFOXpyWnFDOGRaMWh3TEQxd1ptcXhVTmRvUWRTTWNHX21WQl95dHRyTVFETXZpbUJkcmVYOThYTEhaT0dMVjUydFV4MlhoUGVyeWZZVVNvbFo4VXpQWEdMX29lWFhJaEZPWmU3TzZNalJaZEpvRTEzdlF1U09ON2V0Y3RESmxPOHBiSFB4UFVVdVZmSTN2SVJHa3B2dVl3c09KQktEZzdkM19xMjJjWlB0dC1sdnV4N1k?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan receives investment proposals worth over ₹43,000 crore in data centre sector: CM Bhajan Lal Shar..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWE12R1UzN3JXcmVhZXZfTzh4aXpRSXhxeEhmZkJ5QTFlMUZzdU8xMThJbjZIZmJiVTlpdGZkMjcxVjNJZEtEQmg5WGdzdzhmMWtycHVkenoxV0JKdHB2OGd2VGFfdHpfWEs1TjBmU0JncDdRMVRaNk1CQ3JjRWx5aUxtd1JHVmF1X2hSdy1FQzR0VkYxUlJvd2pZSVhlWFlSalhqdDRueDdUcDBQVlpPUjhkeloyQkZqRFJTX1pDM2NGV3dTd0QyUWJVU0duRDFVdDFicnFCZktWaTZUaEtaakJ0Y1NRcUtnRkw3SUpsV2l4cjRoNUV0MzFNY2Nuei1yYm9UbVJLUVlNYWPSAY8CQVVfeXFMTXdJdVUtREtDdHJTOHpxZFVUS1loUURHckJzb2p4aGJ3ZmhiYnd2UG9oalVkSHFNbDZBWEY3VWRyQk9vTlZMQUt4dl8xbkVwdzhVM3lMUXhhbUIxak5FNC1nZ1M1bGtMZmtCRlV6bW5qVjVTNlhVcEZBQVVhMENwS3R6R2ZiaFFSTm95MkFtVml0YWFDUTVmMURod2xiMldBbVJIQ3dNQ1A1dGhydjZYZGhhT0lJNVFibTNfN2NqalBCSGg0S2F2SEwwZ0k2SDhFZnhZV2hUUzltUDJ4MHptandmemN3UllfRlJ0OEIwN29DX0p4REpiaWF5ZXlfbW5ZSzE2cEhPOEtFc0lrdFZabw?oc=5",
+   "published_utc": "2026-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Balkum data centre: TMC chief says state will decide on residents’ objections",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNTlSLUc1SU9EVzlzcWtOM2ZJTHdZNHpIMG1KZUhUQlVqam0wYWZfSzdKaGlXUHE1a04xY01UVzlRMWtsR0RVMV9PUlYwLU1YbkpwRHFlNHZrYUM0dUtXQjJTNE92REVYQXYzTjBhMFpSSjV5YUp6Ul93WVFYVzNTQkgxOE9ueWJweUpicHVxVDY5NTBpUVVUV0I3ZklydFBSNlF1OWFfbE91OFJqcE9YRmJ0Z21xbUd6OUwzU3FaYkEyVW9ocXNESFREVFNJVEE5MDM3bktia2FfdUZ5NmFsT1lXZ9IB6AFBVV95cUxNb0tvQkYxLTNfWVFFaEVLRFB0VEdpRXdWbnpJZ1laZDliMWk4enFpUzU1eUpLVUIzcUlyeXdqXzdCV2xBWXZYZkRBSk8yMWk1WTRfdmpmOG1BdGRXTDlJTDR4WDF3QWFndS1EWEdWVl9CU0tpMWtDaks2RGlydEl0bVhkNGdNWG9WVEZYaVpGZlUxZXRReEZ6aExGU2JqSjdEX3NmSkxrTEhaWWxwTklvOExpS1lCNndQT1hwOVVzMTBtR2RsUFdwNXB5Q1llcEdkY3I5OG0yZTVZajJoeEhmakxERnRHMjV3?oc=5",
+   "published_utc": "2026-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Maharashtra, Tamil Nadu and Uttar Pradesh are poised to power India’s multibillion-dollar data-centre boom | Explained",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQS3VkTkdkYk4yQ2gyQlAtX2pJTktCQkJmTG92allqaWtGNHFiZEdCNDY4UWR6RWYyMzhpaHhkSnUtMVUwYWxVck8tU2l2d20yNlVHeFVEelpkbkloY0N6SUF2c3hBZS1Pc0VnSklxWEpleC02V095WkR2Rkd5UHNQdWtQYXpmdzZSdXo4b2cxTzJ1V0E0dXM4VzkyLWNjNnlsa3JkRHhWYXFNaXZ6bHpDUG5vNnRVSkljNXBMZWp0MnNkMXlXNVNwX0JaemRMdlZyZVdheTNnWEFhSVBJN292WlItNnBBYzVjamdRYW53QlpQSThnTHZiZEk0ell2TmMwS3YyWWMwSlcyWmlodWN4NXV1eUw2eGJYZ0pybDBnbzhkRDh2Y0hXZ1VtazdHd9IBtAJBVV95cUxPekd1QjZfQlVHM0JETnpwb3cyeTVPNm1qWWU5Q2VLMzRnMEJzVjQ0cUpOSmRic0VQR3F5Y0dVVmJzS1F0d1hzZjlIVHVnNUh6bTdVRmwwbWY3ZFNLWW5XSmp6ejUzYmRVMnp0NzkyVnhkRTgtSElHRkF1NTRjVEpYVU5qV20zSWRvVnJUNjdLaTdwUTIwU2MzbzJneDNjbGp0TEdXZHplS2djS1B1cThQSV9RYkpDMGRNbnJpb1VLRTVBZWliUHc0MnlCYWRrZ21NNWViSXpKNGU4VkZldF8tbjV1UUdYRGJyM1lkb2t0V3BtcVcxaFNGaVdTQjRhMy1yVUduUXRiUEVIMmo0UXM4RW1sZW9yU3R2YTF5N3RQQ2RhYzd6UktjNjRLTlNtZXE4RExuaA?oc=5",
+   "published_utc": "2026-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

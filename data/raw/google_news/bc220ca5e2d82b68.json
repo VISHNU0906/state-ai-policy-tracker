@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2025-05-01 before:2025-06-01",
+ "items": [
+  {
+   "title": "State cabinet approves policy for implementing AI across different sectors",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMi1pMWk3M0hTNGRVREE1MGtaT2dfQktMc29GRGRVSk01UXVyNTZMSEE1SzdaVEdtOUJYX1labV9zWGNmQzZtekpCYXdLZGRuejY1Q2pvV200T04yYWV2M19YeWFKZnpQX1pnQlcwOGd6dE1GRVM5NkR3dWlsY244bEpHY3plYXRDWWdURmNMVjNyOGw0S05iZWhBUjl3M19mV3lWNW8tV0FoNS1nRldZYzB5X3N0TU9UazVWbTRqWXdVV3huLTZoM1VjdHA4dHBySWJjV0dkUEJ1aE94dVRkdGJmcXMyN3k40gHuAUFVX3lxTE5lNkgtU0VFYzQwdk1WVzVzdE00WkpvMDY1UlI1a3NGNHMyQUpCYWh1Y1M3dG9XYkoyNW1Ib2ViTlVYNkVudDFKdGFZbmdseXpZLTVlRHUxWHVmbUszLVVNV3kxZ3d2aXZCQl9HQnhVSHFSTXliUU5rYy10NXlQVnVJR0NFanM1ZXZ3b1F4NkdUWVRKeFBNWkdhd0ZORFBjX1IxaHRIb2YtLW5Qa0h3QWtJZThyckpOOU5PZUpEeGxUX3hkdWhXWFRvMTRSSFJ0d1cyQ2JQNDZsMWhPMWpoZ2hreU1nZk1teGQwdk5vSlE?oc=5",
+   "published_utc": "2025-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha clears AI policy to bolster good governance; approves Rs 171 crore Joranda project",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWk1Zd3pNNW9ZVW5IMlZZeGJPSWdrdU9na2hBYVE3Yi1JdmZIRFNWUHc3VTZ3a01HbUVabHplekczNGNnMHZ3bW5IMTlJRmMyMnVhWTlJakVJLWRxVXRyQm9HR3RkVHBTZy16dTlmeGJzVzFWWnE2TVlSN3JwLU5aTWR6MWxjajFubng0aFU4bzAzUHcyeHJGcTMwWjlUeHJIRmpjdXJBaVh6NW5kSXVKUE8xbVZsZ05lX2s1ck56YXdmRmFnX1ZCZnY3OTItSFR4c1kwUEE3VlEzT0VhNmNsUdIB7gFBVV95cUxNZDhIbkdvSUk5VmhHdXZ6bXFzMXdzMEstU0IwTUdSRnhUem5NVDU2SF93WlZDSFhtN2JIWkkwYUpPbUFwRk5UZmJNM2dDdlZsanVUMGNLZnhDakp3ZHFKQ2NvNzdNcXBHQ3JjN0lBTFBWX0ptVzIyZElTM1JjMXA1ZFFtMEVZSzQwSmE4c0VpY1BldnBHc2ZZQ3ByTWlxLUVZbS1vYTVTb1pjOEJtZnkwNXNvX0QtbEhkWDBqV2ZGWTh6QUhCMGY4eURTaE1QWG1DZXVVRmhQTE4xcW1qQ1FGZmY4aWNfaWhRRnItYlFn?oc=5",
+   "published_utc": "2025-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt To Plant Palm Trees Worth Rs 6 Crore To Prevent Lightning Deaths",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RVUXRmZjJzZ0hQcGpQY0E0X0ZoQzZTRlEwZkFteTdycXVlRkVFaElYNGhnclptTWgtRXpYalZTZVJQZjVtS3g1ai1XbE5FMXEzVklrOFUyTy0xdVBidk5Fd1UzQ2psUkFZOEF4OUhkYmYzQkVJSk54ZUc0aHdXWm1iMmlvc1VCS0FxUzFOLWNxQ3o3dE1vM0VxYzBIZ3JhZFNXb3BVaExKcjJCMlBKNmkwSV91dEFMZUJESU1ocUzSAcYBQVVfeXFMTXYxVHpSTklScEh3QnBEV1lLZW1tVjNjc1NoS3RIUTZvRUlHd0xMRVBtaFVWeW4ybVkwLVBRbC1Xb0NyN0RKRi1ycWt0Zmdjc2FvaThuOC1oOGJRMk1qY1FyZjRISm9GRklXdE1qbW83RnlkZXp4VGVhRzdPMi1Xd3lhYnAwaks4bTJxU1liSXg0Z2MyX0gtbGpReVc4WnV4TEk5X25MbkxOZDBqWEp4Q3Zya091Q1JLR0QxN3hqdVlSUm51aVpR?oc=5",
+   "published_utc": "2025-05-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Threw ₹500 bundles from window’: Odisha Vigilance finds ₹ ₹2.1 crore cash from Chief Engineer's residence | WATCH",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb2R2ZU9zTkQ2ZmZ3ZkJIaDR0LVAyZ25nSk1mU1d0Q0dlNmZaVWhQME0yeW1xUzV5eXJZLTJjR3ZvY1BvUlBPZnpvV0JBWGppMExvUkc3ZnQ0SkE3clpQQXR6MGVxdFFFLU1OZl90SGx3RDlfSFF3YjM0TjFJd0liZkxEM2M1Y2drMklhR0R2M1VMZGZ0VHBOUURkMVNhS2ptb1ZjMHFTWXZrODZVdWQ3VG1LMC1COVd1WEtkSGRFNllpQjFVdGNYQjRwUDZKZ2ZPR3hUWFY3OTI0djZXbUMzajJlRjFkM0g4aUVXWXlrTFNVd1hRaXfSAfsBQVVfeXFMTm85MXloN2RnbENiUElGdVlTcmxzWVdCYnhoM25ST1kyTkhUZEE2Z2tfX1Nsakc3ZTNCMVRhUEJiUG1ZUlVyOW9xUUJBT1dya0VLM2p3ZUdmWEN4SE9HNHotZ0RzUGQ4VTVsNWkwUXVDcXJqa3NnWEpRaGoxVVRraUFhblYxQzZ1SC00UTBMMERVRE9Yd25UMHdqLW1WdFUzR3NDWWhET1o5TDJyX2tkanM5MzB2YWtWTmJCSjFUZXpKbVBCOHFTamJQWHlPNEFhV1FLRVZ4SzFZTmFLZ2htUHE0cEc4QVlzUnNBOTNTelZuT2YzRHN0cF9GVzg?oc=5",
+   "published_utc": "2025-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Launches 24 Industrial Projects Worth Rs 1.15 Lakh Crore, 36,000 Jobs In Pipeline",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjhoX2tVNWtObGprYVpkZmJTTWRoYVhJWUR1WktnbS1TNkphUnd3dy1LN1o3VlE4enJTQkt5djVCd2Z2LUhqLTJOeVVqcXlwbll3WVRPQlRlV0xDN1kzcWZma1dKOGpkLWpxaUlYNlFNZmlSWDlLU3VSeDBWbFZ5NXlVT2tEenBOMEs2TnJ2WlFjQzc0V1o2b2ZZeG1Md2FTWmdvUF9keU0yS1pGWThxTi13RXVWWkVpZ01TdVY2MGVXanNyUTkzZFB4UkJFemlS0gHWAUFVX3lxTE0wQTFkMFNjOV85QXdMZHg5NWpFcVZfWFhvR0ZwVWxhTVJVaXZuYUg0SzZ4aTYzN01uQzB2OW96by1BekFpcjdkRzJlYmNTbWNaNVF2MllvOVRhZzFJdUpaX2oxc1U5NmozZWpmbEtMcDVWRzlVdjAzQzlBRGpWWmR6ejhkdzBSMVNLR01Kb2Q2QnRrMV9OTW5qSEdBanViTlZGZy1IWW9HY0NqRkhFNlc3TDY5cG9VcW9OLWhWdG9sMGRORXVZd0M0UnczWHJRc25SNHZ2b2c?oc=5",
+   "published_utc": "2025-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Steel completes ₹27,000 crore phase II expansion at Odisha's Kalinganagar",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0xNMl8tSjExcnF6QzZ5NTQwbE5VNXQ1aHp2elJ4eFFJNlFGZEVEUE95ekRaRldVc29jU2MyZUh2dFdIdjB0UDdiNW5pemY2WDA3YzlON3VhdjRucGdDeG92Ml9ET2x0dk94YzlDYWkwYzRUQ3ctT3YzbGNZeTFJQXA4WWtLUHluOTBybzJza1RETlFPbkRNdXNGTWRWT2R4NFQ4NmhXenZlMWJ6Uzl3c2syMTlNMzZPY3gwTnhXdXM2YURFQURhU3lva2gzbjdDQVBMS0p2N0FQSWtVMlRXeWtaUzh6NThkckHSAe8BQVVfeXFMTVlBX1R1U3Q0d2RzcGpyRFptN0JvV3lhSDlFTEJYdXZRZjc0UFdvenc2ajhsaDJvelBhYzZOSWZYMFdDZEotamRHblR6d0lNbl9GNEgzcjA2dnJpUGdWb3dmT2JER3JiZkdEY3JDZjlKYnlIaG5MeFQ1N3ZubWhEMFRwRFJ1eFlnQmJVWkx5TUxyUnlBcmw5MmIyOVE3X1pXc0FtSEhKRk0zZm1qYmltWG9aUWV6QmRiQU1hRUM1Y0M3Um9fcjcwSklORC1HZ3FFLTNaNjBoRC1sQmNHRUI0RWQwdzAtVW5TenN5dWZOTGM?oc=5",
+   "published_utc": "2025-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Group To Invest Rs 63,000 crore In Odisha’s Jajpur",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONW1pSWNWSU9YV3VrWDFkaGxvSEZqek45UklKMGhTNUFXLTdhdFF4a3FtaW15alNiTjM4d3B6VllFdm5zN0JJVHZjVWNVSGJ6M09ERUVvLTBPY2tOMGZvSk1IYkdNREN0d2NHZmYtcEM1U1RHcERSbks1MURReVowMFZOUF9GYWNPZ2JYWlRwN0E2N2k5b19NdjhLS3d5bEFPU2fSAacBQVVfeXFMT3k4dGhNdTNIa282ZnF1MXp4UUlCWlRQZENrb2dmeXFuZHRHU2gwUHg4cERfWUNPMjVBWjV3S19VNHVpUkhYejBDbnRteHg1WVZvV0Z0ZU9PTldEZXl2MHl4NDBnNlV5alNrY2ZRUTd0Y096czNDRENNTmRGT0FNenBIc2FCSy1tdWpic3g5dkl5M0pkVzdwZHFKX19COTg1TnR1d1BrSW8?oc=5",
+   "published_utc": "2025-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Breaks Ground for IMFA’s Rs 800-crore Ferro Chrome Plant at Kalinga Nagar",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeGpWS1ZmOUN4V1hNYnlEdUJqYUJXYVBVZUdaaUFmekI2QkFWbWdrQVAzdmJtaEtfU2JSQTJoNTl3b0liYjU4dUdITUN5N0F4Umg1MUxsU3FOOWE5Zkg0NDA2VzhVOVRJcmV3VEhsUWJ0TVB1bmpOOUhpNlptbDBVODgtcjMtVzUtcnhmR2RrWFlxZERuU2JyUTAyNnhhd0xMbldoaEV5WjRkYmExaVVLblNGMVprbTZGUWI1RUMyMTQyU1pfVUFMNtIBzgFBVV95cUxOUFE1Mng3RXRKV0pnLS1iWDNWQm9wOVRMWUkwOXY0VktDQm4wUTN5eEtWX3VmZnBuN0NOSzU4SEZxanZpbldkVlRCSGUxcGJCMTVZcmZuaGR0NHpWVW9uLV9vaXdOQVI3c1pyVzB4Yzk4WTdCYnhQaUI4Z2ZQSk5NUzJvS2kzeEw5OTZJZVBITHRKLWN4Z2wxSFJjSHVlWnBoTWppSjlIX0FVQjNBc3RyVFBwZy12OXM1emVwODJ3d1QwUjN5bnNGMUI3S3E3dw?oc=5",
+   "published_utc": "2025-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 5631 crore Shree Jagannath Airport in Odisha’s Puri got Centre's nod; all you should know",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFZLNGJTT3VVY21SdzEtbW5CMUk0N1lPVHhiR2NraW1NTjVYMG9jLXBHbjdoWTlvWTQzV2FOWFE3b1dTOXJUbjlqLXhBeS1jaGVySk4zTlhtNmNFTkNldklhV0ZMcVBEWXU5bWI4M0pQbkNsbjcwMnZ0cE5Sam5NeGFaSGQ5NEYyU1JyQnBEcXpfU3B0TXRQUERUQzNsZlp6MmVYUjdEQ3o2VmI4Unc4QW51bUt6czNuRmV1Q3Atd3Q2ZHd50gHKAUFVX3lxTFBmUnlBN1pMTkJ4cFkzTkRZdDhPcHUzSElCc1FadWxzRUp6cC1mTDk2c2dfcnVCWTVSQWI5QWxOZ3Y2NURrNkwyMW1RdXRRR0hZZElsZFJnZVVQNHQyZDNKWEwzUG03SVlCSHhqNi12ZkVUQlVmbXVhY0hSTDdCMkpGV3gxUnJ0bkIyU0RLanFuaENzLTJhNGs2dnhIcjhoXzdCQU4xNUFISGJnTGxGWFMxaU4wNW9ROFhVX2JQcDdESkZSemRJYWRHMEE?oc=5",
+   "published_utc": "2025-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt grants over Rs 2 crore to Berhampur University for boundary wall construction",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjNwcjBHQlpoRnBuYU9oUXR6X08zc19hbGVWNzNTTlk1QUNlazBPN0VGTGx2Q05sTl9kLS1mLThka1NCNjJ5SS1PMDRBcl80eG5nSXdpalJrai1FRnVLV0VGb2pjUlhxMUdHYjJlWFcyeUR6MlY1Q1htLTNmTUtkc09OaC1nRXk0OER5VnJpeE5nN3ExQ2VZbnkwblZNdXhUTVZqaFlTdGNOS3ZyWi10S01zMjJXS0Nia2VpeE9icVB0TVplVUtj0gHMAUFVX3lxTE1FNUJWWm4zSDhHb0tCU0hoTG5JUENrUERYLW9TSUI2V0NkZUs0TXFBVXBOYTI4S01SWnZybUFiX3N2Z19VejhWSXZfTEVJZGFzbk9MaE1FdXg0YmZqZ2xPUHF3UHBWd3hHbGRNVDVadnVSNU53MmRMWGxka19jMC1UOWJOMUVnN21yS2NwQ1MzbWVrMnVxdlJ5SURmbTBRdGtwamRhd1RocF9BN2l4cmhERzlRaWN2U3BkZDJFS1ZtdXVrM3JvazdNWms5Zw?oc=5",
+   "published_utc": "2025-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

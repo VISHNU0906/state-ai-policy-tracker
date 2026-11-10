@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2025-01-01 before:2025-02-01",
+ "items": [
+  {
+   "title": "Maharashtra to launch India’s first AI University",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmVXZ1ozV2xzZTRaaEhTWmtVX2huMTR0ZHlScmNEcWFRcGV2SzBSYjh2S3VVdXRMOXRwb3ZGV1ltRi1uU1NvT1NmdmVWb3BEZ0VWM3djMUFHYW95S2gzRHNRODZhSU9YZjhwYTJCVExSSDBiTXRtajZEZElMaFFjZFktdVQwR1psQ1Noc2VxRlhJSEIzU0FpclhsVS1mR21KRU40ME1jbDjSAa8BQVVfeXFMTTlJT2ktSUc3MlNuQTVfY2NCM2JGaUZ5VGVCUzJpSnNzYTk2eFdqTHV1cHhROWxFaWJhZDVxWURVR2ZsZ0dRa25ocXlSalpGdi1sYUlTU1RBaEVIcUpIZTFiTnJTNTBZNEVBamVyaHJNOHVnSnpxaHRLYjRyUzVyTGNzdVhydFJoVEtoa1NrdUN3ckxMdUNwYUVSQXZyeTJMSF8xWkZqYjFTaTNaVjV5MA?oc=5",
+   "published_utc": "2025-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS to invest $8.3 billion in Mumbai to build cloud infrastructure",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnVmbEZRc090THM5cW1rOUh0RDNwZjJobUFlM1J2MW1EWFdEaFBSbnVndEdKV1VwbTJwOVBYNVZlQ1JoejJONVN3dzJ5VkhvR3lxSi1ES2VpektROFFIa0FpYkdUd29VRXZ0RC1WUE9KSXFjVDNrWEZVdEgwcDRWeVBJcVNUTWhLLWhHc3BfcGl6cF9Nd1lVb2x3dDVOSzlNSHRTYzQ3ejhiZFVIQm9sV0o1WU5FcW1sdkgwMG9sSG90WDlYNjJMeNIBzwFBVV95cUxObDhJWDFKVC1GVktGTVJWSGhvb21oOXI1a1BxOXFpLWRsV09uMkF0d0UzQ1RES1VWLVFOX2hDYnU1R216V01ycWw5d2tnR29DcE5ucTJCVWRudGM1Qmwxdy1qRWNLMkRvbjduTTFXN0xmU1lQZ04zeUgxdmpLcThtdkpjNTBZdXBaTk9BUDF4aDRyTlI3dEk2dTViSlRBU2Z1aExxdUMzTzc2VHZ4Z2hLWHpod2d4QVV0enlHZDhadXFPOUNGVk9qUWtZVlYtR00?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT Global Data Centres India Pvt Ltd signed a Memorandum of Understanding (MoU) with the Telangana government to establish a state-of-the-art data centre campus in the Meerkhanpet, Mucherla region, with an investment of Rs 3,500 crore. The MoU was",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdjdqQzB3OFhCUVZwV0VLOWlIY2NMejVuT205NlNXanpSRFgtWFZZOW9vZi03LVNid1lvOXNHRkRQUm1IOVkxd0JuY1FhN2FaT2c?oc=5",
+   "published_utc": "2025-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Davos 2025: AWS to invest $8.3 billion in Maharashtra to build cloud infrastructure",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQUJILV94TGJ2aU5tMjV6V0ZwNFI3bkVNVjZnanFYWDJBR3FWVl9NbWtsT1hHZWpEWDRRMF9qSWpGM21vcmlGS01aMFVxLWhmdUd1SXM5YzdwSXRVNFAzT2U1TEd1Q1VYM2RQQVBPQ2k1UlFGTkRBT3pienIzN2VVeGFTSC1fZ3ZvQXlmTUpsZGZXN0h5b1BjdkhGNnRRRVhkYmdHZDlXX21SOE5XQzc4d3pBVms3NEJHSk1Jd1QyamhpZlpqNDNvRTY3VmQ0TTdzRlFBU3l6UFd3T0nSAeABQVVfeXFMT1BGMG9lbFh3cHVNVUkxYjJzaEpCSnNGWWw3LVhvWWtIRjV2OW1EVkRieC1nbWZjbHplV2JpSk1MRk1fVnJvTjJzMm1yQl9uUFFiSnU2NWFGVVRNR0FLT3NGZ3JHV2ZjUFZ2UHZKUVhQLUc5d2lCamExY1JqQUZ4Q29jRHN5dUlZbFJBMmJzSy02ZVRpellOX1NSZVFPWXJ2Zm16SGozWDVTd2RXT0ZSSUxMLXJMNXlMbDJMRVN3dEF5Z3hDbUpnZ1BjQVZZQk9Fc01KaVZBNk5TQ2dKZDQtdFY?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amazon Web Services to invest $8.3 bn in Cloud infra in Maharashtra",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONlk2OE1MWUUzdldZX2ZNMWNjQTA5ZUJUWkRGSTBENnhjZmdJZzAxakI5bXh3WWFSdllOaUd2WTNCUThtSUVaa0NPU1BMbmdCempYN29RWXIzdGI5SFZPWmR4LWVKa3BjcUFJWlczVldkeGNVb1c0QkFnaXRRZlB5ZHV4UGpvR1llVlNGVWZUaFRhdE9fRExkams3WFJBNW9XMTVNa2dZb0pBb0NULXhYNF8tU1ZWWGZVamc4WlpodG9kSkh1M29KRzltRFhaZ1nSAdQBQVVfeXFMTkJsUHh5RWtxUDQwZHNlbGpQVTZ6MVgxM3IxWUZqc09VeWRMcDZUWklmTjVSbnFMVlVWc0VsaUxLelJxZTZ2eXJ2V2pXUWdrTFV1ejJtaWZOdFFhZm41TXJ2SHVVT3lnVzFSYkYwNU4xS1VTMlhWZkdYQ2p2aUduMjlycmk1QzNiVk9BWnE4d3NHbF9FTE9YNUNSQVdNRWJ3N2RvQ21rNkwtOC1FSEljVUlUb1M1WnpOMURyNVdidFAyREhaSl9PR081MVNGQ3NIWDJMNDA?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS plans $8.3 billion investment in cloud infrastructure in Maharashtra by 2030",
+   "source_name": "About Amazon India",
+   "source_domain": "https://www.aboutamazon.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tbl9zenBTQ0hFUjBvRi05VmJfakhYTEpUcE80SW9zWF90cVVPcGNBdERTZV9fbk1ucHltWUV6eTNyblk3d0JNVTRqcXBsRUdUckp6WVhxb29aSjRxRVJmS1RrMEZRMzA5RHZEeUdLaWRnRmtaTm5DZm00cEE?oc=5",
+   "published_utc": "2025-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Building the Future of Technology with AI city in Lucknow",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkhtTXJlYVZTZTV5M29NOE5hVmxUSW5lMmQyaExTYkNnRXBLZ3lCU2R1V182OGRsOU9VTE5fV1ctVnZ1ODhjaTlfVWxIUENXMTgtZ25pTGQ3WTJEdDNieFoySTJpZVJHS1IwSGpxOGZpT3o4akxNYWlGQUg1ajVYdGJZM0ZySzhjSlpfNmVNN1dzVjNuZVJlUk1Ddw?oc=5",
+   "published_utc": "2025-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shubham EPC Commemorates the Start of NMDC02 and NMDC03 Data Centre Projects with Groundbreaking Ceremony",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbG9YSGNBby15M3F5V29hWVNxTW9UblBzLUtpM0N2dzZlaGg4ZlpZZm1rN1U2V0Z0cnVuRFI5ZXRaT09QQ2hRclJ4OGJzS3EtcTdEU2tReFRpUUZKOUIyZ1V6d3RXMXF0Y21YSEhlWmxhTjE4U0t0cDdEVVU0SC1xSVpKdTNGYkdfTTZpU3BGTE1uNW9EdFRyZmt6YjFzbFhydUlvSGRNc2t5SDhPakQydzc3RVA1M0NvaUdmYlItQmpNTXBkVklpNjlkMkNUVmRiMmpzeFg4b0hVYmpEX0FFYnBrbi14UVctaUV4cg?oc=5",
+   "published_utc": "2025-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IAS Ashwani Kumar appointed Director, DITEC, Assam",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTk5nQWtBcFVralFlRDlrSEtBV3JzVUdlVkZfU3JqMUlRdWJvREFBSU9jUEZBSy0wNE9HeFBaZks5OS0xdDVhWDExTk85YzBjR3ZkRUZZcDB6TGdjbTFsWnkwMFI1c2FDNFhka2VDWVQyakJWdG96Y2k0WGdadVpVMFBXc3JpSkhWbUN0OHhmVlYwN2NNTG00UldYRFZyM0xlUE50YUVoTTYzMmg3ZVQ2ZHV2eG4zMEluX3hiMGZB0gHDAUFVX3lxTE93RUs4U2pSelhjcWZTSDlyd19sMm1FSFd3S2NERzIyM2RZbms1REI1Y1VRN3JMNlE4bENWM0dZY241NG9MVUxFcDBLMmZsbTlJaFprUkNnUm1uYWpVMTI2STdJRW9tTWNRUjZoOXpLa05zSmpmVUZ0MWt2QjJxa2hid1N5aEg0czZoTU5pcDVtMEtLUDNseHBmUVloWGhjZGZQbDdJYU9qTmJtY0NtdlVrVjc0RVNoc2tzNFlkTDM0Q0Y4UQ?oc=5",
+   "published_utc": "2025-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Blackstone announces Rs 4,500-Cr investment for advanced data centre in Telangana",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3JWOEhWRTZyNGVZUUh4TDBxSGpwTWNHQU9TQWFWdEs2V3lZNkVVdjdhS2gwVWVPdlc3M3l1amp1UTFmcF9OOFhWOENEaHAzZ3pEV29TckRQLVVmWTltWEhaaFVuLWpGMEczNFFfZS1lT2Qzdms2Qm8xZW8tWGNBV3VHZF9BTVFzNUo3RE16cGt0bEVBUG9YT1R5WktrMjRLeGtiQmpRWUZNTkc0WXBEeXpPejhScWtDMXVfWg?oc=5",
+   "published_utc": "2025-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

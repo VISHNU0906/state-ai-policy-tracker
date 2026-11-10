@@ -1,0 +1,21 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Fact-Check: Video of Mukesh Ambani Promoting ‘Free Stock Forum’ Is a Deepfake!",
+   "source_name": "The Quint",
+   "source_domain": "https://www.thequint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaERzbG1QLUVtT0lZdHZ0WUhvbk5BajZwNlpnMjROV2pyTDBRNHZqVElBZ2JCWHJ6cnIxbTF0dFM0bkkyUDctSE5fbk9hRWlXLTltOEVocEJRTUZuVXdPczllSVZscFQwTU5kUjBuSi03NTBUZFFTY1pnQ0M2T29DZzB0VlJtZHFiVzB5c3FNVzlsaXpWQnhFOUV5WWkybEVhcmdwN2prcHhDUdIBtwFBVV95cUxNdGxaTVlXLVNqaWVtWVN2V3Z5MHVKUjQzajRma01wVVk5eHNDanB3X281WFFCRUl2VXV0TmNQRjh6TzY0Zk1SQVlzZFF3ak9oRUxLWW5TS1QxU0kzZldWUVFSR0VCdV9XSDJadS1sMGhUX3NkbDFzcWp2bGd0RkxEV0U0Z0xtS0JZS0JBQ2I3ZVBLakZLTElURF9CZG11UjN4NlBlQzVUdU1BVS05TWhUbnVQS0dHV1E?oc=5",
+   "published_utc": "2024-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI deepfakes, bad laws – and a big fat Indian election",
+   "source_name": "reutersinstitute.politics.ox.ac.uk",
+   "source_domain": "https://reutersinstitute.politics.ox.ac.uk",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdENQMjQ3bHRLRm5DQzlVc3hPdnJwVEFuSGNTdW14anNaaS01elNkYWhlbTBzaFpKREszdk5CZnlkVEdWX1dMTjNTdFExano4RWFrYklITV9IMHNfam1BNzIybDdJandFRmR5WFBtTnlaMi1IUzc3VWs1X2RtMEw2WE8tbFRfRDA2UGpQTmg4cVN6M3hLT1NRMkZ0c3dYUQ?oc=5",
+   "published_utc": "2024-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Andhra’s Data Centre Policy Faces Legal, Fiscal Questions",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5QSGVhV0FGd3Flb0dlVGprT3VXcmo0djV0UFJYQmlJVVpfZWc0Nll6M0lGMG5hU2FuTEJiakgzWTdsQ09yWlNpS09ySjY0Y1doWVB1YXFaeHh4UGg2MjRmYmEzMV9CMTc0S1lrUERreTZWOGQtcVZvLVk5Zkdhd2ZqR1FFdWMzYWxvT2JhcEVOTlBhVVo0NXFVVGE3YV9QeTRnRldpUHRyTTN1NDJXWTFB0gG4AUFVX3lxTE44WXF1Z0J0N1ZQT3dsbWVJd1lGUlVlYTNySkRKVFJLb0RVcGRwaXc1U3ROQmR0U09Cc0tYbzN3T0d6aTVqNjR5RUVwVlptRmhXTFlxbWtvSkdXZnFKd0tSaVRFNWc4TGU1VzlCa1Vfa3FaZm9VUjRXQjZ4WUdnaGZoTVZqM1V3UTBHcGRzSzR6VFhYbWs2U08xRzFwbzQyR2pia09FYk1XTk1QYlg2dWgzRl9kbm9YLUQ?oc=5",
+   "published_utc": "2026-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Construct data centre at own risk: Andhra HC to developer",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnRXdlZjWDFNWU5ZRzN1YjJFMXZwc0lxVjktdzBSY2lZT3o0RER1TG5oZUJIdG05cF9scE5wV2RLSFVzNjM0ZVFob045UTY1T1lCeG5qQW1JN1VyOGprNUdQbzFvRXVIa1ZJQUREMXMwYkRnWTFYMUhVVzE0TXNSQmxGT3VJMDBTeWtUbjNOQlJrR29HLWVZcGlyNExsbFc0RHZwYVJsYWpuOE5qU29vY0lLNHlmS0ZFZ1VfMFRkSjHSAc4BQVVfeXFMTmxOd0tkYy1MTnJ1QzFmd2ZxNVc2dnBrR1ZNNk5iRFBUdjNjT2lHd2IzU0tWa2w4SGpKMFJFMnJnS1pDVUtFOFBLT2xJZ0Rwdk1BZHVsQ2JEb2d3T24yMUloLWtOTllBSGlza0ZKWE1sbXp6Q2J3SFo1dGVNcDZpcjNtb2V0SU8zNlpUTHp3dzJGYjVZQlhnMXdJX2hmaXJSQ21pdUg0aTNlUjBuTUctVFk4V2FVb1NOdTc4blBaNi1INU45ZlVjSGExcmVkamc?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh HC Refuses to Halt Google-Adani’s $15 Billion Data Centre",
+   "source_name": "LawBeat",
+   "source_domain": "https://lawbeat.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm1STWREVjl2bTBkTFFnVXRRMG1icjkxODJocFNzNjFOOHp3LTVVcWw5OHczekJJblZRQUZtZUdZWUJIYWxkdHp0Y0tJdEYyMGtRU2tMcU85OERxbEh1Z0VVZGh4UGNZTXl2UG42bTVScHBVOGtoU3BadkcxQXl0VlFJbW4zVmduY2EyZ2JpLVlsQmZ4MlRuV0tYYktIdjU2Ri1mVEJIbWRFR2RwZ3JR0gG0AUFVX3lxTFBDXzlhX1JSREpNRGd5VHVPMkVVUER0c2RWU3ljX3ZRVkZaaDhkRlctTGtNb3pSRVpkMll0RWdKZGpqRVJVSFJfZ3N1MGxfamxLdkhYbDZJb1RDUUtEOUJlNXpOckpSUUJzZHh1dUFkeDk1OFZkb3hLcFBHZnJWTFJFM2JDWGVnNEs1UzBFRG9zZlZaQXlENVlpOFl1c3VVQm0xcGQwYkxuOG9JLXpUVWlwV1BWOA?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HC asks Andhra govt to check if Google-Adani data centre has legal, environmental clearances",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSURqSFVwUTUwbUl3cjZTQ1pwaF9kU0pKdzlKWWREZlAtODFpME1UbDBHaGZ2dHFMbGRuQnRiYjVmQ0doaUd2ZzVsMFEtZktQUHhsb3p0N3RYV2d6aE4zc01DZzBlYWxNd3pQTlpSWnBQQW8yeVl4eDVuSmxHbWVINnFYNlRQck15eTZPYVJCNVp6RzhvQVhFbnNUeWo0MEY2ZG56ODlYa1hDSjJkcUJXeUJkMlVvOU1zZXdFLURtY0dXNS12eE1Ra3pFTlYwWUVRdzN4cnByMWXSAd4BQVVfeXFMTzhlMkE1OTR4dTFTYjZucUxqc2ZzSE1EZ2p4TTR6RFAyT0s4dHRxNWNfWmw5N3ozNXI1dGd1bVdmdjhXZ2xzSEIwY1lVUmY4dlhPWjhvVFJOU29ZNE1XV1NEdzdIcXU2TDJzbURULWZXZW12LUllb182R2JQNW42TEE4YkdreXR1NTltMzNqRGMzLWJ3ZGFZa3l1V20yckNYckhPOEJzZWJ5WloySm1FOE5fS0plN2V4eDlrcmIwUjNoY3lrNG13amE2bFczWmZCZmdEZl9FTmd0NC1Sa0ZR?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google’s $15 billion India data centre project battles water, wildlife concerns",
+   "source_name": "Reuters",
+   "source_domain": "https://www.reuters.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGJ0bjViY3QwQ0xySVgtVHMtRjNiM3JvVTNOc3hNQWFkNzFFMmdoRjU0LUdYRlZvWmZtTzJ0RUJEN20ycmZqWklGNWVJSWdETGt3d1hLeGtzbzlYMFNUMkZDc29sdTEyMXE0WmUwQ2lxM1lSWUhQeVhQYlZ2dnlZR2RBVWJ2bkdiU3JFVVRQZHlDc0FpYW9EX0VIQkEwSTVyMUdkSlRvWkRDa3BUbURwWWlpUjJJdWlUWmNpT0tNeGRwSVhJejcwMXRYOA?oc=5",
+   "published_utc": "2026-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google Builds its Largest Overseas AI Data Centre in India",
+   "source_name": "Data Centre Magazine",
+   "source_domain": "https://datacentremagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVh2NzhGUlFpY255TnR6S2hGT0pfQjl4X2Z5MVBEcTIzX0w4dFU2MVF0aUFRZmdDVTY4QTQ3dFRzbC1wQ05xMVBPeGFQZlpEWTJKdTM1NzBuVloxU2JiV1A0aXNxcWpzWnRQWXZMN0hMSFljZDB3MlNnY01URVptN1Y5LUxabENvNnlqWTB2OG5hU3RGRU8tNU1B?oc=5",
+   "published_utc": "2026-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh High Court refuses to halt Google’s $15 billion Vizag data centre, questions approvals",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN3UzWHJLaVFjNEdoVE5WV0F1elFEWERMMDJOUG00Zy1JdlpjLTFMVlAyWURsYWk2RnZlYnlWUDZNVVlnVndzMUVZVmhPQTA4NWJnUFE1ZDVSVDhycTdKTDI4QTRGRWlFQ3FUUmFjWm5YRjZDRjVBLVE1blNwWUt4TmlMR2pMSEFsZW1iVl9TZmxFTUN3N1NFejNtZF9BQW1WRGhhaUZfR1loclllX1lPa3kxWGVmdS1JZDROUG5wcll0NkhnRFVrYndjWkRWQVBBR2VWNU9WeVFiQQ?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh clears four data center projects worth Rs 2.83 lakh crore",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwSUdEQjNGX1pTdWpQcXVMeGs4N1JqOWJBR210Zy1md1dxYjAwd2laVHBoOWhYUW96M0NZWjktVHA1bE1scjFQQ0sxbU1HU204ZWNWZGlHV0RFeldLU1lNd3JMX3pwMHJCeVAzT1ItNGhuRWlGTU16TA?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google-Adani data centre will not affect environment: Andhra Pradesh government tells High Court",
+   "source_name": "Bar and Bench",
+   "source_domain": "https://www.barandbench.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlk5S2Zuc0VqRnVNMlNLX0VFeHBnR203bDdRWEN3X2ZhN3JGRU0zbk0zakFNMEVqUXV3YmlJTDd1VTd0MElUTFUzRGlQbUVIZ1BXSFRBaGppWlN0ci1lRnJoS0JvajQybWw0dGFSVHg4RUg1Z0NPLUlUSUJaV1pmd0RQM2lDYUFWQUxGdFpsbVlVdW9mRS1jb05JZ3lGVlRKVGxKWHEyUTJGWWMyb1dVVVI3T2lhcmxNSlJXblAtV0VfejN3dGow?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Data Centres in India: The Race for Energy, Land, and Water",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1lDWUNsNE1NSmtsQ0FZSzc1WjJiZHBPOHVMM2dtWTRUSXg1aFJxcWdQVDU5T2VwWm93NnFxRE5aX3dxcXpCTk1STHF2YzZpOF9qdG1vakt6NnJLTnRpSnlMaC04YjQtbkdaMVRyWVgwcDFiTnJESUhHTkFxSmJyT3BLdG11eFh6TnJfWjlFM24zYlR6YWFUWjZtczNXeXNpNEZrZ3J5X2VOWWfSAbIBQVVfeXFMUEg4ZlFFRktjOFRTRURoelpTQWlTLWxyNXlUR1l5VFRmVUhsajZXWFkzVnowM2pWMkFKOFJTQlRqdWdDWWJnUTdQY2tpTHRKdjFvS2x6cDhTRWl2dWJwclpDbG5qYU1iVHdxQ093TVBESTMyX3RNa1V4Zk5qWDNLMlBCd3l6QkN4MTFlelFDQ0pMR3ZUanFIR0dpZ25WSkhUUFlFbjVyc2tNMmZPX0N5Nlc5dw?oc=5",
+   "published_utc": "2026-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Struggling with water scarcity': Google faces backlash over data centre in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREkyUjQxeXNjY3NKUUNGR1hMck9Dalk1cEpGVlBjWl9fSF84YTRIQ2k0WUZnSHhVOG80TGtuZnplbEtWRklZdmxsWXpUX0tKX1pta1Z0T2dnaC1EeXVFNVB6bUt1VXBUb2pOMmVUY1JTaE1JMTIwZmQ3TVRNdkVTa29DcDRsbmw4M2lxVVpkSVJhWlU5a3NLVHZBRkxMcUpwbXY5RUpRQW9EVFZxR0hlc21nWURJTGlyUk9TMW96NV9mVmkxcV9DZkFfNnrSAdoBQVVfeXFMTnFkTGl4eVJOUDJudUdVemU1X1lYYnpqQXI1WjBUSElJT0p2QXoxdE55ZnpKNUpvOThmRW9kZ2tmSXBuMVZLdmE2a1Rrenc1SVFOVUtDQUNROElZUTJGMUc2Q0pJWXBoTDc3aHJwei01SlJCam93QTlkeXZ3RndvOGdqMWdEajNTMGpJLW5JcEoyQThrNnVsT0paR2ZLZTQyWjVONTF6ZkNhWC1hTVVKM2NvRU9DTmtBOFQwc29UNHhFV1NJUnNKWUtqUUwwRGl4WFdzek54LVpVMkE?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Andhra plans to power AI ambitions: Let data centres buy and distribute their own electricity",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlc1cEQ4YmlpVWRlZ0dnRXpBalJfazZpSkNsMy1hUlFfQXl5NFJHdFBiRzhoam9mcTBMN1lSY3JIczVqekNTMjZWOVQ3QVM2ZnVfV0VtTzVUZHdna3VBYTVpTTBvTWtWcW5xTGFWZVFZNXU4NHc3MUhndElBNEhSMUJfb2dHd3NDTUFFaGl0VlE1cEc1eVRhbWI5bzNkSF9DUUZfcGFOdHpSRko4RHfSAbQBQVVfeXFMTkdOdDhFWEZxYlRWYjgyQlAxV1oydTNXckRqRTY4QWRsWHhsTm1LODYzNE93cmxNdThVMk5oaWMwdWZhMURFcUJHeEJMMVFGM1RMLWpmOF92N1hGVllsTkZxZ1dXcVBjNC11QW5XWVE0RkE5ZGNmaWxhVEVtRWR2a0pINkx0WXBtZmNpTkRuZDl3QUFQMkhqT1BYTFFmekdyQzdDWnU5WXJSNnE2eVBNSEtQWGx2?oc=5",
+   "published_utc": "2026-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video on people displaced for Vizag Google data centre blocked by Meta after govt notice",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGk4d21nRnI3V092UG1MY3hYSWJaeU1XUVJmUEl5SnZMT1hib1E1WmJyaEZnUGxnUWhlQ3Jiam1tZUdyT09hSmRkUEtfeU1kdDFDV3djdzFFZHBFXzJGQVJCczNBNXh2V2xTZ204Z0FqQktMOVlHVGUzMl9KV3gyZU9yM09NbFRBaUNHT2dXdWd5R0x5QmE4M1BUc2lmeDN5TVZKT0dmME9vbmRUXzJDQ21EMWwwNndzWWpmalFJWGdnOVdOd1pieHBveXNXZ9IB2wFBVV95cUxNSWs1T1RaeFlQSHZjRVZ5SE9PaE5SZ2lZd0V6VFZGOGVUQ0NxRU1UQlYycG5NemxwV1ZTa05MTGYxdGtsWk9GS2JGV1VhR09uVmotYUxLc0phV3RsOGZhWURnLXV0aURseVIwTDVsclYxYVZFU2FteWgzbFY1YVR5Q1NQQjNJTm5pNmNlS3RlU2p5VVd0SkliTERyYndvU201anJadVpER2RtSTdvOU9LYnhEWDh4azhVWHZ3YVEzT2JNcERrb0MtX3BJWWRoblEwb1F3S1FqSDhZN0E?oc=5",
+   "published_utc": "2026-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Government Allots 855 Acres to Reliance for AI Data Centre",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcm9aRjlwQ1oxbDhTTTdyekR0Z1ZYZm01ZGtGUmJ4b19ycFhmUDFWbTdTZHJvbl81RDhxaDBzOV9jZy0tZEwway14c2p4WGtiRXR5cFZUM29qTWxhX084amtKdGR5ZTRIRjVGU0c0U2haQldfTEJuN1NzLUp3NWt4MVdWOG1qamc4eXFkV3VRQlh6eVFDMm80Mmh0T25kaTZFX3MxekRrN3pGSXZzaFE4dWd5ZklPMUNRR2FnUkx5eXRCcjBibFd3djRPOA?oc=5",
+   "published_utc": "2026-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra’s Data Centre Drive Sparks Transparency Debate",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3JQUjJEZU1IdXZHLXQ2SjktYnFtMVIwOThMaE1CU2FBTE1rLWs1T2FDYVZsTzZ4V2NtSkRXS0JIeW4yMElhYkpfVG1nX2F4Mm9JNG9RNGNWQTU1cGVDaGlwSE5XRVV3ZEFJVy1vR2U5Rm1FMmEtdlFmSHFxSGpfT29xTmtkdjFNWkxvbzFQTDU3R2JqRWdWU1JrZU9tU25RbGxWZ0tYUnVZZTFNYmpzVUFTQTQtV29zNzAtdlVId3gtbzR3M21WVUN3akXSAdMBQVVfeXFMTjZWWWJYdVRJZVp3NlhQOW9RN0gzOTNRTzRZX1lPUUZxcTFNRmlza2JHSTNSaHRMNTFwTUFxNE1OQVl0OWdTS0FEdjJoTUhMeFFHcGQ2T3dBSm5SVDdraHhtU1ZPS1pSQm55LUFLREx0V1MtZlc2Z2tZcVlVa3N3bkhnbE02a3NxUUkwWjM1VnhpbnNoYS15SkRYajYySkstTmZoMUI5eFNreE5IWE1DX3RsMWpGN05vOUFvOHdTWUxxZFBKVkhJbHdZSmtJSmdnVVlKaw?oc=5",
+   "published_utc": "2026-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 31,800 crore tech plans take shape in Andhra",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVpHcUZtazVCVnlSOWFxaC1NVDBmSUNIdEZCR1VsZk1JYkxmTUFTcFZRTWxSampobFR3ZWZSM0R0dUE2T1NSZ1JUc3pFZWV2a1Z4MjdWblRDbnRDVGpmd3JCRUZkMm9tbVg5NmJvMVFkV1pvRmRWVmEzS05TTENGN0k4Q1IyTEwySjFXTGhnbDZ1OVRIN2Y4dGNWWXdZblU3Sml3SjU3WEg2LU9jRHhDUV9zNNIBwAFBVV95cUxPSk51T0Rhc0pqN21pZ0R0Um5TMUdLaE5RTk5qa2lRX0ZKanAzR0FWUXNyby0wTWZsODNvLW11eGE5NWtuWG00UVIzS2FUV3lVdVRWQ0JQWnNndFRCU1VLUTNnM2p6WWIteV9HS0Z5WXd1UnNoS2E3M1RuTHBVXzlaNjZRQWMwdXk5QUJxNThJdVdERGRFNWpza0tyUFl2RHBtQkJGbkdFVlFFTUNMME8zaFEzVlI3UjI1cmRWZ3dJd3o?oc=5",
+   "published_utc": "2026-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Two major data centres get land and incentives in Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkdFbDBXZW8xU04yVklSUDRiTFY1dEFlOFkwNWtFZ3RpSWhJM0pCRXpaaVRWQlN6THZUdGF3a0pzTVR5WEJ6U0RjWEE1bDBxTHBwNGswZXFmNW1OcDNwOU5vRTY1dHEzSHNUZmtGWDBXTWR0ZWpNY3c5UmtDbFFPLXpSY3ZETlk1VTNJTFhnV3hUa1JDVS1uSEZmNER3MWxWdWNqQWZXV183VUVWOGJFQVdDcEZHRmU0LThIU1Q5anhHbks2RXhJaTRpWdIB2AFBVV95cUxQNGhydEs2U2xCRVNVbWpYa3JDTE9VS2VYMi13NW16OFp4U2NmNTZ2OW1zbEZudmtOc0w2cVBrQWNQblZuQUFqLXNTOTJqZmU2VFgzTThCTFZsRmFFU09TMDMzZG9XOU1nNDhXclFLSUdIWm1mdl9fUGVEQWhsMzRDT3o4ZE9MLUtxYjdobG5XcjN0Y2JWMzg1U2Nyd0RQQS1uVF9QQmhlSDRsM2ZLR19VVXJzSDVCVVhyMjZuOVd0SGZnUVNBS19GaVAwcmJCMmp3V2RZcjRJcHY?oc=5",
+   "published_utc": "2026-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Temple Land, AI, and Justice: Simhachalam Row Explained",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUptOVVnR3RRUlNXelBEQ2xMWFpNamFHYjhMTUhuczkxbG40SF9vMFB0VkcyelowRlJEZ1hMRWNzc2ZicU9iMlh2dFl6dWdlSk1JRHA2b2VONDB1eVBYT1V4UndadURjVC0tcElLQ1ZGRnJLMWd2cEJ1d01YaHBOR2FsRGprMFNnS0VKVGtjQnV2MFNEN1NV0gGeAUFVX3lxTE9ZSzdFbzk1UEZvcUdwRTBLS21WUkVreHFZb3BXdmFxR3NobE40d3o4SzFmVUMtaTFCU2V5aXgtVUVhenFKSHZDSDVnaFJvMnBuY2dqeXk0TTNYaWREYzh4aUhRYVUxWHllTjNNYnAySUVJWHMxelFPMTFyc0NsT1FFTUlVTGlneGw3QlMyOVozUElKeFRMRWQtNVNNbVV3?oc=5",
+   "published_utc": "2026-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "States step up AI data centre push with new policies, project commitments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWZCVVA0cUdXQk92YnpDQmVhaGI4OWc5NElYcmFIeTRSRHNIVEJDaXJlX2phTFZ1Y1VZMjdnMkNGck1qV2JqX3hKdkNZcDhkMVNjczJqRzRzN2FLd2FqN2tpME41NW02OElaOC0wWEJoYzB1OVNUdndpSFk5WVFKRmNPaGFEazdrQ0hqaHRrN1NhaWV3ZkpwVTRFTlJkX2RCejZrc2gzdV9SUEZPdF9yN2FyQVlHVlBROGVSYWZickxqUVhH0gHSAUFVX3lxTFBTSnpTSkh6VHBwTmxfdTVQNVlWcTJubDJ2TjlVUVhhN1BYOEJmeWxKRW1xV1otTV9PekxBZlhGbWJwQ0ZpRVlGMVNzUV9MWEQ3V3JoYXFxTUFOYURLeFlNWFlORTlYM1ZwTWd1Slp4c2lmNVZMek0tOUZXTkdBTmdRVVZFSElnUXhXOTNlMzRpVF9rUUVwWWJaSkU1bGNaUGttTmNaN084YTEzbU1GTzlwTi16YzFrMHdnaTRpdUNNOGs4WG1nQktLZ296dHAxUktTdw?oc=5",
+   "published_utc": "2026-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "855 acres allotted to Reliance Data Centre in Andhra",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVVEak5vS25fcGltcTl6dlBwM2hSWUJyNU9aYVlXUU44a2JLVDBWWFJkaEw2cEYzTDVZaXJ3ZGpvVjBvdFFUM1E1UWpZSlAxYUdVVXRlNXZxVVo4UzVwWHpqYkFpM1ZEQ2VvaFZRWUlNMGp2Vk1vc0d4OWRVYlZ3M0hHSERPRnZ6LXB3RFc2QUVxVmFONzlPcnFGNmtIWGREdDl3YlBkOHhXblVvV0RQUGVXZmM2aEJHWHJr0gHIAUFVX3lxTE5UczdFT1Z2Y2piRTRhdUhfcHRpVW5Zck5Sa09ua0dWLUNNcHdSYnl2cnR1c1hnTXNRVFZJVTIxZ0hYR2s5WkxDclZ2LU1JbmJ0UTlyU0pGWVNOTGIyV2VNVzV5XzZyekFDSXJ1NHBtRjF5QWthS3l3NGw4N1NjVUlVbEcxM2JGMUNuaF9mLVdfVlFUcERyNDZfcHBIbzdyb1BmYzY3SktnalJDalBqYzJUQVJ2UXJ3enZmRFNLS2VUSHpPSkNzV1E2?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIELIT to Establish India’s First Dedicated Quantum & AI University Campus in Amaravati",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iY05nbmVtRzFLTEJHX05oYnlvb3Y2SUEwQ2NHZ0h4d0wwWmQxRHFmaXpmZmxuWmR5QTFQamN4VzlOZHEzZ1U3VkFJOVVtRXM4aU0zdXIzVVkzQmFuN00yLWhwc18waUF3?oc=5",
+   "published_utc": "2026-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Allots 855 Acres to Reliance for Giga Scale AI Data Centre",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeGtOYVd2ckdoazk2eG5KNTR5U0FCbHVwbkFiLVMxcHZoaXlHR0MzVDAyVXNnLW5vSldudVN0TDR4YWhzMXBCajdGM3hIYVdaRW9nRkgtem1oWlV4NTNGTjM5bXJkWnkyUm1kdTZ2QjFUM3VsOUZwaWM4UUVhZFk2dGpBdV9zbG9GazA0cnZzVG1BUW1UNzlnYUZMT0ppUzZMVk56Z19jdi0yVU4zbHRjaTJqRGk5TmVYSkxNNjRGdUplVnlzdk11NUpDUEItd1pGY2ptamk2dXZUd9IB3wFBVV95cUxNWmlYbUx2bmpSbzhFRWYtOVI5cVFQQ1BGMjlVaHBrcFpJcFhDeFBvenpENElUbzI3NGwzZkhFeFBOa3BRR05tRVlVOXJ3M2JjUTRJeG5fR0lfOHJrVG1FV0toZlVxbFhyeFpmM3dsR0duYmlaTWtfeWpaVnlwVGhkSkdvdzhpVl9QVzBETE5TaFU4NXVkTjE0Vml3akFodV9fUmh1TVJIM2g4SWtKcllVRTNoLWE4RDlZQnBVaVFBd0ZpUTNyRzVqTFhWbTRlYXVVVmdqMUJIT2EzM3JhY3hF?oc=5",
+   "published_utc": "2026-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India bets on data centres even as water, energy-use concerns mount",
+   "source_name": "Mongabay India",
+   "source_domain": "https://india.mongabay.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzJrOFV2SE9zek1fc3VrU3NYVHdLNWVDU3BLMU93d210TXdtSlNrSFdyMmRRdzJ2LXBPNWJOTkxidnczV1ExRzBROURIYlRxUkthQk5uZ2F5T2luNEMydVR6UVZvV3k3MG1YQlBXSFJxdjhrUVV6ZnVhMnNwdk12Q1piTDJxaUNGZ1NUVWZacWpjLW9WWGhWVVNIYVhzQzhYcC1TdA?oc=5",
+   "published_utc": "2026-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Grants Google Data Centre Direct Power Distribution Licence",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQUpUZzB0TnZhX2lDUEhERG5qb3JLNGtuek9xeVV2UEZiSEVfTEJMUm9ISDhfWl9VM0llR2haQms5NmMyMDRQTExTOXBRNFhWUzRVOHRoYjl6Y3pjbTJOYzhKVmQxQmQzLTdtci0tcmFNaEF5LVBqOVp2eWJ4d0xXc25oZnFYYlhScHRXeXNxcHRuaWFFWFVLM2ZYc3N6VDEweHhaczVDc3FLZVdRdTk1RHdIamE1ZEM2ZTllXzI2SnQ5RFdzcGx5QVpqTTNBQTQ0OWhiMWV0UjlGZ0FvT3BtbWdFcklYRGlyY3Mw0gHwAUFVX3lxTE5FaEJXN2Q1NmY5RlJrRnZWU0lsYmVXejBKcnluc2psUzJ3M2E1ZFg4SVRzTUk2VkswUjVSRXhsWWFtSlFXVFg1WE5HakhCengyWXUwZThXanZ4V0ZfSUZyRHRzRmRHZWZ6N1dRN3hOaWdnaHpQU1paaHB1aGpWSnlPQkI5MUlNcklzMVNiR05vZWlWN19jSmlqcUZjVFFIYnNnRmsxT2pEZWVFT2laUWxTeXItNXUxcWx1S3hkbjI4Nm15cEdFb2VJbmRTQmsxOURFeHdPQU1EQVRLUGtYd2hsbGRyalRhUjMxaU12bUlGdg?oc=5",
+   "published_utc": "2026-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vizag Google Adani AI data centre: State govt rushed environmental clearance, activists allege",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHRMeGFwWlpEUlpxR0hBUWQwY256b29nVUNUTGJzMGREUlhQOG9RMk1rNGVWLTJwT1hVa3pfMjBJbXc2Y05VWnpGYUlscjJTMFlLWWZ0ZWtZQXdOUkxzRzdSVmphSXV6azNnMzJNVzdUcUJMSjFRU1BkbERTSGxJcFZJZzNCRlpVSHZnUHd4MF9nU3k4N2FGZTA3bGVoZzZ3eTNDWVVkTnNzdDZFd1QyV2dBQlZWZXBDMkFuS1dXX3U5bG5ybWR3cDJkMWFJdTNJS2VJ0gHgAUFVX3lxTFBpUjVDT01oV1NSajNxVWlIb25IRHdES1RNajl1NmhGNmRXR0U3czVfcmZyRHdIYzg0ZVJMc3E2UWNFY2hXUnRHZkxTNTk0VWtsalJ5T1ZzRlVZcE9UaUdUVTBmOHFBWmJlOHZ3bmdrbFJtdGp6NnFUZU1VdkdULXAxTWxYR2RBWG5OOEI3MU1CLXdXdncydGtuX3poSGUzaWhOQW1JV2s4M3B0N2tadzc1YW1Vam5adExNeEtqLXRQcEZ4d1hZSWtyck1uVENlT1hmSFRsRTJNRTZNbVAyLWpS?oc=5",
+   "published_utc": "2026-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt lays foundation for Google’s largest data centre in Visakhapatnam",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemQ1bl9pM2NZR0FJVkhoZTV0SVZFMjJ4LWxoNXJOSjNQV0RxR2ZmcHVDVmxVMXpwZUI1MUhhWkNSMFpyTkVZS3hlaVkwdWhzWEhNa2JqRjdRWTVEX2NEUGlscTl3NU1MRXBaSXd3VkpFdjZEV2JrZmg4T3p4eGl5YnFQYzc1OFhTTVh1QjB3TGk0U2JDOGE2U0psTXQ1ZnNYUEZxM1pBQlpVTVFJVzN0SWdrMWxpb2FjMXdBZ3Vn0gHLAUFVX3lxTE1fbVZNdjZjajM5MDNfWG05ZDJYUlRBV29kVW9tMG1ES1ptdTVmbXE1c0dhTS1UaXpXeU1qNXZCMk9mTHUxeUFiWVl4b1Eyc1NqUTdMc0xSalhGenA4TFRDTmhnbjNEbHZtM0JKbGN3UXN3cHQ3UlF4VmtkSDhQcnIxUlBPeUZtX3JIUW1OMTZUVVlUS1E2bnhZb2dOeXJlZWtua0JCajhKRVB1cDAzMF8tVDJFS2lQSVg2djFjX0p6cFU2ekhja2pqaTg4?oc=5",
+   "published_utc": "2026-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Naidu to launch Google AI Data Centre project in Visakhapatnam on April 28",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWXRSaXhZaU9RTGR6ZjNKaFEwaVBST2tkOW5pa3BMNUZDMlJUUWlSZGZBZXQ0TEVXal9uOEZQZkRJeFlYb3hOM0JNT3BmbEtJNDU3cDhQNUlVY2lXT215c1JVeGJ5UWQ1eGUwU0tkV1pmaXY2R2NQeG5iTDNBbzU5Y1dDRmpsYzhxQVczSmUyWVlJbVBHOUt2V3RKNzFIRlNWODFDX285eWRNMUdZSUVMYXdwVnVwZjVTR1hLSjJ6cVloRzRCSXl4OV9XTVp5WWMwQVJGTF8wNGRPV09leEVSMdIB5gFBVV95cUxQZWdLY1REZ2xlWWtxV29vdF9RdkhIcHNFVkxUdzVtRXFvS0dCbnpvbk5JdDFpdzhmXzBhaUpSWHp0Zm5XYWFHSndOQ18zUzl1OHZmU2xnRlk5VGZoYmNLUEs3MEZGV2EtOFEyanlSNGZodVhYc1FWTG1NMGlPeU1RMEV0dXJWYklwQmtVY3VBLVl2MGVKNHNVTm9MUm1aWnpUMTk3VVlPbkM0ZWp3bXJmbEJQSHpVX1lwQXBXYi1Id3o1VEJmNERMTXQ0NjVMMkNZRjVSbGd0OEdVdVI3WThZWVZfOGVKUQ?oc=5",
+   "published_utc": "2026-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt clears power distribution licence to Google Data Centre",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0s2NlE5RVhlcC1ock9kRWtjd1FTVlhUdmVmTmJtU0R5MVlrNWY0X0JfTUJIY3dDWElkTU53WmVzRVkyVHJtV1BvTzJwSXVaWlZscjJoVExndzlaOVBMZVR2Z1A1d19ERFlGc240UDFNVkVLa09GWmJBWHRIcWc3RnFDak8yZE0zTW52UFc2ci16anZ3UVlYdDVHcWJpemhmcUJHU1RtVE0tbmFpa0ZjcF9HZWFmSUotNHF0eWZJblNRYVpkWkIxelN30gHQAUFVX3lxTE9sZ1lRNTVCUFc4Q2pNWlJqQTFweW1sa1VrZkxyR1hDbXM2cWtTMmtONXc0cnNWcTZON0t4M3dPd3gtR3FlTXNrV2E1RFVteU13eEMwTnlPM1dfWnNhbDhtb0RfdWlEQjdxcGdxTDVleVpNeTZpVXdITXZyTXhqZVdXbDh4RGF3XzVuaTkyVHlEUDNiWUNuTk4xQ2JQbVliZy1Vc1BGUENXUkZjUV9VT2oybG1TM3FDX2pGTUYwZjMwR2ZZQ3liNHRmUUs0TU5sbW4?oc=5",
+   "published_utc": "2026-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google Data Centre Sites Approved in Andhra Pradesh",
+   "source_name": "ET Datacenters",
+   "source_domain": "http://datacenters.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3NKbjhtdU1WalNUOTVkdXVzdk9LMGtVVi03WWlBZDVvWFZkcU02bkZhakdkcTlaUzdDV2R0WEtVN2h3NlFjZmtERExIcVhrWDlBVUNVQXlQU1g0TGxOb05YYUp5alpZaFVsUWlLSVdnLTNWbmZuNGZWVG9aanhNdFprSnRkZl8zVnAwaUlOU2pqdmI3Z0VQVEQ5czI4MmRwRm9tcWZWTnlUenJiN2s3LTN0dUpKMVFqV0FQekhaWXpEM2ZXY0Q1ZDBGVFLSAdIBQVVfeXFMTk5rRmU2b3BkMkxKQk9xaHZteTk0aHRMckhCa1dVMFBhMWl0UVh6SldPUUJZTlVBeXMtdERzQjVCRXpTaDdMZHo1MU1BbEd3WXNHUVJuTERGTF9aZUlBREs5ZnFyODdLR2tJem9qTlJPWGtHankyT1V0X0JYV0ZvclFGdjBRZ3hjOHRnS0RtVEZSWEgzMTlrUlhuSl9HMFUtbzhCdU5BTlppWE53YzNwUFozaHhuMlJHb2tsTlJoaE9Uenl4ZndnTFE1LWczVFhuZ2J3?oc=5",
+   "published_utc": "2026-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RMZ Group has announced a $10 billion investment plan to build a large-scale GCC Park and a 1 gigawatt hyperscale data centre cluster in Andhra Pradesh over the next five to six years. The announcement was made jointly by the New Delhi based company",
+   "source_name": "LinkedIn",
+   "source_domain": "https://www.linkedin.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWWRUNFpMN096YUFGNERuSnRkY091MHFlaWYwa2MzQUx1THRmV0ZLRjdzMjg5ZlVWb1IzNGQwM0VtUkJjRmpGNENKVTE0bnlxLU9tMkZfaTJ0VUtIWVFCOTh1ZS14aWphaUgtMzJ4WmpKbWVET2FPeEc3ekQxUUZ4VTVnSDZFSmV1MloybVEyb2czT3ZtRHBaSExnVHBPRW5jdkd2dHRDVG01OE96VHBWNHBId2xDaXJVUXBydzhaRWxUTmRXWEtwSmpNRmk1emFaRWVn?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra to be 1st state to give discom license to pvt firms outside power sector amid data centre boom",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNV9vYmxoTGNDQ2RVVTgwQmczUUpJd3ZVMzNfdjhEOUJPLWFOS2NTQzVfTzVDMTNTOGdZa21ZTm85eWJHWEVhVVJESUNUOWRwdGhTOVBzTmN5M1VpaXo5RVBXbG9vQlVjZTRwZks0bnA5SlppbXNnclQ0S3Rqdlh3dkZHR203Tmc2dnZ3Z0VJVkgtLWUwcTA0YnRLOXVHaFZCN3RGdXpqS0RJYW03X1BJNkxWLUZmTlNsS0w1aWdNZ0lJaDk5OW1Nc1FxQ0NJOGtGNk50VkZmWHN4alFZLVBjRtIB5gFBVV95cUxPclBFcEt1X1ZTZmpuVGFfdmdxLUwxVnAxcG1UNUFYZmhvNGJFWUUzaUFNSXdtcnBEQVFGUnktWXFaVmpWVXd4UTVSZU1vV0syT0dQOVVCNExjUXZ6bWM4N0lrMFZlZGxmclpOU25JRnExMUN0YzJEbFdGSmZxWGZPNk1vVEpDU0pJU01lRHZTaU5ZaGt0MS0zOGNnc05FeXhqYzR5dy16c1FlcGdwdUxfbWc3cUZPeHR5b1d5ZkNzUzlJTFFxSDJUaHhrYmJiYW5FUEtndzFSVXFoTmdfRFpvS0JvbEVJQQ?oc=5",
+   "published_utc": "2026-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government refuses to disclose Google data centre MoU",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2xvS3dXSFEyNXJNUUhUY1liaUVvaWRzdFpzYVl5alJ2ZkVnRDJtUzJ6RnZmVXN2b0gtX0RFSlBGWTdSbm8tUnF0S3pFR0xnQXF1TWZ5TWlxRWljMGtWUzRxaGIzUGh4VDNrenZLa1ZNRDRqbTJBSVZtUU1UeXJRZDFoblVfdjdGZzBoRDJxSnZUcktjQTJiMkt2RWxSYjFpZEQ3N3ZVSldSZzBZaEtoT0d3?oc=5",
+   "published_utc": "2025-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why India is Building a 500MW AI Data Hub in Andhra Pradesh",
+   "source_name": "Data Centre Magazine",
+   "source_domain": "https://datacentremagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXllZEg5N0tOOTFxck43M0V0aGhWUmZRejJLdVZOTzNIUkdHQmZyREs0UlUzRDhIRmFlcllLeGNtYkJOUVVwZ2Vhc1lWNW1GRXNNVDF2c3I0eHZaOW54dUFMTVZLVVU4VmI4cXJ1WmlXUUYzQ3d3dVZVZnY2MERWRWk0d0Qtd0VydWMzeEJoaGRCV3hxS3BpSGpuWQ?oc=5",
+   "published_utc": "2025-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HRF and UFRTI urge Andhra government to disclose Google data centre MoU",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFQ0OHZTQi1lWjNid2dYejZLQzBzWWFvdngyQjR6V2ZyS0Vhdmk2YWZBbW5oTnNtenRxUHRpMWNSQm1lS3FHNGxOdnpuckwzTm9GM0N6YmNLQllBT0RxbmZfVzFmU2dldTZ2Q3B5TzhhT1JKaWl1QXdRRXItSWQ3VXhwdTlNVGZyNXU1dlQtMXNVeWd6bkN4LVNpUVo2RXBkXzlmXzh3?oc=5",
+   "published_utc": "2025-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra government allots 480 acres for Adani-Google AI data centre in Visakhapatnam",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLTU1T3FyUmNicUk3dVV2dk8zdkZDaVpyMUpXQWlacTE1SGFXMUptR3dWU2RpTGN3ZXBNYlliX21CcWowTFRDWFhvTGtIcFF1YVhPOWFLa3ZJUlRHS2lETDNRQm1CblRYRlNJUjU4QThDRU4xVExmZzU2d3RBR0JfVGdicXh1RDE3WGgtZkp5bGlsc2htVFpQTzNvcE03WDgxSXBGbjdmMzc0bjhKU1o3ZklZVHozaGVrZW9TRzRXa21OQjYtMUtCRUNMTkk0WnQ4QTZ6R2N6V19LN3N1YmZrRmdhQ2xUamkzcGxV0gHwAUFVX3lxTE1DeGRnbEkyNFI4WnJ1Y1lyaDlXdEI2NExkaHZFV01fNkZOQXRxQmF4dVRnYWtsRlB6ZUc4SVJxNFNRV2hXMWU5ODlJbFBWb0FJMHVha2xJdHkxalVVVlZOeWR5amV3eUZ2Qjg0LTA0RjRhUUhlaHZPV1A5SXFlUVNaQjFPR3ptRXg4WkJOOEktNUgzNEpfYzFuU0pQc3g5Y3ZDYklRUmtsenFheFNHN1JBeUVtQXhjMmxOQ01ULTZQeVdPM2pTMk9XUlBBNmxWdjYzLTJyOE9WVjlsRlItczVSX0VaVzJTYWJrM2lMWktrUg?oc=5",
+   "published_utc": "2025-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Inside the subsidies for Google’s Vizag data centre amid Andhra-Karnataka spar",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUUhYd3VUWFZGMmo3R09JZlNvWnA1cDN2ZEFKRFgyTGYyRHNST21jTkNwdEhvMU1iTVpkUHJyX0JfV1dZdUpYbFhWV1I3SlR0S0Q0NzBtNXBPUTR0QWsyNEtTRWkxTjcwRW82a05salc2TVlQeDRuTTE5SS10TjJNdTR2amRuTWhUS0JpNWFhNnRxNlFqdDR6SGxBb1Z3Q3VhSm1pNEt3bkhLS0NnVVlwSHU1TlMzSVRnOUZmak0yTdIBzAFBVV95cUxPSS1pcTJYRWhRNDJxVE5iWUxQSElIUUxkZVF6Q01HOTJKQ1oxV2JlVzdKekhxU09qNG5JSEhaS044anNndFFBMHB2c1M3eG0zRGQxQzBfRTRWY1hxdlJsMWZaeW84cGR3UUN1aElxaTRFU29oSERWS2czU2I0MmtzVTUyXzNHWl94MWV3QjhLbkhSMVhUc3lDU0U5cmxqQ1o4NTNzYURRQVlJWGxsdHBYa014WGtPSGNUYVdtaVRpTUF5QWJLYlQ4NkVraEk?oc=5",
+   "published_utc": "2025-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh offers ₹22,002-crore incentive package for Raiden Infotech Data Centre Project",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbUVSaG1hcENHaXhTdlRyOEF1OUsyN2h0SVBWNVBPeEsxWEUxeWY0Zk5YRVRUcmlhUHpuY3F5OEJNbW90cGE1SDRjWmVZVWdKLXZqaUl5MHhMelJvTkxRSHlDQXFTa0J4NHp4RjB3bEtzRHRfNjZ3dTdlek1vLTFYVE1JQ0dXQ1hmSlJvbGFMdW5LUV9CN0RKTG1JZXBvUTlncDAyZGx5MDZqalVodVZ4VWR5Nzl4VE1EQ3FuYllQTUNPeGhyYUVKNjQ4Z2ZvcEk4QThKb2NDUEQwLWY2bGVNTEhiQ3l5MG54a2wwTTFnRDlGSnNvaGFj0gH-AUFVX3lxTE5yZlRXVnJzX3BSNGNqRjdrNlNLSWlOQmZhZllTVHltZnlWLXdCN3pINUpMb0JScFRTblN0VWRDU0N2NnFmY0xDZS0xdktvd1M3MDVQcU1YS0ZxbW9RUEdOWUlBZGNjNkRSVnVzS1FrVnRwUFVjU0EyZ0dmeHUxdFIxMk8yUl9hN1AxS3VJSGpVREo0TFJTbnVnalhCMXhKUUZDQTZOZjVkX0hLVTYtY2cwLVF4ajRuMnhxa0NTVE5nS2dJdWVEQWVQT1FKaXBial84cUNQYzJReVoxNGxEd3Z3T1JrZ1d3eG92ckViclJKQm1sc29FMFRCWDM2eWVB?oc=5",
+   "published_utc": "2025-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to invest $6 billion in southern India data centre, sources say",
+   "source_name": "Reuters",
+   "source_domain": "https://www.reuters.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjBIZUtCcXd2N1VncjQ0M1Q2YVJsanFubG1LNHREWkxWb1hNQ1dyUTcxNlNPMlhkekFlZktVa1UwMFBuT0Q4Rk52ZEVuR1E5SGgyUmF3ZzNOclpaZVBURWpRQ2JLU0lXLWNBcWVDUVNDQ3V4UmtJNGlPWmp3aHlXUXpreVBjZzVtc0hjcS00MUI0dkRSMVFZWGJEbXN6U1E5ZlVwTDFDVmJOdDVXR2JRLUZtUk1vZ1V5MEp0ZHZOcHlrc0QwUlhZbEJlTFVWSnU2SnF4aQ?oc=5",
+   "published_utc": "2025-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google, Meta, Amazon: India’s data centre boom confronts a water challenge",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FU2paWlhsSWhTNzNQY0xsSWxpdFVwcTlVa0hLbnl4dHVmY3M3a09Zek1ZUGZhcng1LWNQbThHVVhIbXp5WktDU2hOU1hZMC1nSktpNEFHSWdqQQ?oc=5",
+   "published_utc": "2025-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CPM seeks clarity from Andhra Pradesh govt over Data Centre",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzZhNVdvQUlnRUdJMlNxT1p2RUhkdVVxXzZXbjU5aVRjUGNGaWpVQldBMDNNSjgzSVRLWENjUXg4Q0hjYjJpM1FlYlZvdjRCa21SNGZSM1NxT0ZtTUVEZVFuNF9TcWMweDVQb0dtbFpoM2k0bkE0X2pJb0NicUJaZUQtNm0zQ0Y0TmhQV0g4N3lNX0R6Nlc0UnBCVWJ2OTQ0clZpMDA4aFNzUzE3b3BCVUFrc3FKUTNmdG9fQjFiMW9seTlj0gHSAUFVX3lxTFBXVThydDAzQWZmdndhMXBhTzlTbXNjUTRscEJ4Y185cF9CMThXeEh6Rzlfay1kcldzM3V2LTYybnp6SF85MENBSU9JYlU2SVZWSEFFWlJmOW1XYTFVd3ZxV1BnVXVQNWNrcTg4UlI1Y3ZJVXI1WHRkSGE5T1dsRkFWNzFQTWtDb3p0bWdKYWNnQjg4VFVfRHdxYi1KdGFmbGxQc29tbFlkZ0V0MEtXbDJMbUJQRmw0TzhQWDJiOGd6T3Z6cml1VzB4SFdzMy1UanRaZw?oc=5",
+   "published_utc": "2025-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: How Google's $15-billion Andhra bet and proposed data centre policy could fire up India's real...",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjFEYmZ6ZEs4VXFwa0o5bWZ2aVZnSjFUYk5rVHlwcU5Bc1JwaDd2QXNDMGdabHAtTzdqU25IdU4zOVd3N3YwZGt6MXRvNDAxbXpNVW4xTTV3OVZ3QllZQTlUWHFZMUM3eTRtMjdqM3hQTmZHbW5oS21kNU9aVGlsYUZjZWZJbXl5OTNvckF3T19VLUxrM2dsM3lzcDFjNUxjR191aXR0WklqaXFZU2lTU3RJWHMwS0s0bTlCbUhEWm9QWUZhVGxzOFhRNWRkOFgxR0lrbWo2TGVCd2I5a3BDUVpUODNBVi1UM0FVZVZvYS1Gc1dtNmd6dThoaWVWVmhoUzV4enE4S3MxMkVTckFqRzJB0gGXAkFVX3lxTE16N3NUYUtDV3lzNVVJblo4S1lGcUpRNlN3ZUVCb3JDeTBUZVRSMjdqcjZxUFU5RXphcm80dmwzZDV0ckJyNEpfbUtWaWI5b2NDTmZTTG1keWxCc2VyblVQbXF6aGpHem1rVXZhZWFEa1RTcE1QdUdRY1RpbUE1SmhQWVgwNkdoR3cxS1h3NjhjTFA5d1JKdVY2TUZwckVmVl81Qzl5MkVRNVlYSl95MGxqVWhFRnMzeDc4bE0xanVPcEEyQmZ3SHk1eDdvZ0tDTFQ5STBBaXVxczY5SG5YbDNncS1GSFJIdmhsRkRCbmFaQTYwb29Ec1JrTUxkSlMxeXhHQnFvQWNmdU93ZW1LLUZZYnRRLURfcw?oc=5",
+   "published_utc": "2025-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra govt to pay Rs 2.55 lakh more per acre for Google data centre land acquisition",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnVzVWVTbThVY0VkZzVLYndkX0wwOWpMUmd1dTl5bDd1QlByYnFpelU3bmQ4aDZhZW5TSzJkZHNabzg4RUNLM1NLdENLZ2hsUzhnbW90bTc4Vjk2ZGQtUTBiQ1R0cnRETUNVcTl5NHhoSVhfUDBwdVdUSWZUU29NY1ZlZVRidEUwUjNOc20yTGFPbFprZml0VHN1TDNzZlNGQ18wRVE5WWdLODU4Q0pBT2hoZGJtNFJDXzloYl83NENwWGVOS1Vrei1uOEZPb2RyTTg0bXJzbDY1NDlSLVh0R0JzQl9jd9IB8wFBVV95cUxNZjgyMDlCYVhrckhxVnFRQ2xUZVpVRjN6SWVVNDBxTlNrNWZTUzdJS2QzVEs0M2JhMmoyYTV1N1BsV1VhR2hVZGE5VFhfZS02QWkyRU1ZSkxoeXhWcW45VWJWQXVMYURtdjV5T1dPNHpVLTZ3UFZJcmZTQVhscHpDYjVlZUFXTGozQ25Sc2xabnhGRl9YT2MxVFQ4blNZZFNuV2lVTThrNDZTcWxzYUZxZml2bE9nMFQ5TGtkdXdOcUJfMng0T1M3SHp2S0Vrd1MxWE9zTklZdWJlWXNEZ1BWb3pCblJXYTBwVlJZcWtjM0JWU0k?oc=5",
+   "published_utc": "2025-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google inks MoU with Andhra government to establish AI Data Centre in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3g4Nm11SFNSbnk5Qmp5MGNfdFIzUjZNTnVHUjNiaVFfVm5rV1VuMnFrM1hWZmlXSnhZdnlZeFBabl9xZGdsUUthdUV6N0REdzFSMkN0TGxLeGZnQWFXVVIwR01JejhYYWljbE9hRlFLd0hHaTBUaUI2cHkxLWVYekZiLU5CeTVLb3dxRTJ6UUFpU2g2S3NfR2Z6QUZ2MmhwUks3QmJTMzVLcTA4anFaVjJFbml4M2s2SF9VelVrQ2RjeTFGazJhWGY5LUhXTkNrZzNNYVdnbWVmQdIB5wFBVV95cUxNd1NtX3d6OVVLcllhU0luSWxVc1Q1b2NRSldiLU9EdlRJUmw4TXhoYXRwUEwtV3R5ZVFlOWU1QmZDMGJnc3A1UXhfM25LZUEyQ2JMY1dFS1o5TUZ1Sy04NndfZW4tWWMyTXQ4OTJPVHBaY1pjTjZiVDhGMVcxRHVQZlcxYVpZc0JkRklOV1NKaU5nc1E5Uk5FMXpCaV9lUGQxQlZ5Sk0zZmpsMmhJZGJZNG1MR3NaZkRiMFlmZzhNMVV6Yjk1a0NQQmNtTFpWYVY1aEZNUG9xbTYwd1dSeGNfVmQ4cHdmNVU?oc=5",
+   "published_utc": "2024-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Sets Up Data Centre Advisory Council to Target 6,000 MW Capacity by 2030",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXRraTJlVGlkb1h6TndWd2kzSUZwRTBQeFY1STNnd0U2NWJUbjRBMnR4UzU5bnVTbXpySllLbXFtT1hPTlh0WE44TldCSWZKUnY2aHowd2FDenU5aUNiUmxGeTg5OWpPd3JNdHhCN1dERlBCdUxaczBpdFp2ekVoUFA3MFpzQlFfVHl0YzJ3NnJESGtaX2VKZ0ZkcWcyNm4wMUswblBpcng0ZWE0aXFV?oc=5",
+   "published_utc": "2025-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-10-01 before:2023-11-01",
+ "items": []
+}

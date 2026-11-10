@@ -1,0 +1,21 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh government to commence AI course in schools",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjBTcmFuNnh3RlBmWXBjWjRkendkWTdZVTVqaUs5WEkySmlGNmotYkxMWXlJcm5tYk1oTWpIX2hfRjBwZDI1MnZjSGpBVW5aM2k1NmtuTWUycXVTWGRrOXpSY0dpLVVQVFZDUG1Va0s0dWdfczJ1RGZYOXJDMFRrVWd1aF9Qdkw3bzNTZ0YwTQ?oc=5",
+   "published_utc": "2022-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital India is driving the tech adoption in power sector ecosystem: Pradhuman Singh Tomar, power minister,..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWTdXeDNQWDdVUkVua1FVNEZfQXM0VXFtN2ZPbWNmemN6UWRZTTlsUXU2Nkd3aVlpd1lZSXl2ZjRCaVI4dEZyMVNzdDZRWEdpbUpBWGpXaE95T3p5ZDl5aTlnQ2lwQWpMWnIyRC13OGdNT211eHUtRzBUWXdMa3hjT2R5WVBmVkI3dVo4RHVkZmRFOVZxcEIzakd5eXZUZE5DUFNiZEdOX3paVjg3SThCVExUOVU5LTJkbjlWc0J4SUNtQ2hUR05wdXhJOTZVTUFLSGFUYV9ON0toNldQZkR3anE1eUFMS01fZEp4ang3MEdzSmRkRXZJQnM0U1JnTV9oUDRrei16R3VQQXpvY2pMdElVMElPQ08wZmxnbXpSdUZQdEtrdnRyeE5aZ9IBpgJBVV95cUxPWk8zRW1WZDNVYnE3S0dJZ3RBYXR1eWhIVnA4N3k5ZUFQQlBxZEVrSGs3cmF4eHl6VXByMDAxaXJpaUs3eFhxemFTYUF4SkJla2MySGowY2oySFo2VzF6ZGd2MmlTVTYtV2phbGNYZ21BelpDaF9RMzNWRVVJaTlpYjZrZFhhUUFCbmUzY3RWMVFtbHBOYnFEWVVSYzlQTTZ4YzNPS21OOVl5SVFLRW02YmNpWFNlb3l3LTllbjhwUm8zejExUUVwUFhaNFRWcnlhNGczTEhRbGlGUXVzWVFwRUZJdWl2N1NIS1pJdUI5SlhPWjI3UklXc2h2NV9jNm9UQWNvSDdITXo2bVotVlRMY0pnVDRQbG5ibDBXaVhPYS1Jd0h6V0E?oc=5",
+   "published_utc": "2022-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

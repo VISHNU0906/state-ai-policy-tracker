@@ -1,0 +1,21 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-10-01 before:2024-11-01",
+ "items": [
+  {
+   "title": "‘We need support, not discrimination from Centre’: Minister Sridhar Babu on Telangana’s AI potential",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPemRHRlZ4S0Jib04tN3NnSkZITTNTRi1tdUtRQ1RxdmlDX2UydWpaTUFERWJJZVNzWmtmeDd3N2NTZnI2V2xyOWRBUVhLcFJQSW9aT2NiYXlsclh6VzdBSWhuQ2N6RjRZRDJqSTBVQldWeGZGcnByWDYwc1pTYnpBUEM1WlF2d09BOC01YTlJNHFxNG1qczlOV1FaUTUtbnNWZUs5WTliLUNBWUpJdUlnOWo1dzU1OFh2dVBZcTQxVmNqbGRJbEZNUGZwbV9PQzhBUGc2SGR5bw?oc=5",
+   "published_utc": "2024-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian data should remain in India’s data centres: Akash Ambani",
+   "source_name": "The Siasat Daily",
+   "source_domain": "https://www.siasat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnd5aS1qQ053Sk9wcnZua2VKZDd5eFlZZG9VZXl3LUV4S0paWHExUXJoZ3JRV0ptSUFFZ2g3RFFQRkhiYlNPSDAxbHlPMG1TcklpQ0VlOGpJVl9nNDNyN190VWYtcHRSY2F4UXIzSTVJeXpHZVZQODV2dnhZdmpGR2lqV2c1a210RlJOYVRwajlRWmRqV21BMNIBngFBVV95cUxPMDZNUDRHMm80a1RPVWJ2S1hXQXZoOTlyNDQ5UmJtOVI1dktpUTBWTW8tRFVuRlNPd2F3YTBfeVBOSGl2WjFmQi0tdkpKYi1reERaUGdXTGV2bWRYN2hVaUtlN3pWdjczWnJZZ0J4bTllZVJmd3V4YlVMaERNa1ZyQmR5a3BDYlhoNzAwZ3BuRVZhMTRoeUpDUkwwWVhlUQ?oc=5",
+   "published_utc": "2024-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Tamil Nadu becomes 26th state to align with Centre's telecom RoW rules",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcl9FbmVqMXBpT1RSS3R4TkdLWXhaOENmSDE2N0hYUW5Sb3FwSTYwT2lkQm1ZZThzTWt3NzN5a0lteWNDRktmUUxpODA1MlBUckQ3al9rVmhQUC1FOTN0Vm44Nk5MZU9QS0xlaGNYb283UVRYcHlENjdmcm9qNHRjWF84a1pzLUo5NXVsQnowQ0Z4eDBGdmswTGlTb0IzV2h5SVE4a01ET0JvQ3JtRFI1Q3hHR3FHNS1mbWNuODlBSlpnTFh1cUZZ0gHMAUFVX3lxTFBaS3hRblpRTlhJZkh6SHNWOV9vMWhtejZLRG5nbUUxSlBtekhBQktiUnNXSEh1d3R6RHlOc1hyRU93aU4wb0tUbjJfZXVWMlFJdEVVbkNFcWktZHY1eUxXWVRRSzZpd280Q2kwQkhEUmdRa2NNY2JKT2JKZXlsZTFObWFza1hKLS1EVDV6dmJPTTQ0SGdBYkdQLWNyVkp0Z2F5TXJTLTdWRVQ5TWo0OWFOMnpGZFhaS21zc0g4aU5vbDlpVU52czJBNzFfbw?oc=5",
+   "published_utc": "2022-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu has right to go ahead with Hogenakkal project, says Minister",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEZxaHpCQXNLakc2ZTdPT0tKTl84VkIyR0VERkZqSThfWTZzREtlQjRZUFlDQ3JqUGtNaHR3NWpHN21RTXRlV2pUbnJoZHNiRnd5ak83MjVzb0ZsczIxZXBscHpUOHZWa2RHTS1oMENnSTQ3bC0zMWFkdEFBLVEzaFpMX0RYNE1DOUt5d2FrbzNtWHItRW1BUmFKS2tOc0F6OWdOWks5UGxhcEnSAbABQVVfeXFMT092WFc5WkJETER0TnVkN1FyaXNKd1FRakNsQ3dpNVVrN0VhUzFndUJ1VFBYYUxjQnAxcGZFZi1OZTFkOTN6MHNGeGs0WnpHUzA1NEVjSEhQb2FQa2trS21YRWJsUGpCWUQ3aU55UWRDZUhkS2VmZEZmc2pnZzc3YjFORENteUdydU1CejF1MTE1LUFOV0gyNE43WlRHVUxSa0FrdUVaZExwU3AwODByNFY?oc=5",
+   "published_utc": "2022-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN government announces crop loan waiver for farmers of Salem, Namakkal districts",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVdwY0ZZck9qdDAwNGFieVltZWNKMHR5UjJOMks5Yk5jOTJmazNFcmlCNEhWQWUxS2hkcGF0M2xBU2F0MV9zZkx3bWE4S0NIRGtmc3dRRWxxdFlvQXBwRmJOdmRvZ3JZLVMtaVJwVEc2U3VkcENKdjl2NEk0cklOLXVlVjdWMUxSTUFsalBCR2VCdjdlMGJQNDlFLVZGSUFaMGFEMGF4Nk5RSGx5U2tRUHFPOHRwOTlDQUt5RmVrZjh1VTMxbWF5SUpVWXppZ0h2QW9SR1JVZ0FBVC1FTlV3aEpXR2lONGpaejhV0gH4AUFVX3lxTE5jYWEyX3Y2SU5qaFJnUWdOckM4cVdmVzgyZWdHQ0N1d2dUZldrUjlCaEMxVE9UaGJrczItdnhvd1l4b29UamJiQjdTVFR0c1FoRF9SRVg3bVYwWUthc0JlN0diQ1FtelFOMThxTGVBQWhVZlptZjF4NmpjSFcwZ0lLeTNLY1BnNnp2M1QtU01DYW1Lei12aXBraG1Sa3BBaWFGYmkwRjJPMmRheHk0RXhWQXlJNEUxcWVHWU5KWTdpcllXZ2N6Ym1lRzVBLUMyYjlJV1Q2TjUybWM5Qm9QSzRhQnN2Q3lONTYzRmtMbTVDR2VYaENWelgz?oc=5",
+   "published_utc": "2022-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Emerald lingam worth Rs 500 crore found in Tamil Nadu man's bank locker",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWk0YWlYcDlVNHNwYkcyczM5UVN1Z1NBOWRSZkFCSnlnM2d5MEJRVG5uc19fTXBwaWlVcnZaVFQwSFZPblVPeHUxZDBFNllWR2lmZkNuYVhjUVYyMzZXcmh1Vm5wVnVWY0laTDlYUk03enAxOVZBZXBLQ3RXX18telpEeEx6cTFyaDZ1OGZpWFBrSTFwMV9ERHVnb05wOUlnZVkxR1VsZUxiVnIwU3hhamdaNWFpV1ZBcnEySlg2MnfSAcYBQVVfeXFMTjhxNXVlQ20zblVqUUNtcTI2M2ZmNkg1bWV3X0VkbnFYS3FYWUtfbi0tQjFLUHFlYU90THpJUVJTbS0xVUpuUzJOZnhsRktQUkhNTGVFUm1sQnNRM3VfNWd0QjFxVnV3ZjRHTVRQQWE2LTl2MUJSdG1KSDFYTVNFdUZLem1iVkV3V2F1QllIXzVOQlJVV2RLaFI2c0JfWXRTLUJtNk9LRFZPQnJvbnl3TW1RVE1kYnpSTW05TURDU0lwUVU2RFR3?oc=5",
+   "published_utc": "2022-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN to set up more Public Charging Stations as EVs gain popularity",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTk5qUE5UdkxuVFdGbGN3M0pMMFJXQ3VBak1DRkdfZHIwb2Jvbk93OGVzZEhKcldseEpOTUFZamZJUUYxdkpERVdGUzlGOG56M2RyY3ppWWtvc1JEVjA1c2wwcEJrdkVMOFduMDNxaExPNnVGeVdJVzR0MVpiLUVOaHF2c1ZsU1ZhekRmSmE0ekJSaWZkbUFXT2NUbFlnM1RxM0F1dFdxSG56Q3lpWk1hZHF3R0pSaF9zc3BnZXF1RXdfSUpCa3RQMUdhNzloSmM5ZklQTjRhblJMM0Vpell6OURMeGnSAd8BQVVfeXFMUFQwQVg1NFplWG1YUGtTOU9UWDhrQ0RtWVlTR3QxZ3dQNzM4VWxNMTkyNUFfN3doU1plLS1xQUJNcEZNWXBzU0VYQ21JLTBpT2F3SjJCMVVYdV8zaUpoY2swYzhXVUtqbW9EanBBVGw5bmp5bURhS2tFSWlVRENiSkVsbXV5bnhtc1hOclhfRkItRGx1ZnV4MTdndmE5eV9RUTI5b1VWdUtHVk5HVm9PT1IwWXp3THBpNGhiWUZOVVZQeTdCcjdXSjczUjIzeC0tNklmX0YtZ2xKc0RBdmVPOA?oc=5",
+   "published_utc": "2022-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu police seize 20 tonnes of smuggled red sanders worth Rs 10 crore",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3lBR2RWUnhGUmJhclhsUjhuTjRKckN1emFwc0pESVQxTlNXZWpfbkQ3UzFCMnZFR0F5TWdIVWM5c0lNSk9Vajh4Qk4wV3o3VjM3elFSOVhDVmlkaXlrMkNxdENHSEFVQm1CbEpkYXNyZU9BbWt3REp6Rk5wRG9PVUUxUUthcHdJQUZCV3piVDc1LVpldUszQ2p4YmxScDRSY0RiSkp3SHBpeHBNVDcyaExPYWdJeTFLbGtpOUdLX0VlOFlEOFRaRUcyU07SAdIBQVVfeXFMTlVTQnVMUS1wSW1YRVBqbzEwOGlPWE1yVktGSlB6Njgxb3FGRkt0Qy1KZXZCUnM5RVFyelUtUWVzek0zOWRuTjRWbGxOektneng1a1BlQnQzcFNwMElJS0pnMkJMVlctQXRKMFNMMFkzNzd1elJhWWlaTzdoSFpVbFlNQ3FSUU5kOTJUc2pLYUF2MHZ1eXFuQTBKdGF1eG1LUnhWS2Mzbm5kNnlLUkVtaGx5QjA5MUpNTWhHc1F6alVCeTRtdXRSRUt1aDd3TUlSa2RR?oc=5",
+   "published_utc": "2022-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

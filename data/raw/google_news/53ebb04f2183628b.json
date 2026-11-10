@@ -1,0 +1,85 @@
+{
+ "query": "\"Bihar\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "Alok Raj appointed as new DGP of Bihar",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRnNiajJUVE1peHFiLVdsTVh2NnhQREVQM3VQVjdMQ3JQQ2ZvSTJjanNqcVNDVl9tdFpSMmpOZnBJcmtNN2pVU3pWVjk4R0ZKTGcxU3ptanB5Q1NqM3Bkbk1oMUZGQWNDeDFIeTk5b3pkRlNVQUlYNzVDQ0Z2OFR6Z05n?oc=5",
+   "published_utc": "2024-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The 'superfood' taking over fields in northern India",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiemZyWThrUjhFb2JnRFZWam9QMmg3ZDdaTDAzR2dMVGpkc3U1VGFPUjNHbElDYTJHU0g1ZHZCR0lVZlQtNGlYMnhSN0V2MkhNWXFFbVluODZnQQ?oc=5",
+   "published_utc": "2024-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Police Seize Rare Radioactive Material Worth Rs 850 Crore, Three Arrested",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXl4bDU0Wk84VjVvQnhjQzlYaEJNZG1YQUR6UWhaZTQwNEwteURfZ3NFZFdjVHlUVklqd0taRmtMTDlsai1XNkY3TW9DSFVZbjVoZU10MExrZlZ1QjJXMWdUZmtPSlgtRkozTjdIbGxmMTBnM3RUb2V0UWU0d0FqVjFpUXl5LXI0MkpjSUpMQUtSVk4wQ3k1SEVkeHplRUNLb3RRR0RyZ3I2T0ZyNjZXM3lR0gG6AUFVX3lxTE5mekRrX3lBdG5GUGY0ZkJLZVlMMUJxUFNMakdROWZUVlI0THFQSTYxQk0xMFFEemp0VkRwcjk1T0tpX1BYTGdEZVBzN1p4bE04SmU1ZThuS0lFWHNIaDduV1Q4OWdWaWNCWVNyQlo4MjBrQUNaNElZS1R0VEJvS2Q0d3VuUG54dWpLdVZBVmFHZi12dEZpbldsVmFTS2x6M3lrOGEyQnB4ZGVUQ1lCUjVuaGIzRmFsZHpvUQ?oc=5",
+   "published_utc": "2024-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State approves purchase policy to boost local units",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLTl6UjF5NnpOb1Vqazl6bnluRnJxWVFQeXZrbnJnWjFNOHZaS0dNR3NOOE9sS0xxVERTdU53TjhmaUg3N3Z2b2xOSHVpYy1pTHhsSTItSHNuZVFITW51djhrN1YyQXRnaGN5WGs5MWw5NHQ5NEx3T3dBbkk2MFA0Tnd4MkZjNUhQenlIRjV6RWpqSGc4eHE0WkFKQ1NiRXhpVFAwMGN5Y0VGYW1ZVHZhRlZTUkdZUElGUC1TUHRkTEFRSlViZDdCWjREZDZXZ9IB0wFBVV95cUxNUlByLVQzN1lvU2hISS1uSzR6V2N0WWxmT25oLWE5TFZueWw5QldGV3k2elQ3YVg1d1NYU1hUWWlFLS04RzIyeFprTklTNEtmNVhMSlo5QjdXa0E0UF80by1WTkN5cndZWFpQYUVXdVpDckFYSXdMN01VQXdYVC1tU1M5QjBaWG11NlQ5QzRKTFZEazVhbGJNLVRySnVzV2EyMjh4VGxpZmRQa0RtR1NneWF5NmswbVJpd3p3OUFHZUR3Q0FGLVpkeVEyWTE5TDF4T0ZF?oc=5",
+   "published_utc": "2024-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gulf money brings in prosperity and education to Bihar's Siwan and Gopalgunj",
+   "source_name": "Awaz The Voice",
+   "source_domain": "https://www.awazthevoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1JTODNnMUF0bUhYR3BhQnhDZ3h3V2hPOGtKRzR5WktIZlNIanlYVHZHd3M4aVFUS3VaQkxUVXBBNk83VTh1LTU4NHJyWW9IclV2MzlDMDhlNllYUUhDelNzcElNaUZIOTQ4WmF3ZmJWVFZUcGZRREp6UVRhNmRlc3AzMkQ2UWNCS1hJekczQWFxSEVCVVdsS21nSnVJZ2ZadFBTaTNpaE8tS2tZNG5mYmE2Qy1rY2M5djNoWDlHMmR6czFr?oc=5",
+   "published_utc": "2024-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bharat Bandh: Mob in India’s Bihar tries to set on fire school bus carrying children. Shocking video",
+   "source_name": "WION",
+   "source_domain": "https://www.wionews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbEk0NWhRTzFybk9nVnNZWHhDU2tsT2c0U1RUQnI1ckJNbk5ndWEzMGQ1SXZLbThRSFM2Qk54Z2hJU2Nqcmo2blhFRjJTM3p1X0FFQk9iQ3VXb00wRG43eG11NHJJelkxbnAyZzhFLVVDdXpUUFZLMUZWX1V6UERNXzRqZlI1bWMtcGhTRUlNOWlrTkZpRjJ2bEkzTktPN0VvLTVKOVg0U0ZWTHNmMHRJSlNfWExEQ0E2bnhWb3A3OGxsREpOQmtlMlNESTgzZWVKSktfckdrT29XSmpHdFRLedIB5gFBVV95cUxOWEVuVGc2UjlJTUlJbUhCYURaZ0YtblVIOFVhQjE1a2VybmV3YVM4Z1JxVWZ6LTRvaTU2Z3pXWHA4MVhfcE9zVzlJSlpqaXE0VjVjbmFOSHF0UEY2d0xjWFY3X2JjalczQW5WNE1sSnBqNkYxcWFQYk04aFlxQ0dLYmoyV1dtTGUySmZkYks3bDkxRGwwbXBKOTFCaHp2R1E1SnZRQWlCalZ1Y3dESGZVcFVmNkRINXc1UVVSN1JSZkJSdWZsQWp1ckxlRVdvSUV0WkdNM0tzM2dyWHZoNVQ5a2NNNHRIdw?oc=5",
+   "published_utc": "2024-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar's nilgai blues: Antelope havoc on crops but farmers avoid killing due to fear of 'paap'",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQzVwSmxzcTVXV2lrd3ZhTEZZSHprTXpjTHA3cWNGb21lb0E4WVNTSHBHOERQbVBMcW12Z2RRRXVnUW5oSFktWFg3UnNMNjZvME5DekRKNW9hQ0xveDVDNHRqaFN5UGp6clJpVUNUS2xlRmxqdzVsS0NjdlVEOFpyYVBIVVZvbmh5bjVSckl0ZlJIb1JUc19EQUdENVBPclU0UHNwNGtaU0tLMEFjZ2VPOXd2MHhtYUhBQXNvZE5rM1d3RjdPRDlfdDZoQktSUDg3YkdB0gHYAUFVX3lxTE9wdmE4dEJyNk1EMER4bTBfRGZ3TkxvV3dhbHhHM2tYNEd2NkFvcFJtYWp6bnQwVTc2cFZPbVVWTVFGVGVyZFFKSVNKUnViRlRuY3dGcTJxbGRuMzgyZE82M3dSVF8wZTlxVkxybFd2OXNsUWhFV2hBSTFnMGwtRW50Z0xpaDN6R3lyUWsyQzZ6ejZIVmdoY1gtWnc2NDhBQjRwbG01cF9YQWpTYmVObmYzV1kxZ1R6VlRYSy13eEpGWW93M1dTUjllTVdrZzgxZlAwdFFBSGN6MQ?oc=5",
+   "published_utc": "2024-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man With Burn Injuries Treated In Bihar Hospital Under Torchlight",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3pmRWo3bEJ5aC12ajBESFN1cXkyYWR2NHJsOUxHWktpRlc5bG9ZVnprbmlMRmVOaVdNVVBVdEh3M0tfMFB4VUl1aE85aWxkd1ZxdUpUdmwzbFV1ZWFMSGt6ZHo1UUhlbVRGaExPTlBpeWhNS21sYUtFOUVUTFkwUlVMZWczcHJyek41WlJsV2VFakJ6ZjI1d3o4T2s1azVicWZzdzlIclbSAbABQVVfeXFMT3k2bVRiNFhGMnBMTXJYMFhvMzlJSE5xWVJrb2pKeWZsYVl6b2xCelJ2eGl6VXBWeTVFSlNzQlpmSGUtcW5LUmJRNW05MjZoanBfTjBBVXVfZU5PVVNQR2Y5eEYwSnVYbllzNUdWVHRtenVqZmJNOU44TXVjQ2FRZ3ZEVHVoU2dJQU5Mc0FwaUEwekVqcXJKTFM4V01fTFpWT1FTU0dab2tpS0VaSFg4a0M?oc=5",
+   "published_utc": "2024-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet Bihar Teacher Who Has Taken Internet By Storm With Her Unique Teaching Style",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnV5WVNRY0xMSXk0MWtBSG9QVEN1SzN2OTZFb21pa1QxRkpuR281QmlmRlNvWHhISThMRWp3WndLYjFDSnY3UllCSXBoUnZnVkdrdVB1YXp2SjNVSWVOYnlULXlKa1dLQ1lGTEs5dXNpYkxaSmV0QjQ3bXZNWm5fcXEybTUzMHZzTFVJR3FFMHBCNGo1Tnk0RTA5dnRuekMwMEU0U2JqY2dTbjF4R0lLZXlxYW9haUJXU0YxY9IBxAFBVV95cUxORTVmdC1ncWd3T2l5a094RmxxRmZUZ2lJMjl6Q0tDMDdRUTh0N0hqeFJVNWxoSHFYUHlVZVZZbTBZOEwybTI5RGFDQU9RVHlWUEtCcHpuTjNINVA0clctWVI0bUN3MkJqYXJTZW1BMjZGUHV6eXJGTHY5cGc0OTJaUHBDVGh2elpIcnNUWjhBSjJFbGc5OUlIZTB4NjNrSTZCcEFpaVJGU2dfUWdCZ3VCX2RobHNFU01TSTdiMk9ZbXpZTTJu?oc=5",
+   "published_utc": "2024-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP, Bihar need bigger allocations",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXhSN3FVRENaa2gzRUc1cnVodU41UnVsM2hQdGlnOE1EUzQ3dE1YYTdFZWZjMERtX3lhdlgtd3BLNDBWZ0F5ZU5GWEF3ME5FT0kxT1FCUE1ub25vMmJWN1RjRWx6ekhfaXR5RGhuc2JzbmVqeXlWLW1Jc1FzUnVTQ3publBSTmN3aFHSAZABQVVfeXFMT0tCamk2N2plU05PS3NfWHVJZ3VadDVwbF9sSGFwcWxwMnVZYUtCZkRkdmxpdHBsUEU5V0lWX3ZMeHFUUFJqaTQzU3hxUlJ6YkxFQmNPZlN3OGQ2WnVMMXVkWlA5bElGWkVVMk1sb0hWVnpwWXZFcnNMMVNKX01kUFpFZDU4VXhrTmtRbHNiZTVu?oc=5",
+   "published_utc": "2024-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

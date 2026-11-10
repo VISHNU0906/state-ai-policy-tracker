@@ -1,0 +1,29 @@
+{
+ "query": "\"Kerala\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Kerala to deploy AI camera surveillance to reduce road accidents",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeXkyRk5YblNMUE9uTUxzV1ozd2IyMUxVaUZXWkhKX2hWRDZXclhwcVM3Y1Zoa01tOV8teWJSNVJ6QkxtdmNOUDFJdG1KRHNFMU1sb2dqbHdXNHY0RTh3MVRJU3NCaE1MMVdzNUdJRmFQcEZRWjdqZUFyOWdiTGZHZGZzcVpBdmxXY2pLLXJLZHNJSWVLZjRj?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maya | 24x7 WhatsApp Chatbot | Tourism Helpline",
+   "source_name": "Kerala Tourism",
+   "source_domain": "https://www.keralatourism.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0RSRThqV294ZzNnb2E3OFk0RXBOM3loX0c0ZFo2ZjRPOEtBVzFleVpOZWVDTzhJZzQ4LUxmNmtlODR1bDhRN3JDMl9PYWdRLUhsel9wdkxkYXhoZEM4eEt6RUFYVFU3MktKcU5nWWlwWFVBT0hkam9aWXZ2dkhHMU8zblBnRHdY?oc=5",
+   "published_utc": "2022-04-14T01:45:43+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "At 88% of bad loans, Kerala coop bank rivals PMC Bank",
+   "source_name": "bfsi.economictimes.indiatimes.com",
+   "source_domain": "https://bfsi.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTVZWDhfOEVTTmZrVURXU2pzOTVvSWk4bHVCcy1YM1JkM3dMS3ZSZmdPU052Tl9kb053Y0NVc3JBZ01vSEZ3Z3NlbjdOdXJpWmZwMDBKNUxVSmJiRHJRVDZYNjVfTzd6dnFNdk55eUFkdFFjR2dUSklVNjdfM0ExOGFPQ3lxVjUtM3RXa1dtcGMzMVpjbk85ODFpT0ZNcTR2TXFJQWJIOGNab1VyckVCSzRUNWFHQdIBuwFBVV95cUxPRjNzc2R2ZmZCLWtIMkt2eWx3UTFUNHdVYm9YS1FPQ09KT2RtRy1QVmk3TWxkR1Y4S0dMSmYzVzFXMXY0Rm9hVGtNUzFCZ0U3TU9ZZDN0X3dTYTdFdjQxcnZLdFlNM2V5N2tEdWlqbWluQmpfcm1HNkMtandHRzc3S051eHlka3pyVDNodGNaQklrRUI3cmJhbW5RaW5mRFNhTXozeHhIOXBWSTRwcVVYXzRGRGtlbmY0aWtz?oc=5",
+   "published_utc": "2022-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

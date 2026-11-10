@@ -1,0 +1,37 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Deepfake ads with celebrities raise red flags, Govt says risky",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUE2NjFnM1RJQktuWDBoaHBEU3dmOHExQ2g0eWJROVQ4YmZDU2pUdWIyU2pGcmhfNklEb1JualIwRGwzQm4tTF85cHhpRTdTbmJkeGthM0VET2NEMnRIUURVdWk3UTh6em1WLVNUMXFDZ2lpNWNiQmh4SkNMWWx0a1NVbEVNbFNrdDBHMXJNaHVJWDQ5SGFsbTRwdnFYSXFMdk5XRl9WYXBsWWduUy1CQXBGa3JrNFNpYl9ySl9xWWRVM1pBWlA1S9IBzwFBVV95cUxNX3k0U3JsVEJ4SWVjMGYtSUdITmJTcHpDSzlkbXJLSVRCQmdQZ1ZKN1dqdFlmR29mckxQYTNyaFppN0lSR2VpMThqTHUyWlM1ZDlyd3NfVk5yM1ZHY0NZa3FNb3NMWlduQ2V0YWZ1MzA1NHVBa3pkZk5mUmQ3QlZyZGdYRVB3TEFsR204VGFzRzZfdmtFaUFsV2VFNXA4MVhXVFVBUkM5SVV4RHZFYXo3ZnQ1VXJLRDFXX2tEcnFXTVl0eG9DYl9rczkyOFRPMjQ?oc=5",
+   "published_utc": "2023-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Recently Saw A Video...\": PM Raises Concern Over Deepfakes",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMjZNRVkzLWtCaHRGcFJFMV9Ud0JQeUdqOUw0VHdXcHVxMEdlRHdKYTQ3VDd4Nk5GekVlU1JTZlNONHZYRkdDUzltZXAwWTZ3Ykx6NW41LUlvOXlleDlXOEx3bjRfcUZHdks2RXBicEJwNG9FQ0xJd3IwaS1BdkFxM0Z4Z2p6a0FnT2FSVXBqZGNsc2Vnc3lwTUUyNDNkSG9aVVNBUnFlS2ZlQ2dCaGhVT3A3RHNJYWZNM0dKUnBLMEU5UUUyOEg1WnF6dGpEUi1kU0pRZmd30gHeAUFVX3lxTE5NOTc0eXVFOURJaE9tN0tMRmtJU0wxYUwwUkhjb185TXQtSnY3Ti1IQUdFREwtNkhzMFgySkU2RmpXbDhyWWM2OE5zWEpTX3prdTM3WGM1Q2wwamVwYXhtQ21JMmtzMmwzTjlwekxqTmItc1Y4a2lxamVBYmplcXA2dU03N3M3MVhlQnFNZmlBVW5tRWlBNnBKYi1WTFczQUlpMnJnWDZpWjFmWFE0MUlHVjZBZXI3WUJzMy1uTTlHdDlaZ00tZnFleXh5UnVaTTV4NVl0cVdkdlFzR2ZQZw?oc=5",
+   "published_utc": "2023-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rashmika Mandanna deepfake: 3 years jail, Rs 1 lakh fine, govt sends rule reminder to social media platforms",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOU3hyOFZWVVVDbEdMZGgyTW5rbmllTlp4VkVQVG9TVTlZc0dCaHpMTnQtTEtZeDduZHBvMTA1VGcwSGswbk9PSmlkX1dLd3NZTnBhOFpIZnVCa3diVnJfbVEzSmZZcG1SUUFycUFzblhZQjBidHB1N3JwN2VWVElHWnFvcEhaVGw3Q0k1ODJyMGZvT2JiaXo3VlBUZWU2eWRJN3pKbGlBaExvaE9TYV9MaHQ3RzRNU2hfMkRUcW85TGUzWExjMmlYUGZOYmFiUDB2ZGRoQk1HMlRydFNseXozNVlPTjlxV1lsalltNkVPNXp5bl9zS3UzblBuVUpZWVZBX1HSAYcCQVVfeXFMTVdZNU1VZnZNTy1CNlNRcUI3Y3FDRjUxZURHVTRWaWZPN1IyU1dWVnhld1IyZ2Z3bzYyUGRhU3V0N0pUcnJSdmVXWFRkV2FtZFdUZW0yRWdMSXN4cndCbGNYeVp4TmZ2dnZCQ3NhU0lQemE0cFZ1aklSeXJEVTNfeGc5MkdlTTBNTjE5VG9lcWJUX1pjekNWWGlPX3NWS1F4SXphWEUwYXFld0ZzR3QxczA1UC1TaENfQWhrYTlWbWVrdnhEWmJDelhPSW9sTW4tbk4waXFJUERmLXFobHFvSFdfWTNfUHFxbG13UjNpeTQ0ejc0MXlwRHpLcng5VjJoTEVTQzlGdkk?oc=5",
+   "published_utc": "2023-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Rashmika Mandanna, deepfake images of Katrina Kaif, Sara Tendulkar hit internet",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF9aaWxWa3BUbGx6VjlJUHJuQ0g4R2VqYlhIcW81Qi02eE5QT3FsYzc4MDdCRnBKZVBsblB6UXp3VHc2eVlGaWJ2aE5Fakg1WHVLLWdTTTBMLWdSaHpTdVdUU2hWa1U0QnVKU2pUWnJYWEpOUWZQOW04Y2d1WVFQWmxGaS1DM2lQaVNFc0N1cGU1c3NMQnVOUXFTeFlMLUdhWDNQbUhSaE9uZU1zODVQaFJXTDF1NWQycDcyZg?oc=5",
+   "published_utc": "2023-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

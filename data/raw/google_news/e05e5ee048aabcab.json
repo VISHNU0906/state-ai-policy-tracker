@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "4000 startups engaged in emerging technologies - IoT, robotics, AI, analytics with govt support: Centre",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ0taYXBORG1sRVBSdHZIbExMeDd5QWVxa3Vza3JmTHJlaTYyRDFDV3VjNklxQkV5clpZcUNzX05EanllSlhUNXBrS2s4Zl9wV0xudXpIZUtqQWtDMV8tU1Y1SzI3RDBWZTU4eVgzMm9rc0E4TUhGYUlHUjExcDVFM2lBME1Sak1td3FraTJ3ZVE1Y3hsaWttVm0yNWhsbmVrT2dNUzVCOEtYT1lvTHdFXzJJc0RGOWdmTDFZOGtLR1oweGJiUko2dkcyNFJZejZkd1VEU3NzVlZzeEVOQUEyeDFyTzNjajVMRTI4SThHOFJya0RIQWNuakVVQ2lmc0huOHBjem1FVm9lRHhtZlV5RNIBlgJBVV95cUxNcDVOOHFQRnVWZTBUTWhkODBTUjF4b3pUTURaWDN4eUlvbVVtVUNXSEpQMUMtZFpJZk1NY29HRDVWeEJ0akltR09SZHl0ZTNQUXBjNHI1T3R5Q0g2RVh0d2ZQb1FaeGRqOTJsS0lhenhrdF9mbnc1amdjTFRwZ0ppZkRFVmpUVzRrRW1lSW1IQXhsdzFORjNWYVNBYi1lelZKVERvYl9YazdoTDNRbkQyUFFUS2Zsb1lsYkhPdFNkZWdtR056Y3Fya3VuTV9faTdJcmVzbzQ2VFVXNkZXTTNfRjZwYmVMNU50aVlhZXBMRUxETFd3bDROUTBKQ2RRaDZEMFg0bmFWdk95WHpRd0xwbW03bXVGZw?oc=5",
+   "published_utc": "2023-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: The Lavani dancers fighting for their daughters' future",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NaTF6cGZsLU1qY012cEF6TVdMT0thR3VPWVduUWpxR3NQcFdpV1dyTVVFQkxZZ2pYamFVWEtQT2lpUzJCNU9OaHBPTDFqdngzYVZTVEVFdzl6WGo4aWxtY0hlTQ?oc=5",
+   "published_utc": "2023-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet nod for cow service commission to implement beef ban law",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZC1wc0dDbDZKUkZNV2dneU1lR3RjWnc2UndWSXEzV20zMC1sYlBiUkhWMzJFemktbnJ0QTF5QUQybjhYdWkteWp1NHN6UWFidkRFbm03NHNBZmRmeXlJZE5nWFBKNk1kcVZQLWlPQTZhalYwTHBHOGtYTERTU0dHQWs4UFFjQlE5WThoZklNUzRJY1hRV3hIbG00Nm1GMzZ4YS1DNGhXVlo3ZXhOU0VyMlZDWHlLUWRDZndFSjhhWmJ2SW9BU0ppdTQtRnRhd0Rma01v0gHYAUFVX3lxTE5IWmk2emdmRHZRX09id0VDaG5MdXNKTWZRZExQRFp1TTBGS1hZekpfMUpyTzdUNjYwVlB2SjhqdWlNaTZWYWdqRzJ6MnRXN0haX3FEdWtWTlQ1NVVzMDcwOEVDWi16YjBKaGdSTlVfVDFyaGo5M3RIUmRNWjNKT1RxVERWamtrZEVFZGRQOHl1WjZMeFoyQ2hESk96eW1ySTNGNUk4ZS10NGtBQ0c3bEJibUc2aHpHUkxFbi16eHZGeDFFV2pydU9zMGJMZlBaekJYMFpDQ2NEag?oc=5",
+   "published_utc": "2023-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Attack on Sandeep Deshpande: MNS leader urges Maharashtra govt to withdraw his security",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmVUN2VFeFdUemRsRDcyNjl0UGlTWnZTbnFfX2hzTmpYamhmTXdmOHF4NzNUVC1mc0VIalYyaE94ZGZGZWtjTnJxci1pTDRBaUdTYVBsZ1ZvNFBHR0paSExZSEtES3N6SUMtNDNLWjJWR2hLZ1o3Tzk0T0pvbzBzS3NhSDNiREtyV3c5QUZXNkdtOHllc2RYclBvTEJoZmZraTBvMGlRWWsxSjFDQVhuUk1wV1lGQmxfcGJkQjVfbXV0aXVWeExoSDVyODNnOURHWkcw0gHaAUFVX3lxTE05cmwtTGkwWUltRzlaTjlTXzBEZmRuOFcxMkFnMEp4NXZ2Z2NjRjR6Z2JsUThfNnVFUFVXd0RhamlXVG9yY280cGh5U2VrcF9CU281RUc4QUMteUhpbi1YTDF3bU10dTNLVXpnZVFXZC04Q04yVDZFdHo0M1FmVGlnX3ZRX0dlX3haaVAxSlFfa2Y4Smd4VWgzZjdBdndNZmJ2M19jbFo4SHpaUmMzdWxPc0hLUTViRW9Qb1dtMzJ1MEN6U1RWNjJmQWY4eGhHeVNSRDB1Q2Q1bTd3?oc=5",
+   "published_utc": "2023-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Old pension scheme: Maharashtra government employees end strike",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWczWHpRbl9tcXRSa1NoNTVTWjdrMHlMOEVoaWs5a0hFUE41MmQ2bUo2TU5sWlpacXNaZG1lVk1NZnJfUUNMRXYwYmQ0b09ZTEN2eFh0MWhxVWwxMS1GSkZzQlRxOUZNbzFydTQ2bndrRlJHMzhiUXcteDBHNU4yanBoYklrYXJ1T21jc05vSzB5LU01UGhLTGkycFJWeWFEZktqT1lQaERrUWZxczZYdHplWXB0RnNQWk9MWGd3bDUzbTRT0gHKAUFVX3lxTE10M1RzdHNKajBMUEYzQmUyRFVIOXJPRWsycDNrY2w4cC1RcFdKYjAwaGhPTkpMTEU5TjhxZmxsOGs1ejU3M0FERVFoby04OUZQajdVZ2Y1VUxwb2JpMmZ6V0gwUkJfdXJWUHZZVDlHMmR3QWEwUUxPVkhfUDNPNDdhVEJHQ1VvVGtiVjEyejhGRmhxeUlZcmpZWUpUdmF6dFVKVjRLc3U3RG9WQ19BR1hKbTVLU3F2dFJLNFFvc1RDU3YtMVc1S0w4RGc?oc=5",
+   "published_utc": "2023-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MVA govt's 'handpicked' IPS officers get new posts in Maharashtra",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRTh6WFZiMUxxTVJFVVVWbG5NMW1TX2tHSk52LThDd3dhWDkyMlVjZTNndTlYMGNPTHdSakZneWo3XzFzSkRSaXZ0SXlrMG5FQk9QOS1Hd2Naa1RDemc5U3BBMzV5QUh2QUhmaGhZMm5pUC1BZUFHejJvM3NjZ1MwUEI4ZWNyWERmSkwxYldMYXJGV09zUU9UTVVndGtLc2VIcEltd3k4VWExNXRWdEI0MnU5a2hVeGNEcUFCa3hPS3BlY2VzVWo2Sk1VNHRqNi1J0gHWAUFVX3lxTE9fOTQzeEk4NER5SFdnN05iRkl1TkJyNXVWdHY1d1VYbFVQWHI1dUI0WHRRaXVHeGNudXA2YXprVmRRdmlEZVVKLVI2UHNocTMyZjhSektwX1pDRkpUOVJZdTlxZEMtSDZkOEthZGJWdDA0WmVpTjhfb1R2VklLSF9JSmF3WmUtT3VTYm1LbHF5ZEM2Rk9hcXN5Z0xQRlZkbTNMR29xVXY2QnVTbXlJenI5T0lxUmdQbWRWaTYyeFAtTlVLM2pWRkNGZ1NjRnhraWZjd20wMUE?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI powered Robots and monitoring systems to save lives on India’s beaches",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTWlMRUdqN0Z3bFlBRTBzUmYyTjg1LWlOdVM0dG5ORUFlYnAxcmhfdUE4Vk1weEVWbllzUUlGY0tPTnRBOU1RcDYyemxTRmo5Mkd1VjJzVE1DZk03d1BPRHpsV25sbEk1N3pXejVfb0ZEMHhQbUFuVnc2M3Nob3ljUlVkMHlaQnRZMVY2QkdMcEQ5QU9YTmlVa2ZvVDJLSEZSM1V0bm04X2R0dHV6NHB6SEVubXozZnNkY1FfRlRPa0NTZlhNWUNwN2dCbnlNN2R3N183U1NPQUZIeGtMaFHSAeIBQVVfeXFMTXhUS2M2Y2V3UklFeldQYlhCRU5pUEFvd3dmYzZSdVc3U1I1VmwzemtrVUlzYXRUSFpkQzJXM2FIYm02MzB1em9IbjVtSUNmbnVIUmpFOVQ5a0txd3d3ZWlSeHdHaVJ2dXVXZi15TTZKUmliVWNhRWlhVEN0QnlLbE9VTGZIQWVvTENUeVpRdHpoS1dhSENMbERZaWJMdGRZWlhSdlo1WkxQNE9LVVJkTS1ldWg0Y0FpTGJ0c1gxVXY4V0VUWFlHM2hMUlFvZVAwMi1vUlRlTDJPOEVnRjRMQi1Qdw?oc=5",
+   "published_utc": "2023-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Using AI algorithms, CBDT completes 35000 cases out of 68000 taxpayers selected for e-verification",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdDBqNE90eXlENzhSZTlDc1Nmei16YkVTT0c3SjBma29yUjRzRlBVWWZVQmw1d2liR1JoY1VOZDhRQlFLRnlQRzcyT3NnYm5mTWZad19FSzJMVlcxRm5mZUltOEp6bVhzTjd1NWJkc2tzNHlRc2xkVmVwTXhyQjdqY0RFQTk1QzZBMVU3QWhjeXI4NnlqcFVIcWllWTk2X3Vyem1vNzdVY2RGakxtajBsLV9hOXBnV2VYSFRQM0R3SlJ3N0plMUkzaTVSWTJLZFNIMjRnLWZLWEdLWkJXRGNQWUp1YmFaSFlXbkJWTkFFa3VHQ2FhZzNBVnBRNy00U2_SAYMCQVVfeXFMT3hsWm9zemotVlUtYm1YTWRfTVZNREw0TFJ1NmQtS1JuTTJ4d3Bsb1g4TjFmUUdPR2xmMnNUa1ZmNEstY3RKTEpIUXRBODJOdDB3Y1NJUEdYQVN5S19YeVRvcVN3VGpDMmFrZ2ZJWFpuUHBxMGtIVlIzcWZBV1UxY3lITk5Pb3ZGUDlmR1BDZHVfUk9wRUh1SzlubDY4SjJDNUV2Y3BkTktfU1luTHJ3RFctMXJ1RHFEa3N2eDhDc05VTXlkdmZ1TWdkOHFvVnN2UVdCOW5lc1B4ZllHeUpNYWNlUnJpT0VlcXUyVEktUGJXazhMS0duRU1Rem9zbW5vN3pNRQ?oc=5",
+   "published_utc": "2023-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SIBC signs MoU in sustainable infra, defence manufacturing with Maha govt",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWFppQVhDRF91X0NYdHFDdWVuUW9OcEJCdDhsSzdkV2ppdTJ3WDhrT0dhX1o1UGV6Z1pMVnhtNFpZRHVYdmU4SE1lelczOTdNVGNqREx2NHlvemlNR19Ya2ctZXpCdHVhcVBrV1g1dll0LVBFN281cXZzLTE3am94WHpCYmVtdGt2VTctOWZjTWVnUzZRT0ZoUWRuRXpIa1dZd2N5OHlGZXlmUDB6eDE0MWFBRkg4aGItd2hxYjlpQm9MVG1jQTBEZk50Q1Y4Ym5uaG1BbE5oMkYzeHZTUDFQZ3ZUX1TSAegBQVVfeXFMTlAyaFIwd2RLaC1pWUpSbWJZM0x2Vnc2aEdOeW04dTE4dGk1TWx5bVdzd1c0Q082b1YxWkRiQWVVUVBXYzFGblpmVmFRV043Ri1DNnRkaUFaazRiRmJpd3ExQWM4bzROWjl0X0pKZTdoTkxUbjhPXzlYX1M4YjBPTXliWHh5ejZEUUJpV0dCSklQczIwdXRuelFUb3FLa0x0dURacWVKdUZSTFRvQm1PUEFPeXA3dWJiUlFQR0x2ekY1VFFILWtVVU5INE9fSl9qd3pzN0pzbV9JbUhPVXRMTGlUQnp2WENMUA?oc=5",
+   "published_utc": "2023-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt decides to develop Navi Mumbai Integrated Industrial Township as new IT hub",
+   "source_name": "Lokmat Times",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORHZWb2JkRVFqaUd4R0g2QVhjNjliZlkyRzNLRFFqX2IySVNDcXFUclZZVWFrVVhqcDEzbWVzUTJuWFJ0eTJidnBzRzVBejQ5OGFDX3Nnd3FuejB0QmR1aFpUVThOSXJ2N2ZVWld5MnBQaHRjNElTeC1FcEMwN1laWndrNm05Z3NQVXJhVkdsZjVHR2h6dm5fU0dpU0VRLW95YW52NFk2ZDNodFk1M05qS3JQbWtOMFpQVzRKNWhaSmdFVUZm0gHKAUFVX3lxTE1Oc2F2TVZnclhKUnZCTFFUUkRoTmZxY00zNGZfLXpkUlFyNmpvUGN6RWFYWnZaRmsyS2x6d20wQmpZRDNfRThNay1HV0Q3VUNUTHVaY2JRWTNWUUc2b1FiQVBnRFZqRFZhTjNnb1NNQ01XMVR1RUVHdURSbFFqVXFjUFhHcHJiRFJjM2NGRmNnUHhoTWFCNTQ3Z1FjSkRjdWRYUlpwNTRNOEFnN1FmUEFUYXBEZkpfY3g0UWoxdzdLYW5KZFBmcXNmOGc?oc=5",
+   "published_utc": "2023-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

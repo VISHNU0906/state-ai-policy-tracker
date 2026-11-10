@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "IIT Madras RBG Labs partners with Odisha Govt to implement Data-Driven Interventions to Improve Road Safety",
+   "source_name": "Indian Institute of Technology Madras",
+   "source_domain": "https://www.iitm.ac.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlRiWnZ3a1NDMkdPbkRtRWdPNGlzdXFXT2tPeG51ZUd4TFNkb0lYc183RVRVa2QwVGlwOGlEUzF6dURORUNpbUVlc2xhQkhrclZoQWhiVGU3Q0g4SjVTVU5jaHoxYlRLNy1pQ1FpRWZ2QmRJaUZhVXZibVBMb0VWaXVRZW9EaUhmOWJwaTI0b0FqN19GS3E0WW9DTTVoMXVwQzRsUUMwVDZUV2swTFF3aXhfRTNsTkJQemc?oc=5",
+   "published_utc": "2024-12-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt seeks reports on aid provided to bonded labourers, from collectors",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY1ZGWXlDdVpwMjdub3d3NmdFMUFWT2gteXZKdGdxM2JHc3FlQ0d0VlVBVlRTZXdFREVmdWREMUx1NlNSLWwzVm9heGhKVFpYYkQzREZsX3NaOWhYd1JrM3c1M2pkeDhIdmhPd1NSTS1vY0hTZ3FXby0xajVxb1JMZGVUb2YtZndKTGhRdm1FV29qRTVpMnQ0cDl1SHZic2NTQ1ZGd19pUUhjY1REejlQcmx1Z292NUpmMFA4V3JNaUNXRFUtSWRvdm9sUEZYeldpZFpjSnRyNFkxM0HSAeIBQVVfeXFMTWlQc1JlNHlJRW1pUTlSdXBzQmxlSjc1WjNWSUgzbXJsRzRvb0tycDg1RG9LSHR3aFlDeE1ySWNGLUlUcGZHOHp4S24wWjctUVlPdFNLamVHQnlOWE9SNkRyZkVDei1SNERtbWNiSnh5a3NQUUI4bXNVdVJTWmhnc1NfWWwzM0ZMb0E2T2lLZGE1OURIb2VDb0ZOX0ppdmlmQWpuM2Z0Wl9WQWtTcXNnMkpvVEtEMlpWLWhJMlR1VWR6d2s5a2N1dkgxdlNtS3JnWnFIWF9fUmo0TmdUVW9jcnlKQQ?oc=5",
+   "published_utc": "2024-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "11,710 Children In Odisha Suffering From Severe Acute Malnutrition: Government",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWS1ybVl2WkNtZjBDSGk4ZXZoZk1zdHI2dU56YW1GSTR3UFlMZzBid3JBUzQzUFo5T2hicVB1NTY5UDNJX09WdWtwVXhIUnpPREV0c21fRmJWTEc4ZHMwRDgzX0JjRjdmWUFMUThZaEkxdm1FOXZaVVFzQjA5V1FSdWliZm9UR2czcEd4RGJjeTRNVE9EdEVybUs5WC0wT2xCZkVOZkNUUGprTV9heHhMMtIBuAFBVV95cUxOVUR1NkpkMkc5bkxKRFc3VVNkeXNWT0dOX3pZZEV5VzlyWWNVU2pqTDhNcnpiMk1tZkJ1dzUwU2NmYmtldXFHbnFIdjZOZHVhWEQ1M2pESDBqUk1YcmFhcmNkaTR3ZWdobVgyV09rdFVQVENEQVNidlpVWXV4MGpNVDBXSGthY3NzRHFWd2NJcW1sY0ZLakxSYWlRdVlyVTdNZmlSRjZYNlNBN3JNYUFQWm9qZkZWd3I2?oc=5",
+   "published_utc": "2024-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha government plans education in Santali language from KG to PG: CM Majhi",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMkp6T0JHZGN4eW1zaXVoS0RTMEVYQkxMNVNJWW9zTHVkZnc1ZlYtSHJLbDJLeWNsdFFHT01NUzFGMWlpZ2RMV1JSbjBkZVZGZGQ5bVpEQ1BQZG1RR1FOaDIzRU1nbXRmblVnSkkzNDVCMkdrWm1PQzhkbUlqdFU2YVllRjBWVEhRd3NYN0R3eWJtcFBzdzhfRk1scVpnQzRBejB0U1FmY3VIak0zQUlOTlFhODY4T2NaSGlsY0tlMW9JTk9NNHBxQ1FXYWxfTVNmNHRqMHdyMmxoMXM4cElYMWJn0gHnAUFVX3lxTE1iNzZNWXE1YkkwLVNnck1aNm5yQmRFYmotdm45d2hCd1dJTU5aV3dmRmR2ZEFVbVphRjBqVjFZeGt5eDZKaW9rT0U0azZ5b0Rrcjc4M0lVeUFNeXh6aHR1S240X2gyalBJQlBxZUY5NWF1Wi1yZ1JGeV9CbUMzRkZSM2xjU2NMdlpUbUEzU0ZIcU8xUnFEWnlkTlY1dVd5VEg0MDhUNDFfaThOcTJ6ZFBKa0JXUUNIMHhiZXUxWFFtTGdDUVQyMUxsT0RrNFlacWdQWk41X2xwYi1ZSEJqVGhrMnZXSEF5dw?oc=5",
+   "published_utc": "2024-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Redefining Odisha’s Future: A Conversation with Minister Suryabanshi Suraj",
+   "source_name": "My City Links",
+   "source_domain": "https://www.mycitylinks.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2ZlNkRQU3ItUnJaX1V2VHc5VnZMeU41SjlJLVZrci1KMUVOSHRZWTN5WDhJcnQ4a2w4UWo0NXVtVDQ4Rld4Rkd3c2pWTlJVS28xNW43eW55eWRVSjc3S0NkUW9UVXlxUWJnWmRxQWQ0Z09XakpBVTMyLVE1emgxTkU1WnczS2s3Q09vNTdIWkxIMFVIZVQxTEJSTmZOWjhybEE?oc=5",
+   "published_utc": "2024-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Majhi launches Rs 800 input subsidy for farmers, slams BJD over unfulfilled promises",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZGFOaFZxdUlYaEIwam9sMGdWejF4WUpSNFpBOXR0d0tPa0I1YnhCOUN2TTdvaE9hMmF4OWhoRTVVSFBuaHRGSG1EcmxvM1ZWRVIwUkdxMEpxOUE5X2tzbnlzQXFXVHZmc2h2Zzg0bkZJWVN5c1RyTmYtb0s2aUVLRTBtMThibVpEMW5tS1RxRGhZRFJXZkQwVnpGN1pRbkhzU0pjWFgtZXJVb2JzYUFDUVl6ZERZT3haYmUteGFvQWxvNWtNYXJHcFd6d2MtMW9LUm9QQkd1d2dTME1ndGVfOEtTa2NmcmfSAfQBQVVfeXFMT2tsWmRrVU1Sd21ra09PNnNqelNmWG9MOVdvSkFPVFhwTFd2dVRIVmZxck1iZGlCR3gyRS1NMktpakZfVi1pUlFIZjVXOV9iMnV2aHNqdDRONFRzcmUwU244RlJEbENzSU45ak5OQ1dRNy1UamtmdHFYYThBLTlZVDdCNV9LVmlsVkM1RlMzajFaMjFtUzcweEVsd2tfOXVlU0s4b18zRVdmQlBoY0V6ZlFob2FhSGhqanFYb00tTWhRS2VyREJsaE56VzRJdm5HcC15Q3VyaG1kN0xad2RrcDB0b210YjZRSDY4WEZMYVZTZERwOQ?oc=5",
+   "published_utc": "2024-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Smart India Hackathon 2024 Concludes with Innovative Solutions",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83a3haZ0ljdEtKaWlUV0k1OVg4NC0taFRtZ01IQjF1T3dQSzBRR3h5bk1rNjBaa2U2MUg0Slh1YlJqTXJFakQ1N3hmOC12cVdwN2FzV2NVSFRlRl9PVmx0bWlDdFZGRFRB?oc=5",
+   "published_utc": "2024-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt. Assigns New Postings to 3 IAS Officers; IAS Manoj Kumar Sahoo Made Special Secy. to CM",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY3FyN29iZHR2VzZ0SFBNRXJJeWtkLTc5ekRDZE52SWlEdkhfanJpaGZaSGJ3dTZFYWxjOGMtcFBGeHlFcVJkR0pWUjBUbTZLLTY4dW9QMUdmaExsUjR0eExQckVONDVpLUdRVmh6OFNiQjctU3RFWmp2YjU1Zl9zcWVyRkhjN0FPd2dSUVZOc0tld0NtSGplSU9EclhBMU1UeFV2QXppSkl0ZlhKd19QcDVFLXYyLTNnQnl6cHA4YTBhTkN3MUh3OElZZ3hCZw?oc=5",
+   "published_utc": "2024-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt initiates renaming of migrant Bengali villages in Malkangiri",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakE3bGJLT3hDRDZOTHhvWHNLWl9yRFBZT1VqZTJWdEZ2OWJsSl95aFdDa2xybGJLQ0hnenFhdVhZTkstZkVONjV5MDdPWG1xeWtqMWJ0cEhxcUF4cWljazg4bkJvX3F6SDVCLUlUZW9Wc1RsR1JOQzQtOGFaenNWN3RpVGtHZ1lCNjAxa0JkeGU4TXlWZ0MxVzVUd2tTY2xNTW1uMjRlMENURWJTRnBoQlE3dDN4Q1RaU2w00gHAAUFVX3lxTE9qRlRJSjZRRmtNTkt2c3p1RHd3MzVxdVdtVEFDa2xlRGdsY0hkR1d1aEV3azFoSDg3R1JzRXBDZVpYTjBhaWxYWEo0UmFjS0x5WGxvblg3eV9ZOHhKUGYtU3NocHA2Rk91b1hRSzZOeWxfb3NxVF90QWk1RzBnYWFMaVlvWU1mS1R5cDNIemw0RjZ0dThEWlF6NlFKeUdBbWxoSmRIZXlqLW00djZxSnVqa0RWS1BPWGRUMEVSaXBVSw?oc=5",
+   "published_utc": "2024-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Snakebites, Natural Disasters Claimed 10,300 Lives in Odisha In 3 Years: Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1VTMEhWekRkYV95cXYzbXFzREtmOUhCSzhGM1VBczJJdVVIN2lzZVdYT05UNWlWY29VellwSGZ1ZzNjS25sZXZ3dDlFOEhFblZONzJSbzZqTXlfR0pXV0pWZUJJM1ZoZjA3aXBpVjg2cGducU5OWWV4MGhFME9sQjZOa1pOTWwxN0RsN2t4NEtfR29tQ1BpRHJOUk5oeVNWbEtJZDZBdDJfdV9FLVBTRdIBuAFBVV95cUxOQnFETXVoblhGalN1N2ZpQ3IxcExubmdGYllabGtqWFJqSkFXU2daUWRaazJGUWlhbGUtMVhoV3VMQUtKOGN6bm9LMkFmQlVSYUlVLXEwTlczd21weWpCVGJBbEJMR1FuMFhKcDJnQ19KMG1DVG9JQUIySjhVeVVfamw5ZGJQNTVsc0E2YXpmM3NOLVBHdEVQUG92X2dHcTkzdUVETHNBbThJczAyZ3lLakM5R040U0VD?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh Gives Rs 196.6 Crore To 78,641 Students For Buying Laptops",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejNBZ2Q3SDhvVWMyTWxMZ2NtRFFOUGN0MDlUN1MyQTdkZHlWWXNKR2FrWVpPRWkxZnotYXdZcjFITmxEdWM4NTRVTGhPZUF3Nk40cmJHbWh0ZXV2NUhtZjNFeUdzNGtIY1F6cjFEdGdBRnpNOXA2N2VuaE40a0h6Q2hwc1lxOGM2TGw0Slc2UzY4ZzFvaFY0bUdjblJxRDE4Y0M4bzBsVFZXTzczUVhfTHJrTdIBuwFBVV95cUxQdmRwRGZ4YkktSlFFbE5pczhzUTZVYlZsZG8tRThXbWFpc0hqdHlaSW5aMWk2VTlBVWJHRGhKaWVLYmcycnpKMC1EMEFFSGFrWXBnaURoc0Vfc000WG94eFB4eTB1eHcwcXlPUjhRemstRUN3MF9CZWdoSzNoSmxkRmlQbkY3Ny1LaC13dzJOQmZSRVNrR2hoQ1BUbjVjZjVQN3hnSGhrMW95ZUtMNHZfSjlDSl9CNE9vQllN?oc=5",
+   "published_utc": "2023-07-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Ujjain’s Mahakal Lok is using AI, facial recognition to manage temple’s crowds & ensure security",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHQyblRDQlBXNjFXNXo5SjZMaU1RUksxQmlFRTBKSXplVUs4YktmSVZGNnpnMUc0dF8weWNwRFhJVlk5Q0V2MGJSb1BKV2p4VlRKN2dwMHN0T1dQNkQwRVlVUFhpM0RZWS1BWHlib3lOYTA4U3hILUxvdl8zVkx4MVFGa05fc3k0TlhWWV9wX3daR0VnSVEyV2lHTk1ubVRQV2Q2YXFiVmV0cWFGVmxFSGhkTEFUWm5NSjUxRl96aWFyNzhNdmh4V09n0gHPAUFVX3lxTE9VeG91SFFpNHZyTS1kTWFoeEsyaFRadDBSOVVMSHhKdHY0UjU2Z0ZPNzVpSnFSSDdGb0xBZDJrRzBBWjVhMDFOOGNFbmRtTVpuNndzbWZpTjVJSlVjNEc4S1VNc0RBTHI1MXRpQ29hUnBXRk5XVmUwT0pldWdmbHI0M2hWOUZGWW5JLWVxRThkbl92aFktdTVfcUpxTEV2dWt6alZmS2hfN3l6Z29OQ3JVWGhibV9Mb3g0S3lxY2w2T00yaTdtRUxBZXVFOUFVYw?oc=5",
+   "published_utc": "2023-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

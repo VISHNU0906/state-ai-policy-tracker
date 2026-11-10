@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "“AI has transformed policing in Kerala”",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUNaaGo3SlFZRFpDNEZETWRNVDhGcmR5YW1TbGR0YWFrQWRENzVncjdmMXY0eEx5M2N5eWYta2VqWWVrTTNyOGdzbUh5RTB5YzdMMVROeTc0WmFKY1BGZXBlWE5MaGE5a3gzOUktVGNSMVdrTXB0REJFN0lQVDFsUjVwYURvc01kYWJnT3VaZEkzSFYzWklWRGw2aFdOQVNMbmxGT2p30gGsAUFVX3lxTE1ZNEFObW4wQkxBRzh6SVZOY1lhSnNPc0F6M3ZTMmt1aVE0YmtWZ2RFSDNUaDY3Q09IZE1ZVVhqenk2c1NQd0JCLWZQZ2VMNHh0emRYX1RFTWI3MGYybXkxakozODFHakU5ZHc2V1dmOHdKd2R5NkNlWVBFWFQ3OVQ5dzVmVXh0OEVpSVh1MmJYcEJuMW9xNDM1bFFpOThsbXBmcTJfUjBmbVoxNEg?oc=5",
+   "published_utc": "2024-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NURA plans Kerala foray to launch AI-driven health screening centre in Calicut",
+   "source_name": "BioSpectrum India",
+   "source_domain": "https://www.biospectrumindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ3JYQXFzMno3enNTak1xSUc4LWRpUHNmemdiUzZQMnU3RzN4R3pBcHZ0YW9LWVd4SGNaaHZteTRGR09RUzZIcXNkX1lJTDJNODhvYUVyYXBVM1V4RHBzVkNwYVI4aTdVY2N2QVRoZlVONy0zdmtPRE1LWkdkN3VLTFFuZWQ3dUtFeDdUZ3VxRmlJS2d4ZWpEUkFEMHY5OVBjZmRXQmw4VG5CU3RaMjZUN213OFM4bWRfQi1KNk1iRGE3bUw4dS1yV3VB?oc=5",
+   "published_utc": "2024-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala police to seek AI cameras in state highways to curb road accidents",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXlwSFZmMjFzY1AwbEt0VndwaFhMRVNMV0FMaXhIeDdOeHpHeUltVU9JbHpfcGVpMHNpVEJtZmRYN0Jsc21MQkw2ZXRwNy0wZ0I3MTBqUndJeGZHSjU5blVPdy1TRE1qSFNwZTNUZHM1MjVZM09YazhiWHhLU3prNnduTGZ3Y3lLZWtqUkYtelUxWjhKbTBMOUdXOUtHQ1otNkt6RXdUT19uUFpmc3RaZGJVZklvRnFQa0RrVDhkUnkxMU8tZ1ZfaHJNNF_SAdoBQVVfeXFMUHBUdEg2d3pHYjFzQ3k0NGRzdmYyMXpTTXhaTUc0NHN1MzFPaGNrYWIxTFExamNoTnFUamNoLUR4WU9sV25INHZFalFQc2x6NE9wZ0k4bHZzOFJvODlUdTBpaTFleUNuN0psOXdxdDVnOThlN3BpZzBiYnlPd2dTNjJpMnBnaGQ1T3Z3c1F4WDhzaVloei1mZWlaeU14RW9YcEZTZlFLQTJSeEpWdEs4aFRtNW9HcUlVWkNmaDZRZHZ5MVlOSUgtSjBvRlJYWk9NSTVKUDBCNWJucUE?oc=5",
+   "published_utc": "2024-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NURA to launch AI-driven health screening centre in Calicut",
+   "source_name": "Express Healthcare",
+   "source_domain": "https://www.expresshealthcare.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjdjZ0pIOEx1S0pQVWVlMnNiN04zRTlRamVTeXkzWjQ3VjhtZ2hfT0NGWkdLR2RoNk9GN1YycjM1YTVvUTdJcy10dGJXT2VqZnRJeG1aOHc5QzY2UWR4Qm9ldlNXdXBJTEs0RFlnZktSemVCbDlobWk2X1dLUFl3M2FkWFA5UlplelRZWjlRcDJUcWdYc2JzSlVwWmRWNXd1VEZpMlAzSUo?oc=5",
+   "published_utc": "2024-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala’s fight against antimicrobial resistance: A success story with challenges ahead",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFBZOFV1QU5acXFaQ0otdUh4QmxPblByLW9wWEYxazQ2dVlCMndPMDlnZmktUnR1bWZ0cWZWT0U4UDlJSEJfYjU3ckJKeGMzajlDZmlLRmtWWDJ4NkZmcGh3SXB4dnhORjV5OTNkRUlmTUZNM1V5VzBXNVcwX2FfQ1RHSjJYTFctNG1rejZjc3gyN1VTUGRMQWR1RjJ3b1FQeXhBY29IZDMySE9USVpoZjBhSjJ3TkU?oc=5",
+   "published_utc": "2024-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Discover the Benefits of IGNOU Online Class in Kerala",
+   "source_name": "Vocal",
+   "source_domain": "https://vocal.media",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkFoMkNsNnJuRmxmYjNIWDh1aldVT29EWWItRnpXdllvRmotaU5CU3diMDhVSVlBbmVpajg5TVlUX0ttZFBWQnpRaE9FYVpHYkV0VGtaUWNjelZrcmNZMzlxODc3eE9tZXhHdWdLWllJc1F3X21yVFlTQjJLSTFEOWJmMExYc3M3cmJV?oc=5",
+   "published_utc": "2024-12-24T05:26:45+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fujifilm Opens New Health Screening Service Hub “NURA Global Innovation Center” in India",
+   "source_name": "Fujifilm [Global]",
+   "source_domain": "https://www.fujifilm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeHpWX2VVOThRc1NRdDY1a255RVdudllVSlFrWXUzODNfQW1WRjBaVnlyRGNQUm5NMGY3VlQ5aWNCSVpwMF9yN0pGS1ZRN1VZS3U3cUswWQ?oc=5",
+   "published_utc": "2024-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala's Unique World Robotics creates history at World Robot Olympiad",
+   "source_name": "The Week",
+   "source_domain": "https://www.theweek.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamcwQkxndnpWbWhlcGRPbjF2bl9NNWtsUWJCUS1HY3dKZ0dleFVrZ2lDLV9fdkNNTjM3ZWZFNkU2QlBTUFI4MTYyZ1pydkN0Vzk2WG9zSVRMNlA5enJMWmRicjVrcllmOHVfeVdrZ3Z1aWQxeWM0Ym9tSU9TaW5yY0g4VE9pa2NnaHp6a0FFVi1kN2VGVFItMFFZODZkOXU4M2NKQmpodWloWnU4dFA3SHJxR0ZBYjhLTmdrR0hDY9IBxAFBVV95cUxNeWZkTk9ubXAySm9XcElLZG9ZLUhhRkJtZDU1dkxxOElsYWpyRVIzVmM4cUFwVE9ZeVE1X2VQSVFyQ0p3aUNoMUJiWGdVQlFoMy1meTdWUTBRNmpaWEFSNWJMV0xXMGVqaFhodEFrd3JjWE9HVVowa3JMT05SeDk5cy1YSnMtcVFxSmF4V0diZ1htVVVNZXd5am83bEJMcnpZRkJrdG0tNU9RSXd2QmoxOEFqd2w4MTM3OG5YUHVJNU5NYmoz?oc=5",
+   "published_utc": "2024-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala PSC Assistant Professor Recruitment 2024 Notification Out for 88 Vacancies, Apply link, Salary, Selection Process",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OUW1wVEdRdUw3eGNBOW41THE2TE1rbzVianJQLVc3VDNrWVdBRWhnbzVlaWN1Q1NjZVFuT3VmaFYxWHRXa0x4SnJRSWtERGMxOXBiTUJfY3l5aE5saUNuZFkwWUtrWUsxSnhNYlVyN3A2NkFJQlBpeXhpQQ?oc=5",
+   "published_utc": "2024-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Police to lead second phase of AI camera installations; 374 high-risk blackspots identified",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0ZFUGktUXlHdFEtNWthTW01RVRoZkZvdER6ckVPY2NEREl0S0ZFYzZscDcwbzBDM3dSbFpsVjU3dllkS0xSbko2R2RVbk5DVzBMV0xIOEd4TURpb2lLb0lFZmJMZ000aWFuTzFkcXFtQkNjZ3lvcUVfald5VE9CTmxPZWRUbmV1YlZHQy1WUzJ0SWlOQUJGVGJnNjJwak5w0gGmAUFVX3lxTE1kTDdGTEtKblpGb0phaHVJWmxxX19SMmxHcGtoMVplSkpHZGMwZ1NHREpsQkRXQXJIMzYxWnRjcnVYMGNoRllNalJVeXYtaEpjekRwWnZva1IyZFJBa3hnT1pLTDBaenBjbDQ1LW50SGV0aTVfdk1zV3NvZEl6andKNlEzM3RfSVR2dHRRNW9mVFBpM2x3dWJ3ZzNISmNSdFQ1NjVsT3c?oc=5",
+   "published_utc": "2024-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Kotak Alternate Assets marks first close of $800 mn data centre fund",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2U0QTVpZkx2cW1wZ0hGYm0yRXl3MTRxcnlURnR0ZlVLQ0Z2TVUwdG54TncyZXBPVC00X3JrTDlnSFdQMnFFSUZVLVF2dmpXNjR1cTh0anRPTlhxd2tyOW9mbE11cVVHSmJrSmZuRlB2ZWVOQnZRYmF2MGh4dmpIYWVScUFhZ0xRbE9GR1pSY0pHQzkzTkFMSkJrUEwzS25QaUYtRVJsRm16SjZVWlE1M0NfYUIyTDdGU1hwUXFXcTNhNUNVYVHSAcsBQVVfeXFMTzNZSEVLTVE3U29UdENSOGkyYWtYcjB0Z3F5Q0hlczRpX01kQVRBdE5KNXBfdjBMN2hMSmtTTlBSOUJVU3E1cW56ZkgxaFVDdXBHdDJRZVk5Nkl1ZFRVa2Q0SXhkZzN1TTd5blppZU5rbkUwbml1cm1TS2dBS2V0OVZSWWsyMEZyT2pLa09nNUlObzd5RFJqem82RlBuTjFCdmR3aEpvVXF3RkYyS0Y3YW9nZWJ3TzByLS15MDRETloyQ0twc3dEa1RvaXM?oc=5",
+   "published_utc": "2023-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfakes or poll weapons? Gujarat cops worried over morphed videos",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGlndGJNNFBoSlo0SWNOVTJuZjUybWMyT25iMjBtX3RWb2NPUDFadHltNEZRV0tFU2lvLVVlbXl5ZVEzNXBFamFPM0dKOGh5cHRrVFNTUEVieXp0bUYxWWFmN1h4d2ROazU2a29LZ1EwVW4xaGtKWS1SV1hLR01tWHYwQllNOFc5ZUpTTGMwdEgtR25BS0NqY1p2RnRnV2N5NXpWN2lNNzVheXdrUlh3QjhHMEpsdzB1QU9GVjIybER0XzJHTWlZRTZxTzZucmRodE9qbExNNXRhUdIB3wFBVV95cUxQbGtrdk9OcTJzU05PTVJ2c2NaQjdqOG9RSTluUlhRVnRBaEpVWm9rZUh0eGVhRms0U3RlOWFESzl5RHpRbEQtUHAzQkljWVdzMW1DTjJWcTZlTEFRWEh5MmlyRVB4THZRelR2SHhmTDRQUk5STWpwbUh4cXhQVmRFb2JPeWt6YWdoMkFxdEd0ZGlBS0NSZUlYSzZIYjdBNFdxbTVNd0EydjNnaks1LTF0OGhvUXVXZzNRTlpmLXhlQ0VicERZU2NiY2wtWG4wZjdRRUdIM09ZVjJWbU16MlV3?oc=5",
+   "published_utc": "2023-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

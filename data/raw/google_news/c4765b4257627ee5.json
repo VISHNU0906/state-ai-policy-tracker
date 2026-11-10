@@ -1,0 +1,13 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "IRB Infra secures winning bid for Hyderabad ORR in Telangana",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGlscUJnVFBidGhrd2ZsLTZtR3dhTVJqSk80bjF5TGxmcWZrZ084NkJKMUpmY3p6NzMyOTlLc292YXVlU3BTbG5SV1g5N1ZJcmhnd3N6Sm5wbVRmOVFjUUh3QnlLZlFuTy1OVjRETmR0YXdGQlJ5dUptS0NqV0NCU1p1N2xFMFllZnVqTW54WEdPd29aZWJuU1FhMTRkd0hKRFBFTjhHaEZuQTlBc1YyM1pZMGY0Zw?oc=5",
+   "published_utc": "2023-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

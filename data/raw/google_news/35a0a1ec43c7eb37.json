@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Data Policy: A step towards data integration",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHBoSFZJV01hQmNLWkQ4YWpQY0k1Smtla1d3Wm9zN0k0aU0wclpQWTV0bU5jWnd6dnJ5ZWxjdktrTWlicXQ5VlVaeWZPNTBUaURaX0p2WDdwbVhXVlVKdTF1LTB0MWEzTkR0Vi1kNW1HNGRMdUhGSjhRa29ndmVlWjM3S2V0Tm1FcDl3ZUxB?oc=5",
+   "published_utc": "2022-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu reaches another milestone, introduces Data Policy 2022",
+   "source_name": "analyticsindiamag.com",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlE5TUtwdnMzclEzZUtlaUdYTFk5VVpQaGF5X2VfeFZBQ3hwb2VfeTlMUXF6NXFkcXlWMjk0NTF4UXlTUkttYUdjYTVRLTdwVkpLT0J5MmlCSmplYm10V3hOeVNFcHRVLU5zb0xUYmotMFVHSDlzdFJiVlRRcHIzaUFpb2dDZUxRWkl1YjZvS0pjSXhhVHRKakVZaGhxREwyT2toM09VLWotdw?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu sets up permission matrix in new data policy; to remain compliant with national rulebook",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxON013QkxuQXZZblJfZUV0TXlNNTZOUTZ2STAzQkZRYmV0SjZNRFJGN0JDTUY0UzNCUmptZEtqN1pZM3pfakZCX1l2anprNUM5NXNvcUp1dTlwcVEzclhPUF9HTUt5SXRWQlo2cVhtQl9nNy1KRXJpSzE1cjdtRnFUQ3dCbGd5T0hpdG9TMFZ5VEtDR0gtV1NzV0JCVm92TzhTakJ0YThZemd1RTlEN1lneUNqVWZpZDdwUThFcDBmYzNfc1JuMU5NUGt6ZEVDVG5JSEpod1VXMEtHMjE0RU1sYWVwZ3BPYTEzN0E1c3ZsWVNZZ3ZFNXI5WVVXbkxhOTA4OHptbtIBiAJBVV95cUxQVXpyWU9TZEhkMUFfdk9qOWZVNzJnLUxPM0F4UVl1RFA4dV8xNktZQlF1dHpkU2pqWmJ5SEhTeDl5R3B5Wk9sZmxqR1dFSW9kZGloX1lIQXMtZlVqTHdqaktfbFp5VWFXSE9PUVM3QmZlUDdMd2dXS1ZSZXNTbXdfSXMwNmNmRTNkaXlJQ0VTcTIxblpGR01KbG9YVE1jMFRfZlFDMDlyWmQwbFRlQjJva2laVU9YSEZYR2I5RG53UEJFZUt4VUR4MV9BSjBPWDE5eVB0dlJfeERWcnNZWFgyT21hRjBteHlRNEVGS2s1SFhKakdUeUVkRVBtUi1fV2daaWhTS0hFZVI?oc=5",
+   "published_utc": "2022-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Summary: Tamil Nadu’s data policy looks to create a single source of demographic data",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hNGtMNG5YdXdJSTJaZ3l0eEFWemlmckpQY25MdzVrN1NZaG03bGRxWkxydWR3c19XTzBCeUxSekR2cGR4UW1BdlU5N2xRcXNub1puajN3UlVHRVNfTmFrNldlajhtLXgzSHdwLWJWZ0NWWkJqTGdJNEJXWQ?oc=5",
+   "published_utc": "2022-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aster DM Healthcare signs MoU with Government of Tamil Nadu",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVp0T3BWQVdPakZOd1ZEbGNwbVFURHFaWXduR05OaW1iWVVkaUZrSG1VbjNpTmhjYjhVMXA3SUNTQXdyWUYwYWV2UXZONW1RbXZCNHgtMTRHOXF5QVhtSGJ4M1I4RXZQanR0bkczRXJVNjdHRWtDUXdPQU5iOXR1SV9mRzRHTmo3dklpRWVUMVpNdUxnLVd6VXpDcTNoVkFTSWc?oc=5",
+   "published_utc": "2022-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's Tamil Nadu launches sustainable cotton cultivation mission",
+   "source_name": "Fibre2Fashion",
+   "source_domain": "https://www.fibre2fashion.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNlc2ejRNVFdqalAxd2I2di1YQ1QxMkZ6LTdNUlJZeGw2UHZpSHVLT3NKSkNZM3N3RGxaRzZCLU5BYWNIdnpMcXJXNUp4M0Z3UTZTV1JIVllFRWQ5dFd6cUNZaUJjMWZKcnIyQ0ptaW01bF83c2ZueGxzVzBKS0NDUFM3UVQyQkd0ZmRtZnZuejRlcHNKQmFZRXc3MGJSNkVRMkZPWHBPdmtaNjc5SGx4eENMMWpOUUs0WmVWTllhTWNIODFBTmVjSTVnRzc3R2dZdFAw?oc=5",
+   "published_utc": "2022-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A woman from Tamil Nadu, empowering the community with AI",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGFpNncwbHNtOHljb29va3RXQnZxbDJFS3F6bkUwYnZGU29zdDhkUUIxcVF1SExuOGpaWHdhd00tTFlIWTl1Mi1pMEVkR1NHWEZYMlhNU29rRnJHSURkSTlVSzhlSk1GWElfdjNabHRZVVJKWnJ0anlwZVZCbURMN3pKWThFa0RqdW0zMkh5eFE?oc=5",
+   "published_utc": "2022-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin in UAE: Lulu Group to invest Rs 3,500 crore in Tamil Nadu",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXdfMU1YV0ZpM045V2RZLTFPV0lyM1UyOG5IQnlDUndONmQwXzlUa2p4N3VNQkU1VzBWWl9tWU5OWC1YanBKNTl4a0t0NkFKc1hmd0VWRDVlRXg1SGRSYkdEeHZsYnNtUG93MUpWcFd0eXhMNFNDMUJXR3lLZkZIdWJsUzQzdDVaVDVfNVB1RFE4aF9IQ2NVZUI2WnNUVUJsQWJIMkU0U2tlSnloZ2NMSEJsdFlyb3VSaExaTWxWNmNCVkJ00gHKAUFVX3lxTFB1TWFMUDBIYVRtS1Vpc0dRcXE2dnhHX09PTzY3VlgxQ2I5cUtOcjdXOXFxdTlzY1ZRMzExSGQ0M1FORjRaUjRoSlFHMnRtM2FreW1IeGxscEFnVWZCS2htRnJWOTdDMnNFUTZkcG5TT3ZGdjlFNWdkdUhBWVdyXzBGVHRHOUpycndtS3VraElxYy1XMTF5VVZkNnp1bVJTWTJuTkpQZm5HbEFBOEJVQVVVUUs1MzM2Z1kweklweFJMZTh3b2kzbFhNZGc?oc=5",
+   "published_utc": "2022-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to buy 500 electric buses",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0ZKMDREWUhPYWtCQWl4NktXdm5iOUtucDB3VlV6TDk2Rjg3R1BBaHo4UEgybExwVmFBcDYwTk5qYkJFVEhtRVRuVkh6VnhrWUdMdVN5UFNlVlVsVDkwWHpWTjFKNWF1bEVxd1M5c0ZxdTZyaTNoWnhidDhhVnYwVkZQckNzZWRXMUE?oc=5",
+   "published_utc": "2022-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

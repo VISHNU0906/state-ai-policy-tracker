@@ -1,0 +1,29 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "\"Undeclared Assets\" Of Over Rs 9 Crore After Raids On Madhya Pradesh Group",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURtTTVGY3lWMWRGVG9EcU02VHNDLTBCZkZnRjRWcU5sNzk2aC1qbGtSM0g1MGFoT2dseWNzSTdBVjR5VUpLQkRzQm12Q1pRT19CSTNTalZ3UzFzQi1ZQmhrYXVfendZRDBhYm9zZGNmbU90bVdSbzQ3U09oODl1a1NYV2NyRVpyckhSNHFHaHJJelNZQWctSnJSTVpxcFFEeTZJWm0xakNwb3d5RkFtYV90bzlKcHE5X1M2ZFNpbw?oc=5",
+   "published_utc": "2022-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Foundation Laid For Rs 2,300 Crore Highway Projects, To Improve Connectivity Of Indore With Nagpur And Hyderabad",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWDBPVUpzQmJhM2FzNzZPVHFzSW9xZGZCa0k3OExPMTdOQnpVaDNrcW1ockFfSWYxTHJxWTUyLXQ2SW5FWmVjNldWNzVsZE5Lb3Z3aWFuajZOYjQ2WExPWEJBMWtTeVF5SmxMTU1rekFwNGkzV3gwSUxmSmVGYUNSZ2xWQng5ZHdaaGZBcmJNSHBUSUp1Q2VIR3JxZ0lLQlF3a2poYmEyWVFFN2g3M25vY1h2RTVZWmJ3NWUxM0ktOGhEckJXcWU1VjF0cmJzX2RyLVpfNHNmYVVYWmFrTnlMQ0lONjFJbHFkOFdnUDA0X1U0YVRlNUJv0gGHAkFVX3lxTE5uN3M2dHlkVVBZOE9wenFMMTRHMVBTNHE1MHh6azc5THBzWk9sZ3k5c1hFT1ZzYk8zVXh1QklabkVMX1laa1BScS1ud18zamJqUXBMQXVXeTljdUs2TWpCYXJlT2JOdzBzc2V4UFVhRktCWWRGQmZ3R3ozRDdCeks0OXhVb3pLSUZ0LU1DRUFQVGthZG9vWGlONHhzb0J4Y0ZuMi1tQkNsdGVXeVZRcWo4LXp4QWJKZVg4d0tuSmlqWmt5Nks1QWNLbjJmS0hpQmYtU0lQSDdOaHJ4ZDdIM09DR05BRDMxNndBSml5ODVETFZCcTUxVEtZWDBldmZHV2cwUlFXc0o4?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Indore’s Sirpur lake finds place in Ramsar sites list",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1hCRU54N2R4cDRTaHphc2V4ek0wNFBENkRTanFtTV9kdy1xTXYtcGJjNDl2dy1pdEVWd0FJdG9Pd3dvdk52d1h2QklBZWZxOTEyWUM0eE1uanROaktvOUNacGZKeUQ2QmhUYzA4b0VDQU5ZZUh0Sk5MMVpydHJuR2ExTGxraGlON21IZVhocHA0aG9hRmtpV0UyVVFPeHJTdFlVMG1xS3d6QdIBrwFBVV95cUxOUnFHaWlOWUhCM2FzcmV0M1poMmw0dDJaN01tRUNEREo5VjgwTkRGUGpaNVpzeElXdGZtcVJNajM1WVBQMmVWY1kxX0hLVmVzcktkdnEtUkk5MjBOWVJPd3RFR2lidnR3RDVsbzhaOGIzSkpkVmZqVVBvb2ppd1hGa1FFUUNyd25JdFUwRkVseWFHSGRZTEdQcUpWWkNpZl82NndMeFpwa2MtMnBqVllR?oc=5",
+   "published_utc": "2022-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

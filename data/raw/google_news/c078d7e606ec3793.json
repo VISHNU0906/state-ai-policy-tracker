@@ -1,0 +1,61 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "CIPET centre Chennai hosts 17th GRADUATION DAY",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LeHB2U0FaMV81d0xPY0QwSWo3THAxZ2VFTjNLbkx1S0h0alVMV004ei1qQy1KcFF2YjAzeXpvYXpwNDlpVVFEaU1SbzB4NXBqamlVSmZFNzJRTHpTZmN4UjYxV3BEbzRE?oc=5",
+   "published_utc": "2024-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Another academic year here but will TN government revive free laptop scheme, ask students",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRWQ0T1Y2d0hrOHUwVVFVVDBYai1Va2pXZnJXQVNtMXFsZzFiUGxnOWdXUkFYampTdGFMdEVCVGxORXJkVTRBWmdKdEZndkhBM2h3SmtIUi1kYW1VcVN2NVl3MFlnZmxGMmFhMV9DMktnR0FKZjB3M0NUMVZYVk1iV2hIQTJHYlNnR1J6SEpuM1RnNVVEVVpHUDFxa21xaXBpRDdfRzZNeUhXU3N2QmNUVm5uYkZhX0x5d0RwdTFib0hEV21fdHBSdUVKbkhGODMtYzVIOWl1WGZtQUpLcHZZUFZtSS1HQdIB8wFBVV95cUxQX3Mwc0hZYkZZeHgwNEFLMzg0RlF6SVpnVkRBejNHZG9iREVJazBTN2VaNnc4Z0xLbmxMblIzTmVkQVNHYUFLRER5bHJ0UUpIYVZ1SHZYcldSaGJlZmFBX01HMkZCMzRBZGR3VGRINXI1cU9idlhBV1phLVpIUHp3c1RiazFNb1pLSzVkX3RtTkR0Q3Ftd2JtZFVjSjVOUGJNaWpDWkFNdHM2SmFrTUM5bkdvRmZuMXRKVTFQUGZiQ09iSFIzeFRFekRDTFRUSXlHR3hId0d1RnpSdFU3WWtibTBCU0NZcWdyY3Q3RnlGekZkODA?oc=5",
+   "published_utc": "2024-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu on Top in Higher Education",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnB6Nm1Xc3BSREZrclplWjJnc2pHaUVTekYwRlFiWUNZcGJUQXo0aU5XdXpuRmU0MEVMMTl3MEY0Tzl1N3dNbDEtaWZhZjFEeXFyS2tXem5admlWQ1BZQTBwbWtfOFR0UWpodV94RkpSYUhMbWQ1Q25fdkhvNDlZZWN3OHNtVFpXVkRFNW5xWkhvZGV3OWRyS3JpeDJ0dGxXZnN3SlpR0gGrAUFVX3lxTE1TNzZNUHVkWC1QSF9hNEdkaHFTTW5famg0eGcydk9BTDZLTkRvSGZXVkVkTklCZEltdzdhVy1kRFdpZjVZVHFBVWhhUFV4a0RrMXpkVzdsUlVONzU5NTVqT1lOX3lEeFJNMU1nemk2QTBpR1kwQ2p2b1pjSjhwX2xGbXlBcWhMT2dUSG9xc2tfZlE1Q0JqSV9JZEUwV21qUGVXN0c2c3I1ZVJnWQ?oc=5",
+   "published_utc": "2024-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI and deepfakes blur reality in India elections",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42NWhSQXhpVmY4TFJLQ3dqNjN2R3JTOTBMUEpTNHFqV0g2T05BOEQ2MV9DLTR2Q3plNUVucnI4OXB4dWt6WHB5bGstRVRBNkhiSEFTNkpmRld5eFVnM2ZR?oc=5",
+   "published_utc": "2024-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt scheme to benefit 2.73 lakh female students for higher education",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVlhXa1NnX2pYNFpHVXQxQXk2WlN2b3hUajZ3N2FhaklnSjVOamRtVlQ1XzJZRHExaXhMR29IaTcyS21MUDI0SlBUU29fUDFtenc5M1ZhVlYtdjNVNGNzR2VfV0NoMG9tdGZjN0Vwdzk4dk5YUnJldHJFQ3pIaFA0d2ZiazNHNlpSdTJra2ExLXMtVGJKYmZURmdCY01NeGxZYmNMY2l5b2kwQlVFRU14X1Fwbl9SYThMcXRHSFpQZW1OTHB5YTR0TW9lYmdoZUF1ZzR4VWl0a9IB2wFBVV95cUxPS0M0NXplaG1CaDlDT28yek5IRm91em1pbmxyVXlUSk55YkxRbE9BMEU2SkNYcGlfQnBudEZPOGQxUWJwX01tZW9KOS1PU0JSbHE1TEN1N29GaG1uelQ3WnpOZlNyb2xMS1JIano3Yksza0I1MEpOSy1sMGRnZjZEMkZFMTJBNkJjY0ItMmZwTVN4Q0NkZXlSVkRzRnFMVjRaSjN5cGxSWGU0R2Rmd3hFaGpxYWJfTU1mNWl4bzVFNGpndE9uamRkRmxvYklfajREdTBtTTczcUhmVnc?oc=5",
+   "published_utc": "2024-05-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt’s EMIS push brings OTP challenges",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONHVQRzJnRmpMM2ZGLW52NzF6SUFwME5KTTQtUEZOcUVndGxtVnN4Y2NrYmpNTFotV0tLUUEtb3NRaVdtNVZSd2ttbHJKbjh4M0M5TEpOTnVlYzdydzlMaTZPZFR6ZnRuMWZGM0hnWjhYT2tNbWpJQVpNdWlCeVl3NVZhQTNlVnFubl9pWHpfRFNrLVF1VFdkTVNib3hxMmdaalpNR3pwYVNDUlJhTFFoRDZRUVotUzNEeVlfeWRzWmcyZ2JiVGpGTFBQOXZjU1lJamhiXzVuRFctZHRiSks5TzVZZnNNdmx3MjlHX0o4a3hEUUFEbUpTeUo4TdIBgAJBVV95cUxPWHhkSDRYcjYxbUpKUzJiMlNDZThoVzFxOXV5X0RyMlVjT3lUaFdITVBZN29sT1p1MXJnaWxBZ2t0dTBKZllBdDVEY1NUa3pUM2U5STh6VlRXcFhjLWxXNHdaLVV5RFhLUEZCM0Fwd1dqWHEtNUpaaERsX19ZNkNnQlViTV96cWZPWFVZM0VzVXJ6Wk1SdEVVRTBJVWM5djVYRkdXUlV4MmlVQ1BSVEI5X3VfVW16U0U2X2Q5cDdsVW1jRF9FajV5ckFFMDRJNzQ0bUJ3dHp4YU81eTJVTjhVS056Y3NHOGRFWUtqdXJYWjFYN0d6ZTc3NkVyTTROMmo3?oc=5",
+   "published_utc": "2024-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: These elephants are dying on rail tracks - can AI save them?",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.co.uk",
+   "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54SFZ1TEtYSFVhNE11NFJyXy13Q1JZdGZObE9pbmhFcDFvVkRDWWstRlN5MDBzdG85eTZwbjIwY0NwRTgwbUtYUTllTjNBTC1tbExTY2xSMEN1RUJVcjBPeVFB?oc=5",
+   "published_utc": "2024-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

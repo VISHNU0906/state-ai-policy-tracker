@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "How Indian Farmers Are Using AI To Increase Crop Yield",
+   "source_name": "Forbes",
+   "source_domain": "https://www.forbes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzdVaWt6YWNvTDdJd25ELS1XU1V5SXVWM2dVTUdkb2dEaTVldlBZQ2RRXzBNdzNpc1ZtWF81OHo1TC1ZeTRmSjAwR0RCRHozMmZSSlo0NmZuVUlxczBDMTVydjlFVFhiSUhzcklJbmI4cGZxRGgzTmphX0d1MTRKUnBVM2loMnhLVHM4dzFfLUtBclRGTmhXNGdVYlpadEg0M09BeVBlVDU3RWJJ?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s schoolteachers are drafting better lesson plans faster, thanks to a copilot",
+   "source_name": "Microsoft Source",
+   "source_domain": "https://news.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTnBYUlozcE1XRWd5RUlFNDU3eGgwa2FVd3hyQlNSbnpaRjFPMXYzcUY1b05WNXR5VFQ2cE0zTHZnR2VCZTVMc3M2ajIyZkJUalppS19aM1BnS2F1d2JTakNNUXFjLU05dVY2NDUzNGZMVzV2QjAxR0F3bHVvMVkxUmNBY1hSTy00NUhHb0ZKTHU2NC1kQTBHZnNMVjNjbDZ4RkRWeGd3UnUzdXBVZ2M5enJYVWFjSkluZWMzNG9HX1h6dGZHbmxqLW5n?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "At 6,000, Karnataka home to most foreign students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWJzV0lhSWw4bmdHcktLQ3ZTWGpGcWhTc2d0SEVNLXVYc0dCbmtYNjNNZktDUTZ1ZUVWZndBbkxZRDJ2SlBrbUNIMmxuLVFzYnFGNlY0cnVxRXF5NDBzWW41c0g1aUV3MFktYjhoQWdIQWFIUVhZOGV1S0paQ0pMdzNnbHBWalROLTI2cEc1SDZJMnJvd2dXYnNHVE0tVVVYeXJoLVVSdEtnTUJaVnA2LV9ka2xkNE5OZ1Y2TTF2QlFtQdIBxwFBVV95cUxOVGpHcVhsamViS2lkbGI3c0lJUTVldjBpM2VTUG16WDhTejR6QVRVbWRLbTZDUW1Bdk5yMFpzeDNzRW5KQ0VSbko2UmdTUkowdVozWklJX0RKcTF3LU51ZElRak1lLUVJMGtUalpVWVJseVpyRVppNllnVWprYmczaUgwQmdTSnloYmVNdW42QjFOQUFmS0lNNWI3NWFJb3JmNXVwMGhYX0s3NGpVelI3VS0yV29Na1F5Vk5RMmpnbHZ1ZXd3NXAw?oc=5",
+   "published_utc": "2024-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to offer millet malt to school children as part of mid-day meal",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcWQ3Ym1QV0lfRm1BaFVTbVdYX01mTjdGbWJqMlBHN052Wm40VGwta01Qd0hNV0JnR2pRek9Pcy1ZNlc1UGpkYTNiUW1zUC1XdXVQcURkUjZyN1JpeHpQSkR3dkwwX1d2VXFocm5VLTVNRHZKRDBFVlg5Vl9teXJmMFczU3RqNW9uUzZBYWJHLXMzQmZoUWRDTXJCYzROVGktUVc0UWJDYVZLVk9OX0liOFhTYldqS01hWnZ0S1JDaW9XWVROeVJIY08tN3d6RU92SjZWYjdxTVZWQ3BQVXh4QzAwalhqUFRPUVBza19EUmYyUjhoMy11MXA1X1ZjN01Ec2dDZzBRMUxtbXY3eERxMTF30gGYAkFVX3lxTFBJbkh1RnpyNFB2SWp6WHNvUlpvOWJDRUR4ZExHUXRJR0JKMG1JU2F4SWhKYkZUWGVubm1aN3l0OHBCQjFENmdpdWNSNWtoNWtZajQ4a2pLRFdPcE8zY3ZHQlJMX0lNcDFJX1BjUWFpV3ZIQ3lfRGFsQkhIY0t5Y3VfN1dhMHNMNXF4ZnlFSVlTeGtoNk4wdndIT25ZMllna3JJWnREVk1JTkJOYlRhRXFtc0o0NXFfMkZnQ1ZNcXVwcG91aV9EYjA1QW1POEgtcDZubnlzeHBHWTI3NXFjekVFbzNueFdNaHpNN1VqcFhjUU1OY3BjX2lVeGlPUFpjM0ZGZVNkamdReHBYS21vT0o4UXY4Vng4QW4?oc=5",
+   "published_utc": "2024-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Integrated farming: A game changer in augmenting farmers income of Karnataka",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV0RYNnFURnZkR2lKXzZmWTJ1TDhOS2xTbWtTOVdMYmxhQzdJTERldTY3ZkZtWEdxSXFkTG1kYkl4QlBZdlBzdkM0X2FqU19lWTdCdzdvUTI4c3hycHhweWYtNzBHUlBvUXNkcFgtVnFqMHlCVEZDX1VSR2x3cUZJaWRpQUVxZmM4LVRFUFY4djB2ZTBNWUZ3Z2J2S1djd1RRUXVoSHJsWlNDOVB2Z2lESVpPeFg2aHBhcEo2TWVIUjVFZzlfODZ0NmtGNUVGdS0xZ1htMUJnUzB3cWltLWo0Q0lMWmEtT2hRLUHSAfABQVVfeXFMTnhfVy1HcDktRGhxZkZXeDBnUmM3aXdXZ000MEFfNFNndjBILTNRWF9Vd0VfTXV1bi1TSXIwOTlRVjd3UjAtN2dHZUoxelNQcHZXTU9Fbm5xcmZMUFZwemVXNkVxQ2xtT3Z2Tng2aXl5YzhhQkRYeExYM09HdHdlczRCZXB0Uy1GeWpGVUtzTWxkd2ViVHowUkl2WEljTWVzTE8xUS1rMUc0dTJUOGRlNTNkMmgtV3ZETUJ5d2k4MkNNUGJjN0tpamdvNHduREY3ZHVuRGx3VFlLWVgxaTJWaUJUVHU3S3Y2X29JaTJCd193?oc=5",
+   "published_utc": "2024-02-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Public debate on caste census report is must, says former Karnataka CM Basavaraj Bommai",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZExKVHdlZXF1eW4wNUF3TXEyMFM5clZhM0FnaVE1WUlkcUhWT3lmWjVmRFItcmg4Nmc4bHBCcFVoOGpqbkk2QTBTY1RuS0xNdl9NYTNHZ0lubldoVFRxc29iSU5mOS1JOXRMVEF4X0hFOXRNeEhOOW5GTS1ObWlBdEVjNUFvUWZWX0JldEcxaWdTUWoySzNYSEJINERNd0Z1Q21qWUMtS1RfaEFkTjlFc3lsMWJIdzU0Z2laTjFYblZCd3JfUXFneUxB0gHPAUFVX3lxTFBYRm5DcmhOWWlRQUVPVHViMzJNaW1mR3kzWDJvVDJwOFZRcVNTTzhCWDhpM0ZJTS1TaUtWbkNDd2hkZkxCWlVEZEdSLUYzWF85SVE4QW9pS01Hb09feUxkSmNSV205R1RyUWhPY2szbmV6Y1h4OEFEMHo4RkZqY2wyQ0c2MEpHOGNhNzNLaFBDbVg4M09SQjNxREIxQmpJWHY2N2xYT0tWV2xyR0EwdVY4R04wUWhhS2ZzYldWNHRBU1I1WkNIazF1VUlhNmkzdw?oc=5",
+   "published_utc": "2024-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "KSP Constable Hall Ticket 2024 Out, Karnataka Police Admit Card Link",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53RUNlVnNVSXNRQjlhUzMxUWM4QWVreW51YU5NZmhseGRVQldhdF95QzczcHprczZTRHJVNmZZZUQzMGpEZGhEVm5YTXlLYTdrQVN1djdkWVpZb0pJMDE4?oc=5",
+   "published_utc": "2024-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka: OBC Commission Chairman submits caste census report to CM Siddaramiah",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYmhSYkV6eHZVVHBpQXFJM0lCSm5GaTFFSmlPTVlnNlBpb2tyNzFSSzA0aTlYZ2U2YkpGZjA1SXFLTWtFWHFOaXRVakNhYldubE1QcVFFNERlcDBwcmMyd1VCV1c1a0xOT18tWndmNEtsMEJfSlJmSXExdEEzZ0JkdWZVNFdBVlBxb3pmT2hzaWJkRDN0elBKeldyUk9JeWJSUGp6Y1VJbTE2dTV4ZHBmdjU2QlFPeWI2c0tVVE9lTmlMQ1VLc01vLURCVHh0NzlrcXdaNXZPM05tNmowaXpxV9IB5gFBVV95cUxPTDZHWDllWktoakp3QVdGWWtOUm5nWnBxTmp1X09aOHdnRUl4ZFdpemlSejhfQmpGdnpHLV82Q2IwWVM4cFV4cDB6NDM0SmRYaUJjOVc2dDZYQjRGQzBsd3lLanhIZ2FMNmxpdkc5a01vcDU3TVktRG5teUlqcGRKSEt3SzV3UDFXV2V2N1hwTmNhMkd2SlN6MXdTMlh6eXpWN2JyRjYwMm0yeXFSY1dWcFllWmpYcW5RZWhNR204a3lsRVJrV3N4YVluR2ZvVzdKRHJfRzlzc2JtUWpTVjNndU5fWUp5Zw?oc=5",
+   "published_utc": "2024-02-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Alakh Pandey-led Physics Wallah has expanded its educational offerings by launching a physical school named PW Gurukulam in Gurugram, affiliated with the CBSE. The school, which will enroll 400 students in its first batch, aims to provide primary educatio",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CNDd1S1hGRksyWWV4X1lhTXZDU1l3ZzJyNkNZMU9FOUd6eU91a0tucF83RzM5M0ttV25XaVh5WHNDbzczWDJTei1EdTBqM3hmTGc?oc=5",
+   "published_utc": "2024-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "At 25, Anil John Sequeira becomes Karnataka civil judge",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXl5OHFpUWExOXVzX3pYZHJ6QkVab2RjWmdNcGY2djlJYVdOSG1pcEZ5aERadVJiVlF1OU1lZHpzQnJHREV1SHZRcUhIcF9tS1g2V09RQTBCMmdUQTNZaTNOVWVxT3o0SE5VTkd5a2c2em5rNE9naU9BNmJPVE5xYzMwdFlsSDRXaUdTZzRlUzFsaUF0OVdmTkthcy10dHhQeHgwNXFPLWRyNTBiQXZoTHJOV3FaV241UmRUT3kzSmNFcC05endzX1pDd9IB0AFBVV95cUxNUW5XaXNDUWR4Rk93NldtRnFNbkFodWhXZmVPYzYxa25DSWZCS0UzNmxvT0tzUmpBNlM1MGZjZGJ6WW4xOTgtSFN3TW9oYThhQ0p4ZTI3YTVaa25tSWhBSXZXT3lFWVdYajFVa1lsVExCV05hS3plTXpRb0ZsS2dNTEk4eG5QUW1ZTl9BZmxwcGdaQ0hVZGFDNnZiUTluMk00SzRTUVMtRlVwRHMtTmxJN0xtYW5MRWswTjh0MVNJbnl0elFEMzBYRlY5LUxRY2VV?oc=5",
+   "published_utc": "2024-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

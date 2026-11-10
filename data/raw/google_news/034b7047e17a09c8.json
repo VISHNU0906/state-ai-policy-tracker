@@ -1,0 +1,77 @@
+{
+ "query": "\"Kerala\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Using AI extensively to tackle problems in agriculture: Union minister Arjun Munda",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmktTkk3Sjk1RUluNHZxUzNzZTNKd0hFcDgxcU81cTdrbXYzNkRERXQtRXU4TTdURTd6R3ptQmI1ejdSdGdmMlZFNHpBMnM0Y3FDYk5INk1kRWZ4SWhGaHY0TmxfR1lQUmE2c28xNjRkeXJUaDdxYVpZWHFFREw5bHZwY0FNMmtxWUVDUTBadXlWU252VXczbGU1NVpZakJHOUk0Vks0X0lMUHN2bm9pTUNTSU1TcHZlcWNKN2V1M21FVUZ2bEdWUlVidjl3akVfQ1pTM3czQWlZby1DS1NhQUFGNDBOcUdiMVHSAe8BQVVfeXFMTnE0QjNoLVl0MXRFTEpTUG5QQmF0aDRVQnpicnp4Rkg3QjJaSGVMTGZDVVhXOUZDV1BYQkZOYVhJM3NvdVA2N1lpaHZoaU5oeDA3Ym1tM3NjMzcyWEVfU1BpeU1hOEFyQjlfTEVEQzF4aGtEN0dIa2xxallySlRTRm41cUFTUXdKc3NNQllVU1J5eExSbE9NU0JwTXZWdmhCd1lSNDExcHBxTjRrWHlzSGtMYlFlYktKNFBfMk1ycXUteFlPc0JzOEhwcG1EakVFcFByX1FwUmNVdWJqbXhmN2tFV0F1ZWt4MHVndHBVajg?oc=5",
+   "published_utc": "2024-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "38% Of The Youth In Kerala Are Worried About Job Displacement Due To AI",
+   "source_name": "Youth Ki Awaaz",
+   "source_domain": "https://www.youthkiawaaz.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGs1TFJFdEYxNG9zN1h4Sm0tYmVlRXBHOU1WajhjcjJpYjBrMTc1ZmI1dUxFSkxha1ItTWtidVIyQUdjdGUzd3otWDZaSEZMRk9tOHdrOHBrel9oM0NtNGNfQm5OWUZzZFJBRDdZU2pTejdFc25DdDN1ZXU1X0xEWTdB?oc=5",
+   "published_utc": "2024-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches AI-based early warning system for preventing elephant deaths on railway tracks",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVVQyamFyOVJpTk5OWkY4R2lGRTA3T3NxQmFsVFlScEZyaEdJT0NTaTktZW9FY19KVk5OT0czR3h4ejZRYTl4RzNpb2hBeXZlRm50TGR6MUJ1eHNxN05kZjhzdlNSV3B0c2pPbVdXZzlZY0ZTRkIyWmVXdjhfY214MGM5T2EzR0JHc0gtMk9DaUVZS1hYZ1kwWHhrZUViQVZfY3VmZmNaX0xCZmNvRW50MVZlWDZYQTVTalFheW4yM21FRzlaNDNnRW1EdnJCTHdCQU84WmNXaXl1OHA5NGtyVXdPZU8wSWdpUmNnRVBfR3hxZ1BRX1d1a1B0U1DSAYMCQVVfeXFMT2xBYzJINHVudDZsbW5mRzVqTktNeVQzamFVNm45VHZfZFBNLXZ6MWlpV0ZwNU0zQlZhRTh5bm02V3ZadE1DY1FSUTNEZU1ub2ZrcTYtQ0xueTd0VUtsa2hrVEdaS1Byd1dVMHdZVDF2Z2lKUHEtdFRCc2lMazhlMUc3TmFmRHdMRDdlQjFoN21McjF0b3E0OWNobkQ1SW1FV01CelNVdGhfMzhla194cTVSaWpycGQ1NkxQakhVVWx6RGkxWm9iS0gwVHZvbk80d294cUJjbWlfeHJNaHdWOEdCUUdFS0M4d1VKM2gwdndRWjlVVDI4SnRSNzF0TVg5Q2VIRQ?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TS Civil Supplies Minister Discusses Rice Sale with Kerala Delegation",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUNyc0g0ZFhWd3UwQjBOTGdKTF9ybDZjTW9EZmJ2dVdkNFc0WEJ2YXI1TnBIeXphRVY1SlRGd3NmcTN5aVZPTmhVUGRpT1k0cE5RRHlLalIyTUp3d0gxWU00XzRmVGFQeEF6MWhib1huR1JSSXhQYkgtdTMtSTFkVkp3S3F0UWNPSC1OVERHS1hkLU02YlZ4U0ladVBIMTFqYXE5cVd5RE83VVNnRVJXSjYwWlc0Z9IBuwFBVV95cUxQWHprMXBZUGpIeDhyZHR2SG1ST0pyRGJiUEp2X1FRelV5VmZrcWJEZld4RnVuay1GWWxZczVqWllRM0g1cDhqUmFIVTVFdkt3enJTaFgtMy1CcHRjeUZOd1pwd2d0VXJxeTBTRHZkRkJfa0xyM1pJLUQ5dFdlZGlyUU1CRGUyVlI3a2Y2ZUVWbjNIYk1mVnc2ZHRjTEJiS3p0QWFmTjBkWVhqZHFhQUhyTnpkczhibWlpSFNB?oc=5",
+   "published_utc": "2024-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Do welfare fund boards in Kerala maximise welfare benefits?",
+   "source_name": "Centre for Public Policy Research (CPPR)",
+   "source_domain": "https://www.cppr.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcFVkTlMwdGp4a0RQTWZwY0xMMFY1eUtsX3B3SFFLZzZvQzBaVk5KQlhCMDEyZUNrNjJUeko5bWpReFNVdEZjcGdvd3R6RGt4T1p6WHdYMGxTSGhrOFJHWmxsWGQwT3daTVNxczlZREptdW1MbUlTNURURVJBX01uSlpFQlVtaXYxdFFTQ0dESFE?oc=5",
+   "published_utc": "2024-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sabarimala Greenfield Airport has got site, defence clearance: Kerala govt",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnBrV3M3ZXJCYkJvV3NuZVJPSkFEUFpycDF6X0pwRlhSVlU5T2picU5SV2pGejQzd0JtOEdQeUNERFY4dlJQLUlxMFRwRDlGY0syMXJnSk5SRThhZFo3SE9LT3l5TmZ1LUhySFlZQlpXYWVxa1E0YVJCajJQV3lramFIaHpubGNBOHZraGIzUGU1X2dXbW95TnVmLW5CTVpFUHk5bzRTZlB2TE9vY0hQVXlWcklKYVdzbE9NRkpXQmNzT3NjcmlLZDc0bVM3V0xHbDNN0gHYAUFVX3lxTE1zYVA1TEZpaThDTkZucDlRYTRXTTJYdXRHOW9rTTl1V0FSWm5IT2I3Mnp4bUduU3NOemRlanhKaktaSXFhZmJVTnZpRGNldUNWWnBlNjdPQk9EdTRFbmg2VHdwUUEyUWVHajlkQkpqdTdqNFBvdER0enpLa1FpMkhVUC1ibGpfY0dES183SldNR3UwcF9lWTlBSE1wNmM0WGJMbk9FR29hZXA3RmkwVFdFVVd6eXRwSXlPQUVJaGtGV2k1SlJ5QVlzdExRbmFicjc5RXFWNXNOYQ?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Not right...': Kerala Chief Minister criticises PM Modi's posters in ration shops",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVFZMdU9jQnFBTUxVeTNUZ0xsbVNFZFVGMDVSZTZJWXlpaEs0LVpFMlI1QkJNalhfOERRRGMzNUtVOGhMdnZVVDdDbEVXZTg2bVNGdUxaWHdsWGwybXQzU3p0MVlGUEN1T1FxZExJNDVDbjVvaEhPY2ZBMFh4bUtKN0stNmFkZUxmMXc5WDVoOGlkaTRCQ0tGWUEyX2lvTzdPc1BMem9HTElRMkp2ZmUyM19LZUtKV1AtLVZIeUhVMlNiVnphNEJaLWJ5cnJtTTjSAdQBQVVfeXFMUGtHWGtpX0NDdFVUSC11UTQ2V0xQNHFROTVpWXRmZHRFblVaQU9KSWtrdG5uNDJMS1hnUHg2TnRfbV9rLS0xWEhtVlhCMGVDNEFtQVFpcjlIWHZtdThHRWNOakFkME9uQWcwMEYzUVYtYjl6eXY1Q0JjRlRPVGdwR29EZmp3Tk9MbExmczhaOFNGbjdwOWxhanhsdG5jaXRvUG9OLXRmTTJwRWkzcFZZQW9GUjNlWGVZby04Q1JBVTZXNXo1VmdGX1JQLUlMd1BPbmxPWFc?oc=5",
+   "published_utc": "2024-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union government's attitude affected our finances: Kerala Finance Minister KN Balagopal",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLVRyZ2RqaFZUby1HWm1JSW5GVmswcDc1ckYwekVidFZWVVFBU1JxOVpWMDZkc0ZpZUVpclJTOFJoTFZpS1RiSmFma2hBbllSSDVLMWhRTk1KQjQtclhlU05qZUdINkxqSnM4aVo4aXJNSHUyWlVybzhmMDAzdy1DSXJWN0pPeU5iajFITG1rTHJIeFZpRHdrTHRDM1FVV3dscnVSUmhjTHpqeV9PTXZOZkk4ZmFBOWw3cUVwRXBNcWpENGVTZWNScDdnRzVZVG5vY08xNDBJNWVHZy01YmgwVllkclYyeTk3emdJc2VRSi3SAfYBQVVfeXFMTnMybmR6VjR0SmRtaTVQX2RjdFV5QnZkcjVTOWdKdHk4a2llRE9jNG5kbzNOYS1GR0ZQYjI1TUtIOVBFazkyWEtCaTlTczAtTWtPUmZvcmRMMl9nYkdfN0YyQ2hHMnFPbm43a3RTbHBvOUdmQWo0S2pTVUJhOHZLQ3pWZVdsVUdveHcxYThrWm9pTDRLOVdNa3NfNXJsTUFyTEdXSmpKNTBmazh2V3hLeXhBcEQzT1dJeE1mWll3UVU5dGtTcWs2TkFOMjlFNk8zTlp5b0d1NDZ1U0RpRXB5SXBleDhHckVLOWRHZU4yVGZCekdXWVdR?oc=5",
+   "published_utc": "2024-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SC lists SNC Lavalin case involving Kerala CM for final hearing on May 1",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "https://legal.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOejVVdFdJcGpMQUNTZkJlR2VaWmpST2NSYU5ybmJBUklGQkJBZWdkTHVRWnRsSWtMSVYwSHdLeTJreGVkLWwxckJIMmRVX094UGFoQ1NmS2QyaHg5c2RVYk8tVmlhYnRvd1FncjFaTEpKb0dRcG1Ra0J0UUdjc2o4MzdxOW5mMmVzX1JDYzZUYnlpak1RYnB6N2M0LVFLLXJCUkh5WjA2Y2NwUl9wSkNtR3RIbFhEZzZxTURfckZQNkJFbVU3ZDdLcy04bUdhS0twdTJHdnJaM2HSAdwBQVVfeXFMT0RFbjlrVFlSdVRiU2JSN2Y3Qlh3cDFNVmJEa0o0WWJvWEEza2FXNzNRRE0ySzEtOGZmbGVBdkJralJNdFZ5M2prRFJWZ2tvYVNZbFpqR3VvdHVnV1dYOERoWFZUYnp5YkFfajM5TUU3WHZKOWtlUk43aUk1SVlTWktYNjc4X01KQmtrQUtsQnlFM0RObzktbU5CN3ZleFU4bHBERTcwbDhxNDFrSzkzNFdSckJnaWhUYWRnUzg2OTU1NG9IalZ1WGp4ZC0tLU92NFE2cnBITHBNeXJteA?oc=5",
+   "published_utc": "2024-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

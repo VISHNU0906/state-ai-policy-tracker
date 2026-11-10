@@ -1,0 +1,69 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Tamil Nadu govt launches AI-enabled panic button, CCTV surveillance in 500 Chennai buses",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUIwcnNuajhiM2tfcFdLQ29RRlZFb3dJT21xejRaMEtVSzBxSEVhcHFFY1FzRUltakMzWGF5b3czcl9lUmhnc0xfMk1HNmExaEZjZWttV3hyX2pVQ0RSU2ZhdXI3aVJabEo3LTBYMnV4bHJBa1Exc2V5aTdETzk4c2s0UGQwX1pLMmhhcVBJeEtvVmhRdGxRSjJVV3VHV21yQWh3aGlQcGhiNlllTTNNOHdPT2hFTWMwbjFxeVVXN1RHazZweVNMcWRmOVpMaTJnWFpiTzFjc3lyUC0ySnfSAeQBQVVfeXFMUC1IYklyLWFSQm0yZDNGVlVzZ05WSzBzN2g1VERpU3BHQWNud0ozamdscmNqQWd1b3RxRU0zLU5lemt0V2owMFVmZW10QUxORWJoNWxrcGJpWnAyemhUTDZ0ZmFzcW1IMVJBbUcyQmtHUnFLQl9iRlpfY2h4bmIzajBCOWJ4Qjd1YWZma19VeDJhSGp6cXQtaHVCZ0VnbDNWbVFjNmJqNUllcGxnaE9HX1pEN1lLNWlTT3dSZGpyZV9jelZmb04zeVYtTEk1ZFU3NUtYczg1dm11YlF2Q3k1T0NlM19T?oc=5",
+   "published_utc": "2022-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN launches AI-enabled panic button in buses for women",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmtMdm5pdXc5OEVfNm1NUTE4a2tqOXFIYmFIQU5wODlEUEwyYTNvY3RPc1poYUM5WXdQcVhoSFNaYzFtQXFPcWhOZ090dDN1Z3MyV0F0ZnhfdnBSOTBRQ2RxTXRqeWZUdTBzTDdKRVhOSmxrM3lsWlAtMmF6akw2VkN2ODFudjRNVkE?oc=5",
+   "published_utc": "2022-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "191 schemes can now be availed of online in TN: Mano Thangaraj",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0ZpUHZfdGdVWEIxdmJ1ZXBVZmF0eDJ1ZEU1Uy05MHRLRWdURHdfX01aNnNFaGxiTHZLMVN5aFNMUk5ibXBYbFAxc2RNeUhsS05fWURrMENrc1QyZXRGRFNvMU5xT1FsMFU4c2dMZFZZZHJQaFpYVW5aOUYzakQ5QWhmN2xYMFktR2M5NGhQMjRlU2t5V1NrbU1DcG43aHNwQUVaT0poSWp1THFQNE1zSHNGYTIxcXZJS0pzNUx2cFRFLWg5Ylp6dUNhSUdNTGF0TXfSAd8BQVVfeXFMTkFJTWhSakxSamJBQlRvaXpHRGhRdEF1eGJSWVEyck1KM1o4N1RTLUppV0taOGtUQWdGeW9ubGFVZFlYYkktMDNYbzczT29ZdHBHYm9oQ1lMbmdGajRhaldRQWdnYnpfX1pUeUdwOVB4UldwYnJYMG44SHdEZ3hxMnBvMHB4a21WY0IzUU96QWllQ0VUMHFCVHpzQU05NG9ocUpLbTJwS0pVaG1GcFBEOHBfTGxBckFiTG5UYmtIVF9RLXpVSDBMREJCOFFUZjNLNDR0aC1nSnFMZjBab3FtWQ?oc=5",
+   "published_utc": "2022-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to install ANPR cameras to trace stolen vehicles: CM Stalin",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM19wY1UtSGJSYTdDSUtiREMyYy1JLXJoeUFaZlNBOVJDNENwRlA4cm4yaFFuZTBjWjh1WThST0EybWtQX0tJbWpzTlZ3TnhkSm5VSV9pcXBKQzQ4WVh5UjEyWVN2ZE9OLU0xNTBxVS14VGxQeGczeUNjdzZVRW5mSkZTYnp1LUZrMU9QNW5uMTQzUHRDWEtEYzJWc1JJZkNxQlZ1ZGlycFhCUEZ3ZnNxdlpPdHRwOXFwbjlyTG5GcjJ6RjNwQTVkaFM5VEo3NV80ME9YQ3dsbjZ6QdIB3gFBVV95cUxPcjZjaUgyZW85RFZrdnpFS0JXNF92Y3cySTVDc1lsZ3Q2ZFU4NTFacnpvNDdRV2ZEdmJTdUkzcm5pX0FqTTNjVnJnbDgtRk5SSjBWaGphWVdPLU1QeVJUQURDS3JoUHNsT05RM01TLU5YR3JNQjMxVlFsNEZWZ0FwSTJWaTJPX3ZpYW5kMnFyRVJFR21ienRHZ0FPNmZ2Vm0ySmZxaUNHUWVXNUpITFEtUEJqWVNDWUlaQnQ1Q0lZT3d2ZHpYOEU1UVNxNHp6U20zcGVKZlFBRVlnYUg2SUE?oc=5",
+   "published_utc": "2022-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: PM Modi To Launch 11 Projects Worth Rs. 28,500 crore Including Chennai-Bengaluru Expressway, Port-Maduravoyal Elevated Road, Rail Station Redevelopment And MMLP",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPeEFCWEJKeDY5MWYwVEYyOTYyREg3MDdWRi0zZGJMM21BUUs1dHZ3aVdSbTZYaDlIZE1EeW1TdExnVHNSSTJaMkVSSzB4aXpYNlBua3U5ZkVlMnRJaUZmMVRUU0xLMExPQ19MZG9zaF9Kc2xva3RzQTk2Y1hya1JIdDNHdzJmcU5YZV9tVmU4TXlfdVJTNzh6d3ZMd3J5ck9HS2p6YXFjRnVXd25RUWt0akttSW44d3dTVE4zZk40R29OYmFjNDRqa284VDdGYm52VXN1TjJOVXpUSk05RkhpVnZYLV9qOFBvWjdmTXJXNmVPTnh5RXp2UnlvTWFyRUZyXzZVRjAtaXpPVy1GaHgxWjhHU1F3QjFxMXNDQWVuc19ERzRnNlRJNTB4ZFAtTVnSAb8CQVVfeXFMTzd4N2xOSVlJRjItYlBER25Uc3FGMGJ5SmYyY2ZZaE53ZzJKZFREQ2t4SkI3aFBUcWpvR1BSSGdNZU5FRlA2d1dlcUNfX3k5cG8wRVM1OE40UmIxdmRVM05vdU5JRUJtYkZNWG53X0t2MklaeXFlQWljVmhVcmRST3pZdWlGX3JUZ2V4cTN3eTRpSktFUGI4Rm05N05yREVUeU9VSTh2YmZUSkd2cE9BMEVHZC1ucGNsOUtFUDktN0k0ZDNsV1p6ZGw0RTZ4Tm9ORDYxYmdIVFE0a2l3U0N4aHFKRzVQSV9xdmhlYWdpSnZvckJYQVBkd1lXTHNYVDlYaWtNemFQZEFrSk1hSDJPZml3T3NXNno4QnU1b1QzaHEtWEVGektWRE1aUHR3RThvcGdTclIyNHV2U1htYWNDbw?oc=5",
+   "published_utc": "2022-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu's tech-solutions hub to come up at Chennai's Anna University",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFVVbjdVWG9Mb3BkR1pqaWE0RWhlOU45Q3Q4UXZPa0U5NFh4UEtkZDA3Mkd5MkZ3THJCdUpoSV8zV0Q3Y3hHRU50eUt0czFsekE2M3NVdk1aTWNRc3FzUW4zM2M0RTkwdWhnbVNpZjU3MWtqeXhTRF92NmJzZG1tTzIzSHc0Y0tEZjFYSkVJMmlNZjM5MElrZmRrc1NFX21LQ3ZrNkI5OWp2NmhjUWw0M01QOTdGYURYOG5Db1pEclROWTNiWGh0QS14NmsyZUx0LVNUUUZJNEnSAeYBQVVfeXFMTV9mZEdjaXBna2w4OHY1NTZkbVh3dHRCNFFPYTgtMm9GS0YtcVM2T0J0aU1rNXA4cTZ3NHNkQjlNNnVBTmZHWjNCVkpseU1wUXd2TmNUT1dyOHBmWE9PWFM4ZVhXR0xDcUsybC1CWURyU2ZydHRQbXlNd0xfNlV4dndWbmRVNzBPNUxLc280LW9tM09PS0t6VTNuN2h0bU9tV2d5XzJoYUxoWGg4b1J2bUVhZ3ctdEhBSkFpeXlORXFTVU9LRy14TVNmbnRwY2xpVTRtUXlxQ0VScmk1dXB0R1lHNlZDRGc?oc=5",
+   "published_utc": "2022-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "E-sevai 2.0: Tamil Nadu govt developing new citizen-centric web portal",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmtHNjh5emZiNTdFT2gwOEhxUjZRWWRJYWxGQmwxdzB2NkRQT0pqQ09WZE15dk02d1ZWT0JFS0ZRR1ZfWWFMMGFWZ0JwQ3ZUQVFtZFJ0aXAzZUhmQVgwYUUtSjB0ZXY2SERLNC0tQ0dwNDZlRUttdlVDc3NKcDQ4YU1VcVVhaXV4Y1VvQXJad0p0VGFLX2U4NkpEUlRkRGFySzVfd3FGZkRxSlVQMFlUa05YUXBhTDVmaU9NUU4xX01sNWhsZ3I5NkhzTE5uSUMtOXZSRTJTQmVEdDc5bHfSAeIBQVVfeXFMUHJSMC1RaUdtV3FEVy1YV3lSRWNhVUdFRXpTU01QZmVhZGJUUk5PN0JQaW1NQXJXdllXV05Lb2N3Nld4WjdlY28ybDMzcHNiczhQUTU4cG1NX2VrcUdMUUFTdVdaUTJYV2tta0FRc0t1eHoyTE10ME5ZOXJHOXo1Z09GdHRqYWZnMlNQLXJ1cHhqRno0ZllKU3hnNS1WcHhnS3hyX0htZDM0b3FYcW9ncDc3RjR0VVZDUmpkeEFPdmpETlV2NlR4UzdkT2RtSk1idFEtekdWeFpfMmJiajR3M0VDZw?oc=5",
+   "published_utc": "2022-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt signs MoU with Google to facilitate english learning for state-run school students",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdWpVaGV6Mk42clFjWXhRQlJVWUJTZnNMamI2bGx1cEVLSGdYazJuOGdyRkJNYl9ENExnWUUwUWh2cms4eDJUYXdMQVNISGZUbVJBUUtOWHRWZFNoZEZaR1MzZEtjd3R4WWhvTnRFRjhGdEh3NS1xdzVFSUJvNElRaVQ1Z2tfTFpIdHlfTG1kU2Q0VWl6VWpnSEJNWnRQTVNqUUduWGxBQ1NKLW1zbkNtWVlLNDJXeUpVNmJJR1NYQXFXUUgxQU5qOEQ5RjA3VXd1SlliRDRuRG5kMTVPY0laNVVtNHVlb01yNFHSAfABQVVfeXFMTmdiTHg0eVFYLV91dTREdGJ3X1JDY2tJQ0wxcHgycWlIVFEwby1CdEdKbmh6d2d6eTRsSlJSUXcyTGs4TUMyc1B4bVhZbXY0ZXIxYjRtUVplaktLMm0ybFFhalRSR2RldU9fUnUwVjJWenpEcDhzWDlfTDlMeHdqN3BUWHYwc3NzNU1SNHFqbmpYTEpRUWJ0bWZCUTNCclFBTWs1OVF5OEc2MEFKbW9FSWpnb3gtRjBOXzJEY04zcF9KMHFUS1JaVmZNbDhHeG1BUVZWV0NBOU5FUFFBYlNNcnhsMmRIRmNzdzBaWjR4RUM5?oc=5",
+   "published_utc": "2022-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

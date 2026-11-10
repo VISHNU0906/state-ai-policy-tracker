@@ -1,0 +1,53 @@
+{
+ "query": "\"Gujarat\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Gujarat govt to set up AI centre of excellence to provide industry-ready skilled talent for emerging technol..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMkRuck4yVXFrRV96VVdaOVpPQ3pzMGFjdmEyNDEzTFUtREc2aklHTWRwbDBHdHVMUEsyaVZja05wSC1YLTJsNTgxWFVyMk5QSUhCVVF3SnZFQXN4TkxNVGpnZUJKMGRVclp6LWZmNlBtRHh5TkI2QjNlZ2R6MktqLWcwRDRSTlVFMGI0VEN0U25jWG9NeEdCSWhXamJPT3lYSWFuaXJSQi1fSTFmbVc3V1g3a3VfUHREUHJ2RzYtVWdmeFoyVU1HM2RnakU0aGpZaEN0YmZkRTR2RUI5c3phTUJkRldZc2VIYTNMMUtzMEp6bUhzWllpWTlianR3bTNsNWsyWEJLV2ozbUxuSGdpTV9OSGF5dFVr0gGcAkFVX3lxTE5qYkp1MGFnZWV6RnBIdUdOUHNRUndXQUZYZGVKeEFZQW1tWVVpZU9QMW02Q05wOER3QkdETklhcF94UUZfbVNjSFp0am50QlpXR0xzbTh4d2NOeW5LSlVFVjc3V2xpck44SWlXdEowWEJVMk5tVHp5TjVfYnk4clVFZjVCUDJTSHNza3VfdHR4b3AycURSRUp4d1ZZMVlGWlp3Sjd5Q3I5M3Qxd3pjd2RVVVFDRHpJNlN6VktvcTVqTEpJRGtweWN2NjFITXZWZHlOVDlvUlprcVlOLXBCZ2pqV3pBS1g0SmFEa1BFcDNmWEN5eFBCX0kxN1pCWFdGcDdHQWxYejVpWVhyRDhRMWRQMndHYUF3dDBaV3Zn?oc=5",
+   "published_utc": "2022-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat CM Bhupendra Patel Launches New Biotechnology Policy",
+   "source_name": "Equitypandit",
+   "source_domain": "https://www.equitypandit.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2ZaaHBKcE5NNHh4RWdQUVNFTGFSYUtkOXNDbktiOXl0OHZabXJHWFVzUXV0ZWxqdllIU3BBaC11VDB2ZDNOVzc1ZEREb2lDZER5LXdrVnpSaHkzV1lmaExYU1g2dDE4Y1BES09NRzVxLXZYYVdHTVNPLTA4NDJaQ3dCM0tTRU96cVd2azRNOEdFODJZ?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Budgetary trends for drinking water in Gujarat: Special focus on tribal communities",
+   "source_name": "India Water Portal",
+   "source_domain": "https://www.indiawaterportal.org",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFNGeGFYN2xibzJjajZvZ2RaQWNQRUYxaTJKOHJnRUtaSm16MGpncXBLRXFYdGJrWFY2c3drVmNTaWEzemViZG9SY3hkSzdsU2pqREJJMFppLXAtYW9kQUUtRjk4Y011WEN2UWtIeG1hQlU5cFZXRXp5S0Eyb0J0Wm82M2JDVlhycm5PazBFWWYyeTBzYlV4ZmxfNzdDbnVkTHV5M3hBVkRmaGRoQnI4aEl3N0I1cjZNaW4xOdIBygFBVV95cUxNbmtYREoxRWVjcWRpZFI1RXFmZHpkRVhOLXB4MXlEVnVyb0hSejdVeGtWTWN2RFJkN3JVQjlNQmwzblV2c0pDYlNBQkQ5NG1qYVMwRUdod3c4UHFEUm9UcFN0cURIUUJ6RS1uRGllOXpaalY5emxNTnR6WGJkZExHUkxQUVhHbTd5XzRSWkxRMURIS1R1M0ZGVWpyZWxCc19xV0daMWJ2TndxdlY3SldzRkpPOU1JUXJFc1lybmU3aW9zT2p2RmphYmJB?oc=5",
+   "published_utc": "2022-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress Seeks Supreme Court Probe In Alleged Rs 6,000 Crore Gujarat Coal Scam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGRzQzdiekc1NnJWRFBiTlIzSXJGeUktQ0tvX21mR3FuV3l2MVh5TXozek5wOFpxWUdvQjJSVHVWWTJ3Z25ab25LakNSemFGS1NEZ2c0aGNkcGYtODJnX3FBSlZfc2F6UXdidDFfbEt0MWxFSl9xYnpYUy1Vdkd6eXRPWC12azhKWDJxRzZ5X2QwcFlvVWZfVGFrWHluMldnd2k2ZmhiVHA3WTczSGJtZQ?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Imagine the chaos’: Gujarat HC judge advises against summons to SRK in 2017 stampede case",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQXzRBcjdBWHA5SGpqVjlBQklYZTFVWlFaMmdqUkhkX1FCOHZTOFZTWlNLZ2FvZXRkeS04dG5Bbm9pX19GdzJLaURxLXNhUEc4MF8wXzd6U0s2T2o0OUg4UU5NaldUZlRMVk9sTlBjX3JmbFFHQkQxeS1sNjFadjhDVTNaYThuY0swTVktSFZpRXp0d25ObU40MXpPaFNFQ0JUWmtzbjRGSExGUG5mMXRIaTZFQ2tSRThyX1V6Z3FIUnM2YVNXNnRNZ1Y5eWFsUm5JUEpIWGVpNHJUTGRLUjdLMdIB5wFBVV95cUxONkZqZjJySnFmU3Q3MFljTWZRY2tRVHNoZ000cVFZSUw4Zm44Sl8tdm1EbGNTXzJDaFJNM3hUaWo4VTdBN2FaaVp4U1JCZDJCQnBnTlhvSzBVbDhYYnBZcXE1eTZ3V2pYaWsyRXlPQ1pKbWtYMGV2djBPSXFzNFNQMjJFUGZjTVZBWkhKU0RVQzVWcDFDQnZibVMzWFhqbk1UMGlITmN0aXBMT2xlLXU1NUdUSGdjUVp2VnB5bU1tanJ5dldwWlRnU2lrRTRZYVpVRk5tM3lzVHhsTzNWbldCR3NBSE1QbkE?oc=5",
+   "published_utc": "2022-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat: SIMBA to give distinct identity to each Asiatic lion",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3p2clhDYW4tLXpiNDZiLUwxMUdMc2FQckVyVWlCbDlra1RMSkpHLU16VmNwWkhWeTAzcWZZQjE0LTR3UHY1NG5tMGdoc0R2dmxfTk5pc1p0bUI0cGttZXI3cTdFWWUySmsweXV6ckl5QzhWeExORjJmTW50bnhseU50TUhzQU5fUlowQ2JSNWVZYjNNNmtraTRRRFctc1ctSGVtNy00MjkteUszOHR6TWVRMmpRRFR0bG9uV0FnbFJNSFZFZE56QUR2UGJJb1h1VGfSAdcBQVVfeXFMUFZJNmhGcUttZ2FMV2hoLWRrLV9HV0N4MktoQnUwcVdBalNHOUFhZWtJV3BCMWhQUWtCRmZNV2J1SnpGZE9mX1ZxTUxmNEpBUlA1c2lyazdPVHQ5R1lkYTBIM3NwT3hrdWh6UHlfZzBCZkh1SVJCb0tmdEt1ZTd6UlhsdlJFeUJuYzNJMG41VTZoNFhHODFkTzZOZFQzTTdJNkh0dGFMczQ5ZmJfRVhSZVpXUXZJZVJJZGNwUW5oM1F4TWVsdXdsN3BXdm5CT2hiTGFTSmExWWM?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

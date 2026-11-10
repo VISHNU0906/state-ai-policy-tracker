@@ -1,0 +1,45 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "UP to build India’s first AI city in Lucknow",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ETENLOFItWnk2MkNvalI3VFh0WVZZOTJzeXZneVhnRk9GdVdwcTJUUjVZUGthNGxkek1ZWGtTWUY5NWE2a0pqN2MydXl1VVZjS2tDM2xSLUpSZTItemVfV1dNSU9yVWcxa0lHY0pOVl9CS1BBekxjNFFYX1I?oc=5",
+   "published_utc": "2024-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Dials AI After Security Alert Ahead Of Ram Temple Event",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTB2RU51b0Nia05RQ1VqZ3pvVjhWU056UGd3UzlDOGNZajZWX28yRGtZQ25uX05KVjMyemxYZXRxd1ZzbDVNaTFMNkpUM0RKbV9uZ0ZKREd4UFdhMDU2NHQxR05QVHVKYWhZeks3ZUllaGdMSWMxTFVCaE94Y3FSTGdlaHdPR0xmUWhaMEx1azlybnVIZ202MmxiblVULXE5bnRLQWlWSW54R1UyQ1Z6UHU3MnFFTFBnODB4OE9DRW9XdWphOHZCdWdB0gHSAUFVX3lxTE5yZktrdFNIeW16RlY2LWZTUnFpb1phc2FrU3ViYVFLM24zMG9ZcWZCcHJMTC1neTNaejRESFIyTW8zU1ZYQVpzVk1ETTExS0xpcXdtT3hlT2VVWVhQa2FSRTREcktMclVmZWJFdlo5cjZKdjZ2dXVCZGdLR05TZ2FaTlpmVUVyd0cySjdvZ3RveUh5TXdGZjRqVFJYN2g0aVFfdGlPTzVLTE5RLV9DYlJ1UmdpeVZ4Wkh5R2FwTS15TWVNdHZQa2p1ZkdtZEE2Sy15QQ?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ram Mandir: UP govt lines up Rs 85,000 crore investment for redevelopment of Ayodhya",
+   "source_name": "bfsi.economictimes.indiatimes.com",
+   "source_domain": "https://bfsi.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVlFRU9VWjZ1MFE3V0poV2JvVVBvdDdCTHFQR2trVUpISXRXam4xVnlMcUZhY2RQYk5tdTRUbzliNWVXRTNIbmJIbmQ4U3lrbTdERmx2TkVDNlFBb0F3Y3pmdXI0LW52aG9iemV6T0F4Yk5KRjA0cFdGYmxWMlE3cWtkR0JYS1pYZUxGOTRUbjJ2b1dKZ3NTWm1ZN3RMN21SbW9vSkV2OFlUNkhPSWJoTTVLRk5uSUxjVEo2MFcyb1Zqb05OcG81V2kzbEdsUUh3OENoR3J30gHbAUFVX3lxTE1QQW9abWl1LXRQZzVaMjNrTHVIQlB0cHRGRm1HcWVCcVlwWW1CbmQ1Z2NsSVZUTm40WHNhRHdaZDgxazBzdEp3SHNkcFllMG1Vb3JrR0QyaWU0NXVQXzhqd21meFdlQjhWeEFVcTZQUVRCOGU4LUdCd2dwNXF2Q25zMENxUm11WnBpV0Q0YW92TXBQN1J3V09YUko4YkRYajE5TTVidUhxVVdOZXNHV2dqMU1kWmFyMmhKbTQ3MndYaUlmZ2YtNjF2LW9Rdm8wR3VWNFVUV1dwcTg0WQ?oc=5",
+   "published_utc": "2024-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh to invest Rs 8,000 crore in 1,400-acre bulk drug park",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNDU4TjZfTEZZVUtMY2c3NVFWT1dkOUhNak1GWF8yaVRBYzUyMUpIa2FrOEJsQ3g3ck5VWERyRDViZEEzczAyem5FS3lGR0VtZ18xMEwyM3NFbXlLV2pMMlg4TWhlaG1WVVYwWC1ya0tTVTNsQmYyUGJNRUpfMUw3cUd6cE1TVUlxM2RORE5rRF90UUl4MW9kcXdTcVlkMHhyb2dhNmUtLWlwMmFZSXpSNnU0ODBzSERsbkJ4LXd2dUlhMEI0aHRyZEd0dDZPa21a0gHWAUFVX3lxTFBVLXNNbF9QdUpWcWgtLXJTdmdmdEQ3bjdVcjkwelpzTXZMM18wOE9Rb1VYRFRGbFA4a0sxUHNOOUNxaXZGbkN6dG9WYWRJUmJDZWpqU1lMQV90UWxkMHl6eTUydnZsQW1ZbW5YanRaUmdCclhscGIxWVBfTjI4STJTWVY0eU1WSlQxSGdDTXRFMEJnbEFXYWhjUXZRYXo2WC16T01FbDlTSmRoTFpOQlByUlhuVTNlaEVYV1ZDbk9kUGd2SzFUd2VURldnVm0tc3hOUjVoQ0E?oc=5",
+   "published_utc": "2024-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Prashant Kumar appointed as new acting DGP of Uttar Pradesh",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2djYU9QRG1BVEcwbEFSN2RzemR6M3ZucnFfemdyQ3VCM1gzLVQwZmUwQzZLQmVpSkJLTE9wdDBjNlNVVHBReWNUWC1DSXVuWnpobEt4VHpZM2ZZVWFvNzR0enZlVU54S09CemxoMUVGRmN2Q04yOGJna1hFeXJQbmZrdVVtV2xZQVk1djBVVnVmUW5WYmJ3UGNITGtkQTdpNk1RVmRIdVRIQTNEUFZPZHBmVTFtZFhhTHRFTTEzRWF6UdIBxwFBVV95cUxPS0JhdWtOTVFOM0pZN3c2NXYwTU8taHRMc1ZxeHpmNk0yRHhLQWNScl9MNjZvaGNKQi11REN3VmdmNlRoenlWY0wzQ0NONENmaTlfZUJYdWNuMUIwbVVLeGtaMjl5RnZ5enhPOTVRMmoxNVBXal9MX2xTQVZ4MFBXQklxeDRqMEpNQW9FVDl2d0kyR3QxeURXRVZyQmpIWlJZWGtnODFNazRnVVZ5TkxfV254U0VEbGZmRHU2eEY5SnNjaWxUT3ZJ?oc=5",
+   "published_utc": "2024-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

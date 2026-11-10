@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Bangalore to Remain a Key Growth Market for Data Centres",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RSVNNUGJpUTlZNU45YU5XeDJjdlZna2YtUGlUR3VfTzc3clZjb3JsMnVzdEV6MWpXZXkwYmVVRzhOZ2hhTS1GTjBvTlhDb1Y5N09EYWZSY0stOGo5al9BR2gxamFIS2dLTzZra2ZqXy0wRVRxd1ZrdFh0ZXNQZw?oc=5",
+   "published_utc": "2022-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oil India ropes in Juniper to build scalable, resilient data center and campus networks",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekN5Q0RiYzRLMWdJa05sYXFTU2lJWE1xXzNlOVFpM0FqdWRqcU5fOTk0dGx5OVJRZWxjVmExRlZDOExTRm5IYUd2bktqaGtEQnhSR3FyU1REQ1QweTZQeUU5NElaUVkzN0ctUG12ZmwxUkdDNFBQbFJZSXVkV3JjX2h4Z1ZJS2c4VkxkRDFKdmdOVWRNRW5CRlRId0RVNVdiWnFZX0ZQenpMU3NfRFFfR3Z0OGZiWVg2VEhPUjhYbW1KbmlsYnhQaWhNcld5aE5ib1FRanBEbFc1RWpIckdYcXFXYjZRYWvSAesBQVVfeXFMUEM0YTN3RlBBZlo3R3ZIU3dUcW56SUdvV3JJaWNsRlhHY1RFdUdGYjVNYzlFSHRTaUg5YnFNcWdwNHE4S2dLRVRLUG5rVnBfeXZsSUNwS2laaU5DZmFCNDdmUHRndnJhWjJnOXV6anVPTnBpa2l3Vk54WnZ4NGp2bFhucWpCeFRDT3ZfMERROGlROUcyZUFHQ083YmNkSXlqdGJDNEEzd2ZkR0pjUGtfVHpJTXFBdHVqMEdGaWRkeTRzZ2VqYXpMNHppVlQ2NUxVS1d0ZE9CNjU2SW5ROTJSLTJEWDAxT1dhNENVWQ?oc=5",
+   "published_utc": "2022-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

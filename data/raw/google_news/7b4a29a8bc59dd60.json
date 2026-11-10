@@ -1,0 +1,29 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Andhra CM lays foundation stone for Mulapeta Port in Srikakulam",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnYxekhPWVVBYXVxYS0xU19OdnhiNG8tNk5LS2k4VXJzZG1JUEJjUjdWWlZjZnZtc3YyX3ZadGd0VmtsWHpDVWYzdGV0cjFHSzZGQlhoNkNCdnJ6eWVfZ0ZMcjR3cnRxTVZaSGs5TkJZdXhJTG15Z1p6NUhYT0doZTE5WkJTMXhQdzh4X1B2Y1B1ZFc2WTd1RWpfajdlaVI2QjNfYW1hUHFmRXVtV2pTQVk2V19hZHhjLWN3UlhDalFmXzNhaC1IcGlUVjJXN3N60gHUAUFVX3lxTFBEU0Z4UWFjZHcxbTFHalhLZFlzVmktUHF5MzdySWlNU2M1S0t3bG1QaG5kcW9WRVhQMGJWTVBRZnBVZ2xjZHJfcGo4LTlxTlczLVlfRm80Ql9wMDJadjdqbjUxSXBOdmQtX2ExQTFOLTJhZE5rX2ZGemJ1THh4Yi1ZWUZGX3h3Umo0bF9sb2N3RkNELUE2Z29NQ05nLTh4bnYwVW1fQXVteE1zWlMxUXNKcDAtNktGaEktdUZOQUI0QVBFTmZLcHYwWWNRR3lmbDB1azFv?oc=5",
+   "published_utc": "2023-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra: Vishwa Samudra Group To Begin Work On Rs 3600 Crore Greenfield Port At Bhavanapadu Village In Srikakulam This Month",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY2h2azVDYWtCbGI4ZDNnV056NFJGaFJUTld5VFZmS0hZX1lCeE9KcGNmamQxUkxpeUZCVmkzRGJKcG9HNTRTbDkwYzNyQXZtX2tVR0o1VTJwdGpuT1RqYVBFYXduYnR6Wm9VTGduWjE1cUMtblFOYTEwQ3RhSmZDcG9lYkNrSTB6bkVrT2tKN05LTmN5SXFFZVZISU5pMUJpTVVOQ2VUZkZJUnVadS0wM1UyYTd4Q2VQb0Yzb2xIS0JaR2E3dkNnMlNkalA2SXBsRGN1S3FIVU1NbXVxSndnTHNOdWJyLTFSbFVKNW930gH-AUFVX3lxTFBPNTh0TkM0VGNwUmx1aTQzSmg5eDF2aFpnRllsRlMtTjk1dUNsajZtb2VhRExFcXhoU2VWTTJQYnZ1alFMT3UxbUw3SXdsTjE0LXlxMkYzT0JGYlNMdzFsSUh5cDlYWmJFaTBGN0dHNUtLZWktVmVycWFVYWJRWVBhQTFzZFBmSTdVVTJTNnBZTWNWYndSZ1o2X29zZWRNREV5aE5PdU9rekxDQXVrVThCN1lHLVl2ZTNOTnE0RXNxU3NOXzBwM2dzcGNEc2d4VF9naHN5bEg4VldCd21GcmxWRGc0dXVWbWJQN0oxS21TVFZVRVl5Y2RUMWhWemtR?oc=5",
+   "published_utc": "2023-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Former Chief Minister of united AP likely to join BJP on Friday",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNjNzVjl0WGJNRzNDNFdZYW5fUUpZWG1NNDIydGRVTEx1S3dnMUV5ejJWckktalUwZm1wRzhhM0JmLUdmRFhhTDRuLTNYMDFQa01xUm5vRWVZbGpUYkxPWlpLSXEzcHR0OU9kRU5GSjVCUmFMdXpTMXV3N1dsRlFNZ0huRmpXejktZ0pTODk5OWtZMFNUZ2k5N09MWDFsT0lCbTl4aXpWckFQbzhBdkl3Y0RrNnhxWmV6QklwS19XODFkR3FGMkoxQQ?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

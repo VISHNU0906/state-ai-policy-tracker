@@ -1,0 +1,61 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Odisha Govt using artificial intelligence for safe and efficient mining",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjlTQkYzWmV5VHAtMUZCMHJDTXktUF9rLVhtamRrUTBpc21YRU1hUDNUbmJKdHhYd1RoTk1RUExZVklRcHZXZnZyOE9DNWRHOE9lRUNWdWtGZGQ3NXdMWUZsSFRHd1BzSlpubV9QVWhvdWNqdjhzc0l1U2Q1SWw4eE5IM0U1bWNIOWM5ajFKX1psdUNLenpmNmdyNXdTYlNN?oc=5",
+   "published_utc": "2022-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RailTel Secures Order Worth Over Rs 122 Crore To Upgrade Odisha's IT Network",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkpnall5ZEx5aXhBYkdoRVZpSlVWMXMyaUZuOXNDNk9JYmwtUEdkaElLWWhGT3UtdkNidXBkYTcyRWlWV3YtODl0N2o5LUswdmQzalNBNXFqdk5mQmVYVlA5SFRZNzBsa1lSS2ZGLWZuQVhtMzlXWGNTdnBSM3o0bmM4ZFU0VWdkNFpDZlZib2VHalBKSGNSUml2N0kySDMwQkxEbk92Mm9DVGljSk930gG_AUFVX3lxTE5UUWFyVUVRZnJhYWZWMFhXd2hNajN0REZQdzZ3by1BWkZjVXFiMFZ5Q0NrblBZMmpqZEZKN3ZSc2ZzNldvY21sLVJVRjlUbFZocm1qajMtZXF5TnJ6TndSNzJWUHlNT3h0MnFNcFN4MGgtOTE3aWpHem9lNGRka2tsOEF1dkdRdGJiaEUtQWZYdnYwd3JYSWI5REI4Nmt0eEVpam5zTWxCYlo3QmxDSU0ta0pKRjhiM21wOVdBSElv?oc=5",
+   "published_utc": "2022-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhubaneswar has become a pre-eminent IT centre in eastern India: Odisha IT Minister Tusharkanti Behera",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRU9nS2FvdXhlV09CS2hxa2tYMGs4RnFEMEVVTl9ydXlselJNZjhFQzVCNGhuOXNOdzVLdTctTWU0YUZUdE5Fc1g2Z3FUVVFOT0xYMG1aOEg2NlZxUzl5WGtXTjE1ZUpyV0VhTXYwdGNKNjh0dHFncnMxUmk3cE1iSWRNcjZxTTF3WXZmUGY5dUF1OEdoREJlRDBDUERvV3FuOWlZaTdFTy1kSUE0dmNLREJ3bkhvaWNzS1BkWUNGVU1IWldGSDNwbEhxWmViWmlkSTJqSkdaQ1hrQ2dNeUdYQWxQY1NZcE11VkFnbVlKWnlUMm5YTFF4a1B1bWZST0FNNWpyc9IBigJBVV95cUxPc0Vjbm1EMGg4b016Y0tDM1NpUV9FeW9XbnJtcy1SdGExeWtLRVgwQmNmeHZnVGhRV010Zndsa2stT2g5dVR2OFpXNXFWLXNrQnF2WlZ5amhPWndyRmRfaVpudmRYdE9RODhRQkx4NkFYZnFrby1KQ1lIa3JuQWRMR3hYUXJyaVppMjhEaXJTNE9janhidkNkYTUycWMwTE1VdjBGWVJNSGN1ZWJVVzNTVzN4YWwyY0xYamhUU3dJbkZldzNFYmNXYjM2X3k3UlcxdXhZa19aN2hNMVhocWRMcTZoOFZpVmdoM3R4Xy10QUtxY3RwS1VoNXJYb3pKXzU5ZnFvZ2ZKX0FBQQ?oc=5",
+   "published_utc": "2022-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Rs 14.76 crore earmarked for Puri Rath Yatra",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDRSaGRVU1pSc3otQW5tRzJFOHV6TVdCVUlZUUJFSU1tZ1ljbG1GTm5hQlBiMDJwalhfZElXMURyTERJVTkzTEZsOHRJUHRHaGVFOHNPRnlxOHo1YmZtU3dZXzNCZGZzTUlUUTNwb1dXcVdtYlJHLWhxelFQU1cwUzR5TElhWXZyajJTeUt5akJqcHVPY1VZQW01bFB2QjJGRXfSAacBQVVfeXFMT29fSTVDM3phN19WYVdJa0dOa3lZRG9CRDk2V2YtLWc0TEFlZENfSG5ycTQtVXhteWlsS3RYSy1CdkJlR0FJOC02OEpwR1hSZWlSaGdjNFU4eWlLcmk1SW5sV05HTFY5Wld2RVB4cmcyWXIzSWcyZ0J1bTRwZkZPYk5MY2JnbU51cG9mWFA5N1AxNXF1YzNkSDFWQmVTdkcwd0dkN2JDMW8?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jindal Steel & Power plans largest and greenest steel plant in Odisha",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0xuNFp4dFl1V3lESzhkTVNZbTR6R1NYYlJkMVlCcUZtNVkxOGFjamRoeVhrcE1TSUZwSlp6M0RUajVQUVZKaUw0V016cTZtQ0VoTWJwaUNxYV9ycE1uTy1QZUZoYjVtVzZtUGFJUkdWQlU1a1ZjWGFuTkV1eVc1Z0FzOV9Zb1VsdHlJSFIzRTRRclE5QXpxV19LaVVqTVpYQmFHRHZUekxOQlhKVGFod0tucHZhY1JJTnZWdzB30gHDAUFVX3lxTE1BcE1TWWVpR0FRdjNhWmpwVDVIbWVFXy0zei1pTVhJTS1hbzh4S2VpeDJ4MmpqU1loUm9XUjJSeVhrTDQ0Z2VUbmdFMWhreHF5TjNRVV8wU281WVZBRTRTbXZ2QVpLbFE5aWpNMTNzRjNXa05OVFNSZTZZVnIxd0JRbWlhcVgwbkwwSUJaRXB0ZVdYekJwVnp2aTZVQmNJNmtEOEg2VnFZWGlDSXhocnB2ajl4cFR6S3FoUU0tWmVfbWJDbw?oc=5",
+   "published_utc": "2022-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RINL records 56% YoY rise in turnover at Rs 28,000 crore in FY22",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa0JzRWVkc3ZXRkpBWk5BRFlGd0loSnZjMWE0d1ZSR2ZNWnNtQnZ0OUZLRFMzTlJlR1JTVTg4RWtESWxyT1NsWVBuTkE0dlZWYlF0b1BfMk0ybWZ5THY5N1gtbkFid3FGeHNuVVpQNDhfZWlXeVpkTU1xUXVndWQ2clJ2THJYd3hKclVkS1lLcDh1Q0tmN2dnNmFOLWtQbHFfaWk4V3hEaFJVcTYtdS1pR2VnNkltMU5fSzFDSWRVSmNaLW9hTDBJYUYxMXVqUHdNTUV2YjF30gHQAUFVX3lxTE5YdFh1T0puVGQ5UGRpMl92OER4VkptZ1pvbWZQTTI3VlFrSnFSaHQ4ZTI3MDBOQ3FQOUphRFFBZm1ESHdHTG5oNzdaNTNHZkhGMkUxbURsOVFKdUZrTFJEM1o3c3NIZ3FIMXNlYkxfVEo2YVRpVDZpOXlzS1duenY1YTEwblRpZnZCSll0bGgzU1VqUkhhalFsaU1PYjU5R0h1XzNvT2draHBWN0pHaFQ2Tnh3WkpJek9Ndm9SSkZTUm9PVnBjRmxZWEZXV3N6OEg?oc=5",
+   "published_utc": "2022-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Piramal Foundation pilots automated drones for tuberculosis diagnosis in Odisha",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZEY5OWRHS2RLQndFMVJVTnc4bDAyMi1WT2pTWWQ1UEhCcmVDRlpDZjR3dmt2M3prVGNlbWxoNGNlZ3lRRW9XczJ0VnJIMTFjRGZWdU9wVTNycE92ZlFDOXE0cUhMYWNiczdJNWpYTUd6VFNjTFBOTVlyOFRTRVVHam5RamRtMDFSY3drQmJXUUpja3M3bWNIdWR2bDQybWJKV3pwNFZselVDYWsxNFI2ekQzTDlGcjRqQ2pGUVFNS2E4RWIzVnlGWlAxbnctT3FhWW1xTFJPdWRUN1NRM3fSAeIBQVVfeXFMUExzVFp6SndhV1ZuR2ZxODFlSkFKVXR6dnRvT051VnZjUUM2dnZrM0FpMUYyWkV1OHdrajVwcldvZHpWRTlheFJOVF96MG4zNGkxMFh5RjdMaEV3SDBPMWZFWWlLUHJ0ZFdGb3p0aExRNkt5bGpVZkdMUHhkOUJsVjBBUXlxZk9PM1FHUWFmZGhNSTFxTmo0QmxCY09RSXEtY3U1R3F2OVNBTUJSNHUtOFliMEVLaXZ2SVhVdDNXTU5mdEYzNlhmZHJHSVlCcEhZbmNOdlFRNWR0UkhUT0hzWEtkZw?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

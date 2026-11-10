@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Odisha Police arms itself with AI to identify criminals",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRV9hT20yeXo3WFU3RmxmQVFwZHl0UXJTODhBQ0RDQ3NEMkluMDRmNFoyb0VBekJaUE9JMlFIZFVpQXZDUEt6SHMtdE9ya3VLckxScnR1cFplTnNjUXlvYWdrbjVFVUdXc0dhN1hTYVEtVllDMHVWVF9yVFRqclRZOEpaN1FBeG96QUFOZUhzS05jeVNpcjVOQVlfSmpueHpZWlNjZEJiT2c4dkU0ekFNdzlzeW95TDlzdXNlczZKUUZ6Q0JBeVHSAdMBQVVfeXFMTWg2aUpLOW81ZGtqMFhvUnJJaENhMjg1eEJjVUEwdXpyS0wwMFF3ZF9zZ1g4MkZ1RnJLd1lvbmVyMlpfN2hpQWRXU0tfby1aRkNMcE5hUmlTZkZqS293RGpyVzV5ZmVjVnJUU3hvUV9sSDhFcEhQWnh2MlJGRElOVHl6a3dEVlc0N0FyV1QxYXdybUNnNFNRNldRQUFheDVTOGNFY3BZSDUxNjFLd1VLREp0YmZoYTBKNm9xblNEY1B0dTVEWEVWZTg3ZEJ6cmtuSm9pdw?oc=5",
+   "published_utc": "2023-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIT Rourkela conducted a workshop on 'Artificial Intelligence on Smart City' for school students",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DRGNPQzl4d2FKMWk5M1lqdkh5c1NBLVAwcXFHN0tGWDlIN01FZDMzVUE2OWQtQVhqQlpGdzhSMmhuTkVwbzh4Q1c4ejdRVXhyTWVSMEc0M0V2T0NORmNGVjFjRHpYSm4w?oc=5",
+   "published_utc": "2023-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What’s the problem with Odisha police bringing in facial recognition app to identify criminals?",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmxmWUM5UVJzai10cGVKd1FpeENGU1BMTGdVRjFCLWMzaVlHNWVHN1BtYWFVSGdHSG02Nm1iOFVnSmh0R20ybklicHZzek9jbVd2S1F1Y045d3g5dVJRLTJCTWRmaDExanBLMnZaakNPZnkwUnFFc29mTV9PRl83eg?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha resolves to make state a global skilling hub",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0R6YU81Uk1NZ21aYkNwR2JSTmFTd3B6N1NwemI0eHctLVhQWEhFQWpIbkJSNHd4SlFtTGlrZjAta2o5X3NLQjR3eHpWdFpHTU1fd1lTLWo1RENubEdqY2NBeVlZY2hhNlRMWVFtZmV5cVVTM1BGeXA1LW5qMTZjc0JOQlZXd2FYRHgxS3dOc0lHTE9fLUNNN0pzWnZfZ3ozUjZoeGFyMlJGMjhfZWVsNjFIZUFCeF84eFB6YmdTa092ZFJsWlNSR2FjcEbSAdIBQVVfeXFMUEJwdGFnOTlMQlFTbWkzWGtJZURkNVIySW1XTFZyVjctdUFXWDRJSVA1aDVLY002Y2NWc0dweUdQeTBvNkV5UjBRdkg3V1RaeHFnV28zR3hOdFdzRFZ1eWJyVFlVV3BGVFp5Qm9TWkVaSUhQMjV6QkN1cjFfWjZXb1VGek9zcjV3eUpSMHFpUDJ6RUREZTF3eGJ2eC0xZGJObTBtWkxmT0R5a2Y2cVNWSzBCTmc1TGtlbXZJVC10UFMyalBURXMydGp3LWlmUTdoZnBn?oc=5",
+   "published_utc": "2023-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIT Rourkela conducted a webinar on ‘Artificial Intelligence and Opportunities for New Generation’",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wa3FjVWRfVWxWbGlva2N1a2hpYlpUR2JSOVhCRXhFRloxM3hyOTY1X0JmZ3JmMHRuYUV5Tk05X1JBdDY1SmMtLVJVSUZVV1B0aEZPQUlfdV9tSDRpaFNKSG9Xc2F6WkZt?oc=5",
+   "published_utc": "2023-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha schools to reopen tomorrow with changed timings amid heatwave",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR0NZTTlrTmhCaHFCb2J3UmRHU3FzUk9nYkwyRl9ETWtZTTFzbWc2YTEtVk5DcktXaW5hMEhOQ0ZEMmJpMlI0RkUzeUp4WnY0bGo1SEhLUjJQX0h0c0ZGTVp3Si1BRDVuQWZhREpTeTVHck1UdTBFNnR4VjFXOW1aXzhnVlNjNkZDcHd3RDNDZW1FbUtOVEFVRXJtWHBHRW1NbVhZenRfREdCeUQwc3BnQmFHdDdzU0lyNE5xNVA1eHJGWlpzcnJya0VWLUowOThLbmdYTmJsQjUwTlhK0gHiAUFVX3lxTE44RkgzTE5hOEhjSGJ2Y1R4b215SlpxNldTcGprMkFmZGlOTUczSDFTYUY4dzJyRVMxZkNVcVowYWd2czBETVh3MUY4V2xiczNmUEhRMTBBeGpwd2h0OTM4WlB0NzU4UGpQaHRua29HczFwazVyQkVSWFhSNDVPRUVKX29TbG90MFJnZUdvOGpFbTBsM0FxWk8wbXptTnpib1BSYVo5eWRXNW1GNzNqYkoySkxNVG91WC1HVjIxY1RnOW96TkY1U3RTVWFGNFp5Y1ZBNERjRU5ONUkwWkNJNDlNVkE?oc=5",
+   "published_utc": "2023-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta's land acquisition for university in Odisha quashed by Supreme Court",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTc2bXFBallCRHNvOVV3UEhXS2FNZk5KVUpIeWtIMktDLUpuaFVhYjRTc1IzcHhaZUlLb2Y4N0V0VXp6OWZBd3FCaVFCSnBkRko2aFk1TkxrNFpGZ0ZSMWRSZk84dkRBc0VjcHFWaVk2ZjAwWlN0UV9fdi10U04zU0RPeXRsWXJncVh4OFRpdnZ6MVR3Z3c0d0xrMERpcDZfOG5FUzNHWWNZbVpzYWhqeWs5c1JqTlVGT2fSAb8BQVVfeXFMTVZLdVRscEVSUjB3QlU1clVxNEgzZmlLWDQ3Q2pMRWFPTEJPWFlLRTlQRjNNR2oxMnI1WFdfTUMweE53SE93RlEwMTZLa1JVZXU0blJCYjFQeE1hb1N5M2FXYVRrOG1wS3IyN0hLU3NkMzcyQ2tGNlYyS09OdW9CaVYyc00xOUlUaHpBM1F2LVBjWXE5dDNEbmlyVWstbHJabE5KYmlTbjRra0xzUHZLOFV4c1AxdExGR3EwdzAzOWc?oc=5",
+   "published_utc": "2023-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "President, PM greet people of Odisha on Utkal Dibasa",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQk43dm5sQ1BTX2RTaEFsU2FtSmc2bE83TW03TzZSTzRZTjBiT2JmYzJvU0F1am1NNTFjeGI1LXhMQ2tWOG9sUXZiNFluZ2VSZ3ZBV3ByWVNzV3VjbTRhMHByRXgzbDUtd2FaMjNab3JjVF9GTkJLMzM5STdQcTJfYk9LaGlFMzM3NHVxSlpjS0htU3NkV0ZodEJQa0NWc1hYR2Zz?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odia techies working hard to breach the language divide in Internet",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjNJSkwzX19qZUU0M0lkZC12VWlvSUkyWVp3aUhST08taEV0Z0E0b0xjWWU4c0Njei1xU1VBZlZHdVdocXRnUGpJMUlkMEprUDlZVWxLZ3RuZjZGb1owY0xyM1FVVk9Xbkt1ZVNNU3JFUEVrdkF6QUM3MmZUd0MzSlNCSFp2cXpLYWliVkdUQ1Y0T2hRbTZDRUp0Rmd2N0lfRkNkYkFHMjlXQThtSEZFOUQzRkNWbGVTVXVjVlVKaDRabkJYdndIQWFaRkRkWDZYQ3RSR0hzTWRoU1XSAeABQVVfeXFMUE8tR0x5YXlReFBZMHliNHpCNkFuYkhzOG03bXdVQkRuUE5OLW1Od3QxRC1EUFptcnhQOGhKd0x4QXBoSVlleFJ1Nlo3d2VDSjNCaU5KZFo0QmJxc2RDb05hOU9DcmpadVljeFhKZERwc0drQmFvRTJrazFDWTBaTE5GOW9fU0FPbVJuZ3QzWGw2OEhkTVlDTW9kN3IyTlFOdVFYXzBrMFc4WkhCSXM3b2QtdnUtbGFFX2lTYUNoZVFwN3A3d3dZNXRzYWtqekxRZHJZLTZRUlZLVzhSeXpjOGg?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt allows 4 assured career progressions for medical officers",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlNrQ0NscHRNaUxPNmJSdzdHTGFORFUtVlFXeVFveXFQUTIwNFJaeVc4MmFpcXlnbUx4VHQ1cm5PbmZvdlJPbzFsVHRUTnRrbFA5LW9QZk85cVpvOHBxVmZrNm9PeW1Nd052TmlibXk3dFlCTWI0MDYyZF9NU1EtcTNsV2ZfVXFvU3EwZ0JBT1NRY2hfNDBScUloMEJvS2gtSlFHNnpYc0JPTzAwcWgtNG52TDVjWVRncDBOaFNITmhzZ2VKUXFieHZ2MFhYd2FqZkRHejFuT0V2em94alHSAeMBQVVfeXFMTzFYUW9uSHNVeFRQNjBWN0hWTVh0bHFCNXNmUy1kaHE4V2xKRFgtajdSZFR5V0tTWXJhVXM3aGFQN1BpcFpKYWptS2xaV1kxQWpTMW9XdVo5NmJvZDdqdmE2Z0NKN1o5bXRuVXhzMTBaTm95U1RaWFNrMWdGNU5rMDJQcWNoZmo1T0dKaVBRMWhoY290WDJrX0hXNFk0MEE5RWdBY2RBbHhpSUJfQ0ZncTkycFV1ekJKQUtjbXl5aXFCbnJPYXJ3dUpJb0ZHOW1SRXZoU1J2MGpsNEt2dHFyc2FqM3c?oc=5",
+   "published_utc": "2023-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

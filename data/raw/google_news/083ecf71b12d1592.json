@@ -1,0 +1,53 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Maharashtra: Govt asks universities to offer four-year UG courses in line with NEP",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2J3YXlKT1ZmZlJTM3pTYnBYQUxZMTFOd05zelpPMUlMclVCcERqdEFoaDZQc1B4WS1mNDZMZDdvdjdaRlBKMWpMbkNONkdOZXVBRk10akFFbjBDNko2N2lGcTFsaUExRVIyUXFsRjhRaFlaNnEtdWdtaEtkdW1tMWtnRUhudTNFTDR1b2dzTlJMb3pOOHIwNHVYRTU4VE1pRkVzSlcwUzI2RDFVU2wtVUxJVFNaTGZxVEdIWXdPSmM1dnpERk5MOXRKVEF1eTM1ZmhDWNIB2wFBVV95cUxNYUh2Ukw5THVSRTdpNXk3U09LMDJpcGwwY3dtOXg4bTJudk45MFZrS25JcjJwSFhXU0FfY21BemlIMEY3UDVGUVo2RVFXM2V1T3huVmIwU1FVVzRlMGhaZEZhak1WSmxqZ0pFZHhTbWs5M0Z2cVUxRm1LM01neUNpTUZJQ2doSTctMVI0X2FMdzlSQU5ZRXVnMk9XSEVmYUtBdTMydm5jcDg3Nl9nTDNkZGozM3hRcjRxUHcwSEV3bWVnNUtiNm9FOWtNQXVuVl9hQ2drZVdSbE9vaFU?oc=5",
+   "published_utc": "2022-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Revises Single-Use Plastic Ban: List of Items Now Allowed",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWVwSVhHYXhjZjk3Q21ocXpJb3ZCU3RqVmFGWnpfbUhKaXpPZHp4eW9iWlhxQzRzaFg1eHlwMjNQbWgyQkpPZ3RvaVVLcXhOei03d1BIMlBZNjBlRGJwcjFDcko0NVJZdHhIMy16X3RVMDY0eUNPS2xSZ1ZzaHp4OTFFeElXUUQ5a19nWWhmTUp6a2prdUhwRllXN21HaHFTYVV0V0dBY0RaVGJB?oc=5",
+   "published_utc": "2022-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Viral Video Of Twins Marrying Same Man, Police Investigation",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGJqUzdZb3BNSkxkaEZ4UE12YVhkZjBKVUdRX0pDeWF4RDlRcnpYbzg5RnpoMW1uQk9zc2Nxc0tQVEZCSEdVSWQ1Zkp3WGpsZnJRaHVjNFA3cDhCNjFNQm1wZTB3N0xheGUtMzU4czQzVk10WWx0MVZKcVhHZldkVDFzMHNrZDFSdWNSTTVNczgtNHZ4V0I5cUFoT0FuQlRpYlJ4a1k5aDUtUkQ2RnM3TkF1UVNMYzdqWG5VWtIBxAFBVV95cUxQaUFOai02akYtcHpXcThsWVVNNzlEeWZveFM1c1NkaXhkVC11ekh5Y0wxdFJTcHVIbHRUVFl0UXMyTnhjZ1dZb1ZFalFOTF9janRkeW9YOGhqUzFvNm85aGtZeWJNUHVlQjVPZzBqeTJJYVJ0b01qYVJneTZuUzFhMEROdHNHSkFGQS1mUUJqLVo5NG9ucXZMSEFVRUVTUkM0NDAxWFl5WnVPa2dMQThZNS1tT2hiT3Q5a0lRWkwyc2RzWGRU?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BAMS, BUMS doctors to be employed at Maharashtra PHCs, CHCs at Rs 25,000 pm salary, IMA sees red",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXBnQXE0ZTNtOE5LY042eldyZEYwVmNxTHdrd1FKNGFjUkZwNjBsRVgxQ3RaODFsc25aNEJ5V2VzaHNEM3A3U3FoZ012WDlQX1V4MjVtT0pjaHA5OXNRc1ZWSF9lZVpLRTBZcEV3MTZTYzFoVGxuYm1BWnJFMzA5UjRRTUlKZE1lU09vT21tblVXU2RCSHN5U2phb0w2aFdnM203bU9rajdDNXpBX0ZucHNER3BDUEtfY3plSzdGR2dhYW9talVHZXlUbU5seGg4bkJMTHlGT3d5M09lcW9zU9IB5gFBVV95cUxNdG9kTGlqaFU2UXpIcDVCZFVRMWc3eXJNbUhCVkJRWmZxTXpLM1poVWRkeHZwV0RrblJrT0RqQ3M0LW5vc0drc091cVNQTnlUSTB3VWZXaEJkSElPWUpGRGVhSFlBeE9JMUoxVFJ4eWlyOUhMTG44TWdQaTZhX2ZNVVVib0tHc0RyNXU5aHdJQlp6c3VKOEpuUFNyYW02SUQ4TFFnNko1a0RDZEUxb0FsaUZ1NmhOTU5KY3VRTy01ZmRuUXFpZmZmbFNmdER3Z3hUTVpsWjBoSndzSXBudFZiaHd2cWNzdw?oc=5",
+   "published_utc": "2022-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Many senior IPS officers transferred in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbExkZUhBbVdSTjc4WjhVamtuMUJvbnNJUmtRTmFuWTNIRlFJQlJDOXJsRDhNaGRqXzNzdFROeTVJelpoQU9ELV82SWstTzhRbHlXMXk5ZmE2UmtWS25zU1VqUnJNNHg5QnpxbVVoQW8yRTRRUnpidW1kaGtWOElDNzBjRjVzX3Vsd1VOMkd3OEluanZaN3FUeTFJMnlrbG5HMFktWXhkSzlGOXRq0gGzAUFVX3lxTE41WV9HdGoyY3JfM1FHSlh3UlJVNnAwYkxGLS1YdnFDa2RETFpQbUZrdWlhWEt0Q2VISG5TelBBT0xCUnZSNWxrYkVLa0ZyVkFPQ1BIbkl6c0NUMG1GTl80QlpuNWsyaTZVLS1VWDBoMksyMkNWb1puVzB3dXY4WXRvWlV1RzZzS3A5MmhlMUM4SG1ZUmZIT2dlbUxhZDBFakRvVXJQNFRuTmFNUEs4MmNtQlhz?oc=5",
+   "published_utc": "2022-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Investing in India's Education Market: FDI Policy, Regulation, and Tax Laws",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDZXSEp5OXVrTThSOUpGMDdXOEdTeC1MUFFLY2ZDRHVqQ1FyMnFjSEVOaWFmOUlUdTdUbkpIZnZPeFhXUy1OZjNJSFVzVVNnRzhfM2hPSU1TTzRIZUEtcTQ1UVctVUdRNklKdmhGYmZzV0VUOWxadWpXeGQycWlyZk9lMDlrRXVEZ0lHVllMUE1ZeEtleVBQeGxIUGgzS291aWgtTUdYNUFIbVlZUVZNN0tfbGQ4N1NZODJFeg?oc=5",
+   "published_utc": "2022-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

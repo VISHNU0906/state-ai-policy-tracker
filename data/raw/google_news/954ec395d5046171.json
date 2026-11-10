@@ -1,0 +1,21 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Odisha Govt, RailTel ink MoU to Set up Neutral Submarine Cable Landing Station",
+   "source_name": "Wire & Cable India",
+   "source_domain": "https://www.wirecable.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnkxRS13WDQzc1IwbTZjdzcyNmIwcDh0NURhMXJwbWdFaGI1ZUcxbmhYc2h4UDZNLXBrd1Z3TkNMZEN2VmJfWXo4dDkyZGtuRmFoVmtuUWZZbXl1RDBiVEUzaklJcGFNR21XZUx4bHpraVZoOENURlJDQWd4QVh2S2lHMW9NX0NfZ05aX3BkTllUZG1WOFNsOE9RTHFTemR0X25aT2VR?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta in talks to set up electronics cluster in Odisha",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmZIVmFRcTVXTjFLSTFiaV9wQnpaY1hlY3dRVGRGZl9GbHpZdWRIbXNZMTlIZ2lZOVlycUhVZEo5RjdxMlhQdkhmbWdZQWhzUkFNR1g1NjZzMHlLck9aeUI3NzlSNGtDOUlEbzBkZThzdjZxSGNtQWNwa1FXM2ZWeGt5MDczTXFvSlQ3WEF6U21hSnllN1dRMURyTG9kbFF3LWFxSmdFV3A5cmprb0RXbTdpVGxaWm_SAb4BQVVfeXFMTnlXaUZfYzRFc0NEUFA5OVI4U0V3QTZGQVdvUFo4VUs3RElhLXdiZHhsSUdzS1RsTXVDeDhSVmxSbzNuN0MzX1kzUDRsV1VZc2lnLXA0U2Q3dTBvUDVncF9wRER2ZTh6NWg0cWF6Z3Q0Vjdzd2c4X2NodjR3eHBidHg0S2Q1SE5pUWt5Y05LdHd3cDI2eXBVMHhpeFc2QTRNbUg0aEVSaVI2emFxdWNURmNGMkxoUnhQbUdObm9Ndw?oc=5",
+   "published_utc": "2022-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

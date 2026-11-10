@@ -1,0 +1,37 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Reimagining Lucknow as India’s 1st AI city; how will AI ensure sustainable, inclusive development",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQlNqeEdBdnVGcmJ2YnBLUlJtN0hIRlhaS3h5eTFrdzdVTkJxYWdNNmhacHJuNjZtS1pUN0NLNmZVRm1hM05XRjVMcGpTSlMzM0lEdmZVZFdUQ2tjNENfako4SDV6RURVZi0zWHRJUjl6Sl9iaHFwaHZ5SlFEaDR2Z19hR3Nqb1ZPRTVVclItWkhoWlhqclRqd1lDcFhhbDcweXNHSnVwSVpvdmdVMC1HNjFWUlQySHNFRzRtdHhocFNuX0hob3dVTnpnZ0RLb2dMTUlyWnRoMC1UbDBwZ3E5TEhiUm5iMU54N3M1cHl5QTRNUVJWWFFIUks5cTR0NUHSAYQCQVVfeXFMUFJoZm9xZC1pOWJBZy00M044TXhpNWtELWZKNHFBWl9QR1U4RlZ4cTlObEU2Y19ST0RhZXRNVG1mTllNWWFrM2syYVBJQ3dlODM4R3dIU0JyY3VjQVZsTFk0aE16WGZndWs2b0dBWUxtWFdBa2QyRlNkWFNtZ2hidWZJSUNVRUlzR1hPU3RxUDUweHl6VS1fVlBZWXdGbUkyOWZpSnBKTFV5dnhxTGhXZDdxSWJtTUR4c2hTaXNEYmtPeFJYOVlaV1hCNXNaNGtHSU45elJMb1VKT3dfM1dOYUdlcWcwVFM1VGR4TWcyaThZUE9WQTlCbGhwNnRaS2FVMERUSk4?oc=5",
+   "published_utc": "2023-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet Gives Nod For Rs 837 Crore Project To Deal With Cyber Crimes",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGpDOU1pZzJCQVZFUjlJWnRHcGRnY1cwNS1iVmhERHk1R3VIVzBNc1h0N2NoLUNlRE1PdE41NVZkeDJ2OE9kLThkckIzd0g2Q3d1b3M0MmpRTXJkVUZXWlhoN1pPOVN2YVJ1dWV6SUh3Z1lUbTlfQzlXQzdPR0pBMWdadndzdENTVkdhcHgwcGJFSndVdTRaSGg0clpsdmU4aWkwT01DVVg0WmY1WjQ5TGFOem9mWHV3eGF3c9IBxAFBVV95cUxNZmdyWktXREh0dmlOYnZvMDZEU2VIVTBxeXNyTzFSY1FNS2NfOHhybWdXV1g2S3Jxel8xaXgwaUNHVzd2TUNGcHFXV3hyTVh4cWtORjZHUEFocy1yd25BOVdCZVhrQU9keTN2SlU4QnBnTE50QThOdmg1SmM3Zkd5U1V3amVUdEhSbXBya1gxMncweTBlTDd3ZFpEUXo5ZnBkSDNvQmM3NG03N2ZXWTN4X2NhTExMMzdLSUF0QkFHbWltSWlC?oc=5",
+   "published_utc": "2023-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Beginning a Maharashtra startup story: Kaustubh Dhavse at TechSparks",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVlrbjMtc0pKY0RkZWFyMWx5cUozbEE5WFdkT2J4U3FVVHhuZXZjdUMwUkttSnBHZV9NamVDOFNoemxVQUNUQnFDeGJ2dG0wZF9xZjVfNXQzTEpDQnNMRkU4OXh1Um5GcUJpaHV0em5QbWE2SndjeU1YU3dfWVhnS1ltREtrdnZmZlhjT0RSQlloLVpfNFBR?oc=5",
+   "published_utc": "2023-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Approves Name Digha Gaon For New Railway Station Between Airoli & Thane",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1ZySGg2UHFvOFVoeG0zbnlpRnlfTXVZYWdBZmtaZXFPZktrZTV1LVdlc3BnYjNTZXg4bTQ3LTdGQzJPQndVc1lEdXd5RUZUSnA5ZldWdEk1R2dhT0d4bzJ1b0xFYklVMlpyc3VMMHg0REt5TFhGbnZQUlVQRGFmZjRyeDhpUHdReHRjM3I5c0dUU3VBel9QX1pfR3dZRFVRTmpFZXdaZ1lvRXRiYTVmUDVXMmc0aG94ZWM5UmtzY0xOR2Y4d0o4aHZxZ9IB0AFBVV95cUxQZFk1d044VmxIVGE4dGxxV2JQbmVuM182WXpHUEUyM29PM2d6MzVmWFcyWm1HZE1oU2tnNC02aVNvS3pScnFuNlZXVlRLMVRDdXROVnp1UFItQkdjYmJPM19xdGp6dnpLR3FoNmpvcnNibE1tLUUzR0IwUmNtTXRIWEJDSWppNGI0RERQaHhfQ1BwRmpjaG9OdC1PRTZKbjkzNHNwZUJ5N05ibVBPS21NY29EelJOWXg5S2txc2drWHA4SVphZ2c4OW5jT3pEbDJI?oc=5",
+   "published_utc": "2023-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

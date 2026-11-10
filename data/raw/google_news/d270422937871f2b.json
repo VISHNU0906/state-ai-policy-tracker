@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Tamil Nadu: Singapore Company's Plans For A Semiconductor Chip Manufacturing Complex In The State",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUowS2ZSUl94Q2lYMUMzNmFlTTRzcDNxeDhFeDRPaDRjQXJnMlNLejBoMzloUVRkRnVzNjlkYy16UzF2WTBnNkpuZGtYRS1seTJLWDZvUDEyWXNPX281emZWRFltdVpHVmRJXzloQ0dYOWdncHFmNzcwQ1hwR0VpbzdJalg1NTlKQjJhSmNIaTRvWk9HQ0JydV9QazV4eTRZVUwxOThXb1RENEhHSF9tV09HOThQQ2ZDTFl3SmkwZUhfekZiTnfSAdYBQVVfeXFMTnN6Z0xtZGtJRk5qSGxtYnFxN3dRQ3lMMWxCanV5dnZiLXo4UnVRSzdndWVXRmRKZmNQYW5UNjRlTlRuTVVHZ2xpQjhlT1NOQXB1WmZtRlFqQmh5d2hxNHVDSHB0dnpuWWVEaC1wb1I1dTVwOU8wTXpickdnWTFteHVhdHVQMnBkZXpZUzVYYXVyM3JMNVFaX3ZOemo2ZFlsTVBKX204MDNuSFRienp5djJsTDN3eUVSdVM0ZXN6SmRHaXZWWFNGUWdNeVUyTDlXQ2NBZDMwdw?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Madras launches centre to build open source AI for Indian languages",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlQ1S19MSVNDOU9PV0U1Tm9XSF9aVkwyMGZhdjVDSVVPTmFWek1GMHI1UGRtSmZRdmFJVkJkd0hKUUJ5dExpMTZsaHRNR1pwbnNobEhqZzBXa2FPUGVnZ3RJek5RYWFCdHpDSXJrd1c5VW1DNDlzdUxCRDRUOTU5UXRTRjNVVW5KSGFhbjhvQXZPallRQVUyOFpMZU9oREdEd3lmYzdHdXFwQ19KSUlXSWczVE9ZUlBMMGN0ZV9yWWhwbkMzd1l1NEFhc1Y1eXBfOUNOSEd1RUfSAd8BQVVfeXFMTUwtTnhfallCNDlGbUc5ZmYwOXBFMHMxdlRlTjF1c29lY09MZWF0dzZ1WVhBWjNNVkZTZU9DTU5qeEpIX1BnclBZTXNua010QldnclVmR29VbUM5YWRjZjRHcHZtbFlFNDVyaWptbGdCQ1pNeWNHUEZlRXh2NU5abHdlS251dGZxaTlYMGhmRkxuNVY2RXZiNUxCdmt3TEx5N3ZUaV8yTGhRTFNHVS1UZGpvLU84UkdBWG5HclRmNWNkSEZxOXFaNHpIZVJOXzB1aEJGQVhyTl9FdGktMnRoNA?oc=5",
+   "published_utc": "2022-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Equinix signs MoU with Tamil Nadu government for Chennai data center",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmp1eWw3Q2lqZ2FnZHE0VUZaWkhQQVJTaHg5bWpnblEyMlY2d21hZHR0djdfUnJhUEIxdi1pNjVIU01MREhvM1YyYkdPWWN5Qmh6Y1hmM2RXcEVpNTVaMjl0cy1oTWNlTXRVUVBHczZWeVBqbVB5VG5WSG0yN1cwUDFCbThuc2owRGw2MExWX3o4ekZOdFYtc3M5TWRZRGRQT29tckNLMUhUX0ZSRElGUWVR?oc=5",
+   "published_utc": "2022-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Equinix India Signs MoU with Tamil Nadu Government for Upcoming Project in Siruseri",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORFBmSHNSdEZvNmdWdC1zRlF2bnBOY3liVUhLaUlUTXFybHY3ZXp3ZjFGVEplNUNmUjV0LTJNZ0owODAxa21xcWxESjBiVElTblpuNVFMeXJ4aFJ2NlI0empTSFh6NDc5TE9EalBnN1FnZ3JDM0pTNUJOSHBtZXFYVFQ3ZmN4RzZWYjNkcnFwZGxQVXdZYml1UVltejBRd2s0TEE?oc=5",
+   "published_utc": "2022-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu signs MoUs worth Rs 1.25 lakh crore, expected to generate 75,000 jobs",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczJRVGN6Uk9EbjhsRHJmcmc2SnEycFl2SlYwUGdFeWQweU9PbmFVYmhJWTN5N3VLUUY0dXBsWlZldVdpeFlKZHJ3bm12WUljcDZCVzhxR1dMOUI2VGdIeE0zMXE5S0tBUmxleTJ6UlFxZUZ6cEROUzhIb0JvSzRqY0p5d2UzMkVGMmNYZlp3TE5DcDVmbXM2NXEyV0FSMU1GeEJEOUJsaG1GQnIxelRnaVdXeXE1NldSSlVrSURyeEctUDhidEgwMnpxNTd0NExDUVHSAdgBQVVfeXFMUEFaRlF1Mml4Y0x3bDcxXzU5RGVhbXhxWkVoTE05bmplcVFWcmhMX0pzd0Q4eDVLbnVNYUxXVlVmcXI1NWFnbnlwR2xXZUFkYS1yQ09td0wwMDU3TURCem55Tm1mRldaQmJyRWxpZHFpSGhhdk8zMjRSVy14NlRqb3hRaTVrVF80NUJ2aWhDWGpBQUpiZ1FIZUctQWNFSjA1MEh1ZnkxWFZnWDFHSXdHT0w2X0x5RTVQMVBMdV9wYjd1ZzUtUmxKc1ZEb1pKNURFQVJXcjdINE5u?oc=5",
+   "published_utc": "2022-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 150 Crore \"Unaccounted\" Income Seized After Raids On 2 Tamil Nadu Groups",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdl9jRXFJV1EyNDEyZDJ2a19WbF9tc1NUNG5tcDRQWGVfTGlaYWROd2hWdlhzbW1vbU1LRzNNdnFIb2tDa3VZNmJzNG16U3Npd016TVNEMjdGOWQ0SGhzQTZDUWdTTDQ5bWFkTURrSUU0c1BUQlotRHJZT0F6dDJwdVBvdTAzaEVKb2VvTXJKUHBQSWZ0bnJIN1FqRWJVdXFvOTRRaEVBYnNMSFBaWWpnS3JWOERxdw?oc=5",
+   "published_utc": "2022-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IAMPL inks MoU with Tamil Nadu Govt, to expand manufacturing facilities in Hosur",
+   "source_name": "Indian Transport & Logistics",
+   "source_domain": "https://www.itln.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU5vWmpwa2cwUmh6TTFBdEFlSFFYNl9fVWdIbU9YS3FmOWJwQ1FYWVA0YVIyd3hacTZXQi1URk1fTWFRNzlVNThWcEVvOC1kTzQ2Mm5TTEp5b1lDMlhRY3VQUHhhczEzaHItN3pXZk5fUDBGd3k2ZXhTMnRwcGdxZVhQcFVBNEFLMDdidzduSWVwd3pqeXpuNmx4YUt3NUZCbVJ6Smh2d3BuVndmRWh0X1U4NHdsSXFWTnloMtIBwgFBVV95cUxQMlRLNzk2Tk9PaWpLUld0MVFBdUMwTWtRLUVyMXBDYXh5eDNGa25hVmdlcVl4Wmd0WGRzckhVQksyNnVIRE1lc2dwZU9LYmJYS2FDQ21zTUJ0R2JCbC1yRVU2V3FfVm1QMnRZaFkzSE8zQ0dNS0VLWFd1TjlwM1g4eGtfVVNSdHZJRk1fY2tQWWpVaHpxdC1mX3l5YjVUNnVLMlBlUHVwVnVob0YwTkI5cXlHb0Y5d0ItU3pkcHhzQ01zQQ?oc=5",
+   "published_utc": "2022-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nissan Motor to infuse over Rs 2 crore to boost Tamil Nadu's health infrastructure",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMTgxb3JjVHNSZ2d1UFQtUUk4d2NtaGVSSWQ5VXRsSm5ZOHZ2LWREbmlMUkxsNUMxNzVDMU1UNmI1M0kzMGotTEh0VUlCMFMwRVFtVTZUS1JlX00xanZaT2w3VUdvc1hteHNLc0VuYnY5R09OUzBjYkpkMmk4UzREX2ZPY0pTVmY4cHhEUjNHdXZZZFlrU2JJRG5OVkhJZWpkZFVKaWk0dERaVHY0eU5mRVZJZy1ZaGtGM21wT3RNWnJhdnBkS3hxVDlyYlFROEQwaGZv0gHYAUFVX3lxTFAzdTJuN01Ha3ljeVJHOFdyTzZxNFMybGZkLUZiZzJNSEhqd255d0RBeEY4cjJzNjFQRWtwa1I3UnB5REhDcmVybFlFMnk1ZVh2RmtwNU0tMzE5VlZHRmZpN2E2bDlkUW5PbWlQSTVhODJCU3dxV3RqX1FLaGI0SXVBcENOOVN2dmthYW1wQTU0WC1HX0lFRVQ1d3llbGNyOFJHNXpmMEMwSkNLOWNxMDh5NGdzUi14NS1uVnNTbmVmS0ZzcWEySXJmZEMtbTJEemctU2poRVpRQg?oc=5",
+   "published_utc": "2022-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Waste of money': BJP slams TN govt's proposal to build 'pen' statue for Karunanidhi",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjV4bHhXUm5xYWk0TWFjMDh1QWNnTzRfeW1QYkFQbDdvWFFXeF9QQVRxekg1WEp0TnVuUExWZkRXX3ZkWnpWNnpyYTVINm5rMWFzMzRfdV9ZelNzQ3JZTXhsVVNPRGNsQ0VCUlIwdkpNQ21iT25pUWN5dHpueXQ5eHJVb2g4aHRGejdLNUhhTFpBWHBZSldXZ2dRZXZ1cEE2VENsQ3NRejV3SlIxS0wzbEZlcnZ1amE4NFdJNEZvTUZzdTRjbmcyU2VrTU5ZZ9IB0wFBVV95cUxQX1RYUGlMcWNVdl82U1BfdDhQY1hxUS1ZVTAtLUxVUjVaeGx0RldXUXhBWkp1ZlpSODF1UWJwUXg5aXlSVl9pVjJ6dElvUTdGUFhfNlhITVpqTFVUWG5PMVpkOHdVUmhIWndTZ2JVRW5BVzgxZzR4M1BrMHgxdDhLMVpoWHBxVm1vbTBndHp6ZkgwRlUyT0ZZckxCUGYwX0lJWDVaS0FESzd1RVNYb25HZHp6Rk5pa1RIc0NBY185X0tjd1VuVE5RZFFNZ1F4dktvT29n?oc=5",
+   "published_utc": "2022-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Cops’ Social Media Monitoring Cell yet to go live",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUFUWkl4SEpDTHkybkpPajNMTHExaGQ0UnFzQmRSTGJHQXNtLUhhR0owUHNHOFFZeUFQZXFEdlg5Q1haeTJDR0kxcDBLTk5FTDJsVnRma1pqaWZZQWhwSk5lT05ZNnhILXdlMVZ3cU90eGRnN2txODE3SlRpalkxRFVaOXZ0VHpLWkQyNHJyTzE4MnJ5QXE3RVFUajNSR09rSFZNbEhrY2F6b2Y3TFpTb1I1UVFqVWV2bmo4dnE0emxJcGFGOENLRm1BSFUyYklX0gHeAUFVX3lxTE4yNWpWbDJyX0hhdk9lblBhSHBPZERLODg0dzV4eGxReERaMW16T1c1MndqYzQxNDQ1OFVLcmkxZEtkaFFfZzhxdXV6eUJaWmxDZkY3TVhJMTltQVZfVHJRRTkxSkZsSDBFSTk0aVdCOHgwZVJlWVRjd2s3aktTSEdVY2hLeG92bUVQa0hvRlFUc3hNQ1BqSFhWNGh1MHpSVDVGY1ZYMnFSVXlVSDNLdkhTOXJWUGJpRHpjaFFLTUxSaENvVElIck11MGw1cjRQUlNVOTAyb3U2c3B0YUlBZw?oc=5",
+   "published_utc": "2022-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

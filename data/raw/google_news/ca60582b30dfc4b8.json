@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Cabinet okays AI use by cops, ₹23cr for ‘MARVEL’ project",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnJwRU9Jd19tdjNKZ3BxeC1yam4tQlhTY2NYNHV2VkVFV2Y3THF2b2Nmb25xX2FsZktDd29CN1l6c1lKbE1ucHlTdVh3RGpXbWxzZWZmZW00RHo2NlNkVVZFUTdTR1M0eFJ2NTNmM09scW9sTXJiQnBKYllSM1JZTGxjTmEzUDBYeElYN3U0OEE5b0hjSmw2YnRDN01ySzM4aWVjU2o2d1VlMi1FMWJzelV3eHdfc2R0UGFMWnNFMFVMY0ZlOWJPczlqdk94MjFLYVQ3VFoxUlNyZ9IB3wFBVV95cUxQX28tTEszb3JCSU9NQnRraEpwZEdkdHRnVUhDbXRCb01CbWt5MmxEXzJja09VeU5Ua1dIbnZ3TkJ1MUNhS1NfVGRCNUhaN00tUGNQNXg2ZklvNUliUmxKT1NoUm14LVdfaG1kbHAzbm1RLXFWVHgwb3l2MVY1clZ6SVRQYXlCS0Q2WGk3bXBNak5KQ1l4cnAxY0tza05vcTJ2ZVVCajhoV05QZlFtYXJTZ2VwOTJSS3QzYy1LR2M4TFphSTl3dGhyTVlKMXNKaXhQVU15MkZlaWZ0SWljWTBj?oc=5",
+   "published_utc": "2024-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "To ensure quality education, Maharashtra schools to now be graded",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0NTcERWYjdydVNVZHBMZk81TV92NnlJM19lYTA4a1lqYXJiVFRNTFRaeXgtcGVqai03blBzWWpyc0Z6YUZ1OGg1UDZDeU9lcFV6U1hTUnRWNkQzN05saHI2ZlY4QTZvV2VmZmcyWXZocld6eWNaYWRTV1htTE13RGxTUEFfU0VQdVUxTEhvaEhuc2d3dWxNZDdpMTNmTE1ZUzJici1tUTF1UWRqMkg2N0R5Wkh4WWxRTnk0bWhn0gHEAUFVX3lxTE9UMWRlbVFscnhJOC16Tm9JcUNNM0NqYTE4WUhFSTN4XzBLcGlIa2ZCbkNvS1hXQWhYaE5HWFB1Q1p0aWREeFRNQXlKazBRT0N3cWpQZ2hSRUlFWG0yMDAxbHJVRnhSeE5YRW5kRnZaLWFhRy1mVGVkbUNkUkVDVGpoVTRMSURtR1gxZ1Y2VDNoMkJ0WWZZNy0zVE8tMUlfZTU1Q0gxclkxTjNpcFM3cmd3RS1Bd0txelR2dkFsNG1POER6OXg?oc=5",
+   "published_utc": "2024-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Indian boy calmly traps wandering leopard",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lcFdpVENpckU4MVdCQU1Xc0xwd2dlelVPMmtUNEhJNjhiTEM2Nm1XbUxnZVp4cHZIakNDTmYyaU9wV2pfbWtOS0wxRV9rSTFUZUxwM3B6R0I0aFlSMEYyM1Qxdw?oc=5",
+   "published_utc": "2024-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kims Hospitals To Set Up A New Hospital In Thane - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzVtWTRlc1plUW9BNnhtaUotckpaSnpxeW9GVl9TemF5NTBIcV83S011SVdreWQ1QS0wdm82SFJacXpMbjh3d2dmbDlqV2NXam1udkNSU0pCNm1YN2VaOE5vb19aYmNSZzBHMjc5M19tdnMtTGFfSzA4ZEdwMlBTbDF3c0VaQTIxOFJMRUhiWDBkU182cFhVbHZxaE5XT1lFZWo3UQ?oc=5",
+   "published_utc": "2024-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra RTO Buys 187 New Mahindra Scorpio Classic SUVs",
+   "source_name": "Car Blog India",
+   "source_domain": "https://www.carblogindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSE9iam4xY1pyYzVPS0ZnN1pPcVNfc21QWWNwMXZpa01qNnluN2FLUlhtSVViQU9Icy16NzNaY1MxTklPdDgxREVnN1FDTUFpWEttWk5yczZBcGFrdnZOWTRwdE10OVRTMDExQzRSNXRJSnZpckVlOVJjcXVUUzUxZUZ1cElVb1NqOF9UQmo4eDVyZw?oc=5",
+   "published_utc": "2024-03-18T01:17:05+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Films, ads can be shot for free on govt land in Maharashtra; GR issued",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckVaS3NMaFVMOS1wX0hNLXpWU293dWhvV1N6OEtpQnNyYkdWaGQxd005SFVyd25UZ2E1VUM2U2FYNjc2QWVNX3NsT3JEdWJQRFN1M0otZ2tIRDFTVVVGSWU5cVEzRzJPa0tqZllBSDA2UTEzdS1aTHEtNUxfUS0xWXFkdVhnbGJHSHdFbU05LUZTTE5ncFVvdXhZWTBHVFVSbm1abW9wRExHU3RsTHozSXVR0gG4AUFVX3lxTE93a1BCNVRydkdvYUQ0WWhfaGhmdHhXcUZSdjJFY3lXMUZIV1ZnSnpla0Fxc1FPOFpiMUlRZ0JxLTRzeFVObjc2NHh0cDNGNzBHVEdsME9hYWYzSXBWZnJNWm5GWUNXSGJBdkpuTTlobmFVcXU0QkxFSnl6ajdET3VNREJFUXhCNzhKWXh6TkJrUjhxUVN6MEV1MjRfUy1UQzRiMUpsM3RUYlBEUndlVTROcXlpLXMtSXo?oc=5",
+   "published_utc": "2024-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "LTTS to establish AI-ML-driven cybersecurity & digital threat analytics center for Maharashtra Cyber",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNX3RFdkJMSjdNRGt6ampvRTVldmpZaXktQWlxVDZtYjNKVUdPU0luTF90RE9ySEh3LVd2SUZKVHA1dWZ3S1kzWkh0YzVRb1djTDdCcGJLaHg0eUhNUHFla2g0NWlPWVVjSjJ3bng0Yk1BellOQXhnemVmcU8tblpiYmZiMU04V2kzS25HR1E0OHZJZTZFZ0x5LUFCVF9QQ2F2akxFbUp3SHkyRE4zSGROSVNwLU1CN1dPR2JhMU4xQ2VEdjV1R2RmMGZmT2w4WEhIR2dBbnhwZ0JwVmVIZW5MQ1BvVGR1bk5VVmpJcTRGemJkWEQ2cUZoTlZjTXkzZmJEVUJNb9IBiAJBVV95cUxNbHBfUS1xZmhSME05VXkxZFhOM0I4cm91TlVBX2J2dV9MTkdfdjhGUFgwdURNdmgtYWVVMlZnWGRZdUxlUlVZczVkZmc3cjNzSkhTSGV1dEkyQlNoWmdBbFdIUWpDQnpOclZEWGpqMEFQQVZtWGlCeEdadGM0YVh4ZEhiV0hTbGV5YnJ5ZHZnY25BY2ZEbHVzT205UlVjNWFyTzk5YmVHV2Q2Njh0TXprV0RRLXFPRnZMSXplZ1Riam5wckdSTklJa0lGUVlMUG5LdXQ3Z3ptZEZ6emE3dTFveE5Ob3BORFdNdjRmUmgtbHRaZU5uazdIQXpRUEg0ZkNHbWl4QUVxSTE?oc=5",
+   "published_utc": "2024-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aim to improve mental health: State board schools in Maharashtra told to organise special activities every Saturday",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkJpVkp0MHNPUFM5S2twSDJxMXg0MDUxVXB1REtwZnNzYUp6UEI0QVFqUDVxOWlua2FURllLalV6T18zb0p4M2dqdlJFYk1rWDNIY085Y2cyb19rdjNTeVozUm5GckhXZmp1V29rV0FmRW0zQWM3a1ltOVZzcnh1VjhhT1JBQmM2SGI4LWpqRlFDN181MDV4TTE1emRNcFV1UFJ5Z216QTFJdjRyaWtJSXBxbXRWcFliNGxkVk9aTUJHZktMdnRlbFZpaXXSAdMBQVVfeXFMT0toTlJ3bmF3VFNPdDJoQWFwMjdubk5sdmN0Z0dXRzBEMDlXbi1XUEJvbW5HTUxuSTEtM3AxYTlfWmpsOVdGMExmd1NOTEZKeTZ3V0pTSmNremhxc213VlhCajhhMFk3UzI0TElTOE5PalYtYjlKa0lJSGZWYzRUSTZnYnRhR2hUZ01meVd4TEJIUnJqbmRXdThWdGdwd2RCWXhRVThNZ19XTEh5N1R5aVRFV1JpaHlsN0s1MURGb19fSjhUOVJjaFUxVzRIR29LeFF6NA?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Maharashtra minister, former BSP MP in BJP's UP list",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3hEc09CWjV3OXpqTWFDRlhrazVxekpXWVhsTnk2NmJTQy1RcXcta2lJTmR6THZ2SUdGOHBjc2pJT1hOY3NabEtsWHFoeFNoUGxKUHdIUUw5SlBnQ3o0WERlNF8wM0VvLUd5RUw5akxmek1GWWRUZHQ2V0NFbmFSYXJKQUM1YVVPR3d4MnN3V0tvakNmdkFwREt4QkRydWJtamIwazZ4Ynd1MlpldzBOWm5KQmx5bEJKQkRjeElWeTlRNnNCTGZJ0gHMAUFVX3lxTE1NZzhFOGppY21vWTFZT0V5eEtZX1dUdDI1UURYUFZVcWRMZTduQ2EzaldsNFZ3Wm10OU9PSEhfRm9zS09iWHYxOGFQZENDS2J6UGExNkk1eXFtVEw1SFFWVThmekU0a2lzbmV5YzdfSkphbXBVRVJiZFhLb3RxQmFVbGs2UVpXemlvUU1uYy16TUtZdk9NMl9Fb0s3RktRR050MGxVUWJkM3R1ZVk1ekJEaUhBWURLZGxMYWUzcll1c0pGb2ZFam9Ubll6RQ?oc=5",
+   "published_utc": "2024-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Railways presses into service 540 additional trains to ensure smooth travel during festive season",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbHVEN0F5Smlxa2FObzZrdFcwLUhFWEZWWkhhZ0NteXM5bV9nWC0yTlJGMmg5bDJqYVpCa1dqRHpRTFNQRTNyOGphdUNLYWdUTDJOay1WT05iZHRRWGtqSkM5YnlfM3Ezd2wzT0t6TkxEd3JsUWt6RE9lVHc4NE1tUzNjd29pTThqVzkxbmVqZEJha3ZPZzI4ZVRJallpNDhtLTFhV08tSktndWUyelk0bkVtWHdCdy1ua1I4dEg5MVhZVTNwejB1cEMzaV9hUzdFYy1fcmRFeGx1cGh2YTB6VTZKZUpmbGRxN2JMbzFfaDB4LTU0OHl0Ml83V0QxOURESkdvTF9xWWnSAY4CQVVfeXFMTkVmazRlWlNrRTVGNFgzVHFDRXBaRHNBOERPcFVfdWUwMlhTQVd4eG81RkJqdU1pMXBvZUpyczZZTW1vcENPSFJOVHQzT1ZKUjNnYWg3OG5hblBPZXFud2V4OVpkLVlSR1ZHMHBHOTU3VnJ4ay10eDUwOTlyTk5EYy16WGloeXRDd092YS1udGhoRmh0elJkMS1YZnB3dU1tRUQyalp2UUVNUWVhSVJyZU5QY3N4QlRyNGtNRVd3dWJ3QUhITWl6Nnd3Y1AtTzVRY0RJNzJSTDBURm5pS040MUFVYl9Zc0xqWHJIXzExb0xJWG9qZlJCTEl2bHRmM0tueW1ETWQxT0dicjREVkVB?oc=5",
+   "published_utc": "2024-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "MP Govt Conducts Study on Seer Who Lives on Narmada Water",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTcteTFGODZjVWc1cUFoR2ZVTnZpNVQtVVRNRjVwcHU3QU9TNWFPUkdOek55a1k1bklYSzZzQjJNSTdOcENyUnpJVTJReHZoajVIdmdHRE56MVZGUzV5MG9rZHgydHNKZ3JZVTJTME5ha0lkT3hBcUZCZE5SYmhxMUoxVTFYTFUyNy13ajk5azBYNndRSFBOMVZjYlFtUUg4NDVXVmtBbTBWOG4xeDNyWjBuOVplU1hOWDZr0gHAAUFVX3lxTE5USUJtRFFZUk82ejc1T1hpYno5U216QWVxNVczTGhqUWRoNTVieG9xa0RmbUZhTGhibDQ5RjFlckN1VWVKSVlmNk9CZzdIZ09qSEtkR0hrdl9NcXJWYVp5N0xFSzVGcHVSZjc1ZTVJc0dabjRMZHBCeE9XQVAwcnpmVUkxVFNsaWJZZnlobVI0VjRKdk9lRlkxY3lmZjAta1ZESVlmSXB2dk5yYXByRlBEdkdzRmh2a3REUlVMTnZSZw?oc=5",
+   "published_utc": "2024-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Mandsaur Drug Smuggler Dhanotias Assets Worth ₹9.45 Cr Frozen",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXVYNDVUVktYQllKNjBZRjQxYk9xbmRnR2YyRTN5OFFVVjdQSUJ5a29JbHlIN2V5RlR4bFFJLWJETFNMYjVocmxRYk9PbW9BV2ZIZEVpUWtxZDRBOVhYWnJURjdISUYzTU9vcVlLVi1fZTZaSk4wbkRTSlBRMHFIeGxRN2ZxU21GZENfdlR2Rk1ZdFZabVhLMVRjZWFuMDFfS01WZW9nOE9vOGZTSUdHVDBHUdIBuAFBVV95cUxQOU9aQUJFdHJmUlhkY3VmZlRvM1pHUFRkcVFSQmFoSlM5RUZnN2VGUVR1NjFTcEc0VjI0a1ZPNG9YaVIzakx0RWtsOEJYZVl0NUNtT2hNNDNmTnN5UHZmMTV6RGlIb2VhdWhwQUpaay1ibFVLYzVvd3VEZTFCQXVYbmVrWjBOTHU0WThHMDJTYUk3NnhGQnJsZGRVNzlqbDE2VWVzSUxNUk96elBEa2Y0RU9kWVQxZVBO?oc=5",
+   "published_utc": "2024-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

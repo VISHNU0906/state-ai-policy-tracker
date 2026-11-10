@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Adani Group to invest Rs 50,000 cr to set up data centre in Maharashtra",
+   "source_name": "PSU Watch",
+   "source_domain": "https://psuwatch.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVc4Sjc1N0tKZmxsd0FDSnFYdU5YUm8wS3BlS0FKRGpSV2NteV9VS2JPVDdlNlpySW1nRllubUFra056TkNhWnotLTRNYk1VaW8tbkpwazh4SjhRbjJ3TVUyWGViX1NVRVN2a2UwdFY0LVpPVHVQdTc5M25hclNNN3BTYm9XZzNmN1dkM2tVZEJHR1JwODl5dFJHX2FVbEtPX2lPNi1B0gGzAUFVX3lxTE1DazhmaGtRMkhCYUNFSVhIbjNjenhIMVIzMDQ5Y3pVa1MyQmpnR1VKM1VVenVhcDBkTURMcHRQcEhNVUFrWkNSUlJVdmYzXzZpN1FXdVBtNUphclBQYUFvSS1oQ19JeEU0cG55dUJJME5SQ3dnUzVoVEtoUU80LVlNUGhEc0Nhdzg4eTUyOVpYQWVKNUVBN2U0dEN0RFZvd21XTnNwLWtxLW5pZTk3ZE1RR3Ew?oc=5",
+   "published_utc": "2024-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group commits to invest Rs 50,000 crore in hyperscale data centre in Maharashtra",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkthaEg1NG9raWFSdzFBSXBUN1FfZl9haXRGWWg2U3VzRlc2eXRybHBoV1FpUjI0cWpKTDAxUkZVMWdyV2hQbUNpcWtRV2ZGWUVRSnlpTHRWU0NvZUhqeFNuNFJVbU5FdVhHaS1sNEozYXF4a3VTVDZDUTRwRmdtc3k2YlJGdkE0VWV0RHM3Qmh1d2pMS2JBSW5OS0pKOXVtYmlYR2FERk1sYWdSVGdscnlzQWRfdXIyQ1JCZE44SzZOeTQ?oc=5",
+   "published_utc": "2024-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State signs MoU with Adani group for data centre infrastructure at Rs 50K crore",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZGdSUFNBN2xJcnB6X0NLWld2YUN5M1Y4UkZ6MmZKdUp5blZOOUdoNTFPZnRGd3FEWFE3VnRvRGNWTVptaFV5QTd6ZFhwZkVWWENMMEdJeURUa2VvVVhubU92ZmRPM21OT2poSEJhYUlpODVMR3R3alJyTmRHUXA3TTdLY0FNZGZnMFlkTU9pRmJCXzFzekxDU000VDNGZHRnMElUcXRfU2hRdWpYNzhUeFpSZGNFY2xQbVlpRkxOZGdZV2IyTUtQX2FEVWcxZGNQa0Z4RUdhWk9qNkhPdHpSQVRGUHBwQUlp0gHuAUFVX3lxTE9HaGxwUktmUFR3QWlHaXMzWEJ5dmlRaV9xSEY4R1hVZjRiVXF2MER0YXRWZTB0aEhScFFGSGlkOGFkS2dTaURKX2JTd1pnM2Y3ajJ6RUhmOV9QZ2ZkNHJGOGNramNqSXZTcm5pRGFXeVhJT2VtSDhEb0xJTlJzXzlxX1lXaVpWdUt6ZjJROWJ5NVhndkt1WmtIY0ZsRU1RZTBuY3lSQkRJTC1XblNHZmkwM0VjTE8xRHFEMktMRmRxQ01yVmlCQnphSmRyc1VLQkx2OEoxWWc2WENfc3ducGlFbS03U01JaE9GRWdzVkE?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group to invest Rs 50,000 cr over next 10 years in setting up 1 GW data centre in Maharashtra",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbTBEdFdpM0hVX2xOLVlMbzQyai1oWVZuWG1wdEUyQm8tVFVxZ283SWE5WE4xSGNaNkFmWm91d0swRnZuekJ3R2M1VzFsRHNfX3NPSzdrbmZVSkN4b2NFaExQYlhUSUUzWkh2bWRNRjhyVy02TExVbjdnV3V1QXZQNjRLa3I4TXFQb3NGYkI5UVkxSmZ3OUNjakZrUndPb3ZYQkNKRnVNVlZoakZmRk5DalhCVVpfZ0dfTmFGY3F5di1VVHpjUWZ6UXpnU1ZGSzZwLUtzaXQ3YUFSbEpzQ055Zl9fREREOFBVeXZzMF9OakMtZ2xfZnZPNmNPYmbSAYICQVVfeXFMTXFqcy1zZ2E2enc3YWM2dVFJX2dlbWdibDFpeHR1dEVJeFNXT0hVY0hocm5lNnM2OUF1NF9JZzNadG12dW9aM1k3VTVVWHc0dk5HNXBEMzNTOE5jVWRsZkpNM2IwQ0lYMmVsQ3FrUDBwSUhwcWwyak90M081Q1VCdTlTLVRGekhtUlJDWUlaLTRYNGwzT3ltaUtIYlNEVU1ydkFlUVRiQWxXbDA2eGZPQ1BGenJWX2xzU2F2Y0ZieE90QXpGdlRSVEQxQV9QdDBQSFJYc0c1WXRnZl9qc0pMLTkxWXVIMUNhZWl6VnM0bFZ6Z05JelpGTlRGWmhERUpuc0pn?oc=5",
+   "published_utc": "2024-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group to invest $6bn in Indian data centers",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkFOWldYZHJ4Z2lXUHJPeTB1WUJrOWdOZGVpYW52aEZCRU9ZWHhnSjladVVMWE5Ednp6QUFHWE5KZjJmZzFaQ1RDbjRjekpNS29PcThTRE5aNkx0ZndPRlRlN1RUNXBLUXpZU1JnNWRBWmlnaWxVREFtdVZhTjUwRkhEekJTRWJCbXE0M0REdy1aZG9EeW1J?oc=5",
+   "published_utc": "2024-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Course without permission: Institute in Karjat told to repay fees to 268 students",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFlfLXhROEt5MUxEYXh5bjlPNW9tYXAzQm5HS2w1UTA1aUJjdmhiRXVkNlVDQ055ek1HQXk1LXBJT2FzUDZZZjQ1YmpuYWJldEJGTVVDRE9fMHBUQ2lHdFhRdVJiU3N2LUZzYW9GR25tZ1BYUXA4U2lTUXd5dFhnck9wbDZ1QkVzMU9VcktQRU5IZTdqb0Iya0RZUlBFQ0JNcC1MakF0TTVsV3hUQ25GNmFFM216ZFl1REU2TVY4aEx5QW5jQ3dJSkwtUUEwV3ZiVHZJ0gHaAUFVX3lxTE8ydjlLWGg2bTBrTHF1cF80MDRLRDVIS0NLVVRYR3VtRUhjMDZxZEItLUtXb24yVHdhdHlDU2F6S1RFQ0NHbGQwcHV4MEktbU9IS1pKUmNLVnJzMWdSYm1jR3F3dkZQdG1oTXh3aldYQko4MTlNX1l6QzNFVm1RdWk3d2hfUVZCYVk3SnhZWjNUQW1SdUdfUjNVVVBPcHR0eDVidkVrZzlSeks2emJCb2JpeDhPa1pKVmpDYTd0QllHTEdYUlJmcTZaZjdUQjg2NFpsZ0dLWkNUZV9n?oc=5",
+   "published_utc": "2024-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group to invest ₹624 billion to set up data centres in Maharashtra, Telangana",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dRSEJMd0M4bWQ2dnMzRlNZRXNlb0dBUDJvVG1mbS1ELV9IeDVqZVNjN1lTSkNzUjBoVVBvU2lfQmZ5UlF0NldLOUJib3JfZ0NmU3Utb254bjVaSV9yeUZSSXloS1dqUk9lYVpvc01VbUExZV9US3hhTnFIUnhWNWFKaTR6UFFxZURTcGdUVVZmTlFQdkhlLTBhN1ZtR3dhY0pzSFA4OE1ZdXNCV1NTZk1ZVTFWa2JyX3ExcWFNLVYwZGU4aEdFcnRVRWpRV1oybVVoU0xBZHRZbVZ1dk1EVElyS0EtZm5CRloyZUV0WUhuT0RDVU12VTlkVmRscndH0gGGAkFVX3lxTE9nQVludkxoamlrTS00blBVRnd1bFFEYjNUSW9BczhxNWc0QlEzVGh5ZzM1MEFtM2ZPMXpLYklhY3RVRGJpaWVZbDU4QXVOdnFHRi1DclBTSlVzZjFBSlYzdURIYmpCWWt5QmdxdnJHTGhyRDJlc3c1Ui1fWV82S1NNeEk0X0lGNmlnSWJuRGhoZ0tkSVZKbVRXSElqWEc3OEZGdDNzaTdBWU1xRUd3VjFvRmVxQTdybUxyeHhLSl9mTTBwaVhOU0lWU2k5SjRuZkxXMVVmY242dFB2eHJvOFV1aTFXZ0ktZVRKaFVTOTFQbE5DMmhNYlFlX3V5UUpMUU1fejB2Q1E?oc=5",
+   "published_utc": "2024-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group to set up data centre, aerospace park in Telangana",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVVBwV2J2Y09KcDRCeUZCSnhndDVjRXZ3XzFETFg4UDRRRk9uaWsyenFjUXVFOGRPNG1zeEYxdUEtUTNZalJuZ1ZQT1FibzdjcUdzMGN2Rmp0QVh2MDlhMll2VTR0V0FTUTIySFRTX3U4MTI0cXA1WmdtMTgwcmc2d3BaN0ZudlR5dUdqYURELWRUME1QU3FrRXVxNTBiOFN6dVNqVUNyM2RlbU1RekV4bllsNnRVQWxQVmUtejlFaHp1b1VrRUM1Nm5Uc2PSAdABQVVfeXFMUFI3VTJmY2RRaFBfZ2M3MUhCSGRSRzlxU1pRVVlOTHE2LWh2aERKQUp5M092UG5ZcW02c0hob2FzTVMtd3RMN2I0X205NHpwRHZiZlFKR2c0MWp1RldnOGR0Z1ZxQzBVQ1M1MFBrYndFSTdVWUt5enJNbmNLTndLVk9PU0VkQzUycmVNbmhfaWhQOE82MEFlWk1ZaGVVNVRTMmFFd3gtY1J6MktWTU96cm9OamQxS2d4azFLbXJWc3puUkUwUTg4QkRWVzRVM0ZQQg?oc=5",
+   "published_utc": "2024-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Veteran Actor Ashok Saraf To Be Honoured With Maharashtra Bhushan Award, Announces CM Eknath Shinde",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaElqbVVOb0lJQnhYc1hvMktYVU9CZDhXZFR2SXA2U0ZyVGw3WG41OEpxLVVxeGxXUFZpUjFibEFGeW5SMEc5MEY3elFacmRiSkNLWUJmZEFzYTIyVzZOQ0t4WjhRTm9WaGR3Z2JJelN4N2ljcXdoOEltTFpDZkk3YjZ2OVpIZ0RHTTllUnpsWEJ0cml1VFZIZU82SEpCNV9qUk5zUjhoNTJLUFQ1UThnVkFzYjdteXJ2U20tLTQ4V3hIcU5TdE91ck1jZlVEREVweFZQVXJGZ3Bha2dy0gHiAUFVX3lxTFBUV1hseWxmVF9oVW9IN0sxMjl3dVRuNGFQNnBmNDZGN1UxYTZuVk9WYnBHaUVUMUZ1Y2dVQVExR25FZnlmVThCQzktX25pdmxSYnJUeEZzcEFmR3d2dTlGQUxNcW9hQXRvTFdpbzRjeDNmUjBnSTh6bW5WUlE3N1dXdlVid0JFME85M29NRnB4OUJzMUtqX3ZkQ2FZMnBBRU5XeURfWVI3dmREdUFWakZka0hncTcxY2RIei1WUTFCMTNyejNBbWRtMktSX2gwaHdpalM5RzJndC1USnh1Y3NuV3c?oc=5",
+   "published_utc": "2024-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

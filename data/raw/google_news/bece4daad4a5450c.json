@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh announces toddy policy for 2022-27",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5Cdnh0Rmh0WVVzWFVPZjAyeVdYc0Z6OHFZcFVJLUJaZV9acy04NGFYaWpEXy1PbTI4alNvUlAyWUhiR3J4VDhvMzVLT0wxTHc0MkFOc3NhbEpxYjhSTVVYRERIRlZWOE1XS205am5wVDdJS1htYmNiRG1KMm45bTVhazlQNXI2VTRlY21XR1lBNlBqbGI2dTFJT2R0NW1lRlFrVVNSbkxCY1VsV0hfaVhkcHnSAboBQVVfeXFMUFBuRnBrYk9RRS0tQy0ySGxnZ2tYd2YxZXFOQ3o0OGFtNzgzOFQxRnB5UmxjRWpVT2dtVmNyX3d0RUYxaEpLbTZMQ3dnT0VkVkY4bEhXZnhrV1cxclJSNWRfNE9uMjNuZlJBdjVKclZTbk1zREF0cVVJalAxOGxQSkNuTWdXSE1abnV1cU84WHo3aFZDNWV1QlZLeHZuNG9iSUd4WW9EeDE2WVhoaTUxYUx0UGNnRHlLVDBB?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Tirupati temple’s assets worth over Rs 2.5 lakh crore",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlNlMXJmQkdnQWNxenczY1J2YXp1NVRIc2psT1llaFhXQ1YzR0Zxa0RHM25oVEJ5dlFHUnZkeFpaNDhoQnNvUnlYd1VJcnJ2TWZ3ZDVkeWZYU2Y2RzhjS3BxYzY0NC10cHJRYl9MUk4xRUdaMmJJbkEzcGp1cDZIX3FBZnZEY0FkU1FjOHFXZERLcUZ0dG5EcnlB?oc=5",
+   "published_utc": "2022-11-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tirupati Temple Worth Over Rs 2.5 Lakh Crore, Is Richer Than Wipro, Nestle",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1FGV1l4cHdsZlF5Z0trXzNnZFRMUE1pSGw3aEtENjk3NU1XZXF2MnE1a21WRjZtT2dCUFB5M0RSaHVJOVJhTGJERVJpbkc3allqRjRETW11LWE2QTYtUW4tdk8wMERXcVZuUDQxS0s2Y1VaWWViTWd3d2tnaDI5REdzNk9YdDNOanlPR3ctOWMtR0JTbjg2RXF2aWRRXzhLbWxZRlcydldlZ00temh6UzRLalU0a3JxZV93SjdR?oc=5",
+   "published_utc": "2022-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nitin Gadkari approves projects worth Rs 573 crore for Telangana and Andhra Pradesh",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdG1EQkMxWVlXZC0zdlhqQ0hURVMtQ3Zka3pEaU55VUZlcnhGOUJiNHIxckItbk40YlRCRGtXc2E5eE4tTlY2bjF2SC00TExXdnBlTHU3VDNmd1JZY1ZBQXFDVmZDRlFEQ1VjQWtOSDRHbWFCSXBlUnR1ZTNnVXROLV8zMkctcWNtemNfMTJBR1FfZHJYOFk1Zk5NZFpRb1JudVE0Y0NZSGRxOVZxUWptVXhqSkFfZ3hQMTNEMEhtYkpfbUloUS1HZnRieGNOMk9WVFJfZ0R0ZG51N3NKQk81dFBJenHSAeoBQVVfeXFMUEFCTG96NFFheUEtbHRtajgxaUVZSGVpbDBUZ28zTFBJNVVnZlJQZHRqeVl0WnZGeXVxdk9lU1EyNDhpM2RHQ2psbzN1cmJPekF6blh4MEV6RWxTMThIaXlkWFh6N3pOTFEzNWZ3R3lFQ1pfVnp4aVFSZ0tkWmxKNGhoZkNzQVR2RElLbjRnVVhDbUZaNGxGWUhCNWhQSVRyUmNpazMxNXRxVUJoVUlrS2NTZExFLTNDMHFGa2NnSkFtWndSZWlWbEY4RGN6ZjlST08xdnNybVNKd2VPeUNHOGlFcDdUWHZUTkRB?oc=5",
+   "published_utc": "2022-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh lauded for digitisation of information on public health",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUtGNmEya3c0VTgwdkRBM2c0TU0tbnFaZUV5cUFKdjU3VThCaENUNHljeFdtclpCaFRXOGlacTBPNkpkSTN3YlB5MzNGRnI4aFRmR25Rb2R5ekdzbi1vLVhPaDRKSERRYzh5Zms1UVVBWGNkdlBZSTllaUxNMFZTemx6NmJsX0VOME5RdmNOSndNd3EtZ3FEMk9QczFzZmpNc004XzNEOEVhV3J2THpyR0htaTIzbXU2aFZHNHoyRmNXeDVJMURibkNMS01NMjJ50gHWAUFVX3lxTE0yOWFtS0FiTjlqSHlNcWNrYmdpT01CNG1PT1BNNmNEMmR2Z1lieUZOTkZtMVhFY2o2TVA1QkJPWVQwUzU0VHJ6djhVdlpURjZQSU1YLVlwSWlCeFNWVUpENlVQYUNiX0d0eU81WXZsZUhidG9QYmZPWVFZNHdGVlhzTS1idUFUZmstbExPQ2FPNnlLZGdfVWhJVUdqTm5xdXY3bGhneXBrVmh5a3luVGN0WnZKQTM0RkRUcG5jQnZGTXFCSDllZF9ZOFNWTFRaQ1VDSVNEQmc?oc=5",
+   "published_utc": "2022-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan publicly reminds PM about SCS for AP at Vizag meet",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOHdOOGo5TTJWSW5fVGVfeEEzX0JybFNmUHRQQ1hSRDE5MV9VR0ZNTkJqbENJWWJrUlFIdWtoWDJsTDRkLW9YSXhyalNNLWhlU1JyUzlyUmtvUjdkWDJFNElCZ08xSDh3Y3FzS0pZZ1p6VXlkYndLNEkxVUNNU3d5MG1nNUhYSXFRbnNBdjNhZkozSVM1UnI2dWhsNlh2dkxGamtaSDZ4cHQ1TWZuQllaODA2dWR6a0tWelZjR0p6VlJvU2gxNGlaYXJTeFVtWm9PQ3fSAdcBQVVfeXFMTWlvVENDM0JMNWY2d0I2MEpkZkNrZVpJd0xHeEJfcC03YVVhUTRWcklIcWFUYWlOLVpoMkZQaDcyNnRQQmpsa3p6NnFSU3JJYy1CcU41b0RJRmRJUzN6amtwTWlObTk3eVMtcklPQ1FzTU5xWjVwMWVHRU1GZHMtMTF4NnpDcmZvMEJwSFJwVElwc041c1NKY1FLWkpjME1rQzhXSVdBNWFFNGMwb2JIbWFlWW9YdFItRl9tQVdoUENIQ1ExMUpITjY0U3hjd1lIcGlvNm1Bblk?oc=5",
+   "published_utc": "2022-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan releases Rs 200 crore input subsidy to 8.68 lakh farmers",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnpRMEFEaGhJUHF2STk2UGQzMnhrV1JkZHFIRDlNeEVyTTRlZHZYUGVvQ1BTYkppdFJDbjVsN0RtZmJoSTZjaUJXcmxzZzU5WUJSVWQzbDFQZVJVM2QtTzZ6TFlGSkU4X3VnSVZXalZKRFlpeFhIc1VDVnBuTVdOV3ZhazVqbkw3ZGs4VE9RS04tXzE4QjBoODI0a3IxalRMNEtURjR2RjYxcElJM2pKSzN5WU9xb1pJUmdrb3NEV2ZReGtVUlZCb2poY05ocWxY0gHWAUFVX3lxTE1RN3hlWkRJalJYNlRqVWVKZ1hVajIwdU1YOGhKTDVvTGU0dmxPOWJEeHNlQVh5cFhPLTNkZlBpeTJIMHVkWjZCd0Eyd3hPc3FvbFN0VE5pY3JJb2tLS01WdU1ZV1NzVUo3dkJZbDNzRHRvd09rZTMyZllsOFpmc3lhS2lfRU9WQWg3T3lXTVY2VUgxaDR2NEdicjIybkJxam1mU0Y2YlJIMkhUX0k5RlMyd2VNVkxuaHF1VTE1TEV4OEV2eUZ0LWZOaTFhYU5kYnRLUjZEYWc?oc=5",
+   "published_utc": "2022-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre okays road projects worth Rs 573.13 cr to TS, AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1Z0NVlrT3RQeFpieHltN1NiRzlPNWZmZU05MXJ3QWNYUkZVdi1zMkQ4dTNLZ2RDNTRlSlhzOHhySDVIZF96bklGd1RHaTluS0lJdGRFRHJNZjFva0VjakRsRnRDSzdCaTYwZDZBa2FCVWw4N3cwRHBsV3N3SWIzcjhZbkpaVnRlRmJQZklvNEVRQnh1X2sycUxvVVNPZ1NNQjR6QWo2Z2xyaFFJNTFDYU1WcWc4c1hjRHfSAb8BQVVfeXFMUDZHUTVJSjAtTFlBQzlCRWM1RHVVMGMxdFNDTE5XVURRdjJ6UGpVLUt4ZUl5X2tKaXJQUXRBdEpNaHdMcUhjcFlLTjJBb0ZpMHg2NGZONzlONFRVaTZXak1jOVY1UXNDaGNFTlVMR2tfMURJLWtIWXJMTzlyNm81dXNZWE5fUFIySnlBVFhrblhicEpNUzFkNFNWd3hwbmdvSGlUQi0yMElQUC1QcjYtSzR5a08wZlBreFJIajRvUXM?oc=5",
+   "published_utc": "2022-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Jagan exemplifies ease of doing business in AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemRlX1BjcldaNkhucmVZbUpzXzFiNmlMVm9TRFRYTVZDN3czdnY5LUFBSGtJWjZhT2N2MUl2OTRCOFkxendMYjhCNzc1aUlTOUZ0TWxQS01tUXNzel9KY0NxR0p4VzJFUWg2dXZhVFdYTFRPQnVBMWhpbWRhZkFyTjNjZUEzdklXZHAzNzgzUC1FbF9nZHR3UjFJVEFFT0dJUDVjMTc3c1JMeG9mUFhfTmxybUFmVmPSAbwBQVVfeXFMTVhyVm5OTGs1LXBMNGdrOENBdXNTc3NicFpOc05vTDFvUzZ1X3V5ZWNVUmd4M3ptbmxBTHFhSjNfbkt0MXlPclF3SjdqUnEtSHVkYmRkRE93UEdEelFMSTZOZzNRTWpKUnVxcG81MnU5ZEw4NGdIcFZBN0hMOFAwc0k3NnRWN0RNcGEtMk16aTBVdEhLTXhDQzE5X3Npdk9vOUcwd0YydEYxNVFOX012cFd5eThZYlphWXE0VUo?oc=5",
+   "published_utc": "2022-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TD alleges â‚¹250 crore plan to assassinate Pawan Kalyan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYzhMTk1kOW15WHNNYUpGY2VzaGxVZEZ4MERLYkRNd0FCOWkzc0sybGEwUk1kS2NnYXh5bWpMLUJ5QndTd2t1Q214UzRpYU9MOVI1bHlkMkpvN0xNZm9lMk1ya1NwUF9TU1VIaHlUSzRZX3BzbmtYS3dUUDlhVzlFVG56Tm9xZmlsWEZyZk5KWjB1bTZHQ1JDQVhCeUHSAaIBQVVfeXFMUFpOZ3BscFY5QW1BTVh0M1doZUNXQWhlSjQxY3gtN21VQUd0eFFrVERuTUY3VmV4bTI1YjRGa0djOG0zMl91dnNSc2hyZnhWbjdaUFczdGR4QmkzN3pLUURpU0x5aWlncVhZY2FTT3NsR0VwQWwtZmFFc0x2MzdCN2FYY1FtSEVZU1ZMeVpmemlMa3hoTVl4d0J5aC14ai14TGdR?oc=5",
+   "published_utc": "2022-11-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

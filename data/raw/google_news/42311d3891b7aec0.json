@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Maharashtra: Indian students who risk their lives to study",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBTGFpMzEtSUhzS1ROUDJRT3J3OTNZR2w1OFhzVGpaemVsTkhUdEtzY3NCMnNlcllCeUJXV2o3ZmpoVWg3WURGWDFsNFUyTzc2UTFvbXJUTWdESjR3bjNBZDFBWQ?oc=5",
+   "published_utc": "2023-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Budget: Ashram schools to be upgraded; Rs 1,534 crore allotted for development of over 800 schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOW5GVDducmVNbGstdEtMLUg3emNmUUUxSklOdnBZUzlIWEpRTXVqeVZ2TE1zSlBuWGlyeE14aUJwMXNnMWpWX2VYWl83bHMwZGlUb0ZEOWxIS0RJTHhjOUJpVU1sX3NwdVFXNk9va2tIa2RubUxSS3owSmVwbkRHcHhZTDEwQTRMZ1IwTW5wWGROUEp1WWhNVFRtekIzeEV1TXpOd051Tm9zOVNheThBRXhLM3M1T25PSWdEUUw3X1Q5RGpZbTJMRERmclZFZUhqOXZvNkRtSTdNZjYyTjFqRWxpWUZwRjVGekJjZ0FSZGE3M0hieDJ30gH-AUFVX3lxTE9iRldXanRzNkVPajlXZzBMeWVWVG5rUllXdEVFd1dNRlVzX0x6S0xnSy01Sk5fM0dvajFXQmhNNk9ZeEhkMDNwOE56NE1HSldaWXlCcXlJOU9tU2tGWXo1d1Y0d1NtWFZwMDVTYjItU1N5NTRzLVpkTGtGQXVoMWxpcTJYeGhOanVjbWNadG5Nbkc4cTVUQlZrcUJKR2MyZ2dOY2NfZDBLNEVBQ2xCd2tBcEJpWEpHTFJabFVJNmNWa1NXXzNSR1I0bVZ1R0dHNGUzVFdtRkpRODU4Vk0tU0JmbERnSU13bmFkeWpCWUtaQnhYWXhPTV9kWE1aSnJn?oc=5",
+   "published_utc": "2023-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "4000 startups engaged in emerging technologies - IoT, robotics, AI, analytics with govt support: Centre",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ0taYXBORG1sRVBSdHZIbExMeDd5QWVxa3Vza3JmTHJlaTYyRDFDV3VjNklxQkV5clpZcUNzX05EanllSlhUNXBrS2s4Zl9wV0xudXpIZUtqQWtDMV8tU1Y1SzI3RDBWZTU4eVgzMm9rc0E4TUhGYUlHUjExcDVFM2lBME1Sak1td3FraTJ3ZVE1Y3hsaWttVm0yNWhsbmVrT2dNUzVCOEtYT1lvTHdFXzJJc0RGOWdmTDFZOGtLR1oweGJiUko2dkcyNFJZejZkd1VEU3NzVlZzeEVOQUEyeDFyTzNjajVMRTI4SThHOFJya0RIQWNuakVVQ2lmc0huOHBjem1FVm9lRHhtZlV5RNIBlgJBVV95cUxNcDVOOHFQRnVWZTBUTWhkODBTUjF4b3pUTURaWDN4eUlvbVVtVUNXSEpQMUMtZFpJZk1NY29HRDVWeEJ0akltR09SZHl0ZTNQUXBjNHI1T3R5Q0g2RVh0d2ZQb1FaeGRqOTJsS0lhenhrdF9mbnc1amdjTFRwZ0ppZkRFVmpUVzRrRW1lSW1IQXhsdzFORjNWYVNBYi1lelZKVERvYl9YazdoTDNRbkQyUFFUS2Zsb1lsYkhPdFNkZWdtR056Y3Fya3VuTV9faTdJcmVzbzQ2VFVXNkZXTTNfRjZwYmVMNU50aVlhZXBMRUxETFd3bDROUTBKQ2RRaDZEMFg0bmFWdk95WHpRd0xwbW03bXVGZw?oc=5",
+   "published_utc": "2023-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "10% free seats in private universities for reserved category students in Maharashtra",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMUVFZ3ZjUXNWUDdjb2drWUFOQnlpbHJKYnZ4YmpIXzhyR1VvakxwVVExbUJuaVNEeEQ2YzdYTFJsTktjdlJGMzhVY1lYMmdzVHJjeTFmaHNYeGZvWF8xSlFpdnZSM2JWYVNmNGhBY2VOZGhyN2ktaTFWZFNhdWZKaXhfTmxGSHdmTG1zcGQ5LUlEanF0QWNScG9WSFc0Tm9jRFIzVnppQ29iUkhpNXhvcHVaVHhIN0lLdmFQT2pRU3FtSUc1MTRPcTZOMml6NmxHV2RPT21BdWlpLU1Td0xac3RzT05COTRjRkHSAe8BQVVfeXFMTlpSR3BTRkRGUWJmWV9FWHRTWmtXYVhOX2JsRWRpTjdjekRvaGFhMkVpOENRaTFwWWk0bGlRTW1IS0RjZ1c0YVFwMTNJdWJMVnRuNGZmeFJ0QVNISUpIQWYxd1dsRkNycm1oU0tJbl8xQXhKbDdtcTBVS1JhQ0w4Z0Y3ZGVXblRxcjJES0Q0UUtBUXRVVFp2QkpjbTVDWDNQOUI4cHNJSlJGNHFkT1Y0ZHdDMld1R0xhb1JTZ1JEajk3VGI1c3NmeVp2YXZDR0c0cXltaUk1TE1qa1ZEak02X3ZndnhjcktUWGhHd3g3VE0?oc=5",
+   "published_utc": "2023-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Class 12 Mathematics question paper ‘leaked’ 30 minutes before examination",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmVBOUNlanRGVW1VYVU3ZjV4eU5xTFN0VjJ0V0lwYzYzbEZVLVdVOEtKR2EwaW1PZC1PYU01Q2t0XzBSVjNRcmpiSTRQcUlsXzUwUmQ4YUZVSjB1SHEzTHpWYXctRHhZQUZaMTRldnU5aF9uclJqUjVJOG80QTFRa2xiTWoxOHBtVTFMYmxyLUV4Q25pS0JoV0RLRDEzeTFGZUNSY2hoRXdjTW00S004RDBwUnpUSzdEdzJSVkxSSkVfTjIxaHdFdTRKVWgzTUXSAdYBQVVfeXFMT1pJeWF5UVJQdDMzUGQ4ZWd6VDVKb2VOdUVRZkRvVE42RE9DZ3l2TUpad0NMNmtGVTRKa0NiNVhodVh0aEdibXAxZ0ZPYU5xTVlid0Y1U1ZSeDdCZFpRWnRCdTFsU2plSlp1cE5NbHZVWjNiYzBBN0FIdGZKajB0QXI5cEoxbW1yOHVkZk03OVpuNTRtUndJMTYtdUdtTWpkam5LNEFyUGs1Um9kNXdKSnBPMC0zNDlPbnVaeGtEcmhFTFdNUVZGZzA1UExZOVJiQ3dmcS0zZw?oc=5",
+   "published_utc": "2023-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Food Corporation of India sells 5.40 LMT of wheat to 1049 bidders in 23 states in its 4th e-auction",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQWdxSGVjTzhDYkhQOGgyRmtxdXU0Y0xGaW00VVV5RFVwWG93dFVfdFgwYTU0Mng2V1U2bUg3OEMwMHB0RmJGSXVwb2lhdnB3R1pkUEljRWN2TjhqTE5mQ3NLR1NFaC1EZHMzWEJLNldYN2w2cXM4UDVTaXVQUFdCR2ZxaF90Y0paTDVkNnBSUk1kX3FuNGFGTTlPQ2N1azQzTXg3bXMwS2tYSUIzOG9TZjFFOHQtS0IxYWlfRjdLdUhuMjBITDhic2NEcUhmUmJZY25DYnhKWE1WM0VsZnpnMDJhZW90Zk9INGVmaENnNGdLMTdGWGt0QTNvdVA0SllsTFHSAYYCQVVfeXFMTzhTekJRdkxGQmRMMWxtNkF1bE4xeXZPcFFwR29PdEdmaXJHVEYxenNUNFJOS1A5N2lVVk4wWkZuOXo5Z09zS1hINnlZeDJGNTZPbVFpZ3JadnpvaTVOX3NQeldiTFRycTR5Z3IwNmliU3M0ZEFLeHlQZHAwbzlIc2gzSzFXRVkxMzctOWRvbDN0aVFCdU52b0w5RnU0V2VoenJUR2Q3c2dGSGtjaXF1SVkxaXBocXM1VUUzX3ViMEtBeVBWdi1YR1NVUk1mMHpFdTFDVjk0RUJDTTBOZUlmeTJacWZoMmprN0V0aHF2NXBDakU4ek1ySXpvWTNJNHhxZ24tTG5lQQ?oc=5",
+   "published_utc": "2023-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Using AI algorithms, CBDT completes 35000 cases out of 68000 taxpayers selected for e-verification",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdDBqNE90eXlENzhSZTlDc1Nmei16YkVTT0c3SjBma29yUjRzRlBVWWZVQmw1d2liR1JoY1VOZDhRQlFLRnlQRzcyT3NnYm5mTWZad19FSzJMVlcxRm5mZUltOEp6bVhzTjd1NWJkc2tzNHlRc2xkVmVwTXhyQjdqY0RFQTk1QzZBMVU3QWhjeXI4NnlqcFVIcWllWTk2X3Vyem1vNzdVY2RGakxtajBsLV9hOXBnV2VYSFRQM0R3SlJ3N0plMUkzaTVSWTJLZFNIMjRnLWZLWEdLWkJXRGNQWUp1YmFaSFlXbkJWTkFFa3VHQ2FhZzNBVnBRNy00U2_SAYMCQVVfeXFMT3hsWm9zemotVlUtYm1YTWRfTVZNREw0TFJ1NmQtS1JuTTJ4d3Bsb1g4TjFmUUdPR2xmMnNUa1ZmNEstY3RKTEpIUXRBODJOdDB3Y1NJUEdYQVN5S19YeVRvcVN3VGpDMmFrZ2ZJWFpuUHBxMGtIVlIzcWZBV1UxY3lITk5Pb3ZGUDlmR1BDZHVfUk9wRUh1SzlubDY4SjJDNUV2Y3BkTktfU1luTHJ3RFctMXJ1RHFEa3N2eDhDc05VTXlkdmZ1TWdkOHFvVnN2UVdCOW5lc1B4ZllHeUpNYWNlUnJpT0VlcXUyVEktUGJXazhMS0duRU1Rem9zbW5vN3pNRQ?oc=5",
+   "published_utc": "2023-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt decides to develop Navi Mumbai Integrated Industrial Township as new IT hub",
+   "source_name": "Lokmat Times",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORHZWb2JkRVFqaUd4R0g2QVhjNjliZlkyRzNLRFFqX2IySVNDcXFUclZZVWFrVVhqcDEzbWVzUTJuWFJ0eTJidnBzRzVBejQ5OGFDX3Nnd3FuejB0QmR1aFpUVThOSXJ2N2ZVWld5MnBQaHRjNElTeC1FcEMwN1laWndrNm05Z3NQVXJhVkdsZjVHR2h6dm5fU0dpU0VRLW95YW52NFk2ZDNodFk1M05qS3JQbWtOMFpQVzRKNWhaSmdFVUZm0gHKAUFVX3lxTE1Oc2F2TVZnclhKUnZCTFFUUkRoTmZxY00zNGZfLXpkUlFyNmpvUGN6RWFYWnZaRmsyS2x6d20wQmpZRDNfRThNay1HV0Q3VUNUTHVaY2JRWTNWUUc2b1FiQVBnRFZqRFZhTjNnb1NNQ01XMVR1RUVHdURSbFFqVXFjUFhHcHJiRFJjM2NGRmNnUHhoTWFCNTQ3Z1FjSkRjdWRYUlpwNTRNOEFnN1FmUEFUYXBEZkpfY3g0UWoxdzdLYW5KZFBmcXNmOGc?oc=5",
+   "published_utc": "2023-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: CET Cell declares exam, admission schedule for professional courses; details inside",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR0dWX3ZSVm16VWhEVGpidHBZNXBoUUxtaFpnRWR6NXdUUGQwbkczOXZLY3NKNEtmNVNyczZLWWVNRVFoaU1xc09qbUl1UkFjUndGNWZuTkFCY1MzNGwyMnItemEyd1daZFpJb0pkbmktWXl3bVFCVU8ybHVVVkM4d1B5Q2V0V2k2djYtbm5CVnBQRWVheUI1akNXWG9mYUlKWVlIcXFOMkdSZFNPXzI5cmRGV2RvaTJObFhkeE9zNEw1VEo3Z3ZXRk5UdEZUOXVG0gHWAUFVX3lxTE1HRDB5Tjc5RFVzZ1haY3I0dzRGa0pMNUVUUVJqREg1b1ZrT0tTeGpFcnVLOXp5RmNCd09jdlZqdjAtWm84NWU1bmNXc1QtMFJ2RGV4dXZDTW55YVdSaVA0ZnNDZ0xfMmNyZGNKMmFRb2k2QnFIZGR4a2lPRnNHRmxFdWR5VlNPRTU0Vm45dmRpUHZ0ZkNNMXJWYjRRVkxZMzV4MzZnYXFkQXRKUE02UW1iTGZpZmExY3hpcFVucWtRZzRXU1drS1ZOY3J5cWhrNDZmQ1c0TEE?oc=5",
+   "published_utc": "2023-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

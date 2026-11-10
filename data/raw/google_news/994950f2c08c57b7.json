@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "To fight crime using AI, Maharashtra Police create MARVEL",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRF9oNVhpM2NyNFJuX1VuZ1RmbGYxUTE4TXVPUTBzZ0F2UDMtb2s2OVlEczU2N1BaRHBrZEtERFROQWhheEg4VkQ2X3QxZkhnTHRqdDlHeEoxSURLWXNDbGFfUEhfd2JkTl81b3VrVHVBMV9MRjZ5ZkFpU0lRVjBFbjVaS3AxemQ2b2ctTFBlWDYtZEJzTV9CREVDMUtrcHZjall6YllTR1NfU2FqNTJnT0k2d9IBugFBVV95cUxObkdPeFNlSlRlWEpCQXEyLXZ2TmYzcjRqODRjR1J6bWR4elBIeHhsQW9lekFUbUdwWUI4c2ExTndPa0dVNFlCUlcxRDVpT1N2UFdkTWRRekx3VWs1WWlZYjVINEluTGxsdldFem5YbzJwSWpoVl9CeUR0QXB2LURiSHFUa3VYekc3VlBtaTI3VUY5b0FKRmllb0RJYUxacGRPbWhXUmFhYnZhWVUwX0lLYzdCdHRjb3phUnc?oc=5",
+   "published_utc": "2024-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt to ensure safe & trusted AI, Internet platforms must curb deepfakes: Minister",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVm5US0ZkbjV5Rm9mWjNfdFpoSEN0ZUdGazkwalhuVGc4bzJJaWJYc1pvTXRNS3NtcGFBSkx2TlI0bmc2TWZHejB0WmU3bUFzR3RwSGJic1dGT2g0dzRuUGZaN1JOcUlfVkdWdk00T1Y0RUFxYzdSRV8tSmNLNTVCbEJTOEJSUWFpN0hiMGZnMTNQVGpSYkVkZUNPS1BLVjVGOW1Kd0k1cmR6Z3JsemttTUFETzUzemxlakk3aHhZTW5WM3Z1bHFFZnBIaUxsRDV0MGMxUE93cWZxWXFTS2pLMlM5TnljYUNHUm1CVDdfbkLSAesBQVVfeXFMTjZzMFNCSklhMlM2dlNZaTFSYWNQU0xHTU5rSUVlWDZkQjJQVTZ2ejVmVkJiZExWZmdQT0RwSHFGaC1QYXlTQ2xHWkxqeGtIOVlyZllNRklfcnd5djBUbDVnR0FRV0c4WllzTzZNenRlS3FzMjBpRWtYUEdhMEtqcFAtNVI4UzBKQ0tsUm1uVmFQbE11dnJuM2NDRmo3RVB1dnBVZ0dnWUo5eFMwMGZyQzJvVUhvNjdzTEU2NnRaekw4VlJ6UlFzWGVNVENnTUowVDF1WjdYNVBkYnppNGMyOWdLUmM4VzU3Z1otQQ?oc=5",
+   "published_utc": "2024-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt announces Rs 11 crore prize for T20 World Cup-winning Indian team",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSG5CWGVEYjBPZDV0ekRwNU5TLXhyLXVzbFc0LWNkMjJSemZWLU54VkJJLUFCRTV0V2VqcXZNQk1nWWhwVm8tM0VjUDlZaGhjd3JxY1V2b3FpNVdfOGxfQWxIbXBrMFJhcXlrWl9wSHE1b0RqRExDdmR3N284Z0hqUmp6aVExalVUcUFYRk9MVnUwUmVsdVVscVU2OERNZWJsd2d6ZFhWbzV5UUk1RTAwMU9hWHRlVjFtaUdad1o4VlA3QnFGWmhQN2U0ZklVTzhOcDk1NjJiY1E0cnJxSmI3N1R30gHnAUFVX3lxTFBXOUpvOWVuVnMtWHFSRHNaZmQ4VHVKenlHNXhjdlRIbERQVlN0YkpXWG1aYUJPVzBwRW5icWxFb2xTNG5KaFFIMUlVWS1nR2M2Y2djUWlKUFpuZ1ZRbjFfR1lucS1ncU1KY1E0cmFGUFZrdFJiWElrSk9ycGpZQlQ2NUEtTmxOX1hSS2VkaC00ZmFFczFyT0pfYlZET3dCUk91T082Q0VvYVpKV1lTdHNKcVFrMGxyQ1FFdGhOalU3UUxJR21OU19LUklKdU5uc2Nxd3JJWDJwM2lnWjhuQ1ZMLTlnZ2w3dw?oc=5",
+   "published_utc": "2024-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What is Maharashtra govt's Ladka Bhau scheme? Who is eligible for stipend of Rs 10,000 per month",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaDVGRHhWVUhBQWVqWjNfenp6S0o0c2VtNmlWYnRQcUdFcEMzb2RZaUdpU2dlYVdGelBxSHIxTXZWOHJsRUJRNTJRdmZxTnlJY3l3akNsYXZIVUxqMGRXLVhIVjJ0VDRQVHVla2VidGw4Zk5RMVRWNVhFYm1VYXhNbEYxMW5SZ1hPcDV1WUZEZUtPMDMta3pWQkxJd0FYU0trTmRGS1BFUU8tOUhISFpTeno1cWIxbWIzQndPN0lTelNjdVRfb2Z1MnVXWEtoQzVCVFZMTlZxUUhyMXpJYU1ETzhXdnQ1NFc0Z2ZPSE10X2wwbFBnUUhXeGhGQmlhWlVTdkNIUFVDV0p4dU3SAZACQVVfeXFMTVgwVkxiOV9ZQ2ZWcHlfb2x5dk1fNVBuTmYzdlc5Sl9ieGtLdl91Nm1rZllxOGRmSXdwQ3U5N01XNkZ1MW5HaVZmZ2NLSkk0aDFSc2dsc1Y3eUp3akJBVlE2M3ptVHBGMmNoY3JHQUI4UVp3LXA2dDJyMjljZW40aUVxcUhzUlY4YlJlYnpRbHZBQVFBV213YzN1cWlGRUlCTjNGemY3Q191OHhLV29yRkRoRC1QdTdYVVRXTksyWjJxLVRGQVRmN2RtaHVna3FzTjRUSGRZSW10cGN1QWlBOFFrVUcwazZfQlhqOGRyUktqOFpKR3dhTnZUcTFiay1kSWk0SGk2TWZXT0J5ZGxoUVo?oc=5",
+   "published_utc": "2024-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oppn questions Maharashtra govt over Rs 11 crore reward to cricketers; ruling BJP hits back",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFlzRHQ2Nl83Nkx1UzFtZEJrNF9FUTQxalNqQ051TWpsSWZpNHVTMWx5V1o1NzFURzMyUXRmQ21wekxKNm85ZVNSdmRPV002NVdvb3JzREU4YWo4bk1zdmRrUGc3OWZ5cG1EZ0ktUnlfb3AzdVhuUVpDbldiMFEybUl2Z2k0YW1CZmdVZFh5SmhSUTBPcU5ydFhNODI5cHNWOEVKSjVScmx2aVJXR21mbGlKTWNVc3k3T2dIVnBLb2xaZGxWTVU4Q0JjaHNLMDJCeTJR0gHYAUFVX3lxTE9kblhZbFBfTnlxUnZXN3lkM2daRXY5ZVl1SDF5RElhRG9JZTVjNEd6Z3FINk1UYTM0bF92QlR4ZTA3LU5uT3Y2Wml5N3NTU3V5ZVpRWmZBbVllZGVtREF2SE9BQzdabUtxZzVYNTFONUVDc1FIMjRLWVI3RWdDTER3akpYd3NpdVRUeHJxalZIVG5mMWJYdk9vdHhqcGpCZjVPMGF0TGUwR1JGTmZEeWlaZUgyZU9rbGluMms1Tk1Id0pCNzA3a3RvaGhTQU1yNEJQMFhyQU52LQ?oc=5",
+   "published_utc": "2024-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to spend Rs 5,500 crore on internship scheme giving stipend to unemployed youth",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUDdlQ2p5UjJKc0M5VWxra1NqMzk3VnZhVFh6MU5sQWZTUWNwdnpvbmtvbnJ3ZWxBNUJhY0RZMmk1dXA3a1RFRjlrb0cwWVd2YVJES1pESU9tZmQ0SHo3dWpIamI4MFJsb1BaRmJhang1eXpCY3MwWlhXQ240ZUZvNHVVYUlGVkFGa0RQaFRPVTIxQU92VTY2YUtsWWI5VXQ2bGVUTklsQjdSdXBXWUNDOHlaLUNxanl6eldsc2VmZEpqM0QxUmtGbUVtc2hSNG9taUtudm93ZTEwQUJEb1BvVDRzbUtVa1XSAe4BQVVfeXFMTXBUQzZ0LXJIY2lxUGpQaUROY0thWUdwWGg5eXloVlA0N0JIOTA4UDU3TWtDUWZmNWtfNDVKT0VqczE2dzRoS2YtdjNnNVB6UFdndmFJdThORzFvWTI5bVJzZ1pFbzM1MC1UQnpTMW1ndjI4dVliR0dScUJaOHB4Rm1FTHJNN0laR2l3OVZxaElUM01wcGdMT1R1c3hBN3BWZkZnelBSVllYeEdOdjdFWlVPVFV6Ym5mNkNacU9yMDlUR2djVHI1d2t6SXk0cWo5cUZyQUQteThmWGtLLXh5cDdMcHhuTXZjR2trc2hxUQ?oc=5",
+   "published_utc": "2024-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra, Andhra Pradesh CMs discuss cooperation for progress of states",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMFIwZTdBQjFZNE52REtOQVZCNEV3RFVaclF0NXVMb0k4bnhoRkV1MUVmanJiQnNadDFOcm5ISHJOU3IxNW5zSzVYMzJiTEJNVzlkbHVoM0NfZGNPV2tnWHAwYTlQSmtqOUF1VXJ6bEtlTXVzNm4taUZXX0ktNGZsMmRCS002U2JheHI5WW45c2tLODkzNzRnTDRqVmphVmU3bUFMWFFKNExPMG9FVXgxQmRiYWV1V0tDOVp2Qkhham5maURIQVBmdUxZaDgzaEZ4M2JnVXMxZmJhMkpOZzVfcWstdWRYbjNoN1V3SFBxS2zSAesBQVVfeXFMUDdnb05KUmNZY2RpTDQ0blJhejNfSlo3OGQ1MldKa2tnSlhRTkpnSmhRTDZiZEJxay0wVU9RUEhlYl9tWWdYbW5VS09pVGxqQlRwU3ByRlBVeW0yYkJKdEl1dTNvMW9zZjc0dDAyZzBReGp1NlBOTWlHRTZub3JxSTF3TXQzU2ZHeFc3c2c4OHdkOUlJdnNONDFUVG9Ydk9xS3ZwbVJMUW5Oa1p4VEE1QlJuUFJITFRvckc0NENmUWVUNjl5NEdadGp5bVNzT2V5SGRPalZVa3ZKWU5XNktoQWgyNlR5S2Z3dmdSMA?oc=5",
+   "published_utc": "2024-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dental treatment to be included in Mahatma Phule Jan Arogya Yojana: Health Minister Tanaji Sawant",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBabERqMUFlU0tsd2xJS01LWFlfRkgtOTdETjJpaFh6VlhLdEpRa2xGX2VUTHNOcy1XMGdmcVh6U242VzJvNktIcGhuaklxNHhJRVB1clhseTRHcWlURllxN1MyNEFhU1NzRDl0MjZqLXJ3ZkQ4djM5QzNDcTh3dkJsSThwUmxyUjYzdjFVM21pQjdzazMtQmRiRGFnejNnOG9qcFk5X1ZoaGRRN2haUmFHbUhvRmZCN3JNTjliVldvSEp40gHLAUFVX3lxTE9kTkdYdmt4U0lhWEF5Q3d3TlNCNHptLUZTQWZieVdKbVR5ZmVTMUw0aWVjN3pLQ3ZyTkQwWGplUG5OWjVnSXFtUHZYeG5wbHNyRDFvS2xOVzJudEZNeG53Z0pwRGNHaXZWX202QkwxTFFmT3JCMkU0VGlsSl9RZDgtR1FVYW45cVp6WlhyOXRLaW9aYkZOZ3lvb2gtek9fUFdISy1hQko5TDN6RlFUQm5FaDlva2JGWWdxYVJtU1dFSUlqOHNiV24wVmY4?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI has potential to revolutionise healthcare as wells as medical education: VK Paul",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObTJqRFdZZnZhQ3lzSjBsb0VScTdCbXl3enhMb2lwYVBoZE5CSU1aZkxiM09YZk9iNmZVTmJmeGV2ZHVDc2tIa2gyZWlhTU51VzBKZDRHUXdWWUxiMFh6RmJRaW10Mm5QQUVLbURpaldlN0VPM2dRMzZHRmswWFJYbGM3cTMzaHNSRFJ2M2dmMEROeGtVOGJTMXU5ZVlsS2ZZaHBhUVdWNUNLQTRQaVZBOGNSRmxNb3J4YUVrZHZzMGFuYlBhNTlOR1czalJBcmptcm41c1RZMFFQQnlENnFOME16VDdCWG9HdEtNUdIB8AFBVV95cUxOdVpoTDBGTkppQlNfWGRWdmNwQWswdmFkZmtZMmZfa0dZUmQ3VllJNDRXZ2R2VDJtNHRKc19PbWxpeVRZQ2ltNThqN0V4UEdhcFFXU2NkS3lXSktVd1dwY2RlMlYxc3l6dkl5UngwemFETDJRMjlhYXE2WC1iUWJNWTk3MDVwVmgzZEFwcko3aDdHRkhUanVGX1RqblFwWUJmRjZJVDUzalRpc281RmZUMVl2YWVhMDVRaVppSXVpZnNoUUIwbVJqZU1DZkJ4UVlQdVRtT2k2d01udEVkU29aVUNhQ2dyZEI3X3VPMFJaYmY?oc=5",
+   "published_utc": "2024-07-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt notifies full fee waiver in professional courses for OBC, EWS, SEBC girls",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMXBadFM2VWljTVQyNFB4M2xyMTBxOVBYeUhtc2xadnRhYUdXbjdzRXhPWkZhbEFDVlY2OWxZR1I5QlR5RmVlV2FmOWlmOVpDcVlNOS1EeXJlT05EaDVlUHFpZHZXcThrRTlqVGdTQWVDUU0xcUJoNnQ1TFZ4MmZLeV9ueEFFOVpUTDZicDZXWjdpdjZ3dXJaemZ2RnlHM01qcWgwV0ZMTkwzcUFKWmdNX0FtcW9NZEdxc1FFUG5LWlhVLUhRQmRZeG1mdjZGZFE1eXkwRk9KM2w1UmNrQnltRER6akExcnZGVzhjNXhGUTdVanRnWUZna1ozR0ZIU1nSAYMCQVVfeXFMTUFYcDhmOS1GUXJCaEhHYTFxVTMtSm56Z0dCbXdTTmkwczc0czN3ZkR1eWstclFrWmxRVUFudFNaSWxrekFXWUtWeDVsOGVjbEpsNWM2elV5bHRlblJ4bUtGdkpmMHJWZmxXM2oxcTNWRDcyUFBwZUxxOWpOYVdrMjQtWDB6S3VEUHJSQTRXQ08yYWowcHhVTXhXOTZOclQ2cEIteUlCMkYzbkJUUnlVU0RxNUlkSXYxSE9UeTJiaDVTdVlyQXo4NTJKNzgtaTUtX0dHNEl2OEI3dEh0amtLOGdKa21kSHI0WkRMX2YtMnpuM1NiV0hjeXV5WDhHSXg1WlhRSQ?oc=5",
+   "published_utc": "2024-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

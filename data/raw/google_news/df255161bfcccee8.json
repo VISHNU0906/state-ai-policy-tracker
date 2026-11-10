@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Andhra Chief Minister Lays Foundation Stone For Adani Data Centres In Vizag",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeG5sSzhxdXBiVEVKMEZjeUR0TFpkSXljbnI3UTZIN3BHV1diMVMtWUZDbWM1b2llNFowNFZwNzBWY1VCMU9YQWpDS3B0TFcxZlNSOTNyYmtPZmdEWjB4Y1ZvdE1ZOWRndFA3X1hMM3pWN0kyQkhETkV2cFpqU1VURUJjOWxEMDJkNW42UFllOFdrdGhJSjhQZlU3RUxFajh5MEU0TmZOeFFzX0F0ZFRWUHAzenFYNDFoQjJJ0gHDAUFVX3lxTE5aWVh1N3ZpUm92dzB1MWtFVy1iVkdYVjI2eWJGeDFueGVPVlNSQWltWThZZkJBUFVlWTAtOUFzdDRJbnA1N2ZTWXotbmlNai13SUhaTzN4OFJpM0R1ZnZTNGE3cGtsa0VOeTJReWY1VXNOUlBNUHNTcjFrbzVjd3VETm1vX29sUmVPQ2wybmNiTFRUbVUzLXU3X3JvZlFMeHFSa1V1eXdER1l6ajAycjVfaEJTZ1ZoUGU3anZrR0JoNTFOMA?oc=5",
+   "published_utc": "2023-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra government permanently does away with British-era ‘dotted lands’, gives rights to 97,000 farmers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2dtVjhuX2Z1SW5EM0FnNXBQWmd0RG1HaUIwX0ZxcGw5d3d5SmVydnI2NDRFOTF2cFdpZGxxUHdQUEN5N1F2SktWNlR5UXkxNVJRdzlEdXdKbFFvSW0zNWRsUmZQVkp3a3RjWjhEV3hxRG1CTGgwc2VHT0hYeDNjRGFSaURadFF1WlNrYWotMHZrOW0tcjNNYXZjQnTSAaMBQVVfeXFMUGZBMWFkR25IQnRNbTVPYVdGWGhxOUc2a21MQ0VEMV9tVTRTTUVzT21ZekJLUVlpZjRUUFg2OHNxdUt6NkIwOUxrWk95VkhsTjl1YUlONk54Ym5hRDU4SHlrcm1qVWtMUFdJdlV3WjZPOExNbkx3LWZVY1A0a21nNkk1anV3dC1iZzNWS2Q0YWZFWE5EN3dSUjVlUlE1eHlydzJoVQ?oc=5",
+   "published_utc": "2023-05-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt assures private hospitals payment of Aarogyasri dues",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1lKTHpCWkYydDk2T1V6cVdvSGEtcERuMHJZeTYwcTFPbGxocV84czNEaUZ5MjNWcUxHNXpEeGZIaFNsdXJhTllBVlh0ZGFQaG83blpkUGFmLTUxRFhmSWQ1WGJHNFpyYnctWmJENElnNlBjVjk2Mno4bzNTLWpleW9jc29JbFEyckZxdzNBVUhYUS1tN29YRnJ6M3NUM0RmQktWVWQ2NEU5enNrTUhSSm1R0gG3AUFVX3lxTE9MeVYwc0RXNnJHeGtFYVpmem9pN2dXUWZvNE56UG1WYVI5aHJMZm11TWZ0aHNra3RhYUJZaWwyRmdMdzU1cjdsRkZoN1ZzWUhkX0xpZG1vUUgtTDRvZkZFOUZ1RDA3Rjc4Qi1PeG1fdFZ6Z0lSTU9fY2hTbThWTk1XNXZXNTlydEhMbEpYMDRPQ2MzOEYxUWpKYlhYNy01NzFJMXVwemFlSkt4d2N0RWFma3k3NENHRQ?oc=5",
+   "published_utc": "2023-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AdaniConneX to build 200MW data center campus in Andhra Pradesh, India",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWVTLUd6ZllMQld3RGx6NnBtaFJPTjBYbEtibmhEd2JxVGpIMkxtYVliNlM1R0N6OUExcldxVGdJaGhQcWdodnRod2xfWUpZSnl6NDZfVU5UWGlrcEpZTzdsNjBubWxDV2Q5czRmd1NUZVo1bmZrRFg5aHNjSm9XSkVNdkJOSnNJdUEtd0o1TExTaG9DaURlb1RpMDUzV3REeFNVTURpa18yd25jQTBYTmVpVQ?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani starts work on data centre at Vizag in Andhra Pradesh",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2c0c2ltWjBDRWtaNUdIZE9LOVlHMEZmX1pJODZfbVVhY2QtTXNPWi1GMC1JbFcxclBFYmYxVTUwdnFDb1NUVDZnNjVmODdsbHR5ZTRqU01lWkRLMTJYUzFxN3NEb3VueDQ2Nng3bXdKeXRvdTVmUXFxZ1d1d3lPUGtITjF2dVdHTFAxTTJMcVBBQ1lQYlRWSHptOGtoLU12Um1OaEFTUWhMeUJyTzRERGkwS0VodjlsbVVfYWdibF9GUdIBxwFBVV95cUxPaG5DM0VNUUhWX0lhckRMdTlaZDlnNG9XVzlsMm5kS1kzNUlNaU9ZSVJBTW85cGNrcDJkWVV4N1F4Ti1YdmhFa1NFcXR5dkdTV1BGelJBbGd4dU9GS1ZDTmVvMzRDWEhWVzI4UDBCT2NQV0VHcm5Sb2IyVEdSVWZXaFNnVnp0b2p0a3MwWW5vNW1jS1FGa2NZTGQzd0xFN0lmV0w1N09CU0VtaE5Wb3hfMk83X1k2UE9aZFhKM1ppZnhzem9ZdUE0?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Jagan Reddy launches construction work of Rs 5,156 crore Machilipatnam port",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUl92LUstdmxuM0pjLWg5YTcwYlc3TzhFd3dSQ2RENW5kMXFKeTJFOWlwalZuRU1MNFctUHV3Tkl6cUp5N0dzbVpoUHNfTDlyMlZxd1lWSVJDcktWdGt3eDNsaWgtYXlmN3B0SFlySlp0eU1pcjdTM3FSZEc4d2FUYjR3aWhFekgteWxUYVE5VGNuUmtVY0dvR0JHYk1DdzFNNERZdXFrek9wc0ZQTTlYb0k1bFdkOFZ4dWdEVUVaeHJZYVM0aGfSAcwBQVVfeXFMTUdyd2RPRkp5NEFtTTdUUFg5R1dnVWlxdkZ3UXZVS2Q0YThSNmE5dVpsOVFxdk9Qelg4VWlXcnVYOUNJQjFmdkJ4LTlhQkVxZkJVYndnOFdYNjBTb0hJZldiSUQ3NTJVM2EzOW5IVkt4dXZ0cHh2RGpFcDhqM2FPVDVKYlFMdmFldDAyMDRabEpFMjB3MFVEczh5Y1F0RXVUSXloTnVsbmtUMUJpYm1qbUQzWDVVd3NCak40ZFZfT0lnc1d3LTdfdWRMbzU4?oc=5",
+   "published_utc": "2023-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Minister says YSR Arogyasri available in four states",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk1HMWEybkQ5ajJrSElSMGJqM204OTBzSlpzeE9YVkhTUUZ4eUN4X1Z2cWVWYVc0aXZhdjJMQ3h4c2E5cWdpMU5XNDVFdU9BSnRmTTkyWG1mUURqdkd3MzZwSzlMSjFuSTRJSi1NaVJscmhzcy1IYnBYcHNtM3ZqbUNfTEdEaExHREd0RWtITGpVVkQxaFFQRDZDQ0JGcVdVT2pwZkMzS3EwZFphR3BFajdLSnBsNmND0gG-AUFVX3lxTE84ZFVIZ1V6UE9hbWVCNlVqWXdjSE1LV05aekdMenJGaXVyQjM2a080YmtCa0NEb2FvQ2JsaElja014R1JYRHpNOW90UU52V0dUazFzM0lSUWlsbUtYLXZEbFlQcmtPQjFvQ2RlYXVkekZsNTZmY0Z1ZmJ1Ukc3aFc4dUdqbTFIcFB4RHBmWDI3OUtqV3dTcjBCVEl3ckxwSGJGcmw2di00ZDlEMG1QM2k1bEdwTzk3M0tFRjNQdEE?oc=5",
+   "published_utc": "2023-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM launches Rs 5,156-crore Machilipatnam port works",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlLcS1iN3M2aElvS3JRWmw0Mm50NUw4SDdPb2lFcjlldmxyZnZQMjVsazQxcVl0al84X19YNDZKOHFZN1ZwbEwwZzd2YW1YLUstczF2UXNDUTlJTHNwalYwMVJIR3RGZXRsQ2M1QW53REo2bXRGeHBRNGNkZTBZaGxaWGxsR01VekJpb2dFN0ZTV1l5S1NwRnpka2paUG14NzBGUW5vM2VraE52LVEwZDcwZG1tQVJoM3pVVXVDMG9zVWhHcEJRMXZn0gHOAUFVX3lxTE5kM0djMGdBYWFldkxoa2NrX2p6RmlUdFJCWUlPSE5zZTQzT2R2TURfWW8tNVYtTWgzZVdENVZNTmVzSHlPeUxVdEtCbEdrZGpPc2F4Q25Rd1V5QUJ2WEwtWUpGZXJhVGtKNmVZbGpVXzdVeGctWVdkVDg5QVJ4T25GQzhfZTZ0NzItajZQRUNadW5ndE1rb0UzMjVYcU5GMEdmM1JMRHNzaFZSODVJaF9NV01jRjF4TURFVl9OM255QmFycm5RVUlxTzY1amVB?oc=5",
+   "published_utc": "2023-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu's guesthouse on Krishna riverfront attached by AP government",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQm4zUUt6alp4LU1YT0poLVFOWmxWN25PSVdObEpvdHlqMGhwYzNPOXlqdGNoU0xMTDlLblNCbzhnRWw1cERIcFNFd2RTLWJUQlBQSmJ6OHJ5djlicTFXNDc1YlM0QTZzaW1qbmJOOWh4YjFHV2RaenlKWnlyQzZicU9UYzBDVm04b1FVRnVCWmEwQ3lSNVI4aGZ2Z0xXdnlSNTNXeENISGZfbjE0QzI5cEJqWnNrZmFXR2c1WWRMSjBja3h3eVQyWlVtajZXT1nSAdQBQVVfeXFMTnhIeEVzVGZ3MzhTTjZidG4xM3BtUXA2U3RVX1JmV0pBZ1RfcTk3Mm92cWNNUGdZYlh0T1hHdVV2VjVsNXFiMm5vUmlvaW1zVzU3MW9YTnNQSVVuYVNQbkYyMTZfX0oyN2RKX3Y0NHpUQkJPR2FUVEhvTS1qTXB3d2ptUE5UWXlaUTdNVnhBaEs3ZFIyVXNNZmJUWjVDOVk5VFRDb0dWTVg0UldreUVhR2x4NTFLd0t2SUNJam5Ca1lUb2hLQnI4bmU1Q05aeFhKcldMYU8?oc=5",
+   "published_utc": "2023-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government hospitals to run OPDs in evening too",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXlFbGw2c08teHlFNGdYUmdkblUzV1VPQ0xxOXYyTzUybU1xWHRsZjIzRVViZDI4S2JqYmJnUVBJU3U4OHJXOWlpX19HdFpkclZ5MGJ4aERWaDNoOHdHLTMxeXhiUmdxTEllRjJrSlVNelAyeVE4enVMZTQ1aW9pNnY5NVprMDk1R3hVOWtHdkN1LVp0emNIZll0YlgxTFJua0IySm9ZUjRNOTUzTk16NUxXdnXSAboBQVVfeXFMTnd2bE5NWTdpQUdqakhaTUhRdGZQOGJPR2VsYnhwQUtNU191clUtQ2V4SXdzT2c4X2loLUQ4cloyVXZBc0xhYUpIcThQTTZnM3FkTW5mWnFpdU9MUU5UYjI0UUFHVGxxTmp3dXpuYzFQZGlfN3Y2dFpRZ1J5VjdKSEotOTJpT00yTVY0bFBoY280LWhuYXNJUnE5SEJVRllTbXFGZEhvZVdvaGpZWUtOeE8xTkZfYVk3RXFn?oc=5",
+   "published_utc": "2023-05-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

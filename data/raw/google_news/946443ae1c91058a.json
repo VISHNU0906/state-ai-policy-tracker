@@ -1,0 +1,13 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "‘Our village lives in darkness’: In Bebar village, the Gujarat model is a distant dream",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVZva2VlX0RjRHpfVVdSSklHblZjZ1Y2U1BScUNfY2JMRkl6LXNqRi1rQlFWbWIxaXBhRThYNzkxT2Q3ekg3SGJJaWh0WFlUTFdEdGstVldnbEdRVTdSRjVUeW9USmIwRFc2LUhQOXdSQ2NBOFNNR3VlUlo1OTN1ZGIwS2twV2pmczlnVWQ1NEM1T3Q3MnhvSDdjcjF2dUp1VzBXMk5pSXppZVdJdFAxeWRhTFhGeUlLdHExdVk2a9IB1AFBVV95cUxPUS1zWE9LMXdYWnRnQkZYTVVoc00tSU5YMVpzeVFsM1NvSHgwZGZRSmRaenc5em1xVHc1NVBkbWo1a3ZwaWFhc2hUNFZ2TXRveGVWeWgtQUxFRVhwV05ZM1BBREJQT2x1TmdVN3J2aXZ5QjluMTVvc1djeE9VeEhUTlZwaEtYMnJESWVxX0hPZ1drdldVc2ljNlJGSHVJZVdzX2JFUXE1S2JfZjN5QVB6U1ZOMHRvWEdkTTZYeW44WDhSWmd6OVEtTEJpajBoU2dqX0dReg?oc=5",
+   "published_utc": "2022-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

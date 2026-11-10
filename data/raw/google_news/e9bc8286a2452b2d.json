@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "The Hidden Environmental Costs of India’s Data Centre Push",
+   "source_name": "The Wire Science",
+   "source_domain": "https://science.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHFWSDlFN2JOYW9sUkNJaXh2blJ6R1VaWmhPVW12Q0xjemI3bTRrSWk3VlRvZkJQNHYzekpNcFFOS294dms1eUoxZ0JKTElNcWNWOTNfU093SU5QNUo1M2c5SU5FYTNtN0N6VVViZnZsSFFzUXZlOS1QNzdGRlZxZWNnYUotY0tXSDZ3czRJVTFrWkw2MFFF?oc=5",
+   "published_utc": "2022-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Is Chennai becoming the 2nd Largest Data Centre & Cloud Hotspot in India",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczg0eDBqaFEyV2NOTXB4ZVdSN0FUdjVvV0RKbWNiVlhhV09JUTR2cG5hTlUyamtRa08tRUZ4MEw5d2NtVWE1TEY3VDBTWHVGSWF2TTVxM3dXZll2WVMzUExnT25QVnhoRDNNM3ZhRzduMlpFdXBUNG5iM2lBX3hDZXZjeFVsbVItNzh0blNMOGk?oc=5",
+   "published_utc": "2022-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

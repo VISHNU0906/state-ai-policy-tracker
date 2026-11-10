@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Maharashtra: Allocation for farmer crop loan incentive scheme unlikely in Budget",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVpERmFWVWE2WG9qNnk0M0dldjVsNkpiSDhMZWVVbFA5eVBCbFRNcU92LVdPYlJacmppcXpoWjRMQjVMSFN3bmtIbWV6Q0loVUZQeTN3Z0JOZ3VpemF1cTlFS1ItaE92amVFU2Y5RE50UHVvTXdRQmIzMlBEZUZqZVpOTWk1US1HQUx4TF9QeXZaLTVtYnlwcXFweF92Zm9vUHFVNHFWdENMOW5QNGtWVkZpZVowSVhaUkVMVDVrT1NpVjBLOHJpRVFNV3E5REVBbVHSAdgBQVVfeXFMTktPOEFCaV8ybWUtMFQxSnNsc0trWjhiQ1VEWlNRdTB1TVhnd2FEZ3lhNE9YeGpadkJCbkVvd1NXOUhScDcyQlcxQkhpM1JfT052eGVYWHo5RkxzekR4WVcxTTBPdVZTUVYwdFdhLXM5dzQ5VmJVRjNOT3V3Qm1fUHJ0RzBRNEJyTkpXaHFFS3RLeUF3Ml9kNHh0ZmgwUERQREp0dUFha2UyNDRFNk1wSmtTVm1XT0xURWMwa0t2VTNzQl81ZW9vYkluMG4wR21XenEzQ3pLOEJG?oc=5",
+   "published_utc": "2022-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Daily flight on Indore-Gondia-Hyderabad route under RCS UDAN flagged off",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NYXpjX3hsTTVQTW1PWlRabGhCUHloak1ndHRrTjRIZzJOWWh6TnpNcXIyMU1yUmtnSmxCdVV5VDY4UFF5dkFDLU84VXVBOEJTQlIxWWgwb0xObHI1aTJlMWlSQVhmSjQt?oc=5",
+   "published_utc": "2022-03-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "e-Sanjeevani portal doing well in Karnataka with over 43 lakh free teleconsultations",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcTRPV3U2SDlmTFd0TFFyaWtRMW5sd29sYktSd1NNd3plck5XZ1VOQXdhLUR6WXZ3MmQtdFNVUTBqRFNzVUlENUlRX0JPSnpsSldfVEFLZ1hJRlBQTEQtNG9XYzhURUhmOWNPUks5NG9HZWZ2NC1xUjNqUmdtdXJlSi1wU3p2cWh6WDRHTC0xcUhlTzJJeWZpanBaMUVidTBOV0NWeDJkQllBeFNDMUVGQWVQNnQ4SGZiYWF2Slh1U1RLTEp4MzdJdXQ0ZUktSVZqQUFaQ0VyTGRtd3FCZjNPVEdpamNmRVJ0Rk0xU1AzM2JVZ9IB9gFBVV95cUxNOGczTGctaG1CWGZZV1pDQUQyVmg4aF9uQVdMRkc0aHgxdFFLWkVHLXcwMF9qV3gyU2Z2QUJGdVRBSWJ5RktzZy1veXZ1ZFVFSHlqcGhUZ2pWMUZueXg2U1lwcmM4M1BFTUk3SjFtWUdSRnBXUjhCSFZwekNQQU1iWGYzQUE0MlFKWXhCTFVzQjFDUXhuclVJYkY5NUZSSnk3YWpQY19hS1ZrVzlFYmNGOWhFZjg2bW1Ha0RpUzViYWdtM2laZndnVEhGQnhwdVFwYm5fOV8zX0xfLUF6UUk5cEV5NTdKR0lIcFRuWDlfcmhpZVFLUnc?oc=5",
+   "published_utc": "2022-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs150 crore allocated to Shirdi airport in Maha Budget | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd24xd2pvdW1BTFFqSFlhM3NVUTdwcjJoMXRtXy1ZTWkxT1d0T2FsanJXM0swbmJQNGZpc29Bbm4yVWtsMEV4bHJqYjh1TERMSndiUXFXQzdmSlc1dVROcVhoOUNyZzZ1d0k3cXBEeXJSMHVJQUE0V09HMDJhYlNzV19jSGZka1RQQmNrTmtRbm9JeVh4aTNBZ1FDZkNfaWFPekJrYV9WNm80ZGZ6VUNEVEQyaGY2OWg1dlBQUTJDckHSAcYBQVVfeXFMTzhENTl2UWdaNDQzclhmMVkzOGNyaDdwVDVsaXB5R0w5aGNRVnJQbHYydm83eFRleTJ5cEZ5RGdWRjQxLTVjNjFKMWJBUmd6d1V4R2tlLUtXZXd5NjdjWnFLMTJFel9FMU1uM0xHRlloc3loTTVXMk94RjZ0Z1ppbHBFZmJDTXUxTFpBN0dzNTNZZHlWNFhVb2w2WFBWb3l1WW9ldVNNX0V0UXlhOXRVRnlOWGxsTl80QWNZRkdpTW9oNjAtTDB3?oc=5",
+   "published_utc": "2022-03-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt may change its mind, hope for Nanar refinery project revival: Dharmendra Pradhan",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUGJCdzBRRE9sRnhpLXFuMEttLVcyU1JleVJDN1RIUjRqQXdnVkpsMjl1aU9xeXV0a3FQMklEZEY5TzZqeHZKLW1nNGdHMW12Z0xhVU90LUpZSFVTRS1sTy1ZbjI3a25jRmNULS15akdiUWtYdjREdkxKelJLZE1TQWJ0VHc1OV9BY1RTZjlzUUZPR1Fxc29fbTNuMWplVHRvajA2RFVvQU9XTEFsMGN5Z0dKcXl2Y19ia1VtWTRlMnduOXlEWTJGNlFB0gHQAUFVX3lxTE5uWmgzaENUb3lMTmZrSDJSekZjS2tnZ2lfcjNkQmp6Snh1cUw0NUJMcS12cTVqX2s2YmVsVjVLMkpudjFUb3V3YVJxbWdyem13TXBYUkpld3FCcnZURHZkT05xaklJRjJzY2FHb3ZMcHpYZFNzY0VSZndFYUFBeUJmT2Q4ckg5ZEZUZFBNbTFsTF9DZl9fUHNmTEcxbW9KeE5PUFlsUThhdFF5VGZ5b0cyNGNNZTJySW9adlU0SkxnWk14YzN3eDUtMUd3UWlpWm0?oc=5",
+   "published_utc": "2022-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nashik Municipal Corporation's mobile app helpline goes defunct due to software glitch",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR1RxUUxQcTFUbWdwd0FBWTZFSkwyb09Jb1lDRTJKNFZLcFJadmFsekdrRHl2QVZiR25MRGZ1aEJhR3Y2NDAzRWdhME5GMlMzcURoejlhZG5jOVQ1MlZnNV8xSXIwbGZONWlUQUo3YndqWDZlQ3ZPRk5zZkRpVUduTGp0TDZ1UExmQmtwck9ZZXN5eWV3bEtsVmlyekJfZWFFWnZyTGpxZWM1VGVPRlRpMjQxaGR3OGxWbVl4OTEtS3M1TkNPWVRIS3RyVjMwUTZSZXJjeWhfRnFVTFQ5amF6ZVJSZThRNC1BZ1o5UElGbFBIRmvSAfcBQVVfeXFMUHhoYUo2NnJfdW5ZWEowSFMtdDNKNUplbFVMeTlmZU9QQ2JYaDJYYW5ocFMwOWt5LXo2SWFFY2tsbVpsVEJjNks0RmhYODd6RkppWmN6YThfLUdfWnNFdkxVZ2pjc2Jkazh1M1dJdllHSGViZ0xkNFdMbUlRU09yYUpyOG5uNnBkR0ZXTkdVTG16T0xkdm1iMW1sSDVaMk5hMXhkclVlRkg5b19hVl9tR1JWa0RxNVpud1B1b2ktdzJNZ0h2eEFuT3dKR0N3R1lrbmhOQW15RFpQZTBIUXRpQ0Z2NFViVDRtNTFjUjNndWdpVm9uNHRvaw?oc=5",
+   "published_utc": "2022-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "348 dengue cases in Maharashtra this year, Pune tops the list with 90",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFRIRnFjM3VpaWRHc3lFN0FsOVlMT3dPejBwNjVFLUNnd0JETFBRbXRadldBRjFNbmlHMllPaDB5LWRvOW9kY195VXZfWVYxalNyUTg1R2lLYkJUR1dYeXNuWXlDeDZtV1FfRlBHVDU1a0F5MHVLYTdETW5CaGpwb0RjSkhFZ3ZVRnduenVtY2FtRHN1RndTbWh0Q1V5Y1M2YjN5eWpsRGQweHVXOXdiT1Y1WmxKeGw1WHAxVHBn0gHEAUFVX3lxTE9naEtYc2Nrd2NyZ3A2ZHdUeGtvdkFrLVdfZGUxSDR6bDZROGRfQmh6aDRHczgtN1ZwSDgzVTVOaFFoVnBTU3hySnlCVHBUdk1QM0xUYWtycVYzY0R3bnlmdVN6T0pkdnpVblNCSVN1RHhpVVRDUlVCd0E4YTl1OWo3MURvZGI2Rm1KelRMeEZWSXpCR3p5aUxNLTZVSV90a2NzSExkUFkxMnhqMWtOOHo2MS0xRTJ5bXpSRW5idWZjNGN4YnM?oc=5",
+   "published_utc": "2022-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fearing Lok Adalat, motorists in Maharashtra clear e-challan dues of Rs 57.15 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTkoyRGYwWUdPQlI1WnltY293RHk3NTVOUGRDNFI2UTEtY3lOeU1KMjRWaEFRMXNEZmVTVmMxTTB6TkVqSXA0bmd5V1o5RG9mMVdYbVNkZ0Z3M1FPSXBCZjcwcjV3bDZKSGh2dUp5V01SWFYyczRIV1JQRDd4MGhfdnhhVHpKUFB3U19STnJncEZWWFhmWFp2VW1Iam95eDAxVDZMWDBDSkl5Z9IBsAFBVV95cUxOMGhaTHdfZmx6WGxtN0RRbHI0RzVqRE5iaXNjaTN3bDdROVI0TEJtX0RuY3BPQ0RjSm1UQmpXSmVEREV1WHpiNjBsaWNneGJVYUhBTk45VzJhTmhmRWV6eTN4VXhaX2RrTC1STWFSdkhFMG5CdE5ZWWpKMXRRd1RzdFNMdXRaYkN0MDhvU2xQNEZvSVRLSkNPSGxGWDlNOTh3M0k5bnZhLXYxTFJIVEN0aQ?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: ED to attach properties of Jarandeshwar SSK worth Rs 65.75 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcC0tTm1Kb3NIWm55cjVCZUk1ZXp6emVVZWFxWEdVM1M3X19uT290U0ZzbENvOGpkVk93NkpBUUJqSm5PWUdmTUpGaUtydGs5NTF0Um9HLXE2Vm5ia3BxTFlQazhWYkdrajAzZHNic2NwSU5WWjRjTDVjTVBqbGtrOHRNekREbEdEcGpwaU9KRDRBc1JWTkpwVjBuMk42bUR0Um9IdnNwazRtUEV0dkx2SThfZjJEUEg5ZHlINmxCb1hBbGpFZFHSAcwBQVVfeXFMTlFmaURnSFc3S2s5YWtpMXl0eTdUUjR5aUE1ZDJvRmt1UkFMbWlMcE5pZFRlalZxdjBjMnhYd0VjcE9YeWVhQUN2QzRTSlU5WmlwVmt5VWxCYWhqQm1ENHl5Vi1WVG5jQVh1cnFFaURWQ1U1TXl1NEdjdzYyNk9ja2RuLVlPaTZuU0tTc1duOXB0X1UxYV9WLW1DTkZZYjlsOGNhMXlYQUt0bHc5NlZXVEFOYVVLUDdRaXJLV3JuZVRia2N5RjlpUlg3VVJq?oc=5",
+   "published_utc": "2022-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bureaucratic Reshuffle: Maharashtra Govt appoints AS Limaye as additional chief secretary of home department",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHFWV04xNzQ5WDBRalJfVldhWElGT3FTWFFRdTVEM2l2T1Y2MHJIRXlDSXc0Q3IxYlkxdElqc094bThNWldiRFZuSy1XYVp0WUtBOXgxSURZZ0tmUi1BVEV4N05YSUcwV0ZCVlRQeGplZ2RKRW9EaHFUcE9aV1FIdG1XZjhmaEl5VUNHbExTRi1hUE5qNHJHeVMybEhNTXRxRkZCQ190TV9vMkNLMEpwNzh2VmtKaU5pZDZ5aHJEQTJtTU9vNjFFUlRQOWpHckJVZFpSNkJSX0kzSi13RTdN0gHkAUFVX3lxTE9QQWpmRlB5ckhHRk9VUUdJVkxOcVpxXzVGV2RSbHpDRVB6ekFBR2dFY2ZUaWNuR1U1UXRRNGdCcHk3am5od0p3Wnk0VWhJeWR1NHdpdnBtWHc3WUFkRHFnNkNHQm8xRm9fRnpFUTVUOGFYS0NiSTAtV2FtMnhmclNpVlVFR3dMbFRfYTBXdlNxdExYWm5OWHp2ODhBUkxOUk04dFhyZ0gteWJzYmE5eGJTZkQxRjczR3ROalo5NjUzUk1kNVh1cXp1eFBPMkR4WlhncUpSNC04SHBzVXJyT2Z0WjdpYQ?oc=5",
+   "published_utc": "2022-03-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

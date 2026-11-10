@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh Cop Suspended For Refusing To Trim Moustache Reinstated",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTdhWEhkUkVrUWk5VFB5YjZQbkU1TDNzbDBjaG10ZUFxMWtrRVpZUUVPVlFkU1VoelU2ZDFOOUFtbG1UbHN3UngxWmdyQXE4Rk9mYXB1WlNhdTg5bzItckJKM1JQdlhTeVhVWUdfd1lydlZaUHI1SllBN01JNnNlUkF0bEZYZjJQanR4dmkybmM5eWhZSVZLb213QjY3eWYxTlpHN3dpSWJHVUNiQTZWdFlyZkVWaVZDU2hhSDJiaw?oc=5",
+   "published_utc": "2022-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Implements 73% Reservation in Direct Recruitments",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnVjQUhzRkVFVTZLcXRYMVpMNTFPUWpFR3RxaUREelRMSFdhYTB1eVliY1Q1dEVqV19Ob1VnN3g3WVRYNncwb0FUUVJXN2wxS0x0OGYxMDNtV3dLLTRGUXhkZVFKSURYVENkZ2tVZjRHZ0pQN3RWeEZrYUl2UzBBYW9VYTZRMjlfU0JsS0FldHRTQkhMRHJRdFFLYWhnLUxQS24ySWlSaldsSUQxQ2lPYUprYkLSAboBQVVfeXFMTWpIWDl3OTBLcEwyVjZiLUZ1SzlHc3hDRW1wdHhYMGxtbzBhczJPQVRfbVpOb3RqYlJtQ0V6aVh0TjlUaU8xbGp4R0JSZDlsTlRSa1hVZ1pXaDlSMlFyaWgzUGo5bEpzZC1VaXFJMTF5b3dleHNRdHpNUXRDZmxRQVdhZDB5bl9EYU94UUV1MVFLMTNHT1Z2ZlZPNUgwUTF5SE0wOVI3UHAyWEMtYXdYTldQZmE3c0k2c0ZR?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MBBS, BDS Admission in Madhya Pradesh Medical Colleges, Check out the Fee Structure for this year",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOekZ2bnFxclJaZUt6alp6Q0R1U2RGSlJJMUpCdG1MbGVnRjJkVlA4R2hxUmFsSWNBOTM5bHFoVnhNbklJeEFNdlRtcU5rUGlyOEw5OUhKSU11T3RDTmtUbXlXY1ExckRoRmdpS1haWTFEVmxLRjd6eEthQ0laTHlRWVpTcVh6cXZ4M1NDVmFFemUtM29xaUNldUw0ZzNqV001enV4bDFzZ2hJVURXOTdmT0UyOWFRdlFjdmExc3VzWlY5WkRsZ0JWSnp5dTI5YXF1YVltakczX1hwUlJX0gHiAUFVX3lxTE1TQmhWS3VXR29RMWN3Z0hwTUlwUjJXT1luODFSLUtfZkJZUm03OVF0aUN5RlJ4R1AwMlpxLWJWNlN4Qk5MUDZKNWVVeE1jZDBiUUl4NjBCanFrWkUwM0t5YVhmVHhKdk92a05qQ3ZsUk5aT1ZmUVJqMDh0Tm51OFMyNVNmTzN2dFM2cm5KQ01sWGw0M1BGVmp0Z2doMXcyUElFbXlvYzB6UUJSYng0Tk1oZll1Y0RkQmpwWER6ZWQwdDVka2QzMFM1dDVqWS00bDliTTJHaFJqcU5yNVB3REdQX3c?oc=5",
+   "published_utc": "2022-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "1MP Armed NCC cadets of Anjuman Islamia School celebrate National Youth Day",
+   "source_name": "RightNow",
+   "source_domain": "https://www.thehitavada.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjFGaTJMWHVHYVk4bndrZzl0NUF4Q2JXVDdWQ2FyU0ZEY0dqUjZuSVRsNzFEU0k3TUNMSnZWV1hpc1AwUURoSmpUQ1BYU2VIT014Ry1YaWlYaXNDMEl5bWk5NmQ3SWMzU2IyYWFta0xWYnY0MXVQVGctT0NPOTBRb2ZKSUxkZEpneXMxOFdNZkUtN0FITU1zaE9rdGhaN2Q3R3E4Y1k4S3J2bGIzRHZEa2k5Z0c0OG5QbGhFNUtBUHR3QdIBxwFBVV95cUxPaW1oZG02d3Fhbm9fZUVvRG5FbERtSEJRZVBLMlkwWnN3R1kyelh5SVZfVlJHclIySnVGeEhkRFlJNW9lUXFMMzNubEp3REpnTmRia2xDbWVGbk9NZm8yUnBnQWJ2SkpwUm43ZGxBT2l0dWwyXzRCaTFqVEs5aDkzV2lIaXZoT3lDS2J5R0lvOG5FbkJlZnFrVEllTVFhQkJRcUNndXhZbnRyak9tTkpZV2xZR1lfb1FJRS1jVVQ1YTZzQ2d6eVZN?oc=5",
+   "published_utc": "2022-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "505 Kg Ganja Worth Rs 1.5 Crore Seized In Madhya Pradesh, 2 Arrested: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDRmWmdGLUlOTU93ZHhmV1ozYjFlLXFZYlZ5SFRWUzF1Q05QSmFPbjZjblVZSWp3WHdCR0hCcElzMG1mQmtWN3ZfOWZlSE5lOHVCeEMzbGRyb1dSWGFrOGxLUklTbTlGWXY2YTNxeDFHV3gyOHd0bG9YR043RHplOTNQUGJpYXQ1a3NNMS1GTGcyVXRZZWtNWWQ3QVNZMTh3R3NsSnFJbXphWXVWZ0dXbWg4MXc?oc=5",
+   "published_utc": "2022-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Professor, Principal Brawl In Madhya Pradesh College",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNlpoS3ozMUVpS0NOTXJPc1g3a0MyS3NiWTBNOXlNWW5tYmk4NjhoVEpmV3k5Mk54RW9oN0xpSzJfWmRWd2EtWl9aWWhLVzhzTEszcFhLOXcwN2lscGtsNmUweGhfMEZDcFp5bG1EdHRrMGZnSlA5YS1fbWY4SVdBVVBwVFIyMnkyZEdOU196bTE5b0tOLXIzb21HaHZfZw?oc=5",
+   "published_utc": "2022-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"My Pride\": Madhya Pradesh Cop Suspended For Refusing To Trim Moustache",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2J4UUlwdWYtVVF6ZENCZ2Jxa1BFV0p1Q1NZQzF6OXJVVTZCTzdDY00tT0M0SXdfMEZkcTdEZDR4RWlwTXdOUHdudGg0Q3VoX0hlc0duQ1dmYW82VnVOSFdzRi1jUkdoSHA2Z293RFozdkZGWG8za2tyekZVNjJWWHdONW8xOER1YkxfRGRZdlJvZjRLaEhPQUJRcTQ4SURDU3pwdUlSX0FMVk0?oc=5",
+   "published_utc": "2022-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Patient Dies After Homeopathy Doctor In Madhya Pradesh Gives Wrong Injection: Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHdqc19HRl9pOHk0ajBRbVBpY0pxaWYwN3ZLa0lSTS11VmE1cGlPSXJzM3BmYTNOUEpad2pPdi1jMjBGWld3ZlliWmhTVWY2Qy01emV1cjdHYzB6dG1wQXpSOEhEektSZTBTajllQ1F1VVJhV2VkNWhLOUhXSl84bDctTDdoWXdZNUhsb01MQmZ4Tl9fM1ZDckdDNGVralpybXdNN3R5Uk1TMTMtQWdOcXctRGZKZ3JHSWthdjZhV3U?oc=5",
+   "published_utc": "2022-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh govt. ties up with Google for harnessing AI tech",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2Q5N1NvMjZzcWFKS1hLVUZpY01iLVpOdXRfTkhPWkNWcTNQTUg2YVRMeTJDVlpRVDZqUTBia0MwZEZKQmRNNk1idXdtQkIzYWtLaWRzZ3QzYnlhVGc0dXFnaDRwTGF3eGlfUFJBYzJtM1pLWlNZdFRhVW9QVjlWLUhsc0JuZ3RsOFQ3cUk2UW9aVnBvY05BZjJLWTZyMTdVWUhSeUtwbjg5Y0lqSlhkSW92aTU3ZEIxQ0FhR3RwalpfOFZaN1VRX1FKRC1oek16UnfSAdgBQVVfeXFMTzB4NmxpeUVURkdZOWhtLUdDeFltRnhGZjBLQnpmdlhQZVpnYXV1eFFiT1F0VF8ycnVkUDFXbkd4ZmxScWRsLVNiY29RUkZ4R3o4NUlxNTRTQ3c1LWdsUVpSWFh6MTlQTXFQT0N5dW1nbEw4NldnX2RqZGNSU2tTZkE2cE5wekR0X3RDS1N3dFlOVC1GUzYzZHVCa1dzdms0VG4xSGxaMVJLSmdieEkwRDlEd3lyWmM0dTRhSS1pSWVSdTlqc0doSk95TUNRSnJqYms2RUY0eFhF?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google inks MoU with Andhra government to establish AI Data Centre in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3g4Nm11SFNSbnk5Qmp5MGNfdFIzUjZNTnVHUjNiaVFfVm5rV1VuMnFrM1hWZmlXSnhZdnlZeFBabl9xZGdsUUthdUV6N0REdzFSMkN0TGxLeGZnQWFXVVIwR01JejhYYWljbE9hRlFLd0hHaTBUaUI2cHkxLWVYekZiLU5CeTVLb3dxRTJ6UUFpU2g2S3NfR2Z6QUZ2MmhwUks3QmJTMzVLcTA4anFaVjJFbml4M2s2SF9VelVrQ2RjeTFGazJhWGY5LUhXTkNrZzNNYVdnbWVmQdIB5wFBVV95cUxNd1NtX3d6OVVLcllhU0luSWxVc1Q1b2NRSldiLU9EdlRJUmw4TXhoYXRwUEwtV3R5ZVFlOWU1QmZDMGJnc3A1UXhfM25LZUEyQ2JMY1dFS1o5TUZ1Sy04NndfZW4tWWMyTXQ4OTJPVHBaY1pjTjZiVDhGMVcxRHVQZlcxYVpZc0JkRklOV1NKaU5nc1E5Uk5FMXpCaV9lUGQxQlZ5Sk0zZmpsMmhJZGJZNG1MR3NaZkRiMFlmZzhNMVV6Yjk1a0NQQmNtTFpWYVY1aEZNUG9xbTYwd1dSeGNfVmQ4cHdmNVU?oc=5",
+   "published_utc": "2024-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google partners with Andhra Pradesh government to build a future-ready AI workforce",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSGNJT1E0czZ4Nkg2ekUwYXJ3MGdUd2oyQmh5bjUtQk1XOHhJTkd1UGVkNV9YYXBCOUhrRVF2MmI0RDYtd0tlcjNKcFZySDhBbDRxQ1oxZWZLdG9hR3hYYmFFc2pnWGk1RjhFUjFxRjRHTXVwUVJyWWpGek5Ea0p6Vl9QYW5kUUdMdWJRYUZEMzYwaFpZNHRqU0I5cU1jaXQwcDhEZzBReEQyYklwX21RMXFQNURocU11WWR0cElTRElCQQ?oc=5",
+   "published_utc": "2024-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google signs MoU with AP govt to accelerate AI adoption and innovation",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY3Izck5nRnpWZ3c3N1RxMWgtQm9jcS0yZUU4YndCQTJJel90VE1ubDJfeUtCMXB6aGVabG1GTEF3TU1ZTEhkLTFBMGpRNUxLNHBXUXpsd1pLbHpNc0hUc29hN1loLVlXdF82elNLY0tSczlMNkNtOVg2NlZhcEQyTTBNLWQzTUV0ZkdnSWw3VzFTcERkandYVGozM3IzM1FPM2paeUNIc3kxVzItd2xUSUVVX2JEaFVWUDNPM3RpOXhUUWg5TUQ5MlRydDdjVmNpekRIQ2RR0gHbAUFVX3lxTFBzekdnclo0WnFnTkxQM0Z0QkFhLVhoUG5aSXB6OTlsNk9BMng1V24tNDJaV3ZFRFpNTl9ZclI1UVFDQS1sRktJNDRwdjlYaUw5bXl3eG9FWEl4bHJhTHN0b1pud1hhb0w1Y3I2Y1JkQzB6WnRVUFVCalBhbUNqNUtvdjJFVXdsZXJ1SldnMFA0UzdiYkRuZlVwbEhFUWVoa2FfTExmS2dyOXFPaHlkM2Fvcl9meGNhYWxDSjg4bUdiNm9pVnZPZWZ4TzJmeDB6aFVhS2Vna1d1a1ZWYw?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nara Lokesh Leads AI Innovation Drive: AP Signs MoU with Google",
+   "source_name": "AP7AM",
+   "source_domain": "https://www.ap7am.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXJnS3VtX0tSd1B2WEttY0pla2J1RjI3bS1fM21xTUg1emVkZ3NyX3RISWtRLUhfMDQyX0dEdGxsYjZTU0RxelZ3RmkzaHFBZGZJRzBidExEV050NlF1QnZMcUtkSGN2dTJXX240Z3JVMEY4Wms0V183dnk2WS1mQzRQajB1NXZhekNkMl9uM2xvMDRoX0k1UNIBngFBVV95cUxOYmd2UG4yYmMzekE1dHo5UlNhYkJpU3VTT3FvSVpvV1BuakppbEUtNVFjX25hYTF1Tk56dzl6RlFUZFpfRkFyZVpENS1uVmRFRDk1TV91dFhkUlV6QWVrUTJrMWZXTDRvSUI0MnBYUWxlNWswTFNZanVadkRaVUFQZWtIcTJSSHZiUjRFYWNXenIxTWhrVVY3SGZyS1prdw?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh partners with PhysicsWallah to establish deep-tech AI-focused University of Innovation",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZXRDS1JWSnBxVW5QMUg3VF9OMXZ4ZDU4UmhVY0ZuMThXeEtoMHRpR3hvM0djRV90OTZBMFRYZjJTdEtfbVE4enhTUTFmcHE1cGUzTW1VOWhzYXM3YmNRMVg5M0NFQlY1aV9fQ2JkajllM1g5WDRCM3pVa21xS2cwOTZiQllVVzJIRnNSTi1RbmxuRW1LWnFpcFU4dVdwMzJrb3ltM2Nwd1dHdl9nemtkcThENDBPY2w1d0Q0ZkFQWXA2am9pVkdORGY5eHZfaFF3cWFVRGVXenoxSV9PZlNQZjFEWnNwSm5lTG83WFpLem80d0ZMS3NFQ1dHYmxfU2ttR1JEbNIBigJBVV95cUxOU3JTdWlvSHgtV2VMVlRzMUZ0VWVEWVVGLUFwWVJYWnpZQjFMMHdrSGpKRVJhb003d19Ubm15aWE2UjBLdTZYY012c1lDRmJwZjZXc1ZsUnM0NlNGNDRveHhvWFI3cGFiRnMwblZrdHBTYXpVS2FoSy1sTENzM3hNd0pkNHRjU1FkQms5RWEydmU2RXhPbWpyT3JhblFkQnlRM1VhalJqNEYtUU4zN3VWY0pZUnMzVjd6RmFua3ZHMG5lXzMxdDdGd2JZS0RMTzFTakhwTmhXREl3S3RGTkQ5Zm9NTlp5dFZaNk14a1VOV1o5RFpfbDI3RVRja3Fyb1JxeGx2STl5cE5hZw?oc=5",
+   "published_utc": "2024-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google partners with Andhra Pradesh for AI initiative in Visakhapatnam",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRTV4bi1ObVdKMTFwcWJoQ3FHdTNhdE9mMkMzUnhMYkJpTld6OVh0ODk2enNhbFYzNkl5UllxOFItVC1WaF9PdXBmeFdCX2NlZXM0Y0FjM0ctSURGdmpfYnpMbWExTzlJX01uZ095WFBraG1TWmxpTk42bDRNbkcwdDFieFZxTVM5cnhpNnVJUWNCSGhxQmtrcnR5MmpiOHFXYnNZWmVsYXVTN1pDN3JDNm9FOVBEVE41Wjk2SlJxLTdPWWk3eVlhbTRWcG1xa0ZRYjl0NzJB0gHbAUFVX3lxTE14RDRkNUQxVzdqMm1CZlQwb0R5b28wdElSNVBhcEpqZE54d2l0aUhheUV4WERxd0JZUk80TXJRVlFuSjBtWW9LNE9KYzF6ZkFibG0tc0dkNE94djhpTXE4MnNjSGx1QWVud2M4dHFkOW5QZXVSenZtejNuSWQ1ZEhiSnV5MW1sNklUSTZ5WWZnR21PNTdqckhQalIwZ0hUWTROOGxHM1hQb001ZDdLbTNsYjdZOE44UEllbmRIY3BOaEtEUkZtck8xWG1uVzNFSXpEeTJvTnBpUWYwYw?oc=5",
+   "published_utc": "2024-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to set up office in Vizag, signs MoU with Andhra Govt",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTXYzSWdBdXd2WWtqVV9sZFZXakt5TTFuUmZSRGF1bkUzbjRNNm1NcE5mZHZqU1ZUc04tcVhLVUtuMG5mNmNjU2VIM0NzWkFzYUprSzJSSG1aRjAxT2lGdDJhZkt0eGhDVktkZjVCaDVOQjFEalpWR0lTbzh6bUlrM0NQU1hma0Ruc3pxdjhQNjl4MWFSdkZid1kwOHE1X1pNaXljZW5CMNIBtAFBVV95cUxOczNITFJoSXRFRzdLSkRscm5rdWRpeUh4QjhIc04xWVAzWTlkel9lV1BIZlZIZzFPdkw4dWdGTktnOFdSLVN3SDdDbWNCOWdlTVA1X1BFZ3hiQnptYUFsbXkzRmlMWnNlYVFaN3drS0xBX0dKbGlva0tZZGJoTHczdFdIUzJVS0FTVndVWTh1YzJGLWtMMjlidTdGN1MwNWQ3dmlVd3RnRjA4eXN0S0tfYUctX3M?oc=5",
+   "published_utc": "2024-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Govt Partners Physics Wallah To Build AI-Focused Institute Of Eminence",
+   "source_name": "Inc42",
+   "source_domain": "https://inc42.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXI2cmhrZGVQbDc2b0hWVmtEZjN3dWs0d2pqQ2pUQ0FhaUNGbDVLNHZyYjJkMTFTb0lNaUtuODBmanVkbkwzU3VjbmRIS1czSlRSVW5UOUVsZ2tlbjd5OF9ha0lQLTVEcVVzWjdLcEIxSzFpSFJQLUJ1VWE2ZHFzUzRyczVVUXBsQXJrWXkwaG90TnlpV3BTYjdfcTNFMHQ3dVA0?oc=5",
+   "published_utc": "2024-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Students of KGBVs and model schools relish brush with AI in Andhra Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNGE3TGI3bDlHNUFzV0xTOGhaZktsRUlvVzVsTnNOZFlyQlRfdVZiM1NXYktvMEo1ZllFdU03anVqNlJKNXdENjhDc2RKa3BMS01wMHZ6Q2dZVmJxdjE0ankzU2FSR0dpV2c3dm5iQWhwOXFQWDY4amY1a3hSSnl4cTVmTTM4RUxETWYwYjUxNWlKUHFXTWlOVlJwVy12U0Vmejh6MGxnN3BNeFlyMEM1ZHNvUUpZRjBZcnpRNVFLVXh1NnUxUGI3NEdvUG1BLUJMZHNOY0JDeTI3SzVCUzZsc1Bn0gHoAUFVX3lxTE5ZbUM4NEtya1lPb2s2dm9NOWx3OWp5eGs3aEFLV2JIUUdPanZEOWtTSTdwandiS2NNMjJrb1NkWjdHcXBlTzdEUTlYdHdHcnppcUd0dFFhbnZoQWZVcks5amk0c1Q3TXVLc25sZEsyWnB5SHNMSE5JanpJRTFDN0NVS2dtVkUwREE1UlZxOHM3SFJqYTZOU3JHazd2TjZybC1JVTdmRkM0UHg1MnFVRkNpcWFjMWJISGZZaENHSVZGT01rd21VU0FnSWtJc2c4cFh5N09iRDRpVkVFSDdBdTFSN0NXN0ZQelQ?oc=5",
+   "published_utc": "2024-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt signs MoU with Google to advance AI",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUZ5Uk1kOFIxSnpoZWZUUTNvWFdmakliaUNnMFdZVlV3dHlsNnNIMy1LZ1FEemNrTDY1YUl6aWN2Q1ZGLUlZdWhSMEY4TGk0bUxIMTdzME90dlMtZzh0bVhpUTdyR19XMzMwSFFLWDNPbVNWQk9ydVBNSGVUZ3dfbzY1dGF6ZjNRSVpSb0xzdHdocEJkNzVxcGszYlE3cWNraG9vN0RUQUdiSHppYmRQd1VWc1NTTFF0d0d3R1Fpa9IBzAFBVV95cUxNMUVIbWlvSnhxWFVjSDJ5ZHc3ellmSy1CM1E3YVdoOFgwcEhxQy1NYUhiQVl2ZzRheGR0Xzcza3FRN29QNlVkR2VrM2cycnFaajE4Q1Zad1FoWGNVX2NwdGlBdnNVQ25jM0h0XzZ6UWZ1eHU5R3h6dDVJSmpBUHloWWNhVmM3Vm8tTmpXNktvbElOZjlqY2txV0pfVGlkR21MYkNJdDZoYkVyby1qR0dmSmttTXhRVVo2YnRtQlNaM0QyczhUdkZUeHhTM0g?oc=5",
+   "published_utc": "2024-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State to launch AI-based maternal healthcare app",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV2FtSGlPcm80anp0WFdHbHNpYjh3cHZDcW5XaERJWUI0eVVkN2lIX2p1Q2wyZkRueTVBb0pGUU50NEVGSjhhdWlDSVl3MHRVUHNpekVVUGxyUFlTOV90dFo0MEhsc091RGk5VUFsa2RXTU1nLTN2TUZxUV9KbTRFdnJjWWpOS0NfWDJfaWJqbkh6Yl9ORlhTdFE3dnZwdGN5TFpXUzhnLWZHbEpWU2FPSFlQNDBTRVpnQWtSRGpnUWUtbXJmZ2hpV2h6TmJRQlJfdks1YUZMaW41S1hvdlpvNjV6UGY5bzjSAewBQVVfeXFMUGtydDhQMThwT3hhVEdWSktCaE5TOC1zQkJJZ2ZqdEZ3VzF4NFY3WV9NQ3oyaGhsUUhXcWJSbG92MGJ4c1B3NGQwYjNtTVRuTlM0b3JBV2hsYzNjblg4YXVrU0tqWlBxclJDUUs0eC1KNXU2UVJqQi1vck5WZ2NQcmNBX2JjUEpCMGFWNmRHZWNYX2t3TzY0M0tuZmZzaU1Vc2t4YlBXWTZjTXlQdWVkS2FwR1hKZDN5MjRlajdtc29YQldIZDhKQVFTRWtHUFZBVUY2VFV3UXlld0I2SldfdnN5MFJWLVh4dFVjaUI?oc=5",
+   "published_utc": "2024-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt signs MoUs with Physics Wallah & TBI",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3I2cFlOOE9IWGNZbV9jMlA1TlQ2Q2Y2U0phdFJDVWJpUGpPQ0hISHBlMHRaQXh4TnJvNlBncWtDaFk2VXlrQllnY3ZzcGlmdEJTTmctTDktaHg5Znd0SjNabnMwZGZxWFg1S3lmZnBMVUVLejBiT1A2dVJYcDZ5SkJlYVJ3TmR3cHN3ckNXSjlENU56Wm9Qb3h1LU1iTUxUY29mdkFwMHlZRnB5WkhFSndOUElZQjdhaHJweXVR0gHLAUFVX3lxTE5BaFRSZkFXWDVreUhtUW5FbTdPSHVxdlpYdm5JcFhuRVVHZFU3blUtMWQ5b0dzbkVUMlM4MnRNQkU5NlZObld5YWg0M1pzbWFrR2hDNWp5U2JrTGQxQWtNbFRkV2lvSWRZSHB0NjZvWUNKY1plQzF3dnFBQlhFbXl1Y3RINFBaUXBybm1yeXd1eFk0NlZZWjVuRTAzUmZCb2UzYXBuZ2tuMXIxYW5JUGZRck5iNGF2cVdQbHlGQ1ZQT213S0RpVUxFTkZn?oc=5",
+   "published_utc": "2024-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Chandrababu Naidu envisions Andhra Pradesh as global knowledge hub",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYms4b2Vxa3RmRGxTQ3A5dlZvWFRpdWhsQml6X3BWS04zSEVEeldTclhyVmNTUW5tRW9hWWc2dmwyOWZCdF9wWGNXVzlUQU5lX3JnVm10bkpPdksxTUlQeExpR0xPLWd6UktNaVlGbnV5eWhPUzFMcmNjYUI0SkE0UDN6U2FpeFQ1VWZoZTJIY2dtdk5GY2ZmT2RaaHZLcW9YU25LSUdRWnpKQjc4bGwwb215MHNibkhmaG95bEtNWFJOM3l1TUZBU3ViSVVueDFNWnfSAd8BQVVfeXFMUFRWVHRVWTJkRlJwaWg2VGZkb1h1SVlsdXhMSkxJSjh4Q2kzeE5YRjhMb0dGTjM0Z2syVHp5QmZBVjhNXzBBY2JHTDVXazdJMGllRkJuYXZyTmdGVjVyVGNxaHZaVlJOU0hjQ0R2MGdvM2hzdlpmVHlhc2dXb18wa24zV1puWjFHWFZHOFpBX0hlamFxTC14a0NRMlc4NklyRUFfSmpaTVZ6dVNfek1rS1FzcWxfbmpwSlo2Y3ZNTHVTUUZGaVpkOGhpQUpON3JLUEFkX1ByRzRiSUZLUnlhOA?oc=5",
+   "published_utc": "2024-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

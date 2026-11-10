@@ -1,0 +1,45 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nara Lokesh ends US visit, Andhra may get huge investments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejJ4WkdsOHprS3lza2hmWUJ0dnZDdW0zRkJJMzZTcS1VNjdNSG1HYjZKMl92Ym1nVGpIalIxdW95SG5paGlLYkMxM3MxQzN1M2M3TS1MRVdkY1V0b1YzT1pkdlczZzJ3SEJGUnFYdFl2dm5BUV9xdjlmSGlCQjZsQ0tLU1Vrc21BWXl5UmlsdDRjSnpJYjlxRFVmR1JvR0FGbENrdGJ1S0NlUjBzMlFJczNkMFNYcXBvbThNbVF3Z3FMUdIBzwFBVV95cUxQWUZJcUhqR1YxRzZCQ2dmT095TzZHcDhoaHJlY1FSYUlXc3V0VEl0dXpBX0tsUXhrRFpaSi1EZ25vT0JfTkZma3VlQVFWVGtIekJlWjBvN1BISktubDNGRXU1ZkxWVFpHUU1BQlhjZGZaemZCc0tFSkxYbmgyZFNOWV9zbmN5T2JIWjBHVjhSMUNDVlhGd2JsZmc4WXdUYTNZcXI4TXlfOExOUW5IUG9lVm9lNjFRZ2tsZWd1Rm1zcWJETklsSmY0cFdjMWtRVk0?oc=5",
+   "published_utc": "2024-11-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Low fund for education sector poor in Budget: Former minister Adimulapu Suresh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONloxV2xxX2pvNXlYZFA5MWRpb19VLUNrcjk2XzEycmN3VTNNWTd5Ny1jRlI0dWZLOGRkLW9OYkJ6ckRYbzZKTWt1YnZiWEY1TjkySHNkUGg3bWlMMDRoNDFyQlNJZ3pnNDViVE41dnBILTVJSlFXRThqWDBTQVNBYVFjbHpUaDd1S3dyRGJRY2gwVF9PMU85ZWxqQ3BSRGtqZEx4aXlETEhacHp2UXVGejl3cVdGcUxLdFZWQXRFN2NuQjREVHNueDllOWlnbU9OVWwxMDhJU05RUmlKLU9VVUN30gHnAUFVX3lxTE5zM3MzWlZkTlZSVXAyTTBOSVJRdFFKbUNwTlJma0hWbWY2TVQ1N3JidmtWMW5FUnppcXg3TlRxSC00UEV2YnlMZ3EtaDBDaW9oWnRPTmJodW9xaklJTWdPOTk2d21hbWZPYXlVVHMyRk5fRU9DUzlxOVJRbG9VZ2x0elVQbkt2eU9yQXpOS2ZGMV9aNUh1NXBxZjh5RnJrYWlqOGdtelNsa1AxOEktMXQ3QWVvM0c1cF8xbkZ1QXJTMGo4a0pKWEFsa01STVpJblpxV1RuTV95d3V3ZXM3ZEtrWGdwSkJ3dw?oc=5",
+   "published_utc": "2024-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Education builds a solid foundation for success: Actor Suman",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWN1N2xlVG9PY2t5ZEg3V0tQZ1VtdHZ0TTFpc0tzQ3RNMHVNWXdpNXY4RXZlX1JKMDBEN0V5OGl0by0wMHMzaFdTUjhxNzFZb3FnbHVkNzk3QVhLeDMwY1lSdjJ5NlZ2cGIybnMzSWR5WGExTnpDb09pb0JfRjRZcGVFWGxRMTNLVTc4ajhMaWpPclVVR240UU1RbFluSjNBSmRwR1FXZlEyZkdKLXduMlNmY2dkVkpkV0Q3UF9DT3lUVmlsYy0tRFBR0gHPAUFVX3lxTE0xeDA0U3RabWRieFNXZWw1WVRBZ2ItRVl2bFN2emU0VkJTa3pGdjJhOXp1X0hmUE9IMWNLZkwxOXk4RmgwMGVjOGQ5bndZN25YREZtd182dXNUSEZBUUxBZndsQWFzTGJhQ2MwT0dpZXFvMWlpSjlud2VGV0xTdDU0MFI2YzBPTl94UFp6WlZVd2FmZjFwRzliV0pNRWJrMWRJdFlkd3F1RHlWbzJzckpzb25PaEVma0pkYm13ak9sdUxJem5ycXNNekZpcWJLdw?oc=5",
+   "published_utc": "2024-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aiming High ... New Batch of DSPs Taking Charge Soon",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkZvWC0tYjlQcnJIdjRtbFdVZm94MnlJNFNiWnFEcnZtaWRWTm1UZWNPdjB4MXhMSkJ6cThmMGU1dFVZVXNZZ01tUEVEOU9yTGVFZXNVOWdMaHR6YkZxVk9qS2ZDZE83NXZ5aVk4b0RlWGtiQWhkWk5EdDdabVBiMnBrenBpQ1IxLTFZeXVNYm9VQTBxYktfaG01dnhScmNla1IwSndreXZqN1lyZlhjQzVpMld4QkpBWXdN0gHAAUFVX3lxTE9RZVgzVTQ3enlFSUtfbS13aFN4WHJybUJGaGZremlrV0YwMVVnZFkwSG1fYlVJNnhaS01pWTZPRzRDX0x5RFk4ZFNCLXBKNDdwTW96blhJamxFUndzNFhsT3lkczQxZW1RamF1b0hkSTZBZHp1bTlHSENOZEZZZU1wLWlNc0FienRVN0N5WlBlcEE4dTdBWjZFWm83T0kyMmhSd0RFMnlBZTBISUlZbUd0QUlMZGxRSm9GcG9JMkhLdg?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

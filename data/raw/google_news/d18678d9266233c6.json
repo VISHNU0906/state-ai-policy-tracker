@@ -1,0 +1,13 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Aviation PSU Pawan Hans to commence helicopter services in Assam from Feb 8",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFk5ME1XekxRSFJaWDlpcU9JNWhFQ0VfajZHZ2ljR2xkYy1nNnhiU1d0S2hiTGxwX3JsZGZqY1RvR3VMS01XLWFmakt2Yjg2ZTBsV1N1VWJVX3ExVGdHZ1ViNjNfdEFadTJIM0lYNS1LSUZMQWlRdmFWeGFDelVQc3Y4dFY3SWJUbF9JTk5EQ0dITlVfLXllLTBGaDlHVXFSUXVUODZxdHI2SXhXYzBzNUNYbEg1Ry1yUTVTWEtZRjFZUm9aQ2VpUF9kUkNYelNpLVJQbnA2TEzSAdwBQVVfeXFMTjlDclJtbXZLZVA0ZnAwcllxa3hJbnU0ZVk0U1pDQXVoRUpGczJGM0lwY2E3ZkIxZWlaQTJKZ2J3WEk4MjJPX0JJSzlqU3ZheWVVWDNWTll3b0pieXVkeWg2Qk1xWm5DNGpSdzZxWF9sdUI3MVhNUHgxTzgybWg1M3Fzb0JhSUtXQ1F0UnphTFIycml1S1FEQzV6bGFyRHdJLXk3cFEzTVlrQVhNWGtORzdWelJQVEg5NjlIbE01NDVjcnFnTTIxSkdUSGczTUp5Rk9YVUw3SV9ORzl6Vg?oc=5",
+   "published_utc": "2023-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

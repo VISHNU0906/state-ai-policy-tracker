@@ -1,0 +1,21 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Govt plans to harvest AI to stem onion rot in storage",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGhubTRwVjJkLUlySTgzZUE4WFhjRl9ubkZYYmU2UXBqWHZJWjRuYzJSY0JOLWY4LU84SkpJQjRwM1Vfa3VYbDgxNUhLUWR1Z2xLQUJzWmpfWm00MGpMaGpreUJKNlBVZV9MX0FfTW9EUzkwY3k1QWpwaEVsVjN5dzRPbE54Qjk3Zkpqd2hPTHZENHlEa3poYUVpR2tBQy1LMzFCYW530gGrAUFVX3lxTE5nWGk4TDlDbUdaTjZKLUxsRy1PU2wxQjBpMFJoc21NdFlYUzJoSUhBbXVSTGcxM3hFSkpsRWh5WHgwUU1xSDZZbjJjXzhLOFBieERzYkZiYnUwNnBaZlR5MFNGX2t2WUFkMlBSX0c5UmItZ2QwT0tUZHJzUVlsRURVVXdqS2tLVF9TWHpZT0xBY0hhc29DSF8yWER1T1p5Q09fT3dEVUdTU0REYw?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: A business ecosystem tailored for success of MSMEs",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa0dmNWJ0MS13Z25vdnlWdFJOS1RBS3ZLWDBKUC1XaGk3aU5KSlJjSERPVUh4NXl0UnZXblZrMF9DME5MUHRUTjNfZEltdF9nWk5wVTFiS2xSQVpZY1h3bExEMTZEc3Vhc0JycXNRZnptYVZtZG1GWDNZREN5N2hMd0lEaWsySElqT1lUOEZqX3ZsM2hsdmt6RUJwanNzT01ZQ0FsX1VQOUhQd1gxWWdoU283S0RPU2tBZGZ6dTFxTURNQ3pLRUowZXVfcWJTWUZLS2pnWWNOMkE5dTFoVkZj0gHkAUFVX3lxTE9FdTBEMFlrcDk4eHVXX3doLTZ4d21UUXlpcDEtT3VLelcwSDJkaGFnRnpPMk1Ub2lxVzRQYVo4eXhfakYzbnVJdmdVTzFhUXhnZFNmUnEzUnQ0bmp3aHptc2JkS3AyNWtRcTlQcmx4MlpLMXZqYUVGRXkzcU9yVVdvY1A0WG1TaHZlUk1LOTJLU0ZxUlVMTlltaEsxLVFjRXRjc3VoUEpXUHBhYmM4eG5BVFZqR2xnVmlIRFpNZ3dMa2Y2NnJoMkU5aFFieHpoMTJEQzVfZjFNLVlKU3lBU09QSWhudw?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

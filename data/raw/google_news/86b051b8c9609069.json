@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-10-01 before:2024-11-01",
+ "items": [
+  {
+   "title": "NIELIT & Maharashtra State Board of Tech Education sign MoU to set up AI CoE",
+   "source_name": "HR Katha",
+   "source_domain": "https://www.hrkatha.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGpjb2wtLS0yTGZ4TldyRldxcEdSc1dJSW11cmd5WTY4b1ZBTUZWbjU0Q05UY0prZXNXQ2pkOHBLZ1pZMUE0SW1rbnREM1ExTFNXTll2dW5VUzJhS3lnQkFDRzFHQXlweWdWa3dYc0pvZkJ0YlV0M1lBN2ZZSGc2OWJGQ1hVaER5YWJ1NWhKT1V3VG5BZkpfeDBvckhSeC01OUlZaVplaw?oc=5",
+   "published_utc": "2024-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet gives approval for green integrated data centre park",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmlXS3J6VEJUSWJJZ3kxQlkyY0xnSkh1OGhVejgyY2FrT2FSMURSZkVhOEZZVmZqTjE2dFc1X3NQb3cxZHZHSHRtTC14R21xYklDcjlmOVN6bEtDbzdCNWxtams1THZvN2ZyTy1CWHdrMXU3VDZnb2hBMmsxVFFib0hDRVYweV9BQXlxU3MyVDA2N192ZFU0dER5VWFLRERyTEJyQkZWbloxQUVRRk8wR3Vnb1hUYmxSVHRuRmV5MkxRSXNSVjB6c9IBzwFBVV95cUxPZ2kwRFN2Zk9nTk1xekVwUFlOZWViT1FzMTQwd2NUU2hEVng2TXlrdEZDTzh4MmFPdE1CWldUVlJ1N3QxV0ZsdFppM0t0eTFwTDVxMFE2R2RWLWkyQThWM2c1dUl2QXQzaHBBSGs1NUJJS1BtVG96QzlPQk9JUjJrTmlUSV95bVkxNmRabi1NOWJha0FtYWNJQnZsTmJjY1NEelFMVFRpeHcxc0twWm1peC1FcGlSeGFKX2tfRHF5T3hDMi0zLTJKTFdpUkozZE0?oc=5",
+   "published_utc": "2024-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government signs MOU with NIELIT to support technical education in India",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVkI5Z0NoXzI3bTVXZVN2bEdPMUtLZHhwUzIybkdqY2RUYzlUbF9nUTEwTmt0b21iUTdaYVhvdkNoRHNzWTJCVnRJOXJjcUxWMURrNGUtWjBkSVk5RGFLdEgwb1p2R09oSlpwRF9lOW9uaXd3LU1NNTZSZnR5azRkQ3RkMGpaVk5ORzFCbEoyTXNZUUNYNEhoS2VYZVpWaEVNZlphdVY5ZE9mek5WUHh5UjRXYkQ0TE42VENhSGUtNml6OHp0Y3ZDeG5TaHhwY3ZjS0FmdDB6QXBhYldhb1VlZ2NXSUd5UlZXTmE0SUNsVFdLbllnYlBwcS10NGJvY3BsRTdvNU9EZnU5MUVPVzZfNFhIQdIBjgJBVV95cUxPUm1sRzEyeW8xeTFXT1BvU1ZoWU8yR1ZTY05KMmFSUFRaNUtCTElRMFlZZG9GMk53MDhzNWx6dDFpQ0JwaE8zNXpKRFNuLXhGRzB6UW81VlVZckUzS2tEVTZtTDU0WmNYbnFSdkIxekZOYkxNYVZyelY2QllEM1EybE4wVVN6YUFYR0I1VG8zV2JOTEFxTm1RaGJvTm9xTGRQVEZOSi1LazJSc0JKWlRLQ3pHRjFtd3VFZW1LUm50ZFFrVWhuY00wVEY5NGhhMjMwbjlCNnJyZGpQQzZ6ZFZMVFkwNlFpYUhUbVJiZlBQdWJ3cFVsSGd0YURjdGVpSHVCVklsU1JNZXBMckxrNEE?oc=5",
+   "published_utc": "2024-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves Green Data Centre Parks to Boost Digital Infrastructure",
+   "source_name": "Telecom Review Asia",
+   "source_domain": "https://www.telecomreviewasia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVp0Y3JVcWpHR3FYTWZkUjlrU2NBWF80LVhWOHY4c2t0a2ZISUM0RDVmdlNtY1lMNENWNVdiVUZhWkNKX3VhUXFtT0FESlJKUGZFZHhxVUVBTmFpUHZ6TUtMYk1iT05ZUDJDZ2pPM29UanpQbmx1SFllWmR1MEJHS1UzV0podnhRMnZFbUMwdG5SMDdNdjNtS3V5M3Y0R3A0NkxIQ0RUekllcG1mMmdJUUdrY2VoWEI4SU9NRFR5cnRJYy1nWVlZcUpNaklfSU0?oc=5",
+   "published_utc": "2024-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra inaugurates India's first integrated Cyber Command & Control Center with L&T Technology Services",
+   "source_name": "LTTS",
+   "source_domain": "https://www.ltts.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2VBU19KRVR2Q3AxODFZT1BFYkdyeWxQU25Ka180MlF5dXFMZGlDc0hVUTJKRHRLQkxHQlM3UEdOQWJWd09wTy1DdGF1ZWNyV2hxUTA0OWRxd0RINnRuSkVxYlhGMktpR3ZET1J6MzVJNmtOMF9tY291T1ZSR0JVTFJfeVF5Qy1IcDc3cTd6cXpkTW5jXzJBUWMxWDVjNHZYaWhabHBzeWxVSkVwdFBTUE1nRDB5QQ?oc=5",
+   "published_utc": "2024-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Chief Minister Encouraged by PETA India to Rename Mutton Street ‘Ahimsa Marg’ in Honour of Mahatma Gandhi - Blog",
+   "source_name": "PETA India",
+   "source_domain": "https://www.petaindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWi1ZbmpGc2Z1UkdIRlI0Z2VoRGY5TnhWZzM5OFg1eERYS3hkenFQQlZRVDg1TXAxLUhrNHN1QW13TTRVcjFIbjRQNkdWa2dBdXpQem1nYWRfMUpGOXc1Wmo2ampQcUdpeGZsSGVhQzNZbHhESUdNR1JhelYwYkNCaVpHR2xPTUlCZUdSZ3dLTjBkXzN5dGs2a3FXOG1zeDlSQzlleDRra2FNT2t4NkdTWFk1N1NuYnVDSTZJcGhZR3RTUkhmaUVic0QydVZKUTZGRTBnaHZDb1R0QXBCV1g2Zw?oc=5",
+   "published_utc": "2024-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Who Was Baba Siddique, Former Maharashtra Minister Shot Dead In Mumbai",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUVluS3dneUZkMDVKT0FqakZuOUpvbnYtWmlNeE9keVgtWDZ6ZWxMd0VSa2Nxakw5azRhdnBUdGlvSEZLWDBfV0FiWi1SRzRUUnRQRG0tRTlob1FiNTl1SVh1blA0dVpjai1yRTJnTG9TWDFTVV9tT3J4Tk1kUnhTRUpEb1hVMWppLUlPQUZPU1FFS0ZYWnBCdzVtUWN2LXhqOUVBZ2tFeGJmQdIBsgFBVV95cUxNZFF2TEtaZ2NTTjJJaTZSdHBuVVptS0RfSVJHVElXdDN0cHN1U0ZQcURkMjRKU3FmZi1BN2RMS1ZqTmY3dTlHR1FGTV9mMFVSTkZPVHFFcl9WS1haQUZMOUVMVGViVFFSaThPQ0Vmb0w2akx3Y0NWb09NbEV1bkJJUU05eU10VmRBamhXaW5IOW5DUVM4Ni1wYzBHcGJzWFRSSmFycmNDcUp5bGpQcy15aWx3?oc=5",
+   "published_utc": "2024-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt relaxes height requirement for some candidates in police recruitment",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV0JKVVZrVkJ1aTYxWlY0Yjl3ZXU3eURIc0twTlhOcUtuUjQ0VGhuQmZadnJkcGU0Yi13VVRNUXBneXhEUWtMNkZDU1Jzb0daYkxnN0RNal9fWXV5UWE2MkpKU1MtMFFzZlVWd2VWWnhQYWMyN0hveVFkR3pKWEVHdmFTc3BwUEtjWTNiWGEtX3NwaENhV2lXbm9vc25fS2JvQ2k0WnNYNndqdldXRTUyQ2kxLU9JczNKV1JCVm10X1ZDei1CU3NKcUc0WndDT0FaQ29iVUhFSi0yRDRfek43WUFuV25nQjl2QURBX0NnWExLUdIB9wFBVV95cUxNTzU2WnIxZ1pGSGlKeU5iMFo5SUVmYjFUR0txMF82QjlTWGZFZDlmWmJta0FwVVpnTHdNS3Z2RnhBdC05ZXJiRmZNQTNjYURUekNvSnYwTjBaSlU1djVYN05oVWczeXI1R1hJejhPSHJ1Yjh4UGt0cVJ1eS1mWUJZVVdqVnQ4QWVFZExHbF9oVzEtWXBkTm1ZRy1wM1FHR1FRb1FUeUczWko3eG5iY1MzY2pwSG85OXdnTm9INHF6WGRTb29PSWlYMDRaVXdHX1NiWFdZSXNVSHZPcXdqcElMOWM5UENaaElZdEJnYmlLbnJXMVBGTVM0?oc=5",
+   "published_utc": "2024-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ladki Bahin Yojana: What is the Diwali Bonus 2024 announced by Maharashtra government? Details here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQY0VuV3BzWEJGUUYzZ0l1OGdicVFwaGRndjBGR3A2QlBYb0VqTC13WUJzS2k0aDlLVW5UWlBwVXFLaWY5UHV5eUhmamVpc0h1eWx0WV90TVRnRWFFbFhWRms2alFRTHVabnBTdzU4SlRNd1VpWl83MGJmMkdZY3Q0VGtRS3pmLTh1cUpzRnlzQnEyZERYSGY5amMxalVDdmdEUGtsMnNuMnNYWTRqbzZRbUZTRFNFb1VLRWlKSkpQck5SX1JZMWRBamZueTQxc1JXeWJMM2RDVk0xOGY3M2ozeDVMRnpGQlBCdjBiQTMydHYxVlJ1Zm9GcW1DUUxOSkhzNjVpY2MxSzRCem1zcnB5ZtIBlgJBVV95cUxPSjdIbTRfVGd4eGJZQVBfWGkxcnU2T093LVMxQTRTaDhtYmZTWmk5d3JLMEtXVThycXpmSm9Rc1B1ZWF6QkRya0hxRDlsZEpsYU1CS1Y4RnF5V1VTLVVwRGFJVTNYQWpJVVUySG5mRWdmWDVHQ1BpeDhldDJTa1NzOWhiZUZ2RDRUWm5PYU5fRXNDZUE1Z1ZiS05SS2lLOWxnS0cxcnYtOTJWMHE4UnhkRm83bHpvckRSd3duRDZfbzVrdV8xX3U1RUprcUFyWDcxYmJ5OG5WamNCNjNwLVpscldOd3RmdWpuWEkwRE9LaWZuY0hoZnBxNnc4Z0pfbEFsYWMxdXg5SWJwN1NrM1RuRUZSall4dw?oc=5",
+   "published_utc": "2024-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Driving innovative solutions for environmental challenges, how AI is going to impact 'green jobs'",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMmZtOEhxSk82UG56VUxxdC1kUWNLcjNMWDJrWmVyNXBuYXlFVk1kdHBXdGo5cTFXTGt1aDRTQ1dEZnl4TDFJUlA2dXNuRWs1Q00tbTl4TFA1ZERkRXFxLXVuQ0FzX0ZzaDZheHFOMnNvNXFoZy1GdnhMUU9IaFhRU3l5Y0V6djRWWms0SEdsdml5dnJZaDI1TE4yeGZIZmJfYlhKdVd0alhrTmlzT0p0Y083QlVhYkFMX0JFV1JONU9jUDRJd0FacC1xaHlxNmFHdG0tNDVCN3BlcVNiLTdVbVFXRXBRUzNzT1c4UtIB8gFBVV95cUxOV0FmSG5YbFppRExBUC1wVW1zM3o2SmVzRE1DV3hfQTl4MGZ4eTY1VTVnUEF4VVkwU2RJQ2ZXOV9MeWpDdk4xck1OYm40b3JuejViem9KUHg1dXZVNWp1OGtDOG9yM18teWkyVl8wcUhLamdwTS1LRE40QzlONlhLV1FPelpESXp1N2VacDJKY3V0c29IZFZUcS1kbEptcjhFZG4weGI3X2ZUcXpTdWxhdEtCbi1FdW0yWjV3LUJKeGNDaUtBWGN2RENtTzNpdXRPclFfTGQ3ZWxSV0d2YkVBQXVRNW51RVFtVTdTTURsU3BUdw?oc=5",
+   "published_utc": "2024-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

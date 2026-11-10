@@ -1,0 +1,69 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Schneider Electric joins hands with NVIDIA to optimise data centre infrastructure",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRmRFdVQ3TE9kcllpamsxZmY4MThWV0JLNkt0SWNEUk5TLVZMOGNQeklLanltU1RrWWxodmtwQzFod3p3dkUwaWhZelNCWGlfbi02aHhOOWlCZ3VVbXlBZVFCZWo5X0lqeXRrbFlHdkpzRVY5eHVPTXFZQ1B4QnY0eXhCRkxEYldIYnppNWcxUlUxUHRGdUtNRWlCSzZlc3F5ZXZYTmFpMDQ4ZFJCUjZBbWQ1SjZENjF0T0tvZS1YbnBPYllLdFRjZlhEbGdGamgxM3hjTXFtVmlaZnl2dlZrX3l1dGFfTWVOWkZidURKempFN3VC0gHvAUFVX3lxTFB4R25wMUIwejN0WmxqMHUxdnZtckRhWUZoTVdQam40ZU9yaTNjOE5SQmJmMGZfbjhkbWcwWFZkcTZHQ3U4QmFudllpNm1oV2dnT2JzTUV6NTFrSGRBbGJJSkhwS2JfYXlzRkNDYnZBdHU4U2Z0QjNGR01oUi1wQUtXMkdxNjBJZVAwVEI4eElnNW1WejhWaVhIYy1TRm41TV9rbmRpeVI2Nm1jOTQ3NWFLTUdlVF80VTUtWi04bGx2VElZbUUxeUhFVnJ6SlZhUW16cDBteGdpYVFudmlPNU1ya1hzR2lvUUVtU1FCMHJn?oc=5",
+   "published_utc": "2024-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "LTTS lands $100-million cybersecurity project from Maharashtra govt",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTUhYdzlzMTdIRXQ2QUdnNFgxcThheGxnbThTeU9wR0ZOTVB4blJpbVVwbU84R0pwVm1KVXdOSzVNVkFEZWZFNF96VkMzZ3p6VkY5ZlJMTkV2ZXNnaUJmVjRyblI3b1R4b096dFNwQUYtdmswLUlmY2k1VW1Oakg4a2JMTDNpMVg2emxYMGJwQ3R4bHRHNUtvLUJOazNKXzlqMkNqS1hRQlk5eUw5M290Wlp0ZjhOb0h1YzNQWnFVdWQ5bGtM0gHKAUFVX3lxTE13b1cwTjkxM1NVWkZWbkRnS0N6WGRZMkNTWG01VUJ6RlZJWFBXR2NfaDhZZ3NSWGFxQV9TdklXSFE4TnVZTTd3WWFkTnFJQ3dWTC1xQ1QwOGZoa255bExkMmxjdEVoMC1Ba2wzeldKRVpyN2gwRi10RGpaa1dSWlFDZzFOb2x2cUhMLWFhcWd3UXRITUU0TlNXanUydjZmMTdVSEpqMXl2SDFzanRsUE1PNFdQcjRadGd5aHdUekkxUXdyVFBWeXNzWXc?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIIF-backed Digital Edge to invest Rs 1,400 cr in Navi Mumbai data centre",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVjV1RHpkTHV4TXRUXy1tS2dTaTZEczZ0MTZ4OGhYcTd4OFRTaXRuamhWd01zeF92SFZKT25rcEduQ0QwOXRBTXdnaWswSkZQMTRaaTdoNUVhZWVSRnpva0U3dTZPTVkwNTlERGNkSkN4cGdzS1p4UmFKYzRFcDIzdnR1RXFBVUppdUx1TkNJbE5uREtUeGdyNFk3RXI5OUFRclFCbFZxQUhZYnFyTE9paVZMTmFNWnJqa2xLaHhBbXFvbElHV3ExMFNROG9yS3ZmdG400gHYAUFVX3lxTFA2V1pJRlpqWjd0MmNYYmlFQnNmemNlV0t3REVWZjdBcWZPTlpHVm8xYUk1STJpd1pmaGYyS1ZOOEhGaFdXQ1pObnhvWENWTXBqd1pIZndpVWM3SEdIRlRvUVBpdjdFZEJHZ0E4c1NERnN1MUhSbFV0WEE3TmdpczVfdkVmS2Q0UXdoRDFacERsQ1NDbGRDdW0xTjRKbTdKSnR6Q1pnSkd3Y0hSMXczV0RyVzUzblRwQjZfVGVPZm95cF9seVp1dWRxUW1McHBHbXIzbWg0RnFYZQ?oc=5",
+   "published_utc": "2024-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google in talks to acquire 22.5-acre in Navi Mumbai for maiden India captive data centre",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNU0sxbGpUQ0RZRE5lVnpuN0JfVlotNlY0RFBiV3psdm52cTlCUGJtNHVnQWxqeEl3Vlc0VUhYSE9SWXpXeXZrekR2S0JyR3QzY1RmbHlhemtOeHlNUFp3UkU0QWJRWUNWNDFWVEZCbEgtVF9raklHN0ZUdDJrR0xkY1dKYk12V0gtRDEtdWRuVVoxMUNDbGxySHRNekJvbWZKeGdCcE5Fbm9laXFCS19kVmc2UHdPcUc5TklFUDRYNFhObEdpUTZieVB6RkpLUGdfWWtXOGpCOXEwWmY2R1l6UlJmOVFkT1hJeE14VnZQQ0l5SEpDWEJjWDJud3d0dk1vYm02NXloYVJHdV9sX3RZ0gGUAkFVX3lxTE1nMHh3cFA3RmxJeHJSd2YydXBNTm5Xd0YzQXljUFJxZ3ozaFZwNHM5QlNPeXNQdjBlQmxudy1JSlB0R3dsSWFYaS1EZE5mVGlmWlBSNUtkc2pMME4teDhfY0Z6M1Z4N2QxNHZvUlF3blVTZzIyQXVLbVdBM3V5N0xXdDRhSjBwSGI3UFBiNjlvRGhNQlY2TDM0WTNqY2s0V2xESmVCaHhvSE9ULUFJU29NWVdrVlJ1UUJmeE5ZMkN6UkRoQ24tMnBhZDVZbGtvVzI5Nklnd3F6ZURnY3RWRWh6ZzdybHp2dER2N0VKMk9PQURQazR2MjVPbm5IdElVdXJ3VUxVWmxwRHZDTHlQWFk5eGFNNw?oc=5",
+   "published_utc": "2024-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google in Advanced Talks to Acquire 22.5-acre Land in Navi Mumbai for Its 1st India Captive Data Centre",
+   "source_name": "Indianweb2.com",
+   "source_domain": "https://www.indianweb2.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcGNuMU1xQnZYd1Bia3NjMzBwMVpxVk5xTEZ3bWhldVBtNmFnNEVXakYxalFPRUVEMzViT2ozaS1tTkFnRWVhRENYTTU1bDhPeUxrTmpLVnBYOXY5aW1BMXhpdTJUVkdYLWNQN21MMUdtYVJ3SHV4VFlIdTRBdUxoQzNLdmpUZw?oc=5",
+   "published_utc": "2024-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Debate Ignited Over Maharashtra Governments Dress Code Policy for School Teachers",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2JPY2RwSXNtbnJwT2RKaTVxZ2w0ZlVyODUxQXRLaWl5WGVndE5sOFJVektkb2V2LVllWXJvTXl2NlFtTjNMUG1PcTByTzNZSkpadVgzSFk5bWxDaFlUZUxodGlTY2JSTU9lSmVtTEtBN09iRk9NR0VuY0VZamtVZzBDQkRJdkxaczFYRlZQeWRKX24wREpZUUZIVUVLT212UHl1cGJab08wcXFsNGFhZHhVWFRyNVQteVlpdXFlRWbSAcYBQVVfeXFMTW1aZHF3OHlJcGx3UHc2bHgteU9fVFgtOHAweDBXUWlzajA1bDVkV0ZaN0VfZjZpalRmYktkc2RfNW5icWk2a0dRYUQzZnF1UHlrak1Zem44Y3pjYVVJcVNMS3J3bWFDMkRHcmJaQUFpYnNOaXdYa3BlcjVNZUJ6ZHZrLUdqSnowRUphYzlGVmxwc1VLWVE1NjRmS1Y5dVFUS3pCd2UxeVdVQ2VOYUdmRXZMcG5yV0pfVXgwcmR0emNqWG44Qk1n?oc=5",
+   "published_utc": "2024-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T Technology Services secures ∼$100 million program from Maharashtra State Cyber Department",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM2MzeW0xeUNhem1SUWFZS3htenFMa0JHV3JfYkdhZi1TVnl5M2Q4QTVhN05jdFdHWUxwQ0NoaXV4dUNNdmxqZkJnS0dhcTJ2TWgwdXRGRnRHOEQ5eFpyU29uZzFJbUo5V1MxalBQYk9ZM3R4UnZVOE4xVWpja09KemNzQXlaeGdsRkc4dHVYMmU0emFiNHhDa0NqNzNuUlloa2pIOFZiRDJlLXlLVXFiNUZpU1JOTzRiNDBUYk11bVp3UVpfTDdMQmwteDRqUzBnWkI2YVJUV3Q3RHZWU3VjQjBmVm7SAesBQVVfeXFMTUtsNk5INTlHX0N1LXBxMmtjUXNsT2F4Tks2d21ROWdYbkwtOUhpRDQtTUpxaXpTUlo3M2wwekVwd0ZqdW5RcWdpN25GNlRzanpOT25JbHp1MmNwS2ZJQVlvWUJjMHN4bloyNVhnZDBiRngyMHhOZnhBUzVmUzR1ZUNjZUR6QjBuRjcweHRBVlZvclVaNndHYzc5Z3NhZ1psZHRCWlhDVTFHa2ltdmwyZ0I5blpBNl9PZHJKMmIzakI5RjFxNTZ3dTFMNjdFQ3NhSVJyWllaVFkzMEV4MERpUlVWZS1oMS1ZdU41aw?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Viral Video Is DeepFake: Barabanki BJP MP Upendra Singh Rawat Quits Electoral Politics Until Proven",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzJ3MHJRVjUzYlNHTWp4NW5yZ3dYcF90LVJTZmVtRGZCZVA1NlNsWjMzNXVNRTBzNzZ0Uy04MEE4SkkwNlFsZzlyTld5NERNamFsaEo2RUpxdU5CU2wtM1BlSWZZN3I5SXFRSmJpZXhsWEhQZkE3WG03SVYyaVpzWV9WNUc3aHRmU0IteXpsVWVPSEp0Z3dUSERXQlV5TTBqOHpQeTNQRmRzN0NlSGRKZWNxX09wVFg2OWs5cGR6d0x1SXhXeGYzRFR2SWMzUUxIYmUtcUpCME5LVmPSAeABQVVfeXFMT0hvR1VmQzVlUGhoQVpWN21qX1VlUzliWEUtQ3lKNzNGR1U3bzBPUk1LUFhnN3N6dlpGX2gxSjd4UGpaYUdzVEJ3bW9qaGN6Ql8yMDFxTHRCSDNIXzRtOXJNS3hYVmF3TWx4dUQ2YzQyWDUyUUttOUptMkhCRlpIMGRxZTNOTTBUNFRmeTlzZUdUT2VPWUpMSWliQTM3cVVtTUFuUVY3WmlQTGRtM3pndWVieUFEQlJFVXk5aWhpN2R2Z3F3dlhMZk1odDZJUG11anNuWXczc2FfajBlZXZMYlU?oc=5",
+   "published_utc": "2024-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh High Court Dismisses Interfaith Couple's Plea For Police Protection",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcXhFLWN6V3d3OWJnc0tNNVI5UjRoYVZzLThQZzg3RC1NMlY0X3lhS05pb2xFcEYybEUySHUwTTllSnF6VHhMQnBvd252S2tsQmxmNzIxdk03M1RjZkpVUThEbnNyWnZLZGhCcGJ3WTA3aTRxNTh0aUhJZjd0VWdINERPN0FIRDR5YWNJamZzU0t5eV9wdU1tWlpwel9EM2pWY1VjNzJ3YzdGSTd1SVdQQjJ1Y3RtazlBU1lrckVqdmlVTTFOdnN6NmJVYVNyeUFXUUl1QlZaNDE4ZjTSAeMBQVVfeXFMTnBlT2piZGJXd05KT1pHejYyZlJ1TjVfNEVFTEgtQ2ZXemF3VURzdjVlTHRueGZLS2V2MDF2MWFaVmJKdHFKbjZMQnpkRUxzNzBPVkJfdXBWNC10ZkVSOW4tWXlid0R3NGRXWmdjMU4xelQxY1JaSDJod0J5SWRORjJwQ0syaTZIc3pHUTlNa0UtT2xlUlo5VzFBWk9MSTNuSERIdzhCSUVRaWRnY2U5YlktOHBmazJvWmNENUxmNzhfOXo5bm9ZbWIwOWJRMVJmU3J5dU5oT1NFRDEzZFFyMzBMSVU?oc=5",
+   "published_utc": "2024-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Conducts Study on Seer Who Lives on Narmada Water",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTcteTFGODZjVWc1cUFoR2ZVTnZpNVQtVVRNRjVwcHU3QU9TNWFPUkdOek55a1k1bklYSzZzQjJNSTdOcENyUnpJVTJReHZoajVIdmdHRE56MVZGUzV5MG9rZHgydHNKZ3JZVTJTME5ha0lkT3hBcUZCZE5SYmhxMUoxVTFYTFUyNy13ajk5azBYNndRSFBOMVZjYlFtUUg4NDVXVmtBbTBWOG4xeDNyWjBuOVplU1hOWDZr0gHAAUFVX3lxTE5USUJtRFFZUk82ejc1T1hpYno5U216QWVxNVczTGhqUWRoNTVieG9xa0RmbUZhTGhibDQ5RjFlckN1VWVKSVlmNk9CZzdIZ09qSEtkR0hrdl9NcXJWYVp5N0xFSzVGcHVSZjc1ZTVJc0dabjRMZHBCeE9XQVAwcnpmVUkxVFNsaWJZZnlobVI0VjRKdk9lRlkxY3lmZjAta1ZESVlmSXB2dk5yYXByRlBEdkdzRmh2a3REUlVMTnZSZw?oc=5",
+   "published_utc": "2024-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dalit Couple Tied To Pole, Beaten, Garlanded With Shoes In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlpYTUFhTHRzVk5HSVJCUmt2S2lLMklRQjFGM21wUV9KVzhDV082X19VRzMxVTNLUWN5b3gxZVpVR0hqaDI3U0w5QVlBVHN5djViSG9HYjZqbEJ1clBKVWtXcVBlR2NxY2NIOU4tVTgxZWtIcDdBQjM3aVRPNlNVWUZ2NEpNQ1RPWmtHWnlKM2lsaXdTZnFGSXpCVlNnN0VxNjRlMG5tOGNsUTZWNjJpUdIBuAFBVV95cUxPYUVNT1Ixb3JKTTZ4SXRla1NQNEhSd090cTBOS29MamdlSHR0WGRIaXhxWlgxYXc5cWhmWDFmOWx0X1VTRDJpRWJlaS1hdGMzamRVUGJDUDgyTjZXbmEwNFk5dmtESmNVdm9mN3FiOG5jUVYycmZVcXpiT1BJLUNYY2lleHJCakVubEVieGsyWXIzNkdMYTlMM1Q4RlRIRzhXV1NvQ1QycWFGWUowcTdwc25qaVdOXzBy?oc=5",
+   "published_utc": "2024-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Scam Probe: MP Govt Orders Closure of 66 Nursing Colleges",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlBRNUg2b3Fqd0pIWFBFMERrV3N4MkF1dEttQ3ZYazl2VDktZWcxWVowQWRFM1VpdEFpUnJOWDhPaWtzNkdKNERXNHZZdkpHdm9ycndadzBoeWItRVRlZGxYalpTR3BPNmZ3SXRJVjk2ekpVUlhSMDdncDNjYU5HZEdSODgzNEFiTjB5TGtlXzZxeUxCVkxWNWpzWkJqdzMxR08xMdIBqgFBVV95cUxOa0RGRVgzOTV6c2ZmdFRaOEtUTjR5U3h3aTVLdENYT1dQVkxLMTRGQ29QdFJsTE9ucTdVbkNGcjlWTUQtMmdyVlJqaEVsOTFvYzRQaE9QM2hrLU9DY3BNRTZ6REVKT0d3ZkVGTnRNZzZXeDdyM0lOczJDZHNvelJBbGd2OHF4QnR1TUYwczlhSFF4RE0zRjBMNXdBdzFKNjlndGo1a0ZyS2VqQQ?oc=5",
+   "published_utc": "2024-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Man Completing 25-Km Walk Test For Forest Guard Post Falls Sick, Dies",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkRYMVZQNEdkZ3FKNl9FaUpRanVxLVFtckgzM2tRcGFMbEgwZndfQnhHalAyem00b0hHd3RNLUEtVG50ZDRlYWJSYXltSXJWTmhpblJxYllzUjNQNm9WWnZSdVYyT2t0bzJaRTBjUFJVQWd2NUQ0YVNPaEgyb0licDJDQXd6Vm5fSkVGYWtKVmRLanpYSk04U0xacVNYUXozMnotbmF2OF9UYVF6RHJncEpCTXZQa1h3ZmZfSmk1ck7SAcgBQVVfeXFMT2xPd3Z2aW1JVmdkVjhDMS1Gb2pfYjZ4UkhvajJadFBUZURfUmdCRloxaDJaOVM1N2MyRk15RGxDWVA2VXVPTUZmSXkwWF9TaFZVR09lRnFqbVZReloxeTRCOGthMmFvYU01OHQ2X0FHcjl3TVhIamxYSTNTanhqd0NWNVIyMmg3U3VYQW9lQ29takduVUJPS0FZZ3BNSDlDMm5ZVVdKZWxQLWh6ZWdTbDZVN0kxV0FtUVFRZEtnLWk0S1VNYlhkZk8?oc=5",
+   "published_utc": "2024-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Arrested For Creating Deepfake Photos Of Women And Threatening Them",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDBhNjFMdFVpdjVJVGstdE03N3hWRS1ITVVUaVhWVVEzV0YyOGVncjB6SDU2WldIUmVxQXJVejRXbkgxOFJUTi1zQk1ILXNQNlhQdGgxSHQ5VTY4V0FWVDE3Zkxuc3FpX1VwNW40ZTZVdmJCQTcxVTJpdmF6bDNXUlV3TEZpMks3RWVNMkZUanlzYjRrQ0pXRTNWSWlTRm1hSUN6UjRwRnFBRnAtOGJwUdIBuAFBVV95cUxPRi1WYjZyLVA3WlRaUU9wWTYyOGd3MHFsYUo5cDhwY1U3UlpraTEwazNkNUJFUFZFQm9QRjNhOXMyREtnWnpaNGY2Mi1TbWhiLXBFNHgxUjZ0LW5odXVnemZtMjFHZ0VRbGFPNWg5MEVfTW9BdVhaNjgtYlY3UXRWYlNRRlplcGM0Y0YzQ2hmY2J4MDl0Yjl3UnVUOXk4Q3N5NEJ6Y3VCR3dycV9vclNvcFlrMjItT3Jy?oc=5",
+   "published_utc": "2024-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

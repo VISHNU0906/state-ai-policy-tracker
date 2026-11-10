@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Maharashtra Government To Help Job Seekers With AI-Generated Resumes",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3k2by1lMTcwbE82c2gzWTF2UXh1YlJ4UHFRSkdiNFpUb0JZSXUyeDU1aU84NjZWYWZtZ09tVjI5MjNlYlpQQmJCeS12X3I5RW5TMUlvREZTM0hIc1VzSndpVHU2RzJmWFFWNVNHd2I5dGVTaFlWdFpLQ3ZsdDN6bmpoYjVBaFFyZGFKRVY5eFZMLUlWeTd6RkdxZmNGbHdyTDhyYi1VNW5pYjJ20gG0AUFVX3lxTE93ekdUQUlOci1iN2lzRnpOX2t3VFhmSVc5WlRPRDZkblVjSC1kSTdIU0hEVUNjZ0lVYUNLVzlrZUFDcEw5YzkzRGIzZEUwZjFkXzFBd3BOYWFsZGpFRVpFTnExdElRQnZ2TFlrenZyZ3NSRXBYOENVOUhQRGRDXzhONS01dmxvQkQ4cDhGbm90TDVpRHFtNlRCbTRqQXd6SGVtY0llUV84VXowb3d0NzI4SDRaTg?oc=5",
+   "published_utc": "2023-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Drought: Maharashtra government accused of playing politics with parched tehsils",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd25RWk9KVTFRWmV2R2ZRNVVVTXhkQndJMTVoeXpWTy0wZ29adW8xM29Lek5nbXVFeWNrNFZfX0tNaUREZWVoMFlsVVhEaEpybjlOR0dWSVZBa2ZWbm5DNzFhQnZTdHFuQVQ3RGROOWd6Smd3VXpCZFhBRUFJVTJ6blZDdms3SU9oQTlXN1pLcmFBNEFXWTd1TnRrajRKN0JqZC1PYUlxUEkzYU5nVF83Tkl0SlVnNXdoVE5sSmdGTWY4WHVueGVOX09sdW1wZ0pudUHSAdgBQVVfeXFMT3VSbjFobnNNeVFJQUdTZUVWMXc2LVpQWWgzLTlwUUw0QVhaYS0xQ0NYZFJ0WVh5VWE5Q1hKMkozNHhOa1RnR2VfUGlUcGt5TTkwNGhNTUk2NkZpajU5d25tTTdHUkpqREZtR2JUX1picEF0ZzdRS3NxLUR0QS1uRTlZQXNNbXBsZVBOQ1llUHJ3R0UyNTRjeGwta3pVQlJraFl0YmFqYm1rSTdrS0UySEpFUkV3Znp0RHBVRXRLQVFXX2V6aU5pdGQ2OHJ4bGEwNVVNclpvWFBn?oc=5",
+   "published_utc": "2023-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra books Air India building for Rs 1,601 crore to put seats for govt staff",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODNVeWdkaWx1ZERpZ1d3U1dSX0RheVhkcG03YW1rTTRZU3A2eTBwOW4yVkhMVVoxYThILWF6MUJIQ1R1aDNJdkZqaTA3QnREbWltdlUwR2NuTFUtRzU3TVR5YlRwRm9EMmRaYmdWUjdRdDZ5amNwVkdoTjU0bXQzeEtMN1JMRkdmY0N0YWlWQkdNaVFCMW9jWnpqNXBJUzhvUENJOVVrWGQ0RUlQMFR1V1E1dHhRcndvRHJrbzNjZXlvd0R6VHRUNW5qazJMWTRYVDIzcENkQjdhN2JYNDE1a2thOFF3N3lf0gHuAUFVX3lxTE8ycHVhdGVTQW5pZURBZl9wMmFxbGdnck9vdjNuYmRQWmp6cERNVVhWaW1IUTExU0d6d1YwNTh3SW92aE9FMWYzbXlnOTkxUnk3aVFzeGZXNXdpYXo1SG1kTUlLaF9neHdmTzc5amdORnBUSFFQaHRQZ2hjQlBtQmZLZ2FGZ3lSUkdQNWFYbHRYeEF4M1VHaEFWSURJQXpXcDhjWi1Dbks1U0dyX2Y1blowa3ZaaldlU29LdkhZNldzMGJYVldPZkVzalQ3Y3c0dFM4Z1ZJcW9jNGt4SHpsM2lSc1dIQ2xMWTM5MGhQbEE?oc=5",
+   "published_utc": "2023-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai’s landmark Air India building to go to Maharashtra Govt for Rs 1,601 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1JFaVRERVlkRXhTT0F2VE5JNVZ5RFVpLTF1eG9oYnpsVGU0NUg5NU5lczlpYkVZU0tOM09FeDdUb2RQMXpuUXNYaFVTbmYtcmtLeDJjRmRpZVVxZElRSEZLRHVNNVY2QThOWXJyT25YQm0tN2tRTmI5Z0xkeGxPeDRJcmlxalN6M2xvS1lyUEhxMlpfc3hCWWlrS3QzSy1FWFIxZlZ1M1V2SVlNZlF3UGZiQWZVc2VnSTBGcDhpZExTeElVZG9jMDBqM3ZfZ9IB1AFBVV95cUxNNUZBTGhqZk8xSkphMWVXcng5QnFTR29uWGgxSkZ4S0JkU085Nnd3ZVVOYVJaTDJ3dmh5bE9MMnI5Z1hUWFV4S1R3UWxVNnh1eFlLMlRRTy1OMDNvVGFIck9lbGl2aHhoTFFuU1NtQTdJRkNtTnF5eVFYMVN4eXZ5bnVqQUU2cTB2RnE1QWpTLWNZV0FlY0Nzbl9tVTdhNGlxVDNPNXJYM29nd1E0TlFIWnN2SHJ5MjhGU2xHeEJBX0ZlRkkxc1RuNTNzNmxEZzBRS0d3MQ?oc=5",
+   "published_utc": "2023-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government in favour of Maratha quota, says Eknath Shinde",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWlg1OHQteXVfMlJDczU3YnFEa19MUklMZHUzWjlDSUpwRVBndnF5dDB6dnlIdzNxdVc2TFNpNmlxeEZvbWFRXzVXbkVJdmNzSmQ5RkdfUUhSRGpROFoySVJCZXFITXdESVZoUUVRVy1xREI2VjhjU1dNQVI4NXJsTHR3cUJZMDRLYl9Ca01iVmZPSkRVSjhQal8wdldYc280Vkl1MWxFUTVKblpDUTdKRFo0LVpIUV9OYnZTVy1ScTdWOHJ0SURwcEUwSnlKUVoxS2JSSDI0SmnSAd4BQVVfeXFMT0VvUTVFLXpMdng4U0lpVHNPU1Fybm5tWGNSdUtPS1FRQlNvdXE5bHBzV3hRcXhndXRzalVWR1E2WnFuenRRV295Y2t4MVNlWVh2U24yREJZbnVHZFV4S1oxUWp3dVd6Y1NZVDFWWjhUQmNSMVBUWXFGRlhxUTY5VHZPckxHM1NpSkZ0aWVWd2xmVDY2Q1hienFjaEJqbTYzcHR0NjRNWTFfamxaRWNvb0ZoMXhYM1RsWG0zeWc5TTdqbTBRN1llS09qUFc2cV9xd2NXeDZWUXlWX2h4X0l3?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet decision: High-level committee to oversee schemes for Dhangar community",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmd0bFNPV0E3YXpLUG9sd25zVk9ia0M0Zm9KSVoza3kyTHE0U3ZtUGlzUXZsN3JkdU9reXhjTGFqYnRBa2pIU29fZld1UnFoeGJ0Y3lKdVNTTFU5ZjZlcUs0WUNCelJ3YVQyeEduR0VnUDc1TDh0eGVMMTlmQ1h1dDB4T2FfWjlEcS01QXg4MGEwcnJGTGF1bzJNeEJQU05fQTM0VjZFd0FNMlhoUGZSckM1YVh5alJLM2hNclVqb09nOXlJXy1tUFpBeXdib3JDX2ZQbHMzTzUtR3VYYXN3StIB5wFBVV95cUxOTUtrbzhjUWRFUzk4TWxTNDlSQ3Q3YXN5M3F2VmMzM0huMUtYbVh1STJBbUxLeGgwTDMxOWd6VktjbWFXajQ3M2psN0U3VlJIeF90S3M5TlpEV3J2VG0zT1RIbEZ1amVydmRSYXItOW5ZZVZvUmE0ZVNKdlFnWjZUeTRLMFljSlY5dFJTajNSS3RoaVVVa0d5TVRjMGlFZWFLRFhDMDlpdzlNTGlnRF80Y3BrMzdITkpiVjhNNGRDUUtxZjV6bjJhSWZaT2NDelRmQnpORGZrbWJicUNTd0NSQWY2ZjdNa3M?oc=5",
+   "published_utc": "2023-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Economic Times Vision Conclave: Harnessing technology for future ready cities",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOemhWZnBPLTJabFNBNk96dUo1QVNfbzA4LTU5YU1lVnpTS3dBUGsyZHV1TVFaQXRkUFN2Z1gzX3A5MEl4bWtSV2xLR3UtVHBPUF8yQ09pX2xMZEVPNURMdkhwcnNzbkRNaVY3QTFlam94dnZOQ0JoMGE4dGRzaV9TNVlHQUFJajlrQ2twTUFaa1N5N01Lb1dvUzVWa3NGNGU5bEFTVXZFbmMtNTltUU42Mkk4MFdiWG9JMk50c2dfSS1zR09zS0FIckF1ZlpRS0xGNTlMbDJFMVcxU0FNd1VyaFVFakxMUUlDS0dHbzZmcGFSZ9IB7AFBVV95cUxOMm44aWZPMXpKblAtX1RmamlsWUliRnJrYnhRVmtHbm16NVlnU1JWT3NZc043SjZuUk04VUR4S0V6cndhWVgtbU9NS3hHWnJjSFljZFpvTE5ucTVuODlCSUtJVm1JX2tlVkMtdkxEWm9tSV8tXzdmMzA5Y1Z1U09Rck9xZjluSGhoSzVSWXB6dGRvaHFwRTltQkIybkVZTy1TWjl3MGxrcUZmT21DODhVS254aGs2YTJpcDlST3NtbHh3NzQzRzk3ZGtDRmN0MWVjSjctNFJkazRiV25ub1k0bUszTEZFMUQ3OXAxRA?oc=5",
+   "published_utc": "2023-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfakes issue: Govt will take major steps by 24th November, says Rajeev Chandrasekhar",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSXVQSXVjck9iM0g5Q2dFcGwyNF82TGl6d0lLN05Ja1lMTlJtdmVmYWl5M3R1MFZFWXd5X0RFMmUweFhDRHNKdFREaGpZd0dJeHRqMXc2anNiY2NzREVrRFU1c2YtOG85TkIyZFgyRTh0UnZ1NkQ2YkdLUmlrZldNZUw1Ylc0Q1Q5TkppMWpnTE9qUG9rVVc1QkFUQWd4U29LSzhpYzdOUmVXSzBYeFR5UVc2SWlBYi04N05zVWxMUElwSXZsQ0J5YUQ0X2ZsRU9pc2ZRYndYRmdibWN5NkZQbTRLZnNKVy1CM3plTWFKT3YzYnN6aC1JRFloS1hMd9IB-AFBVV95cUxQV3VQUTVCWXltc1JhNWRuSG1hR1hHajBWZ2l1SmgyYzZ5N2s3MDYyNlI5czhWeHdSZDhGUi1TY0xSSU5BQUwzOE41aUNienlrUEEtc2V1VlZxSXB6SkVVRzU4emdzeUhRZjhpNm1EdXgzRWNzTmRKR2pzaDJLVXFjdXBEZFFsUm1CRFNOTmlIYkE3Rk5HR09sNEtwQUNULU54M2Z1THBVN3hfWXFlRVp3aDdIT0lnM3Z4NTRnTktFMW84Y1piTlp4U2dBeUpVMWd1dU9Va1Z3ZmJMRS1PbmdYMVcwdlNsOUpneTRweGMxMTQ4ZkdKOC1Jdw?oc=5",
+   "published_utc": "2023-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bengaluru civic body launches special campaign to digitise 40L property records in 3 months",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUDNDTUZtU2RfZHdkczEyVFRoRHZCMWFEZmcyT05Xa01qNG9GV2VOLXpmWkF3dDB6cGdOd3RvY2d6RHZieXFabjB6em80ZldsRjJrLWZLRUlpVXZNVUlrS1JhUDVDQ3dPZ1lMSnEtWmF6LWRMbFN5RExpZ0Fka1hEZjdrRFpaSzdlci1uN3hyWW9iRkdhVjFiNUJQblFDYVNsN29BUE9WSUJmSDRuSzlTU1lyT2lKdE9xY28tamp3c0Nzc1ByZUJtUC1qSUxwMGRaM1BMN1VHYmxPcmtZdzJZVHo1UzZ2ZHlLYUtwZHFxOFRpdWVMY0hvSm80cS1sajN1SWRCLUVB0gGAAkFVX3lxTE9PeEdDeDRJTmVJRkw2QjZzeHVOZHpwZmZBLS10TGROM1psNnBNZTNmZ0QzclRHUm80UnlUWEoteGZhTUJlY3FJMkNWcTZsemExZFpKa2hkcm5KN2FRd3ZyczY4cGgxTnhENW9XTTFWMDJyUFhmVXRyUmZqekxkTS1mYl9MazAzT090MnptdkJuZ0RFUnAycHN2VHJsdGRnZ05lNTB5ZmVfQWYwVEZQMDZaWU1kbzNhaWxQWFdZSUgyTGNRMkU1ZWFnSm9zM3ZfTnJvLUZrVTFUbzRuZGE4Rll4NzhoZEo5SHBGaVdxRUdMaUdkalpXbVhUZUp1azN5aVU?oc=5",
+   "published_utc": "2023-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi announces $25 million for DPI, says tech must be used in responsible manner",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRlJYWDdSLW1TOU05NmJTZzNQeUU2U2dELVlRRkxxbnJVdjJsXzNSYzZSaUxsLTRPMm1teE12ZTNQdVh0aUlDSlNwbFh6X1JCSlhfVTZnT2NNbmdaUnFad3FRckthcUxXSi1XMHJkOTZhbTVSRkR1Z295azNtTVZ2ZU5mQ1FjYzUtcWVkX3kzeWNBbkFSaWxmbzFJNk1tbTBZUkxIMWJacjU3Ui12aFNNVk85WElrZGktRDVjb1M5cHpIX1pfbkhCOWFQRlRINGRMVEpUcVR0Y3gzbHJoajZIelRFanVxZ9IB6wFBVV95cUxOeXZaQmxzejYtc2pqWl9JTHNGZ3ZpWXBSMlQ5Ni10MzJfR3R4WmhTY015QWFEZDVHOG1SNld5SDVIR2xWY0N2M0p4V0R5SzVFc3RYdkNnRzNXMTBwaGRfZkQ1WEVsLWoyZ3BTeU9GdTllOExVX2RLTmZ5TENqTXZBbWZrcnR6RzNTQ3EtNXVkWF81T1RiTEY3NjRRN041eGhNTnM4X3NNRDI5ZDhhYmktY1VRcGlyQWxWSGNkWHZMVEprOXp0Nkw0b2hhNFNSN25DdlRmRHVvamZGbk5kM3FjaU5QWVlpdnR6RnFB?oc=5",
+   "published_utc": "2023-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

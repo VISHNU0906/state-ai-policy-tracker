@@ -1,0 +1,77 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh: In a 1st, all 681 villages in Meerut to have CCTVs at entry, exit points",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbmhPMTJuNnF2SmJybGVpNUV0aW4taUJYLXlSYUpwWnQzcGpXdV9RbHJ5Q0JpQWRuOW5uS0pFZ1N3RG5fdmJwM19OeXctWWwybW9sd2k1T1pYMEhZcUpVVUVUcGtjZ2J4Q1JpWHJTa2dtV2Q3QUVQZzV3Y0luT250dFJqcVgwdXVMcFplT2NPNG9vcHVtSHVUWmxLREJyT0VTcTR6MnlkTC02eWRvQkQ3Ym9IOGZxTWFBQ1dmNU40elRTRlZUSUFZWHZ4QnRBUEhFdURZUUhOLURzeVFfU2Fja3c3YjJwcHdvOGNFTG5B?oc=5",
+   "published_utc": "2022-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Income Tax, GST department conducts raid at garment factory in Noida",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjJ4cUs0MWplV0ZNdVRfeFR1T0Y1UTd6NDh3X082Nld3dzZqOFZIQUE3RDlZMGFLRU9OSGlwYVRyaDU5MHFSMzZfTGZfUndCVlNDVnhqaGxuWXhKTVhoWnhTaW1UdmhqVWxnUHFPVHJWN25wMjRHTl9VREJFOUltUk5UMC1CZnU0ck1nWFV5aXJZdmFrUzl3cm9CbWVJdURaenV6MVk1XzRyZTdtNnBtV2hVRHR6aWJrR01sb0NEemhpLTQ5Wk5ZdjkzQWJOeU5iQUlUdS1XcnNKMU3SAeABQVVfeXFMTy13UjdnYy0xYkFSV1VLSnd3dFc1VGR0bl9DRjVRZUwzb2Y0MEI0Y21XazZ1bzIzMmZxNURiVHdtak1qU3U2ZGxFc2ZwckdhZ042UmZsajBzMnNiM0M5U2tPeUp6OHhiWVZhYmFmX1NqNEprR3JsM01CbWl4S2ZlOVdMMlZVRk1vaU51dFNGUlFHUElvdHd6UnkxV1lvcU93QUVNN25BS2xqeGdyUlVlOGVpTzl0WHg4Rl9OSWJDcGo0UHZkazR5aG8wME9qeHJJanRhc181Q1I0TVFwNmx5RGk?oc=5",
+   "published_utc": "2022-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Recruitment to fill up over 17,000 posts in UP National Health Mission",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEx2WVktdjg1QUhyT2l4WmtzVnA0R0lEQmZndDZLZVZISUFXSDVCZ1Myb0dTeWNHMjZNakF1dFN5Tm91WmQ5ZE54Q0h2TjdWRUctRXk2NTBmeTV3S0hXMlFnWk1yWl82MkNnUFM4Y1Z0YWV0V3BrOGJ0WHhhTklKN0tMS0pteENVVmRwQVBYcERvNE5yUVVKMjUwalZlbGM2YTNSUlZGR0RTMDFKSUViSzVLNjVNcHdLQ1JhOdIBwgFBVV95cUxPT3R6ZGxFOERmeEdHSGt4NEVZZ2dGZlluOVBoQzdjTlVSekdlWVJWYmZhSXpPUGNGWWVlV3o4NWhVZXozSlE0bzJNMDV6dVUyX01sME90LUZrd0o3N1Z5SlZxX1R6QjAwNnZUV0NhVkFFZ0xYSWVfNkR2eWpSQ3dqZnhqeTZRdGRoWl96QjhsRGg4UVVhQ0h6TU9yRU5zMm1fSUd1Y1BiWGxHY2VEZmRJS2U1LWdmVnZGRzZmNnJIZU5nQQ?oc=5",
+   "published_utc": "2022-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ASG Eye Hospitals expands footprint in Uttar Pradesh",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkUwZVg3VnBaWDJ1YlNFN2t5aHIxWVE5WEdEZG8wR2VtNGJHbThLVHVIMy1HZXRpLUNDS0gyaFliY1M1RExrOHJaUHFUSmw1cjk3WmZHUG56NGxaM0t1V0puYm5tUVpzbENpdUwzVGFrdTBVNklFX2dTOHQ0SHlPUk4ybzlJLVA5cldMZEVQRGhpR1U?oc=5",
+   "published_utc": "2022-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global Partnership on AI (GPAI)- India to Assume Chair of GPAI",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZXdON2V0dUwwZnNFU3M2VlAxRXNpWHlzY2pQOEpmVGRtbE9QOEtDZUQtSWJ6YS1fYjNBa3BmTmdfMXAxLWthSWh2TE81Z1F4a05PUkdudmptREhXaHJfVVE4ektFQ3ZUS1hyak9UVlVLZmtxTm9rQVl3?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Did Cricketer Ben Stokes' ancestors belong to the Yaduvanshi family of Uttar Pradesh? Read Fact Check.",
+   "source_name": "DFRAC ORG",
+   "source_domain": "https://dfrac.org",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcnJ4dzJaR3ZUUXpmVTEwTlV6T3JDUkstNk9pUmxDQllMQ0R2dFNpOFZ5TVVsa1dDakVwU3c2bzI3S0VCN2VRMFVHYndzNExhQWxyUkx3WW5lODhuYkFCenVGaFRBbm9haldFalFXU0lzN21RTEhFTkI2TkJuZTRaaFZUX2hhZEIyTGJ3NFZobUkxYmhUUC1BeWhvejY5aTlkZkdnX3owT2NuRm9qMWhOQ09EczRiSl9SMkxRQ1I1SE11RXZzOW1va2RNLXc?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: 8 arrested after fighting video goes viral in Gonda",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmRUdnA4UUdESHNvazZoVWVpVldzUzhubXVwaXlOcWNRWUNiYXh6eFBpY0VBUlQtaVY0WWxERHVvc3lBX1hXUW11Smxwal9aaVlGLVF6cjNwZWpycWdhTVZnMDhCdndlYm1UNWZUVDhZYVhkMGtoZkx3eHg5Q0xVeUVrdFVNNnNZb3VxbGx6NVJLM0hlcHpnbWEwZDRyZlJ6LXNhU21KWk1HNFNYeUhxeWZMSVpla0dUWkluOXc2d2ZxZWlqOUHSAcsBQVVfeXFMTkY5LXFscm1ZeHBGQThwVG9SMGF5eGY1Y2c0SC13MjM3OEFTV3B5ekFGa2xub29VUzA3LTEwV082TUw1dVozRUZmbE5MNU41MTRiSm1fS3RpekthdzU1bVozdlRrR2puRGRQelNWd3hrcVU0VjFXanZ0ZFlOY3REa2E3LU1lYVBNaC1ZckI4TWJjS2RYMFJieWtyYTh1azJDVmo1QktSLS1ONnNNN1ZLSHlYcEhRVjhDRjVQSktWTEIxeEZTZG1HcGNtUzg?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Massive fire breaks out in Firozabad; 6 people dead",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0Q1RmVhWGNSVDgzSHlqUXhUQ3p1bnBYUHpSRFdYZ196dFgzQ1B1WmJIMFV5UWYwX2pMd1pDVlJRbjVjYm9PVExvYnhIeVpQejVwdjZmbTRka3JSWFUzMGJpb01ZRmNYczBXd0RFZzhONnA3clBVVFVydWMzYVIxY25YWjlVVHd3RUJpLUxsTUk3aGkxZ1lMZkNZZk1WQ0xCMWNBZGxoR2gxU2ZfUkh1T1M3TnZFS2FoNEJuaEM1SjJFMXdh0gHKAUFVX3lxTE9EVVl4VEJEblBvc1VuZXNPOUxNMlZMeWNsQ2hZaFZEeHdraXM4ZWdkUHBlQTVOdDZJc0RWU3poT1Z6TUJwVzItdjh3QlU4Q1BNbGtJUE9tUGFiY3oteFRGYXhrRGRHNmJCc2stV2hZSnVKeFIzVld0em0zTXotUU9JbERTWU5XTVpWQlNmb0pCSjN3U3F5RVF0Mm5sQjFwWTljV2RfRFFKVHNyWlF2NEdmN0hDSEdnaE5iSTBmb1duaWZ6NDJROFk5NWc?oc=5",
+   "published_utc": "2022-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai: Soon, SGNP in Borivali may have a gorilla safari",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUlJUGF5OHBSRk02alN1VGFHZWxMOS1SRVlrbnZCX01Kb2lwcmtPY3ZfWGdhdWVwQnRNQ3dpeWdIaldsM0o0VjBKcnZCOUt5MGNTVU1jSEJkS3FzTmtWTXBrZm5qU3Jnd3JNcjlzTC1UNXEtWi1TMUxDM3F5TjA5dm5RRllyYmEy0gGOAUFVX3lxTE80czFZem14ZUJyNDkyMmxjYV9xcnRIOGhqeHc1RXZ6U3VuMG9YYUhJZ0g0c1lMNnk1YUxHMlkyeVYyMVlCeHNDc3hTeFBuSkE1U1Y2SjRxOUtvSTNoN29KbnhCeFJFWjJ6Vl9JbG5tSVp6NDJTbWxsRDZiWVV2UHZqNjU5RDY4V0JRcXE2WlE?oc=5",
+   "published_utc": "2022-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

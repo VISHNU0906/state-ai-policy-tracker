@@ -1,0 +1,13 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "How Bangladesh’s 7th largest Data Centre could to be a potential source of foreign investment",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDlXTjJ3aXVSLThYRkY0R3U5c3lSYTNkeTY2N2VEY2RxckY0bndGQ2tNZGR3QW1nNjJSOWpVSmZpem95dFptazhoaURTdlYwMzRpZHBGQ0ZXSkQ0TW5reTdqeFNxTFBQY204YlVxZ0Y1YXhpWmtOTmpoc1NCMGVtcl9zZzRhcEJZUk0xN091TElpZHFUdUJlTXN4X01zV0JuTXBaZ2JYOE5mR2YxdFE?oc=5",
+   "published_utc": "2022-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

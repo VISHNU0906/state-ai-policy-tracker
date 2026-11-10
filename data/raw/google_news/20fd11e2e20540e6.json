@@ -1,0 +1,21 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Web Werks-IMDC joint venture sets up data centre in Hyderabad",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVm9EVGZ0YS1nNkNBVEN0UDQzczRmNzNvcTVKRXU3OVI4YTNVZnFyaVlEdnk1VGE5dVd6NE5WRDFXdUh2eWdPY3NYOVM5VnRma3k0V2x0bDZsMFJUYkRiQk5oelJZNnFOVHo3ZkF6RGNEajc2allTYnlOakl6VEVsaFBzMXZTYVlLanUtbGU2OVlrcGhwMUNSaHVuN2pQclFReEdrZ1BkdHY4WTNrNEVuNmtQNTJMOENKQlhSMk1HZmFiWWdySUdv0gHMAUFVX3lxTE1leFRDWTZVeE0wWndHOHlWTDhmYjk4Rlc1Tk5XTllVS0h1VGhmQkxFRnFKZXlaYVNfY2h4bnV1MkRYOTNaVDdBZXBoYm93STFxTi1lNjFpVVdaZ1puYnBuREVhVkdQdThpRmVhRDFraHdSbDR6dzljOXF1bGdTRkV1X3lVQ0hMV0E4dy00eWZBSU9rYzBIcnZTOGpPS0d3aG5NQWx6ZWYyRk1VMG10OU9ILVhrclE0aUtTZVlkM2dyN1h5Nmc5WE40VVZPRQ?oc=5",
+   "published_utc": "2023-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HYD-1 data centre launches in Hyderabad, courtesy of Web Werks and Iron Mountain JV",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUN5LXpGaTloTEtCWnZqejJqa2hkaWlXaEZURE44aEdsT0xDNmNwdGlQT1NQYjdKQmk1aGdON2tKdXRSemQtazJZT2h4MTBNMzZZQjl0SmktbG9yNFRmQU0wUHJsT3BmYy1kaWE5WDFmYVNsem9GcVB6RnhlQjlXeVBGWWNuejhubnNkdFZsVmJraXA2N1V3OUhadmlqRjNFUDloWmRzNWNPcG9wZ0VybGUyblpIVU1JeHZ0QUJad1otU1BDdjRrTw?oc=5",
+   "published_utc": "2023-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

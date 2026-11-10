@@ -1,0 +1,61 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "All about deepfake tech: AI-powered videos intensify debate on disinformation epidemic",
+   "source_name": "OrissaPOST",
+   "source_domain": "https://www.orissapost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1BSZTJBUG5RYkN4dWVhZjJkY19tNEhnMVAzR25xUnM2M2dUNUltRmpac3VjZXpqQTdjN2lxOUZTMFNKRnUzQ19ZTDJWVWpCZjZndy1WYkN0cUEzSjhvenA1MXB0ckJ2LXhUaU50OHVVZEo4VWd2THRhOThzUEZLOG45QWNTbUdVdkM0WkJJVHpBemR2RU5wZ2ZzRG1TYURBa2VhcDJZTm1mUGNpenZfaFV6MNIBswFBVV95cUxNR1BSZTJBUG5RYkN4dWVhZjJkY19tNEhnMVAzR25xUnM2M2dUNUltRmpac3VjZXpqQTdjN2lxOUZTMFNKRnUzQ19ZTDJWVWpCZjZndy1WYkN0cUEzSjhvenA1MXB0ckJ2LXhUaU50OHVVZEo4VWd2THRhOThzUEZLOG45QWNTbUdVdkM0WkJJVHpBemR2RU5wZ2ZzRG1TYURBa2VhcDJZTm1mUGNpenZfaFV6MA?oc=5",
+   "published_utc": "2023-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rashmika Mandanna Deepfake Probe: Meta Not Cooperating, Say Delhi Police Sources",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFVtMUxVNWJhT2hpM2UwbkVYMzFoMC1OZkE5anRpZ01xaEhmTWI0STNEYm9MeERNOEwwLWFNaG9VLWFucnVWeEdxYTI2a3R3UlhOeXkxSmdkcndEMXFFZzEtNWd0YzJ2MEwtMFcydmVrU0x5MzNVaDk5bWlDUXpOUFBQYW1oend6QWRkNTRmb0dkcHBHOVBMRFNvTDUxcS1jZFVPaFVn0gGrAUFVX3lxTFAyUEdEalFTNmlvSGJrZTVrRjNMY19UTTREWk9mNzhMU244RVMtbnpfWGs1UHJGeFdGVDBuZ1lYSnc0UEJsdEtCRkZnUl9HU0x6WUNZOEJGRkR2ZDZlWmV5NFRldFBpbnJyZUhpd2kwMk1xcjV5c29GUWdHclZGM3hydXpjMEJZTVBmcmlWWWUwRkRic3lOV1ZTQzRJWW1vczJtWUlRa2JZeldqdw?oc=5",
+   "published_utc": "2023-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BIZZARE: Odisha Students Shut Down School, Do Sit In Protest Over Lack Of Teachers",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHplYWZlUEtwb0J3OW5YTTJYN0hjOENWSWJ0cm1rZjNqWThvdzg4SGhoQ1Y4Nm1ERUVtb1J2X0VVZVFiUVhWd0lHNUxaa2JwTHg5bC1tQWZMU0hQamp6SDBGY1ZJMDdhaFdhdE9lYkNiOFIyNGVONE9fRlcxeDdIRzJCaG4xbXdQd3pIVmp3SjdQZHpDTjBYOFVvNzBTZ1pjbHV3R2pIUGdKdEJfQnNXNG5MQkZsVF9DeFNCWW1Bd9IBxAFBVV95cUxOMmQ2bDVuVnZyNUpWU1VXUTBfWTAzdXdpclNXSHhlTVRvUlM5bVdtaVFrUjBYNFJLWElKNVZOWUFncXBBY29QVHV1UVVvSVFDQnlvSGs2NDFRM3VEdmFDRGd3eVQ0M0hFeHNfWjJNUTVSbkJOSVNqakZSbndEVzRtMnBsRUdrZ1VlRkhnZWtFNVJySzhlVktNY083aFRqdkRtLXR5NzJGZWFaUWNHMjdtSzBGZU9kc0xKYlVyY0F6NXg3S2p0?oc=5",
+   "published_utc": "2023-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rashmika Mandanna 'deepfake' video: Delhi Police still awaits response from Meta",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnpVUHVFYzBfaXlBMG51Y2V6ZUpVeTBabXhkZXNidDdwQjNDU1RVeGNMVEE2ZXVpWVYtWTdWR2VvbjMwV2g3QWVPeGtmbWhOcTVmNWNCUXFjYjBmeVJWZ0Z2U2xBcTh6eW1vYWN4U0M3RVZIZUNLUmxBbW9TTFJnVnRCdDVOdTdpaTlWeEpaZzdWSEx2NFp0X0NRVG1QZG1UQzdRSnZZS1c5bThkOVBUY1ItSXZTTEpuc0HSAb8BQVVfeXFMUHFvS1lXYkhGX2NNanVzUzZ1U1ZjdHlvcnBVeUVrLVZtaUx0ZjBYSVJDM1VfODdXVkhMajNNZmZKeVU0MWxKRW1CSzNnQTU2LWlnR2pNTUU4NXNLS05hNk5UcTFvSGswUzNPRTVlZVdncVhOQzk4aHJWQ0MwV2hraGZScFBJbUFnTzBNcWJxQ1BGWTBIRVNjaWhTVkMxeTdfX1ZhVjVHYU9PSlhHdkJzWFlRSU9jSDVzazltdEpqUFk?oc=5",
+   "published_utc": "2023-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rashmika Mandanna Deepfake Video: Delhi Police Seeks Details From Meta",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnhnd1pVZHhJOGVGY3V2dWtIVXBnUmN0NTZxS3lQajdkNml3WGg2X29Mby1iM3NXZTNBNG1HRXgtVHlXZlVwUDEyUjU3RUdEYmRjTnhsUS1Kc1puMXllWThwdWJVTVc2R2FzdHdZazNrS05WRlljeEpiRmJjdUxxS1hGNFZNWDZwNUphS2RyeWlPd3BjM19jN3d30gGfAUFVX3lxTE81VGRhanVqNXl2TVBvRF91ZGdPSGNMNVNNQjZBSDlvcGw4OGNGZFhjeVNuUGRtZnh3eFBYR21IWXF4eVpEbFJ4TzFZbTF6Q3hkeml5ejcxR0xoRlNPZ1NEVnNteGpoS19xWGFTQ3pwZG9YTFdLWmxZYlZzcWZLbzJnRkpkSHJRNVRuX2NXd3VPTkZQcnRUOXoySzFBVzEzaw?oc=5",
+   "published_utc": "2023-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Rashmika Mandana, Deepfake Image Of Katrina Kaif’s Towel Scene From ‘Tiger’ Surfaces Online",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWZ0LTl0b0ZpWGRoSTMybTVJRjVWY1J2UXMtZWo3MWhwVXMtVWY1bUhYRmhwekFqejVHV0JKS01QZ1VMaGN6NWtGa3pzVy1xYXJ1ZTVmUk9LeDdmbFVpbHQ0VktzNU5aQzhqdFVQX2UtcWNnYV9mcVNrbWZ3WVFjdk1rZ2NNeHZHTEpGQnFKQURwTkM5QnRac0J2Nk9VVkVjd0MtZDVfLXJRcmZHVzhvdGZRSFFoUmJiR2fSAb8BQVVfeXFMT3J3QzFqMkJkZ3pzU2lTZ1duRWdoQm9MTkh0QnBLVjYyNU5NVFU0WTVnQy1LZ3l5bV9Lc2N2a0dRR2xhUlh1U1M2TEswMUFSVEJWYUl5dW9xZnFEUGU5RjQzSDVpU2Z3MWlwWUtuOGlkaUh1YzRseGhMUzV0ekxQaWdPRmVDV1BfcXlPdVVsdzR6QnlBM0xkV09nR0pEc1laS2JSZEZWVGE4ekhyR0t4U3FfNUwxenc2Wkp4ODZ2akk?oc=5",
+   "published_utc": "2023-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "And Now, A Deepfake Video Of Bollywood Actress Kajol Surfaces Online",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJIcW1fb2kyNjg4NktPM0JoLTBEWWRuUXkwU3NoVG00eW1TMEJQb1dmS3lhU1pPcXBEYnpiZlVEdXJ4YkdPOXI4NVhFbVFyQ2VvOV9fdTdTZm1adWk0djZpaHBscG9MSGhzRk10Q2tvLURCSXJUc3ZIbmZfSHd1THMxRUE3c1haMkNqdnQ2NFk0QzFwVlJv0gGcAUFVX3lxTFBKeG1HWmZVbjYwbzM5OWNOQTFPTXVwYWk4bUhPQVRCcmdPRnIzaHMxOWZSTEpZbXpWVmdDSGpaQmRCbjd5c2hfRFVwaEIybndRQ3F2c3gwWmlfaFFXT1M2aU1aMFI5T0VJSjdFa2xCNGlPQmI5THRyUEl4QWJnX0diR3p6dnhBNUJGOXlnR0tNSmtrS20zV2FCdHAtZA?oc=5",
+   "published_utc": "2023-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

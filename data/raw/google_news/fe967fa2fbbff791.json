@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "Admission under RTE quota set to start from May 17 in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDhzT09YamZicXBuSUlBV0VHSzFhVUFBbG9sdHpvZGo0QlpCd2hmaHpHeER6MjJJMDlzOTFVNnZDcXhhMGZkbzVTdHBoQ3RwaHN5YXpzWmJnY2RiNWw4S1E4eGljODdpbVBTMVVlZHZFbHE3LVlQS1ZKMk9JV0JTaGJHLVZIbTBiRVRLMkZXZGEtR3dzZHVmWFpiZHMyeGduYmRhazRqclFTcHM1S2NPQUx5MUlmblZxSzZadG1vY9IBxgFBVV95cUxQU2VvVW9iMkNjWHBwZzFOelJRal9CSVNUY3g1UXRob2JBWjFkeVFRU3p0VzdJTVlsaldjc1RMRmJ0WWZlYzNuZjRRSUNKckZEMTJHUWNLVC15MlU2NFFrWTZaTmZVMmlBaVNIUWhRRk9vdXpWMlFUUFgxTEs0ZkMyZ2RVRHpRVWpnakw4SnBEZklISVJWT1UtOG5UV0Q0NFcyMzdaa1R6bnJlQWNRLTZBbXhhWU9abkNJTEhWMGRBTFRzdW9oMWc?oc=5",
+   "published_utc": "2024-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deep Fakes: ECI directs political parties to remove AI-based fake content within 3 hours",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVN4bHFIZVNmb2tjX3NISERlMGZqVVVNZ2FvWTBHYWlKa3BpRFd2dTNBVVdJUUtFVW1Pdjh1RFZwd2pvdE0xRTJWWWpHSjJMUFk5c1lSNVB0cy11WWZQX0VqczdfNFVKVktFSjN2UHd5ckx3TjE1X1l6Y3l5SG12bGJzbjdoTWVhTmJaemRKdFJSZVdHQzF4STlBdWdicTlwU1I4QUpuYmlzWlFzaWxHTXFBQjgyb211YjEzcDFYUDhXbVZ1Y1JwSkN3VG95UnVMUTVBeU8zRWtMNEt3TXhnT2pxVkI?oc=5",
+   "published_utc": "2024-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pune car accident case: Maharashtra Minister Hasan Mushrif says he will overhaul civil hospital system to make it foolproof",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQT0xxYkEwLTE2M3FjUF95ZTNQWXBxUlBXOFpRNHZ0M3A1WS1Pc0drTEZoX0pCRUVlWUpwNjk5VGVtNWpaZGpIMm5zX2dtWGtCdVd5TDU1TkQyZXRQQ2JMVmM3cDNhRTM3VjVnWHNLNmtVUUt3Rmw3WXY5S1FQLTBNTGE4NXNxckNTeWxFTXpzcW1DNWlEam9GMEx3MVlxamlHZjlHR015VjBBUElMQnhvTTVXbFVNcGNaRjdtVE5Jc0VpSFZ1aXp3bWNTdU13TmRuTXg4N09QY0V6SjVIYVVJczNXR1NXX1BSZ1FmMUh4cThsblFIdV9zVWN5c3FJT2xQVXBBN0FEV3pkYkxod1Zn0gGWAkFVX3lxTFBMSkllVHpfZ2t0VVdfaHR4Qzd4TWJqWmltOVhxdEtvUnpwTTdpbUFTamdZSW5QQ0dmbG1vcENVbUlrdzVWbFRvX0pIQlN1RDR0UTlBMVJMQ3NfTU9MREd5NlYzSVRNaFFNVV9JRTNLTUd1ME1NZ1JxOTRpMG1LSGRHSHhwV1JOd2trWldXYnpqTFRyZUlhdkdNRFpWWHNnTXlNTFhUOUYzYWwwN3dqWUs2VGp3V2ViMDduNjcwUWgzWHRqcFlIbm5pZDRWdkh5N081NlNwRmVYRzdVZENqYjRRaFh1aERDM21TTW9BZHhlQkpXYlhYUTJIcDhKb2FjNXRTQXhEM0J0Zmx5eWZEN0dqaTIzWi1R?oc=5",
+   "published_utc": "2024-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Government hospitals gear up to outsource critical services",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbklGbnRxTndvaGN3VXh5ZGMxVXlydWhGQlFCeEREMGh0QnRPdE9iZ25VWWNyOEVmcGhhY2JGVmR5RnV6R0ZHUHROLUZXT1ZZeDNZS0FOQXF5cXN4bnExemVNQXRzb1RPZWtnRmtMMXpzR0F0LXVuSEVmbmVuUXc1Nm9iTTN6Y3phMkM2N19ZVDVHOVI2dHFjdTYydGE2V2ZUTWlrajhzS2k2UTVhWGIteWNVeG10dGlvY0pYM01EOGVPZkZ3MGoyRmtKTWR0Y2RwaHhqVFAzYXhrNm1idGg5WGNMRktDS3phLW8wT0otVHJxbHIyYUZv0gH8AUFVX3lxTE9HSTRGOUJIWnZyTlpyRHJGZUtsSEZPWkVhRG5NN1Y1dWxTLW1IbzkzRzZETW1SWVZ4bXh1c0hGbnQyQXRUd0hhYWxNWktxWUdoN2VHQXRTN3NHSHIzNVF4akhXbkl5ZFcyN0lNOENUUUo5Y3JGcUY3OUFUOTlSWVZ1SlhUakhtbHdtYUh6RHNnV2lVNW1HbTVqS0FQNndsOVgxSlVibnNHRjJjXzhrblZ0VW1vS0pHZ1VIYlBrX3dLOFIwTF9RZTl5WVJ1NTFIRk9TSmxsNzNZV0JPOTRzV3JUS2taX3g5c3I5Uno0RjFTRm14OXlOQndkYThUeg?oc=5",
+   "published_utc": "2024-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5 Ways Indians Are Using AI to Solve Some of The Biggest Problems",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnFicVJsZW5EcHU3c2FaY2I5Ri1oWjlmdXo1bEtuRzFOQnBDNnZrZTg3LWxXTDN1enFqV3VpUVBGZGNqODkzUjVCREt3ZU4xb3BFQTl2LW05ODVuNFl4bVNiTWtINXJ4SEo2ZmVXZWI2RGhJX2ZEOVZTMFJnX21YMnM2Mm15RVMtUlZQN3RranBZbVgwWDg5YnBuNmNMQkg1LVdGSG41SUV0UGhNMXhtUlhKUm5nY0RSdEE?oc=5",
+   "published_utc": "2024-05-13T19:22:09+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "National Technology Day: A celebration of India’s innovations in space, AI, quantum, healthcare",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGs1anA1OGF0azdqSDAtcjZ0NnF1N1ZkdWRVb3ZteThyaEgtY191Qkd0VlBNWGMyVXg4Z2xRWEtrVzNESVJ5VGZobnF1U1lMZXZCSENpaHh4TE1WTEk5NVhFYURNRjV6Z29VY1dlNnREcDYyQXpqMkxWRkFyOFlZaHczVEVDNjhaYk40Q1k0bmpkVXVMdVpfZHJXSjE2V25oZDVpVHUyYnZBMU82S0NwZ1dmZjlVZXlMWW94ZS1GVlRKUEJHaGxSUWN1cWVRS3R0N0E3M1V4M3VuZzRacjE0MzFGVFVOaEt20gHsAUFVX3lxTFBsQld1NUFlc3lOTkYzZWVOa1cwRGNaaV9SLWlyVm1RZE1oS1lnbldTYnk5SnJMRGhSRGFCclhVdmhPaTlIQVZ6dVZncGhWMFhUWlBlZ1BvV0t2UjVHQVdXdU5lSktPY1llYlFiaHh6VndCaU01aWdTdUdZUDZVcGE0ZTlzd19QcEU5YUNITUcyOTVmN3lOaDhkY2RvaWIybTRRYzRlT255eWtlMUppb0lkdGprTmRFT0FhMUZjSUwza3J0SW1KMHp0SlRCRlJ4WGJaUGl1WnN5dElONTFXb20td0czenFLWTJscUxt?oc=5",
+   "published_utc": "2024-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "English not compulsory in Class 11 and 12: What Maharashtra’s draft curriculum framework for state board says",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3pISmN0Q3NIbVdNWmlScVlLUXphdzlEOUpDSHJtSGtPd0VodnJXdzZEcU1EaEtVM3BseDg4V3BmRUdISTlBNWN3Q0tQQWk2ZGxzRHJLekhtYWdYeGtUakFkdGF1dDZCTUYtVHlCcG0tc0g5dXVsbU12Rm9CcFlRQk1xOElCWUJpcnBsX1Qyb0libXJIbFB0aTVROUFUZnhmcFhadtIBqwFBVV95cUxOYnJSVTU5bENHejdHNmhrN3piTEFaZ0xvUDhBYlpMY20yelpuZ3drdmNPX0tGdzVXQkxueTY1R240djNjTk80UlFVcGRMR01JMl9WWXR4MGZVNFRzOGt5bng4RW9NdTJqcTcybzFBcG9WbjZkaXRLLWpxUFRlb1R4dklqakM5QU5ndlYtT1pvZUcyNUdEd0E0Y1VyY0x3T0ExQ2tvLXNjaUZKMk0?oc=5",
+   "published_utc": "2024-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to translocate tigers to Sahyadri reserve: Role of wildlife corridors in tiger conservation",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTZ3d3Fza3J6RFJ3NC1WRWFrN0UzeFp6ME8zZWRyOGZKZ1R2Mk9LeFhQTXBxcUotQ2NreFpCMHU1WDBSZEdRSlV2LW5oNkY4QUhVSFhOQ0ZXa2lsQVF6eHFiaVpHSlMyZlhReXdrdEl3Yl9zcE9LYjBPZFRUY2xsd2JZeElXWDFWWldsYW9SbW50VWtzNURkOXZSN0JQQkRE0gGnAUFVX3lxTFBYc1RKc1dZV3dQNTZwSEszb1ZZTzFwaFN2YUJLWWlFTWZuS0ZvSjRudG4tV2hvblJXUTY4TUYtNFpSM1BSUGdJSnc0LVVJRzA0ME1jS3I3NVRVM0NiYzhxeGlTd2VtQ3JKb1ZfR2xTVURhNG9SZVRnaEFOb2x4QVhHb1N0Y3FvLVc0YTB6VWhVM0FSa2o2Znp2RVBWRXRETjJrWk9jenhV?oc=5",
+   "published_utc": "2024-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra SSC 10th Result 2024 declared at mahresult.nic.in",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUxha0NnSzhZME5fLWFybUJqTG8zZWcwVy00c0IxbnhXXzJtUnR0X0lkdVVLWEl3NnotdzNkM3NXcmdBUWpkeFh6eVh4c2o0TzEyeXV1N3lldGpKOFAyZjMyLVFya1JMVlJwVnBxaTIwQzdySm8wYXI5Y1o0QnBvakZyaVBiZzVweEhpRnlnQy10WkdmWlJwS19RZXlLRTgtYmF0WXhTc0JrYkxXRHFqWUUxUmJ2bXRORkVkcjZTcDhycmVIVWNISXRydjUxZjdyLU94UFI5ODd2SEZRTV9OT1Vn0gHoAUFVX3lxTE9RZ3J3SEpLanRfT2pKSHJ1QThRN3JFZGdHMlJ2dzFkVXN0c1p2N3RyWUtFYmNFOUFBMXVwMnNTU2VfRERhWWh0dXFsQ0hleVdCdVJrN0VtUzMtUEc4WExqZDdHOUJSZXJOUlRoUzZIQkowOHR5LXN6Tmt4QkZ2OWxXZElSSUNfa3dmZ3FsSGJxdjVMajNFLXI5cG9keGJNUTNjZ2w4UlZyUE8xelphRkVpcXBuVUF2dVROV0JRS0tOcTZwTjllaHJrc3FtVFhKbHZQbVBLSmNyZEVNVi1Kd1lvQzVtVnQ2dmk?oc=5",
+   "published_utc": "2024-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

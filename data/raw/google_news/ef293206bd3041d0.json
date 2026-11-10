@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Odisha’s ‘zero villages’ continue to struggle for benefits of welfare schemes",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVkdBVWdPeXJZS19YRmlMUEpaenVzdElQaVJjR1BLQ2U2eHFabU1kZzU4cGJTOEF5cGtTRmMwLTh5bkNCT0lWYjJPbGFUeHZHZndIYTRLRlRQanhjTVo0TkplUnFWcWZjMzJkVnBlX1JPa0tfNTVrRld5TVZfV1JEbjVUc0N3ME9lQUNjOG52STYwd0h2bGN3cVNucjRvT0NwbkpFOGY2Z3A3U2UwTUZIN1Z0dG9KTnA4LTA4VTd4N05ldVFnYkZwN0U1OHB0aUtxeDhwbFljQWxVemNNdGdTRWR30gHoAUFVX3lxTFBlZU9QcmxoQWw3dVdkaUVKQkVROHY1VlVma3ozcEUxUUI3ZVM3WDBRUkp2QmlGQmtmM281SlNHSWZtV0FWemk1NHc5bjlmVld1TENaRTBsWUFhVEdaRFVmTWZBY1VFVFdFR0tyT25TSDN1XzRaaDBqWEJyMDlCNzJBaDhfYzd4ak9Sd2NoeDZQVWQzOWlQQnBoeTk1eHJqZXRleUdPX1JqaEo2T09kT3FGRWhjOWJneTNvQy1NSklkbldua19yYW9IU2tpckJhQ29QdnVmOGNhLUE5NHpkbF9rMTBoS1JVbzQ?oc=5",
+   "published_utc": "2023-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha's Naveen Patnaik Is Now 2nd Longest-Serving Chief Minister In India",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUFTS3NwbElRWFVTelJUMHBxWGxUX3ptY2VzVjBDOHlxdFJqWWE1VlRUZnVjNUpvQVk5ZnpEazJ3Vll1TzJZc1FGMUZBZWIyc1NHdHpyYmh2NUd2cXY2MXZ6OXZScXZOYndyUXF2YkFBZVVxclpkX0FCNlV6dGp6ZE5oNmY4bEdXN05XVXVKc0xhS0tibHJORFpocVZabHI3WHVOaTJLWC1pOUdTMHg3d3ZVajkyMEVFRDlGcFI4Q2ZQRUNnSlZGQW5sYUtyQdIB1gFBVV95cUxNSi01Rkl0ZzNUQ1ZjNVd6bFNCM1FQak1EUm1XbjlIQnVNNE1oQUNkSnd3TFFMUE9OY1JocUZyY3pTOXVCTUNEb0ZEZ2lGcF9oY0NLd1VzR085RldvNVJiWlo5d0Q2bUJuSU5iMzNJbTZNRG9RbjgzWk1vOFVxZlhRN1hGMHZFWnRacXFZS2t1anM3WGFkUUtPM240MnpZMWktU0RXSFNBdkpYUnNtaDEyYUpTbXpBOFpUNl9wbk5rWmExOFVYcjZGSUZHWFY2TERlelZUOWJn?oc=5",
+   "published_utc": "2023-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OTV introduces 'Lisa': Odisha's first AI news anchor",
+   "source_name": "The Business Standard",
+   "source_domain": "https://www.tbsnews.net",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGpYc0RmYXEwdUtWaFBBeldfWUEwdnBFMmVTUzFhSTBtT2tUU1U1ZVBGdGVOTmRabDU1NEJ6b2N1UzhzNmU4dnJzcVRBRHNPQUtGbFk4eWRkV2dMQWVmYmk5VlZibkNpQ1dkSjRxdmpTZEJ6UUVHNHpiUEctUXVsaFNwTl9oU3Q5Zy1hNw?oc=5",
+   "published_utc": "2023-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Television introduces Lisa, India's first AI news presenter",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTJCZDVyZjZpZWF5d2g0Y2FjWS1xS2RwR1pocVRDN3MxaWVmbFB4dkNSZXo0X3VQYUJZZXhrVFJpdm10OGlhRTJpZk1pM3l1akhMa1M4eEVTeWh6VjhKTlZzaUU5WkctUFdHRmVIS3daZFRzTkZXV2dTVmwzSUlBQ3diZjZvb3M4cEdwdFZKWHFaVk5TSHRFdkw4cHpKa0FvV3NyMHRORlNvaXNhT2Q0VGt1VENSRG9xMWxLVi1SOW1qWEdydGIwUmd4dE9jQ2NHMTN1N0h5TdIB3AFBVV95cUxPNGJBUFQ5VnVPcGJvUGRfNHNYTzVaZDBzSDhzdlF5SUptczRwc25JMVBRWW5pUDBpUmxScnhubEJ3VV94bXNqV2x0djktcS1mQUxCSjJ2dWRKdmlHZEYyY2htWlVkTkI1YzJYaXdRMVlLcF9FM053YlphR21ITXZnMjM1d0RpUjJUYjNoZC13Zm52Q0FHUEFkOFdtcEhNYUVjMlgzbk5PbXVkQzh0bGF2WnRXc042RWc3Uld3M1VjNDJDTkluNzA0SktXQ0hVYlF5dkxmSFpkMlBWTjdm?oc=5",
+   "published_utc": "2023-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "undefined",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkM1V1JzVlY4MGpadTJuVWYxem1RWlJzZ3oxeGFtdG00SnNfOTZMTi15aVhPMHowS0cybGJqM1V0bVZ5OVNYRDNTSHZ1UVJSdF83aE92elNvQTVlM3dzWVZFcFNfOG5VWWFIOFhhMmtMbGRQRnVkOFN6NXNWQkRDdGdLR3F1WThUb0VIQlFreHBoT2hSVng3cnFwVGtJTEVBdHJZQTNR?oc=5",
+   "published_utc": "2023-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Odisha Facing Constant Neglect\": 'Equidistant' Naveen Patnaik Hits Out At Centre",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObTBHQ1pHVFhPX3JCUms3eWZZNktRT3M2WXE3S09HMjFtUmpfdWxvbkYzVWQzTXktZmstTVo0ZzNRamV6QjRHUHNCQ0FpSS12VzVHNlIwUjl1eG5mLUJQLUV4SFlQenFZajkzM0NWZmdzRkp0dm5McW1WVUI0WUJiajN4RHg5dS05SVprRmdhVWhqVC1ZamdMM2xRQXFHMzFiREM3cVBTYlVEUFNVbjJHaTZ6aXlJUTTSAb8BQVVfeXFMTm9VVGIwYVppZ21Eb055WmpIX0pZd0Z4NjlHOVJ4cGxudWdKZ1lxSzNwMk5ieGxpZmxQMWtZbXljMUo5eG9kcmctZUl6aTE1VU1nZTU2X0NFa2hEVExXY3pmZ0I4MWJ4UWhMUzVTTzYwUUFkNEg1aUhwSXpkX2IzbDNrLVJwRXVPLXdKcUJob1pUSzA0LUp2NzRxdnNyWnJSVm1qaWZfRnk2dnRsZHM3bmdmdTZXMG9yXzhUQ3VRQ1E?oc=5",
+   "published_utc": "2023-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha to make available urban amenities in rural areas",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0c5Qk1TOVRGX2FTNXlyVVRPV2x1a3BXRnFqbFgxcl96eEdyRXhEQXF0UWJTbTdoOWVEME9HSnBneVNUWUUzYVlpZk5MeWdkWnk1VTFOeXpEV2FnSUItcW5sNTRETkhsZGVGMUVtdHJTQTd1Y0RPRzNEOGNEa2JBRVBlQmhCQ1pXengyRUNxTERHWjZiZVhHZExXVjA0alVGd3NpXzZzeHpjenhVZmEtZlFCbGNFWVBESm1Xd2x6dFNlVWFKSXfSAcwBQVVfeXFMTS1kUlhRQ1ZTVVBfb1ZFbUZ3d2N3YnZlU0RFNDEza29VTmJlN1daaGtpTm5aeC1UZjI2YktYUzAxMXk1cVM3VENSVW1ZZ1ktZmttYllKQTFOdnVENERCTmtBUV9QZFJBcFIwcHpfLVpVN1oxdWtLMFhOYzhUc2RlNkxKcFU4NVZNOW4wREw4Z2Fwd2U1d0JVdlhmN3JCcV9JcV94T1UxLTRSQWZYS1FwTmFmMGt4ektBb0hGT3dvaWptWGExUVpqWmFaT3Jl?oc=5",
+   "published_utc": "2023-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lisa, Odisha’s First AI News Anchor Introduced To Audience",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0xMZXRObnJlcFFvTzhYM1JGaDJzTDNMUnJaS0JjT3lYTTlaSnBrUmluNU10QUtac2hNZWFOYTJiNmowNUZUanh0RVoxajdJOEJXNzZ5WUdGR0tKNmdPT3JNU29zRS1rZG83M1NGbld1RmVTOVRsTUxQV3Bpbk1RQUtiR3JmUVI2ZFJRcnB2Ui1fYllSUzRrWmVLRC1iTFdmRTJKOFJ4M1V0RF9NQlN2aXlvRzZLYndtV19xVkZBQUNDQVlhR2lpVDRB0gHPAUFVX3lxTE5laGFiTGQ3aDNUVE5wTEdPOHVjWUVJX0RnX2JBYWJ0WGxGREtRdDZLZldWbnVJZ3FUU3BFcS0tMnhSdEdVbXVGeVRwR0ItbVc5MHd6Nkg5UFEyQnRReHNQb2FSU1dabjBEZDBoNmgyMDRRSHJJUmtxQUpQSk82TE9UcXY3RjVpTFpoNEl2aTNnZUg2Rkw1dVVOeVI5c014TngwTk5oQVcwS3JuYzhOdHdBTXVDd3dwVjlDb05EOWV4OU5vOEtVMUN6MVVmYkRFYw?oc=5",
+   "published_utc": "2023-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mo Jungle Jami Yojana",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyaUU3SkJfNHdqRER5QnRxVXdQb2tUaWxEWjhIdFM4RjMyLWpmYkN3SnpiQUlfYXZidVdzWEFmOGFfTExUYmhFdFZUMVBvenU4QmJfWVJqRWc?oc=5",
+   "published_utc": "2023-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OPSC Launches AI-Driven Portal On 75th Foundation Day Celebration In Bhubaneswar",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ1BMYjdSemhWMmJOQjFhZHE4VzlYdlpodEM4YXNzUUMyWm45VzVQdDJxM1dnQ243MTlxQ0tuc05ScFpfdTRHUjFHY1JjYVI4VTEtX18xU1F1eGx2RzliZW1Rd1lOTkZMV2tsUHo5cTRzaGZBbzNHWjVEc1dFR0tneXQxTVVvNV8yWUhDZ3BxVm1qMVlLME1XSXZTNC1OS1pmOEdOZjNzdkLSAa4BQVVfeXFMTlF1c2lzTHRfLUdxUkRYVFJsbUlmd3ptazVZVDFpR3dMeDhoUDFZYkhEUkppSDY3TDMwdVlKQUZiTEx2WVdFT2tVekw4RjZGMFlreFQyV1phdXQ3R3BMdHJ2UEFjc0dEd2RFYkx2WTdXcmg0NHlJTGFSTHRPbEZpYTB4Vlh1WGVsM21KNFFsTHlnbHlHUWhlT3dvX25NdlM5NjRfYzM3MjF2bF9qS0dn?oc=5",
+   "published_utc": "2023-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

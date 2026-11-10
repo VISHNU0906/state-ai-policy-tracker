@@ -1,0 +1,45 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Enforcement Directorate attaches Rs 6.5 crore assets of Tamil Nadu minister, family in DA case",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY3ZCQ2xsQWtTZ0xRcEZ5WS1qM3FTaTF6MnVEWXNyUGw2UkZRbm9WVFRIZUxwQ0FGZC1LUlFNQjA1VnJCT3lHdFVBbDlPakwyR1AtTHZsRzZrNDVsTVU3NTdGSThjRG9WYlJwLW9tTFF3NzN2SDZVMGFhNFlBWU9lbEpXS3hraE9HTzFZR3B3QzRzT2wzTmY2T1lLM0pWekNLYlpESF9JUjcyTW83WXRpZm5UOUFHYnRZYmRiSThJajBCX3ljTnYyTmZoVWFaalRFbWNvR0NfNXpXQ1llbXF6RDF1S2Joa1F6T1BfY1NzU3hqZVB1THpleFNjcw?oc=5",
+   "published_utc": "2022-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CMâ€™s appeal to PM on nuclear fuel disposal",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHRkYXA3OEtOTTAzc1dhYW5feGpvenpBd0FpX3FRbVpMWkhtbEpPM3BCeEFSXzlyTXlwaDYyLTk2T3A4Vzg0OTdoNkZpSEFCQmxRb2NBNjJfZkFUa2U5bFpSdDgzMV9ZTkhUMGtiV0NpSjg3S3hrVEd2R3Q3OHVwY0FnYjFwaUZlS2dyeGFXcjJBVml0R3FwSEFRS3lPUUh0d3o1YmRjMXRCTXV3SWZvbkZR0gG3AUFVX3lxTE5lR2dPWWhGN1FQV0EwTVFfZVRSVmNVNVJGdVZqOEhTeFRkelZUV1VjOFQyd210cXlQenF6aUpacTloNGptYnQ5OW9JcEx6X0hQdEhWSmJGdTNHUmpURV9UVWxlU3N6VlAtaDNJdDVOMGlDUG5rSmh5emlpR1YzM2dvRTNNdklVT1NUTGRYajNHVHJDOXdlTFNkaklBSDV4Zy1jdzFfVVRWUWUtV0gydEFnaUd5TTlXNA?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PIL filed in Madras HC against TN govt's demolition policy against temples",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW1DX213OXhENHVyY2xLaTFoc3dDdHZmVW9EcTlIeFF4QzRMMXBEeG1BUmFHdnhCVk9nUDF3MXRQR3pRMHc4dkJ5MExULVpTREpicnl4NWozdjhyRkFsanBwZG8wbDkzRnpNNUFJQmpTcW1nd1ZGcGxiYjRuN0NCY2laMzV6TnBaTHBsQjJjU3plM3JBakxkREVqYXJwdm9UbE12OWE0N0w?oc=5",
+   "published_utc": "2022-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: The daughter who found her mum in India after 23 years",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52ak5OWTB3X1M4Sk5lWFY5SEVoUzJ4NERma0NqZHBJbkEwMWRmVE91V0h5UllDLU05TzhnUUlUZ1Q4bk9mTF85c2dsQWxhbnN6NHB6THZjODdFUnlqaTE3ZDZtZw?oc=5",
+   "published_utc": "2022-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to get its second Multi-Modal Logistic Park. After Mappedu near Chennai, the union government has identified Coimbatore for the second logistic park. The park will meet the logistic needs of Coimbatore, Tiruppur, Erode, etc. A detailed project repo",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFSlozTmJiNlVMVlpTWHRnQkN6UjFwVDFqUU8tYUZ6ZlVYQklPVWhaaExqSDBSVHktQmRBeHBjdlFJSHRqclZDeFY2blFpZER5Vmc?oc=5",
+   "published_utc": "2022-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

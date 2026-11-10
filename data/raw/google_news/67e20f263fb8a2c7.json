@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "The Maharashtra government signed an MoU with Google to use AI for development",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1lMVhGd3BGcHc0cWY4RE5YUzBFV1plSTZkVXF6MVN4YVlXTnQyOGpzMHhSUThWQXVKNmRIdEIxRlB1c05kT08yQ3lhZ0hWeHRxTXUtYWhxTjVISi1YclRqcWRvRFNCSjVncDg3TjE1a0JVMVRHSmhRb011SUN4WWRWNjdVclhzQVBmeEY1WVpyc1A2bVo4TTNIYmVJaHZjNkF0N3dXc2pxZw?oc=5",
+   "published_utc": "2024-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google partners with Maharashtra govt to provide AI-led services",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTc0djBlTG11UEU2X1ZoUEFzWThsTlphdEFKcWRSTHVnUzd6eUJOZFBjZVFIVTF2TE1hdWdkRjR0OS1CaURlUFZPZUVnQTFhUGpsRkJ1SEtfekllX1BrNmRrVk9KblBhWGZDcWt3ajlNLWpDVmNzUHBOQ3VzSmdpR2RUZFZMTzAtTFNOd1IwSF8tLXdaMHl6SkVydmN6QzN4cnU0Q005UmxYcTA4T3ZLck1lbmQ5TlFkRWJlQW9UX3plelpybGRUdkVtTdIB0AFBVV95cUxPelhaa2xYaGVOaDg0a01zMkFhYVlTNmlPelBrcWxYb0JrUXRkX3dwUktlaDZCck9ZWDZNYmtPTjZ6WkJMaVFLcTIzbFhZQ2w0V2QzZEF2X1c0ajhrRmRQcUU1cjNtcEhqUVZuYzRvdVdna21XTDladV9rU2xBYVhjdUM4c2FaYUttWi1FUUxvaE9Bbm05Y1ZzOFRSam9PUElmd0JjTkdGNE1xRnRHZzY3WU9iTkRUd29XWG55UUJBVEU5RVpOWk9wN0tsaWJvQzZi?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Using AI extensively to tackle problems in agriculture: Union minister Arjun Munda",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmktTkk3Sjk1RUluNHZxUzNzZTNKd0hFcDgxcU81cTdrbXYzNkRERXQtRXU4TTdURTd6R3ptQmI1ejdSdGdmMlZFNHpBMnM0Y3FDYk5INk1kRWZ4SWhGaHY0TmxfR1lQUmE2c28xNjRkeXJUaDdxYVpZWHFFREw5bHZwY0FNMmtxWUVDUTBadXlWU252VXczbGU1NVpZakJHOUk0Vks0X0lMUHN2bm9pTUNTSU1TcHZlcWNKN2V1M21FVUZ2bEdWUlVidjl3akVfQ1pTM3czQWlZby1DS1NhQUFGNDBOcUdiMVHSAe8BQVVfeXFMTnE0QjNoLVl0MXRFTEpTUG5QQmF0aDRVQnpicnp4Rkg3QjJaSGVMTGZDVVhXOUZDV1BYQkZOYVhJM3NvdVA2N1lpaHZoaU5oeDA3Ym1tM3NjMzcyWEVfU1BpeU1hOEFyQjlfTEVEQzF4aGtEN0dIa2xxallySlRTRm41cUFTUXdKc3NNQllVU1J5eExSbE9NU0JwTXZWdmhCd1lSNDExcHBxTjRrWHlzSGtMYlFlYktKNFBfMk1ycXUteFlPc0JzOEhwcG1EakVFcFByX1FwUmNVdWJqbXhmN2tFV0F1ZWt4MHVndHBVajg?oc=5",
+   "published_utc": "2024-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Village by village, creating the building blocks for AI tools with work that also educates",
+   "source_name": "Microsoft Source",
+   "source_domain": "https://news.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR1oyRllkbUFraVVFZm5vWlJ6bnBoSncyM2pGbEFGTTJ6MWhJVjY4WFJQRlhjakNOaWxNT2prTkJyQXZucHhNZ2EteUNacnZGZ3Y4N2pCTV9KbjdtV3JpZE4xMjBaLUdqMlk1X2JaNHFsNE03anZRMHdBS2dyajlQU21EVmN4d0NKc2hXZjA3bFd3ZFN6OWFrNElJYzJqMmxMbjNua3NhVFpONVFVQlZnU1BsaE54WFFjaG1iRlNaTmVCVmQyZjdHX2FqNTZRMHpnRW1COQ?oc=5",
+   "published_utc": "2024-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The University of Birmingham supports the Government of Maharashtra in tackling key state priority areas using AI",
+   "source_name": "IBG News",
+   "source_domain": "https://ibgnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUg4SDUtTVItMzhOam1SVHNSdFp2QmJJeU5naFdXdHRKS2NjQXNtTTVyTzJKZHZfOW9yQmFVa1pPQmQ1N21uTFZEckpYdWNwM3NlanVJWFc1cG1Hc3NuU2FaSzJkRXhDN3NpRFZoc0pPTFhjYUhpaTlLTnFZY3JPR2FGR1E1eHliQjA2Slp1bGM2S3BBcWV6RkR0UE92VVdiRGVEaWNQX0o1Y1A4S24xVEsxWE1TOGdLSy0wbXpJWVRZWTZtN3ZXT28xWnp4eHk3akk4YXA5d1Q1am1Udnc?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Transformational Governance in GST Department of Maharashtra- 2024",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZndhYWVVNUdTNXJGSGMwVHJqQU4xcDkzWW9YSVJ3REpaU3BVRHgxLUhSY1psN3dMTlZLSHNFNmRNT29KSVZTUURHRVMyaGwwNXlSZ2NPaDVqYmRqSndKa2QtNEtGZmJlTlRUQ3BVU182MnhYYjZJV19QWUhsUWM0M0xzUjAtSHVxSjRMWVgyUWU2QVo4bnVjMFBKUUs4RmJScllPa0JR?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Board SSC Class 10th exams from today; timings, guidelines",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTy16ejB6T1B0R3JjRkluMTZxclBkaWNvTWZNQW9VXzFCTE54WDF1bS1mUF9iZlJwYzg0OFBrNktJLUhZTE8xUno0bmN0SmtjQXBhZGYwbHRIeUt2YWlwd1pRVEYyNGdmak9aNDdiWVJKb01OTmpuUHFaRlpISFVueEVia01kXzN4X2d5bHJLMV9IaGgxZWxqR2tyR0NGTWtvSTh4Yjg2R25XUHZx0gGzAUFVX3lxTE11b3VDeDBzT1YyV0k1bG9ObXpjYWdlUzB4dTJzbmhvUGJmSGhsTGRlYVhvU1llV1p0amQ0Z0hzZ2UyRDRuRG9KZVJxUVdaejdGTldvVUVaMm5fLWFOMFFHS01YVjh3YVF0cXF4R0E2OHp5Z1pEU205c3BlRVA2b2dCMTJJc1VUMmF2aExpVElKVmF0VUxhemNmN0p0ZUIyN09hWW9ndHA5Z3JVd3FYdjBPYkFV?oc=5",
+   "published_utc": "2024-02-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lucknow will be developed as a prominent centre of AI: UP CM Yogi Adityanath",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanUyVGxqdHY0bTQ1OXJhR0xoWFBxSG5hdUttdGVHcFFRbEYydFdiUmhqNS1fazc3ZkpWc2Rkb1IybWp2UUlUUS1xQ1c1dndVYTFOa3Z2VzVxOU1wa1RuQThjQnl2Nm5Pa2F2Snh2b2ZkNlgtTkM3UzNmUXdwZTY5TE1XNk1lbUdMaWt1VHJSV0J2RE5JXzZIckhIQkZYNW1YMEhIOVltZUM5dm41M3pkRXBEY0kySnVDb2pMQlFYS29FUjdGNUw0bGJOcE5pYWVFamFISkZ3ZTNMYkgtZFFiRzQwRQ?oc=5",
+   "published_utc": "2024-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ICMR offers free genetic testing for rare diseases",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMnZNSEVSYmxHaHljRVN0U0dZU1VrQnlnM1BwOHJUVG03bEJrOW9fMTcxZmkwWExSb2h5djM0RnJOdUZIdmZUd01nMHgzRmdfNzJ1YUlXa2pWb1ZiN0U1ZEkwajZHcHdqaHlZa3hLOTlDTmh1UUdEbkR0b2gxY2NTWk9JWjFNc2N1ZUpPckMxbi1FYTMzeWhCbFQ5ZndEWkxHVXdhVkRGcDZITTloTE9BeGVpSVUtSzJ4MWxyRFU4UE9xYmlOUDhtNFZESEI5cUJZV21obmU4cTQ2MmJ4QW0tZXFwMVNqTmhZenVOamZrU3pYemvSAfgBQVVfeXFMUGNFeVlsenlHd29ORVgyQU53WHN3SEhpOVpYTndxNzVxNFY4c0xPbU5Ga2l5TEdiZHFIR0k4dC05SlI4REYzMV9ha3VSejFSeWNGUWI5WDUxNEk2TEhqaHpjN0FLOUZMMnBfS3RublNCTVF4UUFzUU9iNHpuanozUzRqXzBFbmVyVGk2OHRzd1FKZ2JvX2Y4TlVrV0w2cXp4WWlfVk93RmJMeWotSkVxV2FVSTJkd0lFWkFFNVlZUGwtenZZTDlwSkZwMF9sMkJkeXpKWVRlQlhfVXdfaWY5cjk4d0YxeHg0amVMWFlIUXVBMFdPczlwRnU?oc=5",
+   "published_utc": "2024-02-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha Govt Decision: No Classes Before 9am For Pre-Primary & Primary Section Children",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVDRvbk9YM2g0c1kybENXODRjU0lfVW1JYUV4VVNUa2diNVg3LW9GZzIwaGtoVm9ybHZiODdvZmFTUG9UZUdjWTlaU2tUSWo3Y25WN0JJdk5sb2tQdHVIZjZienlMNGdkYkR1bF9tM0dYckVvTVRYZnFNbC1fQzdNSmh0Z2VUdUg1U2pNOXB1RUdDbmVXUGxkTkQ1bXhWMmtVTUg4RmlpZk1yRnNPdWdDbk4tMjNTcllMYVRVNtIBwgFBVV95cUxPdFRvMVlXZ2RTcmk3b00wRXhGZ2k5eENHNTctQUpOYWhHUEdTS2w2c3ZZMWVORTFVRjB5YTJHQkRtSXFMOGMtZVdvZDJISkFoeXRSTTR4T1oxVm9QRlljRHJWRTVBdjktTDI5M1AweFFPLWJpLUItM1RiaWh3NnQ0YlFKR1hQbmNGT2doRG9ZQURSRnBuT1dZc2FjUmNrR0NVY3NKTUFxNFBLRkVGWnIzTnBXa3dUeXdwcm1LRzBmZ2FrQQ?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Striving to catalyse tech development Beyond Chennai",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGtxUHZQdWN2LWJ4ak5DaXpPZW8zZEg1cnpTSlNwLVFzVC1fVGJMa2JycWlyb0lhNGg1Rmkza3lCenVZWWVDQkREUXRYSHhVOThfSE1DaDdMTUx5TnlVVE5ZNzFudHpBWVNuVVUtMEE5cVZwM2JvWUx0MVotNGprUEx0aERmdjFuOHc3X1BJbUNzVTFLV1JZUUgxdWxTNmNLdlViOW00Rk5Fb0FOMzhncnI5bl8zUdIBwwFBVV95cUxPU2VIWHZmd3JyUHhTVUh1UGJPMXVjVWt1cTJxcXlTMnM5UVc5ZDNnRFR2VkZwYnZGNlJkOWJnSkN1YmVuTW9YUnFRTmZxNTZWWFdvYXdnQ3JvRlM2QXFBczAyN1hZZldvcnZGLVI5VmFtRzZJX0tMSFNtWHV3cUltUHdBZVpCV05XRENJVEFpTG93Y1Ryalp3S2tGOWc1NkRrdkstcFlNMGU4ZDNLaFFXRHJJOG1UVHdaczh6U25TSnctcXc?oc=5",
+   "published_utc": "2024-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Motors To Invest Rs 9,000 Crore For A New Plant In Tamil Nadu",
+   "source_name": "CarDekho",
+   "source_domain": "https://www.cardekho.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXVfS0NzNGJvcUhZMWpuMXlDT1RUaVU3NWx2M0wweHVsUTd4MFlZZlA0d3phY1p0NU1td0FZUGsxV3kydVhaSUtCYWZ5RjNFSDBJeVZ1UlBYTVFVTEllTEZaVElOQXRoVjVkLTNnYWQ3bzNiQUtKWHJ4QkQ5QlJ1Z0d3X0M0dWpSemVDWUlld2VxUEw3Ui1BUmVSdjE5V1IxSk9YeXVEa1h0WGhTa1RNMGRPY9IBuwFBVV95cUxOMlpPX0luOUo0emVrVXV4bnRJMkhhTmREODNBbmdnV3FkN0wybnZweGhhTXczQVJZSXZiQUM2SW44S0dIRlFxcXZZaFBWeEVILVl5QzlvNVotSU9JT281d0NPby1tUEpQOTY3NlVGWHhMelhYZjVSMzUyajZFNThCaGNqMExTTUtWdTFLNW13blJmempvcnVJUHNMbk4xTUdkaG96b3hSUEpjZHdDSUpzcy1hMzNtdHRUX240?oc=5",
+   "published_utc": "2024-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Motors To Build Rs 9000-Crore Vehicle Manufacturing Plant In Tamil Nadu",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnlQVmYwbGhWX1NfY29FSXhnY09vVWlOUGh4VGlsZDlRZnVoOEd2MG9iTXduUllCQTZCYW54ZkNrU3ZWams3QTdMRW9NaVhxb1lKT3gyVkZPNmlUaG1pbEJmWmdGNG1BRENjZXlnY3l5OFNyNzRBUURuenlqYUpkRjBpSW9PT0xrTmtBNE5IOW5PX0hkb3NLYnlXcEpNYXJOeElGRFB0OXpJQng2cXk4cjEybl8tcjjSAb8BQVVfeXFMUFVhajBBVHB5Skc4a1otZ1Y4cVlDNjR1WlAzUW51NWZEOU1fN1hKNmdyUE5CTzdJMUEyX1NqMnNOTmNNZDJNTGhqNEdoZ1BkQzVDX2pkcl9ncjRZamdncjNkcm9XQXBZeTNSR1MxMWNBd3FrVEZHQldjTURTZU9BZ2hPcTVoMWhwZlVXNFhyLTdLcS1zU0xMSU5WczFoa0IxYXI2R0J2NjFtYnd4dHhZWnBucHpGS0h2bUNDbEhxRVU?oc=5",
+   "published_utc": "2024-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Manjummel Boys’ on a dream run in Tamil Nadu; mints Rs 15 crore",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGR1a1Q4bkZDaUJoeGhqOGxxRF9QT3BGazUyOTQyckJlbDRaQTc0YjVFOThQdXo0YzNTUEFMdS11MnJzWE9MbW1oa2lTcy04aV93VmFLZll2YVNuMDNYMTNaWnJQb0txVDNLOXI4NDJSYjE2RlNQYkppZDZGdFhfNktBbFJHNmZ3Q2c2RDBHMmd0Wlg0M2tadVh3VG1IRERqeTFRQjVvQzFzc001TzJ1SXBaTFZPY19BamJKSUIxVEhrRFdSQlMwZk1CWWRnX1NTdW5tUWpmVEVMaWtHZFJsYjdUeUI2QVBjQnFGWGxheWPSAfYBQVVfeXFMUHg2ZWE3NTM0V0x5VFpiYnRlcEpZbl9yc3p2TFhNU3dMWTJTQTM0RDdhb01DbU1GcTlPeTV0U1NoMGdiUVpNZFFTU3Nxa2pPSkdQd3JadlVpMXE0WjYxNUhlVWhnMF9TQ1NGTS10S1NycTI2QXV3MkNrTWxldXc5dWw2bGtsVnd4Q2FlYlZ4WlVpM29OdUw1ZnVqa1dWT3hwS2F4RmNGa0V2dVVsX2ZMRl9pcWJtclJyRzVNY2daaUVyRWZnTk9YdmRlZ25YUU1uT3F5MlM1aTFScU8zWUxKS3FCNVVMRFdNdGF4dk04bTR5RnJoWmtR?oc=5",
+   "published_utc": "2024-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Keltron Secures Contracts from Tamil Nadu",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHR19meHU0WjkzRzBCUUhDUHlEZG9oYVpULVVfVlBGc0VTbGJxMFZxMEhyellpbWZkWDNiQlZOUi1EcmpndEVTdzJJQWhTLW9TR3VYY2tsMEtLUFNqWjFSVzdBd0R1VG0ya1BZQVdHT2VRUUk?oc=5",
+   "published_utc": "2024-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "99 Kg Drugs Worth Rs 108 Crore Seized From Boat Near Tamil Nadu Coast",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3JqanVNeUFDOGV2M0Q1OXk3TC1oTEpTdkgyZHBwRi1tUE5maDRWWVVkUjNSdmFmbTlqbkFTWHFRSWlwNHgzaE0xanRvN3l6aHZLdU9hWWprelpLSUF4T0dNeWNTUkRISkF2OHRMdHRrZW03ZWZhRjd6a2Q5RVBXbW9GNHVWaGNWY2xPTlhIRHI0OU9COTJwRGE5YVhaX0Q2VnpVNjlDVHB1dU1QOUHSAbYBQVVfeXFMTWxBYzNrY19JM0ZoMDE4blkybTNZYVMta3NGaTFpVW1XYVBxLTYyRGl2ZEhvR20xRTY1cmtPZ1UwSzNwaGFzU25SZ0JyckdMRUJocDE3aHg1TjdzVWZCbjJ2cVluN0pwTFlvTzVabU5fNjF4cWlYLS1kSGVBVm1XUFZKM01tTEMyUGtzcUw5MldERzV5VEpmR0ZISE9lUkVrNEw1SmpGOXEzWFNNbjRYa2twYnhGcVE?oc=5",
+   "published_utc": "2024-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake videos and images grow ahead of Indian polls, stirring unease",
+   "source_name": "The Straits Times",
+   "source_domain": "https://www.straitstimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1JWX2YxTmpiTFNyRjFYU0dRTDFtYVp4RFM2ek9TR1VKeDBpNXlyZ2VTTzc5SmtCZTdGU0RFc1NqVTZiX2VfeTFNU29oRTJndWRKN1FFcG9WMHQ1Sl9PVzBwaldQSnBiS1FIRzdLdE5pcGhuUXktUzB4NTBOU011aG1JM3BoMTVXUjNlZUNVWVoyRXdIeG56aURJeU9EX0s0OW4zYVBaaFNGRU1sVU82dHFweVg?oc=5",
+   "published_utc": "2024-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Robots set foot in your jeweller's workshop",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlOMW42aC1OS3A3aWtnNjZLb2t0Y0RKMUR1czlKMXU2ZnZqY1ppQmdGSFFXQThMSlhHWVJDdkxlZ29kcmpDZzg4OVAyejJub21aQzRRcGdyc0ZQUVlQMEE2OVY4T1QtdnZDWGdoT0gyR2d6Rk1PckpNTlpkNldtNjUzZXhERFRjT0FwVlhrVXNQc0dXNjMtaWoxODJ2dS1FejI3WThOVmhzTEVLNWQ2ZzVGdmtXQV9oN2JteF9YblFJUzRlRGZr0gHMAUFVX3lxTE9hR1drazNieWw3MndZQW9SSTZEbGg4U1RpNFBfS0pGVW0xWm1MU1ZUdnRGeTNSYXhaX19mTFNCVldsQzVuUWc5d1dmWFdhdVhfd2JFNHlBZndYVUlYYmc3RDgxLWp3NVpsbjBtbHZTYVdUa1Z6bHV5QVVQMkVEemxYc200V1NRNUpUOHRUSF8zSUZvZ1RrTExfUFpDTnA5RGhMZDB1cWxYUnJ3czk0RHU4a0V0RDVpVjdyWWNSVFVuTmU4OV9RYU55T0JzUg?oc=5",
+   "published_utc": "2024-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Crystal Meth Worth Rs 180 Crore Seized From Tamil Nadu Station, Dump Yard, Couple Detained",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZFBBb3BCWXdoMkJZV053YXhyTDdvMjZpOVNTRVBtZU4zRWVQSWJ4RWVZaWpIeFByNHVHb3h3eEREYnlpcVNyTndlZWxEVi1pMXRxZVJ1U2hHbEI4T2wyNWhueFRoc2s2aFpCTl9aZzN2emVZcG5TRWRfWmE1Sjc0bTlUSDNQaHVwSXpLNkd1ckFteTVnVU1DUW5aUHE5Vlo4eUVSTDhHMXRoY3M0V1dqZlQxQWlBdHJmSEdpVGgzbXVRc0QwLVBFTnJHRGkwd9IB1gFBVV95cUxQZndJSTZ4TzlZRWFZeHdsRGVUcHozbFBVb1h5QnVfcHdLOHJhWDVYRkVRY25UWkoybjZWV3RvbnAwZzVfZl93dzQyeVRaNlpDQWZKb1Q1Z3E4TXpkek81NmJRY2d0WjJyRVNMeGdmbG9XMVBsRDRndUlSRXVOb0FUaW41eGJwdE9DTmdQYl82VW9JbUZZdzM4NWtsVzlWb1V0SlMxTXhzZ0RtWEhxWkFRdEhPTDJGcHdkQndIV0xJeEYzX2p3SFF6MlNkVlI0ZVFWOFBFZlRn?oc=5",
+   "published_utc": "2024-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

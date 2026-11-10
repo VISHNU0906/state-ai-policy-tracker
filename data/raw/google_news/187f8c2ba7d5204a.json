@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "Tamil Nadu to introduce six new diploma courses, AI and EV labs in engineering colleges",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUkNua2lyZ2MyWC0xSnlqN2x4bjdxTUxxckVUbGh3VWdyVkp5N0U2el9WVjFxYzFpOU1IYVduOWdOcG1USmdyREpyU0FYUnpYS0VHNXVvUkFWd0tuOVBnSldQYnJxZjg3MlBrUWFYYzZhNTZYRURkOVF1UjNCM1NKQVdrRnRhYjlaalNXQW1aNmdRc3llMElfZDJNdjhfd0tlZFZQMEdsWktPRUJQX1BlekJ2eWY1aXlfT0ZhWGRTRDZYOW81anZtaGQ4c2lIYW5kS3B0OVVDY2ZQRmRIMENhdm16ONIB8AFBVV95cUxNUzVHN2IxRjFyNXVjTEUtd3hlUk1Lb3llbndLQ28zeHR5ZWRRUDlYZmRFRXdWX0FDejRQbkVWT1ZCMWhwR0xiSWNrTnZfYUMxNldJVFRqTktSLWphYXhYSWxiQVpnX1A2Z05ZTnFURFJXbFk5UEhnQWdIdWlsek01S19oVnVCbU84Q2Zma2U0QjRTZW9LYnhwamxObkc2UVczSmpYWi11VTN5SmlaVDNxdE1WVElJdlg4RE90LVM1VUIxd1NyMmlCNlg4QnVBMldvdUptbmplRkQ0MjV5NjcyeHFqQjZ2M09JV1FtbmxYWDg?oc=5",
+   "published_utc": "2024-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-Madras launches B. Tech programme in artificial intelligence and and data analytics",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjBmb3VoMHZLRXVZYmpkMkt5aVJTa0RldE9QOVhRRFU5SDZGLW42Q0o1ZF9rclZUUGc4UkJQOHdxVnVTMi00UUxYdGZEMERkYjJPNkhPUE5hQUJuQ0JETkQ4d3FhOFdpdm5USjBsbTg1bk5sREZjdTF1UWJuNml6UUUtQWVZQ29OV2x1dFY5UURPNjBFQ0ROSm5Na3g1SDM0eFg5akZ1aHFqMEc0WWgwNEJHazFkMUNLZGkwSmM1NmVxME5oRmYteFNzLW1yYjNfdjVVOU1mRFd2RzjSAeIBQVVfeXFMTUF1WGQ0NE01WFZlRkdZZE5yN3ZTVFptVlFQTmVJZEQ1QUNFWXBhbW43R2VvWFR4WHRUQzB4X05yS1RIenhXemduZ0FOa2JPb3R5MkpWbjRZQmVYTnlWdEdDX2ktUTJzdDdPM3R0RzBCdV9LUERNR1RES0NycDJPaURvbVlPSFgxa1ZWekFTZ2xyRFdxLWQ1bXdsVkxGb29PRDVVUjhtQ1ZDa2lnZm5IY0NlSEhFaFE0N0FfclVrd0VERF9OOGs5d2lvMjM0Ti1TUS1XM3JhY0xLeTZ0VDd6cVNXQQ?oc=5",
+   "published_utc": "2024-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to Hire 8,209 Instructors for High-Tech School Labs",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORTk4V3JFS2J6T1ROVHpDTHczbHJxYVRoaFF0NTkyb0NwTWFFVkFzTG5QT1hmVm1fZnQtcFNkcDJiNm5kMC1sdE81clplWHBjVl9tdVZ5YTBucHZxRWZEb1h0aVJ4U3hrV1lYbFc4bTNwMEFXNm5rNDhIU1ZlZnRXSGVoeVp5VVJEWUZ6c0JzS19qMEJXcmpxTlVjbkQ5WlBpV1R6cXN5cERMQ0lQV1hLSEcxYl9TMlo2UVVaYzRHdFpGcHU4bkNKLUEtdDFxNzJsWlpWcNIB2gFBVV95cUxQQ3RfMnRtQUEySlpXRUhtZ0REUDhvNHlEX2tjRG1iY0lPV1hzdjN6UnNSUWVFT01VdDRFamVVYjFfenJQaW93V3UwV3dub1RFaURCZlpKb3I1ZmY1Rl9ZcF94TlZ6a3NkSE9VRWd6dENDb054WHV4VUh0RW1QZml0WlVkREo2MmNUanRiN2xVX3RZZXFQQmNsNHpDbmo3cGIyWUxjX0xyc2F5UDBmWFZuWENZQTlETjFjOFBYeWs3bUt6OG9Qc0hqaW1DelR5Y0hhUlV0ZmlsLVJlQQ?oc=5",
+   "published_utc": "2024-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: India toxic alcohol toll rises to 57",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4MERWS0dPTnB5T0JvcHUzd0NNQ1hqcFgwQ3FwRXpoa1lJdlI5NlBCdjNpUml3ZGt1SC1UdlhNZkdkX0c0TUlkUmVGZ05jN2tWaTBNSUhTMFdwZw?oc=5",
+   "published_utc": "2024-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Feel divine energy’: Modi ends Tamil Nadu visit with tribute to Thiruvalluvar",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlo5aWlGZ2VzR2NxUkNCcE95YW4wN25yWnpIMHRWWnlfRFVfdS1pYmktYkRnNXBTQ3Fia2J1cFJINDd4OFVTU3ZJend4clMxcjNyTEw1Y2ZuVG1va0Y0MEN3UTZsQlR6WVEzMGM3amNUNG5yY1o2Q0tENXNyQzQ5eWk5dXREVzFFYVZUQzRCZHZiSUYwcnN4TFhvMXB1aFhLQzdKeXF6Y2VSTkc4SEZyc19kSVpUR0Y4SFdaTWQ3S2fSAccBQVVfeXFMTy1nLVV5VEFvaTE4U2xzRUF4ZmRpdmRoeDRPZFpkbHVCN2dMUVhCM0pGbnpERnhPcmtncjdWeFBPNUtRR3c5X3lqZTY2VzVxSUlRd2VNXzVGOGFNU2FGRVFwYmpZOWVfbHA0VnUzNzd2LWFjcTRXZUxfSnAwZllOV1VrVU93blF3dkV1VHg5LVJYOUNqNGN4V0o3YUN4Q0xEaG1keGowTUxQb3JtUTRES3ZEY04wZmNnb0I4U3N2OV9rREUxTjZtTQ?oc=5",
+   "published_utc": "2024-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No coloured wristband, tilak in school: Tamil Nadu gets suggestions to stop caste divide",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3Z1a2VFLXdpYVZBZGJIUGhWTUpKd0FSUXVvdURlTG0wQzJPQkNMQnhmS1pNczdTd1FRZDdaTlBVVldNUDBKZ0RyZ3dCNVdWMVFMMU5CTlNsY1huV3lCOVdLV3VncFdKdW1vUVZMQXZSSGt6akcwX2wzZXhILS02UXdtZWtKYTdaTGR6Qmxpakl5M0J3eG9HMkgzWjM0eXpNT00wZGg4SW1RN2d4WkY4d2dMN2V0eTVnTXYxX1hmZ2xHbVh3OVRRWVlId0NRWkZRMlZBQXhMczlRZlp4ODlyN2F4a19ld9IB6wFBVV95cUxPY2lib2V1RUdEa2ZCX0Q5VTAyX3BSNGxyck1TdGxNeTdjZEZaWWJTN3BHYTdiNTBvRUdOVWU1VURLNktWRVVVWG5qOFYyNGZtdmV6R1p6ZzdWWTR1T2NZTXRWNkN3R0xncXlScm9EVVVNOGJncTNzZnc4OW1JN1dQR0pod2ltaUlxcmlqcDFSbTJWQm1QbXZ0SzJiamtHeXFtcVNRbFNFMFpIUHYzTlJueGdjdEJkNldpd05oMDhMcGRHbWI5SWliWFpsSTd2aF91MWpWZUNLbFhvV0NaSjhJUktEMjlfMDk4Q0JZ?oc=5",
+   "published_utc": "2024-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oracle to Support Training of 200,000 Students in Tamil Nadu in Cloud, Data Science, Artificial Intelligence and Other Emerging Technologies",
+   "source_name": "Oracle",
+   "source_domain": "https://www.oracle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGlzT2J2TkxnNHNuUFBBRWI2alQ4U21OV2lZanhqWnMtdXlncF9ZSHRuNzhRVFE0UTFfdnZwUXlVYXNsTTBFWGpqdlo3MEVHcEtQX1E0QjloZWlkU0FyeW15VlJfaExuZXdWb2EwUXhRaWpMTHZLMTI4bHcwU1VXeHFHYXoteUFuanhackItWVUxUC1Fa28taHFQWnZWWFNDNktlQTZlZEU0VER0Ym1aVDVYMThNSFpC?oc=5",
+   "published_utc": "2024-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 58-crore hi-tech labs will come up in TN govt schools",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWl9TWDMtemhXYnlUTXNTTWx0SmUwd1lhdkVjbnc2eGJjUnJZLVZmMUpGel80TmtGbkV6eFdFZVh5b0ZSaDBwMzFwQkszeDh1XzZHMDBtY3FCdDJycWNhVU1MNTVwUGFJM3g0a29TQXRTaS0zVGhVUzU0SUphQWV3TmxHVEVsVDVJWFJtNDlEUEdaNVlBRndIU1JKcnBIWlZKeXcwMkN2M3hfZGx1ZjF1YkQyM0Q3YWRrTHNz0gHIAUFVX3lxTFBrNVJuY05ORGxQZ1c3SVZUV1lmUEp1cXJYYmllaGg3cFlCRG5jdGhCSmgyTzFLeUVkSFdlSGNGQUhaVVA2RUdFc01lV2hPNVc2TzNjb2hyWmVFbWREcExlWlBHQldnaldUZ2xKVk9FcnpneWtSemlEQnVsem5UM3o0a2VUYWx0SVhaUm1RcGxyTnhqOVhXTi1YZVd4djFHSnFWcUkzblZ2QnNmcTZMQnNQWWtST2xSY3FGQ1BuM01vYUdrVTFiSF9S?oc=5",
+   "published_utc": "2024-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NEET: The contentious exam deciding the fate of India’s doctors",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xNnF2THkyTmtPMnNNejBsZkFXRTV0SkVoWWQ2UzVPSmh0Umg2ZHN0d0tRdnhqVGlLZ2U5SDlMTnJ4bGpZeTJXUU5yMmxRQXJPMmhWRXZpMVZhQQ?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Low in high-fat milk, Aavin adopts 2,000 buffalo calves",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbEJWU2lUUXNKeWV2UEM3NExpY2xoTjFBV0pxR1duQUNoT05LVmdNbjZ3UnVSSHE2cUN0R3QwWklmLUxNdjdFam1LN1h5R1Q2anJNS2puSDJwR2pYMGpiOTlzSzNxN1FtS1VGczhYNWZ5UTNwSTdzV3BQSzh2bzhiSXJRSmExM3dfNkEzZV9aa0VGSWlJSTlpS215V1RPcGFPd2VBN2hYbDBfMmY5SnJGaTkySU9qcmPSAcQBQVVfeXFMT2NQb213TVEwdi1RRi1ERm96YklMZnkyRDJjcFZNcDA3eFNSYjcxVkpMdHVGUmU1N3hhSnVsQVYwNUhkX0Q3V3ZoNUxLUTdjcXlEcVFaeEo0TEs2bXIwaFkwaWl5ZVFfTE5vSHNxUl84Z2Jna0RXYkZqa3BmRkJMbkg0SkoyTmV0M2Z2aFJrZngwWjUzRWRYNG1vX3VSMDlDenpSWWduM0pFUVN2QS1UZjNncmNwaE9UWGcxbG1ickV2OEFtbA?oc=5",
+   "published_utc": "2024-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

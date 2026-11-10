@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "AP Cabinet nods to â‚¹1.26 lakh crore investment proposals",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXRZZUZKTXg5c25jVkZzX3ktZmhIbWd4dlR0X04wS0dzRkJ6eGV0YktXTEVmeUI5VklybnM4WHRCczFsY09sYlhFOTVFY0NCWldyaWtDRG1YWFdsR0U1Tk9Zdm04d0V5YWJQTFduMzNmRjRodFg4SVY2ZkQwRTF5MU1MZ3FwcnJwNU5CdWtsa1A4N2xVcWRsRE9RRldkdjFaR1NuUWdVNTlIR1BrSjV1aVF0d3gyQVhGVkZqRzFR0gHDAUFVX3lxTE5GVlA2c1lHNDZxY3hzT1h5bXBycmQzVjNNN2Q1cDFtXzFWTG1ETjM2NjI4Zmt2dzhEczVYdFpSaXgzd3JZUV9feGY5Tl9VSGlydkM5Y1VSM241VG1vanJ1YkFtUVJVeTRNSFJ5ZUhaMExHaXg2eDVDNnA2MzZsZVAweDFrcFVnNVo2VmRLV2hTQnQ4cE92TFdBQzRhQ3BYaERzd2FnQ0dON0liTG1PaDBLZERmRXI3dUJFdU9qVUZKYldLcw?oc=5",
+   "published_utc": "2022-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government issues orders creating 692 new MEO posts",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXZMQ1VzRFJMWTVPVG9iTnB6dVIxelM0cTVnVS1FN3MxNENVZ2V5LWNjamlfX1ZYU1JLQUhWZVRXaGFuUmZPcGY4Q01DTV9mNXhMVTlmeFoyUmdCel82WlZoVlpIeTRxSG40ZFp4NE52VHcyTWVwdlhpT1c4RS1pNTRuSGFZdVd4WFo4ZHhxS2gxT05waFhGX2xXSmZJUXpFRDhDN0luaDZydnBXR05pMVB1Y9IBuAFBVV95cUxQN19PcW5rU1FVYVdlemR5cy1KS0dibWVyZWRZODIxSUhrU3JTR3pyOVkxajFVNkJZTl8zR3VFSHlfLWxuUXlIWmxUOEs0YzBEWERsa3pRTGNMNWhvMmxIRHNzRmJwemR3MkJZQ1dmc3lPYVc4TWxPNlB6S0tZQ0ZCMF9YY2pHZTVZOHZSNDFqWEdIeVlWd2I2VzVyZ3JOWFl0M291OXRFb0ZnZWxIZ3l4dUJ6SmFUUEZO?oc=5",
+   "published_utc": "2022-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh will have 3 capitals: Gudivada",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMktZbmV4cVdzNGtFY3ZFOHc4YWNIYXhXOVZOcXpybEpERUpZNDdrS2lRM2NFQVE0LTFDZVA4QU9Wc1c0Q3pZNzQ1QzVfcVllbFpBY2tMaXlxelYwZFdhbFdHWmRsRVRfQlBfR3V1WVlFbXNaYk9OTEx0dl8wY1ZrRHdJazNzTzRUc3g2dmlTSGZ3UTFBR0tDVlNiUFJXZHBYMmk2NzRDc9IBrAFBVV95cUxOUUJhZXh2aUNmbVREVFB3Yy1fUThrcnZSTDh4Sl83c0pQNUNBZTdNZ2RSMzdMMlhaenJMejFVNVVZRWs4V05EcThZV0hGbWJ4c2RmdXFYWENzTktpQjVkZjVodmtIeGFiS2lfTFFWOTBDenFob3RsVWNYeG44TldHSzY2T2QzX0VQUHFDZWlTb3dGSnV4aUs5UHRSTHRSemZBMm5SaFdqenBWVUFw?oc=5",
+   "published_utc": "2022-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government to pay YSR Pension Kanuka from today",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkdoWTN2eDA3ejllQndDUHFvU2l2VXMyWmo2VC1NbUFabWR3eGNQemNRRnZSOHIyZGFfYWwyNG1kYnB4SkhzdzJKUktGX2NfbGNGUkQwR0s5SzN3djF6ZDYtZ1NYd2lySW91MzNfMXlMcVdVTVVXSF9teVRhODdJekdOWU93N3ZpQ2U5UUtCc3R3dU5vQi1iZXQ3aXdIN1YxMDVYOGt1cnA5MmhiVVNGa3hhclYtSDAwTkhkTlByMNIBxAFBVV95cUxPdVFOZXRwZ2FqRjl2aHJkYkdUcnZaM1Z5TE1pUW41ZWppVGxXWE9NbTVmbXU3NndsUDVVT3V4SnY0dEw5WmI1TFpQWGJYbnF0WU5SY1JzTHUtUUlwV3pPWGZvUXVTN0J1UzJGTENVZ0s3OWFFOFZtUW5XeXVva3BHMjRNOEpFcjg5clVockdFb0lpY1hFVXJtYW1YdzZ3RkRIVHg1UEM0WUUwelR1ZmR1NmFJbXdNNUxIZGxhQkZjbVA4MWJB?oc=5",
+   "published_utc": "2022-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh restarts efforts to develop Amaravati",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTA4ZGdabExfX09lalZtM3FyWE1ibm54VVoyOXRQVk5uN3R2anlhTWdkTGFNRUZCYkVlZEY2T3dXeU5rZDJpMVczbk91NlE5QkRNVDk5NDBBX2N4OGJsaWhWeTRXQVBSUTloS1NsZ0J5d1l1YUxNalpsMUkxM0FmTTB2S0szYW80Z1BoWDQtTnNUaWtBVThWZVZ4WVlsTUwtdHRIb1ZNdlhIWkU2ejhQTmJR0gG3AUFVX3lxTFBlWm9IdkRCT2JkWHQ1cGlKTVBtLTVrNmRBcHVwX2gzSFNPNzl3WW5rNXFEWXlwa09MaHRZMVBJQTdfaVl3OEFsdmstMFUzazZPODhUcFdsS2w2VkJDcTdVMXRvVWNJNFMzV0lNMGZwSEtHRUN0UV84ZHhweDlHYXladHVMbXRpS3lBNUVSVmJVVVRDTGNQdWotUXJBV3JOeExic0ZDZU4tSTNLVWNjdm5nRGxTX0t0Yw?oc=5",
+   "published_utc": "2022-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Three Capitals Bill to be introduced again",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdW5vT2kwdzBrOHV5YktMMjRKYl9pdTlUUk41Nk05aFY0c3ZPRE10YVYzQzk3a3gzQTVYMmFjZS1ncHNPQlhqWDBHTTJ5WEtJTTlrc05JN2oya2pacXZ1c01ab09NS0lkOUJFRGJ6LTlfSkVuVW5PakNkUGhXOVNpa2VxQ1d1d3BJbUtnRFZaMHEwRDBvM3lmb01ZcU84ZHlkUFpUNWZwajBRMFlTc1lyajlIMHl2MmdEMGR4b3FB0gHDAUFVX3lxTFB3Y1Bld09aVmFLMHZBcHZGR21PYVJhTGlPdVJFajZqTWdxU0U2S1NLSk5QSUozaGNNYWwxUDJXZnVHdVlUcHJqZEJSMk1zOUNzQ0hxV3lGOWhnQTYtVjBibjdTWVBEamVMd1V1d3RfXzFoRHFvdUh0andUNG5SN0xIdW9MempDRERmeDlDTWN5LXRiQWVSQTVJSTgtMVJJS1dacGlhU2FHak10S1ViZl8zd3FrcGtGUlFzcnUyVmtRMnBMSQ?oc=5",
+   "published_utc": "2022-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Speaker warns Naidu against playing games in N. Andhra",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTJRd0pzVHlHbDVLMFNyVXBtanBNeUpUUGljSURfcG1Jc0YzYnkyQlY0SlRxQkNnaWpvZnltQlBzcEd6VU1EalZLcGx6Q1NnS2hkbzlRTHFlTWFIeGQ3UllHcmF2cW1tVlZDN0VtZkxmajBCMzZFYUw1bzFYRTNtcWIwYjE4X3NqOWRwdjlDcmtuSG5Cblc0dWExLTZfNGNVbnlhOWRCTG83OUJOdGUxam45OFJWb1HSAbwBQVVfeXFMTmJ4SEs3c0ZvYXdMYnRObmVRSnRPbHlvUlZUU3RZU0xvVjA0ZGNZOUdUUFNwMm5TY1RONmxNUWhuYkk0TURzS3J4LTdzN0dXMWVNSDhjSmlJT1gxNEhlRExoMzRLRUZfak45V1FNMlJrYUdJdVFGaWNuWFExUU5VOWhTNk53TVZEM0R5TkJLS0VQSWt6akd4eldXc1dCMHZsOUk1eloyNXVBTHJvZ3BkRzR5QW1iZHlMeVA5RUY?oc=5",
+   "published_utc": "2022-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Minister Dharmana takes on Naidu for organising padayatra",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3pLdnJSQTFtYWhnc3NmWlVOMEY5MGxwc0NMNmlxaG1oVXBOYm1ucXBuRUtvOFFDMnV4dm1TX05Na1NobEVRUkUxam1oTExONXZUb0VtM3BvWl81SkxnVDk1eHJ3SVM5aXhEZHJncXN1MWN2b2FBdndfaDlKWE41ZEZOeS0tVGM1eFc5UkNVRHkwMENucFBYSzhpUV9obllNYXRVNDctdlJ0OEUwRlJRaFdFU2VtWTNM0gG-AUFVX3lxTE9FYXRISV9STExjX0ZWOGw2ZXJaaE5UdW42TTlQMzZLNERySnM2cHdyaGZDVGRMOGJja2Zna3ZyWURMTU5lMkhKd2pZU2VtTDZzMUMxaElISE1oclRDZUo2YThzX0ZhNlpKb19XTWhycDRmYUJicl80bFRQT3FnZHh1dkc1OEhvQ3E0bnpzcDhYdUZGQjNBMUQxLTBMRVJGbFE3SGJ5QnVEeC10dUpSV3hKTVNsc0dHQk8zY0V1ZlE?oc=5",
+   "published_utc": "2022-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union minister interacts with patients in Gudivada",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXVIU3R4QVdWS0pxOHQzY29PaUtULTF4N1pHM19fcHU5cWNxbUw0UGJOMTlWUXhfVzFzazhJRVhSSmRmLWxmNnQ4eVRSY2xNWFZGclltcmFCbjhaM0lyMk45bGQxcktlS25oaTBONU5SZWtIaldjS0VMS1ZtWjRMZlVOQ2VSbVRiaW1kTDIwMU43dVQzak1GTHpYZlg5ay1FRXFETlJFMEhXWlFSWXEyVDVPWFZyUdIBuwFBVV95cUxQV29nMjRyckdhaHlnZ2tKUFQ3T3Z4Z0ZHZE83OUpENHg4ZWxhLWxhZnZZZk5nTUQ5YkkweW5naWhNX3pMY3ZKS3pGSFc0ektuSDNINUdncWlxQjRMc1hpTEVzTFFmMnVzTmh3Vy1hTVNsTjFMLS1qTndkOU1zY3R3Zm1iaGdaaUQ3ckpvRi01aGl0bmRDVTAwRndVNmRqSXVEVEYyYXZKSlpjd0x6VFM0RzFMa3F5Q185Z3Fn?oc=5",
+   "published_utc": "2022-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TD has started new drama to collect funds, says Perni Nani",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMktzd3ExVU9CcVEzNXpadjlSaWxSNlJOeHJYTkFhcS01b3gxX1NGbFF3V0p6LTVGZGxBVXhZclJkb25aREMwdlFDSFViOGIxbjVCOG44RW1UbXJYekloQnBJeHIxUFBsQndMcktobThidDkwemgyWkE4bk9EZUYxRXZfeEtpRFIteVcxeU5yRTZKZjdVb3RMT1VGZ1BudHQ3bmZmX1NhcHIydHlCSWVfbEI0aGtITThB0gG-AUFVX3lxTE1feFVVQnpSRGtVcVoxRW1SY09YSFB0djFGX3FDS29aSjR0WWZ4WVNaWEhhMW5RRnlkUFhHbGFqYm1YSlJtZXk5Nlpva3Z5dnd1ZmtKc2FrTHg4S1RJOWk3TVpuYjFJV2d4UmtqX2QzdDRZNG0zV282WjB5TGs3ZUVqdkcwNXdKS3kwaTFMZ2kyV25rcmY3WjRMQzZkdEpmRmxTNHQ3WnVZb24wYy1Gb3hKZmVWOTI5M1ZQeHFKcUE?oc=5",
+   "published_utc": "2022-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

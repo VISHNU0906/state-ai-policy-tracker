@@ -1,0 +1,29 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh's 22.40 crore people enrolled for Aadhaar in past 12 years",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSGc2Q2VMOXo5bnpVUFpUcTVXREl6QUliczYyTjlHaFBXUUw0bXVxWWhxZWRBeGhhSGt0eVBWZ1JYTWI4bDZQSGJYbU9CbWg4dEFCLW1EM2VQQjBtc1dPQ0lraF9pamVfeFAxTkVZX3VrLVh4V0RITU9lWHo3MW51cnlDdExvOWpyb1NrMExSQkhRR0RKMk8zd25saGpfcWZsMnZncXJPYzlhRk1aQzUtSHJkU2lYM09HSFpCUzhXdVBNTDNJZHRPdDJpaGJUdkc2SUtIZkVGVEM2d2trT0E?oc=5",
+   "published_utc": "2022-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh fined Rs 120 crore for failing to control water pollution",
+   "source_name": "Scroll.in",
+   "source_domain": "https://scroll.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5iM3huckNQRFZvMC1mZlBRX2dhSThGdXJRRnFQV0I5ZVQ0NXljTFJBUHZpczQxTDZ3dXdxcXRPSU50VVdrVTNPVGNvNlJEYVpFSlU1ZmNyc3Q2MHFoMXJJWWt5SnpxZm1IdmlTa1pXVFVkSXhjRVU4TkJZVUd1ZnZPZ2ZTcFgwQkhmSk5SdW1ic190VkF1MFl2RjFDOGNpajlBWnl0UdIBrAFBVV95cUxNOFBHb3dUSUVkeWhfa2F1WWg3Uk5aZ3dDMTByejhKMzNvN3dTUHpwRUVDdjNjMEZLUmJTbDhmUGU2SmM4WHlEUk8tUGg5cHNOZFNZOWVGbVl3bDhQTE5QcVNVcGFlcjFUUExtR0k5MXI5ZGU4ckNXNHVUUlp2a29reWJrUzViZTVNYnNReGF4cEFXRjBMVWFRLVhZLWJUYTJoeHF2Tm5sa0M5RGpL?oc=5",
+   "published_utc": "2022-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SP Losing Base In UP: Mayawati Slams SP For Its 'Nexus' With Criminals",
+   "source_name": "www.thehawk.in",
+   "source_domain": "https://www.thehawk.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVG5Zd0V5RlEzNGtBWnVsa2Q2Q0ZfWTFiWW5lRVVNcl9RaExoUGplcUlEcDJ6bG1jQ0RnSGVGMVotQktqMXdOZ3ROVU4wcWc4SjNlTi1OY09xRkd0Tm9acU14MDhwYU1WQ19iWGRXREtBSGYzcTJrVEJtOXhvRTRFMVBwT1g2LTE5RVAyZGxzaXRaNWU4R0FEaXVuNTBkS3RPU3E3a0JDMUFyRGJoYUxDeHFVckZEOVJTT2NFYVpKV0NJc3poQ0E?oc=5",
+   "published_utc": "2022-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Maharashtra government nods to the establishment of India’s first Universal AI University in Karjat",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkJQSWk2cGhmQ3dVYzNRTXZSb21QSkF0UE9vd0FFR1Y1N2FPTXB2XzlrOVV0MDNZODdwSGpyYTZIWVlGcGVHUEJOQnhFNnliVFV5MkxSUm5KVXFGazNWMFJaN01XTk9iUnBiV2g3cUhGN1JoUFdyZVptZXVFRlUwX2RXX0R4NERKZVlyaC1GN3J1OFcydVF2ZjFNOW90d1lVN3U3QzNubW9ubndOTzRXeURGT2s0UUFfXzlWT1BtSnViZWowMVE?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PDG and TPREL sign Mumbai data centre renewable energy deal",
+   "source_name": "Data Centre Magazine",
+   "source_domain": "https://datacentremagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0dYV2tKbm40a25UdENuVzV5cUU3dTBOdFlqV040SldaNnpjZ0Z0MzhvMkotU1Z4UXFMeDB3VWFKdzVMQnFwWFY0eG9tQzFtVS1nLVk0QldyV3RxUzdEZjBkX0ZUMWhjSHdLOENnTUozc1R6MERxdzE3LXFhZm5Bb1FTTkZ6Y2V1Tmd0WkZseVBYZWpYeFRkV0hXbl9WX01j?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra IT-ITES Policy 2023",
+   "source_name": "Cushman & Wakefield",
+   "source_domain": "https://www.cushmanwakefield.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN284M3VoSFZabXp3ZzB1SGM0LTJnelRsNm5Oc2t3R1doV2pRNGxMM0VQYWd0TXpxSDZTdml4NFk2bXJWOFNhcEhZenRPcWlkUzF1aV9wUnVsdkpwd01MV2g4MVp2X2hCMWlXbWlZZUJDYm1ySWRzdnVndXpuUTloWldfRFozb3VH?oc=5",
+   "published_utc": "2023-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RailTel to provide end-to-end digitisation, connectivity to TN State Marketing Corporation",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUHRrVURSNEZkekV5dlB2RFFNQkpmQTRjbTBRWFVXN01wQlNZRlpMbHAwVHI2a1dOeVlrelBlTWtUSnVOTzd5TlVDOWExb3ZsOHlLSmU1bzN4VHZUZlBqT3BETGRIWkJuZkRZM09CeDdkWW9rNzh1d2tieTJyTDl4OG9wX3FITEQwMDdudDZuMEFQanhNemNBQnR6RkZOSjZrclY0N3A2VnFYaFY5R3MxWjY5RGtrWHhEQ2hOY3RQUW5nUzFIUk1fMjNiOFY1RHRwU3BDdEdxU29fd25qLTFmSjF2VXdWdG1pRm1UMmpXc1JtQldZSXhiLWtRYnk2M3hGQ0gw0gH-AUFVX3lxTFBaZk5wcVQtS0FKWDUtTi1CNVFQZkUzVDNNaGVHNFNqb2N3aHFQSW16TEdhdXc0T3pMd0ZXdEJOaGk0eHlNN21OcHBFQUZUYTRjMy13QU5UNTdhdmRsaU5QdlcyRmYtSzE1cUZrcml1djBWTGNkTXV4OGZHS2hvTjFWZkhqMkdRcUN5TWpqUUl4eU5taldOekVfTXNpTi1hVzFEdXRVTFZfeHZTTlBPa2x0a3BTM2VyRXdYMVFGZnJXUTRQWE80ZGZ4blpyakVFdWJXME1ITldnd0NneXV0bS1fekZFMUF3bVJ0UFpnNTdmbG5xRW4yY2toamJWVTBn?oc=5",
+   "published_utc": "2023-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CJI Chandrachud visits NIC headquarters, data centers to understand e-courts data management",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUFNPemI3UHRpdlM3WFpLaHBqZGRHVUdYVS13elFZNVN2TmpBV0NPSXFsd3ZJZ2FFaXdtQnhLU3R3RmNIWlB3V1JXbjBDZ0I2Y3B3OVJoRVdLZDFxTnFaUU9MT0UwM2FtSnJMX2U5bm5iM2wzUC1zNktEZmxPVjQtRlFJb0xtUHhhbEIzYW84T241eWFaT1ZoV1dZWTdZRmtzLWJTSF9QR0ZGQjEyWmlCWDFPQTFRY05WZGdWYWJheGk1dERMYU1hdGotTnI1bXpUdE5VTUpvOFZuX0lNUk1XSDN4RF96cmE3WnN3M0tOVVQ4QVM4Y21wcGpqcTXSAYACQVVfeXFMTzQxVGpBYlBpZUNKalFjS0cyV0lzNTN6QkdxSzBFWlRvZGI4TlpwUElUSE8tUE9EeUxTZ3RwTHpsVlhaRTM4WExKOE9VQmdpR2F1S19KN0RHRk1FeWRDazc4MVJGNDdMYVdJaVlxWWJGSzAwYURQU0dWSGRKN2FxV1RqTmJaMVh4aEZqa3FGblQ2WGZuZnZFamxQZVdFeXY1a0lRbmxkTnhaYVFQV0Q5S2U4MjRySXZnSXZiOVZHZTFfNEpBZHcxWlFHSkVFbGdVOFktb0Q5SW5sRm1pVG5Ja1VVcXlyeXM2bUVqamprY2NnVjY4Zjd3ZDZtSm4xaVhnNw?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: State Transport Department to procure 187 new interceptor vehicles for enhanced road safety",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0JxbFFsSHk3MFVrY1RyTkFQdTBNcWNyV3laX20xMTlLR2ZPeXMtb3BNMk5McExlZW1RR2FwZmVrSlpFV01zMW53cXd0NU1BVWd2elNweXpGMUpzajdsNlNkMEZwLXBhTGpmd2tQSmJ4eWcxdnZ6RDRvbzR3ZzVaaDJLdHZ5MkRubXRWeVRrUlVYTVd1VHlxekhPaDdWVVdSMEJLdGdDQnJ5SmtjWjRFMXRZRWJfUkhXaklLZDBoZjJLTFQ1QVBjMUJ6UzhpMmdab21rTFBhOXFWd9IB3wFBVV95cUxOaXlzaVB4c1d4ai1VaTdlNzBqd1Y2SlEzNGlXLUJ0S3Z6NDkyck1aazdBUENOZ1ZiWkZhZmRLQm5GekNMWDVTcU1LamlvdkpMektvVGtFTjdRV2kyQVhsbTE2eUJtYVdPM0o3QmN5Q05SN3oxaGhOcjFMbVotb0FQRF9rR19KLWdoLVQxekU2MVZ6OVlINmVJWHpxY2ZqMTc3b29Vb0ppWndnT0MtUWMtd0VDdjU3VnRRVjA0NE1vdmxvbUVtY2tkRVhSTURxWGpOUHFkN0wteDZ0TzBqeUtR?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Microsoft plans to set up the largest data centre of India in Hyderabad",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkdDTkprcTFRcjNuZGVHYWU4ZFVJSHVRakUyOHVFT0ZlX1Fvd3A0NTB3T1pRY0lCQ1VIQU9KR1NlVU9fX0c1cTFkNGRUM3FpcF9UTTVFa2x4SDd0d1ljYjI1MGNYUDdMRF9XWFoxbC0yRWxFdVpOdkd2UEpwTTdIUnpUYjQyVlhnYVRLdXZuWWlhc3hKTnRvY2NGcnFzUmxuQV9ydVl0N1hHb0RuMkFURWd2ckx3VEVnVHhhcmtkalFPckxj0gHLAUFVX3lxTFBXTjhSWnVlNnZHZ3JRTXNKUVE1djRyYlNsdTdINVpmTVMwVEJ2SUVscmZrbHBiOG83VVJreGRHSzJoS1pnQWhDV2k1NFdTMGZoMzN0Q2FEazczMEVXckY4TXBqVVB2VVVjd3liZTZvZlF1NXpGV2hpWDc1WVd1SU9VLUx5di15NEFyNnEtQkg0b2NkeEtiZzJZLUVRM1Qtei15WlFJZjM3cUl0ZEppdG5mcE1tYlgxZ0puVXVjR2todlI2NV9yWFI1RFFn?oc=5",
+   "published_utc": "2022-03-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

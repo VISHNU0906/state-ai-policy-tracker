@@ -1,0 +1,61 @@
+{
+ "query": "\"Assam\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Engineer uses AI to create art series from Assamese folk tales",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUttdk1ORDNaanB6N2t4LXlUem9nNl9LOXluajFsNktmSUQ2U01VYmJBRUQtNzFTd0hPOFo2UDk2dWY1OGphR1NtLXVmcS05THVQV2R6dUc0UEVYM2x6TmVWQzBjb1JUTmlzZ1lRb1liRzQxSHlFdDg2VUc2SjBLTVJTVWlRdUlNY0FseWdaQWwyc2ZPNzQ2SWZGTzBLRE5QZWhSMElkQk1ZUUVQMGpFcHlTVy1xU3JhNndlci1CLTRUMExnRURNM2pYaGN2WFFzVXBr0gHYAUFVX3lxTE1wRHhnTVI3ckFpdjJrMDJwa0hvRm5zVnlVdnBWQTdvQTZoa3FGQUhMQVB5eXVLU3hBRW4xaFVHa1lkdUtNUUF3OWdheUplbnVUOGR6alMwWnVQVWZlRzNJRUloRGlNMC1yZG8ybXVPUjJrdmRKNjdNUkFDNm5BVFhrR19SbXBHS2ptM0Jrb3lfYnZvSG02Q1RwNmZIbmdsX3RJaXRTaEZpYTB4RDJRRTQ1TnVkRHM0dHExVjl1SjBFaVB5bHJZbFk4VkxwUTAzUTBNbGQ4al82Sw?oc=5",
+   "published_utc": "2023-04-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM addresses programme marking Platinum Jubilee Celebrations of Guwahati High Court at Srimanta Sankardev Kalakshetra, Guwahati, Assam",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZUUzTWJjempKWldTdWlYRjdMbWkza0Y5T3hicDU4LXFKa0k3WGM5ZnVOMC1iSWxWdllPUEsteW9abHdQVEdqc3JRWnBGanFGYlpjVDZ3YlBxaXpvd2FzUFl1R2plX21UcEFZaUxnTk83S09RQ2JNQVZhWUlZcmVEaVNLazZNSUdjQV9UUHR1b09qYzJSb2Z3UWNpeUswTmVWNXVPVWFoRWt6aFhiVXhtTEs5Tjc2Z1hBQU4xWnZuU3kzX0IxN2NLTDhWR0dqckJnOUUxM0VoQnp4MjVjcDJMLVVYdXpuN3VTeWFaODBoaGsyYkxZQjVnZzJZUnVRY1hNcHFKcDVhZw?oc=5",
+   "published_utc": "2023-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi Arrives In Assam, To Inaugurate Projects Worth Rs 14,300 Crore",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGF1YVpoanZaU2FaLTUwYk1HaDdrU25QRFBVdVhEa21qaE9QZEpCNFQtZnRaU1B1NTlHM2xDWlduZXRkMENwODJENFFFTUZLVjJHZWNFUF9hbDFzQm1sRjNBaGwtWXJBSDBqUGpjVUhIRkNlanZCYXhxRGIyajhxR1pTVjBpVElXMTJuM1pvT1l2YXlJbThTcDZveUpMci1DSFNvMjJBdl9PTk1jeHfSAbYBQVVfeXFMUFpxVGVaUnFvX1RjVVNlZzRyOTV2ZlFjUjE1bDFIZ2NqVnhEZldobm1LdERROS1OOEtLWXNoLThCOVNOX1lkTDJMdi03SkJXUDlEZ1pDRTJ2SWlOY0ZlU2pLa3djaEZQaXFoSFo3MWVzRVFTekt1cXF6TnZSN0NSbC01dFJFZzZZTU5jV3ZBREFIZXcyMHRFNXBCOHpqRlhXUDFjRzhidmExclFNdU14N09COFFtdFE?oc=5",
+   "published_utc": "2023-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Man’s 3D Startup Brings Photos ‘To Life’, Raises Rs 10.5 Cr Funding",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYWVIVnhsOXBjZ0txSWtQSmNkTFFCdjl4WXlMdHppaGotS21XeGxLdk5kTkRxZWhnV1VyZDlyWVQ5SjVqQjhYV3drZUl1Vjh1T2xxVnRpb0pMcWNNZGFxZnpOOFFiWlYwU2lleWNIUzZlVEtTcTlyZE9JVmRrU2lybl9RV2J4a3FUS3ZXcGRkeGZsZFlZa3hQdUp2M1FLYW9GNHlad25QLWRNQmF5WHpteERDbEtiNk93Z2JVTzF30gHCAUFVX3lxTE5KeVJ3cl9rZ3RTdXNrRUtNVmpjQ1MxNHMwMlBQcVZrMEtTQlBCT1lVTXVrWjg3cEpSZGlNaHlRVlNUTVNFN3FXSmdhYUlxYm5VXzVzX1VhRGZERlFUc29TOTFSdEVyejY3a3JTXzdWUzlVVk1wRTdlaUhLZmdqM2ZrQmpRbHl6b29pUFA4NWNsRDdhVk1saXo0SXhtSHI5bkRrOE9mN0tXNDJJTnBWYm9mbW84U1pQZ1BBc3lnSnBwemln?oc=5",
+   "published_utc": "2023-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Largest Bihu dance and dhol drum ensemble: Assam CM receives a certificate from Guinness World Records team",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeTdIVkFIdXFqeGRseld3WFlRQmhRcjlvVlJtUHdzamlFbzNqU2d2bEV4a1pVV1NMUGk3YlpiV2tXMmpsZzIxcGlFZHlNdFhCMjFSMmxDaVFOOXVuckRfc1BxZWV3WXMwbkVZa05BeVktNzVCenBwNzlkOHdNUFZQc1B6a1Y2bmRxdG5LNzhhc090bFRfUkE3Sk4xMF9mQVZNTnZCZm9qVk9QZzd0cDdjWmR3eTFrVExab3puZElWZC12dVVrLW5SaTRKRHVfc1R3TGFSSVNZaE1pc3RsSUt4TmhEU1ZibVRDZEtwU0N0a1ExUGVwRWFBUzhR0gH_AUFVX3lxTE9scFBoX3dzS3IxYjgtazlBclQ2WHhuLXhIbHhRNmhOVHJOenN4T3B1WGt1Q1Q4MmlGellpX1VEaGZEc0FicjhueHdCd1Z3b3RUV2tWeW00SHVYcXhwVEwxdW11X2hDOWdHRWwtbzZTcERrM1Q1RVlJZVRjbmJ3el9CT1lFTlFDV190TTZKZWtJSzBHMnNSNHJBWFNHS1dqMUJwYUo4SkJKc241SHhqT2MwOXNwd2wyekhQZkQ5d1d6SU1mTjZFMm9qUnVzM01HWU5rVlRocG05ODFubmhqVnUyOFhIaHp5MFA2VUhSRzhGRkpIVmZWX2NYcFFCekZIbw?oc=5",
+   "published_utc": "2023-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi launches railway projects, methanol plant in Assam",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWG41YzNSanl2RmxtdEUtdDEwc2pKOWdKeWdYWnBwQXFXRmVUTHI1YW16MEloZ2pvamZSd3B4M0t3TXQ2R0xFWWdrNnVIb1BvN1FKS2h4Tk43MGtYWGd1NkNuX1h6RDJ2LUpHMUFXLWRFSVlMMUhJR2lEUEp2a2xGYWFVS0l1R3p4NDZ2a29BU0Q5bVVObXRZMW12czNuQXpGV0plV1BHMkpxMnlDSVdRSVNaaUtyTDZpNjNhMktBaGpyQnNtcUdpSzJn0gHEAUFVX3lxTFBtdGg5b0dVR2V2bnRMR1NHNml6VDRHanFPMFZlU2lOUmkxWnNWYjl4S0M1Vm8zS1FkS3JqT3ctd3ZwVS1PTmIzbW9YTWJaU0hPR1F2c2JlSkdMclVYbmdQa0VMQ1lKdnJtcEJFTmY5MElfdC1XRmc4YWJPLXZJNXpxRlJEMno4UFNhZEp4dDdkZGhqc25KWGpWbUliMlRSRHUzVzBoY2pnVzVManRQaHp5TGRsa0l3Tm5XU3Q2aWZIc2hScUM?oc=5",
+   "published_utc": "2023-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Two held, heroin worth Rs 3 crore seized in Assam",
+   "source_name": "EastMojo",
+   "source_domain": "https://eastmojo.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWU1emM3NU0tYS0tYjN4U0EwbEc0aHNVMWI5NEdIR2RiQ213YVkybFp3VEQwMHZWMWppZ1FrdElYRDVnTHNjRU4yeGFBQTBZeXBSeXBiUGkwYXVWZk9GaGx3Y2Rrdzk2bGJrQVAyWjJodjJseVhhQlJaSU9jeFotOENIbnEydk9td01CVnJHLXc?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

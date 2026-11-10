@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "L&T Technology Services bags ₹800 crore cybersecurity programme in Maharashtra",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHFKekd6aU42QjZtdWpvdV8wZmpTcnMtRExmdThyMkEwNVRLdW5ZZ0U4RldpNVRuQXVqTVRzX0ROR2dEbVRuOWMzRi1kU2pwczYycWZCWE1haGlMakZHV254UmdhMFpNamxWQzd0Y0g2a0pZOUJ5N3NWRnkxWHA3R0Z1Y1BmV0FVdkx3Z2M4em1RQzFOYVBLa2lSUjdVMGMwR0p5VkVwdVZrQUg1R0xWVzVDZEJLOGlqMDNYZDZXYWZTV0FjcWdNZE82NFRWeVBpME5UamZLRXQwUlpZM2FneTFzb2UzNDTSAesBQVVfeXFMUDVfQ05jZmFhUTlaa0lYa2VsM2twOERUenpuTy1RdmNHSG1fOGExNTRVMVdUQVlVTnlZNEdFdlZFWTRDTjlWYUlIYk80YjNmZHNxUlVzNTdBbXJKdmdraXA2bGFYNDEtY0dhMWhLaV9GWkxMR0otRFppN1I2amJEaHdodXhaX1hvOEMzYTI1bDJuS3dZZkpLUUdrOS15NFBfNFJUQ2w4djl5dmV5SDJKaS1zUGk2ZENzYTNhYVVNQWdObkR6VFJhbTlFdlV1cUZ2Q0MzeW52WGIwZTN3ZmVTN2IxTDR2UXktWmRxSQ?oc=5",
+   "published_utc": "2024-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In third meet in week, Maharashtra cabinet clears 17 proposals",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbENtZmw0Ym5aVnVxbkUyVHFoUUUzQklZNkdXSDVRU09Gd2U0b19kV2VFM0ZNV3BKeFNGWFZEYjFIeUIwTXBPUFF4bXVtdkJlWEo4U1R3WDNxUEdXZFVSLVJCVDkzSjlBbUxmckdqR3VWNThHOWNkZjRZZmZJQ0pmcDBrVUVRVllDWVpNdGpEa09kbk9kU3VRNUw3ZW9WSlVhOW5uaER2RHBqdGxQXzFV0gG2AUFVX3lxTFBCMkdaS0pNSzVuLVc0LUVCSVA2RFgwWGhlVldUa2lEa19yYjBsSkVXN0NfYUZDWjZBbElPRDVlRWZNaVFsbzV3QzNuWnZ2WnhOM19ucnBpd3gzSjU5VzZnYmNKZlduRDdaVzA1bHE0bW10Skx1WHJrS3BqeEN3NWZLRXBzMkg0am1xc3FzR3J2Qk9MbVdEc2Npb2hmS05CMkVFSi05c2hqVmwzVkpwSjZsbzBPaVN3?oc=5",
+   "published_utc": "2024-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra takes ownership of iconic Air India building at Nariman Point",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXJ1M1AwbVZaT0lDcmwwNjZUUUNhUTZBc1p4OGRra2tQUHZ4X2hEYTBPZy1jLWNleWtodVFzS3FQVE52TTc1azh5MzM3V25UcURreWNlVUJjcHdoazg0NVotTzBoTXNCLVRKLVlvQWRNNVY2bl9IQ3I0QlRVQWZMaG5wZ25BUUtkWkFZQlFvRWVhbUV4eURGWVdlQ3BGMkYyU1h5MHQ1aHdNTzdnQnV1U1p4djNTSjZ3bEpTWg?oc=5",
+   "published_utc": "2024-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra news: ‘Tourism zone’ with amusement parks, hotels, eateries and more to be set up near Navi Mumbai airport",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUEtzZjg0ZndjV2pXbjZKTVZBT291WXdhZXBDaVlIMEVaWnhTV1d2dExRQ3Qxck5zTjg0Z0FLOUZwSDhXRENhRXZVaTNrTm8zNEM2T05HVTB5a25lbHZpNUtObUViakZOWVpoVUR3WTRPSEMwOFFXNHo3VGFMVUFHRlA0ZXNrWnJjY1pDeURYeDQwSlR1YzdPamZ2OXFPY0pUZFpuUFpXd3pFaFVKVTB0M3hkZUpQYWZSazROOEF1VGVEQjVCNmdlelZsLXVFa3Jnd2kwdnpHWVZMQWhSV3BGYjdOU0dBMzRhc1VmSVFRS2puSnNSMFHSAfsBQVVfeXFMT2QzZHlMUW02RU50RTgycFRNRV9sb01mWUdfaXpiTmV4MHE4WHpJTmJUa2hXbTN3T1ViN05LYVdLRWxrVzJTdjNENmhpVUVDbVl6UWkxdkYtRnpucTZxYm1scU9yMDdpSVFGWEtrcHhnWHR6cWIyMldZSVpJRXJKY2VYelJyZEJDeXl3bGhCNmJrLWhsbHotS1BXblhfR1pxdS1Tc1lXLUI1aUlpdFltSjU2eDlQS0Y2WnZKdG5BaU5rSlRGVU9hTGFBYk5MZmhCVlE0cDhOdHFOT1ZkTFp1dTdzZHpNZktTb3VyZVZSRmtHdlIyQTJDd3FXVHM?oc=5",
+   "published_utc": "2024-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra plans tourism zone near upcoming Navi Mumbai airport",
+   "source_name": "Travel World Online",
+   "source_domain": "https://travelworldonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGdhRU5MV0J3NGZNTVZUVDJFUFcxMGlPelcyVEw3aUhqM0xkTjV1RlFJcGNJQTdqYnB6bjBYbllrOEhSS2lsbmxWdVJyaTJnU3JxZkdrRDlSLVRuRWRmczdDeEFQRjVoRGlJRGZfS19nZmk4dThxckIyQ2cxU21HZGR5aDVscUwtbWlPQ0J1emItdmhLbzYwVkNn?oc=5",
+   "published_utc": "2024-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "LTTS to establish AI-ML-driven cybersecurity & digital threat analytics center for Maharashtra Cyber",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNX3RFdkJMSjdNRGt6ampvRTVldmpZaXktQWlxVDZtYjNKVUdPU0luTF90RE9ySEh3LVd2SUZKVHA1dWZ3S1kzWkh0YzVRb1djTDdCcGJLaHg0eUhNUHFla2g0NWlPWVVjSjJ3bng0Yk1BellOQXhnemVmcU8tblpiYmZiMU04V2kzS25HR1E0OHZJZTZFZ0x5LUFCVF9QQ2F2akxFbUp3SHkyRE4zSGROSVNwLU1CN1dPR2JhMU4xQ2VEdjV1R2RmMGZmT2w4WEhIR2dBbnhwZ0JwVmVIZW5MQ1BvVGR1bk5VVmpJcTRGemJkWEQ2cUZoTlZjTXkzZmJEVUJNb9IBiAJBVV95cUxNbHBfUS1xZmhSME05VXkxZFhOM0I4cm91TlVBX2J2dV9MTkdfdjhGUFgwdURNdmgtYWVVMlZnWGRZdUxlUlVZczVkZmc3cjNzSkhTSGV1dEkyQlNoWmdBbFdIUWpDQnpOclZEWGpqMEFQQVZtWGlCeEdadGM0YVh4ZEhiV0hTbGV5YnJ5ZHZnY25BY2ZEbHVzT205UlVjNWFyTzk5YmVHV2Q2Njh0TXprV0RRLXFPRnZMSXplZ1Riam5wckdSTklJa0lGUVlMUG5LdXQ3Z3ptZEZ6emE3dTFveE5Ob3BORFdNdjRmUmgtbHRaZU5uazdIQXpRUEg0ZkNHbWl4QUVxSTE?oc=5",
+   "published_utc": "2024-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Goa And Maharashtra See Real Estate Boom With New Airport Inauguration",
+   "source_name": "Goodreturns",
+   "source_domain": "https://www.goodreturns.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjNlTzkwbjJKUlB0RkxSS2VVeGVydlJVeWxOZG5qVTRGTldPeHJBemQwTk15X2NMU2ZULXF2Q2J0bklCOEhueGc0WWVPTUdqV2VaOVMtZTQ2Z2pUeDQ2Ty1mOHdxWTlKYjVFSjNMcWh1WVNyTkFvUlR5OVVMNkgzT0ZhaWp6LXRKa0FBVngycWkyTEtONnVudVZrTkw0bHI2WUE?oc=5",
+   "published_utc": "2024-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cabinet okays AI use by cops, ₹23cr for ‘MARVEL’ project",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnJwRU9Jd19tdjNKZ3BxeC1yam4tQlhTY2NYNHV2VkVFV2Y3THF2b2Nmb25xX2FsZktDd29CN1l6c1lKbE1ucHlTdVh3RGpXbWxzZWZmZW00RHo2NlNkVVZFUTdTR1M0eFJ2NTNmM09scW9sTXJiQnBKYllSM1JZTGxjTmEzUDBYeElYN3U0OEE5b0hjSmw2YnRDN01ySzM4aWVjU2o2d1VlMi1FMWJzelV3eHdfc2R0UGFMWnNFMFVMY0ZlOWJPczlqdk94MjFLYVQ3VFoxUlNyZ9IB3wFBVV95cUxQX28tTEszb3JCSU9NQnRraEpwZEdkdHRnVUhDbXRCb01CbWt5MmxEXzJja09VeU5Ua1dIbnZ3TkJ1MUNhS1NfVGRCNUhaN00tUGNQNXg2ZklvNUliUmxKT1NoUm14LVdfaG1kbHAzbm1RLXFWVHgwb3l2MVY1clZ6SVRQYXlCS0Q2WGk3bXBNak5KQ1l4cnAxY0tza05vcTJ2ZVVCajhoV05QZlFtYXJTZ2VwOTJSS3QzYy1LR2M4TFphSTl3dGhyTVlKMXNKaXhQVU15MkZlaWZ0SWljWTBj?oc=5",
+   "published_utc": "2024-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T Technology Services bags Rs 800 crore cybersecurity programme in Maharashtra",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN292Vy1qblBEZkJrZ3NtcDdqVWsxR2pfUHJzdEUyZ19sRUVKTm9qdHQ4OWRodi14dnBQTk1qaWEtNlUyUlh5VVNSYVRsUUw4QWRIVGRDdUdWV01ZNkZneTV1MC1ROHQydE9JWEI0N1NtR29DMmREVWtYUzVUX2JDLWYxWng0dkdZVEt6anlPSkxIbkVPd2lTcDZHdjJ3emRkUVZsaE4zc3Jjb3EwYlFYMHhLTHlPNXBJaTZGc0pyc29uV0sxb2F3akhuZThkbnh0TGJZWkQ0bjdYVk5nbFQwV01YNU1Mc3c4bldfazNPeFnSAfYBQVVfeXFMUHN0NDZON19hTE5wV1k4Q0JvSEdPWUk1Q0N2ckxXZkFjSWRGQnV4SmJwNTVDYkxqTVYzNldvS1dBc2laNTR3UkdVTUx6UWcxUjhsMm1oYWtEMzhNMzVDMlgwSHZpM0NSNklNMlFHYnZTR2ZTeVp4U0FvS0RIRlZLb2JQWUg5Ulp3TW81VXVKX3BqREpuQkRkM3NsSzFVUHlWQk8xbktKbkctWHp4TFppS19QaDJtSnpCZlN4SVAxaUl1cU1ORHp5ZWdUbmtjRnpkNzZ2S1VzSUVDeWZNYkRZdWpjOElRbkl5V2xYWnJmMm9taTR1WWlR?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T Technology Services secures ∼$100 million program from Maharashtra State Cyber Department",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM2MzeW0xeUNhem1SUWFZS3htenFMa0JHV3JfYkdhZi1TVnl5M2Q4QTVhN05jdFdHWUxwQ0NoaXV4dUNNdmxqZkJnS0dhcTJ2TWgwdXRGRnRHOEQ5eFpyU29uZzFJbUo5V1MxalBQYk9ZM3R4UnZVOE4xVWpja09KemNzQXlaeGdsRkc4dHVYMmU0emFiNHhDa0NqNzNuUlloa2pIOFZiRDJlLXlLVXFiNUZpU1JOTzRiNDBUYk11bVp3UVpfTDdMQmwteDRqUzBnWkI2YVJUV3Q3RHZWU3VjQjBmVm7SAesBQVVfeXFMTUtsNk5INTlHX0N1LXBxMmtjUXNsT2F4Tks2d21ROWdYbkwtOUhpRDQtTUpxaXpTUlo3M2wwekVwd0ZqdW5RcWdpN25GNlRzanpOT25JbHp1MmNwS2ZJQVlvWUJjMHN4bloyNVhnZDBiRngyMHhOZnhBUzVmUzR1ZUNjZUR6QjBuRjcweHRBVlZvclVaNndHYzc5Z3NhZ1psZHRCWlhDVTFHa2ltdmwyZ0I5blpBNl9PZHJKMmIzakI5RjFxNTZ3dTFMNjdFQ3NhSVJyWllaVFkzMEV4MERpUlVWZS1oMS1ZdU41aw?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Daily Cybercrime Brief by Future Crime Researchers [23.04.2024] : Cyber Espionage, Ranveer Singh Deepfake Video and more",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWpPeVBfTER6RjdUc2o1RVYtR0Z3Z05ORlllcWJUMXFReUR3VTdpYWEwRXNNVkQ0SEhDNjR1Y3NOc3dIQ290anp4cjhNendKZjFmYVNTYk9DNG51WGEyallfREtkRkNZM1kzZk96RzZCdFdPVEpMa1ZvcS1EeUFzQXhFUnRNbkxsd3JKdTFzOEdub25MRVFDX1FULUxtZw?oc=5",
+   "published_utc": "2024-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

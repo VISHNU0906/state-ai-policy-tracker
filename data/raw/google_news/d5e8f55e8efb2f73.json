@@ -1,0 +1,69 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Centre to take up Rs 3,000 crore projects in Andhra Pradesh: Gadkari",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMzk2WEl0LW1URG9ZZ2Y3a2t0Q2w3UTRkQTlic3pianJmbnc5MzFWQU92YWxYTTVXX19QTkIyQ0VDNUhyeGwtc2RIcW5CY3JFRjhkOFJfejBCbzhkWUdGVndQME13S0wzUDBVMDhlaE1MbUpTU3dub3RQRlEwYVpHblpDcjhlb3l6ZkFldzdadDNCdmNGZ0w5WklvWVI1M2dvS1gySlZlek9vZDd1aVFEcEdoN1VUQ29Ta0FBRjc4bm5Mcmota0pTS2p4VGM2Z9IB0wFBVV95cUxOdFZYcTNPYlBOQnNSNlQwdnYwOHR4QkRxY1ZwNGprMlJSVlphWEpTTWFFaEVYUXhqbkduMHF2eDlLNmZJTTVDSWI2TGFVM2VKdWlfWlBxSHlFTVVtM3YtclJ0TmpBU2tKWld2djBKcEpfOEl3cnhjMTZMcWNzazhIc2VycDNpTHNpNVJkbUtvVEVzV0I5LUF2VE9pcW5vVHhmSndFUDFOdnJZNzZEM1FDUUl0ZlhRSGVCWGhER084bUdtMDEwdVNSbUM3WUJudlNkQzlj?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: 2 Lakh Kg Of Ganja Worth Rs 200 Crore Set On Fire In Andhra",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWW5GdWxmT1E5enpzRkkzWmppd21xSXdqYTdqUFJiWjNVRDN6T05yQ1I1V1ZLaXNGREk5OHExMnJZM0dVV2pvN3Z1MmwxLUtoQXI0c2NkRDNOaThTTF9sUnpJT0F0bEpSS3k0R2s4cHVMX29lTlAyc3B2akhnTERSTDZ0SzhBeTVqSWpQMUlnODBGemw1OW5HRmRUTFc?oc=5",
+   "published_utc": "2022-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt sanctions four national highway projects worth Rs 4,500 crore",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLWhoa3NfcnNKakQ5T0dkZFpza1Y4dHhKY05HOGhTU1RTcXY5a21vNmZES1pxVUFac29fSGdJRDRFNFd6NU1mbWZYVXFNbFF5dW55V3BkcXlJU1FTQW9WOU5kc0p4RVM3NGxMNW9iajFJQlpJRkk2bUctNUYwTXRucFJmYXdlaUplWmhaRmpoeE5pQ013QUVjaE5aZTRhN0dQWThnNmYzRnplNEZQZ1k5WXNLVlc5TWI4d0tHYTFzSlNJQUcySU96dklydFk4VlYwX1I4TWdoTzBrZmfSAeABQVVfeXFMUEo3X2ZydW4tTGxPQms5VHJPWHY2R1FZUXBZdzlTRm5fY0cxSnl1MUxqXzkxV2RWdTRhZkhQYUEwOVBBeWhfc2o4aEprOWE1VXlnUGJhTGktTXNlbXNGMTl1aU9OUEU2aUhjeFFmNWJmdFc2ckxHVl92ZlZSVEhMaThzRDl6ZDdqSkhDQk9UQU5rLUU3MUgyczBtWjdwTHczT1diYjR4NGpKOEF3LWdIdXU3VUR5THFmV0U2dVVfVG1NcXFPU2RsR3NvZlRGR3NrcW9zVFQ1c0pRNGViNk9aTXU?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Mandatory transfer for medical professionals working under the AP Medical Policy Council",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdUtxWFNGMllZMnpqd1RyNVJ6cmdUbC0zelZpZUdNY1JqTjZDMGdzcHlWVnFpVVVjQllQcElRZ1dFaTNISkJSWkttQWRJalVHSm5Ndlg3RmRBekItTDRRYmc4VTFHTHRaMFpETUdSdThjVXFLekMzZGE5MEpZWlhXZjZkWWlEVVZLX3NQX2wyWHdsdHl1QzctUDZGZkl4Zy1jMVdxV1VJQlRtZ2cxUzdtblEtS1BIT1d0SmRITDlXZWJYTEZDVUJhNGdLUW1QdTFkOVJHdVJEUjgyRWI0dElGYkY1LVY3YVJFXzhyVUl4bkc5UTZQNmNoTDVVbzgtUdIBgwJBVV95cUxOYUpoY0QzWDZkcVVWakNCX25mZW5oNV9HREpRZVlTWFBXc243QlNvb3NOWW0yb0o2dmM0NlQtTElmU05mYWh2cDdLaktpSlpCWUhQYlZwZUticEF6eUNjc3EzS1ZVTFU1dTBQMGwzMVlUZEkwY2ZPUkVTd0N3N201YzdwSjMzTXhqMnFMZFlSRlBXb2U5UnBwQU9maDI4NE0yTUtBZThCVmlPTUdFLWZGcmdFN2lySEtrLVIwQkN2ek83eUhNeGJkZ0ZDbjlXZ0JkdjZ3TVhLbUxIMVdzVUFzcFhqRTZMRy10Um9PUmFYUDJ6RGw0MHRrZFAzYUF1OEJXVy1J?oc=5",
+   "published_utc": "2022-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Thousands of govt employees stage protest demanding pay revision withdrawal",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNlhvcVpYcGNjY0lOMmZoTlVqREprYWxkNk9icEhlLUJlUzBBbEV0Qkg1Q0pPVHFybUdycnNCQ3JUT1A2STB0aF9qdnpEM015UnZITFNzX3A4S0xjdUJfMWpBWVN5VlNnZnpTVE5xVlpnbU5xTlNJM2lTTERoNDZpME1UUElsQThTY0NOSXRIbFhTdUxpZGtZVV9tM0VoamJZQ0drdjMyV0QyYUlyMVg2bThWOHg1UmtWT0hwM1FDaGRDZHFHc1JkcmRQTHhzR3I3azRDcU13ZXdiZm8xaWlSSkRJNm5qam_SAewBQVVfeXFMUDdCbkQzRUJZMFBUSEZFRmg0RmtNMGtPMUFiLUJQNXd2Y1pNOFd0cS1xSlJkcDhfN1U3dXFvX280UFZYYlh4Uy1MVnk5MVgyMXpTTmczMnlPRVFadDFYNFlNeFBidXExVWdVSHktMDloWlZMcFBwOEozUlY0QmdWWlBma1VMSXFCaEhyY3FmWU5kSjAyY0NGQWhSV2kxOGZua1hPVTZNNm9Mb1RNblVIY1c5TjhIWWxDRTFBQUFfQmE3QjdrSlAxczRxZ1RHMVplMGNySE4ybVduZUZ2NnNfMmtHZXlYS0hsRXh5ZWk?oc=5",
+   "published_utc": "2022-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Despite crisis, AP government to pay affected farmers",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkdhdjZTcFRZU3lUbFJOc2ZiQnRmSmVkdDRtMGNMM2dQYjdtOFJoZWxYRkpzSWQ0VEFoblgyYVE1Zmo3bXN2ZTF6UVNnZzRxUDJBY1lpczM0QnQ4OU9adXNlMDJHeTVBZWFBOWFNT3VOUDJ1dk0ya0pCQ0JrbzB4dUxOci1Ic0lBRG5YVGhaXzdDczFkdGVBVnQ3cElCbmxFV3ZBbXZYaWJEY0s3RmtNa0pfb3RHdTZ1M0JF0gHAAUFVX3lxTFBzWGZUeWdPZVVya0d6UEcycVFBcFBfYk1pTDRXaEJpUk1mX3BIYnFtQlV6c0Juc1F2azZ1MFdEQVhIcFpDem1TaXZfUTlkeENkRjZEM2dLczd3dU96dWdRVWw2dlJjcUdQN3lReGZ4dUhQOXdSaWQwSnNkYnh6dWRoYVBNRjFsRnlBU0pkbHhPd2k1QzRySHRzMWFrcnJxQnRQVUZLbVJiS0VMUUs5bTB6ZS1sSjhVQTVXYVlFWDlicQ?oc=5",
+   "published_utc": "2022-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt curtails Phase-2 works of Mana Badi: Nadu-Nedu project",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE1meXZnc2NOc1VKemNQVHBlZDVVYUlQaEctNV9RMGllYmhxV0w3VXdaR2ZRV3dnaFplV0FLYlFDazd4VkN2YkpiZUFhS2Y2ZW1QUlVTSmxZM3ZDVnhiSUN1Zjl1czVkOUhqQmI3dS0wdlNxa3NMYzViSENEYWxnWDQ3S1E2WlJ1cjRlbGloSzg4YmxjMVR1Q3BoZHdiTlBrbTVzeWFEZGtTUHlidWc3Z0JTYlM4UlZySmRDcGE3TmVlQU1UazRITmVJX1VmQURaSlHSAdcBQVVfeXFMUDBoelY1a01pcnduTDI5clBnMkc5aHAtU2xfak9nWXBzTGRRdUJUUWtUTVhYQzZjVFlrNjh5a3BmX2lUZUlvbllJbVo4WnMtV0ZOSTJMU19obFprNXZlSThGOThRMFpuU3k1d2FVbWJXOVdzSThwMzRBamtMTld6MU5RVkhYN2hTbjFTVzQ0cGVZZ3ZNREF4aGQxWnFqODFSZjUyWkc2MjNBOFV6Q0hNMHFma3d5NjVPdTNXb3JfeDVrMVlXZzdlVTF1SmptYWZ2aFRNTWg0dkk?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With Centreâ€™s help, Andhra Pradesh giving top priority to roads: Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRXRTZ21hYnU2aTg0M21ETXhubVZjOEwzN2JuUnZwb0tlWDE1YkJhQmpUeGdXRnpOVFdBakpmZmpLWGZ1N2dkZUtRRm9OVV91RmNPS2NuQ2lJb0Zhcks1TmJSOEZNcFI3NWw0RElxaHROb29EVjVkUkhjWVIySEtUakh5eExHMGVCVDktVjh5NkdNTzZNb2ZxNFFvUkkzTm1UYTdlSndjSDJJVDNsb2EyLWtfYm1MamRmRFNCVnE2V2tBS3F6MngwUW1VSzfSAdIBQVVfeXFMTlJRVVRjTm9IeTNvRGNpdnlJRlpaeXVjeFlnbWJFMHFkNTBNeVQ5eFJQcmdOUFU2MldxVHc2NV9uS2hMZ0RTbGhTNkZ5d1ZueDhsVW5Bc2lHUUZjcVNyWlhsWHZPb0dSZDFSaGs3MWRONkUxVzkzUThGM2lnVldPNVB1NzdRUFVlUHgwVmlFYVhZc3dGZnRWVktUUnJHRHZjX2R3ZDNpSlg1emFFTkRqSkVTMnRQc2xQM1luWDk1QjI2SXdUNDFoTzhvbkZqMmVLSHp3?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

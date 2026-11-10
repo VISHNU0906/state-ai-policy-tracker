@@ -1,0 +1,13 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "RTI Activist Shot Dead In Public In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFJCSHpLMkFwZ05Nb1JRSlNpejVPZ0tKN1lwSWNXLU03WG85elJOTFA5OWRWLUZnNllIREQ2NGEzNnczRDh3VnJUekZNLWhIa0JhMDNCa0ZhTVlvT3ZFNjZMR3F6WUlKeWw0SGYtX0N1VDlWRHVkdGtSUUJlVEw1U1lSc01hZjZnajd0STNoTjRmaFFs?oc=5",
+   "published_utc": "2022-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

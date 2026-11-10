@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Cloud-based data centre to be set up at Rs 590 crore in Karnataka",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQjJfMWxkSUdZWmpNZkpTbWZ0WG9yMDYxR09YenNUT1FTeFprUld1Rll0eE9lbk1pMDlUSnFHMzhoLUVBYm1OY1R1TEVCazdCdFJyOGxyUko5Nk45M3J1endIU01CQ2RkMWZYNGxZenlkeXVfTVo5TF8xQS13eXh5R2d0VmhuUGR5S3JRRzh0MGVQM3BiZFphNmtkTHZUOFBGS0xxbW9QNkN6aEo5ekxtcW9qT2doNUdidWJDRFBRV2pXU0UtdnpZR3pZd2VoQk11RHJNU2Nva9IB5AFBVV95cUxNelh6Sy16aFozQlN1OFEyWVRjcnpKd2xsMWF0NFpzVVdkVHpfSUd5YjNuRGdCQjk5b2JZWFFBWmJ6bV9DOXV4Zlkya2VZclBNREZXdTY0QUxiSTNEMkg1ZGdlQk9RMmgyZS1iYms0U0lDMVJucUtqa2tFMGlYbGRRSWpvR3lQalRFOGUtS0VPc0dBWWpjQUdGVkNibEE4NVgzY2VNZDFvRFZVVUI3bGNZTkJRRC1vaHgwdmFnNGpydERfVmNobUVKakRrRGhwZ2tMT2pPTEpGRTczT3MtTXZEWE9TLXg?oc=5",
+   "published_utc": "2023-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

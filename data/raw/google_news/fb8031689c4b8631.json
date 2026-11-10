@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Union Minister Dharmendra Pradhan’s visit to boundary village in Odisha triggers political controversy",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNlVacWZxZ3dTVzdEYjVJcTJzeHFleDBmTkFzYnVQeVJOY3YyNmg0TVM3aDVuRDdFdFo2MWRHOE9mQzRraVdYamxaSVlIQ2Q0QThqUkFxYkx1UGMtWTVrUlhISTlHNkFOcGJfTXkxel9ZT3dVLVJXVzNhX2lyMlpNWGVzaWJmajFYRkR6b0x1a3l2eS1Gd29PdFdCc2o2WU9kVW94WG1mN0NQQ2I4bGFNZ1Z2WnhLdU5KSENTOG1laTRlYUpaQnBsYU5Rc1FRMlBhcWkyV3J3TUhvdG5ENFR3bEJBdF9xODg4MkJIR3ZTS0ROOG9mYU9fclpBWGVCNi04SjlJ0gGKAkFVX3lxTE0wdzQzMWxuUXFyWEFCc2R1V0hWT3R5dzRiSzJPVWFaODA0c19tQ0Y2UnhpRnVrYjdYV2dyN1Qwdl82OW9NNkpTaTJ5LXNyZmtBUHVJMGYwUXRQRU9UQmJKcWNpbi1NUGJBa2k2ZXlVNlA0bHI5WGZJckRTXzZkQm9jWGRoMzJyX0w2T2ktelhzUHpaWTBGdURQSkNFamg5cjZZenlGcm5KNUhGQzNoNW83MUZmcnNTeUtPdGxIaGdGaTl6eXdCM3kwOS1qcTQxLXZmaGxTcmktaHBlT1ZEUjdVWjI0MnZXUXVTcldqNHBfazJsbUlJeU1fZU1tWWZBYnlSZjM4SGh6UzFR?oc=5",
+   "published_utc": "2023-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nippon Steel to set up world's biggest steel project in Odisha",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnB0OF9hb0I4eU1NakstTzBKeE90aU5kUXB1N0JPZnYtb3oxbHhXZzdzWFJTVzJKVlB3ekd4Sm04REhKNm96UFZTbGsxTVJmaXBCT2tyTzhETmFTcjN0VlZEMlBXbE1ZT0xIQV9kWlU4RDVKaGRpUXBCQTM0NjktajdCYlQ3cGVUcXV0cTJObTNjbHdvU01keUtIOWVMcVF3bngxTTFSaXI5Rjk2aGg5RGpxenVqMFFKc01iMGtDRWtLUdIBxwFBVV95cUxOOUMyejF4MGF6cEtXZjZza05LM3JlYXkyVFJSQnU2cVdndWFsbWNpSENHWHBpd3Z2RDVsWVpxQlB4S29OSENlQ19IeFFkb2VSaFlORm0zSzNkSWl0MHZlVGw3RXJrSmFiX0lZTXhnQ2tFNTViX2k2MEFfWGRiMGVZVG5sbWJyaDdyVW44bDZKM1hMSHN3d2c2OG45Tk8ySWRQcHhRSGprTjlGeTN2Ui1hR2tXbDl6VmVMT3lXWnQ2eU5uNlp3WXln?oc=5",
+   "published_utc": "2023-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Announces O-Chip Programme for Semiconductor Design & Manufacture",
+   "source_name": "Bisinfotech",
+   "source_domain": "https://www.bisinfotech.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHhzbGljcGtjbVBOY2FuajRZTVB3R3ZTSDhmZXhKNlRLNkRXRjh2LWxubVN2TU5wWGJ0bVU5eWVob3pxRjJaRXB3ZFBpWEhCdkNIVmc1MU5GRHl6UjZWNV90b0ZZcmpRMHN0cy1YYklkaVNWX1NSeWdPallOUWlGazlPZVdBam04QlhuMlNwT0ktZ2pyeGZNYzYxZ1N5QW5m?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister Denied Entry To Violence-Hit Odisha City, Detained",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY25Tc1FhbVIwU2p4SlpaV3o5M09Hdmw5cndIRFRWY19vcWZpWXJhcjhxQWtJc2dpb2VTUXFIZnQ1OTU4ZkJmV2JFbkRlWURxTC1MMU9aSlk2N0hiamltb09WcDA2NGRXTS16QXlTaTBHSXh1NXNnYU5OSi1vc3piM0Z3WUlrQUg5TlpJb1BFbUNtUFFsQnZVOWp6WG54VlRtWDlXaU9WZzdDaWRxUmh0cjdiMmVTaU03eVZR0gHDAUFVX3lxTE9pbXZNdjAwRExxRXFhVlhobnQ4Mmc5c3J6RVJFbjJfZkNUWi1kNUhscURGWHRJUldQT3VpQnY2MS1aODFOTUhnSnpQLUNlSVRkcG9jSzVoT0VWTThEMS1xSWFhamNzb2xoS29peHIyN2ZmUUpSUFhiQi1mR2dqSmd5aHEtMk02Zm5kdjQ3M1JuU0JHLXFGM2hjcVFLQnFJYTdUM3dtVUZRRzdWREV6ZFFDSUdjUTFkMHJsR1VGUXEtMkxROA?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt approves BSc and MSc Osteopathy Courses",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUhLX2dEMU5TNWpuWlQxRmxUMnRIeG9uM0dZMHlsUkIxVmo2QzV1cktOdE5SUXJyVVlXQUE2a2pzNzBHUDBESWtUTHJoOC1pUDliMU5IcVczaWNhOVBUcUdWeXl6ZUo2WXhFS0pSRXFxTnEtZmlvM2d1Q3RHNmJHekxBdzZibXlpZHRPMUw2TzdTSW5KUndfMms5bEtGRzZRRkhZ0gGoAUFVX3lxTE1WYW5SNDVaNUlZOFhqMkdqUUNKRVN3M3Q4YXBXeUdiTW5IODNBUF9VbEhBLUp3VHNJdzdPTXF4VWRTemxXTzhBaHJna01jVlhJcXN1ZXJYeFFadGJtSDhFWVB2VW1SSFhuUkNSdkhsUkxzWktwTTlZbGZhWlJsQm1uMFAtMEhTbVd2N3RlRm03bUdYUWVaaDlDVVRVaXhYUTFYVmNWVWQ3MQ?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha demands introduction of Vande Bharat trains on three routes",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYllRby1Nc3NPRG1qZVhIX09YckdwLXJWT1JpRUVKb2hROWtJNzJwc0pKTlo0OUM5dmpJOHpYeTlxRnlEZUh3c0dUMkxFY1YwYWNETkpBeWMxMWlCT1FfX2hmUkhWYk1oWEotUkpSU3MxVC1zS0tQTmFlRUhHVzZzRW5VWmdWazdnY3BDeDBxM3BnTDk3ajZmbDN3aEJnV21ITEZodDdONVpXeTcyS2JocjhIWVVsc2dvMzFaV0NyempYeDFuTDRoWWFuRnfSAdABQVVfeXFMTzN4NWczaF8zOVh2NEVxYVAwQVlodzQ2ZHdlbnZVQmluNGF3bVcxR3M0YVoyRThtS3VlbnJvbzYyODE2MkNRM05CaDdOMjF3Sk5iWTVRaFRsRnZFYXA2ZFI0THJ5dDZNcGpKNXpRZWpqZFBzNjNSTE84Y3VrZEw4U1pfZGZfU1I2RVU3YlU4RU5nM2w0YVVXZml5R1dOX1M3R2k3dGs2VWN2QXcyUDlWUEZuVWJsVDh1VHZ4YXNhbzV1T00zNllFS0FCSUhGVlZlRA?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What’s the problem with Odisha police bringing in facial recognition app to identify criminals?",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmxmWUM5UVJzai10cGVKd1FpeENGU1BMTGdVRjFCLWMzaVlHNWVHN1BtYWFVSGdHSG02Nm1iOFVnSmh0R20ybklicHZzek9jbVd2S1F1Y045d3g5dVJRLTJCTWRmaDExanBLMnZaakNPZnkwUnFFc29mTV9PRl83eg?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha resolves to make state a global skilling hub",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0R6YU81Uk1NZ21aYkNwR2JSTmFTd3B6N1NwemI0eHctLVhQWEhFQWpIbkJSNHd4SlFtTGlrZjAta2o5X3NLQjR3eHpWdFpHTU1fd1lTLWo1RENubEdqY2NBeVlZY2hhNlRMWVFtZmV5cVVTM1BGeXA1LW5qMTZjc0JOQlZXd2FYRHgxS3dOc0lHTE9fLUNNN0pzWnZfZ3ozUjZoeGFyMlJGMjhfZWVsNjFIZUFCeF84eFB6YmdTa092ZFJsWlNSR2FjcEbSAdIBQVVfeXFMUEJwdGFnOTlMQlFTbWkzWGtJZURkNVIySW1XTFZyVjctdUFXWDRJSVA1aDVLY002Y2NWc0dweUdQeTBvNkV5UjBRdkg3V1RaeHFnV28zR3hOdFdzRFZ1eWJyVFlVV3BGVFp5Qm9TWkVaSUhQMjV6QkN1cjFfWjZXb1VGek9zcjV3eUpSMHFpUDJ6RUREZTF3eGJ2eC0xZGJObTBtWkxmT0R5a2Y2cVNWSzBCTmc1TGtlbXZJVC10UFMyalBURXMydGp3LWlmUTdoZnBn?oc=5",
+   "published_utc": "2023-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Naveen Patnaik, currently in Japan, holds cabinet meet virtually",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUDJIbWNOWVRFTzZnMjZBUjZ1NXZ4RmhxSlhlX2NOQzlpREhLMVZBc0xkSXlCek9HdDVIVl9iQlliQmNuZjFqNl9YRy1BeV9TcG9PSzZDc1VMT0loWGExWFBjTXFWeGJwMXA5WDg2cjRHMjlvdEVDUWVtSThObmRwQXVHNUJ5cmlRekx3MGlRUUgxRGZrUThOMWdFWVNmNmpoLUoxa2dwVXZqeHN5cW01Q1pTS3BFalJ6UERfSUF4ZVJEWG1ZRjBjMVBzWks?oc=5",
+   "published_utc": "2023-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

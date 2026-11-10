@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh HC Considers AI Integration for Crime Scene Analysis and FIR Filing for Disabled Persons",
+   "source_name": "LawBeat",
+   "source_domain": "https://lawbeat.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOelB4dGozTmVkWW5jSEJIektEREdTNEpRMUdFV25kQ3ZwbjlkeDUtYjBHNGl4RFdDRzFERHZkckpRRjdYdzRLRG90b0VMUHZqeVc0MHJRREpPdXJMNmpkRXpDb1Vlb3FLQnZGODJqa1U4R0Z6NExMcjN1V2pPT1kyNmc0NXRNZS1PY0J6bjRld2MtQXdCdXUwNFlIZTdtN2k3Qjg1U0dFU0lWeVVRU0Rv0gG0AUFVX3lxTE0zUUp6TjdUMzNyRmdUM2RNUHFKbWNxLXN3T1pjOGNLcGtsSmE2NldCNE01MlZqVjU0dlBiOHE4TGF3akpXNDNseFhRN0g5eUlIZFNrWVVEYXIzTEwwbTJ1WjBndGN1WlVZTDExRGc4Z2U2Y3FNMk5HSWZLeW9ubmxxYkYzNlFSVHZCZmpOajM0c3U3TnpjWHBjbDVZS1Q2VWZ3UU1veWxxYnVXa3BlMURGd0NINg?oc=5",
+   "published_utc": "2024-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why 6,000-plus Schools In Madhya Pradesh Have One Teacher Each",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1FQbDR1Tk1mLVRzcGIzMDVFLWtRSnM4M2ZRcldDRUdQTUdTMzRzQUoyRjc4dW9pRjB4NnRMaEY1R3FKcUZNQ2g0b3YxekY2TVVwOWRMaW1xUkZ6dEh2dGt6anBNRTdPTG56dU9rRThiSWplUDY4RVp2cEhodG9YSjBNa2hNNHZXSTl6V3NnNXB1bGh6ck5kVWo0MmJJcElWckwyN9IBrAFBVV95cUxNbVNuTVA0OWI4dEt4U3JSMXlMUGJSUzV5RmdBWWNEMlU5TFZUZXhGaHFtU1J6eXVHVERCRU1aNDJ0azIzUWxrTmxlX1psUUQ5UHBJT3Fid2JISmJfQVpYQ0JUUzZySEpFUHktOHhpaWNXZmhmdDlJcWZZa3FrNE5ReVBwUk1XRW9VRVZla1JmbWFlcDVrYUtEQzBHV1Q1bkt2ZWs2VDVwVU15aDNW?oc=5",
+   "published_utc": "2024-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Just Ask / Khulke Poochho",
+   "source_name": "UNFPA India",
+   "source_domain": "https://india.unfpa.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RRUU2dlJBa0plWjdhbjhwS1F6cFdXWGktNjBRR1FOb0p4WUl0VXF6YTFjclRyckM2cDQ1cWxNcUlRQUhqRlVCUjdXNnRHM3BhaDkzeE13?oc=5",
+   "published_utc": "2024-08-10T16:49:55+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "High-Quality Patient-Centric Integrated Model for Emergency Care System to be developed in Puri",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04R1FYNUVYMk9iYzR2cHNzdjJMTVEwSGREN2ZyOWNubFhjeGRwMjlPMDgxT3RVLTlxVHFtRHEydzVoOWtoRVJkbkZ0S0dHV0FsMzh4MWlwcHBqbEV3ekRBd3lkanZEV19k?oc=5",
+   "published_utc": "2024-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh govt’s order to include books, authored by RSS leaders, in college education stirs row",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGpYQTZnN1VlZ1Z1Q3kwekR4X2JIMXg1Yl95UlZzTkducEpVRnlkRl82OWtnRDFERmN3bi1GeGoySEt1Tk9FZmtGOGxDQTlOUUJaZ2RISFRWQzlTai16R19nXy1za3U1cHE2UkVIT1p2WnphYUc1WXBuZGVfNi1ucGZ2NXFkQ092cTVRdktBVzVUSTRzQUwyRHhKSEl4Q1lZdVdKNF81eHVjMVRhSDBnZHZ2REtzOFhGQUxjMjBURWhTREJFdXhoWE5Cak1fXzFkYzhNdXl3dFpkMXZmc1HSAeMBQVVfeXFMT29fR2EwMjZub0JrRjN2c3o4VTZUVTVEZHc4UzYzbzQyRWY3ZXFNZ2FpbVI0REhvenJKc1FoQWhIRkpDWFVyamRhc3l4ZGxaRGhDRGVMYkE3dGhGM1ZEbnk4UnFodEw2eVJlMmxYT1pKcmh5MXN6dV9ZampycThILXNkMGREc0lMc3YxdnhTRDRpM0FJakRFZm11SHhNTHNDeHhxOVVWYkc0NmUtb19ISjNtc21IU1pJVkJfWFl2Y3BKUVZQbjZhbnI5bjB0b2YtalU4X1lRbzhXb2w1Z0QzMHM5UGs?oc=5",
+   "published_utc": "2024-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt: Non-Muslim children can't enroll in Madrasas",
+   "source_name": "Awaz The Voice",
+   "source_domain": "https://www.awazthevoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1Zlc2ZuU1ZOSnV6dTBHcm1CRXNwczl5cmRkU0Iwc3RnUjM3OVBCWHMtR2lqMFB4RFpTeVJHR1JRVGdSbG5fMEtMeVdZRkwxYUwzMncxYVp0a25lMWhRblhZeUpEVG5iOFpVbGsxUUpHd0RyTkZiMkxqZFNLaXhTZlVyMjhOZTVmVnpaOVFlekZyeVZoVjJybjNXelRaclFBNlA2VExKWmlDZw?oc=5",
+   "published_utc": "2024-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Exclusive: Madhya Pradesh Bans 9 Substandard Life-Saving Drugs, But Reality is...",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0pjNXhMX3Q5LWNxNHh0MThtVGtxbUFhVjhjR2RGVF83clA5YzBNT1NrRExuVGR3c1FzNnBiVVZDd3NjdmxBUG02SlpIRlJkRGJDbFpfVXdpM2dScGNPNnJBZWlzTDZSNFVWYUlUQTZaeTFlQkJWUnA2MnMzSkhpX2dhZjJYNEV0aGZ0NkNBbUdPN1hFUEhMRk42YUpSS1p5czNremJJbUtDSGhlZDBPc2ZVc1g3QzDSAb8BQVVfeXFMTVZjTUZianRYNWpKaENmSWFIVVI2TEFwaHB0dDEwSXVBSU9xR0huYkVXVUN5YWdPblRwQVlWTXdKbm1YN3dtSzM5eUxVUUlkRWlxYVVhdkllakZmM0dFZzdWUGhFaXJKQ3FwR213Qk9UOEdmeGRtRnYwZWhzd01ISjBtTlJnU3FEZzRFMXluWFd3WUlFVUZXY0hpNEUtUzhNdmYtR3A1Y09BSmJCNy1rVUlNckY0Q3VwQmNmbVIzeHM?oc=5",
+   "published_utc": "2024-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Girl Screams To Escape Assault At Madhya Pradesh Hospital, Accused Arrested",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlBWQTVjYWUyZW9OZ1o0UW5Xbms2czNLaFlnb0FmZjFnYkdvdWpNTW9EU25lTEV2X3k4blczY01FNTBFREx2NjlWNmVTSWU0TjZDd295TWpBNk1DTGtMUC1SR3o1U21KcHA4bXZvRjNrblVOVzdDTUFoN1VvTjNDUnBwZjFXR21WUjJoTzUtYVl2OEtXZUhKeDJGRzgyUW1sVWltZlhDLXhVczJZQkdGWDNTX0XSAbwBQVVfeXFMTnlaR0N3RnJtc0ZuQ0FJTHduZ1NoM0EzaUVYUWRsMWl4Y1hMZ0dHTnNrOUZ2NFI4Mmp6QzVTdFBRV2VpdU0wZEhDWU9yOENzeVRiMW90OEFIZGRqckVESXVIb1oydVQyMmdhalBmWG96RkZ1aWU5N2FERnBWdmNCZmJFV1l0VGtxRXRDdndJZ3d5Z2lWZWZaUGdGMmhDUnFoNGdSdW9XOURfSHdkM216Y3FkVGxSbW1VODhVNkc?oc=5",
+   "published_utc": "2024-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RSS-Linked Books Mandated In Madhya Pradesh Colleges, Opposition Sees Red",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjVTeFBqZmpnV3JSbW93dkZzaEpoTWd5YnV4dVNOYWthd19pRG55QVh4VVR4RVhIZDJoa2pGTmRmRUJoMHdzOVJJenhpd1M4T2tMSURYaUU3SlYxaTd6NHhfM29CYmlWaHhuZUs2SlVDQVF2Q0ZfZThRYS15TjNEWElwNEFjR0YzLXFPQVMyd0pJVGEzaDl5Y0tROEdfU1J1VzdFNzVZTFlENDZEd0hYbWRB0gG6AUFVX3lxTFBIZkE2YjFFZFBKQml0TVdBR0tnQ0Iwd3R0S3lnaHJHU3B5Njc0NTU4YTZHdjVYLWVDdmFUTDlTUUZFam9BNDgzb2l1RnhTT2xJSDBGSEJPSm8yTmZONTRjRGJjS3U3ME9Nbi1YeE01eXBCTjA3YXo4cElrZnRjSTNQa3ZjREtpRFRLVUY3NGE5WW1KdlVQSGRmMXJsem5kYjRxUHV1dGpZaXRkcm9QM1pQcmFfN2Z1d1dPQQ?oc=5",
+   "published_utc": "2024-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State Launches School Chalo Abhiyan To Re-Enroll 23 Lakh Dropout Students, Targets 100% Enrollment",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTnR6akV5bU1ZX2YwbU1icnJ0dGhqY21CZk50aC1Gb0dYZkVObG83NkR0MDFNc3E2NG5yMlNmWUV1Y0dzYncyeWVTeHBoU0FfaTJZNkNxSWFnb3FKbHdQcUk5OXJpMkg4SlBLWGU0Z3NTb3pCMlZmb3BhWnBJS0tyTGpadUsyMm9hU1o1QjhBNXlFa1cyZW93ZmllQkxLdnJObDlWMGRjMlotbjJyNWt2Yjl0ZHVkWGdpQnpLRGVQem5xaTc1REpucnE3RkRWR2dr0gHWAUFVX3lxTFA2TzdwamZ2Wm5xOGZjOWVPSGF5Mmt6UVFCRUhJMEVBd0RKWjNvdUxGeGZWUG1Rcm50VkkweWxnTG5OcG9qN3E0T0s5VFBWeGxqdUh2eDFEMmpGdmdaSXFXVXBUM0g3N0ZudS1Sa3RaN3BrRWdDUVNZNHFVNW1mZ3VSVUdlbWVrWWhPQ3dFOGtfN0FHQWhyTlVzU3dLY0U1Yk5WWUZFTEpKWTgtSlRmdEFSUGZ3ck05aXhLc09PVnZ5N2dOZHZVS2xTQUxmSmpGZURnNmRlTUE?oc=5",
+   "published_utc": "2024-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

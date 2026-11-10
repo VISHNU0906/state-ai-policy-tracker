@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Kerala state approves new industrial policy for 2023",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWRQOGthU19TZkxWZF84MjJzRHNvLURQZV81NFFJYWYtUHhrdDAzQXYzWDJhZ2lPY0x5c0xNLUcyeVN6Y2tQU3BlX0ZxVFpteUdoeTY3VjZjRWNjQTVkWWdmX0VrQndqUF85LW1kcUM3MHJicndlR2JTZG4xS0FNbmEzVWhZTTR0QWR5R0U4NWx2UjZ2NWo0OGNSWWZPSXNVYVBGZEhRaTlUd29QNDNYdUZFSlBieDg1ZDd1bVZaaFg0d9IBzwFBVV95cUxPczJhTmlTWjFEd0drMGhBd0k5SUFIdjI2c094a2ZON0NKdzdtdWV0WjFySW82VW5ic1lSN2pMZGgzdlVseXdScG1ZYXB0bVh5Rm5UWHFnWWJrWFBWWlAzT3R4ZTMtQ00zek1lclZha2NQREVPemRXbDZWQ2syd2tUNUNSNDA4aGdjTG50Smp2a3JhcWV4TXoxSXF1QmlUeXFGamZDdmdKRWlhZEY2cmdZQ3k1SUtta3VxcTRFMjgwQlMyeUlsalZBdzVDSmROSEU?oc=5",
+   "published_utc": "2023-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI powered Robots and monitoring systems to save lives on India’s beaches",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTWlMRUdqN0Z3bFlBRTBzUmYyTjg1LWlOdVM0dG5ORUFlYnAxcmhfdUE4Vk1weEVWbllzUUlGY0tPTnRBOU1RcDYyemxTRmo5Mkd1VjJzVE1DZk03d1BPRHpsV25sbEk1N3pXejVfb0ZEMHhQbUFuVnc2M3Nob3ljUlVkMHlaQnRZMVY2QkdMcEQ5QU9YTmlVa2ZvVDJLSEZSM1V0bm04X2R0dHV6NHB6SEVubXozZnNkY1FfRlRPa0NTZlhNWUNwN2dCbnlNN2R3N183U1NPQUZIeGtMaFHSAeIBQVVfeXFMTXhUS2M2Y2V3UklFeldQYlhCRU5pUEFvd3dmYzZSdVc3U1I1VmwzemtrVUlzYXRUSFpkQzJXM2FIYm02MzB1em9IbjVtSUNmbnVIUmpFOVQ5a0txd3d3ZWlSeHdHaVJ2dXVXZi15TTZKUmliVWNhRWlhVEN0QnlLbE9VTGZIQWVvTENUeVpRdHpoS1dhSENMbERZaWJMdGRZWlhSdlo1WkxQNE9LVVJkTS1ldWg0Y0FpTGJ0c1gxVXY4V0VUWFlHM2hMUlFvZVAwMi1vUlRlTDJPOEVnRjRMQi1Qdw?oc=5",
+   "published_utc": "2023-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala CM extends wishes to Xi Jinping for re-election as Chinese President",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzZFZmE1TEVGR2duSUt4Rm1Ga21BSmpZZW5nSllSaXpwOHNKTW1JbmpLMkpzc2UxWW40WWdCSWNRR2VLeEtYMWVTV0RaekpvYWxXNWZxUHNyZGN4aTg5ekpTUUtZSkd4cHpibGRGbWtETUQ1dVB2VGtLbjBkMG1vLTJWQnY1RHluQnNsR1lvN3U2TkYwYllNQjJLS01OODgzVG8zbzBDODNGM3kzcnJnenpFZzZ5SDdlcWg0cXZEMWszTkMtRkVlY2x30gHPAUFVX3lxTE5CeGdBMjJad1BmdEJFcDZZZlJ1QUtsdEw4RC1SUVJhOGZYY3NZZElGaEdIY3gzX1BqTnRiUjEyeDFMVGRKbnphM3RSTERIcThyTWpIZWJlalB4RUdjY1lEb1V4ZEZxbHZPMFhHUV9iVzdXYzBtOHBCZmpBQjhsR0YxMHdoc20tOXRIR0YwOTZFcFFqN2hLZEZPRGplMUVRNmdoa0thcXdmZTQ5bGhaQVgzWFpyTjVNRl9aaF8tT25yOGdzSzRsVUYyQWJmbWFCVQ?oc=5",
+   "published_utc": "2023-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "People can trace their photos with PM through AI, NaMo app gets new feature",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa1E4U1Q3RUtUdWRhYVpXd1dqUGdaMHFDTGtuUlNZM0F3d3VyWWZUb0dEeTIwMk9yR3ExeHR4ZVp3YlM4RzU3Y2xaTGh2YTFOajQteDZmVjBPaFdqYjF0TVk3MHJ6NUxjNkNJQ3kxQ0dwVHBfMGhSLUZtQUl3bTVaeFNuUXBUeU1ZN3prVVdManNSREwzVlhaeU5SQTBDNjBHMndHSWtPOVVmX1RfUmt1MzdMdEJJc1lONmhCYW9oTnJubVl5RVlFaXBtLTE4eVc2OEM3LUtB0gHbAUFVX3lxTE1ReUdmQkVveFNwUG5TbkFxeG1vODJMZWI3OE81U3NYRkhjblNfWmdWOWFuZmtsTnY0MEE5NXpvZzQzU09iNGhiVU1tRmh2WHgyMUQ1VlNwXzhVMGt2b0FwS1lsZTl1eW1leGJBYzA1NDV1TjJ5RnY0TEVLR2N4TXNqN2tEWWpTUDdhS2trZFI3ZjRhZTBTSVdZT1E2bWlXd0dwRE16QnFpbFFleWdTTnpULVJGb1NoeGhURlJTdzU2dDc4LWlCQUVGcUstRlEzTndpY1R6ODZjeWJBYw?oc=5",
+   "published_utc": "2023-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Brahmapuram fire: Kerala govt asks health workers visit homes in affected areas, conduct surveys",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSFlpUVZOWnF0UVJWQk01Y083eVpzaWx3MTJGWlZLOVNTbDhnMWNkRVl1REFaR1ZjdFZKeW1zYzlHZERNR3BYMXJXdXJnVGtha1NRWkE5Q3R1OHRPaV9DTFpweXZJY01GQjBqMVh5VnI3UVZYWDlaa2V2N2hBeXJzclZEUDZvSGdtWEU3OUNXbFM4RkJmS3hpQTdOUVhHTGpGSXpqSDZwbkhsWHFuWEoyMVZDSmYzbUtaSlYxRDZCNHVNSHRscE5ubjJ3VWJNdFFUUzZRdGFKOU9BTVM0a0JnekVFNUI1RkJJN29WdnRrZVgxaWE30gH6AUFVX3lxTE5rYW03V2FzMmpjN0hrM0Z4UDJwS25odVF5OFNyNVdoZmladVEyMm5PaVV5Z2lDZjFhTjJCbGd6VnZlSE1GRUFUR2xSV1N3SjRHWGZaXzBrOTZJUTN3OEdsR2dOdU5VWjZsb3habEU1YmFURXJZT043TWVlUzNzaFFNWDY1RHlyMUVMTlA4TlZrb2FBcFhudWZHWkc4R2ZDZ05JS09VcWVJM0xLYUE5RkdWS2pZbkJISVIxS0ZZbmFUSTlYeHBCLVd5NUlwZlV5czBtc3AxbUxKTXpFSUdYdWtNeEFpT1BiQ3c4ekhJVV9lREx0b0V2SklxcEE?oc=5",
+   "published_utc": "2023-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala govt seeks New York fire department’s advice to douse blaze at Kochi dump yard",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcXNiWGZPb1ZvRkNEQzFPWklJY2Rma3FFU0RwVDhrdjM3Z2l4STRCQldYMkkteHY2dWZZSVVUTlB5c0d1eTV5SnhLYmFLM1NSUU1CY252dGZWemZHY3NvUG1OMDRLOUtsWWVsOW8wQlFqcFV2cXpqZkpvMVllUXctLTlUUFZrM3h5RWNXX2Q5S0Eyekxtay1aTm9PQlhYZm9kV2x6Wmk3b0hDS2RxZW93Y0FSdVFELVgwLVNvMjZNeHZCTVZFbE1RMnhQQ2FkOHJnVnVWSFJkTdIB3gFBVV95cUxQVnAycVZNVU9yZ2tlamI2cWpQQjhnUnkwLTBlTkRIanR4VmJmd3pUbldiNFgzSzlBcUJXbldyVFBZUU1yaVdTbm9HTHB5UlBqRjY0VzlhRjB2WVptUmVfaXZxSDAxcE9MNFlha08tbVFxM3QyanhHakV5MDRja1UwcGx3VmVCbk1RaXlhQnQydi1pOUhJY0xCb2R5NGl6QjBNSUQ5UXJFNGZKdTRqODR0YThDS1ozbHFCM01RUFBqd2tTbmQwUlFfdzVjaHFqUWNVdnBoSWVsTFlGTWx5eHc?oc=5",
+   "published_utc": "2023-03-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet AI artist Arun Nura, the man behind making Elon Musk wear a saree",
+   "source_name": "India Today NE",
+   "source_domain": "https://www.indiatodayne.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGpRLTc0VUptc3hJV21LcFhZVzdydmZocXEtMWRfLXp2dTR2dDk5a3RDWnNDaWpCQjVWMTB1ajZCeEpHZzV1b1ZNa1FURVdaZ25CUkNUdV9maXpaNWdDdHJnQ1ZHRW05NnRUWEkySkJkZC1GOUg1NUFmSnVqRTBQekxIMmUyWVJxU05sMU5TelhjelYyWFVZVEFEdWFpLXlCTnNxNkQ3Z1dyX3g1djdlNDVPak9oS25WSnFFVVpDdlVyeFF2dE5yUHJB0gHPAUFVX3lxTE5WWUlmX2I4TVMxTzhnNmlJU0pCa0dNY1R5RENoNTc4SGZ5eUNuT2x6WXJfb09ZbW9nS2Fhckh3X0lQVHRMc3VsQ0hSRmt1NE5JRVA1OFRmN3BLSDFkOVFyZDVKcm00M0pxbkw4aGpNN2N3dnJfT1RkSHpUeXNyeFFSVXFFT19xbkVDOXZrVlRBTFhPM0RzUjgta2h0YVVjdDBtbk9laGNzNjlhWFJoSDhOQ0JLZWhDeWFoQm5kTHo4dmRSbHg0eWZaOXo5SVFXcw?oc=5",
+   "published_utc": "2023-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Using AI algorithms, CBDT completes 35000 cases out of 68000 taxpayers selected for e-verification",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdDBqNE90eXlENzhSZTlDc1Nmei16YkVTT0c3SjBma29yUjRzRlBVWWZVQmw1d2liR1JoY1VOZDhRQlFLRnlQRzcyT3NnYm5mTWZad19FSzJMVlcxRm5mZUltOEp6bVhzTjd1NWJkc2tzNHlRc2xkVmVwTXhyQjdqY0RFQTk1QzZBMVU3QWhjeXI4NnlqcFVIcWllWTk2X3Vyem1vNzdVY2RGakxtajBsLV9hOXBnV2VYSFRQM0R3SlJ3N0plMUkzaTVSWTJLZFNIMjRnLWZLWEdLWkJXRGNQWUp1YmFaSFlXbkJWTkFFa3VHQ2FhZzNBVnBRNy00U2_SAYMCQVVfeXFMT3hsWm9zemotVlUtYm1YTWRfTVZNREw0TFJ1NmQtS1JuTTJ4d3Bsb1g4TjFmUUdPR2xmMnNUa1ZmNEstY3RKTEpIUXRBODJOdDB3Y1NJUEdYQVN5S19YeVRvcVN3VGpDMmFrZ2ZJWFpuUHBxMGtIVlIzcWZBV1UxY3lITk5Pb3ZGUDlmR1BDZHVfUk9wRUh1SzlubDY4SjJDNUV2Y3BkTktfU1luTHJ3RFctMXJ1RHFEa3N2eDhDc05VTXlkdmZ1TWdkOHFvVnN2UVdCOW5lc1B4ZllHeUpNYWNlUnJpT0VlcXUyVEktUGJXazhMS0duRU1Rem9zbW5vN3pNRQ?oc=5",
+   "published_utc": "2023-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala CM proving he is -'Modi in dhoti-', says Congress leader VD Satheesan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVZ1dFN1cFBPeDQ5LTg3SGQxWXIxQmdqQ1RXMTZzdGlwSVJaQkU5czk5TkxFX3F6eTBSVXJ6NG5BTElKa2FVQWJlRDMwNHBWTWJUWXFBRzBqd0VqUW9sdERXdEFqaVU4NkpWZTNOR2ZsQzN3OXU5dl9UQjFCb1c1OUg1YzRDa1NxTFo2NERCeGZuX01XZ3U5TFl2TEpkTXFHREZGMXZhYXFvcmFHSlR6QUNDUHFaMHViQU55cmxJT2wwanB5WXfSAcsBQVVfeXFMTW5kNW9saEZmWFUtMVVoNEZ6ZGx2MnpOd3o1aENuV0hJSnZrbTROUFkxdUlkckpva0JCY19WWlR6UkJxOTRZZmdiZGk2ODQzeXFVaU1VU0lTSjZUdFZjOUw5NzYxV1RGVjZXM3A3YnY1VU1ORWRmcUFPMUp5WTViX0NKekdZZDFfT0I2aGVpdXU0bGU4UHdienMwdEEtaW9zNkFsdldPYWVPWUZ3UktSOXdFelN5Z1c3TUpSeVZhOE9vTThId0hZMko4XzQ?oc=5",
+   "published_utc": "2023-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Our aim is to make Kerala a knowledge centre for Genomics: Sam Santhosh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVUUtS2ctVHlmS2pzMndEeTFjcHo5eDdQNzJOak03SjNmeEIxV2N6Z0FsY0ZOT202dXBqLW1Fc1dsNjJjMFQyZHhSUFBnRjJIWjYzREdKRm1rTHJWQ281ZS1iN29EaU9HQXhoQWZ3MnN4WF9fdG5ZWXNKcG1GUkoyU2l4bHhLcFBUbnVpRmVlekRidXdJTTlaSnVUZ2FibjBCSGdBWkJUY05CQWhHS2ZHLWhFSGtmeDY0ZGRJRmFScUF2RktFblAtcmhwS1NxZWpLbDF0MVR4bHF1QdIB5wFBVV95cUxNcGFtVHFpcGZUR3puY0xSRW1UVThLa25JZ0tTYjVNWFRUWGhYbkdfcGU5Qm4wdFp1bHhLc08tWjVkZ0I4YmRMWWtvSnB1NUh3aW1CRnFwLWFyd2o3cXFZd3pUM19zSzZwZS1KbHpjQzllNFhyOFQzVkNEVzdUbHctbE84RENDUHVhWm5ia28wLWFEMUxnNllOZ3d1ZGdVXzl4anFUbTlUYWpRODZ5M0pObjVLRVF4XzR5T1ZVVldCVy03ZXo2NjV2SEVQQ3c2Zm5XQmZISngwR09ZVFhXVGhaWDJqczQ4bWs?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "The natural farming model of Andhra Pradesh: A solution for sustainable agriculture in India",
+   "source_name": "CGIAR",
+   "source_domain": "https://www.cgiar.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdG9ISmtCclJKcnF0OXM2V01mOXoxaHVtcC1CcEdiMWIyU1NZRjFQZUtGamN4ZTY4QldWSlZGcmxONE5VVTJtVkE1cFdKa2JUbnl6ZzRfek1qNFkxTzJTRTBfbHVIYkRtVEJqRkdzMTZwWTRFSC13VGdjanRZOG9IdUtrWTI1NE13TFMyaWo1Q0RvM1ZYRnFpZFdDeC1YSngxaUFPMWt3OWtDODBzTDlZeW5aTmpRVnBkZGpWVDdqc3gxczJKVVRHTWNR?oc=5",
+   "published_utc": "2023-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bridging the learning gap in Indian schools: Is generative AI the answer?",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUhfV3BaOFVjQmVpcldNM1dxRG9BRXA5NVpCbVRQLWNpal80YTROcE9wRVpqaXlXVmF2QTF6TjVGdTdkR1VxWnBucU15cW5aSXdCUXpxdlFWRVFoaEl6SWhOd1JoVXRiOE5wcGFwN3BCLVhXM2lScE1xTGlKUHFKVEcwd0pwaF9Uc014LXNHWmttMlBDM2pFcVdUbURnN1UxNUxEOS1VWGhKUFB3VUQ2NEVyUjlOamU0MkpWckEwbzVUX2lJaURRa2RNSdIB0gFBVV95cUxQajd3THItNHJkbU5PZTNaMzJkUjdwaXJ1UlczRWpGSUFsUHhtalRod0tTTEMzOTJtYlo3VDF3TTZzYUV3dElSRHRTbHlITFRCMlRKZVFUS3dIT29SSFRyV1UyV282MlIxTDZhcmkzZ1dFV3oyU2VUUFJNTDFQeVVmWnlPS3hfVmZfT3pONHNvdXlYeDY0c3IxS1otTmFGOHVpMWYxb0RQVFR4REFmMUJiRDIyT0tCeXp6MnpnRkdCQU5HbDNMQkNsb1FKNEFiUGJTZ1E?oc=5",
+   "published_utc": "2023-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to distribute 4.35 lakh tabs among Class 8 students",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdE16Z0tZbGRZVUdTb2dRYTNwM0xzMG1vUXhXTzJzVFVSejVSWHJudTV2YlZ0OVZtdW9kM3ZycE9SZWthMm1uc2F0UWhVRmUwWnRfdWF1ZXFMS2doVm1zNUg4UkZ4VDMtN1hSbUlhSU16cGoxTTM2OU9zOEdtVG5TR1BWVzBQLW1aQ2ZqdWZFSVowcVBtNUYtOVVHZFZ1eXl1WldORzBfQW9XWmpaVGw00gG8AUFVX3lxTE9JY3I5WWFXbnplcURnRGtrTFI5M2R6OWpLbTNrOVVqdXJOMEw0RG15ZmdzVjVPSzRPcFFMX29MYUV3NklmMjVMLWY4TGZfV0tuOVN2WGFRWllOLUdxUTBTamNBMFpCUE5LaVh1QjI0by15ZDFmdlVhOEZyQjM4MXpNSEEtWkwyeWhHWWtZdENTaUZWVlpaRVpEZHhrVWkxZGhYeVRweGZzV09sNThrVHBYSFF0T1BpV3djMVF6?oc=5",
+   "published_utc": "2023-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IRRI is leveraging AI to secure food and nutrition security for current and future generations",
+   "source_name": "International Rice Research Institute",
+   "source_domain": "https://www.irri.org",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHY3T2xJZUhVTXJoRkhCVUZxR2JhWmhwd1dscEVLTVo5LUxyQklUREl1Z1JsVnNJaENmVzRSZVMtR3p6dkFzR0F2enNiYlhtNVRWYTM5dWtRSWtpa3A5MWV3X21jNTdhWXRlRmlUMU55bnl5d2Y0Z3Bja213eFEyejRpZklucjQ0NkFOVG01QTJSZnNKWlpfSG5uZWsxYnFyY2piTk44Y1U0WC05RmpfbmtIWDY?oc=5",
+   "published_utc": "2023-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM kicks off programme to distribute Rs 620-crore tabs",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMGRKZm52SVFjMlJPLXNiSUoyMm5vNlBDR1JQVEdnTlUyUTkwREhLbEVuYkh5T3ZmLThOdTVIVFVJd2gxMnFHVElRRlYyQU9jUk9Oal95TEh3SXJVOGozU2VjbEdjYnpSVmJwN09aZFB5STVSZjVSb01iTjlCUV93MHVIOTVnRGJOV2ZRMS1JYXZ1UVZZam5Nbk5KWko1SmM2eUxRNThtdVJVbEVzR3R1X2w1eGt2aC1xZ1loS3F2VW1uUlROM0lxdTcwdWtuWmFCUW9iVzBRY21ZMXlYdm1mUG4wONIB8AFBVV95cUxNUVlSWXJMY21WMndUUl9nT1d1MFBHa2tQYWJZR0ljSk1pZ0VFQ3IwQ2xVM1JVVmJHcjBGZXhiUlc5UXFYbjhTOE9hNGpkOG5iRVJUNjZ3YUhjQmZLamJoazltYkdZVDJnMVFkSkJ5UGJmdjI1SGxWQm1xSDZQRkk0S1paeU9zajNjaDAtbnFlQVk3UGlHZzdyQzRNbnJRUVhNU1h0bklhckNCUjVsUWJHcjlnZUg1aWQwcWJVMFJGU1ViQW5mZDVIZW1naU9NcFJ3S2E4N0NmYXdsZm85MFV4R05DWlFBN3RQTVdaWEFZakU?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NEP will shape India's future generations: Union official",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjVrVU1JTS1wa2FjUTh0aDZjLXlraEN6YzFPM2ZTWVJDNEFrVk9IVUV1Ukd4UWt5X1pyWWZIU0RVVVFPTHJ2eDlQRlB0SmdkTmJsRlRicFg5MXhBZFpZdFgtS3hNd1dvbHdZUEpUMVBuRkl6TXRidHlsc3EzcWd5Z2kzZi0ySHdSS0VDTnVsUkgyMElDYU9UejFDbG1XQTFNZmR3TUVUQWVwUXl0eVdWb1Zkb0NJZkctMzEtSXVJc9IBxAFBVV95cUxOMTVlQmNkSHJwdXppaVpfNnI5bExPbXIxWmFNZURBMU51ZmNkOE1uX0ltbUIxM3VQSVdueVNTa1VJd0gxMGt1QlZwWE51clh2cTFWdnpaTGtrYzdGbUNDTngwenA1ZTNuNVlKNUtZU1V4aVU3S2xQeVY2aWhWYnYxOGtMSEZ3aUhRcUJFOXE1d1RudVY0MnJadzgxd2FWS2k3V2Z5UzVwVXJZMlh5a1hvMm5DeFhNcHhacUl1MFVlTjMxUlBt?oc=5",
+   "published_utc": "2023-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "query": "\"Telangana\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Hyderabad AI startups breaking gender bias",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5YlFWcmRXRUllbjNtSGV4YUdSczlCVXR0MFJUanUzaWNraUhobUZENUJ1LW5zdG5YN0RsNFNwSjhMWGc2NWhmQTJvdzR4RnNmdE92OUZFOVZQQnRzTFI0aFhra2tLTVBMdEgxLWZlTEt2QVBsRk45OG9R?oc=5",
+   "published_utc": "2023-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ISRO recommends AI to curb ragging at Jadavpur University",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmp6WEp6TGJ3bl9KOTgtNThfbmNUV09EMThROFIxYTVWS2dZUzk2clVtbVhCdExwUnVCZ25qdjVnSWRnMmVmaXlHQ0FUSG5HbFNJaVFLMm90NDJObzdCd3dVSXBocXVmS2hpNHFuZE13LTFnZnNRYVBiMzdwdHZkQm9EdlJPY1Q1LUNPRQ?oc=5",
+   "published_utc": "2023-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad: Record Rs.1.25 crore for this Ganesh laddu",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXRRR0U1UlE3X1BNZEdmQkFCMXFvWjhCTURVQ0JBUHBtbDhuQThTYm50OGJWY1UwdzlodTVYc251ZlNtNkdEeFJwazM4MWVGLVpCLWZkdUk1cmhZdUNFU3p3R1ZkVDRKZkdBbnA0b0YwVTRIdzZYWTh1RUEtSmxqU1pTT0ZPUQ?oc=5",
+   "published_utc": "2023-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

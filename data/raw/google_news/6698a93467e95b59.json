@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "Amazon Web Services to expand data centre operations in Telangana; to augment AI offerings",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeHJkb244d3dTOE1Ua2N4aWZ3aUFYNUEwSWV2UXJRRkZqbDF3bGhUS0FIZXJuNV9mazd1T1lQNzMxUFZYSjJRbmF1RUNvWkZldUxPT1RUd0h5dEpRMWIxY09pa2x6T21XdjVKU3Q1bVVnSjJ6Ym9STnJQRFlEdXBiWWM2ckx1TGVNLVdNWThqM1JMaXhCMjh3aTdRYzB2WnV3c1Z2RXBGTjVmVU1IYV9pXzZ4cEVOZWIza2w3Nm5UUVBHbDhmTjB1b2NXeDZiRE9zRllFM0VBbUJwbWdkcE9Vb1BXa1RsbDdmUHZILTFoc9IB9gFBVV95cUxOOWYxcUs3Sy1pbGcyb0hnRWgySHVWNzg3S0NlVzU1T3lLQmxTS3UwcTVGYmZYTHpHdS1hSDQ5UjBWU2RqOTBUSGJSREZHbGJHWkU1ckNmX0dYYzd6YWh3RXZZanltODVObGZHdmh5MnY1TENfSHQ5QXNmbjFDWTJoYXVtOVEyaWU3RENRWHJ6NWxpM0lfZGN5SVYxT3Fhb3hQS0VqNm9POE5IX25uOXdUOW1iVzNvV2ZqVE9PdlpSX3E3cUlLb1FZZTdLN1A5TDBxcmlqRE80Uk1UbExKZEJyRktUTUdXMllaTUptTERBbmYyNzJJb2c?oc=5",
+   "published_utc": "2024-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS and Telangana CM Discuss Major Data Centre Expansion in Hyderabad",
+   "source_name": "Data Centre Magazine",
+   "source_domain": "https://datacentremagazine.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeC1UN3VIOExiVXIzQnM3WDQ1bVlpTWxqb2N0eEtYMjF1QlRTb2wzZ1k1TTZmUi10OXk1OTF6M3M4dGVFN0swQkJpNkpma1lBWE1hdzJQRDcyRFJjdlNXd195cjVBQ1FRQVFsTDlGODR3UGFDaVlhNHZFdy1MOTFsdXlWXzQxSEhBQTliOVNMbndZcDd1VVFRNnNGbk0yZ2M?oc=5",
+   "published_utc": "2024-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana govt woos US firms founded by Telugus to invest in AI City plan",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSm9mZndlSGppX0E1a3NuX2dSbENvdGU5QWVGSmJXWGlWSnVNM21RWGhfd180RUhmcl9Bd0dBTVhEMmFvWGJ6VnlRdjR6Z3pnUkJlX1lQN0I5aHByYXRYTDg4V3lVb0ZhRnlFYVo1LVNRdUppLXdGR2tSX1ZnUUpQWkZ2YmcxUkpSRkE4NERXakpOU2c2UTZkT2ZwUUdnUmliRHN0eU1ZNmJ4TGtwZUl2ZkVPR0JDT1hSTWlzNlBRX0pUQXBMTEVyUi1pUEtZUk1mc19jejlaSV9HbkJ3UEtnclRITG4yOVJVSWE0cWxR0gHzAUFVX3lxTE5QUnMybER3SmVMbks4OTRLSm1VRFZveXJfLUI5XzVxb0NMM3hOOFRlMXJ6R0E4eF9xRnMyZ3BRVXBXMzdJZnlPYnBTUzEzSmFGN04tTG9ZWWlsQzdxc1pQV1JXeXNOcENYV29JRjc2NlRRR2xob3Z3MXpQREdwTXZfdWJTRlJ6Z2liQ3hTNFBGUmZmbzE0OTJsb01iejBnMmkyM3h5bVdzaXN5QkpWUUZIeXpkT2FobXFneEhsRHNiamhkNEEwam02MVA3aTFETzVhT2FiQzZFN29ZdWRheGVNdDIwV3RQZnU0aUVuMjBCbDM4RQ?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aurum Equity Partners announce USD 400 million investment to build next-gen data centre in Hyderabad",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ0hkdGdzbEc4QTVXSmN3RXVZb2FFVWZLUmZxMmtlRHkwRkhoZ0J6WTdnQWlWUmN4WmV2SGtQYWtJNFdyZ2dlajhTeXNNS0p4T29RU0pYRDBaSm9aT3poNUNKNFdUcTRna0szdzh3cGN3SVZUNHFtRjB5Z0lUalpoTFdNcWlId0lQUWxFY2JfX3NUR2NCUGxZOXYwNG1WdmRiOVVIS2NNT3R0TndPWTlsZUhabG9GMnc4OEw2WUJGR2F6WURncm9ERzE4bnYxQkNFc2NIRGJUblVjeVZuVUVzeWE0Z1d6dw?oc=5",
+   "published_utc": "2024-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft’s giant data centre in Telangana village accused of dumping waste, encroaching on lake",
+   "source_name": "Scroll.in",
+   "source_domain": "https://scroll.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdGx0VFZ0dmZMYnlWTFJrdU4tZzVPVHE3UGNiOWFMOUEyWmJvcU9Jblk1N3l5aV9VZFJna2NGRTk4QkZaZHdFcTBJaUZoR1MxdUVVc25KM2diQ0tOSkQ5R3ZuRllvTEZtRnl5MmcyVDBwWU9zdmpZcm9yWTM5NWJ1T0lpZ1Zzd1ZXb2VqeDZPajZsdWVlWnhEeUtzaDB4S0lpTlFfMkk1ajdKSVVtN0ZaNjVtSVY5a2pQcXRXdkp5dnJOdDVCc1k00gHMAUFVX3lxTFA3c21tWVBpQTZTTlYybGxjMFdWblFWOFpkdUVQakMxTVZvXzliaU83M29VZEhoN2ZKaVZlNlQ4QVNOTWZTQlRMcVhRUUZUT25BMGxmYXJvcFdxdUs1X1V5U3Z3dnl3ajZaSDg2Uko2WGNpeUl1U0F1bnRTV0gzM1VqV0U1dlU3bWtIUWN6ZlRzS1UwTmNNSER5RmhqUzBDUmdQZGdtRWtubEdXQngteHBkeXhLTzllOV9SVEJjVFZhdHdCZFpjYUNOSXpXUw?oc=5",
+   "published_utc": "2024-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amazon Web Services plans data centre expansion in Hyderabad; eyes significant investment",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYkhGZDI4ZlNSQ3hRMmJjVnppTlpsWXBQSmtXZGl3QmpSdldTVmFvUWwxVjRvS19kUXRfTVktVnRMaWl6MWNRWm11ZHAtWllLay1tWWowRzNySVBlbGU4SWJPeW5CSGZzLUxuMHdZVEpYYkl6allRYWl1dmVPWFJNd0xqdngxUHc0U3pjOFlaTHctUDdDTWhpbGhjWjNYVmhBUmpIVkFQQUlNaVgtWjQ1c3JLOWI2QkhrQlVQU1BGMy1EcFVzSC1wbTFFVF9nOFdYM2V0Y3d5OS1jdnY0VVl1YTJB0gHnAUFVX3lxTE5NemlqcUVVYnJRNjJxTHFPbEo0QWxLS1ZzOVhjUjVVX1k5c0wwVUx4Q2tNZTV1d0cydEs5TXZ2VThoVmNrYkt0ZGlUa0RHdm80c2tmN05WTi02SXZXNkJjWVhmclRZQS1tNEtEcXhyNmg5WXF3MFBEVW4xMG9GZFQ3ZkE5OUZxcXhobU13bjNOMWQwbS0teWV5STIwR2xxVFhOcnJDejdyUi15bnFDb05fbVBacGJGMGhJYTEyS0JOYU9hS1N3SV9zS0t4Y29ZY2tqYnkzb0NDRDFjbWltZklIQnJJTXJBNA?oc=5",
+   "published_utc": "2024-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Telangana government has unveiled an ambitious plan to establish India’s first and largest Artificial Intelligence (AI) city on the outskirts of Hyderabad. The initiative aims to foster a vibrant AI ecosystem and attract top companies to set up their AI centres in",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZaFJBaHY4d0FBUzc3VVo4SkdXbGg5Wk9UamJQdll6TnFWRTJWWkwtZTVRb0U5RVFHUm1GWEI2bkJtNEt5REdqS1hxZTFpcTY3M0E?oc=5",
+   "published_utc": "2024-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Government Plans to Develop India’s First and Largest AI City in Hyderabad",
+   "source_name": "CXO Digitalpulse",
+   "source_domain": "https://www.cxodigitalpulse.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTA5MU5mbXBrdHBSUDFzbW1qamxQcVU1MGJxaTloLVZzRmhCaDZYVTBhV2ZScDhvNks4WkNaRTJlcGQzVXZZZmd1cTdrZjJsUC1HZW9PNlNBTTR3Z0F1anFRak9HaHlIVm44MC1ia0ttMWtjdWVodmpGT2ZOaHY5S1FVX3didU54Q09NbHlhNnVBZkRyMllybElYSGFmcG5XVmFSNlFmRmFzV2h5bW91WFF5ekVZRFU?oc=5",
+   "published_utc": "2024-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "More jobs as Amazon plans to scale up ops",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeHF1bjVFMXhHZUJuaFB1YjdFTlVpWFV1aElQSElhbFNPeFhISnFaOEgtTE9rckgzMWM5T2xKSGJqaFVTTGlCNHZDVHhhT1JvaHE1MWFqaG1Tb1ExZzFQbjVTVVE2bWs3X25IMFhpVzlib1JuRGZFZUZCMjZoWW5UbkZINUlSNnpYVGVIcG9yRmJRbWlNd3BwRU1HdlA3Nkt5OGxpVmZfUVBtUnAweElqeVJudUZCSVo2OTQ5bERuaHNVc1BkZ3dTdtIBzgFBVV95cUxNZk9QRlNmOUlKV2Y5ems4T3B6Y2xheWFtZHp5azdJd1BDa3dFdVRjUUM5aXExN2MxeTl2VWVvMWlhX1NRSWhyb3k2VkRORWdGdHkzdzZKVU1BYm83cjlRNjVWcW1zMXAtUnUzOVEyMm5wZERfNkZDdER3MElaSjhVSDItLVYwUWJROC1JV3NkQ0dXaVFneGFsZXBmQjk3T05ackIxOE96VXlNc01qZXhNdVBjYWl1dllOcGxPeWxPb2hpWFZraEtBczE0SS1nZw?oc=5",
+   "published_utc": "2024-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad to be the largest AI City in India",
+   "source_name": "Analytics Insight",
+   "source_domain": "https://www.analyticsinsight.net",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0hwZVlNRTNET0dFSHMwUlRicGVzY2FkUWNzOTNnOUVpOFR4aDNvMnZXekZjVjFCeHphcXpGaXpNWUUwd3lZeTBNMUtQUEEwN3RqY2pEUl93Qk15MzRQbDZKT05XSFRFLVpNRmRuX3BzM2lOclBMZTFqckxPb3lGclJiU0tHSExJaDd4dElsWjkzV3hTNFhId3ZCd3Fya0djR0pv0gGwAUFVX3lxTFBKMjhKc3BESzFXUnJkN0hrMGxqODJwVXRVOEJZUXI3cjVhb2NlTjJiVWZKQnZwS0hoTTRxR3ozMElMOFhQekxwMUxLUDczRF9YeVltS2RncVFMVmdhdnEwb0s1X2N4XzlKT19pYk5ORFdGVlRUSS16STNvc3RYaDczbGxNQWxhMTlIZkV1S1Q2NnZ1YzdLYWx2QWZIdlcxYXhfV1BEdmgtWVBSX1RPSU1s?oc=5",
+   "published_utc": "2024-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

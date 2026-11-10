@@ -1,0 +1,21 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "30 skyscrapers in four major cities of state sanctioned: Govt",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS3RiWF9nTEdEcnFLODFManRXT3NMQmdDZnFTVHl4RUdQLUhVbXEyTjFYMXhMUjZoaWRPbmdtWDhtUU5YSm1qQ0ZaM2Y3QjQ0NGVwSXliTVR4TncxdHR4cllQdGxxN0d0Qk83NDNGRzFfb1dqdHlJNmJxQjdYanVSQ1VxT2FLR3ZwSEQ4a2U5VzBQSWdlVVZfeFlFMmh4dmpkVzA5c3ByX1plb0t4N1BHaE42eFBDZXZoc1RiMmx4WFJlLTc5Sk9KQXpDUjdnMDRpU0I5TU13U2R0eUFQZGfSAeMBQVVfeXFMT3M5ODNzRHpVXy1oQmZiWlhYSVpqd0tkMUNWWkwzR0lVVVkzRS05QXBpNDV1ajhhdGd4NmJoQ0ZUVThaNjBOeHJWY1VoNFNfc1N5a2RZWGFRejR6MThkbkFzclcta3Rlci1NTjBlQXpfaDRaSk5tU1JkODBCMVRmRmhCdzVuRU9NRElpX1RxOUFuQzlpS1RLX2E0VWttLURDSVZXZnU4dFFRc21SQVhVbVBUdzF3ZU42TDlFblRnQlp5YVRBOUN5Mm9LdGkySzNFdU54cDE3LW1KeW1kRUxRZjVsdWc?oc=5",
+   "published_utc": "2024-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Roundup: CapitaLand Selling Ion Orchard Mall Stake to CICT",
+   "source_name": "Mingtiandi",
+   "source_domain": "https://www.mingtiandi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1Z1WXAtc2puT0EwMGw1NTFXUHhGeXI2YUJUZ1BpMElEa3NFQzhVR3ZRV0JFZXkxM0I2cTBDY3BWbFhET1BnaE9qamttZFJ1MzZ1VTlZNGVtN3pXRWZ0NU4yNXc1VUNBZmJVR2MzVUpLNWVqUUxfdWtTVnZMOFp6eTNhWW8tNmFJYUVCWW1MdjlhejlNMFJpRHAtQVRYM25tNE05ZDlUVlE?oc=5",
+   "published_utc": "2024-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

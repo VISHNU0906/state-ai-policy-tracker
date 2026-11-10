@@ -1,0 +1,53 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Here is a ninth-grader from Madhya Pradesh who built an AI chatbot for healthcare",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjNybmtlNWI2R2w2aExWbW11U2prYjNfSGNmQUdFMFRDUjdnRWVhazBjZmNzRmtsdWRnTnY4UHBycXhKQ0pZc2hZbldoLU9ZcUJZQVJHcDhHcXJaLUZJNktMc2l1RmhGYlkwcG15SGM3ZWZ0ejlzUVZpbnBnVUpnSkxJWlFBeU95WlJESHRMb29obnlTWF9DRG5kSDFHZjNsSmE5azNrTGpqeWlCVnp1ZTFn?oc=5",
+   "published_utc": "2022-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi To Launch Madhya Pradesh's Start-Up Policy Today",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0pobFZNZ3d5WUlwWmNBbHlyYThXVTI3NUFTcVEtUUlBejM2TEphWVVWRjFMcTgwSjBtQi1TQ29SR3cyS3pqejNEd0hXVm52VXdLdlRYSC01Q3ZjQXBQZ3paV1RJRFVlNGNTcUN2WnczM3dZMTRYOWRsbWZ4ZlZhWlpNeXd6b1RnWUpLZG9mNWJFWVk3eVROQ09fRQ?oc=5",
+   "published_utc": "2022-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SC Criticizes Madhya Pradesh’s Policy of Rewarding Prosecutors for Securing Death Penalties",
+   "source_name": "The Swaddle",
+   "source_domain": "https://www.theswaddle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajEwei1PenR0Sjd6Q3NhUXFxWlZYeWxBdHpnV1B2QVFodjBDSm45LUhkdVBzVWNSSG1SeG1VWm5JRzJhTVd2dmdSM0VUcFRvSUJabVVmUkF1LUh1emNVWkl2QXMyNFd6akdabXQ2WTdWa2dPSWl2d0pRVmlRbll0ZnVQa2VGVG0yQ3Ftd1ZWSEpJQ2V4TU95bGtiQlE1TS0t?oc=5",
+   "published_utc": "2022-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Jabalpur Airport To Get New Terminal Building, Extended Runway Under Rs 412 Crore Upgradation Project",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbXA1dnZQRmZTMDZNQW45RVh0TERCNkpyYnVZdlZyaEthQm9yelA2d0JEMWxrNVQ5Z1YyVVFFUlc5RDVLbm5WRHo4aTVBTEFxZjJfaHo5bWdUZVVmbjhWREk5WmZVMFFoMVdHMGNzWE5qREJnM25paXFDSThLOWVYeVo1WS1xUkgwc0tRVDJWbDZ4ZC1WTnIwQWdLNGpwaW10ZHF3Zm5OSXZoc0YybWZENXpMNWJhRzB6ZVBJM3ZScWx6M0U1OVJDMXVjUktWQ2VWRUR0RTl6TjVENXR1c0xuVHZiQy00YUhRSnfSAfoBQVVfeXFMUFlTSl9vV0tGX1dyRG9oc01NUERJcS1uR1pHOFlEUXlmVWpTanZVRjJUUy0xcnZlRXRHV1VXUWZwQU9id1NCemFHWl9xaGxyVmhDLXFfUjdta212WHFBQ0pIUGZWWndhOUZKYWdfWGRvNk1ZRTliMEhyWDJreHQ1SmhYYVVsbncxZFdhX0dhNmtEWnVwYWxlRnBXWG5VMkV2emdPOEdrZjBNQnJqWHA3VlYwaXV0dEotUXhxOThoMEVkUGx1U3RWUktPYVUyYkxROHVyT2RRUmhnNVlFYUhZTWpaT3NMdHBTd2tLeEgzU1VGdjByWXl0NUtXUQ?oc=5",
+   "published_utc": "2022-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In Major Haul, Drugs Worth Rs 100 Crore Seized In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHFza3puOG1qT0k2cm9jVGJCX1R2QUxQM0RDc1dpOVZ5bktkZGJXZ0R0dUtRSFZfNnlyaXZweTBjSW1TVkhWczNyS2FNQ244LWROcWt1cHlLUnBIeDdrOEVrbGhDUER2dzBXOHIwaEpNU1BheHM0U0FrRHFpOEpwbEYwQ1N1ZFpUM0FBazVRMXJLZ20tMzB0M2ZQVzdnXy10cWJCMXNB?oc=5",
+   "published_utc": "2022-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Credit Fraud: Rs 700 Crore GST Fraud Unearthed In Madhya Pradesh, 5 Arrested",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEZQSEJXRFdidXlaMG1CZEZBU2V6RE5HU25vOVUzWXdHTTR6ZVJwLVdVZlRnb1oyQzliMFdja0xabmpLdDJmeFJkODNqemU2Q1VnZ3ptX1dMZ3lDNXVqS3NjOWYxdDVPTTVYeGNwc1hiZFlhbHJTOU1UMy1JclhEQjhXbVlRc1ExRzN2Sl92S3FUTXRUa2dQdG9zckZTNEs5SjkyNElR?oc=5",
+   "published_utc": "2022-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

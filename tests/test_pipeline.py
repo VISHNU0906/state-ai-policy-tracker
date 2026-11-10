@@ -110,13 +110,19 @@ def test_date_from_url():
     ("Why Kerala needs an AI policy?", "opinion_or_explainer"),
     ("Congress slams Karnataka govt over AI policy in poll rally", "party_politics"),
     ("Man arrested in Pune for AI-generated video of minister", "ai_misuse_or_crime_no_policy_step"),
-    ("Centre approves AI centre of excellence in Odisha", "central_government_actor"),
     ("Kerala startup raises funds for AI chips", "no_government_actor"),
     ("Delhi govt launches AI policy", "union_territory"),
     ("Karnataka, Tamil Nadu, Telangana race for AI investments", "multi_state_roundup"),
 ])
 def test_relevance_reason_codes(title, reason):
     assert relevance.assess(title)["reason"] == reason
+
+
+def test_central_government_steps_are_kept_and_labelled():
+    a = relevance.assess("Centre approves AI centre of excellence in Odisha")
+    assert a["keep"] and a["central"] and a["state"] == "Odisha"
+    b = relevance.assess("Odisha govt signs MoU with Centre for AI labs")
+    assert b["keep"] and not b["central"]
 
 
 def test_social_sources_are_dropped():

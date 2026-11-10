@@ -1,0 +1,61 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh to use AI for recording attendance of school teachers",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0k2RVQ5TnVlTF9KcXA5ZlZLMEF4UEd3R1RfejJzSHdlNXBGTmtUUG9hcUlyU0g1RVJNU1owNE4xTEEteVJmcnphalE1SlZFTnYtMTcwVF9EZjB5TWMxOGh3Z1oxV0tuZHFDNmJUTWQ5U3E3M2E5S2FFQUtlVTBEUTB1MEg4Q1VwX0VXMm5OR1lmUVhCRWpUTGk5Y08?oc=5",
+   "published_utc": "2022-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh tenant farmers in dire situation: Study",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTJ6VnpSNDJHRXNYMTVJTUhrN0tBYXNnS1NNRV9BTGFQRU1ocFFqU3FSZUdyUjk0SFZBVmpVai1NS0ZCSXVIVHIzemZnYTgwZk9OZHphN04zOHhfREFzTGlkUlFYZndoX2xWSTlwMGpPMTlackNQYVhzOUZsSW8zdXc2TnBpbFFzd3NxOUhSdlNNdThTUjZTNFRLSGFlelFYaFpJc1JvSXZOVC1R0gGyAUFVX3lxTFA0UENINVRnYzZ6U3h4ZWJ3QllicFFERUJVWGNQR05MVWFHcTB3VS04T3FFbVYzeEdRdTh5TXBSTWhNUF9UNUlCRFg2SlVzVEowd0p0NzVkWGVheHZOdU84QVdYVngtTUt3cVB0TzVsUngwcktjVktEZU9JRWJadDZMYzE3a2pXa1lQSlBaLTdadS1iWmJFeW53eER0M0pYa3JETG5UM1ZISVBvZmwzeXV0c1E?oc=5",
+   "published_utc": "2022-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Vijayawada government hospital to go digital under Ayushman Bharat",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbjNma2hSckN5Zk5vTnF3eFMxNGlnRFNZNlZqVTI0RnhHcUNuNmZFNzkwajFsWUIyblVqTEdFanBCWkFydkJlazlsVlNOMUJOVEFmcWt0Tk1OaHVuNWJkT0xBMmdEM25yRmRNXzEwV0FiUjltakg5NHc2WDhwWU1XTnFQcEQ5ME5sc2kzMmIwWmpXS0JOZWt4c1V6VUpRS0hfVDhqN1Nzci1QNC1xd0lMc1RjckZISWdUZXcwTjJTeHRTVnl0WWJxUEM1bE1rNElYa1NKV0FCYlVyaW94ZnNyLU5ZQ0pLWDFPMzlOdndR0gHyAUFVX3lxTFB6aEctZk9sNUswSm54U0t1QnRhcmhwVUtadjYyd2w4aFJBUDFJakw5QmZTR3c3WjNsNlNkSjB4MFpWLW1oSm5kR0hoVTVVLW96WXJWNllMeHNIdGZiYTNya21YanV3OFJYTlAzdDZmU2ozc3lVRWU1cUt0Z0F2UGRaOE91NDhaMjRoYnk1UHE4ZEl0TWU0RzFpMDN5VVFKc3FmZ2NMWC1FaThTalgxblV1el9WeW9MR1pvanJ2VFloR0xfcC1ZTUFxcDV4UGVmZENNNWdJWGZhTmxkOVctekdmWkNXWjdXczExWUZGMjU4Q19B?oc=5",
+   "published_utc": "2022-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gold, Cash, Silver Worth Rs 5 Crore Seized From Passenger In Andhra Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdFh3NjF4TG0yR1FHZW9KYTRVUTl4RUJSeHgydEVNQ25LY3pFQS1oSGUwTVRhSWlOM0l1Q0pTOFZGc2NRMk95SVZYU2VINVVHQlJPbFRRd2hIVEhVemNHN3B5aGF0LVU1THZSOExZMnI5VXZHRkNPN3ZGcUdqRktqMFNqcFl2d2tpakRBcW9uMnBlM1ZMbDc1WkM1WU1HMUxXTkRtdHJoMTBHcDdBVDVGcnR1aDlJZlR0VkgtNXZjZEFZNmxsUkJnVVlIa3A2bEwyQkNwVDRtbVhZZS13M3ZTcGdJeFFJZkw1WnNRNzhIaWw?oc=5",
+   "published_utc": "2022-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 killed, 15 injured in bus-truck collision in Andhra",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0NyTmluVlpiekIwRHZPQXNQQWlObnY3aDJveE5CYVdTM0hpWnhldEFOZTA4RGFkcnQ1UWhUc2NLOXE1ZFk3Q0NjbG04cndJSnlIcGUwWWd5YjVldVJlSTJMRkRrTHFBSllCSHN6S05yVjQ5YzQtckhKLTVyMnF3d2xOelhnQQ?oc=5",
+   "published_utc": "2022-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP revises Intermediate Exam schedule avoiding clash with JEE Mains",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFdQT0JLTjVBblpXTXFON1gxVUUzSHhNT29tVUxINWQ2SEEzTzFGR3hCUGwwLWl5MXozUW5kWVNienRCNnlsWFl6M2lrc0tiLU92RW1CX0xpdkMzZG91UUV5LTdSblRzRTR4dHRMdGtlMTRIS0hpd3czZ2lsNVhQQ01qSGwxMk1OR2tfaWtENTd5aTZwQ3pYa2YxcjM3WEJfUHgxdGFrTUZlSFNuX0VJakViVXhYd0xLNnpPQzNfSmtFZV9SV09IbjhzbEJEZEXSAdQBQVVfeXFMUHRUZ25YOVo3NlJnMGVrLTR2T1JnbFBwajhabTE5Zm40TEc0NVdja2hBUnJmM25zQ2RJRWdrd3RXeU1zS0cyT1gxU2RNdlZVZFdWWXFrVkU2VFprV1BwMC1ZS1FfOUtsQ1JSMzRwLUR2eUtQd1lmOTBOcmtuLUxsR1Q4VmlOX2hMUnUwVXdGUWRsZlM0VzJ4aTNjRklRRHVWRGwwbWlubEw0dzFBYUNsZG1YQlo3aWlqRmhUbGZkVFhHTDhUOGJBQ0R0cldfaTBRZkVZZXg?oc=5",
+   "published_utc": "2022-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP NIT director CSP Rao suspended",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlZvOWZlTVpqTVd2LXdEanlXV2lNWjlleFBXekxlYjNHYXROZ3lucHNrU2pHSVJCUkxFNThzZTRNZ2xacW5YLTVTc2ZZRVBDUURXT3hwTjdBYnhTRkRiMEgzTDBBMS05QmpTakxlQmM1MmJvVlJhenR2UEgzaklDTE4zWFdZYl94OHB1NVRRc09LajBP0gGaAUFVX3lxTE01eVotaEF5aVhNN0ZGczBicjBqVUpRU2Zad0oxVmQxeG83NHhlcGwycWpjUFB3NkpLR2hnYjNuQURybzVtOG9NRG0tRERvakQ4NFJKZHhTeWJuUERpb3dXcW14MVVYZjhabkJJWklQTnNvYklLZHJOdm1HWTVWYzJ2LTJ6MzBmSGhKNVIweTJhWWR2RERtS202d3c?oc=5",
+   "published_utc": "2022-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

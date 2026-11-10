@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-10-01 before:2024-11-01",
+ "items": [
+  {
+   "title": "Maharashtra cabinet gives approval for green integrated data centre park",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmlXS3J6VEJUSWJJZ3kxQlkyY0xnSkh1OGhVejgyY2FrT2FSMURSZkVhOEZZVmZqTjE2dFc1X3NQb3cxZHZHSHRtTC14R21xYklDcjlmOVN6bEtDbzdCNWxtams1THZvN2ZyTy1CWHdrMXU3VDZnb2hBMmsxVFFib0hDRVYweV9BQXlxU3MyVDA2N192ZFU0dER5VWFLRERyTEJyQkZWbloxQUVRRk8wR3Vnb1hUYmxSVHRuRmV5MkxRSXNSVjB6c9IBzwFBVV95cUxPZ2kwRFN2Zk9nTk1xekVwUFlOZWViT1FzMTQwd2NUU2hEVng2TXlrdEZDTzh4MmFPdE1CWldUVlJ1N3QxV0ZsdFppM0t0eTFwTDVxMFE2R2RWLWkyQThWM2c1dUl2QXQzaHBBSGs1NUJJS1BtVG96QzlPQk9JUjJrTmlUSV95bVkxNmRabi1NOWJha0FtYWNJQnZsTmJjY1NEelFMVFRpeHcxc0twWm1peC1FcGlSeGFKX2tfRHF5T3hDMi0zLTJKTFdpUkozZE0?oc=5",
+   "published_utc": "2024-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Scams Surge: Voice Cloning And Deepfake Threats Sweep India",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWU1REdJcWtEQnU3X2dqbDlDNVROaEZDTmp2VlpCNXoxS3NzQjh1S3NUT1Z2Tk9SWmI3R2ZjcDU0YVEtTnhYSHgyMkFaNkdXNkFzUklHZ2lnRTJuYXZPWDJLdk9aTXFQVUEzWDY1OW9XVHJ0RFZPSDV6RXU4VG91LUYwanNJdDRGNGVyLXlLQmd6WXlGVzU4d9IBoAFBVV95cUxPVm9BSVJ0UjF3dU1nbk00RzFtYklWd1VrWksyd0wtbjItRmZjRFBiNHpwdGtlejNaRkdVMVlZTUZveEh4LWdWT09EY09oc0hKWDlWMzZYWUtJUFI5c2R6ODE2ZTg0dWFSRHQwZW85WVE2THZSZ01yN1ZDTTBYZTBfbEo1eHNUREJSbGVUelRoRElfZDRDU0hxdVQyZmZmM1ls?oc=5",
+   "published_utc": "2024-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

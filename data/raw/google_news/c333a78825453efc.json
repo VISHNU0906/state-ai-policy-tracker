@@ -1,0 +1,21 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "India's Digital Revolution: Transforming Infrastructure, Governance, and Public Services",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icG9UWlVNbFJ4VkVidHp2UEpqNTl4eXBLRFFxUWMyVDZrd1JBbzdkMU4xUS1zd0JQRTh6YkJzclVSRHdUVW95X1J3TGpwaG1uWjlfdE1OOFZ2NC12UU1NWHV1a3lVcmVk?oc=5",
+   "published_utc": "2024-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NICSI's Shastri Park data centre power outage disrupts several govt websites",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSi1XbDdjODJvRXN6SE1fOG5HWTEzYWNrVVktdWVFYTJqZ0MzNnNPc1AxTWtnaU9nM1dFNllVaXNmdG5NcXIxMHFNWV9BcGExQmxoZnF4NHZTM2pnU1V5OUFJdlJaek9GMXRlLUFSN1NHaXlTWmVWbERBMFg0cGxFODBsWWVTbU04Z2d5UlZRcmVkMmh4S3JSNWIycXF4Yk9LMURPbVgxVFlNZTA2SXJPWVpfQTYxZUlxV09sc1FreVl3WWZuTURnMXlLbC1nX3lrdVVEMnpUMNIB3AFBVV95cUxPQW9sVHA2bnoxdHdvcmM1NDJpZHk2UXZGUVlWQlN6cFNCU0RkMFpoZVpmd0t4SExYcTY2eDlPY183dExkZzhIZHo2Zm5fbno0T2Z5RkswTDZNNzBiNFQyRkh0ZGlwQi1UWTk4Uk4xUFhSRkMyMS1Ja0lDRlRtT1Jhd0pYcFdQM25FTVZoRVJ1Sy0yR2JfbUxVby1EOVBLbjEzQVNQdHc0dnJsRXhENnlieWt0amgtZTQ2aUtHR3BsbFgxVEtzLURRTDY1U0xhRHdZOTBQLUk1dHUtaFZE?oc=5",
+   "published_utc": "2024-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

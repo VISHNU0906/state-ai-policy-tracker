@@ -1,0 +1,37 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Burhanpur Textiles Ltd. reiterates investment of Rs.297 crore in Madhya Pradesh",
+   "source_name": "Apparel Resources",
+   "source_domain": "https://apparelresources.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFpjeGVwdzNRUGFmbFU2M1Q3WUVKSDdtcTVYT2w0NzZ3MXMtVEdZTDhDa2RRUGF4RW95ZFIyV0lPalBNRDNSNDMzdlo4dkdMSHU3dXhpeGwyN1lZNXJHME1VN3p3SFBwNENTTkRUbGRYeXZkVDFEbGN1TVNSQzhOWFdHLXhOcGNKcGxJMGxJdkxLZDRoM1RTdkEzMXJsTFBkdUVOckQzQlo0aGpGMFNlZ1NrSV85Q3hfYkxn?oc=5",
+   "published_utc": "2022-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global Partnership on AI (GPAI)- India to Assume Chair of GPAI",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZXdON2V0dUwwZnNFU3M2VlAxRXNpWHlzY2pQOEpmVGRtbE9QOEtDZUQtSWJ6YS1fYjNBa3BmTmdfMXAxLWthSWh2TE81Z1F4a05PUkdudmptREhXaHJfVVE4ektFQ3ZUS1hyak9UVlVLZmtxTm9rQVl3?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Barauni-Gwalior Express derailed; no casualty reported",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHd5bUxrNENRWERQZmtXUEprbFR4ZFlha0JvQS1YbEZ3Z1hPc0ZCQU9qczV3RThHUVZXT19Fcmg2bUNaam01Nk1zZ04ta0l5NHFyN1ZvanNRU1FJU25iT1FqblhCaWVHa2pMQ1FYVzNCZnhxUmVpdWxqRTQ1R0UyZElWYmNURVE2cnAxeFYyT05KTjlqN1RrN2NvdkdmVldTcS1hekNxZ1JXbHR3NEV4SnRKM1dZNlZLaGhBTUZpalcxLS1WMndRRG9yMm1iZi1yLW92eDVCMWFHZ3E1N1h3MmlCVFN5WUnSAewBQVVfeXFMT0FVOWZ0NGJKWmVCOFJZRXN5dDdNT2FtRGNoZkZUSUI1ZnNWNFFCYkFubFFMc2J0aHlFUnFwcThGeG1yMGd3X0FJT0FKaUlFNF9VR3VsSFQ2NnBiclowTDhsYjNFRWgzdEpmUlUxMXBNd01URk91N1RCeFByV3FPVkM2RzBuOEMtSU1hZ3hYT0ZQS0hZdXczdUhTdGpQUUhkZnoxT3BYeWpwUzItVkNRcHF1S1prYVVadV9YSjVkUlRGei1mQzl4N3RrS216ZXdzbkNkODBjaXZLUWR3eUpFMFFhR3Z1LVg3TnNsRWY?oc=5",
+   "published_utc": "2022-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Earthquake of magnitude 4.5 jolts Jabalpur, Madhya Pradesh",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTZVNDQyVGszNEhqbkEwVDJpaHVXYjlBdkhPUjl5S2t3QkRUT0lvVHVaOHpVcGw5T2puaURhaUhnNF84ZF9KemhaSVVmalNnbTk2aExQSERtRmtWdGw2b3FfNkJpTWljNm1jdDJCWE1pSnpYeER3Z3dkb0Nqc2VIdGhQcTlFQTYtS0ZTSHRvUHRMVmEyV21aT1ZoQjdNQUlRbnQzbmhuT0dJdGFVY1dBWE9yNXBIWTNpRXNuQg?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

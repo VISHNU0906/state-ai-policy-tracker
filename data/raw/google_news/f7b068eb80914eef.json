@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "Maharashtra to install Kerala-like AI cameras to detect traffic violations",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ25nNjRwUzRZczBrQ3l4TzVwSkF1MEVwLW5zeGZMUkRGbUFSdXJld0FWd0tQbFV3V2k1dW1DYjJJMUM2QjYtdW9UdmpoYUFqS2twQlhxM2JjNEN5V2Vkc2NtNG5yVmtpR0RQY0pNdlZKSk1CNmlYTFVvX211T0JMQTRFcjMzQ1o0NFRPSUNfWFVkQklKc21yZHNDMU1XNUhVa19JaEpNbW1BQ1N6c0xQcE1ZVUxwZWRsZkJtX0owcTNscXVId0Njby1OWGtlNTNBak9rUNIB2gFBVV95cUxOUl90TXNaM0lQVUQwZDdBdmdBOXJtejA3TkNlaW5EY09DLXg3ZlYxT2x1a2pmN29sVlJFYU1BdjN4YkxEeTducUk4QV93R0stMlJla2FLcTZFWDdCZ19rcjZPYUVUVFZCT3B6TjBmeU9Bd1BxUk5QU0h4RjZ6V0s0V2JnMFpLVUxORzNoXzNURVlQbEY0QVVhLXRVYjAySm1TNWU4U2JYZHJVdi1CdzRqVGZOOGdkMDIzNnlFOS03UHY3RTRSTUl0U2ZaSlM1bGRWeFdiOVpqN3Z3dw?oc=5",
+   "published_utc": "2023-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Five Key Infrastructure Projects Advancing Under CM Eknath Shinde's Government In Maharashtra",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVjc3OGxhNXBpSEdrQ0h2eDVFZ1Zodkp5NE5rY1BYVUNQNU1MQzVKZ0FUX09MTVZGcVh6RFB2Wng5TDZVQmgtZ0MyZzBMTk9aZERmRzAwNzVNNVdZYW42VTQzM2RsUVlsUkoxT2tlVHdHNkE0czJIOHN3b1hZMUJzNXl1MEVzcWNHbng2RXdyUG1EeXpaSVdFN0d0VEdlaVIxWl9zU05HS1plemJFNjN6anF2UVUzVHVuVy1mVUdqbG0xcTNYM2k0MEdVY9IB2wFBVV95cUxQcXAxWHFBQi1fTzh5azVaTUh1RGlWdU4zcVFFTExpUEd1ZnlqWFBzVEo3TzhpblhyVVpjZThGUlNWbUFJcGRETkJNS05tdUJpX2p3LTlEcy0yWnppU3l0UFRUM01rWGVoWnczSmwxUGh6T2s5TzVzaDhobzFGV2ZXVFN5UWxEVWFEZVhLMzYxMWVfNnNiamJSdHBWWkI0NDlESmUwTXNJVWVGR1IxT0dRSmRDalJkNjVia2ZESnRKcXNGTm92ZnhIQTZzT3V3OWtFRlpKWDFPdlpORTA?oc=5",
+   "published_utc": "2023-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government sanctions over ₹6 lakh for translation of Supreme Court, Bombay High Court judgments into Marathi",
+   "source_name": "Bar and Bench",
+   "source_domain": "https://www.barandbench.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUGEtb05xbmotSkFjc290Y0ZRM29YeWQ0cW5Xb0dFTlhhczlJTjJxQUVXVkMtNnRIUm05UXI4Z1BWMGwwMmlVV1lBZVBuUkNCdGRwRU1aR0o0NmxQZTYtaDJhc25TUHVoRkdLM1RFNkRqT1BSdW5SdTU5aVhUVnNfWGZuZ0ZOWDBzanA1N0ZvYV9iS2tGNm1kOGV5di1yd0xrczROdjEtWFZCclc3RmFhWTFad2dMdmQ0LU5jYUNlY2prQkVqZTJNMDg1WXRkd2xIYmZUVEh4TERuZC1qR3ZyZVpvbGJsQdIB8wFBVV95cUxNa1BPMmJROG0wNTlQUEhmdXNweXNrbHJ0bjlpX0lhNER2SXhFTkhoRG0xTExOQ0VnVS15MFo1dVIwRGc4RFNqSFM0Zll5WllIenNqdHlid1pqZnFLVXdHWTltY0JTQWF3SC1CSWR6ZmRaYnhZdkw1aU1UclpnbkR0M05zSEtfQlBTa2VxZ2QwcE9VTVkzWGp1WkhDYW1Na29MajJDa3dXSjl0ci1vOTZFVTlkRWtvSEo4NFhSeWZyWllPcG1EN0taQ2xYcWttcmRaQ1BFdGlkaTBld2NXbVN5NjI3NVo0dUtna0JRY2haRlU4VUk?oc=5",
+   "published_utc": "2023-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI backed SUVAS translation tool intended to make legalese simpler, court proceedings faster: Law minister",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOV1g2VVl5d1FEM3NhWEpRU3UxS3ZnZWk3WGhGQm1FeDc4aFJhdlFIbnRCc1AteTNzenRYTWFWbWFkc0laT2FLeUVkVHhzcGFQRngzamN0NURoQklKUm1UOThvLW1PTTNOQmdtZzV0QmNSUXdTODRJQUFWdHZsM1FUQk9aX29yNkhQUTQwWTdYQmR6a3hnRFhvbldMN201RU1waWFBVzREQ2tYejNQRnlJU2djcHR3NEU0azFCVEc3eUk3Tjk3cTJNSmc4cUZYZHlMbzB4XzczX19RVVM1al9zSFNyS0RlblFKQk1yVkhGdGFJNTdzUGMyNl9zbUxJZF9pSnh3YThKVWFVUdIBjgJBVV95cUxQOEdyRE1JUERCSENIOHhKR3FSVEFHTThxVmNQeE9nQ29FYmFGM3d3a0xOYmF1Z2xDNFpkN3pmOWhIa0g0Zm1TZkFGMHQ4Wk92cVlJRWowaUplRGlrd19IX3NNMWdEbTAtUzhyZEtKOVZIRUJFZkhfR2M3dURUSm1NMHpHWi1xR3FCUHhiaG9ZUVlQbU1RZkdwcVN1blhIWTFRV2Vmb2tSS2NiTnpISVRCUXVqUFJOZno1VXRPcklvWDlyb1d1aXZBZzZmT2VBcGtBRDRfZ1VuSHJjT2hLNTFfTTNsRG8wd1ppSVNQTktMd0t0ck5NMHJuUVcyRzNaeW1GYjhkWVN3c0FfelYwZHc?oc=5",
+   "published_utc": "2023-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt approves formation of anti-narcotics task force in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSm84ZlhueExyaEtZc2JXRmVhbTRvSm9nT2dpNlY2aEVhcDJsOVd3aS1la3psdE1heUJPSEVzTk5qbkNXSEh5ZlNyMm5Ca2QxZlc4WHRzanFUTHlsdzNwRlBRc0h0MlhwWkNSUXN4ZjVHMy1BWjkwRFMzV2ZsQTZabDlucnEza2MwS0tRV0dELWNCdWhLUTdFV0FsYVAtaFhiSHdNUkNYUm1pNV9nN2FTTDJXMWdETEZjVFk5YWZoZEVVUdIByAFBVV95cUxNZ1EzdFdhS2xxTG1leExzOWpqLWF0OXRIMl8xLU90bG0tN05XTmxkZ3lhM2pmNF85UTdLVjlmRlV5ZS05cGx6TXlKUmYzbVZjYnNTaVctQzhkYVZGcEV2V3lFQ0xBTE5JcEZtMjlLOVE3aW5xUC1Id3BDaXdUX3pNT2thZ0p1dWVTV28tODFJblFLS0l6b0dJejg1VDhJZnFBWmtPcGNWTUxRX2U4UkZPVVM1ajJoYzJTdGhKaUJ6Qnptdk9SMWhaRw?oc=5",
+   "published_utc": "2023-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"People Who Eat Fish Daily...\": Maharashtra Minister's Remark Sparks Row",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkwzaXBZQnJrQVV6bElqcmxsR1o3eUVhbHBycFdlNGttZEw2bjkwLWJVWXNxN0ZJSXRURmJtRVBjaW5HNEk5VmZlZnBFRW00YlZUZ1lWdmlrcEVRNzZWWXdiWXpYbHQ2dkFwTWplelB5eTFqcnlFTEJGbHVBcTFPRkpUS05jZnVYcUp0SWZtZjdjajNzdWxyYWpUZ0c4eXZ0T1ZyVXFnRXLSAbABQVVfeXFMTzh3ZVFZS3d3TC0xaTBBWTgwYndqd0xmOHNWXzRqV3AyZFpoNVNlVUhlTkNUQ3pLWlV5eWZRU2FrTnNMcEN5ZVRvUnpmZEliY1pXQlVRUkQ1VjcxUDNJMDVPNkdjOEYyLUF3LUx4WmVTb3lWUDdTakNaSTVBUUsxaXBnT2pUMlpZOGlGWHE1ZjJHV0MxNEFoaUlnNDhyTlZYMjZVLUpJYjJyYTlJZWlNY1o?oc=5",
+   "published_utc": "2023-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Will Introduce AI-Based Driving Test Tracks to Combat Rising Road Accidents",
+   "source_name": "CarAndBike",
+   "source_domain": "https://www.carandbike.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHVZR2xmZGw3NjRQS2dFZGQwTTdfYVdOZi03ZDBjZC1SOHVSYmVnTTNySmJNQW1zQTFkZ25OS0pDTDdUYWlWLVRFdUpjRGl3NnQtVHV6ZFJBb3dTMm1MTjhFRURpMlBCU1pmZ1JDT0lQdVpwQXFZRU9tdk1fZkpaN3owb0MzNkZaWUNWRFk2azI3cUhYR2U3aTJlaWpXZVFac1M3QV9RbHM1T3doRW1SSExJYVRSMmw5aUdjMWZBblpYb2Ra0gHMAUFVX3lxTE05aWRoS0hEWGtVc0pIdmk5c1BnRGQwYzF6QjdCbHFWZl9KX0FoTW45c1VVQW01UjFFVkhqWVZVUDBTWEFLLVF0QVA0dXBpOXlSajIwb3BOSjNFQXNSZTdHcXJjNERsLWFJdVNxRUFVekVDS2dCQXQwMHA3Vnlmak5Rc0d1MF9OZ3RxQ3hTbExldmloZDhRVDRBc1ZrajVpS18yZ3cwMmN5S051NzdnZVNVcDE5bjJBMGZteElSd3d4bUdhSm5EcVZWWUdjag?oc=5",
+   "published_utc": "2023-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra issues order on free treatment at public hospitals",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakRQeFdIbDZKSFp5RE8yd2syM3ktZk1UQ1VocThvcUdGREhfenpibVF6Q1R5NENWdVlFUlFEeVc4WXhtVTZBUXI4Q3BReEhHMDJVeG9SNUdqVFEwUUFtZGpVVGUxVjlLZTJMWkk2TGxJRU5oZ0ZOVFA2cDVxUW50U3FGc3V5ZlJrZ2hfVGJYaHVZdkxTc3RHNWpleFVrcVBkcXIwTWlJVWFnTXFNTUNNeGstZWRWdFBPdHZF0gHAAUFVX3lxTE5Obnk0aTAtbjZ5eVN2bDNHUG1QNzJyZC00YVZ6eGtXUmpkcl9EWlBGUm1OLThPNWxDdDVGTWhSVjZKWGQ2N0M4eXRCY1NRc3ZvUktnOGRSa3ZzRDkyTHprUW9LZWxheVgwSFZiTkZDT2N5TW0zeUgybTN6RFpvazJLT3JXZjVHaEMtYmRWVmhTTFYzV2dpXzRzNUVMX3FyNU1rOXlnZFFyVHh3Q0JRMC1jTnZYWGZtajAtdTl4bVhLUw?oc=5",
+   "published_utc": "2023-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhagwan Birsa Munda Jodaraste Scheme: Maharashtra govt to link all tribal villages in state with main roads",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUpidUd6aFV2SDZyNWhraE9UMlZHSXlmaDNHZl8zZlliTnFocENwVGJPS2RrdXM1SldFb2R6MVgwN0Rzak5DcVZ3Um5lUlk0QzVZV3c5ZjQ5dU9YOXpNMHF5bUlOeFBtU1N3NlZqZmJfSmxCTDUyMXJrUVlGdDJKdFJMZTYtS2FheXh4NlA5dlB6WGplWDd3UkdRSU5PNWRtWDFfMm9jUW9wTmtTT1poSk5jQnBQNk9tZTZ4RDhKZ2xHWjd1aUcyb1Z6a0NEUHJhMHfSAdgBQVVfeXFMTUU3eG1VOW0wWWpmd2RiSFhlNjU4SDNtTHpLSmlBaG1KY3p3QlZxNDNfdnNwV1QyYjdpX0ZuOFl3Si1IME10U3RWRVVRbzVna3VkUWVQcmdjLU5FN0lvZ0otQkJrdENXYV9aVW1VNFc5ZnB4RkJJcGVyLUVWcThQRGYyTWtHa3dodHVvM3FPSGp0TXlySlhWbGZjbDNMRXAteTZpczUwcklubGFhdGNwOUxaRENpcnNadGQyQzQyRll1RHdJak9uS1FZbTBpMG80UjJXZHd5OEhj?oc=5",
+   "published_utc": "2023-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI based Bhashini integrated with CPGRAMS portal for grievance redressal in local languages",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlJOVTNsM0ZWbGNweFlnSGtXU29VaE55bFRrSTAtdGxjdVhzeGxJS19UdWs4UXRsNW4xV0xsZlIyR3U2M3NGRnZXZnE0WXpTZnRhQlI0a3NTM1VLZUxTQzVPMFNnejB0WXF0TWg4U2pKMXFlZmpUaXE5SzNQUUpyamN6MzM1WVFDLXJJbnQ2QTIxQmUxX1piOFRocTNpX3NDd1hyclh4Y1lXcEM3MWFwa2psZDRKWWRxRFl0T3pTcktGcTZHODgxZWhrRm1SNDJsT1hXZldHTG9JVDNwbDlXZEpJRFBYbnlmbVh5QkFTcFh1WHhxMkJNSdIB_AFBVV95cUxPS1hhSHBEb3g4ZmVMbTFyaC02WkFGLUtnNHV0Vy1QMDdFVzNqRjZ5M3Q5aTJFbEw1dTlYS0pLQzEwTEdma3VQc0h2UXktODlVWFFWV3B1Y0xNSEs0Nm9qcGhDSkViZ0VUckVHVms4Mk4xbFdKNmI5UktWM3B6d1B6SkhTS0M4Z2hRa01BaVEyNzRaUDh6aU93bjUzblJLN0wzdmM4SkpubnhhMXRTTDdYR2o2V2w3YW9uMzNUMTdfaUpacUI1YVl1SnNYNXZYUUR4ZC1UUUF6T0lEMy1nYzkzeUlDV1R1SzlJV2I0V3JGVHRGeURSeTQySjQtN0I?oc=5",
+   "published_utc": "2023-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

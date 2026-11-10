@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Maha govt introduces AI-powered heart disease diagnosis, care",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGp4UDJfTkxnTmVjUDhPRGhQcVRvcnZjOGlzd012dWpnWWY3bEFKbUpXdGQ3alBKZmZOa1M2dFVqTk5xWVdzTTh4QkpuZFZPLV9zRGt1LVktMVhycmg0NnpKWng2RUxNME05V2xLc3ZrTDhJUkt1X3ZqTnpYcEtNNTRwUTFlQnJMcnZDdlpDYlN0UDNxUnlxb3hRRjlKVXVWZWFv?oc=5",
+   "published_utc": "2022-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra approves comprehensive policy for rehabilitation of disaster-affected villages",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY0hnajhabG9rY3VaM1RHUmR6WWY1eTBNcFBlSjdLQ3BXcHpCYlBrN0s4ZGtrbUFXaDJ4X01wXy1ibTUwQU5Dd3Bld3hNYVIybUlaR1NfdkhsNnFMdWhuS2tOdmhGSTRYQkp4bGkxSmNiQ09PbElsY1VPTjd6aVU4US1YeUh4M0tVV0dOSG1DR0ZpdDlKN2l4aWJaeU15WlB4TGlqRE5ZMUU5T0p3MHk1UFQxX1BzaHN3eTFXQUlZMTNhY0ViaDdVOFpwbFJqMkpuOWhHaHE5LXdlZkw1M1dIedIB5wFBVV95cUxQM3FQcE4wNW5YRXpHTS1pZ1k0YjAwVUR0WGI0eU1lVjdBVVcwdGxNdzJvQURhdDloNHJ6RG1xd1d1RkhkZG9FZGFhM2RBcXVfQS1yQXhCblFWaW15dnlCT3d1eVd0S0FRSGNFTE9lSjlDNkxscHhRb2N0dXU4a29LUGYxeDZZWS1hdmxaclZDVC02ZmtNNkpwcE9ic0FuVV9SRC1QVElsMXFtRm5McmxENDNYbGdGRTNpdlNvY2d0dnM3TUtQR0Z0SW9nOW5DOVV6T2JGbkVtYkliSDVaR3VoSU1nOGJuS0k?oc=5",
+   "published_utc": "2022-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital India Corporation mulls restructuring to set up more divisions including AI, ML, Language Technologi..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRjBUeHRZRi1LUm05YUxPTl9SRkc2Unk3d29mMS1PQlo5Zng4X2xFaTB5VklxLW44aUhhQVZXVVU0eUFPb2tkTmVXWTBSTVZ6dnpJQTBHY0x4TkV2OG9UTG4xMjFNcnNSN1BhM01zcDdVdUVOWWtkY2p3TW1PdzNuRGxiS21QV1ltYndBZ0pyLUxWZS1MYmxFOFlOUjRYLXFOdTZFVHVBM2pTWnRYakJzdXlUYjhKV3VIQkpuNFR5a2ZIT0l5c2drcGd5MmZ2YVpFYnVOMnFlcDZhVTl5Y1FEaGg2YlRZcGxyalgzWlFXV3Uxb0tWSmh5UTk0Wkd1eU1zWXM0aEZhVVVPMXZIZFJiTHpB0gGWAkFVX3lxTE80Y3d3d194STdVLVhmaEMtX3hyZjFRSm90a3FtanJrWU53d0kwZHJLYUYzb3RFWkZKUGJFa1RDd04zNDY3eW1ReDN4VWEzQ1E1ZXNiU1Y2UGlvaF9NZVNkY1JHZ2JubDE4clg2eDNyQVBMRDZsS0pVcFctQW5TSW1xT0RyMDAyZjUwdW1RLWdoNFR0bVM0T0JCOEVDN3dySjF4RUlUaG1UZkNyN2pFQWZxdXdzSUJRcGU0aXhrTkc3bVZZdnpfWXdjaWNuT2x5bFdMeGhDa1dhVVBLek8wd3F4NldVa1N6VUxTOWxuT0s1aGlXcnlaeUVCaVkwekl5RVRreVNuRXZ0MU1VZ2EyTUVHdkpfUzRn?oc=5",
+   "published_utc": "2022-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why the naming of an airport in Maharashtra is a fitting tribute to Nath Pai",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaThtMUJfZXlJNTd2TTlpR3Y0Y1ZHTUFvNnQwOHloLWJ1RFd5MkZvM0hYR3Voa2tpUDNINlFENDhpVHI1enBHdlNMd2VieWZMUWZxSWxHdVBxZWNISXRRbWk5TnR6TFpacktaUFlMdXp0b2tXZlFWZnRaR3BGU3duQXlzcWRjdV9RZkdCNWtZamtCNllJRTQ5UjUxQ0ZmSTJndjFicjd2a3F3QlFkdFRIcGlNTW1sck91aV84X2xpb1dYX2g4TFM4Q1p3dTl0SzBIWEliLWVDN3M2ZzRLcjB6RdIB5gFBVV95cUxNVGFXbDVlNWNrbXB1Qml2TzlaQi1VZHFPbHBYTjUwUmtHejh3SUZSNk5naVFFTzI3Nk1YcXQ0LXdmVWE1ZGRodDVQaDFvZk9YMC1jWHlrQnNCQV9oUzlnTEtlS0J0Uzh6LS02X2ZIMHNlalg3WTJnbzVkRUtVX3BmWHl3YlR4R0g4c0x2X2RldGFwMDhHbUdJRm5OUWFqM2N5WVVhV21HbFdvU3JYcVlzOFNfdjdfZWFhOEtRWTh4dDhwYzdkTEdLblpCdnkyNFlZQWRzTHVCNjhzbXNwRzk3LVVxd1Bkdw?oc=5",
+   "published_utc": "2022-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI helps save over 6,000 at-risk heart patients in Maharashtra in past 2 yrs",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZExTN3l1MElram1SeWlqY0ZsaVRBMmpYOGNOSkNnU1Fsd1FzU2ttajd1S3dJd0RUTG1PRm5OZ25kVEY1YUZhWkpMOS14bElMbF9YR0FsREJWX0ZXbGVPV1l0M0pfOW9Kblh1OUZhZjlqVG1faV93RVNzRjh4S2ZJUjhHYnBrSmh6VmpkVDdBX2xBek0tb293cXdRWVR6M1VVSjAwbUN2c0Eyc3NPYkxPX0JJcGgyUnBqb21XZENFeFJYWHcycmxWdGo2M2NZcHNi?oc=5",
+   "published_utc": "2022-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra demands mass vaccination of cattle to control Lumpy Skin Disease",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS05jVmt4ME1NQVFYaEdxQ2ZHb0owbUoyd3Y0NTV1Rjc3Ukw4eUdKelh5NlNpQmQ4QjNva1R6VE9yRFBfbWZzQldsQ0d6Q3Z4TUUxV3ljODJ5a1VKZUVHN2hZbGlPV1JzWWo5VjRCa2tETmRuV1pxM0E1X09zRmN6aFYyUFNQS3VtdXp5ckxVR1BqeDNGQVd4VEFGUFpreWJyVC1EWU5LMFAxS0hBbHNxWENxOTQyUEcwZ0RabklvWTRzMXVENlBVMHhrSVJta2wzVldWTnEwTdIB3AFBVV95cUxPZmlHbmt3dUUtZUVTVGNsM19DOU8zYzk4Z0R3eWJvTHFQRDVuNmxaT21fcVlDQ1VzSV9kdEVLM0ItbWtnTUVJTVFhVlVDRm50aE9SSHhXbUQ5c2pOYVo1ZnlFa2pIVFB4LUU1WW1yd0hzZU44VW93bVB1bmdFNFRXVUVFdGwyM3hCQXJWVXBIWDh4Njcta3F1R2Fab1h3WXpmcTRSdVRtMElUcWNHZDc0cVRfNWFmV2xROGxGRHdhT3l6STU2M3Ffb1R1aHU1QVlnRktPekVxbXJGdDBC?oc=5",
+   "published_utc": "2022-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mission Mumbai 2023, Maharashtra 2024 on Amit Shah’s plate during city visit",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREJ0bk9GQ1FoYmI0bHNLQ2cxcDN0SHJPVnppa0FFM1lTU01hUTljUURQUmhZSDJ2cFBkNWJvRmw5ZE1JUW5tVnpwQ1FEY3U2TFlNR3FmMF93dUVCemlWOHFJbExSLXlTZjgzR2hreEhCY1c3TEYtd09YYmg5ZXF1TlZnSDhCRTU3QzZtd21rUEY0ZldRZ2ZQS2dQVmdhYl9sU1NPUFdabEd4cENwRnNGd3RORjR4Z9IBvAFBVV95cUxQQ1F5TGo3ekRVS19mVGNqcE54MFFUMjFTeF9vT3lKVmJLZS10VXd5MDVoamR1OXpWSGhUUmthbDUwSWl2Y1JtaFJScFRIdURZTC05RUR1U3VOZTBlR3FtaHdmeDlUeGE1ckxFNktYc1hsNWVkbjBSTTZNM21nZWhaN0UtVUxkekM3RzFtRzBCM3FSTEhsNldPdE5FUkZIRW0zeDNUMHphQ1IwaGR2OW0zZ1hGNFFlVFlMa1RtWQ?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Condition of roads under my department extremely bad: Maharashtra PWD Minister Ravindra Chavan",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUVRTWtvRzhUUkxjaVNiWms1cU16ZFhyTmtzeHlESGljQ0xYTlAwMldJNXMtc0VGZnlwVUd3SmFTQXVHbE5GY0N5dFBaclRuNWdxVXZWUGpTNVFLbUs2ckNDcm5RMFNqb014WlVCRWx3Z1hGcWZiTUtXeXJkWDdGTVQ4eHNkRzRRYXhyeW1WWjQxclNFOWs2TDVrVnllbDVOdVpsa3F4bFlabHNoWTczc2JNcm81ZEpCa2F3Q3Rra2Z0N2FKaEN30gHOAUFVX3lxTE1TZXRaeHVKRUZWRkxxd2otaURzSGVMNF9rM1A1THB0aUxxSXhWUC16ZjBqVDVCVF9OYjJIeS1qNk1HemFxVzZZZU5UX1plM2dHR2JJaDBwcjN3TWNZQXhsSW1jYWQtOHdNQ1ZRV2xCaDZpR3FITjFTVGNzZGRFeDFvbllPdVpOMHlZTE52dXB0VEdiaXhjcHVCVlQyb3hCaW5tTEZ6UmdkOW52eVRmaGIxVkdGR0ZxTVhIRVlJaWRIWGdVbDFzT2k1YWxGdHZR?oc=5",
+   "published_utc": "2022-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Vedanta-Foxconn, PhonePe to exit from Maharashtra, will move to Bengaluru",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXR0dlZTemRuVjBrc2IyaFFySFNic28xejNQQlJnajNwS09Ib3gtMk5FQ1RLb3kxQ3BwRTFBM1IyWHVZa0NKN3ozZEJVOW5uVDczVFEzQi1zRkw3MkhwMEp0eUpSWWhEM1Vidkxyd3I3MHVGZDRaR21MVnBzT0w4dzQ4MGNRaEE3SHVOcVdQbDdLXzNyLU1XLW1ILUo0ZEFLNXJnS2ZfN2NsMEdyaUx3QmFlRnpaWDNZQUHSAb8BQVVfeXFMT3gyNklyRVgwSHcxU2Jfb0E4X3dEQ25wNkNKUUlSczlMNktma0g0blVtRnlHaDFtYUt2UjV6b2ZSb2JBampuU0RzaVd2WlE3OUtZSG5pQTlJQ3ZsbHBJOFV1T3o4ZkwtVUdZYXJMZ0VxQl9MTXUzYmJZbS1lRWNLb0k0RHdyVGRSMlo5cTV2U1VXYjdjSzR3VllwZE55dnVVb01McnlUY2J6SHJtZGxsTmtIcl9zTUsybkxuTW9ORHM?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government to bear entire cost of treatment of cattle affected by Lumpy skin disease",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHNCTXlSNnhrLUhrMGJFZkVuTHJJenlzYWdJYzUwSGdVWjJYQ0o4QXhwR1owUVhSSTlBb1pFUGtqNzZYaFl3ZDQ2Vk1HQzMzY3JMWUZvOC1KM1hPRzhMRTRHMUhkVE5jR2dwckN6d1UzMnlmZWZkZzlkTm5fZEM5bU5nZHlFU28weThxbG81cXJRR0FvZmd5NXpVbU9LTWJWM0V2eXR0NFg0YUtmTjJfTjBYQ1g5UTF3V0lQVVhKaE5sQlBUeXB2QzNROHJlYTli0gHWAUFVX3lxTFA2RjhKN1ZZOXVXRjU0SUNxUUZVZ0gwUEwwUUF3dFQ5N2VqUzJ6Q1hxODhoNm9TR0pRY0g4UnBEOGd2OEUwdGdac3hyWFdnWkdwLURYb1E5RVgwVWtSY1VwaUNoY3hTUHhWNFJlZDlMSGRHRlBiUUozd1lDeXFEelRZRkp4TG1qVnNVVF9hSEptWFN6YW1lLVdHczNsdThQTW5ZU3hqQy1vb2ZTTkZ2ZHpFaEZEQlJUd2M4bXF3bndsWTJfTUFLY3VBYXJWaml3OWNuM1ZFc0E?oc=5",
+   "published_utc": "2022-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

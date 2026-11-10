@@ -1,0 +1,61 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Kerala Man Loses Rs 40,000 To AI-Based Deepfake Scam: Here's What It Is",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVENQazlPbkFZY0J1eFdJckExR0VkM3FBVGlLaW9XRnBOY092OEF3VHlwYVB6LWg2aU52UGJ4Q1ZHMGpnNGxoT1ljZUMtQ2RtQWhlSUJocHFFWUpqekdFUi1kcXpackRKcmFRR0x4VkQxMF9iZzVtcmZjM1ZhTXEwZ1NHckNUalV4ckNxRFNJdzlubnJ0MXR2Z284SjAyV21vMGY5RHFpYlFvaDJwNFHSAbYBQVVfeXFMUFpNUklKdG5TQXRtaHRiazZ4R01fSk1DMU5wZ0tiOUtjRU5ZczY0VnVITEo5U1BITWJtTFlCWUVxeFRZaDBXSjBzN3puNHVwVUZXY3RuaVgwNDA1akctU05Ob0w0d2JOQ01SMUV6dHQ3clZtUGhpX1BiSXJrTU5feVBhMWdZWDN3amRpR3U5d3hxaFFCcS11OVpIWGtncHFvN0I1WlVHZEdpeUlGQUZBZ29iYlEzQXc?oc=5",
+   "published_utc": "2023-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Scammers use deep fake tech in Kerala, dupe retired Union govt employee of Rs 40,000",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUVluOFBHWmw4QkRhV1ZRRWlSOWYwT2JuZHBSYld4WVV6d1hIUS1UT2dPeDJRMm95bEdwYTQ0SmF3UkFHRlRoaDdHdG9LSDQxN0FJendBU2RocUtKNVBBUktlNC1xZVFvaHhpSk9IMjV5SjdxQ1ZYWmhpdzNKa2NZR1phcnRkQUFsSElLMFJzNU1VWkhGR1FVODl5V2FQaEhyaU1ZajJsS19KZmxhLXB4OEZRUmhZbjV1bUhNaFlENW1qZUhBWk8zN3E5dHVLbnlpTTMzR0JRbVE0VmZhS3lxRlFqMHMxbnRCOFHSAfcBQVVfeXFMTUhIaV96aklYT3hKNDhOS0ZjUjNHTVhaeU1fNXdVbDZzNnFHQ2R6ek01SnJ3WjJIQ0lwNXBMaW5Dbm42Z096aXdjSjdvWkhpcG80eWF5YkdLZlZ5WkNqUWQyMnp4WHNQLUxKekxnbHg4aVVpSXp0OXlPZ0h0SjYwcU9kWG5FU0h0U1BzLTBQMmhicXlIX2RVQ2lZWHB6MGFxazNvU1NkRkg1UzE4VG9TNHY5bmhQYTcyTzZCaDZSN1djbEFRbFVmaGp1dk9OZWVHb1dyS3hWLWxRcDVnNEkzLW5IQl9WZFFIQWZDZXUzZGJLUzNUX1ZOUQ?oc=5",
+   "published_utc": "2023-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala man loses ₹40k to AI-enabled deep-fake fraud | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTVFZYThDaUxTcGFxeXhnNEZCUjFFQXI1NDItVnVPajhOSllNVjFLRzNiQ2hzaHNhMEVVdlk2MEE3Z3dtZlJiUHpWQUZ6RnRfam8xcldOZWZlUlNoZG5fTUgzSE5OVkRmcnhBbDUybXVxY0d3ZGNiQTNRMG45aTY4U1k4ZGd4R3AtYXBKMjFEZE5EbWM1cUluOHkyaG56WUlKQlY3VEhnd1MwYVpfQldyMmE3cFliUXBVWUpOSXVxdHBKS0FhTWtsYmhpUWUwV19KOGl3QUh2WVRmZUN0RHRDTXZhMDFvLXd6czBqcE1YQi1fNDFqenYwNHVjMNIBgAJBVV95cUxQeFo5ZmR2N204VUlfVzFYVzF2Rjh5MmZtam9UYTRyNmpGcTI4M1lfZ25RUW0wSDc4U0RIbkttU1dzYlJVemN0Q2tzeGhLN2pwTVhVendKUTMwTm5HMmFWMkJUbFpHMzBZRUk0Vy1sbzJqbzZkSWVzRnlhUHdKWFFTRHJLQWRwOXNTdmowOElvNXl6dlRxMzhWS0VxUlcyUnNaTkg4UGJWQjFMQTFkWS1CLXB1RXQ4dk5TaEVfdUVlaFVXWkdRYWRCMGVJMk9LLThOYXNkR28wcmVLWWRSWE9JaDZCYXRrb2ZMdW1ibWpYTUxmR3VxbGtVa2lyMUhwZENZ?oc=5",
+   "published_utc": "2023-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala's deepfake video call scam",
+   "source_name": "Brut",
+   "source_domain": "https://www.brut.media",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2hjM2I3NlpkRmpWQjdtdlpha1dhSmx0Zi02MUxwdVNiTm5UX21sMDA0eGdQWXVKSEItU1FqMDVfWnY2Nmh5X0hNYkV1aU02TDRPWGt3Z09xV0E2eGV6NVVla0pLMEtBN0xuREFPb2FoRm1pSDhsWVowT2xXTEhlTW9ja29CdHdTdXVQeHB5ZDVjQQ?oc=5",
+   "published_utc": "2023-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fraud using AI-based deepfaking reported in Kerala",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdU1hM29KZ3lIeWlUdGY4T09uTFBvRHBleFdHVnhnM2l1dV9tb0dxUU9NUEdFVTRKRUp1WTFMUzdHSnNoSjhHS2plbWQzaXREZ0FkRDdDS3pZWDRSbENiaDRPbHdFUm5RM3dRWHNYbUFfVE1fVm02bFBVV21vdW4tVUxfWi02RHhGZzNTdjl3QTVFVDllQUVLR2gxckpUcTQ?oc=5",
+   "published_utc": "2023-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Road accident deaths down by 50% after AI Cameras: Minister",
+   "source_name": "Cartoq",
+   "source_domain": "https://www.cartoq.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHhfcDdCNDIzZ3BhUkNFNkVLWkNEeUJjME00cGpITTdpYTJCUWxqVjNTY3czVnN0emRseHVMSFZfMDczc2dNNnFMdG8wTTNTMk9mclAxbGdSNGtSWFFHT2ZtcWVMUlZURHZhSlB1ZzRiMFRLNlhZN0ZHWkJyRkJDYllULWxGTnNKN3VsdGFhU0NUS2FHcUswRjNpdjI1eTg?oc=5",
+   "published_utc": "2023-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala man falls victim to AI-based deepfake scam, loses Rs 40,000",
+   "source_name": "PTC News",
+   "source_domain": "https://www.ptcnews.tv",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmE1NzB2RU1TaFZ3V1FZZHNVaUpjc1JjN1JmdGg4MWZmMmFsUU9NdXAxd3hOQk84SFVJNmg1TnJiVS1wbXRvVjhTa1N6dEJNWjBleUJ2b0tjemxkZ1RqbUFuQXdSbGdUUy1XQ01CMnV1OGpESWc0eEpPTFlRcmt2UHNUMDJiRHNkcjk1N2Z3VFlmN19BaGZGeFE4QmV5LU16QVJ6bkg0X1N2LWxRVVhlZkRPSHRFUWlh0gG-AUFVX3lxTE5NWVpVempJeTJhWmVBMGdWbzNaLW9jNFZOZnpPeENRNXhjRWlTZDJFdjVmQktTWG5tLWNwTmJGVGQ3bU5UY1l3YjZnam9yckJQUDc3NUZlTHFxN1dHM0YtRHZIbHgtbnN2Vk5XN1UzOElhLTRGQWxUNEZWTzVfcWhNdDJOR1N5UnZQTDdna3Q4V01GekJmOHJkUWY3cW5NY2FmVTZrYXJ0U1dUTHR6OEEzRkllcDlJZWJCMTNzX0E?oc=5",
+   "published_utc": "2023-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

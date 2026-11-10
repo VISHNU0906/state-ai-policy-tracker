@@ -1,0 +1,29 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "After Maharashtra, UP attracts investment for Hyperscale Data Centre",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVRYaUhsazNFT21YQnR0WkwxMDk5TDJhUE9lcVRXWTg5SVJtNmNmNW1NMk52Z3MzNlhQd0loa2dxd2xmQnl2WkNHaVp0ak5ldDN5WEQyOEJJaWx4ZFdLal9CRXZiSXI1VzZ5SkVzWE5abVRMSkJZMGgtWW85MEFxd0FUa0tjTlA1Uk9DYm5JTUNCT1hLRlJ3OTZuQnJmdmxQbEZveHBMWE9keDVvQ2JiVXh5eTJLeW16OVhjc2RQWFowSkZnVm55MzJBWHFfNTRMQ0HSAdcBQVVfeXFMUFFqYUhoenZEMVdmMG41WXhxbExkN2NMTGFuWGxvWUpGZmZuT1NPYVVwb0VEUlFYaWJXVnREV0QyUnduc0E4bU5LcGFNQms5SVJUdTJDY0tzcmhtVEY3a1pSSGMteURQd3JiYXRtajNweklTWEJCbXN0SWQ5cWVoeVNqLTJ6bnVVMFBSWDNILUNtcHg3REJ6MGZzSXpyQm9HNlcyUWVXU0NtTVNQMDlRSGFQdnpOVC1Wc2VTSTdtWFJoZldEb0RKdzkxZzYzVGdoMENOcU93QVU?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft Corp plans hyperscale data centre in Pune, acquires 25 acres in Pimpri",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOTVDXzIwM3paakhKSDIyeXZQUGNkWDBueHRLSWpUVUYtQ2JBd3pDSzVaaVp3dDFmelpPVEF2VUF0d1JrZ1hZZHZoZzkzLXJabmprWW8wbUpuN3JDM3E5cWRPcGRiNlZVMmxIbG14cUJvUVFfd3BvNkZTUGRwZlVERXVyazdDcnYySHRtMEhFdjd4UDBEOEJmcEtsQk1EMDdEeVphWGZVVWd4bG5FYTdpdXgtMlNZM0YyMGhXbkFoRExtdU15UGVTaUpRUXA1MDVKZC1YME5TM2g4VGxUV1N0MmFsMlI2SEl3eWhmQmdaRWx5dkRxeDBIZzlRalc4TlZtTFHSAYcCQVVfeXFMTWtlZWI2UmpVTHl4ano5a2dFS3VubV9tX1Rkc1hiMlVIMmVWcE12RVNQa0pZWFVsTFotRWc0MXZNTkFqbjQwVDFMdE9OOUZyM1QyeEV0cUVFaWRNVGhLZDQ5ZE9iNTdqLWh0cTdhN0VXSUItaWRXTHRURnJmTC1BR0Fxd210ODRuNzA3bE50UDFuQ1VjMHJrN0dPdXZSMlkwQndNQUo2cTNxZktzcm82UjVGMXBPQTROakh1Y2ZHVU5CelZVVFFoX1RFZXZGNDc1MzlDUDBhWUVuakVTemM3ZmI1eVFXTEt6R294N3UtSV8wYktMWk5keEx1RDZtOU1TdEZPbWxPOGs?oc=5",
+   "published_utc": "2022-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP CM Yogi Adityanath Inaugurates North India’s First Data Centre at Greater Noida",
+   "source_name": "AffairsCloud",
+   "source_domain": "https://affairscloud.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1dBQVlvT0lTNjBSUnB3bDlBVVQ4dGFlVWNWVWYwV3IxX21DczZWTGNfdTZ1Q1V5Q3ZFcXFBSGtlU0pPUGd3RkZHYmVKZlBFZ3dMOXRDVjVLVmp6RFJ6aU1CNzU5QkQxLXdlaGpKWWpKMDZXTVExcnJvQ29uY3BiajBVRGdRdDRUbGRzWnlFLWxhdmxTV2EtV0xqUk9vV05qSEI0dnVpdmpRZzQ?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

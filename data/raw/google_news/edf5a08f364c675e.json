@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "How to Fight Crime With AI: IPS Officer On How Maha Cops' MARVEL Will Work",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHkzRmlWZWk3Vko4LXcxRzJ0VmNjY2MyNXo3Sm9kU19GQVBRMDZzQklZeGd3ZGxRcnJJUVFmdXFTXzBneU9hR08zRXMtVnVfMUxJTjdVMWpueVR3R2QtSk9WMjJLOEhkRXp4Y3QwZEVTQ0FYYmptZXp6TGdsUUpuZDBlVnppQThYWF9qc1VGbmN1VDcxWE85eTJLSVhRY1VxV2JhaXhvUFpRd2VJTHVuYlNVUzhpbHR6bWkydTZ30gHCAUFVX3lxTE4wTzU2c1o2YjI5ZTRUcG12NlBETUR1RGg5eUVMSFJxdjk2TEFVWTYyeEpFVHhFVzFLamFWSTZxVXNxbDFuM0NCa1U1RVJOVUFiV2ZqM0EzRXQzS2RFdDc2RlU4VmZ2ampWbGg4TVFZdUdLeE5BZnJ2bUZMZU5JdzFEazFlWnhmWmpGZEtwRktTY3FXa0dLWnI0bGhHZ3FKTU1PWmxsWEpETEt4UnV3dWJqbm1ESVJrMUNTQktBclFfQlJR?oc=5",
+   "published_utc": "2024-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s Onion Export Ban Backfires, Leaving Maharashtra Farmers in Crisis",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVnVGVVg2bDFReUJmN1RhR045WHlVMGcyVWFHWm5nZTNLWldYS3RhbUVMb1FGX2tESENBVXF3aGtZZjkwM2h6emFZNDBTRWZWdW1VaW1EQzYyempaai0tM3hLRDdGSlJGS0ZkZzA4Umhoamd1dmQ1dkdOWVJBNzNkOU9RcHd6NU9sNUxpVDJIbnUya2ktMnpfVWc0UUs1XzRsdXctX2lTd2R4eWFrQkJGVTdCMm9ROUUya3UyeWpQOWdMUk0yTlhRZmgwT2pJdk9WZy0wUE0xSUx6aUM2algwQ2xCMXBQZ2Q4SHVuWVdBeHc0LUhGdzg0TE4xdlJnMGhkc1N4b1ctNnB2VlIxZnc?oc=5",
+   "published_utc": "2024-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt partners with IIM-Nagpur and Pinaka Tech for AI-powered law enforcement",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZmFNMjJRd2NKUEVtLWVJRVBYb3k3WlRJYnNpV0plcjJSV3IyX3ZkbVlqVkM1ZkZrUXRieUEtN1pHUG82NHZMSEt6Sng5dk5palp6RWF3el93dXF3NE1HN3J4clFYejNJZVVHdzJBcDdOT0hmSzIxUGxZMzAtMXBnblBoakxxbk96d2tKTHhOakEwcWFWTWVkWEdIdDZyOHd5WW5jd1l6cTFjdzBxN0hjbEk0SGZTdlFRVzgzdnlIZjUxZTBzUHdKQVhvNkxjeHpta1hmcFl3SGrSAd4BQVVfeXFMTzRlTWFwcG91TTM4S0xwNEJxTU9Pc1IyMFNIYWExLWEtZFVpYkdtQ0JVYThsM3doT05KMW5NNnI5TElKOTUzdm51Z0I2RXpVSXRRSWVFZTl0LUUzaVZCYklCVUFSaGtzRU5GNlcxeDNoQWdDdndFdW91d2c4M2lhbld4SFBXejlBLWlVbTNTX1JrZzNIWlpSTG9wN1ptRzFWNFg1YzlIUjlfUFJyRGpQX19SMzEzMDdZN2FtZDJyb3drdmhQNFFiVjBGR1hldmxMWTk5UzdLZnJKT2lJM3N3?oc=5",
+   "published_utc": "2024-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Now, non-academic tasks not mandatory for Maharashtra school teachers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTF9HS0Fua19DQ0dQVHlHRld0ZFlXTkVvQmZ3SEFmVF9YNVozaDhvaFhJOFg1YWU0eHJVUnVWWEJPRF9VdXAzUS1nZ2xCbDM0T1RqVTJEZWg3TmxZa1JMbXE4ZUEzMi1MM1h4d3dKblUxMEkxMXIzcHhQS1VYemJVbGhXY2RXWVFQUUdmNDd6WDJjQnUxNndueXhOd25ZNG9Qb0R0LXRxM0tnamRYNVBwLU1UWFdsRThWMHlsZ21B0gHEAUFVX3lxTE5Xd1BTVkNWQlc3TkVPcnVfNkJLQmt4QlZPd1F4V253UUVJYWFaTXNCTG9nZFdXb0xDcUo2Q0pzcjg4QUg2WkJLOERlX0dteGo0azFDekRiMHdiS043OWxFOHR2Q3JPblk2eDg3RV8zbi1SYWlUWk96OThheENZdWdrNWtQakEzaFhDMXd1R1ZBVndsUTFTRXQtV0pkbWoxcFV2MHB2SkVLclNQSzRSOFRuZm1iVHVDWm5tOU1Pc2JMZjZ2bVE?oc=5",
+   "published_utc": "2024-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai's JJ Hospital gets Rs 728 crore for upgrading facilities",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHRTV3RKVW9NR1NvX1VBV1hvOG9TXzZCczhRVnhZVV8tSEVxZWZpVlFGTENUQ251U2lWYU1FZGQyZzhGel81R3JqcEJiQlFyckMycU0ySXI5eVhTZmtZUWFrNFN5UldPSWJMSGlBSkhLV1RDc2h5MDNmQVlvejhIQ1BfZnV2VWJkVjY3bEQ5OEZRR0VmR1Bsc0dxRGxhNDlwZVplLXFoWTVvZkExZHlQcXhTc2VQM25veWNJaGtyZU1DY1ZFLXE3Zk9n0gHPAUFVX3lxTFBZcUExTnQ5LXdkMExlcFJxNmdNaHRQYkFYcllfN3FWVDNWR0EtYS1GQTN0c25QZVAyMndhejFLOGFqQnRxZ2RYRGFzbVFTT3BFQmFWeG9LV2xLdzRreXo2b21WbmVuRFhwN2VxV3lZbEltZ1R5ZnM1YjYwRGVJQy1HYWpVcEM1X3phbmRKakZKLWszNUh0NU9kNXFZWU1xTXYwVURWd0lhWnU3U3VVZUdfeTc3Uy1pRUNBckx2Ymt4blRXUnMzTjdYQnF2Qmh2NA?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The rise of the AI-powered drone: Unleashing the next wave of agricultural innovation",
+   "source_name": "ET Edge Insights",
+   "source_domain": "https://etedge-insights.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGFET1NRZk93S2lDRVBYYkNsYkRvYlU3dE1iRkdJb0pWMTIzMzJaSzZEMW0ycXJTQVJvZTlSQkxUVUNveW9VVndseW9uaXZzY0Fia0ZTQkRFS29JNGt5VTZJYzhTZFlqc0V0OG05eFlFeGFvOWRJV3hzVllMRXBVUlJvQ2ljdHRKTFlmNlI2WWpzNVJESW5aY1kyS1AxekhIaVVoOUlGQW5mNVc1UE1pemJyYVhYc3pPWGlPam1hVEkzcG1hZ2hveDI4WWw3dFE?oc=5",
+   "published_utc": "2024-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Moderation to Polarisation: Maharashtra’s Political Identity Crisis",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTE2TG1oY093Z0MtOXZ2RF8tNTdES0hZczF3ckthOFJxM0ZHeFlpdVVzOFlVWV9QYm1pTmt5Y3dsRU9Jdzh4OVRYdnRzTEpLRkMxTUJSMnpaN016ci1sUXdsZ0VxQkczTVFpREItMUI4NFNyRnN3bHJRc3lUYlQzRktPa1RER0VNV205Z3Mtd3hrSWdwXzlwdmZGRXBfSC12b2N6cWRKaXBTajV0bldQaENscy1ndTZBRDhEVklHaGtuWGI3WFdVTzdQRmlBdw?oc=5",
+   "published_utc": "2024-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NeGD conducts training programme for officials on applications of AI/ML",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQnpjakQ5UnBvZWhhTjFZbGFPNmh4cTdvaUpiVUJPbE50Wlp3MVdldzE5ZHdia3Fxc0o0UjVwUnhKT2FSaTRPWUIxX3U2aFZaOWZ4c3o3NW9OU1A3eWQ2ZHRzTGN6YVVuNXh3eUk2SUxmMnBYZFMtTldCLWhJNzdLOVFGb3VNeEY0NHhRemtqb09wN3NrMHdQa2g1QUtLa1k4REFpekJYUVNRVEppbHgtYlhpcEd5TWpNWDlDZVZWeU8tT29qcWVudFR1Z090Mmdjb1NFZFI2cW50b1RM0gHiAUFVX3lxTE5vSWt5YWx5OGlmc3cxbkwzdTZEaWFXbEVlblJxQW9vX2V1bFRpNFlzVTJjSURhTWZ3dU5rRFg3NGt3LXNpMWJYVGRYdTJCMENuNF9RWHlvRjhxeXRkUkxuTXRxQjdQdXUzUzdqMF8xUTlTWUlCYkpiQ3ZPRkJWdmJfYkVpUlBMY2lQNkdCODlsMUdJTUlnZW5XRTl2WlhXS052NWg2b3dyazdwWllXUnNYMVBlY05pcnpOdThiYVljWmstM0p3Y1BabDUyV2lGZWpoRkpBZkhhdDBxNUM2eTN4NXc?oc=5",
+   "published_utc": "2024-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Recruitment begins to fill 14,690 vacancies of Anganwadi helpers in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0o4RmZjXy1hOVpSX3VPSHlYOHhaZVVzSW9qQzdkemwzSFlyUEZlOGZudEJSekg0SUhKR2pKTEhLOElORlQzY1Z5Z0N4U0xVTFIyeFRmMjYtbGJCd2YtOWJ3ZW14ckg1aWhhWUxGQlRTcmw0OExLSjNoWFNmSlQzanBoM0t3WjNRU2lQT2RNaElrdWlRYWtteUlnSE0xeGfSAaYBQVVfeXFMUDUtbHJGMWhETF8zOUw4YnBUTWwyWE80QXNYS1BrYUtmQ2dDbDIxdHpxbzdnZklQb19mNEUtWVhiZG5sYTNtYmYxcGdBMm5rSktDSV9BQjI1bW83RmNhWlRDb0ZaQTRTNkdWR3llamVVYk5KYlBrQ1lRQ1k4V1Z1RlItd2cxTGlmaUJqcmlBdk9TcFZ4aWRfNXJDbWE4eUxZRHBZM0tqUQ?oc=5",
+   "published_utc": "2024-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM chairs meet to discuss poor road conditions, directs officials to bring about quick repairs",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdTZFbTNyMUFxbzBUS09INTlLdlg2d3VOdHhINFAzSmhEcklLV21jeFNGeXRmc00yem9OMDYxb083RTlhcTVSNHFfclhIbHVqam01UlZ4dzVvVE1UUGgwWVk3R0Q3M2JZTk84V0pNVjdDbGZkOXA4ZzUzMHVOWFpic0VOVzRIUlg3bEFMNFV0TmhaREo5UkFtNTlpaFRFalozcjdoa1dYdEl1ZjhSRkQwUkNJOE9xRXk5NDJOMFZZb1hIaUpKWU1zb1hkc2t4bDZHNjhjMXMxN1dpemd6UjhNTzZ2VWhCWGltcFNiaGE3Q0JXUV9LOHUtZ3lpT2thVGdmWm9fRGdiN3rSAY4CQVVfeXFMTTlBQlBHTk8zZ2g5SkF3Rzl3MzZoTmFpck1lcEJQSk5qY2FUN25jbUVocnlQRGMyVC01TGNUYW5qMElUeHVMV1VJMk5FYmxZalJ1czFVZHFZcHp4cnA4TmlwMTliNC0yUzU3UDVJTTk3bzlpdHd2R01oNHJsM2o2eG1sWUFrbDBWWXFlWE5MRmN3WndiQzNqNXJGVWw3bkNZb25rdmZqb2JERFNzcmtmcTVsdnhISk5GMG5SX2lXZlFhLUFWU09rdTJEeEhiN2dVZmNIeVJlWDBjNWVGY2RiSTN0OEZnQmdEbWRXM3dRckhJaGtLLXhOMWFtcXZwNGdKOHl2M0luYVg0WUFZODFB?oc=5",
+   "published_utc": "2024-08-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

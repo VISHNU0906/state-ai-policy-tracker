@@ -1,0 +1,53 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "3.4 crore escaped poverty in Uttar Pradesh in 5 years, most in India: Niti Aayog",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHFtQ19hQVN1V3k2bmo5eElVcnRsVUtfQ0pJbXNQbXVENVpNTVYxci1TZmFSblpDZUJlaUo5RWlEa3VSa3JBc0x0TjRvbm1MUGpMUjNSY2hGa0FucVJwelJyUENGajFEd25MbzJ1Z2daUTB1MXFsaklRSE5tZ2o4RVk5VmhPV01CYWJzcjd2eU0wNy1JLUxlT0ROdjRobV9kazJodXNWN3BGSGozc2FSaWZaNmxGcG1tUVlWMkFxODFZcmJCS0NGQ3ByaU1DM2lu0gHWAUFVX3lxTE9uZjM0NEthVWFlXzE0cl9oaTJ3azdmejVNN1lSWU1xb0k4M1hiY3dpRlJCWWJhYm5ubXM3a244Z3poR0JRWEVaU29lUmZESlBwV29ja0JNY3h1dTJIUmxtR1J1ME04MWJ0WWgtME03b0JiSk1vUFQwU0NKVjM2Q3JFckZTc2xvWVp0Y3l1NUdSNVBGSWp0Y0tadVp0NlQ3czd1V0d1dEVhVXo2VExZNzl3SWgxWFJHSmp4Qlc4cjVWQjc1alhvRmJkNjBsaG05SGQzOVNSd1E?oc=5",
+   "published_utc": "2023-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mission Impossible Dead Reckoning: What happens when an AI goes rogue?",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTFNmeFZJVGl6ZTRHeEJlbDdHb3JGTGs4VGFMUEYybUtQWlBSQWlYNElKNHE4NTRJNm8tVkM1Z3NtTl9PVWE5ZUlSbkJzX214MUR2a1N5SE5IaWJBSmVSVVVWQjI0UXlwU181eXNZdzA1ajdjbnVUMF84X20tU0NmZWxnZ1J0WmNlX0FnMEhLSkY3VUUxYjZOSEF3OHp2WUJ1U29uRjdYVjZxM2M2Zm9td2dXOV9ON3JHeXhCUGFQTlpOTm9GYzAxWV9yZTNncjR0VmfSAdcBQVVfeXFMTWRCMllaMmI1Sjhua3ZxLVFLX3FBcjJ6MG11WVMtSGxLXzlEMnFQQUo1ZE9lT2FTMXRXbmppWWlPSGNoWUdLbWxjbkRHei1iZnRlc25GU3c5SnJQckJpUTZxQlVYMXN5UV9lLUdRdkhzRmVfT1dyMTE0aWxrN1pkWkU3RzNpZ1JOalZ1ZU56ZFZMdVlrQ1FFeHo4SUF1X1hKNzlFM0ZfWWNzMzZ3aWgxUmkwZmcyZ0RBOFpOUWdoRzRQS2xtODF0enpPUmptUHJCWC1nNjdtUWc?oc=5",
+   "published_utc": "2023-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "GMR Smart Electricity Distribution gets ₹7,593-crore order for smart meter installations in Uttar Pradesh",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzhkSlBNZUVLdGRtcnJNVXB6OUZVNmlWZjRicFVzSkxWS0Q2c2pCa0hGYkY1LWp0Z0t2TVRJQTktVzNkLS1uZDNqSDNtankwRk85d0NwLTNsMU0yRjl5WkRja1BsVDRDaHRRbFhaVkhzTW1RXzR6OHpHTGZlcDl2MkVpOFg1WWt3Q1N1YmNaRDFyaUh6RFBfc1d3b1VKaVZSWDdHSWtSa0NpZE12SWM5bVRVR3NNVzVhcEFFX21xdHV0LWlIRmt4eDhmbXlVaFhRZFRCZWo0RdIB3AFBVV95cUxNcF9xdXdtMTViWmh3SXpfaWU0b0RGVGJ0elBlc3NONGhUa0hUUGFYYXQtRTB6aUxRX2tjY2ZxWDRQQ0NxLXpkcVVHRzRvb1VyZHdkWG5TRng4dFN0RXpiQlNWVFo0eGh3YkpqNm9TWU1WajJBd2drTkFsTTAxN0dZUnl5bGNwQTFJcDRHakFfMTZwa2czTVlCdG8xSG5WRmtKX3hJdkZPTTE4WjJOYUpHQ2JxenBVVGw3ZlV0YXRPRXRHdnd1SGpmT3FweHNfa2RCZ3o2aHN5X0RmSG8x?oc=5",
+   "published_utc": "2023-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt approves two thermal power projects worth Rs 18,000 crore in Sonbhadra's Obra",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWlo3Q0dvMHM0WnNXdFBBclFoRjBNaW5BeUtxbXVCZVlZN1Q2SzhMczd6Z3QzaHhjUVgyajZKMXJIR0Q5QndkM21qYnVDVVVBVkRyeUtBV1lvSGoxVE9SOFlldzhsbmtuWUNRU3dXblV1WFY0U19QLVpiZktwMFdxUFY1QUhwaTk4QlFCRy1qbzc4UDliaWNhb0ZVUXBwTk15RmhNWTEtb1JtUXB5Z2N3OUt3dFlxbDZSb0VoVkJCNVQ0RlpEQUR2RXNEeFBJVG44WmdNZUFUR3hLOXZJT2o4bUNWTXBiZ1dVUGF2Q0xIdDbSAfYBQVVfeXFMTnlyTzd3NGVjZk10OHBFV1EtWXZodUUzUkJrbnBrenpfS19Qa3BkaFMwS2Z6VEp2UlNPaTEtWlJWRkdrbXNRR05TUGNWUGxnZlpRcmswSDBNTFRBSjIxYldxSFhTRmRmalFxbUZET2F5NUZsR0NzYlFxSGJjYVJvZ2Q0OVpOODRWbXozUlZjUVFmVVkzT0gxczVkUTB5RXVpTGQxWXdIM1JnWFlvdUhnbWFLX2U4WVdiOTBkc0R1TEpTRnU1cVN2V0h1bUpCLUt2cFhVTGo4a3RfdE1Iajk4NFo4RkdNTFJzbmdfZGNDdzlYZUNJWkpR?oc=5",
+   "published_utc": "2023-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Let’s use AI to clean up government",
+   "source_name": "Fox News",
+   "source_domain": "https://www.foxnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYlZUdlc2RzNpXzVPd0J1Q2JaYmotOFBlN1JITEIwMnZfUjNVYzBSc3N1WFhqRlhmd0pFVTdGT3hEQk92YmtIbFJXN3dYeTNMNjV4YjRGYXozbzh1WWxVZjh5QkF2eDDSAWxBVV95cUxORy1CQURqM05WZm5WeEtmbjg0ZUppdFNkWjNjRWkwNHJiS3B5eHpHS3duRng2b2xHQmVZQzBFS1VRcHRfQnNyakM3d3hIMHFmd1BFZWZySmNuRkZWVm9zT3dBUTRnME5idFg0ODc?oc=5",
+   "published_utc": "2023-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Travelling to UP from Delhi, Haryana? How much liquor passengers can carry in Delhi Metro",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQXdjNUU2Vk1LYUxpSnQyczM0OWJiNEx2NGJscS1FYk1tMVRDMDV2cENONThZbGRKVm1mWGVmWlpMdHVpMTI5Ulp4SVplQU9GcHBVNGhPWEtiMTNJUE5vUnNaLXN5S0FCOHNScXdtNVBCX0Y0SUNTMTlrd3dtTEp0eVd6aUtDdmxLMFV2NXpGaUV6dWpCQXE0UGF5UlJseVhXM1NfaUlFNk9BREFXU1A2cF8tUVRKeDA1a3VtVGF4VFdyY0ctOEdkanppVkkwYkg0Qm5JdUo5dU5ndWxqbm9JYnRzU2N1dU5IRHfSAe8BQVVfeXFMTjZ2YU90ai1BSDc4V3NicmtIaEY1VjNTUF9BTnFocGlocmlXcUhHM0hvYVBxaHhtbDRWYnlVQkhCamk1ZTFmWjFEZTJwbDV0cjM3a21PUUJfS0hpcG8tM3U4R0NtcDBaV1EzVEFTTDdobjEyRnVyZjMtTjFoSHB5OWVTd0lQZWJ2ell6QnRRMnFLUjZ0MnVLNklJMzA4SF9rU0h4eVRlZHktSHlpUlFweHhxZjNNSmZLdjQtb1JpQlljTHdLVVZockZPXzY0dXM2OTBpZWw2a3U5V0hVc0xsRy13REF2WWkzLUw2clpMdE0?oc=5",
+   "published_utc": "2023-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

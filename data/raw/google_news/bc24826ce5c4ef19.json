@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Soon, AI tools, machine learning to augment teaching in Andhra Pradesh govt’s primary schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkJVSDU3bDZrcENsZnhIaXBBbEM5czduc1RvLXVhQnJkWkpwVzZxUUlnbnMxWUZlZDBjVlVUNVJ3TXFYWU50VURFalBMOURBenllc3ZjRU83QU5vMGE2dFdzd05yZFBlampvdEtocVRKZUFsMGJ2TU1aNUV6SUNmTmNLYl9fZzlQYmRjcF9ERDVzd3ZRTDZwSkJOVzhqajYxUTEzRk9oV2RYa0xEYkZxZEZxZFVNUDQ5TmQ1SGRB0gHEAUFVX3lxTE4yc2NFLUt4WnlKVTJEYi1odVpyMC1Ebjc1YWdqYmpzRFpxOVJLZHJWQ0NmS3QwYlIzejZDeU5qNmJrdzZBcGVRMUFpMmpCTWQ2UDNIZmk3QW1CLXphLWRTeHBjaUpoOFlaX2NFTTY2SExzeGZBNGhzX25Rdlc2eGVWVmZXdXJDeEM0RkpnbmhDbFF6Q1dGQkMxVTZpdFhZTU5nQUItZFJzbUxKREQ3R2x3bWh2SDRzaHZrWnlLdkJnYUxGcEc?oc=5",
+   "published_utc": "2023-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 1,450 Crore Investment Through Establishment of Four Companies in AP: CM Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeDlUcVZVLU1ld01kcmFoUEo1d1AtSnhZN0NvWC1wbERUekxMeDByb2ZMU1BXbDJGZmdJcGJCRVhmSkJ5VVA2RldtWElSS0JDZk9kZy1takdDcW1fYUlNcFcxTjg1MXhrNkpZS2NtQ2xZZnhsSzJxXzJwRE1teG1DNkJkelBwczdMWDVFQWw5MnNQRW9laXpTcVdnN2JlZVJNTWxKU2k5dThxNEU0RE8zOTROSlVNb01hd01vdUZsbGRTS0lEZGVfcEF2c05oR0NpTFHSAdcBQVVfeXFMTXdMUFVxelkzS2w5Y3pxWXQ5ajhEdHdKZ0wxVmotd0I2Vm9zeThlbkVjdlhfTndqMTk4V09LNFNwYTZZTmdWdHhPc3lJNTNOSnRWMU1LZ2pjZ0ZiaEg3QzhkVHJncWxucnZzSm1SWlBNN1RLbEpvMlJ3QVZfN0R0ODFYcWRvOGVCQ2NsQl9GQWFaUTBWNjFiS24yVm1kNFRMbFE4UlJraWpCMW5LZXhlYjh5LXhhZDFFS2czRjdnZFZDWGR3dkVBSzBvcFZwR3Y3c0paYVh2T2M?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, ML, Chat GPT will be made part of school syllabus, says Jagan Mohan Reddy",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzgwTUpxYjZjMEk2aUhTcGRlaUUtelNDTUprMmxZSlJuOXFteGMwVUlBanFBUzlFOGVodG8wSV9ORW8yUExrODRlRUR4VHlfeXdfWGRIVkVJY0ptM08zT3NJQ2thVGU1TmVYUWcyZkNmUmFFdndnOWMxVFZ4RHZ1VUJuUWhXeE5VRUZKZnc3Y1A1OVdaNk9ZNkpQT0JJNjJTd29iY2sxWXZzV3hzMlh5emhqaEFJS0VNM0VBX0ZLOFJGeU1OMVpkSldyNkpJSkdWWW5XWVkzNF8wb1ZzU29IWHVR0gHoAUFVX3lxTFBYYTAzMHVfaE04cF9UbDBKTk5USVI2MXRkZXk4X2lhUU9KV0JZMFd3OVpnOTBaenlWdnQ2TEhzSWRtcE5kSnVHLXRfLXJTTXhlOHpyMG51aTd1cDNNSkJpaUVEenpJcFk4WFMtbm5fbnQ2UU1tRFdMaUdhMmktMkk2REJpc1ZqUldXV3lPb3QzYnE3dDdoQmxfdTFTUldQVzVzLXBzbWpUUTh0dnZyQ05NQndhSkh3YXFrV1FBRXlON0F6VDJqdTltc1VvMG9FTzR0enREODJTaXRoVngxczRxR2FCRWNpcTU?oc=5",
+   "published_utc": "2023-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: DRI seizes over 10 kg of smuggled gold in Nellore",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWNNeTA5amxpd2FjNDBYS0ljeDFJM2hTSWhEeE5mNTRtODRNQ0NVSkRUdVRJQVZEX2pXMmd0MTZzamo4TElRVEJMRTIyWWVvTWZyZDJuX3BUQm1HUGxZLWxEeVJjbG9FRFdoenZvWGViYi02bUlraDc1N0tYSVprTlF4R1JQSk1oN3VNWWRDUjJ4S2E1c3lLc291eXo2T2h1cDNpVm1xeGFjQkZhYnpTa2VNM3l5aVlmLVJGZHppdk1RVFgwaUHSAcsBQVVfeXFMTmRHWUJwMlhmMHRwWllmS1NpRFV6VEJzdXpINXE2ejVJWWpoMEpDYkVlMGVGb3VHNk5pYUNxNXhIZS1yQWxVU09KRzZqdWNDSE9EQWNvcWVjOEVndHJJX2d0SVlwQ3Rrd0UwS3hCYWc0b0c5NWd4TjlzSk50eVZYbWNtbEZkSVNQNkVCTldycENYNURtX3k5V0kxUXd6cjlSd2EtcElHVDVEWHJDNHBickZoNm9NUFU3SVhpNmNHdjZfVVgxMGhyWGg4UWM?oc=5",
+   "published_utc": "2023-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan Hands Over TIDCO Houses to Beneficiaries in Andhra Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1k0ZUF2Rm1pbWRyNWt3UkFoZ21kXzJYSFJxUHFtejdtZnhJZDRQLW0xX1d2aGFTYXBrc3dmQkJNZkkxWnhBOXNObnNSUmd6eHRmdmFpWE9sYklhRzJPZjZoN1psbVAyVmFMb0NqWTNDY3NoNDNOTVBDV2FrQVNtMDllZXRRM3Z6X2loMlo2OWxuM0lHWEQzMTNBZzhIa2w1LWF3TS05VVVqazdjd0ctMzRrQWlvQWRJWUV5TzdqSUR3UdIBxwFBVV95cUxOUm5EWVpPSGdyc1ZMZE1UZm9XZHFRZXlPd1c3MGdsMENnQW5reHJFQUtyS01ObDZZaDgtTWFha1RuMWVjSS1EdkpicDJXT21pazZYem1HdzU1cDE4bFZaNTVUdy01bmxndklQRDAyWm1zYUdLbmtwal95dnc0enpZQ3ZXZktaWTRoRkFyQ2xBSnNadXJoQ2UzWDVSUkZmYVVIRWh3WW5rcHMxMDdNcFdQcmJPWVZQWFJnYXpSZTVPb1JKTUVfQTBn?oc=5",
+   "published_utc": "2023-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Flags Off E-Autos Under CLAP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRjU4eWNkb2twbXljemNkVG1vUFhQcGFZS3NWUTlHeTN6b3hQdG1fV0N3WVlUSEVpTXEwMVR4ZVMtWkdYUjE3WVA5VlhNOGlOSkR0V3pzZjNqQUxMXzQ2ZURXMmpMcWpYNTQ3TUxzMnR4MWJYRUViTUxjUXVoSG9mSXMzZWl1U05GR0wwQlZVLThGNGVTek9ialF4b3I3LTdXS2p0ZHdXWkFaU2tFQUJIT9IBtgFBVV95cUxPT29admZ3ZWFHdWhINVp2QVpsbTVycGJ4MHo3dGlxeUw0cWZQSkNUT2psOUh6bEJBMzRidWdRSzVQLXJ5Y2dRcF9OZzJXel80cFFOcGdBT1lGQzRreERyZ2dyZU5qMHA1NmxPWGZHVFNwVXlXdnJvSXdNbHZyNWt4aFVsNnZ1V1BqbGZzVUttZWw0aFNXRExMUVh2Q0s5TmpUWG8xUmJBWVJzelNrMlZLOHE1YUZHUQ?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Fire Brigade Gets More Calls Due to Severe Heat Wave",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNVN0VkFpclhzRmFTcnRaUW5WbzRmTW5CdWVnZEMzYkVhbF9PVS10TG1qQXFMQVhKbkZmVEFUNTE2aG5KVlBQT2laZTBQWVFYRHBHZlQxYlBwcGp2NTBkeVBEeWYybFp4Y2JmbXJYaG45YWpiTktuM3ItNVQ1RmlHZTBnSFo5Si1WczgxWnZMa1NmOFJSU1BXMlhzcnhZdW03Z1J6dkhWQzk1cmh4TWfSAbMBQVVfeXFMTzd0Tm9sNi15TW9VU1BvZXFrVWEzRmxLTVFzcWN2VWU2LVEyM3lvODZ5eVlIMTZ2LW9CS1ZNa3oyanpXT0dvZkh0Y0Y5M3VVNUR0MUQ3cWY3VkNibUdEai1SdG0yR2Y0V1JSek5YSlkwbXJXRVdMZ1R2UnRLR1ZzNUx3a2t4OUpfOUtncnJlbEpEQndVeHFWa2FJVU1xOGd1UGxtbllZS0p0TldTdDQ0eGNBUlk?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Margadarsi Responsible for One of Biggest Financial Frauds': AP CID",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMlhpa3dFMjV2TmFPaHdBRkZHVEVfQXc1NllFZlY5MzBYNVBvMXY3Q2NmTzVwQWJORkZtTjNBUnF4OU9xSnFOSmJyY0c1MXh6VkFmVGVzdVJ5R2l5SXo5d2VON2tuTmhrUUpYMlJvQmdMNlZ6Qmw2dkZQU2MxWnlRR2cxbFR3ZGV4UEZIdDhzLU5ucjR2NHBhTzVSMFlHbmUxX2pSVDVTWm5zT0I2S1dhZTNtVlFWU3U1eGJCcWpBczVheHNt0gHKAUFVX3lxTE51Y3NfemRnMUU0a0RTQ01CWXljQWNJS0FJb0ctVjRqU0hvdGxrbDNKWFpDMWVFZEtILTlEWk9CYmtrUmVuV3EzTVMxWGhmeXJJdFljSHIzVmtvSFR1TzY4WkNTMWxXa1hoSWJSX0E3elM3azgxSE84d0VEajFkaHA0S0wxRm1neWhBWEhhSU5wSDV0NWxUSGdqOHl4amsxdUwzeUtsdFdEM2ZFYkRTeGM3VFZnck9EbTI2TXdFN3dhcHl4cnhMQlh6LUE?oc=5",
+   "published_utc": "2023-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan launches distribution of Vidya Kanuka kits worth â‚¹1,042 crore",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGlpM1pUdnB2Z0ZyTnVJd3dMYlFPZWRhaDZJNjFkZWhVRmJDMFJwWlJrOUh2TTFWS2dvYklpWXFqTEhOZjNadUhuX0JrOXZ5aUFDN1VsLWVoVWlWVjFwWVktdktpTF9FLThRZmZXMUNULTVTbm5YUUV0dXN2d2N3WEJNLWxEdTJzY0g5OU1MeWpGV04wcmptbGREOVVCYXp6V19FNDUybnFNUlkxZ3h5VGxheVBhNk9LOVE3bXNwMWZhb2ZwdWo2ZUJnNUHSAdIBQVVfeXFMTmJBOXk4VnNoTGV4dFY4RHpCcnBWSWhhSFJJWUV4ZWNPQW9yM09NdU0wajdnaEoyVi1fbXlUZVpPazloWVRfX2N2RmRodmkxUUZod3pwME10TFBTcXNQUU95OE9UWHNVQjUzZEdTaC1mWjhEUUFVbTdBWmthY2RGX2RVUFVpelo0ZnFpN2doUFhXdHBqWFNwc09RVDd6ZUVXWjN2ZE1nNlpuVy1pb3YtRmZJS1k3LUMxVm9LV1htcXlXWHBzY3B3aUgyZW1FTGRBOTRn?oc=5",
+   "published_utc": "2023-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hundreds Cheated in Multi-Crore Ponzi Scheme",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEg2VDZJem9YOFJMb3lBTjRPcUljOXA0MGJZeS1aeFB0czBBcml2WFlkV1BGT2Utajl4dUlqc29oUThxSVk5T29mQVNTeVU5NEk5YUlrMWQ5cXZCcVRzbUZ5X0dJN1ZwT0JOaVM5YldPYXZmOExPQ0Y2ekh3WDloX2x4QzUtT1paRnlTWDBpQVZKOUHSAZgBQVVfeXFMTnZUdS1MeEVRcjNhOE85bDI2cEhXcWpYLXAxN1RNSU83YmZSNVRHdzlXZDE5bjhPYmE3R2JETUVDM09JMk5lMnRHVXZ5VEE1c01iRkIwYlZMcGFFQ1VsczBuRHNmb29uS3dnVGcwR25XSmstWDI5RlJXa0NrVEVqaFY1ZXV6cWVQM216YlVDUGRDMXMweHJROWM?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

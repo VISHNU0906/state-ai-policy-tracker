@@ -1,0 +1,77 @@
+{
+ "query": "\"Gujarat\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Under the Leadership of Chief Minister, Gujarat’s Tech Landscape Achieves a New Milestone",
+   "source_name": "CMO Gujarat",
+   "source_domain": "https://cmogujarat.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2NLMnR3OW5mUTZjNGJnVFYyUG9WaUszSGY2a3AyRlBVbTVwZUp6X3Y4S1ZEYVpSc25peVZzLXRDbmVMdWwzdmFwY3Q4Z0JmRXBuVzV6Wk80ZzlCRlVhV3ZtRk1FWFhRS0VFWk9ZZU0tM1NPbnAxV1lhZWwwOWxRYTJPdnc3MWhvRHVuVmpzSmU0X3BOb01B?oc=5",
+   "published_utc": "2024-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat CM announces formation of AI task force to accelerate administrative reforms at 11th Chintan Shibir",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR19Gb1luSUpVZUR4Ui0tbG5PTzdxNnZ0dTUwRGJLRnpUQ2hmVTRNX3d2ZFBQODZtWXRUZ0ppblZQWlhrYUhvOVhNellWNU1kOVA1U1ZvQ193VlR4ZkozQ1VxWHc4UkdaelE1SzFYbFhDTngtbUxMalQ3T1FNZ1AyTVIxcXRCZ2JZcHBCdEFqQ3hHVDQxWklhaG1iSTh5YUc0YUF5LThUR2N1dnF4TUZjbzBXZEF0WDRTVzRPTUh2cmJYR0RCaURnamxlMGhteWJIa2Z0cjhlSXpJalQ1MjdVdTMtVi1vYURFeURxV1ZzMlhQalRkSXRNNEdrOC1SdE43?oc=5",
+   "published_utc": "2024-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat becomes India's first state to implement a dedicated semiconductor policy",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUS1DQXNNWW9XM3RLMWJOR29DMnhSRHdFYzhna1ZxdEdYUGxqVUVXbGExVUhKek5jdXpyREl5TTVkNXlZMG1MZmFQRlNBeU16bVIxazloc1JYX1pZUm85aFZOYnAwWGlUYlNlTkhkWlpLcWdqYzVQbHRVaWZ0dFRJdjl5bnVmdk5saGZEWW5MNm5IdjNYUWZtd01odVRzY25WelllUm1FbFB4V3NBUVczLTlRTHRvYVp1VkFFVWFtZHozWGZ5aGVxaGNFd1hUdFFfTkhhVEhMcDFIT2dFWU9oelJR0gHnAUFVX3lxTFBZOXhWcDR3bTNiOW9vT2VMQlBCVm1JZUNMb0xNZ0pLOGVkZzVhc2R2YUV6V0M2MjRlMEdNSE81Q1ZRWUxMZDNyRElLN3U0a2VZaFllV1Y0Y2ZyLWJpMzJnMXJDNlRJc2o3RW9vMkFtV2gtS1UteTVFemttX2tsZzJOY1piVklZY0JBWmdPZjB3cW0zaWZoT09rdUo5OEJuNzViOGFiem1acmFyVGp0eGZ0NlU1LXExUGFzeGNMYTNDei1fRzZvLUZvcHBUU3dnc2xhaE1XTVB1YU9vTGVsTDBkZXc1S1BYRQ?oc=5",
+   "published_utc": "2024-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "One more global electronics giant expands to Gujarat with ₹1,000 crore investment",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0ktSnFfWl9YUzR5VFJabVNMSTVUN2hSWWJ2ZEdwZld2NUxCZWJLTDh0WmNzckNlRE1INlpqZ3lwSjktZGdZVkRqLTZDblc0WW9UQkRLVlFKR2xVWV9XT2R1WmhfTkxGUEdjazh4R1R2bExuT0RmT0VBQ2RYS21kMVVjT09zQkFzTVRxQndST0VoYUVja2pTcWR6LUF1Q2hrNzZyeXJhWThyN2RVVURIVXBXbkRqcnBaOWJTMWlrNGQ4MGVZc0hZ?oc=5",
+   "published_utc": "2024-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Photo Gallery",
+   "source_name": "CMO Gujarat",
+   "source_domain": "https://cmogujarat.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MeHJnZUxiNVV3ZUtPQzFobm5VMjlsY0RyeE1JelhWbmNWSHBMUThsWHlQWFVzR0NOUFhveExlVXdQX01ucHZyV0ZHV2tMTWE0dy1ZNldR?oc=5",
+   "published_utc": "2024-11-28T13:18:33+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat becomes India’s 1st State to Implement a Dedicated Semiconductor Policy",
+   "source_name": "AffairsCloud",
+   "source_domain": "https://affairscloud.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzY5d2QtbXBDX21qMFhDLUNHdVdCd1FMWGw2Qi1CaXpFZGRtX0ZFNUNOMEhIYXNmUnhaYXZvTGd4eGFyUjNFd3FwQUp6VnVNV1NuVVpZdUJ3c1YwbHJldk9aOS11MGZnNjhMMVAxNjdsSzU0Q3I0RnVmZVNmSDBoMlV1Ui0ycEN6VmRGUmNHSTZRM2xWeE9kNk1WbkVhTEZEbWF4NGxrbw?oc=5",
+   "published_utc": "2024-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mr. Manoa Kamikamica, Deputy PM of Fiji, Pays A Courtesy Visit to CM Shri Bhupendra Patel",
+   "source_name": "CMO Gujarat",
+   "source_domain": "https://cmogujarat.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckk1cHMtcUdnUTF1aHF2VjBRMU1lbnJSbV9ZV21Ucy13Wl9BdHZKVnlObTZTNk1mVDE1Q3BaRzVKWm1Rek5zcEdQX092UUxyWjItQVpkZ1VVeEhjeDRMc1lsRFZrYW9DakJwV1Q5US1kaTJycG91TkdWM3B1VUQwTkdWWUhUXzJjSG13Mk1WUERzV0FhUl9fTmpiS0tULVFn?oc=5",
+   "published_utc": "2024-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Congress seeks action against Deepfake -AI videos of Sonia Gandhi on Facebook",
+   "source_name": "DeshGujarat",
+   "source_domain": "https://deshgujarat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlk4bHkzMGxHTkIwNmRaNEVTWnFlRm1XblFGQWt1a3BUa1hiV3RRTXRGVHlUTXdlLTVjbUtOTTNYbkNOTTBZa1Z2ZUFQUDBLbFBwOUZDdHIyOEVQbUpXR2dZeWlibDZVbjNBWGg2Z3g0cFd3RUx4R2E2NHRqVnlFNFh3a29MMGw0eXpsRF9NdklKSFFmT1k4N08yTnVvRmU3UWJVTjdfXzh6cUJRRjlkbUEtSUsxeDhzam5ZYQ?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

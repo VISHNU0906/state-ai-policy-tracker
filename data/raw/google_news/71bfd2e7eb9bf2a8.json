@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Digital Agriculture Mission: Tech for Transforming Farmers’ Lives",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53bUYyd1V6ekF5eU9zT19KY1pyT0ZIN3ByakZXYUZ1WGxRY1I4RjBWa1VoZFY1S2ZyTDItdUNMcW9sLXFPcWtTUVoxcllDeFV2VWdHNzhtcWctUDBSQi14UUtVbjVONlF4WW1UajBUcUs?oc=5",
+   "published_utc": "2024-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google and Tamil Nadu government sign MoU to build an AI-enabled ecosystem, Pixel 8 phones and more",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQW9jZmZENFVna3M2Q3dJcWZGY2RXbDdOY0hnRHdudzJHSXllTFhYWmdZYWV5bkRYM1hHYVlBN25SRUkyVVVzbUVHVG9CUlhTRkhnLUdfd0pocFpZRHdTM1I0VmdrcmljalVuXzIxREY5LVYzMVk1Y08xanVVRWRfQnhjVkJtbkpodUtuYy1RRm90ZllmQV8yUG5uMFdvNUtGUVE5ZnhieUhkTnVLVExoV0hRTm45VXlPWlNxa1cxbFoxQjRwTDV6YnF2dGpvOTlzdWU1SFcwV2Z2Q1FHSW9pTnU4MmhocHRhNVVDaXN2OWtRUW5oVFdVUDRBRmdDUmhiZmM3NW5xZ2dvTzlSZ2fSAZMCQVVfeXFMTjlENENBRkoyVlFZVmd3SXhNSGtnd244LTVORWMtUlREQkNfQ1hTUktnVy0tS2JEVmRqS01kdmlSMW1VOGpmVTFreVVveDBReVpndll2VjdJWHRVRTdpM1hZNlVxWW1IaUx5MEZsWG8yZklOcFV6UU13ZTJWUFRFUkhJRGlJelJRYnp0YzlnVmZ3NXR5SjlpOHV1SXVidjJwenNJUDJaU1dnNjctMlEzc21pVVFmMGIyVG1TbWthNjFuQ0RjSkJsUlA2dzJoU3hlLWJmYUxxVkk0VVhWNnUwUlhXaEoyRjFHM3BPOVJYMFQ2S0N2MG8ydDFVZ2VaSkpDMmdZd2Q4aWJNWjN4S0UzaGwxcEU?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Madras offers certificate courses in data science and AI and electronic systems for schoolchildren",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmJTZC1PZnR2aHRyUTNlNC1VTnZXSXZzOWg3cXNVQlFKY1VJUWs4Mk5DRFNJM1RsUHphWnBtVHFWNGExem9aUndMNVZlZzAxVC0zZ0N3WTE5aF8tS1IwbFdjai1MektPQ3dvX3Q0MnN0YjZ1WHlCQ09IVGh1MnMxNW04QzFNNkdkQXc3b0xDRlJ1cndKc1ktV2hnNE43eDFobnI0VHNMS2MxV0FERlhpNmZRZERDVUFxZWRRSllGOEhoQlhkR2JEZUI4b3JlSmpYellmYW1LdVJQbExWQ01iZ3UyNNIB6gFBVV95cUxOMWo0WlZNZjBzZEl1blZNdVdtTUFJaVFraTBkU21QUlJwNS1NNGFNTTUzVHZVMnBRSldyQUxkTU1wTVhvUkNhNXJNdTlTbGNla2VfSElYRXNCUFh0d2otb0dCa1U4YUI3c3BJbndhaFFSSW9FLVpUM3pnTld0ZVc1RjVjd2Q4cjhlT2tZX1ZIZ1VyWGtOUjFlTTJKVWR1OGdnSmY0d0VfeE1CWDRJNWpxWnp1TjliSjd6M19xaVY1ZFNySU4zSm05eXlFMnRETHpDZ2hrQXlpS2xVT2pYOGpSV1cxTC1DYkxsSnc?oc=5",
+   "published_utc": "2024-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google partners with Tamil Nadu government to develop AI-enabled ecosystem in the state",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnNuY3NRQUw2UmZCdldOWjdYbGQyVVRDUTR1dThvaktJWURGSEl2UWVNMm9oekUzOElvR2NyQi1RQUh3MHpmVHRzZXFqenJXd0xEd21wOTJxZDgxakxRbG1UeFpaUXJPT3Q5NDNpU2w4S1hpZnA1M0FIQkpoZzd2OEZaTFZVblRnRWEwLV9heGhFQzhTd0lvZzliaWdCV0ZCcTNXUHdVeVBfSC13V3dsdFNhOC0yQQ?oc=5",
+   "published_utc": "2024-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Elementary Teachers Defer Secretariat Protest After Talks",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbk5nSnJOcXlMUmdqYjEtcXpSRkNZUlA2SGpLbFFwZDEyQkFuZjJpSVh4am1DRFZVeFktbnNJV1ZDeVpfcjQwTTZNU1luS3lTMDZxMnNSM0lHeUloNHRnX2NDTlFwWUNJeXEzLXZrVWpyTUJ1WU5WakxwZnlxUWxGSkVBNzhnNVFJWUkwbzl4NEFseEdQc2RqZldiNExTOHNZNWF0Y3ZraG1EbUg0ZGhiYmFDZi1ZM0xiQW94QzZGMzJkbEtyS3BDNWhDVExtOUF40gHWAUFVX3lxTE5MV3ZPRnNOWlFBT1dReGlzeEFYc21sZDhNcXJJZmJvM1RRZkNpVUduWFJKLWp5emFJWjVVNWdUTy1mUzdYYWJ4NjEtdlRabU4wMUZ3MGdUeGlUT0xUTVdxT19EbDQ3NFA3MnVLRmEzTW1sSFZqWndzWVl5WUp1T1FWcGllaVFlNVJSdS01ZFRIUFZCLWNucXlHSkR3LS1BWjQzVng3MnZIRGdEZVlfTXlDSzhPVUk5M2cwdC1UYUpZNFZIM1ZzZUpzYWRnLUxyUExlUEIyTHc?oc=5",
+   "published_utc": "2024-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet Chitti, an AI-powered dog robot redefining companionship in physical world",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ2NUUmxzUlRvVnJGZWl3SmF3UjhHMVhGemxvcDlFSEtSa0pUUnRFMFlBbTVXUDhDOVRsV1g0a1NhQjZiRVVOMmNtX3hUeGxneFlNZkVCcDFXRDhBODd4aFRFRzBtVVJ4c0podUo3a3Ixd0x3TUtoU1AzdE16cEl2UmNidEt6UXR2ZWJfQndZZ1YzOUxWTjh3RnowNmxYUTBBRlZZZkNkbU9acXJDUHhPSGNJallPdHBsdG1tUWlocXhQZERlWHVJWHdNaVJ2al84LVhTUjZreGxiM0lqeXE0a1Z30gHnAUFVX3lxTE5kSG9SYS1xOW0tMDdOc3MyUVBrVXYxTDduQTRPVG5CVnAwVUpyYktOdHVQNUhGbEgyWXYwakZzeFB2TkVkZGFPTDRhQklxUXVKM2VIa1E0Und4YmVRbmlyZ2ZkNEMtTFUyQmZLdnZFT2pYT0V0S3JyQjgwRWZFX3BFcjZnYnRkemRPdU1JaV83WnJ4TkpORXpFRW9fUXUzLVp6LUFEWEhjQklEWVhYM1JUWkZ2YzU2Nk1heXlkU0sySkVBRUZwWVBwdHFBeUZNaXpJY3ZsTzhxR3lqenAxM2tPOW1QOUNpaw?oc=5",
+   "published_utc": "2024-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Speech on Artificial Intelligence in English - 10 Lines, Short & Long Speech",
+   "source_name": "Careers360",
+   "source_domain": "https://school.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wYlNucktUbS1wc1VWeWlDdVJLWExIakx1TnhVVHVaazdNNC1ybElPT1h5VEwyQXdudkVsMDNrd2RTNWRrOGtYMGN4NXhaNndhYVVBWWpjN1VPWlVpb0J3NC1PLTAtRGh5RVByYkdUR20yNW8yVVdF?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Education Dept extends quarterly vacation for schools till Oct 6",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWFhZYzcyaTBvYlBqbHNoTnJtMUVreTJBc0JmX0VDZzlrM1R2czdSdnVsUHBEUHhHcjd6UThPYnhtc0pHS0hlbWwxS2MyVWRFTFVnX25HZ2RmVVdJRVBuTzNTZ2Fqa1B5TXQ1akNkZU1ub3l6cDVyWXZ3TFgwNGI0bHdPbTBCTmx0ZVg2a3YzYU1vWGowLVpKbFZJY2FoX1VOcnpvNW5INWhPSEc1OUptZkVTUk9DZ1pNNkwyWnRPbDBmbEZOaS04WVBCeE5CREZJdngzRHg1S1JhWTB4VzdtQjF2NVdXanNJM0HSAe4BQVVfeXFMTU9KNVE3V01VTy0xaUdWdGxzalpKMmNCbU1wOWdiQ2N6SGFaR0x5aHlid0JheHVrbnFyUnlJV0YxcjJ6dE1CeXRoOGJnSzNGRExaYTFpYlRJSk90MGZOdUtfcHhkdUVpRG1BX3p6N2tiQ3lBSGp3cm9ULW5kV2ZmcTFCa0ZiV1VRSnM5VmxsbHc4blFXNkNyU0ZiZ1hYVXhjUUg2eVdrWmlwYnNoZzByeUxsZ3dHYXNaR0c1X2gzRjZZcFJkbkJsY0ZZNVpCQUhjYmJCN1lzVExKZFl5Zi1WbW9CbkZULWdsTTJyWDY5dw?oc=5",
+   "published_utc": "2024-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Schools in Tamil Nadu will now reopen on October 7, after the quarterly holidays, as per a revised notification from the School Education department. This applies to all government, aided, and private schools under its jurisdiction. #1ShotNews | #QuaterlyLeav",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EOWNMYWJxMDFuR2RaYUYxbFBod1RmVUxvaENtSF81Uks4SVFnakc0S2VuLWZfaVl5MDZFX0hNS2RpckFXWWdKV01RLW5fMkVsSUE?oc=5",
+   "published_utc": "2024-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cauvery water sharing: Excess rain sparks fresh row between Karnataka-Tamil Nadu",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQVowTlp0RE5Sdk1NbGFUdzZ1eGxpd3h3SGh6RE9pU2JBQUVvWloxcDlabHktVzVpNjhOY0hCb3ViUVhxNmtidGdNY3hybGM4a01FWTlaWjRXempkd3ktNnpXOGVPM295b3Q4eXRTV3JPSW9mY0hBeWlhN2hubzJJUHJiVGtkNDA5N0x0dDVzWDF4VTlhU0NDMVJXT1pqWHk3NEZ5NlNIRVlPVzFWOEtDYjJldkt6RVpHXy1MbzJzU0dsbS1lb2dkWWRDYWw1S0xUZ19fWEVUT0ItRG1H0gHiAUFVX3lxTE9ZWHFsYjBzeUtOUEFfY1F6dDFaLWlaLXNQbkt6WWQwMnJpVnpKdUpBVXkzYWtHZHloVmtGYl82RU9Sb2pqc0pGMTNBTml0QlJjSDJPRk1Vc3Y4c1MwU285YWl6LXRGNG9zTnpUaUZBLTZaQkMtX0xnU3ZyUF80Q2VldXl2cFNJeVY2dnlVUG9RTlc5aDNUMGpUeGVIZGVBclRiU0Y2TlgySlVXNm8tQndQeW5PTWNON1lhSi1qdm1SSU92N0ZDd0FEeS1MS0I3Vmt2UHpxYXZyeEZBTk43cmxoZnc?oc=5",
+   "published_utc": "2024-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

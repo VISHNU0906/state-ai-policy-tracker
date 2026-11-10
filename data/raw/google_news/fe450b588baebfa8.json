@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Investigating Pathways for Agricultural Innovation at Scale",
+   "source_name": "CEEW",
+   "source_domain": "https://www.ceew.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUJ3cFppUTFkVWxGSlB4UnZad3BYZ1lIb0pGSFdhSE5MZlJpQmNhQkNKWGtmMVdwai1aOTBUc2ZmakpzM3ZPMXE2UDRGTlY2TmVxYk9WQ0t1NF9oUks4NU5qeGhheXpjM0pOdjdPRWJHMzZITF9BUkpWdWFmVlNxN3BkM2doUmRYNEo1N2Nn?oc=5",
+   "published_utc": "2022-08-13T18:38:36+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nadu Nedu, other schemes raise enrolment in AP government schools",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQal9YQzVtMzhGNUF6bjFvRHQzbnp3WmtYTHNqeXFLWWZKZDdqY0ZjLU9XaVRJNjhmaXEwMXNDYng1WVRDUHZoYTdlSHc0cW1Rc2RTc0UyQUNnSC1wWlVJd1ZPdHczRTh4bUxlUTNTdUFyNnRlZy02SVlDMHBJNkpMSlg3dlVTX1FkcWlZQ3lOdWhxVWZhVWFjSjdJN3ZwQ3lONU15bmlmQ2R2ZFE2ZWRXQ0lwVnBKdGdhdHRNanBRazjSAcYBQVVfeXFMT2ZlMC1OYW9FT3NvVkdkdmxBcVNwaHVuTWs2cWJvcnB6SmZpM3FsMUhhQ0wzZkpZMkYxNGhDaElaZ3Z5WnpYTWNYX0tLMmptbzlmekJsQXNodzRkbkFCT3dxbXFoU2IwaW1feEJtZUpsTnkxUEJtRnJKRHlZbkF6UEwwQ016Y1J1NlZzQl9sam9sWVYwZzFjU0hmVXh4eWJXalp4eDBsRWRRRC1CMEJ2VHJQOTliOVpUdm1idGJXamhCTGpPOUxn?oc=5",
+   "published_utc": "2022-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Family Doctor system to reach rural areas",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUlGSEZyOE1DbVNjc1pmYldrVEo4OUhLeTF3OEU3NVJqUG1NTzF1ZGtIOTJESXpscU9TSXFsMnJ5MmpWQk1XVlFyRURNSW1iYlBiMEFJd216ZmwtajlTTndBbll6TDAtcXptZm04NDlnYXN0WlRUeHk1MmZyQzJ0eGh2N0RYdi1jZHd5Q25NampRSHZLa2IyZU9QdWZSZkk0bThPNtIBqgFBVV95cUxOLUVWUXphVGJDS0ZQSTYtR2Z6S0s3cV81S2VFTWFqRFZtWU95OE0zeDNXR2pqQ3lTUzBmQzZnN1FUb1BiSVlYSEIzRGlSX3JrM3lSRHdUUnhZRGpKQmp0SmlzeTd6MVByeXRIMlAyT3daOTU1SERVcnk5THNRM2U2OFNTdnVUQndBZEQxQWVqMHVKcG9mZm5RSE9DajNpSm92SFRuYlY4Nml2QQ?oc=5",
+   "published_utc": "2022-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Speed and accuracy are key to cracking JEE Mains",
+   "source_name": "Education Times",
+   "source_domain": "https://www.educationtimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQUs2aThwWHhyUU9fdkFMMm5sS3NTQkt3a01lZWpOT19kdW1TY01HMlYyeDJpTWRrMkR1OEZkaDRBd1ZMX19HXzIydUMxY25yZGJnY051RHA5M3BCR1c2MWdSdU9FXzl2NE9PZWlWSkxIc0gyZ0ZoeUdjc1hRaWxlcUlHTUpqZDFqTkpTNHR1aFluVjJ2U3dLVlZLVm95MXRnUHBRVF9tbjBla2xJNF95b2o2SDJpRU5zZkQ1WVhvMVNVUjJ3?oc=5",
+   "published_utc": "2022-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "21 fake universities in India; one in Andhra Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2FzNy1GUlBibGl4SHBmRDNEbmQ1ZjhDUlotMmpsMlJMY0hVZ3FCc1YyVG5HVFhKTTRFYy1tamNMb2ZrZ3FEREpwVVpTeHZ5dHhDZ29vMmctZVRSZzljLVV3cHVFa0NZMDBoeWNURWQwME9vWl9sU3B2eG02MlpfeTBJR1p6MDRvRGRaY0pfUXpqT1dPQXFKX1NkX0VPUXNDd25vbGdLYkR3dWUxaGd30gG0AUFVX3lxTE9xSGJzUkNvdnVvdnkzLUkySEtPa2FsblppY2Jvd2ZuOW01SEFIYV9wTzFlUGNLdnptLWU5aDAyejhNZEhYX21DWjczOWVYenJ4eGRZRWdHVDI4WlBfNERKTk9hNl95OUF3N2lremZkWll1NnhnZnladnp4dGEzZGR2U2I3b2pSZXVpdXdqdjd0MWhFWFl4akxYMzVQUXpjTkJBb1NGMWZncU9nd20zdEZrcFFGWg?oc=5",
+   "published_utc": "2022-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DME Andhra Pradesh Invites Online Application For Admissions To GNM Course For 2022-23, details",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMTJfc3MweEEtd2hLVjVmQU9IOEF3eE02dmY4Ul82WTgxcl9MRmVHSkwwRk5HajBIYm43ekhMcnhIWXU2bmpWcTJWMHBNVXlHQWtkcFJBZjZra292NVpibU00ZXJYQ29aRHI0ZTU1N2lXU0x6TlZZNElyZlhrbUtwdDRaeGJFcnlzc3ByV25zUUpCRzFfekR6bTBJQ05maFpfSXNxVHd3WElXaHpZR1VYd20wWkdLY196S3FVcWl3Tk1OWWFhak5KbkVuMWZTeDZkSDIwNWt4VHB1dUlaQkVvUFpZVmpod9IB6wFBVV95cUxPbGNfZm9MdDRWNmpWdktBbHdGOVREdG5oczlvMjNRdW1VbEJmVDNIdUQ1S2xXaC1BWklwSE50YlBRaklERHA5THlVVTlSR2p5LXNvV2FKUDd4dG84Ul9GaUE0TktIWjMwOU1vYVRGd1FFU3lLRThlTXBYOW5sRmp5M0VSX3RGQXFHZV80SXRCeG1QeTFLbFBRaTItcTJtYlZWbk1CTnJhUUJja0FBR2otMnFtYlQyM18xVDhNQzRDN3dSc1haaUZ6Z214M2F3NnZxQ2VxY2F4bWNOOWJ4UUJKMlQ2MkFQb2lKMHNZ?oc=5",
+   "published_utc": "2022-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Roe v. Wade’ Won’t Be on Next Year’s AP Government Test",
+   "source_name": "Education Week",
+   "source_domain": "https://www.edweek.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ283ak9GOGdMNGowUDJfM1dxS2RWd000eFVGQUlqMXJGRlB4WWtUYk1hVXlJRXI5UEhBN2E1cGQ4YkNsUGE1NUxNN3ZheGp3S2Y5dlZDdnhXTVNmcVdndG5YNTAwMGxUVlphX0lNR0sxTWFON2cxTTI1bThGcjFGWGZFRTJSdkNadXpZXzhCeWx1R0xQcXBjdFJSa2g3eV9iWUE?oc=5",
+   "published_utc": "2022-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Many farmers giving up aquaculture this season",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3lhbFVVaDduTUthY1JiaW02dUtzM3BzeXgybGNQa01scFk4cGVQc1VwQU42enROVGF2RFd6bkFPRnRQZ0dQajQ2dENBMDNOQWgyalVkQ0FOUWxpalF6ODdNUUtXX3VDSHdyR2hodW5iZ25PRHgzc25VLUE4MVNGMXNqWFFTam9aN0pDOGNLSGNxWWtYdU8yNGNHUW8wdkN4QnAxcFgzcEJLV3REWTE1cHFqRdIBuAFBVV95cUxNa21xWlRMOTZZVTJtVFVZQWV6ZndFdThlcmJvcE9jNUljR0RONzQ2MHNSNjloMk9fWGYyaWRfRUdPY0VMemd1SnV6bDBPeEk2Y3ZNOHN2U1ZnTFU4RWVGZF9ST1NlSUdDMk9JQ1hpMXJUSUxsbGFtN3g0WEZhOFJ3M2NQYUlEMXNCYUlNYVlDQ0dDNUY3Z0MtZ3FucW5iY0JpZjZUR2NYMGdsOV96M0dXMVhEa3hySzFv?oc=5",
+   "published_utc": "2022-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh reduces SSC exam papers to six against present 11",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1YzT3RjYUFONDg1dW53ZlZPRXd1MXhJMC1GZC1SN3FuZ0lfcjdTWTRva2JkQkI1Qzc5TE8zWjBOYXI5dFktM3ZWUEY5NXlhZ2s0Q0l5R19DQ3g3VW1MS1ZpTDZsUWdnWktFcVktWDBnYkZCVUhPMzZETDUwb2pBdmYxd2VqSlhpRWlaVkN2UjVwMExaLWlKRlhqendnY1AtdWVVcC1QUE1GTGN1MlJYQVdRbko0VVJxZk9taU5ITjLSAcYBQVVfeXFMUFdJOUo2UjFhQ1dFdjZmdEEwMEsyQ1R6bDM4RlczR3Q4NVR0T1lSaFNjTF85S0xhSzRrWjJKN1owVmhLSzRLeUN5Ym9sVl9RYlpqT3RyNld1YVZRRHBhZl9DdzFDcnBrM2hXS1c5MWlDendWNDVCQlV1YVRBU0ZpQ3lmZjlHQTc5NzRhdEMwTTFZRnJOMUVTamVXUEY3WkJjNm1yS0NjaVZPUS00Yk9Ca182YVc4TFJwM1hhTkVJWERMeUNwd1pB?oc=5",
+   "published_utc": "2022-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CJI Ramana says education must for economic revolution",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWdBRVdfNnNCNmFwZldxaXk5MjROQmJhSTk3anVwa1I5Wm9OMUtvdU04Uk9aT1JyWVVPekRzaUN3b1pCQlZMRVdHTzNEQjlmZy1qVDRTWkc4X2xianJMVVNucVVINHR0ZkttY1hrSGhHemVaTEVHczAyYlhpa2dIXzduR2dIS3E2N2pfSzRrSE1hVUZWS3VkbDlDb2ZPdWtpQzVNSTNKVEtuSFp4eHFiNmFjY1FoQnQtVkl30gHAAUFVX3lxTE5ZUnRtcE1vbWdDdzFkaTVhb3lzMkFQS1pGd1hMMVhjVlFwZ1hzc2JjQ3dZYjVreG8xVHZ4aEVPaGZhUXBjcWczaDkwbXJkMkIyNDVSOFY4Y1l3VVFvd2VLSVNsV3hPTC1LU0syZ2dDVzM5TXV5RTZhSEpfUkw5MUM2OHF4S2RLdzh4VGd3TWVxeUp2U1FhSlZJS2ZZQW94Rjllc3V2bndLak5oa3ZvV2stczNhNHB0am1IWjBlRjFJTw?oc=5",
+   "published_utc": "2022-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

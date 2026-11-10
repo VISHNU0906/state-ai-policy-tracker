@@ -1,0 +1,69 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh lauded for digitisation of information on public health",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUtGNmEya3c0VTgwdkRBM2c0TU0tbnFaZUV5cUFKdjU3VThCaENUNHljeFdtclpCaFRXOGlacTBPNkpkSTN3YlB5MzNGRnI4aFRmR25Rb2R5ekdzbi1vLVhPaDRKSERRYzh5Zms1UVVBWGNkdlBZSTllaUxNMFZTemx6NmJsX0VOME5RdmNOSndNd3EtZ3FEMk9QczFzZmpNc004XzNEOEVhV3J2THpyR0htaTIzbXU2aFZHNHoyRmNXeDVJMURibkNMS01NMjJ50gHWAUFVX3lxTE0yOWFtS0FiTjlqSHlNcWNrYmdpT01CNG1PT1BNNmNEMmR2Z1lieUZOTkZtMVhFY2o2TVA1QkJPWVQwUzU0VHJ6djhVdlpURjZQSU1YLVlwSWlCeFNWVUpENlVQYUNiX0d0eU81WXZsZUhidG9QYmZPWVFZNHdGVlhzTS1idUFUZmstbExPQ2FPNnlLZGdfVWhJVUdqTm5xdXY3bGhneXBrVmh5a3luVGN0WnZKQTM0RkRUcG5jQnZGTXFCSDllZF9ZOFNWTFRaQ1VDSVNEQmc?oc=5",
+   "published_utc": "2022-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh first state to adopt CBSE system for government-run schools",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORHJ1QldMU09IUmQ1XzZyOHZ5ckxBdExWS2MzSGF5dDJhdWJuM1hDRmhyTkl5VVpnWktlQ3ZZQlplbjlWNGs0RV90N29yZUNzRS1yNk91cW1vd0VpcElkWVBrbHBCd1N6ellTRGVPSGFQUm9CcWhlbFRxWHpFM2xnSFNtdmFiQzh6eC14SDhkNGx6VUdJRDN0TTdZWkNkLUxXRjU2eHpZaUNGWjVjRkYxMkhmS0xMbG51Ni1GMkJ1ZHpRQlpvYXBWWi1wNTZnUUJfZFFWSE9VVFFIVjdub2tpUW56M3lFekJ3dkE?oc=5",
+   "published_utc": "2022-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Subject teachers in all AP government schools to provide quality education, says CM",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS1JTbXFYWG1tZ0Q4YWVsWXUwSWc5RHBCVDNBS0dFb0t3NEJWZHhGalhuQkdPODdwUHRfdjRQZGZFWkhvaGYxUTM1WlVtMTBjX21nYllHUUhCbExWNFhoYzU5R2RmWGU3TUlqUFYzUUFKWXpCX1BUa1lpMHFLcElwUndQTUJCNjZqX2RhdXA4RW1XU3BQbFpWanVwWXE0Q0t0a3R1OWJiUnV0MHJGc296bk9MS21McWtTQTFTMXZ1b2xqRk81V09hbtIBzgFBVV95cUxPRkMxcVBTbXRXMmNJQUdEQlU3MWFNZmdCU2Q2TXlWOUVWTU1BRDJSYV9PQmRQSy1iMWhObkRTWU03SVh0UmFVZ3J6Y0lTUlBDZlJtbk9aQ3U1aU1Vd1JHeW5QVWZId2tjV2ZOMnZ5UEFIeHcwM2tFYnNQSHJYU2tiY2tGV3pWcUdmR2oyLXJWRG9NaVdfOWNhY21Md0hKN2IxZXVjTTlodlFoZU96ZGtKRzJWX3lUR1p6cUNFcHhmMWM4YXZ4cE1aSlA2OTYtdw?oc=5",
+   "published_utc": "2022-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Surge in Nellore Rice Demand Cheers Farmers",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGVDOGJqVUszNzN5ek56TjdhdjN6YjRKeEZFbnFYeXJmNWNVY3NIYUZNaHdWWlUwVjZwTnRsOTB1NzFVYllXS3RaY3BDdXY5Vlp4TmJMeHRiTzFUTUg0YXlXYzh0Wmp6NzFqdk80T1lqSmpWTUVYOUJhNkMzTVR6Mk1mSi1iTHdMTTBGbGxIbi1sRFdDNXAtVzFRZG9LdXh6aURQMtIBrAFBVV95cUxPU2F1bEVkMXJKTE9NWVVESUgtejJwSkhFczRVYXRkaV9vQXR2WW5USXZWUWRCZ0hqQVNteVVWaExzUi02SWk1TVNEWWZBMzJYSVFNbE5yeFJGX21QMThEWlVJaVg0eDhfZlJRa2NkQUNJWlI3Tm82VXVlRV9yS1VYUlJlLWVmc1Z1Slo3TkZ6R3pucEtXbnktbEU4NVJXcks0dzl3Z0kxLVZGLU84?oc=5",
+   "published_utc": "2022-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM follows PM, stops convoy to let ambulance pass",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGpkYU1EeEVQdlNqOHR0YUd0elh4elVmdmVVZU5ZYlJHd0VXQUpocWxYdjFMYzVyYnUwRmc2YXJuWW9LOFhkTkZnNF8tY0VtdnJKN1VEUUVEZG9jakw0cmc5MXNKQnlaN2JZVWZQeWFsQWRGX3dWdjMtZ282YkVpS1hTc0R6QjdRVm12cm8wVnBBMXBqXzl2YXVFbURnVml0U2FGc3AyX1hfYUI0dTZsU0hRTnU5WkFJOU43btIBwgFBVV95cUxOVmxxdW9JVkllQkk4cXB3NGEzeEk3QXd5cUNFNDlnM3hlZ1RNUmV2eEdHVi04eXJiM3J6YWRTZ0hnM0FWSVUxcWpFcjZPSUw5SUdra09CamxBczdOTnlkUHRfbU5TNGRrejBHWnh0MURRUFgyb3o5YnpXbmJIa0s5WjY2QVYzUGpNTkJsN19ESGZIQm5yWGs2d0dvZXVYZld2clJlMU1SSW1CZzZsWC15Vjgwa0U2SUNwNnBETGhDa3k2dw?oc=5",
+   "published_utc": "2022-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: HC nod for recruitment of Anganwadi supervisors",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRklYaTdGb1JsdktUQmMyTUxXUGFKM2JQMTZCTVJidVpZYVpvWjJpOV9GeW03QkIweFFfaHBmMTBMaU9vMFdwMy1mMWhtZzZkOGZBMGZ4VnpwN1FfdS1tcnI1czdFYnpkRTViTXNkYkJXNndqRDF6UWYzUGRGUzZTS3lIMk1RX2ZnZnVIM20yLVdkcEp4NTFnNDM5dDVKR256dkZpandmaEFQTzZ2VnVWcC1Ca2l1cGtGZWVlT2RLUHU1a1RKT3VtcNIBzgFBVV95cUxOVVppcDB3bm81TEl1cGx4S1h5bFUtbkFEUVcxR25kLVFuSnNGMGRxMlhDV3pocW1LcU1BY2IzYUtEUzNfd1UtSGEzMWFLYWRJb3lCX0xlLUg0SFNDamwtS3lSNUg2amd2Y1FnVjBKUG1rMGtQbHhlLXpSTmVWYnhaVnJ0N3VhRnFNOF9fZVh5UnpJVHBnQ09yQmpBb0Z0dEowODRtZGZKQzl0VmJYTVlhT0g4QkVlVDdGTm1vaU1PWFREWjA5RjA2OXdSUmp6UQ?oc=5",
+   "published_utc": "2022-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vijayawada to host 3-day AP Poly Tech Fest this month",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFVDc0w2TjI4djRCRk10TF9JNXE0NlBFOER2a0p1UGRpNjl0eWdYYWp6cHk1N0VjVkgybnpudkVEd0JmaXpKM2RwOFNCREM1V2pSNFlmSUYwUHZnVV9fSm16UzZzRzAtWHMwam9rMElJa3lGdUlBSS10QWUySTZJYWVJTTJGa0lzWWdBRTdRdEdFaV9tam1OY3Y5NEJPZXZqZEhfOU9PcmhSdG9xakR1ZWpiRVNSN1hmMGfSAb8BQVVfeXFMUHMzTnFaaGM1NnZYMjliWC1tVnRmdlVLNnNjMnZHaHhWZUpyYWo5bWh2WDlFNHlQZUZMUU1nREdlV2R4ZUE1MjV4elAwdHBBLU40SHl2NFpMblIyUFUyclJHeUg1RDloQnE4LVdNdWc4QkMwWnRyNEdXaDBzY3piM1dXUTdEeXpPM0hQaktHbm1vYmxYR0QxZndmMUVIUlBxbHVwWGJ5bjVvRjVld0ZZT3BFWmxhbjZnU25WR2Q2a3M?oc=5",
+   "published_utc": "2022-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tirupati: MNCU inaugurated at Govt Maternity Hospital in pilgrim city",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQlpwV2J2YmExMzdZcDVGWUNQbVBONW13TzJoMUFvUWRoRDRQYUxNeXlQX05HblRqSzFSb1J4eGlQQnZYSEdYOU83bFZ2bjdOdEk0U2UwOUJwemszYVV0ZkNpWUVpTHd3MFBYRWpJS2N1bTVZQlQyb21IYUhpd0U3ejNFWmJKbEp5b2dTQkFRdHhJUmtOcEtsZWk5ZGRCU29ZNUtFMlBLOWg3ZlRRcXZvOHp0bmwyQXJUV1hR?oc=5",
+   "published_utc": "2022-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

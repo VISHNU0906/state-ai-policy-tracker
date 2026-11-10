@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "Maharashtra: IATA Allots 3-Letter Code ‘NMI’ To Navi Mumbai International Airport",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTltOG9RdkNZLUhXTllhQjE3cTdybkl6eV80Z3o1bFhkU2R1Sy1sa293TWlCYWQ3WDRSYmgwUUY1YU9ibXBpQUd0WjFpc1lWcmFOSHlXLTV1Yk1HMjUtTUJLOVZ4YXBRNnZOM3dJSzMwYWx5YTVqeEgzbVlqN203OU5nTFgwT0NHU3E3SGNSUTZrcGxUQ0Z5TDZKeTltWFg5eVFaX0ZHX3dzOS1nNHFxZ29MNU5OZzdD0gG-AUFVX3lxTE5PM3BGalBqYzhGUkZoS3d4dVlBZU1nMlU2aGN2ME5pTGJOeDlFSzlUTE9TNzU5bnRER1h4TGcwc1JnTnlwRGx4blNjUlNGdGhkN2phRGwwckt5TUhoZjBqS3R6VmJ5WFRveVY3SjZ2ckNIclNxWldvV3Bad0pyb3J0cE1SUzZVMkVGcDZpWUVMN0NWVk5sVldlUXpXOTdXUHZYc3BMdkNTNm54Rk54X0l2V3FhU1dOMVVGZDlka3c?oc=5",
+   "published_utc": "2024-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rashmika Mandannas Deepfake Video In Bikini Near Waterfall Goes Viral",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGE0QXJkN2k4VFFqUDZ6TEk3X2l1UkZsOHplQVVrYjdETWZXU3hkY0M1eEQ5OXJrdDBhRjI1ejhmbUdJQXFrM1VIdUtRN1Y4RFdzdHY2REhwQzdfNzhRSnpNVklEQllYeG9iVUNGVHJUcFBWVVVnTTdUU29vXzhFWFhlbHdobWtwdkdSdjNLcGRaSmNqZEZ2RTlJbXc5VGkzb0Z0aGpaM2M5b2tTMEFuTVFxMUhFQdIBuwFBVV95cUxNQVBQTU1KZlBpNm5OSEpWS3kwVE1LRzAzekY5d19FdEtMN3BLWkJEdFNoanM1S21rX2ZGdDVGSUNUZE5BWWI2TUdMQmY4R0RiSW1GRGJ5ZTYwcVhTYkhFMjRBSXl5QTU4NjlFSmxUVlF4VkJiWW5wWmpTWjNTcl91dmJPSm5PVzM1OXMxbVNJRGI1dFFaSXRRYy1EOXE2YVZoelZubXZoZHBGRVpNOXlrZEZKbF90YjZKcnVJ?oc=5",
+   "published_utc": "2024-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

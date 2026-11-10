@@ -1,0 +1,21 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "AI cameras to curb poaching in Madhya Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWs2NEZaYWtRSWVkV09mLWJiZVljdlVCX3dXaXVWc3NVQ2h3YzJhUjZqaFJ5ODdtT0V1YlJYZVpSMzJWdW10Qm1iWFdMUzEwWmNEdXctOTVNOVJPanoyc0ZCajFNM1l6d1E0VmU5YWxUMmktd1A2bDdoamJDa1VsN2hwQVotdTR5VHVjR05sdUhreFE1UW9JNC1yWXVxSDFGeG9zQ0E2SdIBrgFBVV95cUxNamRFSU42SVo3THZITnhqR0xYdHFGdkFicG45WjFRaHB5VzFFc09zMU5hblZPV2pIVFJ2UlhGVkxvNU5aVURzOFJFczRST1VjeGprTl9udkR1WndJOGVLVXhQMnRBNWU4WFhGMnJqaTlxdk1pbmVjMVNpbU5Yc0h1T1VOYi1EcjRaLVZGYkZtTGlVMnc0VlV0MHZpS18yclgtNlNYWGFvTEVYSl9nUmc?oc=5",
+   "published_utc": "2023-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh To Reserve 5% Medical Seats For Government School Students",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWM5dlB6OUR0Qm1MMXJ4eXM2enVUWGpVbEYyWkwzdVVEVkdLTTcxU1gwck9yWUo3QXB1c0ZCZGJtUHVIcXNhaU5HZDVYRzlYLW9oYnVjMDFpcERvdzZIWW1QSEcyMDNPUVI4QjdRWGszS0dRcWNNVnR5S3RIeVJMWERZQXZJamk0bHE3TE5PeGFWaFloZkNNSkFFSjJ1ckZxb3l2NzRKa1FmVHJkdzdPVdIBuAFBVV95cUxNTEtYNlliMGEwYlZGRTY1cGgtcDlBQmE3RTl6akFTSHFjYnJabXJZdTM0b1EydXdBd3hPdVJ4VEx2MEtfR1dfTHJDOWNyQ2E2RzZPV2R0eVlnOEdkUmtnRlA1R3o4d2dqRTRpTlpFTXpib0xrSXA4UGlwakU5eXMxYUxDa242YV9UY3NQbElRV25YY3NUNzhrN3Q3aUl1ZWdYcG5vcG5LUzJzZTNENHFsR1FiOUFzOHpu?oc=5",
+   "published_utc": "2023-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

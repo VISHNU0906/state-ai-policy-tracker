@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh's villages lead the way in climate smart agriculture",
+   "source_name": "India Water Portal",
+   "source_domain": "https://www.indiawaterportal.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEl3aU9Dbi1PY1BESG1rbmxmdTZ1Yjl5RXFqeXA4RmFyR3I5bGN5cjBMRGd4bVRtS01hQ0laekFtS09OXzVNd21GckZKM1AxRms2c3liSGpYUEoxODA0aXIyWU5lNFhIQ1FoWVJvaUZiQVhFcDM5X2dNTFIwQV9MQkFQZ2JCUklkaldNZXdtYkpEZ0JkUUl1dTlRMHZvYWo2clZzOG96Ujh6MmvSAbgBQVVfeXFMTXFMdmJyem5vaFlsR0hXZjY5VW5MLWx0RlQ0X0xNa0pEQkNXSWUzMU9xNklnNFlBUTYtbHpLMEg5WkN1NFZnNXl6MVgybGp2MGQ2SGg4TGdRT3ZCcFJyN1RfN3duVGZLclJaMVd2bXlhYmlzRzBLal91Tk5FUHdRZnFuUE5Vd1BGaGNNVmJmV1pGTEZycVJlMXEycEthdE9uTzFfS2tYbnAyTTlvbDZ2SDJQVmQyMnFacw?oc=5",
+   "published_utc": "2023-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Compensation for crop damage to farmers goes up in Madhya Pradesh",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWRKeklPcGEzcUZsVklObFJzdFdCLVFhTWNfa045RDRxd21JdWZibXZ4djFVZnlqSGJWVlZLd0VCMVNoUzN6alN1ZjdLVVBXU2lJX0NGSmtyOU9sdlY4cEl6U2tGcXpFdGlzcVVjclhyNTAyZzJZdkIyRzk3Mjc2aWZnMHN6MXd1MmtPdnNudDVienBaSllHVFl4YXZLcDRueTNzRTFKQWtIVHpmMG5CRmR0ZGV0N2JRT3lXUkxwY3VMdFZGdURaRmxR0gHPAUFVX3lxTE9hdGViRTNmMk1EcDBvanUwMW04UXp3ZlhORGpLbkdObE5kUDlrUDhtY05ITFRQM3c0ZzF3a0dFMVNCQW1BSnQybEhvaFdxdnp0c1FjYk5fQnFxS3RHd0NzZ1pVVE1ud1M4ZFhFWkRmUFc0TUFnUDZPUW91dUdCR2I3cnZvVVM1eGY2S2hyQm5KeFpJMTR3VlpORlV4czVGZm9IWDU4QnlielBWLWgwQzFrMERDYlZSNU1fNWFra0tvZFR5M0FVVXAyX2FJRFZoUQ?oc=5",
+   "published_utc": "2023-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Thousands Of ASHA Workers On Strike In Madhya Pradesh, Demand Salary Hike",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE1vWnU4UDVUOTRqbDZSZDBNT19lQkxMRGhDZ2RPWDhaQ0xMckxsQndWdjdMQzhLbkN3UjRKRlFSSnpvYm9QWXpZU1JjZnprSEI1YmJDNURMSTlwaU1QcTBBa1NGaGxxUGNYdVo0MkxYMUt6amF4b3I2NllHTFZiNXBXa2lwd3RiRWRvNmxacjQ3cEdkWnFQQnRla0lqTjhrQU94OWhTLVJZbFJ3MEtOOEJR0gG6AUFVX3lxTFBqWHdjSTNBeVV1VGhBS3gtTFByZkJjUEtJZkh5dDltajRRUW5EM0hlUExxTTVGRmFSemx3bGNGNzJ2cEl5UVRhUElTN3R5TExkdjg1ejJxbkFRRTFIVHB2ZEtFYUdDZDU5YThWWk4wbDBOQklSZUo3Q2FXWXJDU2JsVlVhbHJ2WUZfdU16MEVwS3hMNDVySDQ1eW5WREo3UmRGNGxEUGhmZGkwR1lkSTRJZmRiSEhxOE41QQ?oc=5",
+   "published_utc": "2023-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Government Scholarships For Students - Eligibility & Deadline Date",
+   "source_name": "Careers360",
+   "source_domain": "https://school.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15eXctN2FPZm40dHg1RTM4alg4dC0tRnVRcGZpbFZFMlNRV3plVzdyVG1wMk55SzNaSEhhaEJ1b2UyWVJPRnV3NFU4SVQ1N2Y2Z0dobHFWQmc2UDhDNzFERW5DanozSTZ1WnpHLTAyYUljQQ?oc=5",
+   "published_utc": "2023-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Talking therapy: ASHA workers offer hope in rural Madhya Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlHX1lqcm9BWG1lSEdIT1lQT09oUVRNQ2xtSG9EQmppNi12UUtaTG14NkNTR3NHeHREXzNKTGpJaEpwekpDaUVXalY0QXc2cmU1T3NBLWlZZmdiajNESURYbTBlMkVWRUlFRGU0ak55U2xCOE1FbTBSdUpkalJsSV9TRVJCNFdHOTdNdmFHa3ZzNmhCaURJN19QeURaa2ZQV01XRHFYdmQtQzVXYktVX0VQUWpYYTd5ZTVyaDVJWdIBxgFBVV95cUxON0EwdVB1eDN3Z0F1QmswSURXbFk2WXdzTmQ5R1ExM2VBN2NOOVNqYzJwZVJBWVhRRVBsNEZMcV9QSzNmODc1S1UzMDlRSjVGT0hNZy12MkRSNGdJZmtMNFZ3UzB0eFRzNndNeXFVS19tVUJrYm9mcWZtN2h3QWk4VWxYZWQzVDFCN3U1WEJJMWVBd043VHNhaXJmczU2NlFHNkdiWGNXVXd3RHUxQ1BUNXgwZTM4NGF5X3Y5SHRWenRPc2xMSmc?oc=5",
+   "published_utc": "2023-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ayushman Bharat: 36 private hospitals de-empanelled in Madhya Pradesh",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQndiUExUMDJQOTh5MFV0UmNnZ3hWTVJKeGhzbFpOLWljei1rSEdIVDhWRXcwdXQwMTF1NGxiZVhBYnR3blFuM1Y2MEVhQU5OQnV3SldpRGJsNGJraUhxYWF5aFlZZm53dHhhbGJrT2VJdTd4QkRTX3lYZGhiSlB1SG4ySWdzemRra2pmakRfaFJOVWVQOVc1Z1VTWlhVbW91cEs3RUdMWEQyZzlnWTVjOVc1MHZWVENuejV4UjhjLVNnSE4wVkdwbEVZaU9xOVFwZVHSAdcBQVVfeXFMTXlieFl2cVRzams0d0J3WTFQd0tzbVdQNTZlNGV4NUp0YjBFS1dNZUZVd051VHhEVEpCam9ZRHY2ZHYzUHlQYXlGdnZjYVpybVp3QUhYSkVDQ1VoaWJaSmNNOXdUS200SmpITDNabEJETmhQelNXNEwxUEsxTmVNSWZyaGNSR3UzTmVZQlFfbE0xTVZhamJwSnR6WGZKZzJhYXZWOE85aGpMbkFLNy1ndFpkcnliZmFTZjBTV2hMM0x3bURudzJOMkNDYUY2bzBVX2dPTFRxY2c?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This school in Chhattisgarh's capital will teach robotics, AI to students",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWlndXFZTVJhOFNCYTZfZWl3c19IZVFvVm5nbE5uTS1PSVlkTGFydFRId3VxYzVWeGRDM01CdW8wUWZPaHhFQjFVUWliVlFjdnEtWEhQNHl4VFUxUzdmRVFUaGFJYWI4LWlsdGV0ajUwelVyWGhCSG5GRG45VmgzQUQ4TnRRY1lFcU5nNFR1M2hxS0o4SHlKZXRCSGtqNjQ0aUhtZVpjelg3NUVGUTVxcW4waXJkQzJHWkZiNENZa0pZS1hXLVluSW51bG94dVB1?oc=5",
+   "published_utc": "2023-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Madhya Pradesh to Odisha, Check Summer Vacation Schedule Across States",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHl6YnBUQkFua0g1bzF3aXNMcWFQdk55aDFtQVdxUzNudThSVjlRMWZTaWZFcUZfcWRMR3lHVHhPbm5lekFPNlY4aE9vYkNWVDc0cVhRVnNhQ3E4ZDJDUVRXeGRyR0p1ODRlTDN4S19XXzVRdkY0X1pxTm9GMldCdjJqbERUNXYwUHUwOXZxbU5oQlAtSnNGWDNmOFFfMzUxd1F0N0NER1BWODlGR2R5LTE1VEF1aXdpZ0dPVDNqUXdkVzM4VmfSAcsBQVVfeXFMT0Z3WkpGWnNzYmZSTEhoMFIzWU1RR0tGTld1eEdlZlBQTTJKc1hRTlFzbDd3U1FGQXhqaG9OTXBSeEctR1FwYjladkdRSzd2a0dvZW5DdHZkOWRza092WHpYVF9way1UVlJWc29UV2F4TXhUSTdEOG5XT2RXNlc1eF9paWRrTmtFTGVLanprSnNDYk1DWmhHblhYMkExOFB6SmpJVW56b0hYeVdLdmFxekdQbVJ2WUVqUXJqbnJrZTU2OGlpWTZwYlRPRUU?oc=5",
+   "published_utc": "2023-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mob Attacks Madhya Pradesh Police Station, Frees Dacoit From Lock-Up; 4 Cops Injured",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHpqWlhrU1R4T0xBWEMwQzN6Z01YV3lTT0RCbDR2RHRUUEoyNnhGR21iLTVVaFVfQjlFbktnMkR0QTRid1plM1V4bFNod2ZRYWFVdlZFS0dIdEdrc1ZpN3BHOHpVVDFER0NlWVBXZW5Pb1g4ZFlZdjBINXhZQVQ3SzZRbHE1ZDBGU2xad3l3Sjdyc0U1VkZaZTlKamVzZXowN0ZaeFpncWNMWVNoMWxGVEFuWk8wR0ZuSXM4UWpJa9IBxwFBVV95cUxOWk9MR2psZ200cWNzWVBsZEtNUmZyV201bXdabnU1MW96b1ptd0hvektaWFdTWlVVR3RXVnMzelZzZWdZMnN5VmloZnZBWENvUkhsNVpBZnB6XzVhUGpfWjJJb1pqSjAwTUJfYThBcGpZeW1IaW9GU2pYNnBVVWJQTF9mdE5HUUJhSXU3aHJRQVZZNWhSOTN0aVN0SUdKWTctUjlWQlVpcWxGU2JlNkt5Zi1qSUZCZ2xLQXQ0aVZESzNsbWxfSVpn?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bride, Groom Protest At Police Station After Cops Stop Music At Wedding",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDNBRXlacWpWdUl0N2EwVExSNTNzejd3UXRLUFcxQTRrSUFkUkMtR1FYYl91LUZ4alVWVTdCM0YwdE93Y1Y3bEc2bmdxRzUyb0NkelZxNFBscGpXUXpBTEo4bWR3WHBldy1qVURfOGx6cDRIbU02ejhwSWN3c1ZiODZhakRjMjNORm8zb3pocC1vc2pFaTNuQlZOek5MNkJqemZlZVJPRC1XemxVeWdLWS12ZWZhdkM3ZzhBanBxb01hZDDSAcsBQVVfeXFMUDF2d1VObURqM1BVTVlJa0Fyb2l0QUhaeHROeE1Nb1JfNFdRSW9HVjMwemp4TU5vN3RkZ2tpSzRvUG45ejRiSFhkdjRfNUNkOHJSUGliaFFZZ25uN1dfLVR1VXIzcExQWE9LalpTYjY4LWFQWXNuWm5Ga1ZFMjdrc3FmRlc2NElsdkRkQTViMmo0bTJkcVVjcEpVZHNZblN3bDN2bVJoaHpjajVWMlowM2g1akhPY0diNXBXZFFZRFF5U3VYSTNGTDlUekk?oc=5",
+   "published_utc": "2023-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

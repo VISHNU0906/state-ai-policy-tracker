@@ -1,0 +1,53 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Andhra Govt Teams Up with International Baccalaureate for Education",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEFVTkxhNXhhTjdJTWgtczFGY2gxSVYxdC1KZFdaLVp0aGdnNi1oanBxZWRiLWp0U0tRbDdEaV92Ym0tRWd0ZHlQUTVJaUN4M0x6aXNLN2p0aFZKWlc2Y29xZ3ZybW1IdnF5dGtmSlVESVZQX21aMXVWNU53OVdHSW9yUjBHQXNhWWRvWXlzWlVDdDJqbHJvc2lsME1qN0d1MUtCeFJDbm5MOENXMG1HUTJSZ9IBuAFBVV95cUxPc1M3N0ZOaTB5cUJnMDRvZkdoSzBIbFc1ZnNPTlhjRElyb1JQcV9vMzFDa1RyU1dZaE5IdUNZQTJFNVZ3M0RNbzl3T0VxUmxoRlFXeUJZSjdOdVhXWnhpUmVqYUJjSWtheFVOSkxSLXBBQWZ1ZVB5QzBzVjhBZ0dMTHpjcTJ1UzNwcDBOLWVtX3U2UGlVOWVjRVZOa01UZkNGZ3U4UzIwNWRoY0FfRTJPQ3RNUEhiRjdm?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rashmika Mandanna deep fake case: Delhi Police arrests mastermind from Andhra Pradesh's Guntur",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV1JFU3ZqV1lhbGxPTEp1V0xVVzVlZHhXR2ozZmdCQ2pLRFBmMzlPVmZESzQxNm95TkpXWkFKNTFvNWZNN19aaWdNUmt6aFJhREt3eFN1eXRqdlFBV0VZNEJMWGNQSkxGaEIzSkM0Zl9PSHhfdF93bGFXMTBWQmZYS3BXd09WMmFSOUY3cklxU1ZjeUZsZ1ZSY2tuUE1idXBodEljT2o1eXJHLTFhUXlmTUc4Zkt1c0IwclZJYXZEdkdHWHNlVFNMVnNWaUNwR0pjTjB3WGdqWHpCMDV3VHhGWExUb3QyYzdMLVE40gHwAUFVX3lxTFBBVk93b0ZQU00waW1yUHVGZkZRb2tUaE9jVXB1QmdKM2kzUEd0RmVQLVh5d01xc1N3T1Y4ZHNqbmNXUnEzNUg4ekszR3lCTmI2NjlnaWtsZG5BMjNnLVJVc0hhcFhTcEt6OWtLdjQ3aXdaTVpWRHJGLU0xR2ZmY0oxYTFvSnlLYTB1bjdoMkpCS1h0MUFQNW9HaVdzYm0zOXlLeE4tWmJWaERjMHJ0MTFRZnpHakNiaDNhRjIzR21GZEZ5SlBCUzl5b2s2elR1WTBsanNuMERVMmd0S2dIOW9QRW9mQ3pQeG55N2NxVFNOcw?oc=5",
+   "published_utc": "2024-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Government Suspends 39 Private Hospitals from Aarogyasri List",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmhTTmQ1bndFT3U1d3J3N3RlRk1ZZWEtb1hKLTJPZzRxSWNCNXNMRlZZZVdzcGhETGtWR2RaYjQ4TTcwUExzNFFRNTNlTG9uVUNKYjJ4WmxjX2FGVTBKNV9rakRaMHBLbVNBMDlUMG1jaVh3eEo3VUJ3dU1yVThsZlZWam5iX3ZYWGhrMnVYV25qc0xpdjNQeUp4NWl6QjVrc2RCVnZkcEJJMEk3cnNVRmpqeDNSUnZmZkNGbjZaV0tkMkFE0gHKAUFVX3lxTE1aVFUwVjBCRVNwczlrMzJVT0h0NjFFTUl4eDZPZDBBWnJTMW4wRERJVTVnc1EzcWxJeEVZbnRheWFGaEJRSzNla0JVYjdsRENVTHZSS3hoakctNDZSVEl3cWM3RTdmVW9tRVZtVjVIdnZ1TFo5d1ZrdFJPRWdrSUttaUFzRXNEY0FCSHgzRGRSdjA5RERHYUFLOWZDSHE5NTFXX3kyd3JBMUpSOEZXRjRMQV9TWUdza2YxNjFIcUtVZTJkY2oxN0w3N3c?oc=5",
+   "published_utc": "2024-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Jagan Distributes Enhanced Pension of 3K",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjVDSmF0eTQ3T01hbzJKSHlHZXdsU2VhS0RweFRRcm1WblhSZUU1OTZ5ZFl4bEVvZU93VjhwM3VUcXVqUTNVdURVaFVScHJxMG0tNmQySEhUSHhockZiVlFRd2RHMHFtRnVvbHVOWHZPcGhLTElXMExFZDBIb29JOFhTYXRIeFIzQ2tXZlJaWEEyd285Q0I5OU5oaGxZYkV1VjdudDJWS01NZW1Yb2hIampja083UnJELUHSAb8BQVVfeXFMTmFLMzM1UUdyd2FyLWxySlhtWkpYQ3F2YWRhbXpqRFVubEZoQzd3VWtHektBdkFDaFF0c1JsR1lvenpBVm1QcGZVTTBPT3lZNldJa2JyUU8zOHpJemx4V0MwejQzajlzWnJwM0draThwUEdwVC12Q3dSeVhJcE5GWDhCSE5MVXR6dmxsZmVaTTRZTnBxWWpJT0JlcmlMMTRxajBJdnhTMURBZWg1TjQzQjdiNDMwVmIwSFhQYlhQU3M?oc=5",
+   "published_utc": "2024-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Government Gears Up for Caste Census Bill in Budget Session",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGxRTnRlNzNSaVhGRHQ5eUZHbjlxLWhybGpQV2RUSjRrVXkyTE42Rm5ROFNFRUt6MVFSVHY1RjRIbXlTWUdyY2x5a2JFaVVzbEUtbjQyZ25IT1R5ekhtX3hJSEdUbUJKcjZ5TEkyM1FuNXF5VUlOLS1lTDNwalc4WEtMeDJ0TUdEMUVKZjBRSWo0YnJuYVV5MmRfSE9uek1kTW1CR1FsUktsdWxXSndRMFdLTmIwd9IBuwFBVV95cUxPQkxiN0RNVmhiZmIzbHlzUllRRUZRS29tTm9lWmhSNjMyaVdIRWdTTWFlQUd1UmtrLW9NWnA2MWtsa1NsLTFZa2ZBQ0poTGo0b2NuM1l1d3RBTm9MN0JiLXJEUGY5U1dLZTBfS2duRGlJeFpld28xM29ScldoWlZzN1BqUnM1SVdrSDlWUTc0WDMydHFISmQ4N2k0dzNvaXlYRDhvZ0t4RUpEa1lGNXRLcTY1c0FjSFpiQ2VB?oc=5",
+   "published_utc": "2024-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Adala Prabhakar Reddy Puts Speculation to Rest, Reaffirms Commitment to YSRC",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWxnRDJvd05rQ3o3Nk5hMUU3TG85UmljZFlfWDFyV3IxRTNyQThWUUVaZFRDcllKNU01UWJiQTZUNk8wYTJGOGZLaEJnTzNjTXNDSkEwbHFJa3ozVkZsRDFzbTZjUi1LRnhjSF9aQ1RXVXBIbWx6SnQtS09DV2YweWRnNDNEdXpXUER2ZlpRMlp4NXMwQW1KWG5SLVRFQmJtc3FrRE9tWTd2TlBnbWlmQjhVMXRGSEhBejY3c1ZmQ1R0ZjF4UjNhV9IBzgFBVV95cUxPLU54Yl8ycFJmaFgyZXFTVHF3dEZfSTRRcktOLTE0ZkRobGx5ODlRRUllX2p3bXJXQkZDbmNxNi1XVkR3THF0ZU5iY2tVa3c3eW5yWHNJenF2M1FNb3AycEdPdDhYeVBsVEFMS3Y2M2NKZFhlZXhhOElMeXprV29TX3dVZTRQdk9OWldjc1pJNEl6SXZNT0F4UEpWYU5Vb0ZZWC1ZR2p6UHJGNnVacVB4UVJSY1J1WW8tbDgxcm1JZm5Sb0dhczFOMmllbGk0QQ?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

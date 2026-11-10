@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Artificial Intelligence Mission to focus on research, developing AI-driven governance",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeUxHZXJ3RE1OV3RJRmRRaHQ3OHdnaVVXNm55Nm5ZVUljYldENnBqd1drY3dNcl9wZ1FiSUFyZzdSWUY4M1huZ25wbXoxTXRILVY1VW84VVBuNnEySVY0cXNZSVZYUmVHWmNscTZpcmdVa0RhaXltQ0JJeGJlQWNNUGR0N1pWSXpsT1BINEpXaTlGZXk5UHNEZVFVYS0zb2t5THBWcU9wT2lpSHplVDNsV3V3SUhQVTlsM2FJclRYbk44Wm4tQ1JHZDZucTdZeDhLYnZ6V0F0Yzl6Z3dSZFBZd1I0c2hTLUR5NnllUGVVWjdOOTQyVzFoSFZUeURxTEcwTk5RLW5R0gGLAkFVX3lxTE9Cb09aSzBYRXZBY1pnOHc5Y3h5dEdKdWhqYUVxYXc2ZU04ZzdZanpGaE5jZU5maWxNRmZLLXFCd1dwdkJkaVNDWFdKYXNaMmhGVUIwNFFVcmxwMTJpN0h4MnJ3M1VGY1VseGRpWnJqcW5qVU9iRGdyY3lVMjNTdFBfS2ZsQXFNUi00U21QSHZIejhHTXlWYzRKZXpoRlBjVWtUY2ozai1RcHVVQTN6YjBpc2FUcWowMHBYMVRBemhPMUxVdGkycUZxRlNJTUxDV3QwYWpBVklVRWFuVXYtNlFSNFdEUk9HVllIdnp1YXJsamVVX2R5Zk1sMnhTNFQ0cGtCM09Eb2xMSU5GVQ?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-M study advocates participatory approach to AI governance",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS0w0LW5QbUxaaDN5NTYwUGxIOVN6RXJqbVdJQ1BpeTNtbUhCRmxzbVJ6VE1VaWhPdkFXSXlYd1l1SWhxT2RuNm0yNURvQkJRWHZCdDhOUEtMVXFMVTFMODVsT2FCQlBOUnFfRk1fbUY4SWhxVE1WWVVmdUZEMlBINENaY0Z3YUJ0YUUyVHNDckJLSVd5VGc2Y2JYRF9oMjJxZFU0RF9VbTRtMmpubld1QllobkNJTnMyVXNxVDIyVFE5c1c2MnVEWEp4VdIB0gFBVV95cUxQaENPMmV5Q244TzJxUm90SmVMczRfWVRpbzFGNG0wMTVESm9qU0FYdEpLblp0a1dXWk1pYW1GaHNWSUlIeVE5Q0EzbTZzNjJtVVB2M19jcEpiRmlBcE96b1p3czdTUmw3ZzRhaGxDcEtxa1J3ZF9sMWx1ajBKZHNKWEdHSUg4X2d3VVV3RmtVTDNyQWllSVVDd2QwQkRsOWdQLUIybW9uU29tRU42X3NBYnd2WlIwY2VJTFZnSzg5eHc0YlZUZUZsc0JPcWVRaEpKUHc?oc=5",
+   "published_utc": "2024-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Hindu AI Summit 2024: ‘Global consensus is necessary to face challenges in using AI in governance’",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQalJCdWtHTTVpUHhxeW1yejk5RFJSVFpRTzVYNXNIdXNtYUdRODhtZi1iVUN1YWVmcDJrSm9weEQ2b1Eydy1DaElLMXdsQ3RYVnlGLWNJLTFUZGljM003UVE4VjNta203VkZtUjhtTHpNVjl3aUpDZzN3SzdxRkNBMmsyejVuQVkxS28zZHZGcXFYcUNQa3VyV3Fza2h3QVc5bDJWa3o5bEIxQ2k3Y0M2NHh4NzU5ckc4ZFI2cXJHTTRFM1gxc2VpMnlHSDFVa2ZlVHZ3WGVNQTVWWXBXWVhDWnFhd3RRazFOdy13QWN0TG11YXc5eGY5ODVVX29CYzZOazRtb0lxNGJnaDNP0gGTAkFVX3lxTE04elFGWllveVZTRmFqbnRPN3BtMmZFaU5LZkVwMEI4bUNaV3hnQVh3eTg2QW5aVFZJbjRfcDd5NG84VGVQZTdhbC01Vnl1ajE3NW5STjl2alNVNmtLa1plaEFDek45czdlemdGR0tXLWVDMTh3X1I3bkdWYXppQWRVWU43cFU4bVc3RDJ1aG1zR2ZkeXZnTUZaWVdRWUcxcU11Zk1uYmZ6Uno5d0ZCVDVKQnB0dFlKdElWV3g5QjJ5N2FQWG5KVDVKZ192VHIzeU1IRGdncVl5YXRLX2VOLUIwYkdGb0F6VlBZa0lWeEFWSUtGSjJ4aDdlbUlHY3ZjUlJvNkFSQkpvZVAyNTViNExlVTY0?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Slashes Teacher's Neck In School. She Had Refused To Marry Him",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFRVaVdPWmhMNWxXXzBrZXpBZ2kwOEhBRW1uOHE3MFU5OVRBaFVYWklCek81U2taUTdXbWZlb3YwXzhTSHhvTS1LUjJudDhSQ3haSzFJZTh6QWpuMVNQaWdwNlp4SGQwU2xkWUpjS1lKZG9HazJCbDJlbVVGNy14X3F6Q0tvblp6Sl9YMGpBbW9kRml5U014eFNfZ1NKRkJkOWhSS3dFNDk5UUVfQTVONVBTUjN5Q1ZON09r0gHDAUFVX3lxTE04elJJZkppaUZITFBsZk5aQWJwY3dMNFQzV2gxcGJUcl9yZXBKSHhEbk9lSFhYZUFTNXNJMllPRXN3dVlBVjl1Vm9OZzRoZm9XdFhqX2gxQ25TZE5ULWs2Z0NKNmVHdVlOczNRekYwR0Vza3pPN3FPeEhEbmhITlpHMDBOa2p1RS0wMWRZRnFxTHo5Znk5REZCNURybERkVl9aa2JjR1RoclF0S3ZPR2JPTVFDMUVIUFg5RGVld1NCRWs5cw?oc=5",
+   "published_utc": "2024-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu school holiday: IMD issues heavy rainfall alert for several districts including Chennai; are s",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQVh1dnVYSUVfd0tCVXlzREYyWjBMNTlVTm1iOF9zT2x5eFRya19vakVVcmIzaGExekNLZ0ZuMy1vbnRfbjRzYXJhTV8td0U4djJlckV1dFVBcmlMbDMyQUx0NnQ2elpReWEwazFWaVliM0E5alRZNFY0VzNlOU5lRWJtdmVacmFveV9lcldIOTMwMWplaTU1b2tfZW85d3ZHTzNDMDhKWVFueTVkdm4tbUdBbUdoZ2NHanhKc3otN2RWc3BLakRPUHVRU2htSjA0ZXE4cno2UzBTOHI4QTR1MmpTaDcwZ09DUzd0YTMya2VuamFoRzdROWllbmc4Qno0WGc4VFl6SDlCdnQ3LU03RGc0cEllLVlLR2EwVGNhRE1pbzRUbGI2R0J3dmzSAbICQVVfeXFMTXlXREl4eTM2YVE2TXZmVjFPWnJqVDh2b0tMQVVuSWdMMGdNUFhWT2pfbGNWcURDVzRvT2xtZTYzSmVOazVsTGZlSk9wczJVRk80M18zTi1iaFFPUWxXV21NOTNTYUpUNUxtNHVsUTV5ZU91aTFHZldSSnVmU21UY1d5bThCdGcxcFJBSGFnZ1BlWGd4MUcxSkZnenVTUzUzbzBLVzlyLWxMWWRYY2VvRTFzcjhqRXhnZmVEdGtCYmNkUnVEN3Z3NXZPNXVPUHdhNVpHYlY5a3c5VXZpSDloemU4X1ItWXNVUXQtek1iVmV0Qk01ZmVrblpBZnVJSDVEak5LYUhxQVFDWUlhYlFyRkg1VHVLZXZDcXI4b0liNHNaTlUzNGFGcWxVeU1vQ3Z0eW1R?oc=5",
+   "published_utc": "2024-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Students must adopt new technology for industrial adaptability’",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRTR5bFFVeDRBS0pPMU0wajJ5UmJ2RzAxLWxIVWFWbjAxUElsZ29iR1BSdGdZVjdVeEJEdE5GWm9oSWgyNnRmWDh1QkJ5SUpWc3Vmd1JhMGtERjhyU3loZWZac0RDcDlmM29OV1hJcUVIejJsLXlwQ1FGUjhQQjRxTGxXZGNLTjN0M2NET0hZYmRxeE40Y3E4a3g2aDliS2xnNmpwVEFsOXVyeGo5TFpOWWdTNktONmdwWnB1d0tfRUJGZVZzazZhd3lHWnh1cVNkVmJxVTZYY1c5THZjaS1MVUhrVnBib3ZITWpPSmZR0gH0AUFVX3lxTE5MNHBtOXYxSWJ3a3prRGoybVpaa20wNFpTX2pLNERSeG01Y00ycVllTnBtZEJJbzBDaGt1WHBpbUNpd00xdXp0NlRQSnhmcDFZNG5wVWRlX3lBYXNPbURhSmVaMjlWN0YyUGlKRGh4UHdHRFdsWjJTWmtmaFJ5emF1dG9uUlNaSUotREdZQWlMaHN1MU9xRTFHMzljVGhROWlaWHV5MlM1U2xhSVNlQXlXbUF0VDJyWG11UWIzbm9SWHhsVTBTMFliWDlFUTIzNjE1RWZ1dmo1X3Q2R1ZTMmtrZnhscGNmUC00dlJRU0g2VVBrMXo?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Rain Alert: Schools and colleges closed today as cyclone Fengal expected to make landfall",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUUc4YnRoTjRsR3ZJSFdwX0kyT3hYU01CMUp0ODF1TTB4UTRtdnVYX2Z0aWdWSEcyRWVZcUFLTXRlaDhLbTlpU2tndGNxd085c2NXOEFMWHhsNWFtbDRGam9qVVo1TlNnTnphaXczRFdQZ3dra0NTczRCeWp0SjFqWmRIa0NUcDV1c0Nmc2FKazVqR203OEc2c0RlakhHU0FRbkRIYXhTWmNEQndPZkNrSDFtZGF3czdIaThBNFMtUEhmRkp6OGVwYW5HUzBOVHNzbjNWVTR2QVNwUVVCOUlsREd0WmVYLXlDeXY2UDVEZ0pPcDhiU2gxaGxkTlhLN3RBR2o5eFF2d1o5NE80ejQycFRwdXdKYVdQRndF0gGgAkFVX3lxTE9MWEdTU1Y5UFZZMVVObVJlTDB0T1AxV3BHZ2tkQWpBYmdYTDlCc2M0d3k4WDgtZENaQ202R1R4RnJva0Z0MG9aZjVtM1BFQkJIekJvbWpjQ0JHcVZ2MzJhTzVaYXpqODhXTE5wd1Vjb3UzZjVqZWZrSWpMRnk1N1JIWVh0WGdxY1d4QThwQ3hHRkhjdzRzNWdBb1N0S2t0b0twejQydWVpRHNZOGRuN3RubWo1UTNzZ3VrUzNhNHVSZzcwWW04M1QtbnBkVXFKclM0NTA3VFJOYTBrc2oyOHZqNGc0X2l6OWFfOGt6U0o3M3JTM216aTY1X2E4ODNSQXhsZGpnd2s1a0t2TnI4Vk5rdXpjY0paaS1JeUdVTFNvTQ?oc=5",
+   "published_utc": "2024-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu rains: Holiday for schools in Chennai and neighbouring districts",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXc2WHV2QjFfdGxVMk5UTU1RelVOZk9tLTRSSUc0OEtFeFJpbEQxa001Mk9MMUx2QkVYdXo1Mmxsc2VuVlRNYlYwT1EzaUVJOTJqMGZkRkgzX2owMDhzZ2NCZWg5SjR3MGxMVC0xWVlDYU84cjFhdVdSdGdoSHpaWUFGSVlkSVMzYTZzT3Zmdlp5amZyeW54RUloc2FvQnpzajh5MUgwZnp6MWdIV05CYnBmQ0ZtTUxwV1A5Z05DYU9HZC1NQkRNMW9LR2dvSF83a01kZ0hOSTdxRk5hRlI4adIB5wFBVV95cUxQdmI2Rld3Mm5fVWI1YjE1bTNnbGF3WHhUdTV6U1pobnhEUlJVaDNTb0VycFBCT1NXVkNhUGY3dWZURHpTOHNiVFk1UWR2VmlMLUNoNTFMbS0wamdiQzByV0dWWnZyaGVVNkZzMGJQMnh6d1I2RUEwMFdNRElBM01qbU5pOEZ2bVBTWGYzT0VVR2hTdGRXcnNTZjBRQ1hOdUdxSUxxNzJNMDFMWlVqVUc3QmRXSzJFbnlxLTNfNG8xZ2p5ZTVISEM5WEtmS3ZzS2JnZ19Wb1hNZjZKSGM3ZlJIRVJHdjhwenc?oc=5",
+   "published_utc": "2024-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Talent Search Exam 2024 results released at dge.tn.gov.in: Check here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSEUtb2c4czlfdGswcF9vN2F0cWNNTVFDNzY5TURxcGtVeFBRazBqSy1rRE9CSTUwQ2FVRVQyZ2pqWXZxZXZLN25mY2lnNVQ4bHZ2WV92WW1VU3dnM2VMR0M0bDhPQmxmcTZndmpoYl9MazhsSW02YUwyRUl1RzhTNmVDRjZJdTg0WDhiRHQyeTAwM19VaUJRUDllQXpseGxGdDJNVTdFMjRQX1lzdllKMzlrTHR0a2FmclNEanBaLXpKNVVZZ0MwX2lxMFd4VlllY1dkRF92SDJjR0J3QmdnWmJtU0I3dWVSeDFrbU1iS2bSAfYBQVVfeXFMUFFTZV9tN2gwdU51bkNGYTNqRDJvZkdzQ2pjb0JzZWFkbkhYdmRDN1d6X09kSUY3RDFJQ3IxQjZJV2tjZVhCcFZhTG9IV0tTc0s1WVRqa3JaelBCeEhoQUd5YmV4NllEcERsQWhwQXpuVjR1WG8xTWdWY0lyZnl1aWtZWGhsR0hxc0RRREowQlpKMWlRcUJJRjBXWE90ZFBwdTBoSGxwN0lSem95X0o3cUlzSklxLV9VYXhVZ2FkZzhwcE45dnEyNTB4ZGVuWE8tVlpacUFITWFuaWZEZnJ6QjFSQUdCRTNEN1ktd3BsRmxHN2EtZXdB?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

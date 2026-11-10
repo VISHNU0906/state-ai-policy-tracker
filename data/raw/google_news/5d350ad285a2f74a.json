@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Aurangabad renamed again, this time by Shinde govt as Chhatrapati Sambhajinagar",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjhXdHBBYTNnd0VtNTJUd0xaTDkwbC1ocldXclhyRFRNUUhWSFRzelRycXU2b053TGJEaC05WS1RcHFodkhWR0FnYXNVZm9JQmV1a01EcFAwa2hSekRjZFVlQWVJbGw4eXZOQ0ctVDFkdWtvUmlWNWk1V2RsZ3hJTFNqV3BMT3RIMFRyS2JQQ293ZVRBaV8tRllPc1JuYlFLTVo3T3BuRdIBrgFBVV95cUxORHhoczNqazVJUlVXOWhrWXhGeG9qaUd6VHp1TUhtR0lQbWtaMkJJdGttTHBOVV8yVmtTODVaZDVsNE5IRloyMk5WLVA1VVI2c1hjY1ZKWWQyVzdKVC0zNkNqenpJaGdQT0VRR0dFblNzWk1lUElUekplTFZEcG54eG1wMl9veXE1Y3R4U1BYR3VZdVdjckZOdnRZc3V2UEd0NkVCTjRtSG9sZ1NVTmc?oc=5",
+   "published_utc": "2022-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "GigaMesh: AI backed solution to boost rural connectivity while paving the way for 5G",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ0tYVEdFOHA3MUdpdjdnVDA3R1JBZXJDdHhNRi15UWltb3Z3THBMWVdodTVRcS1Fb3pxV0lFT3lXLU1rWk1ZTXplWnQxdVI1V2hMS0tvd2ZzRFYtbzVkQ05zeE1KR21LQ1dnTks3Y0JtcFFKd0RwUlpqc2ppMVZkcUZBdDNDM1hjWmh1SHNjc0RmRlFtcF9MSEpKNjNHQ2ZmUkZLSUFsaHVialFaQnRkb01kcEFBcTBJVkpSUGNjdTM0bFQzamJ6RW1JY2hGQXNkclF5YkswVk4zQndSTi02OGN5U3VvclU1MGNBbUFvUWdNdjc3OHfSAfABQVVfeXFMTmE3cnUtbUotaWIzMHlqelZETjdRUXhvU0VSLTJ1M3NoMG54Mzd6bElQbkI2dU92UjF4UEdCdU42RXNNWmthcmQtTzl1a1ROYjhvQkxZMkZEb2JFZUJfU3h0SFVuVXBseHU4VkNKSWlUYndLN3prbWpOZXFXNjNfT0k4Y3pxMU5aclY4bVpNMnNXTC15Zzc4WUtHU2Vodll2QTJuRktTSkFHbU94akxvVnFSU0hHV19ET3BmZEhmSzNZaFhQWlN0WFJxbGxFMElkMll0NV9fYXBNbEx3RUIxeTUyMVFEUFFhN3dvMzJjTVVv?oc=5",
+   "published_utc": "2022-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai court takes cognisance of ED case against ex-Maharashtra education society chief",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWG8wSmpra0dxN2FNa2NBQko0SkNyZ3AzdlZ5b0dIU2JvZmd1SnljM042ODgyM3Vwd240MFgzZGlnQm9fMzNEWmZ4c2pIU200cWoxU0k0WXZjTlRhZV9naVJsUnpwNUFRZGtZUlRwS1huenVOU2JCMUFfUEwxMFRHb0VsdmdKN0FQcnZwOEFIellWakpHeFFVNldsczVJTURUYVdpNkNZa0d4NzJmUmN4RUdOTkRVMlNsbjJCVDRHZF81RkJnT0lWdTZJM0w2Zk9Xa3BB0gHYAUFVX3lxTE02Wmh6MHdjdENUQXZlaUpSdnhkMXZCOWRmQVNGcE5pWWJvZGtfUUUwZHUxZTlOc3VyeW5qYmRTNVJLU255VG1TOEF5VURtSXFQcVlaV0E4QTk2OXpNR3ZpTjVjemZKcEVDNk5qSmtWYzRTeF9HREJVS01nZ2tKdEVVeEd2dzZTTTNDS0J2QUMtZ1dzbG1JSWl4Q3lrY2tMYTZnRFFOWFZ6VDhFblZobjZSZGNESHcyX3pRbnlLalpta0xpbmFUOUJ2M2Qtd3hsLThYSkZ2cXpfUA?oc=5",
+   "published_utc": "2022-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "FMC launches pre-emergent herbicide to support sugarcane farmers in Maharashtra",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVWRyaU9aQzVBbW41VE5Sb1RMdm5ncEUyNkc2eVFyZXFiXzFKNm84RExRYXp6U1d5WGVyQzRxdFE3UzROLW9oTEdnTTFGU1BmYk4tanBpeldHZ3I0MXFCYzBCQlBPZ3F0bVFlR2VlNFpCRUl0bTJ1bnZKY3NxT3h0cUVvWDFDdmh6dmlJLTczdTFvZnFkWVVQV3V3ZHlIRTFfSWJ4OXpOM3pmRUliLVF0d2EyNDNJMjZibkpUWnlZVFBZejVxMXR1RGRTTW9OUXNtZ1VQeHVoUDHSAd8BQVVfeXFMTmNLejhzYXhqZl9vUHdtdTBHZ1B4LU8xbWxtcy16Wmc5WktFS0kwaUZHeGxiZnNUcENhU3hzVUxnSEFMbWV1eE9ZYWJ1T2JsR3kxOTBqZnRady0tbXFabjVQTHk3dTdmdWxETmlhTUw1RlpoSG1YcmxDWDNDQVc0WmQ1RTkwOHFnaWo4Y0JSaTNoY0RySmQ1TUxaWkJucnNpYXo4MVhJZVpUMVg3TGM3Uktkd3pHQ3QyMUstemhBTXpsRVhuWU5OWlVCSEhyMWY0R3lNV2hHdnZaQ01xN0tWdw?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Defence Ministry to launch 75 newly-developed AI product at AIDef symposium on July 11",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcGZYdGJ6bXlNck9uVmZEWVR3V3JQcVRzUzZLY21OdDhKSGh4YU55bldwd1FCMVpsd1ZEalEzM1dvZjZVS0JSb2ZhZEtSOVg2cUZNdFZmTlEtcE5iMVlabDBGNlFhVno4d0tmNHN3d252QnJIYm80TzRpV0pPZGREUjd3N090UXBwemZ1Uk1MTmY0VGNqaHFHXzZqQldFMjl3VnhUMENLR0xkT0VLOGYzRm4wVDRKdVlCaWNkVTFPWGUtS2lxT0FYYjJ4aV9XVWJzbWxaUmQyYnRRQi00bkNwcE1PczFTM3JVUXdWUWlicklpX2JRdEZtZnZ30gH0AUFVX3lxTE5QNzJRblh3XzNMNU8xRy1UMnFQa2NBOHp5RXVBdjZuODRIQmN4SU9Ec3l2QUJmTG9CWV9oQ0RuOGVaSEFfYmN5Y3FXNmNQVEJMc2g4bG1tbnBzNW1zOUpPLU9DSnR0ZkZrRmpjUVJYMTQxUE9QeFJaZVRUNXgwZHZZYy1TdkZTd19WS1QxQTlTeE1TbG9KY181WGp2UW9OMU9Gc1AyaEx4YnE4MVB4NnZrSzg1VTZ6RW91Njl5QVhGM3BJal9UZURpYW9UblNGWHNwMFZrQUFDV0NscTNFWFlIOTUwTGJWWEthZm5SRHUtdXcwWHk?oc=5",
+   "published_utc": "2022-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India to play key role in shaping global tech governance rules: Union MoS for External Affairs RK Ranjan Sin..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdGlsZEtvUGR0OW1fVWlDR25DQlNpekJLbDZHU1RRaUZZYUdFaDMtS1ZpRkx1ODk2UXJnQ1VmUjBNYWhQQU9KanNMaW55UUVpNTZzNm1YbFJoRFpDZW9MSFp1dXNMTWJjM3VTeVZoajZFUzdxMldmRnVWLUlBVUV1ZlZmeEZXd200S1RBYzg4V1ZuOGE0cUNFMFdoZkJSeVVFNzgxa0dpcnhCYVFTcy1NV1ZBYlhpbVNSUmNEWEEyVU1zbXR0aEpiRE1aNVdYMmJ2UWxXNnVJMVVrLVd3MWZlRVpWb25GMTVZTzhaUllZaENhU3BYaUQ5TDBrbkMyN1lHaXJVOGVnZ3d6MHBOTFHSAZMCQVVfeXFMUFRKTjVyMXZVczRhLWhiUlZBRFJDRTJlUFp5cEw2UDk1QmtDcDl5U3poZEdvbnJ0VzdMUEx3U3FhOGdwbXhsOWdHOWRUY25nYmVPay1zY25pUU5TQzFQMl9sSzZjWFF3b19XeG5zSG9tb0tOTko2dHFEZjQ2WnZjWnRhT0RHZkc1djQwUkVFSzBpdFR2NEZHMWFQdGRnZEtwNlc4WGpGNHk1SFlwdGZFcTYzRjlkQi0xa0Y0UEVBMFhjQU9QbU9CcFk5Z0dGQXFDMmhZaFVFc18tby1uMEN6Z1Nva1J0WHFKR3JHNFhpVGVUaUdVOV9PQjdjT2ZZSE0zemc4c3htQVR2dlNiRHF3NnhkS0k?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra names top administrator Radheshyam Mopalwar as DG Infra projects",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdER1VjVDUlIxZnl5cDNiUEt0Q2dxQzNCZ0hhNHd6dVpJODRBdk1SZzdQUEN6NFhrOW9jc2w0d2s3TWhSU3U2cUF1bzVoSkpZVnZUQjdwcVdIaERuaVlmNlNPWWYyX1hTMFAxN1pwUU0xOHYzaU03WjllS0tFLWcwNEE2VTY3UU5TT0ZJUHRhNF82MmdfMDlJSGNPa3IyVEFmdnlHR3ZfUVNuNGZzckpfT1doaFlRekp4YzVZaF94UVlTLTRydS1zd1hFeHdmSWhHMFlfMS1seDZUYkFrSzJZSU9CdWZaS3JHYWfSAe4BQVVfeXFMTXc3R1NTQ2ppdU1WVFFic3FsTF91MjlieDRjWnRfbXBJMG9pZ2hYeWl1TkVMWnFPM3Vyc3dyMzRPVHdSVGZrTFM3ZW9UdV83YTM4Zkw4UWl6Y2lDZEh0S25JSzB6SUpTUnZVVDQ3RlRCd0RqMFJlTUVzYW5hdXlJRUx4NGFzN3c4R2MxQjJ6LWVqNHUwdU9OQ20yVVREY25NSFdMNU9sMnpfa0dtTGpoeXFKSGk1TlYxSmF0aVJ3VW1EMmRQSGx0ajhTRE1YZkszOGV3WnhlZEw2cjNzZW12WF9UN08tQU4xTVlrM3RJQQ?oc=5",
+   "published_utc": "2022-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NCP's Ajit Pawar elected new Leader of Opposition in Maharashtra",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDNxQzU0bng5a3Y1dEs3UmdDQjJMSHdFeDNSWEk2X25ldmcxNmZJRW56VjNpZVRqeDlxbXZ6LWNuR1FTb1BjcnJyWU1NbW9YZ0RNTkxUcjNxWVdXeGJIbE8yNlFUbmlSa3lieEFJNXJ3UWdMVGlleWxoLUJQRExJTDRpRjlHdnRRYklxczhpdlJHZTRBcXZXa0NDWEFuMDVSbHJaZzRLbw?oc=5",
+   "published_utc": "2022-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lonar Lake, Maharashtra: Know its Origin, History, Colour change mystery and more",
+   "source_name": "Maps of India",
+   "source_domain": "https://www.mapsofindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWtWU3l4R0pGMUJDbGVnQzJhQ2NIdEdMalIyTlgwTnZhWjIzeEZpVnEteF9oWUpfUFBZekhPekhCT3pVUEFlWHFSenkzRzZaaG92NFcyTXpfcHZYX2R0cXBRRmcxb296UFp1anZwMWh4UkVLVHYtS19oTHRZNzJHVk5aVEJaRUwtSDZ2TXhlMlI0aXdBNDVmWDBXZE5nVk9ZWEQtMTg1Y095dHNhRnVUUEZtbG1IOWwzcUpIdkdySkh1dw?oc=5",
+   "published_utc": "2022-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uddhav Thackeray writes emotional letter to Shiv Sena MLA",
+   "source_name": "Lokmat Times",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZfZjUxdFVKSTRObTV0dlNnOHo5SG4tUUE5cFh2Wl85NjJMT3hES244NHFoR1dhb1AwdW1uRUdoVjZZZjVZbjFJSTljLU11eG9KdVBxQmV2emYwX01PblBwNFlNTUNiQXFVTkU3RkRubzhEVGZiQlVGRnZsclRobWJCRVprRXlwNkRZWjVha2NxY3IxSnR4WGZhMC1DLXdDaTltdDN30gGrAUFVX3lxTFBRWnhVbUVYaXJ5RnJZVVpTdXg0eG4yejZyODVBckdlV0xrQ2tWMGhYdkJLNGdsQTBJQ2JBZThaamg4dGtiRGphYV8tZlBYWUNvZTBtNXo4T1g0VDdMeWowc0pNZTE4YzFCYXV6N2RSM0lNRk5Ta0FJQXNOcE9PRUNpbDVjODhNZk9RX2lWc2tHWE94RnY3SVRsamNid1BvTVVFUUpwZUJOZlNJQQ?oc=5",
+   "published_utc": "2022-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

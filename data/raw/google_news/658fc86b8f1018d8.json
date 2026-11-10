@@ -1,0 +1,21 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Beneficiaries in Andhra Pradesh to get pensions from tomorrow",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWS1pYkJpWGhmei1CVG0tNGFnUHd4aTd4SUJhWHE0eW9DYWVFbEdGUkwzdktVaG9zejBaRk9GS19tUktOYzNKcHI3S0IxTFlVcGFGODM5cEVFZmE2VHFJNGNoOXM2ejVmUEdGWDBMNXJDQXZFc09zQk4yLUpTaDZRTlhCLTJIbGxGTFRlNUV4QVlRalpibEI1N290VlVpM2ZselhKYTNwWVYxZjRaQ3hfNWtjVm41Y1E4bDBGakxR0gHDAUFVX3lxTFBJcGxLOWd6YUU5ZHFNazJFbExicGplRFIxeWFlb0xvYk9zQVlrellueDBmNTF2U083ZFI3dU9TdWpVeU00NU5xOV84cUhMOHZDQm10bWtZSEw2UVRUU0VNcjBtUGFqVG1yZG9xbW9TYkozREFYbWI2RGNzTFRyUVNLUUtGV0hLVHRBcUgtNldUeTJtLVZvRXk0a2FQWE5qQnFRWlFQSHNVbjhLS0NvRl9fWHY0Wkp4QlRNT2VCRU5RMFVGZw?oc=5",
+   "published_utc": "2022-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandra Babu Naidu turns 72: Know interesting facts about former Andhra Pradesh CM",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjA5cUtUTjVjaUFiOTdrSmNpamhTbnFxb013Qk40MTFnWXF0SzE3RGdlNU9wOElaRThOOC1xTl9sem5IMU5HbHotRGEzWUI0MllFYUhOVjlMS2xZRUUwWWx6Tm1TUlVHcHhZM0ROQmI1NFlMTDBFcF92c2tXSWFkSkwzZnRsU3ZzQWJNcEx3MVZCc184bEh3SGVDSUtNZ18zUW04WjBnU1h5bTVEZlZOSkpLMkVwSFpNRzJ30gHAAUFVX3lxTE5zWWh5cVctd1NNZTJYM2ZkY0JsWFZET3VWcVlJajFaTkx1UmNrdDJlQjlsaVhJTnpuQmtmME9LR2VUQUdLRVdWR3BLLWFqaEhKaVVIOXh1ZHVNM0UtWi1lMWtpWnVHRWlMUDJpcmg5RFNZTVlaZy1WbmVWYW5hanYwRDNaMHhVTTZVaXB3ODdTek1JelZ1V2NmMlNneTYtRUhJNldYMkNEb2FTNFloWW82WnFOV20yZmVkLUxMbktxZg?oc=5",
+   "published_utc": "2022-04-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

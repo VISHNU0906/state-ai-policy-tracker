@@ -1,0 +1,61 @@
+{
+ "query": "\"Bihar\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "AI consulting firm Tiger Analytics bets on Patna for expansion",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREY5N0ludWk4a2QxOGlic0ZWbUpKcU05YmNrSV9qNjItWnpMR2NHVGhSRlhzd2JPQWREX3dTbFF5ZndhWVI1VDl0Q2E3dm15LTJHcTBpZFkxQjRGZkZfT3R2OVFNUWpxakRxX1VjbjlpdFZzQ0NwOGt1NW5hQUF1RDR6c3JSb1lmM1FOVU1aelpJZXM1SUNxa0otZnZDS2VLbU5vS2RyUm9uR19C0gGyAUFVX3lxTE9YQlRDbi1tS042NUxyVTl4MU5kSWRiWkF2aWtLeW5uNWVVR2twdEQ0TjEyQTQ5a3VQMVI3M0JMdGNLUUlDenc4S2VRQU9CdGlVcUVsTm45SlBDMVpZcnhGV1BjdWlVSjZXN3J2M1psMnVEMXhYTVZGVzVjeFZ3RGJBZmo0cmxYSEo5NXo1VWdVaGk4bG96MjJhNGF5SWZ5c2ZlMVE5UVN4ZnFid0pPOWdSYVE?oc=5",
+   "published_utc": "2023-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar govt tells DMs not to engage school teachers in document verification of candidates for teacher recrui..",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPLTZQS3NOV2tMc0lBbXgydllXMl9TNDVIWTd4QjlBSlRXZDVKQUQ2MFVzbXhRUXF4Q1c2Y0gzME91R01DYUczQlpyZG9FaFBUSW82MWJTaUJSR2Utd3E2LXNzcUZXbVIzMUd0dmhKZTZKRzVKU3VxM0NwSUZpN0lOckV1OE0wVlViRGdVdjhZMUw5VmJfZTg4ZVhRUkdBVFYzcmNPdGtaYmVKaDZVY09vVWtxZXZLTTMyN3dxSmE0bTBCNmtyRTc4amFYSi1wOWxHM042akpZb1lNNlRHY0RoenJNRjNvUXNVWEJwbGZlNEhjdGhEeVFqMlk4NWxLU1hBQ3FqelBrYlQ0clVqU29yZ1BURGowZlZO0gGcAkFVX3lxTE1GcFAxTzdCczE5bVBwVUZiVUVZUXNYQTJLN0hBSzZxdFNsVkdKaWp6REdfREtHZ1g5WWdCTmVLcHVkdlA4eGNHQldhQkliZjVVV2toN1I0NUNuTG1oOU5BWTZmX3pzclV1QTZCVFlpTU1JbUlBc3hWdDZ3NEZsRTB3NXptbVhmNmNITnNIVzktOVkyS0x5MVJ5SzJkTGpGb3VZb1laQW53MEJKQlFmcFJnNXJZUld5MHR0d2pLRElrS1kydFZQTnF4Qk9xdjhzRjhOMkZjb1lKd2lCRTV4dUlnbDBkVUFJcnZNZmtvUjRXU0R5S19mNEdsbWRQVVJ1TFB3QVkzNlB1elhES1RQLVRYdk05UlQxRGh3ZGgy?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar CM Nitish Kumar sends Rs 5 crore aid to flood-hit Himachal Pradesh",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUo0UzY5a0lSMmUtOGxZb1A5NDNXbFB2b3JMNUF2bnhESkstVEFBcWVabTAtelg5SC11SUpXcFBwODVjWjNicXlLanljV1lDZ2NTTTY2c3p0LTdUQ1cweExSdEphSDJWb3o2WklCTk82WGFWZWZMTFRaVGZpU29taVJXQzMyQVp5Zkh5Q044bVdIaU5ocGwxN0ItaURHdUdGcFU1NExHS3ZRRmZSQjk2emVVUU1qTlVLa2c?oc=5",
+   "published_utc": "2023-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Over 3 lakh students disenrolled from Bihar schools for remaining absent",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZEZUaTExX2V1dDl1OXhHbkwzLXVOSGVvb2pJT0tORUFWaFN6dU44T2xzcHNIS3p6S1RNUDlVNkNWbEZCcUhGa0oxd0xPaExleHJ2ZVFuV3p0RUpnc1dnSnlwQlVXd2MxSzY3SHhFQ3F2UXg4Rmt1MVVwLUVMQW04U2ZlNVlxRzlJVkM0MVdSNjR1NzFPWUw1cWR1S3lTM1ZkWGthRzJCbmxwdzFER19teXBORGlvUVdZSjhvYjVyWF9hNlF1RWlOblVsZGNoai02RlVpX2paOUh5Y0FWVlhyNm1vWkdJQ3E4OW1Rdzd1ZE9yVW_SAe4BQVVfeXFMTm5CekhVOUw3R1VRSDFxT2dickpYUFNFbkIyZkNGRmpteTZjdXlaT3hZNkwyU21iazd1REhoV2FESjRWVlJFTDJ5a3cxX0I3aDBoYTFfajBMSEdPMFBkUmplZHVUNDlkR3RQT2NycHFJZDFYM1ZMQkNIYUJLVkhSVGVIdUdNeGJxakJLeUE2WjRqTy0zRkU1V0pvMDZOV19sQWloVW43akFKWmJ2VGtSa01NUXFLbWpKbjZxVVpWUmhidnIzdHR1al83a215S00xcjJ1U1dTZVZ1WWJ3RW5vR2ZXMDUzeHpjZ01uSUdPUQ?oc=5",
+   "published_utc": "2023-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Even as Bihar's education dept draws praise, infra woes are a challenge",
+   "source_name": "ET Education",
+   "source_domain": "http://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNekJkeExoZFlqQTExQmdfbEN0d251SDN2cFR0dEhTV3J6RXpHQkRYUE5QSEhpczdHOHpmRkpfeWlTbkxoUTdPSzZudE1JQUpIbDFES1VCX3RyM3pBSEx4UmkwQ0xCYVYyaFltR3ZBSjE1bnhkTTBnSEI5VjFVZ1Rsa3Z6dWpzQkVqYWNCSmhuYVBDSUVSbHYwWjlZcDRXeUY5MTVVSXEzYTZxZDc3OEJPbTlJSHYyNDFxX1FyeDgtUFpMalhJTnVreFhXTDF4eXVSaVpKeXB30gHbAUFVX3lxTFAzbEJCOFJyTnloRmxIUWJMdlVtSkVQOUIxazlIc2tVVklsdTg0NTJtbTNJNzAyaUYtS0sybFQ2YVhkUl9WMUtob0xURUhiZl91T2JBUHAyRWtEM1d2VDhSbU1Dak85ZEJjZVJtWGNYOWk2RlFaX2g4M3RkM0hjS1plYTBKSUJrVVJNT0lOcmlwTmFuRUNoekZJWWhyeDNkQjA5SGFORUgxV21sd09pR0xWXzdudGY3UUViZEhYOXZSOS1OVDJ3YzI2X21UOWRPVDJXbGg5RkE5S0ZGRQ?oc=5",
+   "published_utc": "2023-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar teachers to launch state-wide stir from Sept 5",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVZENHczbS1oeDNpcTZ1dEFkeUdKT3hZaXVrUFlyS0ZTMWZIekpRVXlHWnVmcWN3VkFBMDNjMmc0VWRlOGlGa19Vc1BnR0NIZkwyRm1YM0VRUFNGdnV2WjNyZnZFSG16VjBObWlVMWt4TW1kTm5Qc1NTRHpkOUxudml2d2pVR0wwbUdzSnFJaEo4OXYxTmFLVHA2dVZ6MXAyd3NLVS1zbUZNVE5Dc3hXNmRaMDVlaGhfTm5ObmtKZXnSAcQBQVVfeXFMTVlDRUFnTF9KMVZLdnBwTVV3akJkNnVCcHp6em9XSGNLTFlpTm9FYUVpYmIzNnhwblR5cUkxVjRRVjRKMzM1akNiSlBJSUFJSUVWczQ5UjhtbTNhb3ZqR3ByVFl3TDkzOEduTy1ZOE5lODMzNHNhdHdoeFdDb3M0Ukh5ZHF5dEtGOTVMTXZXTEd0Y1RKZU5ManphbTUwYzVyUjA2T0hmRWRwNUFJVUo4d0tnNmc5ZUxpUGZXZkxuUFRtWnRmag?oc=5",
+   "published_utc": "2023-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This temple in Bihar is the oldest functional temple ever",
+   "source_name": "TimesOfIndia.com",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLWZzbWVma29zaTMwSnRLRS1oMzRDU2F6SUhHYW1semFSQjQyaC1rWmhNVzU2dmNCLUZyaHZYcFhrdTMya2g2amU1N0dUbzVoNHBORWZsQzFqVHZrMEVXb1ZNQnNtQlBOYTRuTTdlSUNfblh1d2N2ODlGeGduelR6T2NicHNucV9vYmUzOUprZjQwa1dXUEFXeTU4TE42eHlfeTItcXVrSVlXc2RTT0NVZy1GRGF0Sl9oUzlQTk9CZnF6Mm9UUFEwLW5qMEVvYzg1Tko0M1Z4SzlndHh2dGljcWJ3UXg4QdIB5gFBVV95cUxNLWZzbWVma29zaTMwSnRLRS1oMzRDU2F6SUhHYW1semFSQjQyaC1rWmhNVzU2dmNCLUZyaHZYcFhrdTMya2g2amU1N0dUbzVoNHBORWZsQzFqVHZrMEVXb1ZNQnNtQlBOYTRuTTdlSUNfblh1d2N2ODlGeGduelR6T2NicHNucV9vYmUzOUprZjQwa1dXUEFXeTU4TE42eHlfeTItcXVrSVlXc2RTT0NVZy1GRGF0Sl9oUzlQTk9CZnF6Mm9UUFEwLW5qMEVvYzg1Tko0M1Z4SzlndHh2dGljcWJ3UXg4QQ?oc=5",
+   "published_utc": "2023-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

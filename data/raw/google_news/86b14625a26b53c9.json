@@ -1,0 +1,77 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "UP government introduces AI to madrassa curriculum",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb05BeTZoOS1VRXdYSGNQUDktWDZoTDZFdG9UVHphS1lxNGxNZkhqSWR6M3RkaWVGeHY2NUpVRXBiUnhSRXVFT1JYMGszZmQ5Zk5BTHhIU3IzRktPYk1XYk5Kd05LMjRGbUltTE5IeWl0TnZMSEJKNkpHS1VCQUdjTk1LV0E?oc=5",
+   "published_utc": "2023-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi govt to invest Rs 14 crore to boost tech research in Uttar Pradesh",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmYxcG9DWDRkQzVteVN5c3QxZjVwTlVZNEVpNGpLOUkwbVVVa0JTTWxZN0EzbkJpYW1jNmpYZUUzWEIxYTVpR0RwcFdaZjNuZURNWkFuODc1RHJkVll0NzB2TVAyS3ZjdW1HSUZpYkxTRUgyX0NqYlJPdU8yNHBUM05SMnRfRG9SYnBOWmw5bWt1YU9TWHdfSHNnZHg0WHNFU2pvNnhuNzhPUndhVHB1X016RdIBuAFBVV95cUxPVDhoM0x2TEwyRks5eWVROU8wMml4cGJYUGdHOXh4SktYdVh3YkRKWnFyNkZOcVVUTFBDb1FjVzNxRGJTaG9mOThxMlloUUZJeFM1ZThodV9pa2tWZzFxaG5kSXB6TFp4bm9uNTFTQXFBNG41aWlwR3Z5dE04dElmMDl1RC0zWk84WVdfSjdKUEdHWThJX1dUc3BfODNWT0RyYzdEREhEc2lwUUZBTlA0UjFxM0ZKa1My?oc=5",
+   "published_utc": "2023-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI in education: Yogi govt starts pilot project to teach AI in madrasas",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa091T1BrWlUwdVotYUt5WTRKamxaMEFPS1p5dF9BZERVVENNMmNTV3Z0Q1Nhai1Ra01OQlZIWlJBYW1vWno1M3l4N1NxN3lpQ2hOaGVMeXdLazNYNXZyTHNUZVF3bk1MVjRMZU85RW9qUnF4UWNtWDhBYUVBMkFwb2hPOXhoVUNHdWV2ZC1SMVNROUhucFJzLU1YVEVZdVN1MkFCMGFsUS1VWnR4Q2VrZjQyYVNNbzZpX0wyTERiRGZ0eTBRSzVGWVRiOGotWnhsdC1iZm9Jelp3MmZlTVZpc0xIU2_SAd8BQVVfeXFMTzUyNDhEbUd4Zkc3bGNKWjRYQzByU3p1WWtnRHNVenNjWlF4Q2lQRC1CcWhSVjBCVzdwci15RE5rQ1lJMGlxYUI1cFlBUDItOGhLd1I5ZnVlTnUzMWlxVFlnR3ZpMzQyd3hWR09HamZSeHJZZzhXSW5FaExIa2VrcHFyV0tTZmRqb1NpSEVRdVpoTHVvVTRRSldWSk9JSFF6TDItd0RVYTFCWnpMLXBCTFhvUzhQQWtoMVgxUE1Td1FqblJJX1piNVNFQXQ4RHRPaTNLdTBOamVZeFpkdXFNOA?oc=5",
+   "published_utc": "2023-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt brings AI and coding to madrassa curriculum",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkk0NHVNT3ZMMVFJd1BPUjh6MjdwU25xN2NkX0RFOUFfX1g5UXRwYzVqWGNBdUJhSmp2dmxVMzcteUVydE4zQzhtZzJqc1ZRTnYtMHZNRU1OOEZhbjNGWU94UkVDcWJmQW1yWUpJMlRQeW11SUdaV2lqcGFDN3JTbmNRNDI4UmlZaUVKODFGN21hTl9laVJsNV96MF9QM3BsaTM0cHJMLWlZYmlDalZCOWRwMjNudGNIY29OLXUzRWLSAcYBQVVfeXFMTno4dktCQk5wQll3WnpMYndhZ2JuRWhfU2FPNnU5WHdPSUhhLXJxdWkzTHBoTlhrRkJBelRDNkJ3Ni1QRllhcURUZEJPN01SRElnYUNjWWJPcmk2RlVmR1ZyVEx2ZzJWMjlYZ290eG04QjNwaktKSVBJbHhZTjkxQkN4NXhxUWs3bzhRaXNGQVloTl9JOEszQzhYV29mUC02bDN4VmR3T3NHUzBLeHJrOGFEZ1oyaXZZVXhqTnFHRGFCZGRGOUJn?oc=5",
+   "published_utc": "2023-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Slmg Beverages Opens New Facility In Amethi Uttar - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUplcFNLTTd0UU4yNGNEbTJNaXlPaW5SZU1RNm9hT05WTjBIRkxlZXgwRjlEYmx0a2lQVEpUQS0wRF9QZ1hsQVFxTU5teENsU0xkR1Bwcm1uNTdyX3VuS19XV09rYS1HNXZVclE5LWg1R3hlMmxDTVptbDY5WUl3eWlWZmFpVUZ5WWc2QlRfZTliNnNxOVdiMzZUUllEdEdx?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Biden plans to step up government oversight of AI with new ‘pressure tests’",
+   "source_name": "Oregon Public Broadcasting - OPB",
+   "source_domain": "https://www.opb.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSElkdGVVaTVWMlV1NlNCV185cDdkOF9Ed285R0l2cGdNd3AySU9QM1V3THBvQ2ZXZ0xvY0RBazVnbXJIRG1DQmgxUndoZHpXb0JkaHhKckFJSC10ZXI2RE83V0N1R0h3OTJhcXhQUVY4UG1NSGZnTXVNSGVkek54eG9ocnZlNjBnWTRsclJ0bWVSNHQzakJGN01oNlJTb1RPa0lhN2xiQXE0cU1lNFVWOXdoQQ?oc=5",
+   "published_utc": "2023-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt approves 109 research proposals, including AI-enabled healthcare systems",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLXViSnZodDg1bzEyX0pwV3VJQkQ2RXdwV0ZMdWVUSUI4b2ZuUWpJUk1Fek5iNWZDWjVxdERuNDBkZDBodzNqQkFlaVJ5SUlZVDRKVzA3b2RGcHVpTTd3bDV2Q0Vyb0UwVGhEYVhwQWFyQ1dWd28tUEYxTmp0MjVRY29hTy1jQmNqZS1TNzlyLWRUNUV3cjB4MlY4MTJNRzZwbUQ2QkNFaHBDRkV6T01OeVE3UWhENEpGM1plMXI0cUo5T2pxNUMxT1JIZTg2RG9OclZkZ21KSWV0b3BpYl9oWDhhNUNtZVJt0gHsAUFVX3lxTE1FZlJ0VW5WaUhkaDVINVgxZUMxbmlrNERFa3ExbGVKSUlsRVpYdS1oZl9LWVBPMTdFWVhsRVhaY3cxZ1ZZNDJrSVRtbHM0dHZyTmpubWNoS280ODlLeHhObkZvUDJhc2ZwSGV5T25YU3c5cEIwMUVnWkRWOHRWQ3RuRFM0QUV6dzg1bVloZVZGYTdtZGh3dDhvbFdvRFltODhpekJpbTJsYUVpVUNpN3NLSzh4cnhkWDB3Q2tfMzM0ekZ2MUExaXhub1YwVUVNNGdvMzNjS1VHaEc0U21VMDItNjBCdGlCU0pYVGVm?oc=5",
+   "published_utc": "2023-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Government to Launch Digital Doctor Clinics",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM0lsanJnYnlCc3NQSWFxUllLekhmUjBjbHduRVdGdlBnVG83cXh3Q3hSS2RjYklvbHRGbkFTVHZmaHRxdkZ6MmdqLVUxUFhfd291MU0tT0VrenVDWnh0ZC1aTC1VVm5wa1hYTm5GTHBEN0NMTEd0eWVXM3hfQzdXSDZlaVBZV2FCWjRwdVBaMWxSTjdnZUtkdVBGYjJ0Nk1EakZFNl9TQ0F4b3BWaFZyeQ?oc=5",
+   "published_utc": "2023-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP CM inaugurates projects worth Rs 202 crore in Mirzapur",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZlRubjVjV09aSkhldmJoUGZmVEJvbTRQaGFMZnFNdG1WakFFZ2F6emZDWWZsUTFwdTRtZWZtNHJvOUt5QUFVLW5QTjA0RE1DMml0Ml9wb0RPVTZVWkV5Q3RrWVJ3REpuZmJuaHJIVnoxSjJVTk53bXZQZi1iTGswZlF4ZExWRVl5V0Q1WkUya2RZTm9YckM2b2RNMXJvSWtfSlp5ZGVndVlSbmNaNV9EeVJIY3F6aTlESl9Ubjk3RU5yVE54NXVqTEtuRHVTV3NJZ2fSAdYBQVVfeXFMTUhoODFwZThwTmhFZnM1a3NXTy1kamlwa3luRDhJN2VrWmhZdTVPdE5QVEpraUNqTTRaejhIbzZ4eE9zbnVpNmp2ZXVETkxzMU8xSmhMbS1nTjVPSU9hbkFMMloybGUxTzhzaldYenRZUlUzN0FEWXhaUTVScWNRSnFMQTVXNnQ5dDhxMEJyY0ZOTUkxVGVWSmxVYTJJRVMzSm9RN1M3TXdIQ00zLU90XzZHVkJKUmx0NjhBT1FkZS1FeFdIQTFoUERSOHdwUHNIWTREY2hWZw?oc=5",
+   "published_utc": "2023-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

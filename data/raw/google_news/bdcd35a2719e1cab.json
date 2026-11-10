@@ -1,0 +1,29 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh CM Jagan lays stone for solar projects, power substations worth ₹6,600 crore",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS01rS1h4b1RIM3BsVUkyaTFUeTVNaXprSjRLTDFERmE0MDhEM25MSjZleENaNjJ6ZVpBUVRMM2h5QmJvaEJwWURJd0o3WTN1SGlXOENUZVVnYkJ4TzljdzhNcXdKZ2tMRUc2V0VYcFEwZkNib3RBbXlMSnZqanBhOUNncU4xMkpEaG1rdEsycTZyLXFId2FJUUZPcl8xcW5mSGlucDdXMW1wZHA2bzJNVU1GRkZRQTNBQ1A1QVRybGN5Z0F0SlJQVVpZdnJ1X2NlaDBsUUkyd1ZPQnlRZThwQlRuaUpKZHJYN29EeNIB8wFBVV95cUxOUzFxd1YtT2Z5R2NYalp6Zk5wSFNDbl9nVjZSendfVEQ5VEc5eTFRR2JWSEFLd2ZHMVkzOG1NQzktYlpqd3R4VTI3ZEx2MkhoT3pQY3ZNMFZ4UUpLOVZsUXlFS1VTNHRVejE4WXNreEFXS2c0ZkVrSFZqU0lEWHh1MmpTR0hhSzRUUHVEQTVCaU52VGwtTEl0S19peHRwbkhCTXhIQ1d0UUlxWnR0MFV2NkRLVkt4NjR3bmNVb0xiYTV2N1hoT1lPZ2lwa1FWaXJVUklBVWxtWVRuYXl6bXVFc3JTdDlhMm0xMUFoT2hwSjNXdlE?oc=5",
+   "published_utc": "2023-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Visakhapatnam International Airport To Get Rs 20-Crore Facelift To Ease Traffic Congestion",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmUxRE9PZGtBSGhwcGhXMmdEMk00UFluTWRGTmd0WUZUYkNNVmZPWVRYS1Z1ejhLQUVReV9XRzV3cURvYm5kaDYzQmh5NHdkMm9MR1E4Z3B2cE15cVlrNFVyaUxBblpDaXIxVkdJa0JqczVwSll4ZFFoVVpHc3ppNjZLZktVcVg4VDdiRG9uOGtmOVdsNmpMLTJhb09lUEJTNmdxN1BtQ1dWNllPSmQ5YWxEOGR2SzZPNGN3dll5alh1OENYSENhRUcyN3JTWUFhMEFXd2Uyc2NlRUk40gHsAUFVX3lxTE9uYmZiM0M0X1dwV0ZwVnBzcF85Y19Gd3lCbVJOa3hqOWkzUWFFR3R1SkRNTUVXVnQ2Y3hKZlV3dG4yRi1BS1c3YnlMX2lZV0VZTFlsS181M25nZEpUZFRCZ0c2bG4tVjdOQjJnYkRnaDN2QlZFeXFIMXZoVXZNTmFjdHRnNFY3NF9SVEVxQjN4c2M1SDM1SHRPaW02cWtwU1JDVG5qb3FGbWIwWkp2WXNWYk9BRHZLM3NCUzNTdXFiYURzR2IzNHhfSWhYOXd0YnB0TG1rZG1YTUtXd3JZekpFb0lBWllJdHhvVGEw?oc=5",
+   "published_utc": "2023-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to release water once a week for standing crops in Krishna delta",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFRrZjVCMVFQdGMzWHhQaGtadlpqWVZKR0E0QzNnT1RtUENrUjc5T3ZrNG1hVFA0a1VfSVVGV3EtdWkxbU1LUTRkZ1JoX2U2UXZjYU44N0hhUkZKWldKSGx5SVdJUWpkMzdZMUNhVnF3MlUyek9tN0dvLVB2UE50TlkzbnRiWU52YVhkR3BRQzJiVWQ3ZW9ORWh1R2FYMEMxOTQzY1k5dFRCc3JnU3RQeXhaWTBLck15b0VyWnAzMGtJNm00VVcta1FoTm5NYVdUN1czTGdpSVl5UnJRZDFFcXUtWWxwdVJWTHJqdVFR0gHzAUFVX3lxTE9IYjZfUkducVFOQktBMGVpbU5BV0NGNG1PU1FNa3pxWkx2eHp2eDNfTWNwbmNwY1EtNW1CaWRETVNSb2lVUGNtcFFEZ1dNang1WnhzWnpKOFY2LVVoYXQ4ZmE3M0l6NkdGZ19sdkRlQWh4dVNiWXoyNk9aanBYclFhdmtNRVJGUnJKWXRxa3ZzRWZtX3lvSXU1VVQ4SndkQ3RXUkpfY185NGRwcnRhMllOVFlvMTZEdGc0MlY0cUNwLTM5UDF0VlVqblJqcXlHNm1TX2NNVzQzcFdzN0E2RkNrNzVwZEJOdGFHaHYxQUVfMk44Zw?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

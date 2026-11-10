@@ -1,0 +1,45 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh To Ban Hookah Lounges, Issue New Youth Policy",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUhIMGItVWE1UjZEMHF0RDg4bXFvSGZFSk9NVVB3Zmc2U1dWT3JuNmhzeVYtZ3FTTkZLNy1yaDR3SER3MHB2aldSd1VpVmg0ZDRfWUhKR0F1YU9WQWZqdkRmZ3pNQU9ObUI2QjlJeU50NXB6RFVBNVAzTjlxMEpkTzJzOFJDZi1qTEhDekJnVldFdGtyR0Y5SFpKczJfQ2QxRWUw0gGrAUFVX3lxTE9LU3FfdGh4RldKaHRuMnQ4bnFhNWh2blhXTnJfZ1I2ZmFaTzU1TUhIbUFpNGtYeUdadFRMNkZycXd1ckgycEpDOWNJaHZOWERpZHF3M3BUMGR1MWs4Ui03Q0VzcktRVkpNczNOYVczN3F5QWpMakZZYkEydzJ6eDd3QXo5eVZPYWg3REU2aHVCYXd3NGlTY0hpVy1rVGpzNlVKQkx5X1JMNWZDcw?oc=5",
+   "published_utc": "2022-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Rs 600 Crore Project To Reduce Travel Time Between Bhopal And Itarsi",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3dISFQ4b0F1cmpZYW00eXRSeENnTWVyYmJLSUtwMlozWHVfeXA5em5KQ0EtZ3JtVmRFVlc2SUp5aUR5Sk85VXlmaTBhSHMzNWM0cGo0Yk5maG9scm9hU3M3Vk9kOVFJamp0YXRlQk9UcXh4UTlQSHo1TzhUOHh3U3o0aWxBMzJUNHRFbDh3aldNRTBLbTQ0MVY0d1kwenl1cmc5QlJQbG9vZ3hkbENULUIzSUx0WDVkUHNWLVhXSdIBzwFBVV95cUxQcVo3dWs3NEZ2UWVibHBVaHMxdGgzZGJ6UG1iX0ViamlOZmUtZVdKcW4zZVZJR01mM1FyclUtdzJHWVAwMDM2U3NvTkNDTWlFb1RuaGJFbXFROHhnSUxrT1VSa2VSbmUtVUhMZm1FbjBsajh4czRGOXdyTFgybURVMTZabUprb3pPZjBkeXdRUFFNckNBajF1MlRJNWttdFlXcFVzMEQwMTdKcDRrS0J1cEJkQkw1OVQwRDlIVmJ3cUlyWkx4c0F1d1J4dzRSNlE?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Controversial author Farhat Khan arrested from Pune: Madhya Pradesh home minister",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclEzYnl6LVllLW5HMU54RHYxV3VrZnc3WWJDaVMzOFV1QTl5aVo4WUl1c0ozMnZZRjJPd0w0WXNzNXlScmVweDAwdjc0N2xpVXMtNWZOcFNTUUItVHpDcmhWaXZsOExpekJLcWxGOUpQckFFOWpQalR0WnpYQk40MUR5Q1pHRzc5UFA4ZUVkMFRsb05RaDFvMlJlb1pfdVhrQmxDMUcyZ3ZyZThhZ25XQVBvRjZUNG8xcGxJOGdBOGkzbEI2V1h0b1BDX2dTR2UyNFdQYVo3cm81ZENMblVFUTRnSdIB6AFBVV95cUxPX1Bhc3JiZGptMVhFYjlWa1huajFIalZOVGUwT0M1T05PcU1MbEt6eW0yUVRHZHdiRzVhM3owY3ZHb3l5b1pTelFSaG5JRVBtYm1LVnJUcWhtalRHYnI5cndsZkpuVGF2RFJIQ3IwMHg2QXQyNDZMb2h5dXRqaVBXbmJNMHF2QmtjVjcxWUtPMmtVRDhxOEpPWHhUMEtCdEVnMUZUS3pNX3hWV0wzQ2tSOUtUNlJJbTRUUnI1bk0zRkZ0OElGZU5CZDg5UERsSHZkSjdjTFZwYUhlUV9BN1JEQkZYaXZfbHIt?oc=5",
+   "published_utc": "2022-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Revenue department orders to remove encroachments from bus stand within 24 hrs in Chhatarpur",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2FmazZwWEo2dy1VUThvODZfV2d0RXRwVHBZSkE1Vkx2VUtkN193QUt6Z3k5REUwWGltZU9qWG1BenBIUUtod3Znd2JfZUhSMWdGc2Z3UTZ1dUduZ1RjV1BfaWFjZDFXZ0pjZGoweW4zWkVGcjEzNnVqNEs0a1hBTngtWW9iVzdWZGRWOEVMZlRVYXNVbHU1N2xxZFZBQWQwZzB5TmRQQnNwdkRkdDlLdUdnTWhXS2VmZHBYd1haN0FtNlZxbDlSbnc0SXJRX09CYS1CNGV5RUpOOEJSZEo40gHkAUFVX3lxTE4zNGVkWEo2OWMxeXROdF9NbGQxeXR0UVB4S3NGZUw2eDlLN0hLYURpZE9IaDJKZnFHODFfajhZWlFPZW5qcVR0aHk4YUs1cHVJdnRMUDB4eXc4MDhHRjdHMGo4ZkxVVjNzZ3RwSmFvdUN3T29CWExqVjJNTGFsczVGWTVoX0k4MjRvNWVTOTVTcmk0ZkZpRlF6OEJuUTRKSEtacWNhejdYUkZDR29IZ2VBVW01N3lWa2cwMENIMWQxMFNzRTJMeEp2Nng5TnBUeVFGcHppMmo0THdQWW45X2NvS0NWdw?oc=5",
+   "published_utc": "2022-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This government hospital of Madhya Pradesh is better than any private hospital",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGVya2xDelk2bkNuTk1sMU9UNTBNb2lUWVFxNEtGWTB3Y0Q1SUhFNzZ1SWh4bXBheC1rQmkwU3Uzb2xxUjA4RzhqbkZBUG9EeF9sQVhQNWFFMk1oYzZQRldIZmNGS1hzVnNzOWtjSmpDQ3JTZDdqQ1YzdnRJQnFfVGtJNndSV290OEZhMUM3NDhqTXZBVVJ4WkFhRWtYSDlWNXN4bS1Jaktqc29BWW9xSlc5S3RNWFZP0gG-AUFVX3lxTE5QUVlXVkdMVVhQTEx4LWVPZExtYzBueGxQRnljQkxFbjlxMVQ3bVJhU2tWdVRGQk5XeDRnVDZUTE0yMnhicURwRFVjeGJ1ZTliS0REeWJnWkpMZkJTcU5pc015SHRiNVFRbHZ1amZPRUFHZEUxdTVGMko5ZGczSFFzSmpYX21xUV95bE9wSFdLSFAxVTNKQVZhTEthT3dob2FYWFAtdS1WLWJtckI2d0tEWjdLNllSWmxfVzRMU3c?oc=5",
+   "published_utc": "2022-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

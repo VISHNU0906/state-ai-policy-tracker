@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "The Maharashtra government signed an MoU with Google to use AI for development",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1lMVhGd3BGcHc0cWY4RE5YUzBFV1plSTZkVXF6MVN4YVlXTnQyOGpzMHhSUThWQXVKNmRIdEIxRlB1c05kT08yQ3lhZ0hWeHRxTXUtYWhxTjVISi1YclRqcWRvRFNCSjVncDg3TjE1a0JVMVRHSmhRb011SUN4WWRWNjdVclhzQVBmeEY1WVpyc1A2bVo4TTNIYmVJaHZjNkF0N3dXc2pxZw?oc=5",
+   "published_utc": "2024-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google partners with Maharashtra govt to provide AI-led services",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTc0djBlTG11UEU2X1ZoUEFzWThsTlphdEFKcWRSTHVnUzd6eUJOZFBjZVFIVTF2TE1hdWdkRjR0OS1CaURlUFZPZUVnQTFhUGpsRkJ1SEtfekllX1BrNmRrVk9KblBhWGZDcWt3ajlNLWpDVmNzUHBOQ3VzSmdpR2RUZFZMTzAtTFNOd1IwSF8tLXdaMHl6SkVydmN6QzN4cnU0Q005UmxYcTA4T3ZLck1lbmQ5TlFkRWJlQW9UX3plelpybGRUdkVtTdIB0AFBVV95cUxPelhaa2xYaGVOaDg0a01zMkFhYVlTNmlPelBrcWxYb0JrUXRkX3dwUktlaDZCck9ZWDZNYmtPTjZ6WkJMaVFLcTIzbFhZQ2w0V2QzZEF2X1c0ajhrRmRQcUU1cjNtcEhqUVZuYzRvdVdna21XTDladV9rU2xBYVhjdUM4c2FaYUttWi1FUUxvaE9Bbm05Y1ZzOFRSam9PUElmd0JjTkdGNE1xRnRHZzY3WU9iTkRUd29XWG55UUJBVEU5RVpOWk9wN0tsaWJvQzZi?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Signs Pact With Google For Harnessing Artificial Intelligence",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlJYSUQydmVZWUExLUhoSk5uV0IwRVE4LTlmZVVIT2ZTd1ZnTFkwS3NQZlJfNUhQYXpWWkxhVXdfbm8xaHFhUEx1aTI5UVRSWF9fejRzY2FPekptSW9ES1ktaVhOU3ViOGJkNFM3ZHpDSGtXeWZSN1NCZk43bFl5QTk1aGlQVVlVcEQ4LUI1X25xNXRSeUNOV29DTjlVakdaTmplM01mLW5CbWIzTG5yVk5za9IBuwFBVV95cUxONTZhN05vOGF3MC01eTRQLTQ4UVFHeWdTZ1JEQkt0VlhwX2ZXN2psN3ZRaTdVRDVpSVVqOUEyTXloeVowbEpzcXA1ei1jU3hBT0RpMU5BSmszLVdpMmFwczJoMllLcy1PX0J6MTlFdHNzSUd2a24wbW1zUGU1OEVQYjZ0NVE1TThfdVYzX1VqMDFBWnY1WWNpbzRWVnJXSHZvTzFta0VzaUlNenFVTjhySEx4VkJZWnNhNHk0?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Using AI extensively to tackle problems in agriculture: Union minister Arjun Munda",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmktTkk3Sjk1RUluNHZxUzNzZTNKd0hFcDgxcU81cTdrbXYzNkRERXQtRXU4TTdURTd6R3ptQmI1ejdSdGdmMlZFNHpBMnM0Y3FDYk5INk1kRWZ4SWhGaHY0TmxfR1lQUmE2c28xNjRkeXJUaDdxYVpZWHFFREw5bHZwY0FNMmtxWUVDUTBadXlWU252VXczbGU1NVpZakJHOUk0Vks0X0lMUHN2bm9pTUNTSU1TcHZlcWNKN2V1M21FVUZ2bEdWUlVidjl3akVfQ1pTM3czQWlZby1DS1NhQUFGNDBOcUdiMVHSAe8BQVVfeXFMTnE0QjNoLVl0MXRFTEpTUG5QQmF0aDRVQnpicnp4Rkg3QjJaSGVMTGZDVVhXOUZDV1BYQkZOYVhJM3NvdVA2N1lpaHZoaU5oeDA3Ym1tM3NjMzcyWEVfU1BpeU1hOEFyQjlfTEVEQzF4aGtEN0dIa2xxallySlRTRm41cUFTUXdKc3NNQllVU1J5eExSbE9NU0JwTXZWdmhCd1lSNDExcHBxTjRrWHlzSGtMYlFlYktKNFBfMk1ycXUteFlPc0JzOEhwcG1EakVFcFByX1FwUmNVdWJqbXhmN2tFV0F1ZWt4MHVndHBVajg?oc=5",
+   "published_utc": "2024-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "London Lord Mayor meets Eknath Shinde, proposes naming AI centre after Shivaji Maharaj",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPajBIT25WeWkzUV8xZnJ0Mk9ST3gwdFlxVnJ0N2p5SFZUOVhwczFOYzF4VU5XUDBBdmc1ZGEtdjR3bjhFLWk3d3V3MTZkMHN3NEcwMkxJQTREXy1ZQWY1NDJwek5MOXBhSkFZQWp3Zk85VWxMY0E2NUtRNXJfd3FzVG9Pd2Q5VGkwVjhmSTl6cGZQSGpIT3B3b1A5cGZJd0NYeHZlZkRQVWJhX0pfcDdBNFBpZC1KSTVRWU03Tm9NR2t2QWNxdGR4azBiQjVNY1JKM3RpMTV3SQ?oc=5",
+   "published_utc": "2024-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The University of Birmingham supports the Government of Maharashtra in tackling key state priority areas using AI",
+   "source_name": "IBG News",
+   "source_domain": "https://ibgnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUg4SDUtTVItMzhOam1SVHNSdFp2QmJJeU5naFdXdHRKS2NjQXNtTTVyTzJKZHZfOW9yQmFVa1pPQmQ1N21uTFZEckpYdWNwM3NlanVJWFc1cG1Hc3NuU2FaSzJkRXhDN3NpRFZoc0pPTFhjYUhpaTlLTnFZY3JPR2FGR1E1eHliQjA2Slp1bGM2S3BBcWV6RkR0UE92VVdiRGVEaWNQX0o1Y1A4S24xVEsxWE1TOGdLSy0wbXpJWVRZWTZtN3ZXT28xWnp4eHk3akk4YXA5d1Q1am1Udnc?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Manohar Joshi, former Maharashtra Chief Minister, passes away at 86",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGdFblpxeHc4RUkzYzF1bnYtdlBFYzVRNWNsTFNYblhZdHV6a0x0QU1DYkg1bGFPRUNYTFJDMEUtQXM3aHUtYWt1X3lOZVdsMFVtSGtldmRWbnhBLVVVR0xpeXp2QXplcEU4bHdrSGlSR25MaU82bnZkaWkwRm9XUjB1SjNvNUczOWIxVnJiZWNSMlFUbVRCQ2I4VUJNT01UWm9MT09uMHVXUzRvVzU3a3RvOE9zY0U5dzdVZkhvcm9IZnZtVF800gHMAUFVX3lxTE1hM3NzUGx0dUZkVTRlQlktT0YtYnZiVlFnVDlUQmQxaG9NLVMxeVo4Ni1naXM4aTRjNFJnSlhKM1NxeWZiTkt6S2VtVkpzSEFYem1GY3k0aUlWbmZ3Q09jVGxHRlA2R3BrRFJZN1l4cllPMlRMVGRMd28wYkZnUXRJRWNnZ1lZSnI5YWRvaDVoOTRZXzVNRDdxX2MtdmVmSXQxNFAza0ZPOHY4YTBRMEhXcExXRUNzMm9KRDB1eXpTTnNDSGoxM1gwQzQ0Yw?oc=5",
+   "published_utc": "2024-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OPS inapplicable to zilla parishad employees: Govt informs HC",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUksxRDFrWmhwU281QTVNVEo1dUNGUEJWU2N3RldkVjRZamxWT1RVcUJmMWN0WlNLYkIzMHN4MzdlM25ndDJleDl5QjlJTVhZS1FVT0thX1BDdk5IdFBYSmxfcHphcHdDclFoTUgwcVNTdnlIZ3FlMmhnbU9BQUhySTZaZ2xGT3hKR1M2clAtXzRtWFIxeEg1Y3dCdFBONFA3c3B5TzRlV29MbkFudXpObldoTk13Q01uRi1lS3dKemNWY1pFS2o3NmdNcDFrZXhaMU84VEZpdlFldDMzRldZ0gHkAUFVX3lxTFA4ZUktR29KenRMQUNsNEE2cnNtcEZON2pMX2NvQU1kYk5XeU15Z0dZRTNwS0RfN0lNeFRMY0l5N29ySnVmV1NqOGsxSDV6SVBuNWRUQWt3aDByZ1lKcHVUZXhzVEF3ODMzUzc0LVNtYVI3MG9JUHI4cDVRMFJSWDdmSG5reWxZNkNiN0lmTDUxdHpKSlFjajNhRW5RUmNXR3FXUHdDcERud2FpcVd1aDM0TlVSam9FS2ZUU093MUFEWFVreUlsdENqS0lhWm5qUWxVN0E1VjZaYjMtb0V2NHhWVF81aw?oc=5",
+   "published_utc": "2024-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lucknow will be developed as a prominent centre of AI: UP CM Yogi Adityanath",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanUyVGxqdHY0bTQ1OXJhR0xoWFBxSG5hdUttdGVHcFFRbEYydFdiUmhqNS1fazc3ZkpWc2Rkb1IybWp2UUlUUS1xQ1c1dndVYTFOa3Z2VzVxOU1wa1RuQThjQnl2Nm5Pa2F2Snh2b2ZkNlgtTkM3UzNmUXdwZTY5TE1XNk1lbUdMaWt1VHJSV0J2RE5JXzZIckhIQkZYNW1YMEhIOVltZUM5dm41M3pkRXBEY0kySnVDb2pMQlFYS29FUjdGNUw0bGJOcE5pYWVFamFISkZ3ZTNMYkgtZFFiRzQwRQ?oc=5",
+   "published_utc": "2024-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta to introduce labels on AI-generated images on Facebook and Instagram",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOUZ4WGNSS2Q2ZEJTRUhiQV9zUFZWalMtb3FnbmtnTGhaSi1IdjMwZ19MUG80VmFGQXJiT2ZubTRJMFlIOGloMEt2V254QWh6TTlYSFVxRjB3ZGRYTjFpRXZsNVQxdkJxZkwxclhoZHYzNzhiVC1VRk13V0d5VVRnb1JtTUNvdVQ5NEx5SmV0ckREenVrRFBHQWpjZ0ZnYk5mVFc0NGtKM09qeVViUlE3bzBxYUpkTEY5V19McE9wdFZEanplTlQxdU8yZFVHZFQtRWVleDFjc3MzNjVfN18wWTlnS012bzgzdkHSAeQBQVVfeXFMTllMd3REaW9ZZnN2ZnRkeE1SYW55VXBoS3BnNFRNZHdmQlN3R3ZSR1JXbU5qTFlCa2lvaDA3Tkc0OER3MHRxZTRNTzlkTWxVOFphbFltSTBqdnFNMXctNGtpVnpsaW1ZT0hCMmdQaEQyUTJtVmIzZkI1N2FjZHFSOGF4OE5za0M2Q1h2anFVSGxKTTl3aXVUY3FlT0J5VnRvcmcwdHBBVEpGeG1hbFBWdjVjOXduX2RXSlU5TW83Ry13QmZaemprc29reW1TMW1EdFZsbWF0VUxzNTlPcl90bHd5M3l6?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

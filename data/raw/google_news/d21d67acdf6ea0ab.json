@@ -1,0 +1,85 @@
+{
+ "query": "\"Rajasthan\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "On Rajasthan Political Crisis, Ex Chief Minister Vasundhara Raje's Rebuke",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGZoc3RlNGlTMXNpX19fMmNtOUxIelRYLTI4ZUNWMjIyZFFvNDFtdzEzRlpnNGdsYkR5WTRaLVdRRHBWWFplSzBySUVNMGh5ZDJzOHBDaWlxeXVjZTRRM0ZxSlNwSTM3dXFIaVVJb2h1U3E3RTRhVmVnb254QlJpZWJNNTFoUENSWG55UWlpLUw4VU9oOFZueE96UWdQR3R0cm1xMnRhWE5YS0pkVUVRNA?oc=5",
+   "published_utc": "2022-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan unveils post-matric scholarship mobile app, revamps e-gov portals",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaGN1TDgxWk44WmktYmVldzFDMEF4ZXgydENVTDVSZDVMcEpvU3VJdGZuNGltYkJIOVZFLVZtVThxeWEybDBMNThOUkJDVFVpaEhGMkhnSGNEUTNXXy1wTW1fUUNDY01xMjlwSmxnUUgwUHJZcWNJUFhnY2pWV0xzd3pWZmx2UXZ0NGNPOEhYWGNRYktnWFpyQUVyeld6Q09CSFhPakhpUFlUa3k1U1Y4U1AzRkxKQ0l5d2ZuNWVnZy1FSUFLQmYxVlhIQXVOQlh0Q0tJVWFzVkVid2JyZmY2MNIB5AFBVV95cUxNcG9mVDQxOVlBTkdnUTJTLS1aZE9MNldfbjZkWG9OR2ZqbVF0SHI0QjM0czZrT0VkYXp0bkNGQmRsMW01c2d1eEl2Z3pvNnNDTzEwd01tLVdlYjA4V0tJRFU3QnRSWWxoWVliaU44ekwtWmRWWXlRd3R6cW5RcUNkQmJtVU42SG9IM2JNTjRFLVRXX3NmWEI2RXZ5U2dwTHB6ODVPb3RNaGFxTDYtTzhDYU9SRkJKRXQyMWxqdzFNNGFnX0hnWG9VV0EzcnYzM1BRc3N3aTdPcE1LSnhwV0I5ZDgxQkE?oc=5",
+   "published_utc": "2022-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani, Amit Shah’s son are welcome to invest in Rajasthan, says Chief Minister Ashok Gehlot",
+   "source_name": "Scroll.in",
+   "source_domain": "https://scroll.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkptWEpMZFZGY1QzYVNlZzc4S2hiNzJ2TDJ1cnBoeEd1X0J4ZHdoU3o5TjZpX1d1Rk1NRGRuS3pMYjNhc0NlQlppTTZBQlBtR1BJTC13a2xKUUF5UjBrRUl5ZHFJZFQxZHBFazJMakR4QnlOVVBDUlpSQXVvd3g4V29NblplZW5jTVo1Z0F6b1VzdXNibGNpZVFSNU5ibjZCSU1nbUdvZGVISUItOTlpR21PRFR0SURDVmhGU2hR0gHDAUFVX3lxTFBVZnlNVmJWWGdwZGU4bjQ2TFpVa3lPbnFuYnFvcEpVUEFBVF9nNE5femVUd3p5ZXhsbnhsQnNLclVtczJKeUwyY29Ic2RrWGJiUjFyYVJjbS1DczBKZDZDMEZMTlVGMVV0NUdtYTdVRHdtV0pOQ0ZlTDVQOG5qNkJDbXRQM3A0QVVZS21LdHBua1RuZ1d2YXN0YjFFSHZ3X1RoYTZTMVdBS0FtX0dSdkJUang0eDlIV1N6TjFualdWSkllZw?oc=5",
+   "published_utc": "2022-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 36 cr approved for digital libraries in 344 govt schools in Rajasthan",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTUNyXzR1dzRvdFRNTmtzR3FPcUw5Y2JGVXNwZXdQRU5zbHVvQmhnbXZzY01wTjdtWTJGX1VKeE82NmNWSlA0RXVoeWJ5aV91RmFPQ1d5UEk5QlJfOFFjSEtZTHZ0TTVOMGJILUdEWWpBS256aG1zT250VVdrbEFHYXlnXzlwaWdiVmY5NmRfVm5RRXRjMUlXY0pBQ2pIc0NzSHJFYmlmWGNrZ0JBT3hHQUJ4dFd2MG5fSmM0eHNLTnlaTkF1YzNKRmgyQU5KT2FBc3l3TUttZ1JZSDVp0gHiAUFVX3lxTE5SLVJ3RFI4d1BBamxjb2ctX0dJTzF5WGxfb1VaR1R1T21oWGJoYlo0RTYySVkwZmEtb0ZBeVhZLXh6QlczREE0c3dpWmhMTUo3emFndDJJaHpiZ2FYWmVBY1dnWkRvNjhGMW9iWjN3ZzNWb2VnZWxLZTcwcE8wX2xXd0U2QlQ1ajBzN05LUlMxNXZhb0g4aHhCNmRoVmpNQjR4TDNVaTkzUmZtdFBFYUxqaVA4QkxrU21hc3dxd3pSR2RSUEppNk1RYTE1S2xZRFh0Y3g4SHZTWV84ZmJVMHVPQWc?oc=5",
+   "published_utc": "2022-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt will regularise 1.10 lakh contractual workers",
+   "source_name": "HR Katha",
+   "source_domain": "https://www.hrkatha.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS1hPRlYwbGVXZnhaMVY0dXViMWMxek9wSFJOV0V1VnJKRWwzRUJUYThYdWVyZExWYUJwODBrbGlqbmctZm43OUZyS0VWS2dRNE9oUkI5QW16TGJ6YVBjSzhiZFVGWklRRU1ydkQ2empLVk9RZ0dEeUV1NkJxNlZjcExqUFp5aXNBbTBWOEYtTXJMY3NBT1lHaFFydFQ5QW9nTTJhRDhXNGxreEc4bWpv?oc=5",
+   "published_utc": "2022-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 Newborns Die At Rajasthan Government Hospital After Warmer Overheats",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUVHcnp1QW9kb1R4Qkd2ajczTmdoNE1STzJGTkg2ZzZOR0Q5UUt0eUkyNXdqSlJQV3VDYXo2MkowdzdNV09CZzdvVjRkQ2NLby1ZclNUUTlGb3Rvc1hGamU4N2RUVVdfZk01UHM3eGx5WXJsRnc5SW5fMzhBbndkeFMyemVrRzYxSXItLTMxZkxyWGQ2V0RwT0lfNTU1ejZYbnFwNVFLRGJvZ3V6R1RR?oc=5",
+   "published_utc": "2022-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt allots Rs 204.81 cr for expansion of Jaipur Metro",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUnNVcFZEUE9JYXNLQTI2SUhBSkxEYWNqelFUeXZhc2gxbjZkYUhzMEhIRndPUU5DYWJtby1kdEFBSUpZa2lKTVVLVE9mcG95YmUwLTNMMlk0REZ2UWdTMzdGeTM2RHp4R2xsc3FkWkV3bGdmUDlmOWFZbHBScUVkdVBDOEdzQlVJUkpUTU9CdVhjVkh2bUxNOXYyU3JXU3FZS2NMWXlyVWg0OHVvLURBYWJ0ODBfLVZqb25nQ2VDUW10UEd5Ync2ZUZxZXA3RmtZQXhiWVR6OTFuZ9IB3gFBVV95cUxOanFmSEV0S2d6SWd0emJ3QU9RLUZfMEdPWGpETTBBWEJhYjNwWlBJQ3pPTEllWDNrRk1UVkJfZlhyaDE0bW43UDZtSWU1emFvUFhDeHdGbUR5alo0eDFJSVlpRUROQ1RBMFhVd1M4Tmg1M0sxSXpTTy1tNlFzaVcyRzRtQnJ0TUhzZTc4aU5KSUtJay00ZG9DUE53QTI1VG9yaWZYRHVOR3lQN2YxWUQ5MHVUemR1R3cyU2RWSnk1c2lXS0pNQ01Na196NzYwbndRSmdScVdhcDh4SnJPTUE?oc=5",
+   "published_utc": "2022-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why row over Adani Group's Rs 65,000 crore investment in Rajasthan is futile",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaUttWndPYTJ0U29yOVl4Zi13QlRUQzFrY25YTEZhbWRSQzZCVlNRbVFzc1VfNnR5THd4bWF4U0lZVzFnY0o4SFRkdTdsTUFUZDhKdnE0TThxYkI4QklWbGNsZlpmeFBabHAxOEpuNl9Ib3QyWnk5ZUJOMjhIVEhCR29ubVBDZ0otbC1YX1hTaGE0aDlFUzJ3SW8wVXJJLS1ncW5FY3AwUWNzY3V0TWtsVTNOS2JCTW1fbGRmSGcxb2dlLTRJSXFxMmpIcFkzWlFsaDhVT3p3b0c0NXUxZ2fSAeMBQVVfeXFMTlpMa0dNLWZfbFVUTUJmdml5R3h6dHo5S1NiNmFLVzFtYXlNUmo4ODRCZHRFd2FWMHZBaHZnLWxGQVo5Y24xSnpxbEs3QUVaVE1qTTdweFNxTEtOSHg5bElVZTM5ak9uYWNNdkxVOExVQzF6OXZBbWlOSGVaM0xWc1V2NFhBbUJYcGRXVjI5R2p3bjVzaDhadzE4MXZmdTgwVWlFaEJEbERJSG50cXVDVWhldDd4em1VWndtLUM3bGQyeUFKbHhNUkdBLXR2YUUzZ25jU2xhV0N4Y0d3cW5qTEFfSVE?oc=5",
+   "published_utc": "2022-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress Leader Charged For Attack On Union Minister In Rajasthan 3 Years Ago",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWhnNENSalNHaWJkVXg1bGtRQmp5M20xUnBVUDRaZ1BneEFZNlgyQ3RqRkJrVURWemFyZXdNTTRtNVFXY2hIcHhLNmFZeUpTX0tZRFprNVVvaEF2cGg4LUtQdlFWNVRUeFFONTN2SkE2RWJlQUxkNnFNMDZ6ODhCT0NpS3VXdWpxY05ybTlUVWFWcEo3YUs5NHBvekZUOGRvOEFxRXJWT3JnNEcteVpQamtHOXdROVNl?oc=5",
+   "published_utc": "2022-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rahul Gandhi's Bharat Jodo Yatra Bigger Than Lord Rama's Padyatra: Rajasthan Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZW5BQnRZN21FV09TaTBCcjdhS0Faa1F3R181Q1NJdE4xUGltQ1c0WEVEUWJFTDVhMkNxcU92S3drYlFWT3RYRlFlaDB3MkxfQ0hlTzF1MWZwVmdPUFVMWWNXUTU4TEZzX1BjRjVfZ0V1WlBVN3l1dnBtbGpLSXFtVWwxQ1F4NUNYVzEtMmFGUDZhNU85Z1UzNFo1czlUbllkRzRPX0hDcHBqajBWX3AwVUlPX0hNWi12M2xqSkc1WGNyd1BZMXBYSl9UZw?oc=5",
+   "published_utc": "2022-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

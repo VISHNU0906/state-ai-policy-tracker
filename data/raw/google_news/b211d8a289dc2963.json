@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "AP govt adds more procedures in Aarogyasri; total reaches 3,255",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQk1POFUzRExoS0hEdnRZaHZoNV9wcFNwWXJXaXZaVzlPeEl4OHdZN0Q2RmI2MXAzUGJfdUZIei1iRXdLRER3UnVLQVMzOGMzMWhGcEdyWHA3VkhEMTF1cHJiS1lHXzBWZVRMUVVGQ2hsSldpTHRuQXdJRUFrOTNsTVNsVlVHRDRScEtNQXFWam96LVpzTlBOYVlSUVh0S2hPN0dyT21GY1Z4bnI3T3Y5MlJwZWhRNUZhdlllRzl4dGIzRHBTUHFR0gHMAUFVX3lxTE9VQUU3eFRJUlhNWENEUVJ4MDAxWVNOajJLX2ZJZDNqakZnUzdKWk1KLUxuVndCZWdBRW5QcTJVVkZOSDJZZWtJUFZ3Mzh6T1lOQVhsTzRFZWdNQW9qVjVNb05jU0lUcUllVjltSHhtendiQlhjUFYwcHRMX05kcUMwUmdvamcwQ1lUU25ka0Zjb3Z1M19nd2lnbFk1d3BHbDhTVnhtaXlfRUxkRXZnYnkxZHV4VlpiVVBWX0dkMG96WUN2eXg2TnM0cTdEQw?oc=5",
+   "published_utc": "2022-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Jagan Mohan Reddy says his govt created over 6 lakh jobs in just three years",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3lEVTFIak9QT2tPNXB3WFBQd3diMy0yM3ViempUX0V0Mi1rdzRsb1JWVTY5NzdQRU9saE9yQlRzM0c2ek5KSU1lM2FNLURZbS1JRzd4emFQNWJwRUJXUnhUM3NQR2RtNTV0RFF2UDBUWlkySUIwcW9QdHVNb2hrZERMTXlpc3BOOWVYMG45am5pY0hEMkpR0gGeAUFVX3lxTE5mSWVjQkNpRmk2MHJoUHJyNU9zYkhJTU15MFdPOWlTdmQtTjZSUDluVS1RX2ZYZUpTak1ZVEdyV2hldWQ3SzR4R01iVlRXNWNwZ2MwUFZfM2ZROWVKSEdRSnlsME1ENGJrLVNoaWxaZW91Rnltc2NkT0Z5bkRjVmdxZXRqQ1FnNWhzNC1SYkRYb1V6bk5GWXVGOF9POVJn?oc=5",
+   "published_utc": "2022-10-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chief Justice UU Lalit Recuses From Hearing Andhra Government Appeal",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2d2N3poR2hVaXR0OXRfRmxsOE10OU90eVRfX0Rwa3o0cEJXTzB0eXgzbXplamxoN2xabGxnbFJTWWZqc2JicWxhcExmOXNWUmE4OXZuamNjVWtTa0xyOExhWTFZbjFSb2U3cTFoUHV0cy05VWR5MThSM3pGUFdOamZka3JndW16a0I5YThZY25EdHVjMXh4UVFHUTJVRllhZjhxOUJnMm1JY09a?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra minister Karanam Dharmasri resigns as MLA to support 3 capital plan",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0c1V1FSZ2hoekYwd1NjaTRfLW9NMVNkMkl4ZVpSdnBQUFpsb1NlRHZQSC02RkIweDdWRThIUkVNYk5yRWE4LXpqTFlvRko1WThiWExyRG9oZFhoRDJIelpnZk5mZmwyT2Y2S0xfSmNwWWc4X3BrLWNWeHFJeHhtbHhpaE1FVGlSODZZOVAtbl9QZ3MyMU1FUVdvZkhiQzluc3pfV0JVTkRyRmkzLVQ4dVB30gG3AUFVX3lxTE9HSXpvVG80RFZHV1JvWWE5Sm1rT0VuTHQxN29OY0tTVXlkY2VjUEdKb1BRejViT0V1NjdjRmhvWFVKMnkzbGM0WGQyZXJqZTI1QjdDT0hfWEZmNFlrVUwwU2hzSVZoV1ljSHlXRERZTmVvN3NLRG9DYmR4azljSzMtWHZFTjNPNGpFelMxcnFvQjBnTkIxcG1NYURoamlCM0ctNHlTczRxQWJ0RWFQN3dEd2FnamlDaw?oc=5",
+   "published_utc": "2022-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Actor Ali named as electronic media advisor for AP govt",
+   "source_name": "Telugu360",
+   "source_domain": "https://www.telugu360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzVvZHNYcGcwY0FIVnlFOGw5SE9HMjBOSlFITkhJOTItXzB4bFM5Y01zaWNObG9XWEV3Y1YycjZvZk14ZjR3UUNROWc0YV9sUzZxM3ZwNm1aNDh2eFpiOUhiMGowTlRHT0R5UFVpbk50aDZjRF9qaW1CYm5QaWdrekkxbE9HMTAyZnc?oc=5",
+   "published_utc": "2022-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala minister praises AP government schemes",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0hVNEhDQTJqc2FGb3hRajYwVTdHc0ZKSDN4RVo5T01yTHgxVVZCcnZJZ1FVcmV0bUNmeDZzOTNUQWtVSGdPeEdIejBHOW1famNmbHJyTzRkZHNfVnF5SUdaeURTbW84V2FNQ2MxblZMMWJWYjN3MjdtLU1yYzVqS1JKSlJwb0lyN0s2bzFuZVh1eUowUjJ4YUtRcWdBd0ZJWmhOamtFQkRobjlhNTZj0gG0AUFVX3lxTE5tbFB6b3d2UDRBb0o4Y2IxWkt3ZVlUbzl1cVYwRHZLRGtVUFlMdks2V2Foa1hHNE4tazN0Z3E3S2x1ak9yVTA3MVVjU29JdFJYdkZVWDN2VjdlTjQ0d3hOTEM3ZS1RNzNzcGZtUnFKRkpfRUU1Q29aVzYtWHdTTjhjLWxUSkRDTGMyRUpDQXlXaTJlVnh0YU8wcVRaRHVocU5EUXZ0OWE1SmJlV2lQWGpYQlpZSg?oc=5",
+   "published_utc": "2022-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra ministers push CM Jagan’s three-capitals plan, TDP says they’re wary of losing berths",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVVdTQ250SnBOMDFpWFJUZVYxemItOTM0SVdhVGt1dTdPOExKc1JvUWFFWDRhLUNJaE5qV3VtUnZrZVpVQ0U0N192dG9iTUxDQUdKRGhtcU1xcHdfTWl1TFBQRGtJRjA5U0J3NmU1bU94di1jdV84a3N4MmUwOHpxalFxQU5PMDNFZGZHQzNzcUdpVUdta2NGeDhnejlaMWtqdVlZVmV6T3VfZkhSM3NVd05OTWdzc1ZDSjZYZnQxamFPUy1mNDB3alpxY3VqOTZjM2x2S0w2cHF5ak5fZ3d1aEJDONIB6gFBVV95cUxOVUpGR1Uxd25NakNWTlJWMFAyLTQzWDNBRGRtaUc5VDZ4N3JXVDBSS1FJUXd2ODFYbmp4MkVSWW1jZHdxclBsN2otMk9PWGp1ZmtnQVl2MjFkY3lmamowdVlPTEpUcElJbXFHRHFWT3U4dDNveE9JTjFQMHhUcjdVYkFBOHNwSlBVWU5SQ3ZRbDk1NXdYaXdaMDJ4ZnFnRmd0SjQ5b2tTbjdaQmV4anRqeEhqdDFtWXVuWlhBYW5jTEw2UUgySVJiM2xNc3JacGg4S1BhTk9VeUs1dXlLVVotZ3l4UnZsUUJVclE?oc=5",
+   "published_utc": "2022-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt brings out new safety guidelines to check industrial accidents",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaU1tOTRjUmhkNlU4bDN1U21PTXQwOERjb3Y1WERZamFVOGc4bFY2bkxZeWRxRXlMX3dRLXhNSnk4anUzTndQQUtrSEllUGpiRlZhVW81VVNTd2VxOXFYUDJGVFp2c21uRDVmVGtocFJiVkdpNVloQzVfc2hnVmFEQVFVeEdPZjY0d0Q3SVZHRmxtZjV2WGxCM1lDcmdvU180d0JtUHlrOUcyRklPVnNZdW84VmxEUHFvTlhOTWpLZEhPTURORTIwZ3NIbWNDSVlMYWx30gHYAUFVX3lxTE9TWXVXSUtpNGJoSlRDejI4SW9seS1STzdKVWk3dE9nc2hRY0x5SXdfSlFObDNDX0RkdFRkNTZMRURyaFZpOHhlWkxENVdreXFRcVhpYjZNdFpvdmVUU1hUQVlsek9BLUpXQXhCV3ZJcFB1WEY3eUZDWWh0blphZWRFQnUzcDhTYm9JaDA3TmhGbHFwZDN6Zm0zTUNJZVV0UmRBdWFFR3RnUHgtRnMxck9VejM1WDBaMXY2TmtNc1FiOG5kQjVhVXY0b2trdVZoZlBmcG9rZHZhcg?oc=5",
+   "published_utc": "2022-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh sees different reactions to launch of BRS by KCR",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOHpfdDYzZWpvdUtQUDY2eXNiRHRlbm1xbmFrTFBOelcyTlhybGZ4ZWxQTVdlR0pDdWJ0am9qZm9tTUpRZUY0VXFzMFd4UGVXTU5fbVFhRHF0WTdnQnFyWnpCUXlzdnBqWGJqeVAydVpOVU9BcnpNVmxKX3JSUFJ6WFNPb0xyUjJIZVMwSmFjTE4yWUVwckZJWktYSkFlV3c3MGFhYXY4X0RIUGRzUHBaT0otRVlxNnhvZ05GcFVkQkvSAcYBQVVfeXFMTVJfREpnUkFCREQzS1hQTlJkSGVHMHhYUERHYUo0LUVrWUpsdHV2SUtGcHAtQXdQRUxwOWxGOFdQbm1MSG5nS3o3ZDFFcDhKRWp2QU1rUDhRZGNsdGd6eXhRNk8tbDNKTWh4RlFDWkRTS3VZNWo4WmdXbVQxQnhlMHNHbkFWbDNfQlpjQjBKSnVrbkNxZy1QVENiczJYSG5oZER4a0s0dHBJdXhXbmxZeTZUUVp3NFFrSkhZRHFnMnB3U2lKWFVB?oc=5",
+   "published_utc": "2022-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Jagan to launch revamped public connect programme soon",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3h2bkxMeVk0LVctbkxXcWFYQnhWY0FrTFBDUWE5cUYtaFJFLTZHRlZDRTNxVDJaVHd4ZnpoSHpKbFZuSDJCcG1VTE9jMTB2eXVvXzVlZlFxZEo5YVlSVmRFVE9EeFR4RzRlajhTZzlRenl0MkZSRWNiUnZUREtFNFhBdkVYcFN6ZjBtSFBCLXZubXh1Y2toMzl6Y1ZoT2lVSlNZUXpHSzI0QXZ5d3dKNXdXMVA5VXVKdF9QUkN3RnlvOEZUek1RUGppNXRybnlCMFFz0gHYAUFVX3lxTE9CV1VmSkRwQ3NvcTV0c2x6SGZNMUtfbk1wb2pDZEVGRUs1YlhaUkx2bmFBMks5NU82dFpMa1BIdHJuV29iRGdmOGhWM3dCV0FBQzdmdl8yc2t2c0dCNXBQSklvQWVPd1h2VDduYWhKRVdDaGFYejg5dXlRNXgxRVdpVGR4SnU0VkJVcEtzWHVDalhKWXpOSm4tenNKWlF0Nm82RmIxU2liS2hTeTAxeFpRdXdrNl9XdTZNRW9fUzdISHE4RktKSURHQW1GZXVMS0RUdkZSd29XbQ?oc=5",
+   "published_utc": "2022-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

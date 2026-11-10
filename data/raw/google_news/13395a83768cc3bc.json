@@ -1,0 +1,77 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh State Investment Promotion Board clears investment proposals worth ₹19,037 crore",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSVpSOWVsZFFtYzlzVFVRbUhDU0ZSa3EyZ1EtTVRSZk1MMUwzWXVEbzRKSGpiM3EydThvSHhCSTZlbWdkY3dPdlBWVXpNWFVwOW8zcXRGak1KdTN3ZXBnUXRoUEdMX3VuZjFNRXBkZk1aNDRzMWozYVI1a0NtMVdQVHkxRG02RnNrYWJvbldRSkRqcHFvenB6U3dfVXRzUTRtN1RuVTJzMDRPYkI5SUhqcEhaNnd1MVBraDk2NFBjUVh4bXZ5SnJ5UWxCRnR3eE5IV2JoSjVSeloyWm52cFFQVzVHQUxXZVNjejNUbFozWTFxQWxoM0NnQXhqdw?oc=5",
+   "published_utc": "2023-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SIPB clears Rs 19,037 crore investments in Andhra Pradesh",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPamJ5SW1WN1dzQjFzYUxVM1JUcE54ZUhpci1OdmxfVHRIYk9IZmFRbGx4amJVWkNvRXlvcklGR1lfM05VdVRHWHlEcEM0Ry1BU0hiWEtvM1FmcDFvdkFDUWphbHVyZVhMZGZ1ZDdmRFRfZXV2OEo0eWFYVUJBSHFGQzBmbUF4cjktdFZva213ckp5RkY0R2J1LXJxN0lDU1gwM0J5RlU2QXRTYU85bG1jakVKN1MtS0hOTFBwUlZaSm4wb2ZlU24wMnZrbFhoS0nSAdQBQVVfeXFMTzZsUk5lTTFKNURuenRzQmFGQlU2dzVsLXZCeW5ETDBRbUQyVG8tQnhYWng1VXpvX0NpNUhkYTQyS3FVbFRDbk1Mczlab3lld3U1ajFUbkdJV1Y5dENabU83a0pwT3dXdGVsTkpkdDIza3hoMWMyN3BFS01uODB1NGxidlh5dE5US2ljZ2hpZlh2b3NzRDNKQlNlbXVnRkJtd0VnbWU2UkZReG1CYU9sNHdNZkJpNlZqd1liMkxZOVVkQU5Va0FsbXNiWjZVTk9uV2E1ZVU?oc=5",
+   "published_utc": "2023-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "3F Oil Palm signs Rs 550 crore pact with Andhra for plantation, processing",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeEpMZVNrRVAwN0piTU9JcG9FMUFpQjBsMy1MYTExek82TldRUnRFY203bTRVVUxORjN2bkpGTV95N1V2d3ZFeXpjUS1fYUZrc1ktSnN5ZWY0eGpSeG1MOTNrMUJZWElwTVJtclpGUzBLR0wtUWN3UnFiYUo4WWpHSzFaUXVQTHdETTVMZHoySWVvUVNWLXJ0c3ZQN3MwdGpUYWRTUzA4ZWYwaDBEMkRScDUteV9PbGJfNkxsQWlycGRfRlZHMWpDejYxY3lfWXQ0LU1yQUpNNVExZ9IB3wFBVV95cUxNNVBPTmpIYndWbmxKMGFuRHJacF96b0dDZnE4cjR4QnhqQTBuelRNZnV2aV9kUWE5YjNvb1h1Zmt0MTRpR2stUDVIOWdYQWpReTNyb2lrbmtnNTBHQWpFT3pkZFVUbTVXME1vZFMtdGNhUURmUmw1TFJlaE5CdERVUUwteWtHQ3ZDalBoNGRLUEFfdHduUlZxWUtVc1BRWERZeDBkM1hvWGpudFRIbTlMOThZN0xiZzFXaVA0VlpldHFXZnVGcUl3azFrSDFSa3BXZmxwd01QYk9mbW9NcjFR?oc=5",
+   "published_utc": "2023-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP food processing Society signs 3 important MoUs",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkFUa0N3bkdTbjdnWDVhQ3Bocnk0RUhzdEVMZ0hFS1gzb1JIX3ZfeFU2ZE05aV85azNNb2FlT21mZC11Sjkwa09BWXFOYkNqb1lZdDRhZGRPZENDQjZZTDZZSVJrZzNuQzdOUlFQTkxMR3cxOEN1eHU5WW9kd2Y5Nk1KT2FxWTNYczZmNjlfM1NXeEUwVXZDNEdlRGl1WHEtd29Bb0E4M1hYeUNMa2RhaXA1NzTSAboBQVVfeXFMTWpoRC1yd0trQ3h3WEx3enYwemVfY21YcHJIa0hUOHJYWnFaeENVRC03OTBQcmQya3FqRHZid2taM3JJYWhheDJuQl9xdDlHNWNoVW4xbVZ5UnZXNm1MSXlscTMzMmJPTnp4SVN2Vnh5WHdHNno3RkI2cHRlSXg1UUZVT2pJcnNkT1lVSlJxbDJWMGdzZlZwZm01TUxkLU5abktLZXdROTM4MTQwMVJzTEF5UGJjYlk1SEhR?oc=5",
+   "published_utc": "2023-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra gives state’s Asian Games winners cash award worth Rs 4.25 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGR5b2xyYUt6TE1RUmRkZUxMTzRISVRkM3NHeWNITjE0QkJJb1l6THp2bGE3QndmTzl5Tm9mWm8yMEJOT0VXZkVWb0tsNzdYdlhIVFg1dld6MUVGZU5DN1pYYnJfUkV6NFRtOFU0cTJ5YktlTVZZdmltdE5rT0t0bmdOVDdiZ0FWUm5tclEyNXE3LXVhc1hXZ2pieEcyZXVwcmfSAagBQVVfeXFMUFBZeV9mdl9aTDJjT2RnVjZJZ2M4X0IwTmlBYm0tb1d4dUV3QnBKZ042alVHQVZTRi1INEFsT0ppMHVRRXZOX2tvWkgwT3pJdDVjbm8tUlowSlkzejZCSGYxLUFvb2VFR0x4NzgyWms2cjBINURELVlKd1FUWnlXMkhBY19aZHJURGNldjdqWFJBZDB2Q0tfam5mQndVR2pQZVFaZTdFdGdH?oc=5",
+   "published_utc": "2023-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP spent Rs 10,000 cr on Arogyasri in 4 years: Health minister",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGV3WldXUTdYdGNrM0FjR19lRmdCVGVKWHA1ekttdTZMa2k5ODhFaHNDTFBQdkdUYTZ0QnBvNmNJM2pPbm1ERzlkRlJVOVhWTUhqaVlwa2lGek5STzFXMjFIWGhfbFdNeklwQjd4OWZQWXI3NW1KNHJuNXhPMTBzenExYjk1V05tcWNNVEJuZVNtdFdsazk1b3htMTlrMmx4ejl5bS1ETEVrSi0tNGhrSDBIZk9Zay1za2N2etIBwgFBVV95cUxPRll2eU5nRVE0cGNpRDl2bnlXOFIyVXJTSVUwM1Q0WmJvN1E2MUlvcTNJTUI0YlpNd3NwUE5GRTctbGp6LW5XUlZMZkRVSGc3NFdyNDNyUWJ2T0NSNDRGa21WcmpYTDBRWGkzdkZsdWVsOC1xQXFFa09YazlxLUR3REZxM1NEUHl6dlJMM0pKdnVhbEEybGFfYkU2LXVMZlNWT3JMSkM4V2pzNkpucnZ4N2RuLWJobVJlQlBkNmNCVjhIZw?oc=5",
+   "published_utc": "2023-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Naidu Paying Crores of Corrupt Money to Lawyers, Alleges Lakshmi Parvathi",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa0ZuWE9SRTdPX00xbklXUGxfd0FIQ2R2ODVkSVA2bWZwZTBCemY4NlE1N2lSc0dLLXBLal9ZcmNGdHFScmlzb3kwWkJzazRucmpVTjRvdnZpa0pzQTBNZFpjdlNyeG5XSHREVlRWY24xUUhhRzNNQ0JRSUhyY0RQWEI0Y1dmTW1SeHBya3otS2VzU2I5c1NnNGVidm9ybHZsQ3ZqNTlXN0pXdWNiWkVtT2tOOFB6VDdqcEY3VTRqckd0QzkzYUNUa9IBzgFBVV95cUxNbURqZFZrdG1JNnV6UllWemRaanBBaXJzXzFURGVSTEE0LWIzZDRlc3NYc1pNT2NuclFaQkJVWWo0b2Z6MUtpMFZqQ1NJZ0l5QkhhT0N5b0V0bWNmVEFhWGZFb3lTdlptY25VVmR6VDlvU2FFbTVlS1JWbFJucnZncHFrazBrbHhZcllHajc0THFOeEZmdnVXMEZxeWdwU192VWk0QzRmOTlFR3B4c1Nsc2pubW5Zdjd1R09lNlFweHkxMkxzVzAtUDVSVlRkZw?oc=5",
+   "published_utc": "2023-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Jagan to Inaugurate Infosys and Pharma Projects in Vizag, Ankapalli Today",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjFvZFA5My1QbmVPYjBRVDJremVUT1RjTnc4TEF0VVdQMncySVdsUHBWdHRad2E5N2hHNkhqSW5VZEZjOXJKYTNUTGZjcWNFb2oyRER0RlQwRW1OWDF0UVViUVcyZGxKLWlSTjYwQzg1cllKYklFUjlMZTRXQUs2aVBmdXRCWGlwQ3M1RG9LeVAtTEgybUtxREE1WHlVd3pBZ2VvUzJzOTRYZmwzWUh4WE93OWYwMnc4SDRaV0tJSEVaQ3A0ZnNMMFpIMDJlUXfSAdQBQVVfeXFMT1IyR3UtdzJ4T0pyWkJmLW5xVktzOGppQkQwYm5QaURwTnFhbVo1R2d6b2F3TnJ4bEZmWWEtbWp0YmJQV0xPSlFhYzlaRkZXWVJyS1k5cENKc3EyV0ZHVGM4d01TOFRkUGxnS3h2RlJvU180MWpYWGcxVDZ3S2F0M3pPZnNJMER4cnF2NWZrMGFja2NjQXhjU1V2MGJDSmo4QS1YMlg5eTVXckk5RVI2S3BhNVJmbVItMF9rcHduY2x5c1hMSzB4WTdrWmQ1bUtKUzRfeGw?oc=5",
+   "published_utc": "2023-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Jagan opens five companies; Gross investment at Rs 1,371 crore",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0x5ZlRuODJRcldHeTNUTHBRMjVHbm50WVZ1aWdhRUJVbWdtN2tNcEVXTElTekY3Vll3NlhDLXVWVFFwSVNpQy0wbFdDa1N5LUI1TU9ubF8tbzBrZFNrVVpDaTdjTkl1dHBQc1Y3X1dHd0t2ZmpWSDlZLXJLdUxual90VGU2c2pTaEVRZFZzUGxJazk1bldBTGVTUFlGZjQ5SjFmbURyMlZQZ1N6a1B1cFBja00tSExsOE1KMDRyWW5XZ9IBxwFBVV95cUxPYk1Fak9DRl9Lc0M2czNIMjhHdTh2b1FSUXc0elJ2TFhQc25TekRNYnZnclBpUzVRYnhJcUhtLWpvV3MxSEpEVjNPRHpPU1FDTXhIOWlkOWZYeG1lVi1uRXhEMm9XT21USW4waHJ5WWR5cFhuWDc1Z2MwNUJ1NGRoc2ZHTGdsUHM0NC1rWjNRWGpzMzgwWWZfdUNtOWJGQ2JhMndzRUc4UjlQMkJ6dVAzTWItU1JhTU5RUUJLeDdrZk1fM0xZYWlj?oc=5",
+   "published_utc": "2023-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

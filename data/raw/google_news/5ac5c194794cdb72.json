@@ -1,0 +1,77 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Telangana unveils AI City project",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPempsWlNYNXhUZnpQRF9aa3I3TmpHaC01OFE1UW9fQkN5cG0td0JaRHlGQnFlVzEyLUVOYjRIUzhpUVVNMVdiV1FDNEdqQm9uUTRKUjJTTkFkaXlLaFlNNThqalVfMFVXMi0zVGhBVmo4czN0V1J3S1pqelBEajBPSWVlYXRxcGk3Mjdqa3BnTG9CTlJNM0pJLWtB?oc=5",
+   "published_utc": "2024-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana signs MoU for World Trade Centre at AI City",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekdRSmllVm8tcFJiMFN5Y24zcmZlWGJKQUpycXY5bld1SzRUVTBiTl93MHVNb3hNM3o2WGZGUEM0RTd0cEl4UF9iVk8xVW5kc1VzVTc0dTFwQlpNWi1VWTQ3MlZSd3hRdVJVVE0tSTV3MmIwRnhEQ24xTS1wWm9CSjhaZzJlekJORlhYbEhKTktSYjRyQWZvZ01ka1FNbXNRdFROMkZNTDl2Q1Fkcjc2Zmg3cF9rUjNRQUUzTtIBwwFBVV95cUxNazFzdUlDRGRGbHA4OVF2a19NMHlpRUt6N1F6SEFrdW11MTVjNGpLUnBoTERBYXYzQjhhN0N6ekFQUUlUaU5BYlUzVlRINFhpYlc5UmFmM1Q4R1hvb3JpZW00SG5YXzgwSTdYQy1fYjRickVmOVZJY1QxcEVYbk9jaThSb2xDbWlncWczcHZhbXRSWFR0ZTBUbzVhN0tibHlrLURjaGM5a1dma2lGZ1lmZ19qeDRrQ0JIY19fQUI2cUZRSUk?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana unveils AI City project",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRU1uMS1iVVdNenZvd2ZtTERxTXctLXVXZm9KTlVrMkMwZ0hrSkNLSVFxcUtRRl8zckhKNUNGS2o3dEdqNlhSdU1jUEN6SXFCeDN6RVpmSWozcllSTWFVMVBiZEFPRHRCUF8zN2xmaUEwbllVNElncVFISnNpU1ZfUHFxRWNqVDNsZk91eTVrMGhSSkVkY0dsZWpDQWhjYUxRZ3fSAagBQVVfeXFMT1g4bl9wWjhEVldONS1Ucjl2Mmlaa0pGYWtIRjVmbFUxUDZwRzU0ZlZKTXl2aUNWNndPb1Fxd1RJRTl5a0pCUnFLeVdvcUFsby10b0laNG5KUl9ZTWRJZmtHX2wtRVFxZGJvNmEzLTZDVWFpWVFkU1NYTV9rS1JUTG1tRVUtallENkpqd3oxc055cDhPS2hwdlVnLTRwblFYWWx2S1JaelE2?oc=5",
+   "published_utc": "2024-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI City to come up on 200 acres near Hyderabad",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclF1MlVuZ2xkUnNqdFdRd2c4aGtnUVRMTWpwcHhlbEJIaGNEVGJKS3htaHRkenBvRWVoTGNnaDlnSUpORkFRS2RjMUtLMDhEY1Z3LWlSbnFnaHBsdkpOQ2QxTkFQU1k5NVFwazlHM3VRenhJRmMxVlU0RkpBVVNCbk9YaUlObjNNc3h0azlLd3Rnd05EOWNzN0lTN1lLZ0tmV0tjbjExZU0xaFMxREwyWXhEeXZvdFRvb1dDRUl5LUhmOXR60gHKAUFVX3lxTE1IOXMyOUNaTEpIQl84WUJaVDZxT1l4ZjY0eHNKVExuR0c2ZW5DbnZhb2lCdURKc3dXWGY3eVpGbUhQckVFNjNZcVBBbTBFVzR2VVp5ZzQ4SkdoWlRscWVTd1ZILWNLb0o2czlyVEM4em9iUjZWVDZITllqVmR2cE1haFJLV3RpZFFSUy1pMkxpSFJKc0lHQzktR01qT1hhekxzaFFzSXk2NGlZNlVCWG1VVHZwMm1nUTU2cGM5LUdUYW5NcWVXVFpUOEE?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana takes first step to become AI hub of India",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3p1SWNPTVE5RVEzaGIzU3R2aEYtYUFIb3J4ZGtMcTZwU0E4dWx0MVRWNFFpR3hoWkdBMFZyTDNQRDhIWEpESE5EdlRUX0xKRjEtZUU5QmZSOTV6cVZzV2VpX2ExUXQ1OEJ5U1l3UUVqazdBeVdSTF9TbGdYM0daMTZfMFlnNUt5R2FORl9PUHdqRlRLTDNMN3g2UDJWbnJHZjFkVERNcVRhMzhRMjlqVVpTUDHSAcIBQVVfeXFMUFB3UVRaeHdwVlhSV0FGbTc1M2ZsaGpRTnlJb0puX0cyUWdzS0hmeVduZ2FhLUR2TEo3T0YzWVlzV3FMZkNRMzRDRWRqQVpPOXg5YXVwUGR1Z1ZITmZESEtDMmhXUE5YUW4tRXh5elpRWkxxM0VYM2F1WDEwOS03ZWpHUE1YNjg1OEtSUjRsSlVVWVVQYjdiLS1nYkxVZ2o3WXNEb2FaYlNFYUtGMHpNZFNKOU1wdTRkS3JDTXQ3aUZLWlE?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad AI City A Game-Changer for India's Tech Industry",
+   "source_name": "Hyderabad Mail",
+   "source_domain": "http://hyderabadmail.com",
+   "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BeWg0QktXNnRBSUxIamswLXZJcl8tdHBsSl9qWktpTjR2R0hQNWxwYUpPSEJFUHk3bWROMVRyT2hUVjdwczFhUmt2UHhaU0s3WUExMTFIMVFUem9zQ0wwWmxxN2U4ZW5zMkV1d0tUeUM2TmtLdlE?oc=5",
+   "published_utc": "2024-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telegram pledges zero-tolerance policy against deepfake pornography",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRUtXeUhBRld4M0FhWGNxUmExMWtTc3E1dXpqaVpNc3pIU19vYnpOb3ppSUU5ODVwQ3ZfQl9LNFZoamQ3Y2dlQ3h4VTY0ZFFZOTNwSTFMWEtWMm0xZW9kLXJTZUhydUJWX01tT09oZFljXzlwTXRJejRaWmdNTTFkZjdnWVdjeUkzS1NmRmE1TDhjektOeVltT0JR?oc=5",
+   "published_utc": "2024-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana signs MoU for establishment of World Trade Centre within its AI City",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcEZwb01WTkZkLS1pcjUtZHM3UmZ0UXFtNjZWZWlOMk5OQ1d0N0VXWURUb0JYcnpYN1J2OUhaTVhfN1daMFVKbXhoV3BNNTczNTdkb2pGaVpfa2F3WEY3WWs4RVphNGUwVHBSN3hjeHNKcjROcXhFblB2aDZ6NkRtQXA5SU9wbWJqYXJaZzJiWmxBd1BFWHVYSVhOTzF6blNPRnlxRTBDeHUzOEtxYWl0NWxGZUNwdElvaVVkQ1VrV2tKNjVRUjFhSU9zLWV6OFJMQnFUQTc3TC1IeU9jX29pM2hSQVQxV0xqY2RkRzl6SndwcTTSAfgBQVVfeXFMUFY1cWQ1WW5jQk1BNmRLMWRQaGplNmJlVWtObVgzOVhTTHZ2M2tyM1RseHVURTBqZGlFOUZ0YkZTaTRMcE4yZmZManJkYURYbGtwNURST0dSS2FmNVRPTlVBZEdoUHp6MTZPTDdHTFpUMkZwMDR6azBJdlFoMW5LTk1NZGoyR25iSG44N2h3VEdQVU5jd2NmOUVDVmJzSXUyV0F6SmpITThvSC1EXzlWUVIzMFFBWkRIdHViaWc2ZFVmX2ZmckNEdjNoYzhiNlowV2ZLTEthVV9DVlFkU1RHQTljakZkdjRyOGRmMlhhLUkxZFJoT2NLdU4?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana inks pact to make World Trade Centres Association a reality",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFQtcHJXWnhWcVhtcDZTdmFPUnhVRGpIZW16d2otRFdpb242NTlGSTR1bG4zX0lGaDJuS1dmTVVvQ1g1eUxtd3QyRGVMUllZSDZQY1NjOW1RZzc0NjJjZGlkM1NId3dLdk9jNTlLdmE2azdKMkVMeWIzd2UxdWZmVnBCcHZISElfT0M5VUFZQkpvbE1VVjd0c3VCb0RDUDJYUllUQzNLcjBXMHRMUi1jVWNKb2UwYVNJRlg2cHNKamw1SmRZeExhb2U0NNIB2AFBVV95cUxPd3FOcU5XajhzSDc1cWpGVE5fOVFrT252Nlk2cm1iem9HaXNMd0FhNEVBZXlwdW04TDh0YWZGU0JFUXJVaVhlTWlFaU1qbUVaQk8zMnVDRHNneWJNT3RqRE1GWEpnRVlHeWVHNGZ4VW9adjFjRGlTTzZHUGNEZEtBT1ppOUwtWXdid0p0WF9FdDZIX3dQamIybkNhcE95dDNMWFF6Y1RqUGtBeXBBN01CampCT0JSbWw1SjkzNHIwVGlFV1BRSEhEVUFzcW1vSnhnOGZBcnpUXzI?oc=5",
+   "published_utc": "2024-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

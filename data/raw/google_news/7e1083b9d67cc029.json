@@ -1,0 +1,77 @@
+{
+ "query": "\"Rajasthan\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Here is how two school students from Rajasthan created 'AI Scarecrow' for local farmers",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZERMUzlFSDROUURnVm03VmdjTXhORGpjNlZfQ1pUaEVpajRpV29pYmZ5YjhrVlFMUDhDQjZqTnY4MWpUWHdVUWQwSjRPRXo1NmcwbUlhUWxtSEdDd3NiTnBmT2UtaEZSX0RIZU1HT0lpWFMtY1dxNXFDSVdGNzhJbnJSSDE2R2hTeEFFRk5LWVp0MzgzRU9xWFJIUU5EdHItdWxBc1NFZ1RNYVdUQ2lhRnQtV0dEalk?oc=5",
+   "published_utc": "2022-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Record 99.3 lakh students are enrolled in Rajasthan govt schools",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmFJT0xLMmstNG9Tamk2S0thZmdXTUtwZnNQZUJMOXh0LVdlaEljLWVaeTI1WDNxLS1qWDd6ZGdvYjVCbXltaEdES3pLMXpiX1I5OW41ZU5EUlZQNmx4XzFIY1BXMjhQaTV6cnhZeWlHZ2ZHMWNzWkNDa2FTSmxBNGhFTzNnS0VaSGQxTE9wQ1NYekloUjJHQkRRanBYd0JIODc4UG1IdlAzak1QZnVtSlh1Y2wzSmE3bzZra3FHdEN6SFBJd2JJYkdxd2NPZHJ4Vm83VFdMRdIB3AFBVV95cUxPakIwTE9ZM0tyY0t4UHZrSnNQU1hDdzBfOV9BQnlHQUVDaXRmWGJSRWVBclI0S0M0b2RkZHNmWW40WjVUX25LeUxxTmk0NTQ1ZUpQT0QzaFo1YVV5a0llbk1ET0wtdTY2TkpSRzhMaWJyNVpHVjdoMHIzc0RTeVQ3V0R2dE15OXFHeExiNUJzdGJ1SXNNTW45Y3RBMHQxb1lmWC1qUzNNMlEtVnRhWmZCb2V6cHluNzlYVWwwOHhLcTZBVTdvZlJNa1JEaV82NW9vSlduTG83QUFydGJG?oc=5",
+   "published_utc": "2022-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan farmers accuse Congress of breaking poll promise to waive farm loans",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXBJVldIQ1NEb0c3WEpKcjZkZlNrY1BKcVV5V21ERTNfQjJGSUk1NUN2R1h4LWNiSnRwc1Bkd3ZURlE4cDVycV9CWGlRV2JXUE1vTkdfdjFKTEFkRUlXaHNsQTdaMFBnM0pwWmVGR1dsMnFCelZqR2dKYUZnZFY2ck5mYWluNmZsSU9UZWRwSzB5SDA4VEZGUF9ON19Nclc1RW1wRkNuYzRtbk41YkJoSFB1SWhVT0J3SXpxYjBHS1k5R255ZXJEOG5feXZLRUxW0gHWAUFVX3lxTE9oOThLWXhlLU55NVR4NmFQc1BZZ2hrc2xGaWNJNUtuWDNBWi1hZW5rbUxBMnoxcmNlMFE5QVZXaVROaElTUDUtQVNvbWgwWlN2Zmt0NlBibGhhMlJtamNETlpNWWFvMWRPVEI2WkFkWmVlZmJ0VVJWeXpTSndkT0hjUUNMRnZpaWNxSG53bWNPc2pwem45cnA0UEtwTWRTOTVHT3BDeGt2X1hEVnlJQm5OWHkwNGI1NXF6TTJqbTlGWUhlNlo1XzlFZzBfVUEyMWtKQ3oyY2c?oc=5",
+   "published_utc": "2022-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: What is Rajasthan’s question paper leak scandal and how has the Gehlot govt reacted to REET irregularities?",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWJrcHAxRWpuNlJpTmV6anp0RVhQV3VpTFN2dnpOLUhHM0NGMldydXRoTFRKeGVteTE4TkRZc2tQRUdiT1lpcnh1T0FYMHRTRGFnVkMzOEhWUGN4eXlwbm1IMVpxNy1BZGpFV0tFdUZkcGN0VF90NjNUWVM3Q1dycExVUnN1dXpUQ01XdHJfZ2NzSjItdHR2OEZaNjNqZHJoS0NhVDN6Q1lPR1JvY21OREl3MlNjM2vSAb4BQVVfeXFMTk00NmdtVHl4ZzdtTVlZdmZGeWhTSEhXeVVKNTRyRUczQ0ZQUVpyOXdDZ0pEeFJVeGhNc3duOU1zM2xNV1lhLVNXcUJVNE8yWjhsYTh1ZUo3MDRrZDlwYlFtbWtZU1duVHc2MEQ5VWw4NXZfXzg4a0drUlRfd2ZzTHBFelJ2UEplRzlNMFdIbjJ3SjQ5S2lYWVJTUGdyVExyX0tJd1BwSjB6QWtpb0ZKSVV2VjlJMG01MmpFWFVuUQ?oc=5",
+   "published_utc": "2022-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Govt orders promotion of 48 IPS officers",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnNMRGVZZXVxV0V4elY2aFdFdk1CamNRSXVjRjJvWHVISm5HMXp3QWozT0N1WnhuXzF1TU42d1c2T1Mwb3AtLTdIcENaNlk3cVVQY0NRam81QzBVdVQwUlNnVTFyOTBKWmlBNGpQVlYyd19LVi04V3VnbkRsbWhmVEV2UmJEaDFyQlVXM05xbmhQZw?oc=5",
+   "published_utc": "2022-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Altaf's bees from Kashmir boost Rajasthan farmers' crop",
+   "source_name": "Awaz The Voice",
+   "source_domain": "https://www.awazthevoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU0pRUUdOS0xVMTI4SW5UaXU0S1JGMno2Y0YzR01PTlhvVDNUSnFuR0VhTGNFSFRoaEtBR1czbFNobWFhd1pXN2JzVzNlVjl1OUZCQUNkS2NKMDJUbkpLd3lOdEtITU8yUDY3OHFVdDBES2c2TFNrR0FXcU9zMHlJMXhCRHNWZjdQZlhidnlXRnJ5cWlvX18wZWZhUlpvY0o2T0dJbk0zYXhGbFU?oc=5",
+   "published_utc": "2022-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ashutosh Pednekar appointed as Rajasthan Health Secretary after major administrative reshuffle",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWXJCVzhrZWgwMURscndlSVExTXkzaW8zZG5HT0VHSFV1Wk9rX05EM2RDa2tKdjY0azlCbklhTGU0cU82N01NV0RlQ2piTUoxdzJPdHNydl9xalhINkJXalQ5dVpiMU1kTEtoWGVCc0N0NzhLRTdLNXdhc2xBcEEyZnVhU0hDVnhmN0J4bXgzZkFaZ2JwWUswTC12Ti16cDBlMW1laFFQS1pycFFTUXpzTzdaRjlkaVlCcHNkQ2RCSU5VVHdtakpJZ2todmU2MVdUMUhGZ1NfZGhDS3htaDdrZktRVdIB6AFBVV95cUxOblRPVTZNN2FUX0Y4YkRnLVFmcllDTTMxNTdRMlZLTWhFSFBKRF9YbGM5WmdDbS1KTGMwQndnYzJWQWJvRk4zUGtyNEpGYlV5N0hCRUxWbjZ6N2NUTDZOVWdQYmJ3RUJzUHpxR0ZfbUVLbllvUGU1MG9MbW5NcFdqampEZW4tZ2EzQVdSb1RFcFpuZ2dfdkpNV0RNQWdtZXViSVFkbmE3NGlCWVcxTXFzVVh4Nk03OWpYazdfZjA5X2ZIUWVydllOVjJPemhhaHN0NWJSaVdjbnZocVU2NmY0MWtia0JuUHJF?oc=5",
+   "published_utc": "2022-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "REET paper leak: Rajasthan govt sacks state school board chairman, BJP seeks CBI inquiry",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDJPQTQwTUZITHBEaDg0ZFhRenFpVm1xUUZBLURPNDhwcnc4cVhzTVNjQVVqeXg2X1lqNkhBemZWQTBRSGE5SjgzakR6QlpublJCZEhmVjZZMkZJR01HNm44QTZ0UXlTejJkRzBqQTd6cWExSVozMENOZFJfeFFpVzVGR1ZDT0Y1dG9PeVZ1WXdtbk8wQTZYTDhpWXlNS0w2ZVE0TWltckNYeEV0aUZoSUFFdi03RzVwU2FDeXlEUXZjZ0dCT3FzWmRGUHBCVFNaZHBV0gHYAUFVX3lxTE1qaUlzMHpTc2VKdDJpcm1RVlhmZTAyV1VDRWhFcUtKUl9MT19kWmhCTDlMQThwTHhnNWU2eG55QzMzelAzNS1jUWNMNTJBQ1JhNkNSS3Q2MndmRXRlVVFvcGVhSmFad08xbTAxMWFHREpseWduTGg0bzcycHNnZlBNVlk4VFNidHBBUUNxN1pfMWhJdHFpTzlQck1Pc3VsMW9Eb3l3aTlCaGswcDY5SFRrczR3NnlJS2sxenVyVzdoSHVGMGpJMFFFUkxoMmFQUzZlREVwY2hOMg?oc=5",
+   "published_utc": "2022-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Speech-And-Hearing Impaired Teenager Raped, Case Filed: Rajasthan Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjlrMXVwckZCcEtFNTd4Q0FoYTRHOVFFam1ESkpjQ2tHd3RnMXZvcEdhNDkxZHBYYlh0Sl8wQ2dhaVhwc180WWJ6TVZzTGREUDFwVjFmTFRBY1NDbVBhX2piN2hmRUFibHpHTmQ0ZmxsZ2t1V1k2V0lOVnU3MzBQbUduY2FLYTlqY3UyWjBId0Y4ZFlFNEJaRS1iVm5MdnNPYXJsSzlYdkFpeUJ3cVQ1ZnhHQnU1ZHhibEJRdV9R?oc=5",
+   "published_utc": "2022-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

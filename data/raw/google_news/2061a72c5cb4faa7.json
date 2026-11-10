@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "OTV launches Odisha’s first AI news anchor ‘Lisa’ |",
+   "source_name": "Odisha Barta",
+   "source_domain": "https://odishabarta.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lUXUyRHJQSDJlRnpyb3Q5TVFyUHZEWHJTWW9jQkxEOVdXZ2N4NDlnRFV1Z0hUWWEzQi00c2h2c3RzaU1ZdFVVaTkwZEJvOGZiUnJNdEtrdFpLMGlIZjFYUG9hZm9YVXQ1S0FtbHZzaXJwY2czU2p5S3Qyaw?oc=5",
+   "published_utc": "2023-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "WATCH: Odisha-Based Private Channel Launches AI-Created News Anchor Named 'Lisa'",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3dhSWd4ZDZ2RU5aeHNiS3FPY0psSUJKeXIweTRtRzl3R3dBc3ZJVUlRWHZJU3lpV1J0Y0JsMTNlVm92VTV5c3dBc2pzanR4ZDBVNVFLUEdxVzdfRWJOcFh3ZWprNF9uaGhUdXE5NVNtS19lbHI1TFNHNU5iYXBiZEUzZlA4bS1ybHV4OWVrNUk4MnVIZGY2ZGVWNXdVYWlpeU1nTERGMFpldmdUSzVoNVZn0gG3AUFVX3lxTE95dVpCUUFJMWYxOHNWYURDOXFlZHdYT3RDMk9jRlliZV80Z1YwMnlnbUZ5amJtNDBTSzVlLUhYZUpBSlNiTXBXclZrSGVQU0lVZVdQQ2tMRG4wVEpWcWpzbkczLUViVExTOVVkZ3k4bWRQQ08zU0xPdjEtODZwaW5SNExJX2s3TF9uWnE4OUt4NzdWR3BzQ3hPandOZXp0WkVyMU8xa0RrSmp2bzMydDFjMC1KeF9UUQ?oc=5",
+   "published_utc": "2023-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OTV introduces 'Lisa': Odisha's first AI news anchor",
+   "source_name": "The Business Standard",
+   "source_domain": "https://www.tbsnews.net",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGpYc0RmYXEwdUtWaFBBeldfWUEwdnBFMmVTUzFhSTBtT2tUU1U1ZVBGdGVOTmRabDU1NEJ6b2N1UzhzNmU4dnJzcVRBRHNPQUtGbFk4eWRkV2dMQWVmYmk5VlZibkNpQ1dkSjRxdmpTZEJ6UUVHNHpiUEctUXVsaFNwTl9oU3Q5Zy1hNw?oc=5",
+   "published_utc": "2023-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha has highest dropout rate at secondary school level",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQzJuUEsyTkFGczlQZ1hoOHlMRDB1NmtuTzcwVlc4d2hqSmhVVXV2QWFjS2MzQ1RjbmhmdnhfbkhfOU1mWVlNSHc0eGhQTmNBYjdnMkIwbXZyeEdsdUxRYXRYX2pOenhvdm1VczQ1TTYxbkNENnN2M3Y5TXdYMVM3UURNVDJVN25RREFfQlhlcDlfdV83OUVUTEVhZEk1dkNOQzV0T3BtZXN4NlZmQ3lqMWVoa01yay03M19IbDRpRnNOQVVjZVBybmE5cGdhU25KYlHSAdYBQVVfeXFMT2Y2dzR6bGQtb2hBYml6V2s3aUllLXNwdmxRMVpuV3JiNmFTd3g0bEhiWkdIRmlFTTV4aXpLVG5wX2FvNXBfV1pfVHZGSUxQcm1qdW1MSlJaVkUyUU0weWJ6b1Zvem9OYjVEbVRSYk0wZ0xNNHZuLVRCbVB4Vk9heUYwMFA4eFNUcVlYQmZXOFJwQ1JBSjFraXRWckpMQjFjd2lFa0p2c1VuNjB6d25UaFlTdGVPN0JKUVJGbHEtdmFFbzlRR0hnOWpKSVNmSUVXS0lTeUtIZw?oc=5",
+   "published_utc": "2023-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Television introduces Lisa, India's first AI news presenter",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTJCZDVyZjZpZWF5d2g0Y2FjWS1xS2RwR1pocVRDN3MxaWVmbFB4dkNSZXo0X3VQYUJZZXhrVFJpdm10OGlhRTJpZk1pM3l1akhMa1M4eEVTeWh6VjhKTlZzaUU5WkctUFdHRmVIS3daZFRzTkZXV2dTVmwzSUlBQ3diZjZvb3M4cEdwdFZKWHFaVk5TSHRFdkw4cHpKa0FvV3NyMHRORlNvaXNhT2Q0VGt1VENSRG9xMWxLVi1SOW1qWEdydGIwUmd4dE9jQ2NHMTN1N0h5TdIB3AFBVV95cUxPNGJBUFQ5VnVPcGJvUGRfNHNYTzVaZDBzSDhzdlF5SUptczRwc25JMVBRWW5pUDBpUmxScnhubEJ3VV94bXNqV2x0djktcS1mQUxCSjJ2dWRKdmlHZEYyY2htWlVkTkI1YzJYaXdRMVlLcF9FM053YlphR21ITXZnMjM1d0RpUjJUYjNoZC13Zm52Q0FHUEFkOFdtcEhNYUVjMlgzbk5PbXVkQzh0bGF2WnRXc042RWc3Uld3M1VjNDJDTkluNzA0SktXQ0hVYlF5dkxmSFpkMlBWTjdm?oc=5",
+   "published_utc": "2023-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ASE keen to invest in Odisha, to send proposal",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZS11M1pwN1B2X1lqWGs5YkdaTmk1aEM0ZzA2LW9MZmxnbm1oRFFUbG83S2lCallZYzBuMWZ6ZnBzU0YxZ0t1Zi1TdkxFcXk2QTNTUklrYm1XTGhPTDJWLWRYY0dBeF91d3R5UFBNTWd2ZU1jY0hNbmFpeUo2MlFGZ1dSWlNHVGVrVmpROG9QZkJrVURDSXRWaVlGX2tVUjQ3VkZ0TXBLdXFFUEhuTGFrRTZvdEhJem0y0gHGAUFVX3lxTE50cTM3NGVVeHBNY0gxQW5UYks2eF92bTk4ampoT2tpZGU2ZHVNY3dNSkhDdHdPR0R1UEZGZFNHaC1zRE9IYjIwNEttMnFNUTBfV1BYVXB3V3BzOEJVZ05mMHJWY0lHdFJOaG1YcmZqdHJrY1RCNVNnOTZHZWd5QUllNVU3bGxFMXVyc1NzOWMzeU1hQmJxSUJjWW45WVd3ODVNTDhxRGxONm5tM0pVeWpCMHZvczlEdTZ6bk1IcWtPaGl3blhVdw?oc=5",
+   "published_utc": "2023-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha gets 1st AI-generated news anchor 'Lisa' | Watch",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnhKMVRlNzIwd29OZFhwT1NSMmpJV09YQklfczY5c0JId2RWbFJta052WF9ZVHVJd3VMQmI4ZXpmNnJsTkpRcnNDLUw1UzVyaV8xM29ISzRYNU54UUgyZ3FDWkp1UjNHOExaUXVTbENGM0hMcW00ZGNEd3Atdll6UXBVbURSaDQ3R2VLTi1WU2JmRWIteEFOdEI5d0UyVENyNmhEMWJGQXF1RlHSAbABQVVfeXFMTU14cmoxSXdHSUM4UG0xQWsyTGZtSlRScmpOTXphajl4enRtQ0ZYMVpkeHBHb2toVHZYQzE3a2tqR0hXTWRBcU9wU191Z2NQcnB5NEVyNUw2Wk1mUE90STAzRlZlVkExZ1l4ei1ENTRXNU1YZVpaM3h0V2x3WlN6aFhkRkZjdURKb2pzUWd1bFJUT1BzNC1saVNZbXFqc0ttdk55Q2pSYmRpMlJzbXNtZ1c?oc=5",
+   "published_utc": "2023-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OTV launches Odisha's first Artificial Intelligence news anchor ‘Lisa’",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOE1icmFLSWs1QzRuNDNwZEh0RnJHblpjN3dfVC1MQkRGVW8tSDFENk8xVXdtYW90akZZTmtFMVV3amxSMzdDWHgzVFZkSlFXWlFyMDhQTURYNjRrbW9NT3ZpcnVEMW9pLUFnV3JNN0lxb1hSbDZGT1ZIOHpIbWlFR2lvQXpKei1Lbm1vT2JneWFDU2NsQVFWZFRBR3l5cEVBbHBKRVBPWC1vYUpl0gGyAUFVX3lxTE9aaDRKb2RNd2hYMk0tQUszVVZ1WUl3YU1IX0JCdFJQWThaRTFvS1pSMGdLNjhQUGZQbmVKQWx5ZzhXWGd0X2lURklrMFVpcHNxWlFfWlR2eTRadE5CelVtRUMzNDR6MVhCc0RTWVUtaERETWZGTVNfWEJDUFBzUXJXRUQ5NU9yTHIyMWFJWEp0aE9Rb05kaV8tbjJkVG9ZUzBhendUUEVWbzhqMjQzR0czV3c?oc=5",
+   "published_utc": "2023-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Government Launches Initiative To Provide Free School Uniforms For Students In Grades 9 And 10",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPemhSUTN5T053djBPNUFKdjZZeUM1dkhER0tFM1JLT2RRVmZ3ZVFtWUVUU0dGOWNTQnp5eEU5ZG1FbjNqaEl1ajVoTGRlVW9hTnVJQWl4UEpWNGtBYmpKTHVtdHJleHMzMWFjQzZGYlNwclpvWHR1RlRvYm0teTdMUl8wZUY5cjI5eHowRmpyX0NVNE5Id2Y2S1BodmRrUlJxU2V0NlNidFFKTTF0cjhUMFppbkdLQWRlNEg2a3BfNmhhQm1VSmMwbjZhX2tXdGxkTy1aU1VMM2xXYTjSAeABQVVfeXFMUHluYkxKdjhael9sRmJZZlIzZW52YnY1MXVxeEk4cUJZTmo5NmE1LW1VZFNmNlJVTGlCaUhJTnBaSlcwR1dzYjFiZG5WTkpoTWpVVnZyVnRBdExQT3dPc2RmS2w1VXVNMFJoMEhVMF9aQ1NDZEhRa0MwaGNkangwYkxtWktzMEt4aDRTNGk2dnRqV1c5NTBTdE5oOFVMaTM5U0E4MDNXNUhua3ZGNGtSQV9xdmFHQnZhZURvT2l3ZTZfdWpSSEJaSzJ6VTcxTXJQYUR3S21mbW9KZGV0a01iZE8?oc=5",
+   "published_utc": "2023-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

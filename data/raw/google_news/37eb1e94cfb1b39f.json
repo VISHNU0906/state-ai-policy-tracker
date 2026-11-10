@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "Maharashtra suggests reforms in NAAC, higher education minister writes letter to Centre",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0E4eXp6QWdTT01CbGp0UHEtZEVRV1F5RmNUYjdKT2tEUmFnSEY3aWtfOHFVUE9wX3hJbWVuVG84U245ZXBBY2xlRlJQendpUXZpRDdkenNXaVUtVHBnclRIX0doTnd3YmtMSEI0VjZDNFRucDdaUDFpZno5SW80blhUVkVQakNaVmJRd1dIVW9HZUJaUDNhcHpFNXNRam5fRDRoLTNLaEFkMU5YZExkY0p6R01TdzZYVWhJT3FhNTZYc0duN0xB0gHOAUFVX3lxTE9zOU1LNjhGZEZsTV9HS2xXRlhQa29XU19aY0FPOWp0ak1jQ0NPSlpUNnk0dEl5ZFpuMm8zVEp2WFR3dU51S3ZZc21UU01LVW55Q0VGeWRuVEpIdEpPNHNBR2hFbmJ3RmNTSTBiemp4N1dMaWhLSXlra0J3STh0elRDN3RuS0stRWVZWG5pUmhqUkpWRlgxS1lFUDFKdGswNnNZOXFoQjRnZzFwMGNVRkUxY0xmc0c0SFMySXZnWlRDMnRhMjFfVWRtUEg2WC1B?oc=5",
+   "published_utc": "2023-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI in education: Yogi govt starts pilot project to teach AI in madrasas",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa091T1BrWlUwdVotYUt5WTRKamxaMEFPS1p5dF9BZERVVENNMmNTV3Z0Q1Nhai1Ra01OQlZIWlJBYW1vWno1M3l4N1NxN3lpQ2hOaGVMeXdLazNYNXZyTHNUZVF3bk1MVjRMZU85RW9qUnF4UWNtWDhBYUVBMkFwb2hPOXhoVUNHdWV2ZC1SMVNROUhucFJzLU1YVEVZdVN1MkFCMGFsUS1VWnR4Q2VrZjQyYVNNbzZpX0wyTERiRGZ0eTBRSzVGWVRiOGotWnhsdC1iZm9Jelp3MmZlTVZpc0xIU2_SAd8BQVVfeXFMTzUyNDhEbUd4Zkc3bGNKWjRYQzByU3p1WWtnRHNVenNjWlF4Q2lQRC1CcWhSVjBCVzdwci15RE5rQ1lJMGlxYUI1cFlBUDItOGhLd1I5ZnVlTnUzMWlxVFlnR3ZpMzQyd3hWR09HamZSeHJZZzhXSW5FaExIa2VrcHFyV0tTZmRqb1NpSEVRdVpoTHVvVTRRSldWSk9JSFF6TDItd0RVYTFCWnpMLXBCTFhvUzhQQWtoMVgxUE1Td1FqblJJX1piNVNFQXQ4RHRPaTNLdTBOamVZeFpkdXFNOA?oc=5",
+   "published_utc": "2023-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Securing AI‐based healthcare systems using blockchain technology: A state‐of‐the‐art systematic literature review and future research directions",
+   "source_name": "Wiley Online Library",
+   "source_domain": "https://onlinelibrary.wiley.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXR2loRWdzcUxwU2pkb3VMXzd1cUh1OXNQWGtLZHdwVWpNcXc2WWM5M1FveFNNMEVVd1ItcG9BYUFISUlhSWpEZXBwVzdxNmVRWjE2V25uS2ZGSGdia1NKaEFtSnpaaG8?oc=5",
+   "published_utc": "2023-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Cluster school project isn’t about shutting down schools but imparting quality education: Maharashtra Education Commissioner Suraj Mandhare",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2pDRG1oZWJVYnF2T0UtMU1MUTJOdEVpXzdBUHVydlFfU05lWk9QVlFOdC1QbjF3UkcycHp6Y1dYNTUyVGNzQnpaMmlRQU5DNU0wUGRpdzdxTFRod3BRaDkzM1dYbmJyMF9oN1RYLWRHWk1YYnI2eG5wNktMbFYzVFoxT25HMjZ4bktwckx2bGhXSmZQTVFjRVpCTnBpSUtPR1JLTEREbXJaeGVxaUFRWV91c23SAbsBQVVfeXFMTnNZLUlJX2Q5UFNWNF9PaFZjcHFNRWNVTE9hLXEyV0RpNl9OSEhBaFVaaExtLW53cjBEek5SSkVHRlpxR3FtbnJFN1Y4dlRSSk1JaEVOQ1pwTzE3eXJlMlRUQ190ckJiZUk1SXdJcFRNSWxCMk5BeUFzRERvbEhldFhEOTNjLU5NXzI0T3dweHI1MFNCc3c3QVMtSUV6dGZtUXBaYVZiZHdYbWQxdmdveF84T2tvbjhvZGMyOA?oc=5",
+   "published_utc": "2023-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UNICEF Maharashtra shines a spotlight on girls' rights ahead of International Day of the Girl Child",
+   "source_name": "India Education Diary",
+   "source_domain": "https://indiaeducationdiary.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDkyTW5HN1FmZHdCbGo3RXh3czVYQnhFWkM4cXhjUzRyV0RhOXN2b0d3bFppQUVLY3h0NFlNSFRUZ3ZtcW95RGtuZndVREJkMGlydkNlMGpEMk82SFJ6VjQta0ZmbGgybmRVbVZ0LUxJZlR1SU9SeUhuWWVUbHpCVmQ3Q3h3TkxmY1ZXNmJOVTFXX09FdUNmSmVwWjVNblFhbFhrVldzS3Jzb05YZnRkeUNMempzNWpqOU1qamhxYzNqdTd3TzZENWR3?oc=5",
+   "published_utc": "2023-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NHAI upgrades ATMS standards, deploys AI to enhance road safety and digital enforcement",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcTVFYjZRdzBMRjNXcUVFc19pQUtzZXpMVVVJcGN5NGZHNV9yZ29Xa2RwWEVBeTk4bk1JOHctX0tzczlRLXBfLU9VZ3Y5UjFLY1BOZUR5S3FMdm9UOHFpUTFteVo5eGtkZG1oUkpzQTVPT29HemRvcG1XeDdSZmh1ZjVSNndLcTU3S3FNTlBhV0hWbG0xbFlySWVKcE9YejFpSXplcEc2S1AzQWFMRmxKNFcyWUd1VWt1RFJYZjViTmxnVWM4SUhrY2UwV1FkUV85b1JER0ZqUVNPejJSZnZhM2I2RlM4a3hFVFNzaEYwVkt5cHZ3VHfSAfoBQVVfeXFMTkRwOUppU05ZdTFHbWhfbFN2Z044YkNzVXhIc0ZJYWZMWkQ4aXJQUG1BcFBHcHVUOVZfOHhLOHhyZTZvaXlhT1Q1YzdiUXB6SzNDRVpyMkU3UGdySE5COS1kNU5nZXlJSFMzRkQxdHFEUGZFSGxoQlFVMDdEaFZfNm1IUXAyNG01RUZ5UE9IRHExLWtmVEM3VVg5ZlZIYTJOR3NCSGVjNk1rdGpaa0UxN3RCRUdsaUI3WDFQUHRHMXBCSW44R05WdVNWX2N0bjVjRkQtTkZCR0JycFdDX0VyVDVSUjF3OEIxVVNibmhhMmVnbDRISXUtYnVRUQ?oc=5",
+   "published_utc": "2023-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Leveraging AI to create content, services in regional languages for digital inclusion",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORDFtQmN1QWphZ3cyeENhQzk3UXV2ZjFTdUliQzlBYUhvTnhkN2ZFZ29DV2VhTHFjWGh2ZFR2VFZXUHlCVmkzOFRRXzM4c1ltT0JmUHNHV0MydnBqa0N1Wl9YWkNEbGoyMUhpcktobXlBeXBOMmZjclgwNzhpWkl6UnE0Xy0zY21PRm5sTTNUTmhJUkJiSFd1MG9na0NhRG5jdmx0eVB2cGZOQWxoUzdlT3AtZGUzV3J6T1k4VzVOa3plR2x4SXlyTEg1SERvZWZ0eUh3b0VkWU1hNWV6V3QzQkV1SnRzYXptSTlDMWVPUkFSZ9IB9wFBVV95cUxPak5YVTAwaFh6RGYyUi1LZXJHbDZCTng2Uy1SMV9wdTA5WjRaUEVTZG5rVlY1d1Y3c0F6RXNOYzMyb3VSdTZQbENYU2hHWGxNTzBrOXRZMkltRmZES19NNkxLd1ZmWnVmeUFnNmFURnlIYWtlMFE5QlphSG14Tmwxbno4UUJHRzIxWlpMSjVyUEZILVhiSDNDck1SMWVrUmwwcDJUN1cwTjdvOEtvOWZvdjNnMVhSTGY4RFNDS1hCc1NKZmFTM3pMNzN3V0Q3dlA1OTJWY0lMRVI3YzhCZWtET0liYmF0VmhJZ29UWXdNZF9kR0tJU2ZJ?oc=5",
+   "published_utc": "2023-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt approves 109 research proposals, including AI-enabled healthcare systems",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLXViSnZodDg1bzEyX0pwV3VJQkQ2RXdwV0ZMdWVUSUI4b2ZuUWpJUk1Fek5iNWZDWjVxdERuNDBkZDBodzNqQkFlaVJ5SUlZVDRKVzA3b2RGcHVpTTd3bDV2Q0Vyb0UwVGhEYVhwQWFyQ1dWd28tUEYxTmp0MjVRY29hTy1jQmNqZS1TNzlyLWRUNUV3cjB4MlY4MTJNRzZwbUQ2QkNFaHBDRkV6T01OeVE3UWhENEpGM1plMXI0cUo5T2pxNUMxT1JIZTg2RG9OclZkZ21KSWV0b3BpYl9oWDhhNUNtZVJt0gHsAUFVX3lxTE1FZlJ0VW5WaUhkaDVINVgxZUMxbmlrNERFa3ExbGVKSUlsRVpYdS1oZl9LWVBPMTdFWVhsRVhaY3cxZ1ZZNDJrSVRtbHM0dHZyTmpubWNoS280ODlLeHhObkZvUDJhc2ZwSGV5T25YU3c5cEIwMUVnWkRWOHRWQ3RuRFM0QUV6dzg1bVloZVZGYTdtZGh3dDhvbFdvRFltODhpekJpbTJsYUVpVUNpN3NLSzh4cnhkWDB3Q2tfMzM0ekZ2MUExaXhub1YwVUVNNGdvMzNjS1VHaEc0U21VMDItNjBCdGlCU0pYVGVm?oc=5",
+   "published_utc": "2023-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt announces Rs 100 'Anandacha Shidha' food kits for Diwali celebrations",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGJRMVV1VngwTGtKeXh5OUZ3WU9qZ2RIVU5BSk5LUWM0NUVod2h1NWxnZEFHYWUxYm50cVlkM2Fkc01MbzdySXBBdHhpOGxsclVyOGJ0Qjg1UVVMX3pFd1VhRlNyU01uZEZ6aHltcExQTjJGWlEyX0J4aHdrSGVwT3g2M2pOdnV3cTZIZGdkOExPTjdLbmM2MjNDRnZ1RFY1SnhET0lsZlBpa0wwd01hNUhEX0hEN21LT2wyRWNqaTI1Z0k?oc=5",
+   "published_utc": "2023-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Participatory AI Approaches in AI Development and Governance",
+   "source_name": "Vidhi Centre for Legal Policy",
+   "source_domain": "https://vidhilegalpolicy.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0tDZTJra0treGcyMjg5X2hrZHlkNmNONWxnbUF4anNSMXNIdDlIRERIQUpac3ExUkdSR1JWcGNCeGI0Rk9TUGNINTA1dEx0ck5KU0ktMHRUMGVCVGJiOWFHSmE5dFNiZjVDWnJKRkZCSHNQRXVZcHV1SktFRXR3eThaMU8yVVk5SW9SQzgzQlFKZzM4Yi15cWc5SlM0NU0?oc=5",
+   "published_utc": "2024-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "T.N. Cyber Crime Police issue advisory on new scam involving AI voice cloning",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWmNoejZTZm5ybHBFRnBPaGRVaEREVVBJQ0thYmREdXZtc3NMQk14SGk5dWYwTFRNY05fMEF2d25DQmg2M2hPajBSMnV0MVBHLVRraHRsN3pzc2pwcDJRa1VrMWtXOExzM0hXMXZVSUNjbExjeGktU3NYOGphMDNhQ3RBUWJLNDROZXlDT2wyOF9WeGlYZ3dJb013SWFtbGF2V2xzdk0tMmNLRU91b1JlVjhQVThLbEhxcEt6c2NqZURBcGkySUhNX1VHUjFQWVo1NDAtMVJiNkFZbjlDVnfSAeQBQVVfeXFMUGtPVzdvbXRXZW1fbElpNEgtWHZTWm1IMHhCLWswY3NfZm1jRlo5OGNtQ2ZOYkZLSHpmQllwNGlzMzI4UWFsOFFxTkI2THdfWjFkTUplUnRDclotblYweDRJSTVhOU1FLTJidFI0dW9DMjN5QmlKazZ0bUV0MXdsNDNCR05rbmxsNmhKb0drMW1TMXllWUZzaC1fb0FDRFFtdVZ4V1d6X01IN3EwdzRTaWVPX3F1SG5VZ1YyVk5qQlAxLTItSkhZb1Bib3JLRXcyX0JHX2tQamQ2RHozU2Q4eVlUU0xn?oc=5",
+   "published_utc": "2024-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dead Leaders \"Rise\" In Tamil Nadu, As Deepfake Tools Warp Poll Campaign",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUg4VlhXQnl2ZzQySURrUk1PM2ZabEI2ZUwxWXBwUEVsc3RQc1F4MV9TWmdfc0FodWlkUi1mN3NDTDRfdXFsQWJ2SUx1T2o3cUh6R2pEelI4cGJpcXR3R3VqaFBWOWpBU0tqMFdQcUZXTTNhY1E5bnFTOElZWFBpR3g4Wktnb0Q2YTRIcGJaNHlIckdZVEJIeDZEMDlFZXQ2T3B6QmgxMUpoX3Nu0gG0AUFVX3lxTE5IZWI4aHl0T2hJdXJrVTlTUWhWQXNlQkdfVE83aTF1WFZrVkVCY3VsMURKSzVndDkwVmllRmdSdFZscnRBMmZGRDBzc1diejY2aVdZUzA2VEtHa0VlcGZvNzhUUC1aSVVjSFRrd212Q2oxUUJ2SE1oN2wyMG1nalRXU1k3ZVBmSExGMzRNcXVwZlpLM2VsWjZWYXBoV1ZsRl9ZVUctcTdPRXNkS0xIX2tSaG45NA?oc=5",
+   "published_utc": "2024-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India 'considering deal' with Nvidia to get GPUs for national AI mission",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWTJqZzJtMC1PQndIS2o3VDloZzVDX1BjSUNrV3dDOHdReVFqNTRJVC16VGxPc3RpTFdveERLXzRHMjlBbFI2R1BHLUJPeG5oMXV0dlBiMFF0dHN1T0wta0Z2eVRoX3FlRkpBRmJYVWhIcG1VbDNZVWFMTDZzMGpSN0FXU0s2TjNyVmJXVWR5MUdsMDBVODBTTE0zVmEtOTR4VVhjMnFDbFRvWDRXZjAwV3NXamt5dC1Ka3N0eU9BNk5NbnJSbm5mY0VsV0FBV0ZsM3BDTXZB0gHbAUFVX3lxTE5UX0ZQRndBTy01bTZtTzNoOS0wb3NKbTk0bjFnb2l2OFFScWhUbW5hQjJuelBMY3VHeFZDRjQzcUVCY2cyZEFta3FNdWhhV0JXbjBNQ19HdjBZRkg3UnBLaS1XN0xuc1dvZHFyX1ctZFdkN19sRHdQbUFKdEppMGs2Z1dxd190bjY2aHB6c255OVZSekVOVGRwc3V1MVZFd1BCaF9QZDRCOUxEeDVDaDdQWWV6N2NmNVQwMnZiaUJuVzZxaThqdDB6cFFzMEt0bTVpcE5MZGFQMDdCSQ?oc=5",
+   "published_utc": "2024-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu demographic could hurt the BJP's ambitious plans for the state",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZGdTUmQ1Z3lDMlJxcUIzemhCOFd0MHRMWTRsY3VyQVY2VDNudlV4aDdUWDI5MElnTVhJNmp4bE84RVVwcGlONXlFMllkbmdvU3RPS09ORmZQUHY3cURNX04xcEVrZlZnZDNjY3oxWTFtY2tQd2dEeHJuUEx0SGRHTmw4ZXczT3ZzdzVIWmxxSGNUR19RYkp6cThHRW9tazdqQU5RQncyNmFETjBYWWRnN2xxQU13WGpmUXdQQlZ3SU9fTjY2Qnc5Nlc3MjVaTGJoYnNIV2pIejl4b0pkT1oxY1l3dmN6TTN4ekNfOUZMb19zMjJK0gH6AUFVX3lxTFBMY2hHQjlkUGd3MmRlRU9ySW53MmswTHg4NTh0NWVJdTMyams0anpuaGljS0ZxM2h2Zmx0cmFYVjRMQVFjeTdGeWkwWDVMNXVILWlobjh2NGtRM0MwbjZEcEJKR1dhSjZ2a1lFRGZvd3Q4cXlIbHJBRk8tNlc4WmR1SXRKQTVmXy1rNzA1WXVSMGpqOU9ldUFwdVFMUDZOYlRNOG5LZzhOSklPajMyMVlhR2MwLUJXTXotSllzUVE0Ym1PbXlKbUFYQ0Z1aDRCb0ZvWEI3dVRTNjJGeTVOdzFaeE82SDlmazBjU09EVld1TzR2cWg5UWFvUmc?oc=5",
+   "published_utc": "2024-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haldia Petrochemicals sets sights on US$10 billion venture in Southern India",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2hZTERvOHVNOWhsNzd3anlGVm5WbGhzbFlEQnNoWTB1MnhodFJJZFpQT0tzTmZnblpmeUs4MzFTNk9PTndDMmhhOFNzem9BMUpOZDgyTHpoOHlWQThieVdiY0k4R3RjNUhNYUdvNTd6RGc1TnVyTGlkMldmZHJMTkJ3YzBRYW9nTC1JclRWbzZvRDdsRWl5WTEySWY2aktTeGlYOEhLZldsQnItOUZPdmtVY3lwdw?oc=5",
+   "published_utc": "2024-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: 3 Detained Including BJP Worker With Rs 4 Crore Cash In Chennai; BJP MP's Involvement Likely",
+   "source_name": "Outlook India",
+   "source_domain": "https://www.outlookindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnlNajI3MDNfNk1ZbkJxXzhQWHNteDdkeWVnOXNFU1ZBTk1uNnhobUltVGxZUnBVN19ScGNtb2NrUWNsRnJFT3lxU1lhRkllNWphVTdzY0xfc3JZblRTUlFhX0ctOVV6VEwzaVRsZzVINERJbVJ5WlpmdGQ4cEl1S0k2eWl3YnRNbm1wUmNINk53T2ZmallZRHAtZS1VWnM0TzNVc2RCOHRwUm5kQlMtcWJn0gG_AUFVX3lxTFBrNTNKbHFDTmJHUUI3bHRYSkQ4S2NzVUh3cGdlTlAxQnNFamtLSl9RYlJ3LTdXVDZjY0NiZVByMjhiNFNZREJqZGRreHNwcXFFbU1yT2JjS3BzT0hQTzhwenhxZTBXdk0tWWhjQ3ZtWU5QdWhmYWRraE5sV2d3eERUQUpvdFZrbUJ1VTJFQ1BhLTFpNGItQlFqLVJWbTBYRDdFa2xKS2xXZnE4Yjh4eFNfdmh1LXdzNmRkNnJoN1Vv?oc=5",
+   "published_utc": "2024-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

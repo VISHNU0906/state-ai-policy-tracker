@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Elista to invest Rs 250 crore for setting up facility in Andhra",
+   "source_name": "ET Retail",
+   "source_domain": "https://retail.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTTAyNHFzcHZmSnZTWGJnZXZlSXJ1OWpZSTdFWERxZ2pLMjdKZWNRTFdCdDV2ejdwTE5hVGo4ZnV5WXppMlkySjU4NDlaaEl1aGozOW1fclVuaVE3eHZlcXFKbWNKMU1kQi0xamdNTWFwSmJMOEdaYUZVNkJTM3ltM181OUwwb0dMYUtLN0s1Z1VvQzdpWWlWNFVhY1FiMWwwRDJvUWdEUDRlaTFYclF0Rm1ZTVl1RTNoQTlmLUpXaE1LcS1UWXpBTS1aVHZYWFNVSmV5aEVocXMwSDRRbG9FSmNVeUc3UHVOMURxM0hpQ0JjaGxfUHFMc2t3S3IyRHcxdVd5NlRENXEtenJ4LTM3eXJ6T2tVZ9IBmgJBVV95cUxOaW9xaHlfNHlpajRTTW1feU5KTlRSV1hHVlEybmRjVk1kZjZLNkZNTXAySVFMdHZzX2VoSkYtSG02NDBaQ1NqY1hvUWFWb0lnQm5mdnlXMGxEWEhyaUhPcHJxMGVoekRYRFpaRU1lZ2hCdVk5bGUtZUI3ZzZzWlFUUHlzY29tQUxnLTYxVzIyNGRqMTRlQUt0ckJYZHF3ZlJTZXlGaXdOTS1HYmx5U3RZT1V2b1JSODhvQjBWNjlHTDh2SmE5U2pVZkZKc3lJNXVhVGFEYlgxdnZoQWlrXzZVeFF3TlFUM3YyYXRtVDJSZWNhVlo4a1lSbUlMVW5WUTdWaFZaRUFoQ3NFYlpodXpFOWlZMlItM1Q2ZWc?oc=5",
+   "published_utc": "2023-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Chief Minister Lays Foundation Stone For Adani Data Centres In Vizag",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeG5sSzhxdXBiVEVKMEZjeUR0TFpkSXljbnI3UTZIN3BHV1diMVMtWUZDbWM1b2llNFowNFZwNzBWY1VCMU9YQWpDS3B0TFcxZlNSOTNyYmtPZmdEWjB4Y1ZvdE1ZOWRndFA3X1hMM3pWN0kyQkhETkV2cFpqU1VURUJjOWxEMDJkNW42UFllOFdrdGhJSjhQZlU3RUxFajh5MEU0TmZOeFFzX0F0ZFRWUHAzenFYNDFoQjJJ0gHDAUFVX3lxTE5aWVh1N3ZpUm92dzB1MWtFVy1iVkdYVjI2eWJGeDFueGVPVlNSQWltWThZZkJBUFVlWTAtOUFzdDRJbnA1N2ZTWXotbmlNai13SUhaTzN4OFJpM0R1ZnZTNGE3cGtsa0VOeTJReWY1VXNOUlBNUHNTcjFrbzVjd3VETm1vX29sUmVPQ2wybmNiTFRUbVUzLXU3X3JvZlFMeHFSa1V1eXdER1l6ajAycjVfaEJTZ1ZoUGU3anZrR0JoNTFOMA?oc=5",
+   "published_utc": "2023-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AdaniConneX to build 200MW data center campus in Andhra Pradesh, India",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWVTLUd6ZllMQld3RGx6NnBtaFJPTjBYbEtibmhEd2JxVGpIMkxtYVliNlM1R0N6OUExcldxVGdJaGhQcWdodnRod2xfWUpZSnl6NDZfVU5UWGlrcEpZTzdsNjBubWxDV2Q5czRmd1NUZVo1bmZrRFg5aHNjSm9XSkVNdkJOSnNJdUEtd0o1TExTaG9DaURlb1RpMDUzV3REeFNVTURpa18yd25jQTBYTmVpVQ?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre sanctions record Rs 10,460 crore bifurcation dues to Andhra Pradesh",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHRpUWNPQmE1YzRmSVljWE5PMFdYNGZZMVExcWxnd2lyUDc0ZjBSMjI1SUd4WDVBZDhidlM2ZThPQmZSbndPOGFvbmhDOHpKSnVUVGY5RDJQOTVqYXN4WlluU1pIMkFiT0NrZkRPX04zNThtbkNNNFh3c1Y5c2pKQ3pNREdtdC1pSnhJTVVYVkRGczBBNWkyc1pOaVZMZTdTVmJHNXJEMll5alNMYUM3RHExX0HSAbsBQVVfeXFMUHhadkJGekJEdEZVUWM0c0tNTFllU01UYTQ5UGNZcmw2ZEV4VTA2c25GQ3pfZGRhRmZ4VG05bXp0YnRFa0ZPT3hlcXpWXzhBNFd1Mld4ZzNoODQ0czRkWnV4S3dfSGZSUklkQmVOVV9ZOVJrRFJ1aEstU0hKOXdMYXh0S2R1VFF0N19mOWFFVFdic0I1YWtJTTVlQmdKR3IwamhYTlh2TXVfb2Y2MG9rWVItMVNEZzNMMllUUQ?oc=5",
+   "published_utc": "2023-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP districts top Jal Jeevan Mission",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUFyMDhIWG1Xb002dklVRHNIWTJIRDBtZ2N6TS1xYmxSX3VFcngxVDVCWmJsV3ZXb09acGZ5S2pCX3ZLbjZxVmU5YUNHa3hkdGdLUm0tcFROQkNxSXJINXk1eEV5dTVPdk1sbGROeVlKYXFGTHo1VXFibW1hNEpHZGkyWC1fLVdLRVlaTll4U2lSMmlydWNNRFQtUHNVMEtBT25zdmpGWkFvY0lTcVROR1d4d1JkaGRNYkpaVUMtbDVTSlZOVmprcGF0V2RqT3PSAdQBQVVfeXFMUGJEM3NfbFdlTy1VNU1aby11TmdfWmVETER5NWp2Rm9SN0JtNHpJSTBlVEItQXJxNUdXREl3S2E2N3A5ajNvNEkxMks3d1VRZkNvcUktMGZrZmI1ZnBuX3BCWXF4Ni1JNm54X3ZCRHZkeGRONzNhb2JRR1BaMnAtcHo0MlVLZUlhOWlxdktxR09hRVF2b1dMMkJZMW5GRW5idVlNbnlpMWtnQy0wSENacFJRLXFOX194SkVtZVVEa2hFcXFYTW00enNiQ0FQS21FdmgxalY?oc=5",
+   "published_utc": "2023-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Jagan Mohan Reddy lays foundation stone of Vizag Tech Park",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRURhRENySEs3cFFfTmFadWFOSmo1TjZIVWlGcEpuLUpLSVNqQkprMVN6eEUwUVpObGtNOTcxRXVRQmgtTDBvX1dTMC1nb2tXU2hqcW9lUHQ4WEtiY2FBT293Mk5fbnVhbnhzTDJVc0JZWHYwci1pMklVT1FBYnFOalpNRzFUelhqdUlwMWFCTlFDXzE1WE9RUWJweXpwOUxVV0E0WHRua3NDVTdpS0loRDBYM3JkVkVzaWNwckpjNzE1ZmZzaU9n0gHOAUFVX3lxTFBTZkMtX21MdklRVEstMmhRZ3ZwRV9FWmJld0E3TkNuQ2JSdlpZd216dkVwYjlvS2JUakZwLUZJbDZvN3dfR0s3TS1wWUZFVUtoNFZwM19DbjBvbXl4LUltUFlsUkFHRVE0cEoxRk16SmQ2aGc4Ung5bnF6SDRaQWo1VVBOTWhWR2ppTFhSYTlBSUNnUUdnemkxMGd5Z09wM3U5WE11OHJES2x5NDBIc0cxQlJPc1AxT3JrU1p2V2FGZlFGbnV0U2dxaWx0Wk53?oc=5",
+   "published_utc": "2023-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM launches Rs 5,156-crore Machilipatnam port works",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlLcS1iN3M2aElvS3JRWmw0Mm50NUw4SDdPb2lFcjlldmxyZnZQMjVsazQxcVl0al84X19YNDZKOHFZN1ZwbEwwZzd2YW1YLUstczF2UXNDUTlJTHNwalYwMVJIR3RGZXRsQ2M1QW53REo2bXRGeHBRNGNkZTBZaGxaWGxsR01VekJpb2dFN0ZTV1l5S1NwRnpka2paUG14NzBGUW5vM2VraE52LVEwZDcwZG1tQVJoM3pVVXVDMG9zVWhHcEJRMXZn0gHOAUFVX3lxTE5kM0djMGdBYWFldkxoa2NrX2p6RmlUdFJCWUlPSE5zZTQzT2R2TURfWW8tNVYtTWgzZVdENVZNTmVzSHlPeUxVdEtCbEdrZGpPc2F4Q25Rd1V5QUJ2WEwtWUpGZXJhVGtKNmVZbGpVXzdVeGctWVdkVDg5QVJ4T25GQzhfZTZ0NzItajZQRUNadW5ndE1rb0UzMjVYcU5GMEdmM1JMRHNzaFZSODVJaF9NV01jRjF4TURFVl9OM255QmFycm5RVUlxTzY1amVB?oc=5",
+   "published_utc": "2023-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP rice millers to pressurise Centre for release of Rs 1,500 crore dues from FCI",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXFORjJ2YW5IUURaYTJtZklVVkp2cTlDTWtCWEt4SHNUS29IbDBxVEF6WVRaMTg3eGFPajVQblM1N3AyclpHa2tlUWNVY0dxc3FYUkl5NXMwcGtJSDBES3lNeThscE5WMHJydG5IeTNFTGhubUZzZ0doSXRtM1VneEduTF8wZjRndk1JWV91blZDemxaX0FJOHlyQVVPd3A2RFV6VktPY1Q0SHNqX3Z0djNSSXU2YTNrLURRRjNxTXluQVlVQ1QwbjBRY09Pb01Ea3fSAdcBQVVfeXFMTnNWYkhXQi1MQzFMTDJVVnpTMGRjeC1Tdmk2WjFod0hIb0F0bzlhbmVGY3RLX2lmaGJneWRWRUs0YWFRUWttbGZteUVaNkpBVEs3eWR4eldUSF82clJIREdMV3p1TE9IOHcxREhWLVB5ZDlwMVBpS0JQY1ZWcDdUV2FoTFVpRC1jRzZYNV9DbHB0MGZxOW1Ta0xKZThEUEQydXdVY2o0RE9ORS1CZlhiUDBMNURYVUZ0djgybXExOXVaWFlab3RJUmc4VnJTdXUwdlVZUDQ1dk0?oc=5",
+   "published_utc": "2023-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani starts work on data centre at Vizag in Andhra Pradesh",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2c0c2ltWjBDRWtaNUdIZE9LOVlHMEZmX1pJODZfbVVhY2QtTXNPWi1GMC1JbFcxclBFYmYxVTUwdnFDb1NUVDZnNjVmODdsbHR5ZTRqU01lWkRLMTJYUzFxN3NEb3VueDQ2Nng3bXdKeXRvdTVmUXFxZ1d1d3lPUGtITjF2dVdHTFAxTTJMcVBBQ1lQYlRWSHptOGtoLU12Um1OaEFTUWhMeUJyTzRERGkwS0VodjlsbVVfYWdibF9GUdIBxwFBVV95cUxPaG5DM0VNUUhWX0lhckRMdTlaZDlnNG9XVzlsMm5kS1kzNUlNaU9ZSVJBTW85cGNrcDJkWVV4N1F4Ti1YdmhFa1NFcXR5dkdTV1BGelJBbGd4dU9GS1ZDTmVvMzRDWEhWVzI4UDBCT2NQV0VHcm5Sb2IyVEdSVWZXaFNnVnp0b2p0a3MwWW5vNW1jS1FGa2NZTGQzd0xFN0lmV0w1N09CU0VtaE5Wb3hfMk83X1k2UE9aZFhKM1ppZnhzem9ZdUE0?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Avulapalli reservoir: SC stays NGT order of Rs 100 cr penalty on Andhra Pradesh subject to deposit of Rs 25 ..",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "http://legal.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTURQLWlobF80SGFHLTJUS1ZWSlZvaWhBanFRbXl4WWM0eFB0RzdaaTNZNV8wbWxmMGR0cmRwazlTU2FCWnIyUUZsV2JiekM3RjhCSkxOSHlSMVdRZHNnak9fdUlwLUVUdVV5WTZmV2dqOE1iYUE2WXhJVW40Q1NZS0hOQUpnSHZibGZFMnpLeHV1d29Oc0hoOFVUWk50M1RtSjdKTkR3TnJUNEdXVlktbkh2cngzU2Z1bUMxN0Z6LTYwZHlJR3FnU0RxLU1vdkc0MXdnc2V6VWRZeWduT0E4RkdKQWthMlVMZG5XQUdDVlE0ZWtwazQzNTQ3TktJUHc0WThrSHlVaC3SAY4CQVVfeXFMUC1JT2Eyd1ZmWWxpZXZhOEVuOEVFV3ZxcWNpb2FxMV93MGhZb2swZmtkWDMzNzJEcmZBdVZMWFhEVHhDTVY3MmV0dlA5OUZKZzExMlM5ZWFybDVSMG1DM0hLN3BNeUo0RzhXUkxTOXRPNDA5WUFyU0dRQVp3amlseXc5eGtyZlRHQ3lkYzcwQlJsSy1IUHdxQTJ3V3daNzlmM19wNVFFblVBaGlCYTJvRkdhRm43dE9HUUhfNXFZTlZLNThycGh6dndSbjNWN2RRUXUtV1dobG8ydjFselpwTmEydmJscXJ2a1QtUHlFcUtta3pfcGQ0X2xnRjBHSDE4cTNBMndST01tbVVOd19n?oc=5",
+   "published_utc": "2023-05-24T10:28:23+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

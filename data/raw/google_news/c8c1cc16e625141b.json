@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Aria Holding to invest $240.5m in India float glass plant",
+   "source_name": "Investment Monitor",
+   "source_domain": "https://www.investmentmonitor.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb3hWMWgyU3pCX0pUTTVtcUdaZmxCaE0zeHNxQ1NYQy1icnJzMTd3SDB5UnE1WUltdHJfbHpfQi1VeW1nbW5ic19vNVhZTlRNQ045eDVCZktyOU9GRHdpSE5MdmhnVXhabHRyT3hFQTBWaUNRb0Q3M291azltcUVsc0toTE0xeFNBZzR0UFhid3kyU3oyajY4ZjV2TF9HSzZ2ZExIaHpuRQ?oc=5",
+   "published_utc": "2024-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister for Civil Aviation and Steel Jyotiraditya Scindia reviews the new terminal of Pune airport",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW5pMHQ2dFVmSFI1TC1vLTdzcHEtU0stWXk2MFdsUWdBdTQzZ1Q5YUVpaFZDQW5wSUVTbUlQVDVNaHI3T0dZa1ZNYzQ1a2ppLVc4WjZydjdiakozYWhFY2pURk12NXAx?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Duty of state to protect all people’: Amnesty India condemns bulldozer action in Mira Road",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUtaTFBpdS13cHRTVnFRVkdNNVRzRXYxR29WMk5KZlhGcF8xOWR1MFNVZ0NzeDZpbmkybmVOTy0wRmwwSkZGLXE3RzBJUXRfNXVNT3ZQMGhGQzlhOTBPek1JbnpONElKRFdWOG5LSGdUUFVaUUVMTm1VZ3JzR0s2SDUtOFBJWV9UZE9URmpZUFNlbzJ0N2dTR3ZoeWJodmRydDEtaFJpQdIBvAFBVV95cUxQUTdJNkVGU3NfMGxwTGFuajZFNUw1ekZ6NzRnY2NjQVYyMzFBV2NFOHZlV1NacWloMmNtTHQwMEI1d3FGNkJ0cC1GV1JDdzNrb3ZydU53Z1l4c294SFNGUENRWDVHT0NvemU1T3hOSUhocHZvZC13TktNcXBXVFZVWXRzV2dEUHZRU18zTk5iZzhUQnZ0NE50WDFLcTI1Nzc1LXpvS1BNSWtLOEZ0YzE3VkphUmNZYmF0UW5jWA?oc=5",
+   "published_utc": "2024-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An IAS Officer Is Using AI to Fight Malnutrition Among Govt School Pupils",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSVdvN1FDWTRUNVBQTDRybXZpaGdHZGxoSjI2SmNLTy0wWDRvcGVTU0tzeUxBSFdhbFhOSzg1SU1HSlNJSjExYUgyZVJLZWhCOWR4Mm5rMTg3QnhQQWF1bDFhb2dCTENEZzVZSHRVRzBZTjNpeUNRekl1cWNWSjhXM09JUVFiV0dhS3BkQ1N0LXo2VFdSZlpoXzNvc0YyNDlPQ216U3NCVDJHTHRualpaS1ZiU29HeC1sSWNOYlF2WVIxYlBld2JPTU1rSm9wb0FvaGfSAdYBQVVfeXFMTndIdFV6S2I0eWVHbVo5N29Ya1R2T3dFbldjamU4T2NuX2dMYWtRZ01XS2xVMTZHcldGekxlX1VaQzNzajZHSnowdmx6NUZaZ0RQOERQaF9WOTZnNll3alFtUEdUMTZVZGNZZUxfdF9NWEl4bVI0WGxNSHJ2eHlRc0JJMWRCRnRMRFRJSHBYbEhKb0ZxUDN5R3VBOEttU1pvczQ0bWoxbEdtYWVHelQ0VDJwUkktajlWckk0TUM4SEpmdDJ5QW5QSk94RllUNFZuYkxqYmFsQQ?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In pics: BJP supporters welcome Maharashtra CM Eknath Shinde at Mumbai airport after returning from Davos",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOczJuVVNvRG41UzZzYXhyVHpmR2ZDbi1iT2VSTWItZ1dibm5KRGp4cHlWODZCMjBNSkM1ZUpFUW1fUFRla0lsbmhUa1hnbWdrUFMtbXdCVThoS2w1SU9yeFNDQnlYR3J5MUcwd19OMzkxenduZmNVbGh6dWxic3FxbWxObUV2YTZ1MWVIR3psMUpHT2d2STU4QUxhRVYzYzJHZGpJY0RyYnBNbkoxalJ2WmpzdEZTRUNmcS1aUTlOTXY2Y1liQXMySUZhNzgyMXVIZFUwaTJYODZDaEpHWnpOMHVKSXliOW93SnVYemdzSHI?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Inks Mous Worth Rs 353 Lakh Cr At Wef In - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazI1Q2UweGhSb3YwOE5JM1oyRGw2VFpTUkFkMURZQndRTUJyNnlZdnJZSWd3Z0RjUFJPWkFDRnR0V2ViYjFkaVJOU0ZhcDVEQVZTMTlmOHBVWGJIVTI0bDVmOGZFYlJ6ZWFBWE5UVzZUVWZDUUgzUEZmU1BiVl9lZUdaTE11UmpOcldORS1Jei1sVHIycGctZDJ3N05FSGRfNkVTbTR4MWY?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka: PM Modi received warmly at Kalaburagi airport before departing for Maharashtra",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRnhsZjFic0NxT1M2anNsX3JfN1ZxNWN3U3g2dzRiMU95bEpZN09LRXRmakdkbFZlWFp3elYxN0dBOHN3b3ZJYWI4OFdHejh1b0lOamN2TGFkUmRCakpBMUJvY0JEOVJxendkZDZkMGNvR1lENm5HRk1BbkNRYmJ5NDFvREdpdHRyZUlDbEw4ekJsMzBvbTF4cEpzcGtOXzBQaElScEJlaVRHeUlpai1SeUR1NEhjUGNBYjU1blM1dkpCLVgzNVpjcHVLcVByajR5VzZaVUlLemhDUzU4TVFCbGp3?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai's Atal Setu Bridge Inaugurated: Key Insights",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWE5SzB6RWgweXk2NVpwU0NldXlEaWJNaW9hM004Yks0STdRSzVWVWxmMXRPSTJoem9sdEQ2VXlkS01rNGRTbmFKRzF5R3hSU3FmTlM2RjdURHQyRTItLUgyM3ZzaXBNN0dJT0Zxa1F4bjItTnNObGIteXgzdXZuc0d0VDB4LTJrM3QyR1A4TG02MVB5aTg2aFAyNTdmSWFvNFgxaVEzS0poeTlTMEx4VUs4YjdvUExGVFM5VDNBeVczZw?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Telangana, BL Agro to Invest in Maharashtra",
+   "source_name": "Indian Retailer",
+   "source_domain": "https://www.indianretailer.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWlEbmtrUXZ2Q2MxT1JEVERTVlFaZzBPaVZkeFMxOUVpdTROMTRHRWNFWXFVelhBTWh3NXYtUFVPZmF6OExsanRKdV9ac1FDcjFOLU5fcW12NGtMbGIydEMxZFFqSC03b0hRaC1WaFV6ZUpqcjBrOVIzWEZOUjdhWXVtNDNlS3NNNlJyZ0dwZ1VPZWtNY01NRl9kakVhOVJVMXBOTHlRbl9KUTBiRWc?oc=5",
+   "published_utc": "2024-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: PM Modi offers prayers at Shree Kalaram Mandir in Nashik",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc25MQ3JvWGR5MklXeXdJZWd5YUQ2bEdYVzZockRlSktGdXBJM1dEdFJDb1ZSSGVhM0szXzQ0dGM5RUdWTTA4bGpKVmx0ZmZLOGxDT0t6UG0xVEE2LU9uRHhPWU5kdXo0YlRVcnM0Zm9iMm9CQmt2anZDZW95Yk0tclpSQVJ2M2xRZ09XaFhrOFY1Zkw4TDJMa3ljakh5N2ZoYmtTcW40OFZjQy1lNUR6MHlfcHlhMnFzdkhFLVpta2Q0am8tVWNtMmhuWUE?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

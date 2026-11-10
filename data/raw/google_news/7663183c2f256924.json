@@ -1,0 +1,61 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "Maharashtra govt to draft its AI policy soon",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlo3c3JNbzh0V1lpbE9scFdiUmFjM1g0VTdqeXFkUjRRR2dsM1RybFYzSk43UGVHbW1jUjlVOTVwTHYwc2NlSmxYNG1DaFp0dG80MFMzc24ybXRSZkl2dVFJZHZtUTZnZGEzTEtQeGtnejRhTXlsVm1zZFNoZXd5djROUXh0V1hqVFNIUThfdzRPNTR3cXhkcEtjQlVmQlJ3OHQtQjF3bDZ4elBsdlZqR1NmbjJQWTQ4d3NteEp4aDJLUlJMN0HSAcsBQVVfeXFMUDZSUTFTTXNfckNlNXZ4cnBjVE5KMWdrc0ZpQzQtOHFwVEdLdXBCS0t4Y3ZMTmFKVUhKSjJlUjMxelVoWDVhaEZ1ZGhoVlJBMUd0OWJrNWdxUUZZT24wUkY0ZWhzSXM5VUdjTGVMbTF0MWVJaGlyeUIwR2hYUXQtYzAySjRTOUc4Rk1yUnRTR0FLMkdZVVFobVhMSEhsMTJEbU4xSUxPLTR5RjFTUzRhdFNCRVpvZU9jTG9BOUJTbU5lQzBkckl3eTZta00?oc=5",
+   "published_utc": "2025-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Minister Ashish Shelar tells Maharashtra IT dept to draft independent AI policy for state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0t1N1NxaUd0ZFg0NFN6TU1CRlE2NlhTaWE3dHRLczlfdDMyZ0dqRlFwbVdZdkFxd1dkRjU4WC1ZOGpabWxvTmdEUDlfOFhZZmFpVmVZaEFXWHlqMWtLU0VXZDROTUZmazBVaGRHdWR5dkhNUUYyVVlhSk9IbkhpVlRnZDBzOWxDaXZ3Rll1Tng2OFNrTjdyUjMxZVVXSE94dk84SUhvazhxQ0ZrOVM3ZW9UWG84QVBETG1TXy130gHEAUFVX3lxTE5VRmdXTjJPRmZRWXNRa1JYdVBMbFFoRHpwdGRidzdmOHE4NjJ4QnFIc21HbWQydmZzem0wUHBsbUIwb0psRDByakRiZXBDRkprSnhYamF3S2pjU2o1T1hzSXRLejRFN2Y2OHdOajE5UF82WGgtY0FmMDJLeXlKOUFwLVRPM2hOZ2JoRWpvUmRydWpfbFJIT1Z0VF9RelFBaXRxX1dpSVNqZzRsRnlOZ0prYlk0Ri1kMXBySVRBVmwzSkE5eE8?oc=5",
+   "published_utc": "2025-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Maharashtra’s Ladki Bahin scheme transformed women’s political power | Aditi Tatkare interview",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeWVOMTZnOUp6c0tiN3hWUHpYdmhkWV90akRvMHZ1MFR3YXh2S0xyZUR0WnV6dlVZc09La0FxX2g1Rm1neG9VRHVURmUySFg3RGE1dnJvWnVYbGlYR2F0UFcwTHV1eGNBa1YwazFUQ3RkemRmeVRSN3hUb1R3dlNxY2dhYVVYUVQtVkVTeHhQVVZrVEhmaFdDNTMtUU5sZFZRY2hNYVZoaks0djRxTnRNb3hsNGlsaDEtbGNzcm8wSEZPSkZjMm9iblZ3YVlvZFdYSGI0a0RCbEF2cDVuUEdEZnU4SHdZSVVqRmRn?oc=5",
+   "published_utc": "2024-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to hold important meeting for Pune airport’s runway extension soon: MoS for civil aviati",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQVWZOLVFNX0ZhQ0Nya1hsM3RYb2JYTDVGRVpWVUUwUFNZLThVeUtQeVAwbUg5NlE5UzJBZ2RUQUhLbHd2WUNjdGhScWpXNDMzLTR3RkFqSHp0M09lUTFGWkxkV09fZV82WjNtRUVVZTFSeU9hb1FvUUtEUVpNcVBsd0U5NnFaak5Fa0NOakJKUDB3S0F0UDRSTWRwSXd2SVhST1FBUHp4SWhFaGFJSWJFXzFwMU85UXkzbDhxeDVhRVhCVGttVTBKSWhHNi1Na2c2Yl9RQ1JBZU05S3JrTUJTTzh1N1d3N0xxQ3AteE5aZzgzSnRNOTBrdVcxUDk0OHBMTVAwdC1wc1l5UmFIQjlrUnE5S0VDaWFtRFAtVk9n0gGjAkFVX3lxTE5GekpvUURPeUVad0tFMC1CNFhRSUtnYllnVDkxaGtCbV9nek9nQks2dGtUaDlXSHd5QWFiRzRJODFxaTNkR0JxelNXQU1DSUpnQXZFX3VQdk5jSUdFMkZDTjBhTlNKdGwyTktKN0xnVDdEcHRIRmo5RnBkSG9uRWlZVGMtaXNRaEdKTmxmM3BLRUFrU0dtNmlKU0NneWpUV2xRQ3BEVHlLXy05elpic1JMWE9mLWtUNUEtYkVSRmwwNmduQ05yMlZFLXNpb1k3VmdBYkZyRHVIeVV4NnNaRVhkSEpHVEJXYmFLNms3SDBMMUtud1c5bFVxYWdXWGh5a0NSdG1KbUV5S0I4NWIwVTZwUXV6cnlqajlzMFhmdVVaNUp3aw?oc=5",
+   "published_utc": "2024-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI and traffic control in India: Revolutionizing road management",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzVncDkxVDF0MmlZSlpzbmZ3Y29jMGtfMWdHRExuLVg4aUgwNFRQNm1ncXdaTTdRa0RfRVR0RDMxZVhrRWRLVl9mMUxxUU9OQ2tpcExXYnZFamdSS1ppQ1Niam5rQ0RsaU95Y0tHQ2ZMS0Rvb1Vlb1c1U2MzcE9yeDVJQ3NMUUdWYllPSkJYZ05Rci1mZG5kWmR3?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh partners with PhysicsWallah to establish deep-tech AI-focused University of Innovation",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZXRDS1JWSnBxVW5QMUg3VF9OMXZ4ZDU4UmhVY0ZuMThXeEtoMHRpR3hvM0djRV90OTZBMFRYZjJTdEtfbVE4enhTUTFmcHE1cGUzTW1VOWhzYXM3YmNRMVg5M0NFQlY1aV9fQ2JkajllM1g5WDRCM3pVa21xS2cwOTZiQllVVzJIRnNSTi1RbmxuRW1LWnFpcFU4dVdwMzJrb3ltM2Nwd1dHdl9nemtkcThENDBPY2w1d0Q0ZkFQWXA2am9pVkdORGY5eHZfaFF3cWFVRGVXenoxSV9PZlNQZjFEWnNwSm5lTG83WFpLem80d0ZMS3NFQ1dHYmxfU2ttR1JEbNIBigJBVV95cUxOU3JTdWlvSHgtV2VMVlRzMUZ0VWVEWVVGLUFwWVJYWnpZQjFMMHdrSGpKRVJhb003d19Ubm15aWE2UjBLdTZYY012c1lDRmJwZjZXc1ZsUnM0NlNGNDRveHhvWFI3cGFiRnMwblZrdHBTYXpVS2FoSy1sTENzM3hNd0pkNHRjU1FkQms5RWEydmU2RXhPbWpyT3JhblFkQnlRM1VhalJqNEYtUU4zN3VWY0pZUnMzVjd6RmFua3ZHMG5lXzMxdDdGd2JZS0RMTzFTakhwTmhXREl3S3RGTkQ5Zm9NTlp5dFZaNk14a1VOV1o5RFpfbDI3RVRja3Fyb1JxeGx2STl5cE5hZw?oc=5",
+   "published_utc": "2024-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Devendra Fadnavis becomes Maharashtra's new CM: Net worth, education, personal life, and more",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVEFqRkRBVkFBSVVjUkhNaDRvY3dOaC0yRC01ZktmZV9jMnU1dkFaa2ZrT3REYnZ1WUZ5ZGdwZElEQS1uVmVTaFJtdEt3NmhMVDF2SHhWUjJpVkw1UUU3RzZ2M2Z0SzlMM1YyaXpIekhHd0VQLXRVN0xQdDhGLVdNdEphb3VDQk1ZejdlZl9wRjdnWHBPbW5VTk9TRWVwclc2UlJJeXluek45TEtZQ1ZWb1pqMHozM1ZxODRRYzlwSFNiQUlyYWNyWkIyT21mRWZULWdDWjd5RWxEVXlZUm1VTFFEUm9hYjRaYXVIUzh5MkNhUi1oQ3BSaFNmMVd4bE1aTHdDbUln?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Karnataka Data Centre Policy plans Rs 10,000 crore investments",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGZpRmVaSjRNZWFJMnhTbEwyY01uUjV1TDNVdDZWX3A1Q2g0SEx3czFXN1dKX3hiZDNkbEJ3eUV1aVphT2tSY2hlQi14S1B0ZHhTR1VaQ09yYXFNWXhEcG5IS09IOUUtbjgzYU84bFlGdlQ1NkJjV1NLbU9MWWJxT09iSWJielBtNTlad3FydzZqUHdUNzVEcTU3bkdUcjBwOVZKREVNaXpMb3RiMzFYbG9oSE43U3V4R09J?oc=5",
+   "published_utc": "2022-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PUC Results Karnataka declared at pue.kar.nic.in; Here’s how to check",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkxJRk1vR19RdDVFTlJaY2tHd3ptQ3dVTXByN0VvSDZiT09OTnFoRFlpbnVQVlhLV2s5SWQ5TzU0TzE3dTRmcEJqR2xSZ3BzZEJkVWtTd0lLSkdEN25ORGw5M3psZElnWEIwejRyYlVUbjZHQk9sNGdPUVRDZUx3VG42TU9pVUQ0aDdQWWtSRjZ1Z1JmRG9md3ZfQXEtSnpkRGtBanlFRmd0WnBwWnZKZXZn0gG3AUFVX3lxTE83UVlPM1hCVjdVdFVfb2NnTEhFdVZhT1hVcF95N3QxdlBzWkNCNVA4eTdYbnFwX0ZMMUtwXzBGR21jM05vTlZKSWoxNC1mV2xpUVRGVUVISDR3bDYya19md1oxQTc3YW1CSmNJSVI5VDVMU1BfQ0xqdmtYVEZORmtEOHdmclFXU0xKbVMxTDVha2lqZjJQWW9HaVp5SGVaUmF0VGN4clZ5eEVEdDlZT3VacjN3LTBPTQ?oc=5",
+   "published_utc": "2022-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

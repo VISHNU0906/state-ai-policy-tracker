@@ -1,0 +1,13 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "‘Technical fault’ in TCS server delays talathi recruitment exam; Maharashtra govt orders probe",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUl5R1FtQ2Q5dkNQdkdZSVFGR2pLNkZXT3B6Tnp1MnluaDhpY1gybGIxUVBIdlFQcXhOZnNZeXRPNFRhYWV0Mml1NE1qX2RYQk9SSnZ2WTF3QS1yX185b0NtWFp4SGdXME5iQTMwY3drRU9BUTZnRHhhRE1WdWlIM2lSOHlHbm9TWDFLZDVQdkJycEV0ZUd4SXZSRExJeXVuaWRQTHg0NDE4REdWb1hFQk5OTk1HSzhQbVBZRGRZSjNYNXpv0gHKAUFVX3lxTE10ZnZya0xIM0dXRjd1ZU1PbHJXTldYNlF2UkNhcmpDTmQtRU9HSkNlVXluNWs4NHlQaUJFUEo5RENrNEFEd2VwS3oyYWdQcjZ2VUd3Tl9ENkdONUZCRmpOQVY4LWEyOGQ2MHdhVkI2RGVScFRQZjB5Znc1Ymx3R1RiY3dIUDJFLVZhMjZWbzJteGlOaTFtYWdMcUNHN3A0WFdPek9Qc2UwQS1HamRCZnhCTS12MFJzb1VXcS0tTjRkRjliNVpWVE5BWWc?oc=5",
+   "published_utc": "2023-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

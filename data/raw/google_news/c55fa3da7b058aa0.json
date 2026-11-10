@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Union Minister Jitendra Singh launches AI driven start-up by IIT alumni for water purification",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV0JtWVlVa0Vuc053aDIzTlN2d3RwMFdMeFVkZ1ZxT09sVE1DVzJDZkxfV0xndUN2NGNXX0ZBRzJHbV9jY3VxTDFXTkludklEWHFHQjFfVUVBWXpBUzFNdFMwM3NhNnZHTWJIVHY4eGFEUkV2UlE5LWZMMVFUSzNRLVpSQTZXYjJXUV9vVWQwOXZuQ3hldllNTTZCSU81d2lnMVBGZFdBNEo3ZldweGJ0S0U2d3VNUEFfaENVd2lxUFZVTDlzVm9IV01DM19iSzFON2ZiRmdCdllINmVWY2hCbW5wZmhUdkZNR3NPNTBYQjhiNnVTZ0pvam1vVVRsUmN0RFdoR9IB_wFBVV95cUxQcERPcXNWaHhSX0tGeG52VFBNa3JNMXJsRjNGWjVESHBwRDVCSUREWmhMZjhqZ1RmSXdzc19QcWF4VVUwWHBFTl9XUHV3dkRzeTBYcDBXOVRqUWxkODcwRlVZNGZyal80cEdHRVdUdm51N05kUzhvY21ZdU1yRUZncWFLOURtX1VjT2tTTWtUX055aWZWWk5Pd1hjQjhuanNqTUdfV215Q3padks3MTY2UDlRYlFDMktjbWh5ckRqUkxpMmhjTlAyMkxlV28tUjZKRlowWkNsSVJBNkpDNlRRdzB2UXFTVFBXWWh5TmhJT0kyeHlXZjlUaWlHV2J6Mlk?oc=5",
+   "published_utc": "2022-01-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre Should..: Maharashtra Minister On Covid Testing Rules For Arrivals",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUjJXWlZNaDkxM3pfY3hCS3RETWdEVWh6VDJGTktMWUVMNnozaXlWaFJyVmdlM21EZmRMdzVqSVJFX1ZiNDZaQjFlZUhZVUVPVWZRTUF5RUt4RDk5SDByMzZnb01XUEtraklncjdwakFxdFI1ZVV3NUJiSWJUYW91ZTc5LUk1TWhSbC1PUk8tTXAxWnN5a0tubnlTWkw0WHpJUWNxMGdDVDRyZG83b0xUaEV2UHVQcktSQ2N3Y2xLSkpGN0NXeGI3X0FzQXdhYVNxNE1kV3p5N2xiU0lZTnk4SjRueV9acFNoNDdwQVdPRzNNZ0ZraVhlNEZYekFHZGJBODFXNE1ObFJZa04yNmtEU2J3?oc=5",
+   "published_utc": "2022-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to observe 'Bal Thackeray Jayanti' on January 23",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORS1vdkViOFdtRVFXWGlVdXBfUmxwYlp4QmdKWUpRVmQyQ3JrMVIxQ2pSal9rQVlYcE1uQ3c4aWM4ZGFiem9UZENORW9vU1ZRSV8xcElJZ0pnMDFuOHc0RnBWdmxHLWhqOWtFUWFjQjk0STZwQWc5MkUtZDVTNDhHNUNEaHNUWGM1d0tSaHJYRkU5YmxoR1lOTlpRaUsyekdzV2NDRVpDM2lpVTRKNEZheE1xM08wYzNmVVRNbtIBwgFBVV95cUxNdU5ya0QzU2JSQWtkdl8wcXBWRTFFNFVsODZuRUNPRlRsMGVoN0hWN2J1MHl4YWlVd21rdG5rQzRjaUZYNnhWVHpqTngtM2MzNEhvS1VKUThER0FseGdOaU9jVkRTWFJ3clFoejZIRWJfWEoySlc4QnBPSndpeEwyU19WRlBCMlNmd2NDUDRwT212cEhZSDZNc0pCazdCR0tYNDVCQ0NCSlBFeFZuQ1ZaU1ZvZ2tyTUc3LW92d3hfeU9Mdw?oc=5",
+   "published_utc": "2022-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra schools reopen, govt hopes students will enjoy being back to classrooms",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnduT0NjSkpHQWt5NDlITTh0c0cxMmw0NWItTHNSbWlVaW1jYnBhOXhaZkI4dlhXQzcxOGFyX2pnVHVMV29jWGZrSHVCbWpfZlJ2cUxhVXhmb3hKbExPWTNlbDdzWVdjdGt6dE56Nl81c3MzSWFyckFyU2tTN19sQWI3TzU1THdzNHVzZnBnYUZ1NkJYSVgzeGEwSFJiUTlMc3lZal8zRWxPZ0w5RWhFdTNOa2l6OHViM0hBcWxpRdIBxAFBVV95cUxNVS1VR0RDR25EbERTUFFIbnp2V21ucklRWFMzRHEwcFU4eUVjeFZtUTFRRWoyWUdRZFdiU2ljRGFTM0xQd2xWR05walRwcVk3UVFaUmg2WkE4LU11N20tYU5zYU9NOVFpd1I0TjVsdVh1eTctRDZPWDBEZjRLQk0yWmNBQ3Z2dFJiT1o5U2dyaDFlTjRlSExNc3V5ek10bi04S05maWFEWk1XdlpndTRhRW16cWpoQmpUOEV3eVh6QndmanJE?oc=5",
+   "published_utc": "2022-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt plans to waive stamp duty on gold, silver import",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDZyOE5xMFhNQVBQelJjRFhhNURPallPcFcwc1VCa2lZVFRIWjl3dVViX3AxMEo4VFFLaFhXVlluNElxaUF2T2xQVV8zVnRFVE9vdWFreTVNUnBXdW9Nb0x1UThweE1HbjZXYjNUWmZoemRZMFk5N0tacjlLLXZzdUJEcnNIaEdLTXQzZUNCVjV2UVE1SDhZbDM5M0xHenRoS0FLUi1OQ1ZRWGFMZmlKbDZ2TUtwYVVydWtLTWJB0gHEAUFVX3lxTE9LcVYxLTRqZ2QxZUgzcUthSGo5RFVDMmdjeUlXaXQ1amFYUW5MMXQ2ZjJKVVEzZS1VSEVCSU4zQnJsS1pGV0tkNW5MM2hYVDlMZ0NEZkVkeGVpUUZHSjNnczlUU3ZlRWlXZWhNNWJGNU9pX3hLVHhUb1VIcU5mZkhuRENoRjF3VmVlRzhmbTVIc3ZaaDhhbXhMUTJmM29QRjlXQVF4SDhSWE1oVWM4c2tjRjRuSm1OdXVFaGU1ZzlFN29BekM?oc=5",
+   "published_utc": "2022-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "COVID-19: Maharashtra government allows reopening of schools from January 24",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnpxaUhiY0NLX2xRTENhRGIydWdrb0stVVRHdzNiZk45aW5hRTNxaVZmeVJIQXN6LXpmTjAtWmVGNHFyRW5xdTRMZGNHX3VOeFlyY3BjQTZjUE1VV2ZkVHlpNGdWb2lIOGUzeGVpZW4xbngzT0FQOFd0SDNQUG5Gb3pTQ0V4Q05lN1J6VmlXdkp0b1Ryc21iR0ZXY1NoMFZGclpndlR3YWZkRzk3bnZiWFU5c0FBdDJPbFVVbVBVZV9MSGZCSUJUVEw1ZElySlBrY3RpZ3hB0gHbAUFVX3lxTFBVQUN5Z2YxdmhjbEtyUk1zZklFWFJFSHBsYm55d2FlSHRPOUJtZ3FEc2dSSER5ejlXR0ZXN2NUVEVvRkdyMVZiSTZsVzBlNlRIVU9xalQ4dXN5RXZpdUtLam1pckdEVjNaZG1Ea0wxZkpzVDRvcGRRajFBc1RoNVJMOUVfV0w0cTBnY3lwSmNZbE1NZDFpZXVZWnRoNFZEQmJfMzBHT1BLbldJcXhwWHdqSHdNLThOX0pnZ3ZDWEtJclo2cTRaV2k5NHpzdG1JZGlKTDdHRXBqaDR6dw?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Want To Run Caravans For Tourists In Maharashtra? Tax Free, Says Government",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYl9OdDVQT0hDaDZfQ3BrSlYyak84WW9OME1vSmR1Y3d3T2JhMjFEQ3RCT0hNWkIwWTN0RUZjUlotQi1oakVydHFGbmZ2QmxyS2gzQnV5a3hpaC1iNUwzVGc0c3RGRjJ5MXJfSGpURVU1MHREWi0tbkh2cWVZSVZjVTNMNWRrLVI0VEtIQWlrbFRxNUFyR0pLU25IUmFHLW93WlJVSndDcENSNVY5QmJrRzRJMA?oc=5",
+   "published_utc": "2022-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Govt quiet on coaching centres resuming offline classes, ‘always ignored’, say institutes",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTm4zMFNabTdWUzN1cWhIWlg3ZzAtMm9lNk9vZHNvTnVvYTk3VkJqOEJYTnE0dVVDanBKUkZ0Nm9rNXRoX1dVR2FyVm1nM191Y1ZGckxGeXprZTlvdnlCOFo2THNZR0dHMk50M0gwakowdlA3QjJZMXVIcm1ESlFVaFJkNS1FZldDcnhTZXQ5MktnemFzbFdnd0ZOYjItWF9PWkI5WjJ5OFU0cnNUTHdJUUwxVl9uVGJyT09uVDlVYUpsdTZadkJaUF9jSkxjZnIyeURWeWQ3ZTIzZ2ZhZnVsbUN2aE5sR1dXMFHSAfABQVVfeXFMTm95TUdZR1puVmh2dWZvaTNiSkN3aTlSd0R2eFg5dVU0enN2aGFTLW5WRlZDOGwzajZnS1dyblV4RkQ0RllzUDlUYmdGMlFRY0Uwc29PRTIzeExSemt6bXBqYXBkMjIydmlFYThvR05yNUVBT3hRVjkyVENtUlE0MlgtQ3RNblJsUHVxdGVIcC1Da1JHSkdBd19PcnJFUU9fU2N4anhTTHVqRUoySGwzU216c2o4MDZSSkpuQ0I0ZTRlSU1zTjI2VS1BT0ZMS3Q0WkZuQTNXRS1oVTVDWDJ4UFpoRlM3RWg2OHFaWVFVdHdy?oc=5",
+   "published_utc": "2022-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata takes off Air India on a new private sector journey after Centre completes 100% share transfers in AI",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWnlYWS1BeU9USHg4WnZkSm9IeXdMNVBXZUd5UVhmTm9kd3phem5SZGZ6R3hnYldPTUtXdmFsZEt1cnhJVWpFaVJQY1Z6X3JuVm4zNGptUmc0c1Z2ejJxWGJrYmczaUN0SmVzYmlaeTZjUWdSUWRUMTZNT2s5SWQ5WTk5bWloc1phVlBma2hpajJvSzZQRTNZRm9XNjh6Q0pUN25ITnFJakJtLXdsdTVXSy1ZVGExOUgtUFdaSnNCdTIwV3F6U3dQQ3pyVXo0WHBHUUNjZXNZZ19adGZBNkdwWkZGZkwxb0pQanhzajdoZk92c09yS2pjQ0g5b0kwZmwycHNFTXN3OW1sQdIBjgJBVV95cUxPMTh6SktzRmZQcFVjaXZzQ3M5V2toMGFaOVR1cDZLS3YwVHhlVHprRmNzUmdra3FsMUV6RXBlV2NQQnhvNzJuX1ZtVjFxaDFIRkQxR0VPTDlLQmZhOGw2SGU0SHpael92Zk9ZNnp2R0ZXRGNFVXdCV2luaGJBRzBvSE1wQW04OElTeEtSM3BUZnhmRXJkN2RpVVJnUFpKbnZ3UEd5bURqM1YzZGdTTHprc0FnMDIycU05aU5ZOUZaMjB4T0toSDBBMHdPQmdLZW1wb2ZEN0p1T2d2TGpMZllsdF80NV9Ycml6THFmS0c2UjR6MV8zVkZvZjMtMlNEV3BnM0ZWQ3VkTDJEcVE4aEE?oc=5",
+   "published_utc": "2022-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "100% lockdown not required as of now: Maharashtra health minister",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0t1Z1FSSkYwVngwUnIxanV5aUJNdmxPQ1FCQWczcG5IZk1wRXFKQ1pBc3FGWERSbnNXb2gtSlpvRzBWUG5kSHRmdUNDMlRuOUpqenN3VDNzUlliMHJual9lVzVYTG1oZmRaTFpSWS1YU2dHX3dGVkFTZE9LSUZxU1l1TVEwRjEwaUN5YUlaeXVrWWVpSjFUNGdnNG1KdHZaZjFYTjVLWWdmZkZKdHFWaDBNa05feC00RF9DeHZENmMyN3Q3QmfSAcsBQVVfeXFMTVpZMXlaZlNZMlRWcXp2UGdtUG5xb2ZpcXhVeFdmaV9Nb3Q4ZVZrcFhxeEFVMkVYWGd4a0tNTGJVcEdtMkUtWFpxRk9tck8zVDJyNTAzV1h4NXAxVnRscGdmM25lZHE2eXdseF96VUlLTHdUbS1qZVJlazJIYllxTnUxdGZjejNVYnJKQ3BOSEg3dGhmY0tja3RVdndzNzRRejlDUGhwd0l4azY1NC1GMEFNTVNlNUstOTFQb3ZYQ3BUX3ptN0F4b3B2azA?oc=5",
+   "published_utc": "2022-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

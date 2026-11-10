@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "Vizag’s IoT & AI Center of Excellence secures ₹131 crore for startup innovation",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2xUcG9vdjk5dm1PaDRnaXdWdlBJUVRUMmxkejJadzF3alI1d1FNMlI3eHB0Mjg0cVJKZVpaWFZaY09ZLWFuS2ItUlBSWjQ1X05rYmplSjdwbHB6LXFYVXZYWndNNENKSWI5WWcyRmtrR09OcmJkNzBSTUVnaVBXTzhvX016X3NCb3ZTMmFVRDdQbEh5dXhLUW1paEtEMm9rT1Nyc0JaMA?oc=5",
+   "published_utc": "2024-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Government to sign a MoU with Google for AI-driven governance",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGtEaFpBT1lvekxsZDc1OFlXVUptd2tQclQtZGN5SVlZcnpBSFJYekdyX1VyUUxqc1oxZkMyU0NjSmItZTVvYVVHRU9NWDFZT3Mwb1dCajFFRXpwbzQ5S3RDb1lIbzZrX0lTY2hkT3JwUXBvSGk0YnNjUmJtbW9JdmVleWxJMzliaURVQnBXZjNtMW9HYjNOemlxaWx2cmVBb0RQalM1NERkcWZ4Sjc1MGFTQQ?oc=5",
+   "published_utc": "2024-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM Chandrababu Naidu directs officials to plan Amaravati as AI city",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdydW9CSVh0bTNnWlY4QXhHZHZhMEFCck5HWlp2N3UxS2J1bndnYUR5NEtRU25lODBfQnhROHVsbVkxN3E4a1UxZTZHTGZIVFJ3SU5oTXlBazVoUDdKNWFLeVczVHhYZ25PS193MFBpNkRsWFlYVWdraFlVOWlvOFFkZUUxZjV2bkpJUVhYaTdVWmJSTXNHLXRBbnRWMFdLdWFZZlBwbm5YX0JDeFliMUd0NnJvVmZCbGQw?oc=5",
+   "published_utc": "2024-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to set up YouTube Academy in Andhra Pradesh’s new capital, CM Chandrababu Naidu shares in a post",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQkdKdkpDTng0YVBSRW96NS1TM1FBcU1YbkhPM0VlbUY0Rjh2bTlCQkM4ODFxLUJ6VHJwQUFjYkNoWGpJNzJEYnNoVVVZcDViQWI0aktPMzBiSFFESEVnejExVWY2VzYwYzItTk91SVJDNXBkN0NPcWViUWZHcVRQR3RiZTloNFNQVUpVbnpGajlkZ2Y2cV9URXhxQU9jZzJZbVEtaTd2WTkxa1JmRUo1Q0pFeVk1REtZSFdnNi1MdXBkUEg2NUlLWFJkUjV2QURkU29YOTBpQkN4dGNLaFN0V3c1Wkh1aUI4eEgxSmplZ3BLX050M0lkazhCcDNpdEJsNERMSlBoVUI2UW5VRUxFVkR30gGXAkFVX3lxTE92dk90bEItSUg0d0NGdWtfd2lQOHRVbHFkYlhkOFJIMGVQWWNxa2QxNjVRSC1tbkpSYjRyMTlvdHJ6dXhQWlI2S1hqUDFXWlFiTUFvSl9qUHdQU1JBX1JUVFRTM2hvdG9kb0h3TXRxWjBWcWwyV21SYXphTTJaclVIa0NyVnZvUUpQbFdjVkloU2ZYTWZVSXFUOFEwOHI5TTFfOGR6ZFkybFJ6N2ItZnBXaC1DQWlodVNmc05MLTJGSUpCWmVRdHBmajlSalpra3psTFhZRnpJVjNOWS1RbjU5SVd6MkJqc2NxUTU4ekZuT0l3QVQ0SjJwSlFSVzJwd2pjZ1UtNDZuaF9WZEZXdDZRR1VFN000SQ?oc=5",
+   "published_utc": "2024-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Chandrababu Naidu meets PM Modi, seeks financial support for Andhra",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0VUVFBkbG9aQmpfNTVCa2xGY1FWWjdfaFJsUlVFSFA5ZHBHOFI1M3lsLTJIaVg0UlBxRmxpM1FtbjU1cEtfcVJncVVQbm5EREgyV3JmN2hVQ0dsTXBCenRfbnhYbmZSNUJPSkcwMUpiNnA0OUNXUVRYTEg0djdpbnBhTjNWTlpZcDdCVVQwTXR0dzdteHJIZ24wb093a3NWX3R5REtLMnNOczkwWXVIZzVibC1DT2tLZUdCSGJ5M0ZmMUV3a09VWjNheVdvTzNGa1HSAdcBQVVfeXFMUGlMM0xQMDZqSmQwbWozaHpUdmg0QTlTRjAwd1VCMDZJbTFiWklCeGMzYkw1T193RTJXcVF1aElaOE5QNHZUeTlMTmE2N2libExpck1ZWmY4NlpaZm4yY055eVlkWjdXX1RfdVpkd1hiTjRYNzdrXzdNYnl3RHF6ZnlzZ0ktREZJZWJld2xTMnhJZkV4U0MyWlNuZ25RX3ltVkpkb0FObWo3ZUt4VTVCdVE0RjdoMURGM2V1eHo0aFBpblliNFVQZTR1UEgtVEswekhMVk45Vkk?oc=5",
+   "published_utc": "2024-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to introduce Telangana-model liquor policy",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUxvR2hnZnB1aWExWEQ5YllQaF9Pb2Zic0VEaFFnb2dCNU5hZHFRTl9mcWhfczJNYnJwVmVUNU9nTkEySlN3elh5ZEZMVGgzUTY5QTE2aEduOWlZN1ZseFBxd3pHcUlkQXNobFBkX213WXhFQ3RSRDFiUEhwaDdwNUo0V0h6UXlpd1RvazBkRzBzOTNyQk5EeXlUNzk3MnFlLTJfaEFsWEV1MUQyUHg1NzJSblZRaFhBdHVQdXl2b29iMmYxc05N0gHMAUFVX3lxTE1QWjJOeDYyaFdGY1I1Sk1MOG9XU1ZWVWVjakdaMy1faXBJUVBGSHJWNVB1LTAwazl4RXVpZW1wVk1Vd3paUEI5YXhMMTFPcWVabHNBRzd3SEhtdGtBdDVJTGl6ZlpPSnI2LXB2elNCcTE5b0RHV2VtTW9TMTFsWHhjVDJiQkdFR3FiR1J6ekI2MzZ4TlVPV3pCNGJtZHpQS3libGdwS0QxTXN5di1KbjByckdzQ2JXYVBxZ2RTNVpmUlc3SVZIcFU3S1NGbw?oc=5",
+   "published_utc": "2024-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Formulate plans to make Amaravati into AI city, Andhra CM tells officials | Real Estate News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNllQUmdNbkhaam9sOW1ua0pTa0dQYy1wR3hqQ2xUZk1Leng3T0VNTzdvNWlIcVA2LUhvRUhOMkFCbk5tdmhoT3dLN004RzdLeFBuTFhvc1ZWamdmNXVXbWhJSTh5bC1TRTdPZDBfQW9KMEZFQWpuSlJzMHZBV1EyLVpoZmpTNGlIcDFlUjZWODBQSno3X2RaanlhVEUxa2JjQUlET1dqbzhKY09BS3B1ZWtYanVxTzFDcG80LUkxTk9PQ3dieDcySDU3WERlOU9iRHfSAdcBQVVfeXFMTjEtTElWanBpa3FwVVZNYnFPN2Y1VG90OElWMWNOTVRTeTRKaVplYUFLaFB5NDdkd3IxdGRkdWh5ZE16UXd2RVU5cWJCTXBrOF8zS1BWNGphNkdNVVRKUjJWZTJiQU42Tm5ZQnRsbkZ3MllEemJBckdYWXFiUDVXWmpoTmpMOE85N1o4R1B4RDhwWEE5SzVVa1RKZTgxUzBiQkNLYmNKYkoyemxhdEZZMW1qVXlib3QzZ3o4TXZIWnhCOS1JZklEZl9GQnBQRXNDTXlNZm8wQjg?oc=5",
+   "published_utc": "2024-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UniResearch - Mother Theresa Institute of Engineering and Technology, Chittoor Dist, Andhra Pradesh",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkRrWXNlS3lMd3dFeFBPb1FUZjQ3am9OR1ZmenNYc3gwcVFicXNBRTFmbzZ6RDJ0NkpReGx5QUZ5SWktdmRwYTdGcDhobklsbzdPSkNFVkxlTTJhU3czYkNJWlRSejExc3NVaE1kRnItZWs0Ul8tMmQzOTByZFNjQW9rRWVCWG44TThMRUZacTZUTmNGRTN0UkRzVFc1bm8zVXRoZ3JDOGE3LV9yZzVSTmx6VTY?oc=5",
+   "published_utc": "2024-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh forms new Anti-Narcotics Task Force to check drug menace",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2lRcUZIYjJkN2tpTjFUTUphNFNHUjJsdHYzdi0wU2gzSF9UTHJYN2p2NHdaaUZvejRpVFlMM1huYWpWYmg1enpPd1hBWmZrZUZxMXNOLXZOM1g2T18tVVJ0eDFKTUtxbUZHLTVKbTdyRk5CQTZWUFJ0U1JSbG0yVk9saDlZdkhuVG1kd0dLX2V6QlRWVmxlYmJzSkIyV1RQMnFGQ2d0c3IzTG1FX2stNHRPVEw0MHlFNS15LVhlNUcwckNGSXZXSTh5a21XVk5NTGNOTEtqVjQwQdIB3wFBVV95cUxPRWRBTUowWVloOEhJNEM3UjMyUUJ3NU1rVjNpNThTNW8xVHI1OXlLNGxEUlJPdjNyN0ZFUGZFTld3Yzdqek5NYk1YUnNJZlRzT21xbnk3a01LLVZqZF9WQ3pEbXVDTGlqc3J3QzlWVGhyS3U2QThGTXBZTldPTTEzOF90aGNEZ0lVRUplR0lOLWtjT2MwUGwxRXhJYXdEd1RzbnNZa1FOeHlTRklmMWM1UG1ZcVNOc0ZnNWJIVHdPd3p3MXFOUUNSWXV6MWVMN0JNWkVuX2lOdFd5aUFSTTNJ?oc=5",
+   "published_utc": "2024-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Govt. to Formulate New Liquor Policy Through Statewide Study from October 1",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUNvRWlXNnZIXzBYTU9wcTZ1THE1eUdSU0VRdXJHZTdvXzUwUWxQRGtBbW9yNVYyU04zSENyaS16a0FXUjlhMDVzNDluN3ZRWWYzaG9tVFJ2OUN3UW5IclBWRXNMR0hzdE5kREV4dWFDTjF0ZFhUWGdwaHVBWXgwSFZzeG9OTzI0VF9QcDBpeFpIOTYwOWVVYVIwUVdZV3BJRThvT2JpNnBDaGY1dkJOMHYzMVpfXzZGSlN5dmcyUGxOM2REaUtj?oc=5",
+   "published_utc": "2024-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

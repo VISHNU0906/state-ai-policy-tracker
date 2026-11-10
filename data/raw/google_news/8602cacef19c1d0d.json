@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Maharashtra To Madhya Pradesh, Crops Destroyed Due To Unseasonal Rain",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakhCVzg1VHpVMzZoYnFmU2NRekRyWjZKaGk3OFE5Y2dxd0FSSlZpdTVncGktNVRKQnliT1VYa1JDU05hZTVnOHI1ZXVvT0FIb1BWV1czQ3lsTUN4UXBidnY0YTJzMVRET2RvOVJnMlNLZ0hPNDNjQ3d6YVhjQ1lMNGtCTk5mdTBPUHhGZ9IBlAFBVV95cUxPamhrVmlyYlFDSGdwMDRYd2VFUWlVX25sS2VLeERHdlBZLXhfYThkSVVrT3JhQ3RWaVNBZWZtTWtKbEQ2QWlHZHh1UlUzLVYwR3dKNDg3S3pFZ19ROFBEMmRzUmdVUXlxWjBVVVVSMnJ5RDlGMW10d1J5QU9CWnVFRkJHNEx0ekxnRG5ibldXNGwzdmZf?oc=5",
+   "published_utc": "2023-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'State can regulate fees' in minority colleges in India",
+   "source_name": "Ucanews",
+   "source_domain": "https://www.ucanews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUdXU1JVczhoWEJvN2xyZ3FkeWg3MHBZOUstYzNlU2JlY3BEWWUyLTRjSkU2WThzbFU3TWdjQWtWWGg4eVBUaGV4NHpSeWUxcnN1U05meEpISHJfVzhWVnpQaWJlYkFYZHpDYmhTMDN4dU5RM2tRMlQwR2t1VEJvSjFPa2lCYlZ6S3VVUlVaVzZvMUXSAZIBQVVfeXFMTnJ2Qk91NmNzT2xxc0o4WGpwdU9WcWx5RkN2SFRHWHZrNFpQY0I0X1VzdUpuMFo0Q0d3bnR6cXI5Tk5KZmEyNGhVd1lnck1sei1WWkc0MzJkekpPX3FrMEc5RHZFVWR1SlpBaHRDYzVGQjQxR3ltclU2VkFhR3FraFh0SXNrY3BSNDdmSW44bVgzT1E?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Watch Anushka Sharma revisit old home in Madhya Pradesh as she shares childhood memories with father, brother: ‘My heart is full’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdms2QTBXOGo1Wnp3TTRGQldoR2lvMzZGMmR5V19Na1puajgyaUVMMTRNNTRyWHZsaW9PbE1DZGdnRVVkcmc2UkdRVFdfbkZmVlhTV0NZNEZZM1dHb0RNUWdQOUhCalNqOXJtUUFEUlBBbFVxSVFZVmRhUEZGOXZsUFBZTUt6TVFJZkpKT0FFb2dhX25yVUFQMVBLNHY3Q2c2bGRwV1BYUVdjMnI4QTBsTUpYOFNfRUpGVzZ3OWYyWUQ5dFJqb0phNkk4VktIOUJrZXZSUkMzSllnVVhkM0NoRWJLd1pDYmxNLThxUmlTcmlSd9IB-AFBVV95cUxPVnlPQ1VCSm9fcjR6a0MtY0MwcjBOa0dsNjVpN19nNEE1MS03cG84UzAwVDdmSXJvNEtIZ1BlcjdGdFZkbkJCSXZvVGdERlZiWW80RnZ3d1p0dUlUcXJkTVp2aWtRQm82Z1VQcndmV1FDRk9GekxpTnBKZ3BqMG9NSDhNemlELTJBZXVvUFhtTzMwbXFVR0E1RmMzai1VbHdhc3JzZzF6TU9xWmFxZmhUVWpQcXVZbHdueVBXc0RTYUloWHRtQVlmQXEwR2tIcC13akJhWG5kNjgwQnByNktpamp4U1RBUGRlY3loQVVLS1lKUG42WWxOQw?oc=5",
+   "published_utc": "2023-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kashmir? No, Shimla? No, these pictures are from Madhya Pradesh",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZGtDN1dCVE0xRXNLeVY3UEM0N2ZiNDlMbTBYcG10bzJVV3pKSXZ1VV9NOTE3cjdjb2NTR3p5a1ExSmgyNmdSVUlNcG9WdnVmUTJ2dDc1UkhTbEJvV1U2dXpJaUhQM0p0ejdpZW9mTFlUQUhmcGxST0VHR2pLa3Z0ZHZfNXU2Ri1McDJQb3RSX19meGVrcnFmeW1vM1g4b1drWDE2RzctWEtKakhrYWxJLTZsR0tSRXFfdXI4MkNrUzZiSjlYYU5acXJ6ZFJ1X08zUnc?oc=5",
+   "published_utc": "2023-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Cop's Body Found On Railway Track, Family Dead At Home",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDNIazVQN3d3b29GcFdHSmNRdGpxd2JKd1ZCTWI3WDZ3ekV2ak5DTjZiT1Y3TmRlZ0pvemptTlZhbHA4Q0d6dFRfd0RpNmJYRDI5OWFJOFJsMjVXckpZZWhRZDhWSDdrbjZidlA5MGhncmlMajZkbklSTDlDQWRCa0hlY3lSRWhSaHBCYkVJd2JhcFVkNG1Rb1diZVBHZlc2SkZEU1k4Tk9XWlXSAbMBQVVfeXFMUGRaOWVGQlNaQ3Btd3ZGeHhUbnhqRDVrSzZlZUhSX3RHMmh2Vjlabmd4NEJVUUg1czBqM3Q0a21WOTZzbENIdElvcWZpTGlsUG1QRDlrZzBrcnlDalY0X01VckV4cG9BeUE3UzhRX1o0RVgzc2R2U2RQLTQ4M0Jydk8tbURZQVFRcUpYZUJBclV5UGxsc3VqZDR2YUoweFh2cmhFeUp1Nm1IWHdrblFtWjJCSGM?oc=5",
+   "published_utc": "2023-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Paper Leak Reports Hit Morale Of Madhya Pradesh Students Taking Board Exam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOak1uVWJWZ2VMc08yX05neFVfbnhjQ3djWFBLT0pFYnlJN3dzTEZrUGRFRzVFTVNCUkthNGhFSklZbkVUWWJrc0xCbDQ2eTM0NXl5VFBtXzVSYVNxV2FyNS12eURZTXF5Z3h6bXFHVlZWWF8wZ1FESUFTQ1VKLXU1UnFBWjR0XzVLVE5wNjk1aDJleFB6SkVBWi1MaWhlU2dpQ1BTc0piUXdtQWlFQksxS0Q3Z1bSAbwBQVVfeXFMUGp1djRnVU5ub3pYTFZOWXVjV2taX3E3M3Z5N3g2TGJlWkFaRGswYkJGei1oRERaSkNpQkFfc1JRQW5nOHNZRldsWHVhMGpZeHhsUmJYSWlJbDF3OG1jSlJyU3BVUWhKbjhqbnZvdnBBaUE0cW9KNy1TVlcyTWRJYnZrRzdSanV6SWtlVUEyQkE2WkdXVXZtLWN5RkNidW1TbGhiWWJ3WVBzSlJDRC1IQjl0WHFBeHJmWEc1WkI?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Case Ordered In Madhya Pradesh Agniveer Aspirant's \"Fake Encounter\" In UP",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZklCM1kwVV9rcmRzb21oYUZvQXJVVzcwaU00a0YyaUItUWUzR0UxQUd5NHNka2xGV1o5X2ZURWNfbU13QW5vM05wXzh6XzhpRG9UUVpwazZpZDlSeUFiTmxHRUVXNzNYWUdNNG8xLU00eURkM29wNWJwbVF0ZUcxRlRWNG5nU0N4WTRZV0M5aXN1UEdBWDVVbFNOOUJRM1VLVmdLS1lsSzV6Tkluc1dELThVVGJGbEs1a09v0gHDAUFVX3lxTE5jV3owazNBODdFUVREMlRJVVBqQjlNTGsyWUQ5c1NXNkl3QWM5YWVydDVyQjM0UVhzNE4zeFNhS1JSZF9CcjdMVHZ2Y2l1bGgxUkZzVHJVUk51N2IwV1VkWWZwNGl0Rl9XSjFOMDFKclpUWUxGWkNhNEtlempNUGRXTFJEbk1xcmdUUXY2b3g4R2V3bmhJeTdZNGJOTFNIZ1NLV2lJQ0FtamNyZ3R2dWZieWtGRkpIenpPSk9SUldaU0NNRQ?oc=5",
+   "published_utc": "2023-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Case Against Madhya Pradesh School Principal, Priest After Complaint Of Assault, Molestation",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWJrSENaOWN3REVkYWJYNU9MUll6VEcyUjUxTkZlVGRDUEZmTHpmYnlFTDdTTTl4cHFDNFlCcXBhNWdpOGhQQi1seDA5UlNMVzVHczcyRU9EU210aE00djA1c3R0Vk5VZGdOVGw0UzdxWWxPRnBQa2lOQU85Y1hvSExkblNUYnRlbmdPQXB4eW8wWEVySXFXdG1XMmRLQ0h0Sk9qNkJlYklnd1B3clc0Q1RFRkdTaXp6RnNxZldIWHlJUdIBygFBVV95cUxOUnNUVGZKYjZ1VC1XNmcwT1JzUGtEdmM3UDBjdnFpeVd2QUYxTWZWbmFnZDFITHVQWVZ0aWtYZWpmcjA5RUxpMkNmU0g2QkRWLWFhNzY4MTk5TVhQUXpOdTZkcTZXVHdjM0FHaDRUMWpzd3U4WUVfLTZPdXd5dlFRbnRJdmwzb3ktM21NaUxOSmxxNEtpbHJKeHdFM01RQWpyYlRmb2NwUFdmWW5rYXF3LUpGVHppX1EzOEMwdlV3MmJEbFo5RkZwUXRn?oc=5",
+   "published_utc": "2023-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

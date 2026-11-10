@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Maharashtra govt sets up panel to implement NEP 2020",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOellhRmRWTzBhU005ZWotTVEwS2I3cV95YW1hMGpHZTh2enUxU1pwV3c2Q2g3SWw2RkJRZ1l5VlRENXk2cF9TREJWVFFGXzhVcDd5OWlGbWVkd3BRbGdoeS1Ja282eldMVC0wNE1uY0xoU2FzblpRVUtKNUpsamx1X2J4Ym1wZ0xjR2RaT1JLSnpfYUtUS0tVQjVNb2J4dEZHMHpRT1VUM0g3SUczRXfSAbQBQVVfeXFMT0J0TXRXN2RkQjVZZlFEY0xJbTR4UUFBOFBZYVFGQU1wUjh3WEpLODNSdmU1V2o2Yk5DeXJYbGJOWXlxempaSk9UeHc0enpuV21QZkY2OHhVYUhUY0dKUlNhekp5YVRwRWRyVVNhTnN2V0RFN3QzcDZMTEhCRGFHZ3FwSmE2WGUtdVV3aUdzZDYyQ1RRelpXeW0yOGZBVzVIRVdSd3doQzRoWnlYdWxRakhSSFFY?oc=5",
+   "published_utc": "2022-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TISS, Maharashtra government sign MoU to boost employment, vocational training to 15,000 students",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWVNLcHozeGZDQVo1RFU4VjlVZDNoQldiUlE5T1RqU1F4MmFlQkYxeG43bTNJUzk3M2g1bzg3Wnc2M3B1X2dmbEx3YkVaay1RWXRIZWRVUEpzMnNCRUxPT0stNU1LSUlrODhyTW1VaVhjQkUxdk1mRS01OVR1NWxRRmNBTjhRaFZGS01VVzNDcDNKbWR0VzJvcjkzOVpnQzNrNHhXMTgwUFowWEt4TGpCcVJqR3lnVHZodFhib1FpRERHQmFMUTAxLVRQSngtRjRsYml2S3FUMUlMcGtzS3NmSVl1VXJPelpSVTEwMHlMOGlLc3FvV3FLU2JXSdIBgAJBVV95cUxPcUxQR2g2WkxyWU1vXzlUeno4T2tOYnRuWFM2aFVDbm95cm05c09pMUQ5dVpaVlI3RnVkekMyT1pKLTZEWERDUTNyNjlHSERGT0dKcHVHUE00ZUl6ajcyb2FzcWRfQ1llcVdkOEZRdjFOMHVEY1FiQXpJSkpkUHAzZ2dtTkQwVmVCdVRXUm1tMGtlUXZraEc3dHJmYXN2VlY3Y0g0WmxpY1Rmb1ZzTWRreURhZ194OEN4bGhrTEJFSU8tejNqQzVpRFh5dWVpY0Q3bTVJUmg4WWxOTjM1R1JoZlZ3WTV6Mm1PY1NjUThwQTZXanF4SDJCbFdST1VYWmVs?oc=5",
+   "published_utc": "2022-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI helps save over 6,000 at-risk heart patients in Maharashtra in past 2 yrs",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZExTN3l1MElram1SeWlqY0ZsaVRBMmpYOGNOSkNnU1Fsd1FzU2ttajd1S3dJd0RUTG1PRm5OZ25kVEY1YUZhWkpMOS14bElMbF9YR0FsREJWX0ZXbGVPV1l0M0pfOW9Kblh1OUZhZjlqVG1faV93RVNzRjh4S2ZJUjhHYnBrSmh6VmpkVDdBX2xBek0tb293cXdRWVR6M1VVSjAwbUN2c0Eyc3NPYkxPX0JJcGgyUnBqb21XZENFeFJYWHcycmxWdGo2M2NZcHNi?oc=5",
+   "published_utc": "2022-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital India Corporation mulls restructuring to set up more divisions including AI, ML, Language Technologi..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRjBUeHRZRi1LUm05YUxPTl9SRkc2Unk3d29mMS1PQlo5Zng4X2xFaTB5VklxLW44aUhhQVZXVVU0eUFPb2tkTmVXWTBSTVZ6dnpJQTBHY0x4TkV2OG9UTG4xMjFNcnNSN1BhM01zcDdVdUVOWWtkY2p3TW1PdzNuRGxiS21QV1ltYndBZ0pyLUxWZS1MYmxFOFlOUjRYLXFOdTZFVHVBM2pTWnRYakJzdXlUYjhKV3VIQkpuNFR5a2ZIT0l5c2drcGd5MmZ2YVpFYnVOMnFlcDZhVTl5Y1FEaGg2YlRZcGxyalgzWlFXV3Uxb0tWSmh5UTk0Wkd1eU1zWXM0aEZhVVVPMXZIZFJiTHpB0gGWAkFVX3lxTE80Y3d3d194STdVLVhmaEMtX3hyZjFRSm90a3FtanJrWU53d0kwZHJLYUYzb3RFWkZKUGJFa1RDd04zNDY3eW1ReDN4VWEzQ1E1ZXNiU1Y2UGlvaF9NZVNkY1JHZ2JubDE4clg2eDNyQVBMRDZsS0pVcFctQW5TSW1xT0RyMDAyZjUwdW1RLWdoNFR0bVM0T0JCOEVDN3dySjF4RUlUaG1UZkNyN2pFQWZxdXdzSUJRcGU0aXhrTkc3bVZZdnpfWXdjaWNuT2x5bFdMeGhDa1dhVVBLek8wd3F4NldVa1N6VUxTOWxuT0s1aGlXcnlaeUVCaVkwekl5RVRreVNuRXZ0MU1VZ2EyTUVHdkpfUzRn?oc=5",
+   "published_utc": "2022-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Casual leave for police personnel increased from 12 to 20",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdGF3c0g4bTNBUmxpUzFLQlhnNXE4Z2EwSGFwUWZxcVNSeDV0ZHIxY3F2cm1SOC1fSm9uS0hEQy1kdF9kLTM3OUZIWHk5T3Y3ZE9PQkFPY2xBV2hGdmFLczFONzM0T2lKQ2tENERMbDBJb1JKeEEzdUFFNGVuZFV4U0xCbzBMdFh1OGZWTkREVm0yVndzMXlwX2dPTnNPQkhicDlqLS1tWXYtcnFHa003SFJ6d1U3aEhzQjRUZ2dNaW0yTzJW0gHLAUFVX3lxTE5jQXZxUVlmbnFVUE90c0E3ZnozQzd3bnZXU1JvcGxuWFI3NHhjSVVLUFdYa3RKNUJXUnVkZ2l4TTNhNlJUdlZNRG5iYlMyTVhIcDFsQUhvbXFwLXJVcjFJTDl0QmtOay05QmthZk5TRTRvRmtBOXh1ZEJCZmxJNE5WaWN6TnhueHZ5U204MVhtMWNQV2R2bm9QWk54VlFQYjFuQVAwOFltY1dWaGVZZ0Z0UXg2VDhJMTM5YUtmNlZIejJ1REV6TGNZWHFZ?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttarakhand education dept launches e-governance portal ‘Samarth’",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmRwWS1lNW9yNEc2d3o1R2dVaGNZYjY2bF9lZHRkdnpEMmh6RlFTQjJwVWd4WmJHOUhINlJ2S09iTV83OXYyQ0pLMlpsQWYweWxlUDBwWWJNR2ZmVnd0dUVQMlNZa3VYUV9qNnFEV09tRlNEa3QzTDZRamtsWTRBeWRtVGNMSHZWUVdZTGZkRk9DRVJKRFhwRWtKWEFjbURSRDNzZnp1Q1F2VGtDS1dqSDJpMkdwd3JqZTZ1TzlTS01iQVYxc3EwNlAybUJtc1Nw0gHUAUFVX3lxTE83dmJxSmgtVkd0Tm1WMmlwQTBTbHZ1UWc3YXpsbEN2bUpmS0tjdnJ6c0NkcUpfcDJkTWtlWWFuOEJCVXhUdDh3OGpQS2xheWhvTk53dTlKR01Id1c3NjczRDNMSE1KM1MzbkNmQmxZRkZVVFVrZ3J3bUFPb2hHZmY3Y01RbTNTNE9DYmVmZmxDMl9heGhHN2VhTDViVnhZbU9qSlBHUzZPM01hWW5wb3dpSFFvOHFQdHlSczFYNHZzTm9tRTZYOF9oQ3NqX3RqUVB6RFFn?oc=5",
+   "published_utc": "2022-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "To reduce burden of non-academic tasks Maharashtra teacher develops digital platform",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRkdlRU02Y1NpX3JSWWgyWXJicDZSekJfZ0pacmhPTThhZWdYdHFVLTZkcDlLel9tMzZURVVPOFBsZW5pMWVJSlduSTkzbnl1N2pMUjNrMnpoM2c1UmY0NmZjbHBnaWI2QU9nSHdKSnU1Q1VnbkJ1S2hsWjM3RXRVaHZ2ZGlucnN5OFdETHVHa1JKclhPLWdmMnhjTTBRblV0TDhBVUJGaGl5c0Z1V3c2THkxRTBzTWJyazBFb2tRUzVaVVHSAcoBQVVfeXFMUHEwS2wycEJpdXlMNGhKSndzSXYwclNDZ2ZZLVZqOW9rSW00MHFRTWRlc2JSQXlnT3VlLXFKMUcyN0V1dk5xR3F3NlItZmUyamNjSHhkQUl4Rko3RE9HZ2NMR2dBZUFqSXk4ZExHMVhPS0tXN1ZTS1ZrSDRFUDR5SFZjQWdzUHN6YlFtSlRxdDJFaVJHS2VJYXNWa19NYjFpU1RFYTJLRzNzMlhPYmFqTk45WV9yc2ZLSXV3elNtU3FFTTJTS1pjSUJydw?oc=5",
+   "published_utc": "2022-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra village school becomes a finalist at World’s Best School Prizes",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFp0eHlad2xBZ2dXekdkcTBLSTBuMlptZ2hjWUJEYUhvMWlPbkZ3aU1SUzFfS2ttYi1JdUVJeElYc0M5QVctalNKOU03NTlCWDRhMHY2WGg5RU1LNjdtOVFqWFhuSGJWTG9QbExNdU1vTWpyTDc2UDBNU0VjN2QtdDJXZTNSV3AzR1o0YWhrMHRWOFdNQmUxM1d5b3laeE1CUmdOMjN6M3B4ZHAyMUp4aXJmWG0xQmhZakY0U3JYQ2ZmSkVQX2fSAcwBQVVfeXFMT2dJcWgwUHBlU0VaaTFxdmVKUUZPZXZUTGlObWRiUkpXNjBPS2Mwa2VkSVJ2d1lRS1B0dmZyVl84QTFIMGlBTTdfTGhPaDZmdzBWRXB5YnhkRGluZ3FHU1pEM0otY2kwZ1lnMF9GeC1rN3VPajRyQlFJVmQ4OUtldm9zVkozOEczMVhRTHhIQUhQcGh3UXUtbGRzOWpPU1VmbFZ3N0VLWXo5S2plVFFXb0hpQW1NdmZwSzdseTVEVmtERngyOW8tbFNCcWVN?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Vedanta-Foxconn, PhonePe to exit from Maharashtra, will move to Bengaluru",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXR0dlZTemRuVjBrc2IyaFFySFNic28xejNQQlJnajNwS09Ib3gtMk5FQ1RLb3kxQ3BwRTFBM1IyWHVZa0NKN3ozZEJVOW5uVDczVFEzQi1zRkw3MkhwMEp0eUpSWWhEM1Vidkxyd3I3MHVGZDRaR21MVnBzT0w4dzQ4MGNRaEE3SHVOcVdQbDdLXzNyLU1XLW1ILUo0ZEFLNXJnS2ZfN2NsMEdyaUx3QmFlRnpaWDNZQUHSAb8BQVVfeXFMT3gyNklyRVgwSHcxU2Jfb0E4X3dEQ25wNkNKUUlSczlMNktma0g0blVtRnlHaDFtYUt2UjV6b2ZSb2JBampuU0RzaVd2WlE3OUtZSG5pQTlJQ3ZsbHBJOFV1T3o4ZkwtVUdZYXJMZ0VxQl9MTXUzYmJZbS1lRWNLb0k0RHdyVGRSMlo5cTV2U1VXYjdjSzR3VllwZE55dnVVb01McnlUY2J6SHJtZGxsTmtIcl9zTUsybkxuTW9ORHM?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CISCE U-14 girls’ football tournament winners manage studies equally well",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTJRaHpoT3dNWWh2TXlBa1RXeFhpVjJjR0RMYkJDZ0FTTTJxOEVzc3ZCVUc5TkdQQjF0bEYwdW1tbDByWVRwRjlnODBNRlE5QVBRVVExWHRuZ1NieVQyRnNuY0NUNDY4dXpUNzVydnB4X1J6TUp0eC1oTkU1WGEzSTdHUXdWSWN3M1NmVWkxUzdYNHJKT1FEaEdPNERYRG1faFJ2ODl2cGk0ZFNTY3h1dTh1Y0_SAboBQVVfeXFMT1R5Z2ZqM1FJbF85QmlsWmVqejBxSktlQ1ZUNktHU2FCQUxJX1lkYWRIcm5rcU4wUnVxYVF5QlFPc2U1dU1lUmkwb1ZaTTBGSlY2ZE5DU05Vd20xME51VjRHYTQtamkxQlFxdHYzUC1TSERBWVhjajVUbHpsZjQ1a25GQ20wUUhsYUZMV20wc1QtZXMtZmRjQzZvNmJwNGRmTFFVeEhJVWVxOXgzZjVrbEdyb2RSc3VLdmV3?oc=5",
+   "published_utc": "2022-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

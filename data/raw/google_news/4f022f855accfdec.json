@@ -1,0 +1,45 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "AP government paid Rs 185 crore annuity to Amaravati farmers",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkttU2xyRVhUZERaeDdsVWxJS2JLUGplcDZtVmtDWXZSWU1DX3VLVG5tZU5UZk1adVY3cFEwdmVTeTg2M25EU0g3S1ZJWF9VSk9SYklQSVFOS1dtOGx0dHJ4Z3ZkLWVzbDdwOGtFd2tiMWR5YjRJSVdWRzJBU21CZ21TTGxCcXd1X2tYQ25oMzlsTWNEajdfZ2RhWDBOR1pxWW9kaUJleUh6dVpNNzVYWVM0SVZWV2JBRGh1UtIBwgFBVV95cUxPSWdtaDM5VWhuTmhqTTBYYnhuUXpFOTRnWUtOUXhESGhlVzVDeHNsMXlDdVdBeDZvRGF6M2tYS1VvTE1ZNHdzYVoxdUl2eFNNRjB3aWdtWTVxaG1sOHd4aEdaRFR4VkZoVTZQMDhzY0FoQU5mOEFiZ3g5cFNDRGJiMWs2S0V3ODRRNDkzc3doMmx3eFhiR2oycDhaTk4wU2JaN0tXMENSa1NKZjBuN1BNbThlSFNiS0ctSUp0dGdWaFZGdw?oc=5",
+   "published_utc": "2022-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra's coastal city Vizag losing 4% GDP to corrosion, says expert",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdFhmeDhNb00tR2FBV3FOeUVnQXBsWXY5cTNROXd3X0N1enF5d2htSkNOZkhZMGp6T1ZfcXY5YWxPMTVla3otVGJpSHhHelJLTzREbFAtSldacnRuZ185REU2Zkk0WmR6XzBUc19VQkljdDdnUXhHMGhMczBqaEtBZDQ5cU9oeXYxb1R4dWhWd1J5Y3ZVTzlGWkJOdHkxN2hwTnd2cGhYanFqQ2J4NkVNVVdCTDNvck1CNk11YVZCMDlQcThJd2tnRFRTSEpHb1RfZUHSAdcBQVVfeXFMTlRGZkVPMEZxeURISzlGRllmRjRhQXdVOEZxQWRjTjVYYXFQTnh1UnA0RUlnc2V3Q1lPV05TLTl6c3plT2NfLUhUTHlqT1BFazI0UDNzV3h4RWdPR0ZWWGFMQ0wwcVlaVnIzdXJMdERzNHpqZmU5YkUtekxNaFdXczB1OVVrUldlbjdLSVd5RV9WOVFTM3c4STl4NlZVaVlSVmo0bnM2eU1QdS1wd0VFMHpIVXljZTdrVXRTSzVqODhETHF1QUVyR3lmWXhycDNCUnhhZ2dMaGM?oc=5",
+   "published_utc": "2022-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Government Distributed Power Transformers To Farmers",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDJPYkFWQURIU0l6Y3ZYWUxBcklfMkRnREtLTkZMY2poVXdtRjFwUTFIaWhyNnNRYzZPdzk5QVlVSDlnQ3h0LWlIaVZ2bjZQb0xoY2xlNlNOV0hTXzBjRlZGa0JsX0tZZXpBVUdENm5JSkhQU3ozTnNMMzB4d09RS3ZZWGtRal9mdWtUTWxQNTFaODUtZHVLYlpPckJRakN1d2ZJY2k1aVRON2ZZR3lPcNIBuAFBVV95cUxQeW9TbGhyMTJzS3RFQ0dBYldwVHJQdWFaTkxlbGNLRXpvNGRVaXNNM2V5NEljNURKbGEwWjJwNmZwYmZOVXI1ZklQMC1FNTA1ZjZtMUphMFNKZjBDNzFGZ05IZVZhRUJUczlzb2JLTGtwY090WTlXZWJPTndORlBMeGpHdVhnclR3NmtZckFMVm5WYjJZeVl0cW9JWnRaSlQ2WDNTZGFDOEs0azBKYWZjN2taMDZmdmZ1?oc=5",
+   "published_utc": "2022-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP to provide tabs to 4.7 lakh students of Class VIII with Rs 500 crore",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzZUVzBFVHBuRFl5YmtuMnhNMGhva3lzVVhIeUJTcmNWXzFqdmdPUGp5WW5TWjlCX3FfV1k4SjNBcFJzd3BGVG9wZHduam9yZTZhMm5DYm1fUnMzNm1sWE1vU21uNGxlbDBNSzFfSkpXUXhTSjZBNzFTNV8xdFRGTFVvTWFZb3UzZTNOYWZkNmZ5c1hDaTAzWkVzbWItbXluNFlIRTRKWG85T0hXXzRVQTNpSi1RUEUtSzhUcFhzeElmNm1qX3lIM2lkdm5VSjNqRXfSAdcBQVVfeXFMT25YZDNUMjloWGRYSmtWUEZOT0MySERPX1lWNlMta3lOSHptMUxTV201UnpKM1pSWTFTYjFfRXBGYTJhRk9KUF9yeHVWel81UmgyejZOZUR3SEQ0X2t5cVhLb0JRaTZndi1CU3otX0p5TVdlekRSZ3VqNnJtX3ItZ1hpM19hd1lFaDNWMGNtRzdSVlR4cWJLa0tyM0ROLU03SlpJTDNHZC1KQTZ2ajJqY1NoUFZPODJkRlh3a1huTXdDWFA1eFUySjRaTmM2WmFWUnFRSnF6ZnM?oc=5",
+   "published_utc": "2022-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh releases texts for six Girijan languages",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTdSMnQ5MlYxakxvamI5bUtrbmszYW8xXzZkWWJoU3hzb3NQU1F1a1dLUkViQUpOMnU2dzlSSTNWOVQ4ekJJZlQxMHFqTXo3WkZlWE9scmJxSU0xaHhldTQ2N1ZLVDhYdjhybGF6cXlaSlpLMlNIeVdNRUNqVF9pLTNpS28xTmFxMEFUTXRDb0JYSmFGNkxKRlJGbFV4TXpubExTck0zLTVQQXBvVng5dENxZkPSAboBQVVfeXFMUE9IOU5rdHJaYkdnb1JPNnBUUHNXVlRNM08tTlpPaFR6YmU1THdqeVhydHJRa1k1cUMxSGZkblZWaFR0dmptckJDdjh4ZGFYV2lWYTBYOTJHNkc5QUdJbG10T25KOUVsRkRxZEZvblRuT0JFZ25UVWhwcUNFNHdxNk9GMGxITzZoczM2RmhJZkFOYkJERXh5OUhnRVJkQ0pCX2xjYlNyWlZRdFBqaFFTbWRKc0VZbm5XdUd3?oc=5",
+   "published_utc": "2022-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Maharashtra to come out with 'State Blockchain Policy' soon",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2ZXVU1aaU4yMUZKZDdwWkpUUktfR2Y0UFdZcm1PTm4tZ0gxSU53YXhkUTJnZ1phXzA3S0Vrb1hETUI5c1NlZTd2dTVIaDd3eFdvTWsybWVFcjZybExmMkJDR3lpVlpFRlJ3azlfenk0d3pfaDRXUmc2RmpZbmxHYmFMcHhNOGIwLVpKNWh2UWw1WWJMRG5mT1lxSGdQV1dXV1VHMmxlT1dHa0FOdG41anJmX1ZnUDN1Tnk1d2FJd1dBNDVvVFF3em9B0gHOAUFVX3lxTFB6ZUhyUVhBeDdUeS1lMXA1S01vYklrcU96SVNQMWZmbFVnVXB1QkxFbFVmZDlYVTFLXzJNVFhVbkhNcmgzUk5zczhScFFqdWZaZE5SMnNtc3FWOS16bFVYeU9hQ1FiR0U3WHZGUXdPdnZyZWlza1BhRV9fWHoxUmhzRmxfUnR2Z2VqcnZpZTdNZi1DYVZ1aUVwakd3X0xULWt6Um9PbG5MWTNxWVd6cXAzcDBPcEZIdE0yT09ZZURtSVJiR0U0ekNZOU85U05B?oc=5",
+   "published_utc": "2022-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jailed Maharashtra Minister's Multiple Assets Seized Over Money Laundering Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmhiNmc1OUVFUi0wLXp1dHp3dzdQN2NSTEI3ZFN4Q05VOHpaUVpvZnZkZ2Jyd1hFclByR3pfcU1ZeVVGWmJVRVppdFZpVWpTTkRabWVfelNBaTJSa1p4RlFISmxpTlZYMFZiM1ZCSWZiZHVvOTlLSmx6VTZhNWcxdEVTWVAzNDhRemZfMUEwQlBJU2hpQ2JYY05yZGZ3bkx2VjFmamdzRDBVYVJ5TDFNOUlqWHNKOVE0OUwwTk9sRkowOGJUdEN6Uk5n?oc=5",
+   "published_utc": "2022-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MNS chief Raj Thackeray tells Maharashtra govt to remove loudspeakers from mosques",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYkNuVGxFZFE1d1NFekd0VmJrdERvVjBkTU1DMjdCekl1a3dRV0JSZmF2emptaVMzOW1POU1lUldzTjdaa0VDVTNCbHEzR0ViRG5Hb3RoNllWRERDU0lNSi1lNGZnVFlic1E5aTNqbGZOMG1zcS0ySkJUMHZGVnN1ZGxwMVc0amEzdHEwMDU4OXZwRFZHRlhJd1RTeFUxdEM1MUdBWUViQnpRdEVuQkJsQWVWSkpTdlo2V2dmTmRKNEVEeTZBTnFVMmJ4QUZfQWpURXhHLThGZXZzZ1NB0gHiAUFVX3lxTE5fSXNUcWNoMUt4anZlWEhSSzVkZWVib3ZnZHRGdDBMQkt1QVRncHNTRm9CdDgwUHBWN0R5Z0x3M0VvT2FjdHBySWdYME1wUXhLTHk3WjBOR3BlRjQ1WmNHRmlzZW1PYUJnWl9sYnl6NDdibk5WZ2lNV2xWaFBaTldxZnJuZm85Y1dYT0pySl8tX1JmRVVib3lYcHJ6bnJfTHk2Sl9waU1aQ1hyblVIZGJDeXJwVzZSbmkxMTlhMlJQUHpaYmQxTHptUTB0ZGxtcFhJRjVZdFJiQmJ4cVF0YU8zeVE?oc=5",
+   "published_utc": "2022-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt gives nod for underground Metro from Swargate to Katraj at cost of Rs 3,668 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOE1USUdDeXNCSDU5emRyVkdDMjhkanZxUFdtWG9uT2ZSOWt5eWt5by01RzJZR0xfUko0aWVvRENlcXNnbkVBMnNnVUN0eXQ1bzh0NVA5QnE3QlhVRi1Ha25SSXFLVVJ4ODR0UUJDbGd5dnJON2ZKSGVoTE9iRVlqNHk4Qy1sYnpTYlUxbEVfbU1NbmpzZWNkdHE0ZWFmV3A3alU2cnY2eXM2YndJbXRERmZfazlpRlFuZFJWYmFTOFVzd09BaS16blpqNUNSZnFWaE9UdHZyMW5WWkF4SS1Z0gHmAUFVX3lxTE5zY3VCemsxWXB1RlpYQ3hFd0RsYUhaU0p5c25KLWZfRmV1VGZWeDBiMTI5VTJpdHJRNjBwOWliQlNPaVV1RE1Yd0FCbXlnczhqeWRGaEFLNlZRdHBHQ1AxU1BUYURFUTVadUt6MlBpczBReVAzRHFYa1AzZ29vcWtxUERfbURVNm5WeV9WSjdfcjhNMTAzU3A0MHlhSS0wRHIzSzVCOU11MUZ6TkxYZk1rV0FMM0xHSVZ0MmNzZG9oNkZWd3pKMDNReVJ0YVdLUHkzNTJpVzhaODByaGpSM0dWX0VkLTBB?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Panchayati Raj Day: Maharashtra govt to hold Bal Sabhas for children in villages on April 24",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOckUwQ0loMVhndWdGWDFpZmdPN3IyZnd4ckNFUTUzSmxFdmVsbXhkRThvdzBiZng1cHNIZGRVbVB4SnlJLUNHcl9XLVJGYWlwci1DdGVGODBkaFJEQmRZU0tsUDAwbDNzRFV4dnBxRmVMOTctLXc5Q1M5cDhxQlpnSzY4RkVOYlVFX1p2cUdzWFp4aUdVaTVYR3plQ1FDWlJWeWN3RE1RUDdwa1dxTWlld3lZcEdCUm1ZeGJiWW5OVVBFM3hLSkw1cS1HWWhxNnJ0N3fSAdcBQVVfeXFMTV9YeVd6OGVlM3cybF8ydzNIZDQ4dl9uSVpIa3kyTm1BOHVBYi1waVJUQl9kQ3VRZkNLQzhpS01GWmp0OVlockhTdVFjeDF2dGxwaVdtQnpVM2UyeVhBQjJmMS1hMjlDZEhPTF9OWHlZRFhtS2NxTVpTa0RTaW9adVNzWl9aSUk1TnJlZDZ6ZjAzSFlTQnpvNF9oaG96SUsxdlMyV1FEY0lMXzg4UkY1S2hNR3ZzSktxNU8tMEVkRi1XZUdmUjRlYlhVcnJULWZWZF9BXzFXV0k?oc=5",
+   "published_utc": "2022-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Krishi Vigyan Kendras to facilitate technology adoption in farming in rural districts: Agri minister Tomar",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPeUlvWDBfTGI4eTRjUFdITEkxTGE5NjNfbjNkeDB4S2NZZEY0eGhueG5VUFN6Wm5paWtaX1ViakNpcHBvRGgyM1FuY0VRY1djYjkyWTBDb1lteUhWWDRqcFI2LU5fa002WDBqb3hQZExJY2RNdjJkSkRHYlN0TGJpMF9GWTJ0VWpsTXEtSmdPTEZEeWd6eVludTl6V1ZnZUdWdF8yUGxtTGJXWWR4Y1FPcm15eVNpSk9qZVA3YlRXc3duN1JJNEZTa2lZQ3M0a3VaZHpGMlotZUxUblFGa2VudVhmaGxYSDB2Qk13RndJSDdmbDBLTEpGa0xkeVFkUmV6SE5zNUdxZktyaUxXRjlOUTRkMWFtUFXSAZICQVVfeXFMT0tEVy1YVmloQ29OTEdxWm5CTlZXM3B6cEE2WjFfUmowVTFrc1RzWHJuOVdMdDZEb0xZMGZqTkI3Y19WM25xX3I4ZzRaQzFxQmpVVmdRQ2RTYzJxLXJ4Um8wLU5aZ1NZeWtWakREWi1FbTJqaXYydUtOSG5DLVFwMzFNSjBJM21RbEVUV1lJUWRmeTMzVWtqYXJ6eTM0RmdVM1Z1N1VDSnU0QnRjUl9jbTJtaTRTUkcxQmJiMGZ4OWJDMC1PR01pQ2VIVTZVYkpHQTlOcE4wTzQ3MTJrZ29JNDdSNng2UkNxQU0taUFzLWZJNmFYalBZOUF6UDhvYmlWVjBuUnktdktwdkVqR0Q5SUFpQQ?oc=5",
+   "published_utc": "2022-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai: Cidco seeks Maharashtra govt’s nod to implement Kharghar-Turbhe Link Road",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWpCT1NKTnFWOE9CWmxhQ2Jqekc0M3piTDFsNzNFRWlYZUQ5enVtdDk5QlVEVmExNkZNREtucTcwMFcybXZtamY0OUszVXJjVjBZRWMtUnVPNUlwZW4tZEVocFZ5MnZyWVhDVTZyaGNENF8zbXhWOHE4ZWRnT3VXR3htSEM1QkRlRkRsbkdJbDZ6UTdreWJDQkJ1UW9MeUFuQkHSAagBQVVfeXFMT3FOU1BZcjB0Q3BicUhSbDN5MXBscnRlMElZbTZFd0ZxVW1XNXhvODdqVjNvMVh4SUYyZW9QTW14N0k2OUltb3VnV1U0eUFlenM3NTJ2bnh5WW9kbUx6eFlFVHlQUS1OZUc5ZXpQcUpaM2hkak5BODNib1lSdURxSjJ6R1RNaUpPc014WEJ6S3BtS0FvMGpVdEp3WjRVZEFxWGc2Y1FsUEZa?oc=5",
+   "published_utc": "2022-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Minister Nawab Malik's Jail Custody Extended Till April 22 In Money Laundering Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEo3SGJMTm5OTmY2R196Z2JRaDV6OEwzWGtBV1hmTHRHMEw5RzllWG1CaUJ5c0hqcXFMRVBGcUJxQmxQNXM2dVJMSUI5R2JxN0xYblBfLS1tYWd5Vk1JTm9ZazZsY1JvYm1xalNKbHFOZjI1TkJtTC1LMEtncTNLTmpZNEUxVHliRXV5SF9od09aYTF2RmkwSVc3X3R2VzZWbHEybS1Hb0hMMVQyMG5QQjJJZE1ES1lnQ1BDSGgxQ3QzM3ByNjBELTRNZ0ZlcFk?oc=5",
+   "published_utc": "2022-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt committed to empower Maharashtra police force; over 7,200 posts in dept to be filled: Ajit Pawar",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeVAwYTBGN0lRUXNxUFVGRjllczFtblNpcU5iZHBfTWxIczBhWnV3NnRIY2hwUjlJSUZETU1sbFZqS2x4SlUyTUxPak5xWFMyVlRNR1QwNktQUTB4NGxta0k1UHpQa3VIZGx4UXp6N2ktZ250TGE4S0c2R0hxeUFLOTgwblp0X29YNmZ3TnlxV1o4V0M3d2E2RFU3WjYwX3pfYUJhTlFQeWU3R19nRVR4bURDMXk5c1lvaGprdkhWa200dmJnSG5RRklJWFdvaEJtZEFwNHNwN2U1NHB4U0RtTTViRkpNN0VkM3lFNWJRX0ZIRk930gH6AUFVX3lxTE13UjdTUEdZTEpDWElJZWhUem54aHFKTUNlYkpWdWg0ZlRoMTBPdm90Z25ReElBM3dDX3k4ZXFaaEl5bEVqby03UDY3SHpnbTdWbzAyWXFaYmhleHhEalY4VTU4eW4zcVBLZDJxNXdKQXJNUFJ5SWM1eHcwWDJuRmVRWnBmWTZoUXo1ZDVTc3pEdXdfbXk4MHdoc1JIOEVtOTBkRVliWmJzYUZDb2tSMjZwLWY3YlNSQld3RnVuVjhlQVdaLXVOcEswRldfcGU5OTdFa3dhQnVVVlZwVXBOUHdGdG84VHd5WS1MajZUVmJkcTQ0QVJKWGo4aHc?oc=5",
+   "published_utc": "2022-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-Indore to assist electricity dept in using AI, ML tools for theft detection and smooth power supply",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZXUxd2R0Z2d5N3dVNHhtcFloQm1qZ25XMzBiWHR2Z2RPN1N6REFfQnN0RUNta1kyZ0pfQVVseVFPYlpQTkc4Vm1lMkl2aFNOc3Y5eGtWVDBlV0Nlakt1djNjb2VLNWlsbWlDdktxRXV6S2pueWtaQTU4YzdnTlNtaHVNRDd4MDNuMEhtblNxd1pmRVpOR3FTS3F1RTJmTXRxQkJpWGswRTdQbmhUdjEzLWhWUEpCSmRDeUQyay1YTzZWTTl3RkFjelFZV1NZN013bW9BUlVBVTFYbTR6QldWOENhUmlueG82U0Y1VVdnSFc0MFlIdDlWVlg2S1ktNDhqWndpeNIBigJBVV95cUxPR2FuN216WW92SWRJYXo1YTAzT2UyTE05Y2FfMW5nQ0lqUVhBRklMeUZxSTJWZWczUGkyQmlXVEFjSjBGSE8xNUg1ekNGdHZCV2JSOGI2dFJiWTlIMTNuaFVDT1BpSWpsNEI3c01jcXZIbDdMakNFWWpPTGItdENvb1J1d3MwNFFmREYydlRxaDFSc0k2cDBwWHpVZ2pnamwxbzl1MGN0UXpueDBVb3VTZEVOZ2NtZG41amR6b2JmVzNseHJpWXp1aFozMUdHMkhpcEZjYURtMW5NRnE1Sm43VDYyVms2elVlS05uaW1uaGNKbUk2OTdkRk9DR1lhRER0TS1HMWNLX0VhUQ?oc=5",
+   "published_utc": "2022-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

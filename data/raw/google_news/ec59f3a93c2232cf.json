@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh government signs eight crucial MoUs with IIT Madras",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnRHOGt2SkFZS2xoTmNTUVVGaVR3d2d3eGY4ZGVxbmVXd2IxelJzQnU4RFpSc3lWY0c1RHc0Ym1zbnFSVndvLXRFWEZTejF5V1ItcVN0R0hjWjdQNkdkX2dDemxxMUJ3d19Val9QeXlzRGFDSHM0M2FNUC1nMkpDbVFCZHdmMjdxQ1pqajhtelpQeExGVWNET19qcUhEZnpPSXkzV2VVUmw1QjZnOEhYeGt1eDg2UmlJS3Z5b1RjaEhOMExuZFlYbkVBVEVTZ9IB2wFBVV95cUxNdzYwUEVPMEhfbjZjMERWVEE5ZTVyLUxXbWFpQjEwbFp6UENxUFZTVTlnbHkyMlpsVnVZekxCSDJhLWhYTVdmd0JsbXRGMDlEaGRUUmpVb01YR2xsTmF4bWFJak11UTFWaGdUWTBLaTRESjVFVDFpVk5OekQ5TXpoWGhyeGVTUnpJRzNHemk5U2tlLXNXMmg1UWk3XzRCQXJKYWVvemFqbkRYVlVwVlh5b3ZpbS1NSzBBVElGSFR6UWhZZk8wM3JwcWFFekEzSGRPeHNGQnZ2X2xEdTQ?oc=5",
+   "published_utc": "2024-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A.P. government signs eight MoUs with IIT-Madras",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFdKVnBlSVI2Sk1NTWJmcW1TT3Jvc1dxOXRPbVBMNHFsOUtjb3ljcFNReDJiZ1VHbEdpcDhtTFdGUmR5akIxYzRSeGZRY2RkWENpUTFXZDgwQmhsM05wWEwxQURzX3ZvQ2hVS1kyMzR6ZnFJY1B3Uk0yc3A1MEpHaVo4VEtOZDFzMHJGR0RQeHdfdnBJNFJxZ1FMc2h6X0w3TG9zWjFzQnM0bUZLVE5WSU1DVXBTZkdJTTM1X9IBwwFBVV95cUxPSEJoTEpPekVsVG5SRXhCWXRIUFhwMXVUVDhrdUo4RjNXR1BraGRCekdRb1J3RUFmMmJfRU82QzBSNUh4TXc4MkQzNEw2YS1HLWh2SGRKY1o1OF9NVnpqX19SZ2NpUUxtdkZ2VS1uR0FfLUdzSXUwRDJNMDNqNHcxMkNpdl9ud1BtUVJRZXMxaFNOWWhjVnlxQlhPa0ZXZVRIdVJyRkU1SWJDd3Q0R00xU2lpc0djQUhqdkdZckdPc1dYdkk?oc=5",
+   "published_utc": "2024-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP emerging as hub for startups, manufacturing; soon to have AI University, data centers",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSVJRVDRQcFl4a3pONmRlQndOLVdKVC1KNGF0eVdUYUlHQWlZaDFGQWwwMERUZlJrcGhHOEd6ZVV6eDBXRmdTZ3pvcmNnaTJaZEFHVFJ2dWN1SFJLWUZxNE5EVXFxM2xfLWo1NVhqTm5YcDVNUkFmdVJjMTY1WFFHQlRPVERYZTRaVE16dWFISFh4cHJ5UGJsZTR3REQ0YkVPXy02Y1RyZ1Q3TkxaQVBCcUlDWW9od0xWUDBjTVhzUV9tQjR4WEd5MnZYMmpyZWJaU1V2SHh0WDg5RU1RTlhpZHJrQnpoVjV2QlF5ZDl2SkVZQdIB9wFBVV95cUxObmFZNVg2dDVGd25EQmN3U3lUQXZIZU9EdklNd2hSM3hIS2s4ZjZDSElHMnZ2azV1azFuLV92RUZfcEQ1X2szT3l3MVZ6bkd5cVFYZWJ2ZHMtbjIzVHhJTWZRZWNWa3l5WW9Kc1Uwa0lwWWg5NDdiSXo2RFhXcklVSlNmOGZNb3FBYTM0by1KNG9NNGtLWUI4SEtmWUM3M2xFdlRqOEFIT0YxSDljWGpWXzlkVlVwTms3SVZKOVBCcXR1Q3ZCRnFKRzY0QVl6QTBSX2t3STFlaFNiUGJaRXZwM0s0WmlTSzdoYzBDYUxBeVZsNFRsZWVv?oc=5",
+   "published_utc": "2024-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Minister Chairs NTR DRC Meet, Focuses on Public Issues",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUXFTenRrVEx6MF9iSTFZVGs3eVExUTJ2bnI3eE5BM2ZMaGFWazBPRTI0a29tNy1aZklVNFlEZmplU1VIMFNHZ0dieDBBd1FNbHJuRlItMG1sRTZ6V3l6QkVFSjlnYjlZRFMydHhRc2lxZ3hGNjRxblhCNUNDRndJcmxFX0dEcWd1SWZDYUZ1T3lJQ3hhOWhqb2wwYnJlWUJoNXBoYjdGS1NPSkJQbTBJWHNzXzdVR01iVkpFQUtnSURUVTJaUW9PNTVlczZNTHZIVDFOUXhn0gHbAUFVX3lxTE84QVVkcVNCQXd3REx1MlVMSUtxVFAwTkdza1lFTUF0NV9ya01EZDAwLURrOUQ2VkpBWGdXZ2YzRGptYnVTQUdDU3NpT1lyTkZreW80d0twLVU1YzJqeDUtSVFuZWVpUl91SWswSS0yNl9MZnEyZ21MQTdTOUM4UDE5MU82aTQxWkdidFZWVmRTV0RveC1yeWpNbERxUGNaVTRBWXVYMTVJa0I5cjlRQ3FScjJCNUstQUxHQUdaa3JMVUpyT0FyZkkzWkxLM3RNVkRObGtGRjQ2OHV4NA?oc=5",
+   "published_utc": "2024-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt to crack the whip on ganja cultivation by deploying drones",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVF91dmZPN0lHOWNCWTNaZXpKVFdXQjV5Q04xYTlEcHhBRnR6LVl0M0Y0dE9BZ19WODlyNFNKZTB5bmxtZF9DcG01WnY3V09nVDNNdkVLWUpSRGY4ZVQ5RFhXU0ppbFNmdHpPNHVkVXFvVGdFMTdvZ29KT25udFZsTkF1VGJiN1pBbDhFSURicEc4SW51bmc4RQ?oc=5",
+   "published_utc": "2024-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Andhra Deputy CM Pawan Kalyan is going after home minister, shaking up 5-month-old ruling alliance",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFJFY2tfT0tKWG56NmxQWm1xcFZEOXVsRFJULUlCbGFhc1Bzc281b09hVFlVQjM2SEVNeG1tcDBCdXlEQjIyVm43MmhXYW1WOTVWZk9Tbno2T2pxNlVIb19pVXNGcUxuOS1HQ29XLWVad09MYVpTbzRjYTRvdXk0bGdfNjRib1V6c2JMRmJpdGNqWGoxeGxCY25CRVVUWHlPUVMxYXQ4cG9qeVlTUzl2UlNnMmpadV9kcXQzeV9DVGNjWno1X0FLcXdlRkktcjh3NGZpbWNn0gHbAUFVX3lxTE5fVjM0bE5XX2VsMVFISWVFclViZkFLLWN4ckFaby1XODA5U3hQdUs1WFhYdHdYbDA5MTlwdTJYVGN1dWtMMi1CV3F2Y2hUYXQ0VUo3M3Z2TlZQOE92YS03TnMweVRybmFzam9fbl9oNzU3OTZkaXJMejBlUWZKOU5mN0RDdFl1dTlNU3NDMXJaS2pUR0RLbk04R3pvbWtDWERmODhrc2UxbDN3OVFJVlQzYXVMMUppLUpkNjJHNVZqYUJVS1FLQXpUTDFOa3JoZnRmV2haM3lza1kwQQ?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cabinet Sub-Committee chalks out an action plan to check cultivation and smuggling of ganja in the State, says Home Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1FKaXZqUThxMXg1Z1lkLWtJTDdrM2JFM3BXdnRyNFRYOGNIcXJWc2NsUUxMdU9LRll3Q2NIWHJveUZKbkpmLU5GZi1YM0N6NW5nalYyb1oxai1aLTlxN2lBbTRHNGpQeHZDbU9XVnRIS2xSMnl0bkJhMHkzRExac05WWUpHbl9IOHVNdkJHSURUZnE2bkFkclV4SjV3REhiTk45RnpGNWN5emtGbFlfRkZSSENHdWZNV18xeGRiWVJlcW90WlJmQmxiV1Fka0tLNVpfaEE4ME9WYjRiaTdTUjFKVlNvbDI3NzNWNmFlTDJpSXVfbDd1OVJZeGdxZ2RMTEJDczEzR3BoOXhmTDJYSkh4N0J5UkdGTUtHbzZFZkR3elk?oc=5",
+   "published_utc": "2024-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nara Lokesh ends US visit, Andhra may get huge investments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejJ4WkdsOHprS3lza2hmWUJ0dnZDdW0zRkJJMzZTcS1VNjdNSG1HYjZKMl92Ym1nVGpIalIxdW95SG5paGlLYkMxM3MxQzN1M2M3TS1MRVdkY1V0b1YzT1pkdlczZzJ3SEJGUnFYdFl2dm5BUV9xdjlmSGlCQjZsQ0tLU1Vrc21BWXl5UmlsdDRjSnpJYjlxRFVmR1JvR0FGbENrdGJ1S0NlUjBzMlFJczNkMFNYcXBvbThNbVF3Z3FMUdIBzwFBVV95cUxQWUZJcUhqR1YxRzZCQ2dmT095TzZHcDhoaHJlY1FSYUlXc3V0VEl0dXpBX0tsUXhrRFpaSi1EZ25vT0JfTkZma3VlQVFWVGtIekJlWjBvN1BISktubDNGRXU1ZkxWVFpHUU1BQlhjZGZaemZCc0tFSkxYbmgyZFNOWV9zbmN5T2JIWjBHVjhSMUNDVlhGd2JsZmc4WXdUYTNZcXI4TXlfOExOUW5IUG9lVm9lNjFRZ2tsZWd1Rm1zcWJETklsSmY0cFdjMWtRVk0?oc=5",
+   "published_utc": "2024-11-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Minister assures HC bench within 6 months in Kurnool",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT0I1bnpQUVVQUmttcnZ1Z2FrLVlUNTZobTN3NVZrdGd4LTBOaGt3eEpyZkVUTkpielJqWnJUTXRpNml4Q3BqaElSejA0UmJnd1JBellMc3o0STctX2N4M2g3RER4b0dCemFfVVVrcjhtZWI2aEwtM2FlVGNJTmZzN1JHVGxnTlJpQlZXMHBEU0t3TjF6N3VZRnAtQk81ZnlzakUyeWRrZ2paUUo1QlE0VjY3MWgzUVVtMktTaU9rWXFGcy0tNW5Sckl30gHPAUFVX3lxTFBkcnVrb3RuZTFULUY3cWtubE5aZjRuODNySnVkdWJWSXZ1LVRNdWdYUnRoeDdfeXVBTGhRWmZwaFkwNVFid3Q3VlRiZUc0a3VkVXNjamE5MjF6anZjbXd2XzdFRGdwRXI5dFNybWJSQVdSLThqQlBMOF9IV1d2UWJOdmJBajkzM3UwS2trU3FWdjI0NnZiQTdOV2xOenNUdUhoWTlTSGRYNXpIWldMRnphdW04RkRpTGxrcl96WHVBZUNHUVN4aFJSRUV2Z0t2NA?oc=5",
+   "published_utc": "2024-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Odisha government allots land to 13 projects worth Rs 766 crore",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjN5djlGdXY3SzF2aDZuZDZQVE04Ymtld3REX2tjZ2dWYkhvLWxmZE45bk9rbkhJbmx3WFZhTU5DZlNXTWE4NjBReXBRZ01qTUh3cnM2NEVwdmhXQXQyMlVQbWxQVDI5dW9hME1wdzEwUjRGbW5tbGpIY1Z6UktxcWo2VUN1d0dVRGJyaGdEM2xWM2NvOWRNNGRfZHBPbHBIU1UzdlBmcWhVTW5UZDZKM05iWVNoTTR5NXUzb2MyNXZPZmJLTXNWS1M5TXQ1blQy0gHeAUFVX3lxTFBzZ1RtTERVVGx1U1lXV1FYbUFyS0k0R2ZrQTFqTjgybUtJSUlySnVobVE1X1JOd1B0VjFTRkRoRlJ6Q05TT0JNOWQxUDdxYzMtVV9UbTdRNEptRWhCMHZSV3hFWTJqN19lMl9CQ0M1ZUlzbzg2Vm1qR3pSQWNsT2dEZUJWSFFyRkhIc0ZUa0haeHdpSW1HcWpJcTR2c3RHMlppU3o1dnV6NlBHM1h3RFJHcEFHeTh2Vjk3TFVBSWxQMHBjN1h1RTIxcWZSSnp2U0NnV19iVzBtRzgyaGxWQQ?oc=5",
+   "published_utc": "2022-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha government allots land to businesses",
+   "source_name": "Maritime Gateway",
+   "source_domain": "https://www.maritimegateway.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSU9CNXNMVmRaQTNSZFkzcGNCMmVaVmNZd25RQW5uTWhaOHpEQnBSbVZDMkdyMkx1QnJIY2t3OFJyaTgwUEg5T01CUkpCREhrZHNDcWtoMG9wc0E5dHJMbV85YXpFMURvLVhJdG13cnZiOEV3ZWo3dXg5NlQwRlFtMHB3?oc=5",
+   "published_utc": "2022-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

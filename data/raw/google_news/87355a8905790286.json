@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "T-AIMs for data annotation clusters in state, inks MoU with Tika Data",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlZFVEdMZWN3ZmpHcTNPR2hnRnlvd3kzUUNzdWRReEFqQXh5MGJpcnU0R0xUSkw0V29qQ1hYS2VHVzVrZkw2ZGNFaGRDNVJnTUoxNWxIM2JOZFYtTExRY3hycmxveHhick1HeXZOUXFvcDZlSjZWcV9VTDN0WDlxZVFOVkdyTzJONnR5dmpJZ3Y5N1Zhd08xeHdpQWdQOGkwZWtZb3VFc3pQUUxSM1Azd0hLeWZBUlZDSTRfTERycGlxQzR2ZmhET2k4bTVaaTE5V0NnRWFKeEN6U3Vv0gHiAUFVX3lxTE9BY1phbVU1al94ZHhKZEhNd1pfQ1cyYXB3aGJoS0Uya2FNX0hqdnI1ZmladWhSMkxmYW1Bbm5SLWR0Z3R5TVB6M0hJem9zY01fWmZrMU9tOUZWZEF3VTJsMXpseG4zQjF3UXU2RDBOaUhQRkd0Qm9Xb0o5VlU4Z0xvNG9FcktpTE0wV1FVWWFvMFhLOUVJb1ZXTGVtNGVNYkJhMER6TS1wT1RSYjVqUklTeEZBNk5WN1lOSFFWRkI2X3pzdHlWeThBbjRsd3QtMGZqYWpiMkRTblRrR2I2ODdQWlE?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI platform for giving farm-related info and chatbot to clear doubts of ryots",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjFLN3hRZms4cFVjbHVXVmVaSGkzVEYtOS1zdDhNb1V4YlZmZWI1MjhTYkdpWmF3a09jenRXb21JMVpvYWVMOTV4eUdsdl9scWNFd0MzRkZBd2YtUVVRRHBPYVY0LWNyZmxWbENJZ2FJemVlR3hMeGs3T2VTNEstWEpwb2NtXzgwUE9fZndENEZBTGUtdHRVakQxaXlzMWtqVW5aT2dlQQ?oc=5",
+   "published_utc": "2022-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana forest department to plant 1.4 crore saplings by November",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHBVNDI2aE1YVUxaRF9rMW9XMGk5OGE0Y2xmdWlteGxMUURwMHNhcERyUmxKXzNjQXBfY2p3VUVNN3ZIMFBFMV9ETVpESW9aSHRGUnJ3Z01WUU1oYjlKVXdDSGtFOVRrTlJOVENQUlpBVmQ4X253eEtzek5PSGtXVGNRaFlDN01ZcmJkRVgtNUxtcVBYcGdJNEdkNi0wZmVrS3R2bU42aUhzNTVhU3pKd2ZSZDhlVHp6Y1d1QkxCLW1SX3JGbUxMX00wdDdnQVp5Y1RCRTFRb9IB5AFBVV95cUxOdVhZaXViNkw5bEZ4NXc0TGZQYzJDREU0dWZqRFNCeGFyUjVLQWdyaGVKUGpqa0JhX3pzdHQ4OENxcy02MHBxOUxKcmFSc0h3b1hXWThrc3FxU2pjZE52eU5nNUNSS2pVU0lxc1RKVmJRODF5SUlRQW5PdWdqdmRYWEgzWXR1akVxRXcyR2xEdERxcW1ZckRsWFliSGtta0lRd3F0OEhfMVVKaVltY3k0NXBuQW9keGQyNGY1eFdWZGZKcHpRX1FVMTJYTUNWdFpfOEdFS0FfRS1ua2FqanRwSm0wSXY?oc=5",
+   "published_utc": "2022-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana CM KCR slams Budget 2022, calls it 'golmaal'",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTJSUklRUFZuMTRscTFycjdzWW9mQ3BITEVZeVdLcHV2TTE2OTd1VkwwZXNJY0dDQUx3a1FQdTAwV3hmWVBkVDlucld6MnNDcHJla1JZOGhLalJJMHExaUN6QnpPVnd6TVlHMG9mQnRrX1RHX2lSeGVpclZycFVyaUdHeVBMNHE5dXdhN1VLYW1iTFJzR2RTWGNjem5vdXNfai01aGZlb1RSOXd1NUZoSU5QaEVzRDlFSllVcFhzejTSAcYBQVVfeXFMTUpMN0J0MDdVSEpGak1ONUxPV1VUNmd1anNERldnZGMwa1lSdzhZMzBBZkRBdmRyWmlrMW9IMWVkbVg5NDdkQTlWb2psQkctREF0VjhhQ3JLVmJLRU9lX01kMG11WVZVaHRSWFd3bEpURVBXUkFDeWFkZmthdk14NEcwVks5dGkzaFNaUzlNLVBxVElFc2tQVWwxSkZMdFh3MlMwSE01aDNpSmpSZGlCbEI0aVo5TDlwN1k4YWJoRDNyYzJudFRB?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eclat to expand footprint in Telangana",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4SThlNVo5NkJvQ0oxWmlIc3psYTFGUURfbF8wd0JMbGYxOXNUTFl3WHBmMFNaeC1ibDBDVjBZQ09iUTVWQlpndVU1QU91cnlkYy04bTlRWGVEM0R1RlhYQzdQYXJHeUk3MlFiaFlUSHp0MWs?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Opinion: Design AI to benefit mankind better",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVF9UY2tURW1OUkpLTGJ0NnV3OXBOZUNwNDFzVlEtVmhoV0VlcWFaR2JhN0VxWTVyWDFGTnNNekduSmJPWDA0N2x2aGI3Y1AwYnV0QnhYaXc3eG1iVUcySmNYb3pPdTBjZ2E3ZUJVcUtzbk5QUFNvSjd3?oc=5",
+   "published_utc": "2022-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIIT-Hyderabad’s AI tool to assist healthcare providers in taking decisions",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWh6QkJZQ2NuZG5rSmczemJ5NUpKYUhLcUxYQmg4UU1NeUh5cHRVOUJGcmdxVVZPSEdJVE1FUndQdnNLZjVieklDMTZ6MDZ5aHk0ZmlVTkFmT09IbjZIZGlidk0tNUtKazVZTVFCdUdoNS1uT0kyYWhDSVRlWnJjWlBWLU5JRXFBcW15WnlVRjBNTGEwakZJcGdSbFB5S200VXM4?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIIT-Hyderabad hosts conference on Technology and Society",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWG5zV203S2xVZ1BrdExueVBrNFZ4N2JqWVNyV2tSNlhsOTI1M1M0UW9UVWNBTW5mbFRpTWljZmlZQzZueUkxRnZmZlZJTkRPZ084Wkwza1Ezc1UzLUEyM1Y1bE9obWpncS1Bd1Fac3RpdndFQ2dyZV9wdmhzOXVjOW5uM1NzMzRoajZ3SQ?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tech Mahindra announces its foray into Metaverse",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFFfRFhrakcwYmlHYlR4Y2h0X25QSVd0bVA4Qk9hT0lDU1QzdlgtV2tWQTgwdi16cGl0ZDlUanVWNGZGNkYwZ1JlRDdZYzg4am03MjhBV2FPS3kzS1JIaXd0RGtrLVVXM0ZpR3ZULTBpMkhOOWdVbnJ6UFZpdHphTw?oc=5",
+   "published_utc": "2022-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad: HealthNet Global launches smart in-patient automation system",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEU0OXRlMHcxU0lzQ0ZLMk9aaV96VHBmeDV0emNvYTQ0M251MFhGOFdEZWNHQVlqOG9jRENWeDNGSUczaGVNSDcwaVlOMmZwaXAxN1oxeGYxM1FqZVRDaUNyVU1ySnp6SGtxWDNHQTlEVmVtUFlSRGxsZVhTS3RkTE0xYWpjdTRUb2wyVFVmV2s4UU16Ui1QMkZzWk1RUQ?oc=5",
+   "published_utc": "2022-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

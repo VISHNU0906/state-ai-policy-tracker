@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Data centre stock in India to double by 2024: Report",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0h3X19GM3kxdGk4QTlGNUZ6VGxhX21PWjZlSnV4SFBMQVRiZzlSaURubk5uOUJwOHFnR290amlIdHg2LWZsVmtNbjZWYXJtRWFyYnNLSlEtaUtXenVGMHQ2MV9jd3dEWExwRlJ3UnRPMWs3d3c4bDloUmdwM1BMMWdxS1dRZXNvY3A5Rk94YkUyajdyN3BPcC1RaFFibTU2REtnZg?oc=5",
+   "published_utc": "2022-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NHSRCL floats tender for key 21-km underground tunnel for Mumbai-Ahmedabad bullet train project",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObnhKWlA5dzNySm9uYTJSc0VQQzRhSF9zVzl0aldRWnNJWFllaWRIRTVVczMxUUQwT3RJSTA0dkxUYWp6QTJQR0xyTHRBYXpJcld2am5YaXRJWi1wZG1aMFNFbFc3YjdNQ0dxUmM0OFZWSFZNbUQ0WndfX0k1RzVHc1pocmpZUG02VE5RSXU4clBrS1JnLTZJQmtlS0FUYmVzamM0YkNwMzJxLUhsOG0tZU5BQURnbVBBSjYzTXR4TU5LbDRCbmRWM1VKcmVzSVXSAdQBQVVfeXFMTzhYeUhadUFjQnhKdThnckFLUG1tM3hGNTNZZXhCTXVIX0lNQkJSSnJ4VWgwcnpHZklzaWE4dFRBWXhWMjYwSkVVanhWUEVMYzJia2RpUWhZd3pJYTVDVXlZS0hoTzN0SWE4SDgxcDQ2S0IzNlVLREh1Z2paZE9oQWk2eEN4aVJXSi1tbkVKajBCY3IwRmxrbU9uZGxzNlRLOVdfZkU1aHZVMG1fZ0hZaDV5U2J5a3RJR3RTdlh5eXBVTWdPVW04YkdreUVhbzNUclpWS1U?oc=5",
+   "published_utc": "2022-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

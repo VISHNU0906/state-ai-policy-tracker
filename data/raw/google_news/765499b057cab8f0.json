@@ -1,0 +1,61 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Industrial Parks and SEZs under SIPCOT",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXB6dGZEYmZ2RWR2NWE0RFR3N3hfeFZwVGNiVTFPNlBoVU5tX1FvQUpCOWhHS1c5UjIyN0RQekotZ1ltN21ocVRlUXlseXpjSnJ1VnNCTE1HZkdtRjFILWdLUDVSb2lza0hnOGFRamE5aHViZFNrd1lMUmJ3RnhpaWV0OUp6WDdXMUlLVDNzYktPVnJYRmM1RGlQVEppSG9TR3FkZlIwNzhUUnphUVVPVjVCUnNkbFpFOWtR?oc=5",
+   "published_utc": "2023-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to spend ₹12,300 crore on new classrooms under Anbazhagan School Development Scheme",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG9Ua1RHaFBTb1V0ZVJFSDFZTVdzQlBwb2w5QkF0cGNWdW1GdHlHQzBHSWJUUEVEOWt3S1VyVmZwdlVURVdhdnR2cU45azFjaXJ3R0FScXJKckQ0MC1mbmNvMVZxdFlSVEZpNXpoVWtnLUM0U1VhNkpvb0dzMHA3TTgxT1J1NUxhVVNMVGU4amFJWjJQUTNDZXRSVjdZclJ5ZkhfMFBybE52aHI3RWsxMVJkVFhXV25nMVUydk1ORmhTSG43YkNyS1A5Zno0WXZjRFZ4MTBRc1lfNXFWRnNYU3BQbjVPTkRPVGJ0VFVB?oc=5",
+   "published_utc": "2023-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Over Six Crore Commuters Use Chennai Metro In 2022",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWc3TWJmc3RTU2oxc2lEY2ttblZGdnA3dTlnQzR1RGVxWGFOdTVzU0JyN0VWNmxiaE5Gbzd6c3Y3R1EzSnZra1V0MHpPS0dnN0RqR2RBVmJ6QzVoTVlydXM5X3JtSkg5dkl1ekpBUkUwbjF0ejMzRERrRks1dVFPY202UXhVNVpGQmJJd3NDMU5iVnM0aDZRWUNXTDdSNzVxWlHSAbIBQVVfeXFMTmw2Q0FRcVN3LXRCOXh5ZTQ1ODBOWl9QYUU2aXdxZGJPTFBpVDJfTkVTc0FRTW9ZdHhjMUU3WGVNbjlkMERadjVzbzkzYnNrY1VuYnpBRm13b3Jray1DOFNYaWJ4YTl3bndZbjRkXzNKajF1dENpWnFkTmtoT1RtRmM1OTY1aWpnNm9GcGo5Tkk1V2NtT2lELU94TDhLSXhNVFdqcWVNM1lPX2tCYWs5XzRIZw?oc=5",
+   "published_utc": "2023-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM MK Stalin launches 20-crore scheme to help animal welfare organizations",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTEx1cGpoVWhISUpaTHJ4WkRqX0k2eXRPdGl6YjRZTnNZWEpja0VVcmdFM19XRWMzSl9HYnQycXZITkFHRVY1RDBzMHA5SVMwanE4QTRJRDJtNmg0S0tHMUFaMlVUZmZqS0Q0dGExZWx3aFphak5HbUdkYXhOS29fUHVqMTZuV1dqcThQQm1zaWZCempkYVFlUF81M0hUVlRDT1g0aHNnNFFLc1d3T1cwZFhiZ1lXc2Uxd01vMDh1aFN3dlAxd0p6aHlUc3RzWnMybUx3NzNrc3lLZklYTTcxWXhUbExNNXUwTWdmZUFMWXk?oc=5",
+   "published_utc": "2023-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM orders DA and bonus hike for temple employees",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXZ2bHhGYUlCbWRqU3BWTVFtVmItNW83a19zMzRtOUpaS1M2TlljeF9qVC1ZRmxNQUJxUnRtS2pGVWlKTTVyNXpNTDlIYlQwaTMwaHVhdUUySk5tcy1zZkZmWW5LNWV5SDN5QnFQckl0VTFRdDN1cWJzZHZCWk9WZjNWWVdHNF9ZclN0Sm1PRUc1UlhuT2p3cVRpMHFXT0F4cXZxMXpZN1NxS2NXQ3VDc2kxTGZtOF9WbC1Oc0JNMVFybGNJYzNxbWhWUkJMV3d3?oc=5",
+   "published_utc": "2023-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "List of Apple Contract Manufacturers and Suppliers in India",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRExHYXVOWEF3b3NCSGVScEpvVUxNdk96cy1wcGx5Y2NSTWdQS2lvY2szNVhOSlNWVzlhZE9jbE1GekFyM3dkbE5ickdPd2xQbjV5OW51SWh5SFZRRTlLcHoyd2l0cTJJTW40RGVNUmNXaTF1R3Vyd0IxeGpmeFkyN1ZRdEFSN25zRzAtc0xhV2I0Sl80R3BMQlhQWGlFQ21CS2ViX2xRLURsejJDNUNtcG93N1g?oc=5",
+   "published_utc": "2023-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Investments Worth Rs 15,000 Crore Approved By Cabinet; 8,000 Jobs Expected To Be Created",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPczJ6czVQQ1c4WGM5UkFXSndhMi15bExaXzBYaUpaYVVFdi1LblNON2tvWFNUV09qSUNwa1BjMDdULXFXVFZfRng1RENObjdmZE40aS0xZmRCLXNjZHB5M21vd19CQ18tbHI5WkN1SkVEZ1RiSVJjUTJJSUUtVlpwQUpHek1ILXR4enVQNkp6WWxOLUNsV0lJMEJWVGcwcUJCZnFLaU9RY050SEdMXzk1dkh6bVN4bUlrQkxqbTI4TEhuRUxu0gHUAUFVX3lxTE5WREtoei1LazVNeWI5Y2xBQjZRZ213Tk1uOUJLc1BpWnpMcGo1UnF1WDR2ZERsSGxLU2o5TzQ0dUNtdXBOcG9vV2c5alFOU3lBcHBKVE5NMnZXcFdrV2x2cTJwbGJGTFVPQ1dZdFh3Skd1OTh5SjhqdlRYTjlObFY5QmNxdGxhWmxnRWg0NUNoWDBfTkYtVzVXU1A3NU5kSjhBalNYNGZpRE01QTlpeWJEVFVXcXRaS1lKUUQwRE1XWHJYYXdHeWJyWWM4UkZYSFd0TVVa?oc=5",
+   "published_utc": "2023-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

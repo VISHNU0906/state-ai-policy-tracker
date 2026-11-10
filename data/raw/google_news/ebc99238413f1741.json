@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Odisha Govt announces recruitment of 20,000 junior teachers in primary, upper primary schools",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNFFnV1AxdkcyYUthdXBlakc0VHdlMloxX0VYREhSU05GZnl2MFlUZ2pWajVWNTBjU2hHQjJKZ0xBVl9JY3NPZXRBcjYyWnh5bWlzRXRXYjVGbFFuMUZ4eUZjQlp3UzB3M3FhYmNSMERTaE4tWVBhTEN5amlPX1JKNWUyTDJPcFdpSkQ1UHNEZHROeF9OX2VOTjg5TGlhZFYyQkR2ckhPemw2TFRqdmp5ZjlnQnA5QzRRcVQzN1ZQTEowVXJhbmI3Rl9lLVlXeEx0aHRmcm15c0tta2liN2ZudVk4ZkNXaUh0cG50d2g4ZXI2Rldm0gH4AUFVX3lxTE9LekE0MlJ0Tmk2SEw5c0U5SWY2bEZBV3cySXh6cTk2YlhNX2R2YjU4RmNBcjgxeDR0SGdxejJZLW1mcm1ia2tTakVudzFuMVhzcnVBNmZpRUtLYl8xN1pHX2EwMmJRTlF0djl6ZXdHa0Ntem9UNTVtZUhJTDNtNGVwaXFfSEtVMHlGcExEcUJrUlY4TVNhU25rSUtKc0hzU0d6YkhaVmlaZWk5Y3paWW5HMlIyMjdUVFZZUHU4X2NfcXNVTEdfWV9oNERMQTgxcUp0YWF0REJTcEVITmQtcC1YUFpHUkdlMVlDcnBRNFhENHdzX0R4anoy?oc=5",
+   "published_utc": "2023-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha government to recruit 20,000 junior teachers in schools",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3F6aVdpem0tak44dFFUbk5OX3RUU0xQZk82YVJWNmxadmYzUTE5QVNyajVlTXliYl9kS2RybWQtSXRLV3NXTWZhbmNBQkwwODI3bklHSzZMVGdWQ0NZWnVuUWx3QnpDRk1uYTU1VHk3TUhLcUJTZnF5Sm1iZkI5MHJGWHNENGtCeDJSZDlhR3E4alkxOVBGTldZX2RacS1zN0xiWE1yVVpYSXMwaXVqMnp5VHlQTFUwSTNhNjRxSHZJcUFvcm9TLWJEdzVFd9IB0wFBVV95cUxPSnlIeHIwU2dGa3NwU0dZT3AyZnB4Tmh5d05oUnBiTGNzei1YU29zTl9aTl9BamV1U0xpd0NWT3hDaU9LMlM4RENsZG5UODNMMlQ3Tkg3OWxrV3dJZHVHSktRUXNIZGp6V1o1aDFDdng5RTNjMFp2aEo2bXM2dGluZ0ROVWloLVhEMFN3SzlWeERkeVlNVmNDXzBMVFlBTmlFVUJJdU8xRm9rYkdDZlk3TkRHc2pqYzRLeU9nUlZnVGtQbnQ3b3hjdjVzUDY4UFNLOTlB?oc=5",
+   "published_utc": "2023-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Health services firm CureBay plans expansion in rural Odisha, Chhattisgarh",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSFNwdHVRSjJTcXNYU0taN2c1RkRWSlJHX3ZXeFF2X1Jod1JFcDhnS2t3ZTZlVndUUnlDdkdhYUZsYzNUTWtucTR0RG51MFo5WElZTjNOd2VVX1VRZF93d0ZuS2VzekUzbFAwM1BFNzRaRS15YWZrTng1SGdRWEdxNE9mX05EaFdzUmRobHNyZUY2QVJ5WURUQkUxMlBRSUExTDNhaERVTXJhc2FlMWNDSW5DcDJqbFNBUm11YnVvbmhObkt3aWZNeUpxVFY3NGpWUHlPbEFQUC1yak5vU05NONIB5gFBVV95cUxPSGU5XzdRSW1CM3lzS21EYVBtQVR4WFNPU3VGdTd3ekFYWjlIRDhGekNIeGNJVGxMRHNReTJMcm9FMEc0SGt0NU1tUEFZRl9wWmdkNnJRTVFrZDlOMGhnWVcyYkNSdHZRanYtLWFxZlRQbEFuYlAwekVIN0ZNWVVHUWJIUnA0UmJsRWMwU3hyLWlkNGMteFFKTlNzdmVTS0VIZGhIazU2Q0puaEI4NkZhQWxoWkkyNzBYRnNTaFNwakVkMUFWT1BwaGo0bHVkYWZCeE9kRlhmVzY2NW44VllvaHhLUkxjQQ?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta Aluminium Celebrates National Teacher’s Day at its Operations in Odisha and Chhattisgarh",
+   "source_name": "Vedanta Aluminium Metal Limited",
+   "source_domain": "https://vedantaaluminium.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUlVUMkF0MFVGR2t3ZlJ6NElJNUZHN0FIOUU5a21LMzJpUVpjQUVWcHlvR255anRmU1dKMWlHWDAtX3pSUGVjangtbXFKdk1mVUFFTnlSRUFyajluWmVNRnF1SEVkUExPQkRPNWFPVERuT3k1cXhzZlpsenlqbG9FUjV2VnZBYU83QTMyYkhTWFI4ZEZ0WmsyMXNBaXNSQnVFOGhJdXpMeklvTjhuZk5seWNjeUc3emhTUFk2NFF0dzdPTkY0cURKcjJ6eGpvZENhaEVDUjg4cGgxSnNIZTJfdERCX1Bsdw?oc=5",
+   "published_utc": "2023-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Startup Helping Indians Reap the Benefits of AI — In Their Mother Tongues",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1lCV3VQSG0yM3BUeV9RMFEtWjU0RU9nVVFCa2Nackk5a1FaY19XaGhJV19VSFdsOGg5V1BXeHF2bnh0cGNLRjlNUUFHOGR5TER5bkw2d29jbDZXRDdvQUcyeHEzNmFHbC1HZ0xzcHdaX1l1MDR3TkFxRTNLdi1Ca0E1NHgxTk9ZdXdyTl9US2Z5LWtOUTYzekpmaWM3QkNQdGFIV3U4UWJkVkRPbmtkM3VTU0bSAbgBQVVfeXFMUDdLVHZ3c296VWpINnRDMHhZSTZiRG83UG53VjRoR1pKalZrWnY3b1VmSWhaTUtYVy1kY0U3NGNPcl9iVFlxeWxaSEtpaXprX3l5SGUwZTRYeG5XTHVTMlduWmEydUtkdWE5eXpYem9TYnpYMFNtN1NwbEl5VGVFM1NFdjJIX0JuaHNfODRTTlZhWHgxUzctcWgzMExYb243TS1zOGFfM1lZQkE1cGxYZXlERFZGWTRkSw?oc=5",
+   "published_utc": "2023-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Open School application for OSOSCE 2024 begins on osos.in, apply here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPREdoTW5BeFZkZk9iRDA1eUk2N2pEN05taWJlNlNXTVNGRjYzT21SYUNiLVE1Y2NYMmZFZ0syRXBYb2YyQThidE1RMFNWOHphVUpiUUpPUmZ0REh1WUJIWkhCVzJ2QTdoYW8zY3VaVTVBTEE0UDdQUktzbUFvdXNBQkJtNjgwRVd1aDBlSEw2am5wNzZucVEwVDZaa2kxSjNfd1ZVbWthUHJGQk9CWk93eHpIbFZVMktpOXk2T0thUzBFeFl6M09GUzhmNFlZVUF3MG5UMWZoS0RDbTdCbVNKcEljblM1SzjSAewBQVVfeXFMT0VlN3dBbzZ1a2ZhMWJPaEc2YkxoVUg0UWpucEpXUFlUalhaLUdaYXJFZjlCOUZ0Vmx3M19LQXZ1YVBtaXRQX2o1a1k1ZWZnY2FWaHUtelMzVnRQWWlSa3FXYlYyVk5XNVpfcUpoMDE5bFJYSzdlcXBIczBHZUVzVFc2bTFmVFN4Ni1zaUNSM040LWNSMFIzZ3ktdHRCZ0ozd1VaQ0ZjcWVhMTVwY09aY2ZidGxHN0ZYT2J3OXg0SXlQTndUeDdxa2dPSHN6eW96akV6WFpuM19lTVlVSmtUZHVGUm5NY2Y5RlBhWTU?oc=5",
+   "published_utc": "2023-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dead frog in mess food at Odisha engineering college, authorities deny claim",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ09FMVVnVzVFbXo2NnAzWldYa2hGelBxRDJWclhma1lkeGJlNFNlOTVteEJra3l5eVhUVjQxUnlseDN5djUyaklkVU9IRUt4NlNmNlh4ZnpqWHFKSGVzOGdzMzh3ZTBaS2JGSlpPcmhoOWl2WnQ2TVJucnpuTlRwYURiYThHV1BVSHhoOXNubnV3czBxV09PMU5iSC1ZX1hyc0hYRnVaZGJlS1lLeEV4bHBfRTREbHRSSjVDYm01VTJfZEpnTGxJNkJCSFktaTlCaVMzT3liV2RqMjJUdHRTV2pIRWt1UdIB6wFBVV95cUxNaWJYWlV1Rk52Vk5FNUxJTGpEcF94YnlrTXp2YktjbG9KVklqVlhiLXo0cENmT1BMM2xQelJjMU5jaERRa2FuYlVlZXQ4VDBEWWE2Ynk3YTFTeDFWR004WGxaUkZNWXJKQ21UdDVENXoyQU1YV21aOVI0Zi1GQ0ZOUWtBX0ZxdGlXMnpNZDlVcFhRQmRjUDN1OE9YUWdwb2E1NVFYSlBIaGRwdk56SUo0WkZQYTZpOXF1Vk1qRTVSeGppVlJMVjh1cjRwVTFpMDRveWxydjZfRmxqOC1qTG1QVG9PQ3IzNVJERi1z?oc=5",
+   "published_utc": "2023-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OUTR to offer AI & ML courses from this session",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE1hM3BLd0psRV8tVVlrVmhkSXFMSlNqSFhuelh4WUhKMVdxQWRrZWRNWlg1Qm1GZmQ4LVc3aXJ4bGU4TUF3NUVSUURlVzVqSElyZ1RLbXVGRnlyZ2tGMW9CNzN0bDVPOF9FR3RFVDZMQzlRWWtMX2tSdXVrTlJBZmlkNW9kRDFmdXgtNU94SVV3ZWRSaE9UQUpYQjItRlE3UFhISV9Fb2VNd25MWnlYVEdKN0RwUC1CWG51U1RCU0psZ9IBxwFBVV95cUxPYXZRalRWRGlsRWlOc0tnR2ZfbzlleUhhWmpUSnBFSFo3amVuQ3ZNSEZDSGRDQ3FzWW1zRXkxZnNiNHI3TkNpWTJVMnBGQkZIUWZ4ZnoteDJMSkRxSWt1RkxyNUU3YU9xMWpRckROTjZBNVFGaUNibGh5ZTJXWnVJXy1vR1d0c3dPZFZoSDlmRDFIbWNGa3lGNlJOeFJ0STdpZmYwZ1JLQ05BRkFwYl92eW1NM0l5QWRBUGdyXzlab3BIcEowMVNz?oc=5",
+   "published_utc": "2023-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Protests erupt across Odisha as NSUI calls for student union elections to resume",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeENHc3BtdG9ETnBzcTRJaWtqRXlCZW93eXBlVFZOQ0NLZmJlZG1sT0xZQVBaa2pFUDM4VjJ4ekF3cUhEbkQ2dC1yck41ZEtmN0hQMF9JSnpoTExSelp4SXJPQzNEN0tHODVmS3ZMREozcGg1dExGaFZQeG1hUm9lOFVBWEpTV1o0TlliUlMydGM2MHotUFVHT01UVUhvRFNOUFd3VGxSM1BVeldsMVF6NWhsY3RMRmFVd1lQcWN6SUFNUlN1UW1TaWFwcTB3dXpwdXdrUjM3S09RZlZ3MU9ZdVpQN01aTThBZkxONFhR0gHzAUFVX3lxTE05Rk9taEduY2FObU9hd2hkdm12N1M0bTNoeS1lUldOZnIyWDJSd3ljNHN3SUdmRzdUQ0NVT3hCeHY1OXl3a09wNnQ2RlpnZTlnMllmdXp4UzB2VjJuTTZqeUVCM3VVMlFsZ2JrNUU5Wkw5TFJZOGU3eHJTM2RFaE93OWdZc0gwN1VpQU1IeDI1blZWSXduNWVFNU5NUjNsM2Jxa2Etbzl4M1VBNjRyYTVhNmNRN3VQcjk1aXozTF9TUk9tNFNCdFd4Mml2V19hbE5FWUl4TFNaTWZqZWpJcElQXzMtM0dlWFhYYjBlaDlRSEh0Zw?oc=5",
+   "published_utc": "2023-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Teacher Recruitment 2023: Registration begins today for 20,000 Junior Teacher posts, check details",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPb2Q0am9EYmlwX0dnV0dTOWpQcEl1RmV6T3ZGMXhmWG9QR1lkYTdhODM4emR1R3hmdGxCTEJScHg4SXlnU1pMTWpoYThsbkJXZWJsTmFRUDJjc19tSDBpR1p5UU93NDNSa2hkNkdwSnFqOEJXVjd3OXZtU2tlbFdsSTltMDV2MFk1aHlpaTFjYm9MMTA4WUlyY0hIZzBxSlZ4VzdyUlFCME9KeDV4My1mOXhTMTFwSkdLdml1SHc4WWwxNnN3ZEQxM3daUkllNjc5cHctT05PVl9MeFMxcnowUjNLRVpOUzQxeFJGOVFTVmZfUUxvNXR4UXdZbmtIV2ZYZXVjQWhtT0ZhclhBSFU5VG1COUdLaTdz0gGeAkFVX3lxTE4ybGp4dW16eHFhLVJQNGs1aXpFaEVMek1vOGNXaHpsUFl6eWl0WnNmNjVlNE9Wd0xhcnBIdk9OOThZNDBWVEw1Ulg0dGk3UThSZVdTdUhuTUt0OUJ6bmh3TURjcS1yM3pCY2tjeTlCVXhOMmJDenZrQWY5NVBia0NaSHVrdEc1OTNJX3RqRG1Lc0pOajJDR2J3WGdWN3RVXzBkQUhxNXBLMjNfOVpGZVRHVEFxbTZBU1B0S2VvQ0FvWmhEX3ZBdjQyeGx0Rlc2WXU1RldMMmxvWlAtS3dQSjV1MGRKY2c0STVvMDlkTTBOeDNfRUpLcHljVTNZUEJkcmpDai1Ubmg0S09jd1p6cmFhRkxnWHk2LWFfWjhLdFE?oc=5",
+   "published_utc": "2023-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

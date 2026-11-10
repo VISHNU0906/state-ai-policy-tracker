@@ -1,0 +1,61 @@
+{
+ "query": "\"Kerala\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Kerala cop dismissed for leaking information about RSS workers to SDPI",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUG8tNnpOLVM3RkFMWm55Vjd1c084c2Z1MTdpSkpqOHN0VFM4OU5ybGhQaXNhRGZJQS1LOVh6VnByT3dBMFpicGtPc2hOTVhVNkZhX0FVSi1PUHFBd21nWWE5anZDRVhjcm9oVXNBWjl1TEh6NzNJU3NPd1hDSTliMkNMcUNPU2dpY1ZpNDk2MkRwYW1TeHVDWlYtRjJtT3lmckhoNkQ2T2t5emlhaXBlYzMxV0XSAboBQVVfeXFMTmRkX0tLZmdRbDlSaEIwNHozOE1uTXZVdlREc3J0WFoySVJsNWxISVBiMjlhY1E0bkkxN3I1b3Fpc19xQWdhcjJ1aXRNa25wOEU1NWxWTE9lYm5jR1poTWg3TC1BWmZvRTNUNDVvb2had1hlc0dVQzk2ak0zQTN1YWFHcXZFSUFYNnJxTEVvYVBfTXM1cGctdWxVYTFKandKUHVYTFl4S2JvSURiVGp2NGFrOFgxZkw0eXRn?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How one Indian village is planting trees to reach net zero",
+   "source_name": "World Economic Forum",
+   "source_domain": "https://www.weforum.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONndtaVV2d29oWFlRRXpZRTJXSjRZTjRETEphMHBQY29TZV9aMDBhVmJhY0tUa3Z0ZC1kSHhHMzFpUHlxblAwS0doY0p5dkR3N21qQmwtZ3Q1ZWVuS1RMc3ZxcUtlMXh4NW1KRTR6RDNnVFJ3MlQ4enItSmdRajhwTkNJeDBUcllJeU9yekVYREtiVldodjdjNmk4dHE2T1FGMGpoSzctZVZkTGlheURBd2d0Qkl2UnRKT2c?oc=5",
+   "published_utc": "2022-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala: National award for KITE's online platform",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVVhqSl92MVdGSlJreVNMdnN0d3ZEM0NnUmdKOXhCWmYzUzlydjBYZk5xVGtLOHk4TVNiZHlkZW9aTWw3ZWd3Q25uSkpweDNKM0VxRGtHS1NRRjFwQ3dOdm9SLS1zNEtjRzhtZDA3NDZkb21PTzlCTDk3aVRUQjJRVW1aRmk0aHF2SjNwQlhPZUpxV0FrYlQtWFM3b21kUkR4TE1pb093MGZVb2lBMHpQYVJtMU5ZckhBM2lV0gHAAUFVX3lxTE9qUTAxMHByTzZNS0lzVWJSOTZkd0t5RTlKMS16UDZacUpmNFNmVlNoQnJjUVhnMXR0SVB6T1B2T2NyQUlUajFqZkQ1XzRNQnJtTVVPbXpkeUFVNWhUWDhCN2NCRG9CN0VTcEQxSndqdDE4eG5vTzdTbV9KWHN1ODlXRVVJYWUxLTdwUDBYUDctTVJYcnoyLTdncWJOX3JHa0dNWi0zV2luWno1a1VZTmd4UGUxRmxkVm1va1FOMi01aw?oc=5",
+   "published_utc": "2022-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Hospital Apologises For Using Morgan Freeman's Pic In Skin Treatment Ad",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcklRNEhyeFpybkpRTlkxaXZ4RmVwdmV5Q19kWTJKTFRFMUZ1UzdiTmRaWFNxRkZtT2JwaG90U2xwenNRMWJSRy1pbkR0SU1jZGY2R0JmX2tOZFh4V1QzX3FPOFptX21lLXZUTEFJaXI1N291VFI2VG1KRmZKZmdJTmlhdlhJYnVCTFZvbG9WclQtMzc1ckQyb092SHVDUVVydTc2TC1HdVp1QS1TblhuRDdMekI?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lokayukta dismisses Chennithala-'s plea against Kerala Minister R Bindu",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVjdud1N4R0pYdU41VUkxZVQtOUwxYkdmeEZUTGl4RnFlaEJJdjlxZktpNVlSTXNSa05UMlJoVFQxVU1wMEJRbWlvZGlOdWV3bEFXOEJERjJFVTRNMVdtY24wSHhfYnhuMElrdHN4MmtENzJ3VHB5cWY0VmQ5Zk4ydlkxbGJ5dmFKNk9yZkdCTzVjdVN5Q0tBRlhRMmluRjFHUUo2TzVIbjFFZXdzSVZ2UnVlelQ1TmZSWFJQSnlSdF9nR1RGWDRNajExUEpWeFQ5bWfSAdcBQVVfeXFMT1NyeDE0RFlxMnFnbjdvMkFMSVhWdDRkN2lPODlQN0VHSGZydm5RR1AxbEd3TkhldnVteWVkUkswTU9EczB2cGxMSW93dHZPSFdoaC1xMXRmMmRoU0VISEg5SEZXMGNOcjkyUGNYV1JNOVhWc0dJMi04aVVVSEFHRmRXaE1KMG1Ea3JHVXdXeTMwdzVVblB0VW9lbWZ0OVh6eUtGLU5FQ1ZSSmgzYV9jMGFzWTlyRTFHeHlCU0FlMi0wTDFDZkxQSTFzRWlIbjFzVzZ1WTM4elU?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala police induct 49 Force Gurkha SUVs into its fleet",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzBZTGRUUHJleXVwenU5Um1pTlZtZ3k1N0d2RTI4ZmU0NThXUWREREY1LWFRZlczVkNaaVpEYzlyWkE1ZTNPTDd2ckpqZjBlT0dLUUttajd6S2s3QUZKQTVBZWpwTnQzWTIybHRWbllkRmw2YUVTTXFkVUhZcUlIZkVfWk5hWkVXMWx3TFNMYl9kNlRyT0JhNnIweTRHY0g2UFJDd3VLektpZ1BNRllGSXhXZUhqSmd1OXRDa3pTSEvSAc4BQVVfeXFMTWM5VEJPZVhKMklzNW8xY2FJai1vNG0teDJjSExOTlJrNDZQd2s0S21CUEUxSnp3aEhOd0l6MVE2SW95bzg2SzdBc2cxcXREd2QwZWJiQ2oxZHhVNDNzNS1na09JZUQxeXdEZjVMYU9icklxQ0tWZ0NJTVZjS3dRLVQ1MndfXzNTUlVKQVlrWjlBNFNvcU0yR1R6cjRnWjZHdGxma1VhdmpJWGJqZTdHQmMtN0pOdDZ3VHdvQTRXVFZkekJvdUxfNGtYb1kyeFE?oc=5",
+   "published_utc": "2022-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Force Gurkha and Mahindra Bolero are Kerala Police’s latest rides",
+   "source_name": "Cartoq",
+   "source_domain": "https://www.cartoq.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0lpSWNBb3BIWDA5OFNQc2hTd3ladmMxX1JwNENOQTlJMkRPXzREZGZKUDlFcGJDcC1jZjRrMEJwN1pDY1NYSTlzTERUVWhia3NWMmFHOVhsV2RJRktaQXAzTnFOVUdSQk5zZXBjMDBRSTdVbGM0VzdYSDNoQ1pYQUxlRTREUS1keDRqUF9WWlh3SW5XRHdnY1JnQnFNTEo0aHRtNm53?oc=5",
+   "published_utc": "2022-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

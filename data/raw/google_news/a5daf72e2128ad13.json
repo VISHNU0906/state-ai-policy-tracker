@@ -1,0 +1,21 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Odisha CM Naveen Patnaik unveils advanced Cyber Security Operation Centre",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN2NGMGNLX3NBN1IwT0JvN0lRVFdldnB6WHNhWkszc0ZMc1dNbmFjWFlQamtYdU5xSHNqRmRqVWFJV2twX1BuQmt3Q0U3SVlEM0VkS1dUMVZZM3NjcmdHTEU1bVNDZFYyQ1dIWEtQMGpFNi1pNlNLWm5sUWRTVVM5WDl1bkZpSVp1YXpXWWNsdjRlRndjQUpZbDZJN29PbHh5YjZfMjNyX2tudWxvSXFfc0R0RXN4T05oa3VNNnQ5RzR1WkVFNGNfTzJtU1dvMHkta2g1aHZLNUFVLWZxREFlOGxtc9IB5wFBVV95cUxPV05YaGVSUy1JcFpfcENoLVZpSzh2VzR3aFZUMnJIMU9CcEV6dEhzOFlFVHA5dldRU3BRcnZDTnN6Snd6SjRRMk11b042ZkhBaHNtOEZuTWpHM3BaeF9VRWhoNkd2cUZOdWNITS1ndHR1eTc0MDdWYlNjMDU1RjBIVzJ1WVVoeE9LSXg2ZGhWNEFMSDk5UENra3RZaGQ3S3JCZWlLekxhQU9wNVpMdDkwMWl2RWVsMmhlZ2JSbDhEOGJUOFpzQ2VxZGo2V21KeVoyMllRbW5UYWZIbF9UY2RvaUowNlFEdGc?oc=5",
+   "published_utc": "2022-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cyclone won't make landfall in Odisha or Andhra but will move parallel to coast, IMD says",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRF9qRVFWMHhLNF9qczZDV0JWeEp3MUx1MmNqZmoyTGhzVlZyRl9LVUoxcVFmaDh3VjJzU3hBMjlMR3pRZmh4b2t2aEJHdUpmbU1xZ1RlcHVIaVJVSnlMZ2RWZllIVlRNOTR4VGc5NkNOUVlDODBsX1E3M19BNGdQbDlDU1BRakwtVDJRb2s1NXJXUjRfYUZDLUJwVnk2QVNDcENMTm84bndPcFRYVngxMkFVcTNWS05PVnRnbWZUaVNvTzdsYTR6VElBUWNFbm9vRmE5VG9Fd05xT2NiX1Zabk5UazZFQdIB6wFBVV95cUxONDJpLUdfRGxiMkszSU5XenNsczNMUkJGRjdCa0NOZ1lYN3UwWTFEdFcyZzBSY2g3S25ETm9JSlJEWVZ4RGQxZ0k5ejhZcDF0OXNUTVc2RlRFWmxsT1J4MFZGUjhaQmg0YjFlM0xEcmRaZWJMeDZ6aTV6YVhjZUdUamg3U3Z1QVowTmVkUW5QU0ROdjA3WUhWUmNWaF92d3Roem9RSzB2bzdsUjE4eDRaNDd2THFlRDNWN295UXFOTmJWWWNSeUFPOWVoREdTSlZBaXZTWTg1aTFjMHlaY0dzTEtSbjExX0lGdmtZ?oc=5",
+   "published_utc": "2022-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

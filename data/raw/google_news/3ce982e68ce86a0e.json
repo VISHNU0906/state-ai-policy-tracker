@@ -1,0 +1,37 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh’s first ‘skill lab’ for MBBS students to come up at MGM soon",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNck1vYzVTa1BLZHVpbHg0WHR4UFpyNEduV0xaUGZ6OUNlT1lyT2JpcDZUZC1MeGJkdjNVREVoSUd5WXdEUkthOWVWMmdmVi1za0o3Q1o4Y0lVTFpVaEdfSGFJcXBoaFpNVXNvNHdYUjJQUmxRd3lQVXNxVnF1elVHNzJnSjBTMFlObmpfaWlsV2ljNFFSaElLZkN5YzRRVkVmS3NHb3ZYTk5oUHpUUXFLcVBsTnBFTDUxbmNadzhtNmxqUWZteTgtZ2JLWmdTVDFKcUxUWi1FRFFVVkVrZ3otYzFn0gHnAUFVX3lxTE00bGNEaTBzLWpHSVhwY1lwQlZNeWIyc2hoT0Fjd19NZW85a1JjMW5Ed3BpOG5jUFZYSm9fZzdudUllUlBWRnFlM1QwUGlGNFRSQkNpY3V5cGlldFZWQURGeTVKb3dCOW5Dc1ViR2FvTmZFUHpMZVNnSjM4ak5uQkIycEMzTFVxdHVKdVA0ek8zb0ZSYnFGM1NVZHJDc2M5ZWtiR3dXMWlENmlCNndoTUQzeHlfb0hqaHFqOW56bFgtNmZualY3UzZXbGZMNVYwdnZEVDN6TEZDWmNlelFzbm1FR05vRUFQMA?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Woman Seeks Death Penalty For Man Who Set Her Mother On Fire",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXRjN2d2eFFpdldUTUc2VENPNXRjVDRhUXJCTF95VjNhRDQzRmRlYWxfVmZLUm9fUHZxTXZGcmgyYndzU2hmam9RZGQ1TVVEb0tnbTF2VUtsWXRqZEZZbFczdGVHTklESXJQZUJuaU94V2tYYUdSdThqREFWQURobjVOV2c5UGFUWUF2bC12QzlwWGU0aVppRW1sVko0bnN4T0JPNUZFaXpfM0JVb2xCSlJGUVo1UdIBvgFBVV95cUxNcEFPZ3RZblRKYUNRamUwbTA5VTUzaUIwUlVEMzRsaDRGV2w5cWd6RHgzeWNQUWwzTVJCZTBJQWtyTGlVd2l5bXlISkp4enVPVV9ibldIOEZNdjZzZWZMMEVZT0pMVkg1MC1IektzazQ1X1g3ZzB5TkZoTWc0LTRiZVlaRmpfYkNYUU1VMEtwODdWOHluS29TbVZBV3lYQWtHMTNVNHpINDZCeHgtNEZqbl9WZnh0ODNRQXNGcjdB?oc=5",
+   "published_utc": "2023-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nurse Recruitment Exam Stopped In Madhya Pradesh After Paper Leak",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0pwcXNvUjBBVVVPLWtLX2xtd0R6RDdfU3NIc0FNUUpmbVIyNkVBMjk5ekhzdmhjNVktVWEtX1FIQldwdTNxUkFPRDZJWFoxWlRvbzlhLWhOT0NndEx3UDdiZDZOekQ1eC0zUUo5V3NiOHA2OTQ5Ync0RmNwZ1JNQzVYM2xkLXNwRWYxcDNTTUNtblN3bFBQMVQySTF2MDBLTnZST2NaLTLSAbABQVVfeXFMTUQ1LVdCeXZGWTVzakhteXJHUU9idmV1QkdsblppLVNxWXJnbllaUnRYS3FSYmRSMmZIMC1la2tDYUVsZVNWZ04teDFsRU0tZ2F0Z29UVGloTG9fZEx4VHAxbHd6eTljRnkzdTFsNTkwUDJ1UWcyRUI5RnZ0cmJOSlJZQmtRblRMTGZYSGRXNk9pbm5pQlBDZjBqM0NONUNrZEh3WEo5TGIydFBXVWYyZkk?oc=5",
+   "published_utc": "2023-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Principal Set On Fire By Former Student At Madhya Pradesh College",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVJpSXBXUmNTR0Y1OW15Z1laeVJmdC13SktUU2szTXBEU0QzU0VLaW5Yb1o4aHluX3hKTjJfVFpQTThOY3BUXzZkSXlZTFJleVVPTlhaOW5lUm1FODdhNW80TkZJTlF6NEN1M2tUOU03b1BFVnY2VmczNWQ2a2FOR3c0RTNtd0llQ0xZVmFlZ2xLUUZ6NHJVWjhhcjZMRHFWZFh3NmNyQkvSAbABQVVfeXFMTWx5QmNLSHdyOHdyUTl2NkZyZjJBcnZfR01Wcld6NFg2eGhyQkFOVHo3bURsZUZCUWo4U0kzN2dteEIwSXNVY1JXamY2Q3hBWGNaVGVqTVZHX28tQkdGR0x5WmR6X1dBejM4dE1XTXlQckpMMVNPSXBSY1JydXpvWi15M1RHWGd0cEJOdUptRGtJcmJ4MGJoQ1laT0h5RDJmTVlURGZzdDNDMk1xVmtRSkg?oc=5",
+   "published_utc": "2023-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

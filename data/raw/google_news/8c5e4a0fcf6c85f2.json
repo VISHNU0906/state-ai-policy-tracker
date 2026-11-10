@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Pune public bus service body PMPML onboards Google Cloud for real time bus tracking",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2dLSm1YOEhlUUx4cjRuRFNvU0E0TnhsblFoWkY4T2FJZHJlWHVqWW9UZmRhR0J3THU3SFFQeXUwbUlKNktsc2xTeHp2YWxHSmVwX1pXYU1SeDhKMGFDZ0JoVExBZFI3MnBCNExaVXRHYkg5dEJTTWs5ZFo2MXRkV3FUOWh6SEJyckxITXgwd3ZXTlB6VlhRaTQ0UXphSGxRazRZU1lQQmUtaXhQVkZTVGxmN1lQTTNvNDF4RFdMQ3hWR1pYV0wzVFVhaFpWZks2MndtQjBGS0w1YWJ3MDllcXk4OVVmaU5FeWxsVtIB8AFBVV95cUxOWngzTW55b0pWNUplQ0x5ZXplM3NwMzVXd3hWNUVqY2RNZkwyMkczS3p3Z3Q3V01uSUl1OGxSQTlybXlqel92OGJuV3hQbkxGd1dnV2hIZlp3dG5NamJ6SkFSVXlKdHkwZU1BWWdyRTR0eUEyeWxtY0ZoekhqWDg2cmhqRjlOSk9rRnc0UURSNVFVN1dDbncxUm55ell1YUJyb3lZdTh5OTVhN2l0a0hMVUdXeUE0VFFFbUZta0lKTTVZZnhkQVROTVBueXdPRElFdFNFd0czSXhZNjNfTU1COGpFa0Y2V2hvMkZ0cVBmVHE?oc=5",
+   "published_utc": "2022-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With triple objectives in mind, Kerala launches an ambitious digital land resurvey programme",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUkxV3VBblpYV3dHRTFiU1lyVnkzNl8ycl9vUjVyOUhRal9mRjZTLS1GTmdkYnhZaUVpRUhTR1ozSDlYQVlLUFhEWG82RkQ4MVFjb0s4R1N0UElQUXhfRTBfeFBpMzRrU2hnbDM0OVZ0cEtJWlhVTVNjelphd2dJR0dWSUw1UHpkeDU2bVVkZjYyZzZVQmVGRmNBeWprbzB2WnZTQ1VLOHNVaWRPUXk2OUNpNkpjc25kamVoMzJBaWc?oc=5",
+   "published_utc": "2022-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

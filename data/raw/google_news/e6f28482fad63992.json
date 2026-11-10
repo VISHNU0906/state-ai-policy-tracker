@@ -1,0 +1,29 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh's villages lead the way in climate smart agriculture",
+   "source_name": "India Water Portal",
+   "source_domain": "https://www.indiawaterportal.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEl3aU9Dbi1PY1BESG1rbmxmdTZ1Yjl5RXFqeXA4RmFyR3I5bGN5cjBMRGd4bVRtS01hQ0laekFtS09OXzVNd21GckZKM1AxRms2c3liSGpYUEoxODA0aXIyWU5lNFhIQ1FoWVJvaUZiQVhFcDM5X2dNTFIwQV9MQkFQZ2JCUklkaldNZXdtYkpEZ0JkUUl1dTlRMHZvYWo2clZzOG96Ujh6MmvSAbgBQVVfeXFMTXFMdmJyem5vaFlsR0hXZjY5VW5MLWx0RlQ0X0xNa0pEQkNXSWUzMU9xNklnNFlBUTYtbHpLMEg5WkN1NFZnNXl6MVgybGp2MGQ2SGg4TGdRT3ZCcFJyN1RfN3duVGZLclJaMVd2bXlhYmlzRzBLal91Tk5FUHdRZnFuUE5Vd1BGaGNNVmJmV1pGTEZycVJlMXEycEthdE9uTzFfS2tYbnAyTTlvbDZ2SDJQVmQyMnFacw?oc=5",
+   "published_utc": "2023-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Man invests Rs 49 on online gaming app, wins Rs 1.5 crore overnight",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkJfa25BZXJvSDJSazdUZVBjYW9Cd3pjSlJhVDA0WXNaV1FVeU1PWFVtZjNac0VZMlA0NE03aXFQVENGWTVKbW92MmZkUDVRYmNhMWROdk1DNlcyZ29IOE1jQl9va1JlYjdNYmpHSmdYMHZRa0FoSTduRDZMWEl0Tlc4dkpYVmZjdkZQUnFsSGJ3aGRqN1NPaHlGSWl1T1RkdV9EUVR3dVRSc3NJTTdTMkxSdXN0bWhNM2dGMGVsVlFMSmVaNjR4b1dfTi1iTm_SAdQBQVVfeXFMT0s0SG1STXpwSVhsWlBVQjE2M2hXaUZaVDB3WkJ0WEdRQ1Jja0F3T2QzSkdrTG5NdmNPN2hMVXJJSFNFT016bHNRY05HeDFzeDBDeDkxTHBHOUZ6N05YdFJ0dHFRamROVnJPWmJ1WlBJeVY0c2IwMHJrVUJPNHdzWGkxcE9uUE0xbmN3M3A0R0ZFNlpnT2k1cGoxQ2x0emhTSndCTHVaZC1yQkhWWDlnVzNSRURTTGRmM1lPYnhXenBKU3J6OGNVU05JU2ZpWXdLNFNYVVQ?oc=5",
+   "published_utc": "2023-04-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Attach SDM, EE’s office, cars & other property, orders court in Nalkheda",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWxxN2thclFwTkxwSTJvaE80Z3RDdUpySV9OZUJoYTdGd2ZNTHY2aHFjTEdkZXJCa2NwSXV3TExyY3BFOGQtU2ZtRC10eGpLS1pTWC1yRkpIVTFNOVQwcHBZcm1MYU54b2dXT1RwRDUzaDJVRUp4VUZoYlJiX0JhTXBiNnhBUTQ0bDc2d25LMEdPNTY3dWpCU0RuZnBIMXpudUMzYVhPSWZOZXJnZUczWHZDZDVlU1JEbDdYZdIBwgFBVV95cUxPUzhrQnFMTzdfdVQ1dlhlRG44T2JjbzFhUGgzUTJXMG80TzdzaGRzOUVTZUVTVDBfS3AtZ3dkZmRjYjVlNTZMTW5DbWpkS2VuTUZZNGtKUVgzemlia1VRRHUzdHBkdzFNZGlTRXhBd1QzaWEwcVFYdTltTnJlZnExNFRlTEVoUzFSX1ZGUHk2WWNMUzZlTDlFYy1SUjJmRVdnMGRHU2FhYUxkYmV2dUtvaE1vMUR6TzVnN2JsdWFFLTQ2Zw?oc=5",
+   "published_utc": "2023-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

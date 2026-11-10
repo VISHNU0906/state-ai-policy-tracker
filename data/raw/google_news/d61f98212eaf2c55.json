@@ -1,0 +1,61 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Classroom Door Used As Blackboard In Odisha School, Probe Ordered: Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejJZR2hkbzNvNmlZRVhuVUFTbWhXSElKc3A0dnlVZWJwVmQ2QThWYlNRUG1CaTgzcUxSeDljLUoyZzJrVWpNeVpqay1mc2ktaGQySEFOMGNqT204NXZmNWJuLVhfQlowZmx5Ukl6bElmQ2NBY3NqRjhhaDhGZVFYQlRHOHlqUmxWUzZNQlozNklCY3JZaVR6ZEotWkNIbW5GSVZ1aUdjYTRadVVtSEVNUNIBuAFBVV95cUxPNk4wemppeTdUSVRBaHpHclBvX1ZmTk1hem9jdDltTDZ6YjFKOWJsYTdnaE05ZzlEcFA1YjZhb0hCVm1fdlZWS2xZUmh0Tk9XejdaU0pVUEdORlZMbEpnLTlfbkloVWFSZVoyZTM5d0stQ1V0TjdacjBaM1hMSWY5OXNRRmExRExQNXcwOU1vZldOdmgySFNhalExdkdNRFJNZ1hrQWEwSVl5SGtoZ0hUR2s2ZWtSNzhs?oc=5",
+   "published_utc": "2022-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Altogether 12 Medical Boards in Odisha Medical Colleges for MTP beyond 24 weeks",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzA3YW1Hb1dFQXpVUU1Fb3pxYXJFckhQYUh2T2oxZTEtQ3FHNkxLMkc2YnhZU1VWdVMyVVdTcjFJektzRlVOS1NvaVZUdkVORHVTSkdwYkdZNWc4MDQxS0hpUE1JT2c3eF9vQWdCdDhsQm9UYXA4b0RvejR4TGJ2NkFjT1k3U0s3M0pKTWU2QmllZ2hPaGtudzVXZU5zdVYzQ2QzQU5FT1pYcEFVUTJzbjJzVHFLNzZYc08yN1ItU3BJeXdvT1pwZlVpMGpiQ1VGajcweWJNQ3M1b2k2ekxF0gHkAUFVX3lxTE5nOXc1bHhCY1pVdDZMQXg4ZHg5QnpnMHRXSkZmeUViSG11czNZcXoxeWlUUmRmMEIzdnJvNEtVX0Z4Q0hYYWNONjlXcU5HSDF3ZGNVSVItRGFEWXcwOWhTcnR4Q0hrajA1M19BOXUzNFNLYzBIUnM3aUpXUmNXZU1OSk9vRTI4NFFEMzlwUllFUUN5NzJFSDd0QVRPY1JxVXMtcVk5V3p2V3ZldVlZczlFMUpKbFFHS01hUUFxSzQwY2Y0R1dvSGs0M0N5a1ZSaDhNNExpbk5VWHJZWUlqM3E0Y3VCcg?oc=5",
+   "published_utc": "2022-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A Tale Of Two States: Why Bengal Can Learn A Few Things About Governance From Odisha",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03a19rTWNSbFdVSzNpTWZibnlldDVUakFtd3V5UGJkaUpxWklfOFNBckt4TTlRNkFyMnNsbHh1NFctZFM2VGZ4RlRtc3VacHp2ZjZFdEdvSERmVEhQd2xJelJ6QzU1NmtoUEhYaTZ0SnhHRVJ2cGxEMnptb9IBiwFBVV95cUxQaTB3UGRHVnhreGxZeDkxQzBTUXRsSUE3a2p0ODJIa21vVWxBeDhxQUlRMk5qRE1GT1pqS0pQTkRzbFEzVTR1ellyWkRUa3o0ckxrOFRwMlZUcmprd3FXcFJzY1pKcDlZbkpoemlVUVRPZFZjcTNyR0hRaWRVVGpzU1NLVUdZc1VMRWVV?oc=5",
+   "published_utc": "2022-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Police Constable 2023: Application process begins for 4790 vacancies, apply here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbmpqeTQwUXhOODUtWF9XazZFM0JjT0hHSDZSOW5zLVJzTkxXUWVLSWlsMm1WZTJDU3o5d01HM1dXYmprcVhFUnF1S2NhVVpZdy1ZcHYtVHNkQVdQVHFEbzdVM0xPU2RfdS1wRk9TZGtaQmlYYWNzdkE1dkFPYW1FbFJEQ3hpTXJtVXZ3bk9kMFNkUVF5aXc1S3pERG9SNmd1OXRiLTBIVExlMkZsaG9JYVZwdWd1TmZ5ZFpoYWo3N3E1TlZHQUdpcnVUWTNRNHdncFNrQUZoLXdHVlVaTWJpZ0ZCalpBY0JXcWxya2cxSmlOLXPSAfgBQVVfeXFMUHlYeC13Y3IyUWxKLUNqM3Mtb1lFejZBSTlmMER6Y1BQTDVCZ3ZLM0pDLVFuY29HMjhmbElFQmhtMXFPV0g2S2dPcWVVSlc4Rm9sUlpRR29vcHczMGluTnFjb2I5cURXQW5OLWh3NG92Y2tSMFQyVnFacWtzWllDMUc5WHJpTDRZX1Y4VG9paXN6UDc2OU52NWNpdlBJYkI0ZkhYWGdGUm0wWEN4bnJIY0JZSDhwVkwzS21vWWh5dGZ1RUIxRzRfS2xJYk1GUk05bWctd0NZQ0hsX1Myb0MzZ1hfV0Q1ZjF5cG9BWnFOSzlDOHNJYXp6WHo?oc=5",
+   "published_utc": "2022-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Man attacks youth with sword in broad daylight",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZmRHdk9xWU9ZZmQ4ZGdNTlFSRUJ6ajdLOW45SXBYMnhFV1ZWZE5YZGlYMjB3dVZBMzNiVjBaSHRRTi15V0dtZW0tYmZjcXE0TE1tX2Zpem9sUFg0a01zSUs2cnlHbDZmTWMxclRMUHFpYmc0RDlBRzNoaXl6cU9tMXFseXF3UldXQld0aDd4RW9CNHpFZF9YcXRqa1JCMXlNYnVDWGlhbGQ5TG1mOEZkSkdoNEtEU3A4N1dDb2pUV3hraGY3UkFPVWxn0gHXAUFVX3lxTE44RWNNS2x5a3VFbkxsUmhkRnI3Ump2dGxCZTM0UEZXb1ZMQXlIVDVaaDNhNGRRRkU3QUVkUkVxZXNrWUJnbG5kQ2JjaTBSY2hMbVNuR2E0eDNpLVhRYjNMWjVDVy1nS1diTmdxZmdIcVh0cHhCalJDX2xxRWt1Y0lKQnYyQi1NLWN3U0tFRkhxM251UThOQ1hrN3VFaGVOWkVic2cxdWlBaW1hWlY3QnZackFPWWZRMm1UWG81TUhIV29mYkhsdFlWNEJzWHNEWGFEWUFaNHZN?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: PRMMCH doctors diverting patients to private hospitals",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUkcwRTdpU2s3T0draUVHQmdYdnNBcXhwekNBemJ1SEVHeVFRSHlLaGgzU3QyU0lveDZkbjdnYlJmaWxvM2N2Xy1RTDExVjYxUVhwNHVRWTlJOEZWSGQwOXVHWjVvSVg3VmpIaVdRczNqc3cxUG1rNmNpMXlPNVBmX1VndDN6dEVkdm5VZjMzemtNNGhuNjlxbDBMcGVYX3dUbnhsdVhXVl9lZWJWSTRhM0xKRm5TSFprNkNsZ2RQWlU5NG1XMnZaM9IBzgFBVV95cUxPMnJTVzBwT1V1RzQtSFF6dlppOFBGTW84clZfeTZJdkJhVkZSTF9EUGhmcXpMbEcwa1RuZ3lJb0xfWGluTWFIOVFpVlotNUZqOGNJN3RfQkFNblJaODJwb084aWV0YjBjazJRM0I4Z0NaYzNaaFc5ZV85d1NWMmF2MXItVXYzeEhURl9hcnJnXzZZdmpQdzFkc0haOUdXR0FXRUV4U3hkaGhhTDhSYTBFbEdSNGY2UXY0d3pqb1ZHVWxVOV9LYXpCaU9kTzBVdw?oc=5",
+   "published_utc": "2023-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5 regional directorates of education go without heads in Odisha, developmental activities affected",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNUxDNXlFVF9GRDlRQUdVcllEZ2JPdkdsbzFGbTJUYjBjUTEzRng5cExVY2VFanBIbVJENUdvTGJtOVRHS0twX2hSdm50V2FtdnhuRkxHRFQ0eC12LXRTeUJlXzI3UTE5blkwSTY5Q3poX2ppMlNsYXVpYTBKMkZpMDdCaDZ5SDd4MVJ1UVhKUlphbkREN2NkWEdMcXRMdmZBUDl3OTkyNF94SGFJWU14cThBMzg4cUFlaFdKRnVmRjljUFJnRVN5LUY3NmlFa2hvb1Ayemc5b9IB3AFBVV95cUxOTkRXc25la2JUUHhNOTJ1MFgtSTd5VTd5LUtqMFBjRlQxaTRQbk9aaWJvWmU4NGs0b2FmM0dQX1BiLTRiR3BzMTYxM3pFYl9VUHNQcXpHeGMyZm5oRy1RTm5zeUxONk5OU19nc0lmQlUxQmw2MUJYU0RPYm42UktKVTdZM1F6WV9BaE5SNFdTbXBsWG5QTGxjc3JpdS1zNzdQMzMyUjlVRVhKOFdVbWFFZWFqbGE5Q2RnSUhHbi1DNkpUU3FvdC1hVTZobWV2ZWpoc3FmR3J1THBMWHFk?oc=5",
+   "published_utc": "2022-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "ISRO recommends AI to curb ragging at Jadavpur University",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmp6WEp6TGJ3bl9KOTgtNThfbmNUV09EMThROFIxYTVWS2dZUzk2clVtbVhCdExwUnVCZ25qdjVnSWRnMmVmaXlHQ0FUSG5HbFNJaVFLMm90NDJObzdCd3dVSXBocXVmS2hpNHFuZE13LTFnZnNRYVBiMzdwdHZkQm9EdlJPY1Q1LUNPRQ?oc=5",
+   "published_utc": "2023-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad Traffic Police get 1,000 new manpack sets",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUFXanRnLWtWTjRHWURLc1JLVURmaWZMRkRrOUVRbjdibGZIRktTeHVkVjBJelFGVk9CYmpTYllneU1XUWlsUmlPQkNsSzBuYW9Fb2dOTTViWnFmeFhGSDFXeV92Y2M3MjJmNWlVTVEtUmExakZ4N2tTT3N6ZzRnM1Q3UQ?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "High-tech cancer care at MNJ Cancer Hospital",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSelJ4U0l2LVh3Yi0tQVZYbHJpNWtIcUZrTllERzdLNjhuNTVOT2ZFYUlibENnMkJMZUhWWkl5Y0NNMWloQVZldjVVWGRJTGh0cmt1YWQ3UHdiN2dUS0RnTnZ0NGw0WlZkNTY2NnRNQW1kTURqVEdkVG1rTQ?oc=5",
+   "published_utc": "2023-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

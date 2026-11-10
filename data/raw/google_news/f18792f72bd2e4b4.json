@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "India’s first AI-focused technology business incubator unveiled in Tamil Nadu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWlZfakd3Y0QyR0t2dzEwLWhPbWFwdnFnYWRwTGJmandMaENDSHdnQ1NRRWdCX1R4RjM5MUhCd2VnU2tFM3JXdmk3WFNxdS1ZcGtaNjhoYnVLcF9RZXNESkZXUmlKSE52R3VRTzJvYWJ4YmtMTWdUX0ctSlE5MndNWUxKZElwRE1WaDcwUmptNElNTm1rWFB0UTdsUWh2eUFkcmVERjQ2dWlUUndYQ0I2MzNlZGtVQXcwM25IYzJ0eks0U3RDWm1mM2RBUU1IVGwxaGczcVJabFPSAd8BQVVfeXFMTk9uR2J4R0trM00xUC0zUU1UYkZsY2ZmQzV0WFNSZDVDeTFDZy1haUVEaGU3ZzlNU0pVVFAyWDk1eFRvYU5VWDdXMlpYX2dsa051RjJKWmpobmdEc1J6ajJzVUZBLXdjc204SFVoVGpseWJmcUUtT1JxMEJEWEpQMmw2VXZWOWlPVFQwSVY0N2k1RHZaYmdGZlFhTTJqMlNGYzFBZ01BbjZ4MUd3LUxCREt4aEJGajdmRkwzV0FGZzNyR3d0LWJKVzhMVDRqZDJObWFVVzBzY05uZXRLbGN6OA?oc=5",
+   "published_utc": "2023-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Forest Department uses AI to prevent elephant-train collisions",
+   "source_name": "Dailyo",
+   "source_domain": "https://www.dailyo.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXl3RkI5VmlNRzJWX1M2azZYOC1zc09jRk1iTGM2SEtDQ2hqb1g0TFU3Uzd2UUVVLTM5bEpEdV9rNEVYQjJLSXE4YmdTN3JQcWhFanM5LVUzYXVid3RHN1FHQ3N0NFZ3VVZmbmoxdGl1SzlMOUludWszb2l1eElOaUt0VkhTallON2ZYWTdnNmRzaEFDRks2NXE5WTdwWmRZVWc0UlVMdU9uUdIBrwFBVV95cUxPYnpldVNaQ1RUalZfeWo0WWNxVjVVM0c3VXVLMjNURkFqRWZ2Z3pQTWdaYlFVQXBndFB2Y3Bxanh1QkJNaGhBaUpHSjR4bXlicXRLZVd5c19reWlURFZWRlU2bnhNT291M0QtcTdHdUlPT2VfRVBBSFJHajRmTFF2Ynh1RXVVdWs2eFZlcFRiaU5HOUhJa3RULWdEdm5KUU92R0xSLXFrakNadk04NktN?oc=5",
+   "published_utc": "2023-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Forest Department Uses AI To Track Elephant Movements",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVJGalNKdWg3d1dERGVGazFERkc4MDFfOHRUTzJwQ2k0M2YxS0tPYlF1a1dXT29OdzFlaWlGRmtMYnJXc2NfNnBQSFRxS0FfRkZIWW9Ga2lTcHBGVWFTbFZldUp6aS02WTFlVzNxcjRtWkJWanVYYTVoZ20xTHVGcjhxcmdvMnFnXzhzLVJOSUt1eml1SERLUUhVbWZhT2tFdXgxT1Vmc9IBrwFBVV95cUxPcXBLaW5GcG5iaklfMGQtaG9DQU5qeXdTbDVsZFBBaGFqcUt6NGRPMXhWSUtycGR2elpISm5yX3AzOUFWckJyLWhqb01yUGlyYlNqOWJuenRaZ2hkZmhfSkNLeC01TjFUVGwtbTZDVDE4QkIweE5GUDRLUEdwaUU3dGJ0c05RQUplc3JYWG5rSzJKakx4eERYd21VcnVaaTZqMWRQcjQwQjYzRFE0VVp3?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-powered courts can rewrite future of judiciary",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDNCdVpWdkhqNzNydmdIdmE3blVnZWNBOEFvdFFFcGlEb0NfX0o0WDZKNlZrd1ItR1NXelVtdU5ZWGxSREFjQUhwNW11QUk1c0U4YXIzbkQ2RlQ4OWxOQUk2NjJZOHd6ZlFBcTJaRVFmVXJjQVViNlZzdzNjeHAybVAyQ0l4REw3c01GT244Q0VXNnE5cFdtTjNJX24xYVUwVTBkaTh1YzUzd2Y0YlgwQXF0UWszUdIBwwFBVV95cUxNZXQyZ0dJV3ZMeVQtMzVscHFhRnRLVGxZVFVmOGtGZWZ1Mmp2RF9wcVhqYkZaWWdfRV9NbU1mWnc5aXpZa0hTcTNhWmVBNUxobjhDMm52bEJPcjhYdk0zTl9mdnFfTWpFRGlGSDJDekxGaktMWm9kS1AyMjhnUW9FeEdVdHlGSGx6UFR1TWhjUmpLVHlvblVwQkJDR2xndlJScDVob0ViZzR1QVZBMERWZ1hQX1lpcndVNW1ickM5OTNjZUE?oc=5",
+   "published_utc": "2023-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu startup mission launches Startup Thamizha, a business pitch reality TV show",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUZWcmtoa0l6dWloM3h6QlRLM1BfdTIxa1lfMW5jUFAwX0FYRmsyZmxRMnNGd3p3ZDJUeDRvU0EyT0stUXhNVkZSTDhPbHRFT1ZyZFh3Smx5LWpUbk9uWC1naE9yT0ZMeGNtRFpITUo2YzdSVXdEVkZpRnJmTk1yVU1POTJGQU8yZUc3cHhn?oc=5",
+   "published_utc": "2023-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Illegal Sand Mining In Tamil Nadu: The 4000 Crore Battle Between ED And DMK",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFFsZ3hPellMeUtabGNmRTAtZ0hUd19QaW9ycUhheXpvZVd6TTJvWnc2Rk1Ic1ZhSElmSGVrY2h2d2NQY09qSTBGcTBYOXFXYUdlLUFRQ3k4aFZSaUNPZkhobXpndkZaRXpyNzFaRUdQdmxSclZJSHZxWkM2eXI1X3ZpbmRjRDJPOHVOakpCRi1aSVFsdnpIWmoxMzJ1bE1OT09QZC1mZFVCeHJ2dVHSAb4BQVVfeXFMUDMtbGJhWTJJVW4waXZQVVF4WlNwVGJnb3d6MnpUbWV1TjJVMkFCX2Y1THVmMXhybnljQnZOY1l5c1c2RElYYnpYZm16TEpxenRPQkoyTExqQXJpdHRELWswZlhQdWFUazh5VHVPVGxBWHk4T09RTlB5NkstZEQ0dnNUSXI1VmJvUGpmRjB2T1pPeVI5T2l1WVEwY2R2bG5CNmVkeTJhVUN1YWVfMmpIanU3a2VVZ3I2Wm1WZ1JoZw?oc=5",
+   "published_utc": "2023-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 29 crore seized from Tamil Nadu minister Velu, his aides’ premises: Income tax officials",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE8wWWhXNy1yUG11MUZUVkVtbFdYT0xTRVV0RjRkMHltNjY1Q1ZrSGEzZGFyV0J3aEJkTHd2dG5fUUdHWl9RaVplOHJSci02ZHl5ejRYeWlMRUx0QjNDbnB1UjZyOUFxdTYwZEY5aUhvcEZGRzZzZmpJOC1PU0N2RHl0TXQ1bnBReEo0Z0ZXY2UtSnpHdHBUVmNObzJrN19wU254OEtIajBJbGU2OTJYZGVmOGI3MkZtWFN6aWdLVG5NUm_SAcgBQVVfeXFMUEFRWUkxQWp2U2hUQ193NFJZUDdJMlgwWnI2SDdkV1NJSDRyd1RoV283WE8xV0JWMnZNdlVTdGhTc0NyUkEwWTd5NHZjQjhCclEzanY5RG5mYTRUMjJ4RkJabmVieU1SZjRyRmFkTTlrZE5jUTVrVGptOEh6bXZYWnJ3bktmX2Y5WHJEcFdpU19pYnpyTlBzTFF2NWJ0OUs5cW9uNjBqemZsNkpsNFA3RUxOY2pXMXFYV3pYX0hNRUIwT29UQmhRVm8?oc=5",
+   "published_utc": "2023-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Udhayanidhi Stalin launches AI-powered chatbot for college students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmw1TXN6a1RUTElfX0Y2d19jcXNnUGVvdTVVX29BdHFBSDZXcVU2Mzc0a1VsMDdVbktreGIzSERXWWNKSk03N0NZb2hGak5SYkprZGhLUDZWNk1WS3RucGN2Q1ZfN2t5WENzako4SmswVGh0WGxPUnFXbXZNX3VmMGt5SldMazVFdzFQUFRKQlN6WXVmNFgtTGN0Ykc5UTh6c2FkeGpzZFFYTzE5cEtJWXh1LThwbmdDeUNwT3VkeGNQMFVXaUFsOUJhZ1FNYVlkNXd3TGNSa21jQdIB3wFBVV95cUxPaGd0UFp0aEJwTDI4dUduV0hJRVFCaXAxSHY5TkdCVm12d0RocTY2dkZUTHJmenhfTF9jak1BT0cyckJ4cHZPc2R4NnQtY0hJV1FaOHktb2ZkZEVUZ05NN1h1RGlHR2U2VUoyR1YwbzFjR3JOeDlKbmQ1S0RGUEhvSUVDTlVDSUV3aS00RzVZYXpwZzdQZUdab0ppTzhSeDRxZVlqRVNiNlNPYTVNenk2MnNkak05UUhkVHJ5MkZfWFVxRndoTXFuUEZtSzZlM0p6WkNORTJ2TlZWLUZ2N0t3?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cops To Search Central Probe Agency Offices In Rs 3 Crore Bribe Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQUJPRjd2ZUhXMi00OGpELW9zcVRBNjNUUk15MGo3cUxsalcyVkpkRTJYSWJ5bEo0OGNIaUU5ZVBFRGFOZExWSlBGclZzMTZKdlA3MmJCYVdtVEZkb0VZZmZGV0habTBYM2lneDIyY1Vabm8wU2ktLTY0UnAyLVZKdTJ4NDB3OWtGZTlTU0d5dmJScWhvdHBFeGZiUWdUdDh4am9ENjhoTHNOR1pOcW4xTDg2WF9FNXdoQVMzRGxoWmJZb1ZQUXZpRm43TFU4QjVvYklpRkhxXzVJcnlqTHpWeVZpaUk1Unl2ZW5xTllWVkRyeWpTQUVLZmhHU2xGWGF3WG5XRTMtUGFvQ1BISXkzYVZB0gGaAkFVX3lxTE1TWUxreGwyUUx5N3NfcXFhcHY5TXdKUnlyZ19uNzBuRzAydDBqTGxGZ3dSTGlOVEZ3ZWp5SlhPc3BJSFc1Rm1SYXkwc1NsUFdoNTM4V2lUVjdSclNxbUNwTzdBSVg5bDJYSFhuR3F1RkhKS1hscnBibXNVdHVhQVR6WUZiNWtpMmlDUTdFQlZwblAxamhVQ0xibThScEJiTG1zSmlOVFp4OGZPbU9xYmVYbW1vU1hsaWZCOWk0THVPbFJXTmNQaXRhb2VoblpkemRFQkplNnU3VjJhRldCbXNHWnJtYzhnV3ZIdFFCN2dfMUZhT3RvejQybE9qWHRzc1pCcUNrcTFaaWZ3YUcwSWJ1QW4xcjlpMGx4dw?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Diwali: This region in Tamil Nadu records maximum liquor sale",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQW83dzRBMzJpaFJwc0dCMm1lcUhYSFRIdGFhcFc5VUp6eDNBbHNFMmdwQTdRSDZNQW44WHlpNW5wTFFfZksyWjBNMVR3ekJSWElmVjBId0hQVkxWcXhyVFBGOVFKcmd6bUJjTEl2RGxEcnk1YUJ5MnBPbnBod1dCdHhuZXpIM3U4UENiSFhCZGQ5aFhQTEpsVFhjVlBlZFFzdzZWZmNjWUZLbVZEeFE0anNkMG91WFZGVFhEN2tJdlpEMFVhb0V3Y0p6S3pGUktl0gHWAUFVX3lxTFBtQ2F3Y1pWWUNLbjR3aGdSSmw0V3RXaTlZQ011TEhFV3VCYzQwRTJYZXdjYlJDczcxVEU2ZmFWeC0yLXlkLTlGZnQ1YnNQZlNkbUF6YmRFQUVTdEhRUTdkTmVMeUg0U3FBSFhkR1F3TE9OSEdjNUhESm95LUxxSkt4cFBvRlhpQ05Rb2lJbERma2VPUVFHQ3VOMkV4czA0cDhNOVVEME45UV8zTkZUdU1ISHFiemp2a0lIYVhwSUlMaFZnWW5UQkRDSW10YlpjbnhWbWVKX3c?oc=5",
+   "published_utc": "2023-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

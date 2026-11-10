@@ -1,0 +1,13 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "Daily Roundup|India records 3,714 fresh COVID cases; Adani Group to set up hyper-scale data centre",
+   "source_name": "Knocksense",
+   "source_domain": "https://www.knocksense.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLUE2cmZxelBDUDdXRm5lX19oUFh3UXk2SkVkNGpYOGoybmZrcXpUbzBTMTVTQ1lrWFZhdHlzdFRGZmtsUDhqSTNLZ01sOXdCNjRBRWQxdGQzcG1QYk9IMzF5amgySURJU0VCLUZvcmdFZElacFhjQzcyaE9CdTkxX2ZhTkdIRU5NMkZ2cDFVMXFtdzBqZnA3SzR6Vm9tYy1CTEx6bWJSX2VFX2FTanNORUt3MWFaWWZQVGhfcjJwblhNWHo1ejNjVmtxSdIB2AFBVV95cUxNb2Rvb3R2d0l4VjVIWVdxeEdlcE15a2w0dExWSG03ckU4WEZVZEk3cV9Lbnc4Um45TktGRkZhVkhWT21DUW1Vak50X0pqQXloQTZYa0pYQUNnbUNwWkhlMG9CZklraURhdzZucF9udENOVFM3dDFPR3FGUGpCR1U5MmFTbjhLRE5sblZXRU1uYWVXTlE3ekZJTzR1Xy0zTjV3bFlHcDJrcS1uN0NfSUVUUXFZbHJlT1ZyY19EUHJDZU1Ia1JLRlBFa21sOUVOUlc1azM4VHZFWTU?oc=5",
+   "published_utc": "2022-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "\"Gujarat\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Apollo Hospitals, Ahmedabad deploys Da Vinci Xi surgical robot",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUTI2aUpRcHZ5dVBFbUh3dGo2ZkNJcEdMZms5MjZEMlFyNVExRUFJRERHRTFQMHgtZENWOEZwMHBRYTM4c3hKMndOaUoxbzhpaDJaVXFTNkZxc0ZYSzFxSTU3aVROMEUydjBYN3A0RGdBTWhDaktBTFIxWmczTEI5MU5keXlLUXo3SFNQcENibXdkX1VpMUNaZ1YtLThIbU1VMXpFdW9FZlU5R1R2Qms0N2h6YUQ2clNaZlc1Nkd3?oc=5",
+   "published_utc": "2023-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat signs MoU with US chip maker Micron for semiconductor plant",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFI4Vjc5UU5NN2RwcG9oYkdIdnJ2OEl0TUtzbldCWDA1YmR5MFJnQnNkeERpU3I5N3dlOGw5R3ZmY2t0bVlEUUItWnNmQi03bVpPRXc3MDlzUDd1RHFxM281LW91R0RtaTZ5UE43dDJkeUt4Qy1oazVWOV9tVFlUYlNxelZjVi1RTENETURnZGFORXRtSlBUNjE2NE9yU3EyRWMzZHo0d3l4TnZSZTF1YmRsdlNDYUpDUTNjenVpSTHSAcYBQVVfeXFMUGtQMlFJdXNMTVRENFBCaE94MnFUQkM0YkNoMWtuWnppd2RhZFZxeDMtZ3ZSc3dYOXMxXzEyMlg1LUxkTlVSVGRFbFl2aVNIbDJzemNLdHJoYWVxRmpxQTRZNTVHOGZxX2kwYnVjWGlVUTR2c3lQWXVOQmVoLTFUU3dzVWJBZHVWWjUxOHF0YVZaN09wUG9FUndLRVVTdjA4T3hyUUVhWXZFTWRNS0lkcjZtVXFsanRna1pPNzVadm42SU1oazhR?oc=5",
+   "published_utc": "2023-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to set up fintech operations center in Gujarat",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkVPZUl6MXVHMmo3SWVWTWxLUUdRUVRPTFk5V2prSVZReE5MVUN2NGNFQ2IwLUFwUkJDSkN1WkVtdTl6eEVFRHg2ZmZ3cXp2QktmdkM5MVZDdTd4c3M2Ynd6OW5PV0duR2MxXzJWQkFQNXozdFU2cW5oWGtkRWwyWWsxMTVBUnRzdXF0QXlwbWRnanVkamVoZVY2TXZ2OHY2TU1QNHhJYmJPaFRvZTBvQW5VVUZEMFhnR1lzdmRRbEZ1UQ?oc=5",
+   "published_utc": "2023-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sundar Pichai discusses Google's plans for India with Prime Minister Modi",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzgxallrWkxlTDIwUVJSOF9xNFNFVEFCUkg3V3NleWQzN3lORlpndUJFcEtJWXN5U1dfemRaX3pOWU5SSlZheWJYb05lVGI3WTdXUnV5S0hPZGVaeXVZSVR0dXdYdXR3WTB4WWl4a28td0ttVFlaSnpzR1VTYnpsRDV4VG1NVVFv?oc=5",
+   "published_utc": "2023-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt signs MoU with Micron for semiconductor plant in Ahmedabad",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYi1adWwzMWZIRndfTUo0cFdCUDZBM2lwZGxwdGhWZFdfWGRQdW9HbVpnbDFYR2ZqOTY0b21rUTd3SHB0bkFaRWxxR1EwQl92OFlzb2xLQ0dvUXVaTWdMaVJOaXBLMGtkNkJfSVFqTXpCMHVMZ1U2MjdIeGllQzdncWRTanowQ2w4czZvdG1Tc3FseXI3bENwdDRpbUk4a1Q2MVczMGxYSklLa25GNG91dVBfUlUtWVd5ZTViWNIBwgFBVV95cUxPa2hjaWE4Qm9WaVR6cVNPQUxvd0lYTEJON3JIZGNzcHBXbG93TnNHbV9pYVZVYmU0d3owbjVhV1lrb1FaOXgzMFpYMkRzbzljbHZLb2w1QXdwTmxmLXAya0Z6ZXBRZGpneXNiNWJLMi1lQ0JmQmItRFZpWkJYSnR4TUhEOWkxQzVXcHZHUHU5UmF4dEVsXzdudTZCRzltTWM4VjNwbXhJYl9pLWZ4bFJCZ1RZYll2WktEWWFiNE4wczA2UQ?oc=5",
+   "published_utc": "2023-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Guj govt gets ready with SPV to host 2036 Olympics",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVk1zVXQzaldpcEJrM1FEV0F2MDBaeU5iU1ZiOHI1QzFaWE85blBaUGhfOXVsbUlwMWludDhHMFFpcFpfZWluRGVTTDFVS09ScXVxNW95M1RVY19UUDA5YnptbXZ5VHpCR1NRREJxRlJkN29kekYzSWxDR1M1Qm1iZjlHcXY5Rll6VlRwZkoyS3d6YnZCbU84RUVnc25VSW85MzVEQmJnbTY?oc=5",
+   "published_utc": "2023-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cyclone Biparjoy: Satellite imagery show storm moving towards Gujarat coast",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDFBTXFqNDRkb2xpOHluY0szQ1NUT2VEanZoZTJ3MUgxUzZIVVVXYjliX3BFRjFadDJBekxfMnFweU12YVU0U3FtMTNBa3dsM0cwMURJS01sdGFzZlBscUtFWjFfbklqOHpqb3EwRmNJN3pnVUR5MGl6UTJjY3UxMjZBQWMtUXlBdU9DMnZja0lLbnVfMG9xRDg1VzRod1VQWHhOeFQxU1l1TVlsU3ZQQ3dxUmdDUi1JRHF4QU0zWXhibUlBc29fSjVDNFJFNWM2bTVR0gHYAUFVX3lxTE9ZMUlnLU1XUVFtV3hMZzI3V0lLbjRON253SHR5cG10ZUtZYm9GNk5OV01sdm1EaU9VZmRlN3FjRURoQUpvOU8tWHIzVG01QzNVLXBlZjExUjZ5STBYYkFNMWhkd0xoMWdsLVMydmlrWDNBbHdKdmZIRjZoQlBnZXlQRjQzck5TaDlEZWdOcUJyS2NTbUk1eWRoeDFDdm9FSzRKcktHVXBMXzFWaWc3bkhGV3ZuX1NDNXFTZWV3LVJRTE8zSkotWHR6UkpGYkhlUTEzYjZRWjBieg?oc=5",
+   "published_utc": "2023-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Micron to invest USD 2.5 billion in Gujarat's Sanand",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "https://legal.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaUJXUFA5Q01HeXJ3MHJ4WThTMHoyQkdmNG9SRE41cjVMVHB2SERtVEI4WldZaXRQZlZlcV92NmFGVWxfSXFhbS14UE0yMTNyZG9OenpLWllPdUl6UzhtNDVNREtJOGZzWjVFUDAxSjVaWFJwRkstQnpFTWVWQkt6b25VaTg1UmFpQkV6WW8ycEdyV0s3OTFBUG5FOHF0cUhjcVdNLWpybldueHJaLWNXNDBVLVVzRGJVOE0tMmJMQVJFVHFybHFR0gHLAUFVX3lxTFAyOXpKa3NOZnNPYlVzX0c2WkVRbHA1ZzN5clpvRFNYa3hsbUI2NmI2OE1TUWxXRkRlRkhPUXRVd2Jaa280cE5uSzVodW11NXAyT0hObi1STGFDM3U4TEhtSVVmR3VWQm9Kd0YyQVRJbGZNUFlTYkw5cGpnLVFRRm9yRWE3SGdRY0lfRkZ3U1BtdmZxMmQ1T1EzZTJVZkMxM3VVaUhhclBXamkxU0NSdExwbW1FV0xrc2VCb201bFRsaW03RTlUcjVWX2Zz?oc=5",
+   "published_utc": "2023-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google to set up global fintech operation centre in Gujarat: Google CEO Pichai",
+   "source_name": "Zee Business",
+   "source_domain": "https://www.zeebiz.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkdjMW1qUzUtaUxCR1FRZFVFdGhBNUkyalM0d2hLYTVscnpRWi1CbFV5UGkwOURidnU0SlNPbENmZTQwVzE5djZiTnp0VXp0ZXl0RWlsM0pCaWZnM3N3SHRvWVJxZVRJTTE0SEhJRUxqUDdYUUUxLWhNNjg0N3QyS195Wm94OU85TWxOQnpHdHAzYVBjMkZManlGd3R5SDFPek1nUXIweUJhalI3ZUgwZlV4cldONk9KMnNDU290NA?oc=5",
+   "published_utc": "2023-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

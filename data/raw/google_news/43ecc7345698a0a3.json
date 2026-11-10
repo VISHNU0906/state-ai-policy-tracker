@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Tamil Nadu schools to reopen on June 7 for classes 1 to 12",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWY0WjF4cnFaZDhWZjdBd25WM0FUZFpieHkyRUppLVM0TC1HSElNak5JZVlMTXpQaUNOaUp6MXBaSjYwUENFWnYyVG44NU4xaDlmSUtESkxJa0U2b2g2RlBSM0lYeHhwTGlxbl9VLWhoZGl3cVllck1XN3JTMWt4Q1NaaGtGUUZoOTk4OWYzYlR4aWYwMG4xTV9JQUpYMG5zNjJPTkpObjJNOXBSOUpHeVNvc3ZDNkdzTnFyMm5mRmtuMmIxZ2dv0gHOAUFVX3lxTE42OUcyQzdZTDdrRUV2ek82ZlhncGlTR2c4ZmV5NmNJbmZ4VDhIWVZBM2NGcjF5R1M2MHJaZWNSZFg5SlVHMkxIWHlvd2R2VGQ2OWR5VjZXN1RubXdwc0dNaDNrVFM0RVVBMmUyYTdnWUhxWThTM0toeWZROW5BYjVRU0J4UkllWTFMNVIwaDV0OFd3V2xZUUdjYVZrOTR1NVZIcllNODZFdzF6c0JkLWg2Wkt6anc3djg4OEVjbWVfNUt2cVRBNXkteUtCVWF3?oc=5",
+   "published_utc": "2023-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Girl Sets Record In State School Exams With 600/600 Score",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUV9pajBwSkpBemFCbmRnZHhZVVlPTnR3Sll4QUp4XzFfMTVDeHBVRVZENGJpZEFucVgxM1RXbExVMFk5clRqbm13RGVhbG1pa2lncmMtQnRnN19yQk9JVkluNlNpVWhjU3RUTXpJdU1YbUQtYlQ3Y2xFNnlTMFBndzlzV3pKT2hTUVBfYmdnd2I5cmZQSkN3RTd5dTJjVFZuTG02NHpQbXc2XzFt0gG0AUFVX3lxTE8zV0EwaWRqRFVSeDdOWjJ0VmZZdzNhWGlpa2UyU3BXV3N0LTBHY2Z2cWxFbkZJUzU4dzVZOGRXMXpHT0ZyQ0NyZm5kb2tDLXdjRmtHTElmQWRIYzVjQ2RBWVpVTHAtX2NucFk4S2puczJDQjRwLUl4d3ZfU0JfTFFCejFyM3dwbG1LTloyb0RMbE91YVQ3VDF3eUo1NFBqcVl2ZEtKTVkxQTdHTVhRVzBDdEl4Mg?oc=5",
+   "published_utc": "2023-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chennai accelerates multi-pronged action to end TB",
+   "source_name": "World Health Organization (WHO)",
+   "source_domain": "https://www.who.int",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSENOUk5McmFrQUxJMWo5WXNSUkhGSDVfcnpXTnVkdFJFMDRHand0X3NoZkRNLWlqMm1fNzRxUXJtYVIyNHVvazdnaVB1T01VeTJDMHR6Tlg0WV90NHNQQl9nWmp3MGRndlNUNTdxcmFYbFZMdUlERjlQWEZvX0hmbWx0bEpFZVJNQ1RMZ2tkODJGbTJEbzhQd3M0Ul9ZTG1HaHNxOUxvcGI1dTEySkE?oc=5",
+   "published_utc": "2023-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "iTNT Hub to help state’s AI mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlMRS1hY1U3LXF4ZXJpRUZ4cERnZlM1eXRsTXJNbWswQUE1X21FdHRxT3gyS0ZyU3FkM1BDOGFTeW9LX1IwSlFNVHEzZmpHbDJjZmtvS0ZYZElRd2t4dDlhSjRSbTZFcG44bFdCUGxXNk5nNFUwUGlIU1hRdEE2NFU5NzJvZmlGNTN4SnRmbnNRWWt4U1NUTmhJU3lFdHNCSmlUSFBBV0d3OXJUa1HSAbMBQVVfeXFMTWVlaWNQaVlDMGdQOTVEOEdnaGtsX0s5UkQ1ZzZ4bkNUTi1aNE1QaUFSM3BLcjI0MzdiNXlwT1hoOTBEd3prNFlzblFrX2ZseHJjSUFLY0I3LV9XVExuZkhhMElfeGtJUl9qYkhuUnFJakJERnlGSFB0R21aTDFrUGZ5Qi1OaTdtN0xZNHJNanduZjJnaE95dGRNT2NUa3pCXzl5blZ0QlR5Y3pmUC1PVGoxMjA?oc=5",
+   "published_utc": "2023-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jawahar Nesan resigns as Tamil Nadu State Education Policy convenor citing bureaucratic interference",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXRrUDdIVkdMLXItYnJ2NVdSNHFuSW9BZDUtYjdwOWJkc3h2cmRIdmx3TFVXMk4xdkJxVnc2dFZXU2RHMU1POXFoYUhuTDZGaENWOFJSTFFiUjgzd3BDREx6bHBiUXd6OU02dUZ5bnlHVEtvMnpaVjhOWDJMdjZ3T1NHUXhYWWhsR3VBYklSZlF1YVNZ0gGbAUFVX3lxTE11QnEtd1dVYVBxd3FJMV9aQjJlNVhZSTV6T1U3NklXRUJveXhGZFRIblluUnhmYjV3MVJoOWhqZkNRazNkMGpGLUppRVRqM2JIZ3ZzQ0hucC1Sb2VXTzJPbk10THRkdURaQ0x3T2hqajBFb0l5UmlMSnNxUmdxWWJaN2taRWZ3LVpzOHRJd0Z4OFpmTFY5TENmZWdr?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IFFCO Integrating drone, Nano and AI technologies for smart farming to make Aatmanirbhar Krishi",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeHdndnF5WG9PcUZ3UGNCNlo4WDZKeEplYV9fU2p3TUpOZkItOXpseU5aendCWElyWEJncUdwNkEtOW1zR2ZSNXNPNWVRellaSjBxLUxUdThfY1l4RWpHTGQ0bzR5QzFfNzRNUDZBZEZocXBmbmhKUUhhbWFieE8wemxsaVkyYWt5d2FXYjVtY0NYOWJfX2pLOHg2a0dwcVU2OTMyOE9lY2txQmVDUmllRTlDQ0pncUZWLTVURXQtd2VDcTVadDJRYUJBdktkSG1KTTh6M09tVks0SmNKLW16Yi02OUtkUmJCYXRCbXczT3pjQzhxX2plQjU1T2JETWpFc3ZaUzk4bHA5QQ?oc=5",
+   "published_utc": "2023-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "15 dead and 40 hospitalised after consuming illicit arrack in Tamil Nadu",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0I1NHJ1WGlrVWtDU0Nfb2Nzd243eHdxN3hGYXplM2JrY2tGZENNS0VyWjRBWmpTRURZMUZ3U2liazZIYmVDMVA5Q1l3b0NuRzlsVDh3aURscnBNbjh6U204b2RtWXU5UDF0LXBPbkM5ZlRyQ2FBd2hXelBKdzdLWDN2QmNJYzNkNzlMNXBYYnp3Ny05UV91VFpYcWw2LVRGQ3Yyd2Q4aFd6YlVPMEdIY3VKbGtQbGxTY0ctVmlSeF94TncxZW1B0gHOAUFVX3lxTFBELTNPbU1DdDNSY0trU1FxanIxc2YyOTVJS1FJZDM2NUxPYkRLYk5uMW1DN2p0S195c1VQQUc2ejFNMkFWVm1vRWpOSlV4NGFqb1BGR25WM2kzalRCU2JjTXduWXpPempBeW9rLUx4a2U5d1cwQnpZRW9iSXI5a1c0c2VBWkFVY3hBa0FpUTVDQjk0RmpzSjIyaGJuOUVlZ1hPM3daM3hSM05KdHpLcDZTeV9Na1k2blJ5QzQtS0pkZjNkWkd6TVhmZ2Y5WEZn?oc=5",
+   "published_utc": "2023-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "7 Tamil Nadu Cops Suspended Over Gangster's Murder In Tihar Jail: Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjQ3UGw2eDdIVmZMVVZGWEkwRk5NR1RUMkVtUWlsb0JMUEFwblJMS0p5Zk5Bb1VjU2V0UVFRcnFTRDlpN3B6dVBuMUs4bUVyR2wwQWtXQm0tWEhaY1BES0dTZkxxaEtUT3BSdEZvN29hRnI0ZC1kbmdxTW9BaEtsODRUWXZmc1RhM05tRkdPRmhjMG9qODhJNlgtTDBWNkI5X0lDLUZ30gGuAUFVX3lxTE5fUWxxeEpHRnRQZU82SmRxTV9WcGFkcUJFMFhOV1hoenFreU5tbEszdVhkTER6VzBqc3A5cEZLTzFqdGI4YnJmWjR6R3R6bFR5R0ZSZC1ULVZrcXhVX01LNnRXSUZqZFl5ZnJKX1V3MkFQWWxCU3dhRGZhZ1RUOWdpWG5MX20tVmlqM0tuZDNFMWdPeDYzUy1NQjg5bHRNS1R6MjdTVTV2NmVQa0ZLdw?oc=5",
+   "published_utc": "2023-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu daily wager’s daughter scores 600/600 in Class 12",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1p3dUw4aXdpRi1oRWZBenM1WTFhVDBxY3dlS3VpbWx5alVnN3R1d3BUVS1tZS1RaHFGWGVJOXZfN2x1TVBVVEhVUk0xaUdYenRBS1RvOHJpdlExRFJKXzhkMzR0VVJtX24xbGF5TGtBNkJzTktoaERwRmtUdWpjLVlCSnBicndkTFd0V3I4Z19CbnVCOGRaY1gtaDRCUEFDWFEwQWVOS0lnVWE0NmEyVHlTU3BZMUdxVHRxTjgxejFtSTlwcXVDY1RVdTBHUG5XaVHSAdcBQVVfeXFMUEFhQURFcndydjQ5R0xrdnFRZHpuLVdTY1o2ZE9UU0ZVWTU1Zm1zS3Z5TE9xaUdTZU5uaWpQLTliU2RxSXpnQ0VNUXJrZVFxVVNORlY4eHJZWGRsTVMyLS1KUGhSMXg0aXZubnVvSkRzUC11N05BaFVtODJ1MGViMzBYWThlTFFkYkZOMVRybU1ZVDhnY0U1NjlITFhKZWs1YndtamFybTBKdkFaT0xKSWVmdzRqd1dWVkdyV2QwYXFqTXdZbFRhbVhBVEpVdHBZWnVFVkhkWGs?oc=5",
+   "published_utc": "2023-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "10,000 deliveries in 33 years: Tamil Nadu midwife’s remarkable service wins all-round applause",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUThjeFVuNWRLRko0QkdHOWZDUWl1TE1UM2daZzh4dmJFS0NQckFVZXBGTUxYZG8tV1lyU0dVNDBOZ1pnbzV4bm5rQ25UWk9Hb3hMdGZVVHdTYXZDTGY0M29RcDBTaU5XV2tac20tODBoYlk4bXh6QndPeDhjRjJVbWVubEpQbExLaXd1R3k0VUQ0QWRsQnlFYWcxQ09MbndsMWtKdWRvQmF0NWZWLURKYTU3YWNlTl9SOU1vMmd1TTFqS0ZhZkU3RlI1Q21ta1cyamREdU1ma1VVLVd2X2M2ddIB5wFBVV95cUxOYVBkMDNuMVI5T1p3ODhIMjdnMUpUdE5PQzVuaGFseVQtclE4RF9aeG5uUUUtRzhyVXgxRkZ1bnlGaUN0NWxFczlIQXQxS0pOUVJENlU5aTRtOWhObENiR1dwbWZJbEMwOTdsYS1BcFNIcXJEWG95S3VTamJ3aHVKaTBWT2VxbHNRakljX2Y0SWg4WUE3ckZPbm9NRldWUm9reEpuc09IeUxhQlQzMjFvcGx4WGVwZWp5SjV1Y2M2LTlYNmJJOG9CelludTIwS0hVemZtNzhmemJuRnFqZVhyRHljQXlQODA?oc=5",
+   "published_utc": "2023-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

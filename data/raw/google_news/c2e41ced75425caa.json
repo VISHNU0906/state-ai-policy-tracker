@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "A Small Army Combating a Flood of Deepfakes in India’s Election (Published 2024)",
+   "source_name": "The New York Times",
+   "source_domain": "https://www.nytimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOG9yM0RhVGJxVjRqU0JObEotbk1CWFdUMUh4N05UWHRWa2dLR0hTTDdFbWNBUmZYcmZjRzZFcGNWSjY0aHR2V1A5dFZJVU1SdkRVRmdiTjNPWjROOGZaZHNxMnBhREFjVmxhN2ZQVTh3aDRBR0RyN3pvUFFaa2dUMA?oc=5",
+   "published_utc": "2024-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

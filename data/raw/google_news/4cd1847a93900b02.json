@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Doctored video of Amit Shah speech | Delhi, Assam, Maharashtra police file cases",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN0RQQjR1a3c5ZkpoN0t2TlFFdlpwYmphOXZjbWNQeXZadzBjYV9NT09FMGVBd05OTmwzbXZCYmdiNUlheDFnaXU4Q1dramhYbG4zNGpYQkwwd01SMTlhb3hiaTd5S29yYWM2TVRERVhlc0Q1cER0NVV0aDN0cjZ2ZTlhT2wzdk5NTExGSExjV3BoM0gxQkFjLWJrajFRZHFORHlmVF9UMVp5RGk5VVFWTG9rTmI4MkpmZ0pYNUJ2aGg4SjhWUHEyLUloZ09zVGF20gHXAUFVX3lxTE5kNkZxenF2NDZ4clpjUnhlRW9HeWdZTG5rWHNfeUVvNEtnZ1phVDVPaHNXem9vMk5fNF9ZX1ZOOEotc21EUW5LQzlUVUp6d3VnNWJWQWZhN0pJQ29uTk8tUmRBRkV4QldYc0hEbUx1a1lFWGpoM0xEbW9LamEwZHNOR0VGZkNwcVRiWksxb2lFbTVmSVJGSGVURmFLaXpNYUw1WkVwUW5lNkFrcTc4elppV3EtSUxfdmVaVjVQc2ZqNXVFQUJhT29pTWZWSzRYU0RmQW5jbEVz?oc=5",
+   "published_utc": "2024-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Preserving India's rich heritage: Embracing technology on World Heritage Day",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaF9FY0QxZ01ObGZXSmt1NFhJNjB5MHFKcUhObkdLZHJzOEJhbGtMWjFmNE9sdHZWS3VMOWpSYnhfR2dqUWw1dDBhT0hObVBkcXpNNU4zZW10SVJBVmVIUTFBNFNKSXd4QTA0cklZTGFLLVBOZXVVZFV0NlgzVFFJUHZRZ1QzRkg3aGRIelR1dDBDMmMzeXltZUpNTkVkTjlIVGYxSkRHQWNLVm54RXc2b0d5dEtvb0ZNc3NXWXZpNy1xd1ROSmh3ZkZpWUTSAdABQVVfeXFMTkNicUM0OUJIZ1lZLVNETmpmTlRjaU5YRG4yUmFFYUNyUjk4RW8zWWNjWGYzMDVrSDRNb0lQbHE2VXh5QUgzOEpRRkNZTWRpSDRId0dSUUloNVFMajdfYnRPenRqdmtzX3h4UERsc3BmVzFLWjdxRUI1V1pfZHNmQU9mOWY3aU1QNDkzUFhKYjkyM1JlY2RLLUN4YkJydnBfTUl3Q2tieHF1THJRd21zZ2pCUy1Gbkt2dXplcUI2OFgzMTJaRVBXTjVPeXBDY2JUUg?oc=5",
+   "published_utc": "2024-04-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt agrees to grant benefits to Maj Sood's wife",
+   "source_name": "Rediff",
+   "source_domain": "https://www.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHE1UV9wR3FEMUM2R3BBMFZLSVlEUTdBdHNjbHFyUDlNMTlXVW1wYnNfcG1uVGtucmZ2RnBEWWJqTURKVzB1Rjl6dFNnMFhDTms2UDMtMno5WWJPMW1jbHljbzlUbFhwV2xMdDVJdFRZVHZzRzZQMG9HU201UWhTSlh4aDNkMTFsXzBHaTNCUGpfaDllQVBfc0o0UHVpaEtwb3fSAaQBQVVfeXFMUGRVUzhidHl2ZTZqVWN3SU92RkJJT1BjVWtYSGpWalRFTGN4UkxwUXN4bFVZQlJnM0tyQ3JXZWdVZTVwUkllZHMtUlZ2Ukpvd1pkSGhBSTF3REthTkpGTlVGTDdscERyR3JHcUlBTU1XaUg3cVMxY09OYmZ6b1kyd2pta3NsbTAtRTQ0OTNWLWxmRXRpMTRncUltczRqMmxhdjVwUUQ?oc=5",
+   "published_utc": "2024-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra votes 2024: Why is the state losing big projects to Gujarat? | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTNzb3Z0UlpiT2xxaW1mX2tuMjRyWE5kMUtqNnBIM256dmY1a0tMb2RLbzVFUS1KN1NjVnFZMjZqYjFuUUZtc25FY1ctSTlSMmRQbllxZWFVVEZIQVBCVEdub19Pb05QN2RuaDhUYWNlYzQtYWNwVHlRVlJ5bVc3bGxwTlRseUY2a21xWkU5bmNaSE40bjhmVFBPcEt4LVhZLTQ3eVRfY0JLanVtMzlFSFRNMTlXSnRTUk01dlRoZTRLZklraFJjWXdsU2taTjNqUk9paWdjZUPSAd4BQVVfeXFMT0l1NDMtNlJTeWdUM3gwTUN5QzdHSVNFelkxc2pJYllCYW5qSjhnbmM3YzdXR3NFbkUxSm5ZVndlR01EM0Y4dGl0VENpRmF3ejcwaE16N0hTX212UDdSYWtfYUZuaXJqTWV6aFJReVFER0I3U2xvcXpJdEpLb04xVDM4cXlaREJ3cVhlbkFfZTJKTjQ2VEk4V0lSeS1icmlxLVJRWmJXSFJIaFVGbldrSk14WmtZMnVLRkpId1Mxak91NW1LQlpkclVXN0FUR3NWNlBMeUZTMW14Vkkxd2Nn?oc=5",
+   "published_utc": "2024-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Asian Games 2022 Esports athletes gain INR 10 lakhs from state govt.",
+   "source_name": "TheTechPanda",
+   "source_domain": "https://thetechpanda.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZm80Y0YzWHYtdmxpZ3J2NlpxNll4NzdtdjlZSE94OHVUWURXUTB2RGRQdkNSWllmUjJGVWVBc2NDTVZoaTYxUUxhN3Y1OHVRV2ctWnFtU3NhNy1RRUtBelNsdUFNZDFmZ0pteVhGaElPYzd5dFl4VlczWnlNY0N4aFRKMHloMHkxQWpaRlJ5eG9GajdNQlhZcVk2czZFVF9PZ09UaWdEemZHc0pwelJfUg?oc=5",
+   "published_utc": "2024-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt reshuffles senior IAS officers; IAS Idzes Angmo Kundan appointed Principal Secretary of the School Education and Sports Dept",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUo5N2JEZmI2ZTFwUFZObEFWVy1fU3VFZ21IZWxsLUYzUjM3aVRfamdIeFZFQThYX28tTi1SY1pRSmlWM3BpMU9CdUtQeFdrZ0E3M1dSUUlLcVRMeWl3TFR2WmxHdmFPTDNiTDVjNU1uOEFFdlJzTzAtLTVXR1RpTUFqZ0VtTnVSQlFxRQ?oc=5",
+   "published_utc": "2024-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amit Shah deepfake video: Case registered against Maharashtra Youth Congress's social media handle",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTmxSQXdmLWpqUXFVNGx5Y2sxTndHMU5neDl1cG9MQi14Qk1hWUplNFpqMlJEMjJ2WXphempOVThxc0E5ZmtCWS05MU5BeXh6T2FUVm42dFE3b09RTFhMRFFUcU9wcldFN1ZZbFk3cmNPQ0hSWFFodWdHQ2Q5QzBDSTRmX2ltb3BJdzB5QWlhQlZRZURUOXZMVHd6UGh2M3NfMzF2aEhYRVFmOVMwTGNBSXFQUEtGb214R25pS0J0NUlCOGw3YmlDMXREcDBDYTlsU0Q1OEJPVThDNjB0VlE2cHl4NU1VcXlCVmZjeElDREMtT2FyaFJpTmFESdIBggJBVV95cUxPaTlSbTVIalpydEsyV09QdVB4VkZLcDlhVDZtZzNVb3g0dTg1ejBFN3E2VnYyaEZySG8xNlRtSEN3SHJ6bnRTdmcxOFVmQTFQQkZYZmlUNGZtMzZ5VTZSOHBnMEQ5dkFXREx3anFIaWd5SWFlSmN5MW9XaVJuSkdDSFpfTlZ6ZEdVdDdUa19NRlZaRk9RV0xDek5BVUE5SmJxSEQwYmpGQUFjVUVIUFJrbzBYaHZmT3VxLXAwb0FqWVZzWHAtcVRIZjBpYVlpS09rRkRhRm4yMXRTb0pVbEVBSk8tYzU2aHlhTEswYld3TUdFRkRReXJNcjh5a1VrV0dMM3c?oc=5",
+   "published_utc": "2024-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Petroleum Minister Puri emphasises importance of balancing market stability, affordability",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWHR0eHo0eEd5Y2ZCSXJ4Y0RpVVI5NE5oaEg0THdSMHJQQ2ZJZnNoS1dIQTRDNldkLW51X0VMN0R0bEMwYWZValBidWZaWDljREliRVVfd1RlQ1RjSzd1YUlqOFY2aHBOS3FfNUo5NUVrMnNFcmFpWGVySTg5X2dSV3VZbzFEa2cyN0h4Y0xGZVk3R2Y2YmtBdkZRVHdNVlROWTl1ZUNHanFrTWlFVGV5Yk9ZX1lhS0pXT2NNYnNMbzFXMVV3NTI0eFY3RnZkRWpwazBDWmF3RXVkTmdQMmRGMDZUckxvaE0xNDJSRkFvMmp2Z9IB9gFBVV95cUxQcWtXOXlEeHJpV2hTYjJBbEpQcUt1UHJxaWp3ejY5OE15bGRlSERfYlVOYmN1M1Y5QW50QXgxczV5Mks3ajFxYlhSc3ZZS2JHQmNmdm96RHoyQ0VfbGduemxaeFRSUjY1X0FHOExXOGxEU0lCbWNBQ3I3bFROWmM3OUFXbXpvLWNNM3RYem9uXzNCRzJhNWVqQWhjeENMdmc3amlzNHYySWQ1eVJIajZqSVNVelppVW8xU29LV21oUG5UWUpZbTd2RkMzR1hSbUFsck9iMGdoc2hSOUdfU3F3aENVSEU0a3NsUnZZbXNfVkFnZ3JIUnc?oc=5",
+   "published_utc": "2024-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "FDI from Fortune 500 companies: Race for investments to fund industrial projects in UP",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVlCai1QSDByVUEzaE1aakpueGllQjE0clFOOHNlb3RHLXZaWXpFeHdmdjV5cU5iZVVlc21EZ1ZCT3ZNMWNTV1N4OUdaeENUQkRxOTl5T2xsd05EYkJ1ZXc3T0hfQUg0MmFlamZTbm1MVDRUSk5YbkZsTzc3dUFLaE5TT190MFBpMnBDZVc0SnZCVTZpYl9mYUpYX295NjNTejBUNXB5b3VlUnFSYlBQUEVCa1pici10Y0RZblJxLVVNZW9JZHZGMGJ1aVNqbTFHZjM2Q1ZRTmFCc2hrb2hMZWtn0gHmAUFVX3lxTFA4ejlWR3FIUDIxQ0x4RE5uaWRDRUZnQzRiM2F3NEdnSmY3QXVCVlJnOGsyS3A5aE5jWVlteENOcmZrSElfZGNlLUlxcDR5dHFGWlcwWmt4cmtLR1JMam1pOHBaWnlOZjhCVGhreVlsYzN4U2xudWszRWJ0U0RkWElHRVZYU2pSdlBTOV9PZEhrUEFrU3ozV0ZseXdWMVFTWXg4UjdGVm1yNERqQmRiSGhoZlViT2tuWFBUNkxBazlhV1JTV3l0YVpyVmJuaWJpWXlnaEw2dkJPRW85RFc1Z1hyakNhUW5B?oc=5",
+   "published_utc": "2024-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Secondary steel sector needs umbrella body: A fragmented voice yields fragmented results",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObFUzZmVSV0w5UkNtMmJ2Z1l1VjMwUGxCeEZqVE1FMFBnVjhfVmkwVHlpY0U2YnpreHlZQjA5QjRkNWYwSzVRSDQ1dGY1bk9PTnl1WUo1QVFsXzh5d012Ql92eEJSbWNTVmZ6Y21DNHdTVkdTOTRVWDg2bjRlTXpPUnFyU0Ffa3FZbURSbXBHRENQZENYWWhxWUMtVGZjVTBUUE5pdjFOc1F5LTFpQWt4OFdoVmN4bXFEcDZBbmJ3OGIwSm9CWmdGbkQ3dC1STTdiOGxFVnhMYXF5RFdHZEFKQUJNc9IB6AFBVV95cUxQTlJldk5qT2F6VDhsMVVYM1RzMTM0NDF4OFpQQUNkQXZia1ctTVZyMksxTUkxSFFUalgtYUlpT29wOVlpdlp3Ui1FS2dzU0JtU1dSTkRQSXdMUHRzVk85a3FvU3BHakY1UDZCaUxNU2c5SkZZdENmZERhSUhkNDlYMU5ILXNtUHUtXzBTcHJRMmw3VFdIaUZBVHRibmRWSmJEZFNpaXg1dzBDMHIwcm1oOUY1aXgyZkNHSWZhWUJ1a0Z0UTNlbWIxZFBaalBzaVlUZ2hBMnpEd2FVR0hqNUh3NDV5U1hfeWhQ?oc=5",
+   "published_utc": "2024-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

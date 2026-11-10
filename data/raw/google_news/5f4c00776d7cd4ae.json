@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Video: 100 Students At This Madhya Pradesh School Write Using Both Hands",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzZhZXc3aXR1RGtObENVTi1OZWtFQnpzRVVSLVg1OHJBbE5rb2FtbGVQNWs0dXZkNnlVOGxRaFdxYzN0ckRudTFZdGkzRWdhSHlkUnFoTExMTGh5SGtrSFIzb3NWSDBZOHNmQ0JlM3dIY1NpcUJhUy1MLUxHRmUwMWl0MkNQWDdWeERmSUp3d0pQZHBRTnBwQlgwRzcwdUtSLWhyS2d6UGdRMGJISVJta9IBuAFBVV95cUxOWXNVMjMyRXFWWFVldGNaZWVpb3loR3VxdW9rbVFlSEFxb0JqTVZPWi05TkVxb0l3RGwtaTg0MWdleDJvdVkzUm1YS2t5R1pwOXlOZTZfV29wMTVTbEtTdGlwaC0wMmtVYXo0VXFpUmNCWVZCREg2c2Q5US1mMlJkUzVFVmQ0U2JGVWVDQXl2UUl4SUxoMEZweHJjbXY1MVU0ZFNKVll4dmJXQkg5aTRCc21qR3YzNFcx?oc=5",
+   "published_utc": "2022-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global Partnership on AI (GPAI)- India to Assume Chair of GPAI",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZXdON2V0dUwwZnNFU3M2VlAxRXNpWHlzY2pQOEpmVGRtbE9QOEtDZUQtSWJ6YS1fYjNBa3BmTmdfMXAxLWthSWh2TE81Z1F4a05PUkdudmptREhXaHJfVVE4ektFQ3ZUS1hyak9UVlVLZmtxTm9rQVl3?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP ki MNC’ InfoBeans lists on BSE: Madhya Pradesh CM Shri Shivraj Singh Chauhan strikes the gong during the Opening Bell ceremony",
+   "source_name": "India Education Diary",
+   "source_domain": "https://indiaeducationdiary.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTDNtWVRYWGxWNjVFakZqQk1TWlhOcDZRTjdqcEdyVFM3bFJDX0hKUGM3OEllNl9OdDY5YzJwUVRNcDRubk5aSGZZU3g5VmJNN3c0RTZHZkF5X1hGUF9WNzNMcnhNaHg2XzhHLUxxZ2VYRjR1TWFLU0djOWNUaTEtVUpLRFRTdlZzUXktQmszZjg1aXRHMkdMam9fOUZGdFdRUXRLaC1BOWw1V2RMZ1JpdmpaaFp5V2pSRFZaZnVKc3RteWNFXzc4ZG1hN3JEVkhpX0RnR2d0YWw3NWNSMzNLRld0N2JoYlpBN2g5WnptY2o?oc=5",
+   "published_utc": "2022-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Barauni-Gwalior Express derailed; no casualty reported",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHd5bUxrNENRWERQZmtXUEprbFR4ZFlha0JvQS1YbEZ3Z1hPc0ZCQU9qczV3RThHUVZXT19Fcmg2bUNaam01Nk1zZ04ta0l5NHFyN1ZvanNRU1FJU25iT1FqblhCaWVHa2pMQ1FYVzNCZnhxUmVpdWxqRTQ1R0UyZElWYmNURVE2cnAxeFYyT05KTjlqN1RrN2NvdkdmVldTcS1hekNxZ1JXbHR3NEV4SnRKM1dZNlZLaGhBTUZpalcxLS1WMndRRG9yMm1iZi1yLW92eDVCMWFHZ3E1N1h3MmlCVFN5WUnSAewBQVVfeXFMT0FVOWZ0NGJKWmVCOFJZRXN5dDdNT2FtRGNoZkZUSUI1ZnNWNFFCYkFubFFMc2J0aHlFUnFwcThGeG1yMGd3X0FJT0FKaUlFNF9VR3VsSFQ2NnBiclowTDhsYjNFRWgzdEpmUlUxMXBNd01URk91N1RCeFByV3FPVkM2RzBuOEMtSU1hZ3hYT0ZQS0hZdXczdUhTdGpQUUhkZnoxT3BYeWpwUzItVkNRcHF1S1prYVVadV9YSjVkUlRGei1mQzl4N3RrS216ZXdzbkNkODBjaXZLUWR3eUpFMFFhR3Z1LVg3TnNsRWY?oc=5",
+   "published_utc": "2022-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Viral Video: Cow Roams Freely Inside ICU Of Madhya Pradesh Hospital",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb3FBZmxxQjVmVUs4Z2JqQXJ0RFVoQTFxZDlVRUNld1ZENDdIaUtJM1VtTlJ6Z1dnc2V2YzFmYUNyQk5iUVhEZl90cnhyNl8wS3dZMGN4U19qeEFyaDZkeDRLQzk1SUc2ck40amFJM3dYODFiWTJRdFZZYnFTWUNSc2NwSkF4QmZyS1ZQbGhRRnNkSGhlQ2E2T1AwSjZ5b3ZoNTh5MEdZREZPZ9IBsgFBVV95cUxNX2ZOeDV1RnF6bHI5d0hnRm1KUldQN3NNSTBDOFZDMXNQTzUwTGlDUWVpdzVCUE5xUzg3ckIwMnJHRHpDM19aQUVpMk5nbzFCWXNPaEEybzJaSnl6XzM2Vm5SMEFLVXFvVkFPOGhDcEdXanFwZHFYQ01TcDQ2MXNSeGdRXzUtc3lPYUFKR205VVRQcXFNeFZ6VjlxX0dWaU40aVdhNHFUQUtnVHBjZWRlaHp3?oc=5",
+   "published_utc": "2022-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh School Owner Among 6 Arrested For Kidnapping 11-Year-Old",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTV1VC1JWHJsdl90RGdDUG9aRmc3NzRLZkVrUGx2Yi1keXo4MGhOQnM3d3h2WkNfVXhJOXFwSU55QU9oV0o1eFVpM082SkxpT0tDc0NYOXRkdk9RSkdsZG85M3pTUTRXdzVSMDIxcHlvMDZtVGw4ejlsM0hXYVN6UEJtMHNlRVhXRWIwaEhwX25ZT2kxOE9ubDRpTVZIbFctejJfU1hLZG1EV0YxUE9SMdIBuAFBVV95cUxPT18zLU5kd3ZSVXhWazBVLXdOLTVXeENmYmV5d0RwdC1aU19qc1NEZ2g1NUxTMnBERWtKdnpmT3lfOEhHZFNYQ3dKd2hrb3hUeWFFblBDaHZuX0RVdXE0c19aVnBkQ2dtMmdLbmtwUWRaVldDWnZsTENQSGtpMjljM0tNMEEyRURTWTNXSHdOLVVHdGU5V3RTd19FREx1X0tIUGd4cXlvWWZmNXJMaHQxZ0pJQzhsbHlq?oc=5",
+   "published_utc": "2022-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Case Against Madhya Pradesh Congress MLA On Rape Charges",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnE1Z1pFYUtCQjlhUFlfclpGZjhSRFp2Uk1EOUFJZmx2UE5qalMzTHc1VzA4a0tDSHVSN1l4VUxlTnRIY0lMNXpPWHNqcDRfdTJNdFJiVUtzZWtpdXNscXNFN2ZJRzZqV1RGbFE0TFNzSGFnNTlMTU0ydEhwbHVhNldOUS11eFktZk5sbDhQaGg5VHlLb2RMRmcxaG7SAaQBQVVfeXFMTmExVlBDeFNGTjE4QzdDTkI3WDdQM1hSeWU3SGZRQWtFYnNJSk4zaERqTjF6QXl2TjhBLUluRVE5czhrMllBTHlQRFlTVkhJanNmeElob2xkakJRS1ZqRTY4dExfZmgwR0tpWGp4OHVpTmh6TkZUUlUxNTNmQWo4THpHMklFMUppQ1RpYlFxVnJlUkxhYnpPNS13UlVReHVjb19qSFg?oc=5",
+   "published_utc": "2022-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bus Conductor Raped Woman Passenger In Madhya Pradesh, Arrested: Cops",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHB6S2RsZGNxczc3MXJBR2VDNnZEazd6RXJLVWpKTUtIaEIzcFJ6LWd6NXU4WjUxMVp3UEJTVmxnd1RnWEhGT0xua3dIYURYc3pmSFZVVHc0aFBiaFkzWVhVcFFMa1VfYnZXdklSWWlveFk0djlERGlhVTB2MVFvaHpobWRsOEwtdFcyQWhOUnZxcWJFNE1haGpkaVpLTjJqNm01MDZ30gGuAUFVX3lxTE9Lbkgyd21QWENxXzA0OHBNNGRZdlNnT1pfdnJ0dDRiazlFdlN0M0RidWtmMDZoUkpxdDROMlVNNEIySXJic3JkOV95UUFWelZxTllBaGRxMGFYVVJxOXVyVVJlRkRTcUxKRzBmSzIwa0pKZU8wLVJXNTFCcGVCYUtIQ2hjTVQ4bGFNY0lYeE5Ua2ZGRWkzMm5RVVdESjZ6REJOX215THNjTzllUnpJQQ?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

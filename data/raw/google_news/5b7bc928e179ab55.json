@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Chief Minister to release second tranche of YSR EBC Nestham on April 12",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTWhKdEg3c3VoLTJmTFZyM21lT0otOWhSTDhQLXJJNGMtbjVseUNsdjFTeDZWa253WEtweGd5cnZxcm5JeFRVVVNwMmxLTEktLWw5clhrUDZUYmxxeDQyenNrUzMxdjhzMDA4UWpOZmxiQVd3aUk2ZXloaXBwNE15bXFCTkVwaTlMSWNnN0VWb3JsQlhjdWRCVTdwS04yNkxIQzNPOTRadk9OTE5hRnV0NmJ2eURITGdGTnhXcmU0TmJ1Rldoa0dTd2tmSGIwYW0wanBuVWpPeFNnM0VlODdwbW1mTXpkV3BWd2dwTFl5VjFUd9IB-AFBVV95cUxPNjNVczlLUE5KUlA3MEozejQ0SkE1alhIQzRtUHVZU1N3ODQ2bHRDTk9YNTVYbl9VNVctZThtOElIQW5oSjJLMWxUWmFGTTJIbEowY3JXRzFUNHItcFZTWnpOd2xjanRHYWZyNjJ2TkNwQ1lFendPaGdrWGZiRDJTRDRMYWgxTDItM3ZVMkppVDd2VWNNWXRfdGg4S3VfajRsa1NWX1Bra2JrVlgwOEE4enJCNkNCSnpzSkxaNXlOcXlMVUxSMHBrbFhxQ242M3VreTdKTThMU0ZYaHlCNFpxWHNHbTNEcVVrR1VwWXJIdDh0VTlBb2lKZQ?oc=5",
+   "published_utc": "2023-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Never Imagined I Would Leave Congress\": Ex Andhra Chief Minister Joins BJP",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWW9LZXNVcmpVX0dfRGFSbUlNVzJRMngyV18zN0ZmMzNDZWJvY0tPR1ZMQjRDTy1iTnZ4ZG9hcGVOZnJqMGVPU1B1XzRvQ1BYdVhQVkZmU214NEJNVTh6Y0FaQ2ZmZjlteUFXRmJZVWFyWWtBYXQyOTJhNTU4Xy1tdVNPZlphM0NSRktweHR1X1JQRzBBcWxBbWNONTY0UjJIYVBMQ1ZuZ0h4a2MtRl9zMW5NOEpwbFdyUFRKLWVQSzB4NXo3Uzc4VVJvMWRDeUhlb0HSAdoBQVVfeXFMTm53bm9ydDB5M3VsdnBmcF95bUJmUTlTX2NSMFFNVXl5ekxHQ2s4Y3p5c3pIcndheS0yaEF6OW9rQUJnNHBXYU1KWS1uVGFQWVczSFl0ZzBwZ3lnaHBPS2Nsb2pYa0hhVFB1MWlDYTgtWVNoQWFpeEpMelV3OGxXNks2aE9hUzk5YmttVnpULVh0aEphZHFRZy0tN2dUak9DLXZJTTU2MUhudzAzcFpXWlBjb2tyeXpaaGwzN1pGdVFzNERiZm5BZGxfR05Fa0k1cjhMMDh6TWFONHc?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Andhra Pradesh chief minister and Congress leader N Kiran Kumar Reddy joins BJP",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS0o1SU9rZXdqNzBTYlhFZzdMNkNwRUFGTEhiUkZrc09UX011OXowX0xMN0diYzBpMnVVMmMyODQ2OVAxOXh3cjZMT2VMOHZhejZZZUNrYmtjX2NPVHJCakZuVGlCcWpHMk54WDI3dnFfSlJaOEJXblRxOV9ibjhtdm50ZWRjak1DNWRmZlNLbGJ1WGZ3Y0RQMmpTNzRESmFFTnJFWDBOM1Q4SFJiUmJCOWdsazc2TkxGbThzOFdQY2lkdHlpdTBRU0c2a3d0dVhGUjU5bm15ZzRxYTFHLWpnMHpVamdiOXhOcDkyeHBUX3BRSEw0S2fSAfsBQVVfeXFMT0ZDTU1GclF3ZW9ScHFOQk1MOU5lSnRNeVJEdGM2MU5uTUxfVThhcmhUV0ZQWFVHU05ZaXN4U1dxdmZkanlackFEVjFSOGVwaV9OcUxHNG9RX1RvNTBybXhDY3JDU3Nmb25wOHZjTVZiWV9mVjhzelc4Wng2NXhoNkIxSElIZzZfdEx3THBjMmlvREZrSTdEUUF5cW9BUU91UHl0aG04azdkcXE4SXZ4VnRmUnZUYXB1UF9IV3VUWnd4MC0zQlhHckY2am8tdm8yaklhempRLTY2RVZOclQ4LURaaHRRQms0bEtVVnVKdVFDV3ZCcGtzNi0xNms?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt increases paddy purchase bags limit",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzJSbl9YTm9zUkUtLW1oQzE4RU9jZy1ZcEJZcWk4T1lSYXZVakVoTEtXbkU3UVA4VWU4dzN0WUI2R1d0UzdpNFZSSEtjMkxkdDZWY2NqbEVodmZGOEFTbUFEQ0Q4eDBOaHNyeFdWTS1faWJwMWhUWVZEc0RZd2lTTW12R3pTOEF6b1E?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Chief Minister Y S Jagan Mohan Reddy Lays Foundation Stone Of Greenfield Mulapeta Port",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSU0wRUlwSERqQjEyVGJCZlN6T2ZURkZYbVhrRVFubjBnV0xGaUNtcnBwc19PemVxLWdyUXZwRlVadFlLa2xOT3p0dy1tUzI1UjBiU2ZLRzdMZGpkc3lYaWNfMF9aVWp1Z3BaYVhaNE13VTBKTjQyVzdlRUN6d2g3SWk5Ni16VGtpUmJiZlJ4ZFgwalhFMWcxUGtzMWw1aC1WUjljS1JZa1JCUkRxekttOFR5dTVTUUZEVHRIUUswTkRxOUhHT21leTBlSTJhWE5r0gHgAUFVX3lxTFBnOFR1dG5ISnNUdXJfUTAwTS0yTWNkODRPWFIyV1QzdzlCdUUyMlhKc0F1dy1rSWx5ei1mLWREVWJKRkdMaU54WXFMNGUxUWMtUjFlSnNkcFdSUEFDc2hMSUR6dVNMWXA4Y0liTFhPUlEwWnpxX0dqWFdaQWxZV1huRVR3cFduckxsMGxuRmk0b0tseThEZEFpZGpJVWhpWUhodnJYcjRaN25KUXQzU3BCTnBqNGlRZWE3MDRJdGdpQk4tZ2lUTlBCRzN6UmtOT29PRWoydjN4alFFZ3JKcEVK?oc=5",
+   "published_utc": "2023-04-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Day After Joining BJP, Anil Antony Welcomes Ex Andhra Chief Minister To Party",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSG04TjVoTkxXbG54cktSVmJpZ1JpSVNQUUxVS0ZreTVuaVo1bmlabzViSElCQTZvSFlZdVd0VFFzWFJBa05rMWVYVFlPNHZaY3FDNlVSVGhmdWFHY21HSEVaZHl5djJ5MnJlLWo3cHhCUGY3dmJJV3ZKWGxaYmFKZzFIZDFLdVBiRlcxeXlsN0JaMTgwaUdFbzNuMGFPYWtwMm1FbUpId1FlcE1VYmtRWnlTaklXQjNRbERDS2o0NTlrSV9JTDhHU1hkcUFTaFHSAdcBQVVfeXFMTU5XcGFPNDNwRzJNZFNnbmFTdGQ3cVRSSWl4MW9QWUlOVnF5R25QVzByUTlrclg4Mnk0bU5WZlFPeFVtamRqWWN4M21zOG5NMWVFM0tSbTRYZXBQWmxtc1NQTHFoRnNwQldWMUFfZkpfVE11X0N6cUNFRVZPMGh0WlhnaVVUcmRYNzZ4OW1ObU1uX191aS00eG1oVldIZFZoWTBtMTl4MkNZWHlxY05zRFJwa3gyOFVqQ1IzRi1tMjlIOGNSV0RFajF0NWJJc0YzeFMtdkttVjQ?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM lays foundation stone for Mulapeta Port in Srikakulam",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnYxekhPWVVBYXVxYS0xU19OdnhiNG8tNk5LS2k4VXJzZG1JUEJjUjdWWlZjZnZtc3YyX3ZadGd0VmtsWHpDVWYzdGV0cjFHSzZGQlhoNkNCdnJ6eWVfZ0ZMcjR3cnRxTVZaSGs5TkJZdXhJTG15Z1p6NUhYT0doZTE5WkJTMXhQdzh4X1B2Y1B1ZFc2WTd1RWpfajdlaVI2QjNfYW1hUHFmRXVtV2pTQVk2V19hZHhjLWN3UlhDalFmXzNhaC1IcGlUVjJXN3N60gHUAUFVX3lxTFBEU0Z4UWFjZHcxbTFHalhLZFlzVmktUHF5MzdySWlNU2M1S0t3bG1QaG5kcW9WRVhQMGJWTVBRZnBVZ2xjZHJfcGo4LTlxTlczLVlfRm80Ql9wMDJadjdqbjUxSXBOdmQtX2ExQTFOLTJhZE5rX2ZGemJ1THh4Yi1ZWUZGX3h3Umo0bF9sb2N3RkNELUE2Z29NQ05nLTh4bnYwVW1fQXVteE1zWlMxUXNKcDAtNktGaEktdUZOQUI0QVBFTmZLcHYwWWNRR3lmbDB1azFv?oc=5",
+   "published_utc": "2023-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "N Chandrababu Naidu Slams Andhra Chief Minister On Row Over Capital",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3ZQQmZ3OVRnUk5WV0ItLVZCVkNPNlZObXQ4MXltdXVqRHNZNmlTTl95bTFrRF9lUVJ1cHJTYmhZZ19nRlVDNi1SVXFFclY2d3pReVJ5VlFDRFo3dm5lVHBvSFlGVjFiWG01LW5SNUE5TlhKMnRzOU9qTXB0VnAzeFVnYVphbk1mZkxhZ1dtWDFhbDFKMkh1VS1TLXR0Z3BVUHNObkJ2azltSVhwVF9CYlE1UFRtZDTSAb8BQVVfeXFMTVVnMUJjQ09FSXM2Qm9EVVZrcF84SVRGbjJBazhCMzUwN1dFeDJYUl9kTFprVkpFR3RnS1czYloxSDlOOVJ3Y0djaFNTT3BZcC14MGY3T0hQcW50LXJRR2xTRnBaOVpsYjdxSkRsbmVZVUdXVXFOdzNjOUo1NVJsLVphcXJtdVNiRnJ1LWE1N3lTd3lJYjB5SlpSN19WTU83aXAtUTZ3dDY3NWllVmh6S1RRQjFMNEMweXVqbzJUSTg?oc=5",
+   "published_utc": "2023-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt changes name of greenfield seaport in Srikakulam",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2ZTRGtsM2lhZHhFeWE1TVBHV2w1RWk3YzlZS2JmQndjMHFPc2dDSTk3aGxtbjgtNTBRQmJ1c215SmpzaWN0WTlOQld3Z0oxOTloSWhnaEQ3MjlsQ0dOMXJnUXpncnVaOXRFTkpLbnFseGhiYmRhb2xCVlVlemtCQkxBV0kxUmtxemsxWktsMC11WTRfVkVQcjJfbUxPZHN1NG9SSGp2dXltUlQwNWxuOFdNclRlUjRpWTZwc1JUNjF0UXF4VjRNUmF2LXl6Q3d5Zl92b0tjONIB2wFBVV95cUxNeXhIZ2xKU2tLalpGbDNOX09McUR2anJLZUx2UlMydmtlTzFyOVBZcnEzZjV5VEItZ1U1N3U4UVF0TW5EWmpJZ3g0RDJsY3BBSl9TdDdDaUt3R0RVSmI4S3BvbWZGaWZiYU9MQmhsRGZubFI3bEhIRGRaSkEzRU56cEd1MU1mQmh6bWtpdHQ2QkpQLXdrQ1JMVlE2QXJJMklDdGlhbk5KaTh5QThGM2p3VE0xOWxmeGt6aFB5ZUlSSVB4MnRJeUlTNWR3V0kwLVE4eU9FdEtMN0JaWFk?oc=5",
+   "published_utc": "2023-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Former Chief Minister of united AP likely to join BJP on Friday",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNjNzVjl0WGJNRzNDNFdZYW5fUUpZWG1NNDIydGRVTEx1S3dnMUV5ejJWckktalUwZm1wRzhhM0JmLUdmRFhhTDRuLTNYMDFQa01xUm5vRWVZbGpUYkxPWlpLSXEzcHR0OU9kRU5GSjVCUmFMdXpTMXV3N1dsRlFNZ0huRmpXejktZ0pTODk5OWtZMFNUZ2k5N09MWDFsT0lCbTl4aXpWckFQbzhBdkl3Y0RrNnhxWmV6QklwS19XODFkR3FGMkoxQQ?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

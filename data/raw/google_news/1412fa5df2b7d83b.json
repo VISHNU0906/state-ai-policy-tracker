@@ -1,0 +1,45 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "AI cameras to curb poaching in Madhya Pradesh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWs2NEZaYWtRSWVkV09mLWJiZVljdlVCX3dXaXVWc3NVQ2h3YzJhUjZqaFJ5ODdtT0V1YlJYZVpSMzJWdW10Qm1iWFdMUzEwWmNEdXctOTVNOVJPanoyc0ZCajFNM1l6d1E0VmU5YWxUMmktd1A2bDdoamJDa1VsN2hwQVotdTR5VHVjR05sdUhreFE1UW9JNC1yWXVxSDFGeG9zQ0E2SdIBrgFBVV95cUxNamRFSU42SVo3THZITnhqR0xYdHFGdkFicG45WjFRaHB5VzFFc09zMU5hblZPV2pIVFJ2UlhGVkxvNU5aVURzOFJFczRST1VjeGprTl9udkR1WndJOGVLVXhQMnRBNWU4WFhGMnJqaTlxdk1pbmVjMVNpbU5Yc0h1T1VOYi1EcjRaLVZGYkZtTGlVMnc0VlV0MHZpS18yclgtNlNYWGFvTEVYSl9nUmc?oc=5",
+   "published_utc": "2023-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SYSOTEL.AI’s first customer turns into an investor in the company",
+   "source_name": "ET HospitalityWorld",
+   "source_domain": "http://hospitality.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlF5Rld0WDdFbHBXd3ozNzh2VnRuMDBJR0N6MmNzRmUzNGwtVUdURmNHN1lMcmplaDJ3d1M5SElXZ2tDamhMNzJkN2xRbEtqVGlDNENmMU1jVnBtYU5FX21fd3hwcVlvMDNHTTBoMnBuQlNiMmx0MjlfWWMxMHB2dERxc1UwZVk0dE8wUGtCZGhCSzJsdnBZLTljT3A4YzViSThkNEh4aTl1eHp4bHJWblZfbExReHc0Z0s0OUYxX0J2X0pnRE5Xek50NU1iVzTSAdQBQVVfeXFMTTJhSGxXeE1hSmxVZGtTdnRQeFdGZkxuR2dHbEltdzlabFlZaFhSaUozeGVxY1pQamNLZlZyTF92djFRcTlmeDV0MXFtOVdiOUNfUGl6NEluUFBDMGcxOW9GQjlLNG1uaGVuQWFpaDhoNlJHVlFmTzJqcWxrVm1mSEEwTnRyWHFSVkplRkNFc0ozdzAzOEVaZHVEMUI2V0FpcEctc2pXbEZVSDBuNTNhX1dlUnRmTGg4b05URGRzdmNxNkk3QkZ3eWZ2XzdSSnRDMlZhU0M?oc=5",
+   "published_utc": "2023-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gold Worth Rs 8 Crore, Foreign Currency Seized In Madhya Pradesh, 2 Arrested",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjZnVVRlR0hQS2EtakZFcXZUdWR1ckNtWVhyS0NyNjVvbzZVM3FoaDMzUXhkektfWEMzTDE5WTFiSkFGWkhxbENJWEhYNldLcUpuNjJsTnhuZjhvTHVDOWllOUNjTGZKdncySC1veXhYMWM3R3ZleGdZSi1aemlRMEF3LUpiSXJnOWxnTEp0LVJGT0p3Z2FhY1d4TdIBowFBVV95cUxQbi1PN3d0Nm1Mb2ZUQ1lQak9QSW9INUxtQnFRZ0Q2VVFoMEZnV3pHQUk4T2VEbk1DOGFyQ091Vmt3d3VBZkpQRjBRR3dMMXRaWlY5WW9iVk5YZU5BVjlHTTAzYWp6OUhrSlYwbFhNaEZxZG5qNXBKSy1XcGE3cnFOdk1GRDRJVUp3T3V2LWF4M0c0NmNGWi12Ny1uZlc2WVI0Y3Rv?oc=5",
+   "published_utc": "2023-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ITC to invest Rs 1,500 crore in Madhya Pradesh; set up food and packaging facilities",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd1RNbUFIQWQ5bXhuYkVwdE8wTTdLbTEwU1hKaTZxREU1eW9vSDJDem5neVNDcXNFbk1OMHB5S0dSRXoyU0p2Z2Y1WThibzJsMkNJU29ub2kzenBKb052Q0RtRzE4QWdMZm10bmd4TzV3Zk5RZlpiSjVPZVd2aVlsZUJmUmtEdWxjVWZSZ1pEdnpNbXhCdGJlUXIwV3BZcFNnaTl4QVI1endVTm1SbEp5TjJkZXNQXzhxS29VcDRabmFnamQ1YnR0ZVpMcUZTTEhWaWJWRmg0WUJCSmpEcExNdG41ZDVJV3PSAewBQVVfeXFMTjRtWGxteTk0X0YyTWNuenU5VVBKNTd6RFRlUXdSaER6WVNGd2E4dG9lSG1LMl9WNHdSYTRfczVZRDlXQlU0NUR2NzE4Vk1ndUhKSnBVcEdJNGxmRFJyck5CWFZaeXhQczNqUlJhMXUyNDJOZDc5clRLX0ptUmt0ZlFjS01Zc3VCYWN4aDAyZ2wyVjJUc0ZRem1tWTVwX2d4UkdRcVZlZ1Vfc1NsSXhHMEZVeHYtMVJIX3QxaldYT1pPYXpTY1I1NjE4aUh1Ni0yU3VGN2hBeW0tV3dEeW9sQTJEYWx2dHFSLVltSGU?oc=5",
+   "published_utc": "2023-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Polls: BJP candidate Kailash Vijayvargiya says, 'bade neta hain hum, wasn't interested...'",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOSVQxcnBNZ2p3YUJWbDN0R2ExVWdjTVlKWGJVRzhHQmRCRC13T1JZLVBHWnNubXhWbEtxajNSS0JtZVBEczRDalRiZGZ1M2h4OUg5czRIVW83eGtNYWhORFdOTnE5UlRaM0RzRGRhaHUxakpINE16NTVGUHNUelNyVEFxWkhsbElWRGpfUUk2X1ZKcEQ4dk0zS2RNLVNXc1UtSjdvLTVjaEtqSWxVb3JTVVVhYUg4b1JGUHZJMG4zRmhMdjJIWGVGNERDSkhKbzB5YkVDQ2M5WVkydHJGaFB4anVUNFZpNlN5YTViNGhtVFhkOWhXMXZ0bFFmdnJQRk9pbGh2RHIxaTZwSHltTjNMT2dKalZ6czRjWTVVcV9mUmhSbUxXYmh5TDFMQldrcU9UZWxqY3NMcXAtYUN1WXfSAcMCQVVfeXFMUHpnRlFUanlmalRvUGhvWVh5OFFKei0wZ3JDYzI5TGd2OGpMLVA2ZmxLd2RScnBiY1c0OWtKQkFibjJXN1V4MFFQZ0pHcWYyS2s2b2tGLVFrT3RQOGd4YmNZWFNvLXRPM3pGc2Z1SnNDU29OYWNMNnRKSUZOMUVvbml0cGR0N2xxcnlkQ1dKQlVMVEpHY2tzVWFtQURobHhFWmdPVG92Nk95d2NkNWQ1QW01dFhtMGFYX0ZNd3ZuaUh5d2xVWFpXOTBLT0JLQW5FVURpRTItMzRTSmlrTmRXampEbWNBdTVBbEVTZ2tiMS1VOUp3WGJJUDlja2FIMkxSdzM2SExrZWNsdzdjTExXcTkyMWpON3FzSlYzZlhmaUxSdE5VdVd6YWt1dTgyNVRLcDNKZjBLREFjRWJ4VWFzcXloN0k?oc=5",
+   "published_utc": "2023-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

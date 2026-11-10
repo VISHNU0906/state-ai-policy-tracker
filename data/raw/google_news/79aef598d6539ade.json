@@ -1,0 +1,37 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Rs 30,000 Salary, 7 Crore Found In Raids: Madhya Pradesh Officer In Trouble",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHhWeGNTSHdVR0V4bkJHRHpLTEdOVjhFUjBOSV9QdDg3YzVXS002b2ZHZ3dLM2lyX2ZXcUg0RHU2ODQ2c2U0SWZ4MFlCeE51Wm9NSjdZZ3RNWURXQmVqMk5pWENUSXQxRjBWYk14U2JKTnNNOHNTc3pQVzNVNm80OFBmcHQxbkdGUUZwMm9PWDVzdkdGNjhudTNOR3YwWUt1WkpicUhsS3RqSUpKcXVJatIBuAFBVV95cUxOTWZPS1BtQlRnNEJ5Vk5TT3AtRnNZU3d4a2ZjRGpaMFJUQW9YNHdUUjFzRFlZNlRHdVVzX1l2SjVjSW1QRW5wa1UtQ1RrNUwyRzlxZlZkcXJWMmFmdUFHTjFlWmtxS2Q2LTNvc1JTX1A2WDdCNWMwYnhZS1Q1SzNpaDJ5N2xoTlZhN0xJQmdJd0MwZFNBckxUZGxGeGh0TWo5RHcxa3ZqTmZTTUpxZ2Y4eVowZ2Ixdkph?oc=5",
+   "published_utc": "2023-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ED attaches Hemkunt Foundation's properties in Madhya Pradesh",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1F5WWgtVXJ2Qi02N0JqRnJScHhsaUZ0RVhzQTRtV0VpSmdnY3ktaWFyMlBNN0RTQUVqZmEtZjRkaUd6dEhYaFJneVhVaElLNVhQQnFpUTBKRW4wRUc2dkNZYXNrTVdLb010QUJlMmNuLUNKMVZybUt5YUEwRHNtNEoya0h0R1RXSDFkRUl5TXFDNEJHUnVmVXR2MmZrSC1KZW9ST0h0aHNHd0FTcHZwczRCaHh2VnYwdkYxbg?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘AIRAWAT’, an AI Supercomputer, Ranked 75th in the World",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42N1RsSEc3MVVLd0lKYlJGQ3BQMXlkbWxEOWExNkktWGxEYVdoYzBDU0wxUXl6V2Y1Zm1TbkUwbzZVVnphT2RDTXBZN21VTWVpeUxUQVVoeGRxNmJKTXBDNnRsZU9IMTBXZk1r?oc=5",
+   "published_utc": "2023-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Convocation ceremony of JE(NE) -156 & 157 course held at MCTE in Mhow",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1o3cXF5UExZai11LTlsQWkyS2w4bWFVVDQ2NEhmeGdabXVKcUFabFVWd09YRV8tbWNlMXNSSmZvZzNTelNSblVGenBCOWhMclFLT0RwV3FWMkhVOVZOZ29ZNGJaRm14WWVRX2szZkxFVmZ1ajZJdHZxQzdYX1RubkpGa1dRWm1pT01SbzRvaTFuY3lDVW9GUkx0OHdYQmdOSUwwaG00MDRVLURJdlpPdC1tdUNjV3A0UGfSAb8BQVVfeXFMTTFjTjN6Um5POThWWGlPR2VJZWVkYXdLTWJSNmFVcV9QeWdZUGVUdTF2b2VRSFBudlhUTGE5WU5NRy1heTM5NFpNUkkxNTZuT2lORFVib1NFdmVUczFjZUoxMElQanh6ZXdYRzdpZTZRMC1IVXpMV1JaV2xEQ0p4Z2NQNkY5UjNnLVNoQ0xLZFVlTF81YXdiRkF5QzljTllvSXBKSDZJN0VSRkJteG5vSFFtdXVPOGNMRlVUYjhLd2s?oc=5",
+   "published_utc": "2023-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

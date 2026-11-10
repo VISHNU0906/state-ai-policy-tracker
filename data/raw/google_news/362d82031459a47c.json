@@ -1,0 +1,109 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Artificial Intelligence Mission to be established",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUVkZzR4MmZGT0NXM3JZbnNDUko4NDV0VlBlMGNWMmxBMzRFc0JhX2FrTmRMMjVHa0hXWkJVUjBoMmkwOHlMWkNYX2xMU1hvb3BuMFlhZTZhWl9KV0NhbUUzS29aRzlFQjlneUZjV2c4dVdaYlFTR3NYSVlxY3p5N0J0aGZEd3Rtc3hDQks4WVpWZEtZRkZLLXRaSzlBa2wwbldQX0ZjOVVsbEJXQXh0ME9FRzZUSHF0ZG9jbElkN3JON0VkSWxxZUxB0gHQAUFVX3lxTFBXemVYejRvOUtrRlpxUV9pZEZPTEFXYmZ2aXpGZ3VteC1IcmRBTWhVUTNKUFg3LXdydXBCaGU0dlZLZ0dRbm5jbmJXNlNRLVh1OVJTTUNUdkRDVGFwcjdxV2ZkcWFzVHh1UzJyMnFQVDFpRFFvYk50TllpQnpNVkRENnF1RlBqWFFXZ2dZcmRoTGpqSXFNdm9ROWs4bjl1NVJJeFBRU29yOGlOTlB0Vzl3emltajQ2Q3N0MVJwWTZWdHBFOU00VE1wdkw5b3lXdWY?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches AI-based system to avert elephant deaths near railway track in Coimbatore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2RUUmRubmpaa3BPeHlmeEM1UngzZjNvbjhqdkFmamZEV0hNOUVEcVZ1alpzaU54NWUyTV9RbEVOekRmSXU5TmNoSEJBRU92S0pOLUtEUmpycXh5TVg0ZzRjTVZZZEVJeUlNcWJLSDZ1Zkc1YzRVWEhGYW8xdlpiTHdWUHFCOG95dDRTNVZNS09FNzBFVlJRVS1tbU5PdnpTS21XTmQyd2JzNlpXZUl3YWt2eVJzOHk2ZzRKZmZITVpnRTNXQnpBTThRZHpzUdIB1AFBVV95cUxPTVQ2WkU5YnNEWDVNQmEydWw5aUlHaS15TDhiRnBwUUtKYktlTmd2MzFTZWRJZDc2bTE2cWN5X1ZHXzAxS042bmNkOVFuTERZRHFHN0E5VFRDdHlyODd3MG5DbEdZNVJGb0I0QmlNUUtJMVRwYkhpcDl5U2ZLUngtRXZFU1R6WURxaXdmVWVQRzVEVFEyUnZmX21uUUFJdU5lNVdVZ3ItVXVGTlkzSElsWEZBdExlcHc5WktHZ0J4QklrVlVsUkpGUTRNSEtkQ2o1RE5CTw?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Three Teens Sexually Assaulted In Tamil Nadu, Case Filed: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVJZVERuekNzbHBETk9XemlqRDBmS0VTenVKNWduTFQzM0NoNkRfT3pNRDR5VEJxMVh0UWw4SExtQnFjRjdwMl9LMVV1cER2emVWQkNqYzY2Zm1JSWhrOGViTkp4OTFIdkdZelRmYjRNd2JCN3YyOUdWQlFVdWRWT3c1OERKRE5iaUhGemdZWU9iZ0hZSGlDRHNiU3lHWmpQM05SOdIBrAFBVV95cUxOMEl6a3dQVC1wWnFDcHBTeFJvODhPcTFJMjNIVFpKaFZUdWdvMzdXSkEtZG5Cekk0cUl1UjhNenppRExKRVNJcnUwQmtFN2g2QV9fR2RNb0lRODAtM0V1QTl5TEhiWi1JeW9TNk5WLTR2aXFWMFlLSE9xZHlwZ3h2aFUxb1ZEX3NaY1VnOHlSUkk4LXhsaGtfX3poWElqeHpWMThlV1lENy1iY0NE?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Chief Minister Stalin’s Slew of Benefits for Minorities",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXFic0lyZ0VpUjFvRlZDY1M5UlRyMGRacXI3SjdvTFRsMWw3MGhJSVlPdVJEaHZwZWVtSnk0dmNYZDY5WEgyOUxnc0dRRXJJLXRaSXlTS3JVSXBiTFlWcUphOGVVWDl4cExodDF4R25Tbm5UUkcxWlZVRV9JWWtkMkhib1haVVhLMUFoUmg1WUFTNVZXM3BDc0c4eVVkUVgyWlAyaHVPYjdVdGh6YVVRWWp3cTZ5bzFyMnBMMVJhZU5tOTjSAcgBQVVfeXFMT09wYkpiTk1fM3NjZ3VFeDBzZkczaGJOZXdGNDI0bW9VTHFtM0s3MTh3YkNkWWxtcFpyUHBrTjNfdmxQcWI1VzNsLTZVc1dSZXJJdUhhOWRmSjgxUlVQV1lMNk1QVXdKRXNtVU9POWs4X25LRV9iM096OHFaQ2ZxYjA4QlBpQUUtNDU0Uk9MTGtibnNDZGJ3d2JOckpiLVVLWnBOMzI2bDcxMGVneDJ3MFE0Tmh1YXFaazBpWU1Wa2t0NXlUbWNScDA?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to use Artificial Intelligence to avert elephant deaths on railway tracks",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc1hha0oyVHdacEFrM2gtZl9FS1ZnQjNNWjlnVU1DYjN2RkZJUEJPMEI0ek1TckVqSEJiYU5BZWotSjFzcnpNZEl0R21TbVRoRlpRaWpRd2lBZ0lvWURXQ1N6dHd6UFNHOTZ1MWxjODByUVN1UXVRNzNTNk5jY0l4VHppbXdpR2NNVGxJdDlJTGlYdVF1LW1TbS00a1hDXy13aHBxVXdSYW5OLVl6N1pObWJ4eThaSjZrdlJkQ2NZclNCalQ1aDRSYi1GTTd2aHE5VzZvNnFvTm5Ddkh4NlExOTZnNS1TMjBOdzBsVGJZYTIxd9IB9wFBVV95cUxPcWFHZmNhS0kwWjBTOTdPS0tJOUpVN3ByYVJxOFphWXM3czIwRkVQN3NWSlpTSGtaYmJ6d0xRc1BfdWZYTVpiUVc5bFhSNFV2YnpSbS05ZGJlQUd5cmxzSUtOM2loaG5ndHhWTE5BcFh0RHpSNG9oYlJXTVFnZXF3NWtPVkFVenBkbkxFbEw5cHZQaXdCWk8wM1ZFQXdNZkRRcTJObXk1aWZwb2lsd2ttSURsRVNyTmRUdER3MV95Q1h0bnZLT091RDRrZ01zMm83LTlGeG13ZDRNWGFUOGowZ1dOUGhldWtaNGxaVWQ2djduZDdyTXpN?oc=5",
+   "published_utc": "2024-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Class 11, 12 Admit Card 2024 date announced at dge.tn.gov.in, check notice here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORFhUazJXdDhXS0dwRDMwZkktVWdpb29nZ1BsLS1Xek1CbjJNQ01hTnZseGdGaGN4VlotbUJCanBBTy1aZ1dKbmNCcEZVZHBiaDZBRXJtS1NOZUxtUk9ORHRiRGNvSlpwd1FkYkxieE91REY0UDVZSS1sN2RfRkY2YzZDTzlVTXRGZkNnazR1YWhkMUEwcmFPZW1ZQ281bTgyc2RabXd4d25sZmd0Z0tmM3hPaVB2Q3lQNWQ0RktUZnFtVUVZMXg4R2pNT3RhTGcxM3dNQVg3RGVUMDBYMTNFNFlfRGwxSnhreGFlczduWFFIdTY40gH6AUFVX3lxTE9iQ3Y4ak5UTTJyR2N3QTcwT2UxaUNuWFd5VWUyVTlyN2tQUHJHN3RFRkRTZU9wZjlkYWNiTzFwc2JTNUhLa2lmNEhibmF6cE13THlGRmtvREdBcTl4YW9LcWFBeW8yendQRU95a0pGTmRqY2ZraWJoaElGdm9XZFp4eFE0cUhRa0JiOGpVWVRRTGctbGVNZ1BlZnFId0lwQ2pUUFBxN2tpb3l0aHFrOGNOb01ONGFrTldzWDM2WEFDMlVCb25XQUZHNjVwSVhndEJBN1NzR2hrNy1NNC1qLWFNMi1VN2NYSTJsWXdNMnJuWFRwY1FVSVpVanc?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Forest Dept Launches AI-Enabled System To Prevent Elephant Deaths",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3FDOWNKQTd5NFVrRUw2T1VNcUQzSHN2eHRxWXh0Ykl4Q180dm5WV29kcUhnRG1pT1Eyblk3NUUwY2JGelVza1pHQXctamZEZHkySXY0cGRCNWczU2lYZ2oxMTNfYTk5VnpoWTQ0LV9HLTdncjVXVlFncDdja1FYZDBUZXh1Y2VnSFdLWHRmMWlwVGpjajBzUWwxSm0tcjFlN0NUWnJkUFg1SGlTc19pbVZEWlJXT1ZxSlhMT3BDVVdmT3E0Y2F1UnBJVW5kQdIB0wFBVV95cUxNbmwyUVlvLU44c2M2WXpGTzJCNUlILXR2UFZQVnpBV2UwTy1rZHA5Y0lic1RZMWpzdGcyWkNGWmE1ZFQ5U0p3UjlLeUpmSUh3b1J6TkJzdWg3S0x4QlBUd3MyTVYxQXE3Z3NFclIya1MxNkhnX2hyOG16RUhWMHhVeGVSZFQ2bjRPZWo4LVJabDJUMDBWdG9aNWMwSHNBZEdVV2xLb0JjNEtSODdYQ3dYT25nVkFQTDZWXzFEX1NNWDNNWVIzTjBFZ3NzRzZfRlRuRmxn?oc=5",
+   "published_utc": "2024-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu To Launch AI-Based Crop Specific Weather Forecast",
+   "source_name": "Outlook India",
+   "source_domain": "https://www.outlookindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdndIX08tS2JpZHlqWFdZT2hJU1UwcXpRZGRqaVNpUlRwb0g1OU1rZWxRaXVtaURVUzZPUURlMDdjOGRLNkhCSmoxOFloazdnZ0VnS0s0TEVLUG01ZlFlQlpOZ28tcWZBY3c0VlROZWtPY2NsNDBqbWpwLVpRa0hXWGdJY0pJNXRVOU5jS19HMFkxSjFuaEQzVlA0c1J0WVXSAawBQVVfeXFMUHZnTlZiVnRRV25DZXZWRFo0Uzlod0dlblJkNUphVXdoZlB6U1V4Z3k5T0xEX2ZCZDN1RWhxRUFJMTVoNlBad3dYaE51ZFZrQUdfY21Zb1ZYVTRSYm5EemhBbnZhY0dPRnMxT1VvMTJlZmI5LWhwd2VJTmdlUmMwVXMyZVBPWWlQUHhKNkdRNExMU0I4dGhoU21GNFZydjNFd3lrZFMwMUhRaDF4aw?oc=5",
+   "published_utc": "2024-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SIMS Hospital launches AI-integrated pharmacies at Metro stations",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMWY5ZEdtRG5tTG1xY1VIeHVZTjJiLWs4ckFZb2VSdnlEdTl5R1B3cTRxTTFKZE1hVjJvWW9YeXN2T1k4dy1CaHZTWHJTM28yWmQ0dkwxTXlhbDhXZ056MnNIalNYd1l0RUZ3R05WdFBza25UUGpXZllad0MxRjdOclJJNHpxdTlGWkdIOXQ0N3BuQXNhOTd4WFFwaUhZZXcxbVVYX2M1WW5LdjhOYWw1eTZlR0JwOHBZR0JfWmgwa0gwMnhWTHVMN3RmamFfZ19w0gHXAUFVX3lxTFBVcEwydnhqTU9rbURqRTFBVE9tSGRQaE9UMUFrTnpiRW8wTndDWlBKeWlFcGVLcUI5MkJlc25WWUtjQzM3SldxV0pQVnJ1M185U0J5RExCUjJQYWNCS05nTUNGeDEyLUh0QjJEaXFiQlZ2ZzZyRFFMbWFZS0REUjE3Mmp3Rnoyc1ZMN0VOYnhpSy1zbU5fcUUtT1JtZXlqVUhhSkdtR2U1WFVocFlKQXltU1N4STVTNFlGRDNYUXJlamlBY3lIdWpscjFseHNqMWoxN0FJaFow?oc=5",
+   "published_utc": "2024-02-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta Can't Reopen Sterlite Copper Plant, Public Health Important: Supreme Court",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3FKN1lDWkZnYlF1X2ZSVzM1S1dUM2tMYW1TSk5uWnJHQm1YaERraFQ1UWgyMENYWUl4a1FXUkVfYkM0YlZlNjZzc01SVVZNcy1NMjktei1vTWY5ZkRZd3dsWFUzeWNjUVVvaTRzOXh1dV9vbmFySE1PSjI3cmNaclpUUU1mbVd6MW41dXhKeEJhSlpBUHpObElVTFRsYmhqSTd5RHF6LUVLVnNaYUhJa1F6QmhhTjNsaHNIQjRYOFpTdkJ5TjV0eU1n0gHSAUFVX3lxTE1ZaVUwLXpESHBMbU1MUVFMOHUtUzViT3dEdWtFQ2pwMXBja1g3ZVp6UFUtRzk1YjRab0R1aG43RXhGZjN6eC05VkJVUXJFTXlxRUx0QlU2eEItTVpqLVZxV1BjcU9iOHY5M0c2emNsYl84bG9ZSWNBYUJ3RnM0WGQxTUFjQTlodWlta1E3UC1faTkzVFdMejAxYm1hRGRfWEVZSGlPdnVMdXlXYmpLLVRFVEpDVTdYNncwTXJLOEpuTDhnbXJucVJJOTFsbVVxX2g3UQ?oc=5",
+   "published_utc": "2024-02-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt allocates Rs 2,500 crore for upgradation of roads",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOGNaM1lsQ3JseFp5UHFDNVAyNmNuZld5OFZxUmx0bU9jaXJMRFVKVEgyUFl2OWVJUHM4akh6a3VKY19BbUYwek5adnZiZlBaam9USGVXUHQ4dEpaYzhzSXdGYmlMSUszQ0xFclNjaV9QTEdicjlCS2RQb1hZTURXclRwejFoLWNjTEpSQXZmS1FHTEJaRGdfZFc2TFNrNjlLLW9nY2lNYUxGVzdVRWVYaGtHS0FhbmpqX21fQTMwNTdEWVkzS3NqVmppaVlLLXNVbk9z0gHXAUFVX3lxTE1aQk01YkUtNnkzd0NrRndGZVR4azZScjdSSGFOdXI3RUtuQWk3dzZkTGlRMGIwTzhhZ0Nyc3pWdE12U2JPTnJvNGlFUDNOekRaYmNXbDFRS0VkdXhtZnBkbllXVTFZb21Hc3VYRUl6enlVbXB6cHFhcXN3a3NIZV9IVU1veDY4dXE0empaREgzOGVzcUdHS3hPTWtQQ3Q5WEZMMVNBbVliYVU0Y3hzWVhxci1wekw3LXJiSzJtWEtEbGs5UFI2TFppcnVmVU1PZThCck5UbUsw?oc=5",
+   "published_utc": "2024-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches AI-based early warning system for preventing elephant deaths on railway tracks",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVVQyamFyOVJpTk5OWkY4R2lGRTA3T3NxQmFsVFlScEZyaEdJT0NTaTktZW9FY19KVk5OT0czR3h4ejZRYTl4RzNpb2hBeXZlRm50TGR6MUJ1eHNxN05kZjhzdlNSV3B0c2pPbVdXZzlZY0ZTRkIyWmVXdjhfY214MGM5T2EzR0JHc0gtMk9DaUVZS1hYZ1kwWHhrZUViQVZfY3VmZmNaX0xCZmNvRW50MVZlWDZYQTVTalFheW4yM21FRzlaNDNnRW1EdnJCTHdCQU84WmNXaXl1OHA5NGtyVXdPZU8wSWdpUmNnRVBfR3hxZ1BRX1d1a1B0U1DSAYMCQVVfeXFMT2xBYzJINHVudDZsbW5mRzVqTktNeVQzamFVNm45VHZfZFBNLXZ6MWlpV0ZwNU0zQlZhRTh5bm02V3ZadE1DY1FSUTNEZU1ub2ZrcTYtQ0xueTd0VUtsa2hrVEdaS1Byd1dVMHdZVDF2Z2lKUHEtdFRCc2lMazhlMUc3TmFmRHdMRDdlQjFoN21McjF0b3E0OWNobkQ1SW1FV01CelNVdGhfMzhla194cTVSaWpycGQ1NkxQakhVVWx6RGkxWm9iS0gwVHZvbk80d294cUJjbWlfeHJNaHdWOEdCUUdFS0M4d1VKM2gwdndRWjlVVDI4SnRSNzF0TVg5Q2VIRQ?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "T.N. Budget 2024 | ₹1,000 a month for boys who have studied in government schools, to pursue higher education",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ0JQOWpXckhqRDhvb1ExUTVWcXhSMVVVWkNIU1FKNlY2Zmc5OVJiclBvWGJVc2plaU9XSGs5Wnk2V2dUMFFUdTZCcFNQa2dFSjhOM2lkWExKekh4aFdBQjd5blRETWV3WENQQ0pfWW1aTHB3TFBZbzNoSkZWOHptb0dhS0Fya2M4cUZBcnBNUjYtS0RWcmhtVGgxbXRDTnZ2aTcxWnNXM0tmblBiQ28zejhRc25QQy0wanh2UFI5UmQ5VnFIeVBzNk1wLThlaDd4RmpPc0Vrb29XaFJ4MjE1c3ctd3VlNUJKNDVaVmZJSVhSaC1iY0lrNE1pU1lXUXFodDNnZm9KOGR0ZFVVLU5OUdIBlwJBVV95cUxPN205ekVCUWFHM0lGd2txUjFTMUg2MUNxTVY5STdyOURmeGpTbEREbWxKTERfaDFsb0lRN0dzaTRpckJnLVgxNHhRMkVBdFQzUTRlMk5qSzRibk9kUngtclVpamw4VXp6ZDc5STB1SFhJdkZfYk9oOTlTWmQyQnZwQWhwZWtHU3NFYW1tVTF4SjZGUFA1T0U3VnN6VzIyYlJaVnVqaldYcF84dWw3MXY5VmVHY2pKSmhiOTdiN00zUGZuVFNMLWpCdXJmSktRNmZTbTVTaXljR2dSbUdQcGU5dFc4RTloNlNZQk5qRlVnU2Y4STBEYWZTc05pUHM0YkhpY2hJTHFMZzl3a2t6ZzNTcGc4WklpRnc?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

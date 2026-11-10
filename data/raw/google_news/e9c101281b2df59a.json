@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "At BOSE, students design an AI teacher",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajVMd0lSX2lvTlhaQnh3ZEtoNDZ3WDA3QmJsWjdqNWN5Z0VRM243ZS16cnlmR2ZiSDZxdllXOU5lenJZdmFRMklvdEtLbzZxeHpsdU5sY3pKMVNrR3Njd3MyWVpycTVCSlBIbkNVN3lDVk9maGVlME1nc3NxUTZsQklhbTBGNG51bGN3QTNZVks2ZW94cHBr0gGkAUFVX3lxTE1peTJjZktOb1F3NC1nOWhUd0VZTkZ1OUFwelpYcHhsMENzRzNJSVJGQ2VTN1VhUV9NNm9rRXhxZkhyaUtOOW9GOU9KOFE1X0lyQndpUUdUZUt1NTdzTGtReUhTT2N5UmxiYTMza2VsQ0s5ODN3VzJ6cjlETWtuM3YySklXOGFEMmV6UF9IM0V1N2o2aVpjNVBvYl9pRkx3YTNGX1p1?oc=5",
+   "published_utc": "2024-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Orissa HC upholds State policy on merger of schools with low enrolments",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmRzZ3RKbFZZOWpmdVYyVmlzX0l4V0wzajJTbVR6eE1wQTJ3aWM2WnJGYUh4ZUJuQW16RF9sNnhtT1ozeUNhX1VRSzE2bnF5bFRycy1QWlVYa0pkb1d1VlNHcGR5am5XdFBXM2kwOUlHNXF1VXp4Qzh5NW5iZTVaaXM1Q2tKZG9SeVA3Nkt3VDRBX2g0MEtuYkZqay10STZEc1R1TWMzc0dmTUlGMU1IeWJ0RWEzS25XVDhkWHdLNWYxaDBvM29wVDhDWFJBczRpVlRj0gHaAUFVX3lxTE9tSURVU055ZE1LM3lmY1RHT09FX193OFJXdkhyanJKTVgyS2FpQlBRWkg4ZWlIdEJXZ0hEQTVBODNZUl85S21VX29ZamxZQWNleDZCZ01ZZ0Jpc1BWX2tOUjRqeTNOd1JMdHlYOHNXd0VhOHgyMU5Cd2Zpa3E2bVROcVBZanJwRWROOWtaTE1JbDNOczZSRndka180MXVKTXA3T090R0p4SzhJeU1hWDljaE03NGVNNG9Ea0NfTjhmakNkNjVuaEN5VldDV1VmSmtSVFZXRHE0ZkVB?oc=5",
+   "published_utc": "2024-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Announces Consultations on PESA Act Implementation",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRHlsam9oRWVlZUl1Si05TlkzemdoRW8wS3hFQjlPaUtyMy1QN0ZsQnozN0lkRkM5UzhQcFdEdXE2QmVYaWE2eE00MU4yLW1ZMlRZVXlhdWxVTVdweWktWW9yQ1hFVG5qblFtWXZYWW0xdjhZTERNeGJrSnVhemhqMHVMY0xfWHJobU01dGRDVm05MWVEVlRjNEJIcU9IZDd3MVJmMTA0UTRTdTDSAbABQVVfeXFMTTZHY2cyZkM5YWs2R3V6cVNFWjJTRUlIcVd5bnI4OG1wRjRnNUV6WmVBclNjSlNlckliaC1jVG5lRFNwZzdRUzFad1g2OXRuazB2cU42TE5JZTg5ZExOQmFaNVNVZGV0aW5pZUpVME05VGZqWk84aXg1YVhZODktYmNiNDAyTkg1UmZoQlc2dUhsNllzcUxDY18xSHUwM3F2cGMtQ1p5YWY4c2xWekxLU1o?oc=5",
+   "published_utc": "2024-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi to attend 3-day all-India security conference in Odisha from Nov 29",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeklmRmRFb0s5TTh0UUJpc1RBb1RvSE1acEl3TS1OdXNYSmk5bGhwWnlNZllYRmo0VTl1V2tiV3NxbVpJR2p1T1MyQ01iWjQ4aHhVU3NiandOV2JaeXVuaDdRbzhNVkxET2k4a2o0eDZzcm9FN05kMTlCOHRYckc0OURwZVhsZ05RTWVNSGc1WUJMaEtpZTJPM25XV0JpMUw1WnlsNmtaTlJ3Y1BySk53SXl6dGNqMDZGMlVxSk42WGhWdzdGQW9JQWxVdTBDVDdqRG1lNVBQQdIB3AFBVV95cUxQZHBLSi1JNVBvUFlHTWdDbTdfYWdTVDZ0cHdVcGxIWXEwOXdEMkVQVnVCTXR2QXZYNnFIaVBmdGR0MEgxVFp1WlZHM0M5VmtaU0ZzUEpoOV9oU2RmWHowNVlyUnpyNVhMZ3NPcEdDMXR4c09zREtiMWNUVXFiUmFNQWN2aW92SUdGdHZ0a1o4cnN1dGxIQkRDOWNPc0QtTXdWeWMwZVVpbzA2RlNieGdzZzlXeUUzYVZudEoxOUVMTkdfUXRiOVoyY082QjdIV1RYV29rVTRPaDk2TXM2?oc=5",
+   "published_utc": "2024-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha's Double Murder: Father-Son Duo Kill Mother And Sister Over Property Dispute",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1l5emJWbGxqWEROcERqSFJleF9SZVdRcUhBa3dlMXdiMUlEUmVLN1d5VEdwNGt5cHRIeVhxeWpjRnJwTnBEdnUtc18zcnRSdUJJOHlyejk4ZVY4T0c3M2pQUVh0SzB2eEVuZFNaaWNMRkJmdi1FM3Qzb05lT3l5TGdzZ29xVlM0bFpxaGlqZ1k0akJEbDduN2ZNZlN5MS1SdEZMV0w5cVBDZ0JiQ2VHbC1jbzLSAbwBQVVfeXFMUFFJa2tiWmtRX3N6WEFUa0doSmpIcUR3UG5Eb25TZXRHcEpZYVBIdlZuTm1zY2JyN2lwVFdEQXdxYlJWenFVX2Y2VXpQUU50RkFuUFBKV3FiT3RSMXZCbTNlek02aTBjQ2pnV0R4akp3V0h0VVRwTzFBSlZVOWNLOGw5VHhtaVNFWExXR185TmRMN09QNkx3eF9XZ0NxLUhHNDEzNHU0elBuVGZQNy0wenVnS05yZGQ3MzI5TDM?oc=5",
+   "published_utc": "2024-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jharsuguda police use AI, solve three burglaries in one go",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEtGOS1QWlNJVVp2dWtMWElOSGluanlRUGNWbEd6My1MclMybUJmTnZhNnB4Y2VkWlpVMEZtN2R3MVVhRmx4cUJmUW1HVVVNaHg5VHVhUndtSnpNU2ZBZUIzdjRpRm5DdlBnb0FTLUpxVGoyeVlRekhKNGZwM1FyaThYVW43bk9xdTNDUnFQckJLSE4yaml2RkJQcEJ3NXEydGd0ZEZUWi1IbEIyR05zNnBQSGNST1HSAcQBQVVfeXFMT2l0Q0hTU0d0b19UZHVaOGNCSTdIVC1DLXlCU2hkZTF0V204dGZYRURZdVl1UnI2TlVaYlpZT2RnWnRBM05aRzdzcjJkejY2aUZqZ1dTSnltc0o1Qm9BbXZuZjI0M19kRlB2eVlZTHRlN01GVmhiMWdkc1ZzMVRrUFgxSkRZV2JadXZfMHJ2aTI2Q2MzMXN6YjROWXN6OC0xNklTbUVrWWdBR3c1M3FIRDhPN0FvUlN4TXBSY2tsT3BRa0VWZw?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Punjab & Haryana Farmers Still Richest In India As Bihar, Odisha Struggle, Shows Survey",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVNKQi1jVWhjdmNiZV96YUJ0eG5BaXRKMjczZ1lzYS0tWnVnYUJBSnh6cmNHbXNaR1RPOE1uMkhLV0twM2JvRGFlc0pFRTM2Z0diWVg2dWpLTngybEZxYl93V0JpaWdsc045ZEpLcTRxREw4WVBxQWF3YUtkS050Rk5aRlo2MDVHZFNNMnZpQnhRZ0dEQXRabmNlcmR2OU1xdkRScmdsb2FmM1NrRVlTb2FuanpxZm5VaDY0ZTd2ZXlvUnfSAcgBQVVfeXFMTXc3NHRyY1dIWnVOTjZLSV9sRERqTm5Jc29QU3pxT2NYOUVqUVFpejViOURyWFVwd3Fnb2dtaHhIdThQQnNyN2g2UE9TemZnY2x3T2xTeTBBU20yMFN3ZzZfc1hjNHl0OWlZYlluUmh1WVF3MXZTaWhBcVpxbjJ2U0tza1BsTFFKc1BIbmYwYXpVV1FhUWRDQUVEVEJfQUJnUTU0azFiTGpNajI3Tmk5TEc3MnpNRU1xTC1LUU94Ml94N2hOTHk2dFM?oc=5",
+   "published_utc": "2024-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha hikes midday meal material costs under PM Poshan scheme",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JENFJ5TlQ4VHdGYWRvWVJhM00xMXA1MGp0OF9yVlgtNVhJRlF3QzVMallaOUVuS3h1aEc0UnZHbW9HckNISjgyOXF1M3VnNUtLdE8ybi03WGpEbkFSVG5xRDdNdjRVQkRBNi1NMkVhNVJNQkc0SE1vSXY4Y2NLZW5oRmYwVlhqOGt0YXBYMzJUampLbzRtcDI5cDZiOE85ZlR6LWRNN0xWUkQ1dXfSAbMBQVVfeXFMT3k2ZWNuNWVxWHZnSU8yTXN6MjhUcE16ay1pZ2dtajZValJfem40YUtHTXBoMW1iYllkeUhoTi04Vk40VzY5OU1TLWFuVHEzLVpyVDI3MjNnYkh0WVNlRXkyaVAxTlI5d01Ha2swZzNsdXBGeTdRcXN6Unh2dkMzS3VFY2lKbV9nVEZjVmRsRE40R2RibW1rSHFBaXpRVmdHc0x3U2ZJNm9JSzQ0eV9zWTNBSXM?oc=5",
+   "published_utc": "2024-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-generated image of Donald Trump, Melania, and Elon Musk as Indian politicians goes viral in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUmtHdjNzeXVFaEJDS09GbkVBY3RybVlhTW9OUUpLNVdBWXA5NklVMkhiWFVPSGp4anJIUTRvUkRWYUpobUNOMG85aVJ0NDFVa3dXODMtSlRMcEZTM1NpQUFxMzhMcE9mVDVfNVdYMTZWNVBhNFJpRGt6cFN1MkcxVXliRGNqeWhjRXlfOGVzTFBnal9xNnJORGNpWl8yRTl3dGV5WURwbTU0VXBSYzdLQUNOMzRPazh0TzBTVU9JdlhvTXQ5NFpFRTNSdldfaVEtanFnRjBWNEF0cDE4OWlTU3lwdmNtV21yZFhKRlN5WdIB_AFBVV95cUxNR2E3aFQtb2FtOVIyMl9fMHBFVTFmaTgxbVhBZ1k0U1V4R3RqUXJDNldULU9LUms3RWRMR1NLN0dxNFNiOFJibF9vYlpOWHZXS2RzT3FqbFBxQW1qVnZrelNLd2hMcFE5aC1zY2xZa1NpWXk2WHl3ajZRbURlX19kYzhSNC1DZm1iM0FEd3JUcVRudjI4bERFYW5YaDQwUTkzTE1mZm9mTTRzb2gwZENIYy1UTzhYd1AzN0JMTXh5NG16UG9VU0kwSnlGVDFtU0JSNEY0VVRVOURwYlhjR19DWjVVX2ZwT0l6WTVIOXM2MGR1eVNqV1hzanhKc2Q?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India: AI Teacher Transforms Learning at Odisha School",
+   "source_name": "Sri Lanka Guardian",
+   "source_domain": "https://slguardian.org",
+   "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdDBkaTl4SVlmY2JhSUIzTFVlY2swWnpyWWdKZGszVHc0X0c1aC1jbkRGUmdsdzBYM2JvRTNVYVZEYVZvRUUtR1lZQkhubTAxcXJpVXg5ZG1Gc0R3OXl1NUdyWlJHdzU1aXpaWncxd1M1Q1p5SXdIRGhZb3dPdjVyeE1rNA?oc=5",
+   "published_utc": "2024-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

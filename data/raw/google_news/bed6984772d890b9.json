@@ -1,0 +1,85 @@
+{
+ "query": "\"Assam\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Kodagu mystery: How AI helped the police reconstruct facial image of body found in bag",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0twTGxoLUFWWmpRTi15eTdhTDBjN2FXb2pEYzBMcllPWllhNjYzejNxU3Z5aXBqemRGSlpfalF2azJUTFcySl9td2EtUEt4bzg4U1FkYVo0NUcyejJGM3NpOFUxOUE4M1VvNWhhd0NGRF9CZXJWWm5QSkt2dmFfRzE2UjAtWU55cWNUODFYMmI3dHNnbHp1bF9qYUFpaVZLM3ZkMHFuTFB6Q1RiMWI5SXZXR3FvX2lRWnh2cFB2cWJMYkR6VVJubHhyVngySjdDOTZUd3JUZXhuLVY5MFZ2NU9aeFA?oc=5",
+   "published_utc": "2023-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Burqa to uniform: What changed after Assam madrasas converted to schools",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGtUSnp0M01pVGhSblF3X2h0bTZ4cVNxb1lQNlJkcnVqZDJlTE9YOS1lM0NVeGxJV29RTzgwNllkVlZueVI2LXpmRVF3Yk5LY3FsRmxpNXNGTzRsU0lmdmtlX0k0cDlPQmJPc2ZTOTdiQkJkZVhTVlpCb1JjZHNXby1XaENacjkwZE85T1V4Vi0yOVYzS01OYXdEQXNQamYyb1haSU1lN0RXVFU1Mk1JTWFPWGtRb2NWTnA2Y3Mzc0VMX1BzbUZz0gHMAUFVX3lxTE1vQktrc0huSjNzc01WOTd4cjRORUFkMDRUWmoyQjRQdTVhc2NBcXpMWWRGRFZwZ2d5dmNfNzlTejZpcmoxYkRCR3c1WU1xNXZkdlZpVEdnak5oSnloZjhaZXJqN3VCTVBzYnBBOUduTGpfVklfSGhLaWNScG02Z1JhMjlQdUxCMXVhZHZ1M2hZSHB1UUw4N3hvWExHUjVXc2dtSUFSaXZ6OGpOcTNnd2MtbzhrMGdGdlhtcVJNbHQ5X2pxLTROMTB1VGptZA?oc=5",
+   "published_utc": "2023-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nearly 1,300 ME Madrassas changed to ME schools in Assam",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDk4RGVkXzNtOEpnLXZRdWY3UXdhbkc5ZUdsdGpEUGMwUWVlclVuOTRJY09HM1oyTWZTOWJzaFNDTjluMmdfTTk5VHduajdKWDNOZEpMM3BJNVA4LUZIUVIwcFpVVjFyTExsSnhQeURoNzBBalMyeV9yN3NraTlyMWtrbG1uU2tHSVhjanZpakFHU1dHLVVENmlPbjFxQnZucXIwbEdGR0VDNWxYV3o2ZDZua1NEX1FvWTNjOGxyLUZyVGdkbU8yUklFeUE2blnSAdMBQVVfeXFMTWVXbFVIam9YRFU4dWQyejdQQ3VqdktVc2RuZVpOTmZ0TkxIY01ld3FkY3VIRkNRUW1mUk1MSl9MeTBEUXdrbEVRX211Z1N6WmVJS1R4aUZOSzRpaFp2TWhrN1NldWFfaE84VnRsMklpbF8tcVNpVDNIb3BXYkQ1d2hLcm5UV1RveFBlOG1UMjFHSnE1dHVoNzBXRDI4eDRqeXhkRzhNSklkMElqd2kxR1htdTBqRjJvWnVTbmFxN1JlUnVvMTB5dktZbHBiclo0LTNKOA?oc=5",
+   "published_utc": "2023-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Sprinter Hima Das boosts morale of NCC cadets in Shillong, shares her experiences",
+   "source_name": "India Today NE",
+   "source_domain": "https://www.indiatodayne.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYW9rMkE0d1ozQVlxZWI4VXl3OXdkM0hQaDNDN1ZLMDBNQzhVWHpZUTRmX0s3VWpfSTQwMVZJRzRKT0x2NFBqa24zNGhfc1Vqa05PX0pKTkdXZlhsdjVxNVNnWlNTMmVMeURCYXZNS0Z5czJqM1VIcmlpcDkxMDlpMEd1Uk4wcHpIMmdya2FPeGRhQjZldlVGRmxJd1ljU1ZabE1rV0lzVGNhWVJUX3lSYVhhMXVwa3ZRMVR2SWdUZ0szN0pYczhJbGVIQi1YQTkzaEZjZmZHaW82bEFnanBfY2V30gHnAUFVX3lxTE9NRktxQ3BidUhjTGtsTmdTWmRJVHVPRWI3QkpwQU5jM0ZpZFZrbS1yVUViMS1HM0trOWZMdVFqbG5pazJZZnhoRzBhZVFqZXVCSDM1dlNUVUc1QjBUbjFnYjlyWndfdGJqaDJ4bm5DalJ4V2NlMnhHdGlFUGJvRFJZOWtTamFWUGZTVEtSV1pjQWtLY3VleXRPd0I1M2N1RTBDVDNjaHMteWdSMk1kR0xqT3h6dG9TRW95V0xtR0thNzBra1Jya3R2eWV1bkpaZk11RkxmU2lOMWNpaERxN09ua1RvSTZFQQ?oc=5",
+   "published_utc": "2023-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Govt to provide financial help to veteran actor Jayanta Das",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHVqQk9EU1pzRUQ0WTdHTENuQ1E5QmgzZkRkMTRubVNhdFdZVVBkMUIzeEdtZFQtSXZzMEcxSzIxY19hLThZc3M1a3hIV0kycTFhNDIxWjVob3pxX3JwNUo4QTFCVlgxMktKUXVISzc3cWtER3Z6MUhWNVl4dXBPdmEyQktFNThkS3RpR0dNUWREUXZsT3pvS1U1aWtJSlRidzJwWnFGWkFOQWvSAbABQVVfeXFMTXVCZm1RNy1EOTFWSWRsQm5wQ3hxN01xd2VLX1llTGc4dVYzNDlpOFlCbmtsZUhnNjY2X3UwM3Vzam85dzR3bms3b0tPa0tQNjNXcTJGMmlZcnVtQ2NSemIyX0ZiR3pnaWdQZURpdS1ydnRvc29ZTVNDbjhzM1lUZTZXZEprclZYTXZxbjZqdjl6WlZtUGNfbWdWQ243amhOd1hzUFdCVkZEOHpBZHRNS1E?oc=5",
+   "published_utc": "2023-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Group to set up semiconductor processing plant in Assam; to invest Rs 40,000 crore",
+   "source_name": "Indian Startup News",
+   "source_domain": "https://indianstartupnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDVWTXdCdDZWUGtGNll1T2gzS2h0Qi1wT0p0Y0NiUmVFNHh2T19yVGZlR1lmY0NnRS1sa25kWThCZUlQQ1FGbkdteFc1MmktUThtZ3E3ZllvcHlsQUoxdjhhb3ZWMExHb3QzVnlOaElTdUZlTzJtUU00blZqdGxQNV9KUUZNNkczSjZabmR0bGt5QzVfRUhTVFhpcy1aRU9LeDhCclY1cGFjN2lsTjlPOUZaVUUwWmJMazdQRzZIdXRqS1oxaXVSRtIByAFBVV95cUxPdDVWTXdCdDZWUGtGNll1T2gzS2h0Qi1wT0p0Y0NiUmVFNHh2T19yVGZlR1lmY0NnRS1sa25kWThCZUlQQ1FGbkdteFc1MmktUThtZ3E3ZllvcHlsQUoxdjhhb3ZWMExHb3QzVnlOaElTdUZlTzJtUU00blZqdGxQNV9KUUZNNkczSjZabmR0bGt5QzVfRUhTVFhpcy1aRU9LeDhCclY1cGFjN2lsTjlPOUZaVUUwWmJMazdQRzZIdXRqS1oxaXVSRg?oc=5",
+   "published_utc": "2023-12-11T13:53:44+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam govt establishes CSR authority and implements paddy procurement reforms",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTng4alRNcURxWXJYb2wydlhTTko0TGg0dFd1aXhmdlZSS2Exck1aNlNRSGlRdXVyQ2ZCLVh1VjA5Sm9kTFJuSkJCaEJvN0hLZWtyUE9KT19Fc09TSkNKeFVhamNkb1F0SjlEeFY2dGZITkp6d0gzOWh1VURreUFxSEQ1YlNvamktYjNNTW5QQ1RIUERfSzQ4SXd2Y2lfRjNBNWRNSFRuN3VNS3RuemNtUktSakhnT054NjM5OENjakxGS2tibzRsT3Rva19XOVJ4UGFzUV9QYktrQdIB3wFBVV95cUxOaDVBVl9RRi1xZXZnT1ozaGZheWRLWUtrWDF3czY5YV9rM19FampwVTRyVTRKT2FDOHNUTnBpRGxOcXNaaU55UXBOTWd6cnlNZnk3anlYUldrcFoxeVVlcTFQUFNLY3Q4V2JvUjVLOXZSWmszNE05dUxDWi02LXdtakhpa3V3dzh5b2cxVDJJS2FaZGl4QjVLS3dJOGxsRVVtVEcwMnltemJpcmlhdFVXVmd2QTdIRFVBa21pSXBUSzJqb3FlWE5CTld3THhQT2tDOGt1alVORVFUZzhFOElj?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Ali-Aye-Ligang’ Declared As Local Holiday On February 14 In 10 Assam Districts",
+   "source_name": "guwahati Plus News",
+   "source_domain": "https://guwahatiplus.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDI4UXAtQnZtOTlBOURPN29ab0F6RlZiQTRQZlp4MHZ4RWdraFA3WkdGaXNnc2hVYUZkb0RPS29kUzZvZXBGUmhXTnA4d01Vb19MbEc5Y05iUi1IcXFOZnJsb3gzRlplRkdhanFQUDlHMDNfX2VfMnh3SmNqVmRkX3hwdjk5QjlmR2NTWW81eC1kZXpPbVZGMkx2VUo3UU5PaXIwRw?oc=5",
+   "published_utc": "2023-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Massive Recruitment Drive: Assam announces 14,223 school teacher vacancies",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHRadDFudU5EeUZlaERjZmdJclloQ2tIbEQ1aUwtQXlhSE8xODZsclJhZUdtaHpwblZidGlVenlwNmhMUEo1X3lhR2QyMUQwbGVmXzNvSEpYQm1mN2o5WWtQZy1yUGNyZFREeGtGaHVmQ2U4a1BhOWlZR3kxbkw2Q0VNQWtYR0IyNjBzQmRVeU5NRDNQS29xQkdrVExjamV5bGw3RjNkb1NCeTZYSEJ2aWlEMHRXQ03SAbwBQVVfeXFMT19pT0s4YjRaYTZ4eW13NUhscjJQdFJkSE9xeHFTUS1CYUZDZUVhTE1YNnhmdEJFTWdnMENXSHBEaDlpN3U2NGN6MTl0VjJCZWhvZ1k3ekwtX3Fua2RPRmxtUFpLeVpQdDJuRFAxUUJuNFNja3VHOC14VkNnQ0d4OXAyTmFOTlJlb1pIci1EeUV5TzJVaG11bklpQmc1Q2hhT01jVG1UR183Ym5FMXpHUWxYNlRHTU04WGlBU0Q?oc=5",
+   "published_utc": "2023-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam HS Exam Date Sheet 2024 released at ahsec.assam.gov.in, check timetable here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPendKS20wd1YyeVhuZlk4bEM1Z1pLN3o1RUNJb2hxTTl5STM0UnlQSHVlZGstRm5TREhQZW8tazB3ZXd4aFpNXzlZN25SeWQxdDhzVDJhdGF6UklWNWc2QmxxZmtiaExybWppenFULVZDallNOUpUdEcwT2FhZVc3cGFtR1VXeXFTQWUtb3Nkdnc0VDlSdWpIUnJHZDI5a0syd0VabXFrUVlNeTlZOGZUUEZRT3dvMXowUUxERS1VdFlGMENFbHQ3VHpGalYzeWJSZ0JKTG5TbzEyVFZsTnhSeElwZ3VMSFZRRlJsTUpKRdIB9AFBVV95cUxNUktWLTZXeHFtalkyQ2E4dWpRcFlpVTBpM292TGlSOGEtMzNlZlhKTGhtMVg3MnYyaW5scWZfS25uS0U2UjhMdGNULTI2aHQ5MEszRDBCT3Jjc0VRbmZmSFpkbEtSWG50Q3NIdEZrOTZONmNOWU91UlNpRG51ZlZsaklLaURuVVNMR09IUmlsMUdSWDZOWXFIS1ZvTnNLLTU2dGNSZG5TU0lBcjNjR1BabGotUm5qYVYteWtTRFZtNHRUNkotckUyTkNNUTBxcXNFR3ItVmV0eTloQ0ZWUDU5dEJkM0hhekRfVmdwdDBZN1ZYV1ZX?oc=5",
+   "published_utc": "2023-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

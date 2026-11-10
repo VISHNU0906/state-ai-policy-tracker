@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "30 per cent schools in Odisha have no tap water supply: Minister",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0FveHN0Zlcwei0xeVJ2ekFYVUpJVlQ4UGdtbnllcS02MVdwWExmQ0tiV0doLWwwZm1qU0l0MGJ6a0ZNZHROaWllNjhJUGRBUk5jbHp6NFdsenQxa09fblVRMnh5ZElvQndQMWNrY0xhZjU1Zk15UjR4R0lJU256MGhkcDVqeDFrdGhGdGx3NGZIdF9wbG5tQVY3VnVTQ3ZMaDZsTmtFV01oN0ZJQmR4NU1peHNlRFl1NExPR0g5aXJfZmpRWmxZbUVvNGN2Q0V20gHeAUFVX3lxTE1PTG1aSVdTLTJ4elJHV1FVWGZxQ2JnYm1RRGg0dVlBd2NqRTA2SUhSaF9kbTFsMHYzYlJ4YVA0OHFUSVFNaDdoMXlsVDEwWlpNLXU4SkdNclExUlBwRmM1QXZac2k4LWRELU5uYWhIY3FvbHRGSGJsT3M3MmlQR1VZaFl2VGtkOG5sUmVLM2tpTDNocXlPckhhQlhoNTZyc09fUGdTc2lqWjdrempvR2VDV281ZTExMjRVNEpVcE9tZF9US2F0NWhEME92Q3RFcFpJUko1bVl3ek9MRThaZw?oc=5",
+   "published_utc": "2023-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

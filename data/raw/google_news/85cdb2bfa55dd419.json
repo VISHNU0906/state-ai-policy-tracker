@@ -1,0 +1,29 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh's students to get access to 1,000 free courses as govt, edX ink pact",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNXzR3VV8xTFRIYUFkZXNlUFpLU0ZYZEdpOTdIR3gyUlRSbGFUQm85Y3k1R0p4Qkt6aFQxc184UFpTNEJOUWJBVHhIRFlFRy1tTng5VWI4ZUhHbGRXMGNwRS12M09KNlgwdzZoZFJkTC1xTDdraWt0VWhDS1o5MWtWTUFhcjBqNXE5SE1jckd4VjRZRGVHa1Y4UGcwTlVucm9nUW52M3dBamVTcHRIMmJhYkR4SUNNc29yWk5WUEo1RW1OakRneTBiQWZPMW1nem5Ta3YxczJWYTBHd1lLWXFLTjBYWjdUT3R2dTFVanNmN1ZQd9IB_wFBVV95cUxPQ0c4YWhVc0F5SlZ2SlktdXdqTXdlV3NQenNCTFF1anNVXzczdVhEWmJPODB2WXRlQ1plTXpBSHgwb2JPaHNPelVoaWNYdEYyOWRCbm1RbkhfRlNqQnpEcWZPb1oxZE1iTEFGbWRQZ1U2M21zOWFLOWNtTTE1U1hvaG9pUTFZNzNiYlJpT1luaUJ4ckIyYVNobFA3ZmphOFVlLWJUZkktbkdDZ3FhdnJkSEI5MXhIbXV1VXlqN1FDcU81OE0taFYzcEdLXzk1ZWppdDlhdXhWUW5SM3NuTVl6VlpzYTZZclR2TEtoTjFXRmhycU1XZ0hudVRabDlYLWM?oc=5",
+   "published_utc": "2023-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Andhra Pradesh Is Cracking Down On Teachers Using Phones During Class",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0k5MW1YMllvNVpOeElxaFR1LXBpb0l4Zm9EOWppWWI3Z2V4YnJobVJpM0hsMW9fRlpNX2wxSFQ5MEVtWkc0VzNZZDhVcENoYVlzZkZDWnlzYjQ4RG9XaS01Y2xNZXRTSzduNGNobmZrdmp0d3N5RkU5OGtJVGtaZXZtYzMtSHFveUdZa3BMbGJQdzFiUVRIWmlHeGFRVGM1SzJVX1VkaTVoS25iVllkNlF1Qkw4Vm5oNlZ2V3hBZ9IBxwFBVV95cUxNVnZScXlZZjR2ME9LcUN6X2o0el9WS3BZUGFZZlJxNzllX01Qc3AwQTRLNFhyY1R5NEZZVDlZWXBkTDdWLS0yMU5OcllpU09ud1VlMUZObkN3TjAxWlEtdlZDUnNwcXFDQ3hIM0FZUTVNcmR1OVhpb1I3TndYc0ZLbmF6eVhSWFY2VmxtWXExa2plc0lELWJVdXk4R0FBMkRDQm9CYkkwZzJXU3l1aVhRUU15REZkeThsVkw1ck5pZ1hwVzVpS3M0?oc=5",
+   "published_utc": "2023-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Transforming Promises into Progress for Andhra Pradesh's Empowerment: YS Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXh3TGV0SS1kLTRUSEF5SHhQaWhVVWI1Und5RWJXNmNlRk1qcmNNSUpyUDVSb1p6Wl9rS3V0eEtMMmY1Z0FUY29WVzFlMTZDbFF4WTBWN1FZaVBqMlc4ZERxZV9xMWlEVW85aV9zTU5EcWk3Ty1JRVg5Wk1qcTlOX0ZHeVhPWTd6QWlxczdKM2o3NUlhQWJEU0RZSHRHZElx0gGmAUFVX3lxTFBHRmJEVUQwY013ZDlHTmZUX1A2RkZ4LTlXdFV2b3pwdThsMlVXMzNLalNUaDZiQ3FaMjNjQWR0bm0yckNIRW5TR29UNHIyQ0dZdF9MakVyWmRMY2gwaXZneGFUQnRXbFZPekl4TGxQc09xbUZ2LTNCbUl6N3NHYnFQZWlaSG1CNk1uUU9JajZSWDlyVVlUdjNNRl8yVlk4bXFQd3pQR2c?oc=5",
+   "published_utc": "2023-08-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

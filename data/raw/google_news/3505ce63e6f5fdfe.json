@@ -1,0 +1,61 @@
+{
+ "query": "\"Gujarat\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "School Education Ministers’ Conference kicks off in Gandhinagar, Gujarat",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiamZWVXh4dTZ4SHB0SGtPMTVmd0tINXR5MmNQOXlUZ0VjcXRHYU0ybGNJbFFVcUlENUJYZEpiSmRyQTNQeUpMa0hRMFVpeGFuMEhtbUNFSTJKaENZSkNCX19NSUFaQ3ZIMVE?oc=5",
+   "published_utc": "2022-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MoU inked between Gujarat Vishwakosh Trust and Gujarati Lexicon in Ahmedabad in the presence of CM",
+   "source_name": "CMO Gujarat",
+   "source_domain": "https://cmogujarat.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVZQMjVtYVRQWE1Fc256OExqOERtR09uejlDVFN6ZlcwTHBoX3l3Nzg2aDhHTmlrTHRuZnRkeG1raGNmN1FZSVE1R1VpSnlKU1NIdjR1SEtUb2YyRzcwdV82SGxXeXBIVVdEVG1RZzYtb0NkLTIybUJ6TklVN3FydENXMm9KSWdtbkhMMmZIbThNamR0eVNTOW1SNE1Pc2h3NWZRSUZ1RHdVbmVsU0ZzdFI2RXNqT0VJVzlSanR5QWNmRzlm?oc=5",
+   "published_utc": "2022-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat, India Plans Cap-and-Trade Market for Carbon Emissions",
+   "source_name": "The University of Chicago",
+   "source_domain": "https://epic.uchicago.edu",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0Ntek1wTk5CUDlVcmstLV8yTzR6NFJhYTZBNTRUZWNWN1hPenFHUHVCTm1ic2U2TFNnRnZjSlQwS0N3S3FyZElFVjBjY2loMVdaei1DNi1zSUNUZjZvRHowYXZFSWNlMTRGVTVSZGxBNFFNMGVNNDRYUUVJQXJPeDEzTFV2Y044YlVfd0llbUgweERPaURIQg?oc=5",
+   "published_utc": "2022-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Minister flogs self with chains at religious meet; Cong says don't spread 'superstition'",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOODJpbDVhUFROaXI2azJROWxiLUczOXF6Z21LY3RzRkEtMzdlMXZMZjFZdmRBWXdZN1E0WWYza2hybF9EejRibzVQenZUWG9Rdzdma2hJTUxKdDZmeHVhYUxYd0Y1OXdhcXZQTDRPYUV5dGNtMWQ3OWM2SjFUdVBURDJtai1QWmpacmtHRDdtZkdYQnNmeWFRak05SVBrdEJTWXJmSkwyLU0wMU9pZW41aE1wNTFwdGVDRHdYYjJpVnczcXN0T0NDWXg1QTlyNjZ1aDRXNzM1aGY5eXFvU1RDZXd0V0ttV1F4MGZRUDlmamtVZEN6bUtv0gH-AUFVX3lxTE9kWnQ5U1BMbU1hZUg2MHR3OWx3Nzd0V3ExaWVobDY5TFFKbzVpMVlBcFdIQlpKNk5NMUlKYnVqY2o1Z1lVSDQ4MFBpQjZtazJpNjBjRVFjNVhNMmpabG90dy05V3RIV1pFb3dYTVRnRnJ3aGdvWlcxTmdKVzQ5X1NTMi05Rkw4WG5XbnBrTWMyNFh2UWpLVXZxdTEyb2JKSXBxcW9XRmUzZUtmNDFhMWhnWjJuN0w0emc4cVJacTRVLTFvQ2JaYTBKMWNmQTU3RFlDd3NIUGdqZlBVaUcxSk9qc2VFNVJMTndQb2pPQkx1NERqQWJaWTh2NmVYUUNR?oc=5",
+   "published_utc": "2022-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Government Officer Given 1-Year Jail Term In Triple Talaq Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2V6cExONmxoSG9sV0V5bjRKTXNOWFV4MHlOdVYzdDM0TERwWHF3ZWFtNHZvMGgwX2pWNzREd0NBWFN1X2RZNmRSVzFGVXNXR0QyQUpvY2lyZVF5bDJjdUZQeUQyT2g4cUk3cHBDeGZiU24xR0NFOFR5WHdUZGNRTzlUc1I1dURUM3lRQXZ4MUlibUdQTlNDVkg3WUx5YVNmdE4weDZVelFJSDFJVU1R?oc=5",
+   "published_utc": "2022-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Motors to acquire Ford’s Sanand plant; signs MoU with Gujarat govt",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVcwd2NUbnlvTFlnT3FRaEF3cEc5VFJIbkdjdnJ3QlFPYndxYjE5aFluQW1CWnBqWTc1a2oydG9acUREaExwNzBiZjFCTFJZeFJyVFh2SWdMYWNpOHlxY2xnUm4yS1plLXNHR3lRRm1SQmtVdXlVSFllTzJNeXBlQm15UlZpSkRJc00zV2hWWUxRaDV4NXl4RFNxTXlLdGZOUkxMRkFHakpmMHp3cl92LWVsREVMM0s0QWZJcHhoSDV3TWtEYnZpNVhfNkZwLUZTb0tEaUd30gHbAUFVX3lxTE9hVmVmSVNTcmVPXzQxM0Zvck1raWZSNEg3dmFRMmtxNi1QRzBpLWg4Wk8wQUNMU1RsSE9rZU82NjVWWi01NUxOdTF1cTl3WWpMVmtKR29Td2JjV3RqM2xXNjd6amZYNnJUVDJYdUdyUUw0NWFUWE9ad19xa3BJa3dmRkI4UzZGLWExVGNhX00tM2dKdnpDbkFqT2NkaFRxNFlZM01kelEzT0ptVUx4T0hsTE1tY2h5THk0UmluQms2T1F0TlcyT2prRU15VUphMXJmelNHb002cmp5QQ?oc=5",
+   "published_utc": "2022-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eight years of Narendra Modi’s regime: Gujarat Govt lauds PM’s achievements & contributions to the state",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTHhxSUJmN0hPUk5neVBOTWVFWGU5c3JYZWdFcGhZTC1SS1BreFB3ZVN6U1VZWDhzZXdKX2VFb0pPa0lzWVFMWC1jaDJyX083N0JUWG4ySDFMaFZmZk1XUnhMZE1TcWxwdlI5WFBXTE9KZEd6b2ljR1BFV1lPWmw1d1FfVGNaUUU0Z2lXSHpTSkhMVjFCTFRWdWl6cUJmWE1RcEM1MWdmRUJZQVdkMGJvZElpNVRwMHJ3clpLbkRLcFhsTGhfSlFLZWxHaWRlMXFxU0JCWUhOcGxIQmk4WEY40gHkAUFVX3lxTE4wbzBCZHgxY040RW80T3FXQUd0VEtQcXJwa01XZ2Rqcnh5TTRjWWxSb0FiMkNGQ2tXWXRpNzhkelRoOXFUQU9YeWJRS0VwYklXaUlVMTRsZ2FCTnBNRS1BTHk4ZzU5VFRFTkgydG8ydi1vOTJLMXNQSGVlZkpJVy1vMjFUSThINTMzbzNqTmFxWVlMN1JHTW96ajgxbENrLVVuRUt1UDBHZWFDZ01NLXB6UE9xeTdQMG14SjNtck50YjI4NV9YbGVycFBWMHRTNW9TcmktLWU4LUttNGNpUEhGN2RiZw?oc=5",
+   "published_utc": "2022-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Microsoft, Telangana Govt Finalise Deal To Set Up Rs 15,000 Crore Data Centre In Hyderabad: Report",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORnAwLU9Na0xpS1JiR3Jmdm82NWhFM1NESHRxTnVGR2ZZbmlFWXAxMjgzRGlIMm93YkdpSm80Uk1MWm1RN3F6S1hjNVRhUEVTUi1ucUJES3JDM1RMWlZUOXYtVUNqaDJRSC0wSTB1WUpUV2h1d3ZfOS1zTDVZa05fSVVpS3pKS3E0LTI5azhWYXpCR3FDVFVwLUpKSDI1dUNxdzFWNlhyRlNtUWV4cHh0ZW15UUhzay1UVjdWR2c1SmZlRWvSAdMBQVVfeXFMTVc5Zm91cWZjRzZaUnJ5ZDNCYjNQOHhUMW4wT3FEY1hGSlNlNTRBdnBpTFQxcnRKaXVwbFRaODdROEpjbDVSX1ZlWjJiXzVXSnFZbHJSalRZM1RZbXlfTkJGVnU5cFdkMXVpckZ0TGhwRElEbTUtM2pHb2JqMjAza0F1RGVSM0R1bk5zcXI0RjUwa1F1N0Q3VTh1Q1o2M3Vma2dmdzRqSVU5NVhLWHJQSG42OTFEVkh6QTZXdlZadkg2MjdBMG5tVXFXSmNNTEE2YU83bw?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sify to expand data centre capacity in Hyderabad, major cities",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGc1Y21hUjhsbXptMHViMklvMzhQWXNFM3UxSXdUNzl2WmhQR2Q5aU9VVlBLcGZxWUMta01oTm1nSFN3MWVBS3dKdFRwXzNMR0Y5ZDFPNlhkMk14VVZBUXJzU0FISXh3WmJkaDZtUUhiTFRpS0lIMTFYZjZzYzQxd0tybS1ia0hwNXBoamtLSXdfUQ?oc=5",
+   "published_utc": "2022-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "AI helps detect 3,000 critical heart attacks in 12 Maharashtra districts",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEtZRFJZV0NuY21sSE8zOGtxYkJwUk1YZHp5aVJteHItZ0taRWdxeU4xMmROZDlFU25LbHdkandzal9yU0dwX1JUY3hBN01PT0xVeEJZOElMNlNEOEdvT09zcGxNZGU5eWotZGNaSE1Oc1lZenVLcXhTN2Nzeml3SF9rQW5CbFZCckI2ZEFEUUpxc1JuNV9Xc2NkT1NJMGpBeWgybWJaaGFiVFpuWlVnS2FORkE2a3d1NDN0TlFHSWNtUE1DZ1dv0gHOAUFVX3lxTE1oSUVvWXlZTVJ3QUFMTV9LS0pBY1E1dENWU0NfczdqeUJ6ZnBMYmhCNjFDTDNkSUROd05hX29lbkFKUDI2dU16SFVCazVpNDRwdURUVjhYMFQxdFg5YVZZcEJtaVJ3VXdldERZU1YxZjRNM1NvdDlfZHZiRHpzMnJkeDBGQlNYMlNpckF0eXBzUnQtZWx5SzgxQ21SOTNrVjlPc1FsN2ZJaXhOQzV6dFJrQk4xYVFOT2kyV0xhNnlQTWcwTEFGY0VPOWk1UEpB?oc=5",
+   "published_utc": "2022-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State govt sets up Maharashtra Institution for Transformation",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2FXMG9oN2YzS1d2TVozem1pM243WFpaZnU0Tnh4dEtOMmpsUkRYanQ5THd1Y2VYbEtETjduOWFDQ0MyMlhCUl9HM2pCWjFXWlZWWVpNNEtlaXk0R1dQajdXbmUyYjZ1TFFteEFVNjRfWnNPbldWQ1Z6SGZFZzRHOG5GalBYZ0FtU0xVX01SYVJaQmpnNTNseGtiblZOWXZpdmJkdkpfek8wRzhSSk1LcUt3WEZhU0ZqanJhbXNCYjI4cTZtZm1qVTlmVUxQV3fSAdQBQVVfeXFMUElic2lHTlN2a00xQkxMSUFMVlc3dXctSWlnbGJBNHhxVGYzUVVjYmZLY0NJRWxwLTlDVlFIeHBueHJKeGVrUUVRcWZEdmNsVThLbVVsSVhIaS1Ka2cxQ2dUbDVrdUtMOC1wN0FXYVYxOU5Ya1UtTU5MUEFRQURnMmNOX3UxbjZWUE1oWTRLV0hrRWF4VFhBSHQ5MjFmVGctQ1FmQ2laX3hFMU1iSmwyS3Bfa21KdDdrTUc3Tl9uUnBjZWh1UTVWZWhHbTRlbTJTSHc0TVA?oc=5",
+   "published_utc": "2022-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | Watch: Maharashtra Chief Minister Eknath Shinde Works At His Satara's Farm",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzk4c0N1blM3QkhXUmYxUEc3OGhzMDRxZmFxc1N3TW1fSjNZRE1SbFhoUFRuUDlQNTN1R3JiOXRIOWc2RU1VWVNqSzRwdkV4OUNFZl9ETmZTYTlFanR5TXhkaUk3c3lhYzl4ZlM1cDBYNUdZX1E1YkJDNVhjcGs3WlVtQVpjNVJxaWh6RUJaUkZhLUw5a2UwX2RVTE1sMzV5d0hhdi0xUnJ4SGc?oc=5",
+   "published_utc": "2022-11-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt approves Mumbai civic body's proposal for 92 schools for EWS students | Education",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXNKNElmejNwRVZNQTJvMDVTQWE5djE3X1UyQmVBbm1DY1l1U3NhM3NJdktlTWt1SmtPNGMwdldnSldnN2NCdWg1YXU5OVFWR0FYb2xTUWx2c0NRcVppc0dRS1NrUjlUT2pPekdvX25yVXpJOUJDc0k2T0RmZWhYLUhkcHJJSDlCWnU1cFhmQ0VSWVNNUDBzcjJ1YkFrblZsUHFoRy1jZmNyWXpNZzY2TkZxYTBfSzQzc3F6NW9vaU1ZaVBVanRsYWhieFZwMFZzU3JTNTdBUUl6WTBGeHNB0gHkAUFVX3lxTE9HUHFoQWZqTlZKdmZUUWpXaHVjd2gzVkxlTy1VNzdJd18wNEY1NUJYaE1CczJtMDRkS1A3RWg0SHpqY2ZnalMyT3RzQ2Q4SHJldkR4M0RiY3pxQlV2OHB0SERXUmgyeFJYbWVNcS0ycEJ3REsxNktkdWd4dFVGNllweGVSWUd2cXdHU0Z5RzdjaXFyaF85R1BwOXNQTHFaZVNRMTNTSlMwSlowa1JEVnByTEhBRmN6TWVrUWtZNFA1NW90TFAzS0ppWnlEemZ0WlpHbm9GeDFlVERJSGt5RjFmQTBUVw?oc=5",
+   "published_utc": "2022-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Salman Khan and Maharashtra Dy CM’s wife Amruta Fadnavis get Y-Plus category security",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVDhKTlQ3dURDRFNiSmpreTZnRmhQWlZPTXo5UzI0d1JNTGJLN0RPS0xXa0tqYktTV1ZtWkhlaGxIRC1RZGxRLWdCVTNxT1FSTzZSU19paFJ2ZmlwN2c3aTZHTG0yLWo2TGFiTktLWTlzUVJPN29ZRG1mUW5zcXhINjFsZkJKZ3hLUkFqSFBuWmJzZlFkMWY3V1dVU1Nsa1M2d1duUS1SU1VhWGlLcW9wa19LTmhnQmxyb3NjaVBNZXZ6Y3N1aG9iS0xaX2otRl9JeWVBS3lkam5Yd04tWDJLS19IUGpFUDBHZEHSAe8BQVVfeXFMT1BPbjJRQVVrWi1IRjNjXzZ1Z1RocDFtSDF2OUZvWm4tYzJFNnVLRm5ReUg3X3dzaG1DY2Fxc3VoWk9lOGhNcUlCcVZ6Q1Z6YXZlV2Q3elk0V29DTGxNS2w2UU1jQ0k4MWxlMlY5VWRZOVhPb1RvblBjbWhjaFBNQmdtWS0tRDBtWFZQaHVhVzM3VzBHRjV2cmRudUtEMWlrNU5IUi0tM014U1VFdFExaGxMNEtlSGo0SHRrMUpFWVRDa3R2UGZqTW9ibXhyN3RmWXFNMWVvbE8tUmY4MExMdzhmNU9lc3ZQd2xFZUdPRFk?oc=5",
+   "published_utc": "2022-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre approved projects worth Rs two lakh crore for Maharashtra, says PM Modi",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1JDbzRlYVE2SUU4WjZuZmlQYWVmTkpsbGpqb3YwS2Y2Z2Q1bU9kMXpuQ3h4aE82TWxxdWRjUFltR1h3ekR2ODRGQVRJXzN3WlZfNVppY0pFYkZQR0tlVzg0amMyNWtTU3hjZzdKcVd2M3dlVDI4ZWFnZDJJUFdGODFoRVBraFhxb2NlVlJjMFlNYlFQWlgzMk9ycmtGa2JueGNCaXBwQy0zTlVwSFQtTDhzdkZ2cENKbXptRWVHNkYwS1VvdmwtelhjY2s3Y3V5V1lUMjROLXpsYTdsbHhMNWN6N2vSAd8BQVVfeXFMTnlIanBMWjZfYlYzcVBBUGszMEVKZWdJeTBSaXlKLUNZLVNROU5SWDN5WGJuYWxIZktrQ1RTRms5UmxzOUVzc09Jd1RMcExoaEU5SE91UE1pdzByOS1vUWxteVAzTWRIaDNvZkJOaXMyNHJac3R4bHlWbGdFamZuaTZSb0cySXVnRTVVZkhZN0lJbzh6bEk1ekN0QWVjalBzaG1oREphYUREVWx2SExoRDIzSTB3T0dQNnBNemk1WEJNODBJX0RFZEZXNEE2NDBpb0dNZG1oZk1xWEVmdXZKbw?oc=5",
+   "published_utc": "2022-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra will discuss return of Shivaji sword with UK PM: minister",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQnFTUThDQ25DcFc4ZGFrVWFZTm1yNmhlNzlldnVZcFNKUkxldF8yel9GWWtsMGxBX09pd1pmN0lXSm9xemwyY1ZzSk1QOG9aR25UVE5GS0xoUk4wSkpuWnVsLThTN2dEaHhGXzcyN3B2MXhOai1VSjdEbEFtN1VJVC04QlFTdER5X0VFYzVwYng4SnQ2Qy1XSTdOUnNxUy1vYU9rOU56V2VRalpBUC10NW9GM3lsbTM4cEFHWjdDS2tGdXpUV2ZEc2FwWTN6T2o5Z3ZDS1pUNWJYMHQtRmxyU015c9IB6gFBVV95cUxQaHRNRDBhYi1GV1pZVGRBWU8zUG02MEJ1anZscXhFV0RxbUpvOUN1TnFHa3Etamx3aFNlWHVQSnZieVRVNTBhV1dSNXhsUXFXb2JNRDRLWVlZdXJ0T0NIekhRSDV0b0t2SnRPQ1puMzZpOUR6SXFuWTJ4MW1FNE5zUWdwWkE3bS1XQXRTdDRRYjdpcDl2NjJlVk9YU2NMTzV0YWpLVThmRkx2OG96Vm95Wl9SNGFDN2JDZC04dXhuX3hwYXBFdk1aRkQtYXFFRGtZMXY3SDBlcGx5VWx6YmY5eG5iVE9vcnpHVnc?oc=5",
+   "published_utc": "2022-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra state government sends personalized AI Diwali video messages to over 4 crore people",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkg2Um5Xb0hFTk56OUctcGNBS2lYOWc2TlVkNXU5ZFNYZlVVS2JvX0NrU3BWLTI1bmNOeG5kVzd2dEp6MlhyVTRwNDNDb0s1RmtJVGhJZ3djdnpVVVJJVDR5TXRVa3pZMkxzVnJiZGRKX0lyQWJ0Vk4zc0Y2SEs0MDlnb3Q1bG1DcnlUMU9mOWdyTGl3aVhIa0hyLWxPRDYyU3pDN1Y3R01PbHF6NDFZQjZ3ZVBKMTRLQ3Y4Y2F2TjVhTGh4eERCTzBnOFVud9IB0wFBVV95cUxQZENkY1JBMEZ0aWd5X2phOG5TbEh5VkRfWWcxVTdQQkRMT0JoeUNWcld6ZU50U2RENHdQaTBscEJFUUlOdU9XV3pmc29yanRoeklhN2lqNktYSUN2NDBtU3A4bEowX2hfMzctWkYzNDhKSnVyUHdVN1lXMzF4Uy14R1hhUUktaWJUaEEwMWoxdXV3Vk9ibW1Zd2JCQ1NVbWxwWmd6d3JxWkdIalppY0NLMS0xcDd3VmJQQm5SMDZVNkVmUFhUQUw3Ym5kTEZ3dXVlbjdr?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet gives nod to MSRDC to raise loan worth Rs 35,629 cr for land acquisition of three key",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbDFZNjBiUHJEMGx6NmwwRGNMWGplXzB1eHZLUXdHU2tLMXRzLUpqS1pqQ2RmMngwTWJKWDVOWERZVExUc2habjFZSmlrcUpFQ1dEb1pHMHBLdmpTSkNIaXU4TkdMcVIyYkZvSGd4WU9Jc1Z4TEtiTXI0ZFMzX3l3bEFZZ3kwVFhtc21tRk83OHhVb3pRVVpJanZKbW9zWW1yVFozQ090N2k3X19Ec0FaWnVNblhXT01FZmtqVlVoRHVhei1Id1R5dDVSUnc2VWJ4NlFpV2RjRWpaY29qSGloeWtkLURNSV9wbjlPZmVRU2w3MmxuT3JIbFl3dHLSAYICQVVfeXFMTnAxaGJMSldoU1lmdG81aEZTQk1nYVhvUkNtZHZuNHZ2aDIyM283S1pVV2taM2NpWUw4VDZRRXIyTU16RXNOU3dDX0VlNmh6WURkeUxrOGYyc3lBRjg4SnAtbklQSWZPM1prNHM1SmlITEEtYVVod1BJMC0xbmJGTDJCd3V4NmxmUVdfY2lqU2hfQzNLMmlqSDdjR1JzeE9zREJiZVNTeV9OQjk3ZnplUGxjLXROYXNfY2phRGRxRkhobFBDbnk3RmlRX19OZGx0eHhJeWtnNEFjakRvdkhVYUVJb2tweTY0UW9zeGU0Wm1pZk11TFpxeVkzdENfOEN0R3lR?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

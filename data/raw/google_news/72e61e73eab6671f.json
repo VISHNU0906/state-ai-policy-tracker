@@ -1,0 +1,77 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "UP govt signs MoU with Khan Academy to improve Maths skill of students",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkNMajVoOFdkUU9nUkhIRVNEWXJZYjFmLVBKaHZMU3djSUFxUnVGZVdnMU5CLVRVc0JuRjdiOW1BRXlGeVk2T3ZQREdCWWllVWoxcFlKOEdJSE9hR196QkltRmZtSFQwNnVpcjRNa1U2cG5zY2d5Sl9qZ3hmcW83clZMaFpNbk9TV2VnNU1YUEd3SzB0bWlsWVgzOXRZNlhTQmdnUzlUeDU3TmRlSnRhS25MOVFscy1pZGpUVTZQUEhldXp1aVkxWEFpYzZoa0lZ0gHWAUFVX3lxTE9odERlcXdpTExhNUp5dUUxSXlEM01kNEpRUVFiSEVGMzRZNjNTQnk2V3JjWndJOVBKOF9uT1ROeDg4SnUyTm9wR3d6YzUzRnpLLXh2dXZCM3VncWJ6N3FDQlFlY3psaHB5eXJkamVBbkNNa215TzZCZ2E2SmJlUEJjY3ZJV1p6elE2dXlMZTdiLUVtNHhCUUd5TTU4TWs3TmkzUXdHNlhROTROSWNWSDNBeF9pZ0NQSUQ4ZjZUT1dJWXQ4dmZkRU10eUQ0a1RyWlprNERMOEE?oc=5",
+   "published_utc": "2023-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "e-Mobility: UP govt looks to strengthen fleet of e-buses in 5 cities",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjBMaVZqNDkxcFZsVG9XcFliVWs3MGR5dklvbnJBOGxaU1ZkVUJESFZ5Y29YUzRMaVcxNU14Zm5QLU5oR0YzSmZ2djdEVEZuQzRkLTNWeDNxSE9nWG1DdXFjRndWVl9RbmVBRmlfbmVCZDdua3ZTVTAyNVRIbEt4ekVydjgzSnpxUWNFbktOQWNTQWhmNVRLcFQxaEswZTFpNDBfUjRDMTdfdUk5SkQ5SGdCbzkxNHp6eDJOU3o0WmlkSjFWS2dWNmt4em5fa0tCQ2E1ZDhhSlR2bjlhS3pj0gHjAUFVX3lxTFBkbzlPU2g2azRBY0YyVFkwdjZrR1EtZ2tlTFVwZnZBTEtZZmMzT1dBbmVHdVFVRHRES1VYczgzM0RlTThVNHZ0cWw1RkpGTjRWXzdDRG01TlRsODVrOTB5cF9ibUxjX0dTZC1zXzVwWFVSQXYxNDhBWldXNGZoNUpfYmJFcFgzVTVwZlRzUGkxc3J3NmdlejQxOTVlSG1JUVNIVnAtQi1CNklMdXFwSElsZzE1ZHcwdXZ0SXE4WTNRekFfMjkwaFpCMlNMbjBZVFRLN183WWcxWlBtZjBoREFUbHZr?oc=5",
+   "published_utc": "2023-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Police to Leverage AI-powered Criminal Data Creation System",
+   "source_name": "analyticsindiamag.com",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT0RXYTlQbUpQVDNiVW1wSmk1cElyekh5aGUzR1J6SW5QQnhxRWRWc20wM1dyQnlSSm1xdDhaeldpMGo1TmJOS2t0RXRfQkVUODVsWGZuUVdmOFJmMGNJQ1hxSHdaWC1FQ0pOMXVsbkE1MVpOc1JuVUJRSzRRV2dRdHhGVUJlTmFISVlnbWNqc2UyUFFyaWtsbWxzeXBCN3l1NTlQNjJJVUVkVFNP?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "News18 Uttar Pradesh/Uttarakhand launches Mission Safai initiative",
+   "source_name": "Indian Broadcasting World",
+   "source_domain": "https://www.indianbroadcastingworld.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsYllySVl2Mlo4SUpsY0VhbnlZUlh4bEVaOV9sUjM0X2ZWZG1JNGZ2cUNtdnRINTlWdzZ2Wi1VVkQ3V1c0dTlpeUVsdEVRc3laWjJrMEtndG4yV2tfT0JKcmRrb1R1Y1l4WWh5N3lYbE42TmtlV1FPbW01a3ZKdw?oc=5",
+   "published_utc": "2023-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tech investor to head up government’s AI taskforce",
+   "source_name": "BusinessCloud",
+   "source_domain": "https://businesscloud.co.uk",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEQxc3FGWHhJQ2tSZ1lwalBSSmNnOWxjUFhpWjZaYjdmNkNUS1Q5V2hINHhxTEFfcnpVYW5oUWhpNVpLUzVUNjljRExmTVYzbE05cDExakpZNzRkWXY2ZjNzeVc4SkNLenU1VVRXbmdCb19SX3Jrd1hrc1pRQ21aQW1EVEhrNmJmVTFV?oc=5",
+   "published_utc": "2023-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi Adityanath Birthday: Facts to know about Uttar Pradesh Chief Minister",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeW9HcVd2UXV5aG16NG56aDN6WVlXQjByak9mMHBwY3BiRkRqVFZ6cFFLUFRIWUdqYVdaMlRDdnFCY0hMUGtaZ2h3Yy1tQnltWnBIbzVyejh2OFR4WGpOSDFtVlBadTNiRDhITUFmeV9TMXNzZmIzb1hXdWV3SnV6aU9oT0ZJWTZYME9LM0hycURUV3ktY093azUzaU50eXpKVU0tdWlIejhuZHhhcDBoRXpR0gG3AUFVX3lxTFBSYnU5Z2paRHBxaUs1cm1ic3ZnM2lkeGNBcHNVd0haMkIzeGg0aGVJWUI0UnU2MWRsbUZ2VE40bThUVmludXU0ZXV5QUdHTTJiVmYzNUtWeXNueE11aTlaT1FHaUJoNDh5bDJDVzhWZHhwLWxQX2tVeHlEMzVWWGYyQVdNeGxYVlZDdEE0elZJeTVlTDBrS3hnM29TNWdYajRsSERrRnVEbVlua0tzZ21jcFQ4UTN2TQ?oc=5",
+   "published_utc": "2023-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Realty Firm House Of Abhinandan Lodha Plans Rs 3,000 Crore Investment In UP To Build Townships",
+   "source_name": "www.thehawk.in",
+   "source_domain": "https://www.thehawk.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzJaeVhIdVplOHg0YU1JT181YmROU2FyMXkyeXRGNi1LOU9ReHRhb2tKUUMzdVd5cDBGeGRuTWhWeXB6T2xxcWlKaXhFSmlHZjY1VWl1S29yeERLa1Q1SUQ5VXFPS2JXRHFMbld2eHc5S183YlRqd21SbjB2emwzOU9QclRRWENKRW91ZXhIZ0dNV1c1MlpjV09yVXVub1RSOVZoRm5wYTQ4cFFFS0lGams3MVdCdVVXZF9zcFpDUkNnc2ptdmlYUDZZT3FXUzJEYlhDQ0o5SHZwLXFyRENrWTVtSGZaUQ?oc=5",
+   "published_utc": "2023-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Teachers Transfer List Finally Out, 16,614 Teachers Transferred",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHhvZXNlMGlQZHhSTzNQenNub3BfY2dnRnkzZDAwWW9obV9yY3JlNFNkVnM4LVBEY21XRzItQ3FvRmE1cklYQlNaVG9raG01T2FIUkgxWkxBUEFMc0hqQTZ3aTdUYm9GdU1DUUM5dlFKa2NPUHAxMjNzeFRiM1dPSDIzaVE1ODQ3N2FQdG5PUm8yMDhvaXV2a3VkTXdyOElBV0NtaFVoSTFndG9NZk9JdndqWnBmQkRF0gG-AUFVX3lxTFBHcmNhX2t2QXB2VnItelFLc092aFUxN3RkQmhhdTlDcXFQQWJGZ2htNWV4Rmt4UWt5TUhBYUhITWdUNGRxSGZLcnprWTJEcmVOYkIya2pKRlllVk93cDUtNUVRdHJMclI4QXdZUEpzbWZQTWgwUHdYRXBXOHZoZ3lWMmYxc0pYSHh0QnNXMEZkQTlDMVhUUkc0SWlZdVBBYzR1ZVBtbUs3RTlZaXBMbm1rZHpINXVLSndnblJELXc?oc=5",
+   "published_utc": "2023-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Video of 2 boys kissing on bike goes viral from Rampur, police respond",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalFXUFJ2c0x5akJsMVlLYy13cFFERkJPYVB0dmlSM3BtYnB5U0VaSE9XVFdGaHQ3QWh5QzJyMDgteFdxU1hSX2VjWHJhckdtUTJkaWp0NkhYOVZRNkZ1cC1qS3lWMVRYZEJrWm9TNUc3TVBvakl0dG5WbG45Sm1IYmdVY1pxdV9RUlFyWUJpdzE2cjJJcTZHSE1hWERSOHcyQTgtOWQwd2NnQVg1V3VYU2U4MjlJclJuS0M4bGZB0gHDAUFVX3lxTFAyVWhOcVBYRTd3VVR4ZnZmclotSmxRTVI4VVdLT3Z4VVlzNkk0YUQzZlJjNDdoNmYxWDNnOElKTDE2YnQ5Q014WVg1M0lBLUc0Y216RXVkVTdlbXVvWTVnNzhRUzJwSk51dmx0MnY0REZOdDBzVk5SZEh1UFdQZDdKYkx6dEJoNzY2dnAtNmRyTVRTcGdSSzBxd1dJM3NXc0tpWU9GcDgxTHg0dHV2LXJLS0ZKOFBXbjZWeUpBY1ZSSHFydw?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

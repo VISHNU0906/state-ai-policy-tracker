@@ -1,0 +1,45 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "iTNT Hub to help state’s AI mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlMRS1hY1U3LXF4ZXJpRUZ4cERnZlM1eXRsTXJNbWswQUE1X21FdHRxT3gyS0ZyU3FkM1BDOGFTeW9LX1IwSlFNVHEzZmpHbDJjZmtvS0ZYZElRd2t4dDlhSjRSbTZFcG44bFdCUGxXNk5nNFUwUGlIU1hRdEE2NFU5NzJvZmlGNTN4SnRmbnNRWWt4U1NUTmhJU3lFdHNCSmlUSFBBV0d3OXJUa1HSAbMBQVVfeXFMTWVlaWNQaVlDMGdQOTVEOEdnaGtsX0s5UkQ1ZzZ4bkNUTi1aNE1QaUFSM3BLcjI0MzdiNXlwT1hoOTBEd3prNFlzblFrX2ZseHJjSUFLY0I3LV9XVExuZkhhMElfeGtJUl9qYkhuUnFJakJERnlGSFB0R21aTDFrUGZ5Qi1OaTdtN0xZNHJNanduZjJnaE95dGRNT2NUa3pCXzl5blZ0QlR5Y3pmUC1PVGoxMjA?oc=5",
+   "published_utc": "2023-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s DMK-led government faces policy missteps amidst controversial Bills",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVRENm9hdG85Zl9tVnlvUzBBN19uOHhzUEdMZDI1MTN2eDBucDdUczlkc3l3TDhSYnd2RlAxV0ItWE1Hb2ZSNnRXMVBOZmFnU1FLZ3RiSFlqM3A0bXNTRi1TS2owSExLeEtqS0JsX045VWhCMDdSYU51UTA0bHFSQkNJM0lRS1c4YzYzdHBuRTRURWh4OUJaRXpGcU1KTVMtNXFVTl9hZzY2RUNpWVhXeUdCRFYzdXd6akxVN3QyTnk1THJEZ3ZZcG5B0gHQAUFVX3lxTFBqU3ZTTGlNaEhxRnJtbGVmUk1nWTFfdjJxTnRrWHM0YnBMd0hwaTFNdExlRFJaWkZkRjBnS2ZpODM2aVlqU3JZbE93WDdaX1JiU3FUN0R6bmczeHY3SXZieXJYcEF4R3lJbFpqbEYybXVBRm1NS0IxSmdqZ1ZTYlRkOWkzZmd1enBOcDk1WWZZakJjVlN3RXRJdWdVMHRiQWJ2QWNja0QyX0FiYzZ0eWtwTUNOWUtiZXRIRXd1emZGZWRkOWZYaEk1eVhmTGxkRU0?oc=5",
+   "published_utc": "2023-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cabinet Clears Industrial Projects Worth Rs 35000 Crore; Major Investment In Green Hydrogen By Malaysia's Petronas",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOG1jUVFyLTRHRkNMN0hXN1R3T1ZXb0NBejZJb212VFVFdTNXVGVvVGpkY0RBc1lvSjZUN2YwSndHWk1NWWZlVk5JZG5pNndXR1FSMU9BOVVWSGhxekVBU0g4Ujl4VUJfV2pkRUxZSmF6cWUxUWltaFFHa3RnVHZReTBoUExISXZoWGF3SC1xaDE0cU9ycElzWkJJaEhQaDYwdWFlUDdRLU5GMi12QnE2eXZ2TEMxa1pQamFmRk14cXhSSUNqWEFHTERlNUo5VzJfTXVON3lQdEhXbnhudkxZVi10eE9Vb3BGYmlZaU8xUzA5aUQ30gGEAkFVX3lxTFBQWVFUOUJIRnBMcmlzd2NFMnNkNlV6bkpsazNEazVOemtScEVhamVKNkduWVM1T1lNZHVBak53SHdGaFBCNTIyNWZZNVBEajctay1YbEZ2bmx0N3BnUGFyclpfa21tZmZ0T01LeWNmbjduTmRUVWRjWkpINlQyMEZzWGNxcDhSMThBdTdybTVCdUlIQ3Z4SW4xX0JlVG5VSWRzLUtsN1ctbEZiUGZ0eFlPdjBCUGs5V0hQQnBlS0RiYjh6dDdzNktvSFBYUWJJMnc5ZkVIY1h1UFdlVHdHS3pLcy0tZkpKdnUtemt2d3dlMmxhUUZ2dTU5Q0J6SVAwVnVMU0lo?oc=5",
+   "published_utc": "2023-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chennai: DMK MP TR Baalu's son Dr TRB Rajaa sworn in as Tamil Nadu Cabinet Minister",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTnY1bTUzNk90dXpnalZibHBfRkgwOEhMWHd3SDlXWFdHTWRKd1pkYWpMQXR3MTN4NE45eWlNbGF5TWl0ZTJsX25ObWNoWFR2cko3bTFfQ3VMNUt1YmxXV2VpVlhaRjliVTE4bjhqYjFkYS1UMnlFVjFJQVR0NXE5OGVKNUhQcGxWQVcxb00wdmlINTgzQV9td2EzczRVb1E2OWJXODkzQ1pNVWlvb1cxYl9CZlc3SWxNcWlSVGpzb3lBRDlYVnlRVkFleGlLYW5yMTE3Z1dwMEE5bEF5SXFEMFd5OVZhdi1tRVRSVnd6WdIB9AFBVV95cUxOUmp1T3BiTmt6TXUyZXVWdXdialM3UFBmMkFxZHVPU1hjOTVVZVdSQldhT0NEVDRjMGRwVEp4UWEySkFEZDdYMlp1RWpjNEM4MktwbUJIUjdQczBONHpvVVhuaWpaYXRjUEg1bmhuZlJTTzlaU0ljcjlXUW41NUc2bGZpYnNzTTVjM1lMWEZGTVlKS1ltYlN6R3ZFd3k5SmhSUUtmMEpfMVc1amZxNEFKTEd4bGt1NXhLQWtvbFRmY040b3lWOGxDdVJiVzBqcnR6RzA0NDMtRWM2ZWI0YnQ2UEl5OTcyUUFrZWJYRUZCdkJ4OGtV?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Whale vomit worth Rs 32 crore seized from Tamil Nadu's Tuticorin coast",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR04zRHhMSjd0UjcyLW5mc2JoSFF4MnZzSEpYVUp2WC1DZjhhSDVLbnhXM2NVS3JBOThDSG5qdkNHdG9SNF8taXdxTi1OdXhvV3gwRzc2Vi1SSUhWVEJRXzhiZndHSzR4aEdscEtwVDYwOTFIUHRGLWJhdXFiTERJQy1Cc1k2ZDVXa1VHVy1iMFNqUTQ0R2UydHcxSXR3b3hqTWNBMkVOY3NTSkw3SGpTWmFTS0FyaVp6WkZibHhPYWZrV0ZrN001bi1ub2U0UEQ4QmNmNDBHN2xOQdIB3wFBVV95cUxOR1ltQjBCQ1IyRWR6d3RUc29fU3dEUkZTZjZJNElFNkVoZlZ2TEF1OXNxbmMySU9ybXkteTF6cFNLQUdkM3BBUlEtN3FZZmQtNFZ5NkZNS0VsRkNlbkVGVHhDT0NERmRmbHAyZ2tfM3VhckpyODhfQVlhMmhoMVNvU3ZUVWRuTVdEczV1bTVkNTBVTUx4aVBBRDRVY0hOaDZFYjFUVFotaTFvdDJvRGRRUHdKLWhhcllDaVRWM05rakt5RWREby1Yb1VDZVF0eC1WSUl4TG0xbGRndUhRX2xJ?oc=5",
+   "published_utc": "2023-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

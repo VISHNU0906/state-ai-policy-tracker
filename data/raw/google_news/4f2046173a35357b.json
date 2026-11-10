@@ -1,0 +1,4 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-11-01 before:2022-12-01",
+ "items": []
+}

@@ -1,0 +1,37 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "U.P. police arrests man for allegedly sharing deepfake video of CM Adityanath",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFEwTlVCME80YXU2ZmtpZGNQSjh0ZTBncmhyVmh2VmRHVElwb1RvTFExOUNPUm1YOWdDVFBveW5aRlRYZlBPU1Q0dFNVcFlyQ1ZfX0ZUdnQ0RmY5TE9ZV05LOGxMZEp4QXpPOHdNaTF0UlFleERBcUt4WHRfcHcxNG5iOElvRzUtWFJoZ2otVGVHZkVLM292VXF3WGNsUGU5SnBlRlYzbllIejBPdms4YVNQcm43Y25CYS1kdnpiT2FtcWZFQ1JFSmZXVDFmWTl3MkHSAdgBQVVfeXFMTVZjdjVTcGRDeFV3T3UtMUVrLUtjU1phWnNsWUZ0TGxfU3V1Nm50OE5BM2NyVUNBUl9mblBRak5SclBhZHV1OUI1MVBPV0JNaG5iMXlVV3hzWnI2eHBFWHVmc1RoY2NONnVTZFJtamYyZmpxZkVMUVFMZ2Q3bDBYMWxFQlFLRXh5WHBKYXBFd0hnbzRKV0NvVEp5OUE4Q3cxU0xjMHZWV1NySEd3aTE3MWg3d3FrY2xuVzVlSlBLdmllS1I2RnJrcW00bDFGZXo4UFJmOFFDRUxX?oc=5",
+   "published_utc": "2024-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OpenAI's first Indian employee Pragya Misra joins the team, says eager to contribute to India's AI mission",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSHBhVXRCZlFLM0g2TGJtMVFudjg1SEVJanZPRGlxQ3B1RjVWOW1NZURmMWxrNnJ1eWpIZUFPRkw5OExFS1VzUDYzdGFOSzZ3UHNBaDhPM3ZyMmxQUFJNNEwxRjB1S1M4TnFVS1NTSFJ5NGZwNUY4bWZrdjJrc2ZzRUdsd2lqSlFWcUh1MVRZQ3JtbVNMaGdwRUhhTzdudUM4QkZmNFhkZm9CZk1hb1NkVGFkOXBSWjNjR0V5cHluaG43d2c4eWs3QnJLdkRpMkI3dXl4OVg4VXh1cU9nYUVudWdibXBwcE5xdGN3M0J0TFJxeElnTTN2dV9rMTV5Q2s?oc=5",
+   "published_utc": "2024-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh govt eyes rural economy push through agri-tourism sector",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbFU0YkFyTEZ1QXR2SGg4b3FWdnN0UEk5aDNmUkNhUXY2bTVVRjkzeWVmOThOZEJ1WHJnRkJyc1BhVjJtMktQck9IcjJBNmp0TzBWTHRfV0hBT1FtOE5DVHg1ZW9WMWE4Z3lIN3QzRjIzZThMcmhMT0k3VW5pQUcyZkh6T29MZkZ6TmFlMThZR2dybE0tcXg0Nzg0bGp5elVranplT0E5OVltX21fcTY1VDNxajExRVQ4czkyVExGR2F1RzFpeXNQT0d2ODQwcHMxNm9USzdnT2FKN0Y1Z2fSAeMBQVVfeXFMTi1pWHF5SHJtd1FNVTBRUi1qaG9iTHlzdFNweXEzTGlId3lrbmRMb1R5ejhnd0k4ZDI5MEhxeVRBcnB6c3hYWF9kdThBMm8wRnMtRm5vcERoLVJZbmo0OFVPd1Z3ZjJOMDk2X1NWWDlTbHc5R0ROU3lTN2FTSXlUU1JCVk1vYllUTUFRNkh4dE0zS25DRnF5SmwwUUN4WkJybW10bFNLSlNUdTVuQU1ENWd1S05xTkVTMDRCMEVsc3psREhfb0E3aDlBaUFUckpHZU03bDBRbHl0cU1na2JFRjlud0k?oc=5",
+   "published_utc": "2024-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 9,900 crore credited to UP man's account: The truth behind the software glitch",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONmRnWHhPa2hRR2JOUThORHlLX2p5TkxzdnlRWG14eThOelJGUGktV25NT0RkMFREQmxNMXpuT29SRUJQemJBYmc3WTBwUXJ0b3FpNTZjelVybUh6UDNpRC05Y2EwaGJJbVBpaHlQNlVsVTdBVjJfZEMzRkd0QkluU0pHVUdERGd4VGZhSGpIWkhxaHROS05HWnU0UlRhbWR0SndkLVEyN1RtRVB0b3VLb291SlNmZFJ6UHJqeTJDckIwSkg0UXk3WGw2UVdGQzE5cFV6dzd4Wk9yTlhsclAtVW5aNzlVQ2xVbFJYYlNwY9IB9AFBVV95cUxQRlJJS0lqLW03UlpBVDJJQV9iYUZBYmZVeGt1U3AzakVDRC11R19VR3BvUnBqVmRmdzN4Q015dnF0VjFmeVNKWEtQdjRNckZlTHhiRlExZzl3SEwwcWN5cFB1eFUtR1prVEdUUXY3MUZfcnh1VW9JOFR3dUhQTDJlSWxTTVNGekNZRHZ4cHh0U1IxczQ1RjM3OE1EOFZmdThzQVJLZ2gwOERYYUl4M05yNmFNaXAwdUd0OGFDc3lobmtoWGVDdS1Gd1pIQnBEb0h6bUExb0NkeHR6VnJKTExZbHRBTnFLY2dyWHhvZ2RMem1WY2M1?oc=5",
+   "published_utc": "2024-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

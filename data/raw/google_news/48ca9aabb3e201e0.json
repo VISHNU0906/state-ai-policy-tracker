@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Govt announces Dussehra holidays for schools",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3Z6MXQ3X2c0dTFHN2lHTEhXV3g2Wl9sMlJrMnhYdi1obENqUVJjQlotdDh3R0VfdFRyMExNWU1OYmV3cEttSWJud3VhYUozZ2ZkQ0RKUng1Y3pHdEVfX2FjVzNUYWxtT3dNS2Fldlg0VFpmUDktR0dEdTZsNlpPdHNEYTRGQjhvcjJ5YTJrc2VfTFFVaUFQSGp0U013N0FyelltV3ZPN3pLbTVORlRNSkdmcXN5cUpMekZ1RlVqX3NESWFvRGxKdU530gHPAUFVX3lxTE9idF9Id2NId2lTN0RZaDd1MWRFdGFYbVJlTzNReUNKYWZKd05xNFFMQjAtdmcyLV9TSEh3SzZzMmtrcDBoc0NPdm5DLV84YjdpVkNCZnVRZmFINDdhcDh1LUtmOHRTQ1ZJcVhTVGp4ZkdNNHU3QWl1ak52WnlGMU9zZlZ5eWtZUXp3Zlpwd2F6Y1BhWFlGZDdPVDRiTWNLMmFjcTdqckpKT1dXTE1fUTZHazdFbmJLbmJ5Q05SMjZTR2xZRW1HbnJpR0tENnFRUQ?oc=5",
+   "published_utc": "2024-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Andhra Pradesh govt reversed its decision to let nearly 80,000 state board students take CBSE exam",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDNTZ2REcmdjaHlEbDdvZGpXSlNqWERfZXJpcXdSamlhZjVvUUlFYmN4Y3BORnEzeXdVVkt2Rk5QaGhaY05jN0FFM0otMmMxQkJDcFVGcFVlR1k5Q2pfMWxVdjR1bDNCTlRIRFJoR3kxWmJhXzhWNnBIaHM3eUJmLU5LNHp5eUJRYUNv0gGSAUFVX3lxTFBvbHZERlF0TnBfUk9oZ1BvalVBRWRzX1JVbHJxUmU4TzlHY1dsN21pUFZTb21tc3dpN2FXZ2ZfdWdtTGQ0eDg5eU9sTkFCSW94N01ZcEk3T3NyOWpaVER3ZHVLMVhxMFE1ZXhXa1kzMXhvcTdZZEhwMVVjT1ZBTUNpOWRCZVhNZXNNelAxQ2VKeGF3?oc=5",
+   "published_utc": "2024-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Relief for Chandrababu Naidu as HC junks CBI probe plea in IMG land deal",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMlFjR0cwZVd4VC1zOGRzRWtLanplSTM4Mk5KaG1GQ01ObDBjUXhsQjBNRkMzTzFSRW1sWWRMSE9oVE5kWEh1NjVXYlp4Z0gzWktnd0tFbENVcDJVN3c1YWRocm84b0hldTllUzJEQ1FLUlVkbzltRUlfWkI3TjNnb1NoS1NuNDBIR1JObER2UVk4ejBVYWUtbUJhQzdxQ0pTcFRCX2pmZmZZZjFRSGZHVXN2c0gycVRaTHpiY2tqazJZTjBHMmlfNFZ5NXpraGc5NVZHVWI0bUdrOGtmLWtv0gHkAUFVX3lxTE1jcTFSRFljWmJNTWpZR3h0VWJhWGo2UGE2QTNwQ19TLTFacVZscGpNX1RvQUNiUVFMU0wzZ2RzRThXYVdjWnB5OEE5bTNmTVVsS2FabHlxNE5SOXRFeE8xUU9oSzAxeTAzd0R4YVNGR1UxcDBKU1RKYThyOTVoU2kteUZEU1o5eVZmdG5CTXdlZHc1MGlFOVl0YWExT1JleEp2OGZ1VWhkalJhSmU2aGRNQmZBUm1udzRnckV2RjM2elQzTERsNzF6S2I5ZGVERDdhY19FanNkUFhFZ3E4bGZaeHFueA?oc=5",
+   "published_utc": "2024-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Cabinet approves new excise policy: Liquor to cost only Rs 99 for 180ml",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWElSSmJuUTItajZDeHZRM0J6dUxlT255M0ZvYzVGTVY2S3dKajZtZmx6NldPNE5iQzRqbXdWT09hbjFMakhxeVFQejJRaU83X0UtS1VEVnVMYm5EZC03aU5icFBOVVlTWVkza29TNzIzZGlYNVlXNGZJdHhCamdJQ194aFNyNkp2NDh6YXpkWWRJeWxLTHBOc3BLZm10VzNMSHA4TDlqX2Nkdlc0ZmFLWTlyTmJsdGdpaHJRWFZjdXNWUE16SmtxZVZTb9IB0AFBVV95cUxQUmRkMm5zUmN0R1VVWmcyLVFpN0l2VVZLRy04aTRGbzZwRHdxdFlnb0dlMjFWTTJDSk5qdndCcDVLMW0tNHktdmJocEh1YjQ1SkdEX0lRQ2R0aEdFa1FtUXMtNnd6MlkyM1dQQlVtYml5U0hFRkNrWVJmMkt4b292S3lHY2FJdDNSTi12eTBCeFlsdURiT0x0ckwzajhqRHYxNmZ5Rk5xVFZyaHlsUzg0Qm5lb1pYRm42R05iTWNpTW5aQjNOakNLMWtsMFMtekhm?oc=5",
+   "published_utc": "2024-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Cabinet new excise policy: Liquor at Rs 99 for 180 ml from Oct 1",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVERIM29EakFFQkpVdXZGX1R5a21fUHV5RU9ndkxZakEtcHJFNWNxYWtQTk8zSUxDc3Q3TE5BbkhvZWFXWEJsQnVvUEtVbEhIN19JZ1lNR2lYV2RwMVJWVnN0TUxNMWZPd0daUGJPclNiZW9xNjZvQjFtbFl5ZV9WNHZ3YzBrQXNQMExfMmYwSTFnOTZaVFY1b0M4R0lHMFJzUzBfdXgtTTZTYm0yRlJaMm90dXllMnVIUHZkUHhqQjQ0bDVsUjh2YWVvdjhraHdm0gHWAUFVX3lxTE44SHNSdG5adXlhSWR1ckJsMURRcFJOUXp1alFKakI5WDhIZmtSV0M0ZmpZOG1YNnRWUmhHUjdudUFzV3hBT1A2ZDYyZ09RcjFieE0wekt2Znd0anplVUF5S0RjZWxoNVg3VjRMeDQ5RnFWYzNVanhHMmVyR1BZU0xzWmxwQTY4Nk1CZVE1Y0QwUlFyMXF6ZkZ3eE9MUDNfWDZfSXFkU1prYXZVTURXbEw0X2RIaTZmVWFnanpBbG53dmVLZjZKakMyMy15MnJPXzFmcGdSVkE?oc=5",
+   "published_utc": "2024-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Generated Image of a Drone Delivering Relief to Stranded People in Andhra Pradesh Floods",
+   "source_name": "موقع مسبار",
+   "source_domain": "https://www.misbar.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFV2QURxNnh1VDhCLXB4Z1hHZXVGTm80dUVIdXBuYmRLbDZqQW9ZRlBpNFJXdkNpU0NXenhGc05Zb2xDdkc4eVpwU19pRXNKYTRxTDNVTE1lU1dEWjJYT1ZONkRWdDF1bzNZZFFyb3VsNFE4bUpPQkxOQ19pbUdzWW1KVmJoOE56QmlNamNGVG1yanl3ZHVhbU50MGVWWXc5bm5waVNibTh6UG5LZFJWd21vR1hHTmtvdktPSjZNMlI1TFc1UVgwMkt3TU9MSEdjY1JkUQ?oc=5",
+   "published_utc": "2024-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt. announces dussehra holidays for schools",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGptSXIxYW9Za2NEQTEyT1BvX1pVWUtGRXVoRl84NHRUd3d0anFmcWxDZ094RzVidUtLWUtFMGw3cXJFWnlDcTB3Skc5emZuMVhqNHEwUnVFbnpZandFWG16bkJKenhld2RyS2RGd3Z3b2JKTlFFMUwxV1pxS0hiQ3M4Nlp0WlhLVTlBRkpUYkNYZlBzQVdSdkhwZnZULXQtQUY0eW9qTF9rdw?oc=5",
+   "published_utc": "2024-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Walmart Foundation expands support for tech solutions to help over 3 lakh farmers",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaGo1Nno1MDhxUkNaTXkyYVo5cVU3TGt1djREQkhkOVc4c19Pczd4cjdaLTgzbndIcXVWaUtzSHFzaW1NVWhHTUZEZVJMNktPR2ZLdEZtZTd5eHJENEdiOTc2T3VvVDdWZlN1MEFLZVE3LXpqU2dkRlN6bXZFWE9xcFpnbzhNbDlub1RBY2RNdjRiaFhtNWl1SUxFWnNkNUZDNVUySnc1bzl2eXF5R0xWMC1IS0Q2X2o1elFCVkV1VGgyX1YtSlVSQ0RSTHNlUENpUE1XbmVzV1hCSTM1Q3ZBSTBxUHk0YUllQ1gtVNIB8gFBVV95cUxOUDFJWkgzTGRDSjhSUW1IREJqSnJUdjcySEV1UEw0a2U3NkFXM3Nwb2QzZ1BFREJGRXl5ellpMS12dm00X2JBbXJ1TFl2TWJpZmRxdlg4bnNQSEgwc21TTjhNVlJHZ2lQVFl0aVB1Rzlpdy1kQy1hUnhxSDQ1RGRNVHFERGdfcjZQRUZjRXZvZktPb0NsNXhnY2Y0YTduMUVTYkNiNlZGRjFMMDZLYlU5WTBSRGNZNXZmVmoyUWFFUF9oZ1Q4TGJFYU5oZGQ4U2Z6MFNDTFJPb3k4bGpCNzhwR1VIQTNvUVhqM014Yi1WWGMxUQ?oc=5",
+   "published_utc": "2024-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TD Ensuring Good Governance in AP: Purandeswari",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEh6WjUzSzNNejZqVDBlcVZTenI0MS0yYjRfOU1sSkUyMWo3Z29XeThURnNmWEZ5ZDlnazNKMGotZGMtSlVDTTRqX1dDeGxTYVBFZzNWaVZNZTJNUFVFaDV1bEVnRkRpRG5hQXRsMy13YkNSb0Ytdzg5OXF6Wk5FS0hLdVNfN2xsRWJOa28yUkQ1NTJhYlRiT1FHdmR4MFBJTUpNNC15aWU1SG5RSWYxZ1Jad2RqRzRm0gG-AUFVX3lxTE00MWhGSjlsOHpBZUZZblpsLUdiWlhFOEl4QUg4MHlWRlk0ZWxqWjExdzVzMHN0M0FaSll0bFJhRDNHS0hqcXdEM2oxSzFZWUQzc0JUQTdKTG4tbTZWd1JaYzkwaENPMms1QnBoWnBIdGZQUHE2MVU1ak9BMHV0QXY3TmE4NktBb0F4NEVOMTY2Z3M2REdVQWl0b3J5NzNjRDRCbHhFMDVseVozcW05V2d6NlFfTTUtSndaUDdnSnc?oc=5",
+   "published_utc": "2024-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government appoints Chairpersons of 20 Corporations",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYi1RZng5OWhJWWpQM2UxdFZEM1BTSWZqUU1rN3pFd25HYWUwNW5tWDB1SmNiRU1MdEJBakNuZVNCckMySzVTY2REWEZNVE5TWnM2ekJ0eGQ2XzJPVzdGZXlCaVlxaUpIeUtkMnlhSi02cTRGenExS3RPNlQyMlVpWFpfYlhSb29sMzg5UzRUcWx4Qkh0NWV2djNIMXBNaVpMYkpjWlo5SDlCcHdjOVFKYjFjcmwxRzVSRGpmRWpNSXR0SzRMTDlYTXVFNFpqWVpmZ2pxNXJIb2lQSVhv0gHiAUFVX3lxTE5Fc2dJZElWem91Tl9zWUw0b2tGR0F4WGJuekRBOW9QQXAwLUxOOE9aVkpRMUpCVVVMUk5OcjFIYm15NWc1X0pIOTVxaVZGTGNVY2Q4UF9zS0JfbnB5ZzVkTmp3WVVHYkpZdy1kUFlpRkdncFhsNnpSYlRjVlhiX3lYOFNPaUFIODEtQUZpMmJWLW1nNHFyRWI3dDhOb2MtYktrNzRGaFdVM2lRS0ZHRlFUNHlqeUtyMEdPaGE2Y1ZtSF9iMWFHUDdtUFNHMk90ZndGNEFiQnlvVlQ4T1RpalZaeEE?oc=5",
+   "published_utc": "2024-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

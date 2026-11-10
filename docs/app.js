@@ -30,7 +30,7 @@
   ];
   const catColor = (c) => `var(--c${CATEGORIES.indexOf(c) + 1})`;
   const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-  const LEVEL_LABEL = { state: "State government", local: "District or city body", judiciary: "High Court" };
+  const LEVEL_LABEL = { state: "State government", central: "Central government", local: "District or city body", judiciary: "High Court" };
 
   const months = [];
   {

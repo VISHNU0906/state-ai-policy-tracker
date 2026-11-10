@@ -1,0 +1,53 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Budget 2023: 7.5% Increase In Tamil Nadu's Share Of Central Taxes",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmZPMHRiQjVCUVJLUnRwOENDLWlSMWctdTlRSHhURTQzUVFsUEIwR3RGQmRVNUNGU3lVa3lvd2Yzcktla2dtRDZyMnRfaURiVkswcklsVFRubnYxLVBJd3ZYUWlXc3hEMDFXUnNVLXB1U1paY3VyLVVSWUQ0UTZXMDdoU3NfSEQzaE4zaF85QjBYNkFWZjYzdNIBqAFBVV95cUxQSm5IRnM3SGwwaFVvWDFvMmVrZ2xBdXBZWGZtQmtfYUpnLUVWQ2daR1dDQmF0NWt2MUM5M0JvOXJ4dGp3azZ4bElidU1uQlptdm1KdkV4WnV1dnNHdmJrbjBtdFRER1dVbmpjSXByejlWZ3ZZbzJUZi01RVBOQXFidFNEVzJjUnFhUmZrOVBfTzB5UmVwSm84Rms5OWxhWkVialdkSldvUXY?oc=5",
+   "published_utc": "2023-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Ola Chose Tamil Nadu Over 5 Other States For Rs 7,600 Crore Electric Vehicle Deal",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjQ1RDZRWkxuR3Y5NkowbFV3cXZmMWhITHlFVEdhLWFDUWVtd1ZaQW9vRXhQOGVPM2VJaFBqU0otNlNWQTlCYXJaUklfQTMwbzlvOGVGNVpmNk93b1NrYlQwcHB5dWNCazhYc0V2c2xuNjZndEQ3bDE4bVZzdmJYcWo4eFloNlVrTTlKTC1BZHFXczBleEtsbF9sQ0dkWTdaSkQyaHhEQXY2Y1JOUW9WOXlwSzloYzFYdEM4MjUwVGNvVjTSAcsBQVVfeXFMTnZMeFlJMWE3UVFIV19qUFZxZ01HRjg3TDhGUjU3QjdvMFhSMVhlYnRBVWpFQUFlbEVEb0QtZTVJZnplRURucDhXOWo1eHI3c1RvcGNjY19sNzV5TjdUQnVQTXZrOXhaMDItWXVMbHd0bDVLNDJZN1p1WGtMY2p4cktNcExpdDc0Z1MyZjBEaUJYTW5uRUxYeGdFb0F6WklpUV9zMGdfbWluYWFEbWJveHVuT0V1YWxYU3ZPc2xTeGRKa0QwVmZrVzZScm8?oc=5",
+   "published_utc": "2023-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gold Worth Rs 10 Crore Seized From Seabed Off Tamil Nadu Coast",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmlpOS1VOUVBLTFndElLT1dRRl9xeWt6Ql9WbVN0N29sVzBUclhuQmZyLTJkeVpGcmRzMHdHajBlU2QxaEFsRjJHUGJXVjd1cVBNRnp0YWxyODEyOE5fVzJBd0FRdFQ0MHB3NWVTQXNLaURBTDhlTzdJZkxiMGFFLTVNVVFYQnlvRGQydEVoZWRoVmY5YmVyanlBVC1nM1RpSmhzQk9Odll2UdIBsgFBVV95cUxNUEdGQk95WTNxUnhQRTBxVF9DeW1FMkVZY096MGhpbEhkUVMzanpRWnM4a3V0TFR6MWIwb1FnOUk5NTRnQ09SN3g2MW1nVHEtOV9ueTNJUUo2am1uTmNHV2d0VHZhQVlLXzdrVU8xVkd6WlZaOW9lcGFLYmE4WE9MQWJQZC00ZkJidy10b2tobEJWek5RYU51eGtycklCZjBEZXJORmQ0VWZyQV9laDRROGlR?oc=5",
+   "published_utc": "2023-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Net-Zero Carbon Future: Tamil Nadu Announces New Electric Vehicle Policy, To Attract Rs 50,000 Crore Investment",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVUJ0Uk1uQ3MxOWlxSkdlTWNTbFpacDk5UEJ5RzFYaFpHZnNyRmc4TWFkOUoydThOb3VKbmhpNkt0U1BmQ1lDMW5QNTRaVE1xMjFCcndadE5wdDlvay1MaVZ5ajU1RzQ2cWpMc0xnbS1CUGo4SERQMEVMTV9SOUtnU3k4V3IwSjJOR25xUzlpQzNqMVJRVnQ2aERCNVdjeHloMHNKSUUwMDBJMG5sUkhrY0NzUHNsaDZSWG9ycUROTWRaLVFfa3dzUTJNRE51ejY0b0HSAeIBQVVfeXFMTTJob0JGVUVpQkdlRGJGTU9HcnlOMFJ5RWk4ZUtMSkQ5QnQ5RlV5RnZqelFVZlpMVUNmempQUzJRU2VwZkNQYURSX0hZaDJYQ0N6M2tueVZlWEFwY2NHNGNycThSM0FuUHkyOG5xb243RzhHdFhSdXFCQmtxT204bzVvVW1INmdpc0hiZWdoQ1k2N1NwNDRiVEVwYVhZcXoyRnZhUXZPajRjT2tvRV9rSEV4TVVBSmpWSkdUVVRWMTFsRnhQZGV0ek5BUGlUNUlxX2JaaW56RDZnNkZ6TlZGOEZWZw?oc=5",
+   "published_utc": "2023-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s leading plywood manufacturer Century Ply chooses Tamil Nadu over Uttar Pradesh for its new greenfield facility. The company’s board approved setting up a greenfield particle board manufacturing plant with an investment of Rs.550 crore. The compan",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRzk2ejhXTDc2U0xCVFNETFF3NEc4VWkwMUVoYzF1ZEZUd0Z1dXYtNEJoMkdMNTRMcURSbXBrZlBrV2FVd3BGbm1Fdm1FLTlNclE?oc=5",
+   "published_utc": "2023-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Rs 1057 Crore Sanctioned Under Union Budget Provides Huge Impetus For 9 New Railway Lines Languishing In Limbo For Decades",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOUhuVXE0azJjNlg2VmRlc0ROa3R1LWdhSWhYQ3h5VEQxNEZMNk1ncFIwazQ4SDJUNnRjZE9UUmhZSkEzekliMVU4ZTNyR2pzS0VoRUhLS3hRRFRPN09QdUViTEZ6MFZTcEZUcS1ZcllYY1NMMUlIaGZHbmFQVlB4dXpXLTNFTTdONjVDNW9kWnZyNDk4X1Z2blZicHU0RG0wRlVIR05kMGhVN1BvOERzUnE1a1NmSU5NV0hwQkFQLXR5Wjl0YTBOZFc3aC0xWFQ1TG9zd2JYTkZmRzJYbzA0TnNYZ3NKd0dSM0hmMmhfbzVObzVnMFZGSW9rTm53dG5vWHfSAZICQVVfeXFMTVBTbnN0OEMwUDV6bGt5Zko4OVc3SFlFRFNFT1laZGllWFFUSEJ1SUJRNmN0bG05X2xXZlJ2dGk3eTFESmNDSF81bzhtYTNITXN1RElLVWgwU09kUDJaNmhiOFRTNElNTFk1YXAzdWdUTXh5aFdDOXJCUU1KdW12dGttdklHRklmdmpEU0FZWTExT3pYRTVzSWYxOHFvV0RXbm1mYTQ4WVB5SFZwRjE0eGZMUE0xOU9CZTlVTUFXOGZ0UVMyWWM0VEtJRFVlT2xvSVNYWk1HeVdPbXYzdnpISG9mcWpQVmNZV0EwM0R3RlNCdTBpSkdGeG9WN3FCWmtqVko0a0ZJb2RUUl9TNFBSUHFxZw?oc=5",
+   "published_utc": "2023-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

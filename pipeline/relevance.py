@@ -51,9 +51,14 @@ GOV_ACTOR = re.compile(
     r"|state[- ](?:run|owned|level)|high court|\bHC\b|budget|state to|state plans)\b|\bCM\b",
     re.I,
 )
+# The central government as the actor. "Centre" counts only as a sentence subject or object
+# ("Centre approves ...", "with the Centre"), never as the last word of a name
+# ("AI Engineering Centre to add jobs").
 CENTRAL_ACTOR = re.compile(
-    r"\b(Centre(?:['’]s)? (?:to|will|approves|clears|sanctions|announces|launches|plans|sets|allocates|okays|nod)|(?:asks|urges|with|from) (?:the )?Centre|Union (?:minister|government|govt|cabinet|budget)|central government|MeitY|IndiaAI|NITI Aayog"
-    r"|PM Modi|Prime Minister|Vaishnaw|Lok Sabha|Rajya Sabha|Supreme Court|Railways|RBI|SEBI)\b"
+    r"(?:^|[:;,|]\s+|\bthe\s+)Centre(?:['’]s)?\s+(?:to|will|approves|clears|sanctions|announces|launches|plans|sets|allocates|okays|nod)\b"
+    r"|\b(?:asks|urges|with|from|by) (?:the )?Centre\b"
+    r"|\b(?:Union (?:minister|government|govt|cabinet|budget|finance minister|IT minister)|central government|central govt|MeitY|IndiaAI"
+    r"|NITI Aayog|PM Modi|Prime Minister|Vaishnaw|Sitharaman|Lok Sabha|Rajya Sabha|Supreme Court|Ministry of Electronics)\b"
 )
 STATE_GOV_STRONG = re.compile(r"\b(govt|government|cabinet|chief minister|state)\b|\bCM\b", re.I)
 
@@ -150,7 +155,7 @@ def assess(title: str, description: str = "", source_name: str = "") -> dict:
         "action": bool(ACTION.search(title)),
         "central": bool(CENTRAL_ACTOR.search(title)),
     }
-    out = {"keep": False, "reason": "", "state": None, "state_basis": "", "other_states": [], "confidence": "", "signals": sig}
+    out = {"keep": False, "central": False, "reason": "", "state": None, "state_basis": "", "other_states": [], "confidence": "", "signals": sig}
 
     if source_name.strip().lower() in SOCIAL_SOURCES:
         out["reason"] = "social_or_aggregator_source"
@@ -198,8 +203,10 @@ def assess(title: str, description: str = "", source_name: str = "") -> dict:
         out["reason"] = "ai_misuse_or_crime_no_policy_step"
         return out
     if sig["central"] and not subject and not STATE_GOV_STRONG.search(title):
-        out["reason"] = "central_government_actor"
-        return out
+        # The central government acting in or for a named state. Kept, and labelled as
+        # central, so it can be filtered apart from the state's own steps.
+        out["central"] = True
+        sig["gov"] = True
     if not sig["gov"]:
         out["reason"] = "no_government_actor"
         return out

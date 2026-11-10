@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Agritech can transform agriculture – lessons from Telangana",
+   "source_name": "World Economic Forum",
+   "source_domain": "https://www.weforum.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2RwU19rd2ZoRGgxbW8xQ29KS0J0ZzNJTXRscHZkMGI1TDFZQnRFUDZ1cnczRi1BR1lfQU92eml0ZmtoU25SbnlnYUI1bGkyVHk3c21PZUl0cW5LZHBhdHZSbHZqa1VKeDVLdHNSZDdMaDVEV3NlZVFDM2RLOEo1QW9jSWdtZHRvNmpKeXluRE0zZnNuZkRFdU9YTmtGdzAwTVhN?oc=5",
+   "published_utc": "2023-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Health Day celebrations on June 14",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3RWOTFldkFqY2lfclQ3QXRoNThNbExtWVhVZzVEN25kMkdrQm9wc0ZtS0ZRaWI1R19Id2E5MlpYQmxDMnU5ZjVFNlY5cUdhMnh5UnRjTGthRjZVOWw3TE96VmhBbjBwbElDS09kWUNNZzFlVHVWWlZQVUxabEszSXN2bUFVN2ZKMHhLUnZxQXRlWG5nS3VQZnVsRUg5WGE0MTVMRU5OTzdIRDZkRGNnYdIBtgFBVV95cUxNd2k0UHNsbUxwcWxiUEo1ZEY2Z3lmVUpTMldKUVRrZDVGMmpWVG1ucWNPaWROVkFtWFdSSW5yLXBfeWJjZjZvMjM1cHBzTm9XZVcxeG1xZUxtbG5Ba2E3MWIyUllOcGRHMVZQX1dyU0IxbGJsci0tb0JRM1Rnd091SmJRSnFfREtzZWZua0hRYWpJZ0daSFdtSDEwRVpfazZpZnU1LTlfcGtMZ0IxYlNkYXJadExOZw?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Has Rs 8 Lakh Crore Debt Under KCR: Union Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQellRNDNRWUg3WFdieW9RMUgyR3I4WlNFb3FZZUp6RlZwektnaFlpS016cUxpMDFrbzJlbE80ajJEZjlvZFQ0OTduZTQxMmRnWlVMRFhzZjdrUWRHZWFUV05sSmE0NmpZSVV1OWkwdnNTZUthaTFMbEpwSTJGMFNTcHhlZ1ljczlDc3NvLW8zYUotVENUR21oV3NTOEFOakdIUEQxVmtBSXRoWHAxc3BfeFhNUdIBuwFBVV95cUxNSUxBNlV4XzM1RktqRnZIWXpvUmVDZmJxOGJiYmFYcVYyTW9HNWJjbnFxUE1SbGNraF9QRXh6MHQ5MXlFWEJUcG1vbFVFZkhPdjc3OTBUV2xJMUFmZUFtLVNyVFZaM1o0bUZrMDdyQ19xRnNPWF9BVUhzMUFZZDhrSXNzSENJVnBwaTNZOGMxVm8zTEZwUmkwVHlYOXU0aXgyZzB1UXJBZkhZRkhTWHdwaWNWVnhqZUN3ZkFn?oc=5",
+   "published_utc": "2023-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Govt Set to Launch T-Fiber for High-Speed Broadband Connectivity",
+   "source_name": "TelecomTalk",
+   "source_domain": "https://telecomtalk.info",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tXzU1RGQ1cE9sLUJVVjh6eF9IbFAtWE40em01bEdZQWJIdU5sUTFaNFIyeEJ3bHREZ2Y3TUZaSzV3N1pMSGY3SXQ0SjhYMjFLRkZsZ084TVVuTFY0bDAzcElrREYwckFFbEQ0U2M4UkJkdkI0QjEyZw?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meta Verified badge arrives in India, starts from Rs 699",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkViZWZTNWhoS3M2SHFIUHpZWjlKLVd0RlBMbGtQazZLOTduWmhqUGZtUWp5aE1WMmsxMXpMYkhwLXg4OG5WVC1XN1drbWp3LURtYXdXckQzMUlsYzFUbmlWYzhBS3lfR3MyYlkyQkJON2V2cXFDVU5nTEJ5VGpvdlRRSm91OGRMV3c?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's largest private rail coach factory opens in Telangana",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0xRM2tsRXB4enpzc0ZvemhCVEE0MDlKalM2NHd1UXBBSE84OWpkQnZUQ3ZiQXZLblhrdG9rLTV3YUtVc29RdExQZThRMlRncXBYT0RjeXZ3ZXBnN3lIYlhPRjFzLVVycWYtZlE2ZEtoTnBIQWFyNGYwekd3THp4ZjZ4Y0YyWl9OTVlub0RENWtfelhuMXVTM1owMlNreVY3dzNsZ0MtUEdyT09RRVQ3eVdYR2VrNG8tVjZoczdHQ0dTX1NO0gHKAUFVX3lxTE5EbllaRlI4S3lLWEFvZXkwRS14LTVYSzBvUEktcXgyQzB3Wjl6V2pjcFU0a1pLaGFBLWYzVmZXZmhURFNvX1BDUGtHTmVtTHlIYmgzS2xORjcxaXpVQ3VsQnlwMDQ2N1BLUXp0a1NBald0MlFYV2Fya3owUEQtYlR4eEVIbWlQOF91LWpIcUxYZjB2bFpCZGltMGV0MlpTX2dSeW9BTXBmSTM4c0NsWWJYUTlCZk9pRnhHSFN6MUs2bWhPSHVHN29BdGc?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana CM KCR heads to Solapur for 2-day Maharashtra tour amid slew of defections",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbi02M2IwRmJjSGJnWGVzNi1kMDhEQUZsMWdpZ1RMNzlEb29XU1g0U1pXS0lWMTFqOHd3NmZ3TVYxOVNIQzM4ZUoxRWxEQkZEZU5XSlVpZUdLUFRLWGxYbHA3VU1OdnJsS1N3Q1RuODZ3c0FpMGhtNXdTb1lfdVh5OXIxWnBwa0x2cjliakh6ZzhuQ1UtN1lTR2xldk9KYjNqVE13Mm5VcjEySHFfOVdBZ3h0MDRqUEtSM21QU20tUklud2RJVDdOUTEza3F5R1ZLT01IbmpVa9IB3AFBVV95cUxNdlZIVlJqN1FyT1lwUF91TS1vT2tiREhWZWtRcURKam9meXhoYTZfYjkwWXpJR01MVlRGaEVaT21LSi1tYUNfdzhseUZycUJCbTN5YkRtaE1abWlQOTVRVWVDMzZqQmF0bVR3S2Q2enhMNXlkbnBmWUZqVHpIU2lRaUJCR1NqM0t0ZWFHcEtJOFlJbHRyUktjODZjTVZGRzdyUDRFRjUzV0FmVE9IRk5xd0taYVYza0FMMnhxZTNYLVJsY0oyNjBJWWVJc3BkVG0xbUFuR1NDb0Vnbnkx?oc=5",
+   "published_utc": "2023-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DC Fact Check: TS Govt Circular on School Reopening Fake",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSS1LWktncUc5eGFoV0ZWR1ROdTRNZEhyRDNZMTdIQ3hIa2tMS1NSbks4T3hwOENRTFBXS0N2LXRFX0cxV3dQUkJObnN0OURId19WQUM0UFpZSHdNcWtSOWZIWl83TjNldnBVSGZzdWJqdjdCMzB0UzN0VFZzNzJLSnJna25kQnF0am9fbWhvZEkya0N5SFlZYno1dHY5LWpZWUFQRXlIdkpFVUN4STR5aWZTTE9hODJtbmNXNjVTb9IBxAFBVV95cUxOelRRem9OemJzU2pURmlKc2pkaHNkYWMyY1ItSkxOaFNES0RkU1ZrdE5sZFl1aVc0NlZSa3h1eDJQenNoWDJxeEhMZzNXRnlITWFVQzRTSEJqZ1k5dWc0Y3hIN3JFRzZUbnNLRWhjd2NkMUY0OV9GSHdnR3lZdUN6MC1JWXVMTy1faXkzZFU3OXN3ajVYdEVBYmhRelFubmRYMVhpZDd4bnF4UVRXRk00ZFlSUnE2REJMVkM4Q3ZEem1JOGZw?oc=5",
+   "published_utc": "2023-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana BJP Pins Hopes on 'Big 3' to Pull it Out of Rut",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEQ2Ull5Nlpnd1FkSTF6VUVsVTRyZUtqcTY3TzV4OVNWaTN6RmgtWGlCNE9YcWdyWW9KaFhrSFNTOG9hcWJLdFlQVTFZS2R4dExuUldRbXhsNWRyWkw4dXlZVVdqOXhJNXJ1ZGVFWDhtRVBfcG9jSHBMeC1yVGlYR3o5b0VkNFhwRTZFODBoNFVSdGR1ckJRcDd2ekdpV3ZBbnRSNklERmdQZ3RQ0gGyAUFVX3lxTE9JLWo5NlhXQjRXYXJEVjhJZjNOWDZsVW5UVVFDTFNwQ1pfaHZkRS1xU090RVBQYXhrbWEzU1NxZ1QxaGd6WlFSd0ZQc3ZRSDJEV1BnSXkyVS1UTFYxRXVIVVJEV2VaemszQlRkUExyUGlPVU4wVm5lNFpENHd3eEJvUXdOVkJtY1MyU2FTTWRNVHB2Q3gzOHZ2VlhITFJ1eGdsQWpRelhiN2dPdTdVNFJjWHc?oc=5",
+   "published_utc": "2023-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Wanted: Vidya Volunteers in govt schools across Telangana",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2VXTEhXa01DUVMzYzVkRmJra1ZvYlFqaGFFaFVtMk1ueFBVYjkyZmRnR0VrYzlyemNFeWNqY0dLcG1hOVU2bVl3bExLZ1lfWWdVcGFKLWREa1FmS3pGWURSREhCUzN2dWpIRjRZVDA5eGswSy1rY1F1TXI2UGJabjR5elhZTGVpRF96Rk5Oa01sWUZTRzlyUTFpRHRJRUVDaHVNMmd4SV9Bb3pLd0lxdjNBMXU?oc=5",
+   "published_utc": "2023-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

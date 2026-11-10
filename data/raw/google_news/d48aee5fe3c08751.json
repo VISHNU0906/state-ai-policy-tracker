@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "27th National Conference on e-Governance Begins in Mumbai Tomorrow",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IUXZiVXFlUlJCOGtVR2VvMTl4ellIa0NGb2FHVlFNN0RLTmdScDRtSTRaRmpLQjdwM2NSYTdleEZFdnZkbEFpRC0tOHJfRENhNTU1c1RKM0lxQVlUU2FEakVWT2dOYXBk?oc=5",
+   "published_utc": "2024-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Generative AI: Revolutionizing Education with Personalized Learning and Global Accessibility",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeXdGazNMN29GV3poRkpueC1CQ3k4YjBmVXE3R090SFg1elZmbks1UERKZDhTd2NNdEpMSUN4XzRvaDVDZVJvYnlkd090Tk1aZDU3Q19USzduLW42dHhjLVE2SGxlaXM5Qm9lSTd2Y19uUEk4LUxaZXlQeVplX2lYYWxxYjNfV2Nab0I4dTNrdHZXUzVyQWw1OFoyZzRDdFpRVDFPUHpMOUpwNTl5T1VXQVl2T1NZVjJBSHVtM25DSnRzcE9icUFMbGVmd3pwcklrZlBBT1VZYXA2LWVvT0NiRjNNY040YVBlWkHSAe4BQVVfeXFMTjBHcEV5ZzVxUEVzdnBpVXNIMEhaVUc4eHRYSktTMnV5Z2NuaUZfZHZ4b0Y1TXhnN0luQ29kaDBQRGxRTk5vb0xhbGVJNTU5bVEyVHRwLUx3bFllcFF4SlJVZHU0Z083T3M5MU5tZUJxSEpsR3dkNnhUc2F0NkRncmhGTkJDYUsxTWRRcnl4VEtQckhlMC1lN1g3NGVwTHByRkt1ZnA3a2tWYnVhV1daaXg2R1RGajNjREtfNUJudmtXR1o3RnBYVS14dWRqV0dtck1YYWt2aW9BUXEybExDOTBYVXZXdWk4LUIzaU9jUQ?oc=5",
+   "published_utc": "2024-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Panel raised concern over mushrooming of blood centres but SBTC set to discuss granting more NOCs",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzUxVTBPeUtTZFcyV1l5ZHY5R3hGV2RnRWE1WnVjVWVVbWEyLWs2Qk43YmVZMEFzOE41bm1DWTl3ZXNIX2lWbDZzdXB0a2JYajdiajExREdyZEhILU5oM1FpcjRYcUJOc3pSb2dLdXRTMmh2SkFQbTNLWXU4ZFF0bU9kajh5LWRsbFhIQXVLSUlFNVh0OHZrSEd3NVZrMEZKdHBOY24tcWVtRVHSAbIBQVVfeXFMTU1pSG1kcWVhRVJ2VWhqMU0tTXkwalNnU25jRzR5anZ3bDVNWVFSYkxQQmhjZjJJQV9HNjRPTXBfUm5KSnlxZnFIeG9rbUVoQi1lOTR4NDllSlJ0SlQwTTdkY3hGa0oxbmJsaHFwcF9kaVZtRHVsc1NVazE1T3ZZakk1NmdCUVpNb0t1WXlscHJGdG11dmxRLWcxb2xXb0xWRlg1ZHVaUWV4bVl3dzlYcXU0UQ?oc=5",
+   "published_utc": "2024-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai's JJ Hospital gets Rs 728 crore for upgrading facilities",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHRTV3RKVW9NR1NvX1VBV1hvOG9TXzZCczhRVnhZVV8tSEVxZWZpVlFGTENUQ251U2lWYU1FZGQyZzhGel81R3JqcEJiQlFyckMycU0ySXI5eVhTZmtZUWFrNFN5UldPSWJMSGlBSkhLV1RDc2h5MDNmQVlvejhIQ1BfZnV2VWJkVjY3bEQ5OEZRR0VmR1Bsc0dxRGxhNDlwZVplLXFoWTVvZkExZHlQcXhTc2VQM25veWNJaGtyZU1DY1ZFLXE3Zk9n0gHPAUFVX3lxTFBZcUExTnQ5LXdkMExlcFJxNmdNaHRQYkFYcllfN3FWVDNWR0EtYS1GQTN0c25QZVAyMndhejFLOGFqQnRxZ2RYRGFzbVFTT3BFQmFWeG9LV2xLdzRreXo2b21WbmVuRFhwN2VxV3lZbEltZ1R5ZnM1YjYwRGVJQy1HYWpVcEM1X3phbmRKakZKLWszNUh0NU9kNXFZWU1xTXYwVURWd0lhWnU3U3VVZUdfeTc3Uy1pRUNBckx2Ymt4blRXUnMzTjdYQnF2Qmh2NA?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI is taking the world by storm: Dr Vivek Kapur, Director, G H Raisoni College of Engineering and Management, Nagpur",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVE9hNEpIbU8zSEJsWURuR1hLZ01sMWVFMjVIQkxQTG81MXZCRjhudVV3NktJWkRtZGZ4Sy1BdVM3LVVWRkFGR3YzMWU4ODMtbDhWZjlwSm03SGhaS2ZFOEV0YjdkTTg1OVI3Ulp4dDRBOVNyM2xqbGZLNGgtOWNwUVBmTmZTOEo5LTAzTnVxOFVjR0pIMFVpRWtYclRBWlh3WTJlOF9VQ2pRb2kxc1hoWHlsR2QydGlkUzBkdlRac0FSZEdTZDVfV0E3ZDg4c0t4SmtFQ29VR2c3ams?oc=5",
+   "published_utc": "2024-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cabinet approves 7 Digital Agriculture schemes worth ₹14235 cr to transform farmers' lives, livelihoods",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUEFSWVVxRzNfZG5XX3pkODk5bkhyb1hpNnBrbW5aV0FXRW9tVExobjFia0Q1aFo1bl8yeFFWbGRQOWc1RW9BbXI0ZWtkblhUeGVfRm9uaklxblZLd0htWENMZnF1YnVRMHlUSFVBMmg3eVg4Um56TUh4U3JSVHFHX0FhNHI1dllBMnFxcUI1REJFYlFpR2poMm02bkxfVGc5dzZoRl92Tllvbk9KS2dIelhEOGhxSmlOTGRETjJJb0F6eGZlMmZURXpCc09zbGtCYmo5Y1lGOUZCNkt6aWNHS2E2TFJWNkFfeDM4Z2tlZkplVXNoUjdxX2NvVjVkSDUtT0NjZtIBiAJBVV95cUxPUzVKdUxDRl9sTDFueWxmbEE1Tm4telVrNE1vZjBfdFdkd0NUREZkSnkxYU9UQklDQlhQbUN0RzdTQ3pYWHg1QlRTRTE1TzNPWHFKTW9iTlFLNlNVQThoWC1yaFdUODVYNUhTNFk4S3M4Y09iR0tkYnFDQnU4X081UmFLMU45d3IxSTVtbG1ibTg5UmlyX0RyYnZUcVJfVHNpUEpUdlk4dEtqR1VqRTlidngtY0NTTHkwQ1hFMlMwak5NMEtSMzNMblViQWpVbHdwN2hSeGhoNWpydWhLbGhvelJ0eVFwZDNRd0xCUGlUNkZDY3JqSGZ6OHNlQmREVWIwR1BSUXptY3I?oc=5",
+   "published_utc": "2024-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Over 2 lakh Sindhis participated in Chaliha Festival at Ulhasnagar temple",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSjNTdGNIMWhFWHlmZnZaci04c29BTWY4Q3dMcktJNjUxWjkwME9LY0xQMzJRaGNxUzBKWm05bVBuaFh6SGdvWVFlTjBNcTFWX3BvcVJ2aWRkMDFPaXVETnp4dFZmOTIyRDl4Yms4WF8xeEZkYTI1azhfbFBnckNDZkdUTFFfRXNrVkI0R2lJNzRCZ0lFcDVnSkJBOHczaC1pU1loYjhXMHZMV2J3SnNyOS1VN2tIdzNLY3ZRQVZ4d3VmMVlSM05neUtpeEFOQS1CSG0wa1RfdnRRME5aVEFYejBPNVNDYW9Ed2Rvc1lad9IB9AFBVV95cUxOa05na2lrbUg1QWNXTVpSSV9BeGxHSEgyZnMzcC1MLUt5ZDdkTXdNdnFXZlhacXQxVVRoYk5odGNjTkUzaWNFcGVUdnY3SDd4TFNtTzc5ODEyZUx3NU8tSnpQNjZqaWRUTGw2N2ExRW5lbVBFYUU4WWo4VC1JXzNSMUZNWnA4QWJlZzM0SGV3dTZOOEZVVExvREt6S2tud0U0Wm9vV1FaTlZTVFRHVWtMLVJrSnJ3X2c3b0oxRGZEZFpLQzlrQjVUT2RxbkI0ZTI2VWE2VU1aSlFLaWlPajk2Q2lRSXNoVlJUNlZLams1dERzMENs?oc=5",
+   "published_utc": "2024-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ISRO to develop high payload, reusable, commercially viable next gen launch vehicle with ₹8240 cr",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUVN2NTRBN0xaVEFNejY5aGl0RElVVEhpeTZsWFpWS3dCQXh6cjlXdnZQVTNfeWRDTHk3MDBGcGNNOUtPYVhrZ2dJSGNpaVhxY2kwV1lsenRCWmNTRnh3NTlkendkYy1fN3NfYmZhZWNsdUNLSXF4Z1d0cVMwYWFPYVVyN3V5SDdxUWJVWDNWd0pxSXp1X0lFM2NHcmVzRDM5ajA1NDBOUUxqdXVhcHdpUGlaWDRmRkFZYzd0NkFzYUV6eGk1NG04REw1MnJyQ3dnbDVuMndCRlNXV2hoS28yUkFSbkttejFlczcybHRJYlBnVVNIb3RfR2E4bEHSAYACQVVfeXFMTW9XcVA5Y2xHcWxNU29TNGY3STBnMUFQNlNNdVBQcmRhMnBOY09DaVhjVm1KcV9ESWxJcUxLV2NlQmFPbnZPTDhqQmJkZUtWQmFOU1RoUVZLT082VGdPQVZjekU1YU5Ia0daN1Z6a3NVaFNrVDgwWEd2dFR0d2dCRk5Bdndnc2V6Mk9Zakd5RElic3FHa2VCUUpYdF9kQi05eGd0ZkNPc0R3TVNrWkprZlZBbnVVYmlPU0pqaE51R3ZGTnVhMjdyc0owTlBNWnh4YTJOTDg3SlFzVnBOMHF5Q0VQRVdlUnZzUkN4X2t2WUhILVBjdDg2c3RSX1FRaVh6Vw?oc=5",
+   "published_utc": "2024-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Intellectual Property Awards 2024: CGPDTM invites applications online",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUjdEN3AyY2laNzB5MGhyUkhaOXQ3Q2VWd2JjTndqNDJSY0NfMWVlNUROTFJVZlZ5RVFOSXJDVjNuaTZJVVJ0S2FqTjNrTzJVZmdoUS1MTGw5UmpHS2JjQXlQYWd2WmJ3YmpfNlRMVUR6eDVseDhibHJhNng0N2VOa2xaV25lb0V1SjAyd2dTMGRIYzNYY1EyYVlCcTNOTjI3WWpaajA1LWJBR1FJVi0zVlFZUm16S0ZfelVLR09qNXBBeGJ3S0Q5SGc5T29IalRuOGZOTXhLZGvSAd4BQVVfeXFMT3dYR1hqUVBRYU9xaG5QQlBoMmpSSURQTzFwQ0ZmOUtyWnBZRDM1RnRiOGZwaTNoeXphSEF4TlB6U0FMU2Vpd3g0cE90bmhNeTY3MkZQR3phdGlaR3NydUZxVnA2dURKSUtUbVRCZWFrODFBMzFKV05Fd2pmZUY0LVZpQ0FabWw5VldLbTNUUG1wZGtrLXlLQkVkRFpfTzA2UzF5NVNGa293SUZ1YkY5V2Z1c0d4Y245TXRqTGxTaVQ4eDhfWU04WlpQdkFlRDlhc2FPZWhXbkF0TDlnc1Fn?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nagpur Audi crash: Maharashtra BJP chief’s son Sanket was in car at time of accident, slipped out unnotic",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYXM2dUlTUVlWaUpiM1VrRGZLVzZSYVpJc2tLdE9jWlBjRVpfeU5wOERlRkdzTE8xMFkzNEhqVUZIcGdUYVpCN01tU2VUZUtqRG1DWFV5cWRiS2wxU2o0X3E0S3NOTE4wS0dxWllFbHJLOXZOZUxOQ2FYekhpTFB4OXRncklzZnhfOEg1OTJqWG5oZmx0eFBNc1VQR3E2UWdtQWlTd0tsWE1pM2FJVWVOSTJyaGd1ZkRDSGhMVHQ3RDNqT1lKTzNKN3JHdDJTMng3NVNWX0Mzb21zY2Zi0gHiAUFVX3lxTFBsSHN1ZllmUllFT3I3QzhHN1hVRXNuRl84clJDWFpJVXBIbnVqM2VBUlM4Xy02OE5NS21JeThnSTdjTHRWZ1ZQQnh2Z29LN29oSm5ZMVZmNXVVdUhxWFl0MDY0b3pjYk1IaDFDdklJM2FrX1BZN3V2M210VGZXVmxFa0ZTQU9VWExSLTZ6VlVsZzZkUWNrOXBCcnA1RWtINjBiOVlqVjl3ZzFOb1Q0dGVKaDRYUFlDR0o1Yzc2TGhIcms4Wk51YjAyWElLUGhBeXM1MkNsWDZ0N3BZQjFSRUY2TFE?oc=5",
+   "published_utc": "2024-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

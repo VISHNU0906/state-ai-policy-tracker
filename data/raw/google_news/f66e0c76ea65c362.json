@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "MP govt suspends pvt school’s licence over hijab row in Damoh, CM warns such institutions will not be allowed to run in the state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDVNWGZMMDM1bnYxNnMzeDlhTFBjVXpReWpQcXpVaFdqVE11NlVSZlNCNndLV19RSU82X2ppcUx0ZzlFal8xSnNTbVp3bzZ3WDhBeHJEQVo1ZUtkNUs2cDVXVGVfWjN3R3BheXZESTVwMGRwWmo2UmNNVFByS0JkSkVTaUhsYkJEcFNoaWh0Q0dkWEFneVJ2Y1htdGxqYmhRSjRYVHdRX1NDVm02SkkyRldNejBYRWZURzFtY1Z2bk1ERDFaTlJLVlgzY1pxMUpVNWhVSnotZkFSZUM5MnZTeUFJZVBqNUZodG00c2ItZDRETlRrREx1endxVzBKck5lWVJKcU1WTdIBjgJBVV95cUxNdkQ0VWZwTHVpQm5YTWVpY1ZNYmF1QXZ4TXhkNE1GandSNkF5SkgzQ2dVenhxeGdWemIySllUNlkzZmNUV1lmRlRBaE9BY3BnaFlMT0I3dzFsTDRseVpkemk5MDlGTVdySTB4UXc1aTBlTkxFRGk3QlZSMFUtOFJWLVpFT3ByTUpydm5INnR4NVVIck90MWlQX2FaRUwwUXhobnZJQ0hjWUFCd0tqdXJWb0QyUUxYNWlOZDg1MExyQ0hENkJRRndpc2M3YTRJYkRWbVdvRU05T21DSjAzeXZkZlNCV29HYlN5X19DVHo4WDdkVGdjTmFXTGQ3MTE2VVRtRUphZ2JwSElMdXAxNWc?oc=5",
+   "published_utc": "2023-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh To Give E-Scooters To Class 12 Government School Toppers",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTYwZ2RpUFJqUkppei16Um9xLWxQSUlBZ2VlSWM2UkNBWktQMGNHejRuaHlEdGl5bXpuZTBqcng3dG5WeEU5U1EtME11NHR5SG50djk1ODRmVmo1endfT1ZKQldSS1FHOGkxTktGQXV0dEdELTNhaWlEUFBpOW0tUTR4UDR2LWJZQ2g1bEZRZEs0d3lqaFNiWUJpZWNZdWFVTlduOWh6Ml9QZWIyblU2etIBuAFBVV95cUxNczZ5dldCSUVPZFVqZ0dZZy1ON1V3eklTWDB6czNKYmRXaVMxMDZDLTQyUEptejhRd1RBaUZGcFZqdlJYQWdEV1NmaWcteGJmaTczbTlVWm1fNzZDMVctUFBPcmJFWVpCVjFLYU9rcWc0WDVIZlEtUXRIRmlqa2M5VHFiSlFzUWwwem5McjZhODBMR2dNQUNZT3doZjFIeGZMSHZvU1RNblRyQlRURlRCNjI3N25MMTBi?oc=5",
+   "published_utc": "2023-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: FIR Against Management Of Ganga Jamuna School In Damoh Over 'Hijab' Row",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanhTRlIzNW5YY21tV1FwSG93Z1dsNmFLTXFFNXJpdC1nT2JLVHBvd1VzdnEwS3I1Y28wTmFiWGF6RmE1RDR2MzZEdHgzblVHOTJ3ekoxa3dlNVRodGx1OHdyQ3NhMXJUWGp2dXd3cTN6dzB6T1NET0E4d3h5aXhnaVAyVWd3cHV5VGFFaUVHbHByU1BMVndmaWdqRG00cG9IOHNXeFIyaVRNNUF2bmZ0VFB0ajZnSnZlWUU00gHLAUFVX3lxTE1HVUdveVdjanlhWWZfMTg3cVRyMFdEMnJDZlEzbDdxUThxNXRXZHNlMzhINDlXQnFha09oV0k4VlBBX0dYa3F1ZHFhNGx1MXRHd3lWeFRxempjeDVSWkt1cUpid1k2Q05HQWdWemF6RWVIbk42MzJwdjhUdWxnUVkyaTExeFZMeHgzLVB5LUVXd3VTM0cwRk9rMDhmaEVrajBLSFJUenRIc2ZhZWFHZkFmY1dMZjhiVVcxaUM4OFFtd09iTEUtOVBmdUxr?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh highlights Sustainable milestones at 4th Sustainable Energy Conclave Bhopal",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXRvcUUzZUFoYUxuS1dnYVpBZEdSVE5BVlNWTmJSWTRHSTAzZ3ZGM2ZYT2lPdlpQa3l3aDJ6VE1sSjVOeTJTWWFwZFhINEJkb1NEWHItQU9ZSFBHVENZTHF6T25fWVlEb21TNEVPVUlCNFNwTWo3R1YyWHlwVDM2VzRCdGpoZFkyaUo2WFpfaFZBeFFXenUzX21HNWowbUNvNG1DdV96V210QzJSendBWURiTEhkaEs1bzhyOXhyaTVyYXVmRHc?oc=5",
+   "published_utc": "2023-06-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Hikes Financial Aid For Farmers To Rs 6,000 A Year",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdjNENNUnh3WXkxdnZFQkU1OWZBWWUxWlhiZmNOYW9QTEZUUTAwNXFTbkpXVkRvYS1vbERjd1R5VTJVdkJ1OHR5dXUxNHZKMU1fTGJ5bE1scm0zb3J6SnNob0E1SHlfOUc3MHloODJNT09VN0tIOVhyZDBLZmlnNXRFSlk1ZFBBeUlnTkJBanM4cXhhMDN2UkJJcGRzVnJpdnpvenh5ZkvSAbABQVVfeXFMTVN1V0xJdVFLRFE0QXFSUjlPQnJaWTJqNjlDcjA5S3JBcUtKQkdsRFhGYUdBNjBWQjZtOU1aR1lsZVNQMEpTbzBtbEFTYlRNMVVEQ21kcFRuMUVESU5qMVBDd1hMZ0d2RVItTmpTWTNaTVU3alh2UHBhYWhBbURscXN1NE1xMDY2dThhdVdYMldENWkzcGthTTFxQkhpa051aS1teHltTDFJd1dJTGlWSnY?oc=5",
+   "published_utc": "2023-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In MP, 7 Dalit houses built under PM Awas Yojana demolished, ex-CM protests",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRG91UjA1aU85YjFRbTFJakVYVUNkSnpWR0poV2p3OE9FY2c4M3ZSbVZrWTdPa2pUZFlRSmVBWHpmZUw2VVdZcjV4elZ6TFd3Z3ptRVJrMGk5MVdoYnlWZDFUTmxXSWFqWDJ2WC1zX3BHUDk4Zy13MVdncW4zUDRoeVlRQXRnQ1hSQzJTSi10ZGtwTlRzTGx6UF9nTk5qNE50S2MtUlJMRUR6bExtTWVXR1J6ZDVQRXNUYy14VWdkZ9IBxgFBVV95cUxNakxBZmFfcmFQTlZ6YmR3V3hFeXRfVUstZzVpSWFfMkItLWNjNm5LUk5palZrWmUzX2locEc4cndMT3VtNWpYQk9MODhCOXhENnJyRUt6SkJzZkd2N3RTOXE1anloZ1FhVng2SVczNmlmQktFVE9MRlp0VlJDNU14U09SZ1BJSFItX3JoU0xqSjJLaDJPbmo4S3lwbTMtOTlKbUtLRWt2UlBxMEM2aEZVd2JibnR5Q3IyY1h6c3lIWE05N1ZmUUE?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Students Made To Wear Hijab At Madhya Pradesh School, Police Case Filed",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdlZBMUprbkVRX3B5R3VtVUxwUXFLX3hSUmp0d1V4eXdpQ0tHWmZGOTRLY3Q0NEdXcW80eDE1WHBUdzgtOGZKeHotbnBoMllkWHpZZWtQS2lPeW9JTVpZRE5zOWU0Wm9ELWxmaUQzNXRKR3NXcjNxX25TcWNVOUlQem1jUFNDZVByejdvc2lDbzJsN2tOVmtGczZnd1ZMTVEtWU5xelVTb2UyWjlMZnpJ0gG3AUFVX3lxTE5oc1hkUmdUTjVaSjB2MzhBMFB3dWZYU0h0MkVKbnUyTmVGbjBDSVN1dXdjZF9GV3NwcU9rTnNDaFFQUVBBWFk5b3Z3bkVNNmtjMWRBTFBteHh0Sm42SzhDLVB2Ym8ySndiR2JyY3dfeU9SRldjaFZkTWNsTkIwQUU3ME1lR01fRkQxbVlvTmk2bWNZSW1MbTNPb1doMXN1STAwOUxUY1pYblR6VnFsbUhESGt0Q214cw?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Orders Probe After Schoolgirls Allegedly Made To Wear Hijab",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTdTRkt5eVRFYTlxM0xPZVJrRk9PZ1BoVXkwaXR3SjZsQU0xSzNWeTJ6eF9qYWVYcTFzc1AwTHBXdTdFWW1Ed3lfOThSWU4tNnMzSTR0RHFXTjgyRExyREpwQU55QzBra2NWbDJNODBKcktJSmZIQ2R6TDBKQjVxeXV2S01TcHZVQjVMWlp2dVE3VDVJZmVKRzM5eXNNYU5pSmM0NUpsOGhKV1JBLW5DNUgxdFDSAbwBQVVfeXFMUFBhRW9oNXp5ZHEyOFNCbGJfU3JwQWRVV3FZLVI3ckI5VUtVT0h5NEVGdHlpa3BkZ25QTmxYal90WkNZTHRENjY3eU9nZkZIcDNNQzdPRXU0bGdiTkRfOXRPMTl5aFhwS1pDZTZ4NkZFV3pmWVpPUlEyclJraVRqNEhQc0tVc3B4M1JjblhUY0RSVjZobkxGc2F5SkE0X0t5Z2VKRENzbnpHWk5WbzdESzhvRURNX0lRUjJMS1A?oc=5",
+   "published_utc": "2023-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Cop Suspended For Slapping 17-Year-Old Bal Congress Member",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkdLcml1V3l3cTFpQUVuYWZiNjZvSVIxUVVGMmxaRXFDenhUVWJmdWNBdkJFN2dRZ0RKZEZPSFM0TkJwNElJa1VZUVE1UGxzRW5tR2NRVDgxeUV4SzlsclllUDdGUVoyWXdILVZTVGh0dmx0dFNJQ3E2aWZXdjBNZS1FQmpndVRNU3RnREpheFVTU2VyZFZSQUtqX25rYURMdWhxVTFtbUcyOUFGVkNJU1Nza9IBuwFBVV95cUxOSTkyWEhJNGFrbUpEZE9uNEtqSkRXQ1Z2Y2xDSnZLd2lScXJYY09pMU9WZVZRcGppbmp0ZkFMWmtCdFh3bnFmeVZEY21VV2NybEV4cWEtZ01KcFhSbHk2c2M5QnlBZDBMY1dlMUJIT1NpM0RHNDU2eUx0Ylp5NlJxV2tNQ056R0tBU1BDcGdOMFUwcERCLUtwLVF6TTZtZXZSc0JXNHVkRFdfRzlYVkZNYkR3TU5Tak1CRUNn?oc=5",
+   "published_utc": "2023-06-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Teachers Training Program Held At Springdales Sr Secondary School In Narmadapuram",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmlkV0VVUENQaXZrSXVHRFhlQXNGNTdFNDVjUm1vTXVBNzg4cGZLTncwMGJMdkZyVWh1YWYxaW44RVFQU00yMHktY1Z3TVpmdEpXOWZkT3c0REt5cU5CeWZncS02NE84Q2tFRzJYUGtXdlBSb2hsV0d3Nk1JeXB5OFBBZVV2Y2hhX3dGSTNWX0hNNFNsX3FDWjBPOGlNSjIydHQ5NmtGYVI1VktUWW5PZnVBLS1EbFNMVVJSZDhBbFY4a2NJQTBoeDBtczdTYmRq0gHWAUFVX3lxTE1qcDJYYnpOdEtPLUt2WHpFMnJIN1FOam9MOGdObjdRQjZnODY2LVVIS1hyd083OUFWSkx1am9ITVFrMkU3UER6YUdOTm0tbE5URFNlcGFDTy1rXzFIV3hWSzRPblZMaUNCem5sVmFaRWdWSXg3NUNjMzZ6VGV5ZVdmMGNUdzg5MDg0T0FCTDFzYThGeG9DTDRtaExLMEFIdURkUHR4U2JiX3RjQlMxYmtJaXNBUURiSV9DXzFRTFJuMWFJa0ptLWl6X21sQWo4dDVfYVBSOVE?oc=5",
+   "published_utc": "2023-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

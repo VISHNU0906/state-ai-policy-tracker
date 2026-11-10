@@ -1,0 +1,21 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Woman Beheads Husband After Feud, Surrenders Before Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3dyYmV0ZkNQaVY4anlaMDl2aS11MUtpbUJmcjFHSFRyZ3ZHeFpvQzZaNGdObVUwdWd2NjVMUmNXajBLNEF6emljQWdMTUd4bzlZMGxHNE9IZm9Qb2ZLQ3hFNUh0azdnT1llNkw5UEktZ0h1VTdESUhzWEFCMWNfaDBFRVRpOFhaQ29xbE41aC1RUFRBS3FVWlA4b0JDcWtfV2sxNTUxT1M4UnZjN1pMamQ5bVJjQ090LXJIenFR?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Natural Farming: Andhra Government to Provide Financial Assistance to Over 70,000 Women Farmers",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzFOc0g2Yy1oVW1EVDdCSGNIQnZTaXNrY2dNVWZvZ0tIdWdMaTVWRElmaG9UN0x6WW1uLXRUdThxaDVod0pHMk5jUFQwZm5ZalhrZTJPSGxucVo3THFjRWNVSlRKdVR2bDUyekN5WkJidWpRZVdaa1RDSzByenhKenp0RExzYVpQaDMwX2R0SnBRR3A1dEtQQ1Q3c1A1dmpPcnpiTnJFTkhNcHpGcFp2cXZhd1dHa1RCUlZmQmlNTWJGcDZHZ0xKbU9WdUFzelpXQVV4edIB3AFBVV95cUxNb2EtcU1zUTl6NFJ4U19NcEh1UHJFNV9sYk9XRTlBdjY2cGdvWmR6c0ZrelRCWmhvUkJVRXpIZUgxRzBLXzVGTUp1M2J4c3U1TUVkcWNkX1ZmWEdwLXltcUFhb2xsbnpUTjdlZTFycXpZMEdDQjVzNHNiRGdXelBLcVU2QzdLT3dRWmhpUVlWX1RrOHFrY1hhRnU4WnE0cWhfNkdTZFZnSDNncnNwNEZydHRPM3FJSHUzQVdDOUROQlpNV1hwV1VFbVhQLS1zOUJ0QzRBdXBJNGFMMGJm?oc=5",
+   "published_utc": "2022-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

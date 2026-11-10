@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "Jagannath Rath Yatra 2024: Odisha Police to use AI for traffic, crowd management in Puri",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNmxUbGZkeHNLZGI2Ny1PSGFhY1RKd29HM0JhRVRSZVNnYmlmdk1LSi1qRE5wd1c0eURiOXdrM0g0OFdIVWptZE9rRm1XU0V2ekFjeG8xQzZZcFV4WVRCcnVSTzk2N1FuQmo1dzQzTEo5cjNFSElYdHROVDc4cHA5SWJoWGxLbjA2OUYwMkpEa1Y3TG9CUnluV3JDQ2MtZU81V25wdjVsX2k4UzMwQkg2UkR5akkwMm5PVWZYTkZMbV9uMWFPY0lsUzljVDdzUGV5WkZUSXN5bEplWFZRMk5GSjVIUXZNNmd1ZWY0M2hnTUdOQ3Ywb2l1T9IB_gFBVV95cUxNcHBpSU9mVlRMRHZDTWE4X09fTFRFX0p0dEpSVmphODJHd3ZJUVlKY1M3aVhSUDlsS0E4bUNCQjZlR1lyVS0tRGdSQlg0NXBsdXQ0c3pBUllVLTNJZG15TGF6ai1FLWhDQkNnQ2NaN2dkYV96WFBLVjhLd1hxVzQ2TUx6RzNfcmp0dUNEMWV0Y3BtZXdIVFAxNDNqVXA5M19CSjlUaDd2Zm9LNE1lOGJUSEx5cTJla0RnWTFzZ1hzTVh4NlY0QVh4c2s2SUtBTks3alVOUnJtTlQxRS1OeS0tUHI1cldfWWgtVmZVN3hhTXZqNnRPYkFVaEZ0WC1HUQ?oc=5",
+   "published_utc": "2024-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Police Introduces AI-Powered Chatbot for Real-Time Information During Rath Yatra",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkRNbDJiZWRGVGlJTFREaDFBeUZ6LXU1dmhUWkt6NV93WGZtbkhJTnk2MC1lR2NhTXlSdFVWOW1nWG9CUXdMa2pxc0pBMGpDcFJHZ0RTaU9PZ3VmSmhwbDJqWXFFOUlCNzkxcllpRElQdDh3eThRcDlPOXFFQkJTNnhDeGJ1N3VXMHN6Y1BHRk4tVWo2Y1hVLXFpRkJRdnR5Q3BwQ0xtb0VTSGlTTzBJZjhKb0ZfZk1zMVpLTV9RUXdwTE1OdUJaMTkxSXBoMmfSAdQBQVVfeXFMUDZnYWlGUDRnQkhQT2ZfRmZNYkVYYmFBd3hLdnZjUFZGV0N6bEx4bU9idEtIRlVFSzFaREloYkVtMDhvajQyUkdpM0VxSDJ4S1NqbVE3Nm1acml2T0lfY2hUYW52aGdhZVh0OGVOdzY2aU1nOC1fUEJmZnNyMUpnNjBMdk9DUkJhcGFNMnZFSW1SOG82SzZmeGVhdllMNEJfNWNPdE9DNVk3cDczWno2ZWU2WVNHTkZvN3lSajVUanVwbnpJa3I1b0w4MWxxQW03MVBkTk4?oc=5",
+   "published_utc": "2024-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagannath Rath Yatra 2024: Odisha Police to use AI for traffic, crowd management | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTUZqbXplVHlReHVhVjM2bUtaYWlUeXpwdTFBVld5dlNtVC1YOExsSndfU0tzY0g4M2tqc3NaRkh2QUh0TWdPaUZmU0RUdnFTdEhyLTMtUU5UQU04ek1Wd2d3cU9lTnlqUm5ZbGIzWmh2SkM2NEJBellHZm1KZUtkRkJXZC14TXAwQzRWVnktakpGS3QwdERjRDdvQW1TTHczT2lmX3dVTlFiRHBrMDFGaVhWcXFCYVdzaVYtNm5vSW9zdjJpbDM0QTRTU2Q0OUhubGZlcmx1OW_SAd4BQVVfeXFMT2dsZzZVc1JaNS1kZUZiRG0zVTN0VUl0WGxiU3FFakxsMTRsRTBzYTZjTWFMWmxxNFptWGRfZ20zTmxKNy1pdG4yRjZSOVFFNDFVdzRkUVNRNzIwVjk4OXpuYTlzR3lFRVA4SmlUM3V2d2NzcWNYb1JFRDBhQkgtc2pNc0wySjFEQ1NzVm11OUNtWWQ1OXk5eHQ0cU9VeVRaY1BGY0VucDNkaUgxa00xaGlRRktmejJjcHZxQ2VyZDM3TmoxeGx0U0ZGYjBTWFh2QVVaY3lVV0k5dmxDSDVR?oc=5",
+   "published_utc": "2024-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mohan Majhi government to focus on improving health sector in Odisha",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlZadzNrS1EzM0VOT0poRFoyQWJFWW9HOTlYaE5pX0xDejRIQXpzYUlqemRsNS1MUEpTTE5FUm5JcjdsaUd4VXlSZHRQbWVMRFpkb1Z0QVJhS1BpR2Q2aVQ2OFJaSnZjejJnTzNNNzV4bmpQWWY5ZFNGZDNLVExzSFhqU2s3cmdjUkp4b2ppcjlMVG8ybDA2MnRzOE1xVkRDQ296ZnZRUThVTURiR0RnVnpDVDhXZ1ZPVGNteWFUdzI3Mlg3VGNXdmVvdDN2d1nSAdYBQVVfeXFMTTg2YU1qQ2FKTXJkNEh5YldQNHJEejVVbnFkQW1JTzVLQllnWUZ2a1R4N1k2cExvdVQ2eFJNU2tzMFVrcjFNRXRQMklmVUlVLTlQYUI1Unk4amh5XzNIM1ZobDlvblc4aTd4Nmc5dUgyalI2d3ZLUUFmblp1cjlrMlg3WDJ4RnVkTE9rVlI2YzFrMU4tRXZKX3JXNE5iUWMtbnhBVHdqQUtic3ZYZVdJQmNnUTloSU9vNUtpQURRU0JLbkRUbVJPZndRQUNNeGlSX1NPZHVGZw?oc=5",
+   "published_utc": "2024-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Police to use AI for traffic, crowd management during Lord Jagannath Rath Yatra",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdUE2UG5XU0Z5VnRNd3kzQnhwWHBDaVkzOXJCbDFJWEEwVUQybVpVcjNpYUppUC12MkNhTWt2N0V5cVNwYnZOUTJ6ZkctUy1GSnViai1fcEFUbm1tSENPNzRyQW5fd090bjNPQmNKUDVFb1VjZHE4REhfVFRHUjdtb2tFSDZwSkF5TU1sdlVDOTFqVUpDbDBEcFJSdGpzNmgxNmVneUl0SUVER2ZyNF9QeDdIclpidlVUN3Jvenl4cDg4YzkxZUhOQTBmMmIyMHZfYjFoUEdMaVF4MDhOalNKLTQyRjfSAeoBQVVfeXFMUHQ0NzVEdFN3VHNveFA3ZEhvaU9FS3pHc1VpUzQzNXFURXAtZ1FTemNGSDF3R3VPRklta25IWlpvQWM5cFhUa0hXLWhSSzJHR3ZnWFNza05VcjhDcmpYWm8tRnNyNnhYQW1wdG9HRTNjYm02ZTZ1aXMtc0pMVUZGQVR6Wkc1WE1LWjVyNlZfY3hKUkdTNmVwVld4Z0RwOEh1MjJLak5OU1JITVVQeF9WUEFCc2hhZlFrMUdER0F2Nnp6SHM3czRaZEwzUUZXNHo0dzVaYWFubGktN2Zlc0liOEppN0pFLU1OR1l3?oc=5",
+   "published_utc": "2024-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt approves 26 investment projects worth Rs 5,992.92 crore",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVl6TGMtTGMzbTdqSkRzZWxHWnRTQ0NaZDdlYjB0V2ZfSDB4bFBLS3ppV1dsdFpVUXphRURSdmp2RVpiNFZVLVpoNHFUclotOGZpbHR4Y0JJMmtGemdzOElKbzJCQ0tVN1o0NVp5SlRsMlFqR0p0NlF1VkZEUFFxNlJubU11Njl0RloxSzVEMWZmZm9UZHRFWXR1ZDdPNWtHS19xbVNFbVJfR1llSnFCWjBlUjlONjhsVG8tS1dhUjBTNFN2YWZSUXZGUDUtc3gx0gHWAUFVX3lxTFB2LTBIM3FvSFE4Q2M3ZVRwSVo0ckQ5d0h2STZUZGhac3FhdTRnQWhuR2ZoN2RaMWhvX2lYSUU0a1JUZFBWa01YN0NRTUZ4RjJ3bzlUV2tHb1dMRGRZQTNJZG9OeTlmeFA1dGdhNXRXVkVscnVQbUhWRHNpNFNodWk1NUJoU0hmRG4ySlZoYlhFVzBFNG1yQzFGbmJMeDJPWFdLX29JeTZBaFBqaWJOWTQtbkJpYjh1d0VyT2p6U1g3YVZGMm10QmY3clBadXluajZSbUR5UFE?oc=5",
+   "published_utc": "2024-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIIT-Bangalore announces new IIIT-B East Campus, launch of B.Tech Programme",
+   "source_name": "ODISHA RAY",
+   "source_domain": "https://www.odisharay.com",
+   "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWXlidzZLS1lBZDdVZ0tvbFEtdEZ5emxZeU85ems0Y19OTVJscUEwWjZ4bWMxSFU2NDhGYVBmd05aempVQ01Wd1dzXzJsZEVHRXhWQ29HeGhxcC12aUpIQTNnT3E3WUd4aGItWg?oc=5",
+   "published_utc": "2024-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha and CDRI establish guidelines to guarantee power sector's post-disaster resilience in coastal areas",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUWtLaXZob09ueVo1WWtqcGZ2RVc5MlNPTks3QVlDdlZrNmg2V1RxMmVyaHNjdHItbmwzeVJNUHRQNkRUVkhFRGNhSVhJSWZ0NVZObU1OT2x4a2tRVENXdnczYnhYVHFpZkNGZmozejdEY3lINThIYXc0cWZodUJCcW5fS2lISzBGNXpRZjBTa2Vud29MdlV3YUo1VFZ5V2NSTVZrZ2MtRGZSa2JScDFEV1FGcEVkaWxmbXlwdHJYMmVhM1JkTFF1SWhwOWlnMjZ0TDhVb1oydWRlRVJXRXljZ3ZHVE9WUjlSc2dNSUdIelJURnFtc0lkdlplaFVIOXRtWXdKLUpYX3o4d25MeTM1Sk5RenRGbkJ1S0tj0gGWAkFVX3lxTE1vRW00X1FzM3g1cmNldzlzdlpkb1p0cWtySUlCY1BMZVN2RF9sUU5vQ0w0SU1jSW0yZllYZnF5RlFjRzNNVE1xVHp0R016ZW1pQkgtZ3dLRXp3RFpiSnBibFpuX2tRSWlvM3Y4NkdoWllHVkpRTUlPU1FHRTExTVZWUmlWck5hcHZIMWFTVmt3NEJnVVJjQXNvWURuR2RpbDV5MmhSOTZHRUdMZlhXVW1uY3RMdHljUGRXdmtHZWFnX2FBOTJ4QmNJN1U3dFRxcWxMNmQ1Vmx2NlFnQ2dyZlN6UXhybG5ydDZ0MG1LRnZTSUxtMHhhVkFaQzh2TDFteTNPbjFmV1dYS3F6MUsweUhUNUtxWVBn?oc=5",
+   "published_utc": "2024-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lord Jagannath Rath Yatra begins: Odisha decked up! Know special rituals to be performed",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnV5SGl0N2pfTk1vcmg1bm1zdGluMmxWQ3lzNExHTHVJVWxzM05qdzZiS21MNkFXNDNfUkxqczktOGtwWlJrTTNuYkRGYmwwOGZmaW9EZ09xZjJqYVQ2Z19hd21EbzA0a19tM19NRUtORVpxWURra2IyT2ZVQW4yQlVod2YtdjlqOF9HTVdTTHVYdXR3ZnhKSmpDQzVBOFBWNUt3ZzdLeGpYcDhER0FJZFU5Tl9QZTcyLUoxUS1pWU9RejF0dE5fTThIaVYzUdIB1AFBVV95cUxQQTJ4b0t4NlpsMDJ0LURzUGc0b3RPcWV6c0tZblZXdUZCdFJULXY4SWVYdF9keEM1ekoxV3UzOVphY1JIbmZjeDB6NkJvNTE5NUIzZnpPOTZiLWhsVFhGYi1HVXp5Y2VMalBkZUIxand2bUttUFB0cjZSTWhUZWlyRlJBeUhNeV8yWFF2bDVLM0JVWThOS0MtUU5BMldUS0U5Z3dCZ2JMSjNqTjFKUldsQzJNNlVQb2MyeUd5dEFGczZQNlZYRlhuS1EtRlk1Y0t1LW5mbg?oc=5",
+   "published_utc": "2024-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

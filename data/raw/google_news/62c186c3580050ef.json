@@ -1,0 +1,29 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "India's Rise as a Global Hub for Data Centers and Cloud Solutions",
+   "source_name": "IBEF",
+   "source_domain": "https://www.ibef.org",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONENsNmhYMXlPaVZnSjNUT0VFQmxQOHdSTzdvR0h3eDd4d0R2UUc1ZU9HQlBVNnhRQzJaTURRTnNQNV9DN05ueUhUZDNxa1BLQ21SUG5TSnJZLUxtdXVnT2M4SjA4N2Z2RGVkRm1VYUZaUzF3MmNGSXBndzc1bFVwN2JrbHNPWi16LW5SQXcwN2htdw?oc=5",
+   "published_utc": "2023-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Five startups with Kerala founders to become unicorns by 2028",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1M0OTZiWGk2cHhYeTczOGpnVGFVWnBleG1haHRUNnBPS01GOGJoOEVlVW44bUVMdEUtRG92M1B6OFNQVzBWS293ZThhM1luQ2c1WFRjM0hzQ3hlUWMxUDA1LUhXQWc5aGZxanJaU3pGTE9xNS04eEZmbnFTejQ3OVB3ZDQ1QWU2U1EzOWJ0NXhLdk9pVDBsbmI1QkpXSW0yVWhXTjFMSEdoWEktbEpvOHpwQW0xUUtGaEFRUU5RelRmdXUzNTBrbXFPQ2g4QdIB2wFBVV95cUxPMjE2XzBZeGxnSk5sTmtqeUNmMzA5OHpZN0Z0MDVZU1dWRG0yZEUwSXZ3WDNmTTRZVTJkTzJvaElzNTRMakV2djhqVDVNTDhhSjNhMWhFYUQyUTZHcDV1Z1JsemlWLVM4QUo5bEFPTDdQRThzMDE4Q09rRzFoRVZlN3RGd0FsN2pUanNDODcybExPbngtbEd2ZFlSWjlYYkswa2YxcVA4U1YyTjhTNDRkX2hPZ1dxdERsMHlzUnUxWEFRS0wxTHg2dW9kam1xV3QzYTFLU1dNT2x1UG8?oc=5",
+   "published_utc": "2023-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake video of Mohanlal as Michael Corleone and Mammootty as Moe Greene from The Godfather is an offer we can’t refuse",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdU9UblhuTV9HWnVVbFJ5QW1xb0Jtb2dyaEJYYnQycUtZR3Fsd3FYeFBMWjVCV0ZLU21XdmJVNlo4NUhZRkh4THlYM2h0MlRXbjYydFRBRGNvNUNWTlBFWkpDT0VCVUlyOWhKUEpZNDk1LXRZUlExSnJpbjhYRW5BQjQtV1pjWkNhS3JJVGxLVk84cEJRLXJOanVJR0tqaHR2Wk9MTEJneUg2dkw2VlRPMW1XSWVoWF9ZcHpYLVVUN29SWXAtT3AyY3JqdkhlMVRYd2xTUFdsSzZqNU5hR2hlQnJXX0Q0eG5JS0ZHMjJZcFV1Tk5mZmtVdHo1LTVlUTBzX1FqSThhMUNXM3owdXdhOWtqLWpHZ9IBnAJBVV95cUxQOFBWQVhuVWkyZDNyODJIUkc0d0kxdTdYQy10cGVlcE1Bb3VELUV3Z2F2Q0UxUWxMNXplRTRsMXd2MUIyVFBKOGV4SGoxU3otY1NtUUdjdGNzalVJVm93N2NJTFNGdEZTQ21udjktZjNENHplY3hpSEhEd0FXREdQaTA4Q3hFblEteGlHV3V5RFBaYlE1NzlMVFJrN2Z0ZFUwNmxRdTd0TDllaDZIRXpMeHdGX1hJVG5rSFF3M2pfbThpN2t1Z2tnMnFXYzBTRE8yVTU0bW1OZHZsdDNLSElaR29KMWpMeHdNd0I1UTd4RUh5dklmN3lYS1h5aDRkeWliQXFiVUlnZW5PYVpMTHNKLWU1X0VZV2dvLUJqWA?oc=5",
+   "published_utc": "2023-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

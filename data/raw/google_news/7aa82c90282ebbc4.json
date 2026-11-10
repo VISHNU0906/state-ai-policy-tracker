@@ -1,0 +1,85 @@
+{
+ "query": "\"Rajasthan\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Rajasthan Budget 2022: Health, Education, Employment In Special Focus",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSmpxMWQ5TDJCS2VtMXRZcWR3WFBXRUNFeGxFNzdwTVJQcXItZTRfOVRRT0hKd1lmSTZXREZtZ3N6RnJLTkdlc2l0d1VWR2U0SG0wSWFWTEd1NjgtZEVXU1o0X253Wmc5WTE0a1V1NkNOdDVES3M2M0lWYnBub0dnanBsbmlsMlNOZzIxZXhtVXp4X2lWSW9IOG5JbVpqNm8zVDZGbFNwdHkwTGRaWkhwOS1wajhpRFlfbVhRdWw2amxYMGtvbElOMExjV2FkcFJWU0YxdTFNSGNQUzliRXpQWldOa1Y?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt makes 67 political appointments to boards, councils",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMG8zOV9NenZhbFRyOFpRVzg2Zkk1dExNbFlWVDEzcUhlWEp4MkJnWTB6ODNmOVpuMWZHQUlGS296YTZhWkxRMUJxRHdjdXBja2gyNWVVeF9vSkNBNzFBaWE1MlpOdmxJVUpNMW91bkVoSS1iNm1oUEJycjBEX3pROGxhVFFINU55S0s5T3BxOFJ6UWV6YlZuUEF0TUNOcS1f0gGmAUFVX3lxTFA5N3MwS2N5UkdYVEFjS2xwck43RjRyOVBXWGVweTRXSWpzTkNOUEZlT3QwZkRFS1lTemVkbDhCQnRiaElrVjNwazBZVXpJbHFjR3QwcldkbzYzSHpoeGRXc0dLWWFGSi10RVJJUTBkT2ZmaFZVVXNBR0ljWm0xdGxuZ0lFTmFrb0RQT0dUR1Nmd3dXM0ZTTkNyTEFaN3I5RTVnWW9VQVE?oc=5",
+   "published_utc": "2022-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan To Present Separate Agriculture Budget",
+   "source_name": "Sarkaritel.com",
+   "source_domain": "https://www.sarkaritel.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNakUwTUFYdmtCcGI2NDVmZHJzT3Awd3gtX2FfUU14R212S1h1UnQ3R21GTXhJcU5XRkJRZnJld1U1Y0c0NS1wODFENXVJU0xudkJKR3M3VmdNTlFweTlTcWk3WFlTVk9DelE2Y3JacWpLU1p4WHVZR0RFejFFZWtaMWNB?oc=5",
+   "published_utc": "2022-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt ends night curfew, allows up to 250 people at weddings",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVpuQ1p3SWNzdXZLZzd1RVNqZ0tBd1NEUzdTR0ZyMnNpZUk1clFHS3k4T04xVVBPYktuMzV6SnlhZm1lZWxhaWZyOWpiZXJfSHA1dWJTaXBiR2NsbG1reUJXWGNURWNSd3gyZlQ2QV9vTFkxb1JLN0MzNGFTQThwYjYyUTBWOVk2WFBYYkxZSlpCS3lJ0gGbAUFVX3lxTE1YbWtVZmxqUlpzMHBnNXlCV0hkNFRWekd0RjBDWldfUk9zQWRWZEhOdmw1YVJjUU5oWm5ZVzhiZGVrUmFNUnh1VDFqZE5mWFQtR1c3RVRxcTRGTVhKckNCVlIzSXRkWHFVSUFhSEJPRUZ6VHMtb01HSnozb0owaWFBQlVEbmVyQ29RcnRPZ05pYlBYMkttZzRYTkVF?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cancer 'unrelated' to tobacco and beedi, says Rajasthan Health Minister Parsadi Lal Meena",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajJqSnh0LTZZYjloUmNIVGZ0eXZhRGxESUVCVWQyUjFETnhLZ19pekhvaHItNEhHSXlpbkZOWmk4V05yaFJCQ21QSTZ4dE91QkpEM0xMWmNnZFA1Zkk2aUZIa2VKTUpsM1RVOHd5RjVYQ044dEJUczJMNG1Pc3ZCTldmNm1qX0VTakdveVBDUkF1WHdUUTdObDRvNEhCTldZUDd6TFUyNVFSVG15dnFKM05Kai1uQdIBuwFBVV95cUxPaGdrTjhLRUpyS04xUk4td2RvclhTREtZdTB0WkplLUVVOHJZX0xvTmJXWkZta0puS0hzdWZOS1MwUm45ZmVzaHRoOVNmbE41Zld6R0E4b21hVk5fcU1yWVdzZXVNZ1Q0OHNWQ0FOWHhFT3p4aXAycUZScXk5aEZuU2xxVFdVX3llOTgtRVlVSTVNekRuU3JrbHJaS3plNHVIVmViSWdpUHFfOUM4bjZ0SjBSem5qTnRhWXJR?oc=5",
+   "published_utc": "2022-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Govt Approves Rs 250 Crore To Remediate 45 Lakh MT Waste In Dump Sites Across 24 Cities Of Rajasthan",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNjdqRFNiNWZVNWw5dDNNRVFHU3c3YkxsX2lPVjVUZU1JbDFXdWJXNzJfcWJNUkQwYlE0cjJOOUwzRkF4ZHhKQjNJaElxYXlRbjMtb0lpQkFpZWZRWkxDM2VjeWxLTUJOcER2dkZzWGJaT2Q4TVdDUmd2aklqNFpNTHJnZ3habGJ2TEtKMDBRVkdiVFJoWXlTeVFabW43cDZjdDBJZkFid3lDaE5CSzV4Q0V3bE5CN0VrNGpEa2ZCbGJmcUxudkFEUTUtWGdCVzdWTGRMZGc2aXJLd3MtSmfSAe4BQVVfeXFMTUdTaFY0YmdfVFpDYWlfUmdmXzQ3dkZaaVQyUjFHSzNqZTIxdVFRT2luZDRaN1FDQVFENnA1S0RVbWlIejhrTVRtUnpGUmplU1NzQ0Q3U0U0dFh0b2w4S1JYRkpfZEpJNWdCVHZhU3dJUEV6Z3FibWgzR1pyM1YwYkhpNnZ2bFFPYXZTYk9MM3JnSFZzTVlTRlF1aXFCQ1BibXIzd3h5LVdoclNSVkkyTUwzNDAxREhEb2EwUTJ2OVBaSnV5S1ZyOGRRcG50Ym85bDVCMm1mdHhsc0NjNDZDX1dvaVNDQTlmcm40TXJVQQ?oc=5",
+   "published_utc": "2022-02-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan CM Ashok Gehlot gifts iPhone 13 to 200 MLAs",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHRodDBCTGlUWldPbXczTmJPUl9kbklTNXhPeFdwZmtDUkczeV90SEsxUUdFTUlZOG00N2NSV1M4YzhtT1ZIQzdpYWhKeGVkWl9uUWlTS1JNQXZEZnlsb0I2Q09fMkZsQm1Ud2plNXBGUHI2d19vRlFwZTlIVGo0ZUQ2cUl2NGR5eEhZWDI5bVZBMVExT09uSXVsUGdjRmd5em9IRXpiemJjVDdERXVj0gG0AUFVX3lxTE1vTDl4dUZSSnBBRUlqeXJBNW9WNjdqa1dSaDFLbmJHb19YeWVxTFhONzU5cjNhXzlvVEtrbjMyYnRDNV9Sa3dCQ0Z3NG1NcHNHeDJLNVlpb2g4UnZ6SXVCSHhFNmxmb19pOUhVUWdlTHNKeTAxYi1zMHBnYTVPbjh0ZHZaZ3U0WW8tRThuV0N3RTlIOTlCaFIyWG1fbEt3UXljWnBBa01JVjZ5YXBPUFdWdHVIQw?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan cancels REET level-II exam for recruitment of govt school teachers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVNPcWkwZGYyM3BxUGRFbl93ai1acUgyMFo0VExLWUhVX21kaHZock9QLUtvMHplTElNamdzM2lVcGVoUzlfSG1pTTdPNTNpaGx4ZTF2VXVDSGdEWWlyTUlld3dSb1k0NGMtTE9hR0UwdUFzaEd2T19FaTkzam9rbkxhemZ6Zy1mUmxpbjFTQ2VVaU9DaDFHdUJzT2hIUzRhMUtibGpXQnVNUjhURFdwU3BlRDZIRFRxNHfSAcABQVVfeXFMTk5IR0gtdXJ3bEF0ZEJ5Z3JoMXBFM2VjTWNIR0lIRHBWeER1cWQyQTlMOVNyMzZ3ZU44QXlYNGxOTWVWOGJkTWZFNEd3MG1zbXJjY0xFSkhPb1FrNFlOWTNFMG9Qd0JsVUhnZWZVS0pQMkd3VmhNUWhXZDBVUFlaemYyTjRrTDlKeUlGREVWMFIwUklSMkp5VGt6MUhXclA1M2ZVbEI3WmgtZUVLS3ZqaDdDUkRZN09VeDJSaGZRLXln?oc=5",
+   "published_utc": "2022-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "3 Arrested For Trying To Honeytrap Rajasthan Minister: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVW5uZXBoZ2JxVTlLTHVuVWMzWjJBZ2kxdm5PbkJXU2RSZFpBVEh4ekZkY204eld3N0czdnlTRVFReUR5ZmZQNmpFdHdFbVcyWHBJLS1wdndmb2dDYkp4V3hFVl9XMVRNZDJKcEpFXzVEeGU5OFhjMXZ5NDM4akc5emJibFFqWFBEaGFtTmdvUHVKTzZoQW5rcWZ5MjBTRGFTOW5MbnZlTDdLOV9FeV9wbA?oc=5",
+   "published_utc": "2022-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Model suicide bid: Rajasthan Police arrest 2, minister says ‘lucky’ to have escaped trap",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXUzNWd1WE9EcDlqN0FGdUVEeUNrUzZVQVlGczJzYkhTQnhFdGRUb0pjY2hWYVMzVmdETFBJM0kzSXNUMHhTYllvZkdEeXNxY2RILXRVS2hURl9NbS0xTDBqUnlNR1d3WXNDQm5XcEdTaHFTYlZUNjRWTXpSVHF6RzF4OWlndzlpV25pVFg4NVFNLWhSVk11Q2VxNjRGejQzRTNyMjc3bHY4SXU0eG9ERnh2QVFtSnR3Q2RTZ2FxSdIBxgFBVV95cUxOcTBHSWhkeGRVZHJtSDZ3M1Q1TEFvYkVQeTNQa1pKd0lEVng5Y3pmMTBjLVZ3QWpkYk1aSWY2dW5GS0tLbDVZREZGYTcxZHJqUkx1NW1vSWRMc29yYjFob3ZkcE9WWFQ2SzM3U3F0eXJxQnE1UkU3dHhFNUpyWUVPRXZLVkpzejczSEF3NngzUjZJMkYtaDFPTTI4VkxObVFPbjZhLW9xbXF3ZXpqbzUtM2hNY2s1SUtTdE92WTBVMFhwZDZmakE?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

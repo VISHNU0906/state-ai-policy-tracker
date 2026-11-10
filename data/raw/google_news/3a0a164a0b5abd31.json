@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Odisha selects Palladium as partner for Swakalpa program",
+   "source_name": "Consultancy.in",
+   "source_domain": "https://www.consultancy.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnEycXd2Sk00bnNMTVlXM054QmVDa2hXdjJTM3psNUNOMVNUamFkVDRSWXRxbUlndElsQndoVVJHcXlXbl9wM3V3MHBLUHhUalR5YlJNX0YzTS1qRlBaVm80aHhMZ2xtUVJ6bmJROTk4VmFJekhvN2dJOEJtWTNfdEZpRWh4dC1OMFc5dWw3eW9SV0hpd2h6dtIBngFBVV95cUxNcWdBRXlYQm5UM2pyUkhXZGplUFFGR1FORlIyVXFCMUl2WVRMZ0t5RE9xclNfNUJlSlBIMDM3cHVCaGxjX1VGanZpZHRuak9COWZyNFZJRlpYS1RGMXlzZjJuYllPZWNUZ2c3a3BxU0l1SEptSXM4TGpIMm90UkpGZXZIWmJZdXZNZE9jMTNZTGM3NVAtOF9PU1lqRHk2dw?oc=5",
+   "published_utc": "2023-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Naveen Patnaik is greening Odisha. And it has nothing to do with the environment",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVZ4dXNFbk5lM21KRGRsQ1d5OUZxUDR2ZTRRUjQ3dVVlRGRpRGtsVVgzenNoMl9uSk1acGQ2QXVPYTBVVFZ6N29hV3hQTEg4T3lWZlBLQ1REdjk3TnBDTkNUY3FIR1d2bkNDNmtMUVZwQzhjaTc0TUF6NFBKNjE0ZXN5S29nNG95ZTAyeV85ZnF4cHN0bDBMSzRCWU81M2NqblRaYjdRWEFYNGluRkpMekJ1b2dUcTNhc3h6M1Q1TkdNSTg0WEtB0gHMAUFVX3lxTFBSNlRrdHNmRWhCbGZTQWFra0o3NGIzaWRWeXpKQ3JBcVNKZXpvMUJWVnZHbm5hZnBXRjhtSHFONDFVSUQtSHFTMDEtYld5clE4Mi1kMEtPZjgycjlPNDZMWk1IOUJVc2lPVEo2TlBHTzhXbXN2Nm5HbkVSM0NVRE9rRDAzalFLY2tTVzljR3RoX2E5MlIwZFZWd1BDWGhqSVAwZTQ0VHZoalZHZEYxd0xndDl1djJiNEM2OFNXZDJMTnA5ZnpWWl9uVFZrcA?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Teachers Prepare Mid-day Meals as Govt Cooks on Strike",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZHVBd3lMMFpQSHRDa2d5VjBIanA4ZnY3cGxCZjk1SnN3Zm5NS1J5SGRvalRvYTQ2OTUyTHRZRHJkWTJ6ZnFFX3BvWVppb3ROZ0pQVnZoWFhjMXhzNEFlNVFUNzVTbllraUJiM0dMWmVyS01taE9KUE8tVmxjRVM0NjV6VU82U3hoNXU5eS1VUDZZNWpzcFRrcU8wWGNlT1V4cEdDTktJSFotN0ZFSEVYME16UTZKeV91WGdEcUdIbEUxTHFN0gHKAUFVX3lxTE9oSHloV0JPUE5ienVaVzRpcmZ3SDlVMjRhTEUyMV9NQkUxVHgyemxydjRNMnRpTGpyLXBXSGp4d250a2ZQNnAtWmdzbUUxZXp6bDFSWGEyb0xlcl8wX0NYRGRTbDFHSkdQZW5VYnY0UmQ2Y2JTc0UyTXQyUWRwQ1RGRTJudVB4Um55YTMyVDJRdDIzWU9waUJUSkJzWUdUNUhENWRJSGVBZ1FJNUc4WmhIZGNPNy1aMzlmbF9JRldySWVPSDZWR3dhcUE?oc=5",
+   "published_utc": "2023-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Police launches Cyber Safety Campaign 2023",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmVGdDA5WllfaEpQTDExal8ycTJMUzU1eW5WT2NSOUl5ZWV1dzY5WjNaZ2RCVE9oSy1yY3hacU0yYzJkNUVaeU1oaUJCTWc2OVQtRW4yWE9hMEViaEhXOUZfX181dHA1Qk5UR2V3dzFLSTlOcEVYOGttcUpxaVpmajVTNHhQYXM3TWR0eWpJbEFPZmZKRWpzbXpSUzlIRnJPQjBydzZ1MWtJZDJYMDFuMVJ6dnZHbHRIbnh6eEFNM3dyRkHSAccBQVVfeXFMTWhpWHlzVGhjNllkbmg3WWN5MEk0d1FTLW91V0haRnprcVZ6RzZERjR5TG1MaE1jdHZpUXFfdHN4LU1nTlQyMm9NZUI4T3NxcUFBOXRBQU51YUpmcnp1TWZXcVphUWpUdUVpODN1elRUcnBpdHZ5NVduVmtHZ0o2ZEduWTFuUEFaNUZ3a0JnVW9VMjNvZjROMHJ2WTdOLWEydDhTbTlORTk3TkRLRUY4ZXZjdkVLajNJUUtaMnpGc2FSbkF1LXQzVQ?oc=5",
+   "published_utc": "2023-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lord Jagannath Owns 60,822 Acres In Odisha, 6 Other States, Says State Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHRiaEtEZ0ZYeGtRWlU5bFJZTGpaSGFaeVBxZU1PMWZIeWhRRFlhdVd2VGpIR2Z0a3Bwc2JOdC05V01Kd2p5YmFlRFYtVjE2NmlhMV83NjNGVG5mUnBvcFJhdmVjSlQzSDMxX05pb2VqX3FPREZRX1JYdWg1aW1MTktRV3dGSGtTcndudFIwUUFRMUl1UHppWm9QOE9yX3N0Wk9lUGNjTjAxTGZfcThpOEUxTkpzSHRa0gHAAUFVX3lxTE5mcFk1LWtpWFRFWGYxVkg1MG1QbW9xVFlXaUNXcmM2VDhPTGNTSS1wSUU4YWpNSmRQSjhQWkFPc3VmOEpTczQ4Tl9OZ3hlWmMzeWRLeHp1cjlubDVGSGV3SnVwZ0k5eEFkeU54aUhDQ1A4VE5HLVVHQ0Z0U1gxa2Y3a0dEdkxrcE1jY0cwZll5UUNCemRFbGM2Z3oxZGdrT2ZPaFhFeWFndC1oMm1GOC11NVcyWjVLODJVY1ZybFQyWg?oc=5",
+   "published_utc": "2023-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt Approves Rs 1.28 Crore Grant For 10 High-Potential Startups",
+   "source_name": "KNN India",
+   "source_domain": "https://knnindia.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQalhUUzBVTmNfclBZRGQwbjN3UFJCWC03dEdoN3ZHZERSTVZLakZjZkZTd2Z1ajlXRmh4TkRKcTN4SndEWEJuQW9kNnhmREM1WV9TbldweDhhQzJYQmt4U01UX3JTdzJIYTFlRjg4SnN2T3pXNnloT21NSHdLVkYxN0NSc25MTlo0SjVKUU8xOEZ1d3Q4REJSNDRwU2lEMTJ2b3pldEdtUXI2Zm1sR3hSQVJzMWJBRktYNHBPX0lTUEw?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Cabinet Approves 'LAccMI' Scheme for Rural Transport",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcU1UVVdvR3JZMVgzcmEyVmNQUFJadTNVaGU3bE42bm9sSjVVekdWNjBmRU5ocm5GTWU2aE1nYmxwUUJBblUzdGdKLTBaZXBkeHVYN0hITjBrRHVfMDZ3RWJhY3ZzV0wwUm5kNFNvamZFdDNPeEVFQ1VVUVhIZmVrUUo2LVV5VWpFejFqd0ZOV3ExbEcxVU0zdHBjQTVOOVpTZTFJcF9pdmlwNEdhbERTZlVWMXlzUU0xX3AyVGl6UTItay1wN0JNVkVnYkJ6VGI4M01ta3d6ZHM?oc=5",
+   "published_utc": "2023-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pramila Mallik resigns from Naveen Patnaik’s cabinet, set to become Odisha’s first woman Speaker",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU180N1l2a2REMFVGaXFkQ19qeXg3eWRTX2Q5aWRrUVV1aFY3OFUwUFh4YngyclhZZS04MzZMOHpEN1ItNjZTLVJRR2F3ZzdyOV9yUmJlV1hkVkFZSUJjQklhVm00NS1uQjd2aVhacDBCM1c4dzFla1pwTnluQVhMSE5OZVUzUElvZG1PdE9ZQ1M3YnFYUmlHa1ZPdGlhWHRKM2RvWlhDWElrUUY0Ym9UNi1wcEFhaGvSAbwBQVVfeXFMTm1OZkJLUHRDc21kaXExYi1vVkFRSVVWMEYyMGJ0X2xkQlljdnhsdkZocEFoN1FiTGplUnNuRi1INm50NEZjRHhiQmtJV2xGbVNCbFkxeHZSNlRvbloxX1E2U3hFc2xHYy1RNkl1M3lLWmV5QXVOV0RFbDBxaFE2TEx1bGs0SW1wb0JMSEpOZ2hHSGdHZTFld3p5SDVVNGh1TUU0bzRoaGxOTmdVS0Q5WHdjTFAyMk9hNkRwXzg?oc=5",
+   "published_utc": "2023-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 Odisha BJP MLAs suspended for throwing pulses at Speaker's podium",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzhwVDhiWU90bk95bGxuVlBYWTZIaWtMVzB3Mk1SRXpjQUY2R2Rnekc1U0tMVFBWakltOThWc0djQk40bWFHWFJkR1lVQXhJbEVkaURzRHhwSERwaXVXUkJtcC1pMDFzSGx0VFBuWkR5T2lBX0QyS091a1NzbkIyU1ZqYVVBZGd2LXgyWGQ0Sk01c2xhOTZaTzdXVkw3M19yc3I3LU9LRExTWmRNZDN6WEtraTR1RWxRWl9pcTJ4UXktT2V00gHKAUFVX3lxTFBsVm41MjNpWkk2SkFoWlBQVUFlbWtCdTFNd3pfaGYxYjNMcWRVeUg4ZktudWoxbHg3cWhwSW9vZXgxOC1JaHFwd0F4ZDVmWGhQdE93ajNhUy1sMUNYRWdNb0hPRlBvSlE1SXpvOEZ1a2xXSU9kQ1VSaGwwakk0Qk1kaGpCZ3lDM2YxaUQydTFjUUM2TGNGVFgyUEh0TlFwYXhFWmZCdERfUV93Y1hVREtGV1VBR19PZlVwTzRSZ3M5OTB0eWhvWURQUlE?oc=5",
+   "published_utc": "2023-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: T-Shirt With Pattnaik Pic Lands Officers in Trouble",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTUxaFNrSF9XMDNURVZLX0x0SktjQmJqRDB3ZU9CSUl2VHJucFNjLXVUdnJON1ZmRGM5OWNUdmI5Y2NPNFFzeDBwMUZNeVprQzRTWGdabmIxZUJfOFlpR0ZGOXhqWmlaM1hpdVBiVjRBaWZ5Vl8zWjMxYVU0N2NsWDFOMmRzVmFrSXo0MWZ1REFpT0lGSlkzWFBCVnRLa2lNU3VQUU5sb3ZjdzhkY28yQ2oxODRUTmxEWVU3UmF0RHVOeVNDRXNVcGln0gHPAUFVX3lxTFBIZmZFdUprR2NuT3hLTzZkQ1FwbjY0QXE1RUZEWlJUdVNxSEJPdmpyMTJFd2JKaTdHUUlsWDM5dUNrcFgwTmFUTjNXLWFrTzY0bUV3eWlFOVkwTXNKX0lKY0NFeGZYMkxLeE5ENTFCTFpDRjhWLWMyZWVpMU85R2JBMHRGQmRqQS1zVmtOSjQxb2Y0a3RyYnA0R3hLM0N0WkFxR1FESzFwemk2cVNYWEVyOXZaWUFGeFBaNUhYclZKUUoyb3cwaDNtV0hEZDMzYw?oc=5",
+   "published_utc": "2023-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

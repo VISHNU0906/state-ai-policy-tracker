@@ -1,0 +1,69 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "AI: The future of precision agriculture",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDE1MVNuaXVBMzdxekxOZTRHWW9Edm1ybGR1YVNUNDR3Wms1QmVVNnBicEdhcG9oNTRaOTc5Y0dweW5jVTFRWGlnVmJIdFlQazhlVnQ3Rkg4WmdMQ1dYTVE0MFBrd1Jzc3RmWUZqWkcxSWktcWhqMDI4ZkxHSlgxYk0tckdRT1JGN2fSAZcBQVVfeXFMTTh6YTQtZExCc3pwMDRiM2ppeXRDb3N6Y1FlVUkyQXdneXJKZlM0c1JNczJrLTIwVWo4LXpOWm9qVllGeURtWE1jTGFudG1Ia1JDSWFsXy1uVnB2MWZKejdoQkNBWjNoVm00SlRwelp3cVY0dVRDLTEwS2NFblZ0aXhnZW5jZmFBcVFDRUg0bGtVVG0taWJRNA?oc=5",
+   "published_utc": "2023-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Coimbatore city police deploy AI-based facial recognition CCTV cams in Kovai",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX3R6eEFKNEJaTXZidEs5bUZETk5hbEdWMGl6dDNzZDFqaXRRbUdaMXdGd0xKZ3JReWUtaWVtUU1FZktVRmxBMEdrcGVwYllIb3FHSXZ0X1dCa0VwT21jMGZ0djI5UTZGTFItdjc0d3FVdTI5ZFNkMklFVGNFSkpMTFFtMkg2N3A2cmhWSnBqQkt3LUVNQ0lOSXdrc0tzamhTLThDZUJRLVFfNEZmVmhRQXpsV080RUx2VTNaWkt4Mk1udkVNalBmcHlCTUZrMDFlZERhZktaUkR5aEZPdVhwR1llNGpROXPSAfQBQVVfeXFMTjNobWdWcUNVWkpuZ081SlRGWVM3dGc1dTY5cWwwTFpldFNkVEs2Z2lUbGRwWWhMQTFoRFFpcU9VaG5NYVNHSE1NUFlQWlhoRlYyaGFKZ0E5bnE0YjZNX1VlWWdJNUNwT1lIQ1BDNFRHbmJSWXA3ajJSdUo4UUh4UnpydkxQMUE1S0lVVVVrcENQbjd4TWZVNjJDcFhFMnB0c2FfRDYxcFBZZzJFdmc0Q1NMTW5RQnF6c3A3dlBHQmdMTnFvU1IyMERwcTMxLVRPRTREU2tVUzZYYmozNFg4QWR2V3RYSllyUlBDb21Lc3J2N3NxcQ?oc=5",
+   "published_utc": "2023-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dead Rats In Mouth, Farmers Protest Over Cauvery Issue In Tamil Nadu",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYUl2VGh5Q2ZsWWpHQzZPeVprX1BoM0RkMjNJU3lOd0lQb3Qtdy1Wa2NQV2dINTdtLXc2YWxJaUNHZDNjeWZYQWs2NjBvakc2UENrTnl4dW10U3hBdnFnSWFUS2tyNmliQWl3bkxxRWVldU1ZaEFQS3czX1djODRpMWE2RDNfRHBtM2ZuRjB3VE5nYWpMZUxXWEdaOVByNVl6djlDUG1qUE5BdkHSAbMBQVVfeXFMTkFyTUV2QkgzRmtUckI0M3ZCOUdWSEtlTXJKMkRENlkwbUxrZ3VVY3lyQ1N1dGZSTjkzY3d0Snhod2xpNVZ4ME1MaDBvOHJRaHJfV3BjNm5NdDNOMThpVGI2ZE5iX181Rm90eGNfMm1wMzhJbUllcUVRZVlhRXBkMGktZ3RlN2Q5TTZrMFZ0TzR3eW5HX1JVOUhpZlFtNlNPUWhFNzg5QWtKTXdJMFZHTU10QzA?oc=5",
+   "published_utc": "2023-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How ChatGPT Might Be Able to Help the World’s Poorest and the Organizations That Work with Them",
+   "source_name": "UNU | United Nations University",
+   "source_domain": "https://unu.edu",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTlaaWZoWnF5T2paNzRRLU1qSDYzQ1pFZV9FZ3BiMWlTSWszLW9KQW9QN055aTBZNjgyd190WEZsQXJOODJiZ3RNZUNDR2ZaQlMyS01heHA4ZHlCeW1ib2Q1c1NwZG5rNjVOdG9XVFo5QktHVWFKVHhjYlExVG02SXJlSjFwc0FXZmFfOTdnNEVNUG5Tb1BEamVpTWt1QQ?oc=5",
+   "published_utc": "2023-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tribal girl from Tamil Nadu becomes pilot, first from community",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1l5TENTbWozT1B5TFExb1Z4aGs5b3MtSjlLaWZwUGhwWW03S3R4LUlNbDE1aTRLU2dkbzdQdXBzVGFndEVzVVpCeldYRDNVYlFLR0Q4eG80Sk1mX3UyckwwV0RaVlBRYlFfOXJzNEU3MEpnak5oTk83S3BLQTBQci01OGRZRVhJOWZwcDNJZW5RcGdwdjJoaWxQc0MwaE1HUDhScmVnZEd1eU1YTUE2N2ozSEVURVZteUxJ0gHAAUFVX3lxTE9lZWlhdzdyVW8zSWNyaXZDc014bVJmZm45S1hOSTFpbHQ2ZzRJSVFSOE1mby1wUUdJOWFuSGV3bzA1dVVhamhYQWZQYzZTek5XaXBhdmNpU1RqemVDV3RQVWIyRmFNWkktT1dmV2VjQkFfLUdjSElodVRmWWZyRWJQWEh3QkoyOV9QaExKdzFjWmxVRUFVUnp6TDRwbE5nR2Zsb3V6OFNlaEg5MU10bWJWdU9wZ3FpWjgyazJ1Rl9Wag?oc=5",
+   "published_utc": "2023-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Not A Single Navodaya Vidyalaya In TN Because Of Politicians Opposition To 3-Language Policy, BJP Will Open Two In Each District', Says Annamalai",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPazNoaW1vX2x2RDFIdHd1dlh1QVlVMDR1cG1pWlN6OVJrTWdHMU9FbW5mSklGLWtNb3BlQ0JnUXNfWFZNR21rUHV3cVNTbl8zVlloSmZrb0tDLTJzcTBtZXhQaVpiVUNUYWxaZEF5djNsSTdJa1NFVkQzaWRtbS0yZ3ByS2lkbHkwR2tUM0d1b0FRRDRRX3ZaaUdzY1pZWEFqTGcwOUlpc28xbThuQW5qMjExbFdkWkcwU1dETnVwYVBMUkJOamlvMEZ3aHg0bUhpYlNXckkwNFRkRG55cXpuOW1xVHNERnpOTjhjRTY1YVFjSWs0TTNoTFV4SUJocTV2RTBlNklnbVjSAZgCQVVfeXFMT1BzRzFEb1AwNlZSeENqZDlwZ3hQWlQ3RmJGNkRRaVdqYXpjaG85dVVtY1lSeGpmUklsMEY4d1FmWm9pS3QwQjRKX2lPNjRtbWdVbDdZcWFVemNEclUwRi1uU194Nk5VN2JFYXpidGhjZzdpNnROb1RtM3FYNjVQemdZYjFsRkpJMk16eTI4M0tHeG5xQTVhaUNTUUI0UU4tMVZJRjBGb3VHU0c0UWl0SXNQRHVfdC1ERzJWaUVVU2R1RUdRS09uMDZZZGN3dkp6M3dPMm5OamZTblBteWxZWHY0VXFBUDU1Ym5jWUliVkVPMGhDNHlvaGFtWmpLLUJmM29tT09vejVrTDBCME1qY2JJRmIzRFAyNw?oc=5",
+   "published_utc": "2023-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Man Who Wants to Defend India From Modi",
+   "source_name": "Time Magazine",
+   "source_domain": "https://time.com",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeGVaakUxT092S2NNWEh5dVF1bGlhQ3BMVFp4ZjAwQ01zSWZiR3FBYldRODNJcFp3SVNTcVRBRTQwVFZ0UW5wSU5URVlOS2hlMk5weXNEZXZ2UXlaOW1tR2VnYmNkQThkYzZZd0lybGd6VEM4WTdrdw?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu appoints IAS officer Arun Roy as new industries secretary",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHBaNlJzWHFfNUhrdTZTVHhVV0Fxc1hfOHMxcmNkaUlkWThzel9pZ05EbUh0Nkw0UFpOaU5jbmN4WU5qbjBNb2FQOGFVbEczS09oNEJ1MVRKdXVjNXBKakZnZ0FaNkU2RGtuS2hDVFd2VC16VFVBTGVvM0pCc0pDNjJFaUpZc0JKZDNwaDZJeXROUzRBNGswME5yUEdLaUFEWHc1Q195SkswYmhzUmpuXy1YdTJqUUdVRWRpNWpwUzZHNTBfMG9Ud2x5SkRiUkHSAdQBQVVfeXFMUFhDTmZPWm5SSXhuQTZLNThnNzBIcXhpY0ZWVWlZUktnWi1zU2EyRHVIMWpNS2xCREJESzVSV1FuVk43Z05fUjR1ZjhKUFBGTmt6UGx4U2JUZUcxOHo0ZHJPTjFkWjlTZlZpQUJvUm1URkFSMjVqMEgwZXJtYkFrQTR6WFBjdEJPZFZKQUpSWk91aENLS2JHUWxjMDlDX2hxaW1UUkJXdmYwaWduYV9QeThmenJxZER1c2tvdGNndTVQUHZUTEQ3ckd5bEFnN1VUSnhzMHU?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

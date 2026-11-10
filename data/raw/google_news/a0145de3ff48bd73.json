@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Rajasthan: Smart classrooms to be set up in ITIs, monitoring through 'Kaushal Darpan' app",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPa3JXWGRGZ29ValJRWVRUUnplNGlZQUE4NzJzVHpNWGtCYWNGOHA3NjliNk9qUks4TkxDSWlXenNtV0NzcF9FUmtOd0trdGt6THBqeHFtbVYwcC0xNWNNUnJSYS1BRFQyTWE4SW11SlB0cEREZXFZeGpVcnRfWkZzdnRvYkxXVU01eW4wck5SNlBrRUhJUHpxS0hHYy1DZzFuTnBVVkFNRkNZcG9hUXMzSmhKWTdzTzhLTHRVbUdJMjVFTFZBRk4yV1lDNmlPSDdWbGo3Wms4Z0JSM2UxTEFhT0FvbzM4MFpDTTVpeFpXSjRXQ2PSAfcBQVVfeXFMT29DalN1RGFmZ3pHazBjNmR0OXBsaHFTN19BREQzcjRnQzZXNXRjekJZRy1CblVZYWZuV3R6VDJjams3X180RWZXOVJjVTEzY0lkOGdLV3RJMExfNmJBejNMeTNUdEgwN3ZpX2VDSnNNNkpkRUctR25xczRJQjRzb2c5TnE3MUlvZkNfRGVlckJ4cm5WS2NmVHpJTjN1U0w1MWlGMGRDYWN5SHhRME5XRExHZGVTWGJEbGdJaTh4Q3pxbVllNHRvUDd5clJGbklYeDhiSTdxTFVfbldyYjlLZ1ZlS2tMeVlOVjZJOHB1QzRkS19HOHJhaw?oc=5",
+   "published_utc": "2022-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Free me from cruel post': Rajasthan Minister Ashok Chandna to CM Gehlot",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHlybUtqMFJzTjc2U3BvV0d4em5DaGZyUEN1cFlVMUhyLVZ1WlVxenA0blhnekMtUWxBdkZNM242NHdLWHRweVdic0NhV1NCR1ZXZmxZWGw4TDZyUUFTbFBYVGhiSHVPUXpjRkFadE8ycUUyOW92ME5aeXhONlF3aHZnZFYtdnVWMDBmZHJ0eFBUWmZJZktkY25RSS0xSGtUWjJ6MnZDQmFGQjdhcnRxRFBhalJJR2pTZHFSY1JWMVVzaEt6S2pvb2ZWQ0cyWE04Tl9rVUQzcEhFQzhhYU5fWNIB5gFBVV95cUxQOHA1eUdsSlhiMnZiclR6RVVQNGtBVjNmRFVoNTJfTVpQcF9rNHBLLU5LNlRLb1JORUNTUTZJM1ZmRVN6c3ZOTXJ0WTc3M1hhVVVCcTA0VERxUGk4SU1BeEJwc2dJeXdfNnFoRXVvUm1ZX0p1dGFHT1JDdklyV0xRSmZpaGFfVjdNeHI5QkYyYzNzam9sVFNFNkh4dEpOajNsWElncWlDNkNRYjNrQ2otTl9HOG1yelFvdkNPQVJoZk8xeFFIcUVFSDR2Z1F5bmRRaURROExCbVlhMGJNZkpnZ05SVlJtdw?oc=5",
+   "published_utc": "2022-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

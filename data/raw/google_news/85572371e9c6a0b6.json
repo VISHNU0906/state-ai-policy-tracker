@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "Raghubar Das sworn in as Governor of Odisha",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQjdjeUhmT3RHV3FqSksyUThVZVBoREpuYUR3WFhoc1BLa3MtU0ZaSFFPVHMwZFo2cWZRUTlYMm80ZTFLMXlmdzQ5dDF1dFJrcTFZMWhDQUhTWWVTQWdOdWVEOVV2Z05lNnk0em1LVXAxOEhueUE3Z25BSGdQTzRIN1FCaUM0MXo5RmJCeUgxa1NQUWZLQXpIVFI0M1g5OUNZZGfSAacBQVVfeXFMTnB3dzBzLXNVUzI3LTBWWndzU1hDdjlveWJFdVF2WmdiNnpFdVFSYzZXZndYZFF0cE1iZU5KcDBwZ19FMktMQ0NLX0dlcFV6N29BdEh6d2phN3A2WGZLVkxjRTNzNWZ0N2htemNQZGZkN3dsYlZ1YlpSaGtVQTJxM19lc2V3YzQ5X1NjV1RMaHMtTFRsSXUzQk9QWUdGS1hLME9TbldtUmM?oc=5",
+   "published_utc": "2023-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Who is VK Pandian, the IAS officer whose retirement led to a place in Odisha CM Naveen Patnaik’s Cabinet?",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOekRHbG1qdDVYLWZuWWlRTHhLV0drWTM3cC1XQTdETl9qMU9KemlhaExpVk9VXzZUU2dHa2k4N1E2X09FYjdEOUt3ZDdoazZxaWgtb0xKcUN6Nk1oaHlOS3ZTbWJzUEhsOEwtWldUWFl0cnhJYlZwLWI1N1BBcS1wbmc3UW1tbEZvSTJQZGIxa3VRSGt3ckhjOF9qX1hPbXhCbWRuY1ItMGd4VVBXdUMyLURzSmU4UG5UX2VsRUMwb1Q4ZUR3YVlxVjdXOTI1TEhlc1RJbmZhcDV0bEtpOXJCYlNBQzVUSHV3YWxlWEFDZzTSAfYBQVVfeXFMUExERXowNHpTSWozQVhJZ2VTSDBpSG1SU3JCUno1eXlhSnlQYVFrekRGejNrdXZUeV96Ml9LMUdOVU5NVGdreUVQR19GQTVtU0VENmxCNFhaMFlRbVhnRlR6aDVDU09SZXZxUWdmbFVad2lJZFhLWlZuc3lpNFd4SmlNVnFBZXF4bTk4RGtIZ1lSMkh6WVRIVWI3N1JqY09lZHYyaG15eF9raG5IYUNjZlNSdzZlT0pCVE9TOTNqR2pNelJWd1ZRdmkzSFZVbFRLbVl2dUZTZk1zdm1ieGtHRk5ReXJoYW92eXJ5TXBPTkI1UmVrYVp3?oc=5",
+   "published_utc": "2023-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu ex-bureaucrat V. Karthikeyan Pandian Odisha CM Naveen Patnaik's successor?",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSFg3ZDV4QmhkeDNXMGlZWjJmMkdQajN2c2FfbW9vZWoyTG5LR05TUUVldkJIYThXLWFnTEQ1eU1kclkwZkhfeGx2dUdyb24xWC1BeXJFeFB6Mm0tTU0wc1RSTTB6QWhaYU9jczZOTFhWX3Z5SzY4aGt0b1hRSTduQml2VXU2ZDdQOVJJbEtqc2w2bmN0UVFNbmowSHpRR3RGUTNVMGliZzlFcEt3YkRNbmItVWJwbXFEdXdJNXZTVW9BVFlNOS1OM9IBzgFBVV95cUxObzUyaEZJYmFyamR6RzlLRTBza19tSFBYRVhleUZxY1VOX3Bwejk0Ykp5VDMxLWdkNi1TUDR6a3BGdjk0YWhXVFZuWkQza0NYOE9GTUdHOU80NV9ydlU2LVFrTkFjemhSc2EycHRRWkRaYk41SV80NTdjdTM5SkVMNDVLVnduVlUzMnV6TW1DNWZwek5SWURjVlROZUxrTDFOeF9YLW9rcjlUeDU5N1VFQ3pFVnVobjNWVkNsY3ZnQUNVTnVIZHl6R1YzVGJ2QQ?oc=5",
+   "published_utc": "2023-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM launches LAccMI public transport system",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUFmYWlfX2RWMjVycXBJY240NlVCT19qTGFpNTRsV1lyTUExd1hTRXhjZG9QWE5sRFhaMXFPSXZTRTRZTmgyek03UGc0NS1DOGtZVGZxeTZLTEl0LU5Cb2dvOXI0ZEtab2JTdHJ2b3JOMTJoblc1cy1EaTlqenRNQ3EyU0VpekZIWVNGcUNBNklqYmNQYVM4dEQzM3hlZlRLOWRGX3dzaUNjamQyTTFjQ0tTZkE5RjBrNHdoNGlhalA5T2VFVW9N0gHLAUFVX3lxTFA5QzM1YWpZUmZDTGVUU1JIcGR1NkFwOExlNzJvUWxVTl9QZnJtOGJaQkE5NEpqcW1zTE9malNVenZmY29QRzBsRGI4R2N4NXBXVm1CdUVIZEtfVTNxWjdWRGxhTUdfLWo1WHNvWmdLWEFiREYwa3ZxYjlHTUtKVXE0YUcwX19Zb2hwNTFJZ29OWmYxVXFNMERtX1FsYkk4MnR1QWx1eEtubXUzSHJqV09sek9QeEx2Wjg5NnI0QXhzTTJEVFJMb3BWdGg4?oc=5",
+   "published_utc": "2023-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: MLA Treats Patient as Doctors Remain Absent in Govt Hospital",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnh6djVFNjZ5dE5xUkRiWWZLQldUZl9WRnZqM1BnaC0tVlVQTktkWkRseHk5T2Y0aEludHN3NDJvci1jLUpfeDZ6YnMyZmpDa2NKMW1vbU9rR2ZJTWVjYXp5X1BlWEQ5M2ZMdUNaVnBzTjhtTjBGT19ETWU2RUxzclB2UDlzVWxhNjRBUjF4alJ5clBBRkhwSWlyWUplZm1JRDg5cGlKUGhyOW1NSUl4R2ZGbzZkdUU0THo2SEt3cG5HM1A3SnlrR3luUHRJaWPSAdQBQVVfeXFMTWd5RkNldDBaeng0S05kbDBVeE5walJVNUNuc3Y0UW95ZGFPYUw4U1p4UGlKUVpxXzJaUnpUSXZabjV6Z2VhbnhpaF93QmdHYTljUGd1WXZWRTY1RXNfakZMVnI3Y3NnMlR6TlBoVHRqLWtjZUYxeW9QZFhBMEx0S0xsaHk4akljVmdObTVPUjItV1FhUHYxZVNrYUdCYW93LXg0LWhZaWc5WWFOSnJVMUthdXZaOFBrWWgyRlhjSHd3QVgtM1ZWYk5Xd1ExdnJPeEhHVXA?oc=5",
+   "published_utc": "2023-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Durga Puja Gift! Odisha Announces 4% DA Hike For Govt Employees & Pensioners",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczVuSU9nc3JsWnJhaWo1Z2M4RVZmdlpSVEREbm1wX0l6NmlaSzQzQzJhZ3d0VXhBWVFDNUhDM09UbGU3LWlIRkNja01VMUpPQlB1WjJGeWxUczZRdDMwNy05aEtuR0ZRZnRSVlVNMjhBQndhcFAxYnI3bTB2aHM4MEZOSTVNdUR2Q01NTlp6N2MzaDNGT3NwWHRJbDhPZ3F2ekFsREJZQklxdU9WZ05hLWMtU3l4bWxleldYNVhfdEQ1aWppaUtzLdIBzgFBVV95cUxPYnFBaElEeEhTLU03UjlKb0JvM3NvTVFqZ0Zfc2E2bkkzOWxaVnhZN0Z5SGc4QUgyZ3FSR0NBVy1HcnhuWlZrVkdMRnIwZi1xTWZzSHcwVHJ1Rm1UcFM1Y2REd01GVGxhcGU0MnJSOEFxUVJpOERBZXR3SGM5QnlmYjdmS2I2LWFLQ0g2RmdXczRpMjhubTUxeFJUYXp2MlN4Qnk3NlEtUGpjbG5KYUZQaGo5OVBDZUNCTHo1MlFKb0hoNklrR050VHJFMjVxZw?oc=5",
+   "published_utc": "2023-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Private bus owners in Odisha on indefinite strike from Oct 10",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDVfR0NXNzFtMjVxZjNMc2xTXzVtWE53OEotU2ZaTERReWxYQmp5SmtmNFRoNGo4RlM3ck5CTzYzaVVtMmk0a2RVSlJjX2dvcko2M0dUT09Da0hya3lLTVBHQUJCeGhnMHdqNk9UX1dLbjBDOUpnNHhpbU1Hb1lhR0tuUXRpbk50UnBFWnJBandvTXRGMTlSTWUzUEdvQWVIUXdDNDN4QjYtWjAwV1hoQm1ENFBpcGcwSE1ka09qci1uNlZiZ1ln0gHMAUFVX3lxTFBJUGRvYmtVeUVSREFYRXVVdTJ1cVRGLWtkUUtkTXR0Um5hRjhJV2hETFJabExWRTRHSlAyVkVIQ0xYTFVLa3hXQ3FSOUgxWm11RTc4ZGFRUWVEUjlmUzRLa0VRZi1IRldTNHFqS2VWV3ZYUHVlRXg4TzdPeFVMZ1d6dGNOdHVXWEJTbm52TDRsbTRRdVdZdXN0S1I3UUtWYVp1cGdlUjBuYm9ZczZzbHA2UzhyV2tkQVg2YjR4SldRNGJBYzJhN0lHdldNbQ?oc=5",
+   "published_utc": "2023-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Imposes 7 Month Fishing Ban at River Mouths to Safeguard Olive Ridley Turtles",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRi1LZnJxclpWeHJrS2dkT0pfVHdualNQb2VFU0t5aXFyTkU1WkJQdk5WTEJOOHBGeXU2UnJOUVBhckttUmZobUMxUlFtMU9hSTdzX1JVWFJ4TlJybzlEbC1fV0d6Mm5KanMwNEFuODVHa01kbU5pOThCNkUxM2F0M1BaekVBbnhDV1ZwR1Vvelhzc2ZsbzRCSTZoTU1nLWFIM1dwV3lqZFZCUdIBrwFBVV95cUxNV0dibm40N25JTG5jWDNJalI2OU1PcmtTT2V1TUFtbzNPbWZPdVZkVWxFZlMwci1hRE5TVUl1aVlibGpZdkJtV3BtT0gwQ1Y2VDNmOXM0VW5uY0hzcFFRR0wzWXRqb0VuTU5tZG1KMVFza2gxTzRaNDNXR0cyMlloRlRDRGU1dlp4OVdtam9PdUp6MUE3dmxBVkpYak42c3RjT3EwNEtBcV9Cai1xM3Rn?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Congress holds show of strength in Puri ahead of 2024 polls",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXJkYmtldmtpYTNFSTFaZDZVQlBpQ1hMRFZlamc0X2l2T3hBZHpvdVBITE9yV2VKWk1VZG5zZlFfcHJsYkhGbU92WHFwbGctZjk3Y1ZLcmczT3ZSTWNURFlYWnhEMzdkRE55Mlh3UTBEOHlycmZlVU1QXzdfR3M1dElPZTlleUU1T185ejJiZ2ZNMmR4SFFYQzJsdmtlZjRGOW5vRFRDR1BZR1RyLUlXY0JKRF9pWDRGeERmQWZFSkhhRWE30gHKAUFVX3lxTE5JUWZDVDlncXNaaXBQUWladktyVXR6MEFIUGdRdFE5ampESzBzck04a1VSYzBibURUSDFNZjMtUWstWUVqMkt0WldDOGlSbGx1ZXY5YnZiRFlQM3dlRkRTUW5xc2dSVXU5TDFrdnNlOFVaWG1lQjQ1a1lBS1NVYnpJOFFId1RiTmVFUlRFZlExVU54MzRrTE0ya04wV1FRR2ROLXNmZ3pwNFZhYzRudE12dm1XRUZVMk5HSjlRNHY3YTRuMUZaM3ctOHc?oc=5",
+   "published_utc": "2023-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sigh of Relief to Commuters in Odisha as Bus Strike Put Off",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFVHb19remtJc21mZDI2MVQ0NTRLWWhzZVRHN19yelM2ZDVUMnVRS3QzT29fWkFjdW1oWnp5a0V0Q0RIUTJVQWg0Rmwya1RPR3FXMzQtUE54MXpxTUhCSU92LUpMV0dhTXBJbTJseGtiUXA5SGdMSnNzOVBjc0FnNHZFWDhsQXR6WEFpc2pfM0FrdVdfVC10WUtJZlY0U0RQSjZkVm5XcnRTSkNQMUdLZTNHQm5jSFlBc184eGI2VHRiRFlt0gHKAUFVX3lxTE1MdVVfeVpaa1owaWZfM19rdHFJaHZGVDh0YldUWWFBYTJDcVpzSk9zdjdpdWp4YWpCS2dkVXFJc29jc2thQmViSHg1cnpwZHdyMFlWcE5saGRwUzVTUWppYWdoay1fVGFfOENMSGNIckJMNHJVZlhQUk9qYmc4TjN5aVRmaGNQTVlCOThxUWo0SnZlUzVtN2NBREpyQUZCT3R6VndmUTVjTjJiYWJyZnhZcS1tdGZOaDl5Zjc3aGtEYTB3OHBQYjNCclE?oc=5",
+   "published_utc": "2023-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

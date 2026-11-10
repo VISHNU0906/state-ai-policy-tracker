@@ -1,0 +1,21 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Bangalore to Remain a Key Growth Market for Data Centres",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RSVNNUGJpUTlZNU45YU5XeDJjdlZna2YtUGlUR3VfTzc3clZjb3JsMnVzdEV6MWpXZXkwYmVVRzhOZ2hhTS1GTjBvTlhDb1Y5N09EYWZSY0stOGo5al9BR2gxamFIS2dLTzZra2ZqXy0wRVRxd1ZrdFh0ZXNQZw?oc=5",
+   "published_utc": "2022-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance gets only one year to complete green energy project",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEhwTmRqYVJYVGZsc2tXT21PSFJqbElUbW5xanY1b1R3dnlCUkhYajZiMXJuM2c5SERpYmVtT3JodDlmYWV2UTdOQkcxaVp0UTdVMk9LUWNNVUFNRmJMUkd6WWRHUDZTem41Z2MtREIyX2d2SEE2WEF2Q29JQkExMnZyZFBTX0dxNWs5NDV3UXhPalV2ek0xTUZzOE5SQlNUak5Vd0MtYmZSb2dOUEJEaU9qSTV2cXFSdlE?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

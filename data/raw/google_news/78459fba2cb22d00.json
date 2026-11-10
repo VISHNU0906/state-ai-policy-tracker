@@ -1,0 +1,13 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "Maharashtra: Chatrapati Sambhajinagar Division Boys, Pune Girls Win U-17 Volleyball Tournament In Boisar",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS21ZRUZkSWtobnpDZGlsdkRXSnkzdWFDcVdBbnVTMnd1eUx1TXh6NEpwRUg2SHFEQS1tTjU0VzRrZzJBZ2hKWTRfOWEzSGFoRVVVUGpRcWdaWW1lWjhHdnVkTVk0MWJpeXNwMlhub2pYVUp4RWdFZ0laNjJSbjBESjA4cXVSdnViZ2o2Z2duZ2ZVbHBFTkFndGhhWVEzdEd5RERtQWhjcC1YUVUwaXBfQ2ZYeHdWdmxEZGdPcUFlNUt6VzMzd0htdm5oVHExQko2X2hWa3BCTljSAd4BQVVfeXFMT3VnMDZROVYzR201MVdhOWo1WHlubEZ1dThHT2FpejVMNFFwUHBySHVhUS1OdHpsa0J6R3MyQ1JoUlRGYVNGSFJoaXdKMkJPSDkyTmFGZXJpMkZBVkttdF92eG9GcWc5MnN1RUUtRFNtc3JCVkV5VVlqNXRxbTdmZE53amJyWUI4OVNWNWNWM3I2ZFdpeW1wR2hhM214Y0MtN1RRb1hMSTRfRTM3bFE2YnB3eW5rQVRjY0lDcG1FTnp1ZF9sLUFkaGhxcmt6dGVKeG4wRU05VWYxNzZJc0lR?oc=5",
+   "published_utc": "2023-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

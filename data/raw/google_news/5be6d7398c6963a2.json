@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Six interesting AI startups in Tamil Nadu",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMb0QxT3BqY0hzR2NOS0dENUU0UFJmRkZILTlVTFVERTJUZFREYm1nVTZwYTdfbGJvZExsMXh0dEYtLW9tZ3ZhbjdJQ05Zc3hlRmFjYk1oRW8wc3ZPcG4wNG1fSzdTMUhHdFJKWThlY1ZKZ0xWWmFYZXVoUFU?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu, Microsoft bring AI education to 100 govt schools",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzhPbUZJcGd4RzdxRE10dncxRkpCOFdVQUFBUDBvNXJlajNsZVJmY3BHU1RVU0xfcDNza1RidWV3T3dMRnFocENoVzdZbnhDcmZYYnhyT0x0T1g5TXAxR1A4R0xyZzliaE1qdEtXZ1oyb1lMT0FZbDVhbjYtaWNybEtFdUdDb3B4SVdPTWRPUVdqRkQtckQ5RzBPLWhSUHVYdF9PT0hHaGV3cEdiaFF2ZWVxZ1dackI5aVRBMXpsaDRTMF9BU251d3E0ekE1c3N00gHeAUFVX3lxTE9fRDRSNDhTSFRjaTZVZUFJcWlxc01zX2loVTQxeXJFVGNRb19kTGVzSWhJdnoxeTZoaGwzaFkwdVNLbGlMdXRQd3F6SzIzUUswNU1vZ1B3cFpWUDdjd21TNVFvUE02ZzhYanFaVlhUWFVqUGxiSW9DTDVfYmktdGd3NlVZRjM3SVE5NUQ3RXZqeFJxcjhyNHJZQVl5b19xd2hUT3R5VTM5cWlyT0pURXp3Nm5JMFdmZkw3azJUUVptUDNMNlBaWUdaTDZndlNQZC1QRkhKWXplN3B1eC1MUQ?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Minister TRB Rajaa Speaks About Industrial Potential Of State, Chennai Flood Aftermath",
+   "source_name": "NDTV",
+   "source_domain": "https://special.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOUh6Vjl5QnkzZVVfdUxaV0JVd1JKTzd3b2JTWEVyak5IT3NodEhVeVFESGl4c19XSXkzcEZBYk50aGwyNy1xdjZFSVBTOURGX0Z2VmppYV93Ty1YTXk5SlJzWkluVjZ5bFVmRUZVWEl6REZTbkYwTTJvNFprX2NydDZoSmRGZTN0eDRFWmJZeThOYW43V3IwVUZRQ3lmd2hkR1F3a0hnZ01tbEZKTVhQUjFiRVl5MWlONkJYLVZmTHR4MkRJeXV5M3FPSzVwLWplLUhhalZiRHBVSHZ0Mmp2bHFpaV85eGJfb2RF?oc=5",
+   "published_utc": "2024-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Madras alumnus donates ₹110 crore to set up a school for data science and AI",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdl9COTBfNmExaHF3WDYwR2tOcUtLVGlTZ2ZYQUdKOGVGS29VTW1aWk9aQ1pzekVvQmhlRE1jYlZOaTBDSnFiYkJIUExzTGxyZVlGUktNUlVQZHhEejc2YUQtT2poNC1YWjBmNE9pUTA3bzlYdjlha01sVWJkVVhKTU5sQ0pLZi1oOTF6NmpjVjBvMkc3VVAtWUYzUzdYMHFFMklhRnFDUzQwNGs3MkRBOWQ4Wk1XQlBRNlpZa29SaWk3SnJ0dFM1R1RDeWZScWl2MGxJYWsyUVdOZHVGR1BvbzBmTdIB6gFBVV95cUxPUDRNMEhUVGZNbEQ2cU0zLUM5N0tieXNpNkk2elQ1bVVTMkNFZl9qZjdLMHRhSkxhdkpMN1hRSzNzOUNaZ3JnTnlXdXptT19iQW1xMllyR3VSeTVWTVpCOGZQT2M5Y05ERG9nWEZFdUJFUGpFNUlQeUtpek43ZEp0RVlyZjlfcTllWWkybkZSX0t5elhPaVpKd1ZaMjY5a3dfX0RmUENVZlp2eFlFSlNPdWN2S0NZYXlKSktnTzFGOHpTd1o3MVBidzlPZEJmUUpHcWlsNk5QbkVtU21Ec1FPVUJzN1BTRDZXb3c?oc=5",
+   "published_utc": "2024-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Spain-based Roca Group to invest Rs 400 crore in Tamil Nadu",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDd5R2ZzME45MGlzOVNNbGpmVUdyMVBOTzJ3OUJxSXhKaWxuNU96TVdzY2NVOXYtMEhnSFpHTk9KVU43TmMybFB3UmJ6ZlFtdF82WnA1ZWpCaG9KMFFvV2ZaOU1lMXlvVDJJeVNWTGZPYnNlTUFqcEJNYWNVVWlwY0ZISVpZVDZpeHBPeVI0REtRbXJIQVZMMFEwbzhjaXA3WTA0cHl2X3Fuak01Mzl3VHBPMVdEZXhHN1BWaXVxc9IBxAFBVV95cUxQTTh1UkNpV2dsLV9SNGZXNkljX1VTci10NlY4cFNXeUxEc2tobUJqN0xxYTQ0TGpCaWZFQnA3RGtUMi1PdHktMjVNbno4cmRKME01bkp3VGhqSXNFWTUzeUJJUzhiaUNzR1RGX0dhM2J3ZzIwMXJrT1hFZWtmSm03Y0tDLVRLVlY1UmNkc3RfQVEyVDBMX1B3T1RLd2g3VmhGVTViNWVmNW5EYWR3SW9Ibl82NWMxTnppMmVSSXI1b0NwSnNR?oc=5",
+   "published_utc": "2024-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chemplast Sanmar’s Rs 1,007 crore expansion: powering growth in Tamil Nadu",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHEwYk5Pc2tNMFFYZDBLWTJuTk1RZVdxLUVhWHRidEh4U0JVSFRTVVU0XzVRa203UWVhVVQybElfX2pySkRTek44TjNVcTF0RUprMGFCaGtmWjc0Mkl3ZW9UTDI5VFFGT1Yyb0QwM0ZVdlN1RmNXd2l4R0p4WkRGQXFLNnd3QktXdFQyY1U3ZWxiai1ZV3FSc1AwZTUtc2E5OERFOVMxT25mcGJrYjdlWQ?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Election Commission releases final summary rolls, TN has 6.18 crore voters",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU1NsZHpPTXlDNVpqRkNsYW1ia0N6QlBoYnNOSTZBb1RYRGVxQ0xiYXp1WHBDbTQtVy05a2w1ZV9QcHU3aGVsVmRoZGZiRklhUS1YN1o5Q3cwRWc0OEk5MHFVb0ZQaDhBb3B5Y0NraGdvY2tXOVo0S0c3NzJ4dWZMVXd0aVBZVjFOTFIwTG8wV1lSM0owYzN3TmtEMGNnMmwxS19uSTFnRm1SdHdsNzBpbzB6a2xvQkpwT1BQVUtMb1IwTDk3QkQ3ZWNXalZBdS01UjR2dm51WkdWV2daQzlXRVJobDZEXzhYSmRhdlk2b9IB9AFBVV95cUxQN0JkZ0s0ZWJqVkhHQVRTU1VHSy1MMnAzVzhMOUh1MURpMHFvcm1CSXJJNFRnRFpPOE5YanViLVdERVZhUWVDNWhva0VDYWJCaFpCcmdhQS1FOG51MldOd3NSYlpiaDd6M21QRkFMMGNRY1JQcExLQnNUalZpMG5pTENxVVlOT1Z4RS05dF9PR09oRnZLWUdsZExyUzFCdDRLX05ZOWVtN0ZsZFhfT3hDNWVrQlBXN0JZeWRDcEpQbVNPVmdOX1N6TTViVkgzTlM0OVNYYXczc2t2ejEwdDJxMTYyU29nOElDQ1dscnMyYWc4SjFf?oc=5",
+   "published_utc": "2024-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In a first, T.N. schools to get Technology Education and Learning Support programme for AI training",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1VkR2hmamcydE1nUy1NMHRZYjhMd2JuSEVobVViMVJhdmkxazdSY0VPbFdVd2JudThqbjE1YlpBMzFQUzdFMjl4TkJ2enpVMVBsTExFdlo1M1dGQVEwRVhSc00zYi10SUFNZUNHWVpZb1lsYWc3UW42ZXNna2xWS2thdExMY3BhUExvNXVRWGd0VmM3Wnp4YjFRMVQzeE5HSy03TXFId2NhV19ST1lsZjFuTlk5YlFCY3d2ckZhRjYwRmZhOTQ3UGowbE4ydjNfUVNQeHduMzBQNmtUVk9TV0k5RHNVbF9zS1JNRUg4eTRkQllCMVhKZ19R0gGAAkFVX3lxTE9uSUljZ3dSY25pVVowRFh3MXJSZEpoZV9qV09nR0RPTzYwdlNZbUdNc2p5cGZqaXJ5QkhtQzhzMXRnTlkwczducTFwV2Q2WnRxaERqVm5nWUZ5Y3pEdHdSWXRnRzNqZXo1eTZGbVpHS3ZEWXh2S1U2Y3BwQ3FBalVvTVZxNWxpY3BnY3pfMDQyejNadmJyVEk0cGRQVFZtWkVaeW9GRGJNZXpiQTJhWm5kZlM1SzgxUld1YXI2VkNGVDNHd2YySmc3LVpQdWVXWnByWmxJdl9RMHNwUjNXZUlreHZwd0p1LTJEWWhBemVtcDlzRXNZbDh6cGt6MGpJRmc?oc=5",
+   "published_utc": "2024-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JSW Group to double investments in Tamil Nadu: Chairman Sajjan Jindal",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSHdOY1JrTllIcFA3ckw0R0pyX1ZqX0E5LUpqT1FKY1E0eDBFbVQwbXBBakxhUXFvcGczRE5rS3pKekRCaWx5bWJfeWw1N2ZhM2FPUkZTVXNiYW9FdjVDMk40QTJ1bW5pUnZQMkpZdjRlVTVQVnlZT19vYUNSLThEWkNTcmRCX2J2QXJYdlk0dnZ3elE5N2dQSVVkRF84YjVneklnS0J1eEhrdkZ5dDdaRUNrUHE3eXcwa3pkck9WV0NOTHkxU2gtOXFvdHUxaG1XVlJpcWl30gHaAUFVX3lxTE03WjdycEdsRDNkUDV4QXNWOU56WnlqdFFMRWlmaFk1b1U1ZEp3cmtWamx5TENWUFRtNF9UNkxQRFNMWXVlOXZsN1dVczB5ODJCWXJkeDdBMkFHdWVFSXF3cWFHZnBuMEY4RlJnSUZhUHJSS1JvY0MtR2ptNVdxcmVuM3FsbkxiNF9PUDk2RDA4V0ZNUFVIZEtDN2RqR3JPa1B0WTFJTXRCaXQ2QmZ4Nk1LZ0ozSmtESkxyY09UUjhhT0ExQmVYbEpyZkVQR2M0ZDFtdkVCdDlNS2FR?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maersk eyes strategic investments in Tamil Nadu for innovative logistics hubs",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkQxTmdvUVd6N1FiNjFkZUN0QVRQckppWENGanpsVGNNR2YwaDJuWTNHVXRoNl91ZUJjUmxLczVKM2YycENRNi1FWlVVZTY3enpDc0RYa2hlSVE0eWlHLUg5QjB5Mmk2cjQ0S0ltdkl5Z1R3SzdkSWNoNkdYT054cjk0Z0Jadm53QVAyOEEzc2lYWlE0YU1mR0V0MjM4MUN1Rnd2SnU3QWxodHZFUGU4OGpVUWhVa053?oc=5",
+   "published_utc": "2024-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Maharashtra Government To Help Job Seekers With AI-Generated Resumes",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3k2by1lMTcwbE82c2gzWTF2UXh1YlJ4UHFRSkdiNFpUb0JZSXUyeDU1aU84NjZWYWZtZ09tVjI5MjNlYlpQQmJCeS12X3I5RW5TMUlvREZTM0hIc1VzSndpVHU2RzJmWFFWNVNHd2I5dGVTaFlWdFpLQ3ZsdDN6bmpoYjVBaFFyZGFKRVY5eFZMLUlWeTd6RkdxZmNGbHdyTDhyYi1VNW5pYjJ20gG0AUFVX3lxTE93ekdUQUlOci1iN2lzRnpOX2t3VFhmSVc5WlRPRDZkblVjSC1kSTdIU0hEVUNjZ0lVYUNLVzlrZUFDcEw5YzkzRGIzZEUwZjFkXzFBd3BOYWFsZGpFRVpFTnExdElRQnZ2TFlrenZyZ3NSRXBYOENVOUhQRGRDXzhONS01dmxvQkQ4cDhGbm90TDVpRHFtNlRCbTRqQXd6SGVtY0llUV84VXowb3d0NzI4SDRaTg?oc=5",
+   "published_utc": "2023-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Government Approves Rs 221 Crore Transformation Of Karad Airstrip Into A Full-Fledged Airport Facility",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcHV0bjhyT093dEpUcmJGRkNaWEh3eG5kdEJuX0w3VUU2Z0Y4LXNBZzlCSkY5cVFQS0dxUE9mNXhPVnRmLWNXbHdKMExOcnp1aTZScjEyeU14bkpOcDRkWS1Ca2RGWUxsdUY3NWlrelhWOTF2Nk9pUUMzTnZhNlZjV1RBZTFGMnFvQ3ZLODhlSjM2Y0ZWdWVoMHcyYktOckhRSXl2eHQtdnI2UW5kS2VFQVUzaVQ2SllvNnM5X04wLU1yS29QUzNuMWEwVm9JbGg3Zl90ZWxMZFRxUWFteExOZ2g2N2djMUNi0gH4AUFVX3lxTFAwNkMzRHBiNmVUc3hDazdhdGhTTzRmMnhsdlcycGpFSUdZYVI2c3hWcjAxRWxqVXhpMG50TTlSVi1wdXJSVUxHckxXQ1R6emV6MnZ4SDBmTWdPcDRZa0ZRU29JQmc5NzFLb3NJMHJ6U0FuLV82dUlRSml2dm03UHpRSTlDUU5SQUpvVG9FaFJsZzhaN09PbUt2TTlNZi1GYVVGWjlyalotWG82V2p2VURTbzh6Q25XUWtudFVoSF90dGFtdGM5U2tEemdwWGRYVGNtcUFzTVFBRGZhQUZRTVFXSzh2SUQ4STZyN2E4YzdoeDBMTXhYamFX?oc=5",
+   "published_utc": "2023-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt approves Rs 221 cr for development of new airport at Karad",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWMzTk8zVVZHRkJiX0JVX0Z5QUJCMVJGSVZSU1dIdklzODJCb2pQM1VBOFVtLU9OeV9SblZHaUF2Zk1XRmk2NzRDZnFCNnlpY0owSUV2WGQyNWZyNVZDWFRJSm9lT2ZmdEFaWnRzaEI5UXJveU53SzNYXzBCdmJ5TE5keXhlcG9ZeUJBMi1tNTdDX1V0SENwekd2NUN1WU5DS1hYbGZqeEFBX0U1TDc0VFd4ekZVaGNvdS1Fcmk5M0lmczB0UmhScDJsdGhnZ2x20gHWAUFVX3lxTE1TbURMd2lKRXpzZENmSGR1UlU1anpNUTdkc3FueHVVaUMtMWY0MUxub3VxNGZva1dQSjhxSE5WU3doSWk0SnFEb2FCUXVNcmlYRnBKNnFCUVlSbmZmN1NoaEFIX29UMjlMOVJ0aE10aTdjVndoYTN0YXRNTzNFRnVkT0xqbmNsUzZMQk82NDhtbDV2SnJtMjAzclVta1RQbzFva3M4VThTblFUSjBvUXF1RGNTajk1UUtsdGtRTFU1Sk1EVnFEeXd5MEloVW9wSWhWVXRpSVE?oc=5",
+   "published_utc": "2023-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai’s landmark Air India building to go to Maharashtra Govt for Rs 1,601 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1JFaVRERVlkRXhTT0F2VE5JNVZ5RFVpLTF1eG9oYnpsVGU0NUg5NU5lczlpYkVZU0tOM09FeDdUb2RQMXpuUXNYaFVTbmYtcmtLeDJjRmRpZVVxZElRSEZLRHVNNVY2QThOWXJyT25YQm0tN2tRTmI5Z0xkeGxPeDRJcmlxalN6M2xvS1lyUEhxMlpfc3hCWWlrS3QzSy1FWFIxZlZ1M1V2SVlNZlF3UGZiQWZVc2VnSTBGcDhpZExTeElVZG9jMDBqM3ZfZ9IB1AFBVV95cUxNNUZBTGhqZk8xSkphMWVXcng5QnFTR29uWGgxSkZ4S0JkU085Nnd3ZVVOYVJaTDJ3dmh5bE9MMnI5Z1hUWFV4S1R3UWxVNnh1eFlLMlRRTy1OMDNvVGFIck9lbGl2aHhoTFFuU1NtQTdJRkNtTnF5eVFYMVN4eXZ5bnVqQUU2cTB2RnE1QWpTLWNZV0FlY0Nzbl9tVTdhNGlxVDNPNXJYM29nd1E0TlFIWnN2SHJ5MjhGU2xHeEJBX0ZlRkkxc1RuNTNzNmxEZzBRS0d3MQ?oc=5",
+   "published_utc": "2023-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State approves ₹221 crore for development of new airport at Karad | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV19zQ3JnOHNZQXpwbFNuVTNseFJsODVhTWZVQmFnZFRrS0dhamhIaml0MWc4cDNCenpxeHJCcjlmVVpuSDNkQXNueEtRZllaWFJUVlNodGlvU1M3ajIzVnEyZVRfNkVTbm5DV2RfcmN5YU5tRTc2NlRkdzYyUTRkbmNOek9jd3NLUE1OSzF6VnFZOHVyZEUtY2lsUEVKYUVxYWxTeTVJRTlybWRUUVJUV1hkX2NNejBpWXFBSGphZUdiWWJQMHlUT1NLTnVtdWI20gHWAUFVX3lxTE9xWkhKOWVtTVFMalo2NVVTQ0NtY2xnNnVYU1BNakhrenh0SUJyVk5CYXN2YTNFdE14WnVSOTdBM3lBWnktMXVubzI0THF1T0lVMzMxMThvemdjZU00UE9Rb21Pck9rbmp3YkJRY2k2RXplSlI4bXMzODZFX25vaFFacThId0dtWmpSUFRtMmxfSkRmcENTa2VFazAzQW00SlJHRXNqQ0ZHX1dPNndCTEcxSmZDYUEwZ3hfa1pWRjQteE9YYlpjR2w5UkVuSnFqUUlJTFNSenc?oc=5",
+   "published_utc": "2023-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Allocates Rs 2.21 Bn for Karad Airport Development",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWXB4N2NGVEp4Ykp1WmJ4MWJHbi16M2NTN1h0YzZwSUVaSHI5RXFuVFNROGp3WlFISGYwWjJFN0FMZ3JubnNacTV0R1M5Wlc5LThMRFRDUlFaRndBc3ptZjJjSHFQYUtPRVd1RVlVU0RSdHVhbGxHT1pvM2VRTFFoNXBnMDV3OGktdWRfWE5UQjZlQXNTVFNJNTBGdldid2didVBFa05fZGRrN2xLMV81SVlRWF9lNWM2bVVEeUkwU085c1V4VURNRjU2c2NmM3M4emFteDNwUkxYc2FRU3c3cUhiWFNKY1Nk?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government e-Marketplace achieves GMV of Rs 2 lakh cr in 8 months, enables savings of Rs 45000 cr",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZkIwYVBpVXNyU2hxWmxib2JqTWRrMTBPWFpTcElLbllFWGphTHZ1V2pKbTJiMldGcHVjRzZ5a1hRXzl0TWlBakd4VU10djJ1UGs2N3dJSjR0LTQtczlYVWtPN3I4d1ZrNGpheWNtUl9tN0FCZTIzMFFQaTFJSmN4bjczOGdTVE9VVDhxQkxQYXRhUnkzWXUyX0s4djFGNmRXQUpRSnpNa2ZTcWJoUDF5eDZTZlJvand6SGtLRk9tX0hMNEtnY3Ntd3RZS2tYSDIta084YzVEU3ZrWlFDMWZ4dWJHZ0EyUmkzQTduc0dNcExJNVdldXktYnFCOWlyR0x1QVHSAYcCQVVfeXFMTzBOZF9jOThPb1BHT0tPdjBJa1djWVhQMjdjWVhXa3V0d3FLb3FKSm82dkJ3MHVsUy13SlVPa0NHUERzRFFMM3h6S1Y1dTVLOUc4YWc2WU1DbGZ2NElxdnNURjRFU2dvME04NjdPNHFWVmRMaFdpQzlSbmRZbDNTeUxvSU5zNUp1VGFsSmtqVGk0bGtXY2tNazQ3bkVrdW1reld5QXo1bkFtTl9aVWJJY1lrU1V3cUEyaXNESnpreGNUYUpxblpNRmNUaDF2U041cHZWTnZfb0lnX0FLSXU2NGUyTHZOcUNsZHJGYmRjc0diTGhmT3lmYnFBNEZkRi1leFNjMUxKNTQ?oc=5",
+   "published_utc": "2023-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Development of Thanjavur airport put on fast track; AAI to invest Rs 200 cr",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMFVOLUExTU5NSlJDVTUwOUFkTHV6THcwd3lvcUdTRUQzWEo0R1h5OVkxUjVmMFA5VjdPSURxVEY5Qi1mMDhkemhsVWx2N3Q4SnVjN09kUGg2a0dxbnFybTRtUFJ0VFBwclRyaDRvcEtfTWp6YU1BQ2RSSUZhM2JRRGVvZmJweThJYk5PWmJXdWFDNjFnZmFiRnZsM01KbWJHZlZzTm54SVhZVGNzbWllM2tiN084NjkzSHA2T2UwRF8wN3NIZHRIWkRTLWR6VFVBMXNYand30gHbAUFVX3lxTFBNTDFxOFBxaUdNRXZuTTN4QzkyMTB2ZVc3ZnFGdXBSd0lSWTNwWTBiTmJFNUlfeXp3RnU3ZzVwUG9BS0xqc1hCeUVUYXRVNWt1MFJoaDlucGV5RjhtQWFtR25Md1I2aE41c1ZFd3h2aXhyZEV4VXBLX3laS1RiVVN0RllnbmJhZjlXNkpFbU5zZmRyM0lZZ0dOTm4ydjQtTzB0RWZLTzVlUm5xWkY4OTItM0lQMVUtYTBnRl9DRmZIbGwtQUZmS0MzS040Ykt2ajlCcmFnV3VyUTJ3Zw?oc=5",
+   "published_utc": "2023-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi meets NCP's Praful Patel at Gondia Airport in Maharashtra",
+   "source_name": "India TV News",
+   "source_domain": "https://www.indiatvnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTEVxSFkySHZqdXlSeUVmcDU5bGJTVlZXeVpSQk9SZ1AxWGNzeW1WUnNoSS1CRmRFVThOUmZQZFRSOVVOZHpuclBEc3o1TFJWVHNrZ3BtVldWNGpjdlJfS0d6SnRlWTlFQnc4TUlYZ2c3Mnpxc3paLUJEa00xX1ZUcEVMV1NLWnhMbGp5YmJ4Q2ZoNWpkNW1yRS1yQlhIS3lkQU9YWkRIR1hPV0pyN19lNWdXdjNGQkwyanJKbThGMHBkUXpWeGw4M2lqVk9oc1RJRXkzOWNqZ0R1b3hKdU43M0dkV2g1ZU5YM0xMMm9oYnVmVU5HQ1JjRzhWZERqSUdjNFRpNC130gGLAkFVX3lxTE5WV3FXeFBjVkRMR09sbDZJeV80XzVOTTBKcUw2ekZ4S0s5d2E3OG1hckJZdDMtbWt5QmRmdEp1aVBXN3VTNXFLWklVbFBPa1UzT2JTWWVhbEl4M3Itd2dJZGxHYklEX1V3ODU4V3pMbWl3OTJvZlV6NWcxQzVwZnB5QlBfUDMtbGNBa3JEcTJKOEVpUmpCV1RiYUNITFlFWFF3emZDRkp0cUVxd2NrMmR5cklSMDhNcXRuQVllVnk1dXhhV1dwM0tJUU9WOU9BXzJ2X1I0MnN3YWN2SXFud0xMMEd5N1pSYzltbzdlSjJpaGJQVkwzLU1kdU9MRjdGMmVRSWw5RExtZnhVdw?oc=5",
+   "published_utc": "2023-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

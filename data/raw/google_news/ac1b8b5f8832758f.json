@@ -1,0 +1,69 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Naveen Patnaik launches 'Odisha for AI, and AI for Youth' initiative",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3daQUJlNDE0NGRCOHE2cmhyLTBlTGN5emdxN09jSG16MWs1UmtRTFNGQ1NfM0tkRGxEQjBiVGU3aGx5UTZWWjkyUlhINUhPT0hDb18zamJ1STFRQ2w2V3R5NWthOTRTVTdwY3A2ZWtxTEpUWFlxSmlyLWVkbDZTOERncXVMYjhVM3RUb2VSbzJuVVdkVFdKRnF5Mmx5N2Zvd1haQjdWVUhWMEZxZjRXaVlvZWZhLU45NGg4QTU0TnN1Y2pVRVlRLTRvYzJOS0FoOFpv0gHaAUFVX3lxTE53THFfM2JHTVNYRkgyUHZnSjJUNWhzZE1hVnJvbmR3QzdYeDJsc0lzR1hEeGNTSV82clVsSUxYMml0VUF5WUtDZDA2dW41anFOazR3VnI4RkNpQWFzd1I3MDZzb2otMnQza19DcHdwLXNjY0p1eXh3MHpTMnE2MWdDZVIweFRrbXJuT19aakl2bXZMY3plVHJfQnN5S1M5MnV3WHhZbjRFUjRTcGJoSE1iYVdhQ21OZjE1M2dKX2Vwa2cwR2xNa1B2WHRsQU50NmRhZEJ1ZTRfSnBR?oc=5",
+   "published_utc": "2023-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Announces O-Chip Programme for Semiconductor Design & Manufacture",
+   "source_name": "Bisinfotech",
+   "source_domain": "https://www.bisinfotech.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHhzbGljcGtjbVBOY2FuajRZTVB3R3ZTSDhmZXhKNlRLNkRXRjh2LWxubVN2TU5wWGJ0bVU5eWVob3pxRjJaRXB3ZFBpWEhCdkNIVmc1MU5GRHl6UjZWNV90b0ZZcmpRMHN0cy1YYklkaVNWX1NSeWdPallOUWlGazlPZVdBam04QlhuMlNwT0ktZ2pyeGZNYzYxZ1N5QW5m?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha approves INR 2841 cr projects including resort set-up in Ganjam",
+   "source_name": "ET TravelWorld",
+   "source_domain": "http://travel.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSUE4WWh0ZU9YeDZyTlRnNnU1TzNOeExud0d2U1htblF4U0YyS3pTTmZveHhRd1dJVzMwVEpUemM2aGNtbnZoOGdlSWdQMzhFVWRUbjM1dC1iUVY0MjM4VFpETTgtaXBHd0kzUWxjYTNJbjI2b01UMHI2d19SamRkQ2s5SDhxZ0dPQkdDcGpqVDF2SkJ2bGR6bER5TDBZU3BXSGpFcjdnSl9mQUtwOTQ5cU5HZzlYZ0MzelBxWDNsNHk0ZjBVYXlsQU04UTBSOWExcEVnTE83OWZsMWFIYVFLedIB5gFBVV95cUxOVFRNbFVxbDdWT2Q0ZWQ1b3dBYVctYkRCME1OUXJQTFRQOVdERHo4QXJiVkh6WEFwX0Nncy1fTUNveXpMdmlJSUFsZHV4cnpJMHRTMjRCVWliTDFaQVNscVpZYldubkN0ZnFBSDlmN01yT1l3dndkN0lBbUk1VHNGLXotaWFpT3JuZzFGd1IxazRxanh1NW42cWRPSGxfV21tVWhJV21iZ242NXBVSEZWTFA5emF6aXF0dV81dHIyeTNaN0tqUS0zaDVuOUVPcVgyZjNkWWFFRHMwemU3Tk9ZbjZpYU4xQQ?oc=5",
+   "published_utc": "2023-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OMC coming up with AI-powered building having weather changing kinematic facade",
+   "source_name": "OdishaPlus",
+   "source_domain": "https://www.odisha.plus",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWxWYUxkMHgxdFBrcFRnWnNsd1RIMmg2dHZXc1UxNWRRekJNYUM0dXZWTHA4am1feWl1UzUyUW4xUFFTQmxjZmlkdkdvX0Vid3NTVGtQRUZrYXNBdUMwaENJOVhRS2xPbzlLWjhSd0xPMWl0ZDd6X0ZfWkpIZUdad3NVN3kxYzRXcVdvRXFDckYzNVEzN04yYnVxQ3F4dnYwLUtVem0tT0xCTzJCY01RaTNn?oc=5",
+   "published_utc": "2023-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Manoj Mishra takes charge as Chief Executive of ORSAC, Odisha's apex body for space tech",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkJ4cXE5Nm9sTU16SWlqRlFKaXBQVllkdHZDbHc4R0N3ZFR0azhrcFFKRUdyNVdHYm93MHQ2YlZPVGl0WnhhaWV6WE1ZN21JTEx3SjlyNlltUnZGUDYzbXFrUkQyVVdJQ1Z2NTJTSENyZzVaSTJrT2tEb1ZNbmIyTlBURE5EcEpOLVpxNDdPMFRUT1E2VXJKNnk1WG9jZ2JTeUpDZVNBbXdlUGEzTEliWVVDQ3AxUlc5YlBhTzVoNEw0SHpUc2hvSl9FaHNwaEp4cnRsX2hodkVfUHZnTFg5VXJpZWxtdTFkd05vaWM4UkpTczDSAfgBQVVfeXFMT1FFVDdHWmJVSnhZQ01lQ2NELWZaRzBna1htQTZhazlCak1ibzJVNUFsSkNtc2NuclA4STJ1ZEpadEUwdDNTM1BWTVlHdDMxdW9STkpwcmVkall3b0lwXzYtTUZ1RmFQaThMbThRN3l4eW1DSmlQSjQwaG16ODFGX04wdmxPZ0tucHU0TWdkUXRYR19GblVvYlVxM2d6MTJlWDBUbjhnRDNQUHBTN3ZkUkkyX0NsMFNKcThzZVZKUFBkYXgtVFI2cmVaVzZMenJpUE1YUGJfcmk5ZXhlXzBRVXNRaU9MT2NickRrUUtOZWFQR1F1U3BoTzk?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Startup Odisha to Feature on CII’s Corporate-Startup Connect Platform CII ICONN",
+   "source_name": "Indianweb2.com",
+   "source_domain": "https://www.indianweb2.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tcFktNk5NMUN2V1FJRWE2UDRKTl9UbWJvWmhaZ1FqWm0ycm1lcE96SjBjMC1Ia3hsNktobER4ejFxUVduRUFid0Jia2c3bGU1T19fRzFzRF9PdDVqdHRLa2ZNcVh2WlYxNXVPQkIySDRDa3ljcHRfYUtEdmJaUQ?oc=5",
+   "published_utc": "2023-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha demands introduction of Vande Bharat trains on three routes",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYllRby1Nc3NPRG1qZVhIX09YckdwLXJWT1JpRUVKb2hROWtJNzJwc0pKTlo0OUM5dmpJOHpYeTlxRnlEZUh3c0dUMkxFY1YwYWNETkpBeWMxMWlCT1FfX2hmUkhWYk1oWEotUkpSU3MxVC1zS0tQTmFlRUhHVzZzRW5VWmdWazdnY3BDeDBxM3BnTDk3ajZmbDN3aEJnV21ITEZodDdONVpXeTcyS2JocjhIWVVsc2dvMzFaV0NyempYeDFuTDRoWWFuRnfSAdABQVVfeXFMTzN4NWczaF8zOVh2NEVxYVAwQVlodzQ2ZHdlbnZVQmluNGF3bVcxR3M0YVoyRThtS3VlbnJvbzYyODE2MkNRM05CaDdOMjF3Sk5iWTVRaFRsRnZFYXA2ZFI0THJ5dDZNcGpKNXpRZWpqZFBzNjNSTE84Y3VrZEw4U1pfZGZfU1I2RVU3YlU4RU5nM2w0YVVXZml5R1dOX1M3R2k3dGs2VWN2QXcyUDlWUEZuVWJsVDh1VHZ4YXNhbzV1T00zNllFS0FCSUhGVlZlRA?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt Seeks Tender For Expansion Of Rangeilunda Airport In Ganjam Dist For 2nd Time",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS3RKc19JRUg4a0RidFNlbnFzZGk5Q3dRV1F3UVc5ZVN1LUMyOTZqUzl1c2VjcUdreG9wcUw4Q2RwajNsZ3RKbkNxUWZXVkdXUUEwOVFWVThVSEljT3BwOFllWFJJdkNzN1FQRzBhcWlWc0VISTk4VzQyMGFPd1h5dmNtUDJwTGplVWJSWUk3OU9pNW9GNkN4UkUyT3NtQjBBM1lEUUZ4eU5BWmFJQlJnOGFSamfSAboBQVVfeXFMTUZpNVNVYVhZdllpWWJCR296RW1ZS3YyT2U5ZHhsczhMTER6cWpLM2puaXpCRGVFUmJsUzdlOUhqLWFCNGl1X2xDU2pCX1BPdUtzVFJEc2s0UFdIRDFmSG9vQ2FLaWhIbkZMY080VmkzVTFfaFY2WlhkLW1FbmhHT29kSE5idXNqYngtWEVsX2tlSWN1R2R1UlgtdmtzZXpCX1kzVUJaNUNHSm95M3lZMzlfTmpOY3Z4d1BR?oc=5",
+   "published_utc": "2023-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

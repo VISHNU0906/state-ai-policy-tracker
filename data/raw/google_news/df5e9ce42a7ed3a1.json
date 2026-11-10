@@ -1,0 +1,29 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "Bihar receives IT investment proposals worth Rs 4,000 crore",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTVjTnhIRnI4bjc2cjhicTd6MFIxT1JVTzBzMlAtLWxZa2JhbXpHS3pmaWY0enZxZUdCS296RVIzczZ0N3JtUHRuVV9FQldLNmNzWFFUbDROdkxPbmpfSy10ams5QXBnSmRUakVha2ZXamd6dnFkNHZLRENDYzNSWWttLWNSUVc4anFJX1AzenQyc1dvTXpnUVktSk5tQW1PZGtZMURLWkZpQ0ttNnJlT2g2czQ3cG05TC1kTk9Wd0t4RG90S243b3JR0gHPAUFVX3lxTE91NXprMkZNbzUyOGlhSFNINTZfWW96Qm9hTmZFbFkzWW5ld1c2MjlBRUg0c2JUbHEtUk5HOElYZmdrc1VzSGxVNUpYb0N3dHQtb2w1bjVtcTc5dmk3aGxRUVdMcjJ2RzlONlFlczAzWWMyZFM0dXE5QlA2OGdzUVhVVkt5ZW1oQ2hfcHh6UDF6UGJlVG54TUQ4a05Ha3pCU0p6THZzUndtdHIzWWtfRzhQbk9ydDdFREFUNnhramx6ZmJPME9TYUZqOXY5UEJ3dw?oc=5",
+   "published_utc": "2024-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Attracts Rs 4,000 Cr In IT Investment Proposals At Business Summit",
+   "source_name": "KNN India",
+   "source_domain": "https://knnindia.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXh0X0dick5pX0ZHdC0yZXlFbHJYb3VrNnRyeG9FQjVYM1dYbFdhaWRfR1QwcnZLVlFfVUtEanVvMkR4aUktWWkzWVhPQ2dORzZVSEt6c3Q2V29IdWJQTjY3d2hrN1oyNkl5cnJ2MmNpRFlMLXdxY094N3VEa2FzTFlJLVNLMjdFc1F4R2FSeEZvTFdUOF9GcFI5N3duZ2NEZHJGcERPSkhWUktYZUNyQVRla0xiN0Q2ZlFVdExuZ18?oc=5",
+   "published_utc": "2024-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Arunish Chawla named revenue secretary, Manipur CS Vineet Joshi to be higher education secretary",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ1dNbVRkdnVnODJQNklHTjZoSVYyQnJjNnB3UTBBSG5nLU1sRjZxM3RBZ2dIVjV4SUY2SExwV0FCX0NNbFFWcHpBU3ZiUGVaZFZ3b3MtRFZCT0FuMG8zUVNrNmNQUTlzUHpybDdZOEdjOWhOejNIS0NDN0J5QzdiZ3Y4UmlBUUl4bXVNTXRObzJCRktUMzhyeWEwQXZEN20yTWxzWkZGbUNJVm5TZi1mUVFFVFRGSS1BS1FlaGpNRUNNaFdMeDI5empqbGIxOUFOUDFRTDVCN1RmcDNudjZSTkhRckZRRU9lS3hVR0Q5UFpHVUM5elo2eUgxc2xpUdIBgwJBVV95cUxNSURiRlM1dTJuRDVUUGFELU4xVEF3RERZNWJFUGNJVVhrU2xGVWZUQkhFeTNKc054c1NaUzR2NnZkdnFyd01NTVBMN3hIUTVCVHZVODB1TmlNN2NEMlhSQ3RoQzBIUmJFTWV0SXFlaURNTGZjWWJOc2ZjRVZ3RC1JeERXWGFmckt5MGp6YWVnYXFydldWd0JvYVFodk1VbFU3X29ROVdWTTViTmxqTHhUWkNqa0EzNU5jOGRzV3JCQnRNZFdUME5hb0w3bWU0dzc1RHJPMlJMVENvQXVyUW01bDRyQk85SmxOUnh2RWIzeGhnMmc3ZFFLSzN1d3FPOS1jVjVV?oc=5",
+   "published_utc": "2024-12-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

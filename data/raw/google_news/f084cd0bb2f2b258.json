@@ -1,0 +1,53 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "2 Andhra Students Die By Suicide After Exam Results: Cops",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1drRGNVWGdzNjNoTFVlVkxPR3Bzb1ZnNU9KNTFuVzdGTGt0QW90VndFNzhMQ2l2RWlyV1NDMzBjRG02em9JeDcyc1JoSjBGSnN3MDQ3eU9ubDhVeUxpZFRFSk5QVlJFLXNSMFJJa2treHlTa2ZHeS1zT05nM1dzMUxpbHhrTVlzYXhTcHYxU01lRDA5M0dSdjY3Z07SAaQBQVVfeXFMT21JZ0FqcWtzeGtZVUJtdzU1djUzWjdYU0xmUVY1ZGZQT0dUZ29ua1JNbDF2V3k4WXY3akRlSUNCeEZ3OENuSlhfaTR3SVJ4YWlFRWp6X3RQMTRtYmNzNjBYdWdfSm9aWHJkTnhIcW5Lck5UUWQ4V2RCSzJOTXllSkx0b0syY3ZZMVFRbXJ0U2xvQVV4Z2NHczVYS2FmM0I0NWhjem8?oc=5",
+   "published_utc": "2023-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Govt to upgrade Community health centre at cost of Rs 34.4 crore",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUlczRnljbkd4X3Z3a3duV3lwdEsyM1FJdjRHcGZ5LWhWUTZReC1EUnk0RFdHRnJWVVNLVWNwME5lSFZlVDkzNnA2bl9XLXotZXR0dHdfazFLbXBEUTRGSDVNdTZzRXpoeHlzdVlCSGdlck5FTjczZDhDYmJZaGJISDdfZUpxVGZJT3BGeUNvUjZrNTZ3TXlrWjR4Q1FqRG9CVTE0VWZkc3ZPc05ObkZNX3ByQUdKRmlHemZkT1pZTzZhUXPSAcgBQVVfeXFMTkpZeTI4TFpqWXk0Z2hyWmJ6Q21LcVE5VkRqYkdkWFpmbW5wem1HT05rR0dEOEpFa2gxQXBycnEyVVRLbzNoWHNqUjgxbFJUWFYtaHRzX3hOcjEzX190UFJWc25qT0JoNlgxcFIzWXRKNFJXQVppZVljMkJPaWh1ejJYNndWc1NNT3pDUi1WX1lZMExkbDBSQVBsRkMxb3Z6b3hfQnRSOEpQNmRzU2p0ZUFkSDJQRlVwZzRLeHZ1UEFIOVFJX2wxLUQ?oc=5",
+   "published_utc": "2023-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt increases paddy purchase bags limit",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzJSbl9YTm9zUkUtLW1oQzE4RU9jZy1ZcEJZcWk4T1lSYXZVakVoTEtXbkU3UVA4VWU4dzN0WUI2R1d0UzdpNFZSSEtjMkxkdDZWY2NqbEVodmZGOEFTbUFEQ0Q4eDBOaHNyeFdWTS1faWJwMWhUWVZEc0RZd2lTTW12R3pTOEF6b1E?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP appoints Narasimham new DME",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUFhSXRWbVR0cHFId2wyS0t2WEZKWGVULXpmdFp3b01BX3ZLcjNvVEIweHBnTGY5Q0lueEFXN3JieGRCeXJFTktMUHdIc2JqX0ZudWdMUm1fT1ZidG1WNHBtMXM0blhnWW8wb09Db09ELUYzX1FrVEg0c042dmtBRFBzbDZNNV9DblBFU9IBkgFBVV95cUxNRk55cjN4TWdxd3N4Tmx0MjFLbzVfcmVLaVBVa2J3Nl9KUkFUN0hOOXhQWTVsb3Rqa3dOMWxNWWJDWVUzTzh2RF9UbXRISTF4WXFMeDBVTDVDS3Z5NjVUOHlKN0MzRmpOMnZSWXRBVlUwRjE3VzNJZm51emFoaGY0SnlyTThMTTFfMzFOeUg0dGJ5Zw?oc=5",
+   "published_utc": "2023-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Jagan officially launches Family Doctor Programme",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd29JYzg2ZGsyM1hzLXNOODZrVkw2VG53WURrcFdqeW4yQW1vNVl5MnJVYlRNdWFiWmZPc2J6dmdfNWtQQ3N1VWtTbzVnQy00bGVMR0hJN1ZWa05LRVdtc3BKNEJNbHFiS2tLUWxEY0Jqd1BDZDN6ODdQQnZFSnRQTFg5QjZGWmlNWjRRcmxoZUxXYmo0eHgxOW1Cc3AzRS1FTWQ5YkJPc3VxYzhvc3ItQllYbm9yeVU?oc=5",
+   "published_utc": "2023-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "54 IAS officers transferred in Andhra Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlpKaUxkVkJMaEx6a3hNYUdIcUZzT2lod0RlS1k1WlhWb3MtTllueGhnX05lX0NIOXJRN2hCNFZfUUFtZkl4dTdSeW1mMG1TUm9SLXZkdV9YeGR3VmIwVjN0aVN6aE1IX2RBdDRybG1VWThkY3gzTWZjdy0xaU5YWVAxZmNSMzJ2R0tscWR6SnZGWWRkWDd4OW5aT19ISXZVd3FCZEJIUXBib29QT29yc09UUWZKWmRnUGR5T3NhejNtMk9IOGtj0gHMAUFVX3lxTE9DLWZqQ1k5OTgzV0NEV3Z5X2hFZkxuUjRiLWFndXpuY1BJX09pQUtKLXA0OXczRGt1TjVLTzdfaE5GYnctMnEtdnZfTFNJV3o4VFc4VmRfUm1IaVpaMXZmZFRwUmNqR01Fd25oQWNRUDI0ZmFzeEVrbkZpeVZ1Q0picFRmNGx4b2xYT3Y2dzZpY0FlTTlhSXR3Wnp4YUlHT3lHRGJQTlRLVDJTUmJBWUIydDFSR0hMcDdiUy05ODZYa1Rid0hTaVhzN0JvRw?oc=5",
+   "published_utc": "2023-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

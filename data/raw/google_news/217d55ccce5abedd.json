@@ -1,0 +1,61 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "Introduce a single window clearance system for data centres: PwC-Assocham",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQW5OYVpaNXhQenFLajY3SFlJR2dEbFFGSUN2U0hzcDhCRTNpN1RGSnN1YlBqbDQxTFB2WEZyOWNuQ1BDTHZ0VFJxZko2V05xck5IV0RiVkFLaGNWSXBYY1pmaTVfREpWbUV4RUlJb0hLdGRPZ2x3RUdjc0tmNFA5SnFSUnRGNUNBYk5vNUFjdy1FRGZsQ0xXbGxJYnk5Vkl4eS02Ym10ZEN3cWNwT1BpWU5iWGFsZlhzN0VaYVU5alZwM0pGNG1tYjVBWXE4RVBXVXBDendJMNIB3AFBVV95cUxQelVjcExsTG0ybTdHVTdtckRYNUpUY2xPcGJwdmxUQlh4ZjE2RGl2TmNoSloxa29ybWNRZXp2UkpjM0tfVTBndktSeFZ2aFFOVXRpU2NaVE16bW5HN2s3TG1NRDBlZTFiT0xMb1FDLXczYkUzbDBNd080d1ctbHNZOTB1b3ZiWUVROGcyWDFRM3o2aXlSSzI0eTJzaHcwV0VKYk1CTjBVTDFmclZSVGFOZS11Q2J0T3VpR3Q3Qm1hbEtLNE5nWmZsQnJoTDNpWTJSaXlQYVRJRWtVWDRj?oc=5",
+   "published_utc": "2024-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government to bring Digital India Bill to check deepfake content: Sources",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGk1UzJaaEZEREZjQlZYX2xaZm9LNmY0bnplRFpMc0VKLUs5cl9pMDNuQXNFTGpLWHZHY3VsRzVMMm9XR3dmeF9mQzlsaXlJREtrOFdyRU1GSmp0ODhIaGJGNkdtTWJ6VWZCME11ZjBfTjFvMEQ5YVpvWllkVzh0S1VZdEJ3b3lfNVJ1SWFqRnpTMmFHX0RKVGdtdzQzWDVHbU1VNlI4VUZQMkw2T3IwSlh5X0lxLTd6ZmptNUdtd3pka3lWY1lLb29uNl9YODdVY3RFWNIB2gFBVV95cUxPcHpSazhtcV8yNEZRU0c1MS12T3VWclZkVkpOeDZsazZTQW9jR0VqTXQ3bndRTHR2dmp5MlNLYmxMRTZ4YlVQLVJ6Rl9ZUjRFZ09uOURhLUdMNGZjN1dlTTMzcWl1YURBY2NzQkQ3a3FZZU1ySTJqVnpYR0s3eUM4QjBiaVVlR1lRN25wOGVCNnowMWw5aldoQWQ1Wng1akozRFRsSUdVbk95MHEteVFMZG5zdXVaTERMTTIzWU5hQ3NGQ0dVTnNvTXhRcFZHVzQ5Q0otOW94OUxyUQ?oc=5",
+   "published_utc": "2024-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's Data Centre Boom Opens Up A Fresh Segment For Green Developers",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXVMeDBRNWZqalJkSXJnZUFVVDc5Y0ZBSUNRM1Y0c01VWU9YcXN4UlZ5UTYtTGdIaDREM0VXand2SV94dHdWaUhGQnV5ZHZXdy02OTNiM1FIeXZ4UzgtYmZfM3ZORmRmajNGNXZlTGpaVUdlaXhqTUVWZnpIaS1XWFQ5OHV4LVFCU1RQZ1NwYWItMUo2WWdXbmt5ZHlKaVdYcUFEMUZrb2lOdUl4VF9TTTVxcFdJaE92LUE?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Universal Ai University Partners with the World’s Top French Design School RUBIKA",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHNPamhGWG1qOFlsREdTd3pJTHdUODg0czQ0OU90TmJNeFZWemR1dTR2TW13eEF5cGxsOXNicTBqaUFFUVFUYTBUaGI1UE1GY0E0aVlMd04ycWlSbWdwTzNyRXlnYjZwVVVIRjNRTnVDVmdiTWw5OGF1dG45UGNCYWt4ZUc1WFV4WEJiR2M4MXZFWVdGVDhwOHc1amxQSmZ5V0V2bmt3ekNKcU1yT1RWM2NET2d3ZHhHYWV1NUxVOHF0VmxVWElN0gHMAUFVX3lxTFBpdEltb3NRTzljRkVvZ3hIY21GZ3NYSmwzZDU3Q1RfbXg3QmVTazZLTGdVWjFxcmk1ODNMU1RvYzFsNFFaTElxSDJPTkV3UDd0MWMtY0ExcmhwcjcwTDhGakVTek5NX0ZkWjJnZEhwcl9HZ3N2YmIyOFI4Z00zcHA3UElHcWc3M2lWeFR6dU5meDNzNWZQd01WVUltc1VhcTBEdHpHT1lKbEFVbDFJUkdBbFR3ek1BX0NjV0Y4dEZJUUpiRk01RjNBME95Rg?oc=5",
+   "published_utc": "2024-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Agricultural College now a data centre for ‘Sahiwal’ breed of cow | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGhTZTdGUlk0TU5UR0dDRTV3RWZDalNDSE5Od3BVc2JIaXd0anlOOFZnT3k2c3ROT1BPRVlZZ3lHQVZxc3lEUVhUVUk3NmFlZEl2clZnc0tiVEttY0lILUlxUGhpY2JBdWxLa3dZUk96T2g2Y0FwSkhwQXlTRTlBWHluZkYtTDY3d2hSR1ZoZ2h0MFlDMHZsWW9qRFl0V0l0TzRHdmF6RUczdEliYXZEbkpBVHlvcVl0YXdxX1U0bnQzWDZFU3FQaEZncDHSAdIBQVVfeXFMTW9CU0xOZHJLbXBwQ1A4Yk4zbFVEazcyQVRybTlqVGhzMjRscUh4YTZ3c0hZZXlqd2pSangteUhjanhwZlBlTUNRbXRCMHBzV3hvZjB3aE12THo0NHhGSjFwWDc2T04zLVItMTh3OEJCTEhyVlB2UnBodHpsOGpwZER6RUxHalgtc1pWeGlpYkhZeDY3d3Nld05DeERFZU5VZEY5UE9Pa0Z5MFJmNFBVUTN0dlozZ2o4VFA3Z3Y5WnlLcVN1Z21NenZ3MnBsYkc1elZ3?oc=5",
+   "published_utc": "2024-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nashik District Collector Jalaj Sharma Calls For Detailed Planning For Simhastha Kumbh Mela",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXE3ZkotM3g4dzNyWno2RkI2eWU5RktMdHd0MC1DTm5saHFaZDU1YVlEMWM2Y2U5cDJCZG1KMGhVUS1tVVNiS3ZjcFdZaUdOQmc4cml1Z2tzUG1GTVNzUlB3dW41Q1JFYnFsazIxaE1uLTZQckh4TnRiWWtyZXZsQ01XNTRjSkpyb1p6WDRNRzd6ZlJvTkNXblNBbzFRQXdqZy1FX0EtSHlfNHhLMFNMX3BRSTZNLWliNmVXS1FabkFZNHBnU2JR0gHMAUFVX3lxTE9OZTRKLXJyXzJnb04yUFIwcUFYejdFRlJyeWttOGw0ZXdYZXJIckJucHRfUkNkT1RFT2QxOHktNEphaWFMc0tFTElMRUJPbDg5Y19NZXQ5VTJlNE5uSFAwZl9tRHdyQUFkaTE1Nm13bGFNOUg0Q2NKSjRmVl84cTIxeWxsOEMzSmx0Vl96QnNmUWZaVDloMWNXcHdGdHZRbGluREl0TmFVLVdxRjBKaE1LZzVXWXFVTVFVTkxQUEpJWXEybEtWdTY3SjhEMQ?oc=5",
+   "published_utc": "2024-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: MSRDC To Renew, Widen Revas-Redi Coastal Road To Speed Up Travel From Mumbai To Sindhudurg",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdm1zamM2MjVhM1BQVUhDRVBaSTE5Q2JhaUZZNTgyTUVqdHlHUi1CbUh3dklsSnJJdjZjS3l5aEdwTGg2bXA5WGxVT3FlZzB0RlVwTFZVdjM0ZjJOdlhISlJfSWxOSFRWc0R3eDgtYjl3TGJfaFg5NERUZVE0Qmx1TU82LXFVZkNKOThveTM2S3A1Rzh6UlFHcVA2S3NqYkc4RjB5dDdhcURLSl9INi0yVmttNFVsQWdtaVpfR0FHVWRCalEwMGNROF9WbW9qR1Y0anUwWTVoSdIB3AFBVV95cUxOTlhCcFY0RHJxVnYzbHZ6N0ZGZk9IY3JKUEt1WURFbzgxaWYyTTY1TFYxSnF2Q19JN190aUs4R2JlU09PRDRwZE9IRWhFV1diZzFaanlscUVhU2NQcUprSjJrQVFFUkxzSTRHeWZOWDZBVzBXWW9sM3ZKRVZfallnbk9BVWl4RnktRzU2MENhYkVTR3lDa24yN1N2QjQzTWozYXIwdGhPWXYtNElXY1pvaHpLRXV6aVVNcVlwTDRkVW9pTEZsUHNjRkRkZzdkMTk1UHJRX2hYVUNlNG1F?oc=5",
+   "published_utc": "2024-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

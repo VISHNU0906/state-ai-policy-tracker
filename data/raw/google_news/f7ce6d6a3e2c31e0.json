@@ -1,0 +1,21 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "AP government warns PG doctors not joining work",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWE3bWYzSXZqOGdhb0ZhQWd5Q1RNajBud3lFRTFialF1azktSlMwOEJUMXAzaWdLYzFiOUhKOEExbmE5Z1pGSE9YN3BsY3p0R1RKUzR0X1RoRkNDRVZ2eFRoa3hHRk05WTl6aTRBcUFtbVVnalBGbE9YNmdUcno5dlBFeEo0cHNkN2RqWEVZZm5IQzJIZW9BcTNDbU16OWlPS1ZtatIBqgFBVV95cUxQU29OTFZFZWR4N240Zkx3RFk2X2RidE9PYzlEV2pPeUFiU1JCZy1Eb0Zwc3p6THNhdWpHZGprWGxTMF9CWUNKbjMyaW5TNUh2VGcxaDIyelQ2WDZLc2haMlRkUkpFYW5XUFlhcmZpRUQ5ZWtibHRkT0VwV2ZYZkY3OWtPVFFFeVNyelMxLS1DMnc3eFhUVFRscHFnNjlVQWNjTmUwUmR5Y3pGZw?oc=5",
+   "published_utc": "2024-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan Mohan Reddy Says 4% Muslim Reservation \"Will Remain\" In Andhra Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTERWODE1eTJXUU5jd2d5YVVTaVFJNkh2RHlvMjFtc1VRa3V2WlktbzNPeFlfOUhoUkZhRlQwWk1pRWlMc0QwczktUmpqajFJTVFON2NMWVYyejJ5V1hadmxSdHRKdUt2ZnNWYlE5TVdsWHVoTERLenotbmFnRWJpbnN1alVuWTdOa1gwVFdCV0J3U0tPUGVUZWFPYXFTWERaOThQQzhoVUtaN1BPZkdWLTBHMNIBuwFBVV95cUxOVXp5RzFicVk0NXRnVmhWdVBXYUpkT25jWGhnMkZqbk1ZM3lBSlROTVZOVGpMeWV6TENzcWx2eXZJMUs4cTRSMjhtN0FnWm9xN2RFTzdvT0VGMVFKNk5fSEt3aktxbVNtcTV0V1l6MGtELXp0VUtLZTJVU1BhYzNrX194VVpFcV9FUnRsRW15ejYwcTlocG5rcVJac2RBa1dGT0s3Zmk2M3VaNHVPSVZuU3FMMzZDUzMtWXhZ?oc=5",
+   "published_utc": "2024-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

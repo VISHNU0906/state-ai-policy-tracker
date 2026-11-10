@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "UP Govt Signs MoU Worth $1 Billion With Singapore Company To Set Up Data Centre In State",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEhhRWtad0dzWHRSVk5MTmZqZ0VXZHl5X1NHRE9QVVhTX3RyYWpjQkN2a2FoMXZvNi1jRUZvSzAtWEhiTV8yNDZZZUZhYWpscjN6a1pGcnM5YVl0NklGd1IzUUN5czJWcGxrVHlNaFN2RFlsNmtIVjF3b0VTa0Vyb2FkbnlmLXZLd05lM2h5WjU1cnUyZTNHb1hiNl9oODhOT2RqVm4yN19YQ21mejl3eFdQV3dmd253bGRaQtIBzAFBVV95cUxQZFVrNThfQk5VczlrTHA3cXUtb0dwVFFsVlh2end6RFFpZjNoTHROYWdqczJkUmxrNEkycFAxSDlLcUpOQlVZWUxuSThqSjRFSjhWYnZKWkpNRGtJQ1g0dzdoQmlCdFBSODNIbUR3ZzQ4MFptR2FZSkVma2pXSzZKcmFjb0xDRDhjNUxEcDBsSmtuZ0s2a0x0ZlRuY1YxelljdDdaMFF1aGxBVHItbTBxS1NreUdQXzJISG10YWhJY0dINWd5ZlB4SkxfMzQ?oc=5",
+   "published_utc": "2022-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

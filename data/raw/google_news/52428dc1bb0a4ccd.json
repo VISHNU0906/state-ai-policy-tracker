@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Maharashtra government unveils plan to digitise 500 Ashram schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1JXM0pneDBUSzJRWUpoeWRkZnN6LVZkMzdJV3AwWnpGb0pMTEF1Skw1bzR0MW4weGxUTGVleThqV0J0aXdwU1ZrRi1yeXlVZ3A5TW02V1ZsUTJoQ0FBd0p6cE56d3FCa3k3dmZPMjZtOXFtaDV4VHp6czMwMk9OYjVUbXg0dUxpYzZGTVRmZVI3VUxYQ0RaZzVNd0ZhcFBYTVh1bENaTmZ5X3hud1VvNWNxRDBSOTItWjBnSXFySmLSAccBQVVfeXFMT1N5UVJaZWRxNHNEU1RZNU5zTGVnSUZySlJNbHQ5MnpHdnpMR3phRXNzeU9YOFZMSTZZRUhsdWNqZWdjV3hiMDhxT3VBb3Z6cE5nanZoaEJDSWVnS3Z0LWZkbFBIN3dLVDVENWt0bkVSYnUtWGNSWmVaemp0VS1MNXViUTh3cERtbnpiUmtSMlQ5NElqajgyUWNleXBtZmUwTFh2ZXJqdUlWakF2VEI1bFBWYlVmclhNd1h4Slhqa3FXck93YmRpVQ?oc=5",
+   "published_utc": "2022-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Class 3 and Class 4 Maharashtra Government employees warn two days strike",
+   "source_name": "People Matters - HR News",
+   "source_domain": "https://www.peoplematters.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjZSbVRnc2JHNW1nWllRMG5tVWF6ck5QY2pXSW9xN3QxQjQzMzlXUVVHRVptTF9yTHA0NmFGNXZnQjktUFA2SEZrTEJIdUxMMUpoUGd1XzJON3FoZENDS3Y3YWJrNEk0TzdOTWd4S0xUQ0Mxb3RKX2FfQW5hM2pIX2lPVGh2VzNnU1Fwem5EN3M1T1BINkZEN1hKcWh4ZDRhRjJJb3BZNGZtdWE4TmRFbEJUSDVMMWVYdllhcmJOTlFmalNnYktuUGlLS201bTB6?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt declares public holiday on Monday to mourn demise of Lata Mangeshkar",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3V5MllrM0k4WkZ5dGo4XzA3b1I3OTd4N2pWZEpxRTZ4bmc1QlFRaGJhLXNXMXpUQzQxeFdJc094ZklOZVAtMkt3dFVsMHUtSFlqZlNRZmJ1RjVLZ1pXV1hheWkyYTBENFFIemdwaWVxQjVLNFpucWhQX25wcDdXS0tsM0Zqb01LRktpdXVQTHNIUmlYYy1WbFhVaVFnN1l4eWVFU2Z1SEluQnZETVBKeUdFMTRlbV910gG-AUFVX3lxTE9zODlLQWJPQzlwR244UG1iWUVNUF9sdVFmTjF4eEZYdjhzUGZId1pHX0QyZVNRQUxjVnBJYUk5dlhDUjhmc1ZjYVMzWnpVWm4wSHVsZXM1XzEzRk5BTnY0NG5YOVhReVBzS1hiU1lJZlhIYlNXSjFMUzNvRTJ2Q055MlpnaFBYSWI4QWZWOTlZeXVtNlItR0YyTUh1ZUh4NHRIZlVzc1VNVHdObG9xLTZpVkV1d25jWkdvOVAwcGc?oc=5",
+   "published_utc": "2022-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Was Maharashtra Minister Nawab Malik Arrested? Details Here",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLV9idUt5SGYwMzdQd0F4aGZuaEdIZXJvdTJMeV9rTFA1SjdYZDdlNG1tWWJVVWJvSWhFSXdMR21OS01VSWUyNm5PQ0RxMTlrc1V4dnM0eUpIZWt3YVpQYjFPWjNvU01WQ3RaeWJYdzdQM00xekprUG5XYVowZUFZTUxxQ3A2RWZ1MDU4aUU0VUYzWldCbU1ZV0xWYzBZMEphY2VUSw?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ED questions Maharashtra minister Nawab Malik in money laundering case",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0xFQzl4dmUzX0pDNnppMndVZjNZckVydktlaUQ5b2gzQjY4bXRNdkpEUmpSMEJXZmZhamk2Ni1md1ZJN0Q2MTRjQ1ZuUjNlelpaLXhtV3lsTWEtYUpOTWJEMGVjTS02WkttNl9TcmdZY1VzWTRPdXVHRGRxczYtS19EcVRJTjFQTlRXLWFxVXAzLVYzaVlwWE1VTFpENC1OLVctTUJldm5hMk9nR0FxaEVCSUIxM1d4bjFRYjhWWldXZUg1VHR0MjlOSDlYVm5kcUVV0gHYAUFVX3lxTE1WbHh3bEFCbW8wRWRvRnQtdEhmNXZMQ2VaWS1ackdKd1I1Q0xwdUdGV1NlWC1ieTJoeV9UWGlzcHhsLWNWUjVBbmRvLXhGZUt4dWhrdllMVS10WnlTaUMwQVh5WHh3ZGZQeFo4QTFpNkhSM2R0bmtpODg2UXFtNU1CV3dWTFNNSkJxTmtSZ0tDQzRIZmtKdGdlcmJvUzVYNzBOdy1TUmN2dDQzN0NHcGlzY1VxNW9LSWszSE94Q0w4eVBNbmFWRDVEUXhqZGNNODl6amhhbnNBOA?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Surprised at PM Modi's 'hatred' for Maharashtra, says Supriya Sule",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUZmc1VlTmM5UlFmNmhlcGE3NTd5emxGYXI1RlFZVS04VC1IdjM5d2pETUthZ3NvV1ZEaWpzM2k3VzhvVlhJa1B0anEtdk1GcE9kUGgyMXh3YWRma2t5d2MxcDh6TE5BcmNXRm5CbW9HSFAweEozcUhSLTFwSnhiVmMtNDFkQmRRVTcxWjVfM2NaQ0VGMmVDTzY0VUwwc0p2amxXMVpZYS1vRWo1?oc=5",
+   "published_utc": "2022-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Water taxi service connects Mumbai and Navi Mumbai | maharashtra | ports | Inland Waterways",
+   "source_name": "Manorama Yearbook",
+   "source_domain": "https://www.manoramayearbook.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDByWV9YOGVRQWZLYVRLM2ljTDljdTJBekFfQ2ZrZklPUXAyX3prTElFNjNvMU5WMjBJbFpqQWlUR2h3R3NZbzRDTjNQdjgwZk9ZeWdvR1hqRGtVZlk2M2RuMnhKZUpXdkN1WFBOZnZVWjgxdk5VVzh6S0lxNFk0bzRVWVFvcU1YNzNjQTVwWEh4MGtpYlRBOEcyNi1Cc1U?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lata Mangeshkar death: Maharashtra govt announces public holiday",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVExTzh3Q1hTUExtbnFJc3FaTENmMmZJMlJMbl9PSUdtSEluczlHN09tZldTMXh4dGN2d0JQRmczZzRMZVpMOEhTcENpak44VjliVHN6b2NzT0V6RHRrdTZOOUVYRVRMOG50UW1UWEt0VVIwaGJyQVNVdnMtOTZKTDRNSXN5cklNekJUeGJNYjZYQ2hTSEk0?oc=5",
+   "published_utc": "2022-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dilip Cherian | ATS posts in Maharashtra turn political hot potatoes",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTBEVFQ5TEMwYmJtam94ZkxZWTd4M0NrdGNRTVlIeGhyM1FKRXQ1UzliOEhaVDVsY29DY09EMGJrRi11RThKcnRyTjhNeElBMFFsVjk4cm1DRG9NLXVwSm5lMnRGaU1Obnh6Z21sQm80a2lhSXNWbUs1b01zSmNqMTNhS2xramlOaXltS2FVejlQa3NGTGxxNnRTTmN6SHFWdmIxT1VWRGJMMlM5aUFELVA0OG8zWUFwMVN3M1JHTDcxeVRNZkFEWNIBzgFBVV95cUxOY21kdUxKb2F3TXdESnNYNEU5aDdlc2F1b0JRTy1lUW9HamZ6akFHUDZGYlNteHRVczNqd2hzVUZBLUIzNFdVcHVIdndRY29OS3JFZU1mU2J5bG1wYVNxdFpSWHRpY0t0RUVfblduZWJhZ0h0Ym8xTERHX2F4aGk3Q2pPSXlpY0t3bGVRSHk3eDNPR3FTUk9FcEtrclBaOHJPMU1wM2VxZjUyYVBTeDlGMVhYWENWQjVrSm9QeFFKTFdBZ0h0dnRjX25adTVpQQ?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "YouTuber Arrested Over Students' Protest Near Maharashtra Minister's Residence",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbnF6QzdzN2RJMXNXS1RBbjRvakZLbktfNFJINnNpYlVqM0s1SjdxRFc3aWNZbDRVSjN6bS1LbW9nR1FyUXRmWU9tVUktTkdweExWMTlCYXRqLWZ4aE1WYkl1dWdQVHZPdV9tdkpGYkktOU8zNERwRlVHYXpXUUxtNDBfZHlFN2dLZzl6OWhBOEw2c1k1VUtZMWx1Slc3XzhlZGdDV1psUE9WV2lISTNRdzl6dkNqY1UyYVUtWGZoT1FkV3AyVUJLTUdzcV9wdnYzUkFSeWloSEN5Zw?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

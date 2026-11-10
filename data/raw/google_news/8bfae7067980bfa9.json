@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Bridging the Gap: How universities can play catalysts in making India global AI leader",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUJxcVI5Z2VLRERhek0xRzlROUFmQlJQeVpEMHBxSC1BODJLMGd3d0VTVEw5aGlZTTR2cDlJNEVmdEphbC1SUTJqNnh5eEFrQkdYTEREdTRUTHdZbXVkVm1ZODhHZC1Tb0lXalltZnRuNkxwMTlXZnNsT1dZT29MTW1MbUdFZXBCR3V2Z2c5VXp4OWVyaXNTaXlMR0JwZXdNZktPd2lFNnp0blVvZmt5eGU2a0RpV1VMOGFJenlUY21GYlNaaHR4Um8yVEJSNlhuVks4MXpXNVdhS3hla05SNdIB5gFBVV95cUxNUnl6ZUVmS1kwUGF5MU5LSmxjckxPNDNFQ1h6SktkcjFUVUExaW54NGNGeGtWSUVjTFVRdThrMWNvRnN1Nmg0b0dMc3VJQUdSSnZqVFVsOWJmYkVzZUpOYTUtb3Q2bDE1ejZ6aDQ1Y04xOUhrSFJDR1dzTllnOGkybWxlb2tZTnJyWXVrQTVFOTc2QThTVEE1bVg1MU9RMjg2Q3VLQ2gwMkxrXzBlUWZCc3RGTDlQeHJiWW5reGNzeHRGWVM5RVZzUm5xOFVZcmlIYTdhaW5hUkc2TFVWS0RzdXh0MEo2dw?oc=5",
+   "published_utc": "2024-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra votes 2024: Why is the state losing big projects to Gujarat? | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTNzb3Z0UlpiT2xxaW1mX2tuMjRyWE5kMUtqNnBIM256dmY1a0tMb2RLbzVFUS1KN1NjVnFZMjZqYjFuUUZtc25FY1ctSTlSMmRQbllxZWFVVEZIQVBCVEdub19Pb05QN2RuaDhUYWNlYzQtYWNwVHlRVlJ5bVc3bGxwTlRseUY2a21xWkU5bmNaSE40bjhmVFBPcEt4LVhZLTQ3eVRfY0JLanVtMzlFSFRNMTlXSnRTUk01dlRoZTRLZklraFJjWXdsU2taTjNqUk9paWdjZUPSAd4BQVVfeXFMT0l1NDMtNlJTeWdUM3gwTUN5QzdHSVNFelkxc2pJYllCYW5qSjhnbmM3YzdXR3NFbkUxSm5ZVndlR01EM0Y4dGl0VENpRmF3ejcwaE16N0hTX212UDdSYWtfYUZuaXJqTWV6aFJReVFER0I3U2xvcXpJdEpLb04xVDM4cXlaREJ3cVhlbkFfZTJKTjQ2VEk4V0lSeS1icmlxLVJRWmJXSFJIaFVGbldrSk14WmtZMnVLRkpId1Mxak91NW1LQlpkclVXN0FUR3NWNlBMeUZTMW14Vkkxd2Nn?oc=5",
+   "published_utc": "2024-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Seamless shares jump over 7% on bagging ₹674-crore order from ONGC",
+   "source_name": "Upstox",
+   "source_domain": "https://upstox.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0FoWVFYTVdHSENUVVpHaHJfalJURy1heXJsUFZlMElPRUV1OVAtV1lNUnpuUHhWTl9hR0VfNGNfYlgxbjluTk8wT2hudFNRdTVncl94czNlbG1KcERjajV3WUJJSGxSZVBYUTlheDhfRWI0TTM4cnJiNGY0YVRCQUl3Nm9jVVhDbmJuRkxjaml3ZzhJb09yS1pXWnJtZFJtTDNXTkU2Y3Q2UFhLOG5KY1NmUUw0UQ?oc=5",
+   "published_utc": "2024-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Lok Sabha Elections 2024: Total seats, key parties, key candidates, schedule",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQ0UyeTZTeFplOC03bTJ2dkRDRlpIRUJENG9sWWJUdkNDeW1aVlo0ODRRLWVYblZfRVNfMGlZeUxXdms4THFPXzhVYUFmWndzOHF2UHMxbTQzRWhQX1poV3AyNkM2MFptRkZnU0Q2NXdzZkI2b2RBbUtyTU1YVl80ZUYyRWY4ZkZKaVBrbVBNc3hESEx4eWpQeHVRTlNPQ0Z2N0JwaFlNV2dXaVI0TWpUSFNOUERjQnNIZnd4MnRaSUc2d0Mxb2hmRENHcTNLZDhUWXRBQ0lqd2I0MENIT2VHRXpVeHNYellRd05NaEV1MEJWaU5mdjBmMEZLa2dlaUU0Wkgwakh6U1EtTkVESnB6SWpGZk1GRTVhaUxGWDd3OE1waVIwYWxGTw?oc=5",
+   "published_utc": "2024-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "For Maharashtra’s Dhangars, the road to ‘Begampura’ is far",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGp4a3FuY1lZcUlHWjhTTkdrSFBiRzVpM2dEX3pDM21Sdi1RUkZFcFlFaW4weE9fcHBIQ3AxYWtHeVN4M1VmXzk3TVgtQUt5MGhsTXFIbXdPUUhrNC1DMEF5LVVpSTNNR252NW1COGF4LUNZNGtsT0RjbFFGR0FLdFcwN2RpX3huNjBYNGFCNDhFWk1hSEFfb0c5XzMtRTNkNDBz0gGqAUFVX3lxTE44VTcxT0phR0hyc0Nxbm1PUUdDVWxkbUdhUXEyd0ZjUVNPVFhCcVk0Rk41YzhvS2l4elYwY0NZMWZ3a0dyTzIzMG1SenA3M3hBUFA2UEJLYUVIdHF3am8tNE1BbDVfYjV6Nnp1bzdwLV9PVjVsMWdnQVRtVWhwZWstZGUxcXFoX3p3MXFyS3o3OWg5YVM1VlZwTVkyQWV5bmVtYVd5VEY5c09n?oc=5",
+   "published_utc": "2024-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Petroleum Minister Puri emphasises importance of balancing market stability, affordability",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWHR0eHo0eEd5Y2ZCSXJ4Y0RpVVI5NE5oaEg0THdSMHJQQ2ZJZnNoS1dIQTRDNldkLW51X0VMN0R0bEMwYWZValBidWZaWDljREliRVVfd1RlQ1RjSzd1YUlqOFY2aHBOS3FfNUo5NUVrMnNFcmFpWGVySTg5X2dSV3VZbzFEa2cyN0h4Y0xGZVk3R2Y2YmtBdkZRVHdNVlROWTl1ZUNHanFrTWlFVGV5Yk9ZX1lhS0pXT2NNYnNMbzFXMVV3NTI0eFY3RnZkRWpwazBDWmF3RXVkTmdQMmRGMDZUckxvaE0xNDJSRkFvMmp2Z9IB9gFBVV95cUxQcWtXOXlEeHJpV2hTYjJBbEpQcUt1UHJxaWp3ejY5OE15bGRlSERfYlVOYmN1M1Y5QW50QXgxczV5Mks3ajFxYlhSc3ZZS2JHQmNmdm96RHoyQ0VfbGduemxaeFRSUjY1X0FHOExXOGxEU0lCbWNBQ3I3bFROWmM3OUFXbXpvLWNNM3RYem9uXzNCRzJhNWVqQWhjeENMdmc3amlzNHYySWQ1eVJIajZqSVNVelppVW8xU29LV21oUG5UWUpZbTd2RkMzR1hSbUFsck9iMGdoc2hSOUdfU3F3aENVSEU0a3NsUnZZbXNfVkFnZ3JIUnc?oc=5",
+   "published_utc": "2024-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Secondary steel sector needs umbrella body: A fragmented voice yields fragmented results",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObFUzZmVSV0w5UkNtMmJ2Z1l1VjMwUGxCeEZqVE1FMFBnVjhfVmkwVHlpY0U2YnpreHlZQjA5QjRkNWYwSzVRSDQ1dGY1bk9PTnl1WUo1QVFsXzh5d012Ql92eEJSbWNTVmZ6Y21DNHdTVkdTOTRVWDg2bjRlTXpPUnFyU0Ffa3FZbURSbXBHRENQZENYWWhxWUMtVGZjVTBUUE5pdjFOc1F5LTFpQWt4OFdoVmN4bXFEcDZBbmJ3OGIwSm9CWmdGbkQ3dC1STTdiOGxFVnhMYXF5RFdHZEFKQUJNc9IB6AFBVV95cUxQTlJldk5qT2F6VDhsMVVYM1RzMTM0NDF4OFpQQUNkQXZia1ctTVZyMksxTUkxSFFUalgtYUlpT29wOVlpdlp3Ui1FS2dzU0JtU1dSTkRQSXdMUHRzVk85a3FvU3BHakY1UDZCaUxNU2c5SkZZdENmZERhSUhkNDlYMU5ILXNtUHUtXzBTcHJRMmw3VFdIaUZBVHRibmRWSmJEZFNpaXg1dzBDMHIwcm1oOUY1aXgyZkNHSWZhWUJ1a0Z0UTNlbWIxZFBaalBzaVlUZ2hBMnpEd2FVR0hqNUh3NDV5U1hfeWhQ?oc=5",
+   "published_utc": "2024-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital Democracy: Social media influencers rally millions to vote for Modi",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTURRSkVUNGxTTWxEaV85bVU3eE95NlZ3eVFielFyclVKOVNYejNlN1hGR1RPUGMxM2IzUHdIcHo4SXpPVVZyR3BsdS1zU3NaMlQ5UkNqTWN5czRfRHFCQ1NlYUs5LWR3MzdobW1rSkk0WG9VZXI0UUxEd29lY1lOcEhUZVBnaFFMY0VhU0k0aGpNcVdjM1I0T2lQLUp6SXBaOUJJS2g2LUk4V3lKM2poVjFDdC1STnh6MmhUYW8xelh3cmNJQ18xU2tJVzc2QUZXSU5LOWRZel9KVDd3OVI5c2V0d0VKQdIB6gFBVV95cUxPZ1U0aFNLOENBZUlQS0U0T29UYmxBemZ0VWtEdEdTUjNqdXBodk9VdjB3Z3YzX201TjZ6M2RXRU03LWxiVEZPU0M4WVpBdjF4eGNJVjFHS19xQ1UwbS14UDhuOTBOTnljRjcybE5pQnhabWVQdVExOFlmdzI2a2toalBYU2M5MnZOZTN4QUpJQmlfOF9KM2paY0doN1VUMm1wejNOX2lETmhrT2FIaTJ0dGVPNEdRZTZkUUNJNi1iZS1oTTlqa2t0ZXhrMms3ZnNVT3B6OUJZbWItV2NwUnhjV3NCS1laamFLS0E?oc=5",
+   "published_utc": "2024-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Public Health Department Plans Conversion Of Public Health Centers Into Smart Centers To Achieve",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZXROM2dDNHJwcFpOZEpQeHFXQ01ZNWtfVkp0cXRZMk5haEU0MV9uX2FQSXFwS2JXR196OTlnd0FhS0pNeVhOekJhN0lkNG1EZU54YmJVaWJmNUJrbmNzeVlrdjE3bGJEc05FcERGcnVmTi1ZamlSdHpHTExFc3g0aFNkV2N4Z0poeWRBbm9ISElXSnBQWlA1VFhXR3gydDg5Q1YwbzFjbnFPV3o0Ti13S0RNRjd5NG5SZFRUaVZCSGV3UWMwRUNYa0FDbEJfaHk2Ry1hb1lnOFpKbndHVVdTYWRwb1VOOUpTUDd5SDE4cVRTcWlMeGFEanpmckxxVkFlaHhQR3Mxa9IBjAJBVV95cUxPalRxWTRDQVgtNFdwRVJ6OHVMYmJ1UmhER1NVZk1PTV9pOEdhM2pkd3dEa0RwbXAwOEhwdTUtUlBPMmJwMU9mYk1XcXhlRFhXbDB1bmNZVUZmRkd3ekt1Sjhnd1FGcFY5aWFIVzVIaWhJeGRtU1BFd2tYVEJTUFdQT3JRa05QOXM2YnJXWkRIQzY1ZnVnMVQ5ZDRfQkpZbEp2bExocy0zdHdiT3NDc19vZnZKakJ3cXlKR0N3THV1UnZOakF5RktWUlFGUlNMXzh1ZnJfTTFOdldrVjdfd1NwY1IwTnNYX3V6SF94MUMyUnhqLTM3LVNZOHItdmkxU3NsRzJjUEpzVDdYODNn?oc=5",
+   "published_utc": "2024-04-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Approves ₹305.62 Crore Budget For Construction Of Anna Bhau Sathe Memorial In Ghatkopar",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ2RNUURKN0laTkU3Y2tFdTRpWmhQTThZT2FiZnRDU0ZzX0h2MjJuQ1dhRWZZbDdOVXBqdFlRdFNscHJsMER6NTZ6TlNTc05wMWF2bHJRQlloNDlVTy0zMW5tdnVwX2FQbm5XTWtiTHplSFpjUVpPYUtDdHRQUGl0SFRzanM1MW5RUHoySmZIbUd6SlJCZnl4d29xLXN6LWlaeHhWdWtkTGpqNkNKR2Vka0wtcEZmYy1waGo1blo5ci01MWtRbUxJVzRiaGVwSVFFSTVjMGpIUHVaMUcyQXlF0gHkAUFVX3lxTE5vaGtpaHB3YWFlNUFOVDR5a28yQnF6ZTF6akJES0V5UFcxbXBFZ2FVQ2ljdWpVZEczRDBBMGlJdUk3WVFZcER0TDNOMjB6X3phczk4Y1l3V1dpNzVUa3NqbDhsRVpudFhXMEE1Z2hXUFp5RHcwY1Z6Y0FwdWVscV9LdUFDeVBxNnlueUM5bHNySE5sY01fUFQtQU9vZFU1SDRzMmZ1YmcxS2xPSFZ3X1F1bUMxU1l2VEthcGZLVjBuZVUwRXZwU2xQTXZSV2hSQ1Z3N1p4RzdBM2x4RTdKMnh2RmptLQ?oc=5",
+   "published_utc": "2024-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

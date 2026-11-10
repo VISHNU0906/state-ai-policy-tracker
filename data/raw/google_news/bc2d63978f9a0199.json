@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh government introduces 'bag less school' once a week for students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcUFHdGlFZDgyUTlYMnRIZG90S2VJTmtFdlJWQU5Ta3pSR0N0Yk5mWGpkdGh4R1R6NC1GTS14QVdnZW5EVm5UYk9ieDhMWFZBSXgwd0R1UVRxYVY4WHBnX0M0QmJVNy11T0dZREppNVBkQjdEQzlLSkZkbXBzQlotTGN2ZTB4VFFMWk8zV2ZyZmkySVR5aDdDbUlZTlpsdnV4MVFGakpzMzVtdjZzWGlfcHJSZXN6dU14ZEdJQjVWSmc5SjFlb2taNFQtZ0FCR04xOC05NUFlcjIyNWRxQUZnODVGNGg2Nnl1aFHSAe8BQVVfeXFMT1pGRmJKRnNWOGdhQTZfNlRHYUZtbS1rM2cwOTc0dXZVYV9VUGhhSmtUZmFNUFRla0hIZnRkS3F0S0J3cUZ3aS1fTEpDNjB3Vnpma3pCR2ZrN3FkYU9FT2lKQzFlVnVmN2llbXFDYnE5eHR4c2tKQTZnZWFSWVNneHg5QTlyOGxhTzlCcThrLUhjX2x6d0JYeDQ0S291QmNicW5RdjFWemtKM2tXZWw2S2VESHRyM3h4N21RaWpWVTliZ1lfWVNJM2hRV0RSeDZhVHJCZnFwcU9Pc1plZEstcG9TVVJvYmlGbEpoWHNrbjA?oc=5",
+   "published_utc": "2024-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP: Former UP governor and Congress veteran, Aziz Qureshi Passes Away at 83",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWtod2pZcEZHUXpBNFo4ck9Zd19uT0NxaVpqcy1TM3Q4cVFodDBndk1WdnZZWDZlYWFHNzcwbXpQZ2NTSnNkdnVSUHhMN2tFR2lUWl9TMkZkUkxtdUo5eGhPVm10dHB3Y09rZnZwdGk5RmpMN1E0MG5qTzdrQ3Z2NUJVZWtKTmZaaDByVHFPTXZvLXZkbmlOMXc4Q0NrcmtYQmgwY3lkM1NJTFQ1cFRxUXZvMXZ0dVdhVllz0gHAAUFVX3lxTFBubElhMUVGR2xzcldxdHRvMkFpR05JYWFROWN6Vm1odWwxUHBxRk41WExWNkhWU2hqVWRVNWdnOFZEMDJBUmtkVENVbG94M0owdDl4OUpkcnN1NF9UbldnYnRPbkVtNDNyZUprNVJXN1BuQUdtd0cwTDJrY0laYjFQOU5ucW9Qc2UtaTR4NmNDVUZBUFRldFI5cXJrRXRZU25LSXRLRFlSNjMzNXd6TmdQeW1BVlladDk5b3lWRVA5MQ?oc=5",
+   "published_utc": "2024-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kamal Nath headed to BJP? What Congress veteran said on rumours",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMVVxNXl6SkplaXNLd1pkc2hZVHA1R0E4ZmU3TjYxS3B3OUhkLVNMMTk3X3ZTUERSc3FtbkV0QW95YktQR2pMUFJCal9iQ3ltczhkcG9fcEdqeS1BS3FkYkJvQ2FfSC1QQWk3bE8wUGZtZ0Q0eTBDNkV6cDA1UU9Mc1JGcFhaUi0tMGQzOW43UFpmeC12RnI5Qmh0OWlKaUNzLV9ZUFRvMkVtNEY5T1VBdldBaEZ3OGkwTHM1OFEtN2RnalhVZlExbnFjbEFBS1MwMTFsRjRETkxuNWZ4M29QSFV2V0PSAeoBQVVfeXFMTTdONHFhY2kyQ1BDeGYydVJPWm1KNkNYbUtaWkVIazZqZDNlQUJMQlRsbmkxTEdnbThzSVRkLW83QkhxMHpRLS01MDMxRGtRREwwNDdyNllDdHhDaDdObkNTTVFTNU1nSDZlOENzWENZSXdyOWZCTEtIWVI5Q2tTMG4yb1FhWVBZOHpCMlp3b3dPLU81WlBSU29ESGJBc2NIb3JjSGhLZk13Y05kWWV2WlE1R2U5a1JxRklpT1loX0lkTzg2Z3JWdUVaZFk4WVNSUXRwTkt5U1I1UWtUM3kyME5PbGctSlMzcE5R?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "11 Dead, 100 Injured After Fire, Blasts In Madhya Pradesh Crackers Factory",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSm8wZnBDdWxCSmpyTnc3ZnhUQzVDQ0lJd0loNWNZS0JNWTRMNm9xeGZ4NTc0b2tmUWxmdXRQc1k0XzYwNGMxQmJsVDdKQ1dRZjE2MkpXMVU1UGMwaUFqTnhJelpMbTdrSE1xbmNnVWg5OTlYWE1zaThNeVBsVzdWMHlCV3BWdjBDc0VRT3dueklYVTVnQ01YdWJnbHRkUk1LMHdpejMxTTlSVHkwOHpSd3lLdkdxbTBwc2tMU1o2VGJJMEJDY09Tb1hEVDdIaHduMC1MUdIB3AFBVV95cUxQNElNUUpNN0J3S0R5X2VPdTZaVUtFUTBxZEx1VVpJT283dEZwRDVmTXVtZ2YtWW9QcG9nZmFGU3B2bFkwa0tScXBoTW8tb0IyUFkxWmYydGE1dzlXeVp0bHNoNTg5aDNjWS12bXo1M2ptbURVcWlUbUNZNzhPN0t2VmsxZFNtdFNDQkNlUC1XNUZ5ZG9QdkMwMGJQSThpb05zNUFsS1dwTTNWc2lkV0NDdU1CMENHTUlsYW1GZ3pfT1FuZHRsZTVUWjZUUEU1TzdyY0E1MXVJOUluaHp0?oc=5",
+   "published_utc": "2024-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP govt assigns new posts to 5 IAS officers, IAS Lokesh Kumar Jatav appointed Secy, Food & Civil Supplies",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTzZyVnNHdnM2amZudk5kUnE5Wk54SXM5Ym9OTDhrclJCbzhEWS1weEp3dkczNVBqRW9zME51YmlVbFhwOXRORFdqaFYzbVNvc1hrZ1ljUUNDaUtmQk9RVlJ4MGgyalJ2MncyODh5QTJoX0NzT2lnVFFxb3loTmNGTEhwRjZxU2h5X3lELWRRTTVNWjFYUnRQdEtaVEU2QWNwbmt6TUdUTUpyUHdpNHZDWE5Pc09jQUpTb2dnLWV6aV92anVRcHFhODNpaUlWd2ZaVzdtYw?oc=5",
+   "published_utc": "2024-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HC issues notice to MP govt on OBC certificates to Sindhis",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3pFQVA5OWZlaDZydEgxLVUzR0RBVFpuR2UwWFo5N1NxLXJXaHl4OHRHWkVGMVNBdko0czlpTmRvREtFQ2ZKY0Z5dkczNUVyNzJ5WUNlTmRaUGEzQTIxcHY5MmFVR2ZHU3lmTi01cGV3ZjhRV2dLMEViYms4eHJiZEdHb25FVmVHZDNMcFV0THZKNmFMZm1LdnNFMTR2NHFTczMxcG5lcFZMTmZnR1RBb3U2bUprczRsbmFFc21XTU05VWo1V2p1UTJIb3VJSlE3RVHSAdcBQVVfeXFMUHFhY0I3ODcxUVVNcklRNDQydXBUUkRLQzdjdmItaGxDZUFJcndEeEE0TEdBdXR3cXJERU9xY2dwVk1nak5pLTlzVUY4ZDdUc1pLOVlUSEZUSHkxVmZCNDNwT2tCVldfOV9oM2lIaE1vbkl6LXlVeE5xTVlDdWJOOXZlX1ZxWEd3aHpqc0Q4VXJPajRtcF9XYkNyMndHQ2VMa0c3Sm9qYVUzSXB4aEc0dUVEUnRvQjVOY1pSS2RuQTJPbmozdjdjZS1tSFNnV0UzR1FGb2VrUGM?oc=5",
+   "published_utc": "2024-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP: Yadav Revamps His Secretariat In Bureaucratic Reshuffle, 15 IAS Officers Transferred",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaDVNQ2Rsa2toOWl2bUFZdnRqU1pQbXBHa0x5aktyb3NxYUJtQnF6dDFTM1pybVFERXM1ejhLVFNYWXVHVjU3ZExpcFp6cjEzNGJfVVBiMkhEY1R2Rll0aTRqR0dsMENGWUpuaGoyYnV0TVc1aGtfQ3ZMYWhyZ3NEUkI1ZUo1eTJiRC02c2FYVlpFck8tblhQdDl3cGM5M09BRXF5VEdHUGlud1ZpUmZuWlB6YndQQV8tR0M2X1ZzSE53eExwcnpodW9LZXrSAdIBQVVfeXFMTUo2UlZqLXlMT3J3cUduNVdTUGVzQUNTS2Rtc3YwZVRUUzFZamIxTkFIUkI2MjVaOXR2d0FPQ0VGRWxyQWFvel9PNzNEeTFjZ3lGaGJXcENISldKSy00N1lETjBBLTFvT0JPYmdCaXlRajI1OUdXY3FkZTFSNTRybWIzXzVCcVRLdThyTXpHVHRHN0p4NTc0ZldURjgwODRtS2JYam92bkxfc2RFSGM4TWV3Y2Zld3Bpd0xqd0RRZEtlUmFGMWctVkhJTnF2aGdsSWFR?oc=5",
+   "published_utc": "2024-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh seals 12 firecracker factories in Harda after blast claimed 12 lives",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzVndWFGQ3I5M2tOSGVDYU1UV2k4YkJaVVE4SE8tYTN0cXdlUlctUnF6dUp6U3Q5ZVdIWUhoUVpnOU5panBnb0V5b3BPWVpUUWF3NjcwTkozU1dJeElYTnoweXIxTVhiQXNYWk9YYVRaalMyZ2ZnTWVFZjRmSEQ0d3VGZ2U3NWhQbUVWQlhSYzJ4dkZTcE12TjI0RG44Qk1JdGMwbS0tbmhoaVRyRGxRd3hfUDDSAboBQVVfeXFMT0p4Z2ltaHhVX0h0czZZb3JQN0lxbVBSS1AyT0xIaW5RMjVxb2FOdXl6LU1ISEc0SHVrNTc3VW9MVXpBNHJTdHUzc3plZElVdjctTUVScnlIbFoxc09udnN2ek1CMHVXWEFGMzB1a3VLeEtxb24zMDZBT0pxVGwtODM5b0lqYzZaTmo0a20yVnFPT2JKdVFzUVBkRFhVeWN6REt1Q2RZdFpNWkNGdnFRR29LbGxhYnBVcjBB?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP: Caste Consideration Plays Role for BJP’s RS Nominations, Party Re-nominates Union Minister Murugan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2dXUjR4ZFpOMHRTNU02LWUtSHVlejRZbnRjaVd3dVlKd3lrTmV5d1BQX09kcFh5M3JjaW1PY3hPbnAyZTc4MGNQdDdNMDIxeEFzekJHa1JOWDNHSC1wNk9kVDlqcUVOellTSlRsM1ViZzNRekk5Tmg3OGlBZkFXQjI1SWxtbmlvSm5BT3M3Y0wxMk9DUTJzYTQ5Mm1IWEhQbTZzZ2lwRlZvaW5PeWNiZlF1c3l1QkV1VXRXQ3F0MnpVQUVJU3Q4MjNmWVBJZldCWmtNRzd3TFBQd3dRZGfSAeMBQVVfeXFMTWJfM0x3TlczOFExSjQ5U1Zrd0R2UEpQN0lUVWZjMk5zN1lqZWlWSWFzYzFhUWdXcEgxQ08zdjBQbVpLWktnVjg2bDV5M2tFOE50dGFRV1p0NlF0N0NrYjkxZXFVMXhRSnRHWEVpc0xTYnVwbmdLTGVRaDc3d2ZKeGpWYTh1ZE50bzc4aDB1UmVkclowdk1uaGlXZmhEeHJBR2pudXNwbzRvR1dJdkF2TkNJWjI2ZHZYRDVzZEZEWWdRbS1VUzdXR1VDaUJBTmN5NXItQ1FqbmMtcGR4UWktMnFnNEk?oc=5",
+   "published_utc": "2024-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Madhya Pradesh Chief Minister Kamal Nath, son Nakul to join BJP? - India Today",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdzQwZTRTQXpjSHB5clluWXN2SFp4ZmxrX1dHYzR0NHZPYVV6c0VhcEFFbC11WWZTNDBOZDFuN0JySUM5VEw1WVRYcS1qTmRiMFVTRC16LVYxNWtGZnBzdmkzdjl5dVl2UkpOSEx5WUFjYjhadFc1UWE3eW1UVVlxaWgxaXNSMDVZRXBtbXU0Y3g0WVJkT3VaSU5HamFlM1A1My01T014OVcyQ2IwUHpnQm5HSEN4R3YzMkhn0gHAAUFVX3lxTE9zVE1peER2em1EUFZtX3l3TUxWeWR5eFpScHZjNl9oNHl6VUx6RU9JNm5DNk5hUXV0U1F2RjFGaG03Zmx6Rjg0bUZHNVdGSUc1ZkJ5NTUxNkk3eERvOHRpNWQ0bHlpQnpjTjBheUlFNHBlUm1KZ214andoZEdFNU5jbzFiQl9nLU5CLWl3NHpKUzRSbGp2MHNtQ1ZyOXgwVHJldGNqRU96RHZIT3V6ZjNtYXRoRHBsaVozSHY3ejVYQw?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

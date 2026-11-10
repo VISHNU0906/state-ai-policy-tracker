@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Telangana launches AI-powered iRASTE for road safety",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkdSXzNQZWRwbXpxVnhCQnlXNUFLbFZlQ0NZNHFOV1RGSUFfLUlHM0xXSDg5VEZ4MDlIM2hUeXdGU3RaTWRTQzlKYUdDZ3ZNSDhlWjRoT1UxUlpVbG9fZlVKZHBILTZlM2Qxc3FGMjJEQjhCUnRzc3ROcWI4LUVqb2JxWmFPQlE?oc=5",
+   "published_utc": "2022-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, big data courses for Inter students in Telangana",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmoxRjVBdlVBNGlnb0l6eUZ3aDd6Z2M4Rk9EOHEwbU5DdGNfcHBPalQ1M2hoXzNOY2tKTmdNcV9zSHBJSDJLWEpxdi1UMnNjQTJBOWx3VUxUTGlORmVHamlWWVJtaUZSZW1pZk5EbktKbEZyWUE2aWZ4NmxHSHI5OTFZcGJsa3liSDRyaFo5eUxrellsMXcxbnJGbW9Wd3ZCdEtVWElNOHZMRVpYS2FobW1nc3pmV0tWeHV5dWgybkdXTElz0gHSAUFVX3lxTE50Y0QtbEVmazYxbUdpZE95VlJlT3Z5MTZwd2twamNXZE1IZV9Wc21oMjJrRnE5Y2RadEYxLWZPbDNPLTlRSE55RjVxdXc1eC1uWVBOckRqRGpZSlJ3MndlOTdhbkNTR09zSEd2LWw1MzNENFVMOU1WeUdmWThxVDFZWk5kM3BSNHJYZVNEZWJoRFBxamFYOGFGamhzRXhEVE4xSGkzS0xpa2lteEw4cHZQSjZxVzYydnFKVUVlN0xaVUFMWG5lWC1uUGpsR0xhcjk2dw?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Farmers to get AI inputs on climate change",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzlTNmc4eVR0cnB5R2NSaC0yeTJrU29BUktCaW1Sek1Ob3ItWDdHN0lXTlBoUkNNSDBtX3ZiaHZERTZ4Sk0xS0M0ZnVDQUpEWXlUbXVXWU50c2tVWFotSm1QRDdEVUlKTnNLdGREYUplemFvYXJ3bHY2eDFwQ010d0pfU0dGWTNja05KaTc0NU9LbkcxUlpPRDJyakpQTE1ITDdSQ3Z4T1ppalV1VXfSAbQBQVVfeXFMT3dEOUxRMHJSelFkdy02d2dSMkRpZENPeEIyQ2tMcXhRdV84aUc0UnIwbDFLbnlOVU9XQl9iT1ZZQ1Zha3JzWXA5Q1NFdU93Q1o3dXlweTZjbVg1Q01UTm4yYlE3Nl9MSDNNRHlkOHJjZkstVVRNX2VBbzJ4VVZkaTJObG5DU1RkXzlVVWl3b0o0dEtLUTRNZE96cXFQVjJadUpBTGxTNlZoQ3pZR3dPeWNuYXZG?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SC collegium names 6 new judges for Telangana HC",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUZaSFdNcTVTTl9VZHpCRlpsWjdDZ0pqSUg2Y0Q4VGl6U2lQZEgyVHZjWVRySjZXTElxYi14dl9WYmZmdl93aFhZMFgxYW5MY05MOHJxRzQxUDB4ZThwYy1ZSFBzNlRqUTZQY2lFRDZTOVZKWThqU2VVaDBZWWxWLWoxUjZab29pMlM3dVB1QVFtRWJ6MTBxa0RNMGFIUmdOUmZXQzk2ZHRFZFRkZF9ISzZ0Mmdod9IBuwFBVV95cUxPQ0w0dlhzQ1V0UG1JMWM5TzJKeEVTSHcteHNVaW4zUHBFTVRKWGpsemRuS1Q0OTZndTMxb2t0VXRGcU82NHQ0WGdPQ1o0U3ktUG1RMnZuNjh1U3VfSVdGa3Q0bEF1eVpxNVJqdEM1eXQ1ZTRJWDktTFZ2c213U2ZraTN4YzFydmJLbDE5VGZKUklDSGFDWll2T2E5MEZLOUNXdUZydmN5YlV5N1JPLXgyLV9jUURXX2RnOTJN?oc=5",
+   "published_utc": "2022-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana: Draft of Agriculture Data Management Policy 2022 released",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVG11ZHNDSW80UjEwZGdhU3FkWHpMdmc5NGVfX1RBLWYwNkxSQVByQWJ6bU5fenhza3NtTmFmU0w2aF9aeExfUy1CaHNjS0ROZFJOUVBxajgtTGIySG5kVlMtek1GdjFhV1JtWm05dkR6ak11Sng0ZG5JNl92aWprWWVWcldWR1gtQW5VamJMdUI0dkYxN2hGTWln?oc=5",
+   "published_utc": "2022-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What Is T-Hub And How It Has Helped Telangana’s Startups Grow",
+   "source_name": "Inventiva",
+   "source_domain": "https://www.inventiva.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvVlY5T2hUbklYZWtUVXdJTzBrOW1ITW5XdXRnX0dhbTNad3NIZ1kwT0FQMDJCTmZSYkNLNGhuV0Rka1IyNEc4SG9rWUFKdldNaU5nS1UzRHREVjM5SFNydEhiRmNTQUIwcVFBYXpRN1AwMWYwMWczQzliVWhSR1k?oc=5",
+   "published_utc": "2022-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana government to spend Rs 15 crore for Bonalu",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGZOZzJUWGMzclpGSmc1elU3TC15eUtCZV9qQ3l0aC1CaXV2aHcta2JvT090eHdfMHlZN19ZdjZnTkFUWVROUVhuVWtGTEM4bjVTSHhlbDNZOWxDOUlpTlExVm1DU250eHhJeU9qc3RSeUtlZ3gzOGx0ZGFxUUh5Z0RZN3hIUFlwaXgtQW51S2JyaVpkcmg2QTdCamN6c1A3NlYyTTFHX0ktQXpxWkNIRlBmbjdvNTc5bHgzY0JKTdIBxAFBVV95cUxNWlplaFZZVEpWUF95Zmk3VmtjUTBrZmZuTmE5WHlfQ1drejBaQWJRd2FSMzZoZGl1Ul9ydlBGWTdPVFpNYy1ZNG5vX0QwZWlCQ1JZZHcwX1c0NnQ0SDVCOWl4RWR2Ti1XWF9EYmk3TF9wZWNDVGdqVnpEUUpHTGdTdHROcmFZd1lQNjJtRklhclVxeDY3Wm9maUVrT1RER1Z6bGhaZUtsdURtRzA2ektqU3BhUnhibGE1aG5obTBVaWlRVXFD?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttam accuses KCR of making Telangana bankrupt",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTNVOXdmQ1BGVWZibVE5U2F1eE52XzY1WWQ3cFA0aDU3T3BvT19rbnRKLWZHQUp2SlNlSDJERV9icXhmWUlNUmJtWWFXQXhPelBiRDhiOWNfVVJRTy1PUzhfN2JRM2hwQUZiTWpzZmh1aFIzVEtjamNQSzAweWNfWEdLRWNJMUtkZmVELTBtdzhxVXNlUTJRdUVCelByeGN3M0I1ZDBESnBEZ9IBrwFBVV95cUxPREdPRkVDTUNmVnI3VmJIVi1DYnY5REh3Z2JmbHljMlprMnpKRmZQdWdSajM3d0Z1WWdhaEM5T0JHdUtJRGZyb2ZiQmlyRm5CSHd6bUpuLXh0Y0draW9yVGhQT2VucDZkN0VtV2h2d0NIN01qdEZWYkVuTEpETEthTk1KVXQ3X0F0RzlHdW9tTHR4QzZXeWVsMXNBVG4zTzZTYnVycnpwdGNCNjZQNS1R?oc=5",
+   "published_utc": "2022-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana flood loss at Rs 1,400 cr",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlFMc29PcWJSbDkwcDVocFlkZFVfaHFQV21wbkpwYlZnZzRGekNXN01VMGFBQ0M5eEZOTkc0VFZLNzhzN3NsSUF1R3lTRjg0X3ZndU1PRlJkdHNGSHp3MHBVbm95VEFNaTRBSlc4VHJKaHV4MHFFTzBldEZXQUhZb3pTVTV5dWlWMEdEOGhDX2F2Ym82d1JUc3htdmdqSFJ5NTkw0gGoAUFVX3lxTE5MSFRUdEFlMDZjWmxIVmNCbHpEOVAweXViRjVsSHFfeHFOTzJNM25rVmpuS0dZbmcwVWZ6YnZib2tYUWlCbHlWcDZfRC1tcFV6RGdXS3Jvalc4ZUR5d0ZVbUxqU0JndjlzSVhQZHlDYmF6aWg4ZS1DSHkxRXQ4LVk5cjNhVF95ellIV1RqMTJkMDNVMVpKcXJJYzJsOUdDS2VqdWV5Rm5QXw?oc=5",
+   "published_utc": "2022-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TRS livid over Modiâ€™s silence on KCRâ€™s questions",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFDeUFsVGt6V3JxM2pxOHB1NkVuU1J6LWdjOERUbUZnSlJJdl9xYUpaTEVDWUZhVGMxZko3V0RPMk5OZjJXOXFVVlFYUllnd3pfWUtPZnl6R1I4eU1MZnk0TXlIQWVXSVNhQm5oMHh6M3ZFbWpNNXpSRkl3b3RuelRlby1NOTBHZ3RLNDRhdkZQU1pteDFNeGYwbHlyV2JxNEFrVGk0MDlHQdIBrwFBVV95cUxNRTVBTkRwZGNvd2k0aE5DemdDaDBrWFFYam5YMkZvZWJIcDcyT2FJNmdKYlhBb0JRR2p4QTk2TlFQZW5qc1NHV2NnUU9WblpNaUNIc04wR1loVFV1TFh5aG56TkJvMnowY2F6QlJiZjVreGpGNXVsLUNJRG1kcUxzNm1kRjZiZWlOa2dEamZsT1dMckRPcTYzeV9Xd0JqQUZkVnotblU1dnpqU0NiNk5n?oc=5",
+   "published_utc": "2022-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

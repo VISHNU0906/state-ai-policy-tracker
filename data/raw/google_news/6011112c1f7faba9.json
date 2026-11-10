@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Video: Students Hold Umbrellas As Roof Leaks In Madhya Pradesh School",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDgydHVXdVF0QU1BTXJtX3VmeTNtclNXaHY0VDhQcFJELWQwWkNMQi1KR3pCcERNRXQ1VnRFaWQ2c3oxX2prb1FqQjIyV1Q3Q08yNmtWNFRBcXJianpqaUs3RmFKTnJ5T2Y1QXpmUTl1MU9ucVNtUDV3OURhTTJDRXBHYVFJOEhtbFdEU29TMUdaWUVyeUhrbkptVjRpX0ZKM0h0UzNsbnBNU0lDekh2S1Rn?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tribals at the receiving end in Madhya Pradesh",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2NLMGcyU1ZVTXNuajhSN3dhNG83alBveTRDcFJlMUJ1c25DdlBfVjJUczF4X0lHZFhJcXZaWVhTM29pNmxyN0EybUZUeW9lVktLcE1neVJ6MXAtS0gzZmROcTc2VW52cG1FUjdzVGFMZXppM2t1Rk5VY3BWU21DUWN1NnRhZnhQSUtPWC12b01PbW9EZ09QcXkyM3doRS1XSXlYamtRLTdFMDV2OGlwVGRMTDF3bWdIdk1SbS1n0gHEAUFVX3lxTE5DUVRWeGg5TmVCVWNuc3RUM3o3WWNLZmJvVXNBSzFKY0g5NUlYTWR6MUhBaWJKSG5MX0FIc1d1Nk9NYzNValAxa1FTVTFqR3BNNmVZNkp3eG4wSmtpSmNHX0lPTWlUM1kyNC1HcVhuWjhKSGtzS0hGbWJtSXlJS0pLQXYwOXozU1VxQ1RrTUJnVGVkSVRldjdlQkpKUkItc2p1Y0t0ZXEyVzNLS0RJdENGX2dKUlc5WEVTMWZQNHQ2czBNZEs?oc=5",
+   "published_utc": "2022-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DA Hike: MP increases dearness allowance to 34% for 7.5 lakh govt employees",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakVTdnVwelpUNjUwblRNMVZiMVF2V2xMVjZoS1ZySnNsMmRfMVZITGxjR2R3NGFUMmtFNmRxQWlOeDN4T3F3M0ppS2N2OS1YVmlyRnpyYUR1QVVGRjlZUi16ZkdVNmQ3c0FyMTVvSFU1N0RZQWpkOGtLMmFsQ2h4NjljSHpRTFRBeXBvZEFBY3poWEZobDJHRk1jNnJZOS1ZcVduYzhYcjBEaVVhSjZQaEh0NVBKYXFzckZxZEYtODRKUG51c0tNdWZobGpNdnI1dVdMd1Rn0gHbAUFVX3lxTE5XeS1kQzN5R1FLc29OenNINHV4dHJTUmVTS3p6WGxFbzcyRm1YZGNpVWxLZlJBR3FjU2Z6cTZ5dUdFaGwzQzVyZ2lQdFphRURWYjVBT2xLbVp0MWxOdkpicmJDUFdLNG1pUndfclplSGs1QUExUHd1SVNxM2hKTHVCb1RLM1ZCdE0wN3RjeW1icnludjA2Tnkwc3FqQXJTVHdFQ2RRM1JWYVg3bWxOME9LcDc2QUh1NFpUNzNTTVRhMXFEd2VpRFN2SktQWVJRY3E0eWNIWm5sUUlxbw?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Eight dead, 5 injured in Jabalpur hospital fire",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajhoZG05bnpGMmJsMlV3UUhNV3MzOGdzYjJEaEppczVWVFROUm5JUm9ETGpCVGphTHdxelJhQzlGMWhzTTNobWJfOVBkWFE0S2tfT2VYVTRKeWo3NWFRUnRrd3J0Vm03ZG1nUEx2Vm91c3JkX0Q5WEpCY2piZ2twSWJId092QUVTY001TmpZaW5LMmFsMWVPYVp1aVptNUlKeVAw0gGqAUFVX3lxTE1VaXdQaWFDVkNLUzVQUGlGVmFjUWxtYlN3Q1hpS0tXX2RUVkpzbU9hbXEwcFdwVEtoeVlGTG15ZDNhTGNwc3ZObFpDSkYwZXBPWElZSDNJMUxONnZ5dEpQVER3elg0RnYtSUVhWjZYeHo0b3dXRG9LUTFITnJCbmsxODFsZU82Ny1Ya0pwWXVGLUlvdlN3M3RRcWFRUDVSdlRCd1djYUc1ci1R?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Foundation Laid For Rs 2,300 Crore Highway Projects, To Improve Connectivity Of Indore With Nagpur And Hyderabad",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWDBPVUpzQmJhM2FzNzZPVHFzSW9xZGZCa0k3OExPMTdOQnpVaDNrcW1ockFfSWYxTHJxWTUyLXQ2SW5FWmVjNldWNzVsZE5Lb3Z3aWFuajZOYjQ2WExPWEJBMWtTeVF5SmxMTU1rekFwNGkzV3gwSUxmSmVGYUNSZ2xWQng5ZHdaaGZBcmJNSHBUSUp1Q2VIR3JxZ0lLQlF3a2poYmEyWVFFN2g3M25vY1h2RTVZWmJ3NWUxM0ktOGhEckJXcWU1VjF0cmJzX2RyLVpfNHNmYVVYWmFrTnlMQ0lONjFJbHFkOFdnUDA0X1U0YVRlNUJv0gGHAkFVX3lxTE5uN3M2dHlkVVBZOE9wenFMMTRHMVBTNHE1MHh6azc5THBzWk9sZ3k5c1hFT1ZzYk8zVXh1QklabkVMX1laa1BScS1ud18zamJqUXBMQXVXeTljdUs2TWpCYXJlT2JOdzBzc2V4UFVhRktCWWRGQmZ3R3ozRDdCeks0OXhVb3pLSUZ0LU1DRUFQVGthZG9vWGlONHhzb0J4Y0ZuMi1tQkNsdGVXeVZRcWo4LXp4QWJKZVg4d0tuSmlqWmt5Nks1QWNLbjJmS0hpQmYtU0lQSDdOaHJ4ZDdIM09DR05BRDMxNndBSml5ODVETFZCcTUxVEtZWDBldmZHV2cwUlFXc0o4?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hanuman Chalisa Event: Madhya Pradesh Government Vetoes Bhopal College Fine On Students",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNEFzMGJzdERjT1BXQlJyY3U1OHk0SXV1YkdqNHpCYmJLcFZRYjZ5X3NXSXUyaXpOM0kwdjcwakdIN2ZOZ3o4bklKY21WYzBBZFlzcUdocXlrWW1XZ3JTdHFPaXlSLVgzSXR6cFMwV2gxbmtHRVYxcnppeHc1ak9OY3lIQkNmM3RwMzAwQXl2b1dUcS1BYmNENGdWQkRwWVhaSDhTSmFJUkJERnA4S1kwaUlPVEZjVTlfSDZ4NmlMODdJdER0?oc=5",
+   "published_utc": "2022-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No toll tax for private cars; Know about the new rule",
+   "source_name": "Cartoq",
+   "source_domain": "https://www.cartoq.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGs4TkVSSExtRV9zb3dRN19pb0x4TDN0QWdScV9BeDJjVDVxczYzaVQ5eUUxR2g2emhxV2JvU2RmY3lXSWJsNDFWUUlxNDZ2eEstWlBxSkR0cDZTY3poZFY5YUhoQk1LNDN6Z1NvTzFoYW5XRWJra2NwajhUSHU2OW5KSG1ySGlPVnR3LVV1RmFwNWlFY01EWQ?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Watch: Madhya Pradesh Chief Minister Shivraj Chouhan Takes Time Off From Election Campaign, Plays Badminton",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWEV1Nl9SQW41M2dPMzFwcEM0eGN5RVRLdUpDWmJnY0NKZEwxRHVRRVp3TjJfRWNkVmw3VHRTd2doczQ0T0FQT1FGT3c5VmJwMzFKNExjTl80bzIxaXVqNkNkZW4zajJyMTFMSVB1dUpoOWo3ZU5KU21EMFRJdVZxTlNFOWJtRmNRT2xleFpuNzNaOFlwbWdnUHFyUXdVS3RsbkFUakVOa2xHS2E5RGNFRXQ3LUdHMDN6TGhUVGM3bkFQbFllT3BXV1BlS0U5YnJRTDgxN1VxWlVNRUlFUkE?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Do You Know What I Do?\" PM Modi Asked 5-Year-Old. Answer Left Him In Splits",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3p1amhqbVEzd2V4em5BNnhqMkJxeFloVUwxNWxxVHlNZ2liTmJlVmMtcmY2TkJ4bWRBZ2k3Mk9ZbUlObmJuWkFyXzQzN1ZnRERkMHcwSlZTNzc4cG1qcDBjaVNITEh5ZDl5VV9OZ0V4ZlQ0dDVyX09FWlZBdnFpbjBKVmNjcnZnZGNtbTJJMjhNNW9qX1RkMFMwSDFOcjlhcWlmNkp0OVRRczk0a2lFVV8yc2I?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Backs Against Wall, Students Slapped In Madhya Pradesh Ragging",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVlUeGpzZS11Zk5lUGxDdWFIel9hd1BoLXZtbllnamVubjZvUWpjeThKMnBobm93V2dCZlAxRXJHemtpaTNhY1RBbVVTVDNtcm1GZ0lmcGpPczlwVHF4bUI0WDE5SHYxZk93ajl4d21MYWVOZzlUb3JHV0Y4bDBzNWNBeDR2UFRyYzRodG9Wa2FSUjBOdWR5OTUxTndOSE5MTVJkX01ySnlic28?oc=5",
+   "published_utc": "2022-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

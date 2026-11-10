@@ -1,0 +1,85 @@
+{
+ "query": "\"Rajasthan\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Rajasthan Chief Minister, Others Summoned By Court In Phone-Tapping Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmNDY2NLNWNieUwzYnVuRXdWVFAzck1LQ2U1MmRfbFg5SjVCaVpfNnZGV2FHQ0F3aEVaemhkc0FUNy1kdmxLSVZTNDQyZXpaNXVCcTZBSGdYYzhvTWVaa0xTVjAwejlDSUlDQXVtZFU0TmNxR0FJZFU2RUtmeGVqVkRLcnRPYjZoTE92c2k2X2J0UWIzRm5VakRodE8tZlJRRjNzWDc5RHlGVmN6N2NFX1JuMHdORkQ2WkVzeEFMTnU5QQ?oc=5",
+   "published_utc": "2022-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan No. 1 in rape cases because it's a state of men, says minister Shanti Dhariwal in assembly",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzNkZmo2V0dCY1F0SFN5ejZST0Z6TWxpYzlhdXdWRThWeXhyVF9XZzhkTVgtNmVjR0g3UUQ1TUtRT3kxREtwV0Q1SjNzQ3FxRHhpRTNYUUF3TVRMUV9BQmp2aGt2NXlsUnI3VWpkOWpsb0NYajc4M0dYWDRyV29VcEoxWnpmd1NxVUVFMGlqY1lBOWVnUlR4cWVQRmZCYTBWeUdZR3F0Z2RBQTAyVXVjQzhXRGJ0eHFFZmFHb3pNVkRoTXZY0gHKAUFVX3lxTE0yVVV6b0FIX2ZmTG5TVDVZS195c2FuQTl5VWlWRHlYUHE4eFVSMERwZVUxY2hyS1FlQmpoUXBpaFRqVXotbDQzT1Q0aFRBVFNzVUt2blN0OFY3UG1hblVjZUdFSVJOeEw3aG0wWDNFVHhsaGVRUHd3VXRsOUpUMkZYNHQ4QS1EUzlwTkJNOHo1Y1lVTjRIWE1UQVRVU0Zod2pOLXV5dHh6anZRSGF0TXI3V2w1dHBHQl9BbXREQmxhczBNZlJkWm1lWVE?oc=5",
+   "published_utc": "2022-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan CM Ashok Gehlot govt scraps 10% deduction from salaries of employees",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0ZtSndzZmpQRVk1VFhqcElIbzZxZXJIeDFUMk1sbndpXzJyZnhSV2djSTdLYk9jelBqeVk5ZFpMSHFsTlBMS2V2UmZXRlJzdG9EUjVIajFRNVhfbEdCbzJHU2x6U0NLOWc2Rk96WHpsWExiejgydEV6aVZaUWk4WmRkWnRLQ3c4QVJPUVpoMmV4Nll1SnlSX3c4YVdkUVJBa1NBNkFzWHFKODlJMkV5NmNUM3FkbF9pN1pvd3BERjZ4NnpvS2haVENEX3NkOWJKbWhjUGItVTJ6OHdxajAwMHNqamjSAeoBQVVfeXFMTjQ0N2lvNG9mSG9xZ2dDUW9USGJvQkVBaHk5aEtVbWJoTWV5enVLcnl5cVFJaVMwajQ5TXlfUHJ6ZWl6dG9jWHVyYUExR3hHaHUtN1FJLWhmREY4bm5EWWlNOXdXa0ljMWJuYUpyWHdtS2hWUHlVdk11VWIyWWR4LTdNdDlNamd3R3Z6Q21hdkF0TDRrSnBIUHVoT1BWd21ieVRjbjREclRxSWQ3WU5rZXhhY3JnWWVfUkc4Zmh5VmJkM3A3S0FhWGtMU09oYTYzQlNkcnRqUk1fRXBVR1IzRlRobnhaWEwwQ1dR?oc=5",
+   "published_utc": "2022-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amid backlash, Ashok Gehlot defends old pension plan",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXpuRGMwTTdrSm50WmNzMVNVWTQwNHFUcU9DbUhIVDdiLVhuaWwyTXFxaDUyQk1FQzl0T2kycjJFU0piMHdBRmU0dnRtd0pnQTU0dkVEWnNqTmQwZ2haQlY5aHZJeHZlTkttX3RsZmlOZ1ZwSnpzVjhZRXJkS2FBQVI2Q0JWNk1reHdZcWJLeW1HOVNBMWVNVjBhYzlESkUtWUlGcmdHYXc1SkJU0gGzAUFVX3lxTE5GVVlaUHREQkl3Y3F2NmU0cXB3bG5fS0hLR0cwRjJ1U3RHc2dYV1VqbnV6aEFCM1Q3S0UzOEZtR3hFd2hzWHpWYWxSZnVyU3FxWm9ZTEV2SEFLUWc4anR3Yng3cndYT2JnRGd3U21MNTdORVRwRnZ1VWpJcW9rUVZYLTI1a2ROYkVzSWw5ZDZFRndxYVFvWmRtc2REOGFhVXJMZVprVTQ0eTdoZ1luYTBWT2lF?oc=5",
+   "published_utc": "2022-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deputation systems ends in Rajasthan, Govt. Doctors to work where they are posted",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVlVDNjZqd1BQWk9pQjFFWVJWaEc0d2NTYkVkaUxQaWFCZUNJaEM3RllfdE5fWUttdXZFVzZJeGM2WWFwRFlvLXBfUFJ1YlJ3S0NOR2tOSk1lRGRKazdNcGxlVmJTcHIwaUdNZ2hlT2RlZENtaWh2MmZxNzBaTXZqRGtyS1I1Q0syUTkyejVjdlRwQjVBTXNNT0VnWGlZNGlEcnY5Qm1JSi1JOThwYUZQcDNtM000RXpVZHlCX3B6T0hoc0xVV29ydUZGWlVTTEZIMm80c3hEWUdRaGd6eVQ0MUlUdDMtS0lCbTZnREZjVms3ZFlJaGROb1BoNF_SAYICQVVfeXFMUE5vUmxCYl84OFdjSE9sVllWRjFwajVkZUFPemJub1k0NnRmRC1OSzJjXzVkbmdIZUVQLVJ4WE8xdHVPWVpXZ0hQNTNZYW16T3NGQjhQb3ZHWGdObmt6RzczY2s1WjhwSzlpa0thTlI1YTUzT3oycmJrWVhHVzRrZWhSeFQxV1E1QXhzREw5S2hGTHMyazZnZml3dmFySC1QSVNYN3RRbHVFUkNvT1JSVVFOT3ViUkpZQTVGZDM3M253cVNlOWtJNzBla2docnhVbkkzNldLSEhWUXA1WmtMWW1VbWdtRE9Ga0w2VVd0QVdZXzBJYlpiT3ZvYjljV3FoT1Fn?oc=5",
+   "published_utc": "2022-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Jodhpur, Rajasthan Govt Jointly Set up AIOT Ecosystem, to Support Startups in Emerging Field",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaWJPeHNBSkxiZ0ZqU3FoRTFJMkF2d1dBRzcxLWswVm16MU1md3NMZ2RrSWw4dTcwdVJ6MzMzZV9xeFZySnJ1SGhKbjVLbU15STVZWkRUM3JQdUowZkZoSkdaY29vd21QQzJhSk5HMDlwZW1yUjhjbFVfQ3B1V1kwTnptUWZ4SkZDZVpMN3VuaE5CUzNqd05adGtZNDhOLTJpWmlWdEhCRDFqb0NXdGx5TmtxdGg4elVGM1ZOZzBxNDR0dVBLSXJnckVoRW1XWEY5c29FczBlMGlPVi1mOEduRVRPMEdRX2_SAewBQVVfeXFMTWNYbTdBZVhVRHhjMGdoV1Bqd1BsUWIyajdQNnY1cVM1aUdaZEM3Q0JvT1pMcjN6alU3RE16eUN5SlcyX3M3TDFfcm1zWGhmNXpZamJqR2Q2U1g2d1hLTTFsUkFaS1VyYXh5RWNEVXRBVFo5NGNXdXRuRXpEVmcyZkFISFlrYk52c2lXalc4dXFkZ2Y5VjVjTzc4bmZaRnRzUWZUTzY1eHo1UVdVNWx4aHFILW5iUGZrT0JnYTN2djNMemlSLUExaGdqa0pfdzhTN3d2b2xVejlPOEt5Z25RV2hETjd5ZWpMVVZ5eWk?oc=5",
+   "published_utc": "2022-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Slip Of Tongue\": Rajasthan Minister On Remarks Over Rise In Rape Cases",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXY3amF1QUM4ejBPYVpmVGRRMTdIR1U1SEIzc3R0QUhDZ3RZUm9Fd2x3WDd0LTFnUXhMY0M3QkUzUVVobjZwUm9PUHcxX2IzTnBqVTNzQVdOUXJ1R2lIcWU2N0hjV0NuSzdycWtzVTh0NUZNNVprcDN5eXY2T3Y5U05od2FkTzlfeTlfLUFLc1NGc3RIaGhlWmhLNlZVei1VLTZ6amNhcW5RMTVKSmo0a3NkRVNkSmNObENKLURxSkM1X216bWc?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: What is Rajasthan govt’s law to curb cheating in exams?",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUU4UmVxbFVMdjlBRWowNWZGS3IzNzZDREU0Q0pkR0Z4Q2ZXU1NiSlYtTVdsTk5MTWVHdUtIa2dlYVZieHFxVVMtbklXTnFQcTdHLWduWHhORVYxdzBYQTRMRmx3TlJxY1FIYWhTcXJzaVAyQk16OFBOcHM3SS1fbVhocFFMb1pLMmVzYU5WZm91NnJLQ29DSFl6SU52N19MbHFsUG41RFZST1gw0gGzAUFVX3lxTE00d0FlTjRBREEwT1lxczgwQl9NbjI4TW16V1RsNEk5TlpHQjBXRWVubVJnYzFXUlR0UjJ1c3EzUzRreW5FaEhxcjBTNTFvVWlhWXEzSkpPNGFBajI1ZHdNWE1TOFFITDA0dnVwOHktbkxlWnV2UWpMeW41LWhtaW1GaTNxSXl0S042VVRDWGtUYVJtazJmVS1HcEh6OHl1aTUyTGc4V2FXNVhVNkw4YU1tc1lz?oc=5",
+   "published_utc": "2022-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Jodhpur inks MoU with Rajasthan Govt. and Jodhpur City Knowledge and Innovation Foundation, to develop AIOT system and technologies",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQVVURzZlNXREQ0RXNW1OeTdsSHl6LWQ1Und4Zk1tbXF0YjBFODhGaVpBZ0FBYjAyZVNKc3NKUlYxRDBweUpVVjFtYnhuZ2pVMmhnbGZWQURqb1ZXNjBvYUdWbzNWMFZMOGZ0VGR4YUdGekNCQUJTVHh2NVRCU1phOVp5SFZDYVRwb21QdVhhSE5ZUGEwTG1lNjhLeDZ2TTRBLXhvYWRsa29laFFja3Y1V0pTVkxPc3NWbmNoaElJQXNrLVEyYV85dHhfMXlWOFFUNW5yTnVUNGVYUE0zd2Q0c0toeHM4U0JWa0VxZW5UUWpQLWVLeTVMTnNLVXEyTmpnbHMyQ2Zqb0U1OEhrVmtUVkdLZ20xOWREV0lxZzlEYndhNlnSAaoCQVVfeXFMTlpWOXRsQkMyd3FRQU91NzhPTVlNbWxBVExvN0V5SkUtWm1EV2hjaGRpZG1Lb2RxSE5md2llQnpCUFFHY3g2VkRlT2RCbDE0V2t4UF9hNE4yMzFucjlIVkh6QW5vNy1nZWNaUVdSbC1WTUVWckVTRXVqeVFZTXFXRmNzOTc3Y2VIaldFYmMwQ2FEc0NUeDNXNzRqTERUZDlWeXdrSzNMRGhaNkhtSDlDeUdVYVNObWVNbjA5U0lSeFMxMGhQblpGTjRLekd5RERyMnFWcW1YQzlSOFpTVGI4ekx0QWlxdldMSWVPUFlTTlVrU1hHY0l4RElBUTFPV3RUM1pWbUtiRzZDZVBETWxWNkJMQzBwcmFuU1JWNXV0Vm96RzZqNkhaREFFZw?oc=5",
+   "published_utc": "2022-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthans first tribal university to begin admissions in July",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUpxN2c4NVlwbWZzeUt0TE45MG1xeU9xXzNLTEd3RzJEb0lsTHlsVTE2ZWI2QlphaXdMcmhPZDJoOTg4SmgtTWNuTTBxeHF6RjdJY0RmTEtSWVBfVDFjeHNHcUxQaUNjSVhCczdZcVhIMmdpbjNGX3lwY3BaS01xdzFNVjVlaGUxeU1CcHpPbmZ0YXJlWkhWcDN6T2xteDgxVjIyctIBqgFBVV95cUxQRFJ4RHI0c1A2VllxZE83WXQ5QzZoQ3kzLXJYdGtNazd4bnZJaHhiQ0tELXhBVWo2WkY1ZkVzbHFHTHB5MEdwS1JtUjZrZWF1VzluUFRQSFpKc0ZGWmhLa2xKSlNpaDNKMXl3b2pEX0tURy1wdW1OMzhUSGE5RkQxcnhJRmZoU0pvOHM2OVBBbEVHX0wzbWR1M3RWeTJfZ2dsQ3pwVmJYWW9tUQ?oc=5",
+   "published_utc": "2022-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

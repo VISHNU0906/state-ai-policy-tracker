@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Rajasthan to launch AI, coding classes in schools from next academic session",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVWtvb3hCc1MzeGVDNjVOVGs1dUYxU1lSX19WaGdORGRyM05HanFBYzhYUjBiX3YtOTFRVHhCY2VfTElndzVtd2RhQUF0eWxhUHJsbDJieEhINDFkVWNtSmRmMURSSXBCRVdPa1h6Q0toUUxkSzgwLXBjamxEX3JIQzE3bGhkMnpDNG1TLXhDUzFMSllTZWREaHBiMzFSY3hDSmJneVgxcUFGWlJNM1ZELVNla2k1RnpVOVBnbzFKTGFQeFVlbWZMLUh2NWFTM0NLbDlUcnZSUFhIOHNaM3dGR3lZTUNDc2lYZkHSAeQBQVVfeXFMT1NWZGNPQjJkTFkzUk5mdkJKNDJYVE56M0E3YVlaVk5WNFEzZXE1Zl95ZEtNcGhBdVkxeWFlUm1PMVA3WmpKaTVfeUlubHJURWdPbGZNVDY4LVZEWFNhc0RtRFRFcEd5V3V1WGxiaFZTMmpLQ013NU8xWWZMdnBUUlhLamZOUGNYS0djX0lUMXhCUW1jaWZZZXVtWjdrLUhJSzM2NXpGQUE4Nm14M3hLXzF6X2JjdHVZYUZHdFUtMEp6M2VpVGROQ1VEWGtKT3NpVTFrVi1acGdvTnJ3Q2M5UW5KSjRG?oc=5",
+   "published_utc": "2022-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala govt to launch mobile app to prevent cyber crimes against children",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRjN1S3ozSDJJMTdweUl5emQwaWFhcDAtaEF1RHpUdXd6U0w5ZF9nUGVzQ0J6REx3Y1pKUkExLXRiRi1tbzJudlpnRHdHNTNUUVM5NzltUFhrcGJ6V3lMN2VUblN6MTVLa1pZYmgtSzNJX2NxakhUYVJlRGg1S2JMMURHU2o4cUF0ejJTdWpvczBYOG9wMlQwZXFtVm8yeDBUdVZobGlyMmM4WnEzZVJqSkhqb25OdFlsTm1pVmVVUVFySWVTUGZ5YjNnSU92cVRX0gHWAUFVX3lxTE4tN2gyU1JqVm03dzRybVFESUdnM0s0Zk41T09OS25KR3gtZDFvZUkydU9HYjExY3pOdEVQS1poT2tQWVhhZ3VZSTh5MzVTa044T18xbm5sd1J1cnRsd3JMZTRUTVJyTVdiTHRmejFvazZwMHhWczQ3VFpOTFRUWFpJejgyNzJMcXVkOXp2blVPZE1fSl9RNFFRU1VJTlpqSG55OFVPUjZYVlh5Q05XenlOY3Fma0NXYjVZUG5SZURINGxOTDVDa3JSSnFrWDJnTUhJZ2tma3c?oc=5",
+   "published_utc": "2022-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "On SilverLine Rail Project Kerala Chief Minister Says, \"Won't Abandon It\"",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbHFEUGFLdFFYNTlyZlR0a1hEX1pjMVdkblJhSnlQajFkc1gxR2FHQURhbVExYWJ5UTdsanMzcWpVZWQ3SGdWWGxZR2w5eWo3TWVoTkljTkdqQldyb0Z5X1Ffby1TdTVST092OFBYR0oxc3EwV1RYWkpiN21sNkxCc1AxdlBlWGNTZDY1UU9wR1F1OEhETGxaQ3d0UkFlVHpoUVNjaHFuRXBoT0NYMl9QTlpXNlJxZXBYQXM2dXdSZEJ3MWFRbXVPeEJsc0hjdWJrRi1wOFlOaEM2MzU3T0E?oc=5",
+   "published_utc": "2022-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Country's first government-owned online taxi service 'Kerala Savaari' launched in Kerala",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTJZMFdWcjRTOFlJUGhCandOeWxIc3ctZC1Pc01hQkdrb09MSGRFWVpmMnE5TFg2Qktrb2ZNc0JvYTJQeTJ1TVNJalpnVGt0YTE1ajl1T1RMZm1NZDdkVnZrdGZOejA1MlRkbWM5SjBwbUlkOXZ0b0VBLUdiOTZtOUcxbENBZDNwcmlMS0RQSmM4Ui1BTEl5SXVYNTJFa1ljb21VTW9hU2pWOTU3N08xZU5DOGd1dTh6d1hBYThreVFyX2hZbWR4cldxWV9sbGt4YU5jYtIB2gFBVV95cUxONTdMaFVNZVBqQVAxaE52X1RfS0p4dkx2OEt2N1lBa0tmbTFQajl1bEdhNmYxeDVRaWlTbjN3dXF2N001NWFwMFRIMGluUWFUNDg1bWFxakdER1pTeDNTT2xhTF9GY0U5UVg2NjlTMk5HWmdEX0FMclp2X3VpZExVZlV3aUxaYWE1V1pHRFI0anhjZ1V3a1czYVpwZGphd1JPRmJHOUY0Nk1KX0R6SGdVX3FHemtJa1ZkcGlUcXBlcXpCeE96TW9zd1A1aVREa3BWakIyUjJ1M0M5QQ?oc=5",
+   "published_utc": "2022-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ambulances in Kerala to be equipped with GPS-based tracking devices: State Transport Minister",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSWsxRUVuVXRONlZxaVBEaWVCSkdWUlE5UlR6Z3k4b1J1VVREMW0wcUk0RV9ERWZHS3I2Nk5STFVVbzA3X1ZDaWJUVUVFSUJRMVdsVl9WaEpDZUtMNi1LSHo3c09PVGNGZDZHWEp0UlI0bGhua291UDJOOUFVQ2FBWW9Mb0dpQjFXMnpNYXU5MC1wc0FVcWprbHBTRm5WODBRcE5CQXpub1RHYnhOanhLM2wtU0JMQThOQlBJTlB5bklSbTVMWllTZ0NzaGpYQlJIVzd6VXRoelljYlZyQk8zNmJFSVdjSms3Z3BSWTBJZGJsZEh0bnBlTtIB_AFBVV95cUxNeFlNQW5mOV9aRVgtNTNwSXRLbzhEemFRUmlUUmlibjBiMWVPNGgwejhSUFJnR3QyMnFkWmtzTjhKbmoxV2VFSGl5X0RNUDc0WU5fSWRtTmRHY0IxUUY1MG50RV93Yk10VkdHR2hLaUl0Q3dVeHZINDVJMVZ1bGctTzBTbTI5T3cyeFZtLV9zU3dkQzJJVTIxZW9BWjRFQmhpcXVYSVlBR1M1VkZ6SkExZFdFVTdWOFVpaUNVRFY3RzRwN216dXNNR2ZFZ3lOdHVkWG5td2ZTd3FKWHFHRmZ0TW5XeEZ4THB1MEhYbHJVbUlaeTFMVFNfXzZZVmU?oc=5",
+   "published_utc": "2022-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "High Court Directs Kerala Government To Close Illegal Religious Places, Prayer Halls",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEdwRDNvTXVkbWZJMlpuS1A5aUVtbGpUNXFLTVRjREFkUE9EbFZsYjh1NnR5S25NdFJGbDRONFNzV29taFJnbHRkX1Q5UXFubXZBVXVwOUFpU2ZyaUVKYlBzNl82WGlwd1AzVVg0R0poSklnZ3RCM3RiOXJWMS1xclA5ZXlka2FlMW9QWDg4eVROcUxoa0ZjTDJVbjFCZkpCSm52NERRSVp0bkY0eE1sNll2ZVZXdms3OVBJUXhYNVR3SGEwTEZIa2pn?oc=5",
+   "published_utc": "2022-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Demand to stop construction of Vizhinjam Port unacceptable: Kerala CM Pinarayi Vijayan",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMkxzSlRRU0JLR0l3Y0xYeC1vSk1jc05CUzh4M1ZCWFd5dE1Wbjd6SnY3N0tLNDQ2eTA3QkMwSVNhMWsxNGxacC1uNGNZVDhlVURTSVQ4bTlHSlVUTG1HUWQ1VTk2TWZwcHYySDR4WWUwZWVJekF1MHM2WlVJTFRpM0ZKUzZmVFp3UFhEei15YVJVOGJBSWJWNXdFOUkyaGJBU05qRHBybGpGRzBzRUczTDdiU3VXaDhwNUFaMDFadkVLQlh2NEtYdjlTZjV3NFA0NTFaVjlFWFpSRWZvVUk4ejQ1Z2d6dFFfRTZjZlM1NjFGR09reWlv0gHyAUFVX3lxTE9IeXNXOHVCSXMzUktMZjlQak9peGVGUU81a091NTlfSklmQ1BwQTllRWJhTGRmMU13akVPQjNZRTFCSXBtb2RvVFB4R2JGZTFEbmRVaDFPLWNpTjM3ZUtYbmJoOGFVWnkzNDVnaUMtX2V0VWRfRVVrc1VZcnBVanRVR1FUZkQ5T1lPRlo4Ny1Ub0taU0ZmME9IZDJmN3VlZ1pyX1JNRUh4c0xYUG51Z1c0MVRpd0hSbDVEVEdwMUlRamNzRXNfekNYWExWZzl0WlJrTzNxNmZNZl91MU10TnhxTU5HTEVDa0tvNHl2bC1ZTFRn?oc=5",
+   "published_utc": "2022-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Kerala Minister Thomas Isaac Summoned Again, Asked To Appear On August 11",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEllSEZNRlFNcUNNVUgwT0hXOV9rUElKenN4eFdFM3pleW1xTFAzWVplWEFGTERnbHlZMHQyUDROZGJFX24wOVdLYUlrRkxacVJKa3RyMlVhanY5Zy1rNV9GMkd3S3JBUTV0YVFSRzhrRmlOYjhiUFlVcm1KR05qYjNCRVFJcFVnZVYxUC15V3BWTWE1ZmJVaEl2WHlBM0xpQmpYbzhKaEYzMmtrTGNIbWtOU3dvQQ?oc=5",
+   "published_utc": "2022-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kochi Metro Rail to introduce AI-based cameras in all stations",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFNZOXpQOFVCYl9ZT216V05uR2U5SHFZQkRzSVk0cV9DTkZmaE9EMndydkdKT0JVMmVLR25xNHhqOUxhbVZSZzN6cWNyNGhWOE43b1dVLUxrV3Y1RlliXzdoeGFIYjhVX0pnOXIzTDNmNFpSc2JSYzJVdFEwVjJIQXY1SDhDZjY0aGR5N1h1Vzhzd3pyb2ZlZUdhaDRqYVl6WEpNdVRRWW5ndlNkTm5NWkVpeWthejZudDNUX1BlRGJGRWlvSzdJLXZ3TzhBd1hY0gHWAUFVX3lxTE5IX3d4S1F0VTUxa0RXMDd4SXRHSGdvam1YeGxpZWtOS2hfRzNBNV96Y2VNblM4endGcnUxcXcxNnVubFZuZjcyaHBrZGtjaHlDZmExbXhwNlc5SDJIV043UWJKMEVqVnpwal9pLTNxa292bXRYR0RnTWl1c25KYjRjRGFleHFfaWpvYlB2dTFfdjF2YWZ2T2p0dFNwX1o0ZF9Rb0VUUzVIY0xQQVJvZVF0RkIwb3pXa252NXdSYXRKRDdzRWtnejVCeFJtOFplN3F1MEwtaFE?oc=5",
+   "published_utc": "2022-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala HC directs NHAI to rectify every road in the state within 1 week",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNODhYV3R1ZjBtanM3SnpMQ2JmdHpILXhVc2lVTV9CV3hQOWpjQy1mRm45c3BmNEhrYmQzci1Yd0lRM0VqQnl3VEZhQzlLVURsQ25hWi1oajBpV0tNSXl0Z0YzUWV4M0xvcVV4ZmRLNDVMMElxZE1iT3FCMndOMVNSSmpMMGM2MnVBQjdaazJ1TlMtYkh0cnlPWkNIQ05vekFvODhsTDNNZTFhVzZ3RFduUHJXVTU2ZFhmRlpnR0lxMFowUzlTek9fQXhMcEJBeXo1VUlIOUlBRHJLQmMzVEoxRllwY1PSAd8BQVVfeXFMT2JQWmJzQkZTeHk2Q1A5bDBqVDM4MHhxak1CZGVIX3NfbGpoUzh2VGlZaUdPeDFHVlRlUHl4Z3U1Z1ZhQnk2bTdvQURkTGt2Mnc1V2FvTXVWSzAtc0gwbVB1bHRuMGYyRmlqeldBVXBCNUFidGJ1SG1SbXRCMlAwREFuWHB3TVRwTlVCXzljMmQzSnEzaThzTXdmTE84RVFhVHE5cUVjMExreEVBckZ2ZVU5Q0l5TlMyU1hHTF9YRWdDVGExQ2w2SjN0N2lCZ0trcmQxaE1hYXlMaEh6Tzh1TQ?oc=5",
+   "published_utc": "2022-08-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

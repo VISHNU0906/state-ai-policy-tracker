@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Odisha: Govt action plan to enhance climate resilience of coastal communities",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONm1JclFUeTNsSHh2V0FpZmxCclJmdXlRc0xoQWljeHJtaDVxY2FyXzFrMUhnUWFUaG0yMHZPZ2NqdWdKMlNBTnFYemtzWjF6bjJNRDBYMHVCUnFIUldzLW52WHhSd2k0N21OU3pYZ1A2N05HR3Uwa2VMekJoN3NzdkVSRFRQeUhpRlZ0Q1V5Z3VlX2QyM3NLM0ZDRW0xYkJ4WFhySGhyRFpYNXJKdTRmQmMtY2h3dXI2ZUZkQ3pYZjRtRkkyVkxDVTVtVEd4bXZSVzQ5UWNtSmt1YzlDYzNaLdIB5gFBVV95cUxNWkdvOGh0eXA3Nkt1S2FadG9HdkwxQnJ1b3A0MlRKb0tqel9lRndvTjBmX2xCTGRNVGZPVWFrdThMcUdpZGw3dWdpVjdoN24tUGQ0YkhhbjduVjlnVS1WalBFbUl4MllzLWF3XzRDQktrZ19sSE5tVTRYNjVPclhDdHFvdDM2eTNMcVpyTkFpRm1MWld1ZUpnS2E5RzlqMU1PWUd4dHNzUFRnazRQV0x3X3hhWHFyeWxERDBjaUxSRFlKY1JpcW91eEpzU28ta21scnFLbnVxZFdkZGlaUzB4SEVNN3ZTQQ?oc=5",
+   "published_utc": "2022-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Chief Minister Possesses Property Worth Rs 64.97 Crore",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGE5Y1ZOTGc4bnRidHdnRTJ0dGZXNFFCVWdpX2dqb2RPMjFHUU9mWGVwa3pFbzVTdnBZalRkdzRqcjg2UUZVNWt3aVEwUGNLSUhWYW9BTl9vWHVNUDVseGRLSGV5dzcyYWszdFJRTGo5SFJFQlFCaGEySlRUSEhRbTYwbG9UdGN3VXpaVTZoUUsyTWZuTXc0Ri1uUzVVSGt0X3YyWEhIQzdKc0RQT2RkZ1l2bGRfMk0?oc=5",
+   "published_utc": "2022-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Naveen Patnaik writes to Centre over inclusion of 160 communities in ST list",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV2xIVUprSFp0dXgxU3hQMEVfNlltVEZvbk9Ecl83eGw1c2k0ak1xOEZGMTNucmZGZ0xKOUtFa2xTaEg1T041cmVuYk9GamczbGplRm1kR1ZqN0tubnJ5a09vVmxyTV9SS3BuWHMwUk5ORnduUmR6STVLMWozX0FwN3d3eGY2UURhcEpuWnE4cWJ3emVqUEtfMTFOZHZnVUtibkYxdzg0UzE4RFVFUmxXa1M4YlRYSURxS0lxTFJLN3VCZkk3WVktTDZJNlphWFMtd1BnTXpBNUVvR1XSAeABQVVfeXFMUDZGOUhSSEU4YURuenlOeUVrdlpBT2NCYjlhSDVoV2NHUE5MN1I0ejd4Q3hNTU1vaktBM1VpSzhTUmxDRG4tZXZFajhzcUp4ZUhNRVp6emxUUGtockxpcFc0TWVTZlUxWExTVkt0RjdXbG5hUU5QSEZyYjlVMVh3elpvdm5vSnY4VHZBY1hmbExicFRPZWlYZ25CczRyZFlELUFnaFR2YU43MTdnSGNncjByemdxXzJpdW05VDd0UGpTM2VDMmsyRzJLR3Awby1yT0JzTkhJMnBhV3VON2tZSmM?oc=5",
+   "published_utc": "2022-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM approves master plan to upgrade VSSUT into centre of excellence",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjd4a2FDMW13U3E4TzNXU204Q3ktcHE5NTNPazVldEc4LU5tREpMbjNFMmtuNF9TeXRUcjdYLUpfdHJYd1dvMEJYdDZoRmNlSGdieGRuenpKVlRIQ1BQWjJDSVJVRnhtUG9kTFdKdm1SdC1EM0JXQVJWcDNhbFc4V0N2QlpMVWZNNlpSX2kxN2xVcHNzTHVIUTZjOHA3V0lDcUFNZUZnYmtmTkQ20gGyAUFVX3lxTE8yWXhYSjRFMWlaOE9UVnlhSzRZLTdDN3VoS3QyeFBWVmhwMW5ncS1WSkRPTFBCOGlaRDZEZnpVVFhIUFY2bXhuYzVCdTNRZFJIQzdGc2FJelRHWlNSZnFnQTBObXhDUS1wbGxxRFpVWjlsR3ZNM1h6aVZpZl9CMDlQeWF2WGl2ZnhtVHlDQ3RtS3JhZUJJQXJoeFpxdlpGZlQ0LWtZWnBVYVhOVWdtazQzNHc?oc=5",
+   "published_utc": "2022-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Naveen Patnaik meets potential investors in Bengaluru",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0VBMl94Z1dKczBrZDdZck9NZUxXZW9tbHB6bjdyY3NaYjFSaW8tcVhEdHFVRGp0ZGEzWEpxN181WW90QUNfS0ZBbzhtNnFCRjMwVDdmaloya0xmRUpLNlZFSmFZZ29JMUEyNG9oa2xpR2U3OEtRVmZVZ2phNVk3dmFQTjdiaVdvLW8ydXpENFNwYzlfZlB6VmtaaWhzcFVBT3FSZG9fZFE5bE41VnZkeHBBUEZKMDdEMXJXUXQ4SVTSAccBQVVfeXFMTmpfVDVNd0tIM0d4RURFZ2tTUkJ4eXFnay1QdmtBVlg0LXhnQnRJR210YWtjengxU2RoTGl6bllFQlFQN3ZIUmNON3V4TXdHa3hiT0xOQ3BQRmtpMGVucnRkb3F5NFpGNFBRakxqSWhLaUlLU2ZGd2RjTjRmM0V4VFVieDNydnp4WEFIOHZHczdLVE50OVlncHMwczNQcmIzWk5ubktoYWtOOGxGcjl1Rzk1Q2twZFpMLWE3RU45ZzlvQmdjUlpsMA?oc=5",
+   "published_utc": "2022-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha, Tata Memorial centre signs MoU for Rs 650 crore cancer hospital",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVktHTUExYUxMLXNnc1g4RFBwVGpDUmZySThQWjNKakwydy1pbEpiYlIxeWgzcF96UGc0ZFI0bmp4UVpocGJOUndtbmh2WVIyV2hBUWF0cE11RUlvRXR0VE5iVUlqZUlmUG14LVNVdldwU2w4b0xIbEhTR3ZNY0ctc0hPZGRKTTNKbFZpQjlCRlpwajJjaG1UbTJVeTdGNkw0LUUxMXVGS0tYOFNmM0FQQTFSM0ZpRmVyUXp1dE1uUdIBxAFBVV95cUxNSWpacTZxT0ZVSzhvQm5Ibjl5WEFjNndvTktKeGJ6NndITmVvWWpPUmxsMFNaeHliWGZKTVZIUkNvanp2RFhrWHZFZ1RaQ21yS0xTTDB6UHViLUhURDNnOE51MXBCbzJ2cDlINXF1MF9VNUlmUy15T3VkcVdaelgxUXJnejFCSjd5MHFBcjJUVzJuMjRhZlVCNUZpc1ZGaGJhSVh4VTJLcjk5U01VNEVmRF9MS0hBVGV3WVNRY2hUdXpTamhO?oc=5",
+   "published_utc": "2022-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "13 Children Die In 18 Days In Hospital, Odisha Minister Seeks Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3JNSC1rQV9oTUVBcm0yZ0ozeHp6REg5RlQtUTFSWFZUOUJuRnVWRHUtRkxwNHhHVWpldGdrUlpsTTI2ZndVUklCNUlqUkFPMnZSa0JkZlFiejE3S1dhM1NieHJ5bnRpb3F2REhOaE5UVVY1dEVwSks2cmplcWM4NDBlWXFsdDFQRG9fd0d1Nl80UnVhVjRDV1UtTm5XeEN6Nmp6dGU0WHNidU0?oc=5",
+   "published_utc": "2022-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Naveen Patnaik releases first-of-its-kind encyclopedia on tribes in Odisha",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFVybm1IWWp0c1FJdnZFVDRoUHV1NzlVMThhNDJRNWlQSDZMM3pDVzRZY19LcjdIRzUwSDZTNUhpZVM5aldlTW1HX3M5dmJxeDhxYlFSZnVqVDNnS1NLREl6YU03MlZSbE1GZENxVHhIVGtJbXpRdFJQc1JKeEg4WEotYVJMOFk0djkyMzZFc3VkR2tqRHlPZDM3WlpfYTFmUkRoSGQzeEVZeHctQ0hSYld3ZzQyMHdOSUZvQ0o4cFBXNjVGeWY40gHMAUFVX3lxTE5Wb3VteEpiSFZRRVg4QlVwYmt6Y2x4X2dabXlLdVltcHotX01nZ0UyV1ZVZWdDcE9sQ181VzZaem05cGZmYURsUEtkaFBPRTU4MUlDUEZTaldaZGJSQkVYQm5OZ2J4WlRMcTd4ZV9ETGJjQ2FPaGtpbUpqUnFFaFlUVzktUDAtejFhWFBNMmVldzdORndTLWNuRGtkZlJhRXpVSlI4MDc1WjB0ZXpQX3JDWWl2RUl0ZmV3UHVHMnM2enB3ZWg5MWQ3TmNCQw?oc=5",
+   "published_utc": "2022-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Fitment of tracking device, panic button in vehicles mandatory",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNHpoNnZVVG1lWnU2NnYwNFBfc3UxMFJhUWNoRGsxbldtOWpUUzRFcC1UVTYxelZKQkZjOVJlbVR0bjQ5TE16UFlEeFNUMC1GS3NtMWtwYWZDSk1RSG9XbTY2WXV4bTNsWUdfZFlZVGYtTW1xaHZIOEpyX0w1NF85VGxRa1R3Q25fVDJlUnVrajJFN2pSY1BzM0doYUVmY1lKMGZNZFZuai1LZ1drWnFCYzVRU0huR0RBUzhlektHRHJCU0RFdE1jdUU4S0VKRkZobHUyZEdEM0RjcUdKR0ww0gHkAUFVX3lxTFBpenNPaEtwcWV4N3RKMkktRUt6YmFESlhmV2pwVFk4SmQ2TkFqenAwekNVU1lUd2lTUllBN2FOcS1obkk2TjNQMGw3MC1ncHRJRndpWnpWMGZUVHkxTHpoTUFsemNmcFVaOExkUXVNVk9PMDBHNURjYzhtV1Q4Q0FsVGVhcWlDd056VzRaMnlwV1BrM2VlLVUtQTVyRDVjbHFtWXJoUjRDcVlfNGtQU2lqTG5TSTFFVmhVVmY4SVlYcTl4b091Q0RPd3B3M0UtSlN3cGd6WlhfR2FVanZxUnBSclAzeg?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt can re-engage retired employees to fill 50pc of entry-level vacancies",
+   "source_name": "NewsDrum",
+   "source_domain": "https://www.newsdrum.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0J0NXZaTzlGWXhzU2dHQ05aUDJLR0twRk9zWGNmd21ONHhtVHhqaURQeVVtZE5vc2VRRUg0c2dydjVrYWV3ZmpkcGVzMjJQS1NLUDhXZzd1elNzZVQ4S3NPdm91ZE1sY3dPN0pFTFJidkNHaUpLNHlhYkNNWXhyNUJjVEhldXdGSUY2S3JwQTlzaHFJWUFxemtQVU1DRFJ2ZXN2TFBMWTExZGxSOWNFN2N1VnZneVFmLTFPSkpxRXdXaTjSAcMBQVVfeXFMUENCdDV2Wk85Rll4c1NnR0NOWlAyS0dLcEZPc1hjZndtTjR4bVR4amlEUHlVbWROb3NlUUVINHNncnY1a2Fld2ZqZHBlczIyUEtTS1A4V2c3dXpTc2VUOEtzT3ZvdWRNbGN3TzdKRUxSYnZDR2lKSzR5YWJDTVl4cjVCY1RIZXV3RklGNktycEE5c2hxSVlBcXprUFVNQ0RSdmVzdkxQTFkxMWRsUjljRTdjdVZ2Z3lRZi0xT0pKcUV3V2k4?oc=5",
+   "published_utc": "2022-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "AP Govt resumes school kit distribution despite photo controversy",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNS1ubHRLdktqWnR1Z2J1UVR1UTdlRGxvOU9JTFlONEcxazFFa2tLUXNmWVlMQW9wQWlLcTAtam1BTUlkcmcxUEZHVjIzVWo5dXI4WkN5XzdvaUhPWk5vUm9aaDdRazlkQ1IzRi1nMUtHUl80UmM4ZGo3UmNqejVNeG1fVzA5VjIxMUNYeFdObTk3TDhMSXJNSnV2aTZoTWptSlpSY1lEQ1UzblVzeGVEdnFEc3JlUC1WYWtQYkRLWXRBdUNDVFFkYWtkNHg4d0d40gHWAUFVX3lxTE5uMGdjbHlYekRpbWRSbVpHU25YUVVBOFBCN0FyZDFCeUZOSFVPcmoyWjNwdnRoOEdUc0hPdkszMk85dm91dklwX1dpdUhic3BTUE9ONVpnZ1dlYzZ4UXdONUJaWktWZ1B4X3llUUZaT2pnbFJyWTNfbjZCWTNXcmVaUTJ0aTMtSWV6WldGcGFuWXZ2V0luRXowamphUG1rQzJiSlRWRXJnYThMbnFYXzRPaTRyWUJ6Z2tRbWVQeEowV0tkNnEyWEZ4YjIxS1M5OVVITG9TOHc?oc=5",
+   "published_utc": "2024-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Health Minister assumes office",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTBrY010TjlOQjhSc3FsNXJRUlZta3RWOEtBOXNjZWtLOGdvNTVQa0hYQm0yOHJTVEFyRjJXVkw2bU1abFJHZGN3MGlkengzajg4dmJLQnNLOHhvV3YxTHAwNFpDQThYQjBkNWlwVmxIMUdjUV9FVDdWMkhwbVRCQmxnMlBSLXBibWZmS1gyTjFLYmFDZF9EeTRJVTNKbnc4WnotdFdzaERTMmhLa3dRM2xB0gG_AUFVX3lxTFBMc3czNDAwOG1GRHE1enFHNElXaFJ5V2lwWC1scGdpS19EU29hNEc1eXpuZ0lxM0czZGdaNDRqQkVLSlhpTHcwNjF1LWJkZ3ZsQ1pYMTNmb1RpYnh4SWhrU0xVZkltUlcyNFBjeVZlR1Z3WTdnRFR1YUZDSDZoclBubHc5WkdZRVlCcEhXZ0hUcE5nbGpaRFhZSFVEaXo2SHZFYVo3SHJkRkRXQnJNRExTcHRPbzBhV3MzdnVSSWtn?oc=5",
+   "published_utc": "2024-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "YSRCP leader, who smashed EVM on the ground during polls in Andhra, arrested",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1c1amF4WlZWdWVrZTdvUlBzWThab0V2Q014cmM5VmdCQXNCQzFReUdISFo2a0poaDRPV0hER09JTW1QdkFjdzhGTWhtVjNnbEl4N1FhcDB3bFo5bW5IOG1mMkRDWHlDVzJGSnpJNDN4aU5ueGRqMkpVX3FsX3ZsMmlBczFuSmZxQjNmZG9PTEhpLVlvbFladGhVX0stWU5GNEhlQXU0aHJ3ZG51Ukw2V9IBtwFBVV95cUxPcTdSOGFtZzNGVDcxcFBkME1ocXNLeWZ0TnpKSDBTQmx3SHdHWWxtN1FOVVUwZ29qRjlPNllSd2tPM0I2aHZWakN2bWQ5c2ctcjhkRjhkQnA0TExXOUZwQUlmenRCQ3FXeW5BNkxBRTRQbEtiM2FOVlUwN3ZoaVgtWEptMWlGMzNLUGx1NVFubjRqMHlxdWVxWXVUVFBiYml6UUpWY2NuWHZLNVV6bll0ZzFhTWdwbEk?oc=5",
+   "published_utc": "2024-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Reorganisation Act 2014 Brought Marquee Edu Institutes to AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzRqSHFMcm5KelFuNE5jOUFqYWduWnpoRkZueU1UQjBpM0NxakFBbTlaYUt1N0pVTXdHVnZ4NEs0WURUUE9JazRiNENkNGZHUW5sT2ZlTFJqZWdnMVEtaWhjM0ZabmZZRDhmejdpWTkxSC1XQVl3ZEV2Z3hOUDBpbEVSLWhwOTJuS3VWUThnWlZqSUhhWEhtZGRzaWd2QVFzakt5OXNjTEtoenplVmQyaWZZeGdvSlhBVHlNeDhqX1dNdVFhblplQjZIQlZOQdIB0wFBVV95cUxPOXJ4bVNnVGZLalZLWFVuNUd4RUI5OW44SEZzVnJMOC1IMjd6V09KQjl6ejRPamhDUDJkaFRVbExxajBHRHhFVENrQm9OeF9oSWc2UUNSdVkydktaS2FWbXQweUdTWWc2ekZuYkpXUlByVE05d1UyTnpfM01fUmsxLVBRQWk2cDNmSXhDQmlMTlhtOVRKSkdSaU5Vd2k1OEljMldmR1lDZ3pKNmdOM0JLNmdHMklqR3R4NkhhRWJ6elBNcXczVlVjcURncG1iVldLckpj?oc=5",
+   "published_utc": "2024-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: E-Mircha helps chilli growers reap profits",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVkzdUI3LWx0UGpvX0FaU2hUUUR3bjZuZjNMVjhFM3NxNzUxOWhfUjBJMnV4eElscGpkUHNnN0pweEdycVYxQWs3T1JURTJ2SThoUjljeWFDSWVBVlFJckpEV0FWQW9ZaWYtWHhTTlpUeEEzS2x6cHoxWU16Q3QwTXFTM3hBSWNtbXBkR20tYU1jU05wbUplRWJjMjRBT1pSaFEtcE9scnV6U3M4Y3NhajlKSE05ZkdXY0h1NVU2R2FxUdIBzwFBVV95cUxNYnRweTBXczUzTG9TV0VrWDdVd0VrVUFnc1V2VWNpNUNHV2E0UFlPRGtObm5hUy1kRW9PaWlSZ0RsUmZUR296Rkd4elhKUDVQellITDZsdjZ3RFJBZFJPOFNzOVI3Y3BVWU1HOGNIb1l4bk1nOTVRSFFvTjBLdS1DUEZYWEJfeDRCRDRIS0t2UEJ2QVpzb2M0aWkzVVRrMUkzTzdNajNKSUNUX29CaVhweXN3SEhSbWlpT05vSWNXd2RZR2pjSlpfV0daekxfajg?oc=5",
+   "published_utc": "2024-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Inquiry officer appointed on MLC’s petition",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVlySWJacUNZM05GcDZ1dl80TWlzSUNBTVJUeXRwbUFrdXRUQmt5LURTWW1xQTJ5MEhpRVhETXdsYTNKSzVlNkhmb0RteUZPV1Z0dWpXdzk5WWpmWWlKdE85dTlCTnJyY0xyUW5saUJycC1kTGl3eW11aV93dG1GWnl3V0xBYzQ1SldOVl81QUVtdU5RWkVPQV9pel80UVpBTTNrMkxCa2tPSE9jRHEzVzV0RdIBuAFBVV95cUxPdHRzZ3EycVJWd3VjdldEb0RqcGNDVGxiNkhuNVlmS3oxWGFWXzEtOEVROEFHd0lfbjcwdXBHaGtYTldlV2FrU3BHMXp0TWhuekV0LThLdHQ2eUpLRE1nQkZ0WWhBZmFIZ1VPa3R0X29tcjNkLUxadmNWQXh4SURtOERoMlkwbU5HRW1iVkJXZ2JETlVFXzVTNkYxcmoxU2c2eE5vWnVGb0JmTDVLX2V1YkRfMGdjN1ht?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AU announces results for APEdCET-2024 and APPGCET-2024 examinations",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdDBFcXFsbU80dlRzUWh1X2tNLTYwSUlBUjlLX1hHOFFoWm05emc4MGQxdXhUUkFMMzIxVzFxSzkxZW5CSFJ4ZkloUWJRZENSbnhmQmdHM1NBOTlmR2N0c2RodGxzYUZuZVFVeUpqYnZ6eTROT2EwSTBvQ0hPejFaTVZDMy1POUNMRGVsUkIybkNKNC1FdkstWTFxcDgtalg3Y3c3U0NMbG0xdHFyWkQzMzh2d3dHcnUxYVlQckNNazFKNmVjUEFYWHhvWjJsMlIxbWhDNtIB2gFBVV95cUxNVVg2U2JIcjZfWHd2VmhZVmpMTzVoQW5yek9uTUREZHFzWXlyQ180Zmg0VjQyQ2xrNUlpVXBPTzAzdEpweVpqNkVrQmxqY1JNM29CVVB5REN0Rl9qYkZyLUZKSzNVd0thRUlKTlROQVVDOVpvZDU2NlBTd0RNVVNQSUx2eEdqVzMyX0RDbWFvVEo4TzV6cGxWWjkxa0djWmZoYlY0aGJyODd0MTBrQTRtbXEzdF80UU5mZkhSZ3U2czE4T24wbFBCM1pDWHVWaFY0NjQwOTQwa2ZLQQ?oc=5",
+   "published_utc": "2024-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gummadi Sandhya Rani takes charge, signs first file",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkFxQjI1OEFpM3FQT28zQWJrMlVqbkNibUV3TDhMSG9sTXRGTE9oT29SaFc3M1l5Vm5tazdwWUJ5VGZZU0FKVzcwVGJPdjFBUWRqUFdPcG1vUTdYc1FYVnpsVnZhSlNKdGNQZ3BadlB2WDJHUU4wd09ZNEJGM2k5YW55Y3JqYmFyaEVKNGUxaUZDRk1aOHprM0RUVUNtakJ3YjBPZnc0SldZWVFmVFBZbEhtTzdGaFlIVVBzNNIBwgFBVV95cUxNcEwxREpJVFRjcVlyYkNtb1hLZFlVM3V4SHEzUGZoNTRxcjl5UzZXTzQyZDlXcFRvaGlmcWRpVVplNXBSSVlwSzc0T3lINXdwMW1qOVhUYm1rTHhTNG1nZ05LZVFFN3pGOUR5dm9oQ0xaSkE2WEpwRGtrVkRvQks3bW5KT1hSYk0xa1ZGM0lBd3lXMHFuUVpZV2M0TmwwdE5NT2Q3ZWFaMEswZUZKRGEwSU1OTXlFMGxLTFdSeXNsX1p3QQ?oc=5",
+   "published_utc": "2024-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Naidu government renames welfare schemes",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXFXaHZtSGM0SnVMakJ6emNxdE02d1BpR1VqMDRNa1JrR3BVZU54enVnc0xuZjlEWlRfeU5zU1JzOFZlZmhpazZBSlYzOHhwR1EwN3llQ0t5Wm5NTjV3QXcxbF9sbW03b0JOUlZlVjNsQmhIc0thcVIwVUxHeHFTYVlmemwySU9qRE50cW9iRHNkeFlETlZyYnRmS0RidzdvNW54RlhQTzFYcjNLT0V2bHhvdmFMcUxhMTFOeHk2aVQ4OE3SAcgBQVVfeXFMT1FDODRzcm4xaFd1UDM2UmFNQ0lIdWtobEVqM2s2dXlBUGVPRXdJRkFRc3g3Y0MtcnFNX1FnUVIxUUN2Ni1lcW83WE9ySmdOVTJ5X25WU3ludHFydU84UkQydGp3LThydWw3VFVTNU03UlJUOUREbktBbW04c1FTQTl1RUlnbHpTSHN2QzFLd2d0Z0tvQlJKeHZIeVNUaDBWX3VMWkpSSzBwUmtUMmJ4VGJ5SlBQVmpmNS1fbl9rdEl2S0dEUnBBaHo?oc=5",
+   "published_utc": "2024-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telugu Yuvatha, TNSF Demanding Probe Against Prof. Hemachandra Reddy",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFRfd1A5b1FCcTdoZThreEZVa0lyXzRBZS1VSV9JQ2J5QmVzRmZNbFNXeWV6cEw0LVBZQ284cXpJY202S2pRV1QzVWl3cm03Q3lYNzEtZC1uSkphUVZnQmlfcld1RFlzSmFxMjJmMHdnT1Z5ZVBIQXpfZ040TmRTTEtKdEZDNWQ2clVOSlZFRzBLUVVrYUNrWVZxanFhSFNhYXhETGJHUUVLeG45elRwNldhMXhocVNMdUVmU0F30gHDAUFVX3lxTE5DdVBqclJwS05UbHFaV0dFWG5ZQ1ZvMkpHdUlwdm9rWHctVVlib0RHRGJmSGh0SU1BMk9PblAtZXZ3SjJ1UUpqRUxsWGJkZnVQRURoanpiU1RrczRXdjNTd3A3QXJSbEJWOVg3ZGZKM0JkMXJMTWpRUG11WUZSNU5oRjh2dXgxX0Z5Q0VRd0hyQ3lmTzFkU2tfcm43d0lVRy1tY25wUmdINF9rVFFWMzhpNjV0MWwzYm9FRTNPRUdyeXNhbw?oc=5",
+   "published_utc": "2024-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

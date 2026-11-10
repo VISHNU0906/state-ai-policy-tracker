@@ -1,0 +1,29 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Adani Group to invest $6bn in Indian data centers",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkFOWldYZHJ4Z2lXUHJPeTB1WUJrOWdOZGVpYW52aEZCRU9ZWHhnSjladVVMWE5Ednp6QUFHWE5KZjJmZzFaQ1RDbjRjekpNS29PcThTRE5aNkx0ZndPRlRlN1RUNXBLUXpZU1JnNWRBWmlnaWxVREFtdVZhTjUwRkhEekJTRWJCbXE0M0REdy1aZG9EeW1J?oc=5",
+   "published_utc": "2024-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What is the X appeal against the blocking Order by Karnataka HC Order all about?",
+   "source_name": "The Leaflet",
+   "source_domain": "https://theleaflet.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBkUzd5Z0pMRWlHS3p4dE4zbEVvdVFHRzFqS1BBSHVpVzZEMmJEb2RRSEJxRG1mTjRZeVZyVlFqTkF3MUFocVpxbWZ1TDBEUkpvLVVEeTlpMzUtS3NMVG9hdDJMWDBreWdqTmxaQ1JZNml3Y3BwZ2xOU0lHZFlYOTI5eVVQZ1BlWm8wOGdZa1FaeDc5ZkFhWlFhN0lLVGlreG10Q2dDUUZHRm52d2t1WkhBUG1jcTg?oc=5",
+   "published_utc": "2024-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Davos summit: TDP slams Andhra CM for skipping World Economic Forum, says state suffering foreign investment losses",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ1h0Zm5KOERpYzFwRUJYcEQzZ2FFb2Zka29OZVRydTI4cU5HY2psd09JcUdMZ0lWdFVjY3diTWRYSjRPV3RjQ1BCRkM2Y0VscXNlUXpDYUFCNDJCdjNwZUM0eEt3SkdEVUNUQlZod0Vrb1AtaUxqTndPSnJHZkdOSmh1SHFNbVVRaGJ0RGVZLWhHMzlJLTEycy1vb1BoOFViUnBkNzI2QzBCMzhUTVBuMlItNlp3b21iLTRhQWhGbnVqWENuWGtCVnBLZmVIZGN0azEwajBoNko5b2VkWnlYS3BkNTkyUnBsWEE?oc=5",
+   "published_utc": "2024-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

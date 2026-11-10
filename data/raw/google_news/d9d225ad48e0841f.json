@@ -1,0 +1,29 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "CapitaLand India Trust (CLINT) to Develop Hyderabad Data Centre",
+   "source_name": "Mingtiandi",
+   "source_domain": "https://www.mingtiandi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzYtS0hZNFl2cEZVQVFOaE1BRWZxSER0ZHU3T1h3WFpXTUxKeGktUzNKTHAwREVEZUt5TkVYSVRXVk5IS3RWRWIzQXYycjhjNTEydzBYTml5VHAzQlFrRHVMemxPUjVjdzNmOHdRVFZHWHlaN2k4QW1rRVpPY2Zta1FsRk4wV1RhWExSVFBLclM3YmM3T0xKTmxJa1l1QUNpVTZQcE9vMWQzOThwRXRhQ0kzYmF4a1hkSmZQZnFURlRMZw?oc=5",
+   "published_utc": "2022-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana attracted big investments from major corporate giants in 2022",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXBmREQxeVEwOTFoWm0yUWY3NTdvNll2S2stZ24zRDN0WmFYNktRc2cwbkNtRWhKM2l2TFRRTWhZcGoyeWpzWG5aYjhDMHV6WjQ3dnI2SlN3YjFtZ20td0lac0x6OGhiVE1Oam91Q3BQNlotQllqSlFmOGVnZGlZNzFXc3FsWmxuVHBiWng1SllTVHBLbVduZFR5MlpwdWs?oc=5",
+   "published_utc": "2022-12-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana launches 31 Km metro",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQck5tQVd4RTNJR1pKWE9nV0VPVjBXX0tNZWpYVkJaUjlmZFkzbERaTVhjdE4zV0hhX0pkdFc4VUs5eXRNbldpZUhweW9sN3EtUlRKeGFWZjNxQXNFYUN1NVVEOHdMcFZUT1BlZmVoR19jR19RY2VPWDZFRWZnaEc1ZElQVGRTNnFsSldUOWh3?oc=5",
+   "published_utc": "2022-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

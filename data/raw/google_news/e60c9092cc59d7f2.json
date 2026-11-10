@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Only 1 lakh of total 8 lakh govt. employees in Andhra Pradesh have downloaded facial recognition attendance app, suggests Google Play Store",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOMzlncnN3M01zZUFnTlNQc1dLVklwVDRaeXpkaUczeHZpRHpfM3FVWWRHVllaREpqTkE5WDRNRzdLMUhTNmxzRW0tM2MxNVp6TEJUQVh2ZGxOdFVCRThLVWU1ZFhsT2oyZzlmUEhLY0hLcVZPdUlYdFZzdnhTVXNHUkViTGh3NGlSWWJuMjRCTjFzRmpyRnVHbmZMNzM0VEJyWWtSaHlpcVF5cHVDVG02dFJCdmhrNGFJbDFvelBac0luaUY5UVlEYWphUFZlR0YtOTBRamIzUFlVRDFlWXUwa0ZpZlFueTU1TUFMbXFYZDlDbDZpMy14SXF1cXNabk1DOXI0WkY4enBRRXZUdzMycURnenRSVGJmS3NwNlFGZWU2VXA5TlYwLUFjVWxpbU5ETzFhblFB0gG8AkFVX3lxTE51RGVLMWk3a001bXJhZ29uSWIzZmw5TlJZMHU3a2ZZX3pzSll1X2xmMEc1ZkUwQWxRUmFfckFiSC1fZk5qcklmVlV0ZTljbGFLd094MEF5LVFqZ3BQTmdIdThTX3NrMVhPeUpkOGp5cWtSM1cxWmJ2LXNQdlRIeVp1bjFOYUdZdlVydlFIMXRveGhiSmQtMjlPZjRMT181dW40XzZ4RnhpOFVUTGZadTZMX18zQXFsbGg2Tm1MOWZLQlNwRlY4blNqT1RoVHlwMS16ajNSOGtwWGRmdEtCVE1VeFZMWGNpY3RIbFowcFJhczhTMXkzeGtuV0l1and3UkFSTmFuNWtDdXJoRl8zRy1BUHB5M3dsUE1ZQjdzTkhQeU0zZVpRdlRwRHU3WWsyZHJuQm5sOTVIZFo3cWk?oc=5",
+   "published_utc": "2023-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Salary delay: APGEA lodges complaint against AP government with Governor",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVJBVUwyVDNaUVdhMm5aQUJORDlkVzBRZFBsODgyUUMwWlB4cGdHMlRxV05hQjFRWjVmczdEd0toWmRnSk5IalBwaGVtdzN1OW14d0t2b3hsRzNfdmxXcC1FS1FzcUpfRTdfVGNaSDc1OXBSTng1RzQ0UlQ5blgteG00cDBEYW5qWWMzOHFPN1FQaVp3cWNtTF8wMlg0alQxb2R2RFhLSTNkYjF5elJuZVdlTGZ5Y0g1SElhV3otQTQ5MmdUenBvYdIBzgFBVV95cUxNUDNHblAzRWRXWE00U0h1ajZibm96Vi1pejRvb3psQ2pnb1FVU1lHZ25lYXFpOHZwWEJPN2diV3Y5ZlRyNGlZMUVQaDBnUlU0TTJXWlhfNGczZjIzVDAtQUh1SEFzYV83LXpHM1M0cEM4RGJLendjYUhEbUphcmljYVNpM28zVmJldHpSVVpNNF9SMnQ4NGNnQkRFdkVPdFM5djBKQ3FuZTZlZHk5OW9NWlN3d3JVaG5hSmVrc3dGTl9nUkZhMzc5Y0kzY09SZw?oc=5",
+   "published_utc": "2023-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh deploys facial recognition, geofencing technologies across state; 1 crore faces recorded dail..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNN0VOclhXZ2VjYi0wRmt0SE1EZGFNNmRxelRfQklCUnFkXzU3MTRwU3RPWEhiSEhYeWtLcE03VzRtb0VCWGNZemJjUXVzOEkteTlPSXl5NDNLQ0VUM3dhTnBWNm5WZzdZWE9rMjlabHZPN2UxOEI1d1ZHVkhkRGNGSVhFZ1dvdzFPT0VSYmRnNVVqb1FLbW5VTVljZ1BvZ1NMakNTRVhlUzdqX3J5c3djOUU4Q1otT1c3eVZQMGNBUFctOFJQVkNHa3g5djBxSXoyZWtoeWJjblF4ZUw5QWNsZGxqVjQ3Y2dfbXVVX2U0Y1hBZmNpanJoakZ5bDVJaE5KcjdFS05vdjc1OWs50gGSAkFVX3lxTE9SNjB1alB0RFoxOF9qbURDRDNDTmFyM2JCM3I1V0NCUFp6cW9fRlNyZEpqTnZtMGwxSVNmLWloeERHSEdORmpaX09HUi1DYjdYOVhvRlRfbnM2RUdGV2txX3RnWEUxaEhJemRhOUg2RnVLdVRaVlNYS21JZlZjaXVtQjVUdGthZVRaeVRKVGNXTlFwcGl6WEFDclZfMGZtUXN0aDZzMmhBOXlmalBpa184SDliTVJDcGZSN2ZQWGNQOEVlSEdGcEZ6VzN2N2VZWFFPOWdUeEpoU1U3bE9HbmJaR2htalZDV0lvd0FQNmxXSzhvNkZLU2xqZHlnRUxpNjE4V1ZFaUVTQWJndnExbVltRmc?oc=5",
+   "published_utc": "2023-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dashboard to ensure functioning of devices at AP government hospitals",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVTd3NWNkWjdJMDJzZ2JBeEpyZjcyNnBhbkQ2WlFaMU9GLVo3cmdoZnF1bFY3OXhfSE5kVG5KdXVvQ013QWhfWWQxcEFCOXVDWHFaWkxDcWtFZmZXUE85ZERWRkRGUDMzZVJyNWxYWFZ0Zll1NUxMbnc3ZXY4NzdnWDZnV0NuUTVTVFNTU0ZiYm9haWJBcVJUVHdmTzY1XzhRV1lfTURid2FJMnFhMDYtQlZHS25GRHN0OFpLNmVWcXJfMVZndjZtM1Vkb2xDNVZDMXfSAdcBQVVfeXFMTjF1OGNLY2h4OG14S1d2bm9hTzg4U3NiZGk4ZURlTDIyZGEtMjZtRVJ5bUN1b3A2VW0tb0hTaWxEWXFURG5iVVI4RVFaRDlQZVl5SlYwUWhodkNzaFBVU2hQckhDdnJPdGtqRlY5ejN0OFBvSzNDb09wbFAzc2ctT2J4cmVkU3lGeS1iaVZYMVQ3LU5kS2NURVJudjdUODN2OEhlWEtkOThTTkQzTk94YldvUkE1a3RBamZNQktSM3FjUXNjUFdlazRzOEI4OU9Ba21hTnVjMGM?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "â€œEssence of Constitutionâ€ upheld by AP government: Governor Harichandan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWpUdnU1UXUxNkRta3JoYmtVNm96bDRGQ1l4Vm5BbENZVzlBYmFSTjJIeFBXamxhbkJMTUFWRnRLLTBtWjQtRTMxczBDYnpkUnNRbS1QMHBrNUlUVFliZ1FiblFCTjNMRDJVR0Zmbm84SWJLY2Z2YlFneVY4UkI2QU04R3JzSktxM25wQVE0LVlzV29kbDIyakQ0VGU1Q3VjdGdYV05keTgyRWNfVUlyNDZ0UVlRQnJiMDB0ck9mNGlva2xhMDhB0gHMAUFVX3lxTE03Snl3SnZlUVQ4a3dBZUNtRkFuY2J4R1hUakc0aDhjX1o2UWtwRnIzRWxtVWNyMVpTWG1QazJxVUJNWlBKaFFZMVdKbmhqVVRDZEN6TnJPUWozbGpFLXJ1QVJHV050RjhtSGhLWUZDUllJaExKZHVHRXZZSVNqMnZSY0RXa3Y1d2lBcDVOSGlKSE5NNHBHcDhxMXJINUlsQmszbUpaUXlhZk94c2RFRkRWSU9zNkRpMUhkSnpKbEZMMUs2TDAzZU9VdWgyTw?oc=5",
+   "published_utc": "2023-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh NGOs threaten â€˜direct fightâ€™ with government",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzlGR1V2R0xxQTlkQ3RNNFlUaE9DbVl0cjVia0l1RXdReld2Wl9fQkV2dk41SEQxT2RfSmFjZUdnTHJFaUhOczQyVm1pOTRYdHhCTzVSUThDUi1ZTml3bXAtbjBoWUFCYnZXMENaQ05YUlVUcHF5T3JIbTJ6dThKcmVxOC1sVEQwSEtTSWwzaHh5eUVFUnJzTHpCMGFWZUd3dzBNSGhPal9WOVBacUttQldvWEdLMmFIbWFsQmNZUdIBxAFBVV95cUxNNWtpbmVWRmxYTDlnVGhCUWtsZ01fcm1wcGtjeWF3U1F3cHJ1bzRqN3lkOHlTUVJxS2ZqUlZVYnI3ZzJYQ1J1TnQ2RTJOT2hfMEpld1NYYnRFLVQtZnEtZXZSNlFfdnBrRmVaVDhYNzZwd1VPNVFLUmFIYnlEYkRhNU5mWUpSYWVFcm5ZQ0NIcXRqOXVlaDlFd3Yzem12emZpTlppa0R0NzJfYzV5dExpN3BhblZrSEJPODlOd3hYOVkwSFMt?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government respects priests: Deputy CM",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzdGelhjTl9mVDJGcHZUaWtleHprZkpEVVdnX3BsbXZ1YWdHYUR5R1dhX0hSZDVNNlZwdjRkdHppNVlrb0dYQ3NkckZZako4cWdudktQajRuOWh1UHpHQnNKeE1BNVZCX2hHdVZCN3J3V3pNTXlMUjhYVjFXNHVFY29GT0dmTlRwMDVDbWN1OGEzdEtVNlF3QnlVMUNVeXN2REkwNnBNcDHSAa4BQVVfeXFMTWN0ZTdrZVVBam4wSXIzZzFtUTlJQU5DaDItd29UaHB6WS1fS0lDd0RmS3JDV0NFY241MGJaQ2JYQXl0X0U1aFB2ZjNLNWprblV2NEFBM2ZSRzdaQjJ6Zi1UTHdMem5tQjZVOUc0ZG9rMmtXekxfN0UtQmNVYWNEV25MZVl1MXFCdERYZVZXOV9xVTl2QnZzUVo1U1EzNm8zNUtVdWlZcWFycThVazd3?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra to distribute 2,000 drones to farmers, Rs 15,000 crore for paddy procurement",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmM0YlpjQ0xaT3JXYzlDSkZ5Z25mZDVuV082ZmI0VlhFcEhMdUdMb25GYzROeWhhUmRFTDhCekV6YVNHRFdqRk55dWVrNFNXMzBCRXhuSnFseHhodEJXMDRGMUZBc1owbm5wcDF5TVV0M3plZnFxVzFvYmt4bzdSR0I3SjV3a2ZUaktCRERaVVNLX0NWVkRMRHNUcDktZlR6dmIta0FocGpCWk8xQUJYbXhVM09Uc3hlbGdiaDJSVE9XdXY4YlNRblhDRjXSAdIBQVVfeXFMTkVCRWZtUTc5R1JjSWJmMUJsNHpzTFZjTjVuRG1FY19PeFFMNjlSZ2V1Wnc0bkl5Y3ZaUTBEWG9hYm1CcHQ5MHcyOXI0QXRIVEUzeXZMaWcwMlhtOEo4OG8yOE5xZjZiMGRtNERYYTU0U2l2SldBNWJzUVZNajd3alViYjhxR1NlRFg4ZjBHNGVMT0FEVVhqTDk1WmJwT1RxMEJyMXYtamhZVGNNUDFDc01rNnA5aGRGeGVDWjlHRU1Od0hfRzhkS1gyQmVXc01hQVZn?oc=5",
+   "published_utc": "2023-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Andhra Pradesh minister Vatti Vasanth Kumar passes away",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUJFSEVMeWVqTGZOUWktVWJ4Q3lIMzA2UzJYRTJ1bVl4TlM5bjVrVExpaWFQWTlncW5ZckZ5c3Nvb090dmJvYzJWVm1DWEgtbVh3RGg5MDF2QVhUSExIdjJSbkNVUnZHLTFseE1NQkJnSUU2RDJDMnBvS0ZOSHF3bk5ubG1ZQUxTMzJZNVN4ZlpzMHFNVC1Wa19oRkVFNFBrbk9RQ2JYWnFoZ0d5cldEaUdITXIxb1FZeU1iTHVsYngzNGUzaFHSAcsBQVVfeXFMTTVsWkNsRUt2SnY4bDNGOE5weVpOd2Fibi1oX3JRcUgwTGJZOHhIM1lmYXF2bk1lQ2pPZnVSU2NIVWxfdmpPdENlMlRGU002aHh3ZC1mWDdMcGdrUG1pWDJuV2ZvMlRiVUgwXzQ3NVJZNDAzM2RFOGloRU1rQXhScFNpUkRoNUF6VER4ZDIzeWpSNS1tekduYTIxUkVWdWkyM3BBSEpnZkxHUnpYaU1EXzl1ZkVScGk5anlHNXNfM1MxWHh6Qnd2T29JYXc?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government buys 19 new SUVs for CM-'s convoys",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHZFUERuRmtqbmo1N0U5b29KeDFTclppYkNER004LW9fRW1KdXl3RUEzYnc0cU5oYm16QnhCRGJoazZ5alhMWmNEUF8xZlFvQ0NRVWZVOWVqczkwMHJTQmxjVWhtb0FJZlNDTHNZZnVGdnBXYjUxMVFUclQ3UUhZT2hHV2xVRXdlTmxKTUhwSFpUYkxqTkRVRlZYOWVwSUw0TWFHTERzd0VQaEZ6VlRXbDdBMFB5Yk9fc2fSAb8BQVVfeXFMT0VFTURkQ0VhMWFSMHZlWWpUM21lMWpBN1VoeU1kNHRqdUExWDdOMzNHRjJvdjk5T2kyUU81RkZwMlBlVEFRYUdOVVdVanVuNUhuT2JCNElXQUVrQTRpS0xvT1poNWZpTG1MRHdfeGxEQktGRUs5cndrS3dDWG41MWtuU0p0OEtjVXVuSGE1c3ZoNGkxcm1aU3N1d2ZveWdXOThEQ2VVNWRNdlJZb1NQTWZLTkFDSmNDemZsUVlqR1U?oc=5",
+   "published_utc": "2023-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

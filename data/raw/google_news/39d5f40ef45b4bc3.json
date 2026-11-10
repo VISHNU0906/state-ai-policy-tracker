@@ -1,0 +1,13 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Kerala Budget 2024 Highlights: Liquor, power tariff to go up",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb19YQVoxaXBva2xyWXJucFRMSnRXTm9EcGVVLS1FcHA1QTYtSktNNWhIX3R5VXhodWkyemRYSUN6YmpXSG1fWGU5YXZZZU5tX1dnVnk2a2VBeWhHNkhzeUlpSGlKWm1YajNjQ2RwRFg2RGEtRVhobDJWY3h0WjlFaVZiRU9PN0hyOHhHcFUtczlVWGY3TE5wSHVrT1FjZzJ1VFR4LUpnUG1Fc1dSOUJueEtQUkR3RGvSAbwBQVVfeXFMT1ZuOTE2TUloVjZUWDU4M2FqYXRFQ2dFa2tUaVZULXE3X25RVDUwSXVOdlQxeE1Uek5XTDVlYnU1YWlGampDWGtaZ3BHT0hzU280emc2QktTVEk4b3ZvdFMwQy1HbDdxbk84VHBmQ29WbkFPTnFJZHhPb2R4aDdOZTlwTzAxRnJJallib0d5QkRQMlJFWVFtRTNhbWF2RFo0Z2JDWndGRVI1bEtXak95WWI5WXFac2lwR3NqX2g?oc=5",
+   "published_utc": "2024-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

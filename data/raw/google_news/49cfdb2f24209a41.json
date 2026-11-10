@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "L&T’s Kanchipuram data centre on track to start operations soon",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajMwTXBQbURPM0dMel9XOFBlV2Z4VDNkVTFLdS11ZTJBZkwtTmFyN3BTY3JEeXU2aHFWZktCa0J3WmpmNi1CWHhxM3V6QzRYSnVBU3A3S0Fia2oxS1hBbjNlRnlTX052ZVlFc19sQWo0QjdfN0ZZaENFbFdBU0NxX1lnd0hkdncwNjBLeWhyVUc2UVh0QWJlbmZrWVVLODJ4bVNz?oc=5",
+   "published_utc": "2024-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

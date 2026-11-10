@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "51.8 acres in Kolkata tech hub for Adani hyperscale data centre",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1Nma0ZLRkxrOFE4bmZ1QXhCNDRlZllmV0d6a21VNFkyV3Z6RktJOTRON3p5cm50ODZMRkpCQ0VxemROVXY0Wm00UU90dTVzMzhKT2xjVG5ZbERNWGR6M1VXM2NrSml6YUc5cWVTWFFUWXE3NVFwWUN6Mm1pMWo1dTFHeTF2UWwxZjVkb19VUXVnekZCM2pHckdyMnREY2xScnlyT0tBVEpHSHd6OTE2T3Z5VHdyQ2lFN1JiLW9pZDZDM21yYklONHg2Sl9ieDZzQTlF?oc=5",
+   "published_utc": "2022-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TCS to roll out chip based e-passports by end of 2022",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2hsYXhUZ2VnbFdyOGZoaTMtZkR6ZU9PbEF5cjJYaXNpWWJpOXYyY093bGs3WVltRlo4SnIyY1RQRjRvNU00V3UzYm9uOHd6UWJraXgzR2gtWjk2MmFtNmxHWlFYOUVMYTcwUVJ1LS0wbFA0eGNJZGdjLUE0QXQ0S2RFRUl6dnFFOUFvQ3V2NWNZVFBYbmFocHc5eWpwZHlxNE95YVhSVEY2OWxLTVpvNjJiSjgzb0dXUW8tNHNzTm0zU055TjRUYlBn0gHOAUFVX3lxTE1UT1dVdWktd1c5bDh5MGhzZjk3SVVmTE5BaGdwSUdQcW5sRU1ycUV4eWRodlRjeWh0MXpHTG9TQnRRV0o1QzJscUFrRUhfbEY2UDNlSlo1NXRGdEVKXzZGN1pVc0VYNzRjcUlPNVN6anVvU1V0MFBvd0ladDBkS2VGLWQydWVUdDQ4R2NiSjl3Q0M1eHhtMHdwY0lvOWExdGU3UlZzUXhwUlMtYUNZeVRtY2d3ZnFaYUx3ZEs3aS03UUFXUjhrR0xFQ1RrYXN3?oc=5",
+   "published_utc": "2022-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

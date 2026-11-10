@@ -1,0 +1,101 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "Applied Materials signs pact with T.N. Government to set up Centre of Excellence in Chennai",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON3FmNnhCSGowR1JIeGEyV08zcE1HRVd4SVU2V01pS1dPQUdjajNqYklydzQzT1pOSXlwZngyVjRsQXBCelJ0b2hYOGRTeV9QX1h6aDBmTzExZnMzbm4yNTYtLUd2SDJzN1lfSVdZeW9UX3F1N2M5RkFDWHl4OHBHcE9zVW04LUdXQWs0STVfSU9rb3JRT0hVX01MeHpwNjU3QjhJUmNoaVotQzFBLTQ1eHVrYjJYakZHeUhLcmo5emdNcGhDU0VMV05rNklSOWJnb2cyQkQ5bV9TRXZOMFc0MmRMYzdUdzdLVEI3Q1IzUTnSAfcBQVVfeXFMT01lSkR0VkdvU096Y2UwU3pxb0RxdHJLLU9obDJKRndCaHNUT1BZQ3gyLU9EZDEtZVBOdjVrZGFHWm13Y3o1WklDd0Z3ai13SjVqSVFtWHQ5dHhKVi1iWHdnekxldFBoNlc1ekNfb0lqZzNWbWpqUmJBQXlIT1IwSjZNaXFpSi1rNWVnUTJ6RHR2VGpjaEkwdVMxaGw4UVQ3bmstWFFnTm5obm0tSllUNDVpbEhXOHI1eDdJcW1hUm5HRHAyNlNJTzI0M0tTX0N0Y3dIbG9BdnVoUlpzVGRCMTRhbnA4OU5fY3dYMXpQSzNYSnBoQjJIaw?oc=5",
+   "published_utc": "2024-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google and Tamil Nadu government collaborate to build an AI-enabled ecosystem",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWkpvcnlQS2NwM2NUOUtTNmttQ3pZQjRhYTd4Y3ZqWkxmcVlMdWVuWWVWeEJ3SUJaTHNQWEpsaUpDd25uVWJiX00yMGFDQ3pPQ2ZuUk5CWTVQTGZRQjlITVFaempPZjgzRGo0UEVCSjNrbHA0cVhJWS1xRi1vdXRpWGkwNEV2bXZpTVFfUFdUWmlLWE85cUo2aDV3UnpJQ0o2c0ROdTVZSkVVaGR3eGw0REZ4SmVTU2dHT1FXMlpNNy1oa2labDZZNWZudnlxTlYyNUHSAdgBQVVfeXFMTlRCUmNnMXpxYXY5ZUJzS0U2UExndzFFVzdFekdkZHVjMmM2bDQ1TmZjNE92MmxBa2F0M0tONUk5MDZ0ZnhoWEpkbzVCOHh4LVdubWFBZTllRFlqRnZTRzBfai1KYXRFVk92VlpBUnZFbWZ2MjY3UXRzVEI1VHVTR1pWYTNWSEdwNWNNcHMwUW94MFU1cHdISmhlMk5ETlpxYkJ1UmE0OG9HaDFpMWdQbTdoRzZVSXZjQ2x3TlFqam1qTWNxaFpiVHUzS25DSnpPU2xkMnZTeEl1?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google and Tamil Nadu government collaborate to build AI-enabled ecosystem in the state",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0VCcHIxWXl6dk16NzI2RDF1ajc5ZHM2dW5yeW1nRnFfa0NBZWxvc0hWdjA2NXNWbUlvMUFiZkszMzRZajg3RkNQTnlKVTY4RkFkbEVuQnNHTkdrYnlJbnNrMW9YOWhnRnhwdHlWUS1YdGVGMmlIUmV0ekJsZDE2eklGVkpkVmRyUVpqbnBXWEd5QmRBbXE0aXpfSTRsYmVzV0JBaTAxS29vam9KcE1GOGRJUWVvRDZDdzkyc2VxWWtIeGJ3dm5zMmNQQlFNY3ZSaXpzWQ?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google and Tamil Nadu government sign MoU to build an AI-enabled ecosystem, Pixel 8 phones and more",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQW9jZmZENFVna3M2Q3dJcWZGY2RXbDdOY0hnRHdudzJHSXllTFhYWmdZYWV5bkRYM1hHYVlBN25SRUkyVVVzbUVHVG9CUlhTRkhnLUdfd0pocFpZRHdTM1I0VmdrcmljalVuXzIxREY5LVYzMVk1Y08xanVVRWRfQnhjVkJtbkpodUtuYy1RRm90ZllmQV8yUG5uMFdvNUtGUVE5ZnhieUhkTnVLVExoV0hRTm45VXlPWlNxa1cxbFoxQjRwTDV6YnF2dGpvOTlzdWU1SFcwV2Z2Q1FHSW9pTnU4MmhocHRhNVVDaXN2OWtRUW5oVFdVUDRBRmdDUmhiZmM3NW5xZ2dvTzlSZ2fSAZMCQVVfeXFMTjlENENBRkoyVlFZVmd3SXhNSGtnd244LTVORWMtUlREQkNfQ1hTUktnVy0tS2JEVmRqS01kdmlSMW1VOGpmVTFreVVveDBReVpndll2VjdJWHRVRTdpM1hZNlVxWW1IaUx5MEZsWG8yZklOcFV6UU13ZTJWUFRFUkhJRGlJelJRYnp0YzlnVmZ3NXR5SjlpOHV1SXVidjJwenNJUDJaU1dnNjctMlEzc21pVVFmMGIyVG1TbWthNjFuQ0RjSkJsUlA2dzJoU3hlLWJmYUxxVkk0VVhWNnUwUlhXaEoyRjFHM3BPOVJYMFQ2S0N2MG8ydDFVZ2VaSkpDMmdZd2Q4aWJNWjN4S0UzaGwxcEU?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Government Signs Deal with Google for AI Labs in Chennai",
+   "source_name": "Equitypandit",
+   "source_domain": "https://www.equitypandit.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOampzNVpVdnF0Z3JKR3lnY05NZUdxLW1SZkFINTZrQTJpRGo2dDdBbU9MTlROek1HSkk5S1VxcC1kSW8tVDhzMDRxWkU2V2pOXzN4b1BSRDlfME5YamlLNnd0blpFbXlqWDNiUThWeEduX1Z3NnNoeUhQbWFpaDkyYlViRVY4bTVuTHdtc19fZGl4Um5nOE0wUVhNSVp1Zw?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt signs MoU with Google to establish 'Tamil Nadu AI labs' in Chennai",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnJfNlVra3ctbUg1Z2hrZ3B1Nml5bjRyMjVoQ2w2cGE2WWwySjVVcmctMzJOTGdWbDVTV1lnUi1tNDROb3JMOTBCdXcxNU03WjFkZmw1TkNpV295SVdxTVJWY1IwTGRRYXFfY1RJX3ZuNWx1NWdWeEFrcTM1NW9mbXFFSG1uUVd0cUlZQXh2Qm9NYzc2VWtFU21hOHQzLUI5MUtBUnVlQWNVSF90UjlWRUNhQlBpMzhYdEtRTF9MVENwQmtRbGoza003NnJ3WWfSAdQBQVVfeXFMT2lCWkNVWXlha0FQbGdPSDF5WGMyVkF0TUw5QXkyczVRd3BsMkFDTjJ4UnFXTGkyVWhTX2tzZnNydzdxbVJGOW5Qc2V5M2lkNVNocVVBYjBnTl9maWZmU21VR0hOTzFVUFhvUHRhMkE2ZzV2SXRaQVlza244cF9iY3BJd0xHUTRUQmNsZjRuakY4UHBjQUQ5RzB1RHpVSVM5ZGxRV0NKRzI4OTFQVkgxSVpoUERfZU5JZV9yU1JZNEhqVHdodEhra1I5aVFLek1mRXhzUFk?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Stalin lands in US, to ink first deal with PayPal",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHhaalJKdGhjdDh1T0RyOHFtMnp5LWdlMlZGWU9CSkl3ZUgxOHFQN2U3akY1cklLcHZBZ1pWSXB4N214UXZxWHU0d0ppZ0JwWTNuVnk3bGUtWndzTHlfTC1DaGZWcXJ0MFRkTjMzWGp1LVVTbWN3em5uMGFXSUVvOExaLWpEbGdEUDhyVFFIaUJwRmZheDhxRk1EbFVyaXhjVUZlc1JEcVY4Um5nYVJKWWY2YWHSAcIBQVVfeXFMUEw4cU1mazM2bGdoSjR3SUpBWk5ocGZ2bjYyVy1ORW15eVZwNENxUDR2bW1Wdm9CRDl0VEh0VG96LWI5MVhsTE9wamtDc0pVeXMzcEpIUHRKd0psNDFSUHBIWXVsWTNkRzFDQjVvRjdSemRHZUlxNU11ZWdUOVF0TzRxZ3VuX2xWZ2hoZ0RiLTYzNHN1UGxPbWtDWjNOM3pNNnZXTlZIRHNidnFjOU9NMkM1MEp6TTBVOWY0Y1lyRnJ1OWc?oc=5",
+   "published_utc": "2024-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu signs MoU with Google to set up AI lab in Chennai",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzJFTDROVzFxZHFmSmhfTTFpZi1QZ2IwTnhTd0FyOUpCczJqWTBQTDlNcFoyb3ppZEsxNUR0cGp5UkJCbzFzdlplcmdETEl5dE13eEdpQ1FYY0tlZks5WXVpbFQyRmRsT1FoazJNQTlrSUQ1R0QwVUZTdWRXQWN0b1RtOW9rOEhFOWFjNHlZR002VGF6Vjh0VUZfcURDYUd0SzN2cnMtY9IBtAFBVV95cUxONVJFc2ZVeS1vTFIwUThOemUyMlVUNE4xbXpEaWI2ekZOVkR4bWVveHJRc2ZLX2dxNDh2b2MtRnBLb3Qxc0laMGJhQU1fOEtuQ0t3N0NBR2Y4Yndsa2V4ZHRkRlZuSC03Zm9JeTZZRGNXY0ktNExGbzhKNXUtTWlJQ0VpVW5xOXdLbTBaRDlZU3BMRXpmSjhVYlJiYXdfWTJXWXRQaWFDclUtNkgxdUU3RU04Qm8?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to partner Google for AI skilling",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGpEeW5ZMVQwNGJJS21CRVl2RnJWckxhUnV4WTYtdktaejB6amFxaG9nTHYxN3NUSHN0NzlFdk9CcGdteDVTNE9yOXRkdmNjeFhLVEREN3ZBSGlvSFlyVmM3X1gtSUdrb3psNDQ1WmdoeXNVblVFRkZ3ZzQ1Mk9aNUJmU0FpZDRHcU5iZGZFWGd0Vy05QUNkLUU0ZVJyV2lnVE1wN18tbW5PcEpxR1F2eEppTXlVQmRRc2lKNTdDOGt4QdIBxwFBVV95cUxPeGlsdmJqYm83cDNjVnBZbHE2eHR3Q2lXenN6ZFphYlZoYkk0LTYtU1RpLUl0NE5IblRjbFhPLUI1Mjl1MHozcEhVOV84eXowR0Q4OGI1TXByTG02bVN0X0lqTmQxRFFJdXVnTUZ3RFN5eTNkd1hlbjZHUDBCajJLQnFCOWFjdDRkeDJDS3pvbzhyZXlvVE8zbWo5R1lVS1l5Vjh0Zk9td0xPUFdBYzRuOFByanI4Um0ybk9NX0JNTjZlSWppVUlV?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Press Release Distribution India",
+   "source_name": "Business Wire India",
+   "source_domain": "https://www.businesswireindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRmhDRmFHZkVmUE9Lbi13cTVXckVHdVlTUjN3bnpGRWs3ZDktN3U0UTRmd2JSb3lEaXdxLXVHcWI1eWl4SURhaGxsRXhKaE1vS0dQUTVoRW5hbEhLeTVvcGNnM3l1aXk0ejhjTzBjZUFtN0hZOFdvMkpTZjZGWFZMei1faWJGQ192aHBoLUFJZDZKV0NUZHZ1VFBjUWF0Y1IxNjhtNGExYk9BN2JuYVo2YVByaWR6aW5IR05mYmNwTTVlakVVUUxWdlczbnZ4SlExR3cyWG9QeHNSdXB5S01EOHVyZ082ay1aOTJYX3lWLU9ReUVIYkhubE9yY1N1LUNTNDRJOU9reUdwdmZxbjZxNzBEWU1QTjdLM1RpUVYxd2RrbHh1?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN CM Stalin visits Apple, Microsoft offices in US; inks pact with Google for AI lab",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFVyUzAwZDUyRXZLZk9kTlcyN3cyZld2S3U3azJKRm1malBLZEFRTHo2cnQzM0VWYnVkVzV0MFF1UjA3bnlJQ0xCaHhQZkZCdFIwXzNoVDd5dUE2dnVoS1k1MmpXV202bkpzcWUtVG94UkVXU1ZnakJPQkVBMU1xNFJvc1RPYnJyRVdMZGJKQUR5Y2lxcGJhckpUMNIBogFBVV95cUxQTVdFZC1aVkpCWVJQa21CNEtsZTB1NG05M05DVGx4WU8tdEZBaWRmSWlnb1REWTg1RWRVaWcxWHBVcklPWXlWQ3o0WkR5c0NteENfUWhwZUZfNHZSMlhtbEl2NFlKMkpsbUhnbktmU2xEU0NQV0FlcXVENkVUeHBNU1pDV0EwUUV4UkJMZ3IzN2VPVjktdVFKeXYybG9uSXJKSGc?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "T.N. CM Stalin signs MoU with Google for AI labs, meets officials of Apple and Microsoft",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1JsdkQ1VE1oY3BwYWkzVEVHdFdvbmU0TUhBLUVaYVZjS3RTTUVvMmVvZk1qdmZZcEloSW1ENUVDWFlRb3hZNXJyOEt4ZnNyTTNQdFpjZ1Uxd1lNLVdKYXVsRzJ5S3NhbUJaREUyS19xQ01CMkd3V19nTFdWOXpWbWFzVVoxdzkzcmhLbFlPRHp4UF9FMEtscEpwbnNhcVJuWUlBdzBVaG5DNHUzSEE1T2NkZDRYWXZoRUx4eFdkTGlRaUt6SlVDM2VQZVEtOEFKVVFjbUZwX3h0TktmSVd0NXUwZkppRldscmQ00gHyAUFVX3lxTE5wUXRGaVdHWDRqT1J1dXBmT2JieURpQzFhdHBXTVJoSWpRbmZzeHhnSDNGa0hDdERZeGdCTktCRGNmc3d3Y19NNUIzRU56NVhBTnBESEQyN3k0UmhhUXcxcjdXdU5BQmt4OE5ReUktWmNGT2E4bFcwbnUwSzBQUHN6a01IQ0NYZFRvR3ZSVTQ5QVFuUkhHd2pGTWpsZFdxOTZsdkZjUnZaV3BETmVpa045ckVZZkNEZXZ2MUx6SlJPTHh2ZzZ6MnJoWVdFOUdPU3FyaW9QZ0d6SlNmeFh0ZEFJMWxDRzJUY0twREwxbXUzeGhB?oc=5",
+   "published_utc": "2024-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

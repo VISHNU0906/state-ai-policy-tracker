@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Punjab Police to use AI-based tech for better efficiency: CM Mann",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkxuVFJncUtWdFNYUzR5NHZQR2hiMUh5U3FFQnBUOFdMZXhrRHZFd0xtSUY0ZnJOdU4wRVF6aEp6VkJUSE8zR3ZwS0c5Q1JyMFNXa2RXOFhLTkxlWmhDVlZvSFlCSUZjQ3UzaHFaTGl3VEpNSWhDQ1FrZVM3ZE1sT0dvSmFJdnh4c1ZpMGdVOTdKX3BTYV9fb0p2dEtzbUxRUFV3QjlVa1dxaW92UlBTMnRVSjFmeEppa19EbktWc1paZ3o2MjJWRFFqTmgzbDjSAdMBQVVfeXFMTkVTQXVJMDFUd2JWQnQ1WGlTa29JWW82aUlmdUVTNDRDWjI2b0pSV0ZveXhjYXhsSUtqRzNlcUVYeklEWDB1cTE3ejJnbkNJY1A3S3ZxSnItdHdoUEFoTTdnRk9CYXRkMUpIdGY5RE9rcXA4WUNVQXJyNDV2SVZIdEpzZW5uWk04MnFoQU5zbFhiX2QwdEpFVHZjdGhTbkJLRU8ySUlQMzF5NmFjVnQzU3Z0SkxoU2laWTloc3R5cUJNck9YbU1yMFBWaURQN2Y4UkVkWQ?oc=5",
+   "published_utc": "2023-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to expand Panshet cluster school experiment across the state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjBlaE9jX0NJVVVYQ2JBaHZTZkk1TEpyeEk2clNHcXgwZkNjdndLa2ZoM2RqbFBwS1c5b2xGVGpOb2d0VV82bDNKRTd1SEwzaVhGdm9qcmgyOGhCVDhjLXYxQlQtZEFpaHQzOGx5NXFVWmhtdi04bFNTRHk4MnByMmhQNjBxOEY4ZmJ2R1Vtb2dnRTNDSDMySEdfZVd0bWJBandCMNIBqwFBVV95cUxOMVR5ZGtMT2F0M0x5TEhTOWtkQVBXRmQ1R3V3em9TUkM4OHRsX0hocEYxQm9HMHE0ZGpWTGNkSFA4RFJaNUZtdWo3c1pKY05TYnpwU0p6X19nU2M2ZkxLaG5kZnlhcEN3aGVEMGJIdlJVQmtCWUxvOXZOcGF3bGg0ZE5LclMzQWhPcGlxOUZEa055SjNyYlZNdENTYkJNd01UVC1OZXp1WDE4S0U?oc=5",
+   "published_utc": "2023-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Qure.ai, PATH India to hold AI-powered TB and COVID screening",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVp0QlN6UUU2TDQtRGRRd3FaUlBpdnN5VHg1WWstSHNQUHdRbE5mTWxZVXE0UFFrNzdHVEcxMG1sN091SEhfd05LOUx2Zmg4MUtyMTBPTUdnN1F2ZUhlN0pTdmR1ZG5JczRRczN5a1Z6OXZ6NkpSTGRQbHZKenA3NGoxTDMyclJFZGJkM2tIUmhmMWdmWnpwN1ExTVlzSi1wRXk2dVFwN3Y4QmhiRUdVR3lCVQ?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Janmashtami festivities commence in Gujarat and Maharashtra",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1FwQXFWVW1CSGI4QXh3WnlZVXUxTVFpaGZMZU1nV2pDNlVWOS1DWWNzTDF3ZHpNYklrSGF4U0duYi1kSWJQcFhuQ0pnMkI1UzZlVGQtUzgxQlg0dldVQkRMN0ZpYTFyYjl2dk1jQTVNT2haS0VHUWxVdWdTVHpRRVM4dUVnVGtxR0ZRNFo0NUpBMGJjSktGcVhFNFdCenpHc0xYWTlLelZZX3RKdkHSAbMBQVVfeXFMUHRReWVuRXk2cEpnTV9mejlvYzE2UWVFcGRCaDNXdElPLWdvVm1FaTU4T1QwdmJKQVFRcXVHakxMWnFhVnp4WU5WYzl2V0R3TkJNalphdEtEWlpzajJzZ2pXTkxaY1lDT1Blb1dPOFBpNldWTE02VnJRaGhSQmwtZWMwMUtaZHZodXpjVTVXVFpYdDdiUlhucDhTZ21IS1IzVnRmVkVodG9rTFB3M3llVVRza2s?oc=5",
+   "published_utc": "2023-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt launches Capacity Building Plan for training officials in various skills, including AI",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeGhsSnJkVFpPVzJCNndNdnRJVnNuaWZISEtXTEd4dmlCV3Q5TEdBRmR2QWwxakU1elZZLVJMVGNiTFBWWmlOU2FqZm9YWVExRGFqVzNpVFI3UE01ckdkSW9feGpQTFVWMWtRemxheDNNSndGWGNEeS15R3NzZEw2UnBjYTN2eDJDelNHT25CeFF6VHRmd001dHN5bWpidUJwUl9CWmVyc3dTS0xadkdpSkhMZ1dMNUlMR1VYZjJiX3B4eU50YmJ2SUUtQmlZakpiZWR5b0ExN3oyTUtTQnI5N1pHaTFTbzU4LVhBNFlnUXZpOVhONENz0gH7AUFVX3lxTE9wWkZoR0pMYksyYlN5WlZwVFZqUkxJb1ZPRGJGQmkzQTZBYV9kbUxSOTY4ZXBxSkliNGF0bkdvVWJ1U2xibDNxRXhXN3NSQ3RmekM1WlFONzNteTFNYWxZYklUMUJiQkJMaEpodmtDcEs1Z3M2VWQ0TU9YbWJ4U2JoekE5XzFGRnMwNWJ0M1V2WFVjcFNvQnp3bWhYWThQdHFIcUhuUFByLXVkZ0ItQW9BS0FTbENDV2tiSDBIZHUzS1lhckZNb1Nla3ZYeFFZaklZUlpMLUE0Yk1CWHZfNDZ5Y3FldFVqenVTbElxRG9meno0MGpiaktwbV9n?oc=5",
+   "published_utc": "2023-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Solve For Tomorrow Season 2: Team Stemly is Bridging the Gender Gap in STEM Jobs with Their Innovative Solution",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQmRHUGl4RzUydXpxNGVOdTlhV2dvNlJFN1BEaXpOMmVia0pvYno5ZGtLMEY2YzB6Z2xHOGN3MVhRbXR0STNGZzRHQ1dvZlVCYmV6MEdvVWduQ3A1amR4OTA1WXZSSm05MDdUeXNZazBfS3VCZTB1aDcyVVpIRlI1Tkk0Q3ZiYzNJU1F3ZnBWbDg0OUZoZXlJdWZuby1XMDhBSTFOeWdHbHM4LWVjbTVmUUpERThQSXJDeUREalJGaFFsTXREajZfMFEyV2JuTmRoWUJDZw?oc=5",
+   "published_utc": "2023-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Medicover Hospital opens super specialty clinic at Ulwe, Navi Mumbai",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnFmZDJQN1VEcXotYzdKU0lRaV94Nm5rNVcxQURaOE44ZlBWUUowYVdMZEdFUTk1T1NHeEF4RU5MN2dmUnZ3MXV0aXVhdjlYNVpUcTZuYzd0SzNZUzNpQlRJVnVoNEtJSUJCQVpPMHM5cDhQbEw2emx6T1h1SEZfd1N4a0UtN25hV2I4eXdTQ2pEMUEyZ1dpRXpDamZpUzczUzdBeVJhNklfNW5rVi1kbGhIeDV4X3Vz?oc=5",
+   "published_utc": "2023-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "J&K tops in e-Governance service delivery, has 1028 online services: NeSDA report",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGpTMFo4UVNOMUtZUkFlMTkyRDAxZEZNY3htTnRKOXJLanFvTXpZN3MyY3IwSlR0cE1Rb1g0clZpaldOQWdnc0ZuTmxQcml0Vy1zY3ozNXlZWlRRMEFiVU1IM25FbVJPYWRfb1NpTTNoNmFHb2VFOGdmMGNwMm02Y0JxNjBaNWRzM1dCdC1IWWt1NzdDZVB2ZGE3V2Q4RmhUeVBHTkRKZTNpOXFLWEYtU1BtQzFPTjRkTElrQTczMU5wMWkxTWJNOVpTdXdyWWlWbXQ5MDBuWWhLNFhoalI2MXZvc0Z3bTdqMUHSAe8BQVVfeXFMT1FJbGRYRjk1NVNENEhlbHB1SG5hNHh6OXN6X3otMS16bUdvY1J5YWQzY0NCTDRpUUdoSnRfajFpNTZZa3BVU0F0WGNjNGMtelJrSzVsdll2SFpVekxWamQ3Y0swendVemlMMTJ2TDVfcEZITk5IeTNWd2FvLTFvdXdGM1ladWZKQWxzOWl4MHZ1V3F1Q2FXc2ZfTndTLWNpenlCVjl4Q3p3S1czaHhlRmlGci1XVUlFaEhKY0tBRmpqU2FDeUdyMGdyWWlPeE9MQUNKWmxWbGlRSm9FN3AyTGFUZk9ueEdHOHktb3RhNUE?oc=5",
+   "published_utc": "2023-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meghalaya uses AI-enabled tech to clean up tourist hotspot Umiam lake",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2l0X1M3eHVMc1VrdkF4VEV0ZmJQTUhqVDZ0cGxBckE2eDdCVXdQRVAxUjZua1ZJUC1JeEhhVmpEM0ZuRkdnUUdJT3JnR2NkOXQ3U1lSdmh0R2xDanFMY2xqLWZXZGt4TVlsejhPcm1rLVVLeFVCcTgwRW9uY0JRcjBuZHNTVkpxZlU4Z2wyOGJKV0tFUWRKaFNxSG5YendkMTZlS3ZYN2l0WkpmWWkzblB1TFEzUi0yMlFmWnB6aHlodXVkNDl1WjdJLWR1SGxxU1RjMkh3RG03VFXSAd8BQVVfeXFMTUpxNmQ5a2l3OEp1STZVbS1NdmlrdmFBb0t1emFzdE1sOWtjcF9PWnpNTGRxOHYteGRXN0FSbnE1eV9UYmM3S0pwdHFvZTFhMVM0QndhRHlXcldvZHUxTzdkdnBZcGc1QmJERFRfN3ptdzc0NVR5YUpVYW5rS01OTlc0el9qV0xvVDlkdFJCSVM2Y2thalJUSFhqVkNMSXhNUHZ2YWMxeVBUbDF4dGRzR25WWDA3eVhPclU2aVJ4dThqNVdBc2NjR1FvZFNSdDRULXlwZnFralB5anZqOVpHdw?oc=5",
+   "published_utc": "2023-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra DElEd Result 2023 declared at deledexam.in; download marksheet here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTUJrZFpzQjIydVpaWTZYQ1g2Z0RXbElxazdFMzN3MnczQXhoWm8zSWxWa2N3Yi1FYnZ3dkFMZlRYOC1CN05TUnVybV9MeDRsV2UwR200TENWUXlFNmVuckw0cmt6aHYtT2JsVnZWMmtZS2hlMDI5SEV1MXNtMHZwaUF5N2tZdWpJWlNNNUx2MUFDdWdpd1U5UXYtSDRwN3pUTzlQN0kzX09qbUJhMm5Tajk0X29RUHdkWjVZR3dkTmhHNlJpVXRCUE1GQjJJUDZfUFIxbWtQYVo1VUF3Mk00MTVKZDN4MGpHTzZF0gHwAUFVX3lxTE1Ganc0eHZLdWxNRE1VUWJZckdWRUlMRWxEc3hfaGxTRDlvX3dsSVdPZHM2NlNpT0hZSVdnX0wtbjlQeU1YaUVBcWR5V0ZScXFMM1U2ZnlCLXEwdHlxYjljUl8tblh5VVg5dVZDRF9wYjZVUkNsdjJWYlVxMFZIZGRqaVlPa1hnZllBYVdxVnBnN3doeS1saWVfQTcxT1V3M1FrSEc2b2RXWTBqRVl0dE00Y0U2RXpXQjczbWJkcWFZQ2RZMVNiTWZPR0dBOUpEV3I4bkVIRFNoUDNESl9GeUI5TDJxRVpyeXpsakJTbGdaNg?oc=5",
+   "published_utc": "2023-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

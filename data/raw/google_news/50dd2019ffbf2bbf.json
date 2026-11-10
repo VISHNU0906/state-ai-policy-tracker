@@ -1,0 +1,29 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "UP govt blocks CBI from questioning 3 IAS officers in Rs 2,200 crore PF scam",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFNpRmxWM25OZnNkamk0cG5rTWJ2LVJCQWtKQUlYbS04bnY2TWwzMG1kN2w1N3h4b2lrZWZRMFYxMVJRQUk3VldKcDV5WDlYYjQ0eUJud2ttMS1oZGthbTdkc2xjakVRam1qMFo0U1JkVzRxZkRzUWdsTjZQQXB4TFdXVElxdm1tSjU4SHZkTmJEcnVJUkVKT0IxUTgzUTJlQ3N0Q1VGWEV4VzZtZDVfWk5VMF9tejZ0eU9zSGc5UjIxS2JO0gHKAUFVX3lxTE1uYnlnb1k4X1NLYlNEY1VJSWZIRlN4ZjUtX3dyMHlmelpGZjhlTnFhREpma2FZZmFOejV0aXNNMEMwYjFCZG1lZ1FlOUViWXRCMGlwcFZkS3N3UzhRQmRObHp6SXE5bzhqNnJZR1RTdVRJMXZyY2d6NFlaX1BLYTVueXZVclBhbXlnUVRnbG5ucmRfZkxJTi13a0NtTzZFckliMjNGTWExTFhpRGt1dmlabmxrdEdsdWlnQjByaFNwa2RiMWtTaXVGc0E?oc=5",
+   "published_utc": "2022-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Defence Corridor to give a push to indigenous manufacturing of military items: UPEIDA CEO Awasthi",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ3hQZ2ltaXlWb2ltZlZqNVdQamxBaGNrSW5KcmtreU9tY20zQXo1RVc1d3d5X2MybjNsNU5iRHJ0U01SUlRzM2x5bWI1b3RsQUdsaTEzYktPVW1jNVBocEdSYklaQWFpSUQxWGw4NHZ6WkVMZ1gyVE9hT2VIOTZ4VFp5bkJVeDdhR0VNM3l5bm4tcE51NVc3VS1LR0RsM3F1VnA2alRSLTVpbjY2Ulkzd2o5NzVCQlVjTE1lOFpaSFcwdG96V256Sm5tZC12STFmb0k0WnZ5T2xLNnJVRXk1amZQd2s4d0pzTG9UM0ptN3NHOW1SNjNlSUtwV29fYXZINF9fMVItd3daWjZOWTc3UnRn0gGMAkFVX3lxTE1saER0UGVCSW13dEF4SFJkbTZTcDRaVmk4d3RWbHZyY1Q0cm4zQTZLSDZCbFRJXzlHUTNCb1EzODNfVU5OY0lrd2lOVUFkRzRvOWNSaGxvcFZfdTMxbWxtampmVHozb2tENy1SYkprUkNKTHc5b0w0bGZGNENOdExnSUh1VVRvblJKaFFLM1pKdDZTSHpEMVNCSGVJM0F3R2I2NzRDNHZSQjJMSmxpZ3l6YWNkd0c5aXQ1SU5sMkRhT0xUWUtoeloyZ0E3T212WGVVQWRnZEFGZ091bjJTb2JnUi1ENlJzTGpmQkZtNzJFVG5oZVhrbHg3eXhIV2pGcnI0WDFVdG5ZUFM1OVU?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Capitol Riot Costs Go Up: Government Estimates $2.73 Million In Property Damage",
+   "source_name": "Forbes",
+   "source_domain": "https://www.forbes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOS02U3FRX3JVTUdtcFljOUl0NkdKVWc1Q2hpdmdfcTNGdHBzSkhoMENmRGVTU1lmQ2NwVDdtQWtaaWdlamJ6T3FDZXloLXdWVHc4RkU1ajVxUEJvTWJSb3pQWHhOdVpYdE0zN1RlQlhZR1hkUjRNRTRQWFNYSWRVNEdHelN2OUFadTk0U1Y0dTNkeFEzN0ktSDBTVFI2Sjk4MWdZeVJrLVNjN25RcEdLUmRyRzJDMTRHMFJkSVQwYkpobURfdG5XVlh3?oc=5",
+   "published_utc": "2022-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

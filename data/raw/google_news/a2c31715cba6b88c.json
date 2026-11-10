@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Maharashtra govt to formulate new policy on night schools within 2 months",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXhFeWswS3EyY0pIRzZtRW14ekNLaXNQa1VXTVY1dUtmMVE4MkR5QnYwTHpsN0N3dnI1MTBtdUJMTkx5aXlQRXZuNFJaY0V6T3dWREZ6dDA5ZDNHRzI2WnFSRnVBZDBEX2FCQVotaUJ6SXlwWjl4ckpteTloSk8zdTlVYXNERlZrUjJhYVNTc2FzUWtOMVd1bDBmSWFNY2RJaEg4TEVJdkszZmwtRG9KVGZhRGxTLTNpZWZ4ajlWZW9tRXNUbjNlbk130gHQAUFVX3lxTE5ydk5qQ29kOExUd1h2bzc2SXpCYUNkWllweEhHZS1VQWZHeXZ4eDdVWDhPZnlaTm53eGpEY1JjT1gtN1IydDlmYnRGU2o2Y2U1cXNQYlVlUDBUeWRuemNIbEZZU2sxRDY5S3BCbTF4ME4zWExfNElMenJQMHFlcFQ4Qk5pelRKeHV1QXRVTThKZGNoOHRTSjRKUnYwOXVlZFJ0dWlQQVZrLTVRWUxBWHZ1VVVEeUJ5M1dEMElCM0IzbnBoM1pBMHRTaXQydTBDRV8?oc=5",
+   "published_utc": "2022-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: New Terminal Building Of Kolhapur Airport To Be Ready By March 2023",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDJ1V1pHd0NpMi1laW0wSm1meUU4R0F6N1NDc2pmcUkyelpsSFRHbWJoZUFTMkVaSXdOUnJSaldfWG41ZWhYWTFYQlB3V0pRaTAwVW56ZmRVaWJGWjRCV19aQ19RTGpXbWFUTE5fTWtaWlRGRk14Ui03UGxfNTl5dlRFUzZVMkEyZUZJeWdOZUxpYkRDR3lLcTZuQ0lQMmxtMjhqbTV1UGtGSDFBRnVzRDExaEw5cklvOXfSAcoBQVVfeXFMUERXakhMVnhLckFWdFh5N1pfTjFiZlY0QTh5ZS14WVdMUTBtajNqa1NkM3owaHBFb0V3eHpTOEdaeWpSa245QXAwcHE4eWNma2lTVUpwYUMxTFNQNUFHR0JmbkhMaFhXWEk3M0owb1ZNLTFlSVlxd29PVWhoUFdvUWk0VnNtZXU1MXI5UlpWWVZNX3FFSTY1bGdkbWtoV3BtM3V6cHNHZGVlNldmMDZyTllYaHZKR29LMmQ3QTJtazRRQUtBSmxJQjdOZw?oc=5",
+   "published_utc": "2022-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first-ever Digital Lok Adalat to be held in Maharashtra, Rajasthan on Aug 13",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkFydlEtYndfQ2JILXVnQ0phby1xY2lsUFJIX1U3TlhYb1R1cUstOHVQbjhUZjNEOGh2NzREM0lpaTh2Yzdub3FISlh6U0xDc19FQ1JmUnF6RWF6emk2SFh4QTM3MUwyWGtGcEwyaGZQM2dzajRfMjRBWXEtcnpqRlZrcGZvQThBM01fdVczRFMyZGN5YWYxa0RqSmMtVFplTk1lOFROU0FjRnc2cWhqZGFFUEhVdDlL0gG-AUFVX3lxTE9WdkdrMmRLVmdQMXBUV3AwQURrWnFia0pQTWl4U2owOVd5WWh0UkZwVThLMnBucHZZSXp3c3dRcnp6YVV5aHhXXzVndWNYSXc0SFA3REMyU0Fvam93T09jSXJqNWt0dEtNYzVRQlVxeG4zdnN3Sy14UjBjOUZYX2IzY2IwQjBKaTQ3RFN6MHlJMFdyU1VpRVhPQWIyc2F0Y0ZQOVlnXzdNS2xaY3BKWVpHOVFJaVZENE1EMkxFRFE?oc=5",
+   "published_utc": "2022-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JNTU-K and NTR Health University to jointly take up research in AI, Data Analytics, image processing, 3D pri..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUHFVQ19WV0U3MmE3RHZDaFBJbGZoQlRGbWdZNW5ENnhyUXhiODBPbHVwOGxUcFM0NlRCXzF3cWh3ZzA5TXJHclZyOWNVUHhkbGo1WXVsTUtzVUNYalpRbzJWeWtsSXlIWmI3YW02VjRDSGRvX0ZPd2h1ekwzblZOemxaX3hsZ2NRclp5YkZrcFhXSjRoaXZ0RTNLcS1BUFdtZF9NeWlCSEhwX2xGWUtwSHF0X1VqUkdJNm5KTnRwU2NuVjFmdjFHOGZnQjJEQmxaQTdadGlpSnFlcWlBaWU1WmRoRGtxdk5MRHpZc3ZVbC1sdUlIVk5UQy1TM0w2NUx6QmxsSWdOLXFRdGhEUUd4UdIBlAJBVV95cUxPV1dGM3pGU0swS2NJVGlXREp3TzkteVV3WkVGLXI4M3l5TEJzX3BnYmNHV0Y0ZTAzSVpTU21RbS1TbGExQ0tfN3owSGVuTTRDV25ZYmI2NEV0eUFsNDA5c2RQeGNDVXZweHlaRHVTVU5UOG5QV2prRF9FOE1HTndJSDRtcTFoNm1IZ2pQXzZvSkpNYllyRjVaSTRPTjRKeG9xdzNVcE5UMDBpSzZnWjBqeWloTHo5Z29nZVhac0VhNUEwY1plUXlQOVdDV09qNXNzRzVhYnZWWmxIWGdXVVlxUVdBWXFnV3JMZUNrcFRaVDFuQlV3dDJuUXhmNHFPZ2hDTXh6WjdRN29UN1BJc3dSX2xrd20?oc=5",
+   "published_utc": "2022-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assets Worth Rs 390 Crore Seized In Tax Raids In Maharashtra's Jalna",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEszeDItc2JXMzY4V3kwSmpISzV6bEpwX0pab01sY1FLMVU5V2xfeDVnQlltVFZoVzlhTENpdzRBS09WZXhxQ01BQmJjMEhyU3QwTDVzWGNFbEoyanBuWkNoZnYzaWxfRVhvVDJLY093SXg1UjFOS1d0ODBhbFF0VHR6NlFSTWh2cmVRTVN5NWhDaGR5YjFHdms5T0JDRmlGR1dFNGRn?oc=5",
+   "published_utc": "2022-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Rs 56 cr cash, 32 kg gold seized in IT raids at 2 business groups in Jalna",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTEFiSWFwX3dyNkczY29rcERNMTl4Z1lOMVh1WVlwQW1lSTAtbTBERVI1Uk5kamtsSW14UlJkbENYZjhaalZKc00tM3BtMHg2YzM3T2tOdGNLWVBQUVV3MnVPZUw3OFNMSGJieUdESWVvY2ZNREwwN2N0TENUOVZPTno3eUp6RDk1V3duLUh6YTJaenVOUE43TDgyVFZyU0UtWEljUDg3YTNOckhBSjRNc2hBdS1hRkIyUmtCb0tvODYtb0xUY1RZZXZxWm1zbTFlQzZqNkpnNzF0MWFic1dYRtIB5gFBVV95cUxQOHFLTGRiX3dUOTBWX0RSellUMVc0eXFSSGJjMTJ0ZFFCc1VzUDZxdlJXNHNxUXN1a3ExVG9HSWY1SW9RNUVHWEpDRVlhSkhKY1Q3WGFLZHlsbkNpcTAtY0dtWlQ4QnpPVWxrT2xlX2ZXZlNhWk9IVk9meHBkckU5Um8zUXlodUlURDNnb3I2NjNJMzFBUmpWdmZaTXlUa2M4Ukp1bWZUZnZOeE5yRExDalFrRmpJcF9JU1o1NVpsYTk5cjNKMHRxUmtsWWVFS2dKNlhYbDZpNUFZYWtkb1kzbHJhdHFzQQ?oc=5",
+   "published_utc": "2022-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CIDCO Completes Land Acquisition Exercise For Navi Mumbai International Airport",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDJ3M19BWHNkMUZVWmF4V25Qd3E5SG5TNkdQUjZrWWxzcUItQzBIajdJZFoydm9JNElJOVRsd01SMWhIeVhuWmgtSnYzZ2pZWGRISGdYOE16RnB0VG5YUTU2NjNUYlJrZ3FNX0doSHRmQkNhUkRxYlhMTXo2aEdWSGdYVHhfZk8wbWxWZ19VdjNoVWxlZGI5QThhTG16X2RsVER3bVhDMzh2a0NIX29kb1lZWXAydjE5ZHfSAcoBQVVfeXFMTUZSUVFyWHRuSVJMQlNQZ01rbWRVQ1g1U2JERHJMczkyYWo5bWs0UmRYMENHVVpaS3ptaUZsa05tYlE4M2FidmpCREMzN2JOY2MwcHhiNVVldlF0cldkMVNXQ0VlZXFfSFktbnJVMDNlWkhLOGk0SEVYTHl6LXFYVGN6TWZIYVhTdk8xRk9jSDJxQnQwTkc0TE1nME1ha3Vocmw5WkkydVdVdV9Cd055bkFkTkxoMXYxWVdlMWRDOHkxNWJPTG51akROUQ?oc=5",
+   "published_utc": "2022-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first Digital Lok Adalat registers over 69 lakh cases across Rajasthan, Maharashtra",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd1BHSm83TU5fX0VJLVc4ak94VWlHaFg4SWJPenhXR0x0b1VIRS00WTdkTkY0WkZ4d0dkUHlrV2VDQzd3Z2tFT2tkS0V5MUVNLVlGbW5ueW5RLWlkWENRRVg2WkNYYTVXMGNvY1RsWFllYzNMa0JnZEdpZWtrc3gtb2RZUGRqLXNIazVXOHNoTWJuWG00cTN3MU01ZHNUYnE0OVRteDlSR0kxNVVQd05WY183d3djZGxlZWt2ZVdkQ1RtQdIBxwFBVV95cUxOcm5vYjN5ZUVRamtaNi1kMlZpZjdDTm5uRDNFQVhod3Q1SFBrOXhhaFdfVXhhWUM5TlNHbHdIVGp6TWZOYk8tdVZiaklMcVJzaHpvUkhxYTZUMjVNNnpYZjU3elcwaW5seXlNTkJVV0pLUWE0WmpMU1Q1TnVlbHdJUnNlR09HRGhGVHFBNWRaUVVkMEJDWFM4TFduNFMwaDRobWxHU0tlMEdXRlQxclNraERseVlwRHhDNTJlYzV3cUlhRVQ0dXB3?oc=5",
+   "published_utc": "2022-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet expansion today: Heres list of ministers and all you need to know",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHdQUDZtWTFaa0xVZW1XdENsZ25CSXFFLVY4S0VGT0tac3lMWFU4QlpnYXBTRTJveU5KQXhualczVnJJMmxXbU54YjgxLVBKU3RBOVBMQ3RZQTRkZ3pPS1RyYng4XzJIZ3FwYXlKZGJ2R2xaVUE4TDI4LXJ4TWJ3OU80dVRCVWw0eDlxREd3U011SjFmMFlOVF9ZNS1zcW5mMTN3eDdSNkk2N09QYXd6djdOTUFBaHJRZ0F2MWJ6b2NzZXhoeVlRRWowTV9VMGxtWHdaZXBXZGd4eW43LWtzbtIB5gFBVV95cUxOZ1RKN0JMQ05rb2diUGl6T1BiY3FjbjB2VHJsR3c0eU5DLURYYWlNeVQ1NVZhWkJuRWNnMldNVUxLVFJQNjBza0E4NzN2aVVUTjBrT0x0cUhQbFBXb0hacWR1NVYzdHFURWFHWnptZGh4Mlh2bTMtTmU1RXZwUE51b0gxRFBhandZekZKY2dYbGhKdndLcThiWmNDZ0oyVW8xc1FnU0ZCUVFieC1IMW5SVjVxRkJ6WEJINU9xQVJLN0dTWW03UDRSMDB1TWlUcjhCbFltVllRenBmVzlxOFFCWFZ3d1hSZw?oc=5",
+   "published_utc": "2022-08-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "\"Centre Has Taken Back Rs 1,000 Crore\": Andhra Pradesh Finance Official",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUFPWGFBbWRycHJVc2R4bC1nU004NnNNeFQzbkZYa3V4SnNCRjdRaG9uTklRQ050Y3djS3BPS3dnUXhNNDZuV0p3SUdLS2xOaS10dnBfQWpaOFdWWUhZS2VNM3ZERHB3cjZZLWREQ1pNWXlqR2N0aDhveHg3cmVsUDduekQxR1hTNWUzNTRGMXpqYnBUUm5Xd09RNW9qR2FUeVpZRGZpeE5lNmpR0gG0AUFVX3lxTFBXSlpFUTBneUoxT2hPQUxBRlJKSlBWc3hwcUduV3ROeDNCVXcyVXRVVURaT0g0OUdTY3hnSWtUMU9KSDNCdW9Vd1ptZ1lVWFBnSkhTT2RQMVRlZTVhZW9RTkdLeHh1X1pkNkVuQ0Uzc05xN21xSW5yMFp5cURITkg2WGFBOFV1YVBSNzJJVjc0N0dIMXlMbzVZV3d5Q1dIcmFxcFNpLU53dEdob1NvTnpjVF9ObQ?oc=5",
+   "published_utc": "2022-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ONGC plans to invest Rs 2,150 crore on 53 exploratory wells in Andhra Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzJ0YlpZeTVmTGFfZXhFT0RJcUNiRVQwZmRXNXJoRFFPVXR3U2JhbE9ITEN3Y09DdnNwRlN3VElBQ3pWYzFaa3hTdlZCTVBHVEVZQWptWm5wcDRUZDc0Qk9wMWlLNWRDazVUNUdqREVlZHAwcmt1Z195Y0laOEdOby1NUkN3YnpPUDZkS1hyRlFRemlZcmFCcGVYWWJ6bGhhd2w5QkQ5ak96NnFfZTlHWERmcVBnUDJ1cXp3bTNTcDgwaUluTEFZQUJtSdIB0AFBVV95cUxNVE5aRG9meVREOTRTSXpKLWZsdXVSNllVNTRRMm1HZWFFcV9LTW5BSHB6RUF4a21ueWZ4cGYwdk9CMWFTLVE0ZUhhejRFMFl1cVdyTmlON2g0MENUYVdzUjc4MEtpVnVxRWFUaUo0VDh6VTBrSE9IT285LTdNcUJQZmtScmQ5S25sQU9EM3V4UG9SMzFFb1I1eWR5SHh1SGNURXRFWlF6OEtidTdUdlJDVVcyZ29PNVh4eExMZzB5ekpvcmhfdGZhV19PcWZfTm1v?oc=5",
+   "published_utc": "2022-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jio invests Rs 6,500 crore to launch 5G in Andhra Pradesh",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZm5kckJiUUJFT0piTlQtekpMbG1jeVRLMFFESE5DcC1IMEEyWDZLZmlXV3ZCZVdkdzNoQmRUaEpFbFFSY2h2dmF3SkdXLXkwSjdZTzIya3dUVERTTFctcEFtRXV5djh1eVpLMDBxM2xvSWZncVpjWGF0VURHS19pd2hwMFZYMXhtZDlESlJ4R1FKeFVKTzloVGlKVFlLdXVHR3RqU21HRklMM2RYcl9YM2tGX1VyQdIBuwFBVV95cUxPT2ppakplMVZYZ2p4T1ZyNmU1NWY4Z3REbGp6MldWb2ZEYUdmR3MtQlZvX2VDNUtQdG8teWhUOFpUZWNEUVNkT2hNd251bkp4b1UzZHE5U1JzWW1IVXV0ZU9yd09FWE9aQ0VEV04yV2NSeG44NHR2SGdodXNnUlVPZk5IZVlnRzJmaVFQeWVoR2lhZDNleF9NQkpnX1ZjUU80TE14NUg3cXFEd3pDNEsxbk90ZVYzOTVnTFE4?oc=5",
+   "published_utc": "2022-12-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Seeks Over Rs 10,000 Crore Ad Hoc Payment From Centre For Polavaram Project",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDBpWXRLUDR2cE9aZW93ZG03RGdmbU00dk5vSk8zLVBoRVR5TXZYM2F4bF9sSncwUF9XUlFHX0syRUJ0RlJNUE5jNnhmVnFIZ2I4SUFMS1ZFcmhEQWhQYWgtSEF5QnpYaVNpN0FoOUVvMUpEcWVwc0VCY3UwUFNJSDc5QWhYLU1NVHpPbUUyS3dSNk9WQ3o2Tkh5M0l1RElyTnBRMjJhaUJ0cHE3T2lFemtRS3A3ZnVWbkFzSVBRV01VYjZWbWJn0gHXAUFVX3lxTE5KWTZaUlJxMDh3RDhqX0hwUUxIcEdVc1VCMElDbkpEcDN0T2FKU1A1bXFfdFpGYUJzUnYxZVFudUhIQXktUjA3enhGaDliRXFKTnJGZmVaMVpZRmFNMGFTQk9KUjN3UmF0NXQtbU16S0trNWdKQ0tmWWlXQzdrMVgzTm9jWVZrOExLYVBYOGphb0tONmFUbU9ZaWhpTmRHOE9HVndjNHRDRmlVNlpyY2ZrSnFqVG1hWFBpSnp1UmhrOHhVMmltQzlGUk4tSTNuWUFzZWdvSTBz?oc=5",
+   "published_utc": "2022-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh eyes â‚¹3K crore from e-auction of seized red sanders",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmx2emhvcEttUjJwWm0wTG9vU25qeEVQNTRQYk9fWDVVSXJoMlVLa2MzUTdpTE9nRXJ3bHVTZDJrYXBzVWpOdnFiRmRHSHZwVDl1dlM3ZzVTdTVHNHRUaU5McUZaSVd0RjQ2emdrQTk3RFd6NkxuOFVzQ0pWdWJPVFVBNWlhN3ItUTJaSURSRENfSVdWRVY1NV9DcEVTZ25DOVpZaENxYUVzWXM2QU5sTHVRdmZLcGhmVlViOVl3Vi03Rm9HSkc1VGZB0gHPAUFVX3lxTE1icjN5Q2hNMWRmdGVOQnB4UXVhUVc4eWV3MHc3dWtROWd4eFFSSS1qbk5vRzJrVDZVdlAySHdnWVA4ZzVVa1B5RHJXN3JZT3Jha2hjYVRhZGFYQmtJN09zUl9vWkhrOXBkM0xuYlMyVmJiQ3hLb3VXVnFiek5WR0djeDViYjE5QVRmUDZabERxRzVHMV9KeldXQkE3MlZvNTYwdVBMZXNya2VwcFVoZWRxSVQ0YUZlT3RCYmdrRGEydWg1Yl9DMXh1dXhFbmtJaw?oc=5",
+   "published_utc": "2022-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP HC summons CS over illegal buildings in schools",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "http://legal.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlBjR0RCVVRfYkRHLS14a1FnbTlUdVpYR0VUOHdvZXEzV2lkeWRkSmx2d0NEUDBoZ1BFNVM3TTZVMWlycDBRWXNHUFhZd0hNSVhuamxfTkRJeWY0M2dzRE1tekVuekE1Y01BUDdueC15VWNld3dkMC1fWWVubkFEa1c3NGV6S2VUZF95dGdoaXRHaER0bEFqT3BGamFOZFFNeE4zdjdaT2o0Z3ZBdG1nZm16Zk11d9IBuwFBVV95cUxQVHcxUjZOTzlpRUJqWEswUlNnLWJYZkxPa3VZbHpqS3prUzFxejZ3MUUxVXVocWxWODlYM2JBQkJYei1FQkx4T1ljZVpNXzRMVW83ZUdBRFZFZ1RPd0pleDhkZktISDZEVEFaMUZLd1hNTUlaOWRfNGViZzluNVQ0LUo4clBJSUlTSVkzb09xdG1BekhmTTFxMHRndWwxR2xWQlJCa3haczVsSzB1d3Facmt0dzZVTDdaRm5r?oc=5",
+   "published_utc": "2022-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh schools to adopt two-semester system from next academic year",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXA0d1B5LVFpSVpFWDE1bmlhT3pVMnZUZEMtUDB5aHVOMFNVTDE0U3ZiX1pmdkdIQzFsd3hqT1EtakdJLUtIczhwN2RQSnIzWi0xVllzSG1XNkN6NkRqbFFFd1NMR1otXzBnX1Jsa2k4dFpNWEk1R245QUZia1p6QnJZc1dZdXB6OHIwYW10RURHQXlMUngtUmhsVWNoWTYxWXNuV2tPbi1sWXhkRGhTejJmRnNqRkRtZUF0WnpjWlUtQdIBxwFBVV95cUxOeFg3bEFVam5qUmhtYllHNEZwaUphRk9NSTktNVA1Y2FUYWNDaHlRZkhGVjlDQzJvZkpiM25mQ3JDZjdydHpKdUoxWFNIc3o4bWlwVm1pSXdGUGVteGx5eUtMTTA3Qjlxc3dEZEVual84cHhYeXkyZDdjUDZCWUVBc1VoQWZIeklaNDZqMVJJU0hYUTd5NFNTRXJmaW9PbzJ1VmRJOUxTNEpPZ0ZZTjBqWmNvRkE4MkZuV1drc1JzdUY5bDdhNmJj?oc=5",
+   "published_utc": "2022-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan govt provided â‚¹3,20,812.72 crore to farmers in AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3BXQURIaVlub2prUkFMV0tkeWhDMmxEVEFwYTU1aE9MTEM0dGdPQXlDTjVyMHprZC1qdzBkankydF9KZmxHZ3dkWmJDbXRxdnJWOW5scm1rQkphSThPbGNodjBxTlZPWTB4bm4xVG1KcEJPdkYyRkd0VjNFaW9xYmFQSElSbjl6NTlyRFVMMnRnZ2tJbjVsV2hIeVE3ZFpwZlRMWmtQaE04RHFSOWlwQjlhSmZGc0xxUkHSAb8BQVVfeXFMUEFXNjc5NktUdUp3TTFRMVFkOHVNYzFtYkxyMzJtaXJUdy1faHpDZF8xVWR3dkFZNjZzS2tZYzFIS0xVLUJQcWk3TDZzQjhyd0pHUWg1b0Y5RjlXTlo1VTJNOEJPVmd2dEtWWm41aEM1X3YyWC1GWHdxczJOV1o0UTV6M253UEtZZk1zSGlVTFB5QjNCLXhrTlZnRjdKN2VoX2drQ3ZidEVZTVBrWTM0cFZSczFpVVphVi1jdWZEd0k?oc=5",
+   "published_utc": "2022-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP expects â‚¹200 crore from liquor on two days",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVNZX0JjZDlSX25HOU1uLVNSa0E5ZWxuTmIydGxJcXF2N0Z6dFZQc0oxSjQ2cjR2MFpoRTl5VmRyNkxtZTBURFVFeG16a1RIdVduVzEzVHBsYTJnOU5VWndSS1BLNERxOUNHYXFrQVRlbHl0SjdSLUptSlhRc2xEOXVjR3dlVzFDQWlfNE1UVzBWMS1NY2V3SzItWU43ZmhRUndFMUJicWpqVjg0V0HSAbMBQVVfeXFMTU9iZkNKRGZFcmlxX2QwZlczYkNUQ0M1ZWM5a0Q2QlN2R1NoQlp3NmZ3czhXbTd6Zk5ibDBiRnY4ZjJIcUFqMXVLUzFvWUtzVk1pUUIxMzhZcVIwWXFYMFJhQkZGbmZUNElGdE1jT1ZuQmJ2Y0VLd2hTX01UVTlWaU0zc2pPM2ZyYzZNeEo3ZEdSQzN4RFBOOUhqbkVNRXJWTnNGLUlRS1VsVWZiemhSUEl0Z3c?oc=5",
+   "published_utc": "2023-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RTC chief says Pulivendula bus stand to be biggest in state",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeG1XSDBhTkFfUW1zQU5vVEpCZUV1MWY3ZWNwc0lFZThDY25pZnVEU3dTblJLRlJKZVNfOEhRQjNXdWpWenB3NU9zem56RXRVTnFuOFN6eE1McmZuOVZVMW1pbmJMMGJmMGRlV2FQOUpRRDBtOTg2X0lGZkRxZlJuaVJsQnk0VGdqcE40ZzFHOFE1SU1vem9qUUFLT1NtTXlyZHpfdUx1LVFpeWRzeWtJaUtPT1FHal8zRzRVVlNCX2FCZ9IBxwFBVV95cUxOUDBZaWdraGtMUGk5UHNwMFY5dWtfSFhtTGk3dkl1bmhjdjRQaWowYmtXQklCa2NoZU5ZU3Z1VENwTGh6ZnFjNkkwdm56dzZmaTJkOGJhbUU3MXlGeldqS3JpNUJWWHpscmRYWVFjUHpKUDVxVXU1VExpRkZNZnRJajFKYl85bGREQktoQVhCMFVPT1czb3FhUFIxRjdISmFhTFh4eEhoZzFJempIZmpJV0k3MVJKMUxWbFNKekNFM0NER3lLXzFr?oc=5",
+   "published_utc": "2022-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

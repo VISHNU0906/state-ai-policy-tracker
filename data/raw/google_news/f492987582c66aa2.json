@@ -1,0 +1,45 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "MP govt to cover fees for engineering, medical, law education for students scoring above 75% in Class 12 board exams",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeGNmdEVCa3drNFdfa3FUMWdQb0MtV1lvSFU5ckU5V2k2SGJoQnRLcU5fUFlINU9lTXk0V0JhNS1vOEZyd2JTNmZuY1pOQVdUazhWYi1pYTUtT1hKajloREZHa1otby1sRmJaRW9oT0hCNHJyUVo5cDh3QWFUb0szWlVOSEJIVWgzZU5vVjBiS0pIVzRoYXozMW5oUU5pMkZIVXV4YkJ1WmVSNjQ2cHc3Q1A5S0pEZmU0dmhJTzR0X0RvbzlpdG4zZDlEVnlXam1aTUFBMHYtUmdoNDY5U2JpUF94eXdDdGVfSzRta0VEZzZMamxHSWJKcWdaSjFnX2paaVRVSlE1R0hRVWZOUEtYbktTZ9IBmAJBVV95cUxPWV90VVNnZ1lTb3cydlN1cUZ5XzQ3SXpYazB3WkwxenpqeV9INVdCZHA0a0Z2T1RXa1dNVmp4ajFWdG0yMFhRTGRncFRhX2ZiQlZ1MUxmNlEwRnRnZWkxcVNkLUdjTF9pWkg0aVllSzFlYnVrcURTY3ExMTQ4eDltT1dRMW40VmxzbGxvNkF3ZXh6c1p2OGctZlNXMHNhZk00MUtidzhvdU5CRmpkZGtuQ1BqVWtIZWZXVl9JSUVPRFpmWG1kWHp0TUdJckJkZVFkRkpPZ3ZTSFFaMEhweGFyaER4NmY1cDVtT21OdTFTeU84YXhuTXNwSzFlRnVacklabGpfUkRfMl9JM3Jyak1RTHR0VWctRDRm?oc=5",
+   "published_utc": "2022-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh School Headmaster Gets 5 Years In Jail Over Rs 2,000 Bribe",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXc2S1lxdUpDTkdzVkdCWk1mMHBCNjBmU1N1OFBqTmMwTWxMWEkyaDREbTJFNEVKSlEyYTFfd3JmanlEek1ZZkFXdmI3b2h2SDlRY1UwWE1qazBjS2V4X0JnNTB0azZidHRGOUFFM0JYQV9GLWx5ZjZRVjk0NUhKQzZRQzBpRk9Yc09GYmp6VWV2VXNyU3cxTFBhY3lZZ0o4b0hBTWpIZFc1T21iMEFyNFNIONIBuwFBVV95cUxNWmZMeXhFN3d0b0ExcXZfQmFnbjhMWVgtSXJTeEZiVHQyZFNlaDVUNWNiREd5NzJndDVtMURFWWNKR1JkMEdzY3VWazlWMWxweVh0MlZHbDlFTC12ZXAySERaR3BSVnFFMVNrTXdfLXNsLTV5US15YVU0aHlXVFE0Y3pUd3lwTVlkVFdUTXVKcGhzU2p4X0xTSldrMTBuUnNNdFhxSTNGWHpzUmMtQXY2Y0NNd1Y2WVRINW1J?oc=5",
+   "published_utc": "2023-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What is Apple’s truedepth API that enables AI photo app work?",
+   "source_name": "Ground Report",
+   "source_domain": "https://www.groundreport.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZGlTd0haOFVvUlZpWHlfdDBmTU1lMU16azYxWGEzUzlTcUZxX3dBQ1g3YTh2NlNzbUd4MWo2TndIanhKcFFZUlZrVWNleU5XdDZsMGJrdk1rZEFuU2p1WEloNHFMS21ILVBtS2t6T0hNVEZnT2hfWDBuenZMMDBlN1dxMEhMVTdXNk5pZi0zOTdJdU1WdHJfZUxZN2VqcGRITGdSRFVVUkUwMjdBNlhpenVydDQ?oc=5",
+   "published_utc": "2022-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "15-Year-Old Boy Dies By Suicide At School In Madhya Pradesh's Barwani",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmx4bHpGeDVidXJJX3p0cnYzdkV0SlF1ZkdjWUVQQ2xKeVp4RFdzUWcxNWlOY245UjRMS0Z6c0M0MFVqSDZEbjN3VkYyd3JXSktHblU3OE9jUnc2bW1QTm1NUTV6b09nNTItQWVhdDBPdU9VajZ2NWd4b0lEYXZ2UEhNZklsbFpJYi1FdUkyMHVSeXlwODhfS3d5LXBhZFE4R1J1ZnA3YkJIWFFB0gG0AUFVX3lxTFBhd2szTjg1cWlQTm1BRXVFV0FZc0pxSzZURDBOQWlxZlF2U3Ywd3ZUalVlVEtrX2tOeng0V2MyVG5yVnJDdjEtNVBWS3FiejRqaXR3MWR2YVN3SHR1ci00T21saFBjNl8xbER0SDFzOUk0NUZ1XzFYMTNydVZIU1VvcjBUZkt6czRUdWtkVFkxRVgwaDBiZFFuNkZkYzZUaVdmTnU2OFpIM1NJbm5Udk41Q0tvcw?oc=5",
+   "published_utc": "2022-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Baby Girl In Madhya Pradesh Born With 'Four' Legs",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORE84eGZHUkFCb2w0ZzJmWlNLZDFsRDFBMFNieFI1Y3ZvV1dtV21pb291dkRVSHAxMXBWVUd4ZElIQVFfbXlUT0xaYnV4cEpPeUFlT0h2UGFoT082a1hydjdEbVBINHl5VVlWcWNBUV9LbnRKQTJUeTlmdC1PSTdmaEN4S21sSXQ3T1hENDRjcWfSAZgBQVVfeXFMTXd5RVJmUlFDRU90VFpNQndhNF92Mkg2bHBmZjhITWI3MEZtWFotd0V2TFc4ZnFidjFXTHgxTVJ2ekxfSUZWTXJXVVRlSFlpbTVham1sVzhpQy1CSW5ZYWd6czVVdnF6dzMyQnptR3VybWROaDNiV1hLVHN2VXQ0MVFEeWowOTdjYjJHX1dxUHR5cXNiZmRQWEw?oc=5",
+   "published_utc": "2022-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

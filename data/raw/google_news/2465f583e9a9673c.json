@@ -1,0 +1,53 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "Budget 2024 turbocharges cybersecurity, AI projects",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM2k5dFQxRi1KdUZQaVJ3MGVrYlVnR1M5QUc5d2kwS1VKb1E4ek81THNOSkxfZzNINGxaSTRac2tDSjBzSWk3MGNlMW4tdVNYME9pR2JZWVBTZHBLSU5ReUtqOVEyM1JlbEtyUnowZ3h1RGRRSDZsTTd1a3p0OWlDUmFjYTJzTE1ZRC1ybkdFc0NNVWd0ZzRDbnBfak5fekRJUTZuWkdCcVV1T2NIM3o3SUNzY3c5eGptREpMNlJ6bXpRajdENzVhb3NwbS1wc0lCZmM1c3ZIRzfSAd4BQVVfeXFMTXF1UGd2RXE3UkZscnlwX1VGaFhQU1N4RTBZTndReTdQUUMwTFRrZ3NsTFUyaElMT3hZSmxia3pTQkJ3X2FBNDRQYnk0MWVJN2l5OGdsczR3WnBJQ04tNjl4b3RKc0tpQThXUmhIcFNjR05vN01saXh6bVE3V2JHQnp2RkhCNjliNk5JbUZkQUF6UURRR1ljLWFLck1qQmRWbW1TazgxSm81eDhBX28zMVZEa0FLWjFLOVJ1YnhVNmp0emVuUlNPTmRuVTRxNUc4NWhUZnRrMkw1Q0QtU3VR?oc=5",
+   "published_utc": "2024-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s rise as a data center powerhouse",
+   "source_name": "Express Computer",
+   "source_domain": "https://www.expresscomputer.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa191eFBaOHVwblc4RG15MzRvTFNsdVIzMFg5dkQ3R0FWMURiRHhIMHM5dGcxTFZHeDByU0ZOQ2F0QmdlcFNWakdwNTZGNEZ3Y2tHY0diV0wtdnJLWWFrYzg5aTdNN2MzR3BWVHVOd0c3Q0p0TFYtd3NWVTdWakkwbFF5S2ZvLWN1RFlOTS1Qbl84cEpM?oc=5",
+   "published_utc": "2024-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gangster-Politician Atiq Ahmed's Property Worth Rs 50 Crore Transferred To UP Government",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVc2NlpMcmFLeFNNZ29NTmlKRWdPRTNEVGdPV2lHUnNsV0IzbjNTMk5fVzZyaFN5QklMTktnQTZpekpmOTdCZEFZRHBIX0VRMGJMSHlyX05fRE1hM2ZRc3pqamdyWHBqRGpzcWl5akhyaDZzR0xVZXg4QWxwRmtYZ1FuUlJwVjJhREVQWnBJR1gtaDAwaldfVkJWMFF0bmVTbEplNjd2MkJFY1NPVEJfUlFUT1hUOFk5dFBBWHdTaWdjWjdWUkHSAc4BQVVfeXFMUGdzaG9CUnBMT2RqLTVmVXRJMWFRRHRvV18xVnZHb2x6dTlqa0UxdkY1ZDZkZ0ZGX1Zhb2hKSUdCb0wtNHVSdTZZR3dRNDVPQXktVHd1bkJ1QzVPWWlPd2JZaG5xRmJXRk9MOW1tcnVRTUJTLXNUWFZzTjZOQVdUaW84aENGUjU1ZElKcmxkbHdsNndyMW1xN0g4bmxBVV9uVWhUNTI0NWVtWlBUaWJVMmNVWnZIWm1TVFZncXZaVU9sdGZzZVdGRzFnT0xvbnc?oc=5",
+   "published_utc": "2024-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Atiq Ahmed's property worth ₹50 crore transferred to Uttar Pradesh government | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUDJtRUtiSW1yc0dfTG5WZVFlSUtrYTNFRndCSUVSRGNXYUJMdndVaGhqMzg5V01EcHJhaExnVjcxanVPbjd0b19fODYxREs0ZTdxVm9wdFI4M1hUejloaU9lNzBYNXRjRFVZZ1ZqXzd3TnUwaTQtejR1angxWEZTM2lfUGFpejRIYXMzOTRDT3JXN1ZiSXhZd2dZSExmVlpjZnk4QzF2ZjJUd0ZrTlE4LV83R0N6SXVwQkpjMEpQYVYzbDRiVVR3R0xaYXlnbUVNQ2Y5SEFRNXnSAd4BQVVfeXFMTy1IbzN6bDVPOW1rTGc5ZERiWndmZGZwNkNCQk1DUnNPclVqOURhR01IQ19FN3pzZy1qUVNZRkZIMVhsbGVGYVlIcm5jbF83MWhpTlRuTXBoaUJZZFFYRnN4QWhGUk9aZzVTeXNobXMxUXhzSGpVQ04zMVA1aDdQWTF0N3lWa1hvREdBcnZDNWJ6QUV0YzJHM3pMakxWaXhWNk84aEtDZGNZRVZkNXNNekRZQUZFdUF1T0QyZWhGa1JISHRyYWhDQTI3RmxGZnNycTNmdklQdlZCWS1WRFlR?oc=5",
+   "published_utc": "2024-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Noida International Airport Will Look After Inauguration: Check AI Photos",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSlhGcFFtdTdxSktVbHlCZHU1Z1BqcXJPNEs0SkJtS1MtNU1LVmNNQmdWd29rcDhhNVB4anBtMHpyUGdIZGh3NGg3SmJRdWFwc3ItZUxCa2hJRnpsY3lrbDJiQ0VwUDZWVnpyVm05VHUzbF9DZHJFTmdYZjZta2pVbkpQTnZPLTBsSDlxc1F5OUFaaGlTOThRRDY4Z1h3d01QeG96NUNZZ0JrMVVGdXZBYzFLMmxER0VLeEZlVnNpbEs0RkpTWFVOZkpHT3UtOF81QUduTXFpWW94ampkak1PMUhFQXdLZEtCYjZVODNFbC1TVW44WDlueWE3d092MWPSAf8BQVVfeXFMTUpYRnBRbXU3cUpLVWx5QmR1NWdQanFyTzRLNEpCbUtTLTVNS1ZjTUJnVndva3A4YTVQeGpwbTB6clBnSGRodzRoN0piUXVhcHNyLWVMQmtoSUZ6bGN5a2wyYkNFcFA2VlZ6clZtOVR1M2xfQ2RyRU5nWGY2bWtqVW5KUE52Ty0wbEg5cXNReTlBWmhpUzk4UUQ2OGdYd3dNUHhvejVDWWdCazFVRnV2QWMxSzJsREdFS3hGZVZzaWxLNEZKU1hVTmZKR091LThfNUFHbk1xaVlveGpqZGpNTzFIRUF3S2RLQmI2VTgzRWwtU1VuOFg5bnlhN3dPdjFj?oc=5",
+   "published_utc": "2024-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How New Buxar Ganga Bridge In Bihar Will Look After Completion – AI Images",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONzdJeWRrTUdyMUd5VGgySHcyVGo3Y2tlZGFFbFlmMHRhV0dLOUtfX0VSOHMzNFBaTGNLZmxZQTJOS1FQU1NHQ0lGV2U4Y2JHMW9hOTJHZk1CNXliX1NzZUlkVVVpRlRhVnBxNWFQNUUwLVVkeUNPODRDc3ljWllZWHI0bC1hYTJhTGJLVEI5ZUxqcEFQX2RvNlduZ3Z6bjFWU1lJczVpcno1Yl9aTkpFRHY4UEtmTGg4U2h2YlFRZDV1OGVrWjVQYVJLLUZBN3JURUQxZEtRVkhDQlpBcWFJaFBGb1LSAeQBQVVfeXFMTjc3SXlka01HcjFHeVRoMkh3MlRqN2NrZWRhRWxZZjB0YVdHSzlLX19FUjhzMzRQWkxjS2ZsWUEyTktRUFNTR0NJRldlOGNiRzFvYTkyR2ZNQjV5Yl9Tc2VJZFVVaUZUYVZwcTVhUDVFMC1VZHlDTzg0Q3N5Y1pZWVhyNGwtYWEyYUxiS1RCOWVManBBUF9kbzZXbmd2em4xVlNZSXM1aXJ6NWJfWk5KRUR2OFBLZkxoOFNodmJRUWQ1dThla1o1UGFSSy1GQTdyVEVEMWRLUVZIQ0JaQXFhSWhQRm9S?oc=5",
+   "published_utc": "2024-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

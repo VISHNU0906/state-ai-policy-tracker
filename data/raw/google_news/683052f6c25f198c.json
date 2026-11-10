@@ -1,0 +1,61 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "49,000 chilli farmers of Andhra benefit under E-MIRCHA project",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMjYyOVAxYnZ1X1ZkMFB3dVM1aHhsblprUnp3VklhODE5ei1ZaEtHQmZLbUZ3WWhKVXkwZmRYMGZWZmpwbHE5QW1VY0tDb0Vwcy1KYXJZbDAyR2lCbTlpa1YzWURVMTdRTW9CRG03RUVtSWtIR0RObmZDUXozaHpKSVQxcVIwZ2F0YzItX0xBU1pHS0ZTYUJzNHNEMzZ2cE9yNENheFFPOTVOcUIxMHNEWC1ySE14cjdMYnZFTVRqQnA5TlN2UmdkcFotb0pubjRsdnlpSXFrQzDSAeYBQVVfeXFMTUhNUS1jWEM1UWt4TFFObmphZmJGVUxsU3NvUzdCdmhPOVVjaWxWa3ZDOWd5VzhOMDdiU21la1ZJelZWLWtkU19UcWhyMV9BX25NSHk4QVRXbVhIMXdLNmVXT2dkajlUZm9GZEFiXzZDMFR5aEI5ajhJekNkV3BaTjJqeHZ5RGowYlo4cXRpVUtXUGtnZURsc0JYYnQwMVRPcWFlYkphdHd5dXZvRnlPWGlGd2JLZTRrMmt4TGZvTWF4clVyVGgxenZmbk1KcXFZRTZfRVVFaXlTT3JUUTdQa3ZzYmVMSkE?oc=5",
+   "published_utc": "2023-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh spends Rs 30,000 crore a year for education: Minister",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHlwOS1DY0VEM2hKMnF3Wjc0ay1Hb3RISVQ0QlhiUUVRSW04MW96Zkt4SUdZbzFCbkh0QUh6aEpuVzFDOFhKMC1lSDlFbEZ6d045S2Fldk5wNC0yVDdVYjZWTndDS1pLQUtZQUdURE82TV9HckVoQmRYQ3NJQmdQRXpLV1E5QlpWV1ZZLXdUbXEwWnZRSnpDYmZDdmhxYjZWelpvSVc3VXZzOFVfR0JMUk8xZUE1QmJidlUtMTBXSWdTdm1wT3FvMjlsMFR0UdIB0wFBVV95cUxOcjdjM3BHbnIxZHBab0pTdS1kMll2WjV4TXYyRG1BcUNiZkxNcnNJaktuTk5rNzd4OEVzRkxfYkNSSHpCNWlMdzNYYWZmeU1mUnV1N1JJSWphbTdZUVU3cXZUV2NWaUVxZGdYWGp3YmN5WEpjMGdiZDRfV19qdE9kVlcwdDZYc2hnV3Q3NEJHQzJvX2pFdkRkWHZ1MUJiM0VqUmdPUjhTcDNJVGR4UkptbEc2N0NPdXlhUXpQT2FCNVQ5UzRjbUF3NUlxWVFZcmdOWUZz?oc=5",
+   "published_utc": "2023-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: AROGYA Millets helps revive millets cultivation in Vizianagaram",
+   "source_name": "Gaon Connection",
+   "source_domain": "https://www.gaonconnection.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTi04SWl6UUpuNkdqZ0ZIeXU1LVVjZ1UyU0J1TllyME5sTkp6YUMyZ0FBMVN4OUZHZFVjS09xem5TcExXRkVIbGpDUUtTS0lyTHhZbmZLVTVwTGNudm02ay05b095LTNfcl9QRFJBa0tIa0tuY1FtTUZ4QXgtTWtwaTY2V21Ba2cyVVloYjc1bjNFQ1dWNklUcC1vSVQwUWQ0d0lFc1RiVC0tamY1MU1idGdMWjlEdE55Z1QtX0tpSHQ0ZXI3aG5zOWdoLWJmLVpSYjRkVEF0blhoNEtOQTB4VDZudE5CalZWdlpj0gHwAUFVX3lxTFBxTUdVcEhIOXhjbkd2M0lhellDa0xSUVN6NjQzclMtUjBQM2ZJbV9zeUtrTWJSbGhqb1hPemt3TmRqa1lZMWFuTXRBbkFMdXRQamxhUlRKYjZOTEpwREFicmh2RUZWX0hnNmJlNjRvaXZGUkRFNjNYU2xRZzhxMDZ1ZFNET0tHMjlRUHMxTUxlSlN5T1pVMGZHX3FtNVRNVzU4NnNRZ0tyRVNTR2NiWVhsQjBtUzhjdnlIc3c1N0NLWVU4MktxUGhYc1NHNGRBYklrMVBqcmFkQW5fUEowV3hfb1RCYjk0UktsN3pjblRCMw?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh offers political stability, strong governance: Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN3hxSFM3NjBYRHdMWU5rcVoxbVhZYU9QMFh6ajhOaFJ0TXM1MTViZWtfTXNkTjRFMUhQT2kxalhaN0ZiNmVfdEpDRUNTZ21fY1dFdGJROVdTTGdWdVBVWk5WQlZEQVlmS0MwM1JHdF9xX2tTdlB5Z2dYNzR6ZGdGczdEZWN5TGw4Y1ljR2xjblJ5eUZZUnNsY2pzQ3UxdjRhdzBIZGFFdXktS0FKSkdFd09NdlhmT2V3RW1mU3VmWmlKOUJ1VTcxQklaVmI2Nnll0gHWAUFVX3lxTFA3NzhQcm9PejZ1ekFQQlpuVHVZNWJxcm90YTdBc1dUZm1VYkFrM3lGTEF5TFJ0WG1RcDJQeExRWm1PN2pKa0FuOG82OHNlY0hyM3lIdnpQV2kwY09tQzhhRGlOSE5qTjg0enJVeVlCcFJZdkNBTGtzcjZrei0wQmsxNE14RXRqYms5YnA5c0ZtZ1hlOU1BZDJHSzVlX3JXYjNMZi1Mdnh5SGFWVks3M2xsa2gwTmZHNGhVcUYxSXJUbnoyZVhBQThkVEdzMXdpQmxjVnpPSmc?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Education through digital format for Intermediate students in AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFVLby13VkVDTlVBODFzUU5pMHNWVEhiTXdtU2JKZFE0ZUJQajR1YnRXZ3ZielA0MGlqbTFFZV8tQk5hUlBNaTEtYjBNME5EUDJtZEtacGZxeUx3cTlyMVlGMVdzX3NDSkdZa01JdUliTU8xMHJienN4bVMtRGNDZFd5WGkzVE83eWlzTURHUVRUZFFIMUN4S0tOX28tVkx1TXViUGFkZExuRkgyZzNMN2hIcmNaRnZmcEHSAb8BQVVfeXFMT01XMnQzX29yOTZ4cERqWklXQmQta3FwWVlnYmFENEtpbW5veU1obkJGYVFqV29wRzhrTUVTREVnMHdUOUVJTmh2S3JFVnZsQ3ZiQVZORlpISVdmRnBIdFlwWnpQd19jSGFBYmdZUUVtM1dSU3phS0VXWGZqMExPakp1amJqZUFtcDdFdHlENVBxejRoT2lhS1poTEk0c0ZRMU96aWxRYW1kTThrMzdldVM3VklWbmtRZ1Z1N3VENDQ?oc=5",
+   "published_utc": "2023-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre starting PM SHRI on lines of APâ€™s Nadu-Nedu: Former Education Minister",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT192SGdLRXE4VGk3MmRQZnNnT0NVOFpNOUJpX1BEWXVleW1WSU0tNndBR3pqX2Q4dE52RUFRcFNPWmJIZUt1bWxlQS1nQWhBTmFDbFhGUVVqYjRBajlBeEhlQTJ3R2lxRi1LWXBUYkpTVXpGNjJpU1VfOUZtX1J5WkhUWnZObDlseTZMZHhXOXcwejQ0VUhudGdtWGd5TUF5UHV6cUY0WlpXbHBvRzBYX2g1Q3V1LXVrSHBva0V1MnptQVFySUdiMXFqc08zUdIB0wFBVV95cUxQcGtsR05nTnFjSW1FMnRnUWV0dlVZT09IeWQ3U1Jvd21zYlZpLUI1V1RIYXR1TmRVTlpQNVJJTzVONWdjcjdUd3R3ZmFiaEZHNHVUNEV2TWdSQUo3SllaZ2RMbWx2Y25VZ0FXVlRxYV84aGxERG1RMWNHa0FZUUY3YV93R0xhLWQ4QmJQMkN2SFBxMDg0aWdpUVBOTTE5Z25TZlhCejhnckZORDZFRThwejgydUFfQXN5b3NDOTAwdFh6bVVZelYyRTJEa0FDZTBhbmE4?oc=5",
+   "published_utc": "2023-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ministers assert AP is on development path",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGNuYk9KVW9uZmJKbU1PWnBfMzJMVW5UNVFWd2RRdGMyWUpzYWc1MVAyRUFaeDg5ZmIwblc5WmtvaUNxd0lCSW83YXh3VkN5c0NrZjZnNjBYbTJUV1QwT2tEZkNIYUZPbnR3U2RCQWNRa0hzV1VkV3VvdVM0dU8ybTl6ZE9FRHZ0ZXhoV0YwRldzUl9WcThJdEUtOUstOWs4SW9vWtIBqgFBVV95cUxPaWZDSGp0cTFibFZuNERybDdlZ2FNMmNIYnU2NW5VblhoTm9TZElRTTNMR1pmT3daZVFsVGFtdERiYUo1ajk4VGtYYTh5MnJmUnVxR1FuMlVnZ19CaDIyRVFoLU5Td19JM3JybU5NV0FVTFJ6MGFUcURsZXNxckg4S0E0NV95emFkREtkTGE1VjVGeWE0ZXZzUV9wVG1KWnJIMnVyeFZQQnV6Zw?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "Minister Ashish Shelar tells Maharashtra IT dept to draft independent AI policy for state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0t1N1NxaUd0ZFg0NFN6TU1CRlE2NlhTaWE3dHRLczlfdDMyZ0dqRlFwbVdZdkFxd1dkRjU4WC1ZOGpabWxvTmdEUDlfOFhZZmFpVmVZaEFXWHlqMWtLU0VXZDROTUZmazBVaGRHdWR5dkhNUUYyVVlhSk9IbkhpVlRnZDBzOWxDaXZ3Rll1Tng2OFNrTjdyUjMxZVVXSE94dk84SUhvazhxQ0ZrOVM3ZW9UWG84QVBETG1TXy130gHEAUFVX3lxTE5VRmdXTjJPRmZRWXNRa1JYdVBMbFFoRHpwdGRidzdmOHE4NjJ4QnFIc21HbWQydmZzem0wUHBsbUIwb0psRDByakRiZXBDRkprSnhYamF3S2pjU2o1T1hzSXRLejRFN2Y2OHdOajE5UF82WGgtY0FmMDJLeXlKOUFwLVRPM2hOZ2JoRWpvUmRydWpfbFJIT1Z0VF9RelFBaXRxX1dpSVNqZzRsRnlOZ0prYlk0Ri1kMXBySVRBVmwzSkE5eE8?oc=5",
+   "published_utc": "2025-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Role of Government Policies in Shaping the Start-up Ecosystem in Maharashtra: Challenges and Opportunities",
+   "source_name": "MGM University",
+   "source_domain": "https://mgmu.ac.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaEtvWHo4UlkyYzFpN2VWNUxseUZoanVlNlJWQV80OTJXUFY3ZlpaVHdJeHVPSnFSeHZlNXRGZ1NzU1FRZkI2ZHliUTRqZlVTRDhZZ19tUHREa0FaclZqOUxOS1I1ay1XU2RnQU9qSGxQOUJYRlVnQnFzcm1NdTdFYjFpSEt0aWlwR1M3NFFkREM3bEg0MzhXbXQweUUzQ18xbWFGSGNndTZ6Rl8tdXZBeTF5dUdOQUI1WjZtRy1iTUQ5RUVsbnR5eUpGcS1PUHZxanE3cQ?oc=5",
+   "published_utc": "2024-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra election: Enter Devendra Fadnavis 3.0",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUxDX29LWVhNZ2V4bDZDWUVBNlZucGdCaTFWYzBJOXRTb25ySmhlTlNJeUx0MEktdEJubEp3aGJGVE1xZEhKMmtQdHNud19kdUNMd0JuUUh5SUpuYV9Bb0dmS0VCUlhFcU5uZ19Ec01VZ1dyTWRvVE94Qm5rRkxiYWVQM29FZ1daWVFCUW93TndUckl4aFNIWGdHRjE0MTdCM0tpWjNKalhWWFlvZF9YNHJKMG9tT0xPdTg3WWp1Zm1YQnZ6RFRMQ3lyQlozLWpLRHcxZnpDNNIB3gFBVV95cUxNdFpISk9MUUJDczJXV3I3RXM3VHdyTXE2YUxyRXVFMENXWFVaVFF4NFc0WjBCcXhkNXBIcjZFVDJCRDlyeEQ1Nm5SRWdZRGhMZ1RPZ3k4LVIzWFVOcGhlV1JRU0xxR3V5NVk3SDY0WmRVdjhPdnk2ZTFIdFNvM3FZNHIwSm1IOW1mRjM3UmZTNUhWc2RvcFVabTd2YnBuWEJZMEJUMndubmlGeWdBbElNeXE1c3N1eUhlZ0t0Q3Y5ZElKaTVQbm54RnEwTHdoeTJvcW9WVTdxRmF4eDRnMVE?oc=5",
+   "published_utc": "2024-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "D Fadnavis New Maharashtra Chief Minister, E Shinde, Ajit Pawar His Deputies",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenNfdW5TWXFGOXZES2huTk9IUU1RWEZ5aER3eXpqcmh4V0RjclExS3NJY3lnMjR1cWJlTkIzT2dxVHRFVmlqQmpLSng4N3lmRW1MLUtFbHhSbHNNM2lUSmFBRTFTY29NOWtkSm1nV1BFNlZibHQ3ajNFWGlDbEdFWkRoeTlldjhjVXBRdm5jWHFEbGppMFlSQnpGTmlUaEM4eW9sTnRsVkNfOTFmbnNXedIBuAFBVV95cUxOal9QMFZScURWWWNYaVYtMkw2TlZUd3ZtcDNZZDFBSDJZNFd0dWJiZ0x3YklFZ2puZndVNnpGS3dRWWpyZkZfRkd4VzZVRzFwckZCZTZNZHhZbzRLVmlUQVNWZEpoUnJ3THRsZVo3ek1lOW5LVEMybFllUDY1N3BpcGpja3Y3RmZmOE43cm94bXp6RUV0bFJmcXhuQ3BHamE4cmVaMFU2eVB2YmpBWFNNTEhQSnFzSl9Q?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet portfolios announced: Fadnavis retains key posts, Ajit Pawar gets finance",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRUtFMjZVY0pIOWZLZWM2RV9PX1ZKR3E1dk16MHpTZ2d1THpIMnZDb2t1VmM1ODZ5TzU2aWdZbWhsQUkzc0xFNDlCYlV4Z1llb2U0akNfYmVLbG1ReFVBNVltSE5kend1cXpULUNyT2NtUVRkY1dQVU1WbEppZUNOS29TX2txSmhoTU5jNHBZX0tJTG9CaFF4ZWJDM3FYZkVzcHZnZGJuNFlsU05NMVZJUE9kRnIzNVZqbGtfX2dYRjV4NG5WUFUxWTNXM0lyRWZva3Z4a2I1SklKaTRrLUNlVGFCTl9BUl9GcWZ4RDJSMkh0a2NEaGduckxWZkwzNUHSAYMCQVVfeXFMT3dfUWF6bHNDUzBwc1IyR2tyOXdQSE00U21XeE1aVXZzVmJpcVBrLWU5empwZkJVaWF3Y0p6UHhrR3dBc1g0UjctN3ljV0xjYkNuc1Z4NlZ5TEFIVXJDZGRwR1phaGkxeWRCSmxSTFpQLTlxZDVydEQyNUZtRkU2djcxUF9yY0dKdVZVQ24tSHM5aVVtbUNzS3otblE2SjJoUGFsZnV2WFA3Vl9tb1B2Y0RkbTN2MF9jRHdEVHhHVVB3aDlUVnRvWWstRFlOMGJsdjRwTzB4WWx4N2R0TlcxODJuTDQyNnpWTEtKNG5XN2NfQV8tS2cwajZ1SE1ZYmNkdktwVQ?oc=5",
+   "published_utc": "2024-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt steps up efforts to get Unesco tag for Lonar lake",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNkl4bjBjYWpIdXZoVkZsUVJlcXdQV0FnaVc2b3l5ZDdsVmwzbGNkSFpHOXV3VG96MXJjNVJCOExMSmVORmw4MlNwX013ck5iUVRpa3hYVGRlSXNfWlgyNzRvZUhiZUdLTTZmeWRXVG1ZU1VjSklDSmNfODFtZ25EaGpsZzh2cHRTMWJZenBrM0RKZmIxdVMydi16NzZFYTJteXUzNV9KUFdqRjk1MFg3eTduLURpbl8xYzZBbEVSQWNuUVBLa1hMU1Z5Z9IB0AFBVV95cUxNSnpLNUhENDNiY2pDMXRodnBuMTFTTFgzMGkteU4xdWtEdE9aS0MxNndJb3hJd0p2ZlhBb0w5VFp3TlFveUxKOHlEdUpNM0pDVGdOVGtuekU5Z1NFNTBfcXNNLTRMVWJrbkt2OFl5UVYtVjlGRF9scXpkNGJrNmhLcmdDc3BJYzduSU83NU11WGdpVURqNlhDT0ZTZUJObU5KYm8wRHNQZTU1bmw5TzFYRmh4RlVHcUtCZUFUM0VXcFE2T3c1UjIzTXM5ejhta2k1?oc=5",
+   "published_utc": "2024-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government appoints Rajesh Narvekar as FDA Commissioner",
+   "source_name": "Express Pharma",
+   "source_domain": "https://www.expresspharma.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjVRNnEzTHFILS1rNFhPaTVzOGRNTWJBdE5fWkpaU1oxcFZJZjhOd28zSEJzV2VRQnlEdnZTenlQZjh2UGZab0JiRFVzSkxfaVlEU051SG85RWxaYXN3cmtTZ3ZsdUJKMW5sRXUtd1EyMDdkN0dIa2FhSGlwNEd5c2dCRV9sOWphcEFNQ2N4UnRSSFo4aXdJcVcyX2NOUQ?oc=5",
+   "published_utc": "2024-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet Expansion: 19 BJP MLAs, Including 3 Women Leaders, Likely To Take Oath",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTBVTFBNdFpvNld4dnlua01yOGNUUjFlaUc5Qm9GNkhUNHhUR2lyV0d0MUJVbGtVOGxHVndfZFNRSHlwWW5HSDhoMFdsT0d5bVRLc0l3S2ZQUWk2NHEtX3FkTGNRS3pKUWNiRVIyTjZTeVY5UlBrYy1hOTlFZGhOa1U3V1dHM1VrRnJ5Q3o0WklOLXlnRnlUVkFHaEQ3eFJTLU1IS2RrSjRaTDY4Z196d05pcTNCeWpfMy01ODRfYTNHZzNOdGfSAc4BQVVfeXFMUHJYQjlNUjFDZWRQYUJsZEo0Y0tCSXpGLWxOWUF3bzhVTjVXT1ZWaHkxYzJMNFpNbm05d0hicmY4d09ZZTJmLUxyUzNKcndtMTVNX3pJRTd6OG5QRjEzc2JjYllKWlNreldkTzV5OGloUjNpZEpSb3JnZGZxc3RLRjVxVmUwSmZ5WWFkZWZGa3ZiN242VjdfTlcteXhlUGZCTTdZVXN6MjFCQ25zTmFnN25rM3dXeUQzMzNDT2pZeGhaT0Z2dWx6em1BeE13NFE?oc=5",
+   "published_utc": "2024-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet Expansion: 6 New Shiv Sena Leaders Likely To Take Oath",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmcxbFpMY2ZzcHNUdFZpaUF5Qi1FVjZ5QWxqNHdIZE1HeUt1Z0liVU9xekNOUGJYc1RTeXVFalliZ2d5VHpvX3B0QUdpN2h4UHZ2bl85eklJN3U1TFFKU0FRazlYZ0d0RzhiWFVaSFg5RHJFNExuOEVZb3VDd2dYRFZETE5LeHdwWGdZTGJIZUlKN3NuM3JnUnMyWEUzaC1tNGRhdFpTZG5qb3ZFMGd2Ry1Pc9IBuwFBVV95cUxNamVrZjMwd0Z1TU9BQURlMGxFcUVjOFlxMmh2TU02aEJqbmZRZGtPa3BtcnpkbkxpWlk0R3ljT0k2NG5KVTM3ZVowMzY0dXNmVnpRYmNWcTEzNFBOLTdGRjBYUGNfWnNwXzdfVnFoSXY4cGtMQkNPclVCLVVxbmxfS0tWYUJzOHNQNWQ3VFJnTmYxS3p2bEptbWZRbG5aUXVJbWxMNmJQYlVMMWxQQ0pISVlEVDI4Y1doVXdv?oc=5",
+   "published_utc": "2024-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "39 Maharashtra Ministers Join Devendra Fadnavis' Cabinet. Full List",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkNPRnIwc2lIeE50bVg4Qm9GV0ZzbzA0UV9zR1IyU0VpaVpiZmJlRVYwUHZaT1pWZlNXak9DaHlYM25WNXhXQ2FBV1o3ZGlOSFZpSjdUR1pnelg4bkhFSTlNd2dnTDRZQVFBTFVsRXAxaTVOY3hOYk1EelJkcXhiRXlpREZ5VkkySTlRWUFuZ2hrNy1xRmdWVUpHLWxZQmt5cjZ5a1RPU0TSAbABQVVfeXFMTVJwSzA0X1k2SnBvRW5WdDFOMkNfTmpMRFFqb1Vxb2dGVkNIb2RxdjNEVDRNWDNfNXhvYjNYSDlHbU5JaFdLQ2J6blNzSy03dm4yd3VXSWFMZmxLQUc3Y0ZPaF9rRHFDNGgyUUc0U2VEMTM1Y2xXTmt2SnF5QWJnU3pub1VYcTBVbVpQWWotR3lsc2NrNm1GSGRYM2NJSDZVTjZkQ25zUjh2ZVJpenk3b3c?oc=5",
+   "published_utc": "2024-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

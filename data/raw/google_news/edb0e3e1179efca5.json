@@ -1,0 +1,77 @@
+{
+ "query": "\"Kerala\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "In India, Kerala's leaders mix tropical communism with religion to appeal to the Hindu electorate",
+   "source_name": "Le Monde.fr",
+   "source_domain": "https://www.lemonde.fr",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUmNERlJkRF9UWkhFeF9HcG5OaWhGaE41c0JzNDBpMnhvTmR3RldFcmlTTXU1dFFSZVYxVkpxUjc3YW9nZUk2bEdtbmJvdjBCb3c1UHlKX1h1ZTRyZGJENWluaEVWM0lHUzl1WWRZNGVjZTZWUzBkSW1zWlJ0MnFYT0c3U2R2M2ZIZzVLYVFLRUNxc2ZqMDJEekExb0RwWDJ4emJtTEtrMFVKbVBzeVBfVFBxSU10QXdaSFhzMWxPSlZIaUNHRTZ6eXRvdlcta0VKMFN3RUtZM0FISkRyNmMwZ1gxVGVtREM2d0JtbF9Sd09aWUZ2X3FHN29HcklYT2s?oc=5",
+   "published_utc": "2023-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala: Saji Cheriyan takes oath as minister, may get back Fisheries",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeDM5S0xUNEl2MndPaDhYSERlMGk3aDRvTjlRZWM5dDE4MVZiZlI4ek9Pd0ZLUVRUaE1fNnRvYXEzY2Y5WHFBZEt3SHNOamdoVXVfbzdrMmRjNWxSLWllNks1em81ZU5CdG9SajFxUkREQXNBUEEtWGg0Z1JpMlV4d3JIS1BoQjJDNFNFRTl1UzlZV2pNVUoyd2JfNWZoWkREa000SHpKMFdnRWJObFZ5aVNMa1R6WDRfYjc3OFc4ZHo5ZmFyT0VMdlpQMEx2SDZm0gHXAUFVX3lxTE9md0JIMEY3dHJvN0ZMRUQxblRwRk1lYnJtM21UNlBpT242OW9uZ0M2bzVaekpjWVRVbkZsaHRhb3p0YjhaeGJZZzhYbzc3bEhDUGpkZ182SkJvd2tkOWdlb1FqY2tTaGJmTW9URGswRUctSDVoZWlkYUluLXlzYUs2TWRBaDBBYnFoaFo1U2NQX3VhMHAtTWhpMnFyOXRrMDJDUHlXRFhBQ3NzNTk4bVRpemFBU0hBY3Ywck1iZ1JVMk8tMFFwT0o4bEt1ZnZoa2V5NDlJMjdZ?oc=5",
+   "published_utc": "2023-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Those Starving...\": Kerala Minister's Remark On Match Ticket Sparks Row",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHcwSVMtbXdEOTljZkFmS1BhcmVuZ01PQjlPZEc3Tnd4M1hUNE4tNTRJb295YVFtUS12bk5ZcjVmSXI1NHNsV2VCZEx6dnIxYTFHNTdqR0hUeThvVWstY01wblluOXFZMnZDZlRwd0pqX1Z4UUVRSHNFeVoxUzVDNjhISmJXR2l5N1RqTUh2VUpXVXdYVkljanNBZWx3bkhYLWhHR24yZ1_SAbABQVVfeXFMTTZ3RHZxYWJ2NUUzSlhWNzN5ZVBJOHZKQXFtVGdKcmcwWkoxN09WRDBmTlVaMlMxdXN3aVhldy05VFlyM3F6Y1o5QnNES0ZxNUsxLXlsejFBOU8tRVBmdUU2RzRXdnFoV1BaSzRMMzVfVGFydGFVZnNsbm9kOVY1RmVhQ1VkOEhjOGNwa3NmLVY5eVhSSlB0VHJ2dXp6dVRXam11blhzMV9LZEdRTU1acWw?oc=5",
+   "published_utc": "2023-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala govt to implement third 100-day-action plan from February 10",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzhKaDIzS3BxbDV5Q0VpamtYX280SHpXb216QjhHcTI0c3lmX0hLMU1ISzA1cm5tWXFzNHBaTjNyelpaR2Q3Sk4xQWpoTV9xQThnUUs4TzVYRXJtVFBkcE1HOFRXbWtSRzgtQ0FvSUVLdXlld0lueEJyNXZOUkZxU1BDaTlTaC1vbEVnM01qdkhpQWpHMXNzb1BJYlpvSUtCUHRWd1hHMl9LZjAtdUthS0l3bW9CSk4yMGl4MHBYTkpvNUpuNFNtTFNUZ9IB0AFBVV95cUxNcmE5eEZKQzRsaDU3SjZwX0NOLWJISGVzcXktcEhhUXBIUmVVLWgwai1NNDlxRzVDS2FBaTRGemdMa3pxWG5KU2JLR3NpMV9WMVplaGhEaHh2U0dxaHNETFZDdDExSXJlVUJEQnFwYXhoS2NlMFBNNDR5UWFZaUJCMGRwVkROQkh1SnpTMTMzUVFVYmZiLTBmeXV2T0pBZjl6dXJRWUhCSWRzTDFfVUYwQTNieDJ3eXlvMVhBdDZiTm1FektUVGFmOXZmTmVXU3ds?oc=5",
+   "published_utc": "2023-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala: Health card must for staff handling food in all establishments from tomorrow",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOG5rUmphSW1kSnVXLXVpRlJXb0VoSGc0dnRMZjduOEttQkpJUjZyMTdiWm5JMG9HWHM4SUdDMGEtMXZ0MmlheTlocWpHV21lMTdMMUt5QWFwWnRBb2JqWV90OGUxYTU1M09xTlpPbXlnLXBXa0hSTmRxWmJKNWdNWi1PbGUxXzcxemw3T3pSNzNlRmdjLUxZT25ndXpxc2ZacDZ6LXllczl3ZlNzOUluSXdJU2tQYldWb3hvdmkxNUcyWm44ZGYxcWRmOE5CSXdqQ2fSAdcBQVVfeXFMTUpwOGhtVHFDZzJaTThMc1FYb3BraWVxT3JySnFMcEVvU2xoMVFhMFB3TzR1RjVlRk11MEJ4RXd5Mk5qZXlMOE5YbnBISWNMQ2x5TkxQRGNhdnVSNVZsN181cmh6NE5yS0RPaGpLMWZzZHRDTnJaUFdvZkRScG1QWHlNYTRsS1gta1UxZVdaS09xc25xOHJCS21Ga05CcENTVlBKN0lrQzVzVzB2d1hGTUZmZkF2UFQ4a3hBTS1wOE05eWlMUDhHSnJoVmlwUWlOWjlUeVo0dUE?oc=5",
+   "published_utc": "2023-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala: India minister's tiger cull comment sparks row",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.co.uk",
+   "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlNzI0OTJuZ25HOENDOVozSmdJeVh0RWdKckZuUmdQdktCVkpqcHdQLWVKZl84NjdMNTdlWDZfTXZEbGF3anRHQUtQc2hTak1NbVc3WVlTdjQydDZLbU53UG1n?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala becomes country's first fully digital banking state",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmxOQUp2WmZjSFNRXzNOSmthTkdGSE5xWkZudWt3X2VTdDZ0NGVldXVwOGJiRUVNWENnUDU2LTl1ZFhsMVMwREZraE1GWDRhaGJBRFYySXhlNk9PbnpERGZQUnVmUTM1d0c0VW1jZ2VZSjVrT09TVTBIU3FHd3gtaTlYbVliSGZmYTVkdkFWMlNidm1qdVRseWltTE1EZXZ2SS14Q3FXdG9RMVBOYTNfWXBRajNybksyTW45NVB30gHDAUFVX3lxTFBaYS1xb1dROVhYZ3dNOTlRM0MyUXJDeERKcVN6VFdNNEdaejZSNy1SR2o0NUo3dlh5WHp1ZFExOFVfTU5wa2pzNU01VlhQNlEyODBVT2hiXzFESkthSXo0MVBQcXVDNFU0eV9yOGdzd0lHRTNyZDBsM0NFRUIzNDVqV0lnazltTUtmelJ6bG1ZQS1aU01xT2hya1FGZHhRbEtDTHZjSmMteTNBeDFDVFU5SkNneGg0ckNJUDFVTGpXR0trQQ?oc=5",
+   "published_utc": "2023-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala announces menstrual leave: Time to talk period",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ29TbkdLVHB3MU1tck1jRnpHZGcyeU1rZHh1NjJoSnFfeVlYRFJFZE5FUWFXOVZVWGdQQUxQM3BaRm5mVmV2U3l4NDdoQnd3dy0xRGJEeHFYdEZ0clhtdEhXR3JKc2ZFS0NvVlhQaFVUZWt4alBFQTdOQnUzQ3RpUElFR2pMZGtFaUJEbGw5aFFSTU1LLW5xcFZYcDZMM2doSmV2bmdQdEp4TVM5QzVfNWdkWmTSAbsBQVVfeXFMUFBtd09BOVRiX3dNSjgwVWpBR1hDMTctUUl0V1lVb0R1STBpYW1GU2NuXy1HUE1LeUQ4NVVOcWlRODZBd3MyNFdJZFRmSy1Kc2N6Wl9sNnFQcEJ1aUY5VUJ3cmV0TkszRXUySUNZS2N2ZV9SMURWbzRsTVRHR1NJUURZRzdPTWQzclN0Z0phdlBBU1ZzTnBXZ29CeUdpcVg0eUxaMkNiREV3Yy1QbzhXSzMtZUFCZkEwNXh5Yw?oc=5",
+   "published_utc": "2023-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala MLA uses AI-supported WhatsApp automated system to connect with people 24x7",
+   "source_name": "Bilkul Online",
+   "source_domain": "https://bilkulonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2piZ0RJNTJfY2NZdWpQamZJZERqeW80ZlR6UldjNjVhb1lzM0FkcFNPazZ4V0xFcFBRcEk3WU1WMl9VMmt3dWUxckktQkw5NDUtdTZqbHlKNUVvUWFVelFQMGliVkUyMkdaNVp1NGY4X0pTeklMT1I3N2xqNm5jZXg1MG9OWExlSnFnMnF3bFNkWVpjMzRFSElySGY0dE9jRXZzTTdvZXpTYzI1VHU3dDhMYmk3alpHN2Fj?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

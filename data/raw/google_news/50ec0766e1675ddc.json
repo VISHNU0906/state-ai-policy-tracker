@@ -1,0 +1,85 @@
+{
+ "query": "\"Assam\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Assam connection",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbE55WHVXem45b3hsaFlUTGlFUFJ3ZmlWNjlZVkkwZlNDVm1PMFViS1FiZjA0SmZRSTIzOE13M1ZuOWVUUU16dWItVnVkMHdKN1RjOS1VaXVzdjUtZmJyZGlRbHg4Z3AySjhJbF8wVXBfcTgxeGVFWDFZVjlnV2NqV3JpSkrSAYsBQVVfeXFMTzFQOXc2MG5kbXY1MlF3eWh6N2RBa2EyMnY0YXktc1NWTmQxMHJlSERNdVhyMWl3M3lMYWxBa3BrWGJocWVORmt2d3ZrbGNoMmtpLWFobUp5MmhlREo3M0FoYnBUWEdvbUdxTGhEYmNFVEloTzZGcDd4ZTE2Vkw0a3k3elc1TmY0RzdyMA?oc=5",
+   "published_utc": "2022-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pele to remain in hospital due to infection",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFlXZTAycGhmRDRGdmNEZmtsVWVoU1hVZ1BPZEdyVHZ0VzgzTVpmMXF0anBUczFoM2tRR0RYbVhFcXlPYTRMMlMzWFcxTENSek9WaFd5MkxkeXdXNklycktDTi1hWHE5WlJpcnV3eElKRV9DVGpvZ0RObzdoR2tGSHFvTTZIbzNOMVQ00gGQAUFVX3lxTE9LUFVic0RKNktLejVqT0RieTNsX2JxSUh0QlNnVUkyY0ZuWjJVT2x5UVMtSFl0M1RqUzJ4TmNHSHN1NFhEQzZ6dXJhemRraEc1YjNRWEZSVjVMNlBTS04ycnNjYTl3Y00zWng3WjRmSUpqWnRWaDdDUzJKWXhLRU85SkxIZWlKYlVKa1dYQ01POQ?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: Gauhati High Court hasn’t given verdict to completely stop Madrassas in Assam, viral post misleading",
+   "source_name": "Vishvas News Fact Check Hindi",
+   "source_domain": "https://www.vishvasnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObTlRWUJ1ckNlWVg3dnhjY0JCdXh4b1JMdnJtT2ZPVlFLREQ4Q0dLVkRlVi1SdURndTFOa242U3htMFZJQU92YUJVOWhNRXJmY1VWYm53VW1ZNnRhTDRPZkZxbF92eVNHVlVCbzhVNkpoM01INUkxek8ydEYtZkdCNnFvOXRzT3FiY0phb09kX1pYcVZqbFFORElRMU5TWW5kYXhfUHpwS21VS1lQZ0dRQ3RFVS1XdjlXZ0tqeW9PM0xLNmxiU0MxYms0TmMxamRzZlRfUnhKT0duSDA5WGlRdEZjNUZ2MlU?oc=5",
+   "published_utc": "2022-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-Guwahati and Assam government collaborates for exploring advanced tea technology",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcTZiS0kwWTNPVWprQkJzZVlkZXNPcW1VaFc2TFZPSmhfTEo1Z1pZUFNfUmxJb3VTREZnbmlKZ1ZyUWFjY0pKTnp4WS1fdDdJNjFfSzE5ajdpdGN1eDBydU1OeGVyVkZOVFVJRURvX2VyYXFCZGM1N1VsTXpJeGVqUlhxOHp4Q2dwVlhzYVkxM3FGYVRGbGVpaWZaaHJvVHE3OVpiTm5DLUVsWHJpMFk1WWFQS2pvVm94MXFielo0SmRpeXR2QjBIT3lITzRCZzdsX0VSQmY5cXBTQ2xVQmFlU2Z1cHVBYjItX1VyRjJ6dmMxd9IB9wFBVV95cUxNbHBka3JOM3ZWZHJwYVJLUURORlFqNDNZTXB5LTktc05tNE1ibjVTdVB2di1tb2pLY1V5RTgxSlhkMzNlYVMtV0hrWXQtNXRYRU5KTzJKYy1SeFU5LUlfR244cktoQ1NUWFdhN3pOaFJVcGozLTBxdTFvUGZVMFEtLWpQdnluLXZjUlhFSHNRMXZ2RW5FVS1aaWJHSkVYR045TF9DdzZDU3BBSUxmMzZCRHZpQ1NzdE41eDlrMHlaREJ5VV95YVlHYll4bzhaTFFJRllkTHlGMW9pQ24xNHR0VWM1ajY1ekhXNTBIRGJEYVdYM1NQbGJj?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam’s Mishing community celebrates ‘Ali Aye Ligang’ festival",
+   "source_name": "Northeast Live",
+   "source_domain": "https://northeastlivetv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOS3ZZYU1OM3Y3Nk9KZjc3OHNtTFJRa0ZFNUlnVVVTY0NBOUFDOUtoRDVPeUJqM0hyYlF0d1NGbzMtaTVFR215Y3hYanJEaXFzc0xSY0sycW9vekZKWkxfamxDUTd0cl9kYUJn?oc=5",
+   "published_utc": "2022-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Police Recruitment: Register for over 400 Constable, other posts at slprbassam.in; check details",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSWVJd1daakRjTXNhVkdKU291MG54eHlMem43Zm9KTWNlQzhKdWlaX3Y3b0hKdmhfVXBYcHRmWTVQZFBkOWY0VlZiakUzb09IU2dUeTlUZDRId0wyb1I4OHp4cWRDU1prVzdjaTBFU0gwVVpCUTI0bnZVYjFjNkhLX1BUZk1CZjFFd2ZhUTU5RXlFMGdleEpOT2wzMnBwbmNEWmlNNVZiQ19TczJqMW45T0J1NXBodXU3aEsyTDhLaC1ncURPYTU2X0tudE80c2ZOaHpOd0UzbVRIemFOQWc?oc=5",
+   "published_utc": "2022-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Distribution of free textbooks begins in Assam",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0RVMXRPUWlyUHpnT004dHZtZkVVc0V2NENmTTNESEdJcXRQd292WFdlcks4UU40TWlJWnYwMXh5Y2xDNWdRU1JSV0dWMmhieV85MGl0SkxZZFRCZERVSnZfN3NlcjdIZnl1eHFxSG85c0FJNTd0Q2FZaldPT1dtT1B1LVV6eXNGWlNZcU9kWXBhSjlURE0xZktnWlNrZzZsMGVoOEt2WkhETVBESUxkYXV4NWhnNTUyeEFzTDl6Y9IBxAFBVV95cUxQdjB5dXZZS3h6bXNlTk5HX1NFZ19uajBfZmY5S3hFbjY1WlNQYWJSLXEtLWhwWUc5N0NNVVRRNTZ6cm1xeVlXdjNULWxPaW5RM3BKSlFwRmNoaVJvWHg4c05ENXRYU2ZsM2txRTUtSDBreFEwSEFScFdkcjFXa3F1OVNoYk96YTVWT3dJTm14RHZXY1dDZzB2WVUyTVdmQ3g2U0RXdlNuZ2l3RFZMam1YUGM3NjkwUkxoZk1sR0JBVlAzWllp?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Republic Day parade: Uttar Pradesh wins best tableau award",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2tuR1RfRVNMTmUyODlHWF9jZEY4YkR2TGE5eGtWZlNmaDVVLWhpdDRJWGExeGtBMHJnQURVQWY4ZUxQbDVHZ2dGQ2VoSXRJTGZxbzZGVE9uX0ktNnhEeHpGWnlDeG5NVk5xWmFSYnBNNzRfbVgzRGRtLXZDeS04UWJYS0dMRndVWUpKek9vYXZyaWpVY3J2bmUwNXlQMHRV0gGmAUFVX3lxTE56N1ZoY2NjWjRnQXdwTXpTSHZrVmpSSTY1VmJ3dHhvQV80VkxIUmxxRWJ4cnYtUzBvTlFlUGFhYy16ZkxOZGdUSV9XRFktdFp3UGpNUkJFZl8xNmFITlpxLVY0TFYzM3dsdWphaXdFbDhoWDdJX3J0YzBGeGJwN21NM2lfRlU1ZHdodF9raHZkQVB1VlhDR3ZmS0g5MlppSkU2WEJNU3c?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Parineeta Borthakur plays a sophisticated, artistic woman in 'Spy Bahu'",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3E2VTJxUFJpNURjVmM0RVQzTFJWUHJPV0pub1B2SjgweENUU18tWkZpWkpYZ1VzYVF0UXAyTWxpYU9odjh0QTJ4bnJwUFA1VFZ3Ym1FZWdNQUUydVNkNWYwZFM3MndSdHNYVjV2U1BkbV85eVlKYTNzTm9ZT0tfaXlKbmp2cnN5ZTNRamkxV2tDS3NuY2tYLW1jV0ZkemNxQWc3Q0g2cEUyRlMyU2ZYenVKWnd4QdIBuwFBVV95cUxQTE5vYUl5UjBYbkc4YXRRZVpHd2x5RThJZmNHbDhpWHdxZkFBaXlwbnljRjV5UXBiZ3hVaWJoS0ZOSml2MzV1U1RyYXQwRVlESXIxZV9fWHllckdIdXY3eHM4TTdQeU5zMDNuaXQzVENhSUlCX2xfcFFOc3BtbDFndzBQa2FINjBzRFZNM21nbjM5R09yRVR5Z0JxQlM0Q3FCRllLbmJoWjI5dkhyeU5VdUZxUjZiNXZadlVV?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Agricultural University Recruitment 2022: Apply online for 55 vacancies",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWZ6NHJSUzRGb3FDWHBOdExJVVNCZG1GSXlJclpmVk9QdjVPNlVKQ09wTEw2d2ZySS1GOEdCUVB5b2ttZ1hsMXZvR3NvTjE5dWN5M21WWlROZ2dRMjJhYXJhd2tZM2gtNXNwTHhlWWFfUlREMEozbDFibjlmVXJraUxSOGxzMmd2VUtsQThCbjc0ZW41c3VyMmZSYmwwaXQyMU80UTJ0ak1tbXhlemtjUS1mWGVvVjZu0gG-AUFVX3lxTE1wR2pKb29EUkhoV244M1ZWbjBFQlQ0LXZ5S3p3X3NrZkRGRk5Ba0JGNEtmX1lXOE4yXzV1ZDAyZlkxRkQ1Nm9abzRGRlF6eE1LeWFubi1DUUVKUlpPcXBPYkZJUVFKY0hGcGVfRWs5eXplRDFMZzV1RTAtUUhSRHpZMnNTQW9VMzVlRG5ZR1JTTzRiN2JLQlN0amJlM1QwTnR0blVEQnkyVXVwcldLS19RQWFsbzU1dDkwQkFzckE?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

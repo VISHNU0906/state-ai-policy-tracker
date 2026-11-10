@@ -1,0 +1,29 @@
+{
+ "query": "\"Rajasthan\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Here is how two school students from Rajasthan created 'AI Scarecrow' for local farmers",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZERMUzlFSDROUURnVm03VmdjTXhORGpjNlZfQ1pUaEVpajRpV29pYmZ5YjhrVlFMUDhDQjZqTnY4MWpUWHdVUWQwSjRPRXo1NmcwbUlhUWxtSEdDd3NiTnBmT2UtaEZSX0RIZU1HT0lpWFMtY1dxNXFDSVdGNzhJbnJSSDE2R2hTeEFFRk5LWVp0MzgzRU9xWFJIUU5EdHItdWxBc1NFZ1RNYVdUQ2lhRnQtV0dEalk?oc=5",
+   "published_utc": "2022-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan: Commercial Taxes Department launches GST Advanced Analytics portal",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGVZYms2MTBIWkZfSEVIMmhjdGtMQl9Zdkd0YjN5WC02RDVoT0RjWGFjbURXaW4xS3lqQ0dQRzU1cHpkdGRZN2ZINm10aE8yempaR0NWLXRIRGt5ZjVEQ0ZTU3dpQmhlY25QdHFOTFR0N2lqR1NRQ0FpSlFvM0t2TmxKdHFTVUFIYkNSNzJPLTRaUWxSQ1JHdEJ6Ti0wV2d6WTVjM0F0cFZpQjhDa0lBLVFLVWUwbTNBUHF6RGVMVlBTbmxhclIwVXIwQ2NfTnp5Mk1hZFFkVlNvQkV4TlRZeXVsYWtDelHSAesBQVVfeXFMTy1fTnFLaWlTdlNDZWVrY3JGYzNQaW16dUJvcVgtR1NnSGZPWW4xcmdpN3FuQlNRVTVqVmMzX2JLaldwMlBMRV9aSkJ5OUN2TGViVk84cms0Sk5uZTJNRkFYejdETmx1T1MtcVFuME9mSG5nUVU1YnZsbjZrdURTR1V6Y3ZTdmlsXzZ4R2p1bEJYT1lZRlk2OVlENVctQmVYaUhTSk1yTEVJZUVuVkIzcldNZ2tRUjViVnh4dTdycnJ5QWM1czdRZWZTMnB4S01YcXI5MWFON29ZMmhVZXZrdXdUaXFFWTVLOUpmcw?oc=5",
+   "published_utc": "2022-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Over Rs 6,000 Cr Allocated To Rajasthan Under Jal Jeevan Mission",
+   "source_name": "Sarkaritel.com",
+   "source_domain": "https://www.sarkaritel.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2lmVUx3SUxqSVozTVdScFdDTmJaV3R2dWR2Z1NCQTZJcS1zTGh4dHRJc3I1SXkyODNLV0dJTWtkanl3TzJ2YkhTZHBod3pqUXZHelRqZmhocDNwUU9HeDJqOGZyX0ttcVBKRmhieEdvdkU2Wl91UUVYaWZKZHRscTFJVGFhQUJRbmRUWG9ua3F2MEVQeUE?oc=5",
+   "published_utc": "2022-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

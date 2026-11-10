@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "MP Government ‘shelves’ housing project for MLAs, ministers, officers, to save 29,000 trees",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYU1OSG01dWFRc1V6VHY1QVZ6Yy1DYzNzVjlsTVBSb1Itb3U1VnNsY3A3WW4tUGtybnlCSktJZnpHREVDdHpvTjVQQkpEbGQzaklndk5zTEhHek5UeGhFX2tLdXctQVRRd3FTXzFDdXJxakdOTTNvWEg4WUxPdkFhdGRwT3hWek1QcE94Tm1GWkZiMjJZY1BoRXI5OWZyTGtjb2tMc3ZNSUwyYXdwc1VwVGMtV2JEcXdhZmFXU3QyU2NJVHdlUWJfQ9IBzgFBVV95cUxNY1VfLUhfa2JiWklfNWQyR2c1NHNNNk03SXRzakZwTmlJTl82dWNwN1RaNmltVDVJNDJndXh4MldUUUhhUXFLT0tsNERmalJyMWtXMXBKeXhIbFVtazA1LW16Sy1hY0p0WXZuYjJ5Vlo2WlhqRmZYNDgtTzM2MEJ0MWNRVDRWR3VRdzRqMkZFcW5WR0VWRHJjVGJXYzBzSm8wZWNVbFdlQVB1RHZqelk2RktjSUZuWW5yLW5WOUFpdW8xTk5VYTJGdThobmFCQQ?oc=5",
+   "published_utc": "2024-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP govt gears up for reshuffling of school teachers",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkdXQldJQUxzTnQ3YU1qYjE1SE9RSVhWVXhfcGVzVzM3eGtDTC1pb1dpU2kzd0tORWZRenNudTU0eHVaS0QzWFgxYjFzaVZqaEtLYnZtTE1SZ1pmQjVFUkJPbUFmQmlFcGNsWmNIQnItSGFUeEk5bGpDNGJPMTBGUXNIZlNtQW5CdVpPeWtqNGdBUUQ1TEZpZTBKY3BhTldHWER6dm1Ka1MxY0twX0pEYWNxMXByZ3NVdGNQalVTd9IBwwFBVV95cUxQUHVNQUthekR4bDlNSlJ4bHBXMTg5ZVp1QmNnel9FalcwaDI1Q0NhdEpqSGJmbGFfeEl2NVBLNTRRdE5hZWVQaW9DaUk3RzBIUE9yeFl0V01YTTFiMkdBYTJKVTRjajViMWdyVms2RXhxeF9yWVRJLTVUWFJZTWw5RmI1RXBJQWdqbmFudGd1QmhlYkhTaVF2c21UQ0JuVTJtRmhZWUlHUkMwRmhYMjZmTUxlMWlraEVvUzhXMTBBRlNmRWM?oc=5",
+   "published_utc": "2024-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP govt abolishes transport check posts at interstate borders, road safety and enforcement checking points to be arranged",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcnNaYTY2ZlJZZl91N2J6MmNHREVhS3hIejhrT3Jsa3dDZHBGUFVyZVg3WU1Ed05VaUU5eGJYNjcxeE9wMWFIZHNIUnYydDdNZFNnblduSUtIMVFTSEhRdmV5My0tOWVJWDVhNmtWdjJVdk5fMTNPaUxjejNHUVJMVVNFdmh5dU9JbTJRbERLamUwVzlGWE9hOWRaN3RoeWVITEFSM2NGandlNzhYaHp5ZGJPSXlCQ1BfSnVGdDVEN1lYTFhmME1nTjBuM3dVMW5jb0hwRDdneGJwWXRnMUNULUc0aGNMQnE2R2dlZzFlLXB1bVBucG9QQkktZzh5R01haW82UGstclE1ZlV2di1VQmhn?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Madhya Pradesh Chief Minister Shivraj Singh Chouhan To Be Agriculture Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmxveTJlTE5PNkpoOGhneTkwWWYtZ1hMYlNxbEtEd2U2V3pnSE5NVGJtcURhbW0yRzdMUFpYdEktNFFvN3phaUNmSW4xX0Vpcm5WR015dXk4c201X0JYbFJqbVA1RzBoVXBnZGpMX3hSZTVFTUl2Z1d5dTNmS3pKUFhrWTdxd0pScXVocTlpN1NxX2dHSmlDLXNQQk5aQnAtazBvQkNXRHhOVTlwYlZoYVJMM1hISDhpOFo1cUJ6M0YzeHfSAcsBQVVfeXFMT3lLZlBneVVwaWNrcHRkczFTZV9Bemt0VkZvQ2VvRXl6Ri1QbGFkYXBaMVA3emF4bkJOYzZzb0pRS0FaNU5TYzdwOG9fSFJKNnc0ZVotNTZpZFRUMHVuVFF6YUZuX0dZekVQejhPb25fbHFRMVpSaWMtanZTZnhtYTJobHBBOTA0dlpzY3lrbkp1Rm1Zc1pQSVFxZUMtS2JQamJYS1FmdGhOQjY2dzJBUEViR1kxT1FKT2o0T2NieXoxemxIWDBmOS00bmc?oc=5",
+   "published_utc": "2024-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State will no longer pay income tax for ministers as Madhya Pradesh cabinet strikes down 1972 rule",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmt4Wldramh5WnZRbUdFYVczdzM0RzJndm5TZGVWTnpUVnJ1cmdBR1BtTU95STZ1b1RJQnUtNE5HYnIwMnR3ZFdobl9hQlZibExtMFBjeVM3QmNZQm5JM1l2cTJpTEVUZm5DTkRwbF9vaUdXS0JmV2dTTHJMY1JSZHVtOXhhQldCVDdieVltZlFMZEJHamRSVEZGb2JVdDhJUWxpYlhLU2w4Y0VF0gGzAUFVX3lxTFBOeTFpSTFaZnlrQllBVUFmN1JIRE9iRldCODc4c1A3aUdVUDBtQVFSa1RYOTY3S3dKYWpHOXBfME9aalhPcDNNcUhQMFRWUDI2NU5fN0dNd01VVzBTQmpMaGtjQzUxWGpmQ21VSi0wSDdIWWRuQzhoZldNMU9YMDN3MmlxUmpxalVTZU5SUUJhUkt1YldiWnBMNWpVVmdXdzNieG1Hd1haM3lzOWhQdUxobW9z?oc=5",
+   "published_utc": "2024-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government announces the construction of two new IT Parks by 2025",
+   "source_name": "Prop News Time",
+   "source_domain": "https://propnewstime.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzRiS2VCZzBFOWpmR1NuRG9nSHFHZVVCbHA2aTh6SzR4UjVzbU1lcms3MEo4dU9TWnd1N1oyRm8tRlhYcGdwUElVX2JUXzFmSmtpOU1mSzdFRWZuVE9kRm1uc1lDZnpHTFp5cXVrLTJaTVJvaE90cWdtWUI5Wi1kSzNfX0h3aHNpSzE0MXR6am1aUUlCNnlNdWRfLUhhNDRpOGNIRXJXX1ltYkkyMGZLcHUzZUQ4eGdkYXZQSE9wWlFoejFycndudlZjWUM?oc=5",
+   "published_utc": "2024-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shivraj Singh Chouhan agrees to agri in Modi 3.0",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR3RwMGhBSEp2b0c0X3psMTdURWkzczN6MmlFMTBEMXJSWG5aeG9iMFJ0Q0tLdE9aVE5NamNfNUdDVThEa1RhLWlSN2sxN1pSR25mTjByTTFrYURORmllWVJIU3ZFRzJnYkxwTWQxcUJZWnNuOHMyN2xsMGZNWWVDbUxVcmg0MDRaZWtYTlkyc2o4MkhhWkt4SE1hNm8zdkwzQUxTelU5a1ltUURxSnRDR0pYRXljd1BJZU9mTmtKaVJFSzNKOFlMYXNfQ240RjdBNmF4UmpqaWV1ak54RWpqTF9Vcm1UZlh5c0M00gHwAUFVX3lxTFA4VS1rVnhVX2QwMS1tdFF5Ty05bHVSeEMwNkFNd0p2V292R3BmOFV2NVFaWHY5MnRjUURHcXd3eFRZaVJ5NnVvRFRrOW1LczlfU0ExV1J0LS0ybUhzZ29qSTlMZHRWR3kwNmJCeWZTcG5iS0RJZnFaR0M1cmJ6MHdjNEw4UkR3MUdmUHYwaks1MTlvUmhUQmpnQ0xqUWd4NFlJbF9YZWZiVmprU0pxaklHVUpvTFYwTUFjOHBFVF9ZeUxxeG9zY1ZTWGR6ZTZvQXViTV80LVV1OWRwM0JmeHk2SHlXQ2duSnlIQmVNcU9sTA?oc=5",
+   "published_utc": "2024-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jyotiraditya Scindia: Ex-Congress stalwart retains berth in Modi-led cabinet as BJP MP",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMEFJWDNTb1VjWFg5b2ZXZXktbW91VWFxUmVJQndTZGsyWDVfY1c3bWdJaDl2cVd6bXpyRmdmQzdYd3UxTjVNNmc2eU5ldVlWRHNSdU9mbEZLazV6UjFoLW5fTTkyeWVqdTZCMkFSdEh5M3BPM1Vaa0I0VlhlSmh4TE1lZUl5OUowUjNSR0FqLWtIbUd0STFmYklMWXVyTzMzcTNrNm5VUGVUU3p5djhWRzVJOTM0cF9USEI3b1lmczFSbVNVbkdBQ1Bqa0Y2TjNkalNkQlF1UjUwS1NHNW1QQ2xhbG1LZ3Y3c09ZNU0xM0ZZZE1MQjhZLUtod21kV1RjWmNrdV81MlFGOUXSAZACQVVfeXFMTUNEZm9NLUkxdU10NG9vREQ2aEVKNjJDUlYxcDNZOFlJLUpDS3BWMDZXWmlpcU9YV2FvRXZPajE1UDBQXzlldEVQa1NNalJqaUhKYktOX1VQY2tpdXpTWEVIbWJfd3RCTk9wektxYVdmVk9hVWpzOTlfMW9lVlJnaWIwaEZydlBPOF9Yd0I5TFZqTWNxRUNhd1dqaGVJOTVMRnpRYkdzdHkxT0pUUnVodllhY2Fha3dyNGR5UTRoaEhJRjA5aDN1MWVYNHdZdF9MNkdZc0RTQjdsdk5TMFpRcDdHcVdLZzhIZEwtQndHQ3lhQkhWQ0J4ZDd5NFl0akszamRlVzFBZ2FVSkxKRlZfaGI?oc=5",
+   "published_utc": "2024-06-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "M P Govt to amend Pawarkheda logistics hub pact to help DP World-Kesar Multimodal deal",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPblhtUUhvZ3dKS1pCRnVhT3JzMzlqVmZYeVVnWURtSlo4N1FVbFg3V3hlSkhFeW5ESVBFUGR3VjJtWUk0aHQ0dUs1eXJoQjJLbHB2Rk80cGVBTVFxRk5yX0pKRi1zVzNvZGFoa2djU244YUlodmZHcGJ2T0xRQ2hIVmZNNEh1VUFmT3lKWFVTY0stY2hpS2JNZEppNkJfajZWV0k1VGxxa1FLSXpXb2FNZzZJNnNqQ3NndjRFYnVHLU95Tk05ZFV3U1lVZlMyRFlsSk5mYlptSHFzM3d3NW5rYzk5b1plMi1UYnfSAe4BQVVfeXFMT2E2WlNRLTBRR1N5ank2STBFYm5YQk9TUkVGTkdIbFVFZkJZMHBvc1R0V1RtRGZLYkF1Q3ZBR2V0RngzVWFyZHBJSnpNdmNOckpFRS1fcTY1NDE0SnBkZE5NeFlyX1JsZ1A4WGJTM1FDNkV4NXpGNFRCTG9od0daMTItLVJVcTdOZ1lzbUhzaXdocWNrQS1CR2owdUhhZk10TzhmQi1HVU5adzVXQVdIclJrbGJMWUJvRUk2ZXEzTnZQTkM3MlNrQ2lDVWlKc2QxaU9qTVgxOHpRMkdFNkNrbzJoeHdqZnpMTmVwWkZ5dw?oc=5",
+   "published_utc": "2024-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh CM launches PM Shri Tourism Air Service",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalN4WFFLcEM5X1BwMTJTdTBJTXhuZzlCUkxmQTQwZXdfSk9oS0pYc2VHbWxtS0tRXzhpVVdRRHRCdTMxMnpkdGx3SXZhSWJMT0NYaE03NklEN1JzeVN5OTlmSkhYNjN1M3RDZ0J6MVdHXzFaRmdVYWsybGhCMU14MkUyM2RUUGdHLW9DSlJRaEZyTVRReWZtSGVBcG1ybmxQY3gzeUlJcnJUaVdDZFF2ZmZ1dFRzYS1va1E?oc=5",
+   "published_utc": "2024-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

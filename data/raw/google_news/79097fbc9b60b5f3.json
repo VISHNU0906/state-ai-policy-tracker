@@ -1,0 +1,13 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-10-01 before:2024-11-01",
+ "items": [
+  {
+   "title": "Chandan Raj, CEO of Suresh Chips and Semiconductor, Bihar’s first semiconductor company, made waves with a recent post on X, where he expressed deep frustration with the state’s infrastructure and support for businesses like his. Raj, in a blunt statement,",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43SVVYN2pDT3hYcVVxb0tSU3hTT2RWZF93NUZWczg4Y2Z3LUpOQ2N0clBYNTFkeVU2dWY2aXRpSVFoTWlnblY1VTU5ZTVILWNzTWc?oc=5",
+   "published_utc": "2024-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

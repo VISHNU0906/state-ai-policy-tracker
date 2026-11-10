@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Naveen rings ceremonial opening bell of BSE, promotes Odisha",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa2NEOFZCdXdzaHpHMGFsQzBGa3B3WWxTNzNyOHNkc29pbHh5eXNZeW1QR0hQeGRYd21mZDVzUEFDLUpvSnhkUHdaTmQ4QlZ1ejh2WEY4dmJXM0RMQjVxeF9FamNGekdLQnF4bHp2a2dwMTdVaFNpUXF3Nm5waE1UTkhmd0h6SE4xVGJ5NHltZ3R4aUJtcWZzSXlYbFdDZnVMcGxwNWpzLVFzSlRWNkluTnlZaGhOeTF5M0ZKXzR1TFNiTkNfazc0TmQyNNIB0AFBVV95cUxOaG8zNERrM1JHa1RwTkZ4ZGpHeFZ0WlNOb1dQQWpza0EyNnN2VVZ3b21MZVJoODJYVi1pTlZHTGFuWmhqM2UwSWZ3czV1X3YyRXRRM2ZpbHlFdGdVdkNXdFUyTWJBbEtLMjg2a29mOGdMTEkwUm1hektBaXMyT3FGVmV4RzI5MVVJSWlrU09ZYjJjdHBkMXc5S0hmdkRMWHZ1N0kyZ2FocFZfNUtsWm5tZVBMSjNCUjdEbTJXYWVmZmFHNGJ0WUtHdW9YT1ZCVUdS?oc=5",
+   "published_utc": "2022-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

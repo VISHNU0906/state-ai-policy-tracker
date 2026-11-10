@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "Data centres turn to renewable energy sources as power demand surges",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVg4dXRZS2lnRGY2b2dkS2gyTFp6MUdsNUpGSEVraU1uUFh2QkNtUzZFT2t5eUZHTXpJX0hSRC1uNFFCY3RKazJDVGV1NHgxNFRkOVNSWTg3bEJWcjl1cTQ0T1g0YWhkYUgxWUVmbzc4OFQ3T2k2M3FnUkZVTWxUOXR1MDVHUGpRNHJ2RjZmSm50ZHVzMnY4QXhibjJXSFljT2I2YmVNTXRFcjFTdWFqVUVJTDYxN0NwZDIzUDJYV3N2LU5wYzJDVmRVeFRhQjlCUlHSAdcBQVVfeXFMT0drZ21XV0szNjE0eE4wNnZJVmQyQlphZWpLSjRkbjVpdEt1RGhya0hpbzlSc1JrTFhBdjc0eExBNWE4TGtaVlMwM1FuRjNYU2VJVW4tRzgyMTFHbldaMnBGT3A3N2JaQk1VbmdJUUxEckxEV29lMXRHcExSSTRJcUQtdkRVNjFWYUJhbFdGZjJ2WHhqTzNmUUV2MjBQTENPV0ZxemdURHlhU2JpZVNkRFRJZ1hGVzZZckc0ZmtxTlFORFhGbnV5RzVhLWVkcVpxWTNoM0NMOXM?oc=5",
+   "published_utc": "2024-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IAS Ajitabh Sharma revamps policies to change industrial face of Rajasthan",
+   "source_name": "The BuckStopper",
+   "source_domain": "https://www.thebuckstopper.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdENOak1lN3BXeFpwbGgwblJubjFRQjVJazlXOGItR2N1bzVzZGdTeTBXOFBMZWh0VElnSldrWU1kd3FfSEExNC1vMjViTkNHS04zVWhoeDVfaEkydDltWWxUNHpENFlfSzdBY25Kd25keTRxbFdhdVJFcWNhejQxLXdieFk5djNjR0JuZEN2WFM2WGtEZ01Zbjhjcmc0ekczcU1rZF9uVWVQdw?oc=5",
+   "published_utc": "2024-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Kuthalam government school implements an AI-based Language Lab for students",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE9MRldnMDhDSmV4Ql90VGx2eTR5bTU3ZlR3V2N1bm9lMjJEaDVpVVV2eUdpcVg4YWlXbDl1MzQ3c1pqM0g5c1hwMGpYYjJ0d3ZiaWtPMjlsWUpjX0ZmTUdzenBZbDB2Ri12czFXT2JDX3psVFBlN2Z1UmxOcjBzcUU0WGtyVkVQbFVSTUFTRTZmWWdQQi1XVXYxR0ZsRktPZ3pnUGJuSXhWQQ?oc=5",
+   "published_utc": "2023-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu cabinet to keep finance minister PTR amidst controversy",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWR0bFpQQ1V6UG5YbS0ya1VlMmxwZWkxVHIwLXhjRU03Yy1IVUNJMERKWDA1ZmhNcFpkT3pNR3k4MkVSaFFQVXduZWdvQVIxVVNyZUR2N2doelFzMEI2Q2RyUjVsYXVhQWhMVmVwLW95ZDNIX2ppS0lhMWNIeTltcG9PVkFNcmFuWG9ha1NJdkNRWWZjb3FzTFZoSlFSYzRURnJtM3BTbVdtVDNUeVpsZlVqczFkdzR6NTBTelFyVdIBxgFBVV95cUxPb1R6aWNHMDhiUS1FNy15NlMydkswdlotXzRPbmJiekFJZ2VMcklQQXljTmhtcHhhVEJsNS0zNW8yRzJPUHdsN0hhY0pZME11TC1KWXA3SmFyaVk1bGR6R0tWTUVHZWZJcDNpRjhLRFFJbFVFaWkwdzJ2eXR1NUI5cHJ5bkVRaENYMXJMbGJmRWVPWkFQZE9DTkY5YVVYQlpWLUVzX3l4M3B6WGM5Y0JwWnFkQkQzQ19sdXQ4Y2xmRV9aM2xXT0E?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Zoho CEO asks govt to develop local AI capabilities to prevent monopoly",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRkxMdGdycGljelliWHBsMnVZSU5EWmpCV2g2N1hNTG1ReWc4aXRDaGhiS21PN0FFSUFYdzJxTUFheHNlVjZYTy14QnVyQ0pCQkxUZmxxWUNHOUJ1YUlWS1lDbldJdlhZMFVudVpEOE9iSG9jVHpZby14enJyRlFQakt5OVRWN3RPMTJOY3Zzd3MtRWR3dl9oMEhqSFBrYWxCWkRKd0tMU0gxU2JpWXdZeG1IcHp4TVZ6ZzdDaU43X0trUl9ORFo5dGNNZnZJd0liaXBB0gHgAUFVX3lxTE81ZHQySFZCN1d2T0dmTjUwNUJzQ1RUSmhZRzNrYkt0Tjd4ckphQU5UWm5kR0FNU3JrRXBiVGxsTEJvUEFfcHNPRV9KUGJyZ1VKZHNHVzBtNEU2cjRUN0RIUnZ1ZEVHSHpuYjF3YzFLS1V2UUJSalpSSTdiRjBtLU9lNVdUbGljSVhlVWpuYTVzVlhZM3VBMUg5aWk3NzdwT21NRm9McU1OWEp3amVQcVhUQ2FoRlNNeEZ3LVYxdkIzb01uMmd1bDE2dk5icVBfSG1PYVRmY1RkUzRTRHVIZzZw?oc=5",
+   "published_utc": "2023-04-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Wants To Be A $1 Trillion Economy, Govt Hires BCG For Developing Road Map",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdl9SeTJRaGN3QkVFRHE0YTR6WE4zWTFIbWplSjg2eUkzTDRNbU0tWHNpelNWWTV0a0MzVjVhVFMxdTZwcmQxbHZhWkFhN0VDa3hRbEczOUQwVGVFdEQ3SjhKTk9YbnFGMXVFNTY2MWhTN090S2N1MXFrTUpQenlDMWktWXZudzRyYnlLX0dJcEVWX1JKQjdEamd2dGNjWUhWVTMtdFVJZXdrYTJDaERzWjlHaXRsQ2PSAccBQVVfeXFMUEtkeVd3SWZuWHdtb082WEpkUEtNMThIMTl4dkNya1BzRUYyT1I4Y0g2cTl5Q2wzOWVYR2d6M0tjSTJ2SlNMOWZfQzc4djF4QVVXSnFaMzh0LUZUcWFuc1NTaVlHalhrSFVFT2FaTmt2TUZmZGliMUNoMTgtWkFIRXhXYmVQcV91bC1QUkJJVWgzUVZmV0V2LThRaXV1anV6cXlaaWJtYlg4M3ZGSTNGSW9vY0RfSlduT0FwaWJZYTFKLUI1NExZVQ?oc=5",
+   "published_utc": "2023-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Taiwan's Pou Chen to invest $281 mn to build Tamil Nadu footwear plant",
+   "source_name": "Fibre2Fashion",
+   "source_domain": "https://www.fibre2fashion.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFpadHFNWU1uTWFuT0ZxdGJiS2xpWkp0MTFUdHBRUnNaTmo0aXlGdUViU2dKZU1pVUdOTjFVa2pwNGU2TS1xdmpmLXdFeXBNZndmb0ZmOU05LWpMU2o2bEctbnVHSHphQlBGYjBFbWp5TGdBYVhodmVrcm1NOXRPNXJLeUpBOTYyWlM0OEdkNjcxa3RMdW1zNTF6ZHNVajFyT2x2cjhIMEE3WWxaTWdiRFZWUjdsekJYNXlnektFb2x0emdQazdtV2VUek5kVGR1VnFyZDUzdw?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Fabricated Audio Clip\": Tamil Nadu Minister On MK Stalin's \"Family\" Comment Row",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVzdTTDNiajdtZE5iVmIwOG9BOGppTkRxZHNoM1FKR1VGUFhWN1JnNDlldDNORUJsclJJek5MOXVZbGNNX0x0SmliSHd0RnBiLUVha3JrOFFySlp3WUJwQVBZMW52VnJVZ0hiVWxBSVVWaXY4XzBES2dTZ09Ga05XcXppQy00SG1ENWQxR29WYkQ5SzZOZEFDNHNJUmVtT1NmeDFNYklxdzU2T0tfRmZtbGR2VGVYQjYxd2lZQWdHOFFWYkNpYVRwb3ExNGJpWS1DVERJTkQtSWc4T21sdnhNeXdR0gHqAUFVX3lxTE5ZRjVoV3VxR3lfTVRpeHpJNGFuN0dxMGlSQ19OOTFfckpGMEZQTlEtY2FnMWZ1alNpWmZLcEI4ZVgtUTc1aTRQSUc5NUMweHBNckoxMmNzZk9DZnJqd1g0d0hqNlZjMS1HX3FkRFU5ZnlBeUs3Tm94ME1wZlB3eHV4bHdSMHdtdDJIUmJuOUNJNi1jaHBEWGZxaXhDV1pKcFAxekk3NVNHa3lDZjNadkZ5MWxFODZUY0hQbU5xRThGekxJbDFuQ25lZF9nTUJoMTlpbXRDSDdwR0VNVmV5cjZkbjljUmVLVTVoUQ?oc=5",
+   "published_utc": "2023-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Audio clip was fabricated, attempts to divide CM Stalin & me,’ says Tamil Nadu finance minister",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzM4WGRRN3M0RnFvYzkydmhvLS1XUVBqQm4zOEI0cXl0SW14TEc2MXdMMkp0MFpxSVZhaFhMY29YV1dSeDRzeVpaR2lfSWp6RXcyT0hkX2RXRkQ3LXVVNFFDaVhzck9wNEI2ako3WFF6d3BwMzUxMHhjZGwzdk91QkItVXJsYUtGTUFnWWdvOHNjQUQ4ODlRYXBlNHlGMEgxWnBhOHNzYzR0aGRTZVBLYnVIQXhadDA3aWJPN2tGempjYnPSAcgBQVVfeXFMTVRqd2drYWV5cEFnOXhRSF9iNkRPMmxKcG5HOVB6aXBva2NvOThMSFpNUVk3TDBkZThmazVkZmZQM3NpaDRpa3Fxb1pGTHBJME1VVWQ1Ti1zRGZ5clBmN1lfMXJGd2I2eEM4WkJYSV9CbjJFUXVydnVjam5qem5TektBVVpvbDhXUU1VdUFNYlE0XzNzelREaGN4T0RlbURtbDU1T1JNVXc5WEYxMGJOeW1vWXB4Tm5WV0pQdmQyWUVNSGpmc0NkSEU?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nike Footwear Supplier Invests $280 Million in India",
+   "source_name": "WWD",
+   "source_domain": "https://wwd.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPemJiQkxlR1pXczJuSVQxWGlfQmp0cHZyMkZqYS0wUGd1eFE1UlBRLWRzY1hick9HellFNGtCU0JMejlxbC1BdlV2bldkX3F5S0F4QUIxSDJTVVZpUGVfQmFoeTlPWHc2U3l0UURvMnZkQTVfVVNmV2VOZGpHeG5hWTdkREhscE54NkloNllHZFB3TGdEcFlvMXdlSFdUT2F1MUNHSktOMW5vYWxWRElESEdTVWxMTFp1SDA2VDlsNlJfZHJ0SmhDUkdObGl4NEFnN253YTZfSlo?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Alleged PTR Audios: Tamil Nadu Chief Minister MK Stalin Says Don't Want To Talk Further; Have Time Only To Do Duty Towards People",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTG5jbFpYdHBXOHNYS3pJNjUxVkM5SmoxcW5ZcFZPbkd3UkI1c29uaDlwazFHbmpZZjlNcjlnZVlKbVhXX2tqYktkWmxmZ3UzWmJJdW5sb0ZvSzNYMjBZWU5LVFVjTHctQXJxNDJUMlREWFBhbjgxLS1KZG4xTFk4bzF0TEotd0JvX2xUS0RUMG9XS3ctblBMVlRGeHExSk9PMEcxQWlEcTJmTUVqWXpCU0V5eHB0bDBKbDR4M25zcVJMS3BpNmxtX0E5U1VkZlJXUUsyU0tyd3ZCVFpFTTNSV1JWTk9NWjZXandtNlN6S0VSRnNWenVlUdIBiAJBVV95cUxPQWZYd21ua2lFX3RnaEI5SDBVWDVQTWhrN2g4MlNxLWpLSEt2aUZaVklBSHVKYjZGVjF2blVJUmlxOWhTYmMyTEd4Qnd5NlJqeUk4dU1heFdDZlBVWGViYVpacHliZlYxWDR0TVN4T0YwdjVUblR4ZnplcWUwWWZ1TzhSemxvMEJITUlDcW1BSU83NlRfNzQya3gxRTA2d3dweTBuUHpXa0lrZ1JZNU12MDM4d0R5WEJNYklfem9IVkRaYTQ3TUtidDNubFpMeXFldjJPQk9aU3YxOXBzcGI2a21yOFBhRHh1UHJlMUE4elc5TWZPQ2lEMHZodUFGQ3Fha0ctNFZ5eGc?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu government takes IT Revolution across the state. The State government on Thursday proposed to set up a TIDEL park in Tiruchy at an estimated cost of Rs 600 crore which will come up on a 10 acre land in Panjappur. Government has also announ",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oc1RuWDJnVGRYQmw5dk1mbWI3RnNmSnNZOTJaNDNNVTRLSHhWNXZMaTY5VURIZEl2Z2thSGdSc1ZXdVZuNC1jek10NGtPNmZId3c?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

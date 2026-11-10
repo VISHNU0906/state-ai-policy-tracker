@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh government to commence AI course in schools",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjBTcmFuNnh3RlBmWXBjWjRkendkWTdZVTVqaUs5WEkySmlGNmotYkxMWXlJcm5tYk1oTWpIX2hfRjBwZDI1MnZjSGpBVW5aM2k1NmtuTWUycXVTWGRrOXpSY0dpLVVQVFZDUG1Va0s0dWdfczJ1RGZYOXJDMFRrVWd1aF9Qdkw3bzNTZ0YwTQ?oc=5",
+   "published_utc": "2022-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How girls in Madhya Pradesh tackle anemia in everyday life",
+   "source_name": "Clinton Health Access Initiative",
+   "source_domain": "https://www.clintonhealthaccess.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd1VBYkQxSWxxb1FHLW9KRmM4TmtNeFNJTk9IQlpGRXFINkVvVm5VcnNFZW1uWHBGR2NQZFJDOTZoT3hDeV9nVlZPSHhydk5CaWdPQUhZR3NaYzY2Ykh4U3BFSlhsa2g0N0pRaGtNbWpXZndjMUc5aDdwMExaZXBPWmNaNDh3blozUWRZZy00dzlieGpOSndDUkh5TmJmQ1dUQ2c?oc=5",
+   "published_utc": "2022-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Take To The Skies With India's First Drone School",
+   "source_name": "Homegrown",
+   "source_domain": "https://homegrown.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkxadmQtZ2hQN0J1MlRjS0dkUmZlWVI5NzNpQUlKZVdhRHJfc1NwRVUzd2pBVXV2ZUE1N29KQURNOWtNRkN5RDNqZ1M3TkNqWlFMNTktVzFPdjVCQ09GSDZOWWVSWFFOT2Z2VGIzMWg0M3dfTVo1b0hjalFsckRBVU1Qb2oyU194TmcwMlM0SldLTVNSMlHSAaMBQVVfeXFMUEJfRXUwZS1VQi14aUJ4b0dFTFlMQ01WcnZzWl9XS0RtMW9YT3NMby1UbGxmcFVjVGU1UVZ3SHZkVk41clpJZzFmbXk3YmVITnhJTWszRDBsb3JiUW02alpDRVNSTUlSLXJJbVo3U2tUamNGYjVPZ0FCaUtsV01kLWgxNVU0R3VWbVJ5N1VKNVFTU2NiOWZqdFZjQ0pOY0o0Wm5Eaw?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "First 'Drone School' Inaugurated In Madhya Pradesh's Gwalior",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWHI2ZGZZVlZuM1dIcXlvTHRyUjdDbm92eEdDR0p2bE1XSTJFV2ZtWGNTSDN0RDloR3F6R1M3T1JyazVTQWttUm0wTTJzQmhKeHo0SE9fczEtTFEzbkdra1J0M3hVZ05qaXFrMWExbTgxVVRVaEl1YnJnT0tIRDRkLXpTR01hMjMxNjd0eXRPNlRkZw?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "These visuals show the arrest of a criminal in Madhya Pradesh, not the person who issued death threats to the Karnataka Judges",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOanhwWTl5cGJnX3ZPSkxjMjN1c2c0LXo1TW8tSURqZFg4TmlUWDY4MHhrODBTX2d2VUpxT1F1eHgxTF9Sb3lmcWh0X3BpUnhocHo5aXFsd2dQb0drZkRYUGNqVWk1NjlhY2pCS2ZjVV82RExsM0szOWpfc05pZzVuZEtFWW9YQnBrNWRsS3ZmRTZISmJKWEtKcC1EYkxKZ2Q4c1VvbkZ3NF93NHdROW9oTlYxYlh2WmdhSHYwOE1GcXpzNHJVcm0wdDZoMEl4V1hySFpwSUJXY3FQSzdXN01qbg?oc=5",
+   "published_utc": "2022-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "“Leveraging AI for smart decisions,” Dr Satbir Singh Kadian",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3A5c2Zwd3Y4dFliVXNhbU5sMFFuMDhEUDJjd3h5OHV2dHIwVHVtY3hjUENOdFltaTdMMVFvY0MwdVc1MEZXREFwdGpFSU0tWkU1UUVYN0JnM3E1T2dPMHI2dHhpdzdkLWllSjF6VkotczB1dlRpeTliRFlVN3hLUTRNdEVlOXNHMTI5bEFfTHlyMGZVa2lJb3VB?oc=5",
+   "published_utc": "2022-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Government to Waive- off Mandi Tax to Increase Wheat Export",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWVKc0NzMk1uLWc2NXNMVkxhSFRUaU5yb3dfTlNzYU1wVUIydzFOWjJDR1pfbC11emVlSWY5NU9UU1dySVFSMU1DMWV1X0FaRXJ3RXRBN19NdXFvbEJyOG0tcEp1UVVQQkV4d0FMWW9ldEdES0V1RVN5SFNMMi1wbExSU2FBa0E5ZlUwLVpjYlpleFZqMGxlbkJ4VFE5V2FtUUQ0VlpUUEXSAbABQVVfeXFMTkpmajdPVEpZd2VIMEoxcThVMjJpY1BfeHhSWjBBWHdISDNmd2FRVmp3M241ZWg3VGpmZlJnNWNWblBGWmR2SEp4WURndk44cE8yMXdURzFBTmQySkJlcXhXNnBKRmxRWlpTbV95d3ZlM0NhV25uTmkyT1FydGNGZ0p4TVpLR1NVUlBSNjdfdTFhY2czbzc4dFBIdnJHVVZKT180WUVQZ0JWRTF6aHcweGI?oc=5",
+   "published_utc": "2022-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Medical Student Found Dead In Madhya Pradesh Hostel: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWk1idVpZT25kbkZhTVFNZnY3ZDBteEpRN0NvdWYyblprQjVGdk9rVGMxN3NjZksyS1RVc1liczFOalNhRlQxOTFodmdZWGdOZXc3MVFVTlU4YnVhbGVSMHRLRzlRazFtT3lRcGtFaWUweDZ1YnRYdFJMRDFzUm9DYm9PRnZPdl95SjRudnh3RjFBZTc0RVZhWUd6N00xZWc?oc=5",
+   "published_utc": "2022-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

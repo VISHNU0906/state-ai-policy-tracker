@@ -1,0 +1,69 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "Bridging the Gap: Integrating Skilling into Telangana’s Education System",
+   "source_name": "EY",
+   "source_domain": "https://www.ey.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1V5Y2RnYlc5Y0QzWHg1V0dmVk9MSG1uRWg5NjlEcUhDQVVINlpsRGFsZXpObFBGTnRsdFIybjlIZzBhTEgzVFNiTkc0TGxzQ3BwLW5YSUtEZUhjM0pVVzlKWTJtMGVUVHJ2RjZrMW0zQ1o2cGlpUjZIX3BHLU1tcGhYanNNLTg1RF9ZRW5WaXYtTlpWcWlGX0NvZ2duQ2ZpWGs2M01IT1pOTFhBMVc5ZkFUeEJVdw?oc=5",
+   "published_utc": "2024-12-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Is Driving India’s Next Agricultural Revolution",
+   "source_name": "IEEE Spectrum",
+   "source_domain": "https://spectrum.ieee.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjV3AzREJBMm9LLS1nNW9jOGJiOXlFWV9lNWV0S3lXZng5QUFvS0x0R1lEZU51NWdLelJTUzFLbnRhTldvU3FPQl9IcndWeW9OUXc?oc=5",
+   "published_utc": "2024-12-10T14:04:18+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana government scouts for cloud-based AI solution to track progress of Indiramma Illu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWU1xSHR0aWlKN01uaWZMUkNuZTJnQzJFbmZyVndNWHVNRDk2eHl5ZVBBWWJWV1dGbC1xbXVoVm01SzFOQkNNSFhVdFlFMUJsZlhsdUYtcTN4RGFuUER3TnIwNUhnMmJ3UnE1bW5SZWQ4NGNna2pYR1JSZEcta0YyQ2NOQmc0ZWpMVFNwY1dsWkJ5TXU0ZXdaQ1FpaGxCcVltUzhrcUx2QXlyS1NobHhWdmhiWUtPOUZlZ0Y5NG5MZWhGcG9PeUNXa1BqdzdpQm5xM3ltVGIyZzFzQXAtMC13RjN6X2FSYTZqWHV3aGlWMWdkd9IB-AFBVV95cUxNWUw1aVJZc0ltUEZEQnJHV1pKLUlJREVoYVlnX2dfcXVBM0dXREFEbzBPWWFRbm8xdG1JRVNMcnZVVUlLTG1USEVtMG5uZnVOWTZjMWdWWDhZVndRYXlKQnp4Q0QtWHNGbDdPZndOeWR4X3hpUnN0MENONGxURk9RMkVkVGVPNkktOEExOFVsczZnVFhzeWZYOGxUQ1NHTGdMemhqOGpCS3BQNXVscC1wR0RLWXp3eHRUSEdQaE13YkhyM2tDNVd2bTlWeHFGMzVzTm5ScUVHNG9ST08yOWVSa0NrRlVfbnFoelVjaDR5M2U5RTFFMVVRNA?oc=5",
+   "published_utc": "2024-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana govt schools to adopt facial recognition system for staff attendance",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmhlZEsxTDd2WTdSRDA1Sk5uZmZSeEFIb1Blb0pWOGxweHhCbk5TVFFUMjFobWd2U0pOQkNrdlppMjY4NTZTcmo1enlYMEhvY2lzYnk3ajlYOGM3YkN2OW12S1AtcmR6SW5rRGh1STd0YWRYRkx2ZDZIbGlhVXo4NXNkQlVFc3dNZFduZ19FNjFPaVY0enNIelZOU2VoeTdJb3FIb2txSTE?oc=5",
+   "published_utc": "2024-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana unveils BuildNow: AI-powered new building, layout online approval system",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORjdUcnAyTl9hQ1JKbGZfc3pEUTdCS3liLTJES1p2ZTdQY0loMGJKR0h0aGZzVnNVWnRzNjg5QUdHMmN3SllKVDg0cEMwZjFUWGJqeHJKM2QzelJHSVl4V0kySTZ5SU1uSzIyVnZJZHk3ampEVWxIU3daWUNOLUlaMkk1LVFvQkJWOWNHTnFRUFdtZW5MVm5IdGJsWmFvT0ZwMElKZ0ZmUFhIdVlsMTZKYm9pdkVsRFJZaXc?oc=5",
+   "published_utc": "2024-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PARAKH Rashtriya Sarvekshan concludes in Telangana",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0x6MkFNQW8xc2JzN1BzQ1hyejd2MUpsQks2R1ljWVRaNjNYYm5sQlowV3g1dENuOGFHWlFvSm9wR096M3phRnpzNEJNaDl0cEQ2NlBaeUdOMUVtbE9oOU1COVlQT3gxQUJXMUExZzViZ0VOdER6MFRyT0t6d2d1YnRNNTUwa1MwWDFaMUJ4anlZdk9ScUhWYnJYWmF0MkdkSzd2T2h4S3dfaHBWb1FTWDhldkU2SDI1YlJV0gHCAUFVX3lxTFBVSlFxUjVPbHJNaFBiMnVET3d1bGQzOEZzRHZia1A1ZHlPM3hEeDYwc3pBdHUyT05oUV9JajlHa1RydDdpNFRwSkNlYTFHR2RRZzlkdFFLSUM5c1hIRjFTQ1pVRERxMVlzTndRWHRkcDBLS05OTkFSZmlfNHRKcVdDSnhWM3NsMzhVVmx6aHBEVFV6RWxzc0VaNXBMZTFKUXpJNThCajEwd1VmaU9TNFhYdFBLLTFDUFR0el92bm5tTFJB?oc=5",
+   "published_utc": "2024-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana: AI-powered system to replace TG bPASS for building permits",
+   "source_name": "The Siasat Daily",
+   "source_domain": "https://www.siasat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzlBLWlYTWhHUEFpQzV3UGdyMFh3ZzlaVFV2emhtQldpenk4RTdCYVUxdjgwbldiOWlpemdVbnYxbGlISmF6cDlEUEItMXQxdlI2RUQtSGpDcVBTTWNHa1dCSFBreUlHQk1JcE13ZjJrX1kyeU5PNVFRQmdIOUx3OEcxN3pza1dwNG9Vem01VjBRRFFmSF9jdXBscW9heGF2U0HSAacBQVVfeXFMTkFPd0dHWHI0M0ZjUWdCaTJnV3k4Ti1jUXlIZDZlSkVkVEFCWTZlc1ZNN29WZXRTaktTcHdYNXlsUlpWQmFKY3BRQmcxNHp0UXFWQ09VNWd2UXF2NGJVSVl1MzBfdk5ocXhLNjl5eWdoVDd3b1dfZTU4MngxUDdlUzk1U3gwTXdROFYwSXJTb1VwN1lkd2xtN0tYbnY5WlFrbk5sRWtYdWM?oc=5",
+   "published_utc": "2024-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI powered BuildNow to handle building approvals in Telangana",
+   "source_name": "The Siasat Daily",
+   "source_domain": "https://www.siasat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkhTcWdUN0UyN3NPQXoxTVZuTkJnY3BzR1Y0OGJQQWxKS1ZMX2JzWmhJNkJCMEdrVFhId3NGdTNtVkZaNlN5c0c0SkJYaFN6X0dsUFpPSUNfUGFDSkJwdEV4ZUw2NFlQNVpPSXJta3VhUjVGSi0yWF9WSnpqT29DS25TYngxWjdscUtsaE80TEVPLW5lUTczWNIBngFBVV95cUxOek5UQ0xXZEhtcC1yQXYzMzIwU04zcGlkcml1UUdpS0txaFpHMDlaOXNkdHFmRWh4NWFBeGdsdUZmaEllVDdkeGRLYU51dEVfdVVWdFdIOTBkcU1sOVJuV1kzYW02Vkt1YnZFbmNQMWZ6LWlXcW1GdUVYemE0VzFLZ25IY3ZzWFJPQmVDLXdRcTgwT1JCQ25DZWg4eGlpQQ?oc=5",
+   "published_utc": "2024-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

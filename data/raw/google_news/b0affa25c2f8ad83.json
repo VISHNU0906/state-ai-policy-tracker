@@ -1,0 +1,13 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Deepfake democracy: Behind the AI trickery shaping India’s 2024 election",
+   "source_name": "Al Jazeera",
+   "source_domain": "https://www.aljazeera.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWgtNVpXSjBtYVF5bVlUTk1LRUFDWlhfTTRERGRXMEltdUVaM0VXUzFsc013Z2o0MnRreU5uVkRDNkd6V2dDcjllYnRkWG1VMVcxY1lSOHhDTklQNVlDbHV5c2tqamxtdUFtMGhKMjhTTHBjT0Y1OTE5WEN4RUxYVDN5ZFlzU1g3YTlXYmNtZ1duNEJSajJ1bm9HVWo2bEo1akhTd3YwLWs3bXdhMndIanNB0gG3AUFVX3lxTE8zeU9wSWpsdTk1NFBybm5va0lGQ1hZcjFDSWgxYS1BaGpjMmxOT2hpdmhueDJHSS1seFJnVEQ3bDNZdlNSQUpMeUF6eXZYTTJqdWMxVWZSS0tsTGNDMUJrN0U5QkIwUVJLYW83bElPS0dpWEFhODE4QlBsZ2lMUFp6cGxsdHpkZC0zSEk1eVFYU1pSVnNMaldiaUlZYVdZOV9mZjdrVlFnVHJWWUczV0lMZVk2OFF6RQ?oc=5",
+   "published_utc": "2024-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

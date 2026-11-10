@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Amplus Solar Signs MoU with Andhra Pradesh for Distributed Green Hydrogen Production",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYXVrNDJWS0hvU3Bnc0w5WWxoeXVOTXFXZXI4bFlwNVpnenlEd2tYU0FKTHY1WkVwTEVEVVdteFAwQzFiZ3BxLUdIVEc0Slh6UVlBaDNzbDdsQUU1Qy12VFEwZ05YZmNCdkRtVG82aU5KbGFkc2thNEo3X3FtRW9HUDNVOHpPUDN6TDM5SERmWXhsbjNoUGJNakpUU1hnQlNOME1YVGJ6TnA3QmtvMjJ0RVR3WTdSQTBNODRDUDNTNlJOWWZadEQtZQ?oc=5",
+   "published_utc": "2023-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh received investment proposals worth Rs 13 lakh crore: CM Jagan at Global Investors Summit",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaGk1ejFvNVNVRTFLWU1rMzBhc0JiVlk1a0hTZ3RxWC16RExRNDZlYVZtMUViVTVWQmtYRzZWQWo2eGR4Tnlod290azVUVVVtWmpmS3hCSU0wYnA1Q0tpYXNDZ0hqalpBbU5IMy0zbzFoZUhmMk9IVGNJSDRfTnRRQ2IxZFQ0dzRCQk9pNDRiMEgxWmFmNUMxamUxVnhURi1OUW9wekEtdFVWS0QzTHVjWUVCSVhvbDVRVEVCZ194OXZsNW9DQVdMWm5IWW5sd0Fwb043Rlp0UDVYTGczcmtNY1RDOGgwMDRlRW9ONHcxbUFZTzJFbVdZWEExYVlfQUxRTWfSAYcCQVVfeXFMTjZjbVpKSWN1ZlNXN1lUenhucHRkcDFSd1NvZk4yTWRtOXVBbEJkalBDLWJCQ3FsQVNkbTlQZ3Q2dlZNekwzX2JWelRwWUlhS3M0ejd2R0tZX0JjMHhMWDVTdTk2QVdVX0JpQlZVR0gzZHg5dHIwVjJMU1VPc0JqbTJYQkZHWmNnTVRFSDR3UmRwMlVaR20wdm5KUEVUTFhaWm9YSGJXaTdFZjhvVWtFZVNTVUg3eV9CM2JqbFZyS2loMGpOLUlhM3k5OF8zcFAzcklQNTFHamRQMHlZMHNvbXVIdDJTOVBOdUNPX2hYanp4UU1sY1pmVml2dTJ0bzQ2SGo1RlhvcEE?oc=5",
+   "published_utc": "2023-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Cabinet approves new industrial policy 2023-27",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXh3ZFR6MW5aNy13S3hwM09zdUFqTnI5NjlaQmZCM0xqVFlCc3FKUU92WV9kSUZGZmdMbDMyLWZrMHN4U1JRbmlxcjg0RnQ3RzRpMVEyZS0yZFRSdG81dUNzaWktbzMyanhiUzV3LUpCZVhER1ZXaG80TjdxZjV6eUFKOUhjbHRlVjIxOXA4QTZCdm9EbWJXMFF1cmhRaHM3OFh5OUI4cENBWDNHQjJZdDk4X3R4c0HSAbwBQVVfeXFMTndSVU5LR1ZlZmp5ZkM3clB5S2pGZ2J6U19sS3ZNVzdMQkQ2OTcyQjEwNklCMjRSeVFiLU1aUmlLeHN3U05WVV9iZ3VWVlB6cmJORW55dW1rWWI4ajlVdWxnNDdPV0E2bEk4dUpRQks3V2hmSkVLVVZBdmdqdFhZRjRlRmtjSXhYZldyY1FjNUlYb2Joc21QaTE3anRwLUR1TU1lWE1IRUYyM1VYVW5ySmZZckVmc09sS182RWE?oc=5",
+   "published_utc": "2023-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance Industries to build 10 GW solar plant in Andhra Pradesh",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUctRC0wQmFVcFFkb2QwVk5pNURab2ltNHFJS05FcTNQbDBEcU5XTVZJYVphakRVQk9QTXNjSV9GRTQ3elQzUjNoREVLWkNNUi1xX19FU2VnSERfaHNoeHNva1pmMkNrSENJT2VEYzh4elB5Qy1EOFBtX0FuWHpZUXJ4SjNHZ2ZLbG1qYmVhZWVRSU04RURvSUI3Y0NEZzdsUEFpcDIwaw?oc=5",
+   "published_utc": "2023-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Investor Summit Concludes With Investment Proposals Worth Rs 13 Lakh Crore",
+   "source_name": "Outlook Business",
+   "source_domain": "https://www.outlookbusiness.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNkxIaXg0ajNvU3MtaWZ6cW54UzYyaDc3Tk5NbVNFVTFyM1VGMFhCVlBzbkhQU1M0QkQxTzgzUTl5UWRTMVZ0VFd5OFY4YXdlcXNXRWdMVWxtTkJYdi1qaTFERFRuWWhjMkZsNjdCRWZQQXBqRnpPYXZMMm5SalFERGVoVTNBN0x5dHZPY1Z5dlNyU1Y0VnliYVF2aVFmSEhhbG5DdkFpUUVtWDJwVi1UZmtJS0JnTWFEdzBrSllJelptSk9uYkJXOXhES29YX1g2ZUk2dXp30gHjAUFVX3lxTFBJQXpGX0RXU3JLQm42TVBaMUFGX1d6MVYxMURiR2NSSE5sVFFwMkdoOEdsZWFZQU9sYW9wUjR6Zm1MSlVGWnFXZG9BQmNxNlgxcU9EaTdrdWxLS2tqUEp4Q1g1bnlzcFI1Ni16LWs4R2hDR0p5VHZPdGVsekpJSzVoTklWSzQ4WG1TSUgzczd0MWw3YnI1N25LOV9ra1poLVZFMldlaVliX3JpRlpOUHpJLVpNUzFiSzFmUVVYOW9fUVdINFdJdG5KZGxqMkhvczkzZFJZOUVabnR6dDFUZy0wUDNn?oc=5",
+   "published_utc": "2023-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ocior Energy to build green hydrogen, ammonia plants in Andhra Pradesh and Gujarat",
+   "source_name": "pv magazine India",
+   "source_domain": "https://www.pv-magazine-india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUmV2MHI2Z2ZCVXpYVU4wT002WkY5RzNxeVNRUGxVTWdpcWZWUE9SbDNLQ3pnU1RoZzlWREdHQndmRmdHcGZILW9Ba25Lci1jdUpmTG9zTzR0cGtXM3VUWTZFbDZ6czVSejVtM3I1WU82Um54bEFhVGZ3ekNRNzE5TzZyek1TcUhKUU52VElqQTVLWC1aTmpiZklhWnFFOXZIVTJ5WVluVVMxMUQ0OWlZQ082SVdVRXZyekN5clRFM2RjbC0zRWc?oc=5",
+   "published_utc": "2023-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to build around 3,000 temples to protect Hindu faith",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZW9qMERkMFphOG5UZWFMSXdubk5KRzE1VUJpR25wUHI4aHVtT0ZFQVNBTnRUR0JhYUNlUmJZOTEwWUFkVjRWMllvMlNwbmlOY3Y0XzlaYlRGU0ZBMVhBQkxIM05QM1pWaWRBcjh5TU50NDZtclphQ194b295RkpjcjVPdmlzcEFpWHZIY29mdUh6UzFKQzFGTkNhVzNiX2V6WVE5ZUFPN2pSU3hhRERUWFh0WjBqTFJuYm9SUklqM0t1SFdtMFhlUWNyRHBrR3h6WjE2TXpCdlBBdTZaa05fdVMxSdIB6AFBVV95cUxNRFpMbGd1T0VPWTRYam1MeXZOcGVkLVIyemdYQnhXWGhlYmQ4dzZVZzRRNndKNGZGM19WTDRpUmNkNVg3WmpjR1JTdG1zT2hLZnIzNjFsN2FBV1BZT0F6ZHZyc0RNMHBIazlLRWJZbHJ5cWVCZWVZNUFHcFdmZ2wyalNGS2VnV2UxaUFxb2xyMlFwZUdHSkNVOVE0RFdmMkU2YTVZeDZMSXFrMlVXZFpOeEdFR0cyS084ZmRlS1hXeWdsUERtM1k3cE1IQVdIellNSkR5SFFWN2VNV25sbnlibEVZZU5CM09B?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "92 firms signed MoUs with AP to invest Rs 11.87 lakh crore in GIS",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVXNaZGk0Y0E2UWgxZUV2enZGV1lxVVpjb2FyQ0cwc1NwX2pseXJUUDV0b1MxVDYzbkZSeEhSQldfUTJLZW1CVWlNRXlUZGd3dWxTVHFvc3V5RUE3QlFZNjhBTmc3UnBBU0dlRGRiYmlLcHVDNkg5TVRSSjAtdW9BZFZYUkxxX1RkMjhaZk9MM2VsZ0cyb0ZORkxadGZJdlR0bWRhMThpcWp4V3JGZllEQnF6b0o3eG1xOC1xMHFFbzAwU210UElPam8tONIB0AFBVV95cUxNLXVtazBPeWF6UHFJdzRIZHJaa1hzTzJaUWozLXhXaDZ5VTNod2ZUV01NY2NSRlJ4clFGS0ZydHJEdzB3TUcyQUZRc3h1SkVNUFhyWWJjWFZsZ3VGbTQzbjMycEdMQ2EzaDFtLTBvWnpkUnhuOFZRZ1ZHaXdSSVVIb3VuT3pUVk0wT1MtbTl2Wmg1UjM3eUFzemFscEd1eWY1YnBZWFZiZ1J6SW5QVnk2bmtPdWRfVWpYOFR0UnBEZ3hBcDhnY3Z4bWFkRXAxOXh4?oc=5",
+   "published_utc": "2023-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt to decide payment of PRC arrears on March 16",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTFDQ3JvYTFpNC1CckItcnVzd3BoMWExWlZvM1l2NnBCaWg2T2FiQ1haNDJhaHlXYzV5ckhOc0VpNXV3TTBmcWJqRzdtSjJnUDVfMWZGUVIzbUFaVTdTYVZaY0tFQmpZUW84cWRlbGZIV3UwQkdYZ25iamRraWdkLXBlOEsxWGc1NlE3VGd1QmZEM09rTFpSMFA5SkJFM0lZU3B3d2doLXdTUTI0NFNRSmxXS1I1bUNG0gG-AUFVX3lxTE5vZmlOSmVFdGxQazZwdTNVd0xCckpXVGdvNjVCQWlwOU9RMVk4elpPR3hmZlJMb056VlFEYzNtR0dTcXllcGJEb01XU1hSbGFsamJIUTU5Z1ZBRXgwakRpTWdpMUw4ODdSWi1pLUJubEF6V3FKMnpvZWNjVVF5bjRicXc4WmhLVEpCeU9aT3VuN0U3YV8wakpaMG10T01HRTNkOXhLdTFvTy1GM0ZPb0loS1ZZQVY3UXB3Ni0tSXc?oc=5",
+   "published_utc": "2023-03-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "APSSDC signs MoU for overseas placements",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZlNQeTNUdnlJUFhLVnN1VUxJLXBwZE1XamRTZTMwTVdaUlNGcnktNDhYeXpWSlNFNnZ2TElNTEhSSXZaWnF1Y2lYblJjY205RWFyTlpWM0lPNFlUX0tFMF9KMlRjYWRuNjVMSWJGLWNPT1BveXc2cHQybWxJT0k3ZFdzWE9sdFR0d1IxSlRnZTZjQnU0b1Vtcnh0d3BHWEJDNFFwbUFGTlbSAa4BQVVfeXFMUFBTdE4wdUFSU2czLVdVd0FUQUZqNzg5SmhXZ1kwb2N6T1huZHgwRDhMcElyWWpieGdVR084dHFBTW5wb1JPZnA2UE9GQV9MUm03M21nMXZENGt3NS1oMHVWcXNwMjRMNEVrMXB0SDcyVHB2bDg5YmI0MjJBbWItZWZGNkZPdmJkZTJYUGtDN3lZWU01OG9sSi16Y3pIaTEwcHVZN3MxQVF3M1dDVk5R?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "query": "\"Bihar\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Bihar Police intensifies crackdown on sale of SIM cards through illegal means",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQjFkdzBXTmZwVVR0MVFBNHF4eEhoYzJBcFhjN0VLSjJDUjI5THNyb2NNbXZ0ckRpTFlObDVRRTdCMndiTUJSNmNacldTdlAtSC1XdmVhc0VKV2swTjN0Q2Njby02cnFZeU1aaWtrWHh5VW42WGlDa3E0M25qTjdGR2R5VlRadk5ZRjB5WFIyekNDWTZyRUNhc1pXMEJTZXJKNjA4Ry1LVndsaWpfVlJUNmZ1WE5kS3NOS2k1VGpoVVFJalFTc3ZWR01EbDBhM1ZNNmFUVEcwZjhQVkNJRmg40gHkAUFVX3lxTE9ibmN2eWloM3lUR05CYUJ1cTBOWlE3NFIxVEJXV0dDN1lWOXBLLTM5bVlETm9RZ2NvdzhNaklwUGh4X01MNFZ0UW1JNGF6aWVmWGxKVC03SWkxcTd6TkR1QTVXeFE1RU9ZcWpiY0lFaDJ4ZDUzSy1yWDJVSG9mZG1VUUt1dHUzWklORGxfc054bUJMWDgtLTE1a3ZyS0g5R0FhSkotbTZjTEVHU0t6NDk1Rl9VQ0Q4TUUyYjdZQUp2YjVTOWdTSm1QQzEyLWRPYXBJNWRtTzlpM1ZaM2dLNzZJczR2aw?oc=5",
+   "published_utc": "2023-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Sends Notices To 62 Doctors 'Missing' From Work For Years",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeG9vWlo5ckd3eEVEVVV3cTd0bndzY0xXZElJMG5qN3cxTHVhZ3FVcW94NVBNekludTlzUnFOZEpVM2xPc29zTW96X0F4Rk11MUxobWdxaXRGNWZOZGMzUGZ5NlcyY0FXLVZIUjM0dHBCNGUxdUZRQy1qY0hwTjVZUHBQNjZMUFNNMXY1UE1wNDdxRzNZWndMNGtud3hHb0JmQ2hV?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Litti in Bihar to snow in Kashmir, artist shares AI-generated pics of metros in India",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2l6eEwzVGFsaV8wZjY4ck9yWVBLWVlYLXJRVk93OEJiREllOUxmUmlWaXB3MVpSajFhTF9hMDdZNGZVWC1GRzZIYk1yY1ZsRFFWQzhHSk1BbVJnNFNSaDJlemJ2WFZuTXRMdnprT0RjQ2h5ZWVMVHBPbG5PTTVvTm80NFFudVhRb3RiNnF3cTFkNWRqeFIyb3p6UmFBVC1jVFRUWGlqeEV5VUhaRVJWcllMX1hwUnBRVVJ5eWtwU1VydnhVcnpveldXeVZGbUN2alF3SUk1cVlGS2ZLQTI0b0VkONIB6AFBVV95cUxQRUxXM0pDLWJnNGI5WmlaYU02Q3pSejB2LUFZZnRlZXp5WEh3dkIzczNBbXB1UTRxRXk2ekp4ZmJxM29LM2JYQl9NU1VKTDhFOFAzSmpVUDMxVjFOeHRLakllLWZSckRZc3F5NmJHRDl5TDdtTEx0by1DcGFRM2g1djBWTWdWWWxuWWdBR25LVXVtMHIzcEpOa1BRcnY3V1ZtWVZ4MFZZY2o1MVU1RWdzek04VHIxc1paVkhlMU5WTnUtU1lSTXRfTC1rMmNhZGtfeEgydmMzRFhwTFBiQlJaWVlmT3VPR2ZQ?oc=5",
+   "published_utc": "2023-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Bihar Headmistress Thrashed By Teachers In School As Students Watch",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUpCXzRubzNaT1Q2TFo5WlJuVlJEdlJzdDZPSGZtYWZRVlNyeGlrME1XYU1QemdEbGZPYmVfSjhJVG91TFd6V1BJQTlEVHEzVUtHc25nV0M3UlU2anY5RTVtUjlkVlRXVVA1OEhVSlhpZ1hlSTZfT19vQTJ0UUZ1ZGx3MHVMMTV2cXAwLXRGdnJIVTlrSnQ0QWFiZ1RYcTJYZTN4cUpGZ2J6dHNHdE95VTlnONIBuwFBVV95cUxQUHgwTC00d3JwY0lwS2FlNDhKRTQ1MjBiYmprcDZhbVFpcmJEdmFEQTFlc2dhaXRxa3Nvdks0SW1iM2JBci0xVHpYOFlqTDVLQ0t6RXhWQ3ZhN3BHeVN1WWxQdjV5czh1MUhnX09Bd3BIUUpkMENMWVZxWmZCeVlPSUhZcEdiZFZvdW5jeDg4SGEyOWZYUUtoNy1GY1lDdUZ0dGNyRjJtVVZMMElCNURaVHpiX0RBSnEwSG9n?oc=5",
+   "published_utc": "2023-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

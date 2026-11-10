@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "Ministers launch free sand policy for Andhra Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDgtMXQxb1F6dE5oMGFRUnJvaTJpNG9UV1JCbUsxd1dsOGNQaHlQLXhqWUtfMkFQcy1TN1FKdXh2QTkzSGVKWHJSMXpyOFI0SDkxZmlETWJsVjJzdm5CS0I2T3AxOU82M0FGdHJJX3ZjbUM4YmpRdng2ZUp6QzBTLTZNdDV5UFgzVHc3WVl0Q3Z5YVEzc2J4S0ZQN0pCbkxrVnNTcnJibzUydnRVMDBuRjJuTmdNN3dNZENNanlHMUbSAcYBQVVfeXFMUEdsTng5OUpLd1R3UUhqNDcwRlE2RnRsQ0RoMFNqX0JGaU9SZTVpNTRVZUJ6aGJLc2M3aUtfMHNDal9KVTk5NDZ5U1BYVWh1TE1sMkExZWczbHNMV29sT29mcHB3VFFGOGo2NVN6OTEwTHhCWWhHS0F1cHd2VzAtNU9kSHdyUV9UUjZmVGRrQlUtUVJmREsyVUdKUGlITDNTdl92SVdUVzBjR1YyN3FRUFYxN0U0U0p2RXhoakhkeTZTTEhnRkx3?oc=5",
+   "published_utc": "2024-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The AI Revolution: Andhra Pradesh's Path to Becoming a Tech Powerhouse",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmh6M2VsLXdQLUVGN2ZxNUxLR0VJU1F5UlRjakZ5djF1TUJjTUpNaTEwTXFJZEJEMGdOb2hKVDNlTDB6bHF0WHg5dV91TW94X2JBeEZYUTVQRnNMR0owa3dzVWJSOEloa3ZXclI4emN4WUVPWVdaczR6MDJUT3JiNlZ4bXhncHFpOXI1SndpT041NXk3ZDlwYWo4cEVodGV0NEp3TlN3M092cTgxcGdwUXA3a3ZQQ3PSAbwBQVVfeXFMTmVLRFlsTUpzT3RQdzRVeXlBckZ5UEZVYk9OTnRLWFE4QUtYeVJKcXFabFFCVFdRRkNqaW91cjdQQ2ZfRWJWV29IX0d3d003MXAxNWY3MWJ4d0c3Ny00N2VFbHdLdjBFMC0zM2llNkItZm5BUVhDRV9Yb20xMjRNbU5aMEh3TGxYbGdDdE01dUM3SG5NWFVKbHlkam00R25OV0tqVTAta1NYZWlxV3hwWFJoRHBkVFA3bnN2c2I?oc=5",
+   "published_utc": "2024-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh, Bihar package likely to cost Rs 20-30K crore to Centre",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR2pIeFpXa3BLVjVlckIyeUpaVUNVZHNNTWxnSGxWMkpXN21ST1psUmJBQk5kMzVOTXFJUjN4R25LUWRSZzNPckt0anlaX1FncklkRC15Q2c0ZEVhZFdOdVJQUW1TVzdTQ2w2LVg2eEtJai1ZUnhhblF3M1FjMFhFQS0tTkt1Zy14UUNIWjIwZHZWam1ldUtyQlFFMlNCZTE1RzN2R1g5UUxuNlBabUxRMGNiVy1vWFdHbDdZQUNPUTlMLVIwZ0ZPa2E0ejh0aVRqY0xNcNIB2gFBVV95cUxPYU5kZXVBNDdRSFVhOExvNmtEZV8wTzJOZFhuNy1yWUMwWUV0Mk1uZHJLUms2TV92b0c1MEVOUkpkVU5rdjh6YkJSN00wUUk1T1VGUWxTNWRXZ2RydEJBcDYza1lDcHZ6YUFFZldRcmxTVHJsQnVOaWpkMHJETFFIdm1UNGFKX3l0N2YxbzZYNDNvY2t5anQyLWUwV2FPS2NXbzlIbmdpeGJPYUVaZm1WNGpkeWZWaEFFOEV1QU9jcjI0Yjg5V1VSaWNvZGUySFp4ZVd3YWtJbnVDdw?oc=5",
+   "published_utc": "2024-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UniResearch - Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWJ3VDFteE1fZDNQSFRQcXZZOWVNdUFaWk1TOEhObWlqR3FBZE5iQkVDZWxvMzFfODFYNG1YRTFDeEJfME8wNnlwbFJFM1lsT0ktQnpQY2FiS21HTTlWQmpJNGtpSDBSVE9TSTF5cGZaTG5DUU1aaTEydnA2T3RGWW8zcHZtUGVkdmp0cGlPeDFZVTNXdVRZWGZvcw?oc=5",
+   "published_utc": "2024-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra, Andhra Pradesh CMs discuss cooperation for progress of states",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMFIwZTdBQjFZNE52REtOQVZCNEV3RFVaclF0NXVMb0k4bnhoRkV1MUVmanJiQnNadDFOcm5ISHJOU3IxNW5zSzVYMzJiTEJNVzlkbHVoM0NfZGNPV2tnWHAwYTlQSmtqOUF1VXJ6bEtlTXVzNm4taUZXX0ktNGZsMmRCS002U2JheHI5WW45c2tLODkzNzRnTDRqVmphVmU3bUFMWFFKNExPMG9FVXgxQmRiYWV1V0tDOVp2Qkhham5maURIQVBmdUxZaDgzaEZ4M2JnVXMxZmJhMkpOZzVfcWstdWRYbjNoN1V3SFBxS2zSAesBQVVfeXFMUDdnb05KUmNZY2RpTDQ0blJhejNfSlo3OGQ1MldKa2tnSlhRTkpnSmhRTDZiZEJxay0wVU9RUEhlYl9tWWdYbW5VS09pVGxqQlRwU3ByRlBVeW0yYkJKdEl1dTNvMW9zZjc0dDAyZzBReGp1NlBOTWlHRTZub3JxSTF3TXQzU2ZHeFc3c2c4OHdkOUlJdnNONDFUVG9Ydk9xS3ZwbVJMUW5Oa1p4VEE1QlJuUFJITFRvckc0NENmUWVUNjl5NEdadGp5bVNzT2V5SGRPalZVa3ZKWU5XNktoQWgyNlR5S2Z3dmdSMA?oc=5",
+   "published_utc": "2024-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra government invites tenders to build Unity Mall in Vizag",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM090QllZZ2RaY19YUTBSbUtHMDdWeUQ0OTBJSGtsMXg0TkhGQzExbmxGc2xvd3JGck9vbEo4bEJudHRyOEY3b1JObTY1M2hKT3piYi1mMWNNOFZ6N2lSV1NtMWU1N0hiQ0x1cjZ2c1V4WG5QYVdZdkZMc01pWWlkMWhsZUxFcWJPWHVMVFFpX1ZHUC0wbUZBYS12MlJ0WmNmWm1pV0JzZWtMemlNRVM4M0I4bV9DTWZCdmY5d3ByQnFfeFFDV3ZONU5VZ3TSAdoBQVVfeXFMTkdEOW1UYzJmdnRWZElTb1hsbEZVT0k0VzN4QWRxME9oZk40QmlYSWhGY2VTd1h1c2xESEVyYUJsNGpKdFhfX05RZUNXUVZJWnJsMUNwRFZFc3R4bnItbE1mb3NIUlZ1R2ZUUDlRSDd2R0pzc0g0cFBpUzhQQTVJall5TnRIUGE4WVRudVlTcXJMSThfWUxkWC1iZC1EWmVuVjdsSlNMS2JZNzFVd1FHZlBWbVl6aVdyMkpfdEVpMkloM241RUlsZFNFd3Z2ckFseXJFbnFZaTd0aXc?oc=5",
+   "published_utc": "2024-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Special allocations made to Andhra Pradesh in Union Budget after five years: TDP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS21pVUNvN0ctOHMwLWhrZXB2MFAxbFV3R3dsdTFUQ1YxWEZJd1NuVGFnMlZTTXduc1hwaW1IanpoVEFsMWllTWRpMk14MzFrVkU4d0pHVDFZbDBHOHZyYXpxYVVWMEkwUWIxa3VDMnhmVll0STRBbXRhMlhVaUczOFQzXzdXTWpTbWJ1VkVSaE83RllFWVYtUWUwUzN0NXhnMHZOeE9EMDc2aWwzRVVvZS0xaHI0aUxqOTZ5ZHlFd2dpU2FLNHRqRUMzWndLSDF4Ukh1YjBWaFg3Vl9zU1FRRDVyT0XSAeoBQVVfeXFMUG9WVVFyMVBNM0N2QUp3SWlrQVpKeHlKczdkcTQ4bXMyRzZkSTVEbV9TeEZoSUFsMHQ5WV9MRGxGRDlUVFZzYTZKOXJZcDRuNkpYUFVJT3FEVVhVT25Hd3Zkcm5IRFJjUlJnSVB1TnZyRjdXTVRtX2drTjUwRlNwSTB0Z1hCMTdQVWtLOVZ4VmM5Z2dOUVM0eUJPbEhoOHVPMW9vVjZDbko0TXlCakliN1VvOEV0WEd1cFBuX1Y3dE1Ldy1WQzhpU3IzeXZpRnFxMm10MHZzMVNRc2lzN2VqOUh2djJXbWduNmF3?oc=5",
+   "published_utc": "2024-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Amaravati Capital’s Halted Construction Works to Restart",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM2lvTVhpcE5leWFMekZmQmlaU2loLW0wTHlFUmhMMFY0S1VqOGZ1Qkwta1pKVEVDMkF5TGtOTWJjRlpITUFFQUdOZ0lRQWR6OTBTUXRQRWJfLUo2LWdDalQ0SWlfQi1aWGFReF9tQjc5c25HQjUxaWlScmlqeG1DeG16eVp6dGw1MmV1ZFBCY2JELUpILVFrbGdiRHhlcW5YRGNqZDNHWi1fYi00QlNJc2ZLYzdCcGY4S2ZjTWNiMTUtTmlOZHhOMHQyQ1FJOER1VUlxSGxiT0PSAd4BQVVfeXFMTVRvLUY2VGlqb2hwOC1MeVRjdVdMeVlieXBnWEZLU1pXNzJZNXJMdUpMSkMtYVpVSWo4ZmNvRmtudDR1bUo0WUZ1WF9uTzdXVVU1b3JXSWx3NkZ3a2VET1NhOWxMTllqTEJUOEQ3ZXY3aWxYME1MUmZxSk02WEMwdVZUV3FUd3NVLW1PdGNFczRZS3V5MWRna1gtWVFqbV81OXMxOTZMVnBkam5TdmpSM3RzXzNxUE9BNy1pR090VEc4MjlHTmpNU1ZGZDlfazg1eUR1WjhlVGp1eWo3N3dn?oc=5",
+   "published_utc": "2024-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "FM Announces Rs 15,000 Crore for Amaravati capital development",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGtVTjl5UV9yeFhBZmwxd0taNTFaZ2R6QWRBaTh4dG1PcTF0b0ZMS3B3X19oeWI5dkhQR3ZxNlpjcUZadEItSmNCQUMtcTFTb2VpWmNJaFJIb1RIdEZoZXZ2UDRHdld6MjdDMC1YRGlacE5pejdScnJtallMS3BQUmlQdDFuQ3BaX3JzeVlZNk9ZdW1mUjZRRl9FUVZIQ0xUYjRrVFJrZzNwWWVkRGdXTWhfQXVZOVhCMThzMy1WUWp5dWM5b0lYZkxVaEbSAdIBQVVfeXFMUC1sUDQ2VHVHY2NCcFR0ZjZtU3JyMHdiSm9CTXFieXllZENzSjBhN0hPbGladWkwQlRYLW5yaktCNmE0di0yRzdfZkdwOE9Wbk1yYUpSNmQweWRlSHFBb3p2dGZuMGNhVFhtbVBzNFpoY0FqNHVSRHU2VmFLSnpyTjdKVHBLUURQbE54STZvMEhpZzYyU3hqNzdYZkVBS1N5c1l3dUVONVY2Z1RWTWVKVW11ZHZuY0dyTG9sNVoxR1FreGx4eTFJTUdXemRyZzdHZlR3?oc=5",
+   "published_utc": "2024-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP to Construct 7,213 km of Roads with Rs.4,976 crore: Dy. CM Pawan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFJoUjNEYk5FQkFZSEhFZVFLbl9vZXdEVWVPQmRhajRtbkFTdlJQQ0ZPb3NhTlkwUnA2MkRIWUY0V0JpN3hwcmFRT1FPWUExdXdSeXdtWGpIWkVxa3pkOEhlaVdoazJvejFicEJlR3VEY1VIaWVtSV9tLTk5WFdlUUZrZ0I2aHRnNTF6N0xNN1JNb3NUUE5idk5GTzJIRDdxOE1ZN2lfWVpRb1lJV1RWclJtd1VzckRlWlHSAb8BQVVfeXFMTWpzb2NPbnRSSDY4LThmdlA3UGFCM3F2QTlLTDdybTVoWEdSUXR4Z2lHTjRLMHpTRXBZTjZ1aXlmODVnUGFRb3RhbDhiUXNZM2tKS1BvQlNFMl9Ody15UjFIR3BwLTctTGMxd0ZvWktXYTAyMlpzWnhtR0pPRVFRaHZCMlZtV1FOV2VpNlMwVDFibXIxd0tOMWxFd1p6ZU1KMHo4ZVg3cWlMQWttd3Z6dTN1ZEI4OVJ3N0Q4VkhKTHM?oc=5",
+   "published_utc": "2024-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

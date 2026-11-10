@@ -1,0 +1,21 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh makes one year bond service mandatory, Rs 40 lakh penalty for PG medicos, Rs 50 lakh for...",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV3ZtS3BfaHRLSE9MZlkyY0g2UHlSZXhTdWgtUk5sQzhyRzlSVFRNcXJtX19UbFFnTzg0SGtNWm55SUhna1dfOXNtSE9qd0VJRTVsZmM2bUVTX0lDMEhVVDVCTVlyc3RjcGpKb2ZKMlppakJTbkMwZFMwRXZoZEFjbEhzZW5WX1lYMngwajZ2MkRQSFFsR0hHZm1aUV9tY2FRUHFVWkZVM2pPWXVnMFVoLVJVVjVnX0Z4UFRPX3ZTbXE0WS1rbFR4N2hVZVJ2aDRVQ3NaRXZTU2xselRWOHk2bE9zSUJWSllnY1l0bkZ3aXbSAfYBQVVfeXFMTWlxVWxHb2F0NE9GbUVjNWhWcWxiTm04MkZFZVVDNWwzVGJfeEVHTnNxYlA1YVpDS3E2SGdyRnMzUkJhQUlKaV8waVp1VllyZzJtMUtmemMxdWVKX081RmpfNlhqUUdrcjNleXh3aTR5TDFrbHZGTW1Dd2JvSTlxWTBEalZaM3NUUUlHOGJ2VHk4WlJnRWw4eFUtZWMwMXJsWHF1VnVEekxCcHpDWVd6Y3J1dGNRT2E2T1dURW1HTHk5Q2J2SUhqcmJCVnNUX1VuQVhRY1VJQWJCOEtFa2dGM0F3d2ZJbC1QTjJJbFJxMTgzVEhwQlNB?oc=5",
+   "published_utc": "2022-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Africans love to study in Vizag: Togo Minister Wateba",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWVIU0F3cDM2Y25rSERWT1lvVENWRklmeHRmTndKSmdoZzhkZTQ4Tm9SeUdCM2dvM29BQmhDc0ExcDBlMVJMaVlpWVBSM2wxOUtKcnFEdkxtVko2MUlMUllGTGhjSGdtbkJ5cEhBMURWZzlmSUpmbGtCdHZMbW5HSHBFU201c3RfU2FFaHB5Rk0yTENqZndiMVRvSkdyVHNZNGE4WmdTdEdGSGV5Rm1aUtIBtgFBVV95cUxPQ3N1VHJTTF9TNUFWdVBMSFowWVFJS2RzdlBUZ2M4ZDAycnpxVTh2d3FZZHltN2tuT3NfM3pxOE5takdFZENQd3QtdC15aE4tTk1yUk9rWWRSeGRaN01sLUtEcm1ILUNfeVpyUjZZWVFqS210eVVnbjI5SjlTMW5SWVhZdXBjcWFpdzFTSmVVd2VnaUY2NXdGbGpFcFlvV0lYRG50VDZ3UHB2Z0JqTFZ5ODBnZlkwZw?oc=5",
+   "published_utc": "2022-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

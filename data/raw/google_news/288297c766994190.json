@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Karnataka Cabinet approves startup policy, aims to establish 25k startups by 2027",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmdEdVhtOGxiSGlsdm40ZlhtMFRJTHYyWmtkNEY5Um1SeXZRT2oza0Q2ZXZ3WDVvRWNnY3BqcFpYTkpzR2NEU2U2MDVGWXptenExMFFHbjJ4MzRDRm9xcU9pNnhsNk41NVhRamdRYm9wWEU4SWFYZmxaS2x0TVZfS3ZNaWUwUF9NckgyVmhKU3RZZWJLSmJYa20zdXFCMUJQNWoyb1h4X196NFhkYXVESjEzeFVuaWY4SmZVdzFR0gHLAUFVX3lxTE4tQ0xFSWpucGJfU3BxNkd1d1FXRlBMMWtKY0ZQb3l4V2QwTXV4WUp4UkRUZEVjbG9YLVZTZDFwWHRFNmxoSGVDTDRXVGRwaTRWV0t1bWdQQkgyczhqVHVMZWE1WjVTSWpKVEpqUGVQUXpuUDQ0dUVPbDlidm9vekVlWFBmZElVcjduLXVpdTlJR2N3MFI0QVk1dXJYTGVWMEhOWXJRTWFMLXBkb1hGVml6ejNHWTdNZGlrSmZtSmNya2o3MnRmLVl1NFhF?oc=5",
+   "published_utc": "2022-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No Plan For Separate Colleges For Muslim Girls: Karnataka Chief Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkkwcFZiWmkxYzdUR3phN1cxT3pjNGtEQkpVRENLVXFsRUw4aGhHNW5qQzlNcEtpSDlmZ1BFMFdPUlJHeWNuUnByenNtY24tNVZhbXFiZXl6SlBaTFVrRjEydEJEX3RYUlJxWkd4LUtqSllLM0VObnBURlRnNVUtNjVCUVRDUjFrMDFkbFc4MmRuRXZrR2tUUVlOSXpnZGNWQmZXRW1pLVlUM0oxUGhB0gG3AUFVX3lxTE1idklOcDR0MkFnVFZsUFA3a243eURxOXZ4VEZTQTN3V2RubzFYY3BRMTVRRWp0UUYwV1B1ZGZHSXFWdHZMNUktU3NJQXNZcWM5V1BTVWVCQTZKVlY3T3BURUl0WW1VcUIzOEpPNWpDOHkyRmREVXpVLVRBRWFOT0ZnUFN2N2Nhb01QNVBBT2ViVUJGNk5TM0lxQ0RYdU96akgzbGVzeDNYZTdDa0t6TS1yWGJtUHZVZw?oc=5",
+   "published_utc": "2022-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amit Shah to visit poll bound Karnataka on December 30-31",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1ZLRHFORk9BNlpRNU5xVFpCT05PS2pPdkJMWnRZQkNwbkdyTzk5NlFKazhDbWNMRXllV0piN0dnNFlfOV9KVTFhSndJcWl4V1dmNXNyRkxYSzlNUmRuTDNXX3VUN3F0SURBYXJmdnhOYUVIN2RVcXRHeDlKVzJsbXR3aFBLSXZfdzZGZjZta1c0aFp5aXh2dWMtX1ZuQ3pDX2NoVHM5RWJGQlIzQmtlUEZB0gG3AUFVX3lxTE9nUThUZFQ1TmkzU2lxYjU2elB1YzFjMGR2enREaVQ1VThKNmNGQ0dER1hJbXNHRWY0UDlVbkJUeFhrMVgyVEc0WHp3M0F0ZjhqTE4tM2pGY1JVUmxJWEtqNWNmTXdKa0JkeThrb2V2aGNQXzRTOGxlRHdVN1h5YlotdFFNRWYzeHhyanhrMXg3TWdtX0dpam9BMkNXbFA4MGdkaUhNSHp6aTk0b1FZWG5TQjd5UHZ3Zw?oc=5",
+   "published_utc": "2022-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Government Moves To Reclassify Vokkaligas And Lingayats, To Increase Their Share Of Reservation",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmxWQ1FpWkFMaFdMWmdwa3ZBSjBPOTd0alRUNUFwU1RQUm9Xb2FXUW9lX3VyQXhtcGVDd3QxZkg5QnNZaFd2SnV5M1RoVTYzQzNZaEFsV0tpQ0JEUWFxY19WRmlsUGtueHNPeWdwZVdIWTU0Wk1yNG8xc3JUanVoU3hNOFR2elpzRkU1V19ocXJOb0dHekUweFZPbE12R0c1ajhrQU9ZcTFqTzRQT1pmYkxUQTVsSTZGNEFIRVFINnlHSlBJNVBqa2ZySnNDeTB0X1Z5b2pB0gHmAUFVX3lxTE1wN05yVFVuOUF5MnZGcXNmdXNTRXZMU29vcDFEUXl0RkI3SzlJMUlQZWlvZVFjRG83R2EzQXhubnRwZlZwN0RydXVLYkU3eEhEdHdyYmJKeDdRdmphZ3JsTXBJcFp3cHp3dkhUSUVpZXNvc3h3N0N4ZnBuQ1o5ekhIaGN1bjRycjRlNlpFSmZaWGF1U0pKT3FZNGZURnVWXzhMelVZRWhOak5fSmVRaUpTTW5WNXhzeWp6WW9MZWg2YlVwTmw1TEFoYjZ4Sk02c1VwUXk2dnhxM0F2RmRkNnpHeGZZY2FR?oc=5",
+   "published_utc": "2022-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Have PhD in cheating': Karnataka minister tells students how he passed Class 10 exams",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUkozY3NtczVsd09URUhaaWJza25RNkpGSzh4MDE2V1owbTJZbW5JVkc4RVVTZUlWbklRaVYxdmwxYkNYeFA3OHR0VzBsaXdzcFl4SUpPbGN6aUlMVjh3WUd0ZmNqd0M5TkxFc3VlMlZ2eHpfbEJuM1kzT0M5bDNaQkZMUXhDNXBYMGJYV09aekdURE1pM3R6NWJQWWRNeEZIYTNtUWtCZFlsN3h2R3FEMGVGLUtIOGlWZFI4dnFzQmlDN2ZYUTVOa0tjc2llZTR2UHB0TzMyS3Y5akRkLUHSAeMBQVVfeXFMTUM4dUY0RDdYOGdJclF2eDRtajRHdGJZQ3Jvakg2SlR2M29kZzV4N1ZYay04VmNvRm5UTGRWSU0xaXlUTXVKc3RNSTNkRW8xVWc3RnZNQUNhWlRYZ0NrYUZQemRrTU5HcWduRXdRTURXVldUMm04amY2bTd1czhFTlQ0R0Rub2ticjc1U1JUaWVPc2hhc2tXV29aanY2Zk1XQTlkOVFiazN1aGRSYWw5Mmo3SkFJSGtGaXdjN1YwOWE2dnlmcVdOQW1OMGVtSlh3ZzdraTNRdXljYmFuRjZ4dGVGdk0?oc=5",
+   "published_utc": "2022-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress demands Karnataka govt to handover probes into co-operative bank scams to CBI",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVFR3dlZXbzFvVjBORTQzczlpNFlCZkxGYzhFbDg3MWhHeE5MbmMxQ2xHM0stNlMxQk1DVU9PNkRSWGhxb1dxeTNqbUh3R2VVMVFtd0hOY0s3bTBuOFhHY2VDUXZJWDR0WlVmdzJzcHNEeVBmYzhUSDczNzllUWZhT0FvXzBoWTF1MmVsOTZibGY0NE5iQ0duNGRpRmEwbldWOFlvbHNBX3NCM0NSVDN4MDZZY29ScjBTQXl0d0o3TVlaaTlxejdXcUxEMU5BR21peUZ5RlFXM1ZicXPSAeIBQVVfeXFMT21tSFd2M1RuTURDSDdLLW1RN1dleC04ZlpiNkpTQy1tVWp1RjI3UE5BTG9TVEhCSUxYbl84OVRWRDJ0dVI4QVJkRmZ5bDVPbFY0bzB2WG1XNkZ4Szc5SE5RV19jRTZvRlFQTDcxMThvMndsODBIRHVOR1VEdlJ5dU93djBVZndTN1ZkUDlPMkpkQ1BndXRJV1ZWRUFCQWdIcXNZUnhMZGNjZVozM2tBWHBxMHh0cDFTWklueWhmRk1aUWRhdUpLMnNINVZCQThsQmJCTTFIWngxbnRpWG51VVNmdw?oc=5",
+   "published_utc": "2022-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "On \"Mumbai Belongs To Karnataka\" Claim, Devendra Fadnavis's Stinging Reply",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEc3aVd4U25QMGdTbFFFQm1MUktOTHVoX1hSWTExLUxBRUExbjZhME5Va1owaGJwOEs4Q3hBZkQ5TkY2ZFQ4bzRoWk55QjhsbktYRXZaM2t3TUNPUXl5TmlTMzVrYlQ5MkVBQWpYMEZPMHJINms0VFdOd3NVYUxvWHAtLWl3S2RFVmgzYTFDeEtXeTczTERKdURUS2tWckVQaDF2M1VqOU1xRGxNa21N0gG3AUFVX3lxTE5rd0k1YkY4b3Y2Vi1YcWdoSHY3dHU2aXJ5V1ZYZk5jNmRvN2Vtd2UxNFRsYXpmYVltd2hDQjhBTWc0Si0wLWJlVS1DNkxoampZY1R1YjVvUkJFLVdaQUFQZlFGd1d1Q0NtX0h5VHU2N2JfQUtSOUY4bGVEc2diekRTVDVUWnBCTENWOG5POXdzLTJXNGh2cktJcFFVbm1xam4yQVlBaHp3TXpaMkJ3VURubDU4cHIxZw?oc=5",
+   "published_utc": "2022-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Not Belagavi, announce Mumbai as UT: Karnataka Law Minister reacts to Uddhav Thackeray’s demand",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3czOUEzUHdTRmRLb1VMOGtTR1lHcTdMMXd1Nm9ZRE0tblNQOGw2S1JkS3RhTmR2UDcyWEV1Y1pDaWJ1Yk9tRl9SaXl6eHVVaFlLQVJjRVFURzdKRUU4eVpmc3V6WDVkbFp3WWdleXlFNzltQ1l6cFJRZ0JYOFFBT0x0YnhxUGo1YmlxaFhJWGpobWRrTUxtdGVnZS1zZDJ4U3FMM3lvNHhvYlVBb21CNXVLekg3RkhHUFFR0gHCAUFVX3lxTE9FUmNQZXZRYURZR0kwaUlvTjF6ZTE3TG5PSE9OcGg2NWhtdEV5dGVJWFlvVFlKRnpUejhocU9sNHM5UXhTcWt0TDBzb3VTTUpfRFhJaXowZDZnakp1aU1fYVpMUi1URkYxakhTM2Z5T1hSYWdURHhFNWtnOEpQMTlhb1ZzVDhzYXV5MGowUkQ3a2tEM0psM09CSXg2LXlkOE1nSzRVZ3dBMENUa0dOWFU1REkzTHpVNWxFWkhsWGdKTHNn?oc=5",
+   "published_utc": "2022-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "K-'taka Health Minister slams Oppn for giving political angle to COVID advisory",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGlRbTloVzZSYWVTYWhWdmNBM3NaX2d6Y1hZQkpiVkktYWVESFJLblVKN2o3bEdFdVZhQkRuY0dNem54ZlN4NkYwdEJKWkl6SkJWU2VJU2RMY2xwYWRqY09EQnNlRTdnQzk5azNJdWxDcGptYkZVUnNPQjhRUzNrLURJNWJqY1d1TURIaUc4cGg3cWQtenFaNUVRNG9ITndGaHh0d1ZUQXB2UmwtVzlvZmN1MzFPYVVhR3poeXRHNGdpNWZkNk9KQlF3S2U5d9IB0wFBVV95cUxQWTM1TjBvNVJEZ25hNWNSdWNRZHhTY19fWEhnZ181Qmk0LUQ1c3J0WUlndjZCQjV6aGVVdDJWMGVqeUhrUjg4ZXRnc1ozZVJEX015TkRPSElnRkoydkxETnpGb0loV3hjMm5mOXJWcno4a29uYmJER2pvTHF0S1VRMzNYWnYzMDNiMkhCakZ3cnc5S0daX1EwSkN6amR2NlBYb2tua3hDbEk2WGtoandlS01qSHVVZzlBM0JqZGxBYzNvanhGSHo4U21SVThvRk0zeWtJ?oc=5",
+   "published_utc": "2022-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No govt official to be directly connected with election: Poll panel's guidelines for 2023 Karnataka election",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHpVcmQ0Wm1PX09yaEJobVMzYVoxTmhXYUxaOUJGcVVFc2hvSDhhYkhtZENBTUpYSFp5Y09uc25nanoxV3ktbnY0VXJKQXlwbUxxMlpQU2RobHFPNDZ5ZXhhMzFqM2hlRVRDR09teVN6M2hObE9QXzI2c2tEODZpSnJWWE1EQm45dFhVSFVneVJlZldsaDR4N1Bxa0VDNEdDbXhoTEhFeEhYWk9icVFnZWpzd2toZXBaOEVYWFFhcy04NDEzS3l6ZNIBzgFBVV95cUxNbVFRVWg4ZEUzZmpHV3V3OHp2bWtkWS1ySGVFbmxrNjdWTlVWYnhTV1JRWGdadzY0MkdhUFRscS1GbUZzdjhGSmNjbzZHMUpXdVhGenltSVlKR3NNdXAwUUNZOVZCVVhBbGQwX0s2R1BHYXNsaW9ZeGN6VkF1Z09URDRjaXhLMWFVMGYxcXpQLXB0SUpJLVBDN0dkYkhjdDJEc1JRdDlCeHd0R2VpaGg2STNFbVYzZHFBRUQ2Q2lDY3RsZFozODVFdjhEUzRWQQ?oc=5",
+   "published_utc": "2022-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

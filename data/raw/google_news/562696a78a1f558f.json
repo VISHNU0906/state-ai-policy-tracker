@@ -1,0 +1,29 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Telangana: Intermediate vocational may have courses in AI, ML",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSm1wYUtuNXAwb0wyeUo5Q0g4NjlOdEdFNXpGVUJRQi1oQk9LeGphYWpCYlczYkRmOTRJOVRiRV9uMEk3QVo1M09uUEpuX2dhZnhqQmd3d3NYaFc2c0czUjBtODB6SUIwWmNzWWVxWkpYdGlCblhUNkJUX1ZGTGNXSHFYUnJZemZfZmRLa3R2MA?oc=5",
+   "published_utc": "2022-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With over 3.1 million users, Telangana police’s Hawk Eye app earns praise",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVkllTkJCMUE1dmVtWjhGb2xOMHlRWmttcnZBUjlwVzRPV2RzNEthSWxPc1JWc1B1eDB5aEZqVWZENmVPWVF1RjZ2UzBONjE1eVJsclRpQ3diU29Celo4cGNrMTdqeUJ2MUVMV2xpUHhndUFqRGZrM1ZTZklkREpPUTNEVVdjVWU3UmtrYm9hNmkzLW9JWWNFbDVtZXBHN3V5ZFpnbXY0X0F5VXVlSkpvUlVlVlgtV01BUHNRNTR4a0JOS3JRbFRhTlItbE5tYUt1RmwzV2ZuMUZsNWRUU0HSAesBQVVfeXFMUFdPMmJZb2NGTm93bHV0WFN6dlZzNU9uVWEyakh6eHZ4a0VESFNsUmVrSHNTeWRlMTlVVFRaUXFRTFJUSFc0cnNldl9naFBBc3J3WXVTU0VTNy1Mbk04aVFJT3BaZWM0RkZBODlGWkk5d0pISzBoX1B2NkF5WlVtMUhzUjBzRnI0SDN3eEkyanNKNUN1ajgwdzdzY2M0dzdTQjZpclV6LU9BOUYtWjVESFJyZEZtZkt6bFMyLVdSUkVncVVxMUNaT3p4Xy03TVlsSmdJck5kNklZZTV1VXF4U2dNRGo1SUgyZTRVYw?oc=5",
+   "published_utc": "2022-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Using AI to predict heart episodes",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcUJhSmFsZ1hPU2VvZUNHTEpJRGVRaXUtLWpWYS1XMUE3cHphQTZNQW1FNDdETGd3ckRRcFZGNFZEVWd2eXY1WUVHQU1tT3Y0Y2ZaV1VtdXM5Q3FCMXlIVDY0NW5BbFNwZHF0THFR?oc=5",
+   "published_utc": "2022-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

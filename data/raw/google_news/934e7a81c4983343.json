@@ -1,0 +1,53 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Tamil Nadu: VOC Port To Collaborate With IIT Madras To Create AI And Machine Learning-Based Functions To Improve Efficiency",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRUllQ29GQXN0cWFuN202T1BvS1c0OWZhaU0wVWNVODVwX3lMb3BYMEY2bDJ0VTk5TjVUeTFURDBIUURRemVKS0czQUZTOEZOV3p2WEJGS084MWxYSXB2VFNNUlI0SVItOTlwdlFBTjhSeU5MckkzLWZuLVNDMXl4eWZaOW5Qd0lmMmZDOHdDaXpSQWRtZXFYbkFfSkpUbFpwRllIaDY2MmtCOXVYWnFMU1l3NVNFRmdXQzZlcGFlSEUyVG41NzdTcnUzLUVMY09aZGZjWFhFSDZIMEhYT213cWNSU0MzZnlteDUtVUtraEtGQ3fSAYMCQVVfeXFMTWYzalN2em85MFhseEptT3I5dVhpc3VDTXNsZm9nLUF6UjFyMXNzaXBONTVOWHdUZGNGQzd4N1poTFFiSUZQY2dnZHlkSS1CMEJiVm5EM3J0WVVOSXo4bG1xQVp6NHNteXVIdkJOUm91TmNLNGtvck1YeVp2YjVzaE1oUjlmSm1FYk9IV2tXT2JIVFRnTWgyWHZHa2c2OEczcDNFOFNHZVRtbGhUQUJRVVFEdFFoTGlicDE1bG1ma3U2NkNmYWRYU3hFY05welpFcUpfSjdDbi1pek92eFJwS3BYMTZyTnFobnZ6aml5aHphdklHVjBTQXpCQ3JxaTNBZWduaw?oc=5",
+   "published_utc": "2022-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN forest dept to use AI surveillance to prevent elephant deaths in train accidents",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFMtSEh4c3Q5aG5JaFhNNTZBQm9Hd1dkd01INl93MFRLV0hGSmNvcjVjOGt6RU93cWE2OE1OeFdmZmtLYnM1SzNkblhqVUNKU2lhcDFPNFR1WEg2VlBBZU1oUnI2TjNZZGtQWnVqcGxqWkhoREp5bmVPYXMzLWNrN0UwZk41VkdFUHJTYVE4ZFpqV2lUOVdaazYyOGlwdTFKMlRBREl4RUJTbUcwZm5leFNWZXdvdjB0aGZGQ0FlWdIBzAFBVV95cUxQYkxkLTlJMUhmdEl0bGtXOUNqOVZLMmVaSHRJREN3S3BGSVlqakMyQk54bkx3cUVLWm5ETy12NF9rZ18zblNWaFlCTWxTUVlITks5QlBId0tieXE4TFMxejJzOVFJSzZkc1ZYRVJnYXRuUVNyOS1XX2YwZm9YSFVGaTU0S2dTaHM5LVlNeHFnSE4yZzdXc2pLVFU0Q2NrbGdBTFZOUmYtZjdqS0Z5d2x4TzVjeTJOTXd3d3lKbVBOVV9tWUQzakFmM1NGT24?oc=5",
+   "published_utc": "2022-08-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chola period, Tamil Nadu: Goddess Parvati Idol Worth Rs 1.6 Crore Found In New York After 50 years",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHBrWVJPd1JDRlZYTFE4RmJ3dHFSZjJIZ3VVcW5HZDZjX0hBTWx1ZDZXbHItZ3J3YnB2X3kwLVZNWllTX1hHYTEzRmNZYmtsR0ozdWRkcWZHSWMxUU84TnpOY0Y4WUd6c0NmU1lrbXFPYVI5TUJRdV93SEhmNHp4NlA5U01aa2doTnlBSjE3S2pBUmdBc0UxVjZHRDcwWUR4Mi1lSl9lOC1zNGlRS3RuLXJLUUt0WkpzcmsyM05TNU5JMF9xM2poaUR0allYZnJrNXc?oc=5",
+   "published_utc": "2022-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 6,000 crore mega fraud in Tamil Nadu: Depositors fear total loss | Chennai News",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVzR5azdWUjEya1FMaDBlN2J6eWZWZGV5SzRpQ3JHY0FPNHota0pNWUVaZ2NTX3RRQXdyZFBQalZyR1pBcTlna3pXblBhTS1zYUR6X3pyUDRRZ1RmVzEwb1psZmIzOUFCMXZnajRQamJvVW9YdF96cGs4RzJaOVBLQW1jd1RqVFMxTW50RWZEbHNWQVZ4Yk9Ra3JwdWYwNTNkTzhteEF5YmIzTmw3TEZDOV9wVjdWNEZ5SGlQb1BLNDJiWGc1N0xFSVBvWnRyaEs4cTJwVHhB?oc=5",
+   "published_utc": "2022-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Liquor sales worth Rs 273 crore through TASMAC on eve of Independence Day",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUZ2aDhJYlN4cE9SeGpBTzExRVJFREMwdWI4emxHS3k1eDhRUmUwRWFrZEczRjFrZ1dTWmNSZlZLRjlDWVVaRXZqX2VBN1EzdXV4SFBuM2VsTUxiWTkxX28yVVJJeGZGZ2cxTzBSMFcydkpfSC1pdHBRWHBxTExOeW9CM2RHOTdZak4zV1pZQ2IydTBTQW5Cd2JYdUlXYU3SAaYBQVVfeXFMTjdvcWY1bTVYNDZTWDRHOTVha2VRWHg0NFQ4d0tCMHJMV1R5dWIydlhNdXNoSHlsd3RzQlBzYjA3cGJfWXZScmlQdVhDc1hPVzZpUzgwU0gxQWV6bHFDNXNvYWlIN256ZDlRZkFEWFdNbnJ6NV9pUHZMSHNDay1CZ0s2bmRSRDF1cF91T193Vmxzc1AwaVlOVmFXQ3h1dU9FTVBna3Vpdw?oc=5",
+   "published_utc": "2022-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CSB forays its footprint in Tamil Nadu with a second outlet",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenVJV2hrX0ZudktDbG5jM2JONF9rRXBuWmlWd3JPbmRSanY0QlJ3aFdwRGlsQWwwamNQVzljOHdYeEdBd1NSa1VWUVlybzBiTE1zdUYycFk4eVVzTy13aDd0MWdPR2t1QXNLU3VSejhRUnRjdVg1ZDhLOUs1QjVDZi1ZVi0tVDVlaFFPdmZXYjYyNEpDQnRRcnl5Z0xvT0RydUFWN01Nb3hnS3g3YXNVUWVOaGNCcU1qOXBFelBtM2ZWRXkyOUZTd1VjZVFYd9IB0wFBVV95cUxOQkpzNWhIQjBENnN5ZXdma0RBM0tGWjEtdElrbnRCZ2YyczJFZWlNdnlyTlFja0FJdWktay0taVlVV01BX01OQ09DeWVwNXRZdFd5ZTB0bTZUb2hRX001V2NWS1lqcVQxN2RMb3EtVFpNcHUyQVpnTW9zX19sdDh1cXl6XzFQV2tXZ2xmRzNtRWpLQVBPdkxvTTRiVWp5dEJ1dG9yd0NEOV9KTVBZUDcxRlNJRnFuRHRiUEFsZm9pTzgzWUhROWNwa0NMQlJfbHlqT1JF?oc=5",
+   "published_utc": "2022-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

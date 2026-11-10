@@ -1,0 +1,69 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Andhra to distribute 2,000 drones to farmers, Rs 15,000 crore for paddy procurement",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmM0YlpjQ0xaT3JXYzlDSkZ5Z25mZDVuV082ZmI0VlhFcEhMdUdMb25GYzROeWhhUmRFTDhCekV6YVNHRFdqRk55dWVrNFNXMzBCRXhuSnFseHhodEJXMDRGMUZBc1owbm5wcDF5TVV0M3plZnFxVzFvYmt4bzdSR0I3SjV3a2ZUaktCRERaVVNLX0NWVkRMRHNUcDktZlR6dmIta0FocGpCWk8xQUJYbXhVM09Uc3hlbGdiaDJSVE9XdXY4YlNRblhDRjXSAdIBQVVfeXFMTkVCRWZtUTc5R1JjSWJmMUJsNHpzTFZjTjVuRG1FY19PeFFMNjlSZ2V1Wnc0bkl5Y3ZaUTBEWG9hYm1CcHQ5MHcyOXI0QXRIVEUzeXZMaWcwMlhtOEo4OG8yOE5xZjZiMGRtNERYYTU0U2l2SldBNWJzUVZNajd3alViYjhxR1NlRFg4ZjBHNGVMT0FEVVhqTDk1WmJwT1RxMEJyMXYtamhZVGNNUDFDc01rNnA5aGRGeGVDWjlHRU1Od0hfRzhkS1gyQmVXc01hQVZn?oc=5",
+   "published_utc": "2023-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh deploys facial recognition, geofencing technologies across state; 1 crore faces recorded dail..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNN0VOclhXZ2VjYi0wRmt0SE1EZGFNNmRxelRfQklCUnFkXzU3MTRwU3RPWEhiSEhYeWtLcE03VzRtb0VCWGNZemJjUXVzOEkteTlPSXl5NDNLQ0VUM3dhTnBWNm5WZzdZWE9rMjlabHZPN2UxOEI1d1ZHVkhkRGNGSVhFZ1dvdzFPT0VSYmRnNVVqb1FLbW5VTVljZ1BvZ1NMakNTRVhlUzdqX3J5c3djOUU4Q1otT1c3eVZQMGNBUFctOFJQVkNHa3g5djBxSXoyZWtoeWJjblF4ZUw5QWNsZGxqVjQ3Y2dfbXVVX2U0Y1hBZmNpanJoakZ5bDVJaE5KcjdFS05vdjc1OWs50gGSAkFVX3lxTE9SNjB1alB0RFoxOF9qbURDRDNDTmFyM2JCM3I1V0NCUFp6cW9fRlNyZEpqTnZtMGwxSVNmLWloeERHSEdORmpaX09HUi1DYjdYOVhvRlRfbnM2RUdGV2txX3RnWEUxaEhJemRhOUg2RnVLdVRaVlNYS21JZlZjaXVtQjVUdGthZVRaeVRKVGNXTlFwcGl6WEFDclZfMGZtUXN0aDZzMmhBOXlmalBpa184SDliTVJDcGZSN2ZQWGNQOEVlSEdGcEZ6VzN2N2VZWFFPOWdUeEpoU1U3bE9HbmJaR2htalZDV0lvd0FQNmxXSzhvNkZLU2xqZHlnRUxpNjE4V1ZFaUVTQWJndnExbVltRmc?oc=5",
+   "published_utc": "2023-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Samsung Innovation Campus’ Program Commences AI, IoT, Big Data and Coding & Programming Courses in 8 cities to Upskill 3,000 youth; Reaffirms Samsung’s Commitment to Powering Digital India",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVF9iTGNnRDZOZ2hESnJRSFRMRERSYjJHUkVuUHN4S1BXLVhUMURvaVBMM3RlaVlveFVaNFJ1cktwX1BxNmtkTzJCa0Ridk5ERGRobXZvNlhEcFYtYVVYdlJFOHczQXBVaXlFMmM0azc2a1pXb21YMEhjM0Z3MzJjZ0FINkdIdTVEUEdVWjlJM3BZVnRicE82WHd1a3lIT1hXeXhRRm14Yk4zNTBORXV6Z29ZTXFBMF9odFpuUUhsZ3A5STJycDRSWEFOdjUyTUR3SzVkTEVzSQ?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dashboard to ensure functioning of devices at AP government hospitals",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVTd3NWNkWjdJMDJzZ2JBeEpyZjcyNnBhbkQ2WlFaMU9GLVo3cmdoZnF1bFY3OXhfSE5kVG5KdXVvQ013QWhfWWQxcEFCOXVDWHFaWkxDcWtFZmZXUE85ZERWRkRGUDMzZVJyNWxYWFZ0Zll1NUxMbnc3ZXY4NzdnWDZnV0NuUTVTVFNTU0ZiYm9haWJBcVJUVHdmTzY1XzhRV1lfTURid2FJMnFhMDYtQlZHS25GRHN0OFpLNmVWcXJfMVZndjZtM1Vkb2xDNVZDMXfSAdcBQVVfeXFMTjF1OGNLY2h4OG14S1d2bm9hTzg4U3NiZGk4ZURlTDIyZGEtMjZtRVJ5bUN1b3A2VW0tb0hTaWxEWXFURG5iVVI4RVFaRDlQZVl5SlYwUWhodkNzaFBVU2hQckhDdnJPdGtqRlY5ejN0OFBvSzNDb09wbFAzc2ctT2J4cmVkU3lGeS1iaVZYMVQ3LU5kS2NURVJudjdUODN2OEhlWEtkOThTTkQzTk94YldvUkE1a3RBamZNQktSM3FjUXNjUFdlazRzOEI4OU9Ba21hTnVjMGM?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: TTD's Srivani trust receives donations of Rs 650 crore in 3 years",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTjFEMWg4YUJDakcxT3JMN25aYllBV2wteVRsTGp6WDBGY1BxVzlET2ZJR3J4QmVPNHFzdmtJVjVGMnI2UkQzc3hYNGVObWZYWDdlb2tudG50TDVkOVdvS3N1RGxzY2RzWjVyQi16RHpsY2xnYkFLTGVfVEJfZV9JSDhFVVJRU0VIWDVtWnNvZ2FqSUppdzhOYWQ3akpmd0x4clcyTngwSkRYVjlyMVpBS1hRaFpfRHZJUU9SV3E4NnpldDBsSm96Y3EyLU1FaEk1VUtoMFZLV2R5Z3dYdlY0YWxDWFpBcnBSLTBj?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP expects â‚¹200 crore from liquor on two days",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVNZX0JjZDlSX25HOU1uLVNSa0E5ZWxuTmIydGxJcXF2N0Z6dFZQc0oxSjQ2cjR2MFpoRTl5VmRyNkxtZTBURFVFeG16a1RIdVduVzEzVHBsYTJnOU5VWndSS1BLNERxOUNHYXFrQVRlbHl0SjdSLUptSlhRc2xEOXVjR3dlVzFDQWlfNE1UVzBWMS1NY2V3SzItWU43ZmhRUndFMUJicWpqVjg0V0HSAbMBQVVfeXFMTU9iZkNKRGZFcmlxX2QwZlczYkNUQ0M1ZWM5a0Q2QlN2R1NoQlp3NmZ3czhXbTd6Zk5ibDBiRnY4ZjJIcUFqMXVLUzFvWUtzVk1pUUIxMzhZcVIwWXFYMFJhQkZGbmZUNElGdE1jT1ZuQmJ2Y0VLd2hTX01UVTlWaU0zc2pPM2ZyYzZNeEo3ZEdSQzN4RFBOOUhqbkVNRXJWTnNGLUlRS1VsVWZiemhSUEl0Z3c?oc=5",
+   "published_utc": "2023-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Salary delay: APGEA lodges complaint against AP government with Governor",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVJBVUwyVDNaUVdhMm5aQUJORDlkVzBRZFBsODgyUUMwWlB4cGdHMlRxV05hQjFRWjVmczdEd0toWmRnSk5IalBwaGVtdzN1OW14d0t2b3hsRzNfdmxXcC1FS1FzcUpfRTdfVGNaSDc1OXBSTng1RzQ0UlQ5blgteG00cDBEYW5qWWMzOHFPN1FQaVp3cWNtTF8wMlg0alQxb2R2RFhLSTNkYjF5elJuZVdlTGZ5Y0g1SElhV3otQTQ5MmdUenBvYdIBzgFBVV95cUxNUDNHblAzRWRXWE00U0h1ajZibm96Vi1pejRvb3psQ2pnb1FVU1lHZ25lYXFpOHZwWEJPN2diV3Y5ZlRyNGlZMUVQaDBnUlU0TTJXWlhfNGczZjIzVDAtQUh1SEFzYV83LXpHM1M0cEM4RGJLendjYUhEbUphcmljYVNpM28zVmJldHpSVVpNNF9SMnQ4NGNnQkRFdkVPdFM5djBKQ3FuZTZlZHk5OW9NWlN3d3JVaG5hSmVrc3dGTl9nUkZhMzc5Y0kzY09SZw?oc=5",
+   "published_utc": "2023-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "â€œEssence of Constitutionâ€ upheld by AP government: Governor Harichandan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWpUdnU1UXUxNkRta3JoYmtVNm96bDRGQ1l4Vm5BbENZVzlBYmFSTjJIeFBXamxhbkJMTUFWRnRLLTBtWjQtRTMxczBDYnpkUnNRbS1QMHBrNUlUVFliZ1FiblFCTjNMRDJVR0Zmbm84SWJLY2Z2YlFneVY4UkI2QU04R3JzSktxM25wQVE0LVlzV29kbDIyakQ0VGU1Q3VjdGdYV05keTgyRWNfVUlyNDZ0UVlRQnJiMDB0ck9mNGlva2xhMDhB0gHMAUFVX3lxTE03Snl3SnZlUVQ4a3dBZUNtRkFuY2J4R1hUakc0aDhjX1o2UWtwRnIzRWxtVWNyMVpTWG1QazJxVUJNWlBKaFFZMVdKbmhqVVRDZEN6TnJPUWozbGpFLXJ1QVJHV050RjhtSGhLWUZDUllJaExKZHVHRXZZSVNqMnZSY0RXa3Y1d2lBcDVOSGlKSE5NNHBHcDhxMXJINUlsQmszbUpaUXlhZk94c2RFRkRWSU9zNkRpMUhkSnpKbEZMMUs2TDAzZU9VdWgyTw?oc=5",
+   "published_utc": "2023-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

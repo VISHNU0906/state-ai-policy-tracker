@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Data Center Capacity In India To Cross 1 GW By 2023: Savills India",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTnNHU3A1MlJyamxPNmVWdzgtNmM4NGxBQWJCRzE0aEFkUm1YWmZUVmxLYXNtNFJMWkRWR3ZQamU1SjdlQm12a1RNei1kWmVXVVNPbjR6czVzNE95MmVoWE16YjdFTW5Zdy11amFOeHgybEVrbmlyZlotQXV2SGNvSU4zNTRTUHpjalE?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

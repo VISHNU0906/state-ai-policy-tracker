@@ -1,0 +1,77 @@
+{
+ "query": "\"Telangana\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "KT Rama Rao falls prey to deepfake menace: How AI is wreaking havoc for politicians",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2QtWTAyS1pXalQ1TzVMc1NKbGZxQ21VRkVRelVXWHZjQ214dEZiNW92ajZYd2dLdUxmNThTbjJ3anQ3WWROYkkzQVBWQnFGeFNCUDhTWHpHMkRuVG9qQlJIaHI2b205ZzltMXN1Rm8tcDNjdEVaTDBpY1ZqYk1lM1gtbWZ1RDZtNzNWemhoak5yRnpWOWF4ZUJyZkNndG5NRG9nWW9CbngxdGdIQ2Z4UFIweU9lZHM?oc=5",
+   "published_utc": "2023-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cong posted my fake video: KTR",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWJndnNJYjV2dE5UX0JPSGlOY3NqQ3lzMUwyeERnbnY3eWt5Vi0zOXBITFN3X1dxbXp0Smw2M1Z6eEJQVk9OZVItRlNsdVFvQUJHSjN2NUV4a3NrUUw0YklDVzNEMlhsd0t0ZDc4U0IxT1lNZ2hqdnJIbnVwQ2lvZlRxdmtKU1FfbnZNcko1ZWxKRzJnQUdKSlRzcmhvVndlUTFJWDZDZ3NqT1RkNXhxVVU0SHRkR2h1UjkyYjFIQnRfYmlTVFE5ME1Ha0RVZWFlV0NRRWRIemt4cElxZzZB0gHkAUFVX3lxTE5lTUZfaTJ2bnJCYkZMMHpGVmRaYmg2SmQ0Q1dPdWxJd09Sa0VOdXJSRlJPc1RyV2tjYTJJVlRZM05PeFhVQmdnY2JCQ253Rk10VUZxZEVPMWs3eFh4Y3R3MkpmY3NEdGtZNGtxZWtKdk9MMjNYX1JZa3h3aHZmb0pCdFZ4R3FubUlhWVB0UEFmMUpmWlotNkpSclV0ZGJzRVRzREh3akt2SUg1aG82T1hkaVotYVkwNC1xMXJiSTV4eFZGSUo0YVFxVjA2TVVSTzlQVlZqc0xtOWlkWEZBRjk1UTVxeg?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Independent candidate from Hyderabad uses AI to connect to voters during Telangana election",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMG5sUWl5THhsRFBXNFZqekdYYzc2ZUVDVkE2Wi16cUhoUXVvcTdJX0d3bVFBdU0wb2RrMUpYam1BaVBOSGVEZW5vZFctbV81Mm5KUHgwUDBJZDk4TzhhLVRKa3pNUnlUWFdWeHhMUFlHRG1pY0QzRGZjWWszRS1JNVFfZkdJT01weHo0WGtTVks4dEdjazRYb1p4aC1DRmU2d3Z2TXRQN01aX1FSMDFDT29raWN0SkNpVDQ1QVlSRlFSOHBLM1pZ0gHOAUFVX3lxTE51SGRISWhFSGR6d1dxU293bEpadlVEZy03UVhYc2VqWEZ1Rzh4ZWloYklpWVdtM0FfVGlncWx3M3lDaXpQNTVPYk5HVVFsS3A5ZGpyLWxGYldRUkFMWF8wUjRlQVNjd01jbXlTSUZSTm1NUXBYbTB5ck1uV21nYVl6cG9mWFBObllQb0xJYklMOU1xbGQ0VzJJclBvYzJhVVFsSzVzZVNVN3pkUVBHQVlOekg5aTlzYnFtOXMxVHBBcXg1bENwSGZuZnVWYXRR?oc=5",
+   "published_utc": "2023-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"BJP's Bulldozer Government Will Come In Telangana\": Union Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWmxjSU9jVGxyTG9TaTNzVlpiYWFUdU5vYXBlYXpmS20yaEpYbjJ1a0UyazBDZVhXdTBOYlBqT2hmWHJOSUVmQVpsVjZSVFFCNkdQUTdrNWVRRVhGY3BvQVNKR0lVbjBxU0dfU0pXYWFRc0dUNldKd05xMTdFZGtyeC1DR2R6ZFV0eV9SWmp0UWt6TUp3V3I3eDN3TDhZMmtIZ0FOMFA5T1Fkc3EtZ1JCR2hhWHYwSlBlbmfSAcIBQVVfeXFMT21tZkt6MHVjd1hnZGpVNmt5VlA1bFdxb2VucHpoalNkbktYVnJrQldfQ0tSX29xbGpjaWFiMXpmMUVaUWprbmxDQWx4YTdmYlp3OXNGRHJyYlJTU1J6SElFWXc5MVdjeFRtM3c0WE5DRUFPRnVRdHVBTVhUbkJ1M3NBdTVfeUJnazdSa1Ftc2phLW1DRXRTWGd4dngzbUtob0VWelA4WWJtbHlFZmpBR3dDNjhPRlJDbGlzbjhsT1VSYXc?oc=5",
+   "published_utc": "2023-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Opinion: Battleground Telangana - Meet KCR challenger Revanth Reddy",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjNZOWJkck5CMnJpbk0yLWF2VnBla2Q0N0ZVVDg3X0ZraHZYMm9OeEo4ODQtbk5ZVDVDazNGMnNCRlM5UDdJUGVVZ3lvR2M5UzdqdVNoLXVrX20yNzVOMk52bEVxUVV5WklUX1p0OGNCRFUzWEFyYnNPazZMQnZVZnZ0SGQyUzY3U2VJMmkyV0VCT0Q1TVU3UENyNm9FMTFWQ2trT2xQMjRnMWFaVV8wcm9NUkRYdEM3TTdVaFdIcVfSAcYBQVVfeXFMUEZaWVZoRUZMRWJ0NDBEalhWdDl0dF9UczlJTEdtSUdMMTdWNVZmSUs3dHhkSnJhYW5rLWxaOVdQNEtkOE55RjNCbVdoVXhZTm8ybUUyUTdZZmRQY1dHNmdBc3o0dlRWWFlvWl9XTXlJakdzMTdDaXFyZzV2Uko5MHZKYUxhWVVXaEU3ajNINWQ0UHlwNm5qY3E2VWV1YUZ4YVNNaV85U1JEMTkxeWx4MURlb3lfbWVQeDNodVZza1dqYWtQSHZR?oc=5",
+   "published_utc": "2023-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress Charging Karnataka \"Poll Tax\" To Fund Telangana Campaign, Alleges Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVJkbFFISDA2eHNUa1F1OTNHZ1pxNXVtd0J4UVQ3d3lJNW1Nc2Q3cnh4YklJWTlmbTU4Vkd4VkFndFk5TzZRWVctakswSl95U29kRm56YXB6ZVFKWWpiZnI4bzd2TzhSZ2ZsNldiZjhvNzA4bUN6TWViZ092bXI4TXJxUU51OFdXR0pPbC1KMU5hOGYtbDR4YTAydWJ3cUVrcUJhenRBajc2eDFhM0JZd1FUc0FteXVicnpmaU1JVHpKQdIBygFBVV95cUxPZVVuQ3F1R0V5bzBEaTVtVUVkM0R2aHBhOUxIQUxyWGk3YWtLdmNHR0JKTXd2WExOU004NXBmS040dzlXSjYyVEtLdW5LdXV1aTNuSTVRUDJfWFZCN3FYbWVKVFNOWW90NUhHeVNzQlJyT2dhcW9hai1iSlhrX3gyR2EwazRGWDB5ZkZRdjRVMDFLeHZpUWVQRUhqbHpNbWVNOW8wZ2xjaUJCZERDakI1MjJ1alZsd2NFMm9UM0RyMklKT1VFbjE5MVFR?oc=5",
+   "published_utc": "2023-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"4% Muslim Reservation Based On...\": Telangana Minister KT Rama Rao",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnpSdjk5Ry1BOEZ4OG1QQ2FtcXRYWU1KSW9XSTh4cGs5VC1oTnctSlloODBJay01dkpYRFBnaDk1ZDJrVHJDRHRlcmI4VUhWUnFFRzNOUy1WZkhSODVWeTlacFh4dUNqck9ieHhhbl92MFl1cGNKYS1mVVJWbzFGZFA3Q3JTN1pEMzVWc25oc0U5RHAxclJFSVhpNlViZHZvaGfSAaoBQVVfeXFMTVhSNGJTTk1VdklHMHpFeG5kNWNWbDVVUE80d1RiOUFGSFcyTTNxV0FkVXVnYlhzLWxIVGg0T3NlN2FYd25uOVc0S2ZSeTR3TG80YlVfQWJ6T2wtNWk3Qk91dEdJOHFRVWtGeW5oUVZPcnBTS0phUVVNMDZWZmlrNEwzWlVTNy1xdVgwd3hTZXFMTW8xczM4WHlLTWpRT0NFbC1ES05HWXNpVEE?oc=5",
+   "published_utc": "2023-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Minister's Police Escort Incharge Shoots Himself Dead",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmkxTzI0OHFjTlhRUDNmSHVIcko0dmoxUmExaHlKVGRGeHp2Nk1XZ3JuYkU4aTZCZkk3RG9Dck1aRlM2cUtmVnMxR2labURaaWZkYkdReGYwdnM0YmtmMF8xV01nN0pia1hxUXpqbE9pSk04bS16Mlk5dTl0bzNmUGowNEhmUUJJR2NfaHBDZGlTOWhtVnM5Y2F4dXptWWE3aXpNVzVLUzgtamxxQzNRbjFmOTg2Y0lKbmhvV0RTZ9IBxwFBVV95cUxQZU8xSXhiSGNHYkV2YzVBMG1FRk5FQWVORGR1OEs5YWJWUkNUNi1jRjU2LWN5REthbmJ2ZHVIOGNnSmxaYzEtRXRtd0FDdzRlTHJWSV9hTFdsRXRQWGNkV2k3ZUtBRTlfWUREc3RISVV5dHdoOHZLWXBBcHF4VGJuNjRTaEZNS2JaNllkYXhkVUo1UV9fY1dJZjRqS3A5Xy1ENDkwNmM3blVURWdkRUs0ZWJaSWl2ZXNVWWJ3cHk4bWZ0RHRVbFZB?oc=5",
+   "published_utc": "2023-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tax Searches At Telangana Minister Sabitha Indra Reddy's Relatives",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ185YjFTcy1sZmljZ0NhZDdGaW50aWlqS1dZblFzTm1XcFZCOHhHdTNwV1dYTzJDZDFOZnVITmdEelpWUl9NQlBvRjl3WlhqMHh1aVE5SGN4ckZRNm5qMWdCN2RFbUdPM1JnMHhsaXFPWG1TVmVSWk5uZFFHVEVTR3hBb0h0Y0VHTlpqZklDSlBMMHFuWmZLQXBSd244elFoMmRFYVBPN0fSAbABQVVfeXFMTkFtRkd1YmRIODBMLWZWWVdnSFYxa09JOVpZR0EycEFCa3Z4VzdtMl91TGNOSnFIVWRrM3RiUXhuT1BQUFRsT3J3bzhPM0pHZFNCMFRlSWZlakUxd2otQkhsYjJrejZsV3hmV1Zsczd1MEZjSWMzRnphVkRvVUNGaTBCd3JvWUZTbFJCMjU5clJjX1YyNXNxckw4ZVFRYmpqOE12ZDJpazY5QzJqZWhlNGc?oc=5",
+   "published_utc": "2023-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

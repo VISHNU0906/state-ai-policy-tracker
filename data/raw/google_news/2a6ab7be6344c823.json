@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Jagan Reddy Preps New Cabinet, 90 Per Cent Of Old Team To Go: Sources",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORF9TN1l2blpRaWRlX1FLQW1JaUd6UUtrNzJZUlBXR0xTR1d3WEpMVHJuLUpRWXFCbk85T1RDNDdtN2dwbkt2TEhOMG9Sa0R6SU9wRFRPRkNpY2lFcU9CUHZXNjFGM2FzaUlWNmdVMk9Cd3VJTy1VZUdCaGJHUlNJVWRKNG1GdmRvcU9YSW5rU2hsVmJKN0lhVFU4ZEFBU0w2QUlPMVVFc1RaVWx5aWNtMUdNWGRRLW1TVGxoSkVORUwzTEZ0WkJGaGZaR3JDeHNEWmhtNU1xN2VDRkthRGxOYnVMRk9CMU12T1JVYUdMTG1GNzdUd1dHaTRGVFNfZw?oc=5",
+   "published_utc": "2022-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Botsa Satyanarayana likely to have sway in N. Andhra",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXJhNnFwQXlOd0lZTDZLdWpHeW5Vd2M4Um5ibnhwZ1VCT1VvWU1PdklJeWhjcTVXT1FBTEtYWF9sQzEyQTVaeGk5Zlkwbm1uX0R5MUVOQXNxTTVLYUZQUUlPS2RMNDZrMDVZQm1UOFJOcTU0QzhWakw4T3hRYUZEc2l3VWk0d24wenBzV1U1VTZRaWVIZ1ViaDVBVHNrME03d1FpeVI2WXN0c1RFMm5xX9IBtgFBVV95cUxNSG5ucVE4aUxDdFVfNURhSTh0cTFPR0RYOWw0VVVpQmZ1LXpTc1dUODlOUG5PTTFQSU91UjFQRHZJUXFWSXF0MURRS1ZDazdKMWNhLUhvQVJXWFk5ZlAyUjdVUmhMaGpjbnFwekxYSWE3aU5QX01wOXdNczRNdVp0c1hnN2l5elR4YjNHNGRINnNENkYxWGlGb2l1WWEzX0ZaNjVvMHFHb1QtSkhUSEwxOEdkaENNUQ?oc=5",
+   "published_utc": "2022-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM YS Jagan to hold cabinet today, likely to go for reshuffle on April 11",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUdRZzZabzNIZTB2VGVyLUZkczlqOTY1dWdHaUdxOEdJaGRXTC1uMmJBYTJRRGphOW9GLXN3bm1YbjJKSlAwNkVhRFhnTF8xdEoyMFZnazhQc3h1QkN3SUlRUkRxVGFoRWFmeXhlekFUOE9KOUdkanhLdXJmNEtGYmkxU3Q3OWtuZ2tLLXVGbnJvRW54WDRDQ1FiOHQ0WXA2TXFWTlVmc2RMRW4yMGRtMHV0UFFJWG5ENG91UzVBTlF0MzBXNzRpNS1MWUN1b0xEa2fSAdcBQVVfeXFMUEo3N25teEJpSlltTGlDRUhBMWQ5Mm9JS1V4aVRWajZMWFBsMmUxZkpvSVE2aU1hUDI3dXBCUVBrNzE4Q0w4TVNUSE9zbF9CWlhjNTUwYXAwYkZFNWxleGJWeXZuMzd6VW1zU1pZM1hYR3JsZnNQSlBQcDN1SFhIOEdRRVVxTDBEckJRTEc5RGhLbExCZmlVdnEwdEZ3ZFM3RVY4djRKRHhfM3Q1RlIyVlJPb05lNUw4YVlxRldxT2wyaEZlS1lTR0htcmd5NFpoOWYxNnBLaTg?oc=5",
+   "published_utc": "2022-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: YS Jagan Mohan Reddy revamps Cabinet, inducts fresh faces",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFlyTklzU2lrb21sdFRRT2plZHZaMXNHbElKZnR1MEhRaThLWTdDUk56SUdLU25PNk1fYlVWb3hTcHJjTlZaNW8tMjdwdXhDT1VPTGNabVBjNW1JcVVoR2luVVRpbUlyU3RBU0g0UkRBb0hlNm1VR09KVV9FOUJQVjBYZVV2RGE2ZEhwakMxa0R1VF9EZGtZcU1TVUM0ZVBxM3RwSG1WZXhUSDRxRGpjU0tBUG5IaWNQV05ZSw?oc=5",
+   "published_utc": "2022-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No more Private practice for Govt Doctors in Andhra Pradesh",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlpaUW9nOWZOSDkxMGhyXzRUT3NJYXN6UFRzQzRVb1FhRy1TZF9rMWdZMmdBZFM0WDhlbHhrQXRhVXJFaHBPQXh3MjlVYlJ5VkYtcnJwRjFiRGdFQUhpakRHcTNUZGlHQ3dMRjlQRlpwT0ZsNW5FMTQ5NEUzeTJNWjVqZXpnQ0VBTmVMNVpIUFRtU0NTRWdBUk9aQnBlVDVsOFRQNDZEcFNiYjBzMGJDa1kzQmpDT3RfS3Jj0gHAAUFVX3lxTE5pYWxQSjNPcXhBbjd5SEh5S3JBOGhReTNDUDd1ejVrclBIVTh6LUF5LUo2Q0VYRHhGOG14TjVfelM2cFQ2d1hEX1cxWGlEVEVaWkIxVUNXMGZURUNqVWFUbnJkemFvTlJ1aWFpNEEyVlV5bmtFSnRVNXJQUkpfcWwzUkpqYldtWWNCMHFDa2FWRGU0TmZPRHN1TnQtTU1LdG4xQlkySGtvaW9qeTVYaUM5VkMtMlN6cUNvTEpqZzNNcg?oc=5",
+   "published_utc": "2022-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Positive forecast for Andhra Pradesh in Shubhakrut Ugadi Year",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3pxTUE5VDh2TTdWYlRQMDhjN2NjZnZHSzNKal9kNzRPRmN2Y0N3Ym5Vd1RJYjI1QWlEeWZnNVJIRGZPNHlzR2h3aENWRjBDclVlSE5tR2diVE4zLTRvWjI0RndUc011Nm9UUENWSFVfOHo3dFZsMngtbVlvVTNwcUEzLWZqSWM2NHVyTW1sX3YweW1XdTFpbEVtdlNKWWZ5T3VYRWdOMVE3RmhlMTRzaWJSZVV0N2vSAbwBQVVfeXFMT0luM1ZHWDVmZi1wb1N2SHFWM01VbWNiM1B1cFU0M1o5MjktOHRRZl9EUjZNVkFrR1FsYXZzd000eWpfVml2NzU2QnlOWWtTVjRJdWNBTS1DLWNld05HejB2ek1ZMWh4TjBtMUNhUXVQS2VrZXVDV0tCaWc4RnhqZkVxOGw2LTFlSmRqRnVPOXlHT1VfWW01NlpBWkJDMXl1SVRfVERENTVnNEdYRDhWeW9ib0k5ZEVwY0lyWTY?oc=5",
+   "published_utc": "2022-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh minister Roja meets KCR",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVNqSjN0ZDhVR1NiM3hidmU5eUxZRHNHYjhXMG45cVVCckJpcDQta25XeEM4TVVGTF9pbUx0bjN1dVUwZTJfWlF2MXhXdW5kbUdXZ0VwTkNzampGX2tHdUVmVXFsdTlxVHFYSkRqSWRnaldZdWR3LWs0eU9IbnNBczRZQk9ieVdfSE9MWUZVRUM1UXhoWU94bDAwb2NtelhteUM0MzJYdXMzRndldFhLdFlaMktaQkhNWHpIWHJnN2F2alYzU1J6cdIBzgFBVV95cUxNeUVqVTFjTzNoX1ZsdExSVWdvSlBsZGxMaFFlUVVFMzlBN1ViZVNTRWNBOEdwd2FiTUx3ZnNkNXRhOUlMd245dVhFWUFzTEhWRXhQNlJGSFNwdUt3VFBVQ0hHV0hucm9XS1VqbWZOY1Mxb21OQmU3QTdGU1ZjLUFTUW5ucTh0ZThiZXIwZUU5dnRNT2dlQ3lHY3NzR0E4RFpGOV9CMlExUS1LazR6QTNrdjBha3FsQ1gycC1WTi1pUHhPX0VTbUtDY3B1UW8wUQ?oc=5",
+   "published_utc": "2022-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "All set for AP Cabinet reshuffle on April 11",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUhQTVJ4UkFJdVQzUF9zOEMtTlBuS2Y1SmRBdzIySHpXSDFIT214VjlOZ2VsdkNrdUYyaTgtajlNN3ZRc2tmTmZiV01udjA3Ui1FQlF6U3c2bXdhQ2J3X195LUJUV2hEelZ0YjRSX29xamR5OGZua2V5UVVRSVNZYVAtOG55TUJHOGlESENpUHFCVmFLekx4U0FhOEZ5MmhtenJwRlhnWWpsVHVoQ2ZScHhHcjctQTJ6VU5CamVNYS03NEtV0gHKAUFVX3lxTFBsSmVaUGhWVHd6V19vR1ZuTkFYb0JEcjc1OFVYNVpvZnFwTjFZV25NeHI2eElIcWc5eTFNbnNyYTkxNDl6VWpQZ2J6V1kxaFZjR0h0RkVvWVRmWGUwZFpTcEJiWnJTX3dMTVA4NFp3Q2ZtMEFnMWZGdUNGX3QyRVRucHVlOXN5clBnaVp4ZGUxVWsybzVCOHItWV83NWdpc3o0ZWVldzJ0VDU2Sk5fMW5lbF9VUHFCaUxnYUlvWURQSzM0eElid0NBRlE?oc=5",
+   "published_utc": "2022-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "13 new districts inaugurated in Andhra Pradesh; Full list here",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXRLUDl1Z2Q0TnR2N1FhQlZ1V2pvZ3lvc1ZUMUxOMjh1bHdVTmZKeE9wTHZ1bnB4cTRQaVNNdXpHcW0zdVVrdlM4NVNFRXBmeFRnMlFRcjMzR3AyZjZqZWEyMzhtNmtjWjlOUWdGclJ4UmYxenJpVTIwZ2hBYzhueWI4WkJ5MzJLcVFnTE1VTEJQdmc3YnJqaWVQclJ2dktNMFdURjhhaDFXbGVEV2pfeGZTSGNVNlHSAbwBQVVfeXFMTmRkbEFjQTBMNC1wXzh5NVV0ZFBKTFQ2S0xjVnpfYlhTSUdaX0JnbzFVc0huYVN2VEpxMzliMG91d252eHpVajk1YTh2bk9UQmNOdlRfQ29jd1I1Y2RzT1hWUl8yNmZHcmt3QTcyN3YyMVBCMGxKYmRneW15ZXJ5clR1Y1k3N2RoT2U4RUt0YlFEZXJ5OGRRUHdQMmhpblBSaWVvck5tbjNtd3FlMTQ2TlJjazRLdjZOOEE1T0E?oc=5",
+   "published_utc": "2022-04-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Cabinet Dissolved As All 24 Ministers Resign Ahead Of April 11 Reshuffle",
+   "source_name": "ABP Live English",
+   "source_domain": "https://news.abplive.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa3ZfWnJoT0dsMDhmOVpXd1BmcjVFVTZLZWFvRWxUMXIzS3FoZ1RkV2dtQURKeHpia19jTEdiTWQ4N2c0NjZobTd3N3NmYU5lVVJYdzBENEZ2MVlMVmc4UXIyRnJvemhtYkJKX2JqczJUMFZFWG1zajQ2SXpWdGtpd1hhYjJMM2xHbEpEa01HbE42NTZXNGdJZjY3aV9sUmx0cjF6TDBWZlp0eDFvOGZ5d1NReWs1OEpBdnFLcGhNeWZEeHdqQ2tuWHplaUNaZUo2aXN5aWlZa9IB3AFBVV95cUxQQjJhZXoxejNEZ1ZNdzdKX2U2QXVYbnlPQnlrbmp3T1JaUGk2NWRueU1COEZCLW5UbXRrQ2k2U0V2bmNhdVhBaU5LNmdnaWh5QkVxRnpSblpoVG9JcjBQOFdsYTlaMnlPZGlyR2tyTHVPT1FKaVVjRzZNYXR5TFBHeFBXQVB6T3duNVVXYTdzbllya0F6MXNLaUtFcy1fVzl4STQ1dll6NndmTnZjT0QxeG94bDhrWmFfak9yUlJSQW11R25adGgtNUJGQlVCaFA2YzgxRnhsc3pJT0Fa?oc=5",
+   "published_utc": "2022-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

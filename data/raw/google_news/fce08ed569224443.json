@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Former Gujarat CM Shankersinh Vaghela meets KCR",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjlsM0d6NDVQOFozRTlDTjI1ZkZJS2E2Wkt1ZGxybHBDNWJOR09sN3BWYTA2S1gyTkJaRllydlRmOEFtdVVfQ3BkTGloNjVwUFcwcDVHRG1YSm0xTTV0dEpWenl0NF9wbkdCQlYySjBkWVM2MHZlVmJyQXlaUDFid3Z6ZXdXbU9KSzJIR1VLUDRVajFDbXlZVVZpZm05OURxYTQ3MmN1RGgteXPSAbABQVVfeXFMT09JdHdTVWhrdFdtekdEcHltWEM5N3Vxa3pFUmlLSTlMRVBuelhCbWYtMi1GNjJDWkdCaVVjY3VsOGF5eG1hMUxTakx4Y3Jzd0hWbzlJZ3Q0R1ZlMVZ2T2x6NlctcC0zemhJaTdsUG5oME9FbVNDTEQ3bVRlMTFJdGw1NjhrcTJBb2VwT0RfQ3NELVEwaExiUDdGeldkLWJXc2Jza0lpcElmSFRIU1dnUWk?oc=5",
+   "published_utc": "2022-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat: Cows let loose in India government buildings in protest",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ESUk3c1FKX3UxUmNmbFhkWllvM0FaN3kxRVdRVDlqcm15N05GemJEMmNsSVpCcm9VWVlUTl9UUTB1X1ZrWExTa1gxM1VNLTA3ZV9JXzRwRy1UZ0gxZ2xz?oc=5",
+   "published_utc": "2022-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IBM establishes Software Lab at Gujarat International Fin Tech City (GIFT City) to accelerate digital innovation and product development",
+   "source_name": "IBM",
+   "source_domain": "https://in.newsroom.ibm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SSlc3aDF2Q2p4NU54aU5yeU10TkdDZFJUSkZLMlpjV25zdTBiSzhvcmpBYkxTVGtRQkhjaGdxNDBta3VZcTdJZUpucnN0YjNpQ3R3c01SSHlHcGF2bkhHSEt2UFlfeXlBZG5OM21HSlhmNWlkc21YLQ?oc=5",
+   "published_utc": "2022-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat government and Vedanta group sign MoU to set up semiconductor unit",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX19pSWJmM1c4Y2VyR2hmV3VoOGhKcVhoWEQ1S1JleDhNS0d5c0JILVQyemd3dFQtZ044NFBic0E0cXY4ZHBDby03YTVxSjEyY1lHZ05LbFRBYXRKWVQ1Z1A4Smp0dzl0Q0pnVTJoZlExUFVjTlVteGNubkFwZENwc3FVaDk3NC1BajBlNkh0V1MtTk02ZG1meVVJY1R2X3pwNTRRclo1OXJnSl9kdjNsTEZwX3hQWDRtXzk2VE5nTThBbGczUjBQaHhIZmYzeXdDdk1na083NFN2ajjSAeABQVVfeXFMTXNWcGVHV0hDS0NTcjBRQzBZRjlIUnhlNEtqOWZ4Qy1meE9JTENndWVqYkFoaEhHaEJSQlBUOWZDLVgwSHd1R3I0SnB5OXMxeWF1QXVWcEFQUkhKQXE5czd1YzVtSnlGRFltS283VEwxdWVxd0F1c2pKV21wbEpwZldhWmhEVW4xRHFxM1ZFaFJYbUE1OXJlMXNKd01wTVRESFBKREZoWTBNVzgxZ0NjLTdpblkzVFVQRHlUazA5dGZQbmFmOWJieDZ6R0tRc2VKMl8tdHpVeWN0MHpHaVE1aTM?oc=5",
+   "published_utc": "2022-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What does the chief minister’s chair mean in post-Modi Gujarat?",
+   "source_name": "Scroll.in",
+   "source_domain": "https://scroll.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2hmUWpJRFNaUnluaEpXcVFFVk1KeVFPR013WTFlTFlhTmJsRHdkNVlMcGxCRU9XcnNISnJJQ2pwVkNEOVNuTnR6R0E5MUpSaDNaRVUwVEk5b1QtNC1nUEpCV2p3U1dwcUVRZjd5eEpjTFZxQ0FWVG5NUGVnalhtNWx1NEF4UHNvVHkyWnE4cW1wU1lNMzdhTVJ3Y9IBoAFBVV95cUxQaVg2NEVKSzNja09FcE00eU1GQ2VJMGZLdjRob1NEQWZtNk5qMWpVYlo2dGtEd0RfbkRKc3pXSzMtMFJ1TlNlZGZyckVoOURPeE1UOWpzcURiMlN3NkdPb0p4LWJ6cFJST0xFak9yYVZIeHNlMWdDUnB6dkJkZE1RemdSRkVZSnA3ZU5TeVB0d21oNlk2N01DOUJjWXIzc1hH?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "10 days after CM’s assurance, Vedanta told Fadnavis: Deal with Gujarat done",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0VOeDAzZmNUa1ZPdG12WUVvaWF3ZWJsRjF1dG1EM2ZRaC03elBLWC1uZi04bXN4enZVREF2eVJSRk1RdUZuYllUcHFMa1J0a0IyYVZDMXlNTHMwazJlVDA0RkRzTXVkMHZnLTRfYldvTzJrbml0WEJIMFNzeW1vSXFpbHdEWERfYVcwVjk3eW9yVTF2ZXpvejhndXpRRzB6dGllaGd5RURIR3ByalYwLUxJdW1WdzZUQXNTdm5ubF9xRV8tZFRKTdIBzwFBVV95cUxQc0prc05FTWtVZkRMNG9kcFNybWdLdllPa25RMzhaRWk2VnRnOUdhek5oeFVNcGRWV2VkN19fSGFNVlNIQmhqVUNuZjRsVDFmMUEtbTNJcTgzZXJQWmlhbWEzUkh4d3VGQjd5TDR3TlBORmhpQ2Q1Nkc0anQ4SmNiTWpyUFBpc0dRSDNDUDRUTU9fNjFiVjRRUmZISm5XcE1KNTE5OEdoc2hfSzdXTjdWdEdQR09udVJnbFp4Qm1EVnVFVl9Kcnpyal9GLTREa3M?oc=5",
+   "published_utc": "2022-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat government allocates Rs 35 Cr for agri-drone scheme",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFYtSllrYnYxa3NwLVl4LXZCaHhYS2s3bG1HUmdOTWZYOTdqdWJLUkVVdFFoQllEYkhWOVd2UXg2TndaejRvRlZjamNqNDZPUHZIeXVDZHRLd1F4RkRZbFZMekNsT2JfODBwNWRyY1N5cEdoaUxQQmNCVV9JYXZ5Z1dqVmUzRmxfbHdiV1Z3?oc=5",
+   "published_utc": "2022-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amit Shah In Gujarat Today, To Inaugurate Smart Schools In Ahmedabad",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDltXzZQREZxNVE2YlBuYUZheEtxbW02dF8yeDZFSUtlRExrUE9oVWtta0tYYnBHZllleVpXVXNlQlJ2TWdJaHNHNEJIQ0NQTUxBTmRpR1VjVjBXVzhFUGp5R3lJbW1UZW5WSG9ZbVUwTGYyNXQ1bjhmZ3hRZmZwVmhhYUhjMlVucEZWUUNSb1hwdkdRLTNZOWFNajAyek9Hb1VvYnVHZjdRN0s4OG1ZVlRFWkJqa3lnczE0bjBvZ3ZTQWJaSEQybkx4MzhxRkZ5MmxkVHgtWjZpR3Joa245RzZYUkp5c28?oc=5",
+   "published_utc": "2022-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi arrives in Gujarat for 2-day visit to inaugurate National Games, projects",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNakdDZmpTblFwSFhSOTFYY20xeHV5UDJDQ21yMzd2YTB4czM3RUtZdkZNcnNUQ25yX0h5LUxRM0VTNXNyNGtrck5iSkpNdGxuQ2tIY1lEMkFLMnByU1EydkFiQ2hhc2VmckxTODhzRFJpMjJfV0hOaW1WNW9lRF9UQmFXVDdEME50S2M1T1VrSW5lT1Q3dER4UGZmTnRROEZkQW80TFhIdVdOSXNRTVRCRmhjaEZnQ3VWVmFaWWROMkFNZjJGVEHSAcsBQVVfeXFMT0VHb2U1enM1Mmp6bk4tUXotVG9VWEl5VnV4YnhzZWdzckVkblBvdkYzbG95V1lZZzBjbUhvbDBseEFFXy1UQkgwaFNrQzJmSGhzVXhiSjlGbVVGZVdVd3JmZERWcm1lLUpjOTlNOHpiaURncTItNXJZbXgtYmZMSkRsbnBPTnZKbGI4aVp2ZzdkMTd2UHoxQ0pJOE9NSzlJRjlRYmdkR3hXNktSWndobkNMb0ZkQU1VMmlCU0ZJZlJaRmJ5SGhNUk4xZUU?oc=5",
+   "published_utc": "2022-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Review Bharatmala project in Gujarat: Vaghela writes to Gadkari",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb2RxaUVmTmVFM2NBUzJTV1JRNkN4N0l0NjRFTWtrbjV1WlBId0JpRnNTSlUybkhqejBZMWNZX0J3TzlhT1FLeEZrcXFDc2dyYWNCem9hazlIbGN3TVVKM3RWYTZpTHlscHpsZnpZMjNNNnpxUTh6WFM3M0JwQ25CZk1uMUU4eHJkell3ZndUQ1NCWmNIU0EtcThRRFF4b3VPeGR2cG1DaHdEM2NEeXoteTU4TDJJLXQ0Tkw4RFB0aXF6bHgxWGxxRk5DcndCUdIB0wFBVV95cUxQUVdieXJZRWNOX1hZTk5RWUpqSDdiN1VJejhNWUdJRHI4VzR6bURJbjVCTWJGenFvbzcxdTRTUEhOVUxGWG0tbFBVOWVKa0Q0aFBBdWk4SWpzdU9lUlZYOUJjVFRwY2FISGphcXdmMUp6ZmxLZWhlT0JnemVuZmh0YVFxX0hhQ2lVMW5XZ2JYNnA1RmxjYUpBS0t6WjdsT0hJOGRwSUJyRmh4bTBiTk5CSVhlTmpyMk82RUVzenhJRnZ4NVBZOHEtZU1XRlR2cDA1eWUw?oc=5",
+   "published_utc": "2022-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

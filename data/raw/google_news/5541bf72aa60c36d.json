@@ -1,0 +1,53 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh schools to adopt two-semester system from next academic year",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXA0d1B5LVFpSVpFWDE1bmlhT3pVMnZUZEMtUDB5aHVOMFNVTDE0U3ZiX1pmdkdIQzFsd3hqT1EtakdJLUtIczhwN2RQSnIzWi0xVllzSG1XNkN6NkRqbFFFd1NMR1otXzBnX1Jsa2k4dFpNWEk1R245QUZia1p6QnJZc1dZdXB6OHIwYW10RURHQXlMUngtUmhsVWNoWTYxWXNuV2tPbi1sWXhkRGhTejJmRnNqRkRtZUF0WnpjWlUtQdIBxwFBVV95cUxOeFg3bEFVam5qUmhtYllHNEZwaUphRk9NSTktNVA1Y2FUYWNDaHlRZkhGVjlDQzJvZkpiM25mQ3JDZjdydHpKdUoxWFNIc3o4bWlwVm1pSXdGUGVteGx5eUtMTTA3Qjlxc3dEZEVual84cHhYeXkyZDdjUDZCWUVBc1VoQWZIeklaNDZqMVJJU0hYUTd5NFNTRXJmaW9PbzJ1VmRJOUxTNEpPZ0ZZTjBqWmNvRkE4MkZuV1drc1JzdUY5bDdhNmJj?oc=5",
+   "published_utc": "2022-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt gives free tabs with edu content to over 5 lakh students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNXzhPai0wNjFfc2RmOHdFNUdZa3M3S2NOWTBfVmVwUDZqQVlvb2RaZ2Fsc1daWm91X2k0cGN0QUNUZUwzMXJCYUtDcjFZMXJMVWxKV3FPVzEwUHhYYmdyX2tGcTBxSGRmLWREcy1hODEwTjdjMC1SejIycTBlcHktdFRBVVQ1NDA4OXlkU1NiWThBMGFIVTRiSWJ4cjdLTEt4M1NUbDdmbHpzR2kxbmNqVnBGWXQ1ZVktMWhkQXVTT0ZBUVJvdWpkMElFQU02UDB3N2tUTXJSMNIB3AFBVV95cUxNLWpoanp0bG1hZ0kzekh5cUpRTDItZVU1R0FxcWNPbU1fRTZBY250eTRieEJkYy1GR2pmcURqSUlxRm9VZlpCQU9IUkJUc1hHakZzTGxFR19OdVNCUmZTTDE1SFpmSllhRG9GVVkwMjlWY0xOMUZSNWVONGxyeHY3QXF2OTJrZ0E2eGQxbGRnTGhWMVhhTk51YUlveXRHdWY2Zkpvb3V0TGNIc2FtbW8zX2YxXzF6YTd3LUt0UVRqYUdRTEp2REVRZ2thSzVVRHA0dU01eEg2OURwQk9s?oc=5",
+   "published_utc": "2022-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Health Minister seeks Central Govt financial support for 17 new Medical Colleges",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGNpdm90djBwVzlGS3JORE1laE9JOTVyTF9ERWZySUtvQ2hiVHpZUklKU0tnQlhKTWlpYU1VUEFtUjJ6ZVoxZ2l2NHRlM2hqOE9yWmRnT1libm9QUWxvMldnaG9aZW9lWmFySmVxNXVMc1ZxX3ZIeTRwYmlyR1MtQ0ZxWHBaTUhWWWo5b0RTbXlYRkl3dE1zekx5bDV0MGtwZXJ1NEswOV9YckdlV3JXbXRuaDM5YklSNHc1a3RhQnRFWVRBalpkdThpaHVYd9IB0wFBVV95cUxOSzVoUlFqSlpjbWFOaXM3ZlZUVTVkRWktR3V2NXNadUFlU24zaGVucXhYeUNGNl96UGRnY1ktcU5wRklPU3dPdGp2YVFoWEthakZNeFpuRFhrVzRpcGU1cmV0dE12Zzg3T19HekpleFhVbTZlLWJ5UnpaVTJHZzlBVDJYdVp3MFl2Y3FtSnhlUXdEZXh1Z2dfM2ZIN25TTTJjRlNOOVdSWE1wZUFEZWZ0ZWN6XzBxZkk2MGQxU2RnSmZvYl9ZN0VfNTE5cEpQeVkwVTQ0?oc=5",
+   "published_utc": "2022-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh distributes over 4.5 lakh tablets with e-content to Class 8 students",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNzJRZXkwRFV3dm5OS3ZhVW5lYmV0cnptR041bTJCSldrclExU0RTLVB3N3VqbEREUlNDRVkwV29lcFdnSVN5NWVQc1pPZDlHS3ptZ1lRUmRyTW0yM01QZ1Q1NVdvZjFCZ0N2c3I2X2ZHTFIwa3owNUpUeFlZU2ZiczdYTEUtbVBMXzgxQjA3cEI0TjEteDhZbDZyOUJWM2ozZWg1LXE5QmZ5Ti1KT2ctR2xKUHMxR29relZReHpKaGtibmM5OTJkWFRHSF81SEJwX25aTWxiZXFjNDDSAeIBQVVfeXFMUGZSQzNvQWlYc2xWTExwN1BkV20xRlo3ZEhkNEQ4ZldQcU0zQ3gtSEF5MUFfdUJJVFdOc2JUTVk5M280WXJCX0gxcUNRNmkxZzBfN3BHU2k1WlFuY05fQlFkbkxYamF2VlhLRE14V0dmcDM0TXNnUi00TW11eDFpdmJUdDlPMFJPbklGdmlNRWNKWTF4QWRRQlB2LUtSZ0o2aEFkemt3UENkQTkzYmt5SUZCcnlMRV9oZEpUZTBLSWdjeXU4Z0dvOXhCWGhJOE1FUkJLLVplU2VGbkctQ0kyWHpodw?oc=5",
+   "published_utc": "2022-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh varsities avoid GO-110 to hike wages for contract faculty",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWh6SFJDR2pBTHBLck10MjZ1QW5pcmpZVWdVR0Fmd3dCMnMxRkNzSkdHazllVTFfRTZzQTFBVDg1dURhQUc5WWtuR1FpemNsWVoxZmpfTk1OZEtHanpEV2F6OFNCMTBuU1NYWDBTbURZMUFZS2h0QUtTQl8zY2wwLXhmeTExMXYzcnNRQmlHcy11NFJfdEVCM2l6cXpyVnppNUlNQm53QkVFU3FEQVZ6RzUzVU5SeVMxdk52V3UteWZ6UdIBxwFBVV95cUxOeGFJRGsyRGU1NjFNRW5STDFFai1pM3pzUWtoTk9JVEthSTFHWWx6R0EtYTJVU2lDbWZaQUdjZExOVl9VQ3BTVHdtTXlvN2xxR0pTbXFyZEJCQ04wczUtdGtVSVVBaExkYUk3endzUGlmTFg3MExwRU5JeThNeW5ydnlqeGl4RElhQzVWcnR2U2xjUndlaDJDb2xkNXRBM3FYUjkyQ1pJdjdvM1J2QnVILU1DalppZHB0WU81ODc1S0x2SXZSWWlB?oc=5",
+   "published_utc": "2022-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra University gives graduate certificates to defence personnel without qualifications",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFJPQXl1bE9QT216STRTaEdQUkIxOXB2SXMzVTVRbFlpclRqbm1nblVyS1dSVHp5d01Md2JzRExMWUQwa09UM1M5UXVGX2NqcUFaeXhXNkpqM3VCazc0OG5wU2NwOU5jZklyQUxzQzRVdnFWN25lRTZ1SUY1MXF3MjUzX1NnZUp5Q3doVXdxcW9sWFM3UEhNMEtCQ0E0d0g0dTlJMUw3R1pocUdzbWVNS2VPczRiRDBhbzlpVmwxSU93UUVQOWxwb0JWbVpIRVNPcnFF0gHaAUFVX3lxTFAxVEZpLXJpbGRZTzNwUUJqZ0VmVWZnOGdTSXJXb3hYajdfZkhuLUdPVlI5UVFEZ1JSdmRjaWJTODN2X1lXT1VlbWxHczJCTDJ1YTh5eDJUckU4SlljUm9yZ2NzY0ZWWDd3SkFGdzNtRTlnRFRLNGhwUEhidjJqSHcxSFJwQk5PQnNvNjMxRVZjVmFWcHExV2txRHZpXzczcnV4dDFlYzZzdzZ6cW11NWZLcjR3REpqMG5BSkJZdzl1eThEcXRTTlk0blV5SEthR2h4SGlKTmRaUHhR?oc=5",
+   "published_utc": "2022-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "DST collaborates with Intel India to boost AI readiness among high school students",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcTA5MU5INjJFclBGYWpIMDhoN3RSbnhaQUc4TnhSSjh4RjdsRkpBWVRvcHdCVG9nRFBzMG1oVnU4cU9QRUtZV1huTkU2RXctZ2ZPNWk4dzA4VnFITW5pUWZCYW51c2l4Uk02X1hsRDJ0VkdxdVVUamRBLW8tS2dpamhlMkF4OUpobzNBN0dnTHF4YzFWbTdUNE1zVkFnUWp1QU1TVGJ2UnMxZ09kOXAtUXBhWDhZQUx0ZEdpYmlzRlQ5OVpMN0dncVFDbks2ZWw3b3JWOXF3SUsyUVpsM3hPTDdqV252NU53cDA4S1RhMkdEUTE00gHvAUFVX3lxTE5YSmNsV2daSkpDMG1NX3FDWEFSZE1uaFhxM1kyaFZ4VWJOcXVjWmg5ZTgwWFlzTTh5aXBmWUEzR1F2SzNUb2FUWnlWWXJxYXdOYnVEUVVOSS1mTmpYT1lXMUMzTDliTkdaRXhMSlZqNktORmMzdHVqb0ptbUNhNnRyRTdvbzZHYWJrejFST3JUQVpnTjZ6Zjh2R0R5WFdhRktMMGlzRkpxSTZRRUZYLXFmbXNJYTRMWWptNkl4RW5lUC1PQXo1VkF4WWV4eWE0SEY0eVhzLTlkenNkZXkzd1VDeVp6eFl6TXV1RHBfdXZZ?oc=5",
+   "published_utc": "2022-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Maharashtra govt sowed seeds of prosperity for soybean farmers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVBDWjlCT1RCd3pGb3l6RFJ2WGhiQ0lnTEpxeHRHb3hrQkpKb3F3dzVFVWhuelFteGZYMFFHYUdRSFNqZWpPbVNMVTlYaHZFdnZUWUVOcFdCdU40cVZjeDg4cy1zRU92am9ia2U4MEtUdDktQU51N0h5bFpNcGV3YjFrUXpubzJ6U09UU2pFQ002Yk55SFdRbzFWRVBYMzFSVnB6R3IwODJGazBJaElLUWlaaUZnX2NWcUFFWdIBwwFBVV95cUxQbS1ZWmt5OHlIdG5WRTIwb1R5N2VUU0tzcDJJYjVRTkVhU0w3LTBPRzdnc3h6Y0dMVWl3ZUZRT2NjclJkQXgtYUFaaWJSS2xJMGttLUZVSFRVZUhvTDkta1RiRENpUG5LMjlNUHR5Y2hrZUxTUVRNVkpGTy10LWl0ZkZyYmtrWXFCNm4zY3pMZnFzWENmMGQyUVFFd1RJeUo5UmI5cWMwN0ItaVdKTFFKd3VXMXNsREJ5bzVFMmFBVnNLX0U?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet Kyndryl’s Manali Das, daughter of an ex-Air Force and Maharashtra Police officer, who loves taking up challenging roles and breaking barriers",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSi1rWTY3RmlEVW53eDN4a2hyblBXMFRmcFg1aDByZnFYdXNRaUNRUFFneTFWcDNGSkxlVnVMRENfZjBadFZ6MW41U2hqb3VTZWNjZVk2ZWM4am5NNkdfTmpmSHRBdi0zc0MzQWttR2dSd1FadkdleTBxMzJURUNVdVBDM2IxR21iVlVFLUZYV1NIVHYxZXc?oc=5",
+   "published_utc": "2022-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Veterinary students seek hike in internship allowance, boycott lectures",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPemliTERkakRXWC12eFJxS29sQ2lTNXhqZFVpZWdXeHI1TDdseWdhYXhoX0t4MFJzNUdkV2wtaHZxZXpncHdteFd2ZWsxMmk1Sy1FYmVrdUZlTkxnYnpwa29kZHphMVdMaGhiOWdfYmY0MW5vbTdLYlFkQVZadkZqczgwY3JIdS1NVjFjMTJJajFJZlZveHR1RTVPdWZ6S0NBb1E1aXUwUHpZTEhzTjM5dmFfbWlVX1BZX0lVUGltV2xfeFhtTGpNMUQxUHNodXVLcUdoNml3cS1sNVByc2xIejNqMWZqazZXeXA2NWFZd9IB9AFBVV95cUxPVTBuX05uOFhXeENoSEF1UXRVVFRRYm9pUk5fWUgtU2ppZTE4YS1BamFLdWpzQUxmSTdqbnhyNDNUcmJtYVNwb0NUalQ1amJmYk9wS01EY3dNdmhiSmgzeWRlNUpzaW5iLVViOThrVVQ2V25NR1RnNFdIZFhORE95aGQzdzdzT092WWx1NDFfR19ZNHAtTk0tZ3RWN0pGRkx6T0p1VHE1QnkyWXFfRkVZLUNHTEFtOWVFdnZ2eUZKeFFEc1FYVEI2eFpKNzhTYjRqLVRSdnZ0Rnh3aDFDUUYxNUt2U1I1TUFjZ3ljYW0yR0JodUxX?oc=5",
+   "published_utc": "2022-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Schools say unclear if criteria to be followed for all or only RTE admissions",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVWF5X0JHcXI2ZVNYWmpKcjNlUjhqRkJGYnBNQ09ueXo4c01mXzZlRThfOHRPaExsaDhxdlZvUXlFLXR4VFpGMTd6MkVpR2ZsMzE3Vi1mZXV6dm1hZ2RlUEdpZ0lMbHdOS2pNcmNSbTlYNE54UnBxZUJac1FFakxwQ3l1dVNod0NWT0s1SVpuTFlNdV9NSFhBV2Via2VyMmdxTFM2Q09BYjI5NnNIU1FZaEc2R2Z0MkR0dDFOZmhPaUZ6ekJBZ0ZiVzZkYkR3UzJOQmVJalA1eURVWjRTQVlZ0gHmAUFVX3lxTE92YzJqRElKUFNXbmsycVJzcDhoSGFoaUhlMGh3d0tLbTVHeXRyOWh2NkthOG50LUlpOUlUS3hCR2VRbEdwU3NTTTIwZmdtc295YXBybU1KNGpfZ0ZVZUZ3TWZzYUo4UUZVOUh3cER0ZWJRR3dJdzFQT3p2NWRYV2s4SktVSW9XQWQ5blZacWpBejJVNmZVSDV6b1hnMGhKWkJZYktVZEZ6WGV6RS1ZdEc4UjZTS1A5UTlMRUM5YW1vcWVmbHNXTjBXbGd6bV9EemtlY1Rla3ZrWW5aZXpENHFrcmxHY0tR?oc=5",
+   "published_utc": "2022-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: 1250 MBBS seats likely to be open for aspirants in state's admission round",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOekVHVGFFOFhCcHBjaC1YbXUxT0tXamZvZ0ppNkpEX3J0M2dKVGV4V0hVdGRPa0JCd1VpTW1XMzNTT2NwT1FjT1NiSXhnR1JGUXNNanVJVW9abDlBaGFsa3BvQnl0VXFPMEgzZGtwNjEyYWdSRFltQzlkQmtsYml3YURYeWVsWFJseFlUeU9IbGN4TW1BMkdEY05yX2VsUzF6Tm5SOGc4WUF0VVpxR09kX1huaUFxVFdCa2lUTHE5RjliVkxXbDJXWTgtZG5oUUZHSVhQQUNPWTdUTkk5MkxGdFJsUDk4RHJVanBrREtfMlV2YUHSAfgBQVVfeXFMTVpTV3owcHlRSkhSSVl5S0FNVzFOQ1Y5R2hhNFBsaGlOSnJGX0VQX0tDZ2dCeWE4UC11bWlWZWZKRG5hUUV1bUNYRXlRM0tJbU93WnkxVUZLdmlFWFk1SEVpMGhhQm1HTWpPVXlPZUlsOVFCckNzelI3VmpnVklSSGpmd1dZVnNHWGNjWlRhcWNia0FhWG1mMXBVVkxSN19BeDUyanBDVjAtcUJ5RlljV1R3dmZBeVVtTm5tUDZ2ZGFfUVRBbGw2clJfbnJUUFpNUlhBcHc2WFFxSXlhcEgzU2ljVW9wMV9tdFhjU2pBSzdqNklpYzNUaEg?oc=5",
+   "published_utc": "2022-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Haryana Assembly budget session: Govt to distribute tablets to govt school students of classes 10, 11, 12 by May",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVWQtc1VadmJDTzZPZzVwWVFRbGc3MGh0VGtDamJZc2JfYzV3NS1YU1pVeFBhR2plSllZMXVGSk5NSlZJWnp5Y3IyclEtUVpoRGpBc3pzUzFxTWU2d3REV0tKQm1YX2xGNkV0Rkk5a1FoZks2NW83X1JfNG9PWU42cWJ1dVVIOEVMQU9tNC12M2Rua1Y5aFd1cXdlUk55dEpRTFlpYUhqQlc2NmwxMVp4dXhyakFDLWUycEdrR2hTOGM0ZGNLbXNFbVMtZG81UEVIQmJ2a1kzWEZ6b3RGSi1FVEpnYnc2Ums4TTlxNHNIcWwtRmJrNnVmdVRkLUZGZW_SAYYCQVVfeXFMTlN3VDV6cUNjVTU4bDEyR2MtUjhzY2hhN3ktSlVrSXRHNFdvQm5lZy1URTMxNHJUdVhzWUZfbWNsYnBlZUlZTUtRUFF2aFdBNVBMcEFRQzJCRmF2UlhFcUJsODhkSkxXdV9keUo2blNTZ1IwdTY5ai13bTZIS1BkZGNkUXRtbGszOEdGUldNbXFyb054bTlVMkxqejR5bzJEdllHM3MtbTNGZktrVzVlUEQ3dUxIM09RR2xqMWNkMHRINFljSmEtaVdEb0pVaklYR0hjTWZTNkhxSWJBYkVIVC1TTl9XSXU0Z0dkYzdyVHp4LUpiSy1EN1dxc0pic1NHZkhxLTBBZw?oc=5",
+   "published_utc": "2022-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI should help women access robust institutional mechanism to create an information equal society: Meeta Raj..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUEZCU0w3Q1dVeUVYQ3FXRUpRWnVUdTNmWDdYMWZ5a3F6WkxfZXl3ajViZEMxbjRxWUtwc0llckVyUk1KSU5vYW1sbjNuN2h4TkNKZjY3MzdBVHV4OHgzRE81Y3ZMOVBlWkJOMFVfVmhuNndwbUtYaE9sNnRUTE9IYUtVR01HNDdmYnozR1FiaDdoNFhMclg0ZERXOUE0U2Y2a0twWEhOaEg3TzNfdmUySnpYSVA3MnplRUNQUDVhdzVucUdzLW91UXk2d3RUTnlxLTRlaHBIamJSMkJXWnJ4eE9pS2VpNDNCYk1VTGFYWTFLZXlmcGVLSU1laG1vQXRGbGpjdGhGbWxaelR2eUFZeUZkaTR0YVnSAZsCQVVfeXFMT0p0VUtmYktqVlp2SXR1QXh3dnhaQnZBRnFOOUhDeXpJRmhtamEzUFNGTGdMNXJydDE4Wjdwenh4SHBqZnFJYlVMNWZtaWctcFdveHV6UkUweEZyVEJKQnVxMUktaXA5Y1hLS0J2NTRNWUhURV9GQmZhanpoV3dINnh6RTltSnhZamdvbnI2UTZhN01BaFI1WmZCbEdjZm1hTXR1aXEtTnRPYk91a29CQXd4SlU1RzRkVHVmWkRTV2RRR1dyVFRiTlNNWldkUDNrS3VBdzhPODhXOWZOUmRlZTRMV0l1dFNHMVhpMUN1SmVfUmlpUGc3YjVWNGRzbWJVVzRBeVNCLWJWNXBiOG15c0V5VUlPUWhrS1B3QQ?oc=5",
+   "published_utc": "2022-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MSBSHSE Maharashtra SSC exam 2022 time table released, exams to begin from March 15; download schedule he",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTlg1STBCZnFybkJwM0U0Z1BQRVVmU1lKVHhDRU9aRlJyUnFfSTZPT0l6TVd0UjNZVHVjY3p1RXBIRzllcENwTmZhTWpBazhZbUpqRDNCTVNYTnVpajBjbmFzSzAzcUU0d1BtTTN3VXFYWmZXMXVsUEFBN005cGZHMkk0NHMyUnFFZkxHQzlSbXhGWUtrOUpSVVZWdHhab3VFenZzUHJDWlJIV2Y2bTB5M3hSWkRQY3ZyTjR2a3BDemtFRndzQ0RYYmdBSXJ1b2RsQnc1aEpweE9aX1NzX1JGOE1fSkNFcXBuWkRuZWt6UjhNNlJhMTVBX0kweTlOeFVXanQw0gGIAkFVX3lxTFBOREpLbDVwbDBfbWY4bXNSMjNoWW90c2tZX2tCRDZmSzlyTlJCejFQcGlMQUJkV21xZ1VYOTNHenJSM1M5MWZCTllNN2FVOVVIenpJYXIzajEta0dxbWlVeVQ4Q2p0YUJlOFZUb1o3QWdJaXQ1aHJ0Wmd6YjdpaTRrbWlKc0tON3RQdkoyNTFCV3NVMnladjRaT0lqanB4NjVzeEtZOU5ad2RVdmx3Ny1MUnRYRmdUd1hNRzd3M3ZRM1pjMXNOWTl5SHZ2d0hGT05ycW9MMnhtalhvc3QtNXZlTGY2RXFnUURmOFFseHhOQVJvcDRRYnRMX0dKbnhVUldoTDdtaFdqTQ?oc=5",
+   "published_utc": "2022-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suspense over Delhi municipal polls deepens as state EC seeks legal advice over Centre’s move to unify thr..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNaWRidFoyRkxUR0xDM04ySEJONlBjS0pUNW02RmJROTB6dm1qeVhQaWlUc3JnRWx5RVB3RktpdS11QktSTm11RzFnS01xdm9zNjJia3Z5b0dvYS1qR1NKRFJLdVFHLWVYSll3WHlOVWNlbVRJdnhSUS1pSDNUVDJjc1QyYjljS1AtTzF6eUoxZUFPckRiWXQ2T0FWOHZnNXBmd0NGYWVsYkp4a0FpS1VlNWhScVlXVk9fUmpGV3ZtbEJTb0xCRTRFT3JvcUo2WldObWw4b1JpN1l3VDdvUEN3Y3B2dngzYkFUenY4anNzS05na1BLTkxJbUZlbUY2dlRPV2Z4VV9kTDl0NER5Qm9KSUR2d1BMSzBnMVBrZdIBogJBVV95cUxOa3JFRG9yeXM0QkdEMFpkT1BadUJfdnNuS0VxTHFXa1RObEszWVVuNzU1d2FadVhrQTBKUHR2TFItSVZxRnFWSXUtcXpfTWhJMHZfOUN2dW9PZnRuVmVwT1ZDSFZIalc3c2VrRFMyY0V0WE5UV01oMEp4aU84QW1GSmVGenQxcnB3LWZFZFMzdW1hV1hJLWNTbzNtbjBHWlVjaTB3ZV8tNlkzQ3NQTVlodFFvUmxoWEgwa0prX1V6MGZ4V04tdnVrSUR4VklkUmRWNDEyYl95VGFWQ1Y2RUZCWm11TE1oQ3ZCVzhyV3BwOHh2ellmNU5tVkZXWUh5NU1iOUZTRE1XS0NsVENvVWZ1NmltZkhEVzZtTnR6SUlrZ3VlZw?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

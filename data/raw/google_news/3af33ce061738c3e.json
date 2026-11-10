@@ -1,0 +1,61 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Maharashtra: State dept orders Lonavala residential school to operate for another year",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb1g4d0NNdUZkX1p4Z183aUhjajhrS1hYWlU5NlpPVU9YM1pEaC1fU19fQ1U0WE5uMUR5Ty1INXM0a1o0d201ZzRhaTFvNHNEVW1wUWdPbkNyMHJkV3laU1NkVUFmbUdDN25RQWM0YUlQSE5pMW5LaFk0UGUtUkcwclA1Y2lHMFUybFJWbVppaE92TnpaUVFsWmdxczJxa3dreG9vVURlSUZ6OGE5YlBxUkNQQ1hhWjl3YkdPUTlDaU9tWWYxY1RsMF9LVmZoeFU1eEhRZ3NVbE4zZ9IB4AFBVV95cUxQVDRCZ01aSUtxZ2s2emdna3ZSVEhSOXRPbkVVS2w1blJzTElpVVRFdV9zS2dVUHdSNWZOcllybXFHSHRGdlR2UUxrQjkwZTZLTDdsVG5NbE5hUkZ2bFRCNFQ5el9jYU15Ulp2ZzVtNWd0dWFBXzBCemNrRFFLNU1kSmhFUmx6SFdyNm96UmFXR2xIUVdESkJYNnNhOFNtZ1oyZUpMMFptRkdkeTJzN1dxend2N3ZfMVlYSmdQanRGdlFURUY1eVlwWmlEN2M4MkFXMExPZ0JiQXRSd2lmVDQ3UQ?oc=5",
+   "published_utc": "2022-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Onion Farmers hit by Falling Rates, Pre-monsoon",
+   "source_name": "NewsClick",
+   "source_domain": "https://www.newsclick.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWDV3QnE4VmFzM0NQSkQ1U2FTZ0hLdlJiZlpUQWxnOWJOcG1Na1BzRHJPOVl3YW9uRG5JMjJvR2c4dTdnZkVjVVdMa2g4cEFkREE4a3hwOVlzUWlEVnZ1Z0NleDVGcEFIVFA5ZEJXeW05d3pUWFZjU183dlprRzZEV1psQUtiQVXSAYwBQVVfeXFMUGwwSWxKc3g4eWwtV1pLc1Z3UE9ET0ZhajlUVThULXcxWGFraWhVdjlaZ3BoS2JlQ00tNldFWW84c1duaElXdmNKaVZuODFFUmsxVERFUjNrbWw4eFBaQjBpMjh1LXV2UVhxdHB6Mk1OTnpHY1dzM2lGSXFEaVdBdnZ2a2RrOVZyMEhkaG4?oc=5",
+   "published_utc": "2022-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Everbridge Selected by State of Maharashtra, India’s 2nd Most Populous State, to Provide Emergency Preparedness and Response Solution",
+   "source_name": "Everbridge",
+   "source_domain": "https://www.everbridge.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUURBM3BOSUJOSG1LVWhUejRFOVBKc3VPVzBPOHNqSnJEM2NReTJabTNqZjdzT0cxWldwYlpkcFFDRFN6VkdOS1NLVFRZNHBpVlBvemEtX21OQWNGNEp5YkVYbkR1ZWFrekxfbDY4QXozUzh3TWpoREFvV3gzbm93cm9URktlaC1MRjJtOEZyUmxjbzBkOG5lRmlpSzE5Z2Z5R2ZQczlqQ0FaTFdDcTI3Q29nVWpteER6LTBJZnhhd2ZIZExqR1lJeS1LLVl5RzlLYmhFTjdMVE9XdF93V3ZSMkhQcDd3MHU3eXV2LXc3U0dRcnVsSE1BUmFTeWVpSFZ6bEVXbERn?oc=5",
+   "published_utc": "2022-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Soon Medical Students of Maharashtra-Karnataka border to get reservation for 120 seats",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNblRKdzktTEc4aEtoMXRscnNodndjUXlCS043X2ZMQ3lnZDN2c1Z3d2V3ZWd1QmpkZ0Myb3NLUGNfcEFKd0dWZmdweEl0bjBDWExQRjFCMHRxbXY5SXpkU3BzTWpoS0dHMDByYkZmOWZ4cXJaMWRSZnh1SzdxX3BYT1lSdTRFWGNVYWZYUlF2RXdxbTg0NkVJUnJheGt6YmVNS1NlY1RpZEVrX0FaQXRvMGwwTWpvb3A1cE82Q0luaXB3eGZDMzRfUFZEczNSQVRX0gHWAUFVX3lxTE1wX2ZqSW1jRlhwcjZJOE5ldEZoZFYtd3RZcHJiMkNPVGQzZ1pKSkFjS2EwdS03cGpMaXI0T0I2dEdkdnJWYk4xMU1kZXNieWtkTzBIcWNKd0pkMzhVRGpOVC1VN29NR1YyOHppV3JaT2FUdTJQa1pUMExmcDZNQTlQcVdmd1lGT3dDRWg1ZXM2Y0pmR3JJaW5makNnYlJaQzk1R1F1czhBejc3Q3ZhckFiakVRWG1OVERGQUVHNUVHZlMxbURiZ0V2blJKdDJfa1dBZndnRXc?oc=5",
+   "published_utc": "2022-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navneet Rana renews attack on Uddhav Thackeray, says he should learn governance from Devendra Fadnavis",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTk0ekc4aXJsa0dxVUtRcm94SHdEY2JXVWJYWThodEhrTUpUb3JqYmc5ZXpJX0NyUUIxaTNQZ0dseFI0TlVfUFpONkMwSkpMZXItQ0FFNHhJdW5yS29zQzVJLUlLNF9PWFJmX01tTFBxLTZRV1ViMUVack5RcHB5WGN3aTJNa3RQUkNVZHY1Z1dzOUxzUHFlemYtdkZKdGkwcXFsa3k1N2FwdlNkTFNzZ2xmRXdMaFdWU3JEWk44SDdmYkYzMjJISFkzM3p4bGPSAdQBQVVfeXFMUEhDWU5QT2pmSzNRNDBucEJWazcwWFQyN1NxTXlaalNqZTR6UW1Rd2lXMk85dkpZYjVrWmctWU9aSUlvWEtqd0hMc01MMmZvdUpMT1pBMmVjcGtrYm92RzJFZEp0WjdURGQ2YS02U2QxU3h5ZE1ZN1NWdi01MUllc1ZRTVlJclJBa0hJNjhydExpVjdRRU9QSlNCcXI0QjRUVDhDZExqQjdwS1hQQjZBX2RiX2J6cVhIcUFoSWFxQmVMbU9VcEl4Q2tLSXlZcE5JUkI1ZmY?oc=5",
+   "published_utc": "2022-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CET weightage to be 50:50 with 12th marks for admissions",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOakNPU3ljNUt2MXV3a0t3SUY3VHVVSXNNSGlieFRRTnJJMDVvNk8xRkFLb1ZGMDFZZF8tLTNxcmExRHppR3BLSzR6VnRWM0xNQWV3RnhPbzFGR0lfemtGSVBvWmNSSHlDdURFWTBKazlPNlQyVHpyWTBHS1F0bW5jY2ktUWFUU0trN0c4UjlJVnJqQ2dxajhCZVg2UVBLY3IxaTJfZks5TElBTm1tN0txQ0E5YmJZVmNzZ0JMOUFlMEw0VUtPYmJSamo0cVM2MDJiazNUSXk5RdIB3AFBVV95cUxQQVBTQ0FOcElXSmFybHZnb0lLSmFjODcwRU9tMEdvelRMc3JFaE5sWGU2RlRqUElBbGdKaVdRQ005MFZtbFhXR2NiMGZhYVhGX213VDRnU2Jid2x4U05QZnhFM2QxRWVYaEV3cjJzUnVzaHY1VVhGUGJRT2ZNZVNjcFY5blU1V2NSYkVaWmN2RVpRZ1NMVWVSQkxsSmlNb2NLRFZWb1dHQmFFazZsMXFoVmRNVmdRWVJxdkxmQXJ3MXZDUkdKR095eVNncWtnSUlaWjBiaDlodjVMTDk5?oc=5",
+   "published_utc": "2022-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lighthouse Learning (formerly EuroKids) Partners with Maharashtra Govt for Project Adarsh Anganwadi to Upgrade Anganwadis in the State",
+   "source_name": "Indianweb2.com",
+   "source_domain": "https://www.indianweb2.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3ZON041MTJNbjBMREdKV21DbTRRckN6REE2M3ZoS0hiTk1IZWFJRFBpblN5RmJIZFdzdlJ6enlfX3I5OW9pOXhXZU00Sk5DS2hUTHpxNHBEWlp5bWhQOTBYOEFqdkU3YVM2dzlURFplbkpsLXNKOXdqRGNlNkJVVWtRMU0?oc=5",
+   "published_utc": "2022-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

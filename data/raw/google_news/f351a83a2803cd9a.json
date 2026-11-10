@@ -1,0 +1,45 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Odisha: Cash worth Rs 1.36 crore, 1.2 kg gold seized from engineer in vigilance raids",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaTZWX0h5b185Zm4yMHE4VlNSVkpycmtrYUZwOE1qMFBUUnEydGEzaV9PSHNVLV9IN18yd3BqN29RT09hWHZmMU1qNEpkc0NUcFk3SWprMzI2cmJybUFJTzhrWnNGYXpyczdMNnIzMk41WVVIc3Y1MkpieXFqY0VHZU5EUHZ3TVQzOVdLYmh4UUVEOVVGZDEtc0llNEkyVzUxVEZNSGNsa3V0SXBOZXJqNXBIMERhQWkyS25FZU9SaUo2MXREa2ZNNkVHbl9yeldDakx5ZmU5MXNKUFpTa3M5elZR0gHnAUFVX3lxTFA0TEcwWm1IY1JDT3VKLU1Sd0pZVUJ4ZWNveWlyZnNPZVY3aFI2ZDJud01WRlE0ZFNjbDBiMmFCY3VfQnJhT3BnQkJSLUU4d282MHEzbU1zcjNPOEtFMjlEMy1CdHM1M3ZNQVR1Q3BpV0xZSnF5LVlxLU5XSGRManZUdHptZTdVYXZKWGVoVHF6NnFIVk56MjhUTTJSbWc0Y05RZEpOWXhldFR5R1FWeG4xT2hTRFRraXVXMHo2SUZyYmlHQnFDRG9JblBGaERzQm5wVWIyd2NJZUI3TVRnanljRm40TGo3MA?oc=5",
+   "published_utc": "2022-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Malkangiri airport to become operational by Jan 2024. Details here",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemRYMmxvY2I2LW9wZ0d6YjMtQk9OY2MtVFhOekU0UHNoZm9MLXFJanJhRnVqUTdqNlRFV01MQjZVS0g4VXJlMVhkXzNTZ1k3OFJZemhrZEdpd0R5cmxHcHJfUVR3bGQ5bzBMd3lIWllCckdITEtxX0gxUFhLQlV6ZkhYdllKS2N5SnNoSm1VUE1nbmZWaWJNU0VXQ3hqYjhNN0dOUHhFTmFYYWluVjVGbGRKMU5XVG8xMXVucjNha3RlOU8zOWt30gHMAUFVX3lxTFBTUHBvb19RN0dsSHhsXzl4VG1TMkNLelJscFRTU1VOOGJxLTZlMk5qcEk5a0JwWlVHbjFJcWwyVHdNMXBHVnhJTUpCcW9JUEx1RkF6dzNkdlBZeDMzMWlSczBSTmh0RUpSUXhNX05xaGtOUFhZQm0tdkl0T09UcDFBelEyckJTTFlYYjQwNFA3OHhmVWI3ZVhKVjV6aDg3YzF5dXdCcnA2U2JzMkgtZzFQRDBzYWlGNGQ4WGN2MEZaWE93Ui1QUHdfaHplRg?oc=5",
+   "published_utc": "2022-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Legislative Assembly budget session from March 25",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONUdQNmtITTNRd2FncmtYall6T1RLdEY3RE92SmNONXNOd2ZReXc3WWh1WXd2UHdfQVBmcXV4RENTbllnWmlXOG1JU1FnR3RMVURIWUZxSVdMVmNaVFZtZ2piNWJlX3NUaWo3VTQwNkVjTlhTOFBQU0JjN2J1Rk9iNmp4SERETzFrTkZ3TElCUGRrREpONkoxUVB5RVpkaHhKRE9IUFhVcUpMOVFO0gGyAUFVX3lxTE1wbGJOUnVqQktpdFBvVjZwQVRlWmhzd0RrMHk5UUVRR05DeVB1WTd1Q0ZkRzlHUnN5VXFNdVlKMGFrWnB4d2ZQSENManQwdU4zYXNsOE5OcG0xTjNfV3Q2eGdaZGhRejZQS1Z4OWdXSUlQNmRFZlpMRXE2aGdxaHdoZVBhdUlJcENITnNNZExRWXNKcHBqczZhRWpfekk3aDhlWWNKVzRzTHpuTXpqelBEdVE?oc=5",
+   "published_utc": "2022-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "“Leveraging AI for smart decisions,” Dr Satbir Singh Kadian",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3A5c2Zwd3Y4dFliVXNhbU5sMFFuMDhEUDJjd3h5OHV2dHIwVHVtY3hjUENOdFltaTdMMVFvY0MwdVc1MEZXREFwdGpFSU0tWkU1UUVYN0JnM3E1T2dPMHI2dHhpdzdkLWllSjF6VkotczB1dlRpeTliRFlVN3hLUTRNdEVlOXNHMTI5bEFfTHlyMGZVa2lJb3VB?oc=5",
+   "published_utc": "2022-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jindal Steel & Power plans largest and greenest steel plant in Odisha",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0xuNFp4dFl1V3lESzhkTVNZbTR6R1NYYlJkMVlCcUZtNVkxOGFjamRoeVhrcE1TSUZwSlp6M0RUajVQUVZKaUw0V016cTZtQ0VoTWJwaUNxYV9ycE1uTy1QZUZoYjVtVzZtUGFJUkdWQlU1a1ZjWGFuTkV1eVc1Z0FzOV9Zb1VsdHlJSFIzRTRRclE5QXpxV19LaVVqTVpYQmFHRHZUekxOQlhKVGFod0tucHZhY1JJTnZWdzB30gHDAUFVX3lxTE1BcE1TWWVpR0FRdjNhWmpwVDVIbWVFXy0zei1pTVhJTS1hbzh4S2VpeDJ4MmpqU1loUm9XUjJSeVhrTDQ0Z2VUbmdFMWhreHF5TjNRVV8wU281WVZBRTRTbXZ2QVpLbFE5aWpNMTNzRjNXa05OVFNSZTZZVnIxd0JRbWlhcVgwbkwwSUJaRXB0ZVdYekJwVnp2aTZVQmNJNmtEOEg2VnFZWGlDSXhocnB2ajl4cFR6S3FoUU0tWmVfbWJDbw?oc=5",
+   "published_utc": "2022-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

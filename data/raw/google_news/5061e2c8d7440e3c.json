@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Maharashtra: Modi's BJP returns to power in crucial state election",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdGJzZEQxWjRTTHJOaTI1VU5ITXcyZWtQZk91LUZvVVU5dXpWLVFpYkpuR0FLVE5mbllId1lORnd1SmNOeGRFMXVCclE5UTdIRnpSZ0dUNWduQQ?oc=5",
+   "published_utc": "2024-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Who Will Be Maharashtra Chief Minister? What Devendra Fadnavis Said",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMF9pQ09oNGNDTmpTWkRsazc5V29wdzlsMWI3SGN1Qzh2UW5yRm11bk00RVFtZE1fdWE5N3FiLVVqRFdIb3BhZlFSN0EtUkFpYkNPem1yTlUxcUpSXzJERUFiTmE4LWFFMUs0THpyMTlVVkFSekpMWWxHMnRIYXZfbUVYYXB0WVBNcWViTEJkRXFPcTg4YkNFbGpKeW9qeWVaN1Myd0h1b1BFd9IBsgFBVV95cUxQOEpyQXV6Um5BeUVaZ04ySi1zVmZ6Tkg2NlpVYWhrZzZnVldRdVpZY3YyZWQxOTQtbjJ3NlFDYS1NWkZRbDZKZnQyTUZhOHlRcjY0cFRwZjlFV0c2TDdfazNtenVuVl91QjhjbjN0bVhvaTloczVHSGJLMWNwUDd6eXNwTFdDbjhDLXd2WDczSVJtdHhLZlpXWnF2QjhNOTFzQlFwUE5Hci0xTU5FS283b1RR?oc=5",
+   "published_utc": "2024-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt withdraws order to disburse Rs 10 crore for strengthening state Waqf Board",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTFFbFZidEtIZS1CdEhjSDdvMklWZV8zWmZJVFFYQV9DVGJWMkRzTmthczM0NVRXUUhCVVpnQmJnd1l2bWUwZHc1UThJVWVDc2pOdTJkaFdtODN5dmZnMGJwcFlGaV9qVzQ0TnQxenRHM043NXUya3lhNEYtWlkybENjRDJBTENDU01SbTRNS2ZsQVMxd2xaYUthY1JnS1hLby1hbHZDUVJTdV93eTU2SHJGNmJtUm5vZU42ZlNTYnBuc2w0QnVqbVg0a2FZd2o1TnlzTdIB2gFBVV95cUxQaXMwR3RzNWVBbUg0WDAxR1ZVMXZMOTdmZG1kbS1IRXFiZHRsMzNYa2JsQUtDWU5VV2U3X2xjZmJIUk8xTXZrVHBCTTRfTG5WakZtY3pNZUFHcXV5TkM1UGdjZmJqYkJVUF9xaUEzSUlPb3Nud2VVTWFZWXhyN0xqTHJmT2o4UHdobndLZk9yQ1RnalZmQVNRZzdIWDFPZ0ktMWtzOW9qXzN0eVNsZWM5SGtaa3BZaTRDenVnY2NyYXZQYmtOS2lLTTFLbE4yUXFEMzVUZ2dxSHZYZw?oc=5",
+   "published_utc": "2024-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Mandates Installing Cameras with AI Monitoring At All Liquor Establishments",
+   "source_name": "Mumbai Live",
+   "source_domain": "https://www.mumbailive.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXBVTU5YVFhLMlNGM0pYa1laNTBFbmV3c08zUk9UbGNWa1J2MEZPa0NDOW0xQzhfb0VXYmZPU1ZUS2R1VERRUmxkTlMydW1JMHJ3TkxTY0w2cS1WaWlrc0pfb3BtWEpYWmhSZzhXd1FxaGEtNS1zUmVfSlJRaUVEeThaSmpSbVBTVmozZkdCaGFoTHNDSTRSMUNOOFpNcUdWYzdGcU1XN2R3dEpyNWNha1ZQNzkxRlpqS0VUa3NnTGI3Q21PQkY5SDU0Y9IB0AFBVV95cUxPZnc0RHhCaG0xTUFuWUNMSUFXdmwtaV9IeE5ocEhNWGVsSVp1NzFRMTQxakxodm90MXhuenZBelZRbTVxLURBYzN0VldDOWpyZHo4a3ZtMzhKRF95UmdZYXBCSnVBcWlpYzZCQzE0MHN3ZjR5V1JjZHpaNkJUSnROZ3dDOGkyRVZhdVlZUUI1bDBxYjQ1ekROVUF1OUhQYWxBT3hxbGdVTWFaMF9WbXlCeDNrSmhid0xLR0VfSmFGR1NldHgwem1manl0a3Bqal9S?oc=5",
+   "published_utc": "2024-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Will Be No Dispute...\": BJP Sources' Big Hint On Maharashtra Chief Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMUxUM0lqLU5CSFYtSmp5N1N2N25MMERtcDFRQVRISjBabTI3cnJ2MURYRDF0T2VjWVlPSmxIZEdVSVdwWE5ZSnFpTXAzZ3BKLXJfLUtTdEFQbVlIYXdWSkE3aE5CXzQyQ2dDSUxGblVvOFFpLWItYk90cmtNNmRmdGplYzgzNzNLZXJIckJCREJGUFJQenBHUGtrNDl1RVNCdjZyYVVoS3lGWjFSd2VKbjJveDJncV9LU05YejBkOGdoRFBmaW9YQWpqMThWbGFkVXROdUpuOTBRNVVpUVJfYkh2MDVDUkpLc183U191ZnNjX094bXIwOWNWT1JpQmxyRC1wcHBsanlkZ9IBkgJBVV95cUxNbFN1X0FGcFJOT25jV3R4VE9yTndCVnlScGNVbGNpWVlaVEI5aHZkcmNkdFJtbGp3ZUZJTjF5Y25qMTZRNnBxMFBad0hJWWViVHY2UkxVZUIydTBZYU9INXhfWFl1U0s3NkpET09FZGFSMlYxcENjODZhUGd5N3hRNmt3Nnh2Yi03XzhDVFNXNGtvRG9SUUc4ajZ6QUZnVFhsOFdTcHJDcC1SYTV1b1Itak9FT0tDLWJhUHc4MXFKeERRQVFyZmFkRXp3cWg1ZU5SMGtLeXgzY2NZaXlOcHpzU1FBblpScUJMODE3aldJbHVVTlFPMWg1TmRPS1RNTjNYZlJzUXozb1N5c2Z1ZW5iUjlR?oc=5",
+   "published_utc": "2024-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eknath Shinde Asked Maharashtra Chief Minister Question. His Cautious Reply",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ0Z1WUM2dGxQcHBYZ1UxajJIU3dVUTBPRC1ESVBHeUx2anV0TUtqbnQ4RFhCdHcwQmY3ZE9HZWlOY0RVNGV3VDExYzZBcFJjR0ZoeVhPVUpzZXFuTXhkNEVMbDJvenRGUnQ2WjktamRONHlqcTAwd2FoTEZEUS10RWs0cjhkZVVnaGdXUWhLWUdLd292UDJaYVVTQ0VkMW5yOWdUUWZwUkhIclhiNXdpYTByTWdMclloVE1iS0tqYUIxdlBuZlFUYTBvY3BmMlZDZFFjbzhQcFhBR3QwQTVZMWtDVWNGTEotd1BoRVVmUGRiSzNK0gH8AUFVX3lxTE1wSDhBb2dIWEVjb0NtbVNCSm5uMkpnYTY5NVpycFF5Zlh1N0NtdlV4WnRIbTN5ejVFdVFqWUVGd3N6dDhYZFBrbUM1aWlMbzJYel9yQkVlaXVEQjBjS2p6YXdQLWFteXhxTEl6cnA5YmtLUzF5UW12dWJfMDF0WU9UekpfczluRXZKT2N2bE1VM21kUWlkWG5ZbzNKMmk4ZUlXenFzak03N1QxWW52VVY0VnZ1cTFIaWhiSnF0QXE3NVkxM3Z4em5paVVqamUzcnNlRmdoWkFodXBaSkhjYkxHX01Rak9MVzJSTFdjZU92SVd2Y29rMEVfVG1XNg?oc=5",
+   "published_utc": "2024-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Maharashtra Chief Minister Will Be From BJP\": Ajit Pawar",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTNacjhTaDlsbkl1cVhHTjNmaF9oZFJ3LXJIdFBJcDdtSlg4aTEwZWtSeXJwVUNJdHhmLXRGaHExMU94UURNR0pHcHF6VmE4Y3YycFl2T0stOEE4VDRWNlJTWnA5Ty1XOC05RU5hSzhUS0doZGZpUU4tdWFmUFp3Z3JHOFVSYS1MMmhrT2h1WVdjb2R0UmVfbk9n0gGiAUFVX3lxTE9UTGZNcjI1VUZsTnZyUDN0TEhxeXJfcEN0ZERSMC1OeW5DaVVaOHV1WGtmMkcyQUZTejNHSjZRdUdzSktUTEdtOU5CRXItU2hKUzEwdjExak5STTVyZU9BMmZ6UUR3d09uWHYwM0dGLWFFd1Q0UWhzU2Z5Y1NxejlLMy03OXptcllWdHhaZHREYS00OEczb0VTbTExMDljX0RLdw?oc=5",
+   "published_utc": "2024-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Will Choose Power\": Prakash Ambedkar On Forming Government In Maharashtra",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDVMa3JKVkJ4SEZ4WWU3SjRqSEdncjlRNWh1bW9ZZVgtZWdaVmJmS3pZNFhyeDVISmk5SU1YbllGQTBQOWo2OG1MUTFPTWJsX1hZc281Q281aG9aRDRNWUh4bldSeG9RWUx4YV8zY3ZsMVNIaDlwbE9mcHdia1BDRmJJVFZ4azVFYnRCSW9mdC11S0tJR1hkRXJnZHBCU1FJVG13b9IBrAFBVV95cUxOeVZNT1ZEY0NNc3dKcmxjeTVpNFZ2Z3VGVlhCZjNjWFVaUk9tMmNpR3puYWhCYnlGaXZZUHRfNHpFeV9iTnNlblBTNTEwaXZkUnpseWtJUDdvWkJjRHJBRDVJS0hzdTRhejJ4Y2pnbmM2NnNXblZMeVNlbEV3RkFjdnBndnI2TXJTeWpER29qdEdJVDc1OUhvNm92MXh6RHBVRGVWR0ljYktHZEhs?oc=5",
+   "published_utc": "2024-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Ex Minister Anil Deshmukh Injured After Stones Thrown At His Car",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORmkteWVhWlM3YjRMaXJFSjhiZjJQeVFlUkRmQXpCNGJfeDk5MzVKc09WekxVMDZac1hscTZpbGZCZmFlZllMcUQ0X1VuOTlhLUtJekNmY1F1UzJGSUR6ZmFkNTZNM2V1MnBtYXV2bTVLakQ3NldtQUNMUUJ1bk8xeUVMOEw5QWw1RWRsbzlOd3JHakU4aDlLY3RfWTlfei1XUk9XdHVjb2NzNE9RNFVCUU9MSXIwekh6aldLUE5MY1lwUlltN1Y00gHPAUFVX3lxTE9XT1dNMHV2Qk02ZjhtMldYQWhfdmNmQ1ZEY0hvZ240eGthVHJEdmJNR25OUlpUeTlGNktCcVlmX1RncEZlZlByZ2ljOFBiZDloMHdIWDh6VDBlXzFZTktMbFdBQTNpQXdLanpTQXpfVVg0TTlCZDlaSFcxVXg2aWM0aW1udkliZnJnMGJJTWJsMDdkRjhGZW9QcTRaMVBqSmNLX1RiaGZ0ek5IOXR2MGE4M0V3NkJKY3RpWE9BeFZmMXdqZGtUR0poMTJpSlV5NA?oc=5",
+   "published_utc": "2024-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

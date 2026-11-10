@@ -1,0 +1,37 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh budget: Ongoing minority welfare schemes get ₹1782 crore; mixed response from clerics | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUVpTNE5mTTBpM3Z0T3VPODNMWkw4Y0pNajJpWVJJVkt3ZHFHQl8yWmZRRlcyMlpzTmRJMi1BUlpDaEdaR3VMZWNUVHYtN0s4N1FjSVljaHJEaTdyVUlYdVFJd09fWTltS0ZpallsbHVwSDYxWm01RjZ3WHEyb0lidVRrVjhsWUU0Ty1FZzVxVHl6N2VBekJueC1Bc3lFX0dOTGRUb0pCTWtRSjlURUloQ09DVE1zTTM3b2ZFbjctc3ExcE9rbzVnRm9oOWVvT3lWWUl4OVo3MnNmTS1tN0VORnZGejdlcmlrVjg5QWVPZDJhdnIyV2tpaDhSdmfSAYICQVVfeXFMTTd3d2FQbUo4SW1IVTJwZkkzSEJxa1BLcm9oQlYwM1d3UUlkTmFBV0JxTHlncnk5UVRUaWMtSzFUS0lNUVRGeVZWNHlnM1VzTGtZSXdZNHA2M0F6U3B2LVE5MDdHcmdLNk5EUDgyMnZEVWxsb1FVQmJyYmhMZ2t3YkpuZjZKel9sN2N4RzFiMEYtUzBSM0ZUMjhFYVFCSlh5ajB6eGJWOVY5MzZPN3dVWW5PN2tBcUJiTGRoQUdwUmlXcXgwYUNyT2lSVTFUR0l2YXlnZktyNmstYkZJcElDN2d5Q1BBSnV2aTlxS1pMVjlkWnBiOWwtbTNOLUI4cWFHQTV3?oc=5",
+   "published_utc": "2022-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assets worth Rs 67 crore of gangster Vikas Dubey, family seized by UP government",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGtDZmRtOHJ4WXE4NEVudXF5SjNiY3NCVkZXZktuaDM3UTFRVXBCbEZhSmFMTlBjU19wTkVoSm1ZdkZydUhuR1hiM3V2YThTSXBLV1VMV2dkSVRZbmhDRzJQbWVJdlJmeVNlWkRwa0xtMzc0UEV2OF9pVmVKanE5UFZBeWtCblVreXFOc3NWaXhMenRvME5EMXNYd0k1WC0tNWJ4Y19vcm1hMDB0cEpBM25BMERrenZTWERwVm1LQ3BsV21XMkhkVUVYeC0zZlZGcFHSAdcBQVVfeXFMUHBrLVB2ejZtSlRJU2lCdkFWelZnOU4zQXlQZ2dqMjdDd0dRS3hIZjJ4THA2cnZQRVZfQXdTaHlLN294YVVOd2RzT3ppZmJxcmZHVWFBX1lxQmdTd0RDdW9XT1ZGYmhFZXJlMFhyMUJRSGpwWVY2Y25ZckRQbTQ2SDlQdUdqb3FDWmRnSmwyWkhFUVVBZlNpbHBUeWtpWTFpUnBUbjU3eEpUUElMVzNsaURWNHNFV29BaUM5WVpkbE5XaXNNTExHMDlDOHYtaWlEcEFLa1lkeUk?oc=5",
+   "published_utc": "2022-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No duty for women from 7 pm till 6 am without their consent: Yogi govt's new rule",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzRGNzctUmFaTy1ERmVmZ25xWjFPYW5CVUhQZjRsN2cteHFKY0hwaDRTZnBTUVAzQVg1b2RabHMwWHZZS1gxU25OUHlZSUVyTFJPZUhKN1hjSVRjeV9LbWhFRDU4ajJhVUxudkFQZ3N0RzE4TU9NazNmbTlIMDIwTWNrTDl5YXdiVHoyTnoxTlVDVEVBR0tMZnotSnJvMV9ITVVVUUZHcHlfdWlMb0JtQ2RNZ1N3a3BzVmpvclN3a01iQdIBxwFBVV95cUxNeHRLQXlTNFVnNUlIRDhUSlZzT0pfTERLQkdzRTJJbGhBMUtFSXA5OVRZNUhGYnYtNThPV3NoeEZOQ0MxYy04dWNJanB0X3lva3BuOGlXd2pUbEMxYXkzWVdZS0NnXzQxOE1WZVFkcWJBNmM2UW54bUwtcTFxQk5yZWJFMGFlWDNEQzNDS05oWm5zU0ZHbHM0cnpFNlN6RVgwaElFN3hjSlF5cTkxWXloS0s0OXh5dHd5MzBHSF9VZC1nTFlFa0dr?oc=5",
+   "published_utc": "2022-05-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trump White House ‘pushed back on COVID advice’: policy news in brief",
+   "source_name": "Global Government Forum",
+   "source_domain": "https://www.globalgovernmentforum.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPcEY2NmdBN1lGV0ljaXZpNzRrTmRYcXJOWTBQMUE5RmR3QkZUZEk5SlBhekNjeEg5SEI3R2U2TkpveVlkQjlyUnlDZ01UTzNsWEl1TjkwRzVCR3djZFpsenc2LVpOelkzSzFoSEV1UTRpUFhyanZXWUJOZ1Mzb3QyTTc4WGdSWDlrSVZlOUxwUGw4TEIwbmY0cXBfWGluM3F4cV9KdTVaemRiMzBZUDZKSHZOdktJWDktV1JJdE5OYzdRSzVHeVJIaE5JR0tIMkhSaTJnODR5NHZtaVVYV0hOWjFGbWMwRjNPems5WnR6Z3p0dHMzTlYwVDI4azJfX1BTUDNkaUhXWjVmZ3BCTm5fbWtnSWF4WEdBd2FwaEoybjVjMTFS?oc=5",
+   "published_utc": "2022-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

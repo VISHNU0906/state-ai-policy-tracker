@@ -1,0 +1,53 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "13 Children Die In 18 Days In Hospital, Odisha Minister Seeks Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3JNSC1rQV9oTUVBcm0yZ0ozeHp6REg5RlQtUTFSWFZUOUJuRnVWRHUtRkxwNHhHVWpldGdrUlpsTTI2ZndVUklCNUlqUkFPMnZSa0JkZlFiejE3S1dhM1NieHJ5bnRpb3F2REhOaE5UVVY1dEVwSks2cmplcWM4NDBlWXFsdDFQRG9fd0d1Nl80UnVhVjRDV1UtTm5XeEN6Nmp6dGU0WHNidU0?oc=5",
+   "published_utc": "2022-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha, Tata Memorial centre signs MoU for Rs 650 crore cancer hospital",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVktHTUExYUxMLXNnc1g4RFBwVGpDUmZySThQWjNKakwydy1pbEpiYlIxeWgzcF96UGc0ZFI0bmp4UVpocGJOUndtbmh2WVIyV2hBUWF0cE11RUlvRXR0VE5iVUlqZUlmUG14LVNVdldwU2w4b0xIbEhTR3ZNY0ctc0hPZGRKTTNKbFZpQjlCRlpwajJjaG1UbTJVeTdGNkw0LUUxMXVGS0tYOFNmM0FQQTFSM0ZpRmVyUXp1dE1uUdIBxAFBVV95cUxNSWpacTZxT0ZVSzhvQm5Ibjl5WEFjNndvTktKeGJ6NndITmVvWWpPUmxsMFNaeHliWGZKTVZIUkNvanp2RFhrWHZFZ1RaQ21yS0xTTDB6UHViLUhURDNnOE51MXBCbzJ2cDlINXF1MF9VNUlmUy15T3VkcVdaelgxUXJnejFCSjd5MHFBcjJUVzJuMjRhZlVCNUZpc1ZGaGJhSVh4VTJLcjk5U01VNEVmRF9MS0hBVGV3WVNRY2hUdXpTamhO?oc=5",
+   "published_utc": "2022-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NEET UG 2022: 20 students from underprivileged families in Odisha crack medical exam",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTDhXeHcwT1VBdGtQaUE0YU4xaGJmYVAyN3VoWk5wNnpIeDVJeWo0V3NnSEdCSkZ3MmlWRmpISTNPSURUbFlqeVFjS2k5LTlTNDlFV25tUmJOVjhnUnR2OU1xN0xGOF84a3AzVDA1bFRjRWwxY1c5MjI2RVlBeWFJZ255WkFrdHg3RGpoZF9tRXhuY2thaEl0Z3I0S0hlTjFiQ051eFY2eTR2N2FZMXFjbDhKZDdvVW9KVUlJTUFWd3hLOS1BakhBbUlLaHVtV3RzSmtRd21HUGIwOVUzMEx3WUs1N1NKWUV1RTVR0gHyAUFVX3lxTE9tTXJLWVFtUzU1N1FzMFJPenhGNHY2emxQUHZlS09vQ1J0TVVJTHRfazFSalhyanRfSTNiWHQycVp0NEpFLXNMUzZXUWhFZDdjSnF3RkZmdE5Sby1HeFBKU0ZjcU45cmQyUHZJbldjZmU2eGJUYXROUzcyX0JuWVJDMkI1eW5WSDY1WjVwNTJGWWNxanB5WG1rMTVfejVRMlE1X1pxeE5pN05GM2pPa3FYSHZGZC1Cb0tOY18xdjVOeUp2c2Vzek1yRHladVVuQnFiaWxCS1kzdzVPdGwxS3FMVkdHbU1UUTlKV21lMGhRN0RB?oc=5",
+   "published_utc": "2022-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt changes rules for civil services examination",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXA0WXlzXzF3dkduMkN4dzR3bTdCV0RmcWNzd2kwSFZmRVljME9lRGthMW9mWnk3N3NpRnVpS0VOTGtYTENEdV92bkhueUxQVVpMalNnS2stOWZMWXA0U0p1OXpPcmVRXzExM2t6emNuam5HM1NjMnFRWjVDZlJPQmt6YTZfQVFIMHQ2V0hmWGVydkdPcllYMkZTUTE1M1FicElGa2RLbGM1NkJ3d3RVeGw1aGtMSF90d2VHY055LV9sNGUtZVRxcXJKSnjSAdIBQVVfeXFMT1dIOThqRC1BV1pzZFpGWklwTXphUHc2SjVPOVh0b2pJV3FoS0FwWk9aakFJdGdnUUFFSnRTNGdmcjltV1RyUl9PdF9OOVNuVmstYV9NbWNvbmNLSXVhTFNpRVgwTnhnU0dub0VoRmxObXI2QmhuZ3I1RzZac2xwM3pkNmc2RnVMdTdGV0pRQ0Fxb2o0MmdMV082UEVyQXcwclZwVUZZZTdubDVpUmtjeE5iOUotWVZHamR5VzNfYmw1c000QVViRmczWl9Vczd1Smxn?oc=5",
+   "published_utc": "2022-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Padma Shri Winner, Unwell, Allegedly Forced To Dance At Odisha Hospital",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWUQyaHh4a0FOdTUtRU45UEcxaGVPcmhoYVViSVU5U1hvNUp6RFBjOXF4SmNKcmZBWUVUZDVINkxpM19DbFRTMDlQRER3SEVRdktnbVBUTWRsdHljeXBRa19wanhSNXJFZVlHbkZNNV94eGlScFFJUEUxdGprWEJIY29GcjZBOUJjMDI2M05yeC1IbDFZenlWYzRZcFMxSmY5TERSb0xGRXZiTFFlMU9LNzRSRUdVQQ?oc=5",
+   "published_utc": "2022-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NEET UG Odisha Topper: ‘Covid-19 pandemic inspired me to pursue medicine’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMEtaRjlFSGM4ZUVtZ3l0anFWVnA2bGhPa1o2VG5Ldnk4M2FmWE1FZnRVUmJmV2hqOTBjdXVmMi1QTTBibXNyVzhNMmFSQ09pN0JsaV9fV29UWVpHM2dsNlhnVzVpSC1pcWNPV3BwUFVKR1BkVXJJSEhEaXVKM0lOeXVua01XWVBEOUYzNHNqV3RyOUc2b3JvNVI5amF5TUFmc3J1bTZMVHpYZklmZkxaQWhNc1NZTEI3YU5CUkNuMFo5VVNTSG14aF9vSEt3TjhkdTRNVEt5TmlWdjBjRHhULTRuT1hmVEROczNxbUhpZ2ZqdFkwdFBvbDBB0gGAAkFVX3lxTFBQTkZhU2RucnFCODVoTmpMYkE2bHFwME5kVVAxYlJLOW9VU19aRU13WlFLd1dzV1lzX19FYVJ4NjlHR1Q4LXVIUlBOdjZobGxkeHUzY04xajVzS0Jub09sM0E4cHVsc1V0X3hWMDg1eklJRHcwX3QwT1NaaFZMMS1PZkloc0U1ZE03MHZFVFNiU2NUVmVaMGNPZzkzWmx3dEdKUGJZWE5fQ0FfMm5vRkpPbTU1d0pfZkU5TnoxVEdFZGJZa1NFUkwwTHkzQnpFTTlndl83MXpwNXc3US02UjNhRGRJV0xEQlJTQWV2aGpHcHJORUNlSnNWYXdrai1VOWk?oc=5",
+   "published_utc": "2022-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

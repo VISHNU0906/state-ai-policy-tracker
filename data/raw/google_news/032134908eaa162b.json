@@ -1,0 +1,21 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "India's NICSI to build $71m data center in Guwahati, Assam",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjhSVm1XS1NibDlzNkpHY2RJWV9kZWVWM2NPSFRBYUZMd2Y4a1M3U3VramdDeU5HNnBkcnFzbzBXM0owaHhodEFVTWt1MzZCVFFTc3h2UnJtaTR3WFZ0Sk5wOHRIbHRIMXZJWFVtblo4X1RLZm8wM1pZRzhUTjhITHl2bkdBbFA1OUxWMmFQd3M2V1N6UzI4YUUyc0FaZWZo?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meghalaya govt inaugurates high-tech command centre for Shillong’s Smart City project",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2JTYVUtNnFjblZWT1N2cUdsOEdfMnU4eTNiZG8xd3g1a2FPTDVwUVVBaTAyNTJNYmdNVGxPWU03ZldfcW1yajVmZVhQWnItYUZ6SEpId0c2aEtRQnkyaGlRcmpMQnppdWJNVjhMejFZU1VrUTVIMmV3WHVNVVNPVW8xUkZYVEFnSnl4SE9sM3pwcml6UDBSMFZvN1F2QzREVDJFX09JclVxUXE3YkY3Ynl3dHh0b2dLVlN4Rmt2RVM0SzA2bWlF0gHMAUFVX3lxTE9CaU5YU2haN0V0cWRPWHp3X21vMFMydHlEWXNBaUZUNHFYZW41SUZ1ODFXUEVTdlQxRENFNWJROF9zYURVZTFGSjlYMG1GQjMxSk5RM0xxQ0U2aDJaRXlFLVhESDFHNmxmX3NiQ2Qwbk8zRGlhbzBybEo3MGJHN0tNejhRMHFpTTNzeXdhcFRoOTI1UGFBTEpUdkN4R1NwTENZWUtEbWppdFhZbXppckN3U195amRPdUlPdWtQaVc5QnJjYmV3RGpIUTBVdw?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "Maharashtra to install Kerala-like AI cameras to detect traffic violations",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ25nNjRwUzRZczBrQ3l4TzVwSkF1MEVwLW5zeGZMUkRGbUFSdXJld0FWd0tQbFV3V2k1dW1DYjJJMUM2QjYtdW9UdmpoYUFqS2twQlhxM2JjNEN5V2Vkc2NtNG5yVmtpR0RQY0pNdlZKSk1CNmlYTFVvX211T0JMQTRFcjMzQ1o0NFRPSUNfWFVkQklKc21yZHNDMU1XNUhVa19JaEpNbW1BQ1N6c0xQcE1ZVUxwZWRsZkJtX0owcTNscXVId0Njby1OWGtlNTNBak9rUNIB2gFBVV95cUxOUl90TXNaM0lQVUQwZDdBdmdBOXJtejA3TkNlaW5EY09DLXg3ZlYxT2x1a2pmN29sVlJFYU1BdjN4YkxEeTducUk4QV93R0stMlJla2FLcTZFWDdCZ19rcjZPYUVUVFZCT3B6TjBmeU9Bd1BxUk5QU0h4RjZ6V0s0V2JnMFpLVUxORzNoXzNURVlQbEY0QVVhLXRVYjAySm1TNWU4U2JYZHJVdi1CdzRqVGZOOGdkMDIzNnlFOS03UHY3RTRSTUl0U2ZaSlM1bGRWeFdiOVpqN3Z3dw?oc=5",
+   "published_utc": "2023-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Will Introduce AI-Based Driving Test Tracks to Combat Rising Road Accidents",
+   "source_name": "CarAndBike",
+   "source_domain": "https://www.carandbike.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHVZR2xmZGw3NjRQS2dFZGQwTTdfYVdOZi03ZDBjZC1SOHVSYmVnTTNySmJNQW1zQTFkZ25OS0pDTDdUYWlWLVRFdUpjRGl3NnQtVHV6ZFJBb3dTMm1MTjhFRURpMlBCU1pmZ1JDT0lQdVpwQXFZRU9tdk1fZkpaN3owb0MzNkZaWUNWRFk2azI3cUhYR2U3aTJlaWpXZVFac1M3QV9RbHM1T3doRW1SSExJYVRSMmw5aUdjMWZBblpYb2Ra0gHMAUFVX3lxTE05aWRoS0hEWGtVc0pIdmk5c1BnRGQwYzF6QjdCbHFWZl9KX0FoTW45c1VVQW01UjFFVkhqWVZVUDBTWEFLLVF0QVA0dXBpOXlSajIwb3BOSjNFQXNSZTdHcXJjNERsLWFJdVNxRUFVekVDS2dCQXQwMHA3Vnlmak5Rc0d1MF9OZ3RxQ3hTbExldmloZDhRVDRBc1ZrajVpS18yZ3cwMmN5S051NzdnZVNVcDE5bjJBMGZteElSd3d4bUdhSm5EcVZWWUdjag?oc=5",
+   "published_utc": "2023-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amrit Bharat Station Scheme: Union Minister Raosaheb Danve Highlights Railway Modernization in Maharashtra",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wc2dWMHNtaWpGQ05GYnJyeFhDOUxOcm9ZLXZ3cEl0X3Q0Wk5aQ3RHZHBmVjlPeVltb2xRSG9JdHpPdXp2X3B1WnJkbXFxVEU1cDF3cUstRWhCdzRnQXZKV3E4cjNxaEZC?oc=5",
+   "published_utc": "2023-08-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI to solve traffic problems in major intersections of Lucknow",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2hyWDQzM1U4ZTZuNDh5ZnpOQUZSM0ZxVXVWcFlsVU8yRDlVQktMU0ctaG1WOTI1V3ZCMHZtNnh4R3REa3BWUkx1LUdkRG5KYzFISERWa01kOVFnQU1mOWlhS2JGeXBCa1JDQzEzajNSdFJGcUhmczRDcnJpeHA5V3lwUGVmZEZGcDNJM2dwZTU4RWZpcGswNUZaX0VQT1lPUjVGNkJPWTlkMFpFTGJqdjEtOTlRRXFETnh0TW5ZcG1uOWhmRnUtYW9oLXFocHlOY2REcGlR0gHaAUFVX3lxTE94SzZCTUZqeElwNUZrUTNmQ2hnTFp0WUVzamZwckEwbXliUmpkVkREdW01QXl4RDZJZER4NUxlMDNXLW9zcWZ3SjB3dmE3VnIyT3h6M1RRR3ZTSHA4U0JiNjRjdlRhNkJHakJGNmFzTjBvYjF4SHp5SDhNZ0xfb0VZS2NoUC11LU1EYW1jUjlfS0U3TlRpZUc0N0h3di1wMkV5TnFVYWNQcGs5WkFLUlBwRk5JcEJTTW9fVThXRUVvaUdMWERDRjFRY1BRMkJFZXh1RUtkcGhCeG5R?oc=5",
+   "published_utc": "2023-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Goa’s Manohar International Airport starts accepting e-visas",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVE5XNWU3Xzl6VHpnaTNTdEt2LVRyNjcwZHRTcExrZk5JcGNiLWw0SDRUREZrcV80MG9SeTdhSWZzYnVjT3FjTklXblQxWUhEVHN3MVUxUzMzZE5ZczBQY3ZmTmVGRWdxbWxRblFSNm56eTJIMTQ0TGt5bDFJNlp2U3lNNGNDSGJNVy0zVlA3VkN5aXc4UExoTUh4VTk5eU41TVc0UGI0UllGU3lHTEZlb2NvTVFVemtQWFlKVVFPOTltTnBvN0NSLVd5eDM5YlXSAdMBQVVfeXFMT2tndG5GUndCMEtWN0dlZTVRSTRRa1p5d09VQXhNWm1XM2VGVVpZMXlfRHZzMlQyMEU4eHMzcHVKTXkwc0Rjc2RhZ0hMLVlRTHVSamYyZ1VBU2NkSlpfTUd2bjlubWpTOEFxUXFZOUpBQ2tTLXktZDMxV2Fma1NHU3lhVHo3ZWV1NzF2Sm5mQ084UEhJdS1xRU9fMXVybHB0OW5yYWJFRTRaMkxBb2pUMGduMjBQUVBNOEEyV051RGZTeG1KaTByMnBHT3FBd2R3ZWFPRQ?oc=5",
+   "published_utc": "2023-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: 2 brothers arrested for making objectionable videos of women using AI",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUZuajE1UzRabDgzYmtFRWpKZEpyeU0zOVRMR3MyUDF2a0l1UWhsRnE1RWpwNUhJcUVxNmpnRkhxYU9tRWlOTEh1Q3NtMGJpSzVmeTU4aHJFUF9EbF9zdUhXam0xdFNTZUZtY3RXNEt4RUlxRWJUNUFXLThlQ0cxZlJsLWJyRHEwcXoyek9YS2J1TnFmbTE4enBZakhxVWxjUUIzd0pKYXdhclVsejlNRHBDa0VQOFNDSC1QZzZLeHVGd9IBxwFBVV95cUxQWVlPREVSVEM1cEkxT0UwS1l2VndoQXQzcXVyOFFIZk9xRXg5aGduako5V09iN1M5ZlZ6YUtkSnFRNU0tVnJETkwyTlZyUm4wYUwzXzNwbmZtWkN0ZUJ1TEZxVDRaRlN2MC1RNE5kTW5yZGktM3huSTNYV21BTm1kd1pMMFplS0kySVo1WllHZzBYV19yQThKQnR3aFNJd1dWeGtTQTZYTk02OTAtSGhlNzFPamJLcXozNjFDU1E5bkpWc05IUjc4?oc=5",
+   "published_utc": "2023-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI backed SUVAS translation tool intended to make legalese simpler, court proceedings faster: Law minister",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOV1g2VVl5d1FEM3NhWEpRU3UxS3ZnZWk3WGhGQm1FeDc4aFJhdlFIbnRCc1AteTNzenRYTWFWbWFkc0laT2FLeUVkVHhzcGFQRngzamN0NURoQklKUm1UOThvLW1PTTNOQmdtZzV0QmNSUXdTODRJQUFWdHZsM1FUQk9aX29yNkhQUTQwWTdYQmR6a3hnRFhvbldMN201RU1waWFBVzREQ2tYejNQRnlJU2djcHR3NEU0azFCVEc3eUk3Tjk3cTJNSmc4cUZYZHlMbzB4XzczX19RVVM1al9zSFNyS0RlblFKQk1yVkhGdGFJNTdzUGMyNl9zbUxJZF9pSnh3YThKVWFVUdIBjgJBVV95cUxQOEdyRE1JUERCSENIOHhKR3FSVEFHTThxVmNQeE9nQ29FYmFGM3d3a0xOYmF1Z2xDNFpkN3pmOWhIa0g0Zm1TZkFGMHQ4Wk92cVlJRWowaUplRGlrd19IX3NNMWdEbTAtUzhyZEtKOVZIRUJFZkhfR2M3dURUSm1NMHpHWi1xR3FCUHhiaG9ZUVlQbU1RZkdwcVN1blhIWTFRV2Vmb2tSS2NiTnpISVRCUXVqUFJOZno1VXRPcklvWDlyb1d1aXZBZzZmT2VBcGtBRDRfZ1VuSHJjT2hLNTFfTTNsRG8wd1ppSVNQTktMd0t0ck5NMHJuUVcyRzNaeW1GYjhkWVN3c0FfelYwZHc?oc=5",
+   "published_utc": "2023-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Manohar International Airport: Goa economy will clock double digit growth with new airport: CM",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUWk5WXRKd3p6TURtOXFWc0dSX2RHdl9ZcklLZ0pIYjdDZHpLZkFSVmxRZ1MzM0FHSFVVcTlLeE0zOWFlN3poYVkzYW05LTNJcDFiOW8xWm1TR1U3b0VaY1VfUVhUQm5tR05ZT2lhcjR2S0JPM3djd01UNGM2T2ZJbHVPbVMzczJQSFVTbHhDbGVuQXVrdjZ4dXlJdjNBTlV2QVgzZ1dEQWRPLUVad2NYcVVCMmpyaGpmYXNzWDlqTl9GazRDdmhfaFpZbm56blF4Uzk0c2pra0R3UkRyMmtKcm1Hb2didVVudmtGSkNweWdFQ0pIb0EweDZGWdIB_wFBVV95cUxOX2JMVmJVRFpiLXJvdWlRR0d5eVgxZzI1cS1LenJ4enVndDV6Q0twTThQakpZSWdsTHZMODlpNzNJRnFyN19EUVVVZWY1NVZUSGFHWWhJRGxpMXhQNE9ZaTAxTmZWdTB2UVQ0d0tsdEVXNDhsYXRVdURqTXhiQTlCcnpjSmMwZ1NHWEdqS1FXZ3d0VFdHQzNNZ1R0Vl9CaVZFTFR6UmNwQlN0WktYcV9ES1o2clpiRm5jemZzSzZmNHVYUnI2R3hpbUV1czVIZDVvSUQ3RFV3dUNnWGd5MEtTZ1dIX09KVURvSEZjc2lwc3NkeFJicGpjeTBKSVBMR0E?oc=5",
+   "published_utc": "2023-08-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-backed driving test tracks to boost safety in Maharashtra",
+   "source_name": "NewsBytes",
+   "source_domain": "https://www.newsbytesapp.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjZDcWc4VEV0R2lJRUlLci1fc0hndV90aXlMU3BMcUdZYVVNWVBjc1ZqWlY0dnk4UlZ6MVRNOVhtU3hvZDFXS05hbUFnbkdRN2dQUDdBVi1ZUDhzZlFBMmVaVmpPSWFwVUhJSUxhYnU4TERNVWpFU084a0F6Q01vLXJhY3ZyX3NIcFljZFV6X0F0MlJ0Rk5ET3p3bG8wSFVYakNQcVFZZkpnMExJNEE?oc=5",
+   "published_utc": "2023-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

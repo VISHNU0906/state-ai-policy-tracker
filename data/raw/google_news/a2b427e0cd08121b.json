@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Odisha to get medical college and Ayurvedic wellness centre soon",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGV0VnhGMkhUQjBZcXR4eEhVWnc1Vmd1S1NCc0JFWmVMd0YxTzFQTHJhUnlZNGVoR2h1X01CVXdOOWJtRkpYU205RDFoNTA2a2VremkxZGFHVzBBdkl5NnRyMDZGbzVKd24zdklzUkRBQjRDVzd3SlNJSWhkLXB6WDBxalVQQ3hXNDlsa1BzMWVScC1HaUNKMm1SdDVaS0d1NDVpUmlMdS16UnVaU0RQctIBtgFBVV95cUxNRG1lRl9YeTRtZEhWNndWdGF3Ny1uZXZtX0dqLVVHa3UyV1BXMDNLZlNhMnhYVjU3dTlQR3ZMRHNvak9fUW9jMHp4TDhCaEJuOHd4Q2tEa0hEQWRFUENlYUx4SHlMMVFLZWQzRm10SWM5QTNBT2dObzVablVTVFVrUUJsV0tmaGJOLTQtN3VuS2hKM3lYSk8tSFk3R1NlNVBYa0tISGFfOEJwWFl4a3Z1eWZkQi1odw?oc=5",
+   "published_utc": "2022-11-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "President Droupadi Murmu Gets Emotional As She Visits Her School In Odisha",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWkyZDcyRGNZcmYza0xqQmdZVEJzV0J2VXVlME9tdmxLMzJEcDBscVdpb0RLZ1EyZVh6Y1hfbGk2MUtiTC1xMEMtc3VGaU5DSHVKeWxEWDl0SnVTWDlYWGhJLWkyeS04eXJ0VTVkMjJ2c2JmVlZOWkJ6eTZMVDIzZlM2blFPODRCOUw4dlN4TkxPdU9hTjNQNFRNV3o4STI1TXp6aFZtTm9QYmQ4bGNhTWYzb3RmUdIBvgFBVV95cUxPV1gxNllVM2ZtczE5YzV0dmxSY0d5Uk9TWkRSLXNtTFRvODJLc3V6bWhPRlJmRzR0OW56NjhWeV9JVUVoWXdfVUJCRmVWTUEtV0s5NDliOVZpUnVyTFVkYThuQ1d4V2dCODJwZWFNQ3NPY3RueXQ2XzNmblZ3VlhCUzYyemRNTGlOQVhhOFpUYzJKTk1kb1hLeTZYdVpiVkJXdm9mMzV5b25BMlE1UFI1U2lrS3hJbjhiU1FzcmdB?oc=5",
+   "published_utc": "2022-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pandemonium in Odisha assembly over farmers’ issues",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbW1GbG9TMThfUG1rNi1vazJlaXhjWHdJV0JmTFRVdHRRdHE0MUZlVGFwM2xTLVNONWpzM2RfMmVLOGlGc3pGb1VfV0pNZzlDbDFyVTVWWVZVTEkyeGM1TTRKdEhxUmVaVG5Ob3o4YVg0ZFFKWExObVBySV9ZN0JMc280Z1Q5RnV2ZkdReFF0ZGE1UWdIQXNmUWNBdUhSaUZsUEpGSzc0ONIBrgFBVV95cUxQVHhRaGNwY3B1UXFFN1Z2WWZUSDRsQkF2aXk5ejk0SkpmRWx5ZGxZcjYwazlmQzN2NkZ0QXZlcHFtMEJFcld6elFTRGJla0w3Vi1VaFROeWVLWnlDbDUtbERnV3VRLUp1eXI3NGQ2cllaNDNPc3Z3ZS05VEdlRFlfdjR2T0tsRWpMemh3bW5XZlY5djN6RDU5dm12azlmcVZfU0k2N2tmb1ZmRmxpZmc?oc=5",
+   "published_utc": "2022-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIOS certificate valid for OPSC jobs, says Orissa HC",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVNCdFJNaWdfMlBDQzZKQzM4VUZiYjFNOHA3MTRPRGlwckxXVHE5SEdtUU10NHAwZjloTTlxWEdJbkdaOW01dmNwQkVLVGZ6Vks1RzFLTDVTandJMTUxZG5kekloZDAyYWl5S1FFanZ6V0pqUjFVMVBILVc5Q3ZIekh1ek9YcldxNlBzZXBlOFEtdEtUVExrLXRhal9QS0xvenltN0EyWUZwcmsxM1p2UFJVd29LUjlBbDBFTzUyWDhLRTDSAcgBQVVfeXFMUFBsck5mMlk4LUQyaVJXczBPbFpldTdEVlJvWU4ydmtzeVpFSDk3Yl9GS1FaSVZoSVdSejI4UWM1d1JGamZKN29PRTlCU3J2OFFMZFRobkppZnV3d3k5UkpvY1NOTDRHVzl2ZkhVSTljLUtuSnhvX21rRUdjUWJXcG5zNzUyM3RJTkRZS1AwLUc3VWh3YWotRUQ5ZGM0VFNPS2xxdjA3QllxN3liUzFoNUY4OHVDMUo1ZmtEa2Z1MURaanJEdXNrWFE?oc=5",
+   "published_utc": "2022-11-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: 18-year-old girl's 'mutilated' body found on Puri beach, family alleges rape and police inaction",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVVNHc05ZdXBtTVJwb2FtUGlrM3UzVlE1eG9pSEV4MlNSUUNoNnVTeC1zQTFTVmdUdDg4X1FfUFBqV3JoQlBwdm5Ud3B5UGR1RnN2cndmS2FfM3ROMzNVcVdXSzM0S21jT1RlWEtmUlIwVHQtVENaVWZVc3dFTjZ1VGxHRUl5YXBDcm9PLXJnMmlPLUhZOUhtSWwxVDVTb0ZId2lFd3hrRzJyS1FXckhkaGlKSnZPX0lDbGF5TkM0ZlRUOWJXTVdMeEIzRUtxUUtsNE9nTUdBS3J2czdDQkE?oc=5",
+   "published_utc": "2022-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "“Data offers endless possibilities”",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByRVp2QTI4cE1MajNoVUtOUHpnS0tZRmQtaUp2bU4xZVFGSWZBRnQyU1piVXZra2tpbmpjLU4xMEk0Zmw2bWg5YmZNOHRfZUVKamtlX1U2X0J4S1c0cTBucVVaVzlRbGdsUXAwekhWam5YOVNvNHRETWs5dw?oc=5",
+   "published_utc": "2022-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta Aluminium felicitates HSC exam toppers from Jharsuguda on Children’s Day.",
+   "source_name": "Vedanta Aluminium Metal Limited",
+   "source_domain": "https://vedantaaluminium.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGZ6MlhpNlhaZlZ6NEJPOTl0YnJUNVBPem85QkZ4WkZMd3hrRmR4X0tiY2Qzazk3Vk82NXlNTlo3RlZLZVZoOTAxeVc5ems1ajMwTTgwbmx5MHFOOUpVNEVwVXdlSk1ER3pvanpINkVWcjJBbnM3VkpXVURuLXZQTXlFZWxhaUY5cFZwdEp6MkxQRnBkb0pjbGItanZMT01wU2pGdWNIa3E3VDdOMjRObEZudzVFQ1IyYjJuSEdObnRNTEI5SVI0d2poUWl5TWF2?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Kills Girlfriend's Brother, Injures Her Father In Odisha: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczM5VW94cXBDdHJ1QTJqSE4tb3p1TDZVMWFsaGNZUlN0ZEhsT1FsOWp0cG5KU2dMZ09wakU4X0ZoQnlIdTg4YVBDVHJRMWVFbDVTbWc1SWhMTGN6aWVXOGdWUDlJNElSUVRqbHByaEcwV3Q2NlJvWmtZcUotR3lTYVV3cEkyWjR5TWVHZVBIdmFIU3VnZnl2UUtqaHZoaFAtQW5wRlR2cDbSAbABQVVfeXFMT1lfdFFVdE5IeFZFcGZmQVdrbGE1SlE2eGI4b3NPcUFLaThlTU9aODAta2xTcXFEUHBwcXUxU2p2XzhFNGQ4b0tMcWhzOUU3X1dKNXJpLWl5dk9YSF9sVnBGWDVrbGNVOEpub1FqSXNuRkFYVlpJSEFBSmVrTDhlOG5hVlNOZXZ1MEppOHd6amJpTlZ3dEs4cU1KNHp6aU92OUV0TmMtQzFlMWdTbjN4SzY?oc=5",
+   "published_utc": "2022-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "e-Governance bridging gap between government and citizens",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGY1R1BJbXdGUTludzN3V0tsZFhZYWJUWFVoYkpNS2VlcEJqYlh1NEZFdUVWbnRrdnFXeXlEV2hncjdocmZiZkZaaF9fSTd4bzRwazZlWnItenZKZGZHd0VSREtCVkF5VE9tcGtMVEszVzg3VkJDcXdueEpSYWl1WUNHd2ZTX05wNG5kcXRRaVp4OEFkbjFTdWlBbw?oc=5",
+   "published_utc": "2022-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SRL Diagnostics launches new laboratory in Odisha’s Sambalpur",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMVEzTDdZTDNSc2pzclM0anVrempPRV94RUdzb25zTHdLQ0s4aVZiSVI5UTRocFkyRWpWVV9wd2pGLUdUakNJTmppanJ2cG1aenNkSlZ6RC11WEVPOVRERU1hSmgtMk52QUEtTjZFZVRDQ3dOS3NFeEFocW1RTHh1MkpYRjdkcEd3MkdOamphUV9WNVZ1SkNwZ1ZWUGdtRFFuSHh4bXk4RXJQN0JaMTQzTTZWb283QzhITkhBRUlXNNIBxgFBVV95cUxNSEFUQThMVWJwZ2FNVFBwNUFZOHl0cUFPaHBaQnI4eTFtZlpVY1V0ei1saThyZVhDUDR6cnl0RVRiNHVXR3Q2cGFFMlIwbE9fZ2xJSVlQQ0JtMUUxX1hhZkRyMlpSVGVrSDI1a0NPamM3X1VwaElxMUhNeFVHSkZBMlhKdnQ0OGtKYjk5WU5WZXJWRHRVdEZXd3FDMHNBYkF6ckJYX0FBdzh5UXN1TUdYVi1VN0dKaDBTVFhlbHMxYnh4UkFKWEE?oc=5",
+   "published_utc": "2022-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

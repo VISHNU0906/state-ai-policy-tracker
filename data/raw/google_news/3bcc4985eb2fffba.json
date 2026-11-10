@@ -1,0 +1,45 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh To Build Rs 100-Crore Saint Ravidas Temple",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjd1Zjk5eUg2SXhidnl4VEZ6RVJXZDNFcEx2MGVfNkFmNXdzOFlhNTB4bXlIOURaT1V4THZockREdUxlcTlDWUVpZ2NmaVlNVWFuZ0Q0R0xTdmxoNHllam1vVWUxQ19NYUoxclVxbkFCNEFTelFxOURnWHh2YVZPdUZ6NjZJX2V5Wl9oQXpINVVheHF3aWxNX3N0ZWZxUdIBpgFBVV95cUxPWmJuWklhUmdaRTd6LWhHX2JuOWRwRjZ4RlZrbWJqN2V2MFdQeTdnRE8wUWxKZEtNNmRTODNpQ0lTa1ZXYkg2cFF0ZHZuNUFMdXgwZlJtZ1dMVnRfZ3R6ZXZOTUZRV1JGaTk0SlcyZzQzM3ZZU2NaNmZuN1JnZlQwc2JfRlJfWmpEYVhBXzlTLXNzLWNtOWRHM3FLdjJlTG03aWExUU9n?oc=5",
+   "published_utc": "2023-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Foundation Stone Laid For Rewa Airport, To Be Developed With Rs 300 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWNEUGJWN21hSWgxM0U1eWxpM3N1X0ZkbHdfQks2T09ndV8xaXlKQmtZeU9xRC1RRTlKWWRERy12emFLWWY3aGhXNHA0SkJNeHhQR1RGTTVrNFkzS2VDWjdyb0NVbFA0eHBWckg4R1dZT2VVVkx3TnJBRDNiMjhHVDB0THJ3X1FTSnZ3Sk5aZFpzb294YnVrXzFQZ20xdUlBXzNqb3VCemNRaGNQajlweFRxbkhfeTM1djh0c21qYmlUQ2ZZ0gHUAUFVX3lxTE9SUjRmZjc2TkhIbDJ3X09Pd3hGakFISWJfT0FLalVCZmtHQllXTEFwdl85Z3AxbmdnS0hPTFg0bVdKVkJDSmdPWVhKaWx6TDVfV3NnWEUwTnkxcmh3Y0FWeW9qUHFHVWFvMjVZODdNZlpFVEtNS1htcnhFX2tLeEloVWd2aWRxUG56VFNRN3o0XzVKVUVjQTlyVEl4ZE81MVUyZHBlVUNxSmpvamNaWDJXaDY2QzZxNEtvQ21RSXJLMGxCQXNualZ5UmVrdEtVSDAyZEYy?oc=5",
+   "published_utc": "2023-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh's New Liquor Policy \"Discourages Drinking\": Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVRtQ3pfLTRKT0Rkazc5ejRhQzVVci1lQVo0TVZocGlqaW5lY3VOd1ZOUUNWWFlTa094U3B2cThOaHN0U0YxTWIwek8zUjlKR1o1b2hMUVB5WHZLcjMzdFB5ZjJnbjVGWTVmYVlHQWRaN3Y2QlhCcVk4aTNSYWxKTDBUQlJZYUNNOE9nYTRVOE52UkRxXzUzXzJSN19nN09zVzcxY1FNazVoYWl3ZkgxUlRGQWhPSDJ4dVJR0gHDAUFVX3lxTFBZdWFFcXliU09sYXFRcVZLR25TU2ZRc09vM1RBRmhpZkVnN2VuVE45d0FadGhPYUhJT1RjRnItNXBsWk9BOGR1VldvUENtMHFkaThmcGM4SDg4YXpxMjZVdGJHZnp2ajJIVE1qdnM5M0x0b0tfa2JXVmYxUXJ0bmNsb0JnWUdoUU0wSWNFT1VpRE9xOVBqUVJSZkxpYzZhUTZaNzl0UjFVYlFoTHBXRkNDUUNOS3BiSjVmaW1UY1pqdllwRQ?oc=5",
+   "published_utc": "2023-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Bhopal Municipal Corporation is 55% behind tax recovery target",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzROeEtWcVo3WEswRGsyVWZhcXZCYm1TdTdkdVpBZ3pONWs0WU81VUNfOWJPbjBDLURYb1phZmxSOWdrZHBSbG8yN2VMN1cwNWwzWGFER3ljUGJrTWRSTy1kc190WkZEMlc3am5OM2ZIMV9NM0pnVkZlSEtmUTdDNnRocmo1aUZCdUlvTFhqSHI4UmZBTlFVMHN0MXpFcWd6VDUwRGZRU1FEYWtOLW1MaFRsVDlQQdIBuwFBVV95cUxPOEh5bGxfRHVGMGlaeGdTZkNYWEVqNzRQMFRsYnp3UnFSWS1aRlJIODZTV0lXbFoydlFVeUJFSHFuUFQ1ankzTF9XT1NhQmJhMThNaTliVGdzQmZPa09WYl80ZjAtVmQ0WWRWbGdzS1lKOTh4QmtoSmZEcUk4bkRBZ25zaDZMZ0xQMHpXOXk3WldHeVlxSS02ME5PSWpCMWk5d25DelMtVExwSUtuSGdONjlmei1LMkJMY2Iw?oc=5",
+   "published_utc": "2023-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Meter gauge passenger coaches to be shifted in Mhow",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLTBWb3lmcllILVJLRXM0ZWszR3FScHItRW9hR2VNNEMzV1g4dVU2RHlBMDczTkdpb0NrdDJKVmF0ZzhoelJIY3VUQ2ZSbnVkWkFFSHlIWFRLTWJOSGhGVDY5TUYwMzZOZlhQZTJiajVqNDhLOG10Y2tOazB2QTBEQ1BjcDlMVjZGdEZQa2xSVldLcUFwVlBJN3N0S3h3LVFRWGYtR1ozdXHSAa4BQVVfeXFMTzE0WG1VcWQ5NC1zY3VsRjhIX3BPbldha21sdGxjLU1LMjNXTnJJUGFMLVpPamFTVHJ0RGNBRlJFTU1jN25xY1VvbjNfam9NNGdRNk9XWjd0dlFybGpZM2h3VzdpSktfdUhpNnBkeVlDbk1ENGZXSXlQTjhjS2owdC00UWVxYVdpdEpNMEFNSTVHbmFRT1FJSXVDM0pDcThhU1FEZXpXcWtaZ0JxYk9R?oc=5",
+   "published_utc": "2023-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

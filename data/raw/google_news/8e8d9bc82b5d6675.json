@@ -1,0 +1,21 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "CapitaLand rolls out International Tech Park Hyderabad Ph-1, kicks of development of 40MW data centre",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORVpsc2hXSVlTNGtDR1JZbzVadTRrZG9NLVRPTjF4cWh5dm1KS3Z3SU5tM3JJQjhHV2l2emZzMU9TRzB4RkJDVU1KZmhubF9KZzVDUWV3VTAzZVFYY2pObjVSX1pBRS1NQUU2ZWRvaEpVTDliQmFLZS03Rl9OU0QzaGhXZVJZX3M0TWNfZUpkNFpwN2toZHpMbm1JWkFYN3RPT05jZkNBLVBIbjhGa3hnNWNSUDNmdmdCYVFOR1VycGtPMHdja1BkWTFfNlhTLTl2c1FEUllOaWFEdEpXRzRDNzNyd183dmIwNk1aZm5vNUUxeHFwamJSZFA4YkbSAYICQVVfeXFMTjJTLWt0WW51TzNERUoyX3JIaUk3alpIXzJsUHlTZ2tmX29aMk5KSjVFQmhhZUJadGxMVGpiNDdJZHNvTTQyQVFXQWZlNncyZ056NVE3RFVhQkRmTXc0NWtsaFkzUlFOMTJONGFYYnptb0IxLXd5V2NWQTFRUThySV8xTG5Dc1ZlQTA1bExQN0ZMTHdxUHlMQ0ttcFhTMHBzVW9xbWRkUlJlSzZNZEVQX1VIaUxickNaZmdKSEpldkoyeHZndVlIbUVXeFBfODhXSTZCN1dsb1IxSlNuOGwxQjJsMjg1QUhxWHlNZExCZUlIblFBWDBHRFRJWDdlSjdQeHBB?oc=5",
+   "published_utc": "2023-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CapitaLand launches International Tech Park in Hyderabad",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMHNJVUwxT2kyNUU4U3JkZWw4c09acGxoMmpfd3RRWmNtS3djMHdwMGdySVBNWHJQaHZmR3VYaDhNQ1lqQllBSmFwOXQwdFpDMlN5QzBlSHV2aW0wa3dlVTNibnhxTEo2QkRYMU05anFQTS1TbnNERFR0YUQxN01uTTNQRUl5SV81MW1F?oc=5",
+   "published_utc": "2023-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

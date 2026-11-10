@@ -1,0 +1,77 @@
+{
+ "query": "\"Gujarat\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Prime Minister lays the foundation stone of Global Centre for Traditional Medicine in Jamnagar",
+   "source_name": "CMO Gujarat",
+   "source_domain": "https://cmogujarat.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTVjaXUtRlBqNV84S0pnNWhtSjliNThFeThYb1BNX2FDdk82UUxJUlN2WnhXVFpBSjlvOWdTcElnT1UtSTk3cWJCUGtCZExoeXh3SXFHamNxLWNBZUdaRFBMemNLdFJzemU3dHFwMkJkWlYtM0VXUUo5MGRRVGRGY1QzTWo0Wl8yZ2ZnOHkyQmp3WV83N2Ixc0F0SGRlSzZBRmtlbVdPTHFqSkE5YW1PamQxOHlxaGlrOHhRcS1R?oc=5",
+   "published_utc": "2022-04-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Smart Cities, Smart Urbanization’ Conference opens in Surat, with 100 Smart Cities joining from across the country",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbG9WbnRHRkdUVVozT2lhY1RvbktlbkdjTVhVdWUwbThTUFNaNG53dTNYZG8zYlhDcGZDVVRKUEN3d1lIV3Q1N2Fjc1VTZmViVU1mTFFRTDF3bkFqQ0JMY3pNMDlpdmx6cUE?oc=5",
+   "published_utc": "2022-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘They Burnt My Parents Alive’: Gujarat Riots Still Haunt Victims",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "https://thediplomat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOW11Sk9faHFqUjVjLVY4cFF4YmRpR05nVlRyem15S2thVGQ3WnBXeElCX0tDZ2MybVdhYmRQOTFYbTlpbHlvX0ZSZU1wQXJGbV9rQy1iZHVEM1BVcjBZZkozYXg3dmVlVGVIaG9qM0hIZEJDSTFsOWUzS2pRVFVaSHNQdDM1cGgxXzRNM0lCQUI4MGUtQW9NSzJn?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala chief secretary VP Joy finds Gujarat dashboard system efficient for good governance",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVHplcDBHeWNOQ0M3T09FS1dRTnlrc2JfQ2RrbEdTcTRGY1gxbkdhbGdZdlFNTy1zdEJ4RUI0US1HQ2ZaOWJGMnJLeG5ienF3SlFMa2xxdEtEQWxHQ0lRbzBHaWtFSXg3ZnZhWWxJMzNTTHR0UG1zblJiTjVRTzE3Sjc0eEQxd1lQUEZUWGZTcUttSnB6V1RjVUktemZONjNPWlBfUDk1d0hwUHJCc0tqbnBLNXhrNGtYRjItcUMwYVBYbUhpZVlLOTFYNlFwWjFiYTlWdy1wbTloSnJJNnJtZVBNV2s3c3RSc3pRVjVIOXFYZ25iTHViNmdR0gH-AUFVX3lxTE9oR190UXU5cnVvT0EtcE55WHlvT3lQeGZFSUpHUmlfeUZvbDBjZXlwZUlaTmNLVWlRNzFIWHFEc0JyWHlIcTNxaWphYmgwY0wwWGdEODhxVjE3N0RtLV83Y0gwXzRsZGxzaWVwc0tRdkt1X0dxYWZ6RTIydHhfSU9YUmk0N3ZyaGhMdWdzNmI5Z28tekJYVEhERUZJRnpwNHZWZm1iMHQ0TVFVZUMwLW5iZnBvQklCY2RBRmxhNDhKZHpVeDdMRTB5QTRIX2V0QmJjU21idWlFLU9sRnBNblNqTG00a0FyTm1pUTNxdmN4eWlwa0hsOFJvMlFRelpR?oc=5",
+   "published_utc": "2022-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM announces £1bn new commercial deals on landmark India visit",
+   "source_name": "GOV.UK",
+   "source_domain": "https://www.gov.uk",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjN5X0J5MnBXOFNVSk94SDdyX1o0TTlBaGVvcFlLTzRVUkZjcDUzb3ZGX1VtQ3lMWENHeUZoN0xrVmdlbWVoWVBXNUVyXzJUTldxUWF0SU1HS2U1dVVub1k4RURKT2VnaC1mZVZzemVEMVVBZHF0ekVNMUFHR0tnT1lmNTIxaGRaYXJxOWpjazA5NmxxVXJaSDhtUks?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat trying hard for textile park at Surat-Navsari: MoS Textiles",
+   "source_name": "Fibre2Fashion",
+   "source_domain": "https://www.fibre2fashion.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXVwNEtBR3JzNzU1VDF5M01EcjFFM2Z5YmZQUlNTSTEzQ3NZdGdZNXZHVGVVQWJSbE5XT1VVTmdUSmZqR1ktTFViU213RnNJdUdIZG05YTdhT1p6X3FWX1NRYUc4dktKbjRsdWwza0JKUUZaZUhrMmUwa1lvcFEzYjhpYUhlM3VMMFdpOG5CYjVZVmFQN1BFNzF1aFZjaUNnd0RTdG14WEllNXBBN0w1ZFkwZUYzSHRNNG80dVBLUWRXN1Q5Y0dkZHFUTDI1YjNpUUtj?oc=5",
+   "published_utc": "2022-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: Gujarat govt’s control centre to monitor educational projects",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazhoSDFjUXotMEhJNlFKM0NKTDVUdHdIa3ZpZk1fc21xNEJtT2JOVnFaOE9rWUhjc1hnSm9jdk1vV1RnT3dKZ0ZWZmg2UktCSlF6eWQ5aTdWaEU3QjJnb3JDMEthczdQdlRwZS0zQ1FKZjN1N0V0ZHJTWFBoVUdYeXRtREF6N2JiUUtQZ1hMbkJlOWpBZTU3MzFWa015WmNZQzEzeHc2RWhWcENBVV9wRlprdG5KUFRyTWc3UNIBwwFBVV95cUxOSlk1Rkl1MHphZmE2R1VGeGtqdlRPeGtyOWNlWU5DZ09hdDYyLTdfNXBsRHpISHJnM1Faa2hOQV8tbG1IdTJrWENSSTZYbUZ3WTNiLUdBSUVZd1pjbTZteHJxVGZ1cVBtVTlaRkd0OWFVN3pIQUhILWR5UWRfRGNtWFM0YWVadVRrY2dBRWh4SklDUEk2OHhLMlZiVkdvQ1ktenIwYlo3QzZscUNLemY2bHlTV2ZDME0zUzE0MFQ2V1hGSjg?oc=5",
+   "published_utc": "2022-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kuldeep Singh Rathore Named OSD for Agriculture Minister Narendra S Tomar",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1zb08wWkdKdFVsUTR5MHVFaEJ6eVlIQUNtRFRkdkhFbHVTaWU0dG9DcXplTHlfUHFITHluZWR5Z2ItQ25NTVFwQU1PMGhJekFfV3BTVk9fVzJ1WEp6VFF4T29ZWGpyVVQyR1FvRWpuQ3daRDJHTV8yQVAwelVkdjBXMmtIWFVacU5rM2VQVlhxZFZRMFpUNTdjU1ZCaVhtcldjSVpFZE5SMmlidDFSN2pUVGpHSXdB?oc=5",
+   "published_utc": "2022-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Smart Cities, Smart Urbanization’ Conference Started in Surat, Gujarat",
+   "source_name": "AffairsCloud",
+   "source_domain": "https://affairscloud.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXA0dTN5YUtXQlFPNm9lb05UcFN6QXVHeUdLRGU0R0hXazY5N1ZwR0lxWV9OckVLWkVFQnRvZDVEN1ZpZlVfY0t3UW1wd21UckVkbUYzeHhJYngtaW1GQUt3YktCMC1oYXR3YUxHLTR4Z2N4bHk5NFoxS3VvNFZ5b3kwUVBpdTlTQVRmaE5Ca0M3NkI1UkdPSg?oc=5",
+   "published_utc": "2022-04-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

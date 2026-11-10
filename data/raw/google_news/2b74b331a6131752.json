@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Maharashtra govt bans plastic-coated, laminated goods",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjlGV1FPVmc0LVBnUklWR2NuTEtVcXhLaWpqUHpiV250ckZJcHk3QjdqdzJsY19vUUNGeXZKbU1oNFM2NE9jcEhGYmYtMWl3dHBmVXdmS0V0YUJWTlNFQ3JWNVhHZVlWX1pCR1ZUQzlrSjJhTzVOd3JTdWpoSDlzRjJNTXVHOGhGYjcxUlFuZno4bGVBb0FXV2xTZzdzU0d3ZldfcjNLamprZ0JNbEHSAbQBQVVfeXFMT0ZZN0dVMHAzT2VaWnM2WDc3dE1nN21ZYkZ1NGROTnRJVFJrMGVBWFN4S1BLTHdIdWp4UXRtSEZBdnpzb3NtaWdLcERWbnZYamFlYzdBVllxaVZFcWp5MWFiUDJ5Z2wxZEd6c0ZsZVhad0xnMGlzc1N0Z1dsbEJZMTZCMkNhZGh5SHRNNjNWX05hUjZuYkJ5dHI4TlJ4VjhIWWxOekJITWNNWUdLM2ZkLUFVR2xG?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Chief Minister Eknath Shinde On 1-Day Delhi Visit Tomorrow",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzZxT1l0S2VLNVRFOG1tZlh2NlVLdEJiYnM2aURpM0FhNzVxRkRsbnJ0WVUtX052Q19ZQUsyVS1abGdwdjVLRFNqcE40d1dPenB0SWh0eHktVEZkSllkRzJwUkJWSHZEQjN3dG1ieDNlaU1rZGRxNTlhY3JubC1OZHNQbzhiWV8weldkOG1WZzFPZC05MVd4TXJ5REdwc09WeTg0YnRBTjREaGFiNE9B?oc=5",
+   "published_utc": "2022-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Defence Ministry to launch 75 newly-developed AI product at AIDef symposium on July 11",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcGZYdGJ6bXlNck9uVmZEWVR3V3JQcVRzUzZLY21OdDhKSGh4YU55bldwd1FCMVpsd1ZEalEzM1dvZjZVS0JSb2ZhZEtSOVg2cUZNdFZmTlEtcE5iMVlabDBGNlFhVno4d0tmNHN3d252QnJIYm80TzRpV0pPZGREUjd3N090UXBwemZ1Uk1MTmY0VGNqaHFHXzZqQldFMjl3VnhUMENLR0xkT0VLOGYzRm4wVDRKdVlCaWNkVTFPWGUtS2lxT0FYYjJ4aV9XVWJzbWxaUmQyYnRRQi00bkNwcE1PczFTM3JVUXdWUWlicklpX2JRdEZtZnZ30gH0AUFVX3lxTE5QNzJRblh3XzNMNU8xRy1UMnFQa2NBOHp5RXVBdjZuODRIQmN4SU9Ec3l2QUJmTG9CWV9oQ0RuOGVaSEFfYmN5Y3FXNmNQVEJMc2g4bG1tbnBzNW1zOUpPLU9DSnR0ZkZrRmpjUVJYMTQxUE9QeFJaZVRUNXgwZHZZYy1TdkZTd19WS1QxQTlTeE1TbG9KY181WGp2UW9OMU9Gc1AyaEx4YnE4MVB4NnZrSzg1VTZ6RW91Njl5QVhGM3BJal9UZURpYW9UblNGWHNwMFZrQUFDV0NscTNFWFlIOTUwTGJWWEthZm5SRHUtdXcwWHk?oc=5",
+   "published_utc": "2022-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta Group Foxconn in talks with Maharashtra Government to invest Rs 1.6 lakh cr",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmpabWQzLTZqcGpEOHJKMW83b0Y5NHpQZG9LRkZoRm45X1VpQ0Jhc3RvS0tPQy1jbjAtbVl4azBzbmZiNVF2N3EtR0xQZDdwVkZEZGJJWnZ1ZFlmRHhjZFBhZGlLVTU4MGl3dlhXRGdMaXRWZnN1by1VTldkWk9GR21Wd1dvV3VTM3RMQmg5WVJiMGpvZDV0cFVUd0hMalE0THJ5cHY2Z19DTmxydFZCTFZUd3ZXcHk3Zkh4VA?oc=5",
+   "published_utc": "2022-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eknath Shinde's Maharashtra government cuts petrol price by Rs 5 per litre, slashes diesel rate by Rs 3; know new rates",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRFJuQlBHQ1JSTVppTWhzeHR1V0FkcDM1dzN4QWFURlFGUnpwR0o3UXBhbW92WmpQeUllNXRkSEFMTnFVNEs4TDVfUU54UXlPSmtDUkJpYUhvVWZXNmx5YVJUa1EyeF8yOUNENS1EbTlUbkJLNGk1NEZRU2gyM1o1dVFMZEVDdV9jeG1jLUx4QjdyRWEyMzFlQVZwNGU2NjlXaVE3QXAxUnZCWXkzel9ySGpuTDNPaWJDd0E3c3RnVkd0aUVPTFFfX3djOXhhODVLbXkwWFk0TUlnaXdfTXZRTDg4b3BzSTJLMnlpdXk5TVEySmFPRldXMw?oc=5",
+   "published_utc": "2022-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government removes stay on constructing Aarey car shed",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVS16bGs2Z253WUlGaXB4Mm5FeFVEQVBPX2s3dnV6MUJhTzdVWURFdVVydWstd2NWeWhYZmtXUV9vRWN0Z08zY2pESTBKS2wwY3VZdFY5Y3d6LUFnak5xTkVwWl95VmVQbVBuN1dKYTAwd1B4MDVYdlVVaW5veWt6bjByQnU5TnQtSG1QdE9BdmZuMmNsZE4zVWUtSmlkWnlZbV9DR1Q3NVlwb0HSAbIBQVVfeXFMT0ZyYVZtRi1TSkZSVm5sTXk4MXpNTF96LTFPU3BxT0ZFVEZ6V2JzYUpQYnJmTzZjUFhLNTk2TEFVc2VjVXAyUlVMeDEwX29aMXN4NGVPTUNyVTFBeGxXSWF1ODJiRXZmUGdTaUl2OE5QdmxsVUdKcVhqVEhvdHhBaHJTbGFYY1hhNXpxcVI0ZVJCTW1hUGUtQ2lKbVVHVnpzd1BOQzUzS09PM3VLRzZ5OE9KZw?oc=5",
+   "published_utc": "2022-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Team Shinde To Get 13 Ministers, 25 For BJP In Maharashtra: Sources",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS3dhcmdDRk95U1NQZC0tMkhnend6YmhqLWZSOTFJeFVUNWpNLWRHVENtbUpmSERCZGZ4VUJnSm03UmJjX1MxYmRpdnJCVmhuRzNzQzF6bnVUbHg1dXUzXzhQSm4ycGdDSzFzYWxTalRrSE1oT3VLRml2QXdZVjl3Q2UzWUxBX0RjZG0zeW5tMkF4SmxidW9OT3I4c3pEMjEteWJ5YmRoSlBtYk1hM2EzVVh2RTdSZTNjNTJadnRUTm1zaEEwMjI5SDg0dmdiUUxVcGI1Q0dFNA?oc=5",
+   "published_utc": "2022-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital India Week: PM Modi witnesses AI projects demonstrated by girl students",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPV1BfTlRPd0xpdXIzdDFGT3BlaEV2NmFjT2JBSngta2JBYkxmYjVIRWpxVkZqNl9ZR0tzeUE5OXhQcm8tS012YzRmWTV3NWZuaEdIbFlDeFgzUnR0QWwwMDY1OElHR210UExTTjR6Wll1NS1KaUF1eHBJN3E5T0NYb193MGdRTUVoeVp3RGl6UjBYdE9yY1FOM3JpWGM2RV9FaGVfdDVvME0xWTBadXZLWHAtWG9SaFhXYjgweUY3VVB6ZjFTblpKMVhiakljQ2RJM1VGMlhNcmFzaUE4dmRicmpzaXljaEtaSEJfaFNpLUJMT1VCUkliQmJMYjRmZnpWSTdjZGNOc2thRmJNTXQtUW5OMW5NdGpUZXNycWdzUGbSAaQCQVVfeXFMTVRpWVFBSm9CbTRKVVk1U3BtSDFScEg5dTQ0QXF2SjM3a1pGRW1YVVhTcm9hcGhtemE2d2JEd2ZFR2pyN0lJOTBBekRJU19hTWRjbEdXUTZqN1F5TFBZZEo1VXZfX0lGVUdBZHlkdDc0bzMwTHVyWGJsMkJJaTBfaFk2OXFKTi16b0pGRGtOMkFlM25QVlBjRkFMSWZIbmlyYnk3czFtSGVGNk9mZ1N1cUI3NG01Wkt4dUF4UnN6U2dGdng5TFdyUEZPQkdRbnVmdy1uZW14SXpnVFMyczd6VEVHZGxhTjdCd192YTZMbGpqTlVWZlFkZW9FMVR0TUdlQjZNWFBFSnlOSkFDSk1ETkhiR2o3M2Z0azNfR1RDUS00cVp4Sg?oc=5",
+   "published_utc": "2022-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eknath Shinde, BJP Leadership Discuss Maharashtra Cabinet Expansion: Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXFrWmwwN2U3OEdGdFkwNW9Zd1JES1JsRFp0M3BwMmVScDJlZm9aSmxVTUFLY0p1RGRmd0xsNk1YcXY3NEFXLXRfMHp6ZUcxcjBrbS1JVzRpTktRYmk5bTFLSUQtTjhrYzRLLXFXUkdDUVNveU54MTJQT0owd0U4ekU0cnEzQUtfWVFBQW5CSXpaeGZMNENVVmVCeVB5X1dEdVlTRXRqSTFKTWw4MmV0ZXduYw?oc=5",
+   "published_utc": "2022-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eknath Shinde, Devendra Fadnavis To Meet PM Modi, BJP Chief JP Nadda Today",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGI2QkJULXFvRTdoc2V1dm1rV3NQY1YteVhoVXVFTDBwNndVWkdGZ296UGlib2YwVTJENmtHSGc3MlA5bTFDWFF4RWRGX0hERVRnN0E1eWh4cktzcFYydWJ5UmdLY29saWl1U3d0aHY3cWFINmpIaFNHblBUbXFtWXhLSEpWUzVPUFFiNWZla1BJT0dmVGl1YmVEQ2pucXBraDNMTzVzN1psUzF2MS0tamZ3N29VX3FCa2FxNVZ4ZGhwWGhvcWxqQw?oc=5",
+   "published_utc": "2022-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

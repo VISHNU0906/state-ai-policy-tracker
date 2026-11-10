@@ -1,0 +1,21 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "Deepfake Videos: How To Spot Them And What To Do If You Are A Victim | Everyday Tech With Tanima",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOazdLQmJhMFVpdi1iUEpTY0NHaE9uZlJqZWJNcllpaFpIRHoxckJDSVFmMFl4WlQ4SHVOWHEyZ0hVLU9xWGphMTduNWVfNFQ2WUFIZ25FUW9SSXlUbFlHdjlqVEFwS1Y4MFhZTjZxX190aHhQQTNmT3RPQjY1dTdWTi0tUEZnM3hUcVUyZmtZd0hSOHp0dDhOU1oyOFB6M0RydjhDNm1uM3oxVFd5TWZRMGRUaFNHb0lTeEZNVDNrSUtzNVpxeFE?oc=5",
+   "published_utc": "2024-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | Rajkummar Rao On Deepfake Videos: \"There Should Be Strict Laws\"",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2Zxa282cjhHbVpwQ3FHWk9fX0Y3Nk82Q0oxWHZ2SWw5YmV1UFpyVUctWVhoak1PdkFlUHZFWjhZQkdaaEw1aVVLeGM3Y3M3M1dDOWEyY0s2c0Q5blBPSm5oc0lwN0ttM1ctbE5PWVdOcG5ZblBZZ2lkanl0c0x3MG5fZWJBUmIxUWxMdWZZNjU1UFpJYVcyNndR?oc=5",
+   "published_utc": "2024-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

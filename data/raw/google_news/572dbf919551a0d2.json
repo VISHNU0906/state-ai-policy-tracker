@@ -1,0 +1,77 @@
+{
+ "query": "\"Rajasthan\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Home Minister Amit Shah To Address Public Rally In Rajasthan Tomorrow",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzU1V254dXl5MkZhNkdZdER0XzIwVk55TEV5OTBqMVpLajZYWWU1bEt2cDlZWlplTUFkcHpRNGt2R0xwU2hHcE5ZRjRDQlRuT3VvcEJ1SEhxOEpURHhqLURLclZyaUhQaWRGcXNfYzVCdGFjREFjalJCRDRsSmVWOElrX19RdjRGSUtzYjNWbTg4dDlmU053U2dnbVdETVAyMUczejE5OUFIQWJHbUd1VWxKbFJCQdIBvgFBVV95cUxNb0pPb2JSRDQwVmhCbnc5d3hnTG1mRWw2aW43U004djYxTnpFY1VIQlhiQUFWdFk1Z2ZYY0pxTDQ3UHNuTEkwOFBFM0VhRTNuYXVTT2lrLVM3b1ZxdlIzVW42MmYybWxsdFFsZDFoSmc3WF9UT25WV2dLSTYxM2tHNDl5TldJMl9nQm1aX3hnQzJJektfc21sVFhFU3VVWktneHBJMDdQTWdzSHo2RkxURXdVVXhBMzRfUndvakpn?oc=5",
+   "published_utc": "2023-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Not just in Rajasthan, now Vasundhara Raje star of BJP show in Jharkhand",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3dZNjBjSUV1WjFqZzJvMWtfcFdJVzY2bWpNbmdQc05lc0JmbEF6cWRHUE1LN0NTUWtXZDVkZGx5RGdiaHY2eGttS1BfdXFqeG1JOU40NFppNnJUVlZBZWk4eG14RElrMmI2SUN6RXIycV8zS0NNSUtaLXdHUWw4ODc5RHR2LWJpekFYYjgyb2dqMm5VWE1ZR29yTHd4T2_SAaYBQVVfeXFMT1VOVzJjWDFqMU8yWUZuTXRUallmWVhkSU5lVnZxMnBkRXFkTXp3SEpsbTROV0JZejdhV3pub2hTVFp1aEtjVUNSR0QtSnJKUmhDZnRia0xOTmdvRlFjcURPb0wwZzVmOVAxMk5lODJHTW5PeHlRZHNJOEg3Z2xLM3FadmZFOXB6ZGRkcWtMT0ZXWThscHNrMjdZei14OHdiSHM2by11QQ?oc=5",
+   "published_utc": "2023-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt uncovers fraud in old age pension scheme, lost over Rs 250 cr in 4 yrs",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFdLQ0hhcVd1UVBJTGNKQ2RvM0FNMWEzdUl5QVRYOVN4UEg5TS1jdFBOaDAxM2JtaF9NMWFBM0I4S0pLQ09CaEV5NGFycUtNcE8xdXpyUEJ6dFJqQmdvOXItSUJQcUdJUDkyQjBoUW9hM1dSQ2s2Z0tRRXhBS0pNSXFQNkdWeFl3djIyYUl1cXRoWkdmY0pJd29XRDRhVWdEMlpJY0RDclo1Ungx0gGyAUFVX3lxTE9ScHY2c0QwblJjRHZGVHZiSE5KVXFod25kbjJJNUkyMGgwTlpIUE5DOGJ4RmY1aFlVZFA0UnNyUXpCOV9UY18waU52U1NjamdnTm1IZmdkd2pLdTNVSVZ0YndDd0VseTV0VVllcDNFcC1VZGtTb1ZlMTBKY3NHZTU4bW1HN0h3ekVBb0p6bzh6TzlDRV9YNm1TY2tmZVd6SVJmX2o2OWs2TzlZYVV2eVJXeEE?oc=5",
+   "published_utc": "2023-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt brings PCTS mobile app to ensure better healthcare for mothers, infants",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWll5YzN6ZktzcDJ2Mzd6SHREX1NlY19wbDg0SU5UZVlucE5qNThTbWNzcFJ6LWxrTDl3TFhFUDYzSU1wQ1ZqX1gzaE4yNzRqSWhJRkpKZ2I5MEZGSkFGUXctUUdVWW9RTDRkOHQzd1YzS2xIMGdiazU3b1cxMGtkeHZMVDJtQ1NDR2s3Y3BUYkwwU1dRYjE4V245ckQtNVBKelR6eWZyY1ZsajhlSHhzZXdRMEMtNU1LZDZ6TVRDcXhyTld3YkpUSXhnanVXckRybzlkTlR3WVYwSUttQmhZMEdfeWdoSWMxcU83MUxFbHJqQUZC0gH4AUFVX3lxTE1vNVpxU2pRa1dUQ3VhN09OMXlLOEdnWU04Unc2WHhELW9BdE5FSUU4LTlXV2Y3ZExZMEQxaXdCT1RCMk1xOV91T0pzVjZPczZ3ajQzaVgycG1ZUmRWOXRMU0xNbkU2V3NqYWlNd2ZRTFZVV1hqdUxmbk5JZ3NlUDJVRzhBckV5c1Ixd3Zxb1d1R1lJS1JlQ2hVMTk3Mk80OWJvWDhnMC1qSVhBNUEtd0thd3BZMEdBc1VhSWpJRUFmSFNhUjdSc0RNM05ZRXpEb1NWR05LcDRheGdMY3l2anhEZ0dIVFNjN2hPeHNpQzl6eG1feG42Umg3?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt employees now eligible for full pension after 25 years of service",
+   "source_name": "HR Katha",
+   "source_domain": "https://www.hrkatha.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3RzTzVoUnBWOS1xQW54R2dyYTNmdmc1NU1vU21PQ2ptWHU0UE1oYzJmSTF3OG83MlZUYl9lWXJjWVJzbF8zMHFuVjJkUmI1Mk9xalhFdjBJQm9BWkNPQVdkeWpZOEVhZ002ZEpkRkJsTlgydGg0ZWkwTXRtSkp4U09QMEZxb0doaTd2UzFpdm51V3FFa3czZDA3ZklmdV85bkw0bjBRT0QyWWRERzFj?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan: Neem Ka Thana-Kotputli road to be built as a four-lane highway",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjAxZGJhRnhyOEdONTI5OWR6aWVESUVDOTdoRW50X2x0YzRrckRmSjFhR0RWMXgtcVQxVW12M0dpdC05OGRDd1J3SVlyV1VSVmFPRDZKSTgydHljR3JzakhRVW9fWHBqX3R5TEdlQVlBTVVNRlVicUM1VURzN1JPS0RDV0YtdUstXzJzNUFUMEhIYnVpUjBrWC0yMEdReW1JTXpPbGFvekVoSlM4TkdiQmZ2N0V0SnJVOXJ1SDktVG1xMm5rZHhwMFJPLXdJN1FsMW5n0gHYAUFVX3lxTFBVRF9Fam40MnFUblpBYjFIWFgxbVpzZDM1OG1JNkdvV1JGNjlZWGU0WmJVZWxxdlV6VUdodk5WZEpNOFFlaGtMRzF1ai1lcjk1bWlRelhRTGhOb0gwN29OSkZ3UU0tLUxuZ3JBNUdSYmd3ZzNlX3RicWdZakRGYUhTS2V3YUVrUWl5REY1TEp1dTAzYS1jTURTbElPRlhKS1FKaXdPSEtqckIzMXUyTUVuUnAwR1RibEtSN2NhYjN4SVRLdjhVNURqanNudEJaUkhtWjJRV2hQRQ?oc=5",
+   "published_utc": "2023-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cyclone Biparjoy: Heavy rain lashes parts of Rajasthan, causes waterlogging",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcGJSMU5WTjNhc3ZNcG9LQVpCYk9zTTU2R3prVGVwX3VfSk53eUdQNHJZaVdhZ1VuY0pxVEpXajZidHVPZ3dxT1JlOC1NR2o1NDNKSEpEWHhyUVBmX2h4TnlsVHcxV0pITm91bUhEOGVGbXlZQkgyM2ppOUhJUEFNUWZGMFN6Q3hFNXdsXzFrRXdSenRQNU9ZWVRaR0JEWTA0WmptWm9OdWM0ZUxVZ3NiU21ybzVid1FmNEpoNTJiR2RyUVNIRzBxMVl6cHExNTjSAdQBQVVfeXFMTjczWFNzaXI0LXY2WVRRVEtaZnk5X2pqY1BXT0hacVlxUDN5SE9FbVRZdWFWWjdZU1J6MFlRcFZMUi1SLXVfSkQzRm5lanFQaGZnQmNOdURNVU1yYUFpcjJxRTZha18xX25mUUVCWGtTUklFZlc3Z3M3ai1fa28tbXRVQVNWNVB6R2JySW9xbmJHcFc5Q3pocnBDN3kxQzROMDRyNHRmTGhELUFhcm9jNjEyYkdrMENmbTROX29sbUp6cXZ1Z3hKTXlzd1FJelRCUk1lT2E?oc=5",
+   "published_utc": "2023-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Government To Hire Social Media Influencers, Will Pay Up To...",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlJLMDJKRmg2Ykx6amtERnhiVHhBX2oyME5BVk5BcVZTSUZLeUI2OGtMY1VBdExjNjY4YkYwMWRvcjlQZnZSV3dObXUzQUdOMDNBaEJRRFpTdEpfaFFMME8yZ0wxX0QwZ0t1UkhCb2pPZGIwMUhJaHk2aDZfcFdoYWppY2ljejJlaDJwLTVRY1JRZjVERHpEQlhBMzRicEhKdUJYamZFTlBvcnhG0gG0AUFVX3lxTE8yMW5CWjlHcHpKV0VvNndIWGY4S3VxS3I1MFg0dkhhTHZzSGl6cno0Z2dhODJBV0ZINWJCWVZ6NTFCLVExSjlzeGFXN3F5QUVKSzNIb2lXUzUyaTQ2NFRMSi1rQUZDRFdnTVhGUDBCUFNlWmoxeVh3SEVJQ1V0R0hGTjdRTV9yYVpnMnVWU3c5RHFXN0RER3JONHlPVms0WHNIMkt5RzZxbmo5QkJYVEdkZ2loMA?oc=5",
+   "published_utc": "2023-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Parents can use WhatsApp to send RTE related complaints to authorities in Rajasthan",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZl9UeGZfbDRtcXh4cVRhYTc4cm9Ccm5LOWZtbzU2dXE2N0VLMVI0VU1wY0hOVlNGNmtlSlpqSml5MEVTRDBWNlZhQ0YyOVVSVVF6cm1tS0YtNmlUYk9PbXEzQ1lLbURvN0hQX3hobDY1c1JjOTlGTjZBWnRKMS0zaTgycm1zUUNBYlItYjNGWVduTzY4Vm1NaHhDT0hkbDN2cnpnSTdEVXpNX3F3Zk4tTURkX05sQVRsTVl5NHJXOUpWeHNpZTZoUnlSMW02SHMyNTB5YldsTnlUSnFqVU5Xd1JFdVdIX1dWT2Zn0gHwAUFVX3lxTE9JMWlSQTNxbFNWU19vbEUwUWJ0ZGZGUTNzdkZvNWw5bG9nRTlETGFIU1JBanJPUGJ1bE1IYlJWaFhFeW1tOG0yNXRmUUhiWTNZTWZqVGRrdUdDY1NtVFZ5N2RhWXpTc3oweTZHWm5fdFFpYWlGTzgxcGhrM21NZHhFekRJUncxZzBCVjhBanFwVTJqVDVfamFrMnVMRTNiMy1XVTgwVWRJd2ZBVXBjY0FOLVdPcDk1U185QW9DU1dEaEt6UzNuYnVKTTI3Q2RKc3BtOGxoUWNDbDlybjd6cy1FVVJnV1pIa21RRHU1b21qSQ?oc=5",
+   "published_utc": "2023-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "Maharashtra government approves Rs 1,200 crore for another terminal at Shirdi airport",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTZrZ1JCM051b1ExTUFsODFNVHJZeWI4M1NGWlplTVVMN3NXUUhka2o4S09WT0F1cUhidkM5QkRoemZZZFplX2NQb1FFODUwQ0lXeERTSHk3X2FsOE1aVktMN0VyZVhQUkFYVGNPTmQ2NEpzV2FzN29vRU5VcHY0Y1kwS1RpcWt4VzVaTDJwTGZyb1V1S2Y5Z3paQ3JSTXAtX28za19CdHA2LXdBSXhiQ0N5ZzBnaGxxQjRWX0FQb3liWXhQMDNjYXNTaVJScnk2bnhQT1doclVOVk9EUGxwZTViamlSMHlkeDk3Q3dfd9IB_AFBVV95cUxOanhjRE1rNjR2aXdYclliUlppaldSOHlpT3JjTFNzQVFwcmtwREFGVFg4VFhtaU1ZT2hULTB2N3FKZ3FDNEFpS3dPXzJSZFJmSjNhT3VxVFFwWFdHZHpocmhScFRIV1hYSVdtcURHUTdUOExkbTNlVUcxTzAyMVVwd0w3alpBNWN6aGJaTGdnTGszV3ZqUXJzdExBektmTDFYZmd3dEY2TV9GdmE2MWVsQ2xrdXBZdE9PLXN2S01XV0t6WjFJRnZqVkNuSjFhampZaFBMU29xRnRLNUJjNl9ROFFvU2kxTmsydjVkMnZMNzRIb2Y5RTNYQXVMa0k?oc=5",
+   "published_utc": "2023-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra’s IT-ITES Policy 2023: Key Points for Foreign Investors in India - India Guide | Doing Business in India",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd0tJWC04SngyNUJoLVRSbG5DUnBFMEtiSWJRLTl4andpM2dQMDNrdDR2bWxSdldhd0hIa2tZXzg0czZJdFBEQ2tXNmg3Y0VWN3JZMkRjcFBvVi14XzVUQWNsdVNfR3ZsWHEtSVNVVXRQSl9tdnVYQk9hR0VUVEEzYjd5cktOV1VkdktRUzBaMmNaZE1ZdGdGYXJjeXVCa2F0cWRtb0xqd0s3QzVLTHFkajRjYVZxWHJ3QVA4bFN3NTdDNVMyNVI3Z0xseHdFU0hpcTFvLUxJeTNLdXRaVmFqb0NHVQ?oc=5",
+   "published_utc": "2023-10-12T11:10:14+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chartered flight, dinner for 150 — Davos outing cost Maharashtra Rs 32 crore, 50% spent on pavilion",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkZEM1VRWlVwb2NqUHZlWmJ1MkR1TWpueU5iMEFEeUV5M2l5azBqSktYSFpuU2E4bGU1Zk5HeUptRnR4QU04QXoyVnpNQmJCMDN4bkd3WGZENWlDWTVBUzVlOUU0STBtZzJwXzNjWHV3MWRsdjBjUVd1dUNuVzNVemNJcnJsTml3a0Y2ZHU5UTJ2QXcybVpmV0tOWGZCQlVYaDBvdEZYVUZ3ZFVxVVNEODVqOHVfMmJnRzV6akRaYmttSnBQTnRibdIBzgFBVV95cUxPRFQwMlZtRlV6Q0tZN0ZUSDctSVBzVWp2QU04eVpLSjdzRjBjTFlKMkRoem5nRWNwenJ2aFRTUXdCYjhxd1lvRmRULVMyckpFTlZta0J4bVB2aU9FU1JhMGdWVnJYdEw2dXNFZWJrUHY1UHBmelB6VDMzRzNNeWZQeHZrWW1NUzBiSGRPR185TEgtaGluZExSdHl5OC14X0djbHVSTHQ3LW1mQnlPaWRJVXZVclRzY2Jtc1RuQzZZc1IxTU5ibjR1OEwtdFhLdw?oc=5",
+   "published_utc": "2023-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt signs MoU with London’s Victoria and Albert (V&A) museum for Shivaji's 'wagh nakh'",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmd6b3JOR3J1cnc0ZVc2WFZGeFFsTUYycWdaSWZyQk8wT2NZRmNNU01vNUdPYzFhZjRmMUtuMF95Nl9YUWZoak9xMFlEcVFRbmdCTWJJU3h0bXRiSmxKTjA2ckluajlEcDlBcERMTzFSZXJuMWU1dFpDWEVHSUktUXVHYXRHd2JadnNSVTI3U2hwaVRBVGI0NGRMaFliUkF6Q2hhZklqYVVLOHU4NnoteFB2Vm00LTR2d2QtWGs1VXhWNUp6WjBXRUNXbWJXaTY3cDFRbVpzN3lHaGsyQjlYTGhFU1FNcHRBNjg2cDR2MVZ6NVBJQXRvOFJn0gH_AUFVX3lxTE9CU0lmbVB4Qm5FbVdzaE9kNkZhMzgwTzJvT2hrNXY0MnY4eEhGRDY1REtiN0FMV2s5SVpGOEI2VnJzUkE2aEJDczJjUEkxdFZoVHJiSkNSMzc1WTBFNWdRUXctSWMxWDZoUE45ekxGenlsWXlWeksxc1hZUW5hNkYxTVBhSGkxMnBmVUZVOGJKdmROa3ZyMDU1cnAzVVB5MVc2XzVkaFBVdzJCQmRBeTFjZEw4TnFYMzJ3NmFNREpLZE1uQ1FFc00tbHNHR09fV1pGUUl4VzhrenRUTFJRT1pDSTFXRVJrWkwxZzFxWU15YU5aeFRqSmNURGN1cWRPMA?oc=5",
+   "published_utc": "2023-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Double trouble: Maharashtra’s Marathwada, Vidarbha farmers face losses amid lower yields, poor prices of cotton and soyabean",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZWhjbUJwZU42c1pGcWtoOFNQc21laWhiVTlHZTkydWZCdHhwY3p2MGRTQnV1X0owdVdFRG1tdGEwdjZRSTh1bmo4SnIzcDFlQS13RFVHRE1IT3JQX29waTBma05YcEFsbGFucko2b1NwUGRIVzJ6akdqOTJGbUZDNmtYZVdWSXhNNmVqaHNhUjJzcXpoMjdfZmg3bGI1bkRiUUZTVnhiM0hVNlZrVjQ1UE12em85R19pZE5qdmNsRFRqN0RKZU1aWE1NRi16UGJPa0IzX2RYV3FEbkw2Z2pxVNIB5wFBVV95cUxPYXNhSlNod0ZoMC1GdWtZZDNrQXNlVjBQYjdaVDRrUzRCd2dPYXBHeW55UjBuV1JZSFRmNldYUmZzdDc0SWlQWFBCdnBfZXhDVWczVnp0MkwyWXMzZ3QxRUtJREZiRlQ3N1NJR1g5ZnhGMGMybkVLVW85MGdYTVFnNlgxSVBjUVdlQjNTaEtMdE5BUFR5T05ubFo5V0pvek1oSkhTU0JQRHFRNlFaeHY5UTYtaTdldFVQMGhSb3ZzVlotb0NUTENlOVNuOERCam12cVYzejJUNkJhSUdfNzQ4eVU3SENtaXc?oc=5",
+   "published_utc": "2023-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani gives Navi Mumbai airport a $1 bn push",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnRGREJoejJpV3Y2SE9EWTNicFd3enY5Ym1GQzZTT3pLY21LRzNsWHNvV2hvSTFvVjM0Qm5scjZCNlhXQ0lYVVpoQUprdXBleENLUU9Xc29oRTFoOVNBSWlOYWU2dVpFckFuX2xEN05keGtnUGQwS2tuMWJwYWV1emlYZ2lzU1FESXU3eXlVTTA2ZTlzM2VWUUc4eHhOdHV1ZlVFX21n0gGrAUFVX3lxTFBtWThYZGktaVVRbVA0d1hnX0ZpZThOR2dMZ1ZrLWtRUS1GbzNzY29fY29KTkFLSzF1YVJBUmdzWlhtdFNLaFhaOGZOSlFLVHFXenE2a1dtOW5nTkt3aDNtSmxGNXFEaVluYVBaWDVUdmJScnM3bmpUdHFmcGFUWGxyQndRUFFlQ19QUmNMcnVGNERZLVhrbUtITXdRLTcwaGhLSjd3TkllSWVGVQ?oc=5",
+   "published_utc": "2023-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NHAI upgrades ATMS standards, deploys AI to enhance road safety and digital enforcement",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcTVFYjZRdzBMRjNXcUVFc19pQUtzZXpMVVVJcGN5NGZHNV9yZ29Xa2RwWEVBeTk4bk1JOHctX0tzczlRLXBfLU9VZ3Y5UjFLY1BOZUR5S3FMdm9UOHFpUTFteVo5eGtkZG1oUkpzQTVPT29HemRvcG1XeDdSZmh1ZjVSNndLcTU3S3FNTlBhV0hWbG0xbFlySWVKcE9YejFpSXplcEc2S1AzQWFMRmxKNFcyWUd1VWt1RFJYZjViTmxnVWM4SUhrY2UwV1FkUV85b1JER0ZqUVNPejJSZnZhM2I2RlM4a3hFVFNzaEYwVkt5cHZ3VHfSAfoBQVVfeXFMTkRwOUppU05ZdTFHbWhfbFN2Z044YkNzVXhIc0ZJYWZMWkQ4aXJQUG1BcFBHcHVUOVZfOHhLOHhyZTZvaXlhT1Q1YzdiUXB6SzNDRVpyMkU3UGdySE5COS1kNU5nZXlJSFMzRkQxdHFEUGZFSGxoQlFVMDdEaFZfNm1IUXAyNG01RUZ5UE9IRHExLWtmVEM3VVg5ZlZIYTJOR3NCSGVjNk1rdGpaa0UxN3RCRUdsaUI3WDFQUHRHMXBCSW44R05WdVNWX2N0bjVjRkQtTkZCR0JycFdDX0VyVDVSUjF3OEIxVVNibmhhMmVnbDRISXUtYnVRUQ?oc=5",
+   "published_utc": "2023-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai Airport Customs destroys 3700 kgs of seized and confiscated cigarettes as part of Special Campaign 3.0",
+   "source_name": "pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91TzVjdGFYRFZrR2x1OGZ5VFpHYWU3LTU5dUJSRmQ2aVd5dVEzWEVxTldYVWdhUkdIZEhzdzBiOWM3MnRoOTgyTjJsZW1LMWlyZlh2VXhIWDB0VEktWlBtcUE3WkVHd2tVd2JuR0x0QmU?oc=5",
+   "published_utc": "2023-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre committed to improving health infrastructure in NE: Union health minister Mansukh Mandaviya",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSVFhVWg3Slktd05ic2VQdUFvVXNXVVc1RTRYVnMwdlhwTUpIN3BkSmNpQWl2SVNvaEgyX1FJSnUzVU9pTGMxZHB5WFQ3Z3loREgzaDVaQ1lqNE52T0J6dFItSVc2NFpVUE1hbm8tYUhXS3hETGVVZjIxM2x6YlhBLXRKWXc1NEJTcHQwT2FyRi11SnlIRDduM1hBdG9fcGpRREpWSjRGak42SFZZVWJydWJPV0tZRmZXeUMwTXhzM2tlVWkwTnVrM3hsVUt5ekQ0T1k2c09iZUZSNWZlR3RPcjNkTmJCTDRHS3BWWlkycnVxNGNMaWgtSkN0cVhfMDjSAYQCQVVfeXFMTm01ZWsyeURsR2k3UXZCM2ZCek8ydklGZ1FTaFpsYzdIQ3pua1U3aTV2RFdKNHV2c093WTIwdnI2VjJxV0FUTDI1Ql94WjJNb3FGWnhxQUFTMDdYUmM4NDNSTFRaZjNjTjliVndiM3dmWXpMcWFXM3podXpDVVdfRVhqRi0zNVFkYVFLSjNia0ZUZ1hOSWhkRFY4M3AzSUxHYU9STzVvQUIxNExPMnVHQlBBXzVMOFBNS2E5R2dBa1NFUjlUSDA1aElSYWVhcFdkLTFLSVVySF9yS2x6RzhNWWRSa3M5dFRKUTYwelMxUnBxbnA2TWxKSFhjVV93bXFaaXhKR2U?oc=5",
+   "published_utc": "2023-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt announces Rs 100 'Anandacha Shidha' food kits for Diwali celebrations",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGJRMVV1VngwTGtKeXh5OUZ3WU9qZ2RIVU5BSk5LUWM0NUVod2h1NWxnZEFHYWUxYm50cVlkM2Fkc01MbzdySXBBdHhpOGxsclVyOGJ0Qjg1UVVMX3pFd1VhRlNyU01uZEZ6aHltcExQTjJGWlEyX0J4aHdrSGVwT3g2M2pOdnV3cTZIZGdkOExPTjdLbmM2MjNDRnZ1RFY1SnhET0lsZlBpa0wwd01hNUhEX0hEN21LT2wyRWNqaTI1Z0k?oc=5",
+   "published_utc": "2023-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

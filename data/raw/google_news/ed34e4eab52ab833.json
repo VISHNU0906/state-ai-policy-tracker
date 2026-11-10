@@ -1,0 +1,13 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "India’s Gujarat State to assign family digital ID numbers for social service access",
+   "source_name": "Biometric Update",
+   "source_domain": "https://www.biometricupdate.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmJ6Zkk1eVd6dUpONTlPRDhiOWIxeld6Ry1MYUVjOEFjQzZzVEtfdGZON3Nyb2hjRmVqX2lsUU1FMTJkMWxzbDVhTXVBU0ZMM3Joak14VmdXMEhQSWU5RWVVbGpJLU9fN2RqZm9pZWE5SE5FZDNSQzR2Z3FZcXQ2amh0OGFyOGswVzd1YlZMN0lmS1dEM3lQLUxuZTV2Y19uS3h4WUdfLW9vRE1pOHRhVHMtZ3NuTHo5SWZKZTBB?oc=5",
+   "published_utc": "2023-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Artificial Intelligence Mission to be established",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUVkZzR4MmZGT0NXM3JZbnNDUko4NDV0VlBlMGNWMmxBMzRFc0JhX2FrTmRMMjVHa0hXWkJVUjBoMmkwOHlMWkNYX2xMU1hvb3BuMFlhZTZhWl9KV0NhbUUzS29aRzlFQjlneUZjV2c4dVdaYlFTR3NYSVlxY3p5N0J0aGZEd3Rtc3hDQks4WVpWZEtZRkZLLXRaSzlBa2wwbldQX0ZjOVVsbEJXQXh0ME9FRzZUSHF0ZG9jbElkN3JON0VkSWxxZUxB0gHQAUFVX3lxTFBXemVYejRvOUtrRlpxUV9pZEZPTEFXYmZ2aXpGZ3VteC1IcmRBTWhVUTNKUFg3LXdydXBCaGU0dlZLZ0dRbm5jbmJXNlNRLVh1OVJTTUNUdkRDVGFwcjdxV2ZkcWFzVHh1UzJyMnFQVDFpRFFvYk50TllpQnpNVkRENnF1RlBqWFFXZ2dZcmRoTGpqSXFNdm9ROWs4bjl1NVJJeFBRU29yOGlOTlB0Vzl3emltajQ2Q3N0MVJwWTZWdHBFOU00VE1wdkw5b3lXdWY?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Budget 2024-25: Here Are The Top 10 Highlights",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFFjWmtpZUVlMlFTaEJwd3lidEFmcmV4R1Z1WWd0emNpTm9vdDFPbzYtQXNqMFBSZEt2Z2RxaDI1N0VCSWR6R3Z2djcyaXZLT1BhVnlNVVhhMkwzR2R4V0daeDh2SVhHYVlrX21wMk1fdlBnSTN6MmR4eFk1Wl9tUnotUmYycWxxaWZEYlk4OEFxdDhybWfSAaYBQVVfeXFMUDlpaXF0QXdBZ3JET0lJWGtYdTZLTmFtaGFfeDV6cTY2dmxLWVpsZlJDRHViT1N0QnFOYnZRUFpZTEVKNFEtcGdsR0xWSVNXbWtjam1GVms4QllRTm40SUtTZ2tqdERsbXRYRXVjeFpzajRTeGxySFc3ZmJ4SjJUSlZ2X1E3Z2NHVVhaOThpejhsOTFvS0J0OWoxUGN2RlY1UUt0NVZ6UQ?oc=5",
+   "published_utc": "2024-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches AI-based system to avert elephant deaths near railway track in Coimbatore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2RUUmRubmpaa3BPeHlmeEM1UngzZjNvbjhqdkFmamZEV0hNOUVEcVZ1alpzaU54NWUyTV9RbEVOekRmSXU5TmNoSEJBRU92S0pOLUtEUmpycXh5TVg0ZzRjTVZZZEVJeUlNcWJLSDZ1Zkc1YzRVWEhGYW8xdlpiTHdWUHFCOG95dDRTNVZNS09FNzBFVlJRVS1tbU5PdnpTS21XTmQyd2JzNlpXZUl3YWt2eVJzOHk2ZzRKZmZITVpnRTNXQnpBTThRZHpzUdIB1AFBVV95cUxPTVQ2WkU5YnNEWDVNQmEydWw5aUlHaS15TDhiRnBwUUtKYktlTmd2MzFTZWRJZDc2bTE2cWN5X1ZHXzAxS042bmNkOVFuTERZRHFHN0E5VFRDdHlyODd3MG5DbEdZNVJGb0I0QmlNUUtJMVRwYkhpcDl5U2ZLUngtRXZFU1R6WURxaXdmVWVQRzVEVFEyUnZmX21uUUFJdU5lNVdVZ3ItVXVGTlkzSElsWEZBdExlcHc5WktHZ0J4QklrVlVsUkpGUTRNSEtkQ2o1RE5CTw?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt inks pact with Hapag-Lloyd for setting up container terminals",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWhlYWJ2aW9UVFJmQUljclo0LUZGTDExOE5ORk5vbTZyTXVuVC1SLXE5UUtzUnNsNUtOTlU0NTZhV0lMUmhFTGRqb3l6Rk9VWGYxNkhBcENzYVRMb3ZQN01WMEdwOWpiUUFSUVYxT3ZwdWhmX0JRMnlENHVMYjU4Y0NPN3VuZXhkVVR1ZHA2YXZRRWl3azlFaDJvcFFGYlpoUnZzWWMwYTFzOXF0TWRoX0d2YUNrZmhsN1EwYkJEU3lCNHhWUmRTY2M1NzhjbFZXc0I00gHXAUFVX3lxTE10RDFpd3N3dE9WWkhxMVF1OVVSRzNQTjFDdHZRbDcwbE1NTlN0NWZqbXd4STlGem5UUmFzemVUSHQwLWpPblFLZF8wRFNBSWI3R2lhb21weDNXMThSRXlNMko1TVp5bmJmdWl5V2Z0Y08ySGhDNm9uUDFHOVlMakpTVVhZRWJ6bmJFblFET2Ztd2dodS1keWZCT3pVVTIxakZaQ0dEZW9lVWZJWFZ4OFFOaW5RUlNiVW1RX1BaSnl3V2p2ZTg1aHRrcXFIUl80aHFWT1dGeXdB?oc=5",
+   "published_utc": "2024-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN Budget 2024: Govt blows poll bugle, courts youth and marginalised",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTmo3OUVBZGUxd0VsaUluRHp6WUhJSWJzekR2VE9VYTZ3d0V4LXREZkk2dnFTWmxUM0dOS0E1MEtTa3hLVzlmb3RTdDdOZXU3U21kcDA1QWY0MzRnemlRZXVkTGMyVVdrMlByaDlkOVcwX01MTmt4My10a01MLWotY1lib0Y5LTBvRE9HdmtyYXhEY1A0UmNBOFA4UjdyR2Y0WVRqSTcwcXBVSkhOVEN3SHlISm8yM0hjQTROZTJCR09adnBpRXZrdGhmM2RVR3NtSlHSAd8BQVVfeXFMTjhsdnBpS0xxLUdMdXdiUVBHMldmOUV6ZHZYYk9Za0tHZXV4NDgya0luUVVxS2l1LXUxWU5kYWd0cFlxNkx3MUpiNl94U1RTNkRwWHc3NmZiZkhPYTlzd1BTTzZWaUxRYjBCdV9hMDN6ODVDT3FYbFY1UGJKWEZSMlJ5SkNrTWZxU2VIQWt3dEJkZkNqbTFaTVVUeWxUSlNnSkdJYnBtZVlyUU9WbURFN1VDcW5iUTU0MTYzdmZOUWNyRFhPZWZKdnljX1JaRFcxc2d5TzFxZHhCSEE4T1VuUQ?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Forest Dept Launches AI-Enabled System To Prevent Elephant Deaths",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3FDOWNKQTd5NFVrRUw2T1VNcUQzSHN2eHRxWXh0Ykl4Q180dm5WV29kcUhnRG1pT1Eyblk3NUUwY2JGelVza1pHQXctamZEZHkySXY0cGRCNWczU2lYZ2oxMTNfYTk5VnpoWTQ0LV9HLTdncjVXVlFncDdja1FYZDBUZXh1Y2VnSFdLWHRmMWlwVGpjajBzUWwxSm0tcjFlN0NUWnJkUFg1SGlTc19pbVZEWlJXT1ZxSlhMT3BDVVdmT3E0Y2F1UnBJVW5kQdIB0wFBVV95cUxNbmwyUVlvLU44c2M2WXpGTzJCNUlILXR2UFZQVnpBV2UwTy1rZHA5Y0lic1RZMWpzdGcyWkNGWmE1ZFQ5U0p3UjlLeUpmSUh3b1J6TkJzdWg3S0x4QlBUd3MyTVYxQXE3Z3NFclIya1MxNkhnX2hyOG16RUhWMHhVeGVSZFQ2bjRPZWo4LVJabDJUMDBWdG9aNWMwSHNBZEdVV2xLb0JjNEtSODdYQ3dYT25nVkFQTDZWXzFEX1NNWDNNWVIzTjBFZ3NzRzZfRlRuRmxn?oc=5",
+   "published_utc": "2024-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches AI-based early warning system for preventing elephant deaths on railway tracks",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVVQyamFyOVJpTk5OWkY4R2lGRTA3T3NxQmFsVFlScEZyaEdJT0NTaTktZW9FY19KVk5OT0czR3h4ejZRYTl4RzNpb2hBeXZlRm50TGR6MUJ1eHNxN05kZjhzdlNSV3B0c2pPbVdXZzlZY0ZTRkIyWmVXdjhfY214MGM5T2EzR0JHc0gtMk9DaUVZS1hYZ1kwWHhrZUViQVZfY3VmZmNaX0xCZmNvRW50MVZlWDZYQTVTalFheW4yM21FRzlaNDNnRW1EdnJCTHdCQU84WmNXaXl1OHA5NGtyVXdPZU8wSWdpUmNnRVBfR3hxZ1BRX1d1a1B0U1DSAYMCQVVfeXFMT2xBYzJINHVudDZsbW5mRzVqTktNeVQzamFVNm45VHZfZFBNLXZ6MWlpV0ZwNU0zQlZhRTh5bm02V3ZadE1DY1FSUTNEZU1ub2ZrcTYtQ0xueTd0VUtsa2hrVEdaS1Byd1dVMHdZVDF2Z2lKUHEtdFRCc2lMazhlMUc3TmFmRHdMRDdlQjFoN21McjF0b3E0OWNobkQ1SW1FV01CelNVdGhfMzhla194cTVSaWpycGQ1NkxQakhVVWx6RGkxWm9iS0gwVHZvbk80d294cUJjbWlfeHJNaHdWOEdCUUdFS0M4d1VKM2gwdndRWjlVVDI4SnRSNzF0TVg5Q2VIRQ?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu's 2024 Budget: 16 Highlights for Education, Employment, and Infrastructure",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2p3UWVXZGxLZ0t5aEE5V09Rc1dmV09pOENJcDVJcVhscmVVSGFuQ19PVzJ2WlRIMC0zcnZVVzU2Y2FqMExua3dNU3BwTU1XR2oyd1o2cTBIZUVXXzE0ejN0OF9IR0lpM2xCdE9DbjE1SFZhWTF6cHhGeFhGOGw4SWEzQm1qMzNXbkhJSE5ERXBsaXRzVjFwRTVURnpBR2o0Z1l6Ung4V0RGaGF6QXR4ajMydVZCWVJ1OS1TNzhfRW9ubEhMNDdhc0dWSl9tcGx1X3BlNHlmamQwYnBLNkprSGJMSVRtcVlEMHl0emwwX1TSAfYBQVVfeXFMTy01b0dHVGxhTWM3RlVuQmFuVnZqZXlsa1M0R3dnc3lzbUFjakhEWXJiM2RlWEV3TkFZOVRNakF6cU9MWktmbWRRbGYzSzFkUVp1NHNVV2N6c0plaW5IUGtxLXllV3dkaXJKckZrSWhRQndUSlRrbi0zN1dqTGpvMjVPenVKR3FyV1lIV05hMHdXSVNBaEUzQXExandVLTdiVlJWRmt2LXBScGJpbnlQUDZYWEFLQnd3a3NwWkVhNWd0S3RaZXpOOGVNaC1rRDNpclVsMjcxMjB1Sm9jdi16M1c0NXlRMGlNWGVPbjU0S0JLcjhwNjR3?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt allocates Rs 2,500 crore for upgradation of roads",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOGNaM1lsQ3JseFp5UHFDNVAyNmNuZld5OFZxUmx0bU9jaXJMRFVKVEgyUFl2OWVJUHM4akh6a3VKY19BbUYwek5adnZiZlBaam9USGVXUHQ4dEpaYzhzSXdGYmlMSUszQ0xFclNjaV9QTEdicjlCS2RQb1hZTURXclRwejFoLWNjTEpSQXZmS1FHTEJaRGdfZFc2TFNrNjlLLW9nY2lNYUxGVzdVRWVYaGtHS0FhbmpqX21fQTMwNTdEWVkzS3NqVmppaVlLLXNVbk9z0gHXAUFVX3lxTE1aQk01YkUtNnkzd0NrRndGZVR4azZScjdSSGFOdXI3RUtuQWk3dzZkTGlRMGIwTzhhZ0Nyc3pWdE12U2JPTnJvNGlFUDNOekRaYmNXbDFRS0VkdXhtZnBkbllXVTFZb21Hc3VYRUl6enlVbXB6cHFhcXN3a3NIZV9IVU1veDY4dXE0empaREgzOGVzcUdHS3hPTWtQQ3Q5WEZMMVNBbVliYVU0Y3hzWVhxci1wekw3LXJiSzJtWEtEbGs5UFI2TFppcnVmVU1PZThCck5UbUsw?oc=5",
+   "published_utc": "2024-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Jayalalithaa's AI-generated voice released by AIADMK on her 76th birth anniversary",
+   "source_name": "India TV News",
+   "source_domain": "https://www.indiatvnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMEVTZzBGQUtsbkV3QTh0MEJkaVp0aVd5aTRlakgxUmVmcnVoNWRqZVFLSThrY0I4ZXpFcmtlTkpHVGVTRFZ3RkhJcm55dWo4NU0wSlBsU1FMZHIzOFFJeWdybUF1VWpJZVNSdGdremJzZktSb2x6MnhkUk5YeXMwTFlmQ3NUY0VLLUhMYXd0RkVMeVRvXzRNVnlNNjlaVWVQZVB4bk1KRkVWYkR3eGt5YnV1WDVIVmVBNjR2QWJ0U0RHYlhveXQ2Zk01WURxMTJwS0hXcWFjbEpkbGpEV3NOTEFuOHJWb09TWmNoN0NkZFBvR0puRlFDSHFMUzNocU5CMmc2SFpHRnRQa1JRUEJ0cENYcUtoOWNURWRKQ3I5UTcyUG4xTU1wTmZ3NVcxd9IBswJBVV95cUxNZFlveE4xTTZxWFZ0UEJLWWZPZkQyQlNoMEE4SEhzckRoX0UxaWU2N0ExdmdOM1VxaEYtRWxTdkcxeWo1a2ZITGtYRG9TTWsyNkNvRjRJZ3U5LUZ0WVU2cm9pLWc4Q0x5TEowb1ljWU9KSk5WYUdjaEE1YWNaYS1Rbjc1dnNrMWtNNXIyNGFjXy0tQXYtY0I4YVF5UFZORDNEVTRkR2tzSmJCMmw5bE45Yi1mZGJVZERMT2MtT3dsMjJCd1l1cGFqcEtndGpRV015MjVoM1B5bzVOUmxWVkZqX1JtVV81WjMyUTBmbENGRy1VNTNSOFUwVHJ2STJDSkhFOWZUN3M5bFZ2YXQxdXRxb3pTQUlxUzY4N0xGQlpoVEVtdXdtempodXBaRlIxSlBrWkNn?oc=5",
+   "published_utc": "2024-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

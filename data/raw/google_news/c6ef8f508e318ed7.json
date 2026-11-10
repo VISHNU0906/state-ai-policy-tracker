@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh Chief Secretary Iqbal Singh Bains gets six-month extension fulfilling CM Shivraj Singh Chouhan’s wish",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTRabkdEN3JpRFdkdlN6emlaM0Y5dU0yVTVqbGlNVjVFZUFRLTdQV1FiVmJlRUlaUWlLNDk1bGFEejdBT1VKQnVqY2psR0s3TmVKMkhOTFZuSzJ0WnZCYXpuWUxoM2E2ZFROd0Z1LURfbTlhb2t2bVV4TnFEVEhjcG1QQk1LZGs5U2RLeUpHOVlkSkwyNEZLODlhc3JFNV9QMHpzZVgyTUJXSE02bnNaNWZVUllNR3gyLW5DU2tR0gHEAUFVX3lxTFBNZHhoUGpxODJLY0RITU42c2tadFZfSHYteTI5ZkZYMVg5ZHpHNWxoT3h5Qm9ISzdaUVBzWUN3N1VVUS1DU2t4MGpIX25LZ1h3V0pEd3NOTmRQNXR6NFRTSEtoYXdjQWluZkloQm0zd1o3U0RGSTB0eWR1di1JdTlEWm84ZEltbEg1UkhFTk41cHhiM1YyUmVxTjRFVDZtbnVoUDdPZ3ZLQ09EQlI5NGJQRGFGT1V5T2lmcnJ0ZlAzQ1JSQzk?oc=5",
+   "published_utc": "2022-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PSUs, state bodies drive AI-based chatbot adoption in India",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmdxQnl2cVhQVWdrMWdhYTNSMHRqbGNlLXVSbjlhUXU2d1lJNDdKbm1PRnktVWJPTUhOQmxsZnhGQnR4Yl9ZZW4wakVXR2xOMGh0dmhXSENrb29nUTVxTWZ2bzQyU0ozR0I5ZHFKUVM2M1prMDBYSjllRjd5UG1KaHpxTHVGZkMwZVVYVHgySGR3UjRmUTY4Tkg0SjRRWmk1UlZNN2V1OWV1cmNrTWdsenlMa1F6RG1vYVJsajJtOG5yUdIBxwFBVV95cUxOTjRJMUU5azlPZkRlUHlJb3hTa2JqQ25VTUltRWFCOUp2WUpGNDhRcnloOHItVHZibXhEcHVpMHFtbkt6Z2xOdENySjVjYk1ySWI5bHBQXzZNeVVJbmtNNFAyb3A4VDR6UmZDYjNQN0hrakpXajNZc0hDSHBrLW5UMmpyQjh3R2NHb3l5djEtN3N1bE5mVFJ1VTQxb0h2SlhEZTBKY1dNeEtQa0I2ZFd1akt3X2V3NVpxbmJadjlwSlFnZ0VLS3Rv?oc=5",
+   "published_utc": "2022-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Row Over Kamal Nath Cutting Temple-Shaped Cake With Pic Of Lord Hanuman",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHd0WElobnVfR1lhMTJ5cG5sclJDN3BHeW5sU00yMnVYaTg3NUFjSHZsWDEwdGZKQzMwXzZEX0FCekVMVzJkbi1EZTlzbEtLWng4clRoN3NqQ2VCM1ZQY0w4T2NiaFNVSlpZVFdFdXhGTTRkNTF5b194a3poLXpxR1Y0TGV6b0RtOEIxeTZCeEM3a0stY1VaQWxwZ3U1cWc2OEHSAaoBQVVfeXFMTVMtb28yaExWSlo3VmUwWlAwTE5sMkc0N2ZRa0xfSG1jSnBXdzc3bE8tcm9vNkxNbFkwODBtc1VlcDBEVGtMWXFuMjFoT3JnUTJuQ2hsN3p5VmV5NGpIbVNHdTJMd1ZpWmVKT0dCdUVka1FQR2JYSXlwUWVlMEdTbEhzNldTSTFDcmw0d29uM21wNlpSbndPYTczVnNGUkQ0TTVmdHdGa2pXOVE?oc=5",
+   "published_utc": "2022-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'One marriage for everyone': CM Shivraj Singh Chouhan promises Uniform Civil Code in Madhya Pradesh",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFNTcmF4U3RyQUx2U0ltLWQ1WXlmWWR2MDRNUHJUcWNYbXlQdjJhRS0yeEJrLUxvZEFHNDNyRUNqRS1oLUJnc0J3eHU5ZDh4ZTRjNng0bkh5NHZ0LXZrMGhaalFiYnJ5bElUc0ZuSmthVFBPWDNOQzBxYWx6T3FYOUE2Sk9VeFBldWx1X1BBSzFfeE05bEJEMmpmTC1jNjd5RzRJT3FyYjNvZXQ1SFgyY2JSQmM4WVUwbUlQbWVYYnlqazhWbm1iZTZIR2pnSVBfQWdj0gHYAUFVX3lxTE1HdDlEbGV5eldTNm5mbEkwNUVXNHFPdURYWnpNYjZONVBnVFZOWXRhMUs2clJ3Y0tFem03MXdsbVd6TkliODBqc2ZQQmJISmd5ZUpLMmo3c1U0b0prcERFcjloUVpsV0xFMkw5aG9MMGE1ZFV4N3FrQU5ieXFwLThTeXlzRkhTdkh2LVpBSG54QkU3QzFVZTM0dXFCTVVHMXJVSGdOakRzYTYzbldDWW1aaGs0SGRUcndXVzBsTzFKSjN5QzctR0tRSHVJenJJVkRESU9pRHZHZw?oc=5",
+   "published_utc": "2022-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rahul Gandhi-led Congress' 'Bharat Jodo Yatra' enters Madhya Pradesh",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcV9oNGRwN0k3dG03YnJ5cTVjQk9mUVpFVGxDd2xobzFvQ0d6TWIxeU5wQUJfSzZFdHBQYVQ0NVJxMFFGeEd5dUZvQXdVUlFYcGJKRGhYQ2FRVEpMdXBPUDVLTEdiaVdDU2JrbGxTaG1LUTVTUjhidVZvLWpSRGd6RFh4aTgxWDBSOXVZUnoxTEk4R3NjVGlDVUNOYlBTSDlXbmdsdTY3YllHS2Q4TUtEMUJ4YTN0N2IwSFBaY1l2bDIyQUNoRHUycnFDWU5MVEJSUEHSAdcBQVVfeXFMTXU4UGttVG1JMktwb1hydl8wY3ZFYWo3cXdoZFNsaVlndWM3cFYwWEladFU2VTQ2LXpuUDVveTRGSjBWbWdfLXZ5cERDT19QYWtwcWVIeTl5YUhiRVRoQmlKcWRCaVE5NlFXaHcwaUFOS2hhNXhFZk1FT01mN0w4VHY1X3puZzlQY3pyZ01QOTRMX2hXd1BfOXgzS3VuSnlzbkZoVXZPWFBsdFpQaGtta1h5UGlLYlpMb0ZpY283dGFuSWxvdy1iQmtGN2MzM1hxbnlfZWJqMWM?oc=5",
+   "published_utc": "2022-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global Partnership on AI (GPAI)- India to Assume Chair of GPAI",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZXdON2V0dUwwZnNFU3M2VlAxRXNpWHlzY2pQOEpmVGRtbE9QOEtDZUQtSWJ6YS1fYjNBa3BmTmdfMXAxLWthSWh2TE81Z1F4a05PUkdudmptREhXaHJfVVE4ektFQ3ZUS1hyak9UVlVLZmtxTm9rQVl3?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Construction of Bihar's first expressway to start soon",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZG9mQVNldm80U0hNS1VTOFk1NWdNYmUzVlNHUkR3M0FVbFlnZG1LSXQxRkRrRVBCUklfMFpqWGdTZlFZMW1kUk1Fdzkzcno0UzNtYU96TEd5LW9obkw3Ni1kTkhSWVFpZzlvUEY2SERRZkZma1FDYUpvZHlSZk9XLXNDaVdTS0tPZkJ0TGFBd3VFYlJ6T3c1LW1vRjhFTWRSeV9IS2d5bHlYMnd6S0JlcDJtaUUxOGY5Skh4NnVXTE1IVjDSAccBQVVfeXFMTVFMRzNhMGh5ZDRjc2FiUXp0R2F4eGVqUUQwcE53a0NLTy0xcFhuQnlwV2lyQzBwdUV0NjlBV1RPRjNfSHU0VGRXdHBQdGY5Zm9oWDIyZnIwWlhCWExKODBxTEloUjVIUU9TOHkxRUt1NDd0SHpBdnV4Wjg3Zmp6Tmx1ZTdVYzRfWENXblYyXzNveFVyWERVZG0zaF91MHhyN216ejFpTEV3OU9leHFURXZTZjJTcUxUX0xYQ2hRVm9NUTNZZGpybw?oc=5",
+   "published_utc": "2022-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP ki MNC’ InfoBeans lists on BSE: Madhya Pradesh CM Shri Shivraj Singh Chauhan strikes the gong during the Opening Bell ceremony",
+   "source_name": "India Education Diary",
+   "source_domain": "https://indiaeducationdiary.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTDNtWVRYWGxWNjVFakZqQk1TWlhOcDZRTjdqcEdyVFM3bFJDX0hKUGM3OEllNl9OdDY5YzJwUVRNcDRubk5aSGZZU3g5VmJNN3c0RTZHZkF5X1hGUF9WNzNMcnhNaHg2XzhHLUxxZ2VYRjR1TWFLU0djOWNUaTEtVUpLRFRTdlZzUXktQmszZjg1aXRHMkdMam9fOUZGdFdRUXRLaC1BOWw1V2RMZ1JpdmpaaFp5V2pSRFZaZnVKc3RteWNFXzc4ZG1hN3JEVkhpX0RnR2d0YWw3NWNSMzNLRld0N2JoYlpBN2g5WnptY2o?oc=5",
+   "published_utc": "2022-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 cheetahs in MP's Kuno National Park shifted to larger enclosure, forest minister livid",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemFaY0RySnhuTkZWUDBYT01uVlVXcVk1N3YzUHpvOWpkM2xUaE42LUhSMVRtakZlbTVnMnBrdVlZRjg3a190R2ExQzE4SW9OamtDbWN4WEtSODZmVFBURElzOGFYUkUzWVp0aDQtSU5DazJSOFBNMjc4LVdhNEVETVNhTzQwZlE4cWpSa0RCd1dBaS1jallBcXU4MDMwQW80RmpxTmNwRDA3SG5HQlhBN1ZoNEZpU2NsSV9sd0Vma1JhbmVSZm1JMnY2VdIB0AFBVV95cUxOSHNzdzN3NWJzeEF0V3JTaWNEcmVEYUVqSWVoZ0NHRzhLVUt1NEZzRExqLXRRODh3UGpEZjU5MlRlNkgtOW9kOU5sM3RFT252UUE1dWFPeHFZQktVS1pRS0RXNnZCb1k1eXUyTjJrRldKZUdyRTZ6TXJCUU44ZHdIY0tsR2haUHdtY0Z1V1BtZ0VtX0pWQ0JGWTB5d2llR2lLcFZUc3l6SWROVVhBT29NVWpUeUJNS1lvRUI2d1ptYkg1VTdhaXo1VkFJVUJkWWZx?oc=5",
+   "published_utc": "2022-11-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Case against Congress MLA on charges of raping woman",
+   "source_name": "Vartha Bharati",
+   "source_domain": "https://english.varthabharati.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlpFYmlEZWVXX1haWmtDR2lUc2x4VjNwZVl1NmcwMFlzbnd2TURqcUpwTWhjTGhja2RQd1I0cXdIRGZwN1kzQlFSTFBGSWhyRDRNbFRzVDZRZmdhb2pHeEpYaFA4S3c4VzFCYVRRNUJXb3NlTlp0OThybl9fNm14T2RtdGhSZkZ0SVNaU3lsZVZYaXZlLWfSAZYBQVVfeXFMT2ZaRWJpRGVlV19YWlprQ0dpVHNseFYzcGVZdTZnMDBZc253dk1EanFKcE1oY0xoY2tkUHdSNHF3SERmcDdZM0JRUkxQRklockQ0TWxUc1Q2UWZnYW9qR3hKWGhQOEt3OFcxQmFUUTVCV29zZU5adDk4cm5fXzZteE9kbXRoUmZGdElTWlN5bGVWWGl2ZS1n?oc=5",
+   "published_utc": "2022-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

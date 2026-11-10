@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "India's Data Centre Boom Opens Up A Fresh Segment For Green Developers",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXVMeDBRNWZqalJkSXJnZUFVVDc5Y0ZBSUNRM1Y0c01VWU9YcXN4UlZ5UTYtTGdIaDREM0VXand2SV94dHdWaUhGQnV5ZHZXdy02OTNiM1FIeXZ4UzgtYmZfM3ZORmRmajNGNXZlTGpaVUdlaXhqTUVWZnpIaS1XWFQ5OHV4LVFCU1RQZ1NwYWItMUo2WWdXbmt5ZHlKaVdYcUFEMUZrb2lOdUl4VF9TTTVxcFdJaE92LUE?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Universal AI University Celebrates the Resounding Success of Beyond Boundaries 2024: A Weekend of Appreciation and Gratitude",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVG80SWJPcXVLbWZwZGJMSktLQ3pNZ3ViOGl6UEV1amVXTWxzcU5jYnpXNlRzaGpwNERDLWhMaXIxNkR3bFhFRkNNVC1TWVNwWUJfSEU2ZEFNTTZSTkFJNXB0QVlSWnFIcUJzZ0x0d1pLLXd4azJ3ZUhtQmNiVUJWcktLbHZ1MGZBT0U3RFhvcW1wVTBBRFFpNXE4d3YyeHJDT2pJZXNycjZOcWpuVHJEYS1zQlk2OTNmREtDUDFNUWtvUGExQV9nNU4xa2FNRVVXRlhFYTNKQUVVcjZRak1zTGlLWlBxVzE3VTJXbkNseHNCWFZMY0hlS0NOanJzaFJOZkJpcg?oc=5",
+   "published_utc": "2024-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Odisha launches portal for incentives to entrepreneurs",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEZTRjVJenFtWkwxem1LWkhFQVkxWHNOUmdyQmZmb2NZN2o0bGx4cW8tZU8tWlZHMENzbnRwN1k2QjJZdlQzM21NRkt6b1B3cVByTnlhT05MbzcyS0JRa0JKTDJGLW5vc29YVEhRZ1dkNm1WREplNHpNUlNVSDktOFFOeHhSVndObTNPcEI5UlU0aGtOdzBGdjE1eXFqamtGcUdxUi1COC1WLUs3SjNpVDBLTdIBwAFBVV95cUxPNDJlTEI1TVJiNnNhYm85ckM5eFpySkhQejNTZEc3UW9wN3lSVlVyYlpqaHJlMTBEc3hsNk5aNDRhLXpIWVlQRTVxa19SSl9rLVZ2OFNUbVg3ZnVuaWFEWFloSjVCZ2tKLXNRM0h6UmNZMjRyY0tvQ2xzNS1CWW5TVUdSTm9HaVN3ejU3eUhmY2FtS1liZWwyXzBLeVFPcWdVSjFoLTlDQXFuUkhENHl4T3pzQ1lTMXdRbEstbnRzVng?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

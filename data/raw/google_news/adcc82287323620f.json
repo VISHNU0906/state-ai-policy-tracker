@@ -1,0 +1,45 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "Microsoft buys land worth Rs 267 crore to build data centre in Hyderabad",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMjBaZllKU1lZMk85V2I4Vm9VY0Q2WGE3VHpKaFZJbW9pcWNoUWJ4cHJHbldfby1PcVM3R2R0WFRtQjc3NGRPc0VOV210RjF5MVk1M3JXUDUwT0FhY2x1dnB1N0RTWF85YU9wNEh4VWJPVS0tcmU2d0VPUkJVdWFFeWR4dDc0MUtKSDlWWE45WWpnSVJHVWdjaXZfeFBKSGhuX3NIVEozRHpGVURKS19DanpCektHUEZQX0RYWGs2YmRINHdhbTloQUd6ekM2RWV6WUlXRjRWM0l2SGNQYWhyNmg0aklRZ0ltTjg40gHwAUFVX3lxTE93MGpBTVBvRFZQSjVqR2JMRUkwTGMwS2tGNEtBdlNMRTl6OExaWkh3cVpBd2J2ckRxempkS01udENtSzNxX3kyOC1xbmUwcVkwZDFvc0d6aDdCSmpTNFd1QjVWQWZaZ29VQzJoSXgtYldPdmZSREI3LVZlTVdrT1hBS0NvYWowdmZ6X2M0RnQwWWpWcl92d0pwaHpxUGFQUUt3SE9meFAwTDNvMlBURUNTVzlJRXp4UWFBZHFmZGFTYnhSV2IyeUlHZ3dubDhUdzl5NVNPWjEyV1FPdVhlM1ZJWWxZVE1RTmY2Qi1MQTdvUQ?oc=5",
+   "published_utc": "2024-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Telangana CM had no role in creating or spreading Amit Shah doctored video’: Reddy’s lawyer to Delhi Police",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjZPMWVnb2FGTGxfQTFiME56cjFMQVFpdXV3WGtidHpOUkx5RkUwa0FBbkpFNTktNHl5bkZXellLZ2dscHVza3owZG9sOEl4d3Zrb2xKUFYwbVc3ODVHM1dTaGt1UTdZWUV6SnhTX1NzdjU5eUJwVHVNNmd1akYtSVVBaDFtS2ZOb2tZU1pyaVUwTlExR1FJU282TUhMeGdPSks5QVZR0gGsAUFVX3lxTE5vYXYyYlFrM3RtNnpvV3kwZVFuMnNQbF9STmZXNk5wNDZRby1rSGRHUUJYRW44S3dXa0VhZ1Y3bzFlTUlkalM0VnJUelVEaDlYMTlldnNMTU52Y1BYUHp4QWZpcllZUl9TczNvZ3RkcVJEXzBqZkdRQ1hkek8ySGZYZjZ1Vkd3cm82M2poMmJudTFzaGJxUlM2Z2lCTkNxQmVLVFh1Z0xpeElqM00?oc=5",
+   "published_utc": "2024-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amit Shah deepfake clip: Two held, 3 netas get notice; probe spreads to 6 more states",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzRkckFYRWpGMkJLYTJWaWhVMzV4Y0JPd0xZd0FJVVF3RDZSN3BUeVBlM09manBmSTV2cl9HYnY2dTZiQi1tdjJXUTBNUzliX3gxd0MxX0ZTRWVjNTNpYl94emZkb3laRnpYbG5PSzNzeWtfWlV6VjlYSTl6QVRhWHJFbFBVTjhLX2Z1Mk5GeHNWaTFqMnVFb1ZnY3NrUUZ5djdyNVFUT0t1WGlSbWEtRzBLQVhHN3Rvcm1v0gHAAUFVX3lxTE1rSUxxLS1rZDN6S0k4cldfOUlmSzdydnFBVEg1bHlhUXQyYWJFRWZpdXNXVDFCZ29Tal8zZUJOMkpDS19wMzMyangtWFhoOFpoS3FXdXpFWW1GdnZRYzJyX2RERmd1aHRQb1UwY013TnBtMjRrbHVTVmQtOFprTGZXSGplVDZpbG9nYkZidFVGNDZuN2laR0c1dl9Bblg5VGItTWpDdXF5QWI1dlk4anBETDFyVFZYVVNiZHlZVno3WA?oc=5",
+   "published_utc": "2024-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad to get AI City spread on 200 acres of land along ORR",
+   "source_name": "The Siasat Daily",
+   "source_domain": "https://www.siasat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFcxM3VXcV9YZ1lNSVc4VG9NZ0NvaE41SjBwRDZfeGZGb3RQMnhUQ0ZITXJHY2xTb0NzcEJxSHpmdEZCMWhQU2ZHX3d1M3hkdmtCUzRhQV9TOFE3SDJuaXRrSDVRLUExWXl3RHIwZDlKMlRUTl95TjFmYVhvRWhQOEU3Ukc1UUZvZDl3QUJVN1lxSTc0eTdzdFln0gGfAUFVX3lxTE5ESXFVSEpVVlRubXgwNGR3cU55OXVLX29nRlREZ0J3X05kQUJocXFRdFRnak1JYXFGZTc1blZwSS0wX0EtQUZUVk04OTgzNHg5cXVVNGdmenF3SkV1U09aeFFRVXphN19vX3luMUFVdzc5MEJfRl9GTjBTSGVJb1lBV3VMTGF4VHcwZVo2aHhVMElFYzJJMlVIdU1KV1NzSQ?oc=5",
+   "published_utc": "2024-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad to Host India’s Largest AI City along ORR",
+   "source_name": "Telangana NavaNirmana Sena",
+   "source_domain": "https://www.tgnns.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbHRZRWxRbWJNdUprQ1A2Ny1EcEJmRExMc3lHUEdPTFRaWkVwZFQwbXZaY2NOYUFPOTQwWURkMVJQeU9rSDNnOGxyT1Z4dXQ1aUZfMk9OdUh0bEtZeTdBYVctT2lKQ0dfaXlfMThpSF9IZ1FGa05meWZrWm5aUHQ5Y2ctUUk4Xy1EQnFGaEpvSGthQjlrbll3Nmhn?oc=5",
+   "published_utc": "2024-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Deepfake and information warfare report focusing on Indian elections 2024",
+   "source_name": "Cyfirma",
+   "source_domain": "https://www.cyfirma.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1FiY2VpeEZhbC1YU0xLV2R1WDlkb2JfVUFQblFIcklsaXZRRTdLYTdwckdxd283NzBXaU0wdU5MTmFDZzRHOGEwSUlNMXBZbFd2bllTZlUwcE12cW9sNTBfZm1sb3dCLXdYQnZtUUJ2cHZhT05iX1c2X1VLRHlZRG5ZUzVNbGFHN3drUFczbFVjblJpYTRIdzZxa2NpNVVrd1M1Mndfb01LcEd5dUE?oc=5",
+   "published_utc": "2024-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

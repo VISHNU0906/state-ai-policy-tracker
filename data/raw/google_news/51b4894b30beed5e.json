@@ -1,0 +1,13 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Airtel Sets Up Its Largest Captive Solar Plant, 21 MW with Avaada",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWk2ZWpPRjRka3A4SmlnSndwcEtmazdJSUxGR3F0YXdCTlNpX09zVHE1cUMtZVUzNDc3VW1pbWxCWUNoRE13cVBXclg5LWlDLXNaQ09saWd2cTRxc1R2QktqYUZPaUx2XzJpSkFNdkpFRGxyR3AyRWNOMmxTc1dtTGkwWnJTWFlCWk9FT1V0NDRTdTczNHFaVUZhWnhya3V4YWxrd2RIc3l3aVRBbHc?oc=5",
+   "published_utc": "2022-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

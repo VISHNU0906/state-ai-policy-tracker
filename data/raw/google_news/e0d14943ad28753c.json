@@ -1,0 +1,53 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "Inside Tamil Nadu e-Governance Agency’s AI for good pursuit",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3BaeFIwUzltMVBkc25zVlZ6eG5kcnRlcEFxME83OHdURDhCRnhDNW93dGNuWG8tZ3A5bUtLenNkMlE4c01heVF5dEtnR3lpTTg5T1E0OTRSRXRLYkk1bGVOMGtLSmFWMVlSNER3R1cwUW13WTR0SXVWOE81Rm41dXR1aDI2clBRclo5MkFTTWtzREhp?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 7.2 crore alloted to install e-cameras in Coimbatore forests to stop elephant deaths",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSGFjMXBpaDhpWFNObGdwSEJEUVQyY016ZUZWeVFmOE5HanFVdUttTTNzdjVyMUJKNVlGbmtQMkxtdG5SWEZzcmYxVzNxblR0dFNFTm9vRk5hc19pd0gzWnRQc0FWWVIza0ltRXhKcEtiN3ZyRnhPUHdjUDlDeThaekhsaVNjZzZtRFBaR3V1YkdSZkRQQl9zeXFVNy11QW83R20zLS1qUXAtZGRJdUVGRmVtTVFJOGdFOFhKdDlyeFJ3cmfSAdABQVVfeXFMTkpGa0ZQdkE2M1pxSkE4NUVHa215SFRhX0lBOUtOMUl5cDNJQ3hRNkdMRXJ3MWxrbUFBdTJQNHN5MTFNZmRqOWd3bTRXVElaZWlodVFuMlQ2NGlzLWJjd3MtcXZJMl9WY2pRbGdyYk9uREowaXM4eE04MWo0ZVZrSEpKb3JXMjRjYlhPTjI0WjJTTXBHN1Vib1EtUHRxdVNnQUZDSmNYMGs1VE9iTnlZMXJ1azFrWjFqX0NXam1vNjhrRm43QUFIMkNZTUlPMnItMQ?oc=5",
+   "published_utc": "2022-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt constitutes committee headed by retired judge Murugesan to formulate State Education Policy",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVzVqTjRZZmtVRzZDSk83cDdHWnd3SFduZzlHLUNXVjJRVHgyZ0tFOW5TRjNKQnY2VHdjV3pkRktSZkQ0aWxOeGhkbHh6WmVKSWpLLWZTZXd3TUsxSzBTemdZUWptY2VVYTd2ek1pMm5xRk83NXNJaHZnREN5bDM5UGptVU9wRWZaT2NqV3h1amdqT1NVRFJ5WDR4dVBNWjdHOHdFaThkQ1cxS3JRQ2ZlV2h5aFFBeXZrY0xKZ3htUmhTSzNvV3dlSXQ3cnhSUFlodnhucEJSUExfbFdmV2hhZ2VhWXItR2FweUpnS2JhNNIB9AFBVV95cUxNcjZGSGhTOXF0MkNZUFAtbC13LUw0REt0emR0S1k2VXhZVk5ORVNQZ3E2VU5CQ0JQS0pGdHNza2pYelJCdXhNaVlldFl3SzhCTjU0NUJvMDQ4THFuQklCY1VEcVF4cjA5QnRESEZpWlpxRi1MTjZPclg4QVNKMURsbzd2NFcwM0liWC1DeFNmMndCUlozd3lvOElXalNmOWVkcWNhUjBmTjZOZTBObnZqY3BUR1BHcm90ZU5GSmpyenJUb0ZWLVNkQnl4bEFPT1NuckdWNkxPXzlpcGMtZHpTVVZqNW5qWUdiY2dHMjVtc3prcUJX?oc=5",
+   "published_utc": "2022-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Take risk-assessment based approach to tackle spike in COVID-19 cases: Union Health Secretary to Tamil Nad",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONHFiQWVCM1V3bmstSWkyWkFmaGM2aXVTMEk5QldUQXpUR3NQWTlQWGpzaGdDMGp0QXNOWlk0Um9sczF5QnRUS0MxbWNaejI2TjE0TS1TSEpiUnVGQVZESXNhVUtMM2hWNUN6aDRvQ3ZGcWRrWVFlZEZUdTczLTF3bHh4THYzbUZKSzN3MDU5Q2RGQV9tRDQtbmNXbWhzZkFCSmJUSTc3dzhMcTRNYzJia0thcVN3WVhDWU9WWU9SbkN3aXZmUGM5ejRWSFJNdUk2Z1l2N2U5MjlxTFhUMzhETjRISVpXNkRfME9pZmRITThFdFJKUF9mam9Qc2hyeTDSAYQCQVVfeXFMTWd5ZVJ2dXhRazEyb29HaTVaWXJLWjNVbElkUEMwNFNmUmI2d2NLQVBPa1hqYmFtNGtYSlB2MTlEOUxNbHVoaXRHaXI2YzU2VVVmd2FSMXZaMHJTenJfSTlCNnprYU9uT0JrdUY3T1R6ajNPUnJuTXRfQ0RkU2FtQVl4V0w2WE85aFJaSnRUbUlIZDhLR1ZfZ2tyOFZaNWpQVXNLaEVfOVF5UzNZQ2VsUFFqYVlhTC1NdzJvVU5JWEk1eVZtQ1FUX1R1bF9maG5GcEpUN3NpVUc2OW4wdGg5QkJoRG9seEZtUUxFR0Q3aEpLbG02aHJUZEl2dDVxQWRYaHRhanc?oc=5",
+   "published_utc": "2022-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vikram box office collection Day 7: Kamal Haasan's film rakes in Rs 100 crore in Tamil Nadu",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZkhob2VTZ0F0V2R3ekxaeFVZSG1xTXNRblVpTmQtSU8tdFh0U012QkRYN1pIVE4weTlwMm4xdHA4TFdncVVsSUtMTFZCZkxiUzJWZUdxN0FKQ2JScUtIZ0d4bTVLS0cwY1NCY2M1VUs5Vmh3TmlVQ2tQQ3hmNzloeTNtZWxHYV81ZndHc1luYUN2QjJuYnMtamp6RnpmX3Z6QUotZ1FvQ2pTNzRJTWZPMlRxN3M5VkdHTFlpdjV0M0NnNkhXQXpnTjlDSUQ0WkkzQ1hqaVlMM0otLWRwWTZtRnVGYkJVVzZkaXVLSTQ5SVNtb0hUNWRn0gH8AUFVX3lxTE95QXpOc3NKZHNwc3ZzeXFFMS1wS1VQd2FiWmhESFZKdlEzVGxRbUZMc1NIM2hZYWZvMkd4SVNfVTVkMzJ0QVQ2VFNqYUYyN05kMFh3N2FDZ0NTSVFQN0c4RGRyejI4LUFHN1dBRVFxcUh3a0tfbldDTGh0QXRKemN4MUUyYUhjY1RkRzF0UE04TWZqZUxBUThRSUg3QWI1bWcxbUIxNzhkbVhVR0p6ZDkzWmNPMG10eUdYaF9rZjdIUFVYZndVNDVnVWNSa09wRVJuYzYtZmhJQjU5Ry10UXFveU8tMmtsRndPaUh1bWxmd3hlblIxUHRydlo5Ug?oc=5",
+   "published_utc": "2022-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu transport minister S.S. Sivashankar inspected the Switch Mobility’s newly launched Electric Bus. Switch the EV arm of Chennai based Ashok Leyland launched ‘SWITCH EiV 12’ a new electric bus in Chennai on Wednesday. The buses cost Rs. 1 cr",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZVp5MUZOYmtrU1FZWXYxUDVfV3pNdU1iLWJVaE9SVVk3Z3hqaE1TWnJxcWQtYzVYNnpPS0xsNm0tWTZBb1JhS3l3Ui00U0ZtOVE?oc=5",
+   "published_utc": "2022-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

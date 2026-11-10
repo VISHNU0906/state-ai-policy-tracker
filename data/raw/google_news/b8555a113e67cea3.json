@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Tamil Nadu hospital’s patient data reportedly hacked and sold on dark web",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZVdKek5QVWJSM3dFTUhZb1JTX2xGR1A0a2wzdndqLTc1UE0zb2ttSnBYR2RBRXdIY0xhTC1pQUxLa09zN2JrUkNhU0E1QkZHa2xGa2hDaldaVWR6VjdTOGFTSXlvVDdSSHZFVDJOZnBvNFhnNXpWVmItb1Nwck5nYlhSbnRTT2p0Z0dRSlZFajVyNURSR3VCZldUX3VtNFBKQXQ5UDdtcVk3ZmltVzY4MTJPWXB5aXpQU1h2VG5OQjhVdUpnZWFsZmJ1d0dZZlV1QjhWV0stSkp3akVSb3lpdldjVml4RUZvdlBOR0N6V0c4OUREb0HSAfwBQVVfeXFMTUtCT0puQ3lqWk1lS1hpVy05V1I1X2xxM3M3Y1NqQXVsQ29GSVFJbEYyaHZ6ZW5nZk1ocnVYRGY1OFk1V2JCbjBZMjFrc2lfbFJTQ3ZKc191Z3U5NUZSY05kbFdMZ0xtYlFYZzN4QXRmR1Nzd1JDQ1ZjY1lNeUpvOTBJNVBhSGl6OGdKcVBMeWlibjl1MDFpMjdPZEV0LWdxZUtjbU5zQjg2dGctQ0ZSZTRLbzA2WjhBcW9NdXV1dF9GLVFLczAwbmozYmZCU0hpR3dpV1VGUXlWSExlZmk2WnFIZ3dsalQ1UzFyRTBDekJ6Zm9OVjFQQzVUV1BI?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: The trans people dancing towards their dreams in India",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sQi1NLWdFdE1jcHdOV1dFb05tb3Z2TWx0WjJUX05NdHJVRFhDa282UkJqZ2RPNTlQU2VYSi03ZUNHMTFyWkROTUtQNDVEa0hkeDVTVllpenE4WEJ3c2x6NE9yUQ?oc=5",
+   "published_utc": "2022-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: SIPCOT to set up 11 new industrial parks, aims to create over 2 lakh jobs",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQUtSTWljRlhGMHVhSjRiUEJyTEdxZU13eUYzN1h1TFl5dlJBUzNRUGdWZGVrd1B1MnhKVUVpUXAxTl8xZmZMYk96YXh5ZUhXVzZ2dHZrd3drbGQ0MXlKVFM3RkpHNDFqRG1JWXIwV2xuZUc3RkdEb2twVm1LSTZMQjZidC1LdjdyMFlLQ0R4SHRDVTBEU3FmZnFQZm1GMC1vdEwxOXBZRktyWGhDM3l2TUE3Y1NMUS1JdGZqV1JvQWE0V0dtNXpsb1drU2RlU3VLVUpLOFF1YUtBbzQtV3VIZ1lOV1o2WDFOVERV0gHwAUFVX3lxTFA1RGczMnJ2OUdob3Vvb2FoOGdKRVNUYnBsMDJ1ejFDVG5ueTBPdFY5MUx1dTdYcGY1NmlKTjVPMXk1Q2hiRDBzQnJjeDNDc1dNQTlYRTJ5QU51WTZoOU9pMHliZ0p2T3U2Wm1Oa29rRjc4UmVqQTlqMG96bGJPYXNEMmFJXzE2aE5lR3Y3U1YzSzNEUDdfMUJxUWdvWmR1YW1yTDRpcVhNRTlyTTFnVXZoWVJESmY0dWd5QTBrMml5ZXhBSFg1NUoxc0dUbEZXMmZQQi1DcGl3YWZzR1ZjWWNlUHpHTHJ1SDJYWk05dzh0Zw?oc=5",
+   "published_utc": "2022-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana to launch â€˜KCR school kitsâ€™; 25 lakh students to benefit",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbloteExmT3hMZ3BsVGFldXcteGQ2eXItdjJTd3VnbTVYQjNsX3RtZndDeXZsUVMxSGhfajVVdmI1elBkWGtDVERpeVpUOGFsd19OUGF2bzR6YkNUcUY0NW14SFloMkV4dEF6dFQwd2FKT2tuX3hiTEEzeXhVd08wTkEyUzZSNnFjMWM3ek1oN0JPUHU2dFZ4eHBkM19QcHd4YTcyTVg4aV9yRS1udTlqUzhVZFpwRkJXeTFJQUJ5NFLSAcYBQVVfeXFMTTR0MnJZQU52N0t0OXFhZkFleWdqUUZ0dExYWnBqMk1saWtuMFpLbkkwMXFTcUM0TlpyZzBRamFMVGJHZFJnYlozZzdnOEFVX2lFNmI3a2d2bjkwNS00VDR0TDJTcUljNVdBWGdUY3I0amZnb240QnlseUFxZGNxWXFXbGFheVVNMjRaUXRoQXdBSGItbUpyQ21ydUJ2S2tadWFoZHlJOU1vb1NoUUtSQWRzdXB0SkIzeXdOX1N3NEdOM3JKT2tR?oc=5",
+   "published_utc": "2022-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Teacher Hits Child On Head With Stick Over Math Question",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdldXb1ZUaEdmaHhPNDUzQTh0S2VrVk5fTGxjLXpGVC0wck1VYWZIYjJnM2pXQ2NaYWlnakpaN09LOEs1X2R0UzF0WjhTY0RtNHNFaUVCeFhkS1kzeEg1aVhSbjhRUmV3dXExdDlFQURzeUl5eVlHZFRidU9XQ3FjVTZiZzJoVWh3VTNZbjRMWEhuWFNkMGlpMEN4MWVQYzhSOUN4Nl9CcVo1dUo0c2U0RFdMMm1oY1pLUTFFNXR5c1V1LTdfcWItUURQS0RJQdIB1gFBVV95cUxNd2YzS0JHOTJwR1E4bVlIS1VabUpwcnBHQy13ZDRoWUJHM19saWUwR0tXN19wRzdkaUctWlh0aXQ0UndUd3ZEaDZ6REE3a2F2V3NxYTVtZjExWmdGSnNNVGVFMGNRQ2Rka1M0MmZJd1NzY3NBUXh6YktWRk5JdE44bHlYQjJxX1VrWWpjRnFZZDVfX2JUOHRtUlFiWEpuclNMQXBONEZxZTJCYWE5WFBaYnIwY2RiaEYtZlIyd2FzTEdTSG91alhfUmNGUlhhU2wxVXM1ektn?oc=5",
+   "published_utc": "2022-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google’s Sundar Pichai met this agritech entrepreneur from Tamil Nadu. Here's why.",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVDV09Od0JyVk04QjhYd0pJMUlNTVAxTlhJR20ybzZodnJtR2Q4b0o0SnV0SENmQXNvRHNMRHJwOXRzSUhZTE5rcnJJOFlRdDlnMUtCeF9NTkgzYWhGaElpZFhuUE5nNF9uSW9VZEQtSGhqQmtjY2FSWjVXeHpFZ1BtWUpiTm81TkY0RUlZTXV0eDN6bmpwT19ucEJXVTA?oc=5",
+   "published_utc": "2022-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: DMK Minister Sekar Babu's Daughter Jayakalyani Says She And Partner Facing Life Threat From Father Opposed To Inter-Caste Marriage",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOEMxaHJPQUxFb1dPbjJaQUdlR091aWVSVHV2VHpJZUljXzRNWTE0QXNDWjJFcU5pdURJN0FVME1CLWNfVm1jZ1hmWHg2eWJueDl2YnZvTmVLaV9OcXA2TE9majl0TlgwbjlsY08zeXZIX2Y3ekk2c0RyZnFHMC11dTRMRUphV09Kcmo2dGEtd3BRejhaRDlZbGhvbk1WeU0xalM4NGNqYWZJczhJakc4OGlVSnVIU0NJNVhDUW56SlFSQlhWTGdVUUtnUllaanBvVldNYlFpRW9LUXhSYXI1ekk3RnVCdWNpR3A1VGMtUDdXZ1pRWUdHYlpWaExkSTRNa25r0gGTAkFVX3lxTE9DZ1FHYTZ0ZW5IZEdlb1lmZXMwV0g3VGplN1F0VkFJZU5KcG5rcEJRaXhVd3J5RkxZV3NfWGdzVXpuVTExcnpXMHJIbldrMXUyeHN4WjAxbV9qZVlaMHVSUW5EZy1yLUNoNEpBOVFVZFV0M291aEk0bmF0RGFiM01kMGxPVjA4bUFUM2JEWlhGNmlTUzg0UUJmUHJWOVVjM0taWE91RUhNYlA3bEdmSDZfSDQ0azN5ZjVueDRxdVZLR3IwNG84THFtakd1TjJXazZ4eTZvb1h1R0p0d0lYUUNjRnpmZnZJTkhpdXlzRFdDN2U0Y1p6WXNhY1ZjNm1Pb3dPVVV4X21tTUs4cmJyYjB2VnJz?oc=5",
+   "published_utc": "2022-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Top news from Tamil Nadu today",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXdnQlNPREU4cDQxSWtDbHh4blFQMExzTXpkTU5CNXBYODZfd1FoN212UFVIUm5ncUdYc0hEWTZGZXRfdDBJVTV5d0tIZ0FSeVgzdGR0WHBrcXQ2cm9MdGFVUjdJYnlOM3Y1YUczRHhWYnpURkNjNWNhTXlNdG91UEpaX1NDbkdyekFVdkRrYW02Qjh2WFhkSllCWldjbndWLVHSAagBQVVfeXFMTzdqdTQ0cUh4cXUtcUhqZEVUQVNPdEZBX2VEb1p5VFRpbVNMQ0tkS19JMERJSm4yenlJZTlEeU1VTGtNMExUdVctQ25tY21yV2dhVnlaZG5jYzJocEVCYmpqMlpJYzdOdl9STHJYRGhfSjdCX1NtT3RjUWZSUlVFVUJRVnVhZzgyWDNIcE04cExWSnVoaFNvcDhOQjBNcEE3QkdaU2NKZ01M?oc=5",
+   "published_utc": "2022-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "List of best-ranking Government High Schools in Tamil Nadu Academic Year 2020-21 released!",
+   "source_name": "LiveChennai",
+   "source_domain": "https://www.livechennai.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oeFVPU0Z6cUY3enM3ZXBFdjdfMG9NS2tmTzFvVjRKcXRFOHBKeTEyUFAwck16ZFNVV0J0VDJBU1ZnZklPaEhFX3ZlRHhKR1BOTkxta0VMRDZzV2lLU0wyNG9rWERPZw?oc=5",
+   "published_utc": "2022-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

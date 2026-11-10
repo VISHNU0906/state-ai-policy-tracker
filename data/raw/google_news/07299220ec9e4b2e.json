@@ -1,0 +1,45 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "AI deepfakes threaten to upend global elections. No one can stop them.",
+   "source_name": "The Washington Post",
+   "source_domain": "https://www.washingtonpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0VSM2pJbFc1amhEczV2dDE0aEotMmRPV0Vab2prOEVsRnJUR3h6bkd3aDVHRENwQ2JaQ3VZZUNSSEd4dVBCSnJtSTlTRjZMUzdWckNwSll6RzZIVU5pVUh3cUtmdDRvNzFjNE03RGc1QWFGbnNIeTFmbGk4b2poX3RQLVlDem1WUFJDRUw0R0pqdw?oc=5",
+   "published_utc": "2024-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How A.I. Tools Could Change India’s Elections (Published 2024)",
+   "source_name": "The New York Times",
+   "source_domain": "https://www.nytimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80NnZQTWhvQ29rRlNQaUhLREJVRkZIRUlPVElTUldDaFFrX3hrOUd0UnFrVU1qcUdRbWI5eVhwekY4LWV0V3lrWmoxM2c5a1h6NzZuajlyX3lvRHFRSTNXLUgyd053eXZuLTBxSVRfamE0ZFZqeVhr?oc=5",
+   "published_utc": "2024-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake video of Ranveer Singh criticising government goes viral: Watch the original clip",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSjFodkNtbnZBWlpJYnF2b25LaHB6MlFnLThaR2d0U1JvUjJIMG1sMEJJSmxGbE5qbnRyLW15bGpzbnQ5YTlYRDZjZVlrWjA3RDJWd1QyY3R4cFFJWlZlRGZORUhQNThhQlRRbERsLWxJcVJJWEU1bGFaeThXSlZEaXctaUJpMDVUSktFY09mVHBWYjhNTXA1cHl1Y0JpcVN0d3RzNjZDUWVlaWRyZUMyanJFbGhTMGZ5b1VnVXp6ZmlTNldnUkVweWo4YVpYZEVSV1RCamp1YUpfT0lWS3FSSVhOeXdSUzh6cnFVU1Frckw3dVRPZDlVT2dWTktPQdIBgwJBVV95cUxQYXA2Y1g2d2FYTDZOYk9abkRQSTFWLUdQYW54V3QxLVloeTV4YUdCc01UMF9xVVRMaEFxZlhHWG1GbEQ3cHc3VWI4eUxaM1ZiSGVMaUpjOUR4OWhCWWpaemM3TGdoVVRoME5aTDhzTnZDRk1fbEZJZ0l1NXF0TUtfblk0ajlySlk2UjR4bkpDUDk5UVZuQ3hyNmtwT2hYa0lKVUEyZ2hEVXViaGJRQnF3TDVFYlZXbzdORWxQNFNqU0t6SG1rOHRST214M1JlYU5GcHRBam5RcTBxU0ZoV2pORGlPNmhUQVVnTFdVTVRPZVk2TjhuQXpYbV9LLXZ2c2llUEV3?oc=5",
+   "published_utc": "2024-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PG Technoplast launches marquee air conditioning facility in Rajasthan",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNmt2REVUMTBWSWFhUkV6cHotS20yMW5aRzJqNDlpcWVYT1dmZ1FlemI4dzRkNTBHdGEtd2NSVkZ1YUYyYUVnNXV0VEJRYUt6cm51QnJtSkFsVUpsRTQtQ3JlM2ZiUmtCWnZVSWFLZVFoMzlVR255ZUo3dEl1Slh3ZWRNYzhjUEVveFFZX3hUQXdZaExNTWYwajdsVm9mWGVOSDVYTGRBY0pLMmlTS1hZ?oc=5",
+   "published_utc": "2024-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Daily Cybercrime Brief by Future Crime Researchers [23.04.2024] : Cyber Espionage, Ranveer Singh Deepfake Video and more",
+   "source_name": "The 420.in",
+   "source_domain": "https://the420.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWpPeVBfTER6RjdUc2o1RVYtR0Z3Z05ORlllcWJUMXFReUR3VTdpYWEwRXNNVkQ0SEhDNjR1Y3NOc3dIQ290anp4cjhNendKZjFmYVNTYk9DNG51WGEyallfREtkRkNZM1kzZk96RzZCdFdPVEpMa1ZvcS1EeUFzQXhFUnRNbkxsd3JKdTFzOEdub25MRVFDX1FULUxtZw?oc=5",
+   "published_utc": "2024-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

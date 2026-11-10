@@ -1,0 +1,53 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Tamil Nadu to use AI to reduce elephant deaths on railway tracks",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUNGN0RzWHlDZWd1Y1NVMWNidzZvN1BOTmpZYUpUWU5OemNHRmYtZm4wQnk2U3pkU3NUSEFGNFlDdEp4UzVhcC1IeUlheGQxb3YtYkdNdTlqYm56OG9zalFVS0ZaNzI4VlQydUk3M3E3MDVxeS0zZ2JTRzJoZllTS2pWd1M0MjM0VlUyTkpRd1BIUDZyemNwdWllRQ?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PMJAY: Tamil Nadu’s hybrid model",
+   "source_name": "orfonline.org",
+   "source_domain": "https://www.orfonline.org",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tVDJBQVNMQ21qOFI3TzFDR25qM2gwRS1uUDBjZFUweUR6Q2hXLVJodDJ3VElSQ2RMMGFmN0pQVE5WYzluQWlSTlRBcnozTnZoN2tNQ3BWM3FWQm5leTNTWGdZTmFWVXMwSXJXb2JGQ1pmUVoyQ2poOA?oc=5",
+   "published_utc": "2022-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin launches Green Tamil Nadu Mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHhsN1VUUmdEYjBfb0tzNEVuOURTTnNhcC1xQmJMekRiVGZicUxzS1RhX1RCZEwtY1o4a041ME44dG5obnkzWnZTRWpEWDZVcEg4MmhwUE00aEo1bTBaemhNVmVpT3dzbzJjRTJkVDRIc3dOdi1OOUI4SFpQVnljLWdvbE5zOEd6Q1JMWXRwVVdoMUZoQWNQVGpQQ1VNSFRIQzlGaWd1ZzlVbnBLMWpGcE5ESFnSAboBQVVfeXFMT042amNweFh4aHNCeUctY1ZOc0I4Mjgyakc3OVJ2Q2Q0U1VsYXlwNzBaWDBBTWRVQjRPMGlac2dqajRoUEsyOHhyNWFaSE9CSXR1Rl9neVBZaGVGQUQtckFpUXJYZ1JhUXkxRmVKSm8xMWRPRjNaU09iTWdWeERKR041R0trdEN6cDZWZUFFcU85WmV4VTY3Z09CalRBcFFfbkF3amQ5ZERmVDBGWEYwVFB1aFotdFUtMHdn?oc=5",
+   "published_utc": "2022-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Projects Worth Rs 231 Crore Unveiled At VOC Port In Tuticorin",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGJoQ1I2NEpCQTVZRlN1TjFnX3dGUzdndGVCZTVJV2hMUW1kcEJUV2lvTEFtdmN3S2xnWGR6eFZ4a3lPcjVBb3lfaEFFQXplZ1ZkQ0h3aGhtQXJpenJDRXEySTBpS1VDbFBRdl9TOV9JRkhDX1VnU2xCNW1SbWJUQ0REVE42a0ZNaUh3aUhtbXpZaUkwU0dCS1FIdmJ4VXVhN3VlYk1Nc3dzNVhZcHYzUNIBwAFBVV95cUxPXzNhTm5ySlFtOG1BWG1iXzB6WnZxSjZVQ1NPUnJzM2xIN2xQc3NQU2dXLWM1ZEtjOHhTdlNaNmdXNHRRX3dvZzg0NGNVS1I4ejV0VFR0NWZqMDRiMVRKekJ3T2lGREo2X3ZUU0xqRmpscFNJaTlsUTNlb2Z2YW5qN3ZVTWVXeWJrT2p6Qi1QWUNERFJKR21LQlVNRTgwamhkNS1KWGtmclk5TXd2Y2FGZHczenZiTE40VWM5RHo0cXY?oc=5",
+   "published_utc": "2022-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu electricity tariff revision comes into effect; want to know how much you have to pay now?",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUE5tcnlyeVNJcmNFNnNCZ1hNYUFVdkFhVHQ4QWhzaFZuVGZiRVRNTXNoVjRvckJHRGhhS3RIWUg0U0lqR1VqNmhobnRLNXN4QlVOdEl4LWlPWS1MTWR5azVrODl1MnYwVjc5M2YzYnBGUVRrWERwaHk3WjBYOGVRdmNwa2gtZVdpQWFFYTU2c1ZKMktjRFkxREYzVlVvVVNTNXRiUXZiSUV3LVpaakpuOVJvQnlXdkpZTVd5am1nQk12Smk3RkNqREtJc3FNSjJfVS1ZYnktQUtrVnZLaDRRQUZFOEJqV19wSHNUeWN0ZkxMSHZmVS01em1uNE93ZlVsUHc?oc=5",
+   "published_utc": "2022-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ola Electric enters Nepal: To launch S1, S1 Pro e-scooters by 2022-end",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONUREX2FORDcxZTh0TWx2TFZRMU5BUlNWMTk1ZU02RXMyLVNuazBFNGlDT3pqRzlKR1EtUmtrYVFPaTJHR29UVFJGb1RHVXhPck9WeHU4V1EzSmdyRlJwVjh1MG1ObGZBR2N3Y3dxaXdBZ3YtbTlULTdTNTJyOWhmVE13dkRSSFRYRUFsYk5YLVNMU01Hd3owXzRwbVZRTldYRnAwQzdiZmlCVzlJVzh3UEk1V3VIUHRvMl96d0JqejI3YjTSAcoBQVVfeXFMTmVmY0lhTVJvNFk1TGZPNzFiS1hLMmJkY2JpTVBxOGZ1N2trMjdBeVBzaENzVkNOdkxIbnM4cUxTVmVhcVFyUV95c1dHZ0xmZ2pUUmRVZVp5ZFJLbGVZOXVaRzgycGxjdXJIcXFpNTI5VElhM0VISVVoeEIwcUk4bDY3RjUtNEZGZEtVaE9fRUtjSzlXSkE3WkxXX0FsYnhYbFl6RXd5enl5VzZBNkNYZDU3Q192eXhLLXhaOFpVZ1pfYkw2N2ZyUHRSZw?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

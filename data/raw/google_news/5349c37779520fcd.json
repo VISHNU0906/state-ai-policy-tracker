@@ -1,0 +1,69 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Tamil Nadu govt launches AI-enabled panic button, CCTV surveillance in 500 Chennai buses",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUIwcnNuajhiM2tfcFdLQ29RRlZFb3dJT21xejRaMEtVSzBxSEVhcHFFY1FzRUltakMzWGF5b3czcl9lUmhnc0xfMk1HNmExaEZjZWttV3hyX2pVQ0RSU2ZhdXI3aVJabEo3LTBYMnV4bHJBa1Exc2V5aTdETzk4c2s0UGQwX1pLMmhhcVBJeEtvVmhRdGxRSjJVV3VHV21yQWh3aGlQcGhiNlllTTNNOHdPT2hFTWMwbjFxeVVXN1RHazZweVNMcWRmOVpMaTJnWFpiTzFjc3lyUC0ySnfSAeQBQVVfeXFMUC1IYklyLWFSQm0yZDNGVlVzZ05WSzBzN2g1VERpU3BHQWNud0ozamdscmNqQWd1b3RxRU0zLU5lemt0V2owMFVmZW10QUxORWJoNWxrcGJpWnAyemhUTDZ0ZmFzcW1IMVJBbUcyQmtHUnFLQl9iRlpfY2h4bmIzajBCOWJ4Qjd1YWZma19VeDJhSGp6cXQtaHVCZ0VnbDNWbVFjNmJqNUllcGxnaE9HX1pEN1lLNWlTT3dSZGpyZV9jelZmb04zeVYtTEk1ZFU3NUtYczg1dm11YlF2Q3k1T0NlM19T?oc=5",
+   "published_utc": "2022-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu sends the first consignment of food, medicine, and other relief aid to Sri Lanka",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMXhvVlNLY0NIUXZCWWxUNnlXb3dMTmN4SElzUVF1blFwVm1BRkZxRFpNSlRhX2I2RzI4MzhYdGhnVkRkeWdHY0ZFQ2VjemJVSGxBUDFnY01Cb2k0dzBvbG4yRGdkT2JVR0VZYzRpazhqNTRuOF9xdkhhb2JBWGtnOFgwVE1yRGZVSWZKbEx1MGg1OGs0MnJfZHphbDlFMFZ2dzdNcHlKZGZfNkduMTdfemk1WWJmRk04d0RqT0h0RkdGSTZUaEYwUnRSTW9HUm9ONkw1WEJVRm14U0tuZ0o1aVQ4TTFOUdIB7AFBVV95cUxPZ0RqSnk3TS1VM0hobmZ3eWdJUTFBYjBKd1NIRHFEMXlJR1hTVnZIQ2c1aVdKR0hXSGp6cUxwdFRUOTA0dWNLQ0pzTGctSFBXUUN0dm9EeFZNRzFmbkZUbDN3U28wSVlELW9fOWFjakNLNVFULVJOWFhybExVMk1kbUs5TktrOHRTZVdGXzc5TUktYzBObWxNOGFqc0VJUFJYNExuOW1XR1JQb0xBbnRpMzlSNHl6SkI2UlBPeFJJdEVmNmhtUU41WXpkd0NpVTZJT19faGlpNUlHRThHdUxzNFRTb1E5ZlA3Y3VfbA?oc=5",
+   "published_utc": "2022-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "191 schemes can now be availed of online in TN: Mano Thangaraj",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0ZpUHZfdGdVWEIxdmJ1ZXBVZmF0eDJ1ZEU1Uy05MHRLRWdURHdfX01aNnNFaGxiTHZLMVN5aFNMUk5ibXBYbFAxc2RNeUhsS05fWURrMENrc1QyZXRGRFNvMU5xT1FsMFU4c2dMZFZZZHJQaFpYVW5aOUYzakQ5QWhmN2xYMFktR2M5NGhQMjRlU2t5V1NrbU1DcG43aHNwQUVaT0poSWp1THFQNE1zSHNGYTIxcXZJS0pzNUx2cFRFLWg5Ylp6dUNhSUdNTGF0TXfSAd8BQVVfeXFMTkFJTWhSakxSamJBQlRvaXpHRGhRdEF1eGJSWVEyck1KM1o4N1RTLUppV0taOGtUQWdGeW9ubGFVZFlYYkktMDNYbzczT29ZdHBHYm9oQ1lMbmdGajRhaldRQWdnYnpfX1pUeUdwOVB4UldwYnJYMG44SHdEZ3hxMnBvMHB4a21WY0IzUU96QWllQ0VUMHFCVHpzQU05NG9ocUpLbTJwS0pVaG1GcFBEOHBfTGxBckFiTG5UYmtIVF9RLXpVSDBMREJCOFFUZjNLNDR0aC1nSnFMZjBab3FtWQ?oc=5",
+   "published_utc": "2022-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How are AI panic buttons enhancing Tamil Nadu buses?",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUl3RTE4OUo3S1RmR2wwUXB1ZnBEVm9oMWVBM1V6RXZvUHBDRFlWYko4czVGZ0IwcHNualdqb1IwbHQ4Z2xHVWJ5dXdsZE9GbkJUVy1NcGR0cEk3WHVfM082ODlwWEFHd19SWGVCNFZCa1gxYzl6anFIZklfRUhMalA5dGw2eng5b2NWSmt1SVZJRDFpOFBFUnNrdnRFTkV0M3psWDlPblRaYVRrdkdJWA?oc=5",
+   "published_utc": "2022-05-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu's tech-solutions hub to come up at Chennai's Anna University",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFVVbjdVWG9Mb3BkR1pqaWE0RWhlOU45Q3Q4UXZPa0U5NFh4UEtkZDA3Mkd5MkZ3THJCdUpoSV8zV0Q3Y3hHRU50eUt0czFsekE2M3NVdk1aTWNRc3FzUW4zM2M0RTkwdWhnbVNpZjU3MWtqeXhTRF92NmJzZG1tTzIzSHc0Y0tEZjFYSkVJMmlNZjM5MElrZmRrc1NFX21LQ3ZrNkI5OWp2NmhjUWw0M01QOTdGYURYOG5Db1pEclROWTNiWGh0QS14NmsyZUx0LVNUUUZJNEnSAeYBQVVfeXFMTV9mZEdjaXBna2w4OHY1NTZkbVh3dHRCNFFPYTgtMm9GS0YtcVM2T0J0aU1rNXA4cTZ3NHNkQjlNNnVBTmZHWjNCVkpseU1wUXd2TmNUT1dyOHBmWE9PWFM4ZVhXR0xDcUsybC1CWURyU2ZydHRQbXlNd0xfNlV4dndWbmRVNzBPNUxLc280LW9tM09PS0t6VTNuN2h0bU9tV2d5XzJoYUxoWGg4b1J2bUVhZ3ctdEhBSkFpeXlORXFTVU9LRy14TVNmbnRwY2xpVTRtUXlxQ0VScmk1dXB0R1lHNlZDRGc?oc=5",
+   "published_utc": "2022-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu minister faces flak for saying ‘misbehaving school students will be dismissed’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWjB1ejlub0RNOF9sRWZXQW9KN3M3eEh6ZHA0UVhwWm5ibWtUZzNvdGpkMi1uQUpQM0NidDBFeDZKQTEyV1JtclJqTEt3ZGVTVG1hVkJNaXdqbnNJcmgyczQwWm5PdUVQZ3ZQcVR6eTBxa3lGcmI3U3NRM2doZHdYLVpCeG1WZlBYb3ZIZkdmTkp1a2Qwa3J2UWJJWHVOUjF1cFpDVzNTWno4X2Jpa3A2MGpjSDhRRksxdkI3Y3E5QTlrUHNvUC1mTEZ6a1ZYc2s3SEJFZldXclhBZ9IB4AFBVV95cUxNMV9pbE1YWFdxR2UwWldrajFHZERoczJSbEdmcXVxTVdGbmM1VzRuQWRjaHpvQ1NYVGhmZV9kNG1EV3c4UTBFWnBrbmxJVHp4RHJSUmhoRVk3cTAtcWVJcV9iYjBITEtEN0dQenZjSU9BVUU1aTV2djloWENjY2xYTGVWWVhJV3pQWHNfZGs1WjYwWThzSy1MQ01SaHhLQkZJNlZBMmsxSlZrWjRhQWtOa3ZyVUhKZE9saHBrMmVsQ2JycS1JZDl0SUx5aFZWUUlpLUg2VFkyZVA3MU9GSVlIRQ?oc=5",
+   "published_utc": "2022-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "New department to address pleas endears TN government to public",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3pPNlRoZWdmODZyWUJRVEJRYVBKQWt2OWlxYnJSeGVsSUQ4UjFpQm82Q29xeXJvR3NlSVc3RU9DTTdKYlFCQ1F6Y2pPdzF4d1VWLW5EU1c5Qm0xenprVTEwVnRXYlZnelZSbUhiVlBYWnZ0VlJ2eVUtN1ZuTnJZdFZ2ZEFMNnBJWHp1cnhWZWFyQXRKa3YzMnp6RWxLVDVfM1A1U1g5Y3QwTzFVMkd6dW9UWm9STzJicnp1Z2FlcHVpeXZLRkU0QzRPQjJBVF9JZzQybGtR0gHjAUFVX3lxTE8td2R1LW1uT3dNVjVRME5veG1pUTZHc0luWWNteVBXZUs0WWRvTi10cmhVSE5UNkY5NkVycnhQdU1XUkZ5TndLVUFWLWVDVEs5amZwWS16Ukl5Q2NEUVpmZVprZElSZk5VdjdHYldKWlhRakc2b0NuTXlkMDQwU2RCQ0hjcVoyMkh3M3N2MTlRbXBINzI1emRjQ251WWlyckZXbHo3RVY0Nl9acVlMRGRNOGc2eWhEMnJGS0llYmxOWTNyVXJfeXNicERqVEF6dDhtS2VzcWppVDlMaVhrVV9aUTVZ?oc=5",
+   "published_utc": "2022-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Superb news!! TN government school students to get Rs 1000 per month!!",
+   "source_name": "LiveChennai",
+   "source_domain": "https://www.livechennai.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoMFZPVFhSb2VTLS12U0x2OXVpVjdDMDlvSlhzMXVybU1pOWNFSDhxVUhBZldkdmVvZm5qRlc2RFY0ckJROFFsdlRUZGZCWUdqUjJyOThTVmh0NldQMkNRMnUtM3dLdw?oc=5",
+   "published_utc": "2022-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

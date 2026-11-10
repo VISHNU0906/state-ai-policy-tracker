@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "Maharashtra govt to provide Diwali food kits to 1.67 cr ration card holders",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlBTbEdPMUhYazlpSXBXdlYyZzc2QWlJOUszMzFHOE9waEFVdm03djF2OGF4cl90NmZvQUh5WlNTUjdxcWJoVEVaOVJ2V2hWY3NoQ2xNMGJSbTBUcEduVlRFM29ubzR5NlFhQU1PU252SGV4VUNyb1A1WWpHa0lLdWhzVDgwR0FrNUFUQmFjT0lweWU1NnhfVUhHUEfSAaMBQVVfeXFMTllpY2hEMzg1RGV3VkhPcDliQ2ItU1hrTFFIVUVCMzZUYWlhZmhsS1Qxc2REQUVtOWQyMnpkdDh5T3VaNEUyV0R0WnV3UlZxQ21aVElQVkF1T21vQ1lscmd4UmR6TWhBRkhWVkhaT3lUY3lFZGQ4SW9DV0dFc3VtWmc5aXBrU2FJSmtWcVl1bHdYNXU5VzIxUmFqSzJkSXo5Rk56VQ?oc=5",
+   "published_utc": "2023-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI in education: Yogi govt starts pilot project to teach AI in madrasas",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa091T1BrWlUwdVotYUt5WTRKamxaMEFPS1p5dF9BZERVVENNMmNTV3Z0Q1Nhai1Ra01OQlZIWlJBYW1vWno1M3l4N1NxN3lpQ2hOaGVMeXdLazNYNXZyTHNUZVF3bk1MVjRMZU85RW9qUnF4UWNtWDhBYUVBMkFwb2hPOXhoVUNHdWV2ZC1SMVNROUhucFJzLU1YVEVZdVN1MkFCMGFsUS1VWnR4Q2VrZjQyYVNNbzZpX0wyTERiRGZ0eTBRSzVGWVRiOGotWnhsdC1iZm9Jelp3MmZlTVZpc0xIU2_SAd8BQVVfeXFMTzUyNDhEbUd4Zkc3bGNKWjRYQzByU3p1WWtnRHNVenNjWlF4Q2lQRC1CcWhSVjBCVzdwci15RE5rQ1lJMGlxYUI1cFlBUDItOGhLd1I5ZnVlTnUzMWlxVFlnR3ZpMzQyd3hWR09HamZSeHJZZzhXSW5FaExIa2VrcHFyV0tTZmRqb1NpSEVRdVpoTHVvVTRRSldWSk9JSFF6TDItd0RVYTFCWnpMLXBCTFhvUzhQQWtoMVgxUE1Td1FqblJJX1piNVNFQXQ4RHRPaTNLdTBOamVZeFpkdXFNOA?oc=5",
+   "published_utc": "2023-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Nilesh Rane -'retires-' from politics",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3NQa3c2SldXdVpxcGt1LXZxeGs4NHlwVDhleW5NX3JBaGpjel9FcE9JMVFIdWYxU0laWlg3TEdWTl85czAtcWh1Y3dNWHVfNlRSNW54YVpqNW1UNXFsWmZ4U0MyTjdyX3gybnBYWngzTGNCTW5rZFlZWC1xMTVvcE5ZaVRBR3BmMkZXcjdqSDhyOU04cHhuMXhGVENTY2h4d0p5Y19FVmnSAa4BQVVfeXFMT3FsaVVHYzBGSGgwVXBQN2lvUW53WnVhMlhXQ0lWTXRTakoyeGItMmRhN3FsRXdyQnhQTVVfdGRhSHZGMGdSWDlSSTY3MUpxQy1aNlFiM1dBTHU2QjloSlNmR3ZfejE1NGdyY0RSd21nM2tXLWJIRlhzOHhkTUItOUpwX0l1WFBZZ0pURVZBRVFHUjBVbFFaU2NrMW1mbjU1cEJxV2ZwUzd3cUF1R2ln?oc=5",
+   "published_utc": "2023-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra suggests reforms in NAAC, higher education minister writes letter to Centre",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0E4eXp6QWdTT01CbGp0UHEtZEVRV1F5RmNUYjdKT2tEUmFnSEY3aWtfOHFVUE9wX3hJbWVuVG84U245ZXBBY2xlRlJQendpUXZpRDdkenNXaVUtVHBnclRIX0doTnd3YmtMSEI0VjZDNFRucDdaUDFpZno5SW80blhUVkVQakNaVmJRd1dIVW9HZUJaUDNhcHpFNXNRam5fRDRoLTNLaEFkMU5YZExkY0p6R01TdzZYVWhJT3FhNTZYc0duN0xB0gHOAUFVX3lxTE9zOU1LNjhGZEZsTV9HS2xXRlhQa29XU19aY0FPOWp0ak1jQ0NPSlpUNnk0dEl5ZFpuMm8zVEp2WFR3dU51S3ZZc21UU01LVW55Q0VGeWRuVEpIdEpPNHNBR2hFbmJ3RmNTSTBiemp4N1dMaWhLSXlra0J3STh0elRDN3RuS0stRWVZWG5pUmhqUkpWRlgxS1lFUDFKdGswNnNZOXFoQjRnZzFwMGNVRkUxY0xmc0c0SFMySXZnWlRDMnRhMjFfVWRtUEg2WC1B?oc=5",
+   "published_utc": "2023-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre committed to improving health infrastructure in NE: Union health minister Mansukh Mandaviya",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSVFhVWg3Slktd05ic2VQdUFvVXNXVVc1RTRYVnMwdlhwTUpIN3BkSmNpQWl2SVNvaEgyX1FJSnUzVU9pTGMxZHB5WFQ3Z3loREgzaDVaQ1lqNE52T0J6dFItSVc2NFpVUE1hbm8tYUhXS3hETGVVZjIxM2x6YlhBLXRKWXc1NEJTcHQwT2FyRi11SnlIRDduM1hBdG9fcGpRREpWSjRGak42SFZZVWJydWJPV0tZRmZXeUMwTXhzM2tlVWkwTnVrM3hsVUt5ekQ0T1k2c09iZUZSNWZlR3RPcjNkTmJCTDRHS3BWWlkycnVxNGNMaWgtSkN0cVhfMDjSAYQCQVVfeXFMTm01ZWsyeURsR2k3UXZCM2ZCek8ydklGZ1FTaFpsYzdIQ3pua1U3aTV2RFdKNHV2c093WTIwdnI2VjJxV0FUTDI1Ql94WjJNb3FGWnhxQUFTMDdYUmM4NDNSTFRaZjNjTjliVndiM3dmWXpMcWFXM3podXpDVVdfRVhqRi0zNVFkYVFLSjNia0ZUZ1hOSWhkRFY4M3AzSUxHYU9STzVvQUIxNExPMnVHQlBBXzVMOFBNS2E5R2dBa1NFUjlUSDA1aElSYWVhcFdkLTFLSVVySF9yS2x6RzhNWWRSa3M5dFRKUTYwelMxUnBxbnA2TWxKSFhjVV93bXFaaXhKR2U?oc=5",
+   "published_utc": "2023-10-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NHAI upgrades ATMS standards, deploys AI to enhance road safety and digital enforcement",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcTVFYjZRdzBMRjNXcUVFc19pQUtzZXpMVVVJcGN5NGZHNV9yZ29Xa2RwWEVBeTk4bk1JOHctX0tzczlRLXBfLU9VZ3Y5UjFLY1BOZUR5S3FMdm9UOHFpUTFteVo5eGtkZG1oUkpzQTVPT29HemRvcG1XeDdSZmh1ZjVSNndLcTU3S3FNTlBhV0hWbG0xbFlySWVKcE9YejFpSXplcEc2S1AzQWFMRmxKNFcyWUd1VWt1RFJYZjViTmxnVWM4SUhrY2UwV1FkUV85b1JER0ZqUVNPejJSZnZhM2I2RlM4a3hFVFNzaEYwVkt5cHZ3VHfSAfoBQVVfeXFMTkRwOUppU05ZdTFHbWhfbFN2Z044YkNzVXhIc0ZJYWZMWkQ4aXJQUG1BcFBHcHVUOVZfOHhLOHhyZTZvaXlhT1Q1YzdiUXB6SzNDRVpyMkU3UGdySE5COS1kNU5nZXlJSFMzRkQxdHFEUGZFSGxoQlFVMDdEaFZfNm1IUXAyNG01RUZ5UE9IRHExLWtmVEM3VVg5ZlZIYTJOR3NCSGVjNk1rdGpaa0UxN3RCRUdsaUI3WDFQUHRHMXBCSW44R05WdVNWX2N0bjVjRkQtTkZCR0JycFdDX0VyVDVSUjF3OEIxVVNibmhhMmVnbDRISXUtYnVRUQ?oc=5",
+   "published_utc": "2023-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sugar mill linked to Maharashtra ex-CM gets govt security for Rs 147-crore loan",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV3cwRXVTcFBwU2R4cXoxajRnVFJFVHNMcjVKWHVPS01nSm1IUlJ5WUVUU0JtOFcxMWpXYnRpanhxV1htcUtVYjBRUzJEZ0stU2VLR1BickRvV2hXYVZYbnlJbkNTeHZUQVBrMmszNVlPWEdPRTJfNGIxZUF1Sm5CYVF2czM0VDNwb2pXVXY5Ukx0dHIxNXM2SE5jX2p6WXF3LWZmbURkOUlzTzBzRjEzR0ZzQ3RuLUxKbTE2NktsYS01bU5DaDBPUGUzZFBaWllkaFHSAdgBQVVfeXFMTWZLSTEwSElpa1llU3dwcnMzdV9UNjB1eTRXcEdoUExEdkNQX01lUTVrWmxOYmJzT2FvX3VGNDI0V3NhWnM3S0FESkQwWWV0SmhKRGZEVUE5NFVSWU5vV0IyZVdoanhuMGZjczdZTWtPRHZCemE0VTJDOXNvZFR5dUNEOWpkWm5jOExvTS1fQUZTSDBua1JLSzlwejY0NDNrMkYxNF92cERyeDdPcGV5LUdoVGdqaV8xS3E1OFFHNVV1Y1N4cVhTV3FRLTM1YVlOZjhEeVUzV09j?oc=5",
+   "published_utc": "2023-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka IT minister Priyank Kharge urges tech industry to invest beyond Bengaluru",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcXVhOHotWGUtTXpWMjVWUHZPZnhyYzZCckdlMVNaeFg0VWtSNFdPOFdxM0VxdHdwWmJ2d1hzZk51bGlMTEd6WDk4aUdFV21ELUZ6UmY5X2M1T0NJcjV1NXVoNGZldm5DLVdDbTJ2dkxwSW9vU0JNNVFvcTItZ1d5dVV4d1UxbUd6d3JtWHhMLWZVU2RWMGlOWUF1QWRJQkpTU1hXQXlZZjg4VFNGclJ2bFl3VUc2Mzh0d0hCempkM0xIQWg2SXdFN2J0RENxTFIzT1A1eVpmQXRkVF8zQjFGS3JYOE1MdEnSAewBQVVfeXFMT3pZQ2hGRzhfbW81YW9nS1U4TDQ2b2w0Rmkwa0RXeUJTQzYySGJUWVJYY2c5TGxETFZ5ajh5N2NWbDVRZXhJYjYwQ0xUbmlvS1hlRktaT3RXeEEwU0dLMDdDNzBUWi1tNjNfdVBKYXRERkJXZ25VeGdqYXFkQkZwdEtfdDdZYnJHQzM1T2RadGFyTkpXT3RkOVVOdzJYYWpuSS1sTmM5UlZUOGFlWnJwNi00WHcyWjlnQ2ZhWTg2RUpZVWlpQVR6S2hJYm0za3dFY3VLR3FtZkh0WERudFBUMmk0bldLWHFZeW5FTHQ?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt approves 109 research proposals, including AI-enabled healthcare systems",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLXViSnZodDg1bzEyX0pwV3VJQkQ2RXdwV0ZMdWVUSUI4b2ZuUWpJUk1Fek5iNWZDWjVxdERuNDBkZDBodzNqQkFlaVJ5SUlZVDRKVzA3b2RGcHVpTTd3bDV2Q0Vyb0UwVGhEYVhwQWFyQ1dWd28tUEYxTmp0MjVRY29hTy1jQmNqZS1TNzlyLWRUNUV3cjB4MlY4MTJNRzZwbUQ2QkNFaHBDRkV6T01OeVE3UWhENEpGM1plMXI0cUo5T2pxNUMxT1JIZTg2RG9OclZkZ21KSWV0b3BpYl9oWDhhNUNtZVJt0gHsAUFVX3lxTE1FZlJ0VW5WaUhkaDVINVgxZUMxbmlrNERFa3ExbGVKSUlsRVpYdS1oZl9LWVBPMTdFWVhsRVhaY3cxZ1ZZNDJrSVRtbHM0dHZyTmpubWNoS280ODlLeHhObkZvUDJhc2ZwSGV5T25YU3c5cEIwMUVnWkRWOHRWQ3RuRFM0QUV6dzg1bVloZVZGYTdtZGh3dDhvbFdvRFltODhpekJpbTJsYUVpVUNpN3NLSzh4cnhkWDB3Q2tfMzM0ekZ2MUExaXhub1YwVUVNNGdvMzNjS1VHaEc0U21VMDItNjBCdGlCU0pYVGVm?oc=5",
+   "published_utc": "2023-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Issue Of Toll Tax Collection In State Heats Up Again As Oppn Accuses Govt Of Large-Scale",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUXpWR2VTUXFGR3hGUm82b1hBZ1BLYkd1RFhIckJoT2ZaeTlsYlVtWXBXajJDdkFNYktyN0otZ2pfOGZZZ3ZIRm01QnpkSUJ0ckFaZTR3TW9UWGRIQVphMmxqTk12aGw4R21sNEl6X0FydnpVcW1ZZm9vS2g5eTZYMGZ4Q1l2anJlcTgyTWxrNEZHbEpkeF9OaHJIdnJuWjNTNDRrOGthODl4cDZxd0IwUkYyVmRVUW02dEthZ2hmMHd1bnlWajI0WnVRMDBBTVpvUjNjYWs3ampjbXFnRU9UOXZTc07SAeoBQVVfeXFMT0diWXZHbHAxZ0p6ZjRqSlBDT0RUTzNieUpNNDZCWHo4NVZiVnJjVW1RdTV5MHQwUDV1dkpGLVV6OGNSMTR2VS1rMC1ISVRwelVHZnZ2SjdJUWljMXd1LUVCeW5JUVlOUUQtT000NG9xMl9NbHlUa0dWb0lwd3g3WXhUT0xqNXRiVWtYZ0l3aUxhQ0JBYmgxbzFzY2gxeW1OSl8xWVo2RFkzckZZV3hZNmlWRWgyZk1OWDRwcXo2MHlDdGNEcWZwQzdkVjdWd2VyOGo5RUtUMFIzY0N5eUI4ZXRmU1NSTktBYjhR?oc=5",
+   "published_utc": "2023-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

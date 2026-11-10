@@ -1,0 +1,61 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "ICG lays foundation stone for the Tier-III Data Centre of Project Digital Coast Guard in New Delhi",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zU0Z2TkptWFc3UmY3ZlUxaEp2QWlsT1ZUU0pSVVQ3dWhVdWpYeERGQnVhTU4xUW40TkVuU2NVNUU0Y3NuY2tnX1RTUVhibzh6bVA4bEh4aTBTVHVYREtIVXhSdW5BWXNS?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ICG lays foundation stone for tier-III data center of Project Digital Coast Guard in New Delhi",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSnp0REhiLTZFNDZ0aXFCalhRclhxRXVrUFZZR3RCVERfc3p3bFhwWGJpSUhleHhLSHJrbVpYbGNST0t4WHE1WHZWM2JIb3JpcHhWMG5lSjE3U2hwQ2JvWlktdDY0X0lfcFRfdEV1aWRFUldJWW82THNEUHY2bXZhLUd3RmE0WVRNVWRJSUtqRUpVTkZQNVpicFJvcWFFVmk5bHFUSFc1RVpEaUdXOEVXLWZGMFIwVlJlQTVrQnVVUDZuZ1hzMHFabjhqNW1FeEtGLWh4dGdKcnZKVVBqZUZ4S3JzYjNuNklRa2dRdVQzTW5ka1pVb2pj0gH8AUFVX3lxTE13YlB2T3lZQUN2dkh5dXZTOWVPNHpoTVF6UV9XVnZXTUNZUVpGNXl2bzRJUkM4RjVOVjdfeGVqQ3N5cVpLTUZma3VROVY3NGJwd2d2a3NZeXVfQS1GdmFwRW90SEphNzV1UE9GRDRFUGpRZWg1SnY2WENDMHBCTGJ0WVJnd1FicHYyM2VLX1FBcVpOVUIxcC1LR2FuQmRCM1VEYVJtbFJMOEtZWTFBeDBuVDRMTm9UQ2lDMGJHazcxcjdaSEk1WlRxN2hvRmVpSWhSa1EzbEJ0N2Z1eDloS2RkMmpxMlhaZzVSWkRvYUgwWmNxdGFZblp6ZjhHUA?oc=5",
+   "published_utc": "2024-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Beyond AI: City’s traffic needs smart management, signal synchronisation",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQXNLUWZMV1dGZ3dhOExBeVZ3SWVPY1YwblJSN0JxSjFrbmxtWFlHQXBLX0pWZHBCY0diZDNPNVhOT25BVHItR1Z1Nk5VU3dHOFhCQ3ZwcXcwOTlJbGJvMUg2TkdkUjVIOUJBZXRKVW5RbEs3bmJKckhSNE5PWkkyYXlIRHlSWU5MajBrVVlmT1BlaVdKTlM0QzNHa1FPTVFhOWdISVFLTEVRei1YNk1CbDVxLVhWNG9yNWxvSEx0dGxhTFllb0VRU3Y5YVdzZlBiUXdQOA?oc=5",
+   "published_utc": "2024-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka forensic department turns to digital tools to identify deepfakes, analyse smartwatch data",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbE1sU0VFdmh0bFBJNjVzNHowTjNuZHY5S090V2RkRHJsV3VlNkxiSmNZZGJJSXNsLWlHM1ZvWWh0YUJobVhGMm9LOWFIaW1wUGozYjlpVTJUTjAzTzRwN1NzZG5DOUtaZkk5dk9vckViaGV1SmJEVHhrMmxueVotZ3lTdUJROUFIMXFISlFZb2RJd2N4ZDN4WDRNemdZTzhSRzUxYzBIdndKc2doNzBKMjU3UW9PQXRZaEk0U012YUxqOUc1ZmRHcTRvRE96TzNlSlZUb2h1VzJYSFQ1cG00V1NxaUpVY016M2RTZXIwcUZaUdIB9wFBVV95cUxPeFRZcG9SRmo3elBqdW9meUVxMVVjcDh5eHNVdFBHNVNndnVRWDdYYjlGSS1aZW14TlZyWE9vUk56aVQyLUotaU41U2ZubUtJSzFGT1V3OVFOTUFnYmg5bXpDQmc1NWxfelBXSVlmYlUxRmhzaFZPcDBxeWtaM2xvNVc1VV9tMnliVnlXWWJVbUJNMDBwRGdpQTl1c3dJRi1YWVhzV2g0U1FTS0JWakV1N01ReXpWWE5CYXFHTTNtMkdFQWNyQmRTMTlBVWZmbEZxdnNCWjN3RkxxU1REUGNiRjVGZGdYRzRZM2w1M1NFd2lORUZpM04w?oc=5",
+   "published_utc": "2024-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mitsubishi Electric’s Climaveneta invests Rs 400 crore in high-tech HVAC plant in Karnataka",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2tLVW1BUGROc25xcGUtRXRveTAta2RHX0RMNHpsa1kxZl9DOWpUU2ZUZzZjV1JzbnBPRkJBa0RaNmhTOXJXLTdyNmhvTTZzM1VYYUVzVjh2eHhjVXFvT1hBNkJTUzBidWs5c2UwV3daYTJ1Z3ZqdWlfN2F5azdGdFR0VVpKaW5jbmxPQmxaSnhRa25LMmR1bmJpVWU2UGY0TzBDUTg3em1mdXVjZUxGMTliY0w3QVR6c2I4LXg5QmE5ekxxSmNTQ2Rn?oc=5",
+   "published_utc": "2024-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Two Bengaluru residents lose Rs 83 lakh to deepfake videos of top industrialists",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1FoTm52R012a2otcDhORVAzY053TmVQZmVpTXlxbVdMNjVQNDhvbXVlQkNkXzNKcEo0LWRmTDdjNU5vaUhWYzd0ZHpFSlhGMS14Wjl0VVpOZDFsTXhQZXhSQlltbWZseFljUWFZSV9VNW4tTHpoRjUtcHN0T0dHRjZFc2U2Q1hOV3BhRklYcE9veGxFSUJ4NFg1a2txbGVMRGJwY2lqREJiS1JjUlJiT2cyeUpfcUxra3RyRzR4T01tMS1fQTNkTU1WVzg4TzjSAdQBQVVfeXFMTm82M0xOOFdmR2V3dUNZLUg2endhMWwyS2VoYnAxdjg5eGlkSVFzWjFJVVhpbnRfUkFCNnA3aUEta3pPMTUxVjdrTGlwak16LXRvQzlGMnJ5eHYwLUJydC1YT1lYeWhKajYwWEtwcDNfaW82c1pnQkl3YktVZi03ODJJUzFLUi1vQUJxRzdmMndBR1czRTZZVFlNMjFCVXM4c1lKc3pLSGhMQlRKUWRXc21oNVBSekFmZU1UUlFvOUpCYkxqSjc0VXNvS0kzRjR3b1dHU1A?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Lokayukta Raids Multiple Locations in State",
+   "source_name": "Republic World",
+   "source_domain": "https://www.republicworld.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOV82MXc2bVhUTkJSUTVJdzRQLTNZN3BuSURrV1Q3SDRzLTE5c2FUaHh0eVJrcFhzMVNvZFJmQjdqNW9lcXRhYkJwTS05U1F0UVRtNjdYUlRJSkd3R3NaWV9RamdfVEhhQlNHV2E2UEZ3MDliajFfaXo4Vkt6eks5NFBZMzRhMjVpeS1DNUxnajZrUdIBlwFBVV95cUxPWlpyTzRLMExwemVjVzFLQjh0ZEpWUWZhRzhzRjFyOGZzX1RJVUp3TEI4em9QWmZ5Z2tkOVFiRURNWXBVR29JY09FY09wUHoxdTl1UGk1WWNuQ3M2OHNQMVYtbjh6Zkg1Mzk1d29hQnpRbTNDT19rdXZ1a0d3TjVaa3dGWnRJdFZsbE93RmtRN3BvVm1qaDdn?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

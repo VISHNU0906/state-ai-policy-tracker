@@ -1,0 +1,21 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Deep Fake Videos Case: Italy PM Ms. Meloni to appear in court in July | Italy News",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2lqVzVsMGc5TEJBOE82a2kwZDF6UTh2Q1JLcHZPUlRYY0MzeTgyRUhmdENNVWo5WXBkTUJENnhyd1ZjazZLUVUwRTFDUURNd09tWFFvakxyRlBjejNpTUdUeHUtZWxMdjFPRVdTM3dkaWtkdTZJTWw3SFcwNDNYN2Y5NGt1d1JTZlg3UlVnQnM1ZjZ1MWswTWF6R2hXZng3QnNOZVpScVo?oc=5",
+   "published_utc": "2024-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake videos and images grow ahead of Indian polls, stirring unease",
+   "source_name": "The Straits Times",
+   "source_domain": "https://www.straitstimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1JWX2YxTmpiTFNyRjFYU0dRTDFtYVp4RFM2ek9TR1VKeDBpNXlyZ2VTTzc5SmtCZTdGU0RFc1NqVTZiX2VfeTFNU29oRTJndWRKN1FFcG9WMHQ1Sl9PVzBwaldQSnBiS1FIRzdLdE5pcGhuUXktUzB4NTBOU011aG1JM3BoMTVXUjNlZUNVWVoyRXdIeG56aURJeU9EX0s0OW4zYVBaaFNGRU1sVU82dHFweVg?oc=5",
+   "published_utc": "2024-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

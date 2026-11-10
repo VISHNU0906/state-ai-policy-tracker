@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "PM inaugurates Kashi Tamil Sangamam 2023",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFdibDEwM190R04tbjJkWWhuemw0bF81cEFEczRsLTFUazRfc2wxTmdWaGtCbmg3YVpuYjhkd0pXRzFISlFfX2sydUdWeU5aeGltVGdSSkl3R1NrTVZLanZrVk5xWERDWFJ6eDgtMUhSQ2pTMHJ6aE8xZURKQWs1TEd0MDlQZ2kySWw5bQ?oc=5",
+   "published_utc": "2023-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madras High Court Convicts Tamil Nadu Minister In Disproportionate Assets Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONzh0RDctVl9EV3JmQkhubm5vRTQyMXhLZ091VlY3Ri0yN3JLT1JqMVNyZDJhelNzSVNaQlpzeWgyUERWOFQzdDl6ZnpxSjZtQnFoTF9vazA4RE9nV1BVZUhTM1pRdXRkSDVUSXN5cndFU21RLU16VUhiWm9rUklaZDRCYWR1dW5rM1d5RFFfRXhFcHhwck92OWV2QXhEZmNMMVJZZHhaWE5pdnBZR3l6TDVfMk5wOTlRV3lJZE9WYXRxSjczLTF2R25ON2phc2treFNPNTMwUE4zZFEzclRTa1hqZkXSAewBQVVfeXFMTTl2UUdNRjJoX1RGa1RJME1QbmVORFpaU2NCV2Y2SzgzY1FLXzZaUGs3d2J0ZTBGUnRTSm1oUFNBWGpSVTNOcGc1RDRsd3QzTkQ2bTAzZEZWSWR0RmFqRjRpcWtxZWhEeUdoQ0tfSXNQV3NERTlBLUZmRVZtMWl0RFAzaFhpZDNVaHA1R01ncUdQZk5DWkFSc0t6RkM1RnRzYlBvOXdRZXgtQXItU2RnbnQ3dU1LUUYwcFJvSlpmMWIwdG1ZVE5aX3g4LVN4ZHEwRnFDUTZ1Q1RySzhjX282OGJlRmVYQ2dXdkhwa2w?oc=5",
+   "published_utc": "2023-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hashtag 'MissingCM' trends on social media targeting Tamil Nadu chief minister M K Stalin",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGMtY0NVWkRYOXI1Sjk4aVp4RGN1THlySkJoUURTekY2TndNNnd0NVFNRW44TkFsTllMRzNpazhfRGNGQzVXeUNLeFVQUmVfaTdaRE55TXkxYXhLTHU5djUyWFZpNXpBQ09CS0plLXo0REMxeDZPRFFkcFI3OFd3T09zY2hZcDg5OWlxdG9qVEd2eF8ySGNGOGdHdExEWElkcTZWTEFpXzdkWEl2RDAtU3dsY3pIeEg4RUgtSUQ1QzVERzZUYmJMTGVYS3oxcFFQZ0hLa25YNXEycDZoRjE3NC1rYVU1SnFXVkRR0gHwAUFVX3lxTE1OdEpZS3lEUVk1Q2hJdzAzMWE0c1dlTXpfWldIc1NVb253dERaQmlUYzRlZW1fa2Y2MFdtNmh0aGN1T1BmNE9HQS1BX05GWkNscTJaaGRwNE42bk1FMlI5YUhyT1VlX0xLZG9QQ3Q5Q29Id2ZJaHJlNVJ6X01WNmRkT2RQaVl2SXFHclY3eVFsb1dLXzNfMmE5R3NqT3JEbUo0RUJJVzV3MExqNXhiN2UzRWRBTjktckw2NVVZR0RYWllRVG5kaG5XNVpiOExWSWFOcmEySFl2WEpIbmh1YXdpTWtJTlhqLV9wdW52VWNjZw?oc=5",
+   "published_utc": "2023-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Post Ponmudi's Conviction, Rajakannappan Becomes Higher Education Minister; Was Earlier Accused Of Casteist Slurs",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU0NwaXpRbG5wcG5tOVNxQjhISGl3NTgtam1IOTVqUmRPdlZkRG55azVES2RIREo2ZUFneURvTE1FRW5wdDQ5YWU0WmJLNVNUckdySnFtTkFycHZidUJ3azhudlcxVkxjY1BjQXlUY1JFNEdTQ2RwRnFQZTJtQnJDS1M1Z2staU5OQVRRaFRvZ2NKNHVTcjRyU1ZMNGNvQWFWUFdnVWk2VzFGaHRERkxrSHFXdTBTVlRVMnlFWXFFcWVQeVdvWWZFQ3BaaTRxcVlMa2tWYlgxMkhtQmZtQUttT0NieWNoZ3FLZWs1cNIB_AFBVV95cUxONEFjakNMSXJ0UF9aOFJPQkdjTzlwOUx3VEc3NDZVNThQbWpkTkdzZnRyb1k3dHFwbG1FVm9EbWRMQi1BNGtRRFlDemVkWmhaa19hOXl1Q3hCVVpjOFJSc254UUFPbGpfT2xodzFZQk94c2FEX3hhb3BLcnkzdUJndWFjRnQ1NllXYnJsTDJvR2kyUkhBd2k5S0lnZkNXNzZRaHdmZjFIajlWNkROcWo2M2dSTVN2LUlMRWY0UVBuMDJIWkVYVWRHMTVMQ050cE1kRlZiTXRITlNEUFB4aHRUM1lYMTBZX3E2S21nOGZaQWdKM0poREtTQTdiTk4?oc=5",
+   "published_utc": "2023-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "For the first time since 1967, DMK Minister sentenced by Madras High Court for disproportionate assets case.",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVRHbWR5bjM3Z2NOME5tTUV1eTNaaUZIcHNrZGlnS3l2RC1hY2h4dUhjQzgtVWRCX2RCQk9mMk9XczJvT3FuYlhVYjBQMktJdW5zRjlOTzdMaFFRdVA4elpjaHNVMHMtdm9VV2NJSnB6cjZhREFIOTBYOXFRLU41ank4OHQ2U1NqbUYwZFZWeVlHQ1FadW9SNU4zS200LWQ4NHVQWjRXOFI2WTlxcldzQ2NhaEJhcmFOU1JMb2UxTzN0RnRwSl80Y28xN1lOb1lWakpRanZwNNIB3gFBVV95cUxNOUVUSGJybmVqeHp3Qm5UMFNPQUs1N2d4dHY4VkNKTTZRNDk4SllMeGo4akwyY2Jac0QzalJ3b1JFdDVKbGJrdF8xQ2JOYmF5WnhycGI3Wmt2VFl1MjFiMFBoUG40UEtrV3BXRUhBYmVCUFBBNDZERlBPTVdQMWVHdkNzMFJlMDdfSTdQVW5fX2RFYWJWa1R0WkZodXhPQlBHQ2FXa1lLMGJWbnJmdTNhNW14RnVxQTltSktJV1pzdW9TYVJMRE55NmFFd0JHX2JkYjN3ZmxVR3o1WnBfUmc?oc=5",
+   "published_utc": "2023-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nirmala Sitharaman faults TN govt, says no lessons were learnt from 2015 Chennai floods",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNelJ3a01aWE5sT3RBLXh0d0ZTSEVaajVuSlFDaXp1M0UtekZTZTEwVzMtek8xbS1mbzZIV2MzcWVZRU5vZVFCRkN6emZlbkxBa3FGa05LUmdpNEpqQjMtSkNTV3VSbF9jVk5XRUN5S2xjSFhLWE5MUFNnbFc2ZVY2cG5lUjdKdUMyM2NzX05qWVY5SVdlZ0xwQTIwbm92OE5jRDVvZ3RtX0dvWE50YWlyQW52NWRUOFhxQUd2bC1JcVpvS083RjNGSTh3M3ZjTlNJSDhBeUNYTEkwN0pBbFRJeWRWNlVSUFNpbkhCdWdUcTlmV2_SAfgBQVVfeXFMTXhvcFZ4akhsN09aeVllb2tLbGJWcVhmSVNLWllZWFZhV0dyNm92QWw2TFVaWnFnTGFfM00xaF9uc0Z2Qy1iMXFpOUpmekd6T2pkck53ZmxQNEt4bXMwcUZFYkUzcHA1SE1lX1Z0QVJJeWdzSHhuNGswWVNBOUR6X3ctWHNMQUZSNlRySGJMeFJXOWVUZHNCRzNoZWdabzRNWDNoWldldWxzQUxyZVZZVF83VVFnOHVrWEpmd3RmWklBamlaanR6ejRUZlpxTzFYSFdMUmlBdzdyZXRRM3pIbmFwWjNXaUpFMHJ6b09LZzNncmRzUFpwZTQ?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 4,000-Crore Drain System Saved Chennai, Says Tamil Nadu Chief Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHFueG5ENDJBZVZTUW4xb3NpS0VVOUdENGNUZlNxZGxVQTBrXzJ5X2F3TVVhanBqTlQzV3FIdGZLdFZyTFNCUXV5NERoY0NuejY5OEItVVkwVmhiaF9ObVoyb0RWb2NWcjVYdnVpbUVSQ2xVRXV3N2dyLWRZUERRRTFkb1dTVUFVOVFLd1E2Q0VNX0RNMGt4ZnVfU0VOMDk4clROelhvdTRwSFhGOGx0b3pMZng4RVRsM2w2SzFWamp4OFdnMDdYZFJDa9IB0wFBVV95cUxPdEtKeWJjdnJScTNWOHE1LUNXMmdydEZKcEh5Um5nQWFJYzE2RkdUQ05sckJEcW1vREw0M2hPZlMzMVhZcS1oTzVLWTdVT0dILTJxRkVJWEVFME5uYXJFdHlDUmpiUENoalVOazAzTHVsQWUyUFRtcHR2eUtqdFlrYjE4RGw4cmtxVUFvT1RJSktwZklLUUxoNTAtRm9UTDg4dkkyWWcwRjBwSUtfRWJYSDBzQkNCMi16Z1N0aDJJbGpuVXY2bTVibUpZV1lGaFRfNm1n?oc=5",
+   "published_utc": "2023-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ED officer caught in bribery scandal in Tamil Nadu, igniting political controversy",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzVmYzNCaVZmeGt1OG9MVktRRnJGdWdpSUFlNVRjWXNzVy1yZ01LcEZXV0YtOGc3dXExelItX2tiUzFLdVpZbElwanlUdkg5LTdIdzVIblYxU0V1THBzWjZOV3ZOUFVJeGJtcEs3Z2ZXdmxKUzVUWS1BeTNzd21ydUg0X0JXOUdWcy1IR3dsRXlWVk43UWpnbGlyLUVndmtPWDZ1cEltQmZ1RldtQ1lTNHFNNExoYmpRSjdid1ppZFhDUdIByAFBVV95cUxPZE55ZFlBVzRMOU5oQjh1ajZkSkpoVXZDTjVSM0VaS2NRaThYUThMQ1lRZklndTZXM0ZYZnVJVFBKYjhtTDl3ZGlwYjh2THZsTUVXaUhOeHhkOUdOYzN0WmRQUk8tUXVtN0hyRWtJUVM0Y3N1OEZhSy1SWlctZlAyZmtRVUtyNFJrNWhIWlY5OG9oekZlVDF0NXlYdzdKN2JfMGRiNVNacF9XWE1LSy1DWFRPSG5MY2tkdnJxTFFRSE96TkI2eUVMQw?oc=5",
+   "published_utc": "2023-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "3-Year Jail For Senior Tamil Nadu Minister In Corruption Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUktSG9vSVFRdG1XenBKVkdhVWlpX1dUNzFFWmVURWdjT0pBNDQtNmNHZ0tZcl9qajFsWnM1aWxlMXMtS1NhSHVtUzdON3dmQXRabEtac0x0T1A4R2FSYUVXT3hOQi1YYUExMkJaYksyUEthOWU1eE1iY2tMc0g3UFlIR1NwNXg5b2NqcDdGOHotUGY5NC1MLXhJdlIwZ9IBpgFBVV95cUxOTm5MbjNFX0NhWjZwdUZoVGVDMW9lTWh0VHlPc1dkMFdMblhZTFVfWHRWNUktTkpXWXZPd04tLVo0U2VJMVVlRUxrUHJmNFNLRVhSRnZuVU1QS1psVUk3MDBCcGtMdjhya0lJaWh6M1RXc3Azd0xYNWw4YjFYcnhLU2FzZEUzbl9HYWQxLUFuY2NCRVRLY21sc3g1a21memgtbUs5VF93?oc=5",
+   "published_utc": "2023-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Chief Minister Mk Stalin Wishes Rajinikanth On His Birthday",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNVYxUHI4TS1HOVR6b0M2VC1GZUtYQ1loVkxyMUttSVVjTjRLak9Ja0E1TjFJb0tDRFBVSXBDX1EwS0Z5NEVNWEN2SFN3M216dWJycUVhekk4NmxUSWFVU0FLLVlYcUtDSEFWMk9XZFN3Z0wtb1BzR1N6bnI1c0ZuSEhtOGtzS2d2RDRSelZXYnUyNlNNOFlDZ2F2ZEVBWEtjMHhKVWZPRFg5SlNEcFFSRnNTVkp0RThBWGtFcEtBV2NLMDR3Y0s5a1BqSXRxZXczcnRr0gHbAUFVX3lxTE1Zb0x3LWZnVUgyZkNvTXZMeVA0WWNHWHZkUFA2dW52TWZrdm5SN0pkcEtDRWlqbnpqWk5STDJ2TUdXbVBvbU0wMlQtY2Fhei13U0wyTFZaaUx1SGdDa0s0Q1NBb1pZYTNxZS04UGFRSm9pWEw4TEdxRkdseGNvRHE1aGR3cmtlcTV3TlpaZHJ2X2ZLM3NuZjNFd0t3YVk0M29fZTFZWHQtNEV2QVQzRUpyYlRhS1ljNDRzazJocUlQblJMTUtXX19icktiYnBicDB0Sjc5Q1B1eUhudw?oc=5",
+   "published_utc": "2023-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

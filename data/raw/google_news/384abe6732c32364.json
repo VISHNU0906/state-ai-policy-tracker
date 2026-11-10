@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "AI helps detect 3,000 critical heart attacks in 12 Maharashtra districts",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEtZRFJZV0NuY21sSE8zOGtxYkJwUk1YZHp5aVJteHItZ0taRWdxeU4xMmROZDlFU25LbHdkandzal9yU0dwX1JUY3hBN01PT0xVeEJZOElMNlNEOEdvT09zcGxNZGU5eWotZGNaSE1Oc1lZenVLcXhTN2Nzeml3SF9rQW5CbFZCckI2ZEFEUUpxc1JuNV9Xc2NkT1NJMGpBeWgybWJaaGFiVFpuWlVnS2FORkE2a3d1NDN0TlFHSWNtUE1DZ1dv0gHOAUFVX3lxTE1oSUVvWXlZTVJ3QUFMTV9LS0pBY1E1dENWU0NfczdqeUJ6ZnBMYmhCNjFDTDNkSUROd05hX29lbkFKUDI2dU16SFVCazVpNDRwdURUVjhYMFQxdFg5YVZZcEJtaVJ3VXdldERZU1YxZjRNM1NvdDlfZHZiRHpzMnJkeDBGQlNYMlNpckF0eXBzUnQtZWx5SzgxQ21SOTNrVjlPc1FsN2ZJaXhOQzV6dFJrQk4xYVFOT2kyV0xhNnlQTWcwTEFGY0VPOWk1UEpB?oc=5",
+   "published_utc": "2022-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra farmer's son gets Rs 1 crore scholarship, set to study in Australia",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXIwTFFGSjVVdXJCcGxKVmhBYkt5UDgxLXRrd3dzYnpvOGpadXBiVnBqZkY2Qmw3S3NQNHdlTmZTTXdkbDhXS3g0UEZTNE1ycVk3R2l4MzZkMVgzSVViOThiM2ZGT1F5Y0wxS1FiQlpXQW4zdjdiV1VySmhXU3pkSEV2Ujh3OGwxTnBIOXRwUzN5XzFaeXNiUlNpbFVUNV94ZVFiRXJxUl9WaEZncHJ1d3lGdVgwXzFEdnIyOTA5ME5tTDZjbURpUmYxMDVZajRBWENpbFZya1E4Q1BEcG91THF1SdIB6AFBVV95cUxNTzU0VHNIWW14bXg2SW5jam1NTWpYZzEtcGVmSkdOdG8xay1KdXlmQkN2ZVh1UEFRTDNBMWxqTEV4Ym5oQUYtT0EwU0RsSlhmblVtODBwTmdGMl9wWU1KcTE1N3MtUTRPQjQ1MTNuZFhhUHFDV0V1VWlucXZwZE9saDRsVlItX0FnWk9iUVRPX29zeUVBeHZITnpSN1kyWUdER0dJUDNieHlKTWl5amtqZ3hKY2t1MVRkOXp1bks2UWFpdV82UnpXaFdpNlNCUGQtMGVxbGlxbC1XOEtkZzg5UjdOODRUNXBM?oc=5",
+   "published_utc": "2022-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai: 132-year-old British era tunnel discovered at JJ Hospital",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3FyRm50cjhpMElXQWVHNmVNLWV4ZGtROV9EOEp4c08xeGNxQVlKNjl5U2NabEQ3UlpsdDRla0IxWkRDOGpLV3hSM2Jsdy1Odmh3c1drc1pNU1JwNHk2M1ptTEgzajlQY2k4RnphVElzZXRVa2ZZV2VwaTNYVTlJSHAtajdXZzg5Sk9QbzVCRUxNTUpJazVhTkZjME44aTU1ZGlVVEN1SEo0Zm9NYTRlbm9EODRRV3hwVW5LcWMxV3BTS2ZCU0UzTnh0bFfSAdIBQVVfeXFMT2hUNXRKcTZCRWdZdGNGSEdrMzBJUlNTQzRZNXhGMnBMSk1yVENYSFVuYXJHLVU1QTlEMkNHMDBQenctQTRTVl84NTFmWG5CdFdaQzB4WEVZSDhXZTB6cVl5UGMwN3dlTGFmaElxTE4tVHRTNjRrWndwM1NhUWk5NkNxRzg2d0hWcllBYVA5dDYwTUc3T3A5eF9GaEU5M09vYmtTeXBfUTRheWlQSHJLOGVrUmlyZ0ZxUXpuVjZDOWxFUS1GNHRWRHJzUEtaWWIzelZn?oc=5",
+   "published_utc": "2022-11-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Number of admissions in Maharashtra govt schools sees a jump; private school enrolment dips",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEdtSzkteHo0LVJwOWgtWVJPdUt5dTVLMklDd0lZMHlVZU85UEJuUnVXcjhEQy02elZWVlM3ZEttdERRbS1ieEx2X2pmemRnQlBFVzB4bzFjZFMwRmZURHdqZGZKU0hlbUVsNWMzWHc0cFJDbzFrb0F0YUlWZndxNU5VaFV6Y1VIREdzTE5iSDRKblRSck1NVlhqMWZTS3Vibm5OUTJBRlhWaWlxUmVGZjlCTElFZm9mVl9rY1U2eE5VOGZrc3k5dHY2XzczV0kwWEYwY0lqVE1IYWIzZkF1btIB5wFBVV95cUxQTlA5aTBRcnRCWHJiYVIzMGtaY3VqdTRPX1EyRVpaVXhibFZoX0h1WklONE93X3BLZXRSdUlFdHhqbjJLN2YxLW9RaHNKWEhmRTFTb0pwdE0zd1I4a0RLVlMtSlhZZkZnbmY0YU8wdzhReUJXTF9zVjh2VlA1WFBGZ01YSENDa2pBc2ZNejBQbEp4MVd4dDdRMXpBMEYyZFQ5N0E0Zzc0ZGJiR1huT2Zwb3g5UXl4YUk0Z3RJQjFBajJmcnZUd004YkRpV1I4M2lFWXRVV2w1eVJmZm9qcUh4TmhfZkFqa3M?oc=5",
+   "published_utc": "2022-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ADB clears USD 350 million loan to improve road connectivity in Maharashtra",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLTRpMUItYjY4STdHT3F5eXlVSVpwYTVGM2RGTVB2ZG5Gek1WUENINUVwb01HZThRMlN0ZHdudjVIdmJJY2FPLXVUUGtFQjRoa01WbUUxZnFhQnlMZVdmd0dSQmhoUmMteHBmQVJ4RGR1N3haVklHSXRCa2xQano4Q0NzSVFTVjdkN1dIOGtBWjItTWctQVNWQkktd0VQMTdVbm9DMFBqSHNnMXNsVWxhQzd0dzZ1cUNsOW9QMmV6SmtpYXFNSTJnNUlRZUFXT09tOVZRdDhzdU9VRGpPYTNNTtIB5AFBVV95cUxNQVJrU2czY1Y0T2RqN3FhLWN4VVBDWi1wV0wzUmtINDdzODFtS0RJVi0ydVlyRlRieU9qcktfU0ZaUnVNTmNvWm15U3dPcXV6MURPZkl5SVVqbTVka29RaDBWdkxWZTZCZUFpVExTdHdCMUFJdjZSY3I3NHI2aWxjQ29TRXVZeENKa3AtMUZSRXpQYW9laFVkaEhRaWM2dGszemZJMXVaeEV1TExqREd3VkhQd2FnVnNveC1HcFAxdkNnVWJfU0hKSEwzRV81VFZuQ3VVOGQ1Rnh2SXJmc21BX0RPZmI?oc=5",
+   "published_utc": "2022-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global Partnership on AI (GPAI)- India to Assume Chair of GPAI",
+   "source_name": "Adda247",
+   "source_domain": "https://www.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZXdON2V0dUwwZnNFU3M2VlAxRXNpWHlzY2pQOEpmVGRtbE9QOEtDZUQtSWJ6YS1fYjNBa3BmTmdfMXAxLWthSWh2TE81Z1F4a05PUkdudmptREhXaHJfVVE4ektFQ3ZUS1hyak9UVlVLZmtxTm9rQVl3?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to implement ‘Kerala Pattern’ from next academic year",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWF9XVWM5RnlvdlpoRFRCcU13R0lXWkRzTnVaVEJrczBKNldGczJQX0ZzUllsNTFDUm9JdlJKSC1RbUxnVDJfMGNPb1hqM2V5amVEdUZUWFB0eVdrajE1anR1Qlo1MzJtM0dKT250SVpXZV9LbGQxeERPU1lIeTE4a0thcGpwY1d2NF9LajNwdUNTVS1oLVRhajQ1OGRLT3lmd0t2YlJ2Sy1WV3B2c1NHSVJPZ2tkdUVnUHlsVNIBwwFBVV95cUxObTJZdHNWeWJaaml0MjZSd2hmNVN3WHF2NHpKdGotX1doYkFKZzV2cDZ5T0JsdmF0V0FEcE5qNTNrQVA5SGJxOXBHZDJxcV9EdXJQck9UM1Brb3hBMFNzNVhNUTJIRmxjT1M3VkFzSUJwUHZsS2pIQVA5TkVsZEc0OFhOTjBhcTVYQ290V3lMZUFfbFR2eG54dWZhQ3EyRnJrVmZIOUVwVG9IaGV6Q01zc1ZDWWJtRWVyLXlma2p2UGhHSDg?oc=5",
+   "published_utc": "2022-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "U-DISE report shows improvement in student enrolment in private, govt-aided schools in Maharashtra",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEF2bU1zaHRYeXhTZU5uSVJDN19GaDdKcnZHeFR0Wngyenlsck5yQVpraUxkNGZLTU5QOEx1LTBYUFlPOFV0WGJiTzgyZXlXYnJfR0ZMdXk5cjRlaURHSC0zZG92YVJFMEpvc2tIZElQNmdZWFV1RzY2ajlmY2pBdHNFVGE2WHRrV09HZzFBcm5jX1hPMV9yX1J2SXNsWFY4TzczSTNBN2JrRTJWX0tfZnhkLThRcmlzTDkzZzVwZE4wQk3SAcoBQVVfeXFMTjhSakNGMy1wbWE1Y050YW1ucWxNRE9YcGtCcm91N3hqanI3MkpZdTJvVV9pQ1lHX24xeDk0dm1rNFU2SXByR0pJX1Q3ci1ncS1DaHFsVnZCVUhXRjgya2lrZ0hnNDlhZEtiTmJCMC1tMnBBcnZRNURfSl9BVmUtWW5RQ0ZBS1ZQRmZoUlVMX1BVUkdpV2Fnd0ZvN1NRN3o5d19vOXBHZTFrZ1hmQnNmcWgwMHcwS3NqZ0JrZEVEdkhOcUNpNFV0cjdDZw?oc=5",
+   "published_utc": "2022-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Raju Shetti threatens statewide agitation by cane farmers on Nov 25",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN19mVml6THJBOTZKcW13SWNGTWE2aDV0cnlfNnV6aWEyVkN4STJxNGhhMU9aMXBfUmNlN3Bqb3JoWWdhZDV1V1N6dDFSOUFLUnN0UXR3NWQ3V0hONGtzUWhfTG1vUmowMzAxeVdWdTZfQ3F5OEFvM1hZdmNKdEZob0pHVV9OWnJXb2NiYnZuc2Vta0J0XzA1MnBSOUx0SXk3UkgwNm1JamVWalZSYnFUUWpuU3V2emRwd1NrOFlieXJxUdIByAFBVV95cUxQbFNHWG4tVGlTSi1DNzNTSWlRc2FXVzI1ZHctNklZM3pFNmlMSTAzVWM0TVdzZmw1Qy1fWlA0dGI4LXZ4UVVzc282UjhyUWw3QTRQNDlibURyekl6MlR6QmpsazJFTnZXQWlTMmRScnkwT2ItZ1JpZjUwX05Fc3ZmVzZ6MzB5OXUxVkF6NDlGd0g1d3lyS1dfdVJIX1BFUlBCeG80cTZXZmZ4WjQ1dVRfSFphLUoyTk16ZF9XTGJBSS1QN0EyZFRBeA?oc=5",
+   "published_utc": "2022-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Students must produce voter cards while seeking admission to Maharashtra varsities",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTF9xUVJTRkZFX20wSkhfTVVrenFsR1gxWlFrVEl6b1FFaERuSWluWmgxX3lDa19LbHh2X0ZpOUt1d2xRazM2X28xa21zSGFqZmYwUVYxaVB2WGhXVTdrZC1uVWJUNTlZOW04UXQyWTdjNEJfSGFaR1huUWZKbE8yakh5UGtBZ0dZYjZpb1g1V0xEbjh5MHJ3aHlIWGdRdGtEWVZ1Y2p3Q29NaExuWFVmREI0Q3VrYndpWi1yV2stQXhCclVRQVN1Nl8yLXZsTEJl0gHXAUFVX3lxTE5TQWlwZ3Mza0JiUHhlVzJjbXY3UlBCQl9md256aUZwM01URll2WkRIemtWdi1DWFdPazZ1X05pRzFMZVBORW1PNzBzZGFjWk1lVHZiZ2hVdjdBUV9neExTSlJYaFRJRXZjTTlDUWlsYWhhbjh4WjVjRG1RcWFpMDdEcnhFWVlaN0c2YnV3emJDSkNxem5Xdl9iRi0zYnoxR2J5TkozRzBhMnVGRWlVNXNmV0pvUFJ0LVJZZ1B1MUQ3a1pwMlBpbzRFZlRwdS1Pc0N5c1FhMUlF?oc=5",
+   "published_utc": "2022-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

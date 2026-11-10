@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "In a first, T.N. schools to get Technology Education and Learning Support programme for AI training",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1VkR2hmamcydE1nUy1NMHRZYjhMd2JuSEVobVViMVJhdmkxazdSY0VPbFdVd2JudThqbjE1YlpBMzFQUzdFMjl4TkJ2enpVMVBsTExFdlo1M1dGQVEwRVhSc00zYi10SUFNZUNHWVpZb1lsYWc3UW42ZXNna2xWS2thdExMY3BhUExvNXVRWGd0VmM3Wnp4YjFRMVQzeE5HSy03TXFId2NhV19ST1lsZjFuTlk5YlFCY3d2ckZhRjYwRmZhOTQ3UGowbE4ydjNfUVNQeHduMzBQNmtUVk9TV0k5RHNVbF9zS1JNRUg4eTRkQllCMVhKZ19R0gGAAkFVX3lxTE9uSUljZ3dSY25pVVowRFh3MXJSZEpoZV9qV09nR0RPTzYwdlNZbUdNc2p5cGZqaXJ5QkhtQzhzMXRnTlkwczducTFwV2Q2WnRxaERqVm5nWUZ5Y3pEdHdSWXRnRzNqZXo1eTZGbVpHS3ZEWXh2S1U2Y3BwQ3FBalVvTVZxNWxpY3BnY3pfMDQyejNadmJyVEk0cGRQVFZtWkVaeW9GRGJNZXpiQTJhWm5kZlM1SzgxUld1YXI2VkNGVDNHd2YySmc3LVpQdWVXWnByWmxJdl9RMHNwUjNXZUlreHZwd0p1LTJEWWhBemVtcDlzRXNZbDh6cGt6MGpJRmc?oc=5",
+   "published_utc": "2024-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu, Microsoft bring AI education to 100 govt schools",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzhPbUZJcGd4RzdxRE10dncxRkpCOFdVQUFBUDBvNXJlajNsZVJmY3BHU1RVU0xfcDNza1RidWV3T3dMRnFocENoVzdZbnhDcmZYYnhyT0x0T1g5TXAxR1A4R0xyZzliaE1qdEtXZ1oyb1lMT0FZbDVhbjYtaWNybEtFdUdDb3B4SVdPTWRPUVdqRkQtckQ5RzBPLWhSUHVYdF9PT0hHaGV3cEdiaFF2ZWVxZ1dackI5aVRBMXpsaDRTMF9BU251d3E0ekE1c3N00gHeAUFVX3lxTE9fRDRSNDhTSFRjaTZVZUFJcWlxc01zX2loVTQxeXJFVGNRb19kTGVzSWhJdnoxeTZoaGwzaFkwdVNLbGlMdXRQd3F6SzIzUUswNU1vZ1B3cFpWUDdjd21TNVFvUE02ZzhYanFaVlhUWFVqUGxiSW9DTDVfYmktdGd3NlVZRjM3SVE5NUQ3RXZqeFJxcjhyNHJZQVl5b19xd2hUT3R5VTM5cWlyT0pURXp3Nm5JMFdmZkw3azJUUVptUDNMNlBaWUdaTDZndlNQZC1QRkhKWXplN3B1eC1MUQ?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six interesting AI startups in Tamil Nadu",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMb0QxT3BqY0hzR2NOS0dENUU0UFJmRkZILTlVTFVERTJUZFREYm1nVTZwYTdfbGJvZExsMXh0dEYtLW9tZ3ZhbjdJQ05Zc3hlRmFjYk1oRW8wc3ZPcG4wNG1fSzdTMUhHdFJKWThlY1ZKZ0xWWmFYZXVoUFU?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A.P. Moller - Maersk and the Government of Tamil Nadu enter a strategic partnership",
+   "source_name": "Maersk",
+   "source_domain": "https://www.maersk.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGc2UVRsb0hRaXVvN1ZIV2VMMzFvc3c5MW1WQVpwSGZoaVV1UzNVVzVlREh2WXJBVlljWjlfS1hGOU9taE5Jbi11R1lCa2ZBSTg3a0xHTjRLa0MzRnV3Yk5QLUtWWW1IbTloTTQ2ckxFTHhZU3JzY2RwejFMelQyZVpPaDBuS0hSSHZUZWNBVzdyakd1R19tdnBJVkxFdV9MU0hYb09mOHdZUXB0c25Fdmhyb3ItVkk?oc=5",
+   "published_utc": "2024-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Minister TRB Rajaa Speaks About Industrial Potential Of State, Chennai Flood Aftermath",
+   "source_name": "NDTV",
+   "source_domain": "https://special.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOUh6Vjl5QnkzZVVfdUxaV0JVd1JKTzd3b2JTWEVyak5IT3NodEhVeVFESGl4c19XSXkzcEZBYk50aGwyNy1xdjZFSVBTOURGX0Z2VmppYV93Ty1YTXk5SlJzWkluVjZ5bFVmRUZVWEl6REZTbkYwTTJvNFprX2NydDZoSmRGZTN0eDRFWmJZeThOYW43V3IwVUZRQ3lmd2hkR1F3a0hnZ01tbEZKTVhQUjFiRVl5MWlONkJYLVZmTHR4MkRJeXV5M3FPSzVwLWplLUhhalZiRHBVSHZ0Mmp2bHFpaV85eGJfb2RF?oc=5",
+   "published_utc": "2024-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Udhayanidhi Stalin to become Tamil Nadu Deputy Chief Minister? He says...",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcXhxUTBVdEZPZUNHYUxKTk5PeFBSSDNYV2lQNnBLX08wZmpNZG9nbmR2MXlFQ2xfYzRFcENjWFNILVdwa21SclI1UW5jM1RRVUFlazVCR2pRSmRmRk1DMTBVc3RSaW9memJWQTBiOE5YQlFudEltTmRTOGJnbkMwcjBTLU1Qck9sNWJVVVdRRTBNQnY0Tm1ycUkzUGt5N25YLWhFbENHRmYxSWpfb2FjTHNpRnppMWVJd3NrWVdHcFl2WHdvTXNBS3RsSVJ0Skl4R1dHSGxQMmJUU1IyZFBz0gHkAUFVX3lxTE5KRGFCeFQ3QXpHU1pXd0MyRFg1Nm5BWDJwdnhCM2hyd213eUFtQnROSWtQd2Q1R0piTkdMazlSUU5OcUxvR0FoTTh5TGdUbXphcUY1WjNQeGppcmJ4Zmd3Z0U0YVlPTE1LRVh2RXBHQ2hkR19MZGh3YkRrTDhIdkRicjVPTDk3bFdvYVNlUmhETklTUzVnWHZaZ2NGeWZzU1NpendHVXhULVVLUkNod3NHZTRXNUwteC1sTGY0QXFGQ1Y2NEs3a194dHpxbFBkOHZBdTdlOVRVdm5RWlJFSmQ3eFJxbQ?oc=5",
+   "published_utc": "2024-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Spain-based Roca Group to invest Rs 400 crore in Tamil Nadu",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDd5R2ZzME45MGlzOVNNbGpmVUdyMVBOTzJ3OUJxSXhKaWxuNU96TVdzY2NVOXYtMEhnSFpHTk9KVU43TmMybFB3UmJ6ZlFtdF82WnA1ZWpCaG9KMFFvV2ZaOU1lMXlvVDJJeVNWTGZPYnNlTUFqcEJNYWNVVWlwY0ZISVpZVDZpeHBPeVI0REtRbXJIQVZMMFEwbzhjaXA3WTA0cHl2X3Fuak01Mzl3VHBPMVdEZXhHN1BWaXVxc9IBxAFBVV95cUxQTTh1UkNpV2dsLV9SNGZXNkljX1VTci10NlY4cFNXeUxEc2tobUJqN0xxYTQ0TGpCaWZFQnA3RGtUMi1PdHktMjVNbno4cmRKME01bkp3VGhqSXNFWTUzeUJJUzhiaUNzR1RGX0dhM2J3ZzIwMXJrT1hFZWtmSm03Y0tDLVRLVlY1UmNkc3RfQVEyVDBMX1B3T1RLd2g3VmhGVTViNWVmNW5EYWR3SW9Ibl82NWMxTnppMmVSSXI1b0NwSnNR?oc=5",
+   "published_utc": "2024-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chargeback Gurus Signs Memorandum of Understanding (MoU) with Tamil Nadu State Government at Global Investors Meet, 2024",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPS1pnMUFkQ3M4YTRnUGY0MEYzLTZkb3k4ajZxSHNHckFWYWZfem1feHJscVhlangyVWY5eGljZWJ0QXJkSENjZkFPS3ZIN1gyTFJtR1JZQ3dRYlNxV05KT0o5NEZkUVM2eE5GMERpUV9YX0x4aE1GU0hQX3ZiMU44N2ZCaXFJbGc2T1FIT3RReXFqR3Rqdl9XRzVzSEJHeVZBcHVFaU5HbUhhWllhMDBiLTZuajNPTWhIYkhsNHlaeVV4M3F5VDYybVg2WjRrTHkxU1hHSzhncXBnWEw4YTdLLWZpWW9ENXh4RVA3V05LMndNSVZ6S19oTDVjQ1VGZkE1NmcwOXMyMng?oc=5",
+   "published_utc": "2024-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video | Tamil Nadu Minister TRB Rajaa Speaks About Industrial Potential Of State, Chennai Flood Aftermath",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTl9CVk5jSll5Rnpnal95RlYxcTQ5b3Q0bXlRbWttaEl6OE4yMS1kc3FFN2JjVUpBUHRVSVJvNVdUZnBlTUJqWmVTRC0wZ19NN19feXpQeFlvcVFXWHhaTTNDNEUwTXVHbTN0Q0FEOGVLUjhndXhnTmhSVXRaczE2RHd0S2VPb1ZxWjFaN2JrbWpRYXhMSWJXaUJqck9Yc3hmUUs0NnZNVk1fekxQR2VkN0hFdDdZakdweHNldXpNazZSajQ0MEJwem5R?oc=5",
+   "published_utc": "2024-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group Signs Pact To Invest Rs 42,700 Crore In Tamil Nadu",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHh5UXdUV2pwWlppY3JrbjkwQkZfOV9zSm4tWTlQVVdwOE91RVR6NGxxVkhSQ0V4emJScjJMOFZ5VTBuVTZGUjZKZUtBd1dkQ3c4NXhKTWVBM3l2YmhieWtFQUpuY3JjVTNEcGlBTzZySnFfMVJUTkVOenpET3NrLWNhbXR6N0poMlJ5NV9CMGZVTk9GcUQ4ZDBIZGphWEd5N3hZQ9IBrAFBVV95cUxNVGp1UTR1VFlVbVVYUmp2eHVMLU1KRDRUeDdEZGpkVngyOERLaUlhblc1M3FVS29YMkFSWnZPbnJnd2Zjd1NLNlVhTXhvM2d2aDhmWTFnRVptOTNYWExpNXlxX1lyWkZCclJHRlVqcjBEdzFWUnl0eFdHSmRPQnFIR2hjLXBqWlJ4R2F4bDM2cGRPWHJzZXB2dkhTd2NPdDBoa2x0bGVsR1Q4SHU2?oc=5",
+   "published_utc": "2024-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

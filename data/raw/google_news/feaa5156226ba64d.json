@@ -1,0 +1,29 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Yogi govt will chip in with $ 1 tn in India-'s $5 tn target: Brajesh Pathak",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHRoNUJ4N0FyQlVZcVRHZ2pWZHFzY3pRN3N1MFB6ZnFzZEhLY0oxbnFBTVdHamNmQ1NzeVcxRU9iY3VyYTJOUy1LNFl4aFJIb2NQWHdJOTVodjBPTHRqYWhiTGs5MmxDT2VCRUp5T1Y3dzhnYkVjcnVNVTR4UzR1djZld0huTTcxVHFGZWhleERsQV9Qel82U3VrTnlkdUlKRHpUdk1CSkE4MUh5dlJwZjUtcmxqQ3g0MUZYZlRiWlNpVWR4eW54dTFn0gHPAUFVX3lxTFBNUFhFX2xhekdpdFVCbHhOU0U0dlQxWGZnUU5hZk5xdkduZFZFMmxJNFk1NWROYXRrOE1PeVRrTUk4RjBoaHBiV2tucWRlcU5MQ2Y4WmVaMTFXdU5xM3Yta1hvTmpwTENWVHhSVVJjQXpPbXJTV2J5Q0tjTlNEQmMxa293bFhWMUFlVGZiWmpwNVlJUVhnNV92UWFSMmRTRy1HZkFHQlBnUTZnY3BIR3IyRmF4cWhBVmdIbFBOc0lwVHdsQ0lVWVJzdDluX240TQ?oc=5",
+   "published_utc": "2023-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh’s new excise policy aims to mop up ₹45,000 crore revenue | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVFo5MDZOSGZFNVV6TkZvVzBjdTlzTjBuR0dZRTlUamR6MWlDTlZYMzBTbFVQR2hwLWNDRWxleE9WZEFwbHlfZUxhRDJXZ25Mcm11Q253bTZlNU03TV90ZEU3TXVDTzdtNW0xRmJvWnoxX0Mxbnlka0xkTktHeG9CUXB0ZGczZl9xNURnbi14MmtJY01MMXJ5YnJuWjBZUXpUSnZhOEdNcEE4SDU5NGhHRXgtdzdCcU1Nb08xVzQxSGJVZFFoeGVrbGxwMmNjeGtsYXdreVNCX0_SAd4BQVVfeXFMTmhvZzA4OUxZLUtqVUtiT2tfVFFIR0tCdU5KQjlBcjZDSzBPdk1xbndYZnlPbEpJRm5hSHkyVXYzMXRzM0VzaXEydXhwcTRaeXJmbmVKZWp4T0VYV1ZmUjZhODJEUXpWejNLTExvS3A5eVN1NzJaUTJkV1RydWdQVk4xcnJJM29OVzBidUxOdUtydHNOS2ZHenFieXFVc1ZZdHZfUElCaEhjWTIwZk5rRHZ1aGtwLVZUM3FTelVKOEx1ZXFyVFZPYVM4c0p5SWMtVkRJelJ5WkRVeFFIcDNR?oc=5",
+   "published_utc": "2023-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Samsung Innovation Campus’ Program Commences AI, IoT, Big Data and Coding & Programming Courses in 8 cities to Upskill 3,000 youth; Reaffirms Samsung’s Commitment to Powering Digital India",
+   "source_name": "samsung.com",
+   "source_domain": "https://news.samsung.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVF9iTGNnRDZOZ2hESnJRSFRMRERSYjJHUkVuUHN4S1BXLVhUMURvaVBMM3RlaVlveFVaNFJ1cktwX1BxNmtkTzJCa0Ridk5ERGRobXZvNlhEcFYtYVVYdlJFOHczQXBVaXlFMmM0azc2a1pXb21YMEhjM0Z3MzJjZ0FINkdIdTVEUEdVWjlJM3BZVnRicE82WHd1a3lIT1hXeXhRRm14Yk4zNTBORXV6Z29ZTXFBMF9odFpuUUhsZ3A5STJycDRSWEFOdjUyTUR3SzVkTEVzSQ?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

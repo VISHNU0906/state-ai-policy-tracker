@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "MP govt to set up 9,000 'CM Rise' schools, says Chouhan",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTlWb2hQbzdaRnBCaUJYQ25jZVNxc19RNlBhY0xrZFVzYmJxQkcwSWJNaXJobWgwbm9YQUE0MTk3MGxzY3Z4NkdsSFZ2Mi1hNXUzcUc0YmNFZ0ZXRTdob0RTc1JLR29EbjVlbDJMdjJZdlpoNXFhd2d4OWtWT3NwWXozM180elk3a2lFa29fUmhrNVFnNFlVNkp0ZXJuNVZUcmJwMWZrbkVQUW9ESlZ0a3daSUlpLU01d05DV2xSRjVoT1BoZnhyT25n0gHOAUFVX3lxTE5fQTc4OUhrVk1KLUNON2FVbDkyRUZRRUFsSmg4UE40REFNbXFUc3poaFdKOHhfclE3djVqWFF0ZEFROG1PNktxT1huNzhlT0tOaHJOMGd1SWVpRV83ZGg3SWduSFF2cFpFR0c4S1ZwSV9aWVY0VjFiWmJmYzYzYXkwc29UemhhZ0pLOTMwLVRNVWtuTVRlWURJY0lDVDh2VTJTWmNici1MSllieVYySnFvS3BRVFNwQ25odmRFbXB0QmttNEE3eG53bl9DTlZ3?oc=5",
+   "published_utc": "2023-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Protest Against Union Minister In Madhya Pradesh Over Man's Suicide",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXFMUG9sVUQ0QVc5UlBqWThXaDJFVHpnNVJoa2JNdmluaDc3MEhyTG9jeS1lUm1PSlJvaF9fUXVEbDQ1dUVaSVhuam1QUEVaZHhvQ2dXYk81amcxQzJ2M05KdExXakVIaTBheWZVZkV1a05BamVKc1FtLUFjWDE5RV9kZkpWUVlaNnc3a3dLazYtSGp3OTZfMk1CMV9SUnIyUTJrcS1pT1pXT0lOOG5rTElMNG9oX0dqV05IWnc5YVU2M21J0gHMAUFVX3lxTE9IbHpuVDZPTTRwaURBMlN1VzBaS05fcmdzNlFlZGVyOVlWZkR1RHBxUmV4dnM0RGlubzlja3FnSW9OZHlwNFdIRWNiTGdtRXJyY0lYMTE5cjIyUFFyaDZONnY1ODNjU3lEU00xcVBiZTJUMEdiWGN5eTk1eUFiVWFQRmx4M3lIRERkdVlBa2doX1Z0bUk1Z2puU3NTYnNmQTVJbTE0M2F6NkF5QmRxMkxnZGFibjJoUjNkWjdOOWI5Sks3VlNFMDRCNTJucA?oc=5",
+   "published_utc": "2023-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government launches ambitious plan for 9,000 'CM Rise' schools",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGF2a1ZOU3pPWmxud1Q4UHdTUTJMUVpfM1VxMmVqNVBvNEwyQ2dZNGEyeWFOOG0yWHNMV1FCTXRJakViZ2kzbjI4Z0xTb1h0SFRMaEtHRFJseTI2Zy1pekRyV0x0NUNZX3hxUnBqSEhHOFhtMktOSGRIVGd3ajZRbmgxd3JrdlJZLWJMdU4wdmRtMEZuWXExWFBIRXdxRDVSQlNhZDlSLTh4TmU3YlMzWTlJR1dJZElKaHlDUUFWOXlTeVRwTDhwbTliWdIB0AFBVV95cUxNQWI2YXZtOW9PSXM4cXJDWUhZYlJEUlJwVmlKTm0xcENXczdfb3loTW5UdmlVbXBXRlBjQ2hlSmxRdjJSMlFCaUdSVkdQS1RRbFJXUFpwb0JCRnJDRGJPTThXOHQtOG41Q3RIQjJ6clZ5UkViQnNIYWFIajhFMHRfNTA4aW40Y01MM2FJSVIydzlCNE0xMUhESjFXUXRnbVQyRTFJc2lmTGZnWERoTm5US2pPdlVnZXljeUx1MGVOSGxyRUJiSWpGT1o4UTJMRGVz?oc=5",
+   "published_utc": "2023-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tomato prices to go down following new crop arrival from Maharashtra, MP: Govt",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZk5DYXdhRGthWEExakQ3MTltQnRZQTlSMnlDOHlEb1BwenRRR0RJY0ZhNEUwckRtNTFoWUlaS1JmeGk2dEVubWZlLUNmdzBKWXlMRktRWVlqN2pJdnZuNDVZWU0temFFSy13N1RNUW5EOWpicnBwZHYzMnBMTlVHemFIQ3hLOE5yT2s5aHFzbXlpTGdWUjZfNnhzOXhDVFZybmZzaTBiVzBDMTk2WFVTNVV0aHlxYU0zamJZNzJxWXlPVHgydjUyeDhSMXZnQWFJ0gHWAUFVX3lxTE00WW1UYnJsVzhGcVh6NGcxUFctaklFbERwRmFLdTVsam1oSlFUeDgtYWNBamwyMXFPdTNITHhSRFRzUFl4RU50V0Z4TUc2d1ZUbTNwS0NpVkpWSVNxaWhlWk1sNDRMd245ZEttOGFSX3k5UHd0RHJNZXBaWnR4RUEwZVlOaWlnNm81V2tWM2FoTE5DTWRiUnBqYzFaanFWZ2VtckF6ZlNieEdZR3RjSFdFZ1ktQ1pIZlVnbkQ0dHlfUFBGM0NpemxqMTNTSE40UllSRVAxS1E?oc=5",
+   "published_utc": "2023-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Home of Indian man who urinated on tribal worker demolished",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80WFRlTlBlM0ExN0lMTHdBUVlXZmcwSm1wZkJsNHVoRzNOVHBHVWZlLWc2T0N1Z0dTZWF4R003WXVUX3BuNXdsYVJwZ2tmcWdlaWt2d3ZxN2N1QmdmTFh3?oc=5",
+   "published_utc": "2023-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In India, UNFPA launches ‘Just Ask!’ – a chatbot for sexual and reproductive health and rights awareness",
+   "source_name": "United Nations Population Fund",
+   "source_domain": "https://www.unfpa.org",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0FMc01oWEU5ZWFhWVZDU0FmTEF0M1R0Y1prcGRFcFUxeTgwQWh5bDRXV0NEemk5cEJDZXN2NThCZjAtTXRmQ09ubEZ6dklSQ19BLThPM2RkUWF1ZXlhT2Y2Si01c2FjOU5HSjlhQmhKY25aejhrclB3d3FmV3VCbmY5QmNMWG8zb2U0ck5jaEhEcTRmNmFMSEQweTFqSEh6LURHdmw5YlJzLWNXSXc?oc=5",
+   "published_utc": "2023-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP government to set up 9,000 'CM Rise' schools, says MP CM Chouhan",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDRjaHIxTlI2RVJtUFRzcndnZEFsbjlESTJOcy1RMmRqWWdEREF5MHBXUm5IZWdiQVNzbE5hTkNmM0ZRN2tySUE0Z0tWdzFuS1pHXzhvZXVCQ1BWdV9KX1BZV0FSaUh5S1pqUmxsRUxYUDN4X2Zsby1UX1ozLUFzTm1sREpWSnpoZWRKQ1ZpUEhxdEEtSjRad3Bua0FPU0Q2ZkJ5VEFxdmhTZzM5ZzYtMTd4RnNNLXltYmdheWtDVlh5dzJMNEtj0gHMAUFVX3lxTE5XajlvZWctZXZQaUlVeVdfX1FieDZGNnlJRWhBMFlNTzRMdkxReDYtSks4VFZRR0pRU2d3cTdid2tVYWRkSXAtdERreVNMMGd3VVZMSncyV05GTnZfVE9kYTNnUFREMU9GVEtGcEJOQnNKNlhlOWFpT3k1Q0ViNDhPbWJFcG41QW10Ukd4YTUzbGxjU0FubW1CTUtrbzB5SWk0SXpJWm80M1phNHRmQVB5RGJrb3J0WWJhVS1xcllrR2t3X3hrcW0ySHhNcw?oc=5",
+   "published_utc": "2023-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP government raises honorarium of ASHA and USHA workers | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ19Ca1h6Qm8yMF9zUElmLW9JYU9iREtkWXVqM1ZGQ1JNUkJuUnltcE5tbUdJNHNfUGp2TmNGY1lieVl4Y3N4bUY1eTk1M3dvOEN1MHg4Ynhidm5mZEZkdkpjT09RSmRtLU45M092WTRiLWUwQ09IWFI2UnBJWFpJbGw4bjJqa2k3eE5FRjJ5U2tyeXcwZmxobU1PVWgzdUNUX3BmNW93RUxseFdxd09sa1BzS1lkc01EaXlSVjhVeFA4eDBRa2FLalFIcGRXV3YxejVjQTEzTmxEMnZ2WkZ1RkQxUzBPd9IB6wFBVV95cUxOdVJ5SXF2VGFHNWpzNzNhQmtjNklGYlptbDZOZEVoSnhvODhhSFJyeThKZUQwZUtTN3kwQ1dCbkk1aFpLOHhMckJOTFhxeHVaR1RSeWRRaG5tYWNFSi1KYjB5djZ6SUg5MnJ1NWVYM0pSMF9RYjc3bkRMd2d2RXEwcTFTb2o5c0U0MERXSUJ3YzdsZkh2ZkEtYU4wYnlGOU0wZ0JFUUxkX1RzQVAzdzBhRjJhU201dWpiQWlpaGtRaEVwWE5hRmZHelk2Vm9vZXVkTXNXUm1OSkRXS3RmYW0zOWwyR0hfR1NfaTFR?oc=5",
+   "published_utc": "2023-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Tiger Count Rose To 785 From 526 In 4 Years: Chief Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEdOZlNFOW1ReHh4QzBkLW12STJXOTQ3U18tWHZ5ZnlRUnU1WW1Ick1UTk01Z0RBQ0dVTjlkOTdvc3NKVW1lM09Ib0pqcW40ZFBoTzB0Y1JaT3VacU04cmtwTmxsWUc1emhGc2dwWmtpZVpnWFRMYnowbGVrYm5teTY4emQySy01Sjk2TWFONld2amNiUzFabWdPUzRHQ3NFN1Z2a3B5NHhQUGo1V01qbXpJYi1iaDdhbzU0c3FuVlY0SGF10gHMAUFVX3lxTFBhNWVtYjN0dHVXMEFLZGZLWHBERzBxd3BKUEVnclF5Tk41RENoWDJFQmlpdFFONG41TWR2WEw2NkZyYTRPMXlrazA2TURqSFdQNXNRbU8yclprNnpHMHA3VnkzV0xuRWVXRU14eEw2M0pZVHA2QWtHWnoxZFVBeXd5V3J4cjFxenZrcTdweFN1bGdxZG5abEp0YUJLMmZDQmpicW1YNjZ1VHpZcllnaC0wRG5sUmZ0aVotelBCSTlLMjA5MWgwcjlnYXhiXw?oc=5",
+   "published_utc": "2023-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "On Kanhaiya Kumar's Actor's Clothes Jibe, Madhya Pradesh Minister's Rebuttal",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZTJvRWhRTFB5eDhBWDRvQnRPaU9RUVZZdW9vRjJIYVNXbGRxZl9xQ1IwNWNmakFmNjJSWEVvWEFURUtqc3NaV0NLX09Cek94Z0tiekZFVE5EUDV6STh1S3ZSNnlEQnlSTlR5TnBlVDZTbXNseE82MWh6MU1mV3p2d3VZRzJudEl0WlE5amRiMVpZQUd6Sl9pNFQ4RXV1cDl0eUVxNW1mdGtoREszMGpBajRxM2JUMkRfYjM0U0phXy0tWDJoUFpacHpxelRQakNoV1RuSS1FV1lIT3RNU09Ba2RLWTNTMXU5Ylp6ZFRZQi15cVRMWU9EamUtV1NzS3FHLWNqM0xKRmoyQVhOQXBWeHE0UFg0M0HSAZ8CQVVfeXFMTzVlQnZNbXlHS0tlam9nbGdrcGJEZFQ3U0VDc0VqNXVuVjhJVzNvTGdlWlJtTTV0aW5uRTFLQkV6M1ZDSm8wUlUwOE9FNjJpdzcxbHVSbFFlT2ozYkZNX05lSFVqZTNWN3ZBWThZelM2bWFzY1dPTlpfZnJNNHhsQWNMQTBrS21qRTU1THozRmhSdGtqal9xdjZrZU8zRG5rMWEyWWVPZzdNWDdwbGNsUnJ2cmZpdWd5dTRkazlicGhBYUNiVy1Jbmx3OV9Ta0RZMzgzeS1ITGVMbE0yN19ZZ2NucWtpODRVcHFIRHhybTFZeFhXUjdDXzdCYXlvUUNZN3RJVllTQmtBdWxZNjNEM3A1QTFWS2t0XzhvZm4xR1k?oc=5",
+   "published_utc": "2023-07-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

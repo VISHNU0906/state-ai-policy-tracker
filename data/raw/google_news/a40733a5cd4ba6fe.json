@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Chief Minister’s Fellowship scheme launched; 30 candidates selected",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVG5XcHNvUWhEbGk3M05XRlB2THc5eWNwZEhwbHRpNDlJUXh3RmZBSVZjZW5Dd01JZ2JYVU42TUhPOTd3ME1iczNNckc1ZGVuV2I5Uk5SWG1Xa0ktcjhYbmoycGFFX19zeTZTM3pVSDZFTjJhaGlWV1J2dVIzUHRvajViSXRZVlFNMmdiT21BWnZMQS1DUW9zakhzdy14eXhxM2ZEOXhtTm1Sdm5QYkx6cmVHUEhvX1duelVoa0xsNHZIYW5mNk1oTENn0gHQAUFVX3lxTE8zbUVxM21SeGt0dnF4YzQ3MW90ZENQY1o4Mk1UWWMwOWtwOWwzNFFLY1g0c0ZQckV0QWZ4S1ZONXkzTzI2b3Q4cWg2MnRkR25Pb2k3eVhtOVlRMVNPYTBrVE8zZGNXdkhOR1BndVdsa2NXanlseDRPUEZWbTJNNUtGQUsxdTZnM05GMFdobWlDcFIxUVFDamVQQm1hb29FOGpxazdwTVFucXM1Qjd6N3REOTI5SmxFQmdMSjFMQzBVWjVYMm1Dd1p0bUF1dDAyRTI?oc=5",
+   "published_utc": "2022-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Arvind Kejriwal Unveils Delhi Model School Plan In Tamil Nadu",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalpIY21wdEZmT3dBcUpEdEhQa1d1X09Zb2d6YjhDVUlsaDdYd3FKNFluN3pDekNlZGYya2FoRDhqR1c4OVlqWFkwSUprU05pQXBoeENMbUxpSG5rcTdDY0NKYUc4VGtHSDlvQWhzNjJYTTFucjRyQVV1RFdoN2g1azRpLTQxcHR0SDdxblVGZnBsdFYxa0xzckxJbkp5enNHT1Jj?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to roll out Delhi model school plan",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkJ1b2wyVmIxT1l4cFFHNmhMVjRZWjUyRllCWVFzaS1HN0FMalZtVE5wVHRabUs5ak5oeW1QWElXaS1kSFdUaFRIMnRzMWRpdjgzRTBVQWhkRkN0bFVSclFJRGVoNkw4WlZSbEduc1F1NHJHWEtFaHE5d3lZTW5KdFFST2ZXeEUzc0pLdkFOcHpmQXlTUEI5TmF1aEZuTzFfUlY2dzllTFFWUkNVUndzNE5fa3RuMjNIdHlYTHJLRWjSAcYBQVVfeXFMTm9qTVJsSlFMZzZnR1JiS0NYclBjVnM4SXZ2WXc3RkR0M1NpSXpIQ0FIQWhjVm9JZ2FkdERZSHJaV0NMSklobEo5T2V6MWV1OG9tWGNTYmpxUDE3SDF2Mnl1S0oxdXpaTElGTlJ1QjIxd2x2OFczdGF0RlFrbVVFc05QdWhLV3NjeDJhYVdTWlpQOTdLZHNZZHZGYmRkV3p0YnBNa3NQb2VqMHI3MHdFQ2w1VnFzY1ZIZzVYUlZoTVdhSVFhZVdR?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt denies permission for RSS processions on Oct 2",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2NCQzc3RmNWekI2NnhQZEQxQXphRDU2U25pTGhCMWwtQVAyY0hDLVN1ZUlucDFuU1RraFdOclZ2RVJiWDdXLUI4VmxFeGliSy1DeURxOUFBZXVQZFhvZnNZQ0ZSUko4OVRBV1c4UVJBTF9EVkMtbFhNQTZqdW5hbVhGVWk3WUpSZld5LWswU0JscTM4bW9abnNCeWJVR1lPaU1OVURxTnpNa0lEdFFTX0ZR0gG4AUFVX3lxTE5rVHJYUDFDc01LZlE4djlSWHM2aVpCeUdOd0NnT2cyUjYyY2ktVzNCSWhCLTJPZmtPUjFEOFJsLXl4TFh6bjI4dkY0V1RMbnFtUElPWVR5ZHpyTFhDSngyWlNLSWh0U3o3djhnR093Q0FaSFJ6eDBtc1ZqTlBra1BFQjhRWDBVa2pJYUFjclVXSElVUk5jX2NsTVowaDUzeEI1cmJWWnBoR0ZmVXJkbnJ0WFROS2ctbVA?oc=5",
+   "published_utc": "2022-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to use AI to reduce elephant deaths on railway tracks",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUNGN0RzWHlDZWd1Y1NVMWNidzZvN1BOTmpZYUpUWU5OemNHRmYtZm4wQnk2U3pkU3NUSEFGNFlDdEp4UzVhcC1IeUlheGQxb3YtYkdNdTlqYm56OG9zalFVS0ZaNzI4VlQydUk3M3E3MDVxeS0zZ2JTRzJoZllTS2pWd1M0MjM0VlUyTkpRd1BIUDZyemNwdWllRQ?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Revise fares, minister tells private omni bus operators",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUZjTnN4enhUelk4VmtETGJuUks0cjZrOWgyOTlwQUVDbU4tYU9DdHBHZnRiVElWbUUtQnRZaEVkNlVBVkFMeXhmY1B1OVV3bG5aVTFyRXZMbEtSb3hvakIxdU9vMS00ODBjZ3Z4RkVuZU5nNUxWX2ZGcjhSdnBSbi1QZHFmN3h1SGRIQTgzcjEzeFllcHRxdGdSaWlrMWNSUTJJSFRnV0FkMVRZa3JOSjAxS0ZQaDRNaExYV1VVWkE5d204Z0wxRTNCcDFOVknSAdQBQVVfeXFMTTFDcmpoMjhPWjhMd1dmVHF5SUlCNlZFeEhpdlVOM2RzcjhTdXVnVm5tcDh0MXpCRHRKOTV6SWRIaGhBM3dEQUhwbVFRYjlSTEFiQWEwTERFX3FRLWdiYTdIRWhBN1Zvc2txOHFEd0VEekJ5LTBDdzRLVFFocjREN2tQcURnTVFJcHBmX1JQWXFUdmM1VEZ3QlR3UmYySW5sNXNqSS1JVnlsYnUxbk05bUhwREN6Tjd0Tmh0OG1LTG92RTgzZ3ZvelAxM05PdHFzQ2RQUnk?oc=5",
+   "published_utc": "2022-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: India woman's food paintings you will want to eat",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BV3hvbTBUS2NteHFSLUNhOFVTdmJHaFA2QlJqR2xhQUVBR0d3U3RRWjZqVTZSdmpmS1dnbmhfa2FjN1FJRlRmZnhpclZsT2JpVnVBd3UtNHBwYmRvVFNVcUI2cw?oc=5",
+   "published_utc": "2022-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State govt denies permission for RSS rallies across Tamil Nadu on Gandhi Jayanti",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSU0zcGg3QVppenNwWUptaDZVNGJPdW9tRXVIcTdQUUNmTzhkdWNtOWdCd0dHMHI4LWhmQl9BTFdnR0I2SFpsVEhGdzRlNG5HV041MmhQaUJlVGx6eldBcHQ0R085NjMzYmZPaWd5eEt2UFdtTmt0c3ZwZkdMb2w5WjZvNEx2S3A1UnpLNTk2dUhiRWN6d0pidXp0bTg4V2pfX1BIMmt5NTZNUmxrR0pneHhGSHFqMnN1MzJpd1ZoTVlEVF8tODB1YkhB0gHPAUFVX3lxTE1qN0FTRFNjNlZmeFpoaTNTaXpHNklLTWg1S29TVmJwU3oxOWFKUUZENkVHMURkU01PUUdVYXhXZnVDaVJyZnUzRW9yU0lRaWtFVExUWllvcHNxS1pFZXJ3bkI1cUpTYlY0MXRrSWNISVJ1Z0FJWXlaX09DWjdwY3NtZHUtR05vTUFMSU9BWE1CdERoQ1VJQjd2RXQ2RzhULWVvU2ZPR1pPYkdpd19FUFR5Z2VCWTZab3BOeTB6UmJ4RnQwZUlJaWl6SE9ZY2Vxcw?oc=5",
+   "published_utc": "2022-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM MK Stalin launches free breakfast scheme for govt students",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzhkMEFaSzVDUG02RkI3aHpheV9KMlBvb0lfZTZoQzZrT21waTZMeWduZVFCUGZkbXRJcWpoQ0NST1Y0ZVpFamkyOGI1QnI0QkpEUGRQQjBUTTF4azBVUDhDaE83SU55TmRTTUVyNERWZ1BoY3NWWjNIZWR6U0NsR2g5MTJDNjNkaEF6M2pUMjJzMGVpZkVoM3JRc2l6T0Zqc1kzV3c2WjFlS0NrS29aVjBQRHlCY2JIUHB3c09HZzVfQdIByAFBVV95cUxNNmJXXzVVakhyYjlLeThJQ1F5SkplMU1ETkdxUzc5Z0p5MS0zdW1ocHFrQXN0Z3BYQURvUVJmaGNaNDNRSlFla2xjY01fVEV0ZXlnZnJ5M3ZMMzlyLUVuTlUwUVFfSDBvRHM4eVkwQi1fYWtWSXh0Ym5RMWZ4TC1RZDROa1ZIUFdvQ3QzcjhoYjdKV1ZmN3pWYTJaTjF6Nmg1eldsV0VneVhONEJoOG1TdVlueElablN3ZXpnUmNDMFFBdHl0R293Zw?oc=5",
+   "published_utc": "2022-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin launches Green Tamil Nadu Mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHhsN1VUUmdEYjBfb0tzNEVuOURTTnNhcC1xQmJMekRiVGZicUxzS1RhX1RCZEwtY1o4a041ME44dG5obnkzWnZTRWpEWDZVcEg4MmhwUE00aEo1bTBaemhNVmVpT3dzbzJjRTJkVDRIc3dOdi1OOUI4SFpQVnljLWdvbE5zOEd6Q1JMWXRwVVdoMUZoQWNQVGpQQ1VNSFRIQzlGaWd1ZzlVbnBLMWpGcE5ESFnSAboBQVVfeXFMT042amNweFh4aHNCeUctY1ZOc0I4Mjgyakc3OVJ2Q2Q0U1VsYXlwNzBaWDBBTWRVQjRPMGlac2dqajRoUEsyOHhyNWFaSE9CSXR1Rl9neVBZaGVGQUQtckFpUXJYZ1JhUXkxRmVKSm8xMWRPRjNaU09iTWdWeERKR041R0trdEN6cDZWZUFFcU85WmV4VTY3Z09CalRBcFFfbkF3amQ5ZERmVDBGWEYwVFB1aFotdFUtMHdn?oc=5",
+   "published_utc": "2022-09-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

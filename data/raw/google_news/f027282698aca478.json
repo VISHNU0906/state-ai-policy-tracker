@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "Minister Ashish Shelar tells Maharashtra IT dept to draft independent AI policy for state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0t1N1NxaUd0ZFg0NFN6TU1CRlE2NlhTaWE3dHRLczlfdDMyZ0dqRlFwbVdZdkFxd1dkRjU4WC1ZOGpabWxvTmdEUDlfOFhZZmFpVmVZaEFXWHlqMWtLU0VXZDROTUZmazBVaGRHdWR5dkhNUUYyVVlhSk9IbkhpVlRnZDBzOWxDaXZ3Rll1Tng2OFNrTjdyUjMxZVVXSE94dk84SUhvazhxQ0ZrOVM3ZW9UWG84QVBETG1TXy130gHEAUFVX3lxTE5VRmdXTjJPRmZRWXNRa1JYdVBMbFFoRHpwdGRidzdmOHE4NjJ4QnFIc21HbWQydmZzem0wUHBsbUIwb0psRDByakRiZXBDRkprSnhYamF3S2pjU2o1T1hzSXRLejRFN2Y2OHdOajE5UF82WGgtY0FmMDJLeXlKOUFwLVRPM2hOZ2JoRWpvUmRydWpfbFJIT1Z0VF9RelFBaXRxX1dpSVNqZzRsRnlOZ0prYlk0Ri1kMXBySVRBVmwzSkE5eE8?oc=5",
+   "published_utc": "2025-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Global AI governance needs a sharp focus to combat risks",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHVzNnVXSUhFNzZRVzg2VEtTUDFWLTVPTWJJUlQ5bFBiQVJ1Q1YzWkN3Yy16SFFTUTNMMzVSM3J5aDBHQWhSOUp6V3lxVHRZanJ3RFZ6U3hHQWJzdnJRdjd4OHUzc2tTMTJ3YVVPRzVPbGxHcGE5bDBZVnRQbnZCczlzZnRwd1lYYUlxQWZCWTAzR3ZXWWJMbW9LLWxDMGNreWtGNjN0U01UTzdZby1vcW95NXlFVFdhb2RDb0RFdEVmR2hXTE1Wdkl30gHOAUFVX3lxTE1PanpsZ3JGRGRwZUJ4Q19EZ3NiMW94SnNxMktUdElVLTVxUjRpaUFZM194Q182ZS1tckhBTHUyRHZKbk9JOE43NFJlekZzaGJNcmlxZ2pqSm5hMFBhajNzckxZWGZ1Yktwb0RsLVNWSEtWaGtTRWJSZEJibTgwckotZFFwaGlGRjEyWXM0d19rTC1JUG5BREN1R3ptOTlhR3I5dnNveE9aaGZwR09FQnRDVDlHb3dvLW4tekpiYWpCVURrU19WZHRDTXlrY0l3?oc=5",
+   "published_utc": "2024-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI and traffic control in India: Revolutionizing road management",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzVncDkxVDF0MmlZSlpzbmZ3Y29jMGtfMWdHRExuLVg4aUgwNFRQNm1ncXdaTTdRa0RfRVR0RDMxZVhrRWRLVl9mMUxxUU9OQ2tpcExXYnZFamdSS1ppQ1Niam5rQ0RsaU95Y0tHQ2ZMS0Rvb1Vlb1c1U2MzcE9yeDVJQ3NMUUdWYllPSkJYZ05Rci1mZG5kWmR3?oc=5",
+   "published_utc": "2024-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Smart India Hackathon 2024 Concludes with Innovative Solutions",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83a3haZ0ljdEtKaWlUV0k1OVg4NC0taFRtZ01IQjF1T3dQSzBRR3h5bk1rNjBaa2U2MUg0Slh1YlJqTXJFakQ1N3hmOC12cVdwN2FzV2NVSFRlRl9PVmx0bWlDdFZGRFRB?oc=5",
+   "published_utc": "2024-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra sees 12.32% rise in new vehicle registrations in 2024",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXpCcG05TDl5Z3M4WG1NT0FYQ1lDTzBlQ1FxcTZ3c3ZpeERlcjQwZHJjU3c5MUFwTlhPZEVLeVJOanBNMFRiVmpaYlRTSGFSZ2M3eTh0clY3S1BXVHRuVEVra0ZSZjdaRmczR2Q3eWF3OWp3S0prUkNYZU5yQU5xbURyNzdqUi1KVlptRFVWQVFhcE1GejRMLXRuRTB4TFBIN2dISW1KeGlMT2w1VS1RRS1XVVpRWDZHcWpodWtwZ0F4bGdZUFNJZl9oQjnSAdIBQVVfeXFMTnZUYnZXc1BoR21wbUpXekpYb3ROTFpUXzJUSEFwWUtrM1lnSXBNUHNiNW9xSnZNVjRPNlBFNUhNVzhhZFJDdUlRalYxNmhSTEJRbUNqRzFLNWc0WmV4Wl9YVmNZbHlwUWpTX0k2RTZYVlJaWGxwZ0c3TWxJRVNCSE1TSUQxdDdEejBDTGpXMHB4aUxLVDhCNWYyTi1VeGRsWEthSl82OGx5NzNOMHdUQmVwYUNBRzBjYXVsTk1yMUozX1lZSnJCWUVlZHJQWF9taHF3?oc=5",
+   "published_utc": "2025-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'The Governance Challenge 2024' by Samagra concludes; Uttar Pradesh AI initiatives highlighted",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2JrckpyZ3o4N0Z1dG5kUmdHdmVaVFJRenA2VHVGaWpNOXFzcGd1ekwzSTh6WTJEQ3Q2aG9JbGlQdXg5OTVDRjRud1pGNWlzQkpuSm5uMUV3SXRsRmtBcXI3RFA0Z1NDN1ZwTW9oTlJhMkpoeWZURzl0VDRoZEUteGMwRDJBUzJoX2tXUG9JaEx4Wk5wUzFyVkZhTWxfOXZUMElpUzhicWhLTmg1VWRiRlRTZFd4N0lLRE95MC1jaUJiMUF4VzkxbEdNaGptOFEwT0V5MHVaa204bjE4c2g0dm9IUmw3VGdFS1lvaUZoXzZXWThNMUhyQtIB_AFBVV95cUxPYkdJU1JLUElyTzIyVXlwTEppVzdsdVZTXy05b1hHR21ZRFdrY0YwV1ZPX2ttNXhkdG9YU3gtb090TW85OGlfQXdpU3djVXFkUmZHVjlUR1VMMEhDZFdlRkNhT2pWR0Y2WWNUTk1ra2p3T2lDclFocTBheTVqaXRTNUl1SlZSQTlwWEl3Smdjc25GVVc5VzNWRDFLRExzNkREdVgyVWxrWXNPT09QeUVhSVkydkctc0JNVWpKako2UVhSczJFdDJTdEhpdmNkcWtmdFo4OUxkb0Y1RHlNVWQwamNKdWdDZTU5UHJPbGkzS2thTnJRcHlTd1BsdnM?oc=5",
+   "published_utc": "2024-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India making AI work for all by democratising tech, thriving startup ecosystem: MoS Jitin Prasada",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY0I0RVp1UFgyT2FPSFB1MmZQTmFUZW9KaVB3SXVGcjVIRFA1VnNpTDJJendXUXN0MGtORjFBWWtydmNwXzBLMGpqcXRVeFgzemt5Q0xRQzQwMm5VSVNEcFlyQk5XRm9jMHgtc0ZEb19HNlZ0ZktUQ1laQzVhMExDZlY4V0pXUFgwX2U0d3BqOE01V3otSkRMN3RkYkVvdDZuRjc0Q2YzM252X01aMmxsMldmNExmSUYzYTJHUXEwU2pQdkFlLWI4dExfUnBjTGZyMmdVcTVYVThRaTBIblp4OUdURWZEYXVVNlFzTWNITFRjZm15Q0s3eXREVUVIUdIBggJBVV95cUxQZmg1S0YxQnBSR2ItLVN0QmM4QU1xWkdodGxqbjNSV2VvWHM5bElLOE16TkNvSE5lNUdaV1JpVHdNNkVra2JlWHItYmNyTUtmQjF3M3JZMmIxOGVWcDFLWjE1dkpDRlB0dDAwRTZ0VEphSXRnYzB2Y3g4UW5GM3N5R2pQRlFDaXN2ajB4LVQyWkdJQ1RuSHZhY0tpT3JPbGctMkpzZHhmNUh6MHRIYkh5SVkzeTJVN2R6UjZNTkVOdk1fNlZSZ3RiN2dOMVB6dnBuZi1NMDMzWU1wenV5c2NxdzBacDNrSDBOWVJsUGNDWkhxckZZeTBnS0UyVElkY29pUmc?oc=5",
+   "published_utc": "2024-12-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh partners with PhysicsWallah to establish deep-tech AI-focused University of Innovation",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZXRDS1JWSnBxVW5QMUg3VF9OMXZ4ZDU4UmhVY0ZuMThXeEtoMHRpR3hvM0djRV90OTZBMFRYZjJTdEtfbVE4enhTUTFmcHE1cGUzTW1VOWhzYXM3YmNRMVg5M0NFQlY1aV9fQ2JkajllM1g5WDRCM3pVa21xS2cwOTZiQllVVzJIRnNSTi1RbmxuRW1LWnFpcFU4dVdwMzJrb3ltM2Nwd1dHdl9nemtkcThENDBPY2w1d0Q0ZkFQWXA2am9pVkdORGY5eHZfaFF3cWFVRGVXenoxSV9PZlNQZjFEWnNwSm5lTG83WFpLem80d0ZMS3NFQ1dHYmxfU2ttR1JEbNIBigJBVV95cUxOU3JTdWlvSHgtV2VMVlRzMUZ0VWVEWVVGLUFwWVJYWnpZQjFMMHdrSGpKRVJhb003d19Ubm15aWE2UjBLdTZYY012c1lDRmJwZjZXc1ZsUnM0NlNGNDRveHhvWFI3cGFiRnMwblZrdHBTYXpVS2FoSy1sTENzM3hNd0pkNHRjU1FkQms5RWEydmU2RXhPbWpyT3JhblFkQnlRM1VhalJqNEYtUU4zN3VWY0pZUnMzVjd6RmFua3ZHMG5lXzMxdDdGd2JZS0RMTzFTakhwTmhXREl3S3RGTkQ5Zm9NTlp5dFZaNk14a1VOV1o5RFpfbDI3RVRja3Fyb1JxeGx2STl5cE5hZw?oc=5",
+   "published_utc": "2024-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's Digital Revolution: Transforming infrastructure, governance, citizen service delivery",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc3NyWnBxVS1JX0VoY3hBVmRQN1hKT2NjbE01LWxjb1VBNnJHOE1xZGd5SW9nekphXzA5MUJKREN6UGRPbkZBbnFHN180SXpHZnhhQUdZTXlYc3I5T3BLNl9Wb1N4X2lyM2laVnlkU1l6MHVEeUo0cGlCUEJWdDJIYUpzZGU3RmRUYU5kRWNqYnpRVVhhWlpSeTY0VVBxQ2l2dTNNMV9SZTE0UllkbTFaOTh0bWlkU1NwR2RZemRBaWJydVVQa2x3RkRpb1hvY2tNdVgyOVdOSVJIak1XTUxuQmU3bzQ3ZXNvWmZ4dzFfZHZWRUVuNlZ3ctIB_gFBVV95cUxQT2h4LWs1bTBxYzg4SUE3Qjh2am9UWVdZWlJYR0F4dGJWYlV4NDJJQnRLek9tR0JxQ1NYZXNYTzhZaW13WnVhdVhJODY1LXhLR0FJV0oyc3ItajgtY0I5V19HTklqMHBJZGVTMjU4WWhRd3dYZ2FIZ2w5cWdtZUJqNTRTb3I0WUdvLWM2Nk9Vd1FGcmRhckcyeGQwU1g4V2RLTlF0cF9JaXdIbDJNamxyZmdtb0ljbFVmcWE3NU5OQjRmNVZESjVPTFZBSkVOa2ZtQ2ZsVDE1Nko4elQ5WTRnY3lsVWMzMlY5c0U0MHBvTG5IM0cwdlAzajMxQnpUdw?oc=5",
+   "published_utc": "2024-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Updated regulations for CCTV cameras aim to bolster quality, cybersecurity of surveillance systems: MeitY",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVEVaNUk3R0tuUHV2MVdtMVNhblhFM2NtOEYwbGYwd0V6TDBzV1ZCYzdBUW9fM0lhbldGMjBwTXdHMkdrWU10RVRDVnRGekhYVFNZcXVKeTVFLWttV3V6OEg5aE1pZFV1Y0dxLXdjTlNZd0lfa2Z4VURKd1NvME9PVFk0Z2FLVy1qZGw2QWhIQzQwTlV3V2cyZmFiWExNTVBuRVVWdUZhSDlfWmRJRlVIcTNMTmRSMXFLYU5TenN1Z3pETEJTa1JMRDBYLTkxVmM2cDd6UEx1eHNEOFpKbThLelN6WElxdnhVN3JaTjJOVHhGRE9SQ3BRbGpvMU5JNUN4NEpndjl5TnfSAYwCQVVfeXFMUHhPcFJTcUgxWG5CSXBHSnZoS0lheWYwV1VuYm11d0dpWlAtNlBJZWNYS3VvVUhCYllOTl9mM3c1eWFnSW9VNUZuR1B3d2FKaEE5ZXFWWTNITU5SUFV5blFxUDRNTWluclNYUDVMYzA4a3VtMjdPVmhZV0Y1eS1YRHVPS1plWnVHWU1nRzUwa2dJSnpvcnBMVXdZM1FpeWN6dVQ2SHJCOXg3ZmRpSHBtRncyT1puMXRPdl9WQ1ZWTk8tMGFpVENiNmd0UWd1SkVremFId1Ftd3BfNXR6NkJ2T3dXS3pkUXRXSWJXdUhoOFptdHdPbXdpRnlHZEh2a2NNV2xaZlpqNTZHUHUwTA?oc=5",
+   "published_utc": "2025-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

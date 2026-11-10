@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh to distribute 4.35 lakh tabs among Class 8 students",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdE16Z0tZbGRZVUdTb2dRYTNwM0xzMG1vUXhXTzJzVFVSejVSWHJudTV2YlZ0OVZtdW9kM3ZycE9SZWthMm1uc2F0UWhVRmUwWnRfdWF1ZXFMS2doVm1zNUg4UkZ4VDMtN1hSbUlhSU16cGoxTTM2OU9zOEdtVG5TR1BWVzBQLW1aQ2ZqdWZFSVowcVBtNUYtOVVHZFZ1eXl1WldORzBfQW9XWmpaVGw00gG8AUFVX3lxTE9JY3I5WWFXbnplcURnRGtrTFI5M2R6OWpLbTNrOVVqdXJOMEw0RG15ZmdzVjVPSzRPcFFMX29MYUV3NklmMjVMLWY4TGZfV0tuOVN2WGFRWllOLUdxUTBTamNBMFpCUE5LaVh1QjI0by15ZDFmdlVhOEZyQjM4MXpNSEEtWkwyeWhHWWtZdENTaUZWVlpaRVpEZHhrVWkxZGhYeVRweGZzV09sNThrVHBYSFF0T1BpV3djMVF6?oc=5",
+   "published_utc": "2023-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cabinet approves the enhancement of free medical treatment limit under YSR Aarogyasri to ₹25 lakh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeDd1SDNJSmJ3NkRMUnhmdEhRRG1ZMDBEX3ZRaTRkc0ZueEJYa1FpME5YZHFITTg3SFRSQTlWOW56NDNmbUlRMzVPa2RFbkIyX3BqYWhXMmVxY203RE5CTEx5NThnMkYxWUlLX1BBMmwtRkkzREtDMWdzYThDbk8taGczdWFkLVlCQlpKMnBGS1d6bVA4a2JXa0VzVlVuQzBZd1gweWk4R05oWk80d3RDcWFxdGJ3THdPc1pkZHR1TmNLOXdIRFpHcEI2anFnS2I1cHpFeEs3MHFNdU1CbzY5WjZuTXpWLV9KVUtIZWVIREhWX2x6Vkk0Nm9yeVVmRnfSAYYCQVVfeXFMUHY0eWxhdURPN0lJZUNJUlFSa2FpcEZWZkMwQmVQakM0cThFVHVSR1NOYnRhNUVtMkc0VUlWNXN4VDB2d3RjaDlGcmN1NWRMX1o4UmtDcVJTVUNYTkFVdTN3ZnNPTTdLbG1tYjlMdVpIY0VRRlpUTnpkQjNFdzUxMmpjT1RzSkFwaGhNZFdfSFNwY1R1SDFJTGozNXVwQk1WSjZ6a0dNZTlLeU94TzRkMlFZVTNDekRCSlFjNVY2X21GU3FjM2JmbGd5RnhsMktNVk1zRFhBVlAxXzZvc1VRaUtlMS1zdDRzZmZia2VTT01ibTYtQUtiRnlmcHFfa2hVRnZ4M0w1Zw?oc=5",
+   "published_utc": "2023-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh spent Rs 73,000 crore for education sector",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVNPenhNTi13anFzR0VQT0RYb29EeUNlbkdYU2hubDU1MEVMTEJRWmtIa0szWjJVbW81aGJUSjdtd3pWX2JGOVg0X20tZ3UwNWVndzNRTUhFTVJiWTQ1T09EcUtlQ2ltMXA3OW1mRnc3bXMtOXNtQlRLNHM3T2NoZXFPVVhwWWxVcC1PYlFld295Y0dBWjZmX3JRNjFYeW40SGRPSFZLeHdfV0t0VFJv0gG0AUFVX3lxTE9xaUU1VUpDOG1LY2QxNXJhZ1Z6QmpVYUhCZW9xSDNOX0lUNU1taVlCOU5OQlBXNk10RWx3S2JUYWFZdndFamFRckVoa0tzcWk5Vmd3NGFNU3d2bU9qdUZuX0hlZkpCcjBidl9kS2Rhb0RzWnBMZ09TQy1US0dLeDlUMVdldFdtb1hWN3VKTnI4Z1oza1NSUXNJc1hVN1V1Y0lfbEZGMU05NnRHR1c2dXZwQkcwcQ?oc=5",
+   "published_utc": "2023-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM kicks off programme to distribute Rs 620-crore tabs",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMGRKZm52SVFjMlJPLXNiSUoyMm5vNlBDR1JQVEdnTlUyUTkwREhLbEVuYkh5T3ZmLThOdTVIVFVJd2gxMnFHVElRRlYyQU9jUk9Oal95TEh3SXJVOGozU2VjbEdjYnpSVmJwN09aZFB5STVSZjVSb01iTjlCUV93MHVIOTVnRGJOV2ZRMS1JYXZ1UVZZam5Nbk5KWko1SmM2eUxRNThtdVJVbEVzR3R1X2w1eGt2aC1xZ1loS3F2VW1uUlROM0lxdTcwdWtuWmFCUW9iVzBRY21ZMXlYdm1mUG4wONIB8AFBVV95cUxNUVlSWXJMY21WMndUUl9nT1d1MFBHa2tQYWJZR0ljSk1pZ0VFQ3IwQ2xVM1JVVmJHcjBGZXhiUlc5UXFYbjhTOE9hNGpkOG5iRVJUNjZ3YUhjQmZLamJoazltYkdZVDJnMVFkSkJ5UGJmdjI1SGxWQm1xSDZQRkk0S1paeU9zajNjaDAtbnFlQVk3UGlHZzdyQzRNbnJRUVhNU1h0bklhckNCUjVsUWJHcjlnZUg1aWQwcWJVMFJGU1ViQW5mZDVIZW1naU9NcFJ3S2E4N0NmYXdsZm85MFV4R05DWlFBN3RQTVdaWEFZakU?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Cabinet meeting postponed to December 15",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVlGX0JEQ1Z2OFlaTU9fOWs4eU1RTGVQWDJpTDBYWVVINThGZnliUlFVMDlrTUJCeVhBQW1rZDBUWTZHRDhKNURocHUyMkN2N3hmNHJ2R3lmWnpBSDRVX0RKcE1xMFAxc29HbjJVX3F6NXpBc2g4cmVqTWJ6dDh5d1h0alVHR3Jyc19yaGc0amhVT0wxa2VDMUVpQmNDX21tMzJDT1dlYVpta2dvZTRj0gG0AUFVX3lxTE1VWkJXNUEycjJLZ2tPa05yZXNNekJtSFFJcFFIT2g3RndhRGx2MG53NmRZLVQyTUFMLXdIZ3c0YmRNU1ZpalNSdUsyOWNyVjM3cE9neV82bGRHVnUtbTBSUVUtN0Z3bzhkWlBvQVplVkt5R2E4eHRmZnllbDljLUw5VklubmZUMkFGYXlQQTljOFpDZFk2QzU2cjFFZWpGRnF6c29iaTNTelZfWFFJaHZYVVA0NQ?oc=5",
+   "published_utc": "2023-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TD Seeks Help From AP Government for Cyclone-hit People",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUU9sblVpOFF1SnJmMkNpTDhsWVotOXNNbmxsb251UEFSQk5Xc25FQU9ha3JZZTBib0xOSFl2S1VjWDF1WFgwaHlFT0NvTmEySEM0NEZENGhiUGNUUkZMdFlwSWlQQzBIazhQOFlPQ2FidVJyOTBvLXFQTlJVU3ZPOUs1Z1BKSldJRGJLWVpwUUpkMUUxNzExQUNha0k5TDZhZXAwOHRXVE05OTVRNGJHTE1qS1J3YlRSa3ZiSU1CRdIBxAFBVV95cUxNZzBVWG1XQzV6emZobWhNMHJIeU4weDZKcFdZQWdvOHJZd05Ic2d0cFh6by1iYkNQaDRvd2xJZUdveWJwcllPelF1SlVsVzNSamZNMDRGVjZPUnM1cXhTMlhfclBjUDNhMTFYbks5b0dIcDVMUkQwVVFIcFpKSURZM0tiZ2xUWDlPM2JmZFNKWlJSVmJVTVRjaHJEZDZ5eTFIbmlaU3RKQUxMVEd6em0zVGJjRll5RUlqc2dEcHhYMm1jLXpU?oc=5",
+   "published_utc": "2023-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: CPI State Secy accuses govt of neglect after cyclone Michaung",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWxnamVENzJiNHpVYmlVZWtfVVlQcEIyUWN4Rl9pOTV1bXU0ako0VkVGRnE3RzZycHYxNUN4bDhKVDM5MzBnYmN3SnJ5RXpBTGhkYlYxZ3hLWVR6X3R1UnlRSWtSLWxDWVhuOUtnbXFaY3JNXzRfVVA3OFRYV0ZrcFIzSzBKbURNdHJpSk1lWXFjbHRWMUtOVE15dU5RV0RpNjhrTXVseDNaWk5kSjFJbWc5d1Bic2xpOTUwRFc0VWJXcUJrdGo5Z9IBzgFBVV95cUxOX3YxWDBlemIyU0IxdjBjT1VzYzBzVVdtbmlHZ0lGU0d1c1hoU19OOFg4UEhENXVrMFg1MDFkU2FjRlo3b3VGeE8wTEdjU2ozb3F5UFVoTDByVHUxMU5LTk1ibVBOQkJ2SFZTS2hZamJodENXRTluSHFRS3MtUi1vd0lZUHRzMnpWOURBamZjcTJZV0xyVWFEOFdabXRTRGFEYkxGeGlWbTUzaWE5NGxxVlJDUDlNd1dubW5mNEdRdFVRWmF5NEdmeW9qSWlDZw?oc=5",
+   "published_utc": "2023-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh stands third in education: Karumuri",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlhGVFFRcnVvLXNyVHlhOXVRSGNqOVlzbVJIX3hieW5SRXgzbnNPTW1mSktGSkJBdUNuOW83Y1pUTm9OZEhPVUhIYmM5QlBPYnpJQ240OXVUS0tkZzdncXg0WUU5dW9aN2k4cTBCa0FhSGNOQzl0SmNXMzRKOW5lYURkRS1lbmRvZnZtcE00TXRxU3pET1ZYYmFGdkpYbGxjbUY4MUZR0gGrAUFVX3lxTE1DMkxyaXFFaGlGREplS0xvWVBkanRsc1VBeHVhTFhNcFk4eFlDTGJJYVFhb0I2cFcwR0ZxRExEV0loTVdPMTYtV2NQSjVpY09CY1AzRi1rMWZPUml4VTZWcUxsV2xSWFJ0bjBWRDZWYnZNWXE0ZkVUYUR5SXkyeUZKZy1aaUxaRzlPcHdMWTNjNEk3T2lyTUxVV0dkLVNNRVJKV1hyV3RJT0NPUQ?oc=5",
+   "published_utc": "2023-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Anganwadis attempt to besiege ministers' houses",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjdoU2ozZXRRLWlaa1JiaDVaZkNUOC1CXzE1TDY1cW9XSlBBNUVWVk16eVhzbWJjQ1EzTzhZS19JUWQ2NGxFS3JDNzJLWjFHX1BHVDJJWW9JeXk4aVZRYlg0RjFra0dZamIwdElRc2NIbmdNN0tvVlExWXVlaXZwcFdEYUwxbVR5dkM2eVB0YnJPYklqTDNZcUFUNlNKLUY5SV85aHFoSDBWd9IBrwFBVV95cUxORk1ucklIb0s1SzFTUEI3RFAta2F3c1ZzM0NPYk5rOEJjY0w1TFhpMjZrSTZlZHk1QzRpajAzZXJTTzQ1RGdoZV93RFdmVDVScFM5SzB4WTJpbFA1LXNseTFabXdWR09JVjJwMWVxMGpVU1dYNGFYX25rTDFDNVlCb2puUkpaMGo5akpQbEQ5RXRIbTBIVTI0bU1rYjUwMERkdDFpTF9JN1VLREFrR2ww?oc=5",
+   "published_utc": "2023-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government staff demand release of pending dues",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDdhbExhdEp1cjJ0YmNYWndSb3ZrVDF6VGszZlk2ZTFjWTRFV0hYd25xczBaMlgwbXdjNU80cXZGZjhPbGIwMkNQUUdmbk13MWFLdTdPMWE4bDNra2NMdkdEYmNNdkFnUGlKeGd6YmtPTjdNVzFTM0NDWkd1TVBSYlptR0Vva1Q3WTVQLW4wV3JfT3VQbjU3QXoyMFYwVnAyOGZxUVltMGVrTllKVHBVdzdnOG_SAboBQVVfeXFMT0lfWTk5cjNtRk1UVlZXVGg4R2JZRWpfeUN2ZW1EWlFuenhvM3JoVWhSWlJRTEJveW9rR1Zqa1E2ME1KN2dDaU84b29sVEc3cnRZOG1DdW9LSkZEUGNfMnkxWGRzdktkWk1JMHVPSkRoYktCWmlpMnhQbVlfNGh4M3dPVkVsTEEzNmRSN0dpc25xMVRBSmppU29qUE1BRjNsWXhwX1N2bmpwMXRERWRhUTRYNlFPRHQzd2hB?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

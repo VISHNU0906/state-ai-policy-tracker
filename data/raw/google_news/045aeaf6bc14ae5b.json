@@ -1,0 +1,61 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Tamil Nadu govt launches an AI-powered app for monitoring and refilling water bodies",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHFWVlhJdFZROGpBT1ZibFRZWnp1VVpURmVSY1p4ZGttTHdkM2FkcUFCNjR0ZlpWT21MdE1xcFk5TlJjak5CeWptOWVKUUh0dTVuWEhpUmpENUF1N1Q3ODJxbjhKVFVfUlVGbzZySmFqSnRLTXdvQUxvOUxoZUJTamctaUJsZmEtSENZczhaWkl5d1F3bnNhbFk3OHlXSFRxbF9qb1BpRzFYUS1iTVRiN1JR?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt makes slew of education announcements, 10 new arts and science colleges coming up",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSEgxM0Z1eWxtY2JianlUdW1nak1paFY2MnhrTk9sYUxhZmlVNUxvRTcyaUQ0UHc3ZF9oSWFzc0c1c0lYTFNGTG1Ub1Q4b0dPYWVtMENCQWtYcXNFUTU2bTlOdGN1SlYwYkd6cElmdXNETVFoVUl6TXZHV2dNNF9CdUlnSkk4c3lVenA5cHNMOWlBdF9oMWdyUkxpclFQWnUtaVlFNHo1cUZFZ1J0bkc2aHpHYmZsV1N3alhOemxNbHY5SFlaa0ZFNnp0NU5LTnpsbTk4amg1MG1oendX0gHiAUFVX3lxTE1MUVNQaVl5UUVMV3ZkTzcwT3pRTXBBTF90Z1FpVUlPQmNEaVpaeXExb3JOMTFLTWltOExveXFxUFRCQ3ZTVENxQ2pRcXdYbnZEclBsRkE3bUhyRnd4N0FMaVdldklQbEs0YU5ldHpJZ293ZHd0QUJqRWtlNC0yZVhTOGllT0tYU2V6OUJXRFdKVk00anprT09yUVpwcU9lekJ2YlNGOThKUE1wOE53N1NkNTE5SGJRWm1zLUZwN0F3LXNSbmhidk5BU1hPLU1icC0wYUtXUnBSOU1YRmUxdElUcmc?oc=5",
+   "published_utc": "2022-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt to create model school to replicate Delhi’s education model, says CM Stalin",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNVp4dFlpRzBwRDZnejNwaFIzNXB6ZlBGOVNHb295dkh2bFF3TUlFQ1RLY2psbTVoZlZhcmJmeFlUQXVuS2JIRjgza2pzQ0k3WGU1TXRmNUMyMFBqVG1xRGM0dnFFNG96NmJEbjd6TGV5RXNfSXRUVl96Ym5rZVRreURSYkFNdm5NcXk3OUEyTV92UENsOUxXdW1WQ3pSMkdlNXpWQnZwRXJaNEhDaVoyV3d1SWRPYjBBdkpZMDYtckpjYUo5b0cwTTM2MVZmVWtCQzJ30gHaAUFVX3lxTE9LV0FuVGhoR0xFblVjVGg3T1hBc0ozdmtPUUQ0VUFhN09aTHBTanJiTEdlRndLSVE5c2R2c2ZPWkdVVVJSdmlaZlRselVKYzlkc1QxNzAydE1CejJfSWF0T0lXa3BnRlJRcDIta2FlU3ZvN3o0Mnl2bEw1eG5qcnNXVGlOaGl5Xzh3NFFuMDNOY0NEbXhiRE5DQXdHWGVlRENZSWkzNTZucHZwNWE5czVob2NMczVVdlVxdHVQZmtHZTlmdFRXZGRwTnNWX1dUUXhZMlQ1VTBYYW1B?oc=5",
+   "published_utc": "2022-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Akal Farms: Welcome to this ‘mini-Punjab’ in Tamil Nadu",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2dvQzA3VEVjLURUWllkd3ltbDgzVVF6RGFOMFJYazVxdUZULVNVbXgzd282R3lMRDZlYWRRRnZnYjhHLVZvZUN4RUhPUmVtQ3VvMDRhWS1BMmIwU2t5OFhVdGFTRVJRQzctY05SanlPOXFBVTB1Y1pSWGw5dVkydGxSalZGSXVQRUl6NVhMT2lybEJLMGRUa1p1QzdyN3p0d09z?oc=5",
+   "published_utc": "2022-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Medical Council advisory for doctors on Issuing Age Certificate, Details",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0pDWTJvR0FybXhZaXNMSHpYT2NqckZOSDJsZW1aZllFZmVpeVB4VlFtY3gtR0MwUG5uYWJPSUxWcjM5MEs3NDBJQUJlOTFGcnh3YkZhZE9XQk95VnU2ZGl2cHVGX2EweXBGcENxSFFuenlfOUc0Z2NaclNyTXVnN3ZQbGtoenJwUXU3cEFfVGNIR3ZKTHdESmIwTjdZV0JUMnZfTUFCcFp3Szl6dFotVFdvRTZnSjRVRDJXcUdYVDdfYlpyTy1VNlVxZUN2Wm9sM0HSAdcBQVVfeXFMTmxXei16eHhoa0t6aTFOcDFVbVJLeXM0YnQyT0hvMHFYVFU2clBveWZxd3JYSU1iTDJpVVpaNW8tZ0UtVG02RzdmRkNub3diNnlQZnp4Y3E2OHdDNVd2R1p0Y1lVbExVY1c2czlZdUZMX09hLTI5b0NlM3BiRWJuSFczSjhBRU9BbG5PNnE3TGVaTTVqMklzb2N3ay1oOHhjQ0E2TWRMeXFEak1LMTVOYVl2Skk1MkZaWnRlNGY1SzRodjc3UmlubEF2UE1IRnY2MS1USmxWLXc?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to set up 600 village secretariats, announces CM MK Stalin",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcU5mYUljZ0J6R282UE11aFVKN1lZeXpYSVdHaExCcmpxQWEtT01DWDdRa2VCdGJCWFRyekRjaUdhYUFzdGtJNk1hb3otTjFYUmtrS0ZJMjBqNVZ1cVBOV2xLWnhzYzRaLWNjLTFyZUUxQ2ZENXppYmdLcEZ6bi13ZnBfUzNpeGYzR0tKNGF0OHFucGpxSk5IWm9QY0p4a0Q5aThxUVJMV001c3A1VHBQTkVJanFLUTFkcF9GT3JkTVRwZVVE0gHLAUFVX3lxTE1lY1A3NEtUZ3REWEFXTjgtcjVzZm5VLUNLcHJNN3VxODdaT29Ua0ZmbDlJcTFqcWVRNjhvVGZENkJJTF9UaXBJWTFVN0RtZmFGekNkdTI4cmU0WG9zMHgwMDZxTGY5TlJNbk4yZ0F1MWNuWnFjOUJMSktfSTFkNWRTUXBvb1FSSXI0MVJhMHNXNEl2S0M3a1ZweW9feXdXU3RLd01wU0QwZUhQVUpNQkd0NE5SRnJ4WjBsVUVLaEpQWmVjakxTR29FR0l3?oc=5",
+   "published_utc": "2022-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "HMSI & Tamil Nadu State Police commence road safety awareness drive in Chennai",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2pSbDdMT0w3UUdwRmtnXzJtcG53R3pKaVFJblRRT1NGTmJYdTNVb1U5RThab3lpa1Y2SjVEd2dOd2NydmtIRVFPZEhmN0UwUUZFTWFjOUVBWHZNcWt4aXdSS25qZTRrODFHQzJuUEhFNU5ZeVpYekctWjRqREVyWWx2N3B1MnllSVZ1VV90MFBMV0IySW04NGhSV0RNcTJ5T29hQl9ZLU9kcnJ0LURKaW5NYXJlMWF2Y0V0MVdFakFrbEQ2eElZNU0tYnHSAdMBQVVfeXFMTTdtOVBGdUhIakJ5Y1VFYTVLTEJtN0NReDdORTZHOXZUMHBYQjFfemRmU05EOVRHSC11ZG1YYlhYc0hRdmhaRnA2amg5VW5ZM1pBTDB6UmV1azctZW1iV0lDeTlGYjRNUWJJVVV5YWVjY1VCYjFRMFY2S1FOWFplYWlKcWthQ19xcjREamRoc1NGTnRiX3NLUjllcjByYU42N1EwX2t4YjNzWlBNVkd2OGRrdGtUMmk2TFRIdnQ0bFNPMGZHVWFfa0FMYURKa1A1b29Waw?oc=5",
+   "published_utc": "2022-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

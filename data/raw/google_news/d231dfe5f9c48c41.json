@@ -1,0 +1,45 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh's Industrial Areas To Receive Major Infrastructure Overhaul With Record Expenditure Of Rs 456 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYmpOVUF2MjFRTTQ4LTY1R3h5eTl2TWF1b3pocXlIbkd5WFhQakFpZDYweFUxWmxnc205ckFKQWJlZzVkNDFIZmExZUVabXhkSGdLdHlkVlJ3M2dEcHNUZllJTHh2MGdOcXVRQkczdjRacEZCNnRZN09GeTNPWEx3aVFTRnlvRjlueHoyeWNwUHoteUU2WDd0TzZRQlJZcWlmblptOE1NSThaV2FiOGpycVNJLS1ucWlPUGRocXVXdzFrb09GaWNlUUtuMmlyblpBeTIzcXRrSC1OOWlORjBzSnNaTFQ1Z9IB9gFBVV95cUxPcEhyOGxkSGVneHd2ZEZJM1VmQ1M4ZG9lNmdfTmlLS1RWNXE2c1JYOUw0bGFta0J1RmhVcXhrMUdLeWl6bkEyWWFkVFM1bDdJZFg3SFVUdzRlXzEtTjhYN1I1em9Ic3N6bWxBUUIyMkF4U2FfWGZuZjRfRThHQWpkYVM5M1VteFR1TXN0ai1tcDV6cnc0bmxyQTRqMFQzeXBPTVdYenRFTHBkbzVKdVBXX0hUbmpRRDJfdmxEWE13UzRXZmtGYlFLVzBEX1REeDRKZ0RaYS1ITmEzWGRKZzBsanBtWlhzdGNiTVZBMF9uTVJlS2FCLUE?oc=5",
+   "published_utc": "2023-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP cities under becoming clean and safe under Smart City Mission",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSG5SWDBjcF9WdDJTUnhzQnBJdU9HTnFtNG9tTUpRYjZkQlVtVDZRX0dnUkVyMFlhUjJ0MmpCV1Q1QUJValdPSkU3RlhEeXlZakpwaGQzVU94d2EzN3BZR2lOVkZsd3RBVDJiSExBekFzeEZPMlFJN3d4bzhJeG9SYlJka0F4cTFYWlRCeHlSRDAyWGJiT3VYV2lCSFVxc2dWOXNLSE5idEYzS1d5MThaeThKS1E1Y0dpYkZheEh4XzFrVXZSdldXUTR5dEF1aXZ5WnR5WHJvemhZQdIB3gFBVV95cUxQbXNQMUJfNzJlVlJaS2lLQ0NBb011aTRTX005MEVqSzRaQWszbHlwLUU2V2k4YW9BTWZTV0NuMndUcTBTQkN1U2VLSU50MnI1TVNrYUhrVHVGMkg3TS1Wbi1ZaUJqMVZvNDJ0VzU5WG9zYkJtQ2Z3ZzRJWmU1Q0h3YWJyX0JCM0ltSDRHRC1IRWFNeVFMejhIaGVLR0lpVVFyZlFxUUZrR1pVZElpeF9zS3o5d2EyOHlSQlV5RDJvcjBXQnZZdnBGb1IxR1BNbEJfZ19vMllpMlRWR00wN1E?oc=5",
+   "published_utc": "2023-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP government approves Rs 8,754 crore projects for state’s urban centres",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUVnUWZvV0RhV2pwRHdmOERRZ1FOSHlfSkc0QTZwQTJHT0UtYWZkTzBqMEs4RW9YckRlYnVZbEhENXlYcDNLVEZFa3owWVlmclF6Y2p5MXZmUXE5Ylh2MDdZbVhBQk5WZEhCTTYxZ0F6ZV9kMGNzR2Y3Rm56UHlSYkhFUlh4dzZKMnY0MmJsQloxTll6MWo0ZVRDWjB3cXQ4VTBCY2REZzBYbUU?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Enrollment in UP govt schools rises from 1.34 cr in 2017 to 1.92 cr in 2023",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGZSOG51OHFPMEtQeU9QSHZkbXJwbXBCVmxtNnBOSnJBdlVKZXVoNFBNNEZoUnpVSHV1YVFYRmQ0WHo2d2w2cDdUVjR3VlliQzg4ZFVKV29ZaUcwbDlUc1h1R0lKbkpqN2lueFRabXVlb0M1OW5IVnk3X0t6cElvSnZnX29sc1d5MUl3c3lKUVAzSHJ6RTBsbTFja1kxSy1XRWVVRFNudk9pdjcwSExSUkR4WE92S21rX2Z6MVJOOFdpcTU5TFE0bG9QdmIzUDBFLXRvei1KUE5FN0ljbmfSAeMBQVVfeXFMTWpweHJLSUF0cEQ5M3RkRm0yb1prVU9EVWVMN0lObHEzVHdmc3FyeE11Z2xadnUzRDk1Rld3X1k4Uk1UUzRITFphUnNXZTY4Mkhsei1udmNfTXB0V3Rta2pUZng5dUM2TnFZdV8xVUItNG9sV2RmdU5OWE80SlJKZzJPaTBHbXBpd2xXQnlVOGRVYmE4UXVhUVNNa2ZnejlfRVQ1TXktVjFyWmRBUEh4dHlDd0g1NDBsZXJ2SVFySDZpWDdoZ2FGZVJCSWprZFJNOUJwZjdraDVob0lGNXFHSHQ0WlE?oc=5",
+   "published_utc": "2023-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Yogi Adityanath recognizes Galgotias University's achievements in education and innovation for Uttar Pradesh's future",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNY19nUVJEOWlVdFF6MXFEQ3ZodjVPZHVyMkF2TlhRYVl1SThkZFh2M2ZWWmJaZnppTmllZTJuZVhNdl9aN2RwRUxncWdOSEtXQVRodE9vWURJWVBCTS1RWlctcjBReXVpLXU1TE5iUjJzbzh5RU9Ya2xDY3R5NzhUWHV2QVVOR1JvWnRTc2JEalFOR0NDdTM5Z2llRW90X1NIX1VIM1YweGEzQTZydXRrcEs5WjJRTHZBRUR2TWtkeGRSUUZkQlAzaWVPSl95V0ttVVZMc0V5RnFMbFhOS3REZzU5QVo1RjlLSExRV0VJNGZVZTJWMHl3ODVLMnhOSHM2bTJNRGRZblZCVHlYUVhqSUo5OGhTWDE2ZHdfdks1TGJHVGsxNndXTNIBrgJBVV95cUxOM25adGNkUm1WcjhlS0J2SWREYnk2eVQ2T3EtX2VfbG9TVE93T0cxOGtQZ0kxUW5GcnhrS2RIa25JdGlSWFNjRXVTWHJMdVhOWWJNTWVyQmVlVjdDOVFfVnViVmltZDZwLV9pTHc4WTM4UVBVT3FGdWlVY2t5WHlIVngyajVuZWtobGFyMDRMMDZFV2VBS0w2bW5XelB1RlhUMFZOSkhTaDNKRmFyTmFVS1pnak9jZ0FCTC1Na1M0eWFvbmRDY1N0aUdHZldGcWRPLUQ3VVEwblV1WEdMUXR5SU5kbzhJc1lmOHZMRHp0ZEYxaEowSnlsbmhjbTJXSFc2SnBkSkhxYVFqdjB5YXA0dWZ1d240VW5HcWZreFBqcW5qQmE0MmlCdkw3dUNhZw?oc=5",
+   "published_utc": "2023-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

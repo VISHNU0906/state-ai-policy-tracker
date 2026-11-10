@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Schneider Electric joins hands with NVIDIA to optimise data centre infrastructure",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRmRFdVQ3TE9kcllpamsxZmY4MThWV0JLNkt0SWNEUk5TLVZMOGNQeklLanltU1RrWWxodmtwQzFod3p3dkUwaWhZelNCWGlfbi02aHhOOWlCZ3VVbXlBZVFCZWo5X0lqeXRrbFlHdkpzRVY5eHVPTXFZQ1B4QnY0eXhCRkxEYldIYnppNWcxUlUxUHRGdUtNRWlCSzZlc3F5ZXZYTmFpMDQ4ZFJCUjZBbWQ1SjZENjF0T0tvZS1YbnBPYllLdFRjZlhEbGdGamgxM3hjTXFtVmlaZnl2dlZrX3l1dGFfTWVOWkZidURKempFN3VC0gHvAUFVX3lxTFB4R25wMUIwejN0WmxqMHUxdnZtckRhWUZoTVdQam40ZU9yaTNjOE5SQmJmMGZfbjhkbWcwWFZkcTZHQ3U4QmFudllpNm1oV2dnT2JzTUV6NTFrSGRBbGJJSkhwS2JfYXlzRkNDYnZBdHU4U2Z0QjNGR01oUi1wQUtXMkdxNjBJZVAwVEI4eElnNW1WejhWaVhIYy1TRm41TV9rbmRpeVI2Nm1jOTQ3NWFLTUdlVF80VTUtWi04bGx2VElZbUUxeUhFVnJ6SlZhUW16cDBteGdpYVFudmlPNU1ya1hzR2lvUUVtU1FCMHJn?oc=5",
+   "published_utc": "2024-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fans Mob Actor Thalapathy Vijays Car In Kerala, Damage Vehicle & Shatter Glass - Shocking Video Goes Viral",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdk9ZR3N0bDNpc3pOY3RDZ2JqT2lNa1pCN2ZjUGJBMGI1UFk1cXp5WGFHRjRBZ200M1JKbkdMNlJzN3BCemlPczVQbThkdmRwX0ViVEJpS01UU3NBdkFrN3RsZjBiR2dPczladlVoTW5rVWI3R3BGd0ExNHVneUhyMmJIamNsaXBkSnZOQWpMUURYYVhNS3diWmZHemd6ZUZ5eTBQV3FjWGh3VWRTZnZwTERYNjhHX2lfWjRfLWtFeFFUSnZKUkJiYV9PQjhyeW9TSzJnZmFfSkhPMHlCVm85eNIB5gFBVV95cUxPNkhqWlNSTXh2d2thcks4VFdLZldMellHc3VKUzhJRDRkbzNETjZJWjZPUTZQRTQycDR3LUxzanVuUmFVMDlDSU5KdEtsLTJ0YkVOVHJxMHFBa2E5d1VpNVpBdGdELWN6QzlUWUVMcEFHUnNDZHEwcmdiaUoxQ2pIM2IzN3JWYWo3RGJfZ1RiTlJKcU9NV0haYUpyZ0FqWFFid1FoQ1V0QTdDNU9iMGQ2NnJVa3NUUUk2OFlWVjdodW9UblZ6d0Vnak5GQ1Zrdml3clZxNHNmRTZKcl9JOFpTb1VLa1Ridw?oc=5",
+   "published_utc": "2024-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

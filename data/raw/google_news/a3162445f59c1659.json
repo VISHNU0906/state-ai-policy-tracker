@@ -1,0 +1,37 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh to host digital launch of new start-up policy this week",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdTNrNGJ5QlhKVUZKeG1oRkpLcnRwSHc4dks4ckdVcHgtWXhDQl93RlZWRmhOZ0Qzck9TcXZpOGM4dWtOVlhpRkF0cTRFNGY3NkdPMXRFMmJka3BPT19ycXlVVEFxYXBseXI0dHhOV3dJMElGLTRyaFJyTDdsUk9ZVVE3VGlJcjlJVHVsMWFkeDZheFQ0MlA1Zm15OC1CYUtXb3NrMm9LY1gzTFloR0RwVHhrMXF0QkpEUjhqc1U2b0dyUVVkdXFxTk03bHFmRjJpUDJEb19rZVVuZGotYnhr0gHaAUFVX3lxTE1XVWc3NFE0a05uUXRkYWZBaHh3NlZ3dEo5U3Z4OVV4TzZCcTl1NXFoR0JlSkRkcmd1VGVxcDhtd3NNSU5yLTBUNlRUaENldWlEbWI1Q1FFTlkwZWFGZW9KSmtxSHVNRjhXV3BEYkxLTktlTUgxcll6X3ZsN2drNnRXVWY3TEktSW5TTnppdVFYMklSSnNiNHVQYjZXOXpGSm9uTVQ3ak9xV0diZ2VmRlV5czBWWGljcWtXbFg5N1ZXQmcyOGdvSXJNX0lTaEZoWWRfLUFycHQ5R0ln?oc=5",
+   "published_utc": "2022-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government Land Worth Rs 13-Crore Freed From Wanted Criminal In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOek1fYlJGS194Q1VNT3kteVd4NFY2Um8tNlhpLVBVajloUlN0SkdfeGQ5RDNpOUc5dVZ4MkIxWVJsaW82SFZjMmVhMFEyLU96OERMTkFtTDVZRHlVX1RTN1pjYmNVc3AtclVJRk5OYkIxTDJ0cVFWTU90NWs3MW1oVmNLVTJXRUsyemFnX2Y4RTIwTUZiNC0zaV9yUU4wT0Z0RzJ0SEFmUUpYeGpFMm1GM2FYa1RjSVktekE?oc=5",
+   "published_utc": "2022-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artison Agrotech to invest ₹700 crore to set up factory in Madhya Pradesh",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTVZ0WEZlSzRkQUwtV2lLVHNFQ3RjX1BWdm0zUzUtNlN6UVBzYkV4VU80aS1ZTnN5cmxvaE41ZlRpS21sT3ZocnM3WUpHeklLNXd6VDl0T0JDVEliZFBRVENnVGpYZUlNWE9xUnE1REFseTFWNmxKNF84RWpsajVNUjQ5YjAwTXM5RVRPQVlQUmFuUmFoQXQwNHJJUlhIUkNJUFpJWGRvU2gyRk1vdW5TSnRNaGJtbXE3djFjY0MzTUlIM29RaDA3VlJuTW8tMTY4bjZoUldB0gHcAUFVX3lxTFBmbm11eDhKOW1NaU1UR0V0dEJyQVBZNDJvb3VKVTR3YXNlRzl6R1p0c2o1eldJQ0ZyaVZVdjNRTS0zVTdUc3VMZUtldURsT3ppSnIzYk1SMk05RDc0b3RqQy10ZTRiejZ5bnhiSzhMMDhGS2ZNUTRPYk9JTWt1SGFuVTBfMVBRVFV6a0xpbmtqUGxybUM4TTlQS1h1QzNUZzh0MnBybWVEVTQ0RmFOSnAzN0c1a3QtUEtkTzBYV0ZrVHpyT1FzTUgtQS1NVTczMXh5YmJBRU4tamdaZFY?oc=5",
+   "published_utc": "2022-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rewa: Olympic medalist Sita Sahu appeals to MP government for help after Municipal Corporation removes her",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNU1DemFJQlpETlZWdUY0Yk0yTlByQU1vUFVxbzVUREVnV2dzSVdXR29BWDk3M2l4SkZDT04zVzhJT1IzOURBQ3U3U2JPdUZvTGxncmljZnp6TEFkTG55NXM1VnV4Z2J6UXZxalMyR0VhOUNreER0NzVjdW83Z2hVNkVRNXZCVnpMU3d5aTZmZ3RhYjc3T3ZGUHN0dXRyMWRWbC1yVmpETmNYbEUxdFVrVEU4RWVfNFVlT1dZNkwzbUdzYmkzR2hCeHkwcXg2cnZkVnJ5aFktdVZPd1BTcUNuWGFMeGg2blVoejVmRFVUbzdLOHPSAfgBQVVfeXFMT05RSG9GZ1BTOUVodkcxWjJzUDRqRmpId1BuTkFock12aUJLbHlfT1RwQ0Zia1cwZW1kNUw4T3kwUlBDeEtoTklLWTlJT2VOQjczQ3NWN2NSWTlQV0U0TV9DeXNBVnBzUUNJWkFKdkFTeVJ1WHp1TlV2S3VSRmRFQkpLSUpIR1V2OVBQQ2U0Mkh1d2ItVHRLaktxdnpTZjBqUERzLUxzTW0tS3NsNEx0VktrWWExTTBsRHdzNjN1a2tDRGRyZUFZNVFnOEs0dnM4Mi1rY09UUXloLXpRNDdpeHE4a09kanBpNGF2N1lLNmgyZE1hWkZ3Q1o?oc=5",
+   "published_utc": "2022-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

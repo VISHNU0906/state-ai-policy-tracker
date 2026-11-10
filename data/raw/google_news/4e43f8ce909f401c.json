@@ -1,0 +1,53 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "Harish Rao inaugurates AI integrated PET/CT scan at Yashoda Hospital",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnE4eFV5STlUa3ZwN1pMYlh4NVJqeklKbW1oT3hvQWtkQko2WXhnTG1LbWtMV01nUFNIY0lEUlNobVAzVURqSDV5eXVpbUF2RjRpbmVhNGo4UXRWSkVjajZZZDByVF82VnBzU0gzUTdxZ2c1R1JsTHJhb3R0VkVnN0h1THBoc0NvdE5YSlVGQ3dmMG8zcUxlTlp6NA?oc=5",
+   "published_utc": "2022-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana: Govt degree colleges roll out AI, ML courses",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaHJZbHgwRGx1RkdKdFhsMVRYVjkwWEE4Zm92SlYwZFoxUV9tLXNkSU9Nb0dQVkduSG1feExaYlRKOHRHSzBZM1hIR1VYTFMtVkE5cldlcVBFcjRuZkR6S090by1WZXZrWVZHS1Nud3JaZGUyaXVGXzBEbWtPUE1ZZmxTbU4yTFE?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad-based Cyient unveils AI-enabled automation testing platform",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcmhpeWVuakstZFhOaHhPNi10OS1faUtiWXR4QjN2UW9GVEphTTRLZGI0dXlzaGFOaldfQV8tX05RbjFLQlJ3R2k1LWJXeDdyT29rOFFJaXBqeTRrN1JWR0xVRzdacDZtUmpIWFBCNVotZkhKOUxnXy10SEpNSXkzRTNyVDRMd3hoNVdGY2I1QXVjdjVmUFllR0xROFk?oc=5",
+   "published_utc": "2022-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Apple launches ‘Back to School’ offer on India online store",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTd1cXRHWUFWUlA5dDd6YzFFeVNEcjZCSDlHbVFKbGFzRWh6U2JEV1NPMG1Cb09RZkVzVWVIWjZxYW1qSkJwdjJoNTVHaUZUQUVkS3loWGhsSjB5NXdnTFBHX1o0Z0lxaHh1dGZaTUFwOTBIbjF4NzlMMmV3SnNQQUtXT2g1MHgxM2FIOQ?oc=5",
+   "published_utc": "2022-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Papa Rao: A film made from heart",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEY25zMUVVQ0k3T25MMXJyRnRrd0dkcHM1cVRqLXNkX2duLWJTZklsOUJnUWVoMlVjbmpLTW1OMWpoNkYtb3VyZWFRNVFDOXFwOHAtaGF3SWFPVnEzNTEyWnBMLVByNTY2SFpQRnFuTFl4VnZlM0c0OXBYejM?oc=5",
+   "published_utc": "2022-06-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Agnipath protest: Agitators refuse to leave Secunderabad Railway Station",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzctQW9uZmJaYVVBbUZvSmRuaHNBbVROS3JIQUF2dDlpX3lvSmJMQnRoeW43REhqZWJhN2dkQWlueVc4ZUZXQmN3b283NHZscWcxTk05NXZVdDlXaXZUZ3dEQmppcERUU0NuMTdfRGxSNWhCU3phbUFwanE1b2lYb2RpZ0lPQlB6M19VWC0xb1NkUS16N2ZCY1NBR0F2aWM?oc=5",
+   "published_utc": "2022-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

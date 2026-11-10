@@ -1,0 +1,61 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh aims for quality education",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVVJa3JuTTVrYUc1SHplYktEdmcydWlFcV9lbzJMaTF6WXF6bzNMRmZxZWZjYmRqQzlKUW00MzhUNm5MOGxJcEZZUjRpM204ekJSX3VydkZCWTI4T1Vxa3B6ZmtoV0R3eE5XaGtPcmdPS1pnamt0Wnl3VEpUeUFaQUdYOXNFMVBqUngyVEdmVW5SZlpkbUNWbDlLTFNtMzJKclFRc196M0J6Y0oxb3dINzZR0gG3AUFVX3lxTFA4anBKbnEzUmpocC1vZEsxdEpRUV9RMXg2WEh5OEhWLVV2MlBPc295NFBrLW8yRjlkWVJqYlV5RWxGSk0wd29XMlM3UjRWcndmYkV4RUU2T2lzM3lTVUc3N1RYNXNCbThxWEstSlF4b3ZUalh6UmJPV2hDRTdpTHkzcmpmYlVRclJxcWtEMUpMMmNpWHRKRlBvWENzdHh1a2JqNWVHdVBfVk9nU19VUmQwUEdILXhFNA?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: Pictures of a bear attack in Andhra Pradesh being shared as tiger attack in Jharkhand",
+   "source_name": "Vishvas News Fact Check Hindi",
+   "source_domain": "https://www.vishvasnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnF1aU5pMHFtUEdGalB2WXJMUUljeXZmVXE4elF0M1BjSzEzQ0VSTW5laWcwWlZPNUtnN0hJbUxCcXlGMDJKZHY3N1RrcUJDcnp1cmRKVjVMcjVZQkV2bnRHd1lXNkVOYVBSaHpYUFJoQXJkaWVnWkdYNVo1Z3hORkpzQWtIMUtfRlAyazZobXZhRTJWYTV6ei10MjhsVUJlWHFtYkhfNUxldE8zbnFkSlRtU0RWaVo4QVlLMXNmcUlycWI5dVNiYkZPejJVYTRPV19EQ3Q3Yy1fUQ?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Modi to unveil freedom fighter Alluri’s statue in Andhra’s Bhimavaram",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGJqNE1SNkZ5ek9aS0xWb1NSZGlJUlg1OEpBMDRQNHFsWEktdVItdUNPQlJvYjhhdE9SRXJteS02d2w4czFaUE84cU14U0E1djRSaEJoQWpXM0FOQVk2Wk1fMmxCWHdYWXA4UkNYQ0J5YlR2a1pPTGhDNTNqWWVsYUs3dEotNkxLRGxud1dMS2h6RVFuZUkyTERB?oc=5",
+   "published_utc": "2022-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TDP founder, former Andhra Pradesh CM NTR's daughter found hanging at her residence in Hyderabad",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWZ2NDN1UkQ4b1U1VDdGdDA2dGxROFZuRDl4V2k3UXBQVXd2UHYwVllHMU51YUduZi1IRFJPZFIySC13RzVKNlZ3alFYcFZSWFptZTdsNTUtT2pHNmpUSVphcjBsMTA0MmFabWVXck50TVBqMUd1WUtLaGI4SzJSYUNtS3hta055Z2JwQV9kQTFOOWxXQ2dKUlU1TUJuRVplTTBnN0ZzMEh0eV9VU1NPZWJtOWxlaHBBTjZ0cDk1a0ptSXFER1V3TFhOX0JfZmRJeXJSb1o2cw?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DC Impact | Pharma D students to again get fee reimbursement",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlptMVU2UE1vNWFKYWRlNDlRa2xoT1pUV3hLRmhxX3c4LWlXQnhnMWVCT1MxNjFZNl9COTJLYVFoRGJVU2dUcFlmUmVSdzRHMW9qczNTNHdzNUtwX2NZWU5hYXZiMGlpX1N4bGtIRWdSMFpUZHBVY1ZpWWR6UC1OYloxUzdVaU9vMFk1aXZpLVhCdnlDM0NDcXA0b05TanJ1NG5SWUJpbmZ1NEVDSXpTdFBPeFBZdTJF0gG-AUFVX3lxTFBEQUd2TlZZbjhkMUNONmZLcHNqb09BSERyOWVmYl9ITW14NTlJamM0OFNUUE12REZZajhuMUdObmFsaUNvQWlqWEJ2SDJ1QWktNFpnVEpWdDktV2RfZ2FDbGlXa1hkaG1pa2V2bGZYWHlpQjh4ckpHNEgxb0tyZkk4UklrTWVLRXhhX2NNVHJjTWdXNHM2Y2dYZW9VazBza2lGN1dIX3RjU01JMHdKWGprRkhQOVNZUVE2SzNYQ2c?oc=5",
+   "published_utc": "2022-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Swarna Paddy Variety Fetching Higher Yields & Higher Net Income for Andhra Farmers",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEhkRk16Q0tjOE83Yjc0XzNpZDhyQlJrU2w2dll4a0dnLUUxS1JwUktDUTdDaVlGNkR1NjdwTGVTalh1SmNQU0MyYXFjbmdENjdaRjhmMEFndUFVR2VmeWd6bjBfaVQ1LVl0TE5kNWs4UVlLS1NNSDhZMEphTEpMQ1hySXlONWRLb2lrcTZGSjFOaW5xcEtGWjhMZkV5a1RUYUZzdkFya1BxWnhNUjc3ckRwbVB0cUN6cGpPdEYyckxUUdIBygFBVV95cUxOekw4NHpOVl9KMFotRjN3VExDNTZaX19vNXhYNEs3c3lnWndzTEdsdmpYbW5xMGl0ejYxaS15RnlvVk8xd2JHall3cWg3LXVnQ3JKRHc4RzJtcXhVN3FaSG5WNUkxQ29MMWtqeUtpMG9HQzlsQ2xaSGFuNkV6S29KOG5DZE1mX2liekNrVEowTWhWQkhocGw5V2tIUHZva0hUTng0T3BDZ1pLTXkyamliVk1ldUJwb1ROUUNkT3N4MzNuaTYyTVlCcFhn?oc=5",
+   "published_utc": "2022-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "INDIGENOUS AIRCRAFT CARRIER VIKRANT COMPLETION OF 4TH PHASE OF SEA TRIALS",
+   "source_name": "www.thehawk.in",
+   "source_domain": "https://www.thehawk.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmctdzh3X2x2NWkzbUdXVzVVTFh3dXpwcnl4WS16VFBWbGZhM0NFY3RzcGhUSjMteExQYkI5WDRISmhpUE9hQnIwUG9OOGdBRDcyZlZqMzZITnNqWnJrMVdBNU9ENVhZcEJxQUoxMDQySTJwUnJoZmxWUm05Q1VKeE9CNG11Ul96QU4wUTJQcGxqRkVNb0twVlhkZjFGdTBhSUJVeW53Vk1QR1BhVU9Bcldn?oc=5",
+   "published_utc": "2022-07-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

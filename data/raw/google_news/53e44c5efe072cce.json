@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "IRRI and Odisha government in India to collaborate on an initiative to strengthen state’s drought mitigation plan",
+   "source_name": "International Rice Research Institute",
+   "source_domain": "https://www.irri.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVdsX2FYQ3pwcUdNenVjYmhVM1FYZXZtMHV4LUtOMFZiMG00OVRmb1pKS0ZUNkVHMmRVQm5maVYtbWVKd3VrYzZoTmtqbkZ4aFBwLTBoQXlYZEc1WEN3ckxqTEh0V3Btdnc3QnNPWlFrTXNoekd2UDRCQ0FvRllmM1BpLVotRExKTHJSMTNtcUFSSTJxcDJodVM1UktrTTMzeURiX3VRMU1wdmdZU1hQNmMwTHgxT0tXb1M0OTJOUHR6Zw?oc=5",
+   "published_utc": "2023-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha government offers free textbooks to private Odia medium students",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUDYyd3pENVdYTUNOLWNCLUZsUTFUeGszWDNjck4xWElhejhwSnZsNlA4T0RXM2gxYzB5alByNlZUMTJjblN1c0RVRi1OZGhxLTFQQlFRYlBSdDN1MWs2MzlzanRmTjFTbXhGWk1zdEhyaUJDWTlPelZRdWNpQlBWWGZzVndIQV8wQVE3UVV5WTc3c3l2bjFRaVNWamhvUkNxQUJtbUc0blZyMnNteTJna3JfLS1iV3Rlc2x0eF8zcjdaTHlGQ01HZFYyV0xFYmRXcVZ2TzV5REFoYjTSAeABQVVfeXFMUEFnek1XcUpQN3NEbUZWQ0lzbGdGaFNIdkhFRFd3djFUWFc0TE0xZWt6ZENvNkRYZjJmWmhpMjEyRnZhSmNDeWJMdWRHamJ1dWtVdlBOM0FDNExfR1VLSmVqVXN2YnhtWVQ4bWl5LTNmbFZ2QmsxXzZ2QlN4UFBrcVNlTnYxY2VfakctaTNBV01UYmthZEV4VUlNc3RJN0pGT3FDSU5TbnBiNVpwVHZnb2xDTnEyc0JkdTBJd0NMY2duWDU3Z3lUWUkyeWNkT1kwYkd0bXVXWnNTTV8wc0x1STU?oc=5",
+   "published_utc": "2023-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Students of pvt, unaided govt schools to also get free books: Odisha govt",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcjNKbm5MTHBUb0lES1dMZEJ1LWlJT080MEJZLURNLU03Tnp5WDczaXlmcnJvSHp2eGdwWS1jMmEwTkhvUVBlT1BYaC1PLURIMFR2YXZGOFA3Nlhac2JIY1l2WTA2cUhTNFFQR29KWjdKLWFkU0tHbzJROFJnOFJRaHlncWNac2h6RG9fS0pCUm9wM0hUMDBWUE9MV0I1MDVhTEN4WVloa0ZPcngtYkY3emwxX2ZIaFpScloyUlkxLVNyMHhCVmMtdTJwOUhNRk5Jd0twcVBrRkxFNXVCMHkxUlhLNGl3LUZ40gHsAUFVX3lxTE1lZ19VbS1uODJJUEpGV0ZuSk9jdndTdlRxaDZ4YXlFX281dmZTZHFxSGVDOVItTkFka0YzQk0xTEdlSHVYTmUySm4zRjVjMEpfcUhabXFRSHpuOG5hVkNneFFHWVE0clNQbHp5SG1GUzRoTlpxRHBnVTh1aC1SU1U5dDdkSDl3UUFMc1lONEM3OEc0WnhGZUhROG9OdjU2T1lJNjdBQ0NpajhuNXhzMTJvYU1QUDI4Qmx1TUsyc1dvX3lwZERlaGFGT1R5S19lQUhic3RfcktqN0JnSHk3VTd0QTkzQUtQTTNmMXY3?oc=5",
+   "published_utc": "2023-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Months after ‘scrapping’ contract system, Odisha to hire 20,000 teachers on yearly basis",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRGRCRUQyMWlWODZTRkVIM29TQjlTbnBiMEpNdkw3dXJBTjdFZ1dnUWp4YUwycWRuZGU2a0FOY3FLOXNaWXp0aW9WSjAxbG0yVFgxcklIVWJkZFlKNDZRbmpsTGVDNlBfRVI4bldfMlhocFFxaFVocVhkR2tycTVJcndqSjFobk1DS2ZRT2NpcFlLaXh6aEozd1lvRVhESFZWMkZRTk9mMTlWbUtfMTZBRFdueVpzZ9IBvAFBVV95cUxPdG1WUVRTaHM1X1NwUVVmMXR5YTMwYXBFNFJxWnM4SFRfZ2VVY1dOM0NNdS0tTk9qdVRleVY1YWJzVlVXenRoMDcyRzF6Mm5HckttQkNDdlRCUlhLREtLdFRHNFpUZXU2YTBwUUs5U0NQN3BiLWtmYXZnVm50MW1EM3ZqazQ5MW1EcTJWNFgxSkhBZU9DMFMyNjB6X3E3VGRJc2dTbUFjYnNzUzFRYkNaamFJX0MwVGFud1gxbA?oc=5",
+   "published_utc": "2023-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Manipur Students in Odisha Struggle to Pay For Food, fees",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3dNX3Z0YU9qMVF1Vnk3OW5ZUTlUNTVJdTNmR2l5Vkl3Mi1wT3RMekhfdUk2U2p1bFZ6ZU9hdmxKN2ZPU1R0eTNIQWVIUV9mNk5DcTR5aTk4TjVTTDlReEI1VXBNSFpaUjI5RTNjTlE3VzZ0Q1VUZkFObjBQczFQenEwR0xVRW5vLVFCV09IYXlRR0xnY1doUzZwLXZTX2oxNHVkSmREQi1vaUJ0S21WM2F1TDV6WWV0ajh1czhla2tzV3dJd2lR0gHMAUFVX3lxTFBxR28wTkdvUmtqQ0VhOUJaYTlUYnlPTXdNQ003cVRqYmhSRlA1bTZaVC1Ma21PdmJUWjlfaENfSDc3ZkhmRmZRa1VFX3dxczlCc19OYUZDOEthYXNsTWVZRnlyYlNXX09JbUhpaVFiREY4eWtoeTAyX2dDUV9QVlEwb0xvSnFLT3BMZzg1djRlSFl5WDVZZExZb25zSXZJcW16WDFMOHhTaEdOb3Mzc1hodWp6RHZkLUZGUU9zRnVOcVNLeE1KMTFwaGlWVw?oc=5",
+   "published_utc": "2023-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Centurion University opens School of Law; Read full details here",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdld3eHBZcWhFdk1UczVEdWhsbVE2ZE9iVzY1VjhuUXhUUXdNQUVwX3JveHI5akNYOVdXRkFzLUhYNGZxc0Vmb280VjdaUUx5akhiYmFxRWtWSUN3OGwxM0xkTXR2dkVsaTVSa1hBY0RzcHVtakRaZm9iVFB4N19GdDYtTW1tQUlUS0t1b0dIX2R3MHZUdGRheFNlSGU2LVJyazJ3MVNyczR6WDRjV1E2b015YkE2dXZIdUJpQl8yWWtXSUVFbS1JdtIBzgFBVV95cUxNTmV3Mk5waTNmV0dZREVmeU9vUnNuRmx5d0pULTlsNThfMlBULUFtLUtzNEZpSk9UejN3QzlodXloR0pxbHJKODQzSkU1M21oSmNhSjJpdzZZeGZWb21OUVBXa2tNRjljdDV3N2pzT0d1VHNOalFPMDFYVmNkaGloeXlST0hlYWNER0FfYWlXS1YtTjE4V2lsVjdiQ1JxdlhIcDE2ak14MlByd1VETnd4ZjVWVVZ6Y3hLUWlyVlozQ2oxSVl3VkoxZkFkVlJLdw?oc=5",
+   "published_utc": "2023-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt approves 9 industrial Projects worth Rs 873 crore",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlk3UGRTVDhGZ3RQQXRwRWpzX2JyYkhCbFoyanBjRFd6RTlidWZjOTFib1c4Q2p5R3VWUGtTVENYTklLc2JRQWhhOVVtX19UQVVKd3lfUzZockdETzVKc2gxbEFqZnVlTl82d244QUd4NUlrZkVRRHZGNzBCNVpkc0xhSUE4Nzk5alhobFVleEx4bzZxc2lyVUI1cXJpUUtnM2lvUWRIS3Y1Rmo4SE1fYmZXNDMyWU9aRHAtZG0tNDB3QnNwaG0yU1U5ZFRqUHJ6bWNNdmxB0gHbAUFVX3lxTFBqcldSV2NWZEh3cnhSTlY2dmYwSGk4VS03RzNCaEhLYXVxM3ZpRUo0WnBXcTZhWEVMMi1Wc1JxYkhiQ2NwMGFVTThOdVVYZ3hwZlZfSk1Zd0RSQzFKR1VMcGgzV2w4U1FNY2xOSWxLN29zQ0ltd0h1YjVZaTN1Mm1Sc3lMRDFFeXQxbW9WQTJPcUY0bDJtWGFoTmxXNHc2Zm52S1VvY3g1UHFvdHY2M2V6eWJaWlVRY1h2NHBUVVF4cklqMkJYMGd4d25hdGJDWEtrdWtPTk50VEg0bw?oc=5",
+   "published_utc": "2023-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Holiday declared for schools in several districts as heavy rain continues to batter Odisha",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcjY3ZHM3SDRtQUVqRnU0OFFvc1dJMnh2ZkpYU3pMX3lNQnlHVWhJOW83X1phVTBSM1VXZzJQbFRQR0x2aTJUX1pHWDd2RjRBUkJHWm04RExPMlgxSEFqbk1lOEc4YW03VThtRThlWE5DSDJJWVB2S01NS20yTWJpUEljLXZheGFqZ3JDbHF2M3c4ZTRWOTJSXzJTNjQ4cTQ5NVNGbUVFVTVIR3dHM0RfM2toZG8xT3d4TnM1WG5CeVdhcEc0dTROeHdCZGnSAdIBQVVfeXFMT0J0NUp0b1VGSWtkX1VjZEkyOXZoUGxrREtHc0doREpJbnhMcHVEbDJaX2ttMkl5QzllQkt1MTNNelhSdUFlenF6WnctdFVrVUo5Sk43SUdXU0VvZGRTWGhIalJkTko2ZGZHaGpTLWU2M1RoU1plYUNtLVJDd3NHU29xdDJlbDB0N2hZUTRrZGhvMzlvNFBhaVRIN0YzeG02ZmotVEVNbnM5M2c2Y201RnVyRG4zdVhXUm4xQ293N0t0aU1YcXdNek5TektYMGRkNk5n?oc=5",
+   "published_utc": "2023-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aadhaar card not mandatory for school admission in Odisha",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWDYwZkFZWkx5RlVrSXJmemFSZDQ2X1RaZmVMMHNKUzd3Qm9tXzR2dV9pY3JYNzU3eUhscG1qVWxaNTVjcGI1Wnl6dVJQbEZscGtLUmkyaU1rSzZVRHpCdTZERFpZM3ZfWUp5cndBVDlqV0xHcXMtOTRRdjhGUXIwUlR5MU1KcDkwNENCNDM1Rzl0aTdmNkFqYXRYRXV5V2JZQmJ1bEgwR2dqNUk?oc=5",
+   "published_utc": "2023-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

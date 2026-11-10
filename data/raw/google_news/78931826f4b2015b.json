@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Top 5 reasons why data centres need to evolve for the future",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVp3T0NYYml1X3A0eXhNd0M2NHE0aUdNVS1ISXRmakhVNUdnaGpEaFUwWks2amdEdmFSaEY1RGItOFNPTVZ2TDYzNVlNeDBTUFFLZjZITjl4V3BLTHZDUTc5WXJyaVJQTHpvSHlZUkF3czgxZHhPbXhwQmt3cWJTZm9Kei1hb3Z4eUlaZmZlUUJnclE3TENITzJmMTlZM3ctZVE?oc=5",
+   "published_utc": "2024-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: RTO Employees Union Calls Off Indefinite Strike After Successful Talks With Transport",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ1RGWTJXYlhjcWJLQnc3UzJmZENPS2dvR1JuWXAwZHFQNU5qemJVU3FCVk1vSDI0V0o4ZlJKZVdnMUJiV0k2a1piSUhIMkdTZm1vOV94STZKclNmbGtTaDNES3NLMXg4NzZScEhYLTA4TlpNRVRKRE5mUHQ3Q3ZNWWFQS1hOdGhWd2s5ckZMTFUxV3JSR3JkenpFM3VidUNDOGJENm1aX3ZrSndwMTI3STMtcUtOZlRPdFFxU2xBVFFfREZkYTFidHBWcXNmVjExQVJvRDdWVU9sWnVPQXp2VU9mQktxeFN6S3hwN0R30gHzAUFVX3lxTE5HbmpBMlh2ZndsZndBYTNkbjFwVWNFdm1fZEdqaFRoNzk1Zy1SaDRUUUljckN1Nk13MVpnTVRzS0tUVlJOR3c3cGtCQmVHb0lXVmw4VEZVVm9qUkFIc1h3eXV1ZzNiTXJXMnprVGFPUHpTdG5ydGxjdHJtRFZ1VTZJZC0wQlEyZ05FWXoyaEdrTUNnamRhRld5MS0yWllBRGxxUmNyaFF2UVpXYVkwUlNNd2g1Y1pxSGZHU1R4dFlrNXRFemhqTkVMSUhBU2M3blJDMF9VNGlRTHY3ajZfelZheVNjdkJMcjU0X1k5Q3c2NjlRYw?oc=5",
+   "published_utc": "2024-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "How India’s Silicon Valley will play an important role in building India’s Data Centre footprint",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX08xMWkxa1ZKX2pIWUQ5NUF1dGIyVG9HYlRrMi1NTlpNb1J2RHFzZm50QUhtbHBCRGJSeU1sU20wdE0tOURzWUJVRi00OGU1Z2ZIbTN5VWdwTFQ2MjNEYnZMLUE0MXJsLVZqck5fWUZyS2NKSmdwXzhSSUFfS0JqVlVCZkxlaDRRYVlRM3M2V2V6SmplMmdwTjdjSC1yU0dlczdCWEF0OW5vMllLbHhLRg?oc=5",
+   "published_utc": "2022-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TCS to roll out chip based e-passports by end of 2022",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2hsYXhUZ2VnbFdyOGZoaTMtZkR6ZU9PbEF5cjJYaXNpWWJpOXYyY093bGs3WVltRlo4SnIyY1RQRjRvNU00V3UzYm9uOHd6UWJraXgzR2gtWjk2MmFtNmxHWlFYOUVMYTcwUVJ1LS0wbFA0eGNJZGdjLUE0QXQ0S2RFRUl6dnFFOUFvQ3V2NWNZVFBYbmFocHc5eWpwZHlxNE95YVhSVEY2OWxLTVpvNjJiSjgzb0dXUW8tNHNzTm0zU055TjRUYlBn0gHOAUFVX3lxTE1UT1dVdWktd1c5bDh5MGhzZjk3SVVmTE5BaGdwSUdQcW5sRU1ycUV4eWRodlRjeWh0MXpHTG9TQnRRV0o1QzJscUFrRUhfbEY2UDNlSlo1NXRGdEVKXzZGN1pVc0VYNzRjcUlPNVN6anVvU1V0MFBvd0ladDBkS2VGLWQydWVUdDQ4R2NiSjl3Q0M1eHhtMHdwY0lvOWExdGU3UlZzUXhwUlMtYUNZeVRtY2d3ZnFaYUx3ZEs3aS03UUFXUjhrR0xFQ1RrYXN3?oc=5",
+   "published_utc": "2022-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Rashmi Thackeray appeals to wives of rebel MLAs",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVh6WmFKRGRzemh6RlFOM1gyLUg1UlpReE5WMVhzOVpPaHJEQ3R5TmJOM00wM3RYOVhpYW5kenIzM0JBdHRfd0dXME9JTUNKSEZQaDZGVWVPSm9GVGdnZFNsTm1rUlBCMGpCSjVBc0hQY1hyR0hqM2Q1NlIyeEs1NUF1MnNBbjBGR2pjelNQRzZaVTNaQ3o1bjFibm5tT1pzeC1GM3J2dWFmeW9jZUN6Z3JLS3NNZGwzMXpJd3MzUTVVckUzcTlwV182dVVTZi1fSmxWaFgweTBOUdIB3wFBVV95cUxOQ1NUYzY4R1lEMFljTTJBbHhfSWdldjZmbFhpSFFxLU50M2M2Rk04WUJsX2hBR2UwRTBPdXlWaVBHUmZBLXV4aEZ4WnNINzZRZTg2dVczdlVPSzJUbmROSjF3Z21zN190clR6LTJBbWlwMm5TcjhxVDQ1czI0aUtoUW5PTEFrc2U2cmxPQnhSTTFuQ3NHM2Q4cUZBazBnZmlqSzdhZ1RsX3gtVEJ6UUFiaWVtMldPX0luVGJnWjJpa0RNcjhsc2k0MV9ZUEJwcUdTSEhzVHhnZDFpNXFlYzRZ?oc=5",
+   "published_utc": "2022-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

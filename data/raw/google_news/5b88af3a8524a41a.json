@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "India's Maharashtra enters $2.5 bln partnership for EV battery-swapping stations",
+   "source_name": "Reuters",
+   "source_domain": "https://www.reuters.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ091RldiRjZfckhUdWd1a1VEZzJtQ01QOUFJMXZMUkwzYVB5SG1OZG4wVENzdVBlLWpNWnpzQ3FoSlJxczV0NlhHX3BVWnZpbHNJR3BDSHhvdzNOZlBWZ0RjcVB6dXhpTUdIcGwwQnB3S0NhbkVrOW1xd0d4elJ0NEhKVm5nVGhEc29md2pQWXRMbWpEZGlRUm5ydFNQUTlON0tEeWtQZWVfZVJqV0ljbG9ZelpJZHpBNnFydQ?oc=5",
+   "published_utc": "2023-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government accepts revised salary policy for state government employees",
+   "source_name": "HR Katha",
+   "source_domain": "https://www.hrkatha.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTUzWl8zZU1WbmpKSFJsUW9mTFRITUhKT1N1SENyZGNCTzZyaU5pcUhLc3l3MU5tTjFtT3lSalNOc1JvTl9KZGN3YTRHV01tVWhOSkRRRGgyeEo0RHJsMUpwYnNRY3NLU1dqbXlYdEFkMGU1Y29tVDRRaEdsSzJYQnotdm1VTmJIeUFyRUxxblloUWZaUGxkRW1kNHVQNFJ1d3U4dV9hYUZVeDdoTXB1bFhmZw?oc=5",
+   "published_utc": "2023-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt accepts Bakshi committee recommendations on pay reform",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1ZyREZIdEVsYnJUY1doVnBNeUVmazRCLTFNVkJRX2ZCMDNJSjNPY21CS2Z5cmJ5MmR2eUtLUnhQZVd3WTZrSlhGbWlHZ2tHTEc3R0ZUNVZJaWRtTm1BRXVBQVpqdmlZQkVRMEpncXFrZ0dNREhkNzJpbjhkZTlTbVR4cEhUMk9sQ1dveVAzNmItejJ6YkM2SVB6akNJckZMdTR6Q3RoZmMtcmF4Zi1BMncweUNycVhiQWdfOFpuZTZabF82SExv0gHOAUFVX3lxTE5WdXJKUDFxUlByaURjenp0LVJ2NnNFcWJEdU9qWWpCLVRBSEJ0dmVLZEljNHBCTy1lamd5UzJwdUJwTjhreGxJdlFsbll3a29wcThlZl9ISndrdUZHcGxvMzE4Vk12RTlFVTJpYkhRSldSZnI3dlI1X0ZobTUxVEpld0thaWJYdEtjb2gzM3p2Tlh2SndxclBPUVB1OWl0dUo2bFh3UFN0Q0JWamN6SHdaZ1BmSkZGVXV0MkgxYWF1THV1T1J3TGg4OGtDZURR?oc=5",
+   "published_utc": "2023-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Current land compensation policy to continue: Devendra Fadnavis",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOVFhcGNzQnczSURLQzFEdUdFdWZZUnY5TG5pUGJNS2V1YW1TYnpXaWJaZ0dwRDNsY2QtdDlGSGNfbjNQZmEtZXBRdXNvQ0dxZUVyc0wwck4tSTRMNk1RODRVYW41S3BHVVhFd3R1RzhxMmlZUHVFRkhxVG5tazN5VXF4TnlpV3pFYl9CTTdUdk5GQ05jVTdyVW5TTURJaEJHcndtYmExMlZpdFRjMFdMQnJJVEJrSF83NHJVMTA1dzVBZnA0VXN4a3k4ZENpUQ?oc=5",
+   "published_utc": "2023-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: This govt school in a village of 150 people has only one student | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGwyVk1IWEZfam0wRTdSOWVQNWVQLTVTazJWV2Z1WVVhWEtJQTUwVXJHRkplbHBRVzRsQXhfLTFIZEJlb05yNVU3ZU5iMzNIR1BhdUkyWktzTy13QVpoWWtOeExSc0VWcGhYUmtRTGRoWnVHV01pRkw3RHphUDF1a3l6c1YzdVdFMGN1aUN4MVI2bUFWNUhKOEM3VEpfUTlnaWRNWGRYb3F1UXZUbFM4OGZfN2VYbmNudl84S2ktdEdyMXo2LVV5TXhVLTNTUUZRUTRJa2M3U1dXMV96aFpEedIB5gFBVV95cUxQRWhNbHlsZTZyaU05S2NkOS04eGJFbnB3a1gtLWpDeUpGUE8xZExPTVd0UFFWNmRWTmY3WGJUcUtGcVY3M0FORUxNZGlEbXB0YVNkVUExVExKdmthVU5BTGktR0pWMTFzYVhVa3Q4eFgwc185SkltaDF0Ni1xalhlRFRxdjhTVXQyand3VkNkVDh0NFBCbTJUZjdwTVVpWHJWdnh3OUlEbmNRSWhCMTUwOHRyVEo4N3pCazM1MFMtbm9qOE5DdDIwMW9JUGx1TWl0OVlJTmh3bVdjOUtrck4tQXI4ZXRIQQ?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt positive about old pension scheme for teachers and govt employees: CM Shinde",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHllSDJPbl9yT01ianJpWGNKWjJIWThCNDFhdExoVFhVN3dWS2VFQ3JCclVYNXk4UUNOWG4tbC1aazc2WjkxOUgzWDFFWUhOSEVJVkNzaVVkdUFLcGhGSENfYmdwcFVsVTJFNWduQUpXbnBsUDNmZk5yYlI5SFVoQnVXdjkzY1J3b0xhRUlIdl84aThOWmVZbjdXUFB2c2JJZDhidkNlazJkY3E0ZEhWYk9GZkFQNjJMaEVGQTFxcXY3U3MtUm9MZURDZEtfejVMWmpvZHJDaktzeW0wdkdUZlYyQVZocFBDZmtaTdIB8gFBVV95cUxQaE8xeUFlNlpBam5ZZ29CWXJ6LW93YTNOUjR2WmxFRnlRTXd0eV84ZFFteWxlZlRjUGY3TFJTRHVhaEtlSXlQcXRCTzVqTkl1T085d3htSXdzaVREZnBMblRXTFg4RnAwRFp4NTNxX05SOTZRS2dLNnRMVndTMkZtN3JDbmM2VlZiUmpnSlhGUHpGOW9IVjBOS1lzVjRTMF8yYnlkSVVqcDZWdjJWUW90NVB4MG15eWNBNnVCSWExTzRpRzRPWkMyMk00Uy1WbmZmVERtSENnNkdiTU5JZUVCd1g2aHdEWFptOUtKRXdkdF9WQQ?oc=5",
+   "published_utc": "2023-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital edu tools helping students recover learning loss suffered due to pandemic: Maharashtra Education Com..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWnhxYkNhOWlnamVUal9uZlRFQ3VpdzJ0RzJFUVZuVE42bHJsS3I5N0JETFFyTFZqSXFpNy1MeEM5c1d1SG9JMERpdFZtU1RLa0NUS2JJTkxmOUs3NVNwb014MzF6TUl1UUpfLWpDTWp6Q2h1bDU3Z3JTemU5VmZhSEI3RVJ5WldiRi1CUUg0Qm02TkoxZ1FvSzc0WjhKQ2txb1ZGS1BVMk5LQV80VFdPZ0lkbWlLZVBkY290RFBlQ0VTNTZpLW91Q3BmcmhMd1ZzZEhCSjQ5eGNaalRYb3dCZzM5M25FREx5WkNYTlJPbFpIcGF2bGVsSlcyTndjUkFwSEVxTzNqR3IzdWtiNW9vYmRqemYwdlnSAZsCQVVfeXFMTWFRSjd1bF9CdmdXX0s1b2NPdDNONU13aWlHbnJWRGF1a3dlMVliTndodGtiNUxCVE45ZWRCajV2dUc2MF9uTndFQ3B4LS1PcU1kc3FDTTJKczczMzNhNms2N2dCWHgwV2x6US1uUWg2eWkxT3VIYm1oTmRndF9OZEJMYU1veS0tcnNrdW54Q2IwUmQzSVBxaXdFaVkyNy1UYmVXNlVmRFhCNXJnVGhyNXJVMVRtTlk2ZUVwSENhQWE3YnVlMjd5ZjZ5T2FKS1JKSjZnNlhVZ3JJdHZfSlpKY1IwcTlLajRkX0dtRTB3a2hGTl9tWEpvYjZKT1dYRUVZVENOYWlselZERXNnM2tSWXRQWFNzSlQtSnU0OA?oc=5",
+   "published_utc": "2023-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra positioned as gateway to India, Chief Minister Shinde tells foreign investors",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSkxlWUt5SXhBRGNMSjZHMUJ5bGU4OGRNa0JoS1p4enNjXzZEVTVMY01MQzZFcm5YbXNPejNLMFhyaERVRENDbUVvTGZ2YnVWcllfRVZOMFZwNGVpM1N5VWxidG0wOEcybk5zdlhoN1RHbW1KVzdDRjJSa2xQbnp0NlUxdzZWQy1XTkdGT1JRNjliNkhDNjJ2SGlzQ09jaEZnQTRMWjdiT2ZtbGtJRUUxRElnbGxOa09zbHFJNkpGenZ3cDJnQmsxZGtoVUo0R2g1cW9WU0M4M2xTekpac0FFTnJBWUJBdXfSAewBQVVfeXFMTkJ5R2EtY2xaUk8ySUZlZ3hPbU5PSzBnX3EydnpLVmZNcFA1VVp2MnZlVmVVTkt1NlZjdm5wb1BYR0ZOaGEyUzd4RnJSeU81V2dFUVlSclhxSEx0VDFBSUJkMXJMaFpwME1xLTB4SzJvU2luRHB6OGc2NWNFa2p2aTBjbWVZQmVFYVZIOGdpTHI1WWRGRWVKdHZYNDJSR0ZZVWJuNFVvT1JjZlRlZ0NlQTctUFowb0dPbG84X3ZLc2JnTlRrUzU2RjZ3NFBoTFN4ZVdNVU03N084NE5Ld1pWdXFfcjBYRzJsZnVHTTk?oc=5",
+   "published_utc": "2023-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Jai Jai Maharashtra Majha’, official state song from February 19",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenhVdXljbERaZzA5R3JkTjkyUTl1bVVud3ZDMFZrMWhIdjZtVTlnNW9xUmszN3lmRUhpRUlXM2ktek95dlViVGp1RW12d3BBRDBoS3Q2UFFUdXIxUUx1c1pUaXN2R2lOelRBMlBHZTlrSjFWdzVBclQ2bm51a3R3cm5PQl9ta190U1FDZS1CYzJQZW5rbzdXak03eGZ6cEhWdTF6dFl4YnJtQlXSAbIBQVVfeXFMTTF4Qkt2T3Q2aHZfNmhMWGxOZE5wdjhaZzdadjBBVGdORzhaMXcwU0xtZWNlS3FqTjlDTjBvT0VTaC01Z25wUkwzb1EzUHItSm5vN1M0a0RNTzg3R1pxSi1yU1hVLVdmY2ZEVzhTa2JBRFpWMnRqcllhM1ZyZ2xzR2NVQ3NHWnY3Y2k1cmlfRnllOVZHNGwyTmRnSHlCZWc2enl4Q01Vank3UElDQU9nWkhjdw?oc=5",
+   "published_utc": "2023-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh deploys facial recognition, geofencing technologies across state; 1 crore faces recorded dail..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNN0VOclhXZ2VjYi0wRmt0SE1EZGFNNmRxelRfQklCUnFkXzU3MTRwU3RPWEhiSEhYeWtLcE03VzRtb0VCWGNZemJjUXVzOEkteTlPSXl5NDNLQ0VUM3dhTnBWNm5WZzdZWE9rMjlabHZPN2UxOEI1d1ZHVkhkRGNGSVhFZ1dvdzFPT0VSYmRnNVVqb1FLbW5VTVljZ1BvZ1NMakNTRVhlUzdqX3J5c3djOUU4Q1otT1c3eVZQMGNBUFctOFJQVkNHa3g5djBxSXoyZWtoeWJjblF4ZUw5QWNsZGxqVjQ3Y2dfbXVVX2U0Y1hBZmNpanJoakZ5bDVJaE5KcjdFS05vdjc1OWs50gGSAkFVX3lxTE9SNjB1alB0RFoxOF9qbURDRDNDTmFyM2JCM3I1V0NCUFp6cW9fRlNyZEpqTnZtMGwxSVNmLWloeERHSEdORmpaX09HUi1DYjdYOVhvRlRfbnM2RUdGV2txX3RnWEUxaEhJemRhOUg2RnVLdVRaVlNYS21JZlZjaXVtQjVUdGthZVRaeVRKVGNXTlFwcGl6WEFDclZfMGZtUXN0aDZzMmhBOXlmalBpa184SDliTVJDcGZSN2ZQWGNQOEVlSEdGcEZ6VzN2N2VZWFFPOWdUeEpoU1U3bE9HbmJaR2htalZDV0lvd0FQNmxXSzhvNkZLU2xqZHlnRUxpNjE4V1ZFaUVTQWJndnExbVltRmc?oc=5",
+   "published_utc": "2023-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

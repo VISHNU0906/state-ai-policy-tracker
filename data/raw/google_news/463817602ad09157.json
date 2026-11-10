@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Five interesting AI startups in Gujarat",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Pd3pNcXpjOWU2QmVvQVNWa2dCT3Q1V1NIRzNBZ0xWaHplc2RKRDZISlZGM3hHQmE2bU9Gcno2ZDVqY1l3Q2p5YnpLQUxoYXQ2elF4S2lxcXdfb1J4UHlqak5BVUhhbmw1YThwSTFXLXNnUEMyVTFfVnVB?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rashtriya Raksha University Inaugurated and Dedicated National Security and Police Projects to the Nation",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVURySnFsamFELWUtdzZXR2c3SGNNdFdCeG01ZGlxN21WeHRWekVsTU8xSE84WU5keXg1RUdzLUtjeGxJVWVzazFLbUx5LU1rTEVIQjNfZjAxYTl6UWI1QTZmVk5qeURn?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IBM collaborates with the Commissionerate of Technical Education, Government of Gujarat to propel Skilling in AI and Emerging Technologies in Gujarat",
+   "source_name": "IBM",
+   "source_domain": "https://in.newsroom.ibm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFREbWtkeUdoT2Z5N25Da1ZHLXhsbDdpSjloTUZNbDVIMmNTNm8wckdsTVdYZF9zUkxrZ3RUY25vc2dkZnJLVzR6ZFJJZGxCa2xHaDhlT25hVktTTURodkFBX0VCRlFkem52V1VtaWNfUC1oSlZ1QW1ORW5qUWk1YjdTRlhpdHU1VkRtdmJCazlsN1d1dXc?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vibrant Gujarat Summit 2024: Mukesh Ambani outlines five commitments by Reliance to make Gujarat a global",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQQ0IyeU5neDZnU0d1bzhDalZZZVl2TzNFak5uRjI0VnZfd2UySzlyazBCYXM1ZzJFUHVzRFdxZ1NfNzBLeVVIY2wxaVFoLWhHUk5kV2kwd0Z2WmY0cVIzUkNQRExGNW02dHk4NVA5RDlSaGVzSXMtRGx5ejBmUjhVZHAyaE9wWjhWSkdsUUFodWZFMDRDeWxsaGo2aEdONkl2ZXR0cS0zNS1JWWNPMDVkaVpDOVZweGdvX2Uyc1Z1b1ZFN3l3V2FMMkp4YjUzMGZYSTJqdVFTMzQzNVZvQjZrekladlVjbTF5dE95OWt5cmRWMllEWmczMlJwdWVUanpHUUhVb1hlNjRnbDhSdy1Oamd0LWRMWThraWtxNl9LWWZlc03SAagCQVVfeXFMTkRtbTJuWHNSRjBSNmtVRkNEWno4Y0hjdWMzd2lqNk1CMUotRzBvOUE2d0J0Yi1HbmJrQ3B5eTlTSzhoSHcxbkZ4V1JYS2VZOWJWNUprRk00S2JwUmZFVk5scXJaQmZ1THd3VHNwLUxiR3QxZFRKQ3BHczdZLV9TUkd2dVRNZjhzNzNKdUN5UzNIdEc3Q2huZGJrbVM3QklfR1VOd1ZDX2xBVV9TRnM2ZlF4NjBsMUoxVGxxb1dVT1laNkRmMlREanU3YUZNM3hjUXZSNWRlVWFrRUdmYVBDdlNlMzIySDJKZk9Gck43ZW5PeDhQWW5vOXZHakNfbzVCMnMxYXJ6RFRqU3hQZEd1ZFJmcUtkaEtYa1pjNGFTdVNBZ2hiZkVpaTI?oc=5",
+   "published_utc": "2024-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kaka-Ba showcases transformative healthcare in rural Gujarat",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmVjNEJYZExBSW9kMUExdjB5SmRfQW1uSFVhc0I0UmFTa3g0VzFFUkw0a2pBMEZfRFFlcXhKd1pDdnQ4TmxweG5YOWVXLXZtLUVKTFpkUVlrSllXYk05VXdMTVFHWWl3MHY1YkZ0Q2NXek84cm1zV092TE9jWFRpUTQtYjBmVmNJdW9WYVlJSnp4d3RPMFFmWW1lMGxmZG1sRWZ2Rk5wb2VfWGNyR2RKNg?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "50 IAS transferred in Gujarat; Sourabh Pardhi made Collector Surat, B A Shah appointed Collector Vadodara",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWWJsNkNrdWVGWC1velVoSkdESUhqSU95MTlYT0h2MWlJdl96Wm9XLW1BOWhqWDNxM0RfSUV3VVNrdnZtUjNXTFhwT1Ixd3M1UTFKQllhVU9oRV9BcXNFWTFnaFd2b0tRYkx1cGZWTjZWX3VBYW55RXpkajFRVUlIWFljaGFzd2pERUpTOEN4aWhyYXF3dUZjd2lYdGNabThDNENfZTJibmNnOEFtYlFOd3IxSC0xOUQ2RU1VLWtJb21Cc0JaOTNVMFBTbDVZSVp4cnBlVjRjYkc?oc=5",
+   "published_utc": "2024-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Narendra Modi, the most successful PM in India’s history’: Mukesh Ambani on how PM Modi shaped Gujarat's global image",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPejB4MlFXbkZWZGdWWVMyQmZtc0JRWnRXU2JDSUgxUkNXUmdWcGx0Z1l2Y21PMm43Vkt6UXJOUERxUzA2VDAtTXRuMUM5MXdCdEl1Z2hhVmJ3Z0JfZ0w3RlB5NWZrSGFPMVUxZEE2QmttM0x5ZHFMUkVuTXJpMFZ2YXdPVDBubUVNMlExeldYVlE0dVZjLTA0SEwtYmtSSjcySGpORzdPcjhwOEM0UVQ2cjFzV3I0a1ZVSU9VNUVERnQtM2ZYZEdaTVlaWFZYWUFrb2JJc1VUTk1neHJSYXBB0gHkAUFVX3lxTE9ocXhLQm0xTWhockM0SGVoQWloeDIyYkxneHRBNjd5ZjZKeDdtUTlsTldSVDBrYUFITm1WcG13OEN4b2NFMmpxMTFzWVVNdWRJOGdIZW9RdzMySF9iV2YtenVNa2I4V01ybXk2akJuaEhIUjR1ZWs3Zi1vUzQya0lnZy0xUVZIOTBOYjhVQnFxcU8zczBNalM4akw1MkxYMS1BR21oMEdvYnlKUi1weXpjVV9lZkVXMm1vZExvTzBDcEdaa2hsUk11LUdkXzBqUXNJRUpsOGhoSFRhS0NBZzdEQXpNUg?oc=5",
+   "published_utc": "2024-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MeitY’s R-Day tableau to highlight AI integration for socia…",
+   "source_name": "Gujarat Samachar",
+   "source_domain": "https://www.gujaratsamachar.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEpJdjh2V01xNi1ORXpaaWRTZUVMNnY5dDRIZ3BNcjZSbFNwa2Y1cFJDMERhb2ZNU0NzZy1xTVRiUm41bmNoYUZ6UjNzYWhBT0F5QkY1Q0pjOFhtLXJpTmN2NEN2dFExZmdtcFlxcWQ2MzdOSjVJT09pZmktbXhrMU5zTTFYVmlOUDZQNG1uUlBrMllSd0pSTGNtakdUTzlHU3E2NUVyZFdHWW1nazBRVTFONmR4aFQ0Nk9rSFBESVBZRDN3ZXdOcXRoVHAzY182NFE?oc=5",
+   "published_utc": "2024-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bharat's priority is AI, semiconductors, green energy, infra, futuristic tech: Narendra Modi",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbGhTRXVoV2dYM05fem92UzFvTkludEhEdmlOTVppRTFkYml4RnZTaTRMbGYyOGNia0hfSlJwandXSVFvT1I0RGN5M0daUnNrSnN0WTM4VDdtRDBlc0VBTk5KYWx3ZVJ1WTV3TjFNWEZjRjJ2eTN0NkJxX21tVndxQ2ZmRnhFYjNwcUswbUREQ29FNWlkaGREOXNmTnZFZ0hEUkxORmpIZUNPWDlycXNJRjZ1bDJGUWMzZU5KOHBaRFFYUDZaNUl4SEJJN1BrekdTdVVZTG85WVBuTW1qeEp1X3VPNkpJQmM2U2Y2RWNaMzRTRzY4MFdGN2VDVdIB9gFBVV95cUxPaS1WdmZzM1pkNzJxVFg4cmZXdFowWHpBa0c2bXF2eGFCZjBSTXlXb1JKVHczdk1PLTNnall4U0doRkNJeW95YU9RdWRLeWJrM2dXR2JRM2h6NVY1dXk3ZEM5dGJTcHhSQ2FYREMtQU9qeUQ5QlNmUTR4NzFpckduQ2IyVDRDRVJ2V2JMZEoxeDJ1R2hzdmpuYW01am1JcDFmcFRwaGY3NlE4TUQ0N1k2a0hWdlpPYUZpeGxuMExTZ28tZnNEazRhckhPV2VIejBqWGZCcVpIYm9IUzhHakp1T0h3ZDdRY1hpeWpKS0pjbUVGcTZ6cXc?oc=5",
+   "published_utc": "2024-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5 trends that will further education reforms in 2024",
+   "source_name": "Gujarat Samachar",
+   "source_domain": "https://www.gujaratsamachar.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQUlMQkRIVU93RWMzaGZyejAtQ0hrcnRBZVBrRWt6OFlfVnliY3lOQUNRMi1uUkZaemhSYnhaV3BPdWk2UEZER2p6N3BGSjNJcUxENDJfcGRoa0Jab0RKS0d5YnRtRW5nTTl2Zk1vZ29wZUJIT1RLLWNoSm5JalYxT1o1MVBqUVpjNFNwTVhmRjVxQUhlbFRlNWZaRVhaaklaZ0dJcE9hMmFVbEpKOVVMbXN1cm11T0U5UEd2cThSeUhiM0NPakU2Ykw2aXFIQVo3cXd3Wm9qNk9WR2ZXM3BfZ3VR?oc=5",
+   "published_utc": "2024-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

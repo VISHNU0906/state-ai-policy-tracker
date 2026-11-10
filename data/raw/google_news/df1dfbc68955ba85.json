@@ -1,0 +1,61 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "AI of the Tiger | WILD HOPE",
+   "source_name": "PBS",
+   "source_domain": "https://www.pbs.org",
+   "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wMy1hNmZtQkJBRWV5WUNTc0U1TjJlRzVWZG1mVVpsbVY4YTNTV1Fmb0dkdHdJeElIMl9qMUJINkxlWkFYM3dndTVoMjllU0xnLUZJUG1ORjByZWxlbDNfZGJWSGFyXzYzU2V4ZUozYmxIQQ?oc=5",
+   "published_utc": "2024-11-21T15:11:04+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-based e-check gates to curb mineral smuggling",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWk1MS3NCTUFNZ21vYy1iU1VVVTJPbnVfa2hPVTBfc0NvY3ZoN2VMb1JGQUowcG9HcnVqM1k1TW40QjJHNWJIMFluWDFjZUZQNUUtMmNzNnh5SXh6TURBSjFCWDlPb2VQVW5oNjhFME9sZ1hFM245RTBqbjZNcXRhM1VVMFRrRFlaN0JLYkN6TVBzT0xQclE0VlpaNjY0bTFPTXZhekZNSlVjWVhzN0NKaTUtNy1EeldGRnlSbmpaN3N0MnhsR1ZIUTZ5MDNjSnVwSWNndlgxblBsVXd50gHiAUFVX3lxTE9CTU9hU3Fjc2tETmRXQmY0VzB1WG9tWVhXV0Uxcm1pRnVtNmZFalVZYVFwOWIwZVBIYnVPcUR0VmhuSktna0UyS1h4VnFrOFlfUng3S1ljcVJYVFJPUzNkSGE4ZHU4YURSN21KNUhLTHdUSlVRVDA5Y3owSjZWWnRmUTU2NWY4Y3R0S3RuU01UbGpDaVI2WW5yM2s3VUQtZF94SUpjUWJRWm42TTNxZWtKbFptMWNha3NsMDRXaFNkUDVYOXpjdmZvaFFaay1PbWUyMlVjc0ZRbFBySjdfQkRrQWc?oc=5",
+   "published_utc": "2024-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Visited Germany, UK to look for opportunities for youth of Madhya Pradesh: CM Mohan Yadav",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnloNHExa0JBQXVGYlNLLUMwOU9vWVFwRUlyMlZjLWpURWRyRzVabmRkOWU0aU14YnFvOHRfNDVBdV9XWGFWZUpzM0tUV3hRdkFXdTExOHQtSDNVYXR0alNzd0J1MkFJRjlBREVfaUV2Mms3N08xNC1pSW5MYUw4UGRpUkwwczJJNGlmdUVxRnk3eEpld3BXVVAzV2pzZ3pBYnA3eHdnblRvdjBzLWR6LTI3c1JJUmV2U0VwUjNRQmlrdU41SjFQQ3M5VDNHamtTT1E?oc=5",
+   "published_utc": "2024-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Government promotes Anupam Rajan as Additional Chief Secretary",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVdic0lqclFpN3lWV0VPNFZvMjdMMnhuOVltMGtzV3l6a21zZVhoLVNFU3ZGa2w2MGx1M1c5NDRXYTBKT3h0VWVncXk3dF9hdDZfZVl1c0xrX29FeHpUX2lia1YxMG1DRGVrNVlHZDRLTXhkYktzdEVJb1RkaThHczRoOW1xMnowdzIzZTVzZkZUR29vSVhEMkZab1lrNl9RWWxCTVRMX0JLM1FQTFBxcDVDREV4Zw?oc=5",
+   "published_utc": "2024-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Bags Rs 60,000 Crore UK Investment In Healthcare, Agriculture And More During CM Mohan Yadav's Visit",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZUlGeTRPcEh3VmdsQmZrT0hCQ1p1UllnbEpaTURVVDZVZDhMUGEyUGZIa3FKSXB4UTQ1ZjNjdGNGU0tfY3NudnNFamVJRU1JN1RES2JVeHp1SnA0STF5X0NPUWV2MTc1NHRLUzRJR0RkR2NmSkRiUHk1ZjdhNXB2aUJYZG5DMWlFRVBlSV9SUWtmUm11VlJrTENVSDlBN1ZUTV9xaDdGWHkybDJQdXRRV3k5SGhub2RSOUpOdFM2Rm0xSVpvcVhNcjU4eVpteEFMY0k4cEtzM3pEREJ3OGFHZ9IB8AFBVV95cUxNNUwwcUNEYjliU1ZjdXhnaXNGNlJJVHA4VW10ZUEybEsxT294eEpFRW5iMlNsQTN1LUJYVjQ2Nkhsd3ZBYnhtX1RkaDNHUEFBZ3kzaXBvLVhrTEhDckxpYV9xWkJMX1NLRExEa2VPREVJSEN4cXlTX2o5dU01TFYyQmFUamhMaVVqemJEdWdpQTRaTVpoTjdjWHhaeW9iVjdRejN4ZV8tci1TNS1MZ2pzTS1kY2lKVC0zZlB2SkJKakl3T2FXcmlKOW5xYTJtanJ0ZjNocVYwNG9EeXM0UHprMndSM2FkV2xYTFRmMXFNalg?oc=5",
+   "published_utc": "2024-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NCC Secures ₹3,389 Crore Dam Project in Madhya Pradesh",
+   "source_name": "Machine Maker",
+   "source_domain": "https://themachinemaker.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1p2eEM1Nkx0aUIzWHdycmdOS0Z4UnNYeEp3ZzRzU3UtdWZpS3llSHRMM2tvV2VhMFN3UmlPVVJVM1RJU0dLdV9YZHo0VUphNHU2NTBXVzJPb2VLZUcyb05LbXNKcGt1X0ZfWEJ5aE9LdUptbkNLSVBxN2ZwdWlQNGRINlJmX2ZDUHhNSEdaeUhsMlJiT3pxRFZVYw?oc=5",
+   "published_utc": "2024-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh CM Mohan Yadav lays foundation stone of Rs 592 crore ‘medicity’ in Ujjain",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT0JpRUxvZHV2djhnZU4zNDV6X0M4Ylg1VUxNTFcwd1NuV3ZuV0pGV3MwNmxjZnN0ZkF6LWlyWnNEeFItR25jZmlnaUx2emJnX0JkX0IxZXNOcDNZRGotUGFOaU5kQTU0dmttZ0p2MDA0MktrUTJFd2FVUGZzR2laS3JlMDAyVTlGdDNjYmcyTE1kTGQ4dVV5alR3WWd1TjVFZHFsRVpMaDJJNUNPMW45bFRueUtSd0I3MFVHaEVZeTZhak1xeFBwSnhLSl9ELUxoQWg2NjBQS0xnMHp6am1VMHJhM21WN2prMnlIc3BNT28yUdIB9wFBVV95cUxNdHkzaVdTay03WnpWaWdybnpZSzdSMUN6dW40eVdmTVlzRk0zZDBmQmJTUFlZT0s3T2EwTFBCS08wRWp1UG94SXNQWWhMYzlSdlFSTkR0VlFPX2RPRnFCWFkwUFp5LVZyaHFTN0ZDcVV1WmFhS0FlZm5UWlJfUTJYVW5hWG83MjlrT184Q1ZzbXRCUGJobWpfT0xINWo2RS1UVzhzQjc2QmszSlo3Nk5TQllwLTJybXFicy1LN3UwVUFXR25IY3NkQklHSG55Ti13RFZrMkcyLUhrTEZnVk9VeEhXLUZyWnE4eTJMTmxYOENkcld3Mmo4?oc=5",
+   "published_utc": "2024-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

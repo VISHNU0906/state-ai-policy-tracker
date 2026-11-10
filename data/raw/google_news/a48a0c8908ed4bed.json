@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Tata Technologies collaborates with the Government of Uttar Pradesh to transform Industrial Training Institutes (ITIs) into modern Technology hubs",
+   "source_name": "Gobierno del Quindío",
+   "source_domain": "https://www.tatatechnologies.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPRVlxY3dQVnQ5NDRsWWJLSWlBUkVzbnZ1NnNnZzloQUhMcjFTSXNyMHhqa1NhNVAzb05pUTEwMU9VR0ZnbHFnRHkyNEVWenlSdUYybmRaU1BSLVpSRHBzdjF5WWxpalNnMlpUTlpycHBfNlEzaXNjX1dEMzl2SFNZNWpqWncwYllEVXhUWjloWHZYaGkxQWhxYnFnWUsxVmFydWlFcWpMMDgzQS0zRDZtSjVXV2x3UE0zbTdvZW11OGpZNlB4Y0ZxN1NRR2NZSnppaUJSbVJFT19rSDY4WDJpOTdsMmczYzQtR2FXUVdCbThYVnZDelY1WWtiUENYOUpvY2Z3MWlfdldHNmxXZkhjX19uN3oybEhPM1E?oc=5",
+   "published_utc": "2023-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance to invest ₹75,000 crore in Uttar Pradesh in 4 years: Mukesh Ambani",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUpXVTlZMXlfZkp5NENzaGFxMUcyeWdycXd0YlFTcGtLLWo5R05JWU1mdXJOejRyVVd1OXRXb3pPMlpzRGdQSUwzQ1djZVNDVm9JWkFXSC04ZU5PR1BEc29odDZHNXM3enBQb05LNHFIV2NnTjdFQWdxODVKUnRCY0Rja0NndlRyYnpMWXF5Q0pVZzVVWjZVNUdnR3Ytc1NYeDIweWItRzJXZXpBcnlMMEVrMkV6WW1RM0pjakhVQnB3NWxVNDNSMVBR0gHQAUFVX3lxTFBVZE5lbVgwS3NiTGpNNnVQMjZ4eU15bU1IQkNzbklUYngxU2ZCcHVyeXN6Q0pvU28wY2Zrd3pQOXhBY0JYQy1ISEt5M05PcllzQWE3ZEk2THlGcm5MMWJzWXdudTY4eTllMWJ6MUVENXdxWEJyYUI2N3V5dXVwcV9RbXZWWjVxNU9BcURHUy04QTMzWEN6QWt4eGNDc3hOM3VmaEtkR0NQZUk1WlhUYWMtNlRNTUdPY2pTdFktR1JRSzNZU1NEamFlR19WdGZEeXY?oc=5",
+   "published_utc": "2023-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sanjiv Goenka meets CM Yogi Adityanath, announces Rs 10,000 cr investment in Uttar Pradesh",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLV9HX3pQb3ZrZnlJR3YwY3NBdjZwMHhUYXlmY3hxZGdkVzJ3ZUhfbElfZFlRQ1ZxemJqcjZnSDNXQlNVelRmOXdUMXVvUmpTc2YyM1FZY0ptMlNOM2d4S3MzeUdqU0tSLWZPMnFISVVNV19PV1BCQzhmdUUwVTFnN0wtZjlzWkpyYlFHeXFVSHJJU1JkT19zNC1KRmx6RF9SbEt5Q3hMUEpnSUtfZFY5NUZ1WmdoZ1dvRGVmNVcyUWE3aFhPLVkwMnJOOUh3STktb1FZcFhhRdIB3AFBVV95cUxPbDZpS2l4dEgwOFFncnQ3djZBUGNoT3h4X09QbWZJV1lHYmlmQkIxS2dYRlo3YXliVkxvVHRheGVEYV9CV3lzZEdfYzNhOHpIaVdaVkJqSndmdFlKS3djWHlZM0JMbmRqY2VpeHNUSVdXM3I3ZzQ4a1FHN1hPUEFHRnhtemVKTnhUUm95eDhpQ0JHZVQ5Uy1vdVdna3ppYjQtRFRPeW9TTUlIemtwaWJmMWpKaHhFTFdjRTZud2FwWEhvOWRtZDgxc21sa3ZEWU8tUmkwOHlWOFdnSllI?oc=5",
+   "published_utc": "2023-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Budget: Rs 1 Lakh Each Allocated For Madrassas To Set Up Computer Labs",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGRKakx0aVNYRHZCcHFBYjFDNmxpQ3NzdUhEVW5lYUJYLWFDbGRVaW83VC1VakliTXB1OWFGT2YySjVLSkdqMWRZNjBINUNwY0RWZW12cG0taU5Kek5NdWthN3dDYzhqRjZMUDNYbHZyMFoxUEhRRTdEOWVGeFRqVVpZRVRHcmxXWk1OQU1WQndUNnJvVVVzem1pNjVic3pYUUNsWENnUTJDR2ZpNjg0SkFR0gG6AUFVX3lxTE04RzIzS01wcV9mSlpSck5DMDVnRDF4NFpHT2dCUEdPUWxMSEZkdnJkUzlvUnNxRldNZ2ZBaDN6UkVfNmZnWDZ2Y2tGTlB4dkFpcm5VTHl6b1JnT3lTeWUzQi1kM05pUVNILWFaSFB2LWlpSWFZYmJoM3VPTXVmWUdTekNCS1ZIQlhnS0VPeENjQzRLZGlBZ19jVTFIT2kwTWN2ajhvZHRaSTBDVTA3b0JZZnB2bTJLcnBFdw?oc=5",
+   "published_utc": "2023-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Farmers on its mind, government gives free power, relief from stray cattle",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVlzTm55YWhyQnRkdDZzbndxWHB4blc1QTNVSnhRVmVfSXVkby1aLVVYZEw4RnJsR2ZfRTlBdUk2T2g1Ql9paHNidFJ3RW01MXdxNnhkOEQ4T2ZHZWpuQzFQcC1HSWdscHRNd3FOaWxsVVVlbGNLMEFvZS1uTHVmV1I3RG03N3JzU0RWWk5oT2xISzNZVlBBZzU1TVdsY21Lb3RZaVpzYUc4X2RwbW4xR095dXLSAbsBQVVfeXFMTXpwWHVCMFNmVkxtcnAtTi1LdXM5Sk9qTUFubk1sOGpoTTd1ekI4d0FrMFA0MGpXbUNPaUNfZ1pIbFhIaks3SEhZQU1nUHFtQ1R4MVBBbzhmdTFRVUdyX2pYZlk1cEhxNG1pSDR1OHhyY0VmakVOSUxqcENIX18tZFc2ZjRqOHA2b21FYlQ4dWp1S0d0eElSNGNZd2R4M0U2MTR3YnExQlozRTBTb1d4aVRIOVRicFpaOEN4SQ?oc=5",
+   "published_utc": "2023-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Budget 2023: Yogi Government Allocates Rs 1,150 Crore For Metro Rail In Kanpur, Agra, Varanasi And Gorakhpur",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVDhTaGM2YTkzWW5pWUdlVlFFWVg5bkNDQUlrLVdsOTliVjBUQnROekZ3WDFldnlRYWhOaDFqdEhfUlBpRnoxakdRU3VnODQzdXAtNldUZW11NlhBUjF0TmRuYktHQWh3b0FYYjdKSTdaeGpUaHU1dDVKSWJ5eUoyeEo5RjIyNVlxRkhqRWtHUzdvbTVNYjlWZ1pnNFNUaWNHSUtKT0pCOUFqZkIyQTJuV19kT01aM0ZxZ1JQTldlVElacDBGTC1RY0h2Z2lLdGVDcmd0RkpyNTVtQdIB6gFBVV95cUxQZk9DWllCMG1uOXFySEdTamhrWUh6VTkyTG5sN1QtaXg4dG9TQkl3a2kyZjZaSUNiQkpwSm9hTFBzN2F3dGdIOS1jVU9yT3Nqc0FHZk82UldGamxuZS1vdmNEQXNnU2tDTWlGNmRPUTQ2eVdValR3SlZUWDNrNmFCSk90aEEzblZnYW50ZDhFRGhfVE5INC1ZSVBUbmlVdmlWd2hCeFBaWmpCczhQR2w5LWtEbkNTSjI2MV8wNUhmSjlCUVZtX2l1VE1POEtmV2FodXRPX1hZRXlNVU4wTHFEQ1ZaVFN5RFhaZUE?oc=5",
+   "published_utc": "2023-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Global Investors Summit: Uttar Pradesh achieves over three times initial target for investment proposals | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVDhBa1o2RzJHNlVyeFBxRnpHVjBZOGRZNjYxOXBJUTYxMzhyX3dzMFFzVEFiLVNXbTdibTZBNWpHeTVFWVlMNjZLR3Q1ZzFYOXV5YzA0dTQ3Y2pKQmRadUJwZFFMOVJEZWJCSnpkdjRPZjFmT3NpVEtOY011cWJNeDhKeFEyeFNxblV3Z0FnS3JDMmk4VmxTVXBLRHctU3N5N1FORWxVQW1IUWgzdXFUYl9iWmo0cEhNSThkUVZWUjl5OTltdVJrQnhBcnQ1TS0wQllQV1ZMVjlZSFRiYTlZZjdkSkVJU0c2N0RFN3pmQTY4Z1Y1UjZyZkVkLXJzSko5Y0ZSWDdOWVZ5d9IBjwJBVV95cUxNd3VLRmRGY1BnV3FUNXZTbG84U1R6RGtQdktBeEdQa3MzcHEzcnFjTXJRM1J2QWFNR2VRejZTSEFxZzZSRndDZ3JuRE0xWnZKVDU5NUtvc3c4SmJPT1psN0MwS0hVbEdMdjdXaXdkMFdEVWRYT3B2ZVAxajJpbzJIRHdERDVWQThfYWMwYW03MGZZTFJONE5QNm9GWGRaV2xpUVBjaWhJZV9CNjhsWTRnY240aG5nQk9ub1ZheHViVjlZQ0h3Q1llVTJERHJOZ3ZyalFTaDI3eTZibm43WUl4eFF5UThsa2NfUENrVW9zMGE2SEItVXdUU3pkc05NVVVHakRNY25Qa1o0Vkc3eTB3?oc=5",
+   "published_utc": "2023-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "High intent at Global Investors Summit in Uttar Pradesh",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSldtYXlEdjlRY3F0d3NoQ29falpIbW1Xc2VhbkttWGhwWTA4d09xdjNNcHRJN29Bc3NSMmJ6enFjalJ5WWxBUlZiWHpmamJHTGpqS0hOcl96OEVTSGRLN1dqSUoxc1M4dmtzUnJjdk9RNG5KQldyMDJvYVlfLWg2dW5ENGZHMWhIZmpYMzJZM2Z6bldzQXgwSjh5OGk5c3dYbWQ2NWZYcXNLZVZ3VlZFWURheG03RWxUQ3NydTZqWHlUS2VNU0YyRnZPYk9BZ9IB0wFBVV95cUxNRkZPRnNGMzVnWXFIa285N2luOEVNaEJmLXFMRFR0Z0RNZWZReWtGZk9GNUlvczdVQXFRLWhkTlVXaHpMTGhXejNoMXdQa3RaWnZkWnlWVzhsaDlSenp4SndnSEgtMDk0dVNJcHlhVjQzT3UwMmlyYXZzM2oyV1JvaF8wWkRIeHA0eW9uTDAtaFNIanUtRVVDV1FabF9NVG8zaHFYeUFKeDhPWXlRNWZvWmllTlRHX09GWnNFblNCY2tHOC03MC1Fa1B1VGJjdDlQRnVB?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s leading plywood manufacturer Century Ply chooses Tamil Nadu over Uttar Pradesh for its new greenfield facility. The company’s board approved setting up a greenfield particle board manufacturing plant with an investment of Rs.550 crore. The compan",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRzk2ejhXTDc2U0xCVFNETFF3NEc4VWkwMUVoYzF1ZEZUd0Z1dXYtNEJoMkdMNTRMcURSbXBrZlBrV2FVd3BGbm1Fdm1FLTlNclE?oc=5",
+   "published_utc": "2023-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Finance Minister presents Budget 2023, highlights 16.8% growth in GDP",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDVHamZYaDRvQzJRZDZ4eWlYUm1qVVlvbGdlXzVXdlZ5a3U4TVVQano1MS1zT0praUE1U2g2dng4Q2Y1dEpsZnJMX09NUHY0cHByZV8tVzZDRUhOdkZoSS1mdE9ndkh4SDMxTzFhWGVXMUxhZVRUZ0o2UDFIbjRLdjIzX2FocTYwOWd1OTZTbEl5VzhxRDdvMS1iczZKd0NDdFpqemVTYUZPRE81S2o2UkdHdjFLSE12YUp3QU01TTd0X1JJSkh1Y2xDZHjSAdIBQVVfeXFMT1Q2cjNyRHpEV3FITXd0aXhPS0dmYmFvYkphemRIODRmaHMzQkR3X3dWNHhrTExFTVgtZFRyUjVXZXlOOXgzZVBPaFFJaktDNjVvUWhQWmc3eHo1Zmt6T2daT0s4VzJQOWdRc29lT0lGbElPTWt5MzFWdzB3dlBFaDNKQ0ZTbWg3RFJlbzM4QWEtUjY0UVFzR1lpWGl0ak9kaUtGaTV1VVRTdzBFbUI2OGl2aVJObkNqa1A5TXBtTjhWcVN5WmxmaEZkTEpfS2dIdWhB?oc=5",
+   "published_utc": "2023-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

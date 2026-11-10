@@ -1,0 +1,29 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "India's Data Centre Boom Opens Up A Fresh Segment For Green Developers",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXVMeDBRNWZqalJkSXJnZUFVVDc5Y0ZBSUNRM1Y0c01VWU9YcXN4UlZ5UTYtTGdIaDREM0VXand2SV94dHdWaUhGQnV5ZHZXdy02OTNiM1FIeXZ4UzgtYmZfM3ZORmRmajNGNXZlTGpaVUdlaXhqTUVWZnpIaS1XWFQ5OHV4LVFCU1RQZ1NwYWItMUo2WWdXbmt5ZHlKaVdYcUFEMUZrb2lOdUl4VF9TTTVxcFdJaE92LUE?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Onsemi innovates with new power solution to transform data centres",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTExOVZUcXl3enJmcV9KdEtaU3FUOFo5anpwdWg3elVZVWRKZnFmbzlLZFM5bWZhS3UxNzREdk56LWtMN0xqb0Fkc3FMVVE5VnJfSlZ5c3hXaVhDb2NHMndIaUc1WTNzaDNvWFkxUTdELXBYa25LbWVsb05Ib0dlM1VSa19BYVZxRGFqTDBiN2pjdXdpM3NBcV9QSjNVT1diY3E3VTk5azUzZw?oc=5",
+   "published_utc": "2024-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Will Liquor Shops Be Closed From Independence Day In Odisha? Govt Clarifies",
+   "source_name": "OdishaBytes",
+   "source_domain": "https://odishabytes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbDdJbk5QTExCZjU0LS1TRjNyMHdOU3I2UDR5a3ZjSndudE5udnJCUWktUXdnQWNkZlROVTd0MzhEV1ppYUQ3d24wcTNGNG9oaWJDXzY5ZlJkRGdKRTlFNHdLT1B1Y200QnNUX01yTEt3Wkh0M1ZSU3h1Rm5kZjBhT1RJem4tdEtEQlZtbER5V2kzVVNxR1RpWDZHeERFZnJ50gGmAUFVX3lxTE1VNmlyNjVVX1oyTG8yQXFGbXBTbXJGbEk4NVBybXNSTzhEUFdPX19KaUd0TGNTSHp2SzRzbkQzQWtzZDlCNmlQcXA1aEZJNEtBRTYxbDFIaDBFdjFpZHJ5WHFGQ2p0OFNHYmMybklPRWR0X05sSGl3Y0ltWVZyMDNZdk5wdm1ob012NXhQaWNPbjdOcExwVEhyNWRLVzhDZHB2R1JCa1E?oc=5",
+   "published_utc": "2024-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

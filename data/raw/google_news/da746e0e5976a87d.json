@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Leveraging tech for India’s women farmers in Maharashtra",
+   "source_name": "World Economic Forum",
+   "source_domain": "https://www.weforum.org",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckFrelpqQU5IU1ZXOTVPaWs4UWNzOTY2ZU5wQjNiWFdUSVRaU0RYb290WkJmVEFwZTlJTkRzNnMzckZtUVUzR05BaDNjYW1jRmFzMmswa053b1FEUExnVkdlTFYtQkRDTVRZaWY1S2F6d1A0S0lGSFV2SHNab0ZYaTVSNEpqUTlwclpEeUMxMXRyZFhnZ1NSTk1ROW1OVHVHNWJtU240am1nZGkybXNWQVZxY1Y?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to create integrated cyber platform to tackle online crime",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHFQX1hYMFlTd3ItbWFvaUZGcGJqZmZya042VUJBOWRtRUpuaXgzV0UwUmNUazNsakwwNVlOZFpsQ1RuTmR4WUdqTE5LSUhWdmJuUUlVSTljdXAtMzY2YmNOMWV4bUJGcUxlVDhEaWdtak5qbmZaR0Q4YmpIbzI1WnlsejlFcFZzZTRYRDNQeTdSQVlWOThuSjNKLVpWNVUzZTlTaDlSWkY3MGRCMGJ0dEFaMmh1MGJIdnRfcm5FdWpUSVZ3ckRSaGdUdlVxQk1yRjN1VEE5TERaT0FRQUHSAeMBQVVfeXFMUHNFR1hsN2hCTktFd184b0didHcxSDZmNURtQ3FSU3ZFckdHSE9tV1g1WG1wOWVUTTBONEU1WTV3cWg4Q0xPRU9tYmVfWExHM0otQXN6V1VPU0FMNmZXM2VOV2EzeWJ2WjI3VDcyakt2OUxHWkFXWVEzNE1fcF9sSDFsd0x4RWVidm5kaHVlbF9CTjlVODdFTk50cmJMNTlxSnozZTREajY5alBhc0h2enYwc1dBdWZieHNJOG15Y01xaHBKZU91RDlOVlpWa01ia1A1VkRHZGwxeldUMjhEM2FmUk0?oc=5",
+   "published_utc": "2023-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SP Demands Scrapping of Love Jihad Committee Set Up by Maharashtra Government",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1pfTG00WUFfbXNnUEx4SFFjei1tWks4al9fZ2JWX1pONUgtZ1J2M0lSdVdha0QyTlo3THA0bFEzbXBncXVUN1hiZm82dWItTmk5bWUzRzAzZ3lvVEFESHFvdnBCdE1lRDNucW9nUlFjRURmSG01Y3NoVmtIemlOYnp4b3YxOWM0SlA2WVdLTVYtQ3VKZ2ZiZ05qR0FvMDFrYkVjUENjU0RVZEk0ajQ3SjRiMFpxUXVFaXZtcUlFSERSa3lSNVR6OTVzZWwxd2ow0gHWAUFVX3lxTE5OTzhkRjN6bGREa244RUVnU0dxVFlqMUJyUWQwZDBIRnJHV25rWUZncUtTOVZCeldybURlRDMwTDIwMmRXbjIycnRYWWpXMGtJWjJpQkducTRwd2ZfQ0plSDJFemdDSWR2el9xUFNoRF9iY1MtTzhNRWppSU9NOW1UdmpxdDFHUkxhVUQtZlJEbVNVZTBnamNMeEloZDR5ZUN3bktMLVhzcHRhSVhkOFNPQnhYNUFnem9yeGt0emJ1ZVF3c1p1WlM2UlR0VC1HWTlrMVJLSmc?oc=5",
+   "published_utc": "2023-12-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt presents Bill to bring online gaming, lotteries, gambling under SGST ambit",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbjU3emx1NlVpM2lCOG9DSkhEN1hzOVQtdFV3ajBJdk1QSV9RbVhBRld4WHVzUFFlcUFPUmQ4NkhjcmxvdFdZT3d3eEZFdjhjaFhOVklPM0dmbDN3c0NCN2kxNmNpWDJHdUQxcGxwenhpRzFfeGlJTXRwcTF4bGVSSUV3SXJxSDBXV3RGUlZHLUswQVRtT3duMndjWjNPb1Yta1RNZFNFVWJsWERPbjJkOXEtNVZheHdYc1B5V1FPdFhLSDZjbjVZZlQzODZtVUnSAdYBQVVfeXFMTWwzQ3NGMVNHMDN6eWdKM2JNY2pFNmtLcEJmb2xVNzBTZnR6V0QxSFJ5NGp4SnlBbkJGOTVSaUs4WmdQOVc1VGdtRTR4Rks4TUVLUlpiendiLUVia3VndGtzUGJMTWR0TVdKbV9xblJIbFQ1Y3ZjTWkzSHRDTzBvcVpIdU5jRmM1cF9rWVR5aXh6OE56cDZhT2NhOXJORExSRjNQNEZZRnFnN2VIOHJnWFNvMENjaHNSOHRZbGgzOG5VbnYxOGMxeDFXNUlvekMwN1hXak9adw?oc=5",
+   "published_utc": "2023-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex Maharashtra Minister Disqualified From Assembly After Conviction In Bank Scam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVNCOE5hZllCM1FZSWpJLUtzTUgzeU9YZUJ0QTlSX244WlEwZnd2TjJhaGU5Y2M1TXFPZlhnMXpOQVNSR2xFYkl5eElFMFkxTDljSHNHcGpMWFNfZnZ4eEd5ZmJSbjZITTdLcURBbkZ3bGdFc0d1Q3hzQlZFQjZtSUQ5UkxxS04zWGZkdUQ2LUc5eDk3NEVYSHBUR01hbEJ6N1NIUk8tSVpraUJkS1c5NnpOb0pSRGV5TlBOSVlrcUctc3VjbVBUSTdiZ1TSAdQBQVVfeXFMTkVjRU1ZRUdleHF0Nk1pQTQ3WXVkUGowMG1TQ2Z2dzNzRXl1Sko0YVRqOGw3S1RzSzBObWcxQldqeU9FaVN1aTRMWXZWLVRrU2kxS2UzSjFkd1NvVzlkU2dKYmFnNGxjbUNqblp5alU4c3BGcjdPN0JCOGR5eFRUUXZsWXV0dmJTNXpBc1JwNGltSEdMU3lTcXZVUXJIRHV6Q1Q3TGJ0WmpicUdrLWZKWUNJYVFSR0RxLWthTzJHSzNpcmtpZlJjdDVLc0RlYms1dkpnVDM?oc=5",
+   "published_utc": "2023-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Governor, Chief Minister launch initiatives of School Education Department",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORlNwaUY3bjhQWmZ0cGp5VVVGRk5SQWZkS3BSdS1DMEtqd09aZHVSeUZ6VzJzWnBMUFY4R0tJQnhxb1dKU2U0MVZEOGNRcHFYNjYyQVNFSm5XSS1VN0hVQjZoMjNnUEVNV19pUnNpVnRTMXA0WElzdEZSSEw5ODhSRWpYMlNvZFdfV0lvcDhQdFVYakV4dTFhVVhza25vdHkySFFtNFNyNUE0bjZpZjdKSWlfd0pUenlpYlA2cW9LQW9udm52c1N2ZkpoSEdFWllUSXZUTzc0bEtjeGNFakFwN3o4U01TMXFJSmx3a9IB8AFBVV95cUxQSkw0NFVFUWRuR0h6cF9LV0g5UWdFQlJWR29MY1AyVE82OE5EQVI3dEMwVUtsaUN0SGpoeVpqelhickQybUFqQlhJY2lSUmI3SmNQeTNROWxSd01fZXJFN3RWb2d2QVpXTTVpS2ZHTlBJZzI4QkMzakpMVl9tYThmck5yUTdlUUdYRThPR1BuT0NiUjVNSUVhLWluUS1vQ1Z0d0xtZDBpU2tDU0VHUVE3U2hWRjBQbVB2dU1YS1pMVmp0N05ydUFmUnhTRzJMRVZkNTBJc0NvVkQ2dTZwNW5ZdGVrbzgwdi1QSEo5ZE92d0M?oc=5",
+   "published_utc": "2023-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Unbeaten in polls but bruised in bank scam: political journey of Maharashtra ex-minister Sunil Kedar",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTmlTdzdmbnFBMmc2S3Vnb25XRnR3dXg5dFhNSk9lOEpXUFdPU09kckhCNjVfMFBlUnh3RXExazV0SDZXNzIwN3NWejhhQnUtU2JTbzRDTHRzY0ozV2ZfaWVYLXV0dnA0dS1VN3EzN3B2R2FiSWtzWnV1Y004bjlUS2g0QVpfNktkcm90dFJnZ3l3Y2ROQ3FSQ19TanVuQlNSSDRLQ0FhdFp0SnBFcEVQemlHbTdMYjdMazFWcXBSb21URVAzUXFMeVE4TmxLS1lUN0hOVUtzelNXTGvSAeIBQVVfeXFMT1MxaFBnSlBJXzY5UmlLM1k4N2p5aGdjTlI1aVZVdlRUUXBpRnNRdTNqZ2ZJMTNLOXZBZTRkZzNjVGtuMy1nTjVucVlzRWZoRlhuMFVMaThSc193aWowOXQ4LXNJUHFTU1NINmVzRk5VejY0RTBacjNPWUlBaVBrVmticjJYNGk0OEpjcWJlNG9wOHMxV1hjTDVlTnJGMWNPMmdtUTBaSmsxa2NQQXJ4ZXRnSDltNnlTa05zUnM5WGhMQ3JBVXZXRzdVRU1BMW9TRU1EbDgwWExVYXVhTHRQY0Z0dw?oc=5",
+   "published_utc": "2023-12-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘State sports day on Jan 15 to honour Khashaba’",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkR5eGtYWFRySkFyNU9PcWRtWG1lYWh6bGFTV2tZVFEwSlBVc0tOU01sa0ZqQjZ0UW5rU3Rza0pLdnJZcWdaNVVCOE9WTDJMaTk0TjkzOUY2T3pUQmdRTnVsVC1vR0JHVjRRT0lTUEVobWUzMGFhWnVWYWdkU0Y2V1E5WVFvd2wwTGNaZVF1TTBpRU5MSWpUM0JXR0NxSnhkSXliNVB6VjVVUlVqRW1XWVNzVW0yMVdKZDdJ0gHAAUFVX3lxTE1IWEwzY1NPb21PTFBQSEs0MU81cWU3b1dCSndDQlZyWGZ4NTZ2ZVVMcjU0VGYwV1FsemRjOV9DVGM4QnMyMXppR2xxTjloSW5aNnpxNEZaN1FSbXpKeVBjVjU1dXpmeHN6czFncFFIN0dfTEZPdjVSRU9NenBKV19LRTVzTU9rRmkzYm9JaDMxbm40LXRXR1dFdGlhUk1fcEJNTFVFb1Q2MEJnM1JXZFdEaS01OWZOYW5iUWU2UERPRA?oc=5",
+   "published_utc": "2023-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra panel members up in arms against govt’s Maratha quota push: OBC activist to lawyer to ex-judge",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXpmaS13T09Lak92cjd0bVFpdkFmRkZDU1VvMDgzeC1EZUliYml0bTRuLWc1NGc4Rkx5dEFieFFDS3JySlRIR01PdnhNSEVGbDMwZ1dDWWRwOElPWS11Y2JXRExHeUJRblFzVFo5NUtOcEt2LVp0WUtLSngxWFVrVmxySWZhMkFEVldVTUFHdjB0enV0UUdDZkJhZGMzSnJXTFRYMzlWalFmM3lzNlEzZFRFYmVBMGRUbmg3Z2YwVW92WVQyMmgxZGJnMUlxQjRfcG5vV0pYUdIB3gFBVV95cUxNTDBlR3hCYmtEeVBxRzg0RW80cTlwUFRERXowVlJrRFBqTFFVcjAyc0QxamlyN05Nc09odG9PZm5rOEdXQ01XLW03LUFxZjBGSlJYVHd6WEx2T1pXdERSZ01wU3N6RXd4NkhNQWJ1S0VjLUlUdmMyX2xqdUlyaFFOS2h4SzlGSHZta28zV25QSWwzM1huTklHbW1IREJwZllMNWdfMk44N0hTRFVNWGI5R29BbkxtNFBHYTlLd2x4VXlUU1hCMDB2ZUZEdTdQblZZY0ViODNub3BNMm1BWGc?oc=5",
+   "published_utc": "2023-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, ML based research has enabled processing of large volumes of data in DAE: Jitendra Singh",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNFpDbHpHU0w4R0x3Zm5jQ0Rka0kydWNaRWxNUkpOQjkyRE8tQWp3MlFGNUZXTWx4eVlPQXZtdjRYQlNBVGM0RExuMF9tZGoyeFFQME9vM0RLSFItcHJSekoyZGVCMEJOR3ZkVVJqcnB1bTJJcDhIOERUS3Q4b25GV2p4NzNSRkg2QmZJTUEwOGVFdWFDR2RVOVNYOW9zV3FhZGtQV3pIVW82dUNGQmYtVnNIWURmekU3OWRfSDBTS2pXemc3VVAzLTZicDJNSzNjay1IaXN3bkt5cXp4R05NQ3JGR3JUUEhZRDRaN29kcE5QS1hfRGfSAfsBQVVfeXFMT2p0R1kzWWhhT3RjNU1NZFNtTEIyWXJvVC1BU0dHWFNrTDA5bjFYNzdIdGhqV1pBa3dyV1lrVW9HN3pHTUlmcjRTanMxZVlmS2VJRllBc2VWV095aUlOUXlEdVp5eGhOMVRlWjNxdDZlODJDRm9pbTFQb21pRExhRC1KMDNqN0RxaXFuVmFvRVVTai1ETEdhMVpYZHJWV21DemM1a1dtcFUxSDE4NlYwRGVnODBWWERscjZiTlAzM3I1cS1mWW9Zb3p3V0xrVk9UQ0d0ZlFZSXpfNmhlanotTVNpbVVaa2VDempSNDd0QzZOZTFSSm0ybDdlLTg?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

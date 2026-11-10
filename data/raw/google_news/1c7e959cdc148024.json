@@ -1,0 +1,53 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh Merges 35,000 Schools For Better Learning Outcomes: NITI Aayog Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnVsRDRWR0lYNlpMM2Z6VlhKMHVuSzhlblJxYmZ5UWZMWl9ITzJDY3h4WWJadWRjNUxDQkVFWGZFT0M1STJuNXROQWh1eUxRRjluZnZFUUFzWEVQSGhPYWpXOUt3Z1BzMElsYWZibUVKaUNDZ0Nvc1BWamxBVy1fWjFwOEpMc0dQcmxKbDBzZDdwdlJ6bmYwQXZYczM1MFUyT0phNXRQQ0M3VmNobU5YX0t4Tk5nbmpjMHRXallrY9IBxwFBVV95cUxNVG15WmtXc2tTa0p3VWtqaUlfZURwdFdrbll5RzdlQWFzaVBCQkduQmtMWnA4VFBBUmd5SmZFNnNOQkJDQXNqNk0zTnVINDd5eC1mckg5bHRNM1J3NGlSaGNCM0h6TUhOMFE1TXRuNTktMGFrVnBQMFQ3eDNKQUdNTzBpbkIxRXRTWGxTTHpmSERIeUVtRHZyVEtIcnhmZTJtNG5HRmR6NkdyOE10S0JFVjU4QXllY1hYdER5UWtIbjVsaG02TFE0?oc=5",
+   "published_utc": "2023-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yatharth Hospital receives order from MP Govt for takeover of Ramraja Hospital premises",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORi1tUzRURmpzVERwd2EweFdJLWc5bEhzbXd3SWliLWZUS2M0dnJBc0dsT294cVdTNW40SThuN1pnZEF0bV92bHRGY1YyaHFGdzRJWEJ1ZlA1T0Q1Y3doWW1EeEJaZVN4a2xqMEF6emo2N0UxNWNVYjh6VGFnX18taHYyeVBVSVAxMndyOHZyaV85dmpZM0RRb2hWRDdKcXBoNEs5Rkc0eXFHODBkdEJMazdwRmRWX2d1MDkzd0JfbU1LbEVjVF9hSnVEOFRNRUVKZ0JsVVNHWjlEaFh2dVU2bXFLYU5ESUlYUlRj0gHwAUFVX3lxTFB3V3ZUZWdya1o3MDJ2TnRiaHlGLTNndW9sMUJYTW9Zd2Q1alNSblRMTzE3Tk5VbGlXV0ROVzJ2NGhJWWNyMF8zM3dhUkI4UkVIdzdTNkNiTjJQbmtHVmQtV1FJaVlPWDNRZm9oMTRIMF9UbUgxMjJ4ZEJFX1BnazRPMHUwakZaUGhvcXRSNFlPaFcwRHZKZzUxWmdFNzhNQ1Q2SGpQaDBMNTB3a04wZTVZSWRSZzRzVEl4d1E4aTB2QUd3UnY4eWlHcGFMRmFqRU9OOGY2cnJ3VEh3Yml0RVRpWko5WkJsSk0yWmt5OUVVZA?oc=5",
+   "published_utc": "2023-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tribal communities in Madhya Pradesh face persecution for defending their rights",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm9JekJGMlVDQmpza2hwRTBvUk5MZXFPaWZfQWE2aWhXeS1GdUh1aXhrOGFTWWMzQTdMNGFjTjdHcTU1UVJsS2wwNDRWTTBVVjk4Q0NGVGp3WmdvMmo2MmxneGdOZXhFTjhnd0FsWTU5WlNwaGdSVk1zR2tTc0Y1czRhUGUwbUNFem1FZFBGUnRUUnJHX2dKNUtSdUp4TlljdXhHZTgyMXlyUE1aZ2VRc0Rn0gG4AUFVX3lxTE9rRXAwM2t1X1J2OURrLUpSMERPYy1jdjdSLVYyZjNvVk1TMERCZFVMLVFfLWRoTllhWU1nbUwxV0FNcEZHcmM5eGZSdF9uSmpSelNiYkJWQVB2dzFEc0QzTDY0SzNndUdfaXJGMUJUbnY4WEc5TXQ4WU51MDN2ck8ybm9zVnNSRmVSWDIxUVlla0R2Q2pZdlVhZWFrazFGQW90MlFSVnJoSTU4R09GV2RtRU8zQXJqXzg?oc=5",
+   "published_utc": "2023-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An old video from Uttar Pradesh is falsely shared as visuals of police catching fake voters in Madhya Pradesh",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcTZMZ3lrQ3JoTDRTc1BzWWItNHdPT2tWbmo4eVZtNjNOeUlXVzFrM21uVDNYbFM3dmREczFTOVA3TzVQMl9xVF8ta3dPVmlxUzlYQkF0TVcybC1DbDZxS25nbTdlYkV3cG9lMW1wT01jZzhTZ2VqY0dndGVFdVozWEV2elVZTXVMRHc1NTNkZm9XM1pLdmRkdTktUTNuSmdiblJGV0k5VDNMVXo3V2FUckp0TEptNGxzWnJsX2FnR0VOV3FQY3VJ?oc=5",
+   "published_utc": "2023-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh transited from 'Bimaru' to 'Bemisaal' state under BJP rule: FM Sitharaman",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb0REejdFV1B5enl1NnlsNXYtOUgzWDVyRXVMR2c2UVNmeFpuU2U0OWRjbEc4Q2tzTkIzelVxYlJLak9QZndtQXhBTk5RQjdnSmU1eXkxVmRVWXRpY2UxODdWOG1PLTVEdlRRUkx2dHJHQS1XZi1HRkNEMnBjc2JubWoyQmtJSWJieWg3Y1YyVmoyTk41eVgzUUVRRHBpZG1tU1pIMHhlMDg1M0U1Zkx6dmVEekYzSk1VUE9Tc2UxeC00UlVDeDBXeFBnRk1DZWx3R3B2SXg3MEx4cEpLcWZZX1BxanlDcWZ1X1BUdUZWSGFneDlIVWhteHJheUVUSGlTbzZvWll3X2F3WFBkRVUtbHBLM1oteXBneGI3N1Fn0gGjAkFVX3lxTFBPeGZXLV9VSHFIeGZtRDBYREg1ZFRyWmhLbG1pRzA0VzEyXy1zUklEajZ1UjllaDFYXzZqOXBxR1ZOWnppeThmczloVjA4NzlVVjF0eXFCRGVrNy1VcjdYY1UtU05lcmJyWHd5QWVLSDhKUXJ6YmxodlRZNl8xSnF6UEhNYXdqb1ZJOXAxZXJ6bUs5QVZOYmlDWHhZU0x1ZG5tenFFRV9ydnFzZTdFSTV6Y2N4V3cxZ2xGaVdCZVBaU2RiWm9SZU9UZEpVUk96NVRnNGdaOEJNWXRmSUV3c3FJUGZ0eDh0M1JPVTJ3OEFlRnhfVVpHRkZ4U2FBOXBNcGtldHVlYlQtejdQdS1PSjdsREJUWFFNRGRCUUlyRld0ZHFlaw?oc=5",
+   "published_utc": "2023-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rat Caged By Madhya Pradesh Police For Destroying Seized Liquor",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT253Vk9Ed29Lcmw3UjlaNDZKSmJHOEhVbmhmNEp0MUs0RTFZUEt1ZXB1dTlZZS0yUklHaW5tTXdNT3ZGUHdjd2FoZGlTY3J1c3FvUFZhWFhvc19EelUzejZvYkphVEZLT1BacVVIWXJBWGpJMFJxZXBBbERpWTZQTlZZYVNJSHM5LTdQdDgzbENRQnA3WnlWMFNnS1d0VEJXMW41STJ30gGuAUFVX3lxTE82V2NPdlFUdUVQU2haejRJR2syQ2FTUUVoTlQwNmg2M0lQSG9ETXk5MEc1Z0FoVk1XWWN2TW1qb1FkR1NYS3VhRndLcXQ2YmFidklyOEpfdlZ3ODRBWElyQ1VXTVBaTE9fT1lwSWxQQjZTR0d4ckpvUjNhVG1tRXVTRTlMNmRwdlVORzNObHhDUk5oSTJCeEZJZVB2TmJpX2h4ZWpHLTUwX2xNZkRwQQ?oc=5",
+   "published_utc": "2023-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Why Noida & Greater Noida are emerging as data centre hotspots — UP govt support, demand in north",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeG5odTJ1WVZpOEtiRnFRdVliV0VfVjlDQWVjZ19KQkxvOE82WWhUaHlaZHlsemh1OXlBSDZiMzM3Umh0SDlHU2NwbWoxWUh4NkRMamZmNGhYTEl2NlBBeGRlRVNraEdpZE55c1ZDQTlreE5HRDI4TUVXdXJTR1ZhMF9JXzk2RkpDUHRYVXBVMGh6NzZ1TlEyOWFDdnBwbEl5X2FFV3hSWWVzQ2w3YnBJNXdiSDZrTm1KMUFXR1JyUHdpaEFJ0gHKAUFVX3lxTE5PN1lZVk1UVnZ0d2t2anVhQXg4RTRTay1NV0VzaG1NUUhiX3piT21yb2Y4c0UzNUJUaFJLQm5yUndIZXNJU0tKSTkzcUF2OVdybXh6WUlOTWNjVlE5SUhsTDk2aXBMeVR3bDk5LXM3ei1FYU9OOWxJY3hJTDI3dS16MlhXbVpoWV9mRnl3bTdBWEVrM2pCVWo0elRBbEVudmx6ZkFnbGJQaU9fNm1xOGhQdk9fYWFQOGd5bjUzMVRQLXBPQ3doS0MzNmc?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lucknow will be developed as a prominent centre of AI: UP CM Yogi Adityanath",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanUyVGxqdHY0bTQ1OXJhR0xoWFBxSG5hdUttdGVHcFFRbEYydFdiUmhqNS1fazc3ZkpWc2Rkb1IybWp2UUlUUS1xQ1c1dndVYTFOa3Z2VzVxOU1wa1RuQThjQnl2Nm5Pa2F2Snh2b2ZkNlgtTkM3UzNmUXdwZTY5TE1XNk1lbUdMaWt1VHJSV0J2RE5JXzZIckhIQkZYNW1YMEhIOVltZUM5dm41M3pkRXBEY0kySnVDb2pMQlFYS29FUjdGNUw0bGJOcE5pYWVFamFISkZ3ZTNMYkgtZFFiRzQwRQ?oc=5",
+   "published_utc": "2024-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai: CIDCO Introduces Amnesty Scheme 2024 For More Constructions After ALP",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHVsQVItWk5Md1h5RTNFRWhrc2ZrSFhJcFBRb2hlQ1B3cll2cG8tbzFBeUtsR2MxOGhrNURLWS1mWkE4ZTR3QzFVa19yNVg3blFPb2xRTWhENXgzbjdXZGVDQm5oY3E2SlVNZVRRRzNyTlVsd3ZIbVFOT1J5a3ByZ3pQTGt6TkJvN1pIY05hZjVUdkpTZ2dZY1NOR045X2NuS196U0ZlRWxvSEFXSlJZek1pRVJSOTU5MDZuc9IBwgFBVV95cUxQT19MZWpvZEVmTTBJTHl1ME9QWFBjOWl5bVJKVjNjWFV6eGVtTUNXWmp0bURHcWhSbjZ6MDNpcFYwanh1ZlpabV9sRW0ySlZIa1RDaTdsYXJ3MmliYmdRTjJUSjBGRDloUjZsOW5vczM3QlFUN1haNmhkOG1YNHdlM21jV0tZUmZkQ3RmZ29rbmtVVjlYYU5KakN0Z2JHVE5sbC16QUtXcFdLNzl6NklvOTVCaXE2SWhDeHIxajRsNTcyUQ?oc=5",
+   "published_utc": "2024-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

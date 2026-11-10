@@ -1,0 +1,29 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "Kerala turns to genome sequencing for dengue, sickle cell anaemia treatments",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1NXMW9IQnpsVUxGTDNNdkpCZ2RKSHJBbThSSTM5aERkYV9OVlNTbHdnQTRTcThWcWFia0gwWWVaOXAyRmE5cnNLcmpkb2o1Ykh1MktIeFp0ZFY5R1lyQnhNME01VVdMODNVNXd6WjkzTTZSck9taS1tSFBTN05fZFBXMEhPOHBGMkRyYnR4bmttQ3JITDZjWlVrYlJUbzAxMWM2Wkc4RlJIWUZlOWhtbFI3dDExNndvRUdLOUdfMmJVTGludE1ZVEE0cEQtRG_SAdwBQVVfeXFMTWhkMGVmSXpZX2lGWjJuM1R4TU9iWXhva0hnWUlPem56Mm9TUzgyMV8tbWF3UUNETEphelBZY1gyWUFYb3FUYjczaHhpM1hfOFhWWl9fTk9nc24wdFpSemFTRFB0VFFmdG04RktkSmNFSTlGZUNVbFpnei13RFkyQnVfWlhVeFBlTkxwOE9ua0ZJM1VVSmxWeXo4U28zUnhHNXZyekNDTEFEV2NEcWJpbHJyS2JQQTNVdFBlUUhqa2R6cmtxZERRM0MyLVFqejVZSkJ5NWUwRDNtRy12Sg?oc=5",
+   "published_utc": "2024-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala: Amid NEET fiasco, CDIT performs neat KEAM",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUc2YUpUay1vMi1qeGxVYWtGNDhpNU1VaFFrMjJERmdlN3U1eTVkMHoxcnlNeVBtN2d1ZkF5NXdpeGlRX0EwUUxGTHhKeHdkNE5XSmtaaEp0blZsQWRvZFRyZ1hNZUVWWk13UXdrSEFWdWIwNFRpLThxVW9ZdzBuOXRsMnRNSmZQOG15VTN5VmlidktoZ1FxYkI5OVFQWEdHQ0QzZGZQTzB2d9IBtwFBVV95cUxPbEFlUEY4TGgyZUJkb2t5ejNmU1BWQU1GT2VHeG5qUTh3VHNYeWpkVDU5VVpJQTNPOVhJUGdKM0pGaUtrOS1MN3hvUUNZQWdNR0Z1Ui1VQzZkSjFWU1JFZUxZQlp4Nzl4SlBRWEEtZEJOSE9rbEVubExfRi1oUnJxSER6a2t4aFc3VHFoYWx3emNXUVJjVEdoWDFDWnp2S3ZsTjFXUW1QMVlZNEl4czJqX09oVkdSX1U?oc=5",
+   "published_utc": "2024-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'That video is not deepfake'; Urvashi Rautela makes revelation about viral bathroom video - CINEMA - CINE NEWS",
+   "source_name": "Kerala Kaumudi",
+   "source_domain": "https://keralakaumudi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLVpuN2xqdG5ST3VWNlBYSXpfSmlxLXhfTUMza0xKR2RXVm1nVDU4N1NJS1MyMGdGQ1FTMmU3MnJOTTd6NkgtNmVpWTBGSzU2eWZDb3B3dlltNUZKc3g5bnlGZjhDRF9ocjNEYVA2RDhJUlh2TlJ5T0VybHNkMVg1OEN0c1Y0XzVIOWxRekNPNFBqTk9WSE9ZczBPalVYRmkwZllHaS10LVhMaUdhbTYyalBqY1Rya3Q5XzBjbDBlWDcyLXBDMHR0WnNNbjNVUGJrWGV6NVlxaDZlU2hRa25wNHVmNVM3bW1R?oc=5",
+   "published_utc": "2024-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

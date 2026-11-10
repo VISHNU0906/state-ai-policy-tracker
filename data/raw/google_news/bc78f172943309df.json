@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "MoU with edX will open up new vistas for students in A.P., says Chief Minister Jagan Mohan Reddy",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaDc3WnQwUWJZQ045dGkxYnk2TUkyQ2tIMlNiQmdfNndDRXVZREdEOWhMNmNNQTNHRlNoV08wM2lHc1B6MGR3TlJsU2VjWlVIVF9ESE1OcXJQOUM1eFh6VHB2VTBVNExsSnp3WHR5RlFHZlpuZXh4UlptanhYcGREOGphSlNySk9pM0Z4Vm5jNjFocTJiN3RSSEJGN1Q5TWc3U0NLTmEzOHNGVVk1UG9vVHQzT1dFQkNETlJJSF9PUUVVUzNtdHRXU0RoRF96a0U0LU5UREdaNjZaR2lsQUdXMVowbEdRQmxDRU92UmJnaW0xRHNxMFFUVDVWd9IBggJBVV95cUxQVnBSdUVkWS1PZ0pFd2RmbmlxSkZCaXhUUHhrRTRtazFKamtnUVkyTlJLU0NfejdxOG81T2pKV3p2RXVXSng4LVNQLTlENXEyV1dVUzZfMGg5NXpXN3pGRTh5MHpJa0F0VWdtT3NKU01tSnJ0UEpCOGZhejRnMlk1U1ZkQVBHOVdieFNJN1IyTWpEQzlJMTBnNHNFN2RQUGZReDh6XzgzTUllNkFzd29VaEtKLTVqN2E0R3FYeEY4WEVwQW9tMFhERWJEbGdFUlIyWHV3MXdJSFZtWmJvN3lJR3NuMEZoRmZmdjQwdUZlMF9aRkpPT05zTGZFbHZqRXVPaXc?oc=5",
+   "published_utc": "2024-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Govt Teams Up with International Baccalaureate for Education",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEFVTkxhNXhhTjdJTWgtczFGY2gxSVYxdC1KZFdaLVp0aGdnNi1oanBxZWRiLWp0U0tRbDdEaV92Ym0tRWd0ZHlQUTVJaUN4M0x6aXNLN2p0aFZKWlc2Y29xZ3ZybW1IdnF5dGtmSlVESVZQX21aMXVWNU53OVdHSW9yUjBHQXNhWWRvWXlzWlVDdDJqbHJvc2lsME1qN0d1MUtCeFJDbm5MOENXMG1HUTJSZ9IBuAFBVV95cUxPc1M3N0ZOaTB5cUJnMDRvZkdoSzBIbFc1ZnNPTlhjRElyb1JQcV9vMzFDa1RyU1dZaE5IdUNZQTJFNVZ3M0RNbzl3T0VxUmxoRlFXeUJZSjdOdVhXWnhpUmVqYUJjSWtheFVOSkxSLXBBQWZ1ZVB5QzBzVjhBZ0dMTHpjcTJ1UzNwcDBOLWVtX3U2UGlVOWVjRVZOa01UZkNGZ3U4UzIwNWRoY0FfRTJPQ3RNUEhiRjdm?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aster CMI Hospital Introduces Innovative AI For Carpal Tunnel Syndrome Diagnosis",
+   "source_name": "BW Healthcare World",
+   "source_domain": "https://www.bwhealthcareworld.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGRJUm9yb0loWTVzWmxHS0YxeE9QcmN4ajlhUzV3emRKNzZqOGkxSUQyZXRfU2U3bkdUSmFPbHowRGRycHBZQTNTUjJFajRnb01RaFFiajg0Q19URnlQQzlZRWFOcXc5OERzNDRKOUxOQUg0eklzYXpjeHNyM0xzYTFRNVNJYnY0YldLUUNxWGZjMkY5RjhWS25EX2NXaUdKM05fRW5SNVBSZHpLN05vQ0V1ejZid3hCd2JsU2dOVEExMlpPcXM5eQ?oc=5",
+   "published_utc": "2024-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Forensic Science Laboratory to procure special software to crack AI cases",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOS1ON1JVaUZmS2tJNVlDdXpWVWdGdVNDa0xleUhDYkRhS0FOZFF1UWYyM2R6UnFLcGVKellIY1dZUWNNejN2RTZWLTh6T21POWViVm50S0p1LTRrSjdLS1oyS1c4TFpCb0NhRnM1cFRxRlhRQVZUMkJTSklFRHA5SnphVzk2VWY2bDFHTmZwb2NTVURrMWh6MEtGWUljNmdkeGtIXzh3MmRFTDcxRllLUDlQUHhmaEo1MU5NdEl2R2tDdC1VVm5zMkpyczAzX3FwZlh6Y0pHeXUzclpLYm1lVjYzZkpHdnFkaUdWdkhhNDd6bFB00gH7AUFVX3lxTFBlSU5pQ1NHcDNxWXlmTnpyQ3ozYnVOSXRMc3VXekVXNDBnZnNQbE05SU9NUVFKT25Ba3Vja3Z0YmU3X283endFSFhua3JMTi15czlsNFkweXB5TGJ0OTN6SnZEZzdSNjkwUmlSLWprNUJhSTkxLVV4bDFsc2dwVzM5TWkwNFBKdmlhbEN3VGlEazdWc0pDNHRZN0hVWE1xS1oyLXFTaUttWDFVWVhDUWljeFdsRVRfSkQ3ejhGQzJvQ1ZwNDhYRFhWUUZqVWlpNXpPaTkwNFdhTkJDRWl4YjRjdDNHOS1pQ0lNUkVHVEFjdlJqeVVIRnl4dTFR?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt to sign agreement with edX to offer free global courses",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalF3UjBhd3FDT3hzYmxiZV9PSGdwS3RJVE8tZjlRTEpzMXh1ZXFEUnB4WjczejRBMkJuRUV3NHJLWm5OU0Vnd1owcW1IRFBhVTRJczU3R21VcXcxWl9lTFBLdmdtUmdTWWgybzZvRG1yNEdBN1ZZcjUzSWFPQlJxT2h0SERsX3Npdkg0U2NLU3pjclhwWnpOQTFHWlo2SlpiNGplbnhTSXIzWTZWUndZSGJhdldhbzVldWfSAb8BQVVfeXFMT2F3RTY4bHJTSVM1R2JJNzI1VC1NUnlZZTVlamZsRUl0T0l5T2VxYVd5SG5LenRKbjJ0Rk8tMmV6NnQ2aEJpV0lMdmxXS0ZvRTZmdnFMeDVXYkhCeW9LbHQ3SllGMmNZQUxwTEtlYjhmZ0Q3dGFJQm82VzVkSEY0akwzb242NHJqOGVtOXNUSGwwd3VJSTZOVS1QcnptNkRiYzZQNk5JbFlYdkpUc2ZPQkRmNVE0LWxmS2FBU2VBTlE?oc=5",
+   "published_utc": "2024-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP first in world to get edX quality education: CEO",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlZoYVh3Nk56cHp1Sm1xa1JfX2dGVFVOY3R5eXZqbzMyekh1UVlsdV9LeU10amtMaWQxVHVUVlRGRVk0VV9GUDhrdnR1Sndwc2MzWGFuMS0zVjVJaS0zOG9jZDNzdmYzLUFYMDVJd2ZDSHNwUVhTczdwLUt5ZTkxcThnNHdCTFprWE5fQm1zNURQUTV0cUtMN1BsYnJJZlpYcXhXdUVjMVLSAa4BQVVfeXFMUC1QY2NzV0s2SFlySFVsMmJnUExuTzdOQ05wR0I3c1ZqOU5nUXFycVRzUVhUeFFJMGJiUzRDcUtVYjlLRnk5amxHVXVGOVFEbWE0VWxaN0FQaDQ5cXZVbzczQjh2M0NSeXBWMGdlOGNjamdmTVZNc0xyaTk3M1BWZk1CakVDV084UWxpZWpWdmdHejl0c1lyend2YWZqWnd4N2lVVURHQk9manVIRE13?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Government Promises PRC, says No Interim Relief",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEdJUzF1UDNYX01XaTd2UVFIWkF2YTZGS1ZMblNSS3JIc19PTnIxVlFGMDhEU1ZURXY2ZDcyTUVhREMwdUdpd3NXY3R3TDFNS2lrT25mRlZYZ1RMdnRPTXVZTGtpS2RjblFBcXZodW1PS01OamdCXzhBSWp2dGJLRklacWNJQW04V1pNelZ3X0hQdll1VjdyQXBKc9IBoAFBVV95cUxOZ2txZ0xKYkxzQU16RFIwUTJmMnJUT3d3dUZKbTYwMV9yMDIyd0l4QkRIaGJZOUUxNGxPWkhSb0t5aUlPdzRBMkVnUHJ0Q3FfR0xnMk9wVlN2TWZqdEMtRFF1a0ZUTTQ1bG8zbHVZektpV3JkaUdOd2JnVlg4VzBNclpMaGtkdUoxRURYemxZWWpiZXJhUThaWTJtV05nX19Q?oc=5",
+   "published_utc": "2024-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Needed right to quality education, not right to education: Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzBVQml3VFRLVnRWVC1MZ2dLMWxsTnhmLV9lYk11SnN2cGR4bHFDVmhxbXlYaUpFWlRLOXNCZXBHVkpOMVg0bkZEZTBSNWNVS2pCLTE0R29qQXRsbWR4SGxqNHA5ZU9Da0Z0WVNpbjFXcDFYZGNobFNoM2pXWUF4d09xLVdjVFpJT2hrQ1lRUk9CVmRvX2Jsam1kUTZoN18wbnBnc0sxdmhZS1pqdGhHWllISFhodjNf0gG-AUFVX3lxTFB2VjZXN3ZRT0laR0hJVFRhWHpPbmQ1SzItSy1idDVPcC1FbUU1bm43dVIwYTRTWFVKMncwVmx5UGYxX21mWWlETFkyazl5dEtUWXk2UGpNd2VDSGpra2hkb1kxLUlNa2ZkYWdGYkh0UkljSFVMc1oyQVRobkVFTGFtZ0FhVVNrMmw2LURoS0V1cWFBcmRTUTRoS19RWDZTdXAtX3dyOC1YWFo3TmxleEhZQ21CaHMzM1RCWGVKVUE?oc=5",
+   "published_utc": "2024-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP is progressing with education reforms by providing global education: Governor Nazeer",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzNSZUQzc3VtZEQ0M3VoeGNxNGtNSUhIZlZ6OVNSM2hlZzlDYlRPN3RFQWYzZVBNOTR2bzU2ZjhkVHVYb256blZ2SERtR2xTMUxZZ3NjOVFLczdBZ3JQbTFueWhnYldxNFpaMEJWdEwxZFhHbEdvYUJHUHVRcTJlRjBVbWtqaWxFN1RiUkNQTzNiRHlfSWxKVGNWSnNQQkxFUWcteVVHd3J5eW1qcjBvOWdObHJacExnYjBtdU9rdkQ0b1ZtdFFjUzB3dmRJZlBTc3ZwSTI1Y1lKWnp1UW5z0gHkAUFVX3lxTE9KRjdQVW1XU25oYWlfeDRHNnpjdC1DeWotQlc3WC1aUi1kdFAxODF2alE3NHk5VFlhT2dXanI4RHpEYWt3OEk5dkdjTjdndjJXNEZKZTcwb0pRRVR6T3pxbmF2NFI4bjlobmlJUWNMR0lPckVod0l6bnhYNVM2RTZrbTNFaV9hdExFaXNtaTdYUWJnNDFyNUxZOWtieEt4Tm1COHFtSjgyV1A0TXlqNTF0WmV2Z1I1UWtHM00wMmc1XzdJSU5tLUxOX3hLQnRWS3RjeUtxcUN1Q0cxd3ZVTExuMUd5eA?oc=5",
+   "published_utc": "2024-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "12 Government Polytechnics Achieve NBA Accreditation in AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzdGNUxmVkxwN3VpVGhvQUtXR3l0YWowdTdUSzVBeHBzZjg3UlZ0QWVWV090elUtT2Z0bU9wUk9jZHd4NEJVQWJFZGxUdkM4Y0lLcUNkUmtaN05pRHZOSjhxS3JFSThYOGs4MjRLV1lCQ29xeHViZGszRFVSR2lGVmp0WHFOZHliS0pXVzdBWFdlQnN0alR2akZxMHE5SVJoRkJQMzl4a9IBrAFBVV95cUxPUXhrS2xWbDhQUVZYZ0x0Q0tSOEl6MjU2T2VuTGc3b1lYd21WOXhJc1JvRlZBX1UzeW9fNHBSaFgtSlpCU2dCdU9OLXdxdElQWjFDWnBiOWJlUExfekVubERuT2lqcHpMMkZra001V001NXpqMV9yalFPV3Q2OGFBR3AzTHVYS0dySXNhRWZ0TmJLNXBxMko3aGFhdXJ5ZUMtTlVvc0VTY1lVd3pE?oc=5",
+   "published_utc": "2024-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

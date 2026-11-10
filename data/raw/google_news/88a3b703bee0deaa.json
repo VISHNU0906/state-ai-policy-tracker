@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Odisha Govt using artificial intelligence for safe and efficient mining",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjlTQkYzWmV5VHAtMUZCMHJDTXktUF9rLVhtamRrUTBpc21YRU1hUDNUbmJKdHhYd1RoTk1RUExZVklRcHZXZnZyOE9DNWRHOE9lRUNWdWtGZGQ3NXdMWUZsSFRHd1BzSlpubV9QVWhvdWNqdjhzc0l1U2Q1SWw4eE5IM0U1bWNIOWM5ajFKX1psdUNLenpmNmdyNXdTYlNN?oc=5",
+   "published_utc": "2022-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhubaneswar has become a pre-eminent IT centre in eastern India: Odisha IT Minister Tusharkanti Behera",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRVlDbmNEWU0zQmVRMzh2SExBc2NHTlhlOVBVaTk3VWF4Z2NqV0p2eWhRdE0xM1dlZmRSOHBPaUhmVHp0eW41cERQRjVMSGZRbjhlRmhJSHZ1RmU1NFRoNWdoYVlTUjJhdVBqVWZRM1lEVlJERnJLWEU1V25fV2ZsdUNPS2w4dGc0VnVUalZ4UThJck82RDgtNFlseWZpNTR0b0ItUEdGcVFBc1VKRFJzaTJCeGFKX2pScTkybU5VUXcxZzZKTnhqMFBXYmlIcExMQU9CZGxiU3FqTVpWb3pfZ2p5Ylk3Mm9aQWFES292ZGktQm1DVGY3VlBFdDMtS1BVRWd6btIBiAJBVV95cUxQN1p1VUlUUzg5X2hsSEs2aFJGeDdDQmJ3dHAySW1WSFhCWjZiQXFuSTBOSHZiNmREaXhVNlBNb19OOEQyM0xFOEk3SnFlYnMzaEI2R3QwM04xU2g5bXlhVTdTRDNuMS1mX0plUk1nSW9uTG5PS3pmRVV5VERuZzlfRlFHUGNVVU1NN0pWcDB0M0YzdzRua3Y4UzVqU2w1RHBiaW1GV3NUN0xSRHpVcW5Gb0lsNF80T3Fac3JFWFhKV0g3aGJsN0FGdTdQVmI3a0t5SVVVTkdScmJUdk1hb2ZxV3Q4MmpGYXQyaHNEaG1rVWswVzZUQmx0QTRSMFpNZW9RcG9wRk9oLXA?oc=5",
+   "published_utc": "2022-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt signs agreement with BPCL to explore green energy possibilities",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNblUxNVduNm1TZTFaMVlXRV9VSk9oQmxwWF8yUWk0ZzdDa09oanZfZUVnaEJYanJSOXh6ZVgxTkN0clBxaXVyQWszTTBYc0Q3NmlsTkh1QVlmUmpaNUpUZEZVN2NRSkliQjcwcVNvSmNnTUhOMW9aWmlmR2FKcnoybkNCWkZIUW5FLTdsRy11OUxxR3RSRTZvU0hzR0hxRnI5QTRwRmZpc1plWmVOQ3JVRFk1d1lfSTVnOGlldFVvUTN4UXRwXzhYakd2eDBaRzc5dk1QemotZEM2RExmWGVGVNIB5gFBVV95cUxNalN3aTdmbDNKZUNIc0oxTmliVzJXYzl3NnFaZERTanhEdHdhWHJxTGdQcUR0TVRaMDJpZmw5TFgxUUtYSm01ZUNrS3ZGVDEyWlU5SkxNVkZYUWFpN21fOV8tWUo5c1NMMUU0YVBvWnV5X1pXOEd6MVZMV045aTRtdTI5TEI3Qzh2dXh1ZzZBTmhiTGNMQ194R0VQZzFkYzBnZ1ZUd2VXZFk0OWJfVjRTX2M5SGZGWlRHZHJHUHFKcVhNaWdwTzdhWUNaSXFaaHJZTGF4RFZtcmt2QkkxelI0UFpvSHdYdw?oc=5",
+   "published_utc": "2022-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RailTel Secures Order Worth Over Rs 122 Crore To Upgrade Odisha's IT Network",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkpnall5ZEx5aXhBYkdoRVZpSlVWMXMyaUZuOXNDNk9JYmwtUEdkaElLWWhGT3UtdkNidXBkYTcyRWlWV3YtODl0N2o5LUswdmQzalNBNXFqdk5mQmVYVlA5SFRZNzBsa1lSS2ZGLWZuQVhtMzlXWGNTdnBSM3o0bmM4ZFU0VWdkNFpDZlZib2VHalBKSGNSUml2N0kySDMwQkxEbk92Mm9DVGljSk930gG_AUFVX3lxTE5UUWFyVUVRZnJhYWZWMFhXd2hNajN0REZQdzZ3by1BWkZjVXFiMFZ5Q0NrblBZMmpqZEZKN3ZSc2ZzNldvY21sLVJVRjlUbFZocm1qajMtZXF5TnJ6TndSNzJWUHlNT3h0MnFNcFN4MGgtOTE3aWpHem9lNGRka2tsOEF1dkdRdGJiaEUtQWZYdnYwd3JYSWI5REI4Nmt0eEVpam5zTWxCYlo3QmxDSU0ta0pKRjhiM21wOVdBSElv?oc=5",
+   "published_utc": "2022-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt extends free rice scheme for six months",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUMtWUhQbXdOTkF2aU8tQkxOU3VVYm1XQUNid2dWWXhpUkhCTTdZNUFtbXJJMWRGb3hiclZDQno2ZTd0WHJPcVg3MVFwaFh6WVlNSlVZMXYycTQ3TzdJNHRYSThfdnBjSlc4YTZVU095VDFZMmtRNzRJekdqVlQ2UXY4RndPY2lQZWY1dkV0ZWM1YzNZcWdkbldMcDltRllvaTE0X05qRlRIREY4LUVncmJkNNIBugFBVV95cUxQVlFiUmlORlhNNHVjTmd3b2VMTktOU1NndTBLTEc2WFAwMWRMUmxaNTNfSVZLN3JTdGdaWVZjVzJWSnd6VmdBcFVpT1FSOGd4RkpySVJyWXBNaGpKeVZ6SEYzWHhnbVF2a2k2NFVmRzhpNXR0ZUdpZExKc3EtZkhfRlNIZHNVcHN5dzNoajNBWklxZU9rbzhranFka2hlU2RpVUotbkp3N3lCbXZkNDFIeExVYzlvSzQwelE?oc=5",
+   "published_utc": "2022-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha MoS home still in Oppn cross-hairs, but CM has his back",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWE12N1NxbDI2TTQ1UzZ1ZEFBU1ZBZ3Fma2p6NkNxQ2RvNmxFMmNpaGxnS1RzWXpGZWJ5Mzl6eHZMX3hFN3paZmlFSVFtcXlBTi1qd0EtY1pUV24wUHc0WjFCOVFSYTJlYXhadXllVTdXdzV2UFBtVG50NWdpemQ4bVZrRHdPbVhqSFE2WThYVVZQcEVoZmg1cjJWbUltb0HSAaYBQVVfeXFMUHNmdVZMcHB0YS0zaHF1UjFFUk9BbFBpb211N1ltdmloQmxvWGtYNk1aY1haODVWdy1IdnI4VHhkUkRpQVFVbEFIZ0pybFVoNWZVNUxOVDRSNG5sT3lfdGM0STlnQUFxWGJvbDJzd3REN0w4aW9DZUZ4dWMzNnFRaFFGaHVlekxzdl9BZ21MVTZ5b1hlVlVSOEoyYVNJcUttemxnelhKUQ?oc=5",
+   "published_utc": "2022-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Transforming Odisha Conclave 2022: CM Naveen Patnaik to deliberate on ‘Digital Innovation Reshaping Develo..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQSnhQMnJORUZWMm1feHZURHVlNVNjTnFlRkJZNktDVzk0bnYtUWpTeUI0alA2Q2p6NkhPR0t6enRsVXAzWllCeVRHTWdET2VLbWo3cTdwTXpGVldVd09pb3YxTmxHeTlFcmYyd1dYeFRIOUcwb3hITlNMY0dnNzZIYVY4bndPY1VUb3hrOWYtT3hTc19SOFVQeHk3OTJCZnhiUGVXODV2cXU4NjlscjhRRUhHbTQwcU5Sa1ZyOG5aTGNJd1dpZTd0WF95MXJ4bHFfbEVIOE0ydDhfd3VxSlBoZXN0ZHNRenk3aWkwd3B2RHdHbEhSZEowWTlLNnV6LThDYVpFbF9yeFRudE81cm9sdXJTZVpjakVlMEhr0gGfAkFVX3lxTE93eHVORVdmdXNCMDhGLUJQUWFlRXBxZXhjRkRPaGppSW1RY3U0aGh3N1BQWF82ajZNaXlLaG1mMzQ2ajljVW5aMHdjUzRJQWhCNUtxY3pkUXd3UkJpejFXYXFIUFUtR0JPeWN3WVl1SlB3RFBubDh0MmhEdExEQi1WX2g4dzgzZFBCR3JTVVFIbjZibDhST1J5U3Etc0FZcWhTQUI1TFMzRjZuMEpXN1RnMXMzLXRmZ1M4cG5UWUt3QVdXM0tKMndGRmt6XzRPVmlaQjZXWlE0a0FqZFlabjRFUW9xRmJCa0VGd01USEFsNEhPWEc1d25qelNxUzhyX05tQnBLWXIyTGk2bUZTeUwwc2tsc0RLNEVpbnVvMi1n?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Accelerate digitization of land records: Rajasthan Revenue Minister instructs officials",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX2Z3TXgxMl9aRXJpMlhFVEM2cWg2Rm1YTGJzZnMyM3k1UlI5dEowcXFwcnIwdEZlNmk3SjhiS1JJSnUtYWN0RWphc1o5UDc3RkVUNmR3RFByeThzZHhkMkdZdENKTmNoaFVaUkZQNi1WSFl2NW5teGkzcGVHUWQwbjBOcnByMEs1YXhBcnREUDVpclA5ODh0UHJwalBIQzhjUkotdDJsTGNIVzl6TUJQOG9Eb0wzYUdPR2tlVFMyTl9YdVhFR1poSVpGc0t6a0JpeXJscFVwOENqRTdBZklYbUprZm15WjhqSTZYV25xNnNOUDJq0gH4AUFVX3lxTE5GVjhqOHNOcmhsSGdMbHdnS0U2SkwtSFByTldyUGhUT2tKdExnM0llb3FVNk9IUVpndTFtbzFlSGxmRVJ3V2c4QjU5Vm9TbERlMl9PaFpzaHpyV0ZZNWVTWlJEYThBa3d2RHhyeXF0YXU4T3dab2lLRVcxdlZTTWp5Q3NSSWllbzRjMVIzMjRZVkc4SlR0V3FNZG1GdkRZcFducF9HR0NxTDJ6YmdvT1hqVXB4MHNWd3ZRVnlmeG83YkFyVnRCaWUwTk05bHV1YmNITzgxOW9XZHJlTXhhNVlnYUt5bnBmZTBlZ3IzM280UWlBRmZ3Ym54?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-STPI chief Omkar Rai to now lead Startup Odisha",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzFtT1J4MDN3RTFTTjVqVGJOaks3eThVaV9Nb3d0WW4zT2E3enNhQldDcm5YRDcybDJrRzZ4QWNiY0FDbHlKVDlGaDVLdzFzbFg2MXZ5cGRoUml2Y0UzZWlZSVlJRU9CYmJRVm9qZ0hxcHQ1X09zMmVXWWFiUE9nYUJ5TkxyS0xoeF9vOUxkWGs1bHJRTWdXSXpSLThhUkVtWGE5QUs0YkljcFEwdVlVTG5xa1hXci1qellXX0t3X3HSAcQBQVVfeXFMT2VKLXRxZlBabk9UOV9CXy1fVHpvU1Vrb01GWl9TcE9FalZ5YktFMU40QlJraEZYend6Qzc3djdFdTZGa2x3Y2IzSU16SC00a2ZteHB3TUxJZllVSHdBLVZOTFctOFRKYU1zUlFGSDFKeE90c21GYXp0b0pLSVRWTUMyZTFJMENVOUpWNzViQlBFVDcxSDdMVlp2Z0VnVUpwSVVmTkV5WFR3b3VUX0stdWo0bG1ORlczdjg5dFhoV0w2NUhHcg?oc=5",
+   "published_utc": "2022-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

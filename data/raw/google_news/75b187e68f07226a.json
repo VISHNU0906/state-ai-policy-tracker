@@ -1,0 +1,45 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-10-01 before:2024-11-01",
+ "items": [
+  {
+   "title": "TAMIL NADU | The Hidden Human Side of Industrialisation",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGwyOVdDRU1HcEg2WDIzZkU3SVhmZHFXbEtGOTltMjc5OVMzS1NjWEQtclZvY19fbGd2MTNJYnRPdjRtVVdxRWdWbk5xc2Z5SXc4U0F6V3dVdVpMYlEwa3pDamVKZXJlVlpPbmFiSThjUkphZFlrdVFKMEVtUDhSUTBmOXVIR1QwUVBiYURidnM5R2NSR1JRNmtUU1hOczBPaENtZkstVVV5NUluMEpaQnM2RDBKaXBEZEJaSzd4b2dMZjBE0gHLAUFVX3lxTE5JOTB4ZHdpU0dkNnRWc19tVEtsVXZXeFg5Wjl6Qnd2aTdqb3M5RGM1MGRiZ3Nzb1VtS0hTa0FpVno5NGJiRUhJczlHUDJFUGJrQU9TeTQ5LXo3WEZuNFVhVmFJWk1KeE43QndtQ3BDMGxIX0xnanc3U051V3RjMU9kSHppOVJYc21RVWdjWEU0UzdxbFhxWXU3cWY0TFlWV0ZFYUhLWVlMd3dickJHSVNwWmNaMEkyVklQNHAwa0E4VmV1V3c2S2xQd2hF?oc=5",
+   "published_utc": "2024-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM, union minister review Chennai metro rail phase-II project",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRW9xeTRkM1Rmb1FwMl84ai1PYXloeGxTMlRDaEhFdHJfdU1KSEVIb0dhaDQ5UzBsMmtiU2MxdXdQbGN5eWZMM1M5RVRMSVZ0UEFKLTNRazFNREx5aWxLN0ZsYnFYTFdjQnpvQmFUY2ZOSDJ1SWxTSmhOWndxaTdWZ21icHhfUjg3ZzFTYmdVT1NpaGhMcGtHWDhHR3h2SDFwczgxOEpKXzVsdnQ0ZVAwcUJFZEpWWXFSVjV2NVJnR1U5dEJZbS1DTWxueWp5bktLNEVBdTgzNTJiOGJHdHBlQl81Y9IB6AFBVV95cUxPRmJFb016QzZjeWZGaC0xQWYtekR0ajBBMWxjOFpjZklXbzNGazBmMGNXNEZFWEhna1A5S0l2ZTh4OGUxNTlXbGpHZE9mU2QtV1lpOGRCWG95Sk5hLVhSdWdDUkRqZEhicEVCUHlLTnVLeU1UR1hzMy10eFcxcFV0WHhUS1Nnc3dBcFhCOUxMMmhWdlRNalc2N2FsZG04QjZVc3FMYlQ2cVRqcE1jTDlNcTllSUd6RTdyRk5RQ3pQTGNuTURRWm1ZT1BFWDlLZ05EQlZWa2FyRlVKUmZjeW9RZDJSZjNrNVlK?oc=5",
+   "published_utc": "2024-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Foxconn group firm to invest Rs 13,000 crore in Tamil Nadu component plant",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGhTeTJ2a0tqdlh6S0JJdi0xRGZVNDdiM1ZvZzZ3SlFrVEtIV25uN1prcFl0VUJDNGZ5ZmNwV3dwLVU2WlFjbDFxTmV1M19GaVd4QktsamktSUh1aEZVZUlTQmVSanZMc1ItdGxDM3dUdWJ4TmJ3YU1lRDhSZmtSSFlENC1HcFI3dDNGeTI3dGpOdTk2akdlRXhUWXpqQ0c3X25RNWQtOHk2R3M2d09HVDJEUElZejAxVUVlZg?oc=5",
+   "published_utc": "2024-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: 46 news factories started in DMK regime",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFlGUGo5Q1kwNHRERTdCTkNBeExOblp4cXhwREdOV2lGbEtjRjZBV081RVRGTjZkOW9ZSk5HTlRFbWNKMC1hWmRfanREVnFtaW5jUkVaS0p5YUxic2ZDVERrQjVkRmxIRHkyX21HQ3AyU0EteWgtbVBibUtwSms5U1VNaDB3ZlUzNlhsVjM2TEE2a05sU29EdTNMeUo2dVNYNERobzFPZWxzRVZGc1dzR09XU1dTMXlU0gG-AUFVX3lxTE1pRlJueWdsRmdKZ1BhOXlfUnpCaXN0R2VnYS0wMTZJbEc2TS0tVXdkall5WEg0aDMtSGtlT0IzOTJld0E5dXhRWmFSN0ljQXZQQ0hpak13cFUwSGFfOFVOREs1QWVqWkRjUGtUSDlUMlZKY0VGQklrSmxKZmpqRFNmdk0yUUlwSC1CQUlMVS1ORHZMOFNzc2tSbS13TUhaNjJWNFlKcFRpbnZZYXdhSHcyN1JTUVRZSkVxUjFDX3c?oc=5",
+   "published_utc": "2024-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN fireworks manufacturers sell Rs 6,000 crore worth of fireworks for Diwali",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbHNMQ1FxOFJBMklFandVVkdSZllJTmw0YXd5bDF4QUpWZ3BIOHU1Yzh5UTgyRThVWnRGNGd5VGlhNHNFQ0xvSkhsdjR4V0txd01OVUh5UGZaY092eGRxYmxUeFF3YjlqUVZBeVlCRzgweXZiVHB0SnhjU3BaWEZJU3lKMXk2WmpNX0wxcVVEXzdZOVlYUF9XNklGcllaTWRfSXBFOExHOVRaRkNud2pLek1fUUZGdmZVXzdJMDZvX2V5cmloNW9oRlhGeGs4NmlkRVg2alFJSTNXLXhtOUpGWHMwLXjSAeoBQVVfeXFMUFVpSXJpSDYtZ0tWLWJ2cnlTV04yYU1uQWFURlFjQjZSN1RPX25Xenp6Y055Z1k0TkpqV21yenhMUWFPRkk5VGZIT0lfTlNiZVZyVnpSRElYR282TFBSa2NZcE9pcTRQZXJiekhkMzN4VWlJWlRLd2xJVzVkMzhpWURKSkhhZHVZYkx6S0JKcUR1OFg4T0ZjcmhRcEpscUlsZHJqQ3YwOHp2a29OdzVoRHVFSHBrNEtaTE1KMzV4MjNLS0pFXzlXS0dnNU9mT3g1NmpDc08tTG53cVVGZ0lsMkhteWc1S2xhT1Fn?oc=5",
+   "published_utc": "2024-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

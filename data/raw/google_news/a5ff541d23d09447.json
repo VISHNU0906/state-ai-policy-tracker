@@ -1,0 +1,45 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "CtrlS begins construction of its third hyperscale Data Centre in Hyderabad",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREVOY05iaFBhZGFpaWVrUmRhUnNSMTRyajloUWJsYjlyZ3U2YUF2ZTlFdmtORjZUSWw2aW1tenhjZlpnak1mdEplT3VvTzRkTGZ3UmFGWHNlZXlhTlc1c2lVRXE4bG9BWGNVTUpMY3lta1lOdGJkUElJaUg2cDhJYk1ydThJVkJ1NHdsQW9MbEtGYS1kZUE?oc=5",
+   "published_utc": "2022-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Driven by Digital India, ‘One Nation One Ration Card’ has given food security to 77 cr people: Piyush Go..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSElZWU04WHloM0hiaFljVld1YVJsc2l4YUkwVWg1Mk5SLVdzWUZVaFNvYkRscFdoS1liREQ0akl5Wm52VnlQbzNEaHZ2RWlMN2VSVnM3V0EydXFqcUd1ZVhRVHJ3bDBIOHBvYlRoeVIzdGdwTkpicnhXZGhsWElLYXdPQWdQbi1sOG9FdXRFZVV6cjAwekU2Z1RkRHhOaVQwNmo0ZG9HcXlHRFdHS3lfOElqVGNXeGFKWnRoT0prTzJ3M0FNSU9PeDRzSFJ4X1B1NmpzVzFhcEhxU2hxRTlqa21oQzFMYUxXY2drVXlKRjRvMjdHQkZUY3U3SzRnUEw1WmJqU0gycnp2SGVGSkt5enVsRzfSAY8CQVVfeXFMT2VnSTEyNmQ4NWxvMlhZZm1ONldvNlBncHduOEhiZ2RPUk5GRlRxNVkxQlhzQnZhWFdoWWx6djYxX2NWdXRKNTY2UVJ4VTlOQXFYb2hfQVE5X0ZIVU9fX1Fkbl9IdTZOYUJBNDZoYjlFQklEVnBJUWVpQ3hCN0dsbGVvWVRJcTAwamwtc3Rpa3NSaEtSWXUyeTNNeE5EazE4MExmN1lISmtlajBzWW1Qc2FXMW14VE45Q2hHSmZRUXZ6eWFnWVBiSURKaDFRelN5NnVLdmtRbkpudW91VHFDTjFBc3lBRVFpY3dsOU5hUFBkRDAzMnRlQUh5MWNXNDBGbFpxeXd3c25ZQ0FERFJoVQ?oc=5",
+   "published_utc": "2022-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Chennai is emerging as a major Data Centre Hub in South Asia",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkJGVlFEdmVZdldOdVkxeDlPcm4waUxuYVVXRkdjMTVuQTZwT3ByWXQ4dkpqNUd1RDRVaXdtNm1BaVpMSFBwdjRjN1J2cWFjVXl5NTl3Z1M4d05XV09pXzVLUFFUVk02QmZLQzJCaDVJcm8xaWhYa1lWclhLcHR2X19pVGxhbDZO?oc=5",
+   "published_utc": "2022-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uptime Institute certifies ICICI Bank’s Jaipur Data Centre facility with Tier III Certification",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkp1YjEzREZDNEdiS01yTEdNN3FaV2c4UXgxSHhiNXE5eTFUQUsweUtFTUFjX0YzbUExWU50a1FmNklKWThKOER0OE5ielpUYnBLMjBCQ1lXUEpEVVNhOVVRay1HSFBDaDVNZ3NRVmNDRGFvOHVrNUlHNkg2dkVnSEEtWmdBQjRUeXI3d2dpbTNOZWNkaExqdnZtUzhiUmp2N2kyTjlzbzB1OWxXVTJWdw?oc=5",
+   "published_utc": "2022-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "80 villagers to finally get compensation for their land acquired in 1970 for setting up Navi Mumbai",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQTczaDQ4RWdyZmRKWEpHanpkOFp1YTRJeFN5U2ZQY0lDN0hjQVkxS2FGSWNWcmZuSmRzc1RXbE1mSUtpeFRCeGd5Tzh6Q1N6ODdKQndURW1CQlVrczlub09nNUZ6TmJWdllKWkZzUlI5aENFX0hRcFZIMHd0RWlQOUpITXhYQXp5SVF4U0NqWk5STDc4VWJGazVKd2F0QzVVS0lTZHpRWi1Dd1gwSzBqVnotS1ZnaUUyZzlvTTFZVkdnYkxCU0ZMQXdRV2tSQWdQSmVZ0gHYAUFVX3lxTFBmWnFtaHhEcW9acC1UWk9kVXFsdmtyNXh4UDA2SHg4TFB0aGhmUzBFUmhUbW5BUFlwU2RaTUhicDhfRVpIMmNoUVhGR25VWF82TXdIeGZKMGpjR0dxckk1SkNraHh4dUhSa0hwVWxDMWNXTDVRdmFxcWdNZm9yNC1fdWdmdXladGF1Z0lnUzE0QkQxdDNhTV9OWWMwYWRsdUwzcFBjUEtKNnhDLVdKaEZGX3pYNjFZNTBacXJfcllGU1VYUHIxZTJkMHUwMjZDTkdlTEdNblhhRw?oc=5",
+   "published_utc": "2022-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "The government of Gujarat transfers 109 IAS Officers",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3YycXRPZm1WazhTc1BDa25JSVJudXdyZnBLQ05KTUVfWmVjSWQ0TVRkMlVYZjh2SE9Db1M5N1dRZEo5WjRiUjZrVXRYZXI1NC1aYUEtQWRJdjBoWDhDT0dpREZ6djhRT25NZjFPOS1KMW5MNnNPOWdnNWJnLU9ZSTdnZUMwOTBGeW4zVHZOMGdHd3Zz?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "9,30,000 out-of-school children in India at elementary level | Highest in UP, Bihar, Gujarat",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVNsTkFuZ3kwMjVWU3VXZ2tXbUxuWUZzbUgzdElDeFliMVc5eUNPSFRFLW5KOWhLOVN2MzdlNXNBWF93T09zaWpBY0FacjdJTFpHc3dfaXQ0ZjRpU05lZVJmUjV4XzBOOXdpLXpaMUtyU2RMTU0xV2lVcEVpT0xCbTdfQ1ozMWJ6NUFkaFR5SjBMVm9GMGZsbDRMd0d1dER5cHM5SHRvYWpCcGtZdEhETjRQTlotTE1lWVZfU3NlVU9LRjd0bVlGangyYUZZZ2t3TTBiN2JKNFZuZTgtSjNGcXd4ejhva2dKMURiS01zSdIB9AFBVV95cUxQVFA1Q0FsTjJaWG53cjVsM25zOFl0TExpTEwtX3c0Sm9XUWhPZWl0ZElaTkJXMjdGMmVZRmRvUm9SUm93UVNDcVBCbGtJZWdQdkltVzJDU0hzd094ZGM4NnRERjRyVjFvbERMVGxyU082UDVwN1hGWDdndjNCYkVjblVuNVFNaHZMNjBUcG1SUHlsSG1QUEdqa01oZXItc1Q2NVloQW9ud2hxS2x0Z0lRZnlwZmRWQ1hMU0N0TG9zemxlRG1wVFdCMGxYcnVxNUlUM3VVRElDRS1lRllSTXgwSW9HTUdTSDZlRmswcFpXQjE0dEow?oc=5",
+   "published_utc": "2023-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt to sanction 5 new private universities",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamwxNHBVOHJITGNISzc4b2U2MlRNZHhxRG5VUnhjWU9DN2o5Z1d1VFM3SjJIQWNHUDgxQUVXTEN3YTczTS1pek5ic2cxUkxTeEJ2YktHVkQ3NEZvNHhWSWg4ZWhaN3laMmlfNE9sQnBWV0Y2a2djcVZGVGJ4ak9pVDZlRHdNMVl0RDNESFJDUXVDTnpDTTJuMGU1ZVJXZWNJSXRTeTNaMWsxbXJYbm1HWGNTUEcxc29rNVBGb25kMWRueWxTY3fSAcsBQVVfeXFMTS1GWXk2dmxCMmpqWnFjMEhyYVdQdWs3RVp0X2pBZHRWWENJR3B1YVhMMkxyRlF4VTJRWkV4dy1HeGMwai1TSm5aSjVGeXVtR3hoOThGVmg2c0ZrUzdTT2VzVkh2akpLZzl1Snc2WTlhMXVNYzRvUWNVOWYwNjNMVWFQZ3AyZjdFNmRLclZoRmhxYTN3SlFNMWpTSWlxQnlQaXlBRGZ6N3VscnFYWEdIMGtkOWhNVWFwb012RW55cERnbUQyak9iTHVfU3c?oc=5",
+   "published_utc": "2023-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Father Dropped Daughter At Wrong Exam Centre, Then A Gujarat Cop Came To Her Rescue",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVgtaFozOXYxaUZhRkFpYW5pZW9XWWdPYm5xX21wWGU5OHEwRVNEOE9WV2R5OEtGcUU3M0ZQejk1LWR2RmliX2Foa2NPR1VXWWRMQkJCdWo0VDhiX1RCNERjZnd2dGlvYmdCNl9JQ1BCUHk1b1htdDhYUTRjMDhhSWRIa0JMNWVNakVSMzdtM3hzWXVFckRfa1BNLXVkeVpSS2RUbUkzSU5PU0UwbXItSWFJNTZGMGtqX1Ew0gHDAUFVX3lxTE1DeDd3b3FzQ2Vlb0xtLXUyOVZQcVRBYjB6T0gxTUljSWtvOXlLbmFNVXAtTnNSN3N2VXZWNWdvWUpSYzVQTnpUM3U4MEJlb1J6WTVHdmkwVGtuc0dfUkVpR09WN0V1OENfbk1uZXZGTXVlX2F0ckFXTmFha2tMSXpQUEdoZjRBRVdFbEV4dWZFSHN1MGRvYlZvcUV0STQzLXZsbEhCWU9kWlVCc1djVXZyNEhra3ROdDdPdGY4Z2FOTl9adw?oc=5",
+   "published_utc": "2023-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dholera SIR, Gujarat: From Sleepy Town to Semiconductor Base",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBmR3FQcHk2TFFpeGlfM1k5VG1OdWFzR2RLZVZzVjkwWTJVVm5Pd2ZNckgxV0FuejFUc1dKUDhYRkhZWHpEd1FpM0p0ZEV5RFE3Z2lsbl9JdFdaQ09ydDVDWXpxUHdpcE5jZnIzREhReEtZbXJPSC1fZE9va3BhR0cwQkowRjhteTQ4eEhJX2RxdFhjYTF2Y0xMMDBZVk1TdGFfYXc5MVpJTWlLOFJuQlNjcTlKV29hWmlGVHBjb0dCSWY1OElz?oc=5",
+   "published_utc": "2023-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat: BPharm, MCA, MBA holders eligible for primary teachers' posts",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGlIVFI4VEZrVWdFY193eTBybDNLdEpxN1pxaEFEMlRUUkIyRXlMNFJsZkk2Q3FNV0NTTkx4Nm1NLWlCdW1UMUhFQzFWZGZYdGhDOURqd19LTW5KSzFscXFIWTY4WDh1NUx1c1JfLW9OaF91eGF2aDVOS1lEbGlpMTdKQzNIY0hRdXVHVG4tMDYtNE0yZGF5bXNlcmd4M0dVcy1ESVZMRFpWenYtdzBTaVVpVkNNeWNmT0VUQzNLT05YMllJeE9MN2VackxTSWpRNlJDbHZOUmVkZ9IB3wFBVV95cUxOa0xHOFBtZHExWEoxUUZpU01XbWROdkFsTWxkbnB0aGtOc2k1OGhSUVAtQ0hPOExlZDNCZ3lualRZaTlMQ3BUUWhyZG5PbGd6SzdnVlg1dFNNSVY3QTR4S0Z1UThzM1hOOGd0MHRtNzhpTzZjOVl5N3Z6amhsNVJhOTFTSExtUmFrZkxCZDVZSy11ZWVmYnhpOFI4aE1HeUh0eVVCNVJYSVNzS1p2SWdWbE85el9vNTJJYkgybnFFZXd1ai1kZllQVVVBN1RkUDZIZ1pPR3VhMUJrVFBNYjZB?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IT initiatives taken by Department of MSME&T",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHhjM2xJdExkZ2ppMkQ0eVp3eEFYSFo5LTRPdTBKeU0wczM0R254YXNabXViVHRpTjc5VU9XM3ZCN2JPMHpkYzRFSm16R25DOUNLbllXXzVwWnlLc0gxdktwdm9keXZNM3RBcjUyeS1ndS1HeFJJQ2VIcmd6SV9od3dUbFZBT3la?oc=5",
+   "published_utc": "2023-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Board Class 10, 12 Exam 2023 begins today, check exam day instructions here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMWlZNjRURzdRRXREdzNGek50R21YdWg3eXR2Qm54dDRodVZTVDAya3pVRW9wdkpvalEydTBrUjNPQm1XbWxEbkd4Rm10MXBzYUFpMUdpT2MyQjZQWHNJeW9nc2h2Q3hDSTYwUjBHVFZFdTQ5MzVDeTdKQWFFNWRGYW5hVmVuLV83SmN3bTNhbk5vTXluVE1tSkVEYXp0eUdQX29SeU1UbkpiVVZUTng4NXY3aExFSUdKaUU4eFBGQXk2UFJWTFNlUkRoXzdhNkdMbDdtNm5TNE5rQlFNWHJ6YS1fcUZrMTBNQjd2TlZn0gHzAUFVX3lxTFByc0tlaXg3V2hkbUJaMUpGSDM0ODVWZHVPN3hzUldZUVRuWXI1clZKMUtZVThtUl96UUFRWnEtQ202cWhBNWhQTlFVekVqMkVXT3dlWF9xQXpfc1FMblN1amdGQTlzT0ZiYjBBbVExcDI5cGVNMzJjV1RsY1M3WXliQi0zWnh1eEZvMWE4TE42c0JjUm9NMk95ZjRjUU5SZGMwYzY0WFJEVHVMWk14T3I2bHVxMjdLRXprTzY2QUZBTHRCalh0MVhsRWtxSXRiVkJ0Z1REbHV0QVNsX1ZZbXJpamliMHdGYnRGNU11TzI1VWd2bw?oc=5",
+   "published_utc": "2023-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The total export volume from Gujarat was 165.60 MMT (million) in 2021-22: Sonowal",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1RxZ1R3Vk14dk5SdWk3T28yZW5Nb3psV1RoOERNb2ZYY1ZyX3hSaGtCVk41blZ3aFpSWVFRcFI5MVJuTDRJOGE2TE9rUHlXbVdLbTQwbmFLRFRqMHAybm1adzZYQjY3MDlhQzRUVUtia3Nvb2xmNThPMlNJQmpwNTJFTVcxRjdleW5TVm1aTmtVZlI5RTZRejc3NmhJWVhaVUVBMExmYlBXNUd3MmfSAbIBQVVfeXFMUFh5VmtqV1A1NnhmSUNfX1V0S29icGNEWXRpNkp2a0REa05pakRjcEtzaWR0X2RxZXlnSUprbE5jV0ZmTkZzalpYUFBaTDROalRkS3pJQVJhd2ZnOGV0SnFqeUN6Z3hhOGYzVkpMRFRuYnlGaHlKV1JXT09Wak42Qlh3c0FqSU9pTEJTanpqZ2xyNHFyX3dNNEFuZjI4NmJQMENjVlZ2YmpiZHYxZllFZXlDZw?oc=5",
+   "published_utc": "2023-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DP World launches rail-linked container freight station at Hazira, Gujarat",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUk1iSWZpR2xGWmVtcVBPR0lVR2UxR2NONzVxX1pwVEFDdzFVTFhfcENZWnRHWHVKbHFpdUpvakVHVVBGcUlnOHRHSnBaQnhadklQTFVWT25rWXRkVkRYaU5JOENxWFpBd0Jxdmw2dDg3OUR6YXRNWklKVGppMXdiSkk3WF9qYXZBdVFJMHBZX1lWREZraURfWUxXdHJqRnBEWG1ZMkJqVjVlQUxrXzhXZXM0X05LUWNnUGJFVHh3Si1ZQU91ZVhTTXFQNGZuSERjb29PZ0dR0gHaAUFVX3lxTE05ZWRVYS1QcnM3eWxtTERqVEFhdU9QZUV0UTExM3EyV1ZRMks3UEE4V3dBYzB3QWRDXzd3QVhqTmNFR0RTRjRuZHhFYWJqdVVnSWsxczBmMWZ0djVibHFRYWhsbEFKdE5HV09aOVhMNExfelM5eFlhTElYUEpaSXl1aG80RmNhRVN2LVhKX1ktazhoOFRDVzlkWktxSDVKR0FvREZPb3Vialo2XzFvQllLdXpiVGZLS0NzTzRyOVZ6U3ViczRhMTFZWlNDWU8xV0xCYWR2Q1FSeWRB?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

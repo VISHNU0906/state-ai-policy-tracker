@@ -1,0 +1,61 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "How the tribal school of Maharashtra uses AI to make nutrition assessments for students",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOem1Xb01NR0o1SHp0M3R3NkNfT0UxYUxtMXQzd0dOS3ZuLTNDcjdmTURnczFxcFlaU1R3NUx0UWg4cmZKZDZLMWRZSHpCb1dRSFI4dWdOVEFNQ3hSLTgybHBmOEVzNkxZb296RWh2TmUyS1I3ZzF5WFQ5UzlwUTI2T1FQQXdpUmVQcjM1VTA5SUJub3dqRnBYNTlvRUhzYUhEVm5NbjNYa3p5ano0eTl0R3JYbkJ0dw?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Government’s new policy offers IT industries to set up tech parks anywhere across the State",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakhzazlXRzhkMXNsdHhLRlYzZHQ0WFlnRDZsVnJqSHRmNWwzOWRUekVlZldfOUtYWkpKYkkwT2xuS01YWEt5bV9Ndk1KZjAwM3RmNnkxbXFLWF84MWUwMEdlQy13aXJFVmVmSG9EazZXaWZ3eko5S1lKam9ybVBHX1RSZGwyeEhWS2FXTHMycWFfbmVYM2lyWm9GMFVQTmNhYlNrbVUzLWJBd2s1SDhrb1hrYWY0N3V5WUt4cEVEYXBoWU9SamxjU2QxYWVxdHFTYmxxZGFOa1piM09QejVGbGQ5T1nSAeoBQVVfeXFMUFlrWmFIUW05V09QNnZxU3d2ZFViaWtkbV9WTU1zd1FpM1l6QjUwc2R3UjZNYnI1MlVEc0E2cHE1bnAzNDdvYmozR0haUDRoTlJnRDRJU0ktX3c0alZXcDU1dXZoc2czYTlZWUpycGw3Z052ZzJQaVM2NmdyaXZrTk12VmZmdDdPNXVNa0JRR0pxU3ZyeUhsSWxwVi15SGcwU3hfV1VuREZMRi05c25Bd0dvWGwxN2RZQWRVUWdhaXZKczQwQUNHOUZTdDU5Tnc2dHU1czlXWlM1d1lCLXFSVXVHRy1fMnJlQUR3?oc=5",
+   "published_utc": "2023-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Government To Build Five Double-Decker Bridges In Pune And Nashik With Rs 35,000 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHNyTThUYXIzU0g3dFphMXlDNlZTN2RaaEt4VGJsQUFSNDRnQ3g3NEdPek5XWTdCenhmWnExLTdUN0dzOU1WOENteWVhUGV2Q2ZZeElyY09KNU1neW1zaXhzWEdnVy1sZ0ZWd0hDQkp4M3ZWRXVJWGdiQmo5Zmd2N0RFeEdKRWFsX1FIeGdhQTJ2NHdwTkZlZ3ZOX3d4c2N2YjVhaG83TnZlQnFYY09YX19rMFB0ZDdlSmJMbTZNaE9wSXQxSFdySUdoY3UwOVdRMzVv0gHjAUFVX3lxTE9QWUxXZUVSMGs3RVNPTDNFOXVJRXlyYjJQNXRGLWVjc3dxUnhMa0FpaUtOZUU1MnJQcmxwdUlSQmZJcC1PLWF5WS1LLXdmVWFxUW56eFQyZUtOOUVpTVoxN3F6OVpwT3N2c3pfN2xRTzQ3MlZXMG85U1J1YWNSTXRJbFlxMzFYLTZPd21YaFZTb1ROS2UweTFWSk9DODJIczRFdWxIaGlBano3SGJHamFOUnYtMFgtN1lQT01lSXRaNWRHV1VIbTRPSXBFS1Y5aEd5S09tdzhlcTFtaERzdFFRLVBv?oc=5",
+   "published_utc": "2023-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: NCB nabs smuggler with Rs 1.80 crore worth gold at Nagpur airport",
+   "source_name": "Mid-Day",
+   "source_domain": "https://www.mid-day.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ1oxLUFJSGZZLXV0dE1xZk9BcmZ6RjlvQzU3SkxPeHQ5aTU3bHFqa2tPbFhKOVRzaFBzd0l0eEU5aE03cUp4dG16QU5SdHZITkJIY1JsV0czNFlSMWtLMU54bVVQdUJ1dXRlRWhmZXVnbkFLcmh3Z09lLVVzQWozQ0hySUd2QmNWQ0JsOWd4UHNFck9rUjNwc21vMjZhVmhjclAyTEI5Vm5zaGkwemFoRnR2NkxKaXI3djV3SnQ3TVlVLWdyc2dRWEtUeHRfVU1fU2VLWTl2cXJRakJJWHh6Z2tVUmlYUDQ?oc=5",
+   "published_utc": "2023-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Celebrating local flavours’ – Mumbai Airport unveils IKAI Maharashtra store",
+   "source_name": "Moodie Davitt Report",
+   "source_domain": "https://moodiedavittreport.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVhuT0hGYWJrT0dpTl9YNUFRZl9PNFgzSGlIWWw2eUZvZGpnSFhQekt3c3NyZWgtd01fYTBQZVhCUmVrWlpSV0R4R0ZJMmE4S2U3ZVVqYXR6SzBxTVlDTElIbDRwU2JlQXhXcTEtRTk1Z1pBWHZrVjBWRC1aZTg4aUxvcF9yR0pDdnE0b2tMQWZwdHlDZ0tnZ0liSThDc0oxS2ZBaDBuZw?oc=5",
+   "published_utc": "2023-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Celebrate The Traditional Flavours Of Maharashtra With IKAI At Mumbai Airport",
+   "source_name": "Curly Tales",
+   "source_domain": "https://curlytales.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZW1FcklJZmJqSHZGOFhSNHlrRlI1Y1RyRGcwY2NPR011eWcydThFY0hHZzJ5WXg4VEc2eTREejA4NENHYWZXdGFzd25mMllwb0RtRXVyVWtyS0hYYXFUSW12elRKUElheXZtOHZXalZ4aHhiT2NGWExBcmV1Tkc2RFZMUkRqbjVKendNc3pMckQyeEEzZFJ1eDYydzZQaUpUaXdF?oc=5",
+   "published_utc": "2023-05-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First-Ever AI University To Open In Karjat; Will Commence from Aug 1",
+   "source_name": "Curly Tales",
+   "source_domain": "https://curlytales.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWZzVXVCRnNqUHhhclNTb0R1cGdfVjZZeVFSYmhMX005ZUdBZ3JiTjdPNlZVTjljSWlKcF9KOTFJSkplT29QeUZOMVZZMktublcyblN5ZWRURWhLVVNfeF9YMzBqdkxEMXg2OFZ4WlEtdElUWUtUa1pFdF95alo3WHRqdDZHUEczeDdodUZqV2RXc0ZNd1l4b1laUWgyaWc?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

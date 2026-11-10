@@ -1,0 +1,37 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "National Technology Day: A celebration of India’s innovations in space, AI, quantum, healthcare",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGs1anA1OGF0azdqSDAtcjZ0NnF1N1ZkdWRVb3ZteThyaEgtY191Qkd0VlBNWGMyVXg4Z2xRWEtrVzNESVJ5VGZobnF1U1lMZXZCSENpaHh4TE1WTEk5NVhFYURNRjV6Z29VY1dlNnREcDYyQXpqMkxWRkFyOFlZaHczVEVDNjhaYk40Q1k0bmpkVXVMdVpfZHJXSjE2V25oZDVpVHUyYnZBMU82S0NwZ1dmZjlVZXlMWW94ZS1GVlRKUEJHaGxSUWN1cWVRS3R0N0E3M1V4M3VuZzRacjE0MzFGVFVOaEt20gHsAUFVX3lxTFBsQld1NUFlc3lOTkYzZWVOa1cwRGNaaV9SLWlyVm1RZE1oS1lnbldTYnk5SnJMRGhSRGFCclhVdmhPaTlIQVZ6dVZncGhWMFhUWlBlZ1BvV0t2UjVHQVdXdU5lSktPY1llYlFiaHh6VndCaU01aWdTdUdZUDZVcGE0ZTlzd19QcEU5YUNITUcyOTVmN3lOaDhkY2RvaWIybTRRYzRlT255eWtlMUppb0lkdGprTmRFT0FhMUZjSUwza3J0SW1KMHp0SlRCRlJ4WGJaUGl1WnN5dElONTFXb20td0czenFLWTJscUxt?oc=5",
+   "published_utc": "2024-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 170 crore-wealth seized in 72-hour tax raids at Maharashtra finance firms",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdEVnZVZQY3V1T1RoRUtMSTk2NXNGNk1VNy1HeFdXd1RDNkFPaDBnSFRidkNIQ29qWFgyN21KVXBrUW9PcGo2QUtJZ2V5SnQ1TDd3YS1wVjVfTFBJZmppampPNmtYT2k5RV9zN3JCc0Ruc2JXX20zTS1GSXJlckthQmxRbTZyNFBLdkY3eFEtMVZYbmd5ZkRfT1BMQVZ1R3VMOFdVam1HNVBnTU9nY1U0emlDQkt4YmtjdEZmc2tZYnY4YlBWb3dxZ3czOERGWW5yUjB5X2t2bnc0MVHSAeABQVVfeXFMT0VNT3VXSkFyR0FHWkdpdkprNE5PcXJodXB0RnNxNmZnTzVvbUhlTS13dU1CZ2JpaDhsM3VzekxaSzBPYlRlNG1sY3hTQVB5RmQ0c0NheGVTT2hqYkZpUXJjX3A1QUhORGFZWFgyQ0hqVE8zV2Z5Z1lMRUFjV2RVSWFzbUlmYWV0WHo1VHpKU1Z3Ri1vM21TRTE1enVvWVBkNy1mczFTZk5DZ2JrWExUVmt6cE1ReUlFZUlsV0hDWXJuTmxORzAxVl9tX1ZxdE1yUF81b1JZS3hGdG9rYTV0S0Q?oc=5",
+   "published_utc": "2024-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deep Fakes: ECI directs political parties to remove AI-based fake content within 3 hours",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVN4bHFIZVNmb2tjX3NISERlMGZqVVVNZ2FvWTBHYWlKa3BpRFd2dTNBVVdJUUtFVW1Pdjh1RFZwd2pvdE0xRTJWWWpHSjJMUFk5c1lSNVB0cy11WWZQX0VqczdfNFVKVktFSjN2UHd5ckx3TjE1X1l6Y3l5SG12bGJzbjdoTWVhTmJaemRKdFJSZVdHQzF4STlBdWdicTlwU1I4QUpuYmlzWlFzaWxHTXFBQjgyb211YjEzcDFYUDhXbVZ1Y1JwSkN3VG95UnVMUTVBeU8zRWtMNEt3TXhnT2pxVkI?oc=5",
+   "published_utc": "2024-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: IATA Allots 3-Letter Code ‘NMI’ To Navi Mumbai International Airport",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTltOG9RdkNZLUhXTllhQjE3cTdybkl6eV80Z3o1bFhkU2R1Sy1sa293TWlCYWQ3WDRSYmgwUUY1YU9ibXBpQUd0WjFpc1lWcmFOSHlXLTV1Yk1HMjUtTUJLOVZ4YXBRNnZOM3dJSzMwYWx5YTVqeEgzbVlqN203OU5nTFgwT0NHU3E3SGNSUTZrcGxUQ0Z5TDZKeTltWFg5eVFaX0ZHX3dzOS1nNHFxZ29MNU5OZzdD0gG-AUFVX3lxTE5PM3BGalBqYzhGUkZoS3d4dVlBZU1nMlU2aGN2ME5pTGJOeDlFSzlUTE9TNzU5bnRER1h4TGcwc1JnTnlwRGx4blNjUlNGdGhkN2phRGwwckt5TUhoZjBqS3R6VmJ5WFRveVY3SjZ2ckNIclNxWldvV3Bad0pyb3J0cE1SUzZVMkVGcDZpWUVMN0NWVk5sVldlUXpXOTdXUHZYc3BMdkNTNm54Rk54X0l2V3FhU1dOMVVGZDlka3c?oc=5",
+   "published_utc": "2024-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

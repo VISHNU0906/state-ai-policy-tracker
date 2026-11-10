@@ -1,0 +1,61 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Kuthalam government school implements an AI-based Language Lab for students",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE9MRldnMDhDSmV4Ql90VGx2eTR5bTU3ZlR3V2N1bm9lMjJEaDVpVVV2eUdpcVg4YWlXbDl1MzQ3c1pqM0g5c1hwMGpYYjJ0d3ZiaWtPMjlsWUpjX0ZmTUdzenBZbDB2Ri12czFXT2JDX3psVFBlN2Z1UmxOcjBzcUU0WGtyVkVQbFVSTUFTRTZmWWdQQi1XVXYxR0ZsRktPZ3pnUGJuSXhWQQ?oc=5",
+   "published_utc": "2023-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's 10,000 forgotten mansions",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNE45bTNLY2RPNGxqSzBaUDh0TTN1NHFJTkZVV3pnOHpSWGI4OWJhSmlMUVBrcnhtVmlJbEtGbDJDcjROd3FWV1NvRWVqLW1NYnFUWjdDMjhET3pjbDlsSEMxM3ZHRU1IYk4yekdfME9CdG9pdVI0UDBPM29rVkZyTA?oc=5",
+   "published_utc": "2023-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu's EV Manufacturing Sector Success - Rs 30,000 Crore Investments Secured",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFZuRGIxbTFjMTFRcTVma0pSdV8tVnlYOVgtNWxkT2diQ3hRbnBBLVkyUzVMWERwa3NNeWoweUk3R3B6dkZZYlV5UlNTdmhhWFVicGNSVFFYTVdzcTBWMk5nczVDR0ozOWcteXlzU1ZRSGZqWG43UTFIZzFHM1prUEpYMUgybFV4TW14QXB6YXZya0dHVlZIMHRJNHAxaGZwdXc3cF9PUldrX0Z5bDJlaNIBwAFBVV95cUxOcVNJYkt6MnFsRHlpRC1fUlV4MDd5MzBMMl9nUXVmNGJEVmoweXh2SmlVWjdsREJ2dmo3V1U3WnNKOUhfQXk5bExyRm9TenhWZzVZZHFQWkFvLWZZdzY0QllfYkxNckE3ZkY1bGdrRzVqUkUxWVppd0hWZzhHUC1rVTVfZ2hwcHN4UlpVU3gzWEVfU2tnVldiZTNSX3pYVG5WNUZqeWpZRDFsOFVxYXlic0RVbmZmR1hCU3UwQUF4NVU?oc=5",
+   "published_utc": "2023-04-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nike Footwear Supplier Invests $280 Million in India",
+   "source_name": "WWD",
+   "source_domain": "https://wwd.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPemJiQkxlR1pXczJuSVQxWGlfQmp0cHZyMkZqYS0wUGd1eFE1UlBRLWRzY1hick9HellFNGtCU0JMejlxbC1BdlV2bldkX3F5S0F4QUIxSDJTVVZpUGVfQmFoeTlPWHc2U3l0UURvMnZkQTVfVVNmV2VOZGpHeG5hWTdkREhscE54NkloNllHZFB3TGdEcFlvMXdlSFdUT2F1MUNHSktOMW5vYWxWRElESEdTVWxMTFp1SDA2VDlsNlJfZHJ0SmhDUkdObGl4NEFnN253YTZfSlo?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "School breakfast scheme: Tamil Nadu model must be replicated across India | Policy Circle",
+   "source_name": "Policy Circle",
+   "source_domain": "https://www.policycircle.org",
+   "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUMWRkNEI4RlVvWV95NVBaRWhuY2V4c0dSWUtUSGR0T2RfOUhqeTNsVGtsYmNVc0pMRXY0NjVieTFRbko5eEFrRWRmYi1LRU5feUVCSzNFVTNOWUlxYWtYSzFRNm5hck52TXVFQUZRNy04OHFqQ2fSAXtBVV95cUxQNkMxcXBERXhHRk9WXzNZRzVwNlhaWm1laWlsdm5UWTlGQVVmdm5xYUhuUTJYRl9Cam81VS1XZmRFX1VndURPNUhPNldYX0lIRjRVSEw5WDBvUURZa2lnV2s4X0JwWmRtM2lCTzRoc3NROHJOOVFFUkpsblE?oc=5",
+   "published_utc": "2023-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pou Chen to make shoes in India’s Tamil Nadu",
+   "source_name": "Taipei Times",
+   "source_domain": "https://www.taipeitimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YSU5la2dXWHV3QmEzVDZydmVQaHVCN1F2enRCdElYUXBpdHVGZkNZNHV2aGVSTWVEamZzTmZpWWt5UXpjc25qRFNfT0pOWk5lUkdNTlRIWE9IQ2Rhc0NQbmRyOTRFenhsZkpCTDU0Q1pzWXpaaGc?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu government takes IT Revolution across the state. The State government on Thursday proposed to set up a TIDEL park in Tiruchy at an estimated cost of Rs 600 crore which will come up on a 10 acre land in Panjappur. Government has also announ",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oc1RuWDJnVGRYQmw5dk1mbWI3RnNmSnNZOTJaNDNNVTRLSHhWNXZMaTY5VURIZEl2Z2thSGdSc1ZXdVZuNC1jek10NGtPNmZId3c?oc=5",
+   "published_utc": "2023-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

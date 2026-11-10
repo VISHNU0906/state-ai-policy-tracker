@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Our aim is to make Kerala a knowledge centre for Genomics: Sam Santhosh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVUUtS2ctVHlmS2pzMndEeTFjcHo5eDdQNzJOak03SjNmeEIxV2N6Z0FsY0ZOT202dXBqLW1Fc1dsNjJjMFQyZHhSUFBnRjJIWjYzREdKRm1rTHJWQ281ZS1iN29EaU9HQXhoQWZ3MnN4WF9fdG5ZWXNKcG1GUkoyU2l4bHhLcFBUbnVpRmVlekRidXdJTTlaSnVUZ2FibjBCSGdBWkJUY05CQWhHS2ZHLWhFSGtmeDY0ZGRJRmFScUF2RktFblAtcmhwS1NxZWpLbDF0MVR4bHF1QdIB5wFBVV95cUxNcGFtVHFpcGZUR3puY0xSRW1UVThLa25JZ0tTYjVNWFRUWGhYbkdfcGU5Qm4wdFp1bHhLc08tWjVkZ0I4YmRMWWtvSnB1NUh3aW1CRnFwLWFyd2o3cXFZd3pUM19zSzZwZS1KbHpjQzllNFhyOFQzVkNEVzdUbHctbE84RENDUHVhWm5ia28wLWFEMUxnNllOZ3d1ZGdVXzl4anFUbTlUYWpRODZ5M0pObjVLRVF4XzR5T1ZVVldCVy03ZXo2NjV2SEVQQ3c2Zm5XQmZISngwR09ZVFhXVGhaWDJqczQ4bWs?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State bets big on genome data push with Kerala Genome Centre",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVFRM0pqeUd3SnZiakFmelpjSnI2T3UxUTJnOVJFVkVER05aQzNuN1pHeGgzN2twcDg5YWlYTTltTHNhOGFncXFldG9UWm5GZjhMMGkxUnpHVGZpN2NRMkJvbEhRV1J5cWJ1WjNuWndHa1plMllzejFNMVdVYkR2bHM3MkdWNGg4N0lYQnJLckZUaEJIYTBEcW9ONTVVUll1TnVqT3FmYnBGM1haOGJINFBhei1CS3ZoQkVoS2ZRY25YOHlfa2xJTUdFZErSAdoBQVVfeXFMTllYa1JrNGtxQnlYTzFBWXQ2SzBrbzg4UmZmMUFOcWRXNkNFNTUzcTdSVmFMWklKSGhpczM1T1luOGlpdTdoM2JfRGFWVk9DNExvS2d6TEhLRHBDaWV5VVU0WVNzRVJRT0YwUW5pamRFZlZleWFpN0xSdEowX19nd1JmT0dONS1ONjNiajJXSU1oX25tOHZGZ2duVDVVUFRmSGdPYk9QZER0Z0VKR2tBblF5aHcta3NFREh4eGx5T1VJbzNDTkVZWmpmWktabzdLUWlwT2dWaHhpSnc?oc=5",
+   "published_utc": "2023-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

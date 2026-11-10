@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Andhra Cops Arrest TDP Chief N Chandrababu Naidu In Corruption Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnB5WVRIcUxVMTlibzJIUVh1UFdBNVdFVEJRaUFhTDc2VWNSQlBrSWpyaGc2QkR6cWF4LUp2ZjdGMENJRi15ZTY0U2lQUzJNTTNiYVZCSEgzbXBiSzZ1UFp5ZzRhMUpmTGVldndmNnotcUhHZmZXWWJzMnhmdDZYb3BsYzN1OTZRaVRFT2Z5eUhvVzNwc205WnltRS1sVnRWaWFabmxTb051anhpRFZCeVQ1WmNtTTkxaTBuMkdjYnpzQjF3NmNRMENQS1VHLXpQaWYxbzZYb0tBd1JtcWFUWUtCdWMzSDlZa1dkZlVqNEF5anFs0gH8AUFVX3lxTFB2eHpUeWIweF81MDVKX0JaRnFLMkhueFlVQ3RJbzdfeVQ1SUdhM2VxeUl3dkhaUjhMOXJNZHVKUXRaeklMMFBySnFVUE1DV1JoY2hYa1JCaU9oMk9neXNLdmRMM0xENGJoTlItVDNqaUZfR2d1N0tNdElsOFNHUk5vcEtlRnBvVHNfWVR5LUhkOXIzN3E3b084OG5sMVdjQU1OT3NTb3JxS2FlcXBLQ3Z1SHFVN2RuQVBUaktmZGVCNWFDNkdKcVIzcE5ERFJqRTQtbnN4M0MtMEFJSWN1bXd0NEhvU2NLNWxoTFB6MlVINmRhNmNNOU1Db0pjNw?oc=5",
+   "published_utc": "2023-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM asks officials to distribute second instalment of tabs to students and teachers by this year",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORUwxY3JYRms1OWZrdEZYNGJTbGNFUEJWeTg3TWtBTlRYR3BodHZ1MjdVZXM5UUdLbF9YWTZsNGNEU1V1M3ljbWdXc1lVX0xpcU5RWDVkcERDam1YTHhIWFJlaENLVU1ycjgwVlg5Vk5QdVFMNVB3Wll6NTNqNk9NRzRmeUZHb0RvV3p2RlhlZEs1d19xaGJ6YXc5TmVjeUF0bzdMT1d3b0JCY1dHWWdSNzUtLWZTNE5jUzZOMzljUDJOdHVzeklGQURpV0wwQ3NScWRsdTJfVUdxRk5saS0yN0NMcmxUc21fNG5xcDdQQ0hnSi1JbE9McVJB?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Legislative Council passes two government bills, including Aadhar Bill",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMk9BU1FDZXN2WWJnS2RiQURmQkFoOThnMWtPUWxXUnRsRzhndnk0OUUyU0ktcTMyRldfbTRkbFBpd0tXZDQyQnBuSGhDbWhjV1BEUVpnWlc3VEtTWF8yY2tESEItVXFOOW5aRHN5SldNUVdib1pBN0NzbG9MNGNMYjF5RTBrbzFoc1hVN0JCOEpDb3RUTE1UYjdnVGJFTDZrZWpSajNKT0hadnFwZlFQc9IBtgFBVV95cUxPRkxkRlVxbTlGWFBXRmFwMGdOeWxKVVRELXBES2hCUUxrTE1qcV9paWFjUGFPcmU3XzkxcGkzN2UwWTE2LXNIbnpGbU9OaXJSTjB4ZjhEOGhmYktjN1BPc2g5azVBRVlSWENmUWRZRFMzZ2phazN3cmV3SmdwUXNKUjIzQVZBT1lueEdZczcwN1dBMk9qSU1DN1dUUWdGRE55WVdINWJqWURscjF6UEQzb0QtQmxFUQ?oc=5",
+   "published_utc": "2023-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Andhra CM Chandrababu Naidu arrested in corruption case",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3J2aDVBQ2ZpdFp6akRYcHNsdGtBYmhISXo5ay1TSlloZVhrWlVYRER1c2tGTC0zcEloRHI2d2hUbm5weWVsUDJTa2xJa0FoalVLWUNHeXFITGxEZGVrczdKd2lsNURLMXJ4Vjd0QmY0NHN5UWltaGFob1hMYWpTQ2k4VWFrLVNDcmp1dmtQLXdRQTdOdE83dEl6aENkMlU4TVYxUzhzeU9ka1RhU0JfclZjXzRidVV2LVpUNTZNXy1wa2JyOHBraNIBzAFBVV95cUxQUE9YYUwtTnJuY3paeWlTMWZ3Mk4zSGJPNmVpeE9DeXNLR0NIWnpEbDItUHlsMEpZR0FESHJpV0ptSElmQUptcVRIQ3M4aUlJUElaZHFaVzdWeDdldkl3MG5vdjVkQmxOaUNJeG5WYk1NRW9mZXE2UHk3b05DR0doQnJRMWNXOFFOZE83R2dkOWo5VnRZRy1iQk81dWdEMndfNmNaTGp1XzY5MEg4RWRyZ0NzRU1LWjU3YlhfQmpZZ0ZRUkFzVjdkSzd1QUw?oc=5",
+   "published_utc": "2023-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan Opens Five New Government Medical Colleges In AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVMwbHp0a3N4ODJrT04yeFhrVW5vLVJaVFlXM25DSDhBZTJFSUh2d2EtVkJOZnpYQnlERk5WdVpfQXRCNVphREhqNG9pUjBYVHhGMWhYZWxDb2NpOThNXzlrRGhZLTF5MUItb00wS0JMZlN5RnR1WWgzNFI2MFliNjhieUJSQ0xaYWtUSnozbUpJaU5OX05BOWdpOGhlZUpnRGZpUjVRNGt5YkxMV3RLaEVxNzNDbGdFb2k4a3hMQVdKUmZSWHlKWno2UXY0czhmRTBB0gHYAUFVX3lxTE14dTQtU0RuRmdlbUFzLS0yMEY1VUt1aFdwb0h1UVhXVGtJQzhrVlRlMnFyVVd5Z244TVRBcXp6VDRiY0twSmIyYzNWRnlXbm5NTlowd3E1dmFZMHlocGdOVGt3UC0xd014bTFMbDFNSEJqWGY4aHlVRTNEdFQtRU1ER1pOQklzWGtFZ2dIMldsR0loWUZWM2lwX3JhUXRud0pMcjZqaXRYaWFXcEptMlJfakJoR1ljb2JXSjZ1ZmpWVmlES3FKeFMzd28xMWlPd1ozOFNrYTgwRQ?oc=5",
+   "published_utc": "2023-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu, Arrested In Alleged Corruption Case, Sent To Jail For 14 Days",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR3NaNGhHNEJnTjBwbFAyZ0lQR2l0UUpYcjNIVlgxa2tiRVFqUFJKS1JXQjBzT0Z3eHlLU2NaN0Q1UEd6clAyZ2htS3ZKU281VWh0Si15dUQ4cTdIN1h4eE1GQzhlZlpuZGNzTHZ4dXRiM08tWElsRUloSXBJN2dleFlTSkpmQ1NPTlhmeTlHZ1lmQ3B2UWVnd0FocmFabnhpUWs1RXhEOGp0X3dXcTdpT0lJV1B0ZGZ1eGdnQ28xTHIxdWdZYW5BRGJZM3RGM0lSMkRFV3RjaEJUT2vSAeMBQVVfeXFMTUJWc2dCWGdtdlBSTGtCUmh0UkVzRG1KSmY0d200bFA0Z0RUS1VLcVhJeTFIMkd6SS1aRU82QzUtV3prYlZxRk1CRXk2S2JRLVRKbDlubmZ0Ym9iTWV1dGtqV1hlRVltdW9qNENMOWVqX3hmLUZuZjdRenpESV81VmZzVnZyWXFfSFhwXzVqdFpWOU1vdXFLOHE5eWpHd1lkSDU1aDNYQ1paV2pmclR5MXVOMDZrX3BBVGdfc1E4NTZVZndaUllQbVlOSGtobVZxREtyRGdfTzRyaEFjSHMzM2FBT3c?oc=5",
+   "published_utc": "2023-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to establish Skill University in Tirupati",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1Q4NzlMRUxuSDZ6YUNCcTB2TmF4TC1YNnhSX3FNcVZkNmo2cFdjS1M1VW5OaWJqZG9JVWlIVThCakV5MVhERGVrV2VBa3ZuN3Z0YW5ZVTZIR08tOGt5YmtnU01tNzd2RlFoS0ZUTzNZVkJJZG9DXzhmaVRoN25IeDAwQ3U0cXcwN3lfWXo0cnF5MG9EZ285UVlPa0ZpVjlOVW1vN244ZHhEM2VVSmpj0gG0AUFVX3lxTE5zZUt0LS0xLTlzTEFHdElpb3JwWmRzLTRZTkpGcHRiSDlPZWVBM1ZISGdWbDJaaTVMWkduUjdpUlhjMlZrMmlZUlVXSjRxYXljOURERTI1QnoxZWZ6WjF1T25CU29rUHBSNVNqZmUwRWF2V3BsZERjRDZ6NFMzQ1VGNGZtazg5Tnk5a05HTEdxb0dYRU0xcmtrSW51U1oySTZ2N0pHMXZZWVNHZ0VIZ1ZtZjRESA?oc=5",
+   "published_utc": "2023-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "US VISIT: Government school students promise to be brand ambassadors of AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ2ZZTzZpQUpEdWhXNWZXempiMXZnZmpxMGpHek5xUEhqR0M1aEFsUXYyRWxlWkdWMm10aU9jRVh3ZzBIWElXRjNuRDFxQWNzZnRBd3ptS0x4cjRPR3ZmSHhzV3ZrXzNsdGpVMHFmUTJEZ1lSamcwTFJhOWt5aWJVRnBnMlhNYWtxVnByRERySGN6cEVlZmJVUTVkWmp2REcwYmZvbmk0NWItZFFXRHV1b2tnRUVMODFmaDhGcDBBNnlCbFNhdmJJVVFjT3djU2PSAdQBQVVfeXFMUFFJQ213TktaMWppejEya2tvQmt5WlRPb0dSZTlFZkt1bklkSDhQOHJ3alN0OVpfNUxrb3ZOc1F0SDNnZlBhWU1abFZkUV9WYWdzclhYMm5yaGxSNnJKU3FBMVJCNEluQkxZbEV2VUFuekcxQzI5N1doTXRQT0lWSmFfdkEwTEE1LVVTMkhOU3lOZTFEZjlGU3V4MjE3OTcxNnRHQWtQWFAyazNNVk52c0lvcGJfVWpWbHhqNlVZODZPdTE0YUs3bkd4MzdMc0FuenNtVWY?oc=5",
+   "published_utc": "2023-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Y.S. Jagan Mohan Reddy returns from London",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDNlSDlDUllsbTlOcE5QUlNtdm54eWYzbWZmak9TTzJOcXB4V0FqMXJBZ2Z6ZXlXbXZzNDJySERtOTdxLVZPUlN4aDNBeENkdmt2NWJST1J1aWpoRVdkR1p0dXF6Tk9jNkF1UnRYZ2xqMUlZdHIyaEZlRWptVTkwLWtmRVZYQWJyX3ROcldRSGlzOTQ1MkY2T0VEcWdpVURycFlfSEtId1BoaDdtRXlsSEh5Snp5TFRHOUdVYW1tbkjSAcYBQVVfeXFMTl9EWENkSTkyUzFEaWhOeHF0Rml6T004aU1CM1VpeE1VeTJWWkg0SnAwWTExM1VzR3dNUWdUNzBGd19MR3dfZE45UmlFdGNiT2dlaDVIZXZGbGRXYnRZNWs2bzRXUnREendsR0J5WHMtM2JNMHYtVWpzUENjSHluZGNzSDRsNVFrZzB4MW5ITXd4S2M2ZUpoRUFFYTVrZ0xiNVZUNUwtX1lJcWU5djMtTFZ6azNCVEpZcXJ5NXp0TXVMNWMwRjNB?oc=5",
+   "published_utc": "2023-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government to spend â‚¹16 crore on treating girl child",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlFsMUJvYkdIb3dTYUNFN1NUalRLcHB4ZlpxcTFVbnBkMFNZY1p0cW5jai1xakxsN185eWFSdWhfQXBMRVdCdVZRa0JLMFMtNDFkdWJTUzdNMVdBbkhJVHk0YXcwbVpLaWtDVDFPUU9iQVpQM2ItR2dKV3M2d0paT0xFYW5BQUt5WWRoX212TktyQWROeE5Fc0F1eXFHNVFPV2p0RTRXalFWaFhLUHhfOW1weTZuU3lzOEdz0gHAAUFVX3lxTE00bm9yX0VHTE1DYWF0d3dJQXl6T0RWWGVBNEd3ck5kRlJzQWd6Z2Q3NDRIUHlXdlF6TWtrVmFGVmwwRDNoekdIMV9VNV96VUJoS3Z1cUxYd3FlMHpyeDRfeENIWHlNdkdYX1U4UGpUcFYyQVBMTlJLYTdyU04xUldJVFQwNmtwa0pXZGg1MHhhWnhQRXJMY3VxU2tQTlNBM2ZPQ25QVVZ3NDBuYjlBSXY3TGZiS0dXVGE5bzA2NDB2bg?oc=5",
+   "published_utc": "2023-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Tamil Nadu govt launches an AI-powered app for monitoring and refilling water bodies",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHFWVlhJdFZROGpBT1ZibFRZWnp1VVpURmVSY1p4ZGttTHdkM2FkcUFCNjR0ZlpWT21MdE1xcFk5TlJjak5CeWptOWVKUUh0dTVuWEhpUmpENUF1N1Q3ODJxbjhKVFVfUlVGbzZySmFqSnRLTXdvQUxvOUxoZUJTamctaUJsZmEtSENZczhaWkl5d1F3bnNhbFk3OHlXSFRxbF9qb1BpRzFYUS1iTVRiN1JR?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Taiwanese shoe maker to invest Rs 1,000 crore in Tamil Nadu | Chennai News",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWRVWnRydExPTWplZldiQm9UaWJfUTB2bDNWbUFYRDFUdV9QSjVrQ1g0amplaUlMb19ZT1lZR296WUdIVTl3cmx4NGtFQkpRbFdvajJFM0JlMnQwSVdSenktT1ROOXdieHJfb0JNTmZ4WmZHME5FZGlsYl9CTzJ4NDNPWEhZWmNSa080TWJOcUlWdmwxblBGVGotdFBaX3VKVkEzcmk5QTVUdjVrRzNDSkt2b0FYTmt2aGZncUVBTmJyT0tmUjdVaTJPT1g?oc=5",
+   "published_utc": "2022-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Govt’s Inaction Compels Centre To Terminate Rs 3,000 Crore Highway Project",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONE10SFdIYjhJSVNwbDVyRVRVeTFVdEV1NTkyQlFNaW5keWU4d1ZWNjd5Y0lVeUlwSHFmd3ptWWtfVXhjWUVqWGFHLVlaUXNZOFR1VUpLVEowdVpmU2pPTW9TNndORFFyLUNKNFdSVG5YNS1PQ1ZmZHl5TWItN3lHYzdPRjQyNmd3OC05VkV5czMwNkkybGVjanhnc0w5emFfYi1JZVF3UkRvUFVseHhZZ1NWOE1FVENOd3k0WmMxZ9IBzwFBVV95cUxNSFU2a1E4cDRKWGtnRmRrUWZFSXJFMDQyT2tYdHdLWW9kamFZM3lMeUctRkV5OWRSLUFtcmhqRmxvWXdrbHZIUW8xaUpBb2hhQXZBNm5ZdjBTdTlQVWhFcUpxZlpTcWlGNFJkWVZFcW1Fa0c4a2JBck5vSklDUzZwYzRmR182Xy0zamtVejBDMmgyUnY5YlRBV2xZc1JTa1pWR2owUEYtaWptNFVrTDY4c0NrREFmU3lxczY5UFJMcFZGajVsbWVUMC1vdnp1ZFU?oc=5",
+   "published_utc": "2022-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tipplers score high in Tamil Nadu as TASMAC revenue hits a new high. Tamil Nadu State Marketing Corporation has earned a revenue of ₹36,013.14 crore through the sale of liquor in the year 2021-22 which is an increase by ₹2,201.99 crore when compare",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0VUk3RVRaNFJUckxuMTBqRlhwZlNaenNLSmJfUE83THlyVEk3T2VoTkJEN1VabUNuU09iaWRwbHJ3dDk5blRHQjk4bi1SR0tDY1E?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nike, Puma Manufacturer Invests in Growing India Footwear Market",
+   "source_name": "WWD",
+   "source_domain": "https://wwd.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnpGenVKZ1ZxUjZpMk1lYkp0RVNlYW05MHd1T3RFOHljYUZoNEdtTjg1ZlgxNWRDR0JqbnlwTkpjMVhGQUhabWZzZ0FJREFhMVROdGVxek9sLU1TTktQcFNGTVU3NHlYVHNjS3lZczNKdng1dHZHeTQ5S2lpeVZpdnM1N09BakxOTmFBMW9pQUtuaGtlcFNwOGwzdmY3aVdBTHJXbGhQUEc2N1Z6SzNEOHllRDBsU2dTVnkwUVA1Qjl0bkVqVmk5RndDV2JzRkJi?oc=5",
+   "published_utc": "2022-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lifetime awards in ex-TN CM M Karunanidhi’s name",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0w5ZjR0YjhyNmtwb1FFX0pzOVplU2FSTk5PQUo5eWtLMlU1R3VxdUhCTWZ6SVo4UUFUbGMwU1A4RDFWTmdZMm16RVN4enFsaUVxd3cxa3ZZM3VidTExYmFDeDQxdFZmWDJ2NUpHWlJlUThPeXZwWFR6WGxHM05pTVdFOVFybVlVdHYzSmRuTG85b0phQkNhcjgzNHpMVjN2b0FVQ0tIeU9yX1h1XzF1NEV0elVyVnZFczJPQTVKYXbSAc4BQVVfeXFMT0ZRVlRkUVJsR0NETFR1SktTd1Rnci1femNYeXFnQ29CWTdjNElXU0EyX3ZLSHdEMXhkOWlMZmhyN0dWQm5mM3RRYm8tU0NibzJ0Rzg0NnYxR0pZYjI0cHc1UDRiNmh2NnhBZFVBckszSzkwOHoyTFk0YXVOc2NmbjJEUWp4dXRGN0JVVVg0RFRmRGVSTWlWYUtvZnljbHd3RUtoLTllcWdBU25zanNObGpyNDVJZ3NPUWFETURNYm9lczA2NUN1ckhoOVZ4Z2c?oc=5",
+   "published_utc": "2022-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Devotees throng to witness celestial wedding at Meenakshi Amman Temple in Madurai",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmN5R0RaaFVULTRHdE5ZcEdaWFlSYk9fWUp3VmdHN3huVTR3eDFEVTE4VmFoZFNLdW1iZzNHeWVnZGh5ZWdnSmg2aTdSdVFVV2ZZZGs0T2hZMGlsX3UxR0U1cXhwcXJQWFBRbURTcU40WFVNVzFOY0s0dm9Pak91RjNvTGxSZUdoeHRhblNsUUc1UkpJMDROMXhrWFJYN1pOUUs4N2pIaV82eWh4YWdwMHF5aEFvYjYxd3dMc3hxWVFHYklTNGhOV21FczlHcVhzYnJILUdDRW9ZVldwWDJTekRNbEFtcW5VYkHSAe8BQVVfeXFMTWc1Sm4tMWhEM3RhM3hEOThVb3FUMkxoNFl5cmRNRmFFOHZzMlVDX05RQm1falJlM25Qa2dVbjQ4MWRFeDlXdEo3Y3hBYW5ncHAyWjV0bU8ybnhQd2piMHVaNE8yalRsQXM1UkoyMlZOSWNxRW9pSEZJYms1bVJ3U3B6NnZIelV0b09Ib3ZYT1lsc0hRWVU1NUFIaHl6ekJ5cU5SbkEwbXdua0dvY2pWUWFyczFBYTJNdXdUWHJsYmxiVVRRRjYtZGxCN1hwVzRaX2tVY3V4ak9nVFNacjIzRHRPclZnaGRGcExDYkJtclU?oc=5",
+   "published_utc": "2022-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Beast clocks Rs 100 crore in Tamil Nadu; Fifth Vijay film to do so",
+   "source_name": "Pinkvilla",
+   "source_domain": "https://www.pinkvilla.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQanpkbVRvZXhkUHdkc0c1R1VlLTIwVXk1M2RxWW5YaHdIRkR4QWI3TVFRQ3pVU3drTzM3SEVRdVc3cU9ESTNQZkY0Z25RRkYwbzg4RDBuajFza2Y4ZXJ3akVZdUw2aW5hajhxYmVweWxnZUJreE5LWEwyWjdZMUtNUE5XellrM1Z0REtTWU1mUlBhWElDa0kyQnFycmpVUUd5dzZLMUVJQmZ5SVVRMXk1bk4xdVV5QTNUbEHSAb8BQVVfeXFMTzFpeXdpSm1vbkVLRmZOVm42YlRocUFjT1FjeXVfTHM3T1cxRUhVQ2FiYmNFOHV1QTFpdEVSaDZRZm44V3AtTmJMV0QzNEdQc3FtbVVobG5WUVNiS0ZSRHhKN1BsRFMyaXd0TnV5czhJaVNMN2JBRm1haWZfV3ZuSVd1VFV6cTFJczBjSDJzQ05OS1VOVkxfSm5wdUlndzRxSU8zdUlWOXN6NDIteTl2Z1huVnJaR1ZsLVE1enFoOUE?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Beast box office collection day 1: Vijay starrer takes off with Rs 38 crore opening",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZy1xU2xzRnJ5ODBEdV9mcUxpcmRta28yTU5Nd3owN3VoVXEwanYtYVVkUU1oMWdvb0l2NElTWGhUMl9KNmhUWVphQlRyTUM5NEFqb1gtOE1pYzdBTUFpRG9ZNHpBWW16dTM1Si1OdXhsNjlob1pWSzlvUGxVa2hZTjlXbW5wRlE3QnRLMXFDTUJkNFdTWG82cDVVS0xVcXRfbHZMd2xMREVWZk1DM2sxS0llS1Y0UVpKNzdwUjQ3MVlscnhlZ1ljQUhQQU00cHNTUk54M0Zn0gHcAUFVX3lxTE82aDJzbk0zcTNlaE85MTdueGhyQjRiZjUyTWEtYVR1YlIxbmhZcERfbXlFR1ptd2lFN1NUWUFZSmR0SG80N00yQkVOTmRCeHJGN3FlSWU5alpEN0dhcFBNN3FIYnpnWURFZUNTWEJaS2xTWlo5R0R4RmlKRmZ1Y2pJLWJ1NnM5Q3ZqV0FCYUlDbFl4RkNVRFc3SEFKVzJXa0Z3Z0hVdG1tT3lPMk96dUhobXFoMWZBc3VFaXVOQjRkcTJVUVkxQ3pkVTF2VHJYaWZmQ2h1QlM5VVBvM18?oc=5",
+   "published_utc": "2022-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Motorists can get learner's licence through Parivahan portal",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWdmUDhtLWdOOXp3UVVDRmNVOFZhTEEtcWtxVVlzOXJtRmZFQlJIemlHU2pGNGM2Zml0UFZzVU4xZHZfZHZULUJNS0pmMHBOdml4UENsR01lSWhvbGJKVmtkajlhejVqNjlvbkhBMTBra3Y5RmtuUXJTVDFuQ0dEY2NreW9OblVTbmVJN1l4eXhIUkY4QzJyb0RiMU51SDRnMDVFSi1LaFlyYlFGTUhya2ZGRktOc28wY1BETWlYbFY1SDVUZUNOOGtBZXFyZEVZbHBaRFhUSWRtNzVPSTdQWmxB0gHmAUFVX3lxTE4yVy1TbkNYa2RZNXAzYUUtQ1JGc3I5TXZiT29CVWNJQU4xQUhIcWRMN0Y1cUQyalNhb1B6TXFoTTlWWTNPWktNdzI5WGJpMzVNNGxDSGlBbEFIa254U1RmVEMteXVnVVg2Z2Q3Z1lVUDhGTnRIRC1KRHQxUXRqYjNTMTZKTFIxQm5nSTR0RFZPZDZiMHdLLWRiRjdrYk5wSEtYWHE3VEVhU0Z1V1MycVNGbUpwMlZQVVREd2szaUc0VkFEX3owb0ZVTEpIb2RuOFdIbi10VTMzRmZmTEt1M2dwdzR5NnhB?oc=5",
+   "published_utc": "2022-04-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

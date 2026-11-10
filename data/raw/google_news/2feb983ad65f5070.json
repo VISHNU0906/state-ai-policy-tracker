@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "An IAS Officer Is Using AI to Fight Malnutrition Among Govt School Pupils",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSVdvN1FDWTRUNVBQTDRybXZpaGdHZGxoSjI2SmNLTy0wWDRvcGVTU0tzeUxBSFdhbFhOSzg1SU1HSlNJSjExYUgyZVJLZWhCOWR4Mm5rMTg3QnhQQWF1bDFhb2dCTENEZzVZSHRVRzBZTjNpeUNRekl1cWNWSjhXM09JUVFiV0dhS3BkQ1N0LXo2VFdSZlpoXzNvc0YyNDlPQ216U3NCVDJHTHRualpaS1ZiU29HeC1sSWNOYlF2WVIxYlBld2JPTU1rSm9wb0FvaGfSAdYBQVVfeXFMTndIdFV6S2I0eWVHbVo5N29Ya1R2T3dFbldjamU4T2NuX2dMYWtRZ01XS2xVMTZHcldGekxlX1VaQzNzajZHSnowdmx6NUZaZ0RQOERQaF9WOTZnNll3alFtUEdUMTZVZGNZZUxfdF9NWEl4bVI0WGxNSHJ2eHlRc0JJMWRCRnRMRFRJSHBYbEhKb0ZxUDN5R3VBOEttU1pvczQ0bWoxbEdtYWVHelQ0VDJwUkktajlWckk0TUM4SEpmdDJ5QW5QSk94RllUNFZuYkxqYmFsQQ?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government to Provide 10 Lakhs Meals For Rs 10 Every Day",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3YzaWp1UEp3QlRoMi1ZVllOMndVTkpaMzM4ZVhsS0lXaVNTUFl3ZW9FZmpTS3N2ZHZEdmZidWdnWDFQNUhjcjV3YXFyeWI5azBWbHBaeTUySC1MR3Y0UmhFUmxNYi1HcEs2THhXY1dtU2JhZHdRRmdMUDRGZUJZRVZPaGx0Vl9CY3BLampQaGJ6SjNieV8zQVlMRlppTFFwSFVOMTVqWGp0VWpDYkdRUlg3NjNqRV9vaXo1bXZPZFI3TzRmWXc0d05EOXFaQdIB0wFBVV95cUxNMHJySUl0UF81VnphODEyaDJ1SGNUNWpIT2JIOHZ2NmVzeFBiM3FpdmNuNGdvblhrRVdCcFZhMDBTc2c4M1FER0cyeGJocDdUNGxNX3hfd1hiNnpubGh0clNGNzhXRjYtRkM1WS1PaGtrckl0dmZOdDN1d2VRX0VrOXZTaVd5dC1kU0IwSERleVVxaHVuRTdaSWZ5MS1YU2JrLVdDTGROWjZ3a3FneERETDd5cXR0OGc3M0huM3dEZDdsWlZ3ek45ZjNnbXlJQlQ2SExv?oc=5",
+   "published_utc": "2024-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI applications for driving rural development, from agriculture to healthcare and education",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa09PM0JmNHg2dzdTWENibVdTZzRyTXEzMUtIU1JlSG1nUE1Bei1aWGc4VWdCSWQ3cDI1M005bFN4V3BVNEU1UGdPTXBjT0RLWmtGVzVoTUM3dnB1emR6QzdJLVgyYVVjNExuMmlUTWFoZ1BGNFE2cXMyUjdiR0FoN1BkTUhES3VoTWZpOVQ4RS1fZUZ6WlB4UzVJN1ZkXzFSd0V4Z0dPTkRCT0RpS1I1MmFOaHlBWXAzSDZTTkJtNTNDUFQwSFJJRnQ4Tm5zYzk3NW43ZXViX1NHRDg2V1BVSmM2OUtYQ3Iw0gHsAUFVX3lxTE1DVnpXNk1SMGlmNDdkU1pTbkZDLUFjVVBkdnloakNvZk05aWxlQ3R6NHlDM1g3dm9tT1A4anFtY3JkdWI4bHVfTEpHUkc5UWxNaWdnQXh6SGhfVlVlUU53ellsRUxWSFdUeXlMUkNYc2JDRTg4UUN6RFFhVXhlSFRGNU9LWVhDSFE4a1R2SWJ4SUF4dXBHQW4teTg2SmdMSGYzdFczcURoT3N4VnJ1aWstWG5nWW4tTUhQanl3NXZjVEl5SFFoWF9RWG94Y2FSb0FkNUQxTzNLc0Zfd2s2aF9Da2I2ckZxdm5KdzdV?oc=5",
+   "published_utc": "2024-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM performs darshan and puja in Shree Kalaram Mandir, Nashik, Maharashtra",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX0hVcTUtaFFiX3ExWHhkLVBKRW9vVjlQYXFIcTk2dV8zU3dISzU0RUlCSVNFQ1dYRXhOalI5MFdtWkZtS2FDUEZ1X2pQTjd2aDR4d3VXc29ieTB1Tkg3SzFsVWxsNmxJdkM4bnFGMDlYakxOY2dVS1JZT3owdXp5T2tiZ09jdnpjcTROSnJhU3ExWHBrQlM5TTFRSklDb3MyZC00UzZMNGVZMWNYbnpUcHhXbF8wdw?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "E Shinde Faction Is \"Real Sena\", Says Speaker. Setback For Team Thackeray",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODJ2alVieUF3VlpkdW1OOEg0NVZVWnhRcnJDY0F4eUthdXJ4bm5fNVB1T0hjcHdtdll6RVNjUXRBTU14QUpDeW5FN3p6X184bjlnV1dZd0RfWHFseEVQWmpSUDYxUVVJQm5ZR0oySTlYQ0lELXJuM2llRlVxazBqSmFkT2xXc1JrSElSVmRNVF9fc1U2bDJyWktHUFIxaW1mQlhUbXZqSmNLZWhLWmg1Umk0NlRFZm5QTjB6WlY1VEZVZldiS2fSAc4BQVVfeXFMUDh5SE45TWdUNjVkWHluT1JFa1V2V2N6Ykl0eC1qWHU1SGlIOUFhdWl3LWVTd0pubGdQVTdIOGFFdWdhSEx4UkJlWnlOc1d4eGwzLXNOYVJTYXp3R3VNVDlPcE5MMEtNYXVDSERvTUhlRzFBeHBMYlZXWTVjU3dHUGFaQ2ZPN2I1SmJILUVCY3pFeTFGUzMxc3V2Wm92bjQybWstYzRjdGFVYkdtbWJXblR2MDlSU3NGMkN3aXFDWTJUSTZxazJRU3hCVnc1VUE?oc=5",
+   "published_utc": "2024-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Inks Mous Worth Rs 353 Lakh Cr At Wef In - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazI1Q2UweGhSb3YwOE5JM1oyRGw2VFpTUkFkMURZQndRTUJyNnlZdnJZSWd3Z0RjUFJPWkFDRnR0V2ViYjFkaVJOU0ZhcDVEQVZTMTlmOHBVWGJIVTI0bDVmOGZFYlJ6ZWFBWE5UVzZUVWZDUUgzUEZmU1BiVl9lZUdaTE11UmpOcldORS1Jei1sVHIycGctZDJ3N05FSGRfNkVTbTR4MWY?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: PM Modi offers prayers at Shree Kalaram Mandir in Nashik",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc25MQ3JvWGR5MklXeXdJZWd5YUQ2bEdYVzZockRlSktGdXBJM1dEdFJDb1ZSSGVhM0szXzQ0dGM5RUdWTTA4bGpKVmx0ZmZLOGxDT0t6UG0xVEE2LU9uRHhPWU5kdXo0YlRVcnM0Zm9iMm9CQmt2anZDZW95Yk0tclpSQVJ2M2xRZ09XaFhrOFY1Zkw4TDJMa3ljakh5N2ZoYmtTcW40OFZjQy1lNUR6MHlfcHlhMnFzdkhFLVpta2Q0am8tVWNtMmhuWUE?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aria Holding and the Government of Maharashtra Sign MoU for INR 2,000 Crore at the World Economic Forum 2024 in Davos",
+   "source_name": "Business Wire",
+   "source_domain": "https://www.businesswire.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaXNFV05iT0RtOW8xXy1CNGt2V08xbWtlYjNULXpyUmZVR2s4MjFOZFk1TThzWFhiR3BfNjNzdEtjYXgxRjNWLXdTRlBIR1pBSF8wdEZDX1BuWktXZHpNMVVlU0twSlJmanY5S3NsQndHY2hqeEpWb282U0lRWnBKN2pTRTdsMEh1TEVVLUJYN2s1eU1LY0JhQUR2MkYtSXVjY21tdExhNUJBNlp2SzBnRlhEbzRUYlIzaVE2aEhnSGZpdEtkRXJlQ2U1N1VtbXNZQlREV2stUElwU2xVZnZqQWZQR0dWZmhvSXdfWDlMbDJLcW9PclNqSW1LVFlPOS1BR1cw?oc=5",
+   "published_utc": "2024-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "26,000 Maharashtra government employees given OPS option",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVRsX2Ywek5peWdZR2dWWVNjRFY0ZVZ0UFN0NTl4VkpaNTByWGpYNjA0cXh0b0VqaENwU29fSmNyN2U0SDJLTDUtWGNmRlRJMTd1b1Zsd05OSlNLT0RpblByMWl4NXZ3QkpaUUtUYVdVQlFiNV94ZU1xaXRNQnRXT0lmZFNtWjlkb294RzE5d29PSElNWktqRXpCZHdaRnN4Q28zMDJzSDdOT0cya0JnLThid2pjUEl4cXIzatIBwgFBVV95cUxNek16bXhVaWducmdVMVU4bmdlUWZ3RGVNYUJTLVAxX0ltV0pUQ1B3STNvQ3ZBSmRPbklkcFhZTDFaNC05SFNVdjFqSlA2NlE0VmZoY2VLS0YxbEFhUzN6azlONmNDSzU2M1VoQmFTUnluRGlINzdidTZVMk8tOTlfWkZlaWVfQnJTbDFvWm1KQ20ycDg1ZkFfR29lcWk2VXVwX0RtUWNIWDVjbHM0cThOY0NQeE9Pem5Fbmw2RUhJMEZsZw?oc=5",
+   "published_utc": "2024-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Agriculture transformation demands more intensive care for farmers",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS25vOUpXMGNSNUNDSVJkV3dzWGU1OVhycjBNOWhJMWlQTXJmeTk4ZGExenVCS3lzaWwtRDZCNDczcmtRc2ZDTVVjOTB5Y0hESE9QcURweFFuU0lMVE1jYzUzQ0xId0lWbHZzd1VBaW5aeGVpdjFWRWhwQy1udXoxanJfVnB6RlNmN2w4Tm9PN285VUV3cmhtUjZmYWo5ZE12MkNwRWRjYXJuS3g0RUFtOE84TjhJdTdhLXlNWmtuMnl1OHpUUXZZ0gHMAUFVX3lxTFBEZklna0g0X0xIUHBLOGprbTcxUE1JRDJIX3NxMDdNajc0b0tta01hYTZaQTVSTmxEbnRkRjZ1c1Z0eEZCcVhza2ZCbkRmTy1makxiVEdlVGFQSFZac0Z3UkJQVExPRGhjY2tTZjlWTkItWkxoeXVrWkgwelo4ZHo2V0hpN2NhNWNPT3pOUWVCa2dFVmx4SS0xX3lHZU91M1FLTXRfeGM2Wms1ZHlRQlhwYmFUSDZQSTZhZjREZU5zNFk4bjJBUmpDdjRuUw?oc=5",
+   "published_utc": "2024-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

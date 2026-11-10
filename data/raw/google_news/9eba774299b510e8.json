@@ -1,0 +1,77 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "IRRI receives Google support to apply AI for climate resilient rice development",
+   "source_name": "International Rice Research Institute",
+   "source_domain": "https://www.irri.org",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3pVcUNTd1loSW9PWHBDd3V5UGxuMXdjcmZWZEVmdjJmeWZiSzl2aG1rMXFOcXNVOV9UaFVQOUZ5Q1ZPY3h1MnYzcW9fYWlNVnBhN01VMUNpclNBOUNzVmIzdnNaMENOTXgzVHRpTGxGZVVXMGN3eTljSTB1UWt1VWMzZHZlb0Zpdm1pRWgwakhESjVvNVMtckdfMk5HQ3BUV2FHRmw0NGZPZ19MMkdleTJZNng?oc=5",
+   "published_utc": "2023-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Cops Arrest TDP Chief N Chandrababu Naidu In Corruption Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnB5WVRIcUxVMTlibzJIUVh1UFdBNVdFVEJRaUFhTDc2VWNSQlBrSWpyaGc2QkR6cWF4LUp2ZjdGMENJRi15ZTY0U2lQUzJNTTNiYVZCSEgzbXBiSzZ1UFp5ZzRhMUpmTGVldndmNnotcUhHZmZXWWJzMnhmdDZYb3BsYzN1OTZRaVRFT2Z5eUhvVzNwc205WnltRS1sVnRWaWFabmxTb051anhpRFZCeVQ1WmNtTTkxaTBuMkdjYnpzQjF3NmNRMENQS1VHLXpQaWYxbzZYb0tBd1JtcWFUWUtCdWMzSDlZa1dkZlVqNEF5anFs0gH8AUFVX3lxTFB2eHpUeWIweF81MDVKX0JaRnFLMkhueFlVQ3RJbzdfeVQ1SUdhM2VxeUl3dkhaUjhMOXJNZHVKUXRaeklMMFBySnFVUE1DV1JoY2hYa1JCaU9oMk9neXNLdmRMM0xENGJoTlItVDNqaUZfR2d1N0tNdElsOFNHUk5vcEtlRnBvVHNfWVR5LUhkOXIzN3E3b084OG5sMVdjQU1OT3NTb3JxS2FlcXBLQ3Z1SHFVN2RuQVBUaktmZGVCNWFDNkdKcVIzcE5ERFJqRTQtbnN4M0MtMEFJSWN1bXd0NEhvU2NLNWxoTFB6MlVINmRhNmNNOU1Db0pjNw?oc=5",
+   "published_utc": "2023-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government to spend â‚¹16 crore on treating girl child",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlFsMUJvYkdIb3dTYUNFN1NUalRLcHB4ZlpxcTFVbnBkMFNZY1p0cW5jai1xakxsN185eWFSdWhfQXBMRVdCdVZRa0JLMFMtNDFkdWJTUzdNMVdBbkhJVHk0YXcwbVpLaWtDVDFPUU9iQVpQM2ItR2dKV3M2d0paT0xFYW5BQUt5WWRoX212TktyQWROeE5Fc0F1eXFHNVFPV2p0RTRXalFWaFhLUHhfOW1weTZuU3lzOEdz0gHAAUFVX3lxTE00bm9yX0VHTE1DYWF0d3dJQXl6T0RWWGVBNEd3ck5kRlJzQWd6Z2Q3NDRIUHlXdlF6TWtrVmFGVmwwRDNoekdIMV9VNV96VUJoS3Z1cUxYd3FlMHpyeDRfeENIWHlNdkdYX1U4UGpUcFYyQVBMTlJLYTdyU04xUldJVFQwNmtwa0pXZGg1MHhhWnhQRXJMY3VxU2tQTlNBM2ZPQ25QVVZ3NDBuYjlBSXY3TGZiS0dXVGE5bzA2NDB2bg?oc=5",
+   "published_utc": "2023-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Andhra CM Chandrababu Naidu arrested in corruption case",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3J2aDVBQ2ZpdFp6akRYcHNsdGtBYmhISXo5ay1TSlloZVhrWlVYRER1c2tGTC0zcEloRHI2d2hUbm5weWVsUDJTa2xJa0FoalVLWUNHeXFITGxEZGVrczdKd2lsNURLMXJ4Vjd0QmY0NHN5UWltaGFob1hMYWpTQ2k4VWFrLVNDcmp1dmtQLXdRQTdOdE83dEl6aENkMlU4TVYxUzhzeU9ka1RhU0JfclZjXzRidVV2LVpUNTZNXy1wa2JyOHBraNIBzAFBVV95cUxQUE9YYUwtTnJuY3paeWlTMWZ3Mk4zSGJPNmVpeE9DeXNLR0NIWnpEbDItUHlsMEpZR0FESHJpV0ptSElmQUptcVRIQ3M4aUlJUElaZHFaVzdWeDdldkl3MG5vdjVkQmxOaUNJeG5WYk1NRW9mZXE2UHk3b05DR0doQnJRMWNXOFFOZE83R2dkOWo5VnRZRy1iQk81dWdEMndfNmNaTGp1XzY5MEg4RWRyZ0NzRU1LWjU3YlhfQmpZZ0ZRUkFzVjdkSzd1QUw?oc=5",
+   "published_utc": "2023-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu arrested: The Rs 371-crore scam and key accusations against him",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHhnY1RUcE9TcEtfaEUtZmtiZWJhVXhYbnZvS1Z1Zm9uTkZyb29nR3FwNGxCa3FrQ0hVdXFSVFhfVFFYMHh0WDZOQ1Z4eWJBV2VxdnFLMWpfRXFjYkpkaTJxNS1XU080WU9vZGdyRDhxSngzWjBoRWdOYnE5cXp5dDJXRTBtbTZDSjVpN3ZXa3pRSnJrMU01QWZSX1ZHSGkwNGxGMElROU9EbURnQ01xSDEtbVJsSlpicnJMWkNkOTNEbTdveHZuTHZmLTZRbzTSAdQBQVVfeXFMUE4tQk9ma1J3SGduYXl0UVZYeFk2ZlJNc3FGN2FVMUJlVGNjRVVLN0VVdEJ2cVhQeXg0VGVEcTJiTjdTM0FxdjlPVzA3Znhza1ZpNWJtVW0xMVluV2JraDhjSWVLY1NRVGdOUkFfTUpTT2VERVZlaDAyclJOWDJzOUJvUmg3UHFGM0lPaFVJdVVRYXB4dUVnbUI4NlFwd09iQ1R2b1VOYU9VZDFqd0tqUTFzd2Ric2ZOQ3RtblctWmR2M21VOWVqX2h6M18xLXF4VThLVzE?oc=5",
+   "published_utc": "2023-09-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Panasonic to invest another Rs 300 cr in Andhra facility by 2026, aims higher exports from India",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZDRMcVhlbElSQXpVcWpZb2hfWUNONWZzdW0zWDJqb21IZmhySUV6a2pBTU5ZZnNRZ0Q2ZUlRdV84U2NxNFg4ejZqOF9LZWRpWkhiekVyZUFTZEZnVmFtakM1MVVSQVZIYlc0Y2ZiV3lucVpaQUFlWDBnNl9YN0o5VHlvYVk2Y2pEcGhFWXBuX0xkT0hFLU9CQVNtd3BnZ1dsMnY3ZXF5M0JubnRwQ0l0Q3RaWFFwTWZMelEtRHNVWDM2NUFNa19nUkFNN1VRQlFLQ0FiMURna2ptTWUyV0wya0ZVUlNfeVdKMWw4MGpEczF2c01vaG9vZUFOMUJTLW85OFpyVEkxb1BjWHdIaDNQMjl30gGXAkFVX3lxTE12aG1ZeWw0UmNoYlVEUm1JRlZQQy1FMnZMNmxMTFQ5ZkJjeXgzeVg2a3JzdDhSa0kwb0NaR244Rmh4NGhDYWQ5Q3hlRlpTaWtiX193Wm5neTNBQ2RnMEdKSm13cGVQZ3FSUXlyLW9TNzdXSHZkZXZzSEY4eVNEMmtxZHZmbTFQSUdSVGJYMXo1dXl4TWtlcmVQVVRsTVRoWEg2TnpES1BSZHJJbUZQNGVDakF4UnppVjc0UXBqNmhkNWZwV0lZTUtjMHBqQmF1ZFlobVc4NXBsSS11YVhDOUFZMzBadVlOcjZEbDVwN00zR00zQXF0aTFBbHk0MUNBMzdRcDBESVpqNWZJWHF6N0NYZ0twNUtFUQ?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrababu Naidu Arrest: From home-cooked food to special room, Court grants THESE amenities to ex-Andhra Pradesh CM",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdTlUeDNhM1NheGlucHh1Sjd4eGNJZjgzalY5RnRKcC14b0tIQk8xejM4Uzc3Q2dsX29mVDNNSWx5dDZlbUFQdmdhZ1ZpU0I2d093LVd4R0dycHJQSUlJVVppcjRRVmFtYXRnMWVGOWJBay1Ga1NFQnQzUmlWSTE1TUQtWV93cEFkM3BFUnVZUzFPaWZ2aWplcXZvVjhxcHJad0had29jQ1hoUnBxRDNKZDRfQ29sTFR2dFNCM2VCLUtqLTMxNzNHYTRSYkJ3LWNMYVM5cHZZV3RWLUNkejlQNnc5Nk1XYU8xWUpGLWhieVpTaC1zdnVocHhtdVZ5VHQt0gGGAkFVX3lxTE9yMDJxTUxhXzJxNUlZS0ktMC1zUnRFczJ1VmRpek55Y182b1ZZZS1xQmoyUksycTFHQlNjRi0zNGRDVEV1ZEVDa1JFX2gwV0tCUXZjbWJsMjVMUVA5d0FuNmh4UzBlNnNKQzVOUzRVSlU5dmUwLURzY3l1WHh0MENhcWRUU3JRQ0RCT1p1cGlxajllNnkyOWRkZWVTT1I2OUtRc3BlUG5aUGxRbWFhVmQ2QVFiT0J1WVNJRXI0NzJfZmI2dVB6Qzk5TWFqUVdSVlBtQzZRRmRVOFVMUXFZUmhoV1p6UlBIazV0d2FERmJOaTctNEU3VzlhcWRHM2NIeVlEYlA2ZGc?oc=5",
+   "published_utc": "2023-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to establish Skill University in Tirupati",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1Q4NzlMRUxuSDZ6YUNCcTB2TmF4TC1YNnhSX3FNcVZkNmo2cFdjS1M1VW5OaWJqZG9JVWlIVThCakV5MVhERGVrV2VBa3ZuN3Z0YW5ZVTZIR08tOGt5YmtnU01tNzd2RlFoS0ZUTzNZVkJJZG9DXzhmaVRoN25IeDAwQ3U0cXcwN3lfWXo0cnF5MG9EZ285UVlPa0ZpVjlOVW1vN244ZHhEM2VVSmpj0gG0AUFVX3lxTE5zZUt0LS0xLTlzTEFHdElpb3JwWmRzLTRZTkpGcHRiSDlPZWVBM1ZISGdWbDJaaTVMWkduUjdpUlhjMlZrMmlZUlVXSjRxYXljOURERTI1QnoxZWZ6WjF1T25CU29rUHBSNVNqZmUwRWF2V3BsZERjRDZ6NFMzQ1VGNGZtazg5Tnk5a05HTEdxb0dYRU0xcmtrSW51U1oySTZ2N0pHMXZZWVNHZ0VIZ1ZtZjRESA?oc=5",
+   "published_utc": "2023-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chief Minister Jagan Disburses Rs 275.93 Crore to YSR Vahana Mitra Beneficiaries",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZW1yOHZSNFMyWVlOdVd6NEpjNGRhU3RQWnhNdHJxT3RqLVRnZkE4RVI4X2h5WFZsVDJPQ09mNDJuZzY4dVJJMW1ibUFiYVBJOWxvSVBBWFIwS2hBd3BnZU5Jdy1TX1RUN3VqbzJsRHF3S3l5YmtiTjhabVhTUXlBYS1TLXJNMjRDQmFvTEJKWHR3R1FMVThSLVU1ZmlPSnF1OXdQdHp6SnJCaElWSllFWXp6RWVTa2xodzdUN2tHc3J5eGcxcm9RSzJ1Vkh2dy1SSjhv0gHYAUFVX3lxTE1lTVMtMk8wLVdKTjBzOWJzbXBxT1ltdzQyWGhLT2FZeVBNYzRUaGNEQmdFZHdlNlE0RS1VUExVMjIySjNhSmszU1ZRd2Ryck8zeXdvWEwtSzFpQ3FXX3F6YXlNY2VjT3Vob2JVTHBraXh2Qk5hbXo3QmpJcmZRX1pqTUZaRmNqY3NRREZhVXlIaHliUnplalY1emM0XzlJdUl4WjdNTlRidk9KTW1qRUxOUXplVzktTVhIX1RQa1FTVGVlVU9YYk1jWFZ6NGFJZHRJWGJyTmNwLQ?oc=5",
+   "published_utc": "2023-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

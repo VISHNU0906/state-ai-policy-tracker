@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Not so neat: Tamil Nadu government, Governor lock horns on NEET",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3lvTWF1N3c0aFlaaDI2TUs5cjBsSjV1Y3hWTkFIMlA4NlhQejRyeEYtWGpjMU5kVHFsV2N5NjZUZUZfVlRrYWJqa2FBY2NKNkpyNFg0UXJvU0hiZUtGN2xuMjdqLWlyWDRLVExKTnREYUU5QXBMLWFvelJDVXNoaUxLRWs4NVhtTjdwV01Rd2FYU3dpNjZxYVFoRDk2LU01alROUkw0SEgzWFlqZlYyTnVPcmtDTWFKNG82aUVRNHrSAccBQVVfeXFMTkk5REluV0tiTWZFZzdSS3JkWUtqN282eVVhWHg5Ulk4cDNCdXBzb3FJT0UxeXBjZzdjOUoxZW5Nb1JyRzcxUEp4ZGZPSGVRNndUTHhBUG1BalN3TGJZMXhIV1NvVC0tZGJpUU41N296VVFfTEkxbEYxR1RwU2hhX0pBSjYxZUwxcUp0S29aeTI3M2VaSHpoM1BZT0dQbTgwRzljSDhvSWpHRVo1RWJFMVAyWHJXRFgyLWpONmtmQmRkaHd3ZzFWcw?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: The daughter who found her mum in India after 23 years",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52ak5OWTB3X1M4Sk5lWFY5SEVoUzJ4NERma0NqZHBJbkEwMWRmVE91V0h5UllDLU05TzhnUUlUZ1Q4bk9mTF85c2dsQWxhbnN6NHB6THZjODdFUnlqaTE3ZDZtZw?oc=5",
+   "published_utc": "2022-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister's Vote In Tamil Nadu Civic Polls Cast By \"Someone Else\", Claims BJP",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkVfcE5ZaHB1dDlwakJSa2pJejhqSDJKcDFGemNuZ2pqSnR6RnhsMU90WVdxd2xxcXJZMEwzSUZDUEdnV0hiMmRIaW94U191SndnT3ViNFQzaXZkcWNKQVRveTZiX1FRS1R3UlUxTzNsNGlobGhKQlMwZkxWb3B2NF94ZzVQQUVVdWI2RXlYVmlYdkg5SmZsMWJZaUtXSXpUZlNmUFJwN2FjZjRVQllIdU1ta2JPQ2dPNGc?oc=5",
+   "published_utc": "2022-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Ex-minister D Jayakumar denied bail, another case filed",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3BZa2ZqQkhuNWJULWxJME5La3F1U2daUnNZTFU2aFZLbjJVbWUxU3pDbnVOWTVCaVFsSTdWUkN0d2VwZjlqOXdXVktoT1l5c0Y2aUFxNGQ2bXJlRnRxUlZ5M1NBU3pWTlNieWFMU3hBM09ONnFLUHlJMkdTOUpudFk4Z0E1ZVBpbkctYkc0cVVhd0pxUGtZRmVUYTExajJKMWF3RGFMRlBFS0RtN2tvZF9jRDQ5MVJMd2pORlljbkJfdU9WWm5pOERyTkhCa2Z2T21Sb3RR0gHbAUFVX3lxTE1IWUtKUFYtVXJnVml1anc0VHlTbWdSa0JXbHh5ZHctdWllUkJLWi14WEZTVzVWeGl2UDY2WlNub1V0MS1pVGFqTGZmMmx3TjN5YjhJa0NEM2pLWUVCaE5rWEt1VzJKQzQxNGxUQ1lhZzdVVGZpbEF2ckZ4Y0pBMzVxeEpSa0hmRmdTMm41Y3JtamxTQUJ2bUtQMThhbjFpUkxuNXlCMDZCbnhlQjBzdFNuc2Q5bUZETUJ4YUM4cEU4cmx0bHdyV2tyVFlwa2tOdy11UjBlY1pMSVc5NA?oc=5",
+   "published_utc": "2022-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Assembly, sitting in a special session, unanimously passes NEET exemption Bill for the third time",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTWN6dFRJT0RtdmpKMnFsOFpRUEJpN25HX2JQdkRvcEExZ1EzM0lvVWU3al9VY1FZZzFhaGRTQ2JhTG1XVl9Ba2ZJNktmYzRzcEsxWXIxNXpiWGY3S2FUUlhINE43cVB1SzVqZl9zUkp1QVozSmhMUEtWVkRfMFFhNjRmZ2tQNzRfMHYtaUlOTDhxWEZxcUFyQVktbzdncnJyVndDeUZwM2dtMzVFd1dQTWFucGJ2VWRBQkktd2RMb2Vwb1hLcE1TWElJUENBVDdLdHJwbGtMaU5obGt3OTRqMUVORE9aZllPYmU4c2hGUUt4cnc5SUx5YW1ONWo?oc=5",
+   "published_utc": "2022-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Holds Urban Local Body Election After 10 Years",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0pOX0ttXzVUMzVvMVppZlNCYzNDMTNNZmlQQmpvVVVWU2o5R0c0aUoyS1NjV3BJYnE3WHQ1WWI0RGQ5eUJHSzBQS25rb0p0SXRmVXdWSTl5ckRhZU1CX3RmdmlYbEdZUHZSM1c1M2JBSU5zVklnTGp0UWMtSGxBNGN6Szh4QlQtNXdRbUVjN1ZpSEVKZXpLQ1F5bVd0VnFiMnhWaw?oc=5",
+   "published_utc": "2022-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Assembly re-adopts Bill against NEET",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEZSQUdBRWNMTTNjY1R3ZzZEUlZLM0JtQWpxTWtWMWVXVmVsZGxFVTRpcUhaUEgzN29UTndsUXZ6RXdJV3VpSVZheklmX3lOWUIwbUtPYnd2eERzZTdIZ0ZyOUNZUHNBVHNkOWcyclVtcUc4WlBfNUhGeURVZ3RzTDZ3b19pWS1PWXZpSXp3OGgwdWJkX3NrdlV5c2RCU2ZYd2FPbl9pWHQ2emJXT3fSAbQBQVVfeXFMTk1LUWpMZWVnMW90RTItTmpXMFhPMEpiYURKUGMzeFdZU1lhSHFNWWJUT2JnN0NYTEp1VXRjN2hjZ2ZkU1U1UEZncGJDYmY1ZkhBdVRpSnJ4VFo0R09Pc1BkSVBvZXdhZkhBODFLQ2NmOWVJMVc4LVpadnFHZVR0RE52dW5uSHpBbUZxMVNsVUVjeG9kOEZSSFpVS3FDdTdObElUbDZZN0l2T2NhcVNPX1lDNDhs?oc=5",
+   "published_utc": "2022-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Christian conversion mafia has never been so active in Tamil Nadu. Here’s the reason why",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzdUMUtMcW1oWW9mallnZDZNOU4wTFZDZXVSVUxER2dYaGlXS25IQTZrYVdYdUJ6ZUFXcXgxeFV0WlhObVpoR3EtdGhwNnZadHE4MUxZTGdVOGlZRHUzRmlQM1BMR0VxMUpULUtacVV5OFpqM2w1a0VVcWlVVTVXVHJ1X2kwMkNNdG9GVnYxbk81TnJXNUtKZlFDUjVvaFhfQzdYbGRHVF8wdFpWMXhPTTBBTVR5YkN0cGlqV0huSEZnZkx5M3NnUG5FRVBjMVpG?oc=5",
+   "published_utc": "2022-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "500-Year-Old Hanuman Idol Stolen From Tamil Nadu In 2012 To Be Returned",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE9TekROMTUxSldyVWY3cmtLLU9fS3diMFMxakZYQUZtVlJPZFJ3YVk2cXZESy1zZWRXaWYwZ3ZVS2dic1JiZU1mWlVJd1JVVzFfVURqbVJTT1RaUG5lZ3hTRUh3QlBDX2plQ0VaS1JhR3FnVWdMLXZLUnBzRndBT3dEdkZYd29lak15UmxVS2lOS3BlNG5xY3lMUWhieGdTMEJLQ1J6Zk1kbmZZaS0zYUdHeHdGUlF3NVBNQnRiQkxvSklSRG1DWA?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin interacts with Tamil students stranded in Ukraine",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXEtS1A0U3ZWNnFoWm9sYlpqdWNqNDcyREFqODFUcGpWUGNxTXR1RVVqN1FkRHNoT0lVRV9FUV9uYXNyQzE1U0RJajQzeHlicy02VUlwdFdKczBzY3V2aDV1YnBiVDA1YlZ2XzFRWHZHajdMdlFjLWRIVzZOc29lMnM4QW9hNWhCTFkydmduN1M5NzlEdUdhQ0xlUExBaGZrZW5nazdtTnV6QkoxbzQ3WGd1Q1F5YTZkMUczMVFyNXVSc2hweklZWFJR0gHQAUFVX3lxTE4tVlJ1ZFlONzJJc29YNy1VSm0xOElxVVRIbE1xLVd0cGZMblhCRlJVLWZRTEkxVjd4QThvSlhhczUxaGRlNWQydnkzN3dQTnplcUFiRFg4YU1jTjlyazJLSmNxeTBJQzhjdkhwYmRpaWRzdmE1ZnV1N3kwa1VRSnMxck9iUHdaWTlnQThFUXFJblgwaEdnNGJGQWdfMUZmZzN3bDRaLVVvdXlNMHE2cUZOZm12SkRJT2lROFdqYlNGc0t0TEFJTzQ4cmd0OWZOOUY?oc=5",
+   "published_utc": "2022-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

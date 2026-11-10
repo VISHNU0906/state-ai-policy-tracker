@@ -1,0 +1,29 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "JSW Cement to invest Rs 3,200 crore to set up 5 MTPA capacity in central India",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSktFdXQ3NEUwSkVZTGFxRU9LQmE1MVhZLW1fOEF6Z1pUMkNNWGdSMHVQRkNjZnlSN0ViUTJ4LXVLUUZ5bGtzTEI5Sk5QOFdSRHYtd2t4YXpxampiV1RmMlg0VUhPUTV5YkdwYXE0ZWlUWEVhcVpYQ3I3Z3h5TUhQajg5SlIxcVpQWEZsSE0xVm95VlBOZUJqMVNmdmU1T1RqUnVrYW5TT1JleGtBSXhxRXR5ZGl3ZG1tcUZTTmdzSDFta0g0Rml4VUdVNno4OUkzaV9LbmM5NlA1WHMzeUJtUNIB5AFBVV95cUxOSVVwWThfV1hSYmtWQU5CckI3SWMwem1NNDdxWE5LektJVW9fOFVWVlctTTI2RjdpaUpQZHI1elpQQTdOSE9qMHpXYTFvbFlBTU9MSnRoejUzd3AtZUNua0NPOElwbnlvNU9NamZfVko1RFFubzMyZ3RUSXh2U2FWN2ZwZUJzcnFqZnAxdmR4Z3BYZFdBVW1rS19QSjYwcnlOR0J0Y1BoZHRGQ1MxdE8xc0ZtOWRfM1YzNjRiZVZqNGVXYzIwNjVsNktFcWtFaERYQkgtOG96VWlSYUg4VF9SSGFUdDQ?oc=5",
+   "published_utc": "2022-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ujjain Mahakaleshwar Temple To Get Ropeway, Will Move 10,000 Tourists A Month",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNG9GQ0ZlZEFFMG14VldnbmxaeThGcURmaXBzS2hIS09KUjN3akpOVWczU2daVkZ1X3RKVlBMVzVfOHpFUFM3dF9leDRyNVpfcWNJV0NzdDdXcWZsREdxTGN1cWE0SVdWTXc5SzN5UENiMWlLb2VDUTVUT2h1Q2wtYnZaUWJqQ2FKUldEeDRnd2pGRl9ncVQzOTF3MDVmeVEtSU1tc254Zy01N2c1cXdaX1FCLVBPNldrbUdad3NGRWRFNXNiTlB2R1hNNNIB2wFBVV95cUxQSG5XSWZrZkl2WHh2enZ2djdiX0VqYUVuZWNScEpCcnA2YlI4NmUyNVY2eTVvaHFSQXFwWVYyQmdWSTRiRG9YZHFJNGI4enNCcUozdW9fc29GakRrUXZkWHBGOTR4WWRzZldLSmNYTmRpUGlJNXpOTnhkSVJFX0RFcFpNdVBwZUo5SEo2UkU3aTVuQ2hRTHZSeVRZLUY2QWtsZTZELUJRVkNSZXdmYmNFTnk1SHpqMkQ3bUpVM0VxLTJyQjMxb0RBSG5mbGJCRWxBTi1WUUF4Q0xXbHM?oc=5",
+   "published_utc": "2022-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Tourism signs an MOU with Content Engineers",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNU5fSVpfUlAzYWU0eDU1ZTRtRVMtU2RDTmpCZ2Z5aEV4N1NVcmgwbVNQUTRNU0ZfT2FZVjhWR2hYcU1acDB5eTcwUEQ3bWRhWEpxOVpHNzJENUVSN3dSMHpYZnppTzFscHVHbEhwWHBfUTdBdjZDbFlvMXJISHFZUi12b1FwWnFhLWlxNS1oSWlUY2VNRThRNFFSRzU2cFZUUWtsaDRpZ181R1p5S29iUTg5eEZZNFl4M0E?oc=5",
+   "published_utc": "2022-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

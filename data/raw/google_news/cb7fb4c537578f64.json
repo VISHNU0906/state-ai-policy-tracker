@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Odisha approves Rs 2005 crore investment in 10 industrial projects",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTGExMUVxYnpEQUV5Yk9jelMxeWY4TmVZdERTRHY5V1BEN3RsaWMwdGl1RjRGT2twS3k5WVlJQXpTcmx2bnlsbGVGRjFBbUd5Qlcyc3FkVDc1Nm5jSDJ2NVFoZ19nUnZQU19WS1Z6eV9UTUxoTWpYUmUzdzJVSl92RFZnQUVMT3pPWlROOXNaZzRKeWlWdVg4d0tMNlg3Qkd1YUpqcGlfaElwQ01KblIxeUc5VkpPZGN6bmlfRzdQaGhfQmNzSHVZQkxUOWJhTEdNQ29ucEdvQklKSG1XekEtNl9BYkIzUdIB4AFBVV95cUxPWVV4alBCa3VtZXF4RGFfUjRLTlB0d2liclJaNUpjajhud1B2b09CMnNpa3lMbFlHVmF3Q2NxQ3ZzSDN1Sl9UTmtqM1Jtdk41cEZvYlg3dWNjSzBLWnpQZnZiNXg1Ty1fSjl5eWxBdTUyc3ptaVN3N0ExVFlES04wUkFuZEhrbjE5ODNPRzBzUXBhRnl5bkRTMS1vOGxoWGp3MndpRTIwWDl2N1ZqUjNjcmh6ZUtHY2VubzlIVlVHNUR1WG5mek9nQjFuM2V1LUVxSDNMZG1uQnlnYXNTTXJ0VA?oc=5",
+   "published_utc": "2022-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group to invest Rs 57,575 crore in Odisha for two projects",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFppa3JrVlBFYkloU1lRV29VaDBTSDZZaE5fNFNJU0dfZC05UVBsWUJTQlZsWkF6RnBPd0RRaVhlU2dSR1lZcGg0eWprLWlwX21WYkkxdUtOU3ZxcFFQSER0SFpPaTM1cnpHSlF5eHBmeUZ2b1JzU3BuZDNMcHEtLTdMV0FtX0Q3ZW5CdUt2empJTEs5a09aR1Y2UUpjZlhKckduTVpDMVd1ODF4bUNYcndGQmpoRGNoc0HSAcABQVVfeXFMT1ZMbWtURjFoZThZc3BYa1otNUhSVmZOQzFzUU4yXzVPSlVBb2hBcFlYLUhSTzBhbWtrbE10TlRkWENKTkJ3Y0dJZzJhMHl3Sk9kWU9YNjlDM05CeUZpMzNBR2tvb0Z4NGlVdXpFUnl6bllHRXNYVHgwX01EU0dDNklESk1YMGFYekNaT2FNQ2dMZUdUU3BHc2tEYkZKN215ZWFzc2tRa1hCUzltS2t0NEQ2ZHFKRHEwLTZBODUzRVpV?oc=5",
+   "published_utc": "2022-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJD, Congress Reject Amit Shah's Claim Of BJP Forming Next Government In Odisha",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFh5eVlGY0xJQXdYXzJVZ3ByRDFnRXQyNTdpMERoTDRQVUdwMWxyTWE4OUVQVkRGSmpoa2JxaU5BSnJUSWtOX1N3Q2RLN2Ntak1oSy10cHMzZnpaU2dTYlhhbVU0MmJzckFfTjJuc0hLRW13cEUycmkwQlJCQ29zTE85RWxzUWhSaW10b0ZVMzRCcGdCUTM1dy1UWGhrT2RONEdJb1RCU2tSTHlweDRxRHQ4YjNndDVC?oc=5",
+   "published_utc": "2022-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Puri's Sri Jagannath Greenfield International Airport To Be Operational In Two Years",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXE5eVZNX2lwQzBTaFUxWVphMWIxM2c1MVBrSTRKbFR5M1ZIODNhZjh3TzRVd3paSzVFYXltRFUtYkxWTFY3V3dVaFZ0S3pmbTRJMllueUtiZk5jNFJuOTRZaEVTUHlZeWkyYUlibmdMTzVENXQzc29mMmxfU2dzZ0JVc3JCVFJZcDVvMkRENnk3dkRSMnFlWHBvaWUtcFZqeEhBVDhZNHhIVWpub1hrYklidVkyTWt3aW9QOXVTd3NRNVE1a2VKZdIB2AFBVV95cUxPWFdnZWd4NFY4UWpRSmE5c3ROX0hjaUxpNmcyVXhIc18tMmsyVDZfdjJjX2xfM2ZNXzFJeGYwRkVXenVybkJNejBRdjNKbDZUbGMzdlJCSERJalVNMV9hdk01bU1MNExfVG45MDFDUmVxQVdlSlRqQ19TVmczeEJ6Q2E0WVJfVTViU1BTMHVkTm9mSm9rdFE1a2RrQjNRQjVneWpHQWdaeDVjaXBWV2RCaVNoU2sybVRiNHdfRWtKQjdkdFoxRnhHSjFLRTE2aVNWendMaVpKdWk?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Panel recommends State-wide permits for OSRTC buses in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMzBBRU51TjYtVUdtOHJRd0lSRkZzbWNDMlQ3dTgwLTdVTG8yelBWMDRFSld0N0lxejhmaktzMXA4TEgtSm9vdVFuNUUzeGc0cnFJRlNDcG5KelB0WUNpaWYtYW05bTc1bmJZaVFsUERpUFJTd1dZbWZicDZ0V2pfaXpvLUJVQzJSQlBrRnRFMEZLLVJ0WVptMmU0b3ZmbzJfV2Q5c3VVcnVyMVk4SzJxc1g5dHQ0SGRReE1oNE91Qzh4eFkzdzFVQ3hfdjE4Z9IB2wFBVV95cUxQNjUyaER1Z1BGcDE4U3ZFWDYtSFRYeEZ1dVFUUkZaQ21xVUk5Ni1VVEx0UDVJSVliUS15QzNrZzlKWFM5WGRmWE54U2o0bUVqcnVTSllHNGVNMWpCTmppTGctTGFiaTZBNHJ0ZGFBZ1BDSmxhZU42Q1FwVlA1T1VYQ0lRVlQwNVF0Vy0zZXhHZTY0a2V2VGI0eTVCOFcxQzNtRmV4YnhlVVo3c0lOajZyTHZUd1M2RFhTNW1oQTRraWVzVWh3dXZxZXhIWGlOaGE0ZFlBbXBZT3F0dTQ?oc=5",
+   "published_utc": "2022-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha to refund excess royalty on inferior coal",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDZILVZuNE05TDZpd1UtZGdORl80c3h2S0dsbmU5RjdkVnFpcnFMMGtPejZEUHVKWFZvWktwR21YME96NWVPamhXbzJ2WTdLdmNDN1Z0TmYzZU5kNzZiWEUtNjk5a2Joa1RQTjZfbmpZRmtacFFTM2JOQWdZWFo1NUhVYnNuajVyd3pCQ3gtYmpQUEVsRlJmRDVmQ2tEbTRiXzg5Z0tzZktCUEpvYkpqdtIBtgFBVV95cUxPVVNtdzRiRzBraV9UdDljN0ZLdjZ4YmcwTS00UG80OE85MzdTSk1ZNTgwUjU5bjVlYVVoNHY0cG16TmlnS0pKNS1xOWRVcmZ4Vy12TkdQeVdqRktyRVU4Ym9IQTJtSkc4SE1jakhmNGlZeUR6VXZjQVBwclhtVU1iZU1yVzhsc1l2ckRZWVZvR055eUVhZXJsNzduSnAtUkVHRGFxSnVGMGE1MlAzdUpnZG9QU0h1dw?oc=5",
+   "published_utc": "2022-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Adani Group To Invest Rs 57,575 Crore In Odisha, To Set Up Alumina Refinery And Iron Ore Value Addition Projects",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWEt1ajV4U2plVXRjZHVnZVpwMWtwYjd4N3dfakRGbUlZQnpjUXN5YVdhT0tweGdPNy0ybklES0tKTEo0NWt5ZURoV1VuSXdkZ1dya2dZZmE2WDN5dFJkRTVyX1ZsZXowODBfY0FQWS1fanRleGZzVjZrVW9BWEE3VmxIZnhLQ0MyRTZNWlN4TFY3TjhhN19BYkxNZEk2dXVSclZGSlUwMHM4RVUtSE96UEtuaC16cTFuNnJlcVpOSXN6eURZeWhIMW1sRGp0SVhVd21PWEpfaUluRHPSAesBQVVfeXFMT0RkSFloLXhGM0ZkU3dFb2NYUzNJeTh6cFFidjlic3ZvNEJhYnZDVFVIZm53RGxoemM4WVJ5MV96bE14R0MzdTR1X1Z6TVJBdk5lSVU3cURRSHRSR0pmOXJpSHR3VzIwenk2YXVickg1bEJZb0dETXQ4MXNTNFVldFhvNFRZMS1fS2VYMmg3QVltZXZ6UzdpZ3Z4MW81b3BFZjJ5eVZCTHV4Y3M4U2t6OWRhdWVlQ2hNQ0w2QkhraGhScWpMNHh4Q0NRMGxzcDVKaHllSXNvTVIyZmpSX3FmWXF4dGx2TEl1SWlUQQ?oc=5",
+   "published_utc": "2022-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Mig-27 fighter jet which participated in Kargil war displayed in Keonjhar",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdlpHU0duakF2NlRtQ2xLZ251RGo4S2xMUmpmM0RXQWFmd2tvZm9IMF91OXV6NmxBMWluR1BieGRRZ1ZHSmxHQk9telozdDFTeTcxNTJrT2F4UmJzR3pPWE0xYlVGSzlkRjlxTGgyV3dXRnh4TTNHYVVKVVRCUl96MngxdHVETmhxWU5JQVp0SHZiMDhRd01wUkdua1ZFVHo0Z0llanlibXJjSWV6cG9IbzVTS21VSGNfaS01M01INjZJU2NKaTZ6OG5odXpUeUsxTkstRmFHUjJxWno50gHiAUFVX3lxTFAxUWdMWEhtcW12X2s1N0lydnRFSXU1UE50amVIMnEzNjJHdWloSjJ2LVBvSmZZQ0Z3Tzdpd1o0RElvS0NSNWxtTlZ3dGR6bkwzVFNJNVlYMFB4VkxlQlZBc1hVT0I5Q08xeGR5RXVNN1UxemlmNFl2c2ozZzRQVHgzc3RFYmFpSEZDUlQ0U05rcWdQZzRrVmliV2x5ZXlSMzAzWFFRbng2TUhTcVhXUjF4OFd4X04ySjhTM0ItRG1GTHNHWUxIMHhEa2I5SjczOWMxNXladHY5bXBrWUU1cXdmclE?oc=5",
+   "published_utc": "2022-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NTPC To Invest Over Rs 11,800 Crore For Expansion Of Talcher Thermal Power Plant In Odisha",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVNhQ3Y4Y0dxUjVJSFpuaEJzNjNYdnhIUFFBWUtsSVl6UVdvLTh2U3l6Q1d1SFU1RVROaEgwa2FRdnJaMXBNRVN5SGF6aXU1QlBzTUpZS2JjaWZ6OF9GRVVOc0NCUHJjTVlQdjR3R216WmZ1TWhEa201YWcybXhiQTJKR1RIS1R0cm8yaUZOQlhOZzJzU2Jwd29QSlV6OVhrUVVTNk1KTTl6WlFlRkJUR3pnTC1wM1JSeEhQemthd9IBzwFBVV95cUxPYmFnWXozbmxGQzZVdmpqX2Z6Mnh4Vkt4cHZ3akZiMzNIbUxwakw1SFdBSEN4T2d4eXR0N1JrQXF0WVZDSkNCZHgyYS1VSkxlSU9BSjZVVThXb2J2NzNiYUNDbWEzVDlFdkh3ajdpMmhzUUFkX0ExS2hQTlJlNnV5eDI2VEo4ZmhxMTNpWUJ3TGNSYUxuMVRUS0FjSWszd3RxVTE4S3pWOW80bW9IZ3IxWVFGWnJFTVU4eTNCYnJTeGNRX2h0MGM2NU05V3J5cjg?oc=5",
+   "published_utc": "2022-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

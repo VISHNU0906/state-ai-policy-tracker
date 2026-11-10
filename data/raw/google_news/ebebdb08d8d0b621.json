@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Supreme Court verdict in Maharashtra power tussle comes as relief to Eknath Shinde",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFJaZzBXajY5ZWgxZUVRQzNVNG5qcmxDbTQ5OEVJb2l3VmNVU3llRGYyVHBNS2dhbm1ZS1pmdWlwU3JzNVR2WVRoS19RZ05HQy1Hbzh3UUJRUV90cktyWVBGWnNMckpDQUxTS2lvRTlBX2tzUkxyWHFjMlFzM3VSVkpYTElIUjl4TGFUX2haSGhnMnB2S1Fyd0FMU2JqUnhES1RjWF9oUFlkSjBnb0tPLXR1NmI3RHhKdFl3S2J1aFZXYWlIVDR6NFVzam1UT1ZmZFpRdtIB2wFBVV95cUxPVTJqQ1B0OE5QdkpINjhuc21peDFIM0ptdGwwazRfSEV6T0lSb0x0eXF6RHNSbEJyaGhPOGRRVW1XbFB1U2piMnZYVmU3dVZwYUZDdDZLeWdiaWpGV3I1TjVIVVNEVHFNaXFRZnZuSUtWYV9ZQ2M1d3ZYaERJYmNsZ2VfdURycFRUVnpEZC1JU3pDQmkyUGJQVzV0SEhlZHY4RUMySXRLSWV5djhXUlVPUUxEYjRFUWFtVlBaT1pKN1Npbzh2N241OGFuQUZaaUJZNkhkV1ltdWJLZk0?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves Scheme To Give Farmers Rs 6,000 A Year",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXBmUXkxbUtCMkhfcWRYSkg5bTNFeF9ZVm5DRGpsSlNSeHZEZHVKN2cwYWxhMEFmVFN6aXlHZmthZTZPamFRbVdvTHF5eWFyajdNSkN5cmMxeS14OW9wUk9kcFJnUUh1MTMwY3lYRnB0RWRpRFVhRURpMHpkelFxODdnYWNHN1AtRDJNX0t5YnAydGRUdS15RjM2S2JqcUNKYThRRW9kdG5BZUpJWllZTmRsT3czR0h2RkdqemNrRE9MaXFhakUxeElPOHJndjc5WXVRMtIB3AFBVV95cUxPR0dCd29sQV9kSUN1Q2RkU1Y0VmlsdnNVRlFFSU92T2pHVGw5OVhOYi1OTUpiSEowRHhfdUpnSEdESWdWalN5TURNbnNpaS1yN3JTY0FINEVIQmZGM1BORTBfMEVjWmhOZTZ2MEZrdmRjV3JLaURubHhrRVk4RHMtMTNUN09oTGthR1FneVRhZkJ4UG94WUx3T0NsQnhLcldvbkstZVRqeWlfazNqcWxCMVZqVTJ0dDdzdlQ0Y01Pek9PRjQ5MThMemRtUlpieVVLWTcyeFYzemtWQ203?oc=5",
+   "published_utc": "2023-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bachchu Kadu gets cabinet rank, appointed chief of state panel",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOS16dVRJMzFhLThXcXBJaHRkOXFHUF9DMmJqUmJwenphal9TOWl4SURGQi1ocU95aGloOXNyblhVVVlFN29MX2d3WHVrdFFUanZpSWpCaHlxeGhELXZSbXAwSkpadWI0b3drT2Z2TzFZSGNldDdXSUU3MTUzbTczdlVRSWhEZHRzWC15UU5mblVIMnU1bVIzcW9xUXBRQVc4LWVkNER0WlI5Ykx3ZkdSLXBEalpVSUNtSkHSAcABQVVfeXFMT2NodDI5a21CR2dxTjhLNkhkYnRzZVI2RUhqbFNOdUVTVnNVdlJzX2I0MWRjdk9wQWJkWDctRGZsRjhGWlZ6ZjNlLUR0NzFsUjVuZTMzYWlKM080MVVHdjF3TjBXWWhDeGZHVlllRmdtMG1SdEl1MnB6NzA1OTFXN3hVdzE1RGpyeWNiYl9fY1BxS3N5dUpsa3ZUbkFvYUMxemU5UDhuVXhDU29SZlhIb0ZBQkpHYTlDb0txZ0o5OUND?oc=5",
+   "published_utc": "2023-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Outsourcing recruitment to private HR agencies: Maharashtra govt",
+   "source_name": "HR Katha",
+   "source_domain": "https://www.hrkatha.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEY4c1RsVlA3aURsTDcxMDBEZzlvU3lybGJWYWgwTDV2RG5TRjVyWFZmWlUyZ01fdlBBaHk0Uzd5UzM2cUtzVml0em5LcjBWbzB5bC1Td2lNN0J1Sk5JUlI4VC05MGZzem5oVkprVlpEZWtUa1lFU0pUQUI4cndyekFmaWVkc0Y1WDhsUTY5Q09ULWpjNjdkSQ?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India relies on AI-backed courses to create suitable workforce for industry requirements",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY2xKbUsyY0VJRXoxNm1GUXBZZFo1bWo1UjBfd3pNa3JCd1Azekx3cWdJU3AzSXA0ZGpNY3FFRTd3VGRad0t3ZVNrbFpTZ25RV21FNGxSV2lMcFoyanhIY3ZpVGxpeFN2dkxOeHNrc1pKeHR0WlRNc3hXaklQMDZCYTAwWTh2MGh5NDRlZkJ5T2dfNjRpczlrTENleUZ3RklHY3lDSy1LbE5RVjVzS3JMV19tR3BxbUFxemZUOUtMWTVGbzZSOHRMTHYzdkZIeUNHUnVVU3BmYVlVSkp5X0xVQW9KejZMTnlMN2h6ZDdEWkxIUVFoajQwSXloMW9HQdIB-AFBVV95cUxQemg1QTIwNE5KT2Q5Vi1YYjNxWTMzemE2NDBiZjMyT01IZVZhemJ1MjRpUnI0V2g5MTNORzMtdVRJZzhzWmJyYjE4bklRTXdHclQ3elN2THp0bmRmbkxQc0QzZXdab0ZBa3RqMDlHNjJoZTBmMGVsQTNxMVpIOW16cVNidi1ESUZ0WXlqU0diOV95dUpMcExQNkFnWmUtaHJad2pCWkplbWhRMzhZMFJpMXlEWWg0ZWYwQVNiOVZhRmFibzBydWhjX1hXLWYyMVVZRlNzV3AzSG1VNldRV0JIWnBRdHdPQUFGSFMwWWs1cGV0NU95WXFBVw?oc=5",
+   "published_utc": "2023-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt drops all charges against former top cop Param Bir Singh",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMjFOZW1MZ051N0RrY0Jxd1BybDkxaEUzUTN6emgtdUlONWVSZzYyaG1MemdGcl8zSFNRLUZtb1h2UUhycXpNdVZiTEoyeEV6MlNVN1BnT3Fpd291UmpFTmFneHBPV3lVNXhpRy11OVBUVG92VnI2ZEk2dHNHNE1wNEliUmRmWXg5bFpYTDZzRUJqS3h2UmpXWVlYZDZucDhUamZNVS1yY2xpd2pFVmlaY1Rlc1Iyd9IBuwFBVV95cUxOYjc5X1hMR05sWEdpNGVCenVkOEhDR01tZ0pISXJZRE5jdmhVSWt6eGJ2RndLQ1FZd0NPYy1rbTBlYjktUU16OF9ZNXV0OERfbjZTODNKU2F5bmh1Nl9hNk9mOU1YaUdfYVpHTHlFd1l1TGVTWmlpTkx1dTFJcW9DYmg2RU52WkNFb2tQbnN0THhEb0w3ZDFuVlQwb0JlR2taaVBoUXhubllwX0g1UU1ta29sYl9ld3VJTWJN?oc=5",
+   "published_utc": "2023-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt commissions National Cancer Institute in Nagpur",
+   "source_name": "Medical Buyer",
+   "source_domain": "https://medicalbuyer.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWFTdGNVREl0R0k0eE5yS1Q4VXV4aG8zYUY3enlfcTV1Qk5kMFl4c0hITndiQWRLQ1hxSnpVc01uMkhoM19XQnRoZXh0X2c1RUJNUlhzUUpGSV9aM0lOa2UtVnA3OTE2UXdNSkhKc2F4Nk9od1d3RXEtZ2hyMmg2TXBqcDBjMFJsOXVMRXg0UEREa1lwZ29F?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Barsu Refinery protests pit Maharashtra government against environmentalists and villagers",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGtiZ21aMDVLVEU1ck5kcF9hLVk3bkM4NnBTbGM5VVFvb2hZejI0ZEZwVkYtNVdpS3EwSzhxREJrblVyU2tua2o3X21fZ3JLbUdISzBIRU9sMTNwb0hYVW1rTEJPT3dqS1hBS2VoYlY3NW15LTMtNjRZSjJKZUVuM0IzYXBTdFpuNnZzLUhXdVhTLTJjT2prRzhMNUVEbkM5ZDF0WDZ5WXFLcHlaaDNzMkFEUVZZeUdjOTN4TTluTy1ZMVl5TTBHYjJKWlRRLWg5dW1SLVVnZG1POFlRWWlVSV9XbDVoRHpySXNoZDFHRl_SAfcBQVVfeXFMTzdnWUFENENqNGwxZ0ozaFBHNjY2SFJRNUV4Wm1Ockg0Z3k2aXZsQ3ljdHRiYXZoQ2lnWVR1Q25DR2ktajZXS2VySmFTRF94anRxU2M0aWNLcnMyVEl5RmF0WkVxNDUxWmE5eWR2cGs5ODJOYlVlODBrZ2lOMnVMcjBUcWVYQUtEX3JiV0FtTXhMV3hvcU9GRnRhWjl1M1VmdENfTlVIamN6Z2R4eC1ablUxWWxPNUFhSTNTaU9rdGtIa0pBUDlnV0p6bGZPaFVDdEhpWHJETm9ZWGdQbDlqcC1tMTJyZmM2OUxSRXpYcDc5em1CWGdTQQ?oc=5",
+   "published_utc": "2023-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"I Belong To BJP But It's Not My Party\": Maharashtra Ex-Minister Pankaja Munde",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlF2ZDdxUmtLZ3ExeVQxUkxJZ0ZZVFRXY2tPSUdvQXBSblRBbkhpRWhnMG5TYWFSVDd5ektrUDVEWlFaU0xfMDJmZGg4TUpMUHZZMlBZSzVxMURTc2NkQXhueHhqZWdPVFljc3VPZnNSZWxFVTR2Nzlhc1ZmdmN1MWNBMENnTXhoLTdQWDFfVDU4bDBWVy13SUpIbEJ2SVQzMlplNlU5Q2NCM3NwdlA2NjRReDHSAbwBQVVfeXFMUFpkU3hrMml6UFFEbTc3dTdMeHdTa05lMHM3eXdkSWN3dG11Qk1vNWVYck5ZdWp1Z0RIdm54OENYY3JZZGxTSmxldTJHZWp1NFRySHdmTUtEYXotNXRJMnJoTmJla3Z4RUpIWjlQOVU1eWdBX0IwSG1tdExrbXYxSXFNdjk1TjhhY3ZsX2NnRDdSTWYwQmhJMlJTWEU4U3JNTFgxTTFOTGlQcGE3bE1NNDFsSnlyRHYzX0FRUzg?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Won't Proceed With Refinery Project Till...\": Maharashtra Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnoxZm9fWU9PUnIzTW9TRmQ0aXl5R0FsOUNvQklEMjNRbHhmQnVVSTFPLTJELVI4TDdxX3VkdXl0MGVseVd4TTdpZUh0VTlBQUhSM0RubmxiSWV4c1hyZ0VsaVZraFZGaEl3VVdveGpOUWlUanBRc2pwa3JwdU11ZWt2Mm12NFpadGQxZFBOWXdpREIxWjd6VlJPT1E3S081WDhoanFybk5xN0FwcG0zeGlB0gG6AUFVX3lxTE83SzJ2WWtxZFNJSF9DalhtckZtamQ2dTJ2WUN3c094R2tHTzdFa0o0VXJPd0JWUHN5RFdSbE00Z3FhSEZNbkhzbWQzWU90VjJQOE9kaGdtUUQ5WmRvMURObGtxTTdXZnlLRmNFdmVuTTRYN3FXcEg3Nl83TEdFOHlrenVNcTJKU3BMRVJ0clhFR29MSmtvd2F2dFBLdFItZWVQeTZadHhTMkR3VE92UnFKVVl0QWNTbVZwQQ?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

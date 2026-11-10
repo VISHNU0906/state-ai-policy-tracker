@@ -1,0 +1,13 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Chandanvelly to become Telangana’s largest industrial cluster: KTR",
+   "source_name": "The Siasat Daily",
+   "source_domain": "https://archive.siasat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDZlSkZTU0s2QkEzcHFpVGxLR04tVGtUNFYzYXlLdHhrMm15VEJrVnpJX0lRVmwtUXJHbW4wNFFBOE14UVpkUGdVbmRMQ3ZLTURkS3c3UjZEVVBmd3NYdm1KWWx2ekE0NnJBYXFoNUZpeW1fTGo0ZFBMSWphbnBRUGxIY3JXV2F6eUlYc1ZxY3JMX3ZQdUpFTzIzYWlQQjVFNmlUN0hqd0g?oc=5",
+   "published_utc": "2023-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

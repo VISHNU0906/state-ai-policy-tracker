@@ -1,0 +1,29 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "India's AI-powered data centre boom - $100 billion investment forecast by 2027: CBRE",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1lvQUFRTzBTbEZPVWpvS2x4MnZhbGtDdXRKVUFnU0lYZGZNb0g1OWllNUFZWWhoOExnVmlHd0xJZE1KdmJsMmFtc1dSeWpfTG1CUDVRbHRaYlNFUkg2LVlubnNUeWFaZTJjV0ZUWWFVSTBrajFJb3gtTnM1ZTlQamxiNWtsaUVFWUdxNDlOVXd1dWRDeklKSktUNXF0ZVU1VFlZdS1HY2hXck85ZlF1dA?oc=5",
+   "published_utc": "2024-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Revanth Reddy meets Satya Nadella, discusses avenues for Telangana, Microsoft to enhance engagement",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN1RLOFRzVlBsOGROZnVFczdkR3RlQjFwT2tST1R2Mm5yTzdzZnZ1TFNMaDZOck5aNC1jbUhGU193cU54N0xuX1lqejFKSWdfX25pQmYzcEg2UWxQVkpuRTJieUctbzBRTXh4czdlbV9hZC11eG0yZ181Q0tVV1BBeFI5MjlxaXRocnBQZmt3NWl4VW92bHV5NEZPYzlIRTFGa19QOWdpa2RQYUNFVXdRQkYzOVFiX2kwZk5UT2p2cW1hSGlJdG5WVjM4YlUxaHk3QjRvZjZSTmtqWENtTE9mZHJJM1dZdDF1OEdYeEMxS1RDOUpIeVNB0gH-AUFVX3lxTE44WkV4MmFMWXd2Zk9RNG50ckhFd3dmUHEzSXMyd3djZDl0RUZkaUxEOVR4QThBNFN4QXp6TG1jMldQcU5vS1pkVFhVNzZ2bElwS1VXdFVSY2ZFbU1Ud1NmRmx4S3d6dDBkNm5Ec3FBa2hBVHhVS3NfcVFUb2FHX09qX1RnX1ROM1F5QlM0Wlo0aF9lMGN4NUVwRVNNLXNtTU1hTVNmdEN1aXV3NFNFU0NrTFAwVW41eXpUNnZISTFsZU1tU2hzTkpxbThNRl9Tc04xbkdLaERhMEY0ZjZ1NXcwNzZaZVRvckRtaFdDV1J2QzFkdnZNemotdld3QUdB?oc=5",
+   "published_utc": "2024-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's Data Centre Capacity To Hit 2,070 MW By 2025",
+   "source_name": "Realty Plus Magazine",
+   "source_domain": "https://www.rprealtyplus.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3RWSnZDdGd6ZW1ibGJ6TGx4bnpGTjNlRWpHWkZjbXhubjZPaWdKeDYxUzdZa1p5dF9hcFc1U01oRkRBSi13aWtwQ1VHUDBoeWhieGlHVUQxbG8zTmxzSkNVeTlpT3YzNnNOQnlJdDYwbU9RRmlhbEQ5WWFfTUp6ekRPeHN6WXV3UUgtVlVFV1U2SXJVLUU3b0I3eTR5SHhRWGRMMg?oc=5",
+   "published_utc": "2024-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "\"Rajasthan\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Rajasthan to launch AI, coding classes in schools from next academic session",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVWtvb3hCc1MzeGVDNjVOVGs1dUYxU1lSX19WaGdORGRyM05HanFBYzhYUjBiX3YtOTFRVHhCY2VfTElndzVtd2RhQUF0eWxhUHJsbDJieEhINDFkVWNtSmRmMURSSXBCRVdPa1h6Q0toUUxkSzgwLXBjamxEX3JIQzE3bGhkMnpDNG1TLXhDUzFMSllTZWREaHBiMzFSY3hDSmJneVgxcUFGWlJNM1ZELVNla2k1RnpVOVBnbzFKTGFQeFVlbWZMLUh2NWFTM0NLbDlUcnZSUFhIOHNaM3dGR3lZTUNDc2lYZkHSAeQBQVVfeXFMT1NWZGNPQjJkTFkzUk5mdkJKNDJYVE56M0E3YVlaVk5WNFEzZXE1Zl95ZEtNcGhBdVkxeWFlUm1PMVA3WmpKaTVfeUlubHJURWdPbGZNVDY4LVZEWFNhc0RtRFRFcEd5V3V1WGxiaFZTMmpLQ013NU8xWWZMdnBUUlhLamZOUGNYS0djX0lUMXhCUW1jaWZZZXVtWjdrLUhJSzM2NXpGQUE4Nm14M3hLXzF6X2JjdHVZYUZHdFUtMEp6M2VpVGROQ1VEWGtKT3NpVTFrVi1acGdvTnJ3Q2M5UW5KSjRG?oc=5",
+   "published_utc": "2022-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI for ALL",
+   "source_name": "Higher Education Digest",
+   "source_domain": "https://www.highereducationdigest.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95Ym9wUnNWMERIXzNVSGV6cW1CTVJJb0dTZ25uaWQ2eGN5cnBzT1o1S3N1T1dBUV9JU05KQTFXM21Wa3hjRWlVTHVMSGpaVWhja05QakpockRrTkJLMEE?oc=5",
+   "published_utc": "2022-08-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan: Police cite ‘free FIR registration’, ‘false cases’ as reasons for high rape figures in state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEV2aXh3MGZsTnRLTWlaQVVPWHpHMlZ5YXpsSF90bjNsNWh3VGp6OWpzOWZRTnJlNFRlQTdVYm9qcUVIRGx0eG4wU19tU1prMUNPc3hZMWZPUHBGMjZORjZCNnYyUGVCcVJXMkNKMEpjOXB1SnJ2QldVZ3QzSUxIM0ZsbE12N2p4M0NVQ0p2dW93d0YtMG1sUkxhMlpDWkhxRXFneVVn0gGsAUFVX3lxTFByUlk3eGNFQ0Y4OU1IZ2lzNHh5WGM5dkc5ejJzNHZVTm5FUFQ5bHdTQkh5NkNneGZ0UUtqMEt2ZEYxYnBRdVJ5TFV6cUtBTVRvd0hRTGJ5ZWw0cnJJLURpbE1RMXMwVGpPVVN2Rmpzc1BKVllQcWk3d3lpTU1YR1hGVWF4Wmt0REh5Zmx4MWlMWWlkRF9pXzJvVFRCdWdnMGNBRk9pRjBrbVJUZ2o?oc=5",
+   "published_utc": "2022-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lumpy skin disease: Cattle farmers in Gujarat, Rajasthan reel under outbreak",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ieGMyMmstbmFVaktKOWZVQkRvZGprLTRuM09XRVUwS3A2UEFWWE0ydFFoWHpOMGtHUzc0S1h5cEdBb3Atdnk0SmRLY3lVVmdVRFFUblBwMHI3dDZzR3Bj?oc=5",
+   "published_utc": "2022-08-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Police Catch Two Men Allegedly Spying For Pak Intelligence Agency",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2hXRzNhcXgtVGJGZ01KSXRTZk1feExGcDc0MUlmdmNieHI3cjFEb3BWVEoxY1BYSmpWb0dQcDlqNGFoZngtdkIyZ0ZzcEhibFhZLWJkcGJUVGduRkg2dWpwMFU0YjF0V2pWdFB3YVhmT1BQdlBOVmZiZnNsU0NyQ1dBY3hWOXRqY3JIcVZVVTItbWpXOGJTelF3YzJmWkd5TjlxVm1nZERLYktZSVQ1TU5IS1VGUQ?oc=5",
+   "published_utc": "2022-08-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan State Cancer Institute to have a blood bank soon",
+   "source_name": "The PinkCity Post",
+   "source_domain": "https://www.pinkcitypost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjE3MDdVelBuRXNVcFdxcXNBUUtYYzRPQnd3MzFUWWVHWTdseUpfRUZxeGxkUlF2bkdaQ1I0OFgtaG4wcm9QbFBQM2FJeGVuVTFya0NtbEZjdi1KN1NLcEpMS3o5U2lFZ1pJQ3dYOENfTVBFYjMwUjU5MkpqcVp4cVFpTzhFd2pPZzVBXzEwTFdmUQ?oc=5",
+   "published_utc": "2022-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Air Force Helicopter Makes Emergency Landing In Rajasthan",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUVuUHBvVlhCcUJXeEdBZUZjYXB4VWdqRVpENVU0bGNQT0piX0tfM21zZnNMRlVESFZIQVFPZlc5VHY4dE9ONEdQU0FQNWFEQ0VUaHJDQnpld2s1d1IyTTZydndTUXpfb3k2dC1wN1Z2aTZVcE9vNXc2V2dsMGdqVzluWjI1WHRhNnNUWDhJeDZ6SjRBb3I1dVZHUDlsZzVJX2d5NnRyRQ?oc=5",
+   "published_utc": "2022-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "23 Kg Gold, Rs 10 Lakh Robbed At Gunpoint From Gold Loan Firm In Rajasthan",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMVoxdHUzN3pGeGEyaHU0aDlBaW5UZk10VV9SRlRZLXZIdC0zTEVHY25pcUNHcXAxX0hkS01yNUM2OExvYkZ2WlM1Ti1XY05lWm5VLVpUN1I4TEREQVlWcTlfSWhwbDRPTXlkYWNZMDdkWTB1MjdOZXJZNGp0Y0JPb0FnVzBuUDFHS0w3VEJUdmJNem5yVnFxVlZxZV9XUHp3SUItekVxTVlkU01FTVcwcFpFWl9MeFdWRWFQZ3RkQ0dzTmZROGU0dXVncnpvS3JLZGVV?oc=5",
+   "published_utc": "2022-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan University Students' Union: Independent Candidate Nirmal Chaudhury Elected President",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSjBrZXB3X2JsYTVEcTNnaUJKbXAydmFqTzk3d3JROUJReTI0eEUyRzFZYXFvZFgzRTdPOF9YS3ZYNVZCbGxUOGdEbDVFT1k4ZnE0XzhoYWhPN2tIMVVuclViSDlfM2xVSERFdE1lNUhUWElnX2FNeXU4Q0MwYjU1Y3dWcGx0U0FaMkRIQVAxSk9HZUlBcDFCbENqRnJtcWJZYUpQbkd4a0dSNjh5SmdNbWdhcjJ2dW9HX3R4VHJ2V0VVNEZDUGhlZ1U2Yw?oc=5",
+   "published_utc": "2022-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

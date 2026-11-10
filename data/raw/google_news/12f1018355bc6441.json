@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh to distribute 4.35 lakh tabs among Class 8 students",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdE16Z0tZbGRZVUdTb2dRYTNwM0xzMG1vUXhXTzJzVFVSejVSWHJudTV2YlZ0OVZtdW9kM3ZycE9SZWthMm1uc2F0UWhVRmUwWnRfdWF1ZXFMS2doVm1zNUg4UkZ4VDMtN1hSbUlhSU16cGoxTTM2OU9zOEdtVG5TR1BWVzBQLW1aQ2ZqdWZFSVowcVBtNUYtOVVHZFZ1eXl1WldORzBfQW9XWmpaVGw00gG8AUFVX3lxTE9JY3I5WWFXbnplcURnRGtrTFI5M2R6OWpLbTNrOVVqdXJOMEw0RG15ZmdzVjVPSzRPcFFMX29MYUV3NklmMjVMLWY4TGZfV0tuOVN2WGFRWllOLUdxUTBTamNBMFpCUE5LaVh1QjI0by15ZDFmdlVhOEZyQjM4MXpNSEEtWkwyeWhHWWtZdENTaUZWVlpaRVpEZHhrVWkxZGhYeVRweGZzV09sNThrVHBYSFF0T1BpV3djMVF6?oc=5",
+   "published_utc": "2023-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JSW’s steel plant in YSR district: Andhra Pradesh seeks ₹750 crore aid, raw material support",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS0tOZ3VUSVZnb2Fjb1Y5dk1Sdm5LRmFvMklaWExiczc0QVhKeFQxVllPa0xxRThyQVIxV0RWTC0yVlFhTFdUU0RDNmxqWmNXOHNxekdhc1RNbGp4dndJZW9RNVNrNTZOajRPWWhPRmhzeV9oWGZYZVQ0NnFaeF91Q3BQNURic0drcGZYOWktVk1rckZQdFNJR19uTjdKY3JoTUVHMjMyNWliOVk5TmQydGgyMUpBMDh3Njk2SGhSXzlWMUZtNGtTT1hWeENFNnBITFUwQUhIdkVyMmtUTVRUcThxamVHMGo0dHVpQ3Btb1fSAfcBQVVfeXFMT21kOC15R1RXN0RqT2VxTWdVUndQeUJ3SkF2WDcwSGQyU0ZfSVJld19PbWdaZXZQb1l5LXRLWGd3VWxkLXZUWUZSV2hTUVlDbDhKNEwxYk9jandzTGdXOVNpYW5jallNTlV4SGtiNHRiVnkxWDRGekdBRlF3NTZRZVJFcWFKd0ppZVB2dzg1c3FfSnZON2wxQlMwbkx2VzlaWGkwajE5WkZmQ1dXTjUyWFpGMHNLQ1pjYjVHY1ROYkVvWGNMNUZURTM0VFFDald2Rm14UFp2dDB2Tk9hNnl2OE9wU08zOXBXMXBPQUxkbUo1bzVULS1Hbw?oc=5",
+   "published_utc": "2023-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Airports in Andhra Pradesh record 520 crore losses in 3 years",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmVYMHBPR3o4eG9SZjcyLTVwT1ZZQy1QMWU3Y1VYdkFQNEozMWRERVItMXdvUWJvYlBBTEUtUURmQUd1VThSY1VmekZCbUJjUTF5TjRheXJnS2lfU0FqYzMwY2pleDJQcFNnY3U2N3RaSnlZcVlyUmdxWkZDcDVDaURKNnFNUGdEZnBMVG93cEduVk1VVlhSZU9Vd21VdG1zV0tmSEtZSVo4WnIxX09SV0VlblBOd0Z6UUFkTGkzZ2FtTVZ6LUZJSGdzcVNWellqZWZCdEVVSzMyQdIB3wFBVV95cUxQRGEtNUcyMlF0OFJWQV9icXBHMnRiaEJ0X1BCaTNtOGlnUXZuZmxWVkxwWWZnbmFTLXR2RGR0VzVBX2ZmQ3BTdUZvOGRCZWZYdG5rOHNMdU84ZG95ajFKWnN1dXdZTU5TV0ZJaUJNd0pHYURwZng1UWxzQXhMcGEtLXRJVXg1YmwyMnhvVXVOLWhONS02eXhjMU91VDE2RUZ2SUtZcU9vRjQ2T3ZiVXl0c0J3ekJ6Wi1WRHVIdnVCOTRqZG5tMk9BeDhJdVRwblJIVUtIZ1gxSGxHSVZ6QkFr?oc=5",
+   "published_utc": "2023-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chandrayaan-3, Mars and Gaganyaan missions: Here's how ISRO is using AI for space exploration",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVTAyNEY3cVkxY21WUEp2b2FkczNGNE5IWGYzYTBQUjRWb3E1MzFNRjdja013bGVoOXE5clpOQjdKa2JwcWRSLWpwY1Yxd0w5N3R5SVJndkdCNUNCLXJIOEp2TGdTX3pHTzkyblhQQWtHM1BSdXFhaGVxd202eHFIMGNMSTM5N2kybW5SdnhmZjFPQ2F3TXdTVVkxNG85RU54NU9lSkxSREhmZ180aW9uN2JqbzZtaDExalZzR2JabThKVFZ3ejNvR1Nxb2dRcWVUZFFRYkJGcTR5ZWZxZ1VnZ0ZaM295ckxrd1hWeWkxbDV5RzZfLWI5eF9zQzjSAYICQVVfeXFMT2hUc2dFczFKUU5ZQVFPalFiU1R1YU1Ua1VETjlhLVJYNjRqbGlPLUxtbENibURUSUFKV2FqZXZUalN0eGNVbVFnckh0UGMzbHhoZ3I4RFh0elRMb3dYTVFNaU5ub0ozbDBZT3pxZUFfemxSSk13bzNMZTlHQS1zNnJmbkVKMmJjRExRN3QzWVRYNUhvZDJEUmpIZEhMMVRZOUJpd0R3aDNSanBHcXNlM3JqZmJMUkJnSUFDSDdyeXRvM2xwTHdhcVdiQWd4X3RyZWRicUNKSkExNTV4RXZsSGh1SF9xNHpySGZTbGhQd1BnU1Y4ZzFwMi0yU0VULXo1RzVR?oc=5",
+   "published_utc": "2023-12-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Jagan Government Disputes Rs 10 Lakh Crore Debt Claim, Says Liabilities At Rs 6.38 Lakh Crore After Four Years",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWkxLSzJNaG9HTFVVbEhuUXdBd3hkZUMwLVZwQURWbjRNanowZm03Rnl4Zm41dWRfLUo0TUs2d2Y5ZFlkQXppMi14U2dKalNreDA4VlROQllicXlfNmZYMTJHQmV5UWt6UFVmMjVPcjFVc0ZIOXNRc0dKTUNPZVJzTF9Ma29Ea0llZ2xNSjREWUxCZE5FY0FVM1lQeWF3X1NVTXJFQVpfb1l2U2hueWpKT1RqZWNIeDM1YXRHd3o2MEdFamU1VGtBWWJCSXl5SHc0QTNLN2tZWW5MZ2s3ejN2ZkVCWHI0amZnbW1iSzB6TdIB_wFBVV95cUxPV1AwbjRGbjRHSldFa0M2cGc5REdvWDhPWnhwVXBXcjJDNXptUTZnUnNrYzloVnFwMzQyQW1Ud1Rvd0Ytb2JTNy1jaVNoU200aGZUNnZBak1VV3VLSjRDWkxfVElHd0ktQVNxNnNadjBwSVhjbHZWMzAyVE96UFU3SkhEOGctTmxxUDlLbS1fMG83b3MzLU5JUWNZQUpuVXlZS0VLOGFKcnpZWjBUeWh0TEpxeGI4YVh4c3hOdVNySTNrY0pIdTFFc1lCZGt3QjNrLU1LOFh2ZnNVa3AweEdFbVJoMHFGeXdTXzU4dG1JYkZHM2FrbXBRRWoxUzh1TEk?oc=5",
+   "published_utc": "2023-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM kicks off programme to distribute Rs 620-crore tabs",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMGRKZm52SVFjMlJPLXNiSUoyMm5vNlBDR1JQVEdnTlUyUTkwREhLbEVuYkh5T3ZmLThOdTVIVFVJd2gxMnFHVElRRlYyQU9jUk9Oal95TEh3SXJVOGozU2VjbEdjYnpSVmJwN09aZFB5STVSZjVSb01iTjlCUV93MHVIOTVnRGJOV2ZRMS1JYXZ1UVZZam5Nbk5KWko1SmM2eUxRNThtdVJVbEVzR3R1X2w1eGt2aC1xZ1loS3F2VW1uUlROM0lxdTcwdWtuWmFCUW9iVzBRY21ZMXlYdm1mUG4wONIB8AFBVV95cUxNUVlSWXJMY21WMndUUl9nT1d1MFBHa2tQYWJZR0ljSk1pZ0VFQ3IwQ2xVM1JVVmJHcjBGZXhiUlc5UXFYbjhTOE9hNGpkOG5iRVJUNjZ3YUhjQmZLamJoazltYkdZVDJnMVFkSkJ5UGJmdjI1SGxWQm1xSDZQRkk0S1paeU9zajNjaDAtbnFlQVk3UGlHZzdyQzRNbnJRUVhNU1h0bklhckNCUjVsUWJHcjlnZUg1aWQwcWJVMFJGU1ViQW5mZDVIZW1naU9NcFJ3S2E4N0NmYXdsZm85MFV4R05DWlFBN3RQTVdaWEFZakU?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP debt is Rs 4 lakh crore, 15.42 pc annual increase in debts under Jagan government",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVo0UzdYOVFhU0k4Q05yRzFiOTFaa28wcmtRd09SbHFDY1FfWklJRDhTTWFkN25JUHJ1MHd6VHNocVhyenFrSlNMUjl6WjgyeVJ1V2VXazlzSVVjZm1FSDNCaHVfbHN0cG5SbFBERDYwTkk1b2FOTE1Ba19lTV9idGxYNE56dVN2QWpvREZHTFZtbVR5eDFXWGJDaDVmeG9ObUZBOE4xY1FGcTRRbTZ0YUVtZzRtdDFfXzRlbTBleFZ3bDdMTHRV0gHMAUFVX3lxTFBWZE5GUXhWaXV1QlhKMWM1ZDNHNWlHazduQjBnakpKUzVJMy02blhNaFVvX0NIRDFyS2lCYnJKdUhwU0pFRTlNVXl3cWNWVl90U2ZDNHZSTTVEVkI3Q1dmLVNpcENibkVGcFlkMnpWbHQtSTV3S0VhQTB1bWlmU0F0ZmkxTjZWY0VkN3djazRKcWU3b3Nxak9ZRWZTa25vVmhYTTE4cnhqYmNrRlVrcWxub0pzZDloSjR6NU1XOXE3NlNyYUVIUExBN2JiNQ?oc=5",
+   "published_utc": "2023-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cyclone Michaung: Centre releases Rs 493.60 crore disaster relief for Andhra, Tamil Nadu gets Rs 450 crore",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTHZ4WVJFRkRJc2ozOGFvQ1hmR3ZId09RS1FkVEo0ZTM1X0ZyRkhpdnhJTEhqb0JqWUlnV0JWaFM3UUJ3TWlNWTVhZk5HUDN5QVVQeV9xR3JoSVVCV2h5M1JxeDdteFQ2RENpbUliMmFQcjlxZ1A4bThWc21RTkV3RE5QMzdLeHhHZmtQbjhvcUFJOU9kZ0hSQ3JEd2FKai13UFI0dlJMMUlNS2l4ZU9uMkF3Z29fckUzOVd5Q1pYbFZRbkJiRlFuVVdIT1BvMlBfRjVJSzZDRUx3WTNlVmJlTGplYjNfanFxSnpGcFhnYXM4Z05Pel9aaXBsWTZFUdIBgwJBVV95cUxQb01nQ3ZoSlpQQkFTWXl4NHhWYURxX0wyREVGWDI2V1FNS3htZGItWGxZSWltTWxTNmpkRmE2YS1CLThfMzFPaHBQMHAxLWcxbkp1MUo2V0RhTzJRcUdxZFpQTlFwUkJuWGZBelU1Wk9jZjUzcGVlc1hLN05sUFVNRDM2Q2lwTDNvX3Q5OXFRMHg3bFVSWmRVQkE2eDRfOVYtdHdWZEdxckFLMHJOMklMMlNQNnFmeXlwYlJNQldKclZiMDV0aFhwUkFnV2lzS3FXYVc5R25LXzNJcTRPVTRjdlZJQy1iUlFhVkxWLVNoeUdZSWJNYnRSUW1zUGtPZ2stUzg4?oc=5",
+   "published_utc": "2023-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhoomi puja for Kamalapuram flyover bridge",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTBVclVhSzJlcWN2eTNkYTdWa0RsUEJWYmNWR3EzLW54OEd0TEF3VWdzLV9SNXFRdFlEc2VfZEpRYkUwYUQtdnJUNU5GQlFuZVNjZmZTTWtfMGNONVZ6RmRJNWZmVXA1eVlLeW5EeC14U1c1MUZtdkVjdjFQWkRpeThCbjF3eER3NUtTd0w2eF8xQzJKUmEyTWJ6ZnN5Q1pCcDc1bDI3RnFvZm_SAbABQVVfeXFMT3FBa2NDaF9OZUJrampQVDdNSXpzcVkzeDVabnJqVzJGbGhSZ2hjaE9LY1ZyNmI2bmExRzFOMnZUU0ZndVRzMjFaRkp5WkhHTGRkVmhHdE1TOWJYQ0xsTUZsaWpoNnYtSktZVGo1VHRBSndxU0Z3NVdnWjBRWFROUEN4TG5saGVKbERZSElLTFZGMXBPTmZBOFhIY0FrNkRGTHl5bHowcUV2YmdBN1Azcko?oc=5",
+   "published_utc": "2023-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nellore: Festive atmosphere prevails as ‘Aadudam Andhra’ begins",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ21jUncwbjdVOEhQZXI0U0ZrbEJXSGVJM25JVk5PdnhKQ2hXVGNRYXRYODMzbE55SFpVMnJFelJnT0E2bDVfNGlmSFFkYVhERUhFRFdRcW4zcWIyUGNSTnM1Q2wta05wRXRfczZtQUNGMEdOSWprR0NBRGRMVEFfM2F3MFJPVDJBdnlYS1Rfa2dQNTJ2T244UVZ2SEtCUmJ2RjJXaTQ0dk5kaHpDd3RLXw?oc=5",
+   "published_utc": "2023-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

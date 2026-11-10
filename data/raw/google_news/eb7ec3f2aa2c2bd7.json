@@ -1,0 +1,29 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Video: Couple Performs Cop's 'Aarti' Over \"Inaction\". This Happens Next",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUpJUU1CUEZnSjhFYWtZQlBTaUpJam5Ybk9SRVFEUkUxZVFWdlh2UHNYNjdzZjNKWEwyOWk1XzBsOWY3VkRPeDRQQjduUlB4WDBfZGpDYjVWV29vSXNiQWxpUUpSYUQ1SGNtUUV5b2w1TVFyRzg5ZVcwcnZPSVZpd3JRak50bHZ5ZTJTVlJUTHJTLUpwYUpKM3d4eEc1V3U3VnJFNXRCTlPSAbABQVVfeXFMTnE2VTVDSGJNYWg1WXByX0NVdl9QTDVkWTVLV1c5RkZteDdsekRJalctUHFpTlpYVV9SVTNLcWlmZkpLWENCQi1wVFlCMzNUZ0piYW82SU1lSDBnOVIzZzhLenZJUmpqeWRvQkJmUXNiekJWM2JwM0pXbW52UnVoQ2Z1LVA3dkxkejFwQXo1eTlkWjJ5dkdXRlRVX0hTRDQzdWlEcHVtaF9jMG1JSXFxREs?oc=5",
+   "published_utc": "2024-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An AI-Powered App Fights Climate Change While Revolutionizing Farming",
+   "source_name": "The Rockefeller Foundation",
+   "source_domain": "https://www.rockefellerfoundation.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGhrTDhaalAwTGdkbGd0WWRmems3RFFBUFhpYXhESlpydm1Oam1wWG9WZjJSUEU1WkNTc20zZlhxX1p3MkZFaVBucHV0MGRoN2MzRnFUT1lpUzUyRUtrY2FFRXNCZ2tjNWNRRlNBa2J4NGhjd2swTlE3UG5ZcDRKMm83YTlaelRLSkV6MkRBbnh0cUZFWTNyX1F3cUstTTJYTE84eF9hcVp5OGxNZmcydldBUnZPb2dkcThZTDB4WnVyTGhDZFdSd0JIVQ?oc=5",
+   "published_utc": "2024-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "4 Cops Suspended As Minister's Son, Charged With Assault, Alleges Torture",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOE5xbDFpZWUtRGFzQUlxdFhqN3pRVWdnYkVFY1huTW5FOHJocDhFVUxkaWkxbTFXckxVNEx2V2p2VXo0NElQLUhVQXdZNFB6UjcyVWxNa0g0X2Y4WTNFSW1qanFSZVI3MWtqZVhEUWtjdlhNV3hiOHdSbjFZRDdyOTJuODZUYW1HT09lTXJJN21UWDAxaTlLWk5KVThIYzF2aGhZQ2MyVkYtaXVUaWxsb3hxeEVMMXAzd2NoeFdZajBSV3lpSWVkZHF3SmVUcHY4NW03M1UwSHRKRVQ1ZmlEZDB30gHqAUFVX3lxTFA2ZlJkSW5jSmVWY2wxSkhCcnZfbEtRQmVGcXJrWnNTc1hjTlp2bk1Xcm9fWVhObnEzUlNodmEwZm56NlFxMkFnaU1LQ2g0OVhoN1Q5eTVmOGxjaHZnb2dVeDB5eVRhSWZlMzVNaHpkWUhjSHdLUGtBWlhoV3pMM3ByRnVzbDJHVGV5SkY0eGZKSVhxV2RpY3hmTC0tNEZ6OEpJVGtxX0xtbHFpQjlLdUJRWDFQN0dDbFJJYWdfOHE3ZjZJeW00TFdidFNCNVRqNllsRkE5QlFpcmtyenNzY0NBVTZ5NEhVT2lDdw?oc=5",
+   "published_utc": "2024-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Nora Fatehi Confronts Brand Over Viral Deepfake Ad",
+   "source_name": "OECD AI Policy Observatory",
+   "source_domain": "https://oecd.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UcUtueENaUEtnZzNXVk9Qd2xMZjlUMGlsZ2RBZkFkOUFmT3lTcnVFLUN1S0hXazFuZFl6LThwY01PSXZ3eEdmbzRUUUpudWRjVWtaWUpHNA?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

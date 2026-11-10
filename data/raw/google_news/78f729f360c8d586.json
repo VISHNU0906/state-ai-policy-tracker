@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "UP Police launches Trinetra 2.0, running on Staqu Technologies' Crime GPT",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmJ1UkZJVC1jaDR2VnljMnZxVm0xX3RqdWtFaW1RLUhzNzltekVhb1VOZld6NEkzVm1vVmFfNGtkT0JuZUFCS1E2VV85Y3ViZk5sNVN6Q1Mxcmstd0pYbjdITHB6YlFOLWVadWk3MWdiS3FiRjZhMmU5Z0JFQ0xpUS1ab2ZQMGIxN3h1cnN4RzhOQWNIcHE2UTF2cWJSR2ZDd0VkdUdOMEZlbUxYUmU1S2NOd21fMzBtY2hhd25BQzQzQmNxMUpVUEdfdEMxYUdSN0VIdlU4UW8ycVN5aEM0a1VtcjZDTjFVWGfSAe8BQVVfeXFMTUd6U0dFeDJzMHN0SGViaDd0X1p3S1hQTlJfODY2SVhURWNERWM4YTdLbnluSFE2d0xwYk1nR2Q4Nk8wMGg4T2JXd2xibXRZNVFHc1hPTWM4cXQ4ejZDS1BrQUk5MTFSU3U0bkJVTWQtbjFkS1p6Ump5Y19LQW9Eczh6aWJGWjd4MmJucWQybW1rcFQwSXpaY2NCd2F5VU1ZR1dpMVpjTXliWDNjbDc0TldUUDd3dHU3OUdHSmV5WkZfYjJpTXE1UExuZGQwRm03ODMyVmxydEFiLXVRTzhpS09hWjRRemY3em9CMmQzLXM?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-generated image is being shared as a real image of an ancient 21 billion years old drone unearthed in Prayagraj, Uttar Pradesh.",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNUJPX29nMUZaSTNIbzdmamRHTGEtMVY3Sy1PcXB5MEJZTzItSi14TV9Oc1dCV3FvZGcyMklZd0VkZEhjazFxY05TeXNRTXNNN1MydDd1c2oyRVB1T3FZY3M1dmZiM2xKQ3UtZVVzRnlpUmt6V3NjdmpDOGZiNWlsM3Y3R05sMmZhZ3dWOUNrYlRxWVpfdUNucGFvU0F5QzF1eGVPcGs4Z3dyUldJTjRBekt0MElaVXVqN3Fha0pXcnBnWXpyLVd3S1JOZkc3OU5jSlVERzh5WDNqdFJfWGYwZw?oc=5",
+   "published_utc": "2024-03-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh govt aims to increase maize production to over 3.2 mt",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXhudUdLWGhYdkIycmMyUGhFS3FWREZnRmdLRjNhMzV3OG1iQ0RTc2RCa1c3Si1hOU50UUpTcWlRbEJEWUZwdGwxYm1JWkJhT2xZZEVOYktBS0lGd213UDJXNWY1VlNOWTZnMTNzN04wbkZUeEQtNDVWUHNZc1J1aUZqekduZlhZR1JudHZQX3Y0aWxlSTdwSWpyS1dTT1FLdkNCZWgzUmxZU3luUUZPWmhGTF96eEVPWkxJOUNZX0dJUW9nMDI5MExRQVlzRExi0gHWAUFVX3lxTE01eC1qaVMzaERlWmFvTWtISncyVlJrVll1NTJMbFlSQXRtbVJnRlN1S3N6Vld1LUdKU2lnRktLSE5RTmxObEhTenBBN1NSOXQwU2I4ejA3eGNibkZpOG1NV2s2TllkN3pOd2Nzdk9BYzhqRjRuYUM5emw3T2ZJc0Vta1F3LV9lTGVsVFlDRkJvYnlZeHJubm1ka01xTWdyeG9Mck9kVnJlWlYtN0NXSzg2WXNvei1DQlBpdzIybFhkZ2ZDaDEtbFlTYWpvSmh3T0FTeGkzTGc?oc=5",
+   "published_utc": "2024-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh police to deploy AI tool Crime GPT to catch criminals faster; Key things to know",
+   "source_name": "Indian Startup News",
+   "source_domain": "https://indianstartupnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFp3SV9PRzVOTmNNQlpIbldKN3ZzN3JGMnJzNDJXaG45QnRxZmNjUUdibUxFYmhzMlo0bkxDX2piSVpXNTV5QzVvd1N0dDdyRzZITXp5dE9TQ2dERmFzWUpVWFdBaEJUdTNjZlMtYllTdjF4ZDRNTThtZkhBTXlCalpoWjJZc05MTEJZRXJTN011QkNuMHg0Nk5lZlU5UUVCcWZmRkxMX2JiM0dBTlJ1SlFBd1RPVGdp0gG4AUFVX3lxTE1EWndJX09HNU5OY01CWkhuV0o3dnM3ckYycnM0MldobjlCdHFmY2NRR2JtTEViaHMyWjRuTENfamJJWlc1NXlDNW93U3R0N3JHNkhNenl0T1NDZ0RGYXNZSlVYV0FoQlR1M2NmUy1iWVN2MXhkNE1NOG1mSEFNeUJqWmhaMllzTkxMQllFclM3TXVCQ24weDQ2TmVmVTlRRUJxZmZGTExfYmIzR0FOUnVKUUF3VE9UZ2k?oc=5",
+   "published_utc": "2024-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lok Sabha Elections 2024: This is how much parties spent on just online ads",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2xvd2RhLW9Ra1VHcF81ZTlYLXhzVWx0NHlXQUFsbHc2NFc1TkpOamYzWGlRNzV1Z1hqQUFLdUZIMjVFNHJpVDU1VWN0ZzRyVllOZmZsRVJyMDhLMDVtam42OTlsLVpUbnBQc1J1VjlYekloRW1kNXd4R3c4LTI4aUFzcjJ3Z2FseWRsckVKLTMzRzJtUktMRUZnQWhSbVNuT0prRWpZenlFWWxqWUVmdS1nbWFhQ24ybkNZb1MtbGtmNnEzSXVud2UxcFhFQVJRRFJ4ekFmSXZ4V3M?oc=5",
+   "published_utc": "2024-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Police 'Trinetra' App 2.0 launched With Staqu Techno.",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWV6M3FZcFIxODAtY0NrdmNMRUUya1ZNeWtnc3hLY2h1MDQ3ZkEzZ2RlYmh5MG8waEQwUTduSWhQb1NpekdmZlNSaEcyZU9EbG9VWkl3cXJaY3QzWEJkMGU5SGY1RnhJMVpRSDB0TTNKX3dQLU96aWJuZjRpS3NJbnFHSFF4d1B5dFJLLUNWZ0h0QmU4Vjk4QnhZV05peFBSdDBhNnN4RVY2dw?oc=5",
+   "published_utc": "2024-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dimple Yadav - Lok Sabha Elections 2024: 6 key candidates from Uttar Pradesh",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc3ZoZUhESkloSk9XU0hWTDF2YTk4RWlKVGZVM05URVRHQ3V2akFyT25URmN6SXJPTGRNeG84NmE5QzhHelhEMkxEckZoVmpKRU9TQlp0ekV2cklOdzFwdlhiajBvYVJ1N2poZTVJTkNLc1p4RGpLR1FZZEdQem1ud3pjRzUzbXpmTW1ybWpXb2ttNjRVSUQ5bjRuR2owTUtwV0loOW1DOGgtY1pzTDAxS0xuX3NIellTZ3lUMjFzdmdOVUNKellxMVlKZzFkRnNUMXJqVFZrUEFuS1VhUlNBVXBBVEdUWXU3cFFQNURkUjBjaWQxRENZ?oc=5",
+   "published_utc": "2024-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Railways presses into service 540 additional trains to ensure smooth travel during festive season",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbHVEN0F5Smlxa2FObzZrdFcwLUhFWEZWWkhhZ0NteXM5bV9nWC0yTlJGMmg5bDJqYVpCa1dqRHpRTFNQRTNyOGphdUNLYWdUTDJOay1WT05iZHRRWGtqSkM5YnlfM3Ezd2wzT0t6TkxEd3JsUWt6RE9lVHc4NE1tUzNjd29pTThqVzkxbmVqZEJha3ZPZzI4ZVRJallpNDhtLTFhV08tSktndWUyelk0bkVtWHdCdy1ua1I4dEg5MVhZVTNwejB1cEMzaV9hUzdFYy1fcmRFeGx1cGh2YTB6VTZKZUpmbGRxN2JMbzFfaDB4LTU0OHl0Ml83V0QxOURESkdvTF9xWWnSAY4CQVVfeXFMTkVmazRlWlNrRTVGNFgzVHFDRXBaRHNBOERPcFVfdWUwMlhTQVd4eG81RkJqdU1pMXBvZUpyczZZTW1vcENPSFJOVHQzT1ZKUjNnYWg3OG5hblBPZXFud2V4OVpkLVlSR1ZHMHBHOTU3VnJ4ay10eDUwOTlyTk5EYy16WGloeXRDd092YS1udGhoRmh0elJkMS1YZnB3dU1tRUQyalp2UUVNUWVhSVJyZU5QY3N4QlRyNGtNRVd3dWJ3QUhITWl6Nnd3Y1AtTzVRY0RJNzJSTDBURm5pS040MUFVYl9Zc0xqWHJIXzExb0xJWG9qZlJCTEl2bHRmM0tueW1ETWQxT0dicjREVkVB?oc=5",
+   "published_utc": "2024-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Police 'Trinetra' App 2.0 launched With Staqu Techno.",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNai1FazdnQTVQTTAzd2ZmRERaSHdCbk05ci1ndG02cERrdmZpSmFDa1h0X3g3MlZCdWxmMlRxU3lfVFMzR1Y0THlGQmlsR2F3U2xpcmRrRzhtQ0dpcWNEeDA4Q2dGS3ZIbEIxdHlCX2dhLW85ZzZKMkREc190dTV0bmhnYUs4cnp4aG1GN2lodk1QZ2gtSzk2WTRuUXVrbnJqb2ZxbnVuYzQzRnVaZFE?oc=5",
+   "published_utc": "2024-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP CM Yogi unveils 76 development projects of Rs 1878 cr in Gorakhpur",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeWxKay1OQXgzMjl6dms5UnpOMUx5OFNoc3NxdWpES0QycEg0NGpXWUJGT0lRcVc4M3BwUzBsRUs4WERRUHU2UWdYYnlEUE5UYzNiUFB0RmZrYkZDVHh5V1V0SFQzb2s5UnJQb1doYVFEem10YzhEb3RJN3VIV1I3QjNoTmJJbWpubUJCNXhpWkk4Y3h1WUtkRXlUS0l4WGJuY1lxM3Q0RjQ3OExHRWFYaDVvREc2OXo1aG9EN1QyZURRU3lqOG04bHBVd1AzOHVYemh3MXRXZWsyUEhOZVNsWEln0gHmAUFVX3lxTE9vTE5NTHpzcTRQZ0hUM1NLaExvakpZVlJkZVI2RXNPd0U4U2RfMnNSQ3RIdHVDeUZETUdkSHZVZ0gxRG1LZW5jUWZHb2hobWVRb2ExOWxUWk1vRVI1ZUNVYkxJNEs3b1l4Y0w5Unk3YUlaLXBuWDRWUXhzUXFLX1JEVGFBZWZPZkhMTUpCMHpBUHhwQk1oSzFfZUhhSlMzQ2hPUjl1NUhIeExicENFNmdIVnRkOENYcWd3ei1HV2V5a0Q1cjNNeW5teUU2bHdra2Y4Tk12NVd1MmQxeE04MzNfV1NlTS1B?oc=5",
+   "published_utc": "2024-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

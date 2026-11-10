@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "PM to visit Andhra Pradesh and Kerala on 16th-17th January",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3NGTkF0cDNSU2lEOVA2UVE4RXB4djhtUTFFMjlRY1VHNFBseTNaazdkbFVJSEhBcWhRZzNPYmZEVWV0WHE2UktjMElNYVFPZlc3aE9DREZkYVdyc1lPd21HbTVaMldKMFFERkZoZng3cEJXM1ZJY19vM0NpSGxOSndRMUFGMkdjN0c1VjUwNUJwcERiSGNiS2l6NlU0MWFqeWxFMA?oc=5",
+   "published_utc": "2024-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM inaugurates new campus of National Academy of Customs, Indirect Taxes & Narcotics at Palasamudram, Sri Sathya Sai District, Andhra Pradesh",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TVk5UaGtIdlZ4QW4tMXp4WDR0Y09fV0xjUGMxTFJkMjZ6VmxBZURRNVQyMlFITkM5V0xxVmdsRmxpZGFEcEVQeFV5V1ZsVUF1cmZ3ajJJREtSbzNsUG1yRXpXVXllSW5f?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Behind Andhra anganwadi anger, funding gaps, unfulfilled promises, staff woes",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejJGeEdIYkZDLTVPYy13ZlU2azlrd2d5S0R4Y3h5RnZoa0VlRGZSRkpldkVoamN1SG9sM2w3TndsZVk2YWo1UmEzc1F5N2hQTnRjQXJsNnJkUWJtcUFWX2Q5amE3WU82QlpXdVFJaXBnbnltcm00TkFpY0w4cmJQY05Qd054MWxTTnRyUlYwSFZJc3dqdk9qRmh6bDdnTHVvY2ZkNFd0amctRHZPUmtUZ3E5a9IByAFBVV95cUxOV2RhYVoxQ0s4UlkwZkx1U09MU1lvS3ZYakFRUk1BTU1PZjUtU0xORFhBWllTNHJ0X21jTmp4blFtb3lLYWh4YUVVYW1YSE1wRDd5ODFRMk5zUnJ0MTZRbHlrOEw4UGlFbGVyOWhoQVMzOUtBZ1JTa2FPYS15cFNqRDFudzgyb21tN1N6b3JCMkVzS3k3cG5VX3NPaGR2eGJ4dnVBdFo1RWFyMXFCOXJFd1dGZ002UFMzUTkzTUtLOHJVZzJza2FpUQ?oc=5",
+   "published_utc": "2024-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Govt Teams Up with International Baccalaureate for Education",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEFVTkxhNXhhTjdJTWgtczFGY2gxSVYxdC1KZFdaLVp0aGdnNi1oanBxZWRiLWp0U0tRbDdEaV92Ym0tRWd0ZHlQUTVJaUN4M0x6aXNLN2p0aFZKWlc2Y29xZ3ZybW1IdnF5dGtmSlVESVZQX21aMXVWNU53OVdHSW9yUjBHQXNhWWRvWXlzWlVDdDJqbHJvc2lsME1qN0d1MUtCeFJDbm5MOENXMG1HUTJSZ9IBuAFBVV95cUxPc1M3N0ZOaTB5cUJnMDRvZkdoSzBIbFc1ZnNPTlhjRElyb1JQcV9vMzFDa1RyU1dZaE5IdUNZQTJFNVZ3M0RNbzl3T0VxUmxoRlFXeUJZSjdOdVhXWnhpUmVqYUJjSWtheFVOSkxSLXBBQWZ1ZVB5QzBzVjhBZ0dMTHpjcTJ1UzNwcDBOLWVtX3U2UGlVOWVjRVZOa01UZkNGZ3U4UzIwNWRoY0FfRTJPQ3RNUEhiRjdm?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Case Against Andhra Deputy Chief Minister Over Derogatory Remarks Against Sonia Gandhi",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWWF1VHhiMF9ZelRGRDMwQ3Nwd1F4N2Ezc2VQZUVzUGJYeE9lUkltczZoczlqbmNJU3JnUEE0aWpEWkRtTlc3N3paLVhJQk80V1F6ZGRiVkNXR0NfUnpfMm1hM2k2eVdKLXJsZ2NfVURzR2FmdFVFR0RZOUw0bzFsWk9fNkYwN0RBWC1YT1NwS0c0bTdFMjJrN3VpNV9oWV82VktFYURIc3Y0b20zVnBzejJtQjRMOTJQTGJ0YmRjY0MwNGJPQ3hGckxpRlF0X2NpYl8yUTdleU1kcU1q0gHkAUFVX3lxTE5ncE43SzNXYzJnUnFyaTlhMENMYmZHMnoycmNfOWo1bVNMUndVeXdKZ090aFp2OGxwRUtnT1VjeVhjWU0wSzlvQWtFeEdYaW1IUmVTY3ZRNkt0WXJJbUE5M3RaN0dUTXpXcUVGOTZsQ1JudHlrOFdzQXZwM3h1UHQ4OHVmQUoyUWtiQUxyVXN5TnAteUxOSWF3MkZ5ckYyZ2RtRXZPUXNUVnVQYTF0b0o2VTNBNk5fNVRYY0Utbm1sME9EQ1haVnFQMVBLeDF4SjhPX3RQdHA0Q3VHeFlLM0dFYnd0aQ?oc=5",
+   "published_utc": "2024-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Government Signs Pact with International Baccalaureate To Issue Joint School Certificates",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbXVPVHZVTzhzeF93c2ZwcUZhUjdPdGI5UTlhNDBXZFhHLVA5dlRST2c1Vk0wRkFtMnhBWXZnYWVmT0wwVXU2TmdhNWlYV2lfMFFQdHV6eGVQVmpVeEVsNmJRRXBrS0p0blpUZUQtWXJNY0dNTHQ2VHZOMnhOTjY4QmJoWXZzSTJZVHhnZUx2WEFvcGJ6MzU1VWk5Qm1XWEY0ODNxaFlLZFMzbk1SMXh3OHI1YmFORHdDaURsUy1MeHlUX2RmcExiVVd3bkp3eWZWTmRaam13VWJzOTVxQXlFYnVOc9IB6AFBVV95cUxNS0RDV3NqRWJXSmVqOG1HVVNva0V4Y3lCQ29RaXZZMmJjVk5kblJFTmtmQ3I2YUlJRTJrdDlhM05RLVRtREtoMFV2WjRNZTNvSzltenpmUXdvTFZlNHV1M3RIMDNpRXc1ODlCZ2N0MW5uS05FTXhfV1ZWa3RJT0doaFRnVGdSa2dCZDAxeWtrUU5Nd3lQWG9HWVRWX3pSWkNxOUhwZy03TkJSdkxRVUQwTDJ6cnZNSHF0Ukg1OWRjcXdJSjVwLW80dVdDSE5kd1g0RGp5ejJtMkhMRHhmNHY2bkdobS1wT0hz?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Andhra Pradesh Chief Minister NT Rama Rao's plaque vandalised, probe on",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN00yXzBEdkhFU2tmTzFucWxWdmpjLUdPS19UdnNCNTdwNmlTZ1czRFhDRE1DMXZJLVV3bGVCTVIwNENHTG9ScEVaV2FqamV6SWdNTWZsNURYbFliejlTdFJjMGpfdzRuR2cxODFDZHNSb2NaY0czbGNuc2RoWDBNM1hDNW53dk01WGlTcWpIZDZvZGNjVVFxTlQwOV9MT29KTHlzTdIBqgFBVV95cUxQanRVS3FLRDdBT2dYeWp2WmlENm5pM2FYMUFXYklEVTM1TUp1X21sZExTVTEwY3QxNE1LYVh2U0U2V3UtSF9Qcy1DTlkwRXVMcnZFWTc5WTM2alJod3FjNzBYZVdDU25Jd0Jjckd3Ym9zVDBhVWNtVk84OWtrWUU4UnpmUWhJZzh1NTBITWZscTJrWFpxeWdHUUxhdF94VVVmei1tbWxETjE1UQ?oc=5",
+   "published_utc": "2024-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM inaugurates new campus of National Academy of Customs, Indirect Taxes & Narcotics at Palasamudram, Sri Sathya Sai District, Andhra Pradesh",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUGlMTUtDeHc4dDFOZUl3cUpnbl9aUUd6YWdmTXk0b09xeUpmMjZaWWlxcjYtd3NwWGJuWlV6em9vQmxoSk5tRzlDYWQ5eTBXMWtVcWRNYmlZa0RMX2l5MG9CekNhTi0wZ2dlNU9FYVVTcnVPdjI2NGpKSFZOaFVmblZ5cXdRZEtUem9hLURWcXZaNVJpNDdRS1RnZW9JbGViaVpDREFCbGJoUVh6WktPVll5bG40VWpKWk1qZGNGTjVjYjdxZGpHb2lzTktXcVV0NFVJcGxhcVdhclhWMzNRUURnSXJuQWpmenJNLURvUzlGS1JRQ0d5ckZkelhZSFFfSl9YNHl1dWVZLVk4?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Chief Minister Unveils World's Largest Statue Of BR Ambedkar",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVFudjdxSnNHNVNYZm5pbGNTY0s2WWZJYlhHenJaRXRrODg3UE1fQmUyaFdvYnRwZ2dYOFNDOEpma2hIMW5kaWxwbkQwZ3c5RzhtckVSM1UzRmM2bHZvRUFYNlpZSlNXbm5sYlBXSnpoVER1b1VzbFhfRmFobmFJaEtXVXdoZGZrdjM0VzhjUExQc05IUGUtNzlUV3dDUHY0ci0yNUVyY2ktd9IBsgFBVV95cUxQTjBpeEY1LW94b2xaWW5HU185LTV5S2IxSHRSUHNlajFNemJ1Ml9ORVIzMjRVY2pnbENnclI5WVJQNEFZRWdlSHdnajk1Q0ZqRHBKaUhEWjNjUmpHNHZNTkVzY2FRS3FvNm9FNEVlTVVPYVJ4dWs2TkFFa1RtZGkzVkZFU2xBdzZ0UDlzX2d0dFRScVYzV0JqSGR4WF8xRm9DTmFsTDBYelRhWjRjZ3lIT01n?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Jagan Distributes Enhanced Pension of 3K",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjVDSmF0eTQ3T01hbzJKSHlHZXdsU2VhS0RweFRRcm1WblhSZUU1OTZ5ZFl4bEVvZU93VjhwM3VUcXVqUTNVdURVaFVScHJxMG0tNmQySEhUSHhockZiVlFRd2RHMHFtRnVvbHVOWHZPcGhLTElXMExFZDBIb29JOFhTYXRIeFIzQ2tXZlJaWEEyd285Q0I5OU5oaGxZYkV1VjdudDJWS01NZW1Yb2hIampja083UnJELUHSAb8BQVVfeXFMTmFLMzM1UUdyd2FyLWxySlhtWkpYQ3F2YWRhbXpqRFVubEZoQzd3VWtHektBdkFDaFF0c1JsR1lvenpBVm1QcGZVTTBPT3lZNldJa2JyUU8zOHpJemx4V0MwejQzajlzWnJwM0draThwUEdwVC12Q3dSeVhJcE5GWDhCSE5MVXR6dmxsZmVaTTRZTnBxWWpJT0JlcmlMMTRxajBJdnhTMURBZWg1TjQzQjdiNDMwVmIwSFhQYlhQU3M?oc=5",
+   "published_utc": "2024-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

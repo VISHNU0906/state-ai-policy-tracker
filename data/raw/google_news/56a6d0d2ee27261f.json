@@ -1,0 +1,77 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Telangana progressive data centre hub in India, says KTR",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVdNaWVvdWJ1Y0hSQy1Hcy0xLWRfVFBjaGdDc3lPWDVVY1BHVlRRTzBMZS1Zcm1EaG9nTWdFcWg1NVBwcGc2TkVwMVFuNTBfRWMzeS1KTW5oaHlNX1lCNUtkUWdiNmtuNHRMam1tX2lIc0hNVldZbVJSRGY2dU1hc2RKQU40MTgwY0NNQnc5eklYcTNpT1pzMDRuZ1loUDZtVjFoVEQzT0lCR3lJX0RwanVtYkNfNjJvTWRmUkZrTdIBxgFBVV95cUxNWmtEeTVWYVlhTmlKb3lveUx0UThSOTZRUTVzNUQxQm1USE9idVFqYnZoTFpuMW5IYmhhTHd6bXgxZTUwbmtfYUZGS21taFlYeWhYNXdfVHVWVEttM2tvZ0MzU3FmT0o0aVVnTXJQaTNZRkVIZ0Q1YXI5TmhaSk16VmhrUVZtd0N5Qy1tVDRIYW5QYUViQmFMOHZPNXVCWDJxdWNLOEl4V2ctRllxZWJjaWZWLW5VZXpLSnZhekVsWEFONUJvWWc?oc=5",
+   "published_utc": "2023-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad bags Rs 2000 crore Airtel hyperscale data centre",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0dGMm1lVWtRLW5Ybmg0V1FVaWI3VHFvQmNQS2dWc3JIQlhZX2JzYmV3U2g0YUY5VXFIdUd2ZFk0VGlfRlk0TUs4MlY4X0d1b0RiWXhGTmx1dmdGMk9FMDVDZnlNZEFYc3pER0dWVGVHOVY2Z1k2dzFWX1lha2hLQkx6RUExQk1rYWtYeE5PZF9xZ1ptenR0QWhHalJvdzluZHk3dC1ZNTLSAbYBQVVfeXFMTzVzeWlWbVNoZldueDFBcWxLOXYzT1Y5SUtqR1E1dlNfOUNhbDk1ZEh1WlZUTmZyR0hDa2wtcUJQeUtEM3FUanNmLWRkcm01OVZkN0N0ZGdGVmdQc1dsTVhXM0tYTjdNRzA0eVQ2elpYWVRkN3RSTWZXYlh1Y1VhNEFSM0pvcW5acnFiMXBmYzd1VmhBY2ZoUjBKU0ZiOUY4YlptdEtDSS1DUW00dDRDS0xqMDlIQ0E?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft to set up three more data centres in Hyd",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGYyNjA4MzdUcURBbnYydVBpaFdKWnkwdVRoMEU3aWhHWVh5NkhlWDA5SG8yQ042VncydWZKLXJJSElEbG5NSVVKYUFDNGtaSUJCcWd6SmhxblI4Q0RneERCV3g0ZXdtV3lpUEd3LVFMRVg2WGdsOG1mWXYxdXpxMTduZFFOYkV3dXc5UHd2dTkyTW01M1dSb19STWJRY2NWTWl0VDdvUGE?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Airtel To Invest Rs 2,000 Crore To Set Up Hyperscale Data Centre In Hyderabad",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFvU2VVU29sd0gzMmItUkEyY1FBMV8wTzdRRDNmZVNLZkVxd1NCRU1wMnh1MzdJbjhjSkVQcGxFRUdyRzlvVlFhZW5PaGxqMWNfWkJTU0czamNYOHBHM3c4czdCOFh2ZHY3S1pHc1JFVS1sZnRHbDAzNmdscHF3ZTJZTzhxcXNodHVjUWpidG55UzhSWURBVGxOZHFIU3pPVl9mZ29lMVp5LUlJX3fSAb4BQVVfeXFMUDQ5MFJuOFNjU2RycGZkbmt6cndYMkNiaVFhOTh5WUhjWmM4bDk2aUc2ZWRMVlFCVW11WG90RmRxMmFUb2pXZGpfU29CZkMtSlB0ZWJXVjRWUE9Ya2EwSHRrcGFSeVpObjUyTy1zRVctVGxRU3Fsb3VuUXVCemtNS3pLcHpodlNQbU4xa1N4c0lLWDBMbzY3b0ZVWHd2ZG14SjBhNHVnTnRYUDBHcVFYSE16c2NyTXIwWWFZVDFBZw?oc=5",
+   "published_utc": "2023-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amazon ups investment in Telangana state to Rs 36,300 crore",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDBtdlZpdGtvNXEwZVh0enlxYTIwbGIwNHBDMjNTWnNOZGQ3WV9jT0s2R3RRVUcwaW1XVHVkNHU3ZjdRVDVqQm1Vd2lsQlhHTVd6Umc3QlBEbzQ5X0tOQUgyamhyb1dCUUpqN2s2Qm15N2Fzd1NlaVhvcFJIMXM1SWZMVWZPdmRlZ1dHOWVzUGpjN0xJSmxUajZVaGRRT0hqWjZiNUd3MVRfbFVpaWluMmpMX0s4SC1WRUExcXdrUVNrM1oxWHV2T3p4SdIB2AFBVV95cUxQT3ZTd3AzTTFTc3lkbGEwLThuU1hvZVFmMVJ3UWdZckV2cDdRN01vVTY5OEYxVzcxYkRjUGxIMUVwVlRacURPQ3BpOHpGMnNLYlJhZnpKS29uSTBEa2xKZjVLbDBxcUoxUG8zamVEUVB1YUFXbDdUNUtvZjg4Qzd3WTRmZ2Z5RnFtZzJmcEh0UjRNODNoS0pXWGcxYkJ2X2FYaVNmSXA5Vm5QLVlsRFVlWVVEd1FjMDQzWXN6QlpwM0s1SW1NZlc2bkk0STgwRE12RFpURDQ4bUs?oc=5",
+   "published_utc": "2023-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bharti Airtel to invest ₹2,000 crore for hyperscale data centre in Hyderabad",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWHZIMFYtb2tKbjl4U1hDYU52ekJhalEyalZ0YXBmV1E5SjNkZEpKUVdVNGY0THl4MTlvdmxXaWxvalR5RkRiWHFYQ1Y3bEkzckhkUTZIb3kyWDdwSmxuT0JJalpmU2RZM0p6SGpGaXNCdVViSzR2V1F5aTRXMFRodTdPQl9aWGFoWWFEZzRXc3FCRjNZLVpzMHl5Nm0tQmNxbTN2VU83YWFWRUVUam9ZTF9vYmdyTzkyTVQtb2xDS1lKQlp6bThR0gHMAUFVX3lxTE5nZGExMm00aDVGYWg1WXJfSWgwQmV1eGhYa1lOekF4X3NVUnllUnJXcktMVkVGZnIySjZuZ29TWFVFZVBldUMtd0RuMFdkaUdZOVBZd0lWbnRETUF2aWN5R2p0T2VLWXdGRDl4QURUOW1ZU0dGYkJPM1E5ZFNTbjZOTTlTbzVqLXRtbDVJbTIxdHBBU0ZvQWk1MFI4MTlwejBGa2VsMEVzLVpQSW9ULXdwN0NBZlNNSHZ3dGtrU1IzNnQxUUlRWkZUVzIyLQ?oc=5",
+   "published_utc": "2023-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft plans three more data centres in Telangana with ₹16,000 cr.",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkVfMjV4Nml6cWFmX0RpWERHb3RFY3JzNU81UzUxaTczSVkzWm5MZURoakJISHN3MWpaWUdDaG9SeWVlQUZoUUEzMUxSTTVWYXZMVXdoSHNfdFBJbFFVSEdDZXFwUDA5THNLakVkOXFFZ1VaSWdVMERmRHU2ZUFKbXpTT1hSbmVsa2pNMklLMlBqcGdCYTdqREF6NHZCRE94aDZCZTh6Y2JHSldKb01jTEJBeG1xYXo1Ql9oUm1fZGdTM3I4MjBBczhSNDJoaWFM0gHXAUFVX3lxTE9YSzdON0pSUVZQdTlNRHEyQ2t2aGNLbTNsUFBQcHVhLWx0bGxZYnlIV2pBNHhEV2Q0LURyQ05hMWxEcFJYOXFMMlhUSkYxTnRLOVY5eTlUWGtTTDd1Z29mckZRZWowOGtfNW41dmxlTExTMXhFR1RjYzIybmFmMkZNTS1BS1U3bzdCTTVzZ210Zlp5U04yUXZTakZkVGpHUzZBYW9FRktoYzR4ak81djBEZ3VqODcxc0p5bTJrTXhwdzZWc2Vib0dDZWZrV2U1RmJfRnYwenBZ?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft to add three more data centres in Hyderabad",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMC1ielhNNmJCdXNERWF1d1RnaFh6d3libFUtSno2UGxuUS11MF9UQWw3T3RCaHg0b2twaUxtekhLMUY1bHhGX2hxVG5BMFRQWTJKaGpXUHViUm1iRlZ0UUpDdXZkUzE3Mk04TzJsNk91bjYxZW9GU3B5V2dYRnRCeFFBczgxQ2dHRWxUbEVtVlZObmJLM1ZuZkln0gGnAUFVX3lxTFAyOEVQNkE1ZnRCd0NCWVp0UnNjbmVyQ3B5Yi1sU25TcllMa3F2ZkVBWFlEb1NGdnJuNmFLdXlYSTNwb0RwUWhPTVNTdDJ3aVJvZjdnNEVlc1FYbnJBaGtTak5PaGxRR0lzTzBfWWhhWDE4aEtFZ25WaVRZQm5FZUk4LU1FV1VPX3dMbnc3TVJIa0M3Q1pkNWV6aUJwdDVMRHVPT3ZXQTFZ?oc=5",
+   "published_utc": "2023-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bharti Airtel to Invest Rs 2,000 Crore to set up Hyperscale data Centre in Hyderabad",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzN5NEVWOU1vMTRzTVY0a3lybENtUTlWRkxiMmNmZ2p2TkQzVmhUSGpzLU5ueXdxb3FnN0NyMGRGQjZ1bkxFYXZEMExDSE0yNkRVYmR4RXp4Q18wTjJwZW01SjVuUGpqN3dsY0Nub1FCRVdpdS1HU1VUVTZFbjNWSS1GOWRXLU9taXZJZTZtTVFKSE9yWXA2ejE3bjFuZk4zVG1ZZXBEQ2g0NlEzeTlUYVQ1ZU5QTWM5T2xv?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

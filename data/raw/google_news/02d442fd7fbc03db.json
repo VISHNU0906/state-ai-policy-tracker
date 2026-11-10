@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh sets ambitious goals with Drone Policy 4.0",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQXFZX2h2d1FvQlplN1BicTRtSWFnbXFNdUZXd3RWVkU1dDEwOXRXRXR0QUl0MVl0aDZHc1Byd0V1czZFLUVrc0pIVS0xeU5FbDVJUnJfcFFyYUZmeDVYNnJqQTV3TTM0TWFzTTdoN1hqWU56ZHl1Y0Z3UFpFRHF1MnJpeDdSRDJ4M0V4aGR1X3lrUmRmSEhlZDdWZjRXTUF4UEJad1ZNUVNzMm53TGlpRE0zeldnQ21McjBjUnZicllDa2hsNEx2bUFn0gHQAUFVX3lxTFAyZXBRUWNkZXNiel9FbzQxX3g3MGd5UmpremVBVmxaeTZfQTNUQWh6M01mSDlxMThNbHFzQ0gydmxxNWJUZUhoQXZoQlVzaGlwS3g5LURlRzZ1VE5BMzcyMzlfNjMxYmlDTlJCdG1td0RmLUp2YUpPakp6YmxlSGE0LVNubTM2NXhOR3BZUzREVGkwRkktM0NoS09BYlRCR1VsVzVtNTc1WEx4Wi1hMHowdTB6NGJZNHRFVWdNaXNDamtNRnFLd0lpTnJlXzVvWXk?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Budget: Total Outlay at Rs.2,94,427.25 Cr",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0hRazc4NmRTdElBS1lLNVd4X2g4QVZvRXByWGFaVlZaVmxvVEkwRVNyY0ZmRmtYMmwtYWl2SVNGdHJRdGRyemxMcGZ3b21iZkR6ZnJUMGdmaDlMaW5vQVRBOWxvTWdRQWRaQWU3aHd6WXZOTjhjUENKbFd2UTR0eG5DT2NUQkNJU2kxdWJoRzVPVENEUDJqZ3puRUltMGFkUmdQcHE0eDYwbU8zbTAtZVpmbFA5dXVYa2loVjRKRTBpLXFocnpBQ2tQZlJ1NnlHVFVBcdIB2gFBVV95cUxPQk0wbFNpZjE0UVB6ZW55eDJpZkRnVlEwOHo5TzBVYlBDNWRBcUppZkJGY2hSbm5pQjJ5OHJ1cC0zamQ5cmd5TmpOYWFfMkFhdDV3d2FnYWxOaXAzbnQ2SlEwcnRXbVpTM0k1MExLTmFhbTNaTjBtbDN2WjA4LWU3RW9EbEFER3E5Qmx6cHB5anBsODJVMGU1M0MwZXNLWEYyWVh3VklteVJ6djNKOWZINV9ESm5WdEZUYy0zS3lCZWlDbGRWNXd2WVpROGNZeFl6TVNqb1VKM20yZw?oc=5",
+   "published_utc": "2024-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RIL to invest Rs 65,000 crore in 500 CBG plants in Andhra Pradesh",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3RFVWtJa1hBVzlZM2J5TUdQTTItUWhyMVBoeDByWmNwczg1Y0p0cFFCMVRpeWdJVWpjQXpfT3FWbnY5NjktXzl6OHQzemRUTUk0M2JPWDNNdnQtYm0zcVEyRmlUU2RuNEgyOHdVRDR5U2RGQzJkXzd5YmlEYmE1ZTJ2RFo4SlFRX09uSVVsc0xxdXZSQnQzNUhsQnVEc094bDIxTW15UEc3MDlIUktVWWRoRTdMZmJwRmpVWFliNzhGVU9Wd1VaOTFwMktXVU3SAdQBQVVfeXFMTzNmX0tMeHJua0JBZXlWRHFlbjdxTUpQckJCdGMwSTNfZVlzVnFFTVRJSUsyZjVOVlNsalJTTWE4UU80OTljWUNIbllqSkI0S3NhTmlGUFppQWttYk8wdWN6NTVJekgySTUxaTlFakFYbXQyZ3BZbFNZV3lUMFdjeUdwMVlSQzY0RGpRR1hmOEJHc3I3dk5CdjlBbzZSbGFlaWItQkhENW5NRXpCTWtpODFNSWpOSlhmRDg0bkNBZlRzU1NYYTJvVTJJazg2b1Y5VUZYTU0?oc=5",
+   "published_utc": "2024-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 750 crore for Panchayats soon, says Andhra Deputy CM Pawan Kalyan",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3RObG9OY1hxMzFkN1liM1BNRkxWVnZvYTIzdHViNV9PWjZVZUt5ZkV5VHlSMGtRRUZ3ckNGTGkzcHRoeFZlWExfd3RJRDdGTU9ZSlVrb2VLSmxsVHdSLVZsQW5fY3lCVnN2c1V4OXlXMXd2dHVHdmhUSlJvb3habTd6c2djOEVoMEJxV1FaZkFqT1V0Wl9FZWV3?oc=5",
+   "published_utc": "2024-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh revamps anti-narcotics task force 'Eagle' to fight drug abuse",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOV19xR1ZINExxRTNYRFBGYnd2YVpZOUxyU3VGVzNPVWFyV0JvRDU3OTNKNFhENGNfdjl3LTZMd2ctV3pPMnRUSWFzMkpsYWhjS2l6TGdBMFZhd1I3ZmlPckYteWUyWEdiUlAxbW1KOW9mMGd6ZS05RUJYbEljYmRiZmZ6aWZCT0JzemlkWW14Z3lkQ3JJaHJSRWNMd2F2cXFSX3pFTVNRb3VFMW1ybG9yNUthSHFQeURWc0FZekhUTTl2cGJMUURPWnRId1VCMU5KUnZzaFJKcUd3c053c3NMdFRUXzRSbDAtajJrSzRtdUctRExLOGpvSk9YM0w3TzFwUmg1QXJweWlxOW_SAZACQVVfeXFMT1NSTEdKejlqOC1zSHphMklCY21PY041allYb3VyM1VGRmFRTXRtSDZXdTd0ZFkzbVJTc3ZJTWVJcllKSElPVkhPX1U5SldqdE1YRHZRX0xHeEZlZGNONWFITzktWHV2UDhEVkpudjg2WEJUSl9lSHI2Q0RZVjBsd2x6NW9QS2QzbVYtZEVrbERIUnpQLUg5UnB2TWJ1YXJDZ2NLRERyQmRoSzhlTEZheUlWd00yZjlzQnZhOEtyT3RaY0tQS2pZZzMxRWx3U2FPZVFyUDZFSGpwRXEtQXhDYTJHLWdqWkJhRnplUFk2VHFJQmtjY09XSVgxWWFZeXRtX2R2V0k5TU5JYkFfallabWo?oc=5",
+   "published_utc": "2024-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Atchannaidu presents ₹43,403 crore Agriculture Budget in A.P. Legislative Assembly",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2RCXy13cGVWUjhDcHBIem51R3RielZMWlN2a0xRX2h3SVhmbjVJcUcxbXdNLUNLUURDeGlfVGtFRVNfMWdyTmc2c2xqMGo1V1dRZGxTLXZsd2NRakUyX18ySFE5Um5kUGZOOWlnQlg3ZGJWazV4UHpXSUg0b2FzMXp5YUVTdDZlRTZRZUI5Y19xUjF6ZkkyTmRWTmhDQzROSUtSQ0FLMHBaVVNOTVlMMHl1QWNxaElwWl83aEpiVm8wYnZkd3cxbmxlNDVnNHFiSlhzMlloSFZCWHdpdDM5MkZ2TXBDMFHSAe4BQVVfeXFMTkM3elNLOGRvMGx3XzF0b0Z0QjA5Vks4dHdfbWt3ZlIydVZZWDYta0RESWNaZjcxbm5nVUpVNGhFTzQ4aE9TS0dBLVlKZThaQXotUDFkM05jZEZCTEdwTXZZanoxSDVBR2w1blMycFJiVko5Z3pyZzl0Z0EtLUNObHRSS3VKYnRWZGdlTTVfSnVlY2hjWVFPUXRaYUZqQWFVOTVIU2ttSUdkN2ZEU0tjaHdhcXo1OUhYd3ZuSVBTVFlVNXRxQ2QzeFdGYm5VRUdHNUlZb3F4TUdaVU5ZZloyd3lCdF9LSmNxNmEwMTdGdw?oc=5",
+   "published_utc": "2024-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "APFDC, ISB, BIPP sign MoU to boost AP tribals livelihoods",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzhfM3hOcWpUS3B1UEs1Vlc2Rkc3cnI0NlFXX1RWSlhVNXh5V0FaQmlFaE9qZ2JTaVo2MTBUUGM3RUVkUGdMcDQ0aGpBVXF2Q3M2bU1MSW1MWDBxWnZ5cWdZel8tY0lTTjA4MDJHZ1dHTUQzSUtrUmZmR25qNEl2ZlhQYklEa3VVeFN0WTVEVmw5dVRfS28tbmxvLXlXZ0lvbkxISm0za0NmMVNtRkNCRE9rMlJRSGR3cUtmMEhmZHBHd1dh0gHKAUFVX3lxTE0zZ1BpNWhjNjkteV92MTJKbWtsN0FESXJQS0hiS0NEb0NjZWRGRWpNWUZGZmVqLVVSQ0lvZnU1c2owVW9jUVh2enUxSVZfVldxc0pDT0s2bVlYUzNmZEs0bExpMGRSY1IwX09vRWRGRG00RVdYSlkzQlhhRk5SRzI3S0Z4VG9nREg4UHVBYTZ5QURkbVItX2dfR203ZnR4V3RhNU1XeVBReGtUaEZ0MU91UVZUbndrako2MkxtWElpdF9lNE5RQWtQbmc?oc=5",
+   "published_utc": "2024-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Assembly Sessions from November 11",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckxjbVdFRWlFaDZ1VDZyMmVtdXNZdFU3OEduc3lEUHgxalVtTHdzSTItY3U2azFGZ1YzS3FCZVhqN2VlMl8yUHo0Wkl6WWlVRlhyeHlEdFZDOG1sOEZDdWRIdGZ5c0xua3pVYVluZlMzWS1sbHRDUWVwem1jdHRTMHNNTzM1UzBxOFlEdjNSYzJWWGg5YWRvQXR4MnpNLXlheUkyNFpXdG1SOXY50gGyAUFVX3lxTE1Zc1cySWxXVEg4cEJxd2hMTmZKSHBqenNnTklEVDl1b1djX01NLVpldURKU3djdlZoWmRybFgxVDkxbVRhLVlxcnNyLWpTQXYwaW5NV2h1U2N3aVdLclhaN1h2WkZTeTl6LVI3V1VOQ3RCRzZUNUVWendxTmRvU0dZZ081eDlmSEc3TWhEdG9lZXJ0eERvMXktSF9UdFBoa2xlbjc2UmdTODhFTDdwMzZ5TFE?oc=5",
+   "published_utc": "2024-11-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rushikonda tourism resort's total cost was Rs.409.39 crore",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTlVxeWduMk80TG1oUGM5a0EteGZiRDBGZEdPdk5OMVhjVEdpYTF4RnRIczl0d0h6V09EZDRGc2c5WU5xVDNrNnA0Qzh4dHZNcFVWZVR6SW9NeUFiLTNvQXJYZVVNdnlTNEpvMzgxbEF4VUl1RnFBRVl1OW55bXd3dUdzY2pvci16RHZWUWlrSXh3UXJpUjNxNkVncWZFRnV4c3FwR0dFQ1RvQl9Mcm5IX1hLS0luM0E0QjhwcFlOREh1YVZG0gHKAUFVX3lxTFAzNEJGMnZIWDlSS3NBREpNTUd6d0NLdEVlbXEwVGRTa1F4U1RGdXE3bXF2ekp2VG9YbHhBN0ZQX3hhMTZacWYyX2lfWWVob2FBcVdpT1YzeDg1UkQ3ejhnVDRMQVlEWmY4SnpxendZaWlHaHFWdnhXbFdSemtVZkh4WVh6ZGVvakxlMFVjMlFQTHQzZl9qRnFWOEFoOFFUdUR0dUI0ZmtKT3dXclNHQVYtamc4SDREOF8wTG9VNFdmeTVWek5nUGxmRmc?oc=5",
+   "published_utc": "2024-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Top 5 reasons why data centres need to evolve for the future",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVp3T0NYYml1X3A0eXhNd0M2NHE0aUdNVS1ISXRmakhVNUdnaGpEaFUwWks2amdEdmFSaEY1RGItOFNPTVZ2TDYzNVlNeDBTUFFLZjZITjl4V3BLTHZDUTc5WXJyaVJQTHpvSHlZUkF3czgxZHhPbXhwQmt3cWJTZm9Kei1hb3Z4eUlaZmZlUUJnclE3TENITzJmMTlZM3ctZVE?oc=5",
+   "published_utc": "2024-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Microsoft acquires Rs 520 cr land in Pune for data centre expansion plans",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYXlydm51UzQ2X281MllmQk5pa1VVSTdGUG01X2dvT21WRFhGQThyS1ZzSlRnM1R1aUZieVF4bno2alJJSmx4SFpQa251blZUa1o3NVU4Yy0zMnB6cnBmRzktbVI1a3RNZkdrUU9lX3BDOXVXNk1kdU11RTFiUWdRRUMxNzgyUXlhRGJ1a0E0ckd5MGRIT09rXzk5LXNLcGpSZjNSd0ktbElfc0ZaNW9kb0JzQmtIeTJlSFZtQkhFMkVSOHNqakRSZ2Y5T3dzMW5FYk5FbGJaS2dpZ9IB3wFBVV95cUxQVjlpYlRSY01leTluUHJad2xYWW1XMk9ET2JCV0hSSElVVHBodEJaMzRBeUpObWVFNGxIODZWbG5ubTZaU1o1S09wby1FNEZoY0FJY0hYU3A0amw0QkNUVWJxRFVVOFRSa05pbGVlck1fYUpfc05FYm8tM29QbnJUNm1SS0FPS0dlSWhlcTE5cHVvdVZJVjBlSHdYSG1GU09uTE9ib3dabDlwUkE5YVNDU0RYb3FLcU9hRk1La2dHZ0xyX3Y0QTIzYm9CYU1oVFRHLUNQOWdUQ2ZsWWJBRHNZ?oc=5",
+   "published_utc": "2024-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

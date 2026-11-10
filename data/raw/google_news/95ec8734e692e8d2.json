@@ -1,0 +1,37 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Social media giant Meta to establish its first data centre with Reliance in Chennai",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0pJOU42YzhaR0hkTUdlenBuaDQxT20zMzg2Y1hvZmR3czV0MG9RRXctV29iUmROUEpBeXp2ekRpTm8wWHpFdUZuekFfTGZTMTJjRUtpRDRHR1EySXVialp1cWJ0NHhOemxlbjJxT0tPVVk3WUV4LUh0dHNvNGNwWWMtLWJTMEk2SXZIZ2NlTnVBd2F1RktIUGlVS3c0UU5peEFsa1hWQ1o3R1E1bnNsM0JCcWdqbF9VNFN1V3Z2LXo?oc=5",
+   "published_utc": "2024-04-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha government sets up informatics centre for water management",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcl9rMHJqNURPa1FkeWU1czRqM1dhY1dhUUcyRVJXOHU3b0RaZXZ2MXhXX25mZjdVYVJDZjJobzN5Q0dlN2pYQ3V6czdZLWFFRVhRZ19kdE82UDB3aVdVWU5iNl9HTVY5Tm9DcHRsci1ncjJSWEh2aXY2MFNoQnlTYkwwWGVsSUo1V3Awa3FUakxkTVFUdWJsNzYya01FNFFKa0tPQWU1ZGpGV29Yczl4VnVUY2xwTEN0N25vQWtrQTNiUdIBzwFBVV95cUxORWhKN29lOFotdUh2V01iV1RBWEZEQ1BTWl9ZVDVsUml3Y1dpeGxfallJekREc1BrcGVQX05nckhxU0FuVDk3S21yVzE3RW1ZMWxpTUV6ZXBqYVNYWnJxd3ZoTnlNbWxIS1VhZVhoUXR3eWVPMnB2dnNRMmdnekJtT0R0S0Y0VzhiNEw3SndQOXdMcVVnRWh6SXd2RkJKdURLc3lpdzVwTE9iY3NUdWxBV0hWZ3dySjJMS2VWRHg1VXBHUEVWdVI4STRpNGtmTHM?oc=5",
+   "published_utc": "2024-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AdaniConneX ventures into data centre expansion with US$5 billion investment drive",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTF3NDZfNE01S0sxUjZSc29YVHU1aUNJUDVFa3lYYVZPS3VOUVpPMkRTMjllTHEyQ1ZJaXRGVjh5cGhzbVdwMHU3MTBYcHZDVzVEc3FkM19WTXJjeE9MTG1vR3k3Ykd4UXpBVGc2eWJGdHVzZ09DUlh4WFEwcTRPVDNBQm5oQTZocXBmakZkQjZiS0dLQ1JyRFZLbkdxSW14dGhUbXBRNzJNS1hoZmN0Ym0wWERyMFRNTk5KLXJR?oc=5",
+   "published_utc": "2024-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Another deepfake video of Katrina Kaif goes viral; internet stunned",
+   "source_name": "Odisha TV",
+   "source_domain": "https://odishatv.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnkwcnkwVGdSTXJ3bDF2WXNuYndyWHVYcElHUW9KTGYwN2tJZDRLeFlXbkJ0V2REZDM1a3NoQy1taGdqc3NQdlZLQjBJNjNVX0tYT1NwSTJkbm0xSWJPQW42S3BwT1ZMY2RkS1BZTlRYZ0NMbjRVMXl5d0N3cm1yMThVX0szMHZ0dkpLeVlLdWJqTTdWNUZpWDdUcWpIaEdkclY4dFpHSW40MVpFUlJhbGx30gG3AUFVX3lxTFA2S2d0VnVCcnc3bF81ZGpSU2x4T0dwT1FPeDZveXM2a3RhSEdrVWlFejFtMHhUQWRGajdMS0ZtS2JyUzZPOG02cVVuRkI1c0hLY1VJRkJZcTV2cmFMdzNwaEdUZEFna1hUWnF5akE4eHhKcW1aR3djeFIxSjlPMWNwNDRDSUUyeTA3SkdCVkphME1uZzBBcFhBSVVUVEsyZkdLZ29tYWNCOE1ZU19wNXliZ0F5Rkticw?oc=5",
+   "published_utc": "2024-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

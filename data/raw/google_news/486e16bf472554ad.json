@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Centre of Excellence in AI to come up in Bengaluru",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeG4yYWxCMzAwWnJFeVJ3WFdiZHN5RGNVeXpZRWV3OGpCTXY4NnN0WXFyeVk1d0x1Vm1RWHBWWWJPcloyNXBBT1JaRVJyb1dKaU9PbjN4SW9vRjRJYm9TbWRYTjBuX0llcThtODNEeHJoNEdIbmNhM3k1dGxLVFJyVTBGajUwTVJ3eGZhbDg4ZnhFbGZ3SHNXejFWcnlTYmR2QXp1bVhhc0xMZTRzUGlmajZjbExUMEVx0gG_AUFVX3lxTE9RQjZtY1NhQTRHSW9raGVxVjl5b2t1d1BuVkxaYkUwYWp4XzFvWjhUV0Zsc0UyMk14WDdmamZWNmJDOVNjUEVJTHhYU0k3b0ZyUWNGZ0E1dVREdXdjenZEZlp0b0dFcmNnMXVHRkpRU3UySVNHN3JzejVxNXpvbTdoNkFZUXg3RkNFVFVRV0RvU3dTOE5wTndFNUwxaUxsampVTnRLU1U2SFFYMzJXMF9qMmVSUG5ZVy1BNnM2ekhN?oc=5",
+   "published_utc": "2024-11-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bengaluru ranks 5th among top 50 global AI cities: Karnataka IT Minister Priyank Kharge",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2pfVjdlS0h4aFJVOUsyZmh2YldUam9VdkxrSUhHTXp3cEtXLTZSMFMyNFpOcWhCUXJsMG9KTDRFRFM5MHpUSUhmZ3lrNG5hR29PbVBXdXZ4X2l6Skw2ek5vc2tmWVNGcW52X2FzdV82MTRFY1U1dDVRSGQ3YkwwVnNjTnlLeFFLVDRVbUlQOXRlWVVHd2FQM1dJXzZSOFIyd2c?oc=5",
+   "published_utc": "2024-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka to launch AI-powered land registration system to boost transparency, revenue, says revenue minister",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZkp1eEVSSXVNLTBYb2Z4VGZPUkpiU0RFU3dHSkFDeEZLcGNoWW5MT3pZQl83Mno0X0hBR2R3aVNudkZ2ZEoyUlAwQkxZeW0tSEhVUXA1STkwX1Z3N0dtc2lPcXNHNG1mSVFGWHZBd2pIZzd4NjRTVl9EZ0dBcm1QeHpZTEd6eDladHV0VDY1OTZYN3FwdGg4YWZuMEVXSVlXbE93LXlvYkg5UWU2RHk3cU1ZZWx3V3Vfc1JZZlJFQS1UbDJ1MmNmNjByTWFIZlAtNDdleFlMSU9SOC1GMjFLaHBTNmJ2WjlrWmFWNTZ0eV9yemJmNkVuVW1iWkJnQdIBiwJBVV95cUxPZ3FQaDlGMFAyX0Q0bDVJd25MU0J1dm5oZlYzRFMzQTN5aEN5MUtldVBzTXVWTnhkWHQ1LUFnaFZpT0tJMWptbHl1MV8yeTZOcTRqeUpfdWxuS2ZEaThic3lja2FRZUlobGk5TTM1N2FHZVlRSENKVTdEY3hXTGR5UzlSUlp1SEhnMDZ3ZU8yZ0ZlM01nVlQwT3NVbXNiLVJSX3lFeEZkRXh1T3M1RXo4VW5zTHpYX2pnMFVGQmJ6bGxuMWczS3hyUHRDV0MyVG8tUkVFWEk5WmZtRm1VUnVKSzc2LWlfT3lxVVVIMXlBS0JjS0l4aC11UHRlUGd0alNZWktUTTVUd05mN3c?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Govt Orders High-Level Inquiry into KKRDB Irregularities",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkpHYXVKYTNCYTBSWDlPbjc0OTJTcXBYV090T1A2VzZZZVNzX0RLTE9EUnlrblBYQl85WHBQUU0tYnlYRlotcGJxR0dHQzdxRDNqQkplZzhDdDZEWmZEa3hKc3IzdzFpNWN6YjZnRlVWbnJNQVIteml2ZTRfYlVzNWFsZ1JGMXI5anRuTS0xNHo5S3V1b09weUNscGVDQXhLRXBCTXhuMkMtUzlTWTZ4dDdHNndsRWpaV3ljSmpiNDlXYXBscE1FR0FhR2LSAdIBQVVfeXFMT21CREg3MUk4aVoxYTRJSzBic0JBQVBsa1Q0YzY5eFM0MTJwbkQ4eDhFVnQ2QlJjVWFIYkJLQVI2SU41NU5WYkpkb1R4UVExX2p6aURRcURmZ2U0LUhGdHZURkJHRjU1aTA0eURYenpaeFAxU1VjTTJnaWpidkhJZXM3QXkyQWZqc1FhclNpSmJXMm9VWjJrWHVLd1NUeUJ4eUVvcmsxQ1h5VlotdmJZVGZLUEZvdGhYa0pkUU9iRVkwa1N3cGdXSmk1blFaTXBUdmxn?oc=5",
+   "published_utc": "2024-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt to establish three dedicated global innovation districts: CM Siddaramaiah",
+   "source_name": "ETHRWorld.com",
+   "source_domain": "https://hr.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOVZnMElzRVBHSjcwWmRZQXhSTkNSdGJhWkFMR2liNTI4TEk4WDl4VGlzVUFuZXYyX3lodTB2NTQ3SmRzV25aWGlEb3hrb1ZHRGZqSUxZQnRnU2pPd1gtYmdPWDAtbElDXy1GUGJvUlBkdkFleTIwd1UtRFRXS0tfaHhWVm1IblZvNjk1VENxM3RWTU1Rd1kzS2dRVlZ5VkFCZzBnVTcxeURYOVFKQ29mV1hoSGwzRmtidU1WQjQ5MG5la0JFaEtJeTAxVUJqeE1CQWxVWFB0dDBDZ19idTBBdmlaYUZtd9IB6wFBVV95cUxPNjAwTmlzYVB0OTBwQUZsdGg4b1ZRa1MzUjdmTFlqQmw1U2xOUUlCLUpRd21xUzJubFpHTm51NVFoSUlUaGpFV2lCa2pWZnJLdktwQldoREFyamVoTm5qelY1S3VoaHR2eTMwTWNfUWNnRm1lVmdiOXFmSDB1b2FFQzdTYlhBOU5wQUNFZFlRcGNPOU5Kd3hnVDVuWnAyc1YwaEtkRlBpd2ZFTS01LVpXRWV4RWRYelc3Zy1kRzl3MnRJWG13bzFzMzJaRjNNbG9odlI4TE5kMzVhbEhvbERlMDg5U0ZzWmRJVC1z?oc=5",
+   "published_utc": "2024-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IndiaAI Mission to boost Artificial Intelligence",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTZGZ3M4OFQtVnZUUnBJa0RYWmR1Q0QtSUlEUV9rUGU3bHNvdVRLZFVvSzk3UlpSTzVNQzhFeU9pcmdxM1RVelJtRk41dnZodFd0ZjNXaWFKRmNKQVB5RHdyTllHa2hkOWhDcmhzWEtmS1hJZGdGYVVRVGdfbTU5aG95Zm9VaGNjTmwzdjdYV1hzcjNieDV0cHhtcFZnTDdheU1RR3JKTVRSTzc0NmNCLVpKZlJHWkxK0gG_AUFVX3lxTE1LWVQ0cjd4NkdjbnEtZVZDRGdVV1Y4Ni1BVy1jOGV6UndkQ0l3VXdxLXU0SldISU5MVm8wRUx1dlF0YmJWbUQxYWd1X1p5bVMyYWNqdzFCOGZadVRQR0JnLUxfVENOcjRCSjctZkRTeWM1ekMzSUZNNVdxbVdwMmtNa1VxcFptVU1WVm9wckd1RGFhRGJzT25EUWdLWEFkS2NibEVKQlZ4NzBqVk1KNEowbGV2WTlkaWdEZG9sakEw?oc=5",
+   "published_utc": "2024-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "These are the Bengaluru startups bringing AI and farmers together",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHIySTA2QjhDZllDTzVKNWEtRXIzaHZfQjU1cUF5Uk56LXZIbkplRUNSX2QzUTctQU5JcEs3SFpFWGRkMjlYOWJLZmpCT3dEc2xFT1FsaW1HcWhVNl9BUjIzVGVJYzc0M2t2LWdaZnJMUkRhd3UtUHpIVHhmcVFYcENpT1IzLXZUc25zdk1IRUJwNmRia0JhT213SUVLc3ZzWnJ6TFR3Z3ZLTDRiRlHSAbMBQVVfeXFMTXNnclNvcUk5NExYQVZobGtnNC1zWFRMWE5jR3A5VmZHS3owemc2YVIxZlUxNDlUaGYyVHpKZlM2cUlyaGhmZUpKVVVaUzdaeHRyU1Z2bDVJWVNKVjNrRkQwMDBYWHA0R0RUT1dMTHdWNmQyMllwZDRaY3hfTGJRSEZvYmY4NTZvOWt6d0Nwc09fT0NUZ01VMTM4dXJWbnVQQWJHY1p5MElGcEJNSzVnREFvUnc?oc=5",
+   "published_utc": "2024-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SC notice to Karnataka, DK Shivakumar on CBI plea against withdrawal of consent by state govt",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjBodklkQ18ydDlhT1dJZmZTQXBtOWdRT19wTXB3YW11cHJBeXU0STFXX0RUODdlTEVvZ18zSTQzWWFuRU45ZW1nSzBuVDI4NjVjODhJbzBPZ3pITnpheE45WnJtWXZIVl9KNzRBSzZoMGp1RVR6YUdUYmJpLU5wOEdoMGdvLWhYNFpjNlVjdVN0WE0zYjRIU3AtZDBJTjg4WDlkcGpDVVdYMEdYNVRBcXBkZ0dQelpkbS1PNVBSeVNRQnh5eFFfeURhZE1RMFNNMkV4S3g2T0V2YXhqVGJXR29uSmRFQjhKa1pjWmZGRdIB9AFBVV95cUxOckx2THZVOXhhRFhjS2ZkYkVFWXNMTU5DbUI1MXpNYkVPOWNJS2ZYcEVadGM4ZFQ5QjNBc0FNYW90a1NTT19uWjBwZ0xWY2hVamlUSEFfbjhIa19lclNfUG5sT0VZcE80S0JDMHBJaUZrbHQ2WHRzRmJTS3gyU0RnbHVYTFZqam9IaC1wc3BFR2EzZUVTTEtaejlseUNLRWwtemlfbFZXQ3BjMnF3NUtPUFNiUmVFM0JWbUkwQXctWW5IN1pHdGZKNEd1YmdRTlJkeWVuOURHT2RSVjIwNEptQ0tiS3Bvb2VWR0dhOXpHQW8yYnB1?oc=5",
+   "published_utc": "2024-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka signs MoUs for skill training in IT sector at Bengaluru Tech Summit",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc01iM1E1SHBhWkNVQ0tpcWxkYXE2ZmpCYU5qcllrWjE1TWI3NHpIaUFOMmlUcENOY3VMUHl4MDhrX0NEekhBUTBNZXgzNWNMeHVEdjg2RHl2aWhDR1hGOGV2TllPbDhSTzM1N25nZTUwYU5BS2VWdGRycmF5ck9uby1rd3Y0b1dpY0JNZUxQS0V0UXM3RkdrV1hqbW9mcnZMRU5ld0xkRUlDX0toLS0tU2E0OTduazVaN0NfOXRFT09HazZNX01GZFdpaVA3ZWhkSWpUZmt0S055VlBpYXV6MNIB5wFBVV95cUxQRlJzYXNjSHFqUEVXRURTMnBJbkpnR19ERGhTc0tXMTFMMWp6ZDh2ZWIyR2d1VlR0QmZaY2gzeU5TR1JoZUtKNy1GbkwxYkFxWHVZUHR3Z2tDcUVXUWQ2MjExLTBGOW43VDJzZXhsOWRDWXpPVzBiTjJhbkQyVVh1MkRaOVd3b0hxaWl2RzA2a0lnSTdPTnFfMzJwMDd0MGl1bjdBTFRpT0g3UkNpRkE0aGRTVXVSdGlsQ1lkOFZzY0JaMW9FNFJsdXFITjZJSE1TbHU0bTUwOFIwQ2pKVU55TVlxR01xa3c?oc=5",
+   "published_utc": "2024-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Deloitte opens unit in Odisha",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVNSVXNNaEVYX0QzdVMxc216NFgxLXB6STFEWVgyRVBwYW9LUHg5ZExWYTJPaW1lTjJJb3dBVHFRZGQ4WG0zbEY2Y2dDeFFOdWMxX0t3REhMQjAwZnExbF9QTjZLS3pSSGpJQmV4TTZSQVZIY2hrT0pFZnBWbzlZaWZlRDDSAYoBQVVfeXFMUFBsNk4yeHk2NzlqWklUMjRPRnV3ZU9wY0NuVmJSeC1TeDA5S01DVkYzaU9FN1hMakc3WVc4UUUtMkJWZm80MHFlNkRXYVg2cVdiQzJLdjlRSkR5RXlJbFhmYUNpbjItVkd5ZUcwVW1LalpSVHZLeG9wZGszanhoeWJyM0lxb2hDNTN3?oc=5",
+   "published_utc": "2023-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Slain Odisha minister Naba Kisore Das was a rising BJD star",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXN3Rkktay1IdW53ZkZPWndKOFFpUlhNZHNMX3RMQXhZUEJqRVJnRzVmZ1hiRHR5aU5aNHRCWVI0emx4cWhUYlZsTFcxQXQzbTFFaXItcG9RU3F2eUQwSVhKRjRrYnJfLWNod2pnM0pKbS1aZFU3eXRCU0pnVnd1VnI5M0xZeUJQaEY2QUFTVmhEa2U1TWY4RzlFeFRRejFGakhJX0NXRXVVVG1scFVwVzljQkhocG1jUHFGVl9pLVh4WTg?oc=5",
+   "published_utc": "2023-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deloitte opens country’s fourth technology centre in Bhubaneswar",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0RJVVFxMHJUOUdSMlFhSFEydmg3TklULU0zaXNWVVZMMVhHdGtuWHVfczBrUVBHUjBNbzBYQzFSNEFxNzBzcDdvTkJuWjJzSHJ5emUySl9JVFJ6OXFESjlBdVgxeTB3MXFyQks0YW1SbFRydURzeUdLMXJhM2xiRlFHTXc2Q1U5RElWMUcwT09zQzRNT3o4S1VMWlhtNEtJdW1UYXVTNC1HOFU0R1FETDBpcVZ1SkpEUHJQQmN5VkZteXNEYUFXaTExZDVEZV9L0gHeAUFVX3lxTE1adElVR2pVVTV4VkE0MnpiSUtrbGd2d2FPcEZhTlZoOF9EVm9VZzJkX0t4Q3FRUWFqSWdMbjNuWnV6WjdKWE93Wi1PWGhGVnJIRkcyeDhhTGx0bDNobjNOMGNJSjFtc2FWV2ZNNkhVQl9tdXJYdENYdnpYckVPSnpZZXVQRzZNQjhLWENwOVk1RGVvck13dlllNWEyeGhPdVdvU3hPdk9uQ05xRVRvNXBrMjF3LS1yV00xODkwVHNoeTJjSWZJdzNoYUREYy1tNWVMaC1fekFJMm4wVWRDdw?oc=5",
+   "published_utc": "2023-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha minister Naba Das who was shot by cop succumbs to bullet injuries in Bhubaneswar",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHVQakVrbEt4dk1GdEhnRGlVV1JpaVoxeXU5OXBsOEd3bmtzcEp5dHljQ2J5bXVMQW02VC1yeGpzTWlwOWRQQjVOOUxTSk1JR1VTUG14QmFkTGdjcFF1ZmpOa0lsN1J2bWNadkNMSXFLTkJ5YmlmaENScG5zMHJqbU1WV2NKRzlBVXBuUExrUzZ4QlBzVmJFdTA1ck9QZWxWQkZHaFpvUnctNkxt0gGyAUFVX3lxTE1NSHlsU0RjdWJ3MXdSeFJna19HejV2OGFtTEJXeGdiR0s4b1o4TFdVZm91eV9zeHJHTjFHOUYwT2xhdVd6RVowSTdqcFNIUUxMVE1QM3I5ZGtUN0JhaGl3U3hrSnEwUEFjNWptYTZHb0dTZGV5aXlQNEMzd0hLT3RYblgwXzVFTzUxMHZhU3ZJenQzSWdjRUFYdW1BWXhSSVc0d255YURpVWdQTlZhVXM5WFE?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha minister Naba Kishore Das dies of bullet injuries: Hospital officials",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVkNyZ3Fkc21VdE9xTUVXdkxpYzFWSmNoSEFXOEZVNlZlVkszNmVwRTFDS1hRamVxYVY2eGFDUzJLOGtLVERMZFpGOWRyOXotbWVvVWZZMXN4VmdSOE81N291RXBIMzZZcXlHTWFnS0tHT3VrOVdONTFONndlTXhkcmFpTzhJQmhHWjNnRWM5Y2FhRlo3VDBOVF9FcGwzYmZ6N1k1TTNXcmJxQU5DeHRRUWJZMUp6TUtrd2JYN0NpR3ZzRkhKd2ZocFA2RW8zNkNzNEHSAdcBQVVfeXFMT0lzOUFiZVcwbkJ5RHEzTFdTa013X3VpR1NtOUI0WVlEanRlMzhEbFhTZzVwT2VXVnNzSDR1Qy1JRkt6cU0yZmFsaEhOTzlWTjZZQnkxSmNfNkZpTE5nZVowaUxVOUpWSjhQdlhQQ09TMTVDVjFQV0hXaEFTODV0MUNiWTd0Wm1BRU05RlJOOWRmeV90RllTb3BMa3czRHBESFlyTWNrNGRJcno3TzVMQ3d2MjAzOXUtYXFubjB2Ri1OcnQwWkNJMkE3b0c4ZXRwamR0WnBGVFE?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video Shows The Moment Odisha Health Minister Was Shot",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmtOZUdqdmVWOHlzTTZzVzJ0NDVpRG1LdF9kZjVYYnNVVC1QSnhwU3phLUpMN2lOcXdqMTlKeTFMY3Y5WVJFNzRSQzJzVkJfY182ZkF3M2R0LWd2R0NjM2dJUy1GYmpxUFMybXZkbk1TYXpMTllNSXZ5Nm9hSmdvc2pQSEtlbENfYk54aWFueDlObUdlU1ZaQWNB0gGiAUFVX3lxTE56OVJsUVVKZnJRYnV3U0pqTmZHYWZnTDhRNUp5TUNCOE9LNmowZng0cTJ3bHU2UEdJS2tyTWh2Qy02TUs5cHBKaTU2eVRrNXhhR0pncHZ0RjlvckdGdjlSemxpUU5wQUxvNlBWYkFuT0htdlFjbEV0VXp2NGhnY05oeU1BbzhmelhuMXNkd280dzdwVUE3SEwtOWhXNWxXS1V3dw?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha health minister Naba Kishore Das succumbs to injury after being shot at by a policeman",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVDZuQ0dzcTJWTlp5bTgzWUg3NWVWMm5PTmUwajNvdjdqdGxBMkQ5Sms2Wkp4NW1mbHNrcUNMZnladkJLeVlDUk95LV9kWldWMGdJUlc4dnFzX3RTcUhiRE16TExCSTQzVjRXdktHandrODFxdzBJT2R1emZDMGZWMjd3aTN6TGJUTmxYSnZYR1R5d0tuZDZVVzBqdGJTcXJrY0kyT2dVNmt0RjY4YldmMWt4YmxmbTFyaUp6UUlueWZST0s0MGVxakhZckhhNC1faDJadDVablVwRlNibU1iRkhjbkQ1b0VDQlFj0gHwAUFVX3lxTE50MWNETmp3NmRTMlowWlN6YURjc0cxdkFDRlFtVnhRSk5zYW5xbWNDU2dKQ0JQZW5PLUw1a3ZMbTRhQnZvT3dxd1hLdDhHWWZKY2x3NFp1YldBV2NyYm4xMFRyU21hNWhUendYZnM1dlFZZ3NXMG1RWWNHSTNscW83UW5IUENzZTI1TTNhcjlLLVUyenE1dlpzNzZESFFOTU9pV0taSlhtckVjVmdwcTYwdG9RTE1xcFh2a2JpRVRhUzhyd3FIcXpyWnk3eDJkdXJxSEZqRUFVRjFLOG9obGZQaUVIdUdkTTRaTHN4ZWRJRA?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha minister Naba Kisore Das, who was shot at by a policeman, is state’s richest MLA",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZFk3Sm9mRGlFM3BHMEpXOUxUVGdmZm9nalEtTVVZbVdQMFNCaFM3SFJjUHE2dDY1RXhWNGZkTkU0UUstU1o5b0h5RGlDbzI4MVVVelRBcUpjLUdHRmVOWGFWMm43Q3JzNFJJSEFTSjJQMHgzc0dwbVMxVUpkLWZkRmo0UzlGQU03VGI0LU5sZElGY0twUGtzWDVjNlAzdGduYW4yS0xETUlHZEVBVVFzaDJpMnZmZGdXVFNFQ05tYmdzbEowTnJqemQzVE5BYzdGSXNQdHFSRUZNNWl5ZjdkVkxhVXc5RUVKUXNlX2N5Z2hDRWdZ?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha health minister Naba Kishore Das shot at by policeman in Jharsuguda, succumbs to injuries",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSW15V3d3VGIyRHVRNTQydGF3cTBNWVUwS0haZzYzUmpfamdFOEZmWW0ya1FnMmMzbFZOaDRNaDEyR1dVQ01vVG9OaWNUeG5nZy1vc0FUYUtlSlVFbjRFbF82eEJ4YnBQcUdpUlZaa0NGLUhPMnd5TU8xbzVSNUhqVmJBLUNnQjcwdTRpUWd0dFZNRG9LMWNEV1V0OGtnQVNqNTZ2Zld1dDZnX2xadTJDN3ppWnFDYW1GbHduNmNMVDdHOGM?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State Disaster Management Authority Wins Centre’s Award | Bhubaneswar News",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1VIU0ZFbTZKbmtyMlh5TWdIVGxmTEtjT2RCN1FhTFZselRieldIamFwWjc1QXFmRFFZR1JscEJ3eU5xWHNfSUdKQnNMV2xDY0gxRzdQSjNrcG9qa3dDc1RlanFhal9KZ1E3cGdzOHV5dkRLYzZsSzRDRjNOanRvRHdrU2IwRWlwa3A4RlJfN3B6SWVQd081Q0JVVkcyX3d4UE1aUGlUT3BsaV96UjRlZURjUms0VEJELTdqR1ZNZWduNXRVdnFHUnZRdkg?oc=5",
+   "published_utc": "2023-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "AI-based online life certificates for pensioners for Odia pensioners",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFBVWW42MmxGRWEyWW9QOEd0MnUyR0dvSkM0MG5GQ2U0NG9vOUh1UUxwZV9tMTZjNmhYS0cwa3k5bllqejB0dGxMaWI3SG0wd2JrWE84Rjg2SmhyQlBFQlJiaHFOazNyd011d0ZxTWRlejBjOUEyekZ1Q0tfZm9DaWZORGYtOGM2QkYxNjVJZUJIUUlnYWdlMnA1ZUw?oc=5",
+   "published_utc": "2022-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt announces subsidy for e-vehicles | Check details",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTFpeVptYUYzWUVseHpwRHB0eEtTQjNjRVlXcXU3WjV5Y2prekhCcW9iX3JPVGxxRURYYnJ4RXhHZ3FweG9RZXVuOFI2V3UzNEo4Rm1sZzg0cXA4SldZM252QTM1LUp6OVpWLU52d3d4TUZETURVakJtckZfOEl5bXRnenE5WHBHdjRCVVhaT0FNUUVzNnExTGhnMmltTzBPR2R6NGVwamRjY3QtU0NsV0E5Y2ZCSHFLcUHSAb8BQVVfeXFMTldJZ2pVb0IzN01sUTRwRHBSeERYUy00WmdWZVhFYnVnbDFGLUJNV3p3YXg3XzE5SDFWeHhRcmJ5djBudmxjWkVvck82dVRsRW5rb3dlN2dldm1QcXdMYlpNUmNPWWdTQ2l6S3hhSVpza05hblU2eXdWM2VCMjBuRl9ZSG1waWpfOV9HYmJOTk5kamVvYy14VUkzSV9GVmNpMUZpVC05S1o1UGUxQzAtVHFDdWx3NmtWbjlqcXZLdkE?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lingaraj temple land transfer blows up in Odisha government's face, construction stopped",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeTF5X2FiVUNfRXAzU3Z0b0c0bERCZ3VXbE5HMUQtcVZ5LXRDS0VPOEwtMG5GNUxtRG94Y0dPWmpIcFVWd0xxR3pVcUkxc1gwb0lCczJZd1ZEeTlwWFBETDd3b1VyU0Z3LWVkOXBxU1RRMVQ1cVFObnJDWENVRDNHUGVXXzRyVXZrMVdnalYyRi11ZHNGRk45VElZRURpMFh0Y1Z1YnlyYktnaEl6NzNKRFBWN2dyWUFMakZhMWtWZUZPYk9ZWmN3anlHZjNvWXlyS0l6ajFPc2lVVGdLZ3I0eDA5Wm5pVjZlaEhKMtIB-gFBVV95cUxORWdMQU5HY0x1NDlKTDBfLVpYWHJBb2lyTTQ1QzNDVk5KVDQ3eXBPS1FOck43SkREN0swamhBX3haU2F2c1hVdGY0ZFVnVi1PcWw1enk2VVRTQVFnR0xVUTlndG1xMTI0bEhVbTZkNWE1TVNETmMwS1BxTHhCY2RRT1RMTmpUb3hQRTc0c0NnM1BtbkV2bjJNa29xY0RBaTZxQkVPWVViTUh1RE9HbXpkeFRvTmllVmFWMVJ3V2Eyby0xRG5FSUdHWEZXVG5XeWFkRkhpU3VMd3NfT2hoNThOa3hKV2oybmhlS3NNTmoyUnFVWGU0NDNDWUdB?oc=5",
+   "published_utc": "2022-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha STF seizes 'brown sugar' worth Rs 4 crore, bust drug racket",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazhzQWJHV21kMDVTdXdiTTlxUEc2d3lKeVpMMVd3NzVfQVRaelA4NHZoN3luN3lzVFRWRjA5Mkk4YmF5M2lJYnJaUmxNVDdta2N0M2FveWU2QkNsMjBTQm85bGNvZndpNkwtZnlDUmNhbkpkdjhwUGhzOG5lcElMZVBTT282ZFFmV2U3WENtcTBUczI2cnpBd0dwb29jZjVXa2I1NGRsc2lCMXVjZWpkZXJYN3JuZTlOYlVsMk41UUc4THJ2X01rY2NR0gHPAUFVX3lxTE5vdm82UkVPUjkyRVl0M25TREVDSnM5Uzdodm5YMldEdkVNRFFrVmd0eEdSZnVkZDU1VGx2NGZjaG5TamgwUV9SeFMtdnFMcEpHbGdSZnN5dmpzMkJ2Nk5HTUxHYXdlc1RwX3liWHl2MnVsa0dJM3NMMmliSmQ4RGI2VTMwSl9RWmdFSTNlSDhoc091ZkNoLWloa1JPT2VtbmRNTlBjbVRrWmd4anpxUC1DM0VjVGI2N1M4MHVGSEV4M0dKM2U4RjB1MHJ2dm5Kcw?oc=5",
+   "published_utc": "2022-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Revises Night Curfew Timing, Imposes Fresh Curbs; Mandates RT-PCR For Flyers At Bhubaneswar Airport",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnpXMHVqVU04ejlXUnd4d3ZrWUthYzhwR2o4R1c5dW5zb1JneU0wMlVKNkxQVXkzOGx0b2NWb3ZDM1BiUy16LXZBRVFCRTI5QzUwMm5NNUdVWE1ZbTNrcE8ySDh1NFZQX09qbEZFX1o3cmpQUWxwODNRX3RIVElJYUUwN0FVUmVKNzliaTJBNFNWTnRoY3BCVmRELW1ZdC1QLW1DMDAtSVpPSG9wWWNiVEZaYXRTWV9VOGVkUVdyS1ZSb09EWWlPclYzZG1CakRYVGo3TFlqUEp1X0U0MkdEemdKcUpvdko4dnpYc0ZBbVo2ajTSAfgBQVVfeXFMTURpSmNxQ0tkYzVzd2FxZGpNdkVmaEw3ZkpTekdBT3I2aWZjaHFKb0xrTXQ4cjNEVDRuNzBJbWwtc2J0eWFEVmQxMnE3SEtKaHNOaTFsWmlmcGM4OVJVUXVpdlVLMFRZb2hYcXlvcDVPZ1BnbHR0WjJWN1JDSHdILWlQS2czWWluVWpBLUdkS3B3VENnelpBQUd4c1ZYMGdiUTBaaHc1Rmo3RHRReDI3azVoQXhlN0RjZWVqRGZNWjdvc3lvajN0Z0Njc2hoMm1oUFVsaWhrdHRFMkdBRWk3SU1QVGtlaWJQdVk4d2VweURqQ1Y1dmxtUDM?oc=5",
+   "published_utc": "2022-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Govt offices to function with 50 percent employees from till Jan 31 – check details here",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMVRULXVtSG1YZ2Ziam9nR29USFRWa1JjMU9zc1RwS0tPdG5KeF92VnJBVEYxblBLVG1VNTN2MG5lX0YxQXRISjVlTDhUdS1sd1JHQURwVHRmUmFTUDRmQnFLQVdFQzROVmJ6ZFZyaG9HMjNOYzA3emRmZkh4WWVsZ3dCSTJHTTZwZExKZ1hiT2o3cEFqZTFSRzNGUHE2RjVOdTdmTzg1cjdzcVM2U3VUUUlyODBUbmtLZjFHcTJqUDYzbWs0RHU1ZllkRdIB0AFBVV95cUxQYUVCU1ZBMXAyUUZLbEd6a0J3SHNRNElLU3prMnk0ck1FZFIzNjN1dkc2UzFndzhzU3pBR1luSDdmYWVoNXlMdzhnbEU3UFFGa1FyeGdXX0dQUEdkU2FvSlRGSENwWXVfdUhKR3ZkdGxiSU1JdHZIZUVGdDYzdWRObXJHMlB0Mzh2dFpiMDFsU0JTcUx3VGhxb2dhQlZvMVU1REw5VGVSckg1TnFjaDVTbVF6azRFY0RoS3pQVVRidWlSMTFyeW9MTHNNN19wLUxn?oc=5",
+   "published_utc": "2022-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

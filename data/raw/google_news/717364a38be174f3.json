@@ -1,0 +1,53 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh New Industrial Policy 2022: Incentives for Foreign Investors",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONm9mOU15aTRxS2RsQWZQMU5uYzhHdzVCOVZVTVktLTByOUxjZi04ZE9XajhhVGJ6ZHVSZmxVQnNHeDNRcEVtYzQ3a2dzTVNTOGlGZWMxcDFOYzNwVFBHbVM3Y0tsMEt5cTM1ZXhnMlZYMUZ4aXhwMV9LOHNkdmhpNFlibU1iN2J3Q2pRNkc3c0x6NzAzY29nX0ZXWk9WY3VWRWVzZkRRZnJLUXRvSWNfM1ByblcxR29rZHYtU2xSc0tvTk1SblRValU3SGhWWEdCWHVOaQ?oc=5",
+   "published_utc": "2022-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Govt Signs MoU Worth $1 Billion With Singapore Company To Set Up Data Centre In State",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEhhRWtad0dzWHRSVk5MTmZqZ0VXZHl5X1NHRE9QVVhTX3RyYWpjQkN2a2FoMXZvNi1jRUZvSzAtWEhiTV8yNDZZZUZhYWpscjN6a1pGcnM5YVl0NklGd1IzUUN5czJWcGxrVHlNaFN2RFlsNmtIVjF3b0VTa0Vyb2FkbnlmLXZLd05lM2h5WjU1cnUyZTNHb1hiNl9oODhOT2RqVm4yN19YQ21mejl3eFdQV3dmd253bGRaQtIBzAFBVV95cUxQZFVrNThfQk5VczlrTHA3cXUtb0dwVFFsVlh2end6RFFpZjNoTHROYWdqczJkUmxrNEkycFAxSDlLcUpOQlVZWUxuSThqSjRFSjhWYnZKWkpNRGtJQ1g0dzdoQmlCdFBSODNIbUR3ZzQ4MFptR2FZSkVma2pXSzZKcmFjb0xDRDhjNUxEcDBsSmtuZ0s2a0x0ZlRuY1YxelljdDdaMFF1aGxBVHItbTBxS1NreUdQXzJISG10YWhJY0dINWd5ZlB4SkxfMzQ?oc=5",
+   "published_utc": "2022-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Purbanchal Cement lines up Rs 200cr for expansion, Bengal in roadmap",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2FLbVZob3B6OXVoU1V4RTgwaVotU0RqSDZvR2txU2RjQm1iXzM3Wk9oTFg5UGdlN2FmaFRQa2QwVmRhbTFVaUlOM0Q3eHFDVThUdW9mQlhlLTRFSUtreE1rZU0zelphdEE4MG8ybVV2aXRtMXNWQ2ctUmFSTEh5VmR2UUp1LTYyX1pRZ1dCSHZsSnFTZlVLTGZUSm1PSWNjQ3Bla1NNcm80MTdEQ1UwZm5CYnlXUXo3eGl4b3ZpdWIzQWZWVjhEWFlzY2NVUE1DZHJ1Rkw5alU5d2VX0gHXAUFVX3lxTE54d3JXdk16TkpyX1lIdGJibFc5TjZDa3hwdm8zOTlNcWlGNWR1RXZWeGszTnY2Q2pyOElERGFibmN3LTBFUW9ybVJGVUtpNnhnLVhtOXNUeV9KVWJodVFLUWZOTnhrQTlBZ2FERUZySkxSYjBlMFBiQlA2Ty1GZ3JNZTlkeTdFNFZzS1pOaEZJQnZoMEtzZ0ZiQUdrTFdhTlY3dHNTejA0TGpLdkpNRlpUMUY1TndmTWhrY2tYYm1Zc2x6YkZJcFd5b1RTdkhKZVAtWWp5YmFv?oc=5",
+   "published_utc": "2022-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP ranked 3rd, Telangana 6th in domestic tourist footfalls",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFFPUGZIUW0xaDZGM2tRa0IxOXV6dGRHT1RIMFZOSUJEUjRwQ0F4dkhZOFVNeW9VSVdyb2F2ZEJnSmFocEFFSTBVVi1IZWVDbjhSdWptMWZUVGpuNkU1dzZ4ZThXdFpBOTNBSDRoZjFWS3JDZHJCbmRYSGJrU0hXdXU5d09Ldk1Zd0g1UV9LSVRQbnBCODBHWlNQNmRBWXAtUTU4SWxud3dZY3NpZFZ3dzhINk52SWk4UXfSAb8BQVVfeXFMTzhieC13bndpdHZqb19OQWFvSUVTU3JxSnItQnQ0VVpSeWY5dlRiOE0xSUQxLTRYWWFyYnVmeDNQa3NKZnRBMEluLTFXanNuQjdqbm1xUjcwdEtISXFxaVpWY18yMGs1ckNMT190SEc4b2RuRl8wa0hpTUhDZnZZWWtlcWZReENFYjdZN1lzb3dseS10UWZ5X1hEZlQ0Y2JCdnUxZDFRQnB4azBpMDNVczNtbVR1M3UwX2E0UFJGejA?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Industries Invest Over Rs 6,200 Crore In Defence Corridors Of Uttar Pradesh And Tamil Nadu, MoUs Signed For Rs 24,000 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWZWUlRLTnRwU2NKLXg3b01YVDBsR2ktZUJ2czVfaTJKb1BpTTJUeEZTQlNFd1MzUUptOTRoR1J2NmgxSXpKaEwtVVdZNnZ4RUNId19OaUQxNzVHcTVQaDBUVWtPV2dzVXJqYVBVN1oxVW5RU0pkeHpoVlJZanRxa05CWEVZTU85ano5Z0dOOWVlejBucnNfemVDYmVma1g3N3kwNjZsWl9vRlZiOXlCRjlKYUFNUTJaaWVhQ3JPLVJSNjRDNWpoQkdTWGpabjJVTnQ1VnRSTXNmaEJfcnlFLWtRY2xNOHVGUDc2cUQwTjHSAYACQVVfeXFMTlA3VFBtRkdSVmM2dXdZZDJvdDJZZFJXRGxLdTNtc3VRc1hiaXQwX0hFRUtTTks3REFjaS1OMjl5cTlTdHBwY3QtQmx1MUw5M1RCR093ZmtkZ1ZnOHkzUElkUk4xMk90d1JNTDlYeXEyUGdsOXJoSkNXVWNLSU1JV3lnN2JjU3VuNkQyRF8ydFpBNnpMWXJHOU5XbnpIa2prSzhUQld4V2hNay1yUkNmcWFwdjdQQ19iZHRvNlRqZGxub0EtX3FSVU9jM3lINnhnNDZ1UmFLZzFDbm1SZTg1LWpXUWZndkFTVWVFTktJMlBvWFp0NzN1cVhySWdwckxqbw?oc=5",
+   "published_utc": "2022-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mission For Clean Ganga: Rs 2,700 Crore Sewerage Treatment Projects Approved For Uttar Pradesh, Bihar, Jharkhand And Bengal",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWEh2dUxGdFl0UHVfeTh2aTFXR3RaZ2g3MXBaM2VEUm9LckZhTmhXSTM4MHhIME84MVg4V0t3VGJvVW5Xb0l2d1lpUHd3bHB0bVpPSFZ1d3ZSQkdhbks2Um92TVpnODExdEwyNmJzUVE4cnFNVFNhMXE3c1JrcEhEanR2b0loT2lFX1VtYV9RVnQ4R3pLWndrOFRVbFJ2TmRMMW5lVUlzdTc3V2Z4azU5dmJFNlp1OTlCTnd2Y1BKdTRURHhKNk9aYnpzaTlLaDBDMERiWk0zVzF1eU5nTW5XN29mcDFqZWstNjlYQW1DUdIB_wFBVV95cUxOcmlQRElUNXJOTkVfNDRwVG10eUdGbGxVN1p6SXViYVVjSTlCRWxSdk90bHlSMXRITkF6blE2OVE4LXplSWhCSVpzNFhyVEFET1daakkwSzBUaVNKbGx2VzVTNHN5bWFOdGROMjhHNUViVFBERmE5SWZSdlZUcXZLS2ZSOE9rQWlEVmF6Y1ZmSVhfbFBwcUFvUEZhbXQ1MUtLZ1FUWE81VTBsendrQVc2X0NkR0ZzWllxTnNqdnF2bmtuZjNNUUFrT2FfWnJMY0F2eUJndUFlWUstcWd3SXdJVTE5Mk1kWmd5TWk1aE5JeGJ4eUIzOXVkYTBTci1rWEU?oc=5",
+   "published_utc": "2022-12-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

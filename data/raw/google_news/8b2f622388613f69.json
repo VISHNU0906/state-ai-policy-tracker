@@ -1,0 +1,61 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "MP govt to set up 9,000 'CM Rise' schools, says Chouhan",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTlWb2hQbzdaRnBCaUJYQ25jZVNxc19RNlBhY0xrZFVzYmJxQkcwSWJNaXJobWgwbm9YQUE0MTk3MGxzY3Z4NkdsSFZ2Mi1hNXUzcUc0YmNFZ0ZXRTdob0RTc1JLR29EbjVlbDJMdjJZdlpoNXFhd2d4OWtWT3NwWXozM180elk3a2lFa29fUmhrNVFnNFlVNkp0ZXJuNVZUcmJwMWZrbkVQUW9ESlZ0a3daSUlpLU01d05DV2xSRjVoT1BoZnhyT25n0gHOAUFVX3lxTE5fQTc4OUhrVk1KLUNON2FVbDkyRUZRRUFsSmg4UE40REFNbXFUc3poaFdKOHhfclE3djVqWFF0ZEFROG1PNktxT1huNzhlT0tOaHJOMGd1SWVpRV83ZGg3SWduSFF2cFpFR0c4S1ZwSV9aWVY0VjFiWmJmYzYzYXkwc29UemhhZ0pLOTMwLVRNVWtuTVRlWURJY0lDVDh2VTJTWmNici1MSllieVYySnFvS3BRVFNwQ25odmRFbXB0QmttNEE3eG53bl9DTlZ3?oc=5",
+   "published_utc": "2023-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In India, UNFPA launches ‘Just Ask!’ – a chatbot for sexual and reproductive health and rights awareness",
+   "source_name": "United Nations Population Fund",
+   "source_domain": "https://www.unfpa.org",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0FMc01oWEU5ZWFhWVZDU0FmTEF0M1R0Y1prcGRFcFUxeTgwQWh5bDRXV0NEemk5cEJDZXN2NThCZjAtTXRmQ09ubEZ6dklSQ19BLThPM2RkUWF1ZXlhT2Y2Si01c2FjOU5HSjlhQmhKY25aejhrclB3d3FmV3VCbmY5QmNMWG8zb2U0ck5jaEhEcTRmNmFMSEQweTFqSEh6LURHdmw5YlJzLWNXSXc?oc=5",
+   "published_utc": "2023-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government launches ambitious plan for 9,000 'CM Rise' schools",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGF2a1ZOU3pPWmxud1Q4UHdTUTJMUVpfM1VxMmVqNVBvNEwyQ2dZNGEyeWFOOG0yWHNMV1FCTXRJakViZ2kzbjI4Z0xTb1h0SFRMaEtHRFJseTI2Zy1pekRyV0x0NUNZX3hxUnBqSEhHOFhtMktOSGRIVGd3ajZRbmgxd3JrdlJZLWJMdU4wdmRtMEZuWXExWFBIRXdxRDVSQlNhZDlSLTh4TmU3YlMzWTlJR1dJZElKaHlDUUFWOXlTeVRwTDhwbTliWdIB0AFBVV95cUxNQWI2YXZtOW9PSXM4cXJDWUhZYlJEUlJwVmlKTm0xcENXczdfb3loTW5UdmlVbXBXRlBjQ2hlSmxRdjJSMlFCaUdSVkdQS1RRbFJXUFpwb0JCRnJDRGJPTThXOHQtOG41Q3RIQjJ6clZ5UkViQnNIYWFIajhFMHRfNTA4aW40Y01MM2FJSVIydzlCNE0xMUhESjFXUXRnbVQyRTFJc2lmTGZnWERoTm5US2pPdlVnZXljeUx1MGVOSGxyRUJiSWpGT1o4UTJMRGVz?oc=5",
+   "published_utc": "2023-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Cop, Who Shot Senior In Chest At Police Station, Sacked",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmtVMTBQcWJQQnNkdTBScDVHa2ZjQ09EQUNqb19EYnFfVWNWTk1mVUNfNkFCT09GbFFvLXBzU2JycFdmak93TFc3bGJhNXBvQVl4eUhhMHZMZWw3eHE0bVM1bWxGMnZtNjVWVk1kd196SlhHdGNNYjUtM2pQWVh3Y3BmNFhoY0pnTGRubU04N0ZnWU9PRXAySXFoa2hXcnkta0JsODRHT0pmUENU0gG0AUFVX3lxTFA1V0JNbkotOVM0UHctNVlmQXFUWHRMMlFvNDM0VEM3Vl80VS1CbmliV2FCa1NEbmpmSUtFVFlTUVp4ZDFqZXVwYVZ2S3BjNzVtYkJfNUljOGpqalBmNDhjZWlZb0dxTW1HUjBscHlIaDNhWGNMSWhvODJJVDAyb1BBbEJkcTJ2cFhnUUNCSDlUbGRKR3IyOU9XY3lOd1h3N1ltYWR2OTE0OXVvZDdYTFdfb0l5NA?oc=5",
+   "published_utc": "2023-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Madhya Pradesh led the pack in tiger population surge",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjg4anFJaWM2c3BJb3pEdGM1VU9OYVI1dTJfNktiQlRXRWVab21VM3VFU01DRW9TdlhKM2NiLU9lRV8weWk0MVJYakYwRzJNX1VKZWVuMUN3TjR6R0dUdGtvdXNsdXNHX2JfczFwRkRIU0NwNHlVQU5iajdWbzI0ZEhPSk5xNXFndGEzX0JuMEJoeXJ3cE9DSUhzcVVMaEI2QmNhTVRNanQ0cXh40gGzAUFVX3lxTE5BNkI1Y2o2OXFFZE9PU29yNlUwNWdGSEt5YzJtT0ZFOEx4cWJsWWhsX0o3OVN2WjRXMGJlaFl2SVJqOHlvd3J6OEo2OUxpV3RXd0huczJ3bS03VVVqN2lCdWRQUXNoMWktZlpmcFJ6UTc0UnJDdGZuSEpmSVZVUDhnb2JORUFCYWJnbm90ZDExdVFsZEtlRWNHOGdtUEI2YnFhMWpYNk9abndLYmFqSDNyR2l3?oc=5",
+   "published_utc": "2023-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No registration, Illegal private clinic sealed in Madhya Pradesh",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmNJQUgtakhoOGh3MnlEaGJpV3c1d0dGeDYxc3Q1UXM5X1hab0tncERYZXo1T2lmSGF1WU9mUGkzWmxCUDRfeFhoWUlZQ21vY3dHTGctRmF2VTZBWGF1YVpGVmluQmFKTlF6bGpTYmlEeVpjTmFNX2pydVRCMXZYUnhJc21ycFc5RHBQZl9ZcDc0ZklzbmFrdnFWNDVTOG1HbzRYS09HNjMwUUJ2a295dmp3THhWQXlzOXFrQXBmTVppN2Jtc1JSX3dJVdIB0AFBVV95cUxQV0JxdHJ2emZoR0ZrQlN0U2tuejlNRXNoeUVSNFl6X1JHTElsSHcxLVZCUlRQMDFEX3QycjNpb09OaTcyV1BsZVNHamlDTWh1TWRpd2x5QVlTazNpM2x6UXAwVEFOT3NXTEtjZVEyNmVnSWR2dkVEakhaTG9MMms1aWRQV2thZjdnUW1vY1oyQzhGSmp1WmJVOE5FYmhrbi1WSm5IbHdYOVVDQjN2R2JSb0FXQ0Y0M1h3cy1udHNmUk95S1l4c2l6RThLblV0RFBo?oc=5",
+   "published_utc": "2023-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "First woman chief secretary of Madhya Pradesh dies at 96",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRXFRYTYwQlFWTFlRMFZiSURPa0ItdjYwdXl0SkdKSjdzc0U3QmR0M2VIUUVabnh3SWN4NVpwRkRvTHUzUU94YXhPenAzUVBvelJTZUV3aHl3SE9vSnpZa2I4R2ZnQ1NuVHpvcmVjNHpLd3h4cU5PdGxjZmF5bEZLQVFwd2ZDSmVnM2FXQ2pZem1jdE1pbUVuR9IBnwFBVV95cUxQUzB1U25rcm14LUp2S1VYU0hFam5wREUtQl9SeXlpYm1kam5kYndzQk5fSy1PVWQwTlpUcno3bnc1Z19YUUtNcDN6UThVdjkyUTJyWnh4Y3RJVk5UX1R2UFRST19JX1hLVmhJbXJtaG43OGg1cmtKVDZzelNOUkVQSWhfWndYeDVwbGJCb0ZtR2VadzFVSk5tcHJRNGs0QUk?oc=5",
+   "published_utc": "2023-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

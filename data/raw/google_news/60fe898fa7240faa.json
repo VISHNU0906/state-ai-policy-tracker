@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Deepfake Audio Of Philippine President Urging Military Action Against China Sparks Concerns",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXJnWjJXTXNCcHY2ZVJEbkZwUGdQMkp2NF9XMTk3ZW5ndGtrNzRyRXl6VVlFZTdMUUpjTHpSZF9jQ2JYLWh5UUNjaXFNaEZha0loS05GWFBreWhMbUdReHJ1dndsYVg3WVFhSFFDcGRyVlo1WnNZTHdkZHFyX1lwQTZOS1FLZjczUWRNZnhiYVA4eUE4cWNVQXp4bDd6OVdhU18yVmpzYkZhRUt4UDdONnIxSGxWb2ROMVUtWWZKQzI1b0F3bzk1Nks2QdIB0wFBVV95cUxORFgzanZSbFl0bUpOTDFKZVhwcmhaR21XTEh1RXhETXJ3LS1MT2UtdWc1UjlSX2lHbWdINVMtcTVEUkVuWTdYNDhROUhVc2ZQSlNJZkNiS2VpZG5pdG9RbUU3WnVSaWdNWHl4RC1MNmVNS1NpS0FTamFkV2VaWmdLZE1zdm96WlJHZllUdXJlZGczaEFMTVRsWXpBR3dTdzVqbHVQcnRHY3dHU2RRUDl4NFZOVHd3eWZQZmVycjdKcG5ZLXFmakxoV09lZ0xNNnl4S1k4?oc=5",
+   "published_utc": "2024-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala High Court Orders Closure Of Schools Without Playgrounds",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnVreEtrcGd0aU9iZTFVc240c05ldGxYSzdIWkhxbkowUUxZTHp5Y3dHX1R5UGdkbElHcHhWdTUxY2s1MkpIV3FmSExKOFBXWUxsZzIwek0wUGR1Sk8xODJjS1hLaVVTOThMWHlQbTh6YkdhLURoaGdRWkZmN0duSFhtMGpna1ZDTnJmYks4UjVDaTRESjdpVW1zdy1abVpVNlE4UjEyeWLSAa4BQVVfeXFMUEZPazZ3R3JEQUlFbGFwaWxWdFE2Q1d1OTlEUGVLWmRHRHlHRTAxaTBPdElXa1B6c1JDTEl6Uld6S2p6OGo4T29OSmsxa1RUMGR0SmgtVllVMVBXbENqN3QzZlJ2enhOTEJxWlBuaDZCckx5Y3Zjc3l1TFF6YnYzcXExNFFmdU1BVWE3X1h0eHdLT2ZWN2tJdU9LUFlSTDZ3dWhwM0UwSHctanhra09R?oc=5",
+   "published_utc": "2024-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

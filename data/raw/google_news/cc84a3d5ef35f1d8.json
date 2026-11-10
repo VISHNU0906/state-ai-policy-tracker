@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh CM Jagan lays stone for solar projects, power substations worth ₹6,600 crore",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS01rS1h4b1RIM3BsVUkyaTFUeTVNaXprSjRLTDFERmE0MDhEM25MSjZleENaNjJ6ZVpBUVRMM2h5QmJvaEJwWURJd0o3WTN1SGlXOENUZVVnYkJ4TzljdzhNcXdKZ2tMRUc2V0VYcFEwZkNib3RBbXlMSnZqanBhOUNncU4xMkpEaG1rdEsycTZyLXFId2FJUUZPcl8xcW5mSGlucDdXMW1wZHA2bzJNVU1GRkZRQTNBQ1A1QVRybGN5Z0F0SlJQVVpZdnJ1X2NlaDBsUUkyd1ZPQnlRZThwQlRuaUpKZHJYN29EeNIB8wFBVV95cUxOUzFxd1YtT2Z5R2NYalp6Zk5wSFNDbl9nVjZSendfVEQ5VEc5eTFRR2JWSEFLd2ZHMVkzOG1NQzktYlpqd3R4VTI3ZEx2MkhoT3pQY3ZNMFZ4UUpLOVZsUXlFS1VTNHRVejE4WXNreEFXS2c0ZkVrSFZqU0lEWHh1MmpTR0hhSzRUUHVEQTVCaU52VGwtTEl0S19peHRwbkhCTXhIQ1d0UUlxWnR0MFV2NkRLVkt4NjR3bmNVb0xiYTV2N1hoT1lPZ2lwa1FWaXJVUklBVWxtWVRuYXl6bXVFc3JTdDlhMm0xMUFoT2hwSjNXdlE?oc=5",
+   "published_utc": "2023-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "75 years of injustice removed from north Andhra, says minister Dharmana",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORjI2QTRmTjdHUkhHcjRKdGJrdXRJNHNkcTBWRDhGV1kzdkJoMjZNVmNYaGo2MG95bnlWU2gyNzdnWTFFNDhtSzJzVzctUUNuSW9RTFo0SmNEOHBOWExRVjF3MDFYQTViVzFGSmtoOGtTRnhsS1I1SFRDN3RoQlVEZk9LbTlPZXhQZU1hSHN2QTZuZjlLWUk1T0llM1RzcGxqU3BiR2d1Ul94Y3N5SUVpX3dQcFhpeHhKT0R5UDVfcHJOVWxzLWQ5NtIBzgFBVV95cUxOelJNTE96RHZuSkRpNWlPbzhtVkFnSEZiWXVXbGZIM253eWgxSWswbk4wYW9OSXFQRmxNMGxpa0VvTk8xeXFRWHByVEFrNENKbDVKWUNKYXRJZnJGWGNuUmwyTVVIdDd1VmplUzViRzhkT2RCLUxVaWNoUHRLZXZUOEVXMWZUX2Q2eHZKak1RNnd6TkRtNl9yYmkzeEt1RHppUHVHYzhSajZWVEJBZmJuZTR0YU9reXBQNko2U3I4SHoyVC1hSzdSdkhXZ05FUQ?oc=5",
+   "published_utc": "2023-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to release water once a week for standing crops in Krishna delta",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFRrZjVCMVFQdGMzWHhQaGtadlpqWVZKR0E0QzNnT1RtUENrUjc5T3ZrNG1hVFA0a1VfSVVGV3EtdWkxbU1LUTRkZ1JoX2U2UXZjYU44N0hhUkZKWldKSGx5SVdJUWpkMzdZMUNhVnF3MlUyek9tN0dvLVB2UE50TlkzbnRiWU52YVhkR3BRQzJiVWQ3ZW9ORWh1R2FYMEMxOTQzY1k5dFRCc3JnU3RQeXhaWTBLck15b0VyWnAzMGtJNm00VVcta1FoTm5NYVdUN1czTGdpSVl5UnJRZDFFcXUtWWxwdVJWTHJqdVFR0gHzAUFVX3lxTE9IYjZfUkducVFOQktBMGVpbU5BV0NGNG1PU1FNa3pxWkx2eHp2eDNfTWNwbmNwY1EtNW1CaWRETVNSb2lVUGNtcFFEZ1dNang1WnhzWnpKOFY2LVVoYXQ4ZmE3M0l6NkdGZ19sdkRlQWh4dVNiWXoyNk9aanBYclFhdmtNRVJGUnJKWXRxa3ZzRWZtX3lvSXU1VVQ4SndkQ3RXUkpfY185NGRwcnRhMllOVFlvMTZEdGc0MlY0cUNwLTM5UDF0VlVqblJqcXlHNm1TX2NNVzQzcFdzN0E2RkNrNzVwZEJOdGFHaHYxQUVfMk44Zw?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Foreign Evangelist influencing Christians to vote for favorable Government",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWUw2UzhNY252dWJQQjBKck4yQ1lPZmhpQk85UHE1LUUxQ0tzR0NuSzFoYzhLRkhpWHRJQlJCQm05NjVnUHBnZG1qRjBYTTVFVXd5X3hHYXZQUTlySkFRbE5VY3J2UDg2LWREcmtNUjJDenZvbkMzRHI0RG1vRmFUMTJXUjB0T3pBcVJZWW5JVk1vSmx5QW1jZlVnZl8ycFRhLV81ZlNubVZRVlB1Q2xmN0RBaVNHdENCSHRMcUd2WGxwSUlnbmVVWUlGUjd4NGF1cmdN0gHYAUFVX3lxTFBjTnZJb05TNzhreGRkRjBCUlBYSG5BejNxNlE0YnJMRC1qcHBhb21MeGJlc1pxa2xzYWxNVFNqYlpNZFdvNTZUNDZ6SzNNVWJOQ0hKMDNWTzd0OUl4WmJqYmdpWThqMU91X2xrZmpiaFc3ZWJQTml1SmRLTlM1MklaZFk0VzJZNm0wSFZ0MkNRT1VyQ2ZRQXM3LWFWMGs4YjBxQnc5Y3J2S2tYRTVRZzRNcGpPMWZDU2tMVzBHWU1sRnZWVDd2OERjTm5qUEg4NUJLSmdJSV9oTQ?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan Government Approves Survey of All Castes in AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmVtd1ZSWl9tNFFnZVFkTDVfaVpxQy0tamVIUkFtRXJ5OXFuZ0pKbWtwZzBpUFN5WU44emw3QUFoNEhHaVpPd3BuMWF4WHZyUkNWZFRLeTRzVER0NWpWUGdTYXRKSmRpOTdWaHZ4dUFpVWMyRTJzellCRTZ4OVl3dFdyUHFjVWRMczBCV2d5SGJtcE1sU2hwUjEycG9udDFBUnpSNk5hc3gwWVFWb2dUQUFB0gG3AUFVX3lxTFAwQjVmMkh1UVJZSnEwd3U1d0NlU1gxd2l5U3RtS3NLc1VKcXdFOHQ2MU9ELU1RSGN5YW1La0Q2aEdBX2Vrdmd4Z0htZTl5TERsWTB4dUtLX3otOW9MT1F0ZDBsdlMxbkZMWkY2a3BjTkxOYVp0b0k1R3J4N2FZUEJCX2NIUGVtblVucmR3MVNWY29uZWw4SVI1bmRfcGhkVk5CWGlaeXNUMnJ2S0YxUEM3aUtKOHcwNA?oc=5",
+   "published_utc": "2023-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh hopes caste census will enhance data-driven governance",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVFlanMtdVA3RW55R011MmFtTy1xdUdMZnVsU0dkSGJPQjl1TlkxZVRzallENzRreFJYOG00bWdwWEVidVVlVURYeFVYbzk0NFN3anZpaUdYVURUUkh1WnY3RGNUODhfQ29Yb2NQNWNWbVZMNEd4dVNjdUN1NWZDYzMyV3kyM3pudGNPX045bWdrN0wtdDA2N1R1WE5wc0VLaUpFZ0M2OWxNd0ZkRWFwekd2bUZobDZ0dktwcjRHbWhqSVXSAcoBQVVfeXFMTWd0WURreTY0TGgyczFxOGl1QzdMN3R5OEp3NEotalYwRU5UTXg5Ylp1RFY4X1FSbDNMX3BVOHFtdEd3Y1YzVVlZRTdRQWMzR1FUTDg1Qlh4VTlERDNUY0lZRUc3WmtPOHRraWo1b3BuSy11clMzcnBTYUVYdURRakhOWmNzRlBncWtqMk1ycV9yRGdTcy1XZVdfSGlzMGN5dG83WXA2b3R4QUZIT2ZWQ3NnNXRZcFZ6d0xqSVdPcHdPZWZxMDlKZHhMdw?oc=5",
+   "published_utc": "2023-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan is a Courageous Leader, Says Home Minister Vanitha",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNEtZRmllWlhuWXFjZk5ULWhyZVF4RUVWdTk3eVl1YmNtc3doZkVLTlNhZ3V5X3dKVXJLNzhhRnloUmZmZUEwbnhsdUNHZGFnTjhxSjRfd09tZGRkVFAtOHF3NU10b1pUXzI2UFB6RmdkT29ORHd2cXpBS1NfSEdZUkEwTklmMURsN0ZKd0c2dDNmdlAxQ2xTZFhfX2xRU3UxSTctR0ZuTy1JMXpxN1NEVTg5QVBQUdIBuwFBVV95cUxOaDAxUHdQWFBEeE1sYWZxZEdhMXdfZ2VlUUIzWUlFWldzem8yajdvZWxEUjZzN0tnNnl4VUZqMTlOTkMwUWFCNTMtZmxSRlktR01IUENOb09NcjdiUG1JdjBuR0gyc29ZRlBJNGlKWTlPSVFaWWpqSGNobldYNUo1Y3o3S1RnR2lYU24wT0Vla3VKdmUtSzVUUjVpcGJ4SXJTNk94VmxDNkloenFGRXdpLU5sOTVXaEw2emRj?oc=5",
+   "published_utc": "2023-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government staff demand release of pending dues",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDdhbExhdEp1cjJ0YmNYWndSb3ZrVDF6VGszZlk2ZTFjWTRFV0hYd25xczBaMlgwbXdjNU80cXZGZjhPbGIwMkNQUUdmbk13MWFLdTdPMWE4bDNra2NMdkdEYmNNdkFnUGlKeGd6YmtPTjdNVzFTM0NDWkd1TVBSYlptR0Vva1Q3WTVQLW4wV3JfT3VQbjU3QXoyMFYwVnAyOGZxUVltMGVrTllKVHBVdzdnOG_SAboBQVVfeXFMT0lfWTk5cjNtRk1UVlZXVGg4R2JZRWpfeUN2ZW1EWlFuenhvM3JoVWhSWlJRTEJveW9rR1Zqa1E2ME1KN2dDaU84b29sVEc3cnRZOG1DdW9LSkZEUGNfMnkxWGRzdktkWk1JMHVPSkRoYktCWmlpMnhQbVlfNGh4M3dPVkVsTEEzNmRSN0dpc25xMVRBSmppU29qUE1BRjNsWXhwX1N2bmpwMXRERWRhUTRYNlFPRHQzd2hB?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Polavaram Has Sufficient Funds: Minister Gajendra Shekhawat",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnNfU2JabFhpNS1lVzBDd3dxMEJjS2NlZlF5UlJGU0VvTjUyWnNYZXloLVJtSEZiczFQc2hkZ2NOLTV5bnZHamppYmswc25pV1VBQU9WWHlZOWJfMkw2TG1RMnJKVUlEaGg0eS1vMlVNX3J1RWZTNlhHR2F1VUdoVFRZb195Z2s5dS1tT3RhN3gxRml1N2t6Wkw0U2hUZ0pRbkhhcmpGcWRTVVNDOUFURXJZVWtKMWExUHRsLWZ1bEdITFnSAcgBQVVfeXFMTkNXdkJyTFBTaHpVWGMzMHZKVjExcmJCSTA5TzRoNVpvWkkzbFdvWVhDaFMyQ3FpelplWjktOVg4a2hFVmd6dU1WeU5aUnNjR2hUTERQOFdxMENJbWlic3pZdlFmbHgtbnlGSEFDVGpNbkowaWVkdHVIRVNJdlVGY0hqajJ5dDBvNXg3d3pFalJHOHdya1F5dUoyb2d1TEVXNjZod1FUQWUwLWRMdTBRV3BjUGFsVWhTYmhTRGFVUlMyRGtDVGtzY3A?oc=5",
+   "published_utc": "2023-11-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Minister Mareppa Rejoins Congress",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVENjcFR5VGdockl4LVpXVlNuY1dvQWhPbDBXNWNOTTNydzdSS3FQYUUxelVzNEp1ZTluWTh5SUM0WUItQVpFSFVhbTN4QlpPQjBteUxlX1gwMDV4dGIyV3g0TWsxSkxGYzB3UUR0YXZnWWtSRTZCbUFXeVNJelJyZS1nM2FQVXpRdHV2SnJETFBKbmZWNTE1eGFhY0xlU3Y2T1HSAacBQVVfeXFMTlltSW5HODVWbkk2Mkt2aGJHQWhST24zYVk3UTh1RGVXcnhSbTNEUlBUTmpVUjYxOFBvVjdoM09icDFyLVRvX2NWalZNdnVweENCTGxabUtXR01TWFl4dEJMR0ZYSGhlMExhUW4tWjY5bWFkQ1JKOXNVUDBOZmVVWEFQWDRVS2kwVjNIOGd0bUxocTlpVUxwM05MZ0lwVEQ3Q2FWbGZGdFk?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

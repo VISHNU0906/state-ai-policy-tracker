@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Adani Ports seeks nod from Maharashtra government to count Dighi port concession period afresh",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaU1wRHJJRkk5dUlYeDMzOEhtM2ZVLVpFNzg5dFQyajdOT09HQXk3d1VlQTFrNFZVNGI1MVJ4TFFVQVhhYmtldTVGdk9DVEFMRE50TFZvZlZwNHFsVGRaN1BVUWdBQy1IZS0xWU1MU1d2QzNIT2VvVWl4aTl0emtLS1o0Uk5EdGFTRkg2UzhONDZDSm1INUZvRG5yWjNBMklSVGYxaVNjc3N5NkM5SGR0MVFXbW1FSGN2NTlGXzJERFZaXzc0VktqekJ3RlRuMnlHdEk5OVVBYWl5dGJwLTdOd0ZSdGdEWTNHTnBzTEpXVFpPWTN0c25NTzdn0gH-AUFVX3lxTFBWbHlwdjduR003UDBvTU50MVc2VVFBU2x5cHV3Y3dOeE0tdUtSV0MzYzU2M0xka2dYYkRfcDUxT2k4VGN5UWpUMVJfYXpEUVd2N2JkRWtPcENUQlRra2FHWm51NTFHREVwcjF5S3ZsRWRQNndWR3Z6SjNHVVBwcGtsRFZuYmJyWkJ6TEs5a1BXZ2RKR1NRUlhfMTByQTBPc1VXMmcwUkhNWWZXOXp6RXF1cTZWeS04TmJrbXpxOHYxU1FKMlo3YTJRaGI1V29BTXNUSl9tbW45NVk5bHBISGVyLUR6SlNFNVdKT2wxclhZaDhienE0QXNQbFJKeUNn?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet clears proposal to name Navi Mumbai international airport after DB Patil",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblhZU0RJVnM3b2t1b3lBZ2JnU0U2T0dqZ1ZFTW1NR245ekR4VXZLTXRFTTJoa3RVWlJCQmJtaGdaZVJlNjBRc2RzVWxRYThzX2Q5ZE1oeHpwSHNoQ3RTbEJaTHN6MnQ2eTluY0g5bTgxdjBJOWRxTmN0bTBUTmpXVy1LWWV3bUlNQlFaR0NHZnhnV0diQ0dmd085dmdJRzJXTEtQQld6MWZ3eWphRTdGWHNOS2RkSVhOVXk00gHCAUFVX3lxTE5yQ3YwQXZhVTdjYVlhSVB2OTI1VDhlaElpMGFYUnpzMkpLdkdHZUZaVW9hM0dGNm5QRGQ5OFRjU3BSZldfTi1EdEdOZ2hHRUZHTDBnUFNNdUV2aHZ0Yl91RE1RSktxX2dEcU1CMm9fc2VrNWpjQ1NvT1JOY25MVTVpNFJvdzNyMXJlSHhMR1NkTDQwRkppN0k3T0ZRYjJOVG13Y1NxcVFtUEJoa0lXeHQ1TExFVEQzcE5UVG5QTnFlZGJR?oc=5",
+   "published_utc": "2022-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta Group Foxconn in talks with Maharashtra Government to invest Rs 1.6 lakh cr",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmpabWQzLTZqcGpEOHJKMW83b0Y5NHpQZG9LRkZoRm45X1VpQ0Jhc3RvS0tPQy1jbjAtbVl4azBzbmZiNVF2N3EtR0xQZDdwVkZEZGJJWnZ1ZFlmRHhjZFBhZGlLVTU4MGl3dlhXRGdMaXRWZnN1by1VTldkWk9GR21Wd1dvV3VTM3RMQmg5WVJiMGpvZDV0cFVUd0hMalE0THJ5cHY2Z19DTmxydFZCTFZUd3ZXcHk3Zkh4VA?oc=5",
+   "published_utc": "2022-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Nagpur Railway Station To Be Redeveloped With Rs 536 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2xOdlFzZTloRW5vN1JUbFlQZHUzWVZZM0FMb3JMUEh1YzdUQ2lyVy04bXVvV0tfeFVEQ09GRUU5cV9fVzhSWmlHbmh2MGNNRHFRbzlnbkZTY2FnZlNrUDhNd3lhRmh6Z1Itb1doZTh4ZjBHemlOdUhXZ1A3QllOOTAzTEROckpGM0ZEdkcxWWlSNFJaYVI5QWlzdjBIdzNHTjZrcmRNcWV3aFg2T0HSAb4BQVVfeXFMT3lIWUtST2Q3QVdSQTRGYVBkM0hKaGhXeWdOSHBVNEtabFpRTlVsT19EY2NWM3M0TGNETUpPRS1XWDgxa0lVTDdhWGNRVW9RSzUwLVhUSFJOYzh5U1NxX3JFNHVsMUwwbks4dV90ZTdMVEV5aElxYUptTXZVUkRpSjNYckhmWTNPX1J6eThUSFB0TXduaUlvQWZhMFpmdW1hWS1zeHhETTMtWV9WQWtvWUowWmlyamVSNFMyUV9fdw?oc=5",
+   "published_utc": "2022-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra rains: Red alert for Palghar, Nashik and Pune; Orange for Mumbai, Thane among 8 districts",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUXV1ZEdBWnFLYnl1YlphSmZDRDJlQjFDYU50OTJuNmYyV1htMGpHRTBwMWl5VmEtVDN6X0VWSE1HbTZxOE9hejREOUJBcEMxTzN0N0ZVVmF1X1ZnRnl3YXBYYUdKdTRvTjJvd3hyc2o0QkRuSVlGTXYzVGRlc2pLOGEzY2NfbWFKdGpwU0ZPQVZYcVJZZkMxV0hRS0dlckdWQU4wZHdFUDdKZWw3NXlIMGhkRV9Dd0dTZjZiQVJfTndvUXY2a0FtdmY1VUJUNU1kZEluaW5kdndvTzhvSVFVVmI1T3ljTkJoZWZKbTRHcG7SAfYBQVVfeXFMTzFSbUp6cTFhcWxPU0FhTzNOWmFCTHR4T214MURXckh4SFZRd0FJdW9oM1RfbXNoYll3NUIxRU9xNkphSGV0ektwZlhwcWg0VWJNQXhUYkxabm5sUTRoRDJBcUMzdUpyRE1FTkUtUHNqamR1ZEVQOWFOczNBTlYxR3F3eWdYSjE4SEVPUzBoNTliOUJUc0FoN0hXYko5ZG5LODFoYlFoeXdNZlBWb3kxd3N0OXhTeUNUVWxCRFRMcFVjcnhpUWs2MkRCVzl4ZmRNZGpJSmxuc29USW5YS2lscVJ6eUtBUFBWVzJmRWJxVmRrZjNkNVp3?oc=5",
+   "published_utc": "2022-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bank of Maharashtra Q1 result: profit more than doubles to Rs 452 crore",
+   "source_name": "bfsi.economictimes.indiatimes.com",
+   "source_domain": "https://bfsi.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHNFeHNpSUpkZl9TUExTSVVESmJOX2NTOEZUUFJqbUhUampYRENuTlRSa2lkXzdBUVZZa01CVWRhUF9wMU5ZWmdfRTlVQzFpUmViOUMyWnp6clRRSjVJWlBNUF9KNHc0X3llVzIzc1UtcXB0blRiWjl4SjVLTnNaSTMzdjJiZmNDaTU4b1Q0YjFaaW5BNnhTQTRYLWc2cHZMZ3NxUzBjRWgxSjl4ek9CSHZ4bmpYUVJ5Vk5YY1g1akRBbEpIRkM2dnR30gHKAUFVX3lxTE54c0V4c2lJSmRmX1NQTFNJVURKYk5fY1M4RlRQUmptSFRqalhEQ25OVFJraWRfN0FRVllrTUJVZGFQX3AxTllaZ19FOVVDMWlSZWI5QzJaenpyVFFKNUlaUE1QX0o0dzRfeWVXMjNzVS1xcHRuVGJaOXhKNUtOc1pJMzN2MmJmY0NpNThvVDRiMVppbkE2eFNBNFgtZzZwdkxnc3FTMGNFaDFKOXh6T0JIdnhualhRUnlWTlhjWDVqREFsSkhGQzZ2dHc?oc=5",
+   "published_utc": "2022-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Air Force launches its center of excellence for Artificial Intelligence in New Delhi",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZlRiME5kT3U3ampNZ2pEVWdKVGxIalQ2UmRHWWJtS0oySmVKbl9aNGNNWmVaMDJESEY5RHJ1U0ZGQWFQbm5MYTZNQ0FURUtZYnVDb2JweWpCVHdIc1B0QlBpQnRwQkhvVWluUWkxVURBMVpwbDFaUzl3SDFzc1pmTjc2QlVIcjJiR1B6WE9MZ0l5ajIxRERnZnJ5V1ZkOFlPemEyR25kSGJkVVBtUDdIX1Y0SExqVGxmY2hWVEo4Z05pZzZLYmVjZzRJTVJkdVVEMGRpQ1pZeVJnQnVFRU1xTk9lUjZzOWViaF8xQVVReFotak82VU1B0gH7AUFVX3lxTE9EYUlmc2Q5NnpMNGxrS3h6cTZSWkNYdFNOWEh1Q2Vwa3dKajU0VEh0RVY2S2tUYXN2dkpEanZjNS1TNGEyd2ZfcGgxMmFUd3YxcFg2a3pwVU5oM1Z0THdSMHRSN1d6SjY0OXo5ekxBcC1OZTN1azRwLU5QcmZjdU9ZalRSZE1rTHZpbU9rcU1SYUhVVDZjMzB6bTVxZEdEMnFsdVZuNTQ3SGhnTEQyUl9XQTUxSlY0MUl3S1hiWUJaTGU3YzZDeGVHMlR4WVdGZWFRRmVXLVBHYmdra2RVWFBhYzdodGlmS1YzQXRCNl9mRnNhODBoRS1KdFdN?oc=5",
+   "published_utc": "2022-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra names top administrator Radheshyam Mopalwar as DG Infra projects",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdER1VjVDUlIxZnl5cDNiUEt0Q2dxQzNCZ0hhNHd6dVpJODRBdk1SZzdQUEN6NFhrOW9jc2w0d2s3TWhSU3U2cUF1bzVoSkpZVnZUQjdwcVdIaERuaVlmNlNPWWYyX1hTMFAxN1pwUU0xOHYzaU03WjllS0tFLWcwNEE2VTY3UU5TT0ZJUHRhNF82MmdfMDlJSGNPa3IyVEFmdnlHR3ZfUVNuNGZzckpfT1doaFlRekp4YzVZaF94UVlTLTRydS1zd1hFeHdmSWhHMFlfMS1seDZUYkFrSzJZSU9CdWZaS3JHYWfSAe4BQVVfeXFMTXc3R1NTQ2ppdU1WVFFic3FsTF91MjlieDRjWnRfbXBJMG9pZ2hYeWl1TkVMWnFPM3Vyc3dyMzRPVHdSVGZrTFM3ZW9UdV83YTM4Zkw4UWl6Y2lDZEh0S25JSzB6SUpTUnZVVDQ3RlRCd0RqMFJlTUVzYW5hdXlJRUx4NGFzN3c4R2MxQjJ6LWVqNHUwdU9OQ20yVVREY25NSFdMNU9sMnpfa0dtTGpoeXFKSGk1TlYxSmF0aVJ3VW1EMmRQSGx0ajhTRE1YZkszOGV3WnhlZEw2cjNzZW12WF9UN08tQU4xTVlrM3RJQQ?oc=5",
+   "published_utc": "2022-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Har Ghar Trianga drive: Shops to display the national flag in Maharashtra",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmtqczc1WldXUGd1c050RXk3ZzJham5iYmd5eUpndzVXRk9BSTgwOWlXT1lSUGpqbHFCdGdQTkpxZHNvUTNyaTdFd2EzbHdlOFVTeXV0MWxFcnlycGR4M2FQXzlHT1RtWXA2dGdPUmszLThnT21IMVhLWnFTN0pkdjREX1pjQ0NCSDhHSkdOdW1LYTFOSk5rSkpQcXpiemtqMUtjVXYyMGNCcnNqVWJEYtIBtgFBVV95cUxOOV8xSHcwZmFTYXphdlZHd2M4X2ZNMlpOUzJDNVVJSjdJNE5FOVNqS1NKY21fVU9uaUIyVzhuYnRYSEVWMHRFTVhBV3h0N1VxN2ZXMHJVMG9JOVVEV3BvUzdwZ1pZUEg1Y0RFZG5ZUkp6enlNV3FrQWprTkRoTXNPSFBfQVZrRkQtZXU2RzhjcGZzQWRoWWNYX1Fjc2dWMU05UGhNZTQ0bUtQMExFX2gzRzVLcjFnQQ?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Netizens say viral photo features CM Eknath Shinde; report debunks claim",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWhQeW5OSUcwVjBKaHliOEM5U09tdU82Q3NQVThtOUhTYWNFekVHcjY5YVNlVEY4bTNyMVFDSWtnM05iNHpaSDA3WkJ6Zk0td3ZkbGQydWNmSFRyMnl5RExHY0RuekhsdWZxZy1wWjlCUjFYV0l6WE1nZXQwVFk5R284RHY5TVpRRFdWdDFzb0hSX1hnZ01iUDllbEpqenJpNHZFQVJGQWFfWWFKX0RpX2pTbjF2YXpQNjRZcU1Wc9IBxAFBVV95cUxQeEROVlR4aGxUTDJBUS13ZEVkd3lHb0c1SEgxQjVHdnNIdnlwMW5CdUc3SUV4TGdKVk5Pc2tCZFBHdGoxaUp0Njd3dUdNdy1MaTNza3BnRG00bVhMd3hDaE1LUlFJWGRkMkhkSXREejdSQnVLUDlDbWNhSk82MzJBSUlRNmdWclJvZkpSSGYzME5uSDZIX2pQLWtxT2EwUWhTTjgxbVVBR0gtVmhCS2ZXekprOEhEUEtUbWpOVmVLVW9sYXlz?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

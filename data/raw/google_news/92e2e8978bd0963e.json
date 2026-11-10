@@ -1,0 +1,29 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Karnataka Governor Thaawarchand Gehlot lists out achievements of State government in Republic Day speech",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVFoxSFdLVjVySV9nR1o0TWRUQ3RwekRwZjhXRUtkc0FWTURuVWZSRnE5WllocHhUZUdxb09PT2dxNkFZb2Z2TFR0UHVyc24xc1JHMWhTNEduUmRpbXdVVFNsdmJ4bE54S1NMeDVnRThnZFNIT3FZa3FyMGM4cWFDY3JSMmR4WnF2WFJROTRxSUs5NVJKNDctcDFpczNWTkUyZ3hFTWlRRFRlV05IdWFFUDZlM1hUTncwcjBBQnlWS2c0bEZzMnl0VUozaWJwSXNPQ25SdzR4bGlXZFV3UmZqWjNmbU52RzFxbnFfYVlMYWpBSEYtRzFuOThkVVhkZVhp0gGHAkFVX3lxTE1UN3I1Nm1ucWdLOWl4bm9Eb3lJZVpiMFlxbGNFS05yOWZDczRuS1dlQ041d1dYOHRaMGZhVEpUTnlma2U3R2tUbU5sZzJ2WjhPc04zQVdIM1BWdlAyTkJBLXBaYzk3VDVZSGE4NGc0UDVQai1Vcl94VEJVdmE0VzR2UzdBNXpua1pDcW83VUd4TlR6YlVlNHBGYWhxbXhGVUJXYVY2bG94dzJVSmtHT1NZM1FoTHhyd1FQS1RsczFkbFJ6bXFSckVJYW5tY1o1XzExaGY4M2VXZG1Pazd3aGRHZ290UFBual9hbGVyU1pKYmY0NDV6WUlMSzlsWEFGMmtUZm5LVGxN?oc=5",
+   "published_utc": "2023-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Data Center Capacity In India To Cross 1 GW By 2023: Savills India",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTnNHU3A1MlJyamxPNmVWdzgtNmM4NGxBQWJCRzE0aEFkUm1YWmZUVmxLYXNtNFJMWkRWR3ZQamU1SjdlQm12a1RNei1kWmVXVVNPbjR6czVzNE95MmVoWE16YjdFTW5Zdy11amFOeHgybEVrbmlyZlotQXV2SGNvSU4zNTRTUHpjalE?oc=5",
+   "published_utc": "2023-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC India Partners O2 Power for the Supply of Renewable Energy to Data Centre in Bengaluru",
+   "source_name": "Passionate In Marketing",
+   "source_domain": "https://www.passionateinmarketing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHZ4UkNWdXB2d09rOVdtWmVnZk5yMDBQRlExdWR0azZCVllNam1OQWpSdENDMUJwei1WMHF5RHdlNnd4allfbGdfMkxTeWQxemd5TUp1Uk9hdlRNRXBpOU96ZlpzUlc1MVh4cmk0cF9sNXpwVWtqd1JDdlNRbXBfN0JnUzJDUHFWUXZ2MHljTUt0VlNuTTRJdDh4ZEpjQlF0LTAxWHl4RmE3VmhxRnBxLUYzdm9NcTRVamk2bVdUaXc3Ul9obHdaNlN2QjBadw?oc=5",
+   "published_utc": "2023-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

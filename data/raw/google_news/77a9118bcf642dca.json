@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Tamil Nadu’s DMK-led government faces policy missteps amidst controversial Bills",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVRENm9hdG85Zl9tVnlvUzBBN19uOHhzUEdMZDI1MTN2eDBucDdUczlkc3l3TDhSYnd2RlAxV0ItWE1Hb2ZSNnRXMVBOZmFnU1FLZ3RiSFlqM3A0bXNTRi1TS2owSExLeEtqS0JsX045VWhCMDdSYU51UTA0bHFSQkNJM0lRS1c4YzYzdHBuRTRURWh4OUJaRXpGcU1KTVMtNXFVTl9hZzY2RUNpWVhXeUdCRFYzdXd6akxVN3QyTnk1THJEZ3ZZcG5B0gHQAUFVX3lxTFBqU3ZTTGlNaEhxRnJtbGVmUk1nWTFfdjJxTnRrWHM0YnBMd0hwaTFNdExlRFJaWkZkRjBnS2ZpODM2aVlqU3JZbE93WDdaX1JiU3FUN0R6bmczeHY3SXZieXJYcEF4R3lJbFpqbEYybXVBRm1NS0IxSmdqZ1ZTYlRkOWkzZmd1enBOcDk1WWZZakJjVlN3RXRJdWdVMHRiQWJ2QWNja0QyX0FiYzZ0eWtwTUNOWUtiZXRIRXd1emZGZWRkOWZYaEk1eVhmTGxkRU0?oc=5",
+   "published_utc": "2023-05-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cabinet reshuffle: Rajan replaced by Thennarasu as finance minister; new roles for other key figures",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWZna2lYYlg5OWNBb21XSFZNOHI5c1dtekk0S3BiS05ialZiVURGZmpQdllHUExWSE94azdxbjludXAyMGtmRjgtc19KcjBuOGxJcnNHSDFoeXc0ZTREVjBVblFWSUZ4YVRrSUVUdXV6Z29tUnFRSms0NWh5UFktQXVlQnhTY3MxQXFudG9Sck1oNnZzVEF2OEs1eVBDRkdscWk5M0RYcUUwbTFpXzc4VVFYckRmVkRxaTAyajZCZVF2S19WZlowdk130gHQAUFVX3lxTE1TeGdScWdNSnFaNWJ1YThPakx2TUViTm9pRVFfTjBrY0VSOVpsUXVCcXpEV25sQ2ZCWkd1RmdHM1hSTmxucmRlalN3cTN2SWdvdEVGeEFkTWlJR25hbFpsS0xFTkI3MUJOS2NqS1lHVXhVMjNXbldneWxwY2dCd0QxVjZCWDFSZ3U1Mk9IVjRibWNtOUJGTUd1X1NxSWV3OGxwQ1FWajVac01BTHNqeFRvZ29QMzFmX2hfSFlEWDZhalpUM2hfY2EySFhYWmN4VXg?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN government tells SC that anti-conversion laws prone to misuse against minorities",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamkzM0Y3a0psYUs2d1pRbV80SFZhQlNwdzB3Q05ZRk9Qal83X3Q4QXpvSnFPNG9UTjlPT2YwZDJsR25waFFxaGVjZlhQNkVORmpDaDR1RVViWnp2X1JBdjZZQzRUVjl6MmVrSHFRRm4wMlRDQXRYOXd2UHJ5QlFMdDNBOTltclZDbVQ3UlpxVTVwUC1RWkN6WDdQLUhDeVpBVlJ3WnpVWlEwNDc3MmdraVRBekJTenp5N3VKNHZ1ZU42NGNmdm1VQlp0OTBTUHFT0gHWAUFVX3lxTFA0Q3ZxblNLRS1TdXExdzZNVkVlbm5CMU1YRFJaR2pLTXN4RmxuZllXRUo0czhicG5MckM1bG5odThnYXdnUDRVSFNVdkZZX1RxM3ROOTFTVGE3dTB5STZTOGNRVWVMMk5yRUZ5T1hPN2xhUWM4NHRhTXZHZ0xQSkg0V3dWRUdvTnlDMkVibDdHTUtQc2htWGFHT2xKc3F5eUVxcHQwelFXNDlsNUpnTE5OT1FDSENPbDlzd2VUTWplem0zaVRPaUZVWmpwOEg5Y3hBVHlnN2c?oc=5",
+   "published_utc": "2023-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cabinet reshuffle: Dairy minister dropped, MLA inducted",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUd5VkxVYmhPZ0p0bGFzSnhlS2gwMUhWaUlLY1dMU2V1ZjF4SXdFVG00RzI5Z1ZISTVGNE9pN3pEUDFxN09XMTBfUW5tTmlZbDNLQXBoYVR5dFhTQUpSNkJZWUZFN2VXWUtVRFBLcEd2YkVSdDNoSkhiUXh5ZVZ6VTEtYjNQaVc4MzlSbU9wYm95ck1vRmpudFItTWVIN3lTYU5LVGxyREZKd3BqNHMta0JzaWcza19PaWQ2TldB0gHDAUFVX3lxTE56U1FBYjVZSUlDczZCbTg1alRtMXQyck05d1V3WE9sMENIQy1ZZTRhdjdickpqV0ZfOG5ZdXhwcTNjdXhiMlQyR2ItVVFQdW12a1FnTVpXRUhRQzJ0d2FVYXV1X2hQa1V6Z18xUVl6WDExMUx5dGVnSDAwRFR5N3FFbkEtT1hRaWNMSHdCX2t3aHBaRk92SDdXRzdneW9OM2wwLW5UX2lzdWRUNmRwdFNkZzI1aWFRVlMwUURxbEN4Q0RJNA?oc=5",
+   "published_utc": "2023-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Opposes Karnataka Minister's Remarks On Mekedatu Project",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVlVRMVVHdzhwNnNjOGd3REE5WS03VERDYTBSM0NBMERuUmZESEtUVzlkLWNJUVBYZjU2ZDBna19KVVI5bDB0ZGVNejhuMjR5aUZOb3UyZ2FZRGtnQXpUX1pqcDNJcFEtUnIwMnlMVmZTdnFaS1dYMlY1UjcxVnRxVW5IdWRlN0hGR2RmSzRtNkF1U08wQ3EzZ1dLczNqY0RrVGtYbDJCN1NncUZSN0NjbGhNR3ZUcWtBVlB4SUFPQjNNcC1QNGp2czR30gHSAUFVX3lxTE1vUzlJY2RmckJYMVlDTFA5ZGpQRHRRUkdzdXpUUlJrcUxzTkljVW1wR3RQd094cXVxaGVINTJzZGsxRTcweTN1VEtuSTdWUFItZGQ3ei1yWXhXVndmVTY5R3NyTmd0clZLZkhqUFJ5ZGtDWlJpSW1iWkRRZW5udDZfb1ZJbVRHMldfUmRVaDU1aG1PZ1V3MG9OazNWbmk4a0VIZ1J5NEdtaGZWNjk2QWNSLUthWkl3cmREYzgxaFdrUWZVaHczZHhnTUNEM2paVW9JZw?oc=5",
+   "published_utc": "2023-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Chief Minister MK Stalin Led Delegation To Visit Singapore And Japan To Attract Investments",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaE44VlBPbE56aDI4ZXBKZUJURElZdUdlLUx0TDlUd2tETkdSSnlhTy1LTFFnZTRlUHRxMjZUU3FvZ3JoeG9wbF8xc3lGS0R3aWZPLV9pLTBtSUNpVkhtWEp2Z3ZQVVVFaFRjc0c2SWcta243V1dPajl6WGhrUFpHRGQ0MktIbnFLMUdrUkIyRkw4SExXbVF6TmoxY2I1OWQxV1R5UjB1TmZOSUlfVzA0czV2VGlESHRDZGtxUENUWUFzY3FSS0JYVGw1cTA4akZ30gHgAUFVX3lxTE14UWNCYnBLYW90WHNub19FNGQ2bERVbDY1NlNldjRKdk1EQU9pd3A5dWNTSld3Y3ExdHI5TkU3Q1lGQWtRVkRfMWFNblVYVU1pYTZlb3Q5OUdZNEp5UDlTS1ZORDlodnRjZ0oxUzdzTEpzSnRqQ2dwallrWGVVdjJxYUJleFd5M3NmUl80cFNlVHA0d1NGemw1a1FtTlVqdXYzTWVmekJrLVJNeDFYTWV1bXVSWXdtc0VPeEZPdXAxZWhLS0pNZ0VTRkxDRE42NXZEV0V6S3RLbm0wYlJ4eGho?oc=5",
+   "published_utc": "2023-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin inaugurates iTNT hub, school buildings, renovated fishing harbour",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ1RBeV80dnJpTlI4VElHT0lVV2t0R3B4SWdMaXd3ZVM1UHF6QVI3VEs2MnFNN1BBUHItbjN2WnVPbU5LaGd0a1d2ZVZZNnZzQU1rclQyOUM2dkF4SDlteldYZUs3MmUyMThTVnotNHJaSTlaUUZ0MmNOWFhlWnN5TkZZeWlBT2RKam1RUGRtNFhiZ1AyVmx1X0VpSHpaRVM2YkRFS0hTaFU1RmNTbnpNM2FhN2dFOWNLMUNrbGd5Mk02aVZSdE5ZS3lGWS11MlhaTlBoMVFDb9IB3gFBVV95cUxPUEJTTXhpSUdFdzN1cHUtcFZwNVQtdmxIcGlCNG1IdDV0OThZczNUdmdGUWFCQjdZd3V5WXQ4N3VVamtyZVd1cHdsVndXZG0zQnJtTUxERHVqM2VSa2VkM0pzc0VjeFh1YzkwMThXZlJfbEl2X2pKN3l0dGtLZ0x4M3RZeHN5N2p6X1Q5cFRZdTBWU0RQYUVzbjJDbHIyakFGeTZOVXBzYVlyel8wRUV6eFFleDlYWWhlcDd6cGdWUFBwVWk4bTE4LVBPdnhiU19SZ0VMMU5SZE00S0IwQmc?oc=5",
+   "published_utc": "2023-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt GO paves way for expansion of Digital OOH",
+   "source_name": "MediaNews4U",
+   "source_domain": "https://www.medianews4u.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnhNdWxGbEo4RFN2QjBMX2ZhU2tSd2F3YzM2Q002WEFETWhwaDBrN2lCMWkxOEVRc1RhRzhGR1Q4aS1kaXhSRWh0bnpoR2Y3TktjTnlLTzdUS05PYU5DNDM0cTlGbWxvTWgwZ2ozRnBVRlROZ3V2UUZUSGw4Y1dUSnBmalc?oc=5",
+   "published_utc": "2023-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cabinet reshuffle: PTR shifted to IT ministry, TRB Raja takes over industries",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTzlhVV9EbEptX3J6bjBIc0Y5RVdLOXc4Z1RVTFprM1BfLVNuNDNaNW10TFRRLXdEaUZvMW0yckFTRHdHd2VZbkotNnJtc3VEdUVYeXNFZnZCM3Z5eWNLTUh4LXFHRVRXM1RldXVqcVBYMGlDMzYwZC1kQm5fcTBxOEt1UWhsbmt2MXoyMlFLdk11ckw4VEd4QTA4TWlYNnZwcGlzZU5zZzBWUGM5T1QyQ3IxUzYxMEFNeTVXc3JNdFFLWjE1clNmejNndE5pSmVmNFhuTm5fNEtPUdIB4AFBVV95cUxPM1Z3QzNXWlc5UTRYX05VcXhDal9qNEhxdzJidW1uNER4cEhEaGtzTEZRck5DTnhld0l1OXJ3R1dUdUFvV0VIWUR6R0V1S3Yyd1FSS0ZYWVBHRndxLWMzeWdQajc0UW53aFEyNFVoM3hucHpSbTlXamt1aXpReDNhWExRdW5VWnFva0hyMy1xZy1za0tLczBCa0ZCdXBpRjZOUUhyRXA4TGRaUG5FRWFTdVJFNXlJc2FzUmQ1YktldjRDVkhWN2VVU2RQblVCRmdRbXZiN0pDemM4STdTSFlQeA?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu cabinet to keep finance minister PTR amidst controversy",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWR0bFpQQ1V6UG5YbS0ya1VlMmxwZWkxVHIwLXhjRU03Yy1IVUNJMERKWDA1ZmhNcFpkT3pNR3k4MkVSaFFQVXduZWdvQVIxVVNyZUR2N2doelFzMEI2Q2RyUjVsYXVhQWhMVmVwLW95ZDNIX2ppS0lhMWNIeTltcG9PVkFNcmFuWG9ha1NJdkNRWWZjb3FzTFZoSlFSYzRURnJtM3BTbVdtVDNUeVpsZlVqczFkdzR6NTBTelFyVdIBxgFBVV95cUxPb1R6aWNHMDhiUS1FNy15NlMydkswdlotXzRPbmJiekFJZ2VMcklQQXljTmhtcHhhVEJsNS0zNW8yRzJPUHdsN0hhY0pZME11TC1KWXA3SmFyaVk1bGR6R0tWTUVHZWZJcDNpRjhLRFFJbFVFaWkwdzJ2eXR1NUI5cHJ5bkVRaENYMXJMbGJmRWVPWkFQZE9DTkY5YVVYQlpWLUVzX3l4M3B6WGM5Y0JwWnFkQkQzQ19sdXQ4Y2xmRV9aM2xXT0E?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

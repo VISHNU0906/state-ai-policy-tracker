@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "Cabinet okays AI use by cops, ₹23cr for ‘MARVEL’ project",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnJwRU9Jd19tdjNKZ3BxeC1yam4tQlhTY2NYNHV2VkVFV2Y3THF2b2Nmb25xX2FsZktDd29CN1l6c1lKbE1ucHlTdVh3RGpXbWxzZWZmZW00RHo2NlNkVVZFUTdTR1M0eFJ2NTNmM09scW9sTXJiQnBKYllSM1JZTGxjTmEzUDBYeElYN3U0OEE5b0hjSmw2YnRDN01ySzM4aWVjU2o2d1VlMi1FMWJzelV3eHdfc2R0UGFMWnNFMFVMY0ZlOWJPczlqdk94MjFLYVQ3VFoxUlNyZ9IB3wFBVV95cUxQX28tTEszb3JCSU9NQnRraEpwZEdkdHRnVUhDbXRCb01CbWt5MmxEXzJja09VeU5Ua1dIbnZ3TkJ1MUNhS1NfVGRCNUhaN00tUGNQNXg2ZklvNUliUmxKT1NoUm14LVdfaG1kbHAzbm1RLXFWVHgwb3l2MVY1clZ6SVRQYXlCS0Q2WGk3bXBNak5KQ1l4cnAxY0tza05vcTJ2ZVVCajhoV05QZlFtYXJTZ2VwOTJSS3QzYy1LR2M4TFphSTl3dGhyTVlKMXNKaXhQVU15MkZlaWZ0SWljWTBj?oc=5",
+   "published_utc": "2024-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre transfers Air India building ownership to Maharashtra govt",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGVUdzBrd2JVR2tJU3lsV1Nvd1c5U3o1MEZaOHpFVkthTEU0TktkOVZjejJZLWRPU1BrNG5yR3ExdTJIR2ZyR1hCYWc5VGFjOER3TjZEa0g0SlgzbkdZWjU4VHdXUmFDZFpvU2Raa252VHV3eVFPcU9ad01wanNTLWJZaFJBNG10NmFZTWlHeGItUXhxd0pLQk5raUZ6c0xwdlJtRDNKZnQ4ZGY0M05aeVhRaVQyVFVPTmFaTHdaZkhBY3B3NDhXVHh30gHPAUFVX3lxTFBvZEYyUVBwYy01dXIyZWFUcW54Rnp3ZHphV2oyck1fMXRXRG5ObDBuaEVpeC1Sa3hubTBPdnhKcVZVcEtxOFhDYVdxeGtLQ0RGeFd1YWd2cjlsbUFGVGFxNjFPVnExWkdEdFdCNWdlOG41aFdjSVBtV1BzOE5DWktBUzZ4WkVUWkR0YzdRQXgwUzZmU0lHOE95RnBuYi15TldUbjBBOVo3Q0F0WlJzSXdZZlVVMmhLMVJrZGpGSVEwbUdsaEwyYjNEd3Azd0dKaw?oc=5",
+   "published_utc": "2024-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet conducted 3 meetings, 62 were decisions taken",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWpZVjZ6UlFmUFJ1Q3RMQTJNbDZ2ckhFLVFnU1hkWUs4OTczT054T3dRclpOMUc5M3RNT01jZnFPUWdFQzNFWVg1UlN0Vy1HWTMxVmRZUjJJc2ZkM0hVWGFiR0kxRm1VQmdoc0F1RDhmRjBVRWgtUmFQaEdSNVpFblg0OU5hUENoSE1yZ0E4LWV6emFk?oc=5",
+   "published_utc": "2024-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T Technology Services (LTTS) Secures landmark ∼$100 Million program in cybersecurity",
+   "source_name": "LTTS",
+   "source_domain": "https://www.ltts.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUxNazBKZDV6RlVDUUNQaXY3OE1VODktdG96elJZcU9fYngyMjRhc1VyMUpyZlpkMjVCRFVYU2ttNlFzT2dtTjlDaFlCd3JmRFZvaTgtSFZNQkZ3eGhuSW1MWjFodmsxOHo4bGlPMU5WZWdDTUx1RWxFbFB2blVQbFpnRE5wdGNZUHlJckloaHNUcHpuQkl3S3RFODJhMzg?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra takes ownership of iconic Air India building at Nariman Point",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXJ1M1AwbVZaT0lDcmwwNjZUUUNhUTZBc1p4OGRra2tQUHZ4X2hEYTBPZy1jLWNleWtodVFzS3FQVE52TTc1azh5MzM3V25UcURreWNlVUJjcHdoazg0NVotTzBoTXNCLVRKLVlvQWRNNVY2bl9IQ3I0QlRVQWZMaG5wZ25BUUtkWkFZQlFvRWVhbUV4eURGWVdlQ3BGMkYyU1h5MHQ1aHdNTzdnQnV1U1p4djNTSjZ3bEpTWg?oc=5",
+   "published_utc": "2024-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The 2024 Indian General Elections: Polling Dates",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUJsN0tuYTdjOE9NOXZ6cWVKS29zV1M2RWstM0kwRWFNcVpYRjNqWlprN2xuRU1QZWphNlRJYmJ4V0ZMT3ltRXBIQ0I5NkUxOTA2bjNZaDZWNnJ5dXNvYUJWTU1DTjlXWEVnWjVmb21UVW1XUWtxUmpHVm1nMl9QanAwRDZ6eHp4WVlTT2p1cEhvV3hwVEZN?oc=5",
+   "published_utc": "2024-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "L&T Technology Services bags ₹800 crore cybersecurity programme in Maharashtra",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHFKekd6aU42QjZtdWpvdV8wZmpTcnMtRExmdThyMkEwNVRLdW5ZZ0U4RldpNVRuQXVqTVRzX0ROR2dEbVRuOWMzRi1kU2pwczYycWZCWE1haGlMakZHV254UmdhMFpNamxWQzd0Y0g2a0pZOUJ5N3NWRnkxWHA3R0Z1Y1BmV0FVdkx3Z2M4em1RQzFOYVBLa2lSUjdVMGMwR0p5VkVwdVZrQUg1R0xWVzVDZEJLOGlqMDNYZDZXYWZTV0FjcWdNZE82NFRWeVBpME5UamZLRXQwUlpZM2FneTFzb2UzNDTSAesBQVVfeXFMUDVfQ05jZmFhUTlaa0lYa2VsM2twOERUenpuTy1RdmNHSG1fOGExNTRVMVdUQVlVTnlZNEdFdlZFWTRDTjlWYUlIYk80YjNmZHNxUlVzNTdBbXJKdmdraXA2bGFYNDEtY0dhMWhLaV9GWkxMR0otRFppN1I2amJEaHdodXhaX1hvOEMzYTI1bDJuS3dZZkpLUUdrOS15NFBfNFJUQ2w4djl5dmV5SDJKaS1zUGk2ZENzYTNhYVVNQWdObkR6VFJhbTlFdlV1cUZ2Q0MzeW52WGIwZTN3ZmVTN2IxTDR2UXktWmRxSQ?oc=5",
+   "published_utc": "2024-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Films, ads can be shot for free on govt land in Maharashtra; GR issued",
+   "source_name": "ET BrandEquity",
+   "source_domain": "https://brandequity.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2l6VnFmWTVLRTYxS2ZvTGg4Tndod3FFdDR3bC12RlB4YS0xSFNhR2ZlM1F5dnVpSlNVMVQ4UVpXYWtIMWlCWmQyd1lxdmZnbHFYR2VFYTREa2ZJODV6Y2JtZG1zT1c0TTdwc1d5NkhuU0RweWJwZ3oxVlUwOU9HM1hHM3R3eGhHblRPSV9nZkxJSmdTSVF3anNlV19jR3pjY1BYSEE0YzNJQXpQU2RadHhSN3JVRlJQSEJfWWl1NzdPVmhRQVZ0bHd3eGpoT1R4Y3VudtIB2gFBVV95cUxPRkcwX0NrRjJhRDBRUDNIUGpSSi1YYXU0cmptVjVwSGZEcV9KNTBPcmpFLXVKbEtwOHo0UHY4bHp1R0UxR1hOeVZPSnIwZmxsOTBGZFU5dEtBWUstRHpmcGRjQnMxSkxMS0kxZTJzRW5KSU5qeDRVVFJNX1A3N0V5RDZuRkdzRW1ScUlqUzk5V1pQX3FTOFo0cHhFbEd3dkllMDFLNElwT3dZd3VXMEwtdjVBMG1HSnFMTC04WjBoVUtEYldFX01vOW1nRm5JOHMxWmJCU1Ezb1J5dw?oc=5",
+   "published_utc": "2024-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre to raise Rs 1,601-crore from sale of iconic Air India building to Maharashtra govt",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZF9YSTk1VFlURFRJLTJfTE9ROTMyVkJGRGpzaWpIRm56aFMtTTVPMGh3UEFOWktPc2xsTEM4LUZXRDE3eU5VS3BYTDk3SHlNTjBCaTdCcjBDSXIxX3lWcmlVWHZMRW96ai1zVEg4NFV5U2o4SnEwdloyS29qUWNONE41a0pGWGZndzVqd2hWdXp1UGRndHlzQzNyYzByTy0ydXlMTGZHZWlsdkQ5ZzFBckRpYVdHR19CeDE0YmIzbkp6YUNFNUF2OEhqN1d4TmRyUS1JS05wb2QxY2hOR0Q1bDR0c2p1S015MkHSAfABQVVfeXFMTzQwUkQzeUlrbl9BTUJVLVhCV0pCRnlqOWdkWWFYaF82TVhTUmxLNTd0YTY0LUpYVmc5S3RlYmNjUV9LcEY2bUl1NmNqWXp6REZWUmRmc3pEYmhyUDk3YUN4R2R3Ty1EN245d2VEUElJZU1WOG1ha1VmRjhOMzNDN0czVzNjYWVIZzhSM0wyc2RaVFExbzlsMFVNdnBySU04MzFHa3pVTUdibldJSDdXTGlhUDlObjU3LU5sMFBmdVdkc1NFLWVBVldPWi0zeEJUQ2xWbEptM0VXNmxWazRLT1haZjltaERuaGhuQ1hWZk5F?oc=5",
+   "published_utc": "2024-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt Allots Plot For Padmavati Temple On Disputed Ulwe Site",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTVnV21Nc21qWlE1RVdQeV9ybEt6VDJXem9yY2lCRlZxQnJZWlI3Zl9LakdValoyMTdQd1NyNS1CUGp6WXBpYTltNGdNTHpPOFNWRVVWXzhDM1U2LUZxVkgwZk5PQlI2OGZOQnJIME4yczkxRWpVNEVkTFZtY2liY19tQTBkOWZ5cjVmSHNzWV9WVXY0WlpadVpSb0tSUTE3b3VCckFkS2xOSEJ1R0RJ0gG0AUFVX3lxTE1VZG9MWFhpdGh1T201S1doUFdtQTV6c19heVNoVVNFOW1qVXRfMmtJb2lsQl9fWnBMTEJTMFBPVnJmNTg4OTEtcFdoR19sdDhQOEE0SmxJYkViUDRsSzM5NFdvVWlYSzhWYmpnNkRhQlZITzVLTXdDZm82QkdVV2NwRWlSQWhTQUQxaDNzc256Y29Nb2JubVRDdk1GazU1VGFKT2FTX3JCRHRwVzJobzBFaUJnTQ?oc=5",
+   "published_utc": "2024-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

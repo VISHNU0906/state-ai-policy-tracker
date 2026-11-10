@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "Expert Talk - AI education is a double-edged sword right now, says K Anvar Sadath, CEO of KITE, Kerala",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVZsM1VKTldlcjkzRERMWmJqTlBWbUVHTFBnR0R4TlRfcm9vZHBRT2NVTGZtNVc3cU92SExqUkxaVHhmdzFPRDdWNHhIV3BKLVJWcUwzUnZnaHlhYXhIRFpYbEFvTXpncWVkZkhRRkRlbE9SaURlRUFxNkVrRHR0VXc1YW1XcXV5MU51Tk5JbFg1dFplNWxTbHIxc2RWUjJzZmxTaGpDSktJdGVsZ3JRSDFUY2dkcFU?oc=5",
+   "published_utc": "2024-06-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala to showcase its robust ecosystem at International Gen AI Conclave in Kochi in July",
+   "source_name": "ET HospitalityWorld",
+   "source_domain": "http://hospitality.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLUFDY0w0YWZlb041cUZpX2RHOW1oRVplcC1wUzZaVHd0aGtZRG1BbGNFV3pZZXJjcmdPbnNZTUhtLWloc01FOXFCT3JBY2I2ODNkVmRiV2xBTG1NNzUyZkRJaEduenNfNDZZMnVKWjRGR2dWbHNWQ2xFOE9aU0hIYmVCM3NmeWxWVVNIQXZPRWQ4NmthNWpWVmtlR2VnVjFjcjNTMlkyUEtZUHU2azhKbDc1QWI3QUNjTjdxSnNyQVlIQXo1ZDk2SjhXV3gwRHI3WURmQjcyUnBCajUtSmhQQnJmdFdTRjg2X3hVdXRSXy3SAfYBQVVfeXFMT1A3M0Rjbk1STGVXcC1zYy05a1NJMjRpMGZKdW80TWtkLTVjb0VCN3VfUHZ0NkxNTnRCN0M4bTVHUWlOcThrVjVSRndOTlpaZEpCclgyR1pFejlBenhVRWREN05reFlaUy13aHBINWFfTVFOZEIxcVY5UFlhcExaWTRXdzN3aFdZRnFDdmVjZmVSRHNxdHlLbjdzem8tRmhtUTg5dEgzMzNqR3RPdy0zbW1KWHZKbWdtakdvZnN6Uk15UTlTUVpTZTJmWTJnTmg3Ym9Vb2RYRUVXblRRUzItSXo3eTNVbTNsVWdHdndkVy1ONHo5VG5B?oc=5",
+   "published_utc": "2024-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala school academic year begins tomorrow; 2.5 lakh students in Class 1",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFJvWUxSQUQ2MWNGSXVnNDU0cHNLc2F5LXpwLWlFb05ERjNMN2dmNTJuZGdCaDJCVW5scGtCV3ZVNVE5clZfTWduQldCMHFFUktNaGc1b2lOV3NSZkJuaGJOMlh4XzJnemJ3cEtnVkNoeG5JdWJ4OTd2a0RXS1dIY3E4RTgzN1JMZmxnVC05eUplU3dNYzdmUjhhTlJZdHBEOFEtSnl0VDF4aEk5SUtnQTlaUGlqTjNlR3ktazB1YTZVaXE0V1BtQ3B30gHXAUFVX3lxTE9TVE9lUUl6ek1kWlVxOXN3czk1Y0QxWUlZdUVNVXh6Mjc3Zl9qRVRmOTBmTDA4SVB2T0k5dnFvT0tyczZUeUtISGVQNkRYTGRxSWdkWXpmWlpNM1kzSjN4X1BiOUc3QXRVZ1BLS2k4b2pHbWhZdXVSV09nd09YZEJlUzYyREdCMHVha0ZLa3hsa0ZuMVd2MTAtX3FFUG12bng4Mm1hQmlKZ3JYSWdLcHVZeEJFeG43VmJiQ3ptZ2FVUC1IUGc5TzBsNVc0eTZVTUVzYkpuaUJn?oc=5",
+   "published_utc": "2024-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Police Arrest Organ Mafia Kingpin in Hyderabad Hotel",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXIwaTRTVW80Qm5ZaVNkVWVuVkZ0dHhQXzJUQ0g1bEJVbUMtQnY3cEh5WmtwS3RXdVFPSXBSUDJZVHlOQncxdkM2eEYxUDk3aU84TGwwZ2NRek8wTEE4R0JNdi1YbUhoeElIVm9MTGxOMnIzcHctcmlTM3c1aWNvSkRpUEswaUp4QVFDQnd3OXVsaVJFbXhZejljU2dDYnpjOGVZdnhCZ3R3QVh6S1ZyQ2g3SzFDNnQ3NDF5YVFmYTlQZ9IBxwFBVV95cUxQV004ZXNIWUkzS0xEVENkT2I3NGlfWlBBX1BteWU5cFh4bFJQRFhxeXc1NmdpaVZXUUMwUW94Nmc1c1JBN0VsbWFpMkY2RTNhS3RwMnVubEIxeVZfYi1TNlJuUW55TEt0QWFrN3FUVThxZV82MWdJUUR4T3J5MFpKcTFJeWFpTjVuaWc4RmY1TWlrNjhrYzRjTU1TYmxsOGZLTEs5NFo3cWotci0yX3ZBYkhhZmVlYWpHMndoRWRybm16RHE4Z3RF?oc=5",
+   "published_utc": "2024-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Minister criticises Kerala’s education standards, says SSLC students lack skills to read, write",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd1M1aTdCX1Y4cW1OOXNfU0U4czdjQ3pFbXJFNW9aU2JuRjFpRHdQVzh6RWpkOGFlT1kwaVc5OGoyV1liSHJTS0V5TDFuYUlkNEF0RHozVWpLU0d3akJNTjBnNU1SRFZkUkZxTUFEVlQ2MHE3dXNGa3lWUWxZT19pUm94Tkk0VnBTVHc5eWdRdWR3dC13YjZVSEpXR1Q2NmdtTUI5REtGb3J1cHpOenJDQ0Z6UzhoT3RaTjFMRFJpbnNpQlk4Y1lqc09mZ1QzelNKMUowTU5VQ23SAd8BQVVfeXFMT1Y0d2d3dHg5WXk5X2ktVW96QXAxRW5DRG1MakhBeEN2bDBjZEY1d3VHWGdObGtpVUVNY3poOTFuOG1JdlVrMl9SbkxDWGtDb2Z1dkRLQ2doWHVwOHpMVHdkVlVoaEF6RzA1cGlQSGVqRDBUQ09Sd3N6TlZnSHdxMlB1ZWNTV2xySWVxUDV2c1BHTHNsS1ZYb1hqdHdsNGdLZXZJajNwWXMwQVp2ZWU1a1Vrei1BNS1Hdkh6TWxHaTNDT3FPb01BVk1nRFZHdWx2Zmo4VkhwRjNhcjg4T0t1SQ?oc=5",
+   "published_utc": "2024-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mastermind of International Organ Trafficking Mafia Arrested from Hyderabad: Kerala Police",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWlJXWmUzZExVdTdiV2QxRVBDNlZrS09nMm5qSFNsQzl1MGVTbU4tbGl2M1dNd2VDQ1hTMWx5UmVaTTNKRXdpeG5RekxkOXdXcHdKYlBJajVneDRhZkhDQ2ZSTVpRUmdES3FHU1ZORUxQT0VqcjZsRXlYSEE1TGV2Ni1TcllhRHI2bTJCUk04VS1jSEZ5Z2x3eHpnVGdub1g1Q05XQUZ3SXNvMWVyNVM0NUp4SUNxbFE3LTM5T1ZsZnkwUnZhaGxmbHhveEVDV0JFT0VRVkZnQVUweFNvTmFya1JBWU5wZ9IB6wFBVV95cUxNQTFJcXMtWExNTl9KX2VqQ2ZqX1F0bkd1YmFwcVAtT0hnUFdnMklwVFlQX29HMWtsa2YxTENZRDRja19iUlJMRmxfTkRLREMwaVpSUkc3cEZnTE5UOVVnamxaZ3lIbWxRUWtucS1PazRIQ3pSX1p5X1N6V0FrLW82X2U0V2FMMVVGTnZRTnR5UHI1N09KZDFtbDF3WG9NdWs4S29tU3RxM0NWT3lLZ3lBb2NqQ25xRzlVbkNSbGd0cElFYVdVLTFpRzlxRjZOSm5pYXJycUp0Y0ozYTRYSHVJREMyOGE0U2Y4WFdR?oc=5",
+   "published_utc": "2024-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "KU’s Kariavattom campus to be turned into an ‘academic tourist centre’",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQy1zMlNJejF4U1l3MEdHODFPZWdLWV9uTVR2ZFJCODRSSVNndTM2dmRTcnNyMUh3azNaMlRQREhrellmRzNBbWEtdmdTdC1HUXR1WHBLeFhtV0hDSW9HbzdMYXJlQXRET1h1VE1iWFczNXltLWg1NVcxVUc2TEZJeHFBTHFvd0Rsemdkc3FkNHMteDFCdjhEYzNLMmtRMnRjTDEtN3FSYlVaS1QyM3hjbTFmU0hNamRSa05qNEkzNm81ZG9i0gHSAUFVX3lxTE1xMG10c2swVXFGWk90NzM2T1lvbHdWSVN2YWI1TE1wRDd3Ujh1TnRBbi1CZEhTTlNHTmVzdGVNQ0NJQW1tZThXcG9uTE55bGp3TlVxX3I4LWVsWVJkWDBweU5rZkRnSnUxTFVTMnRoMzFIMGVZOHVMQ0JLS0ZyUlh5T19yaVJGSUlKVE5OMU1jLWNQS3pSdURTUFFWa3JWbkZybDZqTWpqcnQ4dy02bGZHZkppQVNldmJRNVNhWWNjdDFMSDJUYTBIcTYtMGc1VGJzQQ?oc=5",
+   "published_utc": "2024-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Innovative technological ideas essential for societal reconstruction: R Bindu",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0lXWkFqXzRTN1J1VzZqMGxOLU40ckRNV3BqTE13cTVqVVlNczBMeUpRcnRPZGhBWlpkUi1YWWJmVE1QS3NPRWpqRmJ5OU5PM0dWTEhFdUVLTXlCR2xtUmVEd1dORURTdFRLa015UTQ0aE41MnhvZE5EaHM3aVZQQWhXM0tGUG5LQmM4eE5kSk03ZVlGbkNYQzZ1eVd4TVUtakFhV1lrY1BKYlh1WU5nbFVzT2Yxa3JrbXdtYXBNM2dERHFyVm83NlJxYVhpRndB0gHeAUFVX3lxTFBON2xWTTQybzNsbXZuV0RQWEgtcE9OcWdVWlNkbjFCVTRUZFAzOUc2SmI4ekZlMjBBMWlocHllVzJsNTk3QkllREt4QVM1MVNRVWhSMWI0eERJS1lVRml2SENfRXA2UThaWktNeHRjckt2aVI2N0VZNDBKTkZtM3RFdDZtNWZvR1JTUDl4TGVJekp4Q3NxSWZjbGdvTzZVdFc3UHZ2dktaQ2t5TXZoZ2UycWJXcVdGSXYyQklIZkh2eWRkVGhKWGQ5Sk1pN2xHaVA5WUZxNG9kWmZ5dEZZQQ?oc=5",
+   "published_utc": "2024-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala police chief writes to RBI and MHA to curb cyber crimes",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkVTNENoWDljdDdhOUwxRHl5dmZfTllYV0pvV25vU3d3Qk0yX1BoaWlIWUY1NzNyZGpwNHpIMkNlbkZRMjI0MU42Z2tEb2x2UVhfeEhJNjNRM0YyQ1RQTkpMZTJhdWlJVnBveExybGtnQ0kzTTRmYVhNWFY0a1V0NW1vVE1kZTAzSlhIUDZ4ZS1JMTNGRGg0R0M1amxhb25TMEdReDZqQUg1Rm9NR1YzVXFnV1k0ZW4xVXhUNzVB0gHLAUFVX3lxTE9LNE43YmRwVGphVVpERTU3UlhIX2RtYXdhc2xidE8wVzg0MlBvb1BnVkZMN2x6VmtlbHd3RXkwakhnRWJuRU1JYUxjaC1UX2VabTNTUTBtWVRuV19XZk0yUkI0dU01YXl3UDFZOEZOSVkxQmprSGR0WEVWNUJHbjhvUk4xbE1SakYxY3h2RnB2dGNWNW9QYkNTbk43NWE5YnU1SE5QejR2anJndmxiM3EwMlVoZkptWnlCNkxaby1OanFFdC13cFdOMmxz?oc=5",
+   "published_utc": "2024-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala Police stations to turn 'smart'; officers to receive training in AI",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXQxWWRPc2Jaalg4YzkyTklBZElrNGczaGxLdlBpbFlQUm5Td0RreWkxWDRzSlZtelo4cFJKS2lDZ3JzbjdiYi1IU3R2SUxhTDhLa1EwZ21wY0ZjOXlZaUR0UVFjZXNlYkJSSXhrMmJLMGxfMHNyejFyb2hlcWliRnFFUUdZNW9HRzdoWXRmc0s4Rm1mdkHSAZsBQVVfeXFMTVM4VVFxaE8zdkQweldGRWp4UndFN2s4dG9CMkNMeXlwUzFzMlkwbDc2WUpVMXpKUERSdGRRS09OQXJ4cFVyX0dTVlBYOGdxZDRNWlJVTFplVEo4cnJFa1FjNmlrLVhlekx4dkQ4bkZMUEJqMk81TUJiQmdMU29oMWVxOEhpMnY5N3Jrc3RUeW5EMUFQb0UtUFR4TjQ?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

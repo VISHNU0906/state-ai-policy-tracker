@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Ethical Use of Generative AI in Healthcare",
+   "source_name": "Drishti IAS",
+   "source_domain": "https://www.drishtiias.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHNPTXNZbDBRaUdKaEgtMzIyTzRBdm1rWFZ0LUl4YzFEOGo4bWhjVi1VWWhRZmlJLTlySzZSSmlPeVBMclB4RFlnR2Yybzdhc0N4RzJHN2pzT25tb3BlWkFza2duUldKR3ZNS3FOcVZUcUY2SEpxRHN4VWEwWWxreUdDM3ZDTWJtdUV3dHY2V1FVNVlaLXVoOFR1czFuWlhkR3c5ODBn?oc=5",
+   "published_utc": "2024-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP: Govt doctor shoots self dead, probe on",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnNWQlFCY0hfUTN6Y0hJV3FSWWFleEdxa1paRWRJbjZsVjY4alQ4T3ZjNDZucm5qbmxkRzVGejJWUk5UM1JVdUE4LUh6bmRmVkZGVzdUdEFzZnA1b2JsYldHTDd4eW1yNVVJOHFvN09OWDBIR2tWbHFoLTlpOWpKcjBQTGdsdXE3ZDA4N3RWWWRKcG0zOE9fdnFCQkRtdDFzR2U0emZxbkFuM3drRFJDdG96a9IBuAFBVV95cUxQVkJEekZzY2F3QjNyUDY3SDVDZ05LbC1zMzJsckdLeVc2VjZvdnhuRWVCSU5zT1ZtcVg4N1hySmpONGF1eGgwdHZUSDJKNDQyOTA0Z1JPWkFuU1pBeTJyNDNQVjI3bEVZYUwwM0g3azc2dFRMMGpBbGZaZnRFbk5iWmY4a254R3hVWmsxN0NVYzE5RmlSUzZfODZpbF8tRmVPTUNWaXBXRFd3NjRNSFpVMDNTaW1BZ2F1?oc=5",
+   "published_utc": "2024-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh school timings revised due to cold wave conditions; check new schedule here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa1dzVUk4R1BlQzFwbFhDWUhZS3JrVG5xU2RDa2x5QU5IV1N1STltUi1KSm9PU0hQUVlwdXhNbXgwa2pzTWFCVnpKY0xBTHBKYU1JU2FVMy1aMmtOZE12SWY2T0tHT0hUckVUSHlVVmlQcXM4TE9zZ2d2bHhIQUowbE5RU016YTFNWVFsNGdxc3ZhNTJYS182YVYtb0VyVzI0MGlvWXJCMUlTVWp4WGZac2N2OHdxUGpqdXR4VDAwVkFJVk5LT3ZxVGxIRG1fNVlJZ00wT2ZlUTI3dEpRNkdKWjlwVEN5TDU5UVZjWFBMUjNlNGk4VDFkc0V30gH_AUFVX3lxTE9DdUpFOFJaNFVBcnBETURSdnpuNWVHSFdZTVZ4WmRadG5obGV0VnJSSUw1ZUZHc1Nid2dXN0kwS0gzdlJIOE1iTnBpY1hfSGVwYzFTVlJrTzVlZTAyY1gxa2pSalhVNl9jazR2a2lzelNjUEhxOUJ2OG5iQ3oxbnJjTnNVLWxDTWxVdWZnX3lvS3FmcVJlUkJibWdLSGtCVVhIM3dFb2loX01lUnpTa3RfN1RxSDB6VzcteG5zVEFzRnRZM3Y5bjRacmtOT3E1Nk43QlB5ejY2NUFLeUtIaWRDRE5OQUxFS0V1cktHZXY1ZFF4SXh1MVR3THUtelZKZw?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sardar Patel-BR Ambedkar Statue Row Sparks Caste Clash In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzBPZnd6Y01ZYUlud09FblV2dWJHUXB5eVF4OXhtbThUX3hRXzVlRlNCanpfUnlsN0d3ZG5qcHdzcTBKazFOLXctU3JQSDRiaVNxZDhYdkZTWkJKRjZZQmltZlFwZGdpZS1Sa2ctWWlfNVJjSUYzYnl2dDd6LW9rN1Y5TGtsdjdudW1GdnlDOVctcDUxUEpfZk9CZDNDZlMwUHhSUnVBeXNmT0NKTnlDNllB0gG6AUFVX3lxTE1JUXRoeS1yYkRaUjFXVFNldi0tZVNPLU5NbU54MTFTdVRvU0pBeVNQZGl0bVpJQlhpbkgtM0s5cjZ0V3ZtTS1GTWpDNjRMbllMbnVKZERmMTZIOWUyMXZoZU1jN1BZNWtxeEhqWXFMcUgybE82WXZpOFVIQlVfc3RQcHlPQ05KazB0SWtOMmdrc3ZuX1o1RWJVdWc1WG9TUjg5ZUdkZFFFS2E4NmdrVWVrMDBOUXZYX1Vadw?oc=5",
+   "published_utc": "2024-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Was Madhya Pradesh’s First Sainik School Opened In Rewa",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdE0zX0ZKS0pxNU0tQUNFUGFreE1xeC1IQndoc29peVJhejFHenpxUHdvbWZvcFZDUnFGeVI5V2pJRS1LRkxZaGY5MV9FQTRJVDJ2dGVYS01kVk9OX2FJUFZOeVpJV2pmbHhBVHZLTVd0cWVlQ3FoWHU5VWtnVVQ0UnhCMTFCSHROV08zMklHeUxTeTduUHYwLUNCOXZSelJIY3hIX0FmdGFGWTJhcTA3MNIBtgFBVV95cUxNM29lM1lJMkZ4eEoyVXE4SzliQWZ5YW9ibmhyVms1d0QxZncxcjZpdjVscWtSV0w0ckUzbDNyRXFjdnVVbDlQcFdiWmd6OEhJOHVWeFBvNHNuQTd2eVN1QlVCNGdvTUQ3dmRuRFpaWTBxTklnTlRjVC1NYi1aUDM4amtwTXlJQnlQNGZiYUR6SG5sSWlCQlV4blNGRzhOWFQyVVZoeC0tY0ZsUTduMjBNVEx5TkIzdw?oc=5",
+   "published_utc": "2024-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ACC Higher Secondary School, Kymore, Madhya Pradesh celebrates centennial milestone › Mediabrief.com",
+   "source_name": "MediaBrief",
+   "source_domain": "https://mediabrief.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5Qzd5M0x6aHdELXB4Y1ItRmdVNEptSjFQVWxrZVlBZEVYY3pHTHlWeVpfejVCWnhGOEJZSnE0WUFaNk1sOWJYTVVBUW1jbUp2ZzFsZXFqaTROcl95NVZxWg?oc=5",
+   "published_utc": "2024-01-02T10:49:55+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP fifth in number of colleges",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdC1rQ1p3Z2F5YW9OUG1iY3hWWURFR1IwaU5GRzVDbUJHbHVKbGNqR1dtcl8tZkYtYTJUOEdkZERNZkhMRG1PVF9ZTVVCOUFFU2NRRERqNUxZeHFUTzJnNG9vRGh3eUdJQUJ5bW1qNnQwMDJmczYxbXVOVlhyaXM1c0R2UjVVM2tIcEZOOHM4RjA0bV9CZGRPdlhZRmp3QkZLWlIxRnc0MVMxMVdHZHByZE1RSW5SX0RWZk1CSTZCTS02MDEtLWxPS19lWWJZZ1HSAdQBQVVfeXFMT0dreVhwM29Kc25ram5FVUhCRE1rQ0JXUklZaHVBRF9JYnBxWWhIdmhHRUt6SGlhc1lxblRFME9DNXQxZERZWFh6RDIwU2pobUdPLW5IeS1hUzdOMVo4bGpBTjJCcXNLZGxiem5zR3djNklFRW16MURhNnF0bjRieUt1c2tLN1NSN2tPcHFFNVpOWGpBbHZpQWd4a19EUkM0STllb3J5bExkTnR4NWtXVkVzWFVKekxTTHQ2NUZTdFZzUzBmdlZlWWVacnhrejYyaUdLdUk?oc=5",
+   "published_utc": "2024-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Raped, Throat Slit 5 Years Ago, Survivor Waits For Promised Education Fund",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLTY5U2ppeHp6NDVTT3h6bXlhS3ZzZjJEUUk2ZjRCWVNtUkh6d2xxd2VaQ1VGREEtSV9GaXhWRmdyNnl6TkozVGJQOUxFX2ZLOGVaUzdIdW85WGFqMnZRSjV0SnB3LTNYeUdHZXVjT0V5OENMZVdHZzctenlOeFVneS1GaFU4TVVmeUdWWUozSVp4dU5CbUtsN19VUGxLSDA4MTBVRTlxYUE0Y1ZRTkZlSnJ3eUx0UU56M2VrdUlGbkk2Wk9qSVN3SDlLblQxaS1TYzdhd3E1eUx1MFpnMmJn0gHnAUFVX3lxTE5rdGljeTRMclNjZjZfekJlbHFSMVlEd3ZzV2dEcEZMSFhuRzRhMGVVZ0xGZmZldzlfNWo3S2ZzMks5ODE2MG9BaUtvZ1loazZXMWtfanFoUjJpSXVzWXRBRUp1RVVVSW9oQzhjb0lNWkY2MG5Zd2w1YjM4SFVISFJSMG5BQ3pHOUR5SlJOQk1palNXS1F3dXNrVnV1X3lhYXlGZXR5YkN4RkZ0eTBlX1l0Ty1KUXVPTjJiOTJQNjFLa21DdmxUNjlXWWlwdG50a1luekRqek93dUhXeDd6Q2JNZnoybkxhaw?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh School Timings Revised, Classes To Begin At 10 am",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzFnbkFYUktCU3ZsZDNNelhvckVINzdUZXNNV2VIUFRha0NUd2d1Znd6bHc0UTZxMmVLVERYUkFGQXFrdXJLLWJCbkxxeGlmUmpMYk5DR085Wnd6RzVfU3ZGSGRlbHRzVUthUHFQamdNek1XWjNHV1ptMERYdzN3Tml6WXN3ZlFnY25xdDkzQUhKMTV2UGV0QUVzc2lzYnViZVMxdQ?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP School Holiday News Today: Winter Vacations in Madhya Pradesh to Extend or Not? Check Latest Updates",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0FUeEdzY0FvcU03eFRrQTdrVHRpUFdtT3pBazdrN0ZYb0UwUExVd2dmZkJSSjAzMVJvNzlOdVhRMlpGcFA1ZG5NQUVoNmp3MlRwbldvZGNuMjBCVFJsbC1PT3VTLVVUU3owLVNUZlZzdnBOVWpWYmNneWd1MFlpT2ZselN0MzRzLWhKeHlFdFpHWXA2S2pmYVBlQWVnVUpsckVRQjBkTEFYUGltYzJRQjJ2dTM1QTNpZTZncy04NA?oc=5",
+   "published_utc": "2024-01-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

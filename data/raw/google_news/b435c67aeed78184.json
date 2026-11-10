@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Fire and Rescue Services Saved 42,224 Lives",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcE1aU2VEdW96QlZNNVBraXdWdUNsY243Ym9tUVYtc1o0dVJ6RmNkVXZ4VGh5dDFSUF95ZkM0VlI4ajJERmlITVlMVVVodC1ZUHcxS2dsMHZVRnp6eE5CWkY5cjB3dnpzaHhXOEhnWFo3dzJ3cTNxTkJyb3hER1FZQmlVQWN5Vi1ob3dFbUt1MG9RODEydDZWT3RXVUJuRUdZcFBRdjI3cHJyNWlwUzEwTERiVGFHcjBKa3Z3ctIBwgFBVV95cUxObzlZbHJQX2QzRE0tMFhGdXJhcUxmQXEyZ1l3dUFzNlBQSzlZZWV0TEE4bzBsUG1OLV96Z3d6WTd6M2pHX2VBQUUzYnVqMnBZamNONG5odFRKLW1LbjhiT3k4MmJ0WVQ5enF3Rkd4RFM5TTVVSThHWlhBeWx6OXlQTkZWbXJtWEE5WWdRaWtKR1ROMlRnZkhoeTg3b1d4aTF6RFRadVJNMXJXX1p6X3YwQ1JEZHRhY2h3VlFZak9vT3dqZw?oc=5",
+   "published_utc": "2024-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS and iTNT Hub collaborate to nurture generative AI innovation among startups in Tamil Nadu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYlJrbWxaOVMwRi1PdEJQY1F3MUxpOEhsRzdsV2x5clFGUkE5bkpHZ2dsWnUwTFZaYXBxSFlnZHFzSFFBM29oTi0zZ1hKSEMzWHZIWW14dWdHTTVFdFFvbkdjYkM0SzZwNWtzekxVbm1NX0E4dHB4Rk9BRFhRT3NyWkQ3VnFpQ3p0V2FubFU3QkU2QUd2czVDcGgtS2VjR1NYN25EdVU2djdJNzZzcWJNRnRnS2hIbkhrajZPSHo4MGtKUkI5ZGZzNWhVbUZlTlpRa2Q1dzN2d2JhdERmZ1BEaGRIYzljSDFrUE00eTZfa0ZHVGVINnfSAfwBQVVfeXFMTUdjSXZqRm5kdmFWTllfSTFpbXBicEJ2cm5lNnpqeDRudDVJU3plSV9fcDdXazZCQXBsVTNLZXZTMkg4SnItQWYwUzEtaGlpbWs5MWh5TlVMR2NGdDE5Nk1WNzF2aEdHejRrcC02RklNRGhfNEdOM3FRb0diV3FBVkpMMUFLYlVadmFmanRrNVVBUXl1Um1iNFl1dkt4RVE2UERvV0Nfd1diQTN2WHM4a3haaUVNazJMN0R6ZTNkYmJmNks0dy03Z0pNbzJqUk9YR2xISVM2bUVHV2Y5N0VrOU9QQUd0YUc2UUprNVR0bjZHTHdkYTZQdEZ0dzFo?oc=5",
+   "published_utc": "2024-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu engineering counselling begins today",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFVKNU55VkdqODJMaVppeGp3MFNya0I0WC1nWFhpT09vZW8xME9STFEzcXBuczZHSkRTQVZTTFFIakhzWXdMWHlPUURabGJJY3RMRUx4d2U3REh1NTRRNDJfandxNExsLWl2VFN1RTFSVk95R2NKaTFLQWRySEdYZzRPVWplLWZaVnlWTC1HNFlmaGZVREFTVkNyVjFNU0I0TjdvUUZld2V5d3Vyd3Nv0gG8AUFVX3lxTE1sbFNGSUM1MC1qaUEwX2t0Wk1DbHN6WXVPcWY5Z2JheWE2cVhxOWxESWJtcGo3Sm9CSjAzd2VKbGszZmY5cUZVamRQQklobE1KQ2NDWm1JcVo4OFlZZ2VRTkxoTVVpdE41ZExQQVhnTTZ6WWM5a3RGY04xQXF0dmNIelJ3N3Y2YW01VmNHOVB1em1nRXRkcm9pQzdzSExXX3BrY2U0VGItaHZfcEkzOVNsUmpVaXV0b0pwQnlt?oc=5",
+   "published_utc": "2024-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NEET: The contentious exam deciding the fate of India’s doctors",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xNnF2THkyTmtPMnNNejBsZkFXRTV0SkVoWWQ2UzVPSmh0Umg2ZHN0d0tRdnhqVGlLZ2U5SDlMTnJ4bGpZeTJXUU5yMmxRQXJPMmhWRXZpMVZhQQ?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Tamil Nadu to West Bengal, why do Indian states want to scrap NEET altogether?",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM25aOHYyZm1xMnFyM2oyYUp3YTg5N0Q1X0hhdkpDTjR0LXFMel9weWpxVXRjY3g2Nmc2eG41MGVBLXNveUR1ZW1PZDBrQWZvTnBYdDBzbjJjNzZyVHZ4TTUzdENyOElFY2h0OWlFc1V3Nm9CamFfMG9xUFdxb3Y2al9NaloxdU5nWHlMNkJVdTNia001N1lGVnZGczg2UnBiUk9EazVoZ3ZwX2pSNEVZOEJHZS1EODY2dGJyVnZpS0xubUZoc1g2SzlSWG9IQnJUNmxMSjRhN1lZanZWQnBnTGRMQWdna3JNU0ZZMXd6Y9IB9AFBVV95cUxOZTVkNzJFT1k5RlFoSGNzZDQzc2RmSlF1TUptQmRGeGxoTWpfYkhqOTBNZzhsVFdUNWpmTDJCTS03TDRHWkVpck5YMWJabzQ4UWFGLXIxMmZqZnhGUzdQTi12Q25GMjFjcUJFQzVtbndhZ1EwR1JUdGhEbVJaVXJIOFdDWTdQOUgwWWdubG42cDBvd1dpM0l1eWlBWm9FbEtSODlDLTc4WXg1d3JlRDBOMXNWXzlpSk1WWHVKcXg0T3JtN0lYYzRaNFJHYXMwSVBFWGUyaDNrQzQ0OFFHN3p5eGZlU1NjTEY1d1lhbVVwVzNQbF9f?oc=5",
+   "published_utc": "2024-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Major Reshuffle in Police Department",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUI3SUlsMGpocmtmVTcyWXEyOE1Gczk3M3k5aFd3VnJReXlxYWdnM0tpaWZlekVsbjFnellzUVZrbHV3QlhlWlJycGxMZzBsemxOdGZhN2lVM1Q4cnNZZHlGdnZuSTdOTmptVWg1Q1V5cjVTekQ4ZHJnX0J3VEFOODNIeGg0NTRiXzE1TENiZE1TcnF4bjJKR1lwVFU2XzNtNnBUaHJjMlpVa3ZZNGREVVNQNzjSAboBQVVfeXFMUGtOeFFlWHVXSVlJbEJHVzVDVWJMTjlIazNsRUh6NnFlYnI2dU92cVBLYVNQUng2aEh0MTBuN184RXRRZW9RbGVYUmJwdlp4Z3pMT2dKYnBYMWFjcmFha0kwTnVsZS1vTXpXSXBzdmJUNS1Bb0Uza3dvNjVmZm4tdWgzeGpZMTFKWWd1SU94d3Utc0JoWTlWTGpFaWtCTXRTZ3Y5ZDZxdW5MQmtLRms0SUp6WWRxRDVtaS1R?oc=5",
+   "published_utc": "2024-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Justice Chandru Report Exposes Deep-Rooted Caste Discrimination in Tamil Nadu Education System",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQdnRLUVJSM0lQeF9GdmVVbFZSSHBSOVhxaWx3X3Q4UFY2R1FpRnRwTk9pN2RIeFJvbEtNUGdqWTZnU0s0VEp0dWwtNFB0VzhieXFRdGI4MmNKNnZQQk9PWTF3RndPNkZZWHBuNm9QV3g1VmVwSWxHZUZ4ejdsaldJd3BPY1hBaXFRblNZSzQtNlR4eW9OMjBGd0tQNTB3dFlYUXlzS2c5UUlXa0UwenFscXRyQ0RsSFZpZE9BNF8zWXFQZlUxRFJfSlRwS3V3V3hUSU5NdDFwZ0htb0ZVQlVaWnhSb0VzdDlNaXFqNG4wQVNSV3BQZ3h5NlRiV3k0bXNnTEtXR1pxcFNJMEZvSE5vUEZLM0NVYTRycV9XNWRB0gGkAkFVX3lxTFBCMGx5TGRXdm9oWlp0RDdjVkkxN2R4ZHhvZjlRaVN3UE9hVVYtTzk3QzFoUENkejMzRk1DWmRPRzA5NzMtR2RrMzB5UVRLNkhjamE1S0dfWUJfcUJGcjVZZVpWZWhGOEJ1Z1pyZHpRcjJYTjNmUGJYbUhuUmJVRGxEalUzVlRTdHZLQTY4UnZWVUZabmRMV0xHWndVdkhMQVR6Z0F2Q1ZHalV5S1U4Qi1rZS1ydnJVZDFBZUQ0RGRRQjdSSEVHcHo3dHE3akFLRlRGcDhNM1lYMWhSYVVXLTVCQXphbDlHTTVGWXl5Y3I5dHdGUU9YN0xXT0M5NzhvNXByM0dBbWRPSjV1OTZLMHJ5c3JGMnlfLWRoNWJOMDF2VW5uRWU?oc=5",
+   "published_utc": "2024-07-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s plan to privatise Cuddalore port collapse as bidders stay away",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUJMUXpPNHk3LVhFMnh0aDYxdG0tTFZxZXR1U2psaGRtM0JKd0tsR3Vyc0tlaGNIeTVDRUJ6cXBhZHNMaDR5Vm9oczIxM1oyeDlaSTA4bEM1SnlhVFVBUjdQVm0wZEY4b2NXM2ZOR0g2NndOU0Fkc0xia1VHcGtucE1sc1BDNG54Xzd4Vl9vMHIxaWxVbW9fVlBJVVhQXzNqNHhMbjNxTHNyYjFGWHNIRmI5MzQ1bzJwSlFHTmU3ZVFZM0VrODlVdG1aR2dUSWhkb1FUVTl6SEliVldZQ0840gHkAUFVX3lxTE80eWFuWVNEX3cxVjdjQVhrN3E2MXFvTGNjV3I5WHliQTROdnNZVWRnWi14S2lzSlFjYmV4eUM2cGN1aXRmNWZ5QTUzY004ZVRlVE9PcTVjZldFLWF0NHhaS1Izel84LXIybFZEM3JyWFhoZ0pSeEdzcjhFc0ZFV1ZIZVg1QzRubmdIaTAyWnJCZWgySjlLU3ZNU196dkJ0eWlYdWRZb1R1M0J2UlVaRFMyVTkwZDc3WjZnZTdWWmxmaXg5alYtUW55R1k1ZXFUS3hkZTltcG5pWS1fQjBsT2lhdl9uXw?oc=5",
+   "published_utc": "2024-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajalakshmi Engineering College: Pioneering AI Education with India’s First AI for Future Workforce Lab",
+   "source_name": "Issuewire.com",
+   "source_domain": "https://www.issuewire.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOWF6YTlEcXViWWFnelJWMmVUQ1JUc2RxX2VldW1hbS03aVVDNjZpcGhiMWc1ZVQ5dGZtLW9EVTFXSmlXaFhqVzZBWjhobUVSTmhLOTZoSm0yR0ZnZUZmWDU2YlVqYkRFOHJJYVVLSXdQNG45SUs0cVFRODZvTjdlU3NrTFhlVlRFU0NmMVBxcEJrQVYtam5WT0RhMlV4MERGWXRwbUNDM1VRMlhOOF9rVEc3UWltOG9hSEtLNTNxNmlDWmI2M1MzSTI2dGp2MHRLN1ZEa2J4M21fRGVO?oc=5",
+   "published_utc": "2024-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Thalapathy Vijay voices opposition to NEET",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmo3aXJ6bjFTdXhkMWZIX0NUa1VrU0xVaDZ1NlJKUWo0Ylk3aEFwNVhIdzBkLTRVTmJsa0VuMDBBZ1N0OG0xcXlHN1FEMmh0Y3pHbG1XRXVDSE1Wc3p3UzdTV1lDNXV3TFJPZDNFLXZ1NGM0S2MtcmdNQ2xvRmlaMGNSeS1oRVFyUld3UmhzTXF2MGlCOGJfNVVxUVU0YndqMUFxZFBHY3Z0blhuMmh6YjllNlhJUndWTzFneENMYlhDSF9xWVlTeF9B0gHPAUFVX3lxTFBaUmU0bWRIUXJLY0ZCdl9FZkd6ZVZ1LW1PRS1WZXRmV3F1Y3hYYmNfcEdibzJyUWxOejNJeExqbjlBQTBRSHBsUS1PcWx4eTZmcnRnLXhWYnNLdWxUNFBvZWpjZERDMzB6SVZXN3ZwMXFQTTFIR2Q2ZFJ3NDdvRVlteDdJaEdLbE9MM1hpOTh1ekJZQUNqZmNmZWk3VU9fN1RVaFUtY05wblNQTU5RR1pfMVowN1JKWC1fdTQ2aVNsR0Q4T2hQSEJzT0tqOHpvRQ?oc=5",
+   "published_utc": "2024-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

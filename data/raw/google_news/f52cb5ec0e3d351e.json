@@ -1,0 +1,37 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "[24]7.ai to recruit about 2,500 people for voice, chat processes in Telangana",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3ZnMzEyaG5uVnlRM3k0QXFLdURBSVVLcWo1aFliQmRZaHhEV2M4a3NaQ2JncVFMbnRFbmtaSnRsMGU3TWx4TVB2dkstUGd6TnNfa082Z1R1VWpkWGFLeEhjdFpQREl0M3FnbXVxaEZYZ0xsSTBveU5VUllHc2pMLWxTWXlHamtFMXdRWU9XUjFIcjJwdThYSmZVdEJqSW00WEE?oc=5",
+   "published_utc": "2022-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Khammam: SBIT to offer B Tech courses in AI, ML and data science",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjZpNmN0bzJabmo3VmhmeGNaTXZaQ3Zqb2pqTzZfTEN1YXc0c08tNkxsdWhXaHo0UnREbGRuSk0wU09iRzB3Z1IyOC1fZmlmb0k2b1R5b0RrQ29IRXhyOEhMbXVqenh2cGt1SnhYenRZUEt1WEw3c2hVYXU4eXM2OVljQjJOSTZ2RkIyVkxWZEh2bms?oc=5",
+   "published_utc": "2022-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-generated artwork that won 1st prize stirs controversy",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGttc3F6c19DeThlWTcxbHFkVVVGSjloekVCZnJKRy1IQTc5U1RwUlpnSDR2b0p4bDEtQ21KT2EtY1dsWlVIYzJSTk1yR2ZBdXRxQkMySGNvZmxZWE1EOUNKNVVpaWRSWnhnQXpsTDM3dnc0N3A0TmJWNHhjWENscnJIdFlQeG45MzBfcQ?oc=5",
+   "published_utc": "2022-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Qualcomm unveils 2 new Snapdragon chips for mid-tier phones",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanVxeG53NlpEbkFaXzJ2SVNVaUxsSXRzQWEyS3VvRWlkUzNfU1hyakpkS2FRcWJ4emdTRVgybkVNRnBSblZ6STZrTlBBbzRHQWY1WXZxUEg4UGxZUjBQS0VXSjRyQjdHLXk2bEhqNHVaci1FblNtM1h6V1dobGE5c3FxSjhvRk9XdWIxOUJrbw?oc=5",
+   "published_utc": "2022-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

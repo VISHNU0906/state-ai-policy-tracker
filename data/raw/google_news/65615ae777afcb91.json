@@ -1,0 +1,61 @@
+{
+ "query": "\"Bihar\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "AI company Tiger Analytics from Silicon Valley enters Bihar",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ09YY2tJaG91di1VYlNtdmFzbTR6NmcyMTRLU3libk54eGViZVFmZHp1NnJHMDk3MjRtU0wzQlNEcjVYVWwtOFk1cmJvUFd5M1c5RHVWNnV3cnFuOERoZEpfQTRHaG82T3YyZG15UVhnQkpCeGVfYWFqTERvTE1fc0dJYl9ZcEg2UkhrYTQ5TWpIaDF6MFNjSlZ3RHhZbjNaVWlGQ0hnUkktQlNacHF2TTNMYk9hSDMyUGhKNVpFSWJyWFVHRGdIRVpR?oc=5",
+   "published_utc": "2023-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar beckons for Silicon Valley as American AI firm enters state",
+   "source_name": "The Federal",
+   "source_domain": "https://thefederal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmVRR0VBbzJZY0RYMldVMmpkdXloc2k1T0p2NkVwN2U5bkxrTnpGZEt0WU1TUUtvM2RPMTh5SEs3Q19ZVzV5cXhTWnhMVGY0VVY3bTFTTXpsSHJDRlpES0poTGJfQnV2M0FKNXN2YURuZlF0aXA4cWttbjNtSl9wYmxqTTdmZi1pNkJ6Q0pUMS1vaGg0SlJLZ3FkSTczYnIzV0F2ekc0Ui1UajJNNDBlcmJn?oc=5",
+   "published_utc": "2023-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar strikes off names of 5 lakh 'ghost' students in government schools",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlUtY3cxVGdMYW9QbV9adzc0eEdNX3IxdVRtQ2dBZFN5MnFsbjhoYVJwUDZjYV9rRlphMmg4Rk4zT3lNU0swUXNtU2lVbFlNOGlEX1oxVnpxYnM4SWd4ZXVRdHdFejROTm0yM3ZmUjNrNERNbW5INV9tN3d5MzN6d0VDMk5hYV84dnpEMHhnS1V4RnQ2VFFlT3I4RGNtSllmSjZwazh5WFhWb0ZRZk92bHVXaGZhcTdocEF5NdIBwgFBVV95cUxPVVdXY0JjNkhEZEZDaU9uazZMZ0d4RG1RREF6NlFJMTRESzhZOEY1dnQyNlA2X3lwUkJlUnhoMjN3WDlfejVENUF1Z1F0a0NUaE9lV3ZTUVZpUnVWRmtFS1l2M2JXX1VKWDRZUVJSYWpGbGw2bVZTVjVUdlppY2N2M0E0djQ3YmxIZDhnbmFYVmJtc0pib3dmRUxDLWlQc0p1bDdjSkNydW1UMXpuaXd5SUs5c290Zm9mZTlJZDdmOVBfZw?oc=5",
+   "published_utc": "2023-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fact Check: School Book Chapter About Using Head For Carrying Weight Is Unrelated To Bihar Board",
+   "source_name": "Vishvas News Fact Check Hindi",
+   "source_domain": "https://www.vishvasnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQi1wT2kxU1dnNlRhbWFiYUQxb1kyN3JTSV9BVTExMC1IbXBXRmhrbFpfWWdUN0ZGd3F2c2hXWklZUGxzSmVUdUFvUmtaMENaTmR6djVHX18zYkJLeWJvT0Z5NDZLeGs5TkxDSUo1ZnQtUjBvLTFSTGxmbFdLT3JTNnoxSmRQdjJSdXJRZVpqYi1OLVNnQTd3NWl4V1htTFREQXRkalc5aERxckVoSmJzM2JLWVpJcDlRa3hjRlJqT3ZfLXFUeDZ1b3pSRVMtMEF3cHRTSlo4RFB2QQ?oc=5",
+   "published_utc": "2023-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar govt to provide housing facilities to all 5 lakh teachers near their schools",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSC1sX0dCNFFXdFM3X1VRdnNlRWx2dGV0VEJzRWt0WVg1bTJ2OEhFbjZzRWtCdU1kUVRyT2kxbWh6cEJGR0xxd2VHZHpMQ1NPQlFoT3RwbjlBLTBMOXZsZTRXMEs3bWUyLUxydXQtT2tEUlFXWlFORWE0WTVRVTRWQV9fNHJvczhVY0xxdUktSmdYVFRNN19NNTdfUlUzbWF6WEo1dGRWMXdBX1E1ZjFKQlRTS1FOY2R0Vm91aWZSTUMxZk9ZR0pVcUFyYnhkTktEdnB3UmFqdVdCajc2YjN2OEd30gHnAUFVX3lxTFB5UFZMZzNMdVM2TVV6MW1RRE1CUUMwTEhkd3NlcVlSYkZNWXQydjE4Z1BPVFVVSlY4a2w3Q3M3TFpuUHZGcjV1RVFaTmY4TjFYOXVpcEVncWwwUEt3Z3Qzdk9vZ3p6b1RZZzlybG9kX1MxZEdOOG80Z3Y2NV9NRUtkYVJxZjd0RXBfaDFwTXdhU29KR0V3N2pEbGgxNUliUHpYQjZOdFB4RVdyMXQyeUJmOGhMbnhfWl9NVDBXZklacjJVUlNoYUZ2eFR3VWRjbG4tT3JLOFp5MENOM0dQRnpGWEJ0X0R1SQ?oc=5",
+   "published_utc": "2023-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar train accident: Union Minister Choubey inspects restoration work",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNGpRQ2dzVFhFVkt1TldrMEgzcjVwNUpRQmU5TnlYTHh0UEkzdGY2WW91bHhfeUVFTFctUHJuMHZqTEhDSnA4cDJvd2tRTVRHX29YR0t5ckRNeEotQ0VvX3lVUXBoZUVoY3locmxSanJpcTZkSjhQOXowc3RSUkVINWUxeC1MRWNycGtvSF9DWUx1OVJkdGkwSHpXQWQ3aEZzX0lrY3IweHpEVnFhcGRkekdLZjJTWUtZUTdoRVN0TEtvbFhxbzZiSG5hMzV0M3ZQNUl6TmVoT2o3WWPSAdYBQVVfeXFMUGZ0aFZ1a1pKbUNIX0ZETUxDR0ZrSkc1Z3FiOGpHX2Y4SjdsMFdfWVZmekctdEF1YUtMOEtoY2ZIVU9wWUMySTdkT1ZpQWFCOGU0c3A5eE85b3RfUFVEMk9WalJQNS1oaHljMGZOUzJZd01XZ3VBRjBXcWhZTjBUZ1F1cURfY0NGY3hvTHlNODBhZDlnYlZlcGNLZDRNRU52dWM5Yl9YemFOMkJQMkQwd1NQQWN2bk1xdDE0V3hnUjBuVnB6VGtDYmlFcGxPNVB1OXgxYVlGQQ?oc=5",
+   "published_utc": "2023-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar govt suspends training for teachers midway amid row over Durga Puja holidays",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVTJMQmdwM1JMNDhGeUpZMzZ5OUdZTkctTkRjczhqQUJmMjRNZDlJOHVwVGdVd0lUWGEwd0N0amZyM2dSb0wzNHA5S2pwaDIxdDMxVzVPVlFjVVFzakx2Ujh0V3B4SkwwUndRcEM4T0VoaU5LVjBHNGQwZC1MVmFxSGlud0lkWnhjMEdLbXdDN1VOVklVYnJ6RXVzaW1CTVhlUGFvZGJmUDlWOHZWVFJYV0UxNFNOeHlVbF9vZmlMT0xZTzlnWjUxa0hhQUpmUndTb2c4ajBfQVFtSjhPeWt4a3lTM1lPU0FT0gHsAUFVX3lxTE1SNmgzaFMyNVNWZGNtZ0xtVDhyVWRBYlQwNlR0VWtIdndCeU15WTRvcFJsT1I3RUxkUUlIaEtJY2Q2TExST19xQ24wekhobFRMRDVQOEI2bDY3cExOb2RXU2U3THBCSkhOUmFOdkhHY2VhWGRyYW5LeGt0Ull5RHhRdTdWWGs1eFZQNXNHcC1VUUNZMl9XSEg0M1lubHhpd3hMd1VhYkhHemsyLW1MaFVxWTNHeEFVZzFJSklNVGttbUk2UWdCU2FIc0Zmc1htVVdkd1EwZFJhalVhbG1TUU9leUdaT0VwZ0c5VnVn?oc=5",
+   "published_utc": "2023-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

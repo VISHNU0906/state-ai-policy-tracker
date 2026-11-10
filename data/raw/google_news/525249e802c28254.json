@@ -1,0 +1,45 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Uddhav Thackeray ‘saintly person’, feel sorry for him: Former Maharashtra Guv Bhagat Singh Koshiyari",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2FRWDJGVng1UG1iVHBhNm1xMnVrUXR2S1dnU3FHR1hsd09hME9yZlhYZWlnX281Zm1qSkZqemlYNDBtZ1djTm1Sa2JvVm8zY2U2RTRJWEhleVRHcUp6NW9KS0hKVi1NOURhZ1BPNUxLMG05azYtWG9DcWVVVXNvalpJYWZGQVhQZ054eWxBUmlOQ0d3NmpZNllqREZPSlhmQ2Z2dDZkWDhqRWpGU2tkTNIBtwFBVV95cUxOaFQ5XzA5eXRLTk9Eb0g3ZDBPMk0xU1o4VmpRQUI4ZGoyRG5Ga0JxM2hkRmpCaUlHRWZmVktuQWd5QUhmUGQ2azJ0RE9PTTNOc1U1UWRCX016Rnk5clpxa0cyXzZxajVKVG1yV19MaWJzVmE0bzdnN3gybF9aZEoyMzJlOUIxbjhlY1V3VVlwM3JueTFsdllqdHVLaXV6a1FqN1pTamdwZ0lFeFcyejVGSTFkLWEzaGc?oc=5",
+   "published_utc": "2023-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Samsung Innovation Campus’ program launched in 30 districts in partnership with Karnataka govt",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRXFGaUJCbkQzS01qa0w2cGlxSTIyajdkUHdpYnVacUMycV9FOFRpa1ZPTXlackk2X0h6Yjlka2tyS1A5VDVzYnU4c1RqMU9NUkFFWWJrY2JYQ2ZHa21wNHZKdlF1YXJQNVdETE1sT2ZnZnZwOU5NbnpOMUtLSTEtT0gySFJlNnB2LXFldGFVamE0c25MN0lsVjZEY2NoNzZmWDdNVEFLNy1FVjlYcFpVNUl3bmN3QTBma09xaFlsZW81VzJ5d1I1MjVacXo5WmdzOC1yNmU0dVlyUmZ4b0Q1T2x6TE5IaTNHMGdzM2lHbDZ3akRndXg4WtIB_gFBVV95cUxOcnlZTHBWdHdRandYWW5UYndKNmhaamY5STlMQTZTR0xLNUJaRXFzUGdDQTY4YURLaHpvYWxJN2E1YTNjS2RQSXI4SGVfMExUcEU1QjNBdDM0WEhnaS1jZm9zc3NrNDJwX0FQYWdaa0JlZDlKczhyWDBBamZTRkV4OEEzUTljR2hvM0FiUmJwZFM2dkw4TGNOOFNpM1N1SXRDdUUwc09fRXhCNUZtMlREcElUOWtIR29RMVJnYlZOZEJKZE82MVo0d0c1TFkzU3MyLWQ3YWhmVEtHMjNfbkJLd3dyNE5aSDFrVU0yckliakNXb3l1WVpjYUc0LVVwdw?oc=5",
+   "published_utc": "2023-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP, Karnataka And Maharashtra Among Seven States Set To Get New ESIC Hospitals",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejlLVmtwV05kQlMtS1ZGYzI5MXd0M0YzREtCR3kyY21nMFpHNUtPQk95dnlOaWZ0N2Q3d0t0Z1ExNE9xWVNaSkhxQWFBSmNXdUhoOEdaSUo1ZURnZ2s0ZkpyQmp2R3R1Z2tZSkRWbENXNUh6SUJrdU10bnd0cDJKNHc5LS1LNUhsMm9VNGZkV2swaXJ0a0w4R05uSkczdHVkMmRKQmQyaHBxVHM50gG8AUFVX3lxTE1odlEtZlFVeUNqWTR3M2lqcTJaWEp1Rkt1ajNlTzdraG0wUF9mX0lHRFNuR2g5d2hXdGt0YjVxQzcxSjlXVlZwWFJnVVFMVFh0SmE2QVpud3dvT0VjOXN4aTktSVM2M3V2bUx6NWVQaUR1aWVsSFpBb0dRMmEwZXRyX0xtVW5KTEJrNGdpTXY1RkFxYnlNdTE2NWR3TXprVmJlT2ZxR2tuZUFKQi1DN1g5VzVMWmRqWE1nYzda?oc=5",
+   "published_utc": "2023-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bank of Maharashtra eyes Rs 10K crore business in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnZqemxIX1dRanVPMGF3ZjdxbXZ0U0NuOHlzbFZJaFk4V2NFVFMtTm0ydG9uVzU2V2VpVjAxeFZ6bnZoWTZJRXZYaXRvaEpSbFJWRXdpWjFUejlZRjd1OVJxd29lNVZQMklaaXpKdzFjallhc05NcUlRb25sY3M3bXhTemhoeHBmaXZ6TDFlS3NjU1VQY1JaVnZJNGdObmxsdF9vTUlkRHM0NlpZbElxSTdjZDhjenRfUFNVcXBVWmo2NWNtaEc40gHUAUFVX3lxTE1jT0lZWHZ6TVF6eldCWHZLaWFENDF5WlB2ZDNPLWNBQ0xWb3pLVlR0S3lqR242VzVMb0NEaHJPYllkTU1WVmdRSUhlNFAtcGQtUjItajJXMElmVWVRVFpNelJTU1lnMUVrbVlUY29aM3QyU0RidEwyNE50RXJfMDRjTUtJZHQ4VWtINkNJSlY4U2FwQXpKQ0pSTlNsUEJSb1B5Q3ZaNWtVY1BuT2xRQzFDTjN4TjBmb2FCY3pvX1RKLS1QQVJDN2tCX1V2SGNWOC1ON3Ba?oc=5",
+   "published_utc": "2023-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP administrative overhaul continues, 16 IPS officers shifted",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEtvLXdNdXZvZzdka2tpU0U0bTVwZjVyT2RvTnpsV1VONVVaX3JXV1Q3ZjVTVXFjeGtEZlJvUmkyNUpUa1F0WlFMVkNRV29OdnV0MU8zZU9kcU1maDRwLWhxR3E0bUJ0c3pjTHNCVHZyM3k5OU5iTGd6cEtxY1FPMjc2VlJCaEx6YWpzTFpxSXlTLXBObmpodWhJZGhKTEY5dmg4T3NybWVpUGd1bUpnMGZaVnN5TDB3ai1oR0taaUJWb01ZTWZHT0NiS3dDd9IB0gFBVV95cUxNRWFsenp4ZWtKZEdybDhGLThZTm4xVENXQVlxTWYydzBFZlFuXzdudmd5dy1zdkI5eGRkZFUwRzRuSjA4a2NtSUcxZC1fQkhsY0FoaVNkb01VZFZoWG5uWW1MRl85SnZrZmVIQl9RVTdtNWFsV3ZHUkZwNExaTWxuYm52MHhpY0hobEJWMU92cGVObDhGSWJveFJ2SU5qak1weHV5TDBtcWlxVzI5VHBGVkg0YlBkcG5pSzBIaU81SzZLYXBlaHh3cWZ5TG1qWk5ZX0E?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

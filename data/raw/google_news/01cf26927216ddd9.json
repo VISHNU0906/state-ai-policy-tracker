@@ -1,0 +1,53 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh: The right-wing brigade in pursuit of a Hindu state",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EcGc5LUJpMHZrWXhTSVlOdHNLdXNCYWk1YUVYUkFwSUY0VUhSN2VPN0NoMkRtN1BCejQ1NlRROUI4MzZDalFsYnY4Y2Z1WDZvNVQ1WDJtRVI0bzJScGhCWGlNNA?oc=5",
+   "published_utc": "2022-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Dalit Politician Shaking Up Uttar Pradesh’s Elections",
+   "source_name": "Foreign Policy",
+   "source_domain": "https://foreignpolicy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGNLLXhwOTBXM0ZCMmVvRE5LT1dHc3JkeGhXVTRMaTQzMGZULXRmbHBjaXRYSWF5bmpkYjJsbkJ4eEI3ek1pWkdiWGxWRTV5WHdBZlBsUFc0MWhKVi1Lb1JDVnJpd1djVkdDQTJJQ29lcnFvOWpYSUVmTnVHVjd2NER0RUk5S01PblA0RW43eG1pUQ?oc=5",
+   "published_utc": "2022-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Health ministry's telemedicine service eSanjeevani crosses 3 crore tele-consultations",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeExFSTdCVkdxZUVNT3A4RUhKbmlxZEVaU29VU1FESzBzQ1hOWVgxY0FTdXdnNkdLZWpZZDlvaWdFNHhvVHRXLXFqYlNKTFFXdFl5Z2Rtci1sZVUxN0M0NGtBQ19zdk0zdEVlMmo0SVFUVXdyb291ckttaG9IZlVsTlBxdG5WSVhsTU9TLXRycUpEdFA1ZUJPd3VMcDlBQ0RORGliUGdHaHpYZWMxQWNhTGwwekl5bXo5T3VZekJXS1k0SUhSaVJQeXEtLUFKUmw5RkJlNEQxQmVPQnpsUzZiSGtYQnNFTkHSAewBQVVfeXFMTjBPX1NpVjB1NEo5Qy1DVHhhcUxtVEhRdWVDQ3ZtWXl1UkQtNHR2bnBCa1phS0N6dmFiZlktdWVYa1JvMDJGa1dWVUVvNUNGV21CQVZkVjBGcFpDdDQzamNMR25ENEtsUFRYYXI3bmtROWtVZ2JWc2R6SFp6VGRBanRrUkNmRVUwTlRjWUNpaU5zRERvemFfY185T1F6TkRvYXRycTJvN2p4VEoxWkxuWVV5Q2dESUV3a25kS3JrLWdFNmtMbDQyN1BiVlY2QmM1c3VtODJyRm9FbnNkM1FhbjFQd3FKaXV2SVA2dGs?oc=5",
+   "published_utc": "2022-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In Uttar Pradesh, sharp fall in first-time voters, 18-29 age group",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSFpGUm85NDJZTGY2Y0dPWkMtYXJpcnFESDBFQlRvTlJjVVNqc0pYdmZ6bE1NYmxsaXlHbXhJUFJtVFk1cDVvTXJKMzM4TW9pUFhaWXloVktIZmZybjJWRFNXWjlpWVBqdFZDMmhBa25YX3NReTVkdEc2VHNYNkYwNDl1Q0txSFlJeDd5TVdTYjJOeHV6Y1VFZjZKY2dYam9HT1JsYVlOcUN2a0pBd3fSAbQBQVVfeXFMUFBUYTVZaF83WmExQVdOOVRuSDdHV0gwNzlaUzNpanBwem9MeTZtMnJuTTN1cnE5MEZpbjBUMi0xMjlWQlN2cEJickx5ak5Md0drMW9wSmNEX1BPOER4emlYWW8tQ0E1RVpxakF4dmZJRlByUUtjd3B0X2Y0TFprWGZCek1wMkJ2QWMyLTMyMHVJWTZrTVY1UzdZZklUSEhwTEx0M014ZHJkeDA4Qmx2V0pzUi10?oc=5",
+   "published_utc": "2022-03-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India: The Uttar Pradesh Elections Are a Referendum on BJP Rule",
+   "source_name": "Foreign Policy",
+   "source_domain": "https://foreignpolicy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYl9OeHFQMzIwN0x1bGNKOHEtbjBUOHpZYjlaV090VThrRDJVLXZPQzNSM2NzNkljOWVlckN1THVkOHVUaVVuSzFvMTJpRDdwQlR1VHBackgxWW1ZZ2ktQzNCR192VWlJelI4RDlNT1FiTTZlaFMwX1dDY3JPalNYdHhFVQ?oc=5",
+   "published_utc": "2022-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Power Mech Projects bags Rs 2,120 crore order for water infrastructure",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3Fidm9reWtRY3dwOVNpZEVzMVk4VEQxVmFtcUVNbUhXQ1VFenpVd2tySWVtQno4Y1VKY215eXZrVzZSTHczVjRpcUp2RjZFeDFRa1FuNE5vSmM4S1lnMDJVRW5EdUZ5RjlKUjBpbnNZcXNMQzZyMk9mdEw0OXA3TDdXSUdVSXpLRmtaTVpBeHVKbFk5YWJjUXJFOEp3c3lfekVhdkZXQUdHYlVpZWNWd1RyX05FeTU3ZWY0QkhTVFZoQzZFcmxYejAyUFbSAdABQVVfeXFMTmZ0OFdmLW1fMHI4LWFQZ1lNU3hFZTlibTBOTnUyTE05Y2RNMExtZzFxTjhhTVFtWkY4SEViSXRBZC1PUW01MDRVU25KUjBYN1k0ZXZabEp4MjZqQlZlT3FwQl9HVmZIYWF3SHZMcXc4SnBTbmpBNlF2UmRWaVRDdVlMeEc5TlhPYi1DQnNQSXJDWUU5NDByOTJZbG1VS29faVI0X2FqX3ZyNVlYYUNfa2lGbzhEU29oNHVmSjRrRmhEQWdyR0VGT0xmNENFeVlObA?oc=5",
+   "published_utc": "2022-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

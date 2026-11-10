@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Artificial Intelligence Mission to focus on research, developing AI-driven governance",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeUxHZXJ3RE1OV3RJRmRRaHQ3OHdnaVVXNm55Nm5ZVUljYldENnBqd1drY3dNcl9wZ1FiSUFyZzdSWUY4M1huZ25wbXoxTXRILVY1VW84VVBuNnEySVY0cXNZSVZYUmVHWmNscTZpcmdVa0RhaXltQ0JJeGJlQWNNUGR0N1pWSXpsT1BINEpXaTlGZXk5UHNEZVFVYS0zb2t5THBWcU9wT2lpSHplVDNsV3V3SUhQVTlsM2FJclRYbk44Wm4tQ1JHZDZucTdZeDhLYnZ6V0F0Yzl6Z3dSZFBZd1I0c2hTLUR5NnllUGVVWjdOOTQyVzFoSFZUeURxTEcwTk5RLW5R0gGLAkFVX3lxTE9Cb09aSzBYRXZBY1pnOHc5Y3h5dEdKdWhqYUVxYXc2ZU04ZzdZanpGaE5jZU5maWxNRmZLLXFCd1dwdkJkaVNDWFdKYXNaMmhGVUIwNFFVcmxwMTJpN0h4MnJ3M1VGY1VseGRpWnJqcW5qVU9iRGdyY3lVMjNTdFBfS2ZsQXFNUi00U21QSHZIejhHTXlWYzRKZXpoRlBjVWtUY2ozai1RcHVVQTN6YjBpc2FUcWowMHBYMVRBemhPMUxVdGkycUZxRlNJTUxDV3QwYWpBVklVRWFuVXYtNlFSNFdEUk9HVllIdnp1YXJsamVVX2R5Zk1sMnhTNFQ0cGtCM09Eb2xMSU5GVQ?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "New mission to make Tamil Nadu leading AI hub in five years",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ3BBTGN0Tkc0REhleU02T2hTRzh4QTFiaUVXRVVCNjc5Q2VrRWh3c1pEOEMzV241ajlVVi1MakVQWm1ZSU5xQkMxVzR4dkd0ZlJUWDJDb3JCVkxUQkhlN0JXSXlyaHJGcWp2aG1sQzV3ck50QkplMl80VXFyQldkbVNRT2R0Nmg1bXR3bzM4SGxzb2ZTcGlpUmVvR3FNS3BleGNBYWlPbk1UWk1XRjFQa0s5Ykx0emNXNmptTVQ2a9IBzAFBVV95cUxQOTRqaTZpcW1kLUd0bDh1TG5jOVM4RzMtMUVUT1NEbFFEeE9oYkZjQUlhYWs0RXo2bnRZemFlOHBFZUI1REs2NGRsRXdPdTlURGlUeEJGSmlfVFllZTJMNFJRUG15MkZ4MHZLeWxYTlBmZU1aMGxXeXk1T00tenFTOTNaMWtxX2FBZTdKYjd2MmJDUk4yd2tfV3YtZFFQRWM5NVNEMy1PMGxudVRpYlBpdVkxOGd3YmlReGZhQWwyMHpGa3V5NUdKVXpxa0U?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Hindu AI Summit 2024: T.N. to set up centre of excellence with AI lab",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGw4OXdfeGtGNFlEa3ZiLU9RYUh4bG8wYm4xUDV6X1hreVFhTWxYbnVCWXVieURIRnNCZmJZVXhtVWZLd0xGSUJWX0R1U3FScEFFRzgwSFlNQk9KZUE0RFZnR0RidnJIX0ZLM3hxQXJ2Wk94dkNRVEctNjBsTGU3R1RMY0g4TllFR2I2S0JLSWJ2cnpxOW1JSmNQZE9tZks4WV9qSWN2dEY4a1oyQy0xT1FjNEI0Wk1mNjRKQUQxZTNlOVNWZGU0Z1kxb0FTQ3FSeEU5blFVTkQ1Z2tpcnlDTjN30gHoAUFVX3lxTE1HaGYzVExiMHR0OHpaX0dhdVNhVDlob1RzRTFwOWpJVHNubnBmb0pSYVA0cVd6Z3NkN2ZjOHpSR0FrMUF3TzdLUk4xUlpyV1Q5Ry1iRzRDYVZoeThLM0M5NUQzSzdKTFJuZGc0eTNjeERtOVR6UzZiLUJpZm4ydUZRSVZNb24yQklZM3VIYWlIRF9DMjhGc1NHUFZjamUyMVM5UG1rT1FqclYxSVNQajI3Z3lPQllQOHpCQ3Y3OUJfRmZITk9QZHc0LTlVekpseXg1WlhIUUhNZnRCUFdzOXVncFJUMGhNWEQ?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt sanctions Rs 14 crore for AI mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGlDS3J6QTJYTEFfVlVxejFnVHlNWG82WlRZWFdMZmc3dVpNVy1XV1VHQTQwWW1CT1VPRU1PRmRuSzdlNkduaHVULW5feHhZYWFrb19idTliZFlyMi1UQmRFOWtONUdwWlo1ZkVDMU0wOWoyU09IRzZjVmRObExLYkNmbldwTDFDSU1uNFloSXJNUTdlcHU2bXE1bWhFSWdwVHZfUHlBU3A4VnVPYzRuQ1hlVDlLTG84aHJlVnkyZ3plVklwU1HSAcsBQVVfeXFMUExySUtFWk1hN09mbVJkNTdBbFYtbjZVZkdfdmk5RGpfTEhULVJpSVlRSWp3VFVhWWQ2LWN4SXlleDZHQUo3U0ctWHNxU3kxX0pOMlI2X0huWDBfMGZiYTZUSWJSZ3lxQkpRalgzbDhPX0pDM2diOEduT3hqQmpFUHFELVZHdlN3VFU3OG0tTm9WS2FjcnROWnBCcHh2c1FFSVE5ZTl4NjJ3dDlfRE10Y01BalBQQWFDcmEzQVVTcEMwRlZ0cncxbjMyU00?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu is transforming north Chennai and Tiruvallur into tech and knowledge hubs with the upcoming TN Tech City in Madhavaram and Tamil Nadu Knowledge City in Uthukottai. TN Tech City will support industries like life sciences and fintech, expecting",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWmphSGlkQm5yVUpla3psbHVMMmx2cUxDSHBUOUlXc0M2ckFNa2RzVXlPR0NJOHlJM0g3RTZKN1Ywck9JRWp6VThGYUpFWVpfcHc?oc=5",
+   "published_utc": "2024-11-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI brings Tamil folklore hero Madurai Veeran to life in composer Tenma's video",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVi01VlJTaC1nZ0M5UXdsbnNhY1pUc001alhQQ0FUd3ZlN045RFVrdVlKTjZ2aW1rS2hVaXlJSDd6LWdTQ3NabldtaWdwUFlrQTM2TmkxNmtEUFhLWS1ieWlsaC0zN1Y4aWRlX1V5ajJqcHNnMi1GUGJnZklvOHE2MWdpelNTWnZiR25JcHRLQnhFZFlSTkdyNjhMNG9hVmowLUdJWlpkM21oYWRsZzVYdXMyTDhYWm5UdE9HM1VUWURLQi14RmJpTkVKTHZMWElS0gHWAUFVX3lxTE9TUTZQWXVZV0Z1SVlnWHY2cjlCSGhFTi00dExfTmZqLXhJb09JSzV6UV9tRWdibUZ6V0xOZ3hLSnNDY3NocHBuY1k1ZzFfSC1wZW9oWl8zZHlBVnZBTmdhaFFfVjVEdFBPNExrR29QVVR5LUtYdmtxR0RiZ3RNZDhNTlZlZHk1aXhWM21aMGJRYzEwV3FFTXN6VWhFR2ZyUkhLRk5tTTJfbEpyRkRrYmU1NW1WYmhmdEo3bEJZSEthRFdhVHVoWkU1RHVaV3d1TWdMTjRJemc?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: CM Stalin Reviews Progress of Key Welfare and Agri Projects",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcy1EV1AwdWsyX1JRdjIzTWJFWGVmN3pra19xdWZ1TFo0QWlmMWQ4WVUxWHpkaG8zcnBwTGVFMFRhR0RSSXAtS1hSdTN6SGQ0OFFETlhuaUJHbDM4dGYzZ1htNnRfOTUzcVpQUUtnTjlTYU1xNk5rTy1PMElxcEZUUWNFX216U0MzcUxDRFd3VkFwalNYeEtRcGJMbzNjNEFLX0FaUHRCTVVRZFotSFJWamFzZnl3QW5WZmVWMFpmbThOVU1JcFg5UnQ1b1RPb1F3cFM00gHYAUFVX3lxTE1NWHZ6Tm82Nm9RSG9TZUtxeTc0amxhUFloWnhhTkh6d0RJSVBRWElkNUxLVi1zQlgtQnFHNl84OXVmcWxqZm5zREVwYWpiWXFrR0dtdUJGeWdpTm1UVGoyQU13VHdQT2ZRZG9fc0p4MDV1UFpMYWdDSzlldDJyemItX1l1T3hRemhkOG1NcWZPR29FVFpqY0xPRkJVSGU5cXZOSEtCc3FFeG41UHYwYlBBakl3SUEyTVItSjh4S1FBendORTdET193SDJzMUZ0aFotc0d0OVdxQw?oc=5",
+   "published_utc": "2024-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "US-based Infinx Healthcare has opened a new Centre of Excellence in Madurai, set to create 700 jobs over the next five years. The launch follows an MoU signed with Guidance Tamil Nadu during CM MK Stalin’s recent US visit. Specializing in AI-driven reven",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LVTlnN1RxQnpsdWsyTklrSzlZQk16RWV4MGpFZ2FzbEJXaXJiaDB5Zzl2dmczOU45MklOQzFESGlBTHMwMEJMSjREQTR4c3R4RWc?oc=5",
+   "published_utc": "2024-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "All TN govt school teachers will be free from data entry tasks soon: Minister",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOTF1MHZqM2JxeTNoM2lmZm5uc3pkaEhJX2FqNk9tSE8zcmRCNnpGdTF6TUNRVHh4WXFUWFJ2UF82cDBuOVR6MjVKTmdXNmd1dS1wTU00NXZwNW9aV0EtS0wwYWFfWTFVemw3ODZzZkRSQ2pJWldfdkVJdzhrQmJWeUdMY1hFTzRycVY0UTUtQm5tTlB6MjFWeV9DQW0tbGdEQ2JGN24zUzZwNjRTUXNna2tEU0ZZQU02VFNGWjFyQVdMNG9INldvTHBxRmp5ekJBcjlHTWFwTFNvZGJqeTBwb3RmS01Cd9IB6wFBVV95cUxPTEptMWFOWHBRRC1ySW12b2ZsejNJdUJrejliZ1JyTmRwWFFOOEZlYVFTVVBtMkF1T21YQ0RhS0dpUGp2a2Mta3RCZEcwUjZVZjBUZUtETzNzbnlCcm5EQUl1YjVMTTRQcUJUVk1yeFJ0Vm1xQ2p2TV9QU2FrZGN6bHQyMWVjVXBRcDRJX1pzZzRwTGRHYkpDSGk2MU5ISjdjd0ViYVRXb3lQSktMZjdSNnFWR0FjR1FJRjRTRHBhS0pDUDZWWDdRVUVyU0lmUFJ6ZmZrTUNrTHNadnJUcjM5OXNJTGZzWDVSV3FN?oc=5",
+   "published_utc": "2024-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

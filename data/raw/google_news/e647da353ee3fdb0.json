@@ -1,0 +1,13 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Tripura collaborates with NIXI-CSC to set up world class data centre",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzY0b2xBRi1SeWxBd0pPdU5yUE9sZjZZcHJLM0ZWLXFNY0xVNE82c3h3WGNCbGQyY0QwV2xXQnNnNUtrX25tVUFJTFo3bHRIMHllOUg4VF81bFBPQ1pGSjZleDU3bDNfbTlndWlzNkdpM3VCaFU2RnlZLXZxQno1dldfQURCanJJVElqMjl0d28yWjNTUzJjcDNBTmNMdDViVU5OczRoX3dDb29lWWItbThKVGRBYjA5NVdsVXk3M1lOSzJMYlZiV0tLM3FPazRocHpoTkdJZ0JhdG_SAeABQVVfeXFMTzRSNWNuUmRLSzYycHVtWjloUTQxMjBVelNaRDFSWGE2Ymo1emJmZEY3VXNPbGZhU3ZQZEFkdlVjUlIyN05wWXhPbjNiNTVKS0E4eGppSlAwZ3NBaVItRUNEWl9HWjd4YUYxM1BtdXRKUWpabmZMa082RjBKRjN2dVdWQzBlc0hsU2p4Vm5xcGZKOUt4NzY3bk5HeHd5MnZVYk1RcURkYjhYYUFlYUgtOVpxaG05dGVmSmFlVzVuN044LUNLNlo2ZU5RNGNrUjZnOXlxOGhyZXhUYkZaaUxoX1Y?oc=5",
+   "published_utc": "2022-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

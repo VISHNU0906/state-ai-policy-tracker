@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "After War Of Words, Digvijaya Singh Meets Madhya Pradesh Chief Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemRiVWVwLWc4dktrdnUzdzlqc2pxLWNqUnU4Ul9NZm1fNGpYSE55UlRPOUZBNmxKaW1HNkljRGlwUnY2bDlKdGJrRlRFb2xhOHMtWXlCWVFtN0tpVTNTMlpnYnVJLVpFVm9WTURIa2J2OGJEVzBYQWJWZnpwMUpxYjlfc05LekZXNTBXejI2VHZvSllVQjdxSDVVblRXMXYwbkxhTnZ5QXhUWWlJdG1B?oc=5",
+   "published_utc": "2022-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Implements 73% Reservation in Direct Recruitments",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnVjQUhzRkVFVTZLcXRYMVpMNTFPUWpFR3RxaUREelRMSFdhYTB1eVliY1Q1dEVqV19Ob1VnN3g3WVRYNncwb0FUUVJXN2wxS0x0OGYxMDNtV3dLLTRGUXhkZVFKSURYVENkZ2tVZjRHZ0pQN3RWeEZrYUl2UzBBYW9VYTZRMjlfU0JsS0FldHRTQkhMRHJRdFFLYWhnLUxQS24ySWlSaldsSUQxQ2lPYUprYkLSAboBQVVfeXFMTWpIWDl3OTBLcEwyVjZiLUZ1SzlHc3hDRW1wdHhYMGxtbzBhczJPQVRfbVpOb3RqYlJtQ0V6aVh0TjlUaU8xbGp4R0JSZDlsTlRSa1hVZ1pXaDlSMlFyaWgzUGo5bEpzZC1VaXFJMTF5b3dleHNRdHpNUXRDZmxRQVdhZDB5bl9EYU94UUV1MVFLMTNHT1Z2ZlZPNUgwUTF5SE0wOVI3UHAyWEMtYXdYTldQZmE3c0k2c0ZR?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh government ​decides to slash booze rates, retail liquor at airports and select supermarkets",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc0xucTg4VnQyR2RJSnYzdFVCb2x5QU9CNHVpbjZBNE55UVpsZ2Y3TUpSSXRkS0VRdHl4aEVna1hHNFl3ZG9ia2d3WkpWUVNEbE1rU3kzanFHYThiWHdwcTVCZHVpaV9hZFRoakdKQ09CNkQzZHY1S3pITXZhTVo3V3BURklLQUNOb2ZnX1ExdFJOaHJJd0xWVWFreEEtLWxlcUhxUXcxVEZJZkZaTGtwY0EwbGgzbExFVmR3a2lnWXc5M0dGLUZ5Ul9kSnJjNWt3aGh1MGVUck5sd3lRNkh1ODZrY0lEZWRfVnQxLUJ0WEJqYld1VHQ3ZVJRQWd1OFdz0gGOAkFVX3lxTE1pVmJ4UG1YVWZLMTUtOTNaZk50VmdSeFpEcl91TTRBeG1RRXpCb1RWSEZSRzN6Y1hiUlFfaFpsQk1SMElzRWJhWUlnMWFqck5xbGV0cWVBc2ItQjc2NjVQeVlxSEZ0TnNOblJHal93WlJScG4xSm9rTHlJRG1WTjIwdTd6TnRtRU1BUUw4aWdzS2pUVXR2Z1FOYXN1ZXo2S09VS21CZ0gtOVROQTl2QzVpT053aWtJWEJtRVoxWjI5d2NDZ1F6RVNuT1FvUlB3TFMzSGxNZVZkcGQ2bUVtYUk1WWpWUVJBZ2gzb3pZSzVBRXN4U1ZJemRqcHhZREsyQ3J4WkllTWVZZDNObGFOdw?oc=5",
+   "published_utc": "2022-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP minister Narottam Mishra says state will bring law to ban online games | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWmhoVHVQSVFxcDkzdGtPcW1HeUllb2Y1cVc0OGRJSXJNa3B3WkpOU1BLVm4zMmJHX1JNTlgwbmo3QVVNNElMVmJDSFJZZ0NSd3FjMHVuUHk3NWE1Q2t1SmFjSEttbVRpWFk4MzVtM1dHT3FIaVFPNk5uM0RxV0N2aUdndE5RSzZ2dTdCTXBCUFdQR1FiV25EWGdBUWlIQzhMTGd5S3hONVQwU3p5V3lKUkY4dWVuSDVERU8wbXg0Y1pqQUhYSVg1Vk1udDFKSjRTc1hPVi1EQldRNjBqZHZnWVpkajhsLUEz0gHuAUFVX3lxTFBETFB2TjVtTU5rSDJvbXE4bERvWDJsZVJsak9yZTVnM1JZVlFYMVYwa21BR1FKZmIzN0RqeXVzLU96ZHp5NHdhdGRpbXF3TjRNM0NmSkNIUmZodHNrNjZwcGFuZnp1NzhJWjZGYWcwWDJhblR0d1I2VUhGNFdjS0hJT0tBTXlDalQzN0dYcDE4YThoaUdvWms2WTVqTFZ4blBQQ0FOTkQydG1OSDdqelQ5dVNTb2lKOVdzRXZubVFNODhCZllWVnBiMWpwSW9jSFcwZzNvZTZNX1A3Q01pQjJFLTdTdFJrbEVDeTdGZkE?oc=5",
+   "published_utc": "2022-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Prime Minister Modi is incarnation of God: Madhya Pradesh minister",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0VIT3FaNVI2Q1diUm9HcjQxb2JJZGppbE1LYkJ6SllDamhFcjVuSFVxSXkzMXFyQnI4cVFBX25YUXlidXlibGxFdjBUOW1fMGNHcVpkaHptYzJ6bExQYmQwZVpaRUFTX211V1V3a2NvWnZtTVNxMUVQbVZwd0VudFpVUEREQXpOUzF1OFBSVmdOOXdLLV9lU1BnR0M3bF91TVdxadIBqgFBVV95cUxNZGE3ay1hb3d6Rnh6a1lCMVNqZEVwWV9wTWYwMFZhblRDbk92WFJkSkJKR3JnQkxXZzBLU1ZGQzNYSmxubUM5VVBhWW9HM3R4YjNhZnJaSFFjSGlObmVxaGJRbmNzWjhEQUtyb3FaTndoRFVqTmo3YVgtaDdvUTktdjdwclJiczBiSTNBQm5FZkt5QWgyZ2I3R1hmMjFlQ2tMc3J1UE9DNzlVZw?oc=5",
+   "published_utc": "2022-01-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh, Under Rs 2.5 Lakh Crore Debt, Plans Rs 2,000 Crore Statue",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQm5lLU9zejkzZnZLQXY1aUJfU1V3ZWNtUlJMbWhnNEwxYWlZM3V0YXBJOVk3bXY3bzRCVi1jRFBFQkpPSmMwaDZiMzZjcV9QRENNRzJwRTZNSTA0ZWE1eGV4T1BTTTdCdDBCY05ZWHQ0aUk5WHZabXhZWHZ4YnRVeU5oeHZreVkzR21kTFg2NlR4TkU1azMyS1VBbWRMd24xU0lENWU1ZFc4bjZqbDF1SXN6cEIwQUFKVFV2UkdIcEUwU0RwamNr?oc=5",
+   "published_utc": "2022-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'God is measuring my bra size': Shweta Tiwari's comments trigger controversy, MP minister orders probe",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1F4SV9xaGdfcTdSbGNob251Sld1dlREb0psYTZhM3JUNnJYeU9zbFRTMDc5ZlRHdXVHb3ZodG5rbDFuV01waEcxZnJ0RTJRaGZZWnpZQWFlZHk5b2JkdmFpbW40dzdaYWFhZGhsd0cxVzFEMGxaam9sNU5HTjVzTElFMHM0QTRfSF90dTRmTk5BTUY0bEItQ2M2clVYWkZzcHBpQ3dMd3hVVmlOVUNkbXJPUlk0MTg?oc=5",
+   "published_utc": "2022-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Law To Regulate Online Gaming In Madhya Pradesh? Minister Says \"Soon\"",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVjVzN281YUFGWW5jUkRZbGdwYUFzR1lLUFVyS2Z3dDFtejY5anVaejZMT3ZrczdGWXZ6VFoxQzdQWUthNktfallxaU83YTZrTmpPdTRVazRZMVhJT1RYR0s5ZTlOMzFFUDQ3SjdKRDdLeFQ5TldFMk1DeU43WUpIdWlKQThCZHpDbkMtV3g0azAxd25WaWlmaVpjaXgxOHBYOWc2UzJjczU1QWtxdXJYbmVmcXdJamM3YnlUbEFOaVcxVXVRX0FsNzdhQ3RHX2YxLUpB?oc=5",
+   "published_utc": "2022-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

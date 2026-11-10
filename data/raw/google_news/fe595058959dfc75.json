@@ -1,0 +1,21 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Rusan Pharma unveils a Rs 300 cr API facility in Madhya Pradesh",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXBZS0VKcFd2X29odHNTVUpyQTFySVFxSGFkRXBldXF0TUFxWFVoMzNZTmtoNkdBc2xuV3NtREgyV2FpSXhyYVM2aUlZVFQyaTNIcnRFLXZtOFBTQlNfTjBLYzNOUUFQOVhIWVU4c3FVZUdxNjF1VFhxb0ZMUWhUcFJuYTRycENsOEQzdUt6YjZvNzV0SXhwcUdhV1RIb0l1dVpDdGR3?oc=5",
+   "published_utc": "2023-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Elections: BJP candidate from Indore-1, Kailash Vijayvargiya and his wife Asha cast their vote",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQeENyb2xFMWR4eUMtdUVhTnpvTFprb21DU1FnTGd4SUd2N0d2TWxPSW92ckxzZ280ZTYzMjlwMG12N0FQNFJyMWNoWU91Vlg0STBhdU9udmhkR1BEUldnSFplbERrd25yeVFfMmFSU2FUV2RHM2s3eS1hemlfZ0NxU3F3Qjh1bEhhbUJzWlI4OVJKZXFYc1VVTGpuVVV3V0VjX0s4b0ludFp1X3RzU0NBRzIxTDIwa3REVVlseFQzWmtIOE1scGpuQV9Xb3BFdlQ0eHY0S2piMEk2MHUxTWkwRjFqUFdjQ2VNcDB6TVdlbFh0SU5LS2RBVlRmYVUtOFNWSkx4YzdpZ2x5X21RalBpZVZHSzBqc2lka3VPb050bGk4SjNQWW8ydjBDU1NBVGc3bUtxRFNTUGxpTS05ZldPX0dpY251ZlhkREdn0gHQAkFVX3lxTE15QUFGc0RTMGlYY09rTUU5NUJ1VEk5ZnVYQlpfOWlmUExNM1AzQmNiWV9tNjhLd0pwdnkydXBpYVpYNTZ3bkJ0aml3UkY1U1pfUF8wVHNyVFlWOWQtMEtjTzZ4ZXdBNGEtR0JzNDFDYkxPNHhGdXhqbHQxTGJUTDRiZU1LZ19acEl1bjUtQkdLekxTWDJlWkxXcFVnTGdzTWRJbVBfd3A0dzA5Sy1zbEg2NlIwenY3a2lLbjVDNDh3MkZGclBYaTMzY2hubGtpUWlnbzg1Zm51MHpyUXlSekZqRnNlSzZJVHRVazliSTlYYW1JYVhuMkFXRDhXeGYxVUx6dGlMNmVDVy03Uk9lUHI2MWRNNEc5UmUzeDZVUWJQZzE3a1lzWGphem9VVk5mR1VDU2Q2Snd2MnJjMVNhQVRzWkhmQnhMUnNoZXJRNHlTZg?oc=5",
+   "published_utc": "2023-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

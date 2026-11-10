@@ -1,0 +1,21 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "NTT to ramp up its data centre capacity in India",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWQ2bWp1TFZIREg2b1ZrV0Y3cTZjUWZPdk5MTnIzRzdPcVZuZzRHNkhUd1cwZFVTOU5UXy14TDUtbmlwMUdHdDZPc1JSNmxNRU1hS0dEQ2ppTlZGU0tWbERSekFPa3g5NnRtZ1RieEZ0UldKVjVqT0dkZ0hfaUVDTnhsNGsySnFvZi1iMFpsU3d6UQ?oc=5",
+   "published_utc": "2023-08-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre plans Rs 120 Bn Brahmani inland waterway",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGhreU1hTW9yWUpLUTlBNV9wNnF5bjh4T1Q3VDU3QlFyQnNlTUJ5a2x3NTFTa0E3UllxNGlQWVM2akQ0Vmp5VXJnTTBMdzgtdU1xcjZjaS1FcENQN3lLU3did1VWYVhSU0N0Q0t3MFdpREdGb3k1SVI0RVY2dExNVWVKaUZpNjJDa3ZvSzdNbklrZEM5NUk4Y05LdGV5MTFNNk9KZEcwSnFIa2hQZU51V1N1blRqdmxFenBLYkZGcENCb3hMN2JGbHJB?oc=5",
+   "published_utc": "2023-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

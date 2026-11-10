@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "Rajasthan govt plans to build India’s next data centre powerhouse",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnhaWmliNUs2bGZuSEpQdUVxNk1qOU9Pb2pNNExhRkZ2TlNIUWdvX3VRVnRhQXBxZkpDMm5GUUdoTGJZS1A2blFWNmd0Y0RuNnhRcXFTTjBIdWtrVmFfOFRMSTNOem9FV0ZDMnBDXzJBb1E5ZmxJUVV0WW0zZm02Z09zdnE3dTYydGNsXzFIeXJwa2NaQ0dNQWl6M3VvX2NuX3A1Q1hfYw?oc=5",
+   "published_utc": "2024-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Power Grid Corp Acquires Rajasthan IV 4A Power Transmission Project",
+   "source_name": "Rediff MoneyWiz",
+   "source_domain": "https://money.rediff.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVEwOFdMZmFfcFAwZGYtLXRwRnVhVEEweEM3bTRFOHNzZXlVNHNZYTl6djNZdC1IVkM1VkhXQkRDay1yOFZ4TnlMdlIzak9HLUNKOHNmYllqaG15SkZXZFhNeElpMTRBRk1CTlZOeGQ3YjN1MmtvcVZiUnZmT1ZwSGotNTJ4aWZNSXlZc0p6LTdRLUdZanVGT2JpRkhKT2Z6MHlwZ0ZKMTBqRUJHczlmbEk4a0hzMzFWUUk00gHAAUFVX3lxTE93bzFlUUpELVRPM2V5OU5qZkg0bHE3YzVfN19taVJPal90MjNiM2pyQ0EtLVBhVnBSajVoeG9fbHJQdjVwUzFVUVBHTEMxbVlzOENFWEJQZ0NFYVpSRHVWQl82TFpxSjQxLXd3RVpFV1YtMGliXzNxcG81VERtMVRKZEp3NDVjblpHbF90STVNYm5lSmxJdlBjeHp0NW1uUmZtaVFhRUMwREdqdUJQZEpudTRVak1uZGFabnJvWDFocw?oc=5",
+   "published_utc": "2024-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

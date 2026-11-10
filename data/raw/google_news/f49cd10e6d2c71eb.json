@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "T-AIMs for data annotation clusters in state, inks MoU with Tika Data",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlZFVEdMZWN3ZmpHcTNPR2hnRnlvd3kzUUNzdWRReEFqQXh5MGJpcnU0R0xUSkw0V29qQ1hYS2VHVzVrZkw2ZGNFaGRDNVJnTUoxNWxIM2JOZFYtTExRY3hycmxveHhick1HeXZOUXFvcDZlSjZWcV9VTDN0WDlxZVFOVkdyTzJONnR5dmpJZ3Y5N1Zhd08xeHdpQWdQOGkwZWtZb3VFc3pQUUxSM1Azd0hLeWZBUlZDSTRfTERycGlxQzR2ZmhET2k4bTVaaTE5V0NnRWFKeEN6U3Vv0gHiAUFVX3lxTE9BY1phbVU1al94ZHhKZEhNd1pfQ1cyYXB3aGJoS0Uya2FNX0hqdnI1ZmladWhSMkxmYW1Bbm5SLWR0Z3R5TVB6M0hJem9zY01fWmZrMU9tOUZWZEF3VTJsMXpseG4zQjF3UXU2RDBOaUhQRkd0Qm9Xb0o5VlU4Z0xvNG9FcktpTE0wV1FVWWFvMFhLOUVJb1ZXTGVtNGVNYkJhMER6TS1wT1RSYjVqUklTeEZBNk5WN1lOSFFWRkI2X3pzdHlWeThBbjRsd3QtMGZqYWpiMkRTblRrR2I2ODdQWlE?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shri Ashwini Vaishnaw, Minister of Electronics and IT and Shri Rajeev Chandrasekhar, Minister of State in Electronics and IT release “National Strategy on Additive Manufacturing”",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkUlNZenA1UkItNXIzbkNDVXJldzZpMC1EZ0dZR0kwYm1wY2xXRG5sa05GYXB5TGU0RGcySHBHdmJIWENrSkJrejVFWDc3RGdBMmRDX2VtOV9UaEhGemN5S1QyUUlwcjJWeS1yUTNMRUU?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Opinion: Design AI to benefit mankind better",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVF9UY2tURW1OUkpLTGJ0NnV3OXBOZUNwNDFzVlEtVmhoV0VlcWFaR2JhN0VxWTVyWDFGTnNNekduSmJPWDA0N2x2aGI3Y1AwYnV0QnhYaXc3eG1iVUcySmNYb3pPdTBjZ2E3ZUJVcUtzbk5QUFNvSjd3?oc=5",
+   "published_utc": "2022-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP Needs To Be \"Thrown In Bay of Bengal\": Telangana Chief Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa1h0Nkk5c09VVkJSVDVGN1hyWGNpbjc0WmdnbGJaMmExWXlGa2V2SEpTWERzLXlpY1JLOEJMbHVRMm5fMFBZWlA4bkd6YlRDME51bURYemVLNVJXUDg1aDl6LW5tSFNCSmZ4T2xLN2h6M25DRm9FUl9hTTVHTjJxTUZNSEFjTVhKdHIzakFFb2thNGpVX19xT2dhR2Rhb2FfeVVTeHBpRF9BZ0pJb1YxUXA5WGZUc0Rfd3pmTjlUVDVXSkJUa0xUc3ZCc2tPV0RtX2pfajE5YWlYS0tzeVkyZUpaZG1RanFwNndhUEFCbXZvNGNVTGU3dkhmVWJBbVM1V1pZ?oc=5",
+   "published_utc": "2022-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana government employees await PRC dues",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXVDdzNaYzl5VTA4SmRNaGgtTE1nUW55bEZpMl94MTFUZ1pyU3FSekMwRHFidF9SLUNZZEVXNGQwd2huS083NTQ4aWVGZy1hb3oxMWtvQklwdm9YcUFxRWU5UHljMTdmX2c4UTVFb0J3WlktSFQtUVNjeTlnZlpUZk1qMzE4ZTJ1N0xCVGR1enN5NDJUNndWTmtZY0V3eTVGMUpzVTljdnPSAa4BQVVfeXFMTWw5VkRhZjhLcVBSTTlBZXdCRlhRMnZXV3hpLU9hZGJxaUdXZzlVTk1iUVVfUjh0Y0JZazBDaFFvU2F5S2xVLWp4MnBxem05Xy1FOXVtT2ZfaXF3cFBLQmFHV2lsc1hsU0sxNXlSczdKX19ueGhSVkxUNzlFWHUxdGxuSTh1R0pVdmgtX1RSOWZ3Tkw0TmhldzQxcUVaeWpTYXRYRTBvdW1UQjQxVkFn?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIIT-Hyderabad’s AI tool to assist healthcare providers in taking decisions",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWh6QkJZQ2NuZG5rSmczemJ5NUpKYUhLcUxYQmg4UU1NeUh5cHRVOUJGcmdxVVZPSEdJVE1FUndQdnNLZjVieklDMTZ6MDZ5aHk0ZmlVTkFmT09IbjZIZGlidk0tNUtKazVZTVFCdUdoNS1uT0kyYWhDSVRlWnJjWlBWLU5JRXFBcW15WnlVRjBNTGEwakZJcGdSbFB5S200VXM4?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "KCR Backs Rahul Gandhi On Surgical Strikes Proof, Says \"Even I'm Asking\"",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWYzS1pBNGoydHA2QnBxUEhfc05KbUZYcWh2MlBCOWxzWXRQa1ZnNkN2S19aSGtzR0s0TndrTXdxYngwbFRqTUlwSVhlaFN2ZFBSVDBLOHhTQnU1NmJBVnA0YmNGNExzRWRtRVBrX1BGdTk5VXhhaHZGV2psbVphcUVGUzlRaWtyWjhhTFlldDZyTk5BTk9mWXNKYjVTbWVTWDNnQkFmb094S3oxbmZJZ0tzZDRTOHlvQTJ0R2JwRDBlZDdFY2dwNnVNRnJFMjVMNEE?oc=5",
+   "published_utc": "2022-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's biggest artificial reservoir comes up in Telangana",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHhVZDgzVjI4ZkRRSjNCZXRMelo0VlVwSXB1Mm1iSURRZmJEQmxhSWZ0ZVVhS05Ibk95UmN4N21YMEExWVUyQU10eXo2enRxSnZQZTNtVzBjS1JIR25Uc0lEcW9rLXlUaXNnOWFqbUFXeUx4Q1M5LXVIZHZLV0JKc2dtYzBOVGVBc3hMb1otLXFqdGpmZ3lYRUQtNm9hMExTX1BsZHhHSEdaQ1RQdUp0WHJoc21EbjFvOTd6SNIBwAFBVV95cUxOYWZLVlV1SUphWWUzT0lMT3lFOE1oaFVjdFZ4alVHQWtCd3BXY0htV2FoQl9OeXhMZTN6SkZHM0FWczVxamxCbV9aeDVOUVJrQ0FCaGtmSUR0Um1ld2ozUXZDLTl2ejdxdlZWNDg5aUZtU1NlbU9CQXBlbFhyXzdxTjM0LVNPTGF4Z1pWcTU3SzU0Mi1INi1IbU1udVl1cjFzYWZlQksxUWttY3V5MjNicy1FYVhsUzRReHdTZGs1VGE?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana govt initiating measures for restoration of Akkana Sarai",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzFFdjBJYXNpOEN5RHF2al9VVjE3Q2ZoYVkybURORTJOclN2c2dmWDY3U1dxRk5yWTZtV19ZREdrWnNrWVkzbTNlMDBibkppWUFIQ3ZJSkU5eHRzQ2w1c09vUmc3OHF0U05vZmJfcFRTWEc2c05zNWQ1SmQxVlJyblN1cUdRa2JvYzRCLVVORHFDc2lzRnUzRw?oc=5",
+   "published_utc": "2022-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Minister Goutham Reddy dies of stroke in Hyderabad",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjZiVUNZek84Y1RkblBqSDFEd2I2blV0VlZEeHY1RlQ0aW9OZkU3eVVKalFFVTM5dDRieHlXOWZCcVN2a29lMEp0bFphWWRDTlFiZWduNm5BTWJwLWhZc3ppT0tBaVZPUjZiblJOaUZNeTRBOEZyZzJyX1lJN0pHcTlja1JKbFN1dmZ4SXVrZGVVUFd0amx3?oc=5",
+   "published_utc": "2022-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

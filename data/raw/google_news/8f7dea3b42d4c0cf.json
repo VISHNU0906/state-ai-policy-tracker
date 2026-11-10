@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Water crisis looms as stocks in Maharashtra's dams down to 65%",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObHNqSkZmV2ZnVUFWcVZraGZiVzlRLW8xN0tKVlZnaDBvQ3c3VHU3NkFTelFiTlhRaUowTVJLemowNU8yMWItREl3bTk4Z0ZTc2lsWVdKTVc2WjNRQUJ1MXljeEhaWWtnclc2TE9xemhRZmlsYjRjd25Ya3pLRzVCNDJvU2JrbmtjdF9VVHE2aV8yZHhMT2c5Y2NGOG1ENHVfQ05XNk9BU1BQd3lMblZIQTVlZTRKUGs2YU55QjRNcmpSanR3aEJZV1p0cElSYzjSAdQBQVVfeXFMTUJNTFV3MFJwY3VLdGQ0TmIydWhnZmhodVVMNk9BNU1KMjdudVBXZE1CMmYzQXRoU3JKVGxQdW5lS2JDbmVXM1lqSFBkbHl5ZlpSeXR5bWJKbXpqTGh0bzBRLTRvQmh4QXhKTFpvZG1XZFd2SlFLelBEdDJNZ3FuN3FESzM4RWZkUDB3MnYySjNkYXNvdXZpQjJBRHBCaWhqRW45eGZlZ1ZFcUJMV0NoWmN0bzF4MHE0U3RzbVZNMlBxcDJNWmhpTTVxMXA2WERNZ201Ylg?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Dy CM Ajit Pawar presents supplementary demands worth Rs 55,520 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1poRHo1YnNvQ2V3dnlKZzBDNEJrUWZqQlJwc3FFLW1RNEZvZ3pWX0NzTndaNmZMSzVQRDd1WjZJdkxEY1JGWi1Nc0dsVGp6Qy1ISm14d3A1VE9DYjJBV0NhMWZseUJhdDFuS1ljX0Y5NE5fbnpFM0Q4M3NCWlgwQXdkTUF2SDNna1EwUUpnVVROb1JVTmJ3RkhYU0t4MGlsY1hLdVlyTVA1WGxpUmc3alpGb2xZenYwZkhyNGZjLVVsMFZCQm9F0gHOAUFVX3lxTE1BZFJWVFBiQ2JFVDcyMkllR1VMNnVnZXlsZGhuR0NieTFoWmtyR0xjVzlGUnl2dU94dXhlQU5pSUxLcFhaSXB2TEsxeEFvNU1ra2FvS0hXX09oZW1KU3Vzc3I2ZW1vWVpSdjBxNlN1NXZmNHlxWWVmN1VlS3Jsc1lBbVVaLUowTXNiSjV6bUJ2YThncXVOY1p6TjFhOGsyVng5M3owRXpaR2FjWVIzR3N3V0lZNzhKMWRDblZrWWpNZVBXM0VpRVFOTzFfYnBR?oc=5",
+   "published_utc": "2023-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Rs 75000 Crore Vadhavan Port Project's Public Hearing Postponed To January",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcHdBbVFtMEVKV0ZWWUxPbmFEdVY5SXFoWGRFMmlleEcyWGxhN3lUbklpSVRkQmt0R255U3JTY3JWY2ZUemlSZUNQa2pKcnVoWjJ0bHRZcFhvN0JNbVJxUEtuOC1KMFo1Y0V3VUkyaDJKSmJZNjBnaGxkLVQ3WGFWdThxTlZya2lwZ2tZbzVJTkowYmp5RlNxWkdGdnhtZ0ZSZ2NDY3ZfYndmRTdCSjUzRndhQUZjcTEzRkw2a3lpTWlFZ9IB0gFBVV95cUxPN0R6YVFqS3hvNGEwanI3OGlHbHA3a08zMnVIUmlqYzdPMzhsY3ZtRThUV0JhNW5IelNON0xKdHZZVF9QbUdSSzZFZWpEWnFRbEJMLXdtNGdLMlVYSW1RbnExQU4xMUpBNEl4NzJxZTJrSlRRVGJyYVcwVU1ZcndGaGJFdkFWVVg5ZlVTdGdwZERsZGowTDNJZ1JIT3h0dDhtcF9nUUtNMTVpMnZRdHpRNFJZallQV1Y2U1k0MHFXQ3lYNTFINEJyOVFOUG5NYlhFZHc?oc=5",
+   "published_utc": "2023-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Allocates Rs 2.21 Bn for Karad Airport Development",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWXB4N2NGVEp4Ykp1WmJ4MWJHbi16M2NTN1h0YzZwSUVaSHI5RXFuVFNROGp3WlFISGYwWjJFN0FMZ3JubnNacTV0R1M5Wlc5LThMRFRDUlFaRndBc3ptZjJjSHFQYUtPRVd1RVlVU0RSdHVhbGxHT1pvM2VRTFFoNXBnMDV3OGktdWRfWE5UQjZlQXNTVFNJNTBGdldid2didVBFa05fZGRrN2xLMV81SVlRWF9lNWM2bVVEeUkwU085c1V4VURNRjU2c2NmM3M4emFteDNwUkxYc2FRU3c3cUhiWFNKY1Nk?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Infosys launches ₹230 Crore, 265,000 sq. ft. tech centre in Nagpur",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbEF5OS1XVllUT2FsX2N6QVA4ZmRET1hEenZQM19uUFphaGdpOHprZnFLTWRyT3pDWXhGOWw1UVlQc1djbUVRdzZoT281V0hSYWRVSFRQa3o3dEh4WFFoVTYzSlluQjR2S0c0LTZ3SVhISXJjV3VIMXBHT2tGRWV0MlhqeW0xdi1aaksxWFU3WEV5bEVuNkVaQUZKTzdPbWJvS09RLW9HMU9RdnFUeVVN?oc=5",
+   "published_utc": "2023-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Badminton Senior National Team Championships: Maharashtra, Airport Authority of India crowned champions",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORXdzUXZacXhnRXAtUmlmR0tjRFhTWk0xZmVyZVpqZjJnUFdFZnlhQlI1dVhFZXZlX2pMbWlFSjc4WmsxVkZXZmVqTV9ubVRDdDc0LUlkWWl0S3J4SlJZOVdTSm1SVXctVE00bE5aYTc0WVI2d2pRS0x5ZUhmRjFJQWh0NEs1OEZzWklnclUzUGd2SDc1X0ZQN1N0WGc4anc5NjlzalFScDRTVDJmY2pjS2hnR0xDa2lnYXFndUtkSFdCVTVIZVp4SzFGT3hob2RCTlZBbW5XY3JkeURFendsVnh6U2trOXBHRDhEZzl3?oc=5",
+   "published_utc": "2023-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'In love, didn't know he was married': Woman allegedly run over by bureaucrat's son",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUUdXRXNyUzR2XzE2Q1htOUc0WDdRbHFfN2tHN05LWExKRG9MbnFWYW9ZaU5oQTFIemtBa0JVVVpRNWFMeEZuLVpNNGhfYjhsZVQwMFpKcVVoQ0o3ZDVkSGVPd1VfSlNDQTVicGwzZElDN19laEE5UzZldGdpUWE1bXpkRDBfZDZJWW1qTjZXc2ZiTWo1cHA1S2FnbF9udEpiamFqcnAwVTlJX3hIOTRPZkVLLUUwMlJ6NURWbzFQWDQyajFPcGxUbGZaRGJPSm1HTGhaeU1lcXAtdkZ5UWNTQWxkUdIB6AFBVV95cUxOcS01Y2d6aXBXdTBOY3Q0TEo4ZW5IMVZyWl85UW95YWZhbGdrNDZXWDVFNmpYODR5NVdWcHYwYmRySnRTX0xEY1F3SEpSS3ZmQm16RG5JeXVRcHZEd055cGo3ak9NelJJdmN2NTJpT1BDMHlzaUNSS0hoaEpSeUx4dHNhU3lNYzh5WTVyNHBydkcydzJkVGN6VmFHajk2b0xBWW9jTDJ4QkszV21hVjNVbXROUEpUSWlSWHM2R2Y2SmRib29BS0h1dEhRUDVwYTFYZ0hmVUZhRjdGQkx0a0xraFFFXzhMSlhv?oc=5",
+   "published_utc": "2023-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, ML based research has enabled processing of large volumes of data in DAE: Jitendra Singh",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNFpDbHpHU0w4R0x3Zm5jQ0Rka0kydWNaRWxNUkpOQjkyRE8tQWp3MlFGNUZXTWx4eVlPQXZtdjRYQlNBVGM0RExuMF9tZGoyeFFQME9vM0RLSFItcHJSekoyZGVCMEJOR3ZkVVJqcnB1bTJJcDhIOERUS3Q4b25GV2p4NzNSRkg2QmZJTUEwOGVFdWFDR2RVOVNYOW9zV3FhZGtQV3pIVW82dUNGQmYtVnNIWURmekU3OWRfSDBTS2pXemc3VVAzLTZicDJNSzNjay1IaXN3bkt5cXp4R05NQ3JGR3JUUEhZRDRaN29kcE5QS1hfRGfSAfsBQVVfeXFMT2p0R1kzWWhhT3RjNU1NZFNtTEIyWXJvVC1BU0dHWFNrTDA5bjFYNzdIdGhqV1pBa3dyV1lrVW9HN3pHTUlmcjRTanMxZVlmS2VJRllBc2VWV095aUlOUXlEdVp5eGhOMVRlWjNxdDZlODJDRm9pbTFQb21pRExhRC1KMDNqN0RxaXFuVmFvRVVTai1ETEdhMVpYZHJWV21DemM1a1dtcFUxSDE4NlYwRGVnODBWWERscjZiTlAzM3I1cS1mWW9Zb3p3V0xrVk9UQ0d0ZlFZSXpfNmhlanotTVNpbVVaa2VDempSNDd0QzZOZTFSSm0ybDdlLTg?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ayodhya airport: A new era in airport excellence",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWpxa2R3bXNfak5zOHBZMlpYclJRLTlTU2lhZWxXS2NYSmxtVkJtbGhkdDl1YkY5UGFicGpFMEJuQWJDV0pMcWR4bzlzT2M3bHRGS0YwdjBQSDNjNThjV05WRXFFbHhMWHlCbzJlVDh2R3BLVzBTTE5mR0xEZnJpV05UVmVEYWhDLXY5dGNjNVRnV09mUC11UXdNVF91YVZ1d0thcEdBU18wSzBGaFctVk8wTlpSYk5LVndFTVB30gHDAUFVX3lxTE9McmlLNG44VzdGakZyU3hycDlyaGo0d3RLaGsxc1h5MWxHSko2SG5mbkJRTjFiY1dzOFRibGlMSDdWWWM1WURHNTJuNDdCY1B4Y0VTTkFKcnZ5U1llMjNuamdzT29UVG15a2VIeXJSZEIxM0VKanpoUHZubjhrcXkzY2QwWEZUTnRCUFczQ2RjaVBXZ3hMS3BXbEhpLWhiZHRNdUN6aXozSEJyRHZYM2JucVhlTEhmTTJyT0VwN0w5VVBKWQ?oc=5",
+   "published_utc": "2023-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "GUARDIAN: A framework on National Consumer Day for consumer rights in the age of AI",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGhDUjhRNWVDR0xRWGg1VDVMRGw5M2FFQklzdm5FTFJXTmRnUUc3NjloYm52X2tNTUd3c0FyYjBoaC1VUEVET2d2TGhNTUF1ZVNzSGl4Qkpsb2FtOVdRQVhtOHBTYVJRbVBKRUxELU4xLWN4RmhnTGZQY0EwNWtpS2hxQkNSa3BzN3hRWlNIc0RDVHdBZmwya3ZYTkdmcGZBaHlxYmFhODdhTExXOEtZb2dQUHdnNExvV2hSX25qQXhHWUNDN2N0cmVDbl92dGJRdTllTmw1UnNHYU5leVNTcC1ldzBjQVpNc1VWdi1LMNIB9AFBVV95cUxQTDF6ZFRlM0hMTlFlTU5UeF9NOXkyNlRUQzNBRnpNblZFZnZLcS12clR3U2dqSmNBUDlrbE0zYTlmZUpsQzRrNkhCR1dlWEViZm5yYU1jQmZIYnVsSTVyUnBCaTVOZGszMXNqWk4tVHBrQzZfX2UtV1lTTmZxSjdZZzduMTZpTWZST0loWDZuMkJ0WDFuVWxQb0paRUoybXJ6MXVqM25YTWVTekFQQlF0a2lZVE40MGdYWExQNTR5SDF2WlJneXNxanZfdHYyems0eUdtWkhpaHJQQkpHMUpHdGwxeVRYc0g1RjFqUmctWVd2bFFS?oc=5",
+   "published_utc": "2023-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

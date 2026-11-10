@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "Tamil Nadu to introduce six new diploma courses, AI and EV labs in engineering colleges",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUkNua2lyZ2MyWC0xSnlqN2x4bjdxTUxxckVUbGh3VWdyVkp5N0U2el9WVjFxYzFpOU1IYVduOWdOcG1USmdyREpyU0FYUnpYS0VHNXVvUkFWd0tuOVBnSldQYnJxZjg3MlBrUWFYYzZhNTZYRURkOVF1UjNCM1NKQVdrRnRhYjlaalNXQW1aNmdRc3llMElfZDJNdjhfd0tlZFZQMEdsWktPRUJQX1BlekJ2eWY1aXlfT0ZhWGRTRDZYOW81anZtaGQ4c2lIYW5kS3B0OVVDY2ZQRmRIMENhdm16ONIB8AFBVV95cUxNUzVHN2IxRjFyNXVjTEUtd3hlUk1Lb3llbndLQ28zeHR5ZWRRUDlYZmRFRXdWX0FDejRQbkVWT1ZCMWhwR0xiSWNrTnZfYUMxNldJVFRqTktSLWphYXhYSWxiQVpnX1A2Z05ZTnFURFJXbFk5UEhnQWdIdWlsek01S19oVnVCbU84Q2Zma2U0QjRTZW9LYnhwamxObkc2UVczSmpYWi11VTN5SmlaVDNxdE1WVElJdlg4RE90LVM1VUIxd1NyMmlCNlg4QnVBMldvdUptbmplRkQ0MjV5NjcyeHFqQjZ2M09JV1FtbmxYWDg?oc=5",
+   "published_utc": "2024-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-Madras launches B. Tech programme in artificial intelligence and and data analytics",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjBmb3VoMHZLRXVZYmpkMkt5aVJTa0RldE9QOVhRRFU5SDZGLW42Q0o1ZF9rclZUUGc4UkJQOHdxVnVTMi00UUxYdGZEMERkYjJPNkhPUE5hQUJuQ0JETkQ4d3FhOFdpdm5USjBsbTg1bk5sREZjdTF1UWJuNml6UUUtQWVZQ29OV2x1dFY5UURPNjBFQ0ROSm5Na3g1SDM0eFg5akZ1aHFqMEc0WWgwNEJHazFkMUNLZGkwSmM1NmVxME5oRmYteFNzLW1yYjNfdjVVOU1mRFd2RzjSAeIBQVVfeXFMTUF1WGQ0NE01WFZlRkdZZE5yN3ZTVFptVlFQTmVJZEQ1QUNFWXBhbW43R2VvWFR4WHRUQzB4X05yS1RIenhXemduZ0FOa2JPb3R5MkpWbjRZQmVYTnlWdEdDX2ktUTJzdDdPM3R0RzBCdV9LUERNR1RES0NycDJPaURvbVlPSFgxa1ZWekFTZ2xyRFdxLWQ1bXdsVkxGb29PRDVVUjhtQ1ZDa2lnZm5IY0NlSEhFaFE0N0FfclVrd0VERF9OOGs5d2lvMjM0Ti1TUS1XM3JhY0xLeTZ0VDd6cVNXQQ?oc=5",
+   "published_utc": "2024-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt to build one lakh houses under mission to make state hut-free",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXczcjdvcFVtS25yWF9FQ0xKOFR4eW03SVFuLWdoUlVZWk42cUVoV0g5WVN1N1hGZjZDRW1jeGhHazQ3YkM4dzdHRldRdmtoUm5HYkNGa3ppdGdiMDFqTVg0OXY4UjdEaGtDODNkOURlRUtrcE9VQnlSWXdJdE1aVmJ1dDJ6aFQ1NWFEOWpoazNqc0dMYlhsUGx5S2FmWkFEVU1NeTdFSG5LdmNqbmU5VzZkUVhyWkQyZVF1OWRzTThfQkw0OERLMmpudy15Rndm0gHWAUFVX3lxTFA1b0hlU01jVTFxMmJrX3ozckFscEVVc2hfZ2V4SUFJM1VUT0Y0MnBjNEh5V1U1R3ozRnRmaG1FZ194SHh4eFMxMmFhSDh1SFl5QmN4R0FEeXpyUGVJMElxdUpTamhTVVVWS2hMaVN1V2tCbGsxckFHOHFrbTFicWg0WmdMR0RNaHREOWpKVEtieWlXV21PcGhKQlVTU1dIMExkaUdiQ1BkNmVqUXFDdUd5U1dIdEFXRUxMeHN0MXUxM1FrWjRmYld2VWxibV9adUtrcG10dXc?oc=5",
+   "published_utc": "2024-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Foxconn is now looking at making AI servers in India, expand beyond iPhones",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHppVXUtbnpkUHdpaWU2cWVmVk9lMUtMYVd6aWhYWFYzSVR2QTVqZVh4Sl81Zjl3NmlSejdfc3h2cndDdXN5bEU4NkRLQXptZ3NCUHhxeks3My1pTk5VdV9mTU5VM010QjBPRmJuWHVuZzFqMWVfcjRtbXVzSU9nQzFkWDEwdm54Tk1NZ2wzTFhzMk5XVGQ0NTRsdHhmZVpwSlhSelFVYnd5aDJidE5JQmR2MEhqSnZPMDdV0gHAAUFVX3lxTE42SHNCbHFTY21lbXF4eWwyaGY3WFBvcVNWMzcyOGJaU3pwTWRjYmVVYXFSRUZUNjU3c3hFWWF5MGcwY0JfTzkyRUN0SEM5dEY5TzQtbGtYSGw2M01KODc3R19VTkhwRURfZkZ3Mnhld1l3Rnd2c1gxanFudTE3bDk4RTVTaWNoaV9vMDAxRGRDd3ZKSEU3VEcydzgtZWFsMi1fT1ZFVmUyZjNXS0ZrY0JidDVvVHFkZk4wZE1hdjhZQw?oc=5",
+   "published_utc": "2024-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gold worth Rs 8 crore seized from staffer at Chennai airport, 2 detained",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcl9JbURuSWtuWjJpeUJvTHpyTUpjTUl6dlJsaFFaSlZxWV90SElLczFidUwzREd6Wm84QmlDM2lCYlhSaUZ5NVhTSnRXeU5YbEk1N3VWMllkc1k5bDlCTWpWZzJTUzFURTYwem15Q09tMjAyUUh3dTJGaVpJSkttZnZkdVFxX2tOOFVRX09OMjJXUVN6d2JjR0xJOC03WWIySm94QzVUVXdFdEU1bG1uZGMwaGhDNWQyTEpaMG0tNVNsOU5hOXBsb0RQNDNIcHJ4Xy1pN0E3dE1PYmZjdjI4b0dQRG40YmZTQ3QzY2pRd0RvS05sekRqRNIB_gFBVV95cUxQT19RdDh5cm95dnduVzRLRmExa2VaelY2ckpZV21lUVRTSG9lNWxhamYxNDlTMnZxbDB6aWRfaE82SlJ6Y084cFp3OGM2SE1zMFpQQXhhRV93S2Y4bTh1eXlYTU1MbmNZa2g3aC13TVVKZmJnSWxzNldHSm5fWDFza3BwUlBOb3NNaDdkQVZobU1SVlFvLUhCUTRkeXhqOV9sRVFSSWhBdlNkV2VwODNYbk1rMFhOUUl0MlhzYndHY0x1T015WUM2MDhIT0ppSnBGaHlVXzBFcnhwcHZOTXlleDNXcld6dEtxTmNlTWphRGo1S2xBTklWbXlaOUdndw?oc=5",
+   "published_utc": "2024-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Which Indian States Received the Most FDI in India in FY 2023-24?",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2xQVnFxMTR3V1NVTk1JU3JBaTlDVEFmX1pSX0hBZ0VURFlxd1VnNk81YkprVkpxM2ZnN093SEoxMUFVUUV2eS1wYVkta3JWNlVLbWg4WlNTcC14MS1YY3BRbzRtQ0hMTmUtVVN6eXVuUUJxeWRDNk5yZl9yblcxME1ocVNYZ0VrbzRURjNjVDdOZGd5NWlhMzlEVHFFSlJua3dlRUpQcUE?oc=5",
+   "published_utc": "2024-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN amends Prohibition Act to enhance term, fine to eradicate illicit liquor menace",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "http://legal.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV00tMTNNUHFoTTBWLU56XzY5aVIxVGlxOFZXUlpJSjhhYmlqTG05NS1fcmJJaXJJcXRKWkd5R25KRmVobWlvV0JTbkVGSWNVREhrTG1fWHRqcVBqd3NqTkRSSmlNQXg2SkU0ZjJhNzkyT0xuaV9hMVhkd2Z3UEJJTEpYS1RsYlN1YXI0ZjA0b1hKUlBKUEFGMG5fYnNfUjBReGFqUjZ0YTlELTFiUm1zUDZERUV3WUpkMzJRZGV6TkRQYXlXZkw0VzZ2alZzcWpuRXNxNlpDUXktdzVsQndWUllVONIB6AFBVV95cUxONTBDRVRPZDRIdjlLbEhLQlY2WlhFMTFZM2JYcDFjWnNfdEkxdURhSnhKMDUzOVEwbWhVODl4NzdrdUZpSkFfcFJEYzgtdVRxQmQ5Nm5SbFBaelVBLWRGcXdUaVVxUFM0UVR2WVJTSlVRLUxEdlNsY29EOFllYTBSS3dlbEplN1dQU2JpaDNYRTE0SXBjbzB4N05vV1lqeDZhem1WUzlTWjBCMjYweWdtaFVhVHVHVTNaeVZLZl8tLVJFM005LWRGdl91eC1nc1ZfY05fTFpnTWY4NlJlNUdUNkVRVDVBc0I4?oc=5",
+   "published_utc": "2024-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 58-crore hi-tech labs will come up in TN govt schools",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWl9TWDMtemhXYnlUTXNTTWx0SmUwd1lhdkVjbnc2eGJjUnJZLVZmMUpGel80TmtGbkV6eFdFZVh5b0ZSaDBwMzFwQkszeDh1XzZHMDBtY3FCdDJycWNhVU1MNTVwUGFJM3g0a29TQXRTaS0zVGhVUzU0SUphQWV3TmxHVEVsVDVJWFJtNDlEUEdaNVlBRndIU1JKcnBIWlZKeXcwMkN2M3hfZGx1ZjF1YkQyM0Q3YWRrTHNz0gHIAUFVX3lxTFBrNVJuY05ORGxQZ1c3SVZUV1lmUEp1cXJYYmllaGg3cFlCRG5jdGhCSmgyTzFLeUVkSFdlSGNGQUhaVVA2RUdFc01lV2hPNVc2TzNjb2hyWmVFbWREcExlWlBHQldnaldUZ2xKVk9FcnpneWtSemlEQnVsem5UM3o0a2VUYWx0SVhaUm1RcGxyTnhqOVhXTi1YZVd4djFHSnFWcUkzblZ2QnNmcTZMQnNQWWtST2xSY3FGQ1BuM01vYUdrVTFiSF9S?oc=5",
+   "published_utc": "2024-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Stalin announces development of additional 10,000 km rural roads",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1hKTTBDOHJ6ZXItdHhaRnJaaDBXR002TUxXYlIwV3pSNE1OdExhWFRucEZfbDFSd2RjYzNEbHJDT0FaNmhQTkRwWllObktTZ3pFNzBHb0FVeElCejBEYnU4NFh0ZENzTnlnc25rOEZQUy1IcXRSdTljUmVPVDNPZnZhanVYSDJWUzhCbGpOdjBwUTFsZVY1RmxpeVhvZU1zb2FNdXp1dGN4cW5vcE5tb2UtVGJWTm53UFFPNXdpTEFHT21oRXZLNVBlQjlqd2RpQW1IVzFYWDRHcHfSAeABQVVfeXFMTXJVZlpZV01sNi1DYVB0YWZqZWFWT05zMEhNNUxUX0VJbFBLMlNBak95ajZ1dHBEV2tFbHZ5ekwyRE9sb1hVVENLNFhNb01jSTBLWDBTeTVPVXladkRmd3RLM3ItZXJBNTE0LTJZd0d0TXFjeExYLUJSd0ExN0RCclk0MU1kU2lGMU9oNFhlb0FfMENfTkVaSUlTOGpBc1l5V3o1SDVqaGJrN0J0ZXZjRzF4amZpeUNNMFVPUTQ3dnFwUmRjWFNVc1FjcUZCZnRkOUsxRFpiT1BURThPdnF6MWU?oc=5",
+   "published_utc": "2024-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS India’s first-ever space accelerator to support 24 startups",
+   "source_name": "About Amazon India",
+   "source_domain": "https://www.aboutamazon.in",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObTF6dXBGNkpYaHcwdTEyTWJ4dDZRV1lCYThjbjRoOTRmSm9mTmpJVXJQLVYzYWNwYVF4bkJuQkQ0TndsalVUTWEwNWhFbU04OGNnLXJYRDBkcHRUdlhKcGtEcUcwMjdyVll5NER6U2trYlRnVXVqOFpLWk5zU1lWcA?oc=5",
+   "published_utc": "2024-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

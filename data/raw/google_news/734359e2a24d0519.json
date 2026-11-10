@@ -1,0 +1,13 @@
+{
+ "query": "\"Assam\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "CtrlS Data Centre by CtrlS Datacenters Limited at Guwahati",
+   "source_name": "www.biltraxmedia.com",
+   "source_domain": "https://www.biltraxmedia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFNSdEtNQzZEWExQNmMxVGdNQzRCQkdob0tXcFh3VnNhTmVYSHRqTFpVRFNRczdsRGd5WGJPaVFqdDl5QWJNMlJNZjFzX2dSTmdPbTgtbFhpT1NPNmJjY0JnSC1XXzNUcGFoampWdXB1N19HVmVrNWNQOUh4R2JpcU5DZUZIYm5Oc3pabFdLTlRMQQ?oc=5",
+   "published_utc": "2022-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

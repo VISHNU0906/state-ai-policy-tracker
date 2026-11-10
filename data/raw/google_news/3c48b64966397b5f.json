@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "KEY HIGHLIGHTS OF MAHARASHTRA IT-ITES POLICY, 2023: IT/ITES UNITS, IITTS AND DATA CENTERS",
+   "source_name": "Cyril Amarchand Mangaldas",
+   "source_domain": "https://corporate.cyrilamarchandblogs.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeEZpUjRhMGJheUo4djA0bFpxeE9fczV1QWkwdXcyNE9za09peHo4WE1VZER3Zjk1RUtuWjBfTFRRUEpMbGRfajYzZGRSYU1DSkl3bDVNb3FUZFBpSFlmWHNSSTRXX3dpSWRPbHlacmppY3ZZMHBDUGloVENYeGVuMzhEU2JacHRKYVBqbDJrYktIMkNzUVVzaVp4Yi00aUlLTVZCVlNrNVlkRUZMRFNqQVY1VEZDN1FWaktZRFBMUWdfU2ZyVDNKNzdmZnBDNWRyMXIw?oc=5",
+   "published_utc": "2023-07-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt nod to set up 10 centres of excellence in institutes across state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVk5yZ3NtYS1NejFjWm9rLVhOM0FrRmozeEhNZ3I3MW96Y1FHZk11d1BlRlpMdkRPUVFRaWR5a012cGxwdG1pSDFPdWRzdDY2TC1JMm92TVdUZ3EwYWROMWFTOXN0T3lxb1hDeDJEWmJRNHBTQzM2ZThXcmkwb296V1ljTjZnT1F6eS1kdkZmcmVxSDNNVnlaMzlyVVg3TktrMFdtWjZaR0VjX0dDUjYzeTRGdWF4Qk90b2dfWEt3c290bWtINzA2N1gwSmNmSFc1b3VYVlpn0gHcAUFVX3lxTFB4VXBWbmNpOVJyRjY1RVZ4ZGxWVjRPVW4wOFVWZTRSRW5QbmpNNVZkdEFRcGhSQXZBT0dCX3ZVNTB3dFRDS2tVR3VHZlBpQkdQY0xvNDVEb1V4X2dwcWVnak9DemFqMThDSTZna2hyOFRFLTRaelFScEFGV21iMFU1bXJGQVZWanpaWkQ0RHF0TV9aY3RQV3k5eFVDUnlIMG56U2Utcm5YaGNKcUc3MF9NNTlmLWFfT2k4MTQ5N3ZFNXhqYUIwbUptTkYzWXRtV0Q0dGZXOVEwN0tRczA?oc=5",
+   "published_utc": "2023-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai airport will start functioning next year, says Devendra Fadnavis",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWTBZQkdqOUoyb1pacWFrckk2Z05Fb3ZVeDR4NF9ZcjB0Z2RESDJMbHhzN3lqR1BhYU05UVJDRldIMHU4Q090bzAtUWlJNzhjNHlvWVFsVi1kX1AzcWlmRUZ5Y1lTX0RoU05HeEVOZzF6aEYtWjRKT3ZRYVJiTFp1ZFM2dzZtNW9VZGFXZWtmcWd5OFE5ZDM3d3dDYklZNFhnYlI5LUZtdEYzTE5oTE9QdU5CaU5lZmdQblZBUzk5WWFxeWpvT01uclVCWdIB0AFBVV95cUxQQjEzaW4zVUtzSVB3WFhvT2QybDhCT0V6dWRQcXREQVFPRks0UnFqTXBMUGJJNURLcXRRZGpfNHRYWTJzb2h5TkFyZ3NROXlNYmV2QXZTRENaQWFhUWhmUEg2OFRSVzJkVUJLS1oxWkQ3NmpnLTVOQzRESVB5N3Q4MGVqOVVWZTFjMEdVcGwtUmlCbEY1WEt1OE5JNEZuRkJVc1lZanlrTm9TUFYxc3NZNy1vaGFYR1ZFRzAtbGRhZGVTa3B4cmh0VEkxOXFsb0dY?oc=5",
+   "published_utc": "2023-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai International Airport Set To Begin Operations In August 2024",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEd0YllDRkZIay1raENuam4wYk9QNC1VSDMyZWZtSXZMNkNzd3hVOHhCT2ROWldVd0pfZVRUZ1dzTEdMYWtBOTVQNG5jdG5sWVV3VEVhUVhOVjItWFNlVXUzYXQ1WUdzUlBJTmZfdmxXeTZWdDg2S2Q5ZzhRQkF6X0tXaEx1bmFMUVdpS3BFSk01eGpSaVZMQzgweENPOXZOeEtRUHRiVEhCYi11Wmo4MNIBwAFBVV95cUxPUjRiS1Y0Mm94dUZqTW5DM2pjY0NEWkVQWGlFaHVodjRBdGZZeFRlLXFRVVNpMkowRkxlTEREellZNWNEdFNXcEZ6VXo0LU9ZQUlMNW9BRHk1R2kyUG5qemtnYUEtbHlaWTNranR2S1BvVmN0b3ZoS2ZVTThXZWV2OTVwVktWaDJvRW1reFJfZjI4NUxtUV8tT25Zc2xlYnF2RU4wanl3RkhKUzlycFhrcXZ5Q2h2SU9DbWVjUmZYai0?oc=5",
+   "published_utc": "2023-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AIIMS Patna to use AI to treat patients, plans to develop new tech solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnhGLW9TOVNZa0tEc2szUUowTWRkcGJaT18ycHI3MFF5THQ4NXlEbWVrSFR1UUdTVll5US1rdUpHZ0pUNmR6LUF5eERmUnpkdk5MMFZFbm9TcGpYdk5uSENvcE85MXNvaEhXd2s1RzBTSFFDSElIdUZyMER2VHMwcDBRT0RLdWFKeFhrLVg4Qm5SeUd0RjR4NXRaVnVmWXBhNDZSdWNCMU9PemV0aE8tTjBGcURuVzktU0dkZjM1S29hSFUtbEVwWWhIdkF5LVhCT0EwaHl0WGdaTThETU9abURn0gHnAUFVX3lxTE53bklaU3hEM3Uta2hXanliLVFfQ2YtUVFuNWdhRlNlN3FiVWE3ZlhrVFZNZTlrbTdkVUNkMkNnQlY4S3h6Z0N0cUIxQnhnOGFKZnJ1UjRDNmZrN3E2ZVR5WGRQcWVZZHBJRzVQTi1QTXJVWlpfM014eXF5bGFtb1FwZE5VejY0RlFfS21MWVRvRUEzeXMwQ2FrWXk3SFpiMF9lb192ajJhV09taURYMmlNWlZoSHZCWHZobGszU0FjWHV2LWx6QXNfOE5tZFpvb1FTQmFoV3Zoa0gwNG1hRzA4bWphWWNYTQ?oc=5",
+   "published_utc": "2023-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi inaugurates new integrated terminal building of Veer Savarkar International Airport Port Blair",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSjkzT2ZNRktQcG9neWsxc1VMal9GWUd0Rk1xTVUzMzB1VG4yalRKNmlVbm8xeUdMLTJmamFYUGxzcmtTWVJtVkVVelk5cWo5NndoWUlaaFljQWNyZUpUcDBPTEw5THg1aFNGOUdTSGtwQVRhVVR4bF9zRG1RZG1iYzZHemRPeVQ2OUtISjd5T2Nac1Y4N1ZZeUFxZXh4V3diTDB2ZmRtSFMzamdDSU96NHF4SlFzTHFnTlRDR2dTT0UteWpnbS1MTFFuS0NuSl9waUcwZEFqYV82cTVoLVVpQ3phMWNRUFJNSlRvSHBjWG1CUUNWVHR6RGpaaTg0Rmh6LUY4Zy1xY9IBjAJBVV95cUxQaU0ycGxqM1hsTnVhamhuT2pJS1NKY1RnVF8zME55bnlpNnY3OGhDZF9pRmtabXlYMFZwX3h3UVFYZ25xblhVWGhJZW96b1dFdU9nSUZ3RE8tMmJCeXFDZ1NiRUFFQnBSclVEbDRabG16dkdKbS01REpLRThwWVh0VW5mdzcxbXZIeEtuQW4wSTlIUC1na1lncXAwSTRuc0dMTFJGQVVLeGZsSXNtcE91QkdkNWw0SmltUDB6a3plV01nTWxiOGpzUDRxZlNaa3JscUhoT0tKbGtEOE92dFlSNmV5bHZXZDVINlZIR0JfWGM4SXptUk4tSERBY3lvN3NYWldDNko4RU5iVG5Z?oc=5",
+   "published_utc": "2023-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pune farmer becomes crorepati by selling tomatoes. Read here to know the entire story",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcnptLU1pWHYzY1hxcGVvS3V5VHNHUGZvNkc3ZVo3bkRxMTVKWVZ4VmluRE14elJrVE1mcmg3Yk5jWV9sWUs2LUxhaTBpN29xcWhweEFIV25QNEQ2ZDhaTThkZ205V2w4ZVZKYjNZeTJ3ZUJhWTY0WHJQM2c5bHBxbnVJVUNOYVE4OFFrZGp2cUNWTFZkRHNvTnRVSWJVd25UcnRtVEFidTYyMjg0bWZQd2lWa0NHV2JfcWViX2NZZ2RSaUExWXB1TWNPMUJ1QnJjYUlROU16dTBlS2o1aHpVaWhSQ2hxUdIB6wFBVV95cUxOdnl2cVdSTTRSdzdtSnRaaEhnS1FWOXhlS21vckQ2UDRnVmlaVUtrTTY4NHpkNUZORXUxUExNQmttcmFyMl8zY0xXM3FFLVpBN2hydGhFcUtwd0FOcUE4eVEyb2xYOUpRU3ktTEdsc1N3Zk9fUzhJWEduRWtqUlF6bDN0MFRmNDB1YXNQQXF0RndRTUROcnZWd1QwVXNLNTVEN1BweDZqU2JZWGE4MHN2T2tnb2FOZHRkZkYwbWtLeXR4T1U0d2JVcUY0R25nMldVMXNJUzBWV21MdU8zSWNGX3ctNlRZaWZpbm8w?oc=5",
+   "published_utc": "2023-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Godrej & Boyce announces a new facility at Khalapur in Maharashtra",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDA1UFB0NkpCVDFydHRjY3c3dEUxdzJQdWpvVU5nM1laSDFZU19IdnFPUVR4UklDLVlRRzM0OUV0RVFjbTE0eGE0eFRvUENVRGFSN3JzOVdhcnVBU2I3OHRyOGIzbGZyTTJRa09aQ2NIM3V0THkxZTIwQTNjMVYwQS1rd2RQVGZVV09Hb2ZxakhaNEE0bDliNkVWdVVwc2NDVXdaR1paQUllRDF6dUtOSVJ5bGc4SDVtZ1NCSVNPN2ZZa3F6NlFFX1dsbHbSAdABQVVfeXFMUFc0QklzbzNoekhtY2NWaF80QkdlM0ZpNGJNZlpDSHQxWFRYVkJ2ZHJzZU5JeE5aLWwyUTVfZHFTOXBIalg3WmdLOWJfUnVEUFFoVzNIMUhTazg2Q2p1UUp3TmZmWi1CZ3lJOUtTaHJ1Smg4R0NBWWZzcEVKa215Y3FoaEtDb2RselV0MS1sbmMyUUlnTVhUZXZKN1JWdzJkeHh1aS1fdTRLZnpPaVlHWV9GYmxQc05KQlJ3LXlVUmE3cTlzQ193ZWdWMGlWSVJKWQ?oc=5",
+   "published_utc": "2023-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet Lisa: India's first AI regional news anchor",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWQ2NUlrTjdvT0NRS2k4YXRBZzdhNFhyVGxrcDZETU9hMGNHVWtIT29sekZ1b05vdUxUc2pZVDluRjdmNXZuelJiWjBIWXI0OVJkWmZpV3gwdWtQbTBTYjlKdUlXc25BMzN4YzR3N1pXd1p4UmVnTFZjSG5GSlkxN01LNlRFNTBvemgzNnRBVmpBYXZHVGpta3dsUXZyT01BNjMteWFGV18xNExVVVFQRG5pNmtOREV2OFIwR1U1SdIBxAFBVV95cUxPeXlvQ0lEcXp2cGFaUWw3Wm1MZ2ZhS0toMlpyQ2p1bHFZbjZxTUhmOVNHY0Zub3dTQktkN0lYblJEellINGJ3T3BHLU82UVNVTTdya25nRWVTWWFkTWRSUk1VenZEVWFFSHFwTFd3OHdMN1BrZEJRVTVsRU1KYXI1cENoWTRselAyckduaDZrcER2czFqN19BOGFYd0Iwc1dDMEhFR3d3ZUFtWVF5TktNeEZKeXh1VncyUWlfbGVZNHJJS0xC?oc=5",
+   "published_utc": "2023-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Three-time Maharashtra Kesari Champion Additional SP Vijay Chaudhary To Represent India In World Police And",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRmNxcHRJQmluaUtrMk5qMG9RLXRyOThVZUE1S1Y0X2UweWRKeEJiNkxib0dzWVlZOWFEM0JyTXdnbUZRaUNhN3ZRdFhCM0N1TjBRWnRPaDNSNndEMzlqTXdOMzFmY3ZCcmQxcVVWV0s5dFFOSXc3WldjMjVCaDVPWVA2OEZoZ25RanRHVTJvMkVTVG9nTVdTejZHRV8wUm5CU0M5bFFlNmJoUktBdlAwM05MczdWalN3eHFKc3BZbXlxOWV3R05FY1AxWXA0OXJtY2dONXNHTVJJRWFfN080Mml1MndRVTJZS3h30gHwAUFVX3lxTE80aGhqMndWYmRBYjdvWDhaLTNCczZQYjBSQzRDNkd3TXk1U1hPRnNhOXR3ejlOYXZjRWc4MWxRTzJFMmFRTXZBcjVoMWlzeXZOM3V4NHg1ZEdIclBVT2pkaHNUZHVjYkdvXzdFbjRsT1FqS0xzdFVQVzRraDZ6RFpVdU1Tc25xUUlvcTNZSVRBM2RhTEZ3SXJ3eXNnRm43MFRocHlBZ2VYUGZPVEtfekE0bzNkLVprRzN6bmprS0ZHdjdtV2FTNjRoUUVNREYyUnlnZnJ1aVFTTDRHQVdKRUgxaWlPSnlVb0FfTXZvN244dw?oc=5",
+   "published_utc": "2023-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

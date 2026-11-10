@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "The Maharashtra government signed an MoU with Google to use AI for development",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1lMVhGd3BGcHc0cWY4RE5YUzBFV1plSTZkVXF6MVN4YVlXTnQyOGpzMHhSUThWQXVKNmRIdEIxRlB1c05kT08yQ3lhZ0hWeHRxTXUtYWhxTjVISi1YclRqcWRvRFNCSjVncDg3TjE1a0JVMVRHSmhRb011SUN4WWRWNjdVclhzQVBmeEY1WVpyc1A2bVo4TTNIYmVJaHZjNkF0N3dXc2pxZw?oc=5",
+   "published_utc": "2024-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google partners with Maharashtra govt to provide AI-led services",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTc0djBlTG11UEU2X1ZoUEFzWThsTlphdEFKcWRSTHVnUzd6eUJOZFBjZVFIVTF2TE1hdWdkRjR0OS1CaURlUFZPZUVnQTFhUGpsRkJ1SEtfekllX1BrNmRrVk9KblBhWGZDcWt3ajlNLWpDVmNzUHBOQ3VzSmdpR2RUZFZMTzAtTFNOd1IwSF8tLXdaMHl6SkVydmN6QzN4cnU0Q005UmxYcTA4T3ZLck1lbmQ5TlFkRWJlQW9UX3plelpybGRUdkVtTdIB0AFBVV95cUxPelhaa2xYaGVOaDg0a01zMkFhYVlTNmlPelBrcWxYb0JrUXRkX3dwUktlaDZCck9ZWDZNYmtPTjZ6WkJMaVFLcTIzbFhZQ2w0V2QzZEF2X1c0ajhrRmRQcUU1cjNtcEhqUVZuYzRvdVdna21XTDladV9rU2xBYVhjdUM4c2FaYUttWi1FUUxvaE9Bbm05Y1ZzOFRSam9PUElmd0JjTkdGNE1xRnRHZzY3WU9iTkRUd29XWG55UUJBVEU5RVpOWk9wN0tsaWJvQzZi?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Signs Pact With Google For Harnessing Artificial Intelligence",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlJYSUQydmVZWUExLUhoSk5uV0IwRVE4LTlmZVVIT2ZTd1ZnTFkwS3NQZlJfNUhQYXpWWkxhVXdfbm8xaHFhUEx1aTI5UVRSWF9fejRzY2FPekptSW9ES1ktaVhOU3ViOGJkNFM3ZHpDSGtXeWZSN1NCZk43bFl5QTk1aGlQVVlVcEQ4LUI1X25xNXRSeUNOV29DTjlVakdaTmplM01mLW5CbWIzTG5yVk5za9IBuwFBVV95cUxONTZhN05vOGF3MC01eTRQLTQ4UVFHeWdTZ1JEQkt0VlhwX2ZXN2psN3ZRaTdVRDVpSVVqOUEyTXloeVowbEpzcXA1ei1jU3hBT0RpMU5BSmszLVdpMmFwczJoMllLcy1PX0J6MTlFdHNzSUd2a24wbW1zUGU1OEVQYjZ0NVE1TThfdVYzX1VqMDFBWnY1WWNpbzRWVnJXSHZvTzFta0VzaUlNenFVTjhySEx4VkJZWnNhNHk0?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Eye on LS polls, Ajit Pawar presents interim budget",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnpLZEQ5dXlLMVZROFdMOVVEV3NVREFfai1kNDQ1TElvT2dNZzRyN3NOT2hPVERzMktfeDZRM2RIQjRsUmNQY0FucGw1XzM3ODNRQzdtYUY2SGRUVEw1THBkcnlfTUNGVF9OWUZ4RU5KN3N6RTdyX3J4bU1wc2U1Zm44cW9RMDhIbFMwTTdqT25zU0w2TjB4N2duQnBOUEdfUVlfaUhR0gGsAUFVX3lxTE9nRG1OV2xFQXJueHFHdjBzbTZ2N1N1ZE1iQ2FySnNySU56Z091dS1rS0tqc1RSZDFXMFpjVTlORnF1QkZDQ1hIb1hxeDVrWFg0WDZaSXpuazk4VjdTbnEtZlZFMEQ5Nks0elh1R2hwZG1WMjVZQjhnX1lxMVhXU3RCczZuLWd2N2gzc2dxUzE3bjc3Vm5tUjJ5SnozNWt3WlljbVAxMGVkamhyaFI?oc=5",
+   "published_utc": "2024-02-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Using AI extensively to tackle problems in agriculture: Union minister Arjun Munda",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmktTkk3Sjk1RUluNHZxUzNzZTNKd0hFcDgxcU81cTdrbXYzNkRERXQtRXU4TTdURTd6R3ptQmI1ejdSdGdmMlZFNHpBMnM0Y3FDYk5INk1kRWZ4SWhGaHY0TmxfR1lQUmE2c28xNjRkeXJUaDdxYVpZWHFFREw5bHZwY0FNMmtxWUVDUTBadXlWU252VXczbGU1NVpZakJHOUk0Vks0X0lMUHN2bm9pTUNTSU1TcHZlcWNKN2V1M21FVUZ2bEdWUlVidjl3akVfQ1pTM3czQWlZby1DS1NhQUFGNDBOcUdiMVHSAe8BQVVfeXFMTnE0QjNoLVl0MXRFTEpTUG5QQmF0aDRVQnpicnp4Rkg3QjJaSGVMTGZDVVhXOUZDV1BYQkZOYVhJM3NvdVA2N1lpaHZoaU5oeDA3Ym1tM3NjMzcyWEVfU1BpeU1hOEFyQjlfTEVEQzF4aGtEN0dIa2xxallySlRTRm41cUFTUXdKc3NNQllVU1J5eExSbE9NU0JwTXZWdmhCd1lSNDExcHBxTjRrWHlzSGtMYlFlYktKNFBfMk1ycXUteFlPc0JzOEhwcG1EakVFcFByX1FwUmNVdWJqbXhmN2tFV0F1ZWt4MHVndHBVajg?oc=5",
+   "published_utc": "2024-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra launches AI-powered chatbot to provide information about unique destinations",
+   "source_name": "CNBC TV18",
+   "source_domain": "https://www.cnbctv18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWUJGMDNsWGlKQkI1a0hDczl6cDJQbDAtWjRrc3BQZHdpZ0NiRURBZllycDNuZDRvdjN3cWk2a2hlU0p4OEJ5WlBHcmtCUHJCS1VlQkNrNjBtVjRtRHo0T19ZZm5XNzM3c2djVFNRaThwSk1fRGh4ZEMwZWxNclMwdjNBX0ZESnZJeHl1MndqNWY5WFhWVFppa0JYX3BrR3ZNbTJHOHQ1Z1lZSXRtZ1EyeEllNjk3ZWRLVmpfTnZGYnpKazVCVTUyMWdycU1MX2R1bTdoSnFYdjhZem1FSmJJ0gHkAUFVX3lxTE82cTZZLTE0ZzZ4bF9QZHU4Q1FoMkREQWhxazVzVGpxUVRDNW5NYXFPaTNhMGRuTnJZeG5yS0lZOWZnTFNTSnl3TWJhV0lWN21ieUhRdXBWY2VLNmROTHBEVGxRcURCZXlmMmk5Q2dQSkFXWDI3cVhCd1ZXRUtoSEpJT21wSWhLMW1YVGYtSFNtLTNma0NZUHo2T3poZDJ1NzY4Z2hselBUbnNuOEhmSGhqZUlmbWFsRjI0dlpJaEZWOENsRnFwRnlUTGNBSzE4TFJLbVFMaU5nQ1NManA1N2R3Ujc1Vw?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The University of Birmingham supports the Government of Maharashtra in tackling key state priority areas using AI",
+   "source_name": "IBG News",
+   "source_domain": "https://ibgnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUg4SDUtTVItMzhOam1SVHNSdFp2QmJJeU5naFdXdHRKS2NjQXNtTTVyTzJKZHZfOW9yQmFVa1pPQmQ1N21uTFZEckpYdWNwM3NlanVJWFc1cG1Hc3NuU2FaSzJkRXhDN3NpRFZoc0pPTFhjYUhpaTlLTnFZY3JPR2FGR1E1eHliQjA2Slp1bGM2S3BBcWV6RkR0UE92VVdiRGVEaWNQX0o1Y1A4S24xVEsxWE1TOGdLSy0wbXpJWVRZWTZtN3ZXT28xWnp4eHk3akk4YXA5d1Q1am1Udnc?oc=5",
+   "published_utc": "2024-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lucknow smart city under face recognition technology enabled camera surveillance now",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWVV3bUNraFQ3UVZuYlFISUlxZ0VuQTdpZ3dhdWJiTmoyUHdkekhWY3lkaGhuc3VfdlFxRTd0RmlFU21qMmtqeHYtc1pKTzFudWdReGl2WjZEbUZ3cXNaTWF3QmpveUVrZDhGYUhRcGZJdXY0R0dKVXNWVkhMZ3V3b0VQRHM4U012dHp3em10NUVVdm5FRnFRQUZlb1EtemR4ZTRCTElfMnhJUE10RkE0N3hMRDRhM04tZlZBQ2dYclNlY1NBbzRtOXpNQ1BsTEExQkRSdXF4VXllMHh4em9DR0hES2xLWE5uOFh6ZlExNGnSAfQBQVVfeXFMTjUtdFFkTjdZa3E2NjFmVXhQcXY5cHZsbkJMLXZRQXRtUERwaHRkUWtRV2k5enhEUzlfS2FwaWJ5VktZQWdoOGVmN2lQaWo0WFRZa3RvQU1Mb3NpLXBkbGRyeVo1TkFLMlVrVW11VURyc1FtRFYzSUwzcU5nN29WVmxsWmFXSks0dE9fQ1JjQWhFakF0MUI3NzZTVmtsbklrc2gwVW9mVkJOR25Pamd1UVF6VnZoX2QzLU00MTNjSzNGODBjRktKTHFnTjh2Ymw5TDdrYzllOE0zelF6MGtCbUFSZ01hd1BjSXlITjhlejZkN01mSQ?oc=5",
+   "published_utc": "2024-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pernod Ricard India to invest Rs 1,800 crore to set up malt distillery",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmJybnFRakhmSlRFREZjcDB0Vko1VTR1TnNoNDFfNUVnSkhYN0xPYzNNem1lUnM2V29YdllrQUw2R21hZUEtUGRzTElOVTBJZkRZY2d0alZkYnRrTW9NMUxZZjF0UUFNNnQ5OGU0YThsMEhBSlNoTDlnVjJRVkIwQXlsNmxCQmJ2dHNHLVBYQk9BZTh1LWlXN0ZtNU03d2xpN2JjeXlBcktUXzhIZG5JRTJjd2czRHM3dHBGa0l6NXhZSG1kSGVkdnlwcVlZUmp4Y2JqdTJn0gHbAUFVX3lxTE5xOTM1X1RDQWo3OHpkVm00ZTBmc2JvQnZXMm1LNnFSUkstQnh5eU9iY25LazdhbTZrSDBHQ0lSOTEwbThBX3JzZXllWmhKbk9HSDQ5OGxjSjB2SWkxWEpJMmpTcFBuemROd1djUUJwa3c1VFdMYTh6RGJOcWtsam9WajB4bFVjSFdIV21jeXZ4Y29tQUJkV2Q5ZkNmbjRlY0FiaTRyM3NWek5BaEZXYnZLQThTa3EyX1hodUo3dXpNa2FLajdUTkxhNGZpNGNYNE1RMkJLLUZmaExvcw?oc=5",
+   "published_utc": "2024-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt presents supplementary demands of Rs 8,609 crore",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON1lQelZBWWVmS2lDWGhVVUxiMDhqd2JxM2JqNEtXSEs0ekM1QXgwNm9pZktNMktMM2NZQ3VhODhQcGljZlNZQm1fNld5TFJaMXlQRnNNSEhCQWtMZHBsVjVnNFBGOHk5NDU4dkNPS2wxaDBPdnVtZndXbXpQZU4wQ1hQQ25fOVhxamNRVUIwMTFXTFFmOG9fN05TM2NYYjREOHBmZmU2c091OVprOVB2RG9QT09nTUVCcHNmSDMwWUgxUTR3WWg2ZkctWl9FeVJXWU1Tcm5qdU1BY2PSAdYBQVVfeXFMTlVRbWtGb1RnWERsWElRYWltTTlvcEFseDBhXzNodkVydkFwZHNrUGl4NGlkbWpfamNvQ3pCYmpkX29tcUhibXpKUGYtSDYyMFNKMVVCUDlsZWJxV2pIQUpBSzhaOC1BRnhSOE93dU95Wk1DQ1VWS1NKYWpkQ0VIVkJHaUg0eU9yNEdETDZBOFJ4eEduWjAxaHhuWmkzemxXcURiRlNWeF9DZ0xJNFpsVzU5c1hwWWN0ak1zX0doRG9EMGRQOTQ1YjhYYjNLTDhJa3J4YVpfQQ?oc=5",
+   "published_utc": "2024-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

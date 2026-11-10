@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Maharashtra govt to formulate new policy on night schools within 2 months",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXhFeWswS3EyY0pIRzZtRW14ekNLaXNQa1VXTVY1dUtmMVE4MkR5QnYwTHpsN0N3dnI1MTBtdUJMTkx5aXlQRXZuNFJaY0V6T3dWREZ6dDA5ZDNHRzI2WnFSRnVBZDBEX2FCQVotaUJ6SXlwWjl4ckpteTloSk8zdTlVYXNERlZrUjJhYVNTc2FzUWtOMVd1bDBmSWFNY2RJaEg4TEVJdkszZmwtRG9KVGZhRGxTLTNpZWZ4ajlWZW9tRXNUbjNlbk130gHQAUFVX3lxTE5ydk5qQ29kOExUd1h2bzc2SXpCYUNkWllweEhHZS1VQWZHeXZ4eDdVWDhPZnlaTm53eGpEY1JjT1gtN1IydDlmYnRGU2o2Y2U1cXNQYlVlUDBUeWRuemNIbEZZU2sxRDY5S3BCbTF4ME4zWExfNElMenJQMHFlcFQ4Qk5pelRKeHV1QXRVTThKZGNoOHRTSjRKUnYwOXVlZFJ0dWlQQVZrLTVRWUxBWHZ1VVVEeUJ5M1dEMElCM0IzbnBoM1pBMHRTaXQydTBDRV8?oc=5",
+   "published_utc": "2022-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan to launch AI, coding classes in schools from next academic session",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVWtvb3hCc1MzeGVDNjVOVGs1dUYxU1lSX19WaGdORGRyM05HanFBYzhYUjBiX3YtOTFRVHhCY2VfTElndzVtd2RhQUF0eWxhUHJsbDJieEhINDFkVWNtSmRmMURSSXBCRVdPa1h6Q0toUUxkSzgwLXBjamxEX3JIQzE3bGhkMnpDNG1TLXhDUzFMSllTZWREaHBiMzFSY3hDSmJneVgxcUFGWlJNM1ZELVNla2k1RnpVOVBnbzFKTGFQeFVlbWZMLUh2NWFTM0NLbDlUcnZSUFhIOHNaM3dGR3lZTUNDc2lYZkHSAeQBQVVfeXFMT1NWZGNPQjJkTFkzUk5mdkJKNDJYVE56M0E3YVlaVk5WNFEzZXE1Zl95ZEtNcGhBdVkxeWFlUm1PMVA3WmpKaTVfeUlubHJURWdPbGZNVDY4LVZEWFNhc0RtRFRFcEd5V3V1WGxiaFZTMmpLQ013NU8xWWZMdnBUUlhLamZOUGNYS0djX0lUMXhCUW1jaWZZZXVtWjdrLUhJSzM2NXpGQUE4Nm14M3hLXzF6X2JjdHVZYUZHdFUtMEp6M2VpVGROQ1VEWGtKT3NpVTFrVi1acGdvTnJ3Q2M5UW5KSjRG?oc=5",
+   "published_utc": "2022-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Devdatta V Rokade has been appointed Chief Digital Officer of Bank of Maharashtra.",
+   "source_name": "Banking Frontiers",
+   "source_domain": "https://bankingfrontiers.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUZ0NndseVlKXzZVektBV0pDbUQ3YVAzNzBOVVBDR0dBMHcyTUdYNzBsS0QteFZyNVRyVmdTRjNnTkpFLWl5N0FmZktrbWtzMlIxMy13Y1RVTm1pVXdnSEM4ZmRpV0VyUFh1eGMzR3hDZVpfT082cnlEaDFEVjdXeEpjcUNtaGlZOFF1V3VRLXZManhkck1lNHZ0UjVLd0ZuRGdkZmtoSE9lSUpYNy1xbNIBuAFBVV95cUxNRk5Cb0VJZjZPYk4wVDJpSkFNWjNrZUlqdi16bFQyR05PRTg4dTIwTTFZRWRFUDFNbVFaeDliTUd5Y0hSRV84aWRsS0JQcFNIajQyQ1Bxa1VDWU1remZQWFhIV29YWnJLSUZubUxvWE1FczJTQUQyNE1EZUdzZ1JvWGV2RndOTWtGYjdfUXpzZElBcHFCQXhqR1BhYTVOUEhjc3JPblg4dGUwY1VhcHhfdlM2bkJ0ckVs?oc=5",
+   "published_utc": "2022-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Suspicious boat found in Maharashtra’s Raigad, assault rifles, other weapons recovered: Police | Mumbai News",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlY3QU9TeVNUZ0tGalVld3dGaTgwZkROQmw1UkxldmR5S3B1cHFyMm5LQUVySkV1b2VmLUZvV1l2Q3l6RjJ6VFQzdjI4VDJDNTRXMDc4V3NGbWxxc2gzamIxYV80MnVzek9ySUphY3NLdUoyV0d4QmFQNFBoU0tOWVVneWIxRUhSQk5NWXBTTGI4ZzVkdXljVjZPMWZLSFVUc3QyYy1NVW9sQzViWXlwc25jeGZmd1B3WGp6LUl3OA?oc=5",
+   "published_utc": "2022-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JNTU-K and NTR Health University to jointly take up research in AI, Data Analytics, image processing, 3D pri..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUHFVQ19WV0U3MmE3RHZDaFBJbGZoQlRGbWdZNW5ENnhyUXhiODBPbHVwOGxUcFM0NlRCXzF3cWh3ZzA5TXJHclZyOWNVUHhkbGo1WXVsTUtzVUNYalpRbzJWeWtsSXlIWmI3YW02VjRDSGRvX0ZPd2h1ekwzblZOemxaX3hsZ2NRclp5YkZrcFhXSjRoaXZ0RTNLcS1BUFdtZF9NeWlCSEhwX2xGWUtwSHF0X1VqUkdJNm5KTnRwU2NuVjFmdjFHOGZnQjJEQmxaQTdadGlpSnFlcWlBaWU1WmRoRGtxdk5MRHpZc3ZVbC1sdUlIVk5UQy1TM0w2NUx6QmxsSWdOLXFRdGhEUUd4UdIBlAJBVV95cUxPV1dGM3pGU0swS2NJVGlXREp3TzkteVV3WkVGLXI4M3l5TEJzX3BnYmNHV0Y0ZTAzSVpTU21RbS1TbGExQ0tfN3owSGVuTTRDV25ZYmI2NEV0eUFsNDA5c2RQeGNDVXZweHlaRHVTVU5UOG5QV2prRF9FOE1HTndJSDRtcTFoNm1IZ2pQXzZvSkpNYllyRjVaSTRPTjRKeG9xdzNVcE5UMDBpSzZnWjBqeWloTHo5Z29nZVhac0VhNUEwY1plUXlQOVdDV09qNXNzRzVhYnZWWmxIWGdXVVlxUVdBWXFnV3JMZUNrcFRaVDFuQlV3dDJuUXhmNHFPZ2hDTXh6WjdRN29UN1BJc3dSX2xrd20?oc=5",
+   "published_utc": "2022-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra health minister pays surprise visit to Pune’s Sassoon General Hospital, enquires about HMIS",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRHMyTkJYN2x6OHVwQ1ktSTZadC15QWJnQlVybk41ZmJfYUg2MGphd2lDaERDN3NBbFBuNHY3eUNCRVNWQ01UeGtOQU1JcmVjMFJya29OY3ZmMzQ1UHpHdTBxWERRdGJJWmRGcjZKc3c0ajlkZkFOcTJPazhxbnlYbkFTb2Y4QXdOOThRTG5kZnFUdmE5Mm5PcFhUSV8tSWZZOHlBNER4NFMzVF9BbUFIZVgwYjRwT0FKX0JTOTl3VUR4V05VYmUwNFdjTmNnZEZmZklLQWVYVjZsdENnTkJGNWVhMnctbVJNUkZ6dtIB8wFBVV95cUxONVZfVUhIMzJsMV9KeHB0cUJxVTNTZWE4V1JPOW9HY2dTNW9wUFhVYm9hX3BvNVVDTHBvWllETU9OdTZWc3p1STNGWkZpdjBhVzlrTndQZFVTTGw1RFhibEYwZ3k2UnoydHBkcjJjRVNPdHg0VXJULWFaeEhKcGFHb19vRkQzR3d3Wk44TUZqeXhaZ1Bpczd6Q2REaHpYZEVaanFTWG1zbE1yem1QR0ZMUjZWOXo4VVpndFlPeEhleFdiaFVuOHhFUXo4VWRTbzJUQkJYZFNHNmprNnZsN1RjZjZmWDNhcjNzaExSSnhtWVltQkk?oc=5",
+   "published_utc": "2022-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttarakhand education dept launches e-governance portal ‘Samarth’",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmRwWS1lNW9yNEc2d3o1R2dVaGNZYjY2bF9lZHRkdnpEMmh6RlFTQjJwVWd4WmJHOUhINlJ2S09iTV83OXYyQ0pLMlpsQWYweWxlUDBwWWJNR2ZmVnd0dUVQMlNZa3VYUV9qNnFEV09tRlNEa3QzTDZRamtsWTRBeWRtVGNMSHZWUVdZTGZkRk9DRVJKRFhwRWtKWEFjbURSRDNzZnp1Q1F2VGtDS1dqSDJpMkdwd3JqZTZ1TzlTS01iQVYxc3EwNlAybUJtc1Nw0gHUAUFVX3lxTE83dmJxSmgtVkd0Tm1WMmlwQTBTbHZ1UWc3YXpsbEN2bUpmS0tjdnJ6c0NkcUpfcDJkTWtlWWFuOEJCVXhUdDh3OGpQS2xheWhvTk53dTlKR01Id1c3NjczRDNMSE1KM1MzbkNmQmxZRkZVVFVrZ3J3bUFPb2hHZmY3Y01RbTNTNE9DYmVmZmxDMl9heGhHN2VhTDViVnhZbU9qSlBHUzZPM01hWW5wb3dpSFFvOHFQdHlSczFYNHZzTm9tRTZYOF9oQ3NqX3RqUVB6RFFn?oc=5",
+   "published_utc": "2022-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jal Jeevan mission: A Maharashtra village holds a lesson for the rest of India",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlVlRFpLYy03TmpETnlmX2RHWGZCQ24yZFkwWTRnNGVMOFRBWUZKSktBZmpWb0xteDNKaGVweHFfa2dSUnU2WjhVUU54QTlVbmV5M2VSdE1mMDgtVXh1MVV0OFdGWDBWenBrRmN4UnFXaEJyanJRTElKNWt6OEVMUGRfdzVFS2RSQVhZNlRNT1RidE1PNmpUZUdpallJNkpXZTJ3emZhZTBGRms1c1lyZHpyQTF4d1pWMkhaM0RDVWrSAccBQVVfeXFMTXh0VHJVaVo3YWhpd2RONlB3ZUNwZTl0Zm9maVJPR21yOERXcjd3UmhXa0hoR1ZheGdrSnU5UXNKTVNVMXJucmphX2pON05jb0VxZ0RqU2htOVFvdnFYSlpvS3ZHOGhpLXZnckpxMWJOc1NUVWlBWmdIOTNoWTRNRU5ZWWVpQnRmbXhUclpJcnptd0NJblhzajlkSGo4ZnJYYlQ1czA3SXhEV1diVmZNMlVvZ0VqMV80N1F0UTFIVkx4bDRoMnJWQQ?oc=5",
+   "published_utc": "2022-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kochi Metro Rail to introduce AI-based cameras in all stations",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFNZOXpQOFVCYl9ZT216V05uR2U5SHFZQkRzSVk0cV9DTkZmaE9EMndydkdKT0JVMmVLR25xNHhqOUxhbVZSZzN6cWNyNGhWOE43b1dVLUxrV3Y1RlliXzdoeGFIYjhVX0pnOXIzTDNmNFpSc2JSYzJVdFEwVjJIQXY1SDhDZjY0aGR5N1h1Vzhzd3pyb2ZlZUdhaDRqYVl6WEpNdVRRWW5ndlNkTm5NWkVpeWthejZudDNUX1BlRGJGRWlvSzdJLXZ3TzhBd1hY0gHWAUFVX3lxTE5IX3d4S1F0VTUxa0RXMDd4SXRHSGdvam1YeGxpZWtOS2hfRzNBNV96Y2VNblM4endGcnUxcXcxNnVubFZuZjcyaHBrZGtjaHlDZmExbXhwNlc5SDJIV043UWJKMEVqVnpwal9pLTNxa292bXRYR0RnTWl1c25KYjRjRGFleHFfaWpvYlB2dTFfdjF2YWZ2T2p0dFNwX1o0ZF9Rb0VUUzVIY0xQQVJvZVF0RkIwb3pXa252NXdSYXRKRDdzRWtnejVCeFJtOFplN3F1MEwtaFE?oc=5",
+   "published_utc": "2022-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NHM Maharashtra Recruitment 2022: Apply online for 132 MO, Nurse and MPW posts",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV1h3RUlWRTVCZVpONHlwZWFZUkJ6OFNnQXdkWXozYnVZNzQtRGlsQ09aSTdqMXFnWGdYX01zNmhOT0Vkck1QWldGNTFmWmx2VU9BMkFzaGlSWU9YWUZJQ1ppTnFHWXlWQ0VrcEZsbGZZVm1XSXRHWkU0aEtVWnk0bjdzTWhOZ05HQlBuYVg0ekxEZlRnQUtXQ3A3UUNpZDY2LVEyVkxZN3kzSndQMjNFSkFIQmFzVUp0Slc3X1NmWFRiY25DMUhmOHZNcEhCZDZ1eV9HU0VYRnZObzZCOGZMODFYdkVJQkXSAewBQVVfeXFMTk9XU2lSdmVQY0tWR3F5TDZDZVdESUdFMnUteHVhcWhYTktBTDBDZkY4clphUW1ZcmVLQ2NteU5haW9hekFuSnpONWw1RHdBVVp6eU91LXR2R1JtWlZvZ0V2bzVZMlBNb2FBTC1IbnFSZUJTMWlVcVMzVXloSThlT2ZIMXIwZ1VQV0kxX211T25nYThFZmpuNVBhbGhkX1lxck1hV2J1cW1qVVd0LXdLekVGY3hhSFBUSUROUTRPU3hOMEd1NXZqa1VlNTUxYTRvU0NfY0szMC1Cc1BJTDhpTFg5YjQ4MXlFbGpXeEw?oc=5",
+   "published_utc": "2022-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

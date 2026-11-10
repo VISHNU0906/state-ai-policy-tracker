@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "India’s election commission to implement biometric voting for local elections",
+   "source_name": "Biometric Update",
+   "source_domain": "https://www.biometricupdate.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNm5xbkdnWjBmQ3VXVXgtUkNPOUlIRTFid20xT3NFT196dFE1VG42MkNlWDZCTVVIQjQ0QTU3aDJabGc3SzB2ZTFZMFVxYkd0MXNsMEpWT2F2X1RNaHp3UGFON3NMUEhWZlR6T3J0UkZXbnZZZDVILUFzamx6aWtwZ1pwWnpQakFTMzdRTnMtT1BxbGRtV0hyZE5Qc3dGaUJjbHAybXdfb0hxNkZzbXdKT2p0aDVSQQ?oc=5",
+   "published_utc": "2023-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

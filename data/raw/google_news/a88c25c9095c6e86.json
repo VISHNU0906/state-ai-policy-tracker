@@ -1,0 +1,61 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Guidelines issued to transfer inter education staff",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGRnc0lKWDk1amY1TzQ4OEd4RHQ2N09Yb1JRMms2OXF1bEhyNUJXMjM4WXVIblVuLUNMdDhKdVNvN3AxWjlPOUlPZHU5SV95WjdTN29LaHhYdG9LaWdqWEtkRGlubWw2bkVNUTktZ3k1T3I4OHZvOFAyRnhJU3ZwcmJJcG1mTG1pQWVzX01ETlZYNmE0c1c0LUJWQklCdUZndXfSAacBQVVfeXFMTmZ5N1N1NWdfSENXWElCR0tYSkVXMUkwRExmVldFN2d0bC1udzBjam8wbm85bGxXWWJDWlhVR3FPVHRCZDFiTmNDZlFqTmZncjMzUEhiS1kyUVNsd05FZzNPd3IwRHJiUmVMQ0FaNTNmMVY0dkNJUHhNN0xrdldEMnpoWEo5M01XcDc3cW1NWFU2bjByc2xZdWFGN2FvMlNfZzdWOEZDeXc?oc=5",
+   "published_utc": "2023-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM launches Rs 5,156-crore Machilipatnam port works",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlLcS1iN3M2aElvS3JRWmw0Mm50NUw4SDdPb2lFcjlldmxyZnZQMjVsazQxcVl0al84X19YNDZKOHFZN1ZwbEwwZzd2YW1YLUstczF2UXNDUTlJTHNwalYwMVJIR3RGZXRsQ2M1QW53REo2bXRGeHBRNGNkZTBZaGxaWGxsR01VekJpb2dFN0ZTV1l5S1NwRnpka2paUG14NzBGUW5vM2VraE52LVEwZDcwZG1tQVJoM3pVVXVDMG9zVWhHcEJRMXZn0gHOAUFVX3lxTE5kM0djMGdBYWFldkxoa2NrX2p6RmlUdFJCWUlPSE5zZTQzT2R2TURfWW8tNVYtTWgzZVdENVZNTmVzSHlPeUxVdEtCbEdrZGpPc2F4Q25Rd1V5QUJ2WEwtWUpGZXJhVGtKNmVZbGpVXzdVeGctWVdkVDg5QVJ4T25GQzhfZTZ0NzItajZQRUNadW5ndE1rb0UzMjVYcU5GMEdmM1JMRHNzaFZSODVJaF9NV01jRjF4TURFVl9OM255QmFycm5RVUlxTzY1amVB?oc=5",
+   "published_utc": "2023-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An exit policy for Higher Education Institutions",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGdmOUVDQnp3Q1ZyQ2pCWlZTNVZPeHBmOURlYkpZekRBQzRpS0E4cTZQOEdUTm1vcTNCNElLRFRHWkEwbG02T2ZWUDBIV1BxMXJwd2dHaGV3Mk9sN1NFNFNzLVZ1NjJ5ZW92QTJBb0NVa1gxc0xSNExpN3NtMy1UbE55dlpwUnE1TnljckhiaTkydm11VnpxbVY0R04xeHFweU1XNDQ0YVZtWHRZTFJWR1hFdFfSAcIBQVVfeXFMUGl3WXdONXpaWk83ZEdOV3U1TGd1SkhPUzVDQl9IVjZFUXRKZFIyVk1Dc1dVak8zQWJJNkpMWmlweW5rZExTNE9SS1FQNVdEMUdoSGkwQUtpYzRmNFp0QmZSczZ0X0dUVDFQRThCZE5GVUNQQmtrVFlVLVR0NDk3MENRcmEweWRtRHZpcnVmekdNLTRlckZ3bjU5di1BQlc0ZTdlb2NOVnhLdUNkakdZNjFWanJxLWRWNVBmUmdKMVJZM1E?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Majority students under Southern boards take Science in Class 11: Study",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSzdxcGpLUzV6c1pxVXN0cDRvR3FkQXlqeEkwLW1BTVgzYWRLdFlsaDBNXzFUSUh3NnBrcWQ3TVk2ekhfNHZEUWRfTnhEYjJvdTFWWW5ESkJlYVJoTThNYTBsSTlhOThLbVlVaEk2ck1fNGRFWGNBcmRJWTlEbHoxcXA5LThvNXRRQ0FXcURpX2J6dURUVFBQSUpkNG5UQU4wV01mMGVhSlk1d1l6bGZuWThZdW91REdsMVJZdkhLN3hib05fVzl2NWM0dVBITXhDRGhtVVdn0gHbAUFVX3lxTE9VczM5SDJ2cDl6YTZvVlhoQl9UU2xxV0hvaDAyMU9tVmhQNXdEZ2hqTDd6VzZsbFhtaVNwU0prRlM4aVpGb214dFcyYnVzOGJndVFnTnNQcFJ4NjNxbkEzZENnVEJkWkdmbXh4WDNHekExMWt0RE10cnctVWtuQk5HaFRSZDZpcTZuY254Nk5xME5GV0ZxaUVIVV8yTFFYeUxYNEh6bktXamlMaGI5UzlCaUVnYUE5WWpaQlZHWE5PZ2o4VVZDXzMwR25iaXdVcndxVU4tSUZXaV9faw?oc=5",
+   "published_utc": "2023-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP changes 3-year degree programme to 4-year UG honours",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdm5JckdRTldQRC0tNlpUeWdxd3FOSWVFODZnTUN6ZjhhNjM2d2E5bzQwNFBIYnNoZVRqNDNLbWRHRFd2eTJzYmN2Umxib2tpbGJRal9MUm5Ib0pjT3VRakdidXN6UVpYa2JaeTY4ZTZPZVU4R3czZGhoUXdkWFVDQzZXZGlDVlY0WG9LbXlnVTZHTFFUT1o1Y2JiRl9ybmZYSy1wMHVLNEpEa1FfS0HSAbMBQVVfeXFMT2dKRUNsblI5d2llNGk3V3lfQTctUUNVNmQ2TTdlWUJKT2V0U0hVU19qNkhpT3cwWnZfdmdya1FfNHhBbnl2clNxSjM1ZGhPaUxPZkNDOVlMWWRCLUNCakhsWGwtUWV6MWRKdzZta0xQaVg3ODB5ejdfVHprVzlOX1JvUUZ0YUtWbHBUMEwwblBQU1NDNU5qQXJjc0wxUlk3cW5iYkVPMERsNm5XVXdNdVhmbk0?oc=5",
+   "published_utc": "2023-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM to release Jagananna Vidya Deevena on Wednesday",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeTMxNE8yOG5PR1JodkswMjlYX3pnQ0pzd0RuaG5uWE1mVy1uSzlhNjNwdFUzR2lodUtoa1Z4WWEyemFadjhSWGgwSlhKUmdVRGNNR090SXNkWExCT244d3YzUzR1NG16dThEM3BfU1lmWTZLel9MeUZZM010QWUtUTFoUzVFWXU5VnBFQTBWWUhJMnJNbXJXZ2VLeXR6NmltZGphal9DZUxhQVlNeDk4cEFlcUVNSm9Oam9mbDI1cG1MY1RGdDk2WnBDWWlrTEhsSk5lRGxQbE9Wd9IB3wFBVV95cUxNOE5CSy1kRkR4OVZMc1BFek1RMW1YcklNLUNBZGZKM1RxNkhaZ1dCWjRKS3k0VERBcjFZalJVVVlqVmNtU1J0U2dCdGZhUmQzSExyRUp1SE9LQ2tKWnQ2ODZ0ZzlfZDRKelFIT3J0MUJCQ2RGR3FRaHRpNE1iamJ1U2FRSjRiTnFqbDYxZmV0bU5pQ0VfR3BTblB4ekZYeTJqM0hLYld0emlmcTdnMXNjaVhoRjc1MlJ0dzF6d3poRlBzNkpWZkkybHlLcExISUZUT1VjWEJHY1pZVEMyTGZF?oc=5",
+   "published_utc": "2023-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government hospitals to run OPDs in evening too",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXlFbGw2c08teHlFNGdYUmdkblUzV1VPQ0xxOXYyTzUybU1xWHRsZjIzRVViZDI4S2JqYmJnUVBJU3U4OHJXOWlpX19HdFpkclZ5MGJ4aERWaDNoOHdHLTMxeXhiUmdxTEllRjJrSlVNelAyeVE4enVMZTQ1aW9pNnY5NVprMDk1R3hVOWtHdkN1LVp0emNIZll0YlgxTFJua0IySm9ZUjRNOTUzTk16NUxXdnXSAboBQVVfeXFMTnd2bE5NWTdpQUdqakhaTUhRdGZQOGJPR2VsYnhwQUtNU191clUtQ2V4SXdzT2c4X2loLUQ4cloyVXZBc0xhYUpIcThQTTZnM3FkTW5mWnFpdU9MUU5UYjI0UUFHVGxxTmp3dXpuYzFQZGlfN3Y2dFpRZ1J5VjdKSEotOTJpT00yTVY0bFBoY280LWhuYXNJUnE5SEJVRllTbXFGZEhvZVdvaGpZWUtOeE8xTkZfYVk3RXFn?oc=5",
+   "published_utc": "2023-05-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

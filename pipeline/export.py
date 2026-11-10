@@ -28,7 +28,7 @@ COLUMNS = [
     ("category", "Kind of step taken. One value from the fixed list in pipeline/taxonomy.py."),
     ("stage", "How far along the step is: announced, signed, approved, launched, reversed or unspecified. Read from the headline."),
     ("sector", "Area of government concerned."),
-    ("gov_level", "state, local (district or city body) or judiciary (High Court)."),
+    ("gov_level", "state, local (district or city body), judiciary (High Court) or central (the central government acting in or for the state)."),
     ("source_name", "Publisher of the representative article."),
     ("source_url", "Link to the representative article."),
     ("n_outlets", "Number of distinct outlets that reported the event (after deduplication)."),

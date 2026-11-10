@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Expect a deepfakes boom as hackers master use of AI, ML",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbUZBeno5TTlKUUZXOVpCRmRybmFfZUZEcHFoTTRMNEdaa3AzcW9RR3VtSVJrNE9BVlBMRF9SM1JNdDJGdERXMmhWQmc3QXF0MGdXZTZpZGt2c1pMaWJQUXZCTnpVekRzcmZNbnRSdnB5UlNjeENuai1iRmlZTXdXWDdNcUNYZjVDTTlPclNOYVJYQ0dleDgwOFlKVDdQbDNBVmJRWGhQc0VCTWNfTWlDMktiTkpaMWlKb1Z2MnpaVVhxenZVcjF4OEhPYjBWcl9FeGF2V9IBzwFBVV95cUxQemJubDVpRVV6VS03M19VdnE3enBsMDhSRFZQeWtfWXVMdEZlRVlEWDBMTEU4R3o0OEk3YUZNR2FsSG5FRDcyYzZvTzVIWkVsSnVmM2cxRzNvMlVnejlMRlBGZmlVUHdUeWZtMEVhQ0hFbnRjSENNd2RsYnRxaW1ESnIycE5GM3RFcFZYUEl0VTZJVjJ6OW1zc0ZoYXA1MWlMR1ZLcU4zeWZsMTdKNnE4dHF6Z1pyUjlReU44UVlIUTI2UTBGMS1DOUVtcU4xOUk?oc=5",
+   "published_utc": "2023-12-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP: Indore MLA Ramesh Mendola Falls Prey To Deepfake; Morphed Photo Shows Him As New Home Minister",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUEFZdnlHX1JoODlCOTB0RFZOekNaTGs5djhJSDVnb3RsbkJVU1FNOUNJN0dMc0dVVzdqaV9aX2ZkSXVrYkZuT2NLV3hNMHN5MTg5R28xNkFUOERsaER5NTZoemdUMENpQTRMOVRoQTVBM2kwTGlTd0hxMk44Ul95TUt2MWhyRlJKaWlJNXVwVmp5NC1NeGNEWWxOMGxLelFLZWdJem1OMUxpOW81TWR4WnRjR3ZuXzNqM0ltZ3RYQm1mYWk5MTREY2p5b01XRVRo0gHWAUFVX3lxTE01dGx1Y1ZDWFpFVmJFYmNaNThMeV9sR0R1cC15YTdMT1plZHBHcXB3UGZqZWNCRE5SWW9RYjZiYlY5R1R5TXJFZTZNUkR0YXloalJCdkl0RXV4VnJOMjZCbXRUSHYzMXdIY0VEeDluUGJXLV9FUHY0S3VNSzN0WV92YlBENUVmNnV6OTcxbXJQVUZ0dm1RT0gtV0d0TkZiY2NPLTZESlFUX3UwU2xhRk9SYi1KYlF1MU1PdWtNNGpmQ2Y3T1hpWm1YUHZwYW43akF1R3E2SkE?oc=5",
+   "published_utc": "2023-12-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

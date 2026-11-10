@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Drought: Maharashtra government accused of playing politics with parched tehsils",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd25RWk9KVTFRWmV2R2ZRNVVVTXhkQndJMTVoeXpWTy0wZ29adW8xM29Lek5nbXVFeWNrNFZfX0tNaUREZWVoMFlsVVhEaEpybjlOR0dWSVZBa2ZWbm5DNzFhQnZTdHFuQVQ3RGROOWd6Smd3VXpCZFhBRUFJVTJ6blZDdms3SU9oQTlXN1pLcmFBNEFXWTd1TnRrajRKN0JqZC1PYUlxUEkzYU5nVF83Tkl0SlVnNXdoVE5sSmdGTWY4WHVueGVOX09sdW1wZ0pudUHSAdgBQVVfeXFMT3VSbjFobnNNeVFJQUdTZUVWMXc2LVpQWWgzLTlwUUw0QVhaYS0xQ0NYZFJ0WVh5VWE5Q1hKMkozNHhOa1RnR2VfUGlUcGt5TTkwNGhNTUk2NkZpajU5d25tTTdHUkpqREZtR2JUX1picEF0ZzdRS3NxLUR0QS1uRTlZQXNNbXBsZVBOQ1llUHJ3R0UyNTRjeGwta3pVQlJraFl0YmFqYm1rSTdrS0UySEpFUkV3Znp0RHBVRXRLQVFXX2V6aU5pdGQ2OHJ4bGEwNVVNclpvWFBn?oc=5",
+   "published_utc": "2023-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How AI is leading the way for Agritech in India",
+   "source_name": "Sify News",
+   "source_domain": "https://www.sify.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVVFjejBheHRDM1RFRG9YdHlHVEV0emNnRjlveUJfRzRiVl9vODQ4OUhYdWNpTHNBWGwtTm1EMFFqbk1rZ3JZOHl6U05fWVZZUTdkYlQ5LUlSV0RiOG9TLU5ySUh4YS1EN3R4MGpoVGFDbzFLVk0yMk4zeWsxYmgwMDl0aW9qdk9RV1E?oc=5",
+   "published_utc": "2023-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Arogya Vibhag Hall Ticket 2023 for Group C, D posts released at arogya.maharashtra.gov.in",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVXBUSzhGT3poRnlhX24zNGptNVEtZ0ZQT2NiQnlrclg4NklxUk80UG1mVVJOTGVkenozY1JldEUyTlpZVkFrY05HVkNSVFNNdzM4Umt1bEYxcUZvOG4xLTdRcXBkRUFoN1BOSVF2NlFNbExIUE5DandrX2x4eHRBU1lCeGV4R3llMldONHlMMGU1aE94RGZSdzhQVktTUnBTYWd0SlZzcF82bXJfbjZvVjJPeXZYMVRWeHIyTGota25mb2JZSEVabVpzdXhIYXVKNjFSTTJHZVloaVJmMkpoSHhoOF8wMzZJRzROdjRFNmJVWFpBNnJGYmNYWUxGbDloblBXOWk0bmTSAY4CQVVfeXFMT1BPamJXODktM1JjendQSXphNWl5cktDbjNXaUxwMG5Tdi1zYXdWbWJ1MlNFbTZKUTBjUU9mQVJGWmtBM2RIdFdPMEtXOVhKQnowYnJNbGpnSmhOaU5JZVJ4U05wWDFtc1pZVmM4RFpaWVo1RE1heU9JMzRsdEdSb3hXbjllT0pqX1Q2b2lkdTFveWlXZVVKYUNSeGZXemhOOWJoT2FWcGNHTHJVNFBZUVlGVzhocFo2QTBreGluMDJac3J4M2VBVW12bHhmQ3p0UzFUNk5OdXcxUWo3eVN6LXRKeTFGSDFGNVRza1Z6UDA3V0tUTXczM2NJV2lyTGs4N180TjRRcXhwdW9CUEJ3?oc=5",
+   "published_utc": "2023-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dr Dilip Mhaisekar Appointed As New Administrator Of Maharashtra Medical Council",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZnV1eE1NZlY0R1l4bVNiZ3BZOUctTlk3dzJWOHZwRHZTZ1RLZURVM3l6bzNKUHFwY1c4TmJXcDFqSE92a3pXQTc3cVdUejJRc0ZCcTJzRnpBYklRbnZrdlUwREhrUTh6V080OHlWUkhFUDJqYk1rS2VCRTRLOGZIdl9kUDJnT25RcDJ5QlBYd0JObUVxeE4xTElwdnBQNG1KUXRCMkRQenF2XzM2VndYV2poM1JXZUdqS0FsQ2pUSUlyZDNNVDhQa0ZuVlphM3RR0gHWAUFVX3lxTE10bTBXckdGVW03Sm1yUWpYbFBXeF9uLXdUM2pad0E3VXNoa3JOSzQ4QU5YM3MxMVNpQ0pPdl9HS1o0RTBsUVJlOExuX1ZlMzdvSlAwM1NHRjJYbVRoRllMWG84WllPRzlaY04yMjUzRXlqZjYwUGNRSk10U3N1OGZsb3gwWHlqRlNQMjd4OFBqZ2NZTkZ0TzBvamtYelhGZTItOUVzbUlfbHpKMVBPZ1JTcDg4QWlzU2s5VjU2Y1JZUmlLUnlrVGhqb1FKSFpDUTl3WHR0SFE?oc=5",
+   "published_utc": "2023-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra on edge as Maratha reservation protests turn violent",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWdCOFFpOWl5cVA0QnpCbkRWZDAtMEIyTzFXWldtZmhEVWc1ZW5veW5wMTZZekMxX3pEejVFbllnbGxpQ0JYUzRlX0gtOE9aTWJJem9wRVV5Qzh5VmJJU3Jsb25RYjhIVkppRlBkVjJCeUtkbF9ycDY0dmJQNkdyM0RXa1FBdXpIWEEydFA4UFFvVHlnQkJacnlfSkxxQldKeFRsV3hjbWItQdIBsAFBVV95cUxPekQ4QzgxenlYV3J4QUZXMnROS0lIeTh5V0x1ejdiRF9KVW03YlAxaFVvc3ZSZ1JGN1FUUGdDcVFsTVVRQ2FZX25wbTZyb01YSUlGTlZSSDRyWG03LWpIWmY2eVlYemtxTXJQdkVTOWpxZEdyT0o0Y253dUgxd3FQTks4ZW1zVXRDOU9mcUxSazVreTlaUjZaSnREUUt5LTFteFh1XzdwVUxGYnlBRG1ueQ?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "21 Indian-origin CEOs of billion dollar companies",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQODdhUnI1RmdqVWkweDEzR3ZjWVhyN2lkWkdXN0pTQVBOay1PbEpVWTM4QVptZVEtWnVFMlMxVEpjSGNHWm1JdTZvQmhwSWM3am9LT3RIR1JFZjhmbDhhTS1Ga05Mb09sZDJQYVdUOU5YdzdiUEU4NmtGSDlaSFRpVl9aY19vWkxMeS1JZHFTVWg4M1UwTzZrbG12elgwSVJBZU1UQ29GM2M4alFEdEF1WXdRQ1o2OFptdlgtMEVkZm4tSWZrQTA0LWFGZzlfOVliZ193QkJJZFFQZVl5VVBvLWV1R3o5Mnh6VnhrbWFCMFZpN0tRZTZLY2JSOTViX3RoMkRsbDRuQ0MwcmVLSE13dlB2b2tPQ3c?oc=5",
+   "published_utc": "2023-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi announces $25 million for DPI, says tech must be used in responsible manner",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRlJYWDdSLW1TOU05NmJTZzNQeUU2U2dELVlRRkxxbnJVdjJsXzNSYzZSaUxsLTRPMm1teE12ZTNQdVh0aUlDSlNwbFh6X1JCSlhfVTZnT2NNbmdaUnFad3FRckthcUxXSi1XMHJkOTZhbTVSRkR1Z295azNtTVZ2ZU5mQ1FjYzUtcWVkX3kzeWNBbkFSaWxmbzFJNk1tbTBZUkxIMWJacjU3Ui12aFNNVk85WElrZGktRDVjb1M5cHpIX1pfbkhCOWFQRlRINGRMVEpUcVR0Y3gzbHJoajZIelRFanVxZ9IB6wFBVV95cUxOeXZaQmxzejYtc2pqWl9JTHNGZ3ZpWXBSMlQ5Ni10MzJfR3R4WmhTY015QWFEZDVHOG1SNld5SDVIR2xWY0N2M0p4V0R5SzVFc3RYdkNnRzNXMTBwaGRfZkQ1WEVsLWoyZ3BTeU9GdTllOExVX2RLTmZ5TENqTXZBbWZrcnR6RzNTQ3EtNXVkWF81T1RiTEY3NjRRN041eGhNTnM4X3NNRDI5ZDhhYmktY1VRcGlyQWxWSGNkWHZMVEprOXp0Nkw0b2hhNFNSN25DdlRmRHVvamZGbk5kM3FjaU5QWVlpdnR6RnFB?oc=5",
+   "published_utc": "2023-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Supriya Sule urges Maharashtra govt to help farmers after unseasonal rains damage crops",
+   "source_name": "ChiniMandi",
+   "source_domain": "https://www.chinimandi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcW95MDJER3MwSjFPbmsxZHB0ZmdOem9kVEk3aEhNX2NvcHA4aXBsdmdhd3JiYTN3MHA5bnloUGxnNGdwa1hKbUh5U3NtbUppeEktRDR2RHJSMmdqdVVTbkg2OFR2bVJ6NDBSVmY4ZGd4SEFaQ3I4eEoxX0JVUG5adUtsZHFKZTNxQ182YVlvbDEyRGZMMENzVnlnQ0pqb1J0TXBEWVlOWEg0LW9HTHVHWGRDZ0xRUQ?oc=5",
+   "published_utc": "2023-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Transport bus stands in Maharashtra to see complete 360-degree makeover",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFFOdDBzOEo0RF9TTTljeUt0TkpwVkNDMEtFc3NBVkpPMUlId0M1ck9DNUlQcTBEaS0ydmNkWWQ4Yzh3cjlIT1BwbjR3cFU3dUo5ZjZnT2FieXZpQ19TSE1NVHpqZ2RoeXZYRm8wUzh0ZkdUdWt5MGVKX0pkLVlQazVDUGpid3hhY3BMa0VmclJpNEtXR0ZXVlM0T0lzbU43SE4xOVhKb0FGRXJ3OFhtSjU5X1dXTzc1?oc=5",
+   "published_utc": "2023-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt appoints Dr Indurani Jakhar as new municipal commissioner of KDMC",
+   "source_name": "Lokmat Times",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekVKTHpjWEpjZU9RcWo3NmVHRTk0TGt3OG1rUi14NnRKRmhUQ0stS1pNLW9IWnhOOUhZdXBwWW8zSEE5VlBScXBTY1R4dVduYndCNlJWQ3pldEFocTBDQUk2RnI5eXUtMFhEVXR6RzZUUS1HY1Z3cnVhMWhfelpnYjFBbk40STZzMm91ZDY0RVBRMGkzbHFGaXV4QVpabEktcDZvbkZyRmQ2RDJQRDlQejZIODZWeEJNZ3dXT3l30gHDAUFVX3lxTE81bllIdTdtS3RiUXZsNHFKLWxpMnN6UDJleGUwT2o3cEhiUmxIaERLWlNrc1pzTXNDMzByQUczQV9hendURDV5djl1XzlpcVlISDl6QWMzYmQxMmZlZmlrYzc3aC1ZUUZYRnE0U3dHaERaOWdqZUtydjk2VzJmMkdpTjVYRXdEODVTMURzZ29aNXJPSTJSZXVvcHNlcDNiQkxicXhzTWVNX0JwRFB4TGt0OXAxUUhUTW02YkFNdXRtaU9KMA?oc=5",
+   "published_utc": "2023-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

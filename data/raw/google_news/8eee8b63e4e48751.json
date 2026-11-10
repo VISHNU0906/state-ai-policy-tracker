@@ -1,0 +1,21 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Data centre industry to boost realty demand in Mumbai, Chennai, Delhi: Report",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmVFRXN1MGNwNzV2SlQzLVFYLU0xTlB5VWg5LXptdnNSU0htU1lhallEWmlpWXEtVkFCY3VuV1Z6WVh4U1pIaW13YmZGT1N0M2x2ME1vNHQySDZYeDFhS1R0eF9SOVpnclpVZmlHNEVieVVKbDlMeDlwV3V3OW5abXJwaFdtV0tieE1KdW03ZFhDUTdCWE91TUxXRzhyaVpRazlSb1ZZc0xkdXEtaTlOcmJ1T2oyQjBsR1RrcU1IYlYtdmFtLUI1U3lZdGFGNGFCSlYtQmRhZ1VQenFXRGN6X2k3MDI0SlRpLWfSAeQBQVVfeXFMUGlXUU9uT2dvT1JzN3FJUnBWa2o1eE51SURiVWJuYVh6bVhVZ0xBbWp2NE13QXNjaXBmQWpTU0tuWlBsS3ZXckQzS2FldUFqdEJZdUY3T3REM3VISkM1UGhkeF9YMnpiRHZGTHpzZDlVZktpRXpIRl8tdi1qd1BiQ25ZcUMyUG4xR252SG40Qm81REJwZnYySUFNekhvaDFfR0JmcUZHZGY0dlA3WG5laTdZUEVBZWZYR0NJNHc0MTF4YlhYN1I3VFc1bVdyOC01TVpHaWlCTEk5WkdNYUtENXlGU3lO?oc=5",
+   "published_utc": "2023-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Nagpur woman threatens to strip outside nightclub, creates ruckus after being denied entry; video",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdjdYazBaTElscUJyUFdwbVhTR05ORm5WbmEzeFZMUTF4b1B0UW4ydFVvVHpPem9sOVdaSlR4Z1Zna1Frbkw0Vm5WREdLbDA0V1NKTHBSekZwY2lBcnlubTF6RGpDWmxqcHk4LUQ3MXc5YWdvSlJpVmptaVRzekwtUmlSa0FqRUp2aEExd0Y4d2FERkowVlFCZHlOdHdCajV2a21oVlNBUGZFZmRqOWF0OFF1VUw1SWRjejJENVI0eU1QRFJpS0o4OTJBUjI0RUNBMTU0dFk3SFVmb1hOUkl4NkJEZ3FNc21qbWt4WlBn0gHzAUFVX3lxTE0tTTVIOHFadDdHaEJXYmxVV2U3UV9YSm4zSHNrQWlHV3Y5UVNkSUxyZjhXNzMyMlNyTHdoOTVGdUw2ZUZhLTJRN29qLXMyMEVyQ2RLSDFYZlRPd0tQQV9pMS1idkJJc1pWWjJpZXpkNTJyWXg2UU55XzNtMjZ6a3QxazQ0akpMVFBmTFVVc3htYmFjT2Uwa2lSXzhGR25HN2RDd3Mtc094ay1GOE5tVXc2S2hOcUFWTWtLSl82WUFqXzJxVXB0NXBXQnNOV1o0OVFCRlB3QUY4am9Sc0prS2xGYVlaZ01UT09xX2hjTG5iV0tyNA?oc=5",
+   "published_utc": "2023-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

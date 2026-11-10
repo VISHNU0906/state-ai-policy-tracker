@@ -1,0 +1,29 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "India's Data Centre Boom Opens Up A Fresh Segment For Green Developers",
+   "source_name": "Saur Energy",
+   "source_domain": "https://www.saurenergy.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXVMeDBRNWZqalJkSXJnZUFVVDc5Y0ZBSUNRM1Y0c01VWU9YcXN4UlZ5UTYtTGdIaDREM0VXand2SV94dHdWaUhGQnV5ZHZXdy02OTNiM1FIeXZ4UzgtYmZfM3ZORmRmajNGNXZlTGpaVUdlaXhqTUVWZnpIaS1XWFQ5OHV4LVFCU1RQZ1NwYWItMUo2WWdXbmt5ZHlKaVdYcUFEMUZrb2lOdUl4VF9TTTVxcFdJaE92LUE?oc=5",
+   "published_utc": "2024-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government to bring Digital India Bill to check deepfake content: Sources",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGk1UzJaaEZEREZjQlZYX2xaZm9LNmY0bnplRFpMc0VKLUs5cl9pMDNuQXNFTGpLWHZHY3VsRzVMMm9XR3dmeF9mQzlsaXlJREtrOFdyRU1GSmp0ODhIaGJGNkdtTWJ6VWZCME11ZjBfTjFvMEQ5YVpvWllkVzh0S1VZdEJ3b3lfNVJ1SWFqRnpTMmFHX0RKVGdtdzQzWDVHbU1VNlI4VUZQMkw2T3IwSlh5X0lxLTd6ZmptNUdtd3pka3lWY1lLb29uNl9YODdVY3RFWNIB2gFBVV95cUxPcHpSazhtcV8yNEZRU0c1MS12T3VWclZkVkpOeDZsazZTQW9jR0VqTXQ3bndRTHR2dmp5MlNLYmxMRTZ4YlVQLVJ6Rl9ZUjRFZ09uOURhLUdMNGZjN1dlTTMzcWl1YURBY2NzQkQ3a3FZZU1ySTJqVnpYR0s3eUM4QjBiaVVlR1lRN25wOGVCNnowMWw5aldoQWQ1Wng1akozRFRsSUdVbk95MHEteVFMZG5zdXVaTERMTTIzWU5hQ3NGQ0dVTnNvTXhRcFZHVzQ5Q0otOW94OUxyUQ?oc=5",
+   "published_utc": "2024-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "A Small Army Combating a Flood of Deepfakes in India’s Election (Published 2024)",
+   "source_name": "The New York Times",
+   "source_domain": "https://www.nytimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOG9yM0RhVGJxVjRqU0JObEotbk1CWFdUMUh4N05UWHRWa2dLR0hTTDdFbWNBUmZYcmZjRzZFcGNWSjY0aHR2V1A5dFZJVU1SdkRVRmdiTjNPWjROOGZaZHNxMnBhREFjVmxhN2ZQVTh3aDRBR0RyN3pvUFFaa2dUMA?oc=5",
+   "published_utc": "2024-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

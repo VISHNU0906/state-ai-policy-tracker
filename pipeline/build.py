@@ -122,7 +122,7 @@ def main(argv=None):
         if a["keep"] and not day:
             reason = "no_date"   # cannot be placed on a timeline or deduplicated; listed, not hidden
         row = {**it, "date": day, "date_precision": precision, "state": a["state"], "state_basis": a["state_basis"],
-               "confidence": a["confidence"], "reason": reason}
+               "confidence": a["confidence"], "reason": reason, "central": a["central"]}
         (kept if reason == "kept" else rejected).append(row)
     funnel["passed_relevance"] = len(kept)
 
@@ -176,7 +176,7 @@ def main(argv=None):
             "category": taxonomy.categorise(rep["title"], desc),
             "stage": taxonomy.stage(rep["title"]),
             "sector": taxonomy.sector(rep["title"], desc),
-            "gov_level": taxonomy.gov_level(rep["title"]),
+            "gov_level": "central" if rep.get("central") else taxonomy.gov_level(rep["title"]),
             "source_name": rep["source_name"],
             "source_url": page.get("url") or rep.get("url") or rep.get("google_link", ""),
             "n_outlets": len(outlets),
@@ -184,7 +184,9 @@ def main(argv=None):
             "confidence": "high" if any(r["confidence"] == "high" for r in group) else "medium",
             "summary_basis": basis,
             # Every record's headline was read once in the review pass that produced overrides.csv.
-            "review_status": "reviewed" if overrides and seed["date"] >= config.REVIEWED_FROM.isoformat() else "auto",
+            # Central-government records were added after the review and have not been read.
+            "review_status": "reviewed" if overrides and seed["date"] >= config.REVIEWED_FROM.isoformat()
+                             and not rep.get("central") else "auto",
             "_body": page.get("body_lead", ""),
             "_members": [{"source_name": r["source_name"], "title": r["title"], "date": r["date"],
                           "link": r.get("url") or r.get("google_link", ""), "origin": r["origin"],

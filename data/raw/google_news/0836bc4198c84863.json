@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Mumbai Schools To Reopen On Monday, Same For Rest of Maharashtra",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXB5ZFp2NjF3ajhEdWxraklSdzFUVVA3WGk5V0phSUUyaUN5Y0ZyVVZJc1pfUEVRWVExWkhyUDM2ak1qd2ZTZDc4cnlOb1hsLWJidkcyX1RTdEs5MHpDM19GTEhNWGlEQ1U4cTE0OE84LUFTdFlicEVNVDlSTHU0bjZkelNDV2Ftcm1EY0tfd05qc1ZPNF9TMkVjem1aNGlSX2VleTVFaU1YOHlxbS0yZEh0dUZHX2s?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra schools reopen, govt hopes students will enjoy being back to classrooms",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnduT0NjSkpHQWt5NDlITTh0c0cxMmw0NWItTHNSbWlVaW1jYnBhOXhaZkI4dlhXQzcxOGFyX2pnVHVMV29jWGZrSHVCbWpfZlJ2cUxhVXhmb3hKbExPWTNlbDdzWVdjdGt6dE56Nl81c3MzSWFyckFyU2tTN19sQWI3TzU1THdzNHVzZnBnYUZ1NkJYSVgzeGEwSFJiUTlMc3lZal8zRWxPZ0w5RWhFdTNOa2l6OHViM0hBcWxpRdIBxAFBVV95cUxNVS1VR0RDR25EbERTUFFIbnp2V21ucklRWFMzRHEwcFU4eUVjeFZtUTFRRWoyWUdRZFdiU2ljRGFTM0xQd2xWR05walRwcVk3UVFaUmg2WkE4LU11N20tYU5zYU9NOVFpd1I0TjVsdVh1eTctRDZPWDBEZjRLQk0yWmNBQ3Z2dFJiT1o5U2dyaDFlTjRlSExNc3V5ek10bi04S05maWFEWk1XdlpndTRhRW16cWpoQmpUOEV3eVh6QndmanJE?oc=5",
+   "published_utc": "2022-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "COVID-19: Maharashtra government allows reopening of schools from January 24",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnpxaUhiY0NLX2xRTENhRGIydWdrb0stVVRHdzNiZk45aW5hRTNxaVZmeVJIQXN6LXpmTjAtWmVGNHFyRW5xdTRMZGNHX3VOeFlyY3BjQTZjUE1VV2ZkVHlpNGdWb2lIOGUzeGVpZW4xbngzT0FQOFd0SDNQUG5Gb3pTQ0V4Q05lN1J6VmlXdkp0b1Ryc21iR0ZXY1NoMFZGclpndlR3YWZkRzk3bnZiWFU5c0FBdDJPbFVVbVBVZV9MSGZCSUJUVEw1ZElySlBrY3RpZ3hB0gHbAUFVX3lxTFBVQUN5Z2YxdmhjbEtyUk1zZklFWFJFSHBsYm55d2FlSHRPOUJtZ3FEc2dSSER5ejlXR0ZXN2NUVEVvRkdyMVZiSTZsVzBlNlRIVU9xalQ4dXN5RXZpdUtLam1pckdEVjNaZG1Ea0wxZkpzVDRvcGRRajFBc1RoNVJMOUVfV0w0cTBnY3lwSmNZbE1NZDFpZXVZWnRoNFZEQmJfMzBHT1BLbldJcXhwWHdqSHdNLThOX0pnZ3ZDWEtJclo2cTRaV2k5NHpzdG1JZGlKTDdHRXBqaDR6dw?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister Jitendra Singh launches AI driven start-up by IIT alumni for water purification",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV0JtWVlVa0Vuc053aDIzTlN2d3RwMFdMeFVkZ1ZxT09sVE1DVzJDZkxfV0xndUN2NGNXX0ZBRzJHbV9jY3VxTDFXTkludklEWHFHQjFfVUVBWXpBUzFNdFMwM3NhNnZHTWJIVHY4eGFEUkV2UlE5LWZMMVFUSzNRLVpSQTZXYjJXUV9vVWQwOXZuQ3hldllNTTZCSU81d2lnMVBGZFdBNEo3ZldweGJ0S0U2d3VNUEFfaENVd2lxUFZVTDlzVm9IV01DM19iSzFON2ZiRmdCdllINmVWY2hCbW5wZmhUdkZNR3NPNTBYQjhiNnVTZ0pvam1vVVRsUmN0RFdoR9IB_wFBVV95cUxQcERPcXNWaHhSX0tGeG52VFBNa3JNMXJsRjNGWjVESHBwRDVCSUREWmhMZjhqZ1RmSXdzc19QcWF4VVUwWHBFTl9XUHV3dkRzeTBYcDBXOVRqUWxkODcwRlVZNGZyal80cEdHRVdUdm51N05kUzhvY21ZdU1yRUZncWFLOURtX1VjT2tTTWtUX055aWZWWk5Pd1hjQjhuanNqTUdfV215Q3padks3MTY2UDlRYlFDMktjbWh5ckRqUkxpMmhjTlAyMkxlV28tUjZKRlowWkNsSVJBNkpDNlRRdzB2UXFTVFBXWWh5TmhJT0kyeHlXZjlUaWlHV2J6Mlk?oc=5",
+   "published_utc": "2022-01-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: Maharashtra TET scam, malpractices in other recruitment exams and what next",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0RxY1YtSk5JRjBhYlEtdHRXNmJBanJhLTlrTWhoTmVLN095bU40SVVGeFdZOHUwRUVxSWVuQ0VlT1B2d25Vb1lkRUNnM1EyMkZPQUJSa1VzNVdadHJhYmRoLTI2dzUzS25MSlU2QUQ1X2tkVk5semlGSmhtVnp4a0IxLUhPUGIzMTdLaTdYYndONGlGSWQ2SUFWYlZUVE9paThfM2c5MNIBrgFBVV95cUxPb0NRX19SLV9Ta25INlM0cFktNDdieEVKLWhwX1RUcXozamRYVlpUQW5LMUViQ2JsR1ktXzNPUGh0VzU3bk9aS1otRTlNckM2VVV5RjFDX3BsVkRaNDZ2dHlCb0ZDeF9LS3ktV3VpWFhlYmtkemJWSXhJcnlJSHREM3BRQUQtMzVxT3ozcFp2NGNQc0gyMFdINDc2RFhqSDkwa25uLVpEWXFmM1lUcUE?oc=5",
+   "published_utc": "2022-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra health minister inaugurates BSV R&D centre at Airoli",
+   "source_name": "Express Pharma",
+   "source_domain": "https://www.expresspharma.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGViem9FWE9jWGRTeGdrZ1hhUTlTbzNnWlJBV2J5WXp3MkR2a3pEYTlUT3AyTDl0ZDlGUzZxZ3dMcldFcEZsZHdCWlBPVTE2aVNJZ3c3ai1ab090bmpIa2R3SW95eVIycXl5eENsQnY2YWUyZVRhM2MyV0NVYmh1d3Q0VWdraXJKZ1JNQVdoMGl3aTlyTUZuTg?oc=5",
+   "published_utc": "2022-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gadchiroli Files: Maharashtra police start comic strip to counter Naxal propaganda",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0NIUW1FZmd6TVBjMHRTY0p4SU1QdkppX3M3WW1xS1ZwNWxDUGNMMTFWZ2xzMTdjdk5IdGQ4Z1ZEckF1MGJ1RVBtY05TdWs4b2tSMHhyNFpFQU4yQ1YyQ1Z3a1RrTFZnN2dpOFhaYjNFa2s3czF0NFFIVE5zeWg2Xy1kZzh3alNWazIyaXdJYzl4aEFTYkt4dVd6akRuWVo4ZjRGTDkxaWFzdmxObEVGMDV5bGRnNk5Tb182Tk5KVVh4dVhJYlE?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre Should..: Maharashtra Minister On Covid Testing Rules For Arrivals",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUjJXWlZNaDkxM3pfY3hCS3RETWdEVWh6VDJGTktMWUVMNnozaXlWaFJyVmdlM21EZmRMdzVqSVJFX1ZiNDZaQjFlZUhZVUVPVWZRTUF5RUt4RDk5SDByMzZnb01XUEtraklncjdwakFxdFI1ZVV3NUJiSWJUYW91ZTc5LUk1TWhSbC1PUk8tTXAxWnN5a0tubnlTWkw0WHpJUWNxMGdDVDRyZG83b0xUaEV2UHVQcktSQ2N3Y2xLSkpGN0NXeGI3X0FzQXdhYVNxNE1kV3p5N2xiU0lZTnk4SjRueV9acFNoNDdwQVdPRzNNZ0ZraVhlNEZYekFHZGJBODFXNE1ObFJZa04yNmtEU2J3?oc=5",
+   "published_utc": "2022-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata takes off Air India on a new private sector journey after Centre completes 100% share transfers in AI",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWnlYWS1BeU9USHg4WnZkSm9IeXdMNVBXZUd5UVhmTm9kd3phem5SZGZ6R3hnYldPTUtXdmFsZEt1cnhJVWpFaVJQY1Z6X3JuVm4zNGptUmc0c1Z2ejJxWGJrYmczaUN0SmVzYmlaeTZjUWdSUWRUMTZNT2s5SWQ5WTk5bWloc1phVlBma2hpajJvSzZQRTNZRm9XNjh6Q0pUN25ITnFJakJtLXdsdTVXSy1ZVGExOUgtUFdaSnNCdTIwV3F6U3dQQ3pyVXo0WHBHUUNjZXNZZ19adGZBNkdwWkZGZkwxb0pQanhzajdoZk92c09yS2pjQ0g5b0kwZmwycHNFTXN3OW1sQdIBjgJBVV95cUxPMTh6SktzRmZQcFVjaXZzQ3M5V2toMGFaOVR1cDZLS3YwVHhlVHprRmNzUmdra3FsMUV6RXBlV2NQQnhvNzJuX1ZtVjFxaDFIRkQxR0VPTDlLQmZhOGw2SGU0SHpael92Zk9ZNnp2R0ZXRGNFVXdCV2luaGJBRzBvSE1wQW04OElTeEtSM3BUZnhmRXJkN2RpVVJnUFpKbnZ3UEd5bURqM1YzZGdTTHprc0FnMDIycU05aU5ZOUZaMjB4T0toSDBBMHdPQmdLZW1wb2ZEN0p1T2d2TGpMZllsdF80NV9Ycml6THFmS0c2UjR6MV8zVkZvZjMtMlNEV3BnM0ZWQ3VkTDJEcVE4aEE?oc=5",
+   "published_utc": "2022-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra NEET Counselling 2021: Provisional Merit List For Round 1 Out",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmI0Ymh3bmhETnJralhUaXFWdWRnVEJDYTh4ZDJlRjlTcFh6Y2wtS3FtT3Y2UE1jZWJQMmxMc0VEdkNuSm1hNGlaaFpzbzVmWWs0M0lVdUpTQWFKR21kZ3VQV0xHcktkX2JHQ19COGlNMFF0dDdwV0ZVdkExT0JVdGNGNy03UDVpakVsT1pJdUF1cjFzWE5FeHNFOElURjdaUURFYlEzUkhEcV9BTl9kVA?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

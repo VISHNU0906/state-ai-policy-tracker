@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "The Era of AI-Generated Election Campaigning is Underway in India",
+   "source_name": "Tech Policy Press",
+   "source_domain": "https://techpolicy.press",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN1RaN2xobVhPNWNPbGV1dGxiNFpUVjlNeC1jbXpaT25ib0NsMUJlU3lOVko0RkNDZ1pmdkdKRzBIT29BVTFaZTBEYXJEcXpnNWE4WjRWLXdfRWdtSFp6TGRPM0lYbjJzV05jSUJhcVE3UHVlUkcwdnJCUVBnd0RUbVc0TVhXVmhjSTVJZDU1QzN6WHc?oc=5",
+   "published_utc": "2024-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Waaree Energies to supply 445 MW bifacial solar modules for Bikaner project",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnFBU3RCVHNDaEdWTmpnanNmUjVmZWdtX0l6Q0hfcVh4MEpvT05RQkRLLWpCWG43RzJtaGF0VGRVTU9lX2U4VkwxV0sxU3ZXYi1oejRHRWVWVzN6czZCTW5raTEtcXQ2eHNPejRIaDJWWmdwQ2Y1MlpVSjJKbm1HcnBSNDU4ZlFxVUgyUVhaeVZ2X0JJWHVWTEZDcXRNSnVSNVZ3MjZjbU4zSGZOcEFYMUdXVWt1QQ?oc=5",
+   "published_utc": "2024-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

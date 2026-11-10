@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Tamil Nadu, Microsoft bring AI education to 100 govt schools",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzhPbUZJcGd4RzdxRE10dncxRkpCOFdVQUFBUDBvNXJlajNsZVJmY3BHU1RVU0xfcDNza1RidWV3T3dMRnFocENoVzdZbnhDcmZYYnhyT0x0T1g5TXAxR1A4R0xyZzliaE1qdEtXZ1oyb1lMT0FZbDVhbjYtaWNybEtFdUdDb3B4SVdPTWRPUVdqRkQtckQ5RzBPLWhSUHVYdF9PT0hHaGV3cEdiaFF2ZWVxZ1dackI5aVRBMXpsaDRTMF9BU251d3E0ekE1c3N00gHeAUFVX3lxTE9fRDRSNDhTSFRjaTZVZUFJcWlxc01zX2loVTQxeXJFVGNRb19kTGVzSWhJdnoxeTZoaGwzaFkwdVNLbGlMdXRQd3F6SzIzUUswNU1vZ1B3cFpWUDdjd21TNVFvUE02ZzhYanFaVlhUWFVqUGxiSW9DTDVfYmktdGd3NlVZRjM3SVE5NUQ3RXZqeFJxcjhyNHJZQVl5b19xd2hUT3R5VTM5cWlyT0pURXp3Nm5JMFdmZkw3azJUUVptUDNMNlBaWUdaTDZndlNQZC1QRkhKWXplN3B1eC1MUQ?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In a first, T.N. schools to get Technology Education and Learning Support programme for AI training",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1VkR2hmamcydE1nUy1NMHRZYjhMd2JuSEVobVViMVJhdmkxazdSY0VPbFdVd2JudThqbjE1YlpBMzFQUzdFMjl4TkJ2enpVMVBsTExFdlo1M1dGQVEwRVhSc00zYi10SUFNZUNHWVpZb1lsYWc3UW42ZXNna2xWS2thdExMY3BhUExvNXVRWGd0VmM3Wnp4YjFRMVQzeE5HSy03TXFId2NhV19ST1lsZjFuTlk5YlFCY3d2ckZhRjYwRmZhOTQ3UGowbE4ydjNfUVNQeHduMzBQNmtUVk9TV0k5RHNVbF9zS1JNRUg4eTRkQllCMVhKZ19R0gGAAkFVX3lxTE9uSUljZ3dSY25pVVowRFh3MXJSZEpoZV9qV09nR0RPTzYwdlNZbUdNc2p5cGZqaXJ5QkhtQzhzMXRnTlkwczducTFwV2Q2WnRxaERqVm5nWUZ5Y3pEdHdSWXRnRzNqZXo1eTZGbVpHS3ZEWXh2S1U2Y3BwQ3FBalVvTVZxNWxpY3BnY3pfMDQyejNadmJyVEk0cGRQVFZtWkVaeW9GRGJNZXpiQTJhWm5kZlM1SzgxUld1YXI2VkNGVDNHd2YySmc3LVpQdWVXWnByWmxJdl9RMHNwUjNXZUlreHZwd0p1LTJEWWhBemVtcDlzRXNZbDh6cGt6MGpJRmc?oc=5",
+   "published_utc": "2024-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six interesting AI startups in Tamil Nadu",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMb0QxT3BqY0hzR2NOS0dENUU0UFJmRkZILTlVTFVERTJUZFREYm1nVTZwYTdfbGJvZExsMXh0dEYtLW9tZ3ZhbjdJQ05Zc3hlRmFjYk1oRW8wc3ZPcG4wNG1fSzdTMUhHdFJKWThlY1ZKZ0xWWmFYZXVoUFU?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN school education department partners with Microsoft to expand AI-based education",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVFRY0ZadUZIanVCdmFtTlU5OFpSTEtudno4ZnlLdmlEdDkyaFNSWmtyTUdqUHJlUTZfWFZ5SjlVSUdidm02Zy1BRENUdTJIeTI3WGNOQTNBcWRSNXhVY2FQNnF6cklUNl9feDY3T1dNZk1qN3BWVzM4NFRTQTFydHVJWWZPdDRKZ0tMcmk2Y2RsN2gyV0NzZGFoU2twM0tZR1Yza1dQSmdqb2t1RGItdlNpQk1OWTBsaDhUdW9LWGFFeHk0NmZrSEt3LUdQRTBRdWtIZ195QjhmTE9JajdIbjhTTFN4YUpPZVhYa19XVEx5d9IB9wFBVV95cUxOMTkwdG1DdlBQRWd2Tm0taHZYUzFhdlNXRllIUGM5RGFHcm53ZWFGNDl6N0xTdkpsTUxsckVrSzlMRkxYOXFtVTVQa0tXdkpEZDV6ZFVncno1VE9XMjhzWVdvNjVUT29DV2xmejFNbURfazNJVDRhNU1rZG9icnNmdGlldmFITGlCaUM3SXJDS1lIdE9sRERNd2M0ZlRiT09IUnBBOFBTMVd6b0NiWjhhYlh4YWpjZ3VzNWQ1RzNCd2tDRDRlbkVrZFVKMlVNTEpWd3psazBIUG9xaXVKc0lHby1jbjRvMW9yUzJYRDBHaDFpM1NEZDhJ?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Schools Introduce TEALS Program For AI Training",
+   "source_name": "Outlook India",
+   "source_domain": "https://www.outlookindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdEpUYy1yb1FfWGt4TFFDNmhrdG5SZ3JtdWk5eGEtMV9aWTNSajhnZzNWMW5tZXpTNGthTGg4alhXZEcyN0VIWWJaOFRLZFVQeGFBS0hQakFTT0hxYU9GUEEyRmlsNU9MamJTZ3FuU0ZyalczekJQS3dtZGpvZWVTaDVRZW5zSUFuSWxoTmg1clM2aTl1ZnBvRnNBNGtfX3EwWWRfa3dEYVBoUnoz0gG6AUFVX3lxTE12TFYzVk9WSmhETkNFLTlyT1dqV1pQSVQ3QXNmY2VuYy00RXYyRlhfLWxyRmRfejUzM0pwU2VJN3VtbHFYWUc5VnloNndBcFRQMzQxc0s4VmN4c2pnbGJjZElyTHl6dnBvdXpmNGxyYzBIZmp6TjJlbmplN25NdmhUZGVSY0dqTVJ0OVROX3d2cUoteWp6Tk9JXzBxeEhJSngyMlBPbFMzbGdVam1lMWlEN0FhWEpIQkI0Zw?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Case Against Tamil Nadu BJP Chief Annamalai For 'Promoting Enmity'",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWl5QVJjeVVqZUZ1d2VMTnJxYWYxekYyRFVkOU1QNkV3eWZacWpEQUk4eEpZMHhLN1BCbTIyN1ZrWVpDQ3lDbjFZY2RLejNGVHZhRmY2cWY2VkE4OTNXVm14N243aEt5V20yaEpBV0tCbjJCZU5HN1k3WlBpNW83bGtNSlIwZTNNMWZ5MFdHRERadDNLNjlZYXBPR1NoZS1pWVd4cVB3Y9IBrwFBVV95cUxPbnVaUlFqbnJnWFo4ZkxrZktRbmFaRWMyTk4zeHgzU19teXIzZjBvNVpESlpWcHZDelI3bkhhNFRXUUNiMTBqSG1yUG1QeUhSSjhLMGtSY3RuQXZQbWYtWjNBeFY2ejA3b09xby1pYXpPcV9Qd0wxSVpMb1RGN3RNT2hmTEFzM2o2V0h3cVRWblFSRjFCQ0RaUVlGck1uM3VJM2M0b3dYbG0yd2JneHF3?oc=5",
+   "published_utc": "2024-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu tops in enrollment ratio for higher education among States",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdjhPeDJzNTVnV29sT0NXOE9YMW9OVFA1UEU3aHRubUZ4X2hHaFdHbE1ncDZWS29Xek96ZzJXVG9DcEt3RVR3VE1WVEtkTUVEWWNVTWYxYklWVVpvMklQNjFkMzl3T3RMTUhSRGl4dWJrcmxBZk9xQTZEY0lvc3p5LWRXbFBnX2dwa0pfU0pkdVpzZkh4dEVvVzBxMndTSEhDMWpxd19MVWpWbGpWS184c3JsRmFpeEYwUnczVXFRTWxvamVwMmlDOExlQWtmcHFOZHBoQ1YzdlMyV0xBNHZ6MEFkcVnSAesBQVVfeXFMTnMzS0d0ejVMbEphM3dzWHVwOTU2ZWt3ZC1BdHBtVGRRX2tXS2Z0RzdiTm5MSlNkSy1pYmNDTGZhMVJmMDhXcWgzb3RUUURTSzFCaDB0eENWbXQ4SEQ1Wk5JVXRSVlEwcmw1UGVOMnA3ZnczN3lrXzNvTG1iYzc1UkdWYi1nNDY1ZlRXN2pfRFVIeGo0SHNUMFJJbGQtWGFjVFlKSGlMbnZHRkV0NWhKMkNPNjNYajFod1VGZl9LaXJudERoeTI3WnY2ZGpFMDYtUkVsV2hHazZaZE1XVHV0ZmMwak5TOGJwcXpYYw?oc=5",
+   "published_utc": "2024-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Madras alumnus donates ₹110 crore to set up a school for data science and AI",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdl9COTBfNmExaHF3WDYwR2tOcUtLVGlTZ2ZYQUdKOGVGS29VTW1aWk9aQ1pzekVvQmhlRE1jYlZOaTBDSnFiYkJIUExzTGxyZVlGUktNUlVQZHhEejc2YUQtT2poNC1YWjBmNE9pUTA3bzlYdjlha01sVWJkVVhKTU5sQ0pLZi1oOTF6NmpjVjBvMkc3VVAtWUYzUzdYMHFFMklhRnFDUzQwNGs3MkRBOWQ4Wk1XQlBRNlpZa29SaWk3SnJ0dFM1R1RDeWZScWl2MGxJYWsyUVdOZHVGR1BvbzBmTdIB6gFBVV95cUxPUDRNMEhUVGZNbEQ2cU0zLUM5N0tieXNpNkk2elQ1bVVTMkNFZl9qZjdLMHRhSkxhdkpMN1hRSzNzOUNaZ3JnTnlXdXptT19iQW1xMllyR3VSeTVWTVpCOGZQT2M5Y05ERG9nWEZFdUJFUGpFNUlQeUtpek43ZEp0RVlyZjlfcTllWWkybkZSX0t5elhPaVpKd1ZaMjY5a3dfX0RmUENVZlp2eFlFSlNPdWN2S0NZYXlKSktnTzFGOHpTd1o3MVBidzlPZEJmUUpHcWlsNk5QbkVtU21Ec1FPVUJzN1BTRDZXb3c?oc=5",
+   "published_utc": "2024-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JSW Group to double investments in Tamil Nadu: Chairman Sajjan Jindal",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSHdOY1JrTllIcFA3ckw0R0pyX1ZqX0E5LUpqT1FKY1E0eDBFbVQwbXBBakxhUXFvcGczRE5rS3pKekRCaWx5bWJfeWw1N2ZhM2FPUkZTVXNiYW9FdjVDMk40QTJ1bW5pUnZQMkpZdjRlVTVQVnlZT19vYUNSLThEWkNTcmRCX2J2QXJYdlk0dnZ3elE5N2dQSVVkRF84YjVneklnS0J1eEhrdkZ5dDdaRUNrUHE3eXcwa3pkck9WV0NOTHkxU2gtOXFvdHUxaG1XVlJpcWl30gHaAUFVX3lxTE03WjdycEdsRDNkUDV4QXNWOU56WnlqdFFMRWlmaFk1b1U1ZEp3cmtWamx5TENWUFRtNF9UNkxQRFNMWXVlOXZsN1dVczB5ODJCWXJkeDdBMkFHdWVFSXF3cWFHZnBuMEY4RlJnSUZhUHJSS1JvY0MtR2ptNVdxcmVuM3FsbkxiNF9PUDk2RDA4V0ZNUFVIZEtDN2RqR3JPa1B0WTFJTXRCaXQ2QmZ4Nk1LZ0ozSmtESkxyY09UUjhhT0ExQmVYbEpyZkVQR2M0ZDFtdkVCdDlNS2FR?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu journalist chased down and brutally attacked even after calling police for help",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPcEVVdnJQT2xlLUFRZ3U0Vy1tTUNuZWJXc0RVcGVXQ2Z3b1BPUXlwZzJZRGhLVHphRm1OanU2Z3Uwal94Y3NNdFJTTl90d2huTGhEZk8zSGx0Z1d6aFVHZWRYcVp4Q3k0Y1VXOXRGLXBoeElhWEJodVE3RFUwQ01GdTZsV0pPcjBrN0ExekF3dDFfZVFBX0NNRXpvWmtrMWRtbjF1VUJXV3N0VHlvbFFFQXE2cDV2YTlXQmZadDZaLVd2RnVQZm9Zb29IUUo4ZzNPVlg5dXVhZ1NTNUc5ajdvLWpZeTlDX2tEOGRqVjJMbS10UTlhMEhXemoyTkdQanEwRENlWUx2cDBCZWJiT0E2TEk3ZFp1alNadmFJeTJoZGtkb0JyMWfSAawCQVVfeXFMUGI2Wl9CTjZyajFwZmRfbTJudThPaFpUbGl3ZlZHbVRsRURqdHJzWF9nZ0twYjhkdlVjck5Da29iMnpnUzZoWWNFbVNWSVNqR2J2VllIRFRURTBUSm9wOEw4dFBkVEZ1TEwzVkJNTEJJQlBrUGJtbzZJZHc5bUR0UXV6ejlsYnpCQkFvN051S213am9fRmhObG9aY1I4SWZzajc1RGpCVWFzUVVlYmFsQmtkZW8zNXJBY01mVlprRi1jeGZmTnQxZnUweW1oTWZNUlhoY2VYcmxFTmtkUDJPMTBwUmVKMEdMbVM2aks5eUhRR2E4dEZqUDk5RlRKd1p3M0xXMlVJcXN3RDlGWnpiM2FLazhBcGY5MUlTRmFXQ3JqSjh0VThod205dnJC?oc=5",
+   "published_utc": "2024-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

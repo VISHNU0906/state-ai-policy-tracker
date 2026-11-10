@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Use of Artificial Intelligence in court processes needs to be evaluated now: Justice DY Chandrachud",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSjVLYVNWVVRwWTAySVhhTDdBUWVjUmZ3WGc2Zm1ERXJDampHV2lOaHYxcDFwakZ1SXRYMkJSRUZtYUpaMFJPd1NEclExTDFFVXB2V041SXFXdy1Za2VvWUpHY000S0F2RmpKSnc5T2phUVlCQTBxS0l3cU9kYmM0UVRVUjJ4US10Nk9PcG1TZUJBZ0VXMmtPVU1Kd0NXZnBUTXhEQUZ0UFRfNXk3c3RFWlczNXZPRUtGUW9RZWZpTWdpZTlpeGhVclhTN25uaC1MSTVXLU1pa2JXXzZSOWIwWFpMMDYxWDU0ZGVWRnVvVFdkVkpYcG5uNTJlczJiY3JSTUJNd9IBiAJBVV95cUxNZ25tZzUwRXBYLVhhTWdGQmJxSFBicVVsNnBwUUo0ZnJQUnFqSmRZdjFzUkQweEJ5eEw4LW4wRVVFeVM1ZjQ4b3drQmRkOXIwRndTNU16NGpQYndud25ZZ0tEMnBfZ2k1WGd6M3AzSlZ5WUxkZWU1aHpYODlQdFZCUmF0VW5QNmFwOVh0bUFHZVJlemUzQU1saEpxVy1MeWJFbTBzRjZwdmFlQ1g0aThRX0xZeTZCNnZFSGNBQ01uWWgwUzRlbm1hZ1JlNFI0OWVHWUxwdmdBUFk1cklOcnprXzBROVgzTnNpd0dnSHJRT0FkOFNBelNiZWEyaEFHT195dU9MX0Q3YmU?oc=5",
+   "published_utc": "2022-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Institute, Disaster Management Professor To Get Netaji Award",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUzVrYXp4N2lacWFrTlVNa2V5WXFqc1lBNXd2eXBFRmhTSndrdzNJUFctejVCTnpyeEVPTVdHV2d1Mm13UGtCU19nSzV5Wmk1cmN4YVFlVVNJb2tua0g2Y254LVZuREJ3WHZic1lZZDBhZnV0X0d2ZHYwOWJHM1dYSUduTHdsMElxVFFPeHVxclhhOUZZMmpZWnlQQ1A5WFd5QjFpLUtQb21wdXNSNTNaa21JLU5lZURZSUxGNG1YYjJmV1pFUmxqRTg0ZEFpMTFjX1d2elkxdEpUbUpxUHJnU2tESE5acTd4eWhJ?oc=5",
+   "published_utc": "2022-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt allows retention, transfer of vehicle registration numbers",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUpsbU9EZ2k0LWtTVDRXajJhenVVLTVFZFcyWE5ZZkZSbXc4WWt5Q28wM3BzUFhBMGw5cTM2ZEFXYng5RTdUbnc1em92R0JidE1ZUzJyYVA1ZGZKTWpGQmNyVUNwUFFnWHZOeUs4OFEwWG9lSEpRbFBnV0JRcGdYY3IzalYyV2ludWs1Nm1JVk9FRlAySXcwZEdsOGRqY214bDlSaThrNNIBrAFBVV95cUxQSGdxRkhxNHBGaU9TVzhYQ3FrVy1VWVRnY2x3X2x6OWprQlhfc3UxMG8zRTBuWkVPT3NPNUh1RnBaWlNvQkdnY1B6Z1FLQU5ic1ZFdk5tU2hWNjFvRXlrSDVNajBJUDk5VnFQV3diRUk3LXZUZXViVWJ6UndvVUc0MWo2VlF6TmRoM1Y3WXFuQVpoVDR1REpxTkVQY0w4dGx3VjA1RHA5OE50a1lY?oc=5",
+   "published_utc": "2022-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vibrant Gujarat summit postponed due to Covid-19 surge",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0lTR1pfZi1TNlpiZUdhNE1UVlVQVllKaVpEX0VOT0YwbW42LXFscFJHaWFrYTNRdnBVbGNEWEtCRlRRczBKVm9zNnZ5UlJwTWJKMFZRdE5DYTBSa202VzFvMHFOdjhaYk1sLWdVb3o0R09aYUo5QTlfVTBaNHk4X1Mxb3o0UTZFZGZXcEh5VHhObkJZWWJLNXFtVWZDQlpnNUZSMWZRWkdsRE1CMVNxdG8wenPSAbsBQVVfeXFMT2JhS2tKMXJNbTJLMjF4LWMtOV9MZEZfZURURnRIWUZDTFVMcmtSRDhJSlliUF9nNEZDRHVBbW52azRCNFpHTzExM3oxUWhxbjh2Y3Nha0o3TFNQT2xpakJrWXJWSDBobGxJSTY2LXVNeC1tSXNfUHg4WTl0eWNJRmExWHMxRTVRaWp6TnZqZlBPa2czWGJ0czM0aFVrYkx5ZHYyaGR4V0FGR3R0NG50azVkYUN0Mk03M3BoUQ?oc=5",
+   "published_utc": "2022-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance Industries pledges $80 billion for Gujarat green projects",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFlkZDd6MV9mZ01zNUhxWXZnWWZ4MVJhTFlKWlZydkp0M0ZqYmNoUXZYdjlQcldXV2hXSVhYYTJOVzJZZWdabGNqZkt0amtyd3JKVG9wTDJsWU9TSlJqQzlWUzNfX2tVUC1uUUwtZktvTy1Bai11WXo3LU5WNXh5VXlwQjFMOUlYVWVKMG9ldTd1c0tYS2JMbUVnVUhQNkpGTm5GYjBXckdHcFdFWl9Xai1XMXk3UnVIUVV2QdIBwgFBVV95cUxOZms1Vmotc3l3M1l2SXFNd3FLZDlYMkY5YmFXbEc3RGFESGltRFlKRHNDRTY5UWhaWngyeGxaNlAzb2hFb01HZldpNVM2MTR4TFRrTnUycXhaT3hiclFEb2VDbEdVbTQ2N2pwZUx4SEFoaXlRa0V3MDNaV2JBWVZ2NlAxU0VjRl9TNnZJVS1Ya2htQWxRdWRWV2JkTXlCcVlpWDBOZERDRjduNi1mbWpUNFNoRVJmb0drWnA5NjB6cFF2Zw?oc=5",
+   "published_utc": "2022-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reliance Requests For 4.5 Lakh Acres In Gujarat’s Kutch For 100 GW Renewable Energy Project",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3hxNXF6NnpZeVVuZkdrY1U0Z19GQnNmcG1VY0s5U25ycktjU2tOQVlVY0xSaUIwUlVPclYyS3FmcGpYbDh1Z25vakRrY0Q2SW1UYzlFUmlxaDJWYUhGOXpVQUdkbWdjYVNKOVkwbm9kdU5ZbWNQT0hVYTJjM1dBVEpIZ0k2bThYZU1raDBEQ2t6MzlTY1ZPVV9YVEY0Nk5sZmt3MmUyUEFDd3VuWjRzcFRFYklDeTd5aTNTdmJTaXQtaG9YNktF0gHXAUFVX3lxTFBhc3A5QWx3cGx6aXlsZUJmRlp5eEo2TnlEWUNqTGVrdmdMMGZGcjczSWN3aUY3RVhNbEFTTF9fS0cwcnRWUlNCTnI4LTdtLUN0SWFDTm9sRkd3dFY5Z1hhZ0U5QnN6NERmR3JBLXQ0U2k1VlQ0dHA4Szlhb2xoakpvR1BIckpoNXhSQkFUU05sR2EyRjF4VndZZklpdmZQSTFFdURiQkNUcGVfX2hKczVVcE14Q2ZTalhqakd4Z3FxcEZ1aldwbXFhaGlTakZpRjV4N25neURv?oc=5",
+   "published_utc": "2022-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt doubles land payout for installing power infra",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTThjTDJZejlwTzEzXy14Qk9PYlBUNTU2ZUZweVJsTWxQM0FIclBwaHJvSkZtc01zNklvTHN2OU1jWFNwWm52NHZQUzBGbExqZHZ3R0NZajE2NHRMd3IyVm1MMEgweXVzeHlLdVFpSzE0QlE1cWEwU282d1Z2UWp0bTYwaG85S1Z3SVN5X1lHV1FpUHZmRWxFMnRldXZLU1o1czBsRnpsakNoZU1aVkN2WmFfdFppbkh6ZnFDTmFtZlIzV3dEck5obDh0MDE5eFXSAdQBQVVfeXFMTWF5VjV4SXU3Ui01NFVqTEVsVFNVenVFTmFvcWIweXZWWnBDU2ZhaE13ckxTWk1aTm1Bdlgta0pJanU2cW1HSUFBbmFRdVFDYWZYNEZ1Rzc1ek5XMlAxXzdYajRtdVpmZEcxdnNOU3dfSUJNMXdYS3dmdndLQW9RNUY5TzRwa3J6aThGc0I3QWwxcG9laTFQQ2xnZFRGTWl1ZkN6M3Jfd1J3UDNYQlJZVWRGSlZtU2RROG1hOVNWUHBWYmc2b21mTzI1ZXRYNXkwa3Rwbkc?oc=5",
+   "published_utc": "2022-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt increases compensation for loss of life, property in wild animal attacks",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUxualN4SExoMkJFdXNrUERrX2FTVEZWY21jY0NXNlVyUU56QXBEVzZsUzJieDUxSEVWdUdYWmUzQmVRbDU3RGZaQ01tV2E3WEdJSkJxUVBLZlFnMTdoblJpejBONTZ2SHF3UEY4dWgxWENDcWNhUWVXbFYtRmhxYTBvai1hVW1SZGxSYnd1alRISFFKMW5ZNHo3MTJwOVNuUklHdDJjNUFINTNDajZTcUhn0gG4AUFVX3lxTFBZTFBDVnp1VUZGTEpEWEFHVi1HZm9Hc29UYU9YYjlsUWdad1FSeGpuWmJjZzg1Q3hsODlnZnJtcThWM3R6UkRUTGRJV05TRnVhN2k3VHhRNGhIX1VqVXZsMzg4ZEgxNHdkY25QdVZUY1JGWlAzSlhuMG9fRmp4UWRzVmE2N0VkNU5mWEtCdmRudU9sdk4wSVAxM3ZsZWNqQUlpUGNETmo0OGZsUmJHdFJYYzJrZFBqTlU?oc=5",
+   "published_utc": "2022-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt launches intrastate flight services from Surat, chopper joyride at Ahmedabad",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMmRpYk40cUVXTC1pR3Bhem5QeFRuTXVfRXBJTVlhalFMSGMtYzBLMU40YlZEczZqWXExNjlZQXYxSml2UzVEWjJNOG8tNmtyOGZ4enVad052YWVYSFlIeTJ6ckVleUFVUmM5TVczZmpCRU1YNWkteWt1c080R0F0RDlkZ28wR3o0TFplWU9Ld1hDSnRHSU1vYXc2MnQyaDNuTHRaMFVhdS1BOTBYMUpQNEw2d1A5YVptNENER2NhQktMSm56ekxoYlRyMXFjM18yR2VfQ21XM0hCVGdyU2NyY2Vsb0hDbVdr0gHuAUFVX3lxTE5RWlpFT1d3UnlqdXBSM2U5Y3hHdkNFNExxS2dkLVpwa2ROTnVqSkVGVW1mUFhfVHVuaV9TT3c4bUd4ZHdEUVJIeTBpOFRnaHhCb19zT3U2OGJaYmxsSUI5TG1LLTJVRUd3RlI3ZEI0eG8ta0hGZ3ZNODA1Z2lQZGozbEZMTmNaLXdzWHlCMDhhN0ZOU3FEa1hiVjFjNnZBdGM2T3hrQkhxS2hZb19sTzhVak9ESGtOeHI2NUFNbFRXZE5BaFFpNzhEYnlvS1dsbjVTZFJTOTlJbnZiVndnb3I5bmVfR1VEOFIyU1JtTFE?oc=5",
+   "published_utc": "2022-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat, Karnataka have higher literacy rate, govt school enrolment than Telugu states",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQno4VkMzdm9Tb2NYYTg3UGltYkFZQ0tLZ3piZ2JHaDRPVEVWeE54aGsyRno3b2F3aTExV215Qm9UblhJbkZIQjY1UXdwRGZzNDcxNTdfZzdsMExfSmZJVnFpUmtCUDNLbHI5RnZmWFkxM1hzNjJqck9UTVB4OWZaZ0RfSGdLdmxZRTBUN3cwMWxmckdxUUhxMjJzdC1obnk0MzQ4c19qNU5xallrbGdrbXBhVndLcDFRMFpZUjZpYkI?oc=5",
+   "published_utc": "2022-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

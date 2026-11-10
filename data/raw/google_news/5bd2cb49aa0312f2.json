@@ -1,0 +1,53 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "Maharashtra launches STEMI programme to address epidemic of heart attacks",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSW83WUV6S0NkeWZtOWxyWXBlN1JlWUFoUlBBdll2c1p6bEFTcUlaOVlzTGUzUHhJdlAyS2F6TnZSZk8xRTY3ZU43Z25QRTZFa04wOFNqdkt4OXJhUjZvYU5HcVNXWVFuSzVGUmg2TXRaRFB2eTZGU1doYXZsU09YajJJQmVxeFh3cnZ5anNGU09NdG42b1k4d0lGOG9ESzlFbFhkY1BZTmJLdC1OZlRaVjFmYll4LThYMl9QbnpqQXAxdjZ4N2t3M1FLd1d2ZkdHbDY1NtIB2gFBVV95cUxQU0hwbFBIU1o3ZmFQbkhjOU1ZOHRDUUl2anpFbzVPLUVfNHl2eXcyQnpTWTU0TUltbGFvdWgxN3NKWElUUkR1VjZGWmN6ZVpxTHlJMkhtN0NVa0RlUllZYjhVRVNWaFlUdjF2a0FiU1F5VDBnekljMFp1cDJua1NxdlV6bkhtTHB2UWdpU0trZktHZDliWXBDdHoyT2hMQThtU1dISk5uX05YRC1ib3lSOUdLNERfV1dkR0sxLXNUWEtJZV8zMy03bHktSFNpMkltRklyNVVNNVdkQQ?oc=5",
+   "published_utc": "2022-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra education dept panel visits Punjab schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWU9WSkFSWU5rY1hFdTc1NVJRQjZFU2M0ZW9STEZVMWI3X3VISzV4Yl9TdENjMUZLaW83cEhBY0lSbUZZS05wemNYVkhRQzNPSUhuajlmd1VKZFQ1Ql9GWU5KdVZNNUxvYnhyWGhOR0NwMHJETXJtM2MwTnUtT0diQzBmR2J4UFJFNTZhc0I2X1o2eC0wdGhWVXFtck00NXdWVnoxdS1MTXdxMmZ5bFNzQmQ4M2dOd9IBvAFBVV95cUxNY3pHUF8ySlpDUklaV1VoUFBXVk01M3k3WFdJT3Y1Ql8xcVVFSE9lWUIyYTdOU2cyRjZBOG1kcFljSjBDcEhUbXZRY3RJM3ExcWxKcFdha0JRR0N6YWQtZHd4MlVtaWotTTFTdC1xWFJEOEp4T25LUkRoUGo4WGZtQUNjd2w4UnpnWmZpbmxOd056SGtCR1gzcGw3dzFvNi1NeTVQOWJlUVU0aEpBVFFfWW5WRzhVa0l3bFl6Vw?oc=5",
+   "published_utc": "2022-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JJ Hospital Dean Dr Pallavi Saple appointed as new administrator of Maharashtra Medical Council",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHJVU01wMnZqS2VKYjByMUFnbG9BdEVVMktXQ1Q1cXlWelYwSlIzWDVqNlplQXlLaC12NGNZbm01U0Z1M3FXVWRSY05zWTFSNl9HNkNRc01YRzlGMVJFUzVDT21peV9rQnhrN0dzYjZYUUlsYXhwU2tGVUZfXzNvSndodHI4WXZfOUt1S1pZcmF0bThqV0szVDM3aEx5ckVfYXFRUlo4M3ZoYWRoME9oTnBfc0NYSDc4V1NHdjd1dTJzOFpzY2VCbDlkT2RValFrVC1TWEhBc3lveTFjQjU2eVhJdzNkLUh10gHuAUFVX3lxTE9PVzBiN2N6RHJ1MXNHSnA0M3VrUENIczZOYnFvODkyb2hRdDRraS1BOTNzQldKc3liS3ZDUnZwTmQwazNiM1V1alc5R0pvZFhLb2VicFBlTml3M3VabWE0bnd6MzhfNGJTdE9oZmROZ1pvWjV3SmNoMktxa1IwRmZ6VGFWdDVXVjVQb1NGWVFoT2VSR2FtMGRncC1ZWmE2WG0tZ2d3Ry1YM182QmlnTVlCZ2ZhV1NvYnVmN05MN2w2TjBleUJOTGF0bUdVd3RlNXNscjVQbTlLek9zdnR6dEJ6Y1JOYi03dlZIc3JkM1E?oc=5",
+   "published_utc": "2022-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rahila Bano's mission on girl child spreads to Maharashtra",
+   "source_name": "Awaz The Voice",
+   "source_domain": "https://www.awazthevoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWVhMW9EcW5BU01EYjQ2QmNCYzJRVWJQSWNKZ2RkRVZjRWJEdGdIT1ZJY01LQVZPVndRc0UxZzBETnpNZ3dhQ0hUTWVRUkRWLWJlY0dlcHowempvSVRVRGNHWjRrQXd0MGU1NUdVN25EREhCX1dDSFY2V0NCbGpnejJvdHUxa2xYT2xhVEl2WjQ4UVVINUlNMEJteXlrUjhFWHQxS3FnM0htVXVR?oc=5",
+   "published_utc": "2022-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JJ Hospital Dean Dr Pallavi Saple appointed administrator of Maharashtra Medical Council",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdU1LdWxzUVRxRmJyUjhfYU9Lelk4WXNpRm1id0dJbUJUVVRfZmV6NllIdldraE5hTXhaRUdxdW5ZZ3paczBUMkJ6MjAxY3VxVVBmYnNjNFYxQzVQcWsxQ2w4eHhGRXV2UWhtUW4ydGtmOW55NjVFWmZsTkVyNzRIS3ZvT3o0MFMweEpMeWdxdjR0bkVuQTNGY0JnaWIyQzJkbzR2bXRlUnRwNWoyNXhaaEZpZFdHV1dLQ1BILWRHOUFtRDV4UXFuQ1lKN0kxNkM1djBTSkNaaERtTlJaZ0HSAeQBQVVfeXFMT3k1RVdRSTZvYUVRN3B4ZXlPY0ZWcy11REFzcWdZcF80ck1YM0NFQnRUWFRwcjE3Q09fb3dHSEl1Y09wdlZHS1ZyRHNUNFF2VFNzMi1oc1RUUGgwMFVIdEoxRWFVQ0xwS3NUVkVacjJxeWV5cGVmU2Y3V1gtWWU0N3ZsS3lTNGdTbGdoaFFLRGdDUmpfX0lsTlBuX1JvZGRrSmpGamtTUnM0bTlQU0R0ODdoSTZuTGV2Z1h1V0tuMzJwUF9iRGdiY09Wd3UzMllDckRYOUlOV051QldEZUM1X3VFZnlp?oc=5",
+   "published_utc": "2022-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: BJP fields Murji Patel as its candidate for Andheri East Assembly bypoll",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYjFOXzA0eFpIWXVQdWpQb29rM2ozaXZqWkxvODNEWUVVd0hkYWYwamt1WmJGV3VjaGZ6YUp4UEg1YmM3ZVlzcml3ZnctZ01tZXpNWUZESldnc2VpU1ZDWHZtRGVUZHN2SlBuanRkOFFfY1dSZmoxOHpNWFBfN29KWkt3S2M1QkIyLTRVcE16NUY4eFlMS0VaTTg1OUpEWGRrMUNkMFR6Yi1JaFFHSUVyNmJqdjhwUXplRlFxa1J6ZktrUWttb1BoNE9XYUl2MlXSAdYBQVVfeXFMT2JVSm4tNlMtLXN5bWlFdlVGeE1TUEMtdklxMmt0RTY1UEcyeVJIel8zd28tYnRRMmllWU5qQlJubE11cE9aTk5FZUtBX3phMGNXOUNNYjJNVVIyaXNkeDA5YUM3X3gzcnNzRWx4cG5WdERVaVowbHFrMTMwNjAyOUp2Um8zdlJsY2RJM0hrZHdvNzJJbWc1UExMMEZCM2VnLTVYNEltY0tXS3lNTmh4QzQzakxyZ0JyQktJRTJ5clFZT0lRWkczanFGdDh2ZUtvVW1oeGE0Zw?oc=5",
+   "published_utc": "2022-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Davos 2023: Maharashtra govt inks investment proposals worth Rs 88,500 cr",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnQxWW1RMUxYVER4dlppRFFqU3dfN29qTTFvQzdoMmRxaUdndmJKd3QwZkhSSWIxbjRHUk1KbWFSR3VRZ0ZvYXNRUFZqaFZ4UmZiLTlRVnBUazNZYmowR3pDclY4TjZ1VFlYMHQ2RW9MUjVXM0h3LUVqVjhGUUc1RGVaNmk3SFZoSnhrZEk0R1MwYWE5Y0psbWVrd1p1MHlaYnAzcTRIU3ZsOUhOODlvWnpjTXBoWjl2Vnk3Y19NZDlJd1owTTJkOEdYY0tKYlHSAdwBQVVfeXFMTzFnRnhVaXlGeU5LNm9DRk1YcjlLZTV3SEpOZENlV3d5RzdTUEp6X19QaWxEd0tDTm9mMzhmOVlQdVJBRy1LN2Z2Q1llYlBNdy1sb2lMdjRWYk5tajQ2dVQ4Z2t2VUlEOVZ6Nmplei1oY1ZuM0w0Z2dXUFF4TlV3YzAwbWFqUnZScWNHdTFoclNOYkN5cF9KdUlLV201NTRZQTZaV3dzbmRhSlRjMWVJSklmb2pSZ3FwbTBUd2hoUmlrNWRFcEtNcE04NUtMRG50X19ZejQzNDJsOWZyQQ?oc=5",
+   "published_utc": "2023-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

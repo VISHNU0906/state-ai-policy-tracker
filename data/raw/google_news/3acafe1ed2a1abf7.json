@@ -1,0 +1,13 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "E-title deeds introduced for first time in nation in Kerala, first distribution in Malappuram",
+   "source_name": "Kerala Kaumudi",
+   "source_domain": "https://keralakaumudi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3ZGM0c2QUtlSU9zMnVFVW5ubmc4Ym90b19jd21mMTVIN1lvS0N6Y0tIdTRfOVNGM1N5enR2NE5Fb2J3cEN4c3VaTW41VWx3WjBkenRvOVQ2MVlYNG5DZExpaEUtVkgwbXJhSFFPZUNUdlNIUzVHTGJHWERjbWk5dU5LeHpyelp6Nk5JZFYyTC00dk9aZnVSVHlaU25JVkNIbHg3eEo3VmpCUGl1bk1UQnlqMzU2TUJ3MnJHYmZ2VGVBMFVLQkRWZ00xZTgwZlo5Z0kzYjJWSkV3cnM?oc=5",
+   "published_utc": "2022-05-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

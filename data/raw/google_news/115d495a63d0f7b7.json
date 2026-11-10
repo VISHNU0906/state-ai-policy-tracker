@@ -1,0 +1,45 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Campus Talk: Mumbai set to get AI-driven university",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGhhX2FfVzFwT1NPVDJNcGdmU2RJa0lkYlhZZS00V0NDLU80d2s3QndCN0FUUFB4anlVWWNvaEd3c3JhcWR0eHN6TWVtZzJlU2JVamtMX2lsSkNtSlFXM0dTTXZCWmVXSUhDOWRIYXcyWTVOWWpWbGZuTEVHSzVtRERwS1ZXSG5ZSXN5RTJENEJwZmotX19KY2RIbm04ckpnSWhiX3BwczlJMDjSAbIBQVVfeXFMUHpsWUdNalZHdUtwTzNlS2d4Q0V2UnV0YWN3VndXV1NXZ1h6c3dzVllIUThRZ292MjNjMnRaQ2RYa1pmLXludHM1UkgwZ002VjRPT3BvQkZnRjlrakp4QVJtemdGOHN4WEhNZzNLbjRuZ1VwRUlySjE5SExXU0tEYU9NOTNkbnBpX2I2cnFFOGdPNG5GTGxNV01oR19hRUxpTzNkcHFaSnRvU1VKWG4yTTJEQQ?oc=5",
+   "published_utc": "2023-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "New IT policy for Maharashtra aims to attract investment of Rs 95,000 crore",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXJQcVh3Ymlwdm92SzVrQjVSTml2VTBrSlgtQi02QnBzT29EbmhZajNBbnFIR2IzQmNKQ1VrUmhWTWlWdTkzdXo4bXNTR18tVnFhdDJvRzVHME1nWU13SlZSRUtxT2lUNmRJVm16Zl9KTnR5MzhXWC1sM1BFbThxSWlqMWNGSDZWWTNwR3JET0ZWTnpsX05ETU1uMU5QYTh1dTQzQlc2NmJ4dFpBZGY5YkFpN3J4bTA5TmpObnNMSlVHbXUwRk1aM0NITG54S0XSAdQBQVVfeXFMTm1DaUJwQjRDN1JZcnBkdUluSFlQcElwR2Z0ZjFjOWUxbjVFWDJoYk4tVnFaaE1DZkJGWnRlTEROamRSQmEzekszQmFKSXpJN3BaU2dhWXJCUTRNWnQyMlFsU3dCSlluQnQ3emZRVHQ5SUMtMTZMX3NIU3E1WXFlNEx4S2I5V2xhekxjTDVlY3RNNkZTOFFWdlU0c1RPd0FEZjNEbS00SDJMN1lOV214RjlzMG14aE5wTXFSbGE3eGRUYmRwZGdWVm92STFvMzdEVkxXOVo?oc=5",
+   "published_utc": "2023-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first AI varsity to start on Aug 1 in Karjat | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS2V0RnNMZEc3cWlKekxnTV96Zk1pQnk2Ukp0RkN6X091UG9RbkFRWktJc0xZRWNsT0REcXV2YWQwS0FfVTZPNldWSDhtWEhUTFZzZGpHb3ZuWEtmZjE2R2puenkyWEsycHB0QWFNNXppeU5BQXpGVnZ1OUJNNHliQzA1MUc2LXA4YWxMazd1eHE5QU1HWXFmaGx2YmJpVU5FeS1mUmczV2hJYTFyYlFQWElaV1B6eWR1M2txSlY1MHBXb19xVnRvRzdoNUNVQVhOdkg3WU13SF91OTdRamxyQmR3alVNblJLakgxS01sZnR4bnlMNHlXcUpKeHFpUzNzYkJWeVM3VDM2RGktc0MzdNIBlgJBVV95cUxQa2V1ZWVyTUE3YVozcVVjTVBKTVJqUG9zWUdlZWlDLTF3cHpWeXpkX29Ic3p5RHppU2F3TDRBUW1sWG42bjBVNE9udVp4cmJ4S0ZETmJIeEhzTFJrM0JVbGVrbkVCRkd5RlI3ZFNyWElidzFocjN3eUtTbm9lOUVOLUhkUEVVX1RGYVQ0S0pSY3k4UEk0UHhvcTVEWnhwb283T2plY2R6Y2dZdmNLblNVV2FLSkhNQlNNb2ZDb2MtNW12Mno1VFpsbDBSa2Y5bkJ2d1hRbk1QSENWanFmTTVsYWgxYkpaNzQ3aklUMW8xZW9BY0hVR2docndWTy15QmFSdWx4eGZCaWkyLVFBQktaRjBkcDIwZw?oc=5",
+   "published_utc": "2023-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First-Ever AI University To Open In Karjat; Will Commence from Aug 1",
+   "source_name": "Curly Tales",
+   "source_domain": "https://curlytales.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWZzVXVCRnNqUHhhclNTb0R1cGdfVjZZeVFSYmhMX005ZUdBZ3JiTjdPNlZVTjljSWlKcF9KOTFJSkplT29QeUZOMVZZMktublcyblN5ZWRURWhLVVNfeF9YMzBqdkxEMXg2OFZ4WlEtdElUWUtUa1pFdF95alo3WHRqdDZHUEczeDdodUZqV2RXc0ZNd1l4b1laUWgyaWc?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: State Transport Department to procure 187 new interceptor vehicles for enhanced road safety",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0JxbFFsSHk3MFVrY1RyTkFQdTBNcWNyV3laX20xMTlLR2ZPeXMtb3BNMk5McExlZW1RR2FwZmVrSlpFV01zMW53cXd0NU1BVWd2elNweXpGMUpzajdsNlNkMEZwLXBhTGpmd2tQSmJ4eWcxdnZ6RDRvbzR3ZzVaaDJLdHZ5MkRubXRWeVRrUlVYTVd1VHlxekhPaDdWVVdSMEJLdGdDQnJ5SmtjWjRFMXRZRWJfUkhXaklLZDBoZjJLTFQ1QVBjMUJ6UzhpMmdab21rTFBhOXFWd9IB3wFBVV95cUxOaXlzaVB4c1d4ai1VaTdlNzBqd1Y2SlEzNGlXLUJ0S3Z6NDkyck1aazdBUENOZ1ZiWkZhZmRLQm5GekNMWDVTcU1LamlvdkpMektvVGtFTjdRV2kyQVhsbTE2eUJtYVdPM0o3QmN5Q05SN3oxaGhOcjFMbVotb0FQRF9rR19KLWdoLVQxekU2MVZ6OVlINmVJWHpxY2ZqMTc3b29Vb0ppWndnT0MtUWMtd0VDdjU3VnRRVjA0NE1vdmxvbUVtY2tkRVhSTURxWGpOUHFkN0wteDZ0TzBqeUtR?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

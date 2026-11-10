@@ -1,0 +1,69 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Amit Shah deepfake video: Case registered against Maharashtra Youth Congress's social media handle",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTmxSQXdmLWpqUXFVNGx5Y2sxTndHMU5neDl1cG9MQi14Qk1hWUplNFpqMlJEMjJ2WXphempOVThxc0E5ZmtCWS05MU5BeXh6T2FUVm42dFE3b09RTFhMRFFUcU9wcldFN1ZZbFk3cmNPQ0hSWFFodWdHQ2Q5QzBDSTRmX2ltb3BJdzB5QWlhQlZRZURUOXZMVHd6UGh2M3NfMzF2aEhYRVFmOVMwTGNBSXFQUEtGb214R25pS0J0NUlCOGw3YmlDMXREcDBDYTlsU0Q1OEJPVThDNjB0VlE2cHl4NU1VcXlCVmZjeElDREMtT2FyaFJpTmFESdIBggJBVV95cUxPaTlSbTVIalpydEsyV09QdVB4VkZLcDlhVDZtZzNVb3g0dTg1ejBFN3E2VnYyaEZySG8xNlRtSEN3SHJ6bnRTdmcxOFVmQTFQQkZYZmlUNGZtMzZ5VTZSOHBnMEQ5dkFXREx3anFIaWd5SWFlSmN5MW9XaVJuSkdDSFpfTlZ6ZEdVdDdUa19NRlZaRk9RV0xDek5BVUE5SmJxSEQwYmpGQUFjVUVIUFJrbzBYaHZmT3VxLXAwb0FqWVZzWHAtcVRIZjBpYVlpS09rRkRhRm4yMXRTb0pVbEVBSk8tYzU2aHlhTEswYld3TUdFRkRReXJNcjh5a1VrV0dMM3c?oc=5",
+   "published_utc": "2024-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Shah video: Complaint against Youth Cong handles",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZU9aY3dnVnVpUm5kcV91aVpYVkR1LU90Y3lqSE4xVGJ5QndiY05lWDhiUTc2dk1iVEZFQndULXFfcDh4eU5WM2xMcFhIeUxZd2ZrMXNMZEszQzBVcHhwX1JjNV8zeV9mOTVMZ1ZORGhGNUxBd25MaUtHeDJldzdvQ3VMd2EwMUpNR0w5ZDVKLTdhazZGSzZhTWhYSWdjNjY5bWNsd05PZkNtNTRHUnhxMS1fTTRwLW91aWVuOU03SDlSTk4xZWR5V2tBTHRkazBzWThRT21RbEpFbTVzdXN6VnVtM1FvNkt5NUh2NXZXcDctNE5YSWFv0gH8AUFVX3lxTE5lSU9WYXA4aHF4eGVKcFBUbTZkczZmaVJESDdQVllJWnM0VGRFTUVBWjVibHF3emNqdFVVZzZPMkV1ZHV5X2VXMVZ0c3FjVTVRbDVSRU5ja3lUd3VORm1vUzV3YzBQb0F1ZXB2eXgtR1pqT0YwcHFCQkhyUDRKbVhtYjQyb1pJaU5LeHBrMS1RTVlnWjRtd0FncDhfdkxDOFBWeVI0b2Y1Wl9Felg5Y2tkMUhrOE9yb0hlaERhVlZXc1FyOWM1SW11RVZ2cVlwVWpBblFkbXRRWjRFOGp4M25LX2czVVdzX1J1Vkt1dkN1SjM5NGhuSlhoTng5ag?oc=5",
+   "published_utc": "2024-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "FIR lodged over deepfake video of Ranveer Singh criticising PM",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3o2UlpzbThad1hJcE9QbHhBSXJKOHZseWxVeEIyYWV0MW5mdDdaNmhPSW91R3VzSElodjM3ODhySzVYWl9pNnphREs3MkljQVpaMjVqeGtuaFIzdURVaG5GcUd2cEZDZjF0UlZwc1NXYVllemhvR0VZY3NZY3IzVjhUODMycElGeHhmNW9mRkxPR3RXWkp5Vm1QbWl1Tzd1VlJYemtBd0dfQ0lkdmNYNlFYOVNOa19oTzh30gHCAUFVX3lxTFBxdzBzZmlZSmY5Yk9tSUc5NzYtY3gxakYwN20wM0xTNXVVR1FzVm1jOVBPQmVBQUs1N2FHWU1wcF9oMU14V05nMm9iTVpmaVdmcTdHWFhzWnBWd0c3MnFKaXVOVHNpcEZRaE00bVlWb1lGUzF6b0tqczgyb01uOWJvdHZQU1B4eE1OSHdGWlc1c3Vwem9wb0pEbEF4Q3FCVmRGZGMtNUVOZWQyZkwzcEhkdDJxZ2JoejhCQXRrQkk1VC1R?oc=5",
+   "published_utc": "2024-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cyber Police File Case against X User in Ranveer Singh Deepfake Video Supporting Political Party",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjJQYzB3ZU1DTnc5dm5xX05zSnpmNDJvZlZPWmIwQ2pLNXNJMHEybDZwdWZkcFFLdy1tNllvMUhuWXNVd3dGQ0E1N2xzQzlCc1VpM0k0WWxHdGxGRl9KS3JvWTNRcVBWZ0xCYWVGT0s1RHg2UXJpS053NVFqNTFvbXNBNWFQM29YeS12NU5LOWZBUGxwZ1FQNFpmOXRtYTVZZll1YjJJZmJEMW1rT3B3dng1SGtxSWM3R3hYQlJJOHdxNjlTMkl1c3B0WnQtbWdQaldr0gHYAUFVX3lxTFByaE9xNTl5QUxQN2tNTk9JakpjZC0yNGowbVVHS2g4MHNWVkN0c0FuM3dDeHIxN09JSnBwcVZTOE5RUnhqSWF2eWdVMFRBX2UxakdqNTJqMFB3aF9LRlRHdG44d00zckJVSV9zZFd0QzZwVEhrbk5uTWJHZGxFUEF5b2JTd1lidDY3cGYtOV9QRTVod01MMDhnb1dSZTlneXhJN3JreFF3aFBBaS1jUlRDWWc1TXZRaVlZSllCbzNCMlR4d3R2cTVndTBlSnJ0QTNhTTdITGt6RQ?oc=5",
+   "published_utc": "2024-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake video of Ranveer Singh criticising government goes viral: Watch the original clip",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSjFodkNtbnZBWlpJYnF2b25LaHB6MlFnLThaR2d0U1JvUjJIMG1sMEJJSmxGbE5qbnRyLW15bGpzbnQ5YTlYRDZjZVlrWjA3RDJWd1QyY3R4cFFJWlZlRGZORUhQNThhQlRRbERsLWxJcVJJWEU1bGFaeThXSlZEaXctaUJpMDVUSktFY09mVHBWYjhNTXA1cHl1Y0JpcVN0d3RzNjZDUWVlaWRyZUMyanJFbGhTMGZ5b1VnVXp6ZmlTNldnUkVweWo4YVpYZEVSV1RCamp1YUpfT0lWS3FSSVhOeXdSUzh6cnFVU1Frckw3dVRPZDlVT2dWTktPQdIBgwJBVV95cUxQYXA2Y1g2d2FYTDZOYk9abkRQSTFWLUdQYW54V3QxLVloeTV4YUdCc01UMF9xVVRMaEFxZlhHWG1GbEQ3cHc3VWI4eUxaM1ZiSGVMaUpjOUR4OWhCWWpaemM3TGdoVVRoME5aTDhzTnZDRk1fbEZJZ0l1NXF0TUtfblk0ajlySlk2UjR4bkpDUDk5UVZuQ3hyNmtwT2hYa0lKVUEyZ2hEVXViaGJRQnF3TDVFYlZXbzdORWxQNFNqU0t6SG1rOHRST214M1JlYU5GcHRBam5RcTBxU0ZoV2pORGlPNmhUQVVnTFdVTVRPZVk2TjhuQXpYbV9LLXZ2c2llUEV3?oc=5",
+   "published_utc": "2024-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Actor Ranveer Singh files FIR against deepfake video that showed him slamming BJP government",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWktGQ3RMa0J6ZVRGYXgxTEhwd1JPbURQdDduZElZdUpab3JyS1RBY0ZZeDE5UnVIZWlDSHNjcTQ2QTJGQllmbkJxLW40enVadlhkYnlGOXFfREpYZmJNbGc1VkRqRTByalM0TmU3UWR4ZXRKa0hybWRFaUdzM0tacVIwR3hkdndfMDVjWS1KeFZRRlMxM3NCSUhxMUY3TW5yVVBBQXdLUERqb3oyX0lrR2F0bWNWODB5eFhnYm5ibTQzN2FhcE1MN25KcFNGYzFWWm9PZVJwRHVSc19MRW5iY0xuMnhHOVZnNGRTcXgxN05Ha1dMN1BqV1hqa3pjdXhqNjF4aS1R0gGLAkFVX3lxTE5GOGcyMUlvRUIyWVFHRjA2cWl6RVVLUFlSN282SC14UkV2eDYyanAyNVhqSHVjV3lyMGpwUVllUXFYdnozT3lUMXFKdXluY0xscHo2eWFKZWkzWmRFZlg3MUpJQ0ZGdzVDNnhrMllaTDJMbDlwbEpwczlxMWxvZ3dUVVB0dElHNmFWWnJLSmRiS24yN3pmcmxnaFU3QllMaGh0ay1XUXczdGZ2TFpKRVFNRmM3S0htVFNTcXI4YXViSzMwY20tQ2RYR3pfclYxWldYTFV4YXNZRFViYTdDMFllWXlQenlJSloyOGR2cDlkSDA4U0hvbHFQcTUtcjFhOEtGZHNueVJQSjlzYw?oc=5",
+   "published_utc": "2024-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ranveer Singh deepfake video case: Cyber police register case against X user",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNemxZYUdPekVwTEVNWEotdEhPRTdZaFAzY1BTZWxzc0NWTlRDMDBiMUl3VzRuWnFXQnpHcW00UlJfc3hxcDVjUmVNakdDRGdadGduWXJDbGszZWl1aktjVVdoc21CSG5wTmN1VGJCcFlvQmM1UHZfUGZjWTByVms2OUVwVmtMMmtZVVpTOW1pM29jcDVma3BKZ3pyS0JBTWUzMlE3V2Z3bmZoQ3RCUWxSQWRZQU9iclBDN2tvTEJHZVhkYnQyTWppdVhtdkhxUHRWQjdfcncyZEZfZElnclJidktKeVR5Yk5jY3lnTEpaWGF5cmpmdm1jVDNfS0RGemF1QkHSAYcCQVVfeXFMTkY5Sk9XLWRFa0gxWVNiMDJrRlRvc2QwSjQ3NmR6alF5OTNiZVZHVlhqYTh0OF8zRGZLS1dPYkJQaExNeFU2bUVZWjJVb3RMUHd0LXVKbFotblRIMzZmdHFQN2gtRmY2RmV6S05VWV9TMjNXajZOWmlldXd1MG9ITVo0aGNxZkNlVnhNTV9fU25hTXhMUG1raWhENUlrQXFMdlUtTnVqMVBwdkdpeUZGWjM1ZkZwQ3lOR0FrWGJHTUZsZlBqZ014dFQ4dldzRjYySkhncnZwUUE1UEY5WTFZUVFQMFc3TExPSlJZQTZlSHdORmNXalN5bmpieTd5QlZ2Y2puU0JfLTg?oc=5",
+   "published_utc": "2024-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai News: Deep Fake Video Of BSE CEO Goes Viral, South Regional Cyber Cell Begins Investigation",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGh4dTVaTGJwRHdZeFp4eFpfWUFNYUJRaXFCSlZtWnNMWGg3SngwOHhtQk95UUx4MUduSHBnVXYwZWszUDRCQlVOZk9oUUhCekxKMl9PNVl2UFhwRkVkTXFkaEdZQUhza2dYcUpQa2hqLUpNeU54ZzFSbGkyNXFRMk8wSks0UHJEUC1JcTl4Z214NWZlajh6MzRLcUN3VWt6akl1RDVUZXFOUEJuazNOZnlIeGtsQlprMTdUZllzVlhyeVNRSW1ITk91NXkzRUFk0gHWAUFVX3lxTE9TM0I2aXNpWjVFMGZBUEVXNFlsSlh0U1VVY2V0eVdzU1NzZ1RZNUd6bTRiQlhnMzcwZV9MZDVDdHBidUI2U3NPaEF5cEpHUEVfMTAtaGozbkwyU2ZNWVNSQlRnXzdCVDdFYzZTbk9ubGUyMHZKLUZqQXROWmtfTjZwYVQ4M3phamNNNFhWVXd0bnFrQlFBRXhVZy04ZTBLYnVxVllGUGxaNWg1YktscnN4Sl9qc3RxRUpHNW1TNVQ2V05BSVpWckpGc2VlYWhIRGtaU29tMmc?oc=5",
+   "published_utc": "2024-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

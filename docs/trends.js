@@ -130,7 +130,7 @@
     "Partnerships and MoUs", "Policy and strategy", "Funding and budget", "Regulation and ethics"];
   const perCat = countBy(records, (r) => r.category, yearOf, years);
   charts.append(lineChart({
-    title: "What kind of step, by year", sub: "Records in each category", x: years, yLabel: "Records per year",
+    title: "Category of policy, by year", sub: "Records in each category", x: years, yLabel: "Records per year",
     series: CATS.map((c, i) => ({ name: c, color: C[i], values: perCat[c] || years.map(() => 0) })), markFrom: markYear,
     caption: "Government deployment is also the default category, so it holds some records that belong elsewhere. " + partialNote,
   }));

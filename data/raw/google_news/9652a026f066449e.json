@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Watch: Maharashtra School Installs AI Machine To Assess Food Quality For Tribal Students",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkp2SHVGU25KRzE2YmhOT2dxa2picjVCeFJlUmYxdE8wRTRNWkFVT3ZIeEhlaUpZaUszVmJrOFFTbUpLTk82MFRwX1laMzllbHhWWXVmelpPTE5pTzlROWoybjNYOWdKSTBKckVuandFSjIweGVocWFDSk5wWG4yUlpWQ21MWk9KSWtReVhxclgxRkxtX3JCS00wdVFNLVZoNlotRi1aRXZ4dkVCTDMyMTV2RzBPR2xwa1A2UF9oVGs4dk5CX0HSAc4BQVVfeXFMT3lXVmlNdmZ6WFFfN2RCc3MtdHZEU1VQa20xUU83Zm5IZU1aZGc0YmZsMVdwQU5aZjd0U01yWDQ2N1JxZzBwMC1UQ3RGbGFqSC12SWxjSElRRTNjT0ctdVVyTE15Y1hRN2RjeFJiODR5dDc3R04zSWoyYzlCOGNPUy01OFJhOXBmbnRXcm5OTm5vS0Q2cms0Q2pteHBWM2VzVGtUbWdfbEZ1aDlURmRiNVh6ZFFxZ2tJbGxvelJzcFlYc0MtajJ3TXFnQldvMnc?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: IAS officer's AI-based technique to improve students' nutrition | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR01UUUtCaEtkM2p5d0tObVFHOHdwekVhRnIzSWFTVFF1aGZ3czM0QW44R3VyLUIyLWxLT2djeEN5RmJfc1JONGl3YlJEdGRaZXlvdGZWN0w3U0NBUEhxRlhVQURTbVN6WWZORktja3pTRHdnSFU2eXN2TzNVd002dlZSNFg3NWRTTnFHeVRQeG1fRHVmR2txdGhmWlNnM3dVVlA5LVFWQnBaM1FHdE1IUzduWDdwY3JXOVdISU5sR0dJS3hwcEV2MdIBzgFBVV95cUxQUjAxZ2Zld09TcTcxbzBYd0VrZ014VU5YTXhoLWV5Y2pUVkJBTm02U3Z1MEhtOE4wY0t1dHVCUkx0cWFqdVlsMHVYNlQ0U3VVWUlhVGlWNVo1SHE1Snl6aTdYTV9hck5ib2h6MmM5S19vQlo2a0tTT2E2eHo1cnc2bmQ2TjZiamRlTjVUWm8tOXNfVFJCOTFOQnRkWThuRExHQk0tTTNFcktDNkVGUkVGMGtrb0YxeWdiZ0tHYmhkUnN4cWF1dkhjMnlCWXlndw?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI pressed into service to monitor nutrition levels of midday meals at Todsa school",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUXF4SU9XNDJJZmpibXVPNlRMcERfZUxqdjJzZHdBcE0tSXVTUGRKT2ZzTjhtaHpMUEVSNHJTeDVlekYwMEhSVGVfUXRSSzN6dGpJRHhLanplWGJOS3dqNnI2VG9ZeVk3RlJvNTR6elp3MVlBeGpRelFJZTVySzhEWUc1TnpoQWhkMWRtTXN3a0RPU082ajVBMmVmNjA5dnA3aklRdEZKaHNUTEM4Q25PWVlNeHQxZjRyd1dtYVYtTGNiSmpuQlBOSnhLa3hPTUJrZGlPR3YxQ2sxbVpfOEh3eUNJS3VDbkoxbUN3MtIB8AFBVV95cUxQeC14SkhmX0ZxYzhrRGc5eTd5emhKY29XSkRrUzRsd0JhcE82WC1EQ0F2RjNwYm5mQWJ0ZDF0dDh3MV9Ydzl6bnQwYVFJUTZiZlNLQzdPdDRmQllCbmUzQWVIMVp6bkdsQm9aejhRd3pkdDY1MmZJeHZMdUtGemZhNDJPV0llbkpIdnpoUGxxQkllREV3MlRNSTZTc21uamJieFlzakZxZmZDaWlpVElvVjFQeG5CdlVlTi11emw4TVV3RmxaVmJsRWtKOGNMcWlkRUVtZkIybXBINmZVdFhvaDBEeDYzV0IwQTBlWm5iVlE?oc=5",
+   "published_utc": "2023-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Watch: AI-based machine checks quality of food tribal kids are served in Maharashtra school",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlJUT2p0bnVFT3MwbkN3M0dmRzhrZHc3RVRsdFpJU1JTLWJxOFN1aWh3dGFFZm0tRlhGWmtxQ3hySjBKSkdBOWNlWThVX05EU2xYWDBEeUNBWWdQY0FMcE1OZEpnWHJfOGU0Z2Y2cU9UaGNWWWtzSy1OVWVmUldTa2pXbjRObzZieUVNZWVsZkozOVpiX2JPNmpvQnFMM3RjSlBRUlhSUG9CM3NUbVQ5UnFuSGEyNG0wVnlhbGNVejFzd0VY0gHKAUFVX3lxTE5RRXdUY1MteTJPR1ZxZi10d3Z1TEFwQ1hyVEdYbDI1QjZadHFSeTJabFpPQ09oUmQyNF9Vc3RNUmJ2ejlqYURaR1FmQTVmVUZ4NDdTd0pqeUhwaDlFM0xadVNVX2Y2bFA5aU1qMnpZR0xQTDJrVTdxYmpIU0tqbEtjWHp5b0FESUtDYURhbFpWbzBSVjhRc3E4M2N0QXM1MmM2RGR3N09ldm01N0kxZjlJaUZJbEZlSUk5Vl9KRFhlSkRva01QVFB2ZWc?oc=5",
+   "published_utc": "2023-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tracking maternal health",
+   "source_name": "Capgemini",
+   "source_domain": "https://www.capgemini.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVJYWlF5cUh3T0E5QVZKVG9MeWZHbjlxeF9HenFPS29PcFk0UFlsTjkyRzJDVjFlQXdDaWZ5N1BNMS16WmR2YUw5emhOcHdRczE0VFVHMks3Zmp3SHo2WC1SRWZvWFFJZVhrQ0twNnhfRkpJRDEtVEpieE5nbkpyZmdFaw?oc=5",
+   "published_utc": "2023-04-17T09:27:03+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Covid-19 changed online education",
+   "source_name": "Sify News",
+   "source_domain": "https://www.sify.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFVwVE5RcTNNY0s1cEhkSmd3emtZcS1LVXFkRGZKeXBtNFlnUXBZbjJtT1FrQXc2ZnRiazYzSzVXNjJhN0NlRGVXQzJXd1dJVXpRb2otWGNOU1M2bWpQS0hLMFhYcFA5eWVBMlRuWVc5cEJhS2laUTR4b1B3OGxOU1FyRnJ3M2NJTGc?oc=5",
+   "published_utc": "2023-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-governance: Delhi broadens scope for using AI to deliver services via integrated portal",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcHZ2UXlMd3FRUzB3VlBYU3VnM0Q0Zi00X0x0bVJqeEFMMmFfM2VnX19ieHpwNnN1em5ObmFUMWNLTG9HYnhPekVoZjB6Z283VFlXQ2c3YVl1TEJES3pMR1dlZXJWU0IzdFA3eTNYQ2RQUGhyYkJxTmVTM2ZTYVBNM2EtOGRJXzdkV2pmYnFwNGc3SmxpclgwcUxnWWp6QmFQWkNYRU0wQkE3bWVZbjYwSVVlODJrajdITElpaDk0UHhjWUhTNXZmVDJhTGFKTEhCQ0hTcE91UnB1WjlEbjRPQ3RkeVJJNkZiWnlrYjBKMXZrdTN3T2VodNIB8wFBVV95cUxNYl83NzdCTXAtN2dmNVA2eUhwbXhjTUFkd2x6OUhRaUg0eUlzeEtQejEyamNDQlYzVHp2WmdhT055V2N4NjNUdjl0RkJDNFUwaUNOb0RkQ04yM2Q0eWJJdU9DRC1UbUhGdXhHTVRyMEhKVlVuOFVWMGdYbW93RXFFVlFiNl9lU1I5a1dTNG1LWlFzNENwLU90V18xOFU5T29KdmM0X0RmREI3d01JdXpQQU5Qd0ZhS2NqaVJRSVVnWDdyNFQyTUNBa2JIbDc5RFFvUjc3NFZKSkpONGdMUTVlaHRYSVRVZHJpSEhqSVdDeS1RRm8?oc=5",
+   "published_utc": "2023-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AIIMS Bhubaneswar ties up with IIT Bhubaneswar to push AI based healthcare research",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQmM2bXpMM1dEalpQSmhnbGFjeGFwUkFWa05wbjRyeDRLMVZuYkh3R1Vtc1A4VWpmMGtpYUljY1AwdmVCcmdGcWgzVm5ZUmNIcTJXdlZoa3l4MGI4anNqUEkxU1Z1dldpMERnamF1djYtQmZ0U2RySzhMa2swLXg3SGRLc0ptTGVCLUgyQjBoVVJmeWRsX2V2SW1nM0dJLVh4Q2tHSzR6Q09qMVlEYWJwbmlHX1NndWtaUk5DbXN0bWJfbndoWjhFQ21nREZZaHZaY1pvNGoyWTltTjd1U3hXUGlvSmxLLXNOaU5lWdIB8AFBVV95cUxNWmliLUJINnJ3V0Q3RDNHV252REt2bURWYl9qclo1SmdCbk5UckhweWN6SnZKejFlWVFxV0Uyb3FmeENydE9ETDFGSS1tSTlTdlUtRTVRbWgySG41N3FtN2o5MC1uMFB2b25zOVRVNDYtRUFZQ2F2NWNmRDRSM2I2ZGpaRUI2MllIQ2I3eU1uQV9hd3dZUk9UY1IzUllwZUdjTzJiMnlyT09Wc3hzbnl6M0M3bWZDQWE0aXBCdkNPYlFTY2o1LTJSNGppRDVBZzVaZ3BrX1AxbVB6aUZIV292YlBTcDNBY2VUZTMyNi1UQXU?oc=5",
+   "published_utc": "2023-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: State to offer six verticals under NEP 2020",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVhxVTdMMV91TExlUDU1SmY3YlZUM0lEemt4OENxbksyaEl1YUNvQnM1dVJlSVAwYjNrRXJEcDBWZDExSWQxdnFWbDFxakVfVEpSblNDQ3RiSXYxRnBxV1F2dzhYT1RmaktUazZiWjdlaWc2VGNOOEFJZWxwbUlZT3lCTVRPOFBxOGplQlNhWUMxcm1HclJWbUVFM1dMUdIBowFBVV95cUxOeDFzNTgtS01qNTVRWlY4WTBkQUFUczJWN2Fhb1oteWVyUXJVdFEyeXZSM0ZhR0RhbDNXUWE5M1pweGJERUdSMnhCMDN2OUdrTDFlbElwT1l0bmhVUmVYdTVSZEZtQnVXd1EyMlNtQjZJMF9ZeVkxVng2cUxxaFhva1lfb3VLVXpMd1hlN2ROUU5pVERLSWRtNkZZZlN2VHJwR1c4?oc=5",
+   "published_utc": "2023-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai: 600 students held back for low attendance at KES Shroff College",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlkzTkpIajl6cEE5RHNOdmVEMDFuV0wxQ3d6NHFfZXBaSEVNZGNzMlpRTGp1a0t5bEV4V3pUcVdscFNMUVdyNkswanNQUDlXMDdxQmF5aHVIdDc4MXdIQU80aWFJb2dzam9VNWhibWIyLWt1c2RrWXRhNGNORHhCNnNqYzQxNWRsMnNxVlhPdmxHTjV6NmJOQzhSZDY5VjJMYWdVbEdheG45UUxfUHgzMEp30gG3AUFVX3lxTE8yTnBlSFItUmRaUER2ZE1ENjlGQ1JFRnBRVHdqS1h1WllCR3p3eExfcmZaV2owOWczOXZtTURycUQwSlp3WW9vX09EUkNGOHRmNmE0ZDBpSUp4N1FDNUpGWmdNS0pIR0dONkVhejZNTkloNU1QVjB5S0tUVl9JZGhCbTIzcFViazlZSWV3QWlLYXpqTDA4UlJkRm1IWk92a2cxejlsWmtxN2pnV0lyZEctQkZqZU1vZw?oc=5",
+   "published_utc": "2023-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

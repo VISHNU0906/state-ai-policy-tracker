@@ -1,0 +1,85 @@
+{
+ "query": "\"Assam\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "BJP-ruled Assam orders private madrassas to register on government portal",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYlk3THd1bHVIWFpRcDE5c3lqTG9EYVl4LUpBYlBBNGMtbjRVeVJ1WG50bDd1Y0lkUnI0SzFCdEs1WVlmZzduNkt2TXFmOUdBZ29NYXVrcS04REd3MWdNeGxpb3VzUWxyS1Nzd1M3SGF2cEdjb3k2WEZfTlFmb3pCZTUxTjBoY2Q0OVBORWRlTHFqa1FaOE9sakk2UkxBTVV6YVVFVFBCOV85dnVJejBfR0kyWnhlMmFPUnZWajRGSk8weUxyTk9EMjlGREVKTk850gHXAUFVX3lxTE0zNVQzYVByV2g5MkVDWVNRbVdmX2JudzR1SFNrcmlwM2JFUTBQc3RPTFpqNWVfcDBra0k2VlFWUXBENUpyZGxISFc3LW42ZjJwR29hY1UzSlNsRDR1cXdrRzZRb19naFllOHFLNjZGSnYyMlp0Q2w2LWs1Vmk1bEgyeU5wel8yOUFvSUd6VmtSbHlYTmhXV1FuN1llVS1aVTExLVBPb3VGcWFHczV1Z1Bub0xYSWdZYjBWSGlmOVRsQlBMb01iY2trX1JHYWpkY3NsYTlIMnNF?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam's Himanta Sarma's Controversial Remark Amid Bangladesh PM's Visit",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVVFIMVltcnNpUE9SNkgxVVRkV0F3cks3dE81Z2RQcWV4aGR4bWczZVphbzJfNkJ3RXd2Q3FiRHJ6M2tsZ2dla3RPWmk5SmQzTTZKMHgwQVp1djZTNk1CSDFad3d0WlFQdEM3cEZWcl92QXVsS2YzSFBaSkdXREdkNElEd0I4VmZCbzZ1d243RFVoX1h2TkNUWl9XVFh0WEdJcDVWdlNvb3Y3Ny1LRFJabk9lVFhlckRBT3RIMVRGc3RROU16ZWowdUFya0J3YnBLa2tnS3Jtck5wR2pvZmdNTm5ETE1maFBMYTB6Z0twSE1fMGJTbUJZ?oc=5",
+   "published_utc": "2022-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Chief Minister Himanta Biswa Sarma reaches Delhi airport",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWk2NnBLaWw0dkQxQ05VT2pmTkNjMmN2ZTlsUjluaDJVQ1FMTXZZOVh5MVM2X2FfT0FvOHJqZWZlR3NnWlN6azAwZk1rMXJra3BZcXNid19kdGtZVHJMVV9sbVVIbGRWbzA3aEo4OTN3bjAtNzdrSHdycmRndWdjVDRlcURYcjVfNWtISk5EaHM4akcxdWpzaEg1UExsSGpxS2xhc0VWTnljLVE2UHJxZ0d1ZjFuU05wNWt6V3VNaWhtSk1HNDN4MkczbFF0d9IB0wFBVV95cUxOdWoyZk1nTUxXRF9RYW1VZ1g5S3haY1QwOHZxd0pnY3hqOV9rUkpKcVJCTmpZRUR2SDIxbVAtOURKU0RkTXZMTmhRYmFLdkh0R1ZEU1ZZMkdfbWJma2VadkpnSWgxejM2S2ExaXIyZFdWTkdwZTFLeFZfc2t4UHZkS2dIRlUxOTdybGk4amFKNFZieFFlNjFEUEdWeXJ2cFFxeTVCUXF5ZDdUdk5GSWxvRlpnNlNzMW9ZVXJ3aXlaRFBjZ3gzMWNKVmJkZEZUV19GMGow?oc=5",
+   "published_utc": "2022-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Curious Case of Victor Das: Assam Whistleblower Slapped With Criminal Charges",
+   "source_name": "NewsClick",
+   "source_domain": "https://www.newsclick.in",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMUxvNFVKdGlRclo3UU56VXBQNFlxVDkxX0lXa3hqWVhUR1N6NFdnd0t3QnZNdXJsMF85STF2ZEpBcmFBZnVxOTFUdndLWndkRXRkWWs0cGRrQWtHRG1MM3Jtd1cxeldNZFdVOXpKOXdIWXdMOTJYOGNUbTUzblFVUnpYSkpVeEJjc2h1ZC1fa0JFanlwUnBodEk2TWs3UdIBowFBVV95cUxPdXNySDVYcEdOR3BfUlFNVThnU0FLYlh4bUlKU01td1p3LU9YRHZaVGdKVGtKdGozcHdhVWVsWFU3TjhSaEgtVXhvS1JtdG1BWm1TTkNJN1JqZFdRMGFxSktuSndpZnBTazZHMlJnaFFkbUVjb1lXS0MxNjRIUld2SEc1SG5wSHBkVW10aWtoRm9ZaWpYTjlWQ0YzLTRpYVhlZDBV?oc=5",
+   "published_utc": "2022-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Joymala’s tragic tale: Why Assam government has decided to take legal action against Tamil Nadu over an elephant",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNFN4WGUxOVNsN2lOalpDX2JIWHJyVG5GZ0ZqTy1JekJYdXlHRDY5eHVQWkRnSkdLT0JNOHh5Slc5SzNVejVrNVlxdjFkeFAxRXNiemJoRzhRTDVqdmNrTVF4Y05EelN5b3d5QktCVkZ2Zzd0M2c5MGFWenBQZ0U2aHRPY0Y0WGprRFZBUTFkaGQ1bVVCRXNwZG5BZW4tZkNNU2xlTUJseFIzSTJuaUhkWHV5QnZlaTNpYm1iTWhYMTJ6bkVCWWJYb0lCQnlCSVVBY2RXN09INGZsWTJ6YUFJNzgySEFmUkhMTWUxcElOeGdkY1puRll3N1F2RUoya3d6?oc=5",
+   "published_utc": "2022-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why the Assam government’s new measures in education have triggered a political backlash",
+   "source_name": "Scroll.in",
+   "source_domain": "https://scroll.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZW1Eb1kzMEs2eTFscXZtS3B6Q1pVTDdtQktFODVUT3g1VU84b0dXYXBHSDdZdnVnTTF3Q2JPN3I2dUZFYTBXbTZvb1VlZEI1bkpFUmFBSlhZRG9HVGdNMkdRc2JoUEZWeHI4WE5sVzF4OHFReVpVRmV0ZWoxMkthaHFFeTFoYUQtQjRhR09BWVVnWWVsUldRWkk3ZEtSLURwd1NEM0hPclRYWlpMbk1oNFNDNnltNjNGbUplVXVB0gHDAUFVX3lxTE11Q2dkTmd2VmJyOXBCQnladVNmSm43SUNlYzJ4cTFHSThuT0VYZXBwZmY0enJVWUtJMGp2bWJYOXRnMW1NckNIZnlJUWJ5R1VIaVE1cWxRRThnbWJ2bnBWRDhBc0wyeDJURjFPVlFTZXY4VlhuMVVRRk4zMy0yc0paWjRtX2RLRnotaGVKbnI5Y2RpZjRObWtPazBaa0RNRm9ybTRKRjlmMTM3NEtJeFRjNXdCYmdTZXk0TVRWcVRaUXV5MA?oc=5",
+   "published_utc": "2022-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Chief Minister Appoints Medallist Nayanmoni Saikia As Senior Police Official",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFkzSGhGSlU4djJpQzBkLTFDSnFxXzkzenYxWmVmSVRfYTJlbHIzVGNEZlp3elJtZ0N6OEVUTGRCMXczQnRhMU1DNklpYmNaSi1ZbEZvNVk2Z2hOTUxOU1hocjZaMWdhaG5KeFEzUHVBdG5xLVlQUHNTMjd0bHdoX1J3RGQwUDJuWXhvd3JIQlI3d29TVEJiaWRFZXNDU25jUXlyT1hsdi1fMHloZlhxaW54RUVnVkltVjNhNC0yUQ?oc=5",
+   "published_utc": "2022-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Chief Minister's Rahul Gandhi Cartoon Gets A Counter From 2010",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWt4UXNhOEtNMFkxekNwUDBBN2xqc09Md2NIM0RZajRHSGtQdFpFQ21adE13R0ZGcFlNdGk0UVNZLTA5dDcyQTJNNmJkblVVZHF6dFhPeE10WFNpajNXN2FsUDlSeGhDUzhYS2VlRUFQT1NLMGNjUWZRYXV1V0t1ams5Y3lMeUUtRzJPMEh3VWoxbkpEam8zN09rVTl1TVcwaDhWcHhHekFQOFF1YllUSHdFdkpMcDJuX1oweGtB?oc=5",
+   "published_utc": "2022-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Himanta Biswa Sarma, Jaggi Vasdev: Row Over Assam Chief Minister, Sadhguru's Kaziranga Park Night Safari",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNFM0UFZLa0JDdGR6WmVwZmhUYUFzazBYMDRIR0dsZlVMcnVqWXlUU2pNWjVGUkM4UEo2bmE1aWMycU45eFBnSzF6aktIcTVYU1Z1azlUTi0yT0RKak5Lblpja2VUWng1emx6UE50ZExmaTYwSTVVaVJfbGswemVQTjN4NlZKYnhMWG43RnljZTFZdk90VlY3bHdWa1ZpaWhNcjlNenhrTjRISS1DYmNrcXdMMVBLekNfenpvbC1ocGJFTm5qYUY3N19xdE5oamdhUF9DVXo0SXAxY3d1LXZMT0wtbzhOR294TFhUaVVEc3FRMmZSZ3lQb19R?oc=5",
+   "published_utc": "2022-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amid Assam Vs Tamil Nadu Over Elephant's Custody, Centre Tweets This",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmtsa3l0UDR6N0R3OHRjU1M1TEZaXzREaDNrck9SSmduajgyNUxuRC1mWHdmVnJDVF80TUFXMm13ZFdTSmV4SUlUMUxXT2piM2E4c1p3dUdJblFiNUxubVlELWhLS2E4cGdkd1dKNncyNFliSGhfU282N3RucldBRWZzVW9fOUtleWNoZFBaRVZIVS1hNHlhZVdpbWt6T1JxWGFTTGNuX1liTnkta1ZyVVhR?oc=5",
+   "published_utc": "2022-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "Inside Tamil Nadu e-Governance Agency’s AI for good pursuit",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3BaeFIwUzltMVBkc25zVlZ6eG5kcnRlcEFxME83OHdURDhCRnhDNW93dGNuWG8tZ3A5bUtLenNkMlE4c01heVF5dEtnR3lpTTg5T1E0OTRSRXRLYkk1bGVOMGtLSmFWMVlSNER3R1cwUW13WTR0SXVWOE81Rm41dXR1aDI2clBRclo5MkFTTWtzREhp?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 7.2 crore alloted to install e-cameras in Coimbatore forests to stop elephant deaths",
+   "source_name": "The News Minute",
+   "source_domain": "https://www.thenewsminute.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSGFjMXBpaDhpWFNObGdwSEJEUVQyY016ZUZWeVFmOE5HanFVdUttTTNzdjVyMUJKNVlGbmtQMkxtdG5SWEZzcmYxVzNxblR0dFNFTm9vRk5hc19pd0gzWnRQc0FWWVIza0ltRXhKcEtiN3ZyRnhPUHdjUDlDeThaekhsaVNjZzZtRFBaR3V1YkdSZkRQQl9zeXFVNy11QW83R20zLS1qUXAtZGRJdUVGRmVtTVFJOGdFOFhKdDlyeFJ3cmfSAdABQVVfeXFMTkpGa0ZQdkE2M1pxSkE4NUVHa215SFRhX0lBOUtOMUl5cDNJQ3hRNkdMRXJ3MWxrbUFBdTJQNHN5MTFNZmRqOWd3bTRXVElaZWlodVFuMlQ2NGlzLWJjd3MtcXZJMl9WY2pRbGdyYk9uREowaXM4eE04MWo0ZVZrSEpKb3JXMjRjYlhPTjI0WjJTTXBHN1Vib1EtUHRxdVNnQUZDSmNYMGs1VE9iTnlZMXJ1azFrWjFqX0NXam1vNjhrRm43QUFIMkNZTUlPMnItMQ?oc=5",
+   "published_utc": "2022-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata Technologies to help upgrade 71 ITI Institute in Tamil Nadu",
+   "source_name": "Gobierno del Quindío",
+   "source_domain": "https://www.tatatechnologies.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMGQ1OHhvQ2VvaW11SFZQSWk4Z1FWcEtJUFBLdVJFbnMxNGtHOUt6c1Y3dVZ6dktnQ3llRTNXTElqZ2paQVZSNzNZdDFfdFNRTkVjc2xpWG1SVWR4R3FOOU1rN0tYWk84NXRhOThuRmltMlFlQlduTWY3OUlwd21PdHZ6TkEwVGpQWHgtMFpFTjFPeUFXR1hVcHJOUjRCUU5pUW1UN2JVdVlic3h4X2tna2h4aENFWExPaWkzdGVzUV9MbENzS0I2dWVkdEtfX0paMDdmLXBIdl9obXM1NllTT2RYQUpBLV9wWGRGRVY3Wm11eU1RRHN2T19oUm5jczdjdk94aFpXY085UWo3a21hMENkakxnS3cyQVlDSg?oc=5",
+   "published_utc": "2022-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mobile phones won’t be allowed in schools, says Tamil Nadu Minister",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzEwcEpDZGlPYzE3SC04RGdUNy0zbk1GcjNScHozNVlVWFNxOEJsUXFQQkZBZ0RqaFR4WmtIcUhyTWpwX2V6eEVyam5xSjJwbC1EenBZVUptaHZaWDFZS3l2ekgxNUtBZktOTmxuWEk5a2Y4NFdlNVFmTVpWeG9oRjBaR2FqYUktMEtrYjgwSkFrcE54cVFldThLdjZ2bVJ4UlJmNmFCcktJSXFUWEhPTEc3OG1SZW55aXNSNkQ0U3XSAccBQVVfeXFMTmN0WlVyemNtSW13c1Rlem1pUXdmcnpQREZmVVBWTHlOSzNBdVh1dklWQmJBMUFRbHhQaVZFZF9GakV3Tldib3BiNl9TU0hORHJ6MmpMWHFjcGQ5eW5DcjkzTGhVaXRUTWdkRVlHcWxPcVZiSHctRHlMM1NWY2F0Z0YtSlBCTTZUZGRfanRvNl91VXZQV05Pa04wTTk0S1FqWHlZRFhrQnN5Ny1MNkx1VThKZ3dxUGVpVTBZWks5R1V1S09yMWh2Yw?oc=5",
+   "published_utc": "2022-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Give Early Assent To 21 Bills: Tamil Nadu Chief Minister Urges Governor",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVFlbnc1N1ZyV0ZieWJ6X1VzbFIwUzM2S2hVVEZJYUFpV1ZiV0FlalllN2tTenJEMEZjbllmQjdaeUtDemFheXZuTkwtbVZkN1N3Z0tDVnNJcGJ4dEtOTEtwa2xQZnZyRUs3NkRQU0phNjZ2S253N2FRZzlGUllKUlNkMVJXb3FuUHFzQnZlVGZvYmVpMEZIQ181RmwwRFFfbnJWU2k1NVdsZ2VMSmZZ?oc=5",
+   "published_utc": "2022-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Tamil Nadu Minister warns Madurai Adheenam for 'political speech', BJP hints on 'bad times'",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTlFRQms5ZnE2dXRadnFBdldMVl9ReHlOZGxfY3NVeDdSbnQtaW8zckpkQzFRWDBkcVFJcGliamM1bGJNT3BwR0RrVWNKVjlvNy1IRzBsZ3d6TjBEMVg3S3V6NDlmRDFQTjJxVElWQzlrbHRQbVlwRUlXZlRsMlMweVptbEt0SVFLdG9kelNTQmxaeGsteEZvZ0Jrd09kZzB0S1EwODFvOVVRZ3lyeFNzVnVicVI3SDI4X01COUpFUURXbnNFOGVCTVlFRlVqcFgt0gHWAUFVX3lxTE5DOTEzdGRsR1RldWpVWmI4N1A0RWQ4R3g5c0ZpRV9RYmgtcVZzcFpxejAwS1FocXIya3NDWVAxMU14ak9uUDJhcG45Q0lZVEVUX0FERFZ2czFoNUVoZWZ6Q1BVUzhTZ2lXbzNweExzSEUyNXVydHcwbkI0c2ZDR3lVT042RHY3Z3pJdUJKSUJQdEppLXF0Z2JWdll0dkc4S0VxSWtaMHpucWZ2RXpLa1pJY3h3ZzBuQ0kzLWNJOEtWeVF0WFFEUlhHYzRXcEpkRkVXY2N0V0E?oc=5",
+   "published_utc": "2022-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Abbott Healthcare faces 5 year ban from Tamil Nadu Govt agency: Report",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzlCWFc1MWxHY05FTHFTOWRPWC1QX1JFel9EdDVZTlp4LXY0Um5yTTdGNXFPRExKNDFrYXJ0LWxoZ0QxV2x3ME14Qm1FWjlfZF9yV05zZlFGT3Zsc00wTTRwcElOOExWajF1UXVmdE9MeUFBcExNUGphWWFyOTE4UmxsMnJfeTNUVXZFTnBmRHRkLVgxR08zcUxrdkRxZFh0TGZnOC1JVkc1b2NmQUNPdG5UaU5JalhQcHRyanRBVktwZ9IBxwFBVV95cUxOTGlndnFyVVNQUVROUjg3UDZ0djBDOHJyb1l0MWNESTBaWnJLZXNJMG9lX29ucTdxMmh0LVBZNG9Ud2UzQW9EWEpqc21LdGYzZjdyWkl3SW41R1otWGNhN2JOV092X0Nzbkx5cE9ESHRHdWcwQ0p1WmlzVm9YOTNicXBFZmNmRTNmU1NZU2ZPUzJyNUJOYjNaYkRYNUZxWE5CaVBFS29rWVNIbm1WVlhpSUtJa25OVFlpdm5yT0VoTHhHUzdBQmRN?oc=5",
+   "published_utc": "2022-06-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu minister N Kayalvizhi Selvaraj unveils community hall for SC/ST in Karimangalam",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYWhpVExVNmxzVkVRU1F0WmJjRnBBbzdwbFZaS0IwMXZCTnJNZUx6VlE3dFJNQ3cwaGp2UTlYajlyNmdnM1VrVnlqQnZZbi0wYjM2WU0wdXY4NWN5a2Z2WnBDQUlZSG1zclRpaUlFdi1xMm43WXFsUkJnTndGbkk3MWsxaUNETG83dXFzNmhsejhDTVNhRzVQcGxJazQ2VllvRndnR2tINXgzQTI4ckloUndDclAwYjVWWUhHWHNqekVXLTc3QVpSNjBHME5nckJuVlQ4MnBqSmdtVGUxbHpjejBtMUl5OWpfZjlqMUFNSUw0SHBrUkHSAYMCQVVfeXFMUEg5c2E4YXhQOC1Ga2pxeE1lcmh0QnlWeFZHdW1RRE5CVmhQd2E4Tm1SZldPRy1MSDdVbG0yM2t2RVNvdXptMmJJVkJ0U1NsTzhTZDNKQ1VnejcxVFZfX0ZlelZJQmhSWlBpNGc0clBkbmF4U2RWVU5KUjMyWVNlMkh3empGVUxiQy1RcGQ3RW5TOGNaN1B1SjdXWkZ0MlBndE83RlhjekhHdHNVV0RkZVNUY1kxZ1licFpHdy15OUMtSHg1cVZaWGhaZGZkb016aV9PdF80NmZ3bFhvV0ZHODJuNGxPY0lUa0JSd1M0ckJNUERPaTJQS3o0azMtMTdwclk4Yw?oc=5",
+   "published_utc": "2022-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN Finance Minister Palanivel Thiaga Rajan: ‘Don’t know of a single state that hasn’t asked for extension of compensation… it should be a GST Council decision’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTdIQ0F4enpCU25RanJMNmtqTEJnTTV6VDJJVkhvUWtpSm5NQnZBYUY3OU9SLWxHRlBBdHJBLVF5T05kRko0RUlFaHhPWktDY2I5NENFOFJVeXJmWG5pOFFzSnRXbmtwYWxRcldHTkdoVGdHVlk2SWU5dG0xZzhLMVJNOWdnSDZFcmFhY3dIeWZ6N0tTV3lfNi1kbFhEMTN0a2VQZE4zOVlQU0VLV0FJdFdqUGlSdFBoRTBtQXpCeUU4Z9IByAFBVV95cUxPd0xHZVNQb0lRWXdDclJCTlV0cjNGSUxKR2JoaGdGR2J0cVpYRVlxZWRBOTgwaDl6emVHVGxJUmNXeWRhSEowc2JkbGo4dXc2cXdTOU1Tck0tcVR6XzZsZlpRMjlKeTEzb09FN0piUlpDeEk4TDkwVDlMb1JqenBLX0xkZHZ3MHRUUG5STFYtWFlKT2tBaTZzeVpUUzdja25lN0NfQ0l3Nm8xNlc0enVic1JsRUtlSVFScVRhZVE4QXJndXdxOWRidQ?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu transport minister S.S. Sivashankar inspected the Switch Mobility’s newly launched Electric Bus. Switch the EV arm of Chennai based Ashok Leyland launched ‘SWITCH EiV 12’ a new electric bus in Chennai on Wednesday. The buses cost Rs. 1 cr",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZVp5MUZOYmtrU1FZWXYxUDVfV3pNdU1iLWJVaE9SVVk3Z3hqaE1TWnJxcWQtYzVYNnpPS0xsNm0tWTZBb1JhS3l3Ui00U0ZtOVE?oc=5",
+   "published_utc": "2022-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

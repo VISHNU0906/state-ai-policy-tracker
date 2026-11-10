@@ -1,0 +1,45 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Submit recommendations on integrating technology in higher education: AP CM",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQWZxbVFDelJWY01hWVNNZUlfc1UwOEh1VXFPY1pyQ1ptYkZ6YmdpanRDakRJUy00dGZuelM4WWdiTUF0REZSa3llNUR3ZEFlRG45d0JFdWRvbldkOGlNc05LU3NxWGJfaVJnQmZ2bWxJeWo1dHVoVXFaeGlqVHpfWTEzcS1yOG84N0pzZDJXb3pLZGExUGtWUll6UmNsaVE4TGJxMEs5cDlpNERGcW42eEtONUdNcXRWQ3ZmTUloa29mU3JzTFdwUjQ2NFJwQXROMllkRTZNTjZZaDg5eHVET2NpUVhsNG5aUkHSAeQBQVVfeXFMUDNhSi1TcnhETkZJWlRiMEFVUkJkcHJNTlFhdEp5OW1KZENrb21YY3ctTkdxSTlMX2VHazROanpqaGpqVjFqckFacUNMZE5fRkM2OTZvODlhN3JNS2owTVBtLXg2Vm54ZlhuNlI4WURIRlhXdWlrQzhCbWJhS1lJWm0wNGhTaDFzZWlhQi01NGtXNUVvSkVrS0k3dEFlY2piNTNfLWlHbHk1MXV4eENnS1daMFF1X1NRbGo5WFNOR2pSN3JQX2Z6dnJOR3B0d05EaVlYbDRQVlNYbnhYdnhVV1dnVE0w?oc=5",
+   "published_utc": "2023-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Schools Bandh: Telangana, Andhra Pradesh schools closed today as students’ union calls strike. 10 point",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUTY3by10NzhDSHUzQ3RlTHd1MDNycmFYTHZuX2FjTUFud1FidHlWRllLdlZUWUhXYUhwZ0VjMEVsQTNYSHBENU84d3FxRm54ZUw1WmVMTWRjZER1a3c1d1FPaU4zVVA1MGVYR2hOMFByU0dJYVpWa2ZGS3BmMFQyNnFYVHVZWlJlLUlyZW9DZVREVk5KaGM5ME9yclJSWE95QUhFcVlmWmRhbjY2MEx1TE9nMDJNdjJ4VjNhZmhVczNILWVLWDNlUzg0Nmxtc2dub3JtdHM0d0hGSWw1eUlHUW01VmN4bVZoZkVz0gHwAUFVX3lxTFBKMUdkU01GT2xoZXhveWgwd3hIMXJseWpJY2tMREY1RkhHdXdGQzUxRXdaVnUyMmVNODM2Z3RYSEczQ0FVYVB1aC0xTGNlN212bDdabWhHTGZOV0pOTmFia2pBeEllMkpTMVJXekFXRmsyaGMyX0NVN0JnSGlSV3U4TW5aOGdXaTdyMTYwXzBJaGk1dlRWd09sOHkxT2dTblQ0cEF2REg3VlF6LUd4bHA4X09yOVhldklrQXI1bENCemR0RzRzQUlvb3lBRG44R2NQRmRtejA5Mzl1c05heXJ2SzJZM3hKUFJ4clFqelY0cw?oc=5",
+   "published_utc": "2023-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM urges for adopting AI in education curriculum, calls for integrating AR & VR in medical syllabus",
+   "source_name": "Web3Cafe",
+   "source_domain": "https://www.web3cafe.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVVZtTFNUd2M1UDI2Y1hFa2Rabm5IdGJWMjRfRS1pQ2JLRmI4V1dsMU5LcERYaFlyWEJnaWpZek0tYkNuSHVQUDhVMWJtUEJLNEVNSHpINGF3OWFPcnY5YWNEQTY5dU9GT2NBYU9wUXJXLUlMcDNaVkdab1pLTUxQdmphVG9ORlplclpYaENIMGJhYlBMQVROMEE5N1BGZlg5V2xDXzNNbDF4Q3VhOTRCQ181LTV3NEtrV1dCalY2V3pDQkFRS1hXbC1hTVlaMktBYnpvVjVDbHhWX1ZHNV9pQ3lhM1VLeDlUNWRHWC1qcWM4S1Y1djVjUVdZODN0bUR1VF9EM1otZmt1OEtybUptcFdSdTdGOVd1b0hZT2tsdndrZnBYY3I5SWxYNTfSAbICQVVfeXFMTXFlMlBzZUtsNnZZTnJCdE5YUzVTb3RNRWlkQVBHazg3bVIzVUFIU3M2MVIzSml4WS1KWVVhbEFMbzhHSGREaEo4dnJiU3NhWWxiQTE1Ym50SXhaWV9sY2pVbVZad3g0TEdNNnZlV0ZfNzhEMWVUS0RMM3dZVVpRN2stV0RXbzNGb3NmTE9BRF9TQkFDZDluMk5DdmptVlR6bFZoa3lORzctVG9Takpxck5fY2FPdm9saFNKRDhXYVhnTl9TMHpKYzd1MWctUmJYQmF0eGt6SVJ1TGR3ZV9NSEM5ZTh1TDczTEY4OWdGUGFOdGNJN21qVWpkMWYxbWRFM0Y3X1kzY2RxN3R0MVMtVjhpdmhOTzVaWXA2Y09EQ25JbWxYb181ZjRXQzRVNUhzbzZn?oc=5",
+   "published_utc": "2023-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Fields to PhD: The Inspirational Journey of Dr. Sake Bharathi",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWFQVVJSYkUzMXNySnFzeHdMU2J6dzgtU3cwTVdoSHoxZk53ZjE2MHdHTm5jel9uaUFBWVluVkxmeUxBWlFJT0ZBVlgxbmZvUzlsejk2WG9xZURfa1Q4ajRPQ1JYbzBzLV9hQVpLZ01IS2FCWlQzUnpwVnNVcnVPWFJMOFFtUQ?oc=5",
+   "published_utc": "2023-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2500 bicycles distributed to girl students of government schools in Anakapalli, Andhra Pradesh",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQnJGUEtiNms0MnRqenRlVW1zUGRxc0d1WEJHbHlfZWVKc1RQc2dUTFZiTVFKQ1FaaDk5VTEzMXpXZmExZy15UWp6eTZvR1dvUlFBb25renA4bU5lanBkRmJhekZhbXRwZzRnTnZOMENya1FrUTlvd1dpZi1aSHFzeC10Y1BmYWZ3RE04cDBnVDAtTnVVVk9fMDZqdUFBb2ZsSzl6RGVKbk56RVN3aFhOOTg3SDFWWDVYSWhfQ3JKWUZfZlBCcUFIU0NoemctYlRDQ2sxM1ZENk1NWEFIVTRHaHUzR0hOdGNNU2U1WDVoN3g3MHN2bjgtU2pmaHRsZU0?oc=5",
+   "published_utc": "2023-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

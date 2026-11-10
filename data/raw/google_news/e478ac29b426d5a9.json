@@ -1,0 +1,21 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh Sets Up Anti-Narcotics Task Force To Check Illicit Liquor, Drug Trade",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeEJyRFpTNTVKS0ZpeW5rdDdfclRzZkp4QThsZG1OdmMwQmFSRTJjUjhOcTJWREVORWRHd05ROXR1TmhES0xOSXRKZEotcG1UOG5zRzdXM0JEU0F5ZFBDYWJSZnBfQ1Y5SjBkMnRGRkNqNGRwdVlPUXd0Y2tod19Cb3RrU3d2ekZmdnJzUmZkc2JqLXdhQzF1T3Z2YV8xdUdZRGNsc0Y3MWVCdGtmRVhNTmZMVGc0cnE3ek1WaVhZZw?oc=5",
+   "published_utc": "2022-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jal Jeevan Mission implementation lags in 13 states: Centre",
+   "source_name": "India Water Portal",
+   "source_domain": "https://www.indiawaterportal.org",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlZfbWhpbDJ2SXBDRmd1SU5JaS1fbDBJbWtoMjJXanJrMmNmT25MOFpzRmRqNTZJSU51VmFQbEUxT3NVSjBYZThiMHozM2h1ckE4S3htMlVMMU9LRnQzdXNxbHR0SmVFNmxvN1ZSdFVCVDFqOXNld1ppcnVBNUFOUEhYUzNSQzQxUThRWEJoNzA5b1RrT1VwZ2FXbTJDd2FJczlDQXF30gGzAUFVX3lxTFA3N0JjaG9obzhSVkVtY2ZScUl1WlFUam9xV09ST0VWc3dDWklfSWRuT3ZOSW9LdjhaaFdLaURzTWtrV1JKQWtEa19iUFVLbWM0RHN6YzZ6RjdoaGhBRjhVcUhlWGZrRWFGZ0JQcVoyb25sTWJuSmg2Vk9rMDFIdjN4QkdlR1c1RFM1cnZibldHb0JoN1J0eE9sbmN6bnBmbjJZN21CR1J5eUNNV195TEwzcGJj?oc=5",
+   "published_utc": "2022-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

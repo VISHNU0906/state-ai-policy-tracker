@@ -1,0 +1,29 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Tripura collaborates with NIXI-CSC to set up world class data centre",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzY0b2xBRi1SeWxBd0pPdU5yUE9sZjZZcHJLM0ZWLXFNY0xVNE82c3h3WGNCbGQyY0QwV2xXQnNnNUtrX25tVUFJTFo3bHRIMHllOUg4VF81bFBPQ1pGSjZleDU3bDNfbTlndWlzNkdpM3VCaFU2RnlZLXZxQno1dldfQURCanJJVElqMjl0d28yWjNTUzJjcDNBTmNMdDViVU5OczRoX3dDb29lWWItbThKVGRBYjA5NVdsVXk3M1lOSzJMYlZiV0tLM3FPazRocHpoTkdJZ0JhdG_SAeABQVVfeXFMTzRSNWNuUmRLSzYycHVtWjloUTQxMjBVelNaRDFSWGE2Ymo1emJmZEY3VXNPbGZhU3ZQZEFkdlVjUlIyN05wWXhPbjNiNTVKS0E4eGppSlAwZ3NBaVItRUNEWl9HWjd4YUYxM1BtdXRKUWpabmZMa082RjBKRjN2dVdWQzBlc0hsU2p4Vm5xcGZKOUt4NzY3bk5HeHd5MnZVYk1RcURkYjhYYUFlYUgtOVpxaG05dGVmSmFlVzVuN044LUNLNlo2ZU5RNGNrUjZnOXlxOGhyZXhUYkZaaUxoX1Y?oc=5",
+   "published_utc": "2022-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CtrlS to build Northeast India’s first Rated-4 Data Centre in Assam",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXYycGMtWENrVHRkWWhiLWIzVUJaY1FTNkRpUnFMV09PYjllUXJUMnJTTDRiMDRHWUNSZHVGZ3dDSDY2Z0UtUlphUm1CVjBERFRNZWlPdWc5YmgwZDdrSVRCRXlHRnlVR0pRYTMzcm8yTko3cnE1RkM1OHpFQ1MtLWtTbVBaLVlLQVpz?oc=5",
+   "published_utc": "2022-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to organise Bal Sabhas for children in villages on April 24",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSjBGcG8tbzlfQmxGUmg2WlJ5YzUtcnRlR3Z1V21sVFdtZmt5WHEtMVpZN2VQdUxDMUFXX3lfY05ZZFBjdGU3Zm9xOGRnc1FJLXFXYjRMYzFHY2N6SUh4aVN4dWR4Yng3UlNLYXBHeVNvQktaTjk3bXpjRVpMeElQWXdldktJR1Q4WEZyeG1KVzNoNHNNTGI1T1Yxb2RDdUZ0QU1WYzVyZzc4YU13akR6aFJmcHdDb1BsVnNYR2ZIanV4UUczZWdZV0U2eHpaSjBPa3g4QXJ1a9IB3gFBVV95cUxPUmc5ZFRVc3FRblBhUFZmaEEyd2VyVThaTmVBaGZYSl80c0lkWUwyakhqUDlTMk5qdktHeFlfQVg3OTJ3RWVPTmtscTczaVEzWjlqZmg4SFlzRHlVanNJMm9oTlpUV1hNVHV5ME1oZzZhaXVDd25sMjBKSnZGbmU3TVlSSlNFZUgxN2ljb0Z0MGdUME9RRDNzTFc4VDIwbldiM1pkdXJ3NHVYWFVMMVNUdFNGVlFlUUhIRHhVNWk5ejdHR0hLc1gtRjdwLUVZVTQ3SDd3endFTWRvVjkwYUE?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

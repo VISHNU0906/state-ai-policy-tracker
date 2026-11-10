@@ -1,0 +1,45 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "10% free seats in private universities for reserved category students in Maharashtra",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMUVFZ3ZjUXNWUDdjb2drWUFOQnlpbHJKYnZ4YmpIXzhyR1VvakxwVVExbUJuaVNEeEQ2YzdYTFJsTktjdlJGMzhVY1lYMmdzVHJjeTFmaHNYeGZvWF8xSlFpdnZSM2JWYVNmNGhBY2VOZGhyN2ktaTFWZFNhdWZKaXhfTmxGSHdmTG1zcGQ5LUlEanF0QWNScG9WSFc0Tm9jRFIzVnppQ29iUkhpNXhvcHVaVHhIN0lLdmFQT2pRU3FtSUc1MTRPcTZOMml6NmxHV2RPT21BdWlpLU1Td0xac3RzT05COTRjRkHSAe8BQVVfeXFMTlpSR3BTRkRGUWJmWV9FWHRTWmtXYVhOX2JsRWRpTjdjekRvaGFhMkVpOENRaTFwWWk0bGlRTW1IS0RjZ1c0YVFwMTNJdWJMVnRuNGZmeFJ0QVNISUpIQWYxd1dsRkNycm1oU0tJbl8xQXhKbDdtcTBVS1JhQ0w4Z0Y3ZGVXblRxcjJES0Q0UUtBUXRVVFp2QkpjbTVDWDNQOUI4cHNJSlJGNHFkT1Y0ZHdDMld1R0xhb1JTZ1JEajk3VGI1c3NmeVp2YXZDR0c0cXltaUk1TE1qa1ZEak02X3ZndnhjcktUWGhHd3g3VE0?oc=5",
+   "published_utc": "2023-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Lodha creates an immersive 3D street art experience at Palava",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHNrMThsWVZMSlR5bWhLSmJRU3B5Z3U1ZlE3Qk1VSTAybEh5MW9iQUo5dGhIOUFNYWxGU0gxc0xOVnBsZjdUYUhvb05UaV80SGJwTWRaQnBFMXpkcUwyb2EwUlNYaFUwQnlmaXp4OWxHdzVjdFh3WEVPejRKT0hqd0ZlZVBRQ3otT3dISF9fU1h5a2VnYUd0TzgxMi1pSXNWcnhNWWxiSXl5dw?oc=5",
+   "published_utc": "2023-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NTT India to double revenue, data centre capacity in two years",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdk1sMUFUVy16ZFhaNF9PNzlKdkZOTHg5clBwOG1WSlA2RUxjSXU2TjV0RWhQeGVKdHEyVXI2Zi1jc0M1aHhpT25IOUVjT3NSSkt1TG5rY2ZfVXdDRjljZzA2RHlpUzVpaE8yNFlEOElPNUVOOHAwRHlFbloyRDhFRHRLN190U0JOOE91WVRCTHh4ekY0U01tNVludTBENThuMnBXTEk2eXJYVGlIaFI5WGw0SnNpbHMyMkZUbtIBwgFBVV95cUxNdHpvQ2c2RDlLY2lUV19EbGtJQXhzNmFDVWZ0YWNYYzBEZ1RKZTlDRGhERHdYblYwYWd6V2QxT2ZzUEN5YTB2UjQxMGxQNTZoM0owOW1LN2t0dGhHeUpmLV9lV0RMb19jLUpnTm1DOFNqZjkwRU5Xam02WVoxbHh0TDQyakZiS1JaNE1DNVVON25wRmRiZEU3UU9NWElGakgwQUh2LWc3QWJYTVdMbmFFdTZaXzdpU0w0UGtPTTVtRGx0QQ?oc=5",
+   "published_utc": "2023-03-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Central Railway RPF boosts security measures with Dog Squad",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDZXZUNuRzNqWHdFMVJuZ0JtdXJpU0d5NVRRb0FkeGZtN2UxbTVrNGkzWEQ0ekgwdGtIanVFSmg5VVNLckFBcjNiMVg1STYzZjBraG9iQTVOVlhZWExibzdWanRFNFNWOW14alN4WmFNY0FjTmpqcUhzd2ZRT2RrV21Rek5zYWtRN1R1X21iVXp5ZkHSAZgBQVVfeXFMUGdSUE42MGkyZHRtXzBZaV9LVlNrQi0zMmk5Mm51eDNUa1hWSEJuRkZuNFRqcTU0UWJ3enJ0VmlhZ0VCWDF3bWZTWWJGeDd6OUV2NzREQkdLWGlLWHowSnpzdXN6aGFMblQ5Rm5ROTBHT1NtNm1iS040Uy03Mnc4Q0ZQYURqZGF4Unc4ajlmeVMxVThjdTROYnk?oc=5",
+   "published_utc": "2023-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sasmira Institute conducts Kartavya 2023 successfully; receives praise from dignitaries across Maharashtra",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZzBVek5zTWVvYV92bkZXZnpFYUczeU11RUd4dHl5cXJ4N0RvTExUVS1zQW9BWUFJV01NeFBQUTc3VW9XOHJiNkd6eTFXdmstS1Q5NXFDTjhfMnM5dlhSVDhOUlJfQTBIdkcyMWZiU3FObzh4c283aUZpaFV0LXFoYkFSZUZqWUlaSzYxckczcEk3cU9Gc2w5aGx3c3hSTndBejFmcEtYNU5XS19rNGdUaUZpeUQ5elNySVJQUkd0ME1DRk15ZTJGc0pxN0ZxUGNDcjNYTEt5bmJjem8tYkV3VdIB5gFBVV95cUxNVnU5dWY5R0Nha2loZHh6cUVnSGxZdUQ0U1ZLMzExMFVyOEF1X0drZHBDVTdOZVlDQUNVcWlnc0ExSGdnbjZjVnc4XzJ2aVhtTmpnVkRjVGZxMHc4RDFFZjUwc2lycEhYM3NtcTY1dHAyVE56dUNlNlpRa2NFdnl1dEZoOGV2d1Myb1NhUEdnR0NkVjhZRXVaWUwzREhDMkFTanBiZWRhTW10NkxaY1c3MGlDM1NXRkN0SVNTbW40R3FLN2ZNbTMtenpGY21LUXB0NWJwY3hJUFAwWU1VVlIxa0JEcjcwUQ?oc=5",
+   "published_utc": "2023-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

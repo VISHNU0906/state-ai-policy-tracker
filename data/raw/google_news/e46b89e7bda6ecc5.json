@@ -1,0 +1,37 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "India's First AI City To Come Up In Lucknow As UP Govt Invites Bids For The Project",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHVualBPTk1GbGhOWl94eW5aMVFRTnkxSUl1LThYaUxYaHNEREM2NzdsZWM5VmxYelNGbmZsUFB2Z2M4YW5TOFZRQllabU5YOHpTc1laOWJ4eHNiTzFIWjR3ZldrajVXRDRMZldkZWNzUi1EV2h3MTZNTk1FcDI1R0NTTXlMM2R2WDVHb3dQNW1iMmNxSkVwNlVKWDNodTBzcDVhRGFkRVVPS2laVHN1ZXd6TVM4VUZM0gHIAUFVX3lxTFBFc1I4TDhST1pVSGdmTFpQRXVYVW5ELW5abmstWFV0LTIwaUZLU3R3ZF9WQUdaeVlPTzFPanFfYXZnME9xdzdjRjg5VEhLeGRmNmlkUHdXQVpFdS1BT05PY0R3cFJnMFdqZWpnaXRiX0poSXdPcmoxUGhBd0hnVHU2ZTVfUHFDLUlycDFJLXE0ODBUSUl0NWZUSDlwMUJWVHZxOEo3eWcyNC1JYVpPR3FVQXlScS1GQUpBY2hqUWlJeFZIZEtvczlT?oc=5",
+   "published_utc": "2023-12-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian City Plans for Country’s first AI City",
+   "source_name": "Geospatial World",
+   "source_domain": "https://geospatialworld.net",
+   "google_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wTW1DMGxET1FpWUVrVFNwbzFaOGN5aW8yX2t2M2wxV0NOV1NGUjF5eWd3UTJCc1JJV0xZRVQ4a2xzVC1IUTF6TGMxM3BadVpFblN6QW0xZ25ndGpsZmhxMzhUWThsYml1WDBZZG5jWE9Gck52S1Nn?oc=5",
+   "published_utc": "2023-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh outpaces Tamil Nadu to become the second-largest economy in India: Report",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOUJfQUZ3XzVHcW95bDV2SVJTVmtlMzJDVkdjcHFvSml1bVJUa0FJSjM3SXRaTi1WRUVXUDkyUURIa1IwR0tJUmtMYmlXMWlXUl9SUC1EVkNmVFZocFlrY0FkWTFoTF9lcTk0SXZYaTFlb0RUY3ZLdmN0aDdzZEFfdDdBOEhJa2otckJGbFJYRlc3NE15T29kSE9fNk9aeVlpdDZfSmFDMW5GNU1EcDBXc1NvTUVpMkQ2N3QwVnJ6dzVVRjE4dFp5NVFGazhsNGpHcWJLOThla1lYdlZZaWF0Z1NWS3dVRlJndDlYak1XUdIB9AFBVV95cUxPcXoxaXh3Q2ZWdzMwQmt1OFhSLW5xZWRJNF9QZ3ZBLTFMcDJ1TzNFZU96MDlqVmt0UnJwbDBYdzkwaHRCMHBNQWIxejRSSi1McE9KbG9oZWhGd3kxeDBmelJjMzZTNlNWaFkzbFJCNDE2NzF6SGtQdDBYWG9mX09Gc2tPYW5jWnJDZ1VhS2w5N01XQi05UmoxZHp0c3BxNDZoN1ZtZlZobXVtOW5sUEtGVnlOUFJjUVU3bENEeGVKbnRIVEtBSDl0SHcxcUNnTm5uQThBYm55SExjeXNXS19SbnhSOHoydGRIOHBYX0Q4VS1WTDFo?oc=5",
+   "published_utc": "2023-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What’s the buzz around India's first-ever AI city, set to come up in Lucknow?",
+   "source_name": "Knocksense",
+   "source_domain": "https://www.knocksense.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUI4dHozUHJoUmJJYm5vNUZLN050bDRRcG9OeGtIZHU2MVZTQ2s2cDI0NndIUWRDbXhwR2pzZi1ISWZmYzJ1dmxyTzAwOFJDdjlCRnFyUFZoZk9zWFJaMVVIOWNSLXV2ckpiR0ZYX01DNUd2ZktXTk9KbHVfVF9sdGlQcm9ac1JudEtVMTVlbGdmSUVHQnNTc2NmRU1qMGNoXzE0SEkxTkR5N3Uz0gG6AUFVX3lxTE9jTG56RmJrRUZCaFVsZmg1LWpEazVYMkU3QS15dWZBZzBUWmNKMjZVOU1ROU5ieXZCYm4zYnU2N3NOWFhwUmJIR1B4YWJkZlRPaGFiYUZGQTNNdFZJeHA1aW5Qc002SmQxR2RfWXFOWW5UYXR2enR0c3hJaDd3TWc4TERFU1pJY29NYmhxdXVnT0hjRGlLdUxKVXRoV2lnNm1ucmpZNU1sSEtQNlAzVFY4NWVHdWdYdHBBUQ?oc=5",
+   "published_utc": "2023-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

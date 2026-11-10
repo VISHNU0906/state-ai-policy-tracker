@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Announces Lockdown This Sunday Amid Covid Surge",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjFDcnJ0ZGhwbE1JNk11cDJHTUZieV9MeGZKamdGa3JHM3BXTGZST1hQSDZSNG1YZHkwakh5b3Y0Vkwxa3FydXE1amxzYnRMUEIwM3J4RXo2N3o2dzF4czVCMTdTN2pnbmdoU05FYk0taVMwaHM2blQ4cUM0Ylg3VzlXY0JoWm13a0RkMnZLblc1T3F1RlBSM1VieXF6Y2s?oc=5",
+   "published_utc": "2022-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Prevalence of Covid-19 spread in Tamil Nadu will emerge in coming days: Health minister",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTMxQU1CV0tCd0JVWnZyUnVqU1ZsM3FiWDg4SkJndU05RW85MnJPdnFkcEtIeDR0anVxWlFKYTJoaXVaSktmYm1XMnhjZFVJVFlCOGw0bEtNdEF3c2FmbS1FUU5YUlY0dkpjSXBTcVUyZlRrZVdSTm84ZmFtZENhdmstQkdLczNlX2ZWbFZLanNiYkhQNUZWbkJsR1FlY1MwNXdFb3BR?oc=5",
+   "published_utc": "2022-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "School closure amid Covid-19 surge: From Uttar Pradesh to Telangana, check updated list here",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUm1rZ0pvZVY1YjktTkx4TFUwZkw2S3VZeWNsLU1uak90TWdQSzV0bHRsNTFOMlVtWXdXZy1GRnlCdzVnc1J0QXRWWko1LU4tMHVST2VYek9nYVN4RUFXS1B1YlBPa3RLb0FqQjhaa2xlWmQ3TEhxMXgwa2U4c29pUzI4amw4dDJxVy00VTBVcXFQQ1hDVkdSbU1VSlZNVWVqNl9MRXpqejBHazJ4Z1Z2bFR3YmFwZ0VmYThZLUsyQlFmTWRpckVhY3BsQjdxZ0tkMXduY2wzelZ6STJ0ZHlKX0hMYkdYOFVTMVJkWjlDckpBNmFh0gH6AUFVX3lxTFBHdUhWTFd6cDJjYXZXU3EzNExrUnMxT1QtcDhhOEw1eDBBdmtFSzFmRGhEZmdJWlQ3WWNvbHpEUFVTa3lVWUFuNWVXbVF3VkZCbFo0UGdkSUViV0JTR1V3T2YtdXdYVnhPUVJieUpxamxKVmFwZkFjUEYta3ZVNVBab3JycDBhNXdVRHpPNWhBTnNVRlVBbnhJSUFzd1dfUkhpUkVRMUJmdnYxRWV6YjZ1T1JrV0NLdWh0VlFTOGJKclptNVhDaHV5REJYSFpSeXVJejVQMHVockpCN3VHMnZiWEREMFBFRUZqYlVvNHJUZncwQUVRVmZQOVE?oc=5",
+   "published_utc": "2022-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Son Dies After Setting Himself Ablaze Upset Over Police Case Against Father For Complaining On Dead Lizard In Govt's Pongal Gift Kit",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU0dyZE5aQjE1WWgxdWF5QkpsblF2dlBodUo1VUs2VEdvTE9LcHpiUXBEWERmcW1kX2loU1pxQW4yMElZaE9pdFp1bWIzZTBuS21oWWV4azA2eU1KaE5YcE5vZEtGbERsck5NRjk3SXR6dDR0WmwteE5WOHJwMVE1cTZHMktMNkRYVVJPMEc1VWxScDVKZkxfcHJTd2dHLWI2cWJGZDFUM05vbUV6QlFtMjF1b3k3QnIwV2JjdnhIWkJYT1pkYjZTdnVYbE5QRHZnbjNoMVAzanZ5YlJMSVpPOHJUTDZSbWNaNjU3OGJGYXhSS2R6b3BQWG1pMG9Ca2syakJiWUhqaU7SAZgCQVVfeXFMTlNCZUtvZVQzN0cxVGxESEY4WXlycXZoUjJCaVk4TE9vMFFXbmZsMFlXN3M2QzE5NnBJaUJBTTI3ZFhjVHRucHBWYnZCT3ZXYTBYS241Y3ZkS0hPMWF5QWxvdkNMT243aWdidjVhYlk1dVNHVkNRbDFtSzRGSU43eFBWdU1QQUM4SS01WHN3LWxvZDJ1d3l1WWdMUjBoSWUxNWdORXlnTllRRDU3cVZZUzJOYkprN0swbVMxUndackJCOVZIUmI2RTJMUXZIYXZMVGdBcklnYWk0UkUwZ045aWFZTGpTelJIS01PMFJDWFFHbF9IMU1DS0pCVDdHOGN0UFZWOXVNNS1NY2NhZXAzekdia0RtUF9aRA?oc=5",
+   "published_utc": "2022-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Farmers Are Going Crazy Over Banana Farming: Here’s Why",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemhyQWJCWjVOV05yc0tNOC1LRXpYc2RBcDRwMFpyVTJnSEtvZ1VEVVIzVFZGTzZIUkdabmpmaUc3Q3FVblZITUZZRWhmd05nZFkzOHJBUTJyZUtYVWg3dXFmWHRvbjFMaGpQTU5xMFJjaldWcXpUSzBjeTAxZl9PWHNaTk43bjA4b0lQTFRrTDRrS1FteVhCaks2QXZNaTNzbENaSXEzQWFPWkkxZlHSAbYBQVVfeXFMTjlLa3loTTZaLUc1UzVtNVRQRloyOEZYbXFrSGdiUmVqVlM0aGlReVNnSUd4TG41Sk02WHZ3YkpEUnRTcndoWG5yeUw3a25iRzFXWDJraHZkMEY0SlFtU2dSSUpweWhKT0hCUnNMMTdTeGZvV0hhdnVkZlZiME1tMGRib3VrWkxNODFFN0pXZ05oWXRYTmhfWmRWazJZcjBDV0xLZ0x5SnMyTnotZk96ZmxmRmUyX2c?oc=5",
+   "published_utc": "2022-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt shuts schools for all classes, exams scheduled in January postponed",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmpVOFR6Q05teXV4LV9iS1U2a0VvNlVzNndlOExlXzhXZkZkXzY1VHZOcjBIeU05WGNsTy0tdzNIc2xSdWFxc2p6QTYtZWZyUVZXeWt4bmg1WGxUQVRVek5EcVhULXJFTkRuUS16YzByWVpkME5tRm9zTW5fR0FhQllSX1FXX2VjTGVGMC15dlFMeHpYYzl0X3BYZ1RtNUFab1lTVmtaWkxxY2pHUG9nSEJNOF9KUU1xSjBxN9IBwwFBVV95cUxOZlhyZG1YbDBCUHZZMTdRMzJSbGlraG5wQUFvMkQxcU9yVEF6bDB0ZnVsQzRIcDBpU25VS0l5S1dNVDktVjBTY2Nsbm9YTDJHOXNXV0FUSDZUSGY2OGJGd25WN2NvLVNKcGUzSUpmVEo5MWFCcEhYZG9RT0R6dGo1SWRJM295aUpvS0VwX2hiWmZmRFItNXNYN1hFYWo5RFIwc3p5NFpyOHJMQmhQVTUzczgyN3JGN2FtQ2kwVlNBT19CQ1E?oc=5",
+   "published_utc": "2022-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 Suspected In Murder Shot Dead In Encounter In Tamil Nadu: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3JHcEYzbFZzS095cmtDYWlUdFdtX2pEdmRKSVpTTllIYmt0NFBNN2FrSkhLMmhnZHhqYUxIWVpobmZoUURfZTBQdU1WN2tGb1BmbFdkM3RSTkt2Y1Nlb09LeUY5RGdNUDM4R0x3OFItdmF5VzMzQk5GRkdCcXlub3JMOWhKblNVU3NNbE9tcDd0NUlGeXdKUmJUbDV1WXE4ZUdJTkJnZFFpLUVpNzJKWllyaDVCbGc?oc=5",
+   "published_utc": "2022-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu government declares holiday for School Children of 10th, 11th and 12th standard children, Schools will remain closed till January 31. All the scheduled Exams have also been cancelled. #1ShotNews | #Tamilnadu | #TNSchools | #TamilnaduNews",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GUXo3Mm5SOWcxU25hZ2E5TTJ1bzJ5c0VrZmJuUlQ0UVdoLVRWbm9FLUwwWElRR1doM0xnLXpjQ2l0ajFVWlhxMzJldkFQemNJM0E?oc=5",
+   "published_utc": "2022-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: DVAC raids 57 premises of former minister KP Anbalagan",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzJHd09tRDh5YkhselFuSUlZanM4c3lVUUMtMkJVOTRCekw4WHhTT0toNkRfT05xNjhSNUxxOHNOdkY5X0JkTUtELTU2TFZiRml1NWRwS1d3T0FWRHVROFBnVWNLSUhyMktOWDBiOU85eE9uYWxjMm45eGozWWtKQk5JYXdlbEFWTHp4TDVIN0kwRVZFalBtMldtdFQtcE4yS0k2cklja3FtNjRadll4LUl2bkloMzZxeC1STzEyYmbSAccBQVVfeXFMT0FMNmpOakx2X3o4UFFYdzEtVjZBbmRjdWxZMGl5SU85LU9Eb2JlZXVERVRhUGNoT2gySE1Ua2cxaWlCbDVDWjVXYzhNRjZjOWI5enRRVUJWUkQtdGg3ajZvMEs4dlo2VmFHWkgwTlo2ZTdxcjNFN1BOWlBxeXkxdnFaQ2Y4MTd6czlGZUtoWUk1cHpoSEV2VGxQcnhrd19oUkRqZXA5blZoMTQ5M1N6R3BGMFJHaVJfQzNoUmZIS0c3WWoxUFhyQQ?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM MK Stalin launches mobile app for police personnel to apply leave",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUgwZi14MzFxSzB0THFsVDlQMldGVlg1LUlnMjloTkdXSDVQNHlGZUhTZnVkZG9DbjY4ZHhCNVlZWHM5alN6Nk5QWGhmLUdXdHVqV0RlZWN2SnhUUG1YZkJrTl9CQVhBNmZScS1MRUx5MmlfMkJ2bjJRQ2djLTBVVXg1aFpLdU1GU1RUbXJXZkNtWlpZcGJOYWJLZWI2TUFXUWxjeDJZT0l3ZnJfSDdDeUpDaDVwZ9IBvAFBVV95cUxNcl9BR0lqcEYzTDhaZVZUM3hnaDZaSDhuN3BjQlF6YWpFVUZvRUVFUDVXbWtCb01DcU5DTUJxdEZTcjVUSy1SdERZQTJEU1p3Z0ZpeDhfTEJuUUsteW56eVZwSmU2dnBpTnlDbFNxUGd5SGpwYXE5NUVlQXBDZDJnZGozWnE2MVQ2S3BVYUhhTGw1bXBjMEg2Y0hvVTBfb3RhZERXV1IyUi1tR2ROQTUxb2xRMXoxcXFMUU1NcQ?oc=5",
+   "published_utc": "2022-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

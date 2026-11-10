@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "MP govt orders reopening of schools, hostels with immediate effect",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblVNakFBT1h1WTM0cnAzS2ZEbHZuQk1qQUw1WmJlTDZNd2tKUGJlS0ZZS1Z0X2ZEQmFaV2RTSElEbWxmV25VbWlSM3JROGVwejdwS3J2c3hBNXNWMFFnX3VabkJyT1FEb09GSnNxcGxZMzY4ZXJYQmJTSWFaZ1ByRjBLMWlmZ2hua0NlaXdBZm9lY3UtSWlEQm1Fb3IwaDZ3QXpzNjNZYS0tVlFuWk1rTTBjZy1WZ9IBvAFBVV95cUxNalo2SWEyRW9TRjRkSEo4WUxGTUJWbUplMUQ4cnZpbGUxakRCWVc5azRuQnpUcHRoN1J5TlhadkZOYnVsbDNLS25KT01OSFhsMFRVWndZTGhBcVctZmk2eFVQemNERkU0S2RGdXFDaHpIVjhRVFYzVWhpYTFadVB3U0ZmNE9iRXhteXhLYWFJNmpHZjZaWGhmR1A1Vmh0T292X0N3ajg0RmlBUXhJUnZxaFQzTFNxVEhGbDYtNg?oc=5",
+   "published_utc": "2022-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Runaway Bride Who Cheated 8 Grooms Arrested: Madhya Pradesh Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVElTVE5MRGotTXhjbjU2Ti1MRk1uc282NUVvOUtHUWxOeko0Q0hxQnE1T1Uxb1ozalczVWNfRHgyTzBCQlRlMU5wd1pLekVFcDVOdndSbFdlS0FRYTJFZVN1YTZmemdUNjI4LVFSZXIzc0ZKZi02OTVseXBNbzl4LUd2QmlvbzQwWlo5Ny1BNExKNG1jN240WTlBNWlpWlBfRndwRzlpMnU?oc=5",
+   "published_utc": "2022-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP School Education Minister takes U-turn on hijab, says dress code won't be imposed",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTgwcV9fQ21uOWU5dWpadkVIdTBremJmY1hMOWFwUVJmVHB0LWhrZkgycG1KcjJvYzdWTkpWLTh2aXo5b3dNc2hPV1AzQTMzeFRmdHZKTUlDeGtnZHM1aXJ0WnNRWUU5Y3NnZjJiekc4MUNRR1lZaExKNnZvRFMyZDNzdTNnX3RGN2lma3gzU2FVMWNiOUtRNTVQODV2OWlWMzlkQWQtRGVDTU1lZTlIN1F2bEU5dUxmZWp0bjRBa1kyUdIBxwFBVV95cUxOUEdQWXF2SktvTHM4WFhWb09lQzFBWFhyQnFqNmplRGNEX2lxZ1cyTGtNV0k4OENjZHlSYkhzbmNzWm0zb1NVdDI2SkNjWXpGV0stYVdqN2RtYi1DaU9Ga0VxclFCX09nRWpWMVZ2QlkwY0wwbDMwS3BubUQ1NDhIcTVpS0ZWbWsxdzFlT2hHeVRjcHJhcHpadGtZWTNvNy1Pckh3Y0JqeVB1YVZuZDlmbi1JaXg3cTU4Y2dEZW9OZDd5Q3N1VnFR?oc=5",
+   "published_utc": "2022-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Implements 73% Reservation in Direct Recruitments",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnVjQUhzRkVFVTZLcXRYMVpMNTFPUWpFR3RxaUREelRMSFdhYTB1eVliY1Q1dEVqV19Ob1VnN3g3WVRYNncwb0FUUVJXN2wxS0x0OGYxMDNtV3dLLTRGUXhkZVFKSURYVENkZ2tVZjRHZ0pQN3RWeEZrYUl2UzBBYW9VYTZRMjlfU0JsS0FldHRTQkhMRHJRdFFLYWhnLUxQS24ySWlSaldsSUQxQ2lPYUprYkLSAboBQVVfeXFMTWpIWDl3OTBLcEwyVjZiLUZ1SzlHc3hDRW1wdHhYMGxtbzBhczJPQVRfbVpOb3RqYlJtQ0V6aVh0TjlUaU8xbGp4R0JSZDlsTlRSa1hVZ1pXaDlSMlFyaWgzUGo5bEpzZC1VaXFJMTF5b3dleHNRdHpNUXRDZmxRQVdhZDB5bl9EYU94UUV1MVFLMTNHT1Z2ZlZPNUgwUTF5SE0wOVI3UHAyWEMtYXdYTldQZmE3c0k2c0ZR?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Farmers from Kathora village reaping good harvest from Kalonji (Black Cumin)",
+   "source_name": "Global Agriculture",
+   "source_domain": "https://www.global-agriculture.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTJmWTdOUnpDLWpJRUF0VUd1eUVWVE41UWFHR09QblhiV0pOSk8yQjBWWnoxT3VkVUNadVRzdjFiN3RMOXdyX3ZJOTBuVUF2aTJURWJmZDNtWmZWUWdTOEw1MERFRGFSNjNJSm5FTWk2VGtIV05iLWlsdWViQXMzWUMtRHRfQk1SMHRzT3AyRkNBS0t0d1JJN1dGMDN2OGhOdkd6Snd5cmQydlNjMHdGTzEzQkh3dUZ2VXcwOHd2U08?oc=5",
+   "published_utc": "2022-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh May Soon Add \"Happiness\" As Subject To School Syllabus",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3g1NkJMNDY3YThodk9neGJQMm96WXg2Q1NDdFdjblJueFpNMURTY014ZXNsdVE0cl9OUl90ZXA5a1dndzY3V0ZTOXZOU0dzRVhHSUJvLWlyYmRnZS0zU0pXNzRPc1A4R1pvNEtwYjRpUmw0MlpXZk1Jd2Z0MGZJYnY1RnRlbzdqaHkydWphbTd2SVdid28xODlWNVg4blpMbHVHUEw2MUZUNnM?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vyapam will now be called Staff Selection Board",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQzhKUFk0TU9RTFZNTFd4Q1JReEV0WEVnQ01xdjV6eXh4dEpTdmgzLTl6MEszLWY3cHctbzhUQjB6S1RSNUJOVkNicXJtdEtKX3pRTUtIWkw5Nlh5VXhxLVNYWjlMWWZ4MWtDYnB1dXVGTzFUWXI0VlRJT21IRUpqM3RBS285bUJyc0dBaTUwNzBheExGclVsbmF0TUEyaDZqYW15VkVFUFFOZm0zTnFtMEV6ajNkc19WcXlrNXJmODgwQmZ0WUlBMG1LUmlOaEtoOUZiTW5R0gHbAUFVX3lxTFBUT2haX2pCVWhvVGV0Q1k3RmhVaENUbkFlMFJJLUZKaWhFMVdMMGRfelFGWnUxVFZVb0tHOTZlbFp0cnN2ODN3RHBRZkJkenItTHp6d29ST3FGaDVVMi1RU3VsbzROWEFLQlBMTHcxRC1SQzJaX3I4ZUlLcVVHN0U1X2ExT1NRbzRnT29sVzhmZmZNeElsalFiclRCNVA1cmpvN3gxbFpaOW1Ub1FiU2pnVkpOSUNUTkxUOE5pNW1WcXFXYWRFY0xscmpDREdBNGE0eHRpLWlTZVJISQ?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Dropout Series: How Madhya Pradesh duo quit IIT-Kharagpur and founded Intugine",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQXBPUFpWZFZETUg5dmhOcmwyWnA3SVlPU2IySWFtWXlrbjNZYl9YTUVlb1JtQm5VT3Z2Zkh2WGp6WVZ5aVBGelcxOUZpUU9KcTBjbGpMZ1FPZTR3Y3duNXBxQlBvS19kblM3RUhaS1BBWEZ6STF0dldtRkhoV1JmMlpWY2s0VDhmck80bHlQQlBrRzkzZ2ZlRDZLTlRsM3hMRlhqUm1CZ0hjU2taUS1iREFMVjAzSEVOcWxrOTRweGhhZ2VMWUQyQWtaSnR5YTDSAdYBQVVfeXFMTWtaVC1xMWlwN3lINUxNQ3g0LXFDY2w1TTNTRjVfaFhYOE9TcjFOb0YtcVpBcnlEZnZ0ZjZDckJDTVRBd28yMzlvMXl4d1pKWlU3U0o5elJDempHRDRtTi1HWHVFcS1uLW9zVENMMFVrQjJQRHVvV1NOSGNITWxNQUlqZThBVlBYME1kbnJoRkthcEtvMndXc1luOWcxT2h1aUoxYWNCUXpSZFhYWF9Ib3pNLWdnaHJaQUZMNUpXTVI3WmFIVXV5dHktQlVOZHJfNENLMFdvQQ?oc=5",
+   "published_utc": "2022-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Madhya Pradesh Chief Minister's Tribute To Indore-Born Lata Didi",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakRvZmJHLXo5TG5vYy1OMkFmMVNKS04wcElidGxLOWNTQy1nVjl2REttVEZxTDdiWkttRVZjLVFSX0EwcEJGdS1JYkxKRWZNdWlkZk9mVU5VVU82WmwtLWprSUJ0RUxWVUc1eGhwSlNDLWRMNVlNcENaTzlsZXFRb0F1akl5TFM2a3FrS05yMm5rekhjc3JEeGJ0X0hxbWhOdGdtZF9JM3hYM3I3VU5uYzlTMjZEV1hmb2pDVDN1TzY4YVhfeVZ4NHR4WHpYNkRfY0M4?oc=5",
+   "published_utc": "2022-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Now, Shramodaya Vidyalayas to run under School education department in Madhya Pradesh",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGZKaWhfRXFuZlVFX1pkNllsai1PNUczYi1lZm1STHVwdlFFV082SVpjQzQ0Y1hXaGdPQXdHWENwdHAzSUYxNC01MkFZVThhcmw2ekJOc0JtaXJLdXczd3JoTXNPWldXMXFzZWQzdjRMSzZMN01jOFVGZkpVREVTX0hOWUdsNHN5azNfSDh1V1l0VXBSQzJPX3lmUDdBQW5QWUxiMmZ2eS0zNG5xX3RKdnh5TzNsSjZweWtQbVdQeDbSAcYBQVVfeXFMT1Q5NHlOYldsYUZMb3ZWcTZEY2pNMGRpX3VPam9kTnlIWk1oN3ItSzc3eHVpN2ptOGhyNFdCNl9rekJjRVhrMFNZYVlybl96NUVJOHBDR2pjYm5DQUlja1BESTZfc1FHN3BOemdUc012WXBPSm9YLUFUS2pmTG9QTUFNenlqSld1ZXAzT3Z5bzFWd1V5SUt2NkxCODBzMXV0WFdhU3hlS2hLcExNMjZJRDZTREhWR0JObldnRlB1Vjh3OF9XdEx3?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

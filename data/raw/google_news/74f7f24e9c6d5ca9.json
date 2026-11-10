@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "MP govt gears up for reshuffling of school teachers",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkdXQldJQUxzTnQ3YU1qYjE1SE9RSVhWVXhfcGVzVzM3eGtDTC1pb1dpU2kzd0tORWZRenNudTU0eHVaS0QzWFgxYjFzaVZqaEtLYnZtTE1SZ1pmQjVFUkJPbUFmQmlFcGNsWmNIQnItSGFUeEk5bGpDNGJPMTBGUXNIZlNtQW5CdVpPeWtqNGdBUUQ1TEZpZTBKY3BhTldHWER6dm1Ka1MxY0twX0pEYWNxMXByZ3NVdGNQalVTd9IBwwFBVV95cUxQUHVNQUthekR4bDlNSlJ4bHBXMTg5ZVp1QmNnel9FalcwaDI1Q0NhdEpqSGJmbGFfeEl2NVBLNTRRdE5hZWVQaW9DaUk3RzBIUE9yeFl0V01YTTFiMkdBYTJKVTRjajViMWdyVms2RXhxeF9yWVRJLTVUWFJZTWw5RmI1RXBJQWdqbmFudGd1QmhlYkhTaVF2c21UQ0JuVTJtRmhZWUlHUkMwRmhYMjZmTUxlMWlraEVvUzhXMTBBRlNmRWM?oc=5",
+   "published_utc": "2024-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex-Madhya Pradesh Chief Minister Shivraj Singh Chouhan To Be Agriculture Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmxveTJlTE5PNkpoOGhneTkwWWYtZ1hMYlNxbEtEd2U2V3pnSE5NVGJtcURhbW0yRzdMUFpYdEktNFFvN3phaUNmSW4xX0Vpcm5WR015dXk4c201X0JYbFJqbVA1RzBoVXBnZGpMX3hSZTVFTUl2Z1d5dTNmS3pKUFhrWTdxd0pScXVocTlpN1NxX2dHSmlDLXNQQk5aQnAtazBvQkNXRHhOVTlwYlZoYVJMM1hISDhpOFo1cUJ6M0YzeHfSAcsBQVVfeXFMT3lLZlBneVVwaWNrcHRkczFTZV9Bemt0VkZvQ2VvRXl6Ri1QbGFkYXBaMVA3emF4bkJOYzZzb0pRS0FaNU5TYzdwOG9fSFJKNnc0ZVotNTZpZFRUMHVuVFF6YUZuX0dZekVQejhPb25fbHFRMVpSaWMtanZTZnhtYTJobHBBOTA0dlpzY3lrbkp1Rm1Zc1pQSVFxZUMtS2JQamJYS1FmdGhOQjY2dzJBUEViR1kxT1FKT2o0T2NieXoxemxIWDBmOS00bmc?oc=5",
+   "published_utc": "2024-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Project SATH-E: Sustainable Action for Transforming Human Capital-Education",
+   "source_name": "IBEF",
+   "source_domain": "https://www.ibef.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNUxnZzE1bWJVMlpPODYzdXJxWENmeDJrSnU2YWxsV2hjT2dLa0UwYTgyRFZJNzJPTjI1bjg4bnpEOW4wdmJoVy1kZFVvTmtnY1JobXZnamRaRkk5SnNiZHJnbE5ieFdFTmpHU3ZwV2NpV1BLQ1VDc3Vmek1QUkphRUc0d2JUNU9KbVYyZ3AyM2NncjQ4ZG94aGdCMXFtVTlCbFp3?oc=5",
+   "published_utc": "2024-06-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s AI Revolution Unlocking Potential Across Industries",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEhyOHcwSVhBbURVTUhYQjNPOHBtY0dJX0VDN05NUmlYd05FVmd2dU0zWmdGSnpxY01qQ1RkeUozNUQ1TTFZSVk0TUg1bkpnZ2xnVTZkM2lXeXhnTWhlWnFGQVZkS1JOZTY5Szg4cFdnYjV0Ml9mMlQwV3lrb3ZYQVdrN2J5V2lZZ2pDaXotbjRsSXpyX0pVNF9kdVI?oc=5",
+   "published_utc": "2024-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Modi's Supporters Spread Disinformation on Social Media",
+   "source_name": "Time Magazine",
+   "source_domain": "https://time.com",
+   "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZ0RMNTlKSW9GUlIxdTg4Q2pNR3MzRktjdUdPZThZX1l1YkNYMDN4SjZFcF9LcTN0ZndDRWhWVElocmRLLVBjS3ZReXJxejUxWW5OeHVRc09UX0JMNkhfc184dGZLVHU1NFdGdA?oc=5",
+   "published_utc": "2024-06-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 Boys Drown In Pond In Madhya Pradesh's Jabalpur: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMG95VmJwMEpwM0lhV2U2eWx6bmxNTVRjTVlvcUtYc0xZNWFTZTI3akxoYUZ4WDNhWndDSEhQWU9iWEluek5jR215XzdmS1FWSUhrSF9wNGJGSEU4ODRrcmNKbzhobjRiTUVXanI2RDBteXo4NTdaS3Zma2UycXYyQ1hTQWJCX25mRk1wWXpOTEJ3c05YelM5M3VnZ9IBowFBVV95cUxQS0xLSjdPdTBGVUYtbDFqaUtEdFQxNU82WnBKRzhTREtOZ1E1NkNIdTVsSlFVYlIydlJSNEZ5RHJVRGJ3OFNEVnRLejdXa0IzV2w0cjF1UlZudXF4UElWdUp1RjRERE1sdHQwcTlKQUZyTnZSYmRVdnJMSjExVXZRYWpzZFk5LWRPVWtIRkpBbXp1bGV1LU43b09hY1VHX05Ec293?oc=5",
+   "published_utc": "2024-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh CM launches PM Shri Tourism Air Service",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalN4WFFLcEM5X1BwMTJTdTBJTXhuZzlCUkxmQTQwZXdfSk9oS0pYc2VHbWxtS0tRXzhpVVdRRHRCdTMxMnpkdGx3SXZhSWJMT0NYaE03NklEN1JzeVN5OTlmSkhYNjN1M3RDZ0J6MVdHXzFaRmdVYWsybGhCMU14MkUyM2RUUGdHLW9DSlJRaEZyTVRReWZtSGVBcG1ybmxQY3gzeUlJcnJUaVdDZFF2ZmZ1dFRzYS1va1E?oc=5",
+   "published_utc": "2024-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Huge T20 World Cup Betting Racket Busted In Madhya Pradesh, Gang Dealt In Dollars, Pounds, Dirhams",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUtNMC1Qd0tqTW5DVnlOUU9jQ3djZDNnX1YwcXZQblh3MFRKZFp5SGVDSWtIVkFicnVvay1ZT0d1cTFOanptTFpCN0tXYW9lQ1VYNjNvMElJcHFoLWRZcTlURHJlWTE2cmgyM2NLX1c0SURIZl9wUi1tTXlxbF90RGJRWkhoNkpDczZmRGphSXJkUDluNXVoQTBTcm5ONXRfNmpxVkE2ZS1RQVNHT0dMRzd2UjlMemp5Mk9yQmwtZjRocWFlMWxoZVRsSUtYSlpjbXfSAdoBQVVfeXFMUDdXSTlGbjBnVXNGYWZNdnkzdVNWZjM4TWhyWmx4N0NCOGQ4VzBYR2puTFlCUGJ6elNZbGFCeV9GYWpDNFF2SWxfdTdUenprS0tPTjNXN1pCMUpRM2VYYUlpSWxWbkFoVC15RDQ2UE54a3NOZTlGMEtzN3RwdThSU1VNcHNyQjJMS3pXOUtYc0NOWDRWRWJiWTRoQXZtNUNSWXZRZS03SFZjdFdNQnZORDdoWGxidEVVRmRtc1dSNndMRDBweG1qM1d1T08tLVM2Mld1WGtKLUhuZmc?oc=5",
+   "published_utc": "2024-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: NEP Faces Teething Challenges As Pre-Primary Schools Set To Start Without Proper",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeExQMG15cURTTkJubUNuRzNxWWZCMjRMZnVGa2k0Z081VVgzVTUtZnVWV193WDluZGVPSnVWTUFUdGV1MXJ6bWpONFhQMW5sTFkyOVplS3hjaXpIVmRGdWlFdTZhZlBNY3dTcHhlNmNrVmszMHY4TnlPbTNVb21KZWpHX3pxMlJ6UFpidlJWbVIyVVNKYTJUaXk1czdId3RydE1zU0Y2emFXSkVPYnhTUF9odkxIZW9meDNXT1N1UTQ5X3dyS2pGbXNCOTRTNXFKQUtwcWZsOGE4Xzc0eTlGaXJHRDJCeHdtZVFv0gHwAUFVX3lxTE53YkVVblAyME9vNl9qX2dNZTBmc1ZUSHplMzkwSHRwaHlwWEZ3X3FYUGlndW1qZVgxTkw3ZURzSjB0dXRjd3BvSDJWSWNYMHJOcnAwa282M19uOWp5Q2MxTkNSUDRudW9DZWpKYWdwZ09xeVd2bElyUWxCRVVScW5ua3ppQnBVWnhtaWFadlV0eXV2UV8tNTlrQXgxTTFteTlFcFZXZElESGJCYjFHYkNXZ1RIdlljWW1VMTNsaHBxM1ZWOHZBUldPWDdnWDBqTGYtR05HNVU5TFN0QkE0ci1IdFcxTmJ3dWJQUkxUYURUaw?oc=5",
+   "published_utc": "2024-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ALARMING: Nearly Half The Girls In Madhya Pradesh Do Not Complete Schooling",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcG5CdTQwaU0wX2VIc1o0Tk82bDhRWDhpd1FGa2I0VWhjZHdEaGsxVG81bzVBYzNJSGJCcWZtcU9yRTFZZXduZ09XSkp2enpjWGJiSGItRlMxTDQyTGtNNnFIY0ZBNDdrUkF4alBDdUtiMERWZEg0RFZ1ZWtocmUyWUJ4akl1MkJmRzRDSHUyVmtKUjJpRjhtOHRNLXJTdnVWUTJmYWowNXVJUUI4MGdma0ZiZ9IBuAFBVV95cUxQTTh6bmcxcE5oRHVCM296SnlFZ1J3dFcxSm9rMTZRUm85Q1o0S3hvR1BsVFNCdmJaUF9WRTNKSHpnQXdGMGNjVlZWUDdxSXN4emxZX1VPWXAzSFRCWncxNmQtTDRNNjZ0Zld4NFpWNGJMU1dXYWY3bGQxQUdlRlNhOVNfOHVfU1pRZXEyblZpSVlEOWpiWE12Uks1c21PUUJ3Ql90TlIxMmU4aWZaUThWbnFXdG1vNDBS?oc=5",
+   "published_utc": "2024-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

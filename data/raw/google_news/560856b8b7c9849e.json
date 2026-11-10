@@ -1,0 +1,37 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Adani Group bags Rs 13,888 crore worth contracts for smart meter installation in Maharashtra",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU2tBU2JQSGh4REdSdVFqdnNjSEV1UmJjaV90RzJDSnZSaWtPVGxwVWxBNUUxMmpKWm0xUElrTlhzWW1mMWxIVzRUZEREM3BSRWczQy13bnRDdmNCQkNtaWJSZW9aT2xMeEg5d05GNDZZZWFrUVVJOW9oSkxOODdYRmtlc21zOXoyVXhULTJ2Z2pGaVZ1VWVxeFdwY2J2RjN6UzVPQUdGX05FRDFuLUw3WlIwalhxUWFhY3RpLWRvNHA0cUJlS3IxX3hRNnZPbjllc0VrdDBUQUhGTGVucmZHbVo2RmxWYjdSOXE3Z2lsTFNkMXBRRk1VZ3NaWW5yUFJ2b1RFdEZ4alHSAY4CQVVfeXFMTTRWV3JuUHZyb2RTNUozZEs5UXhKNHJGdkx2eDl2TkpySzVScnBPV2lVQmplbzluNVNwY2Ywc095a01VOUQ4VUk0VDZYdUlBSTNNQnVTZUdoX1lnN1dQcnhpNTNBMGJPRlVxaFdhRjd4Z3VLWEd1ajUyWDVjNjkxc2NwZWo0T0JOeE5uMHZhTGRlZHpNYUV3aENIYUlCZ3RJWkhMY2JhNDdBcUYzYVpuTVh4di0tck1iOXhOM080UzFtZS1vWVhVWW8yNi1xLUdfSXdQVFkyNVc0eHotRld3MG1Pci1PM2NuUkFzQmZ4dUhCOXJuZnJCWkY4eXpHWW50ZV9hZTA0UlFVLTBWRkl3?oc=5",
+   "published_utc": "2023-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bengaluru Man's AI-Robots Selectively Spray on Crops; Help Reduce Pesticides",
+   "source_name": "The Better India",
+   "source_domain": "https://thebetterindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdWk3SUNSMmNiWVVIWFZjemtBSnlBeGZ2akxVakJVZHZtd2ZJLXhyZUZIWGR5Sl9tTWNsNUNTS01oS2cweTNXcllZS2NPamRtcTBkOW1zN0JxVEVvZ3JLRHExT2ZwSmIyWXhyT0pHeWRxUWV3RzBwMF8yeld0Q1BYMC0xZGdwVno3ZDFHY2o2b1dnTmhDTGxWV3B5bWhyQzNQdG9HcC1XMnhMeU1ncGd0R3J4YWVvVFdaelh4ZDdSWnhOQlcteUxnUjVLQnB4ckozdVBaN2tIOVFnd1UzWEhkZ05DVE9yd9IB6gFBVV95cUxQeXE1QVpiVy0xT0Vqbzl5V2ZlVXh0ZUFfRDNVdmhuTmJIWFZzR05Gejd5WWJKa3RsNThITlpwR0wyTUl5WU5BMjZHMkYtYmV1UlBlbTZ4c0VWWlEzSmhvTlZRVGtjalpZRHFPNXRZdG5jVzRqblZlcUJzVzVrTkpqNmV2WFRhSUJ2dHdWTEZVTUlpOXo4b0lNWnBRLWRzSE1wQ29YcXlOdXNzRHRzM0NZbmlfd1RweEJkazZfazMyeEdBTGtYSjRBbkNCT3R6elBUMklJbVJLNGhzYTZETjcyRHhfNlVFTzhhaGc?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reimagining Lucknow as India’s 1st AI city; how will AI ensure sustainable, inclusive development",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQlNqeEdBdnVGcmJ2YnBLUlJtN0hIRlhaS3h5eTFrdzdVTkJxYWdNNmhacHJuNjZtS1pUN0NLNmZVRm1hM05XRjVMcGpTSlMzM0lEdmZVZFdUQ2tjNENfako4SDV6RURVZi0zWHRJUjl6Sl9iaHFwaHZ5SlFEaDR2Z19hR3Nqb1ZPRTVVclItWkhoWlhqclRqd1lDcFhhbDcweXNHSnVwSVpvdmdVMC1HNjFWUlQySHNFRzRtdHhocFNuX0hob3dVTnpnZ0RLb2dMTUlyWnRoMC1UbDBwZ3E5TEhiUm5iMU54N3M1cHl5QTRNUVJWWFFIUks5cTR0NUHSAYQCQVVfeXFMUFJoZm9xZC1pOWJBZy00M044TXhpNWtELWZKNHFBWl9QR1U4RlZ4cTlObEU2Y19ST0RhZXRNVG1mTllNWWFrM2syYVBJQ3dlODM4R3dIU0JyY3VjQVZsTFk0aE16WGZndWs2b0dBWUxtWFdBa2QyRlNkWFNtZ2hidWZJSUNVRUlzR1hPU3RxUDUweHl6VS1fVlBZWXdGbUkyOWZpSnBKTFV5dnhxTGhXZDdxSWJtTUR4c2hTaXNEYmtPeFJYOVlaV1hCNXNaNGtHSU45elJMb1VKT3dfM1dOYUdlcWcwVFM1VGR4TWcyaThZUE9WQTlCbGhwNnRaS2FVMERUSk4?oc=5",
+   "published_utc": "2023-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Northeast Frontier Railway working on AI tech that can detect if driver is drowsy based on blinking of eyes",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNFZjbE56TjByQzVFSG9IN1VibFhaOVNDUk9CazlmTmdyeWdZdGtTV2x1bWhsLWNzT3V1cVppaTlHU0hrdnJWUEU4YXk5eEpmTG1MS3RIOU1fLVVFWDVSdU5RNncwT3JrRF9fMHBNZ0Z2QnFuYU8xRk1Ddk10X1NvZl9fb3hFdmREX1RyYk0zQkUxU1A5MDFqWGwtUlRkZHhMUG5kcjJ6ZFctSktVMEhpUERwRWxOaDFFR2wtTk52cm1SVjBKRDdEdElZOUZPSC1tUXBDMEhmd2ZKb3ZyZmZOMDViQS0wN2R6Z1lXMHBqU3RMc1F1Q1hJWTJOVlVKa2NJTEFEcGtn0gGLAkFVX3lxTFBpSmVmdXVrZVhDZGh2dS1yR2FJVEwzOHF5OU9aR3hVclVyOTF6bHVDd29VaEJIdTM5bFA5YmJnZTRsNTFkd1JJd0FrZnY5eEQyczBCa2FibmpTbFBxY0VVVDkyY1kwRkN1bUVCVzN3OVdxcm5jSXVlQlhobDBjLU9ORmVLbFhYbUdGeTBoZVhxQUh1ZDExX0dmZzIwZ2NaNy1ENGl6RjU3anNHREtzN3BOQl9vdGZLZ05RMzVqRk10d0ZSTy1xNTJrcWdwaFRUUjhCNUNJWlgwOTNzLVA1dXVHNW4yd0RlSTA5M0xsb0NtYnF1M1Vxem1ESXlVd3VfZVlYcTYxVjA3cTZOMA?oc=5",
+   "published_utc": "2023-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "T.N. government forms committee to study Vishwakarma scheme",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzRQYS1fdWZDWDBabmdZc2NVTVNzWXBLTUdxT2xNQS1lTWJiaUxjMFRaaVVycVhobG1xM3hKbVBrbjJzWlZiWjktX0FtNEludktmYmw4ZWt0SUo4QjdCM3RMVWc2NDVwNk4zVWdpRU9jb21UT1pXalRlOC1ERy1DclRrM1FHdVNvLWJab1k1Zm1zc2ozY1hrME5BSUg4Z0JjT2FIVEw5R0F2OUhWT0VpRkdrelhLUnA1VDQ4cm4tUk5CU3RnOGfSAcwBQVVfeXFMT2thQVg2WlVtLXkwSGZROHNTMzEwNnZqb0h1RXppR1M0R20yaUV1S2lPRVBmXzRBdnBTZk5DT1JNSGpGRjhTY1JBZTZxU1NjSDJ0a0ZrLXRoajI4d0IwTDBQSkJXOUUxUFA2a0xOTW1Pb2xLeEpNcGRnX0xJUU5wZ2ZwSjBnWmU0WFh4SlNRU1BZTlpHem5fbjBiMzhRbkJWdUNpRnNIQ1ZxWXlPM1FxWW1RVkJKVUFfQXZnRUxBNzlSN3NYcjJJa1VOSWk2?oc=5",
+   "published_utc": "2023-09-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt launches Rs 1,000 monthly aid scheme for women",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekJ4WUxhQ3hBZlVxcy1TdGFqemlpMldVUW8tSE9GWDh1b1ZLOGx5VXN6NTNqc3FDT1FsQUZLbUkyTVFpaWVCMC1xRE1odWIwekEyV2hLdnVqV05QY0VDRFlaSzJwUnNJeG5IMWNLVGUzQk1hRlJaQ1c3VjFHNkY1by1heWJPaGhlWmVWRFhPaFU?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Traffic violations have reduced in Kerala after AI cameras installation: Transport Minister",
+   "source_name": "ET Auto",
+   "source_domain": "https://auto.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVlZxSlBkdjNMTFFRaklnWGkyRUVLak0xVVoxRXFaLUliOUlSbEpPVWktN1ZnLTBiNlhJRS1OdVRxWjd3Q2ZfN20wcko4OGV1ZjZSMFB5YmdBbm5RdEVsc0xlMHZMa3BNd3ZMd1hZdl9KOUY0TTJneTlrWk1nQzFoaF9vQTNydlBVeU00ZXF4Ql9nYkNxdFBLTjN0RnhGQmhkTGtZY0lXZENDVklxUUpqNndmXzVmMTJXLVlWd2RZbTNHTDVCRTA3SXJ1NENZdHVzMGs4NTFMdlMtcHEzNTl3aUZMY1NSMFhqMlQ2etIB8gFBVV95cUxOODFYRjExc1hkNjhITzRBYjRtNlZNTDVfeWtmWjhYSXZ2UDV3aUhqSHFFY0VwN28tVUJGYmZXMEZ2b003czdabWpoRVNXZl90bWczelNzdGNCVC1tdXo0T3VLdGJjVENFdXQzaFVYRmJXTW44VllIQThJNm0xRlpYdWktQ2tzNHNmekJBVmp0OENVRHhzenVqZnhNSWFVQXQ1dHpONk1VSWlJUWlnS2pPRjZfOGZpdDExNkRORFlmMkphNnFXT0RZcUFUTnJaRnN4TW52RzJfbl81X0ctUjVGdGNDMUtIMXNBSU1hV01JdG9lZw?oc=5",
+   "published_utc": "2023-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Registration for Tamil Nadu Global Investors Meet begins",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFFtZ2hub2tUOGdOaDRoNHNFbW1PcEs3Q2p5SlE1MFZqZEpWZldUa3FhcnhkSTRuRzB2MDd0SkF6bVNYeXZYVXR0NGQtQ29hVm5iSFhlbmU2eUZLZ0hhVjZ2eEM5cHZFT0phbEdZMUFlVTZEOE01d29LQU9Cb3h1X2RVMkpJZ3RFX0hrbmpYUU91eWg5LTFHd2UxS1p0UXZic0hyVmhNSnJFVU9GTmtWcEc1d3pTYXkwUUFIbEZ30gHDAUFVX3lxTE1ZNFJfNnpXaDZLc1M3ZWFETUhrOVpINEJXb2Y2Y2xiWlRhUnBBU3lHbkhiXzBGOEZLV1ltekt1bTlja3QzTFRYbnB2dGozQzg2WmZqWlBicWdLV1lOVkM5ckV0QjZuTGZKTGo5TXdpQmNyMU9KUUUwWnNfd21SYWtpR2ptY3VlSmxCYmlhSWFFcFFFWmYtY28tajF3UVFBaFhhOVU0czNYc3lOM2c3dDR5WFk0eXNBblZ3Ylo3TXBVOTNIbw?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu minister denies holding talks on Cauvery issue, says will move court",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOWlfanJQY0x1V1A2eUtNc1VLLVpoeGk4dGxXYVdid2RTalR6UjV2Z2hYc2JvMTBXcjVrZS1ZZTBKVnA0d1h1akJUVEtaNXJodVZCd1hJbVpfZmQ5emNxVEc3aUFpZW83U18xa2pzel9yempuZWtXU0pQenZyTm11aXlqRThtM0xaM3Y2azYzN2pYS2dzTnU5SVhkcXpJOEIwNndvZ0lOVXlqXy1jZkpIY0Z5dC1taGtIYVQ3R1BGVEszM212WUNjYU02d0FwRTIzUWFhVdIB2gFBVV95cUxObGFfdFZndGhFblE5LWx5dk1wMTYwYU9neEVSaUhFOWRxdVNZU2g2QTlwQTJoSXNVb2EwV1c4ZWw1QWRpdGNaSXVjS0NGUDZPRDlFVF9Vcy01TEd4eUFKUkY0SmV2UzczeUtLcjNnal9VMWxLSllkdHlMR3hxRkpFWU05S0xIVkwyZEZYdkQtczZwZUFISHgxSDlrZHl5T0NfcGNHMlhuNjJlMnlCNFhlZTJLMVJhWDdtNl9RUjJwMk0waTNOOXRwRk5jT2VzbGJqUVNvNTBlZjhfUQ?oc=5",
+   "published_utc": "2023-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN: Govt College Principal Urges Students To Speak Against Sanatana Dharma On Annadurai Birth Anniversary After DMK MLA Writes Letter",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSFhGRXpmTjRFX1NkZ2o1V09EVTZBRFREZ1gtS1k0OGRWOTgxMy1VZHNpZmJmck0tb3Y0a3J6TVRPamdVcmZQTDVrNExreEVJRno5TVZmeUI1M1Z2OWpYUjl4Rk1Xck9RREtqMTU4RUNKZmFWU3FwbndHLUpnRXJ0X25RUURvT0R1SVk1T1BEWTctQnFLc3lNdkxEaFBudTF1MUpkZXpweXd3alMwbEM5TlYzSnNhSTNMY0UxQkNFX184Q2ZVWGMzaVRQRFRIUnBTV0lDYXl3NG90aTNzdnp4Nl80ZkhJRFh2SS1mS1g4VlUwbG1sSkpwVkxVMNIBiwJBVV95cUxOc0JHWlFDZF9TUl91c1NtRHltZzg2elJtcHFaWmxMMU9mZktVdFgtUzV0U1Y0VWZGOXh0akFmUHdJaGl6dXppczYxSjdJczJkS3V1LWNPVTVJWlhWZnBieXo1RFJZOEwxMmtPeVJUWWRLUmRfVUJtQjlRM3FsRjFQUDhTU0pUbGg0SnRTeU84dTBibVJoTEpIZHVaeUVKV1pCYm94LU0yMFhqZ0d2dVpoblhvekMydUVlZFNzNUdjb2s4cllhNWVpREo4c2M2VDY4d2pFNGtROUwwOWtRYjVSd2lrZzNWSnZNTzZDVHRnYXhFbTRZUkwwYnVpR2htSTZ0U3ZpeWV6SjVUWlk?oc=5",
+   "published_utc": "2023-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Man Who Wants to Defend India From Modi",
+   "source_name": "Time Magazine",
+   "source_domain": "https://time.com",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeGVaakUxT092S2NNWEh5dVF1bGlhQ3BMVFp4ZjAwQ01zSWZiR3FBYldRODNJcFp3SVNTcVRBRTQwVFZ0UW5wSU5URVlOS2hlMk5weXNEZXZ2UXlaOW1tR2VnYmNkQThkYzZZd0lybGd6VEM4WTdrdw?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Needs Proper Response\": PM Modi Reacts To DMK Leader's \"Sanatana\" Remark",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNalpQR2NVRE5vZ2E1b0JHVGpyWUtiRlpKTDFEam5FelJzYVc2eVN3U3BwWWw5ZmxQcGd2cVpWU00wUEViX1J6Zmg0QmxTTDNrY1plUFN3RGk1R19oNGxIWXppblFFTE1BOGZKczVTZi1jNm5PNGpqamJmVmxGSWJhbVZHcldsdEJiSWFSbi1xZ1pvUHdhLTgtWmtZNHc2RFB3alhSdkJlRURIT05nS2FYLWVmTW9seVlMS1NZeXhDZXJJNk9SeUtSeFN3U3JPc0NPNlVHLTIybEtncHBtNjYzeNIB6AFBVV95cUxORGo4US1vN0NqS0dCRnRTOXVkQ1hWVXdHZWd5Sm9FZnpCbWpPaEdxV3Y0NnE3SEZXaFN5dldLQUFLQXJHSmMwaVIxN1lxdmdmM0U2dnhRRUt2T3Nad2pvTVlZODE5eWozTDFya3RLRlBUeWxWdzFfdWxfUl9Ua2I2a2xfMUVfZWZZU2FFbkxDWVliZWJpMUpPZ1N0Ql9ucWl0NTZYOHRMc1pPdEJNV05USUpWUUowa0NUTGFfTnZEQmctVXMweF9XTDNwOTZTRmFuUUJjb3BxUjIyNjRaWU0wQ3JKMnl1ZTR6?oc=5",
+   "published_utc": "2023-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to give state honour to organ donors during their funerals",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWJnTmhXMmo4UWhVbGpjRXFpMHBvUGJ1b1VZb0lYQjBWRllJZDRTbG1XZlJBS0psZkVJaVIzeHJSSGhsdVozWmEySDZfRGNpZ1N0TmQ3MFpHQ2tTb2RJeXlleGZZeUljaWpsd3BGdXVteFZFSzNWSlk3bXBFUWRKSGdKOXFOR3Z6Rk1xMnJWaDJFVXJ6SmlrbkNzU0J3emlEdTRfNkdUN3dVLWdxSVY5M2psVUFWSXp6cUZpQ19Lc0VaUUNueUktTk1OVXRmcmZEcHdGcVJldkI0QWda0gHiAUFVX3lxTFBuRktzVDRzMElYM1NMRnREVVNzUDA4aGNOUUdMVE15VFQ3YUlUanpYZ3QzLXdVWmd0aGRqS0Q4VC1KSnhfb09scDlNajVBYXAtTU5IMDRHenY0YW90THFpYndVQU5VcVFqcWR6MHB4MFVnLWRvZHRmVkVvNkwyaHhPZUVrT3d0ZWtGZm9Yb1dtQUo2VWVHNy1FdW4tb0Z2SE01VHRPNXM4QWkyeVU0cUpSbkFDSHkzV1psb3BFbXRaLS1sbXIzLV9yVE5nYnF4VUlxbzRYODl5S1JGTVlET2VjUGc?oc=5",
+   "published_utc": "2023-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"DMK Retrieved Rs 5,000 Crore Temple Properties In 2 Years\": MK Stalin",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGJlOGticTNKN01ic3JKVDQtNkRrelk1Z2JDVG1Yc0NoaGU0eUY0QjFEaHV3ODNUc3pkdmUyVGs3VFl2Z2owdy1qWjZOM2dDcVlmSHNKcW5qbWJBU08zbV9ibnJJRl9FU0RXTC1oOUNoNnlLZnJqekRTYmxlQUQ0QlV1cEZfZWEwOHhZYXdXTDdxaXlfR0t3RlZpSlNiYWRkejU5WHFlLVBrZ0dYSTRVLWFEQWtWZzBWNWZyUTdiSHhmVjFKcGNrMkhUOWXSAdQBQVVfeXFMTTFWazdlVFItS2dXTWdaMUFONG1HSUxYa3RZaEpXcEY0X0Y5SHdETExPeWFwczB2VWlkSi1uNHFWSlZvN2dFb0wxNGdiLXA2dHNxdEllUHNlQmpyMDZKaXU4Y3R6NVljR0pCWWdXQTItOThJQmx3b3oyc0NWT0EzaGNUREJvSjRYZEIwSmZka1llQmVINWdVLW9NbFhmMnhkZElDSS0wRDAxSGxuTkFCWjE4TEtCaDdCamlDLTBNd29SZWZxSnFkOWdpMDFDY1l2eTVjR2g?oc=5",
+   "published_utc": "2023-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

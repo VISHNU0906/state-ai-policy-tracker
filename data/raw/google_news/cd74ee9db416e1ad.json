@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Leveraging tech for India’s women farmers in Maharashtra",
+   "source_name": "World Economic Forum",
+   "source_domain": "https://www.weforum.org",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckFrelpqQU5IU1ZXOTVPaWs4UWNzOTY2ZU5wQjNiWFdUSVRaU0RYb290WkJmVEFwZTlJTkRzNnMzckZtUVUzR05BaDNjYW1jRmFzMmswa053b1FEUExnVkdlTFYtQkRDTVRZaWY1S2F6d1A0S0lGSFV2SHNab0ZYaTVSNEpqUTlwclpEeUMxMXRyZFhnZ1NSTk1ROW1OVHVHNWJtU240am1nZGkybXNWQVZxY1Y?oc=5",
+   "published_utc": "2023-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI took the world by storm in 2023: Will AI reshape higher education in 2024?",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTlRCNDNLVDZrS1pldUtENHliaWFVRUdodHJNSHQwOEE0WDNqeXhuZTdYY3JVZjE1Rk9ibVBIZW5LQTYwaUtPNldVcFB6OFlQNmFURG55WGZVUmRYeWR4Rmd0OENKSGYzT09PY041c3dXNUtsWERfYnJwYjVtTXkzbEJXdE9uQmVJQmZ2Wm5iekFiV1JZZ19KTElEb2ZYdGxmbm9VaTZNNGxzbV91T1gzZ0tZNGt6Y2pvX2trT3phLTBrbjB2c0dmT3BHSnRtaGtQcHJLVdIB2AFBVV95cUxONy1yak9ZQU91OENxaFlvZ0gtYVRaYS04VHhoRmlzSmUzeks5T0ZZNlBmRERzZndLRURSZmhsLWFfN052TXo4U0sxVEtlQnhsUHhVU2prM0FjNC1kUng5OHJ1VHFzTEJJcGp2OFF1QThhZFh6WndKbC0zOUNrelc4T3FPZEE0R25Tb1U1ckJmaXY1UXlZMFh4aC10Z0toMUxKQUJoVTk0U1I5SEprSGV0ZmxRallFNkFCcGQ1ZmNueXg3Zll3OFlGUnd2dUF0SlpDcFdPaWRPd1I?oc=5",
+   "published_utc": "2023-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Devendra Fadnavis Meets Google's Sanjay Gupta, Discusses AI In Governance",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT08yMDFKb0xGdkVkVFB2RjhqakI3bE9DMHVSOEVMaDkxaGtXaVFBY2VZRkdUQk1ORk0yV3dWeUhoVWltUlRYS1RiU1ZFNHg4dHF3VkFkM0FhSFluZlBVbFFSMHlFWV9ocnYwV2lOM0V2c3czQTBuOUxSZldkRnQzYklyMG02c3pIbHoydVJTNjF6STZBRXlDYnZvQU1jSmx3Rnd3ZVVldFJ5SVFCWnpHR0MydFI4UDQwTTZOWGViR1kwVGQ2OGVNaXNCRWs2RjJoM2gw0gHbAUFVX3lxTE9scENRdUdCRmNKUnNMLTFoallfVFVobGQ1Wm13QkhlR3lEUGRrbXhvQ3dUa3RzLUx0UFZuTkNKOHVKRC0tSWl3eU15ajdpWjBPUVlZdUlDUi0tZEZLbjEzYnItQU9xS2JaV0pyeUVoNHdmNHZ5RFNLQWtCNGdSVmhZTjRPSGFiamJUMXA0bm9fSUJ2SDZYWl9pRmNqTERkMXQyUy13TnZxNkZvRzdvNFZQd1ZSeEZ6WElwTTJuQlNxcmdVRUVqYzN1UUJWSEtNczVGS0NSU2RFQ1Q3dw?oc=5",
+   "published_utc": "2023-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra minister assures completion of teacher recruitment in 2 months",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzlQajZuNm1vbnNQZUlvVmpKMUJESWxWN0QzSHVYWXBfdUlZSlJIaDJUSXFnSDEtMFhNMnNzYWktckRzeGtpcTZlOWtBeXlnenA0X0ZER21RQWQ0dHVmelFtUE9FMVFhak16YkZjRFdWRUwzczJpT3JNdU8yUWxFWG1YRVN1T0ZXU2NRM2ltUlVuVEw3NUhfNjlqZ1VhT0JfZW04YkdJU01BdmJzdkZjUHQzeTE1NFdvNnRRT2h2X3hmUVN4MXIxOGFNN2xEVFFINGVSLTdmNHNVX1pTck5hQnI1MkHSAeoBQVVfeXFMTW1ENWduLWtQYktyQ09wOGstNnZaY2laQ2VLaVZMc1R3WjJOZU5iNElnUzVTUF96RmdmeDB3VHhFQTVGUkhMZkd6cVZiZUxvYXQwc05Danc2dHc5ckdjSTlLMl9OLW44dHVtazFxdzNIanI0LXBKTEpqN3BNOXBTYWZSRFU0YkZXcXJCWC1RNy1vaXdBOXZ3b1NydmJ2cnlMT1l5OXZjeWktV1NXN3ZlbmtuLTEzMDRaekxZREkzUm9JWTJacURMaUlTQXNwdTZ3ZW1jckF2cm1rSXJRQVFfU0VPVzdWRmlReFFR?oc=5",
+   "published_utc": "2023-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "35% marks a must to clear Stds V, VIII annual examinations, announces GR",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTRxVmRJUnU3Z2tzYUM3dURDQ1dxZF9ueFl4MklpN05aazBSV3hneElRTEhNdk12UDlYSlAydzVCYzN3VXNDQU56WHlPNkFHc1hvbnByXzU1VzNxUEhudW11M0JxVW0tek9pU3pRN1Vud1BuOUNfblREVk4tRG1McmlVaXkxelhhZGcxUHNJUk1kQ1Byb214ZC1RbElnVkFCUTJsRGFqaUdreUpBemVpNGlRTW9naEY3YU1ZLUE5c05sV3VWYk0tSGtZQ0FIZHVNQ0ktUDBkeTPSAd4BQVVfeXFMTVJjQmFhQkxZZC1UTlFOcmdvQk54Z2FVZUNHUWdmbGgxeGFKVmFuTHZfaVJqUzlTRXdkYVg4NlVBLWFSX1plcnQxMVRfUERHYXRKLXI5cEx1QXpDSWhiZlp3NjNacjIwekVzQ3E0cXB0RXM4cUx5U0t1OEcyNlN4NjN1MjctaG1maDB1dm1IMHk3ZXFkXzJnWFg0UDZNSV9OLTJsVGFRS3FxOWV6dWZrWHpQN3I2TG9SRW9LOHpsUmlWR0VPSWItRkluVHJOUVVRdnJ5UDNvWXFFTzJBaUZB?oc=5",
+   "published_utc": "2023-12-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai News: Arjun Kandhari Appointed As Maharashtra Core Committee Member Of Yuva Sena",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkJqbU5sSTdQVW43NjZ4RllvVFVPMk9qSjN6b20tM1JzNEZZMHdUbXJ2LVR5WFlXLWdZY1VmM0tSanVxSEdyaW15b240dzRfRlU1UUV2ZWI0WF9LUUxkRUJNTnlScTNObk9Na2kwblI3U1V3NzRlUjdpUHZFaVVXN2dwWVNWTlIzUkVMb0YtMExfejNoNm8yVzNlbEpKME9ROU9hNUV3VFJlTEYwMGQ3d2dHYktTaW1yTGVzOTlzcTBLN2vSAcgBQVVfeXFMUG1USXZMY3NyVFNIVWhBc3R1NXpNRFBqTjFOalBXajhXdXQ3cFhUX0FZa0c2ZzZyQjZnbkdSQnRrNU8zRWFrNTFrUHlVR0o5MWxGbmdzbUt2eUJzVzM4aUZUdEY2aXItUzhzcC1NSHRrWnU1Ym8yUGliOFM2ZUlPbHJyVDVrdVdPRmREcVpWZWtRTUtKV1ZCQ0NkQlhHazhUT1NtYjJhM0dhQzBUclExY0luamZhQ05nLWw1MVBYcXVweDJGeFdyYWk?oc=5",
+   "published_utc": "2023-12-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Navi Mumbai's Wonders Park shuts on December 31 for New Year's eve security",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmc3TEd0d09SUXZYdzFyMkJnZTgtQm40VWFFalRVeUNSbXZDekZKeUwzeHVwUTJpbGUyc3Y5M3NGMllJZ3ZfMndOVlhhRmxkRWNIQXlZNXBaV2g3Y082NndWZlRzYmc5cnhDSkc4c2tkbzVWOTlTc3BMOUJoQ2xvNWpHNHZJRXdFMThTblIwc1oybFhpSUhCVG1XQXZNdmY3TVhGMnZZTEdjTk51Y1RmQ2k5Tmp5LXB1Vkxz?oc=5",
+   "published_utc": "2023-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Food Inspector Recruitment 2023: 345 Vacancies Open - Apply Now!",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUdwNDJxWFNwOFNIUVJ4ZDFaNEF2NGVCX3Y0Y0JLQWtkNmJuUzVIdl9QWFZEQU5hZ2Nnb1R2VmJWcG5Icl9WeU9OaVNRWk1mcTZDUjlvVXE4cmdpc0N5RG1MRDJhSkd0a29SZmg0SlNac3NVT2xMNjh6YXhTYmtXWTVMSnhHMjNtYWtaMGxnX3U3bGRJODR1RUM5NVpjZUU2TGtDM1NRN0pFWU15cFF1amMzYnPSAboBQVVfeXFMUE1Bem1aS3hwSERCd3FSc2M5ZG8wcUZjbk9qRUlWZG03N0tJRW5rOWVQVy1fcTF6WEJyakhLYjJnSDJQLTRMaWFsRnh5UG9vN08xRXhKQU55MDBkUlVLY2JGMFdfdzUyODRyNHBKYk5ncDhoVkViaVZTTjNneHkxOTR3Y2JOa19zaXBSVzZkQU42ZnM5WjlhTVlYanNDZ3VvRjNBNk54ZFNnTEFsWkYybmt3dlhfS2J4U05R?oc=5",
+   "published_utc": "2023-12-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet the new Goldman of Maharashtra, Sagar Sapke",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZjZTRXhvaGpnZzJMMTBKamtzZkZFVUI4ZE1BRkFGUGlvZE5BTzhlM1VnRzVUcHgwdVZ1R2lUWDgzMmRQZzJuN1pmNlp4ZUR5QzM2OWl3bG5SYlVBRW1PVkJ4TV9tanZKQ2hJdF9fSVVYVzJ5bmQzY3BIdHR4RmYxQm9BRGFwVU93bzRfSlBVQ19JRVVrT2txel9OdmZYRzFkYy1JbEl0ZGtDSURNLVE?oc=5",
+   "published_utc": "2023-12-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

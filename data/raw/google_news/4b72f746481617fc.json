@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Ministry of Education to launch centre of excellence for AI and Robotics at Odisha University",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORllxbFpLVm9HelByOXlDdm5RNUpIeTdzSXZnWjNFOG1iR1NaMkFIb2VMbDI3a29XTlpERWVicXU0bWhQY1g0cXpLNWFHaFVaSW1EZ3FEcDFIQjZzem5fSWt1T0Z3RzFIekZaakpVYUxhREI0U1AwSllBZGo4V1pzbXFrUXZ6dGdwcHpJNExEblp0UVVfQ2c0LTAtTW85MW11WERLalE2alBYNnRiMFRsUzNhUTFlMXZpc2ozb0J3?oc=5",
+   "published_utc": "2023-02-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha launches Ama KrushiAI bot for farmers",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3lwOENpamQtWWJRcTJMYk1VNTZVRnZXR2dJc09ybFQ4MFRNX21JSXM5YlREZnRJQTN5LWRiQ3hNbmpNLW9wR0gtYkpyRGtWdGw1SDN3YVU5MU5GOXVVZEtUZm0yc2htTjU0dmJvbGpzbGd3MXRwdWhOME5WcGQ2bEZZZTdyMXR5X01kS3JXSXB2QmM4UGl3N2QyODcxWEZjS0dwQmF3TUEwOG5GSkZfYdIBtgFBVV95cUxPT2QtU2ZFUXhEaGRxZGdrMkJmQ21aMmxNcUtmSHQxOUw5YllremxveXpoNWcxZzdDal9HYzJYZS02RnhqUC1GeE5wMFd1d2NHajZMWkNTYUJiMVY1Rk9xSFJPZHprcjFSTjJDUHJ5Qm5lb2NDMmhGS2xENGU0U3JTS2stOXhjMmkzcmJzM2hMSmY2czRFVUFCeWt4MXFXY1E1WWRMd2NTZkRFQnhkdG16ZEJiT3lGdw?oc=5",
+   "published_utc": "2023-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first agri chatbot Ama KrushAI launched in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPODVSQjNUNU91TjVJdzZ4U1dUQ2F6Qnd5aGxZUFlaOXdEMm14d0tiZmwtZ18ya251eldYb0RhZGlWNFExTGxndUhtTVZ1Q3pNOGhWMlZwdmxSblhWWjJtZ2ZGaEU1OUwwVVA1cmZfVHZKb2kwdFFnRWVDeUpHRnRjcF84OEFUMlZWZzI1OFdzSld2UE1oQjRtODh6RUR4VlpBWm1nQVExVkdHWEdOQ0VBQWxTWS1NekxoTmlWLV9YY2M4QWtWcTZZ0gHUAUFVX3lxTFB1S2ROeEtVcE1hODZDekt2WWd6bTU1ZHRZT3BNVUJYeWtVSmQzcWJCSnNLZzY5ckdJWFBid2lmdFJSTXFqUTNRZTFnWEtTVlh4Y1lwUXNOTE55c3lnMlhCNHJuZnE5Vi1kS1FUYkhheTlwcjdfYm9obzU2dUtZM0NzcDl2N2dYUzgzdVFzTlM3cXdGVHdfRlY2clhpTXNGVHpLMXVwczRjVmtyZ1JhUS1ZNUFJMEdZZ1J4V25aR2M0ZzZ0MlNZOVZVc1o3c3Z3clNzVzRX?oc=5",
+   "published_utc": "2023-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Launches India’s First AI-Chatbot Ama KrushAI for Farmers",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUcyaUR3TzFlOHI0NDRUMjhwSHczM0phdmdhWi1nSVJ4cHdGWVdTMUl1WXNDNDY4SXZ6bDdxZ18wVWFtVmMwWVJWVUFJeF80ZzctbzVUV2FaeU1iMXVyWUpPRk1keWF1TkVxOVk3cVZzaEc3RkRrVF81cG5YQWhpZHFkSkd6bm95WFN0NmZqUFdnRFljNFJBNEwyNVB1aFJXUkpFc3pUdkhPZUNOZllj0gG3AUFVX3lxTE1MYTF1a1NFUWRsbjA5RTcxQUR1Vkt1N3ozcDl2ZHBIM1RYeTJwTDRNQ2Y1RFFkZnZac08wS095X1BkVTE5UDljemlfcWwtSDF0Q3hYSFEwd1pYdWEtUFZLYnNERjdkRWtiSUF5ZkZ0ZkRfSmVKLV94Rkx4YlMzN2dmd2xMMUdacEhVV3dSVkV3Uk1EdGtFRWRqdGotOXZrUlBzNWZYTW4wMjYtZzY5elRHX2g1QVpodw?oc=5",
+   "published_utc": "2023-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "4 new medical colleges to come up in Odisha",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYV9LMHZqdG9fSEgyak5RQXA2WmZNQU41R3puYURRWmtwVUhyM1hlSmpyY3lmbG1hSnVDeC13NUxfcnJzNW0tWkpoSHA5bm5yWWhmX1BZV1IxUlRwQTlIRy1hYXNlTUFzN1RxSGtjWE5KbjNnNXRxcHlkd3lEeVNXMGc3aEJRdWM4YTVnZGVLNHRtLVNvenJIS2JQRVo4aEswOHZCUHQyTExjdmhwdThR0gG0AUFVX3lxTFAxeE1NbVhrQjJNN0RXbWVVQUdCRXhuRTRKR1VXYVdtdFNiSU9ld3ZreXBQcDM0QWZwT1phM2tzbzZRa1h4bkJMalZBM2FoamJObDh6dXdFR2dEblpuY1EteC0yZDV0SUd2RDNtSUg3R0JGUFB6aVlOcTVJd2gzQWNqVEExZm1IVDg3WnVKajZBMF9wNHFmUVREMjJOeldUSnJDY2JKNlk3Y21zQUpwdEk1THloTQ?oc=5",
+   "published_utc": "2023-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-based search engine to help cops gather data in Odisha",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYlZ3QzhoVUxIWWFTOWZmLVREbDEyajRHTEJ0YS1Odkc1UmtNcjJjWHFVTW91blh3ZG9zZ0xmUElWbzlQSUhmLURsY3p5UU52Zk9yUHE1cC1zcjVUWEFpNGZHLWdjLTZ6VGlwUloyUnpZNXJtMnJUQlI5ckRHMVVhdjc3ZElUWVUtQXNHYS1rQ2llNGhjT1NuQ0VFMk1JVGRWWWJlZDBpbzgzdXBReXRRZ1FSZ3pBcll2d0ItMmNrLWhycVHSAcgBQVVfeXFMT0VqNkJYdDUyWWVaUjhWbHU0TjdudXIwbXZwRk5VYnl0d2R1cS1sWXA1cU1BcThVWlVxMVhsdXh2QlNCcmoydTZoSWFBUE5RcjdhRFJDUUgwX243MzlOZGczeXczQl92cm40R2pkSkxacmZidXhXTWROY09XN0ZYanV2d0VyakV6aW9qTWVlYk41dU1JQ29UdHRyUV9iVVVOdDB3MEpxVDdjUXMybjhhMnNpU3NHM09jRnhuMEVLMnR6bVhmb3pIeXc?oc=5",
+   "published_utc": "2023-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Several Injured In Police-BJP Clash In Odisha, Over 100 Detained",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2MxYnQzZVV5S0FZaEdmX2tIVmM3Sy1xbHlMUDFRMFB0RjFUQUVOWnI3RUs5dmdYWlBQVWFhTUp0YWlIQ0JtbXRLaDJ6TEVXWlBzQmRrS3c4YkotOEo2V3VVOWwtYUZ4QmVERktwbktwdEFsa0ZfbDhQMllYT1AyR2ZJbVVvT3FwcGl5TkZVMUtrRm1LaHN1UGpiWkFWOHl2RkZYX0pn0gGuAUFVX3lxTE5MeFh4azNDQ21qWHM0Y3JDY1JCdElCTkhHdUVTT2ZPSVlJN0ZhZEQ3TjdiSTY4aldKYnpqOFpnSTJwZlp5NUI4Y012dlEzWHlra0FTRUJyTGdWRDlseUNkOXhBb1BBWHZuN2RCY3hQSjhjNjVqcEJnMjJYOU52QVNKRjRoZUlDZHo1ZXZEVGFYcmhEbkViYllIdW9sOTIwcTU3Vi1nRmRrZWFQaHktUQ?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Budget: School uniform for all students in Classes IX, X",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV3BjdWhpakRxeWhBUVZmYjFSVGFPaEtqTFhWeHJQSHRYYzVfMnlFTlI2eERfU3p2SDI0VlR1RFhlM19OOFpWVGtuQXNfbC1VTDNRQU8xNi1HejNuSzcxUE9xU18xcXJhWWFkS0lDT1V2TUFnR0pwU3lSOVZxVHdIYWVxRXdyWDZQdmxtY0dBWlJtZUpBTTNQa3RMTHhrRzlpdFFqd29FWGhLX2hmSnVDVmVCc29Yb0w5YUJmbVRvSkt6TTd5NkYxWVlXVERtdlJIZFVB0gHYAUFVX3lxTE1rX2o4SnVNbWdsM0VxeFNNVkZrX21mZ0lhTG55dExlMWM2a0RMbXZBZm5JU25kdmlyYzJCMWkyNWtWYnJtbDBHV01teldpNFRTZkpKRmRxUGprbXBQenJIQk9JM2RhSVZ6ZXRrLWUzX2ZyMEhGbWUxWHFKYXRjckNPdURFa2t0SjNLU2JqcUk1R21VWUpxQTNVVW92Q1B4NkFLa0tuMHFYS2x5Und1bTViWGtrZnRJMnZWQXEwNXltLVlwdk81eWM4UUY5cFlQa1Rrcm00V3c2cA?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dharanidhar Autonomous College in Odisha gets University status",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdTc2b25kaXFfdjdwbEtKVlhCRmhrQldyY3FXZFpsQ29nQVhidjNac2t5di16dmxueTBiNEpYQndkQ0xQSlhFSGpPbWp3ZGxRc1VQQ2ppR3czQnAtV0FGVXc5d3hXcXgxeW5lZ01xa0hpWFJVZ0ZwQmxJNGlpRDdVWU90c3NSMk5YdkEwbnpIbG9IVXBTcmlhWFFqRzBwR2lwQl9mbVowNkhvRUlCU25WTHhkeUdnRmxnZE0xMHQtTFNGcUlvVTRuRVI1SVJlU0dTMEhGMW5B0gHbAUFVX3lxTE5hWS1ib2dkVjhXT0RrT1RmQkJUMDZESGhacE1OX2J3amVRMDRTaGllTkV6R1hIWFFfQU80NVdZYTQteWdoQ0pYTGlQSnJabm9CUTlCbVcxLUZYWVJjRUY1ak9TenliOFQ1ZG44NFMtajJmOWYyUVNkVjJnM3BXSHJqdVVsU1dldk9ReS1Ka1M2SnBOSmZfTGNKNVNGQ1REYldaSkt0akNiRE53VWJnMi1xdHgwemZoQVpCU2MxaUhteno1OHNFUjlCQ1JCMVI1T2J0Q0FRU2Y2WlpyMA?oc=5",
+   "published_utc": "2023-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Police Constable recruitment 2022: Application process closes today, apply here",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQnBsOHVmaXN0ZVEtTDNJYUVJZG9wLXJUYnRtc2JSd3YzNEg2Qy14VUk4Y2s2eHVpOG5QLXpsVlFDN1JkMTdVYzc5MkJQSXFOckh0RE9WUWowSWJNMkEwRmZ5VHFYOTNUUldIMF91NjV4SHRHNnp0TmRHbkVGWDEwZ00ybVlwUTE4T2hyODR5emRXYXplSUpCMW0yQzFvZExmZVpEeDdrMWhVcHlUTW5Oc3h6RXZlRmFSVU9heW1hNXRiUGkwYmMxVTUzWWxtdWxtNjVLNDd4QWszeHczdHpFMENYUHNwX01IM2J4ZlkxVVBVUdIB9wFBVV95cUxPSmRMaWIwbmFFcGdRMUlkNEx4b3RNTEVTVVpOWjBOaHNRS291aWF6V1B6c3E2Nlp1N1pSbHBNN29HS2hUc25nRGgtUTgxYjZNdkFUVDFlYlVkSlFqZ2pUYkVNVnE1MnNLNmg3LU5aUUVFeW9EOC1QS0pRUm9hYWl0TTRCYmF3eE13SEE1aURmRUVmbHBrVk9WR0tpRmI5OUhmMmYwSEhxaTR2dE9iMjdGQkZXWFAxX2l3cXp6aDZBRVJBY09vaV9LV2ZaQVI5YTVVZ0d5M29EMFY1U1IyTFh6X0doT3p0YXdfNHg1YzJrMV9abXRPWHRr?oc=5",
+   "published_utc": "2023-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

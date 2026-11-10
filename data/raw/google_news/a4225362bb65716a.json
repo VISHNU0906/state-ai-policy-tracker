@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "DST collaborates with Intel India to boost AI readiness among high school students",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcTA5MU5INjJFclBGYWpIMDhoN3RSbnhaQUc4TnhSSjh4RjdsRkpBWVRvcHdCVG9nRFBzMG1oVnU4cU9QRUtZV1huTkU2RXctZ2ZPNWk4dzA4VnFITW5pUWZCYW51c2l4Uk02X1hsRDJ0VkdxdVVUamRBLW8tS2dpamhlMkF4OUpobzNBN0dnTHF4YzFWbTdUNE1zVkFnUWp1QU1TVGJ2UnMxZ09kOXAtUXBhWDhZQUx0ZEdpYmlzRlQ5OVpMN0dncVFDbks2ZWw3b3JWOXF3SUsyUVpsM3hPTDdqV252NU53cDA4S1RhMkdEUTE00gHvAUFVX3lxTE5YSmNsV2daSkpDMG1NX3FDWEFSZE1uaFhxM1kyaFZ4VWJOcXVjWmg5ZTgwWFlzTTh5aXBmWUEzR1F2SzNUb2FUWnlWWXJxYXdOYnVEUVVOSS1mTmpYT1lXMUMzTDliTkdaRXhMSlZqNktORmMzdHVqb0ptbUNhNnRyRTdvbzZHYWJrejFST3JUQVpnTjZ6Zjh2R0R5WFdhRktMMGlzRkpxSTZRRUZYLXFmbXNJYTRMWWptNkl4RW5lUC1PQXo1VkF4WWV4eWE0SEY0eVhzLTlkenNkZXkzd1VDeVp6eFl6TXV1RHBfdXZZ?oc=5",
+   "published_utc": "2022-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After BJP's Massive Win In 4 States, Devendra Fadnavis's Maharashtra Guarantee",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUhGa29XSnRfd0xxdmlNMXN4SVlXNHVSQ0U2MVJXS3JrTjY0TnVKMUdOM09TZ25hMHp6bE1TMV9uX0cxUHFFSTU4LVJESEZHamtRamZGaFVxQzdHeU54b1BlRUZwQllMZTltUEpJZ0RDNFpmZ1cyWS14ckxDUUJ1X21nYzJjcFoyYjlHbGhIZk1kRjZFei1TTUw3YUVhanJxdlJaeEJJYWlCeUhtLXNuMjlnd2dtQQ?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt may change its mind, hope for Nanar refinery project revival: Dharmendra Pradhan",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUGJCdzBRRE9sRnhpLXFuMEttLVcyU1JleVJDN1RIUjRqQXdnVkpsMjl1aU9xeXV0a3FQMklEZEY5TzZqeHZKLW1nNGdHMW12Z0xhVU90LUpZSFVTRS1sTy1ZbjI3a25jRmNULS15akdiUWtYdjREdkxKelJLZE1TQWJ0VHc1OV9BY1RTZjlzUUZPR1Fxc29fbTNuMWplVHRvajA2RFVvQU9XTEFsMGN5Z0dKcXl2Y19ia1VtWTRlMnduOXlEWTJGNlFB0gHQAUFVX3lxTE5uWmgzaENUb3lMTmZrSDJSekZjS2tnZ2lfcjNkQmp6Snh1cUw0NUJMcS12cTVqX2s2YmVsVjVLMkpudjFUb3V3YVJxbWdyem13TXBYUkpld3FCcnZURHZkT05xaklJRjJzY2FHb3ZMcHpYZFNzY0VSZndFYUFBeUJmT2Q4ckg5ZEZUZFBNbTFsTF9DZl9fUHNmTEcxbW9KeE5PUFlsUThhdFF5VGZ5b0cyNGNNZTJySW9adlU0SkxnWk14YzN3eDUtMUd3UWlpWm0?oc=5",
+   "published_utc": "2022-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kamathipura redevelopment to start in 3 months, says Maharashtra minister",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW9wM1dPU3R6RVg3LVpIclBFNno5clZQNDhiTzFLZU9YdXc5RWlXUWZzQ0dBYWhTcHFwU3B2cERwMm5zTkxJQkFFYUUtT3FRd2R4UjMwRGYwTUI5N24tR2hCRk1RMDVhazF4WHZIbXRVM2lZWXN5bVFRcXYycWdzNWx6dTBERlVNcDZFby1XNnFWS05mN2FiS19YYVZLX2lhYno3Wm0tRGphS0tqX1hKTEZR0gG3AUFVX3lxTFAyUDIzNkRfdnhveXlxSmdrV3RLM29adkZQcjI1VDR3NDBGd2Y1WkxNR19DaVFpQXVpb0c3QXZRNjcxN1hSUkVUeXppS1RyQV91VEJmZ0d5NWxIU2EyY2VEVXhrOFByOUZ2dFJUMnBPTEViRW0wLXN2QlBDRExmb1pINDVWSk9uUVlBdVkzX3poNC1IX0lzZm1kam82bGdjblcyeGVpS2s1alpDVEp0SkRBYkJld2F6TQ?oc=5",
+   "published_utc": "2022-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Maharashtra minister Shankarrao Kolhe passes away | Hindustan Times",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS21QU0hLVjZmUmxmcGJnTkN4Xzg4Tzl2cEdoNFd1RjEtazBVZnpzTzBCZTJydkM0QjZMRzVhWVc4ekljM2ZlM3djb2I0T0ljWkt6UkpJeTVCck1FQ3JUeElDOFl3MHRvY25ySjVIR3VNVjE2alZzWXpRbXg5UjUySjRjMl9DV2hydUliREdwbG9fVnRLYVFVSU9OeUYwdkZBMHRqMUlXeER1T2UxNUZqMWdnZkVWdzU4djBBdXBVOVhGeEHSAcgBQVVfeXFMTnZraHVxcWZGc20yelhVVUljcEpCalRiZ3FxRVZadHY1dy1PYzh0Z21maG5GM2lVaHlpckFlOENBbWtXenMzYS1aRVhGaDhRcjBweEFFbU9oVmljRklWVUJ3b1pIV0E1YnNBXzZTQnF2bGtuY2J6cW16NGhCdk12V2ZtSmM4dURhMlRKNWJaNm9pRlFHQ0pVVHI0My1BWEhBU0liVTFTQzVhdDh1NXhydVprV0FUcFgySE0tcGRjdS1PcWpyeWVmYU0?oc=5",
+   "published_utc": "2022-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Minister Nawab Malik Being Linked To Dawood Ibrahim As He's Muslim: Sharad Pawar",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlBMdktxSUhfZGNFVEtlTHVaLVN1cnhfemlQS1dYOFhDX3EwbVY3ZmVFYWN3aGFjbk9ITUlCbWtFUXJ6d0xWUEtNYXNVRm1nYmx0OFN4eDdkb0VOeG5OcVhqZUNHZUFwUC1fNUJyVldtUDhQdEFETXFQOW50czd0ZThrTHljREU0ZkRkM2pLMGdMNnpaWG9FRmJjOWdhb0FtdnFqVFhRV0hsTC01aEdYM1U0dHcyWkFZYnFhS25GU0Fad3QxeGs5T2N3?oc=5",
+   "published_utc": "2022-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI should help women access robust institutional mechanism to create an information equal society: Meeta Raj..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUEZCU0w3Q1dVeUVYQ3FXRUpRWnVUdTNmWDdYMWZ5a3F6WkxfZXl3ajViZEMxbjRxWUtwc0llckVyUk1KSU5vYW1sbjNuN2h4TkNKZjY3MzdBVHV4OHgzRE81Y3ZMOVBlWkJOMFVfVmhuNndwbUtYaE9sNnRUTE9IYUtVR01HNDdmYnozR1FiaDdoNFhMclg0ZERXOUE0U2Y2a0twWEhOaEg3TzNfdmUySnpYSVA3MnplRUNQUDVhdzVucUdzLW91UXk2d3RUTnlxLTRlaHBIamJSMkJXWnJ4eE9pS2VpNDNCYk1VTGFYWTFLZXlmcGVLSU1laG1vQXRGbGpjdGhGbWxaelR2eUFZeUZkaTR0YVnSAZsCQVVfeXFMT0p0VUtmYktqVlp2SXR1QXh3dnhaQnZBRnFOOUhDeXpJRmhtamEzUFNGTGdMNXJydDE4Wjdwenh4SHBqZnFJYlVMNWZtaWctcFdveHV6UkUweEZyVEJKQnVxMUktaXA5Y1hLS0J2NTRNWUhURV9GQmZhanpoV3dINnh6RTltSnhZamdvbnI2UTZhN01BaFI1WmZCbEdjZm1hTXR1aXEtTnRPYk91a29CQXd4SlU1RzRkVHVmWkRTV2RRR1dyVFRiTlNNWldkUDNrS3VBdzhPODhXOWZOUmRlZTRMV0l1dFNHMVhpMUN1SmVfUmlpUGc3YjVWNGRzbWJVVzRBeVNCLWJWNXBiOG15c0V5VUlPUWhrS1B3QQ?oc=5",
+   "published_utc": "2022-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How Maharashtra govt sowed seeds of prosperity for soybean farmers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVBDWjlCT1RCd3pGb3l6RFJ2WGhiQ0lnTEpxeHRHb3hrQkpKb3F3dzVFVWhuelFteGZYMFFHYUdRSFNqZWpPbVNMVTlYaHZFdnZUWUVOcFdCdU40cVZjeDg4cy1zRU92am9ia2U4MEtUdDktQU51N0h5bFpNcGV3YjFrUXpubzJ6U09UU2pFQ002Yk55SFdRbzFWRVBYMzFSVnB6R3IwODJGazBJaElLUWlaaUZnX2NWcUFFWdIBwwFBVV95cUxQbS1ZWmt5OHlIdG5WRTIwb1R5N2VUU0tzcDJJYjVRTkVhU0w3LTBPRzdnc3h6Y0dMVWl3ZUZRT2NjclJkQXgtYUFaaWJSS2xJMGttLUZVSFRVZUhvTDkta1RiRENpUG5LMjlNUHR5Y2hrZUxTUVRNVkpGTy10LWl0ZkZyYmtrWXFCNm4zY3pMZnFzWENmMGQyUVFFd1RJeUo5UmI5cWMwN0ItaVdKTFFKd3VXMXNsREJ5bzVFMmFBVnNLX0U?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Minister Nawab Malik to remain in jail till April 4",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNYWDlKelhNdVlQOUJRcG93OFNrdEl3RkFzM2dGZE9mRU83ZVJGSmYwbmpXYWJPQi0yNWZrQTJrQVpKQTdMZnROMzZ1X0NKbFVrSjRsMXJna1JvZXVkOTZvSEd5ZmxpV3RFMDdteEVIbTZMV0ljaUc4cERVNERiSzhXdGJYeTlBQk4zNlJyR1BENW5mY0YtdUh0ZU16UGptUW5OTVJQWUVwTEUtenl1R3NIS3hKaWluOHZIRtIBwgFBVV95cUxQSW9fdHRfMnFfc3hra3MwMGowc2F2Q0dGQWJpUGNUVUFpV0t2NktHb0ZMUV9rMmMxaExUNWtvQi1iY1hCOUtUUXo1VjYwdWljQWVSZHRVenZ6NDBkcEJWZ1V3dlZJN1dmRDFjQjVxWnNCZWVSQktNYTFNUWhJQVhyOUNqVGpVUW4wclRKUHlJMlRkZWN4VWJoTWpMSWFBQlNCQ3Nzb3E2Z180c05oMVozbmsxRy02b0puUkx3Q1JLOWJHQQ?oc=5",
+   "published_utc": "2022-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nagaland assembly first in India to implement National e-Vidhan Application",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3BTWUpFeUFFUUh0dWVtU2FWVFNGUVZRM0lpMkZaR2ZrNE5ISTZMbmhMLXQwdXNPdzQxenpkQ2NrZFFJNGYyY2cyZzFzb01Mbi1UMmRjOERYR0xESXJQSkdWMEdPVFRaWVppS2FNMWV1clFwRlNZNlhmbjJFazFQT1hYRnU0VlZSNGZlVGlpaUJ1UUtReUxhejNGcjl2UkNKdkxXWmQ1eFdWRHRmdm9yQXZjOGtrVlpVcUYycjQ0d3JuaFRVZzlKM01uXzc1X0NVWThyMnZ4Y3NHRUgtd2VoSUhiNHY0Z9IB6gFBVV95cUxPNmlpZC1zRUxYS1E5UGpQVXdlOTF5ZWlyQ2lsaUxTQlhkZFJlakJDVFcyM2QxSEVodEQyWUNSSE9hSjkwLVNqcWJQM1BYb25fX1VsSno0Y0VLcFZYdU1fejBFQVY2OC13SVJ1RllFZDY1d3dISVg5dU1YRXR2Wk9hZWFyM2R2cDByeTl5bGplUEExOTNFVFltS2J6S2NTd3FVZ0VZdkNaYndaUXRna0dtNVkyWnY1WG0yU1lWZnctZFRWMURnbzdTTmplN2lnd2lURjllaVZscHUyN1dyUlB6bGtPSGdzTHFvc0E?oc=5",
+   "published_utc": "2022-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

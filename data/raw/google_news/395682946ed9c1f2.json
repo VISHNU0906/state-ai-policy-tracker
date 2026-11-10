@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Mamata Banerjee Meets Odisha Chief Minister Amid New Front Buzz",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakdpRVBybVk5OFZ1N1dVSEE2cmxDcnhVa3pWV2F6WFhpd3drUzNsQk1aZXpVOEZqRHloVkk4ZVI0cmF6ckdVTjd5UFNZZGxvNzBjTGlTdE15eEdYUm90MXU4RHR5eDVqclNndGZXYklXQVhTX0tqNm5GTTdkUm5HUlJpbEZKNUQwRzNTTzljXzUzTlQ2VTZ4bkJra1JnS0dkZmNZTUFR0gGuAUFVX3lxTE5BeDFjNjJjdzY4S25rNWYwQXYxOVQtLVQ2WUVjUkl6cGR3dEo4U2lLS0JZUFkydWJGUmV1UG5WY0hDV0ZKVG0wcjlTWnFiX3VSdGdldGl0YjFIbmdyTGtwYnNlZEVKeWVYVFJPckttaU9VeFBHR1BEbDJJcFlScGJDTENEZTJPbTNqOUlBZUk0TTJLTFprU09RV09YTzYyazVnbDk2em9QbXYwLXkxUQ?oc=5",
+   "published_utc": "2023-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odia techies working hard to breach the language divide in Internet",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjNJSkwzX19qZUU0M0lkZC12VWlvSUkyWVp3aUhST08taEV0Z0E0b0xjWWU4c0Njei1xU1VBZlZHdVdocXRnUGpJMUlkMEprUDlZVWxLZ3RuZjZGb1owY0xyM1FVVk9Xbkt1ZVNNU3JFUEVrdkF6QUM3MmZUd0MzSlNCSFp2cXpLYWliVkdUQ1Y0T2hRbTZDRUp0Rmd2N0lfRkNkYkFHMjlXQThtSEZFOUQzRkNWbGVTVXVjVlVKaDRabkJYdndIQWFaRkRkWDZYQ3RSR0hzTWRoU1XSAeABQVVfeXFMUE8tR0x5YXlReFBZMHliNHpCNkFuYkhzOG03bXdVQkRuUE5OLW1Od3QxRC1EUFptcnhQOGhKd0x4QXBoSVlleFJ1Nlo3d2VDSjNCaU5KZFo0QmJxc2RDb05hOU9DcmpadVljeFhKZERwc0drQmFvRTJrazFDWTBaTE5GOW9fU0FPbVJuZ3QzWGw2OEhkTVlDTW9kN3IyTlFOdVFYXzBrMFc4WkhCSXM3b2QtdnUtbGFFX2lTYUNoZVFwN3A3d3dZNXRzYWtqekxRZHJZLTZRUlZLVzhSeXpjOGg?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "3,749 illegal Bangladeshis living in Odisha: Minister",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVU9ZLW9Rb0pmMk44d0gzV0VKdUQ4V0JYdk4zTkQxQ0ZoMWE5SUs4QllVaU1IbExNS0h0bnhwdWtFdnB3ellMYmo5Y3dwS056N1dYU28tYUlFeHl1ZHgzUFd4alEzMzF3dUpRTFZVLWQxUE8yVWFqcmE3ak02U0hJVFdTZkRzRzVVcWpGU0dyZ9IBlAFBVV95cUxNOS1kY3ZDV2w0WFNUYnBQclBDc3cwUWJGcmIzOUl4dkQtVm0zVnZXZGtmOGY1cUpRallGcTQ5Z29ITzdKaWp5WkhJMHBxU1liUEFkbWtxX1NmSmNtNExBYlZiYUhzcFA2dGVzaHYzZ09DMUh6YWRGMDdZTzh5QTlxWUtBQWVZVERxVWgxb3Nra0N6ZFZq?oc=5",
+   "published_utc": "2023-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM unveils Biju Patnaik-'s iconic -\"Dakota-\" aircraft for public display",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOEw1UGl4RkRLZ1hFa3gtZ0lnSUtpaVJMZFV1cXZaNTlQTUx1bGhSZGx2Wlh4eVd2SnNUX0tQWFJrb21iNkIyeUQ0MmdmNlZlRzJSaGxBblRaQ2J5d2lqUldmQkVoZUtMVEZmMERKWTQ3d2RGNnFnb0s4dWluXzRrR1p1dFZIZUo1Yjg5ZU56S25jVEZnZHFWNU5jWUFVdHVNVGVxOTE3Rml4aGpYTHo0cVIxaHQ1VWFaU3NqZEgxcnhvczFyVW1DNDZKVWfSAdIBQVVfeXFMT0VRSUExWGtKS01kcU9oWFFrM3Y1eW9HWFBUOTM0NHFnUlhXak5OelN4V0pYVk14VFVJNzVoOV9XSUh0eVFXYjdlcEU2STAzX091NjlOUUlraXM3c3M1d0xtWFRGY0I4TWdXR3BnQnlHU2hFcUZLbkNpczYxQkRxNUVxM3d3clVRbTRzaTUzdEdacVp5RlJfSHJWbGJoT3JrVjhkQnZXTEpkREM0RGU4RWxISHhKNEhpZzBZUGxGOG1IWG45SkN3MUUteHhBQnlWTm9n?oc=5",
+   "published_utc": "2023-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt posts 10 Ophthalmologists in MCHs as Assistant Professors",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVW1CTHJSSHAwZ3gzUDFVVUF3Ym80WmZNQzloSUk4NkJqMEs4aEUtcWxNd01VS2RfcF9NaHNnZ3Z4RmhkQ3oyZnBWb2ZtVzdSbjhmOXdEZlpBYWNzQVY4U3VLcE5Vem1feWhSakJoR1lWUDlCSXZtQXl3azdFaHY2N2c2cXpaa1MzQmUxazlDVnBoTnotRkpXRVl4ZjA1Z095cTZUQlBrbjJIakNDZDU1dXJGckRrRFBTSjllU2dNb3EwZ9IBxwFBVV95cUxOMDViTEU2cWdncWRIZXdtYVJtS3d0UGRKOC1kQ0Y2ZE1PWE9CTmFEOGN6bUtqem1SSF9zdjdxcTVRcDZjcVFhbEJYaV9aVkpaT2d0MllmNE15czJLN2w0ZVpnYzdPQ29QMlJRMjgxODdnNFFXYUlFbXRaQlNnWmJCUVVCVG9Xa0VOTE1zeXV3WGxjLUJUMWxadXN1eUlOdjhLU3E5dVAwZDJqLUYzUVZwS2JIOWlkSm54Zko5a2luUlFtUFd6a3hZ?oc=5",
+   "published_utc": "2023-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM unveils Biju Patnaik's Dakota aircraft for public viewing in Bhubaneswar",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUk1jWmt6cnVjanZBUXJkOFFlbDhzNS1uNEstRWtpdjkwSUZlWnRaOFNnYmViOVVkNEdXQklGT2t1cUZxa1hMNXRhUEQ4T2MyUEQzZ0hqZ18tZ1ZicjFwdnpaeFlzSjFEd2d2REZZd2l4S2N5SXpwRmg4Q2QwdzdiZ1RpY2p1ZVpNOW1laU85anVzSTJlVE1sNDB2cTVoRzdSTUdTQV9Nd3cxUFYtY3FhRDRKYTIxMEtITndqLUd2WFdLZ2pjQTRwNjhhSXRsV0ZjSFFvT09KQ0ZSbXVkaGfSAeMBQVVfeXFMT1F3eExuLVE2Tmhqd0d5VUgxYzJQa1NYUDdSanR3eDdWX0pQQl9ORFE4QUh6U3M3N3RmRENDV1hnS1J2bFRMOE9BZ1JZX1RwNndtRkRWVUhJOTVldnVyLUc5SThYRy1TNjdRZGdna1pqZVZpQ3NuVTNyUlNGQ2NFRnZtWmRxcVBzaS12XzRaTlpJOXhqc2libi14V2I4c3hkRVhZdTFGaEpFOEZIT05kZFdqRC1rOGlGOG5KTFBtSU5pM0M5T3h3XzlvYloxLU8xTTVOVHREUDNKM2NkWDVWaVN2MHc?oc=5",
+   "published_utc": "2023-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rising sea level submerged 16 villages in Odisha: Minister Amat",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2hHV3AyS1F4bTA4OHpaNDVoTllyblA5cFJ5a2hCQzdQVll1bG1PUzNuNU1oUWd0TmJYTVNtWVdOZkxxTUN5Wi1KTkFNRHV2NlgzUjJQX3duSDQwMmloVlVqVTFYYzc5M0tSa0RYVE1EYkhaa2FBSndwcVJMOEVJZU5Md3NNTzVnUENyMVF0Y1FFWFVHNjFHeHFaQTFaUGFYbG44cWk3OXF1bUhVaV9BR1NiSC1vMHE3LXRLNVVVUlg3NlR3bjVyQllkVdIB0gFBVV95cUxQY0t0THVjSEdKLVY0NUhTd19wN0pySGlSX2FfVzhCa0UwNTFtQk9CZmwxTC1hbHBDa25PMlZVRFY1cTF0c1o4V2JSRk5VcGRjSlQxVWtnVWlvbklxaVhVWGJ6b1lyalQ0YVVpa19wM1d2MU4zUnBwcEpMSkZKVW9HMDhOMkdiWWFSYjdJWk9YVV9hTGtWSXloSGVmbE56U2Z1V293eHQ2c3pRcGxBSDFHRFRMS01FNTBfem42VWhkdzNrVlJIQWx6Y1RvaWlMSUpDSEE?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5T has revolutionised school infra, says Odisha education minister",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM29JOWk3OXJWOHFCNk93U002NU9NejY4ZWJsNUdVMGVHQUxKVmJYR0dLN0dSWVpqb2FSV2otTXpqZ3dQQ2gtNl9fU3RIWDVzcmtTd3JSWExOd04tdzhuYjk3cW1zVC1nOGxjQ2phTUNYMUN4cXJUdjc1UGEyRFg5WUt2Mnljdy16RFdWeU5wQi13S29YREFvZE9ZQ1VvSHRPczZVbG1vTENYbjRnVmM0U0tmSmlFd2VJb1hrQ1pNdHZnTkVVQlRuWVAzY1BNV2lzSmRNWVVpYVnSAd4BQVVfeXFMUEdrRGxBdElGbXRjUVZUZUNVanY0S0U5ZjBKT0piYU5GcmpKUkloWExnZm5Hcnl1T19YUUczZkphVGxLSWdEZGRLWUJCOF9TbVlRTXNGcl96MTI3ZGthYzc4WkdXcExIZ1ZqSE5zemRUUHF2c1kzWWpzMzFONTNxSnl4YjZSbzlKVndkTl96Ri1LRXVRdkJ2dDVlMUpDc1NpM29nSktoaEZxa2pkamlLZE1oaXlCT3BXeEw4NXk4cE5UZlRfSDljSEhoeXJFSmdsQnJ3SWVjcjV1SHplbjhn?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Naveen Patnaik unveils Biju Patnaik's iconic 'Dakota' aircraft for public display, watch!",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMENETGNiV1AyY21YNURJUUtmRkd1QjhwSzBjMmJfUHBqUzdtalp3amJ5NXpKVlFmTGRadW5XTUVpdWREYS1TVHp1NGxsQjdBeEtzTFhSTUJCM29sM2FhWmFZcFRfS0p4N1RRaElUU0xQSXRtWkU2dWVwb25UazY1eW1TTGNVa0w4V2xoTlZQczJjMlBDTjNOQXVLRDVYRVNuU08zVnJfS1pGNjNJZWx3S2Ytc2NUNTNFYzVkUURhcGE1TUtxSUkyZEZWWHVUemRYUFIyT284U2U2UmE0YXJCb0FCQ0twY2RXU1VuWNIB8gFBVV95cUxOM0FueGJfQW1CcXEtQ3gwUnNrUHV5YVJuOUdhb1VvLS1HSUFJejFrQkFlSXN6SDFUNE9PRG1VSVZuXy1tbUl0Rm9oaDVnclo1Yzg3MV9hVGFKVjlTVGdWd0R1aFFDN3ZhWFBVZWVLbDJ0SU5kUmp3alQtZV8xZ2tMYU9JVnlWX3FQUEhGdV9uVGM4cWJTdG1NWXdBd244aW9SZGtzdTlfYlRiNTBSQ1ZtWUZLcEliemM0d256N2kxdUEzYzAwbUZPMkFFbWIxTEZCRUNuTDhiSEg1VzhWV3NtU0RqaFpyUVZTLTZSYWU1MTcxZw?oc=5",
+   "published_utc": "2023-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "President, PM greet people of Odisha on Utkal Dibasa",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQk43dm5sQ1BTX2RTaEFsU2FtSmc2bE83TW03TzZSTzRZTjBiT2JmYzJvU0F1am1NNTFjeGI1LXhMQ2tWOG9sUXZiNFluZ2VSZ3ZBV3ByWVNzV3VjbTRhMHByRXgzbDUtd2FaMjNab3JjVF9GTkJLMzM5STdQcTJfYk9LaGlFMzM3NHVxSlpjS0htU3NkV0ZodEJQa0NWc1hYR2Zz?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

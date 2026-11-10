@@ -1,0 +1,29 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "Ashok Leyland to set up bus plant in Uttar Pradesh, invest Rs 1,000 cr",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdjhGZXFRYks4TERWMmpkNDBxZVpHNlh3UlZqQXQ3aUtMTmdrNms3QzJ5QVV2YWRVbjRsZzQtUGhsZ19KeGJNdEQyZUFMX3REd3doczJPdjJyRmRjV080a2d5REg4bWd5YkRESjdaYUtzazlFSkhvR1BlR2NDRHdRYndTcEZuUnRhel9HWTJ1VXg4NUVHV2xjajFWa2Y1UlVvdEhyam1FZ2ZCQkZ0eTRlZ3poM0lZVE9zY0xlMHdnczlRdG9LVVQ2bzJaS0FJWkxwaXZIODV6eEJrX0nSAeABQVVfeXFMTk5COTVwN1ozZ3lna1gzNmVNc1RnMzJlVHlrZWVxSUpOWW9GSm9fYy1KeUZIMDcyTkM4bmxQMTZhbE9DajFfcnl2OENpbkNsQVdQOWlSc2VyR3M4TzBDd0M3aWFESzhzSHhqcnRGcjNqZFhzRGNuNjJHczN6QmR3Wm5xdXQ0endLYUcxVXRNYWs4ZkRaOW5BQ21sZjBzaml1YU85dE1lMlVhaC0tUzUxMzhRX3dEc1RHcmhpQjBzNnFVTHJxSkFsS2lMcnJ4RHVEeThsajMxX2lmaDQ4Q0w0Vno?oc=5",
+   "published_utc": "2023-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt shows interest in buying back Daewoo Motors land in Greater Noida",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTUxjeHhsYm9TTUFnT3JzWVhHQlFtT1NyYnFMMnlQX0EwS3ZVcnh4SnBFckp0TGx6SDFzNXJmeWJzMHg4bHdIa2tyVlAyWGZzTnduV0t5ZmRYaTJlSnFWa1dtdi10MFRzbUdyWFJzVlVYWnZud1VPYnZQYS1aWVR1ek9jSWphMVRtdWRPNTdNQTN3NzJiX3RzQ2NXaHZrZXpKeGdXdVR3Tk9EV25oM3BSdWI5Q3k2MzRvWlRBbEhYc25fZDVZU3RxMEt1VE9wQjdGUmRmSWdsSW5wX3ZKVk03VE5R0gHnAUFVX3lxTFBoQUhsb0tiZXktb0JzOFBFUFJSbEJUR1VqQk9DTXB2QlYwWTJWRWdmYkVqT3BSTlNIcXdrOTc3OE4zWEllclE1QzExZWljWW9lVG56Z092dm1VWGJSb1dGNm9JcnVpY29LV0J0VGJ1NzVGRmxWMEpZd1FVdHVTajZNYUoxWGZ5dnA4WDF0UlFpZ29zWWZKbmthR3VmTVROVW8yZGRKOFVGQk1taTdZV05NS0c1UzRiajNyMGFfME1qcG9rNWJweVVMaG5PN1hsdE5qSlJHUGIyY3RqdUhsR2JTRGd3OWhRcw?oc=5",
+   "published_utc": "2023-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Govt Funds Worth Rs 106 Crore Allocated To Azam Khan's Jauhar University, Income Tax Department Probe Reveals",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbnl6U293NU5Rc3g1UDVDTlliS2RDSWZEY19DVTF0RlV3RUo1N1FycTMwNzZ1XzhuQTBBSDF1dkFhSUYwVERXLXdkWDhqX1RKTTR4dFpQNzBHVDdHUlhCaDdwWWF0bHNVaHo0SnR6eGhMTVFMU1VyYU55aDFVMVdFcFNGMURaSkU0b2RxbDZLNVhkWlN5a3BzUU1KQTN4aUhfdW9oN0pTeWIwRU1mXzJ5RXBaZnFSV3AtX0hZM01fVU5xempMLXVqWUhPWkdIZEpLNVl0aWk3RnhydnlFQWNBbmh30gHyAUFVX3lxTE45dXptRS01RlV1WDNXOFYyay1HcG9ibjFFQmExSG5BaEkwLVhTUjNaZXY1OExoSkU5R2R4bW0zWnB2TXA4MHltUGdUZ3lZOXFqTzhqbWNFaUFQNm9odERkQzRERFU3V2k3MTNuSEpCWnFhMC1oTGpSRXZuRF9QcnJ6elVnSDJDWmd4QV9HSmhhQko5TFVtM3FtcEJNZS05ek1nOVo2bFZxS2hyZl94TlZHXzFVNVVCSUQzTDNaRlpKNG9oMUV6YzkyZmRXOUFvSTJWcVR6TWdXclNPaHNUTzREdVdlSTZWV3BPblI4VHBNSUtR?oc=5",
+   "published_utc": "2023-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

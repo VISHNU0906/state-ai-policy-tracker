@@ -1,0 +1,61 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Sanctions Rs 1 Crore For Treatment Of Girl With Rare Disease",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeTQ1clNhNlk4WkZEQnRGaXBnLUVFdl8tWjNVYmpnMEFQMWpMU0N6azN5UmtTVjRUYlhGZWd1UUI2QXlURGRGX20yVHNQdWg0aVQwbFVzQ182dmZBZUg0OEphS1BPQV80WFhHV2pCWm1tdXIxbldEVUdHaWxvUWVVS09iREs1UWkxRXJyMF85bHpka3BmV3k5R25pMnBzNnA0RTZyaEpHZFBkbkJnRHc?oc=5",
+   "published_utc": "2022-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh announces toddy policy for 2022-27",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5Cdnh0Rmh0WVVzWFVPZjAyeVdYc0Z6OHFZcFVJLUJaZV9acy04NGFYaWpEXy1PbTI4alNvUlAyWUhiR3J4VDhvMzVLT0wxTHc0MkFOc3NhbEpxYjhSTVVYRERIRlZWOE1XS205am5wVDdJS1htYmNiRG1KMm45bTVhazlQNXI2VTRlY21XR1lBNlBqbGI2dTFJT2R0NW1lRlFrVVNSbkxCY1VsV0hfaVhkcHnSAboBQVVfeXFMUFBuRnBrYk9RRS0tQy0ySGxnZ2tYd2YxZXFOQ3o0OGFtNzgzOFQxRnB5UmxjRWpVT2dtVmNyX3d0RUYxaEpLbTZMQ3dnT0VkVkY4bEhXZnhrV1cxclJSNWRfNE9uMjNuZlJBdjVKclZTbk1zREF0cVVJalAxOGxQSkNuTWdXSE1abnV1cU84WHo3aFZDNWV1QlZLeHZuNG9iSUd4WW9EeDE2WVhoaTUxYUx0UGNnRHlLVDBB?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Watch: 40 monkeys found dead in Andhra Pradesh's Silagam village, poisoning suspected",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajhtaXNMVEhfNjByTlhTckZLdW4yNkcweW5icHBxUC1zYWM5TjFOTkNtQ29Ba0V0QUlsMEVRUGxWMUt5QUFCYmI3cHMxdUNsWldPYTFCQWt0OHdpVzBQaU90Qml5Vk8wbkZfTThKUzBXdU9WQTRYN3c2cEZuN3BoZUdMdXJqc3FVZGFqclcwLU5aN1dVckx6dkR0bU5XdG81UDNfb1d4TnYyMWFJVC15RHh3WmxsMWxoTEpFT0VBbVA0STM2aFBEeW5wVkpSODEwMmdoeldyNU5fVm120gHiAUFVX3lxTE9XLTZBR2wtMFBHdkNINEFzWkw2YWhrdUFRc2tQWWdNYTVPVTQwUW9lVzF6R1BBTXdMQU4zMDJsT3dYS29qaGZtWkl5VmtvV3RlRWhuVlhZQklPTlBWXzg0LXFneElMSjBRUlFXYlRHM2xDMnhhVzZzQ191ZDhtRFZkWWdaVUFyTmtfZ2laaEhJeEdWMk9TQ0w5VWlZMGYzTDQ5aUl0UXBHSlNTV2FfZ09wTldkRlZYMWVueWRhY0RvUEFtVDEyRUI2QzduaWNEOHhoTmpURDBRM3Uwam1oSU5BMGc?oc=5",
+   "published_utc": "2022-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to complete several irrigation projects in north Andhra expeditiously",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzM2R2p1UF9xZ3dFMlh4cFlMMnpfX0RBZGpDUkpwQ0E5Rm5CaERiVHdEbmZhY2tMUWRZeFhYSWNKNUNWSS1JbEhndzUycXVaWEFiWTZYLXZkZzhmTXJVTnNQMm8yZTl4dDlRNDVJeUZmX3NpQjBNUE1abGl4bHdaZ09aVkNyQmkzenNrYWNFYkxKYnlRNU1DbmdOaGotTnNzMXB1WHJWTGtHZldrTHpsRWQ0cWxBaTJBSThVWnVYM1NPd0NhRm1PMzhn0gHPAUFVX3lxTE44TG0zSTk1YVRPLXRjZXB0S19mSENIWHlfVFUyaGJmWUVwdU5rTklZdkxvMEh3dG1YUGN2MUlPOVl4NHpUdnE1anJsbkZRSVpHcVpaWE84VENqQkJFZzBETkF6MnhCZFJNVnVJLWtod0YydlIxLTdKbWNub3ZidTktb2xjbkJsOTltUVJ3c2p3cUpiS1J2bl83OFFnVjlCM3p5S0hRNjVUcHlaRXdYYi1OOXI3Z1EzNS1zMXNvaEF3bEh3YU14TGtXQ0VEYzlqdw?oc=5",
+   "published_utc": "2022-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt adds more procedures in Aarogyasri; total reaches 3,255",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQk1POFUzRExoS0hEdnRZaHZoNV9wcFNwWXJXaXZaVzlPeEl4OHdZN0Q2RmI2MXAzUGJfdUZIei1iRXdLRER3UnVLQVMzOGMzMWhGcEdyWHA3VkhEMTF1cHJiS1lHXzBWZVRMUVVGQ2hsSldpTHRuQXdJRUFrOTNsTVNsVlVHRDRScEtNQXFWam96LVpzTlBOYVlSUVh0S2hPN0dyT21GY1Z4bnI3T3Y5MlJwZWhRNUZhdlllRzl4dGIzRHBTUHFR0gHMAUFVX3lxTE9VQUU3eFRJUlhNWENEUVJ4MDAxWVNOajJLX2ZJZDNqakZnUzdKWk1KLUxuVndCZWdBRW5QcTJVVkZOSDJZZWtJUFZ3Mzh6T1lOQVhsTzRFZWdNQW9qVjVNb05jU0lUcUllVjltSHhtendiQlhjUFYwcHRMX05kcUMwUmdvamcwQ1lUU25ka0Zjb3Z1M19nd2lnbFk1d3BHbDhTVnhtaXlfRUxkRXZnYnkxZHV4VlpiVVBWX0dkMG96WUN2eXg2TnM0cTdEQw?oc=5",
+   "published_utc": "2022-10-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Spinning mills to be closed due to financial crisis from today",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUdpN181ckUwTlNZT0d4aTBHVGIxSDlpdmJRQUpRWGhqa2RFM29FMWZNeXpRS1JFTGd6a3V2a2hRMHpHNVNCUEJLdlROVG9jQ2hGS2NoZkFUUktOZFAxejhiazFxYXMyMTRhZEpiZXlzcWprNDdPcFlYd1I5RHc0dVBRYXh0enhaMlRyZkJmUi1zaF84Y1dyc2p2eW5vYmxpVnpId2piTzdxN2xPUTByMWgxZlRnTXV3U1F1cEE5UURaSHFDLVHSAcsBQVVfeXFMTXFZb1ZfU216Q2lUUFViaE5YUmRsdi1qdm5sa0FINzRaVDBuUU1DR3lTS1hiaTJnYWZSRzh3WnhhNzBkamZmVmNFU1NhWjVQdHJDNEtzWEIwY3RsYV9pRzVibUZNa2JIbW5vSG1XbXlVVTVsQk9fNUtXVFZmOVJVa2ZLVTFyV0dBS2JkT0F6VVpYbE5hYm5BVzZ3VGk5Vmt2QURueG5xbTdMY3pscGMtWkN6OTNUeGltX0JIQ25nSWpBOWhENDFiTmkyMkk?oc=5",
+   "published_utc": "2022-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tirumala temple gets hundi collection of Rs 782.69 crore in six months since April",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE5SYmQ2cEYwRmduZHBZMjJOVWo1SmVycXhueDFoNVQydVFHSEpzMTZHbWNJMmtOQkpWQjUyVGlqNDZNbnM0YUkta043YlpYdGkwRTJkZU5KS3VnLXJubGhCaEIzSnVZY2tPMm9sTWFjT3V1SXh0NVEwcDdndmZnX1dSNDJJUEJiVU5mQUV1OXozNkUzaWZGMHY2TFVLU1V1OFBRTk1JMWo2X2RvTEpEc1pnckJsenBSNWF5Nl9uUUplanJ2d3U3MUduQ0JoZHRWT2fSAdcBQVVfeXFMT0FsZjVla2tzakx1em0zSGVqLXFsUXhJZDVocVdmc0twVnZlSnR6TmdWRUNtcTBwVG5TUjBFM293UG1KNE9mV1lfZmJFeHFWRTZkS29JRFhTRGhKekc2Q1owVUdPRUgzQWdSSWw5QU10V2tBek9BeXNhaDd3ZHlzTktHeTU1UE1Ba19sdHFRTXI0N3FfQ3Jlc3BqMlJWOHVYMFhaWUs5d3FrWXB4MlE5YndQb3dQS0NyNFBKMUlOVjV6Vl82WEZtd2xDWndEYnZRc1pmSmRtcWc?oc=5",
+   "published_utc": "2022-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

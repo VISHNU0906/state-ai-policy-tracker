@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Chief Minister Jagan Mohan Reddy lauds State’s public health system at Davos",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYWdiTmxySEVQNS1tejRacDJsUWRkWXhsUk84ckFaVXlzbm94R0lPVHlEQ0FIejdkQ3lyUEIwVFFmXzJwaE50dk8tbW9FVk1Bbkx2S3RIc1NtejdocEhKQU1sZGNGbXdwOTE4dWZJTC1hcENfcVBzNV9LcFZyUTUtdEZUblpYNkI5X2JiTU5pOGpnbVNsTXpoMHJrSU5GbGtPTUV6VkhabUVjZnp3UDg0d2VMNENVWXV5dkoybExKUXRCOXYycjBOZ2piZ0JPTzNScnBYOUJLaHBaSGpOZ3ZDZmR3R19IOXM?oc=5",
+   "published_utc": "2022-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Jagan helps Andhra Pradesh win big at Davos",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEZKWTJKTzd0SWM5R01qYVVFS2pCckhDTHdST1NoQ2N0TVhGVTIxNF9KSXhLdThmNDJPa0xPMUNCZjAzT19rTmJnSEExQTBwaF9WWFRBVF8yNDhpT3dMVDdaY3RSUUxpQTRxUFZTQTZTVHRKZjVSaDhUOUI5b3FSRVdkOG01aUFVSkdRbUJaLWRpMnNiUG9JeVJYNm5CU01Ocy12VzJfcEtuUdIBrwFBVV95cUxOeWYtTzczaU9xOVJGeW41QjFuSzRLSmNSRXpRVlBfWnlfYzZXaHB5ZEU0enkzZjZaOXRYVXZybXJfMXlIRXVDVFhOY3I2YlJWVHptNWpqUkZuNmNiajdNcEFXY3NiUEI1UVZIM2pYcU8zNkxuTWd1c0N4dTJ4MFFXZXRBTWdiaDVYQ3FGLTMySTJEdU9uZUhNRVlTcnJXWkVsNlBxUHZTX1daeG1WU3Nv?oc=5",
+   "published_utc": "2022-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to make Visakhapatnam a startup hub, CM Jagan tells business leaders in Davos",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOODF1V0ZYSGVidk5ZeFJPWE1PUk1RVVVNMkNvUFAwSEF6dUo4WWFJYjNNeDRRc1dYU2tJRlRrVC16LXZtdFdGQXBHcG5hS0xxMFRnS0pRWTE1dEpZZHNrcUNncm1aWUJJMGtXbDBRcG84cklNVEM3czFCdnZlVlI5RFFXa1hCM3JSNnFlcGphWTZYTU95U3RpUTVVSmRiek5CU0tKWjJWbTMwS1FLRFMtWXJpUHdJTjRCOEE4dmpQaW9TN1Z2V240MzRFVGpjazFXTXMtY0k0aXRuaFc5VlFVUEYwTmJsLUNoS19KeTlYTmFaUVJMSWt3UWpJbnlpZ9IBggJBVV95cUxPTjhPQlZhMVBOZnM1SV9TQUZwNnpCV0QzQ1ctWk5ORHV5OTlhSFR5TnRsOV9mNGtEbHFWOG44MmpZb3B4VS0tVlJhVjFtdEdnNF9rWUFIaDJyeGd6c05ETnQtcGZhWU54WU10amZVTlB3XzJPdjQ2d1laZ19sWkFrUFFrWjRqUXNxZHhDMVNhNHZtck5LOTdkd1lyd0hWZV8yZ0h0SndrUnNOaW9MV2pSUG1NbzlndGM2NVMzVFBnV1JReTBNakJfQjR2UVREbGdBSm5oU296b1lyVTBVR2YwbkJsV043ZjRZcGdsWjJRQ1BMbGNZTzkwSEpDZDJpSlNkNVE?oc=5",
+   "published_utc": "2022-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM flags off 175 mobile veterinary clinics in Tadepalli",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdl9HSXA0Q2dBdDFuZi1xbU1senhaVjFUSmFieWRTNUp6ZlUzUE5vb1JQV29JX0dRYlJodVlxa3BQYmtUOUJ5alo5SXNZMVBuVTJXR0duVDA5YzE4bWNGSDZ5cThjZkdGb3FkcXNaU281S0s2VGk2X2ExTHFtYVBNYXJnRGVLR3BqWF92V0hLZUlMX19FMjdOcFhiNnlmZWxsdEpOaUF0Y3BDWll0UHhZbTBxWUNpb2k5TlhVadIBwgFBVV95cUxPci1Dcnd2NXhySy1TMElLeGltZTAwcVk4OXVBSzVWZ1lpWXBqak5OOUVCUUNhdDNMa2ZtcENYa3h4MmE3SGN1cml2Mmt4SlI1Nl94ekdZSzBucnhISTBkamVGVVNvbG5adlRJWl8wdFZVbjFKellmWVJXZzU1ak5UazFGV05STzl3RnpOWDJNVGt3V0xPYlhxWklsYUdzR05oOGZJbnU1aFJ5c3FVRFBxV2c4Z1c3UjdMZDZOODNRc2Uydw?oc=5",
+   "published_utc": "2022-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Home Minister Under Fire For Controversial Remarks On Rape",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlBSNEVkT091Zk11Yk1Xc2FXODM0MUdYdEt4bEtOa0tGb0pJb3hMY3ExUGxJSXB5cHRvZXVwRWhYcXJGUGZsS3htcUhmUDRvcUUyOEswQ3RLeC16dGswMFdXRE9NbmpHa2xsM0Q1X1I3bFZveVYzeHJ0b25rMjRjbXFOQWJqQ0pSUF92a2paV192allJbk1wVTFmTldReVFpVGV3MmllSEJoOEpoTW1wU245Yw?oc=5",
+   "published_utc": "2022-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt permits price hike of tickets for ‘Sarkaru Vaari Paata’",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX2NBbUczekdNM25od2taYkhMSG5IeHNVdXBCT2JqaDFhWXZSekt5eVhkNVpJTmZUWjRDYUZPTGo0WWNwSTl5a29SdlpOTWpVcEE1OG1NOUlzQTdNX2NaTVRwbGJlUG0wQ1lqd3V1bHpUeVZIY1VyZExhNjFtSERNZHRLN0xxeWtER3d0aGlReGRBZw?oc=5",
+   "published_utc": "2022-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government names Konaseema district after Dr Bhimrao Ambedkar",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVhfOTVpdFlVLWFWZEJTQlUtQWIwRmZTQWRNVjIxeGVOZDBUQWJyNUN5N3VESmp2WUZWVDlhd0VzNUppaThtUjhJeFdySjlzenc5eHlfWW1USnYyajJwTi1ZVUMweXpXZ1dXc1VUZUtwZVRUeWFNVVRmZEhsUENkREJCRWhjVHJQUVRzd1Vlb2NmMlhvZUppNmgtTFJFTVFhemdJVmhOa1FfYVczbHl0UUNETEdlNHpTOElhUG4wSGxDeFFUdExvSFlnZ3BNdEVMcVR5Nw?oc=5",
+   "published_utc": "2022-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to use drone technology for farming",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0Y0cUtTV1cyTnJzSVJEeUpMcGcwTkZmZGVJNkgtXzdlb3JwZXJLQ3hWZVpINWdROFlObmtra2Z1UUsxdVg5T1dNenQyLVJEd002cS0wS0Y3UDJJa0NUemU4bW8yZm05aFJWbDNSUDhPd3VDRFBXTmd6NUxhOWNhZjUzYUlFZG13TTNVWG9lWWJaMWN5dXotdmM0R04tOElJdWViM25rdXVMRGJGVnpaczBOd0lTMUd3MHFlbHF1NNIBxAFBVV95cUxPY3ZIbkIyMUpYQlhKOExOSFBzV2oyOXExQWlwNEhpdnFBNUg0M0NmeTU4M3AtWUN2SDJ3VUVvTXZDN3hRSXpYU1JLcnpnd1NUX005ZDZGNHB4ZDhWN0pZZ1RhclViZnFTM2lIRkhXaVlLa1VQOXBsSWFNNnlsVUQxeHJRb3RFYWpsWEljTXc2TjY0LXhLem1KOUxreW5IblBFMGEwV2MyaDFTZHh2MVl4UDV3RmVxR2dMbUxlMXlDUmJOb1JY?oc=5",
+   "published_utc": "2022-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pawan Kalyan bats for united Opposition in Andhra Pradesh against ruling govt",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEJiMk1ISkNhd0pvbFJyM3dTUlVDMUhWaWZlb2p4UGppWHd0cW85VnQ0YzYtYlV4WUJzNTNLNkFuZzRXbEZOUVV1T2JEak1YOHkxRXdPTDFKcFIwTkNiX0gtc1IzN3hweS1HNWQwSl9QdGhaMk5kc0ZkVW9lX045TVg0NjRENFpPRUszTjhaT0ZrTzUtRmZldUZVSkJndE9yV3BmMktzUWdGWU13UFV3WkVCZ1JBc2dTZjIzb2RYQ3pjUjM4QTZpSm5n0gHPAUFVX3lxTE5ZUC1scWxaLUtUTGFMbnNmLVF5MW92RllSQ3BJR2lIY00yVGFReDJJWkpMb291ZUYtTDBhTXdCRmFUczE0M2RmVFRSNHRqdThOX2JtblhoU1FDc2sxSE9RT1RxemNaYk50YXF1TlRJTkxGRGl5d1BqWmtDT3kwdGxpb3lwemdMX3J4MnRNay1XbWs5RDl6T1E5N0g0czExanB2QV9TTmpadEVibGdIQ2gzcHUyN1dBenY2Vkg4WjR3T3RleTRUemNnOFozVjR3aw?oc=5",
+   "published_utc": "2022-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt. reshuffles IAS officers in the state, Jawahar Reddy relieved as TTD EO",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1Vra2pDUWdXMjRnRkdaeFZuai03R0x4elVPUmR1SUJGdERlb2l2cDlmWUU5MG02a2JTc1RLazBPd3RGczdzZzFUaThkUXhia005UTVYbFYzNmtJalQ4SEJPeGlZYUxjS0FKY1RxTjlkalVkOV9yb1VzS05hQTBJSlJLOGlvdWNoQTltSmxxWXlDbXktcFM0QmhtQXVDQm56UHQ5SWd6X29nSC1pUThtcXpOWE12aWNrQmRuemM1Q05FTF8tYnMw?oc=5",
+   "published_utc": "2022-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

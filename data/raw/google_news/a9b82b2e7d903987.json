@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Telangana launches AI-powered iRASTE for road safety",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkdSXzNQZWRwbXpxVnhCQnlXNUFLbFZlQ0NZNHFOV1RGSUFfLUlHM0xXSDg5VEZ4MDlIM2hUeXdGU3RaTWRTQzlKYUdDZ3ZNSDhlWjRoT1UxUlpVbG9fZlVKZHBILTZlM2Qxc3FGMjJEQjhCUnRzc3ROcWI4LUVqb2JxWmFPQlE?oc=5",
+   "published_utc": "2022-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-enabled robotic machines come in handy for farmers",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzRKa2NZR2dvb2hkVkZxQXFSdlpCd3JlU3BHcVJTQVFXQl8tYU5Xd0lZTWtSb2taYmtmRFVlLWxxSEZOc0p1cURXNDE2dVZHSTlXc0tXcUg2UXlrNzNrc3JOVTRramNfVnJtOXEtOW1mcTRNOWg3M2lDanB5U183eUhpUEEySDQ?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, big data courses for Inter students in Telangana",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmoxRjVBdlVBNGlnb0l6eUZ3aDd6Z2M4Rk9EOHEwbU5DdGNfcHBPalQ1M2hoXzNOY2tKTmdNcV9zSHBJSDJLWEpxdi1UMnNjQTJBOWx3VUxUTGlORmVHamlWWVJtaUZSZW1pZk5EbktKbEZyWUE2aWZ4NmxHSHI5OTFZcGJsa3liSDRyaFo5eUxrellsMXcxbnJGbW9Wd3ZCdEtVWElNOHZMRVpYS2FobW1nc3pmV0tWeHV5dWgybkdXTElz0gHSAUFVX3lxTE50Y0QtbEVmazYxbUdpZE95VlJlT3Z5MTZwd2twamNXZE1IZV9Wc21oMjJrRnE5Y2RadEYxLWZPbDNPLTlRSE55RjVxdXc1eC1uWVBOckRqRGpZSlJ3MndlOTdhbkNTR09zSEd2LWw1MzNENFVMOU1WeUdmWThxVDFZWk5kM3BSNHJYZVNEZWJoRFBxamFYOGFGamhzRXhEVE4xSGkzS0xpa2lteEw4cHZQSjZxVzYydnFKVUVlN0xaVUFMWG5lWC1uUGpsR0xhcjk2dw?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Farmers to get AI inputs on climate change",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzlTNmc4eVR0cnB5R2NSaC0yeTJrU29BUktCaW1Sek1Ob3ItWDdHN0lXTlBoUkNNSDBtX3ZiaHZERTZ4Sk0xS0M0ZnVDQUpEWXlUbXVXWU50c2tVWFotSm1QRDdEVUlKTnNLdGREYUplemFvYXJ3bHY2eDFwQ010d0pfU0dGWTNja05KaTc0NU9LbkcxUlpPRDJyakpQTE1ITDdSQ3Z4T1ppalV1VXfSAbQBQVVfeXFMT3dEOUxRMHJSelFkdy02d2dSMkRpZENPeEIyQ2tMcXhRdV84aUc0UnIwbDFLbnlOVU9XQl9iT1ZZQ1Zha3JzWXA5Q1NFdU93Q1o3dXlweTZjbVg1Q01UTm4yYlE3Nl9MSDNNRHlkOHJjZkstVVRNX2VBbzJ4VVZkaTJObG5DU1RkXzlVVWl3b0o0dEtLUTRNZE96cXFQVjJadUpBTGxTNlZoQ3pZR3dPeWNuYXZG?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad-based A-Eye.ai brings solutions for traffic management, security and toll gate management",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGRJLXN1ejZVNlAwMkc0eC1FWUp2VU1JM1hXb3o0ak5DTGl0UUtVUGVQNG5IZm1vejhBLU9jU0ZBVUE4TDctRWVZSWdUUVVZczkzc3FaeUtpdHRDWkRHT0RUU1dRS3dCZE1ycDN4LVptTXNLLUF3VVNtZlZEeTI0bVpSeENrTDFpcXk4ajd4WEFKTl9GSlV0REtoOXE0U2hhOHZ0Vl9UZ2dOb1p4MFpoczc3c210OWNPdlZxTktGY2pyQzQ?oc=5",
+   "published_utc": "2022-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Schools academic year 2022-23 calendar",
+   "source_name": "Sakshi Education",
+   "source_domain": "https://education.sakshi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGd0a09lT0pBTVNrdVV0Wmw2a09KVHhhWTlzUjAzOEtWaHluTWdDTHdza2E2UDVHU1BGcUs1VWdXdktTZDBIRnFrZERBdzhSLW9ENUpjSE1HX2tMWEYxMERMM2tCeVVYZDF6U29mVXJvcHZjSEkxclVlRzcycjQ3Wk51QUFKbDc1SHZmZlMyX0JYbWY1dWdiZTBYTFU3ajRrcHJYYUpZTEZFS3Z1SFZKQlB2OUJwOEhv?oc=5",
+   "published_utc": "2022-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana: Draft of Agriculture Data Management Policy 2022 released",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVG11ZHNDSW80UjEwZGdhU3FkWHpMdmc5NGVfX1RBLWYwNkxSQVByQWJ6bU5fenhza3NtTmFmU0w2aF9aeExfUy1CaHNjS0ROZFJOUVBxajgtTGIySG5kVlMtek1GdjFhV1JtWm05dkR6ak11Sng0ZG5JNl92aWprWWVWcldWR1gtQW5VamJMdUI0dkYxN2hGTWln?oc=5",
+   "published_utc": "2022-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TS: New vocational courses introduced; Inter students can now learn AI, coding",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREw4Y21lWHRLN2dhbnlKRTdnOHJZbTZ4QlVQd09hXzZrNHpCU0loT2xpdmQ3VmV2THdiQnF0c2pKUkVfRVNsQS1ydnczS1c1Z3BibVN5YkhjMHB1ZEd0NFduRlBsck9MRjhzWkNwcmdab01HajgwWkROUTc1dnhmbU1fdmNJa0pIZ1dWcWFnaXRWNi10N2w3Vm15bktlVEhRcjZsag?oc=5",
+   "published_utc": "2022-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Watch: AI predicts ‘last selfies’ on earth before the end of the world",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRldSdmtkSEo3MFpkLTVBdlpjQ3k1X0k1bGZuVzBVQzlaSy13LUp1NTFydkRnZnJ4Vjk1XzJhb0d2X3NfQ3BCaXdVbEU4b2NBR1Z1NTdHMEVMS3ZBUWxlenRieXpCMFRqQkEtWHAxcnBSRmdGdUp4bTB3Qlc2X2tYRG9GU19jWGFSQUdOblJYNV8wUzNiTF9UWHFB?oc=5",
+   "published_utc": "2022-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Schools, Colleges To Remain Shut Due to Heavy Rainfall, Check Notice Here",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWdVa0U1TnE2bVRsUHdhMms5Y1FKTjIzZVMzd1ZuSEZKUVVxWEhHWURBWTNDdnBpejdIX0NVd3RWUGpqdUEzLTRPVDl5LXZDSlpTZTRubjd2Y216UHB0QWhKLTMyaC1mM2JIRXMzSENPc1d3Mk51cGM1b0ZBRlNkZHdKQVprSHJWQndMTVkwSWtVWnBsbnVJUW5ESFF1b1JVQ3piM24xUXVJdm5BZmdfa1VRZzFUcUhyUVdCRg?oc=5",
+   "published_utc": "2022-07-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

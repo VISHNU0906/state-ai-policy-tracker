@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Maharashtra Government To Establish A NITI Aayog-Like Body",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlpKRUVvR2VCQ0tnbFFzUTZGWEthckV0OEFmRFdYblRqZEJoVkNqTU12eHV1aGRTOEhOZXMxZVdWbWxxbGYwMG9CUzc5WVRpUEhfRHdXTWtqTjNqNkJMT1dSNXNvMUhzTFQtZDh2WmVHOUtMWFVGREZMa3pXM1lRcGZ4X0V0Q3VaQVF5eGtfbDlxWkZmaXBRRzdxSnk1R1E?oc=5",
+   "published_utc": "2022-09-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha govt introduces AI-powered heart disease diagnosis, care",
+   "source_name": "Healthcare Radius",
+   "source_domain": "https://www.healthcareradius.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGp4UDJfTkxnTmVjUDhPRGhQcVRvcnZjOGlzd012dWpnWWY3bEFKbUpXdGQ3alBKZmZOa1M2dFVqTk5xWVdzTTh4QkpuZFZPLV9zRGt1LVktMVhycmg0NnpKWng2RUxNME05V2xLc3ZrTDhJUkt1X3ZqTnpYcEtNNTRwUTFlQnJMcnZDdlpDYlN0UDNxUnlxb3hRRjlKVXVWZWFv?oc=5",
+   "published_utc": "2022-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress politics is confined to attacking PM, Centre: Maharashtra minister Radhakrishna Vikhe Patil",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0F1YWYwWV9Oc01uUGtTenlMeG12a1hxVFJSWXBTZDlkbW5qbjh0SVprTnNxWWEtOHRLTFVfOGlZcnNkbGlaQlFBR1Z2bWlBZTVxZWMtbVdHM2ZRYXVQYnMxVkxhUzBiMW43X2tld1hjVEo3a1N5Zk43djhsTXZUTjBQcXhOX1BBdVNkMEI0YXVqUTNWMGZGMlpjbmhoQzU1UUx2UGpqWmZ3RFEyNF96RHRsRkVhRkMxMTVrbUd2RHZsb3RoUTBZbXQ5T0HSAdMBQVVfeXFMUGtUcDg4NFk5cGJBNmdfV3gtaVNUWW84YmUyQXdlX3ZiU2VXaGJMcFFDeDdZdUJaWWpKeVJaajBxVE9md3hRcjRKcWtXLWZfQnVsUV9WWU1DdHJlcWFIN25yeHJ3NEdUSjE5VHdxOURhR0hXMUQwdHM5REVFN0pOLXdRT0hPRWlHclpKQmkxczYtUHZkaEhod0lOYWI5TUtTcnREWGhxaDNlc2pSdXM4ZWk2RGJ5clpMSFo5ckxBYzJVWVkzYVJRdWdEOGxGN19rU0duYw?oc=5",
+   "published_utc": "2022-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sanjay Malhotra, Secretary, Department of Financial Services, Ministry of Finance, Govt. of India visits Bank of Maharashtra",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPLVFNV2c3Q3cwVm9JMzBPd3cyQlliVkkxRkZyd0ZOemRBMnhjdU5zN3BCcEFrT1pzaUNIM1U3dlFPbF83YkpOWnVULVNMQ2hydFpiMDROZEV6SHlOWnpYZ1FzaEI0V0JoUnVKLWlVdjdmSG1fbG15NmpoMTVhdXlrb1dmWXBDbXdDY09yRHBqR3Y2X3RDelpCUW9XTWU0dTVGaDRUaWNXbkNSbjQwZFdkMDVIUl9Sa3dRZFNSM0hBcVJXUTFpYmIxc3VTLXA5eW1EaGhNTFJ5VThWcnBrQlZFZEdwVDZ6Vi1sQkpmVEY1SXlmbUJiUTA3cHYtalFUOUdfMEhKQjItcG04QVlIUTd5dW96djZuNG5hZmVVQXVoNm1xZ280VTk00gGsAkFVX3lxTE9rSkk4V010NG5yeThrcFdBTzkzSXNnRUxRUGdsb09EeUw0N1I1THZ5ZkVHc1M0ZGMxVGV6aU42eGgzVEV0RWlrYUZOYmEyQ1pKR2ZjYVlMcS1MR0lXMUY2T2Q5OGJIYXNFamtEZkVOam1xRVpYOFlCY3RERHFYX2duZWg4a3lGZUhuVlhMZHhkMWJTcG42REtHWGJ4UEE0NlVlV0VKRU55OWxZRHNZTHJ5TEdDQXpTdWVEZWpMWllGX1hlM0xhekREYnF0a25UOGxKR0xocktmOHB4NWxMbzBfd0loYmdvTnRSenBvRDBpNmpVWkU1T3ZOQmlJckp4QTJJdzI3emFnZ2R1aVFTOGh2TWo1THBHZzVVQnYtX0tsVEJVNjNUM2RrSXdvRg?oc=5",
+   "published_utc": "2022-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "$20 Billion Deal Row: Eknath Shinde-PM Call And An Assurance From Vedanta",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQmVXUnByVHZSeDlnZUdZemx0LUNrV0prX2lSbF9iTVM0LXA3OFdVOFAxNi1kdDI4b055TWkyekZ3SXJWd2dOLVFKc2dBdGxEbWg5bHlkbF9WeFB0N19CRDY3QzBYaV9GSTU2azJzVEhzLTNZNDE1cHRaWWxWTXA3ME42cnZjdEE1NUVvcDlBVzUtVTcwQ1JNUkJBMWxKN3RGTlRVTjJmMGRla1BqU0lqaW1PNG94akgxYnhNYWRMODAxUVY1MkFNcER3VzhvQ041VWc1X1ZGU3Z6ZnYxWGxDQXgySEYtU0prSURoOEl5cUFLQnVJSGZSckcyd3NzQQ?oc=5",
+   "published_utc": "2022-09-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Cabinet nod likely for distribution of fortified rice via PDS",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXYtWXM4Y3NLTXdhN2V6UnBDSmUtY2JqNlhjTXJZWGNKVnlOa0NTMU52a28zNWtGRFVhWTlQbzBjRXRTNFdoQ18xcHc3RjJmdm16THJEd3pVUlp0T29Tdm5xRU5rR2tZR2ljdU9zQ2NaYWwtQXRBXzM4ODZhZElEOWxUVG9ERmt0bEFIdWpkbnlWekhsVWs3TVdWQlZtSTdEVk9NaDdZU0FGZklreXZNQ01TTWpoVFZxMVHSAcABQVVfeXFMT3F4aUdVZEo0MlpaWHlscEhLTFNJd0I5aHh5SGk0T3BJMy15MU8tYUlwbXI0MWxKSXpCcmg2aTlVcDFsSGgzY0ZYYzZrZDRtemNBcWxidFc5YTNuN256RDE2eEhYMEJtVlg2RS1xcnhNSXd4VWI5cG9xbEhoZml5Z1d5dXhuSHg3bjJER1pjSFp3bk1GdDFvb2NHQ3plZkxQR0dYS3ZhckZxdDZXQndFU0ZmVG9GTDRzWml6SXdaMXhE?oc=5",
+   "published_utc": "2022-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Condition of roads under my department extremely bad: Maharashtra PWD Minister Ravindra Chavan",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUVRTWtvRzhUUkxjaVNiWms1cU16ZFhyTmtzeHlESGljQ0xYTlAwMldJNXMtc0VGZnlwVUd3SmFTQXVHbE5GY0N5dFBaclRuNWdxVXZWUGpTNVFLbUs2ckNDcm5RMFNqb014WlVCRWx3Z1hGcWZiTUtXeXJkWDdGTVQ4eHNkRzRRYXhyeW1WWjQxclNFOWs2TDVrVnllbDVOdVpsa3F4bFlabHNoWTczc2JNcm81ZEpCa2F3Q3Rra2Z0N2FKaEN30gHOAUFVX3lxTE1TZXRaeHVKRUZWRkxxd2otaURzSGVMNF9rM1A1THB0aUxxSXhWUC16ZjBqVDVCVF9OYjJIeS1qNk1HemFxVzZZZU5UX1plM2dHR2JJaDBwcjN3TWNZQXhsSW1jYWQtOHdNQ1ZRV2xCaDZpR3FITjFTVGNzZGRFeDFvbllPdVpOMHlZTE52dXB0VEdiaXhjcHVCVlQyb3hCaW5tTEZ6UmdkOW52eVRmaGIxVkdGR0ZxTVhIRVlJaWRIWGdVbDFzT2k1YWxGdHZR?oc=5",
+   "published_utc": "2022-09-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 govt projects among 8 for which state stayed MIDC land allotment",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnpLMkNjZ0VlTXpuN2JSdHV6TjdLVGFwaDlUSHBHNEZYRnZ0VmUxdWtmVlc2UE5yc09RRVB1VkozTWowNldPSWgyVEwxV3B3UGpYNW1fV1UzaHB6ZjlkMzh4RDhFZG5XN3BYZDdWQ2JoeXY3WXE5SzZWNDZ1cGpuTW82cDdhZUN3eDRwUjI5ZzBYbERfaXprUGJUTGlhOV8wT09zbUNMdUZ5Q3gzMXZfTmJWN0xLS3VSWWxkRGNYV07SAccBQVVfeXFMTUhPQzhXajJ1YXZLTTZnZEUzTUh4S3F0dExVNU5qaE5vU2tpbHd4bVBzNFNJZFVPWS04ckFCRVFjamdOcFllOHJsQVgzclBZOWg1QVNZbGN4YlVXQUo4Q21Da2FsREZPR3ZPM3M4bFhheXA5ZGEycXpIdGdMTXp5VFk1V1RmUFNHU2dYMy1hMVY0YkVlRmtQY29TeWxKUEctbWpSa0xZNWVTRXBxeW56WkpmdzNPbE9qYXFUbjZ2WFpHd3BYTXhOUQ?oc=5",
+   "published_utc": "2022-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Do I look illiterate to you?’: Maharashtra minister Tanaji Sawant hits out after social media trolling",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDMwUVJmaV92bWxlYmpsUGdVcUkyRmh1aldGNHdOaHdRZ1huUWUxUFFQSzJmUVFBLWtoYXVkOXNmU2pwYVkwVm5XeXItQWlWLTRBNjNRenFyZmlGaG9FOXB0b25lNzlXMUcyekpncVgySTFnWEFib3VyZEx5Wi1Xb0F1bEtLTGxpc0tvZl9VSllMc251bm93TzF2cjdNeUNTQnd3ZWJHS250N0lxeDR4U3ExMWhLMVJCaHV1UnJ3RdIBxgFBVV95cUxObHlZMlpiWGI4MDh2czJfaUppbXdkVF9SY1hLY2J1SjFZa0ljM2hWNmJSd1pjTDhSVDhfWlIzX0huT1FReUFURTlmc1gxcmg4alByQW9QbWJ2eG1TMjRjdFp3b3BRbTNZSUtwa0R6emNSZHpfRy1UZWJuakhFekR2M1YyYUIyTFVrbFNzMmRPTEp1aTVVNVViLVpFb1U1YmJ5VndHRTJiTDdESUplSVhsRThKVEZiUFFGOThkLXh4OFpMQVFJRmc?oc=5",
+   "published_utc": "2022-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After Vedanta-Foxconn, PhonePe to exit from Maharashtra, will move to Bengaluru",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXR0dlZTemRuVjBrc2IyaFFySFNic28xejNQQlJnajNwS09Ib3gtMk5FQ1RLb3kxQ3BwRTFBM1IyWHVZa0NKN3ozZEJVOW5uVDczVFEzQi1zRkw3MkhwMEp0eUpSWWhEM1Vidkxyd3I3MHVGZDRaR21MVnBzT0w4dzQ4MGNRaEE3SHVOcVdQbDdLXzNyLU1XLW1ILUo0ZEFLNXJnS2ZfN2NsMEdyaUx3QmFlRnpaWDNZQUHSAb8BQVVfeXFMT3gyNklyRVgwSHcxU2Jfb0E4X3dEQ25wNkNKUUlSczlMNktma0g0blVtRnlHaDFtYUt2UjV6b2ZSb2JBampuU0RzaVd2WlE3OUtZSG5pQTlJQ3ZsbHBJOFV1T3o4ZkwtVUdZYXJMZ0VxQl9MTXUzYmJZbS1lRWNLb0k0RHdyVGRSMlo5cTV2U1VXYjdjSzR3VllwZE55dnVVb01McnlUY2J6SHJtZGxsTmtIcl9zTUsybkxuTW9ORHM?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

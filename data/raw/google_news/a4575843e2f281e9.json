@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Sea cucumber worth Rs 5 crore seized in Tamil Nadu",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjN5QzFad2duc1RXUkJOTkNYRXlWS0JuVUo5WEhvbFlnNktSWHl3cE80M0hXMVJhLUJzbTkwZkFKWDlOV1M0NDlSMGVkTldTMXU4MUFUOTV6QUhiTzFvbWtEZnpkX2pEdl8xRmF2T3cwSE1NYm92ZURaVXNMeF9IRkRaME9tLXRMOE9DbGNpakVqZnpsXzFXemNtNkMwWVhBSGs4NUY2VDd2dG_SAbABQVVfeXFMTi1Zb3ZsT3YwR2JkWEFnYTlFRVR2WTlZSFFCTy1kcFJBdTljdVlwd3ViWFFubFBmQ01TaGxTVGI0dlZndldrWEtIdEJaQ21yNTM2MHNvSFgySGg1aXZDV1hPZHlTckpZdDV0SV92bmRRZkxtUmhjQ3NmRWc4NjltanE3dF90MTgyWkpQbzN5U2dJeWZqRmpJQXhPU2dmUmxrQ29uX0FCT0JwZEd2dVNLV3o?oc=5",
+   "published_utc": "2023-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Rs 3,523 Crore Tambaram-Chengalpattu Elevated Project Work To Commence Soon, To Ease Traffic Congestion On GST Road",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN29UVDZheWhPWjVkdXptREgySFhOaXdYXzR4MUtiYXNweE53UG92cnpfY3hvSTM3elQ3MVhUM19salFuZ3NMa3ViN0FEVzcwcHpRemZEMlN2QU5HaGxfd2Y2SGJuRDBuclFUdkZkSDR5emxIbkc1ZTJMNTBsTEdNT3gtSWxBWGQxeW4yeU82OWdFcDBieEhvUFZCcGdfekU1c1h1a2k2d3FPaTJoVXFIM1lMRkdrRHBvZ0R6U1ZuOTAyR2xTMzl1SG91ckpHRG1xSmpYRDhKVWJyNUwxc282amNka2dkd9IB9gFBVV95cUxNM0Y5RUNzRnVSOEY3Y0VRXy1FS0ozbWIxYmxXVFBXRnVudGY1TnlhQ1lId0ttcEVqRlRlRXVPc0V6UlIyV2NHdDlURFhObW9VNjAyTFdvN19CNGx5M1ljeWhJQV9MZzhFSnliZ0xpb3RJNUdlNlJBRVNudGlyWHBOZV93NGZvLWhndFhMRExTOWJGTXdMdkNWOHZBRmxZR09nMVA1T05YUm9QNURQSjA2b0VuTFhkTDFfeXZOenNPSHlZVGRBTlJ3LW9mRmttUElwZmZoUXdnek1kTl9fV2t1aFNvLTJmTGY0QmU5MWgwQkp1Vm5vS3c?oc=5",
+   "published_utc": "2023-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In a first in country, Chennai Police gets 'Drone Police Unit'",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVJuTnNkYmlOem1IVWFSZzdzOTFZYlNPQW1BbzNfTGpBRkJsRGtONGhoUEhXdHhqNEt3bHVFWE9Nb2lvc25FSnFPQ05kbmJQaU9GWjI4WkthWjFPbkhORDl5di1HeUN2a2ZlYk1ZeTgzTlB6bXdyX3RvZ2NjMnlSWFVVLU05QURVMGVMWXZhNVlNb2xNNGNUQlZMRUd1Y2dHdGRF0gGwAUFVX3lxTE51c29wa192WDNRX3RzVjdfd1RGUXpHS05HUXA0N1AzZnRzQndBNUFVM0pIc3VDOWgxbzFUVy02YnFOLW1OT00wbGhWb3pGenBzLUxPNmctbURySmxsM19tVk50V19oSkNLX2RaSnhVaHdGODZhRE11Z21IZjlGd3VXQ0I3REoxZldCdmpTM2l3eTNCcDVGem1vR2VJalVET0UxejFZNllIVjJxeUszM0Fw?oc=5",
+   "published_utc": "2023-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fintech City: Tamil Nadu’s Unparalleled Journey in Financial Technology",
+   "source_name": "IT Voice Media",
+   "source_domain": "https://www.itvoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEdTbU1uOGJWMl91SWxoYnU3dDN6Q2pUak1TaGMyVUpOdl9qX25QUlV0Q0NXRDR4NnMzRnVscnJwZlVEZnpQcUh5RUZfV1N3Q3pPY0w0TGFqY1p3OWc0d1NkSlk0bWlQYUtIc2Y3cVZFa3YteXd0V295cUF1dkh1bXZIM1lzZWhsUzlYVDRLUzJ4b01nck53?oc=5",
+   "published_utc": "2023-06-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yokohama India strengthens its presence in Tamil Nadu with a new store launch",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajhHOVNaTzBaUVdsdFJDVzF0ZXU1NFFGZ3V2UVhxZFR1bEVub3RnUHRXMWlRYVI1OWpWNTRkUzk3cDhLS2s3ZXo0NFVYTjNmY3RhbGFRcWU0NmZuNTA4eWJOck1jZ3RsNUlZRWk0dV9DRjRHdFIwRnhkYmwwRWZSN2Y4MXJpN3J0V3o2aVdoZFAtU2lFOHdQYUtSZ0w3Vy15SEZuLWFWTFBCbkx4M2duMHVBUXBhRHQx?oc=5",
+   "published_utc": "2023-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu collating comprehensive MSME database to inform policymaking, address challenges",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYzVqbFhVVVBzNXRaOFlLejBiYjhHV1RWWF9pSjEwSTFGR2Z2TkNrb1ZuQjllUEMybzZjOFJNNDVHdlA1ZkJ2bTVkamh0RlFFU0pHVWlqajJ5cVdfS3hrWVRuM2JJU3lBeGNtYWlhcl9IMDloTFpka09JVDI5STNvd3ZrMXRUV05aX1h1R1V2aC1fQUhmTGVRZXAtTV9rRnVRa3J1bkpLaXlwNWlWRkRkMElTbC1iVzBGSlFmUFJMa2x5ZWljako0Y0N2Snc0V3NEdVR2ajBlQ3RXUXRqZFdtSGhXZEpQVk5wZ0hMU0dSWkZXV2tNNkpRdtIB_gFBVV95cUxOX2FjUVNmYWJDWTNLWkxLVnk3MUlGb3lhelZDQ2JkN05DYVk4Q0FIUHRMSFdxellIS3AxWnlycVZtaHFQUjJ6cmJpVWx1MFkwYzR1dkRNNmlma1JGWHljU0hZUWVaVUgwY1pGZWp5UFQyejRyQ01Ib0lKdHh4UlViTXhWS2s5Q1Y4c1JMSmxxTzNTY0hJYWxreG5qdEFzbnF2bVFGSDdoMnJHSzZBRUlkMndiZWRlbjlES2dvMTY4MFlSLUhCYmdEdHpLUGNCYVJCTGlINm81MmJVUkgzMWNMS1hrLUFhODdsRzVUeUlIYnNmeXJGcEhrcWlwMEU5Zw?oc=5",
+   "published_utc": "2023-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Launches Subsidy Scheme For SC/ST Businessmen",
+   "source_name": "BW Businessworld",
+   "source_domain": "https://www.businessworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnBBajVTOFU4QVoxS3Y0ckxMdXJNenUxNEpNRWFkZ2tZanZzV2hob0dxZ2ZOVzFxOFlMUTRyVmthX1lUdkVlakxGRlYzaEh4cVROUjB1TExtS2EwN0kwQUtxZVFyLWFqSDBuYTNPOXh5TmlVUDRvbmZNTjVvREhhMDNTRDA1NG1vRl8tV1hFQ2o0RFQ1NFNrOVdWNEl6U0JKZlNwLWNn?oc=5",
+   "published_utc": "2023-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Fintech On-Premise AI startup HaiVE Submits Proposal to Form Tamil Nadu Artificial Intelligence Alliance to the Secretary of State for IT",
+   "source_name": "Indianweb2.com",
+   "source_domain": "https://www.indianweb2.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeU9XSlVUbld1RVoxUFJBMG55U0ZvdkFqMUFFeTBmSzBlaFNpeWxEU1Atc1JwQklLYmpLSTJVdmpjLUU1VTI4T2pXMm9fX1AxMzdjalBkVl83dTc1T0RKemIwSklRT0V6a3UwamMwS015U3VfSkZGbDI2YmJDMGl6Yw?oc=5",
+   "published_utc": "2023-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: RailTel Bags Rs 294.37 Crore Order From TASMAC For End-To-End Computerisation Of Core Functions",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0RSa18xUDJtNVY0eElxUjltVWpYUHFBOUJ6RG1pOU1nTWFqMFFBYW50NDFWLW9kVnFWTDFTZVcyd1d1QnhGTFZqUXAyLVNvbElfUEE2TzE0VWtwMHVxb1FvNzNVbGtPSFQ5SEc1cnlURXJGaHdMZFJud0RucFZzbjR3am1fMmxiTXMyeVVfaXcyc2x4UWNOT3dLZmhhTktXcnYtZ01jUnM3eXk5OGVPV2lEdWl5QzNwOFFscVpVNjFJWWVHTzY4TzlpNlhfVXUxT3BTejlQdkxIZS1v0gHsAUFVX3lxTE1CLXV3X2JuQWUtT1FlTnZudTFJVDh0SjFDUEhIbjRlWmUyWTNLb2pSM3hHaUFIUi1lYmp2TmF0YnFobG50Z2RkdjVuVF9sUEphQ1RJTGdMR2Q1UmU4QmpaYjlxZGMxTllmcXFPOERjNjJkMTJpSWMwTHRPWC01dTFtRE1tWGxqblQ0cFFHdGtodXFLMVNUMnRiQTQ2TmVlX3VGR3JhZ19qc1BFVy1fcUVKQjNxTkVYRWNBeVhhZmUwYVZWM2VqY2NobG0xT1ZQVlF3Z1Q2RFdTNkpES28zbFExZkxHVzZzaEJRZmdH?oc=5",
+   "published_utc": "2023-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Sunil Gupta: Co-Founder and CEO, Yotta Infrastructure",
+   "source_name": "tele.net.in",
+   "source_domain": "https://tele.net.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JMGVTYjA4MUhYeTFXcW5nQmZNcmNUY09RSHprYmRzUENBLU9BTFEyM3Q3aF84SHoycnQ2T3U2TjNzV2szRjNRNy1CQXl1NnM4RGs0QTROQl91TFZYMDR2ank4RmFVWHRBMHpmUWR4NFVORnhMOUhKSDFGNkY?oc=5",
+   "published_utc": "2022-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

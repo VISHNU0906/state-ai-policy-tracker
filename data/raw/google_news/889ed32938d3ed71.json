@@ -1,0 +1,13 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-12-01 before:2024-01-01",
+ "items": [
+  {
+   "title": "Policing the internet: Kerala’s increasing crackdown on free speech online",
+   "source_name": "The Leaflet",
+   "source_domain": "https://theleaflet.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZhTVZTa3ZTZ1BQcUpKUzVpQmptOVU2UVdLejRFZXdiRF9peDlkd0dtaUxPdWJ5X1NVRUFYd25oRDF6Z21Qa1pyNTl1TUZHa2FtaHZxQWdUX3ZVNFpUQWpnQ0xGQzZiblFBeWNLa0tUbWdFTU5aM3g0MzRaRm9CQnNoTF8zMWVmbTQxZ3luaWJlbXdwNkEtNG5pYWFtM2JwY3hSYVJPS0hKQUlXamc?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

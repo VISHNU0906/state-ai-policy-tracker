@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Government hospital beds in Tamil Nadu to have specific-coloured linens on each day",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRnVLd0FkdDBySTR2aENCeXh3ZHdEX1U2VFFjRXAxT0J2b29QWFRCYl9saDVqUVcxdlVQZUFteEhwLTRNeWpsdU9zUUZycnJITmVxNjEyQmZWNEJtajV0My1WWHdzbzIxaXFJbzJycF83bWtJRDRwSHBJTEo5bUQxT18xaE03WmFCd1lBc0dXYTNMT0wyaG5UREtzWVM5RlBIY0k3NXU4eTFXMlhyRlBweVJyU1o4ZGdGUXRaQzB6NUViMlp5WXFMWE9kcmlCSFRfSFh2YkF2a2RNcmw1dDlwR2130gHoAUFVX3lxTE1ubVc0cTQybEo5cmNoWkdzVUxUQ1hybnFGVVlDRUo4bjQ0REhxc2hTenNnMVRZVG1ROF83cmR3a0JHT3BDNWxjVU1GcmZUNnpsTzNiNEE3eWZFdFNxQzRoaDFDeE9QT0ZHakV6ZDRDU3hsbzRSYUltaWQ3RDk5ZGVvdmtHQTEyZnhOZVZkeEh6RFJFczJ3Rl9leVVHRWNXNjRjQVZaUHJ3LXRDODNQZFV2ZlByZE1VWWJaRWozbW95ZnR5VzRmdFY2bkQ5ZjV2SjU1eFNwQTZRS012aElOMk5EUFVlLXlQaEw?oc=5",
+   "published_utc": "2023-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cops To Search Central Probe Agency Offices In Rs 3 Crore Bribe Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQUJPRjd2ZUhXMi00OGpELW9zcVRBNjNUUk15MGo3cUxsalcyVkpkRTJYSWJ5bEo0OGNIaUU5ZVBFRGFOZExWSlBGclZzMTZKdlA3MmJCYVdtVEZkb0VZZmZGV0habTBYM2lneDIyY1Vabm8wU2ktLTY0UnAyLVZKdTJ4NDB3OWtGZTlTU0d5dmJScWhvdHBFeGZiUWdUdDh4am9ENjhoTHNOR1pOcW4xTDg2WF9FNXdoQVMzRGxoWmJZb1ZQUXZpRm43TFU4QjVvYklpRkhxXzVJcnlqTHpWeVZpaUk1Unl2ZW5xTllWVkRyeWpTQUVLZmhHU2xGWGF3WG5XRTMtUGFvQ1BISXkzYVZB0gGaAkFVX3lxTE1TWUxreGwyUUx5N3NfcXFhcHY5TXdKUnlyZ19uNzBuRzAydDBqTGxGZ3dSTGlOVEZ3ZWp5SlhPc3BJSFc1Rm1SYXkwc1NsUFdoNTM4V2lUVjdSclNxbUNwTzdBSVg5bDJYSFhuR3F1RkhKS1hscnBibXNVdHVhQVR6WUZiNWtpMmlDUTdFQlZwblAxamhVQ0xibThScEJiTG1zSmlOVFp4OGZPbU9xYmVYbW1vU1hsaWZCOWk0THVPbFJXTmNQaXRhb2VoblpkemRFQkplNnU3VjJhRldCbXNHWnJtYzhnV3ZIdFFCN2dfMUZhT3RvejQybE9qWHRzc1pCcUNrcTFaaWZ3YUcwSWJ1QW4xcjlpMGx4dw?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Classes X, XII Tamil Nadu board exams from March 1",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWVPcWJxcXI0ZF9ibGhEVGVVdU04V1VPOGdkRE1YaG4xUkhDbVVBLWEwVDVvWG9McGsxTHV6dWZfUXBJQjRNZVBtbDdiNVlrd2NZRE9mRnZRNHNSVjJHV0lmT0k3VUUwbFZSUWFiYjRxSW5GV0phWjJLUmhXTFlqaVVtWWdSZUNPUmtHQUF0TDN5YXZwZXJqdHpzRFljVlhkU0E5XzBkLWI5SHFmVHQ1Y2tPS3BKVkZ1STdycExaRGtSZ9IBxwFBVV95cUxQdm1tRGtpZUJQUGdMcUUtZzg1YklaeEdZODNWVUFsV1lrRUZlOW5vd1oyVXZKbHBUU1FVem1EUzF0OEtuUnpOUEExWGZQZTJqTFRhSjBUQmxZOTNYemJmNGFMVnliZEowLU9oeWV4NnhuR2gtdHNnZl9RSTF5ZTEzWmV3TV9CMWJ0c0d4U0lmekIwVEUxdlc4SFpIREVYbDJNdEJYUHN6cURpSThsYkVLM2dYaWRTX04zeTFocjBrS1JvMF9FQU8w?oc=5",
+   "published_utc": "2023-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-powered courts can rewrite future of judiciary",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDNCdVpWdkhqNzNydmdIdmE3blVnZWNBOEFvdFFFcGlEb0NfX0o0WDZKNlZrd1ItR1NXelVtdU5ZWGxSREFjQUhwNW11QUk1c0U4YXIzbkQ2RlQ4OWxOQUk2NjJZOHd6ZlFBcTJaRVFmVXJjQVViNlZzdzNjeHAybVAyQ0l4REw3c01GT244Q0VXNnE5cFdtTjNJX24xYVUwVTBkaTh1YzUzd2Y0YlgwQXF0UWszUdIBwwFBVV95cUxNZXQyZ0dJV3ZMeVQtMzVscHFhRnRLVGxZVFVmOGtGZWZ1Mmp2RF9wcVhqYkZaWWdfRV9NbU1mWnc5aXpZa0hTcTNhWmVBNUxobjhDMm52bEJPcjhYdk0zTl9mdnFfTWpFRGlGSDJDekxGaktMWm9kS1AyMjhnUW9FeEdVdHlGSGx6UFR1TWhjUmpLVHlvblVwQkJDR2xndlJScDVob0ViZzR1QVZBMERWZ1hQX1lpcndVNW1ickM5OTNjZUE?oc=5",
+   "published_utc": "2023-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Water Resources Minister Duraimurugan's Son, Kathir Anand And Higher Education Minister K Ponmudy Summoned By ED",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdmYwZ0FKeVdNaDRSWjgwcWFWWmJjWE9SczQ1Rm9WRnNEdlJpcGdMTWxyYm5ZdUZwS2V0dkJpMFZnS2ROMm1YQVdkTDI1ZWZaN3JuNXdWelVDcUxyY2tyLUszZk1WcDB1T2pNcmNKb1c3eDFaTFBCcGRuOE9hR0hWajFrMU5BZzQtQWEyUkM4elROdHZiNmFCWXAyWnEwbmtwNmc2VXFGS3lWX0dSUE5DVDBGZEk2bFdUVHZmdk5faW5icmNad1JHWFdNbmpsbkdhdDFqZjU1OHNsbm1iakwzejBXM0k3RnhTc0pOc9IB_AFBVV95cUxPQkRQeXNMQWRFb2VHMzdZblJRTnJRZGhERWlTU0JlQUt5VVgteTVQSDNySlVSOHpodWFZdXNCc1lmQmgxOGVwbnh1LTlTQm8xeXNWR3doQ291V2h0WFBNMTJNaEdSLXNING9leUVYbzZQVkpvTS0xdnZRZHlXd3RLUWZDR2xwUmp5MVdpS014d0E4Z01DZzBfbVF3M2lRRnFfTUJOZUUwVmtoSGpnVEk1NHFCbFhaUE5LTlhaNFg3OHFNa1hWazAyek5hcE8yX2JNWFZkQ1JzRWtVdDBwTEZ0bXdyb1NWQXJCMXFkVE0xenV6UllFQmw4aDcwMWM?oc=5",
+   "published_utc": "2023-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Forest Department Uses AI To Track Elephant Movements",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVJGalNKdWg3d1dERGVGazFERkc4MDFfOHRUTzJwQ2k0M2YxS0tPYlF1a1dXT29OdzFlaWlGRmtMYnJXc2NfNnBQSFRxS0FfRkZIWW9Ga2lTcHBGVWFTbFZldUp6aS02WTFlVzNxcjRtWkJWanVYYTVoZ20xTHVGcjhxcmdvMnFnXzhzLVJOSUt1eml1SERLUUhVbWZhT2tFdXgxT1Vmc9IBrwFBVV95cUxPcXBLaW5GcG5iaklfMGQtaG9DQU5qeXdTbDVsZFBBaGFqcUt6NGRPMXhWSUtycGR2elpISm5yX3AzOUFWckJyLWhqb01yUGlyYlNqOWJuenRaZ2hkZmhfSkNLeC01TjFUVGwtbTZDVDE4QkIweE5GUDRLUEdwaUU3dGJ0c05RQUplc3JYWG5rSzJKakx4eERYd21VcnVaaTZqMWRQcjQwQjYzRFE0VVp3?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital Campus launch explores future of education with AI tools",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0pSU0VCREpZZjJPSi03TWlMZHlkN2psZ2kxZjJ1WDZqSUNXTVU4VURPVXl1dVNaNGVLUnZ3V3VVeU1HeGphSUhUUTlYTTduWmlxMXI3d0pCcDc4NDFXM29NS2pneHVIRGlCYjA2OXphbmNPeHg0SzI4c3BPdFI3UF9OVV9vd05JUlVVdmNMQktWUHhSckVkcE01TVNHYWtkdmhWOUk4UlNJZXdRbVY4enAyWmR5LVZGWXVTbmxFdXBZR0JuRGxvaldxTm5QMWNi0gHUAUFVX3lxTFBCbTFNUjZWWTQ1WGc4N3YxZHFpWk9ma2g5YkdPR1BVZk1YZ3R2MVZyN0NDQmFiQ3FtbVc0RzNObE5FNGNkRGR6LXp0MTRsdmJyc0E3N2RTMl9vaTlIMmFNekdYUHQzZkRLTkJRb25fWGNTMW1SaWJwVllRbUxjZC05S1JjMGZRYW9vYjVweWFpR1ZMT3l0MmhWLUV3aXRlV0JIMzR1My16ajcybnM3Z0k4NzlEMmVyWFQwVU81aXFrbHFZZks4b2JSMDZzXzdOVWQxaGNf?oc=5",
+   "published_utc": "2023-11-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why stand-up comedy has been slow to take off in Tamil Nadu",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzFEMzNZZmtpaXVFanN6dXlaaGhsMUp4VlRxYlBvWnRRcjVhZ0pIbFRkTmE1cTEtZm4xOHRQRGh1SEtOTW9EZThBcTV3M294Zk9kNHlYeXRDOU9TQkdLWi1kVndGNi1QVHVfSnF3S2VJSkxGWjhUVXlKbnYxN1RqR2RSRDN0UXNfX2F3UlNCams3U3ZHNTFpOEE2Ykk1TjY4Q0laVXFyTUtMaEFDNDMtWTlmY2Yzbm0yNFHSAcABQVVfeXFMTUttTFpYYWpQckpEMXVyWkcwT2dwOXdZMjNCdHJSVzJibmltYnBxUUttcC1sZUhHM1NKdFdtd0VIbVR4NDlWOXNjc29rYWNJano5QXNvSXpaZC1qUk9qcnREMmMxNnlDSEZMUkFrbHU1TVJkRGZwWUZ4SlpJQkNuekVrV3puOVVjSTd5MWJFaWM0QndFSUpYLVpoUHFtaThKLS14ZXRiR0xYNUVlLVNHXzNVRHBycXo4cnRKd0JoalVi?oc=5",
+   "published_utc": "2023-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT Madras opens offshore campus in Zanzibar, Tanzania",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1pqWWM0aU9jdy1OVjNZR1hpUEw4T2tWTUVfbGN6b1pOMXdhRllObUhLcDZ0NFJtbnc5NUFKWEU5dmlLa2N4UzRhVWlkWEM5SWppM0RoM2tBNC1jTkhSdzlVcTVuOHBzWGtoOGZXZThZdm9wRzhDOTB6MXpIeHBDb3VZZ2JCVXNEV0VZR25KX1owSnp0R05sRW1ZeFhIUG1haVRTd1F5MDl5WjM0U2xrZThFb1dTYTZVcWVXNWFqWFbSAccBQVVfeXFMT2FJSUhFMjY5TTlzdnBXa2c5anlqd2hGcUIxY1BKNEFMNkJpdVFLMnlnM3hic3BlUkgxaG84YjlxM28tYTRLOExIX2dCWkZQZWFLdFBSUjJYdWt6TV9nWlRYWS1nYlVmYlprMENrRUtic2FBOGxCMmUtZVNJMW5EZGNxVktVWWxoNUdzMDNSaHNTVHhxQTM0R3dHcmRjRFlWUmdTWGxHSkZWU0dKdVRkdWhHY0pqSDVzSG9wMkNuQmg4RnZQV3dSVQ?oc=5",
+   "published_utc": "2023-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Udhayanidhi Stalin launches AI-powered chatbot for college students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmw1TXN6a1RUTElfX0Y2d19jcXNnUGVvdTVVX29BdHFBSDZXcVU2Mzc0a1VsMDdVbktreGIzSERXWWNKSk03N0NZb2hGak5SYkprZGhLUDZWNk1WS3RucGN2Q1ZfN2t5WENzako4SmswVGh0WGxPUnFXbXZNX3VmMGt5SldMazVFdzFQUFRKQlN6WXVmNFgtTGN0Ykc5UTh6c2FkeGpzZFFYTzE5cEtJWXh1LThwbmdDeUNwT3VkeGNQMFVXaUFsOUJhZ1FNYVlkNXd3TGNSa21jQdIB3wFBVV95cUxPaGd0UFp0aEJwTDI4dUduV0hJRVFCaXAxSHY5TkdCVm12d0RocTY2dkZUTHJmenhfTF9jak1BT0cyckJ4cHZPc2R4NnQtY0hJV1FaOHktb2ZkZEVUZ05NN1h1RGlHR2U2VUoyR1YwbzFjR3JOeDlKbmQ1S0RGUEhvSUVDTlVDSUV3aS00RzVZYXpwZzdQZUdab0ppTzhSeDRxZVlqRVNiNlNPYTVNenk2MnNkak05UUhkVHJ5MkZfWFVxRndoTXFuUEZtSzZlM0p6WkNORTJ2TlZWLUZ2N0t3?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

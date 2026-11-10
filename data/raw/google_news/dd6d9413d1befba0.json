@@ -1,0 +1,37 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Here is a ninth-grader from Madhya Pradesh who built an AI chatbot for healthcare",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjNybmtlNWI2R2w2aExWbW11U2prYjNfSGNmQUdFMFRDUjdnRWVhazBjZmNzRmtsdWRnTnY4UHBycXhKQ0pZc2hZbldoLU9ZcUJZQVJHcDhHcXJaLUZJNktMc2l1RmhGYlkwcG15SGM3ZWZ0ejlzUVZpbnBnVUpnSkxJWlFBeU95WlJESHRMb29obnlTWF9DRG5kSDFHZjNsSmE5azNrTGpqeWlCVnp1ZTFn?oc=5",
+   "published_utc": "2022-05-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Minister's Daughter-In-Law Found Dead At Home: Report",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRU1KQkdPS1M0Tldvbzh6TmhTZ2Zid2wwd0xjNHRvT3NXNGlFaDhlWjQ0U1g4dC1ibExPSzVfODA5SllsNkJVbXBEbmdYQUUxWnFQVWZrWUR2dEtWWkNEYnRRRFJmLVoySk5JZVdOcW90dU5GeWNwbFlFd21nVG5WU284WktkSE5HM2pzOFZXSDBwX1hZRlpjWmpzTHFEeGNiOHBTTzRKcUc0dw?oc=5",
+   "published_utc": "2022-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Here is the tale of a 9th grader who built an AI model for healthcare",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWxhZHVFbEs5SVdkWVM0Q0Y3RXN0LWR0cGxmVE96bnJBRGtXTVJvalZybkF4UjhPcmpYbDdzTzJ6a3N0Vjh3RGh2alk0MmdCZ0p5S0RsclZRYzk3MXlJeWd1UUNVblg5WllhcFlTWXh5eUNBTXhpLVhhZHdzNWhQSkR1ZDdhMk5uellPNjh0S0wxd1hfMnNWX3hhc053OTBJTHc?oc=5",
+   "published_utc": "2022-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Smugglers from Madhya Pradesh illegally excavating sand from Maharashtra's 7 ghats of Tumsar",
+   "source_name": "Lokmat Times",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX2tMZ3Via210dV9HbzNHYUt2WS1nZjRJN3o5TjhtbUh4Q1AxaGZtY3UzWEhpUWR1Q2FNSEM3VHZrTTBXY1FwNllzSDdUT1lITnYyeUpTT21lZF9ySzlEbUlXZnltLTdWV2hrNmV0aWFEOHI1QWpEM3BXbDQwdTFBNnNpR3gtMEFlM1A4cXJXa243dmx4bG1PclZEQnNzempYcURpd2Q3TE10WjRiUGxfSGYybVhZM2t5eUJCWEdpWnZtVUkxTm9Fb2tVTFFxSXd6OWxr0gHYAUFVX3lxTE16TGl6ZlZReU5uRXdkOTZYamc2emlrU2RRdklyMWdsdUU1a1ZkYzJSVkwyX2NFcEZMNHgxUmEzS1BpemxRa2JwX1ozRWgzSjhMazJqSEx6bTNJNm1TSE5WbGg5bUVObmUxSEZDazVZM2k3R251ajVNaHo2WDVwZ0NkRnNiSEhtcjlkd3NmbXZUMGZiR2JZMmxaWF9WZTFCazNqM3NWQUxnOEtCaUZOTlpsVzdELXZtWFZrQXBtNXd0akFIVE42ZEJMWHh0R3NzMFVvQWZLM0VWZQ?oc=5",
+   "published_utc": "2022-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

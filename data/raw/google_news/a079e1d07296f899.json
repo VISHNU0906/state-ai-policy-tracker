@@ -1,0 +1,29 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "AP’s 1st AI lab set up at Cheepurupalli ZP school",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW13VHdpUHYxQ1ZSUW1vbTA2Y0duYjl5aVJBMk0zOXlHeEo3NUJMaTJwcC01THRFX1ZuMTFUeWsteWtIcWxoQTBpQlNCb0VETEQtSXY3UFNEMk0wNVZTUkZWdjNYQ1AyVUNvN2NPc0F6c2NlSmd6bXV3Z2docDBNSGlhV3Jwd0FBOEZXVGxERjdhR0JLZDl0UDdCZTc5ODhRYUdUU3NWZl9seFU2OE5ZOEN5SkRXd9IBwwFBVV95cUxNMVktOGN4OWt6M0xHazBOeU9TY01JNl9zTWNDOWdSUzhucXhkNmRETWM4c2VjSWtBQkhrQ2dRRlBQSFFIbFRaaFdNeVBsS2FsRXZ4SUlOV3g4ZGpDUTNGMGdka3JHZnpJQVdwdW5MQlNXaUNDbDJMOGo3dkdGaHFoRy1JRVlyUjVBQXVqSlJOVk0xbTljUHJoYjQ3dWFQTDZZbHhjdlNESjdMdEVJQUlHOXotOHM3TGdPRU01Q2ZISU5RRUk?oc=5",
+   "published_utc": "2024-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Institutional collaboration cornerstone for knowledge-sharing",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVB6ektiVVlPT0tpR2kyZ0hoVGxQSUJZRmpYdUlvSnlZcFBYVURBVjR5LXdjSDJQT0pkZGZ5LVV3OE5FanFKSVBxZlNWMVBvM2huZC1jQndpX2pST0pOQkxqTFMzUGVhOURuWkN6NHhENmpSYmxQWFQ1azlvZDhGUlE2NEFKR2I0bUVkSW0wZUZBUjFsYm0xUVZtLWUtbnA2b3FyT3NQXzE4NzBiU2V5Z1ZPYUtkdmQt0gG-AUFVX3lxTE1BQnR6ZjlhZXBWZVVVOEFqSUktUWV5NmJfSkFZOEdRdmNvTk93c1I2QWVKSmdZNVBvREZwTU5HWlhZamhUb2pPQWdULVVxOTlfSlVScFV2cFFfalZ6ODUxSkhGS25YSjgxbzgtcXc5akY3TnBveUdFXzRVdE45U2Y3YUpwUERBQk5VbGdYdFk2TmxqMnV6NThDX3Vrb21ZcEZvYm9jXzhieTlidE1rU2pnQndNVUF6UnNyOXFEVFE?oc=5",
+   "published_utc": "2024-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Government to Disburse Pensions in Village and Ward Secretariat Offices",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONElQQ285UUVCUFJpZjlOSnF2dmlFVXNMN3VNdS1TT0xFX0V3QlVnX2tOV3JpdXNSUnF5a1pjc0V6dUVOdEhJdFpDandGTElWZ09XZkxrUDNMWjdkdDg1QnBtN0xMUldKNXVESHdRVUJlX0tSbnpyLTZRclhLaWpwTnk3Yk8wcUd4UFRJSDUxTkoxMHA1M2h1d2k4ZjNoRy0xbUlKb1p3WjMzRHdxbDZXQzlfa05aZi1JU1MtddIBwgFBVV95cUxObUktaVpHLTliYU1UeWFySC1SUnBkUEdrYmhYV1pNT1pySWg4Undkbi0zWC1BLXRnXzhSY1Q4ZnlGbk5VWm1sWURJQXFSVkgzNUI2azVWNHVXZW0zYzhscEZnclBZMUtlYTRMZC1aQVhocXRQQ3lXeW9NTGk4TE1VNWtQVHBVRHVGM3J6LWEwdmNmc0hUNE5ScHRTcmlKdzE0RzNSNFBYXzVlNll6OVFuUC0zaUd6ZHhtQnd6c19Cd3Bfdw?oc=5",
+   "published_utc": "2024-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "\"Telangana\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-06-01 before:2024-07-01",
+ "items": [
+  {
+   "title": "Telangana bets on AI in bid boost IT exports to $200bn by 2030",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWkstZFBhWFg5VmZxNm9IWF9RS3E2dEFUSVN1OXpRT25acjVOTGFpYUpENkFMY0NMRzAwQ25OQmpmS0hhWFlQMkxFWVdna3o0bGhmbDY2VGo5YXV6ZnBhQ2ZNNDVvd21jM3pyWXhId2t5bmpJRjAxVnZtTEI4cHAzeG5xOVZWaE9mTkRzZWNJNDRMa0x6WjVqSlF0Y3dGY3pZUXFncVd0Y2RlM3BLUWI3MGRKc1V0NjhiMHdvOW5KMlBZMmJkb2xIM00zUG5RSU9rRTRvY2tUZFNfMnF6MW12c0FRWm5oNTNJX0k2STJuYlh3Z0JfM1lyeURlWdIBgAJBVV95cUxQeHAyclc1dEloaUh0QUx6cTlTeGJSdVRObDFMMmhKdlZXWnE2U0NDalNEdmdpYVNKc2FjLXFnUm5CQThvMkdpOVNuMHpoRTBEcXhFT0V1SDROZnBYUU1UTEhZTWxjMFNfQlZjWHVzeEhpM0NlVll5aXpJY0hBYjBfUW1fRHRJZ0tpMW9JOURPUEYzRTE0dXJ3X2xTN2t4UjEtUVlaRVlTZWlfQ09kOVItNW14akdyaERpTE02U2tmWFhDU2pMLXU0RVJaRmctWTlZYWgxS1B2UVJpYW5VT05MMUZhTFctRXIzMHNSejc2NmoxREdiWU9jeEdfQ2c5bmRq?oc=5",
+   "published_utc": "2024-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Moving beyond coding, Hyderabad to focus on innovation and product development: Telangana IT Minister Sridhar Babu",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNnBtdUZEQlB2ZV91bDVleV80S2xyckhsZUNUNEJLZkV2ekIzVml6Q2plWWg0cDJnZ0gwZ3FWcG0yQUc4YWE2RjdiWDhnNjNqSzduTlZFYU1LOVprSUYtRUYwVjhUbk5ER3M3Q0hsam0wZ1RZSzh4LWl4TV83T0VEUkp6SFNyNkJKZmYyaEFBNWdEdVhlaVoyNmJZN1hRNmdEMm95aGdtTVRVb3dZMl9zclh6OTBiaG83eXZfS25WR3FOYzktNDkxblp6V09DQnlSbVp4MWhZa2xoYk9nTGltSDVVZw?oc=5",
+   "published_utc": "2024-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "All eyes on Telangana Cabinet meet today",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjNmbzRqTjMxR25hZWhVRmZadUR2STQ4eXVxOWVrWWJUeTJfdllvVGEydUlPY01XNVpFaTVSVmhGZjV5YmNaWUh4Y1V0a25KT2xrUmtuQ1AzeG5jRDFsd3ZHR0pSVlluRzdkUzR1bTQtMmVTM3FTTGFKTWh5c0c1Q1kwOWgtYVF2MWMxajhmR1dsNmM3NG5tUTVQUE92eWNYai1NaHJNVFnSAa4BQVVfeXFMUFZ3VWwyQ3M2SHhfYlQ3UlpVY0JvcVNZd1dDcmx3Q0lKUjUwWHc5QmNrR0k2aWtYZnhhUWwxWUVJdE5GZU04Z01KQ2VTbDRzazNzSktieEhQSjJoOXVxSjlkWUtFYUx2TGg4dkJ5MlV1YXFjdzF4dGhMU2NiYlNHMHYxN1hpbC1UWjNCTHdySS1Xd0lTTzh2V2FOLVdCQ05LRGJ3Tm43blZMS1QyN0RB?oc=5",
+   "published_utc": "2024-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hyderabad looks toward AI to solve parking issues",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVA4MEFHNDF1OHB1MElhNjFpaDRDNjdYVFhCVUFwUUl1dWZWWGlKRXoyZEljUzdhQmM1Q3hGbnF2WG9vZG9SR0F5ZFhVVUpqdTd5a1paZlZaazF1VXl0WEhBNnlEQXk2RUhfRW5ydFBFOHNWWjFHVTFOTEtBb3VwaGRBUXBiR2ZxeVh0Q090c0s?oc=5",
+   "published_utc": "2024-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana govt’s ‘Samagra Vedika’ poses risk to human rights, says Amnesty International",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOWNjbmx5WkRMYnhEeDBmcHBYOFJUTG5NaFNEa1JlSU9LS0c2TjBZbE05ODhDbFpPY3lRV2QxVHpNZ2Q3QW1KS2JTelJ1NG1scGlKanFUeDJ3YUVMT2NTV3hCRGRUQ2lnU1NxbmxEbmJGRlQ3WmlhU0ZRaTN2dWZQajJ5bVNfWUdqYXZIdVoyRk5naHY4RVFrWVdHelJqVFAyS3QzOHVkT3VJTkZxcWVxWDdBVF9kdXFoWU5IUjBKSDJveGRLUGdPTkhOYTJqaXY3amFRVDRoMXBGeXhkZ1ZyS0prY015SHJHQmwyVklIX1FPcFFYOTJpbEhNY9IBgAJBVV95cUxQVVlMZjU0NWdiS2RIWUQ1VGRWbjhxMDJMMm14N3J0T3BXcmhKbUpUaU14R2JCdUdGMGY5OVNkVWZacFFMZnhXUy1vNmlHV0tnWlVicnZObHJCTXh5VlcxRFpWZ0pIbFJVQ0pMUFRuWUFaelhVSkk4NkZSUjZHRGRsZGE3XzVWNERaSlIwanNIaUppcjduTTNkY3dNcE5PNXFmdUJwcWJOMFNNU0tZbWVQUkY0Q0Z6cTdWRlFleV9VTmVudjRwTFp1RHZxT3lVa1A1UXlJdi1LbGlJcXUtMkVsS1VERW91dmlNYnhQWjBpSHMwcEE4WE1hQXdiaWF2Umw3?oc=5",
+   "published_utc": "2024-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Govt. to fill up 435 posts of Civil Assistant Surgeons soon",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZkluS045M2gtWF92Y2ZkWkdpR2VKSHZ3ZkMwRVFQdXJlT3hfcGtIby04MGgtRHg0ZlJuazNjRGYzQWk2OWI1UFFSaTJPODZGZHJtUVJkX1lkTU1DUGVKeUNQZWtyYWtld0dXWk9ncDRXM2NCdllEb296X052cjgtWTBZWUswTV8tNm82eUZVNFpDNjlYRlpJRkNEcEhTV1NzOENhZnRxNnVHdUxFUllHbFVoSENCMzNrbEZldGlSV2wzWHRSdVFTeUxuNThxM1HSAdQBQVVfeXFMTlZuTG52QkJCVll1Z3NHNzFJdENXS0xfZzQ3S3lzQVFrUVBVZ2RBNmw5eDhKc0FQTU82VlljalBLTVFSQ1Mydmc1TkdaV0pBdGhtbUhEX1pCNVFqYV9xX3VJYWxvV3hfaDA0ZTBudFZvUXlJSWVJTGNHcmZrZWpBaHA2akc5bmtyZkk1QjFOTzBaeC1XYTZuMklQczdKY0hPckVRZjM3VGtwcU5EWktRQ2xMbjFVRkVlTHprN25CME9NOWFuZVRIYktFRHA4ek1mSXZ3bXI?oc=5",
+   "published_utc": "2024-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Health Minister warns stern action if hotels supply unhygienic food",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSUJLWGV4cHFjbkdhcEdCU0Vhc25qUV9fb2FTYnV0M2pFUXhvRXBfUmJRUkpPOXplQ0huLVByRGx1WXJfODc2dEs1ZWJ6ZHJaX0xwR1dyLWlPQ091M3hFa013MzNtbVRIY05XczRIZC1yVjA5R1hDdk1weGxfejBzeEZiUEVFX3ZXNDBvUUVTdXZWWmE1NjJheVg1ZTd2NUFrQ3hONHowU3dRU3lrRGtsMlhibFA0UjVKVWdDZVBUWm9iWGpOV24xLWY2VVRkSWp4RWZpdlVXTmJhd9IB3wFBVV95cUxOSDVsQmNDSnNuYmcwVmpVbUJqLUxMN3FrZjlnY2R4ODNLUXZJUDIwcTJkb2ZScE9qUGFXTjBpdlBGWE1Ja1VJV0lOMXFTTjJ2dWFrOVNxMDBVQ1diVldGQ1BPM2RybnRmS3FmVDZXX0FmSlR1MFRLTmgzNU9YRWJKQlNfd1RaanRGM1l1TVdTS2FnVlpkN1MzYlh3MDZoSkhHUkpVOUFNTHRPMlVqUFpWY0c1T01PSVpYc1VFQ05jNG1xY2NnU0FZa1RqM3J3RktLYm4tb0VKQUtPUlNYSHpZ?oc=5",
+   "published_utc": "2024-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana MLA’s letter seeking admission for 3 children in govt. school gets accolades",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeGlyRXdPR0RCb2tzQ1RfLXh0OEhSWjJrOWpwTlNDbFRaZFd3UTZ1MF9LSHQwMHo4TVlyS0xDbFlETXNKSEc0RUhoVURnX2pQcVA5S1ZmSEFOUE9uQ09EZG16ZFBhdXdVY3lrZDVOUWpaQnRiVXF6WWdYMTB2RDY4czhydFhYbkIyU0RKR3NXSVBLUFVMUG5qc2tWcnRpaXJLdkFzMURqa1JjTDNrSkxKMjE5M0toV1FRNWRSUU9uSkZXZF84SmoxMGREbGRLaHVFdUdRZGpfa0EtZVBTRmNXaVctWdIB6AFBVV95cUxNWkcxNHNCUU9QMnRPRlZ1MURjek5sSjlWR1F2WmZvSk05Z3kxNTB1RTBTalRLRGxVME1CZ3NzU0dIWTQ1X3V3akJHN1NyWnpheHEtR2xFVTRPaUZYaUNUVVV0dlFvSnA2NHRqMlBaejBGZ0RiSUlxaTd2eW1NMFVacGNtYTZvWU5OTUczb2VsR19OdDBxeG9ta1ExcmxDNkFheVF2VTJmOU9Ib2VfS1FCXzI1OU1NVjZ1T3ZSV2JmR3pCbHhBa1hISGxjSGZ0WGRDb2pnajRreWxVVXhFRkZtOTh3Z0xnVnJJ?oc=5",
+   "published_utc": "2024-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Cabinet Ministers Get New Toyota Land Cruisers",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV2x2RjBmcVpac3RVbThPMnVWem15UGtqSHV0dGhDLVlZaWRVd19rdVp6YXJ0U21nbzc5cmg2UmhHc2NuMzY5eXdJV0pIOTRITjZXNkJFeklrZG11b05kNkxfeUt5LWF3dGtGalM5Zm11YU44b2Fvc3dSVzFmZ2hydHBtVHZzbklLdGZsQzMzMVhSeGNvVnNxTDNxYi0yWVllWWFNcUFDRHZaNGFsc3JaNW5RaTV0R1pJZ3hFRjZB0gHDAUFVX3lxTE9PUDdhTFFsWW9PSVZXY19kc0NfNDRERzAwTGE4bkttVkpFbjV5UFRaSEFKdGdESGxIbi11Tm9lSXZ4TGFhT2RpM18xblZBRTRycVl3QXVZOW1EYTFXMG91ckFjTUdReGVOdlJBM2FFT25nMVRsYjFwcEx1b2FPYzQtZkZCS2FRV0hYcUc5SFZ0SDZlRkN5YnBXZXoxd0g1Rm1JWUUtMkpjQUFtMDRCa21UTC1UMmhFUlEyUVNHUGZNU0FqQQ?oc=5",
+   "published_utc": "2024-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana Tourism Minister Orders Facelift of Green Resort",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU5MX2dmUnhTVlVkSWdRNnZSTVltWmV4cFFhSWdwUURqY1E3c2ZrS3FHa2VYM2FhaGVEM3dsUmpOdVFweWxRN0MyM2tzem4tNFliMUg0dktOZkV0aXdYdXJGaU4zTl9JS2hmbTd3RE9Fa201YnFFZEhmTFgxZzExU2JxNXVMS0NsdDdiWHVzWndwV2VhaGtRYmpIVWYyQUx0QklKS9IBqgFBVV95cUxQbWFYT3VscldVSWlNeFZhaVJ3clpVQk1pTEhHMlpPZ29PZ2JaUVY3VTFjdXdfMFowSERnUG1qY0E2Y0hqOGhsdFpHelpYcVBILTNLVlkyVExTQ29iQnVvTXZZbm9QMVZqQWs2MmRqaGcySjdlRWtVOUN6T1RfcmpncF9Sc3h3Ni05UXhQak5HSGtfSm5Da3ZFZ0hLZ2d4dGtfeGNJN05LbVZiZw?oc=5",
+   "published_utc": "2024-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

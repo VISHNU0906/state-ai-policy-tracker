@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Maharashtra Government Aims To Prevent Cheating In Board Exams, Here's How",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMWFZdVN5SWtGZzVfSlF4TEw2NnQzNVB5Y2FEakJ2OHh0SFd6aFdUNWhCQ2FvN3FDbk5rQUljUWZMckEtNFFTRmxZMUNNRng5SnZ5dndZMTBiXzNCeF9UMzh4UHRQR2Q3V0xnVUtfWHBPUmZEYXRMdlhUSGhpT0x5b0FpMUV4ZEEtYmxpVEh6TGF0UGdFLU9IODhDVXpoMDByQXBpbS1XcVJhbDVMRjFoa0dOaVF3cGZVMWdwYk0waDVRVnRHVFpoQ0xQWVNRbUnSAdcBQVVfeXFMTXF3SGgtSnFMbUVlRGlCY1lMTXpFN2VZT3U4SXhmLTJhRGtGY3hfNTJzeDFKR1JLUTNNRTNsQ0E1VGJfaWYxOFdMaTF2Q2I0UDllcGw5RzZ1SHhERXhOLW1BSXhNOVF5WjFlRklwWkc0NHFBQ0RnTXo3WnQtUVkwQjNRakowNlN0VlVLZUtPS3dwaDM1MEhzak1SM3piaE81aXQtTFVJVE1uQ1VzZmE2TURUMElOa2ZhUHYyX0d6YmFpTUFiYmlLclhaNENyQ291YnM4QTlycmM?oc=5",
+   "published_utc": "2023-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MVA govt's 'handpicked' IPS officers get new posts in Maharashtra",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRTh6WFZiMUxxTVJFVVVWbG5NMW1TX2tHSk52LThDd3dhWDkyMlVjZTNndTlYMGNPTHdSakZneWo3XzFzSkRSaXZ0SXlrMG5FQk9QOS1Hd2Naa1RDemc5U3BBMzV5QUh2QUhmaGhZMm5pUC1BZUFHejJvM3NjZ1MwUEI4ZWNyWERmSkwxYldMYXJGV09zUU9UTVVndGtLc2VIcEltd3k4VWExNXRWdEI0MnU5a2hVeGNEcUFCa3hPS3BlY2VzVWo2Sk1VNHRqNi1J0gHWAUFVX3lxTE9fOTQzeEk4NER5SFdnN05iRkl1TkJyNXVWdHY1d1VYbFVQWHI1dUI0WHRRaXVHeGNudXA2YXprVmRRdmlEZVVKLVI2UHNocTMyZjhSektwX1pDRkpUOVJZdTlxZEMtSDZkOEthZGJWdDA0WmVpTjhfb1R2VklLSF9JSmF3WmUtT3VTYm1LbHF5ZEM2Rk9hcXN5Z0xQRlZkbTNMR29xVXY2QnVTbXlJenI5T0lxUmdQbWRWaTYyeFAtTlVLM2pWRkNGZ1NjRnhraWZjd20wMUE?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra agri minister Abdul Sattar leaves for Germany, Switzerland to know about organic farming",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdjQxbElWQXp2bVhzaE1uOG9TeVFZQ2JVZnFaNVhOV20tQ0daNk5aX2hqRHNyTnYwNlU2ZFZiUXZaZElMbFBCVHVrZDhvekZZVDhaOF9YbmNJc3JpbjJFb0ppSXpGcFZiWUw0b1U2dW9Qb25WOHUwNEtpamVmUlBmSFIyYkFoeFZCMm5ueUlQTFh6SURKQWl5TTdMbzl5TWNmSzRMUFBUVkVEeGlTLXU4dGYxR2JqZVhkQTFuZm1YQ25zS00yOFpTX0ZhSU44Y2E5YWZxQmQ3XzV1Ulg0djdvdzRkamlidTl4bERUNdIB8gFBVV95cUxPb0doNDlIY2l6X1ZDZ0hnMjJqUm01RERGakkyTjh2R1NEWFAxUE1rOGFORFM2NUVKMXp4X0szMHF0YUpacHBpazhkY0lFd0RXNkhVNG05eUtrZEZQTXU1UVlIVUlKZkFfMUtNVmI1MU1ocGdINFY2N1Y0aE8wUnJBdGh5M2hSN2Y3T0YzZ1hMRnItZDYwNGJpcmRHVGZkQ1BhWm03SF9faXBGc2dEejFEVTlOWGhMaV9CZHRhaU9ib1M5WW9ld080bzVIQlNJaWNBTTJuQlpQcWkwRWxKUVhXdTdQTG9ZNzRNcXhHNTZuellkQQ?oc=5",
+   "published_utc": "2023-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Set To Formally Award Dharavi Redevelopment Project To Adani Group Soon",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmRlNDFTRUFwbUJDNVBaT2VfN1NScURfeEpRRzB6MVBzZFNnQVhxVFBsQVNnZ09laXhBYUpkRWd5ZE1YUE1WekNnVWQzaFo0Vjd4azFHcGphejlvMDZVZjdlbXhsZlR6UFpxZjVrWEswdE1aanRGS2hISzBhSXh2dHN6bzZlRHlLMDUtQS1ySzhKRzRaVWRINHhtcV92M0wxZWl6Mk5ERkNGRjVfTk0zVVZfbndMaGFtSmpQTNIBzAFBVV95cUxQQjBnT25QT1pIMVh1Z1E1Q2phRERjR21TTzRQcWxybGFia1RUNnVUNGR4X3VsdkFDS2R0eEhDYnp0QlJpZnE5ZGE1TmpzMEhzM0FDZTJTX0dfODQxamFOX0I0UFNISjBnY01iazFfeG52cEUtZERILVNydVlGVVJzUUpqLWUzMThtdjV2TkM0ZEM5TFpxaW9wT3RoS2o1LWZiYkZldHJYcUVLSEJ1OFEwN0Ywa19NZXZRVWxjQTI3bjJReVVSNFk3elhONm8?oc=5",
+   "published_utc": "2023-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Chief Minister Eknath Shinde Announced As Chief Of Shiv Sena",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTdGVTZDUll5dXFpQnAtSGRNX05hSXJMcVhtMGhUdnc2clFmM3RqbnRPN1Zvd3lYd2o5V1dlTjJ5ZG0tWUxqLWtmNXl1eHpNT25tNU9VQ0MxN0FJOXphSmhaMk5ja0VIQUtIVDlZUFREbWNzYjdCR3ljdl9vRTNhM2dFYnZjY01odlg0QURKME5BWFZGbkttS0syOVZkR2czZFNtLU80ZEV2cGVZNjlJcU930gG6AUFVX3lxTE9lQ0Y2ZHFBMS1IQ2xka0VQU09UTUxPbGROYUdwWjlKVExKbW80M0l1T1JNTGtjREplVjJhZ1VXWGIxVHNQQXh4THhaRU1tbjhEazUydmVRdnRzVnVtU0ZQWU1BWjN1UXpQY2lweTludE9fc245Wl9aaFNvam1XZlNxQ0RwcE56WmRmTkZ3dTg0R1h2UFdwM3gzS21NOG8ySGE5VVg1aVFCUFAxMzVWTlZVUTNFNVZmdmFmZw?oc=5",
+   "published_utc": "2023-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Chief Minister Eknath Shinde to remain 'chief leader' of Shiv Sena",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkswQmRodTQwTjFxLVU4VTFZSTE1YjBEMzRaXy1tOEo1amhudmxva2tweUwxLWpTYTcyd0ZTMElhN09ucWJHcFI1b0cyUFhiLXQxMU1RSC02TndxRzlNS0NPNU1QSFFpVEVGd3I4VDNXMml0ZzVnd2xhZ2NUb3QxeFppRjBwQ09XelBMbkR4a0huVUhsaG9RSlJTZkIyWGhaUU1OWHNGZ04zWHZ0LTBscUxaYmtzVFBNcHVZQWdFZC1xNFBWMFVpYWZ0OTBFd9IB0wFBVV95cUxQeUQ2U0xXM0FPSFFyZXhkNFpvT2h6ZkRtUDlSS0h4RGJlZUZ2Q20wWnJxZUk4MkViQm1YYXRhelNEem1Uc3k4dHlzMFotQUVXS045V0FldzNiSmEtWVV6S1lpdHJJN3dvS2xXUjcwQmpXUXRyeTNQT0ZCMGlZZDYzTzVfS1AzMmxBc1p3c1NZdnJFZXN0NlFxR2ZvUzdBRUJ4YldTdW9SRm54VFRfZkNjdFZDX084d3NQaHpaUHZIempDcVk4UmRSYV9ya3BoNWkxcjhJ?oc=5",
+   "published_utc": "2023-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Need To Make Mumbai Like Shanghai? What Maharashtra Chief Minister Said",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbXlpTHI5Tll6LWlFMmROSmlUSDBlWDU2U2RnQTFsRl9XMmE4eTlEYkgyUmNral9KdG84VXNlSk9ncUlCTy0zcFl1enhVUDlwNlAwTm1uRDI2SzhmRWVuNmRIbjBKOHVjTTZNaUphclJ0VFdMSUNWTV9hc2o2Z3ItRnZRY081OEFUcWJ0M2FpRG5ZR1VpWG1ONnA5aFMwWE5pZ0FwZVA2UFMzWmozNkRoUUxaNWt0NHpLVWhYbGlWU1J3UdIBygFBVV95cUxOS29tTmxIN3NTU1lFRjdsVHBLZmRxVWpxTGxMQjJaZTBRTENwN3hGX1ctV3drYV9RWHlvcWFnZmIzWVdpRDlRN01obVl0OUZHS1RXa0FUUTFqTVkydDZacW0zWjJuTVVLcHp6YnBBR09GMDI0cXlIQ1RGTk92YVU1dThDc2RpNUZBMlpNU1pMRUlIeXRpd0lRbXJxcGllaWFXUWxUT242WldsMHpsYjR3bzRXN1YtaFdUcTdrSFZfLUppN2hBTjNwT1N3?oc=5",
+   "published_utc": "2023-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Warned Uddhav Thackeray About Rebellion But...\": Ex Maharashtra Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2tQaUpXWG5FZ0xNMElKMHRHRzNmaGNMc2FvUkJOVk9SeVpxSzd5RFNyUkhDbFlhRk5QbWEtaVBHZnJVdEVYSWNWUUxaUHF4Y1pRY0NRMDJSdXhjVGpPWEx6QmpvV2wxNWNqMFBzMGxGUFN3cG5SZ0I0ejNBcHQ3enhuNXZuUUg5Z0JuOFlKWWk2VlFXYi1zNW52M2RJN0dCbmswNlV5VzQ3U3dVT3dpTExBV3RrTjE2emfSAcIBQVVfeXFMTURBaU1taVdzSlMxUzJObFE2UUk3SERyNHNTem1EZ2p4aVVhbUNtM1VqOWdQcGZGZzNXelQ4MEc1T1hmY1h0MDlTUWVOQWY0MWNaQjBfbXZEejItemk2UEFaYXNveS0tYkxVdTJEZWxfWXdQdzJUdkxuM04yWmpqZHVvWGpsUmdwNW1YQm1IN25NTE4xZExPakVVcF96aWtQTWt1eXlSYlEwR3gyS3c4OWFqcGJRMkR3ZE12eWlkSnRtRWc?oc=5",
+   "published_utc": "2023-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Uddhav Thackeray Only Chief Minister...\": Maharashtra BJP Chief's Claim",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSnpYNE5uQmViS0tqamQxMnF2OW90Y0ZRaHc2RDBwMm85ZkF5d0M4VDlURy1xVGZyOTEtR1ZkRlJ5M2RZblJiR2Q2NkVrOTBWaEw4dVByeEFNSVVYUGVET3V5ZE83SjBMazhsY3JoMDdpSFh1VVNiTllJOWRtR3JGbVVpSHFEdDR6MWVuMWQ0RWtVU2lFSjhGS3pORUJBLTQ3UXRNajA5LWlqUVRKLTJ0UVlUSEdzWnU1OWlmNnBZWTVnMVMtMEFCTWZUUmx4enZpa2NpYjk1dXJ1NEto0gHkAUFVX3lxTFBtZFB5WkJQRmtCemVEc0NOYjBsV1FocGh6eVRIWF9jaW1UZHFicUxyOUVvNGRTZEtibHRsODA5Vmo0WWVKZkwyQXJINWl0OHZ3cjNIeDY0RlozbUdmcVNodHpDX1plWVFYVE5OTzhQdGxhSzB0NjgwMnA0WGVteVFfSXE5OGVLLTlhNFJsRk94dDI3OWhsVEhSQmdfT2xteUVpSUxpTl9xRHQ5UThUYUtucXhlNWZJY0tncEotenNGX3V2NWdjenhXSUl3LTNabjNDeUswclRNUE5FdHREZnkxSDdUTQ?oc=5",
+   "published_utc": "2023-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Out On Bail, Maharashtra Ex Minister Allowed To Travel To Nagpur, Delhi",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGZCSEFIZEc0VWx0cEhwQ2VEeDNqLWpKaFRNVGE4OVpvYnpLMXVBdlVfbWdCXzd5aXMySWZ5emtsSlBHMjFyR0NhdXNHSnctMnE5aEptdWFCU3hMc3l3a2tObjdSUEREaHRKb3dudGh1eURYVGtKaGQ0dUhrcWs2OW4wbUx2M0tfMWRVRVQ3RjJsT0xEQlYtTFhCTzRMS1FVaTdINkJ5YUFCVS1uSmZtadIBuAFBVV95cUxQWmlpSFNSUl9adUdfZl82WnVuaXJaUE1tRzVUSXhMcTZTMEdyWm5MWExiSWw2QWhtWjhqLVctdGh0SlNqcm41Yl9zdmlnbXZuOWllS1ZIRndKOW0zUmN6UjA4WV9QdWZWcUR3ejVQVXJqLURJeHh3dG1DeUpWdVZGaEdsbXBSejRzLUpjNkpPcmhsN2dwaERsWVg5djl5bEJQaWlOUzZEWFhhLVBENmJsRk5wR0ZKTjdp?oc=5",
+   "published_utc": "2023-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

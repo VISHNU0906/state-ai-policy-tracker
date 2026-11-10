@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Google partners with Tamil Nadu government to develop AI-enabled ecosystem in the state",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnNuY3NRQUw2UmZCdldOWjdYbGQyVVRDUTR1dThvaktJWURGSEl2UWVNMm9oekUzOElvR2NyQi1RQUh3MHpmVHRzZXFqenJXd0xEd21wOTJxZDgxakxRbG1UeFpaUXJPT3Q5NDNpU2w4S1hpZnA1M0FIQkpoZzd2OEZaTFZVblRnRWEwLV9heGhFQzhTd0lvZzliaWdCV0ZCcTNXUHdVeVBfSC13V3dsdFNhOC0yQQ?oc=5",
+   "published_utc": "2024-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt signs MoU with U.S. machinery manufacturer Caterpillar",
+   "source_name": "DD News",
+   "source_domain": "https://ddnews.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVdESnlKUGhvNG80X1Rycjc2SlctSlZkRFdEdDJnblN2R2lEMFF2ZjR5MGppSEZmdlpIR0pYal80OWozYVMtQmRvRWNfcmpLOVVaYUszZ3JqVHhRRDB2cnBfdkZGZW9EamxuQmwxMTFZV3Y3cjZJNFBVNTM1NHN5OHJWeWktanVmNGgtczcydTE?oc=5",
+   "published_utc": "2024-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Google and Tamil Nadu government sign MoU to build an AI-enabled ecosystem, Pixel 8 phones and more",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQW9jZmZENFVna3M2Q3dJcWZGY2RXbDdOY0hnRHdudzJHSXllTFhYWmdZYWV5bkRYM1hHYVlBN25SRUkyVVVzbUVHVG9CUlhTRkhnLUdfd0pocFpZRHdTM1I0VmdrcmljalVuXzIxREY5LVYzMVk1Y08xanVVRWRfQnhjVkJtbkpodUtuYy1RRm90ZllmQV8yUG5uMFdvNUtGUVE5ZnhieUhkTnVLVExoV0hRTm45VXlPWlNxa1cxbFoxQjRwTDV6YnF2dGpvOTlzdWU1SFcwV2Z2Q1FHSW9pTnU4MmhocHRhNVVDaXN2OWtRUW5oVFdVUDRBRmdDUmhiZmM3NW5xZ2dvTzlSZ2fSAZMCQVVfeXFMTjlENENBRkoyVlFZVmd3SXhNSGtnd244LTVORWMtUlREQkNfQ1hTUktnVy0tS2JEVmRqS01kdmlSMW1VOGpmVTFreVVveDBReVpndll2VjdJWHRVRTdpM1hZNlVxWW1IaUx5MEZsWG8yZklOcFV6UU13ZTJWUFRFUkhJRGlJelJRYnp0YzlnVmZ3NXR5SjlpOHV1SXVidjJwenNJUDJaU1dnNjctMlEzc21pVVFmMGIyVG1TbWthNjFuQ0RjSkJsUlA2dzJoU3hlLWJmYUxxVkk0VVhWNnUwUlhXaEoyRjFHM3BPOVJYMFQ2S0N2MG8ydDFVZ2VaSkpDMmdZd2Q4aWJNWjN4S0UzaGwxcEU?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Chenn.AI connected: Tamil Nadu now plugs into Google's AI mainframe",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUlZLU24tSlJ2N0taLUxqU25fdGJ6bUltTFBWY2NoTVdNUmZfRGxPbXRqWDN5YjRPVklQWERvTjBxbmVRVDVKMGtRakhsRVdPU01KTHZNeGNtSTdxbFBmVFRpZ2FUaDBnLUNvZW96WkIwdHAwcjRoVlZiM1AwaXlnZ3ZqaWczWTFrbGJiblhIa25KcDVjYTltbW5tdlQyZmhwb1pWdnhwS3FiSHV4VHJVQllMZHZrZ01fSmVMZWg4QUdqUGR4TW1qZWtMNGI3bEtZZDhIaWtaNm1GS2Yz0gHiAUFVX3lxTE9CN2liMG1Sekg4MnM5Rm1SWGJKdXdJZzE5RW5XbHZkU0J1Y1FuVzlvZ2xDeVlwMzJUVXJ2dG5FLU5oQkdnMlB5eXBLTDNYQk1YbUZSdkFualE5NEJpdG5TckFmNkNtSVhZb1g4MzdPdjc5ejBRcF9nYWduMUFtdC1ibUI1Z241ZnB1SlZ1eXl2QVdHaUpiOVIzRERNVmZmYklOampHMWtQcWFkVHphT0lqNFBURUZnQ1owalJjd3piTVlIVEMtV0xod2ZSUldsWS12MUVwaTZDWmVsWXdPV1pGaHc?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Stalin's US visit: TN govt inks pact with Eaton, Assurant",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWVzQzY4LTBQdmtxTGVhRmlodFFpbm00QlBfM0RfaWhkS2RnS3V6bldWWG9td2t4QnNvVUFRNy1fSzRQRE5KTTVJVHcxeE9LbUF2UDUzWTltUHhKWks4bTVFODhjWEFTRG1FZXY1TmphLUJpSTdCcjBKMUZPSHgtX0RwZFBudFVUZzVKMEFTUW8wc0JuemM5eGdzOEVOajY5SVBvc0xocmE5ZmtxNWxhQjVnUnRpUkVRRkhrUFFwemV5QdIBxwFBVV95cUxNWVpyZlVJNk9xOUZFMk1POU93eW1mYjZHd1BXdTBfb1Jpay03SUpGRlE2WlN2MTVtSGVYUHdGRVl4bDM1cTNPUXBOZ1p0UVltM3hfZ3lObWhzWElnd0lwTGw3cGMxT0JJLU1JZ3k2aVEyWkFMaGYzX05vQWpKcWI4XzRKMzJvRnRNS0N2ekNiSGFZa2Z4VHk0Z3B0VUNpLWlScWR5bWszVkpKVmNBc25IdV94ZjI4S3haMmJFNTVtdXloQ3lyUFdN?oc=5",
+   "published_utc": "2024-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Stalin invites BNY Mellon to TN; firm exploring investment, AI in banking",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWTZtNkI5NVlNd2pNeWxFNWN5Q3JXdGJZOF9QeU1hby1BYkV6dmlSdUF4RkJUdS1ERDk0dWk1Unl6NHVpb3M0bHozTkNBbVR2M3hweE5QN1Vmc0ZkQVIxR0FvMHVzWDlXSFdGVE9UYjBwdzBIVWF4LWVXRGdqYXpEeklRTTFwQlVfRmhFMHNHZ3RsaThFRnVQN3phcERvTlZjcWoyaURrdHE5OWZzdGpsYTVIMGRLX1FKTlNIWkFfYjI5Vkdwd3FJU3U3NW9JRnRSbWE00gHgAUFVX3lxTE1DX1NDTFYyajc5cElvckMzOTRmNl9aYWZJRXJ6RENBRS1fSGRsNUFuMnN1X3RDckcxbjJJQTU0U0I3ZzFTbkFaTElmQzR4M3R5X1N0bGpNZ0djN3NKcGJIM2c3NV9yYWJhVUYxdTY2UkZWRl95QmIwOTVxSUJ3NVZFR0JRTU1uYUpoQm45ajl2WXNQUUpiTGVyYmxieU5ZZV9lRUsxZGxqTUZjak5nTFUzM2huRWl0NXZLRzhUUHZhQm13UHZWdmhpaGlWR3ZvWVp4QUZaQ2taWmd5TnM2UDI3?oc=5",
+   "published_utc": "2024-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Applied Materials to establish Center of Excellence in AI and Data Science in Tamil Nadu",
+   "source_name": "Indian Startup News",
+   "source_domain": "https://indianstartupnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGlZUXI5bUd5RGRCNXQzUWc5Nkw0bUVvM0VQNWx5ZTg1c1JQMVpZMlduT2RzSXlNUm9Bc3p2R05Jd3UtLWlkcThZZmZ4T2p2R3RIRWxCR0VqVkVqNlE5cnRIZkdDVnc2ZlZmMHhWRloyM3h2NkdmX3VXY3RRMlRmODF1WTNYUDctR2tRYXFMOG96WHdleXE4LXhfSWFSdEpXczdTR1JOV2JDdDhkZGZ6cnNiUmhDaFlYcU9TN2VZVjdpaXprUURHX2dfRdIBywFBVV95cUxNWGlZUXI5bUd5RGRCNXQzUWc5Nkw0bUVvM0VQNWx5ZTg1c1JQMVpZMlduT2RzSXlNUm9Bc3p2R05Jd3UtLWlkcThZZmZ4T2p2R3RIRWxCR0VqVkVqNlE5cnRIZkdDVnc2ZlZmMHhWRloyM3h2NkdmX3VXY3RRMlRmODF1WTNYUDctR2tRYXFMOG96WHdleXE4LXhfSWFSdEpXczdTR1JOV2JDdDhkZGZ6cnNiUmhDaFlYcU9TN2VZVjdpaXprUURHX2dfRQ?oc=5",
+   "published_utc": "2024-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to partner Google for AI skilling",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGpEeW5ZMVQwNGJJS21CRVl2RnJWckxhUnV4WTYtdktaejB6amFxaG9nTHYxN3NUSHN0NzlFdk9CcGdteDVTNE9yOXRkdmNjeFhLVEREN3ZBSGlvSFlyVmM3X1gtSUdrb3psNDQ1WmdoeXNVblVFRkZ3ZzQ1Mk9aNUJmU0FpZDRHcU5iZGZFWGd0Vy05QUNkLUU0ZVJyV2lnVE1wN18tbW5PcEpxR1F2eEppTXlVQmRRc2lKNTdDOGt4QdIBxwFBVV95cUxPeGlsdmJqYm83cDNjVnBZbHE2eHR3Q2lXenN6ZFphYlZoYkk0LTYtU1RpLUl0NE5IblRjbFhPLUI1Mjl1MHozcEhVOV84eXowR0Q4OGI1TXByTG02bVN0X0lqTmQxRFFJdXVnTUZ3RFN5eTNkd1hlbjZHUDBCajJLQnFCOWFjdDRkeDJDS3pvbzhyZXlvVE8zbWo5R1lVS1l5Vjh0Zk9td0xPUFdBYzRuOFByanI4Um0ybk9NX0JNTjZlSWppVUlV?oc=5",
+   "published_utc": "2024-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Government Teams Up with Google to Launch AI Labs in Chennai, Fostering AI Innovation",
+   "source_name": "Gizbot",
+   "source_domain": "https://www.gizbot.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWJwRWwzQ28yTHljbDFHVlFBQXdKbm4xcUxXNkZWdTlrUFBPdmRjWEREd3J3WGZ4TEdGbUZuS1Uyd281Q2lhOVN0Mi0wSC13NkhkNUduNW5vV1dGRHNnTjFnVDd4T2ZrRkxJNlJtWlNYeTBNZ0R3U2xUZ1JJRTNtQV9mU2YwbzNoZ0VadXNEc0psWnh5VUtvMF85S2VXQVczUnVtVGtNX2xKaHFrTVM3b2RRMjBHLXBvTW1YTXBLSUJWclhUamExRHlRaWVVb1dqVEdlWEQ5aEc?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

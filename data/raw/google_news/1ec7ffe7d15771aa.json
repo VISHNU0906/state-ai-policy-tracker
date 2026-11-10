@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-10-01 before:2024-11-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh IT Minister Lokesh meets NVIDIA CEO Jensen Huang at AI summit in Mumbai",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQejNnM2pJOEVVRjJTNzBMbmdsMDJFLXdFdWVsN0xCV1JwS09BWXI5d0MtcW1sbjd1a0VEb1V4N2dCU2pnOXpQX0gwWHhjc1R6TzNEaWcyQVlJbFBUb1E4RXlDVUwtNGVudXZLOGV6N3pycHpDeVNSU29NcGJCdmxLYmZ3T01uVC1fR282YlU3eXR3eEFFdUtyZUFlLUhmODBFdlJpcC1rSlNLUWxpOTZIdFFwTzRNRlI5ZEN3RHJ4MlhPQUJtWlZnS2tqZVhsdnlQakhlWGlUV3pyVjIxS0ptMVJMdk15NXMydTdreC1zdnY2QdIB-AFBVV95cUxQb3ByT2szQmtpc184cEJGNE5aajd1UklxaXFwNWFyNVdMeGZkdTRrZlJZbVZfYm13c05SQ2x5T1c4cm9nUlJEb3FCZnZKbmlLZXVsakVKaFRORTlhQjBOcDRtNFZmSFJiU2NYZkNyTm84Zy1UdW5fbkN6TnVtNzNXNlBqMldSSE1JenJYRnVzTXV0amsxem1CZTNVRFU5WXhieGJjc1dkdTYxa0RXZzA5aVRmZWFhT1BpZzFPOGhkbVg5S1Zlc0F1RTVtOEl0MFVLRGdCNnZLM19OajJJRTVqZURiWEtITGxhMnRZVlFuRUJsSDJDUG1JSg?oc=5",
+   "published_utc": "2024-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nara Lokesh discusses Amaravathi AI University plan with Nvidia's Jenson Huang",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPamtHZGZHRnlCYjBhdl95TnBZWTdOVHJsLUg1c2RQYmxQMkNyN2JYd0ZhV3BNWGtGczBhdDJCbW1WaXVxN2JlNlE3YURyV1c0cTE4RUdTZXV1Ums0OVR3d3QyNEFiV0kyaUdrMmJORDBUeXd3U1lmenVIdDZGRGcxaUtlbC12Ylc4WlExaGFfbjFqRldydXFUQWtOWk91UkVJblZfVjZkSEYxU1hCcXlLLVBvVDIzbnZGbUNQaEE0Y2JJMDJ2NlBYeDZqU01aUkdJUzBsRnNvWU5zekhJRlpyN1c2NGwycmRScC1MX1AxUnUzZTTSAfgBQVVfeXFMTzlUWWNuQi1wazE1UmJ4VzRKeGIwLTJUQ2pMdTMtbFVDUlp0QkRHb1VmMFdnWWJQY3FoUU90ZFphenRwZmhSRUNVcmhNOXdneWt1S1RhSVZxNFAyYklmS29IMUpZN3htcnliM0ZPUXdsUG5rVjFTTGN6NkljY255REFyUnFndkZGRDAydnA0SUdKOS1rblA2d3d1MnRkUWdVQ3B5ZGdMaTJQZXgtVUNGYmIzX2pXUUhRMm5KekxDRDRqeXU5cVVMcnZWMk05a1VrNDNpS1BVcWZZcUlGa0t6eEpvMlQwOGlTSkUzSEZfdEh1LWc5eDlJZ2s?oc=5",
+   "published_utc": "2024-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP emerging as hub for startups, manufacturing; soon to have AI University, data centers",
+   "source_name": "ET Manufacturing",
+   "source_domain": "https://manufacturing.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSVJRVDRQcFl4a3pONmRlQndOLVdKVC1KNGF0eVdUYUlHQWlZaDFGQWwwMERUZlJrcGhHOEd6ZVV6eDBXRmdTZ3pvcmNnaTJaZEFHVFJ2dWN1SFJLWUZxNE5EVXFxM2xfLWo1NVhqTm5YcDVNUkFmdVJjMTY1WFFHQlRPVERYZTRaVE16dWFISFh4cHJ5UGJsZTR3REQ0YkVPXy02Y1RyZ1Q3TkxaQVBCcUlDWW9od0xWUDBjTVhzUV9tQjR4WEd5MnZYMmpyZWJaU1V2SHh0WDg5RU1RTlhpZHJrQnpoVjV2QlF5ZDl2SkVZQdIB9wFBVV95cUxObmFZNVg2dDVGd25EQmN3U3lUQXZIZU9EdklNd2hSM3hIS2s4ZjZDSElHMnZ2azV1azFuLV92RUZfcEQ1X2szT3l3MVZ6bkd5cVFYZWJ2ZHMtbjIzVHhJTWZRZWNWa3l5WW9Kc1Uwa0lwWWg5NDdiSXo2RFhXcklVSlNmOGZNb3FBYTM0by1KNG9NNGtLWUI4SEtmWUM3M2xFdlRqOEFIT0YxSDljWGpWXzlkVlVwTms3SVZKOVBCcXR1Q3ZCRnFKRzY0QVl6QTBSX2t3STFlaFNiUGJaRXZwM0s0WmlTSzdoYzBDYUxBeVZsNFRsZWVv?oc=5",
+   "published_utc": "2024-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Plan to integrate AI with CCTV surveillance for public safety in Andhra Pradesh",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVzlhS2hPTzZBbzdMbkpTZUcxRnpRT2xGT3VPZDJIR0FzSUt3dXo3SVYwQm00WWVpajNCbWozaDRRdGxlQzFnaTFyV0NmUU1PTWc2aG5CZG4tR1JxTnZVenlZRVQzX1NVNnlockYwRXRSbUlocldhdEJrYnhqMjZJSU5FTGlFeUd2bmZaZExSRWI4NEc0T0hGaFFIT3cwb2t4NUlSemNhWWo2Z3RyRkdFZWJEZWNWQWNmSS1mbm9IUVBGVDctRUdkeXlkd1BRSmE4ZEZneW4tNERNa2s0S29B0gHsAUFVX3lxTE1tdGNhUkxxTHJPVGtfTEU5OVdBUlZ1UWY1MFBNU2lwdUZ1RU80NTdYUjI2a1BtaDc3Vy1nNGFyMWpOMEwyVW1xeGM3a0xwcFdoZjdCN0Znc1dfUUZHYnZlTUtMY2dXdnY3Yk5aR1QtZXhiTnBGSkM3Rm9sa093M2FPYXdwUDc2bTI3ZW5iNEtsUGl6QTB2R3o2VDFidWRnOUxLUmpxWFRVWGdZSWI0eDhOUnFqUDR6U1F6TTZoQ1oxMEFNWUNJMWZIc2NWNnBIZ1NVNGxoV2NFMS10WGZKMmZjS0thckhhSEdxcjRB?oc=5",
+   "published_utc": "2024-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI to Be Used for Building Amaravati: Minister Narayana",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORlQ1M0owSWlsRU1vTGlvWTBvY3NpdEJiQVhjOTQ3dFVocWV4dm1kLXc3dGIxQ0IxaC1LT3Q0Mi14Mi1wOVpkeGNxN3BnWm0xSFd5NVdhQW4wVER3U1pRWHU2Y3hDWEFFMWNfNXBnZUhGRnlrMjlydzQ3Q092NmpwODlIWjRCN25LcE04eDNNdWFsXzZVQlRkSThZRFFQWmN3cjRINHVJckJpQ2hqTWc5bUN2bU5aVlBDNEtYeHI2ek1EeHfSAcgBQVVfeXFMUEhtb2ZVTUtjOVlaUXZwZ0Fnc1V2R2VfbmYxOGNSRWxjRnhOWWlyY0h2Znp6N25IaWlWRV93VTFXTnVqZnZEZTR3S2FYaXZRMklkU25ZeVZDQ1NmNFhVZ2tSbFB6X1JFSkRNUmtfaW1PTk81aHhCR3huS3VzTk1pbGZDdFluTkxleDgtOHlxa0Z6QnY4Qm1uYmlIVEZibklYZ0ZjUURmbWFYVXVad0o1VE15QXZqU0JIaTBJNjFya1AxTFZkNVRKaEo?oc=5",
+   "published_utc": "2024-10-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Cabinet meet on October 10",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjUzc3A3N0F1cDgwMDdNb0pRUG82ZUFONWpkUU1nRFdic0FUWTNLZGM1UTlmc2pveE9MX19WMm9PQUZsb2dfWHhRZlZ0QU1mUVA4ai12YW51MnM2YnJNMWZTcGVDRncybVZDcHdCNWpjT0lVMGNmZ1Y4ekdKRUs5UTRXSkl2SVlTTVlkSkRRd2czNnBtOGlYVU4yMjREM1MwX3fSAacBQVVfeXFMUEF5VVhDRHMzYlJ4c0FJWTdqd2Y3Vmt2ZGF1VlFMMDgzbE93T1ZIVWluZy1Va3VWVnlJT0J4RkRNOV9sUlFtNGY4UFB6S2xDRk4xNTUzZko2MG5BZGwyemU1VXQxa0g1RmhENFNYNFpqTkVpTE5nM3pOSXZmXzNRMUl2ZVpFMF9FbnRlaGowS210eG9VRGpCQU5Pb1VhZGtzYm5RSEhRTVk?oc=5",
+   "published_utc": "2024-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh creates a flutter with EoI for construction, operation and maintenance of ports",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQalBRSW9MY05TcnlONW1sdFFTNjgzS2tqNVpPQlE2Q3lkNTVzaHhGaVU3TjJoNlFUVUIxYUMtdXE1N3kybnhOVHd5UENBUzhRTGhPcUVXbG5XWTllUzhNTVhFNTVQbmh5bTBpNDRnWVh2OUNkaHlGZzlXaVg5cHM2Z1cyVzBuZ0N4dGQyVWZhMk55LXB0WmxZVTFVUGhRRUk2VmN6SkdERWx2aHJlcE5oRnRwY1k2X05JZk9ZX1pXakJyOUR1U3RkX0wzUTl6MVUyYUYxUkw0aWdXZ2dueWtzRnFXUGN1U0JMQTF4cHFrZnZYX19oT3JnaNIB_gFBVV95cUxQOXBEUXlzRC1jWGJEOF9aYkNWTFdrRFRsYnVlaHVJRVFkZ2ltU1hsb29Oa3BGcFFvMXFQU014c0J4em5fV2lFX1NaQ3dCZVlUMXB2Rkx4X1dWa1NaV2djZ0FmamdGZDVQaTJGTnBqeXBzTE0tbVpYQ0tjbWRQSlZtZGJsUnNmRGU1T25nME5aeHdVMXNwWUlSZXFWYXl2eHRZM2h3dDJWbTBOcjl4cUpwMXNVVVd2Q3Jvc3h5bWFmZDBQendpanFmdnI5TEF6aUVYNVBtUEdoX1hiQ045VWxRdlNvOXZDNDA5Z3NQYTNWdHZCR3RUYk1feWpVejBUQQ?oc=5",
+   "published_utc": "2024-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Govt announces Dussehra holidays for schools",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3Z6MXQ3X2c0dTFHN2lHTEhXV3g2Wl9sMlJrMnhYdi1obENqUVJjQlotdDh3R0VfdFRyMExNWU1OYmV3cEttSWJud3VhYUozZ2ZkQ0RKUng1Y3pHdEVfX2FjVzNUYWxtT3dNS2Fldlg0VFpmUDktR0dEdTZsNlpPdHNEYTRGQjhvcjJ5YTJrc2VfTFFVaUFQSGp0U013N0FyelltV3ZPN3pLbTVORlRNSkdmcXN5cUpMekZ1RlVqX3NESWFvRGxKdU530gHPAUFVX3lxTE9idF9Id2NId2lTN0RZaDd1MWRFdGFYbVJlTzNReUNKYWZKd05xNFFMQjAtdmcyLV9TSEh3SzZzMmtrcDBoc0NPdm5DLV84YjdpVkNCZnVRZmFINDdhcDh1LUtmOHRTQ1ZJcVhTVGp4ZkdNNHU3QWl1ak52WnlGMU9zZlZ5eWtZUXp3Zlpwd2F6Y1BhWFlGZDdPVDRiTWNLMmFjcTdqckpKT1dXTE1fUTZHazdFbmJLbmJ5Q05SMjZTR2xZRW1HbnJpR0tENnFRUQ?oc=5",
+   "published_utc": "2024-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Govt Appoints Ministers for District In-Charge Roles",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEpLc2NrdlI2NWUxMENVR3FVMHpwWjBKckMwT21kRGZmSHVhZnhYYkhrNDFJbnlQUEJ5Z0E1T2JmTFpJd2ZpVGVJLWNKUnZpSVlNXzREZ0Fmb1ViR1NQNmhyQkQ5ZVZmaWNqWWw5WUxkUGNxaGdGUDZTSVpJYUdQTHQ2enZZaFNocnM1ZW92SndWTUFVYThsZC1od3p2cWZvT1FJeEZMV2E1dXBycy04N3ZrdDhCekU1NXgxZHpNVkZUS2t0NGxUQ3VB0gHPAUFVX3lxTE1TVUx0eXBZRUZfZEZERjNTbXVuWEJIVUJHdWZnUFpOa2xaVzZ6TzBKOGJ2N0hrU2xSZTRfQWIxZElkRUVPSjlWeVZIaXlIV2hHb0ctSDAxSEw5aUZRQlE1aGdhaVZhWW1fY09jcGYyTl9IbG9RNTZCUDlOU3R4X2s4b0tkSHZvNVZ2QkVNaW9idWw0YnFkdUlYWlE2NnhXYWxQOHdRdlozYUR5b09RRjlScVlwa2hLVDgwUXFGWDRpNm1kV1ZZc2tkMDlOZnJmTQ?oc=5",
+   "published_utc": "2024-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Govt. Notifies New Liquor Policy, Allows Private Retailers",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmh1RGJiNFpaeFp0eDFQZmV0elk2RXFSZ1ZfOGdoRGx3QmJDYjRFWm4tckR5NWhEWC1VbGYxbWxyQU54WVZsRHViSjFkUnZjaTM5RFhrbjRFMFJRMjBDNUpvdEdUT0tWVTBlelRWbm0wYjkzSE1Pc1p0cnVsbWMwOGhOaFlMc1ZZbVVxUEZqbm9DTVp4b2NUNU1ROWZVNW92M0xLeTk5QlZ0MWxrdVhkLWdDMEJFN043dVlBaGZHWHRkS0o2UjNjTlc2YVVJc28xTGI1ODN30gHbAUFVX3lxTE9sbVlfdkhUQkFYU3dPQkVBeWh0cDE3NTBYR05EdFlJQlJpbjBYa0VKcEYyYVhZMERYNEJaTGZOOEFFYXNtM3pwVWloZlhCWmRvaVNPdGxoaU9nRXlmN3hMSGQyNnRGbjdSQldiTE9mUnBGQWpkRFZSSlJhaTF4RnZPeW1BZE93djU5SVBfajItWFMxX0hqa3R3T2hoLVJPQ2w3WkgxMVJPMGhmbjdaWGhNVUZUTUdud2FSMWdaMU9TQjFOd012ek5uSlZCbVVlVkVDWW5ZdnV5dzVQdw?oc=5",
+   "published_utc": "2024-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

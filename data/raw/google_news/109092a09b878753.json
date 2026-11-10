@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Initiative By RINL towards Promotion of Innovation & Startup Activities.",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CaFlQYU5SUVViZllIY3V2d25kU1NmalJncWdQemQyVzh5MDNVT1JHQmhDU1ZUdUlncUx0M21XOFRBVlhaRUpKSWVMRjh3akN2OUQ1OXJGSEgyLVZuT1pYSWxlZ284Zi0yTGpfbVEyeDk?oc=5",
+   "published_utc": "2022-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Makes Rs 600 Crore Net Profit Selling New Bar Licenses",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRE5jaFBYNnUyRmo3UXRsNzZENV84YlJvUHNRZGpzamwyQzhLOUhWQU5qdG5ieWhKTlk5Z1BVbDZrRVF3ZHdlWVRHWm93V0Q3ZUZUYlR6b3QyQ29kSnJGQ1hGNGVBbVhUajRaOXdFbm9hUzV1ZWZLbVZIenR0VjZsWUc2Z1NMZzhwX29JWmRJYjhtRU5TMTAySVN5YkdWSjV6Vkw4aVZ2bC1JQkcwQ2c?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP formulates rules under new bar policy",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajMzcGdXMFZaY215RWtOUnFkYVZ3dG1aVzkxQmkzLWZpbWZrZVdZY1QzcVd3SUwyTFg2dmpBeFhsR1dtSlNhbUNwZUJJM0dVSDZCN1RCVU5LNW12TkhvOVhCbjlBYUk3ZndsSGxoSW1udHBkcWtwdEoyYXUxdlB3d0VlLUlmbGJPZjZNNmNhUmJoN242eGNqVklQNGNQQ3NaQjJ6dnltZF9iU2fSAbABQVVfeXFMT1dUbENzZmYtTEladTcwMzE5YkQyM1V6Zk1oTkFmQ3F6eWdzVXk4cVdVVHhlR0UwMkl2cTExNUl2NmFWeXdRTUtBNjRUNnR3dks2RnBGd01Hem9RU3NSV0E1SnlXWEZ3WE5pbmFmbDR1RXJaN1VxMXhVdFBQM0NuNmMzcDZ1dXc4N2tuQ1E4eDBFcDVLTnl5aGxpNWpSVC1zZXBBVEpRWnVoLThHdFpHbVU?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Three crest gates of Srisailam Dam in Nandyal opened amid heavy rains",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNUl4ZE5iUUQzZWlxMXlSb3VDMmRoOTR4Mk5VclBJRkxxLVdYUUF1QWZocEZacXluUlRVamEzc0JHZEExdnZzV2xsanpJblU2RFFoTjMtdWlHY28tUl9nMEtESzhuSHVhX0NhaE01ZElkX1dkWURFWEVqSmtqdmVEczZfRTJ1RzBRanh1RzRNa2pEVWpOYUZiYll4UU9yTUF6VFdzV2N4cHV2dnBUTXFzQ0NZd25pb1BMdnNQQUdUYXFqczVGY0lrVVl3Wm9vY1gtbm5qd2dNaFVsckJDZWM00gHkAUFVX3lxTE1IOFo1SndmLS1uUjhNRjcxbktDR0U3T0prbG41NGIycHktbk9nbVR3LWJXZENiRWxZa2NNdTFOUnluTmotbmVFYUljZ3Z6M0hkQjhJQXVxX3ZtOXR3VDU5cFU0bjhJXzVyUlhQTFFjQ3hPWExLc3dTVjlDNzByRGFiU204SENUYmtiSUpvbk9UcGR4TWNKdjEzTk5IS2pOOHJ2MEZPVGJPdGYtVHZpNDlkNU5jRnI2VDlKV3NjbTQ4Y19CRjJ3eTZaN1kyUzFDaHRoOWxqSGQ5VWdkSks3NUtQOFlkcQ?oc=5",
+   "published_utc": "2022-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh aims for quality education",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVVJa3JuTTVrYUc1SHplYktEdmcydWlFcV9lbzJMaTF6WXF6bzNMRmZxZWZjYmRqQzlKUW00MzhUNm5MOGxJcEZZUjRpM204ekJSX3VydkZCWTI4T1Vxa3B6ZmtoV0R3eE5XaGtPcmdPS1pnamt0Wnl3VEpUeUFaQUdYOXNFMVBqUngyVEdmVW5SZlpkbUNWbDlLTFNtMzJKclFRc196M0J6Y0oxb3dINzZR0gG3AUFVX3lxTFA4anBKbnEzUmpocC1vZEsxdEpRUV9RMXg2WEh5OEhWLVV2MlBPc295NFBrLW8yRjlkWVJqYlV5RWxGSk0wd29XMlM3UjRWcndmYkV4RUU2T2lzM3lTVUc3N1RYNXNCbThxWEstSlF4b3ZUalh6UmJPV2hDRTdpTHkzcmpmYlVRclJxcWtEMUpMMmNpWHRKRlBvWENzdHh1a2JqNWVHdVBfVk9nU19VUmQwUEdILXhFNA?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh will have 4 more ports and 9 fishing harbours soon: CM",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbmxIZzNkOHNITlNzaWJuVTVzN3dLbF9YODZlRzd4alg3SklmcE45c1lQWEx1WWxwR0Jsa194VTF1RTlKYXl0dDJ3RVRGRS1udVl0TDFGdDJncC1QcWtELVpuWVUxYmh1SG9ZamthaVdNSGFiWE5saWZlRHBZa0FjQnd3RWdKRGdPMFdUUzdDOFdJc0Q5QXpiSUdBSnpaUEJDN18xc0dMaWpXX01RSUFXU0lwdjl4MnFhVDl5NHpxUTV1b2ZSOGNlb1dVTUxRbnhz0gHWAUFVX3lxTE5kTlA2cjByWWpQd216NjJSSk9sczBCSVZyREJQQ3FLY1p0SXBXUnY4X2t2b3FINmZfU251TFp0QkxvZGd4LWhCS3VuQ01wX2RZS2lKQ1FENUcwZGFRRUh6S3VQYkFhY0Q1Vlhzb2g2U3kzR09QZm9VTVp3SmQyVnVUaGVXZGxYblRPUHRIcTBrWHU5OFJrTmlHQmhONmY4bGh3c1h2cTczSnk2LVVkMy1KNGhnZmpZcDlzMDZSNUJZSTYwbnNmdlZxRGpTVnFyMkNvdkZzY0E?oc=5",
+   "published_utc": "2022-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Godavari flood remains steady in Andhra Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDhXVnlVRVJYV2NvMFMzaDRIbXBJSmh3b3phNTQtV0FQeVRiTEZZTWNpa3lfdlh3OWdrUVFBbGpTX0hmRmQ2NmNOZXgzSThJUkdlV0hSVXZBOTVyUW1URDJXNENyR0RmRW5MUlJUaHFqS2VnWmY1MmYtOWV6RktKZXVEcXg2SU1LcXc0andYdHBhZ2V4d3NUUkk1S3U2MjBESU9sNzZuSnJVRmJYeUoxWm1aZjTSAboBQVVfeXFMT1pNZ0JUbC1GRi1rc0pFa3h5Nl9uSjRYb0dudW9xb2NtRlk5YndPc1ZQTWE2b1EyWl9mOXNtU1IxczRKRjM1YXhRMnF0MlBJWlVpNzRpclFYMEdOd3Z6M1d3VWlUcUttZmRXU3FMaUdubkdHVDhIQjYtWVJZcXFpMjN0aG9UREUyWll6ek9MR2tvMktGWndQNlo5SjBfdzVLRmwyWU54SDRaZVBUUnE1UkRwNmRKd1VweVdB?oc=5",
+   "published_utc": "2022-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh starts developmental works in capital Amaravati",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkx1R3ZYa3hOczd0UGNXYjc4aHlNZnZKYml5RXFBMWVGMXQ3cEppaTE5Tzd5QlkzUl9sNmFiVGZiMEVYQ0R5TTZiTnRjUlRKMDJNX0prOTU5SThLZVQ5TXRsbWZlMWYycVk4aHZFenZmUmN6c2VheV95TUVSTGlkUzVrS0dNNmZYZFNUMWtxY0FwWGd5X3RVM1RwWmdmSkNDSzJRNkRQdzdmaVA5UW9r0gG0AUFVX3lxTE5HMDA2a0JIbXN4QXltakFVN2tPZk5YazY1bDV6MXBEMWJ3Q0U1R2JjcFMyamNHMm1mMS10ZUR5LWloUWdvbHdiUGs1bkZOTUZ0czFWMjItOE9RbUlGZEswV1RfS3ZoN0poTEZhMGlQRmY2R292T3p4OGpfYW5jR3RYVURCQVBXcjE3OXdfMFFjeDI2dXJRYWhxR2RSN1J1RWFYOGxpU09KeFJjaFpiNm42QWJnRA?oc=5",
+   "published_utc": "2022-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP to hoist 1.62 crore national flags under Har Ghar Tiranga programme: CM Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcW9oWWJHS0hIZjV6T2dGemI2ZjA1UFFpQy01ZzFwaDVyX2hTSWU4V01nNlZjNVNSYl9EM0ptWmE4ZWhVaGo5V0lTbjdpTkZlcVZod0tpS21yTnNlUjYwQzE2emdDemdCNXlKRTJ4N3E4bER0NmdaNF9rY1JmQ0Q2NFFha0hwdVBjd2RZaXNQUURwVW5OS1dPUVU1WDlDOHZOdHJYNEZ1MVRBV3BXNml1UlViaHZiZ1N5bngzVGFSVC1ORE1xaE5rbdIBzgFBVV95cUxPTEZ2b3JZVGRfVi1SWTJnNmdTcGdULWl5NlVGMldtRVViLXRCSTNCNG9NUnRKNEZvbEowRXBTLXJqOTQwYjZfNVZCakxGQnBvemhWOGlxNnBDeDNCNjJWa1FWalE1Z2prNEZ3bzNUbkJzQTE0dmhOQW5UZzVfV0F4YkI0V2ZoN3JqUWU2OGVSVmJQS2lRQnlDZkxORms0c1VSakRzOXc3SnkwSzVGMVBGZnBFaVdrbm5MMUlDNTM2NDVYRW0xc2ZzbnltbHNTdw?oc=5",
+   "published_utc": "2022-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Jagan takes up special category status with PM Modi",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW9HbG1SNkxyTW5nNlNacXRXdlRWRUVMUmloT2tRdHl2UjZ5LVZ2SURicGR5SXNER0JiQzFXZHNIZ2dad0llMGZ0UUUwS1gtaHF0cWNldE1td2V1NFhKRjJxQjFOU1NKczRFNXQ1WFB3NFc2aksta1NVdXZUXzZROUV0T1VydkVMenVqUkVwR0laNXJJTjFQZU9TbEFHUEFQSUUxeWhUZ0hNQjdoVmg5UUU4OHBCVXdlT0o4VmlR0gHDAUFVX3lxTE5PVTJpLUktb285QzZJYVhFLURlTjlDSzRIVVNZUGY3ZU5BcFdHSTZTb0tzRUVxT19qTW83V096aTl2d1hiOWpoal8yVzMwZ0ZXbmFYdmtpQnZNMTBaRFBQVkt5NEhlSDRrRGJoZF9RNElFWFBqZXl2eFpDR1g3eWttTFhkclFUSkR6ckJXNGJ1ZEVmWDJxcDRpbERiZVlqUkU4RWpPUnZUSmxDaXF0Yy1RTjRvNUM0dHpzcm5rVzJoazdxOA?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

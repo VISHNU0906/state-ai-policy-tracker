@@ -1,0 +1,61 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "CM Jagan helps Andhra Pradesh win big at Davos",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEZKWTJKTzd0SWM5R01qYVVFS2pCckhDTHdST1NoQ2N0TVhGVTIxNF9KSXhLdThmNDJPa0xPMUNCZjAzT19rTmJnSEExQTBwaF9WWFRBVF8yNDhpT3dMVDdaY3RSUUxpQTRxUFZTQTZTVHRKZjVSaDhUOUI5b3FSRVdkOG01aUFVSkdRbUJaLWRpMnNiUG9JeVJYNm5CU01Ocy12VzJfcEtuUdIBrwFBVV95cUxOeWYtTzczaU9xOVJGeW41QjFuSzRLSmNSRXpRVlBfWnlfYzZXaHB5ZEU0enkzZjZaOXRYVXZybXJfMXlIRXVDVFhOY3I2YlJWVHptNWpqUkZuNmNiajdNcEFXY3NiUEI1UVZIM2pYcU8zNkxuTWd1c0N4dTJ4MFFXZXRBTWdiaDVYQ3FGLTMySTJEdU9uZUhNRVlTcnJXWkVsNlBxUHZTX1daeG1WU3Nv?oc=5",
+   "published_utc": "2022-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to make Visakhapatnam a startup hub, CM Jagan tells business leaders in Davos",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOODF1V0ZYSGVidk5ZeFJPWE1PUk1RVVVNMkNvUFAwSEF6dUo4WWFJYjNNeDRRc1dYU2tJRlRrVC16LXZtdFdGQXBHcG5hS0xxMFRnS0pRWTE1dEpZZHNrcUNncm1aWUJJMGtXbDBRcG84cklNVEM3czFCdnZlVlI5RFFXa1hCM3JSNnFlcGphWTZYTU95U3RpUTVVSmRiek5CU0tKWjJWbTMwS1FLRFMtWXJpUHdJTjRCOEE4dmpQaW9TN1Z2V240MzRFVGpjazFXTXMtY0k0aXRuaFc5VlFVUEYwTmJsLUNoS19KeTlYTmFaUVJMSWt3UWpJbnlpZ9IBggJBVV95cUxPTjhPQlZhMVBOZnM1SV9TQUZwNnpCV0QzQ1ctWk5ORHV5OTlhSFR5TnRsOV9mNGtEbHFWOG44MmpZb3B4VS0tVlJhVjFtdEdnNF9rWUFIaDJyeGd6c05ETnQtcGZhWU54WU10amZVTlB3XzJPdjQ2d1laZ19sWkFrUFFrWjRqUXNxZHhDMVNhNHZtck5LOTdkd1lyd0hWZV8yZ0h0SndrUnNOaW9MV2pSUG1NbzlndGM2NVMzVFBnV1JReTBNakJfQjR2UVREbGdBSm5oU296b1lyVTBVR2YwbkJsV043ZjRZcGdsWjJRQ1BMbGNZTzkwSEpDZDJpSlNkNVE?oc=5",
+   "published_utc": "2022-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM flags off 175 mobile veterinary clinics in Tadepalli",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdl9HSXA0Q2dBdDFuZi1xbU1senhaVjFUSmFieWRTNUp6ZlUzUE5vb1JQV29JX0dRYlJodVlxa3BQYmtUOUJ5alo5SXNZMVBuVTJXR0duVDA5YzE4bWNGSDZ5cThjZkdGb3FkcXNaU281S0s2VGk2X2ExTHFtYVBNYXJnRGVLR3BqWF92V0hLZUlMX19FMjdOcFhiNnlmZWxsdEpOaUF0Y3BDWll0UHhZbTBxWUNpb2k5TlhVadIBwgFBVV95cUxPci1Dcnd2NXhySy1TMElLeGltZTAwcVk4OXVBSzVWZ1lpWXBqak5OOUVCUUNhdDNMa2ZtcENYa3h4MmE3SGN1cml2Mmt4SlI1Nl94ekdZSzBucnhISTBkamVGVVNvbG5adlRJWl8wdFZVbjFKellmWVJXZzU1ak5UazFGV05STzl3RnpOWDJNVGt3V0xPYlhxWklsYUdzR05oOGZJbnU1aFJ5c3FVRFBxV2c4Z1c3UjdMZDZOODNRc2Uydw?oc=5",
+   "published_utc": "2022-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ArcelorMittal Nippon Steel to invest Rs 1,000 cr in Andhra plant",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNkR5R2J5NFdmMHNXOXNGM2I2OXhmYnJlWloxVlFkamZvUHJiQlBzQ3VVempJbEh4RTJ3MUVjcThYLXNuN085T1R4Nk0tZi1DMV85UEhhanc3ZWE0aDFZcGM4dE5meFdUV3otME9SaU9VVFZFSmx0VmlwLXN1blZHZFMzSS1iQzE0NktZMUxyTnplYmFXRmZhU3lxazhwbW4wVVBPVl8zNHVZUG1DeXQ5TEZ1SjJORjB5TDNJNDNneVhIQlR2NjMtMGo2c2UzUdIB0wFBVV95cUxQOG9EMjByYUtKU0tyOXVVcFlqcThsUGp2Q051dzFhdU5IUGJ5cmd6dzN3d0FEU1hZZ1YxMFdnNTdPYmJ5c2ZjZXVSWWQzTFVlTjlTS19WZUt4eVlUMGVsM2RtOTd3TEhDUmMzX0Z0RTIyeF9hRWItMjU5VnI0RTlYMWRybjJRMnhwOU45YWtQZ3pERWp0aEktMEtxb2p4cXU5cW5vZVM1UnFrSTNJRG9wbTVYaElpLWhkdWV3NnYzUW51LXpzWjBJMkRJczJaWmFoRUJ3?oc=5",
+   "published_utc": "2022-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: ArcelorMittal Nippon Steel To Expand Vizag Pellet Plant Production Capacity With An Investment Of Rs 1,000 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlZkOXlVNmNOUnAzY3ZQS0txSmRtQkZsUG9aaXdEWmptM21heHBLODUzeFlJRXV4a1l4SVNydHJVaUlPMURHSE1GbkVoSDB3TG9NdG1ZYmExblV5dmxTSXhnM3A2R0tyS0YteHAzc2MyRVdLNFV5aFJRZmVKcmNndElwV3dIdy05ajQyeEx5dEVrZDhDWGlTQVBrWjR6Z2Q4ODZFdW9xNVFuaTN5eWpzRjFqVC1IVF80WU5yQVdLd0JTUFBvVURaakVJUlhWYzVtTkpsMUpaVzhzbWNHbXFHRG9DcFBYOHMtRTJpSWFCZFnSAYACQVVfeXFMTm5vVGJkTHoyaVlZQlhYVmNZN0FpbW5wdi1ybFVOXzFvZ1NraVJpbElqa1VrbzZ4TTBXTHdrMGs2ZEV6NVEydHlXS0JkdG5CVGRQRTBaSG9Dcnk3UjAwQmV6UGxkVENXVzV2bHVVYW80aFRLWUxabFZwbW1NRWlZOWhSeWJ3OHRBc0QyYnczWmxxRG1FM3RDQ1FWejZQLTdydzc5U0lsU1FHLTBUa2FSQ3Fzckl0Vm85b3BMUDh5Qkk0b2VocHlXZm50akMxNmFfOVRjWGdPUFFHbEdoY2NndWcyZVZiYkVtUmZ6VTloVEg2cVB2T1otTnBwa28ydkV2aQ?oc=5",
+   "published_utc": "2022-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Red sandalwood logs worth over Rs 1 crore seized in Andhra Pradesh's Chittoor; 15 arrested",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY2s5QXBvcHBhNWl1ZE9hZzFBa0N3N0NmMW1URVRwYmVSTDE2S0dBbHRnQjFsMDR2SDhtd29fY2FGNDhnclJZSmY1Y1k1eWx1alh6a3M3Rl9rSkZqd01vUnFQQmZXYXhqcVc3SlZpZjlRUjlvRFFFQXJRZTJaWmN5ZTBjeUIxVWFCWlpleWdfb19HZ0xyN2g5UHdydk5BNngwcjVVVGtTbE9yd1ZoemhKaGpUTFh0bnItaF9oTnlJb1JCejRrNWthN0ppdDMwcE5UbjBZSNIB2gFBVV95cUxNeVpZb0g4cUVoU1JGZ3hIYW5mUEZ2OFZaTTFCMGZxUUxjT0NvbDZpYWRqWi04ZDhpY0xQQmpPX0tOUVZZQkM5aURLTGxLWWFaamtzTHNCOGxhMDA4M3ZUb3JOS0NrOHNyWlJ1M1M3bFRDcUFYRllwTHc4YUNDZl94dHdpZ1N3U1RCenVpX1pKcGFoS2RVUDFCc3pSN2VrcHhmOG8zYjhiWm42dnNoaWFNTWV4bFlFQ0YzdlJGSkNjbFZmUUtvbzQzeXJZLXhVeU9uUUlGSGkwWDhXdw?oc=5",
+   "published_utc": "2022-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Chittoor police seizes red sandalwood logs worth Rs 3 crore, seven smugglers held",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcXRwTkp2dGRUR3ZwY0pqb3Roclc4bXNvb3lDZEZrRXZuUTY3WllHMXVGdlU5UzUtSV96aVFISDdFMmQwSWJjYkFZbU55N2xEOWpNOTVpcmxKVWxESXBEanExZnF4RkZfcHBKTEV0VDA0MzhlZzRFa0pHd092R2N3ZENraFJ6VlhlYWx0OXFnMEFldjRwa3RyZEU0cEZFVEc1Ti1Oa09KYjJmalRDbGkwd2xWMWFmRllNUUdBR0JOVTR6Vm81em1zT3BYSV9JQThoYnIxLUpsNUrSAd4BQVVfeXFMT1E3bHRzVkZnbkdyZDVqcmp4MjRobHY3X3RldHdBLW5JOUhud2xOd0FUUXpXVG5OaXRCdkJWOHgzb3JqaS1CQ25QYkhFUTE0dGZVcnB3cVBJUEw5X1l6VWljNEVIR1lYOEtxbWx2bUF4YXptRGUtTkhTLW8wY0NZR0N6WTEySFU4MVBvcVVWak10LUEzOXFmT2RILTJCaTJQQkxaVHktYnFHVllvdG1qT25SRjJNeUVWM2ZZTHNXaXZpVWVUMWUwdFlYdjEwUlJPUzZ5WVlRdmNHSUZnWDdB?oc=5",
+   "published_utc": "2022-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

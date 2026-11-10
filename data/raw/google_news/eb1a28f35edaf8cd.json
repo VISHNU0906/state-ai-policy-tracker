@@ -1,0 +1,77 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Cops Use Artificial Intelligence To Find Girl Missing Since 2011",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdXpFTmQtZktYZFhseGJGRVY4VktXUVJESzFLeDVHTG4zb2lJMnN0Y3Fkd0F0ZEdqWDAzeTRzbG1EU3BpYkowZnFuOFRCZVhQaGR6QWJPUlpMcmJCZlNkTEVqRWVycGtNSWRtaWN1X2pwMHhscF9oSWlROWc3MjM2TkR0TXNCR3lEU0pmOENZeGlBSGvSAZsBQVVfeXFMT1p3T0UxNHVWQUVOc2ZMcnBZd0NCaERvRUo0anRTQVRIVmxhUFMyanNtdnBTX2QwLU0xQlpTR3g0OHB1RF9WbURlREI2NmdvaDU3NXhSOUE4VE1NdzFoeU1oaWpISTI3cGl4Y0Vaa0dkQTVFamhzVnQ3WkRlMDF6Ukloa2ZsV1RybDdRVjQ1cGFvWlB4MXBVTXpQMDQ?oc=5",
+   "published_utc": "2024-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: These elephants are dying on rail tracks - can AI save them?",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EMEI2OWVyYkh0c0JraFpIbHBLUFpNZ0xWNXF0T3ZWOHRKdktoOFpmREZMTndNUnZWWnhfdlZRYS10MXVoR2hHZnNPRllOVjVXZzBvR2gwWTRqTmhMQmNB?oc=5",
+   "published_utc": "2024-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: AI-Generated Photo of Missing Girl Rekindles Parents' Hopes after 13 Years of Search",
+   "source_name": "ETV Bharat",
+   "source_domain": "https://www.etvbharat.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaTV5NUZsTEFnek1HbHJkX0NveENWUGotODJkS0o0MXNGUTQ0SlVfVkdENDQ1WEVVbGg1aEJPNmFxQ1pVMks0RVg1LUlndXJ4Z1BOZEpIMDBSSFBTcGxiSWFfZ0VRMndfXy1Mdm05SWRzcFZ1YUtCZ0Q0NkFCQmtYNWdqSTN5d2hDQk1FdnR3d2JwbEl0UGdodE9uNFM1SUtTWm9HTHZjeUlMM3ptdUx4QUhNSWVIYmVEaHVGU2lnTkthYll0bDR4V0FoSThjTjJVdmNJUllnVUNZMDDSAeABQVVfeXFMUGx4Wmc1SmtqVG1TdTRMbkp0ZVd2LW9tWTYwRm1tT09tMFhGWVhmSlZ5OE4zaTZMNWc0VVhJM0dpYVZ3eUJhaEF6Rkpab3ZPVHA1VXgyb3JXbjFjTm1RXzg2MnBxcnhCcEJ6Z2dPRnBBd2d1Sm9BMmRnazVQM2Y0NU5qejRCTzJTWktRMTFRWjc5TXJlOGUyNFlkZDhaWFJUZlpJN0xNcXZPUWZmN1dvSkUwNG1aVXlsUHozTXcxTXZ5d0IzZEZqSlhqcEcwYXVZQWEyUC1YVEs4TzF5WFkySEo?oc=5",
+   "published_utc": "2024-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Another academic year here but will TN government revive free laptop scheme, ask students",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRWQ0T1Y2d0hrOHUwVVFVVDBYai1Va2pXZnJXQVNtMXFsZzFiUGxnOWdXUkFYampTdGFMdEVCVGxORXJkVTRBWmdKdEZndkhBM2h3SmtIUi1kYW1VcVN2NVl3MFlnZmxGMmFhMV9DMktnR0FKZjB3M0NUMVZYVk1iV2hIQTJHYlNnR1J6SEpuM1RnNVVEVVpHUDFxa21xaXBpRDdfRzZNeUhXU3N2QmNUVm5uYkZhX0x5d0RwdTFib0hEV21fdHBSdUVKbkhGODMtYzVIOWl1WGZtQUpLcHZZUFZtSS1HQdIB8wFBVV95cUxQX3Mwc0hZYkZZeHgwNEFLMzg0RlF6SVpnVkRBejNHZG9iREVJazBTN2VaNnc4Z0xLbmxMblIzTmVkQVNHYUFLRER5bHJ0UUpIYVZ1SHZYcldSaGJlZmFBX01HMkZCMzRBZGR3VGRINXI1cU9idlhBV1phLVpIUHp3c1RiazFNb1pLSzVkX3RtTkR0Q3Ftd2JtZFVjSjVOUGJNaWpDWkFNdHM2SmFrTUM5bkdvRmZuMXRKVTFQUGZiQ09iSFIzeFRFekRDTFRUSXlHR3hId0d1RnpSdFU3WWtibTBCU0NZcWdyY3Q3RnlGekZkODA?oc=5",
+   "published_utc": "2024-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DD Kisan to launch two AI anchors AI Krish and AI Bhoomi on 26th May 2024",
+   "source_name": "Indian Startup News",
+   "source_domain": "https://indianstartupnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMU5zSlpqR3NWN3hXOUFNMGdlMVBVT2REWm9Kam1PMjI5MVlGYTNlUXlVaTk0ek42OVhXclVzR2RTbkFrcjN4YW9PSHVpLXZybk0za3R1cmgwMmstUHh4WE9HdGhRZEdweFFVMDY1bE5iM3RSWTAySlhsVEJLOUphS1Z0Wl9OTzRDX3Q3N21qazBaYTExaUNnUV9SNjlvTS02UTZFMlN0V3dCMDJYUVFMN25wbWRLSEXSAbcBQVVfeXFMTjFOc0paakdzVjd4VzlBTTBnZTFQVU9kRFpvSmptTzIyOTFZRmEzZVF5VWk5NHpONjlYV3JVc0dkU25Ba3IzeGFvT0h1aS12cm5NM2t0dXJoMDJrLVB4eFhPR3RoUWRHcHhRVTA2NWxOYjN0UlkwMkpYbFRCSzlKYUtWdFpfTk80Q190NzdtamswWmExMWlDZ1FfUjY5b00tNlE2RTJTdFd3QjAyWFFRTDducG1kS0hF?oc=5",
+   "published_utc": "2024-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "#FactCheck - Misleading Video Allegedly Depicting Trampling of Indian Tri-colour in Kerala or Tamil Nadu Circulates on Social Media",
+   "source_name": "CyberPeace Foundation",
+   "source_domain": "https://www.cyberpeace.org",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbUpLVWVjaG1ZMDdOVUxWeHVQY3JlUjRKTkY0Wkd6SkdWMXhVUHlXTmI4M25IU056QUthazQ2UDA2ZnI3MkIzaHp3am5ueHFuU0ZhY3lSNGlULVhuRW5WV0hxRFozT1hOeWE4WFFISUtxX3lRcVM4M1A2UUdXX3JHalYzVDU3NXpDdlI2SEdfQUo3MFlsTFhreWFYSHM3Z29QaHYzVmIxTnZqUnZlQ21DV3d6bUxWMnhwcXVIQWhVbXRVZmJmaTVMdU91YlZfaHdnS01pQ1pzSTdIblVaR1dEWG90bm8wMWRFSnNnQjJkMi1OX3l0aUtmTDdYMXJtR0Zoa1lB?oc=5",
+   "published_utc": "2024-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI and deepfakes blur reality in India elections",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42NWhSQXhpVmY4TFJLQ3dqNjN2R3JTOTBMUEpTNHFqV0g2T05BOEQ2MV9DLTR2Q3plNUVucnI4OXB4dWt6WHB5bGstRVRBNkhiSEFTNkpmRld5eFVnM2ZR?oc=5",
+   "published_utc": "2024-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Manachanallur government school for girls shines in Class 10 boards with 15 centums",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMnlsNEg2SjV1bWpESk9RNi1obkhXS3dWcC1VQ0x4Y0c0MXliT3h3MW50eEpsZzFGakczQ0xQZ2FWNmVFTkNwNGs0eVZ2dC1JQ1hlM1dueXpnalh5em5najJTcXJCMDJNZ0NaaVdjQWxVM3U4LU1oUUE2M09KOTNLYVJOVGJudHBtWTc1MUxUOGFHRjB1Ymo2UXFRN1BZYVc4ZXdGcHk0YWJYZDZwVjNWeGxfbnRsMG44R1pKdFZDMEg2MGhuVGcyMVQzcURPYW8yQS1VXzZjX3luWHVraFpnMFBuOFNXN0YzLTY3WU1n0gH7AUFVX3lxTE5yYmhEZm4tUEFYWU5vWGl5cUlnREZIOHZtWEVRZFZtR2pVOUlYcEpIRkVSdXNmeTdSekg2SG44RjIxRXY4SUloeFYwR1RaYXM3NUptSndfN2MxMTFHU25YZ015eTc3VUkySnRzM1ZxOVNobmcwSS12S09LR09aT2hocDVyZXpWMHdkYXpWTUx2X25kcFMxSGR0SjRTeFB3Z1YyR3NGZVZiNHhlVjhuMi1PNGRsMVJKa2RnaHV4RlA0VjFfcEdJMHMzMjZtenF2UjFQcC1kY3BtZzk3NUtBNW1OdHhWY29IMjI2M3dLME8tTjFkTVZWekktVXZz?oc=5",
+   "published_utc": "2024-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Nilgiris lab produces 61K sex-sorted semen doses",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmRRWWdtT0ctRnh4WW1GMFB1WFBWOTV0cjRRTE4yb2lhYVVLQ01ndks3eU9kVzhjeURHSVRnT2dIalV0OHkzaFFaQkdBLXZ2ZUpXWFkzd2tkckRUVXVxNFRzS3dQME9ueUY3Wmo4RDQ3anVwTFJTcmZqYmhueW1SejB3VjE2RW9TaVZtT1RmRklpSFRMeFJyR0FTYjRhMG9PdEMwVzBxVW4zOG0taWIwX3Q5NGxnbFRwS05JQUIxc9IBzAFBVV95cUxQVFdNdzhtazhydG81Qk5YQ3JVUWZYaWtHdWpRb3dyOElDN01KYU5sbGUxYlJKV1pHbFhyc1hpeVZfVXdObXRra2NXY1Q3Q0xkUkhBVkRfYTRZMzNIdjk1OEwwOUxmTlVjeUhrbnJ5QjE2cnV1VUJ4T0Foc0E1UzA3Nm82U0dvSEJUNUtpLThZazJNSHFVSDFKX0xLUjcxSFp4eWxMZV9ybE5oTzdJZE9ZSE80QWpXMHFLb3Y5b05CTGViRmxqTDVsMTh2MHA?oc=5",
+   "published_utc": "2024-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "query": "\"Bihar\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "No Hike In Electricity Tariff In Bihar, Rs 13,114 Crore Subsidy Announced",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXhfOHdQTWRuVjVWdkh1UWotYnRVYUxSV2ZRWEFtdzJmN0k3anoxUUhVNkpvZElLZ2gwTkhUTV9TSjZJc0hzMzM2QlM3QzBrVzRybmRsSnlGZ24wckVSZk5pSmNKTjJlSDkwVVpNTjEyaEJNaUFsSjVjX2JoSWd5Y0JtYWppS2t6N0ljN2VaUWJFTWJtMnRkcnMySVduMmRMSUxLM0N2X1RpWHExaUFzYURB0gG6AUFVX3lxTFBwMlJEZ2REZDBnS1hRMG9YaXBlMGJReUh1dXFGWS1GemlnU1lCUkhieVhLMnNnVzlhLXpBLVF2OHZiUnh3ZHdDRlFlelVDc2dvVDlaMlV6a0M3MlphZUtnVTVISjNSbTljQzI1aDQ1T1V3YjcxV3B1Sk5IbWlDQzFkUEdiOEUzSEZaVzIxdHptQWlTSjFKTXYyX0NrSGF0WUE3VXBGYW90Rkh6M3I2NG50UnFGRkowNVZMQQ?oc=5",
+   "published_utc": "2023-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Survey of 'topo' land is on in Bihar: Revenue and Land Reforms minister",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BuZC1mQXJuOVBFdW9iV0pETVV6ajRVR3pBeFJYZVNpVkF3Wi1KbTN2VXk1eVY2akZnaHFYRjJlWXJaS2k1a0RnTU5yNC16MVZ6c0NHeDRwVFJoaEtkVk5GS29jZVZrbGQ1dXltMzRJSkJHVURlS0lrQktIN0s2WXk4ZWI3WWpHYjJfUV8tS1lyWkVqTE9la3lsa211NkVDdVZoMUxqNVVFTFlQaGJSX3VVZWZLb0dYUlVZUDd3ZXBJQnJhblIxM2pXWXPSAdIBQVVfeXFMUEN3a253WTRYWUJHcXFKeDFOSjkxc1RzTVpJOVRlTEMzcnNPdnM5OC1jNmk3VnpiVVlqZmZxZ0pxVTBJaUg2NFlyREowZWF3X2NtUVlRN1lhYlpnRzN5b0JRT0NkdkVLLWtZWEltNDN6OFkyeV9qdlFkd0V4Q1E4dkhpMWY1WnBQZEtJQXIxaEZGNklVeTVSY2N0WVRzcEI3anpOclBsV0dVMExBOHZKdFgwd1NfeVlXaHRKVGpxRzNQaTBXVmtZTGM5LW1FU2o0UVB3?oc=5",
+   "published_utc": "2023-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar Deputy CM Tejashwi Yadav, wife welcome baby daughter",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEJOeGZtYjl4bDAtWVZ3NFRjS1FmajZvd1JJWGI0ZjRWR2hVTEtVVVZQSEcyNEk0MEUxanNoRkNucWZjS3AxYkZFNWJwbHRSZnEtejNmckN0Q2tjRlhuZmhfd0hBTXlHeU4zRDJZV015Nkl2d0lzcjdUekRubE5yYkFCQTdtZ0RKcHdLOWlZMXZQd9IBmAFBVV95cUxOV0FXd003SnFXTjZVSGpUV2VjOXdSVkxwTENHaGZVc1JPU29TTEM2QTlUak5xem9pZEpNd0VZc3NFdndJOUZBeWNJelVQNGk3a0taSUtDa1ljNGdIM0RMZnViYnJNS1VWcHdncEMyd2U3Q1JuOGdKNDhvYkZQT1JzYmcxWUFRbmF3UnBGdDctTUxsdkN6RHllSQ?oc=5",
+   "published_utc": "2023-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'Rumours are completely false': Trichy DSP on migrant workers from Bihar being attacked in Tamil Nadu",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVBOdmJMQkVodlhLdWNSOWxVNUF2ODVFUkd2ejU0eDJjU1VCOXRjMGMyLTVacVVrb1JEX3RWbGhJMzZrNDhjdXptaVhhb20tZjh5SzFhMjYxTnRkQVN6eVZ5U2pzOEJ6anhQblhHMTZGSThyOG1VcHFaYTZOVFZOMlZPMXk1THpLT04zTDkzbDREd2szdnB3cV80ZXpkb2luVnV5N205X0JoRlg1dDlhdVdUQmYya3FGUnZLWm1pLVlsU2RVN1RKQjhGMjVNaFFweHpZd1FLUE1uaWVHZUxsemtaTm1YTDRWREVWb2pWd2ZuUdIB9wFBVV95cUxOOVJkaW5xcTh1Wm55WVBzeEkwOWdSSDA2Zmh5Tm5Vc2dQYXJSUmJpalRsQXQwQUg5S2owalFRZ05uUkNvX2FISUlZd2JhU3M3YjVtamRsUnFIbFNIR1Z1QlhDX2E5M2wxWjJtM1lsWXgtS1dHU0pYWTBCRDNvU3JKLWpfMTBzUmFMQ0lkeXNrMjNSUW9SZFJHckhFYy1uekI3QktHNUgxUW1CY0diRXItMTN5RXdyWmxHVjFoa0x4Z01WZmZ0al9NcGViOVFhZWYxZ20zMlFhU3dWNE90WEtncFFzeXMzQ2QtRnZnTTlFWjA2T2w0WE9V?oc=5",
+   "published_utc": "2023-03-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

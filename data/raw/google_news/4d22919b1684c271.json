@@ -1,0 +1,13 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-07-01 before:2024-08-01",
+ "items": [
+  {
+   "title": "IAS Ajitabh Sharma revamps policies to change industrial face of Rajasthan",
+   "source_name": "The BuckStopper",
+   "source_domain": "https://www.thebuckstopper.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdENOak1lN3BXeFpwbGgwblJubjFRQjVJazlXOGItR2N1bzVzZGdTeTBXOFBMZWh0VElnSldrWU1kd3FfSEExNC1vMjViTkNHS04zVWhoeDVfaEkydDltWWxUNHpENFlfSzdBY25Kd25keTRxbFdhdVJFcWNhejQxLXdieFk5djNjR0JuZEN2WFM2WGtEZ01Zbjhjcmc0ekczcU1rZF9uVWVQdw?oc=5",
+   "published_utc": "2024-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

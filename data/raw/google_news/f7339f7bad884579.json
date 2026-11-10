@@ -1,0 +1,77 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "Eight farmers from A.P. bag Kisan Pragati awards for innovative farm practices",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNGdzT21ZVWI4NXBGSEN0Q3dQY05ZOEFCbGdZajdULUp6TVFBQzJPcXRVRDJsS0Y0RjI4RjJuQVpHd2o1NE82YU0zc0NZVkFNU3kzQk91QzNpcU11dVhwdENvRWcxM0QwWGhINWtTUUQ3QVlaRllsVEY1WXZ6VmM3anBSaUdLUnltZ1VpYTdZYXI2Z1VzTlNZVVFQODNZalI5WG1sVS1vQ0pLbHN0SV90X1NaZFF1aUJPUkVUYnRRUC1NaFQwYkptTDIxWEFEU2hMTWF1Zjc2NktPcjFZcUZYV2lsLVHSAesBQVVfeXFMUFRNOFRGbmFaaGpRbmxxR09UUHNLRzVVX29oVlp1SjIwZXdnZ2JyejZOcHVYdVlwdHVuT3EwYjVfQWFtVzF1d0RFX2lQTVpGdEJqR2JXSUV5bUpuLUhKNmU2bmNJLVlhNTdiTlF5ZTh2WGNzdGlWWFQwa090SkxUZElIRVV6ZGRPcnJuZVJ0N3RBS0g2d1ctS1psWHZGWVhDT0ZBZVh6WjRYUzBScHdBQkF0aFlqQmR2NjFHMWlaUUdLNU1ZMC1GTWJkTHI2b25pMzd6THNVczF3ellfbmo3U1B3Y05mb1RUWWVsYw?oc=5",
+   "published_utc": "2022-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Medical directorâ€™s choice in Andhra Pradesh kicks up row",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDhGa3loc3Fjb3FMY3ZVSUdwYzZnM3RCU0Nyc2xRVXg5MHhNQXlqNk9PdmpubHREcmNBNEI4TDlUZDU5Y2ZPQ1h1bnFQLVMyV0NkNTlER2d0MTZ1SkdITjdBdkhYR2gyTVUxQ2czQjlheG9PblVNOFNuOXhhRzdPaUNlZlNtWHdQNG42N0lpa1ljRzJJdk1CZ3BDb0lnWmMxZ2E3TXhiNVhZaDBUbFl5NFFiZGNwTmU0LUh0btIBwgFBVV95cUxNSS1RaE5oX2hOalNDd2ZrcU5HeDFmMmg0aWVfV05DVzRpWFRjTTdXS2tsME93RFpFejZPS2NLYkx0VVRmSVQ1ZUNZWnFWV0JFRGFjb1hWVE4tU2FzOGNjU1BVM3JLZmkwWkptb2hJRWFFZTFZamx0T1ltREM0UVU2S0hQemtuRDN4UDZfM3dscUI5WFNtSHFmSU1VdjkxSldndUlBVUJqUFgzUVExMWtmM1RKWE5kTHBCRThsdlJPXzF5UQ?oc=5",
+   "published_utc": "2022-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 Children Killed After New Hospital Catches Fire In Andhra Pradesh: Cops",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3pHeGdvc2hFNFhCYUhTT2g3UU54WmpOU0ZDeGdfbFQ3bG05Q1BSMjJHQVVLZUFaaWFIVDBkUUgyNjFMVTRRbEFncWltUW5fSU9raVNfdFhHd1F2VER4a0NwWW5kVjlDd3R6LXRaTWxTcEltLUc4YzQ1NzFzazdiX0pJRnJSVUFxNm1kbVR3NklabEZMbUxzMGZuWUpJYUJfY29XQ3dZTGppWmFPbFZfOHg3U25LM0NoN2w0YkpmMjFLZFBPNFBvcENEYmJKVzNlbE1Uby1nMGJVT3VaeHh0aVN4S0ZCcXc?oc=5",
+   "published_utc": "2022-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-Hyderabad student’s suicide note found, student blames institute for stress",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTJsRTA3b0ViRHo0T18tV2dtbkZIckZPZENMek9MWUoycmZ3N1VTMXBzbDBTUUxnck9UQUpCdlJFWF8yQ0U5dUFLczRmYmxCX1JFSnRfNThGaHdIbTljQVVmLWlTTzRPQ0M1LWFYS2NvYVJNQ3hWWGcxM21RdUVUZmRXZ3V1dl9aZFJQMXpsZXcxZ21LTFpQZzVRZ3M5blFGWFRVQ1VzTQ?oc=5",
+   "published_utc": "2022-09-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Face recognition app has stabilised attendance system in schools, says official",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLUU1LXJkTVNNdzBodjZEWndsYkhEaDZkTUU2SWl2MlhQTlVQMFFnekVicXltaW42SWJlVVlwYmR1RmpBYU5RMTVZaDhNQUdla0RWdDFvbUlkYmxBOVg2cXc1ZUxHSHF0Q0Z4aHBtVHZ6TVA1N3RYMkVTRDJ2U0IwdVVtTVVlU2pjWHBQdXR1U0lTbEJyMExVcE40azJESm1mYWNqb1pKdVctNEtuRGc2LXdMME1zd3lleHBaWjI0TE5PX1JqX29pNGxUVE1wa1JBNWp3MzE3LXZCRmJ5OENSakhVRy1sR1F3d3gyVnRUMTNpd1ZRMnU0cVFQRdIBggJBVV95cUxQbHVlTFVzczFUYWs1VWpJMjZfbElrMjdGOGt5a1ktbGd0cGpSS3ZpVy1EdlBKWlZtbFN5aFZMMUhVdVdmdTNEWVFQOU1Ob1FEbGV4N2NaT3lvUW5yY29JbWYxOEJHY2hNTTBzT1FuYkhyVXlPY2ZLNWRhZlhpd3hKRkhGZkk4MGsxU3BneWt5NU11TzNOVG5WWDJLLVBlcjRmc05iTEZVVGJZcDdwTFRweVc3MUxnS3VzQUZzVExDUV82WDN4cjR3ejcyeHpoZWFZSjdLSGdPUk5tU0ttNXJXTnNTd2gybUtLMF9QdUFPVk0zLVZHaWJJSUZFQmdCUDZIbVE?oc=5",
+   "published_utc": "2022-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government issues orders creating 692 new MEO posts",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXZMQ1VzRFJMWTVPVG9iTnB6dVIxelM0cTVnVS1FN3MxNENVZ2V5LWNjamlfX1ZYU1JLQUhWZVRXaGFuUmZPcGY4Q01DTV9mNXhMVTlmeFoyUmdCel82WlZoVlpIeTRxSG40ZFp4NE52VHcyTWVwdlhpT1c4RS1pNTRuSGFZdVd4WFo4ZHhxS2gxT05waFhGX2xXSmZJUXpFRDhDN0luaDZydnBXR05pMVB1Y9IBuAFBVV95cUxQN19PcW5rU1FVYVdlemR5cy1KS0dibWVyZWRZODIxSUhrU3JTR3pyOVkxajFVNkJZTl8zR3VFSHlfLWxuUXlIWmxUOEs0YzBEWERsa3pRTGNMNWhvMmxIRHNzRmJwemR3MkJZQ1dmc3lPYVc4TWxPNlB6S0tZQ0ZCMF9YY2pHZTVZOHZSNDFqWEdIeVlWd2I2VzVyZ3JOWFl0M291OXRFb0ZnZWxIZ3l4dUJ6SmFUUEZO?oc=5",
+   "published_utc": "2022-09-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Class 8 Students, Teachers In Government Schools To Get Tablet PCs",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX083Y0lTMFZ6OGhvcFlLRnlCM19pN1NXRGo5WmdEaFB0SjBGMjlqX3UzYTZxWGUzZnQ0U2xHSWdXZFBnc1ZsNmhDZnFvaVlmdUk3WTBKcXdiQndlRnZGaHBMNDZHZzNYUnhJV2hGOGphT252YkdzWkhja1dPbTAwbFFUUWJqYVQ2b3d5VDJkWlRkRVNQWUkzSmYyOUJSWDRJVnZSaDhPNV8wS1BqbEthcGZIYXhOWWM?oc=5",
+   "published_utc": "2022-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "180 teachers get state best teacher award in AP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcV84MEl1dDhsSWRpaFdyOTgtUW1MalFzc0ZHUzN3NE5vMXEzZk10YVEzbDE4RnpaMjk2eEVqMkE0ZlgwZktENXZid1NqbmQ5ZFdaMkFvVUlCNVJFa3lDTzJOaWpoU18yYzZCTUJtQUQzOTJyc19zVkwzbjBDUDFFdXFPVHlRcHJEeTZnMW1vbGh0cjkzanMxc2hUQlBNclFQb05ReGlSZUZ5N3pLZ2QzOFdn0gG3AUFVX3lxTFBscFdGNnRNNUl2OW0wdnBMbmxtQ0FyT2U1bkFsN0FlTExsaldfNTY2NmR2Uk9MN2tWUE8zRUxPbU56ejNaeHE5cWJsaDQzSXZ4dkNZcE9fdTVMRHVrbng1RWFMdDd6eUpRalVIbTVwVl95VVFGOXFSWW04X1BILTBKLWFlQVJ6dnUtNHB5Y3k2VThLN1laZWdPZGQ2bThoZ3NrU3dRXzdkNkktb0gtS1hsQ2NqU3gtYw?oc=5",
+   "published_utc": "2022-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government to pay YSR Pension Kanuka from today",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkdoWTN2eDA3ejllQndDUHFvU2l2VXMyWmo2VC1NbUFabWR3eGNQemNRRnZSOHIyZGFfYWwyNG1kYnB4SkhzdzJKUktGX2NfbGNGUkQwR0s5SzN3djF6ZDYtZ1NYd2lySW91MzNfMXlMcVdVTVVXSF9teVRhODdJekdOWU93N3ZpQ2U5UUtCc3R3dU5vQi1iZXQ3aXdIN1YxMDVYOGt1cnA5MmhiVVNGa3hhclYtSDAwTkhkTlByMNIBxAFBVV95cUxPdVFOZXRwZ2FqRjl2aHJkYkdUcnZaM1Z5TE1pUW41ZWppVGxXWE9NbTVmbXU3NndsUDVVT3V4SnY0dEw5WmI1TFpQWGJYbnF0WU5SY1JzTHUtUUlwV3pPWGZvUXVTN0J1UzJGTENVZ0s3OWFFOFZtUW5XeXVva3BHMjRNOEpFcjg5clVockdFb0lpY1hFVXJtYW1YdzZ3RkRIVHg1UEM0WUUwelR1ZmR1NmFJbXdNNUxIZGxhQkZjbVA4MWJB?oc=5",
+   "published_utc": "2022-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

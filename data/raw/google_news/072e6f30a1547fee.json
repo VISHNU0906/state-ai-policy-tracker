@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Data centre industry to boost realty demand in Mumbai, Chennai, Delhi: Report",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmVFRXN1MGNwNzV2SlQzLVFYLU0xTlB5VWg5LXptdnNSU0htU1lhallEWmlpWXEtVkFCY3VuV1Z6WVh4U1pIaW13YmZGT1N0M2x2ME1vNHQySDZYeDFhS1R0eF9SOVpnclpVZmlHNEVieVVKbDlMeDlwV3V3OW5abXJwaFdtV0tieE1KdW03ZFhDUTdCWE91TUxXRzhyaVpRazlSb1ZZc0xkdXEtaTlOcmJ1T2oyQjBsR1RrcU1IYlYtdmFtLUI1U3lZdGFGNGFCSlYtQmRhZ1VQenFXRGN6X2k3MDI0SlRpLWfSAeQBQVVfeXFMUGlXUU9uT2dvT1JzN3FJUnBWa2o1eE51SURiVWJuYVh6bVhVZ0xBbWp2NE13QXNjaXBmQWpTU0tuWlBsS3ZXckQzS2FldUFqdEJZdUY3T3REM3VISkM1UGhkeF9YMnpiRHZGTHpzZDlVZktpRXpIRl8tdi1qd1BiQ25ZcUMyUG4xR252SG40Qm81REJwZnYySUFNekhvaDFfR0JmcUZHZGY0dlA3WG5laTdZUEVBZWZYR0NJNHc0MTF4YlhYN1I3VFc1bVdyOC01TVpHaWlCTEk5WkdNYUtENXlGU3lO?oc=5",
+   "published_utc": "2023-04-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala implements AI cameras to catch offenders: Here is how they work [Video]",
+   "source_name": "Cartoq",
+   "source_domain": "https://www.cartoq.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblctN2pjb3VUdUVUZXNKN1laanFwZ3dFenRYanRjdmJsT0RaY1oyWmJORTFPZUJQMWNJcWVUcVFJNGhoODRnTUppNHNnd280b1hnT2diTzc2Q1RtejVZTW56Uk9RM3VNdlktWi1Ob1VnUllaQmQyTWFHcHk0OTdOYmc1aFJva1NwV3lxbTJyOUJkMnVkR3hIS2pYUVZGOUhLbWtPRldkT2JzSEdMNURjTEJxWlRzY0k?oc=5",
+   "published_utc": "2023-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

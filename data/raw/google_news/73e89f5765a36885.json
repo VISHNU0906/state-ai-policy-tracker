@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "Maharashtra: Steady dip seen in performance of govt school students in higher classes",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZzlnaDV4b090SmkxY05LM2stcklIOWw4Sno5cFFNb3dWUUdLRTA3bTltYmVFRW5ILV9laHFTSFVtaUFxQlJDZmtIS3FlZUdYX0V2UTByVWhWbWNTV0liVjM0REp1OElacm1wVlZ5YzhUUENmRy1Gc25JbGJkQlpyS1d6UUo5WGVweHVPQ3kteWd1Ympfc3l2QVlhcWNiSUl1TndablVad0x2cThDdklkalc5WnZRZ085bmZ6RVp5aDJtTGg5ZDkzd2NrbU5YQjZhVHJvQVJ4SjLSAd8BQVVfeXFMTVZYdXBoWnE2X1doUkR0aVAyY25RV3N2bnNyX19vc3hqMU9rZ0FRWkxnc2NnaUdCaVlvOFF1ZlZpdGVmY1VBLVc1eUdEY0xscVVZQ0ozTjI1a1lDMXZ1eS1CS01XR3gwTFRRNG1ST3NrMGY2X050OUE0NktSMWxjY2dqY0JaaXNIWGRabXBRQ05RRUVYb0g3Y2tURWF1TmNsZlJ4WXlhUW9TSmM0NjVIbTc5ekczWWF2RXlUMFVLQk41Z1FyYUpyVWdzcHBocC1IWUw5NlNfa01MamJLN09kUQ?oc=5",
+   "published_utc": "2022-06-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "FMC launches pre-emergent herbicide to support sugarcane farmers in Maharashtra",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVWRyaU9aQzVBbW41VE5Sb1RMdm5ncEUyNkc2eVFyZXFiXzFKNm84RExRYXp6U1d5WGVyQzRxdFE3UzROLW9oTEdnTTFGU1BmYk4tanBpeldHZ3I0MXFCYzBCQlBPZ3F0bVFlR2VlNFpCRUl0bTJ1bnZKY3NxT3h0cUVvWDFDdmh6dmlJLTczdTFvZnFkWVVQV3V3ZHlIRTFfSWJ4OXpOM3pmRUliLVF0d2EyNDNJMjZibkpUWnlZVFBZejVxMXR1RGRTTW9OUXNtZ1VQeHVoUDHSAd8BQVVfeXFMTmNLejhzYXhqZl9vUHdtdTBHZ1B4LU8xbWxtcy16Wmc5WktFS0kwaUZHeGxiZnNUcENhU3hzVUxnSEFMbWV1eE9ZYWJ1T2JsR3kxOTBqZnRady0tbXFabjVQTHk3dTdmdWxETmlhTUw1RlpoSG1YcmxDWDNDQVc0WmQ1RTkwOHFnaWo4Y0JSaTNoY0RySmQ1TUxaWkJucnNpYXo4MVhJZVpUMVg3TGM3Uktkd3pHQ3QyMUstemhBTXpsRVhuWU5OWlVCSEhyMWY0R3lNV2hHdnZaQ01xN0tWdw?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government appoints Vivek Phansalkar as new Mumbai Police Commissioner",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM2FveGMyUXFmTmhrUlJQWExqTkNWek9qYjk0ZnhKM3NlSXhjdU8zUFZpMG9wRTY4NWVmY1ZTMnQtNG02VERtZ3lzakJVWGdxdEZ5bWZRTE9PU3plY0VLdjM0MDRpcnlkbmdFemdOaTNtU1p3bFR6VjVqUGEyWXpyQmVwTXdobUdMeF9wV1M3WjNYYWU0a0p0WW5qT2pRZlRRUkpuQnRjOGZfUzJ1cmdWQXhKWjJ0OGhOcnVxX3FsYkhPT0xLUC14dDF1aEJMR0J1dHZMWHdwNEU1SG9rNlQw0gHkAUFVX3lxTE1zODJmRlFJM1o2VGNubHNNaTlMU3dac0hJMHN2SlU2X0dDUTY0cmJhdnNGdmNPOFhGdlVGNGw0eU1IMkdENjRkR01ramIwbGt3WmpSWWNRWHdJYzhId0RXUmQ0LUlxbzJJb25iX2NmRk9aWFV6WWlTZmI4NHFCcE9HR1hBbTM4LTRZQVEtZUt4UFdjMDJSTkItcjhnb1JSZjk5RzdEMVhXTk9oRXpzcGg4SGp2ZjRvLTFzYzBGZXlwQzRNS2V2amFrZElIb2tIMEh0UV9aMDdYRVdzS3AyZTM0V0YxQQ?oc=5",
+   "published_utc": "2022-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CET weightage to be 50:50 with 12th marks for admissions",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOakNPU3ljNUt2MXV3a0t3SUY3VHVVSXNNSGlieFRRTnJJMDVvNk8xRkFLb1ZGMDFZZF8tLTNxcmExRHppR3BLSzR6VnRWM0xNQWV3RnhPbzFGR0lfemtGSVBvWmNSSHlDdURFWTBKazlPNlQyVHpyWTBHS1F0bW5jY2ktUWFUU0trN0c4UjlJVnJqQ2dxajhCZVg2UVBLY3IxaTJfZks5TElBTm1tN0txQ0E5YmJZVmNzZ0JMOUFlMEw0VUtPYmJSamo0cVM2MDJiazNUSXk5RdIB3AFBVV95cUxQQVBTQ0FOcElXSmFybHZnb0lLSmFjODcwRU9tMEdvelRMc3JFaE5sWGU2RlRqUElBbGdKaVdRQ005MFZtbFhXR2NiMGZhYVhGX213VDRnU2Jid2x4U05QZnhFM2QxRWVYaEV3cjJzUnVzaHY1VVhGUGJRT2ZNZVNjcFY5blU1V2NSYkVaWmN2RVpRZ1NMVWVSQkxsSmlNb2NLRFZWb1dHQmFFazZsMXFoVmRNVmdRWVJxdkxmQXJ3MXZDUkdKR095eVNncWtnSUlaWjBiaDlodjVMTDk5?oc=5",
+   "published_utc": "2022-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "9 Members Of Family Die By Suicide Over Debt: Maharashtra Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQldkdXdQUE1udUpfMkxrb2dTNWszWHd1a183WmFSR1F0Nmt0Y0pydUoxYXBkbHpUOWl5UHlCR3JhcFNnQUVLbjhhZVFnRVVDNV9qVmUyS2ZQSnpTWXQ3cDQ0SlZXNmFQd3BobWRDcG1KWGttMGd3X2Z0QUxyUGwyVDNBMm95Ml9icjRtcTl6ejAzSDIzd1hZTllrUy02LVgtQnJhS2N4RU1iOXB4VmRhdmt6T05UUEpDV240?oc=5",
+   "published_utc": "2022-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra launches drive to bring dropouts back to schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXd2Zm1HYlVUU2x2R0dHcXRiUkdianpiOXhjWnJoYU5iX1FxeEpIa3oyTGE1SDhzWXVXMU5rZUJJeHVucllXdEEwem5PczJLR29zeHZHYTg1YjhpQTIzTEdBQmd2bDlEZkVSZVNYSFV0RkZtMTF0VjM4Vms4TDhSNi1RRUhHaldhTHo1OGNXSzdVWlhrLUdONVhhT1JyamFNeW9qUWs0ZDJRY1QxZEE5MVlpOFdpM2Jl0gG_AUFVX3lxTE0yNy0yRWtMdVN6WU9xR0VSZ1ltWmlHWk5NaHMtMi0wWWNoTERJWmdYOEhDXzdhakw4MndrUGRQZ1k2aW1zcDZ5bXk1Q3Nza3ZOS1RHR2VpYUo3ODdjeklqZExGTmszX3pPM2dWR1luUkZyMGZ2YkE1N1pKUGFiUmdRTGxMUDlCMm1PdXhqeDlwekxqZ1dQd2pWTVJaTy1qYlFFV3JtRXp4Y1RWMHJoYno5Nzl3WjlESHRveTUyMERR?oc=5",
+   "published_utc": "2022-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Placement | MTech student from Heritage Institute of Technology bags Rs 42 lakh offer at Amazon AI",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHpzTWRzUGxmV1NyV1hBenh1V1Y1b1FtTGQ4NDY0ZWh6My02b2J6enp5MnhqTEg0cTlNZkFGTkMwU1ZBUVJaZi16U3dPczRSVF9wLUk5SFRmZE8wUXA4ck5XMmNQR1ltRFVYTF9BU09zeUhyMkxqT1pDZ2dLeFVVZWRFZWQyUy11eEthdTlUenY1NllVUXVjdFZRdlI2X3UyYmFUTndEd09Ob3RBZ3o5ZG1hNTI3QTRnMFZHdWFTVElnUmpfQ1dsX2I2TXFualBiM29Xa1M3OWFOajQ?oc=5",
+   "published_utc": "2022-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Schools return to pre-pandemic curriculum for classes 1-12",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONnRxUUJ2OTNIOVNGVTdyLXRuOG41d1ZQSGxUbDJiM1cxR0tiSFY5M196bFk0dVoxS2dxLXpRNW5VelFCTC04R1FaQUZOV0ZCLU1YODZMbzY2cHhZb0pzV0k0Rk5EczNEZktLdzRZX3gycV83bVJHS2pJeEZ5eXFhUldjTzd2M1NFMG1PWGxOX1lQSElJMHBpOGZfc3BhVWtwMHQ1VXFn0gGsAUFVX3lxTE1BSjNEZHpfS1lucFMtS1R2VnN2VWViSE03bGlPbnJkd1J5THpxdlJQZjRTYlBSVDdQOG9Oam1xRVVvUW9XVnNtcmF0YWtUdktuTnV3bWVVMTVFVnNzNDROV0VvRWx3WG1CdHNCNTV3U3JSSGJoRUVGUGRETWJ6WmkydllrS3FTVEN3U1VQTGRJeEVOS0Y4UGtyenBOSmNlLUg0SE9sYWxWTF9jVkM?oc=5",
+   "published_utc": "2022-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra SSC Result 2022 date, time CONFIRMED |Direct link to check MSBSHSE 10th results",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRWJMWmNhaTBqdXQyb2xhSFpPU21oX2pkTUN0aFhGUWVEVjYxUV9hQW01ZnpNZEJudW5yUzdyN3h3dkxBWFVyTjg0UnNYcW5lSWJ6OUZKcnQ0ejg2X0pKcTRiT3c0bkJqbGJYT2NOYXJ4ak9VWVlCaXF1anozN2dLNEIyLTVFcTBMeXhERWJqLWNnRkRhY2Fqc2pERGl5LVcwMlBEaUJsSUU5OHpaaHJLVV9JU0FuWE9aTE1UZG9OcU9FR1lVZG9MNXh1VVFOOXZ5NkF3UTA3bmI1Yk40NVVJS2ZYLTY1YjZTMzc0Uy16Y0hhSjjSAfgBQVVfeXFMT0lyMEQwdDhvZ0tSdEZaV09pbzdoclVMdlNULTNsUUVrUGEtaUVvN3d5OXBzRTlpZVBiRGhPTjRMekhQdEtTUUlYMVFuWTVkblBkMzVRX25OR0VkelFVV0ZsY2NubktSc1YzSEk3d3VWY1d3T2M0TWZlUm1XREZmUWMxX0o1V1cwYnJuMnNfV0tJbjhWYjc0SDFOcUV4a3lVeUlxeWp1YmZ4cVVZQ3dNTmVleXNUSERMR015R0hadVpBNDc0dTNyQXVTU25XSldZYUUyOXc4YVJTQ3hhV1ZSWS1zTENSLXRjdWg5R1ltZ1NWemszNjdMbi0?oc=5",
+   "published_utc": "2022-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Ministers demand cuts from legislators, alleges independent MLA Ashish Jaiswal",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1pzYmR5LU5hVkNFMzk0cXo4WGhJQkVqUEJxdi05eU1pYXcwTnhwX0x6d2txZXhfdUZnT0tGbklNS253TzhENVdod01nRWdDS19DSnc3MmtTdHBFekR6bXVaMHlGQlVzMXlkWG8tX3hoM05mUTY1SWdpR3duWGItcVdyY3B3N1E5VFItTjBYUk5EM3preWhiMUZXaS1EeDlaRzhkSExyOHB0UFcwbHVhaWtvQU45eDB0bGxGWUY0eEZha3hLQllj0gHMAUFVX3lxTE15Q3RJbkdsRzNiRnRZZmozUno2THJaZlc4THN0Y2lycnY3MVUxc0RtQ2l3M1lKVFZneUlZUEVONlhpbWstV0h6eS1zeEk0OHRoNGwxMXNCZGdFdjVwZVNGTlVQRVVDcXJ5ZHRZczhJcUpOckN2ck1CNjdydU05RllfQm5yN04wSnJudzNobkxmZ05IbWREdmpBc0dRNmZodHBTa3RKR2x3eWV4d3dBWU9IM3dTSjdENzN5TG52SVJQMEJIN3NseDF2X0dHcg?oc=5",
+   "published_utc": "2022-06-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

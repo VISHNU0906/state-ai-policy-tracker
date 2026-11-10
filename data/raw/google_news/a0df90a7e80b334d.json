@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "State of Tamil Nadu vs ganja",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUdJb09BQTZCSjRRdHJSWE9KVFdjTzZMVnA1UEdXbkxSS2tlYi0zaVhiaU1KNHVSWEE1R2F1NVlaLXREUkhSMVg5dXZMRF92b1Bnd0R3bGJvQVVOU2pwYUlZZXIwR05JSjhBdmtaTWFSMHZPYnhOZ3BWN2Fyc0h5MkpUXzZJNnI5OFRHeVNzSjZNRDY3azV5SFQ3OC1ZLVHSAaYBQVVfeXFMT3Q2eFVwcHJ0bDFmRGFpR1RZSGlOakR3bFd0TDg5S0RMbnVTQzBYaHloSEVnSE1OcjBXUHdqMUduQ01GX1J0UXk2dktDOGotd1JmN0JJaXJoLTBucFh5eDkzMHpLYm9haGx5djN2RmhMNFF4SDRpWDNFM3BoRGZiWVVIMkJIeDQ4NDd0YzhXdXhId182aWt6NTVHV1lGblFCV2VKbzhMUQ?oc=5",
+   "published_utc": "2023-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Senior Police Officer Found Dead With Bullet Wound At Home In Tamil Nadu",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjZYTTg5dFpzVXlGS0Y3dFlMZWd2dENndUlIQXR6RzVRck9Yc3lLNkdIdGk0VDJ6LVRSZUdaUDBDc2NRQXFhbTAtYWxwalZCd0N5TFR4Vzl3VGFkZDNaREtJNWszODdPU19tRklxS2xiWXdfQlNHWE5tZ2t4TzhqNlZ6NlB3by1GMVVWX0xZLV9fMXNTWFZRNHpYZ3FzSnoxdTdOUzh5TUVaNmJNdHpMTzBWMkbSAbwBQVVfeXFMUEF0ZGhOUEZ5UmJxTktaLUl5M0thQU1NMGhDa21Sc05DNEE5dk15d2ltQzcxb3ZMLS1GY1FnUEd4MUlNTFY2TEZuU2RYSy1pb1l4VjFBTXNyZlE1Y3BEODBRQW5xR29kZ0lsR2NlWVdlbFJMQUFQcUNxWlEteVQ3RVExWFJXTFNQQUp3WEsyQU01dDFHVUpyUE5KcjB3NTFySmRSc29fb0ZGZkoxckdkY1pPYnJQZFNwUmZUb0U?oc=5",
+   "published_utc": "2023-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "In Tamil Nadu schools, sports is the 12th man",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUk5RW9MQ3VCYW1zeWZsV1VCSUpHNHF6b3ZiMThkRjlsbTdscEQzZW1WTEFERXRBTGFEWDQyUTBfTU51TXgxU2V5QzB6TEV6S2dqbkhhYms2RGZuZGNlR2wySzR6OHFqdmJCS3o1ZHl4eFNoWlRVVks4ZTRwRDFmc1lpcnMtNTJlUUltWlNIS3hDWlVHXzBZcF9kVkF4M1JFQXV0SlpNb3ZUQnhTNzV1dlBocUh2UHJV0gHGAUFVX3lxTE80UHNwTGFpN2N1QVEzbXpJdUhHcExTMGJPRWFDTmloUVNpNDQycllheXM5TXhfdWR0NkhQVjh3aVdnTFNyYWxhenRyWkg1SHM2VE1zVHRMLUVBN1VkVVRNYmVhdE11aUphRlRpeFdUeXRFQVhaZ2IyQUdnZDgybnhfTHVrTGppQlNyeXh6VjM3VVJnVlVfZTdwd0NoaXRqeXdKRmUxejdkY3Z3TTI1cGVnRHBFLWtkejd5YUR1U3lmck94ZW81Zw?oc=5",
+   "published_utc": "2023-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu emerges as India’s top electronics exporter, exports cross $5.37 billion",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeERLQlJDMGZYVHlXSE9uVzkycDFCU1dxOFdGXzlObVFfUk53TnBGc0MxRUZyU2pWOG84dUJ3QjJrc1h6VnBCcXRXbmRnRVBONEFiSkRBOFR6cklWbVVFWVlYWkVfQTE5YmN2Q3NiQnN1UUU1UFFwQVZIQ21xbloycUdMb09nelZ4U09sd0Z2Z1pqV2JJd2RnUkZLTGl0cmJTZ1BqRXU1ejY1WWUwRV9idnVNYzlIOHhDQ1hrZmtJdV96ZzZVS01BcmdZb2haQWNhZEVWZXVIYXpBUVE2Y1JtMUJyN0VEYlREeDJQNUpR0gHyAUFVX3lxTE0tTVpIQWV2bDFoQ3NKcnJGSk9ueVpyYlNKcjVZYWxYQ0ZZd25xSXJkRkUyUnBqRkJWQ1NVYjFtcGNkQXFCV0dkcmowYjQzZXdKWXNKSTllaDBlTEFJREZndnc2cjc1aS1kT3Nqb3RmMWt3dlZtNWFGcjdJOTFMa0JkOWxNUXVYeUllNWhzQkFIN2NYR3BaT1diYzU3OXJxdFFxdGFQdWVKcTF6YnJYZVFneUVwb3ZTemFsSTFlWVdaOC00d3p0a1RyZHFsRHVDWGNzaEFLZzctZ0s5dm5GT3dXb2JSaGpCRHgtdFBWamh3Zk9n?oc=5",
+   "published_utc": "2023-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Senior police official in rank of DIG ends life",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPak5QWUZ5MkxUNVU1UnJiQVF3OEUwcld0WmdMcnV3TE82djNZYk9DTXFGYkJNaFBlQnJIS2xva0J5REFobzNIM0xsdFotNkxMNzVrYkwwRm9QajVkajNmQUxscXJSbEVmOGhHYjNkTF9GSWVxWE1sQ0wtSFJNc2xiOU5remZydWZROERCU2NR?oc=5",
+   "published_utc": "2023-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN CM MK Stalin discharged from Apollo Hospitals after routine check-up",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdndCV3FzOTFEMXJJSllfbTBLRndaRkFkbVNnQ0ZfRXozUnhaN0hycnhKclRudWNBelRmbGlhZEhFVHZ0akZwODJsdHFreDBETmREeHpNakRYYWVYTUlLZXFDOV9HNGVJRWtXSjBIOGlEa3dpRFA4cG9OVVZTUHloUjlINmNWN25oMlRnWGstVTdDSE1IZkdTWHdHWVpuMmNncE82ZWFvZGhYT2Z3RTdwcV9Fc0NqU2pPWWtXS9IBwgFBVV95cUxNak1Gak5nenotdnBBQVNUbTJqaHhaVzhfdFpCTVZjZGYzQ3liX0ZlUkhaR2UzWFZ2R3hReFlBZGwxV3R6WTdTSHJhTHVTd1VUY3ZhWUVVZVBCSksyNTlId2ZVZjhuNXQ4OUNudFRlTWo0c3BLV1RUNmVTb1hYOEdhbXdBVC0yZmczQWZsa0lZblVMSEZ3cUlwM2s3LVBBemtkcmFzVXhyZXZuWUJIOGtoQmZNSksyM0p2cU1WWWFGSnhwdw?oc=5",
+   "published_utc": "2023-07-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Woman Jumps In Front Of Moving Bus Hoping Compensation Would Help Children",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjV5NjJpMm53R19tbHZENjVYQUhyRHQ0N01Hek96Y2czdkNsUVBIZXBEWFhyc2haQmU2WkNiZGg3eS1qbmNnZll1R0NRbnJ5WWx5T1MzbnFoYnZabDhsejBVcmhCOGtmS0xIUzVEVENnUnJ1S19NUEg4SXg1ckpfaUxVQy1fVEZwLWVGc0Q1QVdiMFJGNlZVM3dwQ3lBWlhUWlg2UENHbEpoWXVWM3ZicC1lVHh0WmdEeVJTcUNNT01vT3Z5QW5sUlE4QTdjRlBZ0gHYAUFVX3lxTFBnSU9FcTlfdTFDR3QwWE5udFpCVDhHRWhITGl1d2EzbTl4TEhuR2FmMWlOcnFwSDhFSnNoODJsTjNfUGJ3V3RGam0zdXZSZzR1cll2cmsyWmV5YzgyREJaS2RlS2VFS0FrWHRPdC0xdFAzaEJzMGxZS25BTmJ3cnJmRWdwY2U3TnJ2MmszYlRvdURReEJ3UTluWkhhNUIxOFJ1Q3duZEFpRWpWaWlrbmNyanp3eTZFWHJXNHAwY1VwU0xHNjFOU3VNdkltVk9EUXlTRmNUaEQ5Uw?oc=5",
+   "published_utc": "2023-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Top 10 Incredible Railway Stations In Tamil Nadu",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeG5jWkxCVUcwNEk2d3NYOGY5azI4Y1Y2c3IzSnRIcWNPV0dJa25NYlBSZWE0TWJXc0FLSlB4YkQwUzNnWVlJM0k5N0gwWThXMkVYdnJwa0RWQU1zRWFkYVlrUUZ6TWk3T3poM0o2Z1J6M3ZBX1BGdFBFXzlWNzRKMDBCdTBlZ3RyN1duWEdBR1NsYmJBcXA5ckFZQTNtLVp2cEJ4bWNRRXJsUWR1X1VvNE45NlJGWEFjS2JzMVVMLTFoMVc5Ql84T0hibW1RaDYzcm1POEVqZ1JybV94em9nNThGZ2ZoWHZEc28zdVJDbHFBdUxid2E5UXRfb21FeUhNQ25rT1ZSTF83WC1NM0tRYWdn0gGSAkFVX3lxTFB4bmNaTEJVRzA0STZ3c1g4ZjlrMjhjVjZzcjNKdEhxY09XR0lrbk1iUFJlYTRNYldzQUtKUHhiRDBTM2dZWUkzSTk3SDBZOFcyRVh2cnBrRFZBTXNFYWRhWWtRRnpNaTdPemgzSjZnUnozdkFfUEZ0UEVfOVY3NEowMEJ1MGVndHI3V25YR0FHU2xiYkFxcDlyQVlBM20tWnZwQnhtY1FFcmxRZHVfVW80Tjk2UkZYQWNLYnMxVUwtMWgxVzlCXzhPSGJtbVFoNjNybU84RWpnUnJtX3h6b2c1OEZnZmhYdkRzbzN1UkNscUF1TGJ3YTlRdF9vbUV5SE1DbmtPVlJMXzdYLU0zS1FhZ2c?oc=5",
+   "published_utc": "2023-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu NEET UG Counselling 2023 Provisional Rank List Released, Download PDFs Here",
+   "source_name": "Jagran Josh",
+   "source_domain": "https://www.jagranjosh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWXFIN19GTm51VFc1SXJ0WFdGcWl4VDctTF8ta2hNT0ZxYnNHX3lqQlkzazYwc05ET2I3ZnNkRDZLcktrdnZQc3Z6Y2h4Yi1Nc282RXgyNHNRY0gzUU14cUZMWWpCakRqMGRBM251ejB0VS1SYnY1NnNvYVExUVVGbkVRdnZ4RUY1MVpIWmp5UGFEYWVQdzlFRW0zNktlV3h2aGFzX2pUQmJwX1BxVko3QnJHTU9jVkJTSlp0ZjdqMEhldw?oc=5",
+   "published_utc": "2023-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala's AI camera system impresses Tamil Nadu",
+   "source_name": "Onmanorama",
+   "source_domain": "https://www.onmanorama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDBYWmhHVUZadGVXQlh4Y1gwSGVPT1ZyM003Zkk5UlVHQ0J3YUFhNkVBUmN1LWt1ejczaDFqQndFRWRhcnVrdXpCNWdLZ3phbG42eE5HeFo5d05pc1BZM2JPVGZuWEljUndSWGNnNlFGbDZtNFlmNWpjSXNhM0xFZkczeFVBcHVTRG1yZ0Q0ay1iNzVBUkFHS0dseVcyTUV5Z25vVDktTzRRaUpKbmp5TFFzeVh2TURKc3ByQjQxZktVZzg?oc=5",
+   "published_utc": "2023-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

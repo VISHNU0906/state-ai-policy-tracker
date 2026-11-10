@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Maharashtra forms committee to track inter-caste, inter-faith marriages",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHA2NmFUWnVJRVNjMVR1OHdnQlFGYXF3enZSQ2JINEs3Tnl0NU1YM09sNU92ZDV1c0NlN0ZrSktMNTQyNUNyOE1kSmhQQVplaUVPNEhXWnlKMUV4eXpUdHhnRTNONTFlaVRXTnhWa3NPXy1iMGh0RzJqZVEtTnlJdUJLalh4ei1ZSm8wUFdKSjRvLThKUmtwQVdtc0plSmppOHBuQWR4eXZSTmtaVFNWa0cyVXpGSVdXTXUzU1ZQdFItRmti0gHLAUFVX3lxTE8zQ3BvYldic1A4RGtaYlljMTFsNURqeXhFQXlDUUdNSi1wZXdCQjlDRlh0dl9NSHNiQ2Q5UnJZcFcyVXZkM050NVdZaVZjbi04ZUVYUS0yLUlBZnhtSmxDMWtJZ0FPUU41bFZzcEZsQjhaTzdSenloN1lfd3Q2N0R4STdNSHMyVzItbEpyZ3VOTnVnZjlDR1NFWEZ2VEFESlptM3ZiNDM0U3h4cGItVGVnZDFuRXVQem5wc3Q2S3NDTEhZamVXbWNvWTlz?oc=5",
+   "published_utc": "2022-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Govt to set up technology labs at six locations",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb21aOFBvNllNMG1BMDk5M2RNUllfVF9IdUp6OW9fV25aQTg2Zk1lZG1FZ3JJWFFuMHc4cEZiTFowTzMycUF2ZzBOY1JIbzdBRDNSOG55OHJ0RVhNUUlZMFVhMUp2RXk0c3l6Q09nbXZ1b3BHYVRoWVBVOE9UV3Bra29RVzRVNXNWZTFhQ19ONG53dDlTdGpVTjNscmxRVUpsQzBmbDluMNIBrgFBVV95cUxQQzZBRWhmZ3pTNXZuM0pnMDNrRnBCSENlbldFM19zZk1PLWNMU3Z3VVJVRE9WaU0wT1RXb2JaZU5XRTZISXdwZXpFWTRCTWh5UWJmbjZ4cndmQm1CdlRGRWt3WUtZU3BFeUxpb1Z6aGhUa3hXNG1nTm9FYW92VmlJa3ZXYjk3bzJVM3ZKd1FkUnFhWk0zM2YtbTZaTjktTWN6N0MzX3I4MlZCbnRTTUE?oc=5",
+   "published_utc": "2022-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ink Attack On Maharashtra Minister: Suspension Of 10 Policemen Revoked",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXYtelVrWl9jSGNBRlBkM2w5dUtpQnpjR3NfWkZKSVpxcjR3MUc1b3VqWS1LU29RVjMzQzdCWTF5dTh4TmJ1RF9zX1drUU11Ulc2SnNsTnJ2MG5MX3A0enYtMHZuU0kyemw5aEoyUDRUM2Z6b0o3UXBFcC1jN2RiVGxHTWpwYXZwVTQ3S1VZdWRTcEhTNE1wLXdnUGtwSHM4SWR0QzRrTWZYMFJvbTBhc3pBUjR0ZFZLUTYyM2JDcVRoeV9oNFHSAc4BQVVfeXFMTWRxX1lDU19UVHcyckRZT1pSam9GRDJVTjFZQVExREE5RlIyNzd2MUFxV0I4T2cyRGJ0WWRCVUVmTTB5Z1M4N2NqZ0lHV0ptWnRtaWdXajhaby1OWVMtOEIwTjRkaXkyY2RBb2RUUnNvSmRGczNKRmZLaXRnR08tUDF1RUVnd2tCMTJzYWdIdU1ZTWQ4OHpRNHdjRjItdGNMQVktdzctQXQ1eTdTQmVVSVdNWVdQVjNTclRjNktzQWc2VEFvdmR5bXI2OUpEc0E?oc=5",
+   "published_utc": "2022-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "KCR to launch party units in AP, Maharashtra, Karnataka",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGxtbWVDd3E1YkJzSS14WVBhVHNHNlROaE5mMlliMVdXWlc3LWN2NFVwSUgzUWNzelFsWFZzaENUMGl1ZG5wZXZYNXdKNS1iSzRpbzgyLXpKeGdFNFgzY3VnT3lQaEFlQThhc0tHR0hzbk1yWGp6MzRudUlYa1lMaXZaajcxQlFFY2FkNTFfTkVJSWxyMm9SRDRJLXNwcW5PS3c2Q0dYb0YwODhabE1ZMkxOWdIBuAFBVV95cUxORFJaeE9qQldXWFJFelZ4ZFVaX1RnUGxlclZxeEdBZ21aWWM5WS1SS0lWWkhESkR2RXh3RWRBVEh4cWp2QWZoLUtUSXhMZ1UyMFI0SW1JMmdsTjdwb25EaTdva0FXbk45eC1nQnYyTmxnUTZCaElXaEdBVXVYakZYa2FXV2I1NnVqSmdJbEwtZHFvbXp1UDc2dXltUEJaWUtGZWhnSkZfdFE4aXQ3RmFNYzRlVjdPYWJL?oc=5",
+   "published_utc": "2022-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex Maharashtra home minister Anil Deshmukh walks out of Mumbai jail after bail in money laundering case | Mumbai news",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcENwMmcxMm1LZVlYazlKTnE3UkcxNkMwRGJSSHF3SnFmVFNBbkdJZzNmQThJSWY3aHRJZ3BHN1pUb2dNOFM0YXZXTWd0MHpHZGRMTmR5MTFmWkVUdGs2WlNjT1Vsc2JVSk43UDJzbjg5bWdyNk9jTTF0WGh3LWs5S09PTExlS3Q4UDJRV2duUDRQRkhrUUZnOVFQclEzd1VLd3VDTnItdWdGc3pTUmtxVUF0VGVtRThWdTBVUDZIMDJHMlFwSjhKemtlLXBHRUxyOGItMdIB2gFBVV95cUxNd2phV2dzQmluc3d0Z1FCS0JoRmN6UEZKQm5VRl8tTHZQY3BHMDZEMkhaV0I0NEtlZlZVc2JWbTNOZmFmOVRwZ2hzUjVfSkkzMDNJWkdTVXZXOGJhUG5Wb0lTNWN1TTdubk4wREx4ZDJnN3FIaWJnb2FaMjFVeWw3ZU1faDRIdWxfRUpodGszR1hNcU1ZSFVxU2NRQWVnYlM2ZTZmWWl2MGk0akpiQXBLRzFEUnFEVlZoZTZqU2d1RzN4V2RxRzJVRTZJYmdYLTZsOWhHZUhoME1kZw?oc=5",
+   "published_utc": "2022-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra’s Oppn demands minister Abdul Sattar’s resignation over land regularisation. What’s the controversy?",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblhBWWVNYldEZzRHc1k2cmlZTjFQQWdvWlJVWDkxOG41eGFQVXctcGNKQzdxQVlrYXZqVU0yUzNzVXN1VVUtVHRLTkdDTU15UElScjhZTmR3R2dRSklsZFJXd3ZSZWJESzFRZm81X3BBdnVtcTJHZGhQMk9MT2kydVA0eXFhYy1FZktiNmRQY2pIQjZHc2gybkdXVHp4Q0ZuSmcxanR4bnNsUlh6ck54cmdXdEdoNEdrbkhNa2l0UXVfa0XSAcoBQVVfeXFMTk5QZHVfMTNid2sxbTRTclhxWDhIU2ktcDJyOVQweTVLWXdLQkRRcldwR0RIc3kydjJDMm1ZQl90RnMxdXNVMVJQTU1mNEdmc2k4UFNOWHFhR1dwdkc4QkxZWDYwODNBdVE1WGNyS2ZVdllNNlVFRGxFWUYtemEwVXNuQXZSX2NNNnUyektDS21qNTBEVGtHWFl1VjRYWVZGY3FGLWR4R21xRTFJSGhUUXktYWFIS3M0TGZIcVNWdDdKdTRQb2JsSV82dw?oc=5",
+   "published_utc": "2022-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government seals Hyderabad Nizam-'s property at Mahabaleshwar",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUZIUEFmVUlZT0poSTA1UERWcllBQzZHSThtZ2tPVUh4VjFEeUF3V2VQbFFEcEZiRUR1U0dDMXQtT3RaX1JFeFJQWEUxUjI0TnlMY0dzX0Z6VWZaLWZzU1hBTW1fZ0tWYVBRWEhyTS0yT1ZUUWNNZTBLLXNsU0RkOUZFRTFaZW1nSHMyazQ3NGdjN0h2VE96Q0dFbU1ER1EyY0UyTGR2bFM5MGdQb3VjWWdtbU96M2lrUlFjd19LLTFHR0pycXpGWExTNnE0bG_SAdQBQVVfeXFMUG03TFlfdmhmak5nczk4VVhyLXppbFdtRm9TanhWLWkzRTdXSS1nbG43enAwY1M4dnNvX09XdGw5VVd3bERhZmhsd3p2RmtMbmlKYzI3N2pxY2doem9NTGJRSW1hY0RPcjRtNlllODFXR1FJTENscEVXSVU4Qm4zY0dBXy1lUjBub09KV0pIYTJHOGh4R0NKUllrc2lhQm1HTng5Q0FMY0RNdlVwNWNBUVVsRXRJUkdTRDBDSUlLbU9JaE5XemlfejVNc0pLNE5qZFNHWTU?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ink Thrown At Maharashtra Minister Over Comment On BR Ambedkar",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSENZVXQwaWF2MFVDVkhmb2hwbjdYMHdCb2pzcnNZV3R0M0R3WGdrblY3dER0S2dXa1R3ZXdtV2lvanpRX3lDa1RfWmFZU28xeTd1UGJyb0hFRFAwazZyZkNCRUxfTFgtOU5WbGFQNjFSdFhjT0RsQS11aXpvS1U5cHo5dzA3bjZjbmV4R1R4U2c2NjVZYWt4enNLWWNuWldabHQwdEhTNDNOWU5LUjh2NzNYaDY4c1A2YkdIU9IBxAFBVV95cUxNb3dMbDJVU2FvdERwem1rRTRkVlR2RHpOZjM3ZXdEd29aRTRyWnlpbE9jV2QxaDJLem9sUTQzRlpuRlZCZDdOVmwzOUV6QnA5aXFlZXFEVkpydWhZVlhYSEhDOFk1b2tQSUZjLTgxTUlYOWdlajJkdjBLNzZSSDRRc3laSWtjWTk2ZFY3RHJoZFJxMUU5aF9CSHU2cVYxcC00SnhGRzF5N1AxZG5MQ3lMcm5MUlNmWFlOYmw3Rm5NZzRUc0Q3?oc=5",
+   "published_utc": "2022-12-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Maharashtra home minister Anil Deshmukh walks out of jail: A timeline of the events that led to his release",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkduTVphcFowNjE5N2xxd0tCTjc1ZnlzUy02QjNyVlZOWk5IUEh5eENpUUg5Mzg2ODZXLS1LVkZLMnBnOWZrVTVaZG01WHhUN2FrQkhIekY5NS1USnU2cV9ZUHk0Z29uTS14b09Lcl9IcXg3bUJyeXBxNkZCb0duWDdDWGhTdnBCTVQzWVkyM3RjTjlFeUFVOVhzUWN2V1NybGNOaGQwLTJDOUc0eEM4cTVvallFSDhz0gG_AUFVX3lxTE5lQkN4ZjJFem1kUWZkaE9icS00ZDlRSnFOUVp1bkFpTVl6WmhYLUxjRS1XUTF4V0dSWVlhUWZwWlBKeVQtdGo4ZTg5eWJYcXd5eDM2T3REOEJObmEzUHVudkZXZWZqa3RSTmNxY2kzNk9YVkZBaDNhelpyV0VLRTBka0NyZnR6T2RxS1Q4aXA1Z3UyTEtib1NPdXNIQi1LRWJsZHU0RGV3a1hsQ1ducXpSMWtJcl9oOVJoVUhqTHJv?oc=5",
+   "published_utc": "2022-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra panel tracking intercaste, interfaith marriages: Who is Mangal Prabhat Lodha, the minister heading it?",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZGUtWTl5ZzJBZWZmLW9oNzFDc29wN29veVVldE11c1ZrT1U3TFU5WXpRXzZIWjJ0SEozSFdIQUdBaGNNal9DdFhEZi1CZ0NKQmpfWV92dk8zeWZWdjhjV01mcFZrMUplVFBpMkdsZDJtOGFDWGRQNHNtUFZybFRHR2wxRlZILW54Tlh5U0FRYjcxYlp1Y1ZHemVZU3RTUS00Z2tSSkNyRk9BVE55Qy1zTHdWeTM3SzlsVnpWZlJ6aHBhZEI4a1BURdIBzwFBVV95cUxQQXRpbVluTV9hdjlkakdCcFJWVHFxaDZtOFBHRDVhSW5vZEFwSHlXenF1UGxZdVR4bF9zZ0p6WXp5T1piR01QWGhwMFlaN3gxOXo1ZlROSUNJelplNW0tVE5Ib1k2X3VTaTN2OUVVRE9zRm1IeDdQdTZUZ0tPTkRMUDk3ODRQLVMwRU9zVHZDVVpkWWVnZDBfN0ZnQ2licVNabllReWZBYmdDUjB1bTByanF4ZEhJOFFMdVhkZm85aF9RbVZ6dlRSWTNiSDNmQ0E?oc=5",
+   "published_utc": "2022-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

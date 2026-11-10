@@ -1,0 +1,77 @@
+{
+ "query": "\"Karnataka\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "New Karnataka govt engineering colleges to offer AI, data science courses",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0cyWDhUWmZQNjJJUlhPTXYtSTJVN3FibHQyQmFOa3lOc3MwRXJMOFJSX3RfMnBpWDQtdURnUkdTZThERHBXOVAycS1JQVRyOFZpVkFZNW93MnlKdmFBX1RqR3lSaU5td19TU25yWWVzVElySE9YMFk3LW9CWURsblU3dWZUVXVoNHdQS3BkZVl5dUtvZkFqeEZKdEZDWXN3TDM5QjFRSHRUdmdsSVBTSmZnSV9kZC1Fa2RpVnZva0U3cVFIdkFCVWlB?oc=5",
+   "published_utc": "2022-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SITI 2022 – Panel Discussion and moderated Q&A session",
+   "source_name": "Microsoft",
+   "source_domain": "https://www.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjNtMlFzUURGaEpyQ3ZtNWduUnU0c01CN0RQT3ZfUmx1TWZzR2NsOThwSWk4MkdHa1VGaVZSREdwU084SDlzc3J0dVpoTTFraDMxdVJkMWM3b0FRa1JScVBKdWxlazB1aV9vTlp3R0RLaW9Ta2xNZmtxVHQwX0RnbXZXZXhabml5WEV1SjdRaUFkVWs4X0ZCcWREcVY1Z0Ux?oc=5",
+   "published_utc": "2022-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka Government Declares Ban On App-Based Autos Over Surge Pricing",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPakVBNE5nbkIwS3QyZ1dVdDZvR0dtSzYwdS1nWU1aaWRIWUxiLU1ZTzBoZkVLbXhRS3FzXzNJcVJKWkVCSy13TmpNUkw4aDlMRnhpUVdLTkhoZDRTcFdHNUVQbTBIcVRYQlVPLVpzYWdBLXpuQ0RZcjEwdWxWZU1rdXQzaDBBeWFaSEtnd3gzQXJnQkhUdUFRNlRra1NDd0d3MHdXWVRBUkVUeWZoelBB?oc=5",
+   "published_utc": "2022-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt tells cab aggregators to stop auto-rickshaw services",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnlzV1laOWZXRktjaTBwS09tR2lad19FOUlad203LTBsTFc3Nk5hTGljc2VhVlF1X3FSNmJDRnNac3BRNGVXSGtjd29veF83MTRVX3JLeGNxSDVRRHk2aUZCODIwM21acjVJT3E4UE01czhxMURRV3ctZDJBeEpDMkFGUEJYUDV3MElyNmI3amJ3XzB2dXRjb0xaa25TVmdPOXF2Q3kwQmRnelJxTnNNc3NPVzFLcWFKMEJDRWlTbE5QQ052UU9jbFhVTU5WYk3SAdQBQVVfeXFMUDhYUjdPNnFTdnRzMmxRazA1OUNLT2t5QUtjRVk2WFBGSjB1SHJnRzFmbWFZdXRoU3RJQ3poRUtmSkFLWWVsa0ptallaTXh5MjctQmpRVnBybGNYSTJRYS02eUtGbUU3WVdMdUNNYlZuT1VpVTRFVVB3ek5sbHZQdWJQWkgybjdGSFdVcG9ia0ZiTjN5TkIxbFhZRHIxZnRlVHI2em80VUhkR0d5MzNmWWc5aGF3c3ZIT0Y2WFdoZ2hBTDQ3RzQxYVJUem5MbEh3UWRGNnQ?oc=5",
+   "published_utc": "2022-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt to permit sale of sick industries",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObloyaTR5MU9uNi1nUU12Z2YyZ3Y2NUVXdWN5MTFpYzNGZnRNNnhxVkNYUG0xRzg4VHoxaEpKUmJzcGtHbXd6MXA1ZmNsVnNwM0J4eUpsTllFSkYzVUpzcnhLUGNRekZtTk5BYXVZaW5tNTh3Q3hybnZzd2dBempMSGVhU3hKVWFHbjg1Qm5XQU90QzVXOUJGUG9RLXo0c3VwNnhKXzVIakg2Tm85Rlh2TlJaRXBHSkdZSjZRM0Z4alJMZw?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ola, Uber, Rapido Asked To Discontinue Auto Services In Bengaluru Within 3 Days",
+   "source_name": "Inc42",
+   "source_domain": "https://inc42.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdG9seUxvSmFiLUNuQTRWdUJjc0pTUklxcGptc2tlc1VsUmEtZW5uWV9TTlF6VFRSY2NfekRFamFPdzBmUVJoSXp2QUQ4Y3VBMldfcHA3dGZGVWV2MDZfWl91YW5GcTdjekZYRkh5XzdrYWpKM2hLRWY2c0tKaFZIaUgxWS1vZlhJMzVWai00MktadUJwQkMxUFpBMTF6dEJCUzRR?oc=5",
+   "published_utc": "2022-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister of State for Agriculture lays foundation stone for national highway in Karnataka",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZnNFOGY5c21nZVkyejYyNXAxQWVvR1gxVU1LYzVKVm1NTzF1M0dJUkZBcHBQZmJrTW1nUlpTb0pzSnY2REJGQVdvX1kxcm5RNFNhTTNtaVZZTWEweUY0TWRPUDRJM3gwblF5dzRaMFN6c2tCT3QxYUFTX1Vsel9wZGdsWXI2Z2huazhxdVdPYXRsa1NhdG9VLURURk1tV1c1YjJmN2MxWWhsMFZTRkdQNnN2NnlxTFRXSHBFS3k3WXpIWlVMNURXUnJfaTExUXY3RDJidF9EMWxZWHg2ZW5GOUhNZ2FYYk5KQkdqa3BGb1Y4cjZWVzdlc0tmZ9IB_wFBVV95cUxQajE4QUVoWmpmcU9jb1RQTHpDa2hhWldBYVV6MHJ2R2V4cE9WNFJTNFFXbjdNbTA0SjdOVDZiSEo1LUtiOG5pVzJwdE9pWWtJdWFIdk00dEtrUC1sSWc3R3dhOGtYNkNKakpOZFl1V2xUX29rckdfckdEcUpTejQtZ2U0OXVPRVJRTHlYVkpqWHJ3MGJ3YldlbzRRXzduUU9FRVJXU25ZYkp3RWw4SFFrbnZqdTZuYnduel9mYVNocnNWREcxUXF4VzRqVGxKTjVxV2ZacnJSNFl0MGp6Tkt5VTZEZWhUVWMwZ3ptT3Yzc2IyZUdobjdtWHF2TEg0TFk?oc=5",
+   "published_utc": "2022-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rahul says Karnataka BJP regime -'anti-SC-ST-', alleges it is a -'commission-' govt",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwaGtoZVRJY2VhUVc4Z2dVeWJLX3BhZUdUNVFWNG15eG1Qa1Jwd0VqQy0yRVE2SVVxTzNOZGFaaElwc3JNUVdsVnprSG1yR25EY085THI4Ri1aTzJBT01DUExxWERBZkVfOTZua29MOXpOOWdyeEIteTUzcFJOSlNOT3g4S1owSkhvcFdkdUowYU9FRncyaG1NOGpaeG9TS1pvMWtEa0pTblR2ZWF1UWhvTGl2WnFjaU9oVkdKb1lVMzFI0gHKAUFVX3lxTE4yX19TcnV0V21iblU3WG1SMFhhdUpKLTA3bFpxNEpENUNLN2pDTHRuZGxXNlJuQnJhN1o3bUo4RUhfcEN4dGY2c0REUzVFVklYOGtFRzFFb1pmRnc4U19jRTJrWnZPcXNsajctMl9md0hYZHFncHhUUjNVaUNoNVhPdUxxTTJQQWFOZkZKdS1aejQtNjUxTW13WHhhdGUwV3VZQks1QWhiRUtBOWdRWDlvbDgzWmtuQ1hSZDBvV1JfN0ZrbkdndklOS1E?oc=5",
+   "published_utc": "2022-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Karnataka Minister Slaps Woman, She Then Touches His Feet",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWxSUmhTbjF0QW5IMS1CU1RNS2pzMzlaVjNUUUo2bUVTSmY2VWhkd3pRX0l5OHoxci0zRDVLSjVvblhXampYd2RTVGFVRXJ2LUJHYXdzQ0FDa05ERXR4SllrX2EzSG8zdzhLU3Nodkk0Y3paaUt1WGwzd3dzUEE4OEZzZ2kxcnFfXy1JQmxjcmczem43Z2NaQmtTb21IUHRQZldzQkkwVTdCVnF4VGh4SEotdjJFMzF5MVYzYlhB?oc=5",
+   "published_utc": "2022-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

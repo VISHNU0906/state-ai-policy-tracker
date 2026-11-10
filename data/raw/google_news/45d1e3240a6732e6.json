@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "UP government to give Rs 1200 to school children for uniform, stationery; over 2 crore students to be benefitted",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRl9ucHZ6TV9vaUtwazRrREtPTUMtdU45OEViS19FcVJIZFhrV2V2Y25LMlFzQVgySXVwSlhwekxSVG9lM0w5VGNYVTUybDUyTHZTWU9xd05sUFJ2UE4zM01hUnZnLUE0VnBwMk9xUVY3Zm5HMEZjRllmbzR3MElfWnlYbjhQaEFIYi1hQkRkX1ktdUV3N3JjUEdOck1MaEZNeDk3aExyV0FKNzd6Z3ppcDF1NUlHOU9BZFlsU09memVkandCZWZPTzRxYTRvOWp5UFA5ZHVpN3NzVnU1a1UwMDRB?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Yogi Adityanath inaugurates HUL’s ‘gender balanced’ factory; firm to invest Rs 700 cr",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGxqX1dmbUhITkdSTjc3ZXk3TzN2MWNWTVAxLThIOUY1ZFBwUEJnZ0p3aVkyd09PZHhlWmxtTGdqMFI1SFdmeTJrcnFPSTV5Tlp3bnpyOTcyOXl0a1diZU1KcWVlUTQ0bjZrelZScnZITFQwQ2hBVlJIOFoxZFpTR1RHX0g3RTdEMTBaQnRESy1Ra2owMzdqQ1I4OWRnNXRPYkEtZmtxcXdzZVB1WTZTMmxIbzlYZDJza0ZvUjRJT1o2cFZBY1lEbFhmWGNwVzBzZUhHaXNQdkdGQdIB4AFBVV95cUxNZFFYZklMaWhHLXRzX1M3S01LdWFCb1ZJZng4MkRLNFV0REFXRXZScUpqNXA5ZXJTSWJLTWkwWU5NbHFLaWFSaUV1alNhUzlZNVR3LWpLSEFZcGI4UGJGUkFtNzZ2b0UzV2FtMXNWN243b3AwZlRXXzhoQS13SENvcFVuN083V1B5T0gxd1FieXpYbWowampOYTFTMG9wN0FQUmxzUUZ6bFhZMWRWRnpXSl9vTGFYYzRMb09vYWQ2RG8wN0pkbnFfYXFSU0VjVkVXSEZQVHR2SHVQNnRrMm1zRg?oc=5",
+   "published_utc": "2022-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt working to expedite payment of sugarcane farmers: Sugarcane Development Minister",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnhVMzk1SHRKSURCMzVjaHlBbW1kTlU4aWdNUXdpb3NuRFp2bVB2X1dTRnpzU1FjLS1kb1U1ZGMxNVFob1YwU1FnaVhEakN1R0owQ3dvaFVVM0FlcTMwMjk5RE90Wks5NkxKd2tid2FaLWxLb3pSZFNfVDNGZ3J2UFBDVTMzNjJYc2JUOVpXaE1DdC1hcTNEMGxuNlBzUTYwSGxpbF8wNDFDNzBQUk9JaXQ2S0N1Wk1sdHNKZDFybFI4aUFvdGpLUW1wTU9sSjJ0NGZQRlNLYUJQUHpXWmxPakM3MFItd9IB6wFBVV95cUxPazY0MHJ0S2hMR1hwNmd0a3BaOTFka01weV94aW95SVJ4TTRXMHh2Zk9RS3pac1I0SDNSOUk0U3B1eXBmNU5XaFVjS0FTampTVkFkVDhNOHNETTZQeEdBdDVBSXNRU3hrTGtHdWJlcXk1T29WMFpxbHNfZXFyaU9OQl91U2k3OUtDdjMtVWhxODdtN3M1eGJMbTdKM05lSUNxYXBWQzB2bngydmR4Qlc4QXBFeTQ0SDI5T3NORklKQ05VTmt4ZTBCSGVkcjFRSlNkakxWem9XN2lKbmJoUFZaY1lyMnhBaFh0RDY4?oc=5",
+   "published_utc": "2022-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Moradabad doctor donates property worth Rs 600 crore to UP government",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2ZXWldMb0xrRWNxcXpNWjdnWmpfOG4xLW0xbG5rNnA0cFQzQ1Y5aVEtbURqLTEtczRBSU04X05PZmhpUHlFSVdEdk1wM3FfSHlaUmdodFNjWi1acWd0MlFkMDZTSFRCeWRyYVM5SERsRXZMOGd4N1NCQ1g5WU9tLTJ0aXFZeV9FVHg0MVBjZHZsNklVeTB2cWJ2dllDal83LWhhUFZSMA?oc=5",
+   "published_utc": "2022-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: 594 Km Long Ganga Expressway Gets Green Nod, Rs 36,200 Crore Project To Be Completed By 2025",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFM3dVBPR2JBcDIweURQbF9iNUs1X0hsai1TVDhvRk9iaGF0a0JXZjI5VzVNdExBdVNfMjYxNS1GbWRsWW5JX1BIbVU2WHdIcTJvZ181NUMyMkV1Y1Y5TmZOQmZndTZ1V3ZEcGh2TWF3WEFQSW5KSHgyN3diQ1hUbmMzTWJ1V2hVTDkwUW5FQnMwa1RFUEo5anV3SjhqYjUtdnNLdEpqdE8wdktuT3pzSWhGcFJEWk9rSHlKNjdmVFhaUkl5TkdCY2ZOUnFTeDhRaWFzU2NteGNmczjSAesBQVVfeXFMUDRiWllDUURIQ2x5akxwRXN1NEhvOTZ2M1l4YzBPNVhWUDBjakx1Yms3eFJJQ1Y1ZEF1dWIwNzc1VWo5VnF1WWFfVEZ1ck5FWGVOS2M3MW1YUFhlUFhuWXZBM01NTUlfRUE3bnRVSFJoNjJJWVVaRkFqRWl3RUxhSmNKM2pKWVZaUFNMUS0yT1h0U1Jmc0tvaTY5Z0NkWnJETnNVbV95eEJCbXBZSUlaWUNoTzZLUmNUNmF4eUN1TDVRcWlCVHRIX1h2TXlGajdITzNzMHJkZ0tlNjFpNHdwamNkSU56d0tUSWl1cw?oc=5",
+   "published_utc": "2022-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dr Kind: The Moradabad man who donated his wealth worth Rs 600 crore to UP government",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1ZZVDc4TTk5dG1KMHZDRXBYeTFuUzd1RFFxWklkNDdtQk9DWGJnajdtemtzZHBidkIwZHA3dHk1VTNKN0ROZ3pKUHI4UjJURzdIUHUtc3hNT2tBZkFOVjdmVm5leXRySXhmQWp5cnZROEpTZ0FnOE0tYlBlTU5QejlBQ2dON0ZHel80WUw1N3cwalJSNGl0cTdBM0RDMlVPM3JiVEQyUjBtbkNiSHhhdFlpYVAwUXRka2EwbGg5R3JmRWtnSURrOWZn?oc=5",
+   "published_utc": "2022-07-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "G R Infraprojects announces completion of Uttar Pradesh project.",
+   "source_name": "News on Projects",
+   "source_domain": "https://newsonprojects.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDYwTUhFQlJ0Sm1kQXo4b2szbjU1eGJkYzVobXU1dVg0aFV6MFhEaV9uM3A3MXFlYndaY3U1QlBoZ2t3YmpwSGNyOGFVTVduWEVCUFRpcFRUc2RkMHlsanpZeUNLQ19vVEtQcVNtbUV1T0tIejVyMDBEMzRWeU45eWtFTjJzYVktcURPb093VUJ6VUdMWjBhY0xlWQ?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Har Ghar Tiranga: Uttar Pradesh to spend Rs 40 crore to procure 2 crore Tricolours",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0dKQkE2R2NDTnVablNqTDRlOTF2YUdta1FzandZWXJoWjZaLVcwRnhFNW1EbGt0TG0zOHExZ3dvYVBOdEpJMXJRU3RqVDVYUEdraTh5Y3E0cm9zeDVib2Z2X25KNlM0bWdmWFJUMmhYeng5S01ab2tOS1JoUVJtcktoOFlOOVNkYXd3OHdGWElRa0R1U3V6VEtLT0FjdmRBa2wtSzFFZFQ5aTlQa3pTLVZ2cGU0UFVRNi1uVmZvUl9KSlnSAcoBQVVfeXFMTjRYVnZYNzRuYkZTMVZCcUJrV3dvT1dFS0hNOFk3S2VTMkd4Tm1ZSmRuX3pxMWlVMHVzWlVZUWxpc1hWd1U4eUZLRVlQdmxvS19oTkxSendSUEEtU1o1RW5OR01MMzBGbkN4ZHJNS2xTWV9Bdno4bmZhaXpDbVluSnJQSEhYajhnU0ZpVGlrZmZ6SVBlUzhVSk80Z3c5eWxIQVpzS0tvNzBMNS0zUWtWaTJOTUpSVmIzbzZzdF80bWVjMnpjaDFkZ2sxQQ?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Presidential poll: Uttar Pradesh MLAs' vote value highest, Sikkim's lowest",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTlRHT0Z2OTBIWFFBUVZXVmpueUFHd2tIZjR1SWQ4LTRBamFUVUsyUVdkLW53My1Udkx2TjJocnRDVVZzeEhrUHBIbU5zdnMzbzdXb2Zab0R5R1ZlTXdkMFV5S0JDdW5tX3czRGZfOTlPLUNNLThSOUtiRWNpcGEyLVVNSnkwWGJURXpxNEl6cEppVDB6V1FiQll1MDJ6U29TSkh3RU1wc1pIWW5QcUhWYWFJNGJ3VlZMcFdQb1NISndOZ0RsMkxLWGZuekRwVWg5VXFMT081dHVLd0JKM190SGh30gHnAUFVX3lxTFA3Ti05YzdXdzVUVHJJRVZqZ2lDTGlNcVAyNl8zdnh2S1B1a3Y5eS1OWFkxVFdXZEN4Sl9QWnk2RWdHaFZVemlYQlltN2pHcWRnQXEzN000eU5ZQWZJSjFHR1E5c0V3TS1WS1huYnoycTRRVm1tdi1wcVpoTnVZamNZcEVpOFZKTzVOeG1WaVhoZzl3UXlWZ21RZlJ6N3VVbEFydDNJTF9XZHN6MTBwZEloaUdnV0haN3RPZXJfM2hoTl9ld2FRV1ZqQllxNG1oMFp1ZkpQQk1XX0thYTdUelUzWW1raHpOQQ?oc=5",
+   "published_utc": "2022-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Rs 14-crore property owned by MP Afzal Ansari attached",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObGVIb2dkTEwzRlVXLUZjRmd6QkZ6T1pqUS1fcXFmWFJ5Z0owOTlWVFZ6RnRNbkc5cUxUZnZ2V1RlV0NzQmlPTGp2MDhVNExyMThGcmxFV2Z4RU5LRlBpdktFeGRLWjRDYy1Vd2RFMnQxNThrYjVKbC15Wlo0bnZWMUl2cVgxdDVMejBpaklETGhPSWNEMkhQWDFUMHI2SHp4enA1TE4xWnM4UlMtYmVUYkZPaU0zdWgzRGhMZ0VXNlNiMFpI0gHLAUFVX3lxTE9Kc2Z3T1ZIa28zcW9Jam1hajVvWVVXUjBkV0xVaWp3eTI2WmlJSjN1RVkxMXdYWlR4dExCclRpRjJjSzR5Qm9jbnhrREVndy1nZjRGcVVkenc1Z081Z09kU3lUbm9TTE5pMlFiQi1jWktXdEo2MTRydy1CanltQUdHRmV4d1NDekRjYjRETVJ1TmFOSVE3d2xsbnNJX3I2QUpSVW9TT2dNbkpfNzZGdGV6VkFkMC1ZajZvNkUzYWV4MTFwTk53c0tEM1Jv?oc=5",
+   "published_utc": "2022-07-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

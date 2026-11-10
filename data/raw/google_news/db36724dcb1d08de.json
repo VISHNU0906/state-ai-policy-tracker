@@ -1,0 +1,85 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-12-01 before:2025-01-01",
+ "items": [
+  {
+   "title": "STT GDC signs MoU with gov't of Uttar Pradesh for AI City project",
+   "source_name": "Data Center Dynamics",
+   "source_domain": "https://www.datacenterdynamics.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUl2STJKMnc3aTZlTHlvWkJDc0cyYU1IWUpteVpmNUlZMEZyS2MxYzdaR0ZSQm40Ni1mWTZYOEpfNVg5UE92cWVOUFVIZ0xqUFlWYXhlTTJrWWpTQkpCUGJ4anJLMU9pdU5rOXdCV0plMXJGUmJIV3dKeVpwaURoSGtlR1BCWWY4clVnQmEtdmVMSHBjWENHNmVQSDB4RTdId09NRUF2bWlmOGl3?oc=5",
+   "published_utc": "2024-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'The Governance Challenge 2024' by Samagra concludes; Uttar Pradesh AI initiatives highlighted",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2JrckpyZ3o4N0Z1dG5kUmdHdmVaVFJRenA2VHVGaWpNOXFzcGd1ekwzSTh6WTJEQ3Q2aG9JbGlQdXg5OTVDRjRud1pGNWlzQkpuSm5uMUV3SXRsRmtBcXI3RFA0Z1NDN1ZwTW9oTlJhMkpoeWZURzl0VDRoZEUteGMwRDJBUzJoX2tXUG9JaEx4Wk5wUzFyVkZhTWxfOXZUMElpUzhicWhLTmg1VWRiRlRTZFd4N0lLRE95MC1jaUJiMUF4VzkxbEdNaGptOFEwT0V5MHVaa204bjE4c2g0dm9IUmw3VGdFS1lvaUZoXzZXWThNMUhyQtIB_AFBVV95cUxPYkdJU1JLUElyTzIyVXlwTEppVzdsdVZTXy05b1hHR21ZRFdrY0YwV1ZPX2ttNXhkdG9YU3gtb090TW85OGlfQXdpU3djVXFkUmZHVjlUR1VMMEhDZFdlRkNhT2pWR0Y2WWNUTk1ra2p3T2lDclFocTBheTVqaXRTNUl1SlZSQTlwWEl3Smdjc25GVVc5VzNWRDFLRExzNkREdVgyVWxrWXNPT09QeUVhSVkydkctc0JNVWpKako2UVhSczJFdDJTdEhpdmNkcWtmdFo4OUxkb0Y1RHlNVWQwamNKdWdDZTU5UHJPbGkzS2thTnJRcHlTd1BsdnM?oc=5",
+   "published_utc": "2024-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STT GDC India Partners with UP Government to Develop AI City Project",
+   "source_name": "TelecomTalk",
+   "source_domain": "https://telecomtalk.info",
+   "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhN2FzdVpINGNoc2NFT1owc3M2RnpNMzJBLWFBbUFyWUNXeW9MWUJJTVVDWFljRktnRjdGcG84UlRnRklFNTQ0LXlTbk9CWXFkbkZ5VDdiVnFjUDNtaC1JR3REdWZYNEpvVUIzcGZVNE9FWTA?oc=5",
+   "published_utc": "2024-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital Maha Kumbh",
+   "source_name": "पीआईबी",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5eUFIMGE2WDlOeFZuclNLdjRqZ0JHV3prTE0tcnk0T0ZwcU9TVjlqcllaUUh3cUFNNkw5R0JqQl9NbVRnTlExOUhJVDVLbDZ3VmdqS2p0TWwwZFVSUUZEZGNXaGs1eHpvdnBQV2hvY1A?oc=5",
+   "published_utc": "2024-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM inaugurates and launches multiple development projects worth around Rs 5500 crore at Prayagraj, Uttar Pradesh",
+   "source_name": "PM India",
+   "source_domain": "https://www.pmindia.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcjlEWVZ4NEFQMDJpZjhNY0FQNkVPMlI5aHRQa1VzckMtWVp0STlTT1dmZ2g3Y054QVRqTFRIZWlya2wtTGhiRlZ4Y0xJQWVlcFdySlVaMmVsSzZMWmdYbl9VS2hUZmZndEVkWGtJZC1vWFAxQVFaWE9Vbk1VRGVsX2lPdDV5anRsWlRxSHVFLTlWR0ktVVR1MXoxbFpCdXA2UXFYNGl1THFPZnpQbzNQSEtfNHBvY3k1R016cHlCRXBETFY0emh1LThQTU5DY2tyaVIzYUNMUEhHdmJtdG4yY1o3N2hYTG5Nb0pV?oc=5",
+   "published_utc": "2024-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Man gets Rs 10 crore extortion demand from Bishnoi gang, case lodged",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXpYd0tjSDBBVXVhTzZBNC1JUmRleXExdnlBazBaMmhZNFhGNmxlVXA0ZFZqRzBXaE12a2NlVE5XUy02cG90aEdvOHFDNFRkdUJkMEtMdFVpdVZQUExiSnVyR1hBRmY3WHdFajdQelRkb3FGc3dKcVcwRHFmSEpiSjI1cExqZGhNOFYwSlZZeWVVcmE1R0xQcVgtaXU0djJieUFRVjFpbXhGTlIxLUh6MlhlakRRWHVZQWlnY3ppRWlBVkVkdUlyYkNR0gHPAUFVX3lxTE9scjU3X0RnNGRuMktpLTdRTWthSXdCX0lNWU9Xai1tNHRfblhzUXhzMDZ4NG9EOHdPME5ROXBoZVpkZmdDYWNaQ0V6b0p4cDhudi1aZ1VuN3RYVXhZZW5BMmNhbE83X3hZRkViREY1VFBCa2ppb2ZXOTdlWFg3Q3p6ckpSYThTRmJoam14U3NxVVBzRlY2NE5UN3RsbGlCdkFuUFBwdlpVLUpUWTJFdEYtYWxKeFBxcjhtcWt3NmJMMjc1eTBHY1ZlZWl1YXFFYw?oc=5",
+   "published_utc": "2024-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Who is Sriram Krishnan, Indian-American techie appointed Donald Trump's AI Advisor",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmVkTUh1amxwRzI2aDJUVmtHZlhjZDBDaEdTZFN2WnMwWEpSaXViNzhrSEdyUzEwT01Ma2JuQWY3bk5TMm5QTDF0bE9OTjZYb0VQd1VWZlZHQjZST1JWdnd5Yml3RVlGM3VSOXhRMHlKVHRvUWZfb1JqYjk3ZEhxRWh1X0REaWI3MTBNZWREcm1XN1hFQzdrVGx6cFlEcTB3aDZLRFhjR2RXV21vT1kyQTlHV2hhdERVejJ3S280UUtqV2tQQzZWbS1OcTJwQXBNSV9XQ2ltRGFLd9IB3wFBVV95cUxQMU03WkZKWXlOZ2VjOE5fLW5jVk5CX3Y5MUN0TnlIZmdVM3h0WHAtc0ZweFFEVEh1WThNaENWWlpWa0tjUUpSRVlwVlo4ck5TWHNyX3VvU1pMYWRKcEc4UUxOdkdROXdXaUIwLXdhRFZYQ0ZHejB3ZmFtYld1QzRBVXNUczNjZ3VkM3NqT0ozVkFKWU4zRGxwQkpEczlvWW52a2FDZGZxNmJPNjFrUE10Znl6OEtIQmRjV29ZRjdmNW1uME1TM0kzUExZMVFvUlpVY2FkVC1icVBUX19QdmlR?oc=5",
+   "published_utc": "2024-12-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maha Kumbh 2025 to Feature World’s Largest AI-Powered Headcount",
+   "source_name": "GK Today",
+   "source_domain": "https://www.gktoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JQzhpVVN5aE5OTE94Q3NNSW41SjhtaW9nYktuU3Q1Ujc4cmVsVEZzQ1FXZWdoMTdMTkFQZV9QT3dEUzFLS2JmbmMyVlNTS291YzFmVlp5a1pjSWFxeTNVc0NVWS1yV2tyRDdGbG9qRW0xanRMdEt2SWR3?oc=5",
+   "published_utc": "2024-12-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP and Manipur Partner for Ek Bharat Shreshtha Bharat",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXlzNW9hdmE5TkFsM0JFQ0k1MUZZbjJncVJRYmxBYk1vaXppLXhoZ21CblZVbVlub19zMTJhSl9ORDE1bko3bEJGX3JacHBLYlVMZDVpajBtNm5KM3U1YlBfNmp2T2hFTzFJWTFfUVIyMnNwNXZTaHFZR3lfUmgxWmNXbGQ4cEx2VnVaY0p1bHlvWmVtVW5Wb2lYSFUzcGdzNkFibUxueUN2Z2YtS2g2ZGprMGU4U0hwN0UyUG5EdjNqcnd6d1E?oc=5",
+   "published_utc": "2024-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The eyes have it: Uttar Pradesh youth’s AI specs to give vision to blind",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajJUc3k2NVM3TjN0UFgwZEpMLUFXMTBfT1BqaG1IdmdKWGJwbjRaNTRnbEdqV21SUDhKdEkyNDdFN1hpRzNnZTA1RWlSRXozWk1mRkhrNjlsanlSeW1VNE1FYXBEUjR6dE5FbUI5UGNwUGxJY2pkUEllaVQwdlJScVduT1JqdmRzS1JGTU9YSGNwMVpHRjFzZ2VZYUt6enIzc190TGQzcV9ZbkFPbEl3MEpTdkZMaURGS0J5aDZrTmQxNmZlNUpOSFh1dVJKdWNOVVFPQVA0aDlnRVIxVFRDSnkzcUJfOFFxbzZHZTRyTUJ4Q29QcllPSnlR0gH_AUFVX3lxTE1SMHNyUVpuTGRENkE1eVRDX2g5eGJNSHFKWGt6Um0zTXhLV0lhN09zUzhFUUtPQzJKZGdHSjZ0eGhiY3FFVG5WaUtreTVkeDVLV2FuN0hyanVSMTdWWWh4U0NvelhhTXgyd0hiQ2dXRFdZRjZwSWVVMUhlVXJvaDRUd2NjY0h1OVk1eWtWcWJNdGsxal9JNEJpMFZJS29YTlQyQ3NzaTFxMVVoLXFEY2JrUzBEajVkT1hIVVZPcGhaNDZpSlprNHE4VDI5SFFYTGwzbGR6eC1zczNueVl4aERJOWd4V0s5dlhKQVRZVnJwUGRadGlPeE1KS041T1gtWQ?oc=5",
+   "published_utc": "2024-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

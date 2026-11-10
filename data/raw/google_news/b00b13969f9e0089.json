@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Industrial Parks and SEZs under SIPCOT",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXB6dGZEYmZ2RWR2NWE0RFR3N3hfeFZwVGNiVTFPNlBoVU5tX1FvQUpCOWhHS1c5UjIyN0RQekotZ1ltN21ocVRlUXlseXpjSnJ1VnNCTE1HZkdtRjFILWdLUDVSb2lza0hnOGFRamE5aHViZFNrd1lMUmJ3RnhpaWV0OUp6WDdXMUlLVDNzYktPVnJYRmM1RGlQVEppSG9TR3FkZlIwNzhUUnphUVVPVjVCUnNkbFpFOWtR?oc=5",
+   "published_utc": "2023-01-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Assembly amends Act, Tamil now compulsory for state govt jobs",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmFUc1dQWjJoMmVqMnpjR1RqSXdqQzJqOEtEd09CQzBKa0F6OU8wUVAxZVF0QkFtX2FaS3hfZkk5amlraUIwVVdwNExqUTlmd0E3WUVSNFdoRkYxbTZZdjUyUUc1NDh3WG50eEVuQzBuRmp4Y3dSd1B4UUEzWTJ3Q3c3a241NzdEMFZPbVVpeEZlZjk2NjExWi1ZRlVxOF9aMEZYU1B3N1FSRzhZSkp6aGlWRWNoWmUtdmcxNlZSZGhjc2hvaEJvUEJR0gHQAUFVX3lxTE1NNkF1aE5RS1VaWGljeGVwdUVlXzQ3NDR6UU03ZUxwTlFpdHpJTEZfSE1hQjRnemF5b0xVVlZ0SnRyUEluOWw0a3dCVEE2XzF6c0RGbVFMWjFwWUNrUEFPM0xCM3dYLVd2eWNpdXVHMFB3QVZncldkMXRLcVZhQWVlLU82aHBXYVhrd2ZzVm0wOXQwX0lZNWFUS2ZHS0dPRU8xdDh3YmRjaWFHTjhEMVFQdFJhTzVLQlRtNUJtZlVodTVhM25OUDQwNUhMRGwxcnU?oc=5",
+   "published_utc": "2023-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s YouTube-based news channels are a force to reckon with",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclhoaEhKSDAzNzctazNCeEZ5WUU1dTUyckJBTTZzQk5GZGcxY0lWOEtnVnVlTkZmYjJQVS1OZ2E5MWl1bE9PMTY0c2R1M3d0aHB5TzVWT0Q3N0lHcV9PMnJIOER5RkdTNTBKcXFfbHFwbzExT2Z6LWFRRzRKX2hzcldqLTZqb3pRWkE0eHB3dl9vVjV2dTdKVTYxR3IzcUczOXNKMXQ1aHBRVUFCZlNRMHRrU2N3ZXFxUVowUG52YXJBV0JFemgw0gHOAUFVX3lxTFBhbkxmU1FOa2R6cy1QN0FwMFpLemNSb0tjZmxZQnhWaERvdjcwQmVOSlNBM2U5cmxSVjZ3VFY5SXI1STNtRG1iVGkzMzNpenVZZGpudHNjd2xEOTkwYUVEZjFVTGgydHRCclk3bVRrWDFRWnFCZHlSVm9XOFp3Y09vWUxkTjBDWHFHeV9aREEtdXh0YWJMVF82WXB6b0tqZTZXbE4zQ3QyNHJaTjByWVMtNE15Z0xKNWRNZm14ZzZ0WEdDbm9Bbk4ycWNGVk1B?oc=5",
+   "published_utc": "2023-01-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Resolution not against Governor, but his speech: Tamil Nadu CM Stalin",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUMtUWJvaDlGbUd2RGF2RkFUQ2JHMEdHOWtiZUVqVzBSZ1hvVm9HczBGdVY5R1M3TW9NMUZQNzEtLTZURm1UVFRLYjZvQU9KZzZySlMxaW9CQXB3RC1lLUlCTGhXdjY3MkVEaHk2eTMxcUJlLV9zOFY5b0lTcFJkanI5NkZnU1BJRmJMNVZzVjI4akhHOVB2czhzczNSbV9SXzFWQ19XNUtMaVRpNEJIOXQ0WmRnSTY4M3ZYSGRlZTc3Z9IBxwFBVV95cUxQaUlOWDg5RUZtNVB0UGZ4OWpMSEo2dDVMTVEzbU9sZUNLbkhlM2R6OFpGR3BjSzFjYUM2cnF1YkNfZWIybmdZTlVMRXFBODloNzdjQTdQdldFaW9mTGIxeERqa2xfeEFwcnBXNmlCUEt4cHhoT1JYY1BDMzlETktQTWtoa2ozQ09xcmRYaGZCdkhZN3ROWmtuRExiNkNJTVZlcjMwVXZZZGN6bXZiV213eDh1WGRjQ2FPRlpnbXFUZ2gtU3pMT0V3?oc=5",
+   "published_utc": "2023-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "On DMK Minister's Video With Poll Candidate, Tamil Nadu BJP Chief's Big Charge",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdlhVZldhUjRqbFpQeFRfQnpxZ0hFY1k1dTV4RDB3UV9fWkdRek12azh4QUYtZVAzbmRwcFRUdkN3Zm5VdlFEbjVzY2t5eDZ1MUluTDRlTXZhOThNVS1nR0xZNjhBSXdNUXZYRXJDWmhLUE5URXdNdjJ3UnRsNExSd0NIVDBnQ2EzTENqUzNIMkUyYlowSFhFT2FKRkI5N2VkSDlUU3AzdlRlcG9uRzc0WjBWanJjWEszOEJLSFhWcFZvenFCUDFLUldNd0RpazFralYwZUotZjdBalRGVjRR0gHnAUFVX3lxTE0yWnVMTVl1SnpNMFN3QkRPSGJYZ1lIc19HS29FV1BndjUtRHZEekZGQmJySzBYMjI4QWh0SVFITWt3UTZFcWxockpBZkFYZE9Pd09YZVhsUGRqRUhadkRHc0I2aHlOVTRpMFp5T3B0S2xKcEdqSGRHS20teFdid0kwbExmQVB2YW1tT1pFSGlacFZ0QWtXakctVUlCVngwbUJQWWRkc04zSVFtX2Q3VWNvajZuWldoekY2ZUxXbDI5V0Q5eUpBM2gtQm52Qms1cHJZb2JlSXZkZU1KeDZIcEN4RUtZU28taw?oc=5",
+   "published_utc": "2023-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM orders DA and bonus hike for temple employees",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXZ2bHhGYUlCbWRqU3BWTVFtVmItNW83a19zMzRtOUpaS1M2TlljeF9qVC1ZRmxNQUJxUnRtS2pGVWlKTTVyNXpNTDlIYlQwaTMwaHVhdUUySk5tcy1zZkZmWW5LNWV5SDN5QnFQckl0VTFRdDN1cWJzZHZCWk9WZjNWWVdHNF9ZclN0Sm1PRUc1UlhuT2p3cVRpMHFXT0F4cXZxMXpZN1NxS2NXQ3VDc2kxTGZtOF9WbC1Oc0JNMVFybGNJYzNxbWhWUkJMV3d3?oc=5",
+   "published_utc": "2023-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM MK Stalin to launch 'CM on Field Visit' programme in February",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDFRcm52TkJpd1lNdlNJT1NCNTh4N0h3LWxVcXNMRkFHWG5kXzBYSmdSbVhBV2RBTko0dmdVUmtGN3ZzTFhqaXJjWGNoR2lmZFIxd0ZRSWVhMlFhc0gzR1VobnZmRnRWV0lOcjhwa1M5YjMxQ0Ruc2ZBckZ2ZTBON0N0bzVBVUJDOG5sd20xMGxMa1NWbnFqZU03MlphVTJ4RGItNE9VWVlzbEljOHF5VjkwelIzY2NGd0tYa0ZVcURmVDg4RkHSAcsBQVVfeXFMTlhqOHRQUTN0TGFkOHNSVFN5VG9tN3h5NHA2TEtoUko4MzNpdjhsLVZFNGdNOWNobnYyQ0N5ZFlYOUJuR01LWTNLQUQ2aXlmbFY1Zk5YanJsX1RhT0xuNndVY2VEbHVTcXg5ZzNIZVRDTWtmbUdfMlQ2SlBJOXdTTWhZbC05cHVQY2ZOZFI4dkoyOWljcTFEdTRBeTItVFU4eF9LMUFHWU1tWEFlNThwYTI4SE1YNFBnM3NRYXl3bXRISWNreU5FS0FpZkE?oc=5",
+   "published_utc": "2023-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video Of Tamil Nadu Minister SM Nasar Throwing Stone At Party Workers Goes Viral",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2hlRzZodEtVS2lmRWdCc05jOG1mUGs3UzlEXzY3akNDWnc3Y19fdXhNRlp6ZG5tTWRRZTN6Tnp0Q0lIcjVDdXgzZ0xreUZfbklPaFJfSjg1U2Yxb011NWV1c0dYNGpNMm1pRi01YTBaNGlWZjk3c2hIejYyLWdxUDR1MXJQdnBtN0trbWRTXzBZTzBfUEpNSjlTQUtjT1RIeC03bm4wa201N1lJUVZiUnVLSjJVaUdz0gHAAUFVX3lxTFBnbmV3Rm52TFBDMlZVS2JpVFdPTlRZZkYweHhKa2hyLVhtODg0cy1yUmp3YUstLVlFRjdsWGVTekpubVd3d0RMRXdwOGRaOEJVd1FTZ1dFUFU0UW9zWDJDRXdpRy1mM0tYam0ySEpLcWoyNk83YXhzTFY2aXZyT2pRaVFHU1FPNVJIOV9STFFtWEZqN3JNb2JPc0VjWnRLZ2J6RGFFVWZfcXRNT2k2c1FzdGRWWEp1emtDZmdMa2ktdg?oc=5",
+   "published_utc": "2023-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: CM Stalin announces Rs 3 lakh to families of 2 men killed in Jallikattu events",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVhhUHFUZjQ0Slg4U0o2VC1FTUIyVFZsT3BBeTg5WGgyaXBpU1NEMFRESjRub1RTVmhpQjVBUnN6eVVrLUJjMk8tbzBOcnVUR0JHSkJMUHljVXVSTlBLTUtqYjlBOEl6bDFpQzhxd0ZXTTVKVGZNcU5vcnZIOTRUc25tb1g0NmhsWXN4MFpLWDF4UEJWdm1QcVZBU3QtbUxEQ0E5WngwZlloYXBTT0pVRFg1U19WOW4wNlZteUpuZmNLcXV2TkhRdE1iOG1vZVE1ZnBSSlU3c29sdDDSAeABQVVfeXFMUEhiQTBnb0x1a3dHNzlQbGhUcG1wdXFYU0h1b2JKNzZWSEw4S29EV012ZzE0Y1NnVmVBS2hWMnNGMUYzYXRRLU1makZMa0p6RVd5dk9nQ2tfMFJfaVFRV3ZacFpremJyY0hKMUpCSmNzaEhIWkl1VmZaekNYaFZsWHRHeHZlRVR4amR6dmZEc09la1hNTmJjUGF0TXlYWEVPRlh4alFUczM3ZUpDdzd5OWEwaVJIbGVaczhLdTVpbHFfajQzSFFWbnl4V29VZWtKV2RZa3RjcW9JQ0Jnc2NuR3E?oc=5",
+   "published_utc": "2023-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Human Feces Found In Water Tank In Tamil Nadu, Probe Ordered",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdW1SZ2RVODFLTXpTb2ZyZ0o0bGNPaW1vR3dtU1c4c29NVjA3R2Q1WTRCXzZSUlA5c2JyQlpDYWtWRnhFWHZ1WEFmUkVuRjhoZmUxN1dmSGJpN19ONlhfazdmUXJIajJrVFAxVmdBY0N3SXg3Ukl6Zzl5ZWlTMnVmWEZnWXpLNS05VjRLOERqNko3c0lqRFRGdG55VS0xZmZq0gGoAUFVX3lxTE5xTzBOT2RqZ1IxM2pZNlBoNlZMSDV0UGR1ZTJCaVdXRmk2YkoxZjhyX2pTbnhMaC1yWHBVWnhXeWxaY3JLOGppNDJ2dURlSm5QaUdseVVYa1BkZlVnb29YUFZKMmxkQVNaeGpNWC1vQno3MmVnRjQ2UVNsRFNtOEZoMkxUZFA0R2xqQTgyV1RLQ1lWM2Vkay05YjdvUEk1ejRPcjRXMjlheQ?oc=5",
+   "published_utc": "2023-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Kerala Police Department to receive AI and data analytics training for efficient policing",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFZhOWNYczVZUGpBc1dXSUF4Z3FXbENDeHZZWFFNZTBHMTRCSjBiZUtlZ1QyQTE3SGY5dUpiOVFIMkVKQVpMaGhTdTNZV2RlX3lHYnpzVFA0R19fOEt4YXFvN2VoQ0pONWhMZVNEQ01XZUVmd2dtNzVxc211UzUzQ0VXUEk4Z0xORWQ2R1hXb3k2NHl6cThhY3k2c2FCUkR5VnBOS3pwd0d1RkVqMzJSMVhBWmQ2RUM0?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Private investment in education to modern tech, CPM prepares draft policy for Kerala",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNERzTTRWcUdCTWpsSnQ5WjhXcGVQa2YwN1k1U0ozZ0VqYmpBNjFGTDJ0dFNQN1h2enpZbE9ZRTZPYmcxVnp3ajI3T1RUNWdybGtEclFYdW5VdjZRVE5XbDZRTW8wNVdWejVmdlQ1ZEtRWXZrd29JREpaTzBwTjI1SWFZQXNITldnUEdpR3FHeS1Zc3hTNWFvVURzVWhiMVplZ2s0U0xramFLQmFnTFBTVUg2dURIQVBlT2hmNS16NVotd2Jpemk3OFl2bmVOaDBZbmR2aEt3SHFkTlhX0gHjAUFVX3lxTE1DV3hqLVdLWE13OU1RRnZMYVdZRm5YMGVzZUxjd1NQUTd1TDFCcW9xU0daNnRvNVJ6ak44UURocWYtM0k3Y3B1bXN5aElxTTN0SUtnNkRNVXpDNXNTcDBMLXA2T2RoSTNkelVzVkpkNTE1SjNnZTUxd24xS3M1Y2lxeVYzanpHVWtDaS1lNEdoOTZheFlLczR1NkRIWnFpRjk3YzR0Wk1hSTk2TUt0UVEteHozZ3h3T0kzZmQxa2R2LVd2T012NUs2ZTExcGN0cUliSUtzcFd1ZGtyeUdabzJUTHEw?oc=5",
+   "published_utc": "2022-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why the State Government Needs to Demonopolise Alcohol Retail in Kerala?",
+   "source_name": "Centre for Public Policy Research (CPPR)",
+   "source_domain": "https://www.cppr.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1ZneE9ZaVJlc2RUVG5vYmVONXR1T21zWjhsR256ZlBCeDNaVkJldnV3MDFhcnM3RzY4eHBKRFRNcGZCNG9wZzhPT2w5b1RhRmJiRzV6eG5lQ2did1BzTjllX2lnN2JnZ3ZSV2FYZHBXbFlyOE9ob25ZZ2NGeUY2VWJKTnROODdNemh4TldBQ05nX3hsQTBERVROcEpWSWk5dVE?oc=5",
+   "published_utc": "2022-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Achievements and Challenges of the Kerala 'Model'",
+   "source_name": "The India Forum",
+   "source_domain": "https://www.theindiaforum.in",
+   "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FSW1tUXZRSFlBaW45ZzU1LXVLMVhoWll3LTRUOVJoaTRhd1Z2QlA1T3hrQjFMdnJZYWsycEhjemVSM3FQMnF4UnhEU2tzVlNScllOX1VFb0Z3NzRtWjcwelZhRWNJeUtTZThXampDNzZjaHB0YWNiTm9BMmRfUQ?oc=5",
+   "published_utc": "2022-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala CM Pinarayi Vijayan meets PM Modi in Delhi",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMS1SRS1Nb0RLNzhNOVZPTUFMTWI2aEo5Tnp0bUFVZHFNQm1oV1lXb0J1SF9RekR3RThRN1k5X2dYM1dVb0RndGFnU09EdGFZME9XWEZsUkE1NGhQTGFSY0RndFhPZHBRN0J1dThFVVNQb0g5c1hRcVBDSHI5WFM4djA1TlViQi1tRzFmRVMteTFjN19TRWk1MVJjUjhmbmRHdDZ4cUtVWV96MmFXRHRKYWpKbDlZQzDSAbwBQVVfeXFMTllLRHVhS1pHb2Fzamt6aVJvcThDeUt1M29TX2ZCdWxMU2w5dFNCTU53elRZVkFLZmRhM3J0REk4MVpoMUZZRS1JNGxMQ29wU3ZFX3RxNERWNksxQlVRYXVZQlVnWGNTbmhSTzZpMk90bGNoRWFVUkJTTnRDZWtUQ0IyS1BiLUl3ODFXRnVaZVBXMm9NeFFwVTBoOTNRYnhaTlNoQW1jMEl6OXYzc0hGWEdWWllEcmhDT0paRE8?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala CM Pinarayi Vijayan meets PM Modi, seeks to fast track sanction for SilverLine project",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQakl6b1RoalY4RmlUSlg5LWJKTzRDZTZVOUd0T0QzSVNDUEtJUU1iUnI2cmhicDcxRWVIRzNwbmMzRllKb21tbmswV2Rmekx2d0NMM0ZMTGVpNjVtMU96cGFVRElOR2NOaGVnR21WU2NrZFZwWE1acFV6NENVZWZLOExZN2VHQUdjRjlZQjd2dXRWMFRmMm9uNzZFMnNVbjhjR0l3SUkycFJGeDlDLUhWSnQ3c0Jab2NOdVNIY2FMUXJYMk9VcHhfWEU5clhMRE1VYkRKYlB0ekRLNW9NakZGQ04zc9IB6AFBVV95cUxQV1FDTjNKWEtNR0JuaFZkSmRxNWJlWDZIZEVDcHhmRWM2R3lvcGZmTnBMNFM4SFFKUW5KOHhiTHZsT0Y1VGllN0ZyeDNmVVRwUERxTFhmZkY1VWtlWm43RjR1Z211NXBDcEdjQ3hvU1pfNmZCOE9OYjdvMDNua3Rrdm51NDNUcFRFQWY2YWtnbnplUUNaNnA2WUpYVXFzUF9xazVnVEd1TVY1RU9laS1jWDVTemhuaFVkY3p3bUdsamdkTXR3VHoxTkI0VkhHNVUxVnFLR1NXVWxjUVNQTGZJZ1ZxU0VlM1J4?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala High Court Acquits Ex Minister MM Mani In Murder Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkprc1pYZzNoNFA4SURjelJJQThLcWFLdk9PeEM1ZWZUNVY4RHFvMTZQUGpCTkk1c2pNQ2NKaUwydC1xZ0V3bkZZS1hMdXhPNHpONzJQRWVwOUFLUlV0UkdwVTgtZUc4cnYxTTJOQzZSX25IRldQZGVEdUU3Z1V0blUwNi11VDV5RS05TE4zekd4X2tWZmhZTlExN00xekdvVllB?oc=5",
+   "published_utc": "2022-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: What is Kerala government's ambitious K-rail project and why it has been derailed by protests",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcVNhMUNHd0NzUGxnbEQwRlFmX0QtaGdSYUZxTzBTVVRSbzVWY3A5cGtGTjlJSjdmdWhRejJEdGZvdkE4YnlxWnctM0pBTjFrTEhZeGdaYmhmVDBBcDlNcjkyZlc3aEk3ckJtVWxwdG5KTVp6M1pFY0xEYUx6Q3hFbThSbDBheDliSXdQQ1JTdXUtMFhrQmxlcDloQkZtdUZ0S29OMlRoY2JWbU94bWtoRE81UU9iMlFNMDB1RVcyZnR4RFpua1c4WUpZWV9Mb0twTVRSa05XYVFNbUhfU1VtalZB?oc=5",
+   "published_utc": "2022-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Metro man Sreedharan opposes Kerala govt's Silver Line project",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaEtfcXpGQ2EyWlZaSEZpWlNwUlpYOTNwalVtdUlEV2M1dmlNVjdVLTZMcmRmT0x1VFZGZ3hHTVQ5NUhFZ0Q5WWdON1RHZkU2TEpwTXFSYk52bmtWQWNPMnJXdmhNMjRNNTdSbzB4YWVMbG51VXR0RnA2SUdieFBCa2V2TTB0TjhCVEpybGFKdW43dWo2X0tacm1sRXliTmtwUDBBNEpfMXZvdnV1YmRhT0dneFY2RTF0alExdlhFNzJuSnA5U1VBcU1md9IB0AFBVV95cUxPRldidG5GU1lob3pDOEFNUmlfWG1wWkZtdGpkMHgtbEJ0UWtucWlNWWJLVlAzd3lKUjJPZkhneml1NXExUnd5aS1OcWlkTHJGMU9jQVZER25RSzJoNHRoQlZyeUY0RWVfN3VhM29tbkdTWkdrX3AyNTBhZldTODRLX05Ud0lqS21KbjRYYTFBSzctRzhNTDJjX2RqLUp3c05ERkJ5bEduNjkzNDl6aWt3bXgzSUNZM2VIZlkwbk0wOXYyaVROU2h6elZneVF0aHBL?oc=5",
+   "published_utc": "2022-03-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala woman minister slams patriarchal behaviour within party",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVZqMmFjSVF1SXhpai1tNUZKLWUyNWlfNDlVSkw1WXhFOXhqZWVtUktLLWFJTTV5OXdNVnZhWjJMTnFXajV1YnFROUJKeUpfaG5XZFVEOTlFS0VoM2lwU3JQWHNTdXl3UUd3U0Vva3lBNGJrQnptTF83dTh6YzNOd0VpYXZaWW1TZWVyZGVHSTEzanc5ZThOLTM4NDdDTUtzWlFFSWU5UDVDdTVnYVJocnZwdXh0RUVocnpWU1J4b29Zbkd0Rk53cU12Z9IB0AFBVV95cUxNNHlhWlJKVFNRR2JfYWlRNWNRcGxPbTBJbDdmNTJtdVVSYVRvUVN1aTFLaHVFT3lMVDBGWkhZdFhCRHkyQ1kxaTVlMDEzVjI3SEpjcGVEMDhxNk1iTG5sbTR6RnpmQzk0RFlwcGUwS3JDWEctWExYdGQyQ1B0WFpBSW4tU1FHU1llQzAzTDk0cXNzbktINlVvRHhJampDN2U0bFAyUE9DU1o2ZGxJZk1QSWZmazMzQjdNYU1BV3ZuMTBNYVFPWFZzYjR3bjNQQzVk?oc=5",
+   "published_utc": "2022-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

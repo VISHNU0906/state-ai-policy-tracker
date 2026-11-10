@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "How India’s Silicon Valley will play an important role in building India’s Data Centre footprint",
+   "source_name": "W.Media",
+   "source_domain": "https://w.media",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX08xMWkxa1ZKX2pIWUQ5NUF1dGIyVG9HYlRrMi1NTlpNb1J2RHFzZm50QUhtbHBCRGJSeU1sU20wdE0tOURzWUJVRi00OGU1Z2ZIbTN5VWdwTFQ2MjNEYnZMLUE0MXJsLVZqck5fWUZyS2NKSmdwXzhSSUFfS0JqVlVCZkxlaDRRYVlRM3M2V2V6SmplMmdwTjdjSC1yU0dlczdCWEF0OW5vMllLbHhLRg?oc=5",
+   "published_utc": "2022-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

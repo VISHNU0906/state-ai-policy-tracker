@@ -1,0 +1,13 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "Government file movement affected as e-office system comes to a standstill",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGdjZkp1akx0dE9PN09STXVyeGtoWEU4OTQzRnFaV2h3N1B6QVp2ZUVPNjRVNGxnaVFMT1poQlNXNHZlWE8zSU9scENILWx3ZkVEOFM4bG0tekp3WkxPYlBnZ1BHN2hRVlYyUGJ3SG05UEpvZFNUejJlQzRuV0VmWmd5M2lGLVY0X19JMGZCRE9IcGhjUzNWcGhPZzM5a2swX1AwQ01laHZUdzVtMFBLUkN5dFZXbk1VV1RnV1dPY2gzaHFOLUd1ZjU1UmtTNHBjR3preUxDd9IB3gFBVV95cUxPUl9uUDk3LThKZ0h4dld6bUp6SU9ZcHdtNm1kU29mOUE0XzV1SGdyZlMwRG42UHFGSEhBQTZzYTNsZDhtR3dKOTB0MFJHWUNoVTVyZ0N6MlRjaU14cWhaSElMQUpucTBjRGJhaUZndEtWdUpGSEZXVWV2NGFUVjlkaFE0N3hqUEhPbWFRZ1V2RE4yU0hfc0dTUm96c2tWbk9PTkF6UWpkRzZZaC1Ic1JyV2l5ZXM1bVNfMEtsRmtSZ2dYc2tSeXVJVGdvaEhlWE1xLWVkbklLOEFQbnhaTWc?oc=5",
+   "published_utc": "2022-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

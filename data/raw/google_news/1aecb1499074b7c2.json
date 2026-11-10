@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Wipro GE Healthcare boosts local manufacturing, new factory under PLI goes live",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeXJnQVo1VTRZYThkbGZ5NXVtVWdyZDBHZHYtWHc2WnB2TWRyWGdqbGxmODN5czBHa0otbVpLMnNKdnhMOUNfSW0wWXlQeFpJSnpQQS1aNVg2MVNEd0s1QndUTXg0a09UTFJnamVlSUFrWUVTRkRvUjEtZ2NXYU1UMUdmbHhaUS1DWDhMX3ZaU0FEbGwzQUFuM1FKYTBidU5yYmtHWUpoUGFUamd6OWk0VkhSTlAtR0JWY01obzhIbjJoZXRodXVjejdoVmRZdw?oc=5",
+   "published_utc": "2022-03-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

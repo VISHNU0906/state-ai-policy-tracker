@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "BJP in election mode as it draws up strategy for Maharashtra",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmx1dUNKMmJRQy1ySHFjcmJUSkJpN3p4YXJvd2hJa2QxWWQ1VUszbGRxeUUtelB5WndBNElLSm5lS2xQRWxLN2V1WHRab0xKcF80TFBhMzBzbEZhUUVod1Y5OGRwWnRKTmFzdkk2V2tmNFF6dXNVeHd3WXhiMGpXU2tFeHFIdXlHcGFNVi0wR0UxYlNCdzN5YmdfTlozSlc1UzFoQUhhZ044QlN5eTctR2Z4eHktU09nMUI1RNIBwwFBVV95cUxPQmNnc2JGQnJTY1hLZW96MjZJRnN1b1AtSF9COUlYOGlLYUZXTldDQVhDWWNpeDI2aGlZTGg2TkN3bGhvYm1vOUlrVVpGalRkUVFMMlFINmxkSzY1TXZMY3dDeVRNckhSeGIxRUJ2OXpXTXExTUZOME9HaFE5a1gzZ2xXdnJHaDJIbkhPRGM5bzFoQXBiN3dXXzBDV25oSldwMlVIckhYV1FyX0RfcUl1RGdZYTRieXJxMHc0NWJXVFBVeTA?oc=5",
+   "published_utc": "2022-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Working Efficiently, Cabinet Expansion 'Soon': Eknath Shinde",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQazJ1TV9IV1FaLTNTdXY1TGE5c2pzTWx4WGNMT1hKTXcyazFKMU0ta2NzN3U5RW9KSnk5QUs5cmc5VUpUYXZxWXMySU5iSWxkT3pVaTl5dlllcHlacEtoR2VMUjNPMTFnMWhxRzRvbkZ5MmJMOGZXYlYzN3V6RkNBT01xSmhaOGJNWWlwMEMzcUVBNHdIa0xMUDFmcmFVSjc4T2FjaFZIQjZiYjhmVXR6Y2NFX1JtQzhPTktn?oc=5",
+   "published_utc": "2022-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet ministers allotted portfolios",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWno1R2w3aV9WcU02U2JDY3RtVS1ZQl9zbjhFaXJ6UmZqeXY0NlpZSmlEZk1NODcxNk9sU2ZISmdmSVF6Wk8yWWZFdFJtenV6OHJvTVJEbFVuaDRyNzBVOGtNTm9MdmFHZks1Mk1PSFZ3eDBZZkhrd1U0M043MzExM0JLd1JNQkdRY1pXdGxJVlhtUklDZmQtY200Y3VPanZoZjBBUms1c2ZBd9IBsAFBVV95cUxPemgzRkFyaWpxVWdacl9XdXNvQk5oMTZrQ0RkRkZIYzAzWi1Qa09ocVZCSGt6aXpjVnVOVmNZa2Z4YWpkSENqUUZGckNRVWZMRTZlS0VEOHNSR1NlV2lZTFdkTzFPVDB4UmRUSkRPMlQ5T0RRMmxBbWc5NEpYamtBTmJoSTF2T25wZkcyaXd5TXRNdXZrUzdkOVAybWNQa3UybndubTdTYlkzV3Q5Y3RVOQ?oc=5",
+   "published_utc": "2022-08-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan to launch AI, coding classes in schools from next academic session",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVWtvb3hCc1MzeGVDNjVOVGs1dUYxU1lSX19WaGdORGRyM05HanFBYzhYUjBiX3YtOTFRVHhCY2VfTElndzVtd2RhQUF0eWxhUHJsbDJieEhINDFkVWNtSmRmMURSSXBCRVdPa1h6Q0toUUxkSzgwLXBjamxEX3JIQzE3bGhkMnpDNG1TLXhDUzFMSllTZWREaHBiMzFSY3hDSmJneVgxcUFGWlJNM1ZELVNla2k1RnpVOVBnbzFKTGFQeFVlbWZMLUh2NWFTM0NLbDlUcnZSUFhIOHNaM3dGR3lZTUNDc2lYZkHSAeQBQVVfeXFMT1NWZGNPQjJkTFkzUk5mdkJKNDJYVE56M0E3YVlaVk5WNFEzZXE1Zl95ZEtNcGhBdVkxeWFlUm1PMVA3WmpKaTVfeUlubHJURWdPbGZNVDY4LVZEWFNhc0RtRFRFcEd5V3V1WGxiaFZTMmpLQ013NU8xWWZMdnBUUlhLamZOUGNYS0djX0lUMXhCUW1jaWZZZXVtWjdrLUhJSzM2NXpGQUE4Nm14M3hLXzF6X2JjdHVZYUZHdFUtMEp6M2VpVGROQ1VEWGtKT3NpVTFrVi1acGdvTnJ3Q2M5UW5KSjRG?oc=5",
+   "published_utc": "2022-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet blockchain startup helping Maharashtra govt issue digital certificates to Gadchiroli tribals",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1drbHdfVnk1YkFNTG1fbkZTQ01nN0VJQUNlekRYUEpwZW5tVFBkYXZOd1NjUFIzZFIyS3liRGZxcm94eGFnNm5ySVRnekk4a3ZxVHprYl9DTVpFMW5ZY2R1LXlncHV6MFZXUzZ1NHVucmdaa1o2UU96ZU1YYnZIRTE0TlJNQnU1QXAyeEh0V1pQUWRyeEZTbDRYTWZXcWQydEE?oc=5",
+   "published_utc": "2022-08-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP MP Termed Maharashtra Cabinet 'Ek Duje Ke Liye', Claims Supriya Sule",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEZXUXJ0YlMtcHA1dk9MMmNqTkx3STJFWVVqZ0xtcUttcGdwWWx2Q2J6WDBOMTdWTXdjaGYzNk9qbmN5ckpkaWJRdU03ZkhnS3YwMmktcWZnMkF6TU1QVGpMYTZYcHY1YzI0TFkxZ18zUEVwcG5yLVFXVnlpNHNXcVR1XzNzSWpZMWF1Y1ZUd012cWRXaF9pZERzcnFFVFdZYy1STFRBa2cyRWRjYVZadmtHX0dCY25r?oc=5",
+   "published_utc": "2022-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kochi Metro Rail to introduce AI-based cameras in all stations",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFNZOXpQOFVCYl9ZT216V05uR2U5SHFZQkRzSVk0cV9DTkZmaE9EMndydkdKT0JVMmVLR25xNHhqOUxhbVZSZzN6cWNyNGhWOE43b1dVLUxrV3Y1RlliXzdoeGFIYjhVX0pnOXIzTDNmNFpSc2JSYzJVdFEwVjJIQXY1SDhDZjY0aGR5N1h1Vzhzd3pyb2ZlZUdhaDRqYVl6WEpNdVRRWW5ndlNkTm5NWkVpeWthejZudDNUX1BlRGJGRWlvSzdJLXZ3TzhBd1hY0gHWAUFVX3lxTE5IX3d4S1F0VTUxa0RXMDd4SXRHSGdvam1YeGxpZWtOS2hfRzNBNV96Y2VNblM4endGcnUxcXcxNnVubFZuZjcyaHBrZGtjaHlDZmExbXhwNlc5SDJIV043UWJKMEVqVnpwal9pLTNxa292bXRYR0RnTWl1c25KYjRjRGFleHFfaWpvYlB2dTFfdjF2YWZ2T2p0dFNwX1o0ZF9Rb0VUUzVIY0xQQVJvZVF0RkIwb3pXa252NXdSYXRKRDdzRWtnejVCeFJtOFplN3F1MEwtaFE?oc=5",
+   "published_utc": "2022-08-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"May Not Be Qualified\": BJP's Pankaja Munde On Maharashtra Cabinet Miss",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRV9Rd3BUeU13NDE2a3AwTGc4SFNQQ2VxOUFiMGNHOU9IX1VJVE4xUlE5eHdkMjhFQ0g0dDlJd19kU3FGQlltSDFwZWNxN2RtT1dCZlZ6ZWh1RVZlQi1fR3F5MHBhbHI2S3Y1RFhnUHZMQnZCWU8wUE13ak5BTmhZZGduVmNjUWw2Z3BweTNPVG42b3BmQnlnX1R3ZUlPZ1lEMWxTOQ?oc=5",
+   "published_utc": "2022-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet Expansion: Maharashtra Finally Gets Ministers, 18 MLAs Take Oath",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnBOT3VjUFgwUDlJdjRRSDBrTjFmSXdNLWxpNVJRdUFXTHprZl9JVHh3aTM4X2ZsWmVmclI3T0FjNjluaVk1SDJSZm8xbFNHVWJ3T2ZSVDJSRUxlYnNibnEwMzF4cDJ4cW9UWWptdTBYRkg0WmVuNEpuaWhwRGxHak0yeVlYWDFORGpoU0IwWHFEVlB4em9taGY0d2dGYVlQVVF3OVpzZEN5VFhUcnlrR19Ya2VkblNTVWpXdDBsWnY5S1dwYUJMQXRfYjgyYmM?oc=5",
+   "published_utc": "2022-08-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt announces free travel for senior citizens above 75 years of age in all state transport buses",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVl9uN1lnRmhJVW1zWUdRTXI3eDh4OGhLaVZldjhjdmFqRExxamp1YjRlOEtNSGdfNmppcHNrY1JrZ2pjRTFsemYxOVkxeE83N2dRQXg5d1h4UnlfeFVxTFE0UGxjbHpYLVNzRjdpTUNFSHczYzZuX3dqRFBnUTA2ejZ2eU9LeTJER1ZKQzFlR3paUm5hS2wyYXFhcHZFaWNlaGVHYTBPbGxlWGFmbERmQWVNamp4QkYta3dUMDZCRERRTncyOGxFZ1MtLW9fRUZXWEd4WVNnWmdWdENkSHZJMFN30gHnAUFVX3lxTE03bTlfTG5ycGVSZXA3eDk0c1lTck45S0dwM2lmdVBPTHFMekVNYXAzWHJWeWtlQy15SnFwclVqWW9xU1BuZGtFYnJ3d0QwdTJBWWtubXdIWUNWSTlrRVZiS2xJM2lwS29fUVBZdTJLaTQzMG5FVGcxRVhaeFVqdUlWcXBuUlZGbGFDOEVjbXAtMmRVd3FYNGFGWDNxS0hfTGpEUmo2TW5KV1ZEWUVJMmhrS1Ric2R0YzJ6WXF4NzFPODJodnlSQ1VCR2FkVVpiVEp0QVNCWjlwalc0ZHdfVnMwNTRXNTUydw?oc=5",
+   "published_utc": "2022-08-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

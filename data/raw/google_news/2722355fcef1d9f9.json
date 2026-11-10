@@ -1,0 +1,77 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Odisha CM inaugurates Happiest Minds IT Development Centre in Bhubaneswar",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVk1VZjF5OXNlTEFaSF9MRjFaRkQzTTFvNUtNaHMwVklXWndCek5qbXRIUmN5ZFZXOGpxWWFGTHRaMTI5S0drNEpkMFZDNWw4bS10WjlVWEpyblNGY3Z5ZnMyNGtwUklSV3lydnJHYmo2dkJTWWE1UnIwZ1VYcDJWMHhfR1NBRlFhakNZTDVvOEszd08td2NfMklvdGltQzAxNGVRbm05OUxLUjVB0gGyAUFVX3lxTE04czVLeVdmT29lY1cxREZmR1I2U2IwMEpnZ2QwdEViTkttWWtsUG1PZFZxa0x0dnQzLXczUXJHUkI3aW9DYVZxRjYxajV3Y3BILTE2cmNsVHNfSjFsdFRzZFh2TTJzRW5wcEVvWWc5VnpWbDUwTHp0Z1ZLOGJfMVlXRTFLSGJvS0hlX0UyT3N2RFN0cFhJUHM4THctMHRsek14X3g1VlBCamo0dE9NUS1vMlE?oc=5",
+   "published_utc": "2022-11-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Govt creates 2000 new Medical Officer posts",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2l4QnBpUUhXUzdKejZObUFEelNMNVJoeWVqNXZSSE5MQWlVSGdUeXVpT3ZXS2ZNX09qUDhlNDhWRTVsMUMwUElnM3lLenNDd2JONVJvbnV5aXVDZXZobDJjN1ZDYU1SZEZZdEtUSThGdGViQkY1WjFHZC11djdrWjM0U1FER1ZVaWJ4aXhDWUtsSWNEOExkdEJFZU1zNHFmd3dsODJ4UmjSAa4BQVVfeXFMTWw1U2o1eXBNSGdXSHRIYm5ya0U5b3FvZkJ5UkpFeGdwZXA4NUVDUXNHTkhpcHJab01XV1ZwNDFBZWVIbVNMeUotdnM1WERGLU5TNHBMeFV0MzlpaTFVUnB5Qy1HLUNubnd1dDd1ajg3eDg1MS1pU193OERLQ2dQMlBwUjRYUW5lcGNmSE92ZVc4YTRNUmpFRzlScEptMXRmTDJGS0JrMmZqbEVuYVRR?oc=5",
+   "published_utc": "2022-11-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cabinet approves Odisha State Policy for Children-2022",
+   "source_name": "The Statesman",
+   "source_domain": "https://www.thestatesman.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlBNSFhoQmtQNFAtWmdlS1F1dGwzNzJHcDlOa052VzRxMEVsd196N0VYZzg0TkJzYUVmdFc1LWFwRTBCY1kwYTlsTkNwMTUzYW1UUF8wOWNtZFJnbDhtaVcwZmJKYUhRVW1YblphbUZlcDNHX0RKck5EUWcySDZsSnhYbkRUS2IydERPaUJSVkpoVXR2cVRIdjJYUUhxMUU4bmdrNmMxUHDSAa4BQVVfeXFMTlZrSHJ3TXlCSXRPQ0c4UVFLRWRpWElDdWhBNVhFcGRJQW9zb0s5RGZfcWlEZVVLZW53ZjlVOVY2c3JoRFFjb1ZBYUhLUFpZMUNjaGN2bUJQZnpoR19vM05LNW1JUzBDeFdRTUV0aG1kazl4OTlzT0t5RmF5SVpmczZpTXBWOVBwNGxUc2p3clQ0c0JQZmdoZ2MxMnRrc0txbzk2eGFuUTJOSVJScWRR?oc=5",
+   "published_utc": "2022-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Make in Odisha conclave begins: State fast emerging as fulcrum of trade, industry, says Naveen Patnaik",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLU81YWZRMDluSlI1V01jc0ZGRmFuVDU0a0FmN0Zib0lCcUdTdHRRMmc4SG5XSEh3WnJJRV9ha2IwQ2xFMzlHUkFpQm83TVdJRXNEZHZaa0kwdWhZb3lpbHFRUERqWGRiYURMUnBPZ3VlbGVFaXhYOVpMdFNGbmZBY2tVeVpuVnRoY0xWSi1OU2RSOGJzQkxlcnh1d040cUkzdHhna1h2dG5iSmMxTmhDS3V2eWs5U1diMUZkTEJxRzdwSUNYMzF0VEFuWjMzcXFlQnp5NGZwY2NlTl9hNE9YODdyTdIB6gFBVV95cUxPVjFqV25WaG9JNlJIcFJjNVZmN0Q0Y2diNE9SNEJfS0MwT2JGbkF6U01oVE80RHNzSERlNzVwWjZCS3E1ZmRhWG8ydG1mQ1pUQW05RTN4UDhydE5YZm1BS0tqX3VGLWVyWFJjVm1ock91S251TVdoSktNNjltdlU1RXV0c2lQcUdSNDlZeHBCNDh5NGliSjhUWEFGVmltS1FaRFk3aWNqMC1LM0RraGxwZ1NlV3c5YThXY3VmZXlQVmQxUU1waWZ2a3dka3AwTkVkMXVZbVRVbTVFNVY2RFh3M09ZQXktZWl0T3c?oc=5",
+   "published_utc": "2022-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM inaugurates Happiest Minds Development Centre at Bhubaneswar",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON01ubDY1NmtyVlFCRUZGbWVhTzNMN2RkV3UtTExXSEN5eFB1eWhPWGZ4VE53RS16S29pd2JZSS0wRmNvc1IwbTdTMGZlRnhFekMyQXAxM1RraXNzTjN0NXZYbmFtMGdVTk5ZVGJDS0VteHZmS00tajNqNWhNMDUydnlDMUtrZFVXVmo2cE1BTlNiWXVmcmd0VzZFZTJyUXQxUGdwSGhCWU15T1k?oc=5",
+   "published_utc": "2022-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "President Murmu arrives in Odisha on two-day visit",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDVaR3ZlbE5RRXcxZzFBbjZKTDQ0bk9EVm9SOV9aQ25UR19FSFBEYThtNGUwNldMNTRvSWFyTkR5bGpWM2JhRzZweVlQc2N1VWg1aU5IdE1HN1dDaVZVTW5vdHRiT1JyMWw2dnRFUUVxYXVka2NwLVhSZVEzcVF6c2NfX1JLRFdnM0tTS0hyLWowYlVaeGp5Mlk3X1dZN2ZSWDg5MVlzX2dWdXdDQlQ0ZmFtQTDSAboBQVVfeXFMT2NXWmxMWk5UVm1IanlJcFFHMjNRdzd0NnZnSUoxa19pSW42eExaQW03Zm52cjFVN216UFoxV0g4dWlITi03S2daeFVzZFN4U1BYcmc2TEkyMXBqTzVQRmQ5UUg0bXJ2TXRPemU2WXNnLU0yNmItQWpyYWh4VGhUdG92emVyakczZUFKbUVEWF9ROXRQd3VSdUZhNllVbU1KaWVrQnVUYURPb0puTWlxUGtmS3ZKaC00ekJR?oc=5",
+   "published_utc": "2022-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vedanta Aluminium felicitates HSC exam toppers from Jharsuguda on Children’s Day.",
+   "source_name": "Vedanta Aluminium Metal Limited",
+   "source_domain": "https://vedantaaluminium.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGZ6MlhpNlhaZlZ6NEJPOTl0YnJUNVBPem85QkZ4WkZMd3hrRmR4X0tiY2Qzazk3Vk82NXlNTlo3RlZLZVZoOTAxeVc5ems1ajMwTTgwbmx5MHFOOUpVNEVwVXdlSk1ER3pvanpINkVWcjJBbnM3VkpXVURuLXZQTXlFZWxhaUY5cFZwdEp6MkxQRnBkb0pjbGItanZMT01wU2pGdWNIa3E3VDdOMjRObEZudzVFQ1IyYjJuSEdObnRNTEI5SVI0d2poUWl5TWF2?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vijeta Programme Helps Govt Schools Upstage Private Ones in Odisha’s Bargarh",
+   "source_name": "Indian Masterminds",
+   "source_domain": "https://indianmasterminds.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQTZ1WU1za0E2aS1EZnhLaHE4cjZZMXdvQ09feGs5U3hwVTc3WWZTMTExWlpZYW0tSWxqX04zc3NkZWFxUXA3cDFyVW10T1d2dEtmUHFDSlczbVd5dHF6clFocmNGbEJ0SXBRZ2dJaGxfX1p1OGI0RF9kZWpOdGpWcTVXRExwZ0NxX1JQTlZDNTRfdTRlUjVMNFN5OXRWeDlqOVcteEZUX3I1ZzdBeVRPal85enkzSkd4UW12YUdjZFFEdXpSY3hkZTl3S2ZsME5jM3hFRF9PY1dnamo2NzJnT0ZWcG1UVG1Uc0NHSA?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha government makes Odia movie 'Daman' tax-free",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREZTQktTZVlQRkJhdWtYZHBES203S2pvUmFoSGExUkNCb1U2eWE0MHhDLVh6R3o0dlByYll4R2tBUEtyR083Z1ZmQzJtTlZSSms1N0FQcXpYUWY0THRZTGtUTE11bkJMSEItOWRoQnROOERoY0MwVm9wTmhDN2xSSlZNYUYzZ2dfeG9JaHNxSQ?oc=5",
+   "published_utc": "2022-11-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

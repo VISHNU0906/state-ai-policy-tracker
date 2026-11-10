@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "T.N. to become largest IT hub in Asia soon, says Stalin",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDVOY3hpcUFnWFgxSHZHRlEzdGIwSXJjNmRYaF8zdGVXTXV6X0FFcHFzYkdaTnFuZ0hRcGlaV1AzYk5Hc1pPbEN3N3E2UGFFWl9UQjk4RFFjV2RSTWFDTlFxSmdCeFp5Q0E4X3paTlNndWV2STlxWFNYSFRTbXd3UkhKdDlfRDVieVhRMU14NjJfa1hfYXI4djZYRnhEMUU3N25ZMDRjb3hjakowRmVxS1hMTFp6UjNNZHd4RTB5RdIBxgFBVV95cUxNQ2xyTlEwNlhRUlZjUWN6eXdZcVZvY2V4dk03Q1VBX1dLQzNlNFpFcDlQUlJGQUl6UmtZOWo5ZVJQbFhGZzBYbzZvbG8zQTR4STNzNk5haEg0SURVQTZxeTJsMTlwdXc1RzVxOGRBeEVPMmtnM3N2YU8yMW1ORmViNFlfcGNvMkY1Z1Fmbkd0Si1wTGcxbVF3TVQ4OWpRdE1ER0tFQ1dmb184RmRWTmRIb25sdGQ1MFNBUkJSUkpIZlMwdlZOQ0E?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt unveils logistics policy, aims at reducing cost; proposes incentives",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbXBmV3JiWUM4ek1rUXVaX05VSG9SQUcxaUZNb2t0X3pXaFV1R01vQXZJem9wTGU3dVhIa3h5ZUlHTHhkTDhvWHI4eS1SdDZGYWlRakVOSGJGcVllMW5BQzJYd3FPMHRuMEVwbVREOGhmbnBhdXNtdWN4OGFISjNZTDhtVGpHdS13eUlpME1DbkFzR3VsMDZIa0hQNUR3dEFPVWJYd3pac3ppakFKUGpybkhvVTdTWnVPNThSNEwzXzJFejZNYmtWTUdNdC1QRHJhYjVxTlo2MNIB3AFBVV95cUxQNzQyR2tJbXZEU2x4dUJmNlREZzBEdEZvbG5ub0IzeF8xUTBLM01tcHlJeFFBOXg5aVpWLU1tbUdsc1g5c3dFZm9ZVEpqNWl0eXNpYUtnNGhoU3Y2SnRfbU5Lc01GbmJ2QnkyMk5FTnJUOG9WV2FFVnJXSXYyUDNVd05BcWxQaGNPQ1M3REVsV0taS1RFcG9aQWhXNmxHX0xLbjBaZExzSlZQdmktYXozblRDRk9fVnJmY2gtMzF3ZmhfZ1VqUTByczdpZ0JrUU5SRWpLTjdUU1VrUXUz?oc=5",
+   "published_utc": "2023-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "At Tamil Nadu Event, Kerala Chief Minister Slams Centre's Language Policy",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV90RkJSYldSN0NmUDBTX0lfMi1xeG9LVGtra3M2VUd5MWNCYU1CNWdSZmhLcVhIWldHTXJLczU1NWw5Ui1LRnZzZFVFV1RQd2c5aGIzZlJ3VDRva0lEZ0I2TnRUakJvMGpfYkhrbFMxTVU4Q3hfVFVUd1lGc1Y3cmxfLWt5Q2o3RVlzZW44V05RRUNDS0o2VHRHZFdfeWxlclAtd2dvV2phc1NRRU5kZ9IBuAFBVV95cUxPTDh2cGFhWWFRWkhvNzVQUzl3YXlCMENLQnJ5cU1HT0M4YVdieDZCVUdCWkZmS0txcDFoVWhLTlVaTlNNZ01PVVRBYXVvZnNua2c1THI4TEY2LWpwWWMwa2pCRWVIbGctc0J0RmpXQjI3cllFbGR5TmRFLXVYM3dGTFZQRDRvRnp5RnlSZnJyNnNKVUxzUmhUTlNwdUtrbHJsSkF1clNjRzJzVXczTDRKQi1xLXBJRHpD?oc=5",
+   "published_utc": "2023-03-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What Tamil Nadu can learn from Kerala on how to treat migrant workers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmhQbkVkRHpNRndIZ3haU000bWxyOTdTZDZyOVRKS3F1ZndHM21qT3ZrOEVqMzVrWjhudXQwazlMZmg5eFIyblNBUGdSbHNOXzBGNnNBN3lTRlBvc2gwMmszNHltRXI1V3U2MV93b3ZyUlhHWDZCVExzS1ltaE5CbDFTemR5UDBpbXNYTFh6RnUyT25KUVp0Z1Z2YWNGOWVxWmZJOGxQUzJSaGh6WjNIWUFaaFpidlhPR1HSAcABQVVfeXFMUDFuU0hJMFROVFQ4ZTRPcEZZLVJnYUtIcC0xYmI1c3N3bFc0aDZGN05pLWdFSl9YSVVmSFltTWxrTmxRZWFlcC1FX1k2amRlMzhTOWJWMDlxTy02bFFIeFpITFJQRjhvTFphbFZEWTRrSk8zalc3VGlBUS1sdkQzSC0xWnhrbHZaS1JnMjRGb1E4bEt2MXBWNmdrb3NwTTc1aGlCLVVLczQ3WGNvVFhHd3RDektQa2ZObHpRcDc0OTFp?oc=5",
+   "published_utc": "2023-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MK Stalin turns 70: Litmus test ahead for Tamil Nadu CM",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZU1NbkhjZlQ4Vl80dDNKdzRYcFVkMDhkRklvV3N1TGZhdlRCRUViODY5R1ptSlpCT2xJTjZKVVp6TXFQUWJaYlRiX3pUQ3FnU050WDZCQjQzaTc5QmFVYnV1TFh3R0xmRWxnRTktWGxxLTI4UEo1R0NjUzczeThPNEhid3p0U1lmeDdrdFBxQlpBM1pjbnJBeDRiN3dUQllMN09GRmdNaklyekZSLXZLY9IBtgFBVV95cUxNelpzRUVJUWNWNzhobHlGWUJzckFBV2tBb2VENzhaT2Jma3VRXzBMdUpJZXI4aFI4RGo5ZWZmT3FGbklXU3lPdmtidGVJRDIwbkxZeGZSTGthTV9uaDd3Y2I1cW03R2NiZG5zYzJVU3Y1TlJPZzZpbV9WcXVFeHJicDhvSkY3X1EyRERJRUgwUVYzWjV1MHd6SHRaNFJDNng2OWVQWk1BaFBVeUYxOVhaZWRnR21wQQ?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Government Assures Support To Bring Indian Boy, 2, From US",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2RSak9ESUk1dU16WHdQaC1leVZvalp3bXN3RzRfdkdCWUpzR1JFQkZKeUlXVU9MQzNQOFlTRm9CTV8xVkd0eFpGNENNaHJFWEVYZUVOaXBVamo2SzcyMDNjcUVHRVg4ejRuQ19HbVlwS1JXVWN1bW9PbDZUaVFUdFhTZnV0UmZxa0Z3cVctSlkyZFp1dGxTSXd5UXBpTlNFNTFPSV9teDBLbWJrWXdUdldR0gG6AUFVX3lxTE9qYXY0Y1RzTUUtbXZ1d0g2OXJNdDVpLWhDaXA4Q1VVcWR1RGx3SW5JN2RyUU9NSDB2d193bGVBUzZ1VUpUTTg2d1RUeXhlR21hQnZrMmVIeTlaOExvR05nTzF2WHZpclVSdEZabEh5a3I3WXhMVTlJZkc2eUVtSnU0N3NkZ3htSzMzbGNQMHpHRWhreFozQURzWWFKWVNLdGR4V0V0cHlYMTVYWjVPb3k4ZEFnS0RiRUs0Zw?oc=5",
+   "published_utc": "2023-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Chief Minister Stalin Visits Migrant Workers To Soothe Worries",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3E4cW5DSTFZS1lEWG56V0Z1U3BMYkFXWkVPdkthbE5zdXFSaG1ndG91cTBMUWN1eGV2VnlBdVhZUEs2elFtdE0wNEJXVEh6ZkFLcnQwR2tNY0tvQTRwbGRscGhWcV9Ia0FnbDV3WUFzUjlPNXJQR2FJbHB4WndXNjhrckFqdk9DVWNwb0QtREZfR1lTcEw4Q0YtYlc5d0p3akhnY1M5Nk9iTVZ1Y1NPOHhpRdIBuwFBVV95cUxNRVoyN0JDVUlTdVRETjJjQTd3Sk4zb3RWcV91ZHY4Z3Z2RDNRUUktMllKeDJzU0dzQURpaEFJZVlBM1oxa3NiVVB3cXI2eUI4TzJuamdpZnR4TEEwT3dEc0kyUUpQLUFPVTdkby16VnlvUnVkTWtzczNQcTl3WWN0ZGRyam1USngtV0FDMGp1cDY2SE9iYUtRUnZINFlHbk1sNmdPeFNtZVZvRWRZS2JBbWRVejZON3A4YkNJ?oc=5",
+   "published_utc": "2023-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu government announces discounts for ‘Frequent’ travelers on SETC bus. Minister for Transport today in the assembly announced that people travelling for more than 5 times in a calendar month will get 50% discount on their sixth booking. The offer",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Da0xROFJQNFNqU3ZTS1ZtN2Izd0hfbTJvSFlOYl8yZ0JUbGE3QmVldm1NUkllbjhiT0JrdWVMaXhBSTRmMUVzZFVraU5yM0pkY1E?oc=5",
+   "published_utc": "2023-03-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Chief Minister MK Stalin Turns 70, DMK Celebrates",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXhlOUszM1Uzbmp0ME1MdXEzeWZTdmlIQTl6V25xaTJleWF1ZlF4c3BYWWF3cEl0eTd2bVlQS1ZQUC1TU2J0bjhfLWxLNzQ2MkN1YU5vTHV5UWFjWVZMVEsxWWpFR3lTcWpIcElyT2FJYldzTDdHY0Q0ODhtXy04b1h2TW56X002SE5Wck1uemZVME5xS2dTM2RhdFB5QmEtb0s1a0xpQdIBrwFBVV95cUxObDl3VWFNREloUWN5Tk4zUzJqTVdYdkhkYXF2OS05X0NWOUpqU0xYcElkQ0xKa2FpbU1ud200Z2ZvV3dYSmxYTkRhRkY0VmlOUGRpY1NDQW5VYml3QnA4WkZ1d0UtdGFBcnlUMDk1a1dtemdDXzhhR2h2blZqNk9NQTM1eUtyUVlTSzRLeWgxeWlBNlBCOHBWRlpURENhQldoblR0RXFiRFRyUHduSmFr?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "DMK MP's House, Car Vandalised By Tamil Nadu Minister's Supporters",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDJucllVcFNUdUx6ajdMeGpMRVVFMFlpUklTQkZqVzRJZmdud0JUR0FQc1R5Zm05NS1oTEZsS0lPZVZqR0hkTFQwei1yVTN3S3pMRkI3OHlqcGJqeHg5YVNmV1F5OWZLMllCdmtlaXBLTU5jSmxPNUFYQU5Eejdsa3dZWlVzdlo5dUt0MVpEaGVwUmtsQTliM1ozN1N1aFplckhuVVNMLW84eWg00gG0AUFVX3lxTE9Zd00yVi1YWVRBUjZlVk1BU3liUFQxN2hqRXhaZ2VfQ01ubzFtQXcySFhkdDV1aUR1Q01xbGF6bXNwdjkzc1VRcEUtRU0wT2ZwTkFZaHFydlpqcWVfM3ppLURqUENCdEJRWW81ZXdzRGhBMzhZOUEtcnR2ZE5TMlpVSXVzUGc0RXh0cDI0UWlLTnBOZzRfN1dFTUUzLXFaalQ2MlY3UnZzYUo4TmRwaEhuM2xMYg?oc=5",
+   "published_utc": "2023-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

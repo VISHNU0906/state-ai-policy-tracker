@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "Export duty hike on onions sparks fury among Maharashtra farmers",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEU1Z2pETy0tOWdEalNobk1nQU1iUEFnYXY0UHQ2eEllTkFPOURJdmc2TDFvd21ONFpLZU5kT0YzNGlTZlN2R0VxLWsxRGV0dzdCc05pVWE0Um51QzRhVl81ZEpXaXJobkhpU1VZUHI1UnpmWHZyemFGNUd0VVZzVUlKWE9sY2x2Rl85OVF3M3lua3Q2bFB5QV9vYkVsQmVlNVoza2FJUUtkMk5saGJVOGdEa0I5R3ZyVXZnRmM3X0bSAccBQVVfeXFMTVdKUXdnWmo0Q2dfM1Z2c0ZkMll2ZExHVkFWaXdEV3FrYVoteklyMXVNMUsxdk1yeXVyS0pyTEpVVVRZdXlDYUhZS1hCX2g5WnZBTWhBZlE2SFhZTlUzaFJnSndUcmZwZXB5RGZsOFB3TDNwN0VYb3NrRTlsVnhCbHpaN2Q5UGZzaEtiUmU4NzJqb3NWX18yZ250eWd3XzhwUzNqemJfLTNvMjNnSGlrM3dSczlPT1V2bVp2bFIwOFRCUzRNclZMNA?oc=5",
+   "published_utc": "2023-08-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra to install Kerala-like AI cameras to detect traffic violations",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ25nNjRwUzRZczBrQ3l4TzVwSkF1MEVwLW5zeGZMUkRGbUFSdXJld0FWd0tQbFV3V2k1dW1DYjJJMUM2QjYtdW9UdmpoYUFqS2twQlhxM2JjNEN5V2Vkc2NtNG5yVmtpR0RQY0pNdlZKSk1CNmlYTFVvX211T0JMQTRFcjMzQ1o0NFRPSUNfWFVkQklKc21yZHNDMU1XNUhVa19JaEpNbW1BQ1N6c0xQcE1ZVUxwZWRsZkJtX0owcTNscXVId0Njby1OWGtlNTNBak9rUNIB2gFBVV95cUxOUl90TXNaM0lQVUQwZDdBdmdBOXJtejA3TkNlaW5EY09DLXg3ZlYxT2x1a2pmN29sVlJFYU1BdjN4YkxEeTducUk4QV93R0stMlJla2FLcTZFWDdCZ19rcjZPYUVUVFZCT3B6TjBmeU9Bd1BxUk5QU0h4RjZ6V0s0V2JnMFpLVUxORzNoXzNURVlQbEY0QVVhLXRVYjAySm1TNWU4U2JYZHJVdi1CdzRqVGZOOGdkMDIzNnlFOS03UHY3RTRSTUl0U2ZaSlM1bGRWeFdiOVpqN3Z3dw?oc=5",
+   "published_utc": "2023-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Government Hospitals In Maharashtra To Provide Free Services From Today",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0hyUlZad1BMVTFGSTBkVjZQWFZEU0Z2Z1VJVFdtZW5pT2x3c0hScHd2aGNOdDN0MmNSNkI3RHZwV2J0MFVsZi1icUtmRDRHVWFMWjN5YllqRW1KQ0RlRjBqWUNMMmJBRG1SY0dZdjNhbERmZ0tlcENkeDExNFJNbWRGTzRuQTVOR2FUeXNGdUdTcDN0cXN5ODVlcmcyMktabmU3Rzgya2k2LTVaZ2J5MNIBuAFBVV95cUxQSTNXbnY1Y1JBZkRhQ1ZpckFQanJJbXdzZlFtYWZJc3lrdF9mUWpwMDdNb2Q2Uk56STdwcl9wVEk4VFY5OTJrVi13cFlza3dNbXlkOVFpZnRnaVZlS2lDWmRJSGNyYlQtQnpKcHdNSkhJeFdZeFY4Y24zQlVMV2YxbTJOcWRKRTN5anoyaHdXVGZBWmdGOWNtbjZybllLejdxX3o3ZWtHVHJtZUl5aWd2cWx2Vk9mcU85?oc=5",
+   "published_utc": "2023-08-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BRICS nations must create space exploration consortium, get future-ready with tech: PM Modi at BRICS Summit",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcnloME9KM0U0RmxiQkd0YWVFeVV0enV3YXQ3c2xyRG5WZWltcEQyRXRYZHJMUTdjaHpKUW9xYXJXTlg3dURfckxUSTkyVEJkaVJDYWpqbUEyaFJ2OWN6dVllbF9fZHk5Qjc2S0YtZWN4Xzltb1YyWGZHZzM1eVdqbFhLSUpkSzZWNld0bTRweURtX0lGcVFJdUw1S3VIcS1xWU0yQWdWOHIxY0lZNjQ0bzk1aUdrLW00VWljcUxJM2VyMHhKVTVGMXlmTkktQUNFU1lQTW5ENUdvbVVCbjM0MHdDaUZCSGFCTjE3eVM5Sy1OM2RwbHpVdldZdVpDVjNDckpEb0tRZlh3QdIBjwJBVV95cUxNY2syalJKelpHNEg3Z19NSXQwVGV2TTlGWWgxRzZtNU1JQ3NNWDFCdjRGd1dBaUxNMTNURmdab2c2MC1renhfNG1DNnQ0Snd1Y3lSNV96RjR2S0JMVWlybEFPeFFiaXVRSGFBamJkaXc4UXpJLWo4TDdHRzVGQl9faFlaekNwT3AzWjR3UG1jdDBmZnh3ZmRQQTBxOFdUYTdCZUdFM3pXSXRzdFRLcjRBSXhNVThBVUU5dWd1Rk9jcUMzb2ZLeFlaVnpZbzhwVkowWFJLYXNILXM0VXpfTDhPM1pzRGNMcjh3NkdaeWdGODVzNVF6enA0Vk5RSnZEMFE5SU0zR1cxY01tc0VncVZF?oc=5",
+   "published_utc": "2023-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra issues order on free treatment at public hospitals",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakRQeFdIbDZKSFp5RE8yd2syM3ktZk1UQ1VocThvcUdGREhfenpibVF6Q1R5NENWdVlFUlFEeVc4WXhtVTZBUXI4Q3BReEhHMDJVeG9SNUdqVFEwUUFtZGpVVGUxVjlLZTJMWkk2TGxJRU5oZ0ZOVFA2cDVxUW50U3FGc3V5ZlJrZ2hfVGJYaHVZdkxTc3RHNWpleFVrcVBkcXIwTWlJVWFnTXFNTUNNeGstZWRWdFBPdHZF0gHAAUFVX3lxTE5Obnk0aTAtbjZ5eVN2bDNHUG1QNzJyZC00YVZ6eGtXUmpkcl9EWlBGUm1OLThPNWxDdDVGTWhSVjZKWGQ2N0M4eXRCY1NRc3ZvUktnOGRSa3ZzRDkyTHprUW9LZWxheVgwSFZiTkZDT2N5TW0zeUgybTN6RFpvazJLT3JXZjVHaEMtYmRWVmhTTFYzV2dpXzRzNUVMX3FyNU1rOXlnZFFyVHh3Q0JRMC1jTnZYWGZtajAtdTl4bVhLUw?oc=5",
+   "published_utc": "2023-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Civic-run hospital in Thane sees 18 deaths in 24 hours; report sought, says health minister",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR0R3Nkw3cVA0aFpPQlZQaHUtYnh3aExTcm85WmJPanlpeXJibno3eDNtM2pZR3ZncngybU9qck1Bdk95LUl1MXBMQ1RwaHhZQjBnUGRjOThVRHRmdTB1UFBhd21FMVdLREQxWnFadWdfZTRpUDE3QXRVODZELVlaN0FBUm1Hc1ZMSlBRc3FienUyemZham1lYUpqZzdrNnFmaGhLR09nNjg4elkwMVcycnpZWU1PZ1FUcnFNYVFnQS02aW1QQUlMOHpQekdBaHRzcDJtempzY1RwQVIwUW5fM09WbzExOGQteHhXTDNB0gHzAUFVX3lxTE43cTdIakdkREM5Q1dZckJ0SEVQY1hGejJsSVNXQXYzS1FWZ2tVYk5RbjJtc2RWZC1kaEk0eEVOUmpxOUE1ZDkwR2xsWXhpekY2TEkyZEFrRHh5QzJ4S0sxVndIRldvVEVBb1JJMGkxeTNiZWpaQ3Y2SEZuVlBvcUxEVTJ6Zlc0MHhPTzlLNGRVaDZ2c213d3ZnRThZMFpQUU85anF3WVg0UTJTLXN3Ny1scWtjMm5mRjUxbzZiZ2xGUHUtZGxuSGFuUWJMWHZfcTJrU196RWstV3pCRHVuZnY4UFN5UEozQ19WNVJxRW9RUmRxTQ?oc=5",
+   "published_utc": "2023-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI based Bhashini integrated with CPGRAMS portal for grievance redressal in local languages",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlJOVTNsM0ZWbGNweFlnSGtXU29VaE55bFRrSTAtdGxjdVhzeGxJS19UdWs4UXRsNW4xV0xsZlIyR3U2M3NGRnZXZnE0WXpTZnRhQlI0a3NTM1VLZUxTQzVPMFNnejB0WXF0TWg4U2pKMXFlZmpUaXE5SzNQUUpyamN6MzM1WVFDLXJJbnQ2QTIxQmUxX1piOFRocTNpX3NDd1hyclh4Y1lXcEM3MWFwa2psZDRKWWRxRFl0T3pTcktGcTZHODgxZWhrRm1SNDJsT1hXZldHTG9JVDNwbDlXZEpJRFBYbnlmbVh5QkFTcFh1WHhxMkJNSdIB_AFBVV95cUxPS1hhSHBEb3g4ZmVMbTFyaC02WkFGLUtnNHV0Vy1QMDdFVzNqRjZ5M3Q5aTJFbEw1dTlYS0pLQzEwTEdma3VQc0h2UXktODlVWFFWV3B1Y0xNSEs0Nm9qcGhDSkViZ0VUckVHVms4Mk4xbFdKNmI5UktWM3B6d1B6SkhTS0M4Z2hRa01BaVEyNzRaUDh6aU93bjUzblJLN0wzdmM4SkpubnhhMXRTTDdYR2o2V2w3YW9uMzNUMTdfaUpacUI1YVl1SnNYNXZYUUR4ZC1UUUF6T0lEMy1nYzkzeUlDV1R1SzlJV2I0V3JGVHRGeURSeTQySjQtN0I?oc=5",
+   "published_utc": "2023-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI to solve traffic problems in major intersections of Lucknow",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2hyWDQzM1U4ZTZuNDh5ZnpOQUZSM0ZxVXVWcFlsVU8yRDlVQktMU0ctaG1WOTI1V3ZCMHZtNnh4R3REa3BWUkx1LUdkRG5KYzFISERWa01kOVFnQU1mOWlhS2JGeXBCa1JDQzEzajNSdFJGcUhmczRDcnJpeHA5V3lwUGVmZEZGcDNJM2dwZTU4RWZpcGswNUZaX0VQT1lPUjVGNkJPWTlkMFpFTGJqdjEtOTlRRXFETnh0TW5ZcG1uOWhmRnUtYW9oLXFocHlOY2REcGlR0gHaAUFVX3lxTE94SzZCTUZqeElwNUZrUTNmQ2hnTFp0WUVzamZwckEwbXliUmpkVkREdW01QXl4RDZJZER4NUxlMDNXLW9zcWZ3SjB3dmE3VnIyT3h6M1RRR3ZTSHA4U0JiNjRjdlRhNkJHakJGNmFzTjBvYjF4SHp5SDhNZ0xfb0VZS2NoUC11LU1EYW1jUjlfS0U3TlRpZUc0N0h3di1wMkV5TnFVYWNQcGs5WkFLUlBwRk5JcEJTTW9fVThXRUVvaUdMWERDRjFRY1BRMkJFZXh1RUtkcGhCeG5R?oc=5",
+   "published_utc": "2023-08-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "15th BRICS Summit: PM Modi calls for strengthened BRICS, use of technology to make society future-ready",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOb3kxdDgxYlZNbUxxR1VtTzB5RmFKSEVFLVUtd2N6R2lGZXNiMmpiaVJkaW10TmxpSHNpYU1ET3FWZ0Zmd29rVmhMUnE5Y0R6ampZVE9DelRXNm5NYVI4cWhSeWkxQXBqTmgxNnNhVHhsT1RrM0l2dkdjeTBkZHJTYzkyLUxuUTRZV3RSZFpYM1AxUFBoSTN1UjZRZG9mNDd0dDRlRVZ5V1Y3LURUdGkycVVxeUk4d2k0R3ZmLXlrU0R3NHdjSmNZVWg2OWlXNHBDdjdRdXgtUHhhSUp2UmVuLWtyM2xlYjRDQ0FJWjNKZVYtZkdJOG1kWjJkcmNkbW9mUXg0Z9IBigJBVV95cUxORWx0TFFpTHFpYVl5Z18wM3o5RW02YVdoRHlTdE9rX1UyNi01NWxlYmx1X0JJdG1xQjRmdjB1SFU4ME0yc2NoNzBQX0JuNjQzWmxfUkw5LUdvN1M5OG9NbzlQME43clNVU285UFdfcWo1RDQ3WGU4a3dQMXdBS2FzUDN2LTBJNVJvNTlLSURtMGdlQmJhSzBWNFpoTFpsOEl4dk5rUnNWcmgzUkdnUXhsYWRmbGxxNjhMajhXclpoNGxFOWRsc1FkcEZSNUZVZ2diaGdRUkhoT3RQTXVOWjRUWWUwalRxaDR1VDViTngxMHE4RlJRZWdsd0RwMm5CYWtmay1ySkc0MVRKQQ?oc=5",
+   "published_utc": "2023-08-24T02:14:26+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

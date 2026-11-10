@@ -1,0 +1,53 @@
+{
+ "query": "\"Telangana\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "INDIAai launches AI for Everyone booklet in Telugu",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVQ1clVaWThDWUFSbVhPVEt1UlRjeFhYVFZRZGtrVFZBX0F5NFZGNkxQTU85MGlabkdyX1c2SzRYdWFGZHNyNThURk5kUGd4RTN3Z2ctMjFtM1FxMGI5NjI0Rk9IMEVuZ2VLSURPRG1MSWc1VHV2Zm55UUpIRDBmTGZ2dVg?oc=5",
+   "published_utc": "2023-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Osmania University inducts Artificial Intelligence to record attendance",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDhMbW5FakVZNGhUOHQ5ODdURk5oNmZGT2VqSzUwN1ZLQjFubUExV0hHYlppOGZrWmV3SFZsYXZzd1NpVmxKNUZXdThaOE9lVVBfSUpRb3BaQ2tZRlU2cmx3ZGRYR0pwWFB4WkhBYkVCOEFCVnBKT1U2b29VRFZFQVN2blZreGt0RXVNVGozeFNIVHJoandMd28wa0hIUXM?oc=5",
+   "published_utc": "2023-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi Launches Projects Worth Rs 11,300 Crore In Telangana",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnJKOFo2VXk4SDlaNjRITEZBdnpNNkJBdGFGNGprdUQzZmpFZkJqQnk4dElDYnltWk9qSnpyXy1qVGN5a2xrYjRVV01adUF1VC15SldjQ3I3WkJCaGhUMFJ2aGpsUUtWZFZZQ284WDF1SU5YM0xiV29TQnVRcTBwSFNMZ2RPc2NfUUxYQl8xSmIzcVBUNUdzNl80THpNakRZcmfSAaoBQVVfeXFMT1pxc24yYUtDd055OTlUNDRkX0xqRFowVXNYczRGS1BkNUdISENCcGhtbHFRYWdlSW5yTkF3cG9KVEZNMlloWHJFUlYxN1ZuRzA1dklsNENfVVR1RElwLUJFWHU1dUlaVDVMUVFmOUFJcnY5Mml6UVc4X3hVY3prbkJnUTJUcDBMZDQ3VU5DYnJTQzVLcEZwdGJUbDBlY25Lckd2MFUxRXNQMlE?oc=5",
+   "published_utc": "2023-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This AI-based smartphone app may help you quit smoking",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQU4yUEllTU1ScDYxYzNXTjhXdGc4aVFKMTZzZXo5MVhHbzJDX19oZFdRNEM3MWpCZEI4Y0FoeDYySlo1UUFCa1pmcDlOWXJ2c3dXSkljNm8xMXZIcU9UOUZqd3FzanQ3cFBCVi14Q0F5MHFsVU5mTnRieG5SRFpWanpEUmZIYlA3?oc=5",
+   "published_utc": "2023-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Foldable iPhone in 2028: AI predicts the future of iPhones",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOandsNUdEV21ReGZodU42UjlpbV9KcDBzT1B4YWxQLVp1b2pSclVQQkJBMTdfS3dYNGVpZThQd1dIeWFGS0x1UTkzbmdDNkNxQWFsZVFZeGxrLVlJRU12OG0zemFwZjFRSDBKeTVpVlE1VGNxREVWN1daTjVUMlRmQThCN1RlOG1fLUpaUA?oc=5",
+   "published_utc": "2023-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Srikanth Odela creates an unbelievable record with Dasara",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGRXXzRHTHg1RlN6M1NCNldaYmRDZ2JSemlpOFZzckhUVXdKV29Zay0tak5qcXZBdHRvZ3IzWFJlcC1UR2h3UlhGMjV2ZGtsV1d6QUp0LUlkQkR0YnRCNjFsc01IRUhqc3htTHJVcHVSczE2YV9Xdk0xRVIxUjNVVkQyWEphTWhHTlV2OA?oc=5",
+   "published_utc": "2023-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

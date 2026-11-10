@@ -1,0 +1,69 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "PM Modi Launches Projects Worth Rs 12,600 Crore In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGtEaENNSkp6MF80OUd2RS1iQjk0b0NMSmw1cDkwZ2JncEtNMFI1N3BkRjFha19TYUhWbFlxLVoyc3RZVldGeVVRVE9VTnU4UFRoalA2R2ttY2ZqZ2k1eXVhUWhXYUZ1RXc5dzhEMDNxejhrT3B4UG9oXy1ZdTRSWXhrSktZb29scTdmREltbHA0TnRCWXdaXzgwNl8xOURQbE1vS3Ria0zSAbABQVVfeXFMUHl5VU5GZlh1blJIXzB1enpMM044TE44czFlSVRtVFNwZC1NcU9yWlRBZlUzdVQ4TWVTaGdyYnNNSjZ1bWIxbHRseEdudVBfVm1sZkdkamtUU2xscjFqeDFzeks4Tlo2cHJ2bGJqTFY0SURsYmJUaVJnd1lzWXVrQWtaU04yZFZlbkxuNHRzaXhkdWpzQk95MjEwX09zSkg1LXFmb3FaRHVNZzV0ZzVEOTI?oc=5",
+   "published_utc": "2023-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Cabinet Approves Two Key Projects Worth Rs 6,000 Crore To Transform Bhopal's Road Network",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYi1rWHBmR3FEYzgxRTlyMHZla1RJRTFobGNPbUhSdDZ4ZWVMdnpXcG8tRHlnT1Y5T0JWZi1ZekRNWVEtT1dsTkppV08yZGFBQzdjenVqUEpQenVtRUxLMTlvSWU2Ni0yTkd1UGg0SkNuaFNvVVhrVFNDYTNlX3R2VGZqcDk1U243ZXR1dUs1Zk9abEhhZGFUVkVYcko5T0JLYUZvVkh1eVdxcmRHTGJ2WVFKZDBnWXBZUy1sYjU4MDgwTmllT3hmeDB6ZUdTNV8xZ29oQjk5d0_SAegBQVVfeXFMTTd2ak5keDZaYnc2bzJ6X0tENWRXRnhUNVN1RUUtUWs5bUxKSnVvNVhYTlBKcjFtcTJvWmhOemZWVDkxOHlIUURPeXJlZXdQQjc4TWNVUGJmbHZUaU53Q3lVOUtLcnpyaU1NS0dZRFlhX0E2ZWZNNU9jU29TaDFGWDRHc0VmWVVGaGRWS3BfamtlZVZ2QmkwR0hKYWM2MG8ySTU5NmhhQ040Y250c2NOQXMxQXlRV0FMSVRQN21yZ01kdzNjRXdjZktRRHlfQ3lWejJOYU9ralZKNWlJSkdtS3RxU1JHVG8zQg?oc=5",
+   "published_utc": "2023-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IRB Infrastructure Trust gets LoA for Rs 4,428 crore project from NHAI",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLUdHLV9YcE5USkRxVmZNUHB1LWdDamhHS3pEMUlKMktQUUROaDB1WXFqRWRzaWotZlBDeW9uTDhBQm1MNmRXVHdXRldZOFhGMVZtVnZLN2tyUEpkbkhTd2J6Rlh1MFlFREI1WnpmZEVNNTFSam4zVjIxbVFER1hsSFRxblZIT25IdFJuN0RhRTVydmlnNGsxNjZOUDQzWVRUNUI2aTgxOHdLQnhrTmVHWWx5a0haQVJsY0VFY3hFb0JlWUxlYzdKS1JuZHcyNTR0OXd3T1FhMWzSAd4BQVVfeXFMTkVabFA0TlRLWExnWHFPU045YjlyUElaYnJuNFdSSF9mNkhTTHhtaDg4R3NNMGlydnVaa2FGRXVHN1ZWQ2RYY3VJTjJKTkgwWWY2UXRZNzBKUDZCSWV2Mk94ck1aSWVaV0RhT3M3Y0dIbG5TREdzaWZ0WHZzeFppREdHZDIyMDZZTHE5LUFOZGc2emgxZjhPb1AxZ29PdFBvNll4eWotSEQyX2g5VEFsX0p0NjFpSFlfYjd6eWhiamlCaEFiM2RNdGpFWWlqZHpPWEJUaWRvdnVKVG9sLWlR?oc=5",
+   "published_utc": "2023-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI of the tiger: Tiny camera 'protects' predator—and people",
+   "source_name": "Phys.org",
+   "source_domain": "https://phys.org",
+   "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qZ1Rsck9oOXNPX2h4cjNHVzliUGFuQVBMVlZNUUtNUldmS2FVcmdkcS1qLXI2R3VLTXEwVWJ1clRXZDRXdjE5WFMwNUFkN2F0bkRUVTNqc1d0R2h5Szg5emVENUxCMjBTZ3ZJS3lMenAxaTFIY3c?oc=5",
+   "published_utc": "2023-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi in poll-bound Madhya Pradesh on Oct 2, 5 to launch slew of projects",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWm9VRDZlQWRwcHNUQ004d2hBTU1KOG02elpkREcwdnhTVUJXTzRoMFY1SWlWbVYxdTBlMy0xVExpLXV3WS13OER4WkFhaURwZDljNXh2bUFsREFfYTdqY0t6ZlBUVmxWb3VnTmx1bVM1RjZkMGtFZWNTU2ttb2diZGJQa2YwS2t5dVh5Wm8zY3JnOW5qNEtySDVubDN3WDQxVUNFaWFRMlFzRlFnamxCMlRKTm9wUFFvc0EwSVhxOGNlX2dIbGxteDhhMXpUQVFfck91YzN30gHbAUFVX3lxTFBqNVIwOU8xYnFQd1p6dTVxVlM2dHlqZUNCX2JraUV3aFVWMTVfQjQyOEd0MXYtcVVkcFRNbHdJdWgtd0ZwYTVfaWFlT1JpeExjWDJmT3NhQUoyQll6Uy1JXzlEcTBXWjkta3JHOWJOTm5McGE4LWU5aGpWZ3dqUm93Mi0zUGZQQnp0amtKU1gwcDV4NEdMOXNrLXhlYmE4QXVicW80MndtNWNlRVhEV05QcU5jVjNoa1d2XzlBTHAwODZpVDhoNVMtek51QUFOajVrd2lYY0l2UndfVQ?oc=5",
+   "published_utc": "2023-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh govt to provide 35% reservation for women in govt jobs",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYkVqWTdwcXJjLXg4SkZONHVKdXlQYVZXVFp0VGFxNHZiSGwwamhHeXJaVmExR1hQYlBzVEo1T1NENlNOb21JVjhVMXlIMHpnbVhNWkVZMHZBazFGUmxyeFdfUmN0Nm5vUDIxTGJRR295MkFpS09wQ1AyV0hSSm1ZNkw3dnp2RG5yRDVDYlRPMmRENzBhYmxfSDRXMFlwbHM3QW5LSUxETWJIMWdxRkJmdS1DREtoRmpMdkF2ckh4bFY4aDlwOHVLSjJnQml6WngyMlZ3LWJfUzBCX0RwZHZNTmQxTHc5ODgtWGlaRS11dWZNT1I1OUwwM1ZYVUJkeFFYLXJFT3RJN1J0YjVmcEpZaF92eXhVOWQ5N1EzSkZuekgxUdIBpwJBVV95cUxNeVVmZmctTjd4QzRaMndOMVNkU2prMl95VEt1VDAtS1FsQmNMV1g0cEVwRlB6R29RWkFhZnZXRHphOXZxZ3IzemtuZm5GMmFTOGlCRVZoY0I5bTFqSmZZY3ByQ045UFpmQUZNV3RUNXJNQnIwRDhGX05pYTViVUJub0lrTGNhOWExbjdwY2VUQjZQdUFBakxhNzRaRWpXcFFuMnRvNWhnakFqYTUtb0ZUb293VDdtMWRzeEh4ZGh4TFhNTXBldzUySUVBME5STkNuZGpfcEFvdGZrcEo4eDgtUXphRV91bnFTQzRmd2dUc3JmeGIwRElZVk1Icm9HYzJiel9tNFpUZWpZR0k4LVZGQVJYaUx0ZGF0OFNLMERLbUNQaThZcEJN?oc=5",
+   "published_utc": "2023-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Union Minister Sartaj Singh Passes Away In Madhya Pradesh",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU25xTTdCMFlZWm5GaU9wLWt4b0pHWUhCUmlxVGlvRWxJV2VuZDVfaHMyc1NVbFdrdlR5VmozZlZRSTFLbEZQU19tT3lSQjBJVG9sa1ZmZURHV3diS1lkd1VoWTNWZjZkbk91QlRNbS03SEMycVh2cHhpWmNqckh4TmhqY2dKUjlnb3hfdkFldWRaZXRpNXhvYWp4N2h1cUtVeEpMbmNB0gGrAUFVX3lxTE9sQ003eHNlS3FXZXJMWjliR1pWbk85ZUpIRFhEZkhkcF9FRW5BSjJPNUt5alBaalU2M3ZKcUxTbUloNGl0Um56S295QlpwLXRpZWlEOEIxaUZFaUJ5YTRNLXBrMTl5dWh1LXZkbVptTTI5MTEya2d5SGh6MFhwbnlELUN3dDc3TDEzZ2EyaXFTV2ttRE1rUzk1aVAwU0FLMXdBb2gwQ3BnX0tJcw?oc=5",
+   "published_utc": "2023-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Subhasis Bose Takes Charge As Business Unit Head Of NTPC",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUpIaXY1MnhxUndsWV9QSWY1TUFfdnQ5blJKemt1LThFcUpraEZwUmdFcVF0U2RFSVcxc2c1RzJvZDJVWFJqZGF3V2NOdUFXbXBMSHMwcFZyS1lCbWNkbXk1djZGanpaSGJILW50eHZGNHhCcVJzcmlZVnZ4VjA5YU96WWFBWDcyZUEtZUkxRk85NmNYNmhINFdIYTlqV04wb1hraU9EVHVMeTNZdXJr0gG0AUFVX3lxTE9nSVVaRllVRXlkTHlEZ0dZdU1GcC1XaWlZZFZzVm9RdHR0SUhDdEE4TVNyOEl5aVhPME0xSzhjcmtHaU04enlMejZpcjNteVFUM210Z0wzVFRfc2NPa2diQUFvVUl0OUM5Sjh5RGljanNOZWdnR0JHekxTTXllMTY3eXBoZ1VzaUF3TzN5c1lDUTBCYmxEa3ptZ3BzV2JyNnd0VXRfSWhxbE1QeS1icTJ3QTYxWQ?oc=5",
+   "published_utc": "2023-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

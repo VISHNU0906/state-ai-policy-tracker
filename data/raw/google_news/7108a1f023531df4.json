@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Chief Minister Stalin inaugurates Tamil Nadu Unmanned Aerial Vehicles Corporation",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM0hEOXBmamZuaEIyZ3dHRmJfRjdkcF9YNm5zN3JLX3hlcHVWYnFQWHpTcGJxa1RuaHdLRnVlVzhZeUVBcTBwNzJfNUp5MlhQZk9kNjNSX05tQ2tmMWE3UUJoMUVnUUxYbTRSU2U4S1plcFRwbk5zMlVQTWJrckpfdElKakFocHgzNGptZjQzSmFtWi1wSUp0d1hWOG1wQzlrMDV4STdsMHNNdzQybjN3aW5SaTdoVWRVRnd5ejUwUG1NUU9MWXluUUpsTWg2eXRPbkMwWUZFYjdQYm9sOGpjTWE3aEotZ9IB7AFBVV95cUxPRUd4eXZTVXhkTDZRTG9nVEpGOFBIQzNBUkNBdk9ZVVlLVE5YM3d3dXRfR3g4dGVUWE5XQ0NldXUzSFdEYU1aVDhRbExmTVIySUkwRFZleE1YU0RDeWY4bnR5SUxqenYyUTJVbXF3Y2JtcktteHo2SXR6VVlTcjhtbFJYODVCVkxwS2NTSVl6dms2RVBuQlJxZ2w3MURIMGdyeTREMmxSZ29jdHpKeVI4dVFEbGF6aGdveTY3dVlsd1c4SVI5ZExNSWVaa3pVSF9RT0VNNkluVDV5N2JtSk5NZjFSRXlON0pHd2dYdA?oc=5",
+   "published_utc": "2022-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Announces Lockdown This Sunday Amid Covid Surge",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjFDcnJ0ZGhwbE1JNk11cDJHTUZieV9MeGZKamdGa3JHM3BXTGZST1hQSDZSNG1YZHkwakh5b3Y0Vkwxa3FydXE1amxzYnRMUEIwM3J4RXo2N3o2dzF4czVCMTdTN2pnbmdoU05FYk0taVMwaHM2blQ4cUM0Ylg3VzlXY0JoWm13a0RkMnZLblc1T3F1RlBSM1VieXF6Y2s?oc=5",
+   "published_utc": "2022-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM lashes out at Centre on NEET, calls for all-party meet on Jan 8",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFZJZ1QwTzZCWGV2TDJEekgxMmJGTnduUUl6MUdFOWhhbXFZOTc1aWVLdEhJZEVDdFZhTEpEcVhjaVNkR1p6TzMwVDB6anEtdl8tajdkR3JQaUtEZlF5dEY5YkZfNDZJTmFUV3d4Q2ljdkJSRExMWEdZS1d5MlpqVDdNVVdqSFExRE1LX2dsZzJHQWxNWVZvdGJIU0V2ZWJsUHl1WF9OWkpNNUxtV2JYbHBiT2QwMjB2bGMxdnN6UFk0REhBMVpkby1PWkdUbmtVQkHSAdcBQVVfeXFMTnpaTHM5ZHIyMk9ac3hDTlUzRUY5bHRmc3ozczdMWlNDNzFaVS1TOWdFRzRUazJLYmFTVkNRTDVpN1pmZ1RmblQ2VzVpNnhCc2JnUHRFclFFb0plZ04ybUlBSmdRLWtFQWZwNERfVGhxQXp6ZDJSb2pLQ09hVHRuZXBnSWJZWWR2RWxJMVpvRGd5bE1SNHhVSnY0amhUTl9JTTNqWDFTbXppVTUyVU1ERGhmY3BTZFZURGQ0Q2xVVnNRLWpDSUl1UFV2cnhISFpPT2VIOVJGUms?oc=5",
+   "published_utc": "2022-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Govt plans extension of metro line from Chennai airport to Kilambakkam",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSHRRNXNkR3FzVFNmX3BYLWRJTTBqSy1INDFoMERoblVXTlhyT1RqWm5NcmtuWE5PUVJHaDhZZWpfTHl0MkNpM0psVzE4SExMM3k0dEVzTVFWY3pFYU8xYmdyT0wwazlBR0Fpd0pHazAzWFBuSkplQlFaS29Ca1lrQ1RPelgwODJPaGN2UWNHcWhjUTFyUVgzX3ZMSnhDclF5RFdoY1dsYjB5cTlLSXRRNnh6alBodUUxcFc4UEJySzA0MGhJMEZDeVJjODlYMzBBbDlvbC1wbnpGR2JiYTltd2ZmY1VMNjQ3QTV30gHvAUFVX3lxTFBSVi1hY0lnVFZNQXpiWklfOWVRNFByVXZmZGhDd09CcnptS2k2YlUzSzl2UVF6OXdPWGk0Um5FeU9KT3lGVmJpRWpRYTR4VFNhcEtVQncxNEJsaUlKQ25UN2otM2ZqY1NuVXBLUzViNm1ualZBRlpxdEpsQTE1S0VMakR4UG5BNThNbWxGUjJGVEFEbGJfaWh4WjI5WGRxb0gxS1U0YVFGRzIwd0pHMkxhdkFCY2JYaFo4Y09fRC1ESHFrRjZCODJUbjNuU3JMVkJfWkZUQ0pKZS1zVlhpN1ZOVmVJUFFUQnhpNTRJRUFJ?oc=5",
+   "published_utc": "2022-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN government announces crop loan waiver for farmers of Salem, Namakkal districts",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVdwY0ZZck9qdDAwNGFieVltZWNKMHR5UjJOMks5Yk5jOTJmazNFcmlCNEhWQWUxS2hkcGF0M2xBU2F0MV9zZkx3bWE4S0NIRGtmc3dRRWxxdFlvQXBwRmJOdmRvZ3JZLVMtaVJwVEc2U3VkcENKdjl2NEk0cklOLXVlVjdWMUxSTUFsalBCR2VCdjdlMGJQNDlFLVZGSUFaMGFEMGF4Nk5RSGx5U2tRUHFPOHRwOTlDQUt5RmVrZjh1VTMxbWF5SUpVWXppZ0h2QW9SR1JVZ0FBVC1FTlV3aEpXR2lONGpaejhV0gH4AUFVX3lxTE5jYWEyX3Y2SU5qaFJnUWdOckM4cVdmVzgyZWdHQ0N1d2dUZldrUjlCaEMxVE9UaGJrczItdnhvd1l4b29UamJiQjdTVFR0c1FoRF9SRVg3bVYwWUthc0JlN0diQ1FtelFOMThxTGVBQWhVZlptZjF4NmpjSFcwZ0lLeTNLY1BnNnp2M1QtU01DYW1Lei12aXBraG1Sa3BBaWFGYmkwRjJPMmRheHk0RXhWQXlJNEUxcWVHWU5KWTdpcllXZ2N6Ym1lRzVBLUMyYjlJV1Q2TjUybWM5Qm9QSzRhQnN2Q3lONTYzRmtMbTVDR2VYaENWelgz?oc=5",
+   "published_utc": "2022-01-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu has right to go ahead with Hogenakkal project, says Minister",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEZxaHpCQXNLakc2ZTdPT0tKTl84VkIyR0VERkZqSThfWTZzREtlQjRZUFlDQ3JqUGtNaHR3NWpHN21RTXRlV2pUbnJoZHNiRnd5ak83MjVzb0ZsczIxZXBscHpUOHZWa2RHTS1oMENnSTQ3bC0zMWFkdEFBLVEzaFpMX0RYNE1DOUt5d2FrbzNtWHItRW1BUmFKS2tOc0F6OWdOWks5UGxhcEnSAbABQVVfeXFMT092WFc5WkJETER0TnVkN1FyaXNKd1FRakNsQ3dpNVVrN0VhUzFndUJ1VFBYYUxjQnAxcGZFZi1OZTFkOTN6MHNGeGs0WnpHUzA1NEVjSEhQb2FQa2trS21YRWJsUGpCWUQ3aU55UWRDZUhkS2VmZEZmc2pnZzc3YjFORENteUdydU1CejF1MTE1LUFOV0gyNE43WlRHVUxSa0FrdUVaZExwU3AwODByNFY?oc=5",
+   "published_utc": "2022-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Son Dies After Setting Himself Ablaze Upset Over Police Case Against Father For Complaining On Dead Lizard In Govt's Pongal Gift Kit",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU0dyZE5aQjE1WWgxdWF5QkpsblF2dlBodUo1VUs2VEdvTE9LcHpiUXBEWERmcW1kX2loU1pxQW4yMElZaE9pdFp1bWIzZTBuS21oWWV4azA2eU1KaE5YcE5vZEtGbERsck5NRjk3SXR6dDR0WmwteE5WOHJwMVE1cTZHMktMNkRYVVJPMEc1VWxScDVKZkxfcHJTd2dHLWI2cWJGZDFUM05vbUV6QlFtMjF1b3k3QnIwV2JjdnhIWkJYT1pkYjZTdnVYbE5QRHZnbjNoMVAzanZ5YlJMSVpPOHJUTDZSbWNaNjU3OGJGYXhSS2R6b3BQWG1pMG9Ca2syakJiWUhqaU7SAZgCQVVfeXFMTlNCZUtvZVQzN0cxVGxESEY4WXlycXZoUjJCaVk4TE9vMFFXbmZsMFlXN3M2QzE5NnBJaUJBTTI3ZFhjVHRucHBWYnZCT3ZXYTBYS241Y3ZkS0hPMWF5QWxvdkNMT243aWdidjVhYlk1dVNHVkNRbDFtSzRGSU43eFBWdU1QQUM4SS01WHN3LWxvZDJ1d3l1WWdMUjBoSWUxNWdORXlnTllRRDU3cVZZUzJOYkprN0swbVMxUndackJCOVZIUmI2RTJMUXZIYXZMVGdBcklnYWk0UkUwZ045aWFZTGpTelJIS01PMFJDWFFHbF9IMU1DS0pCVDdHOGN0UFZWOXVNNS1NY2NhZXAzekdia0RtUF9aRA?oc=5",
+   "published_utc": "2022-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Coronavirus: Nearly 80-85 Per Cent COVID-19 Cases In Tamil Nadu Of Omicron Variant: Minister Ma Subramanian",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOazJNbUFodVdSWnlxTHRrakNPZDM2NVZzTDlrWmNveU1NdjVJR3ZXM3pnV1ZsUjBsYXpXR0pQWjdBNkQxUjBJOGo2SlRHVDhBRHFrRGpaN2Mxd0xLX2MwM2pSeG4yWlVqMTBfenoyR2VjdHo0RDZZbXNocnNacHNQR0dkNTU4cGIzaWl5cVNBWGpZX1U1cl9oWjRvMEdFdVJ5TkdxWUhpaDNWWnNyUzZHdi1UaUlnRVNUX3o3aUN6SVNpeGlVYVZ4ZHEzYzV3VjZtR285Y2Y2NkJNdUN6VElsQlQ0Ty0?oc=5",
+   "published_utc": "2022-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu MAUD minister KN Nehru asks Chennai Corporation officials to expedite development work",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVGl6MVoybkZxX1RNUFgyWGJQWTdmTkxYcHhEdEZZMnRqS2JsSjgwWERqT1ZfeUhLNVVVdXVYbTBfT2xNWUJFM1B0Q09GbF9DdUdVMmZrRlBPLUJEcHNEc3o0YWQ3eUtiTVpYN0FHbm9FbnZvMndvYmRQUEMyMVZxSGdQQWU3Q0hwVFhrMzFyX0Q1ekVrRVBJMldSXzhsYVB5d0FBTWhndjFpWHY3a1dUX0VHc1g4YlNtLWNqaGNwVXZ4ajBzMWhzRWhkbGVsNjRoSlFWQzU1N19pYkVNT2VNS2F5TGJVV09PNUt3UnZ5MGdDYS1XNnFBS0J1ZGppd9IBiwJBVV95cUxNblVlQ2Rva2dpSVVQRXlYX0g0SzNldE5aT2xRdjFkZ2gwUGJINTkxLTZFOTRQWGxCRXFSNUpTeEZBQjVZMFpsLTR1dGdqR2NPdDdkcW5oajFfSEhPUHFUcGwzQ2RqWlZfTXB2STVHZDlsNFFwUTVybVhSXzZXSjBjZEtWbUZYemlXWE05M2pPWWpkREp3ZXJSRVlOa29XMk16VFF3WmdIN2tPNmVlcU85SWhYdy1iNjhGQlNPa2ZRbXJ1OGdUSzBuQV93QXJFZHNvSVRIa20xM0ktb01qSTlxRUUwb3JuVWhVN3JpTXp4Vmt3WERwUF94Y2cxMkdVQkloTEZGMWRmSTBuVEU?oc=5",
+   "published_utc": "2022-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Guv leads R-Day celebration showcasing Queen Velu Nachiyar",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUI1a0wzUWlRVTRsbzZwdVBsY1BLT1RxM3BCb2k2VEVIbFhxT2p4U0pRYWRoVm43djhjbDhRampPbmJld3FjMTlEMEVRdkl0SUlDQ1FEbFV3bUlQOEdzbkVEcDhtY3c0UzFKMlgxbDV1Mkt3NFNRdVZhQnRITVlSaXEyNVNsTVFsUDNKNWh6SFF2V2J3a2JWVWh5aEVsX3FCWDZ0ZjBPaDMwVUNOZENDZUlRLTlERWZ1NWRWYW8ycW1vZjBRMlF5eVZVWEFjb1Fnc2fSAdcBQVVfeXFMTk5qNWhneHhVQ1lHM0poSVBsTWNLQmZrZ3M3S1VzaExfMmpoaHBKSEZzR1NVVm45RHhmX1VyeklTYTk1SDRQUUI2MFRRcm5PWkxFSERlbVVSRUJ5T010d25MTU5ILUM5ZU9PQUJqRC1PSlQwZjJ5ZmtDMllGcVZKX1JfOEg4M3FQc2RVYTRIYnhHeVpQd1JsNUNDRHQ4R0RULU9ZYi1zU0w0VEJna21FZXM1bWI5ZlRfaDZqQk9EZkdhUlB5aDJQMkgwWXVvNUlTM3NOLU9Yc2c?oc=5",
+   "published_utc": "2022-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

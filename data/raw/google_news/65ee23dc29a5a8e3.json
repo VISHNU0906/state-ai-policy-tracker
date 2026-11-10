@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-05-01 before:2024-06-01",
+ "items": [
+  {
+   "title": "Kerala introduces Artificial Intelligence in school curriculums",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbE04azdZcm5Nek90RWpLVHJVNVVxRWdkN1FkcS1GMzR0bjZNQUVuaFpUTVRCdlI4TGFrSHRrS0hVV1VqVmxHc2hUX0pVN0FQckdjOUctaUJsSElUWldtRUdWYThNUkVFdl9ubUV3dmdZMGYwYmhwY3JsQTdHMTFHR0xGUVhCMFB3b1FlRTc4RXpjZXAycVE?oc=5",
+   "published_utc": "2024-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala includes AI in school textbook",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmVuNFBPM3NzUmZsQ09VQzdzVDI3Q3ZqeFRDUk52ZDhQTjZ2ODJIR1RMRXg5WlpwMHhkblBlR3Z3djNkQ25zNjk2bmxRemxxUDJTS3JWMFUzdVBWY25UbUdkRVFZbXVHZ1RBVDMxTkN5MWJwWlVjaUEycFoycWd2TXBjdlZfVjVxN2l1TlJJeGUzXzNEdXFfTW9kZS0yNDY2Nk10c9IBqwFBVV95cUxOMmNYd0p6NjNLSUZlWG1KY2E1dkgzNU82YldOVW1rb3dITXVKSTE2d3Y1SU1jOG1XZG96dVpqZWtBQjdPZkJwMkx0LWxMd1ZuUTVRY0MxdE1EeTJLSGo5M0ZrbEVSNjNaejdwTjVmM2poaFNaNFVuUi0zMWEwZTdiLXctMGFGR3RlTmY1Zmg5ci15YV95ZDVkZmtGd2dFZFRJUkxJbS1LaGIwME0?oc=5",
+   "published_utc": "2024-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala includes Artificial Intelligence (AI) learning in school textbooks",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVBCNDZIdFo0LUYtRnN6MHlNcDJDcDMweFhfTlNDaENCYWRWU3l2UC1jY0hSWnQ1RUMzZHRybnd1MzFmTmdfaHhBcU1CaUJoaDNQV2Fza3NVcFA5WUFwNlA1c210M25HYi1lcXlFQVNjZkpZZGZkNER6TW1GZmFpUTNhZ0dNaHVsZ0t4RjgtNjU0c0daT2FJeWVjVEdoWjBWMmJrV2trU1ZiUdIBrwFBVV95cUxOdHFuWU5WZlN5TE11aC0yeUVCa1R5ZVktbzhOQjl1bkE5WTRTUkZFalhxemVtUnBJVnk5dzVOem54WnM0ZjUtSE5NTXFFZ3Rab2ZabVhBSjA1QTlURTJWa2VjU3NXTHRtT2w5Y1J2M2RVNkhUZ3ZpSU5hWXJrcXdzSEl1T0RmaGFoMVNUMGsyZ2NsdU9COHQzSDA0ZElaRUcwdE4waGxvQ2JfUzFEM3VB?oc=5",
+   "published_utc": "2024-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala school teachers all set to take the AI plunge",
+   "source_name": "The Federal",
+   "source_domain": "https://thefederal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2czbDFGOUhZQmlJVlBIVXZrR0pTZEhyalJ5X2J3bWdFTzk5TnE5NWJXOEZXWVNmSks3Z1k0bXRQUFp0ZnVqRGhnX3Y5NDlxVlNrV2JiRGFXNEhyWXpoZ3llZ2VrU3A4cGRTcUZvb2ZrNlZuUHRxWjV6anpOT0p3X3IwWnNSRTJxdXdMYzBoMFdudUNXbVJBdDh5MjdTbG9Zcm1BVWxmUUtjelJvbmpxVA?oc=5",
+   "published_utc": "2024-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI training for teachers: How Kerala is raising the bar in classrooms | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHJCdEdZaWRfNWFobkJHQmJPVXpQTVp3R20wcDM3T0pZVFdnMHZoZGw4b0l0RHZSY0R0NFZGU0tYSmw4RTc1ZHNGaEtLMUh3b0czdzF4SnZHcHdhQ0lqaTlQeXdYNWY3YUZrWXctTmVrWjlaQ2pkSnAydHVqSDlULTJnSXRZeU1RVXZ1SXFVMzhCZ0xVNzUyVFhGTzExZ2N0amh6R3JCSHhqX0tIcHRYR1JfMjZVZUdqRFdyNWlYM0VOZGhTTklGZTF2RdIB0AFBVV95cUxQQW9ZNEJfblY5MnRJbWtqWVJ2TjV0UmJURDVVSFJxdXNYbWl3blRMUm1mRGhnWXR2QzVvQTVpVFhnTng4blRraGEtSmZ0X3AxZGxKcEdjUVZMZEdtbnNJbGZvQ0F5aXFmMTZjRlNnbXp5cmpGak0ya0cyNHZjNFNldFV0U0NJbXhKQ19SenZxT1dDdGFubFhudXhoRHU5Sk1wQXp1elIyR1JIaDJ3RHJQNnQ0VWtaRGp4bjlsVzFPNnhxdlY2OGNZM2NYUVRkejJu?oc=5",
+   "published_utc": "2024-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI traffic cams: Rs 365cr collected in one year as fines",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcldWQnFFN05DU3BJcTJEVjc5QkhnZU0yOEJ2OWl4b1EwRkgwS1BlbGprWEx4M1R0OE1IcjR5b3BLYXk2ajRucFVVNzVDd1JEQnU5RUtKTmR1NEJwYW5fd2pTLVk1NlRNbEJEYzB0QnQ2U29ubWxkSmx4R3gwRENPQWpTbFNBQWJ0LW5QUElrZHB6eHJYSlpyblhmaERPQ2ZDQ09IZHJoZFR0ZEVDOWJoOXRUTGnSAcIBQVVfeXFMUDZjRmNFQ2ltRllqbWVLQ002Z0pudEdWZE40Y0Y3NklvYkJvUV8yb2ptelFqUHVuVDVyYlNuQ096bGhkMl9tM1QtV0pRdnNpX3FLeXh5TTN5RWo3Y2xJNFJDZkE3dU1aQmdHOUFZTnd1dlpQQTVDazJYaWtYWV9FeEhrQThMUDg3eV8xUEFmWG9nVkVha0lsdFZya3BsaUczYU44bDRYaVdORklGU0pvSnhfZ2FuZ0dRNUxvcWt5dmxqeUE?oc=5",
+   "published_utc": "2024-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala to become first State where all teachers will get AI training: Minister",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOTZ6UmJuVDdjanFPbHZMX2YxSmRmdHBpMkQ1V0M1RHBqNnNTb2Fmc3VOMU03em5wV1F1NTZDYmdMSEdCT1VOR000WVBLc2JhME5xUkpZMDVpc2J5QXA2dkVINE12SHM2NjlDaFhPYXpSNzBabjR5QTE5R3ZTSkp5Ul84eHItc18wRzZKajZxX3NpbS00TXVJd2ZvVFo5X1FvQ3lLcUF0Z1cwaWFRVjlWZV94NmZESDFkVldXTFZDdkNOcm91UWY1b1BXZE5zb2JEcS1fZjhnaEJNMzDSAeIBQVVfeXFMTllfbjhmTmRqM1paSTNjZHhzWV94dUNNZXNEck9IYjhmY0h4Ui00dGJWZnNuazR3TXcxRzdaRWJwNDJfTzAzZ241bEJ3V2VZLW5fQWc2WjFjYlR3SG5SS05hdDlCbk1DTmtOVmNkTzVLc050N1lzbHV3XzVxeUJxRENMNXlHMk5ONEZpSDNZeEhmVGZIR0phaFpGUXQ1Mlp3UWp6bUFpSHdaMElxTGJNWjY2QjdseWg1dmtGUTEyVzRiU0RFeWFpNjFuM0JKMWI1WXhpQ2t5eHkzTjBZZTR3S0pkUQ?oc=5",
+   "published_utc": "2024-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala launches groundbreaking AI training program for 80,000 school teachers",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHhhNDEyUmoyaEZmem5xcTZkNUhPSVljNzF5Nkx3cGhqVlJ5ZVpYb1pvRGpTRGRYdXY4bERwS05Vck4ycE9wbDAwbFpYWUZscjBYcDJEc0pQSFR1NXJGY2JkaFM2eDZfM1BkMjA0a3RRVzZiYVVYM3BBUXEtZnNfQTZWR0NNTkNyS04zLWJlQWprN3lnTE1WRWxrWER6WEU1emtLS0dvaXU?oc=5",
+   "published_utc": "2024-05-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Genrobotics launches first industrial park in a private college campus in Kerala",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGJFem9aQVdibVlIMWZkaVVxZUJqWUdsdnBLM2kyaGdST1VGbml1MTdyZ1R5Q2RXUFR1M3NfUFR2Y1M2NE9Pek9SRXlOdU1qaFBMMWxuSmpqLWk2ZkVuWVpaRDU0Vjh3UGlPT09Gd0tMSDc4WkY2TVl0am83SzhhRmFhSHRtRU1iMkFueE5tT0JNMlh4VDlVaE1zMFllMkFvTXc4QWxFNXZVelM5MXpuMFB3Mmd5eG5maXU3RGFJVUh3LUQyTTJSME4wQTViNWJPTGxWT3JB0gHjAUFVX3lxTE1pWFFZRmpzZ01mb1lfMzFjMlF4dmRDbjhRbGVtSjRpVjdQd0prX0gzZ01KUzQwQ3RRWlZlWkdIZ0hlWWNaQnFEWGxjcUhrenkxWnphQkNIQ0ozcE5fcUVHYzFjTWI4YXRDc2lLZm8wemNRSzRfUl9vdkNQM25lWExMSVdDRHRZTGdDU2tMVE8xUmVHQXNzNVhfeWNWT1EtdkRjMUk4dFdtVTR3MHRqeTVibVlQWUVRZERpRDhFcm5oRXZkMnFtdGRPZzZDTnJGNUtWZ2Znam1aNElUdDF0am5NRlBJ?oc=5",
+   "published_utc": "2024-05-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mathrubhumi Media School holds workshop on AI Tools for Teachers",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "https://english.mathrubhumi.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFlCWHVfSElRMldvaEU0LXFCdWFnaEhLMlNXVHI1Zm1PQjRicHZ6djlfdDZqS3FON1FGbml2UXhXQ1gwY3RyaENSUEF1WDE3VVNIZVYyVXpsdVlPVmI2QnltX2Nsd3ZKWlBZWHFnZ3hFNmhiUU52WEpxTnAxT2tocUJJQTI3c1ZGWl9HamtpWDlsX3FBUGRtRnU3UXBhMHhIdDgyWW1pQ2hFdDBzclVYcHdjSFlFOEVu0gG-AUFVX3lxTE9CbnFoUWNNWDU3dkdZXzROLThiLXZEZG82RmVac1ZFOU9wVFBzMk1iTTJGUFpQMWFoNXlSRWczWUhqRXk4T2lhblZjSDNiMTAwRXBWNlRVRTIzU19mQTVWd2I4WS1MVU95ZnpYekcyQ2cydEhoSThLbWlZc3hFbnROWVNIczlxOTdTT2F1cXZ4bVhpaC1hVTJkNnF2ZVowMzBmenBRYzROZ2JzNlpXNjVtNWVsWVJCWTBrTjB3Unc?oc=5",
+   "published_utc": "2024-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

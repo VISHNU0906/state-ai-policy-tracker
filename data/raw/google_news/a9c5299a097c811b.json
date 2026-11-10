@@ -1,0 +1,21 @@
+{
+ "query": "\"Kerala\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Adani Group to set up data centre, aerospace park in Telangana",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVVBwV2J2Y09KcDRCeUZCSnhndDVjRXZ3XzFETFg4UDRRRk9uaWsyenFjUXVFOGRPNG1zeEYxdUEtUTNZalJuZ1ZQT1FibzdjcUdzMGN2Rmp0QVh2MDlhMll2VTR0V0FTUTIySFRTX3U4MTI0cXA1WmdtMTgwcmc2d3BaN0ZudlR5dUdqYURELWRUME1QU3FrRXVxNTBiOFN6dVNqVUNyM2RlbU1RekV4bllsNnRVQWxQVmUtejlFaHp1b1VrRUM1Nm5Uc2PSAdABQVVfeXFMUFI3VTJmY2RRaFBfZ2M3MUhCSGRSRzlxU1pRVVlOTHE2LWh2aERKQUp5M092UG5ZcW02c0hob2FzTVMtd3RMN2I0X205NHpwRHZiZlFKR2c0MWp1RldnOGR0Z1ZxQzBVQ1M1MFBrYndFSTdVWUt5enJNbmNLTndLVk9PU0VkQzUycmVNbmhfaWhQOE82MEFlWk1ZaGVVNVRTMmFFd3gtY1J6MktWTU96cm9OamQxS2d4azFLbXJWc3puUkUwUTg4QkRWVzRVM0ZQQg?oc=5",
+   "published_utc": "2024-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala to bring in policy to emerge as AVGC-XR hub; targets creating 50,000 jobs by 2029",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVUt3cWRFdXJXTUh1a3ZRYm5pYjctU0JPTVcxbmF1dDA4R3U1UDVxLXFUaFIwQnJRRGM3OVl1VHRHQVFhc0w1bW80Qk9uZjVoQmN2YjFyQ0NyQzVmb3p4X2lCOTQ2bTREcy1oU3pfMmVNNGxQLU9GMkRMQzdHRkhCaXVidWZDWjJlLU94bHE3eEpHZnZMYzRuMnZabnB4RkN3T3YtV2NPWDZXRElCZVpIWjF5RFcwdzZZcHVBYnBRazFoTVBFNUxnZ01XcmE5ZjJEMkt2NlFDQng5SldwcDRfSUU1RENSNUNTTkV3adIB8gFBVV95cUxOTmRuRUNudDVmdnNyeHh2cW52bVpYLXFNc19QMHVJRmZzM3lVbkpBNXJCMVZFTUZWUE1ZWWZHUUVKbTRFMjQyUmtXNWVabUF0X3JWSy0wd2tUMXR5WFNvV1o5Z2QyZTJBS3h3Y1NURkxLamZ2N1gwYTgwby1pNzNTWGVRRjNYaGMzelBiZmcxYVN1UkhIdXlsMEs1elZ0b2pnOGhVZTZNLTR2RUkwSUtEY0huaWFkUjd3U25ZYzZxMXdza2RQQ3JDbFRTbzNaQW9idnBWUWszaGRMRmh3eTBsZnhqU25IQkFnQnhmU0RqWmdzdw?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

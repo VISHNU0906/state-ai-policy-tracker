@@ -1,0 +1,53 @@
+{
+ "query": "\"Assam\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Leopard that attacked 13 people in Assam's Jorhat, captured",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3loX2tVX2pJX2EzTGo5M2JDVlRSWVQ4VTlZTFVnN0Q2TXhibThUM2tJVlFMYkhnNWFfLWJFV0pZWElXbFdQRXBuVnY0YmR1UFEwMFRVRlVITEdkQmZNWkp6MFQ0bXZWRGUyTVh2ZGQ2VGVWT3d6UE44Tng1VWJEQ2JicDJfT0FRbi1jdjczQlplcHhMOHlJdmQwaknSAaIBQVVfeXFMUDU3S0xhLVlwMkVHdDAtTG9NejE4N3VKczlZRl9LTVZFSWRYeV9CU2UzMm1GdUhZalk3RnI0eURPX3ROMzl2Q3BFQkNuV2E3OWEyRUNxcm9DajF6QnpFWFhoOFVWX0NFdllZb2hLRmJKM09fU3gzZWxSUDQ2ZmJEaUx0OTJjbGZuRGJXeGRQNHBpdm1zb0RHMDV0UXhIeHd2ci13?oc=5",
+   "published_utc": "2022-12-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 39 Crore Drugs Seized From Ambulance In Assam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmNaODJad1JZYkxOd09USFNLNGR1bHBLQ055di1BdFlocHdhaUFtOW5kdzAzVVVFWlNySG1tMTkxdUVBS1kxNTU2MnZ4eEJ6bmFEeDI3OGdhdDlBWGxJVkp2UlpUdlpUdjB6MWNIR3lTSEJpQ1FTdllZRmNIUnRjV0xrY3licHp6b0F5Zk5EZXdsUdIBmgFBVV95cUxPY2dyWUNuR0xPWU5zYVotQVZVTjlGSnh6Wld3Vl9BZmFkVTEwbWxSNUJROG8yY2ZabkZxc2ozODdvb2RYaHNvOE8tcU14WHlGMzBxdVhBVUFnTHVKNzYtblZFdTMzRUdnOFJkamtIaXNZOVFQSjFWU09zbjRBWVVZZjFmR2tYRUdCbGx4elE0Q3JWdGFKeC1JU0dB?oc=5",
+   "published_utc": "2022-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam cabinet approves proposal for township on land of Hindustan Paper Corp in Morigaon",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS2FTVFY5UE1yQU5jVWdzVzZscW5hMFZsVm56WkF3bnNYT1FDa2tzYXlHNG5TQWY2cTZoTkJNUThTQ3R6aklDTEN2OGdpS0FtYmhXVjNrVThLREJpTXhialNJN2lrSXNmQWhYUnUtQmEzeFBtLU1FZl9YajFveFc2c3hKSWwyTDNqLWhBOUZlalR3N3JXRzFZNXJWTWthUlU4SGNpQm41WGxLeDEtTHF3VGM4NjZLd1VoeEQ2MEhqXzEtZlFWdDVRaEZDVDZwOUtOakdSLWxGUVY5alZRRUYxb2FvaExZUUHSAewBQVVfeXFMTW5OQk5sTXFLV05pZFU3UVpwY0R3QVY1QnhNQW9xUnBrMUxwVkJWWEtQdllXNFVPTVpLSjBVck1QQWx2U2ZBUjZMNE1JVmhvSVlobVZvdU5HSUh5S1VySG5SQnYtT3ZHODB2Q3dFbkFnOWw1dFVIQ3VYRzZOZ2p1VnZEQW5lZTRRYWxIeEtwTXZrOVdEZWlSTWp2X2tRRDBDMmpkUExVN1FKbDF4M3p1VlBXOGdrdnVCVWdNTWZxdDg4RnRLSjU3cnlOaGI4V2dqekdtaVl3SzFSTzJNLVowMXhzZEpPcTA1QlNoYU4?oc=5",
+   "published_utc": "2022-12-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Animal census in Kaziranga National Park cost Rs 1.7 crore in 6 years: Assam forest minister",
+   "source_name": "India Today NE",
+   "source_domain": "https://www.indiatodayne.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3hVdlZLX1RDTVJBTXRMVmpGSHpBSGUxOXJTR0kxS3Z0WjU4MEdwdUQ1bjB5UVFKYnRUQThJWkU2Vl9WbGhsaEZIbEJCUFM4QUNJeXRuMm52LUc3LUs1VXVBUXRnamlla21GVVVNUjZJVGN4WU5vUjJmTVpDUjAzVlA3VHJ0SFF2V2pZR3NWMllJSk0zdWMzc2sxMUZfeUdIMGdKbVE3YnhVeVU4SEJTNkpocVRTMnJ0TTNpV3BHRElUMGtwekEyMlMtc3pWWFZNZzdhTXVYc1FQZ9IB3wFBVV95cUxQbS1ZZVZSWkJiOGNQUHJjNXBrWmZhMEpPdFFicExZQWlHa3p5RTlZQUNpcG5oZFBSeFZEc1V0am03dzJZMXJSS1ZaQ2NjUnlEcmpfVWxTZkpYbFZjWU5MQmVSbGNhZWFXa3JLMEtwRXpfcGZCaUZxOWRPZjZfaVhwdW1oZXJSNndXSFRFZVA0QVR4dUI1WWRnSVNpSDY0cjFueGJQYzNRS2pIank0allNa2R4Q0tzcmx5MDZDZlRiZGhUU1JOeFFSWjF5bUMzQ0hYYk5FMnloR0lPQ0hxdVY4?oc=5",
+   "published_utc": "2022-12-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Drugs Worth Rs 7 Crore Seized In Assam, 3 Arrested",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1hoRkJLZTJvVVBnbzNkS0ZYTVI0eWNqREhwUncycG5NNFZXQ0xQQmdmTjNrRXZNQ2dGcXRwVHVUSjNVbzJ1V0RWZXlRTThiUDlKT1p3STNOeUkwVTNYbXNxQ2tRbWFOWDBKa3QyVWs0OWc5UUFTVVZaMGpRc2FqZmZxN1BXLWgxbGpLaEh30gGWAUFVX3lxTE5KZTN1Rm5ydjFrM2VFS19nVmlUb1h3Wmt1RkZNSm1XZDVHYnFaZFdDbG0wRWV1ZVFsb2l6RzBVU0ctcE5hLVczOGJ5VXhLWEdpUVV1cTJKWF9RcUtHbXV3VElGNC11VFhMYTRLMzEzeml0YUNLQXN3dEZqS1l0ZkJsekIxc3FyeXVCU3BsalA4ZHhPMjEydw?oc=5",
+   "published_utc": "2022-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam tables bill to decriminalise labour law",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcmoydXpDeEUwSXhQd3N3N3A4SGNNWFpyakFSY0FnTFRHcEFxOEppV2dwd1JiaU5wSkt0SnYxemtlTVI4ZDJkbGk3RDR2Qms4aHNwQzFwSXN1VWhWRk9JN0ZOZnhpRDVERUVpc01HX0lGOFliOXlzYjY1LVFTWk1SVUx1bnhXMWE3M2hNWElYakcybUpVRjlQSVNnb2tPZ1JKM3kzd3F4YVdNNWJBSXfSAbMBQVVfeXFMUFVUYjdhZUVNa1pETVBKZlV5cF81MTZqQzlDdlBYUDhaVlVweExjdXNvUzFwVllyZDJzclhYMnhucVZBTjBUemJ1dTN3VjhkR011VHpmcTZWb2NXWjhEVlRreWJuNzdtRE9YMUhJZnJRN0QyYmdWVEs1cjc3ZXVEYWp3YU5aU1V5cVRZVVRiUU01cVB6SWw4YmwzRTV1UWxnSWdCN2hqdURZUVNyLXQ5czY2LXc?oc=5",
+   "published_utc": "2022-12-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "Naveen Patnaik launches 'Odisha for AI, and AI for Youth' initiative",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3daQUJlNDE0NGRCOHE2cmhyLTBlTGN5emdxN09jSG16MWs1UmtRTFNGQ1NfM0tkRGxEQjBiVGU3aGx5UTZWWjkyUlhINUhPT0hDb18zamJ1STFRQ2w2V3R5NWthOTRTVTdwY3A2ZWtxTEpUWFlxSmlyLWVkbDZTOERncXVMYjhVM3RUb2VSbzJuVVdkVFdKRnF5Mmx5N2Zvd1haQjdWVUhWMEZxZjRXaVlvZWZhLU45NGg4QTU0TnN1Y2pVRVlRLTRvYzJOS0FoOFpv0gHaAUFVX3lxTE53THFfM2JHTVNYRkgyUHZnSjJUNWhzZE1hVnJvbmR3QzdYeDJsc0lzR1hEeGNTSV82clVsSUxYMml0VUF5WUtDZDA2dW41anFOazR3VnI4RkNpQWFzd1I3MDZzb2otMnQza19DcHdwLXNjY0p1eXh3MHpTMnE2MWdDZVIweFRrbXJuT19aakl2bXZMY3plVHJfQnN5S1M5MnV3WHhZbjRFUjRTcGJoSE1iYVdhQ21OZjE1M2dKX2Vwa2cwR2xNa1B2WHRsQU50NmRhZEJ1ZTRfSnBR?oc=5",
+   "published_utc": "2023-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Over 96 % students clear Odisha high school exam, a 5.64 % surge over last year",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalloNzlabE11OUh5U2hSZ240ZW5DNklxWjV2UTJJTnptSnVqaEdTZkdaeWNMRVJEOExMb1UxWVJVQ29CRllBQ2xsTGMwamNXd2hVUUJ5RXJiNGVlVnZuYWlPNzZnSXJsNEc2YmVhSG9XMnpPeGxWVG9ZNGxnTkxRak1ZbE13a01QREQ0cWxEOV8xcldpa3lZa1BmTzRGNllyOG9mVDllUFpMLU0teDRjZW8tVmdyOEpDc2FpS0xvc2plbzZyU3k0SVJ4bkc3b29ZZElrYjNuRXhCTVpkY1HSAesBQVVfeXFMUEljMXd6cER4YkVWcktWSmhWdkhibC1FQ1VEdWQtWkg3UmFBVDFqalMtLXVGMHNDLWFLOFRuZ0psczVwd19NSDVYck1IUGpNZEZwbVpIWFBheVFmU3NFeWo3cG1YcXRvNDlwd0RvdENDdXpTdk1aY0NJZlNSZnlDRXBYNWFEWU5zenlPc0ptMDFZT0tFQ0tNblR5eDZSa0RQM3lYRlJ1eFVva0RXTFpUbnlLYlk2Rm9sNEMtY3c5Yk5WWjE2Nmd4d3NVY2ZlLUlMeWptQXRsYXA2Q2RITTY4VjNkWG1PR2Zha3lzRQ?oc=5",
+   "published_utc": "2023-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Patnaik hits out at BJP's 'double engine' slogan, says good governance matters",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOFp3M1ZqQ2lTMTQza05yaTNPSTNjZWE4dDdVSUpSdlNDMDZPYlFEQ090VnJMcTRxaVROZW9uUnhHU1MtZkdmYnp6TUM0Q2JGelRYMC1VbHh6bGd2a3RDVkE1cnc5MjVFeTZ4MXRtZmQ1M09rZjZ6dkRscGNneVpJczRJSk03Vk5YTjM4cWlNYWY4SUVIdzBMbjZrcFhTM2lYdGVrdDdjbFF2czBLYnBPcTBDaGZaeEw5MFpnVWVaaHFMTE5fZU1OQzc2MTl3cXQzVUZRNHdn0gHbAUFVX3lxTE1OLVNfZVpXcHBNVmI3RWk4Rno0bjlpZzFwNS01Z1FFZk1nRGtmU0xqd0RzS08tTEdWYl9rYk1CemgtRnd4MHJVUTh6S3MwUHpNLWhyTHppdGxmdE9JTFZDUFJ3UzZUU05lZjFybmpTMjBJWVBQVUNsSU9aU1l0UmF5VDUzS3NkdzVEZEVjXzJKX3V4VFBxRFpjcGNYZUZ6OHFlMjM3LTZIak9iRkRJVGNDdnkzUV9KcEQ5R25UMXJIUEtwR1hOUXZHS2xlVTRqTmZabF9aY2pBdk53NA?oc=5",
+   "published_utc": "2023-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJD's Deepali Das, Daughter Of Murdered Odisha Minister, Takes Oath As MLA",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXhMdE5vbzRQdXpRemt4QnM2YUZlQ1F2dS1GV0l5Um1GaHBYbldwSnJJcVkxUll2Ukl0dWkyc3VXUXFPelNkU25lckFnaGhVa2FndTlJZ3RHNXF2SV93VEVva1Z3SjFfTmEySVVQWjBSR1MzbjVrTjIwZHJISmNOR1NHaWhYazYtQTlLS0dOLWJyWlozeXdzVklWZ3owMnBSNFg2azRZTndqSVRjMm95RNIBuAFBVV95cUxPWENlVUNVWDVaMm1fTHJSS2pXUmc5bkk3c19XR2J1bWdJN1Y2aVhFcG1uMk9fSDZMMnBsUm5xSkxXeFljQVR3LXZKM3lQbmZQUnIzc3VQY011bHBHaHNpTXBkdVR0WVpZTjFtRjVkNW90LUhSSmdmMXE3d2lKNzdvUS1rZWZfSHRxWUxlLXVjNV80RnQ5VzQ4NC1iX0lnSTNOMW5iV09rbHFDQWM1NFRFRlJTUVRjOTRP?oc=5",
+   "published_utc": "2023-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "​Cost​ - Odisha: How Puri and Cuttack railway stations will look like after being redeveloped",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPY3Z0ZEZkRUxzNmZ2aHp0aXVSbU5MU0lHWHpKeDJBblZJWEk4aFZYOWFBVXFScHdoS1hTMmZPaUVCOU9YTW83dUcwWVJCcmhEaUc5ZEZ6MkFuNF9zMDd2UFNSSVB6N3J3aTFZVVdvbWVidlc0cnh2b0xGMDR5VGF4WEUxOUhGMkRYdEY2X05SbVVyNE5paW9fQ3VwWkxReVJNNTJHTXl6dk5EYlhzU0I3UEpKU1FVWkxWci1Ycm5SOVZSQjAwUkdrN1hKVWNfN0JyRDYxODBTeUNSNXpTcTl6YlVRc25HVVJSR3VwZkVvczFSRWVKT2pNV2ZlR2U5R0xydmlr?oc=5",
+   "published_utc": "2023-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha board topper Karma forced to become daily wager due to financial struggles",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRU9raWNDcXdFU2JjQnR0WjhkOTlUQU5pV09WSi1pWXdrRG43dGdtbmZzcHV5RV95RlVGb0gweF9SM1h2VXZxYm84bGZTWE9hTnVrVkNublVXdzJEd2VjYUxKOHNmYnNlcXhYYU1Zb0Fvcml5NjFDZFhLeTY3WDVMcjJnVmNGX0haN1YxOHhWUW1aY3VhR0tPSzlvX1c0eHFzYzhLS0xWZ3N0eTN3UnRXNkZVTGcwcndvdmRwLVUxMHBwNk5PU0s4MDM2b0k2Q0FOUkdvWlVhOXg5VDg2UUZvU9IB5gFBVV95cUxQd2dnYTBMelNDLXltNmdzWEpVRmNlUFdOeWJKNUtRemxURk4wS2xlWjdGdUZLMHVwMUVIanlrdGhSUU1vbDkwZTFzLWJzem9TUlpRV19jY2hTMmRUWTNhX0J1b2NGbk9CQ051RGdzb0xHZjMyZVJXTURhZkFMcFRyZ3c5dFRhZmgzYTQzYWsxdF9HdEloUlI5RzQwR0wzWkNpakVTSUFlRVNFQ25SYk1sc3BxSjNBendmSG5kUURSOXhfZ0wxMnJTZlRYV3I3aDBKRkgzZEJMUE1mZHlhTXZUdDl3OUhnZw?oc=5",
+   "published_utc": "2023-05-31T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

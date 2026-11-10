@@ -1,0 +1,21 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "RBI Bulletin",
+   "source_name": "Reserve Bank of India",
+   "source_domain": "https://www.rbi.org.in",
+   "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVTEtHYmZ1WEt4SGw0S1BTdFkzeDhWb0lkNmw5TnJXUGtyWnpoekpsMzFGeXZZUFN1WVNhMjZHRTJwZnl0M2JmaHc4cFNVZVZMaGtUVUhlejBTaXkwZzlMc001b0NlSFo1N0h0Tg?oc=5",
+   "published_utc": "2022-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Airtel company Nxtra starts work on hyperscale data centre in Kolkata",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2JHX1dZU25XZWpsTkhDWWJVTXZ0di1VT0pnaHB5cmgyamI0MDRMOUlUeS10ZUhfS2NUQXc4ZFVrR2pLSlhIWW5iSnQ4elA5cGhyOTNKUTdfTDRsWGNEdkQ1N1JuOUNGdFBzWnZZVU1oSUJXTmVWSmVzT1pyS1h6SWU4ZDdSZ3M4NkN1REZPNDBsUlE1REM4YjZrVU40REl1RHh1cXNia1JxX2V2eTFKRDd5eW9pN2tvWV8ybTlhNzB1YVZjMWNKYtIBzgFBVV95cUxQX1Vvc1AweDBLTEhNb0dCRV9FUnVZWmpZeGJtd0lZY0V4dFVYalhVMDhZci1QQUpZM2M0NG43OXNiZ05MVG5vZk5LeG5fNGptTHd2clZqTW95Ylh0bjZ5RmdZdW9zckViQU1oRmREMXFEa3pIUFl1a2h5V0NVTHkwampwS0owWThmMURpMHNCbFhUbkZDMjRjWS14Und3ZXUxdGFvWUdVWFdfRk16ZmlWZF9wV2xvZ2huaTBfR2R2OWxjTHdPUnNHTTVpLVhzUQ?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

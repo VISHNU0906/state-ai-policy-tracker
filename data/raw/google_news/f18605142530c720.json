@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "5T has revolutionised school infra, says Odisha education minister",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM29JOWk3OXJWOHFCNk93U002NU9NejY4ZWJsNUdVMGVHQUxKVmJYR0dLN0dSWVpqb2FSV2otTXpqZ3dQQ2gtNl9fU3RIWDVzcmtTd3JSWExOd04tdzhuYjk3cW1zVC1nOGxjQ2phTUNYMUN4cXJUdjc1UGEyRFg5WUt2Mnljdy16RFdWeU5wQi13S29YREFvZE9ZQ1VvSHRPczZVbG1vTENYbjRnVmM0U0tmSmlFd2VJb1hrQ1pNdHZnTkVVQlRuWVAzY1BNV2lzSmRNWVVpYVnSAd4BQVVfeXFMUEdrRGxBdElGbXRjUVZUZUNVanY0S0U5ZjBKT0piYU5GcmpKUkloWExnZm5Hcnl1T19YUUczZkphVGxLSWdEZGRLWUJCOF9TbVlRTXNGcl96MTI3ZGthYzc4WkdXcExIZ1ZqSE5zemRUUHF2c1kzWWpzMzFONTNxSnl4YjZSbzlKVndkTl96Ri1LRXVRdkJ2dDVlMUpDc1NpM29nSktoaEZxa2pkamlLZE1oaXlCT3BXeEw4NXk4cE5UZlRfSDljSEhoeXJFSmdsQnJ3SWVjcjV1SHplbjhn?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Several Injured In Police-BJP Clash In Odisha, Over 100 Detained",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2MxYnQzZVV5S0FZaEdmX2tIVmM3Sy1xbHlMUDFRMFB0RjFUQUVOWnI3RUs5dmdYWlBQVWFhTUp0YWlIQ0JtbXRLaDJ6TEVXWlBzQmRrS3c4YkotOEo2V3VVOWwtYUZ4QmVERktwbktwdEFsa0ZfbDhQMllYT1AyR2ZJbVVvT3FwcGl5TkZVMUtrRm1LaHN1UGpiWkFWOHl2RkZYX0pn0gGuAUFVX3lxTE5MeFh4azNDQ21qWHM0Y3JDY1JCdElCTkhHdUVTT2ZPSVlJN0ZhZEQ3TjdiSTY4aldKYnpqOFpnSTJwZlp5NUI4Y012dlEzWHlra0FTRUJyTGdWRDlseUNkOXhBb1BBWHZuN2RCY3hQSjhjNjVqcEJnMjJYOU52QVNKRjRoZUlDZHo1ZXZEVGFYcmhEbkViYllIdW9sOTIwcTU3Vi1nRmRrZWFQaHktUQ?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Prof Datteswar Hota takes charge as first vice-chancellor of Odisha University of Health Sciences",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSGVLZTBKVlZYbGowaHUySi0yb2RvM2xoR3IxanB6UTBkQnpGcHpLRGJqdU0wTWVRQXpCSWZZdFphcHZ4U1Z0LWpVSTk3RnYwc2szVkhkWHpaWE5CSU50MnF5NmZvaHJHNGllVno0X3p0X0ZvTGxFa0RFZnRsYm9ZQUVFRGlvV2RGa19zQUdwdVRoU2dmVFJFLWpLMjd6dE44Uzd5LVU2ZXNRLXMwNG5IQlR4LTJSTHQxT2lMZWgzeERVaEVaZGFPUWJWYTQzcDU2UEI2YmxBNnY0aHluZU9RM3Z6Nl85OGPSAewBQVVfeXFMTkhIQmVoaU1WbFJIM01YcHVQV3dwMkZya1N4ZHpJUERZYVlVR05WaHZyRThkQVFBVHo4aUFWd252U3dxM1gtc0wwVENnV0V5eVItVTZLdTFJSmhlRDM2QmlGUEJveEdrNFp6Vm1vNk45X3VMeWFRSHlvVDZBdWhmOGl4Xy1YUGxCdjlmeEs5VnVZemt3Z093QnQxNnVmSERtMnVYckVCaVBSTl8xYUlSTkxHLXEtUmZCb3JRMTctU0lhcGxnMGs3WExOM1VWY2U5TzhIbkctS3dUV0R5UlQ2VGwwRThnR2lILWItY24?oc=5",
+   "published_utc": "2023-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Smooth administration’: Many hopes pinned on Odisha’s VD College, now upgraded to a university",
+   "source_name": "Careers360",
+   "source_domain": "https://news.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3FLYzhQRW9qbmF2djNudy1kZXF0Ukl6R05BZXNWQm02TnFoSHpKN1lsUU1nOWZ3U1VITnJnbnYta1NuNElsSnFIY0VhOF9tSVJSSVdpWU5SOG9Jc2YtUG8tcC14a3psdmFGdENOOTkwbjJBM1c1RkpwQV9HUmNJS1JzYkNwSFBEUUpGSG1Ya0NwY1d5NDFhOUpKQmtOOW1qa0h1VW5tT2dLUnJFZU1B?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Primary teachers in Odisha threaten to boycott uniform and MDM",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlBUaG1naGMzVTEyVzBhTUc1UmozZUM4Y0JGRjVHNkY4WHFCdkZUZk5xYms5bXdTS2FPTmM3NC1PcWllYzRwVFdNQ0stb1NxZVlLdFYwMEpYZzduRTVBS3Bsd2F2dVpVM2VWOVdkSlNQMThwY2J1ZzBwTHpRN204VDNyeXF6Nm5aWE5IWDVEU0s2d29adkVvODhVVTROYWpNSXYzX0E4b1ZuLW05VFE5N2lQWHBxUTZtR2h1emxZSVk5OVRpV25rLWJmQnlmSzdDcVpqdtIB2gFBVV95cUxQNVlHeEo1dXAyNWpmdUwydkVTdkpkT1pma3R1YkZ0SkFuQnppMm5naDdJby1CeVpadVlxYm02LThtWEhUWGN4TGNQN29MbW1UbmV2dEJDX2k3VzhLTGtidnhZalB0a0NNdm42WnRhNFFVMURmcFd3aFBxZnlPSEdaa0Z1cWRLcUluendqZnJEY2JkeExGQlpkaWZ0dWlGbE9sZF81R05OM1JVMllidzB4aGt6ZS1VeklERFk2UHN2dHhGbDNiM2lyMExjZGRUTDBNMFQ0bGNLaG1nQQ?oc=5",
+   "published_utc": "2023-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sundargarh’s Hirod Patel Shows the Way for Farmers’ Growth & Empowerment",
+   "source_name": "OdishaPlus",
+   "source_domain": "https://www.odisha.plus",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1czUUU2ZVQydTQzc1pPUTBOYlRHZjRWZF8wbHVmcnoyOGZLQjA3N3FtbTZ2c1cxcUJqSV9mMDdjRklGdE5lWG5kYmw3SElIWTFEM3YtMm5RUHl6NHp2djRMZFBYUWg4a0FwNkptRWtxNnZGVG9GaG5fTWNUZ3gwRzJ2QzZOZWRLNDJMSEVsRGJtVk5uVU9EeWN1eHlqV0Zoa0pR?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odia techies working hard to breach the language divide in Internet",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjNJSkwzX19qZUU0M0lkZC12VWlvSUkyWVp3aUhST08taEV0Z0E0b0xjWWU4c0Njei1xU1VBZlZHdVdocXRnUGpJMUlkMEprUDlZVWxLZ3RuZjZGb1owY0xyM1FVVk9Xbkt1ZVNNU3JFUEVrdkF6QUM3MmZUd0MzSlNCSFp2cXpLYWliVkdUQ1Y0T2hRbTZDRUp0Rmd2N0lfRkNkYkFHMjlXQThtSEZFOUQzRkNWbGVTVXVjVlVKaDRabkJYdndIQWFaRkRkWDZYQ3RSR0hzTWRoU1XSAeABQVVfeXFMUE8tR0x5YXlReFBZMHliNHpCNkFuYkhzOG03bXdVQkRuUE5OLW1Od3QxRC1EUFptcnhQOGhKd0x4QXBoSVlleFJ1Nlo3d2VDSjNCaU5KZFo0QmJxc2RDb05hOU9DcmpadVljeFhKZERwc0drQmFvRTJrazFDWTBaTE5GOW9fU0FPbVJuZ3QzWGw2OEhkTVlDTW9kN3IyTlFOdVFYXzBrMFc4WkhCSXM3b2QtdnUtbGFFX2lTYUNoZVFwN3A3d3dZNXRzYWtqekxRZHJZLTZRUlZLVzhSeXpjOGg?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "20-Year-Old Odisha Man Hacks Father To Death, Rapes Step-Mother",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVhIU2tPOGREU1YxaEpKU2tTdGVVTWRGOVFXQzRrQXBHTEstQ2w5UGN4c0owRUMtUklZTjN5d21IaFpKZWpWM0E0LU9qQS1qa1JiYTZFUzh0YW9lQ0hsRHZNX19pbndSZFJWOU1iLXVzcmkxbVJoNHJVdFdFbTFFY3d1Yl9CRWdwMUt2VGhnaXRkNmdNa1VBWTlrUkJuY3hGbDdQStIBrAFBVV95cUxNdWQxYXFNYkhhMTJFUTRtaGIwTTlpT1o1ejl6ZEJidFdUczk5NFVmZExRTC1TOVlPNnJNaDFHaWZ5eXF4NGRkZlJCQXdkSTZ0WWpER3lEdGVRZTlMWDdVOUtxV1lSUXdCdjlKZFRmUzFwQjczVGI2Zjk2TWVRWVladGNlOExTcW5HSUNwa1MxaHRpMl9tb244Q0JGODRxRGltcDhjdW5XcGEydjhs?oc=5",
+   "published_utc": "2023-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "OUAT 2026: Counselling Spot Round Registration (Started), Rank Card (Out) & Latest Updates",
+   "source_name": "Careers360",
+   "source_domain": "https://university.careers360.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TNDZRRVNaMk54clN4Z0JMWGlPMjNTWHNyTlNQbkhYTjBfeFNmaFdtT3FnVW5uZHM2QzhtM2tIQ2c1OHpWYXRYellKenh2blktYlR5ZC12cw?oc=5",
+   "published_utc": "2023-03-30T20:54:40+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "President, PM greet people of Odisha on Utkal Dibasa",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQk43dm5sQ1BTX2RTaEFsU2FtSmc2bE83TW03TzZSTzRZTjBiT2JmYzJvU0F1am1NNTFjeGI1LXhMQ2tWOG9sUXZiNFluZ2VSZ3ZBV3ByWVNzV3VjbTRhMHByRXgzbDUtd2FaMjNab3JjVF9GTkJLMzM5STdQcTJfYk9LaGlFMzM3NHVxSlpjS0htU3NkV0ZodEJQa0NWc1hYR2Zz?oc=5",
+   "published_utc": "2023-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

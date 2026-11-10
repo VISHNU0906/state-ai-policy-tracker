@@ -1,0 +1,61 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Union Minister Jitendra Singh launches AI driven start-up by IIT alumni for water purification",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV0JtWVlVa0Vuc053aDIzTlN2d3RwMFdMeFVkZ1ZxT09sVE1DVzJDZkxfV0xndUN2NGNXX0ZBRzJHbV9jY3VxTDFXTkludklEWHFHQjFfVUVBWXpBUzFNdFMwM3NhNnZHTWJIVHY4eGFEUkV2UlE5LWZMMVFUSzNRLVpSQTZXYjJXUV9vVWQwOXZuQ3hldllNTTZCSU81d2lnMVBGZFdBNEo3ZldweGJ0S0U2d3VNUEFfaENVd2lxUFZVTDlzVm9IV01DM19iSzFON2ZiRmdCdllINmVWY2hCbW5wZmhUdkZNR3NPNTBYQjhiNnVTZ0pvam1vVVRsUmN0RFdoR9IB_wFBVV95cUxQcERPcXNWaHhSX0tGeG52VFBNa3JNMXJsRjNGWjVESHBwRDVCSUREWmhMZjhqZ1RmSXdzc19QcWF4VVUwWHBFTl9XUHV3dkRzeTBYcDBXOVRqUWxkODcwRlVZNGZyal80cEdHRVdUdm51N05kUzhvY21ZdU1yRUZncWFLOURtX1VjT2tTTWtUX055aWZWWk5Pd1hjQjhuanNqTUdfV215Q3padks3MTY2UDlRYlFDMktjbWh5ckRqUkxpMmhjTlAyMkxlV28tUjZKRlowWkNsSVJBNkpDNlRRdzB2UXFTVFBXWWh5TmhJT0kyeHlXZjlUaWlHV2J6Mlk?oc=5",
+   "published_utc": "2022-01-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM inaugurates football pitches at Centre of Excellence, Kharghar",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1JoWUlEa0pUZlpwV2ZDU2RkSlEwWncyTEpRQlJyeDduZkVBZ2Ywdkc1N3U2RmoxMllKWlNYNTZxNlhQNFExTUtYeTFReWtuOTFsSkwyZVVzV1BUOXM2b2k5YUppVnNmaDF3bF9aN2dYUEJWcFQ4Z01HSFJYNUx5VTFLT09YeThLelcxOENrVXBYVnd4Tzg5ODFGZlEwbGE2cHBDaEZXTjRoLTFIb1ZKX1ljaGFWWDV4VU01SXBiQ0RfLWF2Nk5rZzdFbTBXd9IB1AFBVV95cUxQcXR5cDJrN0xBcnZHVVY2MWZ4VkdMNkN5c3VKT2Q0UDBrMlM5UXg4V2x2ZHdoWXlId0txeG92NGZqR1BCM2FzM0F3Vy0xSDRyNTBsVWFrWGJsbzhqOHNTc1lKeGdTODVVaExGcHgwQ0lxU2ozVHdiTWlJV0sxZ3pWcDZDWFl3NE5FemVKQnhyX2pheWpEZm9NM2U0N1owOFQ3Z3ZsYjhxWTV5VkRMMWRPQlJYTDJ5WjhVMk83bUFJV2h2QlYxZlUtWEpwSklENlU4eUxsOQ?oc=5",
+   "published_utc": "2022-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Activist Anna Hazare Alleges Rs 25,000 Crore Maharashtra Sugar Mills Scam, Writes To Amit Shah",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk1ySGRmSENPV1dXeDM0dDhrZklDRmlSQ2pqOWJWSlVXbmxPNkhvc0RWcVBYaHc2TWF0Yk9Ld2VBQ3JLTk1BRk9ucE1PbUxNMXlOSXdYRWkzb1BRNEVyOWxNZDdnY19UcTduNlNVa0xGWmpyNXd0X3A4b1hnZThmNUlRV3k1cl9qZnZPRkZhV2ZZdFZxTm9TVXpKMUloVXg0QVBVNG5vd212bGZTZElSOVpSY19SdEh1cWdJQk1ZWkZTZw?oc=5",
+   "published_utc": "2022-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nagpur: MADC’s cheques worth Rs 3.50 crore bounce, officials say tech glitch",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRHRHVmZ4TnNvcWdJcjJfM1NUaWZyNTFZdUZVV3dWZDRSalk2UGJ3RElROWt3RmxMZW1vZW1rLWdpMUVibmFUckM1Q25MdWRudE9HNF9FNDJJNzlldzhKMVhKbUF2Y1RlMEJqaUZvWGdKSmd3RlZNM0RJZDJDRU9mTlAwR1ZvYzZPeWJEUXZiSVpLNGt1YU1iZ3N1US1ROG9ZN2o3VjBhUE9vQXRRbGR3UE5lbjBkMDUwYTZJeW01dVZlZW9qcmlQaFJPelNyZjlac2c?oc=5",
+   "published_utc": "2022-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MSMEs now prioritizing cross border trade, online selling, social commerce with Digital-first approach: Repo..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPYnJGMzJFTFFUUlk2VkRKZzdROWdqZkpmS1pkNXdJYnJxZWpjdENJY05wbzR3MnpRSkRXRDVxUnB1bk9weXNuNDFZcU5ZZGh0YUpJVW5UQVNpSkdpRmY4Y1FGRHAyajhMMmJ6T1NCYTNHU2NhT2VlVHBpcVp2RThGMHVWQWNhUDV5LTRhNDIzbUtLWjVTRk8zOGw4WkhSVHBPOE13TXg5MGdyY2xGTkQybVhHZTBhMzBqYnhlYWctTW9BRGZkbnJPODU5eWU4T0owNURaY1ZFZ0tFQW9NcUNETXNTUUc3MkRWRllKTnNrblFyd2R2eWJocGdJVFpQRzhVOWdSRHFPTktuZl9ZZUNmOUU0WUI3U2FYUlHSAZQCQVVfeXFMTk11Nm04Mk9iYkU2WjFpZDV0ZUl3RDJNcDBFOERLSk5fcnp5QWoxOC04SmF1RF9xN3RpY250dnRfUFMxRnhQZUgyUGR3QWVNNmZ5X25STmwxMmFlRnlTOThXYktZb0RTck5maVRHNG04N2VrRW92OS1ZeE5TeUZWSGpOYmNicHMtNVNScXpSTXNfbHlLR3drZUt1T0xFZXZXVzU4TExkQU5CV2xVNGdHZU5hdl9jNkpHNXFIZUxhN1o2eTJfNlRDR09seHBKTEhmYlhEd2hIel9uclcwUzhhdWg4cWJ0ei13UVpid0NxdHJzb2dtNlBBdmpHYVNfeHdVVmdWSEU1ZkgxcUxaWXhDQWw0Qlh4?oc=5",
+   "published_utc": "2022-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata takes off Air India on a new private sector journey after Centre completes 100% share transfers in AI",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWnlYWS1BeU9USHg4WnZkSm9IeXdMNVBXZUd5UVhmTm9kd3phem5SZGZ6R3hnYldPTUtXdmFsZEt1cnhJVWpFaVJQY1Z6X3JuVm4zNGptUmc0c1Z2ejJxWGJrYmczaUN0SmVzYmlaeTZjUWdSUWRUMTZNT2s5SWQ5WTk5bWloc1phVlBma2hpajJvSzZQRTNZRm9XNjh6Q0pUN25ITnFJakJtLXdsdTVXSy1ZVGExOUgtUFdaSnNCdTIwV3F6U3dQQ3pyVXo0WHBHUUNjZXNZZ19adGZBNkdwWkZGZkwxb0pQanhzajdoZk92c09yS2pjQ0g5b0kwZmwycHNFTXN3OW1sQdIBjgJBVV95cUxPMTh6SktzRmZQcFVjaXZzQ3M5V2toMGFaOVR1cDZLS3YwVHhlVHprRmNzUmdra3FsMUV6RXBlV2NQQnhvNzJuX1ZtVjFxaDFIRkQxR0VPTDlLQmZhOGw2SGU0SHpael92Zk9ZNnp2R0ZXRGNFVXdCV2luaGJBRzBvSE1wQW04OElTeEtSM3BUZnhmRXJkN2RpVVJnUFpKbnZ3UEd5bURqM1YzZGdTTHprc0FnMDIycU05aU5ZOUZaMjB4T0toSDBBMHdPQmdLZW1wb2ZEN0p1T2d2TGpMZllsdF80NV9Ycml6THFmS0c2UjR6MV8zVkZvZjMtMlNEV3BnM0ZWQ3VkTDJEcVE4aEE?oc=5",
+   "published_utc": "2022-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Minister Satej Patil appeals journos from Mumbai to come forward; promises action in Tek Fog app",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSVhCX2t3VlBjME1RNEFTT2V3emJaeVZqR1k2RnJ6MHBDR0xBMHYxdENJQ3NrYmczYmFsNUJRNDZ4bnc0dmFFeWJEOWR3ektHZkMydHhSbUtfMkFsZGFXUXBMTzM4X1dRNVFxUjA5end3ZWdTR0M2ZjF0WHFiaDRMNEhmNnkxcC0tRVNDY1NMNUZDT1NZaFBTeHJiN1BwenJfYlRWVlQ5NmhnZHRIY2tuYWxQYUVfdXAweG85V3hjZUNzNnhicXV1M1BIZzJINTNLSC1CeGo4alpwa3JIUHEyVVh2WmFFUdIB6wFBVV95cUxOeVVCbzM3UDFuQ3lYc2dTOE9uWGlPNjZQdHdJZl92V01BcUNUbG40SkduMTZ2Vi11bFBMaGhBODltZmlJMWk0eUdIeDI0bHUzTTFKeEktNmxYeDNSTXZnUE95YzdnOHNkZXB2WUxMYWtrSXVGNWRLeC0zNGVnNGFJanVtRzYxR3Z6eUpuMmhHdl9tTEplNUZHLTZ3Z3FGTWNZYkxMY1QtZkdvd28xc1FLNEhhMFlnaEstclo5YTctUGcyd3NfUnZReFI4aXBTa29haG1SWV9tWTN2cVU5aWd5UEFhbXdremIySnlV?oc=5",
+   "published_utc": "2022-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

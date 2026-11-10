@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Maharashtra government nods to the establishment of India’s first Universal AI University in Karjat",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkJQSWk2cGhmQ3dVYzNRTXZSb21QSkF0UE9vd0FFR1Y1N2FPTXB2XzlrOVV0MDNZODdwSGpyYTZIWVlGcGVHUEJOQnhFNnliVFV5MkxSUm5KVXFGazNWMFJaN01XTk9iUnBiV2g3cUhGN1JoUFdyZVptZXVFRlUwX2RXX0R4NERKZVlyaC1GN3J1OFcydVF2ZjFNOW90d1lVN3U3QzNubW9ubndOTzRXeURGT2s0UUFfXzlWT1BtSnViZWowMVE?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India to push for AI-based portal to help MSME supply chains across developing world",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcU5MZnE5SmJuNUhtcThXMHpKd1JPU1hPOGhlTDNWR0l5UDRHdU5weE9uUXJ4R3h0ekZ0MVZ6X01LN19tQkRLdFZFXzNKVkJ4aHFHa1JDZmZtVm1meGtpTjZYUC1zR3VhVEdXTk9icE1FOEN4akdkdnpZUUxhUVJ5Q0E3ajlyMUxBQTFZN3pYam1JN201V2pmaFIwQlQ2TklJdUh3YU9XeFVaQlVVSE1MLVM5Ry1GSHh6UHNXY3l5blBtZXJKV1hjR29GcGlacmdielJNcEkxUExYMGpzVkdhQm84TzROb3B6NDdsenR0a9IB8wFBVV95cUxPZnBsOWM2cHV0cVNxT2s0NDI4aVVhb1V5YTJacXcwaV9zaDdEZV9IQUJsNVdLdWJSYV9mSnVVdjVTLW1GMDlHUE5KR19CbmJGam9ZNlB3V3YtdlZqZE5tSlZfNHVVbGVwLWZXdzM2RkJhUlJPZ0ZlWlhaVzhWc0gzZWFacUlLb0VSLWo4UTdYYV9fZllGcnV2WDg1blg4YVZjdHkyVjkxcl9KMzZvY1J5T2dxTXpCYXhNZkhxaXkyNVBhLTQ0NURVbFZIQm5CSnlIbXlYUlRjLXk3WGZoaFFDMFpoWl9iV3V0ajY4OFJKMS1wNjA?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cm Inaugurates Infrastructure Projects In - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkZoMDMzbU41d0xTcnAzcy05a1NZamJtZUVXWWkxWEVHbkplX0JlbktMaHpQVDU2Zm5oYXozZE1mQjBiell0QlYxQTk1V04wRGxDZ1ozWXFqdEM4UWFfRUJxaktFTEdzUVRZUXBna1RKazdqSkNncjZpUkRBSGYySXNZSnFEQmlZOEpSWFBwMVBNNWNRZkg4NkhLSDNCVW5STVE?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ease of doing business, AI should be focus areas for Digital India: Nandan Nilekani",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGtSdkt5MExxcVR5STFXZ0syYnc2WFZkWVdyZ2Y5OEc4R2hCb1BxTUp1ZFdVY1QwLXNMbDdWdDBrRG1Td0g5NFJqR2xHSnZ1ZC1VSDFfbE5ueVplNEpJUkJYV3MxbXhNUEhJTDFlcW5LUmlyNGJtamV3dV9lRmFWQ0VXSXgxUFdxZ0prWG1tZXlERkl6OUNFRU1IVk8yVmR3Q3VHLXJJZEhiVjJya1RPRkhwUkNRcUE4YTIzVm94T0x4OVRKRHRGTE9fRHY3TW9IX1BTWnd1QVNFVERjbVRUU3M5dU1YNm1WVEtV0gHvAUFVX3lxTE5ZUnVuamFTOGhUa2tKRnhHMVQ4UFRRMTR2RGtPMmhqNGowS2VocXdweXhSRFJSaW8taldTSXloMWpIMTdKM2VpMmk2bjZZQXA5UTFjMTh1TmdBLUx1ckxpTy1HdkJncVlVb0xNeGJaS2ZjUl8zUEhOc2lGSVNYaGNPWUlia2EyY2kxaXhOQnRySkhZUkt5eUpjM3ZNNUdSa1R4ckVWVmg3aHJlclo3UXhYd3hkemQwd3I5YWpOeFpUUHZHNk1oSGR2UWtpY2U2a0N4cVpjWkZLTUFpanFyNTZidmJvenB5WVVYZ0h3d0xB?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "हार्ट सर्जरी के लिए पहली बार हुआ AI का इस्तेमाल, डॉक्टर से जानें पूरा मामला",
+   "source_name": "AajTak",
+   "source_domain": "https://www.aajtak.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDFacTJxd0xQMEV3Ym84Y0w1OW40VE1OSWlodmNnZ3VpQU8tby1KNU1IYVota01CVnNPLWRQa1R3VE15cHZkWlU2NUc0aFY4N0R4Y0tsc1dLZ0FlS1oxRTZ5VXJWSy1RYm9CbFRCVGhPdEpNMWVJWlJzV3JhbXFVVy0tZjdvRTV1ZTBGX2M5N3A0NEZCZ0V0WTNzZTdpclB6RkdPN1gwUUVYaWpKWTd1MDY1cHhRODJaRXo4azY1UHdnSW42TjJjenFTQmNETHVNQWRySWhrT2JVdjhOV2RpN21rVWQxRDFZXzhsQ2txbThPZmFSQS1j0gH8AUFVX3lxTE5kTkJ2dThvazNRX2R6LVNfYXZQcVV4MmhDTjdEbU43NmozdWRvQlphYUlsLUFPRU42WmJwSUw1RXRsVE5UY3FJeFB2ZGp2c25lOG1QOFgwSEpCSHdUeHZ6MlFlRERib1lzaXhXY19mQ1NLWE8wWDBPNGJSb3kydlo1d3Z6Q01QU0l4bTVWR3gzbTNJZnAxdHN5eGRITUlFb1FZTHJsdDFiVUd4eWtnbDFaSTBMZmNTTmoyeXZZdGh3SHF3X01uZFJVellPX1dYYVlSdG9PUDF6Zmg0MzFoRGZQSzRoM3oxVF9lZkJjaDFRVFBTZUQ2aFB5bHcxUQ?oc=5",
+   "published_utc": "2023-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital India Act to make AI platforms liable in cases of harm to users in healthcare",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPel9aYnRRZmFCRWJDc18wLW9kZ0dEaXZaSVdoOFBYMFFFbUxfTkRXazRsX1NfVVJNRmpKRFVwdE5lZk54ZFJpMzJLMVBybWR3bTE5UVlFQXg3eTM0X2dPN0hDakxNdWtUQ2l6eFdmQ1FiRDh6V3pGVkdreENKU3VCRlg1QUlqYUJ3aHA5S0JsSTZRTGdFMTJBLUJpYlpWdUVORVAzQlpScGVGZDRzU1JYNm1EYXFJUGhNVjRzV3VITFVnNDg2czdMdzl4VlZKMjFrRmRhdGhLeENSVGpPSnhRc0UxTUpuMWltbGNFamtlcTBqbHpYQW44SmJwSWZJZ9IB-AFBVV95cUxNZm53ejI1OGJoWEhtVE5maldEN3B0cWRZM05RWXNna0pNV0JBeU01dzliWkI2QkFETS1pZEk0ZUtabk9Ebk9xbkFiQ3dKaUNLLXBwWVltREIybVZ2d01WSUEzZFpQQVBrWjByR2NIb1FTajFvZzQyd0lMWHRVaGJVVTZoOW41X2k0S3QwTUJwSXdZc0E0RWx1M1d3N0pvWmVUMTlIQjhsUnhUZUsxejZwTm9ZU3BPSTIzTUZCY2dORWU1OU9VWlhRallsVzdXTHlrTDR3Y0pjLU0ySTE0bklqaXdoNUR1TzZwVnF3Njk0RXJSWGxxUnZnMw?oc=5",
+   "published_utc": "2023-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Doval, Sullivan discuss cooperation in critical tech, including semiconductors, AI, defence, next-gen commun..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeWl5bmdmYm9SUnRXRzVjeE1ZZUpQZU1VSVNzVksteUlqRld4b1BtVUwxbmppZ3ZLdlJ3dDdpcDhncGtyRnVhanpfRWlzdEFNUi1RNk1FOGt4Y003cHBXeHBOZDhjTURHeVB6VkVEXzJiVGc1a0ppdmkyZUxYdnJBUlRlZ1VtUU16N2twZVo5YldQLTJWcGd0Y1A2OGJ4cWlsUXYzTkp2NDBxS2JBSzR1MmxOaGx0RGZ5YmFMb3Y0TWxNclBsTkE3MEtPaFdKOVItclgyMzEweGRUMGdBQVQ0Q1VPY2dLQ2VNTjd5clFOaUhuZ01lYndkT2VNTkZ4eUJCdWw0M9IBigJBVV95cUxOanhSM2ZMcVY4R1IxTVFZcHhGcVc2Zi1LeXE0Yk12c2sxYVRoVGNJN2t5NFM1VFotSk50QVN2SFRQU3JULW9PbFFGV19DQ1Zqc0djV2xRU1MwbHVoNzhHZHVZX2Q4dnE4YWlfczJoRVpRc2YwN21ERTNFdGZDNjY4OXJoUUthVmlBU1VLelpQbUw3VGRFa3RBLVJjM29SZWNsYnNDVTc5YXNnVUNyMEY3dll3RlVQMlZpTGJaa2cyczVDZzVEU1FjVVhJbDRBSFdHdXgzaEZVVmtkdFI1T0xiYjM1R1BPSnlMN2owSzhrQWF5cWtPZnJEZWpoOUlPQTJkeERDOWhjTE1xUQ?oc=5",
+   "published_utc": "2023-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UPSC inducts Bidyut Bihari Swain as new member, announces new exam centres for Manipur",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzdqeXJsTldaR3FLRTBKd1loeVJGaWJGLTlVY2VnT284RjJKQ1VIMHduSFpfc0pzRnc3RmRqQk1QMjM2bDVBMHNxUEwtdnRyZWFpZElPcHdfUmgzMURrNGp1SmlDRUROVHowTnVBZ2JvMS1mQURwN1pzVmY2T0g1N2FQNl9DYWtTOEtmaFpXN3JCRlpRUmVlWU5zNVB0dDBXT1RrMFpSTVd0WDhNMXVSYXhxbHcxd081ZHJfcHZPZjhmcGFaMzVkTUZhQzhIRWY3eFN3VTZMc0ZjM2Zjb1gtNTI3MGxNcWV2U1RXM2h0UnDSAfQBQVVfeXFMUC03MHlrUF85VkdHdHQ3WGplS2lBUjVJVU0wY1ZSWlFiTjNHRFZuTkI0NVY1b1ZBSERQcUZ6cGtSeGR2Y015ekxZUVFKQW9MakcwTEFGODVSelhFUk4wNnF6WnN3RGhXcHhaTlRuLWl0WEUteE9OazVzSEJVMHhnandVSm4xM09CS2VDYS0tTmdHdFduajJRSHVZQ2lqM0xfdHZUa29qd0xhVTJwLVp2VnkwbWdyNURlYWdfaHVZT1hJdmRVT3h2NGN6UXlJWE1GUExXbWZyWWYybThHd1VzM25jOVp5Q0xtSXNwelJTUkl0TndRVA?oc=5",
+   "published_utc": "2023-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "JEE Advanced Result 2023: Mumbai Native Yuvraj Gupta Is Maharashtra Topper; Read His Success Mantra",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY255cjFBd3YtRTJDZGtTODBqY2ZLcEZrX1dVQ2x5TTJqOHZJOFNBMFhDWEhzcE1xcTdFRE9HVjJHdkVNVElVQ0FrekY1dDZHSV9wb3ZydkFXWWI4a3ZUdndWRzc1X0IwRUNrUV9obUJaSHFkX0NpcWd6Qm1XNzlmenJtRDI3QlNwdWh3ckNXYnUwVk52U2FTZjQ1cV9TVm1BY09ENmV0czBOS1phejJwdU91SGU3N0VLaU9mMXd4M0sybkhhWktfT1RmbHkxcmcwOGRBakV30gHbAUFVX3lxTFBHVmtMSVBpT191MzRIZnUyNF9YS0I3QlZtYkNzTk9OR1NaWkd3WU5oREZnbDNMOXRtWlBXbG9hM3RPdkdBM2xBLWJfSlJ2TkxVUlpzNzlPeXNualc0Rk5yNW1oOWNERU5fdlplMEU3UUNmNC1qYU8tNEJjcWhSc2RURnpoeE5rNzdxX3BrOVZhLUhMZjBxNXFMM2FqZmROaFNCb2xGMC1YV201RklzTExQUUVja2x3QWFNbk1venhGLVh6ZDM1OENSZm1SRy1JRVJGUnFHYkpuX3YyNA?oc=5",
+   "published_utc": "2023-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nagpur: Ganesh Tekdi flyover to be demolished, making way for redevelopment",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnJlTUxBN2JZeFA5NU54aDgwdFNvQ0VmODM1TDNUdmZGcHRhNTh0LS1IeWVlQVV3YlZ5LUwtdGxKNS16bk1jNGYtdmdXTy13R1BRZnhJanZLeU03eGwyM3ZNby1MN1FWd0VWc2JuNHlhQV9VSEhsZS1GZ1B3OGJwWlphT1VGbEsyMkRlV0JNZndaTHdlcHF0VTN1dlM4SkpndnUtSXdpWGh2bzFrZkkxMXYtaHI?oc=5",
+   "published_utc": "2023-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

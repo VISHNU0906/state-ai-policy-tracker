@@ -1,0 +1,61 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "OpenAI's first Indian employee Pragya Misra joins the team, says eager to contribute to India's AI mission",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSHBhVXRCZlFLM0g2TGJtMVFudjg1SEVJanZPRGlxQ3B1RjVWOW1NZURmMWxrNnJ1eWpIZUFPRkw5OExFS1VzUDYzdGFOSzZ3UHNBaDhPM3ZyMmxQUFJNNEwxRjB1S1M4TnFVS1NTSFJ5NGZwNUY4bWZrdjJrc2ZzRUdsd2lqSlFWcUh1MVRZQ3JtbVNMaGdwRUhhTzdudUM4QkZmNFhkZm9CZk1hb1NkVGFkOXBSWjNjR0V5cHluaG43d2c4eWs3QnJLdkRpMkI3dXl4OVg4VXh1cU9nYUVudWdibXBwcE5xdGN3M0J0TFJxeElnTTN2dV9rMTV5Q2s?oc=5",
+   "published_utc": "2024-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An AI-Powered App Fights Climate Change While Revolutionizing Farming",
+   "source_name": "The Rockefeller Foundation",
+   "source_domain": "https://www.rockefellerfoundation.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGhrTDhaalAwTGdkbGd0WWRmems3RFFBUFhpYXhESlpydm1Oam1wWG9WZjJSUEU1WkNTc20zZlhxX1p3MkZFaVBucHV0MGRoN2MzRnFUT1lpUzUyRUtrY2FFRXNCZ2tjNWNRRlNBa2J4NGhjd2swTlE3UG5ZcDRKMm83YTlaelRLSkV6MkRBbnh0cUZFWTNyX1F3cUstTTJYTE84eF9hcVp5OGxNZmcydldBUnZPb2dkcThZTDB4WnVyTGhDZFdSd0JIVQ?oc=5",
+   "published_utc": "2024-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Lok Sabha Elections: Total seats, key parties, key candidates",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObWRsMmRwZUc0UUlWanNaUFJoSFp3UE44NkdKLWQ3c3JQT29pX1pwMERKOWowNVlBNjRvV2cwYXk0a2FXMDdpSDhhVGNGQ0hCejFCTjdaU0gxSkw4ZV8xRGpQa2lCVWR3Vkx4LUdjcG9ZWFAyeUFLNlBsMVVqV2VWaHAzSjFBRGpOU0h3V0hwSmYyYnFaclM5anFKU0ltemNMNlRxM3RFWWUwUnptdC1FME91ZmRuRTA0QnJsb1FpWFBBdHEtaEIwdWRBZXlrMzRMUFlkQjd0QUtFQkhfT05CUGY0NEo5SVVkMUhPeHIzLWJmQ3IzazIxYWhKandlVTR5MmdiX3RldmxUSktoQTVkbVVUa3c?oc=5",
+   "published_utc": "2024-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "At Rs 3.1K crore, revenue mop-up of top local bodies of UP soars 33%",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjFOc2NlX09jLW40QTZHZGFzSGVMR3psay1ZcUpPTjFtcmo1UEE0OWw2bEpYRmQ2NWVZcy13Rzd2ZWxFamptMEd4akoyeTJKNUdTTEl4WDBQazh0dGJ3UGFBVkVJN3Ewa1REbUtIbnFJZHp5dV9fMzltZE04OTRrX2JOdVV1SjBHeWlMMEM0eW5EQV9ucjNrdUFwQm9hUWNQN1l0SnlZaDFOZENyeDFqenkxd2t0NDNVZlBaZ3o1RXhKUzRoMXZEaWIwa3hOZ9IB0wFBVV95cUxNRWY1dkpIamV2bEMtQkJBYk9oX0ZLOXA3MF9yUW5adVhsbVN6bmVzUW5SenNUUEg3dnpvcFlrN3RwQWU3NmpSX1BIN0pKeXVIWlRXNkRpQVllRmdBRkZleGFzWGtlR2FVN3F5X29TYUl2WE5FUjlSMkZ4TklVRjdzOTZxU1A0VzdwSG9CODBxVE1Rd2lHMy12c08xWlZkRERJWU01Q1Rka1FMTFJ1c0lSWGhLQmJVbElOT2xYQk51c0tZVVZKVFMxWFl3NWdDWmExT0FR?oc=5",
+   "published_utc": "2024-04-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Union Minister Giriraj Singh owns assets worth Rs 10.16 crore",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcENqaEFWLV9KU0o4SG5OZzQ4LVhZN0ZhVWNEQ2gwUUNSYXlrMmZOYTJ1QUVndjRqSHJVeHIxVHdkMGt3dmhhaGVzbks0NXFLNW44eVA5WDVxVGJld2MteHhKNHotdnBDRTBMdjdSMmhoX3JYLVVodGZ2YVI5YndZMnZocHRXWS1zcXZJX05KSF9jWVlrQnRjSVpyTERBaWd6OURNUjhBTEJnR2RaeGpHRVBCdFRnYy0tcmFwdmc4b2p6VVVOTVVGQlRDeWlYSDN3UEJmTzBPS1lWV013RlNuX05kSGlRdlFoSVHSAe8BQVVfeXFMUFBNMm5MZmN5WGZVT2JOY2Q1RXZMRmNWSlRlRXJacU8wVGlNeFI4TEFvWEVyRVJMSUZ5UklKdWdHc1ZoVm92SGdPUXlwT3lGb2I4YzhEaTJjd0VMNmtVMXB6d3pUeGFBalR1VVlHemVVdzF3Z2R1YWdIRjZ2Z1A3Zm9sUU93RGljUThrS0ZwU0RjQlZzX01lRXVWVWd3SXcxUzMtbU14SmtjSVAtMjh1OEVVTkEzN3VqbGVHaTA2SHBTUFdmb3FneWdURmwzRnAzVWEwdVdBakN6UWFzVklpSDNpNDk2S2FwbXQ0T01IQjg?oc=5",
+   "published_utc": "2024-04-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Battle of crorepatis: Meet Noida's richest candidates in the electoral race",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMGlDRGtxRHpLOV9mbVNxZVE0XzZycE02UFFjTVhLVnAwSEwzVjNJdTFOcWU1S1NSRll4NUdQRmJheDM2QWRxU0Z4NV9oS2FiclFnTncxZ0FNNENWZ2xIOHVEUGJMeElERjRFZTNuLTA0bzhRLWRVc1dDWEM4OEdCYmlyRld4c3IxQU1GaVFGVXF5Z2dXVVlWZnVDdmF1V2lSODVUN3BFQmdSUi1USDc5VDVSNEphWS1hVi1kdUNxWVNKSEhQVkZVM2tZWlpWU09EVE5ZN0lUbVhINDN2SnJPclRwZDNjRk9EYU1XMXZRWWFNLTZJTWdlLWRB0gH_AUFVX3lxTFBFTWlXUTNMOXhUYzF2VkxNUHhTelp3MXFlVnRCbTlKWUhXaWozbjRHSlhsU2dWNHpHVWVCYlJvUmVBelBrWlByaG9hbmppYnZuZzJDVFZYaWpSYkJ2QTBlNkxwZHpXem14VTFab3NFWXJxbXZPaXkxMHZ2U0tBWmJyX0dzTkdXZ3BXNjQwdGRVcF85Zk8zQU9fZzc1VTJBTUhNN1dUWmV6T0h2ZDVwRFZTWW5mN3dlQTZob29YQnRDdkV1Uld4MXlRRnJDTmZqVE9aMEs4aDhadGl0V3lvYlVSMHdDdG1oM3pRS2NPRVd5S3g4eVJGTUpWbXpDTWRIUQ?oc=5",
+   "published_utc": "2024-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajnath Singh's assets: Rs 7.36 crore cash... and two guns",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNmVkVUVnNTRKNDd3WDRLMGxmTTF4MEVYbG8tVjlKc0laV3FxRldxVDNMN1FkQ1VEcm80V2ZMZVplZEZqUmF0WHBZeUhVX05iSmpNMWdLSDZyUWxTNjRpOHdxMEJSSU9zbzdvYmFKWmdMbTJhRGk0WmRzNXVlV19MeXpTUEc5ZElQV1Q2RXZ3cXN0WHRuYVc2Y3NFSXVqX1cxMVozRFVuaFJfM2VIeVpSbG5aQkVqcU9rMVU2YklyaGdkYktDVFlJOG95OGktVUtUUEpVSGxWcEhIaFZVeFFTelRjVUE3bEROdGU0bTZTTVAtTVF4RnBVbXBQcEJBZm1uUUgwQjRR?oc=5",
+   "published_utc": "2024-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

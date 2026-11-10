@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Rajasthan: Gandhinagar (Jaipur) Railway Station To Be Redeveloped By 2025 At Rs 177.45 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkpLREJoTWozNXFPSXlvN1dUQlhfMm5fNExWb0V2VUhwck9YVkttQ0JFem1oRkhvY0hlNDhkeGNTTEViTmVoMV9zdUhPdDlkMmNUZDJJVVVaMW5xNWRjT0IxYnFMckRkaDBPbFAzTVZURXJBMDhnclZFR1FyR1d2aEdiLTJhc3JIN2hydm9hUF9tVXBRV1NTZC04SG5xQU1yb2RlakdCLTZlTG1teEZJRjNoOC03bklJTjR3Rk1LR0HSAdABQVVfeXFMUE52M2tKOVFnc1MwU29vVGx6UkVpTjJXZmlvVXAxaGJjbFdGazlUbW9VZXZqeWtxS1Q5eTlxSFc4cnBHTTlQUW9DeFA2dnp1MkFFM0g2X0l5MW9qZXRPaDRWRnlzM21uSVpleW0wcXhFeVMxZG1jR1RuM3RfOTdLS1BSVXdhc3lWclo4eUhzS2ZJakJvVEVPb2RMSmVZS3NPWW5UUDh0QWFqNDFVdEg2STlKNXhlNnNxSmZTclRsbWZHbmI0bUJNOWlwQXBzZlZiZg?oc=5",
+   "published_utc": "2022-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Did Bhim Army burn Bhagavad Gita in Rajasthan? Read- Fact Check",
+   "source_name": "DFRAC ORG",
+   "source_domain": "https://dfrac.org",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEdaMXBYakJSMkpqcC02QTIxSmN0SkljY1dmNXZiVi0zcnZxWnFXOEY5UHVpM3hnVmVRQ3dUa3hLcFNSRlZITU40amNCY2NBRWotQmtGQWFYYWxFX0ZvNHNiT0V2TmtPeW42V3EwQWRwNnNZSFQ0aU9qZXNsVTJmeDlySVBXczd0M3YxNTNDYWhSVVhHVFBGNWpB?oc=5",
+   "published_utc": "2022-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

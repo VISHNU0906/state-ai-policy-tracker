@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Maharashtra govt nod to set up 10 centres of excellence in institutes across state",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVk5yZ3NtYS1NejFjWm9rLVhOM0FrRmozeEhNZ3I3MW96Y1FHZk11d1BlRlpMdkRPUVFRaWR5a012cGxwdG1pSDFPdWRzdDY2TC1JMm92TVdUZ3EwYWROMWFTOXN0T3lxb1hDeDJEWmJRNHBTQzM2ZThXcmkwb296V1ljTjZnT1F6eS1kdkZmcmVxSDNNVnlaMzlyVVg3TktrMFdtWjZaR0VjX0dDUjYzeTRGdWF4Qk90b2dfWEt3c290bWtINzA2N1gwSmNmSFc1b3VYVlpn0gHcAUFVX3lxTFB4VXBWbmNpOVJyRjY1RVZ4ZGxWVjRPVW4wOFVWZTRSRW5QbmpNNVZkdEFRcGhSQXZBT0dCX3ZVNTB3dFRDS2tVR3VHZlBpQkdQY0xvNDVEb1V4X2dwcWVnak9DemFqMThDSTZna2hyOFRFLTRaelFScEFGV21iMFU1bXJGQVZWanpaWkQ0RHF0TV9aY3RQV3k5eFVDUnlIMG56U2Utcm5YaGNKcUc3MF9NNTlmLWFfT2k4MTQ5N3ZFNXhqYUIwbUptTkYzWXRtV0Q0dGZXOVEwN0tRczA?oc=5",
+   "published_utc": "2023-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The role of AI in reshaping the world of education",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckMzdncyUGpoZmFkelVRSGkyOFpQSXg1SUJCcXEyOC1ZNGFOV3ZtZ052bHRxU1V3b213M3JWRk1oMVd1V0dDeTEtN3NvOGZNOTRmS2tLV1g1aTlJcUU3OXNPQmtqWms0WnRPMkM1SHBPeWsySmEwVVlaQ2dBM1R0OFVaaVhvakJReVJPSWVkU3FNOGx0Q0xkYmpiaXV5d3AtaExVZ2VPZW04eldLOXQ3S21YY9IBtwFBVV95cUxORGtZUHNnQTlocEFIUVYzVlNpcWtBeXRCSWsyalp2S1VmWHJucjk2TERwVnkzb0drTGJHQVJSTWZGOXBQb3BROVNZZUlJdEoyUVQwZ0IwTzFJMkNxQUZRQ1JiRnp3RVFtaEJfZUViZ1JURjBEbmRUeEtja3hrakJyY08yMUhTYmRJTmZiTDJpeFNkMC0wQW01aENEZVNqQnVESHJTZmVyZDVYWmxZdVA0NVpGS2ZCT0E?oc=5",
+   "published_utc": "2023-07-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra says rain holiday in schools only after discussion with collectors",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQlVWWGU3QnZNbGF0TnlxVUozOHhudlRMRkhSVjlscTZjMkJlLVh2MXVzZzkxQzlRVlNHT0tEcDNrdW1jWFJrVXZ0TC11WlVaN1pmaHlNdXAxSlB3R1RwU1NPOElIc1pVOVA4Qk5tamdSQzhlSm1uUnpVYmh4Y1M2RW95NXVDUVhyMjBmc3FqWk9rN2VzVnQxazNZTl9hdElhbmRZLS1xLXIxdC14NGc0REZ4RGhqRWxQa1J2WVM5dS1xX2NYbVA1ekdjd3QzVXJJZUxyN3JjcTN0eEpUU2Y1Mk9nZTDSAeoBQVVfeXFMT3dvemNmbHhPVVRJb0hvWTBUQzRuRTFnV0lSY1o3bDNwd0l2Yy1Ja3ZIakRzTk0zNGRQSDNSU0RCZ3h5Y1hWMEpsSTlWU3F5SmZnNUxHY1VsalJMLTFzSFgwLWRYbG4wWjV6cWZBMVJkMjZfTi1Hc3dhMWxWMFNtWElONWE3ZmxWWkVzMktGNlRueW9CMWp3OWZjc205QjU1VjRvSWRDdU5rSnVxM2pBR2RNemdzdlhaMkoydTN6YzVDT204U2ZlcmprTDNNQjZfUF9ibWZlS1NTTTY4WlJtQlhNbHlyMVdldFV3?oc=5",
+   "published_utc": "2023-07-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tata AIG GI appointed as lead insurer for Maharashtra",
+   "source_name": "Banking Frontiers",
+   "source_domain": "https://bankingfrontiers.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDBOS05xWGpnbzJURUhpNVpNakRxdW93bW5zT2RDZW9TXzlKUGFuWXdGLUdKSlhKdU5JekVMM0lGX1p3Vi1fZUJlaHAwcTZrMzV0RkpCM3FIems0MExZT0hjREJQUU50aWlmZGZLaU9id1NVU2JYTDliWVplVWdQQlJOZlNYdDB4MWtV0gGTAUFVX3lxTFBxQUJxV3hYNmNNRVRPUmhuNWNPSzcwcXBKbGI4OTFMM0ljakNpTk04YklrNThvZWdlUjZGZUVZX0JnR1FLUno4aVhGUENTNm9ORGhiYldUeEtaekw1d2pVaVpVbkVXc1hpaXlfMFctRngtUlNZNTNGaU5ueFpRY3FWYmlDbDI1UlRwb1NfNmlaTjdzcw?oc=5",
+   "published_utc": "2023-07-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra district announces holiday for all schools and colleges in view of heavy rains",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTjUwcHZ0dndfd0ExNzJqU1QxcmZMNlpWQmRoWnVrY2N5N0xaUzRPNkgzV1l6VExHRnZGcXpiYnRFOExJLVdaVm1WcUI4NjY1dnpsUXRQb1RMVkJpbzZaUWpKMk9hMXQ2dnpCa3BaalM3WUk5NnR4YXpZMnBVejIwcmlvY3dRenlOMzdSRXVNVzJrTmtDcWpxY1FsZVVtNUMyelFtSXVUTXBiUGlyeGZtc2hLNHBJZWxveXBRRll2LUFoLVZET1dJbjd1d29FUG52SGVHdk84cC1jdm9IY0xF0gHkAUFVX3lxTE1jQzBNZVJhZzc4c3g0WnRweEpuQWVYd1JKak5ZNGg5LWJvaEtsR0p4SEtIZVRGZWtrLTZsZUpVMlpyMElORmN4YjlEYm9JZTNBdTBmVWRZNHRLSTBET2c4Si04YVpGWUp1YkVvVm9ETUJlU3djZjJDOXJld2pOeTFLTFpTdUVPZmpZQ2FOSFBuQkNLd0MwclF5OGxpRXNwbHd1a0QwZDhQRnRhQlNkN24xdzkyMjFFZmVUUmRteHFHOWR2UFNqcVFCOEhhSmtyV0dlQjRyYkZZeWgzdV81Ykd4U2huMQ?oc=5",
+   "published_utc": "2023-07-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI for India 2.0: AI training course in Indian languages launched on World Youth Skills day",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY01lTUdvVkc3eEtqM2VFTklMZFJxNVI2eFRJX1QtWXctSjI1OEw0ZXY2anRjdklKSXJscHlIbFh3Q2hCZ0ZoZmlhTTZtRTZ1VUw4dDFPNFhUZU5TYTJYUy0zcVJ2UXVMT1hOSl9VcDZkckl0UjNRei00VkdTQldxQ2Y5X1IzSE5VY1ZRNVpRb0FwYkQ1ZHp1MWJnZk5Kd1FOWC1NdXhNeElHYVhCTlB1NFRWZjRWYzhtSl9keV9JdG53S3pWdDlDMlZ5X2R0M0ZXTEZxNFNSWnlzcG1EVTRWUG95T19hekdYbThBYTdpOFNOSUlPeU5KX0d4c2U5QUnSAfoBQVVfeXFMUGJPMDVlazljVXdMbzZTOU9FNDgyVTJIWktHN0lXbVE0V0N6aFZ3T3FyNlVEejc1UjMzSTdYOVJnS0h3aGxaOE5sTE1Hc0JKR01pSUY3am1xN1lIa0VXQkdQZlcwNV9VQTFkWEY2RTZOaUxEZzUxQk1WU19xSVk1LVhoOXlaZFAybDRBVzJrNUxoRHlJMHB1RnJyMXR4S2lKRHJkeGNkR1VqOUlhREZWTEJ0WDdrZzB0ZVlRVDVpN3RaUkZfcnFjZmJSLTk2X1dybHdPc2RtTEZtbGE5YTdsYi02Sms4M0Y1aG1ESzlLWHpFc3l3OW5jazBtQQ?oc=5",
+   "published_utc": "2023-07-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "New crop arrivals to bring down tomato prices: Govt",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWnNHLXN1Wi1YWWtZZTZDLTlLcEhIU21DZHp2TmJyYUc4Rnh0bGhzSWFRb01LSWZtZVlpRldhUXNMZG1mRkNSQnR5c2ViRGJacGNFakVteDFYSk5OclZvd0pMTTlxV3J3U3FkeDVrcHZWdGJpaGlEclFDbEUzUVhIT291RnprQTBCbnlEME5iYU9uMkVLVmY4YWRDcTFNanEyUG9FeldXUkdscFVCbDlyTko0enRwTC00VE1HelZIMXl2N2N6bElHMFpDMWJUODc2Y1FlNnBCaFE3NDFGck5pNllxVmZoMGszUHRBLTBPMHVOdkIxU3fSAfsBQVVfeXFMT0VTOFRBbG5tSnM3TGh1ekdQMW5faDVuQ1BIaVp2MUhqRGthNlFqWjVKVmN1cUk2d3I4LXpORDNFc2NzTjNLcnFFVnU3OU9UejNWanJ1OTFFVG8wYWdtYVpESWptMHhuaHhUUHhxWHFLMy1KR0xRT0JxX05KNnBaMk9HdFh5ckhIcGpfYkZvdVN6OFhFX0pOUlJMQmtqMmJqb1F2ZEFGMFdfSGVNUHJ0cElzaE5JZkZoWnRCR2dZRVEzdWRKWWlmMXFDeHR3YmZ4MkdiYUU0WGhFQWNRNlAtbHdXcUk5czZyQ0hWUWZFSHhIUGZqcGZoWlpZYlk?oc=5",
+   "published_utc": "2023-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AIIMS Patna to use AI to treat patients, plans to develop new tech solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnhGLW9TOVNZa0tEc2szUUowTWRkcGJaT18ycHI3MFF5THQ4NXlEbWVrSFR1UUdTVll5US1rdUpHZ0pUNmR6LUF5eERmUnpkdk5MMFZFbm9TcGpYdk5uSENvcE85MXNvaEhXd2s1RzBTSFFDSElIdUZyMER2VHMwcDBRT0RLdWFKeFhrLVg4Qm5SeUd0RjR4NXRaVnVmWXBhNDZSdWNCMU9PemV0aE8tTjBGcURuVzktU0dkZjM1S29hSFUtbEVwWWhIdkF5LVhCT0EwaHl0WGdaTThETU9abURn0gHnAUFVX3lxTE53bklaU3hEM3Uta2hXanliLVFfQ2YtUVFuNWdhRlNlN3FiVWE3ZlhrVFZNZTlrbTdkVUNkMkNnQlY4S3h6Z0N0cUIxQnhnOGFKZnJ1UjRDNmZrN3E2ZVR5WGRQcWVZZHBJRzVQTi1QTXJVWlpfM014eXF5bGFtb1FwZE5VejY0RlFfS21MWVRvRUEzeXMwQ2FrWXk3SFpiMF9lb192ajJhV09taURYMmlNWlZoSHZCWHZobGszU0FjWHV2LWx6QXNfOE5tZFpvb1FTQmFoV3Zoa0gwNG1hRzA4bWphWWNYTQ?oc=5",
+   "published_utc": "2023-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Submit recommendations on integrating technology in higher education: AP CM",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQWZxbVFDelJWY01hWVNNZUlfc1UwOEh1VXFPY1pyQ1ptYkZ6YmdpanRDakRJUy00dGZuelM4WWdiTUF0REZSa3llNUR3ZEFlRG45d0JFdWRvbldkOGlNc05LU3NxWGJfaVJnQmZ2bWxJeWo1dHVoVXFaeGlqVHpfWTEzcS1yOG84N0pzZDJXb3pLZGExUGtWUll6UmNsaVE4TGJxMEs5cDlpNERGcW42eEtONUdNcXRWQ3ZmTUloa29mU3JzTFdwUjQ2NFJwQXROMllkRTZNTjZZaDg5eHVET2NpUVhsNG5aUkHSAeQBQVVfeXFMUDNhSi1TcnhETkZJWlRiMEFVUkJkcHJNTlFhdEp5OW1KZENrb21YY3ctTkdxSTlMX2VHazROanpqaGpqVjFqckFacUNMZE5fRkM2OTZvODlhN3JNS2owTVBtLXg2Vm54ZlhuNlI4WURIRlhXdWlrQzhCbWJhS1lJWm0wNGhTaDFzZWlhQi01NGtXNUVvSkVrS0k3dEFlY2piNTNfLWlHbHk1MXV4eENnS1daMFF1X1NRbGo5WFNOR2pSN3JQX2Z6dnJOR3B0d05EaVlYbDRQVlNYbnhYdnhVV1dnVE0w?oc=5",
+   "published_utc": "2023-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mera Gaon Meri Dharohar: Amit Shah to launch virtual platform at Qutub Minar on Thursday",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdkdBcVhQalRmTUplc2p1ZjZmYUpjczlhLTZqc3pxd2lXckZwYWh6d2FQb1JKYVl1WXhMVnd1eGctNENtOExMVTQ1eEVJNUthX2FVYjJaYmhoSExYSHFHNzhzS3J0VDhHaDBmSXQ4ck9TbXJHUE1wZUpEb0JjdlJoTkhIcF8za3pkMlNfdWlKRjRaVDR2amNZQ0xydWFHQjBRZ1JBZENyZHBYeGZFR0d2SzdqSkQ4MHFLTDlIb21nUlBuakQyaUFXYThlNDJXZmd1ZUYyaWI1UkFBb3FuS2NLNVp0SlNvOVEwTXlseS1iS2M4S2fSAfcBQVVfeXFMTmZpcmxDeld0eHIxZXJwYmh5b1JNcGY2REhzdFp0ZFJwYWY4Tk9sTGM1cGpvXzhtUVE5R19RZXJxX1Fhb2lrZEw3QV8tZVBobzJZclZ5bTZ3QTY4bXhmT0xxRENUVlhlYy1RNXAzVENPQ3h0dTAzVlk5R29OdS1BN2U1bl92YW5oYk5odzNoT3Z5NmhOclBzc1FMeklLUHNMblNON1ZHRUZOODJLU2VCMzgwb2hNSXZVYVhoWkxhd3M5UEFSRVhOMnZib2tkRkRyRHgyUXFHaWZDeXBMNU5rdXlBTEo2Qk5iQkhCV3g5NFpqMkIyVjJxNA?oc=5",
+   "published_utc": "2023-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

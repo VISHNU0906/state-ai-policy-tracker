@@ -1,0 +1,53 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Telangana Govt to set up a dedicated AI city, introduce internet as basic right",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2RNUVAwaUJDdWhqc0JwaEtkdlF4STZmWUozOURNRkRWc2NybHFXREk3S05LaUJkai1sX0I2dkNrNEI2bEFCRElHU3NHUkJwQXVjZWhrRFZQcXNmLWxFdUtLR281VGRLOWlad1VUN3huMjBaWFZwblQ2Z3ZLUEExdXhRNk80cnNIWVkwR0pLN0JvU0VzT3lUWDh1MzFtUGNqZHJBVkJ0bXFfazkyMTVDN2FJT3htU2VPMXdvbnowSnBRYXNCTDA1ZUtkOEtLV1Q5MzVYLVJZOVVGbTVwSVh5dtIB5wFBVV95cUxQVlZBbHZDUVV1Rkx4Z3gycmhBS1A4VlVpZERlWF9yaUNab3p1S1M0VHpSRGY2NUk1QTRnRTdpZ3dGM3dEQmQydF9FVUl3dEhLZlBvYVBNN1V1V2Jfa1JSVHhTRk53T2NGN2pRU01tbUpjaU1JaTZ2LTlMVVFYemZubXMwOGFMUC1oWDNiNURyZjZReHBFR04tSk9fcS1KTXZTQmVzMC1TRVJKbDJxYUE4eHFVNDFDVUhQYmI5Mzg5UlNpQ1Z1VDhWN3lDMnEwckctdk5uR1NyMy05Y1Iwczg3eXhReVNfZXc?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana government announces plans for a specialised AI hub",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "https://www.manufacturingtodayindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWxsNF9RdUNMekg3TVFLelFGM3QzSXZKMDBwWE55WG9IRGlmOWFOb2R3TS1SNHdyQlpxZEhha0FILUlGRjVVOExWMEFhYk5wa3FOVWtXWm9OR3g1bXFrLTV5NU9EYWtJaTdpdTB4SEpUdFYzWTJtX1JIWERpYnBrRVRYM056R3cxeWxSOUZ2b19KZDVJVTJ1R2wxd0V6U1p3YUk4?oc=5",
+   "published_utc": "2024-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why Noida & Greater Noida are emerging as data centre hotspots — UP govt support, demand in north",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeG5odTJ1WVZpOEtiRnFRdVliV0VfVjlDQWVjZ19KQkxvOE82WWhUaHlaZHlsemh1OXlBSDZiMzM3Umh0SDlHU2NwbWoxWUh4NkRMamZmNGhYTEl2NlBBeGRlRVNraEdpZE55c1ZDQTlreE5HRDI4TUVXdXJTR1ZhMF9JXzk2RkpDUHRYVXBVMGh6NzZ1TlEyOWFDdnBwbEl5X2FFV3hSWWVzQ2w3YnBJNXdiSDZrTm1KMUFXR1JyUHdpaEFJ0gHKAUFVX3lxTE5PN1lZVk1UVnZ0d2t2anVhQXg4RTRTay1NV0VzaG1NUUhiX3piT21yb2Y4c0UzNUJUaFJLQm5yUndIZXNJU0tKSTkzcUF2OVdybXh6WUlOTWNjVlE5SUhsTDk2aXBMeVR3bDk5LXM3ei1FYU9OOWxJY3hJTDI3dS16MlhXbVpoWV9mRnl3bTdBWEVrM2pCVWo0elRBbEVudmx6ZkFnbGJQaU9fNm1xOGhQdk9fYWFQOGd5bjUzMVRQLXBPQ3doS0MzNmc?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake democracy: Behind the AI trickery shaping India’s 2024 election",
+   "source_name": "Al Jazeera",
+   "source_domain": "https://www.aljazeera.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWgtNVpXSjBtYVF5bVlUTk1LRUFDWlhfTTRERGRXMEltdUVaM0VXUzFsc013Z2o0MnRreU5uVkRDNkd6V2dDcjllYnRkWG1VMVcxY1lSOHhDTklQNVlDbHV5c2tqamxtdUFtMGhKMjhTTHBjT0Y1OTE5WEN4RUxYVDN5ZFlzU1g3YTlXYmNtZ1duNEJSajJ1bm9HVWo2bEo1akhTd3YwLWs3bXdhMndIanNB0gG3AUFVX3lxTE8zeU9wSWpsdTk1NFBybm5va0lGQ1hZcjFDSWgxYS1BaGpjMmxOT2hpdmhueDJHSS1seFJnVEQ3bDNZdlNSQUpMeUF6eXZYTTJqdWMxVWZSS0tsTGNDMUJrN0U5QkIwUVJLYW83bElPS0dpWEFhODE4QlBsZ2lMUFp6cGxsdHpkZC0zSEk1eVFYU1pSVnNMaldiaUlZYVdZOV9mZjdrVlFnVHJWWUczV0lMZVk2OFF6RQ?oc=5",
+   "published_utc": "2024-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI City in Hyderabad, new industrial policy soon: Governor Tamilisai Soundararajan",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZnhHTFVhUDBOQXZDRDItaGY1bGhOOEVJaENjWGxRNzQ2YVRSUzRQeWZhRXRIZ1ZyaTZiYVBlNnc4TExTWGhMZDF1WmFreTRMSS1IYUU2NmtqQ0pfRmtWaENXVmpKWjdyUGU4LWY0U3J4aXJjdU16V1BEV21GdjFHWTdySHNIcjB1eUFfVGRiNHVVa09BSTBVUFk4bkdzTFR6eW83cUlUZmU1clBYNUdHcTl0cmVnOEtnaV9Sd3pqUktuZjMyMnc3NTF1eW5QRHpWLVF0Q1pEdUowQjM3Ym82ZzdDRE1CdW5iOFVpSnNB0gHzAUFVX3lxTE9ETFdrT05lVjhucnJCOGJ0ZThtUUpxSVQycVM0ZkFmNmtmc0VMcXRkMGZWUXdHbzlnOEZLcHpiR0FyMmszLVFlMUszSjVCQl82cUZxZk0wX21HakJZbWRIM0hYOWE0QTZMM3BCbnBCb1llVFRNNUZhSVlQclZVSEt4c3ZlM1NrbzQ1YVBjMkZyaUs3amFGams0eHZCX0dOaTRoSW5maEJpZHB2dktNQWxhLWRJOG5jdWx0QmdaVnZkb0ltaHUzRnBzZlZ5WU9WUUkwbXJYUzdNWWdaVTNma01uWVFuNTd5eXMxeF9CcjU1ZGtxOA?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "INCOIS unveils ‘SynOPS’ state-of-the-art ocean resource data centre",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDFWa1F4OHBnZHNydWw1RU5GbE45ME84R0Z4TjVlaEpfRTc0aVluN20yYVc3dThyQlQ2d2d4VnFScHN5Z0hvUGlPRXo2VU1PTjdIWDd1U2tZbzB1UlR0SjBYS1lvRHdmdS1FenotMFJ2RVltQUtITkRwYmZ5dnJVaVFuTFpCa3l0SUtWRC1MZjM1a1JhMFY5RkhSZ0RBUmtuaEg2ZkNfbjlKdE5GMF9nN0FNOVl1b3hvSjIzVHRLSDZJTUp6NnU2c3lKaUlud0HSAdYBQVVfeXFMTW1GUzliYWptVXdzQUZSRHdzOUExM0ZhRDFLZl9idlU3OGhuU1NZUjdLZ005S05DZHFQUWdhcExCZ0dQTlpCeWRyX1YxNUdzcWVPdkh1Z3hWcFVhVlZRamNzd2g0ZmN4OTFiV2FWdm9CcGVxYTd0RzI4UjlzS3lIaV9hcFNBc184UWVFMU9MR2N3V0R1RngyaEVKSmdxc1NyV2twaEk4WEdoOTRMX3lSYkJKYnc5ZGJaeU1XQzFTNm55ZzlTOFBsdW92SFJMaVZvdXU2ZjBjQQ?oc=5",
+   "published_utc": "2024-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

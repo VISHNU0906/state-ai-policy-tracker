@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Maharashtra government nods to the establishment of India’s first Universal AI University in Karjat",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkJQSWk2cGhmQ3dVYzNRTXZSb21QSkF0UE9vd0FFR1Y1N2FPTXB2XzlrOVV0MDNZODdwSGpyYTZIWVlGcGVHUEJOQnhFNnliVFV5MkxSUm5KVXFGazNWMFJaN01XTk9iUnBiV2g3cUhGN1JoUFdyZVptZXVFRlUwX2RXX0R4NERKZVlyaC1GN3J1OFcydVF2ZjFNOW90d1lVN3U3QzNubW9ubndOTzRXeURGT2s0UUFfXzlWT1BtSnViZWowMVE?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ease of doing business, AI should be focus areas for Digital India: Nandan Nilekani",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGtSdkt5MExxcVR5STFXZ0syYnc2WFZkWVdyZ2Y5OEc4R2hCb1BxTUp1ZFdVY1QwLXNMbDdWdDBrRG1Td0g5NFJqR2xHSnZ1ZC1VSDFfbE5ueVplNEpJUkJYV3MxbXhNUEhJTDFlcW5LUmlyNGJtamV3dV9lRmFWQ0VXSXgxUFdxZ0prWG1tZXlERkl6OUNFRU1IVk8yVmR3Q3VHLXJJZEhiVjJya1RPRkhwUkNRcUE4YTIzVm94T0x4OVRKRHRGTE9fRHY3TW9IX1BTWnd1QVNFVERjbVRUU3M5dU1YNm1WVEtV0gHvAUFVX3lxTE5ZUnVuamFTOGhUa2tKRnhHMVQ4UFRRMTR2RGtPMmhqNGowS2VocXdweXhSRFJSaW8taldTSXloMWpIMTdKM2VpMmk2bjZZQXA5UTFjMTh1TmdBLUx1ckxpTy1HdkJncVlVb0xNeGJaS2ZjUl8zUEhOc2lGSVNYaGNPWUlia2EyY2kxaXhOQnRySkhZUkt5eUpjM3ZNNUdSa1R4ckVWVmg3aHJlclo3UXhYd3hkemQwd3I5YWpOeFpUUHZHNk1oSGR2UWtpY2U2a0N4cVpjWkZLTUFpanFyNTZidmJvenB5WVVYZ0h3d0xB?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt sets up SIT to probe ₹12,024 crore BMC corruption case",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRi0xdEwzYnZpTEJPa1Y5S3ZKRUhEamhVeW1GeGg3cFAyUlF2SXdFV2c2aG9WVFlDc21xeUtsbGwweE83RWt2RjVaV1IyM053MHpjbmgtd1IxOVZrTTVTM2lLT3lkMlotdGY1Z0tzWHJSdlNwRGJDaWItXzdfSVp5T3hBSnloMTNNSkNmZ3lxbEV5MW55Y0Zmc2UxY1p4a1lfdndjdElwZEJneUpmOTBxeGJ5WEUyZWVMT1pZdGpOU3oyeDNiUENCZ9IBzgFBVV95cUxNNzBfeXQ4clBuSHdEdHVsSnQzN3RKWHBUeTZDZXNXWVFIa3ppY1ljZjlUNzctTGU0Mk5GVEoxM3JMQmY1RHlfaGdrY0NnY1JqaTExVHN4YXhNVG5aNnNkVEQzTXJYeFR2VTRTSzFtSWc3dGVNWHFRUlU2NWF1cGJnZGJuOWUtNkZSY1AtLVVkaV8tWGplaHcweTRqUUpQZi1fdnFvQ0xtWE1MMXBiYkFQcm9BSTE2RzlZQklBREszUk9MQnBlZHpLZW5HTjhSUQ?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra government reintroduces annual exams for Class 5 and 8, no detention policy scrapped",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnRaWGpLMjI1bUk5clRZbEExOXdNTXhUVWVJZ2RZTnVMdERnQkgwenIyMFlmbmVXb1Fvd3dfNTgyZHlwVEF4ejRoNnI3YVFpMjR0azM5VHkxLWFkM1dlX3pnek1GZ0xaY1RiWE5oTnlST09nSXR0Qk5uS2dyYjZ1eU9CTUFBV3FVcHA0d0FVTXBGb3RFYmdIOEEyMVU3czA4VXNrNTQ3UjBGaE4zQkFCY2Vmb0RHdjVhZzhfUWc0Y213R0VFWXdvUXkzOWM2dzBMQ1hGX2ctYzZOeVF6Y19weEtqQ1Nyb2E1N1QwMF9yNnZ5Z9IB9wFBVV95cUxOckx4MWRfQkd3SzZHX1BGb3dFcUF4YnhvTXFxNm1oTzBMWEtBRzhuc01aZGRiWWE4ekVpOUhsNGpZRnFIMGktWmVWTEtGZUdDSjBBc0thSzFnYVNsS25td2hBMk9xRDdBaUthODVBTlhqTnJZc0JsdjRScGVRMkNHaWljQmU3LVhVVXBlcHRlZlJ0b1RVSUtiZ254aEhVVTJDX3l1SDc3SjU0OERGc1g2SlcyNlNnQkZCY2FCZkhqS3RFeHZ5MW9hOHdqR2l3SmJ5VndEaWFNS2JtZVNudDlUQzdCekw5elM4ZXBVbTI0dU5iUENickJF?oc=5",
+   "published_utc": "2023-06-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India can leapfrog into areas of AI: Salesforce India CEO Arundhati Bhattacharya",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ25zaFR5dE5ad2tHRm44R3IzcVZ2QnNDU3JSdkhySks3b016R1ZHa0d0WDYyeFBFZmlvamVIQ3hzWmZpSHRfbkxKQ2lFLXl4V2FGejRiYW12MHZjTVNyWjlaTmgySzZhbERVWXBvMUxhS3o5U1E2bDlZUGlRbmV0V003WmJMX3VLUDZGaW9JWk95WlByVmt4ZjA5OHI1N3NHbXo3VWxMZk1DTnozTGs1d2g3QVlndkhmQzg2Y1NTZWdJSW9pZ3RsaWQxczVoS1czRFFsUDVrZktDcnVnaDE2X3B0R2drZkxCV0hv0gHwAUFVX3lxTE91RC1XRWU5eGU4YW50bC02Zjh5Zi15Xy1Cb0E3clF3dXJQNHVCWEVHR3lYaXRJR0E2MUxqVmR5UWlqQlBTaEtKaXowazdjXzh0TEJIWkVZTm1sbEFiQS1EOHlxTTRPdU9wOHJVUGQ5OGQ0RzhvZlR5NjB0Vng3WUVUUFhwU3UyZEprMzlqSUVRcVpDMWR2aU1yMTdyR1I1TFFfZDcxNVVjd18ydVU4ODdkMWhldGt3bXJ5ZGt5MmZ0Um40ZHNCdUVscTNTV3oybmpvVnVaS1dGejktaXFIQ0dQMFgwWTl0SzNaaXJheGlPNw?oc=5",
+   "published_utc": "2023-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI offers new opportunities; also brings concerns of privacy, fake news: Amitabh Kant",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRTRCOUNzbzNsVzJKSEdWdDdiQ3NrdVlFYVNncjlrREt3eENOUzNQM1VMRWhlMzZpQWNUdzB6OWl5Wm5feHo2RTJrM3lJeElqdTlCVXBsMl9NTy1sOVQwV2thc1YtMU1URU03YUY4YldJczNHYU5jZF9IYjFwdERpeGNEV3BUUm9pZmQ1X2RBeTlzVEY2WjV6d0Jzd1o3T2R4amUyYzRsXzVxV1UtbHZlc3REWko1S3ktakwyLVlhZ0FONERCeGZOakgzVlJqN3JtLUJIS1hVQllwa2JmQk1kUXJaUm9hbkpTOUxQM1lTVGVPaVNTZG9KM3ZB0gH0AUFVX3lxTE5SUFZibUtqSmFKQmsybHlQR2dJLVhtQWdaejAtLUU1alJiZ2ZVQk1lZ2o3dllrZFU0RXZneno3ZHh0S1lwUXJTM3FNaXlhLTRSNDlYYlZlbEx2WmtmMFhTX2N4MFpTOVFSdzBaTUtUbjF5Y21mdHVSVWtrZ3d1OWl6R2tnd21rX1ZOTmdKZHVxZEs4SnVhaDJ6OUFIRzRhZFBsYURMRjdWU3gzbUdrVWQxcmxYc3h5WVdrcl8zVjMyVzZSRzFUeV9HTlZkZkRpTW4zNkdCVzV2TTlubDl3T3dvWUJWbTZOZF8tWFltbVQ0b09td2E?oc=5",
+   "published_utc": "2023-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Boehringer Ingelheim India, Maharashtra Government sign MoU to enhance stroke care services",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcWJ6Zjhqd3AxdHg0TXkydDhBdFBPRElkaW80eXFpc2RIREwzeDNTTEg3WVpYZ0t2eEZ2WGFRZGdubGQ3YWNoUTljUDUwcjdUc05aLWVzazdkcDJMRHA2MmhMblItcElqMEdGVTlWZEdQUXNJTmFja3Zjd1dkRDFmVEJMbW5ZVjdtalUzeGhPcXNKNU93SjVlRGJOZG91VjVncFJtcURiWmlya04zNFR5SS1pRTRKNnVkczRtdzBLdHdQcHlSaGpYQXpqX190UXFuTE9sbzFjMEJrVjFZV3R1LWMyQ1Z4QTU0QkpuR9IB8gFBVV95cUxQS05KSE5idkw1LVNGNzBSVmswaC02aG9SM3JkYXpVeFVGbVpuVDNWNHJHbFEtNUo4Tm0yRG5ZWnBKX3BJd21GNWFIUmdiVVBCMGlGTEx1RXA3RVgxUS1DX1AtR3pZalJkcW51VUJMaDJzdmN3N09GSkQydHBlSHJlYkJUVnpjTzFrS0dwbUY2aVZTYkd5TUl1YlNyaUM0SWRwcWxuTlFqcVFhSW5VQThJQWlHSnJ1U2E2LWYydllZNVN5YU9MT2d0VUhENEQ2dTFRYXQ1eU1XMUYtZ2h5VmR4WTY3NlhlRmpzZ3FRc0RuM000QQ?oc=5",
+   "published_utc": "2023-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital India Act to make AI platforms liable in cases of harm to users in healthcare",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPel9aYnRRZmFCRWJDc18wLW9kZ0dEaXZaSVdoOFBYMFFFbUxfTkRXazRsX1NfVVJNRmpKRFVwdE5lZk54ZFJpMzJLMVBybWR3bTE5UVlFQXg3eTM0X2dPN0hDakxNdWtUQ2l6eFdmQ1FiRDh6V3pGVkdreENKU3VCRlg1QUlqYUJ3aHA5S0JsSTZRTGdFMTJBLUJpYlpWdUVORVAzQlpScGVGZDRzU1JYNm1EYXFJUGhNVjRzV3VITFVnNDg2czdMdzl4VlZKMjFrRmRhdGhLeENSVGpPSnhRc0UxTUpuMWltbGNFamtlcTBqbHpYQW44SmJwSWZJZ9IB-AFBVV95cUxNZm53ejI1OGJoWEhtVE5maldEN3B0cWRZM05RWXNna0pNV0JBeU01dzliWkI2QkFETS1pZEk0ZUtabk9Ebk9xbkFiQ3dKaUNLLXBwWVltREIybVZ2d01WSUEzZFpQQVBrWjByR2NIb1FTajFvZzQyd0lMWHRVaGJVVTZoOW41X2k0S3QwTUJwSXdZc0E0RWx1M1d3N0pvWmVUMTlIQjhsUnhUZUsxejZwTm9ZU3BPSTIzTUZCY2dORWU1OU9VWlhRallsVzdXTHlrTDR3Y0pjLU0ySTE0bklqaXdoNUR1TzZwVnF3Njk0RXJSWGxxUnZnMw?oc=5",
+   "published_utc": "2023-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Doval, Sullivan discuss cooperation in critical tech, including semiconductors, AI, defence, next-gen commun..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeWl5bmdmYm9SUnRXRzVjeE1ZZUpQZU1VSVNzVksteUlqRld4b1BtVUwxbmppZ3ZLdlJ3dDdpcDhncGtyRnVhanpfRWlzdEFNUi1RNk1FOGt4Y003cHBXeHBOZDhjTURHeVB6VkVEXzJiVGc1a0ppdmkyZUxYdnJBUlRlZ1VtUU16N2twZVo5YldQLTJWcGd0Y1A2OGJ4cWlsUXYzTkp2NDBxS2JBSzR1MmxOaGx0RGZ5YmFMb3Y0TWxNclBsTkE3MEtPaFdKOVItclgyMzEweGRUMGdBQVQ0Q1VPY2dLQ2VNTjd5clFOaUhuZ01lYndkT2VNTkZ4eUJCdWw0M9IBigJBVV95cUxOanhSM2ZMcVY4R1IxTVFZcHhGcVc2Zi1LeXE0Yk12c2sxYVRoVGNJN2t5NFM1VFotSk50QVN2SFRQU3JULW9PbFFGV19DQ1Zqc0djV2xRU1MwbHVoNzhHZHVZX2Q4dnE4YWlfczJoRVpRc2YwN21ERTNFdGZDNjY4OXJoUUthVmlBU1VLelpQbUw3VGRFa3RBLVJjM29SZWNsYnNDVTc5YXNnVUNyMEY3dll3RlVQMlZpTGJaa2cyczVDZzVEU1FjVVhJbDRBSFdHdXgzaEZVVmtkdFI1T0xiYjM1R1BPSnlMN2owSzhrQWF5cWtPZnJEZWpoOUlPQTJkeERDOWhjTE1xUQ?oc=5",
+   "published_utc": "2023-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

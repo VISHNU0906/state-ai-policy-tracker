@@ -1,0 +1,29 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Adani to set up two cement factories in Andhra Pradesh",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk9aOU8yOGZhUno0SjVrSU5lTDdfX05PaXFWQ1NOZ3V0OGpsTWFYRlQ1SGhqTHh1TkxTMjNvT01RbWtoUjhPMi1abFB4ZzBwRGo2UnUwTEg4dGh5aW5XV01NTlRlcUlQbklzSVdvc3ptRXNDbDdPUU0tbzJyQUZRU2pMUXhhYk1W?oc=5",
+   "published_utc": "2023-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ashoka Buildcon bags two road contracts",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmgwSEppbnlMMGdmU2tTaURkdTVsWkdYMGwxYWJ2Z29PbTUwbk1ZSVdDb25VTkxGcnNzSlA0Y2NXc3FJRzVSUzdtQ3RqSVhCdnl5bDBQOTBscjVJbnVxODBOc25aNkpmbkpYZnhBQlV6c0EycnB4X185czVRdC1EX3VHTHJXbUN5eThwV29mS2EwYlRieWlGelNB?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Massive Protest Unfolds in Hyderabad's Osmania University in Response to TSPSC Paper Leak Controversy",
+   "source_name": "Telangana Tribune",
+   "source_domain": "https://www.telanganatribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0F6Zl90OU9KS0stcUVidTJFSnNBaHlDY0tGSnNzQ2t5RnROa0trNmZyQXVNVGhpaDRMU05La2VvUTVQRHJsMXNJdkdYdWlKMXZTNF9JMkJobmVzalBjZjJFRF81RF9OTXkwN3VZeWMtRFdHckwtMWtYVmlyWElZTkdlQUpfYkdxN3JWc3E0T000dmtBRmhGa3BMU3RrSlVkb1VaMkk0d1Npbk5oYzZJVUxzNzBGamxGX2VJdHRtelJuQ2tUT05Fb2Y1TzE5bVU?oc=5",
+   "published_utc": "2023-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

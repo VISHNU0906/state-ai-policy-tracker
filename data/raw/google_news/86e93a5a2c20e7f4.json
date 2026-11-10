@@ -1,0 +1,13 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Adani Group forms new subsidiary to set up data centre in Mumbai",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaWtjaHlSa1REUWhzQzRydkdUR0JSbTZmM2hyTXNpV09Oc3FvQlJ5aE9UM1A4Z041MEhKMDNnNnhqYjl2VVpyUm1GQkdNOUVOZlRsRFFWYTFZQUVXOXNodkhyNkNtZ2xyOGloT19DRUNHbThIRmI2dkptWHN0dWxGZU9LTUZSLUcxLTV5MWlUbGRTYUFDS2xzNkRCN21UdmFPU3FTcEVhNk9qR2VnQzZKWTRjVzNaLUl6UmhIU3BQcmZZV1VmS1BLQzV1cng5RF9xX3fSAdcBQVVfeXFMT0l5M3ZrWlRUeXEwdHE2LUhvQTV3Ti1EMmRPeGxIalUzS3VSbVdJXzN4WkgxYUhxTlRsZVBBbnNBZWVrdUNuNlVjZ3dSMFR6U04tTWluREtyU2dKcFU0Y0lNMnloWXdLRWlzbkEwNWFlRWZYanoxc2NKOEdvaG01RjhwMEN6TTBEYUM4RzdpWTNHUU55YjNhV3VZN2VfcjJ2NXBVbGtkcnZ6aFNpVVFWMkpVVVh1Q0x1VUJEd2JiSGtlWS1UOVdBdTRsTzI5dTVkZVJNcmpTM0k?oc=5",
+   "published_utc": "2022-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

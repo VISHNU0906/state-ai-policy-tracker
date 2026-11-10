@@ -1,0 +1,53 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Agriculture Crisis or Identity Politics: How will Farmers Vote in the Maharashtra Election?",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTzNaRnA0VU4yVl9ydVRYMjNLTUMzeFkzc1pJUHVhOURYUDQ4OWhDRktsUjlvNUwzYW40WnN1TU43b05uVlR3c2RqQVA0aDZ6b2FxOEo2YzFHcy1qOXlkODRRLXZ1MWlWYWNUdHV1Y3hDOFNSWmhLUTd3U05vWlhRcGU5bDFKS0dZam15SjdVcEppQ1paSjNHUmNoaTl3c1Z0Rlp0Ull4NHRKcnE4eVJHeU9DMkpWOW5mRHpPQ001dnVKaWVocGpDWDRhTE1uV1VEX0txVDJKOFZDa0dkaXZYdzA4d01TTUhWQXh5Tzl1X3FXcDlWWXEtd3NZSkNRakFFV2RWUnBEeXBQXzY4SlHSAZQCQVVfeXFMT0ZqbDQ5ZEs1OXBwejBFVTI4NFBlajE0S2ExdW0yNDVmMFV3NGJLTWMtVnBlUVlOak5WLThfYkNCaGNVTXNWcUdoNjZSbnFGaFE0ak9uTlpNYmdINGZ2SVhfQTFqWVU3VndmY0RTU01DeFI1RHBaVTZFYThUdGZKSUJsdjJUTHE0c29FM2NkUmx4eF9kTGNGZ3AxTkhoRGJDeFRLRnlpSDdiSE9NMHFadWRNWnFlcjNjS042OE9rcE5FZ0NfQjgxc0Vjbmt3R2p5OWxlUDBCQ1hvdmRVUF9FaU1jRzhYQTNKcTVRcllYd3BsVG42bmpYbUppVTVOTy1JUnEzcDNYWEpsQ0VoTTg4bklyaUR6?oc=5",
+   "published_utc": "2024-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How multi stakeholder model of the Internet remains inspiration for AI governance",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRGdvaEtsNmFqdjFMbmVsRzJJSG9rT1pUalJLUjBhbFVUWlVVRzZCdHN5NmVuUkgzZHoyRV9sU3MzWTBEYk9EUEtrWVFuazBqLUdRLVliZjhLUUxxWTZSd1NVTDlmaWJWSkRVWTRpanRfZnJieUdrU1U1cXE2cWJpRGsxXzhpQnZmS0Z3QzUwUDIxVFJoeEdYSUs5MDZIX2RZbktnNU1EMGRzUnVDcFdlUDFETno3OGlqMURJcXlCSS1PdWxyQTJTRVNSdzc4MVVxS2tvQWZYbjVvZzNJ0gHgAUFVX3lxTE9YX3IzZU1xMXcxMm5GRldoODR1OXhYRWhWWFA1WXFSclE2Nk1GT1oxajFTbi1Wc1pyR0luVzY4cDljSDkzYkp6ZTU5REpGbEw4QlNhU21INTB4eEE2S0hqUkxFMTMweWxQdzNwdVA2eDVVM1dYdDBKa3gzcXFOeGFzck1ZaFlFV2w5dDBqdzhpRmxiTkplRzBLajF5azVUUEtzOHJPMndVMG5kekhnNFI2YWJTcTMxRkhWUFhrSmFiWUJPUThOUlA2OWYyWk9xX003ZGR3c0EwR1NSOGVPRVVa?oc=5",
+   "published_utc": "2024-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Government Reinstates Rashmi Shukla As State Police Chief",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHlVclNvanZOVkxNUmpqWlJrMmUxcUd5LVBoYWhwRi00QnNXTWNmYkgxeFhhNE5BRVpjUTJzNlRfZFQ0ajNlMnJWYnowanB2V0g2UTVzbkxFSWlueVg3UUozdUZnTzhvTUJIX3g3TGNVdjYtekRSdXN0WE0waTExVkgwVVM4NVFDY3lJeHE1dWFnd1F3eVA1bW84eFVybG5NX3phOXBxUDFGMFZpSXc?oc=5",
+   "published_utc": "2024-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Governance Challenge 2024: UP to facilitate governance immersion visit for 6 finalist teams in Summit Ro..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaFRvcTZfRTFVMldMQVJDSTFQZExSc3kya3BhbXhOZm55b01FclNQUWFpdjAwUlppc2FIVHNCenJsaHFQczItMkZNY3pmMGZMTXVZcl9STUNySjdGNGJnVWtYM1A0ZXpVVHE1R2pvMGtRV0dkLWlEVzN0TE9qZEpaeFA5WkRTMUpZNkZQYUNvQXloYzFBdGpzUG54VTU2b2tiaWl0UFRFbHQ5UmcwN0xKOENRVXk5SXVDaEwyT0dfdW0wc0YwZnlMTlc5V29ocFlLc0dYM21VN2Q4TXJVLVB6QU91MkZxMEFCeERERHpQa05wbDlBRkR6ZHVsTEdtcjhoZGdKajdpRlNPR3pOMUM5Qm930gGWAkFVX3lxTE9nbjh6X2tlY1RrbDU4SVhKbTh2ZjlNS1FYczlmQXI1ZU9LdlpMM2dUVGRMbmxpSjNacG9YeWlqa1Vpc3c3ZHBrN0JsRUlOblk2ekk3RDVyWHpwd2k4alp4cEpTeVBrQzU5NFBQbmN0WDBrcEZyQzd6ZWdIZDNHdTFuTFlRM243cW5ad25mR1V1OG5taFNKaHZrcmg4TzJ5UXUtUk9VS25jS1B4ZjRjSjU0Y29nT1VEYnNjXzdibzRON1kxQXhUbDlCNGNvS1hfaHE4LWk5bDU3dGN6ckNVNk9IcVd6cW9POC1vRDdZZ2k3ZVE1UmlZdVk2MWxrUzVES3VHTWNsZGJLLXJvS2hrRmRhSm9YaXhR?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govinda Health Update: Actor Advised Complete Rest by Doctors",
+   "source_name": "www.lokmattimes.com",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWlxQnRCaXRNU3JhU295NkFXdVN0N3hjODNCMHNiQkpUWllEWjlCT1ZMQXh3dGdvcHNFTGR2WDdac2dfcmJicjQzOHRQNDd0UkxPVUM0VWk5N3A3MmRXNC1Xazh0RjFuS0hhOUxIOWw4d3VtR2xvZko1YkpHR1hReHpyVjRQR3R6NTQzWjN6cm9EbjZPTGlXWHhUbnpNbF84TERVYnlmZ3NJUQ?oc=5",
+   "published_utc": "2024-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

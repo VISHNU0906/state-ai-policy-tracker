@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "Eknath Shinde sworn-in as Chief Minister of Maharashtra",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGo3QnY2MlVBZkFDVG9pU1pGT1ZyWVluNEV6QS14YkdhUmhnR0JfSjREakFNOC11WEQ1MUVXOW5WQ1VielNGZXdFcXVHZFJJNkdoOFRPbVJaWU5mbG5lR3FrQW9DT3RBb2R6cUdUbUdrcU96Q3Mtd0JTd1FsR3VrcEJHWlNnLUZDczM3Tmc1ZE5ER0VpTHp5LUJmWmY3YUdPSFRVWkhlMmliNHRMS3dnNmdnODVKVmh10gG_AUFVX3lxTFBFSVJtUFM1ZHJjSkhnM0RHdlJYcXZlbHY1azJwMU1kWWY4MGJ2cm9hcFdSR0g3UERrSFlGUkVJQUYwUjh2aVpnU0dvMERNMFU5UjZPenBwSkZubS1zSVoxcVEzbmJyWFhyYzFYYlpRTnVQc1NKalQ2Sk5BSzE5SHhRU1F1dko4dmdCRklQQU1fTTFZSmZXMUFKcW41QzRuUHM2M2hwWGdQSHd4TVAwd3A1OFBaSG5mWHgwMXlEcmgw?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India: Maharashtra chief minister resigns amid party mutiny",
+   "source_name": "Deutsche Welle",
+   "source_domain": "https://www.dw.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0Y0YWVrWjVwS3dIeU1LRV83XzhsWEZ6eFM3ZHVLck83bzdSRU9lR1FWbllNa0F3alhaS2o1UEs2NnlJMDZpY0g5RG5HNFJvN3V0SXhJbVpQcGgwRGl2cXJRZ3cyelB1YXIwdldTM0pia0ZzRFM3SWdzdHBLOTNjcG5ULU5felJQSkpfa2xTeWpWMXMxX1HSAZYBQVVfeXFMTXNUZUV3SWFtc245ZUE3Q3Facm9uQ1FRajdfby13b21rQmVyd0gyZVl4LUYtSV9mRXZ4LVV3cEdYdG5NcHVZVTZmc2s1SHNhNjRsTUlzNGhNaVZOMUNPSllMRTZ0U1p1TzlLYVR6cHk0eHg0OWdlaWYteWJfZDdFNDJnX1dIcWFTWjRiemVCbjY1akc0dWp3?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP Not Staking Claim To Form Government In Maharashtra: Union Minister Raosaheb Patil Danve",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlNlbkNucmVsY1ItWUFpV3NJRmc3cnJlWi16Mm4tN2VicEJuNnpMRWRBYV9ZN2h1RXBkRFFCY041YTNqdmQ1WGRqekRVaUJ6ZVplVko5UUhfWDNiV01HTEJUbHI3QzdDOWtqUGxndXZJS1N2Ny1Ua3ptcjVuS1hGYlVobFhadFljNWVzaEg3RUh1X3g3RG5SM053Wkp0b1JfUE9GSW5zU0JuT0RVbDJOenpZR3AycVFEVFVZMTJLaEtHV2tzSmpNYWdXVQ?oc=5",
+   "published_utc": "2022-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Here's A List Of Infrastructure Projects In Mumbai And Maharashtra That Are Likely To Gain Momentum Under New Shinde-Fadnavis Government",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTV9OWFdWcTd6QlFLWjI1WktBTUsxYV9oQ2RYU0twd2lhVEpjd2hFSGIwV2NGMTl3bmktLTJTb2dicUVDbVF4QmZhNGZOckdFdTM3eDBjVVVQeWdxbW9aM3B4dVIwSmhoM19LRjRIajFFRms2ZFNhVzlfRk5NaTdiYmxjOThrSnIxLS1ZR0dlZUhXZ05GSDJhUUdYTjFsMnpsdnliN2VJTlRERVUtOFpTY1gwMEFzdmN2b1dBd05ULWpta3lPcF9RMmZOeHUycVQ0dXhCNkhpUmh3M2V0QmNLUlB2UXFLdjdSblpEZXBzMG9LYzlpNXVLSlE2U0I2N3hNV1BIMNIBlAJBVV95cUxPS2ZLZ1pTODNjMUdQMDVaOU9yTGxrOFBKXzJIMDdxZDA5T2VIUkI2R2FJTTBVcDlMbVJwSHBOTzVCeWR2U3RfOTlMVXZHT0M0SWNwZmpVT21vcXNCSUprbVg4QmlyeUtkZkN4NVhhZExUQzJXazdXT05uSzNPOGVNZkRqSS0xcjJLMkt6WGNXZXQ5eXdwS3RhbmVURkdHc0VmS29HRDQzT2Z6LTBRX3NVXzg3eWg5dmpsWEl2SktaTE9rMHdfWUpudEZ6VHJXZGxCeDk4WWlzWDFRek5mTnFYQnFOeVFveEw1NEIxWXMxWTB4dmxyMjJYcGJ4Q3VHempxTlhvRHYwX0JMclpySHVva25Yd2M?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Eknath Shinde takes oath as chief minister, Devendra Fadnavis becomes deputy CM",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUG9ncFFvc0VMR3BMeFlZRzBPU0k3a0ZlRzhRazlGU3dETUprVlNRbVVwV09qaGctQ250bC14ZlhfMm5ETmRUZW1wLTkzd1dYQTM5eFNkelFVVnFXY0p5ODBVWGg1bDRIOEU4N2cxdGVwcTFTcE9tNEhIRi14VF9la2JwbTg3bjlQZngyWFc0WGhqY3NLTzR6OWVYSmJTUm91QW5QMVNSX2RoMk1PR2ZIaHFnOG5RZTJUc0lhdkxrVkhtYzM5QzdjLW9rTmQyaW9PYU1UdkpR?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The BJP wins five Maharashtra Legislative Council seats as MVA government suffers two consecutive political setbacks",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOWxwM21mQ091TmtoYkZ2V21jN1hCQlQyUDRpSTVFT0ZYUzRUTnlfTngxWUhxZndPRkdXQVpyalMxTmFFNXhNdkRLNzhGd0RiblBHNlZFY1UzZDhGY2JGQkt0UmMxRHBWaERjaDB4blRyMnZ3N1hLdnhBSWdCVjhQSEV2LTNkd2QySFFZbmJQX1N3TVZFdVVCOEVtQWdmelExczRGZ042b2JZY01WUUpDN29BdlJEMno1RmlhV2dpOUplWFRnMlJzYVE1S0duSlhZMkhPUHc2VGpPSDRFVDMyQ3l5VlZSakRLMlVqTnRnZm1vUW0xcFNYTXBFR1JCamxGaWFfSkVoc0jSAY8CQVVfeXFMTl9EZ3Z2RkRVZ0lTVXZ0S2hWYjdPSVYySDdEWU0ycXNFX3ZGeU4zOFVFZ2lOVnZuWjJNdG41VS1LV2JjOXVrNVRZNnpsTzJZbU9SZ1MtT3FQRkdTQ0tLR2FyLUFMQTlpYXdLOXFOZnd4bXhWNGxIUnc2akRhTTlSSVhvbGN4TFpHMXhTWDdwb3EwR2xlVEVsbVcwbDJvWTlrWGlfUDNlZGRsV2NhRzAxNmlLdjcxOHhXS2JRZnpRSE9PZG9DU0hTSXZXYXFwdDhNbmJ2S3VPMG80akM5NERNODEyUnRfNldZbmJXaWV6UU15aUF6WV85QVZPSkhMZmJfRXpxVTBTMkNyN1BsSG1Fdw?oc=5",
+   "published_utc": "2022-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Have support of 170 MLAs, number increasing, says Maharashtra CM Eknath Shinde ahead of 4 July vote",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHFsS3hQUWhDOS1oUENkOWYwYWJIWkNkcDZhN0Jkbm1JSzN5UmFzdWtqUmhITHFTVmVMTHNpcjc0S2dvaDhUcGtPdmZmNkdhQkRjaFNYNUthQUktNFBVcHBYN0JkdlhqQVR3N1lUU3BDYzJ0MnlvVWV2YnZNbi02UnhjQnY4X05oaDlUbzdOa0NxZHM4ckF2clMyZF9yX2pNcWZBVDVhcW96Z1VSMmZoUkd4ZWIwOXcydG9MQ2ZjelhtZjlyS2w4Z3c4TTFydjJrR2ZFb2lOQWx0cGppUTZV?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra CM Eknath Shinde asked to prove majority on Monday, special session of Assembly on 3 and 4 July",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2czWlhOQUNoQTVtUjhiUjBoUnFQR0dJTkVSN0Vobk44bC1NdkI3T2ROVWJoX3pEandkcU9JUGhvSzE3MURzUUpBRV93Vll3TU9OYkUyMklXNlczYWx4aERHbWxJb1I1RElSZnpCTXVoYmc0ZXcxdmdRdWV3d3RxdEJFSHRSSG9MaEs3WWxVSDhVZGY1ZUp0bklGSHNNSjVIYnNQdWozWkloMDBpQ0dVZm56QmZoMllvWmRUVXU3cVU2Tkl0Z25zWkI0d0JRSFA4ZU1mVlNTREthWXprRGdpMXhaSDFHdHRtUE1R?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra political crisis: As Aaditya Thackeray drops 'minister' from Twitter bio, Shiv Sena MP gives a fact check",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONEFQTmJWZzJaXy1yaTIzMTYzcTFvcHdDc0FHVUlNd3FScW1VQXdoanprMmw5Ul93cFJwb013eE93dGJMeTJaY1hZSUEwNjVrTWxZcUE4cWlvUVNjdk5QQmpzRUVSX3ZPcklQcjZGbTVtdlN2dnp1RFMxQ3VQSXYwOHpXdmt3MlRUeWhsN0czbUtWUzQ5d3lUb2JkejktR3FmS0hQb0dnMXd5cWs5dDVYSlBEVnZCby1vVmc4cWdUX3NSbXc4MnRjWTJqcHNySUc3UmZCdm9RNmNRcXJZQVVPSFRJN1RIV3NTVnVBMWIzc3NVLV84?oc=5",
+   "published_utc": "2022-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eknath Shinde takes oath as 20th Chief Minister of Maharashtra",
+   "source_name": "Lokmat Times",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHh6NlVjT29sYkg0cF9ob0ZvQzU3UmxlNmU3d0trSFZBMF9QeEEweU9vbS1RbzVHOFhuT01WWVJDckNfWXI2WTY0Vm1RaVcyaFpPR0JrRU5jMXp3SGQ1OG0zVGwzcUNtbHNMeUNKdWRZYlVmbEpoVXdueXdFT3VuSUZoRVE3a3ZuaHowLTFqRkgwbWpOZElBRTVwTERPNHV0b3EtbXUzSTJqRlpJ0gGyAUFVX3lxTE4yVk5yckZNSHNGaFM3THdpZHVVSElNb3o4aDNWMnFWRUtwVjc4bEt4OTFRN1lYWW15M043bHBWbkVGaUJpbEo5Si1VOWNBRUtTU3F4S2EzZ09ERHROY3psM1huVDcyNzZLZ0dZLXlpZzhoNk1BTEZvRzlKOEJWUU9Pa2VKck1CaDI2eFE0dDk2OXF4TVpYblhCUUtoQmxCc05CakE2SWFXNTgtV0tfdm16MWc?oc=5",
+   "published_utc": "2022-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

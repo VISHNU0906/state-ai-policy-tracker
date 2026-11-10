@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Maharashtra government unveils plan to digitise 500 Ashram schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1JXM0pneDBUSzJRWUpoeWRkZnN6LVZkMzdJV3AwWnpGb0pMTEF1Skw1bzR0MW4weGxUTGVleThqV0J0aXdwU1ZrRi1yeXlVZ3A5TW02V1ZsUTJoQ0FBd0p6cE56d3FCa3k3dmZPMjZtOXFtaDV4VHp6czMwMk9OYjVUbXg0dUxpYzZGTVRmZVI3VUxYQ0RaZzVNd0ZhcFBYTVh1bENaTmZ5X3hud1VvNWNxRDBSOTItWjBnSXFySmLSAccBQVVfeXFMT1N5UVJaZWRxNHNEU1RZNU5zTGVnSUZySlJNbHQ5MnpHdnpMR3phRXNzeU9YOFZMSTZZRUhsdWNqZWdjV3hiMDhxT3VBb3Z6cE5nanZoaEJDSWVnS3Z0LWZkbFBIN3dLVDVENWt0bkVSYnUtWGNSWmVaemp0VS1MNXViUTh3cERtbnpiUmtSMlQ5NElqajgyUWNleXBtZmUwTFh2ZXJqdUlWakF2VEI1bFBWYlVmclhNd1h4Slhqa3FXck93YmRpVQ?oc=5",
+   "published_utc": "2022-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajnish Seth Appointed As New Top Cop Of Maharashtra",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXZKT1FSdmE3WlpZai1WZHhjczlFLU5IeU1FYnYxbmNQRjl3SFlmd0syWWxtZkhOLVRTVzFLcHZMcWxBdzh2SGh0R2M0RmoxTzNwcDJRWm4tOTdJbERfSENYREdSVUN6TGFpZEQwcDM4Sm9VNjJlVjBSM0JnYkI2dFUySXdid1l2RThUQTgyZ3NfUQ?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Dilip Cherian | ATS posts in Maharashtra turn political hot potatoes",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTBEVFQ5TEMwYmJtam94ZkxZWTd4M0NrdGNRTVlIeGhyM1FKRXQ1UzliOEhaVDVsY29DY09EMGJrRi11RThKcnRyTjhNeElBMFFsVjk4cm1DRG9NLXVwSm5lMnRGaU1Obnh6Z21sQm80a2lhSXNWbUs1b01zSmNqMTNhS2xramlOaXltS2FVejlQa3NGTGxxNnRTTmN6SHFWdmIxT1VWRGJMMlM5aUFELVA0OG8zWUFwMVN3M1JHTDcxeVRNZkFEWNIBzgFBVV95cUxOY21kdUxKb2F3TXdESnNYNEU5aDdlc2F1b0JRTy1lUW9HamZ6akFHUDZGYlNteHRVczNqd2hzVUZBLUIzNFdVcHVIdndRY29OS3JFZU1mU2J5bG1wYVNxdFpSWHRpY0t0RUVfblduZWJhZ0h0Ym8xTERHX2F4aGk3Q2pPSXlpY0t3bGVRSHk3eDNPR3FTUk9FcEtrclBaOHJPMU1wM2VxZjUyYVBTeDlGMVhYWENWQjVrSm9QeFFKTFdBZ0h0dnRjX25adTVpQQ?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat govt to set up AI centre of excellence to provide industry-ready skilled talent for emerging technol..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMkRuck4yVXFrRV96VVdaOVpPQ3pzMGFjdmEyNDEzTFUtREc2aklHTWRwbDBHdHVMUEsyaVZja05wSC1YLTJsNTgxWFVyMk5QSUhCVVF3SnZFQXN4TkxNVGpnZUJKMGRVclp6LWZmNlBtRHh5TkI2QjNlZ2R6MktqLWcwRDRSTlVFMGI0VEN0U25jWG9NeEdCSWhXamJPT3lYSWFuaXJSQi1fSTFmbVc3V1g3a3VfUHREUHJ2RzYtVWdmeFoyVU1HM2RnakU0aGpZaEN0YmZkRTR2RUI5c3phTUJkRldZc2VIYTNMMUtzMEp6bUhzWllpWTlianR3bTNsNWsyWEJLV2ozbUxuSGdpTV9OSGF5dFVr0gGcAkFVX3lxTE5qYkp1MGFnZWV6RnBIdUdOUHNRUndXQUZYZGVKeEFZQW1tWVVpZU9QMW02Q05wOER3QkdETklhcF94UUZfbVNjSFp0am50QlpXR0xzbTh4d2NOeW5LSlVFVjc3V2xpck44SWlXdEowWEJVMk5tVHp5TjVfYnk4clVFZjVCUDJTSHNza3VfdHR4b3AycURSRUp4d1ZZMVlGWlp3Sjd5Q3I5M3Qxd3pjd2RVVVFDRHpJNlN6VktvcTVqTEpJRGtweWN2NjFITXZWZHlOVDlvUlprcVlOLXBCZ2pqV3pBS1g0SmFEa1BFcDNmWEN5eFBCX0kxN1pCWFdGcDdHQWxYejVpWVhyRDhRMWRQMndHYUF3dDBaV3Zn?oc=5",
+   "published_utc": "2022-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Class 3 and Class 4 Maharashtra Government employees warn two days strike",
+   "source_name": "People Matters - HR News",
+   "source_domain": "https://www.peoplematters.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjZSbVRnc2JHNW1nWllRMG5tVWF6ck5QY2pXSW9xN3QxQjQzMzlXUVVHRVptTF9yTHA0NmFGNXZnQjktUFA2SEZrTEJIdUxMMUpoUGd1XzJON3FoZENDS3Y3YWJrNEk0TzdOTWd4S0xUQ0Mxb3RKX2FfQW5hM2pIX2lPVGh2VzNnU1Fwem5EN3M1T1BINkZEN1hKcWh4ZDRhRjJJb3BZNGZtdWE4TmRFbEJUSDVMMWVYdllhcmJOTlFmalNnYktuUGlLS201bTB6?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Mid-day meal to resume in all schools from March 15",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1htRUlnNWtrUXZrODZTbUJvNUk4bnBBRUI2WmlrZHplZVdqa1F0M1Q2RG9GcHhsX3hJM2U3Sy12bHItODR5X1EtaUcyRzdDN2M3anRfWm9DUVowcjBRS3BReWRmVDQ1OU5hVlV0Zy1KMHZyT1RvcjVGVDQ1Y2hKbmI3SmpHak90VjZlczVyRG1UdVRuVmxtNVJUMngxZVJBMHJUQXFYd0RVd1lBRXdpOHF1bm1VQ1J3Njk1UmkxUlfSAccBQVVfeXFMTnhPX1dlUDJDNXdPQmlmZVZISlhUdWZUM29QblJhRnRScmQ1MXROZmdhUnFwRXFwUGttM1dEenU1dGtqUWlPcWUxYmdTQV9Cend3NjlWMFFOLXZLa2dTU1hnbm5UVDh2ZlFudFE5NUR6aEpMd2dRdE96Y0pEN2Z4dnEzOFgwSnVNSVBRcVRQdkMtYi1mcVZ3V2Z2cFpheXZFYnlfTUxxdVliSVRvYURiUGhDTTZSMjQ2WTFQX0tab2VIRVFqS0hPSQ?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Arc Technologies and Institutions CEO Vicky Gawande honored with Entrepreneur of the Year award by Hon. Governor of Maharashtra",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPRzlidFJsZkJtamdOVDhXQnQ2RFdvWlAwdm1nS3JhMWh4aVhYYlNfOFFWaFViVFloOVFlVW1wLUNDcngxY2dSYXZacVdOZDJuOHpRaGVKeHlPMGF4ZmhnUkJjcEo0dk8xNFE1U1FnUjJXNzN6M0NVelJhNXFPWEtYNmE4VlplTHI2dG5xRHIxRlgxd3BUQjlkVEJtdHZRRUxNem5CVVRQVy1ONDdFQWVNVkllcnVSZHFOVWFWa2xjNU5OdXpWZndmWWVOcEpnWHZPRkdNblFWMDhVbi1meEFQem1hclpUc0x1ZktWY3BKM1BsUElQZmo4NEM0cnBzelRmTmZyWFVHZXpScmxjQlVRRDh0eHRHcGRjemYzV21aOXVBUkVuSk96MVJCUWJOX29i0gG2AkFVX3lxTE1DSkpUajQtRW9WRXJ4eklTNGpRLV9zcXgycDlzT1hyOFNzem9pcVNXelVwWkxkV0pkUnhpLXNqWXpyOHFuZ0NVQThvY2JjOFdzRmdmb2R2NHI4bEV0bVVEOUZuMHB6TmZURkx0NENIWWJXbWhqdGRzUjM4anJ3bFlPaS1SQVM3V1RDcWNSdXpJZnNRN2piX3BrbUVmRjdNMW5BZENReVlVYXJrN2xIZWMtQ3drUlFLWGxKZkktM1hLNW11LWc0Q0ZrN1M0bDM4V0YzOTN6c3NDRUVDUUdCbXlIR3N3bjBzTW5BOFQ2U0N1dExwMm1SMEhTMXFLZFNnMXotOVdGdVM5cm1KME54eDU0OTlkS2k0SmpIWW1BNlhHbThzVEltUmhUVElaYVNkZnF3Rng0VEE?oc=5",
+   "published_utc": "2022-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "KisanKonnect: An Inspiring Story of 11 Farmers From Maharashtra Who Built Rs 8 Crore Empire",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmNzOTRlUnIzRmU4dFIyYktMYkZTN3MzTmVnbS05ckdqY2xJQzZpRkd4QV9VN3I5bUdPLW5MNktENDJRSVFaNjdVb0E4UDlpT2RLT2NKUGF5cVNEUG5WbEJkUjZlUWI5UTVPRFFQVmxIVXBvSzlxNm5pS0syZV9uaFhRM09ZYmRDQUtBWThIWDhhaFlaUlpCNGRSTEVZS0dwQXQwRXRGNmx2eExHVlVqNUlyemFCbGZ5eFhSVVhYa2k3QUs1d1Z6WWZn0gHSAUFVX3lxTE5JQlQtV1J0aFRoZ3JhbXZKc3NPa1hIOXE3UUh1YklYbGVQSTgxcjB0cHVNUG92WTEzRFVvMW50YnZUWkxrTldVZ1YxT3ZLSXhLVTB2R1BxWmlyMXpYWmM3c2k2b0k0WHdrMnVPcmJ2N05tbFBZNHBEaUt0NUVvR0ZaWUR4VVAyenpyTG1UVVFKQXdJMFEwV1RQRUtUSXQ3Y0ZqMXplU1EzclZsQXdyQXJLYTNScEFVT1EyY0xXS0ZNdXh5MFJXQzY1ZzctRUhEZkxHZw?oc=5",
+   "published_utc": "2022-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ex Maharashtra Top Cop Sanjay Pandey Appointed New Mumbai Police Chief",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjFKZF9UaXdiM2hmSTVOUTZkaHFmRVpzQ0p0S2NsOHpIS21hU0VJQnRaT0JxM2FTMWhTTHhXbnZQRzl4SlBIU1FFeTl3a0dMSUhTTzBSM1VlNjVtVkR4VndhNjZfOWE5STNHU2tyMmhSMVNkQkd0SEs0OU1ZYmc1ckZqVnZDUW41S202Q3dCd2FQbHIzRWdCQzJtOXpqUUxoUFlr?oc=5",
+   "published_utc": "2022-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Supreme Court Relief For Mumbai's Ex Top Cop, Probe Halted Till March 9",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGZTVnFyMjdmbmJWdlBBcTNVdnlicVMxbnpJcGhFM3lfRk1reV8yazJRakExOEU4RWUxaFJvbjh4bzdJZW8yZnlQcWxBMUwwaHpoNVR1d1pUZWk3aXpocWljZnFQWGVxWXR6Wm4tM01CVmpDZU56Wkt5TTgxSDI2SWZKcV91aFQxVHdOdVhDNW1fVmU0Ny1uQjFtZUVsR0hFckFTZ2VxV3dSV0s0Sy15SlRoUmp4YnhLell6MngyOHRibEoyZjdtY25pRQ?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

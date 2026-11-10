@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "HC stays notice served on AP government employees association",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXRKaE1LVlNUSzBhUGFvU3YtWVUyVkhyekFzVmJDbjRSY1pDWTZUdHFnNWVBT1dNNGZKOHNhMlRRNXJEVlQyY3JSUENKajBscmJEeXZjUV9abUdUUzY3ME5VUmgyMTVoOGFBN1lrVVdTcjM2MmNvRUE4dHhjZFdQSGF6OHBOb0JCaFY3VjdwbzFwUHdLVURydDBnYVRHX2tQLWw0XzRpTjFPb2NoRW5PaHhabWdWS2lJdEdCNVRSR2ZXdG40dVVfOVRydDBGeGlsNkpZ0gHYAUFVX3lxTFBfNm5wWktydnBhNUNjVFQ5cHBsMDdNdVprWnRUNjRNbE44REdteHkxQ2lYdFBsWnIzTUhROFgzUkVPZGVRVEVKekdHZlYwaGtfVlFWZ0FYZFRmR1d6YnVpOTJ0a1BsRFpQRHBvc2hlMjIyS0czWG94NmUxd1Q2Szk0RnpTZ0dnRVRVLXZPazlvelpiMnNxNzZ3Wm5FVGZvdjM4cUJ4OW5SWjc1SmswX3hrcmZ2U29aT1BQS242Z21aamZLVC0xMmhUR09sUHROeW9LOGVTQS1pbg?oc=5",
+   "published_utc": "2023-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why two Andhra Pradesh MLAs have accused their own govt of tapping their phones",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbklUMlBVTXBfZjA2bzVCWWZ1WlFVUndBSVdzN3VRV0ZpbDZHeGJXZFh3SW1PRmsxdkc3d2dSTVdqU29iR1AxV2VhTEdaNlVWbHVab0g1cjNYclFSUnMtM1JHX0diRmlaMGlGVkVreFBVYXZ2dVVkQ0dibzFVQW5zVkpkNWU1b3NmaHRhdjVLMkdsR1Z6bTZwV1d3c0h2VXQxUklyNmNJeGtwVGNRVEs4QUpEOHhqc2PSAb4BQVVfeXFMT2wwTjBFMkd6dVhjYVNfanJfWDNvazA4UmxtM3JxSzNLR3kwQnZXeGlDUGhOWEVQaVpjUmR2dlhzQ0VTSkdQN2NRdXNDbUdlUFpjdFpBS2xTT1gxdnJiMGNFRmRvcE1vckdLclcycVVmWlFUY0xwczdtMk5KRElTSmFSQjk2TEEwSXAyUzd1bnp2T09xS0VZY0NBeHc1YnppeWc0ZnFCaTh4eWNxWGpoWjlEZnlKNWlyNTRZT2lJZw?oc=5",
+   "published_utc": "2023-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Is Online Rummy A Game of Skill? Andhra HC Directs State Govt To Find Out",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WSDhfSl9OQzFoUkh4QUo3bE1RTlFIWHVEUkVob0FtRE00U2lFQVpPaGR1V2hneVB2c3pqLWJnODNXWEhXXzdlcER2WHhERWxMXy1yTlNMdUtVUy1qWm1oTlRDSTBWZE1oQUlRSmdNM0dOYkhUQ3JBczRhZmVkYXc?oc=5",
+   "published_utc": "2023-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to build around 3,000 temples to protect Hindu faith",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZW9qMERkMFphOG5UZWFMSXdubk5KRzE1VUJpR25wUHI4aHVtT0ZFQVNBTnRUR0JhYUNlUmJZOTEwWUFkVjRWMllvMlNwbmlOY3Y0XzlaYlRGU0ZBMVhBQkxIM05QM1pWaWRBcjh5TU50NDZtclphQ194b295RkpjcjVPdmlzcEFpWHZIY29mdUh6UzFKQzFGTkNhVzNiX2V6WVE5ZUFPN2pSU3hhRERUWFh0WjBqTFJuYm9SUklqM0t1SFdtMFhlUWNyRHBrR3h6WjE2TXpCdlBBdTZaa05fdVMxSdIB6AFBVV95cUxNRFpMbGd1T0VPWTRYam1MeXZOcGVkLVIyemdYQnhXWGhlYmQ4dzZVZzRRNndKNGZGM19WTDRpUmNkNVg3WmpjR1JTdG1zT2hLZnIzNjFsN2FBV1BZT0F6ZHZyc0RNMHBIazlLRWJZbHJ5cWVCZWVZNUFHcFdmZ2wyalNGS2VnV2UxaUFxb2xyMlFwZUdHSkNVOVE0RFdmMkU2YTVZeDZMSXFrMlVXZFpOeEdFR0cyS084ZmRlS1hXeWdsUERtM1k3cE1IQVdIellNSkR5SFFWN2VNV25sbnlibEVZZU5CM09B?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt teachers in Andhra prefere VRS rather than non-academic work",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFZCd05DNkZyWWZTeGsyUkFpS1lwa2k3YWJoQTNMS19rWXdEV0FQb3lubUhFOFYzcmtEUnpjV2NxdUNRRHg1LUFzT21JM3A3ek5fYnpnczhqNk4zNW1EQm1nSlcwTDM0NnZPcHQ1VWJqS2NxUFRTUTI2MWxDS3RkaHUzMk5Gbl94OE9IZk0zaVB3NjVyRTRYVHVHVXZHcE1ucUNzZWJwVlhKamY0MFVSRlZKMUlkQzBhcmVqMWM2SGtrQmM4MzNQVWhB0gHPAUFVX3lxTE4zdEhkcjBQamozaEZvMGVIb0czU29PTmdMck5kNVhTUWtiUzN5bG8tZGpQMER5RW40eXpMclJ1LXhmcnVHQUI0ZHA4S2FhcWo4NlhpMjBBZktxQXVKR0d4RUtORExLS0pSNC1OSmNBQlpPM05TalRXRzhxbTN6cjVETVRtdjgzcXdTUzE1V2V0S05OODF4MmpjZ0MwTDJod2pXMGRLSEVvOUk3RENZYW83ek9hYzhMUnBWbEpHZEFFVU41dmpGTkdOSmQtT2E2VQ?oc=5",
+   "published_utc": "2023-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh spends Rs 30,000 crore a year for education: Minister",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHlwOS1DY0VEM2hKMnF3Wjc0ay1Hb3RISVQ0QlhiUUVRSW04MW96Zkt4SUdZbzFCbkh0QUh6aEpuVzFDOFhKMC1lSDlFbEZ6d045S2Fldk5wNC0yVDdVYjZWTndDS1pLQUtZQUdURE82TV9HckVoQmRYQ3NJQmdQRXpLV1E5QlpWV1ZZLXdUbXEwWnZRSnpDYmZDdmhxYjZWelpvSVc3VXZzOFVfR0JMUk8xZUE1QmJidlUtMTBXSWdTdm1wT3FvMjlsMFR0UdIB0wFBVV95cUxOcjdjM3BHbnIxZHBab0pTdS1kMll2WjV4TXYyRG1BcUNiZkxNcnNJaktuTk5rNzd4OEVzRkxfYkNSSHpCNWlMdzNYYWZmeU1mUnV1N1JJSWphbTdZUVU3cXZUV2NWaUVxZGdYWGp3YmN5WEpjMGdiZDRfV19qdE9kVlcwdDZYc2hnV3Q3NEJHQzJvX2pFdkRkWHZ1MUJiM0VqUmdPUjhTcDNJVGR4UkptbEc2N0NPdXlhUXpQT2FCNVQ5UzRjbUF3NUlxWVFZcmdOWUZz?oc=5",
+   "published_utc": "2023-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government gives land rights to thousands in Gajuwaka",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXlBVDZZUEtOdmstVTZIaE5hY09UNjZ6bl9Hd0hiY0VJVGFnOE0wTnNLRFJfQkphMUhHZXFwMHZ3ekprZ1NNa1RKVnBSSG44bnI5dkw1dEhDeXdtT05OZGRaV042NFhRY3M2ZVJTd1dHU3ItV0JxYWdBZHVPazRZZERwSU1sd3UzRU1tYVFaVE1XZk5PdE9QZDFQdU95VlVVZmQxVXZsVXhLZlBFRnUyaEdiWTQxRlM0bGt1SlJR0gHDAUFVX3lxTE1fZ3pLcXB3SGFhcWgwTC1MQUh5WGdYOWp4SnVtUGt6Z1lCaGo4WkZvb09Jb2xfaVROWDJfRHBIYUtnOGRXTUt3OWFKSFhaeXJFYi1xaFJtd05vUWxVeFM1YzF6VXozNWtqRnNfa2pYd1l6TUt3TEdnODdFM0Y1UFFSckpnVzN6T1VIYXYzdnFMMlNiSC1VLUpYSWdILWFPZjJ2ODVPT3ExS1ZBNFRLeTBma2hybHpscVVBZWtBS1dzZjRURQ?oc=5",
+   "published_utc": "2023-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh offers political stability, strong governance: Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN3hxSFM3NjBYRHdMWU5rcVoxbVhZYU9QMFh6ajhOaFJ0TXM1MTViZWtfTXNkTjRFMUhQT2kxalhaN0ZiNmVfdEpDRUNTZ21fY1dFdGJROVdTTGdWdVBVWk5WQlZEQVlmS0MwM1JHdF9xX2tTdlB5Z2dYNzR6ZGdGczdEZWN5TGw4Y1ljR2xjblJ5eUZZUnNsY2pzQ3UxdjRhdzBIZGFFdXktS0FKSkdFd09NdlhmT2V3RW1mU3VmWmlKOUJ1VTcxQklaVmI2Nnll0gHWAUFVX3lxTFA3NzhQcm9PejZ1ekFQQlpuVHVZNWJxcm90YTdBc1dUZm1VYkFrM3lGTEF5TFJ0WG1RcDJQeExRWm1PN2pKa0FuOG82OHNlY0hyM3lIdnpQV2kwY09tQzhhRGlOSE5qTjg0enJVeVlCcFJZdkNBTGtzcjZrei0wQmsxNE14RXRqYms5YnA5c0ZtZ1hlOU1BZDJHSzVlX3JXYjNMZi1Mdnh5SGFWVks3M2xsa2gwTmZHNGhVcUYxSXJUbnoyZVhBQThkVEdzMXdpQmxjVnpPSmc?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ministers assert AP is on development path",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGNuYk9KVW9uZmJKbU1PWnBfMzJMVW5UNVFWd2RRdGMyWUpzYWc1MVAyRUFaeDg5ZmIwblc5WmtvaUNxd0lCSW83YXh3VkN5c0NrZjZnNjBYbTJUV1QwT2tEZkNIYUZPbnR3U2RCQWNRa0hzV1VkV3VvdVM0dU8ybTl6ZE9FRHZ0ZXhoV0YwRldzUl9WcThJdEUtOUstOWs4SW9vWtIBqgFBVV95cUxPaWZDSGp0cTFibFZuNERybDdlZ2FNMmNIYnU2NW5VblhoTm9TZElRTTNMR1pmT3daZVFsVGFtdERiYUo1ajk4VGtYYTh5MnJmUnVxR1FuMlVnZ19CaDIyRVFoLU5Td19JM3JybU5NV0FVTFJ6MGFUcURsZXNxckg4S0E0NV95emFkREtkTGE1VjVGeWE0ZXZzUV9wVG1KWnJIMnVyeFZQQnV6Zw?oc=5",
+   "published_utc": "2023-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sucharitha scotches rumours of quitting YSRC",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczJlWi1zM29lU3Rwa3BSREJoNEU4TUVMdWpoZHpSOEVpMm5DNVZSQTgydUhFT09pc3dQckx6OG8wR2QzTnA3eEFVbXFJOEFoSUpqWU1yNkc3dVdfQUhub2h4VXBYLXRoNHF1UEIzZjVMNk4xV1pRdjlvNXVQR2pJcDhZbkRNWU9NZl9ZWlZBOW44UmFUSC04WkpIdTg1VmlHU2JGb3RQWdIBrAFBVV95cUxOaHZDSmEwNENDUC0zSWsyTHVRRjZJX2pPeHlIM3NicmpsV19iVE95TTgxVWlHbFh3aUtYSXNNV3JxeUdOTGlJQTg2d1pkalFra2FKYW5LTFBqeHdzZlo1MVVIRkk2aXl6QTM1X2huaWg5cXpWdkROQ08tblJvSE94MXRlYXlQSVBEWWZ1b3BCbEFEeGNrRV9TcDNpNWV0VjdlU2ptN0JDY1ZRZGts?oc=5",
+   "published_utc": "2023-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

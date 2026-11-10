@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "AP Cabinet approves new industrial policy 2023-27",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXh3ZFR6MW5aNy13S3hwM09zdUFqTnI5NjlaQmZCM0xqVFlCc3FKUU92WV9kSUZGZmdMbDMyLWZrMHN4U1JRbmlxcjg0RnQ3RzRpMVEyZS0yZFRSdG81dUNzaWktbzMyanhiUzV3LUpCZVhER1ZXaG80TjdxZjV6eUFKOUhjbHRlVjIxOXA4QTZCdm9EbWJXMFF1cmhRaHM3OFh5OUI4cENBWDNHQjJZdDk4X3R4c0HSAbwBQVVfeXFMTndSVU5LR1ZlZmp5ZkM3clB5S2pGZ2J6U19sS3ZNVzdMQkQ2OTcyQjEwNklCMjRSeVFiLU1aUmlLeHN3U05WVV9iZ3VWVlB6cmJORW55dW1rWWI4ajlVdWxnNDdPV0E2bEk4dUpRQks3V2hmSkVLVVZBdmdqdFhZRjRlRmtjSXhYZldyY1FjNUlYb2Joc21QaTE3anRwLUR1TU1lWE1IRUYyM1VYVW5ySmZZckVmc09sS182RWE?oc=5",
+   "published_utc": "2023-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Finance Commission constituted, AP govt to HC",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3lZa2pBTlg4ZzIwNVg2SzJCX2xrbmhiODAwRnVUOEVLUzlmU2JhcUdnRkZQUlVuVWRJVzQ1S2tjdEtmSy1YTVZiZjZiekhJU1AxeWdGNG5id2RnT3hsNHdkQmdZWXFZbXhWSVJJc1NwSVpKM2Fwa1JQaEplLVEwTTlPRlgwcWF4M0xLYmdtNERXRVZWdl81eHlmdzNJelJhWDJlakp2WFVXUlBvYXFaeXpuSE9MdWhBdmJkNTNn?oc=5",
+   "published_utc": "2023-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to build around 3,000 temples to protect Hindu faith",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZW9qMERkMFphOG5UZWFMSXdubk5KRzE1VUJpR25wUHI4aHVtT0ZFQVNBTnRUR0JhYUNlUmJZOTEwWUFkVjRWMllvMlNwbmlOY3Y0XzlaYlRGU0ZBMVhBQkxIM05QM1pWaWRBcjh5TU50NDZtclphQ194b295RkpjcjVPdmlzcEFpWHZIY29mdUh6UzFKQzFGTkNhVzNiX2V6WVE5ZUFPN2pSU3hhRERUWFh0WjBqTFJuYm9SUklqM0t1SFdtMFhlUWNyRHBrR3h6WjE2TXpCdlBBdTZaa05fdVMxSdIB6AFBVV95cUxNRFpMbGd1T0VPWTRYam1MeXZOcGVkLVIyemdYQnhXWGhlYmQ4dzZVZzRRNndKNGZGM19WTDRpUmNkNVg3WmpjR1JTdG1zT2hLZnIzNjFsN2FBV1BZT0F6ZHZyc0RNMHBIazlLRWJZbHJ5cWVCZWVZNUFHcFdmZ2wyalNGS2VnV2UxaUFxb2xyMlFwZUdHSkNVOVE0RFdmMkU2YTVZeDZMSXFrMlVXZFpOeEdFR0cyS084ZmRlS1hXeWdsUERtM1k3cE1IQVdIellNSkR5SFFWN2VNV25sbnlibEVZZU5CM09B?oc=5",
+   "published_utc": "2023-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP govt to decide payment of PRC arrears on March 16",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTFDQ3JvYTFpNC1CckItcnVzd3BoMWExWlZvM1l2NnBCaWg2T2FiQ1haNDJhaHlXYzV5ckhOc0VpNXV3TTBmcWJqRzdtSjJnUDVfMWZGUVIzbUFaVTdTYVZaY0tFQmpZUW84cWRlbGZIV3UwQkdYZ25iamRraWdkLXBlOEsxWGc1NlE3VGd1QmZEM09rTFpSMFA5SkJFM0lZU3B3d2doLXdTUTI0NFNRSmxXS1I1bUNG0gG-AUFVX3lxTE5vZmlOSmVFdGxQazZwdTNVd0xCckpXVGdvNjVCQWlwOU9RMVk4elpPR3hmZlJMb056VlFEYzNtR0dTcXllcGJEb01XU1hSbGFsamJIUTU5Z1ZBRXgwakRpTWdpMUw4ODdSWi1pLUJubEF6V3FKMnpvZWNjVVF5bjRicXc4WmhLVEpCeU9aT3VuN0U3YV8wakpaMG10T01HRTNkOXhLdTFvTy1GM0ZPb0loS1ZZQVY3UXB3Ni0tSXc?oc=5",
+   "published_utc": "2023-03-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP government employees submit revised agitation schedule",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeUItVjV3MllQM2NlbmVEN0lKaFJJQzMyak5QN0dPRVpZTElLSUtKcmtxYjAtazlnMTN4dW9qVXZfd3lBTVNOMC1iaFlHTk95SUdrRUZzOEJUNHNBckdaS25YQUhaRVZwSkc2ektwd0NTemFwczd2S2w0bDlCVUxoWks0MEktaDZOTlhmUUZpVlRFQXVBcl9XTFFRcnh2MVVsa19wMWJ0VWN3eFpMYUZDeTJxd1NkeUpXM0JHYXBBMNIBxAFBVV95cUxNUDJDMHFmc3ZLbnRZZDktdlcyTndCdDdmZUZjSWVlZU1VYjdsWlVlSmJ6QlI2dkstMzc3akRneE5GQy1UdGh2aFdqV3J0ei1iNlFQeGh1VHZpMF9CTi1OaFV3UU1IYlEzMmFPM25QMlMtN2pudFJZQThWUDg4U1NpRHI3VXl4S214Ym5PT3lSVkk4Z0hGal9uclB2d2ZVNTkxWjl3bW96YVJKYW9UdUQwY3FxYVMxS21kTFpjRlJsWlVMZFZw?oc=5",
+   "published_utc": "2023-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Assembly passes 10 Bills, council three",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQW1nR3NoUEhnSnhEZmtXYlJzcXpVX3pQeVhKT19xbTVsa2FHMmVrSXBQUzQ2a3NQajN0enFnaEJBc0hmSnVBMnhGcmN0TGUxLTh4dVl6ZThzTE8tZGJLMkxCVmIza0VIRXViLXRNVGdvdDZPQWdHcTNmWW5CSTdqZTVnSWZIRFhkVUhnd2ozX0VDR1h4bTlN0gGcAUFVX3lxTFBob0U2ZXV1a2F1SnpsTERubXZUOUV4SzFtSEUwcFBwbTdxTlJyb2kwV2xfV081ajFTTUNoZ2p4M0p1dnNDVWg1Nmg4MkpHYVJGRHIzaVVIN1gxM0hiWU96eE9JM2E3aGh2cnFMVC1fYTM1Y1Q5N2lMRWdDSVNCdkNxTDRiaVNMb0plSDVXMktCV1FyTHFrZVhkMzF5VQ?oc=5",
+   "published_utc": "2023-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Virginia’s largest school district pulls AP Government test question amid outrage",
+   "source_name": "Fox News",
+   "source_domain": "https://www.foxnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdy1GdGxpWW81TDJ4RDRfcDJ1aWtfdHFiYnBfclFpQk1Ba01KZzVVWHdCWmlZMU1oVWpJbzFITWR1WDlCN2oxMGtna2otTG9lZ25DTnc2ekpmMS1FcHBjZ3pWaks5YWxUa25DRG9mVjVMNHIyZlZtNm43N25ySVFCeWFTTVliSUF6cGUzTGpYaWlXRDN3VkNQdW9SMC15dnFJc1pQeHg0cVctN1NW0gGyAUFVX3lxTE5xMThjUjJPQWp2LXBVd19ueXpHZE1xMno1SkFWOTNLYnFIR1ViQWNLNHFLUjdlWkxaWDJ0YkpYSm1CVVhhTFYxXzZ3a3EteUVUcm1lanVnOTNGcEZ0ek1mTlhjMURjQ2tzeVhpR2ZSQUl0Ql84OXlRQ3lFMWd5eURpcnV5cVJDeWZFTDBSNVk5alZUc3l0V0dIMDg5YnVXTjlmVTdJTHhyRFJrdDVoVDJ3Nnc?oc=5",
+   "published_utc": "2023-03-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan meets PM, seeks more help to AP including SCS",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1FlYXdKaFVnajNMSENVeElOVHo1R1F3eHdLbXJqQnI3NkVHRnRLWTA0MnZ1ZFF0NG1pSnQwY0k5bENLSHVXVDZ5bTVYdGN5a1dOVnNpN2Zqa2ltcENselhuMnRsQU92Vl9JWHJUWFAxRE9JbUlKRFdha05UY3BDS2w4czJxcDBwSmlVdFB2ZFNyNzJ2NmdkTWlpVE8yZTBqS0Zz0gGoAUFVX3lxTE5VMzM2LUJrOGtPM1NZZ0djVUNSc2hsOTRJNE1xeWpfMTVwdnROLUQ4RU5DSzh0WGpmVzlyamJZdlphTTdmV1BWZFZINWJUdzRROUJ1aVYzODRNVGdjVkxSaUtOaDlmdGVfYmtCMUE4Q2ljVnZlSG1aV2F0ZjZlNklWZm5wX0Q2cmdCQVhjU0ZKQ1dUTndOLTl1UUVfci1TcTNtX1FZU08yRg?oc=5",
+   "published_utc": "2023-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Legislative council sees uproar with TD members raising slogans",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcno0UGFKc2tZS2dEOFZLLWFiaEJUel9OVVQ4OU9YVUFjRUxJdWR3U2hsUUNqOU9QWC1lLUo1SU1pUzU3Rk4wN2pWYUFyOG1CTWlFeHRIcGsxZUFFS3g4bHRRVmk1cXd6SEd0RXNXZDhJcDlFSkRNeC1VSndmTWpLeTlVUEpxcUZkYTdMUkt4V19FRnZDZTNMY3dXQ0pQUjdya0JSQlVuQmlsd3piVlV2UWJ3MGJDbXNSQ1E2WENibHrSAcYBQVVfeXFMTW9DZktISjlKbU0zbmNQM3ZSck4xMUxjNnVYVFQyTzNNQ3gzR2M2S21zT2NBYWh4SjhIQjdOTDFSX1JDdzBJMDVnRmxDd3Nhd0FnRjlDeTF6MzU5czhkcWVwNC1BMnJTOFpiejNCV0Y4UkFxUGdIU1lfZW9XbDVDV2FlcDZlRGg0a3R4ZWx6VHAwTF90aWhLVW01Q0VKZGQwNTdqT2J1SUVtZ1A5bTFYa3dlVllkajdSVVZfWEJEYl9NNWZBWXp3?oc=5",
+   "published_utc": "2023-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nayee Brahmin leaders call on AP CM",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbldycFJ2cDhzb3VkZTFxT1dMZXBMZ01TNmdpMlFNYmtDTEsya1Bma016OE5iTUpiWHFZOVlJWHhpNnphYUZ2N0l3LWUxeThtbWRSMzNhMXJ2bVZYcm0zcTJaWjczVG1EV3dKeGRaeDlfMm5kMF9CZlVOaUZDdFpMVWx1YXpsMVZ6S3EyeElfX1c2cFVFd1JPOGNQbGRaQV85a1HSAacBQVVfeXFMTy1sQWJpekpQbkR5LVdhMTQ5b2JRQ2JYaVhGa2R5cTBDMlNXLUFQQk5OckFJanJIdFYybGRydVVzcTY2aDkxOVlfU0t6SjhYMkEtZmNSSVFPY1lUWmNqWXBxendtYVZFTHBRY0NPMFNXTm5pTV84YTUwMmlsVFh0TUNNR0Q5YS1jZVlEMWh0Tmx5Mm1UOGU2VE9VU3FzTTZzQUUtYjlDUEk?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

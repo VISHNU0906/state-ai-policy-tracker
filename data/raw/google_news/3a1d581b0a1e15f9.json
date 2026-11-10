@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "Tamil Nadu government to procure paddy from September 1",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORHdPQmMwMEFUZWhEQVBsSHhRd1Bkbkw5enhmWW42RDlmZXIzUXJuTVlDTC04VmtKcjRyclk5UDZyM3k5RTJkZGZFY19tWUk3MFIyajI5Y2l1ZEJxY2UxWGpHVEkyd0gwRXR4YVRfaGpkUXh5Q2s5RlRibUdqRjZYX3BPTk9SYlp1TTYxZmh4TXhBZk5xSF9nZDl2am5GR1hGMjB5RzA4RWZoMGpXa25KZzhnSDJTUHFUYnpzcmRZZlVQN1nSAcoBQVVfeXFMUEJrUzRKYl9OLVRaZFZULUVnaDNiN1VUbWxZSkJjYjdKYTY4bUF5ajJqd3NjMWZ6T2Mxbjd6VmlieWh4WHFBQXJvQVA1T015WDlKaDVuVnFzMDNXbzNNSlZWM3VFd1RiUXFIRlA3XzVsZ2RqV1NpRFNodjhYcXRUekFXQlZhMEZQbUx6MDJGSE90azdPS0VOaDJJR3k1NWc1RGZtWGVxWHZqLW5xa01Ed0d4MFFwZUdhb0xGa1h4QmZ6dEFrWmdYWVJ2dw?oc=5",
+   "published_utc": "2023-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's Freedom Movement Began in Tamil Nadu, Says MK Stalin",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdVYxX2o5elRaU2Nwa0xnZ29zZEM4QWNJYWFHNlpvU0s0cmtRMzNOajRnUUFWRW5YMlJnRWpVVW5wNnRha2pidzBaVEpkQTU5WU9ZTjJSNWlSU3c5NUhsTm5PbE8zc3JhTG9sU3JjcDNWYlZxZ2ZWRlFORHJ5VkpOLS1vT3RaY2hyX19nZllnbkhUSkdab2ZiUlhBQklmRTltZHBNOU5GWVFFUWY5RS1BQ0FCT0hiWUVPdXlGVFFBYkZEdHlYQWfSAcsBQVVfeXFMTTNrWmFKN1M2MGxGT2I0bENXRExCWkIwM3ZVSGUyaTlFMXBORElCeV84YUtCZHlyaldYcTRmdmVTck54SzBJVEtkTXQ2T3dEX1p0cXlFSkZpZTQyTHhXb0ZqOE1CMnRaVjdJSjF6TUEzanYzWTdxWnlteHQtenY4WnJ4bUhXSE9ia2EzMEh6SzMyaXUwUWl5TFZmbndBSHZ6QnJ2YmlZdThfUlFXVkFQUWhxZHlvVEpUNDN5VWJjdmw2a0Rvck42aTVDV0k?oc=5",
+   "published_utc": "2023-08-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu minister says BJP misquoted 'India is only north India' remark",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObC1kNlNiODVTMHl3OU1BX1B6WE1HVFN4UXZPMEhsbDVndElPY1JtR1NnS0VZcm9wVFN1cHhrdG5zeDRnQmtPY2dKWlY4bUhKQ0d1bVNYZHJ4cGZmTTZzY3RxaEZCLWVxOFcxTzJndEtnZlJJTmxvU0Q4Rmg3emJrYUhqcTFSeVZESmEyNGstTWRhVDhmcVdxMUFWTUktUFRHUk1HMndpcjhRWHRMcFVja201YWdDM0nSAbwBQVVfeXFMTU9Ld096YS1GSGNZb1RyYlhDaUZkRmdqUHBWRmEtamVQbXpVX0xsSGxodjhELXduVTQ2N3RLWklfMlA5SWcxNlU5aC0xeW9qWlhqdXVEX0E1TjlRMkFrd2JvNGktMmhSS2FxTnpmTzVoU3cybnlselNwX1hCWmREQkl0QmJFVkNNM1I2YlR1S1RoeEpXUjJsbWVwSzZadjV2bF9sN1dRYm92RGpWRjhTeXIxcTd1amxSVWI5dWs?oc=5",
+   "published_utc": "2023-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu minister V Senthil Balaji sent to judicial custody till 25 Aug as ED files chargesheet",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZlJZM1B6c2ZXbWRzZVBrbW1LUC1TS2FXbC1QMFlRWm5hanBWX3hYWkhqNjUzSnFlZnFoanZUSEFsS3pvdFhoVnBxQkp1N3UyOXdydmJqWGtLSFdTUXctSXlyek1BZVhzSENEUEtiY1U2T0pCbTM2VFNRQjB4VHZIdFZyQ1l6VUMzMWxXcjZfcTMycmNhSE9LeXU1NlF6LXhELU02WnVnZWdrdlBCRmFoTVJLamtIS0pIUXVBZDdFRjRlWlBCUUI3NUduLXpGRnl4T3d0empTcWVmaXRWYjBIR3Nhb0JxWFR50gHuAUFVX3lxTE1ObEtQM0NKWWJoWC1DOTBmQTRVTEZqLWlwTGhUb21zeEN2LUNmaWQ4ZkowMUt4N3BJaXRxN3NFRjF5anpudkprR3JWNHc5X3JzY2JLOTRGU0lPWUxvdjlabENhVFJ2eldRd1RkTmhUMWROWHFyMzZueWxpU0duVkR0YUkxRkZjcWhtTmkxb1FhenFtaHo4T0NBM1htSXFndVA4SWJ4Sl9WaEJmWVJMOTVpUkV4VURfTUNTN0x2OU1aQ1dXN2xMS1draUs1cVhZM0dKdGdWR0pjdjk1aXhFRUUxbHpRNTl2U1haWjdDLVE?oc=5",
+   "published_utc": "2023-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Foxconn Denies $194 Mn Investment Deal With Tamil Nadu Govt",
+   "source_name": "Inc42",
+   "source_domain": "https://inc42.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaHJFNmoxUlhwa0tVaU51R242MW1VRFJwck5ZVER1OVdTeXhOSFJpTXNrYzljb25xNVpDYXpDMmRwXzVINldnUkkyamxNakZ0ZDVxN2RRWUN5YVMxRk1TQ2U4VGQ3YVVndGxOWldzbjd4OHl0b0s1ODNpdmFRV1l3b1lXLU91bTJiTVE?oc=5",
+   "published_utc": "2023-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu farmers to protest on Aug 15 against state govt",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWljcjBmZFVjNm9aNHhBLUhCNVJXZ3ZHVE5CY2F1azNDOWczbTBkQW1aMmd2RTJFSmlCYk5YNzN6enRCX2xPX0FRaGozYzl4VEFBOUQzTURhbC1DN3pOZExfbEU2WUZ3TTN4QmF6UFY3eGZUTkwxMWhYYkM5a1paNHpMS0NjRDZZZlB6UHZB?oc=5",
+   "published_utc": "2023-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s first common testing center for drones to come up in Tamil Nadu",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWEJ1OEpnMmdiYk0yYzIyZDE5NE5HRlZtb0JRN3NoSzRXd0lmUlh4UXF0OTZMTDdtcFRJZ29JZXA4NUh5T01oOVhFUTZ0XzlEZlhSb3hNV2tlQjY0SnRxZTdCNTAwREZsdWtUaDBPU0JjTDVRYXdNc2NNTEhqX2VpZzdMcElDRUNhbjM2VGd6cG5rNWFRZkJfRHYzTFlqaG9QUlkyNzNiUmM4c01iX3JkWDJsdExUdVk0TGtlNXZKYXJWc016aUxobmhDbUxqQ0lETkNB0gHXAUFVX3lxTE9JSzBjSGYyZmg3Vkh0cE43VG9nRzAtc21ZcXJoV2RqWTg1SURyVFZkdktST21IeWRIdWw2UV8zU3ZQZHJvWklFakZ1NDlWNDVfOTZfbDJyNEVvTEwxUU1tTE5rZG1IRUdjWDBJWnRPTlNJaXV6OGpnSG1LQXYyd2NZSWJLZEpDTmZ1dVo5WUEwSUR5TkpCd1NCczVwYk9Jd0xfaEZrVDFTbTRwcGpFMmZiOU5oSFI5eUI5cHZoSUhKUEg3MEprZkVpQlZLMVdOODZwdDJuSWgw?oc=5",
+   "published_utc": "2023-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Chief Minister Stalin Needs To Know Who Pushed Education To Concurrent List And Why",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1p3YUJrQ2RqTHNjenZEQUFKVXM3ZlliSVdZRV90c3hDVUFYSmhleVVWbUh1eHFhQ2liUlRxaTYybFRZSmcxYkZTYi1Wd0xrMVowM0l1azVzM25nbDlKS1NUVjlyemhMYnYtc0lUQmxJXzE4c3kzY2NqSWZBT1c0UFhjWWhHRDRWWXhGOE5SUmZ2VVBZeGg3cHpwVDJlNW1oVGdjbmZrV3JYRTVZbml3ajNqSzBGOTFyUHRnTjZXc2lVd2lfU0HSAdYBQVVfeXFMTVNmX0p4N2JtY2ZUTjBLeUtRNlNrdFNETzB2LW1nWktQbnhBdFgtNk9aNDNyYmlBMlMwUTFET1RXSmNIUWU5TDh6T1hpQ3ZZMzUtUlJyTmpwWXJYTnI5TDlTVE5vaExIRlA3SDdRNHFQZWx1MVVGLWlIRTZxLUw2bEZLcVNmMi1wZlFmdWhiRmlzU1JvMnBMWHFFNkFiS1d4dWNHaTlDSWFvVXZlSkJ1YzBVdFdsaVdrYmxsYlEyUnpxRkVEZjN0Q3BSQ0F6dWdHSzVqSHVIZw?oc=5",
+   "published_utc": "2023-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vanniyar Sangam Cries Foul Over Land Retrieval by TN Govt",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3ZadGFRTWRsNU9fNnNKSWVOdjcwS0RLYVoxa19WSWJxWkQwRWl3LWd1VzZldm5SQ1p6WjhIclc5TDhKTlNrRXhyUVVrQ1VvNlRxRnJCbElhTnJpTzdCNkpOMWc2ZzBCNkhSX2VjUUdIb3dDbmZpMkNfZ0EzbzBRVEJyWFJwVTU0UUZOUE9fSlZ1cHExLUtRWGwyQS1yU0g1UWtNVjhmRWxJVnh4eXNLOTlHSFJCNUZ6U2JJdFBDNNIBxAFBVV95cUxNcTI3NjRwV0pBS3NfR3ZOUWhFeVBNZlgzbGdkSFdiajJ0UHBxbFdWX3djeHp0V3A3WmFUcm92b09zMkt3N0tEUXF5SFZ1d256ZTBOeDQwTjRQSTFQT1E2NmtOZE1DaGx5VnFsaDN1V0hBdmc4MktZbVNrcDF5Ujgxb1NYU0JFM2dSSTREMHBGMXNtSU5tTzdBNWZFZ09DQjd1ZU8teklJeXZNMDlzZ014QjgwbGRzNjJyeEI4WVBtQlVyeEJU?oc=5",
+   "published_utc": "2023-08-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Won't be enslaved by Hindi: Tamil Nadu Chief Minister tells Amit Shah",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGh4ZlBHZlFkMGhDRUIzRTYyUXM1Z3BEd2NZOEVPcmstY0Y3NU84d293cEpuVjAxUHFwWVVkQ2diTHZtcThCVDhENXgweWU4RVROXy0wZjktNVVQN1BHaXNXOFpTZFN2YTVMTFR3cmh2c0lncnNpaVAzdHgyVGNJYk1zX0JSdzM3TzVyYnNRT1lCUWdzSmV6S0VaMmQ2LW8xNks3VUpSS1pVTXBYd0E5aNIBtgFBVV95cUxNczFqYzM1VVV5VE5vQUd1NTRXLUJOaGZ5MHNiT0VDcmdUN3FGc2Q2MzV1NXdLbGdkSWhoRndwNkdQeFZKYmYyZ19KTXctaFV0V3lkQl9lZTJGMm5wWngtdjc2WHlCRUVySmVBMWhGa1ZFbVlDUjZ2QWFib3p6UkNwWHJrMlNTMXBQRWVGZGFLRkxaV251UmZteFdhTVlzQ3o4aG8tZjA3Z2Ezb1Zna0oxY2EtVDRMQQ?oc=5",
+   "published_utc": "2023-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

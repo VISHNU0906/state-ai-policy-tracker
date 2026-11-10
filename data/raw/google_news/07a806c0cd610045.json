@@ -1,0 +1,85 @@
+{
+ "query": "\"Karnataka\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "Govt launched AI & Robotics Technology Park at IISc, boost to R&D",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFBqZC0zQ0Y0NjNySzEzVERfRzZ6MGlMN21vN2JmQnRwNHBEQ1J6YUZqUkNRYUMzN283WGFNTGNvdTVTWWFUdzBSZUd5RlR1RlZnTklVaWRjOEVHTndUODh5YW1xWUI2UldKZ2hueFVvMXdXYUZKeFB2Q25KZVZRRDQydjVPNDhoX0VlUDdleDZ0RWJK?oc=5",
+   "published_utc": "2022-03-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Artificial Intelligence and Robotics Technology Park launched in IISc Bengaluru",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUjNLTDZOSEdyd2hnY2lTeklVU08tRllpbFlFeEotbHRYOTk4bDE1bnhnNnFodW5zUUV1cW50NE9iRlVNdU4wbDFOUTJUUDZTNHlNVzgxSld5bkI3WlVwU1FDbnJmV1cxTmI5UXk5WkdwU2x1R1NpVkNuN1hVcGJLeG02MUJjSk8zQ3NSdFlSTjhTVGtmdVVQVmdlQkVMajJiWEdRZUNsd1ctRlptR1B0ejh6SGVpbUhVT2hpUFpmODV2TnNrbWdjYVZfV0LSAdMBQVVfeXFMT1hEdEdscVc4Y0h5YjYxeE5FWUNTNmVQQlpab2VaOG54dEFaR0pGQnF0RWF4c2tBaG5QRlB2S2JvclY4NEF2bVhWbnRaUmRqUVNSTlpLN2NUM05DZmtiNWc4ZkhESTZTN1EyaWpZZDVQWFoxd05ZRS02VjFXTFJZQ292NzZBMDlBMG1KeTgwdUN1Nm83X20xQjM1eUNxcFc1SDFYbm9PdEJld1VDWW9OZ3UzeTgtc2NKVzhNMkExTVNqTHBtVE9NZ1BSazRCLTl4TGhJZw?oc=5",
+   "published_utc": "2022-03-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt signs MoU with British Council for imparting global skills to state's youth",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUg0bHQ2ZUo2UlVaeVBCc1ZxV3N5MTZaR3I2MnJJdGJ6anF5bU13REFNMU40ME91VmNJbEV3Wnk3ZDk4M19UVHZ5SUxWZ241SUtFUkdYdGJEaTVQNTgxTzVfQXl4b2RBR2lxbVlUdEhrSzBycWEycUdDNnlVeWFXY0xadWFEd2RfS09haFFFS0FPVVhPNWNzLUdzeER2S0I1ZHZPR0d1UGVZQ253TzFyc0NZTkE4d2tNLVJxNkE3aDBTcC1jRU5rSFVnTDRSaWtIM2U3dGd5bHZwZnZGUHlBUzRXTUxnelV2?oc=5",
+   "published_utc": "2022-03-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt approves 48 industrial projects worth Rs 2,062 cr",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1hMLXZSc1VzYUgtNHI3MEhNNUpqUEowVloybTU2UGw5ak1WVTNIa0g5aGhiRklKWGdSVXBwME5WYUdhcG40U1VSZkxVMkRZa25rVjFkSUtoVFJ4ampUTk1oanpZLVJ1LUhpVjQ1T3FYVnpyWVV4anVydElTelo3T2p0R2Rrc1JjX3k2ZW03Qy1RQURBN2JVbkVGU2VIdVRXWnUyQWhlYzBMbFdkSW0wYjZ3b2xOU3FfVUo3RDRZUlJTdzlxVHdLdmtfLXlEUUVlQmtZc2RpbDBtWWVBaDAyYnZ30gHcAUFVX3lxTE9mUjd5LWg3cVV0Z2hpME0zVS1YWC1JZmZjbWlJaVdIWW5GYnNZeG1Ld180ODJPTWt5Mjh6NUxPbEU0YTJ0blhqSnNXNXo1NzNjUlRJWV9kcXV4NkVQbHZJRk5POGtRTUoyLTJGRGFweFc1R0s2X193NFZOYTNRY1VIaDF0ak9oV2Q3bDdqZmM5QmdPYUxwRGw5SnJuTEg5ZW1QOVg5aVhNVmRBbUh0TU1jY1Npa09aUDV6TURUR3lGTFRPdjZKQnBTcmVTU0xOb3ljMENaQWZPM09yZzU?oc=5",
+   "published_utc": "2022-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka govt launches initiative to deliver land records at farmers-' doorsteps",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlNNempXTW84WjhKeXVsdDRGdENydHp0TEczTUJUMmdxUzBXQlZkNHpSekthSlhPVk1ydFc2WERKR0dBYkV4a0UtQzVDcjZFZzdKSUFjeERQNXpCYTZ5UHZURWVVSm93VWc1bVRuR1Z2TEtzREdlU190ckdVTjFnNF9YbDBkdEpjeWhlMDIzRVI3RGUyYTQ4enlYVzVpa0ZfOFFLUDlpTHVaVGRQWDdtekpvRVZQZWY1aDYwWFpJN3dkN3lObnJJeTJWeWxYZEJaaVHSAdcBQVVfeXFMT05selJEdWFWTGpsU0Mya25LVzdxUDcyLUp6NWdzSVRIWWZjdkQxUFNYaW5xMnpwNUtpb3VyLTlIY3dZdHdQaEdWMlNZbFlPa2VSVGE4MlpjTTRPaXYwMThiVDcwN3pTdllsMWtKYjVEbWRSb1hqd0Q3RF8zNzJkdE1iNUl2bmJkUEs0T2dUaVJsY2NySEx5aVNDSVBNZTAxazlPUTZna3NaRm9Zc2haZkJvUU9OSVF0SVY5OGlLREo0SGpXWnZfYjN5aFhseVlMNDRMTUlFWFk?oc=5",
+   "published_utc": "2022-03-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India court upholds state hijab ban in schools, could set national precedent",
+   "source_name": "Reuters",
+   "source_domain": "https://www.reuters.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjZucEVOLUNfWi1oenE4TnJhWGVGTnhJcDVDZktKN05ZNUVlZ0xZTGhxT2doX2d6OF9PVjZVN0JqM0xUSGl3V1E4UzJGQkEwZnB4S1JkUm5LN3o2RG00dVJkb1J1cEZBUzl4dzRhUVAzb1lWRGx2V1F4elNxankyYmxIQzdmWlg0Mzh4WEN0UTNlZnpWMHAxSThlSUVuNTFuRGc?oc=5",
+   "published_utc": "2022-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Congress made rule not to lease temple premises to non-Hindus: Karnataka minister",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUFTOGFfdjk0SmNkM2JIVVVacGhIMGNPTkI2Yk14TjFrUmpYZnQyMU9iaUNHc3FRRjFoTHJJSW1UZG50UXRvT2N6RmhKSEJ0TFJzdlRJdXMwaW5kYkpZSG4xMzFvbjg5TVdfMVFPTnFUR244Y05xY1FOdklKQl9GbEd1MjVaV0RHajBmeUtFMHh0RmpxRVBLX3dpTUNzbmNBa21YYTRpYUlseC1xRWd2YlQtRldseWd5a0ZINUV5bFplOGVBaWpBRm9PZWhxbGvSAdYBQVVfeXFMTzFyTHpidEJaR1pITS1Fak1GcFU2UEVSZFNCWnVOSVNWNk5nWDBRX1VfZlcwcDB3Q0d2blZkOVJBMlZPUThRREJxbGZBdGdjb0tnM2FnS0FtWGU0bU5jSnJkdnFuejcxejFpd1dUQkxTdE1zZGN0QWdiQ3E1aEhwQnM0S2otNEYxN1ZzOGtJcGRNUTRFTDQ3Q1R6UHQwUmVXVk9fel9RdUFMRkI2NnlDcGIyY2g1TlNGUFZsZGFwUFBMYnhZbk9Td3UwaW1OaksxRDZnemtjUQ?oc=5",
+   "published_utc": "2022-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "-'Hijab does not form part of essential religious practice-': Karnataka HC upholds ban",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVRVYU5oeGtWa3BZS0FzQktOVDFRQ01wQUZ6RDVPUkZiSDc5YUxSRVNfR2lKVGh3eHVTTk5kbFlpVmQtTV83cTJqQUV2Mi10RGlNWk5rc3gwbFFIS2dSSDVrSGY2MkotUFg1dVNhR0VfckFDUWE0dk9iNXdnS0x6Ty1sWF9pdWhYVkE5bmwtNFBXVUgta0M1U3o3dUhucndWSnZXQVlvVVA0U1FRSGcxbEdtNW9pb1VMN0g4OGV1WmFxMzFTRGhSU3JuU0sxQdIB0wFBVV95cUxQLUdCTnlsQjlwZGxNeW5kdTJkMXJOZ3U0RUFnUENwcVhWUmlLM2NJQmJoTUhnaGw2ZzZNOE91ZXZGaGZZN2gzSlFva2d0WW1Hak95d1dhTFNodk9Ya3A0eURWS1dsX1l6T0VWOHIyUENGWHpKMmhZSkxqdi1BZlFGTjQydnBobk5acW1YS1o4VnBjSEh1RlZIY2dVVmdPeElEdTJ5Vm5NR2lrSUUzYk1nbFh1alZMOF82Z3Z1bGZhYVNtRjhEc1NVU21qbjRtLWFsd3pF?oc=5",
+   "published_utc": "2022-03-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tuberculosis being detected among those recovering from Covid-19: Karnataka health minister K Sudhakar",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmxMWnJVX0lmMklLdG1zbHpIQ3BPeURsSjluV1EtS2J5Z0I0WUk4aXJpWVZsZHNfU3B3N0hSOVNfYzRERWRDaEI1VEZuLTRhSzIyVHFfLU50aXRzUFF5d0dFRldqU1JPLWdmMVFlMkoycmV3VjVXSlJzanZzN2RvenFvTkVBX1hGSTJSY05QT3dCU1BieFM3S3cxVEtxRHloNUF0dHhYVzR0SzRJcHpmeTlMeUdEd9IBvAFBVV95cUxQQTRpZjQ2SDIwY2xTVVRCMmpjQTZfS2k5VjQ5MFZwRkw3S3BUWkNFUmlEbHlxcHNLVmRXd21mVWs1R1NtYTdmdDBDWmxyMG9MQTZUcVJVVGpKZk04bEJabUlhOFBMbWtBYlJqWEROekNSbU1JdGVnVHZhZy1iS1pDWjRINFNRX3RMeGUzY09zemc5QXFla1ZaQVVObElfZE01ekRhLWdSUnY5aGNoM1pwbFpzVjJQM2x0VkdGUw?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karnataka anti-corruption bureau raids 18 govt officials across state for disproportionate assets",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3RmVFJPRi1BLW9qVjg2aGFzakhWSmVXc0FRdGZiZ3R0M0RoSDM0eGxBR3BSZDZITGhCUXpJUk90REVxem1jZlBVYlFkZG90YjV5bGVicFp5OTBKNVBBVjU0cElFSC1KWk9xOEtjNzdmVFNNNDNsZ0lybnBBeXdwOVpjRzRZXzFZbEhDcnE4cm9uZnhsRU9reE1CZUFwTmPSAaYBQVVfeXFMUDZIakh1eHo2V3k5MGMzY09hckZaell1aVl4SGd0YmtmUlFlczJ2MFpqZGZSSHBwdktWbC1sNjd6TzgtOHo3M0kyQmxBZWpPbWRsbnIzV29VQTVoVURGeS1WcmlzdGl5OWdieUhlWG1Qel9RbXBITUNRNVB5WEc2ZFJKMm1SbXNLRzN5N0FGUmw1MENnTE1YWUlPTWFnczAwcnlzRF92QQ?oc=5",
+   "published_utc": "2022-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

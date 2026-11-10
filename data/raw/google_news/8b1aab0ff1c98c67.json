@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "India’s first AI-focused technology business incubator unveiled in Tamil Nadu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWlZfakd3Y0QyR0t2dzEwLWhPbWFwdnFnYWRwTGJmandMaENDSHdnQ1NRRWdCX1R4RjM5MUhCd2VnU2tFM3JXdmk3WFNxdS1ZcGtaNjhoYnVLcF9RZXNESkZXUmlKSE52R3VRTzJvYWJ4YmtMTWdUX0ctSlE5MndNWUxKZElwRE1WaDcwUmptNElNTm1rWFB0UTdsUWh2eUFkcmVERjQ2dWlUUndYQ0I2MzNlZGtVQXcwM25IYzJ0eks0U3RDWm1mM2RBUU1IVGwxaGczcVJabFPSAd8BQVVfeXFMTk9uR2J4R0trM00xUC0zUU1UYkZsY2ZmQzV0WFNSZDVDeTFDZy1haUVEaGU3ZzlNU0pVVFAyWDk1eFRvYU5VWDdXMlpYX2dsa051RjJKWmpobmdEc1J6ajJzVUZBLXdjc204SFVoVGpseWJmcUUtT1JxMEJEWEpQMmw2VXZWOWlPVFQwSVY0N2k1RHZaYmdGZlFhTTJqMlNGYzFBZ01BbjZ4MUd3LUxCREt4aEJGajdmRkwzV0FGZzNyR3d0LWJKVzhMVDRqZDJObWFVVzBzY05uZXRLbGN6OA?oc=5",
+   "published_utc": "2023-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Governor Has Given Nod To Prosecute Ex-AIADMK Ministers: DMK",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ppUGZiWkQ2SDk5V183bG1zN1pUbGVSTUtyN3NNSEI4aFZpNTQteDJjMC1wUk5jQXkzc0FqYkpWdnVxSHJvcWxsSzRNRU1NcDkxM3J0YTZnWkltM1VpbDg2Y2hreTVVNnlRRTlndUE0WjRYZXRDWlFoRENWdHVySTVGSlRQdE9QcWFzd2k4MzBfUG56WGdiZjdRZFZzR1NQQjRiTG80ajNwazdNeDgw0gG3AUFVX3lxTE5XYlJFdlZSdXNzLWdYQkJjSDNIZGU4ZkZfd0VsN2FVQVZYNVkzTC12Y1VuTmgtOUV4ZENnX2xQeHJIZVB3QTZlMi1OV0otbEVhTFVseDI3Zi1jZ2FYMndCdEdVeUg5Vm4xRVJiN1hYbE56VmVtakV5QnpabWpDTFlxNXlLQl9GYUxrZjJMemFkOWIzbmVBcXdubS16c2EzN3N3aXE4S1NjT0N4TXhnbU9WVGpOUFVfbw?oc=5",
+   "published_utc": "2023-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Stalin aide and Tamil Nadu Minister E V Velu’s premises searched by I-T",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkVZQl9VZEFYMXRYcFVEQWNydm9PT1FvSXJjaDF5THpRUWdZWTlFcUNiekhTa1I0aTYxRWtwaXdSNGpTTnM5ckVWWHVCOS1Ba0JQb2p0NG41bVhLOHRHaWF6LTdPUHFFaE1fVlQ1LTRBOVZHUDhpaTNWUWxPeGZzend5WTA1OWF0MEt0c3hWU0NYV0nSAZoBQVVfeXFMUFBmN0RXLUpWV3FnQnZ2aTBvamE4dkVGdm9KWHRZSjB0TW83eC13MURMT201R3dDU0xMTUNoUTJwb0NYT3Rlb0hyaHZBSGdNcnRBUDVMSnJKQk9PZktoNm1BX3drdkp4N1J4Zlp5dDZBeHpJaF9hUWdWMEdFdkthZEQ5WU1HQW44NUs1dkVYUnZZNXVlVWZ6OS03UQ?oc=5",
+   "published_utc": "2023-11-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 29 crore seized from Tamil Nadu minister Velu, his aides’ premises: Income tax officials",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE8wWWhXNy1yUG11MUZUVkVtbFdYT0xTRVV0RjRkMHltNjY1Q1ZrSGEzZGFyV0J3aEJkTHd2dG5fUUdHWl9RaVplOHJSci02ZHl5ejRYeWlMRUx0QjNDbnB1UjZyOUFxdTYwZEY5aUhvcEZGRzZzZmpJOC1PU0N2RHl0TXQ1bnBReEo0Z0ZXY2UtSnpHdHBUVmNObzJrN19wU254OEtIajBJbGU2OTJYZGVmOGI3MkZtWFN6aWdLVG5NUm_SAcgBQVVfeXFMUEFRWUkxQWp2U2hUQ193NFJZUDdJMlgwWnI2SDdkV1NJSDRyd1RoV283WE8xV0JWMnZNdlVTdGhTc0NyUkEwWTd5NHZjQjhCclEzanY5RG5mYTRUMjJ4RkJabmVieU1SZjRyRmFkTTlrZE5jUTVrVGptOEh6bXZYWnJ3bktmX2Y5WHJEcFdpU19pYnpyTlBzTFF2NWJ0OUs5cW9uNjBqemZsNkpsNFA3RUxOY2pXMXFYV3pYX0hNRUIwT29UQmhRVm8?oc=5",
+   "published_utc": "2023-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN Govt is all set to implement Star 3.0 software in registration services",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObko5Tlo0c3JodHAxY3ROVnVEb25uSVZmMUNpdkU3eFV1LXlFTHVCYWxkbkx0eHdQZUZNR3dsX3JQUHJac0R1U3V3cnpMVFlKeTk2QWczSVVqbFdYRTRJVkpiYXpjY3E5NFFEUUFPNll6dHZLS2c0a0VQeG1WcEFWMUh3ek8wRE5LQWo3X3lXTjQxcEpFOTkySkJLZkt6RmtCdG9xaDJqa2RyVEEzTnlNdE5fQlVyc3F10gHGAUFVX3lxTE5WY2UwUjBhN183Q0ZKTF9DZUxpSnNWeXJ1MVljRTRXbWd4eVpYbXRyNC0yQzk4anktdlZLZmdxZXE2cnhiOEtaMmotaUZweUo2T015WHQ3d292UTFfdGRuUWJ4SVU2Z3ZyOHdjSXBzbVdmRkROZUt2RzRLNXctTHRQVlljWm5VQzVMWHRHZjFMQ3p1b0M1b0lzXzBVaXJzeHVYYWh1MWtldWJqMnpWR2tZU05JbVlkeTJ0R3FJUGlDNW83V2lLUQ?oc=5",
+   "published_utc": "2023-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uniphore Inaugurates India AI Innovation Hub in Chennai",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSktuSTFSZU1aN255ZDVuMmFxQm9vYXdaRk9CeTkwM3IyMkUtR1hfRVdhZXlkenNCdTk0VVh0TUw0NWg3RXJ6VlZIa09EWm82Z2lkLVE1SVN4VnVGTlc1eGJtSXVHWXhZR0hSU0xQOG1NM2Q4WXRYNi1uRjhsRGZoS2JiZzVHRGtpeENNVkd3YWxnOUlNQ2xKbG9KUzBndEdBMzFfU2QxaFU1ejZnTVE0dlA4Um4zZw?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "This photo does not show an old image of Tamil Nadu Minister E. V. Velu pulling the rickshaw of late Karunanidhi",
+   "source_name": "FACTLY",
+   "source_domain": "https://factly.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRVVBREY4SUJBYVdhR1d6Zk95SmtkLWN1M08zV093dnJvR2ZJVG5NcThWWklnNjF1SlBZOEJCWGpMalNRT1ZWa0kwZVhPb1ZMNFZuMjBmNExvZmZtRk1uVEt6Qk50V3ppZGlBSEVLa2FZOVlUMzRPaDJCcGVoZ2plc3Q4Yl90bUFXSVh5MmMwUWxlTUl6dEpWbGtlenVWd3d1NnJBY2ZOUEFKdE9uVkZMblNFbVdVU0lrbEttNWhYU2VsWnJjVzBxNA?oc=5",
+   "published_utc": "2023-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Inspired By 'Shark Tank', Tamil Nadu Government Launches TV Show To Boost Entrepreneurship",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1JCbnRGNmYwZnVJMkhORUJzS2xob19pXzdFN0UyYnBnYXZNQTlUV1FGTVE0NzBIMHU0LTJ2RjR4YUVJejdSWWJUcTA4TUhiNTFFQXlfUFhaaEY0c1JnM2Jub0g2SWs3QUtqYTNrUjBWM0llS3pBeGs5endtVklaM3lRVkYzb0pkaW5zaV85R2l0bjgybEJVSUdXdDd6S2RSamJqdkFCNWxBUkZxd3owTTJtaXdZZ3k0T04wTGFMZElUYmR1SFHSAc4BQVVfeXFMTVptbkR4bjRUcC1KQ21VZjZMeWQtckhyRkU0X3QwUWdiN1FMUEJVVF9rM0dWV05YeXRwdUxzR3VCOEdBbFdtQ2lyVkxNd284M1JKdkJFakFOTHd3V29NRTNXUVAxT1JPSDlwY1RZQmFnTXYySGl2ZEh4RkR6ZnpVQ1AyTkJ5QzBjZzBLdndCSHhDTklES2UzZ2FiTUpnZFZwSjFBaUU1aTM4TmkyanNWWFBPXzl4d2RwTkhpcGdYRll1SXNTaUR4MVc0dWpMN0E?oc=5",
+   "published_utc": "2023-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why stand-up comedy has been slow to take off in Tamil Nadu",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzFEMzNZZmtpaXVFanN6dXlaaGhsMUp4VlRxYlBvWnRRcjVhZ0pIbFRkTmE1cTEtZm4xOHRQRGh1SEtOTW9EZThBcTV3M294Zk9kNHlYeXRDOU9TQkdLWi1kVndGNi1QVHVfSnF3S2VJSkxGWjhUVXlKbnYxN1RqR2RSRDN0UXNfX2F3UlNCams3U3ZHNTFpOEE2Ykk1TjY4Q0laVXFyTUtMaEFDNDMtWTlmY2Yzbm0yNFHSAcABQVVfeXFMTUttTFpYYWpQckpEMXVyWkcwT2dwOXdZMjNCdHJSVzJibmltYnBxUUttcC1sZUhHM1NKdFdtd0VIbVR4NDlWOXNjc29rYWNJano5QXNvSXpaZC1qUk9qcnREMmMxNnlDSEZMUkFrbHU1TVJkRGZwWUZ4SlpJQkNuekVrV3puOVVjSTd5MWJFaWM0QndFSUpYLVpoUHFtaThKLS14ZXRiR0xYNUVlLVNHXzNVRHBycXo4cnRKd0JoalVi?oc=5",
+   "published_utc": "2023-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Cops To Search Central Probe Agency Offices In Rs 3 Crore Bribe Case",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQUJPRjd2ZUhXMi00OGpELW9zcVRBNjNUUk15MGo3cUxsalcyVkpkRTJYSWJ5bEo0OGNIaUU5ZVBFRGFOZExWSlBGclZzMTZKdlA3MmJCYVdtVEZkb0VZZmZGV0habTBYM2lneDIyY1Vabm8wU2ktLTY0UnAyLVZKdTJ4NDB3OWtGZTlTU0d5dmJScWhvdHBFeGZiUWdUdDh4am9ENjhoTHNOR1pOcW4xTDg2WF9FNXdoQVMzRGxoWmJZb1ZQUXZpRm43TFU4QjVvYklpRkhxXzVJcnlqTHpWeVZpaUk1Unl2ZW5xTllWVkRyeWpTQUVLZmhHU2xGWGF3WG5XRTMtUGFvQ1BISXkzYVZB0gGaAkFVX3lxTE1TWUxreGwyUUx5N3NfcXFhcHY5TXdKUnlyZ19uNzBuRzAydDBqTGxGZ3dSTGlOVEZ3ZWp5SlhPc3BJSFc1Rm1SYXkwc1NsUFdoNTM4V2lUVjdSclNxbUNwTzdBSVg5bDJYSFhuR3F1RkhKS1hscnBibXNVdHVhQVR6WUZiNWtpMmlDUTdFQlZwblAxamhVQ0xibThScEJiTG1zSmlOVFp4OGZPbU9xYmVYbW1vU1hsaWZCOWk0THVPbFJXTmNQaXRhb2VoblpkemRFQkplNnU3VjJhRldCbXNHWnJtYzhnV3ZIdFFCN2dfMUZhT3RvejQybE9qWHRzc1pCcUNrcTFaaWZ3YUcwSWJ1QW4xcjlpMGx4dw?oc=5",
+   "published_utc": "2023-12-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

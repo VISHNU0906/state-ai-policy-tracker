@@ -1,0 +1,21 @@
+{
+ "query": "\"Gujarat\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "Kerala deepfake fraud case: Efforts on to nab accused from Gujarat, say cops | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdk1rd1VPQ3NTY21WMVNmMUU0MUpDd1FPc29MamxMTVU4TlBOT29ENEN1S1A5YWhUSmRMQjlId2E2eUtLYlRSUDc0bkh5LXVDMzBGUkxndndISjdIc2pQZklnVlN0ZDNELXVBcDctbWNZZlVfeWZOMFZONWFfZWwwdjBiM3BDS3ZrTU9sY0ttRTBaOEZtSnVmQzUwUGJEbUNkb09xbldDZjBCeXltMGF4SFVTTVY5bEwxd2Z2b2t4RW9jMEVJV0pzNzVEMVp2OEQ1V25JeVFFbmlmYW9FdV94WVIyY0FkQ1MxRjlnQWRuMU9qVUdD0gH6AUFVX3lxTE80YzQ5TDN1OXI1ZUc4NkxWN2htSVEyYkZsU1Zad0VHSWNSZ2pQNkQyWHVRT29OTnppb09PaXFNWmVqU2tMQkNzSHFIRV9PV2haZm1fVDBXclJLTEZ0QlpNRTlTaVpIc0lBNUhEb1pEd2Z6SGlqVHJ4U0g1ckZtY18yQUZjOXNJRnB2bkFrZUdYcDJEZGhrWE5PZWJSZHltaEtwLWMzZUtQT1I4b3hJQ3hYQVNwbmo5cGY4MkFDQ3pNd1FpZ0FXYXdudFJNRXVNTmczc25PbDl2Y0RUUnVFRWFtV0Z3VVlEbWVERndSdUQ1aERTRUJiNTFGVVE?oc=5",
+   "published_utc": "2023-08-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘We will launch public cloud platform by January’: Yotta Data Services MD | Company Business News",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX2dFOVFLMjdtTlpfRkxIU3dBcmxXU0VwUmdnQ1Q4cExWOTB2cEw2Z2NIakU3ZUlobDMwcWpmZUhoQ3huUEZUZUs4QmliYzJJR2pNejF4M0JFd20xOTJVNHRhYzlJX1hocm5feExySWNNUVZ6dC0tRV9zLVBLcnBoRE15dEZZV1d4SFdWbGsxRXZwVVE1c21BTjJ5OHVCWUxXMS1RSXktNHlESi1RS0JJU0lncnZQMkZYUm1NZmdKaC00SXJRUWktakY0SlJCSGVhR2ctSWNycnZMeVlfOEsxZzFSN3d3cDAxQUhJbENMNlliZw?oc=5",
+   "published_utc": "2023-08-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

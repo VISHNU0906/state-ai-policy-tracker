@@ -1,0 +1,29 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh Assembly Elections 2022: Rs 355 crore spent on stray cattle, but problem persists",
+   "source_name": "Down To Earth",
+   "source_domain": "https://www.downtoearth.org.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2Y4cWFtTmFJSjdBbF9lVE04dXVVQjQ2MzJrS1VSSm1aTldLYkViU0NQOUZvZHZsTmhQcUJvWVcwUWxvTTdvdVdMeDB5WXdiVmVRRjM3OG5feDE3MVZQMTVVX1M2OHFuNlUxWDVTZE93d3BJaW5pYzhFUVgyelk0WEliX0FaeWlQdVVjU0Zha3duZHlaZUhVaFdBZUlVbnJZRUdXbGZlVENFWVlkbkkxOUYzSER4S2xDT29SZktGUGYwTTJzRkROdmVCNUFWOGdob2lvLWZBNmbSAeYBQVVfeXFMT2RwMGhUZjdybFNnTndjLWg1Z29CdDRFT25pSnNMRVoybTVROWxTTHdmS3Z5MEZUU3ItZllDZHhzZk5uWC1MMFF6ZG04SUdUaUt2R2x6NTE3R01EdUViQXdBMUZOdmtHVWtnSy16S0JCbm43bGt1Mm1Sd21YSEJSSUlRNkxQM2IydTR3bUozU2tQQ3ZDV2RudVF6eS1rSjNkajFReGN6em42SlZvUmt2LTlEUUlRSkV6djNUcmVHdjdMTDhySWkwaEZtTTVDOTBpTzZiaGtHeEZYSnZqekJqUmhxY09CYkE?oc=5",
+   "published_utc": "2022-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MSMEs must adopt latest technology: UP additional chief secretary Navneet Sehgal",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckY2R2liRUtkLWJtVGYtRFNsVEU2Y2t3V0hCeS11Q2RZUFN6U0tJeXlWU2R4dWpjUW9TRElNVUxaZzdVRThTUWxjNnp3XzZwS283eFp3WWNrVTFOZ3NSYUg3TVY0R3ZORnNIRHhqVEM5NHQ1T0l4c1BvUVZISmJpd1EzLS1RSVk1Z3BwMU9qa3VjR0gzNEVxd2JOTVpSbHFUelhuQ1draU9vc2R4V2lmTjh3dTl6ZG9sb1YwYS1xVU0zTDNGZjl2Q0x2RjNYb3Nzd1dvdE0yTkxId3R0QWNCSmdfZVJUX2MwWWdj?oc=5",
+   "published_utc": "2022-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why insult the people of Uttar Pradesh, asks Priyanka Gandhi after Nirmala Sitharaman's 'UP type' remark",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZXFXVlBEN2M5dThOdmdpaUpjWVdXMUs3bGdGUFMyVHBPWUFXV09aNm9iandCekF0VEFsY3ZCMDNzLWZ5SDJBMDZhTW5VQ29WYVo4TUJuVWY0YUJXSDdodU9XZzhLbGtkR3VXSEYwQ3o5VVlPeTc0cFJ5Vi1ONXAtVWJyUWRhelNvb3NBT3pFY1pQeE4xZi1NWHNrU2U1dHJsdEloVVlsdW5yRkF4TXVTZTI5VVA2cmNFZ2puTVRTanlRX25OeDUxSTNHa9IB0AFBVV95cUxNVEU4UDROajNKMWZuVXNxTE5Vek8xUjYtMUtCRTFHU2t1ZGtsQ0d4bm1fZmFMREtneTlkQTlfa1FONnJhNTVfWF9RUGo2SElEUU05Z1BVMHpaaEVtaGlfMUtMWTdCZ2lHWTVLdzFHVXhOWjF3RFlVaFg0MDlxZkxpXzZ0ZElTNmp6cV9TUzBZbFJsd1phZnZ4ZzVBRFpPUElEMDNfQnhiTWp1d2t6cmZ4djFaWnpsNV9yVUFWckZZUlVaRlBveGRpTkZ2dC1YV29l?oc=5",
+   "published_utc": "2022-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

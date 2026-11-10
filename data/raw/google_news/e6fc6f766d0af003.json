@@ -1,0 +1,45 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-03-01 before:2024-04-01",
+ "items": [
+  {
+   "title": "T.N. allocates ₹6.26 crore for student enrolment in govt. schools; overlooks teacher vacancies",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNTNUelIwNHowVWtuZzdNR19LTm01X2x3NGJwRURuMnhPZ1c0aElKamhjZzFWSDlHTFg3eFVMSFU1VkVLOHhwSV9rWHFGZ0tlVzBTOE9UUklsckxmOVJ5c2xnSUlONnIwQkR4QmdiNGdVb093MXNFeWptZFBMcWhEellqTHpZQWhLNnhGTDRXaWhJRDBJUk0yX0ZqTDJ5WEFBNW5kWHkybDNNME4yRDJoV2hnRHNZMWxweUJuZjJ5LWh1bjdhRmVrZUZvTHpvd2ZCOXRYVHNiLW9QOXEzMm9qdzJ2QjJrU2hyMWswS9IB8wFBVV95cUxOVXVYVk9RcUVmcmVnYW83OXQ4MWlRUEozcE5JdXEyQzJYYlJPWDNUZUJVbXJ5Y05EZEJHbWhGUmNZWWxzQ2NnQjc4YkYtUWZXWU9VdVNzRnFtUUtBRnE5RjhROTRnZWE1WTd2LTZoMlpwUXBXQV9xeE56dTBGQVpPd0g5LUFBNFcxbXl3VU45SFJVM3RxR082dGhiUE1CNzNjVmt3ZG05Z1VmOVZ1Ny1DbmpCVzgwTHA3TTdUdmp3RTlHRjFlUnQ0SWxOOTNMZk5zRkxzazAxb2RhYVF1bWk3M3ZPRnlkYnhYMEl5OXVpcjBlSHc?oc=5",
+   "published_utc": "2024-03-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Striving to catalyse tech development Beyond Chennai",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGtxUHZQdWN2LWJ4ak5DaXpPZW8zZEg1cnpTSlNwLVFzVC1fVGJMa2JycWlyb0lhNGg1Rmkza3lCenVZWWVDQkREUXRYSHhVOThfSE1DaDdMTUx5TnlVVE5ZNzFudHpBWVNuVVUtMEE5cVZwM2JvWUx0MVotNGprUEx0aERmdjFuOHc3X1BJbUNzVTFLV1JZUUgxdWxTNmNLdlViOW00Rk5Fb0FOMzhncnI5bl8zUdIBwwFBVV95cUxPU2VIWHZmd3JyUHhTVUh1UGJPMXVjVWt1cTJxcXlTMnM5UVc5ZDNnRFR2VkZwYnZGNlJkOWJnSkN1YmVuTW9YUnFRTmZxNTZWWFdvYXdnQ3JvRlM2QXFBczAyN1hZZldvcnZGLVI5VmFtRzZJX0tMSFNtWHV3cUltUHdBZVpCV05XRENJVEFpTG93Y1Ryalp3S2tGOWc1NkRrdkstcFlNMGU4ZDNLaFFXRHJJOG1UVHdaczh6U25TSnctcXc?oc=5",
+   "published_utc": "2024-03-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Class 10 Board Exams 2024 Begin, Check Key Guidelines",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUFLUWRBREVBc1I2YlZaR1NTR3JBV1hEVVotb0E2V0ltVXVvMHNtSzctWnIxYTlIRHJrOEZtbXRCVGFQY2FUaTUyN2E5bU1YU3VEWVJjS0l0dVFLYlR1N3pSQnd5RUtlOGN2U01YSjVsLTF1MVJlY1ZSWGs0cmlJUlhyaTRrVWgyRE5yNi1HM01rRE93THN0QXRQcVdMYl82eU1tNNIBrAFBVV95cUxOcHdsVU5iT0JhVEVISzExQk5IUy12UkcycnZzSFlPZEJiWG9MU016UVhOZHc2OTZlTjB6VE10ZFVfbHYtMndwTFRmMEpKSmVGSlFfdkloSUJ6ZWdxUmk3Q3BVT2xnWk9jc082RmRkWTlFVXN5SXZZckIyRHVDZWlwVlFfZXVKdHVXSjYtRllDSDB4elF0Qk9acHlSaW1yVmJHYlY4bE80elJaUldF?oc=5",
+   "published_utc": "2024-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala School Introduces IRIS: India's First AI Teacher Robot Redefining Education",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONktVYkI0SWI5T3lqQjkybmJ1RDFENHA2dy1uT1BNYXo4S1ZYTnVjcVI3SGtpQ21qQWF1ZDhfVDlaYWx2UHNjeDdZUFJUT2EwWjlfT3NHNDhsSGhUVEQ0VzF2Z1ZZQUxUeXM0RC1VU0hwVVlnN3FYM1lNYVp1Rm5TVnJVOW1kV1UzUFRGdV9HNi1EdWR3cXBNa2ZFY0gtZkEwMWFCOW5NeGI4RXlKV1dmbW1jVTc2OTRUSmdmTndIWU94V3BkNlhma1BZVzZTbHpDWGJDdm9XQlRFMGZDeGpEMjJZc1c4TVN0b09UVkVR0gHzAUFVX3lxTE5VWFp2cXhVaF95TU5DTGdWTVBMcHVSRFVUcUVjLTIwVWthZ1Y3VGpfeURrb0NYZkFJTkNjbDlGeVlKTzdsVHlkTlNsU2ZEbVFhd1hUOENLZEQwMnRocTAxVjVwQ19SandHWjczMHFtdFBQcTh0aGc2N29JMlpXS1FkZFdpZ2xVZG9UbWc2dFduN0wwOE1id2hrS2FsQ2tuczF6RFNWWkhDZlFhR3Z0cXBqVmd5UDVKVEdNdG9rQk5URXFpTGhPZ2N6OHByN2wyR1N5U1M3UjF6MWxNOFJ2Z29JbHB2S0ZsczFqMEZtOHpweDNZWQ?oc=5",
+   "published_utc": "2024-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfake videos and images grow ahead of Indian polls, stirring unease",
+   "source_name": "The Straits Times",
+   "source_domain": "https://www.straitstimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1JWX2YxTmpiTFNyRjFYU0dRTDFtYVp4RFM2ek9TR1VKeDBpNXlyZ2VTTzc5SmtCZTdGU0RFc1NqVTZiX2VfeTFNU29oRTJndWRKN1FFcG9WMHQ1Sl9PVzBwaldQSnBiS1FIRzdLdE5pcGhuUXktUzB4NTBOU011aG1JM3BoMTVXUjNlZUNVWVoyRXdIeG56aURJeU9EX0s0OW4zYVBaaFNGRU1sVU82dHFweVg?oc=5",
+   "published_utc": "2024-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

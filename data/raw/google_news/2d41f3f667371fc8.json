@@ -1,0 +1,85 @@
+{
+ "query": "\"Rajasthan\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Here is how two school students from Rajasthan created 'AI Scarecrow' for local farmers",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZERMUzlFSDROUURnVm03VmdjTXhORGpjNlZfQ1pUaEVpajRpV29pYmZ5YjhrVlFMUDhDQjZqTnY4MWpUWHdVUWQwSjRPRXo1NmcwbUlhUWxtSEdDd3NiTnBmT2UtaEZSX0RIZU1HT0lpWFMtY1dxNXFDSVdGNzhJbnJSSDE2R2hTeEFFRk5LWVp0MzgzRU9xWFJIUU5EdHItdWxBc1NFZ1RNYVdUQ2lhRnQtV0dEalk?oc=5",
+   "published_utc": "2022-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan: Commercial Taxes Department launches GST Advanced Analytics portal",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGVZYms2MTBIWkZfSEVIMmhjdGtMQl9Zdkd0YjN5WC02RDVoT0RjWGFjbURXaW4xS3lqQ0dQRzU1cHpkdGRZN2ZINm10aE8yempaR0NWLXRIRGt5ZjVEQ0ZTU3dpQmhlY25QdHFOTFR0N2lqR1NRQ0FpSlFvM0t2TmxKdHFTVUFIYkNSNzJPLTRaUWxSQ1JHdEJ6Ti0wV2d6WTVjM0F0cFZpQjhDa0lBLVFLVWUwbTNBUHF6RGVMVlBTbmxhclIwVXIwQ2NfTnp5Mk1hZFFkVlNvQkV4TlRZeXVsYWtDelHSAesBQVVfeXFMTy1fTnFLaWlTdlNDZWVrY3JGYzNQaW16dUJvcVgtR1NnSGZPWW4xcmdpN3FuQlNRVTVqVmMzX2JLaldwMlBMRV9aSkJ5OUN2TGViVk84cms0Sk5uZTJNRkFYejdETmx1T1MtcVFuME9mSG5nUVU1YnZsbjZrdURTR1V6Y3ZTdmlsXzZ4R2p1bEJYT1lZRlk2OVlENVctQmVYaUhTSk1yTEVJZUVuVkIzcldNZ2tRUjViVnh4dTdycnJ5QWM1czdRZWZTMnB4S01YcXI5MWFON29ZMmhVZXZrdXdUaXFFWTVLOUpmcw?oc=5",
+   "published_utc": "2022-01-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: What is Rajasthan’s question paper leak scandal and how has the Gehlot govt reacted to REET irregularities?",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWJrcHAxRWpuNlJpTmV6anp0RVhQV3VpTFN2dnpOLUhHM0NGMldydXRoTFRKeGVteTE4TkRZc2tQRUdiT1lpcnh1T0FYMHRTRGFnVkMzOEhWUGN4eXlwbm1IMVpxNy1BZGpFV0tFdUZkcGN0VF90NjNUWVM3Q1dycExVUnN1dXpUQ01XdHJfZ2NzSjItdHR2OEZaNjNqZHJoS0NhVDN6Q1lPR1JvY21OREl3MlNjM2vSAb4BQVVfeXFMTk00NmdtVHl4ZzdtTVlZdmZGeWhTSEhXeVVKNTRyRUczQ0ZQUVpyOXdDZ0pEeFJVeGhNc3duOU1zM2xNV1lhLVNXcUJVNE8yWjhsYTh1ZUo3MDRrZDlwYlFtbWtZU1duVHc2MEQ5VWw4NXZfXzg4a0drUlRfd2ZzTHBFelJ2UEplRzlNMFdIbjJ3SjQ5S2lYWVJTUGdyVExyX0tJd1BwSjB6QWtpb0ZKSVV2VjlJMG01MmpFWFVuUQ?oc=5",
+   "published_utc": "2022-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's 1st Omicron Death In Rajasthan: 10 Points",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0p3elgzWHRCeWNveDhxQWVDdU81cF9zRi1UVGFINURLYkpPN2NLN3dIbE0xQnhFdm0tQ2FTME1pQzRxNUY1UElIR2I1UzRLZ1ZiYXlCMy0tUE5uSWVlOG5GQUVoMUNqdjI2ZU5ZRk1VWkJQd1Z6V2ZBc0tpYnFWR254RFhxek9CZFdvcDFtNWdSU3VsQ0trUGdWd0NCZmtKbDdwWFRoVFZCdHJ5U2Iw?oc=5",
+   "published_utc": "2022-01-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "REET paper leak: Rajasthan govt sacks state school board chairman, BJP seeks CBI inquiry",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDJPQTQwTUZITHBEaDg0ZFhRenFpVm1xUUZBLURPNDhwcnc4cVhzTVNjQVVqeXg2X1lqNkhBemZWQTBRSGE5SjgzakR6QlpublJCZEhmVjZZMkZJR01HNm44QTZ0UXlTejJkRzBqQTd6cWExSVozMENOZFJfeFFpVzVGR1ZDT0Y1dG9PeVZ1WXdtbk8wQTZYTDhpWXlNS0w2ZVE0TWltckNYeEV0aUZoSUFFdi03RzVwU2FDeXlEUXZjZ0dCT3FzWmRGUHBCVFNaZHBV0gHYAUFVX3lxTE1qaUlzMHpTc2VKdDJpcm1RVlhmZTAyV1VDRWhFcUtKUl9MT19kWmhCTDlMQThwTHhnNWU2eG55QzMzelAzNS1jUWNMNTJBQ1JhNkNSS3Q2MndmRXRlVVFvcGVhSmFad08xbTAxMWFHREpseWduTGg0bzcycHNnZlBNVlk4VFNidHBBUUNxN1pfMWhJdHFpTzlQck1Pc3VsMW9Eb3l3aTlCaGswcDY5SFRrczR3NnlJS2sxenVyVzdoSHVGMGpJMFFFUkxoMmFQUzZlREVwY2hOMg?oc=5",
+   "published_utc": "2022-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Govt orders promotion of 48 IPS officers",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnNMRGVZZXVxV0V4elY2aFdFdk1CamNRSXVjRjJvWHVISm5HMXp3QWozT0N1WnhuXzF1TU42d1c2T1Mwb3AtLTdIcENaNlk3cVVQY0NRam81QzBVdVQwUlNnVTFyOTBKWmlBNGpQVlYyd19LVi04V3VnbkRsbWhmVEV2UmJEaDFyQlVXM05xbmhQZw?oc=5",
+   "published_utc": "2022-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Board of Muslim Waqf turns to state govt for staff salaries",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaWpRbDczcFRQeTdKbWxnZ19IMUhVbU8zXzNURTVNMktzUTlPaTJ0cWhZMUxFSUUwLUw2YnF6cEpMYWg0WGM0aXpxN3VtdlRPak9zSlgxdjlLZEhvaEdBanZBdGt6cG9KdTVBV1ZDRXlfZi1CczJBZHNsNE5Gd2hCN2hkV1Qtdw?oc=5",
+   "published_utc": "2022-01-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Chief Minister Ashok Gehlot Tests Covid Positive Again",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3dMamJac0szdks4clRpakdyNk9kZFRNUVpyZHFrcV9oei1RZ0dRN3d2Q1ZCeWcxY0FhR1J2WUZiMU9CVkIzUTczWEZOUGpzcW5OWjdFZHFGdTZRaTAteGJxM0VnbUpQdDNaQ3J1LXVYZU5fMlRVRXREbkZmOFFoRURTc1ZwM01UcWJGSnRCTk5ldHlfZ3RMSThhb1p5R00?oc=5",
+   "published_utc": "2022-01-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan govt moves high court after lower court rejects plea for withdrawing graft cases against officials",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcThTNWxQSmtMZjRZWlhqeG9HM0tYVHA4U2hsMzV2NjlIYWZYbUxudHBON0ZscnN2UEFOSml6N2VLSlFGckZJcjV4RzZJd3Y0T3dLWEVobEEwWjNnT2dFMll6Q2ZMZEhqQkI2VHlpVS1hczBRbmloY3dGVEhNNGR5VTRMNmdXbzRmMDdZaVUyajJYdzM1VWtkS29LWHlKcUlf0gGnAUFVX3lxTFA4VXpiTFh5V2traEU4U3dHZDRvdzdhV3dndHpoR3JES1E1Q210N0ZxZno1MUhGeUMtZXViNWZaU0NVcGZJYzJnV1h1YU41Y1dhY1NTQ214cUxQaThtUFNYVzh5RWpxQTF4Nzh4MnQwRVV0OEFhODZtcmNoT1pVZWh6RWpoYkpkMi1pQ0dMMGZ1NU91LWE3cjExODAwOXZPSUx0MHE1Qlgw?oc=5",
+   "published_utc": "2022-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Now, Rajasthan opposes proposed IAS rules, CM Ashok Gehlot says blow to autonomy",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm9DY2tjT05MOThaVERFMkpxUHQ3aEF0Q3h5YVZHeko2SXR5cHotQVAwSzRrMjN5T0Q4Snh2cUMySmxhaHZnZzlOWm1UUUFDUWlFR2Y3UkRJS2x0U2xTMG9fNzBZNlVIZXJxUlNTYWtlX0ZzZ2VJbWh2QUZ2MG0yZFBlSGhSbUowMVBrRjRaTjQwanPSAZoBQVVfeXFMT1N2UUhwOXhpanFhb3o3NEZYeEl6NmJFY2Jyck9waTRQOTYzdDYwM3hEU1o4MDhxQkVKZGZjRURNYm5VZ1FqMHAzYV9HLXJ0WnNySzlWQWEwRGUyWVlBVmo1dWxKTHBvSVQyYUYwdURWUjdham9TTjYyTUtlTVdXc09uR0ZHUlBPaGNPZG1uZ3ZGN2l6NlJQd2ptZw?oc=5",
+   "published_utc": "2022-01-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

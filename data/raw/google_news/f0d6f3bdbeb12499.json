@@ -1,0 +1,53 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-01-01 before:2023-02-01",
+ "items": [
+  {
+   "title": "Maharashtra govt makes Aadhaar of both students, parents mandatory for school admission",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0ZrVW5xOVN4Mm04bWNsWG1JcWVPQ294TmpwVVZJWXFUS1NRYmhfRkxCZHN0dWNSRzBiZDZKQVVUZ1MzLVVyUDZpdXAwUGZ3N0ZGU0lVbHpGVjdRMlhsaFZjUVNPclcwbU9sczJyNDlXeXlVV0lKVkdYTlBsVDdCa0RERnlVNEx4Sk8zVGZxZ1FoV05vdlh0TkdaTTAxUkVWbXFLRkJFM3JaUFdVMlRBeDV0NGdoY2V6X2xhdUprUjIxUk9EekZvb0NfWmczTlZObGFSNkdOX2RYVGPSAeIBQVVfeXFMTTBjWG11ZHRqRDFjdjcwRURoZzZaWGcyU09halpTSlNDVE5LdE9uNTZ6NmwxTFUzTmotcnU3MVFNcVpuZmpKeVBzT0xpOHBkUnIxUUtHaGVBMXZpcHhRc2ExRW1LdG9JUHc4VkdkY01UbmVCb0VUUWpSajVIMW5qQjZBYnM5WUY1cUh1Ul96WDZ3ZW9NQnpDZXFZXy1nXzJQVFY5ZkpEeEpIZmtCVHpFa0hwVmk2TXZmdnFJek0yUTFYYzQ5Z3RmZkV2dHlaSUNqMk5sdTBMcW1VMGFmU3pxQ3c2Zw?oc=5",
+   "published_utc": "2023-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "1,023 Farmers Died By Suicide In Maharashtra's Marathwada In 2022: Official",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2lvNUNGRVExN2EwOVlfTFZYVEpPSEJJTHdQYjNLdnRmejljZENTUUlaQ2dPczRCd0UzcHhQZkdaVmZFNkNxWDhqZzd2ZTNoYlBINHhmd2tfYTE5TWNsNGlxazIyWXQzN1loY0E4bzNfMVJJWHNZZnpQR1hzX0ZkZ3ZlVHIySzI4YjN4N01aX3hSZ3RCbElJRlhVTTQ2LUNjdHNXanFKY0hEVXg3clh2c2tYVFpKS2vSAb8BQVVfeXFMTTVKMTU5WEtwcFJHWDhLVFluZ1d1M0ZXN3J4VzRIOElzWFFNY0ZESTFtZnJGUTNpZlc0THlkRHlIYTBUMmpIc1BmZXhFUndmUFpGd3doYUdrSFhGS0MwS19xWVhyazRsLVo2QmxYVlVISVM5WnVRMFNJWjZITTQ1R3NhWU1GbEY3Sm1WYWc2eGF6bzN4enBkbG8yU1FRYlZSVjQwTmtvb0x4NHJIVnZfSlpwbGlpWWVqOTN3dzlLY28?oc=5",
+   "published_utc": "2023-01-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to set up centre on Chanakya’s teachings",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZE5FYzc4THlRZnQ3MUhhNmJyN0VMR1JNX2pNaDRwcDJKaWQ3LUZCa1JjT2I5anhMSUN3U0IxNzFNa2k3Y29laDRGOFRHTXhQbzJFelR5YVlydDBSbDhiODd3MXZHUXdWc2ZBeFM3UmFWRTMxZmZpd082a0EtM1FNSGszQkdOQzNDOFY2YlVJV2NZbE4tcGUtcGE5c3dPN1d5aEVTd3RBMmZCcTTSAbIBQVVfeXFMUFhDLUlMSE1RUkp4cjVVY3doS0dBNnVYVmFYaFhEYkdjYzItUXdDVk1lTUZ4VkU2cF9yUkhaTEFxcnlIRC1kVkp3VEtJaFJXWmlxcDFJMVkwb3FBZUM4WjB6aUtsVmdCcUc5d2VjRUR5SmthSV9iYkRVWFpBZ1dzWmF5ME1UdzRYNGFxSlZJRXZnOGNKdnpiZkkwYWk0akhwQ3ZTZVh5dXVlOXRYdDlDZnltdw?oc=5",
+   "published_utc": "2023-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Education Loan: Best Student Loan In India For 2024",
+   "source_name": "Forbes",
+   "source_domain": "https://www.forbes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QT0YtSkNhNjdCbTdQbm9OVEtCaFR2bXEtc3pzam5OZGY4ZFVVVnc2LUI5cVB5aldfM2ZjWGh3T3lSMzJlRWRJYmVSdXo4N040Wk1BdS0tRkRPRTlDcmc?oc=5",
+   "published_utc": "2023-01-24T13:56:50+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cops Unearth Crypto Scam Resulting In Losses Of Rs 300 Crore",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdklxci1LMGR3d2c2T1JNbVZ3Q2x5TnRCZnRET3pPUTBYdGJCNzd6S0tsTXZhc2dzbnlLM0ltMXk1dDBMSFZSa3RhcEVzMHRjakdyekx1dzJGcGQtZHA2MXF2Vk5mWkxEd1VaOEJJT1ptTjJaZjgybW5NRlFzc1lZUExSLXV5WktrNUxodThpUWZKdjI2b0hlTjNhWVlRbG1zdHprd0tDOTAwWnNYamdKTWpR0gG6AUFVX3lxTE8xMkFoX1UxWHd3d3JEN0t6ZFlBSUpWR2hzSkVtSk4xT3FjMWE1bkFwb3FPLWhTQ1pkbXJDbzllcmphWjMydWF3ZVI3ZThmcllSOElsQkJDMHFwdHF2OTZmN0FhREREQlk1SURtQmJrWGxNMG0xSXMyeDJwMEN1eGxrZGxNZTBjYUZkNFgwR2UtTFNHMThMRnBzQjV2VWlfUTc5MVZiYWhzcmJtU016UG03V29mSTBuUWM2Zw?oc=5",
+   "published_utc": "2023-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai: City Police declare Shivaji Park 'No-fly zone' on 26th January",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1FvYkZqVEphVHZIYTFZd2ZGdlV0bW1oeDdaWHc3MHBBVmxUUkdMVEdVMFZ5bk5EU1BEdXJrelFzY2tKYW85dGV5YzRrSGE4TmFQck5BOGgxVDBsTThIOTdCRUJaeFJsdEhSTVZza2MwMUxwQkRqal9yZmNMN0ZzbFl6czV4ZFk3Vzl5N3JxMmx1cUtDVDRpeGFPd2lpUFFDR2lxdDhXZGxxZVRG?oc=5",
+   "published_utc": "2023-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

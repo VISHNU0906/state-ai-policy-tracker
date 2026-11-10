@@ -1,0 +1,13 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-04-01 before:2024-05-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh Ex MLA Gets Rs 140 Crore Notice For Alleged Illegal Mining",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTZQQXIwTW9yOWxITmpIanFQZ0JLYlhlU0JuU2pyOUpROGV1LWRIZmEyczl1TUVLRVczLXk0QXh6dGpGeU1yQnFaZGdLSDRxZU5TN3pqNnk5OUMzc3F1OWFUa2c1MmliN2piSU9SaDJVN2JNYzBoVFBSNHBYWXBkWWZCZTR6akpJVU80Qkt5ckNkVnBFSkxMU08yWTRrWjBWck5MUXp6OEIxbkVfaF9rVXBLUdIBuwFBVV95cUxQSkNuV24yaGg0eGxCaENqQmNONEhGanVoRUJHWWVYYzZEUUtQX2ZZVTlWbVphbnNZZzBheldJRjN1eTF2NGNCNnN4LWpRRExnbnZaMHdsWFIzblRsVEcwR0F2ZlNidTNIZDcwSVlEMHZ0alU0V0VsbDQ0ekVUWXNDSHVpSmJ4SlFRT1A4RldhdFdnbVpQQVBTMjAzYXBoMjU1clpQaDV4VGU0bnJTNC1HcjM5cFUtQlR3WnhN?oc=5",
+   "published_utc": "2024-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

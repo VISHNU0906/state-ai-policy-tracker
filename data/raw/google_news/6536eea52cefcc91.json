@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "IIT Madras researchers and Tamil Nadu's Department of School Education join hands to make digital assessments and learning experience of school students better | Indian Institute of Technology Madras",
+   "source_name": "Indian Institute of Technology Madras",
+   "source_domain": "https://www.iitm.ac.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEg2NHY4c1EzT1NzTzYzZ2FEVGhQa2RFZU02UkNYZ29DWXFOYmY2bVZQbnNWdjZtX0M3c3pHX2FzeE84aHVHWDRHT0RPdEU0RXhiakstazN4enZtMnRmaDdaOTJ0Y2tkamljUF9Ebmc3OTVlQWdhOE5wZHRZR1JaZEgtN0tNbHNEcmNoeVYycHlUejRPT3g2V2F5a3NyYXpMekZxOWM2Yl8xVU5BNXFpT3FQVmRkeS1JREN3?oc=5",
+   "published_utc": "2022-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu launches NFT",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUnppQXVaSm9fYnJ1dzNmVzNLQnVXR1VpM1NhNndCcElfeWZ4WXlPVHdRbkhKVnpyOUN2TTVKQXZmYTNINzVQajVGWnlUM2RlMzFZb2VySHhuNFg0bzZtaHFDNVRTRU5fc2ExY0M1eDR4THpGemZScTRmaF9ZYndKb0poY2JUSnJjXzlVSjBVaWpxYl9BaG5hb2E2a0lwZ9IBowFBVV95cUxPNkpUUEd6S2Q2eFJ4YkR6Um05NUlzVXI5VHBOU3NJMDJRVktkeTlsVElIXy04VWJuaXdfZy11UzRtSi02TU9pcmh2ZEdwSnFCSjhYSi1xTmg3dXF3ZThTdWhRNVJxczhOdWE5RW4xM1J6T1ZpZUI0QkgybmNjdFotR0ZBQm1xTmlOOWRpekZiVV9jNl9UbDNKQ3ZsVUpJUkZBYTNn?oc=5",
+   "published_utc": "2022-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Arasu Cable TV signal disrupted, sabotage suspected",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQU5nandOdGRpSHNQdkNvVjJXUGp5bVVzckdueXRudlk0SE5JejhERjdpVzB5WGs0VmpoVEZSSElBNUpTNmFqc280dmg4U0Q2TkdoSVlnUWNVR0JISmhtYndXUHo4aHZMLVBVRHpPMzdSbW5lV0lSekhxRjhQRnVxcFRxRkVxam1QRTB2ak13dnRlT1BKSTlVRFpmQXBraTZKWFcyQzVHemxnbGpiQkw2eGU0WVBzaDVkdWNldDVtVW9vcC1U0gHKAUFVX3lxTE4yZ3ZuR0tiTExTVkFaX3EyRDNYZ0ZxeV81MGM3SUxRc3FlN3Z5RnJUZ2VXYXFNMGNsOXV3Wk5BT0dfcEl2aE02RUZKUWlYZEZWdkxkYzRsSDM3QTREdjVCNzN0a2x4aC1zTkN4MWtLVVUxdzBJdHVPRzdYbmg3R1J6dWVRSnFrRE13WDhHV3phXzg3TjJDRlJBMzktLXNDTkNPU3FZSlpiYTRXS0FYQncxMEw1dG5yX0Y2RGVYRXlpZ2t1M3AyWGVNX0E?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: The India couple who found love at mental health institute",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wbGRVTENsS0hjQU1WbXRDR0w4Q2NacFktNVM5RzU2VExsOXBjRWJVeEJTams2dTk3YmdnbmotZlU1a1U0RGVEU1h3Nk11UlAyU2lITEpFZ0ZqVVpLT0VTVWo2dw?oc=5",
+   "published_utc": "2022-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Low pressure area develops into depression, rains likely in Tamil Nadu today",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUkpRRHdPVG5OajRLaE9hX3hmTGpqRGdleVZ3cFQ5TFlCLW1nUmxzYnlMY3MwdTRuVlNYNGFISC0wQWJ1c0lGMGNkQkJPaEZfdXNVVjctX2JYSEh3NDdHVUtnNm1STzZsdXd2VXZaazY2Y0U4T2g4YU5XU0xhZmsyMXlvRDFaLXdZMW9OTVQwWUFJWElyQnhKazNJVVQyQ2pQU1F3clAtRG1wRGNyODBrQnE5ZDlsNVROY0hLQjBZRlp1QWxBWmZIWXRyMzBoWjRiTHprWkxn0gHcAUFVX3lxTFBBTGNtcVVDZ0ozWTRPWVNVME9ZWkMxRkJvZGpMRkhXX1ZjRWM5ekRJSVZPVl9JZlhMWXQ1aEdwanlRdUhQR0xXSzI0cVNHcjMzZV94TFVmRW9paS1RelR1WTg3TEcxZmtpT2s2MFV5SERMbHRBcVlrbzhmRXA3Ym5mVjhQMXNVMXZGNUowcWxSaGd1cDR2LXpSbE4ycFZHY2kxanZTYTVPLVdxbDAtbXNZcm1PYVJnTWMxY19Gc3RtNUNYX3owQWNQcEhrTWx3T3ltWDlBRjJicFEybTE?oc=5",
+   "published_utc": "2022-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Cocaine Worth Rs 360 Crore Seized From DMK Councillor; Plan Was To Smuggle It To Sri Lanka",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3hWcUc5SzdSUFZyQ3AxZUV5dFUzZnVNNHM2amNjOVdZWXFZTVU1RklYeFRBTnJGbUZKTld2TU91Z2lIMWxMZnpETVBQX2tuQWQ0RGR1VEdzZ2dnZ3ktcFdqbWFncjJ5V0J4cHF0bi0zNFRHS095VlBSSmFWU2xFN1hJSmNBNld4UXVXYTVjYl9uVHpUajRXazNlRkVZNlF1OU9ZN2ZsbVUyWlROdGRPeHFVbUhGTEp5R2s1SWRXTXFNSDNCZnIxaFl30gHaAUFVX3lxTE1OTThkdUVHd1YwWF91bG9CRXZCMkFDWVNRXzFzWlhMQlBFa3VlNGVYMVdBeEJfclBFeEMwczBDb21RMGpGelhPeWdRalNYNjZpcnhwNUdQMm0xbGtOVFhack5qM0tibmgySFVlNzhJT3B0RndJM3pvWGhwdzBUTVlXakdYZmMycEp4a2tUUkNrX2dZRmQteUppejk0Z0d3Y09ieW4tVEwxSi1SaXFSaHFMSVg4RENkdTVEVjQ1YlRWbjlWemcweUJuQ0tad1ZnX25yT0dDT0RYWjBB?oc=5",
+   "published_utc": "2022-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: CSE, IT, courses in emerging areas fill over 80% of seats",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUkg2LXlEU29zQm53Rm9zQy01MV9uLWtUSFpmbDBCcFlmdGwza0hfZ1RkVmxOcmhzLWFiTzdaM2xIX1RVa1NnSDFSeWFBZnNPeGtIMm91bUc4dmhtWjFkaXNCb2hhd1B1YW93U0p2YkZoa1ZHSVRyWGpXOXNlYUVxS0NTUDVpVHhaeWlwWXFyZVJXWDZIRGg5cUoyck9vQ2xlajFtcTdTa1Q2dXczNVIySU5Za3g3bnI4dXJCVzk5NDkxWE1KNWlyT2plemRhSHNqSk00d1ln0gHbAUFVX3lxTFBRaERFTnJCdi1VaDNFaTZONDdvZ0k4cGtBN1dwSjdoTTV3bDhsMXJRY0wtWkNabUhuejFBbWNVem8yNkJpVTVWdnRPM043MjZNczBERkZFYzVmWWRSWV9nWU9vUVg3Q3o0U1FITGhWTl9VcEQ2SWJsUzNyb3FFWER6SVZwMVR5MWJpQlR0STBTaWNrdXRjdzBubTltSHZZejREWU9aenRuVEFDN2oxdFdUdmNBaENTNXRxTVRRSk9iWkZWT3IxeUxJWG9pc3BwNm9STE80Q21Lc0lMYw?oc=5",
+   "published_utc": "2022-11-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to file review petition against SC nod to EWS quota",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlU1RGdLb015X3o3YW85U3Brd0t2TndMeHlNUjdxRnEzZ2pSQktCV181ZVZBdEJMSnhZVzAwbkxxTkVZcG05WDFIdEJMTXgtMjNZWmtyOVZQTnZxVHExY05ndVVSdjVyT2tXcl9pN3pmR0xIOFBkOEFmdTVaQXkyN3lVZDUwenp3d2JYakVhQ1c3MjBpS1paejRZX0s5UFlrRlBEYmM5Ny1IdXF0Um10LUJ4RGw2cTdwaVNFLVZwNNIBxAFBVV95cUxQZVlzMmVETUhqSHhlRGdDemJuaEptUVh4a05ZTzFsOWJvMUdOdzBaX3pWbkhRa29lOGVqRGV0UUJ1SjNHUlVhZ3lTRDNqVFg4aEtQZzhzNkg2QTVQMmhna3c2NUFpTlVBM2ZtcEFNVTRhbzNkM0FhVHp5cFNnNm51Y3IycGNkRjZhNVpSU2xCVGttcFMyWjlJS25OMXh5TFRyTGp6R3c2VHA2TVg0SkxtS2VYWkJQdkJiandtX240bHFQMDNH?oc=5",
+   "published_utc": "2022-11-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu sanctions Rs 420 crore for buying 1,000 new buses",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWFOVGNzbGNBOFFhZ2VmTGRXUEljczVZR05keHpxSFZ4d1VIdW1veXJNZFBfOEdPSHJVSHBlRG1nOXQ3SjdOTkZ4c0lUYk4tUzB6YmFaSkdyeHdqUkdFX2stTVpHSTJWN3A0ZHhUbjZtNUxRMk5OaEduRlIya2taT0dWMXZIR1ZNbnBiOFItOFFUeHRFM0NkbzdLVWJKNUp4YzNaaEpOcmxlSUJsTTg5cWltUW5ETUdrSkNacWZtajNuOU1aRXBNWW81b2dLd9IB0wFBVV95cUxOWmJYSnRnWWRHd2ktUmVkWURBYzdLSW5abXI1NnNJZTFWUDdMTnRnY19ydHNLSU5DS3V1dW90NTN5Z19LOUlObnp3RkhvYlI3S1JzaG5MdUxLa1FaMU9EcVVqQWxvcllkVGlhRnJpOGc2eENuYUNSTWM0dUZWSndaYUlOaUZmbHVvQUd2LThydzB2bGZVMGtRbXJXdWRGbHpWNy0tTjE2OWRCUDhNSXNKb3FoQ3BPWG85REpTeEJERmdrNW5IdENETjFFdkRFQ1pSRm5V?oc=5",
+   "published_utc": "2022-11-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vee Technologies announces Rs 200 cr expansion plan in Tamil Nadu; Expects to create hundreds of new jobs",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVFZSbzM1bkdUcmp0dzVxSWs5eDh3M09zQk5MZnJBZTdZTXZDczJTMXNRUzNDN21obzRRaWxIZ2NhbXlSZ19VY0g2SURTT093MU5MbFpyRVhRdFVuQjNzTW94eF9wR3EzeFQ1S01mSVBMZ0hZXy05STJXZUVpRDRKUGNFMXh6YkdfQnRtVW9aeXR1NmZSZnFqaElCOUxqbDBrRWRIMWtKZjVYOElPbnlWWS1HSjZvTmdpQVViVTRyR1BoWXlUaHFyMjU3YTBlVXZSQjgzYnk4UTNRSXIxRUHSAeMBQVVfeXFMUGlCQmZIbzFzdDBUdXF1OGdCR2xfUVpSNEVsMUttTjZIaUFQYzdBMm5CTnRsSjBwWGJib2VTRWFnMHlQdk5BLVdIYXBEZ3VCdzZiSE00ODNuQVdkUGRoWjIwZ25QV0hjbHZRSlhkMDNldUpVZ21iN2MybVVfb21sN0N3elkxOXZsVjVZR1RaQV9uWVVDT3lHRGtKd2REdFN0d3pkbDhkbTlkVEU0OTZxZV9PSEc0b012Q25VM1JhQV9CZVpsaHNKMElLaFN5a0xVUVZPSWo1X3BMU2xWbERiM0xhT0k?oc=5",
+   "published_utc": "2022-11-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

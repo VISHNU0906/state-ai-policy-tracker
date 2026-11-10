@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-09-01 before:2022-10-01",
+ "items": [
+  {
+   "title": "PMJAY: Tamil Nadu’s hybrid model",
+   "source_name": "orfonline.org",
+   "source_domain": "https://www.orfonline.org",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tVDJBQVNMQ21qOFI3TzFDR25qM2gwRS1uUDBjZFUweUR6Q2hXLVJodDJ3VElSQ2RMMGFmN0pQVE5WYzluQWlSTlRBcnozTnZoN2tNQ3BWM3FWQm5leTNTWGdZTmFWVXMwSXJXb2JGQ1pmUVoyQ2poOA?oc=5",
+   "published_utc": "2022-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Stalin visits DGP office, receives pleas from police personnel",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUFNocHMzUWtNTFk1SjNLVUNHSDgyVmZSSmxMM2xxckJ0YmJCMXppck9Qc3NNSlF4bFVwMlZGY1pXcmVoREdHNWFiU3gzZ1JfSE9WYUR4TUJ5TWZBMjF2ZVVFN180VnpVaGNvZzVldUtCMURtbHl6U0s3YjBJdmgtOGxtaExWMm5vS21QaEJwUEdRblBvTF9tNU9ISFdPazZOcVhhVG5YeFA3b2prQmRRUUR3eEtiYVl5ODd1b25RUWlfSWFrUnR5Xy1SaDVYdUV1MUxUUDBzN25ja3lBYUHSAeQBQVVfeXFMUG1nN3NNLXJnZml3MXlEUGs4eF9nbEpDbkF0U255TGZ0Q0huZ0lqZWR5TjNwcFpDSVFxSUFBRWJ4VFFuNmJKUHhQQWNid3JQY19Jck5CVHJPRHRsNGliczQ3NDhRUlh5eE5PaHAtWHNvbFcwdzJUMk1ocmE3THVFR1pLcHY2eVhFZWRsaEdUbDRLOFdEdzRKRHFITWlJajF4TjVMdFk0VnVBSi1NVnpfNHhtNFJ2TlJqQ2pyRHlHODFPNnBzSUFlaURzbVE4OE9feU03RjhLUWpSQXVNeWJrN1IwcHpK?oc=5",
+   "published_utc": "2022-09-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu to use AI to reduce elephant deaths on railway tracks",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUNGN0RzWHlDZWd1Y1NVMWNidzZvN1BOTmpZYUpUWU5OemNHRmYtZm4wQnk2U3pkU3NUSEFGNFlDdEp4UzVhcC1IeUlheGQxb3YtYkdNdTlqYm56OG9zalFVS0ZaNzI4VlQydUk3M3E3MDVxeS0zZ2JTRzJoZllTS2pWd1M0MjM0VlUyTkpRd1BIUDZyemNwdWllRQ?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to roll out Delhi model school plan",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkJ1b2wyVmIxT1l4cFFHNmhMVjRZWjUyRllCWVFzaS1HN0FMalZtVE5wVHRabUs5ak5oeW1QWElXaS1kSFdUaFRIMnRzMWRpdjgzRTBVQWhkRkN0bFVSclFJRGVoNkw4WlZSbEduc1F1NHJHWEtFaHE5d3lZTW5KdFFST2ZXeEUzc0pLdkFOcHpmQXlTUEI5TmF1aEZuTzFfUlY2dzllTFFWUkNVUndzNE5fa3RuMjNIdHlYTHJLRWjSAcYBQVVfeXFMTm9qTVJsSlFMZzZnR1JiS0NYclBjVnM4SXZ2WXc3RkR0M1NpSXpIQ0FIQWhjVm9JZ2FkdERZSHJaV0NMSklobEo5T2V6MWV1OG9tWGNTYmpxUDE3SDF2Mnl1S0oxdXpaTElGTlJ1QjIxd2x2OFczdGF0RlFrbVVFc05QdWhLV3NjeDJhYVdTWlpQOTdLZHNZZHZGYmRkV3p0YnBNa3NQb2VqMHI3MHdFQ2w1VnFzY1ZIZzVYUlZoTVdhSVFhZVdR?oc=5",
+   "published_utc": "2022-09-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu opposes NEET, its students perform better: share in 95 percentile doubles in 4 years",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaWNBbmd4TGFtdWhsUHQ5UHIwRnYwUEZPeVlCMTBUN0xnU1pjZ2RLdDZuTmJOVHlINWUzd3VNZEV4ck9Pd2VtQlNBQ2p0Q0xXbk5sdFZqMzBVS0xFaEw3STV1MVBDRDhWSFZEU3dsLU5JWHRmd0Y1eHVPRUVkOVVFZ0gyc3dGS3RPYWVZV0pPUlU0ZElSUVZuVXdZZnVGQ004LWlFeG5FNDNuV2RSYnJvWGs4ZXZmX05ydXNLcFpCcmlmdU9jaFAxcThQZ3NybWpzTHNSQ3F3bUFuOGYzNUlF0gHmAUFVX3lxTE4zTlVYenRobWk1d0s2eHgzYmo1MXRHSDdoVzZvX3JrbWpfRmZEMlVZdFJhdHpRTUJFSXVTdHFaZ1JWOThINHVVblB3NU10TnRLZWVRV2tlU2NfUTdPa3c0THJ5Nk9wVTJjMUl1ZjV2QlM2UGhRUEJSLUZFcUx5bFExcUJicjIxNkhDd25qNW9LcFVlMmstOUJwY3JvYng2N1p0c1lJeXRmdGZvX1o5UGFBLTZjUThFYkJ6VnlJd2t1elBRQ0RsS3BWbDZyQlljOE5wRk4tcEF2T0hfNFJiX0V6aWxHWDFB?oc=5",
+   "published_utc": "2022-09-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why south India outperforms the north",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KMHBKQnBOSGtTYTFPeDkwdC16Qk9yeGJ5UkxuN3dDSWswUndrajVWZUIwNm12NGRSdTdlSUpucG5ydnFSYlpWOGVGWl9CVkJfWUhHSlFEZzJ4Wm1relUw?oc=5",
+   "published_utc": "2022-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: GEM Hospital gets exclusive Women's ward",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEpmV0lSczVvcFBxcFpNelQ1SXBIdjI4aUVadVV4WFpFRGpTNjZvaXJ6ZXNwd3dtVDZLTVdXUmxienU1MVZnT2dFUjVheXZCNDFlS2MtSHYzVWxLcXllNmJneDM2czZldkQ3OWpNRlFRMG5aekJOcGlmV1lLOG52Ylp2em0xdUFfQVAwY1UwS1FzRlR6c3k4c1RzdDdKbzVkRlh0R0ZVa0ZvNGdKNmxsWnUyS0ZVeFll0gG-AUFVX3lxTE4ydFVVdnBUS3phaTJpTmcyb2lFUlA0Nm51RlNYQ2ZuTGlMQll3YlVMenB1eXV6cmdRNU5xczZxdWRZOUlkZVJmUmhZTUk5N21MMG1WenJHRm4wLVByNklvUWwwclo2a2l2VC1oSk9fLUxubW91Rk5zSmFMa1Z3azJkVVczYVZXNEFDaE9WbmN1VGVNaGlqQ2ZRNU1JdkxwX1ZUWVQxY3FZWXlYaHhfQXFOWmo1akV3RHRUSVZDalE?oc=5",
+   "published_utc": "2022-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Viral Video Shows Katrina Kaif Dancing With School Children In Tamil Nadu",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVRGMTZvMG9EbVFWVlhFVWtHYXc3RzRTUkIxSEhnVEFkdW1sc0kwdUllTzdzZ0hRcDlHbkYzWWF3czJXcDRoa2t4SksyVmNIS1phVS1aT0pfZWZKeW1WaDBjeVFQVHJVTlNzSEpXT0NVMk9DaTIwV1VRbUdub3BQc0VpZTBiaWZVdDdBT2poaGJDZ0I5MGtrUFZvZnl5ZXN0YjdlWUg0ak82dw?oc=5",
+   "published_utc": "2022-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Watch: School boy's miraculous escape after he falls off a crowded bus in Tamil Nadu",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVTFCQmRZdHNOTXhaR0JicWJRSVZtaFU5Q2JrUWctMWxKbUtPQWNrbWp1VHdzdGRZSTc1M0RNUDUyTzUyQ3d4akNmS0hFRDduc09PZDRFTk5IbFZqc1IwdHhKT05uRERiNm9KeGlINUYyZlNkU0hxUGdZZUkxbEZtTHY4VjhCb3A4VkMwVnNwQnhRYUQ2Z2FpTGF1R2JRMGgtRjh6dXZkLVZTU3M1Sl9XV0U4TTdHN1RacGZiajctYVk4cUk5YXhjVlY5YXB3RG83WkHSAdcBQVVfeXFMUGN1Zjk5VW5tbTFtaTMyM0FydWVCQTEzR0sxamhEQk0tcTZxRUh2blBJVnhOblNOd0ZQT0o4NGtkUm0wNldTeDlSbFhYNTBYM3lOOGJMV0ZGVVl1RG44RUtCN0ZOeHBPc1M4S0xsWkdLekNOSjlsWjJiYWJwUXdOaG9RajZxNFhFNS04R0JIT1ZZVHo0b19tUzl3S0VaNC04S25aYm1wZmRYTTl0VTNVaUJHUnI0SmxHeXozNlRtN3RqWFBWblBQTTlVb3ZvcFlmV0RSNDRiMk0?oc=5",
+   "published_utc": "2022-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: India woman's food paintings you will want to eat",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BV3hvbTBUS2NteHFSLUNhOFVTdmJHaFA2QlJqR2xhQUVBR0d3U3RRWjZqVTZSdmpmS1dnbmhfa2FjN1FJRlRmZnhpclZsT2JpVnVBd3UtNHBwYmRvVFNVcUI2cw?oc=5",
+   "published_utc": "2022-09-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

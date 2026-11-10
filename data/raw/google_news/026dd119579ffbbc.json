@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Maharashtra government nods to the establishment of India’s first Universal AI University in Karjat",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkJQSWk2cGhmQ3dVYzNRTXZSb21QSkF0UE9vd0FFR1Y1N2FPTXB2XzlrOVV0MDNZODdwSGpyYTZIWVlGcGVHUEJOQnhFNnliVFV5MkxSUm5KVXFGazNWMFJaN01XTk9iUnBiV2g3cUhGN1JoUFdyZVptZXVFRlUwX2RXX0R4NERKZVlyaC1GN3J1OFcydVF2ZjFNOW90d1lVN3U3QzNubW9ubndOTzRXeURGT2s0UUFfXzlWT1BtSnViZWowMVE?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra IT-ITES Policy 2023",
+   "source_name": "Cushman & Wakefield",
+   "source_domain": "https://www.cushmanwakefield.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN284M3VoSFZabXp3ZzB1SGM0LTJnelRsNm5Oc2t3R1doV2pRNGxMM0VQYWd0TXpxSDZTdml4NFk2bXJWOFNhcEhZenRPcWlkUzF1aV9wUnVsdkpwd01MV2g4MVp2X2hCMWlXbWlZZUJDYm1ySWRzdnVndXpuUTloWldfRFozb3VH?oc=5",
+   "published_utc": "2023-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India to push for AI-based portal to help MSME supply chains across developing world",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcU5MZnE5SmJuNUhtcThXMHpKd1JPU1hPOGhlTDNWR0l5UDRHdU5weE9uUXJ4R3h0ekZ0MVZ6X01LN19tQkRLdFZFXzNKVkJ4aHFHa1JDZmZtVm1meGtpTjZYUC1zR3VhVEdXTk9icE1FOEN4akdkdnpZUUxhUVJ5Q0E3ajlyMUxBQTFZN3pYam1JN201V2pmaFIwQlQ2TklJdUh3YU9XeFVaQlVVSE1MLVM5Ry1GSHh6UHNXY3l5blBtZXJKV1hjR29GcGlacmdielJNcEkxUExYMGpzVkdhQm84TzROb3B6NDdsenR0a9IB8wFBVV95cUxPZnBsOWM2cHV0cVNxT2s0NDI4aVVhb1V5YTJacXcwaV9zaDdEZV9IQUJsNVdLdWJSYV9mSnVVdjVTLW1GMDlHUE5KR19CbmJGam9ZNlB3V3YtdlZqZE5tSlZfNHVVbGVwLWZXdzM2RkJhUlJPZ0ZlWlhaVzhWc0gzZWFacUlLb0VSLWo4UTdYYV9fZllGcnV2WDg1blg4YVZjdHkyVjkxcl9KMzZvY1J5T2dxTXpCYXhNZkhxaXkyNVBhLTQ0NURVbFZIQm5CSnlIbXlYUlRjLXk3WGZoaFFDMFpoWl9iV3V0ajY4OFJKMS1wNjA?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt sets up SIT to probe ₹12,024 crore BMC corruption case",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRi0xdEwzYnZpTEJPa1Y5S3ZKRUhEamhVeW1GeGg3cFAyUlF2SXdFV2c2aG9WVFlDc21xeUtsbGwweE83RWt2RjVaV1IyM053MHpjbmgtd1IxOVZrTTVTM2lLT3lkMlotdGY1Z0tzWHJSdlNwRGJDaWItXzdfSVp5T3hBSnloMTNNSkNmZ3lxbEV5MW55Y0Zmc2UxY1p4a1lfdndjdElwZEJneUpmOTBxeGJ5WEUyZWVMT1pZdGpOU3oyeDNiUENCZ9IBzgFBVV95cUxNNzBfeXQ4clBuSHdEdHVsSnQzN3RKWHBUeTZDZXNXWVFIa3ppY1ljZjlUNzctTGU0Mk5GVEoxM3JMQmY1RHlfaGdrY0NnY1JqaTExVHN4YXhNVG5aNnNkVEQzTXJYeFR2VTRTSzFtSWc3dGVNWHFRUlU2NWF1cGJnZGJuOWUtNkZSY1AtLVVkaV8tWGplaHcweTRqUUpQZi1fdnFvQ0xtWE1MMXBiYkFQcm9BSTE2RzlZQklBREszUk9MQnBlZHpLZW5HTjhSUQ?oc=5",
+   "published_utc": "2023-06-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bank of Maharashtra presents dividend cheque of Rs 795.94 crore to Finance Minister Nirmala Sitharaman",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQzRFR0xDYWNSSnJOTmllQ0NXa01YZXhvWk90SGF2MHdCdG5KZVNZc2VHN04yNlk2NXFjRjhRLVk5eE1yQTJhaHY0ZEs3Q3J3cGtnNnRXTEt1NU5rUFZONFBSRkZkTGxRY01GaFgzVDZoM1R2LUJ6Y3dIYTgyS240MmJ4VHJiQWVGR0VYTHdRS0FBSmdkeUFWU3ZvRzUtQ0FkbmN2NTduV2x0VkJHY2NtVnBRRmhodk82bUFNUy1NOFBoMExjdVkwUF8zTldOckFlMUVjd3BpNUxlbmhOTUhtc2NrU3hVM185MUlGX1V3QU5JZ0R1YXY3MXBheGt6N193M1FjNmRadUU2ZUlPb0IyUtIBlgJBVV95cUxOT2U3Snp3QzYwQ3NSNFdMSXR0VHVwV2ViZ3F1bnhkMEd0R0pETXUzY1RVQnBBcFk3b2xTMDVEWUNxYktnQUNkNnY2bThaOGhCeDF0eXA4X3BGT0NQLVNLOFZMR3NLVmRNbUpaOEY0Vk9NajZOM3R0Vkg2UGhUcksxV0ZTdmJvUnZZR3VOeEFoVTB4aTdsWkZNbUoxV1Q2cEMtb0NFN0pESUtqa2hXTnpFa18xSllodzNhSmZKV1Q5Ry1Wd1NfdXJYNmgySi14Z0lqd0prYmZtWHFhVXZhb0t2N1d2cko0ZXRTajUtdE40N1Q5bE1CRk00dFhheGFPZXZ2YVdrOVctUC1iYmVNYjJORjJZQndQdw?oc=5",
+   "published_utc": "2023-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"If Pending Work Of Nanded Airport...\": Maharashtra Minister's Warning",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHQ0OXZsUkV1Z0xFUkF5M3RCRFNpRWJYTFhLMS1Yb0Vxd0wtcVlidWc3bXpHT2Q0X1NpZWpHSWVCQXI0QW96a0xNZXBrdTB0bVg5OTRNaDhJWnlSNEZWS2MtSDJfRG1Nd1NLdlBuRGFhdTBWOF8tTG4teTlhOHhfYTd1bmlSMjRRRlBtWWZqSlN0aDdwRFk2OHVzWWpOczdh0gGoAUFVX3lxTFBVMVEzQVFYRG42NGc2QllyRzlkUm5IdVVLbE1memFvTHQwQkQtUGN1WUx3SHJIV1hQMzVncTl0c0F0cG44MVo3N1RGOXp3MHNKV1FORjNmS2dIRFIwZUxhUk9BWGVxSWZxVFppTEYwdF9DYzVUa1pCVmQ5V2xzYkhiaGZseExfRGVrMnRhMWJOR2w4OXUwTk1HblczdkNTa21tVTZ1d3YySw?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Boehringer Ingelheim India, Maharashtra Government sign MoU to enhance stroke care services",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcWJ6Zjhqd3AxdHg0TXkydDhBdFBPRElkaW80eXFpc2RIREwzeDNTTEg3WVpYZ0t2eEZ2WGFRZGdubGQ3YWNoUTljUDUwcjdUc05aLWVzazdkcDJMRHA2MmhMblItcElqMEdGVTlWZEdQUXNJTmFja3Zjd1dkRDFmVEJMbW5ZVjdtalUzeGhPcXNKNU93SjVlRGJOZG91VjVncFJtcURiWmlya04zNFR5SS1pRTRKNnVkczRtdzBLdHdQcHlSaGpYQXpqX190UXFuTE9sbzFjMEJrVjFZV3R1LWMyQ1Z4QTU0QkpuR9IB8gFBVV95cUxQS05KSE5idkw1LVNGNzBSVmswaC02aG9SM3JkYXpVeFVGbVpuVDNWNHJHbFEtNUo4Tm0yRG5ZWnBKX3BJd21GNWFIUmdiVVBCMGlGTEx1RXA3RVgxUS1DX1AtR3pZalJkcW51VUJMaDJzdmN3N09GSkQydHBlSHJlYkJUVnpjTzFrS0dwbUY2aVZTYkd5TUl1YlNyaUM0SWRwcWxuTlFqcVFhSW5VQThJQWlHSnJ1U2E2LWYydllZNVN5YU9MT2d0VUhENEQ2dTFRYXQ1eU1XMUYtZ2h5VmR4WTY3NlhlRmpzZ3FRc0RuM000QQ?oc=5",
+   "published_utc": "2023-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Election processes must be integrated with new tech, including AI: CEC Rajiv Kumar",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWWtnZUdNb2RFMzNJVHBiRFp5VGF6MEV0M0V3MS1VaVl6ME1pNGJRUWYwMDU2dkpFdFFtLW9jQ04xWThqaXNOclV0Unh0bXVkTVlXdnVoNDBxZDZZMTJkSC12TzBIbGRpMmlEdzh1b3JvaXpGQ2h2WGg2ZTY1azNNOTdsUUd1bEoxdXB4S2taLUhIV2M5V2hscGVZRUZGek5FZjVjdVZ3OTZVeHZIT0V6bUkwaDg1cEhaMXg1Sk1YNnNsUDB4OWZaVzgydlc4WXFRNHZlTjZnd0VkVWJUdGstbzQ5MktKYmlDaTVOb1dB0gHyAUFVX3lxTE9DMlo5dnpKakxkMHhOdzJfcGI5Y2FCdTIzLXBORGlzbnF3T1h0YlprYTJfOEwwQmtXTC1qWDdsNVhQbHlFbFM4NVZIcE1Ya3R3RUtwNk1pSVpjUnhVRFBWRGlUdnU2TGk4cXZZRVl0aTB0VlB5SVprU212TGR4Wlc2UklJbzNSMndsTXhnZHRWYjlqTVU1RXpWb25MVlg4Y1NjYjc3MzQ1WENNMHd6Tk1idjVrVFhHQkFBZnNWMGxLbDQ3YmxEU1EwaHU0Nnh4N1JCeVpfWFp4VENpVUZoSHl3Tzlxd1pZeGZacWFLV254Z0pn?oc=5",
+   "published_utc": "2023-06-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tripura Assembly to go paperless, embrace digital platform from June budget session",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWVpoT3FZdVBmVVNCc2w5VTE0UUhQb2dQM1hWRmhqb0lzMHk1bWNJbEJ2ZDViVTVsc0s0UTZBVVVpcG1Qb2FVc2JEeURtQk5USEdpWW96bXZvblB2UDNUQ1QzOEFaVVl3QUJDZ3ZadXJ1Y19mNld4elJteTFUYkxZOUM3VnVzbzRVRldMMDBwYlpXOGJZQ1BpdGFVd3dDcUVwWnQ1NW9iNkpoOEtjTmVIMjJjelBaSGQwelJ4X0J2X3ZIWVZyZHRrNThnSkxfdS1aOVVETUFfZzh1SmpUUmhsbDFQU1pOcXFOTHQyQmc0RUjSAfQBQVVfeXFMTk1zQXpJT2xwZjU2WmlpYlVLMHJrRl9odlNpSXRFNlVfMEZUSUs2cHhkRkdzTUVNcTM2ZEI0dGxySGNpRi1mckFUYjVNdXlPa0JTMEpKLUJ6enU3ZXEtdGdfd3doblpSV1RDMEppMm9PcDAzcFJhdUZPQmtWVVVDRW1HSFB3ZkxQaUIyWkZfMVZ0ZGV2ZU5EY3N4bzRfM2l5RGZWSEl4cmpkb0tMUzllM1FieS01aHpHLXROMnhweEZiTURFM3Nacld6M1ZhcW4wZ2NXcFJtTnc0blpmY1VlYzlSMTE2ZVA0Ym92U1NvWENJZDItNQ?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai: State To Increase Cover Under Mahatma Jyotirao Phule Jan Arogya Yojana To ₹5 Lakh",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFBrbWxhMUpPeVBSRGJWbHdtcHExeTR3dEFLYlViRjY0Y25CYWJMQ0pVRHJ1dHdtTzVsSF9JbkNTVi1WeGRteEVCMVY1WXpTX3AxZzZDVm8xTXhCcUJlSXh1aFAtaUJGWWp6Ty1vWHVtWVNGYjBOQ0U3NGZYWngzdkhDZ2ZaUzhvMS00X0VhTlRoYnh6aHfSAZsBQVVfeXFMT3VnYkxOSzB3cGVDTDEyUUxiUm9tTlpGYzJFT0lQSWh2X09MNWZ4MnVMNHllWkg5TjhKUUxmamx6OGsyam9EN0VMaUJJVzE0ZVVCdGVUSHlHeGQxZFZ1UE15TWtvSnIxU1MxaXdLdGR3Z1V0cnBDU3ZwdnRtSkEyWjdfU09aNzNvVTVjTmFDN3ZjRDVDNkljZ2NvSmM?oc=5",
+   "published_utc": "2023-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Students of 500 transformed schools in Odisha to get lessons in robotics",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTkVJbEhrOExTNDhJU1lHMWs3U05leXhZMThQaWZOLVdmaWNjSG05X0VTZDkwcjlyNnBfMVJqZXR3MVdmejB2X1VWQWxrYjBMX19qVDI1bGxDaGV0RTBaak5pLURLM0RGMmJaSGZaUWc2QTgwZkFYQmc4TXN3LUg0WUxQMURoWk8zUWp0MDYtY3Y1M0taRHNPemg3aWJRUW5WOXFUZUp4bzY2bkh0VGZHVXRpTVlzcXZORlRFQThwMFplRUV3UGs3bUUzVdIB2AFBVV95cUxOdDdwQ3VFOEZiSU5yeC14TU9KTkJILWRJTURtOU4yaDBaZHRDSkd4UkdfX29XYkZWRFNwOHV6NTZMZDhjRHU2T0xVRkR1OW13S1NIdGVOUktIVXR4aFZPU1hmS3BHT2dxRWozdnlSS1A1N3hZaUdGcm1PSGZWQUNBSVpiU1hESTBLZ0loZ2pQOTM0ZUNqQ2dSUXUxbzRKclZndmFrTFlxaUJieDhtQ1RqelhIUTlXd1ZfbzVIbDgyTVlJcjd6WFlOdWRTeEdFWDVQSWtpY2xZT3E?oc=5",
+   "published_utc": "2024-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Model, Ecosystem Services Incentive and way Forward to Mainstreaming Millets",
+   "source_name": "NewsClick",
+   "source_domain": "https://www.newsclick.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUlvZlUxTDgyY1JMbTEybDMwbzBFcjFMMndQS2ljNk51UUUzR2lpU1lpQXFUdUtMZlVpSDNPRUFUWlpzbk1YMXpTemhRNUhjZTRINHFWVVJXSG5Fblp1MDRxci1EdWVhZldITkdMYTJwQjJLLUJ2aWt2MXAyUi1nT09aTV9saS1fTDdwb0l5UW9UMjJxWnZza3p1NlFkTmM1aGF6dHNhY9IBrAFBVV95cUxQaVJHSEtWRFNHeVRSNFF5dUdjdFNmZFM3SmMwMTFwdnhoNmFlNmxlbldiNGZNUURVbS1ONEllWUNzZlo2bE1Fd0dQd0VYOTVQZWg2OHJBZW5lMDNvc1lKQTRBMnVLemJpNm5mYUpDV0d5d2I5V0ZNTnBYYUVQNVEwZWpfU29aLVp6enVQR0RfRjI2dHBodTlVUHZVVER2N1UtMkdGaWhNNG4tRnlr?oc=5",
+   "published_utc": "2024-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Chief Minister Naveen Patnaik Inaugurates Malkangiri Airport",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEJwblAwVXNmd2d4NGNTekhXMjA3cXhXWFFKRGxXX2w0THUxOVZ4WUU0WHozYldNc0VNZEVkbjBlZHU0a2VJaGJHM0ZxWWNDSDhGeDNsaWFnMFZ4LWpKN0E0NWMyTUVqVVdxTjBPdjl3RlJobEptTFQzRUZjbDVyTjgxNW1HQkhuQUVXalpra2FDODl2aWFZalhPVU1Vc2RIMTN3ZUFFUE0tVTTSAbMBQVVfeXFMTXAzcGZFekM1dTFfbGtwWnVPVlRSVnFwdzN3TklxTVVyUWR1VDg5ZUJ6SEVlUmowVk5kc1VQOVRxdGxCSTZTaHlMdURzUlBDa3d0QnFPOUs2dnhXbzN5eEZnd2llcFppaGhuY1pWSTlkYzcteVBybzlKdWczZ0I2clpfYVMwR3dRdjlNWDRMTGxDNUhpLXVYeU9wOWdRbUszVzJNTXpJRTlMRU84dEUzTjdSRXM?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Malkangiri airport in Odisha all set to be operational this month",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZWl5NFBnOWw0YzZBVXYxNXpRd25Fd0ZKQ0plZ29va25xMTUzcEF5bmpRYUpKOWl6azBkRUlrR2o0aC1aUkVva2pMMVl3cUMxMUFBMzY4akRjdUhqczZLTFlTWW93R0RObTJwdVhua1BmSnk5M2kyb2RBcjVJQTNtQ0FkTTRpR0VCQWt4Sll0eTBEY05jMng5NUxCd3E4bHlyN1BISU05aERsSnBjQlJYQzNWdlNhNzRzQ0xXRHJvZ3pDa3JzazZBa2h30gHPAUFVX3lxTE55UmxLaGlxcDI4UDdCNW84bXBsQ1VvckdaakJEaFhWWnZnZlc3RVg2YUs1WFRRWXV1VVZhQ2dmN1VaRllWaHNTNDdEVmI5Y180V0pRcWs4SUxZRXhLSTRJdERFMFVKams1YzBsZXloT3BDM2RWLUxob3piM3I5STBDTjc3b0xKSmw4YUpXYnozeGdxM0VtNENmMTI3YjQxNWd1R3BjYkFoWWN3cWVwMmx3aXpCeDNEeXZlaFRYS1E1YUMzajRKUTNMNjIwdUFsOA?oc=5",
+   "published_utc": "2024-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha's Malkangiri, Once A Maoist Citadel, Welcomes A New Airport",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGU1M2RpZ0ppSHJjRmpMOGhWenpEcmFaOFdkYVpWN1dnS2lXdGFHTklEd1lVa1ZvTlJTMS02c3ZKMWNhVjNGWTBvbHl1YnUzQVNmcTdTUUxvRFU3YUI4ekQwem5EcFJRS2QtNktQY2pqRVROaHJST0RBQTkxcXhEMjZuU0hDNW51clE4LWpLREk3SDlxSDNucVBkcVhtWENHMUxkWNIBtAFBVV95cUxNdlFTRHFfTE1SNGx4b3RPMVlxNjZhOEhCLXNqbHFnbnRCRUFjcEZYb3BVWlI4M1RjWS0ycUlaTUVLVmRfLXhXNEtMY2ZZRmZrak5lNElNa19IdFNiZ2wxWVREWkctdTRBeFVkVmlTSVozd2NFTzdneElGdDdoLWZnb0Nzbmo0QXlGX0N2VkJ2LVk5ZHZQUFZzY2tkZkd0SGZNdlVNeFNpNUdFUk1KcURCNUlwaG0?oc=5",
+   "published_utc": "2024-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Patnaik inaugurates new airport in Malkangiri",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1prOTFjeTc3OWUtRHdtZ2tFamtsR1FxZ0NpMEFFdzh2N3pLRVhfWHdqbWZFRGJHdHZVNENPNGNWMi1BMzF2S1doeG1VVm1JaUxHbUtuUW5HS0NFRHNtemstay1WX3RHUTdpdEV5N3htS2g1Sk1xNkVjLU56d0lJWFRwaFBjelFEcWpuWWJIdnA0YzVVWl9lUXF5ZWUwdUZrUEJKQzVQa2xSNXNNWVZtOWRxcnFzMHowalRz0gG_AUFVX3lxTE5xRU1CZnI1U3ZpSzBITE5xTWgxYktGSzIwRzc4YnhiXzJveG5UT2Vocm9uamJfaDhEOXZxS3prZ00xSWNyQnhkb1BCUnV6TXExSC1XS2pxbTBHVXBlVkMwLVZfSHYxak12bUF3aXU0eGsxZjJua2pGMTA1aWFfR3BJNFFWWUJpVURyd0tja21qOFoxdG1BX053NUt1VUs4TE8wakdMdFFnY3hMeGl4VTdMdEt5QTRBV3ZjcHAwQTZN?oc=5",
+   "published_utc": "2024-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: International air cargo service resumes at BPIA",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2FBYnFiYjd3aUdYMFdNVTFndUI4Tzg5RWNveWJJZWlCS2ZmT2ZFU0t0YndVNnlSOWtRSUwtSTBCTm5yN1Zta0t6YV9kUk1FT3ZCVFhZSGd5bl9HdDliUmVDdWRTTFdnNXZvbHlpeEpwaGFyT0JjbE9uNkxkQlhNTjZsQUxaODBjT3pldmg3Wno2ZHRybkRLZFl0LXBIYUFhelQ1Y1I1VWpZRmJxeE9FVXFNQdIBwAFBVV95cUxNdG5DWWpBMFRwMTJ3b3FuNjZ6Ni1PNFQ2Q2J5Z0dVbVFYUmV6WERUUmNsQVNNNlB5a05xWVphMkFhZUc3emYxbFM2aF9XVXAzYXB1WEl3OTJ4RFA0aVJJQ2tpSkZ5WjRqM0xqMWlHMXJkQUYzeElhbm9yTFIycElSdUZld2JDNUljT2VGb0JKM2U0YnhYOVl3WmV1bFpYSU9IdG16aEZOYVVOMzlkYy1Mb2pRTjlhZVd2ZGozR3hKeVE?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Naveen Patnaik Inaugurates Malkangiri Airport In Odisha",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHlGY1BtOEpkN1BwX29xc3dxVXEwVXhfWWNJd001b3NPNzFsRnEyQmV5YVZ5LXRPZFk3dTZaNDVZXzBmc0NpeUtIWGhPZTlDLW5YcUVVN3pCX1pVaHJBdzRBVGRVZ0NnY0QtYjNRQXJWUTd1cnM0RDd2NjA3dGJLZnQyR20zRTU4RXhFYzBBVVZobkUwU1E?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha expands air connectivity: Newly launched Malkangiri Airport links remote district to national air network – Key Points",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcjFnSlFwem9PeDUzNXAwR1ZfNmp3XzVadDAtZTdGMTdwMzRfMnFGUWNSZGRzazlFS3A0WWxsaExVcVVjVHQ1dXpLV1hzZ1hIVUttT01PakJoYzRwVkZjX3VZRzZlWUpsNUNXaUJBNDBWbmd2R2l4RW1yYXpTSS1SVVlldUxJX1JPVTNBZ21fQThEYk0teE1TY2hsa2hWZXFDYmtkRkVMc2VJTDRWZlowTVRtTUc4U1gzbmFFeW5HT1ppM1JYY3ROOGdaRGptcGlNZ2Vlcm9lR1ZFQXQwUXJKTDFoa3BRVzFud2tsb2R5d2hhNFFLNF9lYU1taHRVUnJzZnlv0gGKAkFVX3lxTFB2ZUNHS2RXOXpnTVZfWlV2STU0eXBrYy1nX0dYVWJlcjhvMktKX3VyM2xPYjVaVUpKbU0wN18xal9ZZEhidUFWdVRKZFlBOVJsbks0WXg3MXlja0ZMenBBMkxHS0dhNVl3bHNVNkNsaUpuRUZERzFiM1FzQWUwX1RLRWl4cjVfSDlMU2hYSTg0VGVFQUdlME4tM3IyR2lucFpxX3RSeVU1cTMybWh3ai01U3pLc1V3aENfYjEyeWZ0aVg2WWVwVXdndjZ3UktPVlZhMUdmZ040MDBRTDZ6VV9MaW1wYXE4ekhJY0hJalVyVHpjS3J1UkR2bU1iZUgxUTVQWl8tbVR5VTh3?oc=5",
+   "published_utc": "2024-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Naveen Patnaik Inaugurates Malkangiri Airport",
+   "source_name": "Ommcom News",
+   "source_domain": "https://ommcomnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUF3VWM3STNyQW9sZl9MT0xWcm1OendRekgzbHBPTXF1Z3BSQ3ptMWUxTDZ0RFRISlVFRXY3cUpDX3VoVlY3cHBCNHlfS3h1T3FOUjVzODZXS1RQay1LNTJuTHc5WTlGMVBiWjlfUnY1a2lsd1VJd2FWaEg1V0tnWktqMlZRYjg5cS1Dbkdvb2VhZVBpdlE?oc=5",
+   "published_utc": "2024-01-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

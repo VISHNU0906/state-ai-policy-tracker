@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-03-01 before:2022-04-01",
+ "items": [
+  {
+   "title": "A woman from Tamil Nadu, empowering the community with AI",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGFpNncwbHNtOHljb29va3RXQnZxbDJFS3F6bkUwYnZGU29zdDhkUUIxcVF1SExuOGpaWHdhd00tTFlIWTl1Mi1pMEVkR1NHWEZYMlhNU29rRnJHSURkSTlVSzhlSk1GWElfdjNabHRZVVJKWnJ0anlwZVZCbURMN3pKWThFa0RqdW0zMkh5eFE?oc=5",
+   "published_utc": "2022-03-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu reaches another milestone, introduces Data Policy 2022",
+   "source_name": "analyticsindiamag.com",
+   "source_domain": "https://analyticsindiamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlE5TUtwdnMzclEzZUtlaUdYTFk5VVpQaGF5X2VfeFZBQ3hwb2VfeTlMUXF6NXFkcXlWMjk0NTF4UXlTUkttYUdjYTVRLTdwVkpLT0J5MmlCSmplYm10V3hOeVNFcHRVLU5zb0xUYmotMFVHSDlzdFJiVlRRcHIzaUFpb2dDZUxRWkl1YjZvS0pjSXhhVHRKakVZaGhxREwyT2toM09VLWotdw?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Summary: Tamil Nadu’s data policy looks to create a single source of demographic data",
+   "source_name": "MediaNama",
+   "source_domain": "https://www.medianama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hNGtMNG5YdXdJSTJaZ3l0eEFWemlmckpQY25MdzVrN1NZaG03bGRxWkxydWR3c19XTzBCeUxSekR2cGR4UW1BdlU5N2xRcXNub1puajN3UlVHRVNfTmFrNldlajhtLXgzSHdwLWJWZ0NWWkJqTGdJNEJXWQ?oc=5",
+   "published_utc": "2022-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India's Tamil Nadu launches sustainable cotton cultivation mission",
+   "source_name": "Fibre2Fashion",
+   "source_domain": "https://www.fibre2fashion.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNlc2ejRNVFdqalAxd2I2di1YQ1QxMkZ6LTdNUlJZeGw2UHZpSHVLT3NKSkNZM3N3RGxaRzZCLU5BYWNIdnpMcXJXNUp4M0Z3UTZTV1JIVllFRWQ5dFd6cUNZaUJjMWZKcnIyQ0ptaW01bF83c2ZueGxzVzBKS0NDUFM3UVQyQkd0ZmRtZnZuejRlcHNKQmFZRXc3MGJSNkVRMkZPWHBPdmtaNjc5SGx4eENMMWpOUUs0WmVWTllhTWNIODFBTmVjSTVnRzc3R2dZdFAw?oc=5",
+   "published_utc": "2022-03-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Govt Doctors under Health Dept's radar over Private Practice",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTBhZ1pRMi1LOFhqVE5GYkNmeEpfeGlLLTdYam1meURlaHd2dGpNQ3Joc040eUtvemNZQm9FclB0Mldndnpqd0pFOXhGdzRydzc5eHRBbUx0d1NDTXdYTGdxRE9sVEpERmlKbnhtWEJ4cnNkYzJsYXNJTFdPWFJZR0FkUTBOaEtjeDFPTVI2aHZPQ1lQdlFMMUZqbG9JWHVlN3g5RHptWmpQbl9BdnlMdUhXMzQtX18xVFFUQ0M0NXdCUdIBxwFBVV95cUxPcXJtc0prMDhUTWdhUFlSY0FmVVZZWC04U0hxLUtLYXRtd2FaaV8wTnFaSHZtSGVENC1nempKMXdiUzZXX0tCWVVtcDgtbFYtc3BHVTZCdHJqSEtZS3FTQzFud2ZzRWlfNkdrUTVkYnlidHoxU1ZMUE56THdLWWMyT3h4aDNwWEt1UFRlVzFhSVJkbWpOZ1liS1dEVFlnNEozRHVJMy00LWcwdmJlaVdvX0xFOGdpMVc5VWFseDFUaVRJQmFwVFRV?oc=5",
+   "published_utc": "2022-03-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Major Reshuffle in Tamil Nadu Police Lineup, 13 IPS Officers Assigned New Posts",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOXzY0M2NTNW00LVpZMkxLUTB1VjlhNS1tM1hGOTBucmlDckgwaktBejRyQm5nQjhEYk02eXZsa29nR1dhS2wyajRvNElvcjd0czltUWhTQlVNY3NHSGVHUnFVSWwtYzhJWXlLMnBEN2FXc3dXcE1aUjB6Q2tKQnQ0WWx5VUl4ZVRBV01hYUJwQi1hdXBfaHpfMUFvMURRUTNBbnN2aGpFZUlKRVRjX0UzbVozV0JzZjg?oc=5",
+   "published_utc": "2022-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Girls in TN govt schools to get Rs 1,000 as assistance to pursue higher education",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdkdGZ2xzanNGYTc0T3lVYThmZzQtYng0ZjNvVHBSbWtqU2dCSUpfS0YwenJGRFJUaElBZmJiT3MzRlRubXFJaEs2QlotbTdXVVlCRmp0Rk1jT2FXYmViOXcweFRlQU9uQVQycDgyUGo3UUFMS3RSRTZkVUhVbldha0QtMnZlOTVjVHFCekozdG9yQl9pVmlJRlFHRUhfWFdRM202UHc3TzNsWld6WHgzUEZoM1Q1bEtKSUdqWlhCTEFxYmRYMlJYSXlLUkk3UdIB1AFBVV95cUxNQlBFQzlPNEZhUGY2UWpBYkdxeDcwejd3NmRta1U0b1NvNUFzV0NFa2ttT1ZEazJjN3pFUG90SjRHQzhic3JFSmRSX2lYX0U2RHhwamNBSjZMRkphLXMtNFV4NGhsZE53bjdFeG5YNWtLN0N2RHJTTEpwbUZFRm5xMWo3RWRVV2lVRzk1MHZneF9IWkxDeXFJSndxRUkyRXBNYjJKVWpLRjFIbzA2R09GUTgyVlh6b1BGeHh2VUFWbTJsbk54aWxwX1Z1SDc3eDZycHhZYg?oc=5",
+   "published_utc": "2022-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to provide Rs 1,000 to help girls pursue their higher education",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUIyUHEzSDd6R3JtaHpZVHB5dENMR2pDVTQ1YWs5M1dMY2djUi1ELVUxWU44ckFzZlgxVEZKaTl2UnRvemNETTdRT0xQM1EzNEJ4eVJxZk1iemdLTDV5c2dMaFhRVTZpMUZqSms3Mno2WmZsR0gxSFkyOFFURTZhc3VYS3RjYmZVT0RVWW9sOUZJbnd4MGZwZnY2cXlMbXZ5bTBFd29QRkZrUTZ5YkZybktxQVB1Q0k3emZ5MUVjNXBtbnI5SHlTbk1SbkY0eU1HU2p3SDBxVDJHTEJDbzVHY3BUcU8td9IB6wFBVV95cUxNRkxpZm1YeDM1N3dxb2h3TTllQkhDZTJwNDFmNFg2VkpqMllzc0pER0tqSVI1cXN1RFUtRjNPRGhxYXZtVk9LbVp4R1cwUjBRdHRRUlkyMWs3ZWs0TmNlRGk4ZTlWZXZrMDNERnZoSVByVENyZjdhS1ByelQ1V2dSY29LVHdwaWVQLWx0LUlOZkFsTlNONl8xV3ZCZU13Qjh0N29sMGlQT2RQQ0NadWlXUkc4SnNBbVRGUHZHUDl6aVNtd0hJcUVBcmRPbFU5cjEtUV9BRnN1LWJtUTE1ZGtlM19acERoczZJRHNv?oc=5",
+   "published_utc": "2022-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Data Policy: A step towards data integration",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHBoSFZJV01hQmNLWkQ4YWpQY0k1Smtla1d3Wm9zN0k0aU0wclpQWTV0bU5jWnd6dnJ5ZWxjdktrTWlicXQ5VlVaeWZPNTBUaURaX0p2WDdwbVhXVlVKdTF1LTB0MWEzTkR0Vi1kNW1HNGRMdUhGSjhRa29ndmVlWjM3S2V0Tm1FcDl3ZUxB?oc=5",
+   "published_utc": "2022-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu minister's daughter elopes, seeks police protection in Bengaluru",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelY2LVdwUHlCdl84blpDLXRhUTJNeWpucHBhaEoxR0M0QkNBTkU1a29aZ1hKNjVzRUNfRG9MemRTZDRVQXhfcDM5VzRWSGIwQWliM1lQOGhVakFMYUlsU3hSWkcwRl8wY0lWMlU3S3Y0R3pwYlpHNmdJcXNMbE43d3RXRTl5TVRJOFd1NlJFbEpqWFFHSnJPVXVFMFI0M2U2WnR0VlY1NFhIOU1GNDc5bGFTTzJ3OW1PNWhQSkNIelZSTFhD0gHKAUFVX3lxTE1WeFhUTTNRbHhQaWNmaDZybTF6T3VtN21uQUxqQ2VjT2JvVXI2SHJCeE1vcktyckJla1UxS0ItOWRMUy1lcU5CY1c3TGZ4OENtS0pqcGhsb3BWMWhuV1BXNUhOSDgyemhQTnBuY0x6NXgzUHMzdUVXYUlIX1JuSURzR2NuUUpnUGktem00Ni1jaHhROE9xVEFNMndlNXpqeDdLRVM4XzZOYk5RdURGQ1ZLZXR3YUFiLWEtSWxLQTBjZW0tOXlSczk4d0E?oc=5",
+   "published_utc": "2022-03-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Supreme Court issues notice to Maharashtra govt in Lavasa case",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3RRb3lEWDJaMTBYdXFBTWZyUDMtQTVWcF9mbVFycDVrQU40Zkk1MV9fRTFKdXhNWHFoSmdyT1ZmZDVieUdubkg2Y1lna290R2dEU182TjN3VUtYdGV1Yk5MUzNpbUw1NUxrYUZFWDI3dnQwaXlyLWlxX3U0MlEteURhUk82Nk1OdU5NblAzTnUzMGlseVcxdEFqRFh3TXpMVmfSAacBQVVfeXFMTTN5UkNmUjhTdUNfdExrQlczUUNXZjYtZ0lHRlpuUEZvcFZGV3ljX1RPRHNzMThGLVdqYkR1T0NTeFpxeFB5dmpON1ROSk5jRjFUZExvSmloUFJoT0tXa2c2YTM4WnplZlRQVVowS1BGRVFiYXJKOExWVWhYSTFYaTJGSi1OVWJUNVEzam13S1VralZpYXNCTThWcTRqMEJ3anJLS2dHT1k?oc=5",
+   "published_utc": "2022-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

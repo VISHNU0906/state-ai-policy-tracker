@@ -1,0 +1,21 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "UP Elections 2022: CM Yogi Adityanath emphasises BJP's importance in Uttar Pradesh",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMG82OEtwSWNzcUZVTjFvdTJsWXE4dkhqeFJBVm53cFZ0TVBnTzVSZ1dMRXhNN3VNTktBN3ZTVDduMjNYQTFob092U2ExTzcwSHkyRnVDZkVneUx5X1NRck1FSW4zajRHOVpyZXBtdEprTzdIVnExS3RYTFRfaTNwSC1Udk8wcHlBTW1FZGVSN2p1dER6OW5MTno3Z1dLY1lBTlZiSjhoZGRvSlVvd0IyMGd1V2RKaHBrNjZybmtpdERGNnNxVlk0WlRtMmswTFp6RlhqVlFZNVEwNXdHeldhMXJYS29BaDNVVlVRaVVFd0FTSmt6TF9hWGtuSk9uckJjTUNpS1NFdXhLa2fSAZACQVVfeXFMT1VQZDFnUWV2V194elNicHNQY1RhaVRKbGh5YkNmdFhYd243Ym9xcjBEXzd5SXBnRWRDcllqbU1oZFd3TVNXalBUQ1VqcUd0WDh0bWhPMHp1VTZiQlN0ZTFwNE5TZFVHNWZ5V0E5VHRzZUxSNG5jS2thTXpmME1CVnpXVzlMZjMxX0NOdm9vOWVremEzMHpJVFl0TEpPRHhrZXlnd1ZRNzNLU0hrd2ZXa09jUi1PdTRwcGhrY3NGVkdibGRRMThRdTVJRC15RzRpV2c5QUMta2FuNnc1XzI1Q0J6MFZDbzZEX0dpelNTZWlkVTdkbWtRdHZ0aS1POEtBS2l5UzlTb09tRi1BWXp6dG0?oc=5",
+   "published_utc": "2022-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: PM Modi Lays Foundation For Rs 700 Crore Major Dhyan Chand Sports University In Meerut",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDU4RUFFUHd0MGExRkwzUXpaWFZtYi1DeTc0bmk2dWRvSVllUFlFbGlfdHZQR1o4ZmtJcEtBaXVmZm9pU1Uxc1I3TldydXl2cFVxUkhCXzNGSXE3Wk1UZl9nbEU2VnVWUWJpTk95N3NLSzRLeEtKRWFUVERLQTE5NzIxRFczMTFtWjJFVjFKbzBxNlpJWXR4Y2hnVUpiVnFndG9Kd3VFZkp3UTZjN09mMFZ2LW4tR1AzcHpFTXlzX09UVU9aam9keTNhONIB2wFBVV95cUxPVUw3aVVYOHVTRng0WTFjN2NpM29sa3pFOGRtX1ZTRmlneUhCTGJpcHdaWDUxMmlTSUJsRF9vWTlSZ01hZXdkX0RJTDhYQlp1MW5GTVI4LTczMXpFdkJYQlk1VUZfYTFtRGE0dndHa0UtenMtb2pPTnI2Tnp5TVZfd0c2bktwdGJWaVZQV1VSdGxuaUFwVDZFWFNuQkNhel9XOFRvX1FWNVcwaHhfalFxNlVod0JpMlg5NTNiT2xNalFXRGFfRU1oVFVmUVpvT1ZzTUl3eTlxa2hWUUE?oc=5",
+   "published_utc": "2022-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

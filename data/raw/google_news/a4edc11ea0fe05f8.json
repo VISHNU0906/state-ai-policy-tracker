@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Govt to procure soyabean at MSP in Madhya Pradesh: Agriculture Minister",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYzZnWDRTSWpwWkFjZFdRdENGRXBnYklqcG04NVQwUFZtYTFXMWFNZ2ZSR0dZamFUWllVZ1F0TUlkd1p0T0UyZTF3VHYzU25aU0RZUEhueVpyWWs1Z2dtdEVtTXk1TmRzZUlqMk1GY3FjV1JxSzF2YjNvZTZ1aDVJUElRdHd2TlQtZjN2MHE2Ym41emc1NVAwdGpaUTFnTzhKb1FaTUtFVTZlV3RyUFZrM0FVTHBhTDRuV05tTzJPa0QwRTRqMklBem1NUm5jRDlkeC1CR292MEJiNnBER0HSAeMBQVVfeXFMT1pxZk9aYVdkdVhGVEZBNDdQbVdiNTRtNk9Jc1NNcDYwWUJGa3YwN1c5bDVWQ0lPaUJxZzQzSmVucnppNTRBUHNsSFo4SVF4YVNKQy01RXM1a0o2bkFmQWxVQTVBNFh3cjFSRnBFMEx0eU92SjJWWDNvLTEzWGR3dWdReE1oenVEbE1lZjgwMGVUM1BDVmdaZlNFSHZPUTR6QmpHZ1E4WFVUa2JyTU4zY254d3BFS3FDWGRqMTlKcTdOVU53S2txcEFaNGFycUNYam5xUEVtT29mUDlTa1B2dFo1ems?oc=5",
+   "published_utc": "2024-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh HC issues notices to PS WRD, collector, over encroachment on Gwalior dams",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcmozd2VRcjJNZGt1SVY4UVh5ZkRZSDhOTHdYSFRkRllmTGh1Zi1DVkRJVk82MFNWdnNWOUNoVnBNbW8yMWc0WmNFdzVlVUhoWWROVlAxcjFMRzhaRml6bnI2dzhseWZsVGU5cXpHVWEyY08zS0VpTFFNcl9KMjh3aVptVGZsbjR4Wk1ZX2xlaTV2NUR2Wmc2TmY0SDdaeHRocUpvaERzOFBxNTF3aTNoVy1QUFFqSTljZnZxQlJYSWhjd3NVdFRkOC02MUREdW9SakpkOVJndFROOGhMcXhkNGhpellmUkdsUTJHVnBWQVdaQdIB9wFBVV95cUxNXzhOY2tBOFlkNkw0N1Y0UUpKZGdJSU1pTEl1UGQtNDBkbm9HNXNLWEJjM3VuVEF2SnQ2b3AzZm00UHUxZl9RbjNfZEkzM3drVDJibUtZY1pRX2FXVFNsVEpSTFhsRGVoSndzbE9iU01UNHdPMVVTM0xsRWdzWG1yekZuWkRQaXhQaUk4eVotZkM4MEktUWkwenJzTGpQYlNsdmdHR3FHWWZBemdBWHIydFR3bEV3NXcxWjFsaXNYbXdIblBocmFYeXN0SkEwN3BvcUs5bzh5WDZuUjVJSWVHSkl1MXIxc0U3bkdCWl9FamJ1d2NjRnVz?oc=5",
+   "published_utc": "2024-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Anurag Jain appointed new Chief Secretary of Madhya Pradesh",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYndlZWcycVJ2cElIM3o5blFKZXNnSTNYUjBVclU3RGtvQzQ2Q0k3Q2kzWldOalhocXVncUIzdkM2YXY4M0g0Mjd5bUdDWVJjOEJ6dDlkeE9ORXhBc0llaHFsc1lySUtndG9fZXVnb1pqZ0tUekN5YlRibmhibGp1MEhvQi1QaWhqMWRuWDlFRXhXNlYtYl9BRlpDaG9SZw?oc=5",
+   "published_utc": "2024-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Class 11 Student Dies By Suicide In Madhya Pradesh's Indore: Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONF9DZF9LekNhWmFCSDZOQVN6RDYtcVRVVEhTRzRpU3dpTEhJcHVLdUVjVUs3RzgtZ2RzYk5Sd3YwZzg4QUNoM2ZLR25uVkthUUZ0Z2VabXRzSXhOOHV5RDJaUnR2MEhxdE9HNWFMSDlUMTQ0WWNfNVFhUjVHdTNLRGd0R1RlT1g4R0lrWVpzNkctVVJ4UjM5aTFsTG9Xck9VNWhlZmpUcEzSAbABQVVfeXFMUHFaUmlyLTJBMldkbVhneHI0bzE2S0w5d1pqdk5tM0tCZWcxSlRveXZ4M1g3QXJ4WW9ZRjc0RzBuUHhjMGFWdFdKbUVPSHhxV2JPMDh0XzFiYUIxNGZDcW1oVm1pa1Q4cnpfQTlrVlFtb19pbTdFOUVZUmNQczl6NFZjOU1ZeU5HRGVmZTVFak9adUNIOXZnYjlVaWd6RndYd2hBc1BsS1JxTEJ0WXR4OEo?oc=5",
+   "published_utc": "2024-09-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt. transfers 15 IPS Officers; IPS Jaideep Prasad made DG Lokayukta Police",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1l5SkdmcGd6R25IellFWlUxNDQxaDIwTjFyTlNpTlN0Sk8tQVNFcklXamlGWmp3QVVrYmZidlR6Um1RWjN4SDJjdVJnT1FGZ0s3alFERVo2dGlyZkpheGZQdkM0ZVdOWWJjT2JJci1VV2NoMzhTU2VMcVhKRXZnRDlTcWhubGVhQUI2eTVEZTVwUDZvdy1jUUhnQkFDUzFFREk0RTJ2WHlicUhCTEZxMHVFekQ?oc=5",
+   "published_utc": "2024-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Walmart Foundation expands support for tech solutions to help over 3 lakh farmers",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaGo1Nno1MDhxUkNaTXkyYVo5cVU3TGt1djREQkhkOVc4c19Pczd4cjdaLTgzbndIcXVWaUtzSHFzaW1NVWhHTUZEZVJMNktPR2ZLdEZtZTd5eHJENEdiOTc2T3VvVDdWZlN1MEFLZVE3LXpqU2dkRlN6bXZFWE9xcFpnbzhNbDlub1RBY2RNdjRiaFhtNWl1SUxFWnNkNUZDNVUySnc1bzl2eXF5R0xWMC1IS0Q2X2o1elFCVkV1VGgyX1YtSlVSQ0RSTHNlUENpUE1XbmVzV1hCSTM1Q3ZBSTBxUHk0YUllQ1gtVNIB8gFBVV95cUxOUDFJWkgzTGRDSjhSUW1IREJqSnJUdjcySEV1UEw0a2U3NkFXM3Nwb2QzZ1BFREJGRXl5ellpMS12dm00X2JBbXJ1TFl2TWJpZmRxdlg4bnNQSEgwc21TTjhNVlJHZ2lQVFl0aVB1Rzlpdy1kQy1hUnhxSDQ1RGRNVHFERGdfcjZQRUZjRXZvZktPb0NsNXhnY2Y0YTduMUVTYkNiNlZGRjFMMDZLYlU5WTBSRGNZNXZmVmoyUWFFUF9oZ1Q4TGJFYU5oZGQ4U2Z6MFNDTFJPb3k4bGpCNzhwR1VIQTNvUVhqM014Yi1WWGMxUQ?oc=5",
+   "published_utc": "2024-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Centre to Invest Rs 6,000 Crore in AI-Driven Smart Farming to Boost Crop Yields",
+   "source_name": "Tractor Junction",
+   "source_domain": "https://www.tractorjunction.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJaeURTVHZycGFyVjU5N1MyM0xvaEVUMjhUa2duNjRsdEtpYWVManpMaDYxemZKMl95VmhvUU4ycFkwLWFodHU1VVJzRGxXUmdLSU1yYkN1LTQ0bGtITmRHeU4tVzJ4ZndCWGp0cGNNbFpzVGFUWEVsTjJQZEwtVTN1QkJFODVMOGEzSi1LUW00SVNFakFOWldhZ3hpVUJQX2FkOUdDdTE5S1nSAbMBQVVfeXFMT3Y0bVM3OUlOU0NJNkwta25Ock9zd0phWGZzWWozS0RtMERIdXdwV2tfZWVBRllrRkRxLXY3U1F4R293eVEtSjZIMENtSk56LWZDdGVlbE85YXRLV25pNUlGR3JUTXk4UVpVZV96dkdzdXlISHpHVlVkQ051Z3NyWllKY0RSaEhlU2hKclpQVGlxUzBITHBoNHpVXzhsM1B4OTgyYlBPQVlDQVZhbWYtcGxvUDg?oc=5",
+   "published_utc": "2024-09-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "An Indian, not Columbus, found America, says Madhya Pradesh education minister",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjA5dnhubklhTTF5NEUtXzBkMlVjSVBLTjVQN1ktbmZFeWI4cmNOTEYtLWFTXzdsNVpxMWYtVUliNGNpY1NrOUNlcVhxVDFnTFVPMS0yRkpndE5wUGRNTG9FSW9XUW9xc1FZVENOWkVMdFlzdHltLVFManBjWUtVV2xFUXQyZWN3amhoMjlaZkkxNnlzYkc2SDZDYjRSOHdkTnlMSWpfU0VaR2dNUmFSX9IBtgFBVV95cUxNZUd3NXlSWkgwaTRpU19TRHVBX1hIYlVjdjJlSklEczJkbU5pOHpkR1JvQVhDZGU4Mk5MVWdyUzVuQkpVazZOZTJuRUxiVUxRb1hIQkctQVo1MlFOWlppZk9KeFFwcy1MdGpfRDc0QXRlaXBNVHVMaGdBR1YyN2E0OUI5akVvVFF3ZkcyX1RqYVB0ZlFtY1BKZUExeUFsLXl0Y3ozVVY2WXNDWVdWU2M4X3c1aUdwZw?oc=5",
+   "published_utc": "2024-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Farmer Grows 7-Foot-Long Bottle Gourd, Earns Rs 30 Lakh Annually",
+   "source_name": "Krishi Jagran",
+   "source_domain": "https://krishijagran.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0tBcVpac0lDaE90MV9NLVNITUpXTDRIMUNGcEh4cGdUaWF4ZkVQWU5mS0lVNmRudXo0UEc0S2Y4LXRseHI4d0doREYyUkR1WkJOU3VXVzJrcHQ5bWJHVnFJbE93SnZIdDJCOUdlODdaVV9rcU92YzRuaUNqUUtRY09PSzJaWGpYWXQzaEtITzB5cE5IbjVVVGtmMS1xUnI2VGRfdDdvR0dqVmR3RW1sV1hoeUZScGtteXfSAcIBQVVfeXFMTzI2T2R6MmVnaWMyMkRLU3BxMnhfZXllUk5IZ3JfdGZzSjVXQnVIZGplTmRIYlE0YmxfemRJbzdmOERzdU91bjdHTm02RzFBSlM0YXUyMmVVdF9FQXRHa25DWm91aWcwdUtuN19uTGhWTm9fU1l6NHNzVURDaHFzeW10Z0tPNE5OUXYyeUdONlV5RWgybHJkVUh4OXNibmNVM2dOMExJeW02QmR3ZjlzcklyUm51V1plMjZYajFhVS1lU3c?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Trainee Army Officers Robbed In Madhya Pradesh, Woman Friend Gang-Raped",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVJpeW8tRXNXQ1hkU2ZfOGJXV1pRcDBKdjZDd1lNUDZQVjU3X0dmV2JsX181WjhKRER2Q2NPRURZY211N2l4YUVBaC1hc2xXRWlwTDVGS000MS0zUkRlRUlRdXJtYXoybW1LcEpYVFdocnNzc1hhWHZSNzVZaUVoOWFseHdnZENWbjZ0dFN6SG1wcDVOMFNzaHFfSHlnMllkZ0N6VUh0VlHSAbABQVVfeXFMTTNTRWJTbGVfSHdFN0ZTLWk1Y2t6LUNFSk81V1FfdFdDRF9vRU92WkZlYlR4Q21ZM01fb1pSdUVhLTZjVU1iZVd5a0lDZ3g0cE5EQXl1cjNXNlI1S1JoU0R6OExRTVl5Vjg3R05iWU9uZFdfdUJwTkFWek9Md3VyYnM2Uy1wMnc0TnVhaDgxdHNVZjFKM2ZWYlBvaks3M1pYeVphS0dCeXprMm1OcU9MN0Q?oc=5",
+   "published_utc": "2024-09-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

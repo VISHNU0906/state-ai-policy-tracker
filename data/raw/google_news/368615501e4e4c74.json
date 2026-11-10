@@ -1,0 +1,45 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Despite crisis, AP government to pay affected farmers",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkdhdjZTcFRZU3lUbFJOc2ZiQnRmSmVkdDRtMGNMM2dQYjdtOFJoZWxYRkpzSWQ0VEFoblgyYVE1Zmo3bXN2ZTF6UVNnZzRxUDJBY1lpczM0QnQ4OU9adXNlMDJHeTVBZWFBOWFNT3VOUDJ1dk0ya0pCQ0JrbzB4dUxOci1Ic0lBRG5YVGhaXzdDczFkdGVBVnQ3cElCbmxFV3ZBbXZYaWJEY0s3RmtNa0pfb3RHdTZ1M0JF0gHAAUFVX3lxTFBzWGZUeWdPZVVya0d6UEcycVFBcFBfYk1pTDRXaEJpUk1mX3BIYnFtQlV6c0Juc1F2azZ1MFdEQVhIcFpDem1TaXZfUTlkeENkRjZEM2dLczd3dU96dWdRVWw2dlJjcUdQN3lReGZ4dUhQOXdSaWQwSnNkYnh6dWRoYVBNRjFsRnlBU0pkbHhPd2k1QzRySHRzMWFrcnJxQnRQVUZLbVJiS0VMUUs5bTB6ZS1sSjhVQTVXYVlFWDlicQ?oc=5",
+   "published_utc": "2022-02-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "17 Andhra Pradesh schools apply for Sainik School Society affiliation",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaWdYZXhDNU85S0p3ay01MUZiekdORDUxS0NMNFFLN2dPLU9XWTI5STRFT1VndGp1bnl4OFlKdC04ZzhLZzZCeHR5TzNwNE1Kbm5naGRWNFlDTVBQRi1CN052QWlESURIWWR0N0JndlZRcWVBQ0JrQXRZcldKSTZFVk5jcHlGZ1M1eEk0X01qck9wbl9uSFJ0dDJQNEQwWmZEUEdab1h5ZjFERGhFRmpSODR5NHNCNm00UERMdkxfeHJHS0ZGV3lPU0taSGs0SXZiNVAyQTdWTXJMeWN5TGfSAeMBQVVfeXFMUGZwREJTUGQ1ek01N1d3by1WWXZNcGEzdlN3bUE2dW12emRBaEo0d3p3T2thRnp1aXFXbHJqOVdPQzhidFpIUk1FbURIcENNanlqb01KdWFMWE9TckxNWGl0OUphUm1pQlZ2ODdnOS14aGRkUDlDWnhGbjZncnBfMVoya0xXYjE4UExUTDY4SjgzUjNndm5vQ2RYdV83RGVERlZEckZfNXRHM2VJb2RCbUQ1WVpTS1RyMTIxWFNkdHk1WkZfbjYwdC1BcERLNUZmclpHdU02R0lkcld1MkdmSUpNcVk?oc=5",
+   "published_utc": "2022-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra CM inaugurates 150 bedded eye hospital",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3hZVXJ1RFhOTVh6cHkxbklka3BGSW0yMTU2ZXBFR0VZUWdvUEUyT0JULWx6Q2tIWmdfU3lncmlJb3NVb3NXT1ZGY2VoeGRRQzFHN0pSYWpEMHV5c3JUNTQtb21JQTYxTWZrM29TT3AzTVNCanpITkxKeUJSeVQ0WnBVaWV6dmNHbEZUS3R1Zk5jUmxOQmYzN3YtR1dKZ0NIY3FtRG9CaWY4NXMyUkFydmlR0gG3AUFVX3lxTFBad3RlVzZSam9vV1BFN0hzNy1qUS1fMXNLYW5JYlltX3d5MUx3R2tXLWEwOUZVd3ZqWWdmaVVvNEVWekxHcm52b0ctblQtOGFtRHdCUHFfZHgxekpBM19Kd1lMWnpGb1o0djRWUjVEMkZjUVU2TTlFZm1IbjBRTk9EYnd4TTFKTUlSS3hHNU9hUWpFMEpZQkFqaTd1ZnBKamhTNjdMT1V0N1FmTV9wR254R0tTVEJVVQ?oc=5",
+   "published_utc": "2022-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt curtails Phase-2 works of Mana Badi: Nadu-Nedu project",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE1meXZnc2NOc1VKemNQVHBlZDVVYUlQaEctNV9RMGllYmhxV0w3VXdaR2ZRV3dnaFplV0FLYlFDazd4VkN2YkpiZUFhS2Y2ZW1QUlVTSmxZM3ZDVnhiSUN1Zjl1czVkOUhqQmI3dS0wdlNxa3NMYzViSENEYWxnWDQ3S1E2WlJ1cjRlbGloSzg4YmxjMVR1Q3BoZHdiTlBrbTVzeWFEZGtTUHlidWc3Z0JTYlM4UlZySmRDcGE3TmVlQU1UazRITmVJX1VmQURaSlHSAdcBQVVfeXFMUDBoelY1a01pcnduTDI5clBnMkc5aHAtU2xfak9nWXBzTGRRdUJUUWtUTVhYQzZjVFlrNjh5a3BmX2lUZUlvbllJbVo4WnMtV0ZOSTJMU19obFprNXZlSThGOThRMFpuU3k1d2FVbWJXOVdzSThwMzRBamtMTld6MU5RVkhYN2hTbjFTVzQ0cGVZZ3ZNREF4aGQxWnFqODFSZjUyWkc2MjNBOFV6Q0hNMHFma3d5NjVPdTNXb3JfeDVrMVlXZzdlVTF1SmptYWZ2aFRNTWg0dkk?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh: Mandatory transfer for medical professionals working under the AP Medical Policy Council",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdUtxWFNGMllZMnpqd1RyNVJ6cmdUbC0zelZpZUdNY1JqTjZDMGdzcHlWVnFpVVVjQllQcElRZ1dFaTNISkJSWkttQWRJalVHSm5Ndlg3RmRBekItTDRRYmc4VTFHTHRaMFpETUdSdThjVXFLekMzZGE5MEpZWlhXZjZkWWlEVVZLX3NQX2wyWHdsdHl1QzctUDZGZkl4Zy1jMVdxV1VJQlRtZ2cxUzdtblEtS1BIT1d0SmRITDlXZWJYTEZDVUJhNGdLUW1QdTFkOVJHdVJEUjgyRWI0dElGYkY1LVY3YVJFXzhyVUl4bkc5UTZQNmNoTDVVbzgtUdIBgwJBVV95cUxOYUpoY0QzWDZkcVVWakNCX25mZW5oNV9HREpRZVlTWFBXc243QlNvb3NOWW0yb0o2dmM0NlQtTElmU05mYWh2cDdLaktpSlpCWUhQYlZwZUticEF6eUNjc3EzS1ZVTFU1dTBQMGwzMVlUZEkwY2ZPUkVTd0N3N201YzdwSjMzTXhqMnFMZFlSRlBXb2U5UnBwQU9maDI4NE0yTUtBZThCVmlPTUdFLWZGcmdFN2lySEtrLVIwQkN2ek83eUhNeGJkZ0ZDbjlXZ0JkdjZ3TVhLbUxIMVdzVUFzcFhqRTZMRy10Um9PUmFYUDJ6RGw0MHRrZFAzYUF1OEJXVy1J?oc=5",
+   "published_utc": "2022-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

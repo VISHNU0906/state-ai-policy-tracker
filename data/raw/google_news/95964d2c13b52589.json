@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "MP: Indore police to hear people’s problems through artificial intelligence",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWZ4RDAxb1FDa193T0tSRVZla2dNc2U5aDNYam5XNmxoQ2JpenFvdVIzQUFhS3ZmUktna1pOMlNpcTVXN09GVURGQTc3bXA3b3h5WXdzbHllSVlaRDRTRTlCY2R4eHpYQ25SNnJ2SUJkVHBFejhDLVpCLS0yaGxvMUVDSUM5c0dOSi03RG5XSHJKaVprcEJNWkdpeUU1cUR0SWlrUUNPQy1jVlQyaTZUdkxzallnVFdDOUdIM1RPdjhaeURZSFh2WTRocTVOQkQwTVZz?oc=5",
+   "published_utc": "2023-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh govt forms panel to probe ‘teacher-less’ BEd college",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOTFZYm1KaHNKWHNuUHZNeG1kZjg3WnVNTTg3MFU3Sk1tUzdocnpJM2VjeWRZRDBibEs0ajVnVG1jNHhPVkpoYnZMX3o5N0FhVFgtU3VUbWZyUVVBUnBuSkE5SHJqbnpDbk5uakNLTUdkTENOVnZiUzVqdU12aTEzblQxSmRlYW1QLTBIT2sxV1NfcVpqYXJTOW9RR3hRZ2RNZ3VjY1B3X0ZkTWtZOFZ3QldSVU01bGZLMHBMYzczVzROTnJyT3ZadkFHd29BNGlMYnfSAdYBQVVfeXFMT00zTERiSkthaV9KSTdEUkNFZldDUnRvTnJKWnZGalZNbWl0RE12eTI1b0s1Wk82WkZHaUJDV3FibFRrUUh5RzJTUnh5dk5BdWlqMlFzNmc5UGJRUldBYmhvQ3NMSHpqNWVva3Y3RzNadENyNV90dnM2Zm1HWkJpY1hLQVc2WmtKZzN4RDhvVGwzUDJRTmQtUkQ3YWstcDFTekdlTVlSNUNLZldRbmRIeHZ0bVVsRXQ2R3I4Y2NzbTFXTmlWRlZIX3FjZW5DRFEyNTFZNVR2QQ?oc=5",
+   "published_utc": "2023-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh state to reserve 20% plots for SC/ST entrepreneurs",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVNINWNYQ0FRbXN3NFRVa2ppUXFmVm13dDYxS0UzYWtxS3lCNk1NWjNsZC1Cdjk5b2s1dWg5U2tsTk9TWXpqbW5FS0haX0lHdUxQTUhMc2pRRERoZy1JN1ZPTHV2UXRMZG1iTnl0dVZwaTJ3MHJBN1l4Z0VhaFBlR1pOTzZyXzNvSUhGTktFTUxTVm1CTWFXY1ZOdURZYjRxWktzeGxBemJRTi1nNnRyRldEV2F3dmlOZ1JLNWo1T3FrcVBkYWVXcGhWWdIB0AFBVV95cUxQMEVOdm9meEpud3NBYTl2MTZWOXZPMi1QeEduQ2FYaEZETmRHb1dSY3U3RjJtNF9hbGVobnI3NVhrYlkxbU0zTDE4MHI1VlhmOUpPeUhMMks0WEVmaEF2b255U05ScGdFN1dxMEM4dHJZUlFMV3JHaDlLVE52N2RVSF9nWl9YdkRsUGJTX0t2cnppaW52N0hLN0lSbUVQQ0lRX2xZQ0RQQldsQVNhWC1qQWxaS29YMVdpUzFUWlFfbUdremkybF9WdjJaak9velBY?oc=5",
+   "published_utc": "2023-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 6,000 To Farmers under Mukhyamantri Kisan Kalyan Yojana.",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUtBeHBlSC1qdVdIX1VOMm5Bel8yMWE2Q0dKLUtndTVNZnhDVFd5TWRxVklJRkVrM2RYZEdTQjFWOGEwQmwtYmZiVDFZVUswYWpPS2o3Y3NyTTZiSW1yM1R6MlR0T3FPbnYtSXo3aE1HQnpIaHJ4QXE4N0g0M0V1MXQ5alQ5WHZvd2JmSExIcUt5YmpU?oc=5",
+   "published_utc": "2023-08-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"As Per Rules\": Madhya Pradesh Cop On Viral Video Of Woman Dragged By Hair",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT3VGc3VGNDdSYi05RkJWWHprVy1wQk1UOVFxYTNEYWVQaXVfTm0xVFRVSVY4cHdhQkpmS0Y3djBkQUp4YlItXzZDTVB0UFRIbzA1Sm1BNTFNYU85WHlXSU5JMFdROG9FS0NYR2F5LWViT1hSN1BDVzdGYVNkaUNES0tHNVk2UndJWDNsOGVmNFBwcFhtN1Z6M3BsaW83cTItYXkwckNRelRITHQ1LWhmYnlSNmZVQnlTQzVlVEdKaTY4ejdhUDlDcTA1Sng1al9IMnk1N2FLWHDSAeABQVVfeXFMTk50azhQQVBKTHlORzVUbDlqc3BiT2JKaGpZVjI1UDlzT3dvejhYYlViM3UwTVRBaG5mSm54M2k0dU1sRHdfTklTZXVRaTRGcHNScERnb01KZ3VJeHRJNG0wQ3VvcVVUVVo3eHFZWlZKNTlUbUFpYy1hX1FKcnE2dk5zUUdFdUhjNFhpMEZPbGxVYkVzMDZ2Ym9tTU54bHNlektwRDJQZnBqaHhDUDVaTi05OHIzdHk1eWpkQnBjcmtHdkQzMzFLRGIxUEZWc1dTSTlrV2EyM1J6NjNlU3BsN1g?oc=5",
+   "published_utc": "2023-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Terrifying moment car falls into India waterfall pool",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MQVg2d0ZhZmRuV1lnSHBoWW9jT0pmbXFITzFFTjctV2thNE9oaFNMcm9kaUVZbzIxRl9kY1RRUEVON01UQzZQLWF1cDBWdXB0Q3llSGtRcGFSTjl3U3BjckVhYw?oc=5",
+   "published_utc": "2023-08-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ATS Busts Naxal Supply Line in Madhya Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU5CNmduMlhFNVBHcGRYX2pyMi1rcDMxemZSZVNkRTlmN3lCQ1FFUlB1WDlaY1dPX2VwbzlDQ2Q3OEVFVm54TW1mdnZPQzRZeEo1OGpRejBoZWNWZGhQYUhTckR3S0pURU0zZ05MSkJnanBpMDNzei1GeHhTdG5hQ3h1NWhoTjYxVnRYQUVwNDJMS2wxZnlaN29OejlCazBQd3NrU203M2o0NmlrbDFDR25UcEo2UzZlYm400gHAAUFVX3lxTE5XRGdaNFpJNmdXWmItQklxZmxTdjY2eE82a1VVbWd1dmI0bkptYmRLUHk1aE5LOFk4enM1WmQ2NFpobHA5Q19LN2d3V2FHNE1iVVZDRDA3eFIzbVRYTWtkWWdWNmZ2czFVZVMxN0Y5T0t4U0NqV1ZEa0g2SUVlSHRkekl3SUdXeHA3QVZYWGlrWUJVRWc1UmdBdFl4VlFjTmdEeWxMRGFZSjlHOUtjSHYySG9EazEwZmVza09ldzR1aw?oc=5",
+   "published_utc": "2023-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Farmers in Madhya Pradesh aspire to become drone pilots",
+   "source_name": "Maritime Gateway",
+   "source_domain": "https://www.maritimegateway.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUp3QlA4YmQ1VG1WOHZ3Z19PcmdEWkxrQ0FwOXd6aTFGRUk3aDBleERYb3hDU1cteUdwN1BLcHZhUHFocXRuRXlMWXlfSmNMX1NUZ0ZaVldQOGN4LWRCRXV5bE5jUU9aYjZnLXpQV3hCQkdqaDRWazUzcExwVnU2REZKdTFoc05SVHJjNEF0eWxLdw?oc=5",
+   "published_utc": "2023-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Rape Convict Released From Jail Commits Same Crime",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0lsaU9ZR1EzNWhobTB2OWR4dU1sVDIyS0JIanViRDVrWlNTdFJJRG1ROXEySW90aDhNYklBUjAxQnNwTF91SUoyWlNiY2R2ekd6bmdHTHRvUllrZ3N0T0gzbjRWbzlOdnZNYU5JU1pPc0RQVnIzazd1eXdsX0NNRkhRY25oMG5lYnA0ZDJvZXRkZlJGTF9fTXY0OFdZU2VsMWNlVWJUX25GMDM2Q1picEgwOEFLWGFtZF9ZclE2S0UtT0RP0gHMAUFVX3lxTE5fcFJlSHRHZE9EanNkU0tBVDFrTWNqXzVYLXlmV3hybkRpQU9UR191U1VtdXRSeTZiX1hLQ1c2RnA5WW13REZHY1FuRDBvQ2J3RS1DWjlYN2tNalVMbFYtRUdxZ2pLZmtUVEkwZkJlbFJxSjFvUXJKeF95WnEtS3hjVmVMT0d4aWFuRko3emtIRUhwTnNjbnladHBJQ2J2MmVxZVdtaXlQQnR3UC1HM2hCVWpkWnB5c1pjTEZwSGRMVkM1UExpOE0wS2dBTg?oc=5",
+   "published_utc": "2023-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Deteriorating Condition Of Indore-Ahmedabad Highway, Alarming Concern For Drivers & Commuters",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUE1IMGNjWVdMQ0x6VXJ2b3NPaDBLbDlXZ2xpVzc0bjlRM3FlTFZ5aXl2Z0p0dFp4WlFuRGtQNmxYekxzUUNOcUlZQXZnRWItb0RKckMwN29ZUUpDbUhmTjRkd3BmalliSlN1aDdETFFfOG56VFRoaDRWVF9iam9pRERON1h1SG9zVmU1dFlwcWdEMnJpU0pWbHloTmlfajNVelBtVmNNcWdUNEx3ajV6bWhBdTc0TlBVTTVwZm1zTGtBTU5mUUI1QmVFb0hBdkJ6cE81QzFUQmQyNlBt0gHiAUFVX3lxTE44ZnN2MjVpSjdxem84YVFtbV9CbTFKZzFhc2tieElrWmRrTDF4cHlSYzJRZU5fZWtER1lQUGc2cHoyN2FzcTdSSVlQWDctNFRLOTR2elBIWE9BbDVRdXZ6WDBkT3pBeVVmS2FYbWZyY01JVVlZMHlvMURSbmRXTGZHMnZHbTZmTHFsa1h3am9NOXR3Z0dsRHRaUUpZWnlNYmdtcnBOOXZPOWRHaGp1SWMyNHNpd2xUSlBGRXlfM01Ga1drNnM4TjBYZHlLbG5Jal95Z3RNbEdoT1ZaWHYtM2Y3Qnc?oc=5",
+   "published_utc": "2023-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

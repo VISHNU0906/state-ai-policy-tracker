@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "AI: The future of precision agriculture",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDE1MVNuaXVBMzdxekxOZTRHWW9Edm1ybGR1YVNUNDR3Wms1QmVVNnBicEdhcG9oNTRaOTc5Y0dweW5jVTFRWGlnVmJIdFlQazhlVnQ3Rkg4WmdMQ1dYTVE0MFBrd1Jzc3RmWUZqWkcxSWktcWhqMDI4ZkxHSlgxYk0tckdRT1JGN2fSAZcBQVVfeXFMTTh6YTQtZExCc3pwMDRiM2ppeXRDb3N6Y1FlVUkyQXdneXJKZlM0c1JNczJrLTIwVWo4LXpOWm9qVllGeURtWE1jTGFudG1Ia1JDSWFsXy1uVnB2MWZKejdoQkNBWjNoVm00SlRwelp3cVY0dVRDLTEwS2NFblZ0aXhnZW5jZmFBcVFDRUg0bGtVVG0taWJRNA?oc=5",
+   "published_utc": "2023-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kumaragurubaran named as Tamil Nadu’s new School Education Secretary",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkZDNWpkQTBmOHJ1cU1YR2lZYmZ0RWhkSW9CaDdQQ2YyRnhRTGdXYkdWby1kSGJHd3BMWE9iMEhnYzZYZzJVYldmQlJKSC1yRWFza2h2eXV3eThZNXg1NnlXdi1tY0FWVjRxcE9PSnRXYW9ndHZxQ0ppVk5mOWJjTFkwYmhxT0cyWEpWbllHWUN1LVBNdXRLNlYtNVFnaW1EcDJsdE1tUXh6ZXBUZzYzY0w5OTdvZ2otRkJhcHlTa0RkM0c3YTZ6cTRVYTFJOHpSb21n0gHaAUFVX3lxTE4zYVlITWxBVU85OU11VzNFQzdTOURvemJpVTNMMXdocDh4TExaQlJHVEMwYWlaS053N0prNTk4d3lsWXVDSmVtc3lVUFVZZG1Lc1NHM0ZjaTNWdFR0S2cxNnJiZGpUYjdxQlg5bjBvcU9JVHRBOGFScVhNS3BZR1ZjdjNqZ2hJSG9YR3VYRGtqbVV2T3RRN1VhWlQ4UHJudWFyWmE2U0dCNnVxYkJscndmTkhORnZyYTZwTkw2VEZJU0tBRkVySWM1Z3F2dW1ITXc3MDI2TzVvZEVR?oc=5",
+   "published_utc": "2023-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Forest Department Uses AI To Track Elephant Movements",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVJGalNKdWg3d1dERGVGazFERkc4MDFfOHRUTzJwQ2k0M2YxS0tPYlF1a1dXT29OdzFlaWlGRmtMYnJXc2NfNnBQSFRxS0FfRkZIWW9Ga2lTcHBGVWFTbFZldUp6aS02WTFlVzNxcjRtWkJWanVYYTVoZ20xTHVGcjhxcmdvMnFnXzhzLVJOSUt1eml1SERLUUhVbWZhT2tFdXgxT1Vmc9IBrwFBVV95cUxPcXBLaW5GcG5iaklfMGQtaG9DQU5qeXdTbDVsZFBBaGFqcUt6NGRPMXhWSUtycGR2elpISm5yX3AzOUFWckJyLWhqb01yUGlyYlNqOWJuenRaZ2hkZmhfSkNLeC01TjFUVGwtbTZDVDE4QkIweE5GUDRLUEdwaUU3dGJ0c05RQUplc3JYWG5rSzJKakx4eERYd21VcnVaaTZqMWRQcjQwQjYzRFE0VVp3?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Senthil Balaji Admitted To Stanley Medical College Hospital In Chennai",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk02Y3VXcU5JcDF6NDRpZWpBVjFIVjFHbjJDZDFRZmNFYm1VeERmTlJ1VWluR1FnQlNCR1Y2UVJyN1k0cTVxcmlMZ3M0VUVqRG1FODRxWGRwLTNNVWhITUswUDljSktqWTJVbGxpR0Q5MUlLS1VfcFVweldvUkl0Tm1NVk5Pdi1OUHlRLWdtSUJiMVBxdFNzY2pSNG5PS3BibDlQYUpGZ1BEdHYwNnZhNHNkNXdOSDTSAccBQVVfeXFMTVVjTnBrVzFmSGRSRkVtUGtsajd4NjlMbjRLQkZ3UlFNaVByNm12OVZEV0h0Mk1wQWZWSGhBOWpzY0pteHZ5ZU5Hclk3TDROajFpSXIyVnZWd1hqSEJsajFRWko2UlRSQWljRndkT3paa29LeEdYRElMbTFxbEFHUE5CekkwQmxQMkZzb19IMUhzOXdQd2VQVjVhQVI5VG5PVWRnQTE4QTJBUUFNS3g2S0hXSDlZdEpjcG1tSzhoZkZQNUpIM3FQYw?oc=5",
+   "published_utc": "2023-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Skilled manpower makes Tamil Nadu top destination for investors: TRB Rajaa",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLWRPYXNYTHRMVUp4UXgtVU51NXBJN0lnanRSZHRpWHAzVEpJRHEyUFg1LUN2UGlvTWwwakhDNXFqaVBSQnQ5SmVydG1naUNvX21pTENJQUNfalFlVkZ1UElocl9kY0FGUDlZQ0FXU05OWmxDOGozUG8zeVg4cVpEZHp1VlRWVFR5eTZvVTh1WjhjcnhBX0Z5dVl1R2dPbklSdldSYjZnWGRFYVJyVmpQZGlkbUhuazJDaEV4ZHh6OFFJb3NlMkdndm40VTBrVE9Wc2lF0gHYAUFVX3lxTE1JQktCaTEyYWtqUERabFloNVg4ODFRNmxvcHYxME53UzNUQnlYTm0xZnpDaVlqMy1SNWZGaE5YeDM4NTRGODAwMFpyanpqWnpaSndqLVR0X0MtTGNXVG9ySDBlQWJSRngxN2JXaUhLMmdmQjFRdlNIOGozUDhyR3lHV0tkaGpCMnJQSWhnSnQ2SmFJeWRsYUxGSU1iZTUxcGY1Zy0zNWtYVmFHQ3R5N3dqWGtFUjd0TDNJQW0zMF9lcDdXVzQ0T0hYeEwtT3dUSnlEQVp6RS1xWg?oc=5",
+   "published_utc": "2023-10-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu cop, who disrespected Indian flag, transferred: What happened",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNENpMXR4RGQtYzFoUTh4TGJlb2I5ZXdwS2pqcWZUdkt1V0hQaHFjWUp3UHdnN0ZQclRPWjRtS2dXWEtyN2VVWUxkYU8xWUVOQTBRYjJxaDBIUjNiWk5USlgzcVRTbzNveVIxN2xKa0xqb3gyNjY4ekJ6a090N0ZxYk50VUZDRWlLOTl4UHdlNlAzaWpaOFhGVFJ3?oc=5",
+   "published_utc": "2023-10-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UAE raffle draw: Tamil Nadu man wins jackpot, will get monthly ₹5.5 lakh for 25 years",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZUxHdlBKeDc4eTNGQWhEXzA3bkh2WjJnYWdCRklLM2YzcTdVclo4YTlDd3hPTzhqUjFDOXE1cGpSOWFScVlGOEp1T0dlQXRwUnFxMEtyWmVsWDlMY2hiS3FPczFFRXFOM0V5NXI2a2E1emhRNmY2S2tqZk43ZmlQa0VYYWExZjNxTC1uSlI0Z2MwVXplbm1BNjQyQ0pRbFZUZ09EeHg2WFRZc2JvX1llUFBlSVZnNUpPUGY3S3BYeFBzYU5TdDZGa3dJNGd1ejJOVk1rZ1czNXjSAd4BQVVfeXFMT2N5TURmWG5RenplMThzS3pTeGZPSWg3QTZhemFaMzZnQXZkZFRxdmRfYVZqdnRfSDluR1hpNnpfWHFjeVVyWmFzekg3N2R6ZmczWHNqQ2xMc3ljQ25kYUU3SEY3NkQ4YTNhQlE1c2x3Nmc4b2p0S1RoTG1heDViUjJLNUZ6LXZucExYR1NMS3cxMDRSem5lMk5zVkJMdTFPakdGMllSam14RTFEVU5rLXF4b3ctNlh5cmFmZFBiZGdGQUg4M2lYa3lObGg1ZnQ1Y3V5M1RhVDVDcFM3ek1n?oc=5",
+   "published_utc": "2023-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN Govt hikes procurement price for high fat milk",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDlpS3lFSlBnd2pyTXpCVktyUWxydGlHdm0yYjh1RzVFTXVjOWYxQ3hMQURTeXNZcDYzUmxVb2F0VFU2NjZXT3FKT2ticjdZVUlqOUZzUTYzcVlIb2VXOFZraFhqbnI5ZWZlb0hZaENWOUtDT0prVFFqMUJ3dEJUZzlWQVBDVXJFRk54a2FSQXZHX0UzVXVaZdIBpgFBVV95cUxNTmdTZWVPWTBoREw5aTg0Yl9qazBOeHl5RnY1TEpkQzhQSVFmbXV2TVFqam5iSU1ZWDM3LURpVTNBSW1CTUh5NU5MdXljRFlBYmwycW9oY1NNMDMwZXRKNU4xQ2xKZlE5MzNYSmpCX2hMTjREbTBVWFhDU21ESDljWmo1UGFuSFZXcDZPX091ZlFYMUN4ZmcyY2c3blAwZEJiR2FwVGVR?oc=5",
+   "published_utc": "2023-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s first AI-based early warning system getting ready for pachyderm safety near Coimbatore",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOM1FIMHhwcll3a1ZrUXEzWDlkM0hKM01pMXRJRE9fTXRseHg0UTZ0NHMxemFOSWpCRmRLWUc0dzBBSDVRVTZaUFlZRUdhZXFFQzJGQkx2THJrTm9oR3JpS3BIMXhOZ19USC01ZmpVdGpUSGNCbHQtWXhUb1VldkdnbG9zbzhnQnRJMFY1T0ZPTjlOdl9GZ1YyOC1DWDJfQVo0NHlzYTZhTC1JN09nTnF0bjBGRGh1YkZCWWtPSDh6eVB2a0tMaW4yZ2dtWTk0dkkzeWpvN2o2T003QTZsSFV5MXVXczlXLThlU1JidlpoZENXUEhMVU5USGxjQmlobF9xaFdPSTZlajl4dW050gGTAkFVX3lxTE1PaVNPVGg5MlFqakU5aklPU2o5Sm9JY0FUQkd2MHFMakZZZzdNdVN4M0JXZktIaHNVeDZNdFQxN0pHXzBPOW1ZN1dhRm5ZMERJNGtCYnMyTndfZVo4ZnhFdWw4YmRDQkNrNDBiN1Q5eWhOUFh5UEtjZHIwYy1TTGw2S3lzbVZ2c0RkZ3RoQ3lPUl9lVHM3cWRhS3p6ejNhOWVYSnZ3VzRIaHFYd2pTN3BjT2w3a3RoRkxldW84Wko4ZmxNLUlVWVM1TVN5TUpBdXV3aXdxSlpwbGhSR3dWaFNXMGFRNlZvZkdWYzVfRFZLWDN5WGswMUVuWDRaNlNFM0tFZzYyZnFnSEo4WHZCR2ROQmMw?oc=5",
+   "published_utc": "2023-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Government Transport Corporation (Villupuram) Ltd Announces Special Bus Services for Ayudha Puja",
+   "source_name": "LiveChennai",
+   "source_domain": "https://www.livechennai.com",
+   "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mTXAwZ1FYTmUwNHpwSGZJN0JaUE5uSzZVZXIwaHZzN0NYbHk0LUY5WHBMczliN0FIbC1pYWp2WWUxeFZWMGRLcmVMMTJWbGFDdW5sdklpcmZpcUF4Q2syRnYtMmlJN2YxODJBY3RWQQ?oc=5",
+   "published_utc": "2023-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

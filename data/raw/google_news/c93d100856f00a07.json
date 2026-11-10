@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-10-01 before:2022-11-01",
+ "items": [
+  {
+   "title": "Cabinet expansion soon in Maharashtra, says Deputy CM Devendra Fadnavis",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbjhVc2pGMS1vSUhKQ2oxaENmRm9oYnc4NVVfR3pjazN1b09yODl5aW9LajNpUUhFbDQzNGpTU0lSQUo1YmpIV2k0YW91X2MxVkdVQkFvWEdsZ1psMHd6SFpZWC1LUHIzbzdia1BQaHRnMDdOamZlRTVRaUM1M2NvS3BLZGoxeWRxVV95VDR2SFY1SjRLRGUzTzJfMkJNQU1SUzZoY24wUmg5SXk2UGfSAbQBQVVfeXFMTWlvUldIR1dsdTNhSVFwS3NCYzdrLVRCTDFHbjFfUmhnWVNRZlprc3Vkbmo4dUZfMElWbG91OGVrVERfRFl1aG1GVjZXa01fdl9PcGk0UVplTFhuYzlRYkx0Z0d2M0ZPOThTNUJQMDlRb0RHV254ckExdHRaTHdrLXZwSkJpMHpMdnctT1lWVWRUZmoxTXZ6LXZwSTNzMkdFMjRwT2FBMWVYQUdDZ1JPU25jRVVL?oc=5",
+   "published_utc": "2022-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No hello, only 'Vande Matram' for calls: Maharashtra government tells officials",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ0tNVmZhN1pRdE54Szdwc25zaV9TeEVVc1R5ZmdMYWRkTXdzSEcyblRpRlgyNWQ3WUt1emM2Y0VzV3pRb1ZpZ1V5eVJIYkFtSTVrMzRXTDhmTWlCN184YTdBdWVmem9oa1didkNxWksxazdXTDlaLUozZkZkZS1yNDlIdXdIaDY0ZmVZR3lzM2NQWWk5aFhNNTROWGJJVFhfM3BPalpTMTlvQUcwUmtCSW5YZnN4T29lWkUxUzBKQ0ZZNmh6X2fSAcsBQVVfeXFMUEZBNFRsWkJhWWJBNmFCUWVJTGR1ekdLeWprY1ludGhNSkxxY0cyS0JkN2ZaWkpZYmlwMmpqdS1zN1I1YTVhYlcwOGROc01FVHp4NENyZS1XSmVEOUtEa3g2X05OT3Mwa0ttSGZXemhEZjNMVmRKMW1ibGkzNDY4VWU3Nmd0YUN3Wkd1X1VMZUJ2R2U3TzBhTlVnSEptMUFJcy1wQndzbkVDSkpQemhmRVFadXRlZDcycmNMTVpXQjZSMUNybzdIcUh3TWs?oc=5",
+   "published_utc": "2022-10-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra launches STEMI programme to address epidemic of heart attacks",
+   "source_name": "ET HealthWorld",
+   "source_domain": "https://health.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSW83WUV6S0NkeWZtOWxyWXBlN1JlWUFoUlBBdll2c1p6bEFTcUlaOVlzTGUzUHhJdlAyS2F6TnZSZk8xRTY3ZU43Z25QRTZFa04wOFNqdkt4OXJhUjZvYU5HcVNXWVFuSzVGUmg2TXRaRFB2eTZGU1doYXZsU09YajJJQmVxeFh3cnZ5anNGU09NdG42b1k4d0lGOG9ESzlFbFhkY1BZTmJLdC1OZlRaVjFmYll4LThYMl9QbnpqQXAxdjZ4N2t3M1FLd1d2ZkdHbDY1NtIB2gFBVV95cUxQU0hwbFBIU1o3ZmFQbkhjOU1ZOHRDUUl2anpFbzVPLUVfNHl2eXcyQnpTWTU0TUltbGFvdWgxN3NKWElUUkR1VjZGWmN6ZVpxTHlJMkhtN0NVa0RlUllZYjhVRVNWaFlUdjF2a0FiU1F5VDBnekljMFp1cDJua1NxdlV6bkhtTHB2UWdpU0trZktHZDliWXBDdHoyT2hMQThtU1dISk5uX05YRC1ib3lSOUdLNERfV1dkR0sxLXNUWEtJZV8zMy03bHktSFNpMkltRklyNVVNNVdkQQ?oc=5",
+   "published_utc": "2022-10-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Arrested For Stealing Phone Of Ex Maharashtra Chief Minister SK Shinde",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejBteFBYM3YyZTM1ZzVuNTJxVC02OWF4OENmNmloNkxtZlhuVEktMlpVY1hEbnlOdG1CM3RDRV91LXkwWmR5SU0yQ3d6dXpwWDNpQnY2bzNoRkN6RmQ0dVFXcks0SUVydzNmd010UWZWTXpudXZCY0pQT203RDlvRDNuQUNVTWhaa09ScG9sbktVWE0wSmFZZWRpQjFtSlpIWmhYUC1KeS05c2hKcVUw?oc=5",
+   "published_utc": "2022-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to fill up 75,000 non-MPSC vacancies, set up Niti Aayog-like body",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVFGZGRXdkZuVUlmczJCVVJ3UVlQMkxlY24tM21tRlc4bVNpZHhrR241Tk4xdHB1anVnYTVRdTdVVjlWRWJ0T3h0Yk1GdDUwZWFnSFdjN3hCanhjc082OWpnOFVkcXRQamFXNXBxYWc2U3Fxd0NWWXBPd3dHSkpHZkxoa0xvSlp4ZlZfZjdJVmt6dkdlcVY5OGhfSnE2c0Q1d0wxQUJ3Wlc3dG41MkFrV2ZVZ2RTUnFRWGtXMDAycDF6ZVhRZGE4anBsTElXOGdmcW9aONIB2gFBVV95cUxQcEpjTUl4MkltVHZDYzIta1pmR2taVk9vajJ2cDlrMFdqQ0twSmhYSzIxY0FSZnUySk9hejVNejkwY2M0Zlh4bDNVN0FZZkNDbVoyYVFabl9jQlhVNTV4VjVvNGphdl81NUZ0OGNmRC14dlpsRDBEUkpkUUFKNF8yNlQxWi1xMHpIcURKLWYtNllxTEFRUlo2RG1GOXplX2pQQUVmc3RwdWJyYjZQTXlsdXRHNzRLLTQ3Ym9kUlgxVW9SZDhsdnpfVmpIbFdSelJjcEJkOTRvbmw5UQ?oc=5",
+   "published_utc": "2022-10-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt employees to get October salary before Diwali",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHh5NmxFaE91NkswZHhueEs5ekJTZmVQdEdOSlFsRWVFMUpTVzdtaEFVZjNpZWNzWWlwR21TcF96bWVxM2UxeGZkQ2M5eFcyTEh0TW9leVJJck1jUGN1blFfck5iTUVTQW9VdC1iZUlCNFdtcC1PSHRDclBsbzcxLURvdDVGVjc2Vml6bUNkOFVReENnRlI5c0xFckg3YlJV0gGnAUFVX3lxTE5iTmlnWnZBb0l2TFJlbElORGtWVS1wMUtfeElBWDVubjZJVUtPNDlLMnNoWl91VFcxV1hOMHpvU09ETmVYaWlyNGFpMHhGQ0lxWGMyRkRFaFNXSFNjVC1KWGYwQXhXYkhoTGdoM3lpS1VvTjE0bGlWSUVFbEd6MnVoV2g2alNTSDJ2dVoxVnBjN3Fpeko4T2lRRVluU3hZN3NwYWRHNXBV?oc=5",
+   "published_utc": "2022-10-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "On Salman Khan's Security After Threat, Maharashtra Government's Big Move",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTFxM29OeXZMbUNzbjVGeGNfUkFKaFRSM3FVSHJGZ2VFSUdwZmt1Q0syMUhNQ3pkd0FYTTR4eS02c1VMcVlaaHFmZ0xUSUhBMi1VeVVPSERZc2l0eV9ta0hjYnllVmhTTUdfUERNMkpHOW1WT0pmMlFhU1d5cXUwVVI4TVRqREVkdGhjYm9LcTR1N3lTbmM3dEJvLXRpVm1hNHZhX3hPTEQ1R1NSRHhNZ2llNUNmbVhuZnVGS0lmRDcxWXBTd2twTkJPc201YzBYR19r?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt committed to develop Neral-Karjat, Panvel, NAINA as Mumbai 3.0: Deputy CM Fadnavis",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOGRjeVNwMzBvZUR2SEdyR0pWRzJMVXd2eUlkVl9QNGVBVjRFMi1HU1NPMmxXT1Zfa09sLV80SlQ0RWl2cTlkUjVFemJtT3U0RWxOVXVvaXVjbG9KempPV0dUNW9jTGl0S0V3OUo2enQ0bWlSNGRnaG5mM2FuVGNvOFFjcDJmcEUxN2ZDQ1NmQVhOV0tIR2RWYU1qLTJWLXZBdzRsQW9Hb3BmSGM5RnNOYWZ0RlNQRGpwNGpJZkxIbFZGU3l3TmhfZklibnVoMmlzMklsTkhTdWFTVHdPYVpfZTB6aDlZRm9tb0swMkkwbXVFaGVDNElDcXVrdlFPRVptUUphdzljemNSc0oySkt4SG5iVklWZlhv0gGeAkFVX3lxTFBvVE5tMHJXSjNLNnpmWjVpR1k0cWp0UHFOZHJyalVpbWJzOF9KcTFLbHY1VDQ0aVRwbVBsZ0d5Y3U3bWpwS05NWVFVUld0amw4dnpKb3VqSkhEdVVIOER2WWFic0gwLU00cVFMNHlUWHFXMVEzeUJyRFhzUUNBa2RTaVJfSHNBbXF5Q25NMm5MMEJhbHdyZ0RuVlE2cTRoTG1EQWlSVjFnaHpiRXBQUG9Xd3B6QVk5RWt4UDVyYmhtMmxZRktaVHFfSFdpWDM1TjdsQjVXVlVzbGF2TnZJWVNaNEVmeWxHQWZ2MU1sZDdjcWMzY1VmTG1GSTQxYnFYcjh5QmF5aVFuTnJDZWRZX2V2X3dWbEktbk5hc0JKV3c?oc=5",
+   "published_utc": "2022-10-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Riteish and Genelia Deshmukh in trouble? Maharashtra govt to probe alleged ‘out-of-turn’ land allotment to",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa0JlV0ZUa0NhRWpsWDJEZEVwd2x0U0FQbnhQMm8zWWxSLUItZG1VdlQ5Ui16ek40Mjl4MjREcGV5Zm1KSHRaZlJpckZOQVM5NVdhSGQ3a1pTejNYdlBlWjRZWl9JcU5ULUd6V09WMXFBRVdRUEdfNHpLR1pCa1BHSEc2cWU3RVg1dk1DdnBuU0YtZWVsZDlrQ2FLZWpMZmFmWHVPTVpUTVdubDZXZm9hTmNicWRLdV93c2RWQ2lScEZBQzBPVmFRRjViRmM5YXVjRi1JNHhlMjlKNzJzYnNRRHdHMHRkZUJ2WVh0dkRPcXBZdUxNSTRBS29vdnJJTDhiWmJrd1Mwd0RKVDFTQWNkdVRUd3HSAZoCQVVfeXFMUEhsVlAyUFZaLWI5LW1KREs0S0kySGF4bzBUaTJNa3NaM2p5V1paN3FPRzlaQzZ1X0p0d0tiMWcxRzhvMHVvTnUwenZYZU9GRS14Q2wzeVQ5eEZGYUNjU2lXbERfVFl6NGZ5VlNyQmhDSUdfOE5Zbkp5UkpSdXZmdG8xVTRYazhBUTBPc2UtU200Qngyaldfb1c2NDJmTEtJeDBrZW1WVWxGLUU0cDN3MzVWWkw2NzlVQXBnaTdfUG9hQm5RZ1NFemVGc0RvMnlRbi1WWU5tZG9tT1A5VWRTNXkxQ1Jhend0dlNnRnVpZVRncmtwQWZzYjB5bkxsVkZDMmVURERqcUZVMndVcEpnLWx1bnZSX2RSR2Nn?oc=5",
+   "published_utc": "2022-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra state government sends personalized AI Diwali video messages to over 4 crore people",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkg2Um5Xb0hFTk56OUctcGNBS2lYOWc2TlVkNXU5ZFNYZlVVS2JvX0NrU3BWLTI1bmNOeG5kVzd2dEp6MlhyVTRwNDNDb0s1RmtJVGhJZ3djdnpVVVJJVDR5TXRVa3pZMkxzVnJiZGRKX0lyQWJ0Vk4zc0Y2SEs0MDlnb3Q1bG1DcnlUMU9mOWdyTGl3aVhIa0hyLWxPRDYyU3pDN1Y3R01PbHF6NDFZQjZ3ZVBKMTRLQ3Y4Y2F2TjVhTGh4eERCTzBnOFVud9IB0wFBVV95cUxQZENkY1JBMEZ0aWd5X2phOG5TbEh5VkRfWWcxVTdQQkRMT0JoeUNWcld6ZU50U2RENHdQaTBscEJFUUlOdU9XV3pmc29yanRoeklhN2lqNktYSUN2NDBtU3A4bEowX2hfMzctWkYzNDhKSnVyUHdVN1lXMzF4Uy14R1hhUUktaWJUaEEwMWoxdXV3Vk9ibW1Zd2JCQ1NVbWxwWmd6d3JxWkdIalppY0NLMS0xcDd3VmJQQm5SMDZVNkVmUFhUQUw3Ym5kTEZ3dXVlbjdr?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

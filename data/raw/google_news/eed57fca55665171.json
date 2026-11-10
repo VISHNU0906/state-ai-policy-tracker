@@ -1,0 +1,21 @@
+{
+ "query": "\"Telangana\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "RailTel bags the Data Centre Champion award",
+   "source_name": "PSU Watch",
+   "source_domain": "https://psuwatch.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHl0S0pVV0U0THczZW5VX2taNndpMkV1X2xqbk1JUHVBWFFfMmdXN3RlMWRveWhsTDh0T1NROFRsS2U0aG9IcXRzY2piTGItb1JNY3ZLdUFvcy1TdzhZLTVVdG83bmJhY3Jub3V4QWNJQ0JKWFJLSUZJZmtSbUxla9IBjgFBVV95cUxNdnItSTRRNUEtS1YwMlFsZ29WRldLRWJYeHRTeWtnTmRySlRKQllQcl93d3JCUm8wQW5XaXc0MHVBcGVpWlR5dlFrYTR4V1hRVzR2bGltS1QwMzJmaWdMT0Z0cVdxaXQ5NklZRndSTTVhRDFSSmxTdGd1TXBOWS1ya3B1UzI0Q1FIYjdFM01n?oc=5",
+   "published_utc": "2022-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AWS launches 2nd Cloud infrastructure region in Hyderabad, to support 48K jobs annually",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWN6NlZZNHhhZ29nbFM5eFkwSWFNcmprTTF5Nkw3RlRMWHZIcDFjbGpVRGFMSnJHTFBXckVGOXBBNWlaMTY2ZTVUWmgxdE5zeVpwbHdrdlpRR1g4eEFCck4xQTFicjJEb3B5UjlOMmNVc2JnaE9XYVBSQzR3bUZtcG9PU1ZwUTFFX0VVaDQyeW84YnBVYi1qaUpUWkxpbnUyckRYWVFQd001U2RuY1UxcEVyaw?oc=5",
+   "published_utc": "2022-11-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

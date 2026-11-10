@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Landslide victory for Naveen Patnaik’s BJD in Odisha panchayat elections",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXpZaGo1bTJuOXBnMVlCRHI1dm5KaTd0RktnbmFZbjhBRGlBcnVNNElBMy1TYkNZc3lwTHVDM0NHRDFlWmtoSlNaM2c3ZjBidzkydXJjczgwV25yM2xudFk5LWhZTG9rMmY4QWxCUk9naEFFTXRRSHBLWlI1SUo2UzNvNklOYmk0Mm93QUs1am95SmFKQTF6bmlJM2RJT0xEem1DYm1ZZ3IzenpRYjVDTnctdVRnTk1LRThuR0Z6MnBFanNUNmVtTURGZw?oc=5",
+   "published_utc": "2022-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt’s treasure hunt ends in recovery of a piece of iron at Emar Mutt",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2djV1liRWxLZXBlU3JJeE9ZemUwZlJFdk1leHYzWFZZOUkyampoQ2VKZ0x1a0J5UFBiRW4xaGNBTklYWURpSFRTSDUyYm1xei1DUXowYUlOZVNwWnVNb0ZYSUxicWE4ZmFzbWk2dkdjRkprTmFYal9XQ2lvYmZrZEV0Sl8wYVVRNlVyQjJqclhuZm5CU2Jpbm1Ld2NKcklBTlc2NktkV2FFdmxxaFHSAbMBQVVfeXFMT3B6M090R2NFUFlxektRRG9Fb1NEemJMUUdwLWNpcnlHdU5QNHJwWEVncmJwbVlpSDFRYXFCSE82LTNoNUxNVS16QW90UFl3dHlzMFRYLTJwU21TQUg4bjF0Z3dEWEVhbXdScUpvSXRwQnpKeHZmQ2MwY1UxUzZrc2xLX29zSUFrNUJ0cmhhMFdteVlNaXJaR2x3T0hQY2p3MXZFQVM5WXB5TldTWFZiakZQWTQ?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha ex-CM Hemananda Biswal dead",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmcwRkhhZXZxMVJCWXJHRmlxUExQMWZVb29LV251QnVybk1rQTM1OElmcmpwcGFYRGQ5UlREVzBmTXNXSmpVOWdLcDkwQVJlVDlCTWFWdHdicWljMzd4VGJRTXJ3VUlidDJYbTRhLUFJNmF1UExRMjRhcXl5TERNT25va1BkV1NjeGxN0gGSAUFVX3lxTE1qYjZPSWl6ZEQyQTRNVnF5YzZVQnYwV0Q3YS1oZ3h1cC1qQnNScXZTeVNEY1dzbExROTRGX2xMTGdrLXR6V1dFbVVLX1FPVE9qb2VSZ21HT1dDd2Fmb2EtNzJTSEw4OU5xdVJmOWdzcll5RkhwamIzQU9FYjN4aHo2WjlVV2VJUy1ydzI4d0M1Rm9n?oc=5",
+   "published_utc": "2022-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt dismisses senior IAS officer Binod Kumar over corruption cases",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX0tDeDdZNGduQWdONy1xQVVJOVExZV9UZ21lMW15RTJzekNQX09rekJ2UW9PTFRfNzhLMXBHY2Z6RkZpVDNQSnNXaFl2QkdraEwyeGpyN213SmJBSTNGTkRNVF9peC13VDVPd09LQm1NT05sWWtLMzdkWDlMeHZpRWFiQ3NnZ0Jxckp3XzM0aFpEWG9LQlJhOUdFblEybGN3NTg4WVNraXJEQUlRS3NwaXN5NUlKVURta0JISlpWdFBSS2xy0gHKAUFVX3lxTFBMMHMtU29ValhyRzJrYkotd1ZNRE5PYXB3QWtOOWhIdEt4bGtMcExOb0pyNXotTHl0SVBiVmx4Y3Y3RjN5VWR3dTNjVEFqbEJ4NzVkYWNaQlV2bzdEWk84M2o4VWdtQTM0cE5EYmIyNlAySFNta0JaX1F3TkszZjhEdTR0SW9CX1ZvZ0F2azBJQUVpSWVWeEJUeVZLcmhaTDg4LWYyb2ZrZVZOV3hJXzE5dUswYldnZDFKcnRIYnRpaWhDblEtQ0FlN1E?oc=5",
+   "published_utc": "2022-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Artist Creates Sand Sculpture Of Telangana's KCR On His Birthday",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmhEZzFhWXowVDBibGRQTURad2dxUDdmaTUyOEhaeWNlWkxpbFctaHVOMjJhRl9JNDQ2bi1vZmNmT0dJa1l3cF80VVBsNGlrczI5cTEzMkJHNV9yRW1QZ2RIZzc5VFk0dWpOVXQ2MVRBWnNoci1icnlkYlZ1TDlGLVpBNE5HZnhtWV9jQ2JWUWJyTDN6bzhwWmZ0N2JOYWhyQ3VTQmtweHA0ZHM3UjEyNnAyR2xwN29RMGIwRjRXZE5YV09NbVdXcE9nOWI2aUpqU1ZnN2ptUWc?oc=5",
+   "published_utc": "2022-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt sheds British-era tunic uniform for cops | Bhubaneswar News",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjZxakJqZHZlcXZLbERuNU9PNjBlSlkyWEhKSTNOZktZMEVUT1pwbkliamtLZXVrUXkzNFVIaTR1SFFQMWpQZXoteENYOGxLOXp4WGpqSjhoQlhNMHgxb2VwTnJuTGJhVXFja0VWT3ZsRXJTbEtJLVVrYXowMTJ4M3E0ek9VeV8zbGVRcU9McEh6Ti1adDBXaFJtU0FfYVI2U281UDJzX1U2WlVBYUxpT2lhLWsxQ2hfQm1mMGZvYTJNMXdXZHZzTl9n?oc=5",
+   "published_utc": "2022-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Students enjoy brush with computers at IIT Madras Rural Technology Centres",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3JRSlE0b25VeG85WXNTSFdKVl9LczlxOG1vaTJ3ZXdRQzNQOU5fZlAzcDdRNmt6cDdjMEpuZ3dHdDFId3ltUmk0SUxfYVc0TnJVZzU3MEJrSmpCSW9vdkpnSmQzaDM4Uy15NHRQWmJGcldQdmp5cm9KQ2QwaHpnWjdyLUJUQmFDbzFMOEU2YnNFUTFOMHh2RDRDcThTUThPdUdjcUg5V1k0WXloVlgzOTFhRW1HUXhyMUl1ay1CMU5oNjlucVp6ckdySdIB0AFBVV95cUxNRXk4MFFaVXo2cm1VTzBlUGstaVF4SWtqcjRIdzVDNXJBY1l4QWt5V1ZCMHRmdnV2NmFOTVZiQzFxSThXdUJCYTRHaTR1Yl9aQ240cW5odl9SVlE3Yk1tYjU1MkNqbi1Wek10SW5kVVB0Q1pWTV9QYlFqOVhha1FROHJuRjdEQ3EtRHU1aVZ3YTRPWTRXaHFUU1VJX0pfdHBoOXQ3XzU3d2F5Yk5jX2x1cENYRy1zbnpFZEVOSXVQNzluc0lZWlhMOFF3N1BxVGxk?oc=5",
+   "published_utc": "2022-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha's former CM Hemananda Biswal dies at age 82",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkstcE45WGVVU1VuQWJrQVQzeWZlYnNCcUlWeHVoeDhhVHZUdnRzbDRMdVdsNmFKdmFiRjB5MkdsMnUzbHJlTzk0STlaRlotdFdBSzdGSzhveTlMdGJ0SXRQdi1UNDduSnVaRzFKZnhkSElncDZHUkxNRFZ2bXJRMmxjd3JHNG9NZnNOQ2RHei00T2JYMzUtd0d4TXB2MFR2Z3djVS1OeHduWWI1LXJyalI2VDR0RlhkU3dwblhaRDdSU0RQTFHSAcsBQVVfeXFMTWlBcVlPWGJ0eXBxcHhpTDNkYnJZQ3NJYkdiY1Vrd3JQdFpZcTdhZzJFYV9taG1sS1RZTTVfZGVveU5XMDRPMWlxaGdESmFFWU9scG5tMlJreER2VXNIMFZsbS1WWUR6WHBlUXNzN2gxS014dzBfT2k3RHQta2xlY25WdWc3RXpuOGRxS01xTVdfbjlBdF9RQWVqbGVtOF9QUFRsRlU2TWsyalBHZ1cycjMzVjlzc3UzWENXWDlPdVpuRE1uRHBmRHNlZGM?oc=5",
+   "published_utc": "2022-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jindal Steel and Power, Hindalco bag coal mines in Odisha in auction",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUjZjZzNkRUJHTGpjM3l0TnpqQko4NEFVdWJ5TTVtU3AxdGZQdHNJRFhTaEVNelNZcVhTb05XdDdMSkpqeHZiNUZxZEU0OXktdHhlMTd3M0g1QWU0dTVOQXBjMmtnS002eDJ1Q3FOdmYxMlZFdEdwUnRvWWgwbHVNQWtYV1NDeDlWcmJTU3BsYU5GSElKLVlDSHF3dUpJVTF4aGtLVUEtd2JJeVNCdGhER0JiMTFGX1VUZlpjLVA3NVJXbzZRRXB6UTBvb0haOWx6TGQ4RWhn0gHbAUFVX3lxTE0wU1FTMi1hajZOQ1IyM0JVaFNJMlhtSk5tSW1sTzRLaWliR3oxeE0tdzRsM2x4blkyVDBaTEJjTk85a0VPVkdkZWxpNDk5ZTA0dmZBRmdYbVRpdlo2SE9ZeGRoSWdLbVVYZS1va2x2eHpSV0JORGU1ZTBfbmNRYWtId1BYRDJWcWVaWXhVdEpNWGxKMUgxWW85RUxUc0g5eTJDcVpGa2pGTXMwd0ZXSU9OUkcyWjhhaEI0cTV2d1hJeXVHcFZtTTN0OG1CS01Md0U3cFFFWFpZaXpPUQ?oc=5",
+   "published_utc": "2022-02-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM reviews progress of India's first indoor athletic stadium project in Bhubaneswar",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXQ4dkdDSzBObUhfZG5JYjlQWm1NRkF4TGZNWWtQcXpWXzFpYTFPYWR6WjNEMkJubzlfZThSTWxjYmFFOFpqNTRLZXhGR3FYVjliZ2I3eU9peDhIWVF2Tkd2dDY3ZDFOVTZURFRzT2t0NjBMaEpnYVdZdUZpclNzZVloR3AzVVN3el83cjM3XzFuNHZCOGVtdVF6Q2E5OFVxNl9RWmV1RnpoRTdWakZYdWxVa0JIYll1SW1DV0ROX29xQzJEZk9yZ2swT0hzNVHSAdQBQVVfeXFMUHA4QTFNQnZ0MXVfZDl0MzZOeUhFTkxmZURrQ0I3ejZMWUpaQTI0Zk1OS0hlVGlHTXZBbGRtcHhHQU1PaDlEU1Z1UWdGaWcwLVl1c3d2azc3NHVaWlppaFpZR1hmeEcxOEJmYWtxWEJlSjVtbENLNUVrUWxDNElOSFZ4WU5ndWFVYTRVNjdVYktidnd3TkFIRkJVT3FxdVQ3ajFWbmlDNGZtVkNWWF82Mi1RTHpnZk5XOXB1U05RbGNrSkVsOWZiVHExVUUzX1ZQTHJWRC0?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Impact of Maharashtra's new IT/ ITES policy, 2023 on Data Centres: a snapshot",
+   "source_name": "Lexology",
+   "source_domain": "https://www.lexology.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUgyWmNzblhoOFY4bTdrU0lWMHBqMUxuT0Y2X2ota3RfRkdNYUFNM0c1WjZPZ1hxbGs2WW5Mc2pOSm5qODVVaGpUcFEtNVEzTlBtOS16bkVuekZTN3ZLNkNrc0I2c0dhX1pLOWc5MVpQZDVBRW5EaGotUHE3SmVvcWlRZ2szbWZhU1A4?oc=5",
+   "published_utc": "2023-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

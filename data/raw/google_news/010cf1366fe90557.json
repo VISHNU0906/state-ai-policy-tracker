@@ -1,0 +1,77 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "MP govt paid Rs 37 crore to private firms in 3 years for hiring their planes, helicopters",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZWMza3BpcHFyaEowSWhZQmE2Mlk5bXh0Q0ViamVKWXZic2VYRWtJS0ZPSTB6emJyNjFCZzUybkxqei1LRDU0RHJwcmh0UnJBU3pOUjVTSFN4aDZ5c0E0bDJQYTh3WnlxTk1neWFKY1RSWk1VYkRzYWVON2JKM0poZW53dXFEX0g5ODhrQU41Z09hRmJwSUgwM1VtWC1UTDctMkxsakdNUjB0akVTeHllNFFVclZ3dXNQSGVDYmdoVnNrdFhqdGtWUVQ3NWNHczFUWWlUdFNyTzRUZXpRUEZid1lNUTNsUlJlUktvSjZUN1dERjDSAe4BQVVfeXFMTXZFeS1SYzR6YXN3ZFEzRTRoRzd2dzJ5RUQ5UkpDRGVPdGhQdTJsbUE5ajh3LWxyazVlWVltc1VXVklMWGNKWlFXcWppbzNlM2dQZU1jeWYwU0JhMS1QcUswODd2WFdzZkFrbjJwWDkzWHdWRGJYaXpscXpVQWZ2aFBUMmNlc0JBRVJmeUxtaXE3bUpqOW1jV0hkMVZRNTBySU1RMGptYm9uWWkxa3EzaWVWYTZqOUxUWWxMTmExLWtWWWxOeGdlZXNZR1NhRC14cmdaOGk5MUNzS3I2MTBqLUtISG5TRmU0Rk11akk4Zw?oc=5",
+   "published_utc": "2023-03-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "As wheat price falls in open market, MP extends MSP registration date for farmers",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzVrZFFxNjA3X2dycW1QV0Y0cG9scG80bVcxQW5yVjI2eVFTMTAxODh1NVV0NFdOdTdSUUp5SWJUWTE4b21TMmVBY2R2Zmg0bVRkbG9BRFI0NFVWTVY5VGtCT01nSFRPYnZhSlZHUkR0WWtReVdodEU5aUx1SXFPMEwyUWxLTVB2RXJlcW45akNhUm1WR3RETVI3M1hHcm5FNnZEWTZVUVpVeTBGNl9nd1pZT2pCQ0lGSDhNLTF3cDdvM0F0ZEpSdDVFVDlBblI1UXdhaGJOMm7SAd8BQVVfeXFMUF9zR21fa2RoZXJvQkNhV2lRTDk5Q3JOMmEyTnFucUthMUQzbHFxRXFLeXBRN3NPTmVaLWtzSnNUYXY1OUQ1Zi1Dd2xQdjVKaERRb3JfMXhydFZLU3BHM2RXdlRGNzNTN0N2SkcxczYzbVVZcnJRamJxRlZlZWttb25vSTUyOEd2UmhyazVDYTB4Wml0NldXdW1sY2o2VnVmZXM4UTVPa1ozdmVNVkpkU3NLa1RsMl82Wm9WZ29BUkRaajQwYjlWdGlMQUZYNUhIZHAwa1JiLXRPWHQyVHMycw?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIT Puducherry organized the first \"International Conference on intelligent Computing Technologies and Research (i-COMPUTER - 2023)\"",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pamoxaFRhd0hzU3BqZHZRWW1YekxVa3MtQ09IR0NiWDNxbGE3aGU3LXl2bGNtdmlkdnV2WDB3N2tSa3BrRktXakFacHBOVGxSSWxJTWVmWXFKWFZlUzlkanUzdGd6U01D?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "10 Storeys, Near 100 Crores State-Of-Art BJP Office In Madhya Pradesh",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUV9LdjAtYVFkaEZGdTgzX21hVjNnQmZ6X3VkeThhUXhCZ3dGMi1hNkVUMXI1dmlvelkxd0ZRUXJMV0NpVlFWNVVfUDVISGdNUmFDYmxtaDBneHQ4V1BrS21UT2E4am1Da2dKYld6cks5bEJCRXpwbFlEZDk0emdKZkEwRVFFWVcyNHA0ZGRuWG9qMk5PX09DVEJHMklUY0JfRDdB0gGrAUFVX3lxTFBtZGhOcm5ZbHBYLXduUElxckdmUEVFakV6X2V3SHltbnZ5Q1VGTmowNWZob21tdzVUM3dnenIzVmtFaEpIR3UzaklwUjQ2ek42UllwNVFOckh6ZFV3amI5STVZYXhZSGJ5MHotNEx4X0pwSHo4RWt1SUVrWDZWZmJCUDhockppZUEzUFF3VHRZTmpUUzRESl9kVWxuZTQ1S3FIRHVZZGhwSnNiVQ?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi to address top military commanders in Madhya Pradesh's Bhopal on April 1",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFBwc0Y5NllVYm9NOXJuTUd6WS1adWJJMWNSdmNpY1ZFQmE4dEVEa1JhUWZsZzdFOG9EeGNNVmZtRzVoX2szNFdteHlERlZaZXlJSEx6VnNGU3F2MFFzMFFMN1hwX1BSTVFuSTlMSjU1RUVLSnBvX25seDhoOEQ5SWdSdFZIVHo1SVN1WWRBYkJsWGl4ajZvZE5fZ2dLSXhsSWRtbk9Zby1SM0kxTzhHelNYZndOWkdGNGFsVnVDbmFSTUY2QlhlZ25CQm5qT1ppUGfSAdcBQVVfeXFMUFpLM05ULTZrb1V6c2pxQkMteWhtQ2M2NjU0N0I1TzdTMm5rV2hNQzZVREFJclBJaldycHJJY0VZOUd6UDY5YlhudTBRRlUxQXBsQzZHU1g1NHg2R0xpM3RHNlZDc2lNcXA1YnZybWFNamF0ZGFlSjdWQ2hoeXhNWG5xTGtBMTE4WUR2YXp0YlA3S2ZjeEkxSWNfd055WFpNUmFIMndNYU1yVmR3U0wyeGt4ZE90SDNaS0ZIVnFCVlAyMnVBaGtvckRGQXN1elFYVXFiWGRfZ2s?oc=5",
+   "published_utc": "2023-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Chief Minister's \"Jhooth Nath\" Jibe At Kamal Nath",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZ6YnlZM1prd29PbzZZYUJyNjZuR1VvdEN3ZzJOOHREcnJQaHR1LVRFR2o4TTg3SDN0VzRRLUJCVDlnVGhmQTJGbGY0Zm0tX0NHbS1oYWpWcVBRREY5ekNLZWphUEgyWVV2MHRydmJrMGdRa25pWlVOYUxxSUZFVVREQ1BfbkE3RFhzMDlXTThZRjU5amRpTnJlR0I3NWVxUExv0gGrAUFVX3lxTE43REVoZjF3OXF1cEZSLUdtS3JPeDFpUzBkTkxIOGZNeXFlQzBYazAxZUZNbnZrZHJZTm90WE8yNC1fTnZmQkJTV0R3ZFlXaXF0dlBmWmdObGdCelIzZkFtQ3NmOERDR2M4VGhLMmFpYUFoTjRGYUNPeEFQb0pEaVVra1hFa3lSNUFKbm00VXpfclB1WGlCRmZFUTJPRVVHY2RDdzl4TC1OTVV4WQ?oc=5",
+   "published_utc": "2023-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tigers Reintroduced At Madhav National Park In Madhya Pradesh After 27 Years",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHZjN0tWaENseVhaZnZENUpxM201WFZINGpRdmhJR0JPbU5BLWxHYlZMNHZ3c2VLU1RjaU83WEtZZ19naGdydEFUZllBa3dlMUxHaU5NekVWV0x3cUZiZEtoNDJCSnBNRkpYNXBWaE4yMWJjNkpZSFRLZkRZTEg5X011UGlMQTd4c1Etc1V6QmxLZlBzVUdNbHlyelJkRXE3Uy1fVlBKYjlLSGE2MEtFa0FuYnBmaTDSAb8BQVVfeXFMTnhaa2x4eTMxY2pPNUthMzFmNUpNTkVUaWUzVUp1S05UeFJVeVZkc1RoMHdMYmNLdEp0YU9aWXhFc3Vsa19nbTVFdUcyQzFadW91MzFqNTBHaGRCYVRIQkhVcTk0QnRkNGRHRnlSSWJSNFNISFB1bFJ0c0JUc0E3SkZONW5YdjVIbzlweWZBUjJvWlp0enJOaEtLUkdOczd4SlZsWDRDa29HbTQ2VzV2b2FXRWJlNEt6LThWSGE5Njg?oc=5",
+   "published_utc": "2023-03-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Tweaks Scheme For Brides After Alleged Scam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3I2UDR3aXJKYTZnTG9reVdRR0NEUDdUamZPUXlCbVBiRnFUVHV6MGp3dzBHdDBZNGowSzN2WEJ2STFSMWZReUxwMWg1SUdTcXVvV0kwa1Jla1hqcVA3bnBod1VwdEtPRG90T1pEeER1LTU3dTdpU1RQTVZ5dlkyM1pTQW05RnEzaElvdmJFcHJYSng5ZFR4cUc0SU9pRGfSAacBQVVfeXFMTmlFLVRTNTB1cDlHdzlZLU9ublh2cHpiVzF6b0VIZDhDODNlY2QtOW1JbGdLeWI3c0NoQjdNQUxPMGpqamhmZ1U2MW13cjVkT0w4VzRNY1h2c0xLN045aXQtd0pxeWFULTVPaTk4Z0EyZmxNRi1FYXlGdFJPUTVYZ01sU1lUQjQ5VnZMak5pVGFmRjA5RTRhYlEwMW1vNlBBODBGV2t2VFE?oc=5",
+   "published_utc": "2023-03-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Three Tigers To Be Released Into Madhya Pradesh National Park Tomorrow",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUV5R1I0ei1rZmc1YTF1eUVmbVpWOWZIX0U5cWF4LXJ2M043MFdHcjhRR3FJaXFJUjZTcjVCZjJDcmEzaVRoU1dVV0JDdTJ0TEVQT0Vaa19YeXExeGhwZUJTM21Mb0ZQNTJ5bzVvRmtBVGdEZ3ExZlJTLXZ6OS1ZbWdPbDJwcVFWa1J6RUluNlFNY2NSUUlOUk1DWUpaZ2RnTEFBMkVGX0txczVJN2dz0gG3AUFVX3lxTE9fRHRvM3FiZENsNTBrWkV5VVdCM1VVVkpNQzYtNV94TGpGMWQxa3ZKYnpTYVFENHlSNjZCMlBfWHp3S3M5NVlRN19UUHJEQWlMelJOWXpvS19kMDZmS0ZfYnR0YllWSDhYZTBLbWd3WkgyVDdUeER0VllnbU5MX1o0Q1EtNlVCcVN0U1dWN3Fpd1Q1ZUVZQUE5aFpEdWNFbGx6Vk5Ud05rSElHRTY5bDNmbzlzUFNlOA?oc=5",
+   "published_utc": "2023-03-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

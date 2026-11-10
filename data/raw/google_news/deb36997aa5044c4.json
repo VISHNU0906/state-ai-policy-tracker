@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Maharashtra Police step up security measures, take preventive action to maintain communal harmony",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON3oyemtSQzlZanM5Zm93VTBDU0VaUkF1bVBfODVjU19BdUl1YU9RU1otR3hIM0dXdDlGMkxTTjdidmVpYjVMbUliMEVKWFJjdlRqNHdJVXc0aVBPaG5pQUxUWlN1dUYtYW1fRVNZWUVMbDNORWNWTk9fYTRyTjVPbHNScmxsMFdIV3J0dXZ4cGRYTnUxQUN6MS0xRENZd0pOZEdOM0FNNVduV1VkT1E3cTZpOFVlX1NPbnVPR1BmY1pQZGE1TXVF0gHOAUFVX3lxTE1YVzJpbDBNbW1lVUt3YlE3Um8xRU9GVmIwVkdNWUE4NzZFVkFoTWxVdld6dnVURlBmdWxoaVlOMW1MTndfNXh5RWdlSlJKQ2Itc3Y3UWwtSkNiQkxJaTh2d2FMQUJtYXZmSVhVVGczSlhoT3pRdmRMVjN2ZXlsSFIxUG1hRkhueGNqQnItZVBJd2g1YVZheVBkdnBsZTZGMms4ZXVVeGdHRHdHTkpoVlVvZ0lVR1lWei1jeUNNTDQzTFVXRW00NUdJSmRONjRR?oc=5",
+   "published_utc": "2022-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pune Smart City bags award for open data governance",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMHFYVFoxUWE3eHY0TV9QcEdaV0xCM0JEbS14UWptWUFJWHdlalpRbXFrLUFGSEhzcFhmNFNYX3UyY3QwYUhUS3RCYzVubUE1TTZWdGhLLWhDUlo1UEtJdWpLZy02Q1VZUENrbkswRWR2TFNCTHZpZ21PWXpLZWRhY2xKVkVmd1ZzMnc4cTN2S3RBZ1VwLV9aRXFXaVRqUmx4dUJZYUZwa2lCZFp5Y3JyU0RmR2RHWkt2VUhJQ216SEZzVXfSAccBQVVfeXFMTVozaldabHBTeDJZUnhOSHVfNDJZa0VkUEM5VW1UN3k4eldTNlZ4cTdXT21XUmFvYl96TmlVR0RHUUpuODBhcmNjSGE2YVZocU92bjc2R01EeVZCNjhIRlp4MHJobU41OFRRMXdRZWwyd1FOdVJ1V3VEbkV2S3g0eDViRUdDNkY0T3h1VndYWE4yTU1CRHRxUzVUMDhjdHdFb19ndldUdlk4bVphTy04clF2UGR5ZlFPUFRyNHUtSUEzUmhFaFpDSQ?oc=5",
+   "published_utc": "2022-04-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "89 Swords Seized In Maharashtra After Car Chase, 4 Arrested",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVHFaUlVUSDFfdEF3TlJsQmtLd2lmS1hSMmFjN2tDU2lncnJ4MXBPM1U5cVFNejlQdEZGam05UHprVm9FR3NpZGVueW1zakxhWG5UMzViT01pTHpiT0h4SS02RVFYRWdGa2wxUVRxWGFqRmR6YU05dU9lWk9PREpoQWdBbjNMSVgteTJnSGtvWVhoSFdNUFM5bGlLX3dBWkR6N3FiV1dSNG9raWRTbmIxXzlLYXRpYVRnTk8zWWR3azZKYWg0QWd4Z21Db180SFpUQ0p6Vk9mRWVUWlcyMnpZS3lpT1I?oc=5",
+   "published_utc": "2022-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Goenka Global Education launches the Finland International School in Pune, Maharashtra",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVGxfcm1vQjFUUWFjSk5KYm1pYkxTMnJNdVZPaWNRUTV5cVJrM0xkZGk0NHhFQU1XSFc3TURrUjAxT3RtdXo2U3lmTWtiX25LZFpTRnBfUTlFZzlhM2pzVlE2NGFTRzBVWXRJSjdqeE5PWWkyTkhnblU0OGlXaEwzeHVTUlFXVWJlcjRoaVJCRFFnYWdIOHRab2QzZklNWjc1cUY0amZrQUJzZWk1Z2hyRGotbGFWNE5ZUVBrOWlJeG1LNERPTDdlSl9hdmNWZktFd2FTZTlGOEtXajBIR2c?oc=5",
+   "published_utc": "2022-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: Recovery of weapons continues, 25 swords caught in Nanded",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFFOeENVZXRDYXhydUNXU0VnUFRqV0dHTVJxVFFLZkc4ZTVyY1RyVnNSdXhzRnJQcjA1Z0hYSXNCMUdMLTl4WXdFZS1KbHJNZlNndTNoc3ZCQUtQRWhZZWN5Q19KQXEteWxOd3VFdURhUzNpZXFMZG5OZjZzNjZMWlRZT240NlBfQnJhVDlFOG5FV2x6LUhVTFBqcWx2WlFiQ2tn?oc=5",
+   "published_utc": "2022-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Krishi Vigyan Kendras to facilitate technology adoption in farming in rural districts: Agri minister Tomar",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPeUlvWDBfTGI4eTRjUFdITEkxTGE5NjNfbjNkeDB4S2NZZEY0eGhueG5VUFN6Wm5paWtaX1ViakNpcHBvRGgyM1FuY0VRY1djYjkyWTBDb1lteUhWWDRqcFI2LU5fa002WDBqb3hQZExJY2RNdjJkSkRHYlN0TGJpMF9GWTJ0VWpsTXEtSmdPTEZEeWd6eVludTl6V1ZnZUdWdF8yUGxtTGJXWWR4Y1FPcm15eVNpSk9qZVA3YlRXc3duN1JJNEZTa2lZQ3M0a3VaZHpGMlotZUxUblFGa2VudVhmaGxYSDB2Qk13RndJSDdmbDBLTEpGa0xkeVFkUmV6SE5zNUdxZktyaUxXRjlOUTRkMWFtUFXSAZICQVVfeXFMT0tEVy1YVmloQ29OTEdxWm5CTlZXM3B6cEE2WjFfUmowVTFrc1RzWHJuOVdMdDZEb0xZMGZqTkI3Y19WM25xX3I4ZzRaQzFxQmpVVmdRQ2RTYzJxLXJ4Um8wLU5aZ1NZeWtWakREWi1FbTJqaXYydUtOSG5DLVFwMzFNSjBJM21RbEVUV1lJUWRmeTMzVWtqYXJ6eTM0RmdVM1Z1N1VDSnU0QnRjUl9jbTJtaTRTUkcxQmJiMGZ4OWJDMC1PR01pQ2VIVTZVYkpHQTlOcE4wTzQ3MTJrZ29JNDdSNng2UkNxQU0taUFzLWZJNmFYalBZOUF6UDhvYmlWVjBuUnktdktwdkVqR0Q5SUFpQQ?oc=5",
+   "published_utc": "2022-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Issuing Aadhaar to children below 5 years against law, UIDAI should consider alternatives to establish uniqu..",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb1ZZNzRQUVJ6dTYwanpCOFFCbG9pbjVuWkNzQnBYRlNzM21VS0hYalBNbFMxaXV2eUJfVGM2TVQ1UE4zV0I1d3RMWnZ3NjU1a2pvS1JDcG5nQUV0TEFjaUIyQUR1MlRKcnN2X2pveEstajk0cEFHN1BYNWZSa1V4OWJ1VWpRVWFjY0ZhNEI3aUNxbVd5WjRoR0wwempiQzZVNlJJZmsya0xTaFZJQjlOaWNtajI4MTBLeUJ1alVTV1FBNDd0OEVnTEFCTl9TazN3OE0yUGNRS2hXaGdtYjVqWl9vWVN5a2VjTDdqc205QUFWUUJ5T2owZ2xiOTJOVkVSVk11ZWpaVDlzUEFXZFNDekhPVGRDUdIBmwJBVV95cUxPQlFTa3hqQjVpNEp0eW4wYV9VcGMtVUh2My15Y1dndXRnNkhWTnJHbkZlM3NaZXpLN3g2aWc4ZEpsb0xRSERyUUFNdHVzRU5hMUJweGFwY1JqTkRkaTI4LTRwcXJEQWU1LXNyZGprUDVaUkZRZXNBdU52emF3OG1XbHJOb2pZTzNDRC1ZSEt5bmNWRFF0bGNMWHhsckhaS2pEeXpKMGlvZWRhQXJCek9EY3lvVDhyUVpWbFh5YmRqSzhJcXlVV0d0Yk9PZmF3bGpDSVlCMVZNemdMem8wX1RqMGNvVjNhZloxOHdxOEVydmRucVR6Y0ZjYTlQalVwTTE1akctOTVTdjhSc1RGUy13YmxvTTVYS3FhT2xV?oc=5",
+   "published_utc": "2022-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IIT-Indore to assist electricity dept in using AI, ML tools for theft detection and smooth power supply",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZXUxd2R0Z2d5N3dVNHhtcFloQm1qZ25XMzBiWHR2Z2RPN1N6REFfQnN0RUNta1kyZ0pfQVVseVFPYlpQTkc4Vm1lMkl2aFNOc3Y5eGtWVDBlV0Nlakt1djNjb2VLNWlsbWlDdktxRXV6S2pueWtaQTU4YzdnTlNtaHVNRDd4MDNuMEhtblNxd1pmRVpOR3FTS3F1RTJmTXRxQkJpWGswRTdQbmhUdjEzLWhWUEpCSmRDeUQyay1YTzZWTTl3RkFjelFZV1NZN013bW9BUlVBVTFYbTR6QldWOENhUmlueG82U0Y1VVdnSFc0MFlIdDlWVlg2S1ktNDhqWndpeNIBigJBVV95cUxPR2FuN216WW92SWRJYXo1YTAzT2UyTE05Y2FfMW5nQ0lqUVhBRklMeUZxSTJWZWczUGkyQmlXVEFjSjBGSE8xNUg1ekNGdHZCV2JSOGI2dFJiWTlIMTNuaFVDT1BpSWpsNEI3c01jcXZIbDdMakNFWWpPTGItdENvb1J1d3MwNFFmREYydlRxaDFSc0k2cDBwWHpVZ2pnamwxbzl1MGN0UXpueDBVb3VTZEVOZ2NtZG41amR6b2JmVzNseHJpWXp1aFozMUdHMkhpcEZjYURtMW5NRnE1Sm43VDYyVms2elVlS05uaW1uaGNKbUk2OTdkRk9DR1lhRER0TS1HMWNLX0VhUQ?oc=5",
+   "published_utc": "2022-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt to organise Bal Sabhas for children in villages on April 24",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSjBGcG8tbzlfQmxGUmg2WlJ5YzUtcnRlR3Z1V21sVFdtZmt5WHEtMVpZN2VQdUxDMUFXX3lfY05ZZFBjdGU3Zm9xOGRnc1FJLXFXYjRMYzFHY2N6SUh4aVN4dWR4Yng3UlNLYXBHeVNvQktaTjk3bXpjRVpMeElQWXdldktJR1Q4WEZyeG1KVzNoNHNNTGI1T1Yxb2RDdUZ0QU1WYzVyZzc4YU13akR6aFJmcHdDb1BsVnNYR2ZIanV4UUczZWdZV0U2eHpaSjBPa3g4QXJ1a9IB3gFBVV95cUxPUmc5ZFRVc3FRblBhUFZmaEEyd2VyVThaTmVBaGZYSl80c0lkWUwyakhqUDlTMk5qdktHeFlfQVg3OTJ3RWVPTmtscTczaVEzWjlqZmg4SFlzRHlVanNJMm9oTlpUV1hNVHV5ME1oZzZhaXVDd25sMjBKSnZGbmU3TVlSSlNFZUgxN2ljb0Z0MGdUME9RRDNzTFc4VDIwbldiM1pkdXJ3NHVYWFVMMVNUdFNGVlFlUUhIRHhVNWk5ejdHR0hLc1gtRjdwLUVZVTQ3SDd3endFTWRvVjkwYUE?oc=5",
+   "published_utc": "2022-04-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra education officer held for taking bribe from teacher in Palghar",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb3hhWU5tMkUxbzlNWTF3X2MwMGRFZ1lraXRtSjFUR3RuRldOTTlmdHNzUDN5dTNkWHpfREFpUmF4TzVvMTlEZTRpTUF5S0RNZFhVX0dIMUVWZXJkUUc0OURyRS1kOE51VUFkYlRoVFVoVlgtdVV0QTJZYTY3M3JQQzczM1N1TkY0Nk1LTWI3eHpBbmRkcGEwdDZUV2MyYmhJY2R6Si1sZVNWTzJaZGpuejM3QXdXOUpLWG50T1dYOWk0dDhfcTBBYmxoaG15YlltZ0MxeDBR0gHcAUFVX3lxTE1VQU4tcUxkTWtFNkM2QnRMOUw5ZEhGTmhtenB6Rnl5NXhrUlJiR1JsZUJhSW1TX3VKRHFPYTRFeTI3WkJZbDNYdDBkRHZsLVNtNDBTSFpJcW5icXY4Z1FHVC1DNkNIenBtMFJqVFlmcGdoN09KeE91bTVIU1Z6SFE3TUIxQl96cFRXRVNtY2JSdm91SjB0MnkxdndCMm5ka25IeldhZVowVl93U0djbnRqeHFzZUozdVNsWFlfWWoxRng5U2RvS0k5ZFkwZExFdkRfWGV2Qjc4M3JFT3I?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

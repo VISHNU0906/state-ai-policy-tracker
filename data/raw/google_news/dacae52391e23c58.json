@@ -1,0 +1,85 @@
+{
+ "query": "\"Rajasthan\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "2 Rajasthan Police Officers Suspended Over Public Spat",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0hFeVVxNWY0anNTOThiRFFaWXl3UW0zdmY5RUNoZXdsbzBUQ1JKUGI0bjQyZVJBdW9xRGFyZEhkZUJ6RloyRW9aN2txVWVhNUlmQl8xVnZkSl9rSFRjekxCSHo2UjQ3eXRxUHJDSDhmUy1kR3VKcjJVbnliXzdDa3lYV09leDloNGl4aV9IU0lqUGdsZFotMl9n0gGiAUFVX3lxTE1KTWxDdENQQ1d0SWVDNmFYbGVaTFZCOC1Vd0YwTGlIaVlYV2FHbmVBekVMQjV6c0VJeXRIdklQb00zS0NiMUI4TzQwZndXdk9DbFNTbE1RZVNTaXBPVzJCNEk4djZBd045VXhGREtqWnJvSk9YQk5LMjM0WnpwSHptNW9EMmZweVVoeHhMTVpEclRkdVp6VnFYNFBySlcxTnhqQQ?oc=5",
+   "published_utc": "2022-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Police arrests all 5 accused in Sikar shootout",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnpDTl9fTzh0dWQyMm11VVNfME9Fc2ZVWk1VM0JZWm9Ud0lqNVU4dXdzcnE1MmRUQW05WTR0Rk04ZExMTUlDb2VVdkpya0lrWnpBbG5fOWtqZmI4cVpRLUlaTnl3MHlBc0ZRa3RRMTl4VnB3OE5WZzV4RUZtdkIwLTRCNEtTZmdoSm5ESm8tVVBTbG9WU1BUR0VRZ0kta1VBRU1rSU1KNzJIY0xWUHZtR2Z2TVRxbkxocG5yNA?oc=5",
+   "published_utc": "2022-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘I Have Not Earned For Six Months’. Singer Narrates Tale Of Harassment By Rajasthan Police For YouTube Song On Shivling In Gyanvapi",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWlFBbF9Tb3BqaURvcl9nNVdKMHVIX0w5X1N2SEwtSXZNT3BXSkJHTWFxZ2UzQjZVVm5Qa0tRYXhfNm1HYmZDblFLLVJ0R3FKZm5vS2RjOG5qZjNZNnFScU9ac1NGU1FmbmJfbWpsdVNoVC1JUmZNUExPbFFvMHdnTUR2NHJYd29sQnlNY2VrSUtGRk9TZ3JyWUVoZG9Od2lKOVZUS0l5U2xPeUltdU50WHJUMURvZ0RUekdBLW1QVkcyZzJCRHg3VHpZZ29yUG1ZNFI2LVZBWlBTcG4wSzM0a1pjeWlVWEE1WkFqSjJRV0s0UdIBggJBVV95cUxPMGlvM1ZiMUM3MWgtTnUwTG02dEdYenQyN3FpRkM3M2hUZy11S1dLX3BWaEN5Y0F0LWs1dFptbmhZVWU5S2hMRFFYRmRFTGcxdmRRbHNkTWI0SVJWRXBIdWN3QU16anVULW81bnNENkJhSlM5TzBsR2JNS2RhdVlLemxKdHRHOUVvVmJRVURtSWZFcmJtb3pBOU1ROTdDX2hyc3RIb3lFU0hrWG9BRldhWmZEeW8wZ3dFdkVsSTJGbmRoY1BEUnp1Sk55VlFocElXTU9udFZNTTViVGItVkJfNGJmOTB2WnRQVU01eUx0SHRqSERHZkVUM3pNNVo0eXlicXc?oc=5",
+   "published_utc": "2022-12-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bharat Jodo Yatra: Rahul interacts with Rajasthan civil society members; 'communalization' of education discussed",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXA0Q0tGY2hwbnljdjZoa21xcDhrYXhXWlhjTTB5OFBCdmo1NXczZ0dtT3ZjRVRkbndaNDViTk1uWFNEZFhGVXVGYnFXWElFUVYzSVBibTUtbzM0Q3ZjdDNsVjZKeGVmRFg5SlZfSHRlbjFHV3ZwSThpZ3FFc25xVUdCakVUbEdPNXBFZ3g2QkNPVXh5NmFvNnFlMmlWbEdrUWIxbXEwT0FocVFPV3dkZF9OM0w4ZzFNWHZ4cnNnNWVCcVV0cUlZ0gHMAUFVX3lxTE02a0FMMnFhZXNkQ05fclVNOHVUSHBUR2ZVX1BFaURGbmtvZnhfU1BlNlhVYjdfRlhJZm1FajlDWjVfRmE5SWc0RmtKNDgwX1BoVy15WXlnMDlwT3RlQW5tdGdHNGVoeTBHU2FvQ0UyemVncTdOU1l0WjlNU3B2U3FYUEFnbzdrRmNvMUstX3ZzdHMwRWFHdGRKc2pvZXFRTG1HMktYYWFldzkzcFZTM3RMN240QjFnS3MwaWlFQi0xRk5KdlA4MWZTaEVEaQ?oc=5",
+   "published_utc": "2022-12-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sonia off to Rajasthan resort, for birthday with Rahul, Priyanka",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzZYSXh1dzZTTHRIMENJNkdmRE4zZ3k2dkdKUzdOVDFzU1BCNDJmTWFLSjdudzFUZDZQYTVhMWhseUVJRG80SFg2bFRmY0xQaXBDME00TmMxelBrTDZKeFF2REhNTy1LeDFPRklvMFNDS0NTVlZ5UlNkS1hCVHVEbklrU1NBMzgxNDE1ejhiam1UVFdGQ0tRM0VkeHlxYzZJOGRUZkY4NzZXS0EwakhXM9IBtwFBVV95cUxQTktxSmZKZ2dsaE5RYUhpY0NwWUNRZG1uWVRHVDk5amZMRlJDVEprMTUtTXU0THFNaTJPVl9QRzVHcXVtVkhTank4bG44YmNfMHFMaG9fRnhDTUl4SWpDcHg0ZVpxTmp3M2dGbFRlMFhHcHFCUVVWS3R0NWI3YkE5T2EtaUltTlRPNHBBdVNxWGE1Y2JGLWZYY21DcW1JTkNrYmtpTGRmQVVKWFpURVBvSVhVb0ladFU?oc=5",
+   "published_utc": "2022-12-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Did Bhim Army burn Bhagavad Gita in Rajasthan? Read- Fact Check",
+   "source_name": "DFRAC ORG",
+   "source_domain": "https://dfrac.org",
+   "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEdaMXBYakJSMkpqcC02QTIxSmN0SkljY1dmNXZiVi0zcnZxWnFXOEY5UHVpM3hnVmVRQ3dUa3hLcFNSRlZITU40amNCY2NBRWotQmtGQWFYYWxFX0ZvNHNiT0V2TmtPeW42V3EwQWRwNnNZSFQ0aU9qZXNsVTJmeDlySVBXczd0M3YxNTNDYWhSVVhHVFBGNWpB?oc=5",
+   "published_utc": "2022-12-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "On Student Suicides, Rajasthan Congress MLA Questions Own Government",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMEpobjR5NG1EaGlKYTZzQl9OUnNHNGR6OHJwcDhNeVA4UktFTzJOZDNKMzQ0SXFTR3hMZUtxZ05wZlIzNGJUYzhqUWlwNkRUUlVoVmFKSkVyaGplVHNOSnZEZlFxeFQ4d2RQZi1UNG92VkpKOUZ1OE9Ba2l1YVFDY19Tc2RXOXRLd3pSTG94bFI5aE1WY0t4TldjaVJHNHc1V29MWTA0WmhOY3o2QmNjR1Y2WHplcXc4Y3ByRzBtUy1QNTZqdGRWWFUwRFJVVXhGSFo0eHlR0gHeAUFVX3lxTE0tX0kzYnFRYWxIZVpNUWw3QmxDQmlMdHB3bnBuVnctWkV3Tlh3MzIzWmtnQnRuay03SDFmdkV0ZmF5cDFmUXBCeUhsTnRsRVlMR2h2REFMMS1mendNajBRdFJsZUhtd2lodDhGdDVPNmJHbmV4djV6R1dma2hTQkVrcW5Na2N0aXJ4S3BkOF91Zi10OHFsRzN2UUVObC1XWEpDSHdKT0lpX1haSElnaUZJelczRms4YUlhQUdkNEtyM1BLUUlmWFMtUXZVdWtaMmV5d2Nma1VWRlMtZS1DUQ?oc=5",
+   "published_utc": "2022-12-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Five Accused Of Killing Rajasthan Gangster Caught Day After Shooting",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFNSTkNGZUdtUGZ0YS1MOVFmMkkzaGMyMnFER0JwVGJqMFl6clIxbzFGNkE5R0RLTnNYRVgxNE03YlE1Wmd4VHotbUFWSjcwN1JwWGxjNzZRSHZNdXJiUlFrRFVwb1FKYzVzUmFJR0s2UlF3Wl9tNVlyV3VXX0dsc29CYzB5blljMlZ5QkFYRTF4MDctQnpORExiSEtuLXNwRXdTX2EtQng2MjJ00gG0AUFVX3lxTE9IUWdiMmZpeEFsbHQwRnRJY296YVJ0YVEtRE9mU0RRUVJNSzVKQXJIZ29LN0dWZU9LYXFfNlBQTk1jdkdkbFRlaXFoR3poaDZ0WGR1WjdzcjAtcmNsSnBCWWstb3F2a0hkaV8xZk1vQldGVTgzbkhZOVdFNVJENDQwRVo4YmpJeDBBSUhvNWRZMVdhYkdTc2praXl1Mkh3RThkX19ySGo2anJDWXc5Tm0tN2JBdQ?oc=5",
+   "published_utc": "2022-12-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Cancels Teacher Recruitment Exam After Paper Leak",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFJZc2ZodnIybDdnWWVJNFFzT0hSaUN3WUNfOW1nRnU3ZG84UVljcDVsZXZoVVdBYVliaUJhUEJnd1lPRlQ0ZW9PdjJNb3Q4MV9wWkhCVHEyOWFCUWx5Tm9HNWJPQ0dFWk5pM2R2SzJ0OHVCVkJFNzZhTHhfWExFa2xhd0M3cmpSVmlLbjFRYXhpMlBFZloyWEhhbVROXzd20gGoAUFVX3lxTFB0UnlEYjBubzRPVlFfemx1TG42aUpyNkc3ZTdESl92NHdaLWVOUWgxcGU2NTBrVWlHSzFZLTdBaEQzd1JRWTNCNkU0TGwwY3h3ZU9qTlBmazZyU05qZV96MjRkR3FPdVZnMzlNblJPSnQtSVpTOGdGSlN0bWs5QUN1Wk5NT0Z4ZDNzRm5OV2ZHeEJtSjR5QS13YWhvYjVkRVBzYlhEX05HOQ?oc=5",
+   "published_utc": "2022-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Man Taking Daughter For Coaching Killed In Firing At Rajasthan Gangster",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2M5c1AwZkdlcDNtckdDUmkzT051UnJXeXRRUlRfMElJR3FtTzh2bDR4bUlGTVFFenh3Zy1LMjd1OXJCVjdraHM0RTRESkJpUFJtbXNuSUhzLVpPck5zREt2WXNEdUhkclpYQUdPek9ZTzdIMzIwS1J6bzIyUVNZMl9JbzI4c3lSM1ZvS1llSHktbFo2eXBaaGd5VEtCOC1YWGdQQVF5b0lTUdIBsgFBVV95cUxNRi1jcXFITzUwYzFsaGtZNWNQSDJteml0Z19vSDhPMVVJb2FLVUc2VS1hdmdBTXppbUQzQ3VCZHZOU2I0YXJjcHBfOTFIVEg2Sk5wUVRQdWN5RjNFYk56SHZ1dnJGUEZUQ3J4ckVmMVhjb1ktTmNZTWNsS21oaWlHMFdPOHNTaWI5aHhCS3IzbTZnN2NCU1dxdUZpYXpPdHgzZy1FRmZGY3hXR2hpRFgwakt3?oc=5",
+   "published_utc": "2022-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

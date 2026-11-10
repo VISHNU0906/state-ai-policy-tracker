@@ -1,0 +1,21 @@
+{
+ "query": "\"Rajasthan\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-09-01 before:2024-10-01",
+ "items": [
+  {
+   "title": "Raj needs to grow at 12% for 5 yrs to become $350bn economy, says CM",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSUhsNmVNczQ2RXdlVVJibV9XZURZOEpZRHhReXh0N1BBdUVkNmRmSW4tMmJiM3hMS3JyS19sdVptSkEwUFc1RF9qNFhPRUU4MVBMOHoyd1NyM1RkaEFPejc4MF9LTmVVR1pXQ3RYTHZ3YWZPdHhPaTQxVWMyVWpCNEYyWEJhR2lhby1FUUo2TkJNRFM1a21RX1Ric3RqM2dxU2thb2tOQ2QwU25VdndTeVBRZ3p1VlYtNXV0bzQtaXFBblhJa19HSW44RXZJODZKeUHSAdcBQVVfeXFMTXh1dEQzRXdpTDZoTGI5dGlqdXJ4Z0dES2xKQUJXVnBaeDRrSFktVmhZT1BQbXhVSkJLNGZkdUxrd0xQU1dtakMxT3J2SWJHV1lQTjQtU3hvNWp4RWR2S2xBR3pmbTRCbWRDM1dVQk5uMnB1X1NfV2RwcEt1bHhmb2ptUi1xbkNETHZNN2ZKcEZhczEzT0I1OTNhUmw5UVl2S3lVRmd6NHlwbnlkS2hDeUtwZmpWMnNGYS1nQW84Wm9OT21KUlhnazVqYVd6cW9fMlcwMHU5QUk?oc=5",
+   "published_utc": "2024-09-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ananya Panday on deepfake videos: Government regulations the only solution",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONndpN1VwUE5TWXcwZjJadUZrNW1KWW8yWkxaR0l4dTQtV1paYS1yZE1yb1pLckNnLTdkNFBlcUl2aGFMM3FGNWlkUUJWMGhkZkpQaVZyVDU1YnVJNW02clc4RTJvM3ByUFF2ZmM1dW5iQXYyWXUwbnFMZ1ZnUUFsQUFJUFpFRV81UUMxWTlFdVdlbngySGFQMnY2eHZ2OXozX19jQtIBqgFBVV95cUxNRzJKeXhYelJPUEZkYWVwczdOX3lEZ1FaeVNxQklEbHJTWXQ2RF9nTWY1R05nVUtKcTZDVGNtY0c2QV83d21DS3d0RFI1eVp4VzhMYjdKd0J6bXA0UGxrSVc2NUNFdTZIVkFoYjM4amMwRnF3WVgySEVoOGUxSDlZZGRKZ0RSUHZrV3o4aHJzQklfd0xGTjVHMHdubHdFY0xUbHNDRk1ZZjQ4QQ?oc=5",
+   "published_utc": "2024-09-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

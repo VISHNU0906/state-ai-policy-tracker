@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-01-01 before:2022-02-01",
+ "items": [
+  {
+   "title": "Rs 800 Crore Found After Raids On Real Estate Groups In Andhra, Telangana",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0djVXlmZmR4c3p1UWZoS0lTdXZMOEZwMDBaZkFocHBNT1B2UTBUbDF6RDhGZ3prajBBZzFoWUFLSkZxekJZNXpianJPYUdDQ3gzRVhrVl9qOEhSdzAwZTNhTlFndnptOTVpZHFZVGMyT01TZnAwT0JmNmxFVFZFOFh0azFZaGxnYURmTU91VEtDTVFkcGVodEVoZHA4UE5mNUVCSmNfZ3dyOFJlZ0pnQ0dqRTdzRWYwNFFmWGVjc0tWYmo1OGdUTDVpN0E?oc=5",
+   "published_utc": "2022-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Jagan Mohan Reddy asks Centre to let Andhra Pradesh borrow more money",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOExESXpWSnNsVzZNdkFIakhRSXdDbUNvSzF1bHhlSWVOeS1yalVEOHg1Z1NieHBBOVhrcE0tQmYyVU9UNW5qR3JDajhER2RtYlBubFlzazlrclpnTmRTVi1TcEl5RERlQ2RwQUVuMk5FY29pTVBaMk16N0Z5cUFTZGNCZWV1dnhBaE1tYk8yQjJrZDRQOXpXX2twTXBxNDFnMGhkcmJvSkVRWDFaT083ZzVHcUU0NGQ5czVSSHZRYWZVV2JEUGVEWmFB0gHPAUFVX3lxTE9kTC1rTEYyU21HOVdLRXFmUkNGQzc5N25ZTk1GVENDUEc2bUhzZ25xX19WOFJQc1g4VkJYZndqbmVIMHhwZWJIRWJDd1lNSUkyNnR5Uy0yVGRWbFhnRFpmZ2JpZFBvWGt6cWp3dkk4VkIzYWdyc3V6N3JKYjFIZ3ZNa0hVTktoRElULWNoaE01eEM0UDY5NHltSEs4UGs4VzZnUkhOZ09TbDZOSlRWZlo5LUVDczR4M0s3QUVSWnpGdVNWMWU5VENZVGxlM3gwSQ?oc=5",
+   "published_utc": "2022-01-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh to get Rs 1392.23 crore loan to build hospitals",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY256Y2dwa29PdHJhNFg0TEl5aTlxSlJ6bWVrUWtkV2xRNEFBTEpPMEl0aVF3NE40N1dCeTJvdTcxYW5pVGFISmpFY1pEbzVlaVZDZGxaS3l6OE54Ykpob2hTVkdDMWQtQ0ZhNHZ0Q19MT2xqS1NMTWtpa0xNR2tLbGplNkM2MGUwTldXRURCUGVWN2tuR2dWc3ZKb29kcDNpa0JJWTdqbzl1Tnp0VjVhdtIBtgFBVV95cUxPM0t2Yzl5VEJoa1lYR09NRzNmV2p5N2dqNTNhQnRzWThhSWNOcjZiQUYzZEJ6dHdXdEttTWU3VTAzbG56SUdXWWl0YTZ0NjZ4VDVqNmY2NnBraklRX2NyaGR1NzJwN0h1YVVJRjlwVTVudVRFVzF2a3FIUmJVSUZPdDJrTU4zWm5Qc1BuaVRyaW5uRXp5MGt2TWdVcU9XUGotNXUxRkZMM1dsM05RbENrR3lCcENDUQ?oc=5",
+   "published_utc": "2022-01-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIT Andhra Pradesh and LinkedIn sign MoU for research in Cloud Computing, Machine Learning",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3BOQjJZOEg4WWN0TmxMRnVDa0wzUE5TWl8wUnI5Zmt2NEVWY1JFTm4xZU4zanZTYXJVYmpfcUEwQjk2cURsWHlmdUlKWkFaZWJIeDhDWTZITjYxM2R3RXdNd3p0VU1aV1lCem11Qjk1cnE2UC1lMjZITGkyaWlHWXZUWDhpdE1lNHlXMXVzR1drMnVMaUVMRW1rMW84cjlzVmlqTTB6TzZzZGlYVThvRXc5TE53cUFOWTRSVVhmeVZNWEhhSlBxUVl2dDZiclRCdlJNWFpveXVKMkRPN1Mw0gHkAUFVX3lxTE80Uy1qUUlQSE1NQ0hiNmVwNk9INndZeTQwU0ZQcHJTRTAxak95QVBpcXBaLWRXZVNxWkVVSG1fRHNRcHZ5bU1HSld2TTE5aTBTT184TFRYN1lCblhycEIzVVBpTkRxUE1KeTJvU3lTanRVR3dHd0VXRVgxb1hrdTcxZVVaTTFCczhCSkxHc1c3Q0U4eG9WcUdaRXBhUXU0Y2MyOHdGaHk1WEY3eFF0c1ZKLTAySjNUa1NpM0JDQ1MwYm1EVHl3YVlUZ2U1STR6SVpQalZ2dWZZOERSTkdvdkxMMzFSbQ?oc=5",
+   "published_utc": "2022-01-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh expedites works on 9 fishing harbours",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHNhMndGcjJKMXExd3p3M0hiVXpkZW9pTjlvUVRDRDV5aENiOVBuVlRudlFKYnpwWW5NU21YNlNOZTBUQWRjdGF0ZzllWlhqdl9MZDJxVlhVOEtVMnpuUXg2eGxBTEFoVHZsQU9yMllkMWlxZVFCc2tVaXVrb2xTT1REUy1sQU9RSUJHMDhLcmhCQkdTeWpFaHdmSkNodGViZHFTYUt2Q21jc2tnYndFc1hwSk5KZU9Wbnl5MU5tTFVXemRncFpv0gHMAUFVX3lxTE1OVlJKM1lxeFFjNTJiWEN0ZTUwZ0M0MW9wT25iaWJtcjBHV2gtMU1CTHg5VUlmVndQalRLcGxNWXpub0k1UXF1aTdFWUhaLTFnUnQta1VrLVV3Zng3SWRtSG5KLU9BVDgtajV4UXdfM2xkM2MxWHVvUDQxaHVqYVpicVE3eS1BdmtqZGhRWVR3dUNSS1ZJVTMzaHRLM2JqWm54cGxzVnh4OW9YR29nYnM1RFJJOXdQNDRtZGJjc3ptMGtzMWdLOGVpeHp0Qg?oc=5",
+   "published_utc": "2022-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh government hospitals get 144 oxygen plants",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1E4MjROR0dkVGpsOXMwcVdIZl9lbUNYV0hDb2RqWERnZ2ZVb0Fvb0xNQlQwOTllT3A4aW91clBJWDRBX0kwdjlZZy1NUnNGNlFVYl9KNHBObExwZnByWFEzU0Y4QWV1TFFtcmt6clpVaDFVRm0yN2U5Vm9sSmU2a3hiSFZORWpSZ2lhVHBHVk9GNkhEbURlWVR3c0Vac3NpOC1VY2lYNy1qLW9WOGZGSTRXeG5LNVkwajBBTGh1bFdyOXBma2g0YXlid1JUQWNMSTFv0gHYAUFVX3lxTE9iaEZrN0pOTzcyOUNON2JEV01WeG9HWWY5WFN1UndVZWJuQ00yRk5qaWFwdjZxSzlDQzNUTFU1bE1QckFuTzJ4NHRuOGFOT0tvRXZ5UVpRc2RzMDBoTGpuLWFZY2YwTEFsZ3NyalhBeWlnTjNBSWp5R0Q1NS0wR2p3bWthR3FpMzQ2YnhBamFUUjllZW51eDRTSERkSzFiV0h5RkJEM0ZJSFI5UHVTVTNEakhIVXRKOF9HV09lTjAtOWRpOUphQ3V6a0tkQlk5YmdEUkJVdzhTQQ?oc=5",
+   "published_utc": "2022-01-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Over Rs 1500 crore riding on cockfights in Andhra Pradesh",
+   "source_name": "NewsMeter",
+   "source_domain": "https://newsmeter.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJCZmUyNEN3TV85Vnduc3d6bWgwQ2FCWmtvWC1zcHZ5a3YySFIwak54b2dBYkxzTklDV01GSjdhVjFITF9tN1ZZSWtGMy0ySjdCZXJfVFZlU0J0SXp3LUtDVlpnaVhXMVJ2MEJwTkY5WENzWlJVRVVBdTZNNXFQcjNRNzFQVmV5QTFraC1aSTNqZkVJelNFRXdBNkxpWjB3OHg3Y24yTGJSUjctbnc?oc=5",
+   "published_utc": "2022-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NIT Andhra Pradesh and LinkedIn sign an MoU and this is what it entails",
+   "source_name": "EdexLive",
+   "source_domain": "https://www.edexlive.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE9rUTNfNEFHLTFuRFN5eDlQYjdoaG1TelRZTk1PTFB3aklxZEt0WjhTQ0JLdWhQZ3lwMzN3c2lzWGFpSDZKNmZGQXFEcmF2T3l2andBR1JQX3k1enVHLWNOSzhqOFNrTGJvWXctTGp3ajBXLXJJYXUtVHQ1RnA4N3dnREt6Y2xTM1kwNzcyZm1qdGxaaVpTdkdnTDFwSXhTTWRUQzYxU1dYTUZxWEh3TtIBvgFBVV95cUxOMDJmWTN4a001X1BMcmJVOEo3cktFTnVjcmEtT2VUSVBjSjJwYjFkN2NYcFozSktRQ204ZWFOMFlFTDdtYnpnck9xYVptSGl1THRzNDlES2Z1REZfTlJlYzh5MXNYQ2RTVHBkcXl2NjhHQ3d1aXI3NEpaR0lkaDB0bkZXSkZ1SjFLWVg5MnhBa09vdkdDN1h0cWxnRlBDVmphdmZmbEVRY21OUUFhZTJIRzJxTzUzeGVWcVYxR0Vn?oc=5",
+   "published_utc": "2022-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TS rejects Andhra Pradeshâ€™s demand for Singareni Collieries share",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVZqWFpxM0VWRVlBVG9vUXF6V01WNDBGZWtLOHprNkx3OVg3d04yYjA0eC1PekNUY0s1ZkNMQ1Exd0h5TFptdGhhcFV0a3BWLXhGNjFaQ0IwbUpPZWgtbDV0Q0pXdUZ2MkJkdjlLcGFrTjVHamdBalQtRkJoZmMyVUY0YWJWVjBZMllTR2VycFFGUdIBlwFBVV95cUxNcS1rdWdfWGpmZ1p4dWJPaEwzOFRzVUdHbEs5Smo1VmdQMlRXSm1WV1RxTGdmUXBBSFktZTV0YVEzUkkyTjFEZUVvTS1NQmgtR0xSa2VscEFvQjNRQzQ4OWdDZWVwekpUMVM0TmZIMWdzVHo0bkpWSHVtSFJqU2w4U1ozaGhLTGZyeUliQWtXVEkyalQzMjZr?oc=5",
+   "published_utc": "2022-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh takes steps to sort out woes of Polavaram dam oustees",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGtVdW1GcHJWUk92Nkp2U21FQm03OUtSRFMxc0U5MEdGdE1CTlNDNTdBaHdkSVdYZ3lkdGkzbTVVcjV5S3VMNmhKd1BvQlhHZE5oOW5GOTZvMTFfMkg1Rl9DcDhZQTh6ZHBpSVN2TzBOMjVvdHp6VWJwUG83Y2tzVm8wNHRKLTJnVURaVW5tWE9vYVQ5aFpLLWxTRHFCR2swbjhHR0w5cmtlbEN2bzUwYmlQRDRYeVYt0gG-AUFVX3lxTE40TzNaRkw0LXB4TmtxRWEyRTZGSHJYNl9ITl9yYjVHckVwWGt2aDBOc2k1d3dkLTdjdlA0dTUzdXFWeVEzTVNyVzJHdzdOVnZSNEItenNpNmVNVUJyRXRUNUttXzhlcU51UnVMazVBeU8tQ1ItSkMteENWNXdGTmNDLTFfMV9WcF9NTW56ekpIb1pERzhoc1hka1UzNmNfUUlTdVY5QW1IbUYyVnhMTzZrY2NoTzZDbWNRbU5YVlE?oc=5",
+   "published_utc": "2022-01-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

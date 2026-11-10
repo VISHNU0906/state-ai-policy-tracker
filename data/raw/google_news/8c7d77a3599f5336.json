@@ -1,0 +1,37 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "MoUs signed with Tamil Nadu’s Centres of Excellence in advanced manufacturing",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU41Q0NleXYxNXBqOHVpRVk3bDlPUGJ2VXZlY0ZPVFpaNzlBZ1lyU0htZjdoUW12cnU2c0U2MXVGX3hUQWtVb21QQ3lwX0JlMDJLeVBxbjJiTks1emR1WDk2X3FqRHF3UURSOGYwcmZUUmxjT1BsdWdmZGhHZ2F3QnZOT3hxS09XMWpOLW1IUUZHSmpoRGFLdEpmbU56WXFKbEt6QTVGQlFwM2poWURKUHAwZ1JQeW1TNEZzUVp6STFuVmltY0pRb3dBclJxaFFEZjI1Y3ByWW5HRmpWSGlF0gHmAUFVX3lxTE9VWWJxX1JjOXA1WFhlZTNhdU00TWtvd2MzQlFydjJjLXVtY0xUOERqZzlFR0ppdk9ZOU53TXM3MExjM0Y4bE92aEtray1qcTdmbUc0UUdBTFl3YVgxdDFQVlBpWlAwT2FzQVhJTFozOEU2dDZSaXRkZHVQR1VLQV9sM3VfaE9mVWI5dGxEdUNZU2JUZ2pvM2o5cjE0aUdiczZIRUxHck8wQXBoVmVUbFAwTDY2ampPNGhQY1dqUUVjVGc3dTFRWXVuNVJ3TTNfa2N0NzEyVXNsZllQN3hqa3NBYnRzNTJ3?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Traffic violations have reduced in Kerala after AI cameras installation: Transport Minister",
+   "source_name": "ET Auto",
+   "source_domain": "https://auto.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVlZxSlBkdjNMTFFRaklnWGkyRUVLak0xVVoxRXFaLUliOUlSbEpPVWktN1ZnLTBiNlhJRS1OdVRxWjd3Q2ZfN20wcko4OGV1ZjZSMFB5YmdBbm5RdEVsc0xlMHZMa3BNd3ZMd1hZdl9KOUY0TTJneTlrWk1nQzFoaF9vQTNydlBVeU00ZXF4Ql9nYkNxdFBLTjN0RnhGQmhkTGtZY0lXZENDVklxUUpqNndmXzVmMTJXLVlWd2RZbTNHTDVCRTA3SXJ1NENZdHVzMGs4NTFMdlMtcHEzNTl3aUZMY1NSMFhqMlQ2etIB8gFBVV95cUxOODFYRjExc1hkNjhITzRBYjRtNlZNTDVfeWtmWjhYSXZ2UDV3aUhqSHFFY0VwN28tVUJGYmZXMEZ2b003czdabWpoRVNXZl90bWczelNzdGNCVC1tdXo0T3VLdGJjVENFdXQzaFVYRmJXTW44VllIQThJNm0xRlpYdWktQ2tzNHNmekJBVmp0OENVRHhzenVqZnhNSWFVQXQ1dHpONk1VSWlJUWlnS2pPRjZfOGZpdDExNkRORFlmMkphNnFXT0RZcUFUTnJaRnN4TW52RzJfbl81X0ctUjVGdGNDMUtIMXNBSU1hV01JdG9lZw?oc=5",
+   "published_utc": "2023-09-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Man Who Wants to Defend India From Modi",
+   "source_name": "Time Magazine",
+   "source_domain": "https://time.com",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeGVaakUxT092S2NNWEh5dVF1bGlhQ3BMVFp4ZjAwQ01zSWZiR3FBYldRODNJcFp3SVNTcVRBRTQwVFZ0UW5wSU5URVlOS2hlMk5weXNEZXZ2UXlaOW1tR2VnYmNkQThkYzZZd0lybGd6VEM4WTdrdw?oc=5",
+   "published_utc": "2023-09-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How to train elephants to cross Coimbatore rail line safely? Building underpass isn’t enough",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWTBlVTlRMVlXQVo0bldGQnQ2U29EYXRSMmNnZ0FnYzNfaFVGU3FFOWN3bEl4aUVNdVFUNUxhdHNXVjlyU0Q3TWlKU1lvY2xNUUVtcXFic1M2NGVNa2JZSGh6TkV4bXlkWGRwUmUza0FpbVFXU0tEb3EwVHBCdzF1VW1ub0UzWngtMzJaZW5yaDBDaUZPWS1kR0xadVVzZVowQ3gyWlBBYXZJNFpfLWFCLVdhQUJGd0I0ZmxLUjVfSFF6WGRpUG9pZDc0MGctbkc5cUpyNFRn0gHbAUFVX3lxTFBhZDMzdElIMjJrS0tkMERxYXFOeWtkeW5kX1lDdmhQTTU5am5aNFZtV3FPaWg1UUxXcXpFQ0JTQlFYTi1Da3pmSUFicVk2OFdLRjk1cWd4dllwY0VJTk9qSUNCWFhORWVIWmZNdXhKbDVGc0hnVHE3QnRMOE9rejRITHZuZ3VWQVBlQjFIVjRvNVNjTEhub2FOdTF5dHdqYnFZT3pQRlh4Y3daUGI0RkRRUWZNMFdUTW9jemFQMU5aMlJaVjZaZ1JGckZJc1NWUklzX3BTR2FwY21law?oc=5",
+   "published_utc": "2023-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Odisha govt signs 3 MoUs to develop semiconductor manufacturing",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUdxRHljRTRqVmZBYTNCY2E3U0hFaG9HU0U3bHBIMkZZYU15WDBYaW5jMlF1ejAzcVdyNzVzYkNKc3lUa1NhZlI4Snllb3JtUmw5MGJvS0FxQWdadFY5Y1NGbGNRVnRUVG90Y0p1ZVFPQ0FfV1VoRXN6QmlGU2ZoNE5xYzhwQlNXYXQyazVQbEkxblZINldoek1ENEp5dS04OHRfaElONkJpakFlQmMtZXc2SDlEM2RxdW1MTlBZUDFGaFhmMFpuaDJ3UHctVlhtYzFLRElkQmHSAdwBQVVfeXFMT0R3WEdROGtwNHoxOV9ISkhEYXJDQzdPaFgwSEVYbzZPT1l2bldkZTlyaUVmNjZnZXNKTUYyS3ZFcFNmdFN1TzB1TzB3aWVlMVVFT3d5NjY4X25nX0ZJTW53ZjRzekhzLTlYcE9KTkpwNXhSRWl5NmRoUTF0QXZScHhQTGZNN1J0bHFPMU55T0lvaVJ4X0lwQXVkdlhzdVFWMTRQUjQwcUJnRGt0TkVOc25hQk1qZVZ6V3R2R0pfd1dlaE10RFBVMzVhVmEwMGVIaWN1Q2JoTmlnX2ZvdQ?oc=5",
+   "published_utc": "2023-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bhubaneswar Metro: Odisha Cabinet Approves Phase-1 Development, Appoints DMRC As Expert Consultant To Drive The Project",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZEdnZFJqTF9VNVg2Q2dCNnhRRl9VbGNSNy1jdlM2QlJWZndXcF9BU2drRHhZSGZZQUFSYlk2NTIzOW1ySmNNcmgxTnU5Y19TN3VlbmI2UkJNeC01S0h6My1CVmRKbnpoNnd3Ym9HS0dSZ05KejQ3UGVCZEpyb3pPRGRjbE80THp5R1E2SzJPeGZkT2NuUENtZm9qb09oWXJVQ3JEclBsWjJEczFOWmlzTDRsMzlfY1pNS29qdl9KRVJ5cmdXSEowN3lmMC1LSG9zV20yUWFXTVZEWGltT2xlUEdCTldPQ0MzeVk3SdIB_AFBVV95cUxQUEFRbjZxd1ZaVU55bmJwdzl0eTNRemFtWTl5Z3h0Qy1hbXQ5bTN2WFo3b3RUblMtRi1tRkRodjdnaE1IUms1Nzl0RVhUZXVEMTZ5NksxQ2Q1b0ZqSzlRWUpJM04wNnAyc3pJZzhpaHYtNXFqbnJOT0V4M2N5ZFpjejRhXzlsbHpyeldXMWd6STdTTjhpbmJKMUdObE15b1AtMmFSQXFMWGQ5a0dIZzNfODRrZE1HTzVYMEtJWkw1NTRXUERxOTVQRmRLZm1WQmwzTUM0LTVmcXk4MzZfQTdZYWNCa0E5cjFqbnF6TGw2THlrTWlwMm1ka0cxbkw?oc=5",
+   "published_utc": "2023-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM's Ex-secretary Joins BJD",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGZnSTVrWl9DQXBxaXJYTWQ5YXV2NzNLems2ZV9lUllwVHJFNWV1aXJEa3BQNDBCUmtwVnY0dVJqaFNSVnRDS3dkOE51VXFUYlBoMlJlODhQckNxNHlnaUFhZHpQWDFibUhlWGUzY3pvcjk3eU9scWRKUFJsVGIyWllJajRKUTdUbWZjSUNfcURYNGJwd3NVRllkQnlEQTktTU80anhuc0JadHEyTTR5MXpONnFlYUNNLVZ3TTRVcjI1OExMOGp5eE5Od19vUUQyY2s40gHYAUFVX3lxTE5rM1hnQTJKM3dUSzQ5eHFiWFhKcGtGa2p2WFZReHhsR0ZHZVgwVjd5alk2OTdpZFRzVDFYNEM2Wkp6eUt4TmV2Y1V5aG9WeG9nNDd3bjRXMENOLTdvVTNlaGZTV3pFdzl5eXVDSGVyMnRlVld5b1lWbEZJWl9rZEVseVFWS1gwblZXS1NBX3c4OWFyZkxDb2p0VUNEUHVLdDZ4VVBSMU1lMUVUTWZmVU01bHZKeDJxd1BQVzJBa3Bfc3RTOXhIRXBTeW5ITnRnZTR5b2x4R2pqRw?oc=5",
+   "published_utc": "2023-11-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Milk availability in state 1/3rd of national average",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTJtRmI5M2xzYWlyRjVHSU5sTUx1NEFQS0JmLXA4N2V2SlFrSGd6ZHFnb2FUWUN0aFF5US1Wck5tak1qOFhsOFNxWVBTcXhvWFd2MDdJM3MtaHNXd0pCWU85QWQzUmlna0piQ2VFTmF3ZS1iSkU2N1NKV0ppSEF4cDlNUXIxb281dWp0anJLNFEtNHhlSFZTY2JoWnlOUkF1NHVJQ1NuSzRXUUFDQ0V4NkVJTWdWWUhqQUhmQXdXal9vaG4xTWxyRtIB1gFBVV95cUxOTWFDOFl5ZW1NRXhDZlNqMnFzX3Y1VHU5bDFEeEphYXNTeHl4NzE3dWxmdEloVXhoZ252Tm5HSG4zTXFBSmVmS2o5RnA4SmFiRmtPZ1lhVEdmNEI2dG5qMFVESDRYRlhDRUlSMXhzbGJpQjB4cnpjMHhDUDZIbW1JRnFIMk9vMEpVd09WbmI5YlhxXy14SXdCQy1zNlU5Ml9mVEJodU9TOXY0R3VIM2FYTlM3dFh0WklMMmZhR18wc1N3dGYtUFNHUWxncnNpajJuMlg3QmZ3?oc=5",
+   "published_utc": "2023-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt to procure 70 ambulances to improve healthcare services",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWFZGS0U2MWxHR09rdTBhd05nQ1VGSHZSTXhFM1BNZFJwVi0yTDZCOFRJS0t2OUd0US01SGlZeVA0aENrLWtYcVZrZGM3SzV6NklvSU1US1lnZHdzakh3UlpQX0lKelhOVHdyUFlidGJRamJJRnJDbjJFWG53OHhhMS16X3lTa2RKZTRXTDM1dHRERkRhRk5kS0UxQnliRVJmbGJYbDJPaXl3SzdubmNPanRLLTVUTW5Wb1lob2ozeXM1Q29LZTBnSEc2Q09tTW1qUTAtMWZ3SC3SAdwBQVVfeXFMTkJBZGZUcTJKZzhBMHBCVFI0SzBPV2pNREFYM09CZlV0U1FDX0tvU21va3NaSnhDY0NVN0VYcGRpaWtna2tjc2p3TU90QnZ2ZzlFNjVDMUxmOW9pOEhkSkJYT3VBS2NiSWw0OVRIeHZRdkR0MFBJcGF2cFhJbXdIbXpxdENiUDJpbDJDUGZqeGc2TW1GLUFtNlZ3OEFNMTlFU3pkTlkxSG1KX25TeEdjWFZsN0YxVGVxbnJ5MHlYR1dpbzIwWTJvTllvZmsyMW1Makg1OUVVN3VwVGZHTw?oc=5",
+   "published_utc": "2023-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Former Speaker Maheswar Mohanty passes away",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRS12aUY5dnRia1IwZS00cTlvZkZFSElRTW9HaEw4Nk9TZDAwTlVRcW16eFJDa2ctVFhHNS1wUHJsbUdZQl95R0hvdlZBa2FtcWNkLVdvNGZ3SlFKTHJaaDhIRkQtUVpLalFHYmVPRjNRWmVaQ2tLcFh0eGs1MzhoRnpRbUc2ckE0OXpsWHo4Q2EtMktzSThFUlV3SmtZbkw5YmVVc3FIMmVaTnFOcllCUjR0ODNOekI10gG-AUFVX3lxTE84VExqMFlKRXM1Z2NRZnBxU20yX1BmcE9iUkFUV2lHa01RZkNFanNtMkpMNGl5cmVCQjdfcVJEOVpwU3ozb0IzYXRzc2NvMzMtYnFFU3liRHVKSGh3R1h0NFJoNnl2MkozdlIwVkd1bm8zc19uX1RCUTBLaW5neTNIdEMwWHU5V1U1ODZ6UXFIQ1dfb2pWeUFHYkttOVRycWFxVlJxLVVueEViN3I1VDNaZlI0Skt6X0RTNm5aUlE?oc=5",
+   "published_utc": "2023-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt signs three MoUs to develop semiconductor manufacturing",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVJfTURFa3B6d0ZDZ2EwbFN2ZXBqaUF3WEM0Mk9RRkhnZTdvSVpPeEp4RnVDOFMxWVU3bmVzWGl3djhoSFJsZTVlMmNwUVNIeFYtS2JnSU90UjJicC1tS2tPbWZleW9PLUVwUWVjeTk5bFlrY2YybVdweDdyY2lQbU9oZzB4RVl6aW00TE02LW03elJJWUlxZVJQZ3JITTIzOUhzN3FPaDE4LTdJNnI0cGVLS19zenNnRDhhMl9GREdyY3pjUm5zZnlfVmIzVmo10gHWAUFVX3lxTE10YmxlcWVpSDQ1bnJTY01WOEQyNnE0SHZlOUs2NlZYOU1GRHBsS1VkNEhWdVFBbURidXN1bkJkVEZ3RDdCOVE2a3d5dUpFUnlEQTBSMGZ5SmRJYl94Zk9SeFlJR2VKcEVINFhuZjc2RGcxWXI2ZnNUS3p1SVl1VHppS21VSzRqNUROWGZjbHVMTWdyckMybnBTMldpTURCLWxuU2tGY211TUg4Z1FRY0g1akxNRUppY0RUcUxIc3I1VXA2cDFUYWpEdXpfcUdBSlZUVzRReXc?oc=5",
+   "published_utc": "2023-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Imposes 7 Month Fishing Ban at River Mouths to Safeguard Olive Ridley Turtles",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRi1LZnJxclpWeHJrS2dkT0pfVHdualNQb2VFU0t5aXFyTkU1WkJQdk5WTEJOOHBGeXU2UnJOUVBhckttUmZobUMxUlFtMU9hSTdzX1JVWFJ4TlJybzlEbC1fV0d6Mm5KanMwNEFuODVHa01kbU5pOThCNkUxM2F0M1BaekVBbnhDV1ZwR1Vvelhzc2ZsbzRCSTZoTU1nLWFIM1dwV3lqZFZCUdIBrwFBVV95cUxNV0dibm40N25JTG5jWDNJalI2OU1PcmtTT2V1TUFtbzNPbWZPdVZkVWxFZlMwci1hRE5TVUl1aVlibGpZdkJtV3BtT0gwQ1Y2VDNmOXM0VW5uY0hzcFFRR0wzWXRqb0VuTU5tZG1KMVFza2gxTzRaNDNXR0cyMlloRlRDRGU1dlp4OVdtam9PdUp6MUE3dmxBVkpYak42c3RjT3EwNEtBcV9Cai1xM3Rn?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt approves 12 investment projects worth Rs 2,794 crore",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM0t4REVSVzNWRlhqVHVtajZ5eFY1MzkzeFJxRkN2LUdjN3VMZlRldnJFcUx3MHJRODdqcHVUYl9aUHlQOWJmLU04MkJxYjMzMUlKVDhRQVdiMk9mQmhNOFRsQWdidjlsdm5fSnhqNWd1emhiNXRfajdXZjFELXBmTm1MTDFRZ3U4RmZ2SzUtWi1DRVRSczJGMWozYV9ybHJEQnhicHpGZHVHcUM0czdjdGtwQ0tWa1F0YkRYWGxLT1hWSjdJQ3JoWklRTHViNWpCWk9neTV1UTBkQdIB3gFBVV95cUxPdmJ4WXNoOU5adWlhQnU4cDc0eFZtaXdmNzNnb1NtZ2VfVWVuZGNsRVE3d0tvaGJXX0ZJejhEWndMNUdrQTI1dnBVLVd0YjlCbHRIYzYzNDFPTGpST1hPa3otYm1aME1CWWN2anRDSE4zVUVzeTEyTjExT1RPZlpVbVU5czZtaEdJWXppejB4cExMUWpIa0ZncC1fOEZQVktDMlNZaFlOOS0xVHd1aWVqTG9XRTFmbUdXY2lHVlgtUm5rMGJIQ0dWbXhZU1BlZ1Z1MjFmTDhNejB6YkJSc1E?oc=5",
+   "published_utc": "2023-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha DGP Sunil Kumar Bansal to retire on Dec 31",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX0hDQlVXZUdsM3lURl85R1F2SHJoWkVTSEI3cC00Q0dBT3cxdV9vU0I5R01xOVR6VzFGTkFiRW1uZ19rOHhfWHNBaVZKR2xQRFYwU01vZzZ2OUg2R0UtNG9LNlp1d1lKZEQycGRhNy1PazRvcXlRYUt4TVhJOHVST2xzbG9tcDdKRWV3T0pncXdGTTN4VGtXZ2E5eUh0NEFMOE9sSjYta3VwRUFsMFZqWjhvdXlvTXdMalpLZXl1R2zSAcQBQVVfeXFMTXE0SUJNSGM4VkV5bkZjblRRd2ZJS3pSYmt3MmVRektkbFU2NjNQUFRwQ3RMVG5XOGoyb3BtaHBkWGk2SXlWRms1LXBTeFpIRktxRmNkaE9TOE1oNlpTVVZaOHFuRWk3cHNNQllYcnAtQkRHX2NIWDFCVnZyWEtCWHJUV2xqY0pUaVQwRk05b2pSSE1CbVNxS1M4VGZoYWJQelZFYjBOSjlaUzUtdFFDYVJXMlBJN3JQMWcyOENSTEFqVUpOOQ?oc=5",
+   "published_utc": "2023-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

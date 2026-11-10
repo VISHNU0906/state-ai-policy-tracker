@@ -1,0 +1,21 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Man Finds 26.11 Carat Diamond Worth Rs 1.20 Crore In Madhya Pradesh Mine",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORlpJbHR3bUdwandxTEdCRXJ3eGV6c0pJc3RSbTg3cTNmTFhyX3drY3I5WGJ3NUJOMGFHSVFOOWFFQUJoM1A3YTY1emJXRHlsdHNkUEs0UDkyTW41WWZldDJLRG91NDMwT1pnOUg4c01WRjhMWTRZVzdTWk9sN2xSZGxXaHV3M3lIMkQxa0o4Zk12VEcwdUc1M3BCZ2tkN2JJOFlwaElSdlJrSUVsVDlUc2QyQVdmZjJFVUtiU1dyd2cxX1VlNHc?oc=5",
+   "published_utc": "2022-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "His Plane Crash-Landed On Gwalior Runway. 85-Crore Bill Given To Him",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUZxVjZGcFc5eE9uaUZvdW40VzVaaUJYbkdlbjBiTU1qTGZNNVpHbE5saVhTeHdSeHVkLV85aUFLLUFlcnZuVjNjZFQ0NjhXNnF1Mm5oZkFNOXJOQzNxRk14R2lyYzJ4dXZfSi01aVZmdnc2UWc3WGJDYi1sdnBBaHNZYlB3UkdBclJXWXQtZnlNSVpadTBlT0IwWWFFTkxSREF0amdMbjJjdw?oc=5",
+   "published_utc": "2022-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

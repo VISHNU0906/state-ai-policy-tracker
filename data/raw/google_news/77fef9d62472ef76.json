@@ -1,0 +1,29 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-08-01 before:2024-09-01",
+ "items": [
+  {
+   "title": "CtrlS Datacenters to invest $47m in new Patna facility",
+   "source_name": "capacityglobal.com",
+   "source_domain": "https://capacityglobal.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01cG16RnhBMElSSG45N1d4RXhlekY1U0tvSW53OGlRVTFXYmdxaFpwYjhPNTU2Y2dYdjlSUjNmUm92MFNhVHlla2I2VTJlN1R5MEVwZ2hkQmpYNks3X0QwQUphaw?oc=5",
+   "published_utc": "2024-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CtrlS acquires land in Patna",
+   "source_name": "Construction Week India",
+   "source_domain": "https://www.constructionweekonline.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZW9HUnc4Z2ExT2pmS0gtMGtwQ3A4N1BCNUdJc2xadTlybTVIM0gyMTAyT2FmOHpFNEhfUDZsUkp4dElLWUpfRXFBZU8tMXNncXdZQVdjZlp1a2ViV3hsOUdzR0c5eVlnbVZqblJNc3gtNjVWNFlfTjkzcVR2bkdFVDBoS0phTGg0STBB?oc=5",
+   "published_utc": "2024-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CtrlS to invest Rs 400 crore in new Patna datacenter",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFFvbVVxaF94Nnl3YnNubG9pcXV3R1Y1QjJ2djA2aDNfa19wMlViMV9ONF9jZXNOM0Z1TVdlT3R1bGQ2eW9TWDJSUDJYTFhPZWk0SHRsN1FBRS14SldIQk5NcS16RENfbmdaaE0yRUp3T0FJSDRDWEZrQnNOcllfaVdMWUtfU1ZuY1BPcXVFSWRnQS1RMjU3ZjFLeEZQSDFVR3JtT0FhRlo3bWtld1dsZ3RyWGFEd9IBuwFBVV95cUxOTF9EUlRMMzJMYmhFOWFjQjJMd3QwLVUwNDNySjdJM25ZZk8zWHhoTVlUMjFHb2N5Vmk4MFVhSDVxRTJnXzdhRVg4bmNoMUxJMW1RQTJFeUJGeGw4UFZGOExjWXM5ejBpNnRyMVk4UzNWZGJRbHhjZm9SWGs3RWZINnR3M0hodEJidVhrbzJobll2ZkM0eHIzLU5BbEFUX0Z6ZlRxaXlYZkppWmtmS2xiNXFZZndjVHlyNW04?oc=5",
+   "published_utc": "2024-08-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

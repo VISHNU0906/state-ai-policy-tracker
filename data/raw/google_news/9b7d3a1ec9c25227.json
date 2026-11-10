@@ -1,0 +1,37 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-12-01 before:2023-01-01",
+ "items": [
+  {
+   "title": "Tamil Nadu hospital’s patient data reportedly hacked and sold on dark web",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZVdKek5QVWJSM3dFTUhZb1JTX2xGR1A0a2wzdndqLTc1UE0zb2ttSnBYR2RBRXdIY0xhTC1pQUxLa09zN2JrUkNhU0E1QkZHa2xGa2hDaldaVWR6VjdTOGFTSXlvVDdSSHZFVDJOZnBvNFhnNXpWVmItb1Nwck5nYlhSbnRTT2p0Z0dRSlZFajVyNURSR3VCZldUX3VtNFBKQXQ5UDdtcVk3ZmltVzY4MTJPWXB5aXpQU1h2VG5OQjhVdUpnZWFsZmJ1d0dZZlV1QjhWV0stSkp3akVSb3lpdldjVml4RUZvdlBOR0N6V0c4OUREb0HSAfwBQVVfeXFMTUtCT0puQ3lqWk1lS1hpVy05V1I1X2xxM3M3Y1NqQXVsQ29GSVFJbEYyaHZ6ZW5nZk1ocnVYRGY1OFk1V2JCbjBZMjFrc2lfbFJTQ3ZKc191Z3U5NUZSY05kbFdMZ0xtYlFYZzN4QXRmR1Nzd1JDQ1ZjY1lNeUpvOTBJNVBhSGl6OGdKcVBMeWlibjl1MDFpMjdPZEV0LWdxZUtjbU5zQjg2dGctQ0ZSZTRLbzA2WjhBcW9NdXV1dF9GLVFLczAwbmozYmZCU0hpR3dpV1VGUXlWSExlZmk2WnFIZ3dsalQ1UzFyRTBDekJ6Zm9OVjFQQzVUV1BI?oc=5",
+   "published_utc": "2022-12-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Industries Invest Over Rs 6,200 Crore In Defence Corridors Of Uttar Pradesh And Tamil Nadu, MoUs Signed For Rs 24,000 Crore",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWZWUlRLTnRwU2NKLXg3b01YVDBsR2ktZUJ2czVfaTJKb1BpTTJUeEZTQlNFd1MzUUptOTRoR1J2NmgxSXpKaEwtVVdZNnZ4RUNId19OaUQxNzVHcTVQaDBUVWtPV2dzVXJqYVBVN1oxVW5RU0pkeHpoVlJZanRxa05CWEVZTU85ano5Z0dOOWVlejBucnNfemVDYmVma1g3N3kwNjZsWl9vRlZiOXlCRjlKYUFNUTJaaWVhQ3JPLVJSNjRDNWpoQkdTWGpabjJVTnQ1VnRSTXNmaEJfcnlFLWtRY2xNOHVGUDc2cUQwTjHSAYACQVVfeXFMTlA3VFBtRkdSVmM2dXdZZDJvdDJZZFJXRGxLdTNtc3VRc1hiaXQwX0hFRUtTTks3REFjaS1OMjl5cTlTdHBwY3QtQmx1MUw5M1RCR093ZmtkZ1ZnOHkzUElkUk4xMk90d1JNTDlYeXEyUGdsOXJoSkNXVWNLSU1JV3lnN2JjU3VuNkQyRF8ydFpBNnpMWXJHOU5XbnpIa2prSzhUQld4V2hNay1yUkNmcWFwdjdQQ19iZHRvNlRqZGxub0EtX3FSVU9jM3lINnhnNDZ1UmFLZzFDbm1SZTg1LWpXUWZndkFTVWVFTktJMlBvWFp0NzN1cVhySWdwckxqbw?oc=5",
+   "published_utc": "2022-12-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: The trans people dancing towards their dreams in India",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sQi1NLWdFdE1jcHdOV1dFb05tb3Z2TWx0WjJUX05NdHJVRFhDa282UkJqZ2RPNTlQU2VYSi03ZUNHMTFyWkROTUtQNDVEa0hkeDVTVllpenE4WEJ3c2x6NE9yUQ?oc=5",
+   "published_utc": "2022-12-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt to set up botanical garden in Chengalpattu at Rs 300 crore",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDNqX3ozSW9EV0lBeHJybDQtdmh4dlZ2MEVHc1BZTzZxSGtONWtNR29QN0c1OVBuSmc0UDlwdDhWTHpKb2NfVVRMMHJmaWI5bm5wRFp1TFNYQ1FwX04zcW1EbzdfemNMNndXOHhBZWVRaHl0aHRnYUhYeGRsWmFaajM2MjNyVWZhcU1fWUhnZEw3ZVd4bXFnXzEweTJYVTNHbmVxR2lOZ1NvRTV1MFBMTkw5ZFM5QktQVFc2Wjc4dm5WeDF2UUdCdElSUnrSAdMBQVVfeXFMTTU3ZVJYSGtFUjFyVzB4Y2pBX1N0OHRJZ04tT3V4bFFEWEUyNGpINmFacFg5d1QzTTBMT25TdHFubEtXakZsV3B4eW5oWl9pa1lrbzJuVHk3WjVEZFlhTThDLUtDdkhlQnV5b3dJXzRNMUx2VU9sdGZrNmVUdVVuNHV4ZWtwelRmNll5VXBkdWJ1S3dNSVZtMFlEMlZCQm8yQTdMQXRUdjVianhiQ2J3TDNsSEVyeEdLOE9RcUdDYmFFS1FQR3ZEZzRxZ1VDYzRiR2lJOA?oc=5",
+   "published_utc": "2022-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

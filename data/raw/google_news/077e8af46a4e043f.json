@@ -1,0 +1,277 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Vision Conclave 5.0 | Vision Conclave Uttar Pradesh",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOeFZBMml6bTVKWEljSU9IYWlSbmZkaGpmaHVrWmNhMVhsSVNrdFFGTndja1dFM0lsMldRSXpJOUpsZy1qZVlsY3Y4NVJ2Rjk5dVZJSG9TVnhDOC1TR1FpclRkRHR5a2lxZmFrdWpkSy0?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh’s next growth frontier: Building a global hub for IT, AI, GCCs and DeepTech innovation",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVm1kZzVwT0l4UnRmMGREVU5aVGJya1UtZG1USmktZlNwMzR6aWktMm1IQW5uSWphdThtVmE2SmRrUWE3Z0l5aU9NSTBOOGlFQ3dxd2I4SlVqMXJQUmdDZFB3bDMwb1NVaTVjQXotejFjM3pwYWRpU0xJY3o2NG9nWFdWRXZPTElTdlNoUDVZUmhqZUp4Rlc3a21WSnItQ1FsYi02OTlzVGNhaUpzUDJsdXFSbFN3QTY5LW1pemMtWHNvT0lhSlhNLXE5YVJDYklLcmc2TnpsMnU2MlNDdUV1TGROT3lkLXBHTDZtQ1hsZ3VoZ1p2Yk40XzRDZkVtUdIBgwJBVV95cUxQbGkzT3VKNElGVXpqZ0JKa1VKOWtlOFQwNDFjWDItNW5adDhNUUVpY3VhUDQ0cnphRm9VMFJQUmcwMl9sLTgwZFdWelgzQnVpdm10cnFVWUNMNjlfSHlocHV4WmdrQUlONE1pQWdabHYybjllUGRPSG5qQnpFVXdDOHU1a3dWV3FRenQtdnltTW9Rc1U5cXNSelJXM0Y3RGNaUG1UZVhQWEsxZnF5cGRpS05Vc0g4RmNBcHNrMzZLX2doSW5xRndYbFFOU19RVy1TcFNfc2d3dHFtM1dWNDZxQ21xWGZMQnp5SWlNejloSVhiYld3ZTFwS2ZMRDNvZ2JNMmZv?oc=5",
+   "published_utc": "2026-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjNIRm5qaGtkQ3lFR2JvU2tTS21mNUZZbnFqVmQ4bGYzNDhkX3FOTnpka3plS0tWVlozVFd6TVVfR0w5LWg0bmQ4eEh3VWpQLXFNYTZkWjA1XzRUT1k3ODNvOTQ2YVlSWTlnRmd0WllpeFJ1MWFGZ2NNLTdFMi1qX1h1Q0JfRUt4STRHSzJZdWhSdWdCRUk2NFd5SkNBVWE4OWozdGU5V3BKMnZxNnU5ZUUxcw?oc=5",
+   "published_utc": "2026-09-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI literacy key to secure digital governance: Awanish Kumar Awasthi",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjhzcFMyN0FKS3NtUHJQTE9BS2xrNzBQT0lTVlhUM1lfWGl3aWFwYk5XbDh0S1RCSG9lSTRvT204c1ZIOWl6M0N3aWsxckMzZ3Zwdk1RYldPT0lWMmYyeDR5Rk1RcUhQMDc3XzItbnNvdlNLSmlPTGU2eE9jMk9LUS0walFBbjBzYkl2bFNURS0tVlR3Y2ZDcTFGSdIBoAFBVV95cUxNcm52SFVObHhiQXRqWUhodmFPYTZJU0M2SFpkYXNwdEhST0xGN0lVX0RzVjN6QktpX1poMEZGX25qNm1FSE9SU1QyZ1dCaUhocHdyRzRtREFSQklMbzhQcmhFU3JPV2NKZnNSZHdrVS1xMUEtRWJJRVVLVXE2RTNOcDRQejhFNlQ2TFFnSldqQXloZ2swVm40ZmxHTGJFdjJV?oc=5",
+   "published_utc": "2026-06-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "From education to pensions: Yogi government gives social welfare a smart touch with AI",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdXZNVWRNMmxjVUFvQUtZQndzeGNZNE9LQWVER3Bha3pVM09EcmlPWGRWaDFTa1BCUEUxN0FHQTFyOUJYYnZBWWc5MGx4X0lnRXFHZWVfVktJOTRmTHBOTXJReDB6dklsZzd6VEthYVY2TVlsX0tmUWY2NURLOW1kYmx0d3R4Y0Z1dWVjRV9LaGhLaXFScXc1N0RKMXVIY2dCTEV2VGcxMjZINDNualJ0d2s1QzMtNTRiQVdLVmtpYzJlM0NzYy1oR2JjQ2ZGV1BDeGdXRDhvekJZelFMTUhPXzA1NEl1QlFtM2l0VGFaZ01jUdIB9wFBVV95cUxQN2FRYTBkNGJRaDhvclJvTmdFXzRBMzJQbVhGRS1nVFZlNmY2QmRhZkE4Nk8yWWVtSFpadzMxdHh1bWhpVEJCdHNSOFFMclhWWWhFSFlMUVJ5NEI2SmM4d0w2Mk82UExQWXpsMnpnTHRhaXk3MVJQRjB6SG5GMzFJaWVrZVZnUi1OeUdfYlV4emVaT2hVTnRqNWJwRWI1Yy1mR1ExRlBmYUZ3VHAtb0t6TmZjRzkwUHduOXJwZFc2ZFFrX1RMTy13V3hnWGRsaFJmbUh2X1pramVlWXpkVFlSOWNLTDB0VWY1S09zOEJJS0Izem1jQks0?oc=5",
+   "published_utc": "2026-09-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi Adityanath Highlights AI’s Transformative Role in Healthcare at Uttar Pradesh AI & Health Innovation Conference 2026",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMEwxbkFqbkEwTTF5RUIydGVDU29WTlZEMkNDQ1pjMUlucVhaMU5hWXJWSWpES0tHZFlGY0UzWVBoV2YzaXNyTXY4UEVoSHpWX0xobkVWeDlYWHRtczBOMFhKX3FKUW0wSk4zbC1TYTVLSWppOVZhVURZaTdCXzZGbVRmakFUdTFsM1BIZjR5MXBHZURWQ2RTbDdRM09fTjRnRVotUUdpWWdvMktqM09OSFozdjE4VVRSdnZCZDFlNFNjeDlmNnV0N2JzdXVCeXBQcHpOMm5TbDJ3VGt5RXNNclJnaHlxckZDdEF6aw?oc=5",
+   "published_utc": "2026-05-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How AI and Industry Partnerships Are Reshaping Higher Education in Uttar Pradesh",
+   "source_name": "India.com",
+   "source_domain": "https://www.india.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYlA1QXEyNEVvR0xnV0s3SVAtZHVFRTNQUzFVOXJCRjcwNmNsYVk0ZjZZZndaLVJzZWREck1sSTg3Qm5QTk96M29RT0Z3WTY1YjU2Z2ZEZFdEdnFJSE9XcnZQbkVXUTFKQnFsRUZwZURoN2U4RkZDQkNna3BndV9GRGlsZTVHalBPRVBRRUtVR3prWjllTlFwM1dLOTdjVnRmZUtxSXVBLVVsMzZZOGROWUtjamVlN2xa0gG-AUFVX3lxTE8xWkcwaU1ENHNBd0lrWmc5LUx0VUtYTmhwNWNWTm83Sy1OWnowTnhncHVTMzR0bVdtZnhSVnYxa1VKb2F5Ujhpd2Z5X0w4VG9mMHVSM3E5VUhNZGJ0ZWNJSktfZktIcFlDMjhrNTZycElvclBXYmQ0T0p4QmVtYVFBeXY3X1IyVUJ2YWhOXy16MnlKcG05NjNfeEJzWFJNcFE5WkpwanpZZWIxU3dkalJUTTdFbGxnVk1ySWJqVXc?oc=5",
+   "published_utc": "2026-05-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP AI and Health Innovation Conference focuses on leveraging AI in healthcare",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEVzSWFtUXQ0REdwWXhTeHQ1OG5uZk1LN1RNM3hpQ3FNMzVvemFvdklxUEh2OVEzalpGM0JBMlA3ekQ4eTBubXpIWEZyM3VKRVozemdBOWRQYnppRldUSktsZzNZZW12MGwwckNweHVWOEVGUFJoRXZwaHNGTVRTb3I4a2ZFXy1KVVc4RGE3XzNka01tWUlyY2ZhVldEMVczSHdkQkF3?oc=5",
+   "published_utc": "2026-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Hype Meets Governance Reality: Puch AI’s Credibility Concerns Derail Rs 25,000-crore MoU With UP Govt",
+   "source_name": "BW Disrupt",
+   "source_domain": "https://www.bwdisrupt.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3ZmSHFaZTFDUjJOS3JPd0JZOER3TUNqeEtoSFpELVN5eTNTdmhLMmJHM0ZSa0FWVmk0WWx3bGs2M2JQdzlPdVFrNVlIYVZuMkNXMV9kdDVhRHhmYmxZLWtjeUxQMWJJemd2UFZCVkE2SUtuTVpVT2J3WDFSNXNyS3pCWDd6NFNEQ1I2RTFYOVF0a3hCZFUxMkhrSENjb0Q3MjVwYlQtd2VxdEJqdmxaVDNnYnljZHVJTl9LSTBBRjdtSWVZV3lWYVFQMzI0dUMxVXJIYWRPR3AtX0Vy?oc=5",
+   "published_utc": "2026-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Digital governance in Uttar Pradesh: How technology & AI are reshaping transformation across the state",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazAzdm5OdC1vMU5VbWRkdTdoeVcwOUhtXy0tbTNYWDliR1FXZVl3cGs1bHpDUldYMWxNWGN0N3hpb1lEYldRcVBlR21FaHgwekxxcW55YTktLXpCZV94MWNZNUgzODVRX2dJQjhscWw2ZS1YQnFUQTBxbVAtREw1TVJIRFcycDR0dXhCQUVyTzQ1RVc3cld1YjlpNVVBdDBHNmp5YmJQdXREa2JuUE9J0gG0AUFVX3lxTE5JX3U3M3BjQUdTaVNtZmdjWlNwR3RGWWU4TFBEWTZ1ZklGektxSU8xaUpGUXZhVVVuSDdZZnh1VUoyZEptRWVOcEdSOVJ5ZGtkaDhjSTlrNEFuYXFwaGkyQl9XMVgzYmJBMHJKeHBfWkkwcXJKVnhmdThMNnJkb2FIYkR3eTQ0WkJrQ2NyRUREalE1NlFNRkh4SlJRMjN5YkJqYVB0b3pmRUpyODV0Uk5ucEt3MA?oc=5",
+   "published_utc": "2026-06-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Budget 2026-27: From ‘AI Mission’ to ‘U-Hub’, how govt plans to boost jobs for youth",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeG1nSDZjaFlSc2xZQVBuR0F3cklwS0loNjhhY2Z0NXJxeG4wTGRpNUx4UGJtTm5ZNXFZbGFHenVQcnFvdmtoRmdHOWRFNkJsWFl2bWpNN3NfOHg2b016cTBxQkg1WDE2T1VDYUZyc0M4ckVYd1lEZ1FOWWpZOExyOHl3a3puTm9HTnEwZ29HTEZqQk50LWxBTXA4eTlHT255Qndkb3lERVVSaDZfd2Vn0gG2AUFVX3lxTE9WUWZ6a3I1QzlIU2doN0lCdHh5RjBiYkt4c3hCSllsMzR5NWlzNDBicG15NENiMF91TTV0VHVYbF9zU05KaTF0OW93NHZxVUhTa1lSQ1JsU1lZVlpPSGdVWGtLQW5qQ3lnZ2FuQ09xdENtSXY4cVpVYXFwYlYwMHRyNW1VdU1XSGp5RmdpeGVKbXhrMFFLNkxCSUNMYW1QZFdlLXc4VlZOT09VbVFESGVMY29yei1B?oc=5",
+   "published_utc": "2026-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Police deploys AI-led policing platform YAKSH to strengthen crime prevention",
+   "source_name": "Express Computer",
+   "source_domain": "https://www.expresscomputer.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5oS3UzVm5BZFJuTU5OWVpFNFNpV0N6eE9rcERxeWtjaGlpcGVmTUlaS21xekM4RnQ4aWxZMkNxRHZNUk5XaUJFM1VnZ2pNRDctNU1PQ2dmR1dkbU04S285YU03NzNubUtWT2RvcFVPdUhwV1JzVTdvZDNaUFdVYUhhdm0xR1Q1ZzNXcGFCLUMzZURPOGtRSU8zcG8xZFlPVEdVQ3VHUXFrb3BaWDZqLWFpLU5hZVZ2VUNFS2tHQk0?oc=5",
+   "published_utc": "2025-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Police’s AI App ‘YAKSH’ Powered by Staqu’s JARVIS One Multimodal AI Platform",
+   "source_name": "Chennai Patrika",
+   "source_domain": "https://chennaipatrika.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1k3RWU2RWhBSEdiTjRTV2YzOHYzQUVCTF9YNllWMEEzRFYxeHMxWDRIS3hZM2hjQ0lQN2ttdm5ZUUJERWFFc2tIbGlzZzRSU0gzak5oT3F6LWc0Y0xMX1VqYVYxME5ETFBsSTVHMm9Rdk5FRzVUTFZiUjdQYUpaTXgwWkhBdTBXeUVTdFNwb2hQTHh1eFpONUlPcWd3M1VWOWFTREtSVnl3UlhvZHk2Q094eURSUl9PeEE?oc=5",
+   "published_utc": "2025-12-31T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oracle to train 3 lakh students, professionals across Uttar Pradesh in AI, cloud, cybersecurity",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSDF0Y2ZuSVNHamVMQ3cxV05RcUFTZ0duWkZjRFFPLWh5a2w1NkJoX3paYkVJdzFsSFB2dms1VUZub2wwb1djWjM4d2RJcm9CSE5NZ182cng3X3haSzFtQ2pZbE5aRGRrSld6RUJjTC1Tc01ETm9aVUFoYW9sZDlia2FXNWlyU2xrbGVyVFhhTllPeWZBMDFSQzhPTFh4NXpBS0l4SmszU0diRkMtbk5MOGpYYzVYaFRqN21uZno5UUl5dXpFUFFVSTdWSy1sdkoxNEpmb1BrTUhTYmRVZS1yRGNEODdBV0xVYy1XMDZ6QU50RmcwSnRRVVpRSDbSAYACQVVfeXFMUERtN0UxbzZ1UHE0TTc1cmNPanBUdXFZbVZta2JCTm50bFcxcllmc0VlaGNRWGNZN2VaeEw1aE50UE9jTElsd3JYZFBUOERPZzJ6dnBVM3pQMnI5dTRXcUhSeHZ0NjJrVl8zcFVCbndRZnZwU1hHZVZySU1haUh4TzF5QWJsZGRRUWVueXo4RmJvRDhPbnB6OENfSUgxZ01yMjlkNDJ3MF9TeHR0Y0k2bWc1M09TM0tBbElMTjdRRkxzdFZiOWFibTVnS0psZ0xGSjV3Z3dXMF9VT0liVFRkTWpXRzhybm56bUlCU3BuSkN4TFhpNDJtLUJJR2pHcW9uaA?oc=5",
+   "published_utc": "2026-06-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP body to deploy AI surveillance to curb exam malpractices",
+   "source_name": "ET Education",
+   "source_domain": "https://education.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUZmZnVXZ3p3b050dW9FY2lDNGQyendTX0V2ci01VC1od3Z3a0hqMHZkYUN6UnhjbDRSdExkSXU5QlB1dmYyeHNMQjRsN0N1VGxMOHVfWndWNU5ZTXNpM2VaamhSUW01OUVPS1lHd1padktyWDNRblIyV0dlOU84QkRfSnBnQTJodzl6UDdEeUVia0h0dHQ2RWFPdC0tWTVfYWpfa2dWaHVteDJTWTdpb2wtQXN1Z2w5b2J4cFVUcmQwMTJERTlQU9IBzAFBVV95cUxPQlI4UDZtVG5fMXhrUDBqejA5WmVueHRtdDFCRTZOMFV4R1N0Y1FnZ01FZEstMXlNM0Nvd3dHd2JSRzhuV0FFdmNIdGpkSVlUVHB0azVJTkdLY0dFemFhVGNsQWsyYk1RdkN0QmN2dlZPanptTHRGUFBLSjZ6NFVMQkYtdTNsMmFJUWYyaFFydTVLaU5icWFFQXRGT1pmcDZVNjJkVWptV2M1SmdwcGMteWNrYXlRUTVGNjdlbmt3cXR1ZTVKWFU0QkFLbDc?oc=5",
+   "published_utc": "2026-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh CM Adityanath inaugurates IBM’s ‘AI GovTech Innovation Center’ in Lucknow",
+   "source_name": "Indiatimes",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEo5Z1BJeHBDeTVrM2N2VFhEa0FkSUl4dVhzVDNLYjZ0V2k2QVBqNUhUdkdfNTR2RXNQRUFnT2FmUENRVXVld2piTmFsWWdNeGhUTWZJRHFJakV1SmJ3Y3V1aHQ0ZmFneHlPQVRJVVJ2YjR5SFFTUmlaRXVVY0I2R1BMN3ptbThyOWdGT0duTTQ2dUFCYUhFcXE4dHRvODVPX3p5bS02QnBpa2k5NjN2TDRyQjZaWmZTOGVJdnh1M042dGNOekx4MzJqQ0RiM2FWaThLOWJxQzVTbngtNU80ajRmSExtemR6ODhHbTduYTZqOTZJN1hfakRiaHrSAYICQVVfeXFMTTZiMkVFZ25kN1J2N001MlhqY3hLQ3hmeXI1a0xSaDk0MlZNWVczQjBIMFBLSzdvem16VjBpeVpjZFJ2UmQ2Um5hRGNpSWRyeHpWeFV2R21rZDhoUDdmVHBROGVxSUtkUEJxYzdNR2Q1N1M5a1AwRG15Ni1FcGUtQWg4eEV6X29TMEVjMkQ0cWhqa1N6djZjRUs0OGtrQmZtNWdONkI4d1J3V3I1Z1A3WEhoVHJSRGVNRUVtYUdabUNubkJPRTIyeDBTVU1yZ2ZGSUd6c2s3N0NhSVoyWDdJUktJZXVyNExrTFRMejdwaEJ4Qm8xQTY0UjBBTElBRm1TZnN3?oc=5",
+   "published_utc": "2026-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt steps up AI push with focus on future skills, governance and jobs",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeWhES0o0LXRSbnBqVkFtblNkN2ppWkJmNlJlTXJad19xY0drZWNRRTJ4Y01hbzc5UjZJM1pQdk8xclNPWUY5SzlTRVpuR3N6LTRPVDdISEdqMS1Ibm4wb3hFQXNfVGtiR2s3bUFZd0NycXBxS2VfU2R5dHNiQXo2VnF2N3g3Z29OSUV6amxlYnB1RWxVRU9KaWFUNkRqcGZ2WXpVTVRKMnpVTjVFY3R2a28yT25TOElGRDhSamlxLXVfNmJkMmJjTEJDSkZUMzBfMENXWWtJeDl1Y1UyWHJ5NEloYkNhdWvSAesBQVVfeXFMTjF5Y2dDLTZkbXhMeWNJdjRRd3hFM0xWME1NSFRPWEd5ZGVLdk9ndkYtTzZFSFV0eUZWSnU3MFJmVHhWemk1bXdSbEIyb0RGREVmcHFuNmJxYWloT3FGS240X3BLa3prTkdoTWpiSFdUZGhzWUJYeUpWbVhwZlFGdlpocWdvX1FvaUJlaWprbjB2bEhjNEVGRm5CM2F3ZFlqS19zbVo4cmxuVUUtM3F6cmxmeWlrLW9nMjRjU1lnQmlnWGRFU3dWUUtWRHBKeVRZZmM0Uk00WWhpV3ZlbV9RU3E5Y2V3V0tEanlZZw?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-driven UP a tech model in many spheres",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNczhwQkN6anBZR2FKLWNPQjhjWjQzSzF2eFlmWUw3U3RrcnF5RzhNTU15dmY5ZWxfWjZDSndRc1FPcG5mNExFZUl3bWloUmVEMkV5MU4zdjN0WUVjOTZUcXhTNmMtOExwWjRlVjJZYXpkM0tTVzdScHNPeWU1MEp3ZTRRQnFSYWZIZXp6Q2FOT2pvWVhEc0xPUUs4bHRUdlVsT3d2bVZDUUFTUWFpa3c4a0RYV3Q5N2UxTk1scUxpZ3o3WEVoWHlDV3hHQnJrZG9sNjJ4S19DSVBwdWvSAeABQVVfeXFMUENscEZySkFTTjVOeVBRWGFSUUpCa3lLT2pMOWlvYWJaSVB2cG5GbWlxSE1mQzJGUWpyNExTdnpWRjNETVFUYlpqN0JqYTFmTmhNd1p3cEhnM0lwM0dSbER2NTJabFVibU9FOXpDR19vVkpwR1VpRGd5WWJqX2ZEOUV3eE0xUVhBaWxnMEpLU3BBaWxMWm4ySnZDYzN2NmIwZThXSHo0VzdXNUhOTTEwUnRpM191RFNDaHQyNHpqMDc5ZjU5UFpUTFd2NEZGWlZ0OVpXeC03S1l2Y3JxdmQwNlg?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'The Governance Challenge 2024' by Samagra concludes; Uttar Pradesh AI initiatives highlighted",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2JrckpyZ3o4N0Z1dG5kUmdHdmVaVFJRenA2VHVGaWpNOXFzcGd1ekwzSTh6WTJEQ3Q2aG9JbGlQdXg5OTVDRjRud1pGNWlzQkpuSm5uMUV3SXRsRmtBcXI3RFA0Z1NDN1ZwTW9oTlJhMkpoeWZURzl0VDRoZEUteGMwRDJBUzJoX2tXUG9JaEx4Wk5wUzFyVkZhTWxfOXZUMElpUzhicWhLTmg1VWRiRlRTZFd4N0lLRE95MC1jaUJiMUF4VzkxbEdNaGptOFEwT0V5MHVaa204bjE4c2g0dm9IUmw3VGdFS1lvaUZoXzZXWThNMUhyQtIB_AFBVV95cUxPYkdJU1JLUElyTzIyVXlwTEppVzdsdVZTXy05b1hHR21ZRFdrY0YwV1ZPX2ttNXhkdG9YU3gtb090TW85OGlfQXdpU3djVXFkUmZHVjlUR1VMMEhDZFdlRkNhT2pWR0Y2WWNUTk1ra2p3T2lDclFocTBheTVqaXRTNUl1SlZSQTlwWEl3Smdjc25GVVc5VzNWRDFLRExzNkREdVgyVWxrWXNPT09QeUVhSVkydkctc0JNVWpKako2UVhSczJFdDJTdEhpdmNkcWtmdFo4OUxkb0Y1RHlNVWQwamNKdWdDZTU5UHJPbGkzS2thTnJRcHlTd1BsdnM?oc=5",
+   "published_utc": "2024-12-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh emerging as an AI-skilled state",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUjR0S3h3dmJEMm54S0N1OVpFdTBrd3dtZ1pZRlAwVDUwZGQtb1BoSGJRamlBN2IwNUxvZmdtNVF1SWJBZTZUOUdkT3psY2Qzdk9BQXZkU1BFRHlKTHVjUkxDRUxlbFROWFdUU1dxNmpyRFRyekZUNjRQXy1GcXNveDA0VHd5ZlBDc0dmN3FmbW9hcGxXdmVwbHNoSmZkbWhkSkJvQmhzMnQ0Y29NZ0Z6V0hlUFB5YWFwV0poNnduUGpGaHFlSU45ZXVLTHlFalZ0LVVXZUhyODFHUHM0UTd2bjNlQ2TSAegBQVVfeXFMTXBDd1cxMjNhVWZyaXltNnhQc19Pa2NGY2c2Mk42WXBNRGY0QWFCOE8wSXEwOG45RW1ubEljaTNwVjZkZWhOOFRRb0puSGV3LXJlN0lFR21EODRxWTNLeGRnVlY5aEJLSGtiWHlHa2czdFlzc1gxaEhyNUFoSTFOQktCSV9feXlHZlZacnhfM05GaDZqZHVnRFl4a3lySlVKejg5ZFlDVExPOERJb25OLUpZYkVCN3N1cWJZMU9ueWJIN20ybVlLTVIydzBlazJsY3hnRXZmRTlpY1pPUGcwMjhKdF91ZldWOQ?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IBM Launches AI GovTech Innovation Center to Accelerate the Future of Digital Governance",
+   "source_name": "IBM",
+   "source_domain": "https://in.newsroom.ibm.com",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3UXRORmcxdWpYdkY1VTJpVzB3S3F0dkF3ZmtSTEZhaHpTSjVwaVdrd3lxenRLOGw3S2xlQ2VEY2NlZVpaS0JJOXRiNWJrZHp5a2d0dk9rVnlCNWsyZmRlLV81N1A2cGV4OU9QeFJJN1MySVQ5ZnRIbA?oc=5",
+   "published_utc": "2026-02-22T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Transforming Agriculture with Technology and Inclusion",
+   "source_name": "World Bank Blogs",
+   "source_domain": "https://blogs.worldbank.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1djMHkwc0JadGV0bndldTZzZXNLSEJPWDhhV19VNTdZWXV1djBLQ2FLWmdYVEM4SEs0TlR6dmh5LWFrcUlaRUZEZnp1M29zSnBuSzNzMVRNMWdJLVotZlRDUl9vQ2FiZ2pjUEw4N3l5TlZ5X2tVRTB3Q1BDR3l0aHQwQnhiSUlBZjU5dl9tYjgzRFQ4U1ZxaGtaVndKV3JDeUtr?oc=5",
+   "published_utc": "2025-01-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Meets Education: UP Government and TAP Lead Change at Utsav 2025",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNDF6ZGZSaWNjQW1OeVB0bUROQU5JMWhqNHRzWkNNRVhKaUxocHZPa082MWtlS3NsWlhlYktNWjJEa3FsRmZuSkE4eFFJUXNoektCNzUxakh1eUN4Si0taWRuc05JSXZEbjBLMGlOSGlNTjUyb3h5U1BVd3daT0VabHQ2RzVXN1FReUpnRVBRVmdDNkdBUERxQ3pMRHdQdG81eW1zSk9wODLSAa4BQVVfeXFMTlZ6LXBZel9kR1N5WW5LTlozUVQ0MmRZWWw1enhsZVRIWDBPbXFFejNnS0hNTlBCYm00dzBMaWxVY0F4enBrc0p2QTYtRzFuOFJUSUFDNzZRRGRLWkpnQzJaUDNTWTJZTlhBSlVoT1U4UzR2ZzhTNkdEWHFDY0ZPMkZFNk45WmN2eUlKbjc3WkszQnRiQTVqeGZlNHhkWlpjVnc5aDVaUEtEU2E3OERB?oc=5",
+   "published_utc": "2025-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP government introduces AI to madrassa curriculum",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb05BeTZoOS1VRXdYSGNQUDktWDZoTDZFdG9UVHphS1lxNGxNZkhqSWR6M3RkaWVGeHY2NUpVRXBiUnhSRXVFT1JYMGszZmQ5Zk5BTHhIU3IzRktPYk1XYk5Kd05LMjRGbUltTE5IeWl0TnZMSEJKNkpHS1VCQUdjTk1LV0E?oc=5",
+   "published_utc": "2023-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Qure.ai to scale up govt partnerships for health screenings in India",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSFppZG1ucGxIVkdEaGdVUGdXLUkzVkVwTm9acjgwRFpIMEhfSkp3dDhUUWpmZk5XaExPWVcyWDVwOTgzSTJUdk5XQVpuamZyRE1vWHhkM0k4WFZUTHl2aUp4eTRvQ0VxelhqUnRkaURRWlBlY0pJdVR1ZXktcHdQOVNjbWNnVm1JVU84blpHQzZDejM1LUFuTHFoNU5YWUotaXVUWE50T1B0c2QzdlhkQjZyaU9kUUY1cmRHZjNIS21rME42aU90YWJ2M1FSRkc2Zl9uMllabzVzRGctZTB3Zkd1MDBYV2VNWFhCR21JUGk0UdIB9wFBVV95cUxOckRORDh6amtrRjZKUzdzQkk2a2JYSk0xWW14elZIVlBmVHdzeGNPaUE3R29zUFZ3Z3VxVTF1M08wbG9NdFVMYmhMQkhrT3E2MFBuR2pha0JMOTFBeVNfSFNLQ2F1NnZGb0NoSm80SVZNVUo0RFkySUh1MGQ2MEZkdmJkZlg3VnRHSlprdEx1Q0syVi1DdGhEN3lJaVROc3Z3bmhRNUNoVDY3SjhjdmlGQUFvSVBMX2pBWkZkNUFYWHowQWx4VHRwZkt1d0kxZnVtZk9GV1ItWDIySlhIMnRzUHRkZ2JtQWtFU0prZzZmb0QzYU9xbFUw?oc=5",
+   "published_utc": "2025-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "How UP is foraying into AI-based governance",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTZuYkVYS2R6WWQ0N2M0dTl1eHhnRzlQQmlfQml4eVA4VkgxbDRjVjEtbHpJYTJoaWcyeHBvVE96Z2FFa29pRmctMEcyMk1WRzdGN2pxbGl4ZktMc1RpZ1pRNUxWaW0xSnR5ak8yem1oTzJsZ040ZW1pOUtVQ1BHWHJRdDltRnlUV1Y3cUdMeUNKS29kLXNfLTBBYmhubHZtc3Juc0pKeGgtRUhxMDF1cXJvbWPSAboBQVVfeXFMT2N3NEN2Z0Y2QlpTVGJFNkE2REVZYmRwMmNDN1ZyVU5wV3pwczEwMTEtWjdNTzEyelkwMGxJV1dkRnpSeURnbXBwbVMybTh1X3BkeDVzcXVkeEo3MldyNjR0X3kyNmdvOXdWOUkwaFNWSlA1LUJ6WUNNbXlXcGVXSnhVY0RBTzRCcGs2WFBLZTdjMW8wQmFJaW43S3ZEZlZuZ2t3N0M3SzdXV1gxdlJ5RDRTQnUtckVBSUJ3?oc=5",
+   "published_utc": "2025-07-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oracle to Train 300,000 Students and Professionals across Uttar Pradesh in AI, Cloud, Cybersecurity, and Data Science",
+   "source_name": "Oracle",
+   "source_domain": "https://www.oracle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUHMzVE52bDRhanA0OG1mQ1huaUdFLWhRNkpubF9BMm1iWVRxcGNQc3hLbkdJM1YyclFQejJKVklEd1U5U1VVbmhMNkx3VnVqbGdQbk9TLTB2T2VYblJsQUJJMTI4REpMOXBjZy10aURPZDBzenRBOExIb1d0dlVUQWhhWm03Tlc4ZHVMSnlfeUdWT2VDcGVQTVJEaDNNQWNvMnhTczdjWWxvMmZCbkRWNUVBaUJ1VFdmSXdpLWxMT3dJM0JzMWt1Wi1Qc3gwWUhNYWdpZTZuSHpPT2I1SENlRXNvUQ?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi govt gears up to make all 75 UP districts 'AI-skilled', setting new innovation benchmarks",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0RkTlRGRTl4RVptSXFjZTZWZFJqYTVoLVNzamNzelY5cHd6V2VVb284MEFGVlc1Mnpvb0RIY3FzRDJEMTJLSVlKVjF5ZVFkQml3b19LYXJqM3ZsX0pTZlM5SHAwQ2NwYk5jTE1obW5rYTdiUmlMYW1vMmVPMEctTDR2bHNndTRNTnJDQkNjMXN0a2x0NjBKbkdLbm1zQm9XMWlHTDRBTWFXdWp0SnA2eHRJRm8zWEdJNV9Fd0JoQVZvUFBleVFaWHZHNVgxc0t6elAzZ0w1VnJHRFdTUEdyMjM5UElXMWZhOXZqOEVvM3U1N25UNFM00gH8AUFVX3lxTE5QQjBFZTdwUVhCd1RFb3lIblFWOWJJNzBvUmFSX1VodzA3d1l1S0Nzc0YxRWNYNHI2bGtGSWthTndLRzZmVno1dzFLWHh1aFZMaGR4REE2NE5WdFNpTXQ3SS01T04xZjQwM2c0ZXQyVUVLVHRGenZtMURaWEJqQVpwVzczZ1I2bW1xWGExak5sa2hxenI0aUJOT2o1QTdhUVdTSUNOOU4xOVNGbFM0b1dPLVY4SE9pMlI4TnVaQ1hlb2NQOXBsaWNubFFvWTJSTzFDSkFTUDNJd1lSYXprQXhhRlFkRkNJLVUwbGE5WDBHQXFTNFd3dktXa2JTVw?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt brings AI and coding to madrassa curriculum",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkk0NHVNT3ZMMVFJd1BPUjh6MjdwU25xN2NkX0RFOUFfX1g5UXRwYzVqWGNBdUJhSmp2dmxVMzcteUVydE4zQzhtZzJqc1ZRTnYtMHZNRU1OOEZhbjNGWU94UkVDcWJmQW1yWUpJMlRQeW11SUdaV2lqcGFDN3JTbmNRNDI4UmlZaUVKODFGN21hTl9laVJsNV96MF9QM3BsaTM0cHJMLWlZYmlDalZCOWRwMjNudGNIY29OLXUzRWLSAcYBQVVfeXFMTno4dktCQk5wQll3WnpMYndhZ2JuRWhfU2FPNnU5WHdPSUhhLXJxdWkzTHBoTlhrRkJBelRDNkJ3Ni1QRllhcURUZEJPN01SRElnYUNjWWJPcmk2RlVmR1ZyVEx2ZzJWMjlYZ290eG04QjNwaktKSVBJbHhZTjkxQkN4NXhxUWs3bzhRaXNGQVloTl9JOEszQzhYV29mUC02bDN4VmR3T3NHUzBLeHJrOGFEZ1oyaXZZVXhqTnFHRGFCZGRGOUJn?oc=5",
+   "published_utc": "2023-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP: Govt school students of classes 6 to 8 to learn about coding, AI",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUN3aFdBNVBRaUpBcl94UUxRenZtRzlKSk1qM3RQck04R2l1dENCZlBQbVdZN3lPVE1ZUlVETW5ZUjBKTHp4VHY3SkItVVpwdFlkYjk3eTVzemNTMG16YlJab0lfVGJtQzJqZkIyU2VBUDlObG5OeThDbWpKNWMtcm5oZTJoUTJIR29JdGRJaVJNTzVGYzlVNDdHUFFNNnlSa2dVdFFUWldrSHhQS0FNVFVGenJnamUxVE9tZTd4VWdJS09pQ1Rjdzc4WldMU0RqbUNKM0RtOTZvN0nSAeABQVVfeXFMTXdZMFFrcE1wODF5ZFhtRjl0Ynpoa0NSVTNnbGZnbmVvclNZcml4dTlBdmlNYmpkalBCSVNuVENQVG1tMllUZ3o5YUFERVdVN1Y1QURaSTgwR2tEZUhwb3ZIR01LUURrbWRrZWpkR3ZDaDhiV0NrSVBwNDdpRmNoZDBJVnNqT1RXeVN3NGREYVdoaGdYNl81S19YWjAzR0d1M3Jab0UwU0thNDE5NmlOMlJUOUlCMEZKb2FoX3hGMWRTVkRPbW1hVmZKRUc5eUp4WGxuaXhyaEtJOVJ3cVc3YjU?oc=5",
+   "published_utc": "2024-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Crime GPT: How the AI-powered tool could help Uttar Pradesh police nab criminals faster in future",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2E4S1hxNGcwZU5CdExmamczTFR5QzlKc2Roc01sS1VhLWZJRk8yMWgxOHlBNVpIMXN0SjNuWUFvdWZYWExlOGM2ZlpHaUNmTnA0OENRaVdiQ2luVW0yMzlTcl9HSWp4eE1XRHlORElmTGVPZkoyS0FHNmtZT3N4WXQ5X2U5NU5RUFlZM2x5dDJTVUtfazlWOGxlLXc0VEplR0U0bWZlOFZEM1dubU9GQjBQZFR5Y3lxNi12RkhXLVZDdlhicEx3dnBNemo3bkxsYmpGbklFbm1iakt3X2JfLXRxRE96d9IB6wFBVV95cUxPZWJlT0x6dEl4UzBONURDa0FYb19MVHZsM3pJX0FzX2czc0hvN3c1OURCVkpySF8xaVJqc2hQaEZDalBUaFB4SUJBNVZNZ1J5RUE3SHI2dEtPeGhrRjI0bDBGUEJVbG56QUdtRDBfUktGWGs4Mm4zTW8yOVZjWG4ydTkwZ2V2YUc3dlFiSUdYQXdHc0RLRDUtdmViclhxUHczUnhhZ2NVWGgwNW5QRFctdUhPRDdfaEVhZjNBNmNTZTVhb2tHdzZTQVN6eWk1T09zZ1pEVGZ0WXdPbWJFY05GQ0tFY1JweEN3Nktv?oc=5",
+   "published_utc": "2024-03-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Boy, 17, Creates AI Teacher; Video Of Its 'Teaching' Goes Viral",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbFNvV2RUVUs2Y3lOdXJLU2lzVVllX3BBZ0xvN3h1eXhoc2FhMDdVUTF2c1djWFNncHFLalA4aFR6X3lUd3lMcnh2TEdpaGhLSjktazJnSDZSTUJ6SFd0Ml8tVm5qMllKOTN6NnlTbTgyQ2h5d2ZURFhjblpmN0tDX1F1MnZjWEF0bkxuZlBTRGZrT3F2VDVyMWN4M1dFa1MxS3REU0pSUlpSZDItRWJpV2R5cjZkcjJkSUHSAcIBQVVfeXFMUGFNTEMzTDZqWkRzbERicnhFZkV0TkFia3V4ZzBJNEhGb2JoTzU3eXZJaENTdDN3cDNOU1AzOUl5NG1WSDQwRlpvY0lrVUNvV1h1MUdzemVJbURjSndycHREV2tZVTdjbTFjN3lld3hPdks5VkF5M3BzQlloYjRDS043MWhEUHBmM3FfVFlJNmFheFNBOG9lYUwtbVhvU0tJU2E2LUlaYUpfcUdtUHFYeF9CcEZNQnZ0WGlnSU5aaHBmY0E?oc=5",
+   "published_utc": "2025-11-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh police to deploy AI tool Crime GPT to catch criminals faster; Key things to know",
+   "source_name": "Indian Startup News",
+   "source_domain": "https://indianstartupnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSDhoTDBQVVJrZU9kdWhsODgyNERoUUc5Z1NPRDF4UkNRQ2ZfaHRkX3RCMGk4WUpMVHVyaENod05qMTZkeWxvdlNseEhYNktKV2t2YVF6T1RnMkNnM08yUkRJcFdmaTBRQUhsOS1sRDBGenhnbmNCMEpqMVk3SGJ2d2hjMzRoS29QeWhsdEFXaU5uS0psbnlaYVFnQl9WQXFjYWFuSE9CRFRNRVd1VHhPRHBR0gGyAUFVX3lxTE5IOGhMMFBVUmtlT2R1aGw4ODI0RGhRRzlnU09EMXhSQ1FDZl9odGRfdEIwaThZSkxUdXJoQ2h3TmoxNmR5bG92U2x4SFg2S0pXa3ZhUXpPVGcyQ2czTzJSRElwV2ZpMFFBSGw5LWxEMEZ6eGduY0IwSmoxWTdIYnZ3aGMzNGhLb1B5aGx0QVdpTm5LSmxueVphUWdCX1ZBcWNhYW5IT0JEVE1FV3VUeE9EcFE?oc=5",
+   "published_utc": "2024-03-20T18:34:34+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh police to deploy AI tool Crime GPT to catch criminals faster; Key things to know",
+   "source_name": "Indian Startup News",
+   "source_domain": "https://indianstartupnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFp3SV9PRzVOTmNNQlpIbldKN3ZzN3JGMnJzNDJXaG45QnRxZmNjUUdibUxFYmhzMlo0bkxDX2piSVpXNTV5QzVvd1N0dDdyRzZITXp5dE9TQ2dERmFzWUpVWFdBaEJUdTNjZlMtYllTdjF4ZDRNTThtZkhBTXlCalpoWjJZc05MTEJZRXJTN011QkNuMHg0Nk5lZlU5UUVCcWZmRkxMX2JiM0dBTlJ1SlFBd1RPVGdp0gG4AUFVX3lxTE1EWndJX09HNU5OY01CWkhuV0o3dnM3ckYycnM0MldobjlCdHFmY2NRR2JtTEViaHMyWjRuTENfamJJWlc1NXlDNW93U3R0N3JHNkhNenl0T1NDZ0RGYXNZSlVYV0FoQlR1M2NmUy1iWVN2MXhkNE1NOG1mSEFNeUJqWmhaMllzTkxMQllFclM3TXVCQ24weDQ2TmVmVTlRRUJxZmZGTExfYmIzR0FOUnVKUUF3VE9UZ2k?oc=5",
+   "published_utc": "2024-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-09-01 before:2023-10-01",
+ "items": [
+  {
+   "title": "INTERVIEW | Maharashtra Agriculture Minister Dhananjay Munde: ‘We Need to Find Ways to Strengthen Farming’",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZzFHTzJDZEYyeW1QT1lIclNUZlFQM0R5WHFOa0F4c0xWOTFRcHlEdmJZQWtfRGVuYXRoR2I5Z2U1T0FTYTJGRU54T2R1NnR5VGZtOXROcTRwelZqeEl1aW5JSWctdklBdGNxa01tVWh0VkFWMWhWZlkzOUFNdDEwZkw4M0dKeFJyYm5QZTVWNFFHdnU2VDEtSzY1YlR3UXRFNkRvTXBrT3FRM2Z2MzlGT0g3SGtCcWhZMkowWkE5Z2dNZEtENHI4WklvekJCRnZ0Z2tvVXZwa0ptV2FtTzhTQTlaZjlwZ09xdXRIb2d3LW7SAfcBQVVfeXFMUDYyS1V5b0xSN0UzMktPMzFBVGlsVjBGb1VSVjBQR2FkbS1MREM0M0h6Z3ZjQmdUYkFYcTFUVGUwc2kyZGtGT190NVJ0SkJXaW9aMnVYV25teW8wSmoyUC1oQkdoMmF4NkpiZENfcjZ1bkNvWndSb1hNMU9TeVhhaTI2N3RSbnFieXZ3XzRJTEFGRk9OZkFjbDR0NG4tZk9vcHhRSXRzaXN3Y2V4Y1UxMGFnZHQ2NzhtSmRyM2gzbVRlMGxKc0JMQ1JtZ0Y3SU1iXzFvVUhXdU16dEFYMFE4aXJ6aWw0TnRVMlpfcE9GUkxUQXZ4dkxlbw?oc=5",
+   "published_utc": "2023-09-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Govt launches Capacity Building Plan for training officials in various skills, including AI",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeGhsSnJkVFpPVzJCNndNdnRJVnNuaWZISEtXTEd4dmlCV3Q5TEdBRmR2QWwxakU1elZZLVJMVGNiTFBWWmlOU2FqZm9YWVExRGFqVzNpVFI3UE01ckdkSW9feGpQTFVWMWtRemxheDNNSndGWGNEeS15R3NzZEw2UnBjYTN2eDJDelNHT25CeFF6VHRmd001dHN5bWpidUJwUl9CWmVyc3dTS0xadkdpSkhMZ1dMNUlMR1VYZjJiX3B4eU50YmJ2SUUtQmlZakpiZWR5b0ExN3oyTUtTQnI5N1pHaTFTbzU4LVhBNFlnUXZpOVhONENz0gH7AUFVX3lxTE9wWkZoR0pMYksyYlN5WlZwVFZqUkxJb1ZPRGJGQmkzQTZBYV9kbUxSOTY4ZXBxSkliNGF0bkdvVWJ1U2xibDNxRXhXN3NSQ3RmekM1WlFONzNteTFNYWxZYklUMUJiQkJMaEpodmtDcEs1Z3M2VWQ0TU9YbWJ4U2JoekE5XzFGRnMwNWJ0M1V2WFVjcFNvQnp3bWhYWThQdHFIcUhuUFByLXVkZ0ItQW9BS0FTbENDV2tiSDBIZHUzS1lhckZNb1Nla3ZYeFFZaklZUlpMLUE0Yk1CWHZfNDZ5Y3FldFVqenVTbElxRG9meno0MGpiaktwbV9n?oc=5",
+   "published_utc": "2023-09-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Maharashtra Government Should Resign\": Aditya Thackeray On Quota Violence",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYlZoMlhYcXNYU19RQWdLdTJBSUdJNUhjLXpnWnk5SVp4cmdhU1JaTzl3Y2ViM09ISWlXc0poQ3Q1TFhvSlNKN0lTM2dpSEZkalFVM2hzbHIzYlBtNVJmQm5GNkpEX1MzSXFwdVA0bWJFYzhEZ1VBMkJxQUh3S05NSXV2VV90d3N6bElIZXZ6SlB2dkVjVWxTZU5nMWdlOEMtWkZuQU91RGVCWnM0MFpMNTVUTVVHek5DOVJj0gHDAUFVX3lxTE1iZzNISTVwcmJiYl9BeU5ObEx1bWVPVjdETUlPaDRiRS1oVk94aU5TUXVjZk9XWmhuQ09oSkhTenRxcnN0OFN6QkdCRk1XLUZiQk5lX0tlRkVyUGU0VTJwVWlWM1VDRFBqZmlhbVFEWTdGb3plTDBnTzEyTEg1TjJlQTRfeWUzZlE0cFhmUHl4RnBfbmd5U3liVG1DM0ZxaHUxQl9fS0NzaG9DTlVSX2pwSFpJLVN4V0syaWRsNjJRZkdoZw?oc=5",
+   "published_utc": "2023-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maratha reservation: BJP caught in a fix in Maharashtra",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlRScEQ3VElsNERHNk1raE5ET1RwVnRjdWZSU0JxNFg3SmVBWlQtSnJnZS1JT2loaDZHOGJ2a1c0Nm0tOVV0QkJjeElFWktjQ29NSncyTk9UNkdEdU8ydlVMTlpHbUw2MlVpX3FUQkp1dEdrY0hCUS1rZ2dxaHNXX2toeUxCRGROdjB1Y0czV0xTaDJCankySUhfZlhLSWltUWN5c2U3UGRpRUpHSFp1dHRESkJJZDFGcGlucUdIcFnSAccBQVVfeXFMUGotWkgwdGF6NTdlRW5ZelZtYUtndnZIRXl3SzVqamtwVU9VLVpUV053U2FZQXpFbndiUi14d0hkQS1QMkdqRnRDR1VhZ3FiMVlMWHBPZnVaWExqWmNSOExaWkhObDFsSjNpdWNtSTJUaGpuRUNqTW03U1BUZ2hsTmJPc1VhX1R4M0dqTUd1enZoQ2dHMWM0RkFvQ2Y4cG9fMkMyOE5HSWpvdmttamIzWDRkRnZERHlwX1JWV3lEYUZHa05TaGhzVQ?oc=5",
+   "published_utc": "2023-09-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Punjab Police to use AI-based tech for better efficiency: CM Mann",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkxuVFJncUtWdFNYUzR5NHZQR2hiMUh5U3FFQnBUOFdMZXhrRHZFd0xtSUY0ZnJOdU4wRVF6aEp6VkJUSE8zR3ZwS0c5Q1JyMFNXa2RXOFhLTkxlWmhDVlZvSFlCSUZjQ3UzaHFaTGl3VEpNSWhDQ1FrZVM3ZE1sT0dvSmFJdnh4c1ZpMGdVOTdKX3BTYV9fb0p2dEtzbUxRUFV3QjlVa1dxaW92UlBTMnRVSjFmeEppa19EbktWc1paZ3o2MjJWRFFqTmgzbDjSAdMBQVVfeXFMTkVTQXVJMDFUd2JWQnQ1WGlTa29JWW82aUlmdUVTNDRDWjI2b0pSV0ZveXhjYXhsSUtqRzNlcUVYeklEWDB1cTE3ejJnbkNJY1A3S3ZxSnItdHdoUEFoTTdnRk9CYXRkMUpIdGY5RE9rcXA4WUNVQXJyNDV2SVZIdEpzZW5uWk04MnFoQU5zbFhiX2QwdEpFVHZjdGhTbkJLRU8ySUlQMzF5NmFjVnQzU3Z0SkxoU2laWTloc3R5cUJNck9YbU1yMFBWaURQN2Y4UkVkWQ?oc=5",
+   "published_utc": "2023-09-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"Cancel Swiss Holiday\": Aaditya Thackeray Jabs Maharashtra Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWThXNUNqNG16MzhLQkMyTWNOdW9XRXo3ODF6Y3VHMTBUd3AzQnIwNTluUGlhdlJ6a1RFd1B4ZDlFU0dqYjFkMHU4Rmd3VVJuS096MHRSY1RrVWtYV1BvN05uOEZGWFlaWkhlRWI5Smt6cGFMVWZpdkRZbFFEN2pqYktEeVJ6OU0xMW5uV1RVZ3kyS0JmdnQtSkxxS1pSMmZ4NHlfUlMyZ9IBrwFBVV95cUxQcmRCNWFuU3MtNVZvd1Z3eTVKRTJEUGdTM3dzWVZYR1VmdzNnUEF6MlFNLTNzejRYemlFcmQ3TG8yMkkya1BuZXc4OUZoVDdMS0ZiQ2VkWUxaWkY3OVAyWklhdnFBYmJodERuSXpQbUhLc0NiM0FFXzlBQlJjU25CX2RGc3hEZ2pXdXhQTXBvQ25OTjNvV0pVVEtwT3JpMUY2YU1Ucmk2QnhIa2tqRjQ4?oc=5",
+   "published_utc": "2023-10-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meghalaya uses AI-enabled tech to clean up tourist hotspot Umiam lake",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY0tJVXZEakJWTWNwZjFCQmt6V3JFdmc1OFo2dzZPdTlSemdlWFZvbGtUMmFfQTc2bzFiZmNVSkNhZWxRZkc2NERKWFUyZ0ZpR1gyR0NfZmc4ekVyTTAwZm1ocFJTLUxXR2ZTcDlqMmJ1RDBmMGtqMEc5U2tjc0FqS09RT0FST05Qb2dWX3dTak1HZmxwdlhTd2h4QnZoU21iaHU1aUppdlNVTldOMEMwQjM0cW1DRzg0V3IwMzdidnlpU1FZSFpXMnkzTFo1aUNWYVpaOVN4SHY5UVXSAd8BQVVfeXFMUDI1MjR6UWtBTEFRZ0V3c2l6dnZPYXpxSHpnUW4wMlpsRzlpRlhMWk00SUFnLV9VN2ZTVl9vVFo2TWd5V1JMdmJvQXpJSzI2TTkyWmxpMWZPczVkQldmVGJnQUYxel9iMVZSMUJ4V1Z2MnZwZnNKWVNJdjg2TmtEaDk3S0hGdW1XMXJZZUJ6ekd4a1FKYldpRWNLWi1ZUjRrZ2d2cHlfZjZwb0ZRdnJaTi1zV2REOHltSGtYOWc2bUt3OHFZNC1xQkloTEpzbUMtdC1YcXBFZklub20yTEpkaw?oc=5",
+   "published_utc": "2023-09-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Reimagining Lucknow as India’s 1st AI city; how will AI ensure sustainable, inclusive development",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQlNqeEdBdnVGcmJ2YnBLUlJtN0hIRlhaS3h5eTFrdzdVTkJxYWdNNmhacHJuNjZtS1pUN0NLNmZVRm1hM05XRjVMcGpTSlMzM0lEdmZVZFdUQ2tjNENfako4SDV6RURVZi0zWHRJUjl6Sl9iaHFwaHZ5SlFEaDR2Z19hR3Nqb1ZPRTVVclItWkhoWlhqclRqd1lDcFhhbDcweXNHSnVwSVpvdmdVMC1HNjFWUlQySHNFRzRtdHhocFNuX0hob3dVTnpnZ0RLb2dMTUlyWnRoMC1UbDBwZ3E5TEhiUm5iMU54N3M1cHl5QTRNUVJWWFFIUks5cTR0NUHSAYQCQVVfeXFMUFJoZm9xZC1pOWJBZy00M044TXhpNWtELWZKNHFBWl9QR1U4RlZ4cTlObEU2Y19ST0RhZXRNVG1mTllNWWFrM2syYVBJQ3dlODM4R3dIU0JyY3VjQVZsTFk0aE16WGZndWs2b0dBWUxtWFdBa2QyRlNkWFNtZ2hidWZJSUNVRUlzR1hPU3RxUDUweHl6VS1fVlBZWXdGbUkyOWZpSnBKTFV5dnhxTGhXZDdxSWJtTUR4c2hTaXNEYmtPeFJYOVlaV1hCNXNaNGtHSU45elJMb1VKT3dfM1dOYUdlcWcwVFM1VGR4TWcyaThZUE9WQTlCbGhwNnRaS2FVMERUSk4?oc=5",
+   "published_utc": "2023-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "IAS officers joining service today are architects of India at 2047, most govt projects tech driven: Minister",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSWYzaU45Q3M2UkJaRWlrY0dWYXJ6S0xxM1B3ajdvRElnMHZOZjZPdEFsWWR6WnVFck5heEtVSmRQeUtGN21pVnI3eTREYXVDRUJyWWRha0VsRmxrMU5fN2VxUVE2VC1fLXNzMlNXVUZFTlFLOWE3VWJfTndMS2JtdFF1WGlzOS00TFczTVBXTUpKRGRlQldURzdWYzl2YXFVd1hCWTI2aHhnY2pyd28ybHlGMTRKb0V3TmZiU0h4NWhVZ1pyMy0wR3JQQVRjTVdVWl9kVG5NbmNkbnBSRHRZa3A2QTkwY2tTMzNQZURuVGJtUnF1Qm1wZEFTYTNIUXlkcEppRFVRWDNzTUtNMlJlWDhfSjk1UdIBkAJBVV95cUxOTVVkNzZya3RaWFpYS3cxellfMjlIZllISk1FNEdWSW5GMjNVYl9DczJIUzV6d3Q2QUh5SGlEZWplT1Z3XzdvR1R4bzRsT0VpQVpMRUdYQkpNWWlMSUxJbFZQZXE0a0lrYjZhdlp3d2lpTTlnbmw3Yk8xQ2xYUzAyMldnbHpjdmNJODBSMW04VncwdDBQNmhrT1VXOWd0ZkVGNC1hcEZoNHBJZ0t0WHE3blIwUFprOHhEZE1zMGN1aHZZa09kWXlnaThFQkQwZW1lS0NJRXJtM1JUV3FZZmdLUExKRXFzTG96bE1lbEZGV25GTi1oN0pjNU02TTVmeDRTaFNaQnZvbndSTW5HekZ3ag?oc=5",
+   "published_utc": "2023-09-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

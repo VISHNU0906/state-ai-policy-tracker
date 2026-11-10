@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Ajit Pawar New Maharashtra Deputy Chief Minister, 8 Other NCP MLAs Defect",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbmV5eV9WMWJCZUdPRVY4LUliTmN0bHI3UFdydHVCclhub1dzVElNVWFEVkhXRUU4THp0RU4xeFJtZGxCcUhiODJydEVlbHdvYjdtVExTWEJuWnA0M1lNaktmMko1Xzh2N0piMUV2dnhIaHFEUzRTVGF2T3J5ajlfNFZ1WkNwSVZDeTg1cU1wRGxDMnNRcUtERnZabmstdXoxVjR2ZFlWZDNjNUpKSk9sMFYwb3VqRkdsZUV6ajVwODZzdWg3WGpXRmhKc1ZmLUdxY3ViaTVsenVCRFBLVTJzNGIwS0Y5U1BLazgzTdIB9AFBVV95cUxOdWgzQkFLaDIwdEE1aFBISTFVeXhhblcxMG5IRHpYLUhwa2RiS2psWmM5OTBKR0NPVGFnbFlRRS12TW43U3M1cU1iQjZyNmFmdDNERjB4OUYtRWFiM3F6cjlabUd2LWJRRHVGVGpUbTNtT3pUcmhDR0tMd3N6ajRqenZLc2hRel9neDhqeHp5T3FubUppQS1sNFdzTFhIb1ZZNk5qTGFCblhvLUNVcnlNVHExQ1JZeHl0TTlUWjJBMHJ6aC05S2RtNmhZVTJ4OG5za1Ffc0t4aFhRaDVqT0lWWGl3WGd2aDdSaUxHYXFfbWc4M3NJ?oc=5",
+   "published_utc": "2023-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra reshuffle: Who gained and who lost after Team Ajit Pawar's entry",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUm93dFh3UGlBemFzekJPQ1FDbWpJYkxlNzNCdWVPVWJ5ekhIOFdCXzdhSmFMd1NndC0zZGp3X1VyVDJhbi1IUV9zRTk3V1hGNEF1VjYyaTkwY29YTU1ZWVZONFluYkozd29obWI1eGNGU0ZpazlTR3AtZmI0X0xCLXl2WUlfdEtQM2xrc3dCVGIxLWdFZ09TODZwQlB3SmVJMkwwN3NxVlNXT3o1Sm1sZDRxMHNZd29ZT242cFJBX3JaUmtRSlBiUzQ4ajlFOVNEY2fSAdcBQVVfeXFMT1NRdW44Vkx4ZlBmQlhsajRvRXVqTkxSbEp6VjlmcUxBQXp5d0FQTDZscm8ySnRYaDliT0FmV211bDNYVkNySWNrRkpFcmNuNV9PWlVkY2c0ZjlCQ2Y0RG9WSmZQQVNTZG1rUERld1poaEJscHVHbTNmRWFPcnlRYWxjdnk4NkRRakpFQ3hyQWJNUnpBeV9hVGRGQW5DS3lmYUhYbjhOWFJDaGx2VDg3WHhEQ1ZhLXdMOE5ZNkdESFl5UklhWkQxOFVPcllrZVN1SlhKTDZUVE0?oc=5",
+   "published_utc": "2023-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AIIMS Patna to use AI to treat patients, plans to develop new tech solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnhGLW9TOVNZa0tEc2szUUowTWRkcGJaT18ycHI3MFF5THQ4NXlEbWVrSFR1UUdTVll5US1rdUpHZ0pUNmR6LUF5eERmUnpkdk5MMFZFbm9TcGpYdk5uSENvcE85MXNvaEhXd2s1RzBTSFFDSElIdUZyMER2VHMwcDBRT0RLdWFKeFhrLVg4Qm5SeUd0RjR4NXRaVnVmWXBhNDZSdWNCMU9PemV0aE8tTjBGcURuVzktU0dkZjM1S29hSFUtbEVwWWhIdkF5LVhCT0EwaHl0WGdaTThETU9abURn0gHnAUFVX3lxTE53bklaU3hEM3Uta2hXanliLVFfQ2YtUVFuNWdhRlNlN3FiVWE3ZlhrVFZNZTlrbTdkVUNkMkNnQlY4S3h6Z0N0cUIxQnhnOGFKZnJ1UjRDNmZrN3E2ZVR5WGRQcWVZZHBJRzVQTi1QTXJVWlpfM014eXF5bGFtb1FwZE5VejY0RlFfS21MWVRvRUEzeXMwQ2FrWXk3SFpiMF9lb192ajJhV09taURYMmlNWlZoSHZCWHZobGszU0FjWHV2LWx6QXNfOE5tZFpvb1FTQmFoV3Zoa0gwNG1hRzA4bWphWWNYTQ?oc=5",
+   "published_utc": "2023-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After 51 Years, Maharashtra Government Sees Support Of Over 200 MLAs",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNXY2SGNXOFBzUC1zRXZ6MFdUcXp1UkNmdjJ5VU5nRDNXV0dqdTI1Q0xQT0E4U0FwQ0RuS3hHNmJkVHhCVHU3YVJ3dXYtT0plWTVyemRkbDFpSWpkREx0T3UzN1hmZEVDMUZhMy04b2lZUlRYeGd2SXZBY0dTUUpLaVF4am8zcTFQQ1B6N1lvSHA2ekZqUnFtY2dPTUFDTVhOYjNPaHRUZ2RRQTNJT29BVE1BVURTNTJiV01Ldm9kOUY4RUJxaFBMR0FjRTllWDdPVXpuczlzT0tIQdIB4gFBVV95cUxQaV9VMnJtZ05iQ0RQSi1ob2NtYkdFZWt4MGhuRTRTMWNGUDZtRnhOcWJ5NGNCTGhJdGZuRDJQNHV3T1ItcF9hcFNJZ0VkV1J2LWliRmtDSGVQeHNCeWVpbDIycVl0M2hpM3ZjZjRaM0lySmplWTVHZWwzYmRLdFRzeXRKeWxZMlN4ZnBrN05lRmJnRUo1bWpDTkoyZFZWbjlmNHJvS2xWWlgxRGVCX3YzRjk3ZVBVTHNha1NlT25COXpwdmlibGZrNHIwVFZYeTJwaG1TaU5nOFZ1NmpZellld09n?oc=5",
+   "published_utc": "2023-07-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra has two deputy CMs for the first time as Ajit Pawar, Fadnavis share post",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQjdzTWIwZGZFeWFMSzIteTlfenY0MEllV2JDajdBUFZ4c1JodFNTOFEzcmJpQS1pUXV3dHFnZUhPYzF0ODluTXRtN0lETHJfaXJPcjlsbHVkUmdvWHNsRGk5S3Ixd0JiWVBDOXlTZlZzWFg3QjdQaE15amdrU1F6dTdpM1MtcXVzQ1FyVTdrcGU4THdFaXQwTktTV191Mnl0UzhfMmg0azVWUEw4RURVRzlvaFdFTkhVdG9BM1lxWnFTWmg4OVo2NERxdDRJTm9VdFpnM2trcWdCU0EzdEYtVjhZUVFVV1ByeDROcnVtMzZub19u0gH6AUFVX3lxTFAyMzJvTWhrWTFUWFpoTDVSUDNSUHNlN3Uwclh6by1zQUF2Z0ZqSHlfdWJldy0yTmU0X1dVNjdlYVU5UE03Z1dOUmRoZjRwN3FURTJKZWJ1bXk2SFltREVnYnlpd1kzOVJVYl9iT1V3RkdvU0xIZlJmUE54N0lkRE5MTHdWVERpWkVSbVZFa3JzWHU2V3ctbV9wSlMzeFdTUlA3OFl6OGVYRE9JY1NLVzduMjRndjRaWU5BTTdvbDB1bktWaWtpMXVWMExiRDZwdHhmVjJOTGFBYTZaeHRBNEZtQ3M2dVhRM0JobnE5WjZhMUpIM0MxdWhoV0E?oc=5",
+   "published_utc": "2023-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Will Ajit Pawar take over as Maharashtra Chief Minister? Devendra Fadnavis speaks",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcy1YYWdnV0dmZHJxRHp3ckdwbmFpTjBGSWM2bGFfOEVpM0U0Z0FmbFRlSUU1eTJzdkJscFExelBiS0Rla3M0Ym5fR3FfeXplcjlhbVNFMlJsekdPRzhFcGx3MDJhQmVqcDVBVDFoUG9OSUxPZGtNT1I5dGV3UGt2eExqclFWNDg1cUF3eEZzS0VKbjBRWVVaaFRRRXhld2pQcTVjUzllenlLbERnSEc1TXhyR2pXWXRkWlV2UlViU3BGSXFkWGJNR1NTRdIB0AFBVV95cUxOc2ZMY2haS3ZFMEZtYnJsU0dBb2IwSnROelJSelU1RG9Na2Jnc1RpRUJaUDkwcXE2WjBZZ2t0eFhMOTI5b0Z0U283aWVCbnM5Ql9DV0xzbHpLZXpOZHVRQlZYZ0hMUGkydHAzSHVaTWtZSUgyenJZd2dkbGZlRVV6c0JHNThpdldmZVM0SWdWclJkY18ySDhrcldmY2FUWHpkZ2RDTVlJejdUVTdVem1ZMkNYR3VaMEdHb0RQczBlUFFma3FiODVYNmNkNlp3RVlY?oc=5",
+   "published_utc": "2023-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Meet Lisa: India's first AI regional news anchor",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWQ2NUlrTjdvT0NRS2k4YXRBZzdhNFhyVGxrcDZETU9hMGNHVWtIT29sekZ1b05vdUxUc2pZVDluRjdmNXZuelJiWjBIWXI0OVJkWmZpV3gwdWtQbTBTYjlKdUlXc25BMzN4YzR3N1pXd1p4UmVnTFZjSG5GSlkxN01LNlRFNTBvemgzNnRBVmpBYXZHVGpta3dsUXZyT01BNjMteWFGV18xNExVVVFQRG5pNmtOREV2OFIwR1U1SdIBxAFBVV95cUxPeXlvQ0lEcXp2cGFaUWw3Wm1MZ2ZhS0toMlpyQ2p1bHFZbjZxTUhmOVNHY0Zub3dTQktkN0lYblJEellINGJ3T3BHLU82UVNVTTdya25nRWVTWWFkTWRSUk1VenZEVWFFSHFwTFd3OHdMN1BrZEJRVTVsRU1KYXI1cENoWTRselAyckduaDZrcER2czFqN19BOGFYd0Iwc1dDMEhFR3d3ZUFtWVF5TktNeEZKeXh1VncyUWlfbGVZNHJJS0xC?oc=5",
+   "published_utc": "2023-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ajit Pawar As Maharashtra Chief Minister? Devendra Fadnavis Clarifies",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGdrTjZRNzlvNDNNNTJnbzFXLUNycEhwOFBkY3o4WVhnQmZNSERUN3VCdUFTLTZ6eGlVdzJJbmdUUDRLZmtvb1Q1OG04ZG1kWTZobUpkN2tfYUZNX3RDa2JSbmctZ1ZSTVVMQlZDNWxacEJ6WDVjWThONDUwMXdUd1VYM0Nxa0JlNzdOZ2pyaUdUZmpHOVN1TEg3YlF1SERiNG9lcG95MmF0QXNZ0gG0AUFVX3lxTE80aTVyZmx3WEVic2NYbHFvdFM2VUNKd21mVTFPLU9EUG81MTc1cnRPUlE3VVZyUHUyR1V6aUZEX1JwM3hvTzVtQ1hPQ0dGNjM3QWpPYVcwbjcyRmNSWGRwT0dSVkxUSkR2dEctaUFUUHJHRWg2dU5nV21hSHVIb21iTGk1dGRSU0twQTVIekFQTU9EUjZtZmtZT3pTckVfekI0WkFLV1pEX3RWRmY4SElpVGN4VQ?oc=5",
+   "published_utc": "2023-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet Expansion Most Likely Today Amid Tussle Over Portfolios",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1dzY1YtOTdsZnpKa1BrMnZPM0hndThhbTRMcVBpd1FaVFJsVEhHc21XQllyWWdLWkZ6b0FCLXVoeWJFQjZWMFcweEh1OTE1N1lfVVpLYmt4U1VDRjlaYzVncUhzYTVGX1Ftc0lxWjFpMlhtcC1JcW1HM2hIY3lUMXBXNTZNbHB4N2tHZEVwLWZmcWpFZkY2MEZFUTdzdURibWlhSi1EOXVrQ1c3OUc5WldRSEEzZ9IBvgFBVV95cUxOMDQ4YU1ubVhxMTZpaXctZHhFaDJPUjJQWk9paXE3TU9YMTMtTjcwbnRJNWhlMk9ueWFhQ2J6UHBtU0tfeDBVc0FkZEo3bGhTalpxdlhNck9ZbDBpbTRqdm9jNG1TeEM3bmpPZ001aGprdnVabVBDTjFZZzhZLWlDa19VQkNQeHdiZjJpUEtPdHJLdVBKYURMZW8xYVUyejdCZl9ZSWtBVDE5dk9WajBtWW96YkFONXlTNTdHWEh3?oc=5",
+   "published_utc": "2023-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ajit Pawar Became Deputy To 3 Different Chief Ministers In 4 Years",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTFHMlFXUVRmTUN6N1NmaFU0cXY0bXhGd2JIY2NfRzI2WG5ScHVoZ1BWUWVDTy1MM3FHZFhGbmcwVV9vbkNjTWJudkdfYmxsRlA2UkxoaDF2eVhqMTJyNndKYjlwSUdIMlAyZ1p6VVhsYWVhcGlZZ3k0OTVXMjFORGkyNDIwN2VKa0E4alEyREVWbllvNnlSRF9MRXJ4QjhZVHBWMVZUdjdHZjBaNU9WbjZSbHFvSGRLcDhkZFk4eFpQSy1xNEHSAc4BQVVfeXFMTlB6UXZPdzNrZTcxMVc4anZlS0x2X0hTT3RuNjU1ZVNtV3NPSnBfTnp2cE1pbWx1TWlVRnN4ei04RUkxa01ndi1uOGNrNlFIa0w2RWFTS0RHbnBWMFRhUzZ2SmRjRy16R0hWQnVLZXYtaDNrdWQ1LVBnLWNPMExIRm9LMWNIeGdvNDJuemNnMV94eDlzSndwZXN4MFRVSG1abzUxN1psdkpxX3ZmRUl3ajB4Q3BnUXN4NUpIeWtDRDlBVi1BazE5Z3BDVkxraXc?oc=5",
+   "published_utc": "2023-07-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

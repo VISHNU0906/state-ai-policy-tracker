@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Bhubaneswar has become a pre-eminent IT centre in eastern India: Odisha IT Minister Tusharkanti Behera",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRVlDbmNEWU0zQmVRMzh2SExBc2NHTlhlOVBVaTk3VWF4Z2NqV0p2eWhRdE0xM1dlZmRSOHBPaUhmVHp0eW41cERQRjVMSGZRbjhlRmhJSHZ1RmU1NFRoNWdoYVlTUjJhdVBqVWZRM1lEVlJERnJLWEU1V25fV2ZsdUNPS2w4dGc0VnVUalZ4UThJck82RDgtNFlseWZpNTR0b0ItUEdGcVFBc1VKRFJzaTJCeGFKX2pScTkybU5VUXcxZzZKTnhqMFBXYmlIcExMQU9CZGxiU3FqTVpWb3pfZ2p5Ylk3Mm9aQWFES292ZGktQm1DVGY3VlBFdDMtS1BVRWd6btIBiAJBVV95cUxQN1p1VUlUUzg5X2hsSEs2aFJGeDdDQmJ3dHAySW1WSFhCWjZiQXFuSTBOSHZiNmREaXhVNlBNb19OOEQyM0xFOEk3SnFlYnMzaEI2R3QwM04xU2g5bXlhVTdTRDNuMS1mX0plUk1nSW9uTG5PS3pmRVV5VERuZzlfRlFHUGNVVU1NN0pWcDB0M0YzdzRua3Y4UzVqU2w1RHBiaW1GV3NUN0xSRHpVcW5Gb0lsNF80T3Fac3JFWFhKV0g3aGJsN0FGdTdQVmI3a0t5SVVVTkdScmJUdk1hb2ZxV3Q4MmpGYXQyaHNEaG1rVWswVzZUQmx0QTRSMFpNZW9RcG9wRk9oLXA?oc=5",
+   "published_utc": "2022-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

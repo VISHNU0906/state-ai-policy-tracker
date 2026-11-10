@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Artificial Intelligence Mission to focus on research, developing AI-driven governance",
+   "source_name": "ET CIO",
+   "source_domain": "https://cio.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeUxHZXJ3RE1OV3RJRmRRaHQ3OHdnaVVXNm55Nm5ZVUljYldENnBqd1drY3dNcl9wZ1FiSUFyZzdSWUY4M1huZ25wbXoxTXRILVY1VW84VVBuNnEySVY0cXNZSVZYUmVHWmNscTZpcmdVa0RhaXltQ0JJeGJlQWNNUGR0N1pWSXpsT1BINEpXaTlGZXk5UHNEZVFVYS0zb2t5THBWcU9wT2lpSHplVDNsV3V3SUhQVTlsM2FJclRYbk44Wm4tQ1JHZDZucTdZeDhLYnZ6V0F0Yzl6Z3dSZFBZd1I0c2hTLUR5NnllUGVVWjdOOTQyVzFoSFZUeURxTEcwTk5RLW5R0gGLAkFVX3lxTE9Cb09aSzBYRXZBY1pnOHc5Y3h5dEdKdWhqYUVxYXc2ZU04ZzdZanpGaE5jZU5maWxNRmZLLXFCd1dwdkJkaVNDWFdKYXNaMmhGVUIwNFFVcmxwMTJpN0h4MnJ3M1VGY1VseGRpWnJqcW5qVU9iRGdyY3lVMjNTdFBfS2ZsQXFNUi00U21QSHZIejhHTXlWYzRKZXpoRlBjVWtUY2ozai1RcHVVQTN6YjBpc2FUcWowMHBYMVRBemhPMUxVdGkycUZxRlNJTUxDV3QwYWpBVklVRWFuVXYtNlFSNFdEUk9HVllIdnp1YXJsamVVX2R5Zk1sMnhTNFQ0cGtCM09Eb2xMSU5GVQ?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Hindu AI Summit 2024: T.N. to set up centre of excellence with AI lab",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGw4OXdfeGtGNFlEa3ZiLU9RYUh4bG8wYm4xUDV6X1hreVFhTWxYbnVCWXVieURIRnNCZmJZVXhtVWZLd0xGSUJWX0R1U3FScEFFRzgwSFlNQk9KZUE0RFZnR0RidnJIX0ZLM3hxQXJ2Wk94dkNRVEctNjBsTGU3R1RMY0g4TllFR2I2S0JLSWJ2cnpxOW1JSmNQZE9tZks4WV9qSWN2dEY4a1oyQy0xT1FjNEI0Wk1mNjRKQUQxZTNlOVNWZGU0Z1kxb0FTQ3FSeEU5blFVTkQ1Z2tpcnlDTjN30gHoAUFVX3lxTE1HaGYzVExiMHR0OHpaX0dhdVNhVDlob1RzRTFwOWpJVHNubnBmb0pSYVA0cVd6Z3NkN2ZjOHpSR0FrMUF3TzdLUk4xUlpyV1Q5Ry1iRzRDYVZoeThLM0M5NUQzSzdKTFJuZGc0eTNjeERtOVR6UzZiLUJpZm4ydUZRSVZNb24yQklZM3VIYWlIRF9DMjhGc1NHUFZjamUyMVM5UG1rT1FqclYxSVNQajI3Z3lPQllQOHpCQ3Y3OUJfRmZITk9QZHc0LTlVekpseXg1WlhIUUhNZnRCUFdzOXVncFJUMGhNWEQ?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "New mission to make Tamil Nadu leading AI hub in five years",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ3BBTGN0Tkc0REhleU02T2hTRzh4QTFiaUVXRVVCNjc5Q2VrRWh3c1pEOEMzV241ajlVVi1MakVQWm1ZSU5xQkMxVzR4dkd0ZlJUWDJDb3JCVkxUQkhlN0JXSXlyaHJGcWp2aG1sQzV3ck50QkplMl80VXFyQldkbVNRT2R0Nmg1bXR3bzM4SGxzb2ZTcGlpUmVvR3FNS3BleGNBYWlPbk1UWk1XRjFQa0s5Ykx0emNXNmptTVQ2a9IBzAFBVV95cUxQOTRqaTZpcW1kLUd0bDh1TG5jOVM4RzMtMUVUT1NEbFFEeE9oYkZjQUlhYWs0RXo2bnRZemFlOHBFZUI1REs2NGRsRXdPdTlURGlUeEJGSmlfVFllZTJMNFJRUG15MkZ4MHZLeWxYTlBmZU1aMGxXeXk1T00tenFTOTNaMWtxX2FBZTdKYjd2MmJDUk4yd2tfV3YtZFFQRWM5NVNEMy1PMGxudVRpYlBpdVkxOGd3YmlReGZhQWwyMHpGa3V5NUdKVXpxa0U?oc=5",
+   "published_utc": "2024-11-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Six notable Indian state governments AI initiatives in 2024",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGpINHZaZC1ocXg5WHhwODA3SG1TUzVLaUxPMnd5am9LQWhYeXlhcFYyNUNHbFN4dzhvSDl5MHVQN3Y4UkgyQmR6U1h1YmMtaldpT0VPaDJuS2NiVFYyakhCSlVUc3B4bGxxRExSUVotMXF5Z0FKZ3BoeW1UTFo4bVZiV3JEa0IzRXVtVlhIUTNlNV80?oc=5",
+   "published_utc": "2024-11-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "TN govt to soon implement 'Tamil Nadu Artificial Intelligence Mission'",
+   "source_name": "DT Next",
+   "source_domain": "https://www.dtnext.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1N2V2dVcDFhU3V4QkxaMWRaVVJkV3dkZUVKenFGbW1zWjJfSzZfRGVXNmM3TjBQZUJnLVc4ck10NjVnT2k3NVAtd2JERTI0aWVtWFYtempnRk54MjBKam5Eek0xV2xOczRkcXNpV0Z5a05uX0UxZHY2bFZuLUZabkduWllkRmpsYXcyNkFRaU1nUHlTOXRKSW41QlhUWjZjRnAxM2U3Zmt1NFpHZm1IdFFR0gG_AUFVX3lxTE9hNFFlZG9la054OVcxTHZvLUhCOG9Hd3FqT1U4QkJnNUtGN0JjMlZqQ05WMFBldmxLS05PUEhKb1kyQWlFalhoVGNDbGFKR3c0OTk2R0JBbHBtWG9nRUtpTjBLRk94N3NXbzc4bEFVWVNyeGdfRG9BNjZuOThyUmxEMVEzd0tpbjV4dTItc191M1NHRTB0WjV6dXBWR2ktTjdJSXdnQ1dkUVdSUzU3VUpNRHVqQ2ItZDhKaU5wQ21v?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu govt sanctions Rs 14 crore for AI mission",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGlDS3J6QTJYTEFfVlVxejFnVHlNWG82WlRZWFdMZmc3dVpNVy1XV1VHQTQwWW1CT1VPRU1PRmRuSzdlNkduaHVULW5feHhZYWFrb19idTliZFlyMi1UQmRFOWtONUdwWlo1ZkVDMU0wOWoyU09IRzZjVmRObExLYkNmbldwTDFDSU1uNFloSXJNUTdlcHU2bXE1bWhFSWdwVHZfUHlBU3A4VnVPYzRuQ1hlVDlLTG84aHJlVnkyZ3plVklwU1HSAcsBQVVfeXFMUExySUtFWk1hN09mbVJkNTdBbFYtbjZVZkdfdmk5RGpfTEhULVJpSVlRSWp3VFVhWWQ2LWN4SXlleDZHQUo3U0ctWHNxU3kxX0pOMlI2X0huWDBfMGZiYTZUSWJSZ3lxQkpRalgzbDhPX0pDM2diOEduT3hqQmpFUHFELVZHdlN3VFU3OG0tTm9WS2FjcnROWnBCcHh2c1FFSVE5ZTl4NjJ3dDlfRE10Y01BalBQQWFDcmEzQVVTcEMwRlZ0cncxbjMyU00?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Udhayanidhi Stalin accepts EPS's debate challenge on naming government schemes",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQV3hQYjR3VFpQSk00dnV1R1M5NnZQalB6RmZaa1g0Vlg4NWMxZV9wdUFpWGI2a21QelhlRVpKUWJpXzBsT1gxcUFENUNadTNnNkNZTV9xNXMzZEF4TTFxVWk0a2QwQl9SSEJWd2YxMVRGeDlQWTZfM1Z2Sk1NcTRHRnBCTUNHdkZtazZHcm9kaFYzR0hHbDVmdUZCOVFiRmJFX3lnOTNYSXBtQWVFYXNFUlZHSHBHaG5nc01zbWVtUjdEbldWcE55MzdRYUxPaTJCTXhOREktbGNteFBTc1dRVkg2VDA0cElMLTI1U2xGVWxrQkp5c3hmaEt4czd3OW0tbE1vWk0tZkdqZUFpdzZVS3YyeGRTdFNVZUJiLUh1WGotMHptM0HSAasCQVVfeXFMUFNENWx2R0Rlcm1JaVp6Vnh5WkwzREpSUndFN0d2a1pURW94WElpZjdsdkJNbVlLMVFfbzg5R0RqUnNJLVMwRVU4VHQ4QnJacThxSGxHZ2QzTjktbGhHM0VxR0RBaTNnQVYzY0JSOUtxc3F1emIxNzBld0s4MlFfMFgxWUh0TDdOaldCMTlaUHh6eGpYSkd2SmFxYVdFWmRreUhoRG15UzNDVU00VkRJRnFsRGlYYzU2bmh1cGR6ZUdBemVIV052b3pMT2hnS05zTlJFNHZ3VFJVdG5WN0FmR2NqREh0aVpFOTBzS3M1UExkZ2V2Ri03YmVMajBhS01PS0J1OVZIRFExWkMxbWMzTXJzcUhrSUxWdS1tcnhMMWNyZmoxa2t2TWY1eUE?oc=5",
+   "published_utc": "2024-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu is transforming north Chennai and Tiruvallur into tech and knowledge hubs with the upcoming TN Tech City in Madhavaram and Tamil Nadu Knowledge City in Uthukottai. TN Tech City will support industries like life sciences and fintech, expecting",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWmphSGlkQm5yVUpla3psbHVMMmx2cUxDSHBUOUlXc0M2ckFNa2RzVXlPR0NJOHlJM0g3RTZKN1Ywck9JRWp6VThGYUpFWVpfcHc?oc=5",
+   "published_utc": "2024-11-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "'I know Thirumavalavan's heart well': Stalin admires VCK's support to DMK",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZTNzbHdHajAwUHNpZ0MxNkhfMy0teko4SjRad0NMdzZkMkEyMVVKNE4tZ29NNFo5YVRzQ1NQMHNSUDBfTmF0TGdVVHFkMlljU3BmZXQ4MUd6RmQ3cnBjbi11QmdyTks1MFNqM1hGMmZmSlZ4Y2xzcW1xdGVKQkN5Mm9HTGtyLWtQN3JpM3R3UXpKTmZ4SHlaU295VmtoeXFTdS1rYklkdGpSU1dpakJyR3FuRTZ6UVJ6ZzlGN2xncWFPX1dfZ3FtV0FoLW9Nc3RVMlhnVldaMk5wakZNZC0xOXhmTTBwa0dpSXgzajJIMTjSAfYBQVVfeXFMT0dGQV9CbVZqenlEa1JtV2NEOVUzWlVqb2ZVSktzZENVbS12dU1Kamw4Yl9FbkdLQi16YXZjbFdwR1dsbDBRaHRwRmUxYkNReUcwU3dLVEhFay1KLXNXcVZLSkxGb3RVUnZFeUtWeFZGbzhIMHBkc0FjTTlUT0pKX1FvVGdBaDhDZmlpR0l0Z0U1NG5mM2RmSW8wR05mLVdWb2dzdGhKbzJMVnQ0V2hDNnZySTl6RmRJbVRXZE9VMFNjQWNJREw3Q3F2TmVQaWV0eU9aZGNYekhfV3UwZ01teDZZZlk4S2RPQjJhcXBqUjdFUndEZ0JR?oc=5",
+   "published_utc": "2024-11-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "All TN govt school teachers will be free from data entry tasks soon: Minister",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOTF1MHZqM2JxeTNoM2lmZm5uc3pkaEhJX2FqNk9tSE8zcmRCNnpGdTF6TUNRVHh4WXFUWFJ2UF82cDBuOVR6MjVKTmdXNmd1dS1wTU00NXZwNW9aV0EtS0wwYWFfWTFVemw3ODZzZkRSQ2pJWldfdkVJdzhrQmJWeUdMY1hFTzRycVY0UTUtQm5tTlB6MjFWeV9DQW0tbGdEQ2JGN24zUzZwNjRTUXNna2tEU0ZZQU02VFNGWjFyQVdMNG9INldvTHBxRmp5ekJBcjlHTWFwTFNvZGJqeTBwb3RmS01Cd9IB6wFBVV95cUxPTEptMWFOWHBRRC1ySW12b2ZsejNJdUJrejliZ1JyTmRwWFFOOEZlYVFTVVBtMkF1T21YQ0RhS0dpUGp2a2Mta3RCZEcwUjZVZjBUZUtETzNzbnlCcm5EQUl1YjVMTTRQcUJUVk1yeFJ0Vm1xQ2p2TV9QU2FrZGN6bHQyMWVjVXBRcDRJX1pzZzRwTGRHYkpDSGk2MU5ISjdjd0ViYVRXb3lQSktMZjdSNnFWR0FjR1FJRjRTRHBhS0pDUDZWWDdRVUVyU0lmUFJ6ZmZrTUNrTHNadnJUcjM5OXNJTGZzWDVSV3FN?oc=5",
+   "published_utc": "2024-11-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

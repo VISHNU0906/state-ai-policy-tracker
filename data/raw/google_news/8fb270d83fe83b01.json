@@ -1,0 +1,77 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-11-01 before:2024-12-01",
+ "items": [
+  {
+   "title": "Maharashtra to establish Green Integrated Data Centre Parks at an outlay of Rs.1.60 trillion",
+   "source_name": "Construction World",
+   "source_domain": "https://www.constructionworld.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ1M5cjJHM1ZINTlLY0U2SldZTzhyaGRqckRDWlhyVFlnUTVWMnJoOS1XZnRiNjV3cjNQQVdQN0g1eUNkajkyazZTTkZBTTdEcHF0RlJnZWZvUnAtN2J6NjdXTXZIbWpORmJKcENfVkxwX3pQYjloM3ZTQXNvb1B2YTZkYkJ5V09McUdOOGpTazdCalhVRm05dTg0WFZTLTJEaTBoc3dhNHJtazlSQU9pLWZMdXoxTlV5Y2d5bHZ3YkQ3UWRDcVoxWUk2cGI5b3o4cEZyb2pyZFRDLU1UX19wRy1fQ21IS1B3eXhEaDlGbko4YWd1?oc=5",
+   "published_utc": "2024-11-05T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Raigad-Panvel will be a big centre for data and AI: PM Modi",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDJYLXN1Mnp0aUJhem5DNTVxY01UM0Z4bUVEcVdjdkc5YVY5TzIxRnF4dzFnR2xaeHdHeno5NFdoRmk2UkQ4YWJqZXlkYVEzV283My1fWWZfLTdvQzNBUExjMXRHQ3NLX05zZExzU25XT1hjaGhfcnRVbEpKWmFoeS1qWGdzemRIQTFLVmZ6djk1MG5NaXNKTjc3QkE5cjF6Z2J5U2thMDZRazc0QlJqSVcxUk5NOHVkbmZ4MWxuSDVvVmduVnN6M2hadnVYaE3SAdYBQVVfeXFMTjRaNF8zSmJVazBEdk1QM1FFUHJkekxVYk9oSlBhZUdrYXJsMG0xdWk1Q29mVWJoeGhIT3RSbGNLUnBVZHJpaFVGcDFSWHhsNHl6TFZsdEVvVDllclFWMWVReUhMQUlsYXNyQ0MzQmVYU3ozd3lpcjRMdE5MbEtuRWR6aFRsbGZncktFVERveTQzcVV4c3MwRUthbzc2amxLRXRNQXhBQ0RVTFdZVWZoRVpLTmlWc2Y3YXBIclJwU1lIdXA2Yzk5RUctNHFjcWJfNE82aHl5Zw?oc=5",
+   "published_utc": "2024-11-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Like Supriya Sule, you too could be a victim of audio deepfake. Here's what you can do",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0F1ZDcyY0pZUldTZXRlbjdrTWxNejg4Tk1zaE1yU2FsZ3o1b2JVNC1XZUo0ZEZwVTlXcnlycFRPWmJQYUtkTUdEOTdxYVZDczdJM1F4dENQNEdmUWRScW5TRjktZFJCQnJLYTBGbUVFeFB3cjJPSWlYeGsxVmNUQzBfU1JFbmdteEhvc0kyUVR0N1ZXVnJfbV9TLTdDbG9YWUpxajNkYTdlZHlkdHVpTG56U3RkTkV3SU9XeU1JR3MyYjFnT2UxUE04N196ZjNfMWZ30gHYAUFVX3lxTE5WS3kzSGtrbmZtVE1ySXRJcHllN0pOUmljZlIzQ1dIa2VWd0VmRlRrRk9wR2xoa2o1cW5CMVRqbUJDQUwzVDc4MWZJWF8zUkJLa1BsdlNTem1CNjhxVjZmSVQ2VFlhUUk4SmhNRlJvcUNCSnlpYlpDMFhmN1hiV3d4RTVSLWJLMXc0WDhaX1dEZ05kSEhFSHJ2cmF6Z0tPVk5UQ2pEdUJPRHFCaENJd0toZEdrSVFZZWg1S2RvVmEyd0JuSjRBbG1NWm1ISG1xWXc1LW83dFRZWA?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Polls: BJP Shares Fake AI Audio Clips of MVA Leaders Supriya Sule, Nana Patole",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHVVYXVRT1p5WFByNWdBUXprNF9Ma1ZXaHcxX2Y0Z0oxTHpHU1BYLVc1WVREV3NzUmRoNTFsZnZDQ0pWUk1VM2pxV1BGRWlxSkpLTER2WHhvYVNwZlBoWTRuNk9rRy1MU2phQ1JlNndQUmJIXzNGdTlYQmdQSzBpUW4wZWZUVDlPS2lVY3VfRHJxaEZlam83Zko0M090clY2Z2t3enhzbk1iaXZQalB1R0c5VUh2N01rbWRqdjlaQUdxV1ln0gHKAUFVX3lxTE9uZko3QTF4WVFvTTU4VW1NaThFRlNSTGJtVTJSYl9zLXgtOG5NdGM3c0pxTFgxSTBRRjRBWnQ3SHQzQmNvUUNCMmtJX2M3SEV3UVM5M1o5S2ltRU9yVWRvTHRrcnNzdzgtekViWGNWY0MyV2dEVVAtbUtWZ2paYmVMcWZHODdMNlJFalctYklLa2dqNnFzbkhuOWRJTHBFMlFlR3JueVVSa0JpNWQ3ejB1WWROanZfc1RMdmxLdGNhbVdXbUFNbnd2bmc?oc=5",
+   "published_utc": "2024-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Focus on IT, data centre policies to attract big-ticket investments: Lokesh",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHZSRXBxYnBqSzBHWEFrRnd5eDNDaFVvdDN1TE1pZTZ3RzhvcHlOaWN3RVRxTGJnempSeGlPcklGdGhaYUk0eXpyaEoxMU5JOW9VOUZvRFBwZXRQbVQwbjlZUWFaT0dzMVJsSE9LS3VDYkVlMHZkNmUwa2lBemM5aXItbHl4N3l3eUp4ZXFxQWxJVTJzUElFVkc3UEJaNG5VWkpxSEZvWnRSMmRKQnpBcmJZTl9kSjM3MTJmUWdETjJhdGdVZUdwblhpaVc5V0RCWHhyQXNodHowSTlPbUphOFRBbTdjMmJXNlHSAe8BQVVfeXFMTW50bTl6TThJX0JsYmd6OTBfclR6em5kUHQ3WFZqZkd3bmpZdTZzaEhlUWx6R2JQclpOLUpZLUZkY0Y1bVBNYU9QNzRqOEVVNEtyc3BYZEZYb3QteWRmR0lQOE9nbmE5cWhZNnFPRnN4eGItVnFpREp3SzVVbEp3Qjh2SVF2ZmVSbWJ3VTdOZy0yNXdtRVR1TnlROWpHZmM1LUYzQnNUeWRrd0I1Q2hTaTV4Zk5PYXdleHprb1A2bklVZUM1LUpmV3RvUEVCRDB1ODROSXQ0X2g2UU5tVkktY1BhZUdwclNUNGJhVnpfekk?oc=5",
+   "published_utc": "2024-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Supriya Sule, Nana Patole Bitcoin audios: What AI detection tools tell us",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWZld0p5dmxDdllrRmFZelRPVkRpc0xwYzJMdndOa05MY0RBTlVjazl0TnlHVkx2QUd1Tnd1ZkF3X2RUSXh0WEtWZ01UTzhwOEFvTHg5elllLWkyOXFSeklWXzlrTHkxSHVIQUQzVjFCUk5udVktcnBZcXhmbndONXVpYl84blVmdS1RSHZtenlHQ0NjemF3NnUxZzdOOXNrTkxEQ2kwSGhVSXFSX2ZLRVRKWGZvOVBqSTRqVDVwd0s4VUF5QkJhNUl2UVE1YWY1R0VGbkRR0gHbAUFVX3lxTFBhUDJid1o2NzdaUWtNYUkyUXJZN19OcEQxR0s4RFRFbEIyQVFsVk9SbzhNS1BrOGxfeE9OcWM4TmNrN253X2NaRURLRDZxcVFkQmQ5eUktSU5mcy1QTXBKNW9MdzhKclN6VUYydmJGSnZPYVJuT3NOZTJTVEM4cHN1a09ESFNVLVlpMTNEaW9tdmFDZmIxSDJkR1BaMHBSdkpyc0ZKS3RmdTEyd1cyT2labkNiUGRhbkR4MkY3T3AyTE5ydmtIa0NNRTJZcS1rZW9NRkRSUmppOE9pSQ?oc=5",
+   "published_utc": "2024-11-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ICG lays foundation stone for tier-III data center of Project Digital Coast Guard in New Delhi",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSnp0REhiLTZFNDZ0aXFCalhRclhxRXVrUFZZR3RCVERfc3p3bFhwWGJpSUhleHhLSHJrbVpYbGNST0t4WHE1WHZWM2JIb3JpcHhWMG5lSjE3U2hwQ2JvWlktdDY0X0lfcFRfdEV1aWRFUldJWW82THNEUHY2bXZhLUd3RmE0WVRNVWRJSUtqRUpVTkZQNVpicFJvcWFFVmk5bHFUSFc1RVpEaUdXOEVXLWZGMFIwVlJlQTVrQnVVUDZuZ1hzMHFabjhqNW1FeEtGLWh4dGdKcnZKVVBqZUZ4S3JzYjNuNklRa2dRdVQzTW5ka1pVb2pj0gH8AUFVX3lxTE13YlB2T3lZQUN2dkh5dXZTOWVPNHpoTVF6UV9XVnZXTUNZUVpGNXl2bzRJUkM4RjVOVjdfeGVqQ3N5cVpLTUZma3VROVY3NGJwd2d2a3NZeXVfQS1GdmFwRW90SEphNzV1UE9GRDRFUGpRZWg1SnY2WENDMHBCTGJ0WVJnd1FicHYyM2VLX1FBcVpOVUIxcC1LR2FuQmRCM1VEYVJtbFJMOEtZWTFBeDBuVDRMTm9UQ2lDMGJHazcxcjdaSEk1WlRxN2hvRmVpSWhSa1EzbEJ0N2Z1eDloS2RkMmpxMlhaZzVSWkRvYUgwWmNxdGFZblp6ZjhHUA?oc=5",
+   "published_utc": "2024-11-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Elections 2024: BJP’s Ganesh Naik Stirs Up Storm With Controversial Remark; Says All My Rivals",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc2phX3VJVTZ3WXlHaGwwa3pCWWs3eVFxbEhIOUhwWkt4amEtRHFwNkgtUEFORjF5UG9KN3dIS0JISnlHZWF6NVpiY0xobDRmbnRNczY3QkJHZjZZT1RYaG5UaG1tOVlQMmJqWjlLd09HdnBueURoUVdLQmszc3ZJejdrZG90NWFtcVpQUmpRbDA1WkI4VFpFYjFCZ2NyN3VGaVJFcWlNYXo4YVE5Qy1pMkdhbEdwNHdMcy11eElUb2dpLTZqMTM5UmZiTnFUN0tSeTB0dHBZT0JTcVBiSzVLY0hEcVJwd9IB6wFBVV95cUxPTi1OaDNHbDZ1OTQ3UEpDcmduLWJBMXZSbUNaTkdyb3M3TkZkbGlaUlVNZFM5YU5NakQyQUFwNWlPZ21LMWszYjdEQS13YVY2ODF6VmVoVUhpZlBQeUJlcWtFekVtaVNIWWE2cUZWNFBYSGREeC1aRVIyTnE2UzVxVnoyeWVnMEZrYVlEbnVwRzd6YWJuT2JNd0otNGJIZXlfbnQ1ZkpZWVQtUUhVODdYT3pMRklMT0pQUmRGVDNZQUNyQUdvQzBuNDhPbXNXZDd6U1J0cmIxX1VJWWZjMnNKQzFKUURQSjdqRzhB?oc=5",
+   "published_utc": "2024-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Elections 2024: Thane Press Conference Reveals Audio Clip Of Congress Rebel Manoj Shinde’s Call",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPb2EzNjE5MDR0cHYzMkRkZTduWWpDeVBFSDhncjZQNnF2UmxPc0tDNjJ3c3p4alBzSlFPSl9RS1hIWGN3aWRXNS1mc3FEeEltcTdlanVkYXZUc1drb1pZMjFBQk1faHd3eHVmZmtJOTZEb0FIdXlNd3hZNEV6Yll4cXAzM29tRWdvdTZxMGxSejA5dlE5YmpsdjROOC03WlFNWHNjV282eTBxMkdmSnVqVEFGc3pHUmI5bTl3dVNVbnR2cWw1enY4SlhGSTFwSGltYV9lUHpnVy1OM3gzWWdpalJkZlZKRUhScXFBbkFXUkhFRWFncEJsMVZ0bWdUVnVzb2RORzZia1FwNl9JQVRHYUVLbk5Tak9u0gGeAkFVX3lxTE80cFFHbXU0eUhCWng3SG5QSXROU3czQWZ1dVY4dDJ2b2tVeXdQanEwd1BQeXZqNmRCSGJjUllhS2NaOGt3cl9MZlFHVlh6cmdrQ2VGbTN0RjVjcDlsd05sQ3dmY3VFNzVHdkhzUVRoNGhGdXExeUc3Wi14R1ExVlBPTVlYRGg4ak5RdWR6bnZmMC1Ma1oxMEt5Ujd2WXdTM0hPSjNwMXM5T1FlWElleUozYmJYZFk1cUlUNm1BOVRzbXNyMGVsVUIzWkNMQzJmbXBVdWd3YmwzVWFLd2ZvQXFQWUFxTnlFMXUtdUZlRndmUzZPa1ZHV292Tm0ySmF3LVJXWWJsQ29tdnlmcTFMbFI4cHNfVlcxWVVKU3N5RHc?oc=5",
+   "published_utc": "2024-11-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

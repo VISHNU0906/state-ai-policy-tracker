@@ -1,0 +1,37 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-08-01 before:2023-09-01",
+ "items": [
+  {
+   "title": "Uttar Pradesh Amps Up Adventure Tourism Efforts to Raise Footfall",
+   "source_name": "Skift",
+   "source_domain": "https://skift.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXkxaTFhSWhlMXNGN1ZqMzFlVFJQQmhNZ2g2SGxpRXh0cEVQS2ZkYXg3QzQ5OXd4WmZTTURmb0pIVXZhOUlKSTFXMlBtUzM0Z25CMEU0S3FBLWp5NlBrMXdib3ZJaWxuakg0WUVZaF9JNExCa3kzYVZkZ3dVSnAyTGtCYTB0ODdRX2RNdlpzVVRvUQ?oc=5",
+   "published_utc": "2023-08-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "NLC and UP Government to set up 1,980 MW Thermal Plant for Rs 19,406 crore",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJ4bUpxaTZMaGtOaXNIeU9oTUlzbzRBZFRRdHRidUs1QlFfR1BnQ2Q0LVZOUDkza253bk1kTFd5b1lUbjVTVVk3VW9tQV9nTFdNRFA1bFNPQnJ5UnBOV2s2NWRTV3E0d29NdUhqMThNVG42WjYxWDg0MFZpdzZnRlBRUXUtRE16RTJaRFVqTmNwUlpNeFBmUGZnUms4d1dCQWJjTzdlLVZkaG1DZEE?oc=5",
+   "published_utc": "2023-08-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Government Plants 36 Crore Saplings In Just 2 Days And Sets A Record!",
+   "source_name": "Curly Tales",
+   "source_domain": "https://curlytales.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEo5NVJ2Nm9hNTdfR2VLNGxPYWxkQnh5cEhGbWVpOVhJYXdmTkZoQ0RCVTJYWlYtRmR3Y19NWno2d3pDb01uNE13QmJqX0t2QmhFMXRpY1lLRlQxamRoYkZfM3pMc0lGYzNQSk9IWTUxaGJtN1NyemI0dmQ0aV9jTmwtQkd0TVc5NXM1NWxxRUZGY0hxUTA1LXczbw?oc=5",
+   "published_utc": "2023-08-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet Approved 18 'Atal Residential Schools'",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "https://utkarsh.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWjYyal9GeVVpUHJZeHQ1cWpWMnZLb0lVWEVBZlh2a2FzYzVzSW1vdUZRQ1lncHFuUFljM2l2YjNScWljemNzdTFsVnhUeFM0d2JHcS1sb29FMzd4VDNSbVlMLTFpV0t0S2dKMWNBUUN3Z0NEQnJPZFN3MzJlNmxlR21IZVVMSW9nOXdMaC1IelhwOE5SemxtTWI2WFdvUU5jemMwb2Zwalk4RHRZYXY5VHl4WjRFM1k5YV95eGVnWU1hYXJBMzVOMDNBWV9jNzRURjhYMWc0RWZVdE16anRWN3RyX2wwbkJybDRuNjJ3QQ?oc=5",
+   "published_utc": "2023-08-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Accenture opens office in Bhubaneswar",
+   "source_name": "The Financial Express",
+   "source_domain": "https://www.financialexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1BiUFVmNVZQQ0pSXzN5dU5kOHh1VDloY1A2Z09yTTRNeG03QmJwdkwtbG5tZGFPSVdMT3hVY0VhOXBjTTh1WGJkX0k5ai1rdV9oek84SDFyeGNZQ1RVeUM3SGRvYllKZU5pM0REOVVoSk85VFRjWEFzVG9MbXN4QllvMGRCTldfQmpMV0FuOWZvOFpoX01UZXI3TmdIZ9IBpAFBVV95cUxQT0NBdzFGVUNqcUY1d1kzMVhWa3Q3UmlRcXluc2NHaHZVM3ZQR0lEWWdXckZxQnNMRzVjTkNSM0dtVGdHenVLLTdRZUY0QjZid0o0anNVMEY2aS1YVExVa210d3ZQQWhoclNLWlVrUjJDRk5wekxFc05JVmJ4RElISk1qUDVvWUh3YW1fX0JIZUU5TEFPcGlyR2tNZWNEd1gwVllwYw?oc=5",
+   "published_utc": "2024-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

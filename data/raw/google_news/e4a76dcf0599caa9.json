@@ -1,0 +1,61 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-08-01 before:2022-09-01",
+ "items": [
+  {
+   "title": "Thoothukudi firing: Tamil Nadu govt asks departments to act against concerned officials",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUjVPbWdaTWM1Z3B3TEQzSUlFa0wyQ04wV2RlOW9ZcEs0NmRmclFTLTFtNkNwLTlrdTNpN1ByanRNcE5uZDlGSGFrM21uNTRwYVdsbDhzY1M4bmFmUGtfbnllZzZBTUN3QmFCQ0ctQUM0U0ZTd2lWQ3BPMzE5WWJzZExWSHlkWlFDNkJIQmpzSWNBREZ1MFBIaVh5bG9uZzJVWnQxRUdVZGxJSERSX3pKUTJ6NmtFNl9wZWhGdlhWZkdTTmpmQ1EtN2t6cldFaEVXQmxV0gHaAUFVX3lxTE1qVUdpaFBMaHZwQnFNQzlDUjNzT2pfS1puMk41Zk9ydDJKaHo3dFhhUnlBZXRGZGRnSEYxUzZhT2k1VkpJVUVtSTlGTTRUX09ORUpjb2EtQlppeGR3U2hlZmdjVG9HRnpoQjFiXzJUU0ZfalNkajUwQlUxZTlkWWlkRmJtd2lydnRUQ3RtTXg3V0p0RUtGNDRKS2p4cVFPWDNYYzhTdU1SczVhMV80VEk0ZWhvX3lWanJKRUhJUkMtTVRJaktQUXhSQWMwZ1lyY2ltbllNcmhuaUdR?oc=5",
+   "published_utc": "2022-08-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu CM Stalin invites Arvind Kejriwal to launch of three educational projects",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnpMYmw2VVIyR1d4VEpZTHJYNzluN0lMckZKUjRPRWVJN3dJS1VRTFl5ZS1fY2RCcjUxbUxZOXVWQmhjdGNad3ZjWWJpbnFYN0FYanZrNzNnS1VIdDE2YXV2bGRFMVJoRmc0VE8zcGlWa0FTLUoycExCdEw5WFlZd0stTHpFZmNhczlmX25fTVNkZndXLUF1TVh1NjM0blpEbnFhdHZjNXVQNmQ5OXhQLWhqUTF2QXZYY3lTR3FNNDQtV3FN0gHLAUFVX3lxTFA2WXE5bTI0dkdfM2kwbHVpTjFLU09vdlZGcmhuX1g0SE9kQ01sbnBSMERYWHkzZ2x6ZDdTdVRRRWM3bVREN012VHU2VTdEN25VeW9NSHRlLTlxT3U3NTJ1Q2k3Z1Z3azIzYmc5TDFqWUQ1aXlyVjg4Vll3X3c4VTdaSE1JTVlXOFlOVUpzRU5FRWg2SGpEVWRXQWpyOVZTbEppRmo3aHdPVDVlS0xZME5HRUNWbng1UmMxaFEtNmRDVXUxTWRULXJ2MXNN?oc=5",
+   "published_utc": "2022-08-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Concern India, Verizon empower women farmers in Tamil Nadu—one village at a time",
+   "source_name": "YourStory.com",
+   "source_domain": "https://yourstory.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXZoSWpVdG5DVTVxekFsQktqNEpNMVQ4R0VaMWdCNEdmWkVRMmtEd1FFQWNMRHhNY3pvN1hHbXVmUEF3UFZ2NTJKUlVoRG0xVUNuN25mdVZiOWVFQmdOMlJCQXE5U0ttUFlYZHlhSjFOZHdQWFF1c09JNzR2eXRFMnY1X3N6WWE3WktoLXNMdDJubm1vMmpra2N4ZUNrUWxGQzgzYlNpWWs5RWF4c2hOZ0FLWk04c0hBX0hLYzlrU1E0QkFCSlk5U1Nn?oc=5",
+   "published_utc": "2022-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Govt Doctors Association protest against increase in PHC'S working hours",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE1kVU0xdHllMGRwbnJSVHZlYVNIT19NRjVOSWRKN1paM29iNjBFVTVBLXcxWXA3SU9NbVk1Sk0tWVVmWmM1Mzg4bFltSUV1WFE2dXZTV3FHNm5GUkdrQTl6Sng5RDdHblJZRDhNbVROZWJlRDc4WU84TUh4bmhmRi02UEUzTVFCbkJZU1RIWnluWWFueVhSZGxtR0RtRklqUHlhZWR0dGNmamliVUZSaDJHVUdLYWdoU2d4ZFdvdVdzb1JoVGh1WE04NUkxWDVKUWfSAdcBQVVfeXFMUEtOcmxYdDJ3Q1gxaDRRRlhyWFRXWHpwSkhOQ2t3aHFlY3V2czhmZFY5a1hvcjNUZFNBbFJTeU12YjRfNG5sOXZxSDFtUFB6MkNjdXRZdlkyUEFMeU14b2UzaXNPM19aZENGbXF3UmZTcERnMzFqTkNDMlZfUnlMaUt3Q0tLZ05zZXBza1RNLXpBa1pSN3FHb3ZRdjRYSldlQVlFdFVZeFhOdFR3ZFNpRXpuQzhLX3p0cUJHVm4yM28xYV9LVmVudDRkaEpYNFNlc0ViOWl0Szg?oc=5",
+   "published_utc": "2022-08-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Watch: School boy's miraculous escape after he falls off a crowded bus in Tamil Nadu",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVTFCQmRZdHNOTXhaR0JicWJRSVZtaFU5Q2JrUWctMWxKbUtPQWNrbWp1VHdzdGRZSTc1M0RNUDUyTzUyQ3d4akNmS0hFRDduc09PZDRFTk5IbFZqc1IwdHhKT05uRERiNm9KeGlINUYyZlNkU0hxUGdZZUkxbEZtTHY4VjhCb3A4VkMwVnNwQnhRYUQ2Z2FpTGF1R2JRMGgtRjh6dXZkLVZTU3M1Sl9XV0U4TTdHN1RacGZiajctYVk4cUk5YXhjVlY5YXB3RG83WkHSAdcBQVVfeXFMUGN1Zjk5VW5tbTFtaTMyM0FydWVCQTEzR0sxamhEQk0tcTZxRUh2blBJVnhOblNOd0ZQT0o4NGtkUm0wNldTeDlSbFhYNTBYM3lOOGJMV0ZGVVl1RG44RUtCN0ZOeHBPc1M4S0xsWkdLekNOSjlsWjJiYWJwUXdOaG9RajZxNFhFNS04R0JIT1ZZVHo0b19tUzl3S0VaNC04S25aYm1wZmRYTTl0VTNVaUJHUnI0SmxHeXozNlRtN3RqWFBWblBQTTlVb3ZvcFlmV0RSNDRiMk0?oc=5",
+   "published_utc": "2022-09-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "1956: Free meal scheme for schoolchildren in Tamil Nadu introduced",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeFc2c01TbHkzb3E3SUlnZ0lEVFNCWTcyOGs3WkVGcU9FdXkxRXdNM1ZxMXFOMmU2dC1iVFJ6MnRqWDlMamlnZDBmRWcybUY4SHF0ZlZoMXFSUzZsQUVZQmhSQUFFMkU0WE1kQ2d6Wkh3QjJMamh4elZOYk80V2dEZGJzS0hucHQ0Nng4RzhaVDE3QWVXcmpPN1hwT05WX0VQRFdCTWRhNFBJTllaM3d2QXJwNUd5cW10VkJBT3d1Nng4eEkxU2NwNWFrbWh0aHFNYjk2adIB2wFBVV95cUxNQUIwWWhyY3pwR01MQl95YUExdEc1bWpQU1JhcTJGRm95MTQ4TUdxOUdjcHJyTGlRWXpoeHhybHZKN2lhQk5zaWdlLTViazhiandRQ3RTamVTQ3dLRmZjd1dncTF3dnhzODVxZE9ZU2dmejRKdGw0UHZ4NXVVX1lLTDRZdnczMjE1ZURDT2hZWHE0Z2JoRWtLSkZIMHpvVnB6U0hfV1RVby1BVmxvbzF1MWNVNjFWVGg5Nzl6cEh6WDdCVHh3SGtOS1QwT2ZfOEJTN2hlRTdCYmFMS0U?oc=5",
+   "published_utc": "2022-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Arts, Science colleges rank list today; counselling from August 5",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWmRFVXNrNC03Q0xBdUZmbWlFTHZNTG1PVXlVUGVxVTd3ZFRZWGlSX3p0LU12TEU5d3FPeFA3NXVwa1NYR0tMVXE0YnRyZnQzY3NZOE9La24zUXFOV01YamExU1ZzNXdQOWhlNFRIU1JzMFgyMWlZXzJXOV83Z2pYTXpDd1NjSmVZNHV0WWVsMk9IcFA2RmQxNzQyeEpfSW40WnNTVlFZSDlRZjBkN25CclRfWHBUWFZCbnZ1aF9WNnNyQy1BVlHSAcwBQVVfeXFMTl9PYTB4YmFBcjZCMjR0eDQ5M2NUUVh1cGJGcUV5OG44bFN5MmhsQXRmS3hiOGZ2QTVsbTJxWWZMWmxjUk5xZkhaYU9kZHdmbDN6OHdKUUJ1VmNkR3Z2azVhMXQ0Q2gzWVlRbUpIdUdPQzVBSGdDTWIwcDRmc181YmFwdEVTcUlQSG1tTXJra0VTTGR1RkItVjlSSUJOYkdnWWNWUDEyX2xPbE9rTnJKbWJtVEhOQjZkUTlRNGRkb0xaUU43QkNBMFNvcEpo?oc=5",
+   "published_utc": "2022-08-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

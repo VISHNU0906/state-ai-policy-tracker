@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "Tamil Nadu govt launches an AI-powered app for monitoring and refilling water bodies",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHFWVlhJdFZROGpBT1ZibFRZWnp1VVpURmVSY1p4ZGttTHdkM2FkcUFCNjR0ZlpWT21MdE1xcFk5TlJjak5CeWptOWVKUUh0dTVuWEhpUmpENUF1N1Q3ODJxbjhKVFVfUlVGbzZySmFqSnRLTXdvQUxvOUxoZUJTamctaUJsZmEtSENZczhaWkl5d1F3bnNhbFk3OHlXSFRxbF9qb1BpRzFYUS1iTVRiN1JR?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Government To Revise Property Tax, Chief Minister MK Stalin Explains Why",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUQ3aXo0VHRLd1puSmpQQmdaaHJodWk3QzVrbWtiT2pOQnlndWhha3VzX2xkNXZRVXRnRm5ydDZBYWVsajdFYXFsYmhNeWtLWndPd0hEVllqTWlmT1B0MXl0VjJhdV9mU3kwVmM4YWRoVmJlOGhOUnF3My1PNWxyZmlpNDl5MXpuUWxVVVBIdktWZDM5WkFCelVUOVB0dVVVUW1QeXNTTWc2NkY5anhQSHZCUnpwWWg3TFBSTmtvUQ?oc=5",
+   "published_utc": "2022-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Govt’s Inaction Compels Centre To Terminate Rs 3,000 Crore Highway Project",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONE10SFdIYjhJSVNwbDVyRVRVeTFVdEV1NTkyQlFNaW5keWU4d1ZWNjd5Y0lVeUlwSHFmd3ptWWtfVXhjWUVqWGFHLVlaUXNZOFR1VUpLVEowdVpmU2pPTW9TNndORFFyLUNKNFdSVG5YNS1PQ1ZmZHl5TWItN3lHYzdPRjQyNmd3OC05VkV5czMwNkkybGVjanhnc0w5emFfYi1JZVF3UkRvUFVseHhZZ1NWOE1FVENOd3k0WmMxZ9IBzwFBVV95cUxNSFU2a1E4cDRKWGtnRmRrUWZFSXJFMDQyT2tYdHdLWW9kamFZM3lMeUctRkV5OWRSLUFtcmhqRmxvWXdrbHZIUW8xaUpBb2hhQXZBNm5ZdjBTdTlQVWhFcUpxZlpTcWlGNFJkWVZFcW1Fa0c4a2JBck5vSklDUzZwYzRmR182Xy0zamtVejBDMmgyUnY5YlRBV2xZc1JTa1pWR2owUEYtaWptNFVrTDY4c0NrREFmU3lxczY5UFJMcFZGajVsbWVUMC1vdnp1ZFU?oc=5",
+   "published_utc": "2022-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No promotions, inadequate posts irk super-specialists in Tamil Nadu",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNak91S1NfZTl2am9DMkNIeHVNTUM4RDU2MnBfZlRDRkg0QTMtY3d5Y3I0STBNZm1kMmVyckZtR0k0c2o2bnVFbno3OWQ4UC1ReVotZ2hpcVdEeWJkOGprUXBrd3dtc29OeUtQVnVmc0lXTVlOdVl3a09YcnRON09DSk9DRFE4RzFuZ0NCWUVlODJOYndSZDFlNUtla3NVNmpzb081OEFHUGNyai1NVHN1U2RIZ3FCQzdqVEd2TnpvaW1VQ1Zsc0J2TzB6Z9IB0gFBVV95cUxQbW14YUk0X1RvNDdDOTJfZko2TFhzR0tNNWY3UUhLWi13Wlkxdm9paVNycGFmWkFpY2RfV2FIa2t6S2tIbW1FNmMyOWdodXdTZ0xPWDd6YUs2Y2hxNHphQzhXandZNklfOGswRlhqb3ppdHRFR291TDJXSHp1T003WERkVmtLZ01MMWJwS05aWlFvc012OWFLUjdGUTBWOFVFUVRuVnBQYXJXcHlTeFVDcFlWNUdPNG0wWVo1T2dRcTdDVjBvT0Rpa2djWmdRamx3WkE?oc=5",
+   "published_utc": "2022-04-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Karunanidhi's birthday to be celebrated as government function: Tamil Nadu CM Stalin",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRzdDQ3p6QkFObVJPRHd6SEYzWm85dFlpTWNHYTFLX05hXzhmcnlISWVKaVZqczE2cnk2Q0JWeXRkM01wR3M3RXd0anEtSmF6ZUJ1QTRVVnptQzdPVjhOb2JvczFOTFVOd1V4S29KUjJJSUluUHlkODVzLTVXdllyY3BjMGVMSHN6bEZNMnZuT2toYVJSRUlqaUVPaHhycUswTXNJMjFXd1oyblhFbU5rUnpXblhOMnFWcUR1OE42UzY0NlVwVi00YdIBzgFBVV95cUxPVU5uOW1iUlNhWERZUnBfcS1tTmFzTUdJMWt5dzFQRHN5djNaM252VTduczh0QlNTOE9rc29mSVBrU2tpUThzWFBoWkVxdHJ1cU5xWTNHZjlKZTBUN2Rwei1wS0tBNldpX25kNGxOVUVCYWViRHFrMXlkTzNRZ1BGN3V3YzhRLUJyeXJPR1ZPYlFoakx5a3lJa0tRT3pOSTVzSUhZV3VJZTk1QmtGQmgzZjlJeDVBZUN2UnVYdWlxOWtfeDJQSHJJdEgtVXhBQQ?oc=5",
+   "published_utc": "2022-04-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Nike, Puma Manufacturer Invests in Growing India Footwear Market",
+   "source_name": "WWD",
+   "source_domain": "https://wwd.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnpGenVKZ1ZxUjZpMk1lYkp0RVNlYW05MHd1T3RFOHljYUZoNEdtTjg1ZlgxNWRDR0JqbnlwTkpjMVhGQUhabWZzZ0FJREFhMVROdGVxek9sLU1TTktQcFNGTVU3NHlYVHNjS3lZczNKdng1dHZHeTQ5S2lpeVZpdnM1N09BakxOTmFBMW9pQUtuaGtlcFNwOGwzdmY3aVdBTHJXbGhQUEc2N1Z6SzNEOHllRDBsU2dTVnkwUVA1Qjl0bkVqVmk5RndDV2JzRkJi?oc=5",
+   "published_utc": "2022-04-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP Holds Protest Across Tamil Nadu Against State Government Over Property Tax Hike",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaE1kRUJ3aUFrSTlaaDBHeFg5c0d2WEk3cG5tU1FmaXVodTRhb3RoM09rWTNLRGNXQXRyR01Fb3hXN21jTDN3ZnZZN0ZOTVpCaHhVZTloRkZ1QUdFOEpUMlJ5WVlOd1VWT0FVQTlzRWxYUXlEVVROUVoyZkxZVlM1Wkd1QkFsVC1TaVFjMGJIVXBmUDBoNWM3R0VsTjd4dWowb2VqaUJEcWZJeGhtSG1OUlJnd2dCcnk4NmNySUJVbEFValM0WTlR?oc=5",
+   "published_utc": "2022-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "What S Jaishankar Said On Tamil Nadu Seeking Centre's Nod On Sri Lanka Aid",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1RodjhYT1dpb0RhMTFyTENWNHdWTVdSUDNWanVtVE9fTm1yT1BVWmZzeWhscjZWSGctQWZieDBYSlRWakM3ZlVDdGVFY0F3WWFwM2hvdTcwU3JKTVp3WGpja0RudDFzQWtDRmVzalJyV2xOZHUwOVBiUy00YXJVTFRJS2NzOWh3RGVCMjlJOUdhTzlFS3dQRi1NVnU2dnl4ckNwS002bV9nU0YzZDRlZHZrRQ?oc=5",
+   "published_utc": "2022-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Delhi Visit To Uphold Tamil Nadu's Rights, Not For Self: MK Stalin",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXQxNUExRE43N2NJakxiNl9LMFV6bkVmQjc5akpZV3hhZHF3blZkX0NzdHpzY1lLU0c4THAtc0dSbU5DVjM0NlFSVHRWY2paODVHWjhVb3g1UllPOUNkWlcxblpmNTBScWYwcG8tWm5aeHNxSGNBbVBmQk5BUXV6T1FVY3Q1UlJQYVNtaEJHNXBXcURQTmhN?oc=5",
+   "published_utc": "2022-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Chief Minister Of Tamil Nadu Announced The Establishment Of Major Sports City In Chennai",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWl81bF9CRXpKQWxORU5vX3hDd05YS3dPaXExR3R5bXZnTXJCZG85MWFXM191elE3Y3RWMUNWb2xHLU52NDNGWGR0azNOY1VyRGVlb2tsOXduRlUtMnNEUS1YOTcxdmdsb2lMTUZLSE1XUV9tb3NybnVYRlpxajFJeTJpSkVQVnlnbzB4V1lMMmtZMFhPM2ZYaVZWWTVaSDVpQlJTZVF0WExIMkhOSXBCUjBjSlREM0c3NHhNZ19JLTVhcm50ekp6ZVZvSm9OWTVtS29udg?oc=5",
+   "published_utc": "2022-04-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

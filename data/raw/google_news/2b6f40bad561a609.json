@@ -1,0 +1,85 @@
+{
+ "query": "\"Assam\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Amit Shah presents President’s Colours to Assam Police",
+   "source_name": "Awaz The Voice",
+   "source_domain": "https://www.awazthevoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHVVWDFGZ2hXdzNyWjNDT1dMcngwMlNEWmt2OTgya1ZFNXRvMllCU1kwejRVN1Ftemk1a2FiUlBrYUp3R3BFaDRTMTNpUkliRHI3TVBTbWVZT2ZWY3R0YlVsd2txZjVTYm5TWDZvMWttU1llSmlLeDN4dXM3dDZRYWtaYkJMLVRSWXNpQ19zY01aVkJzTFZkMXA1cm05RUI4MHpDc2JyYw?oc=5",
+   "published_utc": "2022-05-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam floods: Flood leaves thousands without food and water",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NOHFnWFNyRHdjUzc4T1ZBM2JFNzJib2hoai1kVW9aeUllZ0NFMEowOXAtNk9tR3I2cTlVd2QzaGpGRlJSMVJXV201QlJyOVdxM1pxMERSYXQwSkxfeEpsaWw0dw?oc=5",
+   "published_utc": "2022-05-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amit Shah To Present President's Colour Award To Assam Police",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzZrZUJKLUZBVTVnRXhXNHRTaTdGVzhCTDB3RThTaUxBNEZydEN1VUU3WUVpakJMNHowbThFQXVkSHpraXlfejIwa1lpblNTdXI4UTdUMklDdGdfTHU5N0daSmQ0UDlNcUozdGpVZFpoTEgwbzhWRzBzR2xDaW1iVEJhSjJTZTdtbWVBWkdwYnRheFNSX3JmS05CVm9WLVgwUmc?oc=5",
+   "published_utc": "2022-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Home Minister Amit Shah presents President's Colours to Assam Police",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVzduRjBZMXBwWGlNaVU1a0JXbjZldUZwY25ZYURidHpjRFRDcF9vMGIwWmZOWjVUWFVBcWxocjY3WGFOU3JPNks0UzhkR3FjOW83dHpSbXdVSktyNjJzM1ZEQUlJXzB3UmZJT1ItMHJ2SnM1WkJoMExoN3JOX09wZGVRVWdYOEpfNngwM0xmV05KNUhRWENRdmQ4Tk9qSDNTYWRKeFhPOXpZWkdVc0FQNXV4cG5LREhaeldabXJjVHRGQVVpNHlYT0FuNA?oc=5",
+   "published_utc": "2022-05-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Govt bifurcates Health Department",
+   "source_name": "Medical Dialogues",
+   "source_domain": "https://medicaldialogues.in",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTdGdGdXZ2ZyLTVfams2Qk9aZGxkWHJNMGV6ZkVqQkRLaU80VEhRTmNtSEluREROaktNeWtTMzNoT01HSTgzY29HZlpEV0J6dWMwZmFYNU43NTFmVEZkVnZmSEJCTVpnRmxNZHFvV2hVWG56bVZkYWtuTkFFdndod2xXYnhDSHVhb2E0dklqc0VSRGFL0gGaAUFVX3lxTE82MUpMV3pVZDFSaXJKSEVuanZWRkhiQXBkQnh1Rjd5OWNYVG43Qzd3Q09uUnV5ckNRMTVyakwzQ3NJalhNRkJnOXQ3aEc1NFVCaUp1SDF4cldHaldHVm9uWDgyUTNrT3hENHMtejQwNFdCa2tMV3I2NEIzNm1TTnZvSkprNm1IejMyRkg3OF9DczZZc2pwSjM5bkE?oc=5",
+   "published_utc": "2022-05-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam’s tea gardens will have high schools for the first time. But tea workers have one concern",
+   "source_name": "Scroll.in",
+   "source_domain": "https://scroll.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTFsRHJyMnBpT0pYdG9tQzJFYTNJdmFqVmp0TXlGLWtTN1ZZUkVsckx1MlhLaF9PaDJESUhFODBvUmlJTlRySU9VRDhiWUhMQWNrTTROSktvM3lKelZRekxLYzNpWmVRQ29VVTZ3OENHbkd0OGNUakNnd0E4RWZ6UC16TUp4dVVUQ3l0TTlCYlJlV25GRGdBU2lGMzRweGtBMFc2dTF0dERYOHJjRlBSSEtCWkwxTDJoU2lwX3ROVlRYQ0RYRUHSAcsBQVVfeXFMUGxTMHQtazlaV2cyREJldFJKWWFaT2wyUmtzSEduWTl6QlhGdk0tSUNrVUVFTVozaFYzYnVXYmV5YnRfbVgzeE8zbkJfWDRYTnZuTmszbXRyMFJnREcwUHd3QUN0SzNfU3NDamZCaFVDUURiRUVpNEpndWRaSkRIQncxbmtMcHFYWTJwbUZXV3k5NHVYTDctUDJvOW1wVEw5b1FlaEE0N2JnZ3JJeVZ5N0RkWVFCSXllZzlwY0VVa3U5eEJPcmNtc1RXTHM?oc=5",
+   "published_utc": "2022-05-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Arya Hospital gets full NABH accreditation",
+   "source_name": "Medical Buyer",
+   "source_domain": "https://medicalbuyer.co.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsN2cxb3AzNHhsWUsyYUNKSHF1OU1fSFZDT1c4cmktXzRhZEozblZ1Wi1WeUVzYlV4ZTUtQ2VyVENmMFVxeVROUHBoWmRaS1luM0E2TTNPeE5WY1dFRkxfVzZONUdXcmFVNFV3UHRJanVuRDU5MmNEV2pB?oc=5",
+   "published_utc": "2022-05-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "\"There's A Design\": Terror Hand Suspected In Assam Police Station Attack",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXVodHUwZHBTSm01TS1uM0tLY0w2RjAxdnoxYjgzU2tfZEUwYVBES2tsRFVwZXJZSS1aQnJ2NzBFWU5CUm8xaFlTdzg2TWtfWThBT29vWVpDRm9oWWlFTlBIbTJBUm9VLVVOMTBuR1VSaFpFUlg5aWI1LTEzWHFRWWRSQWZsY0NEY1ZVMzZ3LUI5bTZPNnJUSmotOUdPTHBZWEpDdGpTQVNfNnBI?oc=5",
+   "published_utc": "2022-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Police Station Set On Fire In Assam Over Alleged Custodial Death",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDBfVER4Xzk0UEFmcEpVZXBhdDQ4a0JYM3ZNSGxBazNLS0ZtY1hOUENLUUVQOElnN1VYeF90RGdaZ0t3WjNrYm4tejN3ek1OVVlDWTNUX3hUbG5Wbk01N0FOUEJXTmJyeTNFdkpieWhLRGVTZndwTWlfMk5QUHlrcXliSUl6X3VJUkg1NVAzUmkweUpzZ2x6eW5ZdVdvQ1Y3OWdVdENqN0VwUXktOG5kRVZFOUxQbGRscjd6WEJXZUV5OG5v?oc=5",
+   "published_utc": "2022-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Cop Arrests Fiance After Learning He's A Conman",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR29XMUtYWVRZSWRtakNIMHhheVZ0Y2JPX3VUSENhSEtURVR1a0FTNkc1T09iVzhpcmdON1lZY2x5bVVsQTU3c0xJbFZyUnc1TUFFSzRETlpXVVhIUXhxa09Pc3UtLXUxUXkxSDl3cTdNWDRlYkVyMmhabldDY292ZnBrYUhTQXE2YTc5bGJvdjM1aUdDelVUZWdmenhpZw?oc=5",
+   "published_utc": "2022-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

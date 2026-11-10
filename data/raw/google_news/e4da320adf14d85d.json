@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "MP govt orders reopening of schools, hostels with immediate effect",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblVNakFBT1h1WTM0cnAzS2ZEbHZuQk1qQUw1WmJlTDZNd2tKUGJlS0ZZS1Z0X2ZEQmFaV2RTSElEbWxmV25VbWlSM3JROGVwejdwS3J2c3hBNXNWMFFnX3VabkJyT1FEb09GSnNxcGxZMzY4ZXJYQmJTSWFaZ1ByRjBLMWlmZ2hua0NlaXdBZm9lY3UtSWlEQm1Fb3IwaDZ3QXpzNjNZYS0tVlFuWk1rTTBjZy1WZ9IBvAFBVV95cUxNalo2SWEyRW9TRjRkSEo4WUxGTUJWbUplMUQ4cnZpbGUxakRCWVc5azRuQnpUcHRoN1J5TlhadkZOYnVsbDNLS25KT01OSFhsMFRVWndZTGhBcVctZmk2eFVQemNERkU0S2RGdXFDaHpIVjhRVFYzVWhpYTFadVB3U0ZmNE9iRXhteXhLYWFJNmpHZjZaWGhmR1A1Vmh0T292X0N3ajg0RmlBUXhJUnZxaFQzTFNxVEhGbDYtNg?oc=5",
+   "published_utc": "2022-02-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Again Renames Exam (Vyapam) At The Centre Of Scam",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa2NBOC0xQmgyY1l6amVFd0NvOUJ6UG5lUmkwU2lYNFcxMUNDazBpb2J5SURMUGt0MENVd2p2SHhTTEpBMkxsbTNHbE14STU4TTRnT205SEphWlA4UDc3YmRDbWpxU09fUkJxNTQyODI5U2ZTX0ItdGstQ0NNOFAwd3FoRm5OdmQ2aFpDMmtxZXVrNUhXLUtET2loQ1dMdTVJUFk5dQ?oc=5",
+   "published_utc": "2022-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP School Education Minister takes U-turn on hijab, says dress code won't be imposed",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTgwcV9fQ21uOWU5dWpadkVIdTBremJmY1hMOWFwUVJmVHB0LWhrZkgycG1KcjJvYzdWTkpWLTh2aXo5b3dNc2hPV1AzQTMzeFRmdHZKTUlDeGtnZHM1aXJ0WnNRWUU5Y3NnZjJiekc4MUNRR1lZaExKNnZvRFMyZDNzdTNnX3RGN2lma3gzU2FVMWNiOUtRNTVQODV2OWlWMzlkQWQtRGVDTU1lZTlIN1F2bEU5dUxmZWp0bjRBa1kyUdIBxwFBVV95cUxOUEdQWXF2SktvTHM4WFhWb09lQzFBWFhyQnFqNmplRGNEX2lxZ1cyTGtNV0k4OENjZHlSYkhzbmNzWm0zb1NVdDI2SkNjWXpGV0stYVdqN2RtYi1DaU9Ga0VxclFCX09nRWpWMVZ2QlkwY0wwbDMwS3BubUQ1NDhIcTVpS0ZWbWsxdzFlT2hHeVRjcHJhcHpadGtZWTNvNy1Pckh3Y0JqeVB1YVZuZDlmbi1JaXg3cTU4Y2dEZW9OZDd5Q3N1VnFR?oc=5",
+   "published_utc": "2022-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP Govt Implements 73% Reservation in Direct Recruitments",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnVjQUhzRkVFVTZLcXRYMVpMNTFPUWpFR3RxaUREelRMSFdhYTB1eVliY1Q1dEVqV19Ob1VnN3g3WVRYNncwb0FUUVJXN2wxS0x0OGYxMDNtV3dLLTRGUXhkZVFKSURYVENkZ2tVZjRHZ0pQN3RWeEZrYUl2UzBBYW9VYTZRMjlfU0JsS0FldHRTQkhMRHJRdFFLYWhnLUxQS24ySWlSaldsSUQxQ2lPYUprYkLSAboBQVVfeXFMTWpIWDl3OTBLcEwyVjZiLUZ1SzlHc3hDRW1wdHhYMGxtbzBhczJPQVRfbVpOb3RqYlJtQ0V6aVh0TjlUaU8xbGp4R0JSZDlsTlRSa1hVZ1pXaDlSMlFyaWgzUGo5bEpzZC1VaXFJMTF5b3dleHNRdHpNUXRDZmxRQVdhZDB5bl9EYU94UUV1MVFLMTNHT1Z2ZlZPNUgwUTF5SE0wOVI3UHAyWEMtYXdYTldQZmE3c0k2c0ZR?oc=5",
+   "published_utc": "2022-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh farmer sold tomatoes worth 8 crores; State Agriculture Minister interviews him",
+   "source_name": "Global Agriculture",
+   "source_domain": "https://www.global-agriculture.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVM3dWZVZ1E4LXNTVXVBNVRWU1NOSU9uU0RNSW40cFZsRmVUdXhqZ0NyeGJhXzkwQ3Y0Z0gyMjFtWVU1T2tHNlJ1am1BTlVZRkNCT0QzbFZNalVscWpwN29GZWd6SmgxOTlFVFhoLUxmRG5uWV9LcmFTM2tyNVVqTjRCZWl2b1RnUXJYRkZoTXNnSmszcEZ4U1dFTWxiYUxPT3J1VjVuUEN5SWMzNHNyTU9OMVEwak1DMllTMlNleVZ0RjI4OEFZVi1RcHpTS0tOTmVQX2sxVGo?oc=5",
+   "published_utc": "2022-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Chief Minister's Tribute To Indore-Born Lata Didi",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWFnQ3l0ZE1ZbkZnZm1oT2g3U2l4WmVfQmNLWmZidFZfSTd3UXpXb1FHWl9nYjd6Y2dnTmthR0JOTV9DVGY4US1pcG55UG4xLUxEbE1iS2x5TTc5UlI3RklwZDBhVTRnRTh0QnlhT2xMNklGTlZGNWt2Z1Uwc2VOOHo1WWp1T2N6a1Zaamw2ZkZWSWFTdUVWcGlMMGlGdXJxWUZRaE4tc19MbF9aRXc1VmdaVng1cS02ZXV1Vk1oRjRDeXhTWUE2MU9B?oc=5",
+   "published_utc": "2022-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Fraud Marriages Under Flagship Scheme Raise Corruption Stink",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObW1zQ3FYM3k0Z0tNZGhDeGlCZlpVU3FxYl9MUWRuTVVkbWFwMG55a1M0eHdFNHRzMDBnc1NwRG1CZEpBcFUxUzlmYzFYdlpZeXlPbHhxM1NlWG1WbUVlS2MzcUNRRXdSb2ZJLXZIbHVxWGRRcURBVmJPekNkZGdoRzNxaERJUXE3ZG82RXJtNTBibVdadFRvU1pEMUliSUFDS25jN3JNaWNVZ3QyZkxxQkNVck5PSXF3Z2NVbFRxWQ?oc=5",
+   "published_utc": "2022-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rename Bhopal As Bhojpal In Honour Of Raja Bhoj: Madhya Pradesh Minister",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDBQSERoNHkteXlYTmhfaHlxMXJYaU5mNWNqNnY0U1FfV0drU29RdFJUNXZZNHczdV9NR0RFMFkzTVdOdVZjVS1mRm5NZkxUYVZQMkI0WG9RaFk5dHh6c3UyWmszcWZxSUEyUlZueDlTdEg4RTdlRFlCZVhaRHJVRTdadlVYYUJ5emJTV1pDSVg0akV4eXlva1dEdm56ZnVZWTcyOFRCaTc1dHJWNnJWTw?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Madhya Pradesh Chief Minister's Tribute To Indore-Born Lata Didi",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakRvZmJHLXo5TG5vYy1OMkFmMVNKS04wcElidGxLOWNTQy1nVjl2REttVEZxTDdiWkttRVZjLVFSX0EwcEJGdS1JYkxKRWZNdWlkZk9mVU5VVU82WmwtLWprSUJ0RUxWVUc1eGhwSlNDLWRMNVlNcENaTzlsZXFRb0F1akl5TFM2a3FrS05yMm5rekhjc3JEeGJ0X0hxbWhOdGdtZF9JM3hYM3I3VU5uYzlTMjZEV1hmb2pDVDN1TzY4YVhfeVZ4NHR4WHpYNkRfY0M4?oc=5",
+   "published_utc": "2022-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh Students In Burkha Heckled With 'Jai Shri Ram' Chants",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3Q3Ym1zOXc0SXhqendWT3NqYndYU3JieWZKa2xrRUsxUFBDTGROTGJSUlVmendVNHpPSE1CX3BBRGN2QmxrNFZMT3dRd0V5cWxsMjJWM1huX3JvUHF3ZnVRWWV1elBqSWRmTkUtN1B6VWxPeDFDZVc1RXdsV1lYeVhJQWJYQ2JnYWg1b1dxZ3V5TWpqTHVFVG9FUjJpdFo0U1BHcTl3OWF6QQ?oc=5",
+   "published_utc": "2022-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

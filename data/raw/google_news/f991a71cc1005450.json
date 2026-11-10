@@ -1,0 +1,77 @@
+{
+ "query": "\"Bihar\" (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Bihar govt tells depts to do development works in border areas adhering to MoD guidelines",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd0wzOWdsblFWd05lQnVsQUJSM3Nnel91MWI4dHRldUY2NW9WYktmUVJvcFJycG5NREFyTU5YajdUR1RwSTBTTWxSc3lxUmc2d1NWV19NLW5odGwxQ28zdl9sVmdiaV9RMHBNYmp5aUdoWjVXcmpOeWFOeks5b0UtQzVzcy15VjN2U0ZPQmVlcThCeVVTRVl1ZW5Fem1TLUVtTXgwbldCeUYxZjNDSGV3bXZNRlV5cEFQQVVXNEstSm5tRThxbXg5cTNFOGxXVlR3REM5cy1TRkYwU1haWVp4VVByOXlXNG5ZdlZfYzNPaERUQdIB9gFBVV95cUxNdE1LOVA3RjI5eVpfS2NtNndDa21TNF9MWEZUOEI2REwzZ3VIVGlUdFVLSm9QQlR6UkN4OE9jTncxdzNZQzBpOW1BVmoyOEZPTlhqWkVEWnJRYmU4clV6TkxodE92RzZXYk4yRTk0SWRRRFB0YkxBaFNGZklsNDFVS2VINVFBb2pFbFpCSlVGRjAyYkZpRzBYcE5UUjhWUWg3QzIxbW01SkZBTGFSdkczWXQweGhsRXlhVWVfM3ZISVR5ZmFoM1B4eVV1ZUpBWEtDa1JoVEFSU2V1TVQ0NlJ5WEdYYXlnUkVoTENXUTJYNHB4TTRWdUE?oc=5",
+   "published_utc": "2023-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "‘Existence of party under threat’: HAM chief Santosh Kumar Suman offers to resign as Bihar minister",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFExNTR6WjhxaVBScHYybXpTcnBOeFJMNUVVTEZmWERMWU56Zmt3RDNQN2RtRGU1Tk4xUkpvVGtLZ3BpU1dSSzZWdW0zUkQyMHlPUmtpcEFkNFJCeGdhZnQzY1BSM0tGZUwyVDNndHUzekpQeDNDdTBMdy1JamJXQVowTGs2RThobnFKZHZtV3BTZEkxMVZ1TzZia3EzVEVXeGVybGVmRE5RYmc0emQ3ODZCYXFkd9IBvAFBVV95cUxQZllVZ3dnMDdGeEFuMWxFZE1yVmhVMk5fNjRhQUhWeWFTX21hWWRJWG1GWG5seDUyNmZuUUVTMkUxdmNoM3hMZ2hFSmhDUVJtT1MyUjBiYU41YjhNcHVDV1BrZ05fTGQ1aV9zZU9ST0c0ZjkzV3VoMmFMU2xpZUp5eHFqVEtIRDBZVVJfSVhJcjJoN0g0eUt1Z19PQ1lzUlNUemNMMDNpX0lDdjRfcHVyT2thWFBzdGhJdHBkeQ?oc=5",
+   "published_utc": "2023-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar ends domicile-based reservation for teaching jobs in state",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNGpsUGxEbE10WlhSV2JKSWRFQU9VemlpNUFmMWplMjZUbFZ6OTVoU3hrYW5OVFpLdEJrWF9ZY0hia0RrWk1CcE5uWEkzaEprQ0pxTzlkWEZFSkQyRlYta2NCVGplZXdzWVVobHYzWVhVMHRxZ0k4TGVXNUo5N1hoODFGajBRdFZzT0Z1ZnMwbEJJaUluN1ptQnFfbXdNa1FTVGVqc2dUNmhsa0k1OV92d3BEcnMxd01TYmVUMjJn0gHDAUFVX3lxTE12WHNyZnlZUXFTZXhiSnVHeVh2QndrZmVuS1VyVU0tQWV5a1lkUUI3MERBSURoNVQwOXluOUt1UHJ6YlFRdzdoRS1Ic3MycUc3cC1nRjdhZkFaYThSY0RzT2FUOEQ2X2hfbk4xbUtiVklkdGZLUTRZVS12UGlnMmhxS3Q3VEdtcEFYNDB2dFlPWXIxQW5DaFB0Z0VreXdGRzFFa0hyTWozSjRvWWJNNi1PTUg3Mi1EbHFvdkhQYXJuSEJWaw?oc=5",
+   "published_utc": "2023-06-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bridge over Ganga river collapses in Bihar; govt and opposition trade charges",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWFHcS02UFlzamV6WGFqUjVKcW53RDlSZHhwVU5zZ1Vua1BDT0Q1d1lXYTdSQllkRTZFbDk5TmdkVnFLWUZfVkxMeTZsT2FHQ0xwcmpIQnFwNFpKZUV0SUU4Mm9mXzF6RVY5SjdzUHZjdzlrMlRWLVRERjZtNVFzWjZvc0Z1cUdLYmtDNFdyTzZwOVVBbW13UUxOam1mTWNCX0dqbThtNEV6V2FUeVItazJjUE5FdE9RQlB4cEhvd3FiTlMzWXlxSGV1OVAxUFMz0gHWAUFVX3lxTE1YS1Vnc28tQk1WLV8tZVhXYkJHOUJpX25WdHNSU3N5dWVFQy03MW9DMUFuWmJCWDJlVlJ0d2lVQXZQdDVaRWZxamZ2a0RyQlJRejF4b1M1LVdqQVdHRVNmOVRfUnYtalh6LWdjOHVQZC1yanBEckF0UU0xZF9UX3Zwd2pnXzhONG9aWUVSVExYSjA3YUR6M2pVbzJyNGJCOU5TNWhRYnFaZW9lTllTXy02aVhGLXMwcTdUcmVOeS1xdVotaE1GWUdHVUQxMHlEUXNrUFNoOWc?oc=5",
+   "published_utc": "2023-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar govt, contractor’s laxity caused Bhagalpur bridge collapse: Patna HC",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTVF2eHZybkVzY2ZYQnBSMVdBeU85SUZjTzdSQ2pFa0RNRmp3N003U0JkQlF4anlZWkdwaXRtLWxaV2dDVnlzX1Z4b2V3c3g3Q1VzZ2pTV3lGSEhZNDRTWGNqYXFRTEp4NUFrdnA1TEtta3g2UWhIY1RILVBtdE1Zc2plVDBRUllLYWNjY2hWMUY3QjlhalNsRE9aU2RoOXJORW9CZnJPYWFLR2tkMlAxM0tidlRpSkh2ODBEYTNZMlRnN24zRktB0gHMAUFVX3lxTE9sRjF4ZWFNUmJEU2F0WGRIU05ENzl4MF9xb1B1bk1hVzV2d1kyRVdjQmdiWHlwbVlyUV9veXdhY2JyT0dLQnlOUGhNYk9rYTlzR21jeVFMc1VGYUVqdkUybGFzN2EyaTkxckpydUpYbThlZGp1Wmx4LXFNamRhMk1RT0stdktsZjI1TW53NVFOZlZESHVpX3djUXdzZVRxY3NIaXhZNUt2WElUNkxzUkE4dlAxWkxUTUZteGNwcXBOVGxycmNvck1nYUNoMw?oc=5",
+   "published_utc": "2023-06-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Unsuitable: Centre to Bihar govt on land allotted for AIIMS project in Darbhanga",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWlFRFJ5eEFiRjI0a1JReDVndnpHajdyWjZnX0N3QWNpZkJ3bmUxWUlzVTA3U05NUFRUVEJJUUNfLVp4VGtVbW9DZmZHV1pmVWYzOHpjczNxejVwSjd6Tm5OaVVEYm90Y1lrSVlWb2VZTVhFZHN2ckxGOWd0eWI0cTNoRnpfZUVnNHpDeFBXaFhWTkF0eXN0TWk4U2UteGl4aHZ5SjlseVZBZ1NzTjFhUEFUbXBJVVdkbEZ5ONIBwgFBVV95cUxQaHBTal9IT0NZU1BDYkZ1aWY3NEkxSTc5Rk9zcE95WXhjQlhHeWFQcVoyakd1dl9MVTYtU0MybmhjZ0JTU2UyTXNqYXd3NWJnUTdUWjEwYWVyU1otMkt2UjNDQUJ3LWE1UklIVjZIOWJlUVlUTDJpVXFmTWZoZExUaWxLem1EbDlsNjVNQzY5NVJMbHdRX01nXzdwQWFGejVQS3hXdXUtdzFtZFZBWE81RmtDYTZ0NkNVbDZGY2VtcmxKdw?oc=5",
+   "published_utc": "2023-06-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bihar official dies after falling into gorge during trek in Himachal",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSXRlRWlCY3ZPUFdkbWRCVXRtTlY4ZnZZa3RxcC00SUViZ19xTGpFRWstYmVkcVJfMC1YSU5EZURqanlEbndMSzA2VzBBcUExRGN1MVRsdmFxTlozRDF3N2x1c0JYMGJBdHYwYnpFR0N5M0dnSDNEdEwtWS13dWxRMUtrSnlQTjByZDVoVzU0RTgwSDNNaWJOVU9ZV1BtcG1TTnNjYlNMVUxhR1UwYndyTTM0N18yRTFvMm1rUUZFZHBSUmRC0gHKAUFVX3lxTFBoWEZfUVFzTUp1WTFVOHdZdDdNNm9ObF9xSkcyaVVzRHctMVV6VHBqbkR1MW9EN3Y5UUxMSlVfbkEteldQUmNXdnhSNHNybWcwWWJJdEw5MmRHQUs0NHc2RWJndnFueS1RaHEwcXppT2lmUnZQa2JUb0FNbXF6ZWVESktRNXZUU1BuQVI5T0pPYWVtaU53aWFUYWZVaVIxXzBCSmlUNV9IMnhneGhSSmEwbjN0ZnUxcXQzRlZoQ241QldrZjU3d3A3cGc?oc=5",
+   "published_utc": "2023-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Teachers' recruitment policy tweaked to fill vacancies: Bihar education minister as aspirants demand rollback",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSGliSXU3MnNCZ3FwdVJER0JDMDBPZjdyOHc0Qm9yazJoY05QZS10amNaNnFsR01JTkNwYldsMm9iTzdfVFVmR2pNTmd6Nk83bEk3OGNadk9HRGxDTG04QjN3N05nelpvZERJZW9fNnRuNm9qOGdQUjlfc3hTOGxnbExITHlaV1M0MlI2UV92eW9QSUVnc196a0xfTzFESVRUaWZxQXdmZm9yd2FVREdLOUxzeGQ1UFZUMjVGVlpNalNaTG5pVk9NZ29XRERLWWt4dDBSVFBNeUtjOU9hTEZ2emhTVEvSAeoBQVVfeXFMTmhNQ2c4SnhhSEJGVWZaanQtU0pkbGRMbXhjc25ZcXMzVzBBcmlWRHkxTWNicnVnNFZHUDM3TjF5RVJnWkNIZzVDT1Y3a3J0TVBhWXF4UThDN3NTWm5kSUVWd1NmMHF2REs1OU0xd1FmdjVKS2hsc1FvRHk5TzU2dEdmVEJjN3VaWU1CZWVZUW1sN3lZanFSSzJhYnJPWV9KcW04aGJIZlRibzF5MlNyZUdFZlJKbHhpa2UtRjMzZVo3Q1lvWGdvM0F6dkRoaFdQSHE5aFA4Q21KaW1Cc29zdENUWElwY0pqWFBn?oc=5",
+   "published_utc": "2023-06-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The company linked to Bihar bridge that collapsed and its long list of govt clients",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdnE1RmhzN3lCUFVMb0twZUFJQV9mN3hXVXJSTWlKT0pUZkVSbk5hU0UwaHI3Uzc5UlhnZGRiZ3hfcFptdW5kNU1ack11QzRGNlRJSWxERF83NHNJLVlWVUFXOHZkY0gyVno4eEFnUjh3U3ZtQWVIdGZ4aDVBSDNLUzJDWGdTVEJ1dEhxX3pfbkxzUzZRSGNFNTR5QnpVaGxnc2xVcXgwYlZDWGxweUVXOG5DZ3BuSmNfTFN4YlZtNWp3VWRMWVk2M2pyNVZMc2dsWU1KN9IB2gFBVV95cUxOTndtWlpGUGkyUnM0T2d2QTJ4NlNkbjhTaGpOWmlOc2xpUG5KUzBiMzZWNjBuU0s4STFfN3puakM3V19RUlBySXBRc05aT3JtNHd3SWZLOWY5dG5remN4Sl80enZqdUEtSkRId2J3QnMwWHF2ZUpsYkZlV2tma2tZN1h5T1dGVFY1c0sxQmEtUWpRNjB5RnQwXzRicnExTDg2bnlFelUzNERxd0ZkMThzR3RBU09Pa0l5WHFWV1NtTjVmWTkxM1oyd0Flc0p1SElsWHVQZ3BldDdJQQ?oc=5",
+   "published_utc": "2023-06-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

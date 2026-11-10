@@ -1,0 +1,37 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-05-01 before:2022-06-01",
+ "items": [
+  {
+   "title": "Andhra Pradesh Chief Minister Jagan Mohan Reddy lauds State’s public health system at Davos",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYWdiTmxySEVQNS1tejRacDJsUWRkWXhsUk84ckFaVXlzbm94R0lPVHlEQ0FIejdkQ3lyUEIwVFFmXzJwaE50dk8tbW9FVk1Bbkx2S3RIc1NtejdocEhKQU1sZGNGbXdwOTE4dWZJTC1hcENfcVBzNV9LcFZyUTUtdEZUblpYNkI5X2JiTU5pOGpnbVNsTXpoMHJrSU5GbGtPTUV6VkhabUVjZnp3UDg0d2VMNENVWXV5dkoybExKUXRCOXYycjBOZ2piZ0JPTzNScnBYOUJLaHBaSGpOZ3ZDZmR3R19IOXM?oc=5",
+   "published_utc": "2022-05-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh govt to make Visakhapatnam a startup hub, CM Jagan tells business leaders in Davos",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOODF1V0ZYSGVidk5ZeFJPWE1PUk1RVVVNMkNvUFAwSEF6dUo4WWFJYjNNeDRRc1dYU2tJRlRrVC16LXZtdFdGQXBHcG5hS0xxMFRnS0pRWTE1dEpZZHNrcUNncm1aWUJJMGtXbDBRcG84cklNVEM3czFCdnZlVlI5RFFXa1hCM3JSNnFlcGphWTZYTU95U3RpUTVVSmRiek5CU0tKWjJWbTMwS1FLRFMtWXJpUHdJTjRCOEE4dmpQaW9TN1Z2V240MzRFVGpjazFXTXMtY0k0aXRuaFc5VlFVUEYwTmJsLUNoS19KeTlYTmFaUVJMSWt3UWpJbnlpZ9IBggJBVV95cUxPTjhPQlZhMVBOZnM1SV9TQUZwNnpCV0QzQ1ctWk5ORHV5OTlhSFR5TnRsOV9mNGtEbHFWOG44MmpZb3B4VS0tVlJhVjFtdEdnNF9rWUFIaDJyeGd6c05ETnQtcGZhWU54WU10amZVTlB3XzJPdjQ2d1laZ19sWkFrUFFrWjRqUXNxZHhDMVNhNHZtck5LOTdkd1lyd0hWZV8yZ0h0SndrUnNOaW9MV2pSUG1NbzlndGM2NVMzVFBnV1JReTBNakJfQjR2UVREbGdBSm5oU296b1lyVTBVR2YwbkJsV043ZjRZcGdsWjJRQ1BMbGNZTzkwSEpDZDJpSlNkNVE?oc=5",
+   "published_utc": "2022-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CM Jagan helps Andhra Pradesh win big at Davos",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEZKWTJKTzd0SWM5R01qYVVFS2pCckhDTHdST1NoQ2N0TVhGVTIxNF9KSXhLdThmNDJPa0xPMUNCZjAzT19rTmJnSEExQTBwaF9WWFRBVF8yNDhpT3dMVDdaY3RSUUxpQTRxUFZTQTZTVHRKZjVSaDhUOUI5b3FSRVdkOG01aUFVSkdRbUJaLWRpMnNiUG9JeVJYNm5CU01Ocy12VzJfcEtuUdIBrwFBVV95cUxOeWYtTzczaU9xOVJGeW41QjFuSzRLSmNSRXpRVlBfWnlfYzZXaHB5ZEU0enkzZjZaOXRYVXZybXJfMXlIRXVDVFhOY3I2YlJWVHptNWpqUkZuNmNiajdNcEFXY3NiUEI1UVZIM2pYcU8zNkxuTWd1c0N4dTJ4MFFXZXRBTWdiaDVYQ3FGLTMySTJEdU9uZUhNRVlTcnJXWkVsNlBxUHZTX1daeG1WU3Nv?oc=5",
+   "published_utc": "2022-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra: Several Police Personnel Injured As Violent Protests Erupt Against Renaming Konaseema District After Dr B.R Ambedkar",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR2d0TVZWWkJ4NEh4eXk5OUN3eHBrRGxlLUtTSjdfOVpDQ1Btd1VPakg3WGdqbHI5bHVjQ1FhSzdaRXZpbXZKeUtUdHdVbEcyMG5wbEV2TWxTRXIzeVJoVldBU2I2eHN1ZmhucFZBWDVkRnA1R1FsVTNQZ25OTHRoQWNWckFfWl9paHEwM1JYeFFQd044QUlLeTVSUk1CUnVmamRnSkowOG5JRmIySnZYZjJpSU8wdl80aURRTWZFbk5mMXMzWnBVQm5aZGF4S0xlbEFjUlpodTh3Y0dUbHhDUGFMbTRVbUplZjVyZ0F30gH-AUFVX3lxTFBieFdZY0ctYzV4UHY0R1VsbEVkMFBsaGFtYkxkeFdNaWhGYnhjdVotNjRsTWZhSHJCWWduRE5QOXh2YlQ0NVFPU3RHUF96MWIzXzRCemJkRVFvYU14c1dkNjBVLUgtODE2TnJZV3lxekNodi1peVlQSHZRdVp6UUFjdXpYNXRBaHFrRGZtb1R4ZGlXVWYtX2RnV0xEY0lUTVVKenY2Z183aUE4WGVZQWpnYXRUbWp2RWJxWjRoeHNPVEtWM25HcFNiWDMyaFczWkRXMzg5elNVZmJYeWdqVnRmSUltRkpHdXRFVW02OTZoZXF5aTRORlZWTGlzYnhB?oc=5",
+   "published_utc": "2022-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

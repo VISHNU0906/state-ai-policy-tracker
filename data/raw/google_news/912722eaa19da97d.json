@@ -1,0 +1,29 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-07-01 before:2023-08-01",
+ "items": [
+  {
+   "title": "Impact of Maharashtra's new IT/ ITES policy, 2023 on Data Centres: a snapshot",
+   "source_name": "Lexology",
+   "source_domain": "https://www.lexology.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUgyWmNzblhoOFY4bTdrU0lWMHBqMUxuT0Y2X2ota3RfRkdNYUFNM0c1WjZPZ1hxbGs2WW5Mc2pOSm5qODVVaGpUcFEtNVEzTlBtOS16bkVuekZTN3ZLNkNrc0I2c0dhX1pLOWc5MVpQZDVBRW5EaGotUHE3SmVvcWlRZ2szbWZhU1A4?oc=5",
+   "published_utc": "2023-07-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Scammers use deep fake tech in Kerala, dupe retired Union govt employee of Rs 40,000",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUVluOFBHWmw4QkRhV1ZRRWlSOWYwT2JuZHBSYld4WVV6d1hIUS1UT2dPeDJRMm95bEdwYTQ0SmF3UkFHRlRoaDdHdG9LSDQxN0FJendBU2RocUtKNVBBUktlNC1xZVFvaHhpSk9IMjV5SjdxQ1ZYWmhpdzNKa2NZR1phcnRkQUFsSElLMFJzNU1VWkhGR1FVODl5V2FQaEhyaU1ZajJsS19KZmxhLXB4OEZRUmhZbjV1bUhNaFlENW1qZUhBWk8zN3E5dHVLbnlpTTMzR0JRbVE0VmZhS3lxRlFqMHMxbnRCOFHSAfcBQVVfeXFMTUhIaV96aklYT3hKNDhOS0ZjUjNHTVhaeU1fNXdVbDZzNnFHQ2R6ek01SnJ3WjJIQ0lwNXBMaW5Dbm42Z096aXdjSjdvWkhpcG80eWF5YkdLZlZ5WkNqUWQyMnp4WHNQLUxKekxnbHg4aVVpSXp0OXlPZ0h0SjYwcU9kWG5FU0h0U1BzLTBQMmhicXlIX2RVQ2lZWHB6MGFxazNvU1NkRkg1UzE4VG9TNHY5bmhQYTcyTzZCaDZSN1djbEFRbFVmaGp1dk9OZWVHb1dyS3hWLWxRcDVnNEkzLW5IQl9WZFFIQWZDZXUzZGJLUzNUX1ZOUQ?oc=5",
+   "published_utc": "2023-07-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Politics: Former Airoli MLA Sandeep Naik Appointed As President Of Navi Mumbai District Of BJP",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNmVxZ0xqcWpOakFlODJTc1lQbGpVS3Y0QmdCVFBGdDFuaE5wMUwwNHIxaEF2T29yQ1daQzJNRW1taDZ3SkRCUnpCYlpLU2NhTkpQSmJfeEljZXZRR3BaMS1ndGtMc1R6cnZIdXh2UFNRUGs1WmVtZjFkckVGa2luVlpfMHFocHlKUFllVDM5RVdVZ1lEV21LZVZfMWc2aUJ2bUlYdWtBTGNEbHdIYUxfclJNRW1DbGhFSWNyM1RRanRVcXBqV1VqbVRrUkFFT3JiSU0zRnpSZUdhWkxH0gHiAUFVX3lxTE1XcG5ra3lQTXdCUGpVRV9VQTNoZ004RnBtNGdDcTJpMlhYNFI0UUZ1NXR4NGRVcXBHSVI2SVBUUGE4S3h5bHlTckk4RkxxaVNLUERPQlp0dDZTZVV5MVRQNDRzNjVDenZPRGE5cDF6Y0VNUVdSekk3aExsNWp6Wk90YmJpRUU0MFJFdXpvR3NXTDNybWNpRmVQbHo2U0FISDkwWGxaLVIxQXh2RV9qZHpvQ1Ezbm1OTUMzZXRjMkRVbXhiSURrVXF3eDFtOWo4bUtzTzgyVGh3VzdiemtqLXdianc?oc=5",
+   "published_utc": "2023-07-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

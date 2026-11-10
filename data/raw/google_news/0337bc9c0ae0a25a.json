@@ -1,0 +1,85 @@
+{
+ "query": "\"Kerala\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Five interesting AI startups in Kerala",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lSHJlQ3BhTmthZGFqNjBkM01tTDdrMUFaYnVQMU5LODN0SkFNY1VuZXYtZHZ1a296R0pzMDJIU2o5Z01WTW4zR1pFcVp2dXZHdVVMQ2w3TGh6SC1mZDg4Zm9idmpFX3hOb2tlYXR4WU9YWVZMZXVReQ?oc=5",
+   "published_utc": "2024-01-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala aims to make Kochi an AI hub; city to host global AI summit in 2024",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaUpkWWRLTjFtUFQ5dzN0TDlqVXhiQWtHQ2paSlkwXzItTF9GX2JOd3VFdnU1NmtOeTMyRmJHeGZqMlZ2aGsybERpb0QzdXFXQkRyQmNybmMySVFJendiTDJBNGVyVEJFYm00STYxTU1xbHJoUGJjOXN3YmJqWm83T2RJZzU0SmxhaXVPbnBGcWFZYzB4Wk82eVdjWkZySldNeFhldnVPZVVqVmE5M1V6dTZoUGt3Q05xY1d0d0xPdHotYlZyUElPeEVXXy02R1JRQ0t0cjRyTWtmSm9sOVVIVXRoRdIB8AFBVV95cUxQZFo2bmdiS0NDdFhrX2lVa3I3NGhfWjRNbExJbTFaTXhneF8xR21xTHltTkM5UnpaX0hLbHZxN25uWFlZOXhteS1zcXh0bzBRRW1Cc2hOeXllSnlQbVZCdVJ5VTlHbmhSUGI4aUZ4RFB5eldIRktTS0F2ZTRzTEpmcFZyZDNvdVRpeHNhYzBEUDBoQ0c2MXNIUG1WcWpYV2oxXy16ZE01cVVxQ3o5Vm81NWV1RkRLZTBQTFItb05DdHVrdmt5Q0VJMFVXTW5BVTBLT2cyOE00am5XUlFLUmtObWJ0Mnp5aXBMTnpLVl9QaEc?oc=5",
+   "published_utc": "2024-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI camera project: Kerala HC allows govt to pay second tranche of Rs 11cr to Keltron",
+   "source_name": "Deccan Herald",
+   "source_domain": "https://www.deccanherald.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU1p4TXh1V3M5cHJQUV91a1NRMk83cUxJV1VSZmFYcGNuMkNCb0R6b1BjQzAwVDdCSGtXdDVzSk5XcUF4WFBoTkQ1b0lSTXJxZjdueVU2MFBwVm8wNlNqTnIyVGZZVlhEQ0cxd3lHQlB4LUR2MTYtODhVa3FHQnhXdVZQckhQMFFNYzVsbjBUZU9jUFNGVS1BWGNsVVhWVmxvNlhadnFyY0JPSVpyR25yUWZpMnV4dzdiTHRrRGsyZ0RBYVFxZjc0SEx3S3c0eWM?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala High Court permits state government to release 2nd instalment to Keltron for AI cameras",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3hTb25HSEM5QldPVWpNVjFvcGF1bVgzMmhqNDN6OFI1Z3hITXpkTEl0YWsydEtnLXNuNm0tYTlhWUZZaUw3SlVfSVBDTXNCMEx0UkVOdERhYkRiVjVobnJZVEFhcUZ2V0dkYV9KSTVkUUpMWGlRc293X3UyU2ZDdEZLMElRQW9qbHpBVkdwN2R1ejB2d3BCUnlkU1M5cmMzd3ZkVGlTOXBBMW5pN0RjTldBYXhoUUJidU5XM2pnYkZkN3gzTS1F?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Cameras in Kerala could soon stop working: Here’s why",
+   "source_name": "Cartoq",
+   "source_domain": "https://www.cartoq.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjNxLUd3SzhjOEFmUktWd21aVlZCMFJSempIM0FOY0dQbVJlTGVMR182MVNobUxIMDJaVzJSRmZmWTNkUzcxN0JDY1BsaWxTb3d2QXJkV21JSnQ5TWR1ZnJfbXFELTJuMUQxN0F6VFNSRkN0WjZRTFJxRmMyVWhBNVpaU3R4bmNKVEdicHM5TnZ1S0puUkhOMVd0dm42M2c?oc=5",
+   "published_utc": "2024-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Is Keralas Road Safety Compromised? AI Cameras Might Go Dark!",
+   "source_name": "DriveSpark",
+   "source_domain": "https://www.drivespark.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORERfT0tJMUQzLVZmVnZvOHFoM2U3c0dhZFh5ZVYyTGRfMUloZXNhZ25hYjlCeW52VTd3Z21LdWlDejhWcWFnMkRiaGJNNkh4SW9iS3pIOUNJaGNlYlV2U0EtYVFNOEhSanJBRU9LMWlfbXpnbUJpRkozc2J6ZUUyMnh4ejlqM3RscEgzR216ZjNyQmsxNkhiVEpNVVA5UEpT?oc=5",
+   "published_utc": "2024-01-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala: AI cameras detected over 32 Lakh traffic violations in 6 months",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX3dLYlVoSFczVk5hZndPeXJDMUxqYWNSd3I5TzBUcHJ1V25Oc3YyRVUzNHAwZFdDTHQ1MDRqMUtwZnowRi02ajlkU0lOaDJhc3hwMklaelpuY1lrck55cVM3R3NhVWo1U09PMUo4SDJWMEwxSmRYM2VzRkxQMmJTNWI1YTNUWlVPOExpMzF5T2dHa1huOFByZFNiWUUyeE92RUN0bXRmbzgyTHdCdE84aHNnWTJ3UElvV0g3UXh4eENuWVdpUXo0d9IB1gFBVV95cUxQT0RvUkVGSnpuTHRqcFA5QVI2UDhUV1M4UmlxMl9DVnZoY2RadVZYTFlOVlUyT2gtbWNoMkEyTm96Y3Ryb3dEc3d6bFVFcGRQamdEYUdPYjFsQUs1d21neGhoSkJ0SF9yN2R3d0Y0MzhSSTV6ZE5MdXhFWkxYODBtY2lKbmNiMnRBYTI5ZFdTOW1pZWFHV3JsSW12Mk5uTmYyWDNvZVZNal9vdEt4VFJRT0RkSlFEM2hrcjJZRkdyWXRrVlI3UW5adjFIQXgxblVtU1VCbEhR?oc=5",
+   "published_utc": "2024-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kerala govt project contract awarded at 58% higher cost causing Rs 400 crore loss: Congress",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORlNWbzBhX0daTVRQU0tGYlZ6WWhERlE1d25XU0xsRllPRUNWT3NtODNhaDd1SVpvdG1MNl9wRmtsZzNmcDdOZk5hcWZ2ci1KMkJUdHRIRHY1NWRwYkI3MGZhMW5mYnlXMUVRZmFFTm82ZUUyLUh6a01SOTU1RW5BZ1poMUhEaDV1YmtORGtfVWJrTDZlQnVkeGpNOEJhd2lMNFJ1aS16bkhKeEpSY0RTX1dqcFR5TTVKdnNKdnJTSllYdldYYWFaX3l1aHhnZ0FzcGtrNDJrRzIyck9CN09SY2k5VkM4dl9uRDc1QUNOZVVFUFXSAYACQVVfeXFMT1FBYlVranQ5a25xSDA1RXFVeHdZSjQ4ald5alBNOHdmYU5sZkpDeXJ1ajRsWGVhTkhNTFdFQVpMVVlwcGtfcXNJSlNyb296bXhpZTU4NUpvOGFPcEJ6QS0wUVFDRXR6VW5fUkFFWDgya1RLZW9MMXdnSzliOXgyR0ZfWDF5SmhUeW9VOThqbF9VTTRkSU5aUFJiX3Bib1gwbFZLbHhIVnN1dXJuSFRhdWJHOTBVODgtVTRnN0t5XzRDWU1Qby1NOXBNSDFSNWdBcFAxVWk4RzZZM1JYbG5maFhOWDBYRE1EaDFuT2RPOTNiQXVtdkNOTU8wQnEzNGhrUQ?oc=5",
+   "published_utc": "2024-01-13T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Camera Project in Kerala faces crisis as government fails to pay contract amount to Keltron",
+   "source_name": "Janam TV English",
+   "source_domain": "https://english.janamtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRlE0dHpTMkk2QVlfTl9mYmY4QXp5MndiX0dqS212TlpFbF9OYnFodGc0bTBKYzU3X19aWHpyNFZzNlpyMlpHN3ltNnFlcnI1RlA3bzFzQ3owTnBjcXVsZUR4WEtrUzdSdlpkZWVaZU9Wb2Q4LTF0aUtQOFJkVFU2MVlaQ1VKVEliem1lVVByTG1aQ3dHUnFVMHpONWpsaEtYQ3NLa29QNXAwTDVJYkhlV1lVQXhVcEtLZTZydmw3OFNiSXpaVXZRd0ttQ2NFel9MblNRMTgtNGQ?oc=5",
+   "published_utc": "2024-01-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "The Riafy story: Fairytale of a Kerala-based AI startup founded by six friends with zero biz background",
+   "source_name": "Onmanorama",
+   "source_domain": "https://www.onmanorama.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQnRscm05cG9FTW8tYWVOd3JzdXJ2WFcxVlRnc2ktbHZEbkV3cjlpUUZpalFSMXhmWS1oYlFUV0RrLWxuVjlMbzZQNWVJRXpSemR3bk9DMUFsUU83emNNcG5acUYtZk9UZnllT2tTWk1xdmlmU0tFNFF6RVJsLTVEZXBKVVYwazdZRVdRU0lqSVVGbXgxY1ViM1pITHkwbVltaC1VWFBJei05NFRWb01QaDV6UFVoTXliTWh3M2t3REw?oc=5",
+   "published_utc": "2024-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

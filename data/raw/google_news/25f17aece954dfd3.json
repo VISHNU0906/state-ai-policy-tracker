@@ -1,0 +1,21 @@
+{
+ "query": "\"Karnataka\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Extreme weather events led to 8 deaths, destroyed almost 390,000 hectares of cropped area in Jan-Feb 2023",
+   "source_name": "Down To Earth",
+   "source_domain": "https://www.downtoearth.org.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR0VlSkJGUThYNF9tOFRsZV91cjZzVnFPUFg3T2JZRjdWblItSlpmYUtiMzhJYWMzdXhVRFRnSVFfcjJBeWk1RDB2NFlPNXlJYWtQR19QaEU1d292NDMxd2w2elhyZ1dBWmozWkttVS1UVG9DSkUtSlBodmhoX2hrT3paQVlzdUl1MWJlbG82UWZkbW5wVm1YaGw0bmZ1ZEZ1RE5EOWEzZi1FazhEZnNBVUpNeWJYczJYMm9HVmRzQ1U3NjYyRGRMeS02dTY0UWdMN1VEYWFxd01RNm1vUENfeTJRWUpWakJGZWZMctIB-gFBVV95cUxPMDA5Uy1UN1VKVnJqR09Lb20wN2c5QnpDVGJQMlU2LVFpUXAzVXBIaFlnbUl6RkJvUkprUXoydzN4TEpUS0E2YS1UMHJGSjl0UlNGczhiX19Peno3TDd0b19ONGFoRTlHUTdRNE5WVmlMLWxLNU1DblVpZGtKQlJCMlZ5eU5IMDRJbGRBOXV4MFJNWWtZdTdvVEU5RmVMNEplUzNTTUZpaHFwLUNYcjF4cU5wc01LYktDRHZzX3lzMENQVEJoNTJXdHBzOU0zanR3aE5JZVRPOHp2WFd4QUZBOFUxMlM3M1VKVjZSaDM2NG4za1F5UEQ1d1p3?oc=5",
+   "published_utc": "2023-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Hegade to contest from Kumta?",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZR2g1eldER3d6WlRzV08zUVRMTnZPdWJLZnNMVlBsYlRvM2FlZGY0VnNnYnJUWjl4NmdxVkhuS1poUGxBd0FlNERndFFoaktXd081WUtaN1g0azRTc0kzdXJaamdqbGRBZXh2UW1JbzZfMmtZb3BLZ3p0OXQxbE0?oc=5",
+   "published_utc": "2023-03-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "Acharya Nagarjuna University enters into an MoU for AI and machine learning",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUEwTFZZTVVHWHFybFo3UHNIb0s2bVNRUjRNbmVxbEdianZ5Zlphb2tGQzZUa1B5dXlhc28zdGZIbnBOYmh0YTJEZENaYjNkZTdYaG1yelM0d3RyemlmT0pEcndLSndiaWhLQjJ3MHRhRVF4ZjRFZVhWalJveDYwczVUTkF3cENWZ2pHUjNUbjcwQWZMZU5xVklPMlAyUVJidnE5WldDYmxfMW9IcXYyeTZ6bnFiUjFVOE84ZDA3V0VNMWlUelMwU1hLWXpvdS1tMjBUM0lCc1JJRFZ0V2NkX0NKa9IB6gFBVV95cUxNTXRqdGJZcG8xQjlJQnRITHRqMFRFemJvTC1FTXZITjlvSEFYa18yWVU3dE9nekNoTWxGTnJOSmFJUmVoVFFWOE53cjNfUENiSlY0WmRDWklZN21EbXZMbENlb05HS0I1UjhUODJneTZZRmJtQVRkUFFNaEFaM0duQUhBZmx4cFpkNk54ZzhwUTU3VUt3MElTTTFQUlROeGgyQXJNcW9LUTduRTFvcHF0Z2NSN0NIRE52UWxzeE96TlpPSVZwOHBOWlZtamRIazZmSmlPOVBIZ1R4aXVzMFhqdmFNT0xieExPRHc?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Govt Teams Up with International Baccalaureate for Education",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEFVTkxhNXhhTjdJTWgtczFGY2gxSVYxdC1KZFdaLVp0aGdnNi1oanBxZWRiLWp0U0tRbDdEaV92Ym0tRWd0ZHlQUTVJaUN4M0x6aXNLN2p0aFZKWlc2Y29xZ3ZybW1IdnF5dGtmSlVESVZQX21aMXVWNU53OVdHSW9yUjBHQXNhWWRvWXlzWlVDdDJqbHJvc2lsME1qN0d1MUtCeFJDbm5MOENXMG1HUTJSZ9IBuAFBVV95cUxPc1M3N0ZOaTB5cUJnMDRvZkdoSzBIbFc1ZnNPTlhjRElyb1JQcV9vMzFDa1RyU1dZaE5IdUNZQTJFNVZ3M0RNbzl3T0VxUmxoRlFXeUJZSjdOdVhXWnhpUmVqYUJjSWtheFVOSkxSLXBBQWZ1ZVB5QzBzVjhBZ0dMTHpjcTJ1UzNwcDBOLWVtX3U2UGlVOWVjRVZOa01UZkNGZ3U4UzIwNWRoY0FfRTJPQ3RNUEhiRjdm?oc=5",
+   "published_utc": "2024-02-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Foundation Stone Laid Projects Worth Rs 4178 Cr Inaugurated In Andhra - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGRDWDRYSm84djZZM1cxc0tPRlV1WWdvY3FRbmxFM0NPT2J2QW5sVWxuMlRSd2RjdmkxM3lERTQ5R1pJNWNQOVhieW8taVY3Qk5TMTU2OHJnRkhUNUdodkxnTkJZZEpFMDFOQzlqdDdFYW1IaDBYLXoxUm16dG9vblNWNmJ3NzZ2Zk5QVG41YnNOYkxRd1g3M19iUEtTQ0F0Tm5uLVJfdUYxYjAyQmIzeWlEY0FfVk14WkJF?oc=5",
+   "published_utc": "2024-02-15T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Y S Jagan Mohan Reddy disburses Rs 1,294 crore under YSR Rythu Bharosa- PM Kisan scheme",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQjg3MGR4eDVZN1p6dGN0VHBIRDdJQ1V0SE9pSV92OERwVFQ3TXRBVTR2cTBiQzA2NEc5Vk1mYkZwcHV2alhrTFpremYtZ2R6SGJBMThmMUYyaUZNYzgtY2Z0b0dmaDFzU0VlVldDZWJFOEFPcFlGeEgwTXZtSnFkNWQ0M0NvaUlMMUxBWGlwTXRNVksyTGpWTDE4WmZ1Rk9SVkVZV2ZodkM4cHdJWW42Tnl1ZHl1b1lReW1SX0Z0YW5RY1JPMHQ2c0Z0RkZ2WVRzRkpBaE1KcTVMZHN3eHBMRHE4RVBiQ2tqVjVWaW52NVlpb2FweTRDS0dIdXbSAYICQVVfeXFMUHpQaVJUQ3AtQXhpZXJEUWc5U21YeWZXQ3UxV3QwZWxKZThDbC12VWQzTkRTQndycG1DSHd5VlZILXlLMnpSRDdWbWpjcXZHZnRDYjZ2TWU0SHhNTEJjN2pNRENkOFpHVTZiR2RrRVhLT01YVW5FSlNpREloTGMzRTJGSmNVNWV6Rmw3VU43a2dObFMxOWp0bzRRZklHcW1SbzBCWWxOTHdpWG9rbmlKY1ZMNC1HV3Nlc043TWJqdE1abGFFZUJhekwxNmtqTXpxZVFLek9ZbS1lRnVUNVlpVEdybjJXRXNZSXBhLS1zWTZoZU92VWt2RHN4Q1hFZ3BIWk9R?oc=5",
+   "published_utc": "2024-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Forensic Science Laboratory to procure special software to crack AI cases",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOS1ON1JVaUZmS2tJNVlDdXpWVWdGdVNDa0xleUhDYkRhS0FOZFF1UWYyM2R6UnFLcGVKellIY1dZUWNNejN2RTZWLTh6T21POWViVm50S0p1LTRrSjdLS1oyS1c4TFpCb0NhRnM1cFRxRlhRQVZUMkJTSklFRHA5SnphVzk2VWY2bDFHTmZwb2NTVURrMWh6MEtGWUljNmdkeGtIXzh3MmRFTDcxRllLUDlQUHhmaEo1MU5NdEl2R2tDdC1VVm5zMkpyczAzX3FwZlh6Y0pHeXUzclpLYm1lVjYzZkpHdnFkaUdWdkhhNDd6bFB00gH7AUFVX3lxTFBlSU5pQ1NHcDNxWXlmTnpyQ3ozYnVOSXRMc3VXekVXNDBnZnNQbE05SU9NUVFKT25Ba3Vja3Z0YmU3X283endFSFhua3JMTi15czlsNFkweXB5TGJ0OTN6SnZEZzdSNjkwUmlSLWprNUJhSTkxLVV4bDFsc2dwVzM5TWkwNFBKdmlhbEN3VGlEazdWc0pDNHRZN0hVWE1xS1oyLXFTaUttWDFVWVhDUWljeFdsRVRfSkQ3ejhGQzJvQ1ZwNDhYRFhWUUZqVWlpNXpPaTkwNFdhTkJDRWl4YjRjdDNHOS1pQ0lNUkVHVEFjdlJqeVVIRnl4dTFR?oc=5",
+   "published_utc": "2024-02-19T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh Legislative Council Passes Interim Budget Amid Opposition",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHdXMHoyT09pb3Q1QVNsUzJwREhyX3djbGlQN3NQZWl4cVdEV1NlRGxHYTRpZHhxWDZEazl2Q21WOE1EQXRzRC1CRzg3VlV2WE5NS21DRnFCQWxYQ1J3OEw5bkhtSXNXVVVaUTk5dkstQTdsVU5obHlEbi1CNFZNQWhUdEdBbW95Tm1uQmhXeTVpVWx4WVRaeTRYRnoyUzZGbEpWb0NpYTBuWjgxTG81WC1pY29fZFNtM3fSAb8BQVVfeXFMT0h6NW5jT1p0dUxEOEdNWVdsYzVmUlZRRHF0bVdlclM5bkM4WVZfSl9CMTEtWlNXNFdSaGZidTNicEtfdUR1clVVLVBxWW4tM3IwZ05Mb0FRV2R0QU4wRGpVTWpLUmlybnRsdEFXUWxUWkZhOXc5cHJWTEpCa2RqWTJ0dk80YTFDRmptcFQzbnZaUmh6czRBalBQcG1lVmxyRnZTN3Q2THRiQWFYb2hxeW51ZkplRGtyZlM1UFFxaVk?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Retired IAS Officer and Architect of Free Power Policy in Andhra Passes Away",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXVBTW0zZTlRSFdvYmVYX1JxMmd3SWRLd1dkTWlSZlZFSFU2NXRiekdiRDY1b2RSQnQ0aTZzOFRXb1RtemFRTUpFMVNQbnpPVGtReGkwUERoY2ptUjJxRV8wVERWM19CRldqeEJsUEl6OUtOVXZIdlhhUm5xMktmZXBSdFFsZ2g4QnZyUWtSSjlzNU5jZGlVYVR4VXFWYkxaSmg0WGlGeS1nT3VVeU5hOGs3R1RHSkliT1oxNWhRNERaZ3Z2bU5rOWgzMTltZzBUZE1xd9IB2gFBVV95cUxPRVBxVDM4Tk9OVEozTk5KTHJoQ3dxVm5vMkUybTBVTGs3cFdnS0pjVlhoNzlOWmlIaVJuVUFpci11dC1JTGZLdXZxQ2NUVDQ1ek5TUGQ4MjBuSzQ4S1RWSVhRbm5hc0pGUlZwZ0oteThLenBQQlpwR0tfM1RxTVZvNEsyNTZndnloX0FPa2VwNHdrSUk5UUxEZ0dEWHVMNXFaakxFM1hOdFgyQXcxWjNzX3ZjcVc3VVdONXd3YlZ5N0p2VjYyOFUwdHBWMXhhaUxLWmJreDZFcHNUUQ?oc=5",
+   "published_utc": "2024-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "State-Level Aadudam Andhra Tourney Begins In Vizag",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM2ZQZVZuejBrZExPZTRVaTFPemQ3TFpUclAybDRJTXQ2Sl9tT0dmeEtXOGtudE1yTkNVazhXTmdWNVM2YmxMekd0NmpuRTV5NWx1RndQMTV5SFRoamxGbTJ3TFNGUjlmakpMX0o0VEl3WTJpRGFOSXkzb1k0TkpxN0NrRGctdklGLUQwMTVsY0NvQ0JmeldKOHMzX2bSAaIBQVVfeXFMTjZFSzRoU1RxMXhLQzNpbHJqd213N1JCbTdsTFEzU0YxZDFJS05SQ3VYWWtoZ0NmV0tzSkRZbHloWkpSczg2WkxHMWF2b0tWX0Yyam9DSHV2SUtSLWtDRmhXcmJhLWg0RGdPSHhLem9MUV9lYXhkWWdQQkRrT0tTX0ZadjdQek9oVzRsblhPWTA4bVFCMjhicG9JTGlxSXBkWXR3?oc=5",
+   "published_utc": "2024-02-09T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AP Assembly Budget Session To Last Four Days",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEpKVzJUTnBIWGZsMjN4cXlYb2VFVy1GQmN1bWEwUjV0YUZ6Z0ZES0NFcUlZcWVyVU5oMkxtbHV0eV84X09FT1h6aXhWb1I0aXR3cFZCR2d0WkJYTWtZMmNZdEhnZHZLZDJJUzVpamZoWk51Mk91Z3B2d19FMWxvSVB0QVI0VWkyZ3BxV29IVEZ1b2NZ0gGaAUFVX3lxTE9GTjJfeFZIamJEbDRzeWYyb2VQQ3pJTVRHNTBWX1FGalc5ZVFnNmliYVcxQmx1ZUtkWGpiMDBaSjlUTnRBR0NEdWV1dDhNVksyNFRpOXN6RmU3MjNCcF9OVXNENzZzQ1ZsQ1MxT19kTlBWMlRXWjR6WHA2RXcwV2N6cXhXc0MtaVZFM05LeWd2b0s5YzNPRlplLUE?oc=5",
+   "published_utc": "2024-02-06T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cash, gold worth about Rs 17 crore seized in Andhra Pradesh",
+   "source_name": "The Hans India",
+   "source_domain": "https://www.thehansindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0stQlU5OUZpV0w4aGpGb2hyMEl1SlJvSV9hTWUxd1FnSVd4Nm4xT2t1aXZqTmw3bjg0RERYV3RtaEQwMmhKUUFRdFpqR2ZrV2xYMkxKTTJiR2owbjl0Q21qakhsMFRQem1fTlNGTkNTbWZuTVZOakhOR1FETjhWcTRDa1d4dEFTb1hGTHJIY1NZYVlqdTV3RDBrY0dRak9PbEQxYlA2dUVoSGtURHc?oc=5",
+   "published_utc": "2024-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

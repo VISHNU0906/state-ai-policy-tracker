@@ -1,0 +1,53 @@
+{
+ "query": "\"Assam\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-02-01 before:2022-03-01",
+ "items": [
+  {
+   "title": "Assam to order 200 electric buses for Guwahati",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzEzaElNbUxkT21KbWZwLU9nX0M1cEQtRTAtc2Rpb3htUWhrS282SjRGbmQ4M2o2QWF3azVqVE1KRmZCV0RrS2pHRlVnUi1hWFJnc2hXYTh6U2s4b2hqSkNHeDVJX0oxMndsRFJQX2FtN1VjSXZ6M1Q5SVFTU1JvdUEyQmpjWGdrdng4U0dyVmIzQ0JDR3NWS0xSTkp6R0NKa0dzZEZNNHlSM1ozb2oxSmZJLVBBcXpqaGkwN1lHMDZfQdIBxgFBVV95cUxOWGJLVnZQZWdrUTlpeWpOMFNpaWxpNEg5WUwyODFUNzBPNWlwRGVVV1ZhNUZVNWlqVFB4VGxCUFNxbEpRSGZaMklOeWRIYmJXRndBbjFyeU5BRnVpZFliaFdiOFdpMW9rVDd2SzFfaE9MWkZVRG9PckswYXpRazR6LTgtaGFKekhxLTI1V0RYYVBPZHpGVnpHd2lTUXk3OWNMbVktMlFVM1psVmdzSER1Q1dXUTVOT0tqODFCbXZDb2hVRTl0MWc?oc=5",
+   "published_utc": "2022-02-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Republic Day parade: Uttar Pradesh wins best tableau award",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2tuR1RfRVNMTmUyODlHWF9jZEY4YkR2TGE5eGtWZlNmaDVVLWhpdDRJWGExeGtBMHJnQURVQWY4ZUxQbDVHZ2dGQ2VoSXRJTGZxbzZGVE9uX0ktNnhEeHpGWnlDeG5NVk5xWmFSYnBNNzRfbVgzRGRtLXZDeS04UWJYS0dMRndVWUpKek9vYXZyaWpVY3J2bmUwNXlQMHRV0gGmAUFVX3lxTE56N1ZoY2NjWjRnQXdwTXpTSHZrVmpSSTY1VmJ3dHhvQV80VkxIUmxxRWJ4cnYtUzBvTlFlUGFhYy16ZkxOZGdUSV9XRFktdFp3UGpNUkJFZl8xNmFITlpxLVY0TFYzM3dsdWphaXdFbDhoWDdJX3J0YzBGeGJwN21NM2lfRlU1ZHdodF9raHZkQVB1VlhDR3ZmS0g5MlppSkU2WEJNU3c?oc=5",
+   "published_utc": "2022-02-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jehirul's mission revolutionists Assam's Agarwood trade",
+   "source_name": "Awaz The Voice",
+   "source_domain": "https://www.awazthevoice.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3RRTTZrd2pBbmthTWdaS2ZHbGdaUGV3TEoxSVpIQmFicFlZMlhyYWJjX3JiRDhGWXUwNE5xNnhUVkRnbHRuZXZxTGxWNWxtWTJxMHl4RXlEeEJ0Z18yWndrWXNqbDhzM1kwOVJsQkRYOXFYaXhfS0RkOERjMDUzbWxlTjJMWmVENURTZTRCaGxyejBQblQ4WmVmWUxINU5wT1Z1SHMyaw?oc=5",
+   "published_utc": "2022-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ayush Ministry to set up Centre of Excellence for Panchakarma at Assam's Ayurvedic College",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeURqSno0VzhuU2d6ODBrcWZxVk9TUExFR25nWXFfTkRHZWxxM25Pa1hvZ0IwWUh3YnVmZkliV0tjV0N2cmYtWUJDZDdwTHptNk1idjdGMzZaOFJQNGg4eHNqWTlBUl9NalAyMkVBMzRBS0JGX0hJeERGbmpkelVEVVFsMDFBVnI0dlgyaGZUMmppaEozdDY0OHpodDVYa3dPZEFISEhYMXAyeC14M0xXSWd5VG4wQjB1TWZYYVdSTGNNMjBBbXdVbVJreWp1RUdZQ1FYLUh0YmM2NGpsLUZTSXpuc0Etb29V0gHuAUFVX3lxTE01SW40MmFZcFhtMDBXVlFjYmhSSTg2N1dGcDd6WkIwYXNQeTcxOFFQTXVVZDk2LUttRThjbXY1em84QVBBeUVGd01ORy10VHdtN0xsTV82MDJkcG00ZXZQRy0zdmhQalVvWUdtbkthZm04eGR2X3RJZkVtTTVHSFh1LTc4VGZUQlI1Ul9YeVB2Z1NEczVtNkR3RVV5cU9OcTdWcmNfU0ZvTXc4bDAtLTdjeGZqQTFxS1RfMXRISDIyOEhGTkpXaVdBUjNIQ2Q3RVd5QXAtc3NERUxRMWJZbU5MYWM5X2ppS2Jsb3JLQ2c?oc=5",
+   "published_utc": "2022-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam Agricultural University Recruitment 2022: Apply online for 55 vacancies",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWZ6NHJSUzRGb3FDWHBOdExJVVNCZG1GSXlJclpmVk9QdjVPNlVKQ09wTEw2d2ZySS1GOEdCUVB5b2ttZ1hsMXZvR3NvTjE5dWN5M21WWlROZ2dRMjJhYXJhd2tZM2gtNXNwTHhlWWFfUlREMEozbDFibjlmVXJraUxSOGxzMmd2VUtsQThCbjc0ZW41c3VyMmZSYmwwaXQyMU80UTJ0ak1tbXhlemtjUS1mWGVvVjZu0gG-AUFVX3lxTE1wR2pKb29EUkhoV244M1ZWbjBFQlQ0LXZ5S3p3X3NrZkRGRk5Ba0JGNEtmX1lXOE4yXzV1ZDAyZlkxRkQ1Nm9abzRGRlF6eE1LeWFubi1DUUVKUlpPcXBPYkZJUVFKY0hGcGVfRWs5eXplRDFMZzV1RTAtUUhSRHpZMnNTQW9VMzVlRG5ZR1JTTzRiN2JLQlN0amJlM1QwTnR0blVEQnkyVXVwcldLS19RQWFsbzU1dDkwQkFzckE?oc=5",
+   "published_utc": "2022-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Did we ask for proof whether you’re Rajiv Gandhi’s son or not? Assam CM HB Sarma attacks Rahul Gandhi for...",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQN0VpZi1CQUMzMlgtMnpLVzY5Nmd1d2pBSFdidUl4NkFHUzhvT25NVl9zeTc4cUFUbG1OX0JkeVZ5YVRaVk1sTE9qTHl4RkdhYXY5R25hUzc0WUEyT2N3N1ZGVThuQ2FueUl4R3plUTJtOGQ2UzhaaWxJT2kzaXR3dzJ3UmlVZENJZDZLclpadF93NHRwVklIcEZWZU9vajRUX0M2R1ZaZ281d3RQWVJZZUtCZ2x2U0FOOEdmX3pyeFlad1hEUGs3amZSWE9JR2VycUdvdVJsN3lmYm5zLWYxNEpmVmFiYTgtYmlybldWTnU4cVgzNnp0NGJXOXVJYmFaRVRYNExMUmZLNnVXXzBhU1JNX0RuaHpaZE4wUDh5dXRKR0RjV1gzZjdjclBZZnh1SU9tbUpoUTIyYXZrZ1dEVmtFREh5eHI3UFYwMEt0VERtNVNi0gHaAkFVX3lxTFA4c09GODNQWE5oVzNWUzk0Y2E1VnRzazNxWUFXVnBFX292TXZya3FYUkFCUlhJWmp5Y1l1VTRXdGRxSWJLSEZnLXZRWUpNcDNVZjhLeGp4TEg4QXMxZnYtVnVmaFRVTVR3bnZfMGppazkyMnI3eDJvakViOUVpZkFuQlZDWTgwRURFRC1fY0dNMWl5VndIUjVPZURIcVRSQXpON0hMVU93T3V1b1JCdzZQLTE4ZTZuSHhwdm9zU1F0bDJzZDEyUlR5Ty1QQ3ItR2RNMmZZeDNhVWh2OW5PWl9Yd2tjeUp5UDdzQVVfNEpNd0hGaXRqV0pvRzZfM2pXUWdTallaZXdLLW1fYmRlR01BQndUMWxSSjZNZWRTTjVCMkU3T1RXSWRVWnpVQnRYUGw2Tkg2MGdUSVNfalQxbHBSQk4wYjA4YW5nQTIzWmg1Qm55TkM0OU4xWlE?oc=5",
+   "published_utc": "2022-02-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "This AI-based smartphone app may help you quit smoking",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQU4yUEllTU1ScDYxYzNXTjhXdGc4aVFKMTZzZXo5MVhHbzJDX19oZFdRNEM3MWpCZEI4Y0FoeDYySlo1UUFCa1pmcDlOWXJ2c3dXSkljNm8xMXZIcU9UOUZqd3FzanQ3cFBCVi14Q0F5MHFsVU5mTnRieG5SRFpWanpEUmZIYlA3?oc=5",
+   "published_utc": "2023-04-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "INDIAai launches AI for Everyone booklet in Telugu",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVQ1clVaWThDWUFSbVhPVEt1UlRjeFhYVFZRZGtrVFZBX0F5NFZGNkxQTU85MGlabkdyX1c2SzRYdWFGZHNyNThURk5kUGd4RTN3Z2ctMjFtM1FxMGI5NjI0Rk9IMEVuZ2VLSURPRG1MSWc1VHV2Zm55UUpIRDBmTGZ2dVg?oc=5",
+   "published_utc": "2023-04-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eyes on Maharashtra: Telangana CM reaches out to farmers, Dalits to strengthen BRS presence in State",
+   "source_name": "Frontline Magazine",
+   "source_domain": "https://frontline.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYlFLTTJySzFrclBKMnlBWlFUNmFOVVRDMjJ3eFNYUkhnZi1hNmc1d0x3QXp3UXJQUWs4TEUzdUNLQlp1Qk9ZQTZZX192SFFnU0hrWjJCUndrM1dtR0VfRTV3MXFPTmFTSFota0ROVUtzTGl6a0s1SG1xZDVRMDlVZGhncC1Tc0dYd3hNSEVuZDFqRFU3Mm9GRkZFQ3hRQU41MlJHMjkwV0VMcDR0cWFJRzJGSDJ1bzRSTmhzaVFUWmpWLW9VdFp6RUdveGxhYzB6Qkl5ZGFTQ2I3Y1o1VXNMY19WSTVoRjQ5TUHSAfABQVVfeXFMT0cySkRQQnAxOE5KVGxqYzNvWkZQUlVwQ28yV3ljMFVzc1lQTDI5bzZuRXc1TWs5b2wtUWlWbGpGNGlxdTN5c2NMWkJLVVk0ZW5MOWdPdXJJVnUzeDBkcWs2ZEV6WUZUSmlsb2wzN2JLLWw0TzJiUzhpZ3dlWFJ6WUMwSmhOQW43T0FhbDc0NXh5MWFONnBHODJBaXlKUGpmLURWQlZ5aXB1SkN5LUJ5MnJvZmZRTklyRHZlS0tzRWdtT1BTVTJUaXRRc1Q3eFVHTk5HZmF6VnNMVGg3RllTc19NZmRXOURmQUVCdVB2RG1C?oc=5",
+   "published_utc": "2023-05-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Women’s help desks set up in Khammam police stations",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3hCZ3V4b2J6ZGl1ZFlFejd3ZTFKUE5ub1lEcHZMdmozYkcyVUNncGdYa29PQ3IxdkMzcmtMVkRfRnc0Z290ZFNrYU04MGdvNEMtdEp3T2hoSml0MHdMM2V2WWVuSk9RNUdHMmVtVVV3a3pVdlNxYmVMRDVUZ3lKM1NJVHY?oc=5",
+   "published_utc": "2023-04-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Osmania University inducts Artificial Intelligence to record attendance",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDhMbW5FakVZNGhUOHQ5ODdURk5oNmZGT2VqSzUwN1ZLQjFubUExV0hHYlppOGZrWmV3SFZsYXZzd1NpVmxKNUZXdThaOE9lVVBfSUpRb3BaQ2tZRlU2cmx3ZGRYR0pwWFB4WkhBYkVCOEFCVnBKT1U2b29VRFZFQVN2blZreGt0RXVNVGozeFNIVHJoandMd28wa0hIUXM?oc=5",
+   "published_utc": "2023-04-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana: Civil Supplies Commissioner directs officials to speed up paddy procurement",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGU3NUcyd2FFd2dnT0JsOEpKT3VmVnhBTU5PMHBNM2ZjQ3VDaGlacDhwNy0tdGR3R0EwV2dQVEZjdjFKYkk2TXlQRWxySlhWZ2poYXJVN08wdjlCelEyRTNYbURxMnhsY2VFWW9KaExJYWZ4LTNHQW4xRE1rMnlROElOMndNRW9pMW51N1VybUVMQnljeDdmcmRZejd3dDZNTnFQUk9rYXBYNWFQTWNqcjh3?oc=5",
+   "published_utc": "2023-04-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Foldable iPhone in 2028: AI predicts the future of iPhones",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOandsNUdEV21ReGZodU42UjlpbV9KcDBzT1B4YWxQLVp1b2pSclVQQkJBMTdfS3dYNGVpZThQd1dIeWFGS0x1UTkzbmdDNkNxQWFsZVFZeGxrLVlJRU12OG0zemFwZjFRSDBKeTVpVlE1VGNxREVWN1daTjVUMlRmQThCN1RlOG1fLUpaUA?oc=5",
+   "published_utc": "2023-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "16 specialty doctors to be recruited for RIMS-Adilabad",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3BNYXJuWHc4NlI2c2ZidU5kdUNRcnMxMUZtTVZIcWYzczVCREpsSlpBTVdMNXV3bU53ckFJcHlzVGFPMFJwa1FEdmJsTnotZmFveDBrZDBzNlFBWUhpYUFoYnBkcHlrUjBhTG1MSjNQbUhGRE5KNmJWQTV6czdDVVhjYU1UeUVx?oc=5",
+   "published_utc": "2023-04-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

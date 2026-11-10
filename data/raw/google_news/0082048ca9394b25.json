@@ -1,0 +1,85 @@
+{
+ "query": "\"Gujarat\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Zydus Hospitals partners with Medtronic to launch AI based stroke care network in Gujarat",
+   "source_name": "Express Healthcare",
+   "source_domain": "https://www.expresshealthcare.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUC12aFdyVDNDend2c3g4WFA2WXU2WS1HX2ZNY2lUeWc0ZnpiNTdodWxXMy0zWkxQaS1xQThfbmZXM0E0bGoyS2RXTUhFeHZMM0xUZ1RPQlhYMjlnR3Q0M3BhaFpuRW8wa0VvOFNRX1Y2S3Z5TXgxRkxMbVhHU2o0bTVqN29UY1ZxOTVMUno0cjFnMFE0X1dDTjRmVVprNDJlZzQ1aUxJVUc0Wk5wbE43SWtmTk02clVrejBhWGZ5ZS0xSkdXT3lIRmE0bDFaZkk3?oc=5",
+   "published_utc": "2023-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Deepfakes or poll weapons? Gujarat cops worried over morphed videos",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGlndGJNNFBoSlo0SWNOVTJuZjUybWMyT25iMjBtX3RWb2NPUDFadHltNEZRV0tFU2lvLVVlbXl5ZVEzNXBFamFPM0dKOGh5cHRrVFNTUEVieXp0bUYxWWFmN1h4d2ROazU2a29LZ1EwVW4xaGtKWS1SV1hLR01tWHYwQllNOFc5ZUpTTGMwdEgtR25BS0NqY1p2RnRnV2N5NXpWN2lNNzVheXdrUlh3QjhHMEpsdzB1QU9GVjIybER0XzJHTWlZRTZxTzZucmRodE9qbExNNXRhUdIB3wFBVV95cUxQbGtrdk9OcTJzU05PTVJ2c2NaQjdqOG9RSTluUlhRVnRBaEpVWm9rZUh0eGVhRms0U3RlOWFESzl5RHpRbEQtUHAzQkljWVdzMW1DTjJWcTZlTEFRWEh5MmlyRVB4THZRelR2SHhmTDRQUk5STWpwbUh4cXhQVmRFb2JPeWt6YWdoMkFxdEd0ZGlBS0NSZUlYSzZIYjdBNFdxbTVNd0EydjNnaks1LTF0OGhvUXVXZzNRTlpmLXhlQ0VicERZU2NiY2wtWG4wZjdRRUdIM09ZVjJWbU16MlV3?oc=5",
+   "published_utc": "2023-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Medtronic, Zydus Hospitals to facilitate remote stroke care using AI",
+   "source_name": "Healthcare IT News",
+   "source_domain": "https://www.healthcareitnews.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjNjX1FxWWp3NEwxZFMtYmV5cG1JWElLVkNsUGRSS0xQdXpwamNXcVlHZWJKM3FmY1lHVWhzRGV3YjhGYWxWS1ZoUldSWjBXSmttd2UwQW1pU09tTUtPMld6VEdVNEw2RlFXaGVPMFE1ZWpOUnJrakI4T0VUdC13VGxOT0pRaEg3NHJpc3ZtZlhkRWNiS3FjTXAwbjBrN0JWR2tYLVRiWDFrU00?oc=5",
+   "published_utc": "2023-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Zydus Hospitals, India Medtronic launch AI-based stroke care network in Gujarat",
+   "source_name": "IndiaMedToday",
+   "source_domain": "https://indiamedtoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUgtVXVGRzk0enRZOXkwc2RjLVJtbWZIcEdwaE9Jb0VfVGZ6VjI4VGpybmhXN1hWaFlfZGdLdEFxQzI2Rm5TcmxyMHh2a0h2enJDdHRFb3R4VV9ySkpBM09fcWNRQlFFWFRUeXA5ZUQxMW9SbFItUHRNQTQ2NUxXQ18zOUdwLXZZMFV6RENTaFZMOEVMWDNVaExqMGZZRUVFQTBabnJobWs?oc=5",
+   "published_utc": "2023-02-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "North Gujarat: Land of Potatoes for Processing",
+   "source_name": "PotatoPro",
+   "source_domain": "https://www.potatopro.com",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wVzdWenhRdjhqVW1XaFJNWXR3VlhLQjVUNndSUmJ0ejRiU2hKSUx1YWctN2c2cHBXVF9TYUZlR3VtTk5pNzJQamFvLUdoT2JzaFRmLWxfOTdIenhIcEdFYS1jWmhhV2FLX05rZW5wRm9RQ3hUQ2pPM3UtQ21Kczg?oc=5",
+   "published_utc": "2023-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Teaching Gujarati In Primary Schools Now Mandatory In Gujarat",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnVMQWpBaTBDZXhQUWk3M2xCYmt0NHF4LThhWDhnNENvQ2VZVE9WalpyN196dkY3YmpBenZyYVpUMnRpLWsxcko1dnAzd3Z0WVdlWWRHU1hXR1ZVd2ItRV9uUDFkNkN6SDc0WmU4Y3RGWFJHQ0NpbzRodU9HVjhPZGZaUDM3LUJtelZRYS1WMGZrc183Xy1XVm5VakdXTE5BNXdB0gGrAUFVX3lxTE1jVy1PZXhNNVd6aHFObHYwX0FpM1BpeTdXMXZDTkRyS2NGR1JRSE1jLTBWaFlrUVkySGpBUkhOS2VpMXRYb3FmaFlpR2tIT2ZoTG50LUF1cTFnOV9fdG9pbW16MExBbVZuWURSdzVRdE5EVHVhYW1UallXclotcW1RaTB1bHM2U0kzbEVsc1M5Smt2dk9wdzZaNl9CeWNFT1RLdE9DOHRZbG9uVQ?oc=5",
+   "published_utc": "2023-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat Assembly passes bill to make Gujarati-learning compulsory in schools",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeXpwemRQZk04VFRpSEliVHJfamJHbF9tZDM2b0R4UkdqczNNaGtFVURZa0hkR0k3QWM3ZURtN3lFMmVpWE5lSlpFTHZGWVJQT0RHUUpwd0tLLUhxZHZjUlRjZHBETVRoMEY4YktXLXVrdGZnV1dhZFh2LXBBUUN4LV9kNEZZOTVnQjZmMlY2UmNkdXFnVGpnVFlfb1ZoSEp5cjlJT0l2eklXbUI2QkVPQlVSdFZPV2lCV3ZmRUw1RFljMGpPU1hfMEhn0gHPAUFVX3lxTE1Tc0ctSzVEYlAxLWtwUkhQNU11cC0ydlpqcDQzcmRfeE1nX0JYNDlnR1FpQnVDY2R2eVFyZ2RDV2pXWWF5dkthbW52WVFTVzJGVDBHVU1kaWJZd0EzbUxwclIxUjJIclZadVJraHlGYzlSSFZOV3Q1NnZpWEtMOFBtVXB6QVM1UE9raEFIZjRwTTY5T2t2NUhNZGNyWmNKTFN6T2FIVGNETVFBamNJRjBkUExYVzJtQV8xbC1pVmpwYWFUTXZsQkpvT3NWdEk2QQ?oc=5",
+   "published_utc": "2023-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Gujarat a role model for other states: Rushikesh Patel",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHRaejVPNXhzMHF3U0Fha190YXI3bGlvcEcwaEpvZHBLR0xpenVsU2hlVE5sZTZFSXNrMng1ZjhDb3BWQS03dzJUQzVxTEhDZU9UMzVwRHVrU1FXRVpuM29fdlhmUjUwZ1FJczk1WXVUQUlzZUt2TEVVOUh3eEJrWnh3MTFuY1l3cXdHQXJLX1JhTVhqanZ4RUE5Mi1UQUt1VUVqYUpwdDRlaEdBUkFrMHgtQdIBugFBVV95cUxNV0RSeDB1SHhab2sxSU5pV19QSWNoZktNVFlyRjV4RUxmOFh6UnA0SjJqVEJNWjJFb3p0dThka00zd0dJc2lFQmxjUUkza3ZpbHVxd3kwUVU3MkJpSElVTDY3TTZtWkhCN2JsdzdPOTA4SHFnRTVIU2Z1Z3poWDdaakVEZ3k0MjRDamRZbEtRMnZYdmF3bTNmUy04bl85dmFCSzlkQ3dPdkJfYy1OYzNZRnNjMWJCcVJDd1E?oc=5",
+   "published_utc": "2023-02-02T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Press Release Distribution India",
+   "source_name": "Business Wire India",
+   "source_domain": "https://www.businesswireindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR0xQQ1RiRE45VFhBWDJEeVlZUjNVRjhSUHNSdFFZMEFYSUZ0ajJuNGV3UG9nWGxLWHRmTFFTVGtwazF3X3p0cHlYLUFRc2FQUzd4UVdMYmVUM1VsZExUZGRhUVJQMENTb05ubEVacVJmUmJnZkNyVmdQR1dsMmpPQTh2ZTBPYUx1c0k0QXpUZVRrZUJJRlNHa19haTF0cGxJTERWNUh0cV94R1lSR0l5TDd5QUFlR0c2MVhwWGJZX2pzR3dodTFSYzNaMlpJYnhrcHBDVE1RN3FHakZfcGhxX2xERFVGT2xhNmNDNWpwdjhFQQ?oc=5",
+   "published_utc": "2023-02-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RTI activist’s murder: Gujarat HC suspends life sentence of former BJP MP Dinu Solanki’s nephew",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSkk0RXhFV0NmYU1MZFZxRkRFVXNiaXJ3QlRwZkxoM1FyTTVVOHY3NkNIc0FKZTFkakNpYmtwV0M2V0pGRkdOS0E0WFpvNmI4cnlQMVNtRFM3MGVOVVQwNExfdEZTem1aUE1FbzRGYXJhcHczMnJKWmRLVmlnWVJhTVVGTmlPYmk4czdyb2pyOGpCRFp3RjFsRXEyZ19ueEp4bEs5ck1uUTY5eTdRSUY0WS1OWW1MUS1qcWhhLWVHSGthWGdmSW9SeWY1TDUteFJEeEtBV19EbFNsdnNVOVdsbHF30gHoAUFVX3lxTE9uMzlqUFFVXzZxRWh4QWs0TnliWUFxWUZqQ0FiUG42MEwwbmJmdVJqM3BndF81ODZfdDBCcFhyMDRCSl9rdkhFdmUtbmdmY244YTBUSUphcEMwOFZmdnpnWktYZk1na3ZMdVRuUG9KaVM4M1JkSUNETjMtanVuSkpFdGFnU0Z6ZFB1X1VlSHJmMm5nNnVjN2FuUE92SzdEZFJfM0pqajN6dUtuSkhvMkt3YmFrLTRuQThKc01MM2h3SlVHamUxT09aVl94Y1h3cHJMbEYxS05CcTNMUnZsZUlLRnp3VktNUks?oc=5",
+   "published_utc": "2023-02-07T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

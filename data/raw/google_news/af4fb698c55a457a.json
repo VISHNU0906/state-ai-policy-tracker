@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "Centre approved projects worth Rs two lakh crore for Maharashtra, says PM Modi",
+   "source_name": "ET Infra",
+   "source_domain": "https://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1JDbzRlYVE2SUU4WjZuZmlQYWVmTkpsbGpqb3YwS2Y2Z2Q1bU9kMXpuQ3h4aE82TWxxdWRjUFltR1h3ekR2ODRGQVRJXzN3WlZfNVppY0pFYkZQR0tlVzg0amMyNWtTU3hjZzdKcVd2M3dlVDI4ZWFnZDJJUFdGODFoRVBraFhxb2NlVlJjMFlNYlFQWlgzMk9ycmtGa2JueGNCaXBwQy0zTlVwSFQtTDhzdkZ2cENKbXptRWVHNkYwS1VvdmwtelhjY2s3Y3V5V1lUMjROLXpsYTdsbHhMNWN6N2vSAd8BQVVfeXFMTnlIanBMWjZfYlYzcVBBUGszMEVKZWdJeTBSaXlKLUNZLVNROU5SWDN5WGJuYWxIZktrQ1RTRms5UmxzOUVzc09Jd1RMcExoaEU5SE91UE1pdzByOS1vUWxteVAzTWRIaDNvZkJOaXMyNHJac3R4bHlWbGdFamZuaTZSb0cySXVnRTVVZkhZN0lJbzh6bEk1ekN0QWVjalBzaG1oREphYUREVWx2SExoRDIzSTB3T0dQNnBNemk1WEJNODBJX0RFZEZXNEE2NDBpb0dNZG1oZk1xWEVmdXZKbw?oc=5",
+   "published_utc": "2022-11-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI helps detect 3,000 critical heart attacks in 12 Maharashtra districts",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEtZRFJZV0NuY21sSE8zOGtxYkJwUk1YZHp5aVJteHItZ0taRWdxeU4xMmROZDlFU25LbHdkandzal9yU0dwX1JUY3hBN01PT0xVeEJZOElMNlNEOEdvT09zcGxNZGU5eWotZGNaSE1Oc1lZenVLcXhTN2Nzeml3SF9rQW5CbFZCckI2ZEFEUUpxc1JuNV9Xc2NkT1NJMGpBeWgybWJaaGFiVFpuWlVnS2FORkE2a3d1NDN0TlFHSWNtUE1DZ1dv0gHOAUFVX3lxTE1oSUVvWXlZTVJ3QUFMTV9LS0pBY1E1dENWU0NfczdqeUJ6ZnBMYmhCNjFDTDNkSUROd05hX29lbkFKUDI2dU16SFVCazVpNDRwdURUVjhYMFQxdFg5YVZZcEJtaVJ3VXdldERZU1YxZjRNM1NvdDlfZHZiRHpzMnJkeDBGQlNYMlNpckF0eXBzUnQtZWx5SzgxQ21SOTNrVjlPc1FsN2ZJaXhOQzV6dFJrQk4xYVFOT2kyV0xhNnlQTWcwTEFGY0VPOWk1UEpB?oc=5",
+   "published_utc": "2022-11-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra farmer's son gets Rs 1 crore scholarship, set to study in Australia",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXIwTFFGSjVVdXJCcGxKVmhBYkt5UDgxLXRrd3dzYnpvOGpadXBiVnBqZkY2Qmw3S3NQNHdlTmZTTXdkbDhXS3g0UEZTNE1ycVk3R2l4MzZkMVgzSVViOThiM2ZGT1F5Y0wxS1FiQlpXQW4zdjdiV1VySmhXU3pkSEV2Ujh3OGwxTnBIOXRwUzN5XzFaeXNiUlNpbFVUNV94ZVFiRXJxUl9WaEZncHJ1d3lGdVgwXzFEdnIyOTA5ME5tTDZjbURpUmYxMDVZajRBWENpbFZya1E4Q1BEcG91THF1SdIB6AFBVV95cUxNTzU0VHNIWW14bXg2SW5jam1NTWpYZzEtcGVmSkdOdG8xay1KdXlmQkN2ZVh1UEFRTDNBMWxqTEV4Ym5oQUYtT0EwU0RsSlhmblVtODBwTmdGMl9wWU1KcTE1N3MtUTRPQjQ1MTNuZFhhUHFDV0V1VWlucXZwZE9saDRsVlItX0FnWk9iUVRPX29zeUVBeHZITnpSN1kyWUdER0dJUDNieHlKTWl5amtqZ3hKY2t1MVRkOXp1bks2UWFpdV82UnpXaFdpNlNCUGQtMGVxbGlxbC1XOEtkZzg5UjdOODRUNXBM?oc=5",
+   "published_utc": "2022-11-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Women's World Banking signs MoU with Maharashtra to strengthen BC Sakhi program",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUtwVHNyVWUydFNqdnpHYnRaWENXNlZfWWpsYmdJdG1xcTRGcDQ0aGcxZk9zc21CemZzeFltcEQ1T09YSlhtZVhSWVNybkVjV1RUVXdBekxKRmozWEI5ODRSNVVrdF9BYXM4STROdV9jbjR4QWtiMG5yaTVYY09aX2JvMXlwUE1mSzgyMXVsaEp1dV80ZnpQSDVxS1pEQmxDMV9zdWhmQ0dkMWtDN2RZWEVCN3FWMjVoUkJCLTRIUUpTdGNfWklMbnRtX1dCSUI5S05rb0VLRFBYZ9IB3wFBVV95cUxNcW5rYUpPWTJzZzZJdmd0N053emdQNmxsekhtT1VVZ19SWUlDUncyMERyMjI3MFlwVnFla0tQUHVCWWZYWTRaM2V5RndRMUdrZkVBbzAwZkdJR2k3dkN5SDBmLTNwc2pOcEpZeDBnX0JJTDRZNEJYc1pFekVDTDhyNkFsRkVYWjhNOWdrRTR3SnVtc2RDX1p5NFNmRm5JUU1IS2hybzNiczdEczZHXzI2Z2dXbjBUMjFObGo3YnNTekQxZVM3MGl0ZmVUU2hxdlZWVG9CaUhidUVSXzM5cUU4?oc=5",
+   "published_utc": "2022-11-25T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Viral video: Safety net foils man's suicide bid at Maharashtra Mantralaya",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRTVlZWYycUROTUd3bHd0UXpMVEtDSHN2aDF3bW9ieDJxcmJoZGZ4X3AtMk0yN2dBZS13M3psUURvZFRXSmo1V0JjNVAyeGUxQmlMZ2xIYnVhR3VneHJCQkYwQU1malZvZER3MG5rRTctZ1laOWpJTFk3YmltVk1tTzU1RnNac3RFdU5tWm1DekM4c1Y2eWI1M19lZnFBQmJXN2tiV0VER095RHlsR0pNMk5PYVFIemNqOXRkdzRybUtWdTBBNkpobjdvclNwZ9IB0wFBVV95cUxPRjBlem9DUnREeXhBTnZWSkNlUDJJU1lSSHJWMkxnbGdhdTU5R2FtQlJwMkhON2s3b1cxTlhva0ZibnZNOWZmTnVpVHl6NS02a1ZxcVUzYmtkS0QwU3lSTlBVeXVld2JGbWRIN2UwamplY29BdUxmUndxYjhqZ3JwWXBOeVhvZm10MjVOck9EZXlwbTdaNzV6UTlVaTMyZXd2X2JJU2dhNUlsb2xZV0l6WDhtQTl0RmdEa1ZGQk5OSjdLZlpjd1I2MWN5MWd4aXE3R2dZ?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: 5 months after take off, Flybig stops operations from Gondia airport",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjdhYl8yUVRKY1lGMTFBU2xpWEZJY3haZEotSHNFVldibXNHTFhoek02dDFKaGQxMGxpaUF1UXJVRUpJal9UVy00b3RmV19YNnBJWlZWNHBZSzh5WDBSbmh0NlhVVU9WMzI0ZTZaNV9ZYmxablppd3pJdE02R1F5b0o4MmFHaGE0NUxTSkJ5OU5OcFFpdFRmaE9YWU9UbVExNWxGZnhGNGE2QVlVV2c5SkwxLUR3TWtSYktTQXp5WHIwcXA5NTVyVlEzbndmdlBqV1Bpc2JleW1hbTV6Qng0a0JwU0ZmMHPSAewBQVVfeXFMTXRjWGZYcXNZM0ZQLVQ4NnY5Z3VaX0g2dkU3dzhWLW92YVltRDU0eS10ZFlNbXdsN2xEUGpmYVpHQ2VVandQTUl2bXdpYV9SOXhVU3d3WnpEMmV5RWdjaWw2RU1sMnZMckRfTXNGMUZuamI2ZXV1WUpXMjh3S0RxOERlWXRCNHhtUm9yd1dzTGcxOUMzZW96LWNSYkNEVnhfSVBoWmZrX2ZyZXV5RTBQLVUwVUxaUWVRQlV1R2RqR3FMa2dSTGdsUzFLbUtlVTNwRV9KcDVFbDRqVkU1dFgxSkhpMG55S1ZzbzJnNVU?oc=5",
+   "published_utc": "2022-11-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Salman Khan and Maharashtra Dy CM’s wife Amruta Fadnavis get Y-Plus category security",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVDhKTlQ3dURDRFNiSmpreTZnRmhQWlZPTXo5UzI0d1JNTGJLN0RPS0xXa0tqYktTV1ZtWkhlaGxIRC1RZGxRLWdCVTNxT1FSTzZSU19paFJ2ZmlwN2c3aTZHTG0yLWo2TGFiTktLWTlzUVJPN29ZRG1mUW5zcXhINjFsZkJKZ3hLUkFqSFBuWmJzZlFkMWY3V1dVU1Nsa1M2d1duUS1SU1VhWGlLcW9wa19LTmhnQmxyb3NjaVBNZXZ6Y3N1aG9iS0xaX2otRl9JeWVBS3lkam5Yd04tWDJLS19IUGpFUDBHZEHSAe8BQVVfeXFMT1BPbjJRQVVrWi1IRjNjXzZ1Z1RocDFtSDF2OUZvWm4tYzJFNnVLRm5ReUg3X3dzaG1DY2Fxc3VoWk9lOGhNcUlCcVZ6Q1Z6YXZlV2Q3elk0V29DTGxNS2w2UU1jQ0k4MWxlMlY5VWRZOVhPb1RvblBjbWhjaFBNQmdtWS0tRDBtWFZQaHVhVzM3VzBHRjV2cmRudUtEMWlrNU5IUi0tM014U1VFdFExaGxMNEtlSGo0SHRrMUpFWVRDa3R2UGZqTW9ibXhyN3RmWXFNMWVvbE8tUmY4MExMdzhmNU9lc3ZQd2xFZUdPRFk?oc=5",
+   "published_utc": "2022-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra: 7 dead, several injured in a road accident in Solapur; CM Shinde announces Rs 5 lakh ex-gratia",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOHNiVFdJSm1BcmtNNmV0NlE4dDFxaGpPRlNXaHBUdkZlN2tpZnF6eTdEeG9tY2tsT2luTjVkaEJRVmFaV2pacEdQaHdrem8wYVVXLWtqb3VaSDVicE9TUWlKLXlRcVdKZ3ByRmZEVlFuOFJLQkxhUDhmbVBmaE5FaXltLTUwaWY2X09jb2xJNFNWSkUyNkNQRG1ISlZlRDFqbG9paF93MHNMUWM2ZzREUzJ3Z0thZER3cFVqbmZsYnJZb2h2WVFBMDg0NkZMOHdKR3FQR3lHMWFDeklGU1RvV3MyNUR4YWpWUmZQbmkwM1hLZVhKd2oyQnhn0gH_AUFVX3lxTFBoOWZoQnoyUXQtcVdjM2NnRXpCY2J3WW9lUl81SXFIX1lmSlUyOGRKbXpLVnpMTktCb3E5SkJJcjVkWF9vOF9uMy16dUdlNy1sSEtWWmFQR2M0bjE2dDBZYldCUlNROHVQSDEzbnIxSjZzWGhkNEpmeU1aRU9tX0gyTktTdFE3ekRQOTh5SVZ0bTB5S0huLWtfZXUtLXdGTlNwRlVZLUdWRzJoSlJISmdhLXlyTHFOYmpiYzUwaFNVTHdON1Y5YjVaaDZtd1V1NEhiNzZjS1d6NzNNYmlDLWxZaUVNRHdpQ3BDRHFLczJ1aE1tSm44RVpVTHpkLWNLYw?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra state government sends personalized AI Diwali video messages to over 4 crore people",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkg2Um5Xb0hFTk56OUctcGNBS2lYOWc2TlVkNXU5ZFNYZlVVS2JvX0NrU3BWLTI1bmNOeG5kVzd2dEp6MlhyVTRwNDNDb0s1RmtJVGhJZ3djdnpVVVJJVDR5TXRVa3pZMkxzVnJiZGRKX0lyQWJ0Vk4zc0Y2SEs0MDlnb3Q1bG1DcnlUMU9mOWdyTGl3aVhIa0hyLWxPRDYyU3pDN1Y3R01PbHF6NDFZQjZ3ZVBKMTRLQ3Y4Y2F2TjVhTGh4eERCTzBnOFVud9IB0wFBVV95cUxQZENkY1JBMEZ0aWd5X2phOG5TbEh5VkRfWWcxVTdQQkRMT0JoeUNWcld6ZU50U2RENHdQaTBscEJFUUlOdU9XV3pmc29yanRoeklhN2lqNktYSUN2NDBtU3A4bEowX2hfMzctWkYzNDhKSnVyUHdVN1lXMzF4Uy14R1hhUUktaWJUaEEwMWoxdXV3Vk9ibW1Zd2JCQ1NVbWxwWmd6d3JxWkdIalppY0NLMS0xcDd3VmJQQm5SMDZVNkVmUFhUQUw3Ym5kTEZ3dXVlbjdr?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Cabinet gives nod to MSRDC to raise loan worth Rs 35,629 cr for land acquisition of three key",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbDFZNjBiUHJEMGx6NmwwRGNMWGplXzB1eHZLUXdHU2tLMXRzLUpqS1pqQ2RmMngwTWJKWDVOWERZVExUc2habjFZSmlrcUpFQ1dEb1pHMHBLdmpTSkNIaXU4TkdMcVIyYkZvSGd4WU9Jc1Z4TEtiTXI0ZFMzX3l3bEFZZ3kwVFhtc21tRk83OHhVb3pRVVpJanZKbW9zWW1yVFozQ090N2k3X19Ec0FaWnVNblhXT01FZmtqVlVoRHVhei1Id1R5dDVSUnc2VWJ4NlFpV2RjRWpaY29qSGloeWtkLURNSV9wbjlPZmVRU2w3MmxuT3JIbFl3dHLSAYICQVVfeXFMTnAxaGJMSldoU1lmdG81aEZTQk1nYVhvUkNtZHZuNHZ2aDIyM283S1pVV2taM2NpWUw4VDZRRXIyTU16RXNOU3dDX0VlNmh6WURkeUxrOGYyc3lBRjg4SnAtbklQSWZPM1prNHM1SmlITEEtYVVod1BJMC0xbmJGTDJCd3V4NmxmUVdfY2lqU2hfQzNLMmlqSDdjR1JzeE9zREJiZVNTeV9OQjk3ZnplUGxjLXROYXNfY2phRGRxRkhobFBDbnk3RmlRX19OZGx0eHhJeWtnNEFjakRvdkhVYUVJb2tweTY0UW9zeGU0Wm1pZk11TFpxeVkzdENfOEN0R3lR?oc=5",
+   "published_utc": "2022-11-17T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

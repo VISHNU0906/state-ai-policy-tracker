@@ -1,0 +1,53 @@
+{
+ "query": "\"Assam\" AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-01-01 before:2024-02-01",
+ "items": [
+  {
+   "title": "Assam government’s new schemes are about discrimination and communalisation, not justice",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDduZ2lQcEJLbjdGNlpFLTgxQlJQUEJqTm1aaGgydTI5NlZlOTh6SjYzS3RaWEVDTjB3bHItTVlZcl85NVcxYXY4Z1dtaUhFOGF4SkdqTWxUQTNFVDdFZjVVVUZCUXpfWDJnMGxWTHp2eVN3Rjhzb1N5ZHVXXzZyLWs5MnZiWW9XWFFSWFVrTmhWX2k3Rk1aODJ3SWhLbkhHTDFsYVBib2RST1dBeHZpYk9INkRPUmdFWXpxZWdvSkEwSDBiUlVwNWFR0gHQAUFVX3lxTE5vemRqZFZLZklqVVJoOUtxakowbzQtR1BpaDJHY1dRcWp0R1dJT0wyU2NnRkplbnBFSzUyd0h6S1pEbWZRQ3I5YVdUODV1SWpxTlI2eWhESnBJZENrYThLcHR6MjBTVWpKcmlDSmxXblpWN25aaXhkUnNaSmQ0UC03anRMRFdGbHJBV3lTSGNYV2VkQWdWVTU4WHo4d05GN3cyZTZReHlJS1ZTZ2pNWTJtLTBjTE41VXBCX05VeGtZYXI2cE9hNExDZUd2SGNVeTA?oc=5",
+   "published_utc": "2024-01-16T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI recreates Assam literary icons",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3dCYVg5NmxNRjZzcDF4SzdrbzJNYW16M0hjLWFBTGF6cUR1LVE2eGM4aXNHb0IwQmQ2NzF6V001aURpZG1rTV9CMnZ6NFJBeEZ2QWxkNVZfMEJDN2J6eFhmNE5JbTJQUTYxMS1OU1BSZVRjMjVxZ204QmJ3MFJIbHFBWmhhZWR5b041SE5tUE1NZ3ZRaWdiSm5OOVFGTEczbkVGbmxwcXAwbGxBTUHSAbMBQVVfeXFMUGpCSkstdDlyN2dHcnBmdmROX3otenpfNjh3a1JmTGVlXzBHb1kxUURpSTkycXVHWElRNXFFdjl0dVMtemFFaHdHZXRMTGY3SXIwSUJMNTdxOXdxZmNXekxVZmhUQWlWZU9Vb2tuWE51VUJ5eW5oVG96SFQ1UGpxblluME40Q3Ywd1R0RUxKUVU5eUQ2aE5QUzRkcWI5WlJUdXRDeWRGZXExWlhlbkY3WkVWS1U?oc=5",
+   "published_utc": "2024-01-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Delhi records lowest temperature at 3.9 degree Celsius, visibility zero",
+   "source_name": "The Assam Tribune",
+   "source_domain": "https://assamtribune.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVNxNDBYNDJzbjdKSHE2OWRPb3pFbWhsTDVFcnN5SGZFaDRYRFlpQXpDbDJDX2lmbkJoMGhTVTJxSWVwd1FUTDJDdzBCSWFlZGNndXlfZW9tZE9wNDBqT1p3WVpPVHpoN3ZNNl9rTUx3dS1EX2pOT3dQS0doWFR6bVNKTzdUajNDQ2hxZGtobzhJZFhYSWEwMm9SREFkOUJ4VksxenNwdEJkbVJaS09ZedIBtgFBVV95cUxPcmY5R1M3bXVDenRsNm1SVmhHWnhCdmtxUkQxdGVudnluTjVHTnRNc3UtcmJGa3dpamMxeXV4NDhvc25oa0pxOTlyci1rSHRnVDJnYjkxWnh5MmNtSzZmZ1JtSlgwZll1YVNldTFQMVdrRU5qVmdQcUxmX0RrNUdiTElnczhfZVZxTmhUMUJfdEE3STZZWjNERXEwaUZUZDF5SDZENDlTc2pPYjB3bEFmTmMtbWlDdw?oc=5",
+   "published_utc": "2024-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Private madrassas in Assam will be reduced by 1000: CM Himanta Biswa Sarma",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS2h6d2ROQ0pQZVdqeUh5TkQta3NuVmVhQWIxejJJdHNQSFVPZkpvZTVFZVNLUm5PYzh5VGJUMmE3NU9JQ05iU3pSNkJSUWFQYkJpZlBsb1IwS1pmSl9zN2FGZGhnYWhjMjJJMFFUVXBNUDNqTjdiYXFSZ25saEpmY0xwLV9UYkM2V1MwdXh2YUpIaERMYjFycl9jTkg0WHBUQ3FMWklFRlRMTURzaHhpRDhVTm1LcEw1UGd1TW9NbmpGdG12VkJyUzBJZEdfa05OVW1mT9IB2gFBVV95cUxNTDVGVndkbW9RLTd2NUg3UmxveVBXZDdwajk2VW5OZ2h5RUppaXRvY1ZCVWM2a0kwdE1DMkhnV2plaEVhYWdoVmtJek5vUEtDMDlKRnN2WndRTFJ6Sk1NUlQyLWliaWVuNXBxTnhndmRTMHVzdld0U1Yza1ZBTjdtOXZXWEhfYzZvLU1hZloyck5uZlcxcW4tb3NMMzRMUjJ6WXZycXVYY2I5R2dkOUV3QTJOZkhfVlFWSndjb3FPT1hzT2g0NHVwbnVSbzZlckx5WXF0TnpldWZ5dw?oc=5",
+   "published_utc": "2024-01-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Drugs Worth Over Rs 13 Crore Recovered By Assam Rifles In Manipur",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUkyTkh0X2MzbVB1STdrSE95a0QyOG5hb0MxM2R0R2FaUkhCWUpzTFdVeG5yQ2pmdzVOT3hSdjJ1VTczelZPWXl2TGRYSG9RSmZsNFM1aDVrYWQyMHV2b0FEWm9HQTVNeGFRZGkyd0E3RnBNQktmYzVLMkFRWE1NR1VoS1gxTm9TWXM1MktZRFJvZGlLQ1NzQ3B1UmhHYU5waG9CNUF1UmJUMEFwSDcyR2h6ZExzSUxjYmgwWWZ6d3YteXdUTDBXOWtlOWlVUlHSAdcBQVVfeXFMUEk1Z05SbGNzS3RpV2RybnJiaHBLV2l3aHFTMzFIVXBadFhITFhaT2Q4NDNwb3RlQnVPcmVVc2NBcDZaWndYYjRtV2V5X2xTUG8tOWU1OWlzTXRSSUxhV0h5ZnpFbnRLTjBwb3REX0otb251Q3NlR29wMnR2Q2JwQTE2ZlRNYVFYQW1LbWcwNlU4N3o1a1hPTnF6ZFNLVGxaSUJTWlFfeVU5OFVpN05pdkNtU0NVaHZoOHJFR2dCN21Td3NEM2FrWC0xTjNEZEJwYVYweWNXMEU?oc=5",
+   "published_utc": "2024-01-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Assam moving towards advanced e-HRMS services, highlights IAS Shantanu P. Gotmare, State’s Commissioner & Secretary for Administrative Reforms & Training",
+   "source_name": "APAC Media",
+   "source_domain": "https://apacnewsnetwork.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbXAweDFJbmJUeXUxcDNSNGoxTXhndUMzTWlTb2JON25Rb0VQbExtd185am9xd2RQaENQaWRaa0oyTDFJTFBuU2xBTVJiRGlSYlVMcENhR1JIaURrS0h2WlAzRW9FeDRNWmcyUjV2WVVVM3JoX1NKLTVyUnZDaFprN1o5aTN6N3R0RmJmUE1iX0F1dDdneTFmVmwtZlFqcFdoTjlQZWFKaFpUSWdmOUFVTDVfd0FGdGZKNFBYaThMMTZReGRLZnY3X3Z4QnpWeUZ1QWFrc3g4LXczUVNvUEszclJISEw0dzJNVWh6SXVxMnNzQ3M0X2VBLVgxS3NfVmxUaXNRSVlRNDk1S2RMZVJJ?oc=5",
+   "published_utc": "2024-01-11T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Andhra Pradesh\" OR \"AP govt\" OR \"AP government\" OR \"Andhra\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-06-01 before:2023-07-01",
+ "items": [
+  {
+   "title": "Soon, AI tools, machine learning to augment teaching in Andhra Pradesh govt’s primary schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkJVSDU3bDZrcENsZnhIaXBBbEM5czduc1RvLXVhQnJkWkpwVzZxUUlnbnMxWUZlZDBjVlVUNVJ3TXFYWU50VURFalBMOURBenllc3ZjRU83QU5vMGE2dFdzd05yZFBlampvdEtocVRKZUFsMGJ2TU1aNUV6SUNmTmNLYl9fZzlQYmRjcF9ERDVzd3ZRTDZwSkJOVzhqajYxUTEzRk9oV2RYa0xEYkZxZEZxZFVNUDQ5TmQ1SGRB0gHEAUFVX3lxTE4yc2NFLUt4WnlKVTJEYi1odVpyMC1Ebjc1YWdqYmpzRFpxOVJLZHJWQ0NmS3QwYlIzejZDeU5qNmJrdzZBcGVRMUFpMmpCTWQ2UDNIZmk3QW1CLXphLWRTeHBjaUpoOFlaX2NFTTY2SExzeGZBNGhzX25Rdlc2eGVWVmZXdXJDeEM0RkpnbmhDbFF6Q1dGQkMxVTZpdFhZTU5nQUItZFJzbUxKREQ3R2x3bWh2SDRzaHZrWnlLdkJnYUxGcEc?oc=5",
+   "published_utc": "2023-06-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Aadhaar based face authentication transactions cross all time high of 10.6 million in May",
+   "source_name": "PIB",
+   "source_domain": "https://www.pib.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04LV9JLURORTMxOU41UmNvOS1TSXZ4cWNuZUZ6UWpRT2VORUxld3lJUEFEOW5CWEdlM0tVWm9md19sTk94ekxxemtGWEJiZWRlY0luN2gwSVhCVGY0VjRZTHYtbWRFY2tC?oc=5",
+   "published_utc": "2023-06-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI, ML, Chat GPT will be made part of school syllabus, says Jagan Mohan Reddy",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzgwTUpxYjZjMEk2aUhTcGRlaUUtelNDTUprMmxZSlJuOXFteGMwVUlBanFBUzlFOGVodG8wSV9ORW8yUExrODRlRUR4VHlfeXdfWGRIVkVJY0ptM08zT3NJQ2thVGU1TmVYUWcyZkNmUmFFdndnOWMxVFZ4RHZ1VUJuUWhXeE5VRUZKZnc3Y1A1OVdaNk9ZNkpQT0JJNjJTd29iY2sxWXZzV3hzMlh5emhqaEFJS0VNM0VBX0ZLOFJGeU1OMVpkSldyNkpJSkdWWW5XWVkzNF8wb1ZzU29IWHVR0gHoAUFVX3lxTFBYYTAzMHVfaE04cF9UbDBKTk5USVI2MXRkZXk4X2lhUU9KV0JZMFd3OVpnOTBaenlWdnQ2TEhzSWRtcE5kSnVHLXRfLXJTTXhlOHpyMG51aTd1cDNNSkJpaUVEenpJcFk4WFMtbm5fbnQ2UU1tRFdMaUdhMmktMkk2REJpc1ZqUldXV3lPb3QzYnE3dDdoQmxfdTFTUldQVzVzLXBzbWpUUTh0dnZyQ05NQndhSkh3YXFrV1FBRXlON0F6VDJqdTltc1VvMG9FTzR0enREODJTaXRoVngxczRxR2FCRWNpcTU?oc=5",
+   "published_utc": "2023-06-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jio Partners With AP Govt For 4G Connectivity to Remote Villages in Andhra Pradesh",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2RwVldYYjluSDdYUGtTOFcyWHBiRXVzR3plTDhBUnlYSU9zWlNDZ0xJWS1NNXUtTUlIc1YzOGs4ZmZ6MkplZnpBbS00TkRvbjNmWjk0QzlkOHZFNEwwNnZtZzhkOHQ1dHBJYmRGU0hBdm8wbHk2LU5lY3d0NmtrWkNQSTgtVFJaY3BwTUhTSDhqbTh1bXVIRmtZQVdVU3g4VWE3TlZIdWtHd1VaaGdtQmM5VzVDSG4xcWNSZTdYd3RYZmNVLTIxeDA4amhfbjFwNXdn0gHYAUFVX3lxTFBnYXRBMTlLNGNrdHpTU0dTTmthNG1rbEtTZnlSNXdBMVd3Zkt3SXVsb3I4eE9SblBiRjEzakI1Ry1HelNaWVFQOXRFTGZhdHZoeGpFR1NIYWEyNzduQWJHWnNTUFUzS1NwSi00SzRwbkVUVUZqNUVLTVY1RVFZQVhfUVE3V0I5VXBLS0doMVUtYnpKT3B1dVZkNHY5OEJ5WTcybTYwSC1USGE0cjRxbHU2S0tLU1haRDVtaDJtSUNOeUlSR0pyTjBQSWN1Sk92YlNzSVdYbmMtVQ?oc=5",
+   "published_utc": "2023-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jagan urges Andhra Pradesh students to aim for the stars and rule the world",
+   "source_name": "The South First",
+   "source_domain": "https://thesouthfirst.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZlNrSXI4ZmVsd2JsZUUtNUJfSjlrU0UxYlBEWkFhZWhCdzlDVExja2xMVnMzT3VNb1RZaU4tY3l3Z1FZc1drY0JIVGJPVVNYMzZUcmFITWdkWHl5WXNoaVg3Q1dOeENOR0YxRW5yY1ZlamxacE5fUnhsQjZBS1BTSF9sdWE4SlJfT255Z0tKN0k2TlZrWGxZbFZUNWJHbF9hZHlMUkdXZXZYNEhpelVlVTFNWXNhWWM?oc=5",
+   "published_utc": "2023-06-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Full-Day Schools In AP From Today",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVZZazVoQUJuNVVVMEp5TC1jQjRodHN5VzRXVWR4YUlFTVFmbmdQckdCdzBlREhUdjVKUmo1M2V0d09jMGRFREEtZmdkYWVqRGkwZW96WkxFU0JNNURHQkIyUS1QYUNlWXlyZDZ5Y0szMVFNYzBGTDllNlc5S21rZkZaeHhjVERVVk5JVkZtRW16ZWR4VGdUd0laYkRBWW_SAaQBQVVfeXFMTXNNclA1RWtUaHNMbk11QTNfX3pUOE1UVndkMkg3ZmhtR3FTd200RDdsZHlSNkFnbTBneDVQMThwR0p3TnBNWVlzeG9mNnRHbFJsTzJzUE4yLU1obVlKSXJTU1pLbkdQMWV3R0FFV1ctdWY4ZXJBQVVYQkd5SUZOeDhGaEZRVTduYmpRZUtGbkxKNlF6eGhOMHFrRjhvUDY3S2dvaTg?oc=5",
+   "published_utc": "2023-06-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Andhra Pradesh CM Flags Off E-Autos Under CLAP",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRjU4eWNkb2twbXljemNkVG1vUFhQcGFZS3NWUTlHeTN6b3hQdG1fV0N3WVlUSEVpTXEwMVR4ZVMtWkdYUjE3WVA5VlhNOGlOSkR0V3pzZjNqQUxMXzQ2ZURXMmpMcWpYNTQ3TUxzMnR4MWJYRUViTUxjUXVoSG9mSXMzZWl1U05GR0wwQlZVLThGNGVTek9ialF4b3I3LTdXS2p0ZHdXWkFaU2tFQUJIT9IBtgFBVV95cUxPT29admZ3ZWFHdWhINVp2QVpsbTVycGJ4MHo3dGlxeUw0cWZQSkNUT2psOUh6bEJBMzRidWdRSzVQLXJ5Y2dRcF9OZzJXel80cFFOcGdBT1lGQzRreERyZ2dyZU5qMHA1NmxPWGZHVFNwVXlXdnJvSXdNbHZyNWt4aFVsNnZ1V1BqbGZzVUttZWw0aFNXRExMUVh2Q0s5TmpUWG8xUmJBWVJzelNrMlZLOHE1YUZHUQ?oc=5",
+   "published_utc": "2023-06-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "BJP's D2D Campaign in AP From June 20 on Central Aid",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczNrdVVEdl9oQXFSMDY4MDBic1U5QnpBUER5LUpjZzhkNlhGLTRUaW9BUzFrZ2xzRlJNd3RCaUhqeDhwVXNuRlZCYTNnWW9DanUxU2VxcEpRZ1lVZFJ4N3gxWGlmZWNRckVtRElQTXZ3WktwOEVKSks4QmRzTWczX2dyX1ZsTVRZWWhoT1NFRFd4M1czWUVzZUlsemNfeDlMQ2fSAacBQVVfeXFMUFpKMm5qdmpqNTFaYlRwbWcydzBMcTFjcDJBdTc0ZG1MR1Ixc3lOY3hoVExOa21JVWFUUnhHeFZoQl9pUjJDcDhsVExwUkVXRkhoZkVCMzdjQzYwTExfdXdBaGJQbXlWQ3QyOEdvSDEzSTI4aThicmFHYWR4aDA0WEcySHdZNkM4M1RycW1sRDI0UG9LajdrQ051OVQzakE3c1dlWmFldms?oc=5",
+   "published_utc": "2023-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Kapu Corporation's Head Lashes Out at PK on His AP Tour",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVlPb0c2VnFYUkZLNjVId0dKeXFDc3J5YjJyOVhVX0I3VVIxTUM2bjNvY1ZCdUVwclpnMkI5R0lYbk9ZTWZZUl9WSDEwVy1lZnlGR1ktd3hnbExMWFl5QXlmR1Z5eVNtUXI1b1RCUmY5WWxxSVM0RFZqUklhaFpmZ0N5dEE1akthN2F4TjBXcTJIQWw5RVJvSHhwSnZDWm9iR2xKc1BlV3poR3PSAbABQVVfeXFMTm9YdnlHMlhzN1FvM1ZuNW9JeEdLVzJDQUhuRjMyVGtiSms0ZF8ySU1FMThQbVNXbW1yODhuc0J6dWVVSXdrQ0VUOUE5MVRoc3oyTzBUZ3Q3dF8wMjFTWHE2TnI0dVVDajdMMnpUOWhMUVN2VXZ6dERyRHVTWGhiRjFDNWpyanVLSGg4SGdQRzBYeUY3Mm03dUxhaERwUHd6blA5d3p6NzhiNUhUTV8tNmQ?oc=5",
+   "published_utc": "2023-06-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Need Change in Examination System and International Baccalaureate Syllabus: CM Jagan",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY2RaZzdEUnAzNVNTal9YN1VpeTVFcllDSjJsQkQ5cS1aNDVFbXRUNjctY0ttNm9rM256SHM5SDBOenhvY0ZOVHZDdEtvc0ZRaWN4LXpsXzZUdE9xODRtNF9WUVZLQXBHaHJZNGlXOUM2RW9UN0pVZlFMOURGLVgzdEEtOUZIRVBYeHdIVkJ4RDFKQnVRWVo3aUJyQ0V4NHJHTF9Uc2RzOXY1NjJ6OWJ3SWdyMXlNUkd5OHEyeVNjTUNHZFVtTjBYSFdhSFNvM2Vk0gHWAUFVX3lxTFBZRUgzMVp4bktpdmk0a2lKNmVKXzY4SzNCeElZZVVqQms4bVBMUEFVUTc3MWU0SDB0R1JfNWdfanF4NFRvYXVuMXR3cm1EVU9DcmZCbkZQSFNLZHk5Q0Qya3o4V2xBb3lZeUJvalpYRVAyWFczS0RUME1qaEt0em8yTnQ0RFowcWZhaWVlYkpJdkJNa0YwczV3R0xnc1BCblRTY2ZZYWZLUndmaEthSmJ5OVl4LWlIeERMRWRab2xJMlNZNlFlV1F2QnZWZWFHMzd1UnVLZEE?oc=5",
+   "published_utc": "2023-06-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

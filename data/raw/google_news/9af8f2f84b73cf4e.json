@@ -1,0 +1,37 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-02-01 before:2023-03-01",
+ "items": [
+  {
+   "title": "Maharashtra: Amit Shah arrives at Pune airport",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVV6Y2JFSlVKc0ZzaTdoQlRzVGtRTzRjbUxPU1ZPaHNjSVlNcHppWXF2ODFKQUFWV0lrZGZPamF2cmQwQkt0Nm50Q2JfdGQ3aGN1UHhOVGxZT1ZRRUZmaEhGR0xud2M4eHVEbTZnMEhLZWdxQUhCYTlTeVhtUHRrTVl0Y1FkR1NUUkk1bElXSlltUnJ3aXhQT05WYklLX0hNNEk2Smk1V2tyUEJSX1hWRXJWa3c3cjjSAbwBQVVfeXFMTUVjUmkxUXFGc21RU1J2Y2hUaS1KR1hMV3FfcEMzVE5sWGNCU2ZfX0R6d3ZnaHVfWkY0eXNOemFhYjVnVjRwT096N3VkOHJ5OGx0YTB6S0JoZ2lGU1p1dFVHY08tQjFJSUpWYzZoY2hhSTlYY0Q3Q0p4bkJlUE1xeUZ0NlRocUV4cU81T21rcXhoTzRtT0k3OTFKako2NFByejkxM1Z5VkpxOTlHYkEwbDh1M01aUGZldks3NTY?oc=5",
+   "published_utc": "2023-02-18T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bank of Maharashtra eyes Rs 10K crore business in Odisha",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnZqemxIX1dRanVPMGF3ZjdxbXZ0U0NuOHlzbFZJaFk4V2NFVFMtTm0ydG9uVzU2V2VpVjAxeFZ6bnZoWTZJRXZYaXRvaEpSbFJWRXdpWjFUejlZRjd1OVJxd29lNVZQMklaaXpKdzFjallhc05NcUlRb25sY3M3bXhTemhoeHBmaXZ6TDFlS3NjU1VQY1JaVnZJNGdObmxsdF9vTUlkRHM0NlpZbElxSTdjZDhjenRfUFNVcXBVWmo2NWNtaEc40gHUAUFVX3lxTE1jT0lZWHZ6TVF6eldCWHZLaWFENDF5WlB2ZDNPLWNBQ0xWb3pLVlR0S3lqR242VzVMb0NEaHJPYllkTU1WVmdRSUhlNFAtcGQtUjItajJXMElmVWVRVFpNelJTU1lnMUVrbVlUY29aM3QyU0RidEwyNE50RXJfMDRjTUtJZHQ4VWtINkNJSlY4U2FwQXpKQ0pSTlNsUEJSb1B5Q3ZaNWtVY1BuT2xRQzFDTjN4TjBmb2FCY3pvX1RKLS1QQVJDN2tCX1V2SGNWOC1ON3Ba?oc=5",
+   "published_utc": "2023-02-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Businessman Arrested For Rs 2.26 Crore Tax Evasion",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVExSWJkMWNULUowUHdvSS1yTHVVelRzdlk4YW9jQnlvZkJYS0lsMko5ckRlV1hJcDlSWUZhOUhDN2VqNzdmZEJ6dl95SVU3Z0xUS2Nxb21PYmtXaWY3aWFaa1R4VjVLU1Y1NGRvODhDSGpYUkxnVzFyMmRiVnNrYkg5elgyUjJUdm9SRjdmLUE1YV9Fa184VGIweGc4cDdobnFCeNIBrAFBVV95cUxOSXZadVJURVp5ODBzQUN5QTM0VlJSeVM3b2J0ZEM4cXVXbG80bmNNbXpxMHducTZqTWQ0N3RCUmhyMVptbTFWVmNmU2JTc1NqaUxwY1EzWDlKQ0NFZzR1dTliVlQzNmduVjVsWTh3RHBxODBxRFNnQVBVblNKYXFqdUtnWW82YlZnSWU1a1Q0UkRIUDhETGR3RFlpaVNzRkJtZVREZkdUWXE2NGlU?oc=5",
+   "published_utc": "2023-02-23T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "CBI Files Case Against Maharashtra MLA, Family In Rs 409 Crore Bank Fraud",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHZXaTFfdUlpVlQyY0VWOGtwNFdIcXcydTFOZkNKR1RPSVpzQV9QblhCbFRidzRnMVV2NXRqRGhKVnM5aEJWdU55SXBYZ09KUS1PVWRPWXczQ3J3YU5FV2tTN0t2VmY5RUkwNUpVM2NYVlBSYk5MMm96U2x0eE5fSkNHaVV4WDBfcjFybzZndmdZcG1XTlBZcG9OelQ1SzhPUThjSFhBRkI5Tkt2WVFzdWNJNkJDWUlaT1VKN1B0c2tMS2R4VFHSAc4BQVVfeXFMUHNlX29MSUg2eWFWeGw2T1hsVTA5bk1LanJqdkFCUEtMVVdVS29fbWk0RV9YdGN0ZTZ3U1NYbC1DZW02cS1PeGlqUUhpZDJTLVFtcThPQm1HbEs0Yk50VUdhcmJhemlqbzdGX19HLThqNnByZ0xmVDJfZjB4Mi10RTNhZ1hNZENyMkRiOUFQd2ZPU2JSNVptX2tPdGFYTkpFUkVuUVJzcU5oUWFqRVpmM3M3RTlEUnlha0VyUWJ0dGRETWdnTW0tdTdLdExwQ0E?oc=5",
+   "published_utc": "2023-02-10T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

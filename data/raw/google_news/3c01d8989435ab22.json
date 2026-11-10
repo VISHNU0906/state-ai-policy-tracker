@@ -1,0 +1,53 @@
+{
+ "query": "\"Telangana\" AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-04-01 before:2022-05-01",
+ "items": [
+  {
+   "title": "After T-Hub, WE-Hub, Telangana now launches Y-Hub",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tRGUwMVJMUXZCdmhsTE5XdWI2T1U1YVhlRjVkb19fejJ6ek9uSW1uQlU3VXV2UkNXRmFBTkxjWFhhQ0dTU3VjaG5OdFc1ODZJZmRCQjhfUTlDVEEwcXM5em9VWUlodUtKQ255X0h6ZlVrMWhKUDMyZmRPTV9FYkk?oc=5",
+   "published_utc": "2022-04-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Explained: Telangana’s paddy protest and the controversy over parboiled rice",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3RFOWRNZVYyU3VRLUFka0tDMlhKd1cteWhmV0VkZVFfZHFnQ0dxRlNnU0NVUFVMc0JUeEJqTkY3Qk9hQjdUWlp1N2lSNVJxUXpzR29lSkIwSFpfTXhfOG5VN2gwR2M4d1pHVGhNMFZGX3lnem1ka1ljSlNMUnpZYjcwczdWUzdLb0R5cHViTjBZYmtlV2J5SjdHa0UzMGZ6RG42Qm8zbXpMZXJCODhVQVFXZFkxN2QwV3ZnRQ?oc=5",
+   "published_utc": "2022-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana: IMAGE CoE selects 35 gaming, VFX startups for development",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDNWQkJweWNIaWlzOERLcnVyV0pTMU81Q0NfdmtlYkJDcEtFT3FDLUZ2ZDhlMFRaLWVJc2xUMnVWcThnUnVZbllxLUNjX29SZ25NemJYSFRWODRiSjN4NU1uN01sTG0xRkJfdkczX20zRkE1eUJZLXZyaHNnanZYXy1aQUxJRzRZSEpCQzkyb3ZxRFBZX3NCUA?oc=5",
+   "published_utc": "2022-04-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Medical students can now apply for Central Sector Scholarship Scheme",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0NtZXRxWFROX3o2RXpvdnRLMElnS0g4OVJELUlhTHhiSFp0ZGgyVnAzbGRnREI1Q1BidUlvNGFPV2lMLS1Fb3hjQ01MWTE0V05MbzAxX0ROQmlrcFI3TXJUWGU5TDMxT1UtLW9ENFlKejY1TWJrcEs3SnJfNkdHM0FxODdiczRWbllYM0RxZmp6ZDJCdTBaeEtkSQ?oc=5",
+   "published_utc": "2022-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 killed, 15 injured in bus-truck collision in Andhra",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0NyTmluVlpiekIwRHZPQXNQQWlObnY3aDJveE5CYVdTM0hpWnhldEFOZTA4RGFkcnQ1UWhUc2NLOXE1ZFk3Q0NjbG04cndJSnlIcGUwWWd5YjVldVJlSTJMRkRrTHFBSllCSHN6S05yVjQ5YzQtckhKLTVyMnF3d2xOelhnQQ?oc=5",
+   "published_utc": "2022-04-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Telangana black flags Centre",
+   "source_name": "Telangana Today",
+   "source_domain": "https://telanganatoday.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xRnUtLVEza3A5VDh3SXhhTzZTTXA5SVp6R2RUeGsyMlJLTkV4RTRvQW1RUDhNYUZzWXZQYmNNcF80MF9jVEgxYlBuX1MzeG1HaXlyY2JrVHNybGo0Tk9uUEJNT1Rhdw?oc=5",
+   "published_utc": "2022-04-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-11-01 before:2022-12-01",
+ "items": [
+  {
+   "title": "After Maharashtra, UP attracts investment for Hyperscale Data Centre",
+   "source_name": "Business Today",
+   "source_domain": "https://www.businesstoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVRYaUhsazNFT21YQnR0WkwxMDk5TDJhUE9lcVRXWTg5SVJtNmNmNW1NMk52Z3MzNlhQd0loa2dxd2xmQnl2WkNHaVp0ak5ldDN5WEQyOEJJaWx4ZFdLal9CRXZiSXI1VzZ5SkVzWE5abVRMSkJZMGgtWW85MEFxd0FUa0tjTlA1Uk9DYm5JTUNCT1hLRlJ3OTZuQnJmdmxQbEZveHBMWE9keDVvQ2JiVXh5eTJLeW16OVhjc2RQWFowSkZnVm55MzJBWHFfNTRMQ0HSAdcBQVVfeXFMUFFqYUhoenZEMVdmMG41WXhxbExkN2NMTGFuWGxvWUpGZmZuT1NPYVVwb0VEUlFYaWJXVnREV0QyUnduc0E4bU5LcGFNQms5SVJUdTJDY0tzcmhtVEY3a1pSSGMteURQd3JiYXRtajNweklTWEJCbXN0SWQ5cWVoeVNqLTJ6bnVVMFBSWDNILUNtcHg3REJ6MGZzSXpyQm9HNlcyUWVXU0NtTVNQMDlRSGFQdnpOVC1Wc2VTSTdtWFJoZldEb0RKdzkxZzYzVGdoMENOcU93QVU?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Pune public bus service body PMPML onboards Google Cloud for real time bus tracking",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2dLSm1YOEhlUUx4cjRuRFNvU0E0TnhsblFoWkY4T2FJZHJlWHVqWW9UZmRhR0J3THU3SFFQeXUwbUlKNktsc2xTeHp2YWxHSmVwX1pXYU1SeDhKMGFDZ0JoVExBZFI3MnBCNExaVXRHYkg5dEJTTWs5ZFo2MXRkV3FUOWh6SEJyckxITXgwd3ZXTlB6VlhRaTQ0UXphSGxRazRZU1lQQmUtaXhQVkZTVGxmN1lQTTNvNDF4RFdMQ3hWR1pYV0wzVFVhaFpWZks2MndtQjBGS0w1YWJ3MDllcXk4OVVmaU5FeWxsVtIB8AFBVV95cUxOWngzTW55b0pWNUplQ0x5ZXplM3NwMzVXd3hWNUVqY2RNZkwyMkczS3p3Z3Q3V01uSUl1OGxSQTlybXlqel92OGJuV3hQbkxGd1dnV2hIZlp3dG5NamJ6SkFSVXlKdHkwZU1BWWdyRTR0eUEyeWxtY0ZoekhqWDg2cmhqRjlOSk9rRnc0UURSNVFVN1dDbncxUm55ell1YUJyb3lZdTh5OTVhN2l0a0hMVUdXeUE0VFFFbUZta0lKTTVZZnhkQVROTVBueXdPRElFdFNFd0czSXhZNjNfTU1COGpFa0Y2V2hvMkZ0cVBmVHE?oc=5",
+   "published_utc": "2022-11-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP CM Yogi Adityanath Inaugurates North India’s First Data Centre at Greater Noida",
+   "source_name": "AffairsCloud",
+   "source_domain": "https://affairscloud.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1dBQVlvT0lTNjBSUnB3bDlBVVQ4dGFlVWNWVWYwV3IxX21DczZWTGNfdTZ1Q1V5Q3ZFcXFBSGtlU0pPUGd3RkZHYmVKZlBFZ3dMOXRDVjVLVmp6RFJ6aU1CNzU5QkQxLXdlaGpKWWpKMDZXTVExcnJvQ29uY3BiajBVRGdRdDRUbGRzWnlFLWxhdmxTV2EtV0xqUk9vV05qSEI0dnVpdmpRZzQ?oc=5",
+   "published_utc": "2022-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Mumbai sees temperature dip, IMD issues cold wave warning for parts of Maharashtra",
+   "source_name": "Free Press Journal",
+   "source_domain": "https://www.freepressjournal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORlNIZWlfZUhCRnh6empaODYyNnIyMERHRDR2RmZuYnJ3VUwzNXVRZF9PNENHOGhleFlieFNKcHFVVS1ua2NIUmJZVXlqdEJCWEFoaE5GZ3FkUHdFa1FDa3pyV01qWUtfR20wNk00MmNXUGV1eEFPcGljUjNJMl9yY1VvcXhwOE1UY1FGZGRtM1d3bnlybVpKTUtWdEdBY1J4eFBYYl81bTB4N0EzYXF4clU2aE1nOHfSAbwBQVVfeXFMTUFrSHl0VkM3QzFwUVZvX19xQ2ZHUjNQQkZyd1luS2NuSVN6SHE3UEpkT3NLTmVreExYTzIzQmZkb19nLWpSdU1vVThSR1NVVTZxejhmdTFjajJ3V3lvTjQ3V2VUczJhUmRKbHJZZ0htcHpTQWFoZnMtc1ZybzNPSENvbU45MUVHWDlqNC1JUGI1c1hMWXRTQWppbFExcmdpUlVyaWNRVWwwMzBpXzNERGhfdVU1dDBMNUY5Uks?oc=5",
+   "published_utc": "2022-11-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

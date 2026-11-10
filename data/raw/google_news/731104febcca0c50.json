@@ -1,0 +1,85 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2024-02-01 before:2024-03-01",
+ "items": [
+  {
+   "title": "AI Cameras Expose Malpractice in Odisha Class X Board Exams",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW1jaGFyV01HQmpNRTJVRnhMMUNfLWRsdG5DenFPNmc0Vlo3V1VoYWxyY3AzZk13QUY4bkREWEtqdWJzd1JTMjRtQ2ctTWctQnhQWGpBWmY2OGxoMk0zdjlBdVhYNjBwSl9CNW9FYXJueE1yd09wb2k4cDlRdDR5UjRjU3Z2M0ExZXBkNHFaMW5fMVBFbUIyY2RQQ0JCUHpBUVVrc2NRZzJhaEtSTlZNMURxY2sxQ1FWWjk40gHAAUFVX3lxTFBvUnp4VmdFRHZMU3paV0drU1BMdDg3VHdTaGoyZERDYUZBcUktSFlDRUQzeVNvMi1Ra2toYTA5d3hOUzB5VFhyRWFuRmt1VmdEaVhCRlh4Z0oyVExiWTJzamlaSC1YclRwalBVaWtsWlFnZFhtSHE5QWQ0ZWZTYzRmY3M3VXdUamcxVzdlMUZ6UFpISXdFczNNQ1J5UnBOWjlhUU9qUTFreDQ3aXhpZGd2blhJVFROcEJmNERSNmVIMA?oc=5",
+   "published_utc": "2024-02-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bill Gates arrives in Bhubaneswar, to attend several programmes",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1M1N293ZTkzN050dXpTOXZ5eFlxUUVEUHhabG05NF8xT09UdlFqb0M2ajZfdkRjd3BrS0VCamJ0WTZwYVNXN2Z5YzdrbEgzRS0zdWxnejlNRk5KbjNLTDBQT0xVWEpLNExoSVVqY1RVU2ZLNFBkZWZIcHppQnRHd3JwbmVIS0dDUTExSnhyRXo4Z2RBclQySml6OGF1Ym1KcUw5aUtEWWJkMFhxWHAxcGd3My02U2x1ZUxfa0EtS0hIVUFHRzV2eFZvbUhhQUnSAdYBQVVfeXFMTXRmWXBad1pkNVppR29tU0V1Nm5PTmYxMDBkcDFMUTJUaU9IUDVadEdwUnBwRTQ1Q0VyaS1hQllGX19KMnhDelp6T0JrZFoyRGI0ZExjXzRkUFpraVNzXzI2UktXb2dnTW5xN04tYW5WeFdSUUs5WEJxa3RkNk85MG43WW1QbHdVMU9ZaVM3Z3JCdVZZVE1OVGplb2t5OG94MmlBV3VsdTdwa0k5VXI5dVd5NWdWV0xDYU5DZzZrUjJyMDJiYlF2Q1hMcGpwa25pNFlpZkZWUQ?oc=5",
+   "published_utc": "2024-02-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha: Gates visits Krushi Bhawan",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUJqSlNUU09sU1hESEpBeFZLdUZwVXZLVVFXc3FRQVdrWC1XQWdVLUR4ZFBXaVZhU3Vsek15WFlFRWw2d0YzRDhkc0tUNWFxMHZDU0o4bUhJcHhfSEs3M1NUc1dmRHNVdHFYYjhycG5PblNfcFNTNlZXbVkwLW90dWpXM2JiN3dBa2loS2tFYTE4SjBQMzFn0gGkAUFVX3lxTFBZLW1tVEs1bl9KU0ZqY25lLUdENUVzVDRIcTd5ajZiZEdpS3IwdEJBSk94RV9lVFdCVVpkcTRSQ1d0aTR2UkhVUlVJLWhJTEMybEcyWVhGQjY4TlhQTEFDZkFRNEVaR2xKZ2RWcFVkOEZhdUhrOC13X0NzMmJ4NS1ESWxDUTIycDNQZlJCOHIzTEIwSHRkVWVIOXhDd3RFWEY3blNQ?oc=5",
+   "published_utc": "2024-02-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha CM Naveen Patnaik launches scholarship scheme for higher education students",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUTZ6SzdqRDFfMG1QbTkwazdGVmVxNmJmNlU0ejl3enRnOEtZNlJHLTdLTFZmQ3djZE9UOERzSHNtSldsbGhKTEFPUGI5ZFhWenRteDc2SllhYnh2QmtxV1RZWm5tdnJ3QVF0S2c1VWVGbVMxS2hEZFdkT3NDRG5rV1FVcmFnWW80VjdSU2hyOGl5X0ZFNGRoRTlYMllXcXlJMjFsTEtPUzhhcVdERG0yeVZHUXdYcTR2bnlTTnlhQmtndWY1QnZScTNoeUdtaThsaDU5ZC1vb2VBU0dZWUxFa1NEU2YzNHdOTWc3WnJVXznSAfYBQVVfeXFMUHVxem5FSnZlQmEwOC1FbFhyVWtNMlRVaVhjYlgyTklhdkVJcVpBUGlwOEcwQWVTWGlfX0hUbTdfOThIdFhHSVRtVEdhczF5MFhoOExMSnZDWXNzczZZWGxtTUoyTGZIRUpySmhUSUl5Uk02V2Yyd05RU0dmM1BienRCa2hfcHpOeTR5UTZJcFI5c3ZyUVk0a05NUTR2Z3cyN3JlTG9nQ3F5YlhfYjRfRDBLSVVQSTlyY3pWeDZoaWV6Wlp0UTFFbWVvTmJxcVNhZEJHdEtIejFlRkhNVEFLT1R0RjIxQVBHNjR5c1E4Ym4xQ3BrYnpB?oc=5",
+   "published_utc": "2024-02-27T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi in Odisha and Assam today, to unveil projects worth Rs 79,000 crore",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEIzTjh3REpvMC1ZVmNfZ3MySFlITWNsUU1mT0ZIZlpMaUl2QjVSUEZRQWp2VVBPVWZhTkE2MUFNOHUzV0ktRmhHQ2MtazYzWkxvdzFQV25Ea09nY1Z6eEhOdDZ0S2ptNWhLSVNjQWNhckQ4Z3JzSkxNeXVmUk5WNVl2d2pYY0JvS29yZXFUejNfdllieEt0REhEVUp6TDhoV1B1WjlRemtWSHVk0gGyAUFVX3lxTE5BSGxCRVlPd3pfVDdDaU0zMWx5QXRiUjV4RjVQR3YtYUlNa1lXNmRONklpV04zdU81MUtsWkxDZGRKTzdLNllmcHd6NW1sSndNU3B3TGJsMlplWnh4RmVCLWxyVkVUeF9mc2Q3a290ZWFzWXR2SlpYSjEzTW5yeFlPVEJ2RnRqb183YmI0eFZmdzRvOTRrR0k4ZlRvQUNnX0lvWUc4OHFVNk1ENk5GajVjMWc?oc=5",
+   "published_utc": "2024-02-03T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Eggs, Tomatoes Hurled at Police During Youth Congress' Rally in Odisha",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlFNVEx5QWtWWWt1emJSMllqbVV5alc1anRKemZkSm5QbldNdWJmd0xBTkdJVFhUU0U0OGJpZlR1UzhoeDNsbTVMVGRyYVc1OEExUnEzeWxYY3hvYVEzcEk4UzIzSVBLbFdEWVlMNUlVWEJrUEJHM05DT3hQbzRFX3JISWt6N3RtY3VOM1lFdWxvNThfa1c2eXEwc1ZfT25SSktmZVc3dFVjQ2RMd0UxUnZvS27SAboBQVVfeXFMTU83QndwQkhPWkNOdXRQQ3FGc2xUc1VoZHpRWTItNk5yZ1hSUlpLcE94a2xZZFdsc2NxTVlPRkxzb3Nxb21USGpLOFlrSmNTUTRrWlBLbjFfdlhXQlRMOWxLdjlKVlJpVzZ5T1QtN2xUdW1lMUpGQURfSEV6Vzd4Qm5BVmRiaUNTckU2Sy02RHhKVHliTktlV05JbDkyU1VmdF9Uclctd0xLQ1FjNXc1X2g3QnZVUDEzU2h3?oc=5",
+   "published_utc": "2024-03-01T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha govt launches NUA-O scholarship for UG, PG students; financial assistance of Rs 10,000 to be provi",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMGJpTHFpb0VrLS1TMkozc0REU1RFNDhzRW96MVU4UVFrSGtGV0JsQW9WRUpNbDJYX0R1ek5weHNwQTZjQnVCeS12dDJneWRfTEVWYzBYNGFpNGJ2d3lWSGJBZkR6NFlKTzA4UVNKSTRIZlVTZGQwMmxua3FCVnhDTmk4UnUxVUdRRGRzcUpZNE9lLVY1MHJ4QWlLRlBpOXlqTUlZTFF4T1pMZ0QxMkNEMmJSLTI5NlYwWU1rUFFKRUQzMkZzVUxhdDVGMnpsazF5TUtQMjJwbzZXTHp5ZGs2SEhsM1NUTFVEbUNUYTA0QTNLd1NqYlphSE9MUDBNUmNaZzJv0gGIAkFVX3lxTE8tQVNFMlZwV2NWajN6WXJVUDNBOFQtVWJUNjhLQ3hod2wwVGZsZUdYRm03cDlaZnVfTF9QV01pbDdQOE91NkZvaGNQVzdYbF9sNzY2eTNSNXBEenFlLWRwNzZyTHNKN2ZuTW14clVJZ1oyWVdxeFdlZ09BVXhTQmFsbEx2aldTOUtXUGt0STQxc1Z1QmZDQUVnaHlNcDBJMnFGU3NCV3RERjJxWElQVWRBcXppc2dzV09DLUF2N3dmZDFvT3k0NWF3RDNhaE5RYkpYOFFoUC14eVpRSEhiS3ZpbVZmUWJaeGM0aGE2N1ZvcEpRLVpyMWUtQjBTZW5vUnhGckFodVJ3NQ?oc=5",
+   "published_utc": "2024-02-14T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Odisha Finance Minister Presents Rs 2.55 Lakh Crore Budget for 2024-25",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXluR3g5SzNrZkhyRHBrZUd0WTRIRVUzSU1jSS13d0xHeHlJSFJZeEFWd09wZDlVMm9hX0hiRTRhWG51ODQxekJVaWZRMTNWa2w0cldVbkd0ZzlWQ0VZdVpldnF0czU1YXVRdzNvcW9VZkFfS2s4MXdycUxYaUJRdW9tNGFrYmNHQkE0cU0wWnBkVjd6WmVHQWxTM21VTlc1SndsT0xHaWVzeVRTRWdWUjExcjFhUdIBuwFBVV95cUxPWExjZ0JSanptNVBLenlYMk1PYkp3a2s3WnNidlhyNXlsTVJ1blZlSU5CS1JCMEtvelFrSW9WWGp3aVc0eFNZZUV4RkhLSDgzSFV0YW0xUUdEVXFiQVVnWW9fWW5FbVZ6ckZzUUg2OE00dEZZeXNjdXg2MHdaZjhtSEFEbjUxQmpfRV9qcmdzQlQyaTlLNkl3S3NPZVF1bE1CTlBxLW5iRGFiejhHVEd5aTBNU2MyUDdLSEJZ?oc=5",
+   "published_utc": "2024-02-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "President Murmu arrives in Odisha on a 4-day visit",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "https://www.deccanchronicle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmFab0FQdWRSR1hlUXA3OXB2OGlNTkQyUWF0MEtDMHBOU01UbEctU3B2RFVJT3AxT2hySk41SHhSOGEtYnVpdjF4SjNxVU1odC1uQ2lDMlMwd1pFVS1tYVh5NldreEYwTTJzM0g5TVU4UFRLWUhQdF83bHpMNWhMazc4UFlRYlRCcktabzFaVmoxVnRZYnNUVXlqR0V0U3pyTXpXWmJra3l4eDhGdUF2RjVn0gG3AUFVX3lxTE9aOUNrN3U1bFlKUHp2eGVQbWk0MnFTYm01Y2RfZXFZWmUxaXdVWTYyZFROT0c2bkYwNW1qTVRhdk96eS05MDlrUWQwQmlfOEJGRFFJTXBtTk1iZ3p4Q3VtWWh2cmdZVlhxN0s3ZlY0VDBsdjNXTlY2X0xwamw0X0FqampBdVFTLVI2eFNjaHJzN1VrVjMyMGluVjlWYkhyaWEwNFlrSnkxVGQtYUdlcGttUVdubFE5TQ?oc=5",
+   "published_utc": "2024-02-29T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Indian Women's Hockey Player Jyoti Chhetri Faces Demolition Notice for Childhood Home in Odisha",
+   "source_name": "Lokmat",
+   "source_domain": "https://www.lokmattimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0h0dEw3aDhUU1F5ZldBYWprVkdOZjR0ZDhJRDEyYV80RXNsZzhoREhDeXdILTZ5eHhNWW1LQlJtVmxjd2Y1RXBtdWxQSWNnMFlfdnJ3MjRBVUdZc0V6WnhZbVlhVmhXR2txNEJwVUY2ZlA1NXhaT09rS3drUUdkQ2Jsc2lrdGtDdm1Pblk3UWh1MVNHdUYtRl9Cc1VsT1RkZlpmTmNrSW1Fd29IRDR6RV9VZHd5ZGZqZ2ZPVmZqVnB4TjYwWmxiUVVMbkUtbFJUY2pxQ0Zrc3M?oc=5",
+   "published_utc": "2024-02-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

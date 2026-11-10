@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2023-05-01 before:2023-06-01",
+ "items": [
+  {
+   "title": "How the tribal school of Maharashtra uses AI to make nutrition assessments for students",
+   "source_name": "IndiaAI",
+   "source_domain": "https://indiaai.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOem1Xb01NR0o1SHp0M3R3NkNfT0UxYUxtMXQzd0dOS3ZuLTNDcjdmTURnczFxcFlaU1R3NUx0UWg4cmZKZDZLMWRZSHpCb1dRSFI4dWdOVEFNQ3hSLTgybHBmOEVzNkxZb296RWh2TmUyS1I3ZzF5WFQ5UzlwUTI2T1FQQXdpUmVQcjM1VTA5SUJub3dqRnBYNTlvRUhzYUhEVm5NbjNYa3p5ano0eTl0R3JYbkJ0dw?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra Approves Scheme To Give Farmers Rs 6,000 A Year",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXBmUXkxbUtCMkhfcWRYSkg5bTNFeF9ZVm5DRGpsSlNSeHZEZHVKN2cwYWxhMEFmVFN6aXlHZmthZTZPamFRbVdvTHF5eWFyajdNSkN5cmMxeS14OW9wUk9kcFJnUUh1MTMwY3lYRnB0RWRpRFVhRURpMHpkelFxODdnYWNHN1AtRDJNX0t5YnAydGRUdS15RjM2S2JqcUNKYThRRW9kdG5BZUpJWllZTmRsT3czR0h2RkdqemNrRE9MaXFhakUxeElPOHJndjc5WXVRMtIB3AFBVV95cUxPR0dCd29sQV9kSUN1Q2RkU1Y0VmlsdnNVRlFFSU92T2pHVGw5OVhOYi1OTUpiSEowRHhfdUpnSEdESWdWalN5TURNbnNpaS1yN3JTY0FINEVIQmZGM1BORTBfMEVjWmhOZTZ2MEZrdmRjV3JLaURubHhrRVk4RHMtMTNUN09oTGthR1FneVRhZkJ4UG94WUx3T0NsQnhLcldvbkstZVRqeWlfazNqcWxCMVZqVTJ0dDdzdlQ0Y01Pek9PRjQ5MThMemRtUlpieVVLWTcyeFYzemtWQ203?oc=5",
+   "published_utc": "2023-05-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bachchu Kadu gets cabinet rank, appointed chief of state panel",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOS16dVRJMzFhLThXcXBJaHRkOXFHUF9DMmJqUmJwenphal9TOWl4SURGQi1ocU95aGloOXNyblhVVVlFN29MX2d3WHVrdFFUanZpSWpCaHlxeGhELXZSbXAwSkpadWI0b3drT2Z2TzFZSGNldDdXSUU3MTUzbTczdlVRSWhEZHRzWC15UU5mblVIMnU1bVIzcW9xUXBRQVc4LWVkNER0WlI5Ykx3ZkdSLXBEalpVSUNtSkHSAcABQVVfeXFMT2NodDI5a21CR2dxTjhLNkhkYnRzZVI2RUhqbFNOdUVTVnNVdlJzX2I0MWRjdk9wQWJkWDctRGZsRjhGWlZ6ZjNlLUR0NzFsUjVuZTMzYWlKM080MVVHdjF3TjBXWWhDeGZHVlllRmdtMG1SdEl1MnB6NzA1OTFXN3hVdzE1RGpyeWNiYl9fY1BxS3N5dUpsa3ZUbkFvYUMxemU5UDhuVXhDU29SZlhIb0ZBQkpHYTlDb0txZ0o5OUND?oc=5",
+   "published_utc": "2023-05-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India to push for AI-based portal to help MSME supply chains across developing world",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcU5MZnE5SmJuNUhtcThXMHpKd1JPU1hPOGhlTDNWR0l5UDRHdU5weE9uUXJ4R3h0ekZ0MVZ6X01LN19tQkRLdFZFXzNKVkJ4aHFHa1JDZmZtVm1meGtpTjZYUC1zR3VhVEdXTk9icE1FOEN4akdkdnpZUUxhUVJ5Q0E3ajlyMUxBQTFZN3pYam1JN201V2pmaFIwQlQ2TklJdUh3YU9XeFVaQlVVSE1MLVM5Ry1GSHh6UHNXY3l5blBtZXJKV1hjR29GcGlacmdielJNcEkxUExYMGpzVkdhQm84TzROb3B6NDdsenR0a9IB8wFBVV95cUxPZnBsOWM2cHV0cVNxT2s0NDI4aVVhb1V5YTJacXcwaV9zaDdEZV9IQUJsNVdLdWJSYV9mSnVVdjVTLW1GMDlHUE5KR19CbmJGam9ZNlB3V3YtdlZqZE5tSlZfNHVVbGVwLWZXdzM2RkJhUlJPZ0ZlWlhaVzhWc0gzZWFacUlLb0VSLWo4UTdYYV9fZllGcnV2WDg1blg4YVZjdHkyVjkxcl9KMzZvY1J5T2dxTXpCYXhNZkhxaXkyNVBhLTQ0NURVbFZIQm5CSnlIbXlYUlRjLXk3WGZoaFFDMFpoWl9iV3V0ajY4OFJKMS1wNjA?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Former Mumbai Police Commissioner Param Bir Singh's Suspension Revoked By Maharashtra Government",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXR6dnQ2N0ljNTY0U3lJS1g3a2J4bWtqSnNoMHJfbGVtS0o3X0ZHRW9Kd2VNWFEzZWxMYjhTOFFwUnRfWnJJZ0xOQmRId055OG5jZDZycHp4UzZ4MkNKWVdqeXNjYzRYbXd3NktEOTF1eFQ1UFA0NVBiaXZGdWNzclBKUUFyUEgzc3NibHB3clhrV09Lb1J4T0F4OG0yUXA4aS1ONTM2QXdSamNvX1duR1lFVTVkdElhMTMxWHQ2ajJ0SUhjMGVvVmN30gHaAUFVX3lxTE1qYmxXNHRjOVlQZ2tyeHRRNFNjV3NaOUV3YVlRTmIzendNZC1lMXJHd2xpeXJpUk9IMHdHYVpRay1qeExjQVljS015bFhkbFpnTm5sdjlWWl9SbEJrUmFLXzhJRHI2dnplWTdVWGNWTnZ3Zy16SGJFU3Q0Z1JUWnA2UVM2QjlfTS1GWkJQU3VmaHZLNkN2M1BWbThsaVpGX01CSU9fcGQ0Z1ZuWUhOd3FHYkVRV3NEUi16M29LNEwtZzBvZHExQkk0WGtzNHJOcGtFd0Vudy1XUlVB?oc=5",
+   "published_utc": "2023-05-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Work Underway On Parbhani Medical College And Hospital Project At Pedgaon - PT Pulse",
+   "source_name": "Projects Today",
+   "source_domain": "https://www.projectstoday.ai",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmxsdDhYZmd3VGpqRlBXMVRTeTAzTnAyZ0FNRWxGOTNVTE5fSDZjZzU3NkpuS1NnWXU2T2c3WlVIWFNjTEJ2ZEFvNzVZUlFkWWZNbGtUamJ0aUZLUThoWkZ2c0swSllldWloWHpXd0lncldnVWhEZDlYWWNKcW1JcE5TV3hBaVAwaDlMWG4wcUNDS1NkX0NjS2JtenJBRlJfLXZRNmt4aWphMEVuTE9lQUJobFZkRTVjS2EwVEx5b2lmQkhmeHc?oc=5",
+   "published_utc": "2023-05-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India’s First-Ever AI University To Open In Karjat; Will Commence from Aug 1",
+   "source_name": "Curly Tales",
+   "source_domain": "https://curlytales.com",
+   "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWZzVXVCRnNqUHhhclNTb0R1cGdfVjZZeVFSYmhMX005ZUdBZ3JiTjdPNlZVTjljSWlKcF9KOTFJSkplT29QeUZOMVZZMktublcyblN5ZWRURWhLVVNfeF9YMzBqdkxEMXg2OFZ4WlEtdElUWUtUa1pFdF95alo3WHRqdDZHUEczeDdodUZqV2RXc0ZNd1l4b1laUWgyaWc?oc=5",
+   "published_utc": "2023-05-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ease of doing business, AI should be focus areas for Digital India: Nandan Nilekani",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGtSdkt5MExxcVR5STFXZ0syYnc2WFZkWVdyZ2Y5OEc4R2hCb1BxTUp1ZFdVY1QwLXNMbDdWdDBrRG1Td0g5NFJqR2xHSnZ1ZC1VSDFfbE5ueVplNEpJUkJYV3MxbXhNUEhJTDFlcW5LUmlyNGJtamV3dV9lRmFWQ0VXSXgxUFdxZ0prWG1tZXlERkl6OUNFRU1IVk8yVmR3Q3VHLXJJZEhiVjJya1RPRkhwUkNRcUE4YTIzVm94T0x4OVRKRHRGTE9fRHY3TW9IX1BTWnd1QVNFVERjbVRUU3M5dU1YNm1WVEtV0gHvAUFVX3lxTE5ZUnVuamFTOGhUa2tKRnhHMVQ4UFRRMTR2RGtPMmhqNGowS2VocXdweXhSRFJSaW8taldTSXloMWpIMTdKM2VpMmk2bjZZQXA5UTFjMTh1TmdBLUx1ckxpTy1HdkJncVlVb0xNeGJaS2ZjUl8zUEhOc2lGSVNYaGNPWUlia2EyY2kxaXhOQnRySkhZUkt5eUpjM3ZNNUdSa1R4ckVWVmg3aHJlclo3UXhYd3hkemQwd3I5YWpOeFpUUHZHNk1oSGR2UWtpY2U2a0N4cVpjWkZLTUFpanFyNTZidmJvenB5WVVYZ0h3d0xB?oc=5",
+   "published_utc": "2023-06-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Cluster schools to focus on holistic development of kids",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlBsSTNCdWRCeHFPYW5LdU1jMGRiVjYyT3g0M091VlNYNmJYYWpNQkhKVVo0X2RId19ncTRJRVhiYmJ6SHhPOVNrZThHNzMycjExVlMzMlFkTEduc3FVQ25IWmxiSmhLZjRHVENBY2xWbnlaU0VvS2ZGaENOWGppRU9uTGNVZTZldVM5VUZTZWZyMVdiUjY4MWlwZkpZb0xzc2RNNVRCRVRWSG9EUTVtNXFsNNIBugFBVV95cUxNOGphV1NTa1k0ZE5LSDdsZU9RR0RVc25BSTliZmFwckttLVJmTWtHYjNsZXpCMXVFS215WGNzdGRPRXd3Z0RnT2xxUjVxNlZjT0FnanBnakpkdjR2TjFWdHA5Rk5DbkJucXdXZkFJamVWUzY1RERTdERPVGV6Uzl2cmVmNnpacHp2cWlkMS0xM0FGTjctVUF1T2JIcExfZjVmOXpFVUxIRk5VOEUyZ0VXODEya2lNRjdQbnc?oc=5",
+   "published_utc": "2023-05-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "India relies on AI-backed courses to create suitable workforce for industry requirements",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY2xKbUsyY0VJRXoxNm1GUXBZZFo1bWo1UjBfd3pNa3JCd1Azekx3cWdJU3AzSXA0ZGpNY3FFRTd3VGRad0t3ZVNrbFpTZ25RV21FNGxSV2lMcFoyanhIY3ZpVGxpeFN2dkxOeHNrc1pKeHR0WlRNc3hXaklQMDZCYTAwWTh2MGh5NDRlZkJ5T2dfNjRpczlrTENleUZ3RklHY3lDSy1LbE5RVjVzS3JMV19tR3BxbUFxemZUOUtMWTVGbzZSOHRMTHYzdkZIeUNHUnVVU3BmYVlVSkp5X0xVQW9KejZMTnlMN2h6ZDdEWkxIUVFoajQwSXloMW9HQdIB-AFBVV95cUxQemg1QTIwNE5KT2Q5Vi1YYjNxWTMzemE2NDBiZjMyT01IZVZhemJ1MjRpUnI0V2g5MTNORzMtdVRJZzhzWmJyYjE4bklRTXdHclQ3elN2THp0bmRmbkxQc0QzZXdab0ZBa3RqMDlHNjJoZTBmMGVsQTNxMVpIOW16cVNidi1ESUZ0WXlqU0diOV95dUpMcExQNkFnWmUtaHJad2pCWkplbWhRMzhZMFJpMXlEWWg0ZWYwQVNiOVZhRmFibzBydWhjX1hXLWYyMVVZRlNzV3AzSG1VNldRV0JIWnBRdHdPQUFGSFMwWWs1cGV0NU95WXFBVw?oc=5",
+   "published_utc": "2023-05-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

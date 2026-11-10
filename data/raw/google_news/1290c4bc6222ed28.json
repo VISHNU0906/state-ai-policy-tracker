@@ -1,0 +1,85 @@
+{
+ "query": "(\"Maharashtra\" OR \"Maha govt\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2024-10-01 before:2024-11-01",
+ "items": [
+  {
+   "title": "NIELIT & Maharashtra State Board of Tech Education sign MoU to set up AI CoE",
+   "source_name": "HR Katha",
+   "source_domain": "https://www.hrkatha.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGpjb2wtLS0yTGZ4TldyRldxcEdSc1dJSW11cmd5WTY4b1ZBTUZWbjU0Q05UY0prZXNXQ2pkOHBLZ1pZMUE0SW1rbnREM1ExTFNXTll2dW5VUzJhS3lnQkFDRzFHQXlweWdWa3dYc0pvZkJ0YlV0M1lBN2ZZSGc2OWJGQ1hVaER5YWJ1NWhKT1V3VG5BZkpfeDBvckhSeC01OUlZaVplaw?oc=5",
+   "published_utc": "2024-10-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra cabinet gives approval for green integrated data centre park",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmlXS3J6VEJUSWJJZ3kxQlkyY0xnSkh1OGhVejgyY2FrT2FSMURSZkVhOEZZVmZqTjE2dFc1X3NQb3cxZHZHSHRtTC14R21xYklDcjlmOVN6bEtDbzdCNWxtams1THZvN2ZyTy1CWHdrMXU3VDZnb2hBMmsxVFFib0hDRVYweV9BQXlxU3MyVDA2N192ZFU0dER5VWFLRERyTEJyQkZWbloxQUVRRk8wR3Vnb1hUYmxSVHRuRmV5MkxRSXNSVjB6c9IBzwFBVV95cUxPZ2kwRFN2Zk9nTk1xekVwUFlOZWViT1FzMTQwd2NUU2hEVng2TXlrdEZDTzh4MmFPdE1CWldUVlJ1N3QxV0ZsdFppM0t0eTFwTDVxMFE2R2RWLWkyQThWM2c1dUl2QXQzaHBBSGs1NUJJS1BtVG96QzlPQk9JUjJrTmlUSV95bVkxNmRabi1NOWJha0FtYWNJQnZsTmJjY1NEelFMVFRpeHcxc0twWm1peC1FcGlSeGFKX2tfRHF5T3hDMi0zLTJKTFdpUkozZE0?oc=5",
+   "published_utc": "2024-10-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "PM Modi to unveil multiple projects worth Rs 56,000 crore in Maharashtra today",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZmZaWFVodnJ0RVBNbWZTWmczMTNXTkxTdlJQeU1lcGUwNmg5UFJCZmtiX2F0dDdZbmIyMmM4QXQyM1k3ZTJIcUl1VXNmRHJtajhqMFlwd01YWkFMczdyNVJlR3gzR1hwMUhrZnZrVjlMRzk1Rk52YVpPbjFwbF9QcHN1N2ZYU1lpT1BjWTU3NEdPcTdnajRobTBXZ2RqUWItUzV2U2FfNkZ0OXVLN0FJSDZIQ1kwdnFHMDBtMkd2WVhjcnNZWDlSSjVDUFdQb0x3OTU5ZW91ZDI5VGpsU2RMRGVoUlBLaDdMSXE00gHwAUFVX3lxTE8xbk5QNnVCRFk1UE9UR0s3MlZfYzBOOFV4OW1CQWg3eGw2SmJFMjRMVUtWZlFLS0ZaZU14UnhQT3dxTG9FdTBRSHdBMGxSZjRGNHJWTktrY3FVLTJNX2VuNXQteFBBOFo1OUR5OTM1VE56aG5Ma0dFenN2ZEF1RlYyYTJpTHpFQ2VtdmE1NnNuTDRDOV80cHlqdVRSamF2LUV5bC1SejBWNDdlMi03bEs0U0phd01vNkRoR052Z1o4WkRZTlE2bUNTVWVfYVZDaEduZVZJTWItcnZvZS13OHRvRlhXWDdnQ2s0R2kwck5MYw?oc=5",
+   "published_utc": "2024-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-Driven Education: PM Modi Inaugurates Maharashtra’s Vidya Samiksha Kendra for Data-Driven Learning",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNS1EY2NVa1QyRk9DQ29FZFJvdEpXVUtNNFluS3lYSFlCbVd2SlF3QnF5RXVxTUdLdlUxb1FBZXlXZFUxQ1NEcE1SanJHeklaSmhIdWF0Z1JUT2RXMWVJUlFEbDl6MnJHVWVrVng0MGdNN2xWel8tMjRyZnVSdXVPaUc3NmVqSlJuUF9feXpFZl9xdHVKV3hZT3c5QWVKV1BUd0dCYUdJdkVjUkprSHZ6dk5QeG56NFQ0NzF4UkYxMkg5SzdKUEJuUXFVbEhyUlJ2X3REeFF2WnU2Qy0xWGVwQ2Nwa2RHVUtxSUlSOUVOSVNLNllWWVp3c2NlWExOVGw5NTJSUWViONIBjAJBVV95cUxPX215SVJjM0lLWUthcWVqcE1lVThsNENwMjFSbXlvR0QzSEYzbkJDd3YteHZLTlpCT3VtZTRLU2pWSFRBc3pWSnJCcUlGSXdJMGhndW5na2lGS3dwaHBVM05TcFJHMDEyeVFUZ3Q0U3k5ZG5IMmxjY28waW5RcE9yQVJxcTNEZUJ3UnlkenNvMDBPbVFRN2J2d0ZJd0taU09YejlYRWtFX1JxN3YtekpOcHl6OEpTVmMyTENiYlJEZEJ6amtmaWFnR1RrcDZabVc2d3E3c1pCRnMyZmpCYUVPR3k2VjBobnB0MjMwQVBjQzRzZzhOMjdmQkZ6NmR2akdfREhmcmNVS0RtMklU?oc=5",
+   "published_utc": "2024-10-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "D Fadnavis Declares Assets Worth Rs 13.27 Crore Ahead Of Maharashtra Polls",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1Vxa1ZsWDFPMC1oQUZkNmFhdDhGbGNKU1BhNkxGN0pQZzBsQjRYYmlLWS1rb3FkR0E3OV9SbUZwbWo3Y29fcXBPdW5vSmVPY2RZaG9LLXNPMUVrMDBZaTIxUnhub3ZhNnk5elNSbV9yUmh3emtyVy1FTmVCZFVibnlqcm5mMWpDUTZNN1hwQ0RTb0V0aEdDdE1qVlEwMjcwaklVcUJ5TkdSV1VoSXlSVjZBSnFsMVdoQVBYYlNn0gHGAUFVX3lxTE5oYkxwUWE1eWEzMld0c1BVVmhFdUtlLUJjQmdac3dYU3RiMW8tOFY5QVdhU0RpeG5TMGlXZzRheGQxNDNhOUtYcThGdzV2aXY5QkNiQlltVnh5d3RkRDdBZlJmVEt5RHNZVHpDaFdRR3NWaVVDWFNpY082d24tNEFFWGpVS0pPMjFUZzdtdEZEX08zSGJWRk9IRzFCV3QzNEtnMlpKZnVVdENjVGZSM1Rxdm41SklhVWR6dUJ5aHZreV9rN0t1dw?oc=5",
+   "published_utc": "2024-10-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "No RERA registration unless a property meets this eligibility in Maharashtra, clarifies MahaRERA",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaV9pb09QMHR4ZmJtTEJGMUFFVGdjR2FoUmxsSVdwMDN3dkJHQlRnQTdvRjhxc3I2U3I3MTVFXzN6Mml3TnJUanFBZXBaa1BLc0pBNzhkUGFFd19oSzEzV3FsMlA5VDd2YjN6V3FMWFFWS1ViX09OcVM5ZU9iMWZkMUlpY0VUaTI3ZDNGaFB0RmJKd3RqN0NrM05GYVBVZGJYOVhhd2tzbHI2aVZvRFhIR3pfUi1GWUNHTm45Rm8xX29FMTlqcDdOV3FKcm5EYy1FZUFhUmlseGhyMVBRUnQ3enRUVk1ZNlgzUFVwaVVpM1NqbGxka0ktR3dOcEnSAYICQVVfeXFMTkZhUl9wYjBTWTVBR21BNWZrNGhNVVRPOVdyWkR4Q0VrelpiZFRoemNaNG85NU80RWsxSnY4T2wwQjZrUHNoQ0tHa1BtQTZDTWl4YUlfOXRhYzRrLXk5ZXlKZklCMk9NV1hRUVdzTVJabnVuODVPUm9MaDVqS2M5Z0ExYjdYRWZzd0lzaUhwdGJqZU1DdndWdUR0WjlQbEVGU3RXYk5jNS1MbVFKWTdydzVmSzBnazdsZ2tNdzZhVkw4RloxM0k1T3JLSGVEV2lEU3NpMHhKSER4ano3Rk5nT29lQWtic29uQjA1YlNVNlJiaFVqd1lBOVlUaFRZQjhHZ0RB?oc=5",
+   "published_utc": "2024-10-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Roadways Solutions India Infra gets projects worth Rs 4,700 crore in Maharashtra",
+   "source_name": "ET Infra",
+   "source_domain": "http://infra.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUl5UlJrN0R1UXNKTXNLOWNTSmF4X2RmZ1FaQS1WdEZ5TGlJejlDVkJlejJiblB2Y2NRN1JsU2xlaURMaS1LQzVxN1V1eC1MR3E3dzBOZ25SLURJMDlWREd6eFROeHcwMGRUQkpWaC1MYXAyVk5OYUxGTTcxNmJQckc3ZDE3dmViYmJiVUpHdXpjQXpCTkczMTI5WDN6ZzFzbExmbXcybDZEcDlLcDNwOVpqMklfbklRTllseXF5cVBrT21VZ2VGOWRLX0syU25QT05UVzRpbGctNVFyWUxXb0NXeGo4QdIB6wFBVV95cUxPWm1LckZvVTBjN1hROWZrQXBtYVQ0MUVJdi15WGJmMmlPUldZN0lsTmJPc1kxaEVEQ01DTElwS1AzbFdTcXFYdUtNSFc1RTBPZ0RGYTFUWHBXR2lxdmpNMVhmbm9ObGJqQ21mWjNmc0V5dG5TaU1xYzhUSFc1Q3hpNHVIUEt0OUs2bjVVVTNmdHRzOU1VSjI1NGRyNmF5d2hzNUpCNWxJQWdFMFBrMzhvVlRla0tGRmxOdmZvdThvN3pqUm42ejU5S2g3aGdwaVZTSE14VVZXSGF6dFZaX1VKZDh1eTBQRkxJMWJF?oc=5",
+   "published_utc": "2024-10-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 5 Crore Seized From Car Amid Model Code Of Conduct In Maharashtra",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkNpRk5FQVRWYnVoeEV6SmdkUUxxMzhrZjdZU2k2RkZVZW1KV1EySkJyV1pPLVE1bW9ZX3VIS3VUT1VDX0lpVVd4YVdSZUxpWkF0VmtZZE5FU2VLaUZQazB1eHJCazZYMUFXQ1FYc0ZkY0c5b3NpTFNBMmhMaTlhRGwzQVotWG1rQ0hSbG03MzlVSHl6eEhudlFPQ0JQUndXQXVHVWVkVy1mdk9Obl9tRzNCeGZnNEUx0gHAAUFVX3lxTE5UaUgwcmhTZlB5MUVBNmVub0dVN0p1bUJESGJVazE2d3RFcmNGQjNHMEdkZEQzMTVBTVdmWjFZUERVQ1NlS3N4cWpleC1yNG90TmxIZXVaQUZYVHpFWFpfSXBCM2ozUU5GSTk5QTR2dVFiNF9iRnJYQWNNUU1rTjBsek5FNnBRaFFjdTk5RWdHOVJzV1pRalVDWFZHM0ExUzAwRllYOURBNC1vU255bGctX1dzb0ZmdDNfSFVKZUVlZw?oc=5",
+   "published_utc": "2024-10-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Maharashtra govt against rising cybercrimes: Rs 837 crore hi-tech HQ inaugurated in Navi Mumbai",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXlMbTJBaGpSLUs3VjdvdjVoeGRGOTdWcW1HY3RhRXhwRFBKYnk5ZnZmNl8xdFFHYzZ3ZFZ4NDdod2wya2NHZkFUR0UxSlRvM1dRbUNwOTRaZ05iQzlnWDM0UFBkdVVDX3dTbXFvbnd5OWtLVE5CTnRsRmw3SzV0U19YNVl1U2RCMkVKaE5YUTBfNkw4MlJ2QlNsN2NoUXVqbHJNQm1XV2t6R1hoZW1ZMUJ0czBwNTd4S2fSAcABQVVfeXFMT3d6TDdlUHZXaWlMMzltWWRybmJ4S2NHZU1XcVlCbGZLeEpBZzJFdVNfcUVxblFtUU05QWFfM1BxQ1pGNFlPemh5ejZQZ3dzLTJxdl9PZVJKNFBNM2c1SjZYNF83WEJYTExXS09kMVc3ckF0aUNaQ3dsdlU5OHJ0cTBSeDZSdWhRVTFLVjhUbWJNZS1TYjZkb2Q2UEJ0TVY4SU9DT3MyOVlDZDZFZDlGVE40NU0zYXpNb3pseTBSV1d0?oc=5",
+   "published_utc": "2024-10-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Driving innovative solutions for environmental challenges, how AI is going to impact 'green jobs'",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMmZtOEhxSk82UG56VUxxdC1kUWNLcjNMWDJrWmVyNXBuYXlFVk1kdHBXdGo5cTFXTGt1aDRTQ1dEZnl4TDFJUlA2dXNuRWs1Q00tbTl4TFA1ZERkRXFxLXVuQ0FzX0ZzaDZheHFOMnNvNXFoZy1GdnhMUU9IaFhRU3l5Y0V6djRWWms0SEdsdml5dnJZaDI1TE4yeGZIZmJfYlhKdVd0alhrTmlzT0p0Y083QlVhYkFMX0JFV1JONU9jUDRJd0FacC1xaHlxNmFHdG0tNDVCN3BlcVNiLTdVbVFXRXBRUzNzT1c4UtIB8gFBVV95cUxOV0FmSG5YbFppRExBUC1wVW1zM3o2SmVzRE1DV3hfQTl4MGZ4eTY1VTVnUEF4VVkwU2RJQ2ZXOV9MeWpDdk4xck1OYm40b3JuejViem9KUHg1dXZVNWp1OGtDOG9yM18teWkyVl8wcUhLamdwTS1LRE40QzlONlhLV1FPelpESXp1N2VacDJKY3V0c29IZFZUcS1kbEptcjhFZG4weGI3X2ZUcXpTdWxhdEtCbi1FdW0yWjV3LUJKeGNDaUtBWGN2RENtTzNpdXRPclFfTGQ3ZWxSV0d2YkVBQXVRNW51RVFtVTdTTURsU3BUdw?oc=5",
+   "published_utc": "2024-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,421 @@
+{
+ "query": "(\"Uttar Pradesh\" OR \"UP govt\" OR \"UP government\" OR \"Yogi government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-11-01 before:2023-12-01",
+ "items": [
+  {
+   "title": "Can Uttar Pradesh become the leading hub for AI innovation and economic growth in India?",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXFKWWZMTGdCOHlkdHhEeVpoVU9oWmFQcVY5aHgzeTJyNTVCODl5bWFjb2tzMjBabTh5WjNQdkQ3XzJFRm1LemdZQVdNMDI5N2V0SjZYZnZCQW53bWx1b3lwbDdFZk1DSWZxYXNfQWZWeENCeXl5SlpsU3NtcTBmTjNDNll1cW1lZlFIdHFjTThNalJEVVF2Q2I4TzMwSUk1dGJmcXh0VGtpMnhkWEVRTHdpM2ZmRjNFcjduVk1aQ2pwanZOeFZWMkJ4eVN3Z1F3MDE3OWlNellfRnMtdENSN1VLUVJLR0xw0gHoAUFVX3lxTE95cUpZZkxMZ0I4eWR0eER5WmhVT2haYVBxVjloeDN5MnI1NUI4OXltYWNva3MyMFptOHlaM1B2RDdfMkVGbUt6Z1lBV00wMjk3ZXRKNlhmdkJBbndtbHVveXBsN0VmTUNJZnFhc19BZlZ4Q0J5eXlKWmxTc21xMGZOM0M2WXVxbWVmUUh0cWNNOE1qUkRVUXZDYjhPMzBJSTV0YmZxeHRUa2kyeGRYRVFMd2kzZmZGM0VyN25WTVpDanBqdk54VlYyQnh5U3dnUXcwMTc5aU16WV9Gcy10Q1I3VUtRUktHTHA?oc=5",
+   "published_utc": "2026-11-10T14:06:13+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Mission Karmayogi: 19.26 lakh government personnel registered on iGOT portal; 3.86 crore courses completed",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT1c2bHdzaFk1SzdONnQ1OEFLdGg4aWVQMW5KT0l0ZmxMS1RVbDBmVlE5U2h6bFk3cUZ2cVliY2hGaXFmTklpLVkwTldQSFBvdENpeHRpdU52ZzNzR3BOTWRNSnpPR2VqUVl2M2MxODY0RVJQYWFZMHZIclRFeU1QUm44UnJOUlVUZG1JREhoSWxCMDJFTUppdDJCekZob2J4bk5yRWczaE9wSXhYdEtsT3pOcEVuT19PZjF2U0JaUzlDMm9NSEJfRDFxd1Z2bGJNd3RUV1M2M2hkVXUtTEUyTFdDcDdBdGxOSVI0SUluREEzd180bkdVZk9VQ1FhUdIBgwJBVV95cUxORk9pMjBFN1VRQ1c5aDFEQTRKdE9LbVEwSGczSDF5bjlHbUMtVlctVGtpWWdCUkxYMlRHOUpWRjBkUkU2bV9lUUlfWXZOWE9ueVdfT3gtMjUwTE5xeGJSLW1vaUtmVElIMnhMWm9SXzQwdkFWUU5ScmdoRTFwX3QtR0wzN1JROVBSdzNRdWtUS0c3MURIS3M5YmFzblF0S1hFM2hQNmVWaGpWcU1fQkxZemVxdkwwR2hFb05PU0RxVFY5eWQtZHloMGhCX1U4VTBEdGJPdG1UOV9ycmJObExyaEZTRmEySnRhMVB4UFJCLTBlUHk5Rjd2eDl3Q3VMaXN5cTZB?oc=5",
+   "published_utc": "2026-11-07T13:05:16+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Vision Conclave 5.0 | Vision Conclave Uttar Pradesh",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOeFZBMml6bTVKWEljSU9IYWlSbmZkaGpmaHVrWmNhMVhsSVNrdFFGTndja1dFM0lsMldRSXpJOUpsZy1qZVlsY3Y4NVJ2Rjk5dVZJSG9TVnhDOC1TR1FpclRkRHR5a2lxZmFrdWpkSy0?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Government to support 50 AI startups in Lucknow; HCLTech launches IT City Phase 2",
+   "source_name": "Express Computer",
+   "source_domain": "https://www.expresscomputer.in",
+   "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3IxX0Z6NjVzYW9GUDB3X3ozc3ljaXRSZmNadk82Q05QZ1FwWWFFcHpSNWFBdEVPbFhjbUgtS29qc1Npc2xYekJjUFFyZTIzLWNBX3dmNzE5NEw5RGY3TzdqV0FKWGNsTWFOa1dpUDRCVUtsNGtwcWxhZnhIRVNuQldsbUlZMjg?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt aims to establish Lucknow among Indias leading AI innovation cities: Yogi Adityanath",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3lVT2JkM1FKbUFQSGJINm9FbkQwaExfcDUyb0psMkttcUFLSmxWb2psYTlYRU5sVnNSQnk4UU5LcVhtdjhIbk56alJyelpWRVUwWF9UNDFoal9tZVRUQ3ZkSnc2dEZVdmlKd1lLcmxWbnZXZlA5TEwxMVhsaGRoQUdiX2ZNZnpabUZXY1VkdDd3X0xWM0NLZUVOV01uR0hpLTE5dWoxeS1PUTZJem0tYlQ0MGh0dlNQNUUwcl9FWFdVeF9sVmMtWVY1YXNEZHVrbGczR1VvN3ItUGdqallLVtIB5gFBVV95cUxNQklKSEMzYUVnQjZ3SElRTk5pM2g4Nks3dTRlN2EzcEc0M2gxZlV2UEJSRHpwaGQwb0hIX0toZDRUWUhsYW41bHp4UnpKZUp4TWIyNkN6U0dncFpzVGZrVjREMld0U1ZFanNfTDVKTWl3Z0xZSVBYeVV0M1ZERUEtb3RkRXdTTmlmblM3RTFjSlJEcllmQjYyWTlXMFE4VjA3VjFnTU9wa3FnY25jZDJKYmk1VFhrTkhRME1GbC1xSVJoZ1RJaVJoaTZGckxZekc5YzJsUml5T21VTzhKZ2czOV83b3lhUQ?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Plans AI Use in Government Schemes",
+   "source_name": "Elets eGov",
+   "source_domain": "https://egov.eletsonline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczlFQXFNRzFZVkVockczYjkyTURyLWlDT2JXbWp2SFZHWHlBa2p6eHhWOHllT3dTZ0kzOFBMbE5CdFFIUERhSjNUcHBsUlpwaG5iWEtlaGtvWVlJUjEyM29pYVBPbWNnTDhZQnN3RkF0bGVldEdMS3F0N1dYNjBwSmFwMGNOQ3ZaQlNBZDA3Zw?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "China to open up government IP data for AI, commercial use",
+   "source_name": "MLex",
+   "source_domain": "https://www.mlex.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEY2ZTFwamhNTjZidms1bnBZREEyblFFeFZydndrQjFvczJnYl8wbE5FbVhfd1VyNFdzZVJKalhrRzQ0WlktUEZTM1hXMXlFVGZvRmQyeDNXUzRhUkpJOG9yUm0zRzM1cnF4dXhlblNoRjlSR0dmRXFfa0ttREpPSkVrcVF6UUZ3bDZYMzlCWXdPOTdEZE5PR24xQ0Q5UGtsY1HSAVpBVV95cUxNS3pqNmxoa0l3UnNiYkhSbU5WRmEzYVNWdUJGY0RVelk5UWFlRHQxcDB4bUhhWGZLalR1S0FiUmhkZXowTlFmN0h4aW5GY0VyTnBBTXpla21fVlE?oc=5",
+   "published_utc": "2026-08-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh government plans India's largest robotics and AI manufacturing hub in Noida",
+   "source_name": "tele.net",
+   "source_domain": "https://tele.net.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLXlEWlpSTTV4YnJ5WnVtbUZLejFWcU1PUGdCSUppZUxVaGhZaDZKZXdrU1hDOGt2UUZmbkU4LXhkZmpUV1N0bXhuSHM5enlrWFRkejNJNXd1bWtRdksyUkIzV0FzTjdtamJSWmlCbXliN2ZUaUN4VHh0cVBBa20yaDgzM1h5enc5akN2ZmlNRWNIdFYwb1RPellCbFN5QnhDMFMtel9QR0tOaXAyR0ozZ3o5X3hIdlhZVGZOUUhHdUdGclZvNWtBNllfTQ?oc=5",
+   "published_utc": "2026-07-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "As AI speeds up government software development, testing must catch up",
+   "source_name": "GovInsider",
+   "source_domain": "https://govinsider.asia",
+   "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVm5WTjRXbUpISnBCZk1rQUwyY2pVQ1RPN1dXUnBFNGdPdmtwT0hVZmE2RzVzakRvYjZPaG01R0ptQlMtQjhOallIODU1YVA1dHdpOUlCMjA3TDh5Skl0d3E4WjVtQlJZYlV3emhCSHA3eHV5S1hENlhJLTFnX0ZBZTA0R19Vb1B3QzJNSmlTN2ozbmFkR3lxWXBleEFtS2FsR05DVlc5aEY2SFpIT2c?oc=5",
+   "published_utc": "2026-08-11T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rs 3,350-cr MoU, 70,000 jobs: A Yogi govt AI investment deal is now under fraud cloud",
+   "source_name": "Newslaundry",
+   "source_domain": "https://www.newslaundry.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFJydnlGYzlGRjZvUVhDMEdjMGxpWDl4WXlvVWotT0RGa0ZwbUJzb1dUX3V4NG1yRkx3ZXRJbHh1cmRkWGZKWHRZVXlyc0N4THJBRVRYamU5U2ZWZnlJRUgwZ3VZYnBxZ2lMaW1yZkd1UnpnbGd4aENiRXVtbTMwcWhNVTF2QlJuSEVhYzVNS3cwX2ZlamF5ZGN3ZktlaHlMclZwY25jNXNhcDZKMUptemRnMGFDYUljQWFCOdIB0gFBVV95cUxNWV9LN3NaN3ZjVHREb2tKRTNvalhpWllqaGZVbXdhSTVYb2V1M2RkMVNpYUtqVGxxR1dJYV9kWFZfT21zUEFnTGR6UkpzeXdaeHFiWEdBLWJUd1hTaldlaldNZF9lbXhKaVY0REk3U3E5Z1JNcnpmaFcyS21GU2xxenRBOHlDWDJWRGVCS3FybEg1NVdIT18zOXNPb0xGREN3Y0dYZGZXYzZVVnJ4bnVLQXJ0Q0VYc0dEZjc0Q1hVeEpnU19iRUNhdjA2ZVVxbDJVb3c?oc=5",
+   "published_utc": "2026-06-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "ETGovernment Vision Conclave 5.0: Uttar Pradesh bets on AI to power its $1 trillion economy ambition",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQkFSa19rN01QZ3licXp4NGQzMTlpUGxheXBwejJ6R1FpQVp6TEVqQ01EeDNFR3ZoOWRVLXVjN2s1TWhraVVKUmFUYzN3S0x0Z1h3NXA0aktBcmR6aWs1Y0JTLVctRURLRDVMaGZ6Y1RTcFBnVXNUdlZHMVI4YXBiZXcwaE5ROW93ZzY0c09yTEJIQUMzNnZGdmRyOWdLU1dmTmVpdlNZWGxfUWFaODJEUEt3QmtTWmh4aHhjVWRPckVxcXZkZGhHVjZ0Q0ItWVJtU3VJNTk4cmphMTFJdm4tU1IzbkhaaG1lSWpIMk5WbW9kMFVYU0FmMXZLWdIBgAJBVV95cUxOVVZPbGtFc0F5bnJENUU5U2FnNmNnN0Vhb2NZTzBfMjh6LUZ4Wmw1UXVPeEc3eDJtTERjMmlmUUQyZHlvWDNlTGVPYjYxTWREZXFIVm1RXzVEeFgydzk4cTBpYVpqUDQ5OUJBY0w0TFBZSU1uN1RrWVNXSHg1ckRCcDFndkRnZDEybHlQMkFvSEg1aUNQdGxWX1VXTTFNOG1fOGpwQTI5dzZabDc5emlqYkpsZmh2UXZsdllHTG5vdV9OS3ZhRnlKbjgzOXZPSWx5QVQ3Wl9RR2NtaV9RaVBoRmptNzN1dUstcnFLbkZIMDRUYXpYUDJIdmJxRUJ3ak5q?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oracle to Train 300,000 Students and Professionals across Uttar Pradesh in AI, Cloud, Cybersecurity, and Data Science",
+   "source_name": "Oracle",
+   "source_domain": "https://www.oracle.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUHMzVE52bDRhanA0OG1mQ1huaUdFLWhRNkpubF9BMm1iWVRxcGNQc3hLbkdJM1YyclFQejJKVklEd1U5U1VVbmhMNkx3VnVqbGdQbk9TLTB2T2VYblJsQUJJMTI4REpMOXBjZy10aURPZDBzenRBOExIb1d0dlVUQWhhWm03Tlc4ZHVMSnlfeUdWT2VDcGVQTVJEaDNNQWNvMnhTczdjWWxvMmZCbkRWNUVBaUJ1VFdmSXdpLWxMT3dJM0JzMWt1Wi1Qc3gwWUhNYWdpZTZuSHpPT2I1SENlRXNvUQ?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Oracle, UP Govt to train 300K students and professionals in AI, cloud skills by 2029",
+   "source_name": "Techcircle",
+   "source_domain": "https://www.techcircle.in",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVZRWldGeTJRMlhIcjFtckhjVjRNai04dzR3ZE03dDU5TVBwY1IxN0dqMlBEbHdBLWxMQ2VUcmF0VUk0cHJNMGdrRmpEaGpRUmlDY3E2aWZUdnB1NW90U0xMVmRrUzFna1g4OFdSbHIzWjltQTBuam54U0MybFJ2czJZUjY2eWZDblYwU3pGa1lCUXZ3eTBvdHZUeXRCTnUzM3lxdy1rUFBJRGU5Y0E5ZlBYeE9RejBHbUVucQ?oc=5",
+   "published_utc": "2026-06-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt plans nearly ₹600 crore investment to strengthen AI ecosystem",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVJwaW9BTC1vTE5RSzB2RlRnTUhzQW44cmY4bG5TdVBnZFBrRVlpanhSdENzVHpiZDBuZmRDWXNvR3FaZHg1dERtUmo4NDJ0VV9DWExsY29BVXVnOVhGMGY3dFlCRi1YdkZUcDc2WllIUENFV1hRVVRfaUxlTjlvY0VmQllHSV9ja1VhbTlnQWtvMWhnWW1hMy1ZVFBHc0xQNGktZEpKN0RUOEUyT1BVNHFkbk5DeU04TUQxcm42eG96VEFGZE9pTllMVWJQQWJDM0HSAdcBQVVfeXFMUGNBalZpdFFUVXB2LTNSRjdVN203RHYycTI4VkIzVzdud0xFM0xFN25hMWQ4OHpkM3FVUzlIS0hQblIwZzhfS216OHNHQUdBbU15cTF6T1ZlOHhuMUpVdnI0ZV9MTXRpY0thM1hVbHVtOE51U002LTh6OURSaGt2dzRyOWVTV1VNaFh1UFh4U09rSXBOQkwtWlZqYktqeGVXMEc3MHlKdUFqNkZDaDZtNEFfaGRHaHpHbTBTZWJUSlptalpyZmhpNFNmMjVGdjlyRUJJTWVncGc?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Cabinet clears AI mission, targets 100 startups and skilling of 5 lakh youth",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNkV3UW1PQVFqc3pSdEV2UjRfa2xndHFIYm9iYThwWDR4RU04VWVINkpobjlENXgyN2J3WmZkby1SYWVyeGlTZ1AwbTZFMzFqRnR6R1RzaHV0U3VmX1pGeGhNcjFuZHVhX3NsNGZvWkFtWG0zeGNteTNWS0tzTEIxZ0N1M1l0S2JULU1VQ2NVM1M0NENJZEtLdmZSc3RVWWFCdDFETkJhRWJWTUVoSkNFY1RrSjNabTd3clVPNm9nOWR4RjQyQnZLZW9BMjdTZTFtaXBtWkFXQUhUaUVHUFo0QS12V3hHWTFrMEHSAe8BQVVfeXFMUDhXU3h4Y3hVOHBmeHhESjJTR3VBOFQzQk50Wnk0TnE3cWpvYWwzWGMwUXNUVFQ5ZjdUWWNLUHNlWHlyZEZkYzc0bWoyODdqRG9FSmxZLWhlNTFPdlVSYTNvTE56U3huMFpPSGJmMUp6UzduLUJPQlBrc1BCZE9naTZ1VDkwdWJURGNCLTNVWmF1cVJ1ZXM0LVpDekVLSTdsd3ZBVVpNcVJFVkxidVhLU0swYktSUmNxai02aV9ScHVOMDBBQ0ZCSTFIbVp1Y0UxN0hBZ3JnQ0VDRDVJV1FMTl9rSGZubUV0NmxSTGhZQlE?oc=5",
+   "published_utc": "2026-10-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Balisacan: AI can fight corruption, monitor projects, speed up government",
+   "source_name": "Manila Bulletin",
+   "source_domain": "https://mb.com.ph",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2hmd0JpTDlvQ2VoaVZYMTN6RE1aT2o0aEFQbXZpX0dFS1Y4dHQxVWNVX3J2ZGhVS1ozdThsZDRDYjdRMTB3UVVXeDFVc3JadmxHLXEzYVZBWGxuRWFYc2M5OGdIemJPTEJlMTl2bkttZWxlVzE4QmVJcndrV1FOOFVQS2htTWttSnNobVNSRlFDUG41c29hSWtraUpCSjFr?oc=5",
+   "published_utc": "2026-09-07T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh: Yogi govt pushes AI mission with ₹225 crore budget and AI city project",
+   "source_name": "OpIndia",
+   "source_domain": "https://www.opindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOURaTGIzZEhjUkZneFVWWG1ZQkJPWmRzbWR6dDVCOHZOcHR4TEhRMU1kWlpYQjNzMFBWdWRGSmhVM1ROdVo0UG5WdGl1SFR6WkMxVmlmQXhMeWJLZHlkaDdydDFMOExFeGl1bExiTzJ0Nk5MOWFVRXo0SUdtbFFRcUM2RjNIWkpzNElleUl4aENHZVAzTUFOemJvLURRQkVhMFdPVUhZOEdoVGRpV1JhVjIxV0thNUpYWkM1TWVVb1UzOXE4dVpMQmpR?oc=5",
+   "published_utc": "2026-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt scraps Rs 25,000-crore MoU with Puch AI: ‘Firm lacks net worth, financial linkages’",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX000MFVEa1NLMFpPNTJtbW4xTmtWT3NKNDVkb2wwOEk0MEI2R1BHWkwzRHZvSUVIejVINnloQzlDbXU3TzJ4eU1RRTZNdFlobm4tWWdNOWJaWERBLWs0S0tibHR2M1hfbkVNZmswVkJxaVdudk5Wa05tS1NGS1pOLTBEYV9ZUkI1M3RBbEM5VHR2UHZ4RmR1WlNBYkx1RGZRNnYtejdJcmVLLVZPeHJHNGlKT3JMUG1WSkxMbDRXUlNvRXBiUjBFa0x30gHQAUFVX3lxTE9kV25kU0hESFB5U0lxUTd4QjRKZmQtaWRCdnZBdUF4bXViTzNxYVROZktmbWswVnJnXzc3WnFwTWhGODZMUC1rWF9iMmFMVU93a1RmMkZ6MFl2c1Q0QkRKWUJ4VFBnYVc1bGVxWWdPM2pPTVBLLVp3V2hHT3ZiRXhQbjlQVkVPWXFJc3FvU2lvcUhMV1NwdWF5SEtkWmx4a3NNaFVtSG9zeHhjMlhRT292cnZwdGx2VGEybERjUkI1aktYRVhRb1NCbFVhb1NQaFc?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi issues clarification after UP govt’s Rs 25,000 crore MoU with AI startup comes under Oppn fire",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVE1XYjN3QkV1cURSRHV5dHJSVW9sSTA4N1RZR1VNR0xEeEVQZGNWQ2hMYjRTb2hkMnVOck9adndOdFpWMmxSMzQ1MUhKSDdrNlBxMUVIYVBLdXFuSnowT1Y0bEpyRkRZWEx3U21Jdk5ySjJaUUs3MFRrLUpEeXpLZnlPQnMtN0YwaWlVLXh3eDBHbFJ2Y3NSa0MtWG1hQTNWdGhyQnNjcm5kSkpLVFRXSWRMaHVjTkZhT3hYcUdKLUtsejBNWWFJRGNSOVBXNW5G0gHWAUFVX3lxTFBCcUZObjJ5T0hHbDBFSThjOXRMWHNLblpJUmNJYl94UURJVld6cTRMSzRYZ0VYa2lGMThzMGNPT0cwQzZ3NUUyWVhGRnhqa3hsUGR4alVFQlRkeThvTWJpdG9zRlpjUnhRX0dBYV85XzhIXzVfUHRRTG5YQ01WSzB5Ymliekl3RGw3VDZmaGZHRTMtQXVhbmpiRm16YWJ0cVdyb3BRc2d6cFdyZ0M4ZlR6bXVIbjVrNzNQbjRNWTBGcW1LSlV0ZW1sTm1UX1dXTzk1TG00NUE?oc=5",
+   "published_utc": "2026-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP plans 75-acre robotics, AI hub in Noida as CM unveils deep-tech roadmap",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1QxcmsyMGR5U1RyUHJjWWdVOFlxR09rTUJzRVpZLUxaeEctdzRCa1dFUHd4NVJGNS1nQlNGRU96eXlQMktWTGQwcnVZNFJiNktHOGtrNmF0TkRxZkZQY1UtSUdNOVdMWno2Y0cxU00wTWVwRkpzSkYzYlpHUVpWNTc1Yi1uZnNib3M1Q2l0YkVON3dsbnZac3hMVHpfV3hkZ2NhaGUtWE56dUNpcklzMWRVYzZIdXlIalRJSjAtT0VVeko2aGFXOTY0MWRHaGxONUNZbTdoN0xjQdIB3gFBVV95cUxPZVdzTjk5ejFkTlVMeFpTcHoyd3pRVTZTMzY4TS1sNk94TDkzOU9MMFp5UHZEcldGN2tnMjIxRFpQNnBBemxpWFVhZjFXQXJ5UXFJbTBRdFBkb1NHcnpUTWJadmJ0VEJLVC12UmRRVDdyN2JINThIUzJIUk84N1pnUHp4Q2k5UV9NN3NVVVRMTEdXcUdIOGxXblFHNnlQVU9aY0tPbjZfYlBXYjN2b2JzMUdEU3gtX1lWeFJzcTh2YkZvSXRXSUd6anBJR2hxUU1zRWQzaUtRWXNkVHdoVXc?oc=5",
+   "published_utc": "2026-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP government cancels Rs 25,000 crore MoU with Puch AI over financial concerns",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORDc2LW9IUkVNY1BqSUJNZUhIUjlWek9IclJ6NzJzMDlMU2JYYkNXNE1RcDRDY3pQR2VLTUZaWFYyS0pJN2pMaUVfLWpISmNzanNRT2gwTXhOZm0wZ1IyQ3pjUFI1MmFGc0JSMTVINmNZSE5GT2t2dFc3RF9pRzFrSHJxaWx0SHVlczlwYVR0RGIwWWJsUThuQm5lZjhVbnRtZ2ZIOGdCRUVPWk1taVJod0c4WXh2Uk5YeDlnNzA2SHYzN0hkeURUOFA1MnV0V09yZ00zUTA3Z09hYk3SAegBQVVfeXFMTmRFWEtSYkxWbHdjV0dBZXpvMENOMldVdkd3QVphQUxtOGxaUnh5MWF4V3ltQjZ1V0RaZ2lDelRTLXdjRXZmX0I5NEU1TnFuOGQ4SVMtRGt1LUU2ZE5NbUFlTUlZOGFNWk5aZHJ0V0pnT1lEMHRsMVEzS3N0eDBmek4ya0t3Q2oyM2VfbDRXMFFmSWk1eGc5UWlPSVNaNm9lc0ttZUN1T3dYS3I0aVRBVm9ob3NUdXItRUsxQkJJLUYxSjFQbkN4QUJwU1FxMHFZeVd0NmFMbDlteXd5VGxKeUZINzBVb1RwdQ?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt cancels ₹25,000-crore MoU with Puch AI citing lack of net worth | India News",
+   "source_name": "Hindustan Times",
+   "source_domain": "https://www.hindustantimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGE5SnRiXzFRRVNPWWxCR3hUNDRRUmxjR3pXOEYweDFDSzZwWEFkQ0tJeTBpTWkzd1c2RXRBa21iNVg1ejY3eHpkNnFxNXhUSnpvVTdxazlIVkhuX3RHc1FGVUl4Rm1NVlM4eXQwODlpS1hOMmg3ZGtmOGpINDZNVjZhaHlNaTZSb3FmT05acFlodVJPUXprRFVUMUd2ZEZoUjhZSEpGeXlJamY2ZmJONXB4bjJpQ2FTVlZkUkFzRTNhN1NVbkMyT2NuN01yeVdx0gHWAUFVX3lxTFB4OWU1dFI1RHN0LW9sQkp6ci1Sak5RX0otbndlTnRQblVCalV5WnlnSm5OdGdFeGxDVHJ1RFFLWUV5VnhQUjl2cVVlZ0RwbEdocXdXdkFSMkdKU2FzaE9VS2hpLXVwWXNGNzlXOG1iUGtSejlQOS0tV1VXU2hwNGpTMjU4a1U3RGdaengyRmQ4YS1hWWlDOUhraWMyQkxXbEZzZFpnU0tWU2toUnNJNmJDR2ItSmFOUXQ3ZmRqanJnTzl1R3J4UFhUSU1WT2swMlpOOHB1aEE?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Government Cancels Rs 25,000 Crore MoU With Puch AI",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOREoyQkM3bmtKUGRqYlNBNzhMbG0tbFozR2ZKbWQzVldvTjNpNWltUk5vRi1VY21RWVJNa1pJMXhEVDNvODJWV18xVlJpeEpWNHdIZ3ljVVA4ZDRIRVREU2Nkbi1ES2JpRUlRRUNDZHkxYVJaTWxZX2FLeWhUYU93SFNRV3RjdzVJYmJVeUJDTzIza3dHQmdzbGp6NmVIVFJDalVoNHduQ0wwd9IBsgFBVV95cUxQV2VKYzlQNWFmOTlib0pzOG1oSmtwVTNraTJ3UHcwV0hVNGtteGxHaUphMG1YTFBVNC1FUXcwaTVhNmhCMGFON01KRVlJQUxkYnFsMVdGNUNnUmtLcFNJWWRKY1ZkbUNwSXJwQ0RWTm9TRGJ4bnZBOHN0bUhXZXJZRlZFVHVFdjlvaVBFWmloY085b3dtU3ZxWFA4bEsyZVI3Z1gxck9yTVA2bFN2T3JvR0Zn?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt pulls plug on ₹25,000 crore Puch AI pact after due diligence review",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVjBOdzdUMk1xMkFGdVk5OE1MV2pFUDZON3NZalJQTm1hS3l5YkEtaHBxXzlHTlUwU0xkVzliX016MUFxNU9Va29fUVBnajN1azJYSXNfTUZ2THQ2ZDk0d20tZzV3TEthaDhKeFRqcXVac2V3ZmVVdzR4NE5DVS1kb3ZXeElzeTJGRnRXbGI5ei0wSGxzQlNWa1VYc3dQdVhVSFBPZ1RUYXNSMzhqRUNnd2tWWXhjWmZIeEU3bmdtVGRzX3ZDc1VrRV9oUjczdnk3bUc5cDI1cFE1QkpoN1duV1RTZEI3VldMWDBTWWcxLXRtd9IB9wFBVV95cUxON3FnOUJEWF82UUJmOWliSnBYOXkzWlVhSU0tdXJHMU9tNzVQNWkzdW9hUlhPbUFoNGpBeHBQektWWDZVdzliZmkwVWJGczY4SjlUV2MzWlEtb0pzTWpDMDlYVHNDMm9kNlk2N3FuRjJKTlNDX3JtVVNQTmpHSFJEWDk5RTJ2MmJrRi1SMi1yUFVxNTJRbjB3el8xWmIyc3NxcW9NdW1xMzRPMDdGdFhSX1VCbHk2dWZQT3ZoTV9iZW5rckJuTjZuZ1J5N0lTX3ZGTGNlcktOUkpVUGZmckJSbWJPRlowZWZrRnVLeGlUa2J5MEdDd1F3?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi Adityanath's UP govt explains why it scrapped the ₹25,000 crore deal with 1-year-old startup Puch AI",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVUl2SlFUVDNHU25wdTY1YTZlVXRjU2JIUDN6ZzlqR0ZGeUd1UnlDVFliX2J5cmllN0xMRU9NVUFSVTU5SmlRc2VNU0paMV9xWG9JTGNKNkFQSFJqakdyVnFERm5GRmI1MW1uR2V3RFc1dUdCVFU0VU5tX0dmQXZqYW9YS1hHajVXMC1ZSEFEcnQwY1k0alBSWWZIaHEzUkxyZ1hWM3VPdGg0TkFsc2YyNmo4Yk1qSEREYkdIckFlRnZUZEZudWFVZW1YOHdEWkNOckl3Y2tqblMxYXdyTG9wR3VlMnZITGdxc25QTGt5YlJRSElkNGhHWmhUdXFTeUF1S3pEbzRRQmFOSll5WGdpc21mQdIBmAJBVV95cUxQVGNVODhhZURGdTNWeUpxUFFSdjF1MXhLMmFRdTQxNEQzYU1zMUVkVURCT1hWRk9sN0pkYmdNakE0Y3FwbXBOcjdnLVlIX0xjVm9XNlpTdWk2YTBQN3BFZHNrTmRFSldsVmRkVlNmRVJISkZ4RHNSTmdGWWVzVWJjT3hBWkdTOFVTWEV1OWxkNGZVdFNVZWQ0M2xkM2M4QkZSMl9mTHRqdGlrSEk1TVcxQzdzNnVOMi1VNVVHMU5LRTVhUTVlb2ZSVUtsUWE5YWVEWFZrVUNyQWp3RjRHWVZIT0xCY19uMFpvS1hoUE9ySURSOU5jYXFZcW50V2p6OWZLOEktZ3V3SFFyUmhyRnI3aHVHYUdzQ21q?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Why the UP government backtracked after announcing a Rs 25,000 crore MoU with AI startup",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd280X2p6MWxxMkt4N1hPTnNtZ1JRTW5mZHV3MlV2dlJrS3BORlBHTTVEbE8xMkVYeTJJX095bFVGenpjYU5mcDIySVVhSmtpV0xnWkJRX1lPX2dwQkpJSWgweVRwZGFIYVdGV3BNb3FhOHVnYWdyMEVvZWNkRTUxM2NOMVdkUTVfQTV3MGUtYkVESXNndmg0TmFUdjQxd0R0dE5EVkI0M0lQVkNWc2Z4cFRNUFJnMmFkTWhkYnBTWFZITmhCLURoOUt6cGRzTkV3RTEzWTlDYUx3SUZwVzFsUm1nTjhCeUM3WkhVWWlpa9IB9AFBVV95cUxOOXB0bVdnMXQzSE5hcG9PT3pxaGRBbHFNbDlPMTl0eV95UjdMYlpJREcxR2s2dEx4a1pMQWl1Y2M0SU96VnVFallwZUQ0UUthTDZUMlhsYlA2MjJZZFVIcVFzTGx4QkV3OEFidlJzR1dWNWpqVUM4Z1VHX0pmd095SEszTkE4by0yZ2MyMWg5WmpYbjNyNU92SUR0T0lXYXA4R3Z3Z0NUd1lneG43bXRoekFiYXpDMUowXzZQYWZsNV8xbENFcEw5azFlZlozb21neUN5dmhyWWpUUVowS3lrYkVKaUtBSkFPYUJfRTRDMVJyOFlq?oc=5",
+   "published_utc": "2026-03-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP plans to use AI to transform healthcare, says deputy chief minister Brajesh Pathak",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "https://enterpriseai.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdlpWWkw4LUdDOU9LU25OWGROVlFTaW4wZGZMUW1GdzVXc0QyeG9ERUpnWW9Fc2c3S1dfODlfV21ubXJqVG1iZTJhNU9KWFpaQjQ1cUUxWXY1TFFNb0tWSnQ2bXZLeDhtTGJBdFlzMW9RNXJabEpRZ2dkLVZJVDBabjN0TXlLck9SclBPS1VlYTNKQ2xzU2xWV0tMVmd6OC1OOFlFb3BlRUtCdWNRN3BLTUdXaW1YS0hKaWRWcUVCbmNsU0kxdXptWlA2ZUVseGp5N3ZzUjVB0gHbAUFVX3lxTE1iQVRyeXpyMWdBMGpwYkFWYm1tTGd1ejMtMld3ejcwcGVndXdtekdfZ2xHYVNoNU90S0dyOUN0VmhBU3BqbEJJUlBPSGdudUdsZS1rSHE3d0o4V1BDdkVzTDV3V2o2Nld0T3JDeGlTc3lhRDVHWDdHRjRpOVdHMks0TXdVaE9IZW90YkxTcEpnT3kxUGZrcnlOcjlZQ2Z4WnF1dE5ZYlJhTXpyZ2RDVTZxRzhGSnotUl9KZ0Y2bXhaeENkeDY4ZVhBVW5ZSno1aFhFVk95UWRTVWpXbw?oc=5",
+   "published_utc": "2026-03-19T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh Government Cancels Rs 25,000 Crore MoU With Puch AI",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXZfdEI3Z2hKQWNHWXpTSlQ0RlZKV1UzRnVwaGZ4X3RacW9WVlpkaDJreV93dEZCTXYyWXpPSVQ0ZHlfZXBqOXBDTkJ0MndCazk4U3lvRWJpYnd0YU9MSE0tWUtCUzE3VXFEX0VCajZFcTM3RzFzcjJqOUxoRng1aWJCYklTUDNlcjRZMHg2ZGhoSDlVQW5nbzM0czJKUVhyRnVIYl9uMNIBrAFBVV95cUxQRVdTOGVGMHdwRGtyYWpKTnZGaDZOWE5kNEdHa2FZN3pfRmEzTGd0bExBX2JVV3ZwaXZocEo3aTBpcEJicDRtZUdmVTBFVW1zV2Y2QTJqSG5sNGphVlZrSE1RMU01MDBwaG5kMm5JTmpkd0dFT044SUcxdjd4bVlsYkxVVFRkSlUwVkRPU1JsS1lja25OVmdmTldqWHFzSnZxMHBHU1IyVXNjWXFU?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Amid uproar, Yogi govt cancels Rs 25,000 cr MoU with startup Puch AI, citing transparency norms",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0phX3VCTUthakVqMmZGcTY2LTZtSG5QNzJieElHcFFVUTF2TFZvT2NaYzRLby1KYm5xdE9DNXVfWUk5enVURmVfRmZZeUZ2NmFSUTZQdDZfUXVuRGkxWWVSaG44SG9wQ1pLOGg3Vkh6MHR1dW9feTgxQ1FLSEMzTEVtNWRlNGVDZVdLMGNJeUx2aU9ZMGNMdTdpX21nRG9qNlQzb3g3a3pfSE9fcjlOVGhSMkg2ajV2Zmt6WGllZjJlV29LbFHSAcsBQVVfeXFMTXhxQnczNGhCamFLV2tkNzFLU0dHYkVOOUJQbmJFZ0RRcVB2U2x4X2VHYkFtNS1rVWpyZjJEaFhHYWlLZDlEUHo4cnMtUjBEY2JrYUFBajJwZkJxdnlXblE1dkJZaFUtUEtOZEprRGhvU0pvSjg5TThlcnhvMzhyc1BUZkJVZnMzeGtHTThmcV80bDc4Q2p0NFh6dGRORzdqOFIybFNMWnpJYmxHNGRLQi1CNk9wUEV1eVNmQms1ZUM1bF9ndGVMc0l2VTg?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt cancels Rs 25,000 crore MoU signed with Bengaluru-based startup",
+   "source_name": "Telegraph India",
+   "source_domain": "https://www.telegraphindia.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSnpEMnA0R2ZiWWN3eUp1cDFUZkRyMk1QSmFJMDhHOUxYZlhOcHJGTTJya2hTR2Y2N3ZDY1ZxSDFRQjhwWEwzZEpSZHpsMjljNmMxcmpRdmJvUWg2aWtVUzIzSkhlWnNSNkE5cDRuT1dqQ1hMU1NyZnBKcWlzQThpZG5QOGRfUFlZNW9OX0g5bnZmMS0wdVZEMU1rQk5QRjNVQkV4dGNST0s1WHNrb2IxU1ZlUnE3R2ozdVBvOXlTSFFIemJnYk9IbWdiaFlaa29zb0R1bkFXbHFob1M4S1drd0ZqTk14QWvSAewBQVVfeXFMTmlsQmlfMnlvbXV5dDNyMk5zckFmZWpHNFFnNmt4c3hiVHpKRUJ0LWpvRldpTzdmZVB1RXdJaVY3QWtfYW4wYlZrTXVfU0VsY1NqckhsM21FaGlJc3J3dkdSNmw2Ymhwd3lNdFNSOVJMWWdyUTN2UFZKaXBqOFVSd2Z6TjAwN1l6ODl3OXFWcG1WeWRJTzdHM283Yl9ock93bTdKUXRVUk9CREdlVERzSFhvTkd1QmgtSEVVaXF0dGF2Z3J1Z29nNnk5RzVNTGc0b3RtZ2NSZXZEVklyMFJOTExxUUV0Y3JHRmYydi0?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt cancels ₹25,000 crore MoU with Puch AI over financial concerns",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY241d1FjaUtNYks3S09LYUlJLTdIeHI3bzFFaUx4bld1M2lkRUlmS3pzcGpOR21uV0s2QlZIcVlJbVdGdWt1cEhSUzJCYTB2UHlPN3RTMHNoWUlLRnM5YmJUNV9pUnM0M19PWE1QWEREQWVnaGVFWHRzendDV0xkRjRmLVJ3NEFCZjVYOWJzY1MxS0xUcE5JU0l4TjVxV0JkalBzME9aQUpiX3lZU2VYMDcwTVZucnE1VVE0LUh2d3hhRmNMX3fSAcsBQVVfeXFMUGc2cC1jeVF3Ym80Yk5QWjhGak9hb0tlUklhTW1Ic1pXalJSTmFvM0dvWmc5SVpURm8tN21BampqTldOenB4cW9wWmdJM0ZOSk95MUVHNzcyVlRTSk9RZnUzVHpTd3Y4eEJZQUVEeTllUTFONW1LcV81OG54R3h1X3phN081Vlc0b08yQV9ZdVMtcjJkelEzbGRrdjhKdDBhUkFLV2FHTjVTSzBHLVBieGhjMUdDU3RlbUFydEN6T2xac1dWR0ZYc3ZsUTg?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt scraps ₹25,000 crore MoU with Bengaluru-based Puch AI citing credibility concerns",
+   "source_name": "Livemint",
+   "source_domain": "https://www.livemint.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdldqMVBMc2hfRUtKUE4yaHJYeURVVHNWdE5qVkVra3ZTanBXYWZVSktmOU1XVHRTWUZKZVoxaEk5Yjg4b3BKdEhGcnIzNElrTnlIbldOem5hckRlOEhOSUxiY1E4NFF5QmRpZjFIT1lwMWNmZS1hUkdJUkR4YmRBSHBfS01maGdicm5WZlhOeDA5ZFZpa0ZZQUhaRVlRemFZLTlJTDZvcnJkaGdwZzd2ODhqVUw0SWZha3dKckc5MEF2NGpvMG9PSXBSUFVmOHh0TzJ6NXMtRTNPQl9sM3FkZnhzUS14YkNLWXRiZUtfc0ctUdIB9wFBVV95cUxPamZlQnlweHhsRGZBQUxiUXdUVWJPUGZVV05LMWEzRlphaVExVzlMY0ZFandONmtvazI1NWREWHZ1YkN3LS1USW9LYTJsc0RSeW9seFdtS1RtSTdfTzFNTjZWV2JiYUQ1RWtZTXloelVpVzZiRDZRclZBcGozSjVXa05pS0l5b0l4Mzc1T1RJb1ZhajlhNkNEZEFwMExiOUhLM3pBdUw4Nmw1cWkyUXdvRlJXRmpoNks1SWMteEptc3NSbkowS1J0RG1zQTNqcVUxd1NldE9aVTJPT3dKSHFjY0lPX2cwckpjeDhlN0Y5cjZJcFdoWGlF?oc=5",
+   "published_utc": "2026-03-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Hype Meets Governance Reality: Puch AI’s Credibility Concerns Derail Rs 25,000-crore MoU With UP Govt",
+   "source_name": "BW Disrupt",
+   "source_domain": "https://www.bwdisrupt.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3ZmSHFaZTFDUjJOS3JPd0JZOER3TUNqeEtoSFpELVN5eTNTdmhLMmJHM0ZSa0FWVmk0WWx3bGs2M2JQdzlPdVFrNVlIYVZuMkNXMV9kdDVhRHhmYmxZLWtjeUxQMWJJemd2UFZCVkE2SUtuTVpVT2J3WDFSNXNyS3pCWDd6NFNEQ1I2RTFYOVF0a3hCZFUxMkhrSENjb0Q3MjVwYlQtd2VxdEJqdmxaVDNnYnljZHVJTl9LSTBBRjdtSWVZV3lWYVFQMzI0dUMxVXJIYWRPR3AtX0Vy?oc=5",
+   "published_utc": "2026-03-28T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh's first AI city? Yogi govt's big bet on Lucknow",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "https://www.moneycontrol.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWNubDVmaVNEVlhwTTI2LXByTk9WY0hpQXlGZDdLYW5qUk5XOXdramJuNFhkOTgyejAwUUVHcHlkeWs2aV9CNDF1TmFucjQ0XzRuVWhWazR1dzVXX0ZHU1VDWllSaE5tNF9wOHlRRGdLWm4zMDl5bWlKU3EtdlZ1TFVTMG9oRi16LVg0SlNNQjhVbG9nTFFhQi1NT2hJOEluSWdWZ3JseDV4dUhBYlJfNjFkeG7SAboBQVVfeXFMUEFSdmpfZXlZWUZXS1ZOQWNuaHlTaE1MNWFkZzVGOUdMRnFTUlJUblB6Ym5SQjd1aUZOWnRDUUhzR2x3N1MzZmZfaE5jZDA0ei1Cd3E3RlJfdEpnaElZWmMyOUpHeGZqdk5tSDRnb0JBWWItR0ZVZTRmTjE0WHhIbENSR2lJS3BOd0pHbzVDWTVKekU2ZURKemJSb2Rkbko4N29vNFZCUkxucmlDTUxqNS10dUhQQVR4eXZ3?oc=5",
+   "published_utc": "2026-03-20T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt steps up AI push with focus on future skills, governance and jobs",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeWhES0o0LXRSbnBqVkFtblNkN2ppWkJmNlJlTXJad19xY0drZWNRRTJ4Y01hbzc5UjZJM1pQdk8xclNPWUY5SzlTRVpuR3N6LTRPVDdISEdqMS1Ibm4wb3hFQXNfVGtiR2s3bUFZd0NycXBxS2VfU2R5dHNiQXo2VnF2N3g3Z29OSUV6amxlYnB1RWxVRU9KaWFUNkRqcGZ2WXpVTVRKMnpVTjVFY3R2a28yT25TOElGRDhSamlxLXVfNmJkMmJjTEJDSkZUMzBfMENXWWtJeDl1Y1UyWHJ5NEloYkNhdWvSAesBQVVfeXFMTjF5Y2dDLTZkbXhMeWNJdjRRd3hFM0xWME1NSFRPWEd5ZGVLdk9ndkYtTzZFSFV0eUZWSnU3MFJmVHhWemk1bXdSbEIyb0RGREVmcHFuNmJxYWloT3FGS240X3BLa3prTkdoTWpiSFdUZGhzWUJYeUpWbVhwZlFGdlpocWdvX1FvaUJlaWprbjB2bEhjNEVGRm5CM2F3ZFlqS19zbVo4cmxuVUUtM3F6cmxmeWlrLW9nMjRjU1lnQmlnWGRFU3dWUUtWRHBKeVRZZmM0Uk00WWhpV3ZlbV9RU3E5Y2V3V0tEanlZZw?oc=5",
+   "published_utc": "2026-01-21T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "After MoU with AI startup came under scrutiny, a clarification from UP CM",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmZhc01LeU15UWJzV2NENGd2SnlIcHNaTGxsdjducnRreGV3bTA2UDZ5QnQyeWJfeDNvNkJ0cTJDa2ZXdUlxd2JvMEJzTDBZSkFfcXk2cVhqWnIyemR4SXlZUXFmMktRaGt2bmRYQWFUNGRCcXdGdngxMnFpN0VmVjk5aTJUMEFZTmozUmw5ZURUUXNiTEluZDcwdm84SEVDNVhPaGNGQm1ZQkhLX2lReUtHWG84cWgxTVlmaE5xb0YwcUJIU3lFSGI1a9IB0gFBVV95cUxQeTQtdlRBMzV6VHl2RFdoUEYzQmhiRy1EQWhqLVBjNDhaZGRLQ2RIY1c5aDdVd0V4QXJhWFl5cmhWZGZsR0dEd2N6dlRSR3NtNlRJamdibVhRV1c2MlNKSTA5VzJra2tHTWpLTHhTcllNQjFUMmpMSmpCU0VySzY1enFMVjNlZE80SFlrdEo2QWtSNFE0RnVRQ1VWakEtU2d6a2NnNk1KUkllNktwdFpBRkNjMXRWdldMM0E2NHIydFFQeEd3MGhIQVVVMTdieFJNOXc?oc=5",
+   "published_utc": "2026-03-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt lays groundwork to become model state for AI-led healthcare",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYnpqQi12WUVvLWpWdWwteHFkeWtIX1NZSmpLSDJqazl2d213VUE5ZjExcEx5Unc1Ul9LeW5zYVJ0ZGhtSWxNOHdpMTZIeDJtMENHX3RBQ0U4MUtrVWJzN0dXanZycmF4QzV4cFExX1Y0NzZaX3NDa2xudVJHa21uUVpxdm9XaWhfWjRpU2FpeHpQNWo3WFYzVGdPMnY0MmJTdDFxVXdEUWVSYm9LOHBiWXNlWl9Cb1dDUWlCMkhZN3NveFltZFhYd0ktNThjQTNuRnBEQzJVa9IB3AFBVV95cUxOVzdLVHlFY1A3NUVxTmQzUlZiZGRYUTR2eEljQUxDdEJMVWFkTGRjM0dpV3NSQ2xEeHNRQVhmdjk5MFY3emU4dU9QOFhHcUxMVHZDeXYwN2dLb1hFZl9mMkQ2Vk40Wmd6UnVMWmpQSzNyc1Rha0N0aVBub2JnSlFmQjdrSDM0SjFtR2JZbFRvYmp1VFdHQW1tZ1FFRUhuVkNqUkQtaGs5bW1TWlk3ZHFKQnNodjgwSmN0TUFPT2t3SU9EZnBrVnJ2YWRNVUQtQUZ0YWI2WHJWWGQyVkJj?oc=5",
+   "published_utc": "2026-01-12T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Govt Signs ₹25,000 Cr Deal with Puch AI to Build Statewide AI Infrastructure",
+   "source_name": "digital terminal",
+   "source_domain": "https://digitalterminal.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWNUbGpUMUhsb1ZrY180UjNQNUdIbVRadlFLeHA5YXpyQjhlSXdkRUdTSFQ5UWtpenJQaUZhVWNIalNzRFVnQ3NuUFZCSGVvV0NfUkFpXzNWOW9tZ09VMWFFOXVJY2VXZ2JCTmh2NGY4NnNJY2dxdl90ZmdvdVFHOFc1b3FQOGFDUGFsSEtyRnQyRTBfejROU3NpT0VBUmlvdWVRTDExUnZkMUlJMlpMVXpDTdIBwAFBVV95cUxNQTNQNmkzZENPU1Vqa1JpdGdmQ0dpNFZEMTJ1ZHZRelNiTW1NaUNUZHNueTVtUWUzVEYxcDVMaF82bXRBWE1BWDczM2VZSHdNaDhzcVRDRExqUHJPZ0FDOFZXekR4QXkyTEhDYlNsY2k3TnF3Wk5FLUh1N0lsNG1LamxzaWZmT1B5WFpfVDJjcGRBT3p6M1VWUFB4QWN4OHZUZlViNDlpTlN2UmJ0OFFwX25lWTJmTTR5UDlWdmxkSWw?oc=5",
+   "published_utc": "2026-03-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sify Technologies CMD discusses AI-led digital transformation with UP CM",
+   "source_name": "ET Telecom",
+   "source_domain": "https://telecom.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZjBxdzBOcVVGYmgyWklmcHpVNTJBZXdoVV8zSWV0dUd6LVFFVzI0b2I5NHZrMGZFMW8xOTV6VUlSMnZscE1RRlNKSnIzMUM1TW5mTEw3WUlGMkxjQlZpOFVJOWY2cDFwYjVVdm1NVTVEaVJxMURBalF5aHk4bWl3b0I4aG0xMWpXTG80emJ1OUJ0c1B1NzVMRmlleTlPWm1mRUJtVVVjU1R6ZTRBaU9xZEk4bWNWUVU4ZlFBMGFFUmp5UE11MzdMSmp6bU9md3QzZ2FRU9IB2gFBVV95cUxNUnJVbzRGdkoxUFI0RUV6MnYtTGpuYTJtQlBZclZQVUJkcGROaGRXN0I5aVJicjFZVll1cnNZTHBzY0tZUjFsbVRuRkg1YXJvcmNKT3BJRkpzaXJ1YU5DYW9ER0NYQmhYVkttSjI2cG04X21IQkVVUnFuZEZ6cDFfeEFhbTlQUWxJcVNDVzdTV2thaHo3Ny1JRXBKLUgwQ1RfQVQ0QjJoYTNSdXhfeG0xUk50aWFzUjBaNm5wMXI2ZFAteGpraDROVlNTUVpXOXhkUUtLOExINHAzUQ?oc=5",
+   "published_utc": "2025-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Sify CMD Raju Vegesna meets UP CM to discuss AI infrastructure development",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNnhKTjg4RldfTkFnQXU0Und1bFNLM2lLbllHUzhYOUVjbUFmREh3aG5GN2JNSHA2eXhRZnpLMUlFbnhQNDRqWU1HczB4YTBERmdMZUw0ZVhEQWpnVGxtTGtrZXpCUm84VG13Qm1Wa2JUeXJadGREdF9Jd256SHZRTGlWTHhMRmlvNDJ4Z0EzN1hHZkRQWGtLMFAxU3N2MWJObHU3WU1YV2tYNUtqYy10ajdadFhDOVdUSUg1YjlRTTBZOXBQUEZVSkhaSmNWZHFETmdHNtIB2AFBVV95cUxQejk5MXhEc1BQSVUwQnRkcHdTVTA3bzlXQmdidzFGM0d3REFieEZCQjNZWC0xR3VpSlR3SC1vZmpyOG83WEZfSEFPekZfdlh0V010N2pGa0pWczFreW95NE5mV2hhWEhMdHJ2bzNCM1F2czlWa1lnT1lwZWlLUE96SlZNR0JDcHVlNGtyR2REWkJuMnJUTTkya09MWTRKOUkzaEJqeDNJS2ROM3kzRzNPMldZd0pJQkhmQ3BmeHYtOVZ3SDgtcVNuYUNUU1prNDlDZkNMdHM2dF8?oc=5",
+   "published_utc": "2025-12-24T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP Government Launches AI-Based App \"YAKSH\" To Strengthen Policing In State",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS0FoYjJORHNjV3VZLW01WEwwNjlRMWdtUUkwejJFdkNCa2l6Z1JONE9lY2VSVlBCVGdfbV9XazdnWmJFZTFlOFNqMkU4ODFJQlFrZVd4OURKbmxPN2xYbi03MUo1Y1d3RHJabkdENzUwaWtOR1VTT1M2ckRJcjZxeWl2bUdTRUZLdHViTE4xUHMxNTNsZzVlVUJnNjRrWF8ybXhzU0FhV0htclE2OFlMMUt6eG_SAbwBQVVfeXFMTUM1c19fMWI3S2pHUGswdUFsU25EME1zeEtZLWd5Y3hsZlpMQnVvdlVsVERrZ1Y1TEF4UFB5QlNPU0lpY1RYZ1ZZRkd1eFV4UVFuN1pUSVVBLWdDcjNXQlg5dnlzS2RDUy12SGVjSE1PTFhUdVlwNERqWjlMdDB0bE1VaW5HNjlxbDJBczhvaXNHTVhEenVMTV9sLUxyaXF3bDZVYzhxVy04NVRlTE4ybjd5NUdZUmNJdlNaNWQ?oc=5",
+   "published_utc": "2025-12-28T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AM Group Signs Landmark MoU with Uttar Pradesh Government to set up GW scale AI Compute Hub enabling Democratization of AI from Electron Agents to Intelligent Tokens",
+   "source_name": "PR Newswire Canada",
+   "source_domain": "https://www.newswire.ca",
+   "google_link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPdEUwM1VzTk12U18wUS1IemRpX0hES0ZBYzJXdWdmUnRxVHNabXljT0w3WGRUclBvVExlWUlXVTNKckVHdFY5RUdHakNYQ0hPNnRtMWIxQUNEZVRpT0h2bXcwejlDTUJUdHMxMEc5Q3B5QVp5NFd6eGFmRXRNdjZoN2pHUXF0VDJfQ2VQRjRSMTVERHpRYzdwVDVleUNlWWdlYzc3Z1Z1ckxGOTRZLUNYdkJETnhEVDgyQ3pVTWR5WVllcXZWd0hRQXAtRm0wWVFHT2NtZkFtRlpTQUdxQ1cwNU1ILWxKWkNMV3NxR2ZrRFJ0RU1qbGNhN0dBUTVZaHhuS2c2X1Y2Z3JSOVFoSi1QcWpHdWdRcjlxM2xRRUJIWFMxNlprbzFaQzNteTFIT3JESkpTWU95T3RZNDVNQjhn?oc=5",
+   "published_utc": "2026-01-20T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Groundbreaking ceremony for India Development Centre (IDC) campus in Noida",
+   "source_name": "Microsoft Source",
+   "source_domain": "https://news.microsoft.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeF8wV3dSamtFLTJfRS1SRFJSYnJFZXNlMlRuQ1lVVHlnYlVjYjNKQUpPSHhaMXUzWUwtcjJsTmdGbXZLcjRDM3UxOHVtM1ZvNkdWYUFXVU4wX3VJWFVYQy1NREYtbmRfX0VPYkY3eXpQTTU0bTdYVkpkZDJhYUFsZkYzSExfZDF0TURSRWhaNUFDVjVpZDRGS3VBc1NreVphUW44eXZtcWZsdw?oc=5",
+   "published_utc": "2025-03-08T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "U.P. government to use AI-enabled cameras, RFID wristbands to track pilgrims at Mahakumbh",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGlTZDAyV1VYWXVxNXRrN2trRnpNcFAwS1hGOGFUSVdjRURCWGtWaUdCQTBJLUFzb0RmSDM4ODdtMlVkUGc1N1h4ZWsxdWw3c2V3eWpqVDNwcWxuRDFqTU93OWN5aFJRcDByM3d4b2JyMXdYbTJ2M3VZMEZKYzlOTWV5M3NMeDhlVHlZd2dTYlpSWGlGWFlWNlV2TDgwaVdLVzc4VWxPZ1ljSkZjVllaYmUxY3BsNDlsQlRsWFZuUWVFRURqOHdDNE1rTkFmQUFTWUFNbFl5SG0tOGdGaUlOZGxieE5jb2dxLUIzc0lIVGHSAfcBQVVfeXFMTjBoRXpDRVNfLTVmLURLVXo2eTRFZC1ZS05XMTVyTUJTWW9ySnJMaWxacFhVMndrQm1kSHZzaEtjdWd0Z0YzSUdIbHBXTnZibmx2UFdOa3pPSHpNUVF3RFg3WlI1bkpDV3ZheGpYd09rYjZuSkRTT3FPS0FVa3lLellOWExTTUI4RzdoUEZQSDRFcGtjZmp4NkdRQkNfNnd6UXF4dG5aNlR4TXRPSEszWWJSOXE0WEx0dC1xQ3RicUpIX25wa2lHZjZ5SVFTdzUxbWljSFN3SF9vRlhlTHRFWldfVnhqa2pycmNEZHdYT2lETHlrY0w5aw?oc=5",
+   "published_utc": "2024-12-30T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh's AI vision to democratize emerging technology and empower a million",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTjBzZ2NJM1MtTTYyMl9sUVdRTFZHdF91SG9uYnZXT2w3YlVUdV92cEtRRTlRSGdId0lOSE12c2hrLVN2NUdyNnNxRFdCQUJ3NmJkVUNTTFlldVh1UWg4UlZnV1k2a3gyanhjSlJzSThkck5QaTg3WEZNRllORXh2T0IyOVFiNTVsd05KdFFWNHRDWENSd0JraDJIMDdvbzNUZ1VvM1Z5Y01GM2g5aXhDV2hhcEcwUEJhcGlkZmpMaG5WSTJrZkZHWUJXWnF2UUJxaFRibVYwbDBwRDlrazRHU0VuQ2VvUmVaWHBaRk4xbXE3UGtfUlV2NTZUeTjSAYACQVVfeXFMT0t0ZElHVlg0UGdmdFFQYzQxWjV4RmIyb2FGVE1RMWFlRU9OUkh5eVFjTTllRjJ2NlF4Y3ZkUi1HV0oyM0d3WjBDbzYtZVVUaWZMYXFyX1M5R2pQMTdHUVlqMktyR2RnNHE3THFaWVFEWllMRnROclEyVFZDMml2QWtCSHJKQ0VFejVRNk1rLXFxX2tfX0N3LXZCTW5nYnVVMXZFRlR0dDR3bkxPVF92U3J4TkxESFlSTnNDYzhlcDdBNF9PaUZJWUxuY2ZTOE1ydGg4Q05vNlo4OHVyekdhb205d1FtcGtMVUp3MjNSMEctU3RoWHVjdHpqMnV6eE5aSg?oc=5",
+   "published_utc": "2025-08-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh emerging as an AI-skilled state",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUjR0S3h3dmJEMm54S0N1OVpFdTBrd3dtZ1pZRlAwVDUwZGQtb1BoSGJRamlBN2IwNUxvZmdtNVF1SWJBZTZUOUdkT3psY2Qzdk9BQXZkU1BFRHlKTHVjUkxDRUxlbFROWFdUU1dxNmpyRFRyekZUNjRQXy1GcXNveDA0VHd5ZlBDc0dmN3FmbW9hcGxXdmVwbHNoSmZkbWhkSkJvQmhzMnQ0Y29NZ0Z6V0hlUFB5YWFwV0poNnduUGpGaHFlSU45ZXVLTHlFalZ0LVVXZUhyODFHUHM0UTd2bjNlQ2TSAegBQVVfeXFMTXBDd1cxMjNhVWZyaXltNnhQc19Pa2NGY2c2Mk42WXBNRGY0QWFCOE8wSXEwOG45RW1ubEljaTNwVjZkZWhOOFRRb0puSGV3LXJlN0lFR21EODRxWTNLeGRnVlY5aEJLSGtiWHlHa2czdFlzc1gxaEhyNUFoSTFOQktCSV9feXlHZlZacnhfM05GaDZqZHVnRFl4a3lySlVKejg5ZFlDVExPOERJb25OLUpZYkVCN3N1cWJZMU9ueWJIN20ybVlLTVIydzBlazJsY3hnRXZmRTlpY1pPUGcwMjhKdF91ZldWOQ?oc=5",
+   "published_utc": "2025-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP charts roadmap for Lucknow AI City to anchor India’s first AI hub",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPanMzTUlSaTJGU2wyUkxIbFl1dzlXWTFlRk81Mkl4VEpTb21hbHBWd05OVjNwTzlCUnpnVk5jOFZHS09QWWVyQlVQU3Nrb1IzNF9teFJVeXk1UmM5NkQ5a1hnaDFCVXoxN21RN2QwTFRBXzZXVkFueFg3RHRiNUZnZzdxeTN4Ri1WMkVCc2ltTUtGNDFvRFR4eWtubWtROXNSR2c3X3VjMFFvS3ItV1VXMENtZlExTXBka2tOYWN1Z2RJQzlEX0JaQXc4bE91UDVZTVo2Z3d5MXczSlhoZHBVVERVUzZTSU9LYTFhZzNFTkzSAfYBQVVfeXFMT1VzUGg4OElBdkRXdjJtWTRCZGhTUmZya3ppdUJGWHpDcERJd1UtbjdxQkk1cExYdFNPb2VaMV9EbE9NUElqWllDTE9uTEU1QU92bjA5Q0RFOWJDVFRmWDhDb1ljbTBFWjg3YTNtcWs2VVNDRV9RYjdTS1hXYjRaWnZuQ0NucjdWY2FXSk5GdGEtaTR5cnA1VmgxNjZ3WlhCOVBaeHVncVlyRXlSU2ZqbmFVdmpLcjkwUHl6emxYWGY5N0RLM0ppU3BvdWY2b0o5UGdPOW5ES2x6LWpWUlAtbENRbWFUa1kzcGs0WGtnYk5neHYzMWNR?oc=5",
+   "published_utc": "2025-11-04T08:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "UP govt to deploy AI for transparent and error-free welfare schemes: Minister Asim Arun",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT0F4UXJaaFB3SDczREptYnN5b1JFbFRfaXVzWEtlbi15dHlxeEpqN0tRRXZEWk1SZjZIeUNUV2VVREVTU2tNY1ZiampJeW9ONjItSTE2QVJPX0c0M3I3cG1tbTdveXJBRXk5dGpfSWZERk8yb3ZnWlR2X0ZLOEsxNWludFNhRHRrUk9PY2oxNTFFLVdYaE9oZE5Zd3UxcHE5Y2ZQOG9hNkZIOWVRLVZpYlNWMkJHd0ZPNzRhMHFDYzBUc0dyZ2hWMm5BYTdfcXZ4RjRSWjRCNjhQSWpfT1FnOWk2ZTR5MjZDcXVHY1p1VGZOdlJ2YXBQQ2RYQmRXMUHSAYMCQVVfeXFMT0o2azZjV3FJdHpUUWRyWVpSc1JxVXg3ekFUTS1Id0NrVGx2RWRSMmVMMDhQaVVkSUVfaEtFLXVCbWJuLU1CRWZGYlZQOGEtQmtZcV8yOHczVEFwSmU1WXp1NkQ3WnEtNE91N1FVV1lZUU5uQkRzZUZ3SXpGOFR0c1lVQzNJMHlNNDc3bGFYNXRxSXQzdl9GN054RDhGTjg3Z1F0NDgwOUZQMWtjaFZxUXJhSkZkcmU5N1A5UGR4ZC1OeGxYZklLNVZ6ellOaHdaRE9qUVMxR1M1TURYMGY0RTRwemVqZDFSbmZZSU1vcUlidmFkd2NQUm1qakJuMWx1TU0xbw?oc=5",
+   "published_utc": "2025-08-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Yogi govt gears up to make all 75 UP districts 'AI-skilled', setting new innovation benchmarks",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0RkTlRGRTl4RVptSXFjZTZWZFJqYTVoLVNzamNzelY5cHd6V2VVb284MEFGVlc1Mnpvb0RIY3FzRDJEMTJLSVlKVjF5ZVFkQml3b19LYXJqM3ZsX0pTZlM5SHAwQ2NwYk5jTE1obW5rYTdiUmlMYW1vMmVPMEctTDR2bHNndTRNTnJDQkNjMXN0a2x0NjBKbkdLbm1zQm9XMWlHTDRBTWFXdWp0SnA2eHRJRm8zWEdJNV9Fd0JoQVZvUFBleVFaWHZHNVgxc0t6elAzZ0w1VnJHRFdTUEdyMjM5UElXMWZhOXZqOEVvM3U1N25UNFM00gH8AUFVX3lxTE5QQjBFZTdwUVhCd1RFb3lIblFWOWJJNzBvUmFSX1VodzA3d1l1S0Nzc0YxRWNYNHI2bGtGSWthTndLRzZmVno1dzFLWHh1aFZMaGR4REE2NE5WdFNpTXQ3SS01T04xZjQwM2c0ZXQyVUVLVHRGenZtMURaWEJqQVpwVzczZ1I2bW1xWGExak5sa2hxenI0aUJOT2o1QTdhUVdTSUNOOU4xOVNGbFM0b1dPLVY4SE9pMlI4TnVaQ1hlb2NQOXBsaWNubFFvWTJSTzFDSkFTUDNJd1lSYXprQXhhRlFkRkNJLVUwbGE5WDBHQXFTNFd3dktXa2JTVw?oc=5",
+   "published_utc": "2025-04-29T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uttar Pradesh govt bets big on AI, data centres to boost jobs and IT parks",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMTNVUlBGRXl4a1M4QjF6NUF4UFlkcTVlREF3WkNlcVJSU0RReDgydHN5N1E5Y0trS29mQld4SUpmSldHOXIzNVZtY0hYQnpsazNudHlDWHNLckI4UXBoNnhmN3lMcEVaa2VHYUVlaEdHWGxGSER0R29BY29xLWR3SjRtNWhnQ3V4Y3V2bmNwNWxFUTFpcDk0TjN3YXYzQWYzb1BsTnZXTkRPTjFTTFl4TmtXTjc3TExKUTBOYy1yYmpoX3p3aEUwVGF1TmZmdks5MzFGaHFiMXHSAd4BQVVfeXFMT1pqalhDSnlzeUdFOWstamRweGpOOTI3UEo0amM4ZVBYU2Z4QXpxYldzRjZHRmlzNEZ5b1FwQmxNY2lWUzB2ODJEZjFIRTJMU3Fmb1hYbU85cHRIbGxrNjJ0dmFpN3F5SE9EX2lSdVJDODZ2YXlhUlRPNExhT25zaHJ5elJaSUJTa0tUdWZCdklMV0JoYlVEYVBCcTJJUUtmb2Jvb2d1ZDBvMmRPdVpFOV9iY2dNclczWmJ3QU9CbjQ0V1U1S3VuQnRkSGxTU1JUc2xjWko0LWc5dmpUWVZR?oc=5",
+   "published_utc": "2025-08-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI Meets Education: UP Government and TAP Lead Change at Utsav 2025",
+   "source_name": "TheWire.in",
+   "source_domain": "https://m.thewire.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNDF6ZGZSaWNjQW1OeVB0bUROQU5JMWhqNHRzWkNNRVhKaUxocHZPa082MWtlS3NsWlhlYktNWjJEa3FsRmZuSkE4eFFJUXNoektCNzUxakh1eUN4Si0taWRuc05JSXZEbjBLMGlOSGlNTjUyb3h5U1BVd3daT0VabHQ2RzVXN1FReUpnRVBRVmdDNkdBUERxQ3pMRHdQdG81eW1zSk9wODLSAa4BQVVfeXFMTlZ6LXBZel9kR1N5WW5LTlozUVQ0MmRZWWw1enhsZVRIWDBPbXFFejNnS0hNTlBCYm00dzBMaWxVY0F4enBrc0p2QTYtRzFuOFJUSUFDNzZRRGRLWkpnQzJaUDNTWTJZTlhBSlVoT1U4UzR2ZzhTNkdEWHFDY0ZPMkZFNk45WmN2eUlKbjc3WkszQnRiQTVqeGZlNHhkWlpjVnc5aDVaUEtEU2E3OERB?oc=5",
+   "published_utc": "2025-05-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Bolt founder Markus Villig to head up government's AI advisory council",
+   "source_name": "ERR",
+   "source_domain": "https://news.err.ee",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVRscGFkaU03RnF6bFN1T1pRZXdjejFQMW0wM1lVTkFmQTl0RDJsSUFQaTVBV3BXaG9nYzRpNmN4TC0wU2JuLWloT1p1dG01UEVUUjUtSDRzTnYyWXZYV3YzWlBXVVY2T2FaM2x0RnNJek80TmQtSnFWNWNIUkljcGZZT3EwaFBpVm1IN3QxUWJmN3dpM2FaMElJc1dIUE5fcmpZ?oc=5",
+   "published_utc": "2026-01-26T08:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

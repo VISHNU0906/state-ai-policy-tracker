@@ -1,0 +1,53 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-03-01 before:2023-04-01",
+ "items": [
+  {
+   "title": "Greenfield Data Centre of RBI to be established in Odisha",
+   "source_name": "Banking Frontiers",
+   "source_domain": "https://bankingfrontiers.com",
+   "google_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmdYMjdkUS03cmJEWEZyRFlWRHc1U3NPZXVwRWt4OENrb1ZkRzdDWmJ4MzhJWEVmdWRTcmpnYkZBZVkwTTZwX2hSc1I4THNLTFhtZm9acXg3VU1qM0ljUjEyMEpZZUxSV0ZacFdrMUtESWxBa3E2bC1WZHdlbTQ1QXpQTHBBcDh1WC1iNl93SGjSAZgBQVVfeXFMTjBoQVZpdlZnMDhEZmlJdUxHQWlsdE9wdFVSSVE0MUotRWt5cWdWZzlBM2Vad1h3aDl3U3hrZkRYYXpLVFdPNHhoZmRtZ3V2S29MU0x1UWdSdWtuZ1hWYlBPNGx0ZTRJa213czlLZFVucjJQOXMxUEd5dEI1a3Y1M0ZtQkdrTm90MHozSGh5SUxkLU92cHBRVXQ?oc=5",
+   "published_utc": "2023-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RBI Governor lays foundation stone for data centre and cybersecurity training institute",
+   "source_name": "PSU Watch",
+   "source_domain": "https://psuwatch.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRk9RVHpJbEtuV1NGQ01HS0trVlpWM1B6dnVldXNhV3AweUpOSFhNWVhicmpycklZVnZJUkF2QmJLOGZkWnU1bFZMX0hmUFRNYl9iemhZSzZsUnZPOXhnX3lKUW5la3luTzF2OFNzRlk5d01Fb2hvNHkwT0V2d2RrWGFnVnZURDFxejlySmFHWk9ydHd5cDlKUWg5dmN5ektPR2N6MWExSHdQWDhrbkJZNmRUSWhTdThFcndCTNIBygFBVV95cUxPb2dtOHVISGVJR0VpWF9paDNsYzdPamtGM1QwUm9YcGQ0TjF2NmNEaDA2dkhnZGMyOUlrUzVXNDFvVXVFQ3Z5UVJhTzJyQ29DclJJejdiT2VJQkhwWXZZTHhLNHI0bmtSYWtNZHFBMVdIVGpJOWN4S2tLMkZpdURyRDdyMmFUM2ljRVRMNzNaMENySWk3NHUwVF91YjJHNjFna2c0NUs5SVRhNm9sM0tLODdnTE9VUUt0VDc1Z1dHUlZzdF84MjZ6T25n?oc=5",
+   "published_utc": "2023-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RBI governor lays foundation stone for data centre, cybersecurity training institute in Bhubaneswar",
+   "source_name": "ThePrint",
+   "source_domain": "https://theprint.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXk3MHhhT3B0dGdfZkQxaHdYYTlVYWlSQjRlbHdEQi0tUzhoMlJROVp1R3BEbmU5M3R4cTA3eXowRjhVSVduRkRLb1pMYnRHZ1RvMkJVY3RSNzVGWnl3WnNoc3Rkb21MdkxEaWwxSExuVEUtTTFoWjdUaDFJY0FFdE94YzM1OTFIU3dYNS1HUVdtWk1vaV9EVElSZzdvVXZyUlFSMlFfZzNfRzFDU3ZYSkN2VDZGN3VGVzI5cWFHcHFfRzZDOUl3a3gxRVhYUE010gHWAUFVX3lxTE5FZ1FQc1hTTFdta0JZdHBnTWlpdXVHY3R0eFpuSDFWQ01FRDFUeVVmcjlTNXk2eUF4bDd0V0k3eGZpWG5QcEFmWHVLRHV3SFRiWXBtbWdmZ2ltUGo4aG9hdW5KdkFnZGJaUjVSZEVmbGZMOVk0Ty14X0Vkcld0OWRucXFRYWxmWXg4ZjBpeW9rRXk1bVBfZkRBYkNUTFRXaE5JOVFfLXBINWQ1ZG1ON3JfTDhhQXVBQUFnQ21QVW5DVEtUREdzQ2FxWWVqR0hnbmEzMTF4WXc?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RBI Governor lays foundation stone for data centre in Bhubaneswar",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1lQNXZ0bUxlVTFpWFdMelBkTUhJa2l5U3VpaXZCRHhFNkZ6N0kteHlZOUZRUktZRlcxVTFaRmlmUlBzanh1b1FhNmRVZXFhMmtBU3hUaGxYTUJjTkNuRXotN1VqckE2dkp1eWdvajhCSzk5VW5TejJubFpwNnNTaDhqZmE3YlpROU96ODRnakU3LUt1UW5ISEx3dElwbGlGeVRfeXVqZDBvZnMwdFgzVmZ0dVJUZkJlbWhN0gHCAUFVX3lxTE1EQ2JiQkFKZ0xJc21DTkFpQnlCRGRzOVBTSGF5eGZlam5hamxnRDBzTHVKMTdjeVhvdmNhaFNMVVVBX1ZobHVQZTFMWlY3LW5LR2JjQ1h5ckpsRzE4UEp6aXp6NVAyYnFnZHB3OVJTTnJ0R2FPNW1lVXNlelVZVkZRYzAtWkhjSE5ZS09LdzBmeXZVZE5lTldUUy1CZXk5akppZFVaT0Fhb1VvTl9zRVB5U2dIM2pyT3pHalo1X05UeTl3?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RBI to set up new Data Centre & Cybersecurity Training Institute in Bhubaneswar",
+   "source_name": "BusinessLine",
+   "source_domain": "https://www.thehindubusinessline.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbzBrUWVtWTVPWnFibXlGUkp3WDhkcno1cFYtVU1ocmhOQVJuZzVXZzdkUXJ6UkdyM3NuODhIY1htanJqU2ptSWpzVHlMSW44SkI4ckF0R3NRdW9NcWEzeWFySFVMVTc1anJWeFlKd2x0VTZ5MXZ4cUV0TE5iY0tocHJkaFM5bFZxUk1tQXlGcnJqWW5pZExmTjJtWnpnUEFHejk4T1R4bFdfWWRZTGZkaWZIdWZnTVdZdU9ENnJYbkcyekNCbFhSQ25EQWlVNWpGRUdHVlhyQ2s3Ymh2dnhWNTFHYU1zYmR1TmZZdUtyYVpUNkJod2g2QTU2em5JcmVSR0VCVHE2MkbSAY8CQVVfeXFMUGVNUTFmbkNrYTQzekgyelEtcjZQckRTS252ZW9aQ2pGN2ZZQl9Qem9xWnVVcERyaHg0eVlJUUV2cG5WdXplUWx5LXA2REdsZXVZS2Nqb3I0cVVfNVVDcUJuZEpKWjlfOGN4Si00UzVOWlRubWt0Z0JUa0pzOUU2T2hnTGFjVjQ2STdrRlFQWjc2MFJhRGZnV0MtOHpva2VZQ1FCYVR2UkJ0Tm9vb056WmloQ20zQmFxS2c3Y3BFUDFzXzV4dXZGM0lGU0ZpVEJiY0R1aExVQm5pbVJId2JMdjMtU09VNHg1R05NZzc0RUhIb1FwRjM2azdQR3d4ZFdOMm54N1d1SGlGS00zSC0tRQ?oc=5",
+   "published_utc": "2023-03-22T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "RBI’s Data Centre And Cybersecurity Training Institute To Come Up In Bhubaneswar",
+   "source_name": "Adda247",
+   "source_domain": "https://currentaffairs.adda247.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1NkSFFVSG5HUXFOXzVFNThmc0pvV01UaW9yczhhTVBKQ1l4NXZkUmJnMHlEWkI0N3FHVXJ6cy0yLThUVUF5am1jT2R6RzZCMDd3SGtPYzlqTHdDaVI5WEZya2dqVTc4Rzd2Q2VNQjdHdERubmNSN05TNlFSaEhuekFpcHB3alY1SEVSbzUwNnJtTjRBc04za1FoQWpRQkNJRjBLR2hMNk5YeXVhbGpuak54bllaUQ?oc=5",
+   "published_utc": "2023-03-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (policy OR mission OR \"task force\" OR \"centre of excellence\" OR MoU OR budget OR crore) after:2023-10-01 before:2023-11-01",
+ "items": [
+  {
+   "title": "Tamil Nadu Forest Department Uses AI To Track Elephant Movements",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVJGalNKdWg3d1dERGVGazFERkc4MDFfOHRUTzJwQ2k0M2YxS0tPYlF1a1dXT29OdzFlaWlGRmtMYnJXc2NfNnBQSFRxS0FfRkZIWW9Ga2lTcHBGVWFTbFZldUp6aS02WTFlVzNxcjRtWkJWanVYYTVoZ20xTHVGcjhxcmdvMnFnXzhzLVJOSUt1eml1SERLUUhVbWZhT2tFdXgxT1Vmc9IBrwFBVV95cUxPcXBLaW5GcG5iaklfMGQtaG9DQU5qeXdTbDVsZFBBaGFqcUt6NGRPMXhWSUtycGR2elpISm5yX3AzOUFWckJyLWhqb01yUGlyYlNqOWJuenRaZ2hkZmhfSkNLeC01TjFUVGwtbTZDVDE4QkIweE5GUDRLUEdwaUU3dGJ0c05RQUplc3JYWG5rSzJKakx4eERYd21VcnVaaTZqMWRQcjQwQjYzRFE0VVp3?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu’s first AI-based early warning system getting ready for pachyderm safety near Coimbatore",
+   "source_name": "The Hindu",
+   "source_domain": "https://www.thehindu.com",
+   "google_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOM1FIMHhwcll3a1ZrUXEzWDlkM0hKM01pMXRJRE9fTXRseHg0UTZ0NHMxemFOSWpCRmRLWUc0dzBBSDVRVTZaUFlZRUdhZXFFQzJGQkx2THJrTm9oR3JpS3BIMXhOZ19USC01ZmpVdGpUSGNCbHQtWXhUb1VldkdnbG9zbzhnQnRJMFY1T0ZPTjlOdl9GZ1YyOC1DWDJfQVo0NHlzYTZhTC1JN09nTnF0bjBGRGh1YkZCWWtPSDh6eVB2a0tMaW4yZ2dtWTk0dkkzeWpvN2o2T003QTZsSFV5MXVXczlXLThlU1JidlpoZENXUEhMVU5USGxjQmlobF9xaFdPSTZlajl4dW050gGTAkFVX3lxTE1PaVNPVGg5MlFqakU5aklPU2o5Sm9JY0FUQkd2MHFMakZZZzdNdVN4M0JXZktIaHNVeDZNdFQxN0pHXzBPOW1ZN1dhRm5ZMERJNGtCYnMyTndfZVo4ZnhFdWw4YmRDQkNrNDBiN1Q5eWhOUFh5UEtjZHIwYy1TTGw2S3lzbVZ2c0RkZ3RoQ3lPUl9lVHM3cWRhS3p6ejNhOWVYSnZ3VzRIaHFYd2pTN3BjT2w3a3RoRkxldW84Wko4ZmxNLUlVWVM1TVN5TUpBdXV3aXdxSlpwbGhSR3dWaFNXMGFRNlZvZkdWYzVfRFZLWDN5WGswMUVuWDRaNlNFM0tFZzYyZnFnSEo4WHZCR2ROQmMw?oc=5",
+   "published_utc": "2023-10-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "SC upholds ban on use of reinforced paper cups in Tamil Nadu",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "https://legal.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMi1wTDcxaGtrVWJxTlQwb3pEOXg1ZlUxck9kUElReUFlVW1VVVdxSm1XUk1PUXBOUk53NVV1UXRjak5LbGlpXzFzY29yeWd5Z0lWdkIyaGg5OFM4WThTaF95QkpVNWVyV2oyeC11UmtuZTdKLUI4aU03RVEwZjlsUURfQ0NJM2pBek9WT2Q4cy1BR1F1QTJPLWZTbDZJZWJINm55LTZvZDhZSmgxS3JZZTM3QjNldlVpMG1NVEZobEZDd3BuYVZYMdIBzAFBVV95cUxPc2JjTFh2eFh3TkVQM2xabmZXcThOdzBsTU1fbHh6ZjFxN2lHbWVCOWdyOUtsbGJzMmZSSzQ5SUxpcDZ3cWh5ZkcwQ1M2WGJxYXVJeEhtdnVuMjRLcjkySjZ3UEpJQWtfcWQ2TkdJQ0hyRlZwOXdsOHhjNnlPU3NMMXlmaFV2RzRkMkF2SW5DZXNFX1JKVHpUaTA5ckhKRUlHWjJSWVRLcWg1S0VNUF9aNEhWa2xGWkVfSE1NNUpOSWV3aFctam12OXdaQlU?oc=5",
+   "published_utc": "2023-10-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Polymatech Electronics Limited Files DRHP With SEBI For Rs 750 Crore IPO",
+   "source_name": "TechGraph",
+   "source_domain": "https://techgraph.co",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWlJMlBjNm9KLXNYWW54VkxJYk9QTVZCaEZQZ2dIUGdpQkZ2Tk1LUmhsekhHVjFodUNSd1pDbU82N3NXeGpYTHBfeW1YUmRxajA4VGo1OS1idGtrc3lOYkRmd0dYZFBOYlRtclhDN3BTcDFqVkp2SUZsNFMxanh4VWNBa2xCYmo3N1JQSzZFM200ZG9Hd0doUVdTcXJVZTBDOEsyZ2JkMW5QWGs?oc=5",
+   "published_utc": "2023-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Saint-Gobain India investing Rs 3,400 crore in Tamil Nadu",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZFg2Z3d6cWl1WVJtVkxRWDVzZnJqVlJYWXFsX0hyTlV0aW5JM0xBXzhuTW1JMjVYSGFyV3Z6UjlPR0VOV0Y1U1U1a2RDZ3BXTl9EajlWOExWeXMwelZMWTdPYS10VVNyTDRPV0hURXNYdVFfUmZydXRZUmN5eXpFbS0xTGNlc0RoT0hFSnBIUFZ5ZXRIblBEanRjb1JYZjN1cWp0ZTE5QzIxb0RJdHV0YTdxeTdqeUNLMVV6MUgtVk5mN1hVUy0xOHAtWGVSNm9CcmkxZTFhZGFQRnZpbzlPdS1fblpNYThXZVRBc0JIT21Ma2JMR19Sa0FDQ0luOFBLOXZz0gGIAkFVX3lxTE1FVWpKcUR0MHU5YWw4dEJwbmxDOExCcWVBbGJQSFJ3UWVQcjJ1N0pETGZqemZLdnVhVWE4Wm13V3JGbDNhNE85LU40WGExZUFhT0d6M3Zra0YzTkUzWTIyRXYwdjBHd3FSMW5SbWczd2tfM3A0d0UyeGVId1dFbkJBNldMLWFHMXM4U3hBbnRORVBBYWRWM3FkMW03U3dXWW1kR3I0elRKUjJCSXpac0d3NVd4bDVmelVXLTdIaVU3M295VTg1N3hMTTQyUzI4U0w4dUQtdE1tbkVRWHViR3RFVFZKcjJPU2R0a1BDRkQyMnh2ZVhfT1lLemZERDVZR0oxVG9XbWhaRg?oc=5",
+   "published_utc": "2023-10-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu BJP worker among 4 arrested in Rs 1.40 crore cheating case",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRmZsX0NkQXM0U0ZzaXp5VEIzZzcyVTd4cEk5MWZoT2diUlRPd09OallCOWJzZTV3aFBGbzVlLWFIOFhyRFBKWmI3QmJuVTE5b3lrQktKbkxqUDBoT1IyTFdjYmhOczVwQU1PNGVhNXlYcjc2U084Q1p5Ml9JckEwb2NJN1cxeXRTMUNPLTJzZmQ3VHFyNGNlNi13OWhVeGZEWV9mSFR1dDZZbGVRUnh6U2Q1ZVN1ZjFNOXYzWFl4WE94RU83LWRnTlVibi0zNnZUdkNiR1g2TXV5RV8ydGFJN25B0gHnAUFVX3lxTE1YN0hEOW1FUTNjZHIwbUw2UFMzdVRXRU9ISW9JZlJaWkRtS2Z3NnAwVVg2Qmo3WHE3RUJtS1RQTlZGMkNtSFc0ekpFNEQxYWd1bzVuZExUbDducmlBY0dCR2k1RWRZTUNDWUMydHpjUEhXUGg3RG1yVnh0ZnFHaFJxUlZpZldBQTIyc0hSYzZMcXRQUi01ZUJPX3Mza1pzOGRnTW1EOC1uODN5MzFXOWtiN2tseWRSUEZNVkdMc294OFZ2X0FnaHlxX0tIQ3ZoZFJsZXZpOGhWTjY1NWhEQmNYeVpYeEttbw?oc=5",
+   "published_utc": "2023-10-13T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu eyes aerospace, defence boom: TIDCO VP Wg Cdr P Madhusoodhanan",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "https://techobserver.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3Z2QUJYUmJUeGRnME9pUU1KclJWZmZfSFppbzdVUDJFUzNMWVNOSzVXUVRzNzhlS0RNWGlvWlpDTE81MzJ6UzM3SVppY3F4YnRpY2xjZXh5TXBIS3JOMVI0X2lrV0RjVmZIV1V2NDRFTE1SVzVfSTJKaVJPdkh0WjJMUkJ6c21HUmtaX3BpZ0g1NEllbHN6ZmdIaks3Y0huLWxCczFyTEE5emNIV29FWmxEQVFaV1HSAbwBQVVfeXFMT1FMV0lzN2RSUTFUaVpqcUtBaGdnRVZCZmhmZTRUcWFTVi02N3EzaEszdU5wcWd5ZzNtRlc2V1dQSVg5R29aZDhsVFQ1SjdmRWkzZWxvcUlZdHhwdUpRdERaOXJ0N3ozQ0tTWVF6bnBZVmZ5cnlua3A2cVBMMjdpaWF2eGtLeGtJSUE2WHk2NlZzZ2ZOR0FlOFV5ektZUGw1TmVjZ1FmZ1Fmc3MxLTJIT3E4b2M0bmh1Tm5DaUE?oc=5",
+   "published_utc": "2023-10-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Uniphore Inaugurates India AI Innovation Hub in Chennai",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSktuSTFSZU1aN255ZDVuMmFxQm9vYXdaRk9CeTkwM3IyMkUtR1hfRVdhZXlkenNCdTk0VVh0TUw0NWg3RXJ6VlZIa09EWm82Z2lkLVE1SVN4VnVGTlc1eGJtSXVHWXhZR0hSU0xQOG1NM2Q4WXRYNi1uRjhsRGZoS2JiZzVHRGtpeENNVkd3YWxnOUlNQ2xKbG9KUzBndEdBMzFfU2QxaFU1ejZnTVE0dlA4Um4zZw?oc=5",
+   "published_utc": "2023-11-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "embedUR to invest ₹500cr in TN in next 5 years",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemJHbnU5TkR2eVg3eU43Ty1kSXE1UHZxWHowelVHNGpPNm9ORzBUSzloVWJaS0JIdmZoNVlZWDhxRm54NnhMRkJvR1FXcGJCa19hb2NxemN6cjAxZVRhQWdmdE9BbG5jQTJFSUtZaHg2YzRtSWt6anJmQWdBQ2dhZi0tOTdfZFA0Q3U3U2dxQkQ1azk0eDBrdEdnSVpNV25kbmIzeXdHY25wVFhqTkFGUzU1bWtQeWZtYWdxUdIBwgFBVV95cUxPLTE1bUZWU09jbi1kV3dXMmNTdjlKOHpGcTJzYmVPTHpiR3JxWFNEa3EydnVEa2pjVXNsQXFmdWhMRjJ3TmlsTGV3bDhkdm5DNUJRb3FrZURvazNmblJ2WmdNTWJidjg4Q0RkV005UW41NThzZV9UNmtOMWdFLVJrWkdWUWhJelZXMV9iUmkwNks1RW1jS2JRcXRxcFlMUy00ZTBFMDJmWDNZT0xpM0hpYWViSk85bl83NHMzM0tqRFVXQQ?oc=5",
+   "published_utc": "2023-10-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "I-T, ED raids underway in Karnataka, West Bengal,Telangana and Tamil Nadu",
+   "source_name": "The Economic Times",
+   "source_domain": "https://m.economictimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN3BZdDBKdm1OTE5OTjVRaFZIYWRieE9nYWR1eUdMTm5IelJiMUNSNHlKdTNEQjE0dFFOc0pSYmREc1NfSDJybjEwQndFbmlZeXhoRElnNmpuenctRXVZY2dqMTBTVFpZMTV4SURfMVhmVzEzNXF5ZDRzTW16SlgwUFZkNEc1VHl2cW1ZT1VIY0daMjRFOTZVT2JmLS1kYjQ4TVpWQmV1T2FMRG9vc3BGaVpPZTdNZmp3RkFGdmNVN2JOS2E4QWRBVEh1T0JDUdIB0wFBVV95cUxNQW4wTnVlX2ZmeFZ3Ykhjc3NuZkgtb0hVMnZKNG9FUkJkYlZ3YzYyRDNGNXJIOW9jUGtKZUNGQmxMZWk5ZjVEakd5Z2lnTzRoMHlnOTg0YkZxZWFPRWN1QW9TMFJpM1J4LUF2RkVhMXkxTjh5OGY0LVJUNFFlQWhRN1hCZjQ4cW1wX3NXR1ppYVFhN0gzam5jX01QVkx6RmhpajZ2MmxDRjdobzZDLWVfR1pPVERNd2ZaRWRZWjgydWQtX1R0TzZuLS1Oa2UtaDZMZ01V?oc=5",
+   "published_utc": "2023-10-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") (AI OR \"artificial intelligence\") (government OR govt OR cabinet OR minister OR \"chief minister\") after:2023-04-01 before:2023-05-01",
+ "items": [
+  {
+   "title": "Madhya Pradesh's villages lead the way in climate smart agriculture",
+   "source_name": "India Water Portal",
+   "source_domain": "https://www.indiawaterportal.org",
+   "google_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEl3aU9Dbi1PY1BESG1rbmxmdTZ1Yjl5RXFqeXA4RmFyR3I5bGN5cjBMRGd4bVRtS01hQ0laekFtS09OXzVNd21GckZKM1AxRms2c3liSGpYUEoxODA0aXIyWU5lNFhIQ1FoWVJvaUZiQVhFcDM5X2dNTFIwQV9MQkFQZ2JCUklkaldNZXdtYkpEZ0JkUUl1dTlRMHZvYWo2clZzOG96Ujh6MmvSAbgBQVVfeXFMTXFMdmJyem5vaFlsR0hXZjY5VW5MLWx0RlQ0X0xNa0pEQkNXSWUzMU9xNklnNFlBUTYtbHpLMEg5WkN1NFZnNXl6MVgybGp2MGQ2SGg4TGdRT3ZCcFJyN1RfN3duVGZLclJaMVd2bXlhYmlzRzBLal91Tk5FUHdRZnFuUE5Vd1BGaGNNVmJmV1pGTEZycVJlMXEycEthdE9uTzFfS2tYbnAyTTlvbDZ2SDJQVmQyMnFacw?oc=5",
+   "published_utc": "2023-04-03T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "MP govt appoints chairmen of 3 development authorities ahead of state polls",
+   "source_name": "Business Standard",
+   "source_domain": "https://www.business-standard.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemRGREVNalB6SnVubXllUEs4N29aQXc2ZHpQNWdPay1zT19kRlZXdExtSlBER1RDMTd6T3FFUFlSNTJCQnBWbG9BaXBYTDdycVpnTGpaUThvY0hvRnJtYzNKTEc4ZkNZM0xaenpWVkh6dWtFUDhxZndlSHhWSFhVdGVSRlk4LTIyeHkxT3ZvS2NxbGVMR2RKLXU5YUQybDE4RXktdnVXemdBX20walVJTmZGQW0xbTBzanhDLTlHemQ1cHpMd0JwMG83dkg2Vkt4ZFRHOWl5TdIB3AFBVV95cUxPVzBzWGVsbUZfNkFqSXRKbG9Xdl9VOGZZOV8xejBVOHFUZjh5WFo5cWRZUjEtTTB5NXliNHEwN1VZbDlDempzcUpGSmxxN25BWE53dFBiQUE3R0dLY3lHejNMZ2F6ZU5hcWVtZk5Sa2E0M0JSdHQ0bFd2Y0dmNkljSkxHSk5SMUZVQUJQRGR0NzQxSEFxdmNEUGxxZWJ2VUxHWUxMbkMzNktxREpwdDg3OHltOVJ0SlFUQ3pKS3VPVW5HWTQyLXRILVFpUU4tNkZLMlFqeEozeC1Qem1m?oc=5",
+   "published_utc": "2023-04-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Brahmin Welfare Board to be established, says MP CM",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmN4elMyRVNoUHREdDlaUUl3UW5LMGppaHBPRUZpTzloZTN6czVJSVJhZDFVSkVhMTFiUktrZmJrck9XY3hmOE5Mc281NUJvRVd5R2JXMi1YWEJZa0FBTmVRTFlua1pxUWptTWlhbzVjN1VTOHg0cC1PeWhFbDJEbHBRaDVVLVZwWGxWZVpxMXlXaE5nU0FtUVNfaVpUMjVu0gGnAUFVX3lxTFB6cTR4bVNZV1NuWUNwUTBvMHRFNEZOZHo3cFJISi1oOERNaDExWnptMHVyaEM1Y0lQR1JYYkNwQTNULWdOMjBhVEVLbTNpZXBqMjhDa2l1MlUxLVNXVFdlbTdVeGtvTHBzdTJMTkx2NWZoa0dhemM5TEppNm1DTmZkLTA5ZjUtekNodVhRZk1SdUVITGpRdV92bVJldUJCc1ZIUWJaUE9Z?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Another Madhya Pradesh town renamed: Nasrullaganj is now Bherunda",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWF6S1Y3TlZEVW1jUlh6cnNfOXZCS0xMblJRU3l6alBQLVIyZ2FKNnk1VWV6M3kxN3J5d3J0MGFlRGYtWl9lem5pbUxQbnJwTW52cWZFaEFpNnAyeVB0M3hmdXBJRHB1Ul9PZlYyQm83R0l5UTlTU1ByVFNrMFdxY2hVLWxDa3dLMkdueWlhME5LZjRtM3lZX1FmTnYtcUN0SzBjRFJrdDFob1BB0gGyAUFVX3lxTE9fMmpHQ2JBQjVHbFliWEU0Vnc1ZEVXUjhfRmx5S1AyMW92Z0NZMW9nQTZjYUp3MGRIbG45NGJZN1FDMm03LWJIRFV3V1VMOWxnM3gzSFdjWkZLcFNtMDRXNDRnbEtNWGVINHlkcU95RHV6bm81c2pYVHc4TWQ0cmt3SDlXblprY01VRU9ubndhbFZNZFBHS01aVmJoSi1pdzk1eVVYSEFJRVRjRG9WOFp6MVE?oc=5",
+   "published_utc": "2023-04-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Thousands Of ASHA Workers On Strike In Madhya Pradesh, Demand Salary Hike",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE1vWnU4UDVUOTRqbDZSZDBNT19lQkxMRGhDZ2RPWDhaQ0xMckxsQndWdjdMQzhLbkN3UjRKRlFSSnpvYm9QWXpZU1JjZnprSEI1YmJDNURMSTlwaU1QcTBBa1NGaGxxUGNYdVo0MkxYMUt6amF4b3I2NllHTFZiNXBXa2lwd3RiRWRvNmxacjQ3cEdkWnFQQnRla0lqTjhrQU94OWhTLVJZbFJ3MEtOOEJR0gG6AUFVX3lxTFBqWHdjSTNBeVV1VGhBS3gtTFByZkJjUEtJZkh5dDltajRRUW5EM0hlUExxTTVGRmFSemx3bGNGNzJ2cEl5UVRhUElTN3R5TExkdjg1ejJxbkFRRTFIVHB2ZEtFYUdDZDU5YThWWk4wbDBOQklSZUo3Q2FXWXJDU2JsVlVhbHJ2WUZfdU16MEVwS3hMNDVySDQ1eW5WREo3UmRGNGxEUGhmZGkwR1lkSTRJZmRiSEhxOE41QQ?oc=5",
+   "published_utc": "2023-04-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Brahmin Welfare Board To Be Set Up In Madhya Pradesh, Priests To Get Honorarium",
+   "source_name": "Swarajya",
+   "source_domain": "https://swarajyamag.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2wweXdXSzJYUTN6ZjNHUmU0cXRGWFZpUEJTYmZvVFRaOEhFVEZoNWlXbjdtNlpOVUVTSWl1bWhQd1BKR0V4dWQyUlpZRUFseEhaSnBXOVJtck1vM1VTVmN6ZjBRaFhwLWY2Rlg0OVNkMkJsb3A4b1ZqdEotcHJhZThlWEFyYnd5Mjh2MDRrbHViY3BHWlFQV09XN0ZCMTdPY3JqVFRuSDhGdlEwb3Fz0gG_AUFVX3lxTE5mVTc2N3FFWl9RQ19EcnJwOFJzd1lyMEJZc3NmVlFReHU3SUtvLUJiRkRFTHBiZmJFWVBGdDBDTWYwYmZzcWIwQU41T1NvOUZYemhfN2R5TExoaEl0bmJESzQ0RlpJdWk3bU5yQXZWeFJ0aUJCZmNvd3BHM3pPY2RDaUJaTXFVRUVGelUxTUlZWjlrcDRfS01ldi13Tl9nTmxnUTJIQUtuSWQzM0RIU3R3UllfX3plQXlzakdhRGt3?oc=5",
+   "published_utc": "2023-04-24T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Shivraj Singh Chouhan Government increases the grant amount for gallantry awards recipients",
+   "source_name": "Organiser",
+   "source_domain": "https://organiser.org",
+   "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM3Badi1WeU5TV1lFMkJON0laUlhhRFo3WEg1bGtiSi0zRHQyWnBvM2tqMnliMEtrTWw5ZVhvaWxmejctMTF0c09tQktENUJfbmU5dDhFVzYxNmJRbEs2YVZJOElqOGlEREVRVW5zQ2M1OEc1WFhmTURkN1ZIMXZFLWFQRlNFaUhoWWtSX3FaTTRvLXU0SVF2MHpaTkJnQ2JnNGRJb2J4eTRIN0JpSV9QdW9PTWlZWG1UZlE1cDh1Rm14VExTb3NwMlJYQnA1ZHo5YUJ0S3R0cWlyeGh2TklMYTdCZW1zWC0xb3fSAe8BQVVfeXFMTXM3b3FncU5uY25ySkhacV9GaUJKaHE1cVF3VWE2Y0dhX0h5SnRuUHY5TGtKOURBeG1IZWtLUV81VlplRXk3NGpKUjNIdGptTkV1OHJHVXdFQTIxQ1Ywc2hDSGoxbmwwcGhPOHNEOVZLd0cwZVZYU1hsZXk3M0Q5NnZodXgxYkp2UDhKUTBJWGoxNDdSS3MtZnhtUk5KR3AyZGcwWDVkcS1paFl5Wnh1TUpIZ2lLWmFUVFFOaEtxVGFsSWx5dU80VU9Denlwa3VERzJlTFpCcmczTENIVDJRM3hacnV4dkhjZ01FLUJoTWs?oc=5",
+   "published_utc": "2023-04-04T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Ahead Of Polls, Shivraj Chouhan's Big Announcement For Brahmins",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXRTb2wyY2RHQ1p6OFVYZ18tcGhwZnZmclRuNUZ4R2xXcXJzM0RuV3UyOHMyZFlZYVljakYtWFNycHJLNmhDc0pCOHphNWd5Q2QwSkVLR3BoNlh2aEJhZFVSUzFIZzZkTzZBVjg5OGFMUTZMSlUzX0xLclMtX0RVYnhXMS1BX0ZKd2VSQlYyTjlBYXZkcUJrVkxYNzdJT29NeGlr0gGrAUFVX3lxTFBtTm5Vcm54eWFmTVkxeUU0dnpjMEQwSktOX2N5X29rWEUxUXJFYjB0S3p2Q1dESFpJUGlkMnhBRE9ybXA3UThKdW1DUGV2a0ZSZnNkMHJZcmhBUFNid0tnZUpUS3VWOGdCWnVTYU9sOW1uRG9xSFNlNEI0S2RQdlBuWEduNGF1bnBYRXoxQ1NUdE1ZNUd6TktXYzRqd1RXWllnd0xrS053Zm9ORQ?oc=5",
+   "published_utc": "2023-04-25T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Row Over Pregnancy Tests On Brides Ahead Of Madhya Pradesh Mass Wedding",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjZpLUlRZTdfeUlUQWpuc3hYNFNRSUl1MTJTNjBIMXBFSERiXzU3Y2FDRTFVQkVSbnlqS1k2R25HSXhwbW1FTVdfRldtSW4tRm15M05iSDRwV3pyUnJHa19teDJscUF2aFJzTzFpcnNrR2ZIMWpDMVhJUF94Mno5bXBsdjhjZXM4ZFhFYnRDNllabHFYMmp1Zm1aTVFTWVU3LVRJRTdKU0NIV2REOHZtLdIBuAFBVV95cUxQNUgxS01IWVVxWEFrZzdpU0dsMWhZdnBFRXE0Y3Y1OUswdzJHT2tTbjFnSW1CX3JXLXIwNzFWN09mek0xWHRfclgySlpSeU8tTVZ6S2V3V2o4NkNZWDdWQmFBN0Y4VTdfbEx4UVhGUmV1bFZLRmxYaFJiZ296ME5MczRNakxidXlxeWMyWkp0N055MEpiSzNWRi1Sam5COGZNOW5HdzYxMjBvd29fV1hLdnkzUTBqTFFM?oc=5",
+   "published_utc": "2023-04-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

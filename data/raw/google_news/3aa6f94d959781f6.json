@@ -1,0 +1,85 @@
+{
+ "query": "(\"Madhya Pradesh\" OR \"MP govt\" OR \"MP government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Breaking the class barrier in Madhya Pradesh",
+   "source_name": "India Today",
+   "source_domain": "https://www.indiatoday.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlVnbk9EZmg4QnhNWjNOR001S0Q5dDQ0TkhhLWpzc2ZIcG5tWWl5Uk9COVRZNDJHd3ZGZDlVSEhhZUJuNVpmZ0VTYllwYVFQNWU1SktMSG1CWXhBMFAycTdHQ0ZmMEc1NFU1c3E4SEhqSjgzNTBkWjBZaFNTcTlNdXVxYTVRc3NtUlpvcmlIbHFLQWdXWXFHRkhlZVV3UDRMWjd6TGV4dzRjbk5kcXpRZzNFT0h6Z3JIclRpVXBGVTNjY0hUa0HSAcsBQVVfeXFMUGVjZXUzeTdTa3hLT2pvSkdJeXlFal9QOXlOb1RvY3hkak1OTDEzZU12OEdZdTNmbHM1MmFkUk5XRnhXekI0aktuc0NBbUpPaVNCWkhUZ0Q3YzVTQUt2c19IS3c0N3dqTFZ6cE83V2NXUkRSSXo5d3FpRHVYM1F6b0Y5YlVxODhjdVVBbDdTS3pDMnlqbi1ZNW9oRFBuWC1GMTlhclNQSnhOUEpaYVJoQmptOWZxMXJhUGpVWmlTc1YySklsS2NmREhhYms?oc=5",
+   "published_utc": "2022-07-08T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Video: Students Hold Umbrellas As Roof Leaks In Madhya Pradesh School",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDgydHVXdVF0QU1BTXJtX3VmeTNtclNXaHY0VDhQcFJELWQwWkNMQi1KR3pCcERNRXQ1VnRFaWQ2c3oxX2prb1FqQjIyV1Q3Q08yNmtWNFRBcXJianpqaUs3RmFKTnJ5T2Y1QXpmUTl1MU9ucVNtUDV3OURhTTJDRXBHYVFJOEhtbFdEU29TMUdaWUVyeUhrbkptVjRpX0ZKM0h0UzNsbnBNU0lDekh2S1Rn?oc=5",
+   "published_utc": "2022-07-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Advisory for cotton farmers of Madhya Pradesh (21 to 51 days)",
+   "source_name": "Global Agriculture",
+   "source_domain": "https://www.global-agriculture.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1A0OVF0NjRqZVJSaGRITUlJRUdfTjFtaWc1WVFsVkUweUxmc1hFcDRTdHExYzNMY2hnZ3ZUOVhRUGFhbmkybkgxOUpOY2JTZUVla0laSzFMclE4QXY3QU5ka2wteWN0eldjS1FsZnJINVVKclZRVkJuWjlyUkJNSkJTSlpwT3hab3hNYWdoZWRVWXpudUxGRW8wcDliWWw5RTlZSjdiNmpHRjBs?oc=5",
+   "published_utc": "2022-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh: Medha Patkar, 11 others, booked for misusing donation funds",
+   "source_name": "Firstpost",
+   "source_domain": "https://www.firstpost.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSW1YNHJjczd2eG9kYWFzS2VvV3JHaWp4dUo0YzdJZ1JlNmczYzN2T1FBUFlrLXhUdTAxeVFSNTNZbUoxVnVWLWU2UXJDWWIxa1RlOXE1cDlhWkU3UU4zVWRJQjdHSnVSWE1Gdk1QOGlXNzNSZ2ljM09iWjdoZHY3aGhtVWI2X3MwTF9peFRnOW1DXy1JWl82aDZVMVpBWm13UDB0Q05TelBEZFo1NmtDMmh2Z0MxSW9sTWc?oc=5",
+   "published_utc": "2022-07-12T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Madhya Pradesh CM Rise School Admissions Begin",
+   "source_name": "News18",
+   "source_domain": "https://www.news18.com",
+   "google_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NNUlRCa282UEQ4WllOUXdEUGdpcHFTNmpPZGtsbm1sWDA2YVllSHRzNVI2N3B2R2JETlFaLXc1aVY4d0tFc1FHNnFBOU82Mk9obFQ1M2pyV1RHbE01RnVfTnZhbVc5Q3E5MTNFaFR2RGlzdXhpYjhNaXg5SXgwWHdSRVdyQmY4SUx2a2hRNm1zaXI0RTc3RDM3c0loMWgxbHdRU29jONIBrAFBVV95cUxOLXRzTjU2VlFKSWhvcU92R1MtaFV4SWk1WEJmWTctWk5xSWU4QkhlVlF2V3pYdVNXUXBHemxZdUZwR0xiV3dnMEJjLUUtem53V0hScW5uZk5ZQUNzSUNTelhNUV93d2ZtTFlPM3RUWmo2OHRySnZHOVBiMDQ5VWlGZXlHYkNUQ21sT2ZwT1FXOG16VUxTMDBQZjFFQVVoaDA1c0hnRUNMb3BNcFp1?oc=5",
+   "published_utc": "2022-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "[Breaking] SC Gives Relief To The Royal Holkar Family In Ownership Dispute Over 246 Properties",
+   "source_name": "BW Legal World",
+   "source_domain": "https://www.bwlegalworld.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMmRveDBKaWFKVDQybml5em9mOUNTWGNKLVlXS0ZsMFEzclh0aGFpVFM1YWROUlFSQXM3elJfREw2YVhGVDJMVFVTNXUwLVN4SUwtR1Z3SXJ2Vm9pZ3QxMlZNMmhZTFBSeWt4WURZRF9yNkE5bWtqU210bVJORnBmY0lKV0VwX3VkcEk5OEVWa0l3anRGdWhrM1FONzU3VVZSNUdjYUI5YnNFbmVvMEF3RDFrbWpPelFBbC1zV0s2YngxTmNoWl9nNGF5NjZPMmp0VEdn?oc=5",
+   "published_utc": "2022-07-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "5 Patients, 3 Staff Dead In Madhya Pradesh Hospital Fire",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHRGQ0xvTWVsTVd3OWRDcFR3Zk5oSnM0NjRoYkN4czZPa3o1TUJVTFlrSklsb1RQR3dTaVNQY2lBM0c3U0Z6VVBnM29vaU52RHNQNE9vNkY2RVcyZWxZRVZzRUZfaGo1NEF4aDd3MTRjNDAwX004ajd2cVpERGktaTZUMUJQYkx6cGQyX2QzdHNKek40VEI2WnVuMkI5Zw?oc=5",
+   "published_utc": "2022-08-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "With Body Of 2-Year-Old Brother, Madhya Pradesh Boy, 8, Sat By The Road",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUl4NUJuTUYxYmVEVVhDVERIX19jeWE1bFExcWh4dWZWVDliMkF4RmpUOGVucF91eThjb1p6eTZCQkJ2SDN6VkdjakR1Y1hJNTBWbGVSVTh4VjAtN0VvbXhpUW5ZZGNldms3a1FkUjZUWTliVkhJTmxfOXBoTnFHRHdKUDUxTHZxTnZrU0dHZWxyRmhVODVEVGZvT3EyeUhWNXpQWVoxY2N2NFNU?oc=5",
+   "published_utc": "2022-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Case Filed Against Activist Medha Patkar For Allegedly Misusing Donation Funds",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2lnNG5lb2JESVVHMXNkTDlHMDQ0Z3Y5SGVUZkd6MktsMDZYcm96MTZaWkdkT3JMV09aRXNEUTdkelIwNW0xMWg3eDlwbjR0NWZwd1dKdlRxbHJBeW1sVmRBNlJ1dk1JelBKSEFuR1ZpMGgzTHVuUVZYbUhOeVpjSGJIRUI2TEdta2hGUGw4Mkt3cjlmcWR2ZVdpS0RWR3hfblV4SldjTTQ1d0lldUtkMVNFdFdFc0hQQzJqaEwtVENVMjBQNm81ejRGbGsteW11a0xMN05yeXkzelBHcUJlS2d3?oc=5",
+   "published_utc": "2022-07-10T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "STUDENTS FORCED TO REACH SCHOOL IN MP DIST BY CROSSING RIVER ON ROPES",
+   "source_name": "The South India Times",
+   "source_domain": "https://thesouthindiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaExHUWVGb19BUllnaEVFU0J6WW9SazRwR09TUk1SbUYyQ3BLeFoxU3RBVXY4dncyczBLVUxETUkyS0lVcjNpcGY2R0Q2bFdFN3EwTm1QYUhvT05qSUVXd19UV3hQZk9XbU8wM0luZTNvdE5UWGtSNVdZNGNXNnF0ZTFqMmZzMGVLTjJ0cHhPVWZvWHRhVG83c2l3dEMtTkJiTjV4OWhseXl0WjVYek1R?oc=5",
+   "published_utc": "2022-07-23T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

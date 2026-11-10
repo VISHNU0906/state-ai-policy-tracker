@@ -1,0 +1,85 @@
+{
+ "query": "(\"Tamil Nadu\" OR \"TN govt\" OR \"TN government\") AI (police OR health OR hospital OR agriculture OR farmers OR school OR education OR governance) after:2022-07-01 before:2022-08-01",
+ "items": [
+  {
+   "title": "Five Chennai schools get Tamil Nadu’s first virtual reality labs for education",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUZLczVMWmUzZXVvODB1RGVqSGpVVU1GeE9vZWJZTnZXb29pUXYxRkFBV3N1RXB6Y3V5VjZIT0VzQmRPQ2w3Rzd1QzZveC1BUm9GcS15S0xRdDhGT1BoOVB1LXg0Ul9HQ0ZhRVpTQ0hCREMwVmwzdTNfT054WGMxRWVMcTk1d3RnTlhpdkRzcXZuMndYT0tWMXpKTWVRSG82Yk9LT0plSEdyYlBXY2owbnZoWjNkYy1jZUY1RmRFVdIBxgFBVV95cUxPdk10c0Z6eUNFWEdCaUhEa1AyQlROUm1sUGVvUEw3OXdIakFNTmd3X3dQUzZMWEJYR2JFQzcxQ0hUV2ZnaXRXa0dIVWpncVlMM0dQaF9QOU1EQmI5M0lZeEg1LWNqMEpUbTYxWjczSG1QcTJkU3FGWEx4Zkc3V3FQcnl1cDlOM1daMmNOTUxyaGxTeE5mb0o5SE9NVldqTUhqRG1KZkdKSGtXNHN5dVZSV09ycFp4NEFvMHZyU2hkdkloSlQ3MFE?oc=5",
+   "published_utc": "2022-07-05T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Chief Minister MK Stalin, Covid Positive, Admitted To Hospital",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHF4YlNTUnRVbmlJRS1IS0tWSl92bjlRVFNFVkd6LUhYMzVyc0xnbWFCcllkT3hqZlpobms5RHhCWFV2a0Q4TmN2RGFJZHlXRkItLU03UzE2VEYtRm01eEp0azkwNUVEVlh4SnpYY3FVcjlRWkpSSFB3elBDTkZ5NURYWEkwSnhEY21EdVZjTUVwWUNxVXMzX1Y0R2ZISDJyX0RiMXc0ZEQwR1d5aHFJT0lZVHdzRDR0WEl5Z2VSZmlCSy1vdEVFWQ?oc=5",
+   "published_utc": "2022-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu government has ordered closure of four fertility hospitals including Sudha Hospitals (Erode & Salem), Ram Prasad Hospitals in Perundurai and Vijay Srishti Fertility Centre in Hosur for harvesting eggs from a minor girl violating laws and ICMR guid",
+   "source_name": "Instagram",
+   "source_domain": "https://www.instagram.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IbXE2UkhaczY5bzBoZ0hkRkxLVF96ZWs2RnZITE5GLTRTbU4tR05SNk1yQ3BpMHlwbWNIam9GaDFXYkdpVVhCMmZ5VVI0OUd3VVE?oc=5",
+   "published_utc": "2022-07-14T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Cops’ Social Media Monitoring Cell yet to go live",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUFUWkl4SEpDTHkybkpPajNMTHExaGQ0UnFzQmRSTGJHQXNtLUhhR0owUHNHOFFZeUFQZXFEdlg5Q1haeTJDR0kxcDBLTk5FTDJsVnRma1pqaWZZQWhwSk5lT05ZNnhILXdlMVZ3cU90eGRnN2txODE3SlRpalkxRFVaOXZ0VHpLWkQyNHJyTzE4MnJ5QXE3RVFUajNSR09rSFZNbEhrY2F6b2Y3TFpTb1I1UVFqVWV2bmo4dnE0emxJcGFGOENLRm1BSFUyYklX0gHeAUFVX3lxTE4yNWpWbDJyX0hhdk9lblBhSHBPZERLODg0dzV4eGxReERaMW16T1c1MndqYzQxNDQ1OFVLcmkxZEtkaFFfZzhxdXV6eUJaWmxDZkY3TVhJMTltQVZfVHJRRTkxSkZsSDBFSTk0aVdCOHgwZVJlWVRjd2s3aktTSEdVY2hLeG92bUVQa0hvRlFUc3hNQ1BqSFhWNGh1MHpSVDVGY1ZYMnFSVXlVSDNLdkhTOXJWUGJpRHpjaFFLTUxSaENvVElIck11MGw1cjRQUlNVOTAyb3U2c3B0YUlBZw?oc=5",
+   "published_utc": "2022-07-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: The Indian man who makes art from sunlight",
+   "source_name": "BBC",
+   "source_domain": "https://www.bbc.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16d1QzbEZkUHlFWDZGeE1lT2RINXJsMVVQbzJKak5SRXRsTTV1RmhsNFN2WTJfMVRwZFlndWhfOWxjaVV2OEVmd05xS3lTd3lYcjBDM3QzZ1F4YXlZWVljbGlzRQ?oc=5",
+   "published_utc": "2022-07-09T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu: Ensure students, staff are wearing masks, education department tells schools",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzNoQlBfYVRMQVBxaUF1QnNmcm5URDdwRWFrZFZsLXZjeUduck8xNFBIX0hqTTR6ejQ1N2VmZGh5UUxZWlBDa1M3YkhsWER1Mm5oRkozM29ZN2VPaG1qdEt4YkVnYVNva0YxQVo2QTNRNTBHY0JDZ1hrekI4b010VkxvaFFtZ3QxMlBiOXJsTHprQjhoeEI0eklNRG1MdkJDN3JadU1McG1CZHJWR1BwSlBkQVEzYXRLa2ZKTFhsVXRIYzVtYnp2RG5zd2VxdlNJa1FMZmZZaUh4a03SAeIBQVVfeXFMTmxHUnRqTnJtb0J1MDA2b0NCNVFLZlJ5ajRoTFVOMEdLeVplNUJ6SHMtYnd3X1MxZ1NUd2g3bzVMeEc5LVhyT3pHTXpBV2FFbjNfR2NjNzM1RkVnTlVwb1BZOXpqeVh3T01QUUdRUTE3NERfWXBYZTVlX0FQM1RHeExkTnJsdE95Nzk4aWtwcExzMjdzR2g1Q0pqazJHQkZCR2oyUFVQc01VN0N2aEoyM0dMTmlkZGZ6aEc2WlRYcGxYVUQ3NkpROUpqV1Bab0pHQmk0SFo3VTlna29TTVk0bHBqUQ?oc=5",
+   "published_utc": "2022-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "2 Teachers Detained In Tamil Nadu After Teen Found Dead In School",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXE0MkxoWmFoVEl0Szl0ak1jT1NHM2I5OVBPRDV4TVY0eWpPLVJhWXdLV3ZmSUwwMmtOMFBLWTBjZWFBNFdudEhJazB2Mnp6Tm9rU2daZ1JhVGM5STBYb0FrV0hzRV9CcHhMQWRUSjV2aUdWNWFDYnZHQkxma3VXU1JOeGowRzZZRUVxdlU3QjVSeUNaV0dpZ3B1ZnBhVXBQcmc?oc=5",
+   "published_utc": "2022-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Chief Minister MK Stalin Recovering Well From Covid: Hospital",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzI0bWdHM1kzdzNRZnY4X0Fxcm1xSll5Yy16ekgzX1dDTDhtU1dIVW5oTzBJaWtudzVldVNvUHRYNGd4aklTSGRVcW1DZ1g1SHhsSlIwbm5lOWZwS3FDb1lvWTY0Y2RYRFc5em0zSWRRbkxrODJoaG0ySzZHbDY3aVRvcFJDQjlDVzBWa2tJaTZhZFZBZS1OUmJiRVpjOE9kakZkVWxBbjhaMmlCRXdXVHNCMFU5cFk?oc=5",
+   "published_utc": "2022-07-15T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Education is real wealth that can’t be stolen, says Tamil Nadu CM MK Stalin",
+   "source_name": "The Indian Express",
+   "source_domain": "https://indianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzdieE5jVFRWZF8xSGpVVlpfYzQ5TkdKQU1pazJQc1dUc3lNT2FYRV9TZmJJZG82RXdST2ZXQ2tBY1VrMjNSTmIybVIyMEFUZGFwRHVuc0lrNFRadHlsUW0xN3pMOGNmWUdGcUkweVNLZFJpOWdBYzlBbTZzVlgzN3pRYk9KX0hsSXAyNC1BNHBoVDd4SDFIdFRzRTRkYzMzS1dNS3lzVGVCTlVWamxaMVRZLUdGaTdXOWfSAcABQVVfeXFMUE9wd2Y3c2JWWnV1ODNtOTRhVUpaTWtVbmNBbjBsVVQwRDlhcW9fVFh3aXUxN01rNVNFanBxYjhINF96LVU2bGU3aWNKa2lHT1RQYm1NNktlbzRFTldTajV5OEtrZndldkxNblI2Yk9fM1dSRVA4TGx1WlBmTE1FQ21SMDBQSlNELURQUjlEZ1JXX0ZNQUw0Q3ZqVndYWGFmMmV0bmRvcDVnMFN3UkJXZk9nV0VCcTN6emlQVmoxUUtM?oc=5",
+   "published_utc": "2022-07-06T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Tamil Nadu Schoolgirl Suicide: Repeat Autopsy Ordered, Teachers Detained",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN1JTaFlaTnRDTlhVU3FYVGtrTUlNVFF6TmFBWmlCbVhHUmRQdXBZcjZZSW01b21XWEdId0ZvZzNGRUtyZnRXMEotdGVqajdMOXFiODBaWElNU1hUc0cxRmZ2NTMwOGRPazVBbFdHWTVLSzJZQnNmdlRGUnlYWXNET0Z3ekdJSEpyV0JTODI4OEwwTWZyaVU1TVVZcE15S2FHcDI1TmpjdDZ2ZHp2eDhpVnlkb1h2TGNtb0VlcGgtbERZZHZMSllEZDMzQQ?oc=5",
+   "published_utc": "2022-07-18T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

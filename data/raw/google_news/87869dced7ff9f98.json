@@ -1,0 +1,13 @@
+{
+ "query": "(\"Odisha\" OR \"Orissa\") (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2022-06-01 before:2022-07-01",
+ "items": [
+  {
+   "title": "'Odisha's new building plan approval system not friendly', say architects",
+   "source_name": "The New Indian Express",
+   "source_domain": "https://www.newindianexpress.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVHFQS05vcXRJcjVWQUpwU3pobFBtRlMwaHZpQ0VQOGFlN1dkT0p1U01Ed1gxcjRWTGNQaV96elBYWDFycHB3dDhFRFZEbk5VNTMyQUtLYzloZF9YX3RPT3lOelhEaTJ2bks5RDc2all0dWxmcUQ2ZkNoRFg5Z3BhNFZXaTZYcVN0OTlhUHZnTFc2RjVTLW9nbTVRVjBoTDZIT2tuOGJhSHh2b09FY0lfbG1ScmlzTjUxLTUtbnZ5b250WnJlLVNUb1EtekF4MkotLVh4TDY5ZVfSAeYBQVVfeXFMT3I3Ql9RdlYtXzZpc2t6YmVUVXJTNWhCX0E5RXAzTUg4b3owUFJUVUNSVGJubWxzNFVUcXRhSlhpLVZtYy1CaEFQNHpCSGlsajNYUEQxaS04dE5NMXJmQTI5MzZFRVI0UGZTbTZZb1lwajFNam9QWXl4bmxmNE1DbGE2U2JQUzhuazkwQkYzY3U3UlFtdUFmTjZwTU15QWdIeDlRdVJ6V1N2emNMdlM4VDJRd09vWUJYWEtUOUphSmpGRHA1NXRXU1NIQWlYcEE3SV9ENW1WLXJ5TllpcWJqN0xOTUVkQWc?oc=5",
+   "published_utc": "2022-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

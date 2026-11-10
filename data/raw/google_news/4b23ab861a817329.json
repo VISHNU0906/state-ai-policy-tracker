@@ -1,0 +1,4 @@
+{
+ "query": "\"Bihar\" (\"data centre\" OR \"AI city\" OR \"AI university\" OR deepfake OR \"AI rules\" OR \"AI guidelines\") (government OR govt OR policy) after:2023-02-01 before:2023-03-01",
+ "items": []
+}

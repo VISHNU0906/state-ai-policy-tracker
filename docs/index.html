@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>State AI Policy Tracker: what Indian states are doing about AI</title>
+<meta name="description" content="A deduplicated record of AI policy activity by Indian state governments, built from news reports.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,500..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <p class="kicker">State AI Policy Tracker</p>
+    <h1 id="headline">What Indian states are doing about AI</h1>
+    <p class="lede" id="lede">Loading records.</p>
+    <nav class="links" aria-label="Downloads and documentation">
+      <a href="data/records.csv" download>Download the dataset (CSV)</a>
+      <a href="#method">How this was built</a>
+      <a id="repo-link" href="https://github.com/VISHNU0906/state-ai-policy-tracker">Code and commit history</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="filters" aria-label="Filters">
+    <label>State <select id="f-state"><option value="">All states</option></select></label>
+    <label>Kind of step <select id="f-category"><option value="">All kinds</option></select></label>
+    <label>Sector <select id="f-sector"><option value="">All sectors</option></select></label>
+    <label>Level <select id="f-level"><option value="">All levels</option></select></label>
+    <label class="grow">Search <input id="f-q" type="search" placeholder="Words in the headline or summary"></label>
+    <button id="reset" type="button" hidden>Clear filters</button>
+  </section>
+  <p class="active" id="active" aria-live="polite"></p>
+
+  <section class="panel" aria-labelledby="h-grid">
+    <h2 id="h-grid">When each state acted</h2>
+    <p class="note">One square per state per month. Darker means more recorded steps. Select a square to list them.</p>
+    <div class="scroll"><div id="grid" class="grid" role="grid" aria-label="Records per state per month"></div></div>
+    <div class="scale" id="scale" aria-hidden="true"></div>
+  </section>
+
+  <div class="two">
+    <section class="panel" aria-labelledby="h-cat">
+      <h2 id="h-cat">What kind of step, by state</h2>
+      <p class="note">Each bar is one state. Select a colour in the key to filter.</p>
+      <div id="legend" class="legend"></div>
+      <div id="bars" class="bars"></div>
+    </section>
+    <section class="panel" aria-labelledby="h-sec">
+      <h2 id="h-sec">Which part of government</h2>
+      <p class="note">Records by sector. Select a bar to filter.</p>
+      <div id="sectors" class="sectors"></div>
+    </section>
+  </div>
+
+  <section class="panel" aria-labelledby="h-list">
+    <h2 id="h-list">Records</h2>
+    <p class="note" id="list-count"></p>
+    <ol id="list" class="list"></ol>
+    <button id="more" type="button" hidden>Show more records</button>
+  </section>
+
+  <section class="panel method" id="method" aria-labelledby="h-method">
+    <h2 id="h-method">How this was built</h2>
+    <div class="method-cols">
+      <div>
+        <h3>What counts</h3>
+        <p>A record is one concrete step involving AI taken by a state government or a body that answers to it: a policy or draft, a new body or institution, a signed agreement, a deployment in a public service, a budget commitment, a training programme, or a rule. High Court directions are included and marked as judiciary.</p>
+        <p>Left out: opinion pieces, speeches with no concrete step, central government actions, company news with no state body involved, crime stories with no policy response, and party politics.</p>
+      </div>
+      <div>
+        <h3>From raw news to records</h3>
+        <ol id="funnel" class="funnel"></ol>
+        <p id="sources-line"></p>
+      </div>
+      <div>
+        <h3>Known gaps</h3>
+        <ul>
+          <li>English-language reporting only. Hindi and regional-language coverage is not collected.</li>
+          <li>Ten states are covered, chosen by news volume with at least two per zone. The other eighteen are not.</li>
+          <li>The date is the day of the earliest report, which can trail the announcement by a day.</li>
+          <li>Counts measure reported activity, not the size or quality of a policy. A state with a busy press corps will look busier.</li>
+        </ul>
+        <p>The full list of limits and every dropped item with its reason are in the repository.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p id="foot">Built from public news reports. Each record links to its source.</p>
+</footer>
+
+<div id="tip" class="tip" role="tooltip" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -23,7 +23,7 @@ from __future__ import annotations
 
 import re
 
-from .states import BY_NAME, find_regions, normalize_state
+from .states import BY_NAME, find_regions, subject_pattern
 
 # --- signals -----------------------------------------------------------------
 
@@ -47,12 +47,12 @@ AI_FALSE = re.compile(r"Air India|AI Express|\bAI[- ]?\d{3,4}\b|AI flight|AIADMK
 
 GOV_ACTOR = re.compile(
     r"\b(govt|government|cabinet|chief minister|minister|ministry|department|dept|secretariat|assembly"
-    r"|police|cops|commissionerate|collector|district administration|municipal|corporation|civic body"
+    r"|police|cops|governance|govt[- ]run|commissionerate|collector|district administration|municipal|corporation|civic body"
     r"|state[- ](?:run|owned|level)|high court|\bHC\b|budget|state to|state plans)\b|\bCM\b",
     re.I,
 )
 CENTRAL_ACTOR = re.compile(
-    r"\b((?<![Dd]ata )Centre(?! of| for)|Union (?:minister|government|govt|cabinet|budget)|central government|MeitY|IndiaAI|NITI Aayog"
+    r"\b(Centre(?:['’]s)? (?:to|will|approves|clears|sanctions|announces|launches|plans|sets|allocates|okays|nod)|(?:asks|urges|with|from) (?:the )?Centre|Union (?:minister|government|govt|cabinet|budget)|central government|MeitY|IndiaAI|NITI Aayog"
     r"|PM Modi|Prime Minister|Vaishnaw|Lok Sabha|Rajya Sabha|Supreme Court|Railways|RBI|SEBI)\b"
 )
 STATE_GOV_STRONG = re.compile(r"\b(govt|government|cabinet|chief minister|state)\b|\bCM\b", re.I)
@@ -64,7 +64,9 @@ INSTRUMENT = re.compile(
     r"|budget|crore|lakh|fund|grant|incentives?|subsid(?:y|ies)|tender"
     r"|guidelines|rules|regulations?|bill|act|ordinance|framework|ban|advisory"
     r"|scheme|programme|program|project|initiative|curriculum|syllabus|course|training|skilling"
-    r"|pilot|portal|platform|app|system|tool|cameras?|surveillance|dashboard|helpline|command cent(?:re|er))\b",
+    r"|pilot|portal|platform|app|system|tool|cameras?|surveillance|dashboard|helpline|command cent(?:re|er)"
+    r"|attendance|study|survey|audit|agenc(?:y|ies)|AI minister|minister for AI|intelligence minister|norms|boundaries"
+    r"|cent(?:re|er)s?|hubs?|park|township|kits?|devices?|dept|department)\b",
     re.I,
 )
 ACTION = re.compile(
@@ -75,25 +77,26 @@ ACTION = re.compile(
     r"|plans?|propos(?:es|ed)|moots|mulls|release(?:s|d)?|inaugurat(?:es|ed)|start(?:s|ed)?|begin(?:s)?|use(?:s|d)? AI|turn(?:s|ed)? to AI|bring(?:s)?|ropes? in"
     r"|mov(?:es|ed)|develop(?:s|ed)?|build(?:s)?|built|expand(?:s|ed)?|scal(?:es|ed|e up)|push(?:es)?|bets?|eyes|open(?:s|ed)?"
     r"|host(?:s|ed)?|pilot(?:s|ed)?|test(?:s|ed)?|AI (?:helps?|to help|aids?)|with AI|using AI|through AI"
-    r"|harness\w*|leverag\w*|integrat\w+|embrac\w+)\b",
+    r"|harness\w*|leverag\w*|integrat\w+|embrac\w+|initiat\w+|appoint\w+|rejigs?|mandatory|direct(?:s|ed)|order(?:s|ed)"
+    r"|issu(?:es|ed)|distribut\w+|empower\w*|targets?|identif\w+|trac(?:es|ed|k)|crack(?:s|ed)?|AI (?:\w+ )?helps?|rolls?|sets?)\b",
     re.I,
 )
 
-def state_is_subject(title: str, first: int) -> bool:
-    """True for "Assam signs ...", "Uttar Pradesh to launch ...". False for "Kerala startup ...".
-
-    The state named as the grammatical subject of a headline stands for its government.
+def state_is_subject(title: str, state: str) -> bool:
+    """True for "Assam signs ...", "Google, Telangana ink MoU", "Uttar Pradesh to launch ...".
+    False for "Kerala startup ...". A state named as the one acting stands for its government.
     """
-    if first > 4:
-        return False
-    words = title[first:].split()
-    for k in (1, 2, 3):
-        if len(words) > k and normalize_state(re.sub(r"['’]s$", "", " ".join(words[:k]))):
-            nxt = words[k].strip(",:;")
-            if nxt.lower() in ("to", "will", "govt", "government") or ACTION.fullmatch(nxt):
-                return True
+    for m in subject_pattern(state).finditer(title):
+        nxt = m.group(1)
+        if nxt.lower() in ("to", "will", "govt", "government") or ACTION.fullmatch(nxt):
+            return True
     return False
 
+
+# Statements and speeches. Kept only when the headline also reports a concrete step.
+RHETORIC = re.compile(
+    r"(says?|said|urges?|calls? for|stress(?:es|ed)|hails?|asserts?|claims?|warns?|bats for|pitch(?:es)? for|emphasi[sz]es?"
+    r"|highlights?|lauds?|vows?|promis(?:es|ed))|^['\"‘“]", re.I)
 
 OPINION = re.compile(
     r"^(opinion|editorial|explained|explainer|analysis|column|interview|podcast|watch|video|photos?|quiz|fact check)\b"
@@ -162,7 +165,8 @@ def assess(title: str, description: str = "", source_name: str = "") -> dict:
     out["state_basis"] = basis + ":" + "+".join(ranked[0][1]["evidence"])
     out["other_states"] = [n for n, _ in ranked[1:]]
     # "Assam signs MoUs ..." : the state named as the subject of the headline is the government acting.
-    if basis == "headline" and state_is_subject(title, ranked[0][1]["first"]):
+    subject = basis == "headline" and state_is_subject(title, out["state"])
+    if subject:
         sig["gov"] = True
         sig["state_is_subject"] = True
     if BY_NAME[out["state"]].kind != "state":
@@ -181,7 +185,7 @@ def assess(title: str, description: str = "", source_name: str = "") -> dict:
     if CRIME_MISUSE.search(title) and not REGULATORY.search(title):
         out["reason"] = "ai_misuse_or_crime_no_policy_step"
         return out
-    if sig["central"] and not STATE_GOV_STRONG.search(title):
+    if sig["central"] and not subject and not STATE_GOV_STRONG.search(title):
         out["reason"] = "central_government_actor"
         return out
     if not sig["gov"]:
@@ -189,6 +193,9 @@ def assess(title: str, description: str = "", source_name: str = "") -> dict:
         return out
     if not (sig["instrument"] or sig["action"]):
         out["reason"] = "no_concrete_step"
+        return out
+    if RHETORIC.search(title) and not (sig["action"] and INSTRUMENT.search(title)):
+        out["reason"] = "statement_only"
         return out
 
     out["keep"] = True

@@ -15,6 +15,7 @@ from __future__ import annotations
 import csv
 import hashlib
 import json
+import re
 import sys
 from collections import Counter
 
@@ -33,6 +34,9 @@ PIB|PTI|ANI|ANI News|The Hindu|The Indian Express|The Times of India|Times of In
 |Free Press Journal|The Federal|The Week|Outlook Business|Business Today|News18|Firstpost|India Today NE
 """.replace("\n", "").split("|")}
 LOW = ("pr newswire", "business wire", "businesswire", "newswire", "ani pr", "pnn", "tribune india pr")
+
+
+TITLE_TAIL = re.compile(r"\s+[|–]\s+[^|–]{3,40}$")
 
 
 def source_rank(name: str) -> int:
@@ -76,6 +80,7 @@ def main(argv=None):
     kept, rejected = [], []
 
     for it in raw:
+        it["title"] = TITLE_TAIL.sub("", it["title"]).strip()      # "... | India News" and similar section tags
         day, precision = parse_date(it.get("published_utc"))
         if not day:
             day, precision = date_from_url(it.get("url", ""))

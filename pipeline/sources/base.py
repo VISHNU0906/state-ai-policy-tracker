@@ -50,14 +50,20 @@ def item(**kw) -> dict:
 
 
 def cached_get(cache_dir: Path, cache_key: str, url: str, params: dict | None = None, *,
-               delay: float = 1.0, retries: int = 4, backoff: float = 6.0) -> str:
-    """GET with an on-disk cache. `cache_key` must not contain secrets."""
+               delay: float = 1.0, retries: int = 4, backoff: float = 6.0, pre_delay: float = 0.0) -> str:
+    """GET with an on-disk cache. `cache_key` must not contain secrets.
+
+    `pre_delay` sleeps before every network call, including the first after a
+    failure. Sources with a strict rate limit (GDELT) need this: pausing only
+    after a success lets a failed call be followed at once by the next one.
+    """
     cache_dir.mkdir(parents=True, exist_ok=True)
     path = cache_dir / (hashlib.sha1(cache_key.encode()).hexdigest()[:16] + ".txt")
     if path.exists():
         return path.read_text(encoding="utf-8")
     last = None
     for attempt in range(retries):
+        time.sleep(pre_delay)
         resp = requests.get(url, params=params, headers=HEADERS, timeout=40)
         last = resp.status_code
         if resp.status_code == 200:

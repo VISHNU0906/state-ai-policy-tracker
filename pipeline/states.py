@@ -41,7 +41,7 @@ REGIONS = [
     Region("Himachal Pradesh", "HP", "state", ("Himachal",), (), ("HP",), ("Shimla",)),
     Region("Jharkhand", "JH", "state", (), (), (), ("Ranchi",)),
     Region("Karnataka", "KA", "state", (), (), (), ("Bengaluru", "Bangalore", "Mysuru", "Mangaluru")),
-    Region("Kerala", "KL", "state", (), (), (), ("Thiruvananthapuram", "Kochi", "Kozhikode")),
+    Region("Kerala", "KL", "state", ("Keralam",), (), (), ("Thiruvananthapuram", "Kochi", "Kozhikode")),
     Region("Madhya Pradesh", "MP", "state", (), (), ("MP",), ("Bhopal", "Indore")),
     Region("Maharashtra", "MH", "state", ("Maha",), (), (), ("Mumbai", "Pune", "Nagpur", "Navi Mumbai")),
     Region("Manipur", "MN", "state", (), (), (), ("Imphal",)),
@@ -157,3 +157,10 @@ def normalize_state(raw: str):
     if len(hits) == 1:
         return next(iter(hits))
     return None
+
+
+def subject_pattern(state: str) -> "re.Pattern":
+    """Regex that finds the state's name or safe abbreviation and captures the word after it."""
+    r = BY_NAME[state]
+    alts = "|".join(_flex(n) for n in sorted((r.name,) + r.names + r.abbrevs + r.gov_abbrevs, key=len, reverse=True))
+    return re.compile(rf"(?<![A-Za-z])(?:{alts})(?:['’]s)?,?\s+([A-Za-z]+)")

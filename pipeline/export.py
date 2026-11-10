@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import csv
 import json
+import shutil
 from collections import Counter
 
 from . import config
@@ -55,6 +56,7 @@ def write_all(records: list[dict], rejected: list[dict], funnel: dict) -> None:
         w.writerows(rejected)
 
     _write_xlsx(records, rejected)
+    shutil.copyfile(config.OUT / "records.csv", config.SITE / "data" / "records.csv")   # the page's download link
 
     log_path = config.INTERIM / "collect_log.json"
     collect = json.loads(log_path.read_text(encoding="utf-8")) if log_path.exists() else {}

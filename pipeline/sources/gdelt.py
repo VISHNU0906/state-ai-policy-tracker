@@ -27,7 +27,7 @@ def search(state: str, start: date, end: date, cache_dir: Path) -> list[dict]:
     }
     key = f"gdelt|{query}|{start}|{end}"
     try:
-        data = cached_json(cache_dir, key, API, params, delay=6.0, backoff=10.0)
+        data = cached_json(cache_dir, key, API, params, delay=0.0, pre_delay=6.5, backoff=20.0, retries=3)
     except ValueError:
         return []  # GDELT answers with plain text, not JSON, when a query has no matches
     out = []

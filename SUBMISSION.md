@@ -157,18 +157,18 @@ As the saying goes, prevention is ideal but detection is a must. I could not pre
 
 ## How I checked it
 
+![Figure 11. Precision and recall as the bar moves [6]](docs/figures/report/precision_recall.png)
+
+*Figure 11. Precision and recall as the bar moves [6]*
+
+I set the bar at 0.25 using 140 headline pairs labelled as same policy or different policy. Figure 11 shows why. It is the highest bar that still finds every labelled duplicate. Raise it and real duplicates start to slip through as separate policies. Lower it and different policies start to merge.
+
 | Check | Result | What it tells me |
 | --- | --- | --- |
 | Automated tests | 97 pass | The rules do what I wrote them to do. They cannot tell me whether a news article is true. |
 | Rebuild from the saved files | Same rows and values in the CSV files | Anyone can reproduce the dataset without a network. |
 | 140 labelled headline pairs | 136 found in the data. Precision 0.96, recall 1.00 | Useful for tuning. It is not an independent score, for the reason below. |
 | Screening of headlines | 545 policies screened, 171 not | The 171 are mostly from 2022 to 2024. Kerala in 2023 shows what unscreened rows look like. |
-
-![Figure 11. Precision and recall as the bar moves [6]](docs/figures/report/precision_recall.png)
-
-*Figure 11. Precision and recall as the bar moves [6]*
-
-Figure 11 is why the bar sits at 0.25. It is the highest bar that still finds every labelled duplicate. Raise it and real duplicates start to slip through as separate policies. Lower it and different policies start to merge.
 
 I should be clear about how the screening was done. I used an AI assistant to go through the headlines, mark the ones that did not belong and label the duplicate pairs. I did not open and read every article myself. The same labelled pairs were also used to set the threshold, so 0.96 is a development number and I would not quote it as accuracy.
 
@@ -204,8 +204,7 @@ The first two lines install and test. The next four rebuild the dataset from the
 | --- | --- |
 | This document | 01_Submission: Google Doc, Word and PDF |
 | Dataset | 02_Dataset: records.csv, records.xlsx, record_sources.csv, rejected.csv, tracker.sqlite |
-| Code | 03_Code: zip of the repository, with the saved responses |
-| Commit history | 04_Git_History: Git bundle |
+| Code and commit history | 03_Code: zip of the repository, with the saved responses. 04_Git_History: Git bundle |
 | Rationale and method | 05_Method_and_Research: one-page rationale, README, methodology, research notes |
 | Checks and figures | 06_Verification_and_Figures: test and validation output, chart images |
 
@@ -229,7 +228,7 @@ With more time, I would do these in order.
 ## Sources
 
 [[1] Live dashboard and trend charts](https://vishnu0906.github.io/state-ai-policy-tracker/trends.html). Screenshots taken on 11 November 2026.  
-[[2] Published dataset](https://github.com/VISHNU0906/state-ai-policy-tracker/tree/main/data/out). 716 policies, 1,306 news reports, 17,253 dropped items. All charts are drawn from these files.  
+[[2] Published dataset](https://github.com/VISHNU0906/state-ai-policy-tracker/tree/main/data/out). 716 policies, 1,306 news reports and 17,253 dropped items.  
 [[3] README](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/README.md). Sources, saved responses and the commands to rebuild.  
 [[4] Methodology](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/METHODOLOGY.md). State and date rules, with examples.  
 [[5] Duplicate matching code](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/pipeline/dedupe.py). Word weights, the score, the cancellation rule and grouping.  

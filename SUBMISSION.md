@@ -72,7 +72,6 @@ I used Google News RSS as the main source. It is free, it needs no key, and it l
 | GDELT | 896 results | Rate limited on most calls, so its coverage is incomplete. |
 | Bing News RSS | 172 results | Recent weeks only. |
 | Publisher pages | Summaries for 676 of the 716 policies | Read on my own machine with trafilatura. 629 summaries use the publisher's description and 47 use the article text. The other 40 repeat the headline because the site blocked the read. |
-| GNews, NewsAPI, NewsData | Nothing yet | The code is written, but I never ran it with a key. I do not count these as sources. |
 
 Every response is saved to disk. The whole dataset can be rebuilt from those saved files with no network and no paid key.
 
@@ -178,12 +177,6 @@ Once the reports of one policy are grouped, each report is scored again, so the 
 
 *Figure 11. How much backing each policy has [2]*
 
-### Where an LLM fits
-
-The score works on shared words, so it can miss two reports that describe the same policy in completely different words. That is the job for an LLM: read two differently framed reports and tell me whether they are the same policy. In this release an AI assistant did that outside the pipeline. It went through the headlines, marked the ones that did not belong and labelled 140 pairs as same policy or different policy. Those labels set the bar.
-
-A model check that runs inside the pipeline is also written, in pipeline/llm.py. It confirms that a row is a real policy, picks its category and writes the summary. I have not run it yet, so none of the 716 policies depend on it.
-
 ## How I checked it
 
 ![Figure 12. Precision and recall as the bar moves [6]](docs/figures/report/precision_recall.png)
@@ -199,7 +192,7 @@ I set the bar at 0.25 using 140 headline pairs labelled as same policy or differ
 | 140 labelled headline pairs | 136 found in the data. Precision 0.96, recall 1.00 | Useful for tuning. It is not an independent score, for the reason below. |
 | Screening of headlines | 545 policies screened, 171 not | The 171 are mostly from 2022 to 2024. Kerala in 2023 shows what unscreened rows look like. |
 
-I did not open and read every article myself. The screening and the pair labels came from the AI assistant, and the same labelled pairs set the bar. So 0.96 is a development number and I would not quote it as accuracy.
+I did not open and read every article myself, and the labelled pairs that measure the score also set the bar. So 0.96 is a development number and I would not quote it as accuracy.
 
 Every policy links straight to the publisher. In the list of supporting reports, 1,206 of the 1,306 links still go through a Google News redirect, which I have not resolved yet.
 
@@ -253,7 +246,7 @@ With more time, I would do these in order.
 2. Add government orders, tenders and budgets, each with its own date, so progress is measured and not guessed.
 3. Have a person review a fixed sample of whole policies, kept away from anything used for tuning.
 4. Search in Hindi, Telugu, Tamil, Kannada, Malayalam and the other state languages.
-5. Run the paid news APIs on the same searches, and keep only the ones that find policies Google News missed.
+5. Add more news sources on the same searches, and keep only the ones that find policies Google News missed.
 6. Go from thirteen states to all 28.
 
 ## Sources

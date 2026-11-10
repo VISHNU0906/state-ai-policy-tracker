@@ -79,6 +79,8 @@ Each "out" has a reason code in `rejected.csv`: `no_ai_term`, `no_state_named`, 
 
 **Dates.** `pipeline/dates.py`. Feed timestamps are converted to India time before the day is taken (20:30 UTC on the 7th is the 8th in India). Every record carries `date_precision`. A month-only date is stored as the first of the month and flagged, never passed off as a day. An unparseable date stays empty with precision `unknown`. In this run all 543 records have day precision, because the feeds always supplied a timestamp. The date is the earliest report of the event, which can trail the announcement by a day.
 
+**Date cross-check.** The publisher page's own date was available for 532 of the 543 records. It matches the feed date exactly for 455 (86 percent) and within one day for 485 (91 percent). The 42 that differ by more than 30 days were traced to the page reader, not the feed: two sites return the day the page was fetched and one returns a placeholder date. The feed date is therefore the one kept, and the page date is used only as a check.
+
 ## Deduplication
 
 One announcement is reported in many wordings, so URL or exact-title matching is not enough. The method (`pipeline/dedupe.py`):

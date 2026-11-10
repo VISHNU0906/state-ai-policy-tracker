@@ -85,7 +85,7 @@ def gov_level(title: str) -> str:
 # approving a policy and switching a system on are different things, and a
 # count that mixes them overstates what exists on the ground.
 STAGE_RULES = [   # listed in tie-break order
-    ("reversed", re.compile(r"\b(cancel\w*|scraps?|scrapped|revok\w+|withdraw\w*|suspend\w*|shelv\w+|halt(?:s|ed)|stalls?|stalled)\b", re.I)),
+    ("reversed", re.compile(r"\b(cancel\w*|scraps?|scrapped|revok\w+|withdraw\w*|suspend\w*|shelv\w+|halt(?:s|ed)?|stalls?|stalled)\b", re.I)),
     ("signed", re.compile(r"\b(sign(?:s|ed)|ink(?:s|ed)|MoUs?|LoI|pact|agreement|partners? with|partners\b|ties? up|tie-up|joins? hands|teams? up|collaborat\w+)\b", re.I)),
     ("approved", re.compile(r"\b(approv\w+|clear(?:s|ed)|nod|sanction\w+|okays?|notif(?:y|ies|ied)|allocat\w+|earmark\w*|sets? aside|budget)\b", re.I)),
     ("launched", re.compile(

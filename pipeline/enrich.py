@@ -75,6 +75,10 @@ def enrich(item: dict) -> dict:
     if path.exists():
         return json.loads(path.read_text(encoding="utf-8"))
 
+    if os.environ.get("PIPELINE_OFFLINE") == "1":
+        return {"url": item.get("url", ""), "description": item.get("description", ""),
+                "body_lead": "", "page_date": "", "fetch_status": "offline_cache_miss"}
+
     import trafilatura
 
     out = {"url": item.get("url", ""), "description": item.get("description", ""), "body_lead": "",

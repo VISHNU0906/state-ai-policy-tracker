@@ -32,10 +32,10 @@ Method
    (cancelled, scrapped, stayed) is never linked to one that does not, and
    the similarity required rises by DEDUP_GAP_PENALTY for each day beyond
    one that separates two headlines. The measured error rate is in the README.
-6. Identical publisher URLs are always merged (the same article found by two
+6. Identical publisher URLs with the same state and reversal status are merged (the same article found by two
    sources).
 
-The threshold was chosen on hand-labelled pairs in data/review/dedup_pairs.csv.
+The threshold was chosen on assistant-labelled headline pairs in data/review/dedup_pairs.csv.
 scripts/eval_dedupe.py prints precision and recall, measured on whether each
 labelled pair ends up in the same cluster.
 """
@@ -72,8 +72,8 @@ SYNONYMS = {
 
 # A reversal of an earlier step is a new event, however similar the wording.
 REVERSAL = re.compile(
-    r"(cancel\w*|scraps?|scrapped|revok\w+|withdraw\w*|rolls? back|rolled back|pulls? (?:the )?plug|suspend\w*|stays?|stayed"
-    r"|drops?|dropped|shelv\w+|halts?|halted|quash\w*|terminat\w+)", re.I)
+    r"\b(cancel\w*|scraps?|scrapped|revok\w+|withdraw\w*|rolls? back|rolled back|pulls? (?:the )?plug|suspend\w*|stays?|stayed"
+    r"|drops?|dropped|shelv\w+|halts?|halted|quash\w*|terminat\w+)\b", re.I)
 
 _NUM = re.compile(r"\d[\d,]*(?:\.\d+)?")
 _WORD = re.compile(r"[a-z]{3,}")
@@ -136,7 +136,7 @@ def cluster(items: list[dict], threshold: float = None, window: int = None, gap_
     for i, it in enumerate(items):
         by_state[it["state"]].append(i)
         if it.get("url"):
-            parent[find(i)] = find(by_url.setdefault(it["url"], i))   # the same article found twice
+            parent[find(i)] = find(by_url.setdefault((it["state"], it["url"], reversal[i]), i))   # the same article found twice
 
     for idxs in by_state.values():
         idxs.sort(key=lambda i: (days[i], items[i]["title"]))

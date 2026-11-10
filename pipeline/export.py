@@ -22,7 +22,7 @@ COLUMNS = [
     ("record_id", "Stable ID: state code, date, short hash of the earliest headline."),
     ("state", "Canonical state name, taken from the article text, not from the search query."),
     ("date", "Date of the earliest report of the event, India time, ISO format."),
-    ("date_precision", "day, month, year or unknown. A month-precision date is stored as the 1st of the month."),
+    ("date_precision", "day, month, quarter, year or unknown. A month-precision date is stored as the 1st of the month."),
     ("title", "Headline of the article chosen to represent the event."),
     ("summary", "One line on what happened."),
     ("category", "Kind of step taken. One value from the fixed list in pipeline/taxonomy.py."),
@@ -35,7 +35,7 @@ COLUMNS = [
     ("other_outlets", "The other outlets, separated by semicolons."),
     ("confidence", "high when the headline itself names the state, AI, a concrete instrument and an action; else medium."),
     ("summary_basis", "Where the summary came from: publisher_description, article_text, headline, written_in_review or llm_from_article_text."),
-    ("review_status", "auto (rules only), reviewed (hand-checked) or llm_checked."),
+    ("review_status", "auto (rules only), legacy_headline_screen (historical assistant screening flag), override_applied (saved field change) or llm_checked. No value establishes human article verification."),
 ]
 FIELDS = [c for c, _ in COLUMNS]
 SRC_FIELDS = ["record_id", "is_representative", "source_name", "date", "title", "link", "origin"]

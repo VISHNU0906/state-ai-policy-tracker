@@ -36,8 +36,8 @@
   "funnel": {
    "raw_items": 18559,
    "passed_relevance": 1662,
-   "events_after_dedupe": 965,
-   "final_records": 714,
+   "events_after_dedupe": 967,
+   "final_records": 716,
    "dropped_in_review": 251
   },
   "hits_per_source": {
@@ -65,7 +65,7 @@
   },
   "record_origins": {
    "bing_news_rss": 56,
-   "google_news_rss": 703,
+   "google_news_rss": 705,
    "gdelt": 17
   }
  },
@@ -87,7 +87,7 @@
    "other_outlets": "Careers360 News",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-11-10-e10624",
@@ -106,7 +106,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-11-09-5cdb9c",
@@ -125,7 +125,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-11-09-9f3f2b",
@@ -144,7 +144,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-11-08-46d3c4",
@@ -163,7 +163,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-11-05-06d70b",
@@ -182,7 +182,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-11-05-f7d5eb",
@@ -201,7 +201,7 @@
    "other_outlets": "The Hindu",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-11-04-b20081",
@@ -220,7 +220,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-11-04-1cb979",
@@ -239,7 +239,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-11-04-310fa9",
@@ -258,7 +258,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-11-02-3bd9d9",
@@ -296,7 +296,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-11-02-ab994f",
@@ -315,7 +315,7 @@
    "other_outlets": "Daily Pioneer",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-11-02-e43d94",
@@ -334,7 +334,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-11-01-c2393c",
@@ -353,7 +353,7 @@
    "other_outlets": "shattered.io; ET Government; Elets Technomedia",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-11-01-34d810",
@@ -372,7 +372,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-10-31-a6d9a4",
@@ -391,7 +391,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-10-31-5e82a1",
@@ -410,7 +410,7 @@
    "other_outlets": "Ahmedabad Mirror",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-10-30-126a39",
@@ -429,7 +429,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-10-30-50af04",
@@ -448,7 +448,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-10-30-dedaff",
@@ -467,7 +467,7 @@
    "other_outlets": "Mid-Day; ET Auto",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-10-30-37f1d4",
@@ -486,7 +486,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-10-29-1734be",
@@ -505,7 +505,7 @@
    "other_outlets": "Telegraph India; BW Education; Odisha TV; Hindustan Times; OdishaPlus; EdexLive",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-10-28-9c826e",
@@ -524,7 +524,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-10-28-5e6111",
@@ -543,7 +543,7 @@
    "other_outlets": "Mid-Day; YourStory",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-10-28-a600bd",
@@ -562,7 +562,7 @@
    "other_outlets": "Free Press Journal; News18 on MSN; Prop News Time",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-10-28-542401",
@@ -581,7 +581,7 @@
    "other_outlets": "patnapress.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-10-27-23862c",
@@ -600,7 +600,7 @@
    "other_outlets": "The Hindu; Rediff MoneyWiz; CNBC TV18; The Economic Times; ET Infra; GK Today; digital terminal; Prop News Time",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-10-26-c747d4",
@@ -619,7 +619,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-10-26-5d4d05",
@@ -638,7 +638,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-10-25-52714d",
@@ -657,7 +657,7 @@
    "other_outlets": "The Times of India; NDTV; Analytics India Magazine; News18 on MSN",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-10-24-8dcfae",
@@ -676,7 +676,7 @@
    "other_outlets": "Zee Business; Daily Pioneer; India.com; WION; New India Abroad; India.com on MSN; Rediff; Urban Acres; ThePrint; Analytics India Magazine; News18",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-10-23-59a7bb",
@@ -695,7 +695,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-10-23-8a6c30",
@@ -714,7 +714,7 @@
    "other_outlets": "The Times of India; CNBC TV18; NewsBytes",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-10-23-a89a8f",
@@ -733,7 +733,7 @@
    "other_outlets": "The 420.in",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-10-22-e94121",
@@ -752,7 +752,7 @@
    "other_outlets": "Daily Pioneer",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-10-22-5ef3ea",
@@ -771,7 +771,7 @@
    "other_outlets": "Social News XYZ",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-10-21-43a5bc",
@@ -790,7 +790,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-10-21-9a2875",
@@ -809,7 +809,7 @@
    "other_outlets": "The 420.in; The Times of India; ET Education; MediaNama",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-10-20-6c2c59",
@@ -828,7 +828,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-10-19-464b69",
@@ -847,7 +847,7 @@
    "other_outlets": "Moneycontrol.com",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-10-16-27f99e",
@@ -866,7 +866,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-10-15-5acfc2",
@@ -885,7 +885,7 @@
    "other_outlets": "The Free Press Journal",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-10-15-9ec0b0",
@@ -904,7 +904,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-10-14-9865f2",
@@ -923,7 +923,7 @@
    "other_outlets": "Mid-Day",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-10-13-3896e7",
@@ -942,7 +942,7 @@
    "other_outlets": "The News Mill; DD News",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-10-13-d924ca",
@@ -961,7 +961,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-10-12-0896ea",
@@ -980,7 +980,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-10-12-8f0bba",
@@ -999,7 +999,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-10-12-322ea9",
@@ -1018,7 +1018,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-10-10-2cbce3",
@@ -1037,7 +1037,7 @@
    "other_outlets": "Indian Masterminds; Hindustan Times; Free Press Journal; Elets eGov; APAC Media",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-10-10-b6fcb8",
@@ -1056,7 +1056,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-10-08-a1dadc",
@@ -1075,7 +1075,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-10-08-13d5bd",
@@ -1094,7 +1094,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-10-06-cb7d28",
@@ -1113,7 +1113,7 @@
    "other_outlets": "Free Press Journal; Moneycontrol.com; Livemint; ET Government; Express Computer; Tech Observer Magazine",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-10-06-51810e",
@@ -1132,7 +1132,7 @@
    "other_outlets": "Moneycontrol.com; ANI News; The Hindu; Deccan Herald; The Times of India; EdexLive",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-10-05-5d55a0",
@@ -1151,7 +1151,7 @@
    "other_outlets": "NDTV Profit; Deccan Herald; Your Story; Daily Pioneer; ThePrint; Moneycontrol.com; Jagran Josh; The New Indian Express; Urban Acres; Times Now; Elets eGov; India Today; Telegraph India; Education Times",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-10-04-dc389b",
@@ -1170,7 +1170,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-10-03-ca4c69",
@@ -1189,7 +1189,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-10-01-3ca5c4",
@@ -1208,7 +1208,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-10-01-29ef58",
@@ -1227,7 +1227,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-09-28-9673d6",
@@ -1246,7 +1246,7 @@
    "other_outlets": "rajasthan.economictimes.indiatimes.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-28-924e17",
@@ -1265,7 +1265,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-09-28-01d491",
@@ -1284,7 +1284,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-09-27-808f35",
@@ -1303,7 +1303,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-09-26-0efa71",
@@ -1322,7 +1322,7 @@
    "other_outlets": "Odisha TV",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-09-26-8318ff",
@@ -1341,7 +1341,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-24-ea2295",
@@ -1360,7 +1360,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-09-24-524dde",
@@ -1379,7 +1379,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-09-23-1d14d2",
@@ -1398,7 +1398,7 @@
    "other_outlets": "prameyanews.com; The Times of India; Analytics India Magazine; Trade Brains; The New Indian Express; Moneycontrol.com; Organiser",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-09-23-6b2284",
@@ -1417,7 +1417,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-09-23-a533d1",
@@ -1436,7 +1436,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-09-22-61da1c",
@@ -1455,7 +1455,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-09-21-0bca26",
@@ -1474,7 +1474,7 @@
    "other_outlets": "Free Press Journal; ET Education",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-21-aeb3aa",
@@ -1493,7 +1493,7 @@
    "other_outlets": "Telegraph India; BW Education",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-09-20-8fd7e3",
@@ -1512,7 +1512,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-09-19-7d5198",
@@ -1531,7 +1531,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-19-81e2c0",
@@ -1550,7 +1550,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-09-19-6ebd29",
@@ -1569,7 +1569,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-18-f91fc4",
@@ -1588,7 +1588,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-18-5defbf",
@@ -1607,7 +1607,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-09-17-12bb01",
@@ -1626,7 +1626,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-09-17-b5672d",
@@ -1645,7 +1645,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-09-15-6c7310",
@@ -1683,7 +1683,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-09-11-c6588e",
@@ -1702,7 +1702,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-11-54dcc1",
@@ -1721,7 +1721,7 @@
    "other_outlets": "Analytics India Magazine; Careers360",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-09-09-72335c",
@@ -1740,7 +1740,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-09-09-003290",
@@ -1759,7 +1759,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-09-91c287",
@@ -1778,7 +1778,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-09-09-efb7ea",
@@ -1797,7 +1797,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-09-08-1e3d32",
@@ -1816,7 +1816,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-09-07-330dc4",
@@ -1835,7 +1835,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-09-07-202616",
@@ -1854,7 +1854,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-07-2d383e",
@@ -1873,7 +1873,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-09-07-6bbdf1",
@@ -1892,7 +1892,7 @@
    "other_outlets": "BusinessLine; Asian News International",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-09-05-872420",
@@ -1911,7 +1911,7 @@
    "other_outlets": "Elets eGov",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-09-05-5f7b62",
@@ -1930,7 +1930,7 @@
    "other_outlets": "Hindusthan Samachar English; Sambad English; prameyanews.com; Careers360",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-09-05-7ffc77",
@@ -1949,7 +1949,7 @@
    "other_outlets": "YourStory.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-09-05-8adc7a",
@@ -1968,7 +1968,7 @@
    "other_outlets": "ET Education",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-09-04-05b894",
@@ -1987,7 +1987,7 @@
    "other_outlets": "NDTV; India Today NE; Jagran Josh; Guwahati Plus News; BusinessLine; ET Enterprise AI; Borok Times; ET Education",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-09-04-6012c7",
@@ -2006,7 +2006,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-09-03-ca26cc",
@@ -2025,7 +2025,7 @@
    "other_outlets": "Construction Week India; Deccan Herald; Free Press Journal",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-08-30-8d293b",
@@ -2044,7 +2044,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-08-30-e1c706",
@@ -2063,7 +2063,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-08-28-31a231",
@@ -2082,7 +2082,7 @@
    "other_outlets": "Republic World; The Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-27-2c12db",
@@ -2101,7 +2101,7 @@
    "other_outlets": "rediff.com; Analytics India Magazine",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-08-26-cba610",
@@ -2120,7 +2120,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-08-26-50603c",
@@ -2139,7 +2139,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-08-25-73a4ad",
@@ -2158,7 +2158,7 @@
    "other_outlets": "YourStory.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-08-25-9d109a",
@@ -2177,7 +2177,7 @@
    "other_outlets": "Business Line",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-08-25-e8c1bb",
@@ -2196,7 +2196,7 @@
    "other_outlets": "Moneycontrol.com",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-08-22-8fa674",
@@ -2215,7 +2215,7 @@
    "other_outlets": "Swarajya; Business Standard; Adda247; tele.net; Trade Brains",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-08-21-0a4246",
@@ -2234,7 +2234,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-08-21-212f9a",
@@ -2253,7 +2253,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-21-c740b4",
@@ -2272,7 +2272,7 @@
    "other_outlets": "Businessworld; YourStory.com; economictimes.indiatimes.com; news.webindia123.com; aninews.in; The New Indian Express; The Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-08-21-95a87c",
@@ -2291,7 +2291,7 @@
    "other_outlets": "Express Computer; Manufacturing Today India",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-08-20-2d5c71",
@@ -2310,7 +2310,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-08-19-f13c1e",
@@ -2329,7 +2329,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-08-18-0bbfd6",
@@ -2348,7 +2348,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-08-18-0c3d6d",
@@ -2367,7 +2367,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-08-17-810631",
@@ -2386,7 +2386,7 @@
    "other_outlets": "Investment Guru India; The Times of India; CIOL",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-15-a0e9de",
@@ -2405,7 +2405,7 @@
    "other_outlets": "Daily Pioneer; NDTV; Jagran Josh",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-15-8e20af",
@@ -2424,7 +2424,7 @@
    "other_outlets": "ThePrint; ANI News; The Hindu",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-08-13-39c454",
@@ -2443,7 +2443,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-08-13-a3d9d2",
@@ -2462,7 +2462,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-08-12-8bba28",
@@ -2481,7 +2481,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-08-12-9b3166",
@@ -2500,7 +2500,7 @@
    "other_outlets": "SAS: Data and AI Solutions; Indiatimes",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-08-10-523a0b",
@@ -2519,7 +2519,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-08-07-1729d1",
@@ -2538,7 +2538,7 @@
    "other_outlets": "NewsMeter",
    "confidence": "medium",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-08-07-7d4c80",
@@ -2557,7 +2557,7 @@
    "other_outlets": "Your Story; ET Government",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-07-9868c1",
@@ -2576,7 +2576,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-08-07-de6af7",
@@ -2595,7 +2595,7 @@
    "other_outlets": "Ahmedabad Mirror; The Financial Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-08-06-c7e9e4",
@@ -2614,7 +2614,7 @@
    "other_outlets": "The New Indian Express; DT Next; Telangana Today",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-08-06-f5a612",
@@ -2633,7 +2633,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-08-06-7a33ae",
@@ -2652,7 +2652,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-06-b691c4",
@@ -2671,7 +2671,7 @@
    "other_outlets": "thehindu.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-06-ee32a7",
@@ -2690,7 +2690,7 @@
    "other_outlets": "Analytics India Magazine; Rediff; indiagazette.com; YourStory.com; ET Education; WION; BusinessLine",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-08-06-8a032b",
@@ -2709,7 +2709,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-08-05-099d77",
@@ -2728,7 +2728,7 @@
    "other_outlets": "Indian Masterminds; The Hindu; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-08-05-fb99f0",
@@ -2747,7 +2747,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-08-05-b5b233",
@@ -2766,7 +2766,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-08-05-16f4df",
@@ -2785,7 +2785,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-05-95c44e",
@@ -2804,7 +2804,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-08-05-d9a700",
@@ -2823,7 +2823,7 @@
    "other_outlets": "thehindu.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-08-04-6f0d75",
@@ -2842,7 +2842,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-08-04-7a52f4",
@@ -2861,7 +2861,7 @@
    "other_outlets": "The Economic Times",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-08-04-3ec394",
@@ -2880,7 +2880,7 @@
    "other_outlets": "Onmanorama; India Today",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-08-04-dbb775",
@@ -2918,7 +2918,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-08-03-967c43",
@@ -2937,7 +2937,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-08-01-103e0a",
@@ -2956,7 +2956,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-07-31-e15d55",
@@ -2975,7 +2975,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-07-31-6e4e53",
@@ -2994,7 +2994,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-07-30-75e25a",
@@ -3013,7 +3013,7 @@
    "other_outlets": "thehindu",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-07-29-ccc996",
@@ -3032,7 +3032,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-07-29-fe3fd5",
@@ -3051,7 +3051,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-07-27-726b65",
@@ -3070,7 +3070,7 @@
    "other_outlets": "Moneycontrol.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-07-26-640b7c",
@@ -3089,7 +3089,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-07-25-d94c60",
@@ -3108,7 +3108,7 @@
    "other_outlets": "deccanchronicle.com; The Indian Express; indianexpress.com; The Financial Express; CXO Digitalpulse",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-07-23-df5bfa",
@@ -3127,7 +3127,7 @@
    "other_outlets": "ET Datacenters; NiftyTrader; BW Disrupt; Swarajya; NDTV Profit; ET Telecom; ETV Bharat; The News Insight; My City Links; prameyanews.com; Business Standard; Kalinga TV; ET Infra; Indian Startup News; The Hindu; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-07-22-9bc575",
@@ -3146,7 +3146,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-07-22-c0f18a",
@@ -3165,7 +3165,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-07-22-92a655",
@@ -3184,7 +3184,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-07-22-f42dbb",
@@ -3203,7 +3203,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-07-21-7e0a4a",
@@ -3222,7 +3222,7 @@
    "other_outlets": "Curly Tales",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-07-20-3f9e40",
@@ -3241,7 +3241,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-07-19-246f3e",
@@ -3260,7 +3260,7 @@
    "other_outlets": "CXO Digitalpulse",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-07-19-17bc43",
@@ -3279,7 +3279,7 @@
    "other_outlets": "thehindu.com; Hindustan Times; The News Minute; CXO Digitalpulse",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-07-19-ef1f3b",
@@ -3298,7 +3298,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-07-18-80f775",
@@ -3317,7 +3317,7 @@
    "other_outlets": "Law Trend",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-07-17-36715c",
@@ -3336,7 +3336,7 @@
    "other_outlets": "KNN India; ET Government; ET Datacenters; tele.net",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-07-17-023d11",
@@ -3355,7 +3355,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-07-16-91dded",
@@ -3374,7 +3374,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-07-15-b22d60",
@@ -3393,7 +3393,7 @@
    "other_outlets": "Deccan Herald",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-07-14-1b5da0",
@@ -3412,7 +3412,7 @@
    "other_outlets": "News18; The New Indian Express; Deccan Herald; rozanaspokesman.com; Sakshi Education; GK Today; The Economic Times; ThePrint; News On AIR; YourStory.com; freepressjournal.in; rediff.com; BusinessLine; Analytics India Magazine; APAC Media; Elets eGov; moneycontrol.com; economictimes.indiatimes.com; Business Standard; Livemint; thehindu.com; The Hindu; Adda247; Utkarsh Classes; The Times of India; theindianawaaz.com; MediaNama; Analytics Insight; NDTV; businessworld.in; ABP Live English; education.economictimes.indiatimes; ET Education; digital terminal; www.usthadian.com; sahilonline.org",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-07-13-1b2f9c",
@@ -3431,7 +3431,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-07-13-2f1a6b",
@@ -3450,7 +3450,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-07-13-db5c3d",
@@ -3469,7 +3469,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-07-11-68ceea",
@@ -3488,7 +3488,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-07-11-35a43f",
@@ -3507,7 +3507,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-07-08-23c953",
@@ -3526,7 +3526,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-07-08-42d29f",
@@ -3545,7 +3545,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-07-08-0f8602",
@@ -3564,7 +3564,7 @@
    "other_outlets": "CXO Digitalpulse; thehindu",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-07-07-5dbd42",
@@ -3583,7 +3583,7 @@
    "other_outlets": "www.dqindia.com; CNBC TV18; cnbctv18; tele.net",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-07-07-d704cd",
@@ -3602,7 +3602,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-07-06-fd6896",
@@ -3621,7 +3621,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-07-04-2773a6",
@@ -3640,7 +3640,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-07-04-13e863",
@@ -3659,7 +3659,7 @@
    "other_outlets": "CXO Digitalpulse",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-07-04-00af75",
@@ -3678,7 +3678,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-07-02-6fa66b",
@@ -3697,7 +3697,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-07-02-709c99",
@@ -3716,7 +3716,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-07-02-a0a5fc",
@@ -3735,7 +3735,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-07-01-7cee4e",
@@ -3754,7 +3754,7 @@
    "other_outlets": "Telangana Today; The New Indian Express",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-07-01-305be5",
@@ -3773,7 +3773,7 @@
    "other_outlets": "ET HealthWorld",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-06-30-f0d1aa",
@@ -3792,7 +3792,7 @@
    "other_outlets": "YourStory.com; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-06-30-8ef7b7",
@@ -3811,7 +3811,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-06-30-ca0cee",
@@ -3830,7 +3830,7 @@
    "other_outlets": "The 420.in",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-06-29-1cc69c",
@@ -3849,7 +3849,7 @@
    "other_outlets": "CIOL; The 420.in",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-06-27-5d4b29",
@@ -3868,7 +3868,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-06-27-049cdf",
@@ -3887,7 +3887,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-06-27-97c129",
@@ -3906,7 +3906,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-06-24-086850",
@@ -3925,7 +3925,7 @@
    "other_outlets": "Swarajya; ET Government",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-06-23-c032d4",
@@ -3944,7 +3944,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-06-20-63d96f",
@@ -3963,7 +3963,7 @@
    "other_outlets": "APAC Media; Free Press Journal; The Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-06-19-ebcb8a",
@@ -3982,7 +3982,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-06-19-1e99ab",
@@ -4001,7 +4001,7 @@
    "other_outlets": "Analytics Insight; The News Mill",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-06-19-5e6422",
@@ -4020,7 +4020,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-06-18-c1ad50",
@@ -4039,7 +4039,7 @@
    "other_outlets": "Telangana Today",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-06-16-13fe41",
@@ -4058,7 +4058,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-06-15-3f0363",
@@ -4077,7 +4077,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-06-15-d1260c",
@@ -4096,7 +4096,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-06-15-c9c853",
@@ -4115,7 +4115,7 @@
    "other_outlets": "moneycontrol.com; Deccan Herald",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-06-15-10f5d1",
@@ -4134,7 +4134,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-06-12-4eb0af",
@@ -4153,7 +4153,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-06-12-a59874",
@@ -4172,7 +4172,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-06-12-5e2f74",
@@ -4191,7 +4191,7 @@
    "other_outlets": "The Hindu; Daily Pioneer",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-06-11-6136c0",
@@ -4229,7 +4229,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-06-11-4d6c00",
@@ -4248,7 +4248,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-06-10-a692ee",
@@ -4267,7 +4267,7 @@
    "other_outlets": "ET Enterprise AI",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-06-08-33b6da",
@@ -4286,7 +4286,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-06-08-3c5228",
@@ -4305,7 +4305,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-06-07-988368",
@@ -4324,7 +4324,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-06-07-68d301",
@@ -4343,7 +4343,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-06-06-23f37b",
@@ -4362,7 +4362,7 @@
    "other_outlets": "Ommcom News",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-06-06-705fc2",
@@ -4381,7 +4381,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-06-05-cccf7d",
@@ -4400,7 +4400,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-06-01-e9bdfb",
@@ -4419,7 +4419,7 @@
    "other_outlets": "My City Links",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-05-30-c9615c",
@@ -4438,7 +4438,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-05-29-1e22a7",
@@ -4457,7 +4457,7 @@
    "other_outlets": "thehindu",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-05-28-48e098",
@@ -4476,7 +4476,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-05-26-36fd09",
@@ -4495,7 +4495,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-05-26-64a34b",
@@ -4514,7 +4514,7 @@
    "other_outlets": "Free Press Journal; Swarajya",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-05-26-1b63b0",
@@ -4533,7 +4533,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-05-25-426c40",
@@ -4552,7 +4552,7 @@
    "other_outlets": "RuralVoice",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-05-25-170ebe",
@@ -4571,7 +4571,7 @@
    "other_outlets": "FoneArena.com; GIZBOT; CNBC TV18; CXO Today",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-05-23-7034b3",
@@ -4590,7 +4590,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-05-23-250f60",
@@ -4609,7 +4609,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-05-23-a7d548",
@@ -4628,7 +4628,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-05-23-18a098",
@@ -4647,7 +4647,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-05-23-a41416",
@@ -4666,7 +4666,7 @@
    "other_outlets": "The Statesman; ThePrint",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-05-22-8b7368",
@@ -4685,7 +4685,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-05-21-51e753",
@@ -4704,7 +4704,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-05-21-a4d0cd",
@@ -4723,7 +4723,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-05-21-fc84bc",
@@ -4742,7 +4742,7 @@
    "other_outlets": "Elets eGov",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-05-21-6cb26d",
@@ -4761,7 +4761,7 @@
    "other_outlets": "Telangana Today",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-05-21-302197",
@@ -4780,7 +4780,7 @@
    "other_outlets": "NDTV; Deccan Chronicle; Elets eGov",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-05-20-7b2096",
@@ -4799,7 +4799,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-05-19-75abc7",
@@ -4818,7 +4818,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-05-16-e3bd06",
@@ -4837,7 +4837,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-05-15-3b1ce0",
@@ -4856,7 +4856,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-05-14-54f719",
@@ -4875,7 +4875,7 @@
    "other_outlets": "Free Press Journal",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-05-14-bb5308",
@@ -4894,7 +4894,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-05-13-9a1eea",
@@ -4913,7 +4913,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-05-12-2c58b0",
@@ -4932,7 +4932,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-05-09-dc7da8",
@@ -4951,7 +4951,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-05-08-08844a",
@@ -4970,7 +4970,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-05-06-05ea74",
@@ -4989,7 +4989,7 @@
    "other_outlets": "Indian Masterminds; Elets eGov",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-04-30-1eb1e5",
@@ -5008,7 +5008,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-04-30-826241",
@@ -5027,7 +5027,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-29-0317a5",
@@ -5046,7 +5046,7 @@
    "other_outlets": "GK Today; Swarajya; News On AIR; Business Standard; The Economic Times; moneycontrol.com; Mid-Day; Deccan Herald; PSU Watch; The New Indian Express; Communications Today; epaper.thehindubusinessline",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-04-29-7621e3",
@@ -5065,7 +5065,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-28-bb58e6",
@@ -5084,7 +5084,7 @@
    "other_outlets": "ET Education",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-28-e4321e",
@@ -5103,7 +5103,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-04-27-8da3e3",
@@ -5122,7 +5122,7 @@
    "other_outlets": "Indiatimes; NDTV; The South First; The Times of India",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-26-b526be",
@@ -5141,7 +5141,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-04-26-815bb5",
@@ -5160,7 +5160,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-04-24-b1129f",
@@ -5179,7 +5179,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-18-3105d8",
@@ -5198,7 +5198,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-18-6523f0",
@@ -5217,7 +5217,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-04-18-35a215",
@@ -5236,7 +5236,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-04-18-a2fab0",
@@ -5255,7 +5255,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-04-17-5d53d0",
@@ -5274,7 +5274,7 @@
    "other_outlets": "The News Minute",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-16-6ea23f",
@@ -5293,7 +5293,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-04-15-fb32bb",
@@ -5312,7 +5312,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-04-15-308f91",
@@ -5331,7 +5331,7 @@
    "other_outlets": "Law Trend",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-04-14-9f7048",
@@ -5350,7 +5350,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-04-12-1e66ad",
@@ -5369,7 +5369,7 @@
    "other_outlets": "Mangalore Today",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-04-10-71ad95",
@@ -5388,7 +5388,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-04-10-6371b1",
@@ -5407,7 +5407,7 @@
    "other_outlets": "Bhaskar English; The Hindu; ThePrint; The New Indian Express; DD News; The Indian Express; The Times of India; Adda247",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-04-09-7e1ce6",
@@ -5426,7 +5426,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-04-07-e8dc74",
@@ -5445,7 +5445,7 @@
    "other_outlets": "ET HealthWorld",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-04-07-f87991",
@@ -5464,7 +5464,7 @@
    "other_outlets": "The Indian Express; Free Press Journal; News18; Hindustan Times; ANI News; Mid-Day; Elets eGov; ET Enterprise AI",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-04-04-d16dd3",
@@ -5483,7 +5483,7 @@
    "other_outlets": "The 420.in; The Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-04-02-a6155d",
@@ -5502,7 +5502,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-03-31-2b17df",
@@ -5521,7 +5521,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-03-27-c3d324",
@@ -5540,7 +5540,26 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
+  },
+  {
+   "record_id": "UP-2026-03-27-69d6e4",
+   "state": "Uttar Pradesh",
+   "date": "2026-03-27",
+   "date_precision": "day",
+   "title": "UP government cancels Rs 25,000 crore MoU with Puch AI over financial concerns",
+   "summary": "Days after signing a Rs 25,000 crore Memorandum of Understanding (MoU) with Puch AI, and following social media posts raising questions about the firm’",
+   "category": "Infrastructure and investment",
+   "stage": "reversed",
+   "sector": "Cross-sector",
+   "gov_level": "state",
+   "source_name": "The New Indian Express",
+   "source_url": "https://www.newindianexpress.com/states/uttar-pradesh/2026/Mar/27/up-government-cancels-rs-25000-crore-mou-with-puch-ai-over-financial-concerns",
+   "n_outlets": 11,
+   "other_outlets": "Free Press Journal; The 420.in; Business Standard; Hindustan Times; ET Enterprise AI; The Indian Express; Livemint; NDTV; TheWire.in; The Economic Times",
+   "confidence": "medium",
+   "summary_basis": "publisher_description",
+   "review_status": "auto"
   },
   {
    "record_id": "AP-2026-03-26-dfa3cf",
@@ -5559,7 +5578,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-03-23-dffa19",
@@ -5574,11 +5593,11 @@
    "gov_level": "state",
    "source_name": "Communications Today",
    "source_url": "https://www.communicationstoday.co.in/uttar-pradesh-signs-%E2%82%B925000-crore-ai-mou-with-puch-ai/",
-   "n_outlets": 19,
-   "other_outlets": "CNBC TV18; Ommcom News; digital terminal; NewsGram; The Indian Express; ThePrint; The Economic Times; India Today; Free Press Journal; The 420.in; The New Indian Express; Business Standard; Hindustan Times; ET Enterprise AI; Livemint; NDTV; TheWire.in; BW Disrupt",
+   "n_outlets": 10,
+   "other_outlets": "CNBC TV18; Ommcom News; digital terminal; NewsGram; The Indian Express; ThePrint; The Economic Times; India Today; BW Disrupt",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-03-23-80446d",
@@ -5597,7 +5616,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-03-19-97d385",
@@ -5616,7 +5635,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-03-18-248047",
@@ -5635,7 +5654,7 @@
    "other_outlets": "Organiser",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-03-17-c81a32",
@@ -5654,7 +5673,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-03-17-c48fd2",
@@ -5673,7 +5692,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-03-15-9aed6d",
@@ -5692,7 +5711,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-03-12-55ead6",
@@ -5711,7 +5730,7 @@
    "other_outlets": "NDTV; Hindustan Times; The Hindu; Firstpost; YourStory.com; The Indian Express",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-03-10-731c21",
@@ -5730,7 +5749,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-03-09-c4b80a",
@@ -5749,7 +5768,7 @@
    "other_outlets": "The Indian Practitioner",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-03-08-29b06b",
@@ -5768,7 +5787,7 @@
    "other_outlets": "The 420.in; The Hindu; The New Indian Express",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-03-08-ec7632",
@@ -5787,7 +5806,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-03-07-b38006",
@@ -5806,7 +5825,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-03-07-ea379c",
@@ -5825,7 +5844,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-03-07-7490a3",
@@ -5844,7 +5863,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-03-06-e38251",
@@ -5863,7 +5882,7 @@
    "other_outlets": "Indian Television Dot Com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-03-06-d1a169",
@@ -5882,7 +5901,7 @@
    "other_outlets": "The Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-03-06-941727",
@@ -5901,7 +5920,7 @@
    "other_outlets": "Careers360",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-03-06-652dd7",
@@ -5920,7 +5939,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-03-06-0dacb0",
@@ -5939,7 +5958,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-03-04-c20808",
@@ -5958,7 +5977,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-03-03-d68e7c",
@@ -5977,7 +5996,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-03-03-5c5ec8",
@@ -5996,7 +6015,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-03-02-619e2c",
@@ -6015,7 +6034,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-03-02-1570be",
@@ -6034,7 +6053,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-02-28-e301f2",
@@ -6053,7 +6072,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-27-9e0dd6",
@@ -6072,7 +6091,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-02-25-00526a",
@@ -6091,7 +6110,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-25-50fe0f",
@@ -6110,7 +6129,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-02-25-c55115",
@@ -6129,7 +6148,7 @@
    "other_outlets": "Deccan Chronicle",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-24-39c720",
@@ -6148,7 +6167,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-02-24-60c7e1",
@@ -6167,7 +6186,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-02-24-49f742",
@@ -6186,7 +6205,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-02-23-35ae1a",
@@ -6205,7 +6224,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-02-23-6ae709",
@@ -6224,7 +6243,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-23-1921df",
@@ -6243,7 +6262,7 @@
    "other_outlets": "Sarkaritel.com",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-02-21-01f61b",
@@ -6262,7 +6281,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-20-c4d65e",
@@ -6281,7 +6300,7 @@
    "other_outlets": "www.pib.gov.in; The Indian Express",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-02-20-f70bd6",
@@ -6300,7 +6319,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-02-20-5fa28e",
@@ -6319,7 +6338,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-02-20-095e25",
@@ -6338,7 +6357,7 @@
    "other_outlets": "Swarajya",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-02-20-08fa57",
@@ -6357,7 +6376,7 @@
    "other_outlets": "The Hindu; ET Education",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-02-19-c556c8",
@@ -6376,7 +6395,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-02-19-ae8cd1",
@@ -6395,7 +6414,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-02-19-a68081",
@@ -6414,7 +6433,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-02-18-ccdcf5",
@@ -6433,7 +6452,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-02-18-ffa801",
@@ -6452,7 +6471,7 @@
    "other_outlets": "Business Standard; Swarajya",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-02-17-044adc",
@@ -6471,7 +6490,7 @@
    "other_outlets": "DD News; The Free Press Journal; Entrepreneur India",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2026-02-17-be1a28",
@@ -6490,7 +6509,7 @@
    "other_outlets": "PSU Watch; Hindustan Times; Livemint; NDTV",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-16-eb64b3",
@@ -6509,7 +6528,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-02-16-5de759",
@@ -6528,7 +6547,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-02-16-cf9baa",
@@ -6547,7 +6566,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-02-15-f77c6f",
@@ -6566,7 +6585,7 @@
    "other_outlets": "Livemint",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-13-6c6743",
@@ -6585,7 +6604,7 @@
    "other_outlets": "ET Education",
    "confidence": "medium",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-02-12-6ca517",
@@ -6604,7 +6623,7 @@
    "other_outlets": "The Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-02-12-7a4bd0",
@@ -6623,7 +6642,7 @@
    "other_outlets": "Free Press Journal; Education Times",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-02-12-c41cba",
@@ -6642,7 +6661,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-02-11-42fc07",
@@ -6661,7 +6680,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-02-11-282517",
@@ -6680,7 +6699,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-02-10-04381b",
@@ -6699,7 +6718,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-02-09-bb40ff",
@@ -6718,7 +6737,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-02-09-0a8379",
@@ -6737,7 +6756,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-02-07-8f7509",
@@ -6756,7 +6775,7 @@
    "other_outlets": "Elets eGov",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2026-02-06-034131",
@@ -6775,7 +6794,7 @@
    "other_outlets": "The Economic Times; BW Healthcare World",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-02-04-6fcc6e",
@@ -6794,7 +6813,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-02-02-0b42df",
@@ -6813,7 +6832,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-01-31-4b1b97",
@@ -6832,7 +6851,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-01-30-39250b",
@@ -6851,7 +6870,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-01-29-b3affb",
@@ -6870,7 +6889,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-01-29-588438",
@@ -6889,7 +6908,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-01-29-aae9c0",
@@ -6908,7 +6927,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-01-28-105ec9",
@@ -6927,7 +6946,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-01-28-ab0435",
@@ -6946,7 +6965,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-01-26-fd2af6",
@@ -6965,7 +6984,7 @@
    "other_outlets": "OdishaBytes",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-01-24-1a3050",
@@ -6984,7 +7003,7 @@
    "other_outlets": "Chief Minister of Odisha; Deccan Chronicle",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-01-23-fe2387",
@@ -7003,7 +7022,7 @@
    "other_outlets": "BusinessLine",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-01-23-ce9597",
@@ -7022,7 +7041,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-01-22-645c9e",
@@ -7041,7 +7060,7 @@
    "other_outlets": "ThePrint; The Hindu; Deccan Herald",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-01-21-18d8aa",
@@ -7060,7 +7079,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2026-01-21-506b87",
@@ -7079,7 +7098,7 @@
    "other_outlets": "Curly Tales",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-01-21-534dc3",
@@ -7098,7 +7117,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-01-20-40ecff",
@@ -7117,7 +7136,7 @@
    "other_outlets": "PR Newswire Canada; BusinessLine; ET Enterprise AI; Elets eGov",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-01-19-302a17",
@@ -7136,7 +7155,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-01-18-3f5d3e",
@@ -7155,7 +7174,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2026-01-17-76239e",
@@ -7174,7 +7193,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-01-17-265462",
@@ -7193,7 +7212,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2026-01-16-ea99e5",
@@ -7212,7 +7231,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2026-01-15-06e085",
@@ -7231,7 +7250,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2026-01-13-8df1c3",
@@ -7250,7 +7269,7 @@
    "other_outlets": "The Economic Times; Techcircle; YourStory.com; The New Indian Express; Business Standard; CXO Digitalpulse; MediaNama",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2026-01-13-688c85",
@@ -7269,7 +7288,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-01-12-fa95e1",
@@ -7307,7 +7326,7 @@
    "other_outlets": "ET Government; Organiser",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2026-01-12-19b5ba",
@@ -7326,7 +7345,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2026-01-11-114fe5",
@@ -7345,7 +7364,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2026-01-08-946978",
@@ -7364,7 +7383,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-01-07-c8978f",
@@ -7383,7 +7402,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-01-06-7a57ee",
@@ -7402,7 +7421,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2026-01-06-6611ca",
@@ -7421,7 +7440,7 @@
    "other_outlets": "Elets eGov",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2026-01-05-bbdf26",
@@ -7440,7 +7459,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "RJ-2025-12-31-925707",
@@ -7459,7 +7478,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-12-30-8a370c",
@@ -7478,7 +7497,7 @@
    "other_outlets": "The Hindu; Deccan Herald; ET Realty; ETRealty; DeshGujarat; CXO Digitalpulse; GK Today",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-12-29-ce8a1f",
@@ -7497,7 +7516,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-12-28-3c6c08",
@@ -7516,7 +7535,7 @@
    "other_outlets": "NDTV; Chennai Patrika",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-12-27-78162e",
@@ -7535,7 +7554,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-12-25-38fb3d",
@@ -7554,7 +7573,7 @@
    "other_outlets": "The News Minute",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-12-23-53537f",
@@ -7573,7 +7592,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-12-20-81a510",
@@ -7592,7 +7611,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-12-20-7d48be",
@@ -7611,7 +7630,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-12-15-834327",
@@ -7630,7 +7649,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-12-12-e77351",
@@ -7649,7 +7668,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-12-12-666b1a",
@@ -7668,7 +7687,7 @@
    "other_outlets": "The Times of India",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-12-12-b00f14",
@@ -7687,7 +7706,7 @@
    "other_outlets": "CMO Gujarat",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-12-11-8f8307",
@@ -7706,7 +7725,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-12-09-07cea1",
@@ -7725,7 +7744,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-12-06-7bc09c",
@@ -7744,7 +7763,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-12-06-e9efeb",
@@ -7763,7 +7782,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-12-06-7734fa",
@@ -7782,7 +7801,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-12-05-01bc88",
@@ -7801,7 +7820,7 @@
    "other_outlets": "ThePrint; The Times of India",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-12-04-7a6140",
@@ -7820,7 +7839,7 @@
    "other_outlets": "Business Today; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-12-02-78d115",
@@ -7839,7 +7858,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-11-30-4337e8",
@@ -7858,7 +7877,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-11-27-9ab3d2",
@@ -7877,7 +7896,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-11-23-d40d94",
@@ -7896,7 +7915,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-11-21-96037e",
@@ -7915,7 +7934,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-11-20-b196d5",
@@ -7934,7 +7953,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-11-17-25fb86",
@@ -7953,7 +7972,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-11-17-99ac82",
@@ -7972,7 +7991,7 @@
    "other_outlets": "moneycontrol.com; Business Standard; Moneycontrol.com; theweek.in; BusinessLine; News18; The Federal; India Today; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-11-16-cbe95b",
@@ -7991,7 +8010,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-11-14-f4d168",
@@ -8010,7 +8029,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-11-11-669c6d",
@@ -8029,7 +8048,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-11-11-77159b",
@@ -8048,7 +8067,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-11-10-99f0f3",
@@ -8067,7 +8086,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-11-08-4503bf",
@@ -8086,7 +8105,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-11-08-a1ad31",
@@ -8124,7 +8143,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-11-05-34e8d1",
@@ -8143,7 +8162,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-11-05-824ba9",
@@ -8162,7 +8181,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-11-04-3476e2",
@@ -8181,7 +8200,7 @@
    "other_outlets": "BusinessLine",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-11-04-8f3c89",
@@ -8200,7 +8219,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-11-03-6b8a8a",
@@ -8219,7 +8238,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-11-02-78e834",
@@ -8238,7 +8257,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-10-30-b58465",
@@ -8257,7 +8276,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-10-17-6af464",
@@ -8276,7 +8295,7 @@
    "other_outlets": "The Hindu",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-10-17-9f6749",
@@ -8295,7 +8314,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-10-16-17b773",
@@ -8314,7 +8333,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-10-14-229a9c",
@@ -8333,7 +8352,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-10-12-44f378",
@@ -8352,7 +8371,7 @@
    "other_outlets": "The Hindu; Free Press Journal; News On AIR; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-10-11-966d52",
@@ -8371,7 +8390,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-10-10-e36588",
@@ -8390,7 +8409,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-10-08-b526a8",
@@ -8409,7 +8428,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2025-10-03-047099",
@@ -8428,7 +8447,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-10-03-60840b",
@@ -8447,7 +8466,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-10-01-b3b6cc",
@@ -8466,7 +8485,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2025-09-30-ff2682",
@@ -8485,7 +8504,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-09-27-317a46",
@@ -8504,7 +8523,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-09-26-0ae14c",
@@ -8523,7 +8542,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-09-25-785b97",
@@ -8542,7 +8561,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-09-23-4061e1",
@@ -8561,7 +8580,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-09-16-fd48b5",
@@ -8580,7 +8599,7 @@
    "other_outlets": "The Indian Practitioner",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-09-14-e872b3",
@@ -8599,7 +8618,7 @@
    "other_outlets": "The News Minute; Free Press Journal; Madhyamam; India Today; Business Today",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-09-11-f6ec7d",
@@ -8618,7 +8637,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-09-09-de8a6c",
@@ -8637,7 +8656,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-09-08-d7a358",
@@ -8656,7 +8675,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-09-05-2cb6ec",
@@ -8675,7 +8694,7 @@
    "other_outlets": "Rediff MoneyWiz; Tata Consultancy Services; Business Standard; EquityBulls",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-09-04-9d658f",
@@ -8694,7 +8713,7 @@
    "other_outlets": "Moneycontrol.com; CXO Digitalpulse",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-09-01-363d86",
@@ -8713,7 +8732,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-08-29-168568",
@@ -8732,7 +8751,7 @@
    "other_outlets": "scanx.trade",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-08-26-2ea1f9",
@@ -8751,7 +8770,7 @@
    "other_outlets": "LawChakra",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-08-26-a1a525",
@@ -8770,7 +8789,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-08-25-971599",
@@ -8789,7 +8808,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-08-25-e3ac60",
@@ -8808,7 +8827,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-08-24-dff9b2",
@@ -8827,7 +8846,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-08-22-649b2e",
@@ -8846,7 +8865,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-08-22-3df9d7",
@@ -8865,7 +8884,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-08-21-f0c01e",
@@ -8884,7 +8903,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-08-18-d2ee9b",
@@ -8903,7 +8922,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-08-17-5c09fc",
@@ -8922,7 +8941,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-08-17-a180e6",
@@ -8941,7 +8960,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-08-14-b3be95",
@@ -8960,7 +8979,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-08-10-50bd88",
@@ -8979,7 +8998,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-08-07-4e1b75",
@@ -8998,7 +9017,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2025-08-06-fa7507",
@@ -9017,7 +9036,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-08-05-76eb8e",
@@ -9036,7 +9055,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-07-29-196e99",
@@ -9055,7 +9074,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2025-07-29-a71f88",
@@ -9074,7 +9093,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-07-28-8f5934",
@@ -9093,7 +9112,7 @@
    "other_outlets": "The New Indian Express; KNN India",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-07-19-edccdb",
@@ -9112,7 +9131,7 @@
    "other_outlets": "Live Law; telegraphindia.com; NDTV; India TV; The Times of India; ET BrandEquity",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-07-13-53646c",
@@ -9131,7 +9150,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-07-07-5a3e29",
@@ -9150,7 +9169,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "BR-2025-07-04-d0e189",
@@ -9169,7 +9188,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-07-01-bbb36d",
@@ -9188,7 +9207,7 @@
    "other_outlets": "MediaNama; The Hindu",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-06-25-c3e89d",
@@ -9207,7 +9226,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-06-24-58d032",
@@ -9226,7 +9245,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-06-21-4dc5b2",
@@ -9245,7 +9264,7 @@
    "other_outlets": "The South First",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-06-19-5796fc",
@@ -9264,7 +9283,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-06-18-965df8",
@@ -9283,7 +9302,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-06-17-d10a5d",
@@ -9302,7 +9321,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-06-16-2a976b",
@@ -9321,7 +9340,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-06-13-ae9c7f",
@@ -9340,7 +9359,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-06-12-46ba11",
@@ -9359,7 +9378,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-06-09-f7c67f",
@@ -9378,7 +9397,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-06-06-7946ce",
@@ -9397,7 +9416,7 @@
    "other_outlets": "The Times of India; WION",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-06-05-9f974e",
@@ -9416,7 +9435,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-05-31-d71057",
@@ -9435,7 +9454,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-05-29-1f48d9",
@@ -9454,7 +9473,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-05-26-957ca6",
@@ -9473,7 +9492,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-05-24-7f0104",
@@ -9492,7 +9511,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-05-21-be1df1",
@@ -9511,7 +9530,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-05-14-ad94a3",
@@ -9530,7 +9549,7 @@
    "other_outlets": "India Today NE; ET Government",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-05-12-fcc7f2",
@@ -9549,7 +9568,7 @@
    "other_outlets": "CXO Digitalpulse",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-05-06-06e4f0",
@@ -9568,7 +9587,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MP-2025-04-29-decf13",
@@ -9587,7 +9606,7 @@
    "other_outlets": "Adda247",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-04-20-37af86",
@@ -9606,7 +9625,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-04-19-4ca1d5",
@@ -9625,7 +9644,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-04-19-e9ffa2",
@@ -9644,7 +9663,7 @@
    "other_outlets": "News On AIR",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-04-15-e3323b",
@@ -9663,7 +9682,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-04-12-7050f9",
@@ -9682,7 +9701,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-04-11-73a4f8",
@@ -9701,7 +9720,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-04-08-958679",
@@ -9720,7 +9739,7 @@
    "other_outlets": "The Times of India",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-04-07-b5636e",
@@ -9739,7 +9758,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "OD-2025-04-07-751e59",
@@ -9758,7 +9777,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-04-04-f448dc",
@@ -9777,7 +9796,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-04-02-924693",
@@ -9796,7 +9815,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-03-31-730fb4",
@@ -9815,7 +9834,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-03-26-9b5156",
@@ -9834,7 +9853,7 @@
    "other_outlets": "Deccan Herald; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-03-24-073339",
@@ -9853,7 +9872,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-03-20-1a6392",
@@ -9872,7 +9891,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-03-19-28ba02",
@@ -9891,7 +9910,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-03-16-f5e693",
@@ -9910,7 +9929,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-03-13-0a0be1",
@@ -9929,7 +9948,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-03-10-f6b198",
@@ -9948,7 +9967,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AS-2025-03-10-f43307",
@@ -9967,7 +9986,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-03-07-3b04e5",
@@ -9986,7 +10005,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-03-07-7216d1",
@@ -10005,7 +10024,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-03-07-217f49",
@@ -10024,7 +10043,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-02-20-a22642",
@@ -10043,7 +10062,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-02-20-4a57b9",
@@ -10062,7 +10081,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-02-18-d0ab98",
@@ -10081,7 +10100,7 @@
    "other_outlets": "ET HealthWorld; The New Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-02-13-087d57",
@@ -10100,7 +10119,7 @@
    "other_outlets": "ET Telecom; The Indian Express; The News Minute",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-02-13-309f1f",
@@ -10119,7 +10138,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-02-11-7b9161",
@@ -10138,7 +10157,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-02-08-15fdbe",
@@ -10157,7 +10176,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-02-05-9befff",
@@ -10176,7 +10195,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-01-31-e3c456",
@@ -10195,7 +10214,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-01-31-51cee3",
@@ -10214,7 +10233,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-01-30-303913",
@@ -10233,7 +10252,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-01-29-f65c82",
@@ -10252,7 +10271,7 @@
    "other_outlets": "The Siasat Daily",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "GJ-2025-01-27-452aff",
@@ -10271,7 +10290,7 @@
    "other_outlets": "CMO Gujarat; Times Of AI",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-01-24-8b37bd",
@@ -10290,7 +10309,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-01-24-4298ac",
@@ -10309,7 +10328,7 @@
    "other_outlets": "The Free Press Journal",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KA-2025-01-23-ffea88",
@@ -10328,7 +10347,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-01-23-acb3ac",
@@ -10347,7 +10366,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-01-22-a56b95",
@@ -10366,7 +10385,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TS-2025-01-19-4aa5f1",
@@ -10385,7 +10404,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-01-17-e14959",
@@ -10404,7 +10423,7 @@
    "other_outlets": "The Indian Express",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "AP-2025-01-12-2854e9",
@@ -10423,7 +10442,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "TN-2025-01-09-14e4b2",
@@ -10442,7 +10461,7 @@
    "other_outlets": "The Times of India",
    "confidence": "medium",
    "summary_basis": "article_text",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2025-01-08-8eb4a4",
@@ -10461,7 +10480,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "KL-2025-01-07-8caf94",
@@ -10480,7 +10499,7 @@
    "other_outlets": "Firstpost; Newswire",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-01-04-d02ef1",
@@ -10499,7 +10518,7 @@
    "other_outlets": "",
    "confidence": "high",
    "summary_basis": "headline",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-01-03-852131",
@@ -10518,7 +10537,7 @@
    "other_outlets": "",
    "confidence": "medium",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "MH-2025-01-01-5fc048",
@@ -10537,7 +10556,7 @@
    "other_outlets": "The Indian Express; BW Businessworld",
    "confidence": "high",
    "summary_basis": "publisher_description",
-   "review_status": "reviewed"
+   "review_status": "legacy_headline_screen"
   },
   {
    "record_id": "UP-2024-12-30-4cec6a",
@@ -12706,6 +12725,25 @@
    "review_status": "auto"
   },
   {
+   "record_id": "KL-2023-06-21-69af46",
+   "state": "Kerala",
+   "date": "2023-06-21",
+   "date_precision": "day",
+   "title": "[Safe Kerala Project] Kerala High Court directs govt. to halt payment for AI Camera deal until further orders",
+   "summary": "Kerala High Court directed Govt to halt payments in further deals of Fully Automated Traffic Enforcement System.",
+   "category": "Government deployment",
+   "stage": "reversed",
+   "sector": "Policing and public safety",
+   "gov_level": "judiciary",
+   "source_name": "SCC Online",
+   "source_url": "https://www.scconline.com/blog/post/2023/06/21/kerala-hc-directs-govt-halt-payment-safe-kerala-project-deals/",
+   "n_outlets": 1,
+   "other_outlets": "",
+   "confidence": "high",
+   "summary_basis": "publisher_description",
+   "review_status": "auto"
+  },
+  {
    "record_id": "KL-2023-06-21-77306e",
    "state": "Kerala",
    "date": "2023-06-21",
@@ -12718,9 +12756,9 @@
    "gov_level": "judiciary",
    "source_name": "The Indian Express",
    "source_url": "https://indianexpress.com/article/india/kerala-hc-pauses-ai-traffic-camera-payments-for-now-8676061/",
-   "n_outlets": 2,
-   "other_outlets": "SCC Online",
-   "confidence": "high",
+   "n_outlets": 1,
+   "other_outlets": "",
+   "confidence": "medium",
    "summary_basis": "publisher_description",
    "review_status": "auto"
   },

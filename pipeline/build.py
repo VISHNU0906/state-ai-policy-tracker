@@ -131,6 +131,8 @@ def main(argv=None):
     funnel["events_after_dedupe"] = len(clusters)
 
     overrides, seen_drop = load_overrides(), set()
+    scope_path = config.REVIEW / "legacy_screening_ids.json"
+    screening_ids = set(json.loads(scope_path.read_text(encoding="utf-8"))) if scope_path.exists() else set()
     if do_enrich:
         # Fetch the first-choice page of every event up front, a few at a time. Results land in
         # the on-disk cache, so the loop below reads them back instantly and in a fixed order.
@@ -183,10 +185,8 @@ def main(argv=None):
             "other_outlets": "; ".join(o for o in outlets if o != rep["source_name"]),
             "confidence": "high" if any(r["confidence"] == "high" for r in group) else "medium",
             "summary_basis": basis,
-            # Every record's headline was read once in the review pass that produced overrides.csv.
-            # Central-government records were added after the review and have not been read.
-            "review_status": "reviewed" if overrides and seed["date"] >= config.REVIEWED_FROM.isoformat()
-                             and not rep.get("central") else "auto",
+            # Historical assistant screening scope, not evidence of human article verification.
+            "review_status": "legacy_headline_screen" if rid in screening_ids else "auto",
             "_body": page.get("body_lead", ""),
             "_members": [{"source_name": r["source_name"], "title": r["title"], "date": r["date"],
                           "link": r.get("url") or r.get("google_link", ""), "origin": r["origin"],
@@ -198,7 +198,7 @@ def main(argv=None):
             if ov.get(field):
                 rec[field] = ov[field]
         if ov:
-            rec["review_status"] = "reviewed"
+            rec["review_status"] = "override_applied"
             if ov.get("summary"):
                 rec["summary_basis"] = "written_in_review"
         records.append(rec)

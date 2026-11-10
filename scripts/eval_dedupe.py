@@ -1,4 +1,4 @@
-"""Measure the deduplication rule against hand-labelled headline pairs.
+"""Measure the deduplication rule against assistant-labelled headline pairs.
 
 Two modes:
 
@@ -14,8 +14,7 @@ signed) and a different item from the same budget speech both count as 0.
 
 Scoring clusters the whole corpus at each threshold and asks of every
 labelled pair: did the two headlines land in the same cluster? Even-numbered
-pairs are used to choose the threshold, odd-numbered pairs to report it, so
-the reported figure is not fitted to the pairs it is measured on.
+pairs are used to choose the threshold, odd-numbered pairs to report it, but shared headlines and method changes across both halves make this a development diagnostic, not an independent test.
 """
 import csv
 import json
@@ -86,6 +85,9 @@ def score():
         b = index.get((r["state"], r["date_b"], r["title_b"]))
         if a is not None and b is not None:
             pairs.append((a, b, r["same_event"] == "1"))
+    tune_titles = {items[i]["title"] for a,b,_ in pairs[::2] for i in (a,b)}
+    report_titles = {items[i]["title"] for a,b,_ in pairs[1::2] for i in (a,b)}
+    print(f"Development diagnostic only: {len(tune_titles & report_titles)} headlines shared across halves; assistant labels, not independently adjudicated.")
     print(f"{len(pairs)} of {len(rows)} labelled pairs found in the corpus, {sum(y for *_, y in pairs)} same-event")
     print("threshold | tune half  P    R    F1 | test half  P    R    F1 | records")
     for t in [0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50]:

@@ -63,7 +63,7 @@ def _ask(client, rec: dict) -> dict:
 
 
 def refine(records: list[dict]) -> list[dict]:
-    if not os.environ.get("ANTHROPIC_API_KEY"):
+    if os.environ.get("PIPELINE_OFFLINE") == "1" or not os.environ.get("ANTHROPIC_API_KEY"):
         return records
     try:
         import anthropic

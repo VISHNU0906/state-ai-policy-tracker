@@ -156,7 +156,7 @@ h3 { margin: 0 0 8px; font-size: 16px; }
 @media (max-width: 600px) { .rec { grid-template-columns: 1fr; } .rec .when .st { display: inline; margin-right: 8px; } }
 
 /* Method */
-.method-cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; margin-top: 18px; font-size: 15px; color: var(--ink-2); }
+.method-cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; margin-top: 18px; font-size: 15px; color: var(--ink-2); }
 .method-cols h3 { color: var(--ink); }
 .method-cols p { margin: 0 0 10px; }
 .method-cols ul { margin: 0 0 10px; padding-left: 18px; }

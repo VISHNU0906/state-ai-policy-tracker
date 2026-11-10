@@ -90,7 +90,7 @@
     lead.values.forEach((v, i) => svg.append(svgEl("text", { x: X(i), y: Y(v) - 16, "text-anchor": "middle", class: "pt-label" }, v + (pct ? "%" : ""))));
     const legend = el("div", { class: "legend" });
     series.forEach((s) => legend.append(el("span", {}, el("i", { style: `background:${s.color}` }), document.createTextNode(s.name))));
-    return el("figure", {}, el("h2", { text: title }), el("p", { class: "sub", text: sub }), legend, svg, el("figcaption", { text: caption }));
+    return el("figure", {}, el("h2", { text: title }), el("p", { class: "sub", text: sub }), legend, svg);
   }
 
   // ---- header -------------------------------------------------------------
@@ -98,10 +98,6 @@
   document.getElementById("lede").textContent =
     `${records.length} recorded steps by ${meta.states.length} state governments. ${byYear[0]} in ${years[0]}, ${byYear[years.length - 2]} in ${years[years.length - 2]}, ` +
     `and ${byYear[years.length - 1]} so far in ${y1}.`;
-  document.getElementById("caveat").textContent =
-    "Read these as reported activity, not a census. Counts come from English news headlines. Older years are thinner partly because less was happening and partly because news search indexes keep less of the past. " +
-    (reviewedFrom ? `Records from ${reviewedFrom} onward were hand-checked; earlier years are the pipeline's rule output, which in the checked period was right about four times in five. ` : "") + partialNote;
-
   const charts = document.getElementById("charts");
   const markYear = reviewedFrom ? years.indexOf(reviewedFrom) : undefined;
   const markHalf = reviewedFrom ? halves.indexOf(reviewedFrom + " H1") : undefined;
@@ -110,8 +106,7 @@
   const total = halves.map((h) => records.filter((r) => halfOf(r) === h).length);
   charts.append(lineChart({
     title: "State AI policy activity by half-year", sub: "Recorded steps across all tracked states", x: halves, yLabel: "Records",
-    series: [{ name: "All tracked states", color: C[0], values: total }], markFrom: markHalf,
-    caption: "Each point is the number of distinct events first reported in that half-year. " + partialNote,
+    series: [{ name: "All tracked states", color: C[0], values: total }],
   }));
 
   // 2. Leading states by year
@@ -121,8 +116,7 @@
   const rest = years.map((_, i) => Math.round(sum(ranked.slice(5).map((s) => (perState[s] || years.map(() => 0))[i])) / Math.max(1, ranked.length - 5)));
   charts.append(lineChart({
     title: "Leading states by year", sub: "Five most active states against the average of the rest", x: years, yLabel: "Records per year",
-    series: [...lead.map((s, i) => ({ name: s, color: C[i], values: perState[s] || years.map(() => 0) })), { name: "Average of other states", color: MUTED, values: rest }],
-    markFrom: markYear, caption: "Numbers are printed for the most active state. " + partialNote,
+    series: [...lead.map((s, i) => ({ name: s, color: C[i], values: perState[s] || years.map(() => 0) })), { name: "Average of other states", color: MUTED, values: rest }]
   }));
 
   // 3. Kind of step by year
@@ -131,8 +125,7 @@
   const perCat = countBy(records, (r) => r.category, yearOf, years);
   charts.append(lineChart({
     title: "Category of policy, by year", sub: "Records in each category", x: years, yLabel: "Records per year",
-    series: CATS.map((c, i) => ({ name: c, color: C[i], values: perCat[c] || years.map(() => 0) })), markFrom: markYear,
-    caption: "Government deployment is also the default category, so it holds some records that belong elsewhere. " + partialNote,
+    series: CATS.map((c, i) => ({ name: c, color: C[i], values: perCat[c] || years.map(() => 0) })),
   }));
 
   // 4. Stage share by year
@@ -141,8 +134,7 @@
   const stageTotals = years.map((_, i) => sum(STAGES.map((s) => (perStage[s] || [])[i] || 0)));
   charts.append(lineChart({
     title: "From announcement to launch", sub: "Share of each year's records at each stage", x: years, yLabel: "Share of records", pct: true,
-    series: STAGES.map((s, i) => ({ name: s[0].toUpperCase() + s.slice(1), color: C[i], values: years.map((_, k) => stageTotals[k] ? Math.round(100 * ((perStage[s] || [])[k] || 0) / stageTotals[k]) : 0) })),
-    markFrom: markYear, caption: "Stage is read from the headline verb. An announcement is a stated plan; a launch is something switched on. Years with few records swing widely.",
+    series: STAGES.map((s, i) => ({ name: s[0].toUpperCase() + s.slice(1), color: C[i], values: years.map((_, k) => stageTotals[k] ? Math.round(100 * ((perStage[s] || [])[k] || 0) / stageTotals[k]) : 0) }))
   }));
 
   // 5. Sector by year
@@ -150,7 +142,7 @@
   const topSectors = Object.keys(perSector).filter((s) => s !== "Cross-sector").sort((a, b) => sum(perSector[b]) - sum(perSector[a])).slice(0, 6);
   charts.append(lineChart({
     title: "Which part of government, by year", sub: "Six sectors with the most records", x: years, yLabel: "Records per year",
-    series: topSectors.map((s, i) => ({ name: s, color: C[i], values: perSector[s] })), markFrom: markYear, caption: partialNote,
+    series: topSectors.map((s, i) => ({ name: s, color: C[i], values: perSector[s] }))
   }));
 
   // 6. Small multiples: every state on the same scale
@@ -168,8 +160,7 @@
     svg.append(svgEl("text", { x: W - 6, y: H - 3, "font-size": 11, "text-anchor": "end" }, years[years.length - 1]));
     grid.append(el("div", {}, el("h3", {}, document.createTextNode(st), el("span", { text: sum(v) + " records" })), svg));
   });
-  charts.append(el("figure", {}, el("h2", { text: "Every state on one scale" }), el("p", { class: "sub", text: "Records per half-year, same vertical scale for all" }), grid,
-    el("figcaption", { text: "States are ordered by total records. A shared scale shows how far apart the most and least reported states are." })));
+  charts.append(el("figure", {}, el("h2", { text: "Every state on one scale" }), el("p", { class: "sub", text: "Records per half-year, same vertical scale for all" }), grid));
 
   // 7. Table of state metrics
   const first = (rows, test) => { const r = rows.filter(test).sort((a, b) => a.date.localeCompare(b.date))[0]; return r ? r.date.slice(0, 7) : "none found"; };
@@ -183,6 +174,5 @@
       el("td", { text: first(rows, (r) => r.category === "Policy and strategy") }), el("td", { text: first(rows, (r) => r.category === "Government deployment") })));
   });
   charts.append(el("figure", {}, el("h2", { text: "State by state" }), el("p", { class: "sub", text: "Records per year and four simple measures" }),
-    el("div", { class: "scroll" }, table),
-    el("figcaption", { text: "First policy step and first deployment are the earliest records of that category inside the window, not the true first in the state's history. " + partialNote })));
+    el("div", { class: "scroll" }, table)));
 })();

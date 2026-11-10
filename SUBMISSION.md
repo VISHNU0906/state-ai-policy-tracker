@@ -56,7 +56,7 @@ The count goes from 23 in 2022 to 389 in 2026, with 2026 only up to 10 November.
 
 Most of what states do with AI is put it to use. 317 of the 716 policies are deployments in policing, schools, farming and public services. That bar is larger than it should be, because my rules also place a policy there when no other category fits. Only 43 are policy or strategy documents and 22 are rules. Close to half (334) were only announced, and 4 were reversed.
 
-One limit applies to all three charts. I searched English news only. A state with a small count may simply be covered more in Hindi, Telugu or Odia papers that I did not search.
+These charts, and the ones on the website, are the analysis layer of the tracker: by state, by year, by category and by stage. One limit applies to all of them. I searched English news only. A state with a small count may simply be covered more in Hindi, Telugu or Odia papers that I did not search.
 
 ## How a news report becomes a policy
 
@@ -116,9 +116,9 @@ The date on each policy is the date of the earliest news report about it, in Ind
 
 All 716 policies have an exact day, because the feeds gave timestamps. The rules for vague dates are in the code and tested, but this release did not need them.
 
-## Removing duplicates
+## The main algorithm: removing duplicates
 
-This was the hardest part, and I got it wrong twice before it worked.
+This is the core of the tracker. It decides whether forty headlines are forty policies or one. It was also the hardest part, and I got it wrong twice before it worked.
 
 My first version compared every headline with the first headline in its group. Big stories split into many policies, because no single headline looks like all the others. I changed it to link any two headlines that match and then join the chains. That fixed the splitting and created the opposite problem. A signing and its cancellation four days later became one policy.
 
@@ -157,13 +157,32 @@ Some things can still go wrong. A running story can chain into one policy if eac
 
 As the saying goes, prevention is ideal but detection is a must. I could not prevent every wrong merge, so I made sure each one can be detected. Every report behind a policy is listed in record_sources.csv, and a wrong merge shows up as soon as someone reads that list.
 
+### Scoring the sources behind a policy
+
+Once the reports of one policy are grouped, each report is scored again, so the policy is shown through its best source.
+
+1. **Average score.** Each headline gets the average of its match score against every other headline in the group. The highest average is the most typical wording, and it becomes the headline of the policy. For the Karnataka AI University that meant picking one headline out of 39.
+2. **Outlet.** Press-release wires are skipped. On a tie, an established news outlet wins, and then the earliest report.
+3. **Confidence.** A report is high confidence when its headline names AI, the state, a policy instrument and an action. Otherwise it is medium. A policy takes the highest confidence among its reports.
+4. **Number of outlets.** Every policy records how many outlets reported it. 211 of the 716 were reported by more than one.
+
+![Figure 11. How much backing each policy has [2]](docs/figures/report/backing.png)
+
+*Figure 11. How much backing each policy has [2]*
+
+### Where an LLM fits
+
+The score works on shared words, so it can miss two reports that describe the same policy in completely different words. That is the job for an LLM: read two differently framed reports and tell me whether they are the same policy. In this release an AI assistant did that outside the pipeline. It went through the headlines, marked the ones that did not belong and labelled 140 pairs as same policy or different policy. Those labels set the bar.
+
+A model check that runs inside the pipeline is also written, in pipeline/llm.py. It confirms that a row is a real policy, picks its category and writes the summary. I have not run it yet, so none of the 716 policies depend on it.
+
 ## How I checked it
 
-![Figure 11. Precision and recall as the bar moves [6]](docs/figures/report/precision_recall.png)
+![Figure 12. Precision and recall as the bar moves [6]](docs/figures/report/precision_recall.png)
 
-*Figure 11. Precision and recall as the bar moves [6]*
+*Figure 12. Precision and recall as the bar moves [6]*
 
-I set the bar at 0.25 using 140 headline pairs labelled as same policy or different policy. Figure 11 shows why. It is the highest bar that still finds every labelled duplicate. Raise it and real duplicates start to slip through as separate policies. Lower it and different policies start to merge.
+I set the bar at 0.25 using 140 headline pairs labelled as same policy or different policy. Figure 12 shows why. It is the highest bar that still finds every labelled duplicate. Raise it and real duplicates start to slip through as separate policies. Lower it and different policies start to merge.
 
 | Check | Result | What it tells me |
 | --- | --- | --- |
@@ -172,7 +191,7 @@ I set the bar at 0.25 using 140 headline pairs labelled as same policy or differ
 | 140 labelled headline pairs | 136 found in the data. Precision 0.96, recall 1.00 | Useful for tuning. It is not an independent score, for the reason below. |
 | Screening of headlines | 545 policies screened, 171 not | The 171 are mostly from 2022 to 2024. Kerala in 2023 shows what unscreened rows look like. |
 
-I should be clear about how the screening was done. I used an AI assistant to go through the headlines, mark the ones that did not belong and label the duplicate pairs. I did not open and read every article myself. The same labelled pairs were also used to set the threshold, so 0.96 is a development number and I would not quote it as accuracy.
+I did not open and read every article myself. The screening and the pair labels came from the AI assistant, and the same labelled pairs set the bar. So 0.96 is a development number and I would not quote it as accuracy.
 
 Every policy links straight to the publisher. In the list of supporting reports, 1,206 of the 1,306 links still go through a Google News redirect, which I have not resolved yet.
 
@@ -180,9 +199,9 @@ Every policy links straight to the publisher. In the list of supporting reports,
 
 I kept the page simple. The big numbers and the growth chart come first. Below them, filters for state, category of policy, sector and level of government narrow the list, and a grid of states and months shows when things happened. Every policy opens the news reports behind it. A separate page has the trend charts for 2022 to 2026.
 
-![Figure 12. Filters and the state by month grid [1]](docs/figures/report/site_grid.png)
+![Figure 13. Filters and the state by month grid [1]](docs/figures/report/site_grid.png)
 
-*Figure 12. Filters and the state by month grid [1]*
+*Figure 13. Filters and the state by month grid [1]*
 
 ### Run it yourself
 
@@ -214,9 +233,9 @@ The first two lines install and test. The next four rebuild the dataset from the
 
 The whole goal is to move from what was announced to what was implemented. Honestly, the main thing I would do differently is start from official documents sooner. News tells me something was announced. A government order, a tender or a budget line tells me it happened. The further along a policy is, the less the news says about it.
 
-![Figure 13. What the news says, and what proof is needed](docs/figures/report/evidence.png)
+![Figure 14. What the news says, and what proof is needed](docs/figures/report/evidence.png)
 
-*Figure 13. What the news says, and what proof is needed*
+*Figure 14. What the news says, and what proof is needed*
 
 I have a small start on this. A separate list of 85 policies from official documents sits in the research folder. One example is Rajasthan's tender for GPU servers, dated 24 March 2026. It proves the state asked for bids. It does not prove the servers were installed. I kept that list apart from the 716 because it follows different rules and the two overlap. [8]
 

@@ -181,6 +181,7 @@ h3 { margin: 0 0 8px; font-size: 16px; }
 .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; margin: 28px 0 8px; }
 .stat { background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.14); border-radius: 14px; padding: 16px 18px; }
 .stat b { display: block; font: 800 clamp(30px, 4.6vw, 52px)/1 Archivo, system-ui, sans-serif; font-stretch: 112%; letter-spacing: -0.02em; color: #fff; }
+.stat:last-child b { white-space: nowrap; font-size: clamp(22px, 3vw, 38px); font-stretch: 100%; letter-spacing: -0.04em; }
 .stat:nth-child(1) b { color: #7fe0c0; } .stat:nth-child(2) b { color: #ffb38a; } .stat:nth-child(3) b { color: #9fc3ff; } .stat:nth-child(4) b { color: #ffd76a; }
 .stat span { display: block; margin-top: 8px; font-size: 14.5px; color: var(--mast-2); }
 .hero { margin-top: 18px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12); border-radius: 16px; padding: 18px 16px 8px; }

@@ -90,14 +90,17 @@
     lead.values.forEach((v, i) => svg.append(svgEl("text", { x: X(i), y: Y(v) - 16, "text-anchor": "middle", class: "pt-label" }, v + (pct ? "%" : ""))));
     const legend = el("div", { class: "legend" });
     series.forEach((s) => legend.append(el("span", {}, el("i", { style: `background:${s.color}` }), document.createTextNode(s.name))));
-    return el("figure", {}, el("h2", { text: title }), el("p", { class: "sub", text: sub }), legend, svg);
+    const plot = el("div", { class: "chart-scroll", tabindex: "0", role: "region", "aria-label": `${title}; scroll horizontally on a narrow screen` }, svg);
+    return el("figure", {}, el("h2", { text: title }), el("p", { class: "sub", text: sub }), legend, plot,
+      caption ? el("figcaption", { text: caption }) : null);
   }
 
   // ---- header -------------------------------------------------------------
   const byYear = years.map((y) => records.filter((r) => yearOf(r) === y).length);
-  document.getElementById("lede").textContent =
-    `${records.length} recorded steps by ${meta.states.length} state governments. ${byYear[0]} in ${years[0]}, ${byYear[years.length - 2]} in ${years[years.length - 2]}, ` +
-    `and ${byYear[years.length - 1]} so far in ${y1}.`;
+  document.getElementById("lede").replaceChildren(
+    el("strong", { text: `${records.length} recorded steps across ${meta.states.length} states.` }),
+    el("span", { text: `${byYear[0]} in ${years[0]}, ${byYear[years.length - 2]} in ${years[years.length - 2]}, and ${byYear[years.length - 1]} in ${y1} through ${endLabel}.` })
+  );
   const charts = document.getElementById("charts");
   const markYear = reviewedFrom ? years.indexOf(reviewedFrom) : undefined;
   const markHalf = reviewedFrom ? halves.indexOf(reviewedFrom + " H1") : undefined;
@@ -107,6 +110,7 @@
   charts.append(lineChart({
     title: "State AI policy activity by half-year", sub: "Recorded steps across all tracked states", x: halves, yLabel: "Records",
     series: [{ name: "All tracked states", color: C[0], values: total }],
+    caption: `${partialNote} Counts reflect retained news reports, not policy quality or implementation.`,
   }));
 
   // 2. Leading states by year
@@ -115,7 +119,7 @@
   const lead = ranked.slice(0, 5);
   const rest = years.map((_, i) => Math.round(sum(ranked.slice(5).map((s) => (perState[s] || years.map(() => 0))[i])) / Math.max(1, ranked.length - 5)));
   charts.append(lineChart({
-    title: "Leading states by year", sub: "Five most active states against the average of the rest", x: years, yLabel: "Records per year",
+    title: "States with the most records", sub: "Five largest counts against the average of the remaining states", x: years, yLabel: "Records per year",
     series: [...lead.map((s, i) => ({ name: s, color: C[i], values: perState[s] || years.map(() => 0) })), { name: "Average of other states", color: MUTED, values: rest }]
   }));
 
@@ -129,11 +133,12 @@
   }));
 
   // 4. Stage share by year
-  const STAGES = ["announced", "signed", "approved", "launched"];
+  const STAGES = ["announced", "signed", "approved", "launched", "reversed", "unspecified"];
   const perStage = countBy(records.filter((r) => STAGES.includes(r.stage)), (r) => r.stage, yearOf, years);
   const stageTotals = years.map((_, i) => sum(STAGES.map((s) => (perStage[s] || [])[i] || 0)));
   charts.append(lineChart({
-    title: "From announcement to launch", sub: "Share of each year's records at each stage", x: years, yLabel: "Share of records", pct: true,
+    title: "Stage labels by year", sub: "Share of all records in each year", x: years, yLabel: "Share of records", pct: true,
+    caption: "Stages describe headline wording. These shares do not track the same projects from announcement to delivery.",
     series: STAGES.map((s, i) => ({ name: s[0].toUpperCase() + s.slice(1), color: C[i], values: years.map((_, k) => stageTotals[k] ? Math.round(100 * ((perStage[s] || [])[k] || 0) / stageTotals[k]) : 0) }))
   }));
 

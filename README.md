@@ -10,9 +10,11 @@ What Indian state governments are doing about AI, collected from news, with ever
 
 ## The problem
 
-When a state government announces something on AI, the same news shows up in many places. Karnataka's AI University announcement in July 2026 came back 39 times in my searches, each time with a different headline. If I count headlines, I am measuring how loud the news was. I wanted to count policies.
+I built this because so many outlets publish the same news. When I see forty headlines about a state and AI, I do not know if that is forty policies or one policy getting approved. Karnataka's AI University announcement in July 2026 came back 39 times in my searches, each time with a different headline.
 
-So the tracker is built around one question: what should count as one policy? Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule.
+The tracker has two goals. The first is to count policies, one row for each, and put them out for public review, so anyone can see which states are being more proactive on AI. The second comes later. Once every policy is on record, I can follow each one: how much of it has been implemented, how far it has progressed, and other measures like the money spent. This release does the first and prepares the ground for the second.
+
+Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule.
 
 ## Where to look first
 

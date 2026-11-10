@@ -1,6 +1,6 @@
 # Rationale
 
-The same government announcement shows up in many outlets, and a cancellation a few days later reads almost like the original. I wanted a tracker that counts policies, keeps a cancellation apart from the step it cancels, and lets anyone check how each number was reached. Every policy keeps the news reports behind it. Every dropped item keeps its reason.
+I built this because so many outlets publish the same news. Forty headlines can be forty policies or one policy getting approved, and a cancellation a few days later reads almost like the original. The goal is to count policies, put them out for public review so anyone can see which states are more proactive on AI, and later follow how much of each policy gets implemented. Every policy keeps the news reports behind it. Every dropped item keeps its reason.
 
 **Sources.** I used Google News RSS as the main source because it is free, needs no key and can be searched by state and by month. For each state and month I ran four searches: the government itself, policy instruments, public services, and infrastructure and rules. That came to 3,068 searches, and every response is saved so the dataset can be rebuilt offline. GDELT and Bing added a little. GDELT was rate limited on most calls, so I treat it as incomplete. I wrote code for three paid news APIs but never ran it with a key, so I do not count them.
 
@@ -10,4 +10,4 @@ The same government announcement shows up in many outlets, and a cancellation a 
 
 **Presentation.** I kept the dashboard simple: big numbers and a growth chart first, then filters and the list, with every policy linked to its news reports. The charts show what was reported. They cannot tell me whether a policy was delivered.
 
-**What is weak.** The headline screening and the duplicate labels were done with an AI assistant, and I have not read every article. The next thing I would do is link each announcement to an order, a tender or a budget line.
+**What is weak.** The headline screening and the duplicate labels were done with an AI assistant, and I have not read every article. The next thing I would do is link each announcement to an order, a tender or a budget line. That is where tracking implementation starts.

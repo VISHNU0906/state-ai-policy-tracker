@@ -9,9 +9,11 @@ Research window: 1 January 2022 to 10 November 2026.
 
 ## What I built and why
 
-When a state government announces something on AI, the same news shows up in many places. Karnataka's AI University announcement in July 2026 came back 39 times in my searches, each time with a different headline. If I count headlines, I am measuring how loud the news was. I wanted to count policies.
+I built this because so many outlets publish the same news. When I see forty headlines about a state and AI, I do not know if that is forty policies or one policy getting approved. Karnataka's AI University announcement in July 2026 came back 39 times in my searches, each time with a different headline.
 
-So I built the tracker around one question: what should count as one policy? Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule. Every policy in the dataset keeps the news reports behind it, and every item I dropped is saved with the reason. Anyone can open a row and check my work.
+The tracker has two goals. The first is to count policies, one row for each, and put them out for public review, so anyone can see which states are being more proactive on AI. The second comes later. Once every policy is on record, I can follow each one: how much of it has been implemented, how far it has progressed, and other measures like the money spent. This submission does the first and prepares the ground for the second.
+
+Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule. Every policy keeps the news reports behind it, and every item I dropped is saved with the reason. Anyone can open a row and check my work.
 
 **716** policies | **13** states | **1,306** news reports behind them | **17,253** items dropped, each with a reason
 
@@ -34,7 +36,7 @@ News is the fastest way to see what states are doing, but it is messy data. Thes
 
 ## What the data shows
 
-I first ran the same search for all 28 states and looked at how much came back. I picked the working set from that count and from how the states are spread across the country. I then added Andhra Pradesh, Madhya Pradesh and Rajasthan so I could compare against a separate list of 85 policies collected from official documents. That gave me thirteen states. It is a sample I chose, so it should not be read as a ranking of all states.
+I first ran the same search for all 28 states and looked at how much came back. I picked the working set from that count and from how the states are spread across the country. I then added Andhra Pradesh, Madhya Pradesh and Rajasthan so I could compare against a separate list of 85 policies collected from official documents. That gave me thirteen states. It is a sample I chose. The counts compare these thirteen states and say nothing yet about the other fifteen.
 
 Figure 2 has the counts. Karnataka (99), Kerala (95) and Telangana (86) have the most policies. Kerala is the interesting one. It has 23 policies in 2023, when most states had fewer than five, and 20 of those 23 are about one project: the AI traffic cameras. The launch, the opposition's questions, the inquiry and the High Court order on payments all came through as separate rows. Some of those are real steps and some are follow-up stories. That taught me a high count can mean one controversial project, not many policies.
 
@@ -208,9 +210,9 @@ The first two lines install and test. The next four rebuild the dataset from the
 | Rationale and method | 05_Method_and_Research: one-page rationale, README, methodology, research notes |
 | Checks and figures | 06_Verification_and_Figures: test and validation output, chart images |
 
-## What I would do differently
+## What comes next
 
-Honestly, the main thing I would do differently is start from official documents sooner. News tells me something was announced. A government order, a tender or a budget line tells me it happened. The further along a policy is, the less the news says about it.
+The whole goal is to move from what was announced to what was implemented. Honestly, the main thing I would do differently is start from official documents sooner. News tells me something was announced. A government order, a tender or a budget line tells me it happened. The further along a policy is, the less the news says about it.
 
 ![Figure 13. What the news says, and what proof is needed](docs/figures/report/evidence.png)
 
@@ -220,10 +222,12 @@ I have a small start on this. A separate list of 85 policies from official docum
 
 With more time, I would do these in order.
 
-1. Have a person review a fixed sample of whole policies, kept away from anything used for tuning.
-2. Add government orders, tenders and budgets, each with its own date.
-3. Search in Hindi, Telugu, Tamil, Kannada, Malayalam and the other state languages.
-4. Run the paid news APIs on the same searches, and keep only the ones that find policies Google News missed.
+1. Follow each policy after the announcement and record its progress: order issued, tender awarded, launched, in use.
+2. Add government orders, tenders and budgets, each with its own date, so progress is measured and not guessed.
+3. Have a person review a fixed sample of whole policies, kept away from anything used for tuning.
+4. Search in Hindi, Telugu, Tamil, Kannada, Malayalam and the other state languages.
+5. Run the paid news APIs on the same searches, and keep only the ones that find policies Google News missed.
+6. Go from thirteen states to all 28.
 
 ## Sources
 

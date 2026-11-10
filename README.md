@@ -3,17 +3,27 @@
 A pipeline that collects news about AI-related policy activity by Indian state governments, turns it into one deduplicated record per event, and shows it on a static dashboard.
 
 - **Live dashboard:** https://vishnu0906.github.io/state-ai-policy-tracker/
-- **Dataset:** [`data/out/records.csv`](data/out/records.csv) and [`records.xlsx`](data/out/records.xlsx) (543 records, 13 states, 1 January 2025 to 10 November 2026)
+- **Dataset:** [`data/out/records.csv`](data/out/records.csv) and [`records.xlsx`](data/out/records.xlsx) (714 records, 13 states, 1 January 2022 to 10 November 2026)
+- **Trend charts, 2022 to 2026:** https://vishnu0906.github.io/state-ai-policy-tracker/trends.html
 - **Rationale note (one page):** [`RATIONALE.md`](RATIONALE.md)
 - **Methodology, rule by rule:** [`METHODOLOGY.md`](METHODOLOGY.md) (query design, relevance rules, state and date normalisation tables, deduplication steps)
+
+## Two layers, kept apart
+
+| Layer | Period | Records | Status |
+|---|---|---|---|
+| Reviewed core | January 2025 to November 2026 | 551 | Every headline read by hand (`review_status = reviewed`), except 6 central-government records added later. |
+| Backfill | January 2022 to December 2024 | 163 | Rule output only (`review_status = auto`). Not hand-reviewed. |
+
+Records by year: 23 in 2022, 46 in 2023, 94 in 2024, 163 in 2025, 388 in 2026 (to 10 November). The backfill was added so the build-up from before ChatGPT's release can be seen. Expect about one in five backfill records to be off-topic and about one in ten to be a duplicate, the error rates measured on the reviewed core. Older news is also indexed less completely, so part of the rise over time is an indexing effect. The accuracy figures further down were all measured on the reviewed core.
 
 ## What is in the dataset
 
 | File | Rows | What it is |
 |---|---|---|
-| `data/out/records.csv` / `.xlsx` | 543 | One row per event. The main deliverable. |
-| `data/out/record_sources.csv` | 1,076 | One row per news report, linked to its record by `record_id`. Merging duplicates loses nothing. |
-| `data/out/rejected.csv` | 8,397 | Every item the pipeline dropped, with a reason code. This is how the inclusion line can be audited. |
+| `data/out/records.csv` / `.xlsx` | 714 | One row per event. The main deliverable. |
+| `data/out/record_sources.csv` | 1,306 | One row per news report, linked to its record by `record_id`. Merging duplicates loses nothing. |
+| `data/out/rejected.csv` | 17,253 | Every item the pipeline dropped, with a reason code. This is how the inclusion line can be audited. |
 | `data/out/tracker.sqlite` | 3 tables | The same tables in one file for querying. |
 
 Columns of `records.csv` (the XLSX has a data dictionary sheet):
@@ -27,7 +37,7 @@ Columns of `records.csv` (the XLSX has a data dictionary sheet):
 | `category` | Kind of step: Policy and strategy, Regulation and ethics, Institutions and bodies, Funding and budget, Infrastructure and investment, Partnerships and MoUs, Skilling and education, Government deployment. |
 | `stage` | announced, signed, approved, launched, reversed or unspecified. |
 | `sector` | Area of government (health, agriculture, policing, education and so on). |
-| `gov_level` | state, local (district or city body) or judiciary (High Court). |
+| `gov_level` | state, local (district or city body), judiciary (High Court) or central (the central government acting in or for the state). |
 | `source_name`, `source_url` | Publisher and direct link (never a Google redirect). |
 | `n_outlets`, `other_outlets` | How many distinct outlets reported the event, and which. |
 | `confidence`, `summary_basis`, `review_status` | How strong the headline signals were, where the summary came from, whether the record was hand-checked. |
@@ -36,7 +46,7 @@ Columns of `records.csv` (the XLSX has a data dictionary sheet):
 
 ```
 collect  ->  filter  ->  dedupe  ->  read page  ->  classify  ->  review  ->  export
-9,473 items  1,417       785 events                               543 records
+18,559 items 1,662       965 events                               714 records
 ```
 
 1. **Collect** (`pipeline/collect.py`, `pipeline/sources/`). One adapter per source, all returning the same item shape. Every response is cached on disk, so a rerun makes no network calls and gives identical output.
@@ -51,7 +61,7 @@ collect  ->  filter  ->  dedupe  ->  read page  ->  classify  ->  review  ->  ex
 
 | Source | Role | Result |
 |---|---|---|
-| Google News RSS | Backbone. Free, no key, indexes national and regional English press, and accepts `after:` / `before:` so 22 months can be covered month by month. | 1,196 queries, 16,800 hits, none at the 100-item cap, none failed. |
+| Google News RSS | Backbone. Free, no key, indexes national and regional English press, and accepts `after:` / `before:` so 58 months can be covered month by month. | 3,068 queries, 36,855 hits, none at the 100-item cap, none failed. |
 | GDELT DOC API | Second, independent index. | **Mostly a stub in this run.** The API returned HTTP 429 for most calls even at one request per 6.5 seconds, so only 8 two-month windows were collected (Karnataka and part of Telangana). The adapter is complete and cached; rerunning it later fills the gap. |
 | Bing News RSS | Recent weeks only (no date operators). | 172 hits for ten states. |
 | GNews.io, NewsAPI.org, NewsData.io | Redundancy for the last 30 days. Their free plans cannot reach back further (100 requests a day, 30 days of history), so they cannot be the backbone. | **Written but never run against the live APIs**, because no keys were available. Treat as untested. |
@@ -70,17 +80,19 @@ Final set: Karnataka, Telangana, Tamil Nadu, Kerala, Andhra Pradesh, Maharashtra
 
 **In:** a state government, or a body that answers to it (departments, state police, state-run agencies and universities, district and city administrations), or the state's High Court, takes a concrete step involving AI: adopts or drafts a policy, sets up a body or institution, signs an agreement, deploys AI in a public function, commits money, starts a training programme, or makes a rule.
 
-**Out:** opinion and explainers; speeches with no concrete step; central government actions that merely happen in a state; company news with no state body as a party; crime stories where AI is the tool, unless the state responds with a rule; party politics; meetings and conferences with no reported outcome.
+**Also in, labelled apart:** the central government taking such a step in or for a named state (`gov_level = central`, 7 records).
 
-Each "out" has a reason code in `rejected.csv`: `no_ai_term`, `no_state_named`, `no_government_actor`, `no_concrete_step`, `opinion_or_explainer`, `statement_only`, `commentary_or_reaction`, `meeting_or_event_only`, `central_government_actor`, `ai_misuse_or_crime_no_policy_step`, `party_politics`, `foreign_story`, `multi_state_roundup`, `union_territory`, `social_or_aggregator_source`, `state_not_prioritised`, `outside_window`, `dropped_in_review`.
+**Out:** opinion and explainers; speeches with no concrete step; company news with no state body as a party; crime stories where AI is the tool, unless the state responds with a rule; party politics; meetings and conferences with no reported outcome.
+
+Each "out" has a reason code in `rejected.csv`: `no_ai_term`, `no_state_named`, `no_government_actor`, `no_concrete_step`, `opinion_or_explainer`, `statement_only`, `commentary_or_reaction`, `meeting_or_event_only`, `ai_misuse_or_crime_no_policy_step`, `party_politics`, `foreign_story`, `multi_state_roundup`, `union_territory`, `social_or_aggregator_source`, `state_not_prioritised`, `outside_window`, `dropped_in_review`.
 
 ## States and dates
 
 **States.** `pipeline/states.py` holds 36 states and union territories with alternative spellings, old names (Orissa, Uttaranchal), the new name Keralam, abbreviations and major cities. "UP", "Uttar Pradesh", "Uttar-Pradesh", "U.P." and "UttarPradesh" all map to Uttar Pradesh. Ambiguous abbreviations are handled deliberately: "MP" is Madhya Pradesh only next to a government word ("MP govt") or at the start of a headline before a verb ("MP to set up..."), never in "Congress MP". "Punjab" beside "Lahore" and "Bengal" in "Bay of Bengal" are rejected. The state comes from the headline; a query for one state often returns stories about another.
 
-**Dates.** `pipeline/dates.py`. Feed timestamps are converted to India time before the day is taken (20:30 UTC on the 7th is the 8th in India). Every record carries `date_precision`. A month-only date is stored as the first of the month and flagged, never passed off as a day. An unparseable date stays empty with precision `unknown`. The parser also handles misspelt months, weekday and "Updated:" prefixes, two-digit years, "early March 2026", quarters, fiscal years and relative phrases; the full table is in `METHODOLOGY.md`. In this run all 543 records have day precision, because the feeds always supplied a timestamp. The date is the earliest report of the event, which can trail the announcement by a day.
+**Dates.** `pipeline/dates.py`. Feed timestamps are converted to India time before the day is taken (20:30 UTC on the 7th is the 8th in India). Every record carries `date_precision`. A month-only date is stored as the first of the month and flagged, never passed off as a day. An unparseable date stays empty with precision `unknown`. The parser also handles misspelt months, weekday and "Updated:" prefixes, two-digit years, "early March 2026", quarters, fiscal years and relative phrases; the full table is in `METHODOLOGY.md`. In this run all 714 records have day precision, because the feeds always supplied a timestamp. The date is the earliest report of the event, which can trail the announcement by a day.
 
-**Date cross-check.** The publisher page's own date was available for 532 of the 543 records. It matches the feed date exactly for 455 (86 percent) and within one day for 485 (91 percent). The 42 that differ by more than 30 days were traced to the page reader, not the feed: two sites return the day the page was fetched and one returns a placeholder date. The feed date is therefore the one kept, and the page date is used only as a check.
+**Date cross-check** (reviewed core). The publisher page's own date was available for 532 of 543 records. It matches the feed date exactly for 455 (86 percent) and within one day for 485 (91 percent). The 42 that differ by more than 30 days were traced to the page reader, not the feed: two sites return the day the page was fetched and one returns a placeholder date. The feed date is therefore the one kept, and the page date is used only as a check.
 
 ## Deduplication
 
@@ -126,7 +138,7 @@ The 24 misses are mostly procedural steps that do not make headlines: a tender, 
 - **Headline-driven.** Relevance, category and stage are read from the headline. A relevant article whose headline names no state is dropped. Leader names ("Naidu", "Revanth") are not mapped to states.
 - **GDELT is mostly missing** and the keyed news APIs are untested (see Sources).
 - **Counts are reported activity, not policy quality.** A state with a larger English press shows more records.
-- **"Government deployment" is the default category** and holds 227 of 543 records. Some belong elsewhere.
+- **"Government deployment" is the default category** and holds 316 of 714 records. Some belong elsewhere.
 - **Stage is a headline cue.** "Announced" includes some loosely worded intentions.
 - **One reviewer.** The dedup labels and the review decisions were made by one reviewer, once, from headlines.
 - **Late duplicates.** Reports more than five days apart are not merged automatically.
@@ -149,4 +161,4 @@ On Windows PowerShell, set the variable first: `$env:PIPELINE_OFFLINE = "1"`. Wi
 
 ## Dashboard
 
-`docs/` holds three static files that read `docs/data/records.json`, written by the pipeline, so the page and the CSV cannot drift apart. The main view is a state by month grid; below it are the mix of step types per state, records by sector, and a searchable list where every record links to its source. Chart colours follow a fixed order checked for colour-blind separation.
+`docs/` holds the dashboard (`index.html`) and a trends page (`trends.html`) with line charts by half-year, state, category of policy, stage and sector, one small chart per state, and a state table. Both read `docs/data/records.json`, written by the pipeline, so the page and the CSV cannot drift apart. The main view is a state by month grid; below it are the mix of step types per state, records by sector, and a searchable list where every record links to its source. Chart colours follow a fixed order checked for colour-blind separation.

@@ -34,7 +34,7 @@ Rules are regular expressions, applied in a fixed order. The first rule that fir
 | 7 | Not a foreign story | `foreign_story` |
 | 8 | Not party politics | `party_politics` |
 | 9 | Not a crime or misuse story, unless it reports a rule | `ai_misuse_or_crime_no_policy_step` |
-| 10 | Not a central government action, unless the state is the subject | `central_government_actor` |
+| 10 | If the central government is the actor and the state is not, the item is kept and labelled `gov_level = central` | (kept) |
 | 11 | A government actor is present (a government word, or the state name directly followed by a verb: "Assam signs ...") | `no_government_actor` |
 | 12 | An instrument or an action is present | `no_concrete_step` |
 | 13 | Not commentary or reaction | `commentary_or_reaction` |
@@ -101,7 +101,7 @@ All three are read from the headline with ordered keyword rules.
 
 - **Category.** First match in this order: Regulation and ethics, Policy and strategy, Funding and budget, Institutions and bodies, Infrastructure and investment, Partnerships and MoUs, Skilling and education. Anything else is Government deployment.
 - **Stage.** The cue word that comes first in the headline decides: signed, approved, launched or announced. "Maharashtra to launch ..." is announced; "Assam signs MoUs to bring ..." is signed. A reversal word anywhere gives reversed.
-- **Government level.** High Court gives judiciary; municipal, district or city bodies give local; otherwise state.
+- **Government level.** Central when the central government is the actor (rule 10 above); High Court gives judiciary; municipal, district or city bodies give local; otherwise state.
 
 ## 8. Review (`data/review/overrides.csv`)
 

@@ -118,6 +118,33 @@
     `agreements, deployments, budgets and rules. Collected from ${outlets.size} news outlets, with repeat coverage ` +
     `of the same announcement merged into one record.`;
 
+  // ---- hero chart: big numbers and records per half-year ----
+  {
+    const y0 = +meta.window_start.slice(0, 4), y1 = +meta.window_end.slice(0, 4);
+    const perYear = {}; records.forEach((r) => (perYear[r.date.slice(0, 4)] = (perYear[r.date.slice(0, 4)] || 0) + 1));
+    const stat = (n, label) => el("div", { class: "stat" }, el("b", { text: n }), el("span", { text: label }));
+    $("stats").append(stat(records.length, "recorded policy steps"), stat(meta.states.length, "states tracked"),
+      stat(outlets.size, "news outlets"), stat(`${perYear[y0] || 0} \u2192 ${perYear[y1] || 0}`, `records a year, ${y0} to ${y1}`));
+    const halves = []; for (let y = y0; y <= y1; y++) halves.push(y + " H1", y + " H2");
+    const v = halves.map((h) => records.filter((r) => r.date.slice(0, 4) + (+r.date.slice(5, 7) <= 6 ? " H1" : " H2") === h).length);
+    const NS = "http://www.w3.org/2000/svg", W = 1000, H = 300, L = 20, R = 20, T = 34, B = 34;
+    const s = (tag, a, text) => { const n = document.createElementNS(NS, tag); for (const k in a) n.setAttribute(k, a[k]); if (text !== undefined) n.textContent = text; return n; };
+    const max = Math.max(...v, 1), X = (i) => L + 24 + (i * (W - L - R - 48)) / (halves.length - 1), Y = (n) => H - B - (n / max) * (H - T - B);
+    const svg = s("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Records per half-year" });
+    const defs = s("defs", {}), g = s("linearGradient", { id: "heroFill", x1: 0, y1: 0, x2: 0, y2: 1 });
+    g.append(s("stop", { offset: "0%", "stop-color": "#7fe0c0", "stop-opacity": 0.55 }), s("stop", { offset: "100%", "stop-color": "#7fe0c0", "stop-opacity": 0 }));
+    defs.append(g); svg.append(defs);
+    const pts = v.map((n, i) => `${X(i)},${Y(n)}`).join(" ");
+    svg.append(s("polygon", { points: `${X(0)},${H - B} ${pts} ${X(v.length - 1)},${H - B}`, fill: "url(#heroFill)" }));
+    svg.append(s("polyline", { points: pts, fill: "none", stroke: "#7fe0c0", "stroke-width": 4, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    v.forEach((n, i) => {
+      svg.append(s("circle", { cx: X(i), cy: Y(n), r: 8, fill: "#0b1a3d", stroke: "#7fe0c0", "stroke-width": 3.5 }));
+      svg.append(s("text", { x: X(i), y: Y(n) - 16, "text-anchor": "middle", class: "val" }, n));
+      svg.append(s("text", { x: X(i), y: H - 10, "text-anchor": "middle" }, halves[i].replace(" H1", " Jan-Jun").replace(" H2", " Jul-Dec")));
+    });
+    $("hero").append(el("h2", { text: "Recorded steps every half-year" }), svg);
+  }
+
   // ---- state by month grid ------------------------------------------------------
   const STEPS = 6;
   function renderGrid() {

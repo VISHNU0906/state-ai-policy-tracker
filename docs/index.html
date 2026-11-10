@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,500..800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
 <header class="masthead">
@@ -16,9 +16,11 @@
     <p class="kicker">State AI Policy Tracker</p>
     <h1 id="headline">What Indian states are doing about AI</h1>
     <p class="lede" id="lede">Loading records.</p>
+    <div class="stats" id="stats"></div>
+    <div class="hero" id="hero"></div>
     <nav class="links" aria-label="Downloads and documentation">
       <a href="data/records.csv" download>Download the dataset (CSV)</a>
-      <a href="trends.html">Trends since 2022</a>
+      <a class="cta" href="trends.html">See all trend charts</a>
       <a href="#method">How this was built</a>
       <a id="repo-link" href="https://github.com/VISHNU0906/state-ai-policy-tracker">Code and commit history</a>
     </nav>
@@ -84,6 +86,6 @@
 
 
 <div id="tip" class="tip" role="tooltip" hidden></div>
-<script src="app.js?v=3"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>

@@ -106,3 +106,17 @@ All three are read from the headline with ordered keyword rules.
 ## 8. Review (`data/review/overrides.csv`)
 
 A CSV of decisions keyed by record ID: drop a record, or correct a field. The build applies it after classification and warns about any decision that no longer matches a record. Dropped records move to `rejected.csv` with the reviewer's reason.
+
+## 9. Assumptions and limits
+
+- **English only.** No Hindi or regional-language reporting. This matters most for Uttar Pradesh, Bihar, Madhya Pradesh and Rajasthan, and partly explains their lower counts.
+- **News, not documents.** Steps recorded only in official documents are missed (see the coverage check).
+- **Headline-driven.** Relevance, category and stage are read from the headline. A relevant article whose headline names no state is dropped. Leader names ("Naidu", "Revanth") are not mapped to states.
+- **GDELT is mostly missing** and the keyed news APIs are untested (see Sources).
+- **Counts are reported activity, not policy quality.** A state with a larger English press shows more records.
+- **"Government deployment" is the default category** and holds 316 of 714 records. Some belong elsewhere.
+- **Stage is a headline cue.** "Announced" includes some loosely worded intentions.
+- **One reviewer.** The dedup labels and the review decisions were made by one reviewer, once, from headlines.
+- **Late duplicates.** Reports more than five days apart are not merged automatically.
+- **Google News RSS is unofficial** and its redirect links are decoded with a third-party library that depends on Google's page format.
+- **The optional LLM check step (`pipeline/llm.py`) has not been run.**

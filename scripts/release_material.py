@@ -134,6 +134,10 @@ The original 2025-26 screening removed 242 of 785 clusters, including 160 releva
 
 ## Evaluation and limits
 
+### Assumptions and gaps
+
+I treat each row as a reported action. The date is the earliest news report, so it can differ from the government order. English news misses some states and quieter steps such as tenders and Gazette notices. Similar headlines can still merge incorrectly, and late reports can remain duplicates. The older screening was assistant-produced, not a full article check. Seven central-government actions are labelled separately. I would check the original source before using a row to make a claim about spending, implementation or results.
+
 The 140 saved pair labels were assistant-produced. The current diagnostic finds 136 in the rebuilt corpus; the reporting half gives precision 0.96 and recall 1.00 at threshold 0.25. These are development results, not an independent accuracy estimate: 31 headlines occur in both halves, the sample over-represents difficult pairs, and method changes used errors from the whole set.
 
 The earlier approximate coverage check found 37 of 66 in-scope reference events. It used the older 2025-26 snapshot and is not a current recall estimate. Gazette entries, tenders and budget provisions account for important gaps. [Research findings](research/RESEARCH_FINDINGS.md) explains why these gaps change interpretation.

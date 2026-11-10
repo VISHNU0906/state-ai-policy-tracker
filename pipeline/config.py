@@ -9,10 +9,15 @@ OUT = ROOT / "data" / "out"
 REVIEW = ROOT / "data" / "review"
 SITE = ROOT / "docs"
 
-# Collection window. Start of 2025 is when state AI policies began to appear in
-# volume; the end date is the day the pipeline was last run.
-START = date(2025, 1, 1)
+# Collection window. It starts in 2022, before ChatGPT's release, so the build-up of
+# state activity can be seen from the beginning. The end date is the last run.
+START = date(2022, 1, 1)
 END = date(2026, 11, 10)
+
+# The hand review (data/review/overrides.csv) read every record dated on or after this
+# day. Earlier records were added by a later backfill and are rule output only; they
+# carry review_status "auto".
+REVIEWED_FROM = date(2025, 1, 1)
 
 # Prioritised states. Ten were chosen from data/state_sweep.csv (headline counts
 # for all 28 states over an identical six month query) with one constraint: at

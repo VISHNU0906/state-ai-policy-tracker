@@ -75,6 +75,7 @@ def write_all(records: list[dict], rejected: list[dict], funnel: dict) -> None:
         "meta": {
             "window_start": config.START.isoformat(),
             "window_end": config.END.isoformat(),
+            "reviewed_from": config.REVIEWED_FROM.isoformat(),
             "states": config.PRIORITY_STATES,
             "state_codes": {s: BY_NAME[s].code for s in config.PRIORITY_STATES},
             "funnel": funnel,

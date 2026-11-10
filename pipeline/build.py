@@ -184,7 +184,7 @@ def main(argv=None):
             "confidence": "high" if any(r["confidence"] == "high" for r in group) else "medium",
             "summary_basis": basis,
             # Every record's headline was read once in the review pass that produced overrides.csv.
-            "review_status": "reviewed" if overrides else "auto",
+            "review_status": "reviewed" if overrides and seed["date"] >= config.REVIEWED_FROM.isoformat() else "auto",
             "_body": page.get("body_lead", ""),
             "_members": [{"source_name": r["source_name"], "title": r["title"], "date": r["date"],
                           "link": r.get("url") or r.get("google_link", ""), "origin": r["origin"],

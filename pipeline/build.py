@@ -90,6 +90,8 @@ def pick_summary(title: str, page: dict) -> tuple[str, str]:
         text = DATELINE.sub("", (page.get(basis) or "").strip())
         text = enrich.first_sentences(text, 240)
         # A description that only repeats the headline adds nothing.
+        if "](" in text or text.lower().startswith("edition"):
+            continue    # site navigation picked up instead of a description
         if len(text) >= 60 and len(set(dedupe.tokens(text)) - tkey) >= 4:
             return text, "publisher_description" if basis == "description" else "article_text"
     return title, "headline"
@@ -106,6 +108,8 @@ def main(argv=None):
 
     for it in raw:
         it["title"] = TITLE_TAIL.sub("", it["title"]).strip()      # "... | India News" and similar section tags
+        it["_id_title"] = it["title"]      # record IDs hash this form, so tidying the display title never changes an ID
+        it["title"] = re.sub(r"\s+([,;:])", r"\1", re.sub(r"\s+", " ", it["title"]))   # stray line breaks, "Rs 4 , 432"
         day, precision = parse_date(it.get("published_utc"))
         if not day:
             day, precision = date_from_url(it.get("url", ""))
@@ -138,8 +142,8 @@ def main(argv=None):
     records = []
     for n, members in enumerate(clusters, 1):
         group = sorted((kept[i] for i in members), key=lambda r: (r["date"], r["title"]))
-        seed = group[0]
-        rid = record_id(seed["state"], seed["date"], seed["title"])
+        seed = min(group, key=lambda r: (r["date"], r["_id_title"]))
+        rid = record_id(seed["state"], seed["date"], seed["_id_title"])
         ov = overrides.get(rid, {})
         if ov.get("decision") == "drop":
             seen_drop.add(rid)

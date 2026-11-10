@@ -3,16 +3,16 @@
 A pipeline that collects news about AI-related policy activity by Indian state governments, turns it into one deduplicated record per event, and shows it on a static dashboard.
 
 - **Live dashboard:** https://vishnu0906.github.io/state-ai-policy-tracker/
-- **Dataset:** [`data/out/records.csv`](data/out/records.csv) and [`records.xlsx`](data/out/records.xlsx) (567 records, 13 states, 1 January 2025 to 10 November 2026)
+- **Dataset:** [`data/out/records.csv`](data/out/records.csv) and [`records.xlsx`](data/out/records.xlsx) (543 records, 13 states, 1 January 2025 to 10 November 2026)
 - **Rationale note (one page):** [`RATIONALE.md`](RATIONALE.md)
 
 ## What is in the dataset
 
 | File | Rows | What it is |
 |---|---|---|
-| `data/out/records.csv` / `.xlsx` | 567 | One row per event. The main deliverable. |
-| `data/out/record_sources.csv` | 1,151 | One row per news report, linked to its record by `record_id`. Merging duplicates loses nothing. |
-| `data/out/rejected.csv` | 8,322 | Every item the pipeline dropped, with a reason code. This is how the inclusion line can be audited. |
+| `data/out/records.csv` / `.xlsx` | 543 | One row per event. The main deliverable. |
+| `data/out/record_sources.csv` | 1,076 | One row per news report, linked to its record by `record_id`. Merging duplicates loses nothing. |
+| `data/out/rejected.csv` | 8,397 | Every item the pipeline dropped, with a reason code. This is how the inclusion line can be audited. |
 | `data/out/tracker.sqlite` | 3 tables | The same tables in one file for querying. |
 
 Columns of `records.csv` (the XLSX has a data dictionary sheet):
@@ -35,7 +35,7 @@ Columns of `records.csv` (the XLSX has a data dictionary sheet):
 
 ```
 collect  ->  filter  ->  dedupe  ->  read page  ->  classify  ->  review  ->  export
-9,473 items  1,417       785 events                               567 records
+9,473 items  1,417       785 events                               543 records
 ```
 
 1. **Collect** (`pipeline/collect.py`, `pipeline/sources/`). One adapter per source, all returning the same item shape. Every response is cached on disk, so a rerun makes no network calls and gives identical output.
@@ -77,7 +77,7 @@ Each "out" has a reason code in `rejected.csv`: `no_ai_term`, `no_state_named`, 
 
 **States.** `pipeline/states.py` holds 36 states and union territories with alternative spellings, old names (Orissa, Uttaranchal), the new name Keralam, abbreviations and major cities. "UP", "Uttar Pradesh", "Uttar-Pradesh", "U.P." and "UttarPradesh" all map to Uttar Pradesh. Ambiguous abbreviations are handled deliberately: "MP" is Madhya Pradesh only next to a government word ("MP govt") or at the start of a headline before a verb ("MP to set up..."), never in "Congress MP". "Punjab" beside "Lahore" and "Bengal" in "Bay of Bengal" are rejected. The state comes from the headline; a query for one state often returns stories about another.
 
-**Dates.** `pipeline/dates.py`. Feed timestamps are converted to India time before the day is taken (20:30 UTC on the 7th is the 8th in India). Every record carries `date_precision`. A month-only date is stored as the first of the month and flagged, never passed off as a day. An unparseable date stays empty with precision `unknown`. In this run all 567 records have day precision, because the feeds always supplied a timestamp. The date is the earliest report of the event, which can trail the announcement by a day.
+**Dates.** `pipeline/dates.py`. Feed timestamps are converted to India time before the day is taken (20:30 UTC on the 7th is the 8th in India). Every record carries `date_precision`. A month-only date is stored as the first of the month and flagged, never passed off as a day. An unparseable date stays empty with precision `unknown`. In this run all 543 records have day precision, because the feeds always supplied a timestamp. The date is the earliest report of the event, which can trail the announcement by a day.
 
 ## Deduplication
 
@@ -90,7 +90,7 @@ One announcement is reported in many wordings, so URL or exact-title matching is
 5. Never link a reversal ("cancels", "scraps") to a non-reversal.
 6. Join linked pairs into clusters. The most typical headline in a cluster, from a preferred outlet, represents it.
 
-**Measured accuracy.** 140 headline pairs were sampled evenly across similarity bands, so hard cases are over-represented, and labelled by reading them (`data/review/dedup_pairs.csv`). Half were used to choose the threshold and the other half to report it (`python -m scripts.eval_dedupe`):
+**Measured accuracy.** 140 headline pairs were sampled evenly across similarity bands, so hard cases are over-represented, and labelled by reading them (`data/review/dedup_pairs.csv`). The threshold was chosen on half of the pairs and the figures below are from the other half (`python -m scripts.eval_dedupe`). Treat them as optimistic: the tokenising and synonym fixes were made after reading errors across all 140 pairs, so only the threshold, not the method, was kept blind to the reporting half.
 
 | Version | Precision | Recall | Change |
 |---|---|---|---|
@@ -98,11 +98,11 @@ One announcement is reported in many wordings, so URL or exact-title matching is
 | Second | 0.91 | 0.92 | Fixed glued hyphenated tokens; synonyms; overlap measure; transitive linking. |
 | Current | 0.89 | 1.00 | Lower threshold with the reversal and day-gap guards, added after reading clusters and finding two real false merges. |
 
-**What still slipped through.** The hand review found 61 duplicate records among 785 events (8 percent). Most are late write-ups published more than five days after the first report, which the five-day window cannot join. They were removed by hand.
+**What still slipped through.** The hand review is the better test, and it is less flattering than the table. It found 82 duplicate records among 785 events (10 percent). Of the 80 whose original could be dated, 45 were within the five-day window, where the wording was simply too different for the similarity score, and 35 were late write-ups outside the window, which the method cannot join by design. All were removed by hand.
 
 ## Checks on the result
 
-**Hand review.** Every record's headline was read once. 218 of 785 events were removed: 157 were not state AI policy activity and 61 were duplicates. So the rules alone are right about relevance 80 percent of the time. Decisions with reasons are in `data/review/overrides.csv`.
+**Hand review.** Every record's headline was read once, in two passes as the pipeline changed, followed by a scan for same-state near-duplicates within 45 days. 242 of 785 events were removed: 160 were not state AI policy activity and 82 were duplicates. So the rules alone are right about relevance 80 percent of the time. Decisions with reasons are in `data/review/overrides.csv`. Only headlines were read; individual articles were not opened and checked against their rows.
 
 **Coverage against an independent list.** `data/review/reference_events.csv` is a list of 85 events researched separately by hand, mostly from official documents. It was not used to build or tune the pipeline. 66 of its events fall inside these states and this window (`python -m scripts.eval_coverage`, measured before the hand review):
 
@@ -123,9 +123,9 @@ The 24 misses are mostly procedural steps that do not make headlines: a tender, 
 - **Headline-driven.** Relevance, category and stage are read from the headline. A relevant article whose headline names no state is dropped. Leader names ("Naidu", "Revanth") are not mapped to states.
 - **GDELT is mostly missing** and the keyed news APIs are untested (see Sources).
 - **Counts are reported activity, not policy quality.** A state with a larger English press shows more records.
-- **"Government deployment" is the default category** and holds 238 of 567 records. Some belong elsewhere.
+- **"Government deployment" is the default category** and holds 227 of 543 records. Some belong elsewhere.
 - **Stage is a headline cue.** "Announced" includes some loosely worded intentions.
-- **One reviewer.** The dedup labels and the review decisions were made by one person, once.
+- **One reviewer.** The dedup labels and the review decisions were made by one reviewer, once, from headlines.
 - **Late duplicates.** Reports more than five days apart are not merged automatically.
 - **Google News RSS is unofficial** and its redirect links are decoded with a third-party library that depends on Google's page format.
 - **The optional LLM check step (`pipeline/llm.py`) has not been run.**

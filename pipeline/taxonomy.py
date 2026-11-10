@@ -20,7 +20,8 @@ CATEGORY_RULES = [
         r"\b(budget|allocat\w+|earmark\w*|sanction\w*|outlay|fund(?:s|ing)?|grant|subsid\w+|incentives?)\b", re.I)),
     ("Institutions and bodies", re.compile(
         r"\b(task ?force|committee|council|panel|cell|cent(?:re|er)s? of excellence|CoE|university|universities|institute"
-        r"|academy|lab|labs|sandbox|innovation hub|AI hub|authority|board|department of AI)\b", re.I)),
+        r"|academy|lab|labs|sandbox|innovation hub|AI hub|authority|board|department of AI|AI ministry|ministry for AI"
+        r"|intelligence ministry|AI minister|intelligence minister|AI department|research organi[sz]ation)\b", re.I)),
     ("Infrastructure and investment", re.compile(
         r"\b(data cent(?:re|er)s?|AI city|compute|GPU|supercomput\w+|cloud region|campus|invest(?:s|ed|ing|ment|ments|or|ors)?|crore|billion|gigawatt|GW|MW)\b", re.I)),
     ("Partnerships and MoUs", re.compile(

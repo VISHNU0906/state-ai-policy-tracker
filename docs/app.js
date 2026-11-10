@@ -227,6 +227,7 @@
       const others = r.other_outlets ? r.other_outlets.split("; ") : [];
       const meta_ = el("p", { class: "meta" },
         el("span", { class: "cat" }, el("span", { class: "dot", style: `background:${catColor(r.category)}` }), el("span", { text: r.category })),
+        r.stage && r.stage !== "unspecified" ? el("span", { text: r.stage[0].toUpperCase() + r.stage.slice(1) }) : null,
         el("span", { text: r.sector }),
         r.gov_level !== "state" ? el("span", { text: LEVEL_LABEL[r.gov_level] }) : null,
         el("span", { text: r.source_name }),

@@ -5,6 +5,7 @@ A pipeline that collects news about AI-related policy activity by Indian state g
 - **Live dashboard:** https://vishnu0906.github.io/state-ai-policy-tracker/
 - **Dataset:** [`data/out/records.csv`](data/out/records.csv) and [`records.xlsx`](data/out/records.xlsx) (543 records, 13 states, 1 January 2025 to 10 November 2026)
 - **Rationale note (one page):** [`RATIONALE.md`](RATIONALE.md)
+- **Methodology, rule by rule:** [`METHODOLOGY.md`](METHODOLOGY.md) (query design, relevance rules, state and date normalisation tables, deduplication steps)
 
 ## What is in the dataset
 
@@ -21,7 +22,7 @@ Columns of `records.csv` (the XLSX has a data dictionary sheet):
 |---|---|
 | `record_id` | Stable ID: state code, date, short hash of the earliest headline. |
 | `state` | Canonical state name, read from the article text, not from the search query. |
-| `date`, `date_precision` | Date of the earliest report, India time. Precision is `day`, `month`, `year` or `unknown`. |
+| `date`, `date_precision` | Date of the earliest report, India time. Precision is `day`, `month`, `quarter`, `year` or `unknown`. |
 | `title`, `summary` | Headline of the representative article and one line on what happened. |
 | `category` | Kind of step: Policy and strategy, Regulation and ethics, Institutions and bodies, Funding and budget, Infrastructure and investment, Partnerships and MoUs, Skilling and education, Government deployment. |
 | `stage` | announced, signed, approved, launched, reversed or unspecified. |
@@ -77,7 +78,7 @@ Each "out" has a reason code in `rejected.csv`: `no_ai_term`, `no_state_named`, 
 
 **States.** `pipeline/states.py` holds 36 states and union territories with alternative spellings, old names (Orissa, Uttaranchal), the new name Keralam, abbreviations and major cities. "UP", "Uttar Pradesh", "Uttar-Pradesh", "U.P." and "UttarPradesh" all map to Uttar Pradesh. Ambiguous abbreviations are handled deliberately: "MP" is Madhya Pradesh only next to a government word ("MP govt") or at the start of a headline before a verb ("MP to set up..."), never in "Congress MP". "Punjab" beside "Lahore" and "Bengal" in "Bay of Bengal" are rejected. The state comes from the headline; a query for one state often returns stories about another.
 
-**Dates.** `pipeline/dates.py`. Feed timestamps are converted to India time before the day is taken (20:30 UTC on the 7th is the 8th in India). Every record carries `date_precision`. A month-only date is stored as the first of the month and flagged, never passed off as a day. An unparseable date stays empty with precision `unknown`. In this run all 543 records have day precision, because the feeds always supplied a timestamp. The date is the earliest report of the event, which can trail the announcement by a day.
+**Dates.** `pipeline/dates.py`. Feed timestamps are converted to India time before the day is taken (20:30 UTC on the 7th is the 8th in India). Every record carries `date_precision`. A month-only date is stored as the first of the month and flagged, never passed off as a day. An unparseable date stays empty with precision `unknown`. The parser also handles misspelt months, weekday and "Updated:" prefixes, two-digit years, "early March 2026", quarters, fiscal years and relative phrases; the full table is in `METHODOLOGY.md`. In this run all 543 records have day precision, because the feeds always supplied a timestamp. The date is the earliest report of the event, which can trail the announcement by a day.
 
 **Date cross-check.** The publisher page's own date was available for 532 of the 543 records. It matches the feed date exactly for 455 (86 percent) and within one day for 485 (91 percent). The 42 that differ by more than 30 days were traced to the page reader, not the feed: two sites return the day the page was fetched and one returns a placeholder date. The feed date is therefore the one kept, and the page date is used only as a check.
 
@@ -116,7 +117,7 @@ One announcement is reported in many wordings, so URL or exact-title matching is
 
 The 24 misses are mostly procedural steps that do not make headlines: a tender, a request for information, gazette publication of a policy, notification of rules, single budget lines. That is the main limit of a news-based pipeline. Matching is automatic and approximate; `data/review/coverage_check.csv` lists every match so it can be checked.
 
-**Tests.** `python -m pytest -q` runs 51 tests on state aliases, date handling, reason codes and dedup cases.
+**Tests.** `python -m pytest -q` runs 88 tests on state aliases and misspellings, date patterns, reason codes and dedup cases.
 
 ## Known holes
 

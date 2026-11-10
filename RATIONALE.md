@@ -1,6 +1,6 @@
 # Rationale
 
-I built this because so many outlets publish the same news. Forty headlines can be forty policies or one policy getting approved, and a cancellation a few days later reads almost like the original. The goal is to count policies, put them out for public review so anyone can see which states are more proactive on AI, and later follow how much of each policy gets implemented. Every policy keeps the news reports behind it. Every dropped item keeps its reason.
+I built this because so many outlets publish the same news. Forty headlines can be forty policies or one policy getting approved, and a cancellation a few days later reads almost like the original. The goal is to count policies, put them out for public review so anyone can see which states are more proactive on AI, and later follow how much of each policy gets implemented. Every merged duplicate stays listed under its policy so the merge can be verified, and every dropped item has its reason clearly stated.
 
 **Sources.** I used Google News RSS as the main source because it is free, needs no key and can be searched by state and by month. For each state and month I ran four searches: the government itself, policy instruments, public services, and infrastructure and rules. That came to 3,068 searches, and every response is saved so the dataset can be rebuilt offline. GDELT and Bing added a little, and GDELT was rate limited on most calls. I wrote code for three paid news APIs but never ran it with a key, so I do not count them.
 

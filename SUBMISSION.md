@@ -13,7 +13,7 @@ I built this because so many outlets publish the same news. When I see forty hea
 
 The tracker has two goals. The first is to count policies, one row for each, and put them out for public review, so anyone can see which states are being more proactive on AI. The second comes later. Once every policy is on record, I can follow each one: how much of it has been implemented, how far it has progressed, and other measures like the money spent. This submission does the first and prepares the ground for the second.
 
-Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule. Every policy keeps the news reports behind it, and every item I dropped is saved with the reason. Anyone can open a row and check my work.
+Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule. Every duplicate that was merged stays listed under its policy, so the merge can be verified. Every item that was dropped has its reason clearly stated. Anyone can open a row and check my work.
 
 **716** policies | **13** states | **1,306** news reports behind them | **17,253** items dropped, each with a reason
 
@@ -155,7 +155,15 @@ The Uttar Pradesh story in Figure 10 is the reason the cancellation rule exists.
 
 Some things can still go wrong. A running story can chain into one policy if each report resembles the next. A report that comes more than five days later stays separate. Two different policies from one state in the same week, announced in similar words, can merge.
 
-As the saying goes, prevention is ideal but detection is a must. I could not prevent every wrong merge, so I made sure each one can be detected. Every report behind a policy is listed in record_sources.csv, and a wrong merge shows up as soon as someone reads that list.
+### Every duplicate can be verified
+
+As the saying goes, prevention is ideal but detection is a must. I could not prevent every wrong merge, so I made sure each one can be detected. Every duplicate has a way to verify it and a clearly stated reason.
+
+| What happened to the report | Where to verify it | What is stated |
+| --- | --- | --- |
+| Merged into a policy as a duplicate | record_sources.csv, under the ID of that policy | Outlet, date, headline and link of every report, and which one represents the policy |
+| Removed in review as a duplicate | rejected.csv | The reason, with the ID of the policy it duplicates |
+| Dropped by the filter | rejected.csv | The reason, for example no government involved or no concrete step |
 
 ### Scoring the sources behind a policy
 

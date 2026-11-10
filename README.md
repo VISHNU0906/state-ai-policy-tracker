@@ -16,6 +16,8 @@ The tracker has two goals. The first is to count policies, one row for each, and
 
 Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule.
 
+Every duplicate has a way to verify it and a clearly stated reason. A report that was merged stays listed under its policy in `record_sources.csv`, with its outlet, date, headline and link. A row removed as a duplicate in review is in `rejected.csv` with the ID of the policy it duplicates. Every other dropped item has its reason there too.
+
 ## Where to look first
 
 | I want to | Open |

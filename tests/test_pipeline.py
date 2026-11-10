@@ -41,6 +41,16 @@ def test_state_comes_from_text_and_handles_lookalikes():
     assert list(hits) == ["Telangana"]
 
 
+@pytest.mark.parametrize("raw,want", [
+    ("Karnatka", "Karnataka"), ("Karnatak", "Karnataka"), ("Maharastra", "Maharashtra"), ("Telangna", "Telangana"),
+    ("Tamil Naddu", "Tamil Nadu"), ("Gujrat", "Gujarat"), ("Uttrakhand", "Uttarakhand"), ("Orrisa", "Odisha"),
+    ("Rajastan", "Rajasthan"), ("Kerela", "Kerala"), ("Keralam", "Kerala"), ("ANDHRA PRADESH ", "Andhra Pradesh"),
+    ("Goaa", None), ("Bharat", None),
+])
+def test_misspelt_states(raw, want):
+    assert normalize_state(raw) == want
+
+
 # --- dates ---------------------------------------------------------------------
 
 def test_utc_timestamp_is_converted_to_india_time():
@@ -57,6 +67,31 @@ def test_utc_timestamp_is_converted_to_india_time():
 ])
 def test_loose_dates(raw, want):
     assert parse_date(raw) == want
+
+
+@pytest.mark.parametrize("raw,want", [
+    ("21st Septmber, 2026", ("2026-09-21", "day")), ("3 Febuary 2026", ("2026-02-03", "day")),
+    ("Tuesday, 10 November 2026", ("2026-11-10", "day")), ("Updated: Nov 10, 2026 10:30 IST", ("2026-11-10", "day")),
+    ("Sept. 21 2026", ("2026-09-21", "day")), ("21-09-26", ("2026-09-21", "day")), ("21.09.2026", ("2026-09-21", "day")),
+    ("09/21/2026", ("2026-09-21", "day")), ("2026/09/21", ("2026-09-21", "day")), ("2026-07-07 20:30:00", ("2026-07-08", "day")),
+    ("early March 2026", ("2026-03-01", "month")), ("mid-March 2026", ("2026-03-01", "month")),
+    ("first week of March 2026", ("2026-03-01", "month")), ("09/2026", ("2026-09-01", "month")),
+    ("Q3 2026", ("2026-07-01", "quarter")), ("Jan-Mar 2026", ("2026-01-01", "quarter")),
+    ("FY 2025-26", ("2025-04-01", "year")), ("2025-26", ("2025-04-01", "year")),
+    ("soon", ("", "unknown")), ("recently", ("", "unknown")), ("yesterday", ("", "unknown")), ("32/13/2026", ("", "unknown")),
+])
+def test_more_date_patterns(raw, want):
+    assert parse_date(raw) == want
+
+
+def test_relative_dates_need_a_reference_day():
+    from datetime import date
+    ref = date(2026, 11, 10)
+    assert parse_date("yesterday", today=ref) == ("2026-11-09", "day")
+    assert parse_date("3 days ago", today=ref) == ("2026-11-07", "day")
+    assert parse_date("5 hours ago", today=ref) == ("2026-11-10", "day")
+    assert parse_date("last week", today=ref) == ("2026-11-01", "month")
+    assert parse_date("last month", today=ref) == ("2026-10-01", "month")
 
 
 def test_date_from_url():

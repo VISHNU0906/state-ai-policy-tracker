@@ -47,7 +47,5 @@ QUERY_TEMPLATES = {
 
 # Deduplication
 DEDUP_WINDOW_DAYS = 5      # two reports further apart than this are never merged
-DEDUP_THRESHOLD = 0.42     # IDF-weighted cosine similarity of headline tokens; tuned on data/review/dedup_pairs.csv
+DEDUP_THRESHOLD = 0.42     # IDF-weighted cosine similarity of headline tokens; tuned on hand-labelled pairs, see scripts/eval_dedupe.py
 
-# Relevance
-RELEVANCE_THRESHOLD = 4    # minimum score to keep a record, see pipeline/relevance.py

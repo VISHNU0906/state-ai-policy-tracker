@@ -76,6 +76,8 @@ STATES = [r for r in REGIONS if r.kind == "state"]
 # Words that make an ambiguous abbreviation ("MP", "AP", "HP", "WB", "TG") safe to read as a state.
 _GOV = r"(?:govt|government|cm|chief minister|cabinet|police|assembly|budget|minister|state|it minister)"
 
+_LEAD = r"(?:to|plans?|launch(?:es)?|signs?|unveils?|approves?|clears?|sets?|gets?|rolls?|introduces?|adopts?|drafts?|forms?|notifies|bets|eyes|mulls|turns|deploys?)"
+
 # Weights: a full state name is strong evidence, a city is weak.
 W_NAME, W_ABBREV, W_CITY = 3, 3, 1
 
@@ -95,7 +97,9 @@ def _compile():
         for a in r.abbrevs:
             pats.append((re.compile(rf"(?<![A-Za-z.]){re.escape(a)}(?![A-Za-z])"), W_ABBREV, "abbrev"))
         for a in r.gov_abbrevs:
-            pats.append((re.compile(rf"(?<![A-Za-z]){re.escape(a)}(?:'s)?\s+{_GOV}\b", re.I if False else 0), W_ABBREV, "abbrev"))
+            pats.append((re.compile(rf"(?<![A-Za-z]){re.escape(a)}(?:'s)?\s+{_GOV}\b"), W_ABBREV, "abbrev"))
+            # At the very start of a headline, "MP to set up ..." means the state, not a legislator.
+            pats.append((re.compile(rf"^{re.escape(a)}\s+{_LEAD}\b"), W_ABBREV, "abbrev"))
         for c in r.cities:
             pats.append((re.compile(rf"(?<![A-Za-z]){_flex(c)}(?![a-z])", re.I), W_CITY, "city"))
         table.append((r, pats))
@@ -112,19 +116,24 @@ _FALSE_CONTEXT = {
 
 
 def find_regions(text: str) -> dict:
-    """Return {canonical name: {"score": int, "evidence": [kinds]}} for every region mentioned."""
+    """Return {canonical name: {"score", "evidence", "first"}} for every region mentioned.
+
+    `first` is the character position of the first mention, used to break ties.
+    """
     hits = {}
     for region, pats in _TABLE:
-        score, kinds = 0, []
+        best, first = {}, len(text)      # per kind of evidence, the largest match count
         for pat, w, kind in pats:
-            n = len(pat.findall(text))
-            if n:
-                score += w * min(n, 3)
-                kinds.append(kind)
+            found = list(pat.finditer(text))
+            if found:
+                # "Andhra Pradesh" also matches the alias "Andhra"; count the mention once, not twice.
+                best[kind] = max(best.get(kind, 0), w * min(len(found), 3))
+                first = min(first, found[0].start())
+        score, kinds = sum(best.values()), list(best)
         if score and region.name in _FALSE_CONTEXT and _FALSE_CONTEXT[region.name].search(text):
             continue
         if score:
-            hits[region.name] = {"score": score, "evidence": sorted(set(kinds))}
+            hits[region.name] = {"score": score, "evidence": sorted(set(kinds)), "first": first}
     # "Andhra Pradesh" must not also count as a bare "Pradesh" hit elsewhere, and
     # "Bengal" inside "West Bengal" is the same region, so no extra handling needed.
     return hits

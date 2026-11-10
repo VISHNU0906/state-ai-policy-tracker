@@ -1,6 +1,7 @@
 requests
-beautifulsoup4
-rapidfuzz
-openpyxl
+trafilatura
 googlenewsdecoder
+openpyxl
 pytest
+# optional, only for the LLM check step:
+# anthropic

@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import time
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -36,6 +37,8 @@ def search(query: str, cache_dir: Path, delay: float = 1.0, refresh: bool = Fals
     path = _cache_path(cache_dir, query)
     if path.exists() and not refresh:
         return json.loads(path.read_text(encoding="utf-8"))["items"]
+    if os.environ.get("PIPELINE_OFFLINE") == "1":
+        raise RuntimeError("not in cache (offline run)")
 
     url = BASE.format(q=quote_plus(query))
     for attempt in range(4):

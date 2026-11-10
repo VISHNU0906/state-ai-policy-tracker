@@ -61,6 +61,8 @@ def cached_get(cache_dir: Path, cache_key: str, url: str, params: dict | None = 
     path = cache_dir / (hashlib.sha1(cache_key.encode()).hexdigest()[:16] + ".txt")
     if path.exists():
         return path.read_text(encoding="utf-8")
+    if os.environ.get("PIPELINE_OFFLINE") == "1":
+        raise RuntimeError("not in cache (offline run)")
     last = None
     for attempt in range(retries):
         time.sleep(pre_delay)

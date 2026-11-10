@@ -13,6 +13,8 @@ and reported in the README numbers.
 
 Run:  python -m pipeline.collect            (all sources)
       python -m pipeline.collect google_news_rss gdelt   (a subset)
+      PIPELINE_OFFLINE=1 python -m pipeline.collect      (cache only, no network; reproduces the
+                                                          committed dataset exactly)
 """
 from __future__ import annotations
 

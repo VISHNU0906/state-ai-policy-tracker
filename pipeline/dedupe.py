@@ -10,24 +10,31 @@ Method
 1. Only compare items attributed to the same state and published within
    DEDUP_WINDOW_DAYS of each other. This removes most false merges up front
    and keeps the comparison count small.
-2. Turn each headline into a bag of content words: lower-cased, light
-   stemming, stop words removed, and the state name and generic words
-   ("govt", "AI", "launches") removed because every headline in the bucket
-   has them and they say nothing about which event it is.
+2. Turn each headline into a bag of content words: lower-cased, hyphenated
+   words split, light stemming, common synonyms mapped to one word ("pact",
+   "MoU", "agreement"), and stop words removed. The state name and generic
+   words ("govt", "AI", "launches") are stop words here because every
+   headline in the bucket has them and they say nothing about which event
+   it is.
 3. Weight words by rarity across the whole corpus (IDF). A shared rare token
    such as "tcs", "70000" or "sandbox" is strong evidence of the same event;
    a shared common token such as "school" is weak evidence.
-4. Similarity = cosine of the weighted bags. Pairs above DEDUP_THRESHOLD are
-   linked.
-5. Clusters are built with complete linkage in spirit: an item joins a
-   cluster only if it is similar to the cluster's seed (its earliest item),
-   not to any member. Plain single linkage chains A~B~C into one cluster even
-   when A and C are unrelated.
+4. Similarity = the mean of weighted cosine and weighted overlap. Cosine alone
+   penalises a short headline matched against a long one. Pairs at or above
+   DEDUP_THRESHOLD are linked.
+5. Linked pairs are joined into clusters transitively. A big announcement is
+   reported in dozens of wordings; no single headline resembles all the
+   others, but each resembles some. An earlier version compared every
+   headline only with the first one in its cluster and split such stories
+   into many records. The cost of transitive linking is that a running story
+   (deal signed, questioned, then cancelled within five days) can chain into
+   one record; the measured error rate is reported in the README.
 6. Identical publisher URLs are always merged (the same article found by two
    sources).
 
-The threshold was tuned on hand-labelled pairs in data/review/dedup_pairs.csv;
-scripts/eval_dedupe.py prints precision and recall.
+The threshold was chosen on hand-labelled pairs in data/review/dedup_pairs.csv.
+scripts/eval_dedupe.py prints precision and recall, measured on whether each
+labelled pair ends up in the same cluster.
 """
 from __future__ import annotations
 
@@ -42,29 +49,41 @@ from .states import REGIONS
 STOP = set("""
 a an the and or of to in on for with by at from as is are was were be been will its it this that their his her
 govt government state states cm chief minister ministers cabinet says said say new first india indian indias
-ai artificial intelligence based powered driven enabled led using use uses used via amid over after into across
+ai artificial intelligence based powered driven enabled led ready using use uses used via amid over after into across
 launch launches launched unveil unveils unveiled announce announces announced sign signs signed set sets up plan plans
-planned get gets soon now all more also under through among how why what key big major top
+planned get gets soon now all more also under through among how why what key big major top push rolls roll out
 """.split())
 for _r in REGIONS:
     for _n in (_r.name,) + _r.names + _r.abbrevs + _r.gov_abbrevs:
         STOP.update(re.findall(r"[a-z]+", _n.lower()))
 
+# Different words that headline writers use for the same thing.
+SYNONYMS = {
+    "varsity": "university", "cr": "crore", "coe": "excellence", "pact": "mou", "agreement": "mou",
+    "memorandum": "mou", "deal": "mou", "partner": "mou", "partnership": "mou", "ink": "mou", "tie": "mou",
+    "approve": "clear", "nod": "clear", "okay": "clear", "scrap": "cancel", "hub": "center", "computer": "pc",
+    "student": "school", "cop": "police", "train": "training", "skilling": "training", "skill": "training",
+    "course": "training", "education": "training", "learn": "training", "class": "training", "bag": "win",
+    "contract": "win", "bid": "win", "establish": "setup", "build": "setup",
+}
+
 _NUM = re.compile(r"\d[\d,]*(?:\.\d+)?")
-_WORD = re.compile(r"[a-z][a-z\-]{2,}")
+_WORD = re.compile(r"[a-z]{3,}")
 
 
 def _stem(w: str) -> str:
-    for suf in ("ies", "ing", "ed", "es", "s"):
-        if w.endswith(suf) and len(w) - len(suf) >= 4:
-            return w[: -len(suf)] + ("y" if suf == "ies" else "")
-    return w
+    if not w.endswith("ss"):
+        for suf in ("ies", "ing", "ed", "es", "s"):
+            if w.endswith(suf) and len(w) - len(suf) >= 3:
+                w = w[: -len(suf)] + ("y" if suf == "ies" else "")
+                break
+    return SYNONYMS.get(w, w)
 
 
 def tokens(title: str) -> list[str]:
     low = title.lower().replace("’", "'").replace("centre", "center")
-    nums = [n.replace(",", "") for n in _NUM.findall(low)]            # 70,000 -> 70000
-    words = [_stem(w.replace("-", "")) for w in _WORD.findall(low) if w not in STOP]
+    nums = [n.replace(",", "").split(".")[0] for n in _NUM.findall(low)]   # 70,000 -> 70000, 122.6 -> 122
+    words = [_stem(w) for w in _WORD.findall(low) if w not in STOP]        # hyphenated words split into parts
     return [w for w in words if w not in STOP] + [n for n in nums if len(n) >= 2]
 
 
@@ -75,13 +94,16 @@ def build_idf(token_lists) -> dict:
 
 
 def similarity(a: list[str], b: list[str], idf: dict) -> float:
+    """Mean of rarity-weighted cosine and rarity-weighted overlap, in [0, 1]."""
     sa, sb = set(a), set(b)
     if not sa or not sb:
         return 0.0
-    dot = sum(idf.get(t, 1.0) ** 2 for t in sa & sb)
-    na = math.sqrt(sum(idf.get(t, 1.0) ** 2 for t in sa))
-    nb = math.sqrt(sum(idf.get(t, 1.0) ** 2 for t in sb))
-    return dot / (na * nb)
+
+    def weight(ts):
+        return sum(idf.get(t, 1.0) ** 2 for t in ts)
+
+    shared, wa, wb = weight(sa & sb), weight(sa), weight(sb)
+    return 0.5 * shared / math.sqrt(wa * wb) + 0.5 * shared / min(wa, wb)
 
 
 def cluster(items: list[dict], threshold: float = None, window: int = None) -> list[list[int]]:
@@ -92,33 +114,30 @@ def cluster(items: list[dict], threshold: float = None, window: int = None) -> l
     idf = build_idf(toks)
     days = [date.fromisoformat(it["date"]).toordinal() for it in items]
 
-    by_state = defaultdict(list)
+    parent = list(range(len(items)))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    by_state, by_url = defaultdict(list), {}
     for i, it in enumerate(items):
         by_state[it["state"]].append(i)
+        if it.get("url"):
+            parent[find(i)] = find(by_url.setdefault(it["url"], i))   # the same article found twice
 
-    clusters = []
     for idxs in by_state.values():
         idxs.sort(key=lambda i: (days[i], items[i]["title"]))
-        seeds = []   # (seed index, member list), in date order
-        url_home = {}
-        for i in idxs:
-            url = items[i].get("url")
-            if url and url in url_home:
-                url_home[url].append(i)
-                continue
-            best, best_sim = None, threshold
-            for seed, members in reversed(seeds):
-                if days[i] - days[seed] > window:
+        for pos, i in enumerate(idxs):
+            for j in idxs[pos + 1:]:
+                if days[j] - days[i] > window:
                     break
-                s = similarity(toks[i], toks[seed], idf)
-                if s >= best_sim:
-                    best, best_sim = members, s
-            if best is None:
-                best = [i]
-                seeds.append((i, best))
-            else:
-                best.append(i)
-            if url:
-                url_home[url] = best
-        clusters.extend(m for _, m in seeds)
-    return clusters
+                if find(i) != find(j) and similarity(toks[i], toks[j], idf) >= threshold:
+                    parent[find(j)] = find(i)
+
+    groups = defaultdict(list)
+    for i in range(len(items)):
+        groups[find(i)].append(i)
+    return sorted(groups.values(), key=lambda g: (min(days[i] for i in g), items[g[0]]["title"]))

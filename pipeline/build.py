@@ -18,6 +18,7 @@ import json
 import re
 import sys
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
 
 from . import config, dedupe, enrich, export, llm, relevance, taxonomy
 from .dates import date_from_url, parse_date
@@ -36,6 +37,9 @@ PIB|PTI|ANI|ANI News|The Hindu|The Indian Express|The Times of India|Times of In
 LOW = ("pr newswire", "business wire", "businesswire", "newswire", "ani pr", "pnn", "tribune india pr")
 
 
+# "BENGALURU: ...", "New Delhi, Nov 10 (PTI): ..." at the start of a description
+DATELINE = re.compile(
+    r"^[A-Z][A-Za-z.]+(?: [A-Z][A-Za-z.]+)?(?:, [A-Z][a-z]{2,8}\.? \d{1,2})?(?: \((?:PTI|ANI|IANS|UNI)\))?\s*:\s+")
 TITLE_TAIL = re.compile(r"\s+[|–]\s+[^|–]{3,40}$")
 
 
@@ -63,7 +67,8 @@ def pick_summary(title: str, page: dict) -> tuple[str, str]:
     """One line saying what happened. Prefer the publisher's own description."""
     tkey = set(dedupe.tokens(title))
     for basis in ("description", "body_lead"):
-        text = enrich.first_sentences(page.get(basis, ""), 240)
+        text = DATELINE.sub("", (page.get(basis) or "").strip())
+        text = enrich.first_sentences(text, 240)
         # A description that only repeats the headline adds nothing.
         if len(text) >= 60 and len(set(dedupe.tokens(text)) - tkey) >= 4:
             return text, "publisher_description" if basis == "description" else "article_text"
@@ -99,6 +104,17 @@ def main(argv=None):
     funnel["events_after_dedupe"] = len(clusters)
 
     overrides = load_overrides()
+    if do_enrich:
+        # Fetch the first-choice page of every event up front, a few at a time. Results land in
+        # the on-disk cache, so the loop below reads them back instantly and in a fixed order.
+        first = []
+        for members in clusters:
+            group = [kept[i] for i in members]
+            first.append(min(group, key=lambda r: (source_rank(r["source_name"]), r["date"], r["title"])))
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            for n, _ in enumerate(pool.map(enrich.enrich, first), 1):
+                if n % 50 == 0:
+                    print(f"fetched {n}/{len(first)} pages", flush=True)
     records = []
     for n, members in enumerate(clusters, 1):
         group = sorted((kept[i] for i in members), key=lambda r: (r["date"], r["title"]))
@@ -118,8 +134,6 @@ def main(argv=None):
                 rep = cand
                 if page.get("fetch_status", "").startswith("ok"):
                     break
-            if n % 50 == 0:
-                print(f"enriched {n}/{len(clusters)}", flush=True)
         desc = page.get("description", "") or rep.get("description", "")
         summary, basis = pick_summary(rep["title"], page or {"description": desc})
         outlets = []

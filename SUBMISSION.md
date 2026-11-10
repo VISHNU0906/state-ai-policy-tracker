@@ -36,11 +36,11 @@ News is the fastest way to see what states are doing, but it is messy data. Thes
 
 I first ran the same search for all 28 states and looked at how much came back. I picked the working set from that count and from how the states are spread across the country. I then added Andhra Pradesh, Madhya Pradesh and Rajasthan so I could compare against a separate list of 85 policies collected from official documents. That gave me thirteen states. It is a sample I chose, so it should not be read as a ranking of all states.
 
+Figure 2 has the counts. Karnataka (99), Kerala (95) and Telangana (86) have the most policies. Kerala is the interesting one. It has 23 policies in 2023, when most states had fewer than five, and 20 of those 23 are about one project: the AI traffic cameras. The launch, the opposition's questions, the inquiry and the High Court order on payments all came through as separate rows. Some of those are real steps and some are follow-up stories. That taught me a high count can mean one controversial project, not many policies.
+
 ![Figure 2. Policies by state and year [2]](docs/figures/report/state_year.png)
 
 *Figure 2. Policies by state and year [2]*
-
-Karnataka (99), Kerala (95) and Telangana (86) have the most policies. Kerala is the interesting one. It has 23 policies in 2023, when most states had fewer than five, and 20 of those 23 are about one project: the AI traffic cameras. The launch, the opposition's questions, the inquiry and the High Court order on payments all came through as separate rows. Some of those are real steps and some are follow-up stories. That taught me a high count can mean one controversial project, not many policies.
 
 ![Figure 3. Policies recorded every half-year [2]](docs/figures/report/halfyear.png)
 

@@ -1,0 +1,11 @@
+Development diagnostic only: 31 headlines shared across halves; assistant labels, not independently adjudicated.
+136 of 140 labelled pairs found in the corpus, 100 same-event
+threshold | tune half  P    R    F1 | test half  P    R    F1 | records
+   0.15   |         0.86 1.00 0.93 |         0.88 1.00 0.93 | 901
+   0.20   |         0.91 1.00 0.95 |         0.94 1.00 0.97 | 940
+   0.25   |         0.96 1.00 0.98 |         0.96 1.00 0.98 | 967  <- in use
+   0.30   |         0.96 0.94 0.95 |         0.96 0.96 0.96 | 1008
+   0.35   |         0.96 0.94 0.95 |         0.98 0.92 0.95 | 1049
+   0.40   |         0.96 0.90 0.93 |         0.98 0.90 0.94 | 1091
+   0.45   |         0.97 0.74 0.84 |         0.98 0.86 0.91 | 1141
+   0.50   |         1.00 0.72 0.84 |         0.98 0.84 0.90 | 1187

@@ -1,0 +1,62 @@
+{
+  "state": {
+    "Andhra Pradesh": 70,
+    "Assam": 18,
+    "Bihar": 25,
+    "Gujarat": 55,
+    "Karnataka": 99,
+    "Kerala": 95,
+    "Madhya Pradesh": 15,
+    "Maharashtra": 83,
+    "Odisha": 44,
+    "Rajasthan": 17,
+    "Tamil Nadu": 57,
+    "Telangana": 86,
+    "Uttar Pradesh": 52
+  },
+  "category": {
+    "Funding and budget": 23,
+    "Government deployment": 317,
+    "Infrastructure and investment": 72,
+    "Institutions and bodies": 78,
+    "Partnerships and MoUs": 54,
+    "Policy and strategy": 43,
+    "Regulation and ethics": 22,
+    "Skilling and education": 107
+  },
+  "stage": {
+    "announced": 334,
+    "approved": 57,
+    "launched": 176,
+    "reversed": 4,
+    "signed": 85,
+    "unspecified": 60
+  },
+  "review_status": {
+    "auto": 171,
+    "legacy_headline_screen": 545
+  },
+  "summary_basis": {
+    "article_text": 47,
+    "headline": 40,
+    "publisher_description": 629
+  },
+  "gov_level": {
+    "central": 7,
+    "judiciary": 22,
+    "local": 7,
+    "state": 680
+  },
+  "year": {
+    "2022": 23,
+    "2023": 47,
+    "2024": 94,
+    "2025": 163,
+    "2026": 389
+  },
+  "records": 716,
+  "source_reports": 1306,
+  "rejected_items": 17253,
+  "date_basis": "earliest report in cluster, IST",
+  "cutoff": "2026-11-10"
+}

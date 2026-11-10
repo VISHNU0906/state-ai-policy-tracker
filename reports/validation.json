@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "records": 716,
+  "states": 13,
+  "source_reports": 1306,
+  "rejected_items": 17253,
+  "review_status": {
+    "legacy_headline_screen": 545,
+    "auto": 171
+  },
+  "representative_google_redirects": 0,
+  "source_table_google_redirects": 1206,
+  "sha256_csv": {
+    "record_sources.csv": "39dec561a7afe4433b52e61a7697bb42441a392b5484d297ea6fe8de03c594cc",
+    "records.csv": "60199cd80c1ff362094e9894e25dd37414a24fe2bcc4ad632bc0a8de10900ebc",
+    "rejected.csv": "20f4ec92e876f815c7eb6f8dde0043c999e92be5cbb154bf081259e1a65b4e47"
+  },
+  "checks": [
+    "unique IDs",
+    "required fields",
+    "known states",
+    "ISO date and window",
+    "descending date/state/title order",
+    "valid source foreign keys",
+    "one representative per record",
+    "rejection reasons",
+    "CSV/JSON equivalence",
+    "site CSV byte equality",
+    "review label vocabulary"
+  ]
+}

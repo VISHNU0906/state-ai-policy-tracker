@@ -71,7 +71,7 @@
     if (markFrom !== undefined && markFrom > 0) {
       const xm = (X(markFrom - 1) + X(markFrom)) / 2;
       svg.append(svgEl("line", { x1: xm, x2: xm, y1: m.t, y2: H - m.b, stroke: "#8b8a84", "stroke-dasharray": "6 5", "stroke-width": 1.2 }));
-      svg.append(svgEl("text", { x: xm + 8, y: m.t + 12, "font-size": 12.5 }, "hand-reviewed from here"));
+      svg.append(svgEl("text", { x: xm + 8, y: m.t + 12, "font-size": 12.5 }, "legacy headline screening period"));
       svg.append(svgEl("text", { x: xm - 8, y: m.t + 12, "text-anchor": "end", "font-size": 12.5 }, "rule output only"));
     }
     // muted series first so the coloured ones sit on top

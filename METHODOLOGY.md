@@ -1,6 +1,6 @@
 # Methodology
 
-How each field in the dataset is produced, in the order the pipeline runs. File names refer to `pipeline/`.
+The method below describes the corrected 716-record release. The report date is not a verified action date. Historical screening was assistant-produced. File names refer to `pipeline/`.
 
 ## 1. Collection (`collect.py`, `sources/`)
 
@@ -17,7 +17,7 @@ For Google News RSS, four query shapes are issued for every state and every cale
 
 The state term includes short forms where headlines use them (`"Uttar Pradesh" OR "UP govt" OR "UP government"`). Each query carries `after:` and `before:` for one month. Monthly slicing keeps every query under the feed's 100-item ceiling; the collector logs any query that reaches it (none did).
 
-Every response is written to `data/raw/` keyed by a hash of the query. With `PIPELINE_OFFLINE=1` the collector reads only that cache, so the committed dataset can be rebuilt with no network and no drift. A source that fails is logged in `collect_log.json` and skipped; it never stops the run.
+Every response is written to `data/raw/` keyed by a hash of the query. With `PIPELINE_OFFLINE=1` the collector reads only that cache, so collection reads saved responses without network. Offline page-cache misses are explicit and do not fetch; the CSV outputs are checked for reproducibility. A source that fails is logged in `collect_log.json` and skipped; it never stops the run.
 
 ## 2. Relevance (`relevance.py`)
 
@@ -85,8 +85,8 @@ Two levels of identity are kept apart: an article (one row in `record_sources.cs
 2. **Tokens.** Lower-case; split hyphenated words; strip plural and tense endings; map synonyms to one word (pact, agreement, deal, partnership -> mou; varsity -> university; approve, nod, okay -> clear); keep numbers with commas and decimals removed (70,000 -> 70000); drop stop words, including the state's own name and words every headline shares (govt, AI, launches).
 3. **Weights.** Each token is weighted by inverse document frequency over all kept headlines, so a rare shared token (a company name, an amount) outweighs a common one (school).
 4. **Similarity.** Mean of weighted cosine and weighted overlap coefficient. Cosine alone penalises a short headline matched with a long one.
-5. **Link rule.** Link when similarity >= 0.25 + 0.08 x (days apart - 1). Never link a reversal headline (cancels, scraps, withdraws, stays) to a non-reversal one.
-6. **Clusters.** Linked pairs are joined with union-find. Identical publisher URLs are always joined.
+5. **Link rule.** Link when similarity >= 0.25 + 0.08 x max(0, days apart - 1). Never link a reversal headline (cancels, scraps, withdraws, stays) to a non-reversal one.
+6. **Clusters.** Linked pairs are joined with union-find. Identical publisher URLs are joined only when state and reversal status agree. This URL shortcut can span more than five days; it represents article identity, not proof that the article never changed.
 7. **Representative.** The headline most similar on average to the rest of its cluster, skipping press-release wires, with ties to established outlets and then the earliest. The record ID is the state code, the earliest date, and a hash of the earliest headline, so it does not change when the representative does.
 
 Measured results and the errors the review found are in the README.
@@ -97,7 +97,7 @@ For the representative article: resolve the Google redirect to the publisher URL
 
 ## 7. Classification (`taxonomy.py`)
 
-All three are read from the headline with ordered keyword rules.
+Category and stage use the headline. Sector first checks the headline, then the description. Government level combines relevance-stage central attribution with headline rules.
 
 - **Category.** First match in this order: Regulation and ethics, Policy and strategy, Funding and budget, Institutions and bodies, Infrastructure and investment, Partnerships and MoUs, Skilling and education. Anything else is Government deployment.
 - **Stage.** The cue word that comes first in the headline decides: signed, approved, launched or announced. "Maharashtra to launch ..." is announced; "Assam signs MoUs to bring ..." is signed. A reversal word anywhere gives reversed.
@@ -114,9 +114,31 @@ A CSV of decisions keyed by record ID: drop a record, or correct a field. The bu
 - **Headline-driven.** Relevance, category and stage are read from the headline. A relevant article whose headline names no state is dropped. Leader names ("Naidu", "Revanth") are not mapped to states.
 - **GDELT is mostly missing** and the keyed news APIs are untested (see Sources).
 - **Counts are reported activity, not policy quality.** A state with a larger English press shows more records.
-- **"Government deployment" is the default category** and holds 316 of 714 records. Some belong elsewhere.
+- **"Government deployment" is the default category** and holds 317 of 716 records. Some belong elsewhere.
 - **Stage is a headline cue.** "Announced" includes some loosely worded intentions.
-- **One reviewer.** The dedup labels and the review decisions were made by one reviewer, once, from headlines.
+- **Assistant screening.** The saved dedup labels and review decisions were assistant-produced from headlines. They were not independently human-adjudicated. The explicit historical-ID list prevents newly collected records from inheriting this status merely because their date is after 2025.
 - **Late duplicates.** Reports more than five days apart are not merged automatically.
 - **Google News RSS is unofficial** and its redirect links are decoded with a third-party library that depends on Google's page format.
 - **The optional LLM check step (`pipeline/llm.py`) has not been run.**
+
+## 10. Date and identity limits
+
+Numeric dates such as 03/04/2026 are read day first. That is an assumption, not disambiguating evidence. A naive timestamp is assumed to be UTC. Two-digit years 00 to 69 map to 2000 to 2069; 70 to 99 map to 1970 to 1999. Fuzzy month matching uses a similarity cutoff of 0.8 for words of at least five letters. Preserve the raw source when investigating a difficult date.
+
+Relative-hour phrases use the supplied reference day, so they can be wrong across midnight. Week phrases use a coarse month approximation and do not correctly distinguish every number of weeks. Use only dated source timestamps for the published timeline. These loose-date paths were not used for the released records, whose feed timestamps all parse at day precision. An unknown date is retained in the rejection log rather than assigned the collection date.
+
+A record ID is stable only while its state, earliest report date and earliest headline seed remain stable. A new earlier report or a split cluster can change identity. The final correction logs the two new IDs and confirms that none of the previous IDs disappeared. The SQLite file is an export, not a persistent observation ledger.
+
+## 11. Source relationships and review provenance
+
+Every main record has one representative report and at least one source-table row. All 716 representative links are direct publisher links. The source table preserves discovery URLs; 1,206 of its 1,306 links remain Google News redirects. It would be incorrect to describe every source link as resolved. Distinct outlet names can also refer to the same publisher or syndicated report, so n_outlets is not a count of independent corroborations.
+
+The historical screening flag uses data/review/legacy_screening_ids.json, a list of 545 IDs from the previous release. It is labelled legacy_headline_screen to avoid implying human article verification. Other rows use auto. Saved field overrides use override_applied if present. An assistant made the original screening decisions and pair labels. No article-level verification claim follows from these labels.
+
+The optional model stage is disabled in offline mode. Its configured model and API contract have not been live-tested in this project. Do not enable it merely to reproduce the dataset.
+
+## 12. Interpretation and reproducibility
+
+The published charts count records by report date. They do not estimate state policy quality, spending or programme benefit. The 2026 period ends on 10 November. Older indexing is less complete and review coverage differs across periods, so the rise in counts cannot be attributed solely to growth in policy activity.
+
+Run python -m scripts.validate_release after building. The checks cover required values, unique IDs, dates, sort order, source relationships, the review-label vocabulary and dashboard consistency. scripts.eval_dedupe prints a development diagnostic and the overlap between its halves. It is not a held-out accuracy estimate. The separate 85-event reference appendix is not merged into this release because its event dates and inclusion rules differ.

@@ -1,0 +1,5 @@
+*.csv -text
+*.xlsx -text
+*.sqlite -text
+*.pdf -text
+*.png -text

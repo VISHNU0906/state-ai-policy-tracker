@@ -1,0 +1,21 @@
+fetched 50/967 pages
+fetched 100/967 pages
+fetched 150/967 pages
+fetched 200/967 pages
+fetched 250/967 pages
+fetched 300/967 pages
+fetched 350/967 pages
+fetched 400/967 pages
+fetched 450/967 pages
+fetched 500/967 pages
+fetched 550/967 pages
+fetched 600/967 pages
+fetched 650/967 pages
+fetched 700/967 pages
+fetched 750/967 pages
+fetched 800/967 pages
+fetched 850/967 pages
+fetched 900/967 pages
+fetched 950/967 pages
+{'raw_items': 18559, 'passed_relevance': 1662, 'events_after_dedupe': 967, 'final_records': 716, 'dropped_in_review': 251}
+reject reasons: [('no_ai_term', 13318), ('no_government_actor', 1380), ('no_state_named', 1368), ('dropped_in_review', 356), ('no_concrete_step', 298), ('ai_misuse_or_crime_no_policy_step', 172), ('social_or_aggregator_source', 130), ('opinion_or_explainer', 62), ('union_territory', 41), ('meeting_or_event_only', 40), ('statement_only', 18), ('foreign_story', 16), ('party_politics', 16), ('commentary_or_reaction', 15), ('state_not_prioritised', 14), ('multi_state_roundup', 9)]

@@ -1,0 +1,27 @@
+name: Weekly candidate discovery
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: weekly-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python -m scripts.collect_recent
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: recent-candidates
+          path: data/interim/
+          retention-days: 30

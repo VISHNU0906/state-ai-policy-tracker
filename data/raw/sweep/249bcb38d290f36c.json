@@ -1,0 +1,85 @@
+{
+ "query": "\"Rajasthan\" (AI OR \"artificial intelligence\") (government OR govt OR policy OR cabinet OR minister) after:2026-05-01 before:2026-07-01",
+ "items": [
+  {
+   "title": "Rajasthan agriculture department, Wadhwani AI sign MoU for AI-based farming solutions",
+   "source_name": "ET Government",
+   "source_domain": "http://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUmxMVlRvQVl5OHFSNG1LejMtZnFaajhFYlpzeWh1WWo0bzdneDNncXgybi1hN0laNEdmTWl1NmpNaUt5VTN5dE1ZZU8wY0pXdXR3ekRpMDFaaGJLZ2ZMdjlwd1hSTkFxY3ZjcXVWWnpLeVhhcFZJdDVBRm5DampvbXNmUVh3VHVWdUZUb0N6a05kY1NZOFVUS0xRLXJnd0U4OFYtQjBCOE1PcmpqbG5OaEdVQ3U0ZTRGc1NIT25ZTGFOMjNSdzZ3MFJWaGotSkZ1cWhvU0ZsSkJiQzVvOThfYXlUWW16V1k0NUVlOXR30gHzAUFVX3lxTE5DTlhTSndoVk81VnU0SGJmS3BSNjNPZURKREh2M0lSMEhCbDlfR1NuWkxIQXJFNklLaWF6dzdGYUlZeUdPYkxIWEZybGk2SjRyQlFJZ2IxbnBNVnRVSmt5R2VLbm9GTmJwTmpreTAxa1ZIMWZHYXNTSnZQbENyYzRjbnkzNTNxbTd1cm90NFJvUVo2OXVzVUtIbC1YdzUwdEUySklwWU5kZURKMVFWY19Fc3dsb2M0ay03aTA3TXdfWE9yRm5ocEhMRWpmZFp1VG9EdVpPbkZjRU1XN2ZWeWtXdUpLSnN0Y1kyMEVpSm1XWWJRdw?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Farmers Get AI Tools For Crop Health And Real Time Weather Updates",
+   "source_name": "NDTV",
+   "source_domain": "https://www.ndtv.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0JOQVBZMXFtQkF6a1kzbElOdkpKS0JKWFRQY09NX2cwS1l0Q09IOV9wT3FJbmJ3bWEyd3ZfMmJsR0dMZW5nZG5Uc0FZem9GRktBZE5EU09IeHFlZGxGZ3JsSUpxaDRfdlk4U3VxejE4SFJhRU91X05Ec3hFenNucnNMQ1lNcG9aV3R1aW1oZ3J4anpINXFDbGpZaVRsQkxDcjNudDJNTUtsSkQ4NDdVUnV2bUVvZEl2ZGfSAcIBQVVfeXFMTXIzSlpfTF9KTHQ5SDRjRFRWdEUtWmx6Q1A5LWt2bTlnUHNGbldJZ1hhYVNieEt0Z08xRWN0UUxudEc2X0kweTJSSkhFMGZPMk9KTjY0alBUaUdfa2dRTWJqZlBkQzVfU1U3UFZRY1M5bDZqdC1NTS01Zk81WHJiLUl3ZlVFdDAtQlJJTEhfWnVyQnVXbGVrd04yZl84dV96Y0JRczBXMjV3SUtNSEtSMzZLVDY3YV9xV2JsemZLSzU0VEE?oc=5",
+   "published_utc": "2026-05-26T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "29th National e-Governance Conference commences at Rajasthan International Centre in Jaipur",
+   "source_name": "News On AIR",
+   "source_domain": "https://newsonair.gov.in",
+   "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDRxeGpXbHFtaEhmaUVmWUVYVmlhblZITW8wbFZFQWxXbThISXVaWVI0emk1VUFDbEhiVVcyTzFtOG9LeTNZd0EwSXo2VDN0dEt2cWZBd1VnN1BzaTNPeVJZLWJNX0h0VG5fZE1DSFpBR0JydnhkOURTOWdCX3hXUzA4aTVYMHVrQnFBOXpBY1EtMnZtamNubWFlVXUxMEpmeGRNVUVmeWVISzJvWEdTcmRUOXU4WDJm?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Technology must drive social inclusion: Rajasthan CM Bhajan Lal Sharma at National e-Governance Conference",
+   "source_name": "ANI News",
+   "source_domain": "https://www.aninews.in",
+   "google_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1FJUVo2YlRmOGo0ckZFZjV5RnlaMFlabUY5UTVBd2ZRdzlMdDRIMDBwSHE4MUU3ZEZVWlU2UDVWT1IzWHZzUnp4ZllNTFZuSFozWTNzc284amdDRXdrRURJQjB2U2F5N3B2YXBCUjQzVnU2Q3RWVlE5T2sxYjVYSWswYzlpWndIMjd0S2N3R2xPV2pZVkFmWUFwb0hwdEFWYi1jc0g4NEFCdUFiMEpwMjV6aEpfbkpKWXgzQXFLRmJ3aUZGTExKVU56eTZaNFJRUXN5TWJBdDRhYTF3QTFzTUpJWXhsdE9NdW5abTJMTmEyR001SXlUSg?oc=5",
+   "published_utc": "2026-07-01T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan Operationalizes India’s 13th Semiconductor Unit under SPECS",
+   "source_name": "India Briefing",
+   "source_domain": "https://www.india-briefing.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUxVczRlZnZtdzRabGQ5bHpyMFpIV1FuN09yOEVlR0V0X1duWFVXY2J4SEFNWXpaZDk5cG1pZ2lqckdoRVVRb0VIb1ZNMHloTVo0cDFsTUVLa3BxWEVWWGVReTZWRmNZakNHdlBzQ3Vjc2U3eE56Y2pFNUpHTnVXNUEwOHZaOGd6MFNWQzVqMFoybHA5eTlrMVQ0VU9iTGpoUFR6Qk94Z00?oc=5",
+   "published_utc": "2026-05-16T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Jaipur Hosts Rajasthan Education Summit 2026 Focused on Employment-Oriented AI Education",
+   "source_name": "SMEStreet",
+   "source_domain": "https://smestreet.in",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV01JUVVuU3pYbkMwb2dVdFZxWHUyamhGdnQyeWZmVUg0Vll4UTVaYUVheEZHVVE5cExaTjZXOWVOMEVxeUJnWWpxX2psRXRuNGVFVktTdVBiUjlaXzlBY2tZVjZ1MTNBYmREOTJ2eEtsWmNPaXNIUHRqeUJUVk9FNnpNNG9qYWRHWEVXcTBLbTlsM1FCS0RrY1JMWDFGUTlZUTdyWmVDVHBsbThabHRBZGl2bE5mY21JeUJpQUZlRUp4MnVE0gHEAUFVX3lxTE1XTUlRVW5TelhuQzBvZ1V0VnFYdTJqaEZ2dDJ5ZmZVSDRWWXhRNVphRWF4RkdVUTlwTFpONlc5ZU4wRXF5QmdZanFfamxFdG40ZUVWS1N1UGJSOVpfOUFja1lWNnUxM0FiZEQ5MnZ4S2xaY09pc0hQdGp5QlRWT0U2ek00b2phZEdYRVdxMEttOWwzUUJLRGtjUkxYMUZROVlRN3JaZUNUcGxtOFpsdEFkaXZsTmZjbUl5QmlBRmVFSngydUQ?oc=5",
+   "published_utc": "2026-06-02T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "AI-generated paper with answers forces Rajasthan University to cancel exam",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWEFNYnVfS202ZDJFSFRLZWU2OExSVklZbU1VMEZRaGRFbjNNWkJWYkVFTklDNjg3ZzBGNlNqQ1B6M09janFjMnV4dUVsTzlGNU5FSThZR0xaRS1tSDFpT0lxWDZfQ2VmRzF0MExMQTAyV3luNVVLTWVSZzcxMUtUOGtvRjJXMGc4XzgwM3ZJOUV6aGtlODM3d1FGR2hSQVR5RTYwdE9ZMERyOEFEUDgzQzhybTdYNlFTNWZRRXY3UG5iemRzbEMyeWtpUFRRa0FLcTJoNzJkR2ZXLTRHWUJ2N2dB0gHnAUFVX3lxTE10ZEVkZGxpaDU1VnhQSC01dmpyemlWenVnWHNwNmR3TFh2ZEhTWWJZenU2ZzVjVFJ5MkdFTllNQm5GVXlqUUh6b3BwNVZ6cTRwOFRfUFYzZF9veGdjLUI5NUhGa3l4dDM2Vmg2aExFd0dWdERDLVVlMXlHcURuaHY5TGpZU1BFZEZsd1N2REVuMmxqNGFHRW9Yc29sNk81cDFpQWhObjhtSUEyUnVFZzRGbEE2eXBFVFZNVE8yN3RFVk5CTHZKUzJiRE1nek9EbUNpWU5pV1kyTWF6VDJYQlNwb3BQTW9Jdw?oc=5",
+   "published_utc": "2026-06-17T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan building citizen-centric, digital healthcare ecosystem: Gayatri Rathore, Principal Secy, Health an..",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaXlfekNfX2NBNm9iZWR3RUY5SHRjV1hKVml3bnN5NEhKYlBaQWRCdjRwYzl3SjZZanpDMzVSYk9iWEgyUUtvZkstR1JabFJzdEJwYjBNLXZkZmlselFCbHRnTzZaNlhCTFJ0THg0N042WGNiWm1PaENKNDFqT3c5aUVjQU80SWszbXNteXR1MFBUNUNtbzdxRlZ4LVlLM0x4bzB4Z19ySS13MHYtbDY4SHozT1daWDU1ei1hazdTZGNEazNVZ0RlMVV5RWcwNzlqX3hxajFQVmlQWTlSU3ZxT0c0VdIB5wFBVV95cUxQTlV1X014UzVoOThLaDVmWU9IT0V1ZUd4SDVFcTYxVExtcjVrZWl6Z2JOZWduYUJCZExfZzlCVGdMbXZMcFVRYk83SWtGREgzR2F4MGlITWROQk9kSkE2R2k1aE9LakJNWHlKV2ExUUwzcmVNR0hmSDRsbnhDZm55UWhJc0R3eU9zbDJtcDBob3BtQ0U5YkszdWR2WmdwMVBWSFVIbnZMT3F4cEtMMk5kV0FqOVcyay1uUXFpeDg5WTNOT2Q0bEE0VkVubTVTUF9EMTVDVWZxOWlpN3Z3U05xSVZHU0tWdm8?oc=5",
+   "published_utc": "2026-05-27T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan education model gains national recognition",
+   "source_name": "The Times of India",
+   "source_domain": "https://timesofindia.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3VMYnc1UW5DVGVtaTVYeXNORTFMb2RHV3FHWUpVQVp3T2J6OV90bEhIM0RESlk1NHRNUTJQQmt4VkRrR2s1ZkdVbXI1U3d5YXlIUUJtcDNHS0lDWWhDa0I1NHpxVzBkRjgwT0FxQjNhY1pGMm1mMFB5QjU0T1FmdV9ObVZmYXhUOUhDbFp1eVZOSkVERXZDTkVKRjlXMklPQmdtSTJKRFB3cVRFSmI3QnZfeGxjWG1rVlV5dUE1T3ZXeG5C0gHKAUFVX3lxTFBwa1ZuNmN6bmI3dF90NTJyNC1WNWF2bURucDNtV2c0OTUyOUNsRXFVN0ExTFVHWDY3d256TVBOUTBXQTFmMllGNzZKSTBXbGgxS1I2eDBUN0dpQjIyak9HclRONm50M0h1aTB5ckR1eXYyNHVZNGJEeDI0RjNSRjdSdzBrMFRhSUJLX2NIVEJFTWdvMUsxMHQ1Y0pqZVE5cUgtM0dSTnV5VTlLbkJBeFJ4UUEyYk1iQ1l0endvNXRuYXE0N3RTRU9yZnc?oc=5",
+   "published_utc": "2026-05-21T07:00:00+00:00",
+   "origin": "google_news_rss"
+  },
+  {
+   "title": "Rajasthan CM Bhajan Lal Sharma to inaugurate 29th National Conference on e-Governance in Jaipur on July 1",
+   "source_name": "ET Government",
+   "source_domain": "https://government.economictimes.indiatimes.com",
+   "google_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPa2pWX09OQTByTHFXSVh6UEl4VEVwWUtMejh1UmczTUZhelhfbDFVdjN1VXdMT0JOYjVqN0ZJekxMVlAzMk94ZC0zV1B5Rmd1T1UyVDZ5TEcza3h4cjN0WkFRZ2QxVE9aRk94ekNLXzRzT1ZMTE0wcVV4eVp2YWZVNFJWdXpzYVhsVjdZcGpoWWZJc3JNc1BscTYySkk3ZWU0MzZpTlQ0YXpQanFmei1GOXpnV1AzWk1veHY1eVVjQ0tOSm4yc0NXbi1BeHB1Y2x2UDgybEpWOVBVb0VkVXR5ZXdTS1plVEs2VTNlX2pFQ1R0THMwc1VoV2xjU3pQRGJZVTVOd25KUnV5cGvSAY8CQVVfeXFMUGc1UmZRenR1bjhyN2VvNGFoZkZYTVhGQlBJZnpIQUhVNkRSRFRFWWJwVG9SOHB6bklrRjFWMUxpTlV2NmpHekJ1X2NWTTFPajBIckRXNXlzSmNsQXJYeC1fbjZHY0tsNXZQWVQ2ZHIzYlVRSkFoSkZWczQwV2NyQVg1WDRiNTVHblo5OEVHV0JOc3M1dVJ6end3YVZWamhDSklUcmpmeXZNWVZqeFpzWEZJUkpIajJ4MkVTc1JHVWhCV2lmNUZOVnFpdlNYaHBNTXhlWG9MbUJiekxYdXEtbmhydWFyb2pKemRLRjFWZFZfVkRyWnNybG80bEt1WHFuckRDZlk4WWs5aC1adV9qTQ?oc=5",
+   "published_utc": "2026-06-30T07:00:00+00:00",
+   "origin": "google_news_rss"
+  }
+ ]
+}

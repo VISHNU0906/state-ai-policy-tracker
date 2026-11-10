@@ -12,6 +12,7 @@ Design notes
 """
 from __future__ import annotations
 
+import difflib
 import re
 from dataclasses import dataclass, field
 
@@ -36,27 +37,27 @@ REGIONS = [
     Region("Bihar", "BR", "state", (), (), (), ("Patna",)),
     Region("Chhattisgarh", "CG", "state", ("Chattisgarh", "Chhatisgarh"), (), (), ("Raipur", "Nava Raipur")),
     Region("Goa", "GA", "state", (), (), (), ("Panaji", "Panjim")),
-    Region("Gujarat", "GJ", "state", (), (), (), ("Gandhinagar", "Ahmedabad", "GIFT City", "Surat")),
+    Region("Gujarat", "GJ", "state", ("Gujrat",), (), (), ("Gandhinagar", "Ahmedabad", "GIFT City", "Surat")),
     Region("Haryana", "HR", "state", (), (), (), ("Gurugram", "Gurgaon", "Panchkula")),
-    Region("Himachal Pradesh", "HP", "state", ("Himachal",), (), ("HP",), ("Shimla",)),
-    Region("Jharkhand", "JH", "state", (), (), (), ("Ranchi",)),
-    Region("Karnataka", "KA", "state", (), (), (), ("Bengaluru", "Bangalore", "Mysuru", "Mangaluru")),
-    Region("Kerala", "KL", "state", ("Keralam",), (), (), ("Thiruvananthapuram", "Kochi", "Kozhikode")),
+    Region("Himachal Pradesh", "HP", "state", ("Himachal", "Himanchal Pradesh"), (), ("HP",), ("Shimla",)),
+    Region("Jharkhand", "JH", "state", ("Jharkand",), (), (), ("Ranchi",)),
+    Region("Karnataka", "KA", "state", ("Karnatka",), (), (), ("Bengaluru", "Bangalore", "Mysuru", "Mangaluru")),
+    Region("Kerala", "KL", "state", ("Keralam", "Kerela"), (), (), ("Thiruvananthapuram", "Kochi", "Kozhikode")),
     Region("Madhya Pradesh", "MP", "state", (), (), ("MP",), ("Bhopal", "Indore")),
-    Region("Maharashtra", "MH", "state", ("Maha",), (), (), ("Mumbai", "Pune", "Nagpur", "Navi Mumbai")),
+    Region("Maharashtra", "MH", "state", ("Maha", "Maharastra"), (), (), ("Mumbai", "Pune", "Nagpur", "Navi Mumbai")),
     Region("Manipur", "MN", "state", (), (), (), ("Imphal",)),
     Region("Meghalaya", "ML", "state", (), (), (), ("Shillong",)),
     Region("Mizoram", "MZ", "state", (), (), (), ("Aizawl",)),
     Region("Nagaland", "NL", "state", (), (), (), ("Kohima",)),
-    Region("Odisha", "OD", "state", ("Orissa",), (), (), ("Bhubaneswar", "Cuttack")),
+    Region("Odisha", "OD", "state", ("Orissa", "Orrisa", "Odisa"), (), (), ("Bhubaneswar", "Cuttack")),
     Region("Punjab", "PB", "state", (), (), (), ("Mohali", "Ludhiana", "Amritsar")),
-    Region("Rajasthan", "RJ", "state", (), (), (), ("Jaipur", "Jodhpur", "Udaipur")),
+    Region("Rajasthan", "RJ", "state", ("Rajastan",), (), (), ("Jaipur", "Jodhpur", "Udaipur")),
     Region("Sikkim", "SK", "state", (), (), (), ("Gangtok",)),
     Region("Tamil Nadu", "TN", "state", ("Tamilnadu",), ("TN",), (), ("Chennai", "Coimbatore", "Madurai")),
     Region("Telangana", "TS", "state", ("Telengana",), (), ("TG",), ("Hyderabad", "Warangal")),
     Region("Tripura", "TR", "state", (), (), (), ("Agartala",)),
     Region("Uttar Pradesh", "UP", "state", (), ("UP", "U.P."), (), ("Lucknow", "Noida", "Kanpur", "Varanasi", "Prayagraj", "Greater Noida")),
-    Region("Uttarakhand", "UK", "state", ("Uttaranchal",), (), (), ("Dehradun",)),
+    Region("Uttarakhand", "UK", "state", ("Uttaranchal", "Uttrakhand"), (), (), ("Dehradun",)),
     Region("West Bengal", "WB", "state", ("Bengal",), (), ("WB",), ("Kolkata",)),
     # Union territories. Recognised so they are labelled correctly, but they
     # are outside the brief ("28 states") and are not prioritised for collection.
@@ -156,6 +157,13 @@ def normalize_state(raw: str):
     hits = find_regions(s)
     if len(hits) == 1:
         return next(iter(hits))
+    # Last resort for a single misspelt label ("Karnatak", "Telangna", "Tamil Naddu"): the closest
+    # canonical name, if it is close enough. Short labels are left alone; two letters off "Goa" is anything.
+    if not hits and len(key) >= 6:
+        names = {re.sub(r"[^a-z&]", "", r.name.lower()): r.name for r in REGIONS}
+        close = difflib.get_close_matches(key, list(names), n=1, cutoff=0.84)
+        if close:
+            return names[close[0]]
     return None
 
 

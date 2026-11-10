@@ -2,151 +2,189 @@
 
 ## State AI Policy Tracker
 
-A traceable collection of reported government policies across thirteen Indian states.<br/>Research window: 1 January 2022 to 10 November 2026.
-
-I built this around a simple question: when five headlines describe an AI announcement, what should count as one record? The tracker keeps the reports behind each record, explains the rules used to group them, and records what was dropped. It contains <b>716 records, 1,306 contributing reports and 17,253 excluded items with reasons</b>.
-
-![Figure 1. The live dashboard [1]](docs/figures/report/dashboard.png)
-Figure 1. The live dashboard [1]
-
-An announcement, a signed agreement and a working public service need different evidence. The tracker labels the reported stage; it does not verify delivery, spending or benefit. Seven central-government actions, 22 judiciary actions and seven local actions are labelled separately from 680 state-government records.
+A traceable collection of reported government policies across thirteen Indian states.  
+Research window: 1 January 2022 to 10 November 2026.
 
 [Dashboard](https://vishnu0906.github.io/state-ai-policy-tracker/) | [Trend charts](https://vishnu0906.github.io/state-ai-policy-tracker/trends.html) | [GitHub repository](https://github.com/VISHNU0906/state-ai-policy-tracker) | [Hugging Face dataset](https://huggingface.co/datasets/VKO34/INDIAN-STATE-WISE-AI-POLICY) | [Dataset CSV](https://vishnu0906.github.io/state-ai-policy-tracker/data/records.csv) | [Submission folder](https://drive.google.com/drive/folders/1eiXw9zKOpTp3EN4HnGmL0P7h-ZHP8095)
 
-## What the collection shows
+## What I built and why
 
-The same initial query was run across all 28 states. The selection used that discovery volume and geographical spread. Andhra Pradesh, Madhya Pradesh and Rajasthan were added for comparison with a separate document-led reference collection. These thirteen states are a deliberate sample, not a representative sample or a league table.
+When a state government announces something on AI, the same news shows up in many places. Karnataka's AI University announcement in July 2026 came back 39 times in my searches, each time with a different headline. If I count headlines, I am measuring how loud the news was. I wanted to count policies.
 
-![Figure 2. Records by state and report year [2]](docs/figures/report/coverage.png)
-Figure 2. Records by state and report year [2]
+So I built the tracker around one question: what should count as one policy? Here a policy means one concrete step by a government that involves AI. It can be a policy document, a new body, a signed agreement, a budget line, a launch or a rule. Every policy in the dataset keeps the news reports behind it, and every item I dropped is saved with the reason. Anyone can open a row and check my work.
 
-### The useful findings
+**716** policies | **13** states | **1,306** news reports behind them | **17,253** items dropped, each with a reason
 
-Karnataka has 99 retained records, Kerala 95 and Telangana 86. Those counts tell me where this collection found more reportable material. They also depend on English-language reporting, search indexing and the rules used to retain a headline. A small count cannot establish that a state did little.
+![Figure 1. The live dashboard [1]](docs/figures/report/site_top.png)
 
-The annual count rises from 23 in 2022 to 389 in 2026 through 10 November. Older search coverage and different screening coverage make a policy-growth estimate unsupported. The year chart is useful for finding periods to inspect, not for measuring a rate of adoption.
+*Figure 1. The live dashboard [1]*
 
-| Question | What the data supports | What it does not establish |
+## Where news data breaks
+
+News is the fastest way to see what states are doing, but it is messy data. These are the six problems I ran into. Each one shaped a part of the pipeline.
+
+|   | Where it breaks | What I did about it |
 | --- | --- | --- |
-| Where was activity reported? | State and report-date counts | A complete census of state action |
-| What stage was described? | Headline-based stage labels | Whether a programme was delivered |
-| How often was it reported? | Contributing reports and outlet labels | Independent corroboration by each outlet |
+| 01 | **One policy, many headlines.** The same announcement is reported by many outlets in different words. Counting headlines makes the loudest states look the busiest. | Match headlines on the rare words they share and merge them into one policy. |
+| 02 | **A cancellation looks like the original.** "UP signs Rs 25,000 crore MoU with Puch AI" and "UP cancels Rs 25,000 crore MoU with Puch AI" share almost every word. | A report of a cancellation never merges with a report that is not one. |
+| 03 | **State names are messy.** UP, U.P., Uttar-Pradesh and Uttar Pradesh are one state. MP can be Madhya Pradesh or a Member of Parliament. | A list of spellings for all 36 states and union territories. Short forms count only next to a government word. |
+| 04 | **Dates are loose.** Feeds give the time in UTC. Articles say "last week" or "FY 2025-26". | Convert to India time, store how exact each date is, and never guess a missing one. |
+| 05 | **Most AI news is not policy.** Opinion pieces, crime stories, company news. Sometimes AI means Air India. | Keep a report only if it has AI, a government and a concrete step. |
+| 06 | **An announcement is not delivery.** A headline tells me what was said, not what was built. | Label how far each policy got, as reported. I do not claim more than that. |
 
-## How a report becomes a record
+## What the data shows
 
-Google News RSS is the main discovery source because it can be queried without a paid key. Four query shapes cover government actors, policy instruments, public services, and infrastructure or rules. Each runs by state and month. Overlapping results are expected; the pipeline handles them explicitly. [3]
+I first ran the same search for all 28 states and looked at how much came back. I picked the working set from that count and from how the states are spread across the country. I then added Andhra Pradesh, Madhya Pradesh and Rajasthan so I could compare against a separate list of 85 policies collected from official documents. That gave me thirteen states. It is a sample I chose, so it should not be read as a ranking of all states.
 
-![Figure 3. Collection and processing pipeline [3]](docs/figures/report/pipeline.png)
-Figure 3. Collection and processing pipeline [3]
+![Figure 2. Policies by state and year [2]](docs/figures/report/state_year.png)
 
-| Source or step | Saved release | What to account for |
+*Figure 2. Policies by state and year [2]*
+
+Karnataka (99), Kerala (95) and Telangana (86) have the most policies. Kerala is the interesting one. It has 23 policies in 2023, when most states had fewer than five, and 20 of those 23 are about one project: the AI traffic cameras. The launch, the opposition's questions, the inquiry and the High Court order on payments all came through as separate rows. Some of those are real steps and some are follow-up stories. That taught me a high count can mean one controversial project, not many policies.
+
+![Figure 3. Policies recorded every half-year [2]](docs/figures/report/halfyear.png)
+
+*Figure 3. Policies recorded every half-year [2]*
+
+The count goes from 23 in 2022 to 389 in 2026, with 2026 only up to 10 November. I think part of that rise is real and part of it comes from the search index, because older news is harder to find. So I would not quote this chart as a growth rate. I use it to decide which periods to look at more closely.
+
+![Figure 4. Category of policy, and how far each one got [2]](docs/figures/report/category_stage.png)
+
+*Figure 4. Category of policy, and how far each one got [2]*
+
+Most of what states do with AI is put it to use. 317 of the 716 policies are deployments in policing, schools, farming and public services. That bar is larger than it should be, because my rules also place a policy there when no other category fits. Only 43 are policy or strategy documents and 22 are rules. Close to half (334) were only announced, and 4 were reversed.
+
+One limit applies to all three charts. I searched English news only. A state with a small count may simply be covered more in Hindi, Telugu or Odia papers that I did not search.
+
+## How a news report becomes a policy
+
+![Figure 5. The pipeline in six steps [3]](docs/figures/report/pipeline_steps.png)
+
+*Figure 5. The pipeline in six steps [3]*
+
+I used Google News RSS as the main source. It is free, it needs no key, and it lets me search by state and by month. For each of the 13 states and each of the 59 months I ran four searches: one on the government itself, one on policy instruments, one on public services and one on infrastructure and rules. That is 3,068 searches. None of them reached the 100-result limit, which was my check that a busy month was not being cut off.
+
+| Source | What came back | Where it stands |
 | --- | --- | --- |
-| Google News RSS | 3,068 query responses; 36,855 hits | No response reached the 100-item warning threshold. This is not proof of complete coverage. |
-| GDELT and Bing RSS | 896 and 172 hits respectively | GDELT was substantially incomplete. Across sources, 391 attempts failed or were skipped. |
-| Page extraction | Local trafilatura; cached redirect resolution | Try up to three reports per cluster. Blocked pages can leave only a description or headline. |
-| Keyed providers | GNews, NewsAPI and NewsData adapters | Not live-tested in this release. Tavily fallback was unused; Exa, Firecrawl and Crustdata are not integrated. |
+| Google News RSS | 3,068 searches, 36,855 results | The main source. Free, and it worked on every search. |
+| GDELT | 896 results | Rate limited on most calls, so its coverage is incomplete. |
+| Bing News RSS | 172 results | Recent weeks only. |
+| Publisher pages | Summaries for 676 of the 716 policies | Read on my own machine with trafilatura. 629 summaries use the publisher's description and 47 use the article text. The other 40 repeat the headline because the site blocked the read. |
+| GNews, NewsAPI, NewsData | Nothing yet | The code is written, but I never ran it with a key. I do not count these as sources. |
 
-After repeated discovery items are collapsed, the build has 18,559 items. Relevance rules retain 1,662, clustering forms 967 groups, and saved exclusions leave 716 records. These are different processing stages: 36,855 Google hits are not 36,855 distinct articles. The offline replay reads caches and makes no page or optional model calls.
+Every response is saved to disk. The whole dataset can be rebuilt from those saved files with no network and no paid key.
 
-## Keep the original meaning of names and dates
+![Figure 6. From search results to policies [3]](docs/figures/report/funnel.png)
 
-A search for Uttar Pradesh can return a story about another state. The query therefore never supplies the state label. The headline is checked first, then the description when it names no state. The rules favour a full state name over a city and require context for ambiguous abbreviations. [4]
+*Figure 6. From search results to policies [3]*
 
-| Input or context | Stored result | Rule |
+The biggest cut is the filter. A news item stays only if it mentions AI, names a government and reports a concrete step. Everything else is dropped, and the reason is written next to it in rejected.csv.
+
+![Figure 7. Why 17,253 items were dropped [2]](docs/figures/report/dropped.png)
+
+*Figure 7. Why 17,253 items were dropped [2]*
+
+## Getting state names and dates right
+
+### State names
+
+A search for Uttar Pradesh can return a story about Bihar. So I never take the state from the search. I read it from the headline, and from the description only when the headline names no state. A full state name beats a city name, and a short form like MP counts only when a government word sits next to it. [4]
+
+| What the news says | What I store | Rule |
 | --- | --- | --- |
-| Uttar-Pradesh; UttarPradesh; U.P. | Uttar Pradesh | Aliases, spacing and whole-word matching |
-| Karnatka; Maharastra; Orissa | Karnataka; Maharashtra; Odisha | Explicit spelling and historical-name aliases |
-| MP govt; Congress MP | Madhya Pradesh; no MP state match | Ambiguous abbreviations need government context |
-| Bengaluru with no state named | Karnataka | City evidence has lower weight |
-| Tamil Naddu in a state-label cell | Tamil Nadu | Edit similarity >= 0.84 for labels of at least six letters; not a general headline correction |
+| Uttar-Pradesh, UttarPradesh, U.P. | Uttar Pradesh | Known spellings, matched as whole words |
+| Karnatka, Maharastra, Orissa | Karnataka, Maharashtra, Odisha | Common misspellings and old names, listed by hand |
+| MP govt | Madhya Pradesh | A short form next to a government word |
+| Congress MP | No state | Here MP is a Member of Parliament |
+| Bengaluru, with no state named | Karnataka | A city counts, but less than a state name |
+| Tamil Naddu | Tamil Nadu | Close spelling match (0.84 or higher), only for names of six letters or more |
 
-### Report date and action date are separate facts
+### Dates
 
-The published date is the earliest report timestamp in a cluster, converted to India time. All 716 released records have day precision because the feeds supplied timestamps. That does not verify the day a government order was issued.
+The date on each policy is the date of the earliest news report about it, in India time. It is not the date a government order was signed. I kept those two apart on purpose. A news date is something I can check. An order date is something I would be guessing from a headline.
 
-| Input | Stored date and precision | Reason or limit |
+| What comes in | What I store | Why |
 | --- | --- | --- |
-| 2026-07-07T20:30:00Z | 2026-07-08 / day | Convert to IST before taking the date |
-| 03/04/2026 | 2026-04-03 / day | Day-first assumption; ambiguous input |
-| Sep 2026; Q3 2026 | 2026-09-01 / month; 2026-07-01 / quarter | First day is a storage anchor, not an exact date |
-| FY 2025-26 | 2025-04-01 / year | Financial-year anchor |
-| recently; invalid date; no usable date | Empty / unknown | Reject as no_date if feed and URL provide no date |
+| 2026-07-07T20:30:00Z | 2026-07-08, exact day | 8:30 pm UTC is already the next day in India |
+| 03/04/2026 | 2026-04-03, exact day | India writes the day first |
+| Sep 2026 | 2026-09-01, month only | The first of the month is a placeholder, and it is marked as one |
+| Q3 2026 | 2026-07-01, quarter only | Same idea, for a quarter |
+| FY 2025-26 | 2025-04-01, year only | The financial year starts in April |
+| "recently", or no date at all | Dropped | I never fill in the day I collected it |
 
-The general parser handles month spelling errors and relative expressions, but relative hours can fail across midnight and week phrases are approximate. Those paths were not used for the published feed timestamps. Missing dates are never replaced with the collection date.
+All 716 policies have an exact day, because the feeds gave timestamps. The rules for vague dates are in the code and tested, but this release did not need them.
 
-## Match reports without losing a later reversal
+## Removing duplicates
 
-The matcher compares reports attributed to the same state and at most five days apart. It removes common words, applies light stemming and a small synonym map, and gives rare shared terms more weight. Repeated words in one headline count once. A cancellation headline cannot merge with a non-cancellation headline. [5]
+This was the hardest part, and I got it wrong twice before it worked.
 
-![Figure 4. Duplicate matching score [5]](docs/figures/report/dedup_formula.png)
-Figure 4. Duplicate matching score [5]
+My first version compared every headline with the first headline in its group. Big stories split into many policies, because no single headline looks like all the others. I changed it to link any two headlines that match and then join the chains. That fixed the splitting and created the opposite problem. A signing and its cancellation four days later became one policy.
 
-A and B are sets of normalised headline tokens. N is the number of compared headlines; df(t) counts headlines containing t; delta d is the date gap in whole days. Empty token sets score zero.
+This is how it works now. [5]
 
-The first term measures shared weighted content relative to both headlines. The second measures how much of the shorter weighted set is shared. Averaging them lets a short headline match a longer version without relying on a common state name or the word AI.
+1. Compare only headlines from the same state that are at most five days apart.
+2. Break each headline into words. Drop the common ones and the state name, since every headline in the group has them. Treat words that mean the same thing as one word, so pact, deal and agreement all become MoU.
+3. Give rare words more weight. Two headlines that share "Puch" or "25,000" are very likely about the same thing. Two that share "school" may not be.
+4. Score the pair. If the score clears the bar, the two reports are the same policy. The bar goes up for every extra day between them.
+5. A report of a cancellation is never merged with a report that is not one.
 
-| Date gap in days | 0 or 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- |
-| Required score | 0.25 | 0.33 | 0.41 | 0.49 | 0.57 |
+![Figure 8. The matching score [5]](docs/figures/report/formula.png)
 
-### A small worked example
+*Figure 8. The matching score [5]*
 
-For illustration, let W(A) = 9, W(B) = 16 and W(A intersect B) = 8. Then S = 0.5 x 8/12 + 0.5 x 8/9 = <b>0.778</b>. A same-state, same-reversal-status pair three days apart clears 0.41. A reversal mismatch still prevents the link. These are illustrative weights, not a measured article pair.
+Figure 9 takes two of the 39 reports on the Karnataka AI University. After the common words are removed, headline A has two words left and both are in headline B. The score is 0.76 against a bar of 0.25, so they merge. The weights in the figure are worked out from the 1,306 published headlines.
 
-Linked pairs form connected groups using union-find. Identical URLs can also join reports beyond five days, but only if state and reversal status agree. The representative headline is chosen for similarity to the rest, with outlet and time tie-breakers. The earliest report supplies the date and ID seed. Every contributing report stays in record_sources.csv.
+![Figure 9. A real pair from the dataset [2]](docs/figures/report/worked.png)
 
-This design can still chain related actions into one group, leave late reports as duplicates, or lose detail when decimal amounts are truncated. A newly found earlier report can change an ID. Similarity is a grouping rule, not proof of event identity.
+*Figure 9. A real pair from the dataset [2]*
 
-## Show how much evidence each record has
+![Figure 10. The bar rises as reports get further apart [5]](docs/figures/report/threshold.png)
 
-![Figure 5. Summary basis and headline stage [2]](docs/figures/report/evidence_quality.png)
-Figure 5. Summary basis and headline stage [2]
+*Figure 10. The bar rises as reports get further apart [5]*
 
-Most summaries use publisher descriptions: 629 of 716. Only 47 use extracted article text; 40 repeat the headline. All representative links are direct publisher links, but 1,206 of the 1,306 supporting links still use Google redirects. A report from another outlet may also be syndicated, so it is not automatically independent evidence.
+### The bug found late
 
-| Check | Observed result | Boundary |
+The Uttar Pradesh story in Figure 10 is the reason the cancellation rule exists. The signing and the cancellation score 0.82, well above the bar of 0.49 for reports four days apart. Only that rule keeps them apart. The final check before release found two holes in it. The pattern that spots words like "cancels" and "scraps" had broken characters in it, and reports that shared a link skipped the check completely. Fixing both separated two policies that had been merged, and the total went from 714 to 716. [7]
+
+| Policy | Date of the report | What happened |
 | --- | --- | --- |
-| Release and regression tests | 97 tests passed in the release checkout and extracted code ZIP | Structural consistency, not verification of article claims |
-| Review history | 545 legacy_headline_screen; 171 auto | Historical screening and pair labels were assistant-produced, not independent human article review |
-| Duplicate-pair diagnostic | 136 of 140 labelled pairs found; reporting precision 0.96, recall 1.00 | Development diagnostic only: 31 headlines overlap halves; changes used errors across the set |
-| Offline replay | Published CSV outputs reproduced in the release check | XLSX and SQLite binary bytes can differ; compare rows and values |
+| Uttar Pradesh cancels the Puch AI MoU | 27 March 2026 | The MoU was signed on 23 March and cancelled on 26 March. These are now two policies, one signed and one reversed. |
+| Kerala High Court halts payments for the AI cameras | 21 June 2023 | The court order came the day before the report. It is now its own policy, marked reversed. |
 
-Precision = TP / (TP + FP); recall = TP / (TP + FN). Here, a positive prediction means two labelled headlines end up in the same cluster. These formulas do not fix the evaluation design: shared headlines and assistant labels prevent an independent accuracy claim. [6]
+Some things can still go wrong. A running story can chain into one policy if each report resembles the next. A report that comes more than five days later stays separate. Two different policies from one state in the same week, announced in similar words, can merge.
 
-The broad Government deployment category contains 317 records because it is also the fallback category. It needs further review. I would not report those rows as 317 operating services.
+As the saying goes, prevention is ideal but detection is a must. I could not prevent every wrong merge, so I made sure each one can be detected. Every report behind a policy is listed in record_sources.csv, and a wrong merge shows up as soon as someone reads that list.
 
-## An agreement and its cancellation are different events
+## How I checked it
 
-The final check found two defects: the reversal regex contained control characters instead of word boundaries, and the shared-URL shortcut bypassed state and reversal checks. Repairing both separated two events that had been merged. The total changed from 714 to 716; all original IDs were retained. [7]
-
-| Case | Retained report date | Why it matters |
+| Check | Result | What it tells me |
 | --- | --- | --- |
-| Uttar Pradesh Puch AI cancellation | 27 March 2026 | The report describes cancellation on 26 March after the 23 March agreement. The agreement cannot stand for both actions. |
-| Safe Kerala AI-camera payment halt | 21 June 2023 | The report describes the preceding day's court order. A payment halt belongs in reversed, not announced. |
+| Automated tests | 97 pass | The rules do what I wrote them to do. They cannot tell me whether a news article is true. |
+| Rebuild from the saved files | Same rows and values in the CSV files | Anyone can reproduce the dataset without a network. |
+| 140 labelled headline pairs | 136 found in the data. Precision 0.96, recall 1.00 | Useful for tuning. It is not an independent score, for the reason below. |
+| Screening of headlines | 545 policies screened, 171 not | The 171 are mostly from 2022 to 2024. Kerala in 2023 shows what unscreened rows look like. |
 
-![Figure 6. Evidence to collect in follow-up research](docs/figures/report/evidence_steps.png)
-Figure 6. Evidence to collect in follow-up research
+![Figure 11. Precision and recall as the bar moves [6]](docs/figures/report/precision_recall.png)
 
-The separate reference appendix contains 85 events, 113 sources and 137 event-source links. It uses different inclusion and date rules and can overlap the tracker. I have kept it separate rather than presenting an inflated combined count.
+*Figure 11. Precision and recall as the bar moves [6]*
 
-| Reference lead | What it establishes | What to find next |
-| --- | --- | --- |
-| Rajasthan GPU-server RFP dated 24 March 2026 | Procurement requirements, not installed capacity | Contract award, acceptance and operational records |
-| Odisha policy approval and Gazette publication | Different formal milestones in the inherited notes | Reopen the Gazette and link the notified text |
-| Tamil Nadu AI mission government order | A formal-instrument lead beyond a general headline | Reopen the order, then track funded activities |
+Figure 11 is why the bar sits at 0.25. It is the highest bar that still finds every labelled duplicate. Raise it and real duplicates start to slip through as separate policies. Lower it and different policies start to merge.
 
-Rajasthan's RFP was fetched in the release review. The Odisha and Tamil Nadu links timed out during that check; their inherited notes are not newly verified findings. The source links remain in the appendix so a reviewer can follow them. [8]
+I should be clear about how the screening was done. I used an AI assistant to go through the headlines, mark the ones that did not belong and label the duplicate pairs. I did not open and read every article myself. The same labelled pairs were also used to set the threshold, so 0.96 is a development number and I would not quote it as accuracy.
 
-## Use the charts to find records worth checking
+Every policy links straight to the publisher. In the list of supporting reports, 1,206 of the 1,306 links still go through a Google News redirect, which I have not resolved yet.
 
-I kept the existing dashboard because the reader needs a short route from a pattern to the reports behind it. State, category, sector and government-level filters narrow the list; the monthly heat map selects a period; source links open the evidence. The separate trends page makes the time series easier to inspect.
+## The dashboard
 
-![Figure 7. Records by half-year from the trends page [1]](docs/figures/report/trends.png)
-Figure 7. Records by half-year from the trends page [1]
+I kept the page simple. The big numbers and the growth chart come first. Below them, filters for state, category of policy, sector and level of government narrow the list, and a grid of states and months shows when things happened. Every policy opens the news reports behind it. A separate page has the trend charts for 2022 to 2026.
 
-### Rebuild the saved release
+![Figure 12. Filters and the state by month grid [1]](docs/figures/report/site_grid.png)
 
-Use Python 3.11 or later and install requirements.txt in a virtual environment. The cached release needs no paid API key. These are PowerShell commands from the repository README. [3]
+*Figure 12. Filters and the state by month grid [1]*
+
+### Run it yourself
+
+You need Python 3.11 or later. The saved responses are in the repository, so this needs no API key. [3]
 
 ```powershell
 python -m pip install -r requirements.txt
@@ -158,36 +196,43 @@ python -m scripts.validate_release
 python -m http.server 8790 --directory docs
 ```
 
-The weekly workflow collects recent candidates into a review artifact. It does not add them to the published dataset. SQLite is an export of the current tables, not a persistent observation history. The saved release and a fresh live collection are different runs and should not be expected to have identical coverage.
+The first two lines install and test. The next four rebuild the dataset from the saved responses and check it. The last one serves the dashboard at localhost:8790. These are PowerShell commands.
 
-## Files to inspect and claims to check
+## What is in the folder
 
-| Deliverable | Location in the submission folder |
+| What | Where |
 | --- | --- |
-| Answer document | 01_Submission: native Google Doc, editable Word and PDF |
-| Dataset | 02_Dataset: records.csv, records.xlsx, record_sources.csv, rejected.csv and tracker.sqlite |
-| Runnable source and history | 03_Code: code ZIP; 04_Git_History: Git bundle |
-| Reasoning and method | 05_Method_and_Research: one-page rationale, README, methodology and research appendix |
-| Checks and visuals | 06_Verification_and_Figures: validation outputs and chart assets |
+| This document | 01_Submission: Google Doc, Word and PDF |
+| Dataset | 02_Dataset: records.csv, records.xlsx, record_sources.csv, rejected.csv, tracker.sqlite |
+| Code | 03_Code: zip of the repository, with the saved responses |
+| Commit history | 04_Git_History: Git bundle |
+| Rationale and method | 05_Method_and_Research: one-page rationale, README, methodology, research notes |
+| Checks and figures | 06_Verification_and_Figures: test and validation output, chart images |
 
-### What I would improve next
+## What I would do differently
 
-First, independently review a fixed set of whole events, with no event appearing in both tuning and evaluation. Then add official orders, tenders and budgets, keeping report dates separate from action dates. Resolve supporting redirects, record later changes to articles, and test regional-language discovery. Additional providers should be judged by useful new records and failure rates on the same query set.
+Honestly, the main thing I would do differently is start from official documents sooner. News tells me something was announced. A government order, a tender or a budget line tells me it happened. The further along a policy is, the less the news says about it.
 
-### Source index
+![Figure 13. What the news says, and what proof is needed](docs/figures/report/evidence.png)
 
-<a href="https://vishnu0906.github.io/state-ai-policy-tracker/trends.html">[1] Live dashboard and trend charts</a>. Screenshots captured 11 November 2026; published counts cross-checked against the local release.
+*Figure 13. What the news says, and what proof is needed*
 
-<a href="https://github.com/VISHNU0906/state-ai-policy-tracker/tree/cde3a02553eb154f56d49928d41bd4114700f604/data/out">[2] Released records and source table</a>. 716 records; 1,306 contributing reports. Figures are computed from this release.
+I have a small start on this. A separate list of 85 policies from official documents sits in the research folder. One example is Rajasthan's tender for GPU servers, dated 24 March 2026. It proves the state asked for bids. It does not prove the servers were installed. I kept that list apart from the 716 because it follows different rules and the two overlap. [8]
 
-<a href="https://github.com/VISHNU0906/state-ai-policy-tracker/blob/cde3a02553eb154f56d49928d41bd4114700f604/README.md">[3] Collection and reproduction</a>. Source status, cached-run counts and build commands.
+With more time, I would do these in order.
 
-<a href="https://github.com/VISHNU0906/state-ai-policy-tracker/blob/cde3a02553eb154f56d49928d41bd4114700f604/METHODOLOGY.md">[4] State and date rules</a>. Input examples, precedence, precision and known parser limits.
+1. Have a person review a fixed sample of whole policies, kept away from anything used for tuning.
+2. Add government orders, tenders and budgets, each with its own date.
+3. Search in Hindi, Telugu, Tamil, Kannada, Malayalam and the other state languages.
+4. Run the paid news APIs on the same searches, and keep only the ones that find policies Google News missed.
 
-<a href="https://github.com/VISHNU0906/state-ai-policy-tracker/blob/cde3a02553eb154f56d49928d41bd4114700f604/pipeline/dedupe.py">[5] Duplicate matching implementation</a>. Tokenisation, squared rarity weights, similarity, guards and connected groups.
+## Sources
 
-<a href="https://github.com/VISHNU0906/state-ai-policy-tracker/blob/cde3a02553eb154f56d49928d41bd4114700f604/reports/dedup_diagnostic.txt">[6] Development diagnostic</a>. Overlapping headlines and development-only precision and recall.
-
-<a href="https://github.com/VISHNU0906/state-ai-policy-tracker/blob/cde3a02553eb154f56d49928d41bd4114700f604/RELEASE_NOTES.md">[7] Corrective release notes</a>. Two separated reversals, preserved IDs and regression checks.
-
-<a href="https://github.com/VISHNU0906/state-ai-policy-tracker/blob/cde3a02553eb154f56d49928d41bd4114700f604/research/RESEARCH_FINDINGS.md">[8] Document-led research appendix</a>. Official-document links, access limits and follow-up evidence.
+[[1] Live dashboard and trend charts](https://vishnu0906.github.io/state-ai-policy-tracker/trends.html). Screenshots taken on 11 November 2026.  
+[[2] Published dataset](https://github.com/VISHNU0906/state-ai-policy-tracker/tree/main/data/out). 716 policies, 1,306 news reports, 17,253 dropped items. All charts are drawn from these files.  
+[[3] README](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/README.md). Sources, saved responses and the commands to rebuild.  
+[[4] Methodology](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/METHODOLOGY.md). State and date rules, with examples.  
+[[5] Duplicate matching code](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/pipeline/dedupe.py). Word weights, the score, the cancellation rule and grouping.  
+[[6] Labelled pairs check](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/reports/dedup_diagnostic.txt). Precision and recall on 140 labelled headline pairs.  
+[[7] Release notes](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/RELEASE_NOTES.md). The two wrong merges and how they were fixed.  
+[[8] Research notes from official documents](https://github.com/VISHNU0906/state-ai-policy-tracker/blob/main/research/RESEARCH_FINDINGS.md). 85 policies with links to orders, tenders and gazette notices.  

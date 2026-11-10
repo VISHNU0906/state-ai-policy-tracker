@@ -88,7 +88,7 @@ def score():
             pairs.append((a, b, r["same_event"] == "1"))
     print(f"{len(pairs)} of {len(rows)} labelled pairs found in the corpus, {sum(y for *_, y in pairs)} same-event")
     print("threshold | tune half  P    R    F1 | test half  P    R    F1 | records")
-    for t in [0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50, 0.55, 0.60]:
+    for t in [0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50]:
         clusters = dedupe.cluster(items, threshold=t)
         home = {i: n for n, c in enumerate(clusters) for i in c}
         out = []

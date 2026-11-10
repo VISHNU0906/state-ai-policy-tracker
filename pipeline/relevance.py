@@ -43,7 +43,7 @@ AI_OTHER = re.compile(
     re.I,
 )
 # "AI" that is not artificial intelligence.
-AI_FALSE = re.compile(r"Air India|AI Express|\bAI[- ]?\d{3,4}\b|AI flight|AIADMK|avian influenza", re.I)
+AI_FALSE = re.compile(r"Air India|AI Express|\bAI[- ]?\d{3,4}\b|AI flight|AIADMK|avian influenza|artificial insemination", re.I)
 
 GOV_ACTOR = re.compile(
     r"\b(govt|government|cabinet|chief minister|minister|ministry|department|dept|secretariat|assembly"
@@ -115,7 +115,19 @@ PARTISAN = re.compile(
     r".*\b(slams?|attacks?|hits out|accus\w+|alleg\w+|mocks?|jibe|campaign|poll|election|manifesto|rally)\b",
     re.I,
 )
-FOREIGN = re.compile(r"\b(Pakistan|Lahore|China|Chinese|US |UK |Trump|Labour MP|Britain|Bangladesh|Nepal)\b")
+FOREIGN = re.compile(r"\b(United Kingdom|born in|Pakistan|Lahore|China|Chinese|US |UK |Trump|Labour MP|Britain|Bangladesh|Nepal)\b")
+# Reaction and analysis pieces about a state's AI step, not the step itself.
+COMMENTARY = re.compile(
+    r"here['\u2019]?s why|under fire|red flags?|spark(?:s|ed)? |concerns?\b|oppos(?:es|ed)\b|criticis\w+|wonders?\b|unsung|^exclusive"
+    r"|current affairs|what is\b|explains? why|backlash|controvers\w+|activists?\b|\brow\b|urges? .{0,40}\b(?:ban|halt|pause|stop)\b"
+    r"|people can['\u2019]?t believe", re.I)
+# Meetings and events with no reported outcome.
+MEETING = re.compile(
+    r"\b(meets?|met with|discuss(?:es|ed)?|interacts?|hosts?|to host|conclave|conference|seminar|workshop|webinar|expo|visits?)\b", re.I)
+OUTCOME = re.compile(
+    r"\b(sign(?:s|ed)?|ink(?:s|ed)?|MoUs?|pact|launch(?:es|ed)?|approv\w+|clear(?:s|ed)|unveil(?:s|ed)?|announc\w+|set(?:s)? up|establish\w*"
+    r"|roll(?:s|ed)? out|deploy\w*|introduc\w+|notif\w+|forms?|allocat\w+|partners?|ties up|inaugurat\w+|opens?|releases?)\b", re.I)
+
 SOCIAL_SOURCES = {"instagram", "facebook", "youtube", "x.com", "twitter", "linkedin", "threads", "reddit", "msn"}
 
 
@@ -193,6 +205,12 @@ def assess(title: str, description: str = "", source_name: str = "") -> dict:
         return out
     if not (sig["instrument"] or sig["action"]):
         out["reason"] = "no_concrete_step"
+        return out
+    if COMMENTARY.search(title) and not subject:
+        out["reason"] = "commentary_or_reaction"
+        return out
+    if MEETING.search(title) and not OUTCOME.search(title):
+        out["reason"] = "meeting_or_event_only"
         return out
     if RHETORIC.search(title) and not (sig["action"] and INSTRUMENT.search(title)):
         out["reason"] = "statement_only"

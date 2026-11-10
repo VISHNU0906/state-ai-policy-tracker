@@ -22,7 +22,7 @@ CATEGORY_RULES = [
         r"\b(task ?force|committee|council|panel|cell|cent(?:re|er)s? of excellence|CoE|university|universities|institute"
         r"|academy|lab|labs|sandbox|innovation hub|AI hub|authority|board|department of AI)\b", re.I)),
     ("Infrastructure and investment", re.compile(
-        r"\b(data cent(?:re|er)s?|AI city|compute|GPU|supercomput\w+|cloud region|campus|invest\w+|crore|billion|gigawatt|GW|MW)\b", re.I)),
+        r"\b(data cent(?:re|er)s?|AI city|compute|GPU|supercomput\w+|cloud region|campus|invest(?:s|ed|ing|ment|ments|or|ors)?|crore|billion|gigawatt|GW|MW)\b", re.I)),
     ("Partnerships and MoUs", re.compile(
         r"\b(MoUs?|memorandum|agreement|pact|tie[- ]?up|ties up|partner\w*|collaborat\w+|join(?:s|ed)? hands|ropes? in|ink(?:s|ed)?)\b", re.I)),
     ("Skilling and education", re.compile(
@@ -42,7 +42,7 @@ SECTOR_RULES = [
     ("Transport and urban", re.compile(r"\b(transport|bus(?:es)?|metro|road\w*|highway|urban|municipal|civic|city corporation|waste|water supply|smart city|parking)\b", re.I)),
     ("Revenue and finance", re.compile(r"\b(tax|GST|revenue|excise|land records?|registration|treasury|audit|procurement|graft|corruption)\b", re.I)),
     ("Industry and investment", re.compile(
-        r"\b(data cent(?:re|er)s?|invest\w+|industr\w+|startup\w*|GCC|IT sector|semiconductor|AI city|jobs|MSME)\b", re.I)),
+        r"\b(data cent(?:re|er)s?|invest(?:s|ed|ing|ment|ments|or|ors)?|industr\w+|startup\w*|GCC|IT sector|semiconductor|AI city|jobs|MSME)\b", re.I)),
     ("Governance and public services", re.compile(
         r"\b(governance|e-?governance|citizen\w*|public services?|grievance\w*|welfare|scheme\w*|ration|pension|chatbot|helpline|administration|officials|employees)\b", re.I)),
 ]
@@ -56,11 +56,12 @@ LEVEL_RULES = [
 
 
 def categorise(title: str, description: str = "") -> str:
-    # Headline first: it states the main step. Fall back to the description.
-    for text in (title, f"{title}. {description}"):
-        for name, pat in CATEGORY_RULES[:-1]:
-            if pat.search(text):
-                return name
+    # The headline states the main step, so the category is read from the headline only.
+    # Reading it from the article text was tried and dropped: one stray word in the body
+    # ("rules", "policy") changed the category of a plain deployment story.
+    for name, pat in CATEGORY_RULES[:-1]:
+        if pat.search(title):
+            return name
     return CATEGORY_RULES[-1][0]
 
 
@@ -77,3 +78,36 @@ def gov_level(title: str) -> str:
         if pat.search(title):
             return name
     return "state"
+
+
+# Stage answers "how far along is it". Announcing a plan, signing an agreement,
+# approving a policy and switching a system on are different things, and a
+# count that mixes them overstates what exists on the ground.
+STAGE_RULES = [   # listed in tie-break order
+    ("reversed", re.compile(r"\b(cancel\w*|scraps?|scrapped|revok\w+|withdraw\w*|suspend\w*|shelv\w+|halt(?:s|ed)|stalls?|stalled)\b", re.I)),
+    ("signed", re.compile(r"\b(sign(?:s|ed)|ink(?:s|ed)|MoUs?|LoI|pact|agreement|partners? with|partners\b|ties? up|tie-up|joins? hands|teams? up|collaborat\w+)\b", re.I)),
+    ("approved", re.compile(r"\b(approv\w+|clear(?:s|ed)|nod|sanction\w+|okays?|notif(?:y|ies|ied)|allocat\w+|earmark\w*|sets? aside|budget)\b", re.I)),
+    ("launched", re.compile(
+        r"\b(launch(?:es|ed)|inaugurat\w+|opens?|opened|unveil(?:s|ed)|rolls? out|rolled out|introduc(?:es|ed)|deploy(?:s|ed)|start(?:s|ed)"
+        r"|begins?|activat\w+|adopts?|issu(?:es|ed)|releas(?:es|ed)|uses?|used|using|helps?|helped|now|forms?|formed|constitut\w+|sets up|mandat\w+|bans?)\b", re.I)),
+    ("announced", re.compile(
+        r"\b(to|will|plans?|planned|propos\w+|mulls?|consider\w+|soon|eyes|set to|announc\w+|targets?|aims?|draft\w*|moots)\b", re.I)),
+]
+STAGES = [name for name, _ in STAGE_RULES] + ["unspecified"]
+
+
+def stage(title: str) -> str:
+    """The stage whose cue word comes first in the headline; listing order breaks ties.
+
+    "Assam signs MoUs to bring AI ..." is signed, not announced, because "signs"
+    comes before "to". "Maharashtra to launch ..." is announced: "to" comes first
+    and the bare verb "launch" is not a launched cue. A reversal cue anywhere wins.
+    """
+    if STAGE_RULES[0][1].search(title):
+        return "reversed"
+    best = None
+    for order, (name, pat) in enumerate(STAGE_RULES):
+        m = pat.search(title)
+        if m and (best is None or (m.start(), order) < best[:2]):
+            best = (m.start(), order, name)
+    return best[2] if best else "unspecified"

@@ -26,6 +26,7 @@ COLUMNS = [
     ("title", "Headline of the article chosen to represent the event."),
     ("summary", "One line on what happened."),
     ("category", "Kind of step taken. One value from the fixed list in pipeline/taxonomy.py."),
+    ("stage", "How far along the step is: announced, signed, approved, launched, reversed or unspecified. Read from the headline."),
     ("sector", "Area of government concerned."),
     ("gov_level", "state, local (district or city body) or judiciary (High Court)."),
     ("source_name", "Publisher of the representative article."),
@@ -37,6 +38,7 @@ COLUMNS = [
     ("review_status", "auto (rules only), reviewed (hand-checked) or llm_checked."),
 ]
 FIELDS = [c for c, _ in COLUMNS]
+SRC_FIELDS = ["record_id", "is_representative", "source_name", "date", "title", "link", "origin"]
 REJ_FIELDS = ["reason", "state", "date", "title", "source_name", "origin", "google_link", "url"]
 
 
@@ -55,6 +57,15 @@ def write_all(records: list[dict], rejected: list[dict], funnel: dict) -> None:
         w.writeheader()
         w.writerows(rejected)
 
+    # One row per news report, linked to the record it supports. A record is an event;
+    # these are the articles. Keeping both levels means no report is lost by merging.
+    sources = [{"record_id": r["record_id"], **m} for r in records for m in r.get("_members", [])]
+    with (config.OUT / "record_sources.csv").open("w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=SRC_FIELDS, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(sources)
+
+    _write_sqlite(records, sources, rejected)
     _write_xlsx(records, rejected)
     shutil.copyfile(config.OUT / "records.csv", config.SITE / "data" / "records.csv")   # the page's download link
 
@@ -74,6 +85,25 @@ def write_all(records: list[dict], rejected: list[dict], funnel: dict) -> None:
         "records": [{k: r[k] for k in FIELDS} for r in records],
     }
     (config.SITE / "data" / "records.json").write_text(json.dumps(site, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def _write_sqlite(records, sources, rejected) -> None:
+    """The same three tables as one SQLite file, for anyone who would rather query than filter."""
+    import sqlite3
+
+    path = config.OUT / "tracker.sqlite"
+    path.unlink(missing_ok=True)
+    con = sqlite3.connect(path)
+    with con:
+        for table, fields, rows, key in (("records", FIELDS, records, "record_id"), ("record_sources", SRC_FIELDS, sources, None),
+                                         ("rejected", REJ_FIELDS, rejected, None)):
+            cols = ", ".join(f"{c} TEXT" + (" PRIMARY KEY" if c == key else "") for c in fields)
+            con.execute(f"CREATE TABLE {table} ({cols})")
+            con.executemany(f"INSERT INTO {table} VALUES ({', '.join('?' * len(fields))})",
+                            [[str(r.get(c, "") if r.get(c) is not None else "") for c in fields] for r in rows])
+        con.execute("CREATE INDEX idx_sources_record ON record_sources(record_id)")
+        con.execute("CREATE INDEX idx_records_state_date ON records(state, date)")
+    con.close()
 
 
 def _write_xlsx(records, rejected) -> None:

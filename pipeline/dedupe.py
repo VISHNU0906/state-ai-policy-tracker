@@ -28,7 +28,10 @@ Method
    headline only with the first one in its cluster and split such stories
    into many records. The cost of transitive linking is that a running story
    (deal signed, questioned, then cancelled within five days) can chain into
-   one record; the measured error rate is reported in the README.
+   one record. Two guards limit this: a headline that reports a reversal
+   (cancelled, scrapped, stayed) is never linked to one that does not, and
+   the similarity required rises by DEDUP_GAP_PENALTY for each day beyond
+   one that separates two headlines. The measured error rate is in the README.
 6. Identical publisher URLs are always merged (the same article found by two
    sources).
 
@@ -66,6 +69,11 @@ SYNONYMS = {
     "course": "training", "education": "training", "learn": "training", "class": "training", "bag": "win",
     "contract": "win", "bid": "win", "establish": "setup", "build": "setup",
 }
+
+# A reversal of an earlier step is a new event, however similar the wording.
+REVERSAL = re.compile(
+    r"(cancel\w*|scraps?|scrapped|revok\w+|withdraw\w*|rolls? back|rolled back|pulls? (?:the )?plug|suspend\w*|stays?|stayed"
+    r"|drops?|dropped|shelv\w+|halts?|halted|quash\w*|terminat\w+)", re.I)
 
 _NUM = re.compile(r"\d[\d,]*(?:\.\d+)?")
 _WORD = re.compile(r"[a-z]{3,}")
@@ -106,10 +114,12 @@ def similarity(a: list[str], b: list[str], idf: dict) -> float:
     return 0.5 * shared / math.sqrt(wa * wb) + 0.5 * shared / min(wa, wb)
 
 
-def cluster(items: list[dict], threshold: float = None, window: int = None) -> list[list[int]]:
+def cluster(items: list[dict], threshold: float = None, window: int = None, gap_penalty: float = None) -> list[list[int]]:
     """items need: state, date (ISO), title, and optionally url. Returns lists of indexes."""
     threshold = config.DEDUP_THRESHOLD if threshold is None else threshold
     window = config.DEDUP_WINDOW_DAYS if window is None else window
+    gap_penalty = config.DEDUP_GAP_PENALTY if gap_penalty is None else gap_penalty
+    reversal = [bool(REVERSAL.search(it["title"])) for it in items]
     toks = [tokens(it["title"]) for it in items]
     idf = build_idf(toks)
     days = [date.fromisoformat(it["date"]).toordinal() for it in items]
@@ -132,9 +142,15 @@ def cluster(items: list[dict], threshold: float = None, window: int = None) -> l
         idxs.sort(key=lambda i: (days[i], items[i]["title"]))
         for pos, i in enumerate(idxs):
             for j in idxs[pos + 1:]:
-                if days[j] - days[i] > window:
+                gap = days[j] - days[i]
+                if gap > window:
                     break
-                if find(i) != find(j) and similarity(toks[i], toks[j], idf) >= threshold:
+                if find(i) == find(j) or reversal[i] != reversal[j]:
+                    continue
+                # Reports of one announcement bunch within a day or two. The further apart two
+                # headlines are, the more alike they must be to count as the same event.
+                needed = threshold + gap_penalty * max(0, gap - 1)
+                if similarity(toks[i], toks[j], idf) >= needed:
                     parent[find(j)] = find(i)
 
     groups = defaultdict(list)

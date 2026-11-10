@@ -14,15 +14,19 @@ SITE = ROOT / "docs"
 START = date(2025, 1, 1)
 END = date(2026, 11, 10)
 
-# Prioritised states. Chosen from data/state_sweep.csv (headline counts for all
-# 28 states over an identical six month query) with one constraint: at least
-# two states from each of four zones, so the dataset is not only the southern
-# IT states. See RATIONALE.md.
+# Prioritised states. Ten were chosen from data/state_sweep.csv (headline counts
+# for all 28 states over an identical six month query) with one constraint: at
+# least two states from each of four zones, so the dataset is not only the
+# southern IT states. Three more (Andhra Pradesh, Madhya Pradesh, Rajasthan)
+# were added so the output can be scored against an independently researched
+# reference list that covers them (data/review/reference_events.csv). The sweep
+# under-counts Andhra Pradesh and Madhya Pradesh because headlines call them
+# "AP" and "MP", which a bare-name count misses. See RATIONALE.md.
 PRIORITY_STATES = [
-    "Karnataka", "Telangana", "Tamil Nadu", "Kerala",      # South
-    "Maharashtra", "Gujarat",                              # West
-    "Uttar Pradesh", "Bihar",                              # North / Hindi belt
-    "Odisha", "Assam",                                     # East / North-East
+    "Karnataka", "Telangana", "Tamil Nadu", "Kerala", "Andhra Pradesh",   # South
+    "Maharashtra", "Gujarat", "Rajasthan",                               # West
+    "Uttar Pradesh", "Bihar", "Madhya Pradesh",                          # North and Centre
+    "Odisha", "Assam",                                                   # East and North-East
 ]
 
 # Extra search terms per state, OR-ed with the state name. Headlines often use
@@ -30,7 +34,8 @@ PRIORITY_STATES = [
 SEARCH_ALIASES = {
     "Uttar Pradesh": ['"UP govt"', '"UP government"', '"Yogi government"'],
     "Tamil Nadu": ['"TN govt"', '"TN government"'],
-    "Andhra Pradesh": ['"AP govt"', '"AP government"'],
+    "Andhra Pradesh": ['"AP govt"', '"AP government"', '"Andhra"'],
+    "Madhya Pradesh": ['"MP govt"', '"MP government"'],
     "Maharashtra": ['"Maha govt"'],
     "Odisha": ['"Orissa"'],
 }
@@ -46,6 +51,7 @@ QUERY_TEMPLATES = {
 }
 
 # Deduplication
+DEDUP_GAP_PENALTY = 0.08   # extra similarity required per day of separation beyond one day
 DEDUP_WINDOW_DAYS = 5      # two reports further apart than this are never merged
-DEDUP_THRESHOLD = 0.35     # similarity needed to link two headlines; chosen on labelled pairs, see scripts/eval_dedupe.py
+DEDUP_THRESHOLD = 0.25     # similarity needed to link two headlines; best F1 on the tuning half of the labelled pairs
 

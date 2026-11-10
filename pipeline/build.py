@@ -50,6 +50,26 @@ def source_rank(name: str) -> int:
     return 2 if any(w in n for w in LOW) else 1
 
 
+def rank_group(group: list[dict], idf: dict) -> list[dict]:
+    """Order the reports of one event by how well each would represent it.
+
+    First choice is the headline most like all the others (the typical wording of the
+    story, not an outlier angle), skipping press-release wires. Ties go to the
+    preferred outlets, then to the earliest report.
+    """
+    toks = [dedupe.tokens(r["title"]) for r in group]
+
+    def centrality(i):
+        if len(group) == 1:
+            return 0.0
+        return sum(dedupe.similarity(toks[i], toks[j], idf) for j in range(len(group)) if j != i) / (len(group) - 1)
+
+    order = sorted(range(len(group)), key=lambda i: (
+        source_rank(group[i]["source_name"]) == 2, -round(centrality(i), 2),
+        source_rank(group[i]["source_name"]), group[i]["date"], group[i]["title"]))
+    return [group[i] for i in order]
+
+
 def record_id(state: str, day: str, title: str) -> str:
     h = hashlib.sha1(f"{state}|{title.lower().strip()}".encode()).hexdigest()[:6]
     return f"{BY_NAME[state].code}-{day}-{h}"
@@ -101,16 +121,14 @@ def main(argv=None):
     funnel["passed_relevance"] = len(kept)
 
     clusters = dedupe.cluster(kept)
+    idf = dedupe.build_idf([dedupe.tokens(r["title"]) for r in kept])
     funnel["events_after_dedupe"] = len(clusters)
 
-    overrides = load_overrides()
+    overrides, seen_drop = load_overrides(), set()
     if do_enrich:
         # Fetch the first-choice page of every event up front, a few at a time. Results land in
         # the on-disk cache, so the loop below reads them back instantly and in a fixed order.
-        first = []
-        for members in clusters:
-            group = [kept[i] for i in members]
-            first.append(min(group, key=lambda r: (source_rank(r["source_name"]), r["date"], r["title"])))
+        first = [rank_group([kept[i] for i in members], idf)[0] for members in clusters]
         with ThreadPoolExecutor(max_workers=4) as pool:
             for n, _ in enumerate(pool.map(enrich.enrich, first), 1):
                 if n % 50 == 0:
@@ -122,11 +140,12 @@ def main(argv=None):
         rid = record_id(seed["state"], seed["date"], seed["title"])
         ov = overrides.get(rid, {})
         if ov.get("decision") == "drop":
+            seen_drop.add(rid)
             for r in group:
                 rejected.append({**r, "reason": "dropped_in_review:" + (ov.get("note") or "")})
             continue
 
-        ranked = sorted(group, key=lambda r: (source_rank(r["source_name"]), r["date"], r["title"]))
+        ranked = rank_group(group, idf)
         rep, page = ranked[0], {}
         if do_enrich:
             for cand in ranked[:3]:                 # fall back to the next outlet if a page is blocked
@@ -149,6 +168,7 @@ def main(argv=None):
             "title": rep["title"],
             "summary": summary,
             "category": taxonomy.categorise(rep["title"], desc),
+            "stage": taxonomy.stage(rep["title"]),
             "sector": taxonomy.sector(rep["title"], desc),
             "gov_level": taxonomy.gov_level(rep["title"]),
             "source_name": rep["source_name"],
@@ -159,10 +179,13 @@ def main(argv=None):
             "summary_basis": basis,
             "review_status": "auto",
             "_body": page.get("body_lead", ""),
+            "_members": [{"source_name": r["source_name"], "title": r["title"], "date": r["date"],
+                          "link": r.get("url") or r.get("google_link", ""), "origin": r["origin"],
+                          "is_representative": int(r is rep)} for r in group],
             "_origins": sorted({r["origin"] for r in group}),
             "_fetch": page.get("fetch_status", "not_fetched"),
         }
-        for field in ("state", "category", "sector", "gov_level", "summary", "date", "date_precision"):
+        for field in ("state", "category", "stage", "sector", "gov_level", "summary", "date", "date_precision"):
             if ov.get(field):
                 rec[field] = ov[field]
         if ov:
@@ -171,6 +194,9 @@ def main(argv=None):
                 rec["summary_basis"] = "written_in_review"
         records.append(rec)
 
+    unused = set(overrides) - {r["record_id"] for r in records} - seen_drop
+    if unused:
+        print(f"WARNING: {len(unused)} review overrides match no record: {sorted(unused)[:10]}")
     records = llm.refine(records)                    # no-op unless ANTHROPIC_API_KEY is set
     records.sort(key=lambda r: (r["date"], r["state"], r["title"]), reverse=True)
     funnel["final_records"] = len(records)
